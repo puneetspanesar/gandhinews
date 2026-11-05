@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "New WPI series weights (Primary 22.76, Fuel and Power 14.11, Manufactured 63.13), 957 items, basic prices, release on the 14th, five-year run alongside PPI: OEA press release of 15 June 2026."
-    - "August WPI figures (9.92%, fuel and power 22.93%, food index 7.05%) and India Ratings' 10.2% forecast taken from the desk's WPI preview story of 13-14 October and its sources."
+    - "New WPI series weights (Primary 22.76, Fuel and Power 14.11, Manufactured 63.13), 957 items, basic prices, release on the 14th, five-year run alongside PPI: OEA press release of June 15, 2026."
+    - "August WPI figures (9.92%, fuel and power 22.93%, food index 7.05%) and India Ratings' 10.2% forecast taken from the desk's WPI preview story of October 13-14 and its sources."
     - "CPI figures (5.54% September, food 7.74%, base 2024, food and beverages weight 36.75%) from the desk's CPI stories and explainer."
     - "Use of WPI in contract escalation clauses and in deflating parts of GDP is general background, not taken from a 2026 document; worded generally."
-    - "September WPI is released at noon on 14 October, after this piece; figures here stop at August."
+    - "September WPI is released at noon on October 14, after this piece; figures here stop at August."
 ---
 
 ## What do the two indices measure?
@@ -94,7 +94,7 @@ How much passes through depends on demand, competition and how much margin compa
 
 ## Which number does the RBI care about?
 
-**The CPI.** The Reserve Bank's legal target is retail inflation of 4%, with a band of 2% to 6%. It raised the repo rate to 5.50% on 7 October and expects retail inflation to reach about 6% in October-December.
+**The CPI.** The Reserve Bank's legal target is retail inflation of 4%, with a band of 2% to 6%. It raised the repo rate to 5.50% on October 7 and expects retail inflation to reach about 6% in October-December.
 
 The WPI still matters to it, because a sustained rise in producer costs is one of the ways retail inflation gets locked in.
 

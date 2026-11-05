@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026 09:59 IST (04:29 UTC article timestamp), Hyundai Motor India October 2026 sales release, citing BSE filing (filing itself not opened)."
+    - "event: Nov 1, 2026 09:59 IST (04:29 UTC article timestamp), Hyundai Motor India October 2026 sales release, citing BSE filing (filing itself not opened)."
     - "Single media source for Hyundai figures and Tarun Garg quotes; domestic 62,799 + exports 19,500 = 82,299 adds up. Year-ago unit figures not given in source, so only percentages used."
     - "Maruti context (pending bookings ~2.7 lakh after Dussehra, September wholesale ~2.36 lakh) from Auto India Daily live blog 08:56 IST, attributed there to earlier reports; Maruti October numbers not out by 10:00 IST."
     - "Bayon launch timing not given in source beyond 'newly launched'."

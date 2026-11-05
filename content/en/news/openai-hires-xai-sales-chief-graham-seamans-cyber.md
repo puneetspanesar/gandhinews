@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Bloomberg report (Carmen Arroyo) syndicated by Business Standard, 9:13 am IST, 17 Oct. Seamans 'said' he is joining; no direct quote available, paraphrased. OpenAI declined to comment."
+    - "Single source: Bloomberg report (Carmen Arroyo) syndicated by Business Standard, 9:13 am IST, Oct 17. Seamans 'said' he is joining; no direct quote available, paraphrased. OpenAI declined to comment."
     - "Cursor acquisition by SpaceX for $60 billion in August and the xAI-SpaceX merger as stated in the Bloomberg copy."
 ---
 

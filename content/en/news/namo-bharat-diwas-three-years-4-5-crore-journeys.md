@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: News On AIR, 18 Oct 7:44 pm. Venue of Namo Bharat Diwas event not given. Minister's remarks are paraphrased in source, so only short phrases quoted, attributed as his description."
+    - "Single source: News On AIR, Oct 18 7:44 pm. Venue of Namo Bharat Diwas event not given. Minister's remarks are paraphrased in source, so only short phrases quoted, attributed as his description."
     - "Whether the full 82 km is open: source gives corridor length 82 km and the first 17 km priority section; full-opening date not given, copy avoids saying."
 ---
 

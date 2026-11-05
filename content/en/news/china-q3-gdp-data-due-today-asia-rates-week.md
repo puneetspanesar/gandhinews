@@ -22,7 +22,7 @@ hero:
     value: "China GDP day"
 related: [tsmc-q3-profit-jumps-69-per-cent-2nm-ramp, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys]
 seo:
-  description: "China releases Q3 GDP and September industrial output, retail sales and investment data on 19 October; forecasts, plus China LPR, Bank of Korea and Japan CPI this week."
+  description: "China releases Q3 GDP and September industrial output, retail sales and investment data on October 19; forecasts, plus China LPR, Bank of Korea and Japan CPI this week."
 sources:
   - title: "Week in Focus 19-23rd October 2026: Highlights include UK, Japan and Canada inflation, China Activity Data and Global Flash PMIs"
     publisher: "Newsquawk"

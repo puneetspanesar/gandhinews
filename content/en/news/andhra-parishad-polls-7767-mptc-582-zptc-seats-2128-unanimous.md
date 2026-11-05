@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "Andhra parishad polls"
   headline: "Fewer seats on the ballot as unanimous wins pile up"
-  dek: "Polling for mandal and zilla parishads on 5 November"
+  dek: "Polling for mandal and zilla parishads on November 5"
   motif: check-square
   stats:
     - {icon: map-pin, value: "7,767", label: "MPTC seats going to polls, of 9,821"}
@@ -32,10 +32,10 @@ infographic:
   compare:
     left: {title: "MPTC", value: "2,051", text: "seats declared unanimous"}
     right: {title: "ZPTC", value: "77", text: "seats declared unanimous"}
-  source: "Andhra Pradesh State Election Commission, 4 November 2026"
+  source: "Andhra Pradesh State Election Commission, November 4, 2026"
 related: [andhra-mptc-zptc-polling-today-2-81-crore-voters, andhra-parishad-nominations-close-clashes-ysrcp-high-court, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down]
 seo:
-  description: "Andhra Pradesh MPTC and ZPTC polls on 5 November 2026: 7,767 MPTC and 582 ZPTC seats contested, 2,128 unanimous, 2.61 crore voters, 40,679 police."
+  description: "Andhra Pradesh MPTC and ZPTC polls on November 5, 2026: 7,767 MPTC and 582 ZPTC seats contested, 2,128 unanimous, 2.61 crore voters, 40,679 police."
 sources:
   - title: "All set for MPTC, ZPTC polls today"
     publisher: "The Hans India"
@@ -55,10 +55,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 07:00 IST, polling scheduled to open; SEC figures released 4 Nov evening, first published 5 Nov 03:46 IST (Hans India) and 06:14 IST (Andhra Jyothy)."
+    - "event: Nov 5 07:00 IST, polling scheduled to open; SEC figures released Nov 4 evening, first published Nov 5 03:46 IST (Hans India) and 06:14 IST (Andhra Jyothy)."
     - "No source with polling-morning reports (actual start, early turnout, incidents) found by 07:10 IST; copy says polling was due to open at 7 am. Update when SEC releases 9 am / 11 am turnout."
-    - "Voter roll 2,61,52,377 (Hans India, SEC data) differs from the 2.81 crore in the 19 Oct schedule used in our preview; this story uses the later SEC figure."
-    - "Seat totals: Hans India gives 9,821 MPTC (the 19 Oct schedule said 9,829 of 9,858) and 77 + 582 = 659 ZPTC. 2,051 + 7,767 = 9,818, the gap of three matches the three MPTC seats with no valid candidate."
+    - "Voter roll 2,61,52,377 (Hans India, SEC data) differs from the 2.81 crore in the Oct 19 schedule used in our preview; this story uses the later SEC figure."
+    - "Seat totals: Hans India gives 9,821 MPTC (the Oct 19 schedule said 9,829 of 9,858) and 77 + 582 = 659 ZPTC. 2,051 + 7,767 = 9,818, the gap of three matches the three MPTC seats with no valid candidate."
     - "Punetha quote is translated from Telugu (Andhra Jyothy); 'no major obstacle' line is paraphrase (Hans India). Single-source details from Hans India: 40,679 police, 16,064 CCTV locations, 31,460 problematic stations."
 ---
 

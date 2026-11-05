@@ -51,12 +51,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Remand, Vipin Kumar, Neelam Rani and Laadi arrests, licence in Neelam's name, call records, five FIRs, BNS sections, SSP quote, gun not seized: PTI via ThePrint, 15 Oct 10:53 pm. PTI spells the associate both 'Vipan' and 'Vipin'; copy uses Vipin. Single wire source, two outlets not cross-checked."
-    - "Conflict: our 15 Oct morning story said Kumar was arrested 'with the pistol' (earlier reports). PTI on the night of 15 Oct says 'the gun has not been seized yet'. Copy follows the later PTI line and flags it."
+    - "Remand, Vipin Kumar, Neelam Rani and Laadi arrests, licence in Neelam's name, call records, five FIRs, BNS sections, SSP quote, gun not seized: PTI via ThePrint, Oct 15 10:53 pm. PTI spells the associate both 'Vipan' and 'Vipin'; copy uses Vipin. Single wire source, two outlets not cross-checked."
+    - "Conflict: our Oct 15 morning story said Kumar was arrested 'with the pistol' (earlier reports). PTI on the night of Oct 15 says 'the gun has not been seized yet'. Copy follows the later PTI line and flags it."
     - "Seven-day remand also reported by ThePrint's own reporter (Mayank Kumar, 9:46 pm)."
     - "Majithia quotes and DIG's 'Yudh Nashian Virudh' remark: ThePrint ground report. Majithia referred to the SHO's 'transfer'; she was in fact suspended (PTI, earlier SSP order)."
     - "Rahul Gandhi's post is paraphrased (National Herald gives no direct quote; platform not named). Pilot quote from PTI Videos interview as carried by National Herald. Pilot's encounter and grenade figures left out (his claims, not checked)."
-    - "Phillaur meeting at Punjab Police Academy on 16 Oct: UNI (13 Oct, paywalled lede) and Tribune headline (SSPs, SDMs, DSPs). No later confirmation of timing found."
+    - "Phillaur meeting at Punjab Police Academy on Oct 16: UNI (Oct 13, paywalled lede) and Tribune headline (SSPs, SDMs, DSPs). No later confirmation of timing found."
     - "No report found of fresh talks between the family and officials on Thursday evening; copy says only that the family still refuses the cremation (PTI)."
 ---
 

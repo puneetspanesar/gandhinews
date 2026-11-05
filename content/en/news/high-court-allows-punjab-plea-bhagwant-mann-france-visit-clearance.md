@@ -11,7 +11,7 @@ published: 2026-10-16T13:15:00+05:30
 location: Chandigarh
 keyPoints:
   - "Justice Tribhuvan Dahiya **allowed the Punjab government's petition** against the denial of clearance."
-  - "Mann was to lead a delegation to **SIAL Paris 2026**, a food trade fair running from 17 to 21 October."
+  - "Mann was to lead a delegation to **SIAL Paris 2026**, a food trade fair running from October 17 to 21."
   - "The Centre cited **security inputs** and the lack of a formal invitation from France."
 hero:
   need: "Two-panel: Punjab Chief Minister Bhagwant Mann and the Punjab and Haryana High Court building in Chandigarh"
@@ -22,7 +22,7 @@ hero:
     value: "Cleared for Paris, by court order"
 related: [supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case, amit-shah-punjab-drugs-gangsters-organised-crime]
 seo:
-  description: "The Punjab and Haryana High Court on 16 October set aside the Centre's denial of political clearance for CM Bhagwant Mann's France visit for the SIAL Paris food fair."
+  description: "The Punjab and Haryana High Court on October 16 set aside the Centre's denial of political clearance for CM Bhagwant Mann's France visit for the SIAL Paris food fair."
 sources:
   - title: "High Court Sets Aside Centre's Denial Of Political Clearance For Punjab CM Bhagwant Mann's France Visit"
     publisher: "LiveLaw"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Ruling: LiveLaw alert 12:36 pm and full report; The Statesman 5:52 pm. Judge named by LiveLaw only. Detailed order awaited; reasoning not known."
     - "ASG Satya Pal Jain quote and AAG Chanchal Singla's arguments (veto, Haryana CM comparison, Japan visit Rs 2,000 crore) from LiveLaw only. Japan figure is the state's claim in court."
-    - "Planned dates 15 to 21 October (both outlets). Whether Mann will now travel, and when, not reported. No reaction from Mann, AAP or the MEA found."
+    - "Planned dates October 15 to 21 (both outlets). Whether Mann will now travel, and when, not reported. No reaction from Mann, AAP or the MEA found."
     - "Delegation to include Chief Secretary and Principal Secretary to CM: The Statesman."
 ---
 
@@ -52,9 +52,9 @@ The Punjab and Haryana High Court on Friday set aside the Centre's refusal to gr
 
 Justice Tribhuvan Dahiya allowed the Punjab government's petition after a long hearing. The detailed order is awaited.
 
-Mann was to lead a delegation, including the Chief Secretary and his Principal Secretary, to SIAL Paris 2026, an international food exhibition at Paris Nord Villepinte from 17 to 21 October. The state's cooperative marketing federation, Markfed, has a stall in the India Pavilion run by APEDA, which comes under the Union Commerce Ministry, and was to bear the full cost. The itinerary included meetings with trade bodies, investors and the Punjabi diaspora, and with the Indian Ambassador to France.
+Mann was to lead a delegation, including the Chief Secretary and his Principal Secretary, to SIAL Paris 2026, an international food exhibition at Paris Nord Villepinte from October 17 to 21. The state's cooperative marketing federation, Markfed, has a stall in the India Pavilion run by APEDA, which comes under the Union Commerce Ministry, and was to bear the full cost. The itinerary included meetings with trade bodies, investors and the Punjabi diaspora, and with the Indian Ambassador to France.
 
-Punjab applied for clearance on 9 September, 36 days before the planned departure on 15 October. The Ministry of External Affairs did not reply to the state's letters and marked the application "DENIED" on its online portal.
+Punjab applied for clearance on September 9, 36 days before the planned departure on October 15. The Ministry of External Affairs did not reply to the state's letters and marked the application "DENIED" on its online portal.
 
 In court, Additional Solicitor General Satya Pal Jain said the Centre had inputs about threats to the Chief Minister, and that without a formal invitation the host country could not arrange his security. "We don't want anything happens to CM abroad," he said.
 

@@ -11,7 +11,7 @@ published: 2026-10-22T10:05:00+05:30
 location: Amaravati
 keyPoints:
   - "The election process in **13 municipal corporations and 87 municipalities and nagar panchayats** has been stopped."
-  - "The Supreme Court barred the final candidate list **before 25 October** and asked the commission to weigh more time for nominations."
+  - "The Supreme Court barred the final candidate list **before October 25** and asked the commission to weigh more time for nominations."
   - "TDP and YSRCP workers clashed at nomination centres in **Anantapur, Narasaraopet and Kasapuram** on Thursday."
 hero:
   need: "Andhra Pradesh State Election Commission office, or a municipal poll nomination centre in Andhra Pradesh"
@@ -22,7 +22,7 @@ hero:
     value: "100 civic polls put on hold"
 related: [supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks]
 seo:
-  description: "Andhra Pradesh SEC Anil Chandra Punetha halted the election process in all 100 urban local bodies on 22 October 2026 after a Supreme Court order on YSRCP's plea."
+  description: "Andhra Pradesh SEC Anil Chandra Punetha halted the election process in all 100 urban local bodies on October 22, 2026, after a Supreme Court order on YSRCP's plea."
 sources:
   - title: "Andhra SEC halts polls in 100 ULBs after SC orders"
     publisher: "ThePrint (PTI)"
@@ -49,8 +49,8 @@ verification:
   notes:
     - "Halt order and quote 'shall be stopped forthwith': PTI via ThePrint (12:45 pm) and ETV Bharat (2:45 pm); release issued late Wednesday. Hans India 9:51 am. Published time set to mid-morning."
     - "Naidu, Pawan Kalyan and Madhav joint line (will abide by SEC, YSRCP filed 59 petitions) and all nomination-day clashes, house arrests of Avinash Reddy, Dadisetti Raja, Gopireddy: ETV Bharat Telugu live blog only; hedged as 'said' with no direct quote. Bonda Uma remark also from live blog, paraphrased."
-    - "SEC decision on extending nominations was due on 22 Oct; not reported by 3:30 pm. Polling date of the ULB polls not given in sources; live blog says polling may slip three to four days (reports), left out."
-    - "Rural MPTC/ZPTC polls on 3 November per earlier Gandhi News story; nominations continuing; these are separate from the halted ULB process."
+    - "SEC decision on extending nominations was due on Oct 22; not reported by 3:30 pm. Polling date of the ULB polls not given in sources; live blog says polling may slip three to four days (reports), left out."
+    - "Rural MPTC/ZPTC polls on November 3 per earlier Gandhi News story; nominations continuing; these are separate from the halted ULB process."
 ---
 
 Andhra Pradesh's State Election Commission has stopped the election process in all 100 of the state's urban local bodies, a day after the Supreme Court told it to hold back the final list of candidates and reconsider whether opposition candidates had been kept from filing their papers.
@@ -59,11 +59,11 @@ State Election Commissioner Anil Chandra Punetha's order, issued late on Wednesd
 
 ## What the court asked for
 
-The halt follows a special leave petition by the YSR Congress Party against the Andhra Pradesh High Court's refusal to extend the nomination deadline, which closed on 19 October. The party said its candidates were attacked, threatened and stopped from reaching nomination centres in Punganur, Rayachoti, Kadapa and Tirupati, and asked for police protection so they could file "without fear."
+The halt follows a special leave petition by the YSR Congress Party against the Andhra Pradesh High Court's refusal to extend the nomination deadline, which closed on October 19. The party said its candidates were attacked, threatened and stopped from reaching nomination centres in Punganur, Rayachoti, Kadapa and Tirupati, and asked for police protection so they could file "without fear."
 
-The Supreme Court directed the commission not to publish the final candidate list before 25 October, to hear representations from the YSRCP and its candidates, and to examine evidence, including electronic evidence, on whether people were unable to file because of the law and order situation. Punetha said the commission would decide on Thursday whether to extend the deadline. Any extension must run for at least 48 hours from the time the decision is published, through an amendment to the election notification.
+The Supreme Court directed the commission not to publish the final candidate list before October 25, to hear representations from the YSRCP and its candidates, and to examine evidence, including electronic evidence, on whether people were unable to file because of the law and order situation. Punetha said the commission would decide on Thursday whether to extend the deadline. Any extension must run for at least 48 hours from the time the decision is published, through an amendment to the election notification.
 
-The notification was issued on 14 October, nominations ran from 16 to 18 October and scrutiny was held on 19 October.
+The notification was issued on October 14, nominations ran from October 16 to 18 and scrutiny was held on October 19.
 
 ## The ruling alliance responds
 

@@ -22,7 +22,7 @@ hero:
     value: "Sensex up 1,030 points at day's high"
 related: [sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-week-october-30-pharma-fii-return, india-manufacturing-pmi-october-final-54-7-export-orders, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
-  description: "Stock market today, 2 November 2026: Sensex jumps 1,030 points to an intraday high of 75,489.70 and Nifty to 23,330.70, with Reliance Industries contributing about 400 points, metals leading and pharma the only sector in the red."
+  description: "Stock market today, November 2, 2026: Sensex jumps 1,030 points to an intraday high of 75,489.70 and Nifty to 23,330.70, with Reliance Industries contributing about 400 points, metals leading and pharma the only sector in the red."
 cover:
   template: business
   label: "Markets"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, intraday high reached before 10:09 IST (Business Standard 'six reasons' piece published 10:09 IST: Sensex +1,030 / 1.38% at 75,489.70, Nifty +278 / 1.20% at 23,330.70). This is a new high after the 10:00 IST levels in the opening story (Sensex 75,429.53)."
+    - "event: Nov 2, intraday high reached before 10:09 IST (Business Standard 'six reasons' piece published 10:09 IST: Sensex +1,030 / 1.38% at 75,489.70, Nifty +278 / 1.20% at 23,330.70). This is a new high after the 10:00 IST levels in the opening story (Sensex 75,429.53)."
     - "No 11 am index levels could be sourced: the Business Standard live blog failed to load and hdfcsky index was not reachable. Copy does not claim 11 am levels."
     - "Business Standard market-cap figure (₹489.30 trillion vs ₹474.37 trillion, 'about ₹5.9 trillion') is internally inconsistent and conflicts with the opening story's Friday base; not used."
     - "Delhivery ~9% and Reliance nearly 7%: Business Standard headlines. 15 of 16 sectoral indices up: Dainik Jagran (data ~9:42). Tata Steel, NTPC +3.3% at 9:32 IST: Upstox."

@@ -10,9 +10,9 @@ standfirst: "The US Labor Department has frozen new and pending PERM filings fro
 published: 2026-10-11T10:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The US Labor Department said on 8 October it would **not accept or process PERM labour certifications** involving eight companies, including TCS, Infosys, Wipro and HCL."
+  - "The US Labor Department said on October 8 it would **not accept or process PERM labour certifications** involving eight companies, including TCS, Infosys, Wipro and HCL."
   - "PERM is required for most employment-based green cards; Reuters reported the freeze does **not appear to directly affect current H-1B holders**."
-  - "The MEA said on 9 October that Vice President JD Vance's 'indentured servants' remark was **unwarranted and deeply offensive**."
+  - "The MEA said on October 9 that Vice President JD Vance's 'indentured servants' remark was **unwarranted and deeply offensive**."
   - "TCS said its PERM applications were in single digits over the last two years and it **did not expect an impact** on its US workforce plans."
 hero:
   need: "US Department of Labor building in Washington, or an Indian IT campus exterior"
@@ -52,10 +52,10 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact check 11 Oct 2026: Reuters (Khaleej Times), Gulf News, ThePrint, Business Today and Deccan Chronicle reopened; all quotes used match. Corrections: 'six of them IT outsourcing firms' is in no source and was removed (lede and facts box); 'J-1 exchange visitor visas' changed to the sourced 'exchange-visitor visas' (no source names J-1); 'India was in touch with US authorities' re-attributed to Business Today's wording ('remains in communication'), as it is not shown as a direct MEA quote; headline changed because 'bars from green-card sponsorship' overstated a PERM processing freeze and two of the eight firms are American."
+    - "Fact check Oct 11, 2026: Reuters (Khaleej Times), Gulf News, ThePrint, Business Today and Deccan Chronicle reopened; all quotes used match. Corrections: 'six of them IT outsourcing firms' is in no source and was removed (lede and facts box); 'J-1 exchange visitor visas' changed to the sourced 'exchange-visitor visas' (no source names J-1); 'India was in touch with US authorities' re-attributed to Business Today's wording ('remains in communication'), as it is not shown as a direct MEA quote; headline changed because 'bars from green-card sponsorship' overstated a PERM processing freeze and two of the eight firms are American."
     - "Also corrected: Reuters says only that the freeze 'does not appear to directly affect current holders of H-1B visas'; the claim that it does not cancel existing green cards was unsourced and removed."
-    - "Reuters reports TCS declined to comment to Reuters before issuing its 9 October statement."
-    - "MEA statement quoted from ThePrint and Business Today, which embed or excerpt the MEA's 9 October statement (X post by spokesperson Randhir Jaiswal). mea.gov.in could not be opened; check the full text before publishing."
+    - "Reuters reports TCS declined to comment to Reuters before issuing its October 9 statement."
+    - "MEA statement quoted from ThePrint and Business Today, which embed or excerpt the MEA's October 9 statement (X post by spokesperson Randhir Jaiswal). mea.gov.in could not be opened; check the full text before publishing."
     - "No US Department of Labor press release was opened. Sonderling's words come from Reuters copy; his 230,000 H-1B / 100,000 PERM figures are his claims as reported by ThePrint, not audited data."
     - "Vance's Microsoft figures (6,000 layoffs, 6,300 H-1B visas, nearly 3,000 green cards) come from Gulf News citing Reuters and AP; Reuters' own copy as read did not include them. Treat as reported."
     - "Research notes said the Labor Secretary cited criminal investigations by the department's Inspector General (IANS). Reuters and ThePrint describe the grounds as alleged fraud / fraudulent hiring practices; used that wording instead."
@@ -63,7 +63,7 @@ verification:
     - "Duration of the suspension and number of workers affected were not stated by the US government in any source read."
 ---
 
-The US Labor Department said on 8 October that it would stop processing labour certifications for green cards sponsored by eight companies, including four large Indian IT firms. The next day, India's Ministry of External Affairs (MEA) objected to Vice President JD Vance's description of foreign workers hired in place of Americans as "foreign indentured servants".
+The US Labor Department said on October 8 that it would stop processing labour certifications for green cards sponsored by eight companies, including four large Indian IT firms. The next day, India's Ministry of External Affairs (MEA) objected to Vice President JD Vance's description of foreign workers hired in place of Americans as "foreign indentured servants".
 
 The companies are Tata Consultancy Services, Infosys, Wipro, HCL Technologies, Cognizant, Capgemini, Microsoft and Adobe, according to Reuters and Gulf News.
 
@@ -76,31 +76,31 @@ The administration cited fraudulent hiring practices, ThePrint reported. Sonderl
 The freeze does not appear to directly affect current H-1B visa holders, Reuters reported. It could, however, block a common route by which employers sponsor those workers for permanent residence.
 
 ```facts
-{"title":"The PERM suspension in numbers","items":[{"value":"8","label":"companies suspended, including TCS, Infosys, Wipro and HCL","source":"Reuters; Gulf News"},{"value":"230,000","label":"H-1B visas the companies received since 2009, according to the US Labor Secretary","source":"ThePrint, 9 Oct 2026"},{"value":"15,000","label":"additional US hires TCS plans over five years","source":"TCS statement, 9 Oct 2026"},{"value":"2%","label":"rise in the Nifty IT index on 9 October","source":"Business Today"}]}
+{"title":"The PERM suspension in numbers","items":[{"value":"8","label":"companies suspended, including TCS, Infosys, Wipro and HCL","source":"Reuters; Gulf News"},{"value":"230,000","label":"H-1B visas the companies received since 2009, according to the US Labor Secretary","source":"ThePrint, Oct 9, 2026"},{"value":"15,000","label":"additional US hires TCS plans over five years","source":"TCS statement, Oct 9, 2026"},{"value":"2%","label":"rise in the Nifty IT index on October 9","source":"Business Today"}]}
 ```
 
 ## Vance's remarks
 
-At a White House news conference on 8 October, Vance singled out Microsoft. "You're a great American company, but you've got to hire great American workers," he said, according to Reuters. He alleged that Microsoft laid off 6,000 American workers last year while obtaining 6,300 H-1B visas and nearly 3,000 green cards, Gulf News reported, citing Reuters and AP. He also claimed that H-1B workers brought in by outsourcing firms earn $48,000 less than American citizens, Business Today reported. These are Vance's allegations, not findings.
+At a White House news conference on October 8, Vance singled out Microsoft. "You're a great American company, but you've got to hire great American workers," he said, according to Reuters. He alleged that Microsoft laid off 6,000 American workers last year while obtaining 6,300 H-1B visas and nearly 3,000 green cards, Gulf News reported, citing Reuters and AP. He also claimed that H-1B workers brought in by outsourcing firms earn $48,000 less than American citizens, Business Today reported. These are Vance's allegations, not findings.
 
 Vance said nine universities, including Harvard, Yale and Stanford, would be investigated over what the administration called "misuse of exchange-visitor visas", Reuters reported.
 
 ## India's response
 
-The MEA said in a statement on 9 October that the US steps "do not advance the shared ambitions of both countries", ThePrint reported. It called the description of Indian professionals "unwarranted and deeply offensive".
+The MEA said in a statement on October 9 that the US steps "do not advance the shared ambitions of both countries", ThePrint reported. It called the description of Indian professionals "unwarranted and deeply offensive".
 
 > Resorting to terminology that carries painful historical and colonial legacy connotations is deeply offensive.
 >
-> Source: Ministry of External Affairs, statement, 9 October 2026 (as reported by ThePrint and Business Today)
+> Source: Ministry of External Affairs, statement, October 9, 2026 (as reported by ThePrint and Business Today)
 
 The ministry said Indian professionals in the US are "highly educated and skilled contributors to its economy and innovation ecosystem" and that talent mobility "adds value to both economies". Business Today reported that India remains in communication with US authorities on the matter.
 
 ## What the companies said
 
-TCS said it would comply with any Labor Department directive. "Our PERM applications were in single digits in the last two years and hence we do not expect the suspension of the program to impact our workforce strategy and customer engagements," the company said on 9 October. It repeated a plan to hire 15,000 more people in the US over five years.
+TCS said it would comply with any Labor Department directive. "Our PERM applications were in single digits in the last two years and hence we do not expect the suspension of the program to impact our workforce strategy and customer engagements," the company said on October 9. It repeated a plan to hire 15,000 more people in the US over five years.
 
-Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to Reuters' requests for comment. Indian IT shares rose on 9 October, with TCS up about 5% and the Nifty IT index up 2%, Business Today reported.
+Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to Reuters' requests for comment. Indian IT shares rose on October 9, with TCS up about 5% and the Nifty IT index up 2%, Business Today reported.
 
 ## What else is pending
 
-A separate US proposal for a $70,000 fee on universities that recommend international students for Optional Practical Training was announced on 7 October. It has not taken effect, Gulf News reported.
+A separate US proposal for a $70,000 fee on universities that recommend international students for Optional Practical Training was announced on October 7. It has not taken effect, Gulf News reported.

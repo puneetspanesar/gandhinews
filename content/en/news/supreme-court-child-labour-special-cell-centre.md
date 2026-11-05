@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: order made public 4 Nov 12:34 IST (LiveLaw report), alert 12:54 IST. The order itself may be dated 29 Oct 2026 (PDF filename per LiveLaw); copy says 'in an order made public on Wednesday' and does not give a pronouncement date."
+    - "event: order made public Nov 4 12:34 IST (LiveLaw report), alert 12:54 IST. The order itself may be dated Oct 29, 2026 (PDF filename per LiveLaw); copy says 'in an order made public on Wednesday' and does not give a pronouncement date."
     - "Bench: Justices SVN Bhatti and NV Anjaria. W.P.(C) 501/2009. Counsel: Prashant Bhushan (petitioner), ASG Aishwarya Bhati (respondents). Single source (LiveLaw); no child labour statistics, deadline or next date in the report, none given in copy."
     - "Quote on 'giving complete and full effect...' is from the order as quoted by LiveLaw."
 ---

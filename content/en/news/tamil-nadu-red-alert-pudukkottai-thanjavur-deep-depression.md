@@ -22,7 +22,7 @@ hero:
     value: "Red alert in the delta"
 related: [nilgiris-landslide-bus-driver-killed-passengers-escape, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
 seo:
-  description: "IMD Chennai issued a red alert for Pudukkottai, Thanjavur, Ariyalur, Perambalur and Tiruchirappalli on 25 October 2026; Chennai is on yellow alert."
+  description: "IMD Chennai issued a red alert for Pudukkottai, Thanjavur, Ariyalur, Perambalur and Tiruchirappalli on October 25, 2026; Chennai is on yellow alert."
 sources:
   - title: "Chennai weather update: IMD Red Alert for Tamil Nadu means more rain for capital too?"
     publisher: "The Week"
@@ -52,7 +52,7 @@ The hills have already taken a battering. In the 24 hours to 8:30 am on Saturday
 
 ## What is driving the rain
 
-A low-pressure area over the east-central and south-east Bay of Bengal strengthened into a well-marked low and then a depression on Saturday. The weather department expects it to become a deep depression on Sunday and possibly a cyclonic storm over the west-central Bay by Monday morning, moving towards the Andhra Pradesh coast by 28 October.
+A low-pressure area over the east-central and south-east Bay of Bengal strengthened into a well-marked low and then a depression on Saturday. The weather department expects it to become a deep depression on Sunday and possibly a cyclonic storm over the west-central Bay by Monday morning, moving towards the Andhra Pradesh coast by October 28.
 
 ## The next few days
 

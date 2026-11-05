@@ -32,7 +32,7 @@ infographic:
   compare:
     left: {title: "End of 2024", value: "2,04,122", text: "cases pending"}
     right: {title: "End of 2025", value: "2,45,579", text: "cases pending"}
-  source: "Union Cabinet, 4 November 2026; Law Ministry reply in the Lok Sabha, July 2026"
+  source: "Union Cabinet, November 4, 2026; Law Ministry reply in the Lok Sabha, July 2026"
 related: [cabinet-fast-track-special-courts-2031-850-courts, fast-track-special-courts-explained-rape-pocso-backlog]
 seo:
   description: "Gandhi News editorial: the Cabinet has extended fast-track courts for rape and POCSO cases to 2031, but with 2.45 lakh cases pending they need judges, staff and faster forensic labs to work."
@@ -60,15 +60,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Cabinet facts (till 31 March 2031, 779 to 850 courts, ₹3,788.04 crore, ₹2,353.15 crore from Nirbhaya Fund, 4.02 lakh cases disposed since 2 October 2019, Vaishnaw quote, Department of Justice dashboard) from the desk's 4 Nov news story (Deccan Chronicle, Dynamite News, UNI). PIB release not found in search; UNI and Deccan Chronicle pages could not be fetched this run."
-    - "Pendency 2,45,579 (end-2025) vs 2,04,122 (end-2024); instituted 81,471/88,902/1,43,936 and disposed 76,319/85,595/66,500 for 2023/2024/2025; 775 courts vs target 790 as of 30 April 2026; Jharkhand exit July 2025; 9.51 vs 3.26 cases per court per month (Centre's 11 Dec 2025 statement); states and High Courts recruit: all from The South First, 24 July 2026, citing Law Ministry data tabled in the Lok Sabha (MoS Arjun Ram Meghwal). Lok Sabha paper itself not opened. The 2025 jump in instituted cases is as reported; not explained in the source."
+    - "Editorial view of the desk. Cabinet facts (till March 31, 2031, 779 to 850 courts, ₹3,788.04 crore, ₹2,353.15 crore from Nirbhaya Fund, 4.02 lakh cases disposed since October 2, 2019, Vaishnaw quote, Department of Justice dashboard) from the desk's Nov 4 news story (Deccan Chronicle, Dynamite News, UNI). PIB release not found in search; UNI and Deccan Chronicle pages could not be fetched this run."
+    - "Pendency 2,45,579 (end-2025) vs 2,04,122 (end-2024); instituted 81,471/88,902/1,43,936 and disposed 76,319/85,595/66,500 for 2023/2024/2025; 775 courts vs target 790 as of April 30, 2026; Jharkhand exit July 2025; 9.51 vs 3.26 cases per court per month (Centre's Dec 11, 2025, statement); states and High Courts recruit: all from The South First, July 24, 2026, citing Law Ministry data tabled in the Lok Sabha (MoS Arjun Ram Meghwal). Lok Sabha paper itself not opened. The 2025 jump in instituted cases is as reported; not explained in the source."
     - "Rough capacity line (850 x 9.51 x 12 = about 97,000 a year) is the desk's own arithmetic from the government's rate, stated as approximate."
-    - "Punjab and Haryana HC suo motu, Justice Harpreet Singh Brar, 73 DNA reports awaited in Faridabad, 40 accused in custody five years, 'indolent laxity', lab shortage in Punjab, Haryana and Chandigarh: The Tribune, 26 Aug 2024."
+    - "Punjab and Haryana HC suo motu, Justice Harpreet Singh Brar, 73 DNA reports awaited in Faridabad, 40 accused in custody five years, 'indolent laxity', lab shortage in Punjab, Haryana and Chandigarh: The Tribune, Aug 26, 2024."
     - "POCSO Act Section 35(2): trial to be completed, as far as possible, within one year of cognisance (statute)."
     - "Hero is the Law Minister as the minister responsible for the scheme; Vaishnaw was used on the news story. Recommendations are the desk's own."
 ---
 
-On Wednesday the Union Cabinet gave the Fast Track Special Courts scheme **five more years and 71 more courts**. The courts that try rape cases and sexual offences against children will now run until 31 March 2031, their number rising from 779 to 850, at a cost of ₹3,788.04 crore, most of it from the Nirbhaya Fund. Union Minister Ashwini Vaishnaw said the aim was "to ensure faster justice in cases of rape and child sexual abuse".
+On Wednesday the Union Cabinet gave the Fast Track Special Courts scheme **five more years and 71 more courts**. The courts that try rape cases and sexual offences against children will now run until March 31, 2031, their number rising from 779 to 850, at a cost of ₹3,788.04 crore, most of it from the Nirbhaya Fund. Union Minister Ashwini Vaishnaw said the aim was "to ensure faster justice in cases of rape and child sexual abuse".
 
 Nobody should argue with that aim, or with the money. By the government's own count a dedicated court decides **about 9.5 cases a month**, against about 3.3 in a regular court. Since October 2019 these courts have disposed of more than 4.02 lakh cases. Many survivors who would otherwise have waited years have had a verdict.
 
@@ -76,7 +76,7 @@ But an extension is the easy part. The scheme's own numbers say it is losing gro
 
 ## A backlog that keeps growing
 
-Figures the Law Ministry placed before the Lok Sabha in July show that **pending cases rose to 2,45,579** at the end of 2025, from 2,04,122 a year earlier. In 2025, 1,43,936 new cases reached these courts and only 66,500 were decided, fewer than in either of the two years before. As of 30 April this year, 775 courts were working against a target of 790. Jharkhand left the scheme in July 2025 and now has none.
+Figures the Law Ministry placed before the Lok Sabha in July show that **pending cases rose to 2,45,579** at the end of 2025, from 2,04,122 a year earlier. In 2025, 1,43,936 new cases reached these courts and only 66,500 were decided, fewer than in either of the two years before. As of April 30 this year, 775 courts were working against a target of 790. Jharkhand left the scheme in July 2025 and now has none.
 
 ```chart
 {"type":"vbar","title":"Rape and POCSO cases decided by fast-track courts each year","unit":"","data":[{"label":"2023","value":76319},{"label":"2024","value":85595},{"label":"2025","value":66500}]}

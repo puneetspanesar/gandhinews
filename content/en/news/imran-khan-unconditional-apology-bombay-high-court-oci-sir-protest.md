@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "The Bombay High Court told actor Imran Khan to file **an unconditional apology** and an undertaking not to join such protests."
   - "The stay on the **FRRO's leave-India notice** continues until he is heard."
-  - "The case returns to court **on 7 December**."
+  - "The case returns to court **on December 7**."
 hero:
   need: "Actor Imran Khan, with the Bombay High Court building"
   suggested_source: "Imran Khan (Indian actor)"
@@ -22,7 +22,7 @@ hero:
     value: "'OCIs are not citizens'"
 related: [imran-khan-bombay-high-court-frro-leave-india-notice, courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches]
 seo:
-  description: "The Bombay High Court on 2 November 2026 asked actor Imran Khan, an OCI cardholder, to apologise for joining a protest against CEC Gyanesh Kumar and kept the leave-India notice on hold."
+  description: "The Bombay High Court on November 2, 2026, asked actor Imran Khan, an OCI cardholder, to apologise for joining a protest against CEC Gyanesh Kumar and kept the leave-India notice on hold."
 sources:
   - title: "OCIs Are Not Citizens: Bombay High Court Asks Imran Khan To Apologise For Participating In SIR Protest, Extends Stay On Leave India Notice"
     publisher: "LiveLaw"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov afternoon hearing, Imran Khan Pal v Union of India, WP(L) 36271 of 2026, CJ Mahesh Chandra Tripathi and Justice Advait Sethna; LiveLaw report published 16:38 IST. Exact hearing time not given."
+    - "event: Nov 2 afternoon hearing, Imran Khan Pal v Union of India, WP(L) 36271 of 2026, CJ Mahesh Chandra Tripathi and Justice Advait Sethna; LiveLaw report published 16:38 IST. Exact hearing time not given."
     - "Single source (LiveLaw). Bench remarks are oral and reported mostly in indirect speech; only short phrases used in quotes ('unconditional apology', 'cannot criticise', 'this will not be tolerated', 'instigated people')."
     - "'Out of curiosity' is the ASG's description of Khan's plea, per LiveLaw."
     - "State's reply on FIR status not reported."
@@ -51,7 +51,7 @@ A bench of Chief Justice Mahesh Chandra Tripathi and Justice Advait Sethna said 
 {"n":1,"subject":"Bombay High Court","caption":"The Bombay High Court in Mumbai, where Chief Justice Mahesh Chandra Tripathi's bench heard Khan's petition.","alt":"The Bombay High Court building, Mumbai"}
 ```
 
-The court still gave the actor relief. The **stay on the leave-India notice** issued by the Foreigners Regional Registration Office (FRRO), Mumbai, will continue until the office decides the matter after hearing him. The notice had told Khan to leave by 28 October. The judges accepted that the Centre has sovereign power over OCI holders but said he should get a chance to respond, noting that he had lived in India for years and asking what would happen if police later found nothing against him.
+The court still gave the actor relief. The **stay on the leave-India notice** issued by the Foreigners Regional Registration Office (FRRO), Mumbai, will continue until the office decides the matter after hearing him. The notice had told Khan to leave by October 28. The judges accepted that the Centre has sovereign power over OCI holders but said he should get a chance to respond, noting that he had lived in India for years and asking what would happen if police later found nothing against him.
 
 Senior Advocate Venkatesh Dhond, for Khan, said the 42-year-old was born in the United States, spent two years there and has lived in India the rest of his life. He said Khan **has not been called for any inquiry**, has no link with the organisers and would give an undertaking not to join protests.
 
@@ -61,4 +61,4 @@ Additional Solicitor General Anil Singh said OCI holders have very limited right
 {"n":2,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose resignation the Mumbai protesters demanded.","alt":"Chief Election Commissioner Gyanesh Kumar"}
 ```
 
-The case will be heard next **on 7 December**.
+The case will be heard next **on December 7**.

@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Naidu review details and his phrases ('prioritise public safety and work towards zero casualties', 'protecting lives must remain the administration's foremost priority') from M9 News only (published 10 pm IST 25 Oct). Exact time of the review not stated; treated as Sunday. Phrases quoted as reported, may be translated from Telugu."
+    - "Naidu review details and his phrases ('prioritise public safety and work towards zero casualties', 'protecting lives must remain the administration's foremost priority') from M9 News only (published 10 pm IST Oct 25). Exact time of the review not stated; treated as Sunday. Phrases quoted as reported, may be translated from Telugu."
     - "Science desk has the IMD bulletin story (cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam); this piece is the state government response. District alert lists and distances from IMD Amaravati via Deccan Chronicle, 11:07 pm IST."
     - "No figures for evacuations, relief camps or NDRF teams found; left out."
 ---

@@ -27,7 +27,7 @@ cover:
   bg: "Cliff House Thiruvananthapuram"
 related: [satheesan-aroor-blue-economy-hub-vembanad-bridge, keralam-satheesan-balagopal-clash-over-pay-revision-arrears, kerala-turns-70-festival-kerala-satheesan-nishagandhi]
 seo:
-  description: "Keralam Chief Minister V D Satheesan on 2 November 2026 cancelled a PWD order for repairs worth over ₹1 crore at Cliff House, his official residence, and sought a report from the PWD Secretary."
+  description: "Keralam Chief Minister V D Satheesan on November 2, 2026, cancelled a PWD order for repairs worth over ₹1 crore at Cliff House, his official residence, and sought a report from the PWD Secretary."
 sources:
   - title: "Keralam CM directs cancellation of renovation worth Rs 1 cr at Cliff House (PTI)"
     publisher: "ThePrint"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov evening, statement from the CM's office; PTI copy on ThePrint timestamped 21:45 IST (16:15 UTC). Exact time of the statement not given, assumed shortly before filing."
+    - "event: Nov 2 evening, statement from the CM's office; PTI copy on ThePrint timestamped 21:45 IST (16:15 UTC). Exact time of the statement not given, assumed shortly before filing."
     - "Single source (PTI via ThePrint). Date of the PWD order, exact amount and the PWD Secretary's name not given. Whether any work had started not stated."
-    - "UDF in office since 18 May is from our earlier story (satheesan-aroor-blue-economy-hub-vembanad-bridge). Cliff House as the CM's official residence is general knowledge."
+    - "UDF in office since May 18 is from our earlier story (satheesan-aroor-blue-economy-hub-vembanad-bridge). Cliff House as the CM's official residence is general knowledge."
 ---
 
 Keralam Chief Minister V D Satheesan on Monday ordered the **cancellation of repairs worth over ₹1 crore** at Cliff House, his official residence in Thiruvananthapuram, saying the work had been approved behind his back.
@@ -49,7 +49,7 @@ The Public Works Department (PWD) had issued the order. In a statement, the Chie
 
 ## A standing instruction
 
-According to the statement, Satheesan had told officials soon after the Congress-led United Democratic Front came to power not to carry out **unnecessary renovation or construction** at the bungalow. The UDF government has been in office since 18 May.
+According to the statement, Satheesan had told officials soon after the Congress-led United Democratic Front came to power not to carry out **unnecessary renovation or construction** at the bungalow. The UDF government has been in office since May 18.
 
 The department has a different account of how the order came about. It said the repairs followed a **safety audit carried out in 2022**, when the previous Left Democratic Front government was in power.
 

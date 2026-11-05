@@ -22,7 +22,7 @@ hero:
     value: "Profit up 448% in a quarter"
 related: [sensex-nifty-close-october-19-private-banks-axis, ultratech-cement-q2-profit-rises-21-per-cent]
 seo:
-  description: "HFCL's Q2 FY27 profit rose 448% to ₹394.22 crore on revenue of ₹2,541.79 crore, and its shares hit the upper circuit for a second day on 19 October 2026."
+  description: "HFCL's Q2 FY27 profit rose 448% to ₹394.22 crore on revenue of ₹2,541.79 crore, and its shares hit the upper circuit for a second day on October 19, 2026."
 sources:
   - title: "HFCL hits 5% upper circuit after 'best-ever' quarterly show; Q2 PAT up 448%"
     publisher: "Business Standard"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "All figures from the BS markets piece (1:14 pm). The second BS headline links growth to AI data centre demand; its body was not read, so data-centre link is stated only as the headline's framing and kept general."
-    - "Results timing: BS says the stock hit upper circuit for a second session, implying results came around or before Friday's close / over the weekend; 19 Oct share move is the news."
+    - "Results timing: BS says the stock hit upper circuit for a second session, implying results came around or before Friday's close / over the weekend; Oct 19 share move is the news."
     - "Headquarters location: New Delhi used as dateline (HFCL is Delhi-based); not confirmed in sources read."
 ---
 

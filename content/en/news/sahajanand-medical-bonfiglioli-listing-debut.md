@@ -22,7 +22,7 @@ hero:
     value: "One pops, one goes flat"
 related: [zetwerk-ipo-fully-subscribed-final-day, tonbo-imaging-ipo-subscribed-135-times-final-day]
 seo:
-  description: "Sahajanand Medical Technologies share listing 23 October 2026: ₹371.15 on NSE, 7.89% premium to ₹344. Bonfiglioli Transmissions lists flat at ₹586 despite 46x subscription."
+  description: "Sahajanand Medical Technologies share listing October 23, 2026: ₹371.15 on NSE, 7.89% premium to ₹344. Bonfiglioli Transmissions lists flat at ₹586 despite 46x subscription."
 sources:
   - title: "Sahajanand Medical shares make positive debut, list at 8% premium"
     publisher: "Business Standard"
@@ -51,7 +51,7 @@ The ₹475 crore issue, priced at the top of its ₹327 to ₹344 band, had been
 
 Bonfiglioli Transmissions had a much larger and more heavily bid offer but opened flat. Its shares listed at ₹586 on both exchanges, the same as the top of its ₹558 to ₹586 price band.
 
-The ₹2,534 crore issue, also wholly an offer for sale by its Italian parent Bonfiglioli S.p.A., drew bids for 46.06 times the shares on offer when it closed on 19 October. Qualified institutional buyers bid for 120.78 times their quota, non-institutional investors 40.4 times and retail investors 5.91 times. The grey market had pointed to a premium of about 11%.
+The ₹2,534 crore issue, also wholly an offer for sale by its Italian parent Bonfiglioli S.p.A., drew bids for 46.06 times the shares on offer when it closed on October 19. Qualified institutional buyers bid for 120.78 times their quota, non-institutional investors 40.4 times and retail investors 5.91 times. The grey market had pointed to a premium of about 11%.
 
 The company makes gearboxes, gearmotors and drive systems for equipment makers and is one of India's largest power transmission providers by revenue. SBI Securities, in its note on the issue, put its return on capital employed at 33.5% in calendar 2025.
 

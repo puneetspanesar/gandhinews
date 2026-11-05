@@ -42,11 +42,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026 about 11:30 IST, Mahindra & Mahindra October 2026 sales release (ANI report timestamped 11:33 IST; Auto India Daily 12:06 IST). Company release and BSE filing not opened directly."
+    - "event: Nov 1, 2026, about 11:30 IST, Mahindra & Mahindra October 2026 sales release (ANI report timestamped 11:33 IST; Auto India Daily 12:06 IST). Company release and BSE filing not opened directly."
     - "Figures agree across ANI and Auto India Daily: domestic SUVs 73,338 vs 71,624 (+2%), SUVs incl. exports 74,904, total 1,31,109 (+9%), exports 7,102 vs 4,015 (+77%), tractors domestic 62,626 vs 72,071 (-13%), tractor exports 2,220 (+40%), tractors total 64,846, trucks and buses 2,838 vs 2,034 (+40%)."
     - "ANI says domestic CV sales up 4% to 33,037; Auto India Daily splits LCV 2-3.5t 28,654 (+5%) and sub-2t 4,383 (-4%), which sum to 33,037. Exports figure: ANI files it under CV section but Auto India Daily calls it total automotive exports; copy says automotive exports."
     - "Velusamy R quotes are fragments in ANI ('October was a landmark month for us'; 'the highest we have ever clocked in a month'). Vinod Sahay comment paraphrased only."
-    - "Jefferies estimate (29 Oct) of -3% for M&M total was a projection including tractors; used only as context."
+    - "Jefferies estimate (Oct 29) of -3% for M&M total was a projection including tractors; used only as context."
 ---
 
 Mahindra & Mahindra sold **73,338 SUVs in India in October**, the most it has ever sold in a single month, as festive demand kept its Scorpio, Thar and XUV showrooms busy. The figure was 2% higher than the 71,624 it sold a year earlier.

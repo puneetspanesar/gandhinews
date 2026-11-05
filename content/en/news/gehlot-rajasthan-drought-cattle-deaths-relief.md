@@ -22,7 +22,7 @@ hero:
     value: "Fodder at ₹20 a kg"
 related: [gehlot-asking-questions-not-anarchy-bjp]
 seo:
-  description: "Ashok Gehlot on 18 October accused Rajasthan's BJP government of ignoring drought in western districts, claiming thousands of cattle deaths in Jaisalmer."
+  description: "Ashok Gehlot on October 18 accused Rajasthan's BJP government of ignoring drought in western districts, claiming thousands of cattle deaths in Jaisalmer."
 sources:
   - title: "राजस्थान में सूखे की गंभीरता नहीं समझ रही भाजपा सरकार, तत्काल राहत उपाय करे: गहलोत (Bhasha)"
     publisher: "ThePrint Hindi"
@@ -44,4 +44,4 @@ He asked why the government was not turning to the Centre for help. "It is a BJP
 
 Gehlot asked the Chief Minister to monitor the situation personally. He demanded that the girdawari, the official assessment of crop damage, be completed quickly so that relief work could start, that fodder and drinking water be arranged for animals, that cattle relief camps be opened and that work be provided in affected villages. He warned that dams were drying up, putting both drinking water and irrigation at risk.
 
-"Long speeches and announcements will not solve the problem," he said. He recalled that his own government had started drought relief on 16 August during his term, and that it ran for 10 to 11 months.
+"Long speeches and announcements will not solve the problem," he said. He recalled that his own government had started drought relief on August 16 during his term, and that it ran for 10 to 11 months.

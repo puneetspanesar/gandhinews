@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Container Corporation of India's net profit **fell 6.8% to ₹353.10 crore**."
   - "Revenue was **almost flat at ₹2,378.57 crore**, up 1.02%."
-  - "The board declared a **second interim dividend of ₹1.90 a share**, record date 11 November."
+  - "The board declared a **second interim dividend of ₹1.90 a share**, record date November 11."
 hero:
   need: "A CONCOR container train or inland container depot, such as Tughlakabad ICD in Delhi"
   suggested_source: "Container Corporation of India"
@@ -22,7 +22,7 @@ hero:
     value: "Profit down 6.8%, ₹1.90 dividend"
 related: [sensex-nifty-close-november-2, moil-q2-profit-falls-12-per-cent-interim-dividend]
 seo:
-  description: "CONCOR Q2 FY27 results: net profit down 6.8% to ₹353.10 crore, revenue up 1.02% to ₹2,378.57 crore, second interim dividend of ₹1.90 a share, record date 11 November."
+  description: "CONCOR Q2 FY27 results: net profit down 6.8% to ₹353.10 crore, revenue up 1.02% to ₹2,378.57 crore, second interim dividend of ₹1.90 a share, record date November 11."
 cover:
   template: business
   label: "Q2 results"
@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, CONCOR results posted 5:47 pm IST (profit), 5:52 pm (revenue), 5:54 pm (dividend) on Upstox live blog."
-    - "Single source (Upstox live blog). Not stated whether profit is standalone or consolidated, so written as 'net profit'. Figures: ₹353.10 cr vs ₹378.70 cr; revenue ₹2,378.57 cr vs ₹2,354.53 cr; second interim ₹1.90 on ₹5 FV, total ₹144.71 cr, record date 11 Nov, payment on or after 20 Nov."
+    - "event: Nov 2, CONCOR results posted 5:47 pm IST (profit), 5:52 pm (revenue), 5:54 pm (dividend) on Upstox live blog."
+    - "Single source (Upstox live blog). Not stated whether profit is standalone or consolidated, so written as 'net profit'. Figures: ₹353.10 cr vs ₹378.70 cr; revenue ₹2,378.57 cr vs ₹2,354.53 cr; second interim ₹1.90 on ₹5 FV, total ₹144.71 cr, record date Nov 11, payment on or after Nov 20."
     - "Devyani and Mobikwik figures: Upstox blog 12:08 pm and 1:29 pm. No management quote, volume or segment data found; none used. ITC figures on the same blog were internally inconsistent (6:28 pm, 6:37 pm), so ITC is mentioned only as due to report."
 ---
 
@@ -58,7 +58,7 @@ Profit came in at ₹353.10 crore, down from ₹378.70 crore in the same quarter
 
 ## A second payout this year
 
-The board declared a **second interim dividend of ₹1.90 a share** on a face value of ₹5, which adds up to ₹144.71 crore. Shareholders on the register on **11 November** will be paid on or after 20 November.
+The board declared a **second interim dividend of ₹1.90 a share** on a face value of ₹5, which adds up to ₹144.71 crore. Shareholders on the register on **November 11** will be paid on or after November 20.
 
 ```photo
 {"n":2,"subject":"Container train Indian Railways","caption":"A container train on Indian Railways, the backbone of CONCOR's business of moving export and import cargo between ports and inland depots.","alt":"A container train in India (file photo)"}

@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Agrwal case facts (Justices A S Gadkari and Kamal Khata, judgment 22 October 2026; FIR after arrest; overwritten arrest memo; 41A notice served after detention; 26 days police and judicial custody; ₹5 lakh within two weeks, recoverable from officers; action against PSI Mahesh Lamkhade; judgment sent to Administrative Committee on magistrates; 'sheer abuse of process' quote) from the desk's 23 October news story, sourced to Bar & Bench. The Bar & Bench page could not be re-opened in this run."
-    - "Padale case (Justices Revati Mohite Dere and Shyam C Chandak; journalist; Sections 384 and 506 IPC; 41A notice prepared but not served; three days in jail; 'mechanical and casual manner'; inquiry by senior police ordered) from Verdictum, 28 August 2024. Verdictum reports no compensation; the copy says only that an inquiry was ordered."
-    - "Delhi HC case (Justice Najmi Waziri; Sub-Inspector Kuldeep; one day simple imprisonment, ₹2,000 fine, ₹15,000 costs; order dated 7 December, reported January 2022; quote) from The Leaflet. Whether the sentence survived appeal was not checked; copy says 'sentenced'."
+    - "Editorial view of the desk. Agrwal case facts (Justices A S Gadkari and Kamal Khata, judgment October 22, 2026; FIR after arrest; overwritten arrest memo; 41A notice served after detention; 26 days police and judicial custody; ₹5 lakh within two weeks, recoverable from officers; action against PSI Mahesh Lamkhade; judgment sent to Administrative Committee on magistrates; 'sheer abuse of process' quote) from the desk's October 23 news story, sourced to Bar & Bench. The Bar & Bench page could not be re-opened in this run."
+    - "Padale case (Justices Revati Mohite Dere and Shyam C Chandak; journalist; Sections 384 and 506 IPC; 41A notice prepared but not served; three days in jail; 'mechanical and casual manner'; inquiry by senior police ordered) from Verdictum, August 28, 2024. Verdictum reports no compensation; the copy says only that an inquiry was ordered."
+    - "Delhi HC case (Justice Najmi Waziri; Sub-Inspector Kuldeep; one day simple imprisonment, ₹2,000 fine, ₹15,000 costs; order dated December 7, reported January 2022; quote) from The Leaflet. Whether the sentence survived appeal was not checked; copy says 'sentenced'."
     - "Arnesh Kumar (2014) rule described only as the notice-of-appearance requirement for offences punishable with up to seven years, per The Leaflet. The equivalent provision in the BNSS is not named because no source was read for it in this run."
     - "Recommendations are the desk's own."
 ---
@@ -82,5 +82,5 @@ Fourth, states should set up a compensation scheme for wrongful arrest so that v
 Liberty is lost in an afternoon and restored, if at all, years later. The cheapest way to protect it is to make the officer think twice before the arrest, not to apologise long after it.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"26 days","label":"spent in police and judicial custody by Bipin Agrwal in 2017, on an FIR registered after his arrest"},{"value":"₹5 lakh","label":"compensation ordered by the Bombay High Court on 22 October 2026, recoverable from the officers at fault"},{"value":"7 years","label":"maximum sentence for offences where, since 2014, a notice to appear should normally come before any arrest"}]}
+{"title":"The reporting behind this view","items":[{"value":"26 days","label":"spent in police and judicial custody by Bipin Agrwal in 2017, on an FIR registered after his arrest"},{"value":"₹5 lakh","label":"compensation ordered by the Bombay High Court on October 22, 2026, recoverable from the officers at fault"},{"value":"7 years","label":"maximum sentence for offences where, since 2014, a notice to appear should normally come before any arrest"}]}
 ```

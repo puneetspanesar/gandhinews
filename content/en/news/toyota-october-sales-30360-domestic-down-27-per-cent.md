@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 17:10 IST, Toyota Kirloskar Motor October sales release (RushLane 11:43 UTC = 17:13 IST; Motoring Trends dated 1 Nov, no time)."
+    - "event: Nov 1 about 17:10 IST, Toyota Kirloskar Motor October sales release (RushLane 11:43 UTC = 17:13 IST; Motoring Trends dated Nov 1, no time)."
     - "Both sources agree on 30,360 total, 29,521 domestic, 839 exports, Jan-Oct 3,25,274. Oct 2025 comparisons and percentages from RushLane. Sabari Manohar quotes from Motoring Trends."
     - "Updated Innova Hycross launch 'expected on the 26th of this month' per RushLane only; written as later this month, hedged."
 ---

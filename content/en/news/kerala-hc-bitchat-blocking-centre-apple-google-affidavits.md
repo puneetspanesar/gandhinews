@@ -11,7 +11,7 @@ published: 2026-10-18T08:40:00+05:30
 location: Kochi
 keyPoints:
   - "The Kerala High Court has sought affidavits from **three Union ministries, Apple and Google** on the BitChat block."
-  - "The respondents have **four weeks** to reply, and the case returns on 11 November."
+  - "The respondents have **four weeks** to reply, and the case returns on November 11."
   - "BitChat works over **Bluetooth without internet**, and it spread among protesters during Delhi's shutdowns."
 hero:
   need: "The Kerala High Court building in Ernakulam, Kochi"
@@ -26,7 +26,7 @@ seo:
 verification:
   status: approved
   notes:
-    - Order details (bench, petitioner, respondents, four weeks, 11 November listing, maintainability kept open) from MediaNama (15/16 Oct), PTI via Deccan Herald (18 Oct 07:49), ETV Bharat Malayalam and Whalesbook (18 Oct). Exact date of the order not stated in sources; MediaNama reported it on 15 October, so copy says 'has asked' without a day. Judge's name transliterated as Soumen Sen and Syam Kumar V M (Whalesbook); ETV gives V M Shyam Kumar. Petitioner named as Appropriate Technology Promotion Society; MediaNama also refers to SFLC.in backing the PIL. No official reason for the October block is public. Quotes are from SFLC.in statement and Nikhil Pahwa as carried by MediaNama.
+    - Order details (bench, petitioner, respondents, four weeks, November 11 listing, maintainability kept open) from MediaNama (15/Oct 16), PTI via Deccan Herald (Oct 18 07:49), ETV Bharat Malayalam and Whalesbook (Oct 18). Exact date of the order not stated in sources; MediaNama reported it on October 15, so copy says 'has asked' without a day. Judge's name transliterated as Soumen Sen and Syam Kumar V M (Whalesbook); ETV gives V M Shyam Kumar. Petitioner named as Appropriate Technology Promotion Society; MediaNama also refers to SFLC.in backing the PIL. No official reason for the October block is public. Quotes are from SFLC.in statement and Nikhil Pahwa as carried by MediaNama.
 sources:
   - title: "BitChat blocking challenge: Kerala HC gives Govt. 4 weeks to respond"
     publisher: "MediaNama"
@@ -52,19 +52,19 @@ sources:
 
 The Kerala High Court has asked the Union government, Apple and Google to explain why BitChat, a messaging app that works over Bluetooth without the internet, was blocked in India, putting the first judicial spotlight on a takedown that digital rights groups say was aimed at protesters.
 
-A division bench of Chief Justice Soumen Sen and Justice Syam Kumar V M issued notice on a public interest petition filed by the Appropriate Technology Promotion Society, an Ernakulam-based group. The bench directed the Ministry of Home Affairs, the Ministry of Electronics and Information Technology and the Ministry of Information and Broadcasting, along with Apple India and Google India, to file affidavits within four weeks. For now the replies are limited to the decision to block BitChat. The court has kept open the question of whether the petition is maintainable, and the case is listed again on 11 November.
+A division bench of Chief Justice Soumen Sen and Justice Syam Kumar V M issued notice on a public interest petition filed by the Appropriate Technology Promotion Society, an Ernakulam-based group. The bench directed the Ministry of Home Affairs, the Ministry of Electronics and Information Technology and the Ministry of Information and Broadcasting, along with Apple India and Google India, to file affidavits within four weeks. For now the replies are limited to the decision to block BitChat. The court has kept open the question of whether the petition is maintainable, and the case is listed again on November 11.
 
 ## What the petition says
 
 The petitioners argue that the block violates the rights to equality and to freedom of speech and expression, and ignores natural justice, procedural fairness and proportionality. They say the authorities did not follow the 2009 rules that govern blocking orders under the Information Technology Act, and they want the order disclosed and quashed.
 
-No blocking order has been made public. Apple and Google removed the app from their Indian stores in early October, saying they were complying with government directions under the IT Act. Jack Dorsey, the Twitter co-founder behind the open-source app, posted on 3 October that it had been officially pulled from the App Store.
+No blocking order has been made public. Apple and Google removed the app from their Indian stores in early October, saying they were complying with government directions under the IT Act. Jack Dorsey, the Twitter co-founder behind the open-source app, posted on October 3 that it had been officially pulled from the App Store.
 
 ## Why BitChat matters to protesters
 
-BitChat lets phones pass messages to one another over Bluetooth, so it keeps working when mobile data is cut. It drew a following in Delhi during the internet shutdowns around the NEET UG protests at Jantar Mantar in July, and again after a shutdown during a Jantar Mantar protest on 2 October, shortly before the latest block.
+BitChat lets phones pass messages to one another over Bluetooth, so it keeps working when mobile data is cut. It drew a following in Delhi during the internet shutdowns around the NEET UG protests at Jantar Mantar in July, and again after a shutdown during a Jantar Mantar protest on October 2, shortly before the latest block.
 
-An earlier order in July, issued by the Home Ministry's cybercrime coordination centre, had told GitHub to take down BitChat's code within three hours. That order cited the app's anonymous messaging without phone verification or central logs, which it said got in the way of lawful interception and could allow communication during shutdowns. Officials were reported to have told the companies orally on 24 July not to enforce it.
+An earlier order in July, issued by the Home Ministry's cybercrime coordination centre, had told GitHub to take down BitChat's code within three hours. That order cited the app's anonymous messaging without phone verification or central logs, which it said got in the way of lawful interception and could allow communication during shutdowns. Officials were reported to have told the companies orally on July 24 not to enforce it.
 
 SFLC.in, the digital rights group backing the challenge, said using the blocking power against an entire communication app was highly disproportionate. "Enabling communication among protesters cannot, in any circumstance, be a valid ground for blocking an application," it said.
 

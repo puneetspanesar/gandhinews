@@ -22,7 +22,7 @@ hero:
     value: "AQI 245: the season's first poor day"
 related: [delhi-aqi-233-poor-very-poor-forecast-thursday, delhi-air-set-to-turn-poor-stubble-fires-dry-week, punjab-farm-fires-season-worst-day-amritsar-tarn-taran, chouhan-yadav-review-stubble-burning-punjab-haryana]
 seo:
-  description: "Delhi's AQI rose to 245 on 21 October, a 100-day high, and CAQM invoked GRAP Stage I across NCR. Farm fires and still air are set to keep the city in the poor band."
+  description: "Delhi's AQI rose to 245 on October 21, a 100-day high, and CAQM invoked GRAP Stage I across NCR. Farm fires and still air are set to keep the city in the poor band."
 sources:
   - title: "CAQM invokes GRAP-I measures across Delhi-NCR as AQI enters poor category"
     publisher: "UNI"
@@ -62,19 +62,19 @@ sources:
 verification:
   status: approved
   notes:
-    - "245 figure: PTI (via ThePrint, 9:45 pm) and TBS (8:35 pm) both say AQI reached 245, a 100-day high, last comparable 246 on 13 July. Neither labels it explicitly as the CPCB 4 pm bulletin; copy says 'daily reading' and 'Wednesday evening'. CAQM order cites 244 at 2 pm."
+    - "245 figure: PTI (via ThePrint, 9:45 pm) and TBS (8:35 pm) both say AQI reached 245, a 100-day high, last comparable 246 on July 13. Neither labels it explicitly as the CPCB 4 pm bulletin; copy says 'daily reading' and 'Wednesday evening'. CAQM order cites 244 at 2 pm."
     - "Overnight/early Thursday CPCB readings were not found in any source checked (search budget exhausted, AQI aggregator pages cached from Wednesday morning). Copy cites the Wednesday AQEWS projection of 342 for 9 am Thursday from our earlier story instead, framed as a forecast."
-    - "Stage I list from CAQM order as summarised by UNI and PTI. Statesman says outdoor demolition halted till 30 Nov; single source, left out."
+    - "Stage I list from CAQM order as summarised by UNI and PTI. Statesman says outdoor demolition halted till Nov 30; single source, left out."
     - "Sirsa remarks paraphrased (PTI gives none verbatim). Partial quote 'kept making excuses' from The Federal; original has an em dash, so not quoted in full."
-    - "Rain on 24-25 Oct: UNI digest teaser only, attributed to IMD; hedged."
+    - "Rain on Oct 24-25: UNI digest teaser only, attributed to IMD; hedged."
     - "DSS shares: PTI. PTI copy is ambiguous whether the 20.5% transport share is Tuesday or Wednesday; copy says 'latest estimate'."
 ---
 
 Delhi's air turned poor on Wednesday for the first time this season, and the Commission for Air Quality Management (CAQM) responded by putting Stage I of the Graded Response Action Plan (GRAP) into force across the National Capital Region.
 
-The city's air quality index climbed to 245 by Wednesday evening, its worst reading in 100 days. The last time the capital's air was this bad was 13 July, when the index stood at 246. On Tuesday the daily figure had been 179, in the moderate band. The CAQM order, issued in the afternoon, cited an AQI of 244 at 2 pm and noted that forecasts by the India Meteorological Department (IMD) and the Indian Institute of Tropical Meteorology expected the air to stay in the poor category "in coming days".
+The city's air quality index climbed to 245 by Wednesday evening, its worst reading in 100 days. The last time the capital's air was this bad was July 13, when the index stood at 246. On Tuesday the daily figure had been 179, in the moderate band. The CAQM order, issued in the afternoon, cited an AQI of 244 at 2 pm and noted that forecasts by the India Meteorological Department (IMD) and the Indian Institute of Tropical Meteorology expected the air to stay in the poor category "in coming days".
 
-The slide came a day after Dussehra, when Ravan effigies stuffed with firecrackers were burnt across the city, though no direct link between the celebrations and the readings has been established. Analysis by the Centre for Research on Energy and Clean Air shows that between 2015 and 2025 Delhi usually slipped into poor air in the first half of October. This year's onset, on 21 October, is the latest in that period.
+The slide came a day after Dussehra, when Ravan effigies stuffed with firecrackers were burnt across the city, though no direct link between the celebrations and the readings has been established. Analysis by the Centre for Research on Energy and Clean Air shows that between 2015 and 2025 Delhi usually slipped into poor air in the first half of October. This year's onset, on October 21, is the latest in that period.
 
 ## What Stage I means
 
@@ -86,10 +86,10 @@ Inspections of industries, brick kilns and hot-mix plants across the region are 
 
 Environment Minister Manjinder Singh Sirsa said about 30 agencies were working on the city's plan and credited the late arrival of Stage I to preventive work and public participation. Delhi has had 214 clean air days so far this year, he said, the most in a decade leaving aside the Covid years. He put about 30% of the city's pollution down to local sources and 60 to 65% to the surrounding region, and said the previous government "kept making excuses", blaming Punjab, Uttar Pradesh, Haryana or Rajasthan in turn.
 
-From 1 November, fuel stations will refuse vehicles without a valid pollution certificate, non-BS-VI vehicles registered outside Delhi will face restrictions, and parking charges at authorised lots will double, with Metro parking exempt. The Delhi Metro said it would run 20 extra weekday train trips from Thursday.
+From November 1, fuel stations will refuse vehicles without a valid pollution certificate, non-BS-VI vehicles registered outside Delhi will face restrictions, and parking charges at authorised lots will double, with Metro parking exempt. The Delhi Metro said it would run 20 extra weekday train trips from Thursday.
 
 ## The week ahead
 
 The Decision Support System run by IITM puts transport as the biggest single source in its latest estimate, at about 20.5%, with stubble burning at about 8%. Farm fires are forecast to push that share above 13% on Thursday before it eases to about 10% on Friday.
 
-The early warning system expects poor air at least until 23 October and no real change for six days after that. On Wednesday it had projected an AQI of about 342, in the very poor band, for 9 am on Thursday. The IMD has forecast rain in Punjab, Haryana and Delhi on 24 and 25 October, which could offer the first relief.
+The early warning system expects poor air at least until October 23 and no real change for six days after that. On Wednesday it had projected an AQI of about 342, in the very poor band, for 9 am on Thursday. The IMD has forecast rain in Punjab, Haryana and Delhi on October 24 and 25, which could offer the first relief.

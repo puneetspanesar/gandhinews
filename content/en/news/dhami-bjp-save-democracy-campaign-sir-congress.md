@@ -6,13 +6,13 @@ section: states
 format_label: "States / Uttarakhand"
 topics: [states, electoral-rolls-sir]
 title: "Dhami launches BJP's 'Save Democracy' drive in Uttarakhand, accuses Congress of sowing distrust over SIR"
-standfirst: "The campaign will run in all 13 districts until 30 November. The BJP in Bihar began a similar 15-day drive on the same day."
+standfirst: "The campaign will run in all 13 districts until November 30. The BJP in Bihar began a similar 15-day drive on the same day."
 published: 2026-10-22T21:20:00+05:30
 location: Dehradun
 keyPoints:
-  - "The BJP's **'Save Democracy, Remove Anarchy'** campaign runs across Uttarakhand from 22 October to 30 November."
+  - "The BJP's **'Save Democracy, Remove Anarchy'** campaign runs across Uttarakhand from October 22 to November 30."
   - "Dhami said the Congress was **\"creating an atmosphere of distrust\"** instead of accepting defeat."
-  - "Bihar's BJP started a parallel campaign that runs **until 5 November**."
+  - "Bihar's BJP started a parallel campaign that runs **until November 5**."
 hero:
   need: "Ghanta Ghar clock tower in Dehradun"
   suggested_source: "Ghanta Ghar Dehradun"
@@ -22,7 +22,7 @@ hero:
     value: "Padyatras in all 13 districts"
 related: [dhami-defends-police-ankita-bhandari-congress, dhami-daler-mehndi-row-closed-subodh-uniyal]
 seo:
-  description: "Uttarakhand CM Pushkar Singh Dhami launched the BJP's 'Save Democracy, Remove Anarchy' campaign on 22 October, accusing the Congress of spreading distrust over SIR."
+  description: "Uttarakhand CM Pushkar Singh Dhami launched the BJP's 'Save Democracy, Remove Anarchy' campaign on October 22, accusing the Congress of spreading distrust over SIR."
 sources:
   - title: "Uttarakhand CM Dhami criticises Cong over SIR objections, announces 'Save Democracy, Remove Anarchy' campaign (IANS)"
     publisher: "The Hawk"
@@ -42,7 +42,7 @@ verification:
 
 Uttarakhand Chief Minister Pushkar Singh Dhami on Thursday launched the BJP's "Save Democracy, Remove Anarchy" campaign in the state and accused the Congress of trying to undermine trust in the electoral rolls revision.
 
-The campaign will run from 22 October to 30 November in two phases, the first until 5 November and the second from 11 to 30 November. Party workers are to hold padyatras and public meetings in all 13 districts and to talk up the record of the Central and state governments.
+The campaign will run from October 22 to November 30 in two phases, the first until November 5 and the second from November 11 to 30. Party workers are to hold padyatras and public meetings in all 13 districts and to talk up the record of the Central and state governments.
 
 Speaking in Dehradun and on X, Dhami said the Congress was opposing the Special Intensive Revision (SIR) of the voter lists because it could not accept losing elections. "Instead of accepting its electoral defeat, the Congress is engaged in creating an atmosphere of distrust," he said.
 
@@ -50,6 +50,6 @@ He accused the party of questioning constitutional institutions and making "vote
 
 In a jibe aimed at Rahul Gandhi, Dhami said, "It is easy to carry a copy of the Constitution." He also criticised the Congress for encouraging "regime change" slogans and for talk of India turning into "Bangladesh".
 
-The BJP in Bihar began a 15-day statewide campaign of its own on Thursday, "Loktantra bachao, bheedtantra hatao" (save democracy, remove mob rule), which is set to run until 5 November. It was reported to include press conferences, padyatras, rallies and youth meetings focused on the accuracy of voter lists and voting rights.
+The BJP in Bihar began a 15-day statewide campaign of its own on Thursday, "Loktantra bachao, bheedtantra hatao" (save democracy, remove mob rule), which is set to run until November 5. It was reported to include press conferences, padyatras, rallies and youth meetings focused on the accuracy of voter lists and voting rights.
 
 No response from the Uttarakhand Congress to Dhami's remarks had been reported by late Thursday.

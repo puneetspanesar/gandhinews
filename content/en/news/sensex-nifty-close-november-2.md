@@ -22,7 +22,7 @@ hero:
     value: "Sensex +1,233, Nifty at 23,440"
 related: [sensex-500-points-off-high-afternoon-it-drags-nifty-23247, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, maruti-suzuki-record-october-sales-276120, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
-  description: "Stock market today, 2 November 2026: Sensex closed at 75,692.78, up 1,233 points, and Nifty at 23,440.80 as Reliance rose 11.6% and oil and metal shares rallied."
+  description: "Stock market today, November 2, 2026: Sensex closed at 75,692.78, up 1,233 points, and Nifty at 23,440.80 as Reliance rose 11.6% and oil and metal shares rallied."
 cover:
   template: business
   label: "Markets"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 15:30 IST, market close. Closing figures from Upstox market wrap (updated 16:00 IST): Sensex 75,692.78 (+1,233.25, 1.66%), Nifty 23,440.80 (+387.70, 1.68%), Midcap 100 57,983.40 (+1.19%), Smallcap 100 18,595.30 (+0.71%), sector, gainer/loser and breadth figures, NSE m-cap Rs 478.39 lakh crore, VIX 15.51."
+    - "event: Nov 2 15:30 IST, market close. Closing figures from Upstox market wrap (updated 16:00 IST): Sensex 75,692.78 (+1,233.25, 1.66%), Nifty 23,440.80 (+387.70, 1.68%), Midcap 100 57,983.40 (+1.19%), Smallcap 100 18,595.30 (+0.71%), sector, gainer/loser and breadth figures, NSE m-cap Rs 478.39 lakh crore, VIX 15.51."
     - "'Third straight day' from Business Standard close headline (seen in search result; the live page fetch was refused). BS headline rounds Reliance to 12%; Upstox body gives 11.6%, used."
     - "Afternoon low readings (2 pm: Sensex 75,111.79; morning high 75,557.06) from this site's earlier 2 pm story (Business Standard live blog / Upstox). Close is above that morning high, so copy says it finished above the morning peak; final intraday high not found."
     - "Rupee close, investor-wealth change and analyst quotes not found in sources read; left out. FPI inflow figure (about Rs 6,300 cr last week, 2026 outflows Rs 2.95 lakh crore) from Upstox only."

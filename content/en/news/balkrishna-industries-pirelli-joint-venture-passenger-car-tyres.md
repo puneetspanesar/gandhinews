@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "BKT and Pirelli signed a framework agreement to explore a **50:50 joint venture** for passenger car tyres in India."
   - "Pirelli-branded tyres will first be made at BKT's plant in **Bhuj, Gujarat**, under a minimum offtake commitment."
-  - "The joint company is targeted for incorporation by **31 December 2030**."
+  - "The joint company is targeted for incorporation by **December 31, 2030**."
 hero:
   need: "Bhuj, Gujarat, where Balkrishna Industries has its tyre plant"
   suggested_source: "Bhuj"
@@ -22,7 +22,7 @@ hero:
     value: "Pirelli tyres, made in Bhuj"
 related: []
 seo:
-  description: "Balkrishna Industries (BKT) and Pirelli signed a framework deal on 22 October 2026 to explore a 50:50 passenger car tyre joint venture in India, starting with production at Bhuj."
+  description: "Balkrishna Industries (BKT) and Pirelli signed a framework deal on October 22, 2026, to explore a 50:50 passenger car tyre joint venture in India, starting with production at Bhuj."
 sources:
   - title: "Balkrishna Industries shares rise as Pirelli signs framework deal for 50:50 passenger car tyre joint venture"
     publisher: "Kotak Neo"
@@ -43,6 +43,6 @@ Before any joint company exists, Pirelli-branded passenger car radial tyres will
 
 Pirelli will also test and provide technical services for BKT's own SUV, car and two-wheeler tyres at facilities outside India. Both companies have agreed not to enter similar arrangements with other partners in India for car, light truck, motorcycle or bicycle tyres, although BKT can keep selling its own brand.
 
-The definitive joint venture agreement is to be signed later, with the company to be incorporated by 31 December 2030. Until it is running, the offtake deal continues, up to 31 December 2031 unless extended. No investment figure or capacity has been disclosed. The companies said they expect the arrangement to create opportunities in domestic and overseas markets.
+The definitive joint venture agreement is to be signed later, with the company to be incorporated by December 31, 2030. Until it is running, the offtake deal continues, up to December 31, 2031, unless extended. No investment figure or capacity has been disclosed. The companies said they expect the arrangement to create opportunities in domestic and overseas markets.
 
 The deal gives BKT a foothold in the car tyre market, where it has had little presence. Its shares rose about 2% to a day's high of ₹2,077.90, recovering a little of a fall of nearly 12% over the past year.

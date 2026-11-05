@@ -45,7 +45,7 @@ Jos Buttler is missing as he recovers from hamstring surgery, and Saqib Mahmood 
 
 England are also thinking about the Test winter. Archer, Gus Atkinson, Sonny Baker and Josh Tongue will fly home after the ODIs so their workloads can be managed before the World Test Championship series in South Africa.
 
-The ODIs are in Perth on 13 November, Adelaide on 15 November and Hobart on 18 November. The T20Is follow in Melbourne (21 November), the Gold Coast (24 November), Brisbane (27 November), Sydney (29 November) and Canberra (2 December).
+The ODIs are in Perth on November 13, Adelaide on November 15 and Hobart on November 18. The T20Is follow in Melbourne (November 21), the Gold Coast (November 24), Brisbane (November 27), Sydney (November 29) and Canberra (December 2).
 
 **ODI squad:** Harry Brook (captain), Jofra Archer, Gus Atkinson, Sonny Baker, Tom Banton, Jacob Bethell, Jordan Cox, Henry Crocombe, Sam Curran, Liam Dawson, Ben Duckett, Will Jacks, Jamie Overton, Adil Rashid, Joe Root, Josh Tongue.
 

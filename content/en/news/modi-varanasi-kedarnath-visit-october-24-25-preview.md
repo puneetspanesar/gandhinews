@@ -10,7 +10,7 @@ standfirst: "The Prime Minister is expected to open a factory at Sevapuri in his
 published: 2026-10-24T05:00:00+05:30
 location: Varanasi
 keyPoints:
-  - "Modi is expected in **Varanasi on 24 and 25 October**, his first stop on the trip."
+  - "Modi is expected in **Varanasi on October 24 and 25**, his first stop on the trip."
   - "He is likely to inaugurate **a factory in Sevapuri** and attend city development programmes."
   - "At **Kedarnath** he is to review progress on the corridor development project."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Kashi first, then Kedarnath"
 related: [sarang-helicopter-team-varanasi-air-show-namo-ghat, modi-murmu-odisha-visits-rbi-data-centre-preview]
 seo:
-  description: "PM Narendra Modi is expected in Varanasi on 24-25 October to open a Sevapuri factory and see the IAF air show, then review the Kedarnath corridor project."
+  description: "PM Narendra Modi is expected in Varanasi on October 24-25 to open a Sevapuri factory and see the IAF air show, then review the Kedarnath corridor project."
 sources:
   - title: "PM Modi To Visit Varanasi, Kedarnath On Oct 24-25; Air Show, Development Review On Agenda"
     publisher: "ETV Bharat (IANS)"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "All sources date from 21 Oct and describe the schedule as proposed; no PMO release on the visit found (PIB fetch timed out). Copy keeps 'expected'/'likely'."
+    - "All sources date from Oct 21 and describe the schedule as proposed; no PMO release on the visit found (PIB fetch timed out). Copy keeps 'expected'/'likely'."
     - "Factory at Sevapuri not named in any source; no times or project costs given."
-    - "Sources say Kedarnath review on 25 Oct and air show attendance on 25 Oct; existing Gandhi News preview has Odisha RBI data centre opening on 25 Oct around 4:30-6:30 pm. APN Live notes the overlap without reconciling it. Copy mentions Odisha only as an earlier announced plan."
+    - "Sources say Kedarnath review on Oct 25 and air show attendance on Oct 25; existing Gandhi News preview has Odisha RBI data centre opening on Oct 25 around 4:30-6:30 pm. APN Live notes the overlap without reconciling it. Copy mentions Odisha only as an earlier announced plan."
 ---
 
 Prime Minister Narendra Modi is expected to arrive in Varanasi, his Lok Sabha constituency, on Saturday for a two-day trip that will also take him to Kedarnath in Uttarakhand.
@@ -59,4 +59,4 @@ Chief Minister Yogi Adityanath, who recently inspected the arrangements for the 
 
 From Varanasi, Modi is to travel to Kedarnath to review the progress of the Kedarnath corridor development project and the infrastructure work around the Himalayan shrine.
 
-Odisha BJP leaders have separately said he is due in the state on 25 October to open the Reserve Bank's new data centre near Jatni. The final order of the weekend's engagements was not clear by Saturday morning.
+Odisha BJP leaders have separately said he is due in the state on October 25 to open the Reserve Bank's new data centre near Jatni. The final order of the weekend's engagements was not clear by Saturday morning.

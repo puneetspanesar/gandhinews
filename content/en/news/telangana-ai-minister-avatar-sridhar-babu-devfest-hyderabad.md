@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ThePrint Team copy, 25 Oct 3:08 pm IST, reads like an organiser release. Exact day of the event not given beyond 'concluded'; copy avoids naming the day."
+    - "Single source: ThePrint Team copy, Oct 25 3:08 pm IST, reads like an organiser release. Exact day of the event not given beyond 'concluded'; copy avoids naming the day."
     - "'Pre-AGI' is the organisers' description; kept in quotes as their term. Sridhar Babu quote verbatim from the same copy; keynote was virtual."
     - "Durishetty's USD 1 trillion by 2034 ambition paraphrased as in source."
 ---

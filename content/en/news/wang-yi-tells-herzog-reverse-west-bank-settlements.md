@@ -45,8 +45,8 @@ verification:
     - "Baku, CICA sidelines, Thursday meeting, at Israel's request, 'highest-level engagement since 2023': SCMP. Al Jazeera says the meeting was in Azerbaijan; Reuters (via DH) says Azerbaijan and the statement came Friday."
     - "Quotes are from the Chinese foreign ministry statement, as carried by SCMP ('imperative priority', 'Two million civilians...') and Reuters/DH ('forced establishment', 'greatest historical injustice of this century')."
     - "No Israeli readout or Herzog remarks found in any source; copy says so."
-    - "Rafah line: Al Jazeera live blog 16 Oct (Gaza health ministry)."
-    - "Beit Ummar settler attack: Al Jazeera live blog (16 Oct), injuries not detailed."
+    - "Rafah line: Al Jazeera live blog Oct 16 (Gaza health ministry)."
+    - "Beit Ummar settler attack: Al Jazeera live blog (Oct 16), injuries not detailed."
 ---
 
 China's Foreign Minister Wang Yi has told Israeli President Isaac Herzog that Israel should stop and reverse what Beijing called its "forced establishment" of settlements in the occupied West Bank, the Chinese foreign ministry said on Friday.

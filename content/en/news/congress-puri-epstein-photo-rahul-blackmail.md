@@ -22,7 +22,7 @@ hero:
     value: "One photo, many questions"
 related: [rubio-jaishankar-mumbai-talks-close-to-trade-deal, rubio-jamnagar-reliance-visit-venezuelan-crude, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, vhp-bjp-hit-back-rahul-gandhi-rss-women-remark]
 seo:
-  description: "Congress on 21 October attacked Union minister Hardeep Puri over a purported photo with Jeffrey Epstein; Rahul Gandhi tied its release to Marco Rubio's India visit."
+  description: "Congress on October 21 attacked Union minister Hardeep Puri over a purported photo with Jeffrey Epstein; Rahul Gandhi tied its release to Marco Rubio's India visit."
 sources:
   - title: "Modi-Shah's silence points to their 'criminal indifference': Cong on Puri-Epstein photo (PTI)"
     publisher: "ThePrint"
@@ -49,7 +49,7 @@ verification:
   notes:
     - "The photograph is undated; PTI says it was 'reportedly' released by the US Department of Justice; Tribune caption credits US DoJ. Copy keeps 'said to show' and attributes the DoJ link to Congress leaders."
     - "Rahul Gandhi's two X lines: 'Rubio goes to Mumbai. The US DOJ releases a picture of Epstein and Puri.' (IANS via Telangana Today) and 'Dear BJP and RSS workers, which anti-national traitor do you think they're blackmailing?' (Tribune). Tribune headline paraphrases as 'which traitor is US blackmailing'."
-    - "No fresh response from Puri, the BJP or the US government found by publication. Puri's earlier position (met Epstein on a few occasions, unrelated to his crimes; part of a delegation) from PTI background and Tribune; earlier newsonair report dated 11 Feb 2026 only in indirect speech."
+    - "No fresh response from Puri, the BJP or the US government found by publication. Puri's earlier position (met Epstein on a few occasions, unrelated to his crimes; part of a delegation) from PTI background and Tribune; earlier newsonair report dated Feb 11, 2026, only in indirect speech."
     - "Khera's figures (62 emails 2014-2017, 14 meetings) are his claims citing DoJ documents; 14 meetings from Tribune only."
     - "Sambit Patra's Bhubaneswar remarks on Rahul's Vietnam trip and Soros: IANS via Telangana Today, paraphrased."
 ---

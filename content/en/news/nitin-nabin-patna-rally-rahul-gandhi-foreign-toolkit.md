@@ -22,7 +22,7 @@ hero:
     value: "'Puppet of a foreign toolkit gang'"
 related: [aiks-joins-october-23-nationwide-protests-against-sir, dmk-seeks-cec-gyanesh-kumar-removal-ballot-papers, amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat, bjp-hits-back-at-india-bloc-march-adityanath-thakur]
 seo:
-  description: "BJP president Nitin Nabin told a Patna rally on 17 October that Rahul Gandhi was a puppet of a foreign toolkit gang and attacked the opposition's paper ballot demand."
+  description: "BJP president Nitin Nabin told a Patna rally on October 17 that Rahul Gandhi was a puppet of a foreign toolkit gang and attacked the opposition's paper ballot demand."
 sources:
   - title: "नितिन नवीन का राहुल गांधी पर हमला, उन्हें बताया 'विदेशी टूलकिट गिरोह की कठपुतली'"
     publisher: "ThePrint Hindi (Bhasha)"
@@ -59,7 +59,7 @@ Nabin said the opposition, and the Congress in particular, was blaming electoral
 
 He pointed to what he called a pattern. Opposition parties that win in Himachal Pradesh, Tamil Nadu and Keralam raise no complaint about the Election Commission, he said, but turn on it after losing in Bihar and West Bengal.
 
-He also asked how many opposition leaders had filed complaints after the SIR in Bihar was completed and the final roll was published on 30 September 2025.
+He also asked how many opposition leaders had filed complaints after the SIR in Bihar was completed and the final roll was published on September 30, 2025.
 
 ## Ballot papers and "jungle raj"
 
@@ -71,6 +71,6 @@ He said the BJP would fight "anti-national elements" and answer the opposition's
 
 ## What comes next
 
-The two sides are heading for more confrontation on the streets. Delhi Police have cleared the Congress to hold a large rally at Ramlila Maidan on 1 November, and farmer, worker and student groups plan district-level protests across the country against the SIR on 23 October.
+The two sides are heading for more confrontation on the streets. Delhi Police have cleared the Congress to hold a large rally at Ramlila Maidan on November 1, and farmer, worker and student groups plan district-level protests across the country against the SIR on October 23.
 
 The Congress had not responded to Nabin's remarks by late Saturday night.

@@ -65,6 +65,6 @@ Bystanders rushed in to help. Local barber Ricky Jefferies said the driver had a
 
 The attack has shaken Australian politics. Opposition Leader Angus Taylor said "what happened yesterday crossed the line". ASIO chief Mike Burgess warned of a "permissive environment of violence" fuelled by polarisation. Victorian Premier Ben Carroll said he was "shocked and sickened" and called for social media platforms to be held to account.
 
-Campaigning for Victoria's state election, due on 28 November, was paused on Tuesday, and a vigil was held at Holy Trinity Anglican Cathedral in Wangaratta. Federal MPs and senators are being given security briefings this week.
+Campaigning for Victoria's state election, due on November 28, was paused on Tuesday, and a vigil was held at Holy Trinity Anglican Cathedral in Wangaratta. Federal MPs and senators are being given security briefings this week.
 
 Haines has represented Indi since 2019.

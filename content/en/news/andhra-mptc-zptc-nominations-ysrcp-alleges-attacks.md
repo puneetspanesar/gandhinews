@@ -6,11 +6,11 @@ section: states
 format_label: "States / Andhra Pradesh"
 topics: [states]
 title: "YSRCP says its candidates were attacked as Andhra's rural poll nominations opened"
-standfirst: "The opposition party listed assaults, a torched scooter and police detentions in Chittoor, Tirupati and Palnadu on the first day of filing for the 3 November mandal and district council polls."
+standfirst: "The opposition party listed assaults, a torched scooter and police detentions in Chittoor, Tirupati and Palnadu on the first day of filing for the November 3 mandal and district council polls."
 published: 2026-10-21T18:40:00+05:30
 location: Vijayawada
 keyPoints:
-  - "Nominations for Andhra Pradesh's **MPTC and ZPTC polls** opened on Wednesday, with voting on 3 November."
+  - "Nominations for Andhra Pradesh's **MPTC and ZPTC polls** opened on Wednesday, with voting on November 3."
   - "The YSRCP said TDP cadres attacked **former Deputy Chief Minister K Narayana Swamy** in Chittoor."
   - "Police arrested YSRCP leader **Kommineni Venkateswarlu** in Palnadu as he arrived to back candidates."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Day one of filing, a list of attacks"
 related: [supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations, tdp-second-list-andhra-urban-local-body-polls]
 seo:
-  description: "As nominations for Andhra Pradesh's MPTC and ZPTC polls opened on 21 October, the YSRCP alleged attacks on its leaders in Chittoor, Tirupati and Palnadu districts."
+  description: "As nominations for Andhra Pradesh's MPTC and ZPTC polls opened on October 21, the YSRCP alleged attacks on its leaders in Chittoor, Tirupati and Palnadu districts."
 sources:
   - title: "YSRCP alleges attacks on its leaders as nominations for MPTC, ZPTC polls begin (IANS)"
     publisher: "Punjab Kesari English"
@@ -45,7 +45,7 @@ verification:
 
 Nominations for Andhra Pradesh's mandal and district council elections opened on Wednesday, and within hours the opposition YSR Congress Party (YSRCP) said its leaders and candidates had been attacked, obstructed and detained in at least three districts.
 
-The elections to Mandal Parishad Territorial Constituencies (MPTCs) and Zilla Parishad Territorial Constituencies (ZPTCs) are due on 3 November. They follow the urban local body contest, in which the YSRCP went to the Supreme Court this week alleging that its candidates had been kept from filing by force.
+The elections to Mandal Parishad Territorial Constituencies (MPTCs) and Zilla Parishad Territorial Constituencies (ZPTCs) are due on November 3. They follow the urban local body contest, in which the YSRCP went to the Supreme Court this week alleging that its candidates had been kept from filing by force.
 
 ## Chittoor and Tirupati
 

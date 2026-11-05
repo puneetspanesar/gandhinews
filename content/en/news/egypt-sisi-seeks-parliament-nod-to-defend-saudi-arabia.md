@@ -12,7 +12,7 @@ location: Cairo
 keyPoints:
   - "Sisi asked for an **emergency session of parliament** to authorise help for Saudi Arabia if Riyadh asks."
   - "The Saudi-led coalition said it shot down **four drones** over Riyadh, the Eastern Province and the south."
-  - "Indian airlines have suspended Saudi flights, with **IndiGo grounded on the routes until 24 October**."
+  - "Indian airlines have suspended Saudi flights, with **IndiGo grounded on the routes until October 24**."
 hero:
   need: "Two-panel split: Egyptian President Abdel Fattah el-Sisi on one side, Saudi Crown Prince Mohammed bin Salman on the other"
   suggested_source: "Abdel Fattah el-Sisi"
@@ -57,13 +57,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Sisi remarks at Egyptian Military Academy graduation, Saturday 17 Oct. Quote 1 and 2 are Reuters' translation (via ThePrint, 14:30 UTC); 'I'm not talking about fighting anyone...' is Al Jazeera's translation. Translations of the same Arabic remarks differ; each quoted as published."
-    - "Parliament emergency plenary on Sunday 18 Oct announced by parliament; agenda not disclosed (Reuters). Written as preview."
+    - "Sisi remarks at Egyptian Military Academy graduation, Saturday, Oct 17. Quote 1 and 2 are Reuters' translation (via ThePrint, 14:30 UTC); 'I'm not talking about fighting anyone...' is Al Jazeera's translation. Translations of the same Arabic remarks differ; each quoted as published."
+    - "Parliament emergency plenary on Sunday, Oct 18 announced by parliament; agenda not disclosed (Reuters). Written as preview."
     - "Riyadh airport death toll conflicts: Al Jazeera says 14 killed and 300+ wounded in one place and 13 killed in another; AP says 17 killed, 300+ injured. Copy says 'more than a dozen' and 'more than 300 wounded'."
-    - "Four drones intercepted: coalition spokesman Turki al-Maliki, Al Jazeera piece timestamped 23:21 (UTC assumed) on 17 Oct."
-    - "Aden airport strike on Friday 16 Oct: Saba via AP; Yemenia plane detail from ANI via Tribune. Jubail tankers: UK navy via AP."
+    - "Four drones intercepted: coalition spokesman Turki al-Maliki, Al Jazeera piece timestamped 23:21 (UTC assumed) on Oct 17."
+    - "Aden airport strike on Friday, Oct 16: Saba via AP; Yemenia plane detail from ANI via Tribune. Jubail tankers: UK navy via AP."
     - "Mecca Alliance for Defence (Saudi, Pakistan, Turkiye, signed August) and October deployment agreement: Al Jazeera only."
-    - "Indian airline suspensions and ICU patients: Indian Embassy advisory of 16 Oct as reported by The Statesman; may have changed since."
+    - "Indian airline suspensions and ICU patients: Indian Embassy advisory of Oct 16 as reported by The Statesman; may have changed since."
     - "Brent $110 on Friday: AP via ThePrint."
 ---
 
@@ -93,6 +93,6 @@ Saudi Arabia accuses Iran of encouraging the Houthis. Tehran denies it, and Fore
 
 ## Indians in the kingdom
 
-For the large Indian community in Saudi Arabia, travel remains difficult. Riyadh's airport is still shut, though Dammam, Jeddah and Medina are operating. Air India and Air India Express have suspended all their Saudi routes until 20 October, and IndiGo until 24 October. Akasa Air has halted Riyadh flights until 24 October and Jeddah flights until 21 October.
+For the large Indian community in Saudi Arabia, travel remains difficult. Riyadh's airport is still shut, though Dammam, Jeddah and Medina are operating. Air India and Air India Express have suspended all their Saudi routes until October 20, and IndiGo until October 24. Akasa Air has halted Riyadh flights until October 24 and Jeddah flights until October 21.
 
-The Indian Embassy has said two Indians hurt in the 10 October attack on Riyadh airport are still in intensive care. It has told Indian nationals to "stay indoors in case of aerial attack" and suggested that those who must leave urgently consider going via Bahrain, Kuwait or Qatar.
+The Indian Embassy has said two Indians hurt in the October 10 attack on Riyadh airport are still in intensive care. It has told Indian nationals to "stay indoors in case of aerial attack" and suggested that those who must leave urgently consider going via Bahrain, Kuwait or Qatar.

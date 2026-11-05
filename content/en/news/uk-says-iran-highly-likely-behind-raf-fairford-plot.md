@@ -12,7 +12,7 @@ location: London
 keyPoints:
   - "Burnham said the plot was **highly likely to have been co-ordinated in Iran**."
   - "Britain has **sanctioned two Iranian nationals**, including a senior IRGC counter-espionage officer."
-  - "Seven men have been arrested since 27 September; **all are on bail and none has been charged**."
+  - "Seven men have been arrested since September 27; **all are on bail and none has been charged**."
 hero:
   need: "RAF Fairford air base in Gloucestershire, runway or main gate, or a US bomber at Fairford"
   suggested_source: "Wikimedia Commons search 'RAF Fairford' or 'B-2 Spirit RAF Fairford'"
@@ -48,8 +48,8 @@ verification:
   notes:
     - "Burnham's statement wording: PA has 'highly likely to have been co-ordinated in Iran, almost certainly directed by Iran's Islamic Revolutionary Guard'; Reuters paraphrases similarly. PA wording used."
     - "'We will not tolerate these threats on our soil' is attributed to Burnham by Reuters; Miliband's statement (PA) says 'Britain will not tolerate threats on our soil'. Only Miliband's line quoted."
-    - "No reaction from Iran to Monday's statement was found. Iran's embassy denial is from 28 September (Al Jazeera)."
-    - "Police found petrol but no explosive devices (Counter Terrorism Policing, 29 Sept update). Charges: none as of the 8 Oct police page."
+    - "No reaction from Iran to Monday's statement was found. Iran's embassy denial is from September 28 (Al Jazeera)."
+    - "Police found petrol but no explosive devices (Counter Terrorism Policing, Sept 29 update). Charges: none as of the Oct 8 police page."
     - "Why the US moved bombers out of Fairford is unclear per PA."
 ---
 
@@ -65,11 +65,11 @@ Two Iranian nationals were sanctioned with immediate effect, facing an asset fre
 
 ## What happened at Fairford
 
-The alarm was raised just after midnight on Sunday 27 September, when police were told that three suspicious vehicles were heading towards the base. A farmer in the nearby village of Whelford found her driveway blocked by what she described as a large group of hooded and masked men, and called 999.
+The alarm was raised just after midnight on Sunday, September 27, when police were told that three suspicious vehicles were heading towards the base. A farmer in the nearby village of Whelford found her driveway blocked by what she described as a large group of hooded and masked men, and called 999.
 
 Armed officers arrested five men, all British nationals living in London and aged between 23 and 25. Around 85 households were told to leave their homes as a bomb disposal robot examined the vans. Police later said no explosive devices were found, though a quantity of petrol was recovered.
 
-Two more men have been arrested since: a 25-year-old dual British and Iranian national on 1 October and a 22-year-old British national on 6 October. All seven are on police bail and no one has been charged. Counter Terrorism Policing has said it is considering every angle, including a foreign state or its proxies.
+Two more men have been arrested since: a 25-year-old dual British and Iranian national on October 1 and a 22-year-old British national on October 6. All seven are on police bail and no one has been charged. Counter Terrorism Policing has said it is considering every angle, including a foreign state or its proxies.
 
 At the time, Iran's embassy in London rejected any link to the arrests and called the speculation malicious.
 

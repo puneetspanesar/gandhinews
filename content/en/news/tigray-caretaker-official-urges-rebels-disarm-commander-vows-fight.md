@@ -12,7 +12,7 @@ location: Mekelle
 keyPoints:
   - "Caretaker official Redae Halefom Woldeselassie urged Tigrayan fighters to **lay down their weapons**."
   - "Lt Gen Fisseha Kidanu, named as commander of the Tigray army, called for **attacks on government-held positions**."
-  - "Government-allied forces entered Mekelle on **4 October**, and a six-month caretaker administration now runs the region."
+  - "Government-allied forces entered Mekelle on **October 4**, and a six-month caretaker administration now runs the region."
 hero:
   need: "The city of Mekelle, capital of Tigray region, Ethiopia"
   suggested_source: "Mekelle"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: AP via Al Jazeera, 19:55 GMT 23 Oct. Redae spoke Friday in Mekelle; Fisseha on Thursday on Tigray Broadcast Media, location undisclosed."
+    - "Single source: AP via Al Jazeera, 19:55 GMT Oct 23. Redae spoke Friday in Mekelle; Fisseha on Thursday on Tigray Broadcast Media, location undisclosed."
     - "Redae and Fisseha quotes contain a dash in the original; rendered with a full stop and commas respectively."
     - "Drone strike (four killed, six injured, Tuesday) could not be independently verified; hedged."
     - "Ghent University estimate of about 500,000 civilian deaths in 2020-22 war from same report."
@@ -47,7 +47,7 @@ On Thursday, Lt Gen Fisseha Kidanu, identified as commander of the Tigray army, 
 
 ## A peace deal in pieces
 
-The Tigray People's Liberation Front (TPLF) pulled out of Mekelle after government-allied forces entered the city on 4 October. Ethiopia has since installed a caretaker administration for six months, promising to restore services, help displaced people return home and prepare for elections. Federal forces and their allies, including the Tigray Peace Force made up of former TPLF fighters, are running joint security operations.
+The Tigray People's Liberation Front (TPLF) pulled out of Mekelle after government-allied forces entered the city on October 4. Ethiopia has since installed a caretaker administration for six months, promising to restore services, help displaced people return home and prepare for elections. Federal forces and their allies, including the Tigray Peace Force made up of former TPLF fighters, are running joint security operations.
 
 On Monday, Prime Minister Abiy Ahmed accused the TPLF of forcibly recruiting young people instead of disarming as the 2022 agreement required. The TPLF says it has inflicted heavy losses on government forces. Neither side's battlefield claims can be independently checked. A drone strike on Tuesday was reported to have killed four people as they loaded goats onto a truck.
 

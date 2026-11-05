@@ -12,7 +12,7 @@ location: Jerusalem
 keyPoints:
 - Up to **500 Moroccan personnel** have trained in Morocco for the International Stabilization Force in Gaza.
 - A planned ISF base near the Yellow Line for **about 150 personnel** awaits Israeli approvals.
-- The Board of Peace hopes work will speed up after Israel votes on **27 October**.
+- The Board of Peace hopes work will speed up after Israel votes on **October 27**.
 hero:
   need: Moroccan Royal Armed Forces soldiers, or the Gaza Strip border area
   suggested_source: Royal Moroccan Armed Forces soldiers
@@ -25,7 +25,7 @@ related:
 - un-envoy-gaza-ceasefire-in-name-only-security-council
 - trump-endorses-netanyahu-eisenkot-says-voters-decide
 seo:
-  description: Up to 500 Moroccan troops have trained for the Gaza International Stabilization Force, a Board of Peace official said on 19 October, but deployment awaits Israeli approvals.
+  description: Up to 500 Moroccan troops have trained for the Gaza International Stabilization Force, a Board of Peace official said on October 19, but deployment awaits Israeli approvals.
 sources:
 - title: 'Official: Up to 500 Moroccan troops train for Gaza force; Board of Peace seeks greater Israeli cooperation post elections'
   publisher: The Times of Israel
@@ -51,6 +51,6 @@ No date has been set. Construction of a proposed base near the Yellow Line for a
 
 "We need to move beyond constructive conversations to constructive implementation," the official said. "We're still advancing the plan. We're moving forward."
 
-Prime Minister Benjamin Netanyahu has said Israel will not allow reconstruction until Hamas is disarmed, with one exception. "The only thing we've agreed to is an 'Emirati bubble'," he said, referring to a UAE-backed compound for displaced Palestinians in the Israeli-controlled part of Gaza, where progress has been modest. The Board hopes things will speed up after Israel's election on 27 October.
+Prime Minister Benjamin Netanyahu has said Israel will not allow reconstruction until Hamas is disarmed, with one exception. "The only thing we've agreed to is an 'Emirati bubble'," he said, referring to a UAE-backed compound for displaced Palestinians in the Israeli-controlled part of Gaza, where progress has been modest. The Board hopes things will speed up after Israel's election on October 27.
 
 Aid is also under strain. The World Food Programme said on Monday it would stop monthly assistance to 500,000 people in Gaza because of funding shortfalls, leaving about 1.1 million still receiving food or cash aid, according to its country director, Shaun Hughes.

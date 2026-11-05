@@ -22,7 +22,7 @@ hero:
     value: "Haryana 71/6 at lunch"
 related: [saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali, bengal-collapse-maharashtra-ranji-eden-dadhe, tamil-nadu-thrash-uttarakhand-ranji-bengal-services-chase]
 seo:
-  description: "Haryana were 71 for 6 at lunch on day one of their Ranji Trophy match against Uttarakhand in Dehradun on 2 November 2026, with Mayank Mishra taking 3 for 16."
+  description: "Haryana were 71 for 6 at lunch on day one of their Ranji Trophy match against Uttarakhand in Dehradun on November 2, 2026, with Mayank Mishra taking 3 for 16."
 sources:
   - title: "Uttarakhand vs Haryana Live Score, Ranji Trophy Elite, 2 November 2026"
     publisher: "Khel Now"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, play from 09:30 IST at Abhimanyu Cricket Academy, Dehradun; lunch on day 1 with Haryana 71/6 after 33.5 overs (last ball before lunch was the Dalal wicket), about 11:30 to 11:50 IST. Khel Now live page fetched about 12:25 IST showed 'Lunch Break : Day 1 - HAR elected to bat'."
+    - "event: Nov 2, play from 09:30 IST at Abhimanyu Cricket Academy, Dehradun; lunch on day 1 with Haryana 71/6 after 33.5 overs (last ball before lunch was the Dalal wicket), about 11:30 to 11:50 IST. Khel Now live page fetched about 12:25 IST showed 'Lunch Break : Day 1 - HAR elected to bat'."
     - "Single source (Khel Now live page). Dismissals: Arsh Ranga 5 (8) b Bora at 3.3; Ankit Kumar 16 (33) b Dhapola at 10.6; Himanshu Rana 11 (34) b Mishra at 13.2; Dheeru Singh 1 (8) b Bora at 16.5; Nishant Sindhu 14 (43) b Mishra at 29.2; Yashvardhan Dalal 20 (54) c S Rawat b Mishra at 33.5. Bowling: Mishra 11.5-5-16-3, Bora 8-3-19-2, Dhapola 11-4-26-1 (as at 26.6), Suchith 2-0-8-0. Captains, bowling styles and pitch not given; not stated. Score at each fall not given; not stated."
     - "Search budget used: 5 of 6."
 cover:

@@ -21,7 +21,7 @@ hero:
     value: "One protest, one mission"
 related: [amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat, india-bloc-march-to-supreme-court-after-cji-declines-meeting, cjp-members-scale-jantar-mantar-gate-detained, two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named]
 seo:
-  description: "INDIA bloc leaders, Left parties and activists met at Rahul Gandhi's residence on 13 October and vowed to keep up the campaign for CEC Gyanesh Kumar's resignation."
+  description: "INDIA bloc leaders, Left parties and activists met at Rahul Gandhi's residence on October 13 and vowed to keep up the campaign for CEC Gyanesh Kumar's resignation."
 sources:
   - title: "High tea, hard talk: INDIA bloc closes ranks against CEC Gyanesh Kumar at meeting called by Rahul Gandhi"
     publisher: "ThePrint"

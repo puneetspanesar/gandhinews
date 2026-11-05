@@ -11,7 +11,7 @@ published: 2026-10-14T20:15:00+05:30
 location: Mumbai
 keyPoints:
   - "Jio Platforms has fixed a price band of **₹1,065 to ₹1,119 a share** for its initial public offering."
-  - "Public bidding runs **from 21 to 23 October**, with anchor investors bidding on 19 October."
+  - "Public bidding runs **from October 21 to 23**, with anchor investors bidding on October 19."
   - "Up to **₹27,500 crore** of the money raised will go towards repaying debt at Reliance Jio Infocomm."
 hero:
   need: "Jio branding at a Reliance or Jio building in Mumbai, or the Jio World Centre at Bandra Kurla Complex"
@@ -21,7 +21,7 @@ hero:
     value: "Up to ₹30,200 crore on the table"
 related: [starlink-waits-on-security-clearance-as-musk-row-escalates]
 seo:
-  description: "Jio Platforms set a ₹1,065 to ₹1,119 price band for its IPO, which opens on 21 October and could raise about ₹30,200 crore, ahead of Hyundai India's record."
+  description: "Jio Platforms set a ₹1,065 to ₹1,119 price band for its IPO, which opens on October 21 and could raise about ₹30,200 crore, ahead of Hyundai India's record."
 sources:
   - title: "Ambani's Jio seeks to raise $3.2B in what could be India's biggest IPO"
     publisher: "TechCrunch"
@@ -41,11 +41,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Price band, 270 million new shares, anchor 19 Oct, subscription 21-23 Oct, reservations (₹25bn RIL shareholders, ₹5bn employees, ₹54 discount), use of proceeds (₹275bn debt repayment at RJIL), June-quarter results, 524 million subscribers: TechCrunch, citing Reliance's stock exchange filing of Wednesday 14 Oct and the prospectus. The exchange filing itself was not read."
-    - "Issue size ₹30,213 crore at upper band and ₹28,755 crore at lower band, 2.93% of post-issue equity, 19 banks, expected listing 28 Oct: Entrepreneur India and NewsBytes (both pre-filing, from Bloomberg reporting). Listing date written as expected."
+    - "Price band, 270 million new shares, anchor Oct 19, subscription Oct 21-23, reservations (₹25bn RIL shareholders, ₹5bn employees, ₹54 discount), use of proceeds (₹275bn debt repayment at RJIL), June-quarter results, 524 million subscribers: TechCrunch, citing Reliance's stock exchange filing of Wednesday, Oct 14 and the prospectus. The exchange filing itself was not read."
+    - "Issue size ₹30,213 crore at upper band and ₹28,755 crore at lower band, 2.93% of post-issue equity, 19 banks, expected listing Oct 28: Entrepreneur India and NewsBytes (both pre-filing, from Bloomberg reporting). Listing date written as expected."
     - "Hyundai Motor India IPO: TechCrunch gives ₹278.7 billion (₹27,870 crore); Entrepreneur and NewsBytes say ₹27,800 crore. Copy uses ₹27,870 crore."
     - "Valuation ₹10.3 trillion at top of band (post-issue shares) from TechCrunch; earlier ₹11 lakh crore expectation from Entrepreneur India."
-    - "Filing time on 14 Oct not known; published time set for the evening."
+    - "Filing time on Oct 14 not known; published time set for the evening."
 ---
 
 Jio Platforms, the telecom and digital arm of Mukesh Ambani's Reliance Industries, has set a price band of ₹1,065 to ₹1,119 a share for an initial public offering that is on course to be the largest India has seen.
@@ -54,7 +54,7 @@ Reliance disclosed the band in a stock exchange filing on Wednesday. Jio will is
 
 ## The timetable
 
-Anchor investors will bid on 19 October. The issue opens to the public on 21 October and closes on 23 October, with trading expected to begin on 28 October. Jio has hired 19 banks for the sale, among them Kotak Mahindra Capital, Morgan Stanley, Bank of America, Axis Capital, BNP Paribas and Citigroup.
+Anchor investors will bid on October 19. The issue opens to the public on October 21 and closes on October 23, with trading expected to begin on October 28. Jio has hired 19 banks for the sale, among them Kotak Mahindra Capital, Morgan Stanley, Bank of America, Axis Capital, BNP Paribas and Citigroup.
 
 Up to ₹2,500 crore of the offer is set aside for eligible shareholders of Reliance Industries. Another ₹500 crore is reserved for employees, who will get a discount of ₹54 a share.
 
@@ -66,7 +66,7 @@ The valuation is lower than the roughly ₹11 lakh crore the market had talked a
 
 ## The business behind the listing
 
-Jio was launched in 2016 with free data and cheap plans that shook up Indian telecom. Its prices are now in line with rivals', and it had more than 52.4 crore subscribers on 31 March, ahead of Bharti Airtel, Vodafone Idea and state-owned BSNL. It has since added home broadband, cloud services and other digital businesses.
+Jio was launched in 2016 with free data and cheap plans that shook up Indian telecom. Its prices are now in line with rivals', and it had more than 52.4 crore subscribers on March 31, ahead of Bharti Airtel, Vodafone Idea and state-owned BSNL. It has since added home broadband, cloud services and other digital businesses.
 
 The prospectus shows revenue of ₹39,170 crore in the April to June quarter, up nearly 12% on a year earlier, and net profit of ₹7,760 crore, up 9%.
 

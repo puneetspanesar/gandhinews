@@ -27,7 +27,7 @@ cover:
   bg: "Bombay House"
 related: [sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks]
 seo:
-  description: "Nirmala Sitharaman on 2 November 2026 called the Tata Group a critical component of the Indian economy and said the Tata Sons and Tata Trusts dispute must be settled amicably, not in public."
+  description: "Nirmala Sitharaman on November 2, 2026, called the Tata Group a critical component of the Indian economy and said the Tata Sons and Tata Trusts dispute must be settled amicably, not in public."
 sources:
   - title: "Tatas important for economy; differences should be settled amicably: FM (PTI)"
     publisher: "ThePrint"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov evening IST, Financial Express Leadership Awards 2026, Mumbai; PTI copy on ThePrint timestamped 8:45 pm IST."
+    - "event: Nov 2 evening IST, Financial Express Leadership Awards 2026, Mumbai; PTI copy on ThePrint timestamped 8:45 pm IST."
     - "Quotes verbatim from PTI via ThePrint. Hans India headline confirms same remarks. Tax-cut and inflows points are paraphrased as PTI reported them."
-    - "17 Sept board meeting details (RBI letter on CIC de-registration, listing, Noel Tata sole dissent, Venu Srinivasan) from same PTI copy. Rahul Gandhi exchange from 28 Oct PTI copy."
+    - "Sept 17 board meeting details (RBI letter on CIC de-registration, listing, Noel Tata sole dissent, Venu Srinivasan) from same PTI copy. Rahul Gandhi exchange from Oct 28 PTI copy."
 ---
 
 Finance Minister Nirmala Sitharaman has told the two sides in the Tata leadership battle to sort out their differences privately, calling the group **a critical part of the economy**: "a very critical component to the Indian economy".
@@ -60,7 +60,7 @@ She called the matter sensitive and would not say whether the government would t
 
 ## A rift that went public in September
 
-The split between Tata Sons, led by chairman N Chandrasekaran, and Tata Trusts, led by Noel Tata, came into the open at a **Tata Sons board meeting on 17 September**. That meeting came within a week of a Reserve Bank of India letter rejecting Tata Sons' request to de-register as a core investment company. The board decided to pursue a listing, as the central bank required, and reappointed Chandrasekaran as chairman.
+The split between Tata Sons, led by chairman N Chandrasekaran, and Tata Trusts, led by Noel Tata, came into the open at a **Tata Sons board meeting on September 17**. That meeting came within a week of a Reserve Bank of India letter rejecting Tata Sons' request to de-register as a core investment company. The board decided to pursue a listing, as the central bank required, and reappointed Chandrasekaran as chairman.
 
 Noel Tata cast **the only dissenting vote**. Venu Srinivasan, the trusts' second nominee director, broke ranks and voted with the majority. Last week Noel Tata challenged the board resolution reappointing Chandrasekaran.
 
@@ -68,7 +68,7 @@ Noel Tata cast **the only dissenting vote**. Venu Srinivasan, the trusts' second
 {"n":2,"subject":"N. Chandrasekaran","caption":"N Chandrasekaran, whose reappointment as Tata Sons chairman Noel Tata has opposed.","alt":"Tata Sons chairman N Chandrasekaran"}
 ```
 
-The row has also turned political. On 28 October Congress leader Rahul Gandhi wrote that "Tata is being criminally destroyed, and no business leader dares say a word." Sitharaman replied the same day, telling him to "refrain from seeing ghosts everywhere" and calling it "unacceptable" to **describe commercial and legal matters as criminal**.
+The row has also turned political. On October 28 Congress leader Rahul Gandhi wrote that "Tata is being criminally destroyed, and no business leader dares say a word." Sitharaman replied the same day, telling him to "refrain from seeing ghosts everywhere" and calling it "unacceptable" to **describe commercial and legal matters as criminal**.
 
 ## 'We need capital and equity'
 

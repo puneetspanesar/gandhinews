@@ -13,7 +13,7 @@ location: New Chandigarh
 keyPoints:
   - "Shubman Gill was **bowled for 1 off five balls** by left-arm spinner Ajay Mandal."
   - "Punjab captain Uday Saharan made **a 68-ball fifty** to take them to 143 for 3."
-  - "Gill leads India in the **first three ODIs in New Zealand**, which start on 4 November."
+  - "Gill leads India in the **first three ODIs in New Zealand**, which start on November 4."
 hero:
   need: "Shubman Gill batting"
   suggested_source: "Shubman Gill"
@@ -45,7 +45,7 @@ verification:
   notes:
     - "Dismissal details: Yardbarker and Outlook agree (bowled, Ajay Mandal, 1 off 5). Punjab 69/3 at the dismissal and later scores from Outlook live blog."
     - "Yardbarker credits Malhotra's lbw to Dharmendrasinh Jadeja, a name we could not cross-check, so the bowler is not named."
-    - "ODI and Test start dates (4 Nov, 19 Nov) from Outlook's Shami piece; Gill leading first three ODIs from our 16 Oct squad story."
+    - "ODI and Test start dates (Nov 4, Nov 19) from Outlook's Shami piece; Gill leading first three ODIs from our Oct 16 squad story."
 ---
 
 Shubman Gill's last first-class outing before India's tour of New Zealand lasted five balls. Playing for Punjab against Chhattisgarh in the Ranji Trophy on Sunday, he was bowled by left-arm spinner Ajay Mandal for 1.
@@ -56,4 +56,4 @@ The openers had given them a decent start. Vihaan Malhotra and Harnoor Singh add
 
 Captain Uday Saharan then took charge. Punjab went to lunch on 89 for 3 after 37 overs, with Saharan on 19 and Prabhsimran Singh on 8. Saharan reached his fifty off 68 balls early in the afternoon session, and Punjab were 143 for 3 in the 49th over. Umesh Yadav, who took five wickets in the first round, is in Punjab's side.
 
-Gill turned out for Punjab in this round before he leaves for New Zealand. He will captain India in the first three of the five one-day internationals, which start on 4 November, before handing over to Shreyas Iyer to prepare for the two Tests from 19 November.
+Gill turned out for Punjab in this round before he leaves for New Zealand. He will captain India in the first three of the five one-day internationals, which start on November 4, before handing over to Shreyas Iyer to prepare for the two Tests from November 19.

@@ -21,7 +21,7 @@ hero:
     value: "Sensex up 1,534, rupee up a 5th day"
 related: [sensex-nifty-rupee-close-october-14, sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks, yes-bank-shares-crash-supreme-court-at1-bonds, tata-communications-q2-profit-rises-86-per-cent, jio-platforms-ipo-price-band-biggest-india-listing, rupee-near-97-as-crude-stays-above-100, fpi-outflows-record-3-trillion-2026]
 seo:
-  description: "Sensex jumped 1,533.72 points to 74,315.61 and Nifty closed at 22,997.35 on 15 October 2026. The rupee rose for a fifth day to 95.05 a dollar."
+  description: "Sensex jumped 1,533.72 points to 74,315.61 and Nifty closed at 22,997.35 on October 15, 2026. The rupee rose for a fifth day to 95.05 a dollar."
 sources:
   - title: "Stock Market Close: Sensex surges 1,534 pts, Nifty at 22,997 as crude falls 2%; IT, auto shine"
     publisher: "Business Standard"

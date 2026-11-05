@@ -22,7 +22,7 @@ hero:
     value: "Defence talks in Ulaanbaatar"
 related: [asean-india-defence-think-tank-forum-delhi]
 seo:
-  description: "India and Mongolia reviewed defence cooperation, training and cyber security at the 14th Joint Working Group meeting in Ulaanbaatar on 16 October 2026."
+  description: "India and Mongolia reviewed defence cooperation, training and cyber security at the 14th Joint Working Group meeting in Ulaanbaatar on October 16, 2026."
 sources:
   - title: "India and Mongolia reaffirm defence partnership at 14th Joint Working Group meeting (PIB, Defence)"
     publisher: "PIB"
@@ -44,8 +44,8 @@ verification:
   notes:
     - "PIB page could not be fetched directly; details from The Statesman and ETV Bharat, both based on the MoD statement."
     - "Co-chair name spelt 'Ishita Ganguli Tripathy' (Statesman) and inconsistently in ETV Bharat; Statesman spelling used."
-    - "Nomadic Elephant dates (21 Sep-3 Oct), venue and 45 troops a side from ETV Bharat only."
-    - "Meeting date taken as Friday 16 Oct per both reports; MoD release may refer to an earlier day. Not confirmed."
+    - "Nomadic Elephant dates (Sep 21-Oct 3), venue and 45 troops a side from ETV Bharat only."
+    - "Meeting date taken as Friday, Oct 16 per both reports; MoD release may refer to an earlier day. Not confirmed."
 ---
 
 India and Mongolia reviewed their defence cooperation and agreed to widen it at the 14th meeting of their Joint Working Group in Ulaanbaatar on Friday, the Defence Ministry said.
@@ -56,7 +56,7 @@ The two sides took stock of existing programmes, discussed new areas of collabor
 
 ## Exercises and training
 
-Both delegations praised the successful conduct of Nomadic Elephant, the annual platoon-level exercise between the two armies that alternates between the countries. The 18th edition was held at the Foreign Training Node in Pithoragarh, Uttarakhand, from 21 September to 3 October, with 45 soldiers from each side.
+Both delegations praised the successful conduct of Nomadic Elephant, the annual platoon-level exercise between the two armies that alternates between the countries. The 18th edition was held at the Foreign Training Node in Pithoragarh, Uttarakhand, from September 21 to October 3, with 45 soldiers from each side.
 
 The Indian team visited the National Defence University of Mongolia to review the Cyber Security Training Centre set up there with Indian assistance. Mongolia acknowledged India's support in building the capacity of its armed forces, including training of personnel, language courses and cyber security.
 

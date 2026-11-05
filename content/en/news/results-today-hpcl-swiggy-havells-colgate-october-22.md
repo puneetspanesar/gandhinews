@@ -22,7 +22,7 @@ hero:
     value: "HPCL, Swiggy, Havells report today"
 related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-three-times-subscribed-day-one-qib, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
 seo:
-  description: "Q2 results today, 22 October 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
+  description: "Q2 results today, October 22, 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
 sources:
   - title: "Q2 Results October 22, 2026: HPCL, Havells, Swiggy and More"
     publisher: "Kalkine Media"
@@ -52,8 +52,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Company list from Kalkine (15 Oct; expected dates, full list was in an image). Zee Business headline (seen in search results only; page refused) says about 60 companies report; copy says 'dozens'."
-    - "HPCL: Q1 FY27 loss ₹11,526 crore, ICICI Securities/JM Financial estimates of profit about ₹2,647-2,700 crore, call on 23 Oct 11 am, all from NiftyTrader (21 Oct); that page also quoted a contrary Zee Business loss estimate, so copy says estimates vary and cites the broker range as 'reportedly'. Not verified against HPCL filing."
+    - "Company list from Kalkine (Oct 15; expected dates, full list was in an image). Zee Business headline (seen in search results only; page refused) says about 60 companies report; copy says 'dozens'."
+    - "HPCL: Q1 FY27 loss ₹11,526 crore, ICICI Securities/JM Financial estimates of profit about ₹2,647-2,700 crore, call on Oct 23 11 am, all from NiftyTrader (Oct 21); that page also quoted a contrary Zee Business loss estimate, so copy says estimates vary and cites the broker range as 'reportedly'. Not verified against HPCL filing."
     - "Colgate estimate (revenue +12.7%, profit +11%) from Zee Business headline only; page not readable. Year-ago base not given."
     - "Tusk-Modi talks Thursday: from claims file (policy desk preview); mentioned only in passing."
 ---

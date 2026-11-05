@@ -22,7 +22,7 @@ hero:
     value: "Tank Bund says: roll back SIR"
 related: [people-against-sir-march-delhi-detained-cec-gyanesh-kumar]
 seo:
-  description: "People Against SIR protesters on Hyderabad's Tank Bund demanded the rollback of the SIR of electoral rolls and CEC Gyanesh Kumar's resignation on 24 October."
+  description: "People Against SIR protesters on Hyderabad's Tank Bund demanded the rollback of the SIR of electoral rolls and CEC Gyanesh Kumar's resignation on October 24."
 sources:
   - title: "Civil society groups protest against SIR, demand its rollback"
     publisher: "ThePrint (PTI)"
@@ -35,7 +35,7 @@ verification:
     - "Single source: PTI via ThePrint, 8:45 pm. Crowd size not reported; left out. No response from police, the Election Commission or the BJP in the source."
     - "Police restriction on the human chain is the organisers' claim (Kiran Vissa), attributed as such."
     - "Prabhakar quote reproduced exactly as in the PTI copy, including the missing question marks."
-    - "Delhi march background from Gandhi News's own 23 Oct story."
+    - "Delhi march background from Gandhi News's own Oct 23 story."
 ---
 
 Hyderabad's Tank Bund, the road that runs along Hussain Sagar lake, became a protest ground on Saturday as students and civil society groups demanded that the Special Intensive Revision (SIR) of electoral rolls be scrapped and that Chief Election Commissioner Gyanesh Kumar resign.
@@ -60,4 +60,4 @@ There was no immediate response from the Election Commission or the BJP to the p
 
 ## Part of a wider campaign
 
-The Hyderabad rally came a day after police in Delhi detained marchers from the same People Against SIR banner as they tried to reach the Election Commission's headquarters. Opposition parties and student groups have held a string of protests in the capital and elsewhere against the revision and against Kumar, and the Congress has a rally planned at Delhi's Ramlila Maidan on 1 November.
+The Hyderabad rally came a day after police in Delhi detained marchers from the same People Against SIR banner as they tried to reach the Election Commission's headquarters. Opposition parties and student groups have held a string of protests in the capital and elsewhere against the revision and against Kumar, and the Congress has a rally planned at Delhi's Ramlila Maidan on November 1.

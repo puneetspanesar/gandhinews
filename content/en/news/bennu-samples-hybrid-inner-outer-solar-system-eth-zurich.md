@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ETH Zurich release via ScienceDaily (posted 24 Oct). Paper: Science Advances 12(39), 'Nucleosynthetic constraints on the origin of Bennu and CI-like asteroids', DOI 10.1126/sciadv.aei9107; paper itself not read."
+    - "Single source: ETH Zurich release via ScienceDaily (posted Oct 24). Paper: Science Advances 12(39), 'Nucleosynthetic constraints on the origin of Bennu and CI-like asteroids', DOI 10.1126/sciadv.aei9107; paper itself not read."
     - "Jupiter role is the authors' proposal, written as such."
-    - "Sample return date 23 Sept 2023 and ~120 g figure from the release."
+    - "Sample return date Sept 23, 2023, and ~120 g figure from the release."
 ---
 
 Dust from the asteroid Bennu, collected by NASA and brought to Earth three years ago, is a blend of material from the inner and outer Solar System, scientists at ETH Zurich have found.
@@ -53,6 +53,6 @@ They suggest Jupiter played a part. The giant planet began forming within about 
 
 "Bennu may offer our best glimpse of the original mix of chemical elements," Schönbächler said.
 
-The ETH Zurich laboratory received half a gram of the roughly 120 grams of Bennu that landed in the Utah desert on 23 September 2023. Bennu circles the Sun every 1.2 years and passes within about 300,000 km of Earth roughly every six years.
+The ETH Zurich laboratory received half a gram of the roughly 120 grams of Bennu that landed in the Utah desert on September 23, 2023. Bennu circles the Sun every 1.2 years and passes within about 300,000 km of Earth roughly every six years.
 
 The team now wants to know whether other asteroids carry the same signature. "We are now wondering whether other asteroids have the same isotopic signature as Bennu and Ryugu," Schönbächler said.

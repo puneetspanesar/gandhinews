@@ -56,17 +56,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov, speech in early afternoon; ANI copy filed 15:24 IST, Jagran 16:00 IST. Exact speech start time not reported."
+    - "event: Nov 4, speech in early afternoon; ANI copy filed 15:24 IST, Jagran 16:00 IST. Exact speech start time not reported."
     - "Quotes from ANI (Moosewala, drugs) and Jagran (Mann, AAP run from Delhi, Kharge lines). Kharge presence per Jagran only."
     - "Mann drinking remark is Rahul Gandhi's allegation, quoted as said; no AAP response found by 16:15 IST."
-    - "Moosewala killing details (29 May 2022, Jawaharke, Mansa; security withdrawn day before) from ANI background."
+    - "Moosewala killing details (May 29, 2022, Jawaharke, Mansa; security withdrawn day before) from ANI background."
 ---
 
 Rahul Gandhi opened the Congress campaign for the 2027 Punjab election in Sangrur on Wednesday by **calling Sidhu Moosewala's father on stage**, and told the crowd that the mindset which killed the singer now runs through the state.
 
 The Leader of Opposition in the Lok Sabha said he changed his plan for the speech after Balkaur Singh Sidhu greeted him at the Insaaf Rally. "What happened to his son has now become a fashion in Punjab," he said. "The mindset that shot Sidhu Moosewala in front of everyone, without any fear, that same mindset is roaming around every nook and corner of Punjab today."
 
-Gandhi recalled the day the singer walked into his office wanting to join the Congress. "He was an impressive guy. He walked into the room. He had tattoos," he said. Moosewala was **shot dead in Mansa district on 29 May 2022**, a day after the state police withdrew his security.
+Gandhi recalled the day the singer walked into his office wanting to join the Congress. "He was an impressive guy. He walked into the room. He had tattoos," he said. Moosewala was **shot dead in Mansa district on May 29, 2022**, a day after the state police withdrew his security.
 
 
 ## The charge against Mann

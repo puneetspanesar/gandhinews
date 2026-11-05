@@ -22,7 +22,7 @@ hero:
     value: "Kospi swings from loss to 1.4% gain"
 related: [kospi-slumps-chip-selloff-asia-tuesday-close, gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, asia-open-nikkei-seen-down-oil-dalal-street-november-2]
 seo:
-  description: "Kospi on 2 November 2026: South Korea's index opens more than 1% lower after the US chip rout, then turns 1.4% higher as Samsung Electronics and SK Hynix recover."
+  description: "Kospi on November 2, 2026: South Korea's index opens more than 1% lower after the US chip rout, then turns 1.4% higher as Samsung Electronics and SK Hynix recover."
 cover:
   template: business
   label: "Asian markets"
@@ -66,10 +66,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 08:36 IST (12:06 KST), SBS News midday bulletin says Kospi opened 1.6% lower, cut losses and was trading slightly higher, with Samsung Electronics and SK Hynix up; 2 Nov 08:48 IST, HDFC Sky has Kospi up 1.4%."
+    - "event: Nov 2 08:36 IST (12:06 KST), SBS News midday bulletin says Kospi opened 1.6% lower, cut losses and was trading slightly higher, with Samsung Electronics and SK Hynix up; Nov 2 08:48 IST, HDFC Sky has Kospi up 1.4%."
     - "Opening fall conflicts: SBS says 1.6%, CNBC-TV18 says 1.06%. Copy says 'more than 1%'. SBS page notes it is AI-translated."
     - "Lee Jae-myung budget speech: SBS gives only 'today' with no time; likely before the window, so kept as context. 'Growth for everyone' is SBS's translated wording, used as a paraphrase, not a direct quote."
-    - "Korea October exports +93.7% and $42.5bn trade surplus: MUFG Asia FX Talk only (data released 1 Nov). Surplus figure is large; kept as MUFG states it. Friday Kospi -3.48% and October -16.2% from Peter Lewis briefing (single source, also used in the earlier asia-open story)."
+    - "Korea October exports +93.7% and $42.5bn trade surplus: MUFG Asia FX Talk only (data released Nov 1). Surplus figure is large; kept as MUFG states it. Friday Kospi -3.48% and October -16.2% from Peter Lewis briefing (single source, also used in the earlier asia-open story)."
 ---
 
 South Korea's stock market **shook off a bruising start on Monday**. The Kospi opened more than 1% lower after Friday's collapse in American chip shares, then clawed its way back and was trading in positive territory by mid-morning in Seoul.

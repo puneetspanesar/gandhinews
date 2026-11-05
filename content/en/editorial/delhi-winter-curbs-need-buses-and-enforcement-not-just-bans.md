@@ -9,7 +9,7 @@ title: "Delhi has finally acted before the smog. Now the curbs must be fair, enf
 standfirst: "From today older vehicles from outside the city are barred, offices run at half strength and parking costs double. Acting on the calendar is the right instinct. But a ban that reads the number plate rather than the exhaust, and asks commuters to give up their cars without saying what replaces them, will not last the winter."
 published: 2026-11-01T07:05:00+05:30
 keyPoints:
-  - "Vehicles from outside Delhi **below BS-VI are barred until 31 January**, while Delhi's own older vehicles keep running."
+  - "Vehicles from outside Delhi **below BS-VI are barred until January 31**, while Delhi's own older vehicles keep running."
   - "The plan promises more electric buses and Metro links but **gives no numbers or dates**."
   - "The government should publish **a monthly enforcement report** alongside air quality readings."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Ban the smoke, not the address"
 related: [delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today, delhi-air-needs-year-round-plan-not-grap-reflex, delhi-air-set-to-turn-poor-stubble-fires-dry-week, delhi-aqi-191-saturday-best-october-24-decade-sirsa]
 seo:
-  description: "Gandhi News editorial: Delhi's 1 November pollution curbs, from the ban on non-BS-VI outside vehicles to 50% office attendance, are the right instinct but need emission-based rules, buses for NCR commuters and public enforcement data."
+  description: "Gandhi News editorial: Delhi's November 1 pollution curbs, from the ban on non-BS-VI outside vehicles to 50% office attendance, are the right instinct but need emission-based rules, buses for NCR commuters and public enforcement data."
 sources:
   - title: "Delhi Implements Strict Pollution Control Measures Starting November 1 (ANI)"
     publisher: "Asianet Newsable"
@@ -47,17 +47,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Measures (outside non-BS-VI vehicles barred 1 Nov to 31 Jan, CNG/EV and emergency vehicles exempt; 50% physical attendance in government and private offices to 31 Jan; dust-raising construction barred to 31 Jan with full halt 10 Dec to 20 Jan; parking doubled to 28 Feb except DMRC lots; ANPR cameras and automatic e-challans; Rekha Gupta quote) from the desk's 1 Nov story (ANI via Asianet) and Outlook (fetched)."
-    - "Outlook: plan launched by CM Rekha Gupta on a Tuesday before 21 Oct (20 Oct assumed; copy says 'last month'); promises more electric buses, better Metro links, last-mile transport, carpooling, with no numbers; 'No PUC, No Fuel' enforced since 1 Oct under a CAQM order of May. Outlook does not say whether the 50% office rule binds private firms or is advisory; copy says offices 'have been told'."
+    - "Editorial view of the desk. Measures (outside non-BS-VI vehicles barred Nov 1 to Jan 31, CNG/EV and emergency vehicles exempt; 50% physical attendance in government and private offices to Jan 31; dust-raising construction barred to Jan 31 with full halt Dec 10 to Jan 20; parking doubled to Feb 28 except DMRC lots; ANPR cameras and automatic e-challans; Rekha Gupta quote) from the desk's Nov 1 story (ANI via Asianet) and Outlook (fetched)."
+    - "Outlook: plan launched by CM Rekha Gupta on a Tuesday before Oct 21 (Oct 20 assumed; copy says 'last month'); promises more electric buses, better Metro links, last-mile transport, carpooling, with no numbers; 'No PUC, No Fuel' enforced since Oct 1 under a CAQM order of May. Outlook does not say whether the 50% office rule binds private firms or is advisory; copy says offices 'have been told'."
     - "BS-V was skipped in India, so 'below BS-VI' means BS-IV or older; site news story uses 'BS-IV or older'."
-    - "2025 transitional notice allowing BS-IV commercial goods vehicles from outside until 31 Oct 2026: Tribune (PTI), 27 Oct 2025, fetched."
+    - "2025 transitional notice allowing BS-IV commercial goods vehicles from outside until Oct 31, 2026: Tribune (PTI), Oct 27, 2025, fetched."
     - "Over 10 lakh non-BS-VI vehicles in NCR, with district figures: NewsBytes only, Ghaziabad figure attributed there to an unnamed official via NDTV. Copy hedges as 'by one estimate' and uses only the 10 lakh total."
     - "Point that Delhi-registered BS-IV vehicles are not covered follows from the rule applying only to vehicles registered outside Delhi (all sources). Age-based deregistration rules for Delhi vehicles not discussed."
     - "No reaction from NCR state governments found in this run."
     - "Recommendations are the desk's own."
 ---
 
-Eleven days ago, this newspaper argued that Delhi's bad air arrives on schedule every October and that the government should act on the calendar rather than wait for the alarm. From midnight, it has. Vehicles registered outside the city that do not meet **BS-VI emission standards are barred until 31 January**. Offices have been told to keep half their staff at home, dusty construction has stopped, and parking at authorised lots costs twice as much, except at Metro stations.
+Eleven days ago, this newspaper argued that Delhi's bad air arrives on schedule every October and that the government should act on the calendar rather than wait for the alarm. From midnight, it has. Vehicles registered outside the city that do not meet **BS-VI emission standards are barred until January 31**. Offices have been told to keep half their staff at home, dusty construction has stopped, and parking at authorised lots costs twice as much, except at Metro stations.
 
 That deserves credit. For years the city's response has been a reflex, switched on only after the haze had settled. A package announced in October, with fixed dates and cameras to enforce it, is a different and better habit.
 
@@ -69,7 +69,7 @@ The vehicle rule applies only to what is registered outside Delhi. A BS-IV car f
 
 The burden falls heavily on people who live in the satellite towns and work in the capital. By one estimate **more than 10 lakh vehicles in the NCR** fall short of BS-VI.
 
-There is a defence. Delhi can regulate its own fleet in other ways, and it has the power to stop vehicles at its borders in a way it cannot inside every lane. Transporters had notice, too: a year ago the government allowed BS-IV goods vehicles from outside a transitional window only up to 31 October 2026. But if the aim is cleaner air rather than fewer outsiders, the test should be the emission standard, applied to every vehicle on Delhi's roads.
+There is a defence. Delhi can regulate its own fleet in other ways, and it has the power to stop vehicles at its borders in a way it cannot inside every lane. Transporters had notice, too: a year ago the government allowed BS-IV goods vehicles from outside a transitional window only up to October 31, 2026. But if the aim is cleaner air rather than fewer outsiders, the test should be the emission standard, applied to every vehicle on Delhi's roads.
 
 ```photo
 {"n":1,"subject":"Kashmere Gate ISBT","caption":"The Kashmere Gate Inter-State Bus Terminus, where buses from the neighbouring states arrive and from where commuters need onward links if they leave their cars at home.","alt":"Kashmere Gate Inter-State Bus Terminus in Delhi"}
@@ -94,5 +94,5 @@ Third, issue **a monthly public report** of what was enforced: vehicles stopped 
 Acting early was the hard part. Making the rules fair, and giving people a way to follow them, is what will decide whether they hold until January.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"31 Jan","label":"date until which non-BS-VI vehicles from outside Delhi are barred and offices run at 50% attendance"},{"value":"10 lakh+","label":"vehicles in the NCR estimated to fall short of BS-VI standards"},{"value":"2x","label":"parking fees at authorised lots until 28 February, with Metro lots exempt"}]}
+{"title":"The reporting behind this view","items":[{"value":"Jan 31","label":"date until which non-BS-VI vehicles from outside Delhi are barred and offices run at 50% attendance"},{"value":"10 lakh+","label":"vehicles in the NCR estimated to fall short of BS-VI standards"},{"value":"2x","label":"parking fees at authorised lots until February 28, with Metro lots exempt"}]}
 ```

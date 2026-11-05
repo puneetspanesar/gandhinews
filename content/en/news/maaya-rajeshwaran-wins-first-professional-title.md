@@ -37,7 +37,7 @@ verification:
   notes:
     - "Country of the Lagos event is unclear: one Bridge article says Lagos, Portugal; the other notes an embedded post saying Portugal but calls the event Lagos, Nigeria. Country deliberately left out; editor may want to confirm on itftennis.com."
     - "'Youngest Indian woman to win a professional singles title' is the Bridge's claim, not checked against ITF records."
-    - "Ranking 1038 from the 11 Oct Bridge piece (pre-title ranking assumed). Quotes from the 12 Oct Bridge feature, which appear to be from an interview with her."
+    - "Ranking 1038 from the Oct 11 Bridge piece (pre-title ranking assumed). Quotes from the Oct 12 Bridge feature, which appear to be from an interview with her."
     - "Nadal Academy departure is in the headline only; details not read, so not used."
 ---
 

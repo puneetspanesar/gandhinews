@@ -13,7 +13,7 @@ keyPoints:
   - "HPCL should **publish the cause and the fixes** within weeks, as should the state's inquiry."
   - "Visakhapatnam's industrial belt needs **inspection reports and emergency plans in public**."
 hero:
-  need: "HPCL's Visakh Refinery in Visakhapatnam, site of the fire on Monday night 2 November"
+  need: "HPCL's Visakh Refinery in Visakhapatnam, site of the fire on Monday night November 2"
   suggested_source: "HPCL Visakh Refinery"
   subjects: ["HPCL Visakh Refinery"]
   alt: "The HPCL refinery at Visakhapatnam, Andhra Pradesh"
@@ -22,7 +22,7 @@ hero:
     value: "No one hurt. Now publish why"
 related: [school-buildings-need-safety-audits-before-the-next-roof-falls, illegal-firecracker-units-need-checks-before-diwali, siwan-firecracker-blast-five-dead-alampur-sho-suspended]
 seo:
-  description: "Gandhi News editorial: after the fire at HPCL's Visakhapatnam refinery on 2 November, HPCL and Andhra Pradesh should publish the cause, and the Vizag industrial belt needs public safety audits and emergency plans."
+  description: "Gandhi News editorial: after the fire at HPCL's Visakhapatnam refinery on November 2, HPCL and Andhra Pradesh should publish the cause, and the Vizag industrial belt needs public safety audits and emergency plans."
 sources:
   - title: "Fire at HPCL refinery in Visakhapatnam doused, no casualties"
     publisher: "ANI"
@@ -67,11 +67,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Monday fire: HPCL post on X (via Daily Prabhat/ANI) puts it at around 10 pm on 2 Nov, 'localised to pitch tank area', 'brought under control within a short time', 'All the Units of the Refinery are working safely', no casualties. Deccan Chronicle (22:34 IST) reports explosion sounds, thick smoke over nearby neighbourhoods, multiple fire tenders. RDO Dileep Chakravarthy quotes ('no cause for worry', inquiry 'as per industry safety norms', 'fully under control') from ANI and Asianet (ANI copy). Cause not stated anywhere."
-    - "2013: Sakshi Post 1 Sept 2013: cooling tower under construction blast on 23 Aug 2013, toll 23, all but one of the dead contract workers, preliminary inquiry blamed gas leak from a pipeline feeding the tower."
-    - "2021: Telangana Today 25 May 2021: fire at crude distillation unit 3 from a leak in an overhead line, no casualties, about 3,000 employees evacuated, 13 fire tenders including navy."
-    - "LG Polymers: The Statesman (committee report, 2020): 7 May leak, 12 killed, committee under Neerabh Kumar Prasad listed 21 reasons, management ignored rising polymer content from 4 April 2020. Year inferred from context (2020); widely known."
-    - "Escientia, Atchutapuram, 21 Aug 2024: Wikipedia says at least 18 dead; copy says 'at least 17', which is consistent and matches widely reported toll. Wikipedia used for date only otherwise."
+    - "Editorial view of the desk. Monday fire: HPCL post on X (via Daily Prabhat/ANI) puts it at around 10 pm on Nov 2, 'localised to pitch tank area', 'brought under control within a short time', 'All the Units of the Refinery are working safely', no casualties. Deccan Chronicle (22:34 IST) reports explosion sounds, thick smoke over nearby neighbourhoods, multiple fire tenders. RDO Dileep Chakravarthy quotes ('no cause for worry', inquiry 'as per industry safety norms', 'fully under control') from ANI and Asianet (ANI copy). Cause not stated anywhere."
+    - "2013: Sakshi Post Sept 1, 2013: cooling tower under construction blast on Aug 23, 2013, toll 23, all but one of the dead contract workers, preliminary inquiry blamed gas leak from a pipeline feeding the tower."
+    - "2021: Telangana Today May 25, 2021: fire at crude distillation unit 3 from a leak in an overhead line, no casualties, about 3,000 employees evacuated, 13 fire tenders including navy."
+    - "LG Polymers: The Statesman (committee report, 2020): May 7 leak, 12 killed, committee under Neerabh Kumar Prasad listed 21 reasons, management ignored rising polymer content from April 4, 2020. Year inferred from context (2020); widely known."
+    - "Escientia, Atchutapuram, Aug 21, 2024: Wikipedia says at least 18 dead; copy says 'at least 17', which is consistent and matches widely reported toll. Wikipedia used for date only otherwise."
     - "No claim about whether 2013 or 2021 inquiry reports were ever published; not checked. Copy says the public 'has not been shown' them only as a call, framed as a demand, not a claim. Oil Industry Safety Directorate named as the sector's safety body (general knowledge)."
     - "Visakhapatnam gas leak Wikipedia page blocked (permission timeout). Recommendations are the desk's own."
 ---
@@ -109,5 +109,5 @@ Fourth, contract workers, who did most of the dying in 2013, should get the same
 Monday's fire ended without a single injury. That is exactly the moment to learn from it, before the next one does not.
 
 ```timeline
-{"title":"Fires, blasts and leaks around Visakhapatnam","items":[{"date":"23 Aug 2013","text":"Cooling tower blast at the HPCL refinery; toll reaches 23, nearly all contract workers"},{"date":"7 May 2020","text":"Styrene leak at LG Polymers kills 12 in nearby villages"},{"date":"25 May 2021","text":"Fire at crude distillation unit 3 of the HPCL refinery; about 3,000 employees evacuated, no deaths"},{"date":"21 Aug 2024","text":"Explosion at the Escientia pharmaceutical plant at Atchutapuram kills at least 17"},{"date":"2 Nov 2026","text":"Blast and fire in a pitch tank area at the HPCL refinery, contained with no injuries"}]}
+{"title":"Fires, blasts and leaks around Visakhapatnam","items":[{"date":"Aug 23, 2013","text":"Cooling tower blast at the HPCL refinery; toll reaches 23, nearly all contract workers"},{"date":"May 7, 2020","text":"Styrene leak at LG Polymers kills 12 in nearby villages"},{"date":"May 25, 2021","text":"Fire at crude distillation unit 3 of the HPCL refinery; about 3,000 employees evacuated, no deaths"},{"date":"Aug 21, 2024","text":"Explosion at the Escientia pharmaceutical plant at Atchutapuram kills at least 17"},{"date":"Nov 2, 2026","text":"Blast and fire in a pitch tank area at the HPCL refinery, contained with no injuries"}]}
 ```

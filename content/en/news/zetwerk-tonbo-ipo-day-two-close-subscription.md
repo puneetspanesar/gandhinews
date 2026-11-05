@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Zetwerk's share sale was **subscribed 0.31 times** by the end of the second day."
   - "Tonbo Imaging's offer was **subscribed 7.78 times**, up from 4.01 times after day one."
-  - "Both issues close on **19 October** and are due to list on 23 October."
+  - "Both issues close on **October 19** and are due to list on October 23."
 hero:
   need: "Two-panel: a Zetwerk manufacturing site and Tonbo Imaging's Bengaluru office or products"
   suggested_source: "Tonbo Imaging Bengaluru office"
@@ -22,7 +22,7 @@ hero:
     value: "0.31x vs 7.78x after day two"
 related: [zetwerk-tonbo-ipos-day-two, zetwerk-ipo-day-one-subscription, zetwerk-ipo-price-band-opens-october-15, tonbo-imaging-ipo-price-band-defence-tech, sebi-proposes-tighter-ipo-proceeds-monitoring, sensex-nifty-it-rally-weekly-gain-october-16]
 seo:
-  description: "Zetwerk's ₹5,012 crore IPO was subscribed 0.31 times and Tonbo Imaging's 7.78 times at the end of day two on 16 October 2026. Both close on 19 October."
+  description: "Zetwerk's ₹5,012 crore IPO was subscribed 0.31 times and Tonbo Imaging's 7.78 times at the end of day two on October 16, 2026. Both close on October 19."
 sources:
   - title: "Zetwerk IPO Day 2 Subscription Status: Issue Subscribed 0.31x"
     publisher: "HDFC Sky"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Figures are exchange snapshots at 5:03 pm on 16 Oct as reported by HDFC Sky (excluding anchor portion). Inc42 headline 'nearly 8X' agrees for Tonbo. Exchange pages not read directly."
+    - "Figures are exchange snapshots at 5:03 pm on Oct 16 as reported by HDFC Sky (excluding anchor portion). Inc42 headline 'nearly 8X' agrees for Tonbo. Exchange pages not read directly."
     - "Day-one figures (Zetwerk 0.23x, Tonbo 4.01x) also from HDFC Sky; consistent with this morning's story."
-    - "19 October 2026 is a Monday."
+    - "October 19, 2026, is a Monday."
 ---
 
 The two share sales that opened on Thursday continued to head in opposite directions on their second day. Zetwerk's ₹5,012.33 crore initial public offering had been subscribed only 0.31 times by Friday evening, while bids for Tonbo Imaging's ₹852.18 crore issue were close to eight times the shares on offer.
@@ -61,4 +61,4 @@ Tonbo Imaging, which makes electro-optic and thermal imaging systems for defence
 
 The entire Tonbo issue is an offer for sale by existing shareholders, priced at ₹665 to ₹700 a share, so the company itself will raise no new money.
 
-Both issues close on 19 October. Tonbo's shares are due to be allotted on 21 October, and both companies are expected to list on the BSE and NSE on 23 October.
+Both issues close on October 19. Tonbo's shares are due to be allotted on October 21, and both companies are expected to list on the BSE and NSE on October 23.

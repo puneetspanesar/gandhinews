@@ -12,7 +12,7 @@ location: Bengaluru
 keyPoints:
   - "CJI Surya Kant presided over NLSIU's **34th convocation** in Bengaluru on Saturday."
   - "He told graduates that **the law itself is a living conversation**."
-  - "The university had **cancelled the 12 September ceremony** after objections from students and alumni."
+  - "The university had **cancelled the September 12 ceremony** after objections from students and alumni."
 hero:
   need: "Two-panel: Chief Justice Surya Kant and the National Law School of India University campus, Bengaluru"
   suggested_source: "National Law School of India University"
@@ -22,7 +22,7 @@ hero:
     value: "Hear before judging"
 related: [attorney-general-consent-contempt-wagle-sanjay-raut-cji]
 seo:
-  description: "CJI Surya Kant presided over NLSIU Bengaluru's 34th convocation on 17 October, weeks after the September ceremony was cancelled over student objections."
+  description: "CJI Surya Kant presided over NLSIU Bengaluru's 34th convocation on October 17, weeks after the September ceremony was cancelled over student objections."
 sources:
   - title: "Uphold Constitution, Defend Liberty, Stand By Justice, CJI Surya Kant Tells NLSIU Graduates"
     publisher: "ETV Bharat"
@@ -50,7 +50,7 @@ verification:
     - "Speech quotes verbatim from ETV Bharat (5:09 pm). LiveLaw headline 'Disagree Without Denying Dignity, Hear Before Judging' seen only as a headline; used as paraphrase, not quoted. Published time set early afternoon since ceremony ran 11 am to 1 pm."
     - "Rescheduling detail (Kant met students, majority vote, understanding that BCI chief Manan Kumar Mishra would not attend; Arundhati Nag chief guest) rests on a DNA India report seen via an aggregator; hedged as 'reported'. Whether Mishra attended not confirmed."
     - "Whether any students boycotted or took degrees in absentia not reported."
-    - "Date of the original student statement (15 Aug) and 700+ objectors from The News Minute."
+    - "Date of the original student statement (Aug 15) and 700+ objectors from The News Minute."
 ---
 
 Chief Justice of India Surya Kant presided over the 34th convocation of the National Law School of India University (NLSIU) in Bengaluru on Saturday, at a ceremony that had been called off in August after students and alumni objected to his attending.
@@ -61,8 +61,8 @@ He warned the new lawyers that the road ahead would be hard. "The legal professi
 
 ## A ceremony called off, then restored
 
-The university had planned the convocation for 12 September but cancelled it on 27 August, citing "unavoidable circumstances" and offering degrees in absentia. More than 700 students and alumni had objected to the presence of the Chief Justice and Bar Council of India chairman Manan Kumar Mishra, after the BCI moved in August to halt the enrolment of NALSAR University of Law's graduating batch when students there opposed the CJI attending their own convocation. The BCI withdrew that direction within hours.
+The university had planned the convocation for September 12 but cancelled it on August 27, citing "unavoidable circumstances" and offering degrees in absentia. More than 700 students and alumni had objected to the presence of the Chief Justice and Bar Council of India chairman Manan Kumar Mishra, after the BCI moved in August to halt the enrolment of NALSAR University of Law's graduating batch when students there opposed the CJI attending their own convocation. The BCI withdrew that direction within hours.
 
-NLSIU's students said in a statement on 15 August that the BCI's action was "offensive, humiliating, and a mockery of students and their struggles". According to a timeline shared by the graduating batch, the university then made the ceremony conditional on a public, unanimous statement inviting the Chief Justice, which they declined.
+NLSIU's students said in a statement on August 15 that the BCI's action was "offensive, humiliating, and a mockery of students and their struggles". According to a timeline shared by the graduating batch, the university then made the ceremony conditional on a public, unanimous statement inviting the Chief Justice, which they declined.
 
 The Chief Justice was reported to have met the students afterwards, and a majority voted to hold the ceremony with him present on the understanding that Mishra would not attend. Theatre personality Arundhati Nag was listed as chief guest.

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source for sport-by-sport table. Totals (30-35-49, 114) match the site's 23 Oct story."
+    - "Single source for sport-by-sport table. Totals (30-35-49, 114) match the site's Oct 23 story."
     - "Source text says athletics gained '12 more medals' but its own table shows 55 to 65 (+10); used table figure."
     - "2023 squad size given as roughly 303 to 309; written as 'about 300'. Fourth place in medal table from same source."
     - "Para chess, canoeing and rowing absent from 2026 programme per source (blind chess, para-rowing, para-canoeing dropped)."

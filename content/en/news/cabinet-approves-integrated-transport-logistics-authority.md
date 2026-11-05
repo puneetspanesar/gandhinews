@@ -10,7 +10,7 @@ standfirst: "The Integrated Transport and Logistics Authority will draw up a nat
 published: 2026-10-12T07:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Union Cabinet on 6 October approved an **Integrated Transport and Logistics Authority (ITLA)**, set up as a special purpose vehicle."
+  - "The Union Cabinet on October 6 approved an **Integrated Transport and Logistics Authority (ITLA)**, set up as a special purpose vehicle."
   - "It will prepare a National Transport Master Plan with a horizon of **10 years or more** across eight sectors, from roads to urban mobility."
   - "It will technically appraise and monitor central infrastructure projects costing **₹500 crore or more**; financial appraisal stays where it is."
   - "The government's own study puts India's logistics cost at **7.97% of GDP** in 2023-24."
@@ -72,18 +72,18 @@ sources:
 verification:
   status: approved
   notes:
-    - "The PIB release itself (pib.gov.in) could not be located by search; the Cabinet release text was read on pmindia.gov.in (6 Oct 2026), and DD India's copy is credited to PIB. Functions, ₹500 crore threshold, 10-year horizon, 5-year sectoral plans and data sources all match across PMIndia, DD India, YourStory, Pioneer and Maritime Gateway."
+    - "The PIB release itself (pib.gov.in) could not be located by search; the Cabinet release text was read on pmindia.gov.in (Oct 6, 2026), and DD India's copy is credited to PIB. Functions, ₹500 crore threshold, 10-year horizon, 5-year sectoral plans and data sources all match across PMIndia, DD India, YourStory, Pioneer and Maritime Gateway."
     - "Housing in DPIIT (Commerce and Industry Ministry) rests on PSU Watch alone, so it is hedged as 'is reported to be'. The Cabinet release names no lead ministry."
     - "Piyush Goyal's quote is from his social media post as carried by PSU Watch only; the original post was not seen."
     - "Legal form: every source says only 'special purpose vehicle'. None says whether ITLA is a company or a statutory body, or whether a law is needed. The story says this plainly and makes no claim either way."
     - "Vaishnaw's remarks are paraphrased from News On AIR (7-8% GDP growth, rising logistics demand, apex body). News On AIR calls him Information and Broadcasting Minister."
-    - "Logistics cost: 7.97% of GDP and ₹24.01 lakh crore for 2023-24 from the PIB backgrounder of 27 Nov 2025 (DPIIT with NCAER). The older 13-14% figure is described in Maritime Gateway as commonly cited, mostly from external studies."
+    - "Logistics cost: 7.97% of GDP and ₹24.01 lakh crore for 2023-24 from the PIB backgrounder of Nov 27, 2025 (DPIIT with NCAER). The older 13-14% figure is described in Maritime Gateway as commonly cited, mostly from external studies."
     - "The same Cabinet meeting also approved a ₹10,000 crore SME Growth Fund (News On AIR only); left out as outside this story."
-    - "Cabinet meeting day: YourStory and DD India say Tuesday; 6 October 2026 is a Tuesday."
-    - "Fact-check 12 Oct: Cabinet release on pmindia.gov.in re-read; functions, ₹500 crore threshold, 10-year horizon, eight sectors, data sources and 'fragmented planning and implementation' quote confirmed. The release, DD India and PSU Watch do not mention PM Gati Shakti; only News On AIR says ITLA will complement it, so 'The government has said' was softened to 'was reported to be meant to' (EN and HI). PIB backgrounder of 27 Nov 2025 confirms 7.97%, ₹24.01 lakh crore, 9.09% and 'over 3,500 industry stakeholders'; DPIIT study itself was published 25 Sep 2025 (Outlook Business), so 'last year' holds. Goyal quote matches PSU Watch wording. Vaishnaw paraphrase rests on News On AIR only."
+    - "Cabinet meeting day: YourStory and DD India say Tuesday; October 6, 2026, is a Tuesday."
+    - "Fact-check Oct 12: Cabinet release on pmindia.gov.in re-read; functions, ₹500 crore threshold, 10-year horizon, eight sectors, data sources and 'fragmented planning and implementation' quote confirmed. The release, DD India and PSU Watch do not mention PM Gati Shakti; only News On AIR says ITLA will complement it, so 'The government has said' was softened to 'was reported to be meant to' (EN and HI). PIB backgrounder of Nov 27, 2025, confirms 7.97%, ₹24.01 lakh crore, 9.09% and 'over 3,500 industry stakeholders'; DPIIT study itself was published Sep 25, 2025 (Outlook Business), so 'last year' holds. Goyal quote matches PSU Watch wording. Vaishnaw paraphrase rests on News On AIR only."
 ---
 
-The Union Cabinet has approved an Integrated Transport and Logistics Authority (ITLA), a new body meant to plan India's roads, railways, ports, airports and waterways as one network. The decision was taken at the Cabinet meeting chaired by Prime Minister Narendra Modi on 6 October.
+The Union Cabinet has approved an Integrated Transport and Logistics Authority (ITLA), a new body meant to plan India's roads, railways, ports, airports and waterways as one network. The decision was taken at the Cabinet meeting chaired by Prime Minister Narendra Modi on October 6.
 
 The government says the authority will address "fragmented planning and implementation across multiple transport-related Ministries and agencies". Union Minister Ashwini Vaishnaw, briefing reporters after the meeting, linked the move to rising demand for logistics as the economy grows at around 7-8%, and to the highways, rail lines, waterways, airports and ports being built to meet it.
 
@@ -109,7 +109,7 @@ Commerce and Industry Minister Piyush Goyal set out the expected gains in a soci
 
 > Expected impact includes greater infrastructure efficiency, lower logistics costs, stronger multimodal connectivity.
 >
-> Source: Piyush Goyal, Union Minister of Commerce and Industry, 6 October 2026
+> Source: Piyush Goyal, Union Minister of Commerce and Industry, October 6, 2026
 
 ## The cost it is meant to bring down
 

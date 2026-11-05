@@ -6,11 +6,11 @@ section: states
 format_label: "States / Uttar Pradesh"
 topics: [states, elections-2027]
 title: "Yogi Adityanath takes charge of BJP's council poll push as teachers raise old pension"
-standfirst: "After a convention of teachers and workers in Varanasi, the Chief Minister campaigns in Prayagraj on Thursday. Polling for the Varanasi division seat is on 24 October."
+standfirst: "After a convention of teachers and workers in Varanasi, the Chief Minister campaigns in Prayagraj on Thursday. Polling for the Varanasi division seat is on October 24."
 published: 2026-10-15T11:30:00+05:30
 location: Varanasi
 keyPoints:
-  - "Voting for the Varanasi division's Legislative Council seat, spread over **eight districts**, is on 24 October."
+  - "Voting for the Varanasi division's Legislative Council seat, spread over **eight districts**, is on October 24."
   - "Adityanath told voters that **about 5,000 votes** were spoilt in the last election through small mistakes."
   - "Teachers say the **old pension scheme** is the issue that will decide their vote."
 hero:
@@ -18,10 +18,10 @@ hero:
   suggested_source: "Vidhan Bhavan Lucknow"
   alt: "Vidhan Bhavan in Lucknow, home of the Uttar Pradesh legislature"
   overlay:
-    value: "Council polls on 24 October"
+    value: "Council polls on October 24"
 related: [yogi-prayagraj-padmalok-flats-atiq-land-pmay-keys, up-yogi-releases-493-crore-crop-loss-relief-farmers, five-states-head-for-2027-assembly-polls]
 seo:
-  description: "Yogi Adityanath leads BJP's campaign for UP Legislative Council seats, polling 24 October in Varanasi division; teachers say old pension will decide their vote."
+  description: "Yogi Adityanath leads BJP's campaign for UP Legislative Council seats, polling October 24 in Varanasi division; teachers say old pension will decide their vote."
 sources:
   - title: "एमएलसी चुनाव को लेकर सीएम योगी ने खुद संभाला मोर्चा; शिक्षक बोले - पुरानी पेंशन पर होगा हार-जीत का निपटारा !"
     publisher: "ETV Bharat"
@@ -41,12 +41,12 @@ verification:
     - "Pradeep Agrahari's quote translated from Hindi."
     - "Teachers quoted by ETV Bharat are unnamed, so paraphrased."
     - "Prayagraj schedule (NRIPT ground meeting around 2 pm, Government Press Ground meeting for the teachers' seat candidate) from ETV Bharat's programme listing; written as scheduled. Candidate not named in sources."
-    - "Related story yogi-prayagraj-padmalok-flats-atiq-land-pmay-keys says 76 flats; ETV Bharat and ANI on 15 Oct say 602 (about 600) flats for Padma Lok. Flag for the editor."
+    - "Related story yogi-prayagraj-padmalok-flats-atiq-land-pmay-keys says 76 flats; ETV Bharat and ANI on Oct 15 say 602 (about 600) flats for Padma Lok. Flag for the editor."
 ---
 
 Chief Minister Yogi Adityanath has taken personal charge of the BJP's campaign for Uttar Pradesh's Legislative Council elections, where teachers say a single demand, the return of the old pension scheme, will settle their vote.
 
-In Varanasi on Wednesday, Adityanath addressed a convention of teachers and party workers from the eight districts that make up the Varanasi division seat. About 10,000 people attended. Voting is on 24 October, and the Chief Minister said polling day would be a holiday.
+In Varanasi on Wednesday, Adityanath addressed a convention of teachers and party workers from the eight districts that make up the Varanasi division seat. About 10,000 people attended. Voting is on October 24, and the Chief Minister said polling day would be a holiday.
 
 He asked voters to mark their ballots with care, reminding them that about 5,000 votes were declared invalid in the last election because of small mistakes.
 

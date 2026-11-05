@@ -22,7 +22,7 @@ hero:
     value: "Swiggy hits a new low"
 related: [results-today-hpcl-swiggy-havells-colgate-october-22, sensex-nifty-close-october-22-crude-110-west-asia]
 seo:
-  description: "Swiggy share price falls about 10% to a record low of ₹190.85 on 23 October 2026 after Q2 FY27 results: net loss ₹922 crore, revenue up 36%, Instamart loss ₹895 crore."
+  description: "Swiggy share price falls about 10% to a record low of ₹190.85 on October 23, 2026, after Q2 FY27 results: net loss ₹922 crore, revenue up 36%, Instamart loss ₹895 crore."
 sources:
   - title: "Swiggy slumps 10% to new low as Q2 below expectations, analysts cut targets"
     publisher: "Business Standard"

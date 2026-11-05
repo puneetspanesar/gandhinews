@@ -62,16 +62,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Updated 9:30 pm IST with closing figures. Sensex 71,924.68 (down 547.65) and Nifty 22,363.35 (down 157.10) per PTI (ThePrint); Kotak Neo has the same levels (-0.76%, -0.70%). Rupee close 95.78, up 93 paise, per PTI; PTI says only the 2 April move (166 paise) was larger in recent months. FII net sales of Rs 1,708.48 crore on Monday per PTI (exchange data, provisional)."
+    - "Updated 9:30 pm IST with closing figures. Sensex 71,924.68 (down 547.65) and Nifty 22,363.35 (down 157.10) per PTI (ThePrint); Kotak Neo has the same levels (-0.76%, -0.70%). Rupee close 95.78, up 93 paise, per PTI; PTI says only the April 2 move (166 paise) was larger in recent months. FII net sales of Rs 1,708.48 crore on Monday per PTI (exchange data, provisional)."
     - "Closing gainers/losers: Kotak Neo (Nifty) gainers Dr Reddy's, Bajaj Auto, Tata Motors PV, BEL, BSE; losers Apollo Hospitals, ITC, Tech Mahindra, L&T, Max Healthcare. Equitymaster (Sensex) losers ITC, HUL, Tech Mahindra; gainers BEL, Kotak Mahindra Bank, HCL Tech. Midcap 100 +0.08%, Smallcap 100 +1.42%, Nifty Media +4.60%, PSU Bank -1.18% per Kotak Neo."
     - "10-year yield 7.38% and VIX 8.1% are intraday figures; closing levels not found."
     - "Written at about 3 pm IST, before the market close at 3:30 pm. Index levels are afternoon figures: Sensex 71,905.69 (down 566.64, 0.78%) and Nifty 22,377.75 (down 142.70) per IndiaIPO citing Moneycontrol; Business Today has Nifty at 22,379.60 at 2:44 pm. Update with closing figures before or after publishing."
     - "Business Standard live blog headline says 'Sensex slumps 700 pts' but its own 2 pm entry shows a fall of about 550; the story uses the ~550 figure. Business Today gives a day's range of 72,884 high to 71,845 low (a 1,039-point swing)."
     - "Rupee: PTI (via HDFC Sky) has open at 95.61, 95.80 at 10:37 am, previous close 96.71; India TV has open 95.75 and previous close 96.73; Business Standard (Bloomberg-style copy) has 95.7575, up about 1%, biggest gain since April. No closing rupee figure yet."
     - "10-year yield: Business Today says up 8 bp to 7.38% (fourth straight session rise); Business Standard says up 5 bp to 7.35%, highest since November 2023, likely an earlier reading. Story uses 7.38% and does not repeat the 'highest since' claim."
-    - "Forex reserves: PTI says down $12.952 bn to $734.606 bn in the week to 2 October."
+    - "Forex reserves: PTI says down $12.952 bn to $734.606 bn in the week to October 2."
     - "The 'Rs 3 lakh crore' foreign outflow figure in Business Today has no period stated; left out. FII net selling of Rs 3,568.90 crore on Friday is from PTI and Upstox."
-    - "September CPI (4 pm) and HCLTech Q2 results (board meeting 12 Oct per company notice; timing not stated) had not been released at writing time."
+    - "September CPI (4 pm) and HCLTech Q2 results (board meeting Oct 12 per company notice; timing not stated) had not been released at writing time."
     - "Ashish Rajodiya's ~5.4% CPI expectation is his estimate, attributed."
 ---
 Indian shares closed lower on Monday even as the rupee posted its biggest one-day gain in six months, as rising bond yields and steady foreign selling outweighed relief from the Reserve Bank of India's weekend steps to defend the currency.
@@ -88,11 +88,11 @@ The RBI announced on Saturday that it would meet the full daily dollar needs of 
 
 Madhavi Arora, lead economist at Emkay Global Financial Services, called the measures "tactical fixes, not structural solutions", saying they should curb speculation and offer the rupee some near-term support.
 
-Defending the currency has been costly. Foreign exchange reserves fell by $12.95 billion to $734.61 billion in the week to 2 October.
+Defending the currency has been costly. Foreign exchange reserves fell by $12.95 billion to $734.61 billion in the week to October 2.
 
 ## Why stocks fell anyway
 
-Bond markets told a different story. India's 10-year government bond yield rose 8 basis points to 7.38% during the day, its fourth straight daily rise, after the RBI raised the repo rate to 5.50% last week and said banks must hold 99% of their required cash reserve every day from 16 October.
+Bond markets told a different story. India's 10-year government bond yield rose 8 basis points to 7.38% during the day, its fourth straight daily rise, after the RBI raised the repo rate to 5.50% last week and said banks must hold 99% of their required cash reserve every day from October 16.
 
 FMCG, bank and IT stocks led the losses. ITC, Hindustan Unilever and Tech Mahindra were among the biggest drags, with Hindustan Unilever touching a 52-week low during the session. Larsen & Toubro and Apollo Hospitals also fell, and the Nifty PSU Bank index lost 1.18%. Dr Reddy's, Bajaj Auto and Bharat Electronics gained, and media stocks jumped 4.60%. The India VIX, a gauge of expected volatility, rose as much as 8.1%.
 

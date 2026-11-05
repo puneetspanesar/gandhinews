@@ -22,7 +22,7 @@ hero:
     value: "Three blasts in Aden"
 related: [houthis-hit-aden-palace-saudi-blames-iran, saudi-says-houthis-aimed-missiles-makkah-madina-houthis-deny, yemen-taiz-fighting-260000-displaced-ocha]
 seo:
-  description: "Three explosions were heard in Aden on 24 October as the Houthis claimed an attack on the Al-Nasr camp and a naval base they said were overseen by Saudi forces."
+  description: "Three explosions were heard in Aden on October 24 as the Houthis claimed an attack on the Al-Nasr camp and a naval base they said were overseen by Saudi forces."
 sources:
   - title: "Pezeshkian stresses Iran must get out of 'no war, no peace' situation (live updates, 24 Oct)"
     publisher: "Dawn"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Dawn live blog entries 7:01 pm and 7:43 pm PKT, credited to AFP. Police officials not named. Saree quote verbatim as printed."
-    - "Background on earlier Aden attacks (palace compound, at least five killed; two missiles at airport, 16 Oct) and Iran denial/mediation offer from CBS live blog."
+    - "Background on earlier Aden attacks (palace compound, at least five killed; two missiles at airport, Oct 16) and Iran denial/mediation offer from CBS live blog."
     - "No casualty figures or Saudi/coalition comment on the Aden attack found."
 ---
 

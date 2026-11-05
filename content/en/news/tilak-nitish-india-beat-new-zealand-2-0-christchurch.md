@@ -82,4 +82,4 @@ Before the match Iyer had said, "It is important to maintain the aggression and 
 
 ## What comes next
 
-The series moves to Wellington for the third match on Tuesday, 27 October, with India one win from sealing it. The last two games are in Auckland on 30 October and Hamilton on 1 November.
+The series moves to Wellington for the third match on Tuesday, October 27, with India one win from sealing it. The last two games are in Auckland on October 30 and Hamilton on November 1.

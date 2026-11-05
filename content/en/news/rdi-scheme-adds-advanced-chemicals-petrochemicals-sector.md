@@ -11,7 +11,7 @@ published: 2026-10-14T21:50:00+05:30
 location: New Delhi
 keyPoints:
   - "Advanced chemicals, petrochemicals and materials are now a **sector eligible for RDI funding**."
-  - "The change took effect on **8 October 2026**."
+  - "The change took effect on **October 8, 2026**."
   - "The scheme, launched in November 2025, has a **₹1 lakh crore corpus**."
 hero:
   need: "A large petrochemical complex in India, such as the ONGC Petro additions plant at Dahej, Gujarat"
@@ -37,7 +37,7 @@ verification:
 
 The government has added advanced chemicals, petrochemicals and materials technologies to the list of sectors that can draw money from its ₹1 lakh crore Research, Development and Innovation (RDI) scheme, opening a large pool of long-term research finance to the chemicals industry.
 
-The Department of Chemicals and Petrochemicals proposed the change and the Department of Science and Technology, which runs the scheme, approved it. It took effect on 8 October and was announced on Wednesday.
+The Department of Chemicals and Petrochemicals proposed the change and the Department of Science and Technology, which runs the scheme, approved it. It took effect on October 8 and was announced on Wednesday.
 
 The RDI scheme was launched in November 2025 to bring private companies into research and development. It offers long-term financing and refinancing on easy terms for high-impact projects, with the aim of speeding up the adoption of advanced technology and building self-reliance in critical and emerging sectors. The ministry said the inclusion should strengthen research in chemicals and petrochemicals and help develop home-grown technology for advanced industrial use.
 

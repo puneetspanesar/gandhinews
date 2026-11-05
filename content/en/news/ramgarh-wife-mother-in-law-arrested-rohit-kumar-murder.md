@@ -10,7 +10,7 @@ standfirst: "Rohit Kumar's body was found by a bridge on the Giddi-Naisarai road
 published: 2026-10-24T18:00:00+05:30
 location: Ramgarh
 keyPoints:
-  - "Rohit Kumar, 38, was found dead with **multiple injuries** near a bridge on 21 October."
+  - "Rohit Kumar, 38, was found dead with **multiple injuries** near a bridge on October 21."
   - "A special investigation team arrested **four people**, including his wife Anju Devi."
   - "Police seized a **blood-stained wooden plank** and a dupatta allegedly used in the killing."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Four held, including the wife"
 related: []
 seo:
-  description: "Ramgarh police arrested four people, including Rohit Kumar's wife and mother-in-law, for his murder. His body was found near Parsa Nala bridge on 21 October."
+  description: "Ramgarh police arrested four people, including Rohit Kumar's wife and mother-in-law, for his murder. His body was found near Parsa Nala bridge on October 21."
 sources:
   - title: "Wife among four arrested for man's murder in Jharkhand's Ramgarh"
     publisher: "ThePrint (PTI)"
@@ -38,7 +38,7 @@ verification:
 
 Police in Jharkhand's Ramgarh district have arrested four people, among them the victim's wife and mother-in-law, for the murder of a 38-year-old man whose body was found beside a bridge earlier this week.
 
-Rohit Kumar, from Katua Beda village in Mandu block, lived in a rented house in Ramgarh town. His body, with several injury marks, was found on the morning of 21 October near a bridge over the Parsa Nala on the Giddi-Naisarai road.
+Rohit Kumar, from Katua Beda village in Mandu block, lived in a rented house in Ramgarh town. His body, with several injury marks, was found on the morning of October 21 near a bridge over the Parsa Nala on the Giddi-Naisarai road.
 
 He and his wife, Anju Devi, 32, had gone to a Durga Puja fair in Argada, where the two are said to have argued. Kumar went missing after that. His brother, Karan Kumar, filed a written complaint at Mandu (Kuju) police station.
 

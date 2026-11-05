@@ -22,7 +22,7 @@ hero:
     value: "Two Indians, two quarter-finals"
 related: [ashmita-chaliha-stuns-yamaguchi-sindhu-french-open-quarters, dilip-gavit-solairaj-gold-india-88-medals-asian-para-games, india-record-chase-beat-new-zealand-christchurch-naman-dhir, south-africa-beat-australia-innings-gqeberha-series-level]
 seo:
-  description: "Friday 23 October sport preview: Sindhu and Ashmita Chaliha in French Open quarter-finals, India at 88 medals at the Asian Para Games, India lead New Zealand 1-0 in T20Is."
+  description: "Friday, October 23 sport preview: Sindhu and Ashmita Chaliha in French Open quarter-finals, India at 88 medals at the Asian Para Games, India lead New Zealand 1-0 in T20Is."
 sources:
   - title: "Sindhu, Ashmita enter quarterfinals of French Open badminton (PTI)"
     publisher: "ThePrint"
@@ -64,6 +64,6 @@ In Japan, India's para athletes go into another day of competition in Aichi-Nago
 
 ## Cricket
 
-India's T20 side are 1-0 up after their four-wicket win over New Zealand in Christchurch, where they chased 226 with two balls to spare in the first of five matches. Sanju Samson made 67 off 33 and Naman Dhir 42 not out off 15. The series runs until 1 November, with every match starting at 12:30 pm IST.
+India's T20 side are 1-0 up after their four-wicket win over New Zealand in Christchurch, where they chased 226 with two balls to spare in the first of five matches. Sanju Samson made 67 off 33 and Naman Dhir 42 not out off 15. The series runs until November 1, with every match starting at 12:30 pm IST.
 
 Elsewhere, Australia and South Africa head to Cape Town for a Test series decider at Newlands from Tuesday after South Africa's innings win in Gqeberha levelled the series at 1-1.

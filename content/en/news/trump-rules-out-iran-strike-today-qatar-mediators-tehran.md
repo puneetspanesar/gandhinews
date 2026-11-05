@@ -22,7 +22,7 @@ hero:
     value: "'No strike today', but no deal either"
 related: [trump-says-us-could-strike-iran-sunday-or-deal, iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace, brics-parliamentary-forum-delhi-volodin-ghalibaf-joint-statement, istanbul-ministers-reject-new-iran-attack-trump-epic-fury]
 seo:
-  description: "Trump said on 25 October there would be no US strike on Iran that day, as Qatari mediators visited Tehran and Iran said messages were still reaching Washington."
+  description: "Trump said on October 25 there would be no US strike on Iran that day, as Qatari mediators visited Tehran and Iran said messages were still reaching Washington."
 sources:
   - title: "Trump rules out an Iran strike for today, weighs deal against further military action"
     publisher: "Pakistan Today"
@@ -79,7 +79,7 @@ As he spoke, Qatari mediators were in Tehran, part of a push to ease a crisis th
 
 Earlier on Sunday, in an interview with Fox News, Mr Trump framed his options bluntly. "Do I make a deal with them, or do I finish them off?" he asked. He said finishing the job "would be very easy to do", added that "we don't play games", and claimed the US now controls the Strait of Hormuz.
 
-He has said he will not strike Iran before the 3 November midterm elections. US officials have warned that the weeks between that vote and the new Congress taking office could be the most dangerous, and Washington has kept building up its forces, including a third aircraft carrier group sent to the Gulf.
+He has said he will not strike Iran before the November 3 midterm elections. US officials have warned that the weeks between that vote and the new Congress taking office could be the most dangerous, and Washington has kept building up its forces, including a third aircraft carrier group sent to the Gulf.
 
 ## Tehran keeps a door open
 

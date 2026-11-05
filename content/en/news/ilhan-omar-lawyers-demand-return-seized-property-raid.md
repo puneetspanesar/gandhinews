@@ -10,7 +10,7 @@ standfirst: "In a letter to federal prosecutors, the Minnesota congresswoman's l
 published: 2026-10-17T18:45:00+05:30
 location: Washington
 keyPoints:
-  - "Federal agents searched Omar's home on 12 October in an **alleged immigration fraud** inquiry."
+  - "Federal agents searched Omar's home on October 12 in an **alleged immigration fraud** inquiry."
   - "Her lawyers say the search **'was neither justified nor lawful'** and want her phone and passport back."
   - "The Justice Department says its lawyers **complied with all court orders**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "'Neither justified nor lawful'"
 related: [trump-kentucky-rally-gallrein-midterms-massie]
 seo:
-  description: "Ilhan Omar's lawyers told prosecutors the 12 October search of her Washington home was unlawful and sought her seized phone and passport; the DOJ disputes it."
+  description: "Ilhan Omar's lawyers told prosecutors the October 12 search of her Washington home was unlawful and sought her seized phone and passport; the DOJ disputes it."
 sources:
   - title: "Ilhan Omar's lawyers demand the return of property seized in house raid"
     publisher: "Al Jazeera (AP)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: AP report carried by Al Jazeera. The letter (dated Friday 16 Oct) was obtained by AP."
+    - "Single source: AP report carried by Al Jazeera. The letter (dated Friday, Oct 16) was obtained by AP."
     - "Agency leading the search not named; photo caption showed Homeland Security officers. Copy says 'federal agents'."
     - "Grand jury subpoenas (more than a dozen) and 2019 inquiry finding rest on Washington Post reporting cited by AP; hedged as 'reported'."
     - "Reported administration move to strip Omar's citizenship rests on a WSJ report cited in a linked headline; hedged."
@@ -41,7 +41,7 @@ verification:
 
 Lawyers for Ilhan Omar, the Democratic congresswoman from Minnesota, have told federal prosecutors that this week's search of her Washington home "was neither justified nor lawful" and asked for the return of her phone and passport, which agents took away.
 
-Federal agents searched Omar's home in north-east Washington on Monday, 12 October, as part of an investigation into alleged immigration fraud. In a letter to prosecutors on Friday, her lawyers, Amy Jeffress and Joshua Matz, said investigators had not given them a copy of the warrant in advance and had not contacted the House of Representatives' Office of General Counsel, in disregard of a magistrate judge's orders.
+Federal agents searched Omar's home in north-east Washington on Monday, October 12, as part of an investigation into alleged immigration fraud. In a letter to prosecutors on Friday, her lawyers, Amy Jeffress and Joshua Matz, said investigators had not given them a copy of the warrant in advance and had not contacted the House of Representatives' Office of General Counsel, in disregard of a magistrate judge's orders.
 
 Advance notice, they argued, would have let Omar take advice and perhaps challenge the warrant. The judge's procedures, they wrote, protect the rights of a sitting member of Congress and guard against the seizure of material linked to her legislative work. They said there was "no legitimate basis" to suggest she had broken any law on citizenship, called the inquiry politically motivated ahead of the November midterms, and asked that audio and video recordings of the search be preserved.
 

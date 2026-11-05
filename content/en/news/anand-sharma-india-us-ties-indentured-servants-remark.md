@@ -22,7 +22,7 @@ hero:
     value: "\"We cannot be dictated to\""
 related: [us-suspends-indian-it-firms-green-card-sponsorship]
 seo:
-  description: "Former Union minister Anand Sharma on 18 October backed the government's firm response to a remark calling Indian IT professionals indentured servants, saying India cannot be dictated to."
+  description: "Former Union minister Anand Sharma on October 18 backed the government's firm response to a remark calling Indian IT professionals indentured servants, saying India cannot be dictated to."
 sources:
   - title: "India-US strategic ties must respect sovereignty: Congress' Anand Sharma backs firm stand on 'indentured servants' remark"
     publisher: "ANI"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: ANI 2:57 pm IST. Source does not say who used the phrase 'indentured servants'; copy deliberately does not name the speaker. Foreign Minister's statement not quoted in source and not read."
-    - "Rubio context: ANI says the remarks came amid discussion of Rubio's India engagement; Rubio in India until 22 Oct per earlier Gandhi News week-ahead story."
+    - "Rubio context: ANI says the remarks came amid discussion of Rubio's India engagement; Rubio in India until Oct 22 per earlier Gandhi News week-ahead story."
     - "Related story on US green card sponsorship suspension may be the backdrop but link not confirmed; kept only as related."
 ---
 
@@ -47,4 +47,4 @@ His remarks came as US Secretary of State Marco Rubio's engagement with India wa
 
 "The Indian government must remain firm in defending India's sovereignty," he said, adding: "India is a large country and has a rightful aspiration to be part of the global leadership."
 
-Rubio is in India until 22 October, with talks with External Affairs Minister S Jaishankar in Mumbai due on Tuesday.
+Rubio is in India until October 22, with talks with External Affairs Minister S Jaishankar in Mumbai due on Tuesday.

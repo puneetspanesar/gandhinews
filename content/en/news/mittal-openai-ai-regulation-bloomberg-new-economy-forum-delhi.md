@@ -47,14 +47,14 @@ verification:
   status: approved
   notes:
     - "Mittal's quotes come in fragments in the PTI copy; only complete fragments used verbatim. Venue within New Delhi not reported."
-    - "Forum dates 13-15 Oct and New Delhi location from exchange4media (May 2026 announcement)."
+    - "Forum dates Oct 13-15 and New Delhi location from exchange4media (May 2026 announcement)."
     - "Misra quotes and Cars24 figures from PTI via Business Standard, 10:45 pm IST. The unnamed healthcare company example is from her remarks."
     - "Anthropic source read for context only; not used in copy."
 ---
 
 Bharti Airtel chairman Sunil Mittal said on Wednesday that governments must set rules for artificial intelligence before something goes wrong, while warning against choking off its growth.
 
-"We need to think about the regulation. I don't think we need to stifle it or stop the growth of it," Mittal told the Bloomberg New Economy Forum, which is meeting in New Delhi from 13 to 15 October. But "it will be foolish for anybody to think that we can let it flow", he added. "Are we going to wake up only when an accident happens or we do it before."
+"We need to think about the regulation. I don't think we need to stifle it or stop the growth of it," Mittal told the Bloomberg New Economy Forum, which is meeting in New Delhi from October 13 to 15. But "it will be foolish for anybody to think that we can let it flow", he added. "Are we going to wake up only when an accident happens or we do it before."
 
 He said there was suddenly "a scrambling around the government corridors" over how to keep countries secure as AI spreads into every part of life, and that international talks were lagging. "Unfortunately, that conversation is not happening at the pace it should," he said.
 

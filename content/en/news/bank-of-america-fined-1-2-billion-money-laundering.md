@@ -21,7 +21,7 @@ hero:
     value: "$1.21 billion in penalties"
 related: []
 seo:
-  description: "The US Treasury fined Bank of America more than $1.21 billion on 13 October over anti-money laundering failures and 475 apparent sanctions violations."
+  description: "The US Treasury fined Bank of America more than $1.21 billion on October 13 over anti-money laundering failures and 475 apparent sanctions violations."
 sources:
   - title: "US fines Bank of America $1.2bn for money laundering, sanctions violations (AP)"
     publisher: "Al Jazeera"

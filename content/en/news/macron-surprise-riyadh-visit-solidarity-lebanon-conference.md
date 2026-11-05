@@ -44,7 +44,7 @@ verification:
   notes:
     - "Riyadh landing (1:56 pm BST / 6:26 pm IST), solidarity purpose, Lebanon conference and LNG quotes from The New Arab live blog, citing Macron's remarks. Single media source; quotes are Macron's own words."
     - "Outcome of the Macron-MBS meeting not reported at the time of writing; copy says he was due to meet him."
-    - "Israel election date (27 October) from Times of Israel."
+    - "Israel election date (October 27) from Times of Israel."
     - "Earlier tour stops (Kuwait agreements, UAE and Bahrain diesel) from our story macron-gulf-tour-diesel-deals-uae-bahrain and its sources."
 ---
 
@@ -56,7 +56,7 @@ The tour's other purpose is closer to home. Macron is trying to lock in diesel, 
 
 ## Lebanon conference on hold
 
-Macron also said France would organise a conference to support the Lebanese army "in the coming weeks", but only after Israel's general election on 27 October. Holding it before the vote would be "useless", he said.
+Macron also said France would organise a conference to support the Lebanese army "in the coming weeks", but only after Israel's general election on October 27. Holding it before the vote would be "useless", he said.
 
 The Lebanese army is central to Western plans to stabilise southern Lebanon, where Israeli troops still hold positions and Hezbollah has not given up its weapons.
 

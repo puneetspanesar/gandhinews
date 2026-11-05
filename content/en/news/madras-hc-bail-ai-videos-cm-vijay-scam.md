@@ -22,7 +22,7 @@ hero:
     value: "Fake Vijay videos, real bail"
 related: []
 seo:
-  description: "The Madras High Court on 23 October 2026 granted bail to Shyabu Khan, accused of using AI-made videos of Tamil Nadu CM Vijay on Facebook to collect money."
+  description: "The Madras High Court on October 23, 2026, granted bail to Shyabu Khan, accused of using AI-made videos of Tamil Nadu CM Vijay on Facebook to collect money."
 sources:
   - title: "Madras High Court Grants Bail To Man Accused Of Using AI Videos Of CM Joseph Vijay To Scam Public"
     publisher: "LiveLaw"
@@ -38,12 +38,12 @@ verification:
 
 The Madras High Court on Friday granted bail to a man from Rajasthan accused of using fake videos of Tamil Nadu Chief Minister Joseph Vijay, made with artificial intelligence, to cheat people on Facebook.
 
-Justice N Ramesh granted conditional bail to Shyabu Khan, who has been in judicial custody since his arrest on 12 September. He must report to the police in his area every day until further orders and furnish two sureties, one of them a relative and the other a local resident.
+Justice N Ramesh granted conditional bail to Shyabu Khan, who has been in judicial custody since his arrest on September 12. He must report to the police in his area every day until further orders and furnish two sureties, one of them a relative and the other a local resident.
 
 According to the prosecution, Khan created the AI videos of the Chief Minister and posted them on two Facebook profiles, "All India Help Vijay Thalapati" and "All India Help", which asked people to get in touch for help. He then allegedly collected registration fees from those who did. The government advocate told the court he had collected ₹16,000 using the Chief Minister's name.
 
 He faces charges under five sections of the Bharatiya Nyaya Sanhita and Sections 66C and 66D of the Information Technology Act.
 
-Khan's lawyers argued that a friend had made the videos using his phone number and Facebook account and had also operated his bank account, and that Khan knew nothing about them and had no intention of cheating anyone. A trial court had turned down his bail plea on 14 October because the investigation was still going on.
+Khan's lawyers argued that a friend had made the videos using his phone number and Facebook account and had also operated his bank account, and that Khan knew nothing about them and had no intention of cheating anyone. A trial court had turned down his bail plea on October 14 because the investigation was still going on.
 
 In the High Court, Khan said he had spent more than 45 days in custody and the investigation was over. The judge noted that the inquiry was complete, the chargesheet was ready and the mobile phone said to have been used had been seized, and allowed bail.

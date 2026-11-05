@@ -22,7 +22,7 @@ hero:
     value: "A busy Wednesday in court"
 related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
 seo:
-  description: "On 21 October, CJP leaders Saurav Das and Ashutosh Ranka return before a Delhi magistrate, and a Supreme Court vacation bench hears the YSRCP and Pinarayi Vijayan pleas."
+  description: "On October 21, CJP leaders Saurav Das and Ashutosh Ranka return before a Delhi magistrate, and a Supreme Court vacation bench hears the YSRCP and Pinarayi Vijayan pleas."
 sources:
   - title: "CJP Leaders Saurav Das, Ashutosh Ranka Move Delhi High Court Against Judicial Custody (headline only; article not accessible)"
     publisher: "LiveLaw"
@@ -52,11 +52,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Run of 21 Oct 5:30 am: web fetching was largely blocked by unanswered permission prompts and the search index was stale, so this preview rests on facts already in published Gandhi News stories (custody extension, vacation bench, Kharge), whose sources are carried over above."
-    - "Delhi HC plea: known only from a LiveLaw headline (ID 555408, listed on top-stories page on 21 Oct early morning). Bench, listing date and grounds not known; copy says only that they have moved the High Court and that no hearing date has been announced in what we saw. Hedged."
-    - "SEM: Ritu Raj, 2 pm on 21 Oct, per IANS (19 Oct)."
-    - "Vacation bench composition (Bagchi, Mohana) per PTI-Bhasha via ThePrint Hindi, 20 Oct; hearing time not reported."
-    - "Kharge: did not say whether he would meet Modi in person (PTI, 20 Oct)."
+    - "Run of Oct 21 5:30 am: web fetching was largely blocked by unanswered permission prompts and the search index was stale, so this preview rests on facts already in published Gandhi News stories (custody extension, vacation bench, Kharge), whose sources are carried over above."
+    - "Delhi HC plea: known only from a LiveLaw headline (ID 555408, listed on top-stories page on Oct 21 early morning). Bench, listing date and grounds not known; copy says only that they have moved the High Court and that no hearing date has been announced in what we saw. Hedged."
+    - "SEM: Ritu Raj, 2 pm on Oct 21, per IANS (Oct 19)."
+    - "Vacation bench composition (Bagchi, Mohana) per PTI-Bhasha via ThePrint Hindi, Oct 20; hearing time not reported."
+    - "Kharge: did not say whether he would meet Modi in person (PTI, Oct 20)."
 ---
 
 Two Cockroach Janta Party leaders, a former chief minister's family and an opposition party fighting for a place on the ballot all have business before the courts on Wednesday, with the Supreme Court still on its Dussehra break.
@@ -67,11 +67,11 @@ Saurav Das and Ashutosh Ranka are due to be produced before Special Executive Ma
 
 They have also gone to the Delhi High Court against the extension of their custody. No hearing date had been announced by early Wednesday.
 
-The pair have been held since climbing the gate of Jantar Mantar with the Tricolour on 13 October, a day after the site was struck off the list of protest venues. On Tuesday party founder Abhijeet Dipke called their stand a satyagraha, and Shiv Sena (UBT) MP Sanjay Raut asked the Supreme Court to step in.
+The pair have been held since climbing the gate of Jantar Mantar with the Tricolour on October 13, a day after the site was struck off the list of protest venues. On Tuesday party founder Abhijeet Dipke called their stand a satyagraha, and Shiv Sena (UBT) MP Sanjay Raut asked the Supreme Court to step in.
 
 ## The vacation bench
 
-A special bench of Justices Joymalya Bagchi and V Mohana will hear the YSR Congress Party's challenge to an Andhra Pradesh High Court order of 18 October that refused to extend the deadline for nominations in the state's urban local body elections. The party says violence kept its candidates away from nomination centres and wants police protection, more time and more centres.
+A special bench of Justices Joymalya Bagchi and V Mohana will hear the YSR Congress Party's challenge to an Andhra Pradesh High Court order of October 18 that refused to extend the deadline for nominations in the state's urban local body elections. The party says violence kept its candidates away from nomination centres and wants police protection, more time and more centres.
 
 The same bench takes up the pleas of former Keralam chief minister Pinarayi Vijayan, his daughter Veena T and P A Mohammed Riyas against the High Court orders that led to a vigilance case in the CMRL-Exalogic matter. Arguing for an early hearing last week, senior advocate Siddharth Luthra told the court: "It is a matter of liberty."
 
@@ -79,4 +79,4 @@ The same bench takes up the pleas of former Keralam chief minister Pinarayi Vija
 
 Congress president Mallikarjun Kharge said in Kalaburagi on Tuesday that he would lay out his objections to the Special Intensive Revision, delimitation and the women's reservation plan to Prime Minister Narendra Modi on Wednesday. "I will explain everything to him tomorrow, including the harm caused by the SIR," he said. He did not say whether that would be at a meeting in person.
 
-The Supreme Court's regular benches return on 26 October.
+The Supreme Court's regular benches return on October 26.

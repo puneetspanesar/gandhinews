@@ -41,10 +41,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "2026 final: single source (The Sunday Guardian, 12:35 pm IST 15 Oct). Score 12-13, opponent Koba Karumidze (Georgia), decided in final seconds; quarter-final win 8-1 over Iran's Shamsipour (first name not given), described as U20 world champion. Earlier-round and semi-final opponents not given."
+    - "2026 final: single source (The Sunday Guardian, 12:35 pm IST Oct 15). Score 12-13, opponent Koba Karumidze (Georgia), decided in final seconds; quarter-final win 8-1 over Iran's Shamsipour (first name not given), described as U20 world champion. Earlier-round and semi-final opponents not given."
     - "Previous bronzes: 2024 and 2025 (Serbia, 55kg) from News On AIR headlines in search results."
     - "Visa denial for nine Indian wrestlers including Neha Sangwan: reported by The Sunday Guardian only; hedged in copy."
-    - "Timing: final described as Thursday 15 Oct; Las Vegas is 12.5 hours behind IST, so copy says 'early on Thursday, India time'."
+    - "Timing: final described as Thursday, Oct 15; Las Vegas is 12.5 hours behind IST, so copy says 'early on Thursday, India time'."
 ---
 
 Vishvajit More came within a point of a world title at the U23 World Wrestling Championships in Las Vegas, losing the 55kg Greco-Roman final 12-13 to Georgia's Koba Karumidze in a bout settled in its final seconds.
@@ -57,4 +57,4 @@ His run in Las Vegas included an 8-1 quarter-final win over Iran's Shamsipour, t
 
 India's challenge in the United States has been weakened off the mat. Nine Indian wrestlers, among them the 2024 U17 world champion Neha Sangwan, were reported to have been refused US visas for the event, on the grounds that they were under 20 and did not hold full-time jobs.
 
-The championships continue until 18 October.
+The championships continue until October 18.

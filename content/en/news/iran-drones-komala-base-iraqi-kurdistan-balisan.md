@@ -12,7 +12,7 @@ location: Erbil
 keyPoints:
   - "Mehr said Revolutionary Guards drones targeted **Komala's headquarters in Balisan**."
   - "The Guards have **not claimed** the strike themselves."
-  - "Nine Komala members were killed in an attack near Sulaymaniyah on **17 July**."
+  - "Nine Komala members were killed in an attack near Sulaymaniyah on **July 17**."
 hero:
   need: "Landscape of the Balisan valley in Iraqi Kurdistan"
   suggested_source: "Balisan valley"
@@ -22,7 +22,7 @@ hero:
     value: "Drone strike on Komala base"
 related: [iran-abdollahi-no-us-warships-gulf-pezeshkian-moscow, iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace]
 seo:
-  description: "Iran's Mehr news agency said Revolutionary Guards drones targeted the Iranian Kurdish group Komala's headquarters in Balisan, Iraqi Kurdistan, on 25 October."
+  description: "Iran's Mehr news agency said Revolutionary Guards drones targeted the Iranian Kurdish group Komala's headquarters in Balisan, Iraqi Kurdistan, on October 25."
 sources:
   - title: "Liveblog, 25 October 2026 (AFP entry)"
     publisher: "The Times of Israel"
@@ -42,7 +42,7 @@ The Mehr news agency said a Revolutionary Guards drone operation had targeted Ko
 
 ## A long-running campaign
 
-Tehran has repeatedly hit Iranian Kurdish groups based across the border since the regional war began in February. It accuses them of having Israeli support. The deadliest recent attack came on 17 July, when nine Komala members were killed near Sulaymaniyah.
+Tehran has repeatedly hit Iranian Kurdish groups based across the border since the regional war began in February. It accuses them of having Israeli support. The deadliest recent attack came on July 17, when nine Komala members were killed near Sulaymaniyah.
 
 ## Why it matters beyond Iraq
 

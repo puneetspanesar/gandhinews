@@ -6,7 +6,7 @@ section: world
 format_label: World / US
 topics: [inflation]
 title: "US inflation climbs to 3.7% in last reading before the midterms"
-standfirst: "A 9.1% jump in petrol prices drove most of September's rise. The data revives talk of a second Federal Reserve rate increase when policymakers meet on 27-28 October."
+standfirst: "A 9.1% jump in petrol prices drove most of September's rise. The data revives talk of a second Federal Reserve rate increase when policymakers meet on October 27-28."
 published: 2026-10-14T18:40:00+05:30
 location: Washington
 keyPoints:
@@ -21,7 +21,7 @@ hero:
     value: "US prices up 3.7% in September"
 related: [gold-slips-near-1-5-lakh-ahead-of-us-inflation-data, oil-jumps-after-saudi-airport-attacks-wall-street-mixed, retail-inflation-september-2026-5-54]
 seo:
-  description: "US consumer inflation rose to 3.7% in September as petrol jumped 9.1%, the last CPI reading before the 3 November midterms, raising odds of a Fed rate hike."
+  description: "US consumer inflation rose to 3.7% in September as petrol jumped 9.1%, the last CPI reading before the November 3 midterms, raising odds of a Fed rate hike."
 sources:
   - title: "US inflation rises before midterm elections, fuelling rate hike fears"
     publisher: "Al Jazeera"
@@ -43,14 +43,14 @@ verification:
   notes:
     - "September figures (3.7% y/y, 0.6% m/m, petrol +9.1% m/m and +34.2% y/y, shelter +0.4%, food flat, software +28% y/y) from Al Jazeera only; the BLS release itself could not be opened (fetch refused). Consensus of 3.7% and 0.6% from the investingLive preview, so 'in line with forecasts' rests on that preview."
     - "Core CPI for September not found in any source read; left out. Preview expected core at 2.4% y/y."
-    - "August 3.4% matches the Reuters report (The Edge, 11 Sep). Fed chair named as Kevin Warsh there."
-    - "Fed meeting dates 27-28 October from investingLive preview. CME FedWatch 52.9% hold / 47.1% hike from Al Jazeera."
+    - "August 3.4% matches the Reuters report (The Edge, Sep 11). Fed chair named as Kevin Warsh there."
+    - "Fed meeting dates October 27-28 from investingLive preview. CME FedWatch 52.9% hold / 47.1% hike from Al Jazeera."
     - "Reuters/Ipsos 78% figure carried by Al Jazeera; poll itself not opened."
 ---
 
-Inflation in the United States picked up in September, driven by a surge in petrol costs, in the last inflation report Americans will see before they vote in the 3 November midterm elections.
+Inflation in the United States picked up in September, driven by a surge in petrol costs, in the last inflation report Americans will see before they vote in the November 3 midterm elections.
 
-The consumer price index rose 3.7% from a year earlier, the Bureau of Labor Statistics said on Wednesday, up from 3.4% in August. Prices climbed 0.6% in the month alone. Both figures were in line with what economists had forecast, but they leave the Federal Reserve with an uncomfortable choice when it meets on 27 and 28 October.
+The consumer price index rose 3.7% from a year earlier, the Bureau of Labor Statistics said on Wednesday, up from 3.4% in August. Prices climbed 0.6% in the month alone. Both figures were in line with what economists had forecast, but they leave the Federal Reserve with an uncomfortable choice when it meets on October 27 and 28.
 
 ## Petrol does most of the damage
 

@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov evening IST, results after market close; Business Standard first published 6:29 pm IST, FPJ 6:51 pm IST, Whalesbook 6:47 pm IST."
+    - "event: Nov 4 evening IST, results after market close; Business Standard first published 6:29 pm IST, FPJ 6:51 pm IST, Whalesbook 6:47 pm IST."
     - "PAT 809.15 vs 558.43 cr (YoY), 874.02 cr (Q1); revenue 1,432.66 vs 1,068.39 cr, Q1 1,566.02. EBITDA 984 vs 690.9 cr YoY, 1,071.9 Q1; margin 68.7% vs 68.45% Q1, 64.66% a year ago (FPJ only)."
-    - "Share close 3,601.50 on NSE, down 64.20 (1.75%), before results (FPJ). Ashutosh Singh ED Business (Vertical 3) from 30 Nov (FPJ only). BKC plot size and price not disclosed. No management quotes found; no dividend mentioned. Asia's oldest stock exchange and NSE being in BKC are general knowledge."
+    - "Share close 3,601.50 on NSE, down 64.20 (1.75%), before results (FPJ). Ashutosh Singh ED Business (Vertical 3) from Nov 30 (FPJ only). BKC plot size and price not disclosed. No management quotes found; no dividend mentioned. Asia's oldest stock exchange and NSE being in BKC are general knowledge."
 infographic:
   kicker: September quarter results
   headline: BSE profit rises 45% from a year ago
@@ -89,6 +89,6 @@ The board approved a proposal to **accept an offer from the Mumbai Metropolitan 
 
 The deal is at an early stage. It depends on completing the paperwork, meeting the conditions attached and signing final agreements with the authority. BSE **did not disclose the size or the price** of the plot and said it would give the terms once the agreements are signed.
 
-The board also approved the appointment of Ashutosh Singh as Executive Director, Business (Vertical 3), from 30 November, for five years subject to shareholders' approval.
+The board also approved the appointment of Ashutosh Singh as Executive Director, Business (Vertical 3), from November 30, for five years subject to shareholders' approval.
 
 BSE shares had closed 1.75% lower at ₹3,601.50 on the NSE before the results were announced. The exchange's results follow those of its larger rival NSE, whose quarterly profit rose 23% to ₹2,578 crore.

@@ -30,10 +30,10 @@ infographic:
     - {title: "Youth dialogue", text: "Meeting with young people"}
     - {title: "Public meeting", text: "Rally with Yogi Adityanath expected"}
     - {title: "Intellectuals", text: "Meeting with local opinion leaders"}
-  source: "BJP programme for 4 November 2026"
+  source: "BJP programme for November 4, 2026"
 related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe, rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign]
 seo:
-  description: "BJP president Nitin Nabin leads the party's 'Loktantra Bachao, Arajakta Hatao' padyatra and public meeting in Gorakhpur on 4 November, with Yogi Adityanath expected."
+  description: "BJP president Nitin Nabin leads the party's 'Loktantra Bachao, Arajakta Hatao' padyatra and public meeting in Gorakhpur on November 4, with Yogi Adityanath expected."
 sources:
   - title: "Aaj ke din: 04 November 2026 major events"
     publisher: "Amar Ujala"
@@ -48,10 +48,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event time: programme on Wed 4 Nov (Amar Ujala day-planner, 3 Nov). Start time and route not given; written as a preview."
+    - "Event time: programme on Wed Nov 4 (Amar Ujala day-planner, Nov 3). Start time and route not given; written as a preview."
     - "Single-source programme detail (Amar Ujala): padyatra, youth dialogue, public meeting, meeting with intellectuals; Yogi Adityanath and state BJP president Pankaj Chaudhary 'expected'. Hedged as expected."
-    - "Campaign purpose ('misinformation, propaganda and orchestrated chaos') is BJP's wording as reported by UNI, 31 Oct, for the Rohtak leg on 1 Nov."
-    - "No quotes from Nabin for today available yet. Patna 17 Oct quote from existing site story nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit; Ramlila Maidan from bjp-rohtak-padyatra-nabin-counter-india-bloc-rally."
+    - "Campaign purpose ('misinformation, propaganda and orchestrated chaos') is BJP's wording as reported by UNI, Oct 31, for the Rohtak leg on Nov 1."
+    - "No quotes from Nabin for today available yet. Patna Oct 17 quote from existing site story nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit; Ramlila Maidan from bjp-rohtak-padyatra-nabin-counter-india-bloc-rally."
 ---
 
 BJP president Nitin Nabin is due to bring the party's **"Loktantra Bachao, Arajakta Hatao" campaign** (Save Democracy, Remove Anarchy) to Gorakhpur on Wednesday, the home town of Uttar Pradesh Chief Minister Yogi Adityanath.
@@ -62,4 +62,4 @@ The BJP has been taking the marches from state to state, saying they are meant t
 
 The Gorakhpur event falls on the **same day as Rahul Gandhi's Insaaf Rally** in Punjab's Sangrur, where the Congress opens its campaign for next year's Assembly election. Uttar Pradesh also votes in 2027, and Gorakhpur, the seat of the Gorakhnath Math that Adityanath heads, is the BJP's strongest ground in the east of the state.
 
-Nabin has sharpened his attack on the opposition in recent weeks. At a rally in Patna on 17 October he called Rahul Gandhi **a "puppet of a foreign toolkit gang"** and said the opposition was insulting the people's mandate by blaming the Election Commission. The party is expected to use the Gorakhpur stage to press the same line in Uttar Pradesh.
+Nabin has sharpened his attack on the opposition in recent weeks. At a rally in Patna on October 17 he called Rahul Gandhi **a "puppet of a foreign toolkit gang"** and said the opposition was insulting the people's mandate by blaming the Election Commission. The party is expected to use the Gorakhpur stage to press the same line in Uttar Pradesh.

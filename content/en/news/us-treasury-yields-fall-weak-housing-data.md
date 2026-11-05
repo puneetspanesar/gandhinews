@@ -22,7 +22,7 @@ hero:
     value: "10-year yield down to 5.12%"
 related: [global-cues-dow-rallies-netflix-slides-brent-108-october-21, us-inflation-september-cpi-rises-before-midterms, sensex-falls-as-bond-yields-climb-rupee-best-day-since-april]
 seo:
-  description: "US Treasury yields fell on 20 October 2026 after weak housing data: 10-year at 5.12%, 30-year at 5.42%, 2-year at 4.79%. Dollar index slips to 101.71."
+  description: "US Treasury yields fell on October 20, 2026, after weak housing data: 10-year at 5.12%, 30-year at 5.42%, 2-year at 4.79%. Dollar index slips to 101.71."
 sources:
   - title: "Closing Look, Tuesday, October 20, 2026"
     publisher: "Capp Notes (Substack)"

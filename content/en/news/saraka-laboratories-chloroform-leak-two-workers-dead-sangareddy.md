@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ETV Bharat, 2:41 pm IST, 24 Oct). Leak about 11:15 pm Friday 23 Oct; story broke Saturday."
+    - "Single source (ETV Bharat, 2:41 pm IST, Oct 24). Leak about 11:15 pm Friday, Oct 23; story broke Saturday."
     - "Number hospitalised not given; six named. Their hospital not named."
     - "PCB shutdown order confirmed by EE Madhuri (Ramachandrapuram), no direct quote. Mahipal Reddy's constituency and Harish Rao's party not stated in source, left out."
     - "CI Nagarjuna Goud quote and Harish Rao's 'profound tragedy' verbatim from ETV Bharat."

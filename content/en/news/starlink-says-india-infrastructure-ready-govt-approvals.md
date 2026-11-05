@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Starlink X post dated 16 Oct; quoted in segments by PTI (via ThePrint 12:45 am IST and Siasat 2:27 am IST, 17 Oct) and Goodreturns (1:03 am IST). Wording identical across the three; joined here as one sentence. Exact posting hour not given; published time set for late Friday night."
+    - "Starlink X post dated Oct 16; quoted in segments by PTI (via ThePrint 12:45 am IST and Siasat 2:27 am IST, Oct 17) and Goodreturns (1:03 am IST). Wording identical across the three; joined here as one sentence. Exact posting hour not given; published time set for late Friday night."
     - "Mittal quote 'I applied five years back' from PTI copy of his Bloomberg New Economy Forum remarks (already covered in an earlier story)."
     - "No gateway count given in any source; left out."
 ---

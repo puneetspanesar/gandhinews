@@ -22,7 +22,7 @@ hero:
     value: "'Voters against vote fraud'"
 related: [rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, nadda-anarchy-model-india-bloc-rally-sood-chaos]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Tejashwi Yadav compares Ramlila Maidan to Kurukshetra and calls for the BJP's defeat in Uttar Pradesh; Akhilesh Yadav alleges vote theft through SIR."
+  description: "INDIA bloc rally, November 1, 2026: Tejashwi Yadav compares Ramlila Maidan to Kurukshetra and calls for the BJP's defeat in Uttar Pradesh; Akhilesh Yadav alleges vote theft through SIR."
 sources:
   - title: "रामलीला मैदान में विपक्ष की रैली शुरू, राहुल-अखिलेश समेत तमाम नेता मौजूद"
     publisher: "NewsBytes Hindi"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 15:00 to 15:30 IST, stage speeches at Ramlila Maidan after the march arrived at about 3 pm (Insider Live). Tejashwi quote in NewsBytes published 15:30 IST; Insider Live (published 16:05 IST) has the Mahabharata/Shakuni and Akhilesh content, speeches themselves before that. Exact minute not given."
+    - "event: Nov 1 about 15:00 to 15:30 IST, stage speeches at Ramlila Maidan after the march arrived at about 3 pm (Insider Live). Tejashwi quote in NewsBytes published 15:30 IST; Insider Live (published 16:05 IST) has the Mahabharata/Shakuni and Akhilesh content, speeches themselves before that. Exact minute not given."
     - "Tejashwi quote: NewsBytes only, translated from Hindi. Mahabharata, Kurukshetra and Shakuni references: Insider Live paraphrase only, no direct quote, so not quoted."
     - "Akhilesh: Insider Live paraphrase only (vote theft, SIR, Pilibhit, about 31,000 votes per assembly seat). Context of the 31,000 figure (which state, which revision) not clear in the source, so it is attributed as his claim and hedged. 'Double zero' Varanasi remark left out as its meaning was unclear. Tejashwi's earlier 'those who crush democracy' remark was covered in an earlier story."
 ---

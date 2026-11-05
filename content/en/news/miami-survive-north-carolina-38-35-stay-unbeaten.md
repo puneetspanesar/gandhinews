@@ -22,7 +22,7 @@ hero:
     value: "No. 1 Miami survive in Chapel Hill"
 related: [usc-stun-no-2-ohio-state-30-18-coliseum]
 seo:
-  description: "No. 1 Miami beat North Carolina 38-35 in Chapel Hill on 31 October to go 8-0, with Darian Mensah throwing three touchdowns and Mark Fletcher Jr. scoring three."
+  description: "No. 1 Miami beat North Carolina 38-35 in Chapel Hill on October 31 to go 8-0, with Darian Mensah throwing three touchdowns and Mark Fletcher Jr. scoring three."
 sources:
   - title: "No. 1 Miami Hangs On for 38-35 Road Win over North Carolina"
     publisher: "Miami Hurricanes"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: game ended Saturday night 31 Oct ET; Field Level Media recap timestamped 31 Oct 11:24 pm ET (EDT) = 1 Nov 08:54 IST; SI 03:45 UTC = 09:15 IST."
+    - "event: game ended Saturday night Oct 31 ET; Field Level Media recap timestamped Oct 31 11:24 pm ET (EDT) = Nov 1 08:54 IST; SI 03:45 UTC = 09:15 IST."
     - "Scoring sequence and stats from Field Level Media and miamihurricanes.com, which agree on score, records, Mensah 22/29 274 yds 3 TD, Fletcher 3 TD, Toney 2 TD. Edwards 28/34 341 yds 4 TD from Field Level Media only."
     - "No coach or player quotes in any source read; none used. Onside-kick penalty detail left out (only one source, oddly worded)."
 ---

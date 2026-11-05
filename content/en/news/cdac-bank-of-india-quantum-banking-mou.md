@@ -9,7 +9,7 @@ title: "C-DAC and Bank of India sign pact to test quantum-safe banking tools"
 standfirst: "The government computing centre and the public sector bank will run joint research and proofs of concept in quantum, AI and blockchain technology for banking."
 published: 2026-10-23T14:00:00+05:30
 keyPoints:
-  - "C-DAC and Bank of India signed an MoU on **22 October** to work on quantum technology for banking."
+  - "C-DAC and Bank of India signed an MoU on **October 22** to work on quantum technology for banking."
   - "They plan to build a **quantum ecosystem for financial innovation** and test ideas in secure sandboxes."
   - "The pact also covers **AI, blockchain and fraud analysis**, plus staff training."
 hero:
@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB release posted 1:31 pm IST, 23 Oct; MoU signed 22 Oct. Place of signing not stated, so no location given."
+    - "PIB release posted 1:31 pm IST, Oct 23; MoU signed Oct 22. Place of signing not stated, so no location given."
     - "Krishnan's remarks paraphrased (not quoted in release). Magesh quote lacked opening quote marks in PIB text but is presented as his words."
     - "No financial value of the MoU given."
 ---

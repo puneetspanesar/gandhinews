@@ -36,9 +36,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Banerjee's post: PTI via ThePrint, 11:45 pm, 15 Oct. Quotes verbatim. His references to Seema Khanna and donations in Lord Ram's name are not explained in the wire copy and are left out."
+    - "Banerjee's post: PTI via ThePrint, 11:45 pm, Oct 15. Quotes verbatim. His references to Seema Khanna and donations in Lord Ram's name are not explained in the wire copy and are left out."
     - "24-hour ultimatum: both ThePrint reports. Exact time it was set (after release, around 5 am Thursday) and so when it lapses is not stated; copy avoids naming an expiry time."
-    - "No BJP or government response to Banerjee reported. Gautam's denial carried in our 14 Oct story."
+    - "No BJP or government response to Banerjee reported. Gautam's denial carried in our Oct 14 story."
 ---
 
 Trinamool Congress MP Abhishek Banerjee has accused the BJP of choking peaceful protest after Delhi Police detained the parents of Ankita Bhandari at India Gate in the early hours of Thursday.

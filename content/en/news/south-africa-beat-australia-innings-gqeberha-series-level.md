@@ -12,7 +12,7 @@ location: Gqeberha
 keyPoints:
   - "South Africa won the second Test by **an innings and 31 runs** to make the series 1-1."
   - "Travis Head made **121**, his 13th Test hundred, but Australia were out for 295."
-  - "The third Test starts at **Newlands on 27 October**."
+  - "The third Test starts at **Newlands on October 27**."
 hero:
   need: "Temba Bavuma of South Africa and Pat Cummins of Australia, two-panel, or St George's Park, Gqeberha"
   suggested_source: "Temba Bavuma"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Last wicket (Hazlewood c Markram b Jansen) at 12:59 am AEDT 23 Oct = 7:29 pm IST 22 Oct, per ABC live blog. Story timed 7:45 pm."
+    - "Last wicket (Hazlewood c Markram b Jansen) at 12:59 am AEDT Oct 23 = 7:29 pm IST Oct 22, per ABC live blog. Story timed 7:45 pm."
     - "Day five detail (Head 121 off 190, b Mulder at 5-209; Smith 3 c Breetzke b Rabada; Boland 40 off 166 b Mulder; Cummins 4 b Mulder; Starc 11 b Rabada) from ABC. Match figures (Rabada 4/77, Mulder 3/64, Jansen match 6/67) from The Sports Encounter, which also has some scorecard inconsistencies; used only where consistent with ABC."
-    - "Cummins quotes from ABC blog; Bavuma quote from The Sports Encounter (single source). Third Test dates 27-31 Oct (Sports Encounter); ABC says decider starts Tuesday, consistent."
+    - "Cummins quotes from ABC blog; Bavuma quote from The Sports Encounter (single source). Third Test dates Oct 27-31 (Sports Encounter); ABC says decider starts Tuesday, consistent."
     - "ABC says first session washed out on day five."
 ---
 
@@ -63,4 +63,4 @@ Cummins did not look for excuses. "We were a long way away from our best," the A
 
 ## The decider
 
-The win earns South Africa 12 World Test Championship points, with Australia getting none. The teams move to Newlands in Cape Town for the third and final Test, which begins on Tuesday, 27 October. Australia will be watching Smith's neck closely, and South Africa will need news on Nortje's groin.
+The win earns South Africa 12 World Test Championship points, with Australia getting none. The teams move to Newlands in Cape Town for the third and final Test, which begins on Tuesday, October 27. Australia will be watching Smith's neck closely, and South Africa will need news on Nortje's groin.

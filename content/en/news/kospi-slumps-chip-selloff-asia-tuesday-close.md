@@ -22,7 +22,7 @@ hero:
     value: "Kospi down 3.7% in a day"
 related: [global-cues-dow-rallies-netflix-slides-brent-108-october-21, global-cues-dussehra-holiday-wall-street-oil-october-20]
 seo:
-  description: "Asian markets on 20 October 2026: Kospi down 3.7% to 5,553 on a chip sell-off, Nikkei down 1.3%, Hang Seng down 1.3%, Jakarta up 5.7% after a two-day rout."
+  description: "Asian markets on October 20, 2026: Kospi down 3.7% to 5,553 on a chip sell-off, Nikkei down 1.3%, Hang Seng down 1.3%, Jakarta up 5.7% after a two-day rout."
 sources:
   - title: "Peter's Asian Business & Finance Briefing"
     publisher: "Peter Lewis (Substack)"

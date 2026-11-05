@@ -21,7 +21,7 @@ hero:
     value: "Exports up 23% in September"
 related: [india-us-trade-talks-plateau-russia-oil-tariff-law, india-uk-jetco-goyal-doubling-trade-by-2030, us-oil-gas-supplies-to-india-fall-west-asia-imports-rebound, sensex-nifty-rupee-close-october-15]
 seo:
-  description: "India's merchandise exports rose 23% to $44.4 billion in September 2026 and the trade deficit narrowed to $30.21 billion, commerce ministry data showed on 15 October."
+  description: "India's merchandise exports rose 23% to $44.4 billion in September 2026 and the trade deficit narrowed to $30.21 billion, commerce ministry data showed on October 15."
 sources:
   - title: "India's merchandise exports jump 23% to USD 44.4 billion in September, trade deficit narrows (ANI)"
     publisher: "The Tribune"

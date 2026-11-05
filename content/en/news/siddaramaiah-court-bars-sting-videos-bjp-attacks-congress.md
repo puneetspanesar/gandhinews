@@ -21,7 +21,7 @@ hero:
     value: "Court gags the sting clips"
 related: []
 seo:
-  description: "A Bengaluru court on 13 October restrained media from circulating sting clips on former Karnataka CM Siddaramaiah. BJP's R Ashoka accused Congress of betrayal."
+  description: "A Bengaluru court on October 13 restrained media from circulating sting clips on former Karnataka CM Siddaramaiah. BJP's R Ashoka accused Congress of betrayal."
 sources:
   - title: "Court Restrains Media From Circulating Siddaramaiah Sting Videos"
     publisher: "ETV Bharat"
@@ -52,7 +52,7 @@ The court is reported to have passed an interim order barring news outlets and d
 
 Siddaramaiah, a member of the Congress Working Committee, went to court seeking an injunction against the circulation of audio and video clips that he says are defamatory. The clips allege sexual misconduct in 2011. His suit calls the allegations baseless and politically motivated, and asks for a permanent bar against 42 media organisations, among them YouTube channels, newspapers and television networks, as well as Google, Facebook, WhatsApp and YouTube.
 
-The petition says an incident from 2011 has been revived 15 years later with no official complaint, medical record or independent evidence behind it. It refers to a video uploaded on 27 September and a programme titled "State Politics' Biggest CD Scandal". Siddaramaiah has also complained to the Bengaluru City Police Commissioner and asked for an impartial investigation.
+The petition says an incident from 2011 has been revived 15 years later with no official complaint, medical record or independent evidence behind it. It refers to a video uploaded on September 27 and a programme titled "State Politics' Biggest CD Scandal". Siddaramaiah has also complained to the Bengaluru City Police Commissioner and asked for an impartial investigation.
 
 His son, minister Yathindra Siddaramaiah, said in Mysuru that the allegations were false and a complaint had been filed. "Can we remain silent when false propaganda is being spread?" he said.
 

@@ -22,7 +22,7 @@ hero:
     value: "A red card for the abortion ban"
 related: []
 seo:
-  description: "Thousands of women protested in 26 Polish cities on 22 October over stalled abortion reform, as two bills passed by parliament face a likely presidential veto."
+  description: "Thousands of women protested in 26 Polish cities on October 22 over stalled abortion reform, as two bills passed by parliament face a likely presidential veto."
 sources:
   - title: "Women protest across Poland over stalled abortion law reforms"
     publisher: "Euronews"

@@ -6,13 +6,13 @@ section: world
 format_label: World / Pakistan
 topics: []
 title: Six-month-old boy in Karachi takes Pakistan's polio count to seven
-standfirst: The case in Karachi East is the city's first reported since December 2024. A nationwide vaccination drive aimed at nearly 2.4 crore children begins on 2 November.
+standfirst: The case in Karachi East is the city's first reported since December 2024. A nationwide vaccination drive aimed at nearly 2.4 crore children begins on November 2.
 published: 2026-10-19 21:30:00+05:30
 location: Karachi
 keyPoints:
 - A **six-month-old boy** in Jamali Colony, Karachi East, has been confirmed with polio.
 - Pakistan has recorded **seven cases this year**, against 31 in 2025.
-- The next campaign runs **2 to 8 November** across 97 districts, including all of Karachi.
+- The next campaign runs **November 2 to 8** across 97 districts, including all of Karachi.
 hero:
   need: A polio vaccination drive in Karachi, Pakistan
   suggested_source: Polio vaccination Karachi
@@ -24,7 +24,7 @@ hero:
 related:
 - pakistan-cuts-petrol-rs-5-16-diesel-rs-7-69-october-20
 seo:
-  description: Pakistan confirmed a polio case in a six-month-old boy from Karachi East on 19 October, its seventh this year, ahead of a 2-8 November vaccination campaign.
+  description: Pakistan confirmed a polio case in a six-month-old boy from Karachi East on October 19, its seventh this year, ahead of a November 2-8 vaccination campaign.
 sources:
 - title: Karachi polio case takes Pakistan's tally to seven this year
   publisher: The Express Tribune
@@ -47,4 +47,4 @@ Pakistan recorded 31 cases in 2025, so this year's count is well down, but the n
 
 The centre did not say whether the boy had received any vaccine doses before he fell ill, or what follow-up vaccination is planned around his neighbourhood ahead of the national drive.
 
-Four large-scale campaigns this year have reached out to more than 4.5 crore children, and a subnational drive in September vaccinated over 2.93 crore. The next campaign runs from 2 to 8 November and will target nearly 2.4 crore children in 97 districts, including every district of Karachi.
+Four large-scale campaigns this year have reached out to more than 4.5 crore children, and a subnational drive in September vaccinated over 2.93 crore. The next campaign runs from November 2 to 8 and will target nearly 2.4 crore children in 97 districts, including every district of Karachi.

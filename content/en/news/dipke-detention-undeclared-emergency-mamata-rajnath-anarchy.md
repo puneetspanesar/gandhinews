@@ -22,7 +22,7 @@ hero:
     value: "A flag, a detention, a war of words"
 related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, cjp-lehra-do-tiranga-connaught-place-protest-preview, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, opposition-leaders-back-jailed-cjp-leaders-tricolour, what-is-the-cockroach-janta-party]
 seo:
-  description: "Mamata Banerjee, Arvind Kejriwal and Akhilesh Yadav condemned Abhijeet Dipke's detention on 16 October; Rajnath Singh said the opposition was using youth to spread anarchy."
+  description: "Mamata Banerjee, Arvind Kejriwal and Akhilesh Yadav condemned Abhijeet Dipke's detention on October 16; Rajnath Singh said the opposition was using youth to spread anarchy."
 sources:
   - title: "Lehra Do Tiranga rally: \"Undeclared emergency\", say Mamata Banerjee, Arvind Kejriwal criticise Dipke's detention"
     publisher: "ANI"

@@ -32,20 +32,20 @@ sources:
 verification:
   status: approved
   notes:
-    - "Order dated 16 October, reported 23 October (ThePrint). Copy says the order was made on 16 October and became public this week. Case number not given."
+    - "Order dated October 16, reported October 23 (ThePrint). Copy says the order was made on October 16 and became public this week. Case number not given."
     - "Quotes verbatim from ThePrint's report of the order."
 ---
 
 The Karnataka High Court has given the state government three months to set up working district-level committees to deal with suspected illegal immigrants, warning that "indifference today may become an institutional vulnerability tomorrow".
 
-Justice M Nagaprasanna made the order on 16 October on a petition by T Nagendrappa, a Bengaluru doctor, and it was published this week. Illegal immigration, the judge said, "must be addressed with firmness".
+Justice M Nagaprasanna made the order on October 16 on a petition by T Nagendrappa, a Bengaluru doctor, and it was published this week. Illegal immigration, the judge said, "must be addressed with firmness".
 
-The committees are part of a standard operating procedure the Union Home Ministry issued on 2 May 2025. It asks states and Union Territories to set up district-level special task forces and holding centres for people awaiting deportation, and to verify within 30 days the claims of anyone suspected of being an illegal immigrant who says they are Indian or live elsewhere in the country. The court said Karnataka had not shown whether such committees existed or were working, and asked for a district-wise compliance report with details of how they are made up and how they function.
+The committees are part of a standard operating procedure the Union Home Ministry issued on May 2, 2025. It asks states and Union Territories to set up district-level special task forces and holding centres for people awaiting deportation, and to verify within 30 days the claims of anyone suspected of being an illegal immigrant who says they are Indian or live elsewhere in the country. The court said Karnataka had not shown whether such committees existed or were working, and asked for a district-wise compliance report with details of how they are made up and how they function.
 
 ## The doctor's case
 
-On 18 July, Nagendrappa alerted the authorities to people he suspected were undocumented Bangladeshi nationals living in labour sheds behind a government school in Kodathi village, off Sarjapur Main Road. Two of them, Mohammed Saidul Islam and Nasreena, then filed complaints against him, alleging assault, wrongful restraint and criminal intimidation.
+On July 18, Nagendrappa alerted the authorities to people he suspected were undocumented Bangladeshi nationals living in labour sheds behind a government school in Kodathi village, off Sarjapur Main Road. Two of them, Mohammed Saidul Islam and Nasreena, then filed complaints against him, alleging assault, wrongful restraint and criminal intimidation.
 
-The court noted that at 11:30 am on 22 July an investigating officer recommended that Nasreena be sent to a detention centre, and that her complaint was filed at 11:45 am. "The proximity of these events is too conspicuous to be brushed aside as a mere coincidence," the judge said, and quashed both cases as retaliatory.
+The court noted that at 11:30 am on July 22 an investigating officer recommended that Nasreena be sent to a detention centre, and that her complaint was filed at 11:45 am. "The proximity of these events is too conspicuous to be brushed aside as a mere coincidence," the judge said, and quashed both cases as retaliatory.
 
 He also made clear that police cannot refuse to register a complaint about a cognisable offence merely because the person making it is a foreign national or is suspected of staying in India unlawfully.

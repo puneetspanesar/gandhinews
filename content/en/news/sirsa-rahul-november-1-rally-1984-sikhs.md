@@ -5,12 +5,12 @@ type: news
 section: politics
 format_label: "Politics / BJP"
 topics: [election-commission]
-title: "Sirsa accuses Rahul Gandhi of reopening 1984 wounds with 1 November rally date"
+title: "Sirsa accuses Rahul Gandhi of reopening 1984 wounds with November 1 rally date"
 standfirst: "The Delhi minister said holding the Ramlila Maidan protest against the Chief Election Commissioner on the anniversary of the anti-Sikh riots was hurtful to the community."
 published: 2026-10-21T17:10:00+05:30
 location: New Delhi
 keyPoints:
-  - "Manjinder Singh Sirsa objected to the opposition rally being held on **1 November**."
+  - "Manjinder Singh Sirsa objected to the opposition rally being held on **November 1**."
   - "The date marks the start of the **1984 anti-Sikh riots** in Delhi."
   - "Delhi Police have already issued a **no-objection certificate** for the Ramlila Maidan rally."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "A date that still hurts, says Sirsa"
 related: [congress-ramlila-maidan-rally-november-1-police-noc, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, how-chief-election-commissioner-is-appointed-removed]
 seo:
-  description: "Delhi minister Manjinder Singh Sirsa on 21 October attacked Rahul Gandhi over the 1 November Ramlila Maidan rally, saying the date recalls the 1984 anti-Sikh riots."
+  description: "Delhi minister Manjinder Singh Sirsa on October 21 attacked Rahul Gandhi over the November 1 Ramlila Maidan rally, saying the date recalls the 1984 anti-Sikh riots."
 sources:
   - title: "'Like 1984 riots': Sirsa accuses Rahul Gandhi of spreading anarchy ahead of INDIA bloc rally (PTI)"
     publisher: "ThePrint"
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "PTI (ThePrint 4:50 pm) calls it an INDIA bloc rally at Ramlila Maidan; ANI (6:30 pm) says Congress planned protests from 1 November. Copy says 'opposition rally'."
+    - "PTI (ThePrint 4:50 pm) calls it an INDIA bloc rally at Ramlila Maidan; ANI (6:30 pm) says Congress planned protests from November 1. Copy says 'opposition rally'."
     - "No Congress response found by publication."
     - "Sirsa's claims about foreign powers and foreign funding were made without evidence offered (per PTI); copy reports them as claims."
 ---
 
 Delhi minister Manjinder Singh Sirsa on Wednesday accused Rahul Gandhi of choosing a date that would hurt Sikhs for the opposition's next big protest against Chief Election Commissioner Gyanesh Kumar.
 
-The rally at Ramlila Maidan is set for 1 November, the day the anti-Sikh violence of 1984 broke out in Delhi after the assassination of Prime Minister Indira Gandhi. Thousands of Sikhs were killed, most of them in the capital.
+The rally at Ramlila Maidan is set for November 1, the day the anti-Sikh violence of 1984 broke out in Delhi after the assassination of Prime Minister Indira Gandhi. Thousands of Sikhs were killed, most of them in the capital.
 
 "The Sikh community has not forgotten the pain of November 1, 1984," Sirsa said in a statement. "We strongly oppose any attempt to use the suffering of the victims for political gains."
 
@@ -52,6 +52,6 @@ Speaking to reporters, the minister went further. "Rahul Gandhi has adopted the 
 
 He named Rajiv Gandhi, Jagdish Tytler, H K L Bhagat, Sajjan Kumar, Kamal Nath and Dharam Das Shastri as Congress figures linked to the 1984 killings. He also questioned the Congress leader's foreign trips and claimed foreign powers had stirred unrest in Bangladesh, Nepal and France, without setting out any evidence. "How long will Rahul Gandhi continue his politics by relying on fake Gen-Z?" he asked.
 
-The opposition parties announced their protest programme against the Chief Election Commissioner at a meeting in Delhi on 29 September. Delhi Police have issued a no-objection certificate for the Ramlila Maidan rally, where student groups and civil society organisations are also expected.
+The opposition parties announced their protest programme against the Chief Election Commissioner at a meeting in Delhi on September 29. Delhi Police have issued a no-objection certificate for the Ramlila Maidan rally, where student groups and civil society organisations are also expected.
 
 The Congress had not responded to Sirsa's remarks by Wednesday night.

@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: first Nepali report 1 Nov 07:38 NPT (07:23 IST); search status (army deployed, still out of contact) carried in Indian reports time-stamped 10:20 (Amar Ujala live), 10:32 (The Federal) and 10:51 IST (NewsBytes). Story is the state of the search as of about 10:30 IST, not the original disappearance."
+    - "event: first Nepali report Nov 1 07:38 NPT (07:23 IST); search status (army deployed, still out of contact) carried in Indian reports time-stamped 10:20 (Amar Ujala live), 10:32 (The Federal) and 10:51 IST (NewsBytes). Story is the state of the search as of about 10:30 IST, not the original disappearance."
     - "Tourists not named and home states not given in any source; none added. No Indian embassy or MEA statement found."
     - "Cyclone Arnab link to snowfall is a local guide's suspicion (OnlineKhabar); hedged."
     - "Ward numbers: OnlineKhabar and NewsBytes place the passes between wards 4 and 8 of Shey Phoksundo Rural Municipality; The Federal also mentions Dolpo Buddha. Copy avoids ward-level detail."

@@ -10,7 +10,7 @@ standfirst: "Shivraj Singh Chouhan and Bhupender Yadav told state agriculture mi
 published: 2026-10-13T19:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "Farm fires between 15 September and 12 October fell **53.3% in Haryana** from a year earlier."
+  - "Farm fires between September 15 and October 12 fell **53.3% in Haryana** from a year earlier."
   - "Madhya Pradesh and Rajasthan saw **increases** and were told to draw up special action plans."
   - "Of ₹592.57 crore set aside for 2026-27, **₹430.87 crore** has been released to states."
 hero:
@@ -42,7 +42,7 @@ Agriculture Minister Shivraj Singh Chouhan and Environment Minister Bhupender Ya
 
 ## Where the numbers stand
 
-Between 15 September and 12 October, burning incidents dropped 53.3% in Haryana and about 32% in Uttar Pradesh compared with the same period last year. Punjab recorded a smaller fall. Madhya Pradesh and Rajasthan reported increases, which the ministers flagged as a concern.
+Between September 15 and October 12, burning incidents dropped 53.3% in Haryana and about 32% in Uttar Pradesh compared with the same period last year. Punjab recorded a smaller fall. Madhya Pradesh and Rajasthan reported increases, which the ministers flagged as a concern.
 
 Chouhan told the two states to identify the affected districts and villages and start special action plans at once. States doing better were told not to relax, since a large part of the crop is yet to be cut.
 

@@ -6,13 +6,13 @@ section: policy
 format_label: "Policy / Home Affairs"
 topics: [election-commission, electoral-rolls-sir]
 title: "Amit Shah reviews Delhi security at police headquarters with Rekha Gupta"
-standfirst: "The Home Minister's meeting with the Chief Minister and senior officers came as protests against the Election Commission continue and the INDIA bloc prepares for a 1 November rally at Ramlila Maidan."
+standfirst: "The Home Minister's meeting with the Chief Minister and senior officers came as protests against the Election Commission continue and the INDIA bloc prepares for a November 1 rally at Ramlila Maidan."
 published: 2026-10-24T20:55:00+05:30
 location: New Delhi
 keyPoints:
   - "Amit Shah chaired a **security review meeting** at Delhi Police headquarters on Saturday."
   - "Chief Minister **Rekha Gupta** and senior Delhi Police officers attended."
-  - "The INDIA bloc plans a **1 November rally** at Ramlila Maidan in the capital."
+  - "The INDIA bloc plans a **November 1 rally** at Ramlila Maidan in the capital."
 hero:
   need: "Union Home Minister Amit Shah and Delhi Chief Minister Rekha Gupta, as a two-panel split"
   suggested_source: "Amit Shah"
@@ -22,7 +22,7 @@ hero:
     value: "Shah takes stock of Delhi's streets"
 related: [india-bloc-public-impeachment-cec-october-30-dilli-chalo, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, delhi-hc-rejects-neha-bora-peace-bond-plea-aisa-wont-sign]
 seo:
-  description: "Home Minister Amit Shah chaired a security review at Delhi Police headquarters with CM Rekha Gupta as anti-EC protests continue and the INDIA bloc plans a 1 November rally."
+  description: "Home Minister Amit Shah chaired a security review at Delhi Police headquarters with CM Rekha Gupta as anti-EC protests continue and the INDIA bloc plans a November 1 rally."
 sources:
   - title: "Union Home Minister Amit Shah chairs security review meeting in Delhi"
     publisher: "News On AIR"
@@ -49,8 +49,8 @@ The review came at a busy time for the Delhi Police, which reports to the Home M
 
 On Friday, Left parties and student leaders marched near Gurdwara Bangla Sahib, and traffic police diverted vehicles between 1 pm and 5 pm for an expected movement towards Jantar Mantar. At Jamia Millia Islamia, five students have been on a hunger strike for 13 days, demanding that the student union be restored and the Chief Proctor removed.
 
-## A rally on 1 November
+## A rally on November 1
 
-The Congress and its INDIA bloc partners are preparing for a rally at Ramlila Maidan on 1 November. The Chamber of Trade and Industry has asked Congress leader Rahul Gandhi to put it off until after 10 November, citing the effect on business during the festive season.
+The Congress and its INDIA bloc partners are preparing for a rally at Ramlila Maidan on November 1. The Chamber of Trade and Industry has asked Congress leader Rahul Gandhi to put it off until after November 10, citing the effect on business during the festive season.
 
 The meeting also falls in the run-up to Chhath. Earlier on Saturday, Gupta reviewed the festival arrangements along the Munak Canal.

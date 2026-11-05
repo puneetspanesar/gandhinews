@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ANI, 18 Oct, about 11:08 am IST. ANI says Khan wrote the letters 'on Thursday'; copy says 'has written' without a day. Number of stranded pilgrims not given. No response from MEA or Minority Affairs found."
+    - "Single source: ANI, Oct 18, about 11:08 am IST. ANI says Khan wrote the letters 'on Thursday'; copy says 'has written' without a day. Number of stranded pilgrims not given. No response from MEA or Minority Affairs found."
     - "Makkah control room: attributed by ANI to the Indian Consulate in Jeddah, set up Thursday. ANI calls him Rajya Sabha MP from Karnataka."
 ---
 

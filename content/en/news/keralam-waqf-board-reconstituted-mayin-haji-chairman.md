@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ThePrint, 17 Oct 4:47 pm. Not cross-checked with a second outlet."
+    - "Single source: PTI via ThePrint, Oct 17 4:47 pm. Not cross-checked with a second outlet."
     - "PTI calls it a nine-member committee and names nine people, but says Haji 'and six other members' took office on Saturday. Copy keeps both as stated."
     - "Minister's name is spelled 'N Samsudheen' by PTI; English Wikipedia title believed to be 'N. Shamsudheen' (not checked). Hero search term may need adjusting."
     - "UDF government inferred from 'previous LDF government' constituting the March board; PTI does not name the party in power or the Chief Minister, so copy says 'the government'."

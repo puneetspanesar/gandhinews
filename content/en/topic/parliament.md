@@ -47,9 +47,9 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: Monsoon and Budget Session figures confirmed on PRS; Keralam in force 25 Aug confirmed (The News Minute); committee count matches the Bills tracker (8). Deputy Speaker line now sourced to PRS ('more than seven years')."
+    - "Fact-check Oct 11, 2026: Monsoon and Budget Session figures confirmed on PRS; Keralam in force Aug 25 confirmed (The News Minute); committee count matches the Bills tracker (8). Deputy Speaker line now sourced to PRS ('more than seven years')."
     - "'Least productive of this Lok Sabha' remains our inference; June-July 2024 PRS pages not opened."
-    - "Winter Session 2026 dates not announced as of 11 Oct 2026 (searches found only 2025 announcements)."
+    - "Winter Session 2026 dates not announced as of Oct 11, 2026 (searches found only 2025 announcements)."
     - "'Least productive of this Lok Sabha so far' is our inference from PRS session figures (see the Monsoon Session news story notes); June-July 2024 session pages were not opened."
     - "Whether a special session was held in September 2026 is unconfirmed; none found."
 ---
@@ -58,12 +58,12 @@ Parliament has two Houses: the Lok Sabha, elected directly, and the Rajya Sabha,
 
 ## Where things stand
 
-The Monsoon Session (20 July to 13 August 2026) was the least productive of this Lok Sabha so far. The House worked 15% of its scheduled time by PRS's count, 19% by the government's, and passed nine of its 11 Bills with only the minister speaking. In April, the Lok Sabha defeated a constitutional amendment on delimitation, 298 to 230.
+The Monsoon Session (July 20 to August 13, 2026) was the least productive of this Lok Sabha so far. The House worked 15% of its scheduled time by PRS's count, 19% by the government's, and passed nine of its 11 Bills with only the minister speaking. In April, the Lok Sabha defeated a constitutional amendment on delimitation, 298 to 230.
 
 Two big proposals wait in joint committees: the FCRA amendment and the One Nation One Election Bills. Both are due to report in the Winter Session, whose dates have not been announced. The Lok Sabha has had no Deputy Speaker for more than seven years, since June 2019 (PRS).
 
 ```timeline
-{"title":"Parliament in 2026","items":[{"date":"17 Apr","text":"Lok Sabha votes 298-230 for the delimitation amendment, short of two-thirds; it fails."},{"date":"18 Apr","text":"Budget Session ends; Lok Sabha worked 86% of scheduled time (PRS)."},{"date":"18 Jul","text":"Speaker clears Shiv Sena merger and seats 20 rebel TMC MPs separately."},{"date":"20 Jul","text":"Monsoon Session opens."},{"date":"12 Aug","text":"FCRA Amendment Bill sent to a joint committee."},{"date":"13 Aug","text":"Both Houses adjourned sine die."},{"date":"25 Aug","text":"Kerala officially becomes Keralam."}]}
+{"title":"Parliament in 2026","items":[{"date":"Apr 17","text":"Lok Sabha votes 298-230 for the delimitation amendment, short of two-thirds; it fails."},{"date":"Apr 18","text":"Budget Session ends; Lok Sabha worked 86% of scheduled time (PRS)."},{"date":"Jul 18","text":"Speaker clears Shiv Sena merger and seats 20 rebel TMC MPs separately."},{"date":"Jul 20","text":"Monsoon Session opens."},{"date":"Aug 12","text":"FCRA Amendment Bill sent to a joint committee."},{"date":"Aug 13","text":"Both Houses adjourned sine die."},{"date":"Aug 25","text":"Kerala officially becomes Keralam."}]}
 ```
 
 ```facts

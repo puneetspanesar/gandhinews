@@ -22,7 +22,7 @@ hero:
     value: "74 of 105 photos taken down"
 related: [satheesan-aroor-blue-economy-hub-vembanad-bridge, keralam-satheesan-balagopal-clash-over-pay-revision-arrears]
 seo:
-  description: "Keralam CM V D Satheesan invited Raihan Vadra to show his full exhibition in the state after Delhi's Bikaner House removed 74 of 105 photographs on 22 October."
+  description: "Keralam CM V D Satheesan invited Raihan Vadra to show his full exhibition in the state after Delhi's Bikaner House removed 74 of 105 photographs on October 22."
 sources:
   - title: "CM Satheesan invites Raihan Vadra to Kerala to host his exhibition after row erupts at Delhi's Bikaner House (IANS)"
     publisher: "Punjab Kesari English"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS copy via Punjab Kesari English (published 2:58 am, 23 Oct; Satheesan's invitation made Thursday evening). Bikaner House and BJP positions are attributed as given there."
+    - "Single source: IANS copy via Punjab Kesari English (published 2:58 am, Oct 23; Satheesan's invitation made Thursday evening). Bikaner House and BJP positions are attributed as given there."
     - "Satheesan's full X post not read; only the quoted phrases 'No exclusions, no exceptions' and 'in its entirety' are used. Priyanka Gandhi Vadra's quote is the fragment given by IANS."
     - "Whether the exhibition opened on schedule with the remaining pictures, and its dates, not reported; left out."
 ---

@@ -64,8 +64,8 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: aligned with the corrected SIR news story (6.15 crore without the unconfirmed 17.04%). SC August (West Bengal appeals) and September (Delhi 'logical discrepancy' notices) items confirmed on SCO's Monsoon session review; the Delhi plea description reworded to match SCO. Maharashtra final roll 16 Nov added (News On AIR)."
-    - "Deccan Herald's 6.15 crore figure covers drafts published by 1 September; later drafts (e.g. Nagaland, Tripura) not included."
+    - "Fact-check Oct 11, 2026: aligned with the corrected SIR news story (6.15 crore without the unconfirmed 17.04%). SC August (West Bengal appeals) and September (Delhi 'logical discrepancy' notices) items confirmed on SCO's Monsoon session review; the Delhi plea description reworded to match SCO. Maharashtra final roll Nov 16 added (News On AIR)."
+    - "Deccan Herald's 6.15 crore figure covers drafts published by September 1; later drafts (e.g. Nagaland, Tripura) not included."
     - "Final-roll dates move often; none are stated as fixed here except Maharashtra's extended claims deadline (ECI via FPJ)."
 ---
 
@@ -73,16 +73,16 @@ The Special Intensive Revision (SIR) is the Election Commission of India's (ECI)
 
 ## Where things stand
 
-Draft rolls in phase III have left out names on a scale that has made the SIR the year's central election dispute. Drafts in 17 states and Union Territories omitted more than 6.15 crore names by 1 September, Deccan Herald reported, with Maharashtra losing the most (2.07 crore) and Delhi the largest share (32.78%). The ECI says these are not final deletions. Opposition parties allege eligible voters are being disenfranchised; the ECI calls the "vote chori" charge part of a misleading narrative. Final rolls are now being published state by state.
+Draft rolls in phase III have left out names on a scale that has made the SIR the year's central election dispute. Drafts in 17 states and Union Territories omitted more than 6.15 crore names by September 1, Deccan Herald reported, with Maharashtra losing the most (2.07 crore) and Delhi the largest share (32.78%). The ECI says these are not final deletions. Opposition parties allege eligible voters are being disenfranchised; the ECI calls the "vote chori" charge part of a misleading narrative. Final rolls are now being published state by state.
 
-Court challenges continue. In August the Supreme Court directed the ECI to disclose pending appeals in West Bengal, and in September it issued notice on a Delhi plea arguing that voters served "logical discrepancy" notices were not told clearly what they had to do, Supreme Court Observer reported. Protests have also moved to the street: on 8 October Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a march against the SIR, IANS reported.
+Court challenges continue. In August the Supreme Court directed the ECI to disclose pending appeals in West Bengal, and in September it issued notice on a Delhi plea arguing that voters served "logical discrepancy" notices were not told clearly what they had to do, Supreme Court Observer reported. Protests have also moved to the street: on October 8 Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a march against the SIR, IANS reported.
 
 ```timeline
-{"title":"SIR key dates","items":[{"date":"Jun 2025","text":"SIR begins in Bihar."},{"date":"14 May 2026","text":"ECI announces phase III in 16 states and 3 UTs."},{"date":"27 May 2026","text":"Supreme Court upholds the Bihar SIR."},{"date":"31 Aug 2026","text":"Maharashtra and Delhi draft rolls published."},{"date":"25 Sep 2026","text":"ECI withdraws the extra SIR declaration from online Form 6 where revision is complete."},{"date":"5 Oct 2026","text":"Supreme Court says it has not approved any modification to Form 6."},{"date":"12 Oct 2026","text":"Extended deadline for claims and objections in Maharashtra; final roll due 16 November."}]}
+{"title":"SIR key dates","items":[{"date":"Jun 2025","text":"SIR begins in Bihar."},{"date":"May 14, 2026","text":"ECI announces phase III in 16 states and 3 UTs."},{"date":"May 27, 2026","text":"Supreme Court upholds the Bihar SIR."},{"date":"Aug 31, 2026","text":"Maharashtra and Delhi draft rolls published."},{"date":"Sep 25, 2026","text":"ECI withdraws the extra SIR declaration from online Form 6 where revision is complete."},{"date":"Oct 5, 2026","text":"Supreme Court says it has not approved any modification to Form 6."},{"date":"Oct 12, 2026","text":"Extended deadline for claims and objections in Maharashtra; final roll due November 16."}]}
 ```
 
 ```facts
-{"title":"Key numbers","items":[{"value":"36.73 crore","label":"electors covered by phase III","source":"The News Minute"},{"value":"6.15 crore+","label":"names left off phase III drafts in 17 states and UTs by 1 Sep","source":"Deccan Herald"},{"value":"2.37 crore","label":"voters aged 18 to 28 added since the SIR began","source":"ECI via Free Press Journal"}]}
+{"title":"Key numbers","items":[{"value":"36.73 crore","label":"electors covered by phase III","source":"The News Minute"},{"value":"6.15 crore+","label":"names left off phase III drafts in 17 states and UTs by Sep 1","source":"Deccan Herald"},{"value":"2.37 crore","label":"voters aged 18 to 28 added since the SIR began","source":"ECI via Free Press Journal"}]}
 ```
 
 ## Key questions

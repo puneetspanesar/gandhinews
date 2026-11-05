@@ -10,8 +10,8 @@ standfirst: "The first volunteers were vaccinated in Bunia under the Tumaini tri
 published: 2026-10-24T08:30:00+05:30
 location: Bunia
 keyPoints:
-  - "The Tumaini trial began in **Bunia, eastern Congo**, with the first vaccinations on 23 October."
-  - "Congo had confirmed **9,552 cases and 4,602 deaths** by 21 October."
+  - "The Tumaini trial began in **Bunia, eastern Congo**, with the first vaccinations on October 23."
+  - "Congo had confirmed **9,552 cases and 4,602 deaths** by October 21."
   - "An Oxford vaccine built with the **Serum Institute of India** is due to join the trial."
 hero:
   need: "WHO Director-General Tedros Adhanom Ghebreyesus"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Case and death counts as of 21 Oct (9,552 and 4,602) from trial partners via Parrot Nigeria; AFP via Channels says cases passed 9,700. Used the dated figure."
+    - "Case and death counts as of Oct 21 (9,552 and 4,602) from trial partners via Parrot Nigeria; AFP via Channels says cases passed 9,700. Used the dated figure."
     - "Serum Institute of India role in Oxford ChAdOx1 BDBV: Parrot Nigeria only. Hedged lightly as 'developed with'."
     - "Al Jazeera page on the same announcement could not be fetched."
     - "Kaseya criticism paraphrased; no exact quote available."
@@ -51,6 +51,6 @@ The Phase II/III trial will start with Ervebo, the vaccine licensed against the 
 
 The trial uses ring vaccination, offering shots to contacts of confirmed cases and others at high risk. It is led by Congo's Institut National de Recherche Biomédicale and the University of Antwerp, with WHO advice and funding from the vaccine coalition CEPI. Congo has received an initial 70,000 doses of Ervebo, 20,000 for the trial and 50,000 for frontline health workers.
 
-By 21 October Congo had confirmed 9,552 cases and 4,602 deaths since the outbreak was declared on 15 May. The virus has since reached Kenya and, this week, Nigeria. Africa CDC Director-General Jean Kaseya has criticised the lack of investment in a Bundibugyo vaccine nearly two decades after the strain was first identified in Uganda.
+By October 21 Congo had confirmed 9,552 cases and 4,602 deaths since the outbreak was declared on May 15. The virus has since reached Kenya and, this week, Nigeria. Africa CDC Director-General Jean Kaseya has criticised the lack of investment in a Bundibugyo vaccine nearly two decades after the strain was first identified in Uganda.
 
 Starting the trial does not mean any of the vaccines works against the strain.

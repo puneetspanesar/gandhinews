@@ -22,7 +22,7 @@ hero:
     value: "Kishan 61 off 32, a new India record"
 related: [santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return, india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]
 seo:
-  description: "Ishan Kishan hit 61 off 32 balls in the fifth T20I against New Zealand at Hamilton on 1 November 2026, passing Suryakumar Yadav's record for most T20I runs by an Indian in a calendar year."
+  description: "Ishan Kishan hit 61 off 32 balls in the fifth T20I against New Zealand at Hamilton on November 1, 2026, passing Suryakumar Yadav's record for most T20I runs by an Indian in a calendar year."
 sources:
   - title: "NZ vs IND 5th T20I: Ishan Kishan joins an elite list after surpassing Suryakumar Yadav"
     publisher: "Cricket Times"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 13:15 to 13:40 IST, Kishan's fifty, record and dismissal in the 11th over of India's innings (match began 12:30 IST). NewsX 13:39 IST (111/2 after 10 overs, Kishan 61 off 31, Iyer 41* off 17); Time News 13:38 IST (122/3 in 11.2 overs); Cricket Times 08:30 UTC = 14:00 IST (Kishan out for 61 off 32, c Smith b Tickner)."
+    - "event: Nov 1 about 13:15 to 13:40 IST, Kishan's fifty, record and dismissal in the 11th over of India's innings (match began 12:30 IST). NewsX 13:39 IST (111/2 after 10 overs, Kishan 61 off 31, Iyer 41* off 17); Time News 13:38 IST (122/3 in 11.2 overs); Cricket Times 08:30 UTC = 14:00 IST (Kishan out for 61 off 32, c Smith b Tickner)."
     - "Used 61 off 32 (post-dismissal report) over NewsX's 61 off 31 (written at 10 overs). Milne's two early wickets from NewsX and Time News."
     - "India's final total NOT confirmed inside the window: Cricinfo live blog and scorecard failed to fetch; Outlook and crictracker fetches returned pre-match caches. India.com headline says Iyer and Kishan both fell after fifties with Tilak and Dhir at the crease, and the Cricinfo headline says Nathan Smith brought NZ back, but no figures could be read, so the story gives Iyer's fifty from the India.com headline only (no score) and stops there."
     - "No player quotes available in the sources read."

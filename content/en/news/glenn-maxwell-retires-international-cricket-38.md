@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: retirement reported in MyKhel's 3 Nov sports bulletin posted 09:55 IST; exact time and channel of the announcement not in source, and no quotes. Confirmed by ABC News and The Tribune, 3 Nov."
+    - "event: retirement reported in MyKhel's Nov 3 sports bulletin posted 09:55 IST; exact time and channel of the announcement not in source, and no quotes. Confirmed by ABC News and The Tribune, Nov 3."
     - "Stats (age 38, 14-year career, 7 Tests, 149 ODIs, 130 T20Is, 10 international centuries, 136 wickets), the 2015 and 2023 ODI World Cup and 2021 T20 World Cup wins, and the unbeaten double century against Afghanistan at the 2023 World Cup are from the source. 286 = 7+149+130."
     - "Mumbai (Wankhede) as venue of the 201* and Ahmedabad as venue of the 2023 final are long-established public record, not in the source. Maxwell had already quit ODIs in June 2025, so this ends his T20I career; source does not say this, so copy does not either."
     - "2012 debut year derived from the source's 14-year career (2026 minus 14); matches his August 2012 debut on record."

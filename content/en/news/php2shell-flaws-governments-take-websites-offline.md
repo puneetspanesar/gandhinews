@@ -12,7 +12,7 @@ location: The Hague
 keyPoints:
   - "The two PHP flaws, nicknamed **PHP2Shell**, each scored 9.2 out of 10 for severity."
   - "The US National Security Agency advised taking sites **offline if they could not be patched at once**."
-  - "Amazon says it saw an **exploit attempt on 17 October**, before the flaws were made public."
+  - "Amazon says it saw an **exploit attempt on October 17**, before the flaws were made public."
 hero:
   need: "The PHP programming language logo, or the Port of Rotterdam, one of the bodies that took its website offline"
   suggested_source: "PHP logo"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Both sources are Al Jazeera pieces drawing on Reuters and AFP (22 Oct). PHP Foundation advisory, NSA notice, Wiz and Calif write-ups not read directly. No CVE numbers or patched version numbers in sources, so none given."
-    - "NSA warning and patch release dated 'Wednesday' (21 Oct) in sources. Netherlands, Finland, Belgium, South Korea responses are from the updated 22 Oct explainer; exact hour of each takedown not given, so copy says 'this week'. Published time 5:30 pm IST is an estimate for when the wider government takedowns were being reported."
+    - "Both sources are Al Jazeera pieces drawing on Reuters and AFP (Oct 22). PHP Foundation advisory, NSA notice, Wiz and Calif write-ups not read directly. No CVE numbers or patched version numbers in sources, so none given."
+    - "NSA warning and patch release dated 'Wednesday' (Oct 21) in sources. Netherlands, Finland, Belgium, South Korea responses are from the updated Oct 22 explainer; exact hour of each takedown not given, so copy says 'this week'. Published time 5:30 pm IST is an estimate for when the wider government takedowns were being reported."
     - "Wiz described as owned by Alphabet/Google per sources. '70 percent' figure is from a headline only and is not used in the copy."
     - "No India-specific response (CERT-In) found in sources read; not mentioned."
 ---
@@ -59,11 +59,11 @@ Outside Europe, South Korea raised its private-sector cyber alert level and sent
 
 ## Found with AI, leaked early
 
-Calif, working with OpenAI, reported the first flaw on 11 August, and Wiz reported the second on 24 August. Both teams used AI tools in the search. Wiz said the findings "rank among the most severe vulnerabilities discovered in PHP".
+Calif, working with OpenAI, reported the first flaw on August 11, and Wiz reported the second on August 24. Both teams used AI tools in the search. Wiz said the findings "rank among the most severe vulnerabilities discovered in PHP".
 
 The problem lies in how PHP handles fatal errors such as running out of memory. Wiz said this could also expose passwords and other credentials held in a server's memory.
 
-The details leaked online on 21 October, before fixes were ready. Amazon's security chief, CJ Moses, said the company had detected an attempt to exploit the bugs on 17 October, before any public disclosure. How the attacker learned of them is not known.
+The details leaked online on October 21, before fixes were ready. Amazon's security chief, CJ Moses, said the company had detected an attempt to exploit the bugs on October 17, before any public disclosure. How the attacker learned of them is not known.
 
 Andrew Cullen, who lectures on AI and cybersecurity at the University of Melbourne, called the situation "really unprecedented". The PHP Foundation said it expects AI to make such weaknesses easier to find, and has asked large technology companies to coordinate their response.
 

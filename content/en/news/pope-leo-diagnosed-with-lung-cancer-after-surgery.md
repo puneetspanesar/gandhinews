@@ -6,13 +6,13 @@ section: world
 format_label: "World / Europe"
 topics: []
 title: "Pope Leo diagnosed with lung cancer after surgery to remove part of his lung"
-standfirst: "The Vatican says the 90-minute operation at Rome's Gemelli hospital went without complications. Audiences are cancelled until 20 October and a November tour of South America is in doubt."
+standfirst: "The Vatican says the 90-minute operation at Rome's Gemelli hospital went without complications. Audiences are cancelled until October 20 and a November tour of South America is in doubt."
 published: 2026-10-14T01:40:00+05:30
 location: Rome
 keyPoints:
   - "Doctors removed the lower lobe of Pope Leo's right lung and found **lung adenocarcinoma**."
   - "The Vatican said the surgery **was successful, with no complications**, and no chemotherapy is being discussed for now."
-  - "All papal audiences up to **20 October** are cancelled while he recovers for about a week."
+  - "All papal audiences up to **October 20** are cancelled while he recovers for about a week."
 hero:
   need: "Exterior of the Agostino Gemelli University Hospital in Rome, where the Pope is recovering"
   suggested_source: "Policlinico Agostino Gemelli Rome"
@@ -21,7 +21,7 @@ hero:
     value: "Surgery done, diagnosis cancer"
 related: []
 seo:
-  description: "Pope Leo XIV, 71, has lung adenocarcinoma, the Vatican said after surgery at Gemelli hospital removed part of his right lung. Audiences are off until 20 October."
+  description: "Pope Leo XIV, 71, has lung adenocarcinoma, the Vatican said after surgery at Gemelli hospital removed part of his right lung. Audiences are off until October 20."
 sources:
   - title: "Pope Leo diagnosed with cancer after surgery to remove part of lung"
     publisher: "Al Jazeera"
@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Diagnosis, 90-minute duration, lower lobe of right lung, 'radical' removal, no chemotherapy discussion, audiences cancelled to 20 Oct and the 6-17 Nov trip details rest on Al Jazeera's report of the Vatican bulletin. The bulletin itself was not found on vatican.va or Vatican News at writing (their latest item was the 13 Oct admission story)."
+    - "Diagnosis, 90-minute duration, lower lobe of right lung, 'radical' removal, no chemotherapy discussion, audiences cancelled to Oct 20 and the Nov 6-17 trip details rest on Al Jazeera's report of the Vatican bulletin. The bulletin itself was not found on vatican.va or Vatican News at writing (their latest item was the Oct 13 admission story)."
     - "Exact time the surgery began not reported; Vatican News said it was scheduled for Tuesday afternoon. Bulletin released Tuesday evening Rome time."
     - "Pope's Angelus quotes are from Vatican News' English rendering of his Italian remarks."
 ---
@@ -61,7 +61,7 @@ The Holy See described the removal of the lobe as "radical", meaning that all th
 
 The operation was carried out by the hospital's thoracic surgery team, led by Professor Stefano Margaritora. Matteo Bruni, director of the Holy See Press Office, had said on Monday that the nodule was found during routine medical examinations.
 
-The Pope is expected to spend about a week recovering in hospital. All his audiences up to 20 October have been cancelled.
+The Pope is expected to spend about a week recovering in hospital. All his audiences up to October 20 have been cancelled.
 
 ## A calm announcement
 
@@ -73,10 +73,10 @@ Cardinal Pietro Parolin, the Vatican's Secretary of State, spoke to the Pope on 
 
 > This shows how much Pope Leo is loved, appreciated and followed by everyone.
 >
-> Source: Cardinal Pietro Parolin, Vatican Secretary of State, 13 October 2026
+> Source: Cardinal Pietro Parolin, Vatican Secretary of State, October 13, 2026
 
 ## The South America trip
 
 The Pope has no reported history of serious illness and is known to keep active, swimming and playing tennis.
 
-The big question now is his tour of Uruguay, Argentina and Peru, planned for 6 to 17 November. It includes a dozen flights, two helicopter rides and steep changes in altitude in Peru. Leo told reporters on Sunday that he intended to make the journey. The Vatican has not said whether his recovery will change those plans.
+The big question now is his tour of Uruguay, Argentina and Peru, planned for November 6 to 17. It includes a dozen flights, two helicopter rides and steep changes in altitude in Peru. Leo told reporters on Sunday that he intended to make the journey. The Vatican has not said whether his recovery will change those plans.

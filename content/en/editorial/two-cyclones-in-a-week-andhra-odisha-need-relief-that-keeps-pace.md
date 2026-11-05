@@ -52,17 +52,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Murasu track, timing (cross near Ongole 11:30 pm Mon to 4 am Tue), winds, 1 to 1.5 m surge, red-warning districts, fishermen advisory, NDRF/SDRF teams and Gajapati evacuation from the desk's 2 Nov 02:25 story; pole estimate (12,102 to 15,128) and 20 mandals from the desk's 1 Nov Naidu story (IANS). Transclew live page could not be fetched in this run (permission not granted); figures rest on the desk's earlier reading."
-    - "Arnab: landfall 28 Oct as very severe cyclonic storm, seven dead, preliminary Rs 4,600 crore loss (Naidu, could rise), about 2.24 lakh hectares in 14 districts, 3.45 lakh farmers, paddy inundated 82% West Godavari and 75% Konaseema, Krishna 22,339 ha, at least 15,000 poles, Amit Shah promise of inter-ministerial teams: The Pioneer, 29 Oct. Deccan Chronicle headline says 9 deaths (not opened); copy says 'at least seven'."
-    - "Atchannaidu's later figure of about 3.51 lakh hectares submerged or damaged: UNI 29 Oct (paywalled, opening only; two slightly different figures in the same page). Copy says the count grew from 2.24 lakh to about 3.5 lakh hectares in preliminary counts, attributed to state figures."
-    - "Odisha: Ganjam and Kandhamal most affected by Arnab, Rajesh P Patil quote, Siasat 1 Nov via desk story."
+    - "Editorial view of the desk. Murasu track, timing (cross near Ongole 11:30 pm Mon to 4 am Tue), winds, 1 to 1.5 m surge, red-warning districts, fishermen advisory, NDRF/SDRF teams and Gajapati evacuation from the desk's Nov 2 02:25 story; pole estimate (12,102 to 15,128) and 20 mandals from the desk's Nov 1 Naidu story (IANS). Transclew live page could not be fetched in this run (permission not granted); figures rest on the desk's earlier reading."
+    - "Arnab: landfall Oct 28 as very severe cyclonic storm, seven dead, preliminary Rs 4,600 crore loss (Naidu, could rise), about 2.24 lakh hectares in 14 districts, 3.45 lakh farmers, paddy inundated 82% West Godavari and 75% Konaseema, Krishna 22,339 ha, at least 15,000 poles, Amit Shah promise of inter-ministerial teams: The Pioneer, Oct 29. Deccan Chronicle headline says 9 deaths (not opened); copy says 'at least seven'."
+    - "Atchannaidu's later figure of about 3.51 lakh hectares submerged or damaged: UNI Oct 29 (paywalled, opening only; two slightly different figures in the same page). Copy says the count grew from 2.24 lakh to about 3.5 lakh hectares in preliminary counts, attributed to state figures."
+    - "Odisha: Ganjam and Kandhamal most affected by Arnab, Rajesh P Patil quote, Siasat Nov 1 via desk story."
     - "No claim made about compensation rates or whether the Centre has released money for Arnab; not found."
     - "Recommendations are the desk's own."
 ---
 
 Some time between 11:30 tonight and 4 am on Tuesday, Cyclone Murasu is expected to **cross the Andhra Pradesh coast near Ongole** as a severe cyclonic storm, with winds of up to 120 km/h and a surge of up to one and a half metres over the tide. Red warnings cover Nellore, Prakasam, Bapatla, Guntur and Krishna.
 
-It arrives six days after Cyclone Arnab came ashore on the same coast on 28 October. Arnab killed **at least seven people** in Andhra Pradesh and brought down at least 15,000 electricity poles. Chief Minister N Chandrababu Naidu put the preliminary loss at ₹4,600 crore and said it could rise.
+It arrives six days after Cyclone Arnab came ashore on the same coast on October 28. Arnab killed **at least seven people** in Andhra Pradesh and brought down at least 15,000 electricity poles. Chief Minister N Chandrababu Naidu put the preliminary loss at ₹4,600 crore and said it could rise.
 
 ## What the warnings got right
 
@@ -99,5 +99,5 @@ Fourth, power crews should be held in the districts where Murasu is due to land,
 The coast has learnt how to keep people alive through a cyclone. It now has to learn how to help them get back on their feet when the storms come one after the other.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"7","label":"people killed in Andhra Pradesh by Cyclone Arnab, which made landfall on 28 October"},{"value":"₹4,600 crore","label":"preliminary loss from Arnab in Andhra Pradesh, a figure the chief minister said could rise"},{"value":"1 to 1.5 m","label":"storm surge forecast on the south Andhra coast as Murasu crosses near Ongole"}]}
+{"title":"The reporting behind this view","items":[{"value":"7","label":"people killed in Andhra Pradesh by Cyclone Arnab, which made landfall on October 28"},{"value":"₹4,600 crore","label":"preliminary loss from Arnab in Andhra Pradesh, a figure the chief minister said could rise"},{"value":"1 to 1.5 m","label":"storm surge forecast on the south Andhra coast as Murasu crosses near Ongole"}]}
 ```

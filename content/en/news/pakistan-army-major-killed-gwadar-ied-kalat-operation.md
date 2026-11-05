@@ -11,7 +11,7 @@ published: 2026-10-19T09:40:00+05:30
 location: Islamabad
 keyPoints:
   - "Major Wajahat Waheed, 34, from Lahore, was killed by an **improvised explosive device** in Gwadar district."
-  - "Troops killed **four militants** in an intelligence-based operation in Kalat on 18 October."
+  - "Troops killed **four militants** in an intelligence-based operation in Kalat on October 18."
   - "Pakistan's military again described the fighters as **\"India-backed\"**, a charge India has long rejected."
 hero:
   need: "The coastal town of Pasni in Gwadar district, Balochistan"
@@ -22,7 +22,7 @@ hero:
     value: "A major killed on the Makran coast"
 related: [pakistan-suspends-iran-trade-taftan-gabd-lpg, sharifs-defend-kp-governors-rule-lawyers-strike]
 seo:
-  description: "Pakistan's ISPR said Major Wajahat Waheed was killed by an IED in Gwadar's Pasni tehsil and four militants were killed in Kalat, Balochistan, on 18 October."
+  description: "Pakistan's ISPR said Major Wajahat Waheed was killed by an IED in Gwadar's Pasni tehsil and four militants were killed in Kalat, Balochistan, on October 18."
 sources:
   - title: "Army major martyred, four terrorists killed in Balochistan operations"
     publisher: "Aaj English TV"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (Aaj English, 8:51 am PKT = 9:21 am IST) relaying ISPR statement issued Monday. Figures are the military's own and not independently confirmed; copy attributes them to the military."
-    - "Date of the Gwadar IED blast not stated; copy does not give one. Kalat operation 18 Oct in Jattakabad."
+    - "Date of the Gwadar IED blast not stated; copy does not give one. Kalat operation Oct 18 in Jattakabad."
     - "'India has long rejected' such charges: general background, India routinely denies; no fresh Indian reaction found."
     - "Balochistan, Gwadar/CPEC background paragraph is general context, not from the day's source."
 ---

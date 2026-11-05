@@ -22,7 +22,7 @@ hero:
     value: "Bengaluru to Mumbai overnight"
 related: [karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools]
 seo:
-  description: "Bengaluru-Mumbai Vande Bharat sleeper train (27652) inaugurated by Ashwini Vaishnaw on 1 November 2026: timings SMVT 7:45 pm to CSMT 11:55 am, stops at Anantapur, Guntakal, Raichur, Kalaburagi, Solapur, Pune, Kalyan."
+  description: "Bengaluru-Mumbai Vande Bharat sleeper train (27652) inaugurated by Ashwini Vaishnaw on November 1, 2026: timings SMVT 7:45 pm to CSMT 11:55 am, stops at Anantapur, Guntakal, Raichur, Kalaburagi, Solapur, Pune, Kalyan."
 sources:
   - title: "Inauguration Day: Bengaluru-Mumbai Vande Bharat Sleeper train takes to the tracks today"
     publisher: "ANI"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov morning, preparations for the inauguration at SMVT Bengaluru; ANI story time-stamped 08:52 IST (updated 09:05). Inaugural run at 12:15 IST is later today, written as a preview."
+    - "event: Nov 1 morning, preparations for the inauguration at SMVT Bengaluru; ANI story time-stamped 08:52 IST (updated 09:05). Inaugural run at 12:15 IST is later today, written as a preview."
     - "Single source (ANI). No fares, coach count or Mumbai-Bengaluru return timings in the source; none added. Journey time (16 h 10 min) computed from the listed timetable."
     - "Kumaraswamy and Somanna listed as attending; written as 'due to attend'."
 ---
@@ -41,7 +41,7 @@ Railway Minister Ashwini Vaishnaw will **flag off the Bengaluru-Mumbai Vande Bha
 
 The inaugural run is due to leave platform 1 at **Sir M. Visvesvaraya Terminal** (SMVT) in Bengaluru at 12:15 pm. Union minister H. D. Kumaraswamy and Minister of State for Railways V. Somanna are due to attend.
 
-The launch falls on **Karnataka Rajyotsava**, as the state marks 70 years since it was formed on 1 November 1956, and links the country's technology hub with its financial capital on a single overnight train.
+The launch falls on **Karnataka Rajyotsava**, as the state marks 70 years since it was formed on November 1, 1956, and links the country's technology hub with its financial capital on a single overnight train.
 
 ```photo
 {"n":1,"subject":"V. Somanna","caption":"Minister of State for Railways V. Somanna, who is due to join the inauguration in Bengaluru.","alt":"Minister of State for Railways V. Somanna"}

@@ -12,7 +12,7 @@ location: Bhubaneswar
 keyPoints:
   - "Quarterly profit came to **₹1,835 crore, down 8.4%** from the June quarter."
   - "Operating margin **narrowed to 44.5% from 51.1%**."
-  - "The board declared an **interim dividend of ₹4.50 a share**, record date 6 November."
+  - "The board declared an **interim dividend of ₹4.50 a share**, record date November 6."
 hero:
   need: "National Aluminium Company (NALCO) plant or offices"
   suggested_source: "National Aluminium Company"
@@ -22,7 +22,7 @@ hero:
     value: "NALCO profit ₹1,835 crore"
 related: [tata-investment-q2-profit-falls-22-per-cent, itc-q2-profit-falls-18-per-cent-revenue-44-per-cent, sensex-nifty-close-november-2]
 seo:
-  description: "NALCO Q2 FY27 results: profit ₹1,835 crore, down 8.4% from Q1; revenue ₹5,419 crore; EBITDA margin 44.5%; interim dividend ₹4.50 a share, record date 6 November 2026."
+  description: "NALCO Q2 FY27 results: profit ₹1,835 crore, down 8.4% from Q1; revenue ₹5,419 crore; EBITDA margin 44.5%; interim dividend ₹4.50 a share, record date November 6, 2026."
 cover:
   template: business
   label: "Q2 results"
@@ -52,8 +52,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 21:35 IST, NALCO board approves Q2 FY27 results and interim dividend, filed to exchanges (Investywise published 16:07 UTC = 21:37 IST; 10bmnews 21:40)."
-    - "PAT standalone Rs 1,835.09 cr, consolidated Rs 1,835.05 cr; H1 standalone PAT Rs 3,837.47 cr; dividend Rs 4.50 (90% of Rs 5 face value), record date 6 Nov, payment on or before 1 Dec; paid-up capital Rs 918.32 cr; wind power emphasis of matter: Investywise."
+    - "event: Nov 2 about 21:35 IST, NALCO board approves Q2 FY27 results and interim dividend, filed to exchanges (Investywise published 16:07 UTC = 21:37 IST; 10bmnews 21:40)."
+    - "PAT standalone Rs 1,835.09 cr, consolidated Rs 1,835.05 cr; H1 standalone PAT Rs 3,837.47 cr; dividend Rs 4.50 (90% of Rs 5 face value), record date Nov 6, payment on or before Dec 1; paid-up capital Rs 918.32 cr; wind power emphasis of matter: Investywise."
     - "Q1 comparison (PAT Rs 2,003 cr, revenue Rs 5,302 cr, EBITDA Rs 2,708 cr, margin 51.1%), Q2 revenue Rs 5,419 cr, EBITDA Rs 2,411 cr, margin 44.5%, H1 revenue Rs 10,721.82 cr vs Rs 8,099.28 cr, H1 PAT vs Rs 2,497.03 cr: 10bmnews only. Year-ago Q2 FY26 quarter figures not found in sources; left out."
     - "Dividend outgo about Rs 826 cr computed by desk (918.32/5 = 183.66 cr shares x Rs 4.50). H1 profit growth about 54% computed by desk. Auditor firm names differ between sources (SRB vs SKB); not named."
 ---
@@ -68,7 +68,7 @@ Profit fell 8.4% from ₹2,003 crore in the June quarter, even as revenue from o
 
 The half-year picture is far stronger. For April to September, NALCO earned a profit of ₹3,837.47 crore, **up about 54% from ₹2,497.03 crore** a year earlier, on revenue of ₹10,721.82 crore against ₹8,099.28 crore.
 
-The board declared an **interim dividend of ₹4.50 a share**, 90% of the ₹5 face value, which works out to roughly ₹826 crore on its paid-up capital of ₹918.32 crore. The record date is Friday, 6 November, and the payout will be made on or before 1 December. The Centre, as the majority owner, takes the largest share.
+The board declared an **interim dividend of ₹4.50 a share**, 90% of the ₹5 face value, which works out to roughly ₹826 crore on its paid-up capital of ₹918.32 crore. The record date is Friday, November 6, and the payout will be made on or before December 1. The Centre, as the majority owner, takes the largest share.
 
 The auditors again drew attention to **two wind power plants whose revenue is not recognised**, because power purchase agreements with the Rajasthan government are still pending. The dispute is before the Rajasthan High Court, and the auditors said it did not change their review conclusion.
 

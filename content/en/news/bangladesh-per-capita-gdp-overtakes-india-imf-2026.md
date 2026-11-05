@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures from IMF World Economic Outlook, October 2026 (released 13 Oct), as given by Al Jazeera on 25 Oct (14:11, assumed UTC; published time set to 8:15 pm IST). IMF database not checked directly."
+    - "All figures from IMF World Economic Outlook, October 2026 (released Oct 13), as given by Al Jazeera on Oct 25 (14:11, assumed UTC; published time set to 8:15 pm IST). IMF database not checked directly."
     - "2027 figures ($3,219 vs $3,036) labelled 'next year' in the source; copy says 2027."
     - "Santosh Mehrotra quote verbatim from Al Jazeera; his affiliation not given there beyond 'Indian economist'."
     - "News peg is Al Jazeera's analysis of the IMF projection, not a new release."

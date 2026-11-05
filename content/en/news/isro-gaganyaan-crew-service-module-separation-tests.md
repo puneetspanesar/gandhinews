@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "ISRO release dated 16 Oct (Friday); ANI filed 3:06 am IST 17 Oct. Not previously on site, so carried in this update; copy says ISRO announced it on Friday. Test dates not given by ISRO."
+    - "ISRO release dated Oct 16 (Friday); ANI filed 3:06 am IST Oct 17. Not previously on site, so carried in this update; copy says ISRO announced it on Friday. Test dates not given by ISRO."
     - "Narayanan timeline remarks (June: last quarter of 2026; September: within the year), April air-drop test, earlier 2026 qualifications, crewed flight 2027 target: The Week only, paraphrased."
     - "Original December 2020 and later December 2025 targets: The Week."
     - "No numbers (forces, counts) published by ISRO."

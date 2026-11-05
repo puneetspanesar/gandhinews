@@ -22,7 +22,7 @@ hero:
     value: "Krishna basin 72% down"
 related: [telangana-el-nino-severe-chief-secretary-singur]
 seo:
-  description: "Telangana on 19 October formed a six-minister sub-committee led by Deputy CM Bhatti Vikramarka on El Nino, with Krishna basin water 72% lower and 10 lakh acres of crops at risk."
+  description: "Telangana on October 19 formed a six-minister sub-committee led by Deputy CM Bhatti Vikramarka on El Nino, with Krishna basin water 72% lower and 10 lakh acres of crops at risk."
 sources:
   - title: "Six-member sub-committee to tackle El Nino effect in Telangana"
     publisher: "Siasat"

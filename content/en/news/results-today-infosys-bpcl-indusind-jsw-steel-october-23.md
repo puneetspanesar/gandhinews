@@ -22,7 +22,7 @@ hero:
     value: "Infosys after the bell"
 related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, jio-ipo-5-51-times-day-two-close-final-day, results-today-hpcl-swiggy-havells-colgate-october-22]
 seo:
-  description: "Q2 results today, 23 October 2026: Infosys at 3:45 pm, BPCL, IndusInd Bank, JSW Steel, Dr Reddy's, Adani Power, Coforge, Torrent Pharma. Jio IPO final day; RBI forex reserves data."
+  description: "Q2 results today, October 23, 2026: Infosys at 3:45 pm, BPCL, IndusInd Bank, JSW Steel, Dr Reddy's, Adani Power, Coforge, Torrent Pharma. Jio IPO final day; RBI forex reserves data."
 sources:
   - title: "Infosys Q2 results, dividend: Earnings expectations, timing, FY27 guidance & targets"
     publisher: "Business Today"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Results list from Kalkine (15 Oct); the schedule is partly in images, so list may be incomplete and dates may shift. Company filings not checked individually."
-    - "Infosys timing, conference times, consensus and brokerage estimates from Business Today (22 Oct). Infosys close Rs 1,156 on Thursday per Business Today."
-    - "Forex reserves: RBI publishes weekly statistical supplement on Fridays; next week's figure (w/e 16 Oct) not yet out. Last figure $726.027bn (w/e 9 Oct) from desk dashboard."
+    - "Results list from Kalkine (Oct 15); the schedule is partly in images, so list may be incomplete and dates may shift. Company filings not checked individually."
+    - "Infosys timing, conference times, consensus and brokerage estimates from Business Today (Oct 22). Infosys close Rs 1,156 on Thursday per Business Today."
+    - "Forex reserves: RBI publishes weekly statistical supplement on Fridays; next week's figure (w/e Oct 16) not yet out. Last figure $726.027bn (w/e Oct 9) from desk dashboard."
     - "Jio figures from IPOJI 6:57 pm snapshot citing BSE/NSE."
 ---
 
@@ -71,7 +71,7 @@ Bharat Petroleum, whose margins have been squeezed by crude above $110 a barrel,
 
 Jio Platforms' ₹30,213 crore share sale, the largest attempted in India, closes on Friday. By Thursday evening it had drawn bids for 5.51 times the shares on offer, with institutions subscribing 13.14 times and small investors 1.53 times.
 
-In the evening, the Reserve Bank of India is due to publish its weekly statistical supplement, including foreign exchange reserves for the week to 16 October. Reserves had fallen for five straight weeks to $726.03 billion by 9 October as the central bank defended the rupee, which closed at 94.82 to the dollar on Thursday.
+In the evening, the Reserve Bank of India is due to publish its weekly statistical supplement, including foreign exchange reserves for the week to October 16. Reserves had fallen for five straight weeks to $726.03 billion by October 9 as the central bank defended the rupee, which closed at 94.82 to the dollar on Thursday.
 
 ## The backdrop
 

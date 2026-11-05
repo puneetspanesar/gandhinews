@@ -22,7 +22,7 @@ hero:
     value: "India v South Korea, 7 pm tonight"
 related: [harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
 seo:
-  description: "India face South Korea at 7 pm IST on 2 November 2026 in Jalandhar in their final league game of the men's Asian Champions Trophy, with four wins from four and a semi-final place already secured."
+  description: "India face South Korea at 7 pm IST on November 2, 2026, in Jalandhar in their final league game of the men's Asian Champions Trophy, with four wins from four and a semi-final place already secured."
 sources:
   - title: "Men's Hockey Asian Champions Trophy 2026: Harmanpreet's hat-trick powers India to fourth straight victory"
     publisher: "Khel Now"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 19:00 IST, India v South Korea, preview of later today. Match time, venue, table (India 12 pts +21, Malaysia 9 +6, Japan 7, South Korea 6, China 1, Bangladesh 0), all four semi-finalists and Harmanpreet quotes from Khel Now report published 2 Nov 06:17 IST; table and quotes also match the IANS report used in the 1 Nov Malaysia story."
-    - "Semi-final schedule and pairings not given in any source read; copy does not say who India will meet. South Korea's squad, coach and recent results not confirmed; left out. Search budget for desk exhausted (6/6); AIR sports page listed a 1 Nov item on India leading the table with 22 goals but the article could not be fetched, so the 22-goal figure is not used."
+    - "event: Nov 2 19:00 IST, India v South Korea, preview of later today. Match time, venue, table (India 12 pts +21, Malaysia 9 +6, Japan 7, South Korea 6, China 1, Bangladesh 0), all four semi-finalists and Harmanpreet quotes from Khel Now report published Nov 2 06:17 IST; table and quotes also match the IANS report used in the Nov 1 Malaysia story."
+    - "Semi-final schedule and pairings not given in any source read; copy does not say who India will meet. South Korea's squad, coach and recent results not confirmed; left out. Search budget for desk exhausted (6/6); AIR sports page listed a Nov 1 item on India leading the table with 22 goals but the article could not be fetched, so the 22-goal figure is not used."
 cover:
   template: sport
   label: Asian Champions Trophy

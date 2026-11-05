@@ -10,9 +10,9 @@ standfirst: "The United Nations turned 81 on Saturday. Its outgoing Secretary-Ge
 published: 2026-10-24T11:00:00+05:30
 location: New York
 keyPoints:
-  - "The UN marks **81 years** since its Charter came into force on 24 October 1945."
+  - "The UN marks **81 years** since its Charter came into force on October 24, 1945."
   - "This is António Guterres's **last UN Day message** as Secretary-General."
-  - "His second term ends on **31 December 2026**, and no successor has yet won Security Council backing."
+  - "His second term ends on **December 31, 2026**, and no successor has yet won Security Council backing."
 hero:
   need: "UN Secretary-General António Guterres speaking"
   suggested_source: "António Guterres"
@@ -40,15 +40,15 @@ verification:
     - "UN Press release (press.un.org sgsm23338) could not be fetched; not used."
     - "'Last message marking the day as head of the UN': UN News."
     - "Quotes from UN News and IANS (X post and video message)."
-    - "Straw poll context from Gandhi News story of 18 Oct; no newer poll found."
+    - "Straw poll context from Gandhi News story of Oct 18; no newer poll found."
 ---
 
-The United Nations marked its 81st birthday on Saturday with a message from António Guterres that doubled as a farewell: it is the last UN Day he will mark as Secretary-General before his second term ends on 31 December.
+The United Nations marked its 81st birthday on Saturday with a message from António Guterres that doubled as a farewell: it is the last UN Day he will mark as Secretary-General before his second term ends on December 31.
 
 "Today, the United Nations is needed more than ever," Guterres wrote on X. In a video message he said the world was celebrating "not only an organization, but an idea", and warned that "humanity's future depends on our ability to work together to advance peace, development and human rights."
 
 He listed the pressures crowding in on that idea: wars, the climate crisis, widening inequality and technology racing ahead of the rules meant to govern it. "The United Nations is an essential part of the fabric of our world," he said, pointing to its work settling disputes, fighting poverty and hunger, defending human rights and getting aid to people uprooted by war and disaster.
 
-UN Day has been observed on 24 October since 1948. It marks the day in 1945 when the UN Charter came into force, after it was ratified by a majority of signatories, including the five permanent members of the Security Council. The organisation now has 193 member states.
+UN Day has been observed on October 24 since 1948. It marks the day in 1945 when the UN Charter came into force, after it was ratified by a majority of signatories, including the five permanent members of the Security Council. The organisation now has 193 member states.
 
 The anniversary falls at an awkward moment for the body Guterres leads. The race to choose his successor has stalled: in the Security Council's sixth informal straw poll, every one of the seven candidates drew a "discourage" vote from at least one permanent member, in effect a veto, and Senegal's former president Macky Sall withdrew a day later. The Council has to agree on one name to recommend to the General Assembly, which makes the appointment.

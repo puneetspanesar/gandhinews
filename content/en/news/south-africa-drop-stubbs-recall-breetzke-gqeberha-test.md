@@ -61,10 +61,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Squad list identical in Tribune/ANI, SportsTak and NewsX. Squad announced morning of 15 Oct (NewsX 12:49 pm IST, ANI 1:16 pm IST)."
+    - "Squad list identical in Tribune/ANI, SportsTak and NewsX. Squad announced morning of Oct 15 (NewsX 12:49 pm IST, ANI 1:16 pm IST)."
     - "Breetzke: 14 runs in two Tests (SportsTak, Khel Now); ODI average 58.73 (Khel Now only); ODI hundred against Australia in Durban (SportsTak) in the first ODI (Khel Now). Verreynne 11 innings without a fifty: Khel Now only."
-    - "Conrad quotes: 'inside lane' (Khel Now); 'deserve a crack' and dismissals categories (ANI); weather (NewsX). Some may date from his 14 Oct press conference; copy says 'Conrad said' without a day."
-    - "De Zorzi hamstring: left (Tribune/SportsTak). Third Test Cape Town 27-31 Oct per BD Crictime only."
+    - "Conrad quotes: 'inside lane' (Khel Now); 'deserve a crack' and dismissals categories (ANI); weather (NewsX). Some may date from his Oct 14 press conference; copy says 'Conrad said' without a day."
+    - "De Zorzi hamstring: left (Tribune/SportsTak). Third Test Cape Town Oct 27-31 per BD Crictime only."
     - "Margin of first Test: 214 runs (site's earlier reports, ANI). AAP had 224; not used."
 ---
 
@@ -94,4 +94,4 @@ Australia, 1-0 up in the three-match series, are waiting on Cameron Green, who m
 
 Reserve wicketkeeper Josh Inglis, recovering from a fractured finger, has been batting in the nets. "Josh had a couple of hits during this Test match out the back of the nets during lunchtime, and that's gone well," McDonald said. Cooper Connolly, who missed the first Test with a head cold, could also come back into contention.
 
-The second Test runs from 18 to 22 October. The series ends in Cape Town later this month.
+The second Test runs from October 18 to 22. The series ends in Cape Town later this month.

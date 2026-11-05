@@ -10,8 +10,8 @@ standfirst: "The Polish Prime Minister's three-day visit, his first to India as 
 published: 2026-10-20T07:10:00+05:30
 location: New Delhi
 keyPoints:
-  - "Donald Tusk visits India from **21 to 23 October** at Narendra Modi's invitation."
-  - "He holds talks with Modi on **Thursday, 22 October**, then meets IT and space firms in Bengaluru."
+  - "Donald Tusk visits India from **October 21 to 23** at Narendra Modi's invitation."
+  - "He holds talks with Modi on **Thursday, October 22**, then meets IT and space firms in Bengaluru."
   - "It is his first visit as Prime Minister **since 2010**."
 hero:
   need: "Two-panel split: Donald Tusk and Narendra Modi"
@@ -22,7 +22,7 @@ hero:
     value: "Poland's PM heads to Delhi and Bengaluru"
 related: []
 seo:
-  description: "Polish PM Donald Tusk visits India from 21 to 23 October for talks with Narendra Modi on trade, defence and technology, and business forums in New Delhi and Bengaluru."
+  description: "Polish PM Donald Tusk visits India from October 21 to 23 for talks with Narendra Modi on trade, defence and technology, and business forums in New Delhi and Bengaluru."
 sources:
   - title: "Polish PM Donald Tusk to land in India on October 21 for official visit: MEA (PTI)"
     publisher: "Daily Excelsior"
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "MEA announcement was on 19 Oct (PTI via Daily Excelsior, printed 20 Oct 4:30 am). Written as a preview; no arrival time reported."
-    - "MEA quotes verbatim via PTI; envoy quotes verbatim via ANI (19 Oct, 6:38 pm)."
+    - "MEA announcement was on Oct 19 (PTI via Daily Excelsior, printed Oct 20 4:30 am). Written as a preview; no arrival time reported."
+    - "MEA quotes verbatim via PTI; envoy quotes verbatim via ANI (Oct 19, 6:38 pm)."
     - "No trade figures in sources; none given. 2017 India-EU summit visit as European Council President per PTI."
 ---
 
 Polish Prime Minister Donald Tusk arrives in India on Wednesday for a three-day visit that will take him from talks with Prime Minister Narendra Modi in New Delhi to the technology hub of Bengaluru.
 
-Tusk is visiting from 21 to 23 October at Modi's invitation, the Ministry of External Affairs said. He meets Modi on Thursday, 22 October, when the two leaders will review the Strategic Partnership that their countries agreed during Modi's visit to Poland in August 2024, and attends an India-Poland Business Forum in the capital. On Friday he travels to Bengaluru to meet companies from the IT and space sectors at a second business forum.
+Tusk is visiting from October 21 to 23 at Modi's invitation, the Ministry of External Affairs said. He meets Modi on Thursday, October 22, when the two leaders will review the Strategic Partnership that their countries agreed during Modi's visit to Poland in August 2024, and attends an India-Poland Business Forum in the capital. On Friday he travels to Bengaluru to meet companies from the IT and space sectors at a second business forum.
 
 "The visit will provide the opportunity to further strengthen the India-Poland Strategic Partnership," the ministry said, listing trade and investment, defence, emerging technologies, renewable energy, education, culture and people-to-people ties as areas of discussion. "The visit would serve to deepen the India-EU strategic partnership," it added.
 

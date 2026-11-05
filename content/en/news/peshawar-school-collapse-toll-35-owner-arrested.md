@@ -55,8 +55,8 @@ verification:
     - "Owner's name Mohammad Khan and his claim that the week's rain weakened a roof rest on Arab News only (police account); hedged."
     - "Arrest first stated by Governor Kundi to PM (Dawn); Peshawar police chief Saeed Ahmed also said owner arrested (Arab News)."
     - "Registration in March and inspection without technical staff come from the Dawn editorial citing the KP private schools regulator; stated as the regulator's account."
-    - "Two committees: Elementary and Secondary Education Department fact-finding committee (Javid Iqbal, PSRA chairman); Chief Secretary's committee with 7-day deadline (Dawn 16 Oct). District inspection committees, 3-day reports, from Dawn editorial."
-    - "School location: earlier reports said Afridi Abad; Dawn 16 Oct says off Outer Circular Road, Dir Colony area. Story avoids neighbourhood name."
+    - "Two committees: Elementary and Secondary Education Department fact-finding committee (Javid Iqbal, PSRA chairman); Chief Secretary's committee with 7-day deadline (Dawn Oct 16). District inspection committees, 3-day reports, from Dawn editorial."
+    - "School location: earlier reports said Afridi Abad; Dawn Oct 16 says off Outer Circular Road, Dir Colony area. Story avoids neighbourhood name."
     - "Teacher Mahwish Zaman's words are reported speech in Arab News."
 ---
 

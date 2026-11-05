@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single primary source: PIB release, 17 Oct 2026, 2:06 pm. Yadav's remarks are paraphrased in the release; no direct quotes used. Names of start-ups not given."
+    - "Single primary source: PIB release, Oct 17, 2026, 2:06 pm. Yadav's remarks are paraphrased in the release; no direct quotes used. Names of start-ups not given."
 ---
 
 Union Environment Minister Bhupender Yadav met start-ups and technology companies on Saturday to look for practical, affordable and scalable ways to cut air pollution in Delhi-NCR.

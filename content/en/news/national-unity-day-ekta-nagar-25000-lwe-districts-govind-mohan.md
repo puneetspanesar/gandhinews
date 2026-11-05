@@ -6,11 +6,11 @@ section: policy
 format_label: "Policy / Home Affairs"
 topics: []
 title: "Ekta Nagar to host 25,000 on National Unity Day, with 5,000 from Maoist-hit districts"
-standfirst: "Home Secretary Govind Mohan said the 31 October celebrations would mark the end of Left-wing extremism, with a drug-free India as a key message."
+standfirst: "Home Secretary Govind Mohan said the October 31 celebrations would mark the end of Left-wing extremism, with a drug-free India as a key message."
 published: 2026-10-21T13:45:00+05:30
 location: New Delhi
 keyPoints:
-  - "Arrangements are being made for **25,000 people** at Ekta Nagar on 31 October, against 1,500 to 2,000 earlier."
+  - "Arrangements are being made for **25,000 people** at Ekta Nagar on October 31, against 1,500 to 2,000 earlier."
   - "About **5,000 participants** are expected from 126 districts affected by Left-wing extremism."
   - "Govind Mohan said the day was **not meant to compete** with Republic Day."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "25,000 expected at Ekta Nagar"
 related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
-  description: "Home Secretary Govind Mohan said 25,000 people, including 5,000 from 126 LWE-hit districts, are expected at Ekta Nagar for National Unity Day on 31 October 2026."
+  description: "Home Secretary Govind Mohan said 25,000 people, including 5,000 from 126 LWE-hit districts, are expected at Ekta Nagar for National Unity Day on October 31, 2026."
 sources:
   - title: "National Unity Day event to host 25,000 people, draw 5,000 participants from 126 LWE-hit districts; drug-free India a key theme"
     publisher: "Devdiscourse (ANI)"
@@ -32,11 +32,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI via Devdiscourse, 13:51 IST 21 Oct). Rally size: this source says 45-rider contingents from all 36 states/UTs and CAPFs, while MHA pre-event note said ~90 riders flagged off in Delhi; conflict, so rider numbers left out."
+    - "Single source (ANI via Devdiscourse, 13:51 IST Oct 21). Rally size: this source says 45-rider contingents from all 36 states/UTs and CAPFs, while MHA pre-event note said ~90 riders flagged off in Delhi; conflict, so rider numbers left out."
     - "'Keralam-related elements' in source unclear; cultural programme described only as Kuchipudi, Mohiniyattam and a play."
 ---
 
-About 25,000 people are expected at Ekta Nagar in Gujarat for National Unity Day on 31 October, including some 5,000 from districts affected by Left-wing extremism, Union Home Secretary Govind Mohan said on Wednesday.
+About 25,000 people are expected at Ekta Nagar in Gujarat for National Unity Day on October 31, including some 5,000 from districts affected by Left-wing extremism, Union Home Secretary Govind Mohan said on Wednesday.
 
 Speaking at a conference in New Delhi, Mohan said this year's celebrations of Sardar Vallabhbhai Patel's birth anniversary would mark the end of Left-wing extremism, though national unity would remain the central theme.
 
@@ -48,4 +48,4 @@ The programme will include 15 tableaux, five on national themes chosen through a
 
 A drug-free India is the other key message. The police motorcycle rally that Home Minister Amit Shah flagged off in Delhi on Wednesday, with contingents from the states, Union Territories and central armed police forces, carries that theme to Ekta Nagar. At the National Police Memorial earlier in the day, Shah urged police forces to stay committed for three years to make India drug-free by 2029.
 
-National Unity Day, or Rashtriya Ekta Diwas, has been observed on 31 October since 2014.
+National Unity Day, or Rashtriya Ekta Diwas, has been observed on October 31 since 2014.

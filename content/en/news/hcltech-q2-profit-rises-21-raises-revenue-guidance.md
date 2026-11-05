@@ -12,7 +12,7 @@ location: Noida
 keyPoints:
   - "Net profit for July-September rose **21% to ₹5,132 crore**, and revenue 11.5% to ₹35,620 crore."
   - "HCLTech now expects **2.5% to 4% revenue growth** in constant currency this year, up from 1% to 4%."
-  - "The board declared a **₹12 interim dividend**, with 16 October as the record date."
+  - "The board declared a **₹12 interim dividend**, with October 16 as the record date."
 hero:
   need: "HCLTech campus or office building with company signage, ideally Noida headquarters"
   suggested_source: "Wikimedia Commons search 'HCL Technologies Noida' or 'HCLTech office'"
@@ -69,7 +69,7 @@ HCLTech now expects revenue for 2026-27 to grow 2.5% to 4% in constant currency,
 
 The operating (EBIT) margin for the quarter was 18.2%, up 131 basis points from the June quarter.
 
-The board declared an interim dividend of ₹12 a share. The record date is 16 October and the dividend will be paid on 26 October.
+The board declared an interim dividend of ₹12 a share. The record date is October 16 and the dividend will be paid on October 26.
 
 ## AI work picks up
 
@@ -77,12 +77,12 @@ Revenue from what the company calls advanced AI rose to $219 million, up 28.4% o
 
 > Our AI propositions are resonating well with our clients, giving us confidence in our growth trajectory.
 >
-> Source: C Vijayakumar, CEO and Managing Director, HCLTech, 12 October 2026
+> Source: C Vijayakumar, CEO and Managing Director, HCLTech, October 12, 2026
 
 Roshni Nadar Malhotra, the company's chairperson, said "the accelerating growth in Advanced AI revenue validates our business strategy."
 
 ## How it compares
 
-HCLTech's numbers follow TCS, which reported a 15% rise in profit and constant-currency revenue growth of 0.5% for the quarter last week. Wipro and Tech Mahindra are due to report on Thursday, 15 October.
+HCLTech's numbers follow TCS, which reported a 15% rise in profit and constant-currency revenue growth of 0.5% for the quarter last week. Wipro and Tech Mahindra are due to report on Thursday, October 15.
 
 HCLTech shares ended Monday's session higher even as the Sensex fell 548 points. The company's market value stood at about ₹3.31 lakh crore.

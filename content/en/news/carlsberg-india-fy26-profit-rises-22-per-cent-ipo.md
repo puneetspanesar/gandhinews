@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via Business Standard, 25 Oct 11:29 am, based on financial filings accessed through Tofler. Figures are for the unlisted company's FY26 (April 2025-March 2026), not a quarter."
-    - "IPO size 'up to $700 million' is from unnamed reports cited by PTI; written as reported. Confidential filing July 2026, SEBI approval 1 Oct 2026."
+    - "Single source: PTI via Business Standard, Oct 25 11:29 am, based on financial filings accessed through Tofler. Figures are for the unlisted company's FY26 (April 2025-March 2026), not a quarter."
+    - "IPO size 'up to $700 million' is from unnamed reports cited by PTI; written as reported. Confidential filing July 2026, SEBI approval Oct 1, 2026."
     - "Published time set to Sunday afternoon after the PTI report; outside the run's usual 4 pm window by about five hours but not yet on the site."
 ---
 
@@ -51,4 +51,4 @@ Carlsberg India sells Tuborg, Carlsberg Elephant and Kronenbourg 1664 Blanc. It 
 
 ## Towards an IPO
 
-The brewer filed draft papers with the Securities and Exchange Board of India through the confidential route in July and received the regulator's approval on 1 October. The offering has been reported to be worth up to $700 million.
+The brewer filed draft papers with the Securities and Exchange Board of India through the confidential route in July and received the regulator's approval on October 1. The offering has been reported to be worth up to $700 million.

@@ -21,7 +21,7 @@ hero:
     value: "Parliament says yes, PTI says see you in court"
 related: [pakistan-pti-protest-bara-turns-violent-kp-governor-rule, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan]
 seo:
-  description: "Pakistan's National Assembly and Senate endorsed the Khyber Pakhtunkhwa emergency on 14 October as PTI chairman Gohar Ali Khan challenged it in the Peshawar High Court."
+  description: "Pakistan's National Assembly and Senate endorsed the Khyber Pakhtunkhwa emergency on October 14 as PTI chairman Gohar Ali Khan challenged it in the Peshawar High Court."
 sources:
   - title: "National Assembly, Senate pass resolutions endorsing Centre's imposition of emergency in KP"
     publisher: "Dawn"
@@ -56,7 +56,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All reporting from Dawn (14-15 Oct). NA vote tally not reported; Senate vote details not reported."
+    - "All reporting from Dawn (Oct 14-15). NA vote tally not reported; Senate vote details not reported."
     - "Tarar's terrorism figures differ between two Dawn reports (2,911 vs 2,900 for earlier period; 3,787 vs 8,600 for later period), so no figures used."
     - "No PHC hearing date reported. Afridi's whereabouts still not officially disclosed beyond 'preventive custody'."
     - "Joint sitting date for governor's rule not reported."
@@ -64,7 +64,7 @@ verification:
 
 Pakistan's National Assembly and Senate on Wednesday endorsed the emergency that Prime Minister Shehbaz Sharif's government imposed on Khyber Pakhtunkhwa three days earlier. Hours later, the Pakistan Tehreek-e-Insaf (PTI) took the fight to the Peshawar High Court, asking judges to throw out the proclamation and put its sidelined chief minister, Sohail Afridi, back in office.
 
-The resolutions approve the proclamation issued by President Asif Ali Zardari on 11 October under Article 232 of the Constitution. Question Hour was suspended for the debate, and the vote in the National Assembly was carried by majority. The Senate followed soon after.
+The resolutions approve the proclamation issued by President Asif Ali Zardari on October 11 under Article 232 of the Constitution. Question Hour was suspended for the debate, and the vote in the National Assembly was carried by majority. The Senate followed soon after.
 
 ## A calmer House
 
@@ -84,7 +84,7 @@ Gohar's petition, drafted by a panel that includes Salman Akram Raja and Sameer 
 
 The PTI wants Afridi and his cabinet restored, the detained legislators released, Afridi produced in court and the governor's report to Islamabad made public. No hearing date had been set by Wednesday night.
 
-Afridi's legal troubles are growing. Prosecutors on Tuesday added him and four other PTI figures to the case over the May 2023 attack on the Radio Pakistan building in Peshawar, citing forensic facial matches from video clips. PTI leaders dispute the videos. The anti-terrorism court will next hear the case on 28 October.
+Afridi's legal troubles are growing. Prosecutors on Tuesday added him and four other PTI figures to the case over the May 2023 attack on the Radio Pakistan building in Peshawar, citing forensic facial matches from video clips. PTI leaders dispute the videos. The anti-terrorism court will next hear the case on October 28.
 
 On Wednesday night Sadiq issued production orders for two PTI members held by Punjab police, Sanaullah Khan Masti Khel and Dawar Khan Kundi, so they can attend sittings. The party had sought orders for nine.
 

@@ -33,7 +33,7 @@ verification:
   notes:
     - "Single source (LiveLaw). No written order seen; directions are as reported from the hearing."
     - "No next hearing date reported."
-    - "Notification S.O. 4505(E) of 14 August 2026 and Item 10 are as cited in the petition per LiveLaw."
+    - "Notification S.O. 4505(E) of August 14, 2026, and Item 10 are as cited in the petition per LiveLaw."
 ---
 
 The Supreme Court on Monday asked the Centre to explain how caste will be recorded and checked in Census 2027, on a petition that says the count relies on whatever people write on the form.
@@ -42,7 +42,7 @@ The bench of Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice V. Mo
 
 ## The petition
 
-The public interest petition, filed by Aakash Goel, challenges the way caste data is being collected under Item 10 of the Census notification of 14 August 2026. It asks the government to disclose its method and safeguards, to set up a way to record and check caste certificate details, and to bar the use of the census caste data as the only basis for reservation or welfare decisions until a verifiable process is in place.
+The public interest petition, filed by Aakash Goel, challenges the way caste data is being collected under Item 10 of the Census notification of August 14, 2026. It asks the government to disclose its method and safeguards, to set up a way to record and check caste certificate details, and to bar the use of the census caste data as the only basis for reservation or welfare decisions until a verifiable process is in place.
 
 Senior Advocate Mukta Gupta, for the petitioner, said errors in the census could shape welfare schemes and budgets for a decade or more. "Whatever you want to give, you can fill in whatever," she said. "They have to show guidelines. That what should be the basis of entering it." She said an RTI request seeking this information had gone unanswered.
 

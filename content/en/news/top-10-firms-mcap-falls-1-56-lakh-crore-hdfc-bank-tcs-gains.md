@@ -37,15 +37,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures from IANS copy (Siasat, 25 Oct 3:00 pm). Lede in source says Rs 1.55 lakh crore, table sums to Rs 1,55,671.9 crore (about 1.56 lakh crore); used exact figure."
+    - "All figures from IANS copy (Siasat, Oct 25 3:00 pm). Lede in source says Rs 1.55 lakh crore, table sums to Rs 1,55,671.9 crore (about 1.56 lakh crore); used exact figure."
     - "Ranking by mcap derived from reported figures."
     - "Reasons for TCS/L&T gains not given in source; not speculated."
-    - "Context line (FPI selling, Brent highest close since April, Fed/ECB/BoJ, L&T/Maruti/HUL results) from site stories week-ahead-cues and central-bank-week, and Mumbai Press 25 Oct."
+    - "Context line (FPI selling, Brent highest close since April, Fed/ECB/BoJ, L&T/Maruti/HUL results) from site stories week-ahead-cues and central-bank-week, and Mumbai Press Oct 25."
 ---
 
 Eight of India's ten most valuable listed companies lost a combined ₹1,55,671.9 crore in market value last week, as a broad sell-off dragged the benchmarks down across a holiday-shortened week of four sessions.
 
-The Sensex fell 1,605.44 points, or 2.15%, over the week and the Nifty lost 546.15 points, or 2.36%. The damage was wider than the top ten. The market value of all companies listed on the BSE fell by ₹20.79 lakh crore, from ₹472.62 lakh crore on 16 October to ₹451.83 lakh crore.
+The Sensex fell 1,605.44 points, or 2.15%, over the week and the Nifty lost 546.15 points, or 2.36%. The damage was wider than the top ten. The market value of all companies listed on the BSE fell by ₹20.79 lakh crore, from ₹472.62 lakh crore on October 16 to ₹451.83 lakh crore.
 
 ## Banks and lenders hit hardest
 

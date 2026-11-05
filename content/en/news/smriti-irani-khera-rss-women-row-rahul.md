@@ -22,7 +22,7 @@ hero:
     value: "The RSS row gets louder"
 related: [vhp-bjp-hit-back-rahul-gandhi-rss-women-remark, bhagwat-vijayadashami-svabodh-dhankhar-attends-nagpur, rss-invites-dhankhar-vijayadashami-congress-jibe]
 seo:
-  description: "Smriti Irani on 21 October said Rahul Gandhi should be sidelined over his RSS 'cult' post, while Pawan Khera dared the Sangh to appoint a Dalit woman as chief."
+  description: "Smriti Irani on October 21 said Rahul Gandhi should be sidelined over his RSS 'cult' post, while Pawan Khera dared the Sangh to appoint a Dalit woman as chief."
 sources:
   - title: "'Regressive perspective towards women': Smriti Irani, VHP slams Rahul Gandhi over 'anti-constitutional cult' comment on RSS"
     publisher: "ANI"

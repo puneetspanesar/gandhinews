@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera, with Rubio's and Fernández de Cossío's X posts quoted). Rubio post was on Friday 23 Oct US time; Al Jazeera published 24 Oct 08:28 (zone not stated)."
+    - "Single source (Al Jazeera, with Rubio's and Fernández de Cossío's X posts quoted). Rubio post was on Friday, Oct 23 US time; Al Jazeera published Oct 24 08:28 (zone not stated)."
     - "Quotes: Rubio 'To those who seek to create positive change in Cuba, now is the time' (original has a dash; copy uses a colon), 'the disappointment of failed promises, corruption, and the privileged lives of only a few', 'seize this opportunity to create the change you desire through a discreet partnership with the CIA'. Fernández de Cossío 'resorting to public recruitment for the CIA', 'like a tube of toothpaste'; September C-SPAN 'atrocious international crime'."
     - "Oil blockade, UN experts' view, Maduro capture in January 2026: Al Jazeera."
 ---

@@ -22,7 +22,7 @@ hero:
     value: "A trip to the cinema that never was"
 related: []
 seo:
-  description: "Raisen patwari Ajay Dhakad died on the tracks near Pipariya station on 18 October; his sons Shivam and Samarth were later found dead in a locked car in the station parking."
+  description: "Raisen patwari Ajay Dhakad died on the tracks near Pipariya station on October 18; his sons Shivam and Samarth were later found dead in a locked car in the station parking."
 sources:
   - title: "MP revenue official dies by suicide on railway tracks, 2 sons found dead in car hours later"
     publisher: "The Tribune (PTI)"

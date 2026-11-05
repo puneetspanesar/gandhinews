@@ -21,7 +21,7 @@ hero:
     value: "Came for an FIR, ended up detained"
 related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, cjp-lehra-do-tiranga-connaught-place-protest-preview, supreme-court-women-journalists-sealed-cover-delhi-protests]
 seo:
-  description: "Delhi Police detained NSUI president Vinod Jakhar and members at Parliament Street police station on 15 October as they sought an FIR over an alleged assault."
+  description: "Delhi Police detained NSUI president Vinod Jakhar and members at Parliament Street police station on October 15 as they sought an FIR over an alleged assault."
 sources:
   - title: "NSUI president detained during protest seeking FIR over 'assault' on outfit's women workers"
     publisher: "ThePrint (PTI)"
@@ -38,7 +38,7 @@ verification:
   notes:
     - "Single wire source (PTI via ThePrint, 11:47 pm). Detention is the NSUI's claim; no police statement. Time of detention on Thursday not given."
     - "Date and place of the alleged assault not given; officer not named."
-    - "Jakhar's earlier detention at India Gate (about 3:45 am, 15 Oct) is from ThePrint's Ankita Bhandari report."
+    - "Jakhar's earlier detention at India Gate (about 3:45 am, Oct 15) is from ThePrint's Ankita Bhandari report."
 ---
 
 Delhi Police detained Vinod Jakhar, national president of the Congress-affiliated National Students' Union of India (NSUI), along with several members of the group, during a protest at Parliament Street police station on Thursday, the NSUI said.
@@ -47,7 +47,7 @@ The students had gone to demand an FIR against a woman officer of Delhi Police w
 
 "Is demanding justice for our women workers a crime?" Jakhar asked, saying the group had come only to get an FIR lodged and that the DCP would not engage with them.
 
-Ravi Pandey, the NSUI's national media in-charge, demanded an immediate FIR and an impartial inquiry. He accused Delhi Police of acting under political influence and of shielding Chief Election Commissioner Gyanesh Kumar, against whom opposition groups have been protesting in the capital since 10 October.
+Ravi Pandey, the NSUI's national media in-charge, demanded an immediate FIR and an impartial inquiry. He accused Delhi Police of acting under political influence and of shielding Chief Election Commissioner Gyanesh Kumar, against whom opposition groups have been protesting in the capital since October 10.
 
 Delhi Police have not responded publicly to the detentions or the complaint.
 

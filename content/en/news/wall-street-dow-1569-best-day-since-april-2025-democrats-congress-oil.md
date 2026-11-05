@@ -32,7 +32,7 @@ infographic:
   source: "US market close, November 4, 2026"
 related: [wall-street-jumps-dow-1131-democrats-win-congress, us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-schumer-lower-costs-with-or-without-trump, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
 seo:
-  description: "Wall Street close on 4 November 2026: Dow up 1,569 points (3.03%) to 53,356, S&P 500 up 1.58%, Nasdaq up 1.44% after Democrats win Congress; US and Brent crude fall more than 8%."
+  description: "Wall Street close on November 4, 2026: Dow up 1,569 points (3.03%) to 53,356, S&P 500 up 1.58%, Nasdaq up 1.44% after Democrats win Congress; US and Brent crude fall more than 8%."
 sources:
   - title: "Dow closes 3% higher as Democrats' midterm victory eases Wall Street uncertainty"
     publisher: "Finwire"
@@ -52,10 +52,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 02:30 IST (4 pm ET Wednesday 4 Nov), US market close. Final figures from Finwire: Dow +1,569.40 (+3.03%) to 53,356.12, S&P +1.58% to 7,688.62, Nasdaq +1.44% to 25,736.51; first close above 53,000 since 8 Sep, biggest daily gain since 9 Apr 2025. Reuters preliminary (via The Standard) had Dow +1,575.38 to 53,362.57, S&P 7,688.73; final Finwire numbers used."
+    - "event: Nov 5 02:30 IST (4 pm ET Wednesday, Nov 4), US market close. Final figures from Finwire: Dow +1,569.40 (+3.03%) to 53,356.12, S&P +1.58% to 7,688.62, Nasdaq +1.44% to 25,736.51; first close above 53,000 since Sep 8, biggest daily gain since Apr 9, 2025. Reuters preliminary (via The Standard) had Dow +1,575.38 to 53,362.57, S&P 7,688.73; final Finwire numbers used."
     - "Oil: 'US crude futures and Brent both down more than 8%' from Finwire; no price levels found, so none given. Link to Vance's comments is Finwire's; Reuters says bets that the power shift would hasten the end of the Iran war."
     - "Walmart +4%, Bank of America +3% from Finwire. Defence budget figure ($1.5 trillion) from Finwire. Hinojosa data-centre moratorium pledge from Finwire. Sandven and Chronert quotes from Reuters via The Standard."
-    - "Vance X post was on 4 Nov before 11:14 am ET (outside window), used only as background. Trump's White House 'do it again' remarks not written as a separate story: time of the remarks could not be confirmed as after midnight IST."
+    - "Vance X post was on Nov 4 before 11:14 am ET (outside window), used only as background. Trump's White House 'do it again' remarks not written as a separate story: time of the remarks could not be confirmed as after midnight IST."
 ---
 
 Wall Street **closed with its biggest gain in 19 months** on Wednesday, the first full day of trading after Democrats won control of both the House of Representatives and the Senate, as investors welcomed the end of election uncertainty and a steep fall in oil.

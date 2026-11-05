@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: UNI, 16 Oct 4:18 pm, paywalled after the opening paragraphs. Figures attributed to the State Election Commission. Totals check: 3,08,115 + 3,21,743 + 45 = 6,29,903; difference 13,628."
+    - "Single source: UNI, Oct 16 4:18 pm, paywalled after the opening paragraphs. Figures attributed to the State Election Commission. Totals check: 3,08,115 + 3,21,743 + 45 = 6,29,903; difference 13,628."
     - "Poll date not announced in the source ('next month'). Agartala's exact voter count cut off in the preview."
 ---
 

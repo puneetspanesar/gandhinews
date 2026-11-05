@@ -10,7 +10,7 @@ standfirst: "Ranked 54th and back from an elbow injury that dropped her to No. 1
 published: 2026-10-12T15:30:00+05:30
 location: Beijing
 keyPoints:
-  - "Zheng Qinwen beat Mirra Andreeva **7-5, 6-4** in the China Open final on 11 October."
+  - "Zheng Qinwen beat Mirra Andreeva **7-5, 6-4** in the China Open final on October 11."
   - "She is the **first Chinese woman** to win the Beijing WTA 1000 title, and did it as a wildcard."
   - "Zheng has since **pulled out of the Wuhan Open** with a right shoulder injury."
 hero:
@@ -82,7 +82,7 @@ Andreeva had won their only previous meeting. She said the Chinese player had se
 
 > For sure today she played great. It's also very nice to see her playing better and coming back.
 >
-> Source: Mirra Andreeva, runner-up, 11 October 2026
+> Source: Mirra Andreeva, runner-up, October 11, 2026
 
 ## From No. 160 to champion
 
@@ -98,7 +98,7 @@ At the trophy ceremony she spoke in English to the crowd, and also sang a pop so
 
 > When I was at the lowest moment, everyone was saying I couldn't come back.
 >
-> Source: Zheng Qinwen, China Open champion, 11 October 2026
+> Source: Zheng Qinwen, China Open champion, October 11, 2026
 
 "Honestly after winning this title, I felt like finally I achieve it," she said, adding that she was "so hungry" for what lies ahead.
 
@@ -106,4 +106,4 @@ At the trophy ceremony she spoke in English to the crowd, and also sang a pop so
 
 Zheng will return to the top 30 when the rankings are updated. Andreeva, 19, rises to a career-high No. 3 despite the defeat, making her the third-youngest woman this century to reach the top three, after Maria Sharapova and Kim Clijsters.
 
-Neither will play in Wuhan this week. Zheng withdrew from the Wuhan Open with a right shoulder injury. "My body is feeling very fatigued after this intense run of matches," she said in a statement. She is entered for the Japan Open in Osaka, from 19 to 25 October. Andreeva cited a change in her schedule.
+Neither will play in Wuhan this week. Zheng withdrew from the Wuhan Open with a right shoulder injury. "My body is feeling very fatigued after this intense run of matches," she said in a statement. She is entered for the Japan Open in Osaka, from October 19 to 25. Andreeva cited a change in her schedule.

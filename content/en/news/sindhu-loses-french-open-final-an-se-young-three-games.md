@@ -50,7 +50,7 @@ verification:
     - "Olympics.com report would not load; headline only."
     - "Early decider score differs: India TV says Sindhu led 8-5; Khel Now says 9-9 before An pulled away; NewsX says a six-point run took An to 15-9. Wrote it generally."
     - "50-match winning streak and 66-1 season record, 10th title of season: NewsX only. Khel Now: 61 minutes; NewsX: just over an hour."
-    - "Record of 10 Indian finals outside India at Super 300 and above this season: Khel Now only. Sindhu quotes from Khel Now; date of remarks taken as 25 October."
+    - "Record of 10 Indian finals outside India at Super 300 and above this season: Khel Now only. Sindhu quotes from Khel Now; date of remarks taken as October 25."
     - "Exact time of the final not found; published time estimated."
 ---
 
@@ -72,7 +72,7 @@ Sindhu, who beat Japan's Hina Akechi in a three-game semi-final on Saturday, sai
 
 > "When you're playing with the top athletes, you have to be at your 100% every single point."
 >
-> Source: P V Sindhu, India, 25 October 2026
+> Source: P V Sindhu, India, October 25, 2026
 
 She said she saw room to improve and was looking forward to "much more better badminton".
 

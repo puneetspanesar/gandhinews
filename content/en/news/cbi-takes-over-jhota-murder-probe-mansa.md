@@ -22,7 +22,7 @@ hero:
     value: "CBI now runs the Jhota probe"
 related: [jhota-murder-case-cbi-transfer-bhagwant-mann, mansa-anti-drug-activist-parvinder-jhota-shot-dead, mansa-jhota-accused-held-rajasthan-punjab-bandh-today, jhota-accused-police-remand-wife-held-mann-phillaur-review, jhota-panel-gherao-aap-mlas-singla-heckled-mansa, punjab-bandh-jhota-mansa-shutdown-response]
 seo:
-  description: "The CBI took over the Parvinder Singh Jhota murder case in Mansa, Punjab, on 21 October 2026 and will probe links to illegal sale of psychotropic drugs."
+  description: "The CBI took over the Parvinder Singh Jhota murder case in Mansa, Punjab, on October 21, 2026, and will probe links to illegal sale of psychotropic drugs."
 sources:
   - title: "CBI takes over anti-drug activist 'Jhota' murder probe"
     publisher: "ThePrint (ANI)"
@@ -43,7 +43,7 @@ The team arrived at Mansa police station on Tuesday night after issuing a formal
 
 Beyond the shooting itself, investigators will look at whether the killing is tied to the open sale of banned psychotropic substances at chemist shops in the area, the complaint Jhota had made his cause. The agency plans to seek custody of the main accused, chemist Ashwani Kumar, and others.
 
-Jhota, 45, was shot dead on 13 October inside a chemist shop in Mansa while he was live-streaming on Facebook. He had confronted Kumar over the alleged sale of addictive drugs to an elderly man. The gunfire killed Jhota and wounded four others. Kumar, who owns the medical store, was later arrested at Salasar in Rajasthan. The killing set off arson at the shop and action against properties linked to the accused.
+Jhota, 45, was shot dead on October 13 inside a chemist shop in Mansa while he was live-streaming on Facebook. He had confronted Kumar over the alleged sale of addictive drugs to an elderly man. The gunfire killed Jhota and wounded four others. Kumar, who owns the medical store, was later arrested at Salasar in Rajasthan. The killing set off arson at the shop and action against properties linked to the accused.
 
 ## A case that became a political fight
 

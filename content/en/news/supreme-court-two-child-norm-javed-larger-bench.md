@@ -68,7 +68,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: pronounced in open court 4 Nov morning; LiveLaw report about 10:59 IST, ETV Bharat 12:21 IST. Published time set 12:25 IST (we missed it earlier)."
+    - "event: pronounced in open court Nov 4 morning; LiveLaw report about 10:59 IST, ETV Bharat 12:21 IST. Published time set 12:25 IST (we missed it earlier)."
     - "Bench Justices PS Narasimha and Alok Aradhe; SLP(C) 30772/2025. Quotes 'lost their relevance' and 'compelled us to stay the proceedings' from LawChakra and ETV Bharat. LiveLaw 557233 article itself not fetched (permission timed out); its URL from search results."
     - "LawChakra says the disqualification was set aside; ETV Bharat does not say so. Not stated in copy. Questions framed for the larger bench not reported; not given. State count (7 repealed, 15 never had, 6 retain) is from the amicus compilation at the August hearing."
 ---

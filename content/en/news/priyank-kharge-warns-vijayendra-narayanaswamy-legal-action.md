@@ -31,7 +31,7 @@ infographic:
   source: "Priyank Kharge in Bengaluru, November 4, 2026"
 related: [priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back, vijayendra-claims-congress-bid-to-oust-cm-shivakumar]
 seo:
-  description: "Karnataka Home Minister Priyank Kharge warned BJP leaders B Y Vijayendra and Chalavadi Narayanaswamy on 4 November that the government would take legal action if they continued derogatory remarks against Congress workers."
+  description: "Karnataka Home Minister Priyank Kharge warned BJP leaders B Y Vijayendra and Chalavadi Narayanaswamy on November 4 that the government would take legal action if they continued derogatory remarks against Congress workers."
 sources:
   - title: "Karnataka Home Minister warns state BJP leaders of legal action over controversial remarks (IANS)"
     publisher: "TenNews"
@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Kharge spoke to reporters in Bengaluru on Wed 4 Nov (time of remarks not given). IANS copy on tennews.in timestamped 16:18 UTC = 21:48 IST; published set 21:55 IST."
+    - "event: Kharge spoke to reporters in Bengaluru on Wed Nov 4 (time of remarks not given). IANS copy on tennews.in timestamped 16:18 UTC = 21:48 IST; published set 21:55 IST."
     - "Single source (IANS via TenNews). Narayanaswamy's 'Arabian Sea' remark hedged as 'reportedly'; he denies it. Kharge's portfolio given as Home Minister per IANS."
 ---
 

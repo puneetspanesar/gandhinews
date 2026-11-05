@@ -37,13 +37,13 @@ verification:
   status: approved
   notes:
     - "Details of the order from Tribune (ANI copy); Statesman headline agrees. Statesman body not read."
-    - "Order dated 13 Oct, reported 14 Oct. No response from Pramod Kumar found. Who takes over his duties not stated."
+    - "Order dated Oct 13, reported Oct 14. No response from Pramod Kumar found. Who takes over his duties not stated."
     - "Name of the broadcasting agency and the tournament/championship involved not given in the source."
 ---
 
 The Boxing Federation of India has suspended its secretary general, Pramod Kumar, accusing him of exposing the federation to unexpected financial claims and refusing to cooperate with an internal inquiry.
 
-The order, signed by BFI president Ajay Singh and dated 13 October, places Kumar under "interim suspension from the office of Secretary General with immediate effect". It stays in force until the inquiry is complete or the order is changed by the competent authority under the federation's constitution.
+The order, signed by BFI president Ajay Singh and dated October 13, places Kumar under "interim suspension from the office of Secretary General with immediate effect". It stays in force until the inquiry is complete or the order is changed by the competent authority under the federation's constitution.
 
 The main charge concerns money. The BFI says it received claims it had not expected from an outside broadcasting agency for its services at a major tournament. The agency relied on a work order issued under Kumar's own credentials, which the federation alleges was kept from the president, the finance committee and other officials, and which went well beyond his financial limits.
 

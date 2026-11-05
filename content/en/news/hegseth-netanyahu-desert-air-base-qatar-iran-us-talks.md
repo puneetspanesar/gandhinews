@@ -22,7 +22,7 @@ hero:
     value: "A quiet visit, a week before the vote"
 related: [trump-endorses-netanyahu-eisenkot-says-voters-decide, eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi, araghchi-says-netanyahu-driving-us-to-war-irgc-warns]
 seo:
-  description: "US Defense Secretary Pete Hegseth met Netanyahu at a desert air base on 19 October as Qatar said Iran-US talks continue. Netanyahu has pitched India as a new ally."
+  description: "US Defense Secretary Pete Hegseth met Netanyahu at a desert air base on October 19 as Qatar said Iran-US talks continue. Netanyahu has pitched India as a new ally."
 sources:
   - title: "Hegseth meets Netanyahu on unannounced Israel visit"
     publisher: "Al Jazeera"
@@ -49,7 +49,7 @@ verification:
   notes:
     - "Hegseth meeting rests on Axios (two sources) via Al Jazeera/Reuters; location from Israel's Army Radio. Pentagon declined comment. What they discussed not reported; copy says so."
     - "Qatar: Majed al-Ansari paraphrase only from Al Jazeera live blog summary; no verbatim quote available."
-    - "Netanyahu quotes verbatim from PTI (ThePrint, 19 Oct), speech in Jerusalem 18 Oct. Election date 27 Oct from PTI."
+    - "Netanyahu quotes verbatim from PTI (ThePrint, Oct 19), speech in Jerusalem Oct 18. Election date Oct 27 from PTI."
     - "Trump 'Complete and Total Endorsement' and Vance quotes verbatim from Al Jazeera."
 ---
 
@@ -61,7 +61,7 @@ The visit came as Qatar said on Tuesday that negotiations between Iran and the U
 
 ## An election a week away
 
-Hegseth's trip lands in the final stretch of Israel's campaign. Voters go to the polls on 27 October, the first general election since the Hamas-led attacks of 7 October 2023 and the war in Gaza that followed. Polls suggest Netanyahu's religious-nationalist coalition could lose its majority, though the opposition may also struggle to form a government.
+Hegseth's trip lands in the final stretch of Israel's campaign. Voters go to the polls on October 27, the first general election since the Hamas-led attacks of October 7, 2023, and the war in Gaza that followed. Polls suggest Netanyahu's religious-nationalist coalition could lose its majority, though the opposition may also struggle to form a government.
 
 President Donald Trump has thrown his weight behind Netanyahu, giving him a "Complete and Total Endorsement" on Sunday and praising him as an ally in the US war on Iran. "BIBI NETANYAHU WILL NEVER LET YOU DOWN!" Trump wrote.
 

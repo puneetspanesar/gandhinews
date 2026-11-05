@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, New York dateline, updated 1:11 am IST 25 Oct). Exact day of Puri's remarks not given; written as 'in New York' without a day. Pakistan's own statement at the dialogue not reported; copy says so."
+    - "Single source (ANI, New York dateline, updated 1:11 am IST Oct 25). Exact day of Puri's remarks not given; written as 'in New York' without a day. Pakistan's own statement at the dialogue not reported; copy says so."
     - "Only two direct quotes are verbatim; the 'military directives', sovereign duty and constitutional safeguards lines are paraphrased as ANI gave them in indirect speech."
-    - "Mangalanandan's Thursday (23 Oct) remarks are from the existing Gandhi News story india-un-kargil-bodies-pakistan-funeral-rights-rapporteur and ANI."
+    - "Mangalanandan's Thursday (Oct 23) remarks are from the existing Gandhi News story india-un-kargil-bodies-pakistan-funeral-rights-rapporteur and ANI."
     - "Special Rapporteur on minority issues not named in source; not named in copy."
 ---
 

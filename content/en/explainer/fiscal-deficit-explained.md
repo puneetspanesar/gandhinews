@@ -11,7 +11,7 @@ published: 2026-10-11T09:00:00+05:30
 shortAnswer: "The fiscal deficit is the difference between the Centre's total spending and its total receipts other than borrowing, so it shows how much the government needs to borrow in a year. The Budget for 2026-27 puts it at ₹16,95,768 crore, or 4.3% of GDP. By August 2026 the government had used 41.9% of that, and ICRA expects an overshoot."
 hero:
   need: "Finance Minister with the Budget tablet outside North Block, or North Block exterior"
-  suggested_source: "PIB photo gallery, Union Budget 2026-27, 1 February 2026"
+  suggested_source: "PIB photo gallery, Union Budget 2026-27, February 1, 2026"
   alt: "North Block, home of the Ministry of Finance, in New Delhi"
 related: [fiscal-deficit-reaches-41-9-of-target-by-august, budget-2026-27-promise-tracker, rbi-right-to-move-fiscal-side-must-hold, economy-dashboard, how-gdp-is-measured-new-base-year]
 seo:
@@ -50,7 +50,7 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026: every Budget figure (₹16,95,768 cr, ₹53,47,315 cr, ₹35,33,150 cr, ₹1,18,397 cr, ₹28,66,922 cr, ₹6,66,228 cr, ₹14,03,972 cr, ₹12,21,821 cr, ₹17,14,523 cr, 1.5%/0.7%/0.3% of GDP), both definition quotes and the rupee shares (22, 20, 24 paise) confirmed in Budget at a Glance 2026-27; arithmetic checks (53,47,315 - 35,33,150 - 1,18,397 = 16,95,768). Budget speech para 92 confirms '50±1 percent' by 2030-31; PIB confirms 55.6% and 56.1%. FY26 outturn (Deccan Herald), 41.9%/38.1% (UNI) and ICRA figures (Deccan Chronicle) confirmed."
+    - "Fact-checked Oct 11, 2026: every Budget figure (₹16,95,768 cr, ₹53,47,315 cr, ₹35,33,150 cr, ₹1,18,397 cr, ₹28,66,922 cr, ₹6,66,228 cr, ₹14,03,972 cr, ₹12,21,821 cr, ₹17,14,523 cr, 1.5%/0.7%/0.3% of GDP), both definition quotes and the rupee shares (22, 20, 24 paise) confirmed in Budget at a Glance 2026-27; arithmetic checks (53,47,315 - 35,33,150 - 1,18,397 = 16,95,768). Budget speech para 92 confirms '50±1 percent' by 2030-31; PIB confirms 55.6% and 56.1%. FY26 outturn (Deccan Herald), 41.9%/38.1% (UNI) and ICRA figures (Deccan Chronicle) confirmed."
     - "Earlier draft note was wrong: the 'rupee comes from' shares add to 100%, not 90%. No copy change needed."
     - "The CGA's August release could not be read directly; the 41.9% figure is from UNI's report of CGA data."
     - "The fiscal responsibility law is not named or described because no source on it was read for this piece."

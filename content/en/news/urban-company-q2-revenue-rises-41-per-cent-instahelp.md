@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Operating figures: Kotak Neo (posted 9:07 pm IST, 16 Oct). Net loss of ₹182.48 crore and 'widens' rest on a Business Standard headline seen as a related link only; year-ago loss not seen, so not stated."
+    - "Operating figures: Kotak Neo (posted 9:07 pm IST, Oct 16). Net loss of ₹182.48 crore and 'widens' rest on a Business Standard headline seen as a related link only; year-ago loss not seen, so not stated."
     - "Air-conditioner approval is in-principle approval to evaluate the category, not a launch."
 ---
 

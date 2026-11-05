@@ -22,7 +22,7 @@ hero:
     value: "Assam all out for 135"
 related: [bengal-collapse-maharashtra-ranji-eden-dadhe, mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun]
 seo:
-  description: "Karnataka bowled out Assam for 135 in Guwahati and Rajasthan were 73 for eight at lunch in Dharamsala on day one of Ranji Trophy round four on 2 November 2026, while Gujarat reached 95 without loss against Kerala."
+  description: "Karnataka bowled out Assam for 135 in Guwahati and Rajasthan were 73 for eight at lunch in Dharamsala on day one of Ranji Trophy round four on November 2, 2026, while Gujarat reached 95 without loss against Kerala."
 sources:
   - title: "Assam vs Karnataka, Elite Group B, Ranji Trophy 2026-27"
     publisher: "ESPN"
@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 12:15 IST, Assam innings ends at 135 (48.1 ov), shown as 'Innings break' on ESPN scores page; Guwahati start 08:30 IST, lunch at 93/4 (33 ov) was about 11:00 IST, so the post-lunch collapse falls in window. 'All out' inferred from innings break at 48.1 overs; ESPN listing shows '135*'."
-    - "event: 2 Nov about 11:40 to 12:10 IST, lunch scores (09:30 starts): Rajasthan 73/8 (29 ov) v HP Dharamsala; Gujarat 95/0 (32 ov) v Kerala Ahmedabad. Tripura 84/5 (42 ov) live v Saurashtra Agartala (lunch 50/5 after 32 ov per match page; Saurashtra chose to field). Tamil Nadu 116/2 (35.1 ov) v Chandigarh."
+    - "event: Nov 2 about 12:15 IST, Assam innings ends at 135 (48.1 ov), shown as 'Innings break' on ESPN scores page; Guwahati start 08:30 IST, lunch at 93/4 (33 ov) was about 11:00 IST, so the post-lunch collapse falls in window. 'All out' inferred from innings break at 48.1 overs; ESPN listing shows '135*'."
+    - "event: Nov 2 about 11:40 to 12:10 IST, lunch scores (09:30 starts): Rajasthan 73/8 (29 ov) v HP Dharamsala; Gujarat 95/0 (32 ov) v Kerala Ahmedabad. Tripura 84/5 (42 ov) live v Saurashtra Agartala (lunch 50/5 after 32 ov per match page; Saurashtra chose to field). Tamil Nadu 116/2 (35.1 ov) v Chandigarh."
     - "Assam lunch detail from espn.in match page: Assam chose to bat; Sibsankar Roy b Rithesh Bhatkal 37 (66b, 5x4, 1x6); Denish Das 22* (67b); Bhatkal 10-1-19-3, Shikhar Shetty 10-3-32-1 at lunch. Post-lunch wicket-takers not available. Himachal bowling figures and Rajasthan batting not available (match page fetch not permitted). Tripura match page data internally inconsistent, so only header figures used. No quotes."
 cover:
   template: sport

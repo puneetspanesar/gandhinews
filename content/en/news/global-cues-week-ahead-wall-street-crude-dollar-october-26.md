@@ -22,7 +22,7 @@ hero:
     value: "Dow down 653 points, oil up 4%"
 related: [global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, sensex-nifty-close-october-23-smallcaps-crash-metals, infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore, rupee-slips-12-paise-94-93-brent-fii-selling-october-23, php2shell-flaws-governments-take-websites-offline]
 seo:
-  description: "Global cues for Monday 26 October 2026: Dow down 652.82 points, S&P 500 down 0.52%, WTI up 4% to $103.44, gold $4,010, 10-year yield near 4.99%, rupee 94.93, Infosys ADR falls."
+  description: "Global cues for Monday, October 26, 2026: Dow down 652.82 points, S&P 500 down 0.52%, WTI up 4% to $103.44, gold $4,010, 10-year yield near 4.99%, rupee 94.93, Infosys ADR falls."
 sources:
   - title: "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise"
     publisher: "Yahoo Finance"
@@ -62,13 +62,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "US index closes agree in Yahoo Finance and TradingKey. Weekly: Yahoo says S&P 500 and Nasdaq fell a second straight week and the Dow 'ended the five-day week with gains'; the Dow claim is odd given the 23 Oct close below its 22 Oct level and is left out."
+    - "US index closes agree in Yahoo Finance and TradingKey. Weekly: Yahoo says S&P 500 and Nasdaq fell a second straight week and the Dow 'ended the five-day week with gains'; the Dow claim is odd given the Oct 23 close below its Oct 22 level and is left out."
     - "WTI 103.44 (+3.99%) from Yahoo ticker stamped 4:59 pm EDT. Brent: Yahoo cites a 'settlement' of $116.72 from an article stamped 3:30 pm EDT; TradingKey pre-market had Brent near $114.50-$115. Copy says only 'traded above $115' and third weekly gain (Yahoo); settlement not confirmed by a second source, so no settlement price given."
     - "10-year yield 4.988% (+3.5 bp) is Yahoo's 1:59 pm CDT reading, before the bond close; copy says 'near 4.99%'. Gold $4,010 (-1.24%) from Yahoo."
-    - "Trump quote as carried by Yahoo Finance. Fed hike odds about 5% per Bloomberg data cited by Yahoo. Fed meeting 27-28 Oct per Schaeffer's (used in week-ahead story)."
+    - "Trump quote as carried by Yahoo Finance. Fed hike odds about 5% per Bloomberg data cited by Yahoo. Fed meeting Oct 27-28 per Schaeffer's (used in week-ahead story)."
     - "PMI and UMich figures from Investrade mid-morning note. Dollar index 101.73 is PTI's Indian afternoon figure."
     - "Asian markets on Friday: only morning figures available (Nikkei -1.36%, Kospi -2.05%, from earlier desk story citing PTI); closes not found, so copy gives morning moves only."
-    - "Weekly Sensex/Nifty change derived: 16 Oct closes 74,729.27 and 23,146.15 (dashboard) to 73,123.83 and 22,600.00 (PTI): -1,605.44 (-2.15%), -546.15 (-2.36%)."
+    - "Weekly Sensex/Nifty change derived: Oct 16 closes 74,729.27 and 23,146.15 (dashboard) to 73,123.83 and 22,600.00 (PTI): -1,605.44 (-2.15%), -546.15 (-2.36%)."
     - "GIFT Nifty Saturday indication not available; not given."
 ---
 

@@ -21,7 +21,7 @@ hero:
     value: "A truce has to work both ways"
 related: [ukraine-resumes-strikes-russian-oil-refineries, trump-announces-russia-ukraine-energy-ceasefire, zelenskyy-brussels-rutte-macron-air-defence-eu-summit]
 seo:
-  description: "At the OSCE on 15 October, Ukraine said it would halt strikes on Russian oil refineries only if Russia stopped attacking its energy grid. Russian drones hurt 52 people."
+  description: "At the OSCE on October 15, Ukraine said it would halt strikes on Russian oil refineries only if Russia stopped attacking its energy grid. Russian drones hurt 52 people."
 sources:
   - title: "Ukraine at OSCE: Strikes on Russian oil refineries can stop only under mutual energy truce"
     publisher: "Ukrinform"
@@ -51,8 +51,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "OSCE remarks rest on one report (Ukrinform) of Vitrenko's statement; the OSCE text itself was not read. Figures (200+ grid strikes, 17 oil and gas attacks, 14 October missile attack, 600,000 without power) are Ukraine's own claims and are attributed."
-    - "The '40 missiles' figure for 14 October in the Ukrinform report was left out as unclear; a casualty line for Kyiv on 14 October was also left out as ambiguous."
+    - "OSCE remarks rest on one report (Ukrinform) of Vitrenko's statement; the OSCE text itself was not read. Figures (200+ grid strikes, 17 oil and gas attacks, October 14 missile attack, 600,000 without power) are Ukraine's own claims and are attributed."
+    - "The '40 missiles' figure for October 14 in the Ukrinform report was left out as unclear; a casualty line for Kyiv on October 14 was also left out as ambiguous."
     - "No Russian response to the OSCE statement was found."
 ---
 
@@ -60,9 +60,9 @@ Ukraine told Europe's main security body on Thursday that it would stop striking
 
 "We are ready to stop strikes on Russian oil refineries provided that Russia stops attacking" Ukraine's energy system, Yurii Vitrenko, Ukraine's permanent representative to the international organisations in Vienna, told the OSCE Permanent Council.
 
-Vitrenko said Russia had carried out more than 200 strikes on electricity generation and transmission facilities in the past week, along with 17 attacks on gas and oil infrastructure. He said a missile attack on Kyiv, the Kyiv region and the Kharkiv region on 14 October damaged 30 energy facilities and left about 600,000 people without power.
+Vitrenko said Russia had carried out more than 200 strikes on electricity generation and transmission facilities in the past week, along with 17 attacks on gas and oil infrastructure. He said a missile attack on Kyiv, the Kyiv region and the Kharkiv region on October 14 damaged 30 energy facilities and left about 600,000 people without power.
 
-Russia kept up those attacks, he said, after President Donald Trump announced his "energy truce" initiative on 11 October. Without reciprocal steps from Moscow, "there can be no meaningful progress toward a ceasefire," Vitrenko said. "The only obstacle remains Russia's refusal to halt its attacks and engage meaningfully in de-escalation."
+Russia kept up those attacks, he said, after President Donald Trump announced his "energy truce" initiative on October 11. Without reciprocal steps from Moscow, "there can be no meaningful progress toward a ceasefire," Vitrenko said. "The only obstacle remains Russia's refusal to halt its attacks and engage meaningfully in de-escalation."
 
 ## Another day of drones
 

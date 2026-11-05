@@ -43,7 +43,7 @@ verification:
   notes:
     - "All 18 scores agree between Africa Soccer and The Sports Encounter. Goalscorers for Benfica, Juventus, Celta, Beşiktaş and Dinamo Zagreb from The Sports Encounter only; Bournemouth scorers and Sadiki's winner agree in both."
     - "Palace scorers Pino and Kamada from Africa Soccer only. Milan's hat-trick scorer named oddly in Africa Soccer and left out; Celtic's scorer also left out."
-    - "Six-point clubs worked out from matchday one results (UEFA) plus Thursday's scores; consistent with The Sports Encounter's partial table. Next matchday date (22 Oct) from UEFA fixtures page."
+    - "Six-point clubs worked out from matchday one results (UEFA) plus Thursday's scores; consistent with The Sports Encounter's partial table. Next matchday date (Oct 22) from UEFA fixtures page."
     - "No manager quotes found."
 ---
 
@@ -63,4 +63,4 @@ Juventus, Benfica, Bournemouth, Beşiktaş, Ferencváros, Olympiacos, Leverkusen
 
 In the night's other games, Dinamo Zagreb beat Anderlecht with a 96th-minute penalty, Real Sociedad won 1-0 at Union Saint-Gilloise and Ferencváros beat Viktoria Plzeň 2-1.
 
-The third round of matches is on 22 October.
+The third round of matches is on October 22.

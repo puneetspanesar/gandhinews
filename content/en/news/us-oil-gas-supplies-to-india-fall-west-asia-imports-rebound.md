@@ -44,7 +44,7 @@ verification:
     - "Monthly volumes are from ship-tracking data analysed by Business Standard; October projections and US crude in barrels a day from Kpler, as cited in the same report. Single-outlet analysis; copy attributes the numbers to ship-tracking data and Kpler."
     - "VLCC day rates (near $1.5 million) from an unnamed Abu Dhabi shipbroker; 20-25% freight share from two unnamed refining officials. Stated without named attribution as they are not quotes."
     - "Unnamed refining official's 'opportunistic' description not quoted (anonymous)."
-    - "Kaynat Chainwala quote verbatim (Business Standard, 14 Oct, 1:05 pm). Brent $106.37 from PTI in the evening."
+    - "Kaynat Chainwala quote verbatim (Business Standard, Oct 14, 1:05 pm). Brent $106.37 from PTI in the evening."
     - "Sitharaman 'plateau' remark appears in the report as background from the Munich Security Conference; date not given, so not used."
 ---
 

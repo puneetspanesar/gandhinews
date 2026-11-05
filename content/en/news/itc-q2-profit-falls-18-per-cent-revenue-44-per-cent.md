@@ -63,10 +63,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 18:30 IST, ITC Q2 FY27 results released after market (Whalesbook 18:30 IST; Business Standard first published 18:45 IST, updated 19:02; Upstox standalone entries 19:13 IST)."
+    - "event: Nov 2 about 18:30 IST, ITC Q2 FY27 results released after market (Whalesbook 18:30 IST; Business Standard first published 18:45 IST, updated 19:02; Upstox standalone entries 19:13 IST)."
     - "Consolidated figures (profit Rs 4,229.33 cr vs Rs 5,186.55 cr; revenue Rs 30,578.4 cr vs Rs 21,255.86 cr; expenses Rs 25,462.44 cr, +69.6%; total income Rs 31,085.76 cr) from Business Standard only. ITC quotes on operating environment and FMCG/paper/agri from Business Standard."
     - "Standalone: Whalesbook gives profit Rs 4,137.12 cr vs Rs 5,175.70 cr and revenue Rs 28,317.67 cr vs Rs 19,441.50 cr; Upstox live blog gives Rs 4,137 cr profit but garbled comparatives and Rs 23,318 cr revenue. Copy uses Whalesbook standalone figures. Segment revenue (cigarettes Rs 15,536.13 cr, FMCG-Others Rs 6,967.17 cr) and excise-hike wording from Whalesbook only."
-    - "YES Securities standalone PAT estimate ~Rs 3,925.8 cr from NiftyTrader preview (31 Oct). Dividend: none reported in sources; not mentioned. No cigarette volume figure found; left out. Share reaction to results not yet possible (market closed); closing price Rs 266 (+0.15%) on BSE from Business Standard."
+    - "YES Securities standalone PAT estimate ~Rs 3,925.8 cr from NiftyTrader preview (Oct 31). Dividend: none reported in sources; not mentioned. No cigarette volume figure found; left out. Share reaction to results not yet possible (market closed); closing price Rs 266 (+0.15%) on BSE from Business Standard."
 ---
 
 ITC on Monday evening reported an **18.45% fall in September-quarter profit** to ₹4,229.33 crore, as a jump in costs swallowed a steep rise in revenue at India's largest cigarette maker.

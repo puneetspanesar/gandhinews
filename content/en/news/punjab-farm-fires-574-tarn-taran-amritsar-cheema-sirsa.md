@@ -10,7 +10,7 @@ standfirst: "Satellites have picked up 574 stubble fires in Punjab this season, 
 published: 2026-10-25T11:30:00+05:30
 location: Chandigarh
 keyPoints:
-  - "Punjab recorded **574 farm fires** between 15 September and 24 October."
+  - "Punjab recorded **574 farm fires** between September 15 and October 24."
   - "**Tarn Taran and Amritsar** account for more than 72 per cent of all fires."
   - "Police have registered **91 FIRs** against farmers this season."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "574 farm fires and counting"
 related: [delhi-aqi-167-rain-sunday-iit-delhi-245, delhi-aqi-185-moderate-saturday-farm-fires]
 seo:
-  description: "Punjab logged 574 farm fires from 15 September to 24 October 2026, up 2.3% on 2025 but 65.8% below 2024; Tarn Taran (270) and Amritsar (144) lead."
+  description: "Punjab logged 574 farm fires from September 15 to October 24, 2026, up 2.3% on 2025 but 65.8% below 2024; Tarn Taran (270) and Amritsar (144) lead."
 sources:
   - title: "Punjab Farm Fires Rise 2.3% From Last Year, Remain Nearly 66% Below 2024"
     publisher: "Outlook"
@@ -42,16 +42,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "574 fires 15 Sep to 24 Oct, 561 in 2025, 1,678 in 2024, district figures, 91 FIRs, 182 red entries, 305 nodal officers (to 23 Oct), Cheema and Sirsa quotes: Outlook (PTI-style data copy) only. Daily count for Saturday not available."
-    - "Environmental compensation Rs 9.30 lakh imposed, Rs 4.93 lakh recovered (to 22 Oct): PPCB data via IANS / Punjab News Express. That copy said only 4 FIRs; Outlook's 91 is later, used here."
+    - "574 fires Sep 15 to Oct 24, 561 in 2025, 1,678 in 2024, district figures, 91 FIRs, 182 red entries, 305 nodal officers (to Oct 23), Cheema and Sirsa quotes: Outlook (PTI-style data copy) only. Daily count for Saturday not available."
+    - "Environmental compensation Rs 9.30 lakh imposed, Rs 4.93 lakh recovered (to Oct 22): PPCB data via IANS / Punjab News Express. That copy said only 4 FIRs; Outlook's 91 is later, used here."
     - "Karimpuri party affiliation not stated in source; described only by his campaign name."
 ---
 
-Punjab's stubble-burning count has crept past last year's, with satellites detecting 574 farm fires between 15 September and 24 October. That is 2.3 per cent more than the 561 recorded in the same period in 2025, though still 65.8 per cent below the 1,678 of 2024.
+Punjab's stubble-burning count has crept past last year's, with satellites detecting 574 farm fires between September 15 and October 24. That is 2.3 per cent more than the 561 recorded in the same period in 2025, though still 65.8 per cent below the 1,678 of 2024.
 
 The fires are concentrated in the Majha belt. Tarn Taran has reported 270, up from 175 a year ago, and Amritsar 144, against 135. The two border districts together account for more than 72 per cent of the state's total. Gurdaspur follows with 37, Kapurthala with 27 and Jalandhar with 12.
 
-The state has stepped up enforcement. By 23 October, police had registered 91 FIRs against farmers, officials had made red entries in land records in 182 cases, and 305 nodal officers had been issued warnings or show-cause notices. Environmental compensation of ₹9.30 lakh had been imposed by 22 October, of which ₹4.93 lakh had been recovered.
+The state has stepped up enforcement. By October 23, police had registered 91 FIRs against farmers, officials had made red entries in land records in 182 cases, and 305 nodal officers had been issued warnings or show-cause notices. Environmental compensation of ₹9.30 lakh had been imposed by October 22, of which ₹4.93 lakh had been recovered.
 
 ## Blame game
 

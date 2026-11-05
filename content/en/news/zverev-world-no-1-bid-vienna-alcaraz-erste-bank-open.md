@@ -10,7 +10,7 @@ standfirst: "The top seed opens against Martin Landaluce at the Erste Bank Open.
 published: 2026-10-26T05:25:00+05:30
 location: Vienna
 keyPoints:
-  - "Alexander Zverev would take the **No. 1 ranking on 2 November** if he reaches the quarter-finals."
+  - "Alexander Zverev would take the **No. 1 ranking on November 2** if he reaches the quarter-finals."
   - "Carlos Alcaraz opens against **Karen Khachanov** in his first Vienna appearance since 2021."
   - "Daniil Medvedev, the 2022 champion, starts against **Daniel Merida**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "A quarter-final from No. 1"
 related: [djokovic-returns-basel-wawrinka-farewell-swiss-indoors, bergs-stuns-alcaraz-zverev-clinches-year-end-no-1]
 seo:
-  description: "Alexander Zverev can become world No. 1 on 2 November by reaching the Vienna quarter-finals; Carlos Alcaraz faces Karen Khachanov in his first match there since 2021."
+  description: "Alexander Zverev can become world No. 1 on November 2 by reaching the Vienna quarter-finals; Carlos Alcaraz faces Karen Khachanov in his first match there since 2021."
 sources:
   - title: "Novak Djokovic back & Stan Wawrinka's farewell in Basel, Alexander Zverev eyes No. 1 in Vienna: Scouting Report"
     publisher: "ATP Tour"
@@ -42,7 +42,7 @@ verification:
     - "Opponents of Cobolli, Tiafoe and De Minaur not given; left out. Match days not released when checked."
 ---
 
-Alexander Zverev is a few wins from the top of the men's game. The top seed at the Erste Bank Open in Vienna, which begins on Monday, will take over at the top of the rankings on 2 November if he reaches the quarter-finals.
+Alexander Zverev is a few wins from the top of the men's game. The top seed at the Erste Bank Open in Vienna, which begins on Monday, will take over at the top of the rankings on November 2 if he reaches the quarter-finals.
 
 The German, champion in Vienna in 2021, opens against Martin Landaluce. He is already assured of finishing the year as No. 1 after results earlier this month, which will make him the first German to end a season at the top of the rankings.
 

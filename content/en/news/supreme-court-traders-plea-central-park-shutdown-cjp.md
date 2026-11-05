@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Traders told the court the NDMC had **shut Central Park late on Thursday night**."
   - "Justice Bagchi said the court could use its **public and compensation law powers** if the order proved disproportionate."
-  - "The matter is to come up on **26 or 27 October**."
+  - "The matter is to come up on **26 or October 27**."
 hero:
   need: "Two-panel: Justice Joymalya Bagchi and the Central Park lawns at Connaught Place"
   suggested_source: "Joymalya Bagchi"
@@ -22,7 +22,7 @@ hero:
     value: "Traders take the CP shutdown to court"
 related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, sc-cases-tracker]
 seo:
-  description: "On 16 October the Supreme Court heard a mention by Connaught Place traders over losses from CJP protests and the NDMC's Central Park shutdown; Justice Bagchi said it could act if the order was disproportionate."
+  description: "On October 16 the Supreme Court heard a mention by Connaught Place traders over losses from CJP protests and the NDMC's Central Park shutdown; Justice Bagchi said it could act if the order was disproportionate."
 sources:
   - title: "LiveLaw Breaking News Alerts: 16 October 2026"
     publisher: "LiveLaw"
@@ -44,8 +44,8 @@ verification:
   notes:
     - "Hearing details and quotes from LiveLaw alerts at 11:17 am and 11:50 am only; full LiveLaw story could not be opened. Bench members named in the alert: CJI and Justice Bagchi."
     - "Justice Bagchi's second remark is garbled in the alert ('If we will it's disproportionate, this court had ample jurisdiction under public and compensation law'); paraphrased, not quoted."
-    - "Next date '26 or 27 October' as listed in the alert; not confirmed elsewhere for this matter."
-    - "Petitioner traders' association not named in the alert. Delhi HC case (Anil Kumar Gupta, listed 3 November) from the earlier LiveLaw report used in the 16 Oct preview."
+    - "Next date '26 or October 27' as listed in the alert; not confirmed elsewhere for this matter."
+    - "Petitioner traders' association not named in the alert. Delhi HC case (Anil Kumar Gupta, listed November 3) from the earlier LiveLaw report used in the Oct 16 preview."
     - "NDMC 'administrative reasons' from The Federal; prohibitory orders cited by police on Thursday from The Federal."
 ---
 
@@ -53,10 +53,10 @@ Connaught Place traders took their complaint about the Cockroach Janta Party's p
 
 Advocate Jai Anant Dehadrai mentioned the plea before a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi. He raised the losses traders say they have suffered during the protests against Chief Election Commissioner Gyanesh Kumar, and told the court the New Delhi Municipal Council had shut Central Park late on Thursday night. The NDMC had cited "administrative reasons" for closing the park on Friday and Saturday.
 
-The bench noted that the Delhi High Court is already hearing a similar case. That plea, by a Palika Bazar garment vendor, is listed for 3 November after Delhi Police told the High Court they would take "all possible measures under the law".
+The bench noted that the Delhi High Court is already hearing a similar case. That plea, by a Palika Bazar garment vendor, is listed for November 3 after Delhi Police told the High Court they would take "all possible measures under the law".
 
 "We hope better sense will prevail on every one," the Chief Justice said.
 
-Justice Bagchi said the court would not look away from the traders' losses. "If there's loss of business, we will exercise our powers under Constitutional jurisdiction," he said. If the NDMC's order turned out to be disproportionate, he added, the court had ample powers under public law and compensation law. The matter was listed for 26 or 27 October.
+Justice Bagchi said the court would not look away from the traders' losses. "If there's loss of business, we will exercise our powers under Constitutional jurisdiction," he said. If the NDMC's order turned out to be disproportionate, he added, the court had ample powers under public law and compensation law. The matter was listed for 26 or October 27.
 
 The CJP's call to gather at Central Park with the Tricolour stood at 5 pm. Delhi Police had said on Thursday that prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita were in force in Connaught Place and nearby areas.

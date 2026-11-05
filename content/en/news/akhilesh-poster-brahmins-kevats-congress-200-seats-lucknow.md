@@ -39,7 +39,7 @@ verification:
   notes:
     - "Both posters single-source (ANI, 10:10 and 11:43 IST). Who put up the Congress posters is not named; described as from party workers per ANI."
     - "Congress 200-seat wishlist to SP and mid-November target are 'reportedly' in ANI; hedged."
-    - "Akhilesh quotes ('We are all united...', 'wiped out') from his ANI interview of 22 Oct."
+    - "Akhilesh quotes ('We are all united...', 'wiped out') from his ANI interview of Oct 22."
     - "No SP or Congress leader on record about the posters by 3:30 pm."
 ---
 

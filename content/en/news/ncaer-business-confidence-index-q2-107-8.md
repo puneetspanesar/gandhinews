@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Catch-up: NCAER survey released Friday 23 Oct (ThePrint analysis 8:34 pm), not yet on site. All figures from ThePrint's Ananya Chaba article; PTI and ANI headlines (pages not read) agree confidence rose in Q2. 'After four quarters of decline' from the Tribune listing summary of the ANI story."
+    - "Catch-up: NCAER survey released Friday, Oct 23 (ThePrint analysis 8:34 pm), not yet on site. All figures from ThePrint's Ananya Chaba article; PTI and ANI headlines (pages not read) agree confidence rose in Q2. 'After four quarters of decline' from the Tribune listing summary of the ANI story."
     - "The six cities were not named in the source."
     - "No quotes from NCAER officials were available."
 ---

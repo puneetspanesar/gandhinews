@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - Notice served Monday 19 October per Scroll; exact notice date not in Tribune. L&DO position (government land, unauthorised) from Tribune and Scroll; notice text itself not seen. Utility disconnection is the mosque representatives' claim. Owaisi quote from his X post as carried by Scroll. Rijiju's assurance is Jamiat's account, paraphrased. Wider Race Course Road eviction drive per The Wire (only metadata readable), so mentioned with hedge. Construction date of mosque unknown; not stated.
+    - Notice served Monday, October 19 per Scroll; exact notice date not in Tribune. L&DO position (government land, unauthorised) from Tribune and Scroll; notice text itself not seen. Utility disconnection is the mosque representatives' claim. Owaisi quote from his X post as carried by Scroll. Rijiju's assurance is Jamiat's account, paraphrased. Wider Race Course Road eviction drive per The Wire (only metadata readable), so mentioned with hedge. Construction date of mosque unknown; not stated.
 ---
 
 The Land and Development Office has served a six-day eviction notice on the Race Course mosque in New Delhi, a short distance from the Prime Minister's official residence at 7 Lok Kalyan Marg.

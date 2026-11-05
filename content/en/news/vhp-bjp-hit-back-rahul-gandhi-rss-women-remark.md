@@ -22,7 +22,7 @@ hero:
     value: "Shiva-Shakti versus the Sangh"
 related: [bhagwat-vijayadashami-svabodh-dhankhar-attends-nagpur]
 seo:
-  description: "The VHP and BJP on 21 October attacked Rahul Gandhi for calling the RSS an all-male cult that treats women as men's property."
+  description: "The VHP and BJP on October 21 attacked Rahul Gandhi for calling the RSS an all-male cult that treats women as men's property."
 sources:
   - title: "\"Leaders like Rahul Gandhi suffer from 'mental bankruptcy'\": VHP hits back over remarks on RSS"
     publisher: "ANI"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Rahul's X post wording per Shafaqna (quoting the post). Bansal quotes per ANI (12:54 IST, 21 Oct)."
+    - "Rahul's X post wording per Shafaqna (quoting the post). Bansal quotes per ANI (12:54 IST, Oct 21)."
     - "Ram Kadam and N Ramachandra Rao responses are paraphrased in IndToday only; kept as paraphrase, Rao's harassment-case remark left out as too vague."
     - "Subjects: Vinod Bansal may not have a Wikipedia photo; Rahul Gandhi is the main subject."
 ---
@@ -55,6 +55,6 @@ VHP national spokesperson Vinod Bansal said leaders like Gandhi were suffering f
 
 BJP leaders called the post childish. Ram Kadam, a BJP MLA in Maharashtra, told Gandhi to study the RSS before attacking it, saying the Sangh has a department devoted to women's activities and that women take part in its programmes across the country. Telangana BJP president N Ramachandra Rao asked how much room the Congress gives women in its own ranks.
 
-It is the latest round in a running fight. On 10 October, amid the protests over the Special Intensive Revision of electoral rolls, Gandhi accused RSS "goons" of attacking women protesters and young people, and blamed Delhi Police under Home Minister Amit Shah.
+It is the latest round in a running fight. On October 10, amid the protests over the Special Intensive Revision of electoral rolls, Gandhi accused RSS "goons" of attacking women protesters and young people, and blamed Delhi Police under Home Minister Amit Shah.
 
 The RSS is marking the final year of its centenary celebrations. In Nagpur on Tuesday, Bhagwat warned that agitations aimed at regime change do not solve a country's basic problems.

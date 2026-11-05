@@ -22,7 +22,7 @@ hero:
     value: "Port capacity: four times by 2047"
 related: [sonowal-busan-korea-visit-shipbuilding-indian-professionals, sonowal-opens-sagarmala-finance-office-60205-crore-target]
 seo:
-  description: "Commerce Minister Piyush Goyal said in Rotterdam on 25 October 2026 that India aims to quadruple port capacity by 2047 and sees opportunities to work with the Port of Rotterdam."
+  description: "Commerce Minister Piyush Goyal said in Rotterdam on October 25, 2026, that India aims to quadruple port capacity by 2047 and sees opportunities to work with the Port of Rotterdam."
 sources:
   - title: "India aims to quadruple port capacity by 2047, eyes stronger maritime cooperation with Rotterdam: Piyush Goyal"
     publisher: "ANI"

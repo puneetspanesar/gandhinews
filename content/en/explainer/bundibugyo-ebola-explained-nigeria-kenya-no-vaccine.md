@@ -38,9 +38,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Virus background (first identified 2007 in Bundibugyo District, Uganda; 2012 Province Orientale outbreak, 59 cases and 34 deaths; 30-50% fatality in earlier outbreaks; one of four human-disease ebolaviruses; differs from Zaire in genetic material and surface proteins; rapid tests built for Zaire/Sudan can miss it; licensed vaccines target Zaire; rVSV and ChAdOx candidates; transmission, fruit bats, 2-21 day incubation, symptoms) from Gavi VaccinesWork, 22 May 2026. Candidate-vaccine status is as of May; later trial progress not checked, so copy says 'in May'."
-    - "WHO page on trial-only use of candidates appeared in search results (28 May) but was not opened; the copy says only that WHO advised testing in trials, as the search-result headlines (Reuters via Internazionale, Ada Derana) state."
-    - "Nigeria and Kenya details and Congo figure (more than 9,500 cases, about half fatal) and Kaseya quote from the desk's news story of 21 October (Epoch Times/AP, Vanguard)."
+    - "Virus background (first identified 2007 in Bundibugyo District, Uganda; 2012 Province Orientale outbreak, 59 cases and 34 deaths; 30-50% fatality in earlier outbreaks; one of four human-disease ebolaviruses; differs from Zaire in genetic material and surface proteins; rapid tests built for Zaire/Sudan can miss it; licensed vaccines target Zaire; rVSV and ChAdOx candidates; transmission, fruit bats, 2-21 day incubation, symptoms) from Gavi VaccinesWork, May 22, 2026. Candidate-vaccine status is as of May; later trial progress not checked, so copy says 'in May'."
+    - "WHO page on trial-only use of candidates appeared in search results (May 28) but was not opened; the copy says only that WHO advised testing in trials, as the search-result headlines (Reuters via Internazionale, Ada Derana) state."
+    - "Nigeria and Kenya details and Congo figure (more than 9,500 cases, about half fatal) and Kaseya quote from the desk's news story of October 21 (Epoch Times/AP, Vanguard)."
     - "No India-specific screening measures asserted; none checked in this run."
     - "Standard background not re-sourced this run: Zaire species behind the 2014-16 West African epidemic; Nigeria contained an imported Zaire Ebola chain in Lagos in 2014; ChAdOx is the platform of the Oxford Covid-19 vaccine."
 ---
@@ -71,7 +71,7 @@ The early signs are fever, tiredness, muscle pain, headache and a sore throat, w
 
 **The biggest Bundibugyo outbreak ever, and already the most widespread Ebola outbreak of any kind.**
 
-It began in the Democratic Republic of Congo in May, where more than 9,500 cases have been recorded, about half of them fatal. It has since crossed into Uganda and Kenya. Kenya's nine cases all belong to one family cluster linked to a man who had lived in Congo and died in Nairobi on 5 October. Jean Kaseya, director-general of the Africa Centres for Disease Control and Prevention, said the outbreak "has already become the most geographically extensive in history".
+It began in the Democratic Republic of Congo in May, where more than 9,500 cases have been recorded, about half of them fatal. It has since crossed into Uganda and Kenya. Kenya's nine cases all belong to one family cluster linked to a man who had lived in Congo and died in Nairobi on October 5. Jean Kaseya, director-general of the Africa Centres for Disease Control and Prevention, said the outbreak "has already become the most geographically extensive in history".
 
 ## Why does the Nigerian case matter?
 

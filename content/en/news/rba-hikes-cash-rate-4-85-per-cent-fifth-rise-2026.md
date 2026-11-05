@@ -22,7 +22,7 @@ hero:
     value: "Fifth rate rise of 2026"
 related: [gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3]
 seo:
-  description: "The Reserve Bank of Australia raised its cash rate by 25 basis points to 4.85% on 3 November 2026, its fifth increase this year, in a 6-3 vote."
+  description: "The Reserve Bank of Australia raised its cash rate by 25 basis points to 4.85% on November 3, 2026, its fifth increase this year, in a 6-3 vote."
 cover:
   template: business
   label: "Australia rates"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 09:00 IST (2:30 pm AEDT), RBA monetary policy decision; investingLive post timestamped 03:30 (GMT)."
+    - "event: Nov 3 09:00 IST (2:30 pm AEDT), RBA monetary policy decision; investingLive post timestamped 03:30 (GMT)."
     - "6-3 vote, 4.60% prior rate, statement phrases 'inflation remains elevated and broadly based' and 'do what is necessary to return inflation sustainably to target', inflation forecast above 3% and top of band late 2027: investingLive only (quoting the statement). Highest since Nov 2008, fifth hike of 2026, 125 bp this year, CPI 4.3% last month, holds in June and August, Tiller quote: Newcastle Herald (ACM)."
     - "Bullock press conference not yet held at time of writing; no Bullock quote used. No AUD price move reported in sources; none written. No real India angle found; none written."
 ---

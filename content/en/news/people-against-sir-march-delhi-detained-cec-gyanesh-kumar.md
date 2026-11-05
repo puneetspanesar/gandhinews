@@ -22,7 +22,7 @@ hero:
     value: "From Bangla Sahib to the poll body"
 related: [what-india-bloc-supreme-court-petition-on-sir-asks-for, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go]
 seo:
-  description: "Delhi Police detained several Left and student marchers heading to the Election Commission on 23 October, demanding SIR be scrapped and CEC Gyanesh Kumar resign."
+  description: "Delhi Police detained several Left and student marchers heading to the Election Commission on October 23, demanding SIR be scrapped and CEC Gyanesh Kumar resign."
 sources:
   - title: "Delhi: Left parties and student leaders march against SIR, demand CEC Gyanesh Kumar's removal"
     publisher: "ANI"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Banner name, Section 163 order, P Sandosh quote, detentions: Oneindia (3:23 pm IST) only; ANI (2:41 pm) confirms the march, the 1 pm to 5 pm diversions and demands but reports no detentions as of its update. Detentions written plainly as 'several' as both describe police readiness; numbers not reported."
     - "P Sandosh identified as CPI leader only, as in source."
-    - "Mock Parliament on 28 October described by ANI as planned, details not finalised; hedged."
+    - "Mock Parliament on October 28 described by ANI as planned, details not finalised; hedged."
     - "Whether marchers reached Nirvachan Sadan not reported as of 3:30 pm."
 ---
 
@@ -64,8 +64,8 @@ Delhi Traffic Police had issued an advisory before the march, announcing diversi
 
 The march is the latest in a string of protests in the capital against the SIR and the CEC, led at different times by the INDIA bloc parties and the Cockroach Janta Party (CJP), several of whose leaders are still facing police cases.
 
-Earlier on Friday, Congress MP Gaurav Gogoi said in Guwahati that the Election Commission had been emptied of its constitutional authority and that Kumar "has to go". He said the opposition's "Vote Bachao, Desh Bachao" rallies were continuing across the country. The INDIA bloc is also reported to be planning a mock Parliament on 28 October, though its details have not been settled.
+Earlier on Friday, Congress MP Gaurav Gogoi said in Guwahati that the Election Commission had been emptied of its constitutional authority and that Kumar "has to go". He said the opposition's "Vote Bachao, Desh Bachao" rallies were continuing across the country. The INDIA bloc is also reported to be planning a mock Parliament on October 28, though its details have not been settled.
 
 ## What comes next
 
-The Congress has police permission to hold a rally at Ramlila Maidan on 1 November, after Delhi Police issued it a no-objection certificate on 17 October. Opposition parties are expected to use the rally to press their demands on the SIR and the CEC.
+The Congress has police permission to hold a rally at Ramlila Maidan on November 1, after Delhi Police issued it a no-objection certificate on October 17. Opposition parties are expected to use the rally to press their demands on the SIR and the CEC.

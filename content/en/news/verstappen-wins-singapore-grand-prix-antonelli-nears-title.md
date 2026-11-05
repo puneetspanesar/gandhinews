@@ -12,7 +12,7 @@ location: Singapore
 keyPoints:
   - "Max Verstappen won the Singapore Grand Prix **by 7.3 seconds** from Charles Leclerc, with Kimi Antonelli third."
   - "It was Verstappen's **first win at Marina Bay**, on his 250th Grand Prix start."
-  - "Antonelli leads team-mate George Russell **by 102 points** and could clinch the title in Austin on 25 October."
+  - "Antonelli leads team-mate George Russell **by 102 points** and could clinch the title in Austin on October 25."
 hero:
   need: "Marina Bay Street Circuit at night, or Max Verstappen in the Red Bull"
   suggested_source: "Wikimedia Commons search 'Marina Bay Street Circuit night' or 'Max Verstappen 2026'"
@@ -62,7 +62,7 @@ verification:
   status: approved
   notes:
     - "Result, gaps and points from the official formula1.com classification. Standings from Crash.net, matched by The Sunday Guardian (Antonelli 340, Russell 238, Hamilton 229, Verstappen 221, Leclerc 215, Norris 201); the official formula1.com standings page was not opened."
-    - "Austin clinch condition (outscore Russell by 23 and Hamilton by 14) is from Sky Sports only; it is consistent with the points gaps (102 + 23 = 111 + 14 = 125). Austin dates (23-25 Oct) and 'Round 18' from formula1.com."
+    - "Austin clinch condition (outscore Russell by 23 and Hamilton by 14) is from Sky Sports only; it is consistent with the points gaps (102 + 23 = 111 + 14 = 125). Austin dates (Oct 23-25) and 'Round 18' from formula1.com."
     - "Verstappen's season win count not used: the F1 lowdown says this was his second of 2026 after Bahrain but also mentions 'Malaysia' in error, and The Sunday Guardian refers to 'consecutive victories'. Career win total not found."
     - "Verstappen's pole time (1:31.373) and sprint win are from teasers on fia.com; the FIA press conference transcript body did not load, so quotes come from GrandPrix.com's transcript and Sky Sports."
     - "Race start time in IST not given in any source read; left out."
@@ -86,7 +86,7 @@ Lewis Hamilton started third and was the first driver to pit, around lap 19. He 
 
 > A painful lesson today, but I take full responsibility for the decisions I made. I'm sorry for the team for the points we lost today.
 >
-> Source: Lewis Hamilton, Ferrari driver, 11 October 2026
+> Source: Lewis Hamilton, Ferrari driver, October 11, 2026
 
 Norris and Piastri, who collided on the last lap of the Sprint, finished fourth and fifth for McLaren. Liam Lawson was seventh, Nico Hülkenberg eighth, and George Russell, who started from the back after a power unit penalty, recovered to ninth. Isack Hadjar took the last point from a pit-lane start.
 
@@ -95,7 +95,7 @@ Norris and Piastri, who collided on the last lap of the Sprint, finished fourth 
 Antonelli admitted he had not driven his best all weekend, but third place stretched his lead over Russell to 102 points. "I know it's very close, I know it's there," he said.
 
 ```chart
-{"type":"hbar","title":"Drivers' championship after Singapore","unit":"points","data":[{"label":"Kimi Antonelli (Mercedes)","value":340,"highlight":true},{"label":"George Russell (Mercedes)","value":238},{"label":"Lewis Hamilton (Ferrari)","value":229},{"label":"Max Verstappen (Red Bull)","value":221},{"label":"Charles Leclerc (Ferrari)","value":215},{"label":"Lando Norris (McLaren)","value":201}],"source":"Drivers' standings after the Singapore GP, 11 Oct 2026"}
+{"type":"hbar","title":"Drivers' championship after Singapore","unit":"points","data":[{"label":"Kimi Antonelli (Mercedes)","value":340,"highlight":true},{"label":"George Russell (Mercedes)","value":238},{"label":"Lewis Hamilton (Ferrari)","value":229},{"label":"Max Verstappen (Red Bull)","value":221},{"label":"Charles Leclerc (Ferrari)","value":215},{"label":"Lando Norris (McLaren)","value":201}],"source":"Drivers' standings after the Singapore GP, Oct 11, 2026"}
 ```
 
 Verstappen, now fourth, ruled himself out. "We don't really have anything to win in the championship, right? I think Kimi is miles ahead," he said. "For me personally, I don't care if I'm second, third or fourth."
@@ -104,4 +104,4 @@ Mercedes lead the constructors' table on 578 points, ahead of Ferrari on 444, Mc
 
 ## What's next
 
-The United States Grand Prix at the Circuit of the Americas in Austin runs from 23 to 25 October. Antonelli will be champion there if he outscores Russell by 23 points and Hamilton by 14 over the weekend.
+The United States Grand Prix at the Circuit of the Americas in Austin runs from October 23 to 25. Antonelli will be champion there if he outscores Russell by 23 points and Hamilton by 14 over the weekend.

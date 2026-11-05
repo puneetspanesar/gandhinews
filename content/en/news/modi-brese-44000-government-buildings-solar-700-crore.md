@@ -27,7 +27,7 @@ cover:
   bg: "Bharat Mandapam"
 related: [modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview]
 seo:
-  description: "PM Modi opened BRESE 2026 at Bharat Mandapam on 2 November, saying 44,000 government buildings run on solar, saving ₹700 crore a year, and 30 lakh farmers use solar pumps."
+  description: "PM Modi opened BRESE 2026 at Bharat Mandapam on November 2, saying 44,000 government buildings run on solar, saving ₹700 crore a year, and 30 lakh farmers use solar pumps."
 sources:
   - title: "Over 44,000 government buildings connected to solar power, saving Rs 700 crore annually: PM Modi"
     publisher: "IANS"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, inauguration scheduled 'at around 4:30 pm' (APAC News Network, 14:35 IST); speech reported by IANS at 6:20 pm (URL stamp 18:20, page says 6:34 pm). Speech therefore in the window, exact minute not known."
+    - "event: Nov 2, inauguration scheduled 'at around 4:30 pm' (APAC News Network, 14:35 IST); speech reported by IANS at 6:20 pm (URL stamp 18:20, page says 6:34 pm). Speech therefore in the window, exact minute not known."
     - "All speech figures and the three quotes from IANS only: 44,000+ buildings, ₹700 cr/yr, 30 lakh+ PM-KUSUM farmers, ~₹1 lakh/yr saving per farmer, PM Surya Ghar (Feb 2024, 1 crore target, 65 lakh+ joined in 24-25 months), 50% non-fossil capacity reached in 2025 five years ahead of Paris schedule."
     - "No PIB text of the speech read; quotes are as rendered in English by IANS (speech may have been in Hindi)."
 ---
@@ -72,4 +72,4 @@ On homes, he said more than **65 lakh households have joined** the PM Surya Ghar
 
 He also returned to India's climate pledge. "More than 50 per cent of India's installed power capacity comes from non-fossil fuel sources," Modi said, a target the country **met in 2025, five years ahead** of its Paris Agreement schedule.
 
-The summit, organised by the Ministry of New and Renewable Energy, runs until 5 November.
+The summit, organised by the Ministry of New and Renewable Energy, runs until November 5.

@@ -6,13 +6,13 @@ section: politics
 format_label: "Politics / SIR"
 topics: [electoral-rolls-sir, states]
 title: "Karnataka High Court stays probe against BJP's Ravi Patil in Belagavi voter deletion case"
-standfirst: "Patil and two supporters are accused of trying to strike 198 Muslim voters off the rolls during the SIR. The court cited an earlier order in similar cases and will hear the matter on 29 October."
+standfirst: "Patil and two supporters are accused of trying to strike 198 Muslim voters off the rolls during the SIR. The court cited an earlier order in similar cases and will hear the matter on October 29."
 published: 2026-10-14T08:00:00+05:30
 location: Bengaluru
 keyPoints:
   - "The High Court **stayed the police investigation** against Ravi Patil and two supporters until the next hearing."
   - "The FIR alleges a bid to delete the names of **198 Muslim voters** in Belagavi North during the SIR."
-  - "The case returns to court on **29 October**."
+  - "The case returns to court on **October 29**."
 hero:
   need: "The Karnataka High Court building (Attara Kacheri) in Bengaluru"
   suggested_source: "Attara Kacheri Karnataka High Court"
@@ -41,17 +41,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "Order date: Bar & Bench (published 14 Oct) says 'on Tuesday'; written as Tuesday, 13 Oct."
+    - "Order date: Bar & Bench (published Oct 14) says 'on Tuesday'; written as Tuesday, Oct 13."
     - "Complainant Meerasab Sanadi is described by Telangana Today as a 'BJP Booth Level Agent'; this looks odd (The News Minute just says Booth Level Agent). Party affiliation of complainant left out."
     - "Interim bail date: The News Minute says 'Monday, October 4', which does not match the 2026 calendar. Written as 'earlier this month'."
     - "Names of co-accused (Shankar Beerappa Naik, Pashant Deepak Mundinmani) from Telangana Today only; not used."
     - "Ward 12 / Veerabhadra Nagar detail: Telangana Today and TNM; only 'Belagavi North' used."
-    - "8 Oct no-coercive-steps order and 9 Oct coordinate bench stay: Bar & Bench."
+    - "Oct 8 no-coercive-steps order and Oct 9 coordinate bench stay: Bar & Bench."
 ---
 
 The Karnataka High Court on Tuesday stayed the police investigation against BJP leader Ravi Patil and two of his supporters, who are accused of trying to have the names of 198 Muslim voters struck off the electoral rolls in Belagavi during the Special Intensive Revision (SIR).
 
-Justice Venkatesh Naik T said the facts were close to those in cases where another bench of the court had already stopped investigations. "The perusal of the aforesaid order and the facts and circumstances involved in the present case are similar," he noted, and stayed the probe until the next hearing on 29 October as a matter of judicial discipline. The state is free to ask for the order to be changed or lifted.
+Justice Venkatesh Naik T said the facts were close to those in cases where another bench of the court had already stopped investigations. "The perusal of the aforesaid order and the facts and circumstances involved in the present case are similar," he noted, and stayed the probe until the next hearing on October 29 as a matter of judicial discipline. The state is free to ask for the order to be changed or lifted.
 
 ## The allegation
 
@@ -63,4 +63,4 @@ Patil, a doctor who runs a hospital in Belagavi, has denied wrongdoing. "I have 
 
 ## A wider row
 
-Belagavi is one of several Karnataka districts where police have registered FIRs over mass Form 7 applications during the SIR, with similar complaints in Bidar, Mysuru and Ballari. On 8 October another bench of the High Court barred coercive action against Patil and his supporters, and on 9 October a coordinate bench stayed investigations in similar cases. Senior advocate M Aruna Shyam, for the petitioners, relied on that order on Tuesday.
+Belagavi is one of several Karnataka districts where police have registered FIRs over mass Form 7 applications during the SIR, with similar complaints in Bidar, Mysuru and Ballari. On October 8 another bench of the High Court barred coercive action against Patil and his supporters, and on October 9 a coordinate bench stayed investigations in similar cases. Senior advocate M Aruna Shyam, for the petitioners, relied on that order on Tuesday.

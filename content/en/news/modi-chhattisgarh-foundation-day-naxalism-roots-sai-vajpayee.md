@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov morning, X posts by PM Modi and CM Sai; IANS story time-stamped 08:37 IST (03:07 UTC). Exact post times not given."
+    - "event: Nov 1 morning, X posts by PM Modi and CM Sai; IANS story time-stamped 08:37 IST (03:07 UTC). Exact post times not given."
     - "Single source (IANS); quotes are IANS English renderings of Hindi posts, used as given. Long quotes stitched only where IANS gives them as one sentence."
     - "No Maoism deadline or casualty figures stated in the source; none added."
 ---

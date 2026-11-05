@@ -10,7 +10,7 @@ standfirst: "'I'm not getting involved in the Israeli elections,' the US vice-pr
 published: 2026-10-20T19:30:00+05:30
 location: Washington
 keyPoints:
-  - "JD Vance said he is **'not getting involved'** in Israel's 27 October election."
+  - "JD Vance said he is **'not getting involved'** in Israel's October 27 election."
   - "Trump gave Benjamin Netanyahu **'complete and total' support** on Truth Social on Sunday."
   - "Vance said Trump has **'the most effective endorsement'** in political history."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Not pro, not anti"
 related: [trump-endorses-netanyahu-eisenkot-says-voters-decide, hegseth-netanyahu-desert-air-base-qatar-iran-us-talks]
 seo:
-  description: "US Vice-President JD Vance declined to endorse Benjamin Netanyahu before Israel's 27 October election, a day after Trump gave the Israeli leader 'complete and total' support."
+  description: "US Vice-President JD Vance declined to endorse Benjamin Netanyahu before Israel's October 27 election, a day after Trump gave the Israeli leader 'complete and total' support."
 sources:
   - title: "Vance Declines to Endorse Netanyahu for Re-Election, Breaking With Trump"
     publisher: "TIME"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Quotes from TIME (20 Oct, 1:45 pm UTC). Interview was on Monday 19 Oct; outlet conducting the interview not named in the TIME text read. Al Jazeera, Washington Post, CNBC, Washington Times, JPost headlines confirm the story (seen in search; pages not loaded)."
+    - "Quotes from TIME (Oct 20, 1:45 pm UTC). Interview was on Monday, Oct 19; outlet conducting the interview not named in the TIME text read. Al Jazeera, Washington Post, CNBC, Washington Times, JPost headlines confirm the story (seen in search; pages not loaded)."
     - "'America will have to do this work ourselves' is Trump's Truth Social post as quoted by TIME."
 ---
 
@@ -45,7 +45,7 @@ US Vice-President JD Vance has refused to back Benjamin Netanyahu in Israel's el
 
 "I'm not getting involved in the Israeli elections," Vance said in an interview on Monday. Pressed on whether that meant he opposed Netanyahu, he said: "I'm not anti-endorsing [Netanyahu], I'm not pro-endorsing him." He added that the president already had "the most effective endorsement" in political history.
 
-Israelis vote on 27 October, in a contest many see as a referendum on Netanyahu after the 7 October 2023 Hamas-led attack, the war in Gaza that followed and reports of settler violence in the West Bank.
+Israelis vote on October 27, in a contest many see as a referendum on Netanyahu after the October 7, 2023 Hamas-led attack, the war in Gaza that followed and reports of settler violence in the West Bank.
 
 Trump moved on Sunday. On Truth Social he gave Netanyahu "complete and total" support and called him a "great warrior" prime minister, warning that with a different leader in Israel, "America will have to do this work ourselves." Only last week, asked about an endorsement, Trump had told reporters, "we haven't even thought about it."
 

@@ -6,13 +6,13 @@ section: states
 format_label: "States / Rajasthan"
 topics: [states]
 title: "Rajasthan votes today in first phase of zila parishad and panchayat samiti polls"
-standfirst: "Polling runs from 7 am to 6 pm across 16 districts and 2,392 wards. Gram panchayats vote on Saturday, but the results of today's contest will not be known until 20 November."
+standfirst: "Polling runs from 7 am to 6 pm across 16 districts and 2,392 wards. Gram panchayats vote on Saturday, but the results of today's contest will not be known until November 20."
 published: 2026-10-22T05:25:00+05:30
 location: Jaipur
 keyPoints:
   - "The first phase covers **2,392 wards in 16 districts**, from Jaipur and Jodhpur to Udaipur and Kota."
   - "Polling for zila parishad and panchayat samiti members runs **from 7 am to 6 pm**."
-  - "Results for these seats are due on **20 November**."
+  - "Results for these seats are due on **November 20**."
 hero:
   need: "Rural polling station in Rajasthan, or the Rajasthan State Election Commission office in Jaipur"
   suggested_source: "Rajasthan village polling booth"
@@ -22,7 +22,7 @@ hero:
     value: "2,392 wards vote from 7 am"
 related: [up-panchayat-polls-high-court-three-months-supreme-court-appeal]
 seo:
-  description: "Rajasthan holds the first phase of zila parishad and panchayat samiti polls on 22 October in 16 districts and 2,392 wards, from 7 am to 6 pm. Results on 20 November."
+  description: "Rajasthan holds the first phase of zila parishad and panchayat samiti polls on October 22 in 16 districts and 2,392 wards, from 7 am to 6 pm. Results on November 20."
 sources:
   - title: "राजस्थान पंचायत चुनाव: पहले चरण के लिए आज रवाना होंगी पोलिंग पार्टियां, कल सुबह 7 बजे से मतदान"
     publisher: "Amar Ujala"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Amar Ujala, 21 Oct). Article also says '10 panchayat samitis' alongside 16 zila parishads, which conflicts with its own Jaipur figure of 8 samitis; the 10 figure left out."
-    - "Gram panchayat schedule given only as weekdays (nominations close Friday, voting Saturday, upa-sarpanch Sunday); dates 23, 24, 25 Oct inferred. 3,314 gram panchayats per source."
-    - "Results on 20 Nov per source; whether counting is centralised not stated."
+    - "Single source (Amar Ujala, Oct 21). Article also says '10 panchayat samitis' alongside 16 zila parishads, which conflicts with its own Jaipur figure of 8 samitis; the 10 figure left out."
+    - "Gram panchayat schedule given only as weekdays (nominations close Friday, voting Saturday, upa-sarpanch Sunday); dates 23, 24, Oct 25 inferred. 3,314 gram panchayats per source."
+    - "Results on Nov 20 per source; whether counting is centralised not stated."
     - "State Election Commission notification not checked (no budget)."
 ---
 
@@ -55,6 +55,6 @@ Jaipur district alone has 146 wards across eight panchayat samitis voting on Thu
 
 Nominations for 3,314 gram panchayats close on Friday. Voting for ward panches and sarpanches will be held on Saturday, also from 7 am to 6 pm, and those results will be counted and declared the same day. Newly elected ward members meet on Sunday to choose deputy sarpanches.
 
-Thursday's zila parishad and panchayat samiti votes will not be counted for almost a month: their results are due on 20 November.
+Thursday's zila parishad and panchayat samiti votes will not be counted for almost a month: their results are due on November 20.
 
 The rural vote comes in a tense week for state politics. Congress state president Govind Singh Dotasra and Leader of the Opposition Tikaram Jully began a sit-in at the Jaipur Police Commissionerate on Monday evening and spent Tuesday night there, demanding a separate FIR in Jaipur over an alleged assault on Ritu Barala in Delhi. Police said a case was already registered in Delhi.

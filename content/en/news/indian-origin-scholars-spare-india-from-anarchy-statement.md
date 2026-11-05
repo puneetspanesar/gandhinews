@@ -22,7 +22,7 @@ hero:
     value: "\"Spare India from anarchy\""
 related: [cjp-das-ranka-custody-extended-till-october-21, what-is-the-cockroach-janta-party]
 seo:
-  description: "Over 400 Indian-origin students, researchers and alumni in 27 countries signed a statement on 19 October condemning 'anarchic' street protests over the SIR."
+  description: "Over 400 Indian-origin students, researchers and alumni in 27 countries signed a statement on October 19 condemning 'anarchic' street protests over the SIR."
 sources:
   - title: "SIR: 400 Indian-origin scholars from 27 countries condemn 'anarchic' street protests (IANS)"
     publisher: "Social News XYZ"

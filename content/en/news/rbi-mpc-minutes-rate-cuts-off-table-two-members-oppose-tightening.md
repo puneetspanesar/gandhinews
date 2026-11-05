@@ -41,12 +41,12 @@ verification:
     - "Projections (FY27 CPI 5.2% from 5.0%, GDP 7.1% from 6.7%, CPI 6% in Q3 and 5.7% in Q4) from Deccan Chronicle only."
     - "Nagesh Kumar's revised forecast level not given in source; omitted."
     - "Exact release time of the minutes not given; RBI normally publishes at 5 pm. Story timed at 7:40 pm, near ThePrint's PTI copy."
-    - "Next MPC meeting 2-4 Dec 2026 from the economy dashboard note."
+    - "Next MPC meeting Dec 2-4, 2026 from the economy dashboard note."
 ---
 
 Reserve Bank of India Governor Sanjay Malhotra told his colleagues on the Monetary Policy Committee this month that interest rate cuts were off the table for now and that the next move could only be a rise or a pause, according to minutes of the meeting released on Wednesday.
 
-The committee voted 6-0 on 7 October to raise the repo rate by 25 basis points to 5.5%, the first increase since February 2023. The minutes show a sharper division over what comes next. Two of the three external members, Nagesh Kumar and Ram Singh, wanted to keep the policy stance neutral, but were outvoted 4-2 as the committee moved to what it calls "calibrated tightening".
+The committee voted 6-0 on October 7 to raise the repo rate by 25 basis points to 5.5%, the first increase since February 2023. The minutes show a sharper division over what comes next. Two of the three external members, Nagesh Kumar and Ram Singh, wanted to keep the policy stance neutral, but were outvoted 4-2 as the committee moved to what it calls "calibrated tightening".
 
 ## The governor's case
 
@@ -68,4 +68,4 @@ Nagesh Kumar listed a weak monsoon, costlier crude, high precious metal prices a
 
 The RBI raised its inflation forecast for 2026-27 to 5.2% from 5% and its growth forecast to 7.1% from 6.7%. It expects retail inflation to reach 6%, the upper edge of its 2-6% tolerance band, in the October-December quarter before easing to 5.7% in January-March.
 
-Retail inflation was 5.54% in September, pushed up by onion and other food prices, and wholesale inflation was 11.39%. With the stance now tilted towards tightening, the minutes leave the December meeting, due on 2 to 4 December, open to a second increase if the October and November inflation numbers come in as the RBI expects.
+Retail inflation was 5.54% in September, pushed up by onion and other food prices, and wholesale inflation was 11.39%. With the stance now tilted towards tightening, the minutes leave the December meeting, due on December 2 to 4, open to a second increase if the October and November inflation numbers come in as the RBI expects.

@@ -22,7 +22,7 @@ hero:
     value: "'The entire BJP is scared'"
 related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: opposition leaders join the march to Ramlila Maidan as Congress MPs Imran Pratapgarhi and Raja Warring attack the BJP over CEC Gyanesh Kumar and its 1984 riots march."
+  description: "INDIA bloc rally, November 1, 2026: opposition leaders join the march to Ramlila Maidan as Congress MPs Imran Pratapgarhi and Raja Warring attack the BJP over CEC Gyanesh Kumar and its 1984 riots march."
 sources:
   - title: "India bloc holds 'Chalo Delhi' rally at Ramlila Maidan over SIR"
     publisher: "The News Mill"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 11:00-12:40 IST, leaders leave Constitution Club for the Minto Road march; Warring and Pratapgarhi remarks at the rally. Source: The News Mill (ANI inputs) published 12:42 IST; no per-entry times given, so remarks placed only as before 12:42. Tribune live blog headline (fetched content stale, last entry 11:06) confirms Rahul, Kharge, Priyanka and Akhilesh leaving in open buses."
+    - "event: Nov 1 about 11:00-12:40 IST, leaders leave Constitution Club for the Minto Road march; Warring and Pratapgarhi remarks at the rally. Source: The News Mill (ANI inputs) published 12:42 IST; no per-entry times given, so remarks placed only as before 12:42. Tribune live blog headline (fetched content stale, last entry 11:06) confirms Rahul, Kharge, Priyanka and Akhilesh leaving in open buses."
     - "Single source for Warring and Pratapgarhi quotes (News Mill/ANI); quotes are as published, likely translated from Hindi. Hindi twin uses a Hindi rendering, not the original Hindi words, which were not found."
     - "BJP Hari Nagar to Tilak Nagar march: due 11:30 IST per India TV (08:50) and News Mill; News Mill 12:42 says it was held, no quotes or turnout found. Not described in detail. Exact list of leaders who actually marched not confirmed; copy says 'a march led by' only Puri and Rekha Gupta as named organisers."
     - "Crowd: source says only 'thousands'; INDIA bloc and police figures are in earlier stories."

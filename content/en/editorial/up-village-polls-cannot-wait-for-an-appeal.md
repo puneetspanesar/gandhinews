@@ -9,7 +9,7 @@ title: "Uttar Pradesh's villages have gone five months without elected councils.
 standfirst: "The Allahabad High Court has told the state to hold panchayat elections within three months. The government's reasons for delay are real but not new, and the Constitution does not let a village council outlive its five years."
 published: 2026-10-18T13:30:00+05:30
 keyPoints:
-  - "Gram pradhans' terms ended on **25 May**; villages have been run by administrators since."
+  - "Gram pradhans' terms ended on **May 25**; villages have been run by administrators since."
   - "Article 243E caps a panchayat's term at **five years** and requires elections before it ends."
   - "The state should **schedule the polls now** rather than seek more time in the Supreme Court."
 hero:
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Ruling details (bench of Justices Ajit Kumar and Garima Prasad; three months; administrators upheld; 27% OBC quota; commission inquiry cannot delay polls; state to provide staff, funds and security; quote 'Temporary administrative arrangements cannot become a permanent substitute for elected local government') from Indian Masterminds (16 Oct) and the desk's 15 October story."
-    - "Pradhans' terms ended 25 May; block pramukhs and zila panchayat chairpersons made administrators in July; State Election Commission said it was ready with voter list published 10 June; OBC commission constituted 20 May, 42 of 75 districts covered, term ends 20 November; census phase two 1 Dec to 4 Jan; Rajbhar quote: desk's 15 October story (Statesman, ETV Bharat, Amar Ujala)."
-    - "No formal decision by the state on a Supreme Court appeal found as of 18 October (Indian Masterminds 16 Oct does not report one)."
+    - "Editorial view of the desk. Ruling details (bench of Justices Ajit Kumar and Garima Prasad; three months; administrators upheld; 27% OBC quota; commission inquiry cannot delay polls; state to provide staff, funds and security; quote 'Temporary administrative arrangements cannot become a permanent substitute for elected local government') from Indian Masterminds (Oct 16) and the desk's October 15 story."
+    - "Pradhans' terms ended May 25; block pramukhs and zila panchayat chairpersons made administrators in July; State Election Commission said it was ready with voter list published June 10; OBC commission constituted May 20, 42 of 75 districts covered, term ends November 20; census phase two Dec 1 to Jan 4; Rajbhar quote: desk's October 15 story (Statesman, ETV Bharat, Amar Ujala)."
+    - "No formal decision by the state on a Supreme Court appeal found as of October 18 (Indian Masterminds Oct 16 does not report one)."
     - "Article 243E five-year rule and requirement to complete elections before expiry is constitutional text, standard; not reopened. 2021 UP panchayat polls held during the second Covid wave is general knowledge, not used to avoid unsourced detail."
     - "Recommendations are the desk's own."
 ---
 
-On 25 May the five-year terms of Uttar Pradesh's gram pradhans ran out. No elections had been held to replace them. Instead, the state government made the outgoing pradhans administrators of their own villages, and in July did the same for block pramukhs and zila panchayat chairpersons. Nearly five months later, the people of rural Uttar Pradesh still have no say in who runs their village councils.
+On May 25 the five-year terms of Uttar Pradesh's gram pradhans ran out. No elections had been held to replace them. Instead, the state government made the outgoing pradhans administrators of their own villages, and in July did the same for block pramukhs and zila panchayat chairpersons. Nearly five months later, the people of rural Uttar Pradesh still have no say in who runs their village councils.
 
 On Wednesday the Allahabad High Court said enough. A bench of Justices Ajit Kumar and Garima Prasad ordered the state and the State Election Commission to complete the three-tier panchayat polls within three months, using the existing 27% reservation for Other Backward Classes. "Temporary administrative arrangements cannot become a permanent substitute for elected local government," the court said.
 
@@ -58,9 +58,9 @@ The High Court was generous to the state. It upheld the administrator arrangemen
 
 ## The fair objection
 
-The state's difficulties are not imaginary. The dedicated backward class commission set up in May, as the Supreme Court requires before OBC seats are fixed, has covered only 42 of the 75 districts. The second phase of the census in the state runs from 1 December to 4 January. Examinations fall in the same months, and notification for the assembly election is expected early in January. Officials say three months is too little.
+The state's difficulties are not imaginary. The dedicated backward class commission set up in May, as the Supreme Court requires before OBC seats are fixed, has covered only 42 of the 75 districts. The second phase of the census in the state runs from December 1 to January 4. Examinations fall in the same months, and notification for the assembly election is expected early in January. Officials say three months is too little.
 
-But every one of these problems was visible long before 25 May. The terms of the panchayats were fixed five years ago. The commission was set up five days before they ran out. The State Election Commission told the court it was ready and had published the panchayat voter list on 10 June, and that the government had not made the arrangements it needed. A calendar crowded by the government's own delay is not a reason for more delay.
+But every one of these problems was visible long before May 25. The terms of the panchayats were fixed five years ago. The commission was set up five days before they ran out. The State Election Commission told the court it was ready and had published the panchayat voter list on June 10, and that the government had not made the arrangements it needed. A calendar crowded by the government's own delay is not a reason for more delay.
 
 On the OBC question, the court has offered a workable path: hold the polls under the present reservation, and let the commission finish its work for the future. The commission's chairman has said it can split into teams to finish faster if asked.
 

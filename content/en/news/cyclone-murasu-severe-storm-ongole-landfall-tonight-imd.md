@@ -46,9 +46,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 02:00 IST, IMD bulletin 10 on Cyclone Murasu (position at 11:30 pm on 1 Nov; severe cyclonic storm expected about 2:30 am 2 Nov). Read via the Transclew live page, which summarises IMD bulletins; the IMD bulletin itself was not opened. Next IMD update was due at 5:30 am; not checked."
-    - "Surge highest in Bapatla, Krishna, Prakasam: IMD bulletin 9 (10:30 pm 1 Nov) as summarised by Transclew. Red warnings for Monday (Nellore, Prakasam, Bapatla, Guntur, Krishna): Transclew 5 pm entry; it is not clear whether this is IMD's district-level warning or the site's reading."
-    - "Six NDRF and seven SDRF teams: WION (1 Nov 6:31 pm), single source. Odisha details (Gajapati evacuation of about 150 landslide-prone places by Monday afternoon; Rajesh P Patil quote): Siasat (1 Nov 8:07 pm), single source."
+    - "event: Nov 2 02:00 IST, IMD bulletin 10 on Cyclone Murasu (position at 11:30 pm on Nov 1; severe cyclonic storm expected about 2:30 am Nov 2). Read via the Transclew live page, which summarises IMD bulletins; the IMD bulletin itself was not opened. Next IMD update was due at 5:30 am; not checked."
+    - "Surge highest in Bapatla, Krishna, Prakasam: IMD bulletin 9 (10:30 pm Nov 1) as summarised by Transclew. Red warnings for Monday (Nellore, Prakasam, Bapatla, Guntur, Krishna): Transclew 5 pm entry; it is not clear whether this is IMD's district-level warning or the site's reading."
+    - "Six NDRF and seven SDRF teams: WION (Nov 1 6:31 pm), single source. Odisha details (Gajapati evacuation of about 150 landslide-prone places by Monday afternoon; Rajesh P Patil quote): Siasat (Nov 1 8:07 pm), single source."
     - "Naidu's office had said the storm would cross near Bapatla; IMD now names Ongole. Both are in the Nellore to Narsapur stretch."
 ---
 

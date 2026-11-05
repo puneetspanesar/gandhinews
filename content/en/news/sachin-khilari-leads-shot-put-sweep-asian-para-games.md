@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All results and distances from a single IANS report (Nagoya, 21 Oct); no second report on today's throws found before deadline."
+    - "All results and distances from a single IANS report (Nagoya, Oct 21); no second report on today's throws found before deadline."
     - "No athlete quotes available. Overall medal tally not given, so left out."
     - "Khilari's earlier record (world titles, Paris silver) from Wikipedia and past reports; kept general."
 ---
@@ -64,4 +64,4 @@ Iraq's Gharrah Tnaiash, who beat him in Hangzhou too, won gold with 10.78m. Mala
 
 Wednesday's medals in the throws add to a strong first half of the Games for India. Earlier in the week Deepthi Jeevanji set a Games record to win the 400m, Mona Agarwal won shooting gold and Sheetal Devi and Toman Kumar set a world record in the mixed team archery.
 
-The Games in Nagoya run until Saturday, 24 October. India sent 168 athletes and have set themselves a target of 100 medals.
+The Games in Nagoya run until Saturday, October 24. India sent 168 athletes and have set themselves a target of 100 medals.

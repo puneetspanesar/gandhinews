@@ -32,7 +32,7 @@ infographic:
   source: "Punjab Congress; 2022 Assembly results"
 related: [three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit]
 seo:
-  description: "Rahul Gandhi addresses the Congress Insaaf Rally at Phaguwala in Sangrur on 4 November, launching the party's 2027 Punjab Assembly campaign against the AAP government."
+  description: "Rahul Gandhi addresses the Congress Insaaf Rally at Phaguwala in Sangrur on November 4, launching the party's 2027 Punjab Assembly campaign against the AAP government."
 sources:
   - title: "Rahul Gandhi to hold 'Insaaf Rally' in Punjab's Sangrur today (IANS)"
     publisher: "Punjab Kesari"
@@ -62,12 +62,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event time: rally due Wed 4 Nov; workers asked to reach venue at 10 am (Punjab Congress X post via IANS 7:37 am IST; Singla via Tribune 3 Nov). Written as a preview; rally had not begun at publication."
+    - "Event time: rally due Wed Nov 4; workers asked to reach venue at 10 am (Punjab Congress X post via IANS 7:37 am IST; Singla via Tribune Nov 3). Written as a preview; rally had not begun at publication."
     - "Venue spelling: Tribune 'Phaguwala', IANS 'Fagguwala'. Used Phaguwala."
-    - "Rally name: announced on 26 Oct as 'Hisaab Maango'; renamed 'Insaaf Rally' in 29 Oct IANS and 3-4 Nov reports. Used Insaaf Rally, mentioned earlier name."
+    - "Rally name: announced on Oct 26 as 'Hisaab Maango'; renamed 'Insaaf Rally' in Oct 29 IANS and Nov 3-4 reports. Used Insaaf Rally, mentioned earlier name."
     - "Pargat Singh as PPCC president replacing Warring: Tribune and National Herald. One ThePrint summary mentioned Bajwa; treated as fetch error, not used."
     - "Kharge attendance: claimed in one headline (tmv.in) not read; not stated in IANS. Left out."
-    - "Venugopal and Pilot quotes from 26 Oct (National Herald / PTI). No AAP reaction found."
+    - "Venugopal and Pilot quotes from Oct 26 (National Herald / PTI). No AAP reaction found."
 ---
 
 Rahul Gandhi is due to launch the Congress campaign for the 2027 Punjab Assembly election on Wednesday with an **Insaaf Rally at Phaguwala village** in Sangrur, the home district of Chief Minister Bhagwant Mann.
@@ -80,7 +80,7 @@ Pargat Singh has called the rally a "decisive platform" in the party's fight for
 
 ## The case against Mann
 
-Party leaders say Gandhi will go after the state government on **drugs, law and order and unemployment**. When the rally was first announced on 26 October under the name "Hisaab Maango", general secretary K C Venugopal said: "Our goal is to win back Punjab and save Punjab from these evil forces." Pilot promised that "Badlav (change) will definitely happen."
+Party leaders say Gandhi will go after the state government on **drugs, law and order and unemployment**. When the rally was first announced on October 26 under the name "Hisaab Maango", general secretary K C Venugopal said: "Our goal is to win back Punjab and save Punjab from these evil forces." Pilot promised that "Badlav (change) will definitely happen."
 
 The climb is steep. The Congress won **only 18 of 117 seats** in 2022, down from 77 five years earlier, while the AAP swept 92. The Congress is now the main opposition in the Assembly, and its leaders appeared together in Chandigarh last week to show that the factional fights are over.
 

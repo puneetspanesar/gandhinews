@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Delhi's air quality index stood at **185 at 9 am on Saturday**, in the moderate band, down from 230 on Friday."
   - "Overnight, **Narela touched 292** and Jahangirpuri 282, and 24 stations were still in the poor range at 6 am."
-  - "NASA satellites have picked up **545 farm fires** in Punjab and Haryana since 1 October, far fewer than last year."
+  - "NASA satellites have picked up **545 farm fires** in Punjab and Haryana since October 1, far fewer than last year."
 hero:
   need: "A morning view of central Delhi in light haze, such as Lodhi Garden or the Delhi skyline from a height"
   suggested_source: "Lodhi Garden New Delhi morning"
@@ -22,7 +22,7 @@ hero:
     value: "AQI 185: a breather, not a reprieve"
 related: [delhi-aqi-230-friday-manesar-greater-noida-poor, delhi-aqi-222-friday-third-poor-day-greater-noida]
 seo:
-  description: "Delhi's AQI was 185 (moderate) at 9 am on Saturday 24 October, after 230 on Friday. Narela neared 300 overnight; 545 farm fires counted in Punjab and Haryana."
+  description: "Delhi's AQI was 185 (moderate) at 9 am on Saturday, October 24, after 230 on Friday. Narela neared 300 overnight; 545 farm fires counted in Punjab and Haryana."
 sources:
   - title: "Delhi weather today: AQI improves to 'moderate' as minimum temperatures fall; NASA detects 545 farm fires"
     publisher: "Business Today"
@@ -41,7 +41,7 @@ verification:
     - "Hourly 201 at 4 am, 197 at 5 am: Business Today, source of hourly feed not named."
     - "2 am station readings (Narela 292, Jahangirpuri 282, RK Puram 279, Alipur 269, Rohini 263) are from IITM's Air Quality Early Warning System via India.com (7:44 am)."
     - "6 am: 58 of 59 stations reporting, 24 poor (Business Today)."
-    - "Farm fire caveat on 1:30 pm satellite pass from Business Today. GRAP stage not stated in body of sources; Stage I imposed 21 Oct per earlier site coverage, not restated as current."
+    - "Farm fire caveat on 1:30 pm satellite pass from Business Today. GRAP stage not stated in body of sources; Stage I imposed Oct 21 per earlier site coverage, not restated as current."
     - "Forecast: IMD max 32-34°C, partly cloudy (Business Today); Sunday max around 33°C (India.com)."
 ---
 
@@ -49,7 +49,7 @@ Delhi woke up to slightly cleaner air on Saturday. The city's air quality index 
 
 On Friday the 24-hour average at 4 pm was 230, and on Thursday it was 223. The improvement came gradually through the night: the hourly reading was 201 at 4 am and 197 at 5 am, and it kept falling after that.
 
-Wednesday, 21 October, had been the season's first "poor" day, at 245.
+Wednesday, October 21, had been the season's first "poor" day, at 245.
 
 ## Pockets near 300
 
@@ -57,11 +57,11 @@ The citywide figure hid much worse air in parts of the capital overnight. At 2 a
 
 Even at 6 am, 24 of the 58 monitoring stations reporting data were still in the poor range, while the rest were moderate. Fine particles, PM2.5, were the main pollutant at 39 stations and the coarser PM10 at 18.
 
-Taken over a week, this October has been kinder than most. The seven-day average up to 23 October was 195, the third-lowest for that period in any year since 2015.
+Taken over a week, this October has been kinder than most. The seven-day average up to October 23 was 195, the third-lowest for that period in any year since 2015.
 
 ## Fewer fires seen from space
 
-NASA satellite data shows 545 farm fires in Punjab and Haryana between 1 and 23 October: 473 in Punjab and 72 in Haryana. On 23 October alone, satellites picked up 50 fires, against 708 on the same date last year.
+NASA satellite data shows 545 farm fires in Punjab and Haryana between October 1 and 23: 473 in Punjab and 72 in Haryana. On October 23 alone, satellites picked up 50 fires, against 708 on the same date last year.
 
 The lower numbers come with a caveat. The satellite passes over the region at about 1:30 pm, and much of the burning takes place later in the day, so the count can miss fires and does not necessarily mean less stubble is being burnt.
 

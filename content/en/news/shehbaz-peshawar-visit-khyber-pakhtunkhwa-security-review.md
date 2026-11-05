@@ -11,7 +11,7 @@ published: 2026-10-21T23:20:00+05:30
 location: Islamabad
 keyPoints:
   - "Shehbaz Sharif is due in **Peshawar on Thursday** to review security and police needs."
-  - "Khyber Pakhtunkhwa has been under **governor's rule and an emergency since 11 October**."
+  - "Khyber Pakhtunkhwa has been under **governor's rule and an emergency since October 11**."
   - "The province saw **2,857 militant attacks** in the first nine months of 2026, according to government figures."
 hero:
   need: "Peshawar city, capital of Khyber Pakhtunkhwa, Pakistan; a landmark such as Bala Hisar fort"
@@ -22,7 +22,7 @@ hero:
     value: "PM heads to a province on edge"
 related: [pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, shehbaz-indus-treaty-violation-act-of-war-maldives, pakistan-turkiye-qatar-indonesia-badr-defence-accord-doha]
 seo:
-  description: "Pakistan PM Shehbaz Sharif visits Peshawar on 22 October to review security in Khyber Pakhtunkhwa, under governor's rule and an emergency since 11 October."
+  description: "Pakistan PM Shehbaz Sharif visits Peshawar on October 22 to review security in Khyber Pakhtunkhwa, under governor's rule and an emergency since October 11."
 sources:
   - title: "Pakistan PM to review security needs on visit to militancy-hit northwest tomorrow"
     publisher: "Arab News Pakistan"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Visit announced by Mehmood Jan Babar, information adviser to the council overseeing the 12 districts (Arab News PK, 10:31 pm PKT, 21 Oct). Thursday's visit is a preview."
+    - "Visit announced by Mehmood Jan Babar, information adviser to the council overseeing the 12 districts (Arab News PK, 10:31 pm PKT, Oct 21). Thursday's visit is a preview."
     - "Attack and death figures attributed to Attaullah Tarar as 'interior minister' as in the source; the same source also calls Mohsin Naqvi the federal interior minister, so the title may be wrong (Tarar has been information minister). Worth a check."
 ---
 
@@ -40,7 +40,7 @@ Pakistan's Prime Minister Shehbaz Sharif will travel to Peshawar on Thursday to 
 
 "The prime minister will visit Peshawar tomorrow to review the security situation in province," said Mehmood Jan Babar, information adviser to the council now running 12 of the province's districts. Proposals for more police recruitment and extra funding were ready for the prime minister, he said.
 
-Governor's rule and an emergency took effect in Khyber Pakhtunkhwa on 11 October, ending the provincial government of the Pakistan Tehreek-e-Insaf (PTI). Twelve districts, eight of them in the former tribal areas, including North Waziristan, Bajaur and Kurram, and four in the south, including Bannu and Dera Ismail Khan, have been placed under a special administrative and development framework. Security was the main sticking point in talks between the government and the opposition that broke down before the emergency was declared.
+Governor's rule and an emergency took effect in Khyber Pakhtunkhwa on October 11, ending the provincial government of the Pakistan Tehreek-e-Insaf (PTI). Twelve districts, eight of them in the former tribal areas, including North Waziristan, Bajaur and Kurram, and four in the south, including Bannu and Dera Ismail Khan, have been placed under a special administrative and development framework. Security was the main sticking point in talks between the government and the opposition that broke down before the emergency was declared.
 
 The violence is the government's main argument. Federal minister Attaullah Tarar has said there were 3,774 militant attacks in the province in 2025, with 3,512 deaths, and 2,857 attacks and 2,775 deaths in the first nine months of this year. Islamabad blames militants based in Afghanistan, which Kabul denies, and accused the PTI government of failing to cooperate on counter-terrorism.
 

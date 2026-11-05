@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "The ₹30,213 crore issue was **fully subscribed within 100 minutes**, the fastest on record for an Indian IPO."
   - "By 2:40 pm qualified institutions had bid for **6.72 times** their portion."
-  - "Retail investors had covered **0.57 times** their quota; the offer closes on Friday, 23 October."
+  - "Retail investors had covered **0.57 times** their quota; the offer closes on Friday, October 23."
 hero:
   need: "Akash Ambani, managing director of Jio Platforms"
   suggested_source: "Akash Ambani"
@@ -22,7 +22,7 @@ hero:
     value: "Sold out in 100 minutes"
 related: [jio-platforms-ipo-opens-today-what-bidders-need-to-know, jio-platforms-anchor-book-8110-crore-30-times-demand, jio-platforms-ipo-price-band-biggest-india-listing, sensex-nifty-close-october-21-it-alone-gains-jio-ipo]
 seo:
-  description: "Jio Platforms IPO day one: fully subscribed in 100 minutes, 2.22 times by 2:40 pm on 21 October 2026. QIB 6.72x, NII 0.86x, retail 0.57x. Price band ₹1,065-1,119."
+  description: "Jio Platforms IPO day one: fully subscribed in 100 minutes, 2.22 times by 2:40 pm on October 21, 2026. QIB 6.72x, NII 0.86x, retail 0.57x. Price band ₹1,065-1,119."
 sources:
   - title: "Jio Platforms' IPO fully subscribed in 100 minutes of opening, marks fastest-ever subscribed offer"
     publisher: "ThePrint (PTI)"
@@ -56,4 +56,4 @@ Demand had been signalled on Monday, when the company allotted about ₹8,110 cr
 
 Jio serves 533.3 million customers. Managing director Akash Ambani has pitched the company as more than a telecom operator. "There is no either-or at Jio: the network is our technology," he said, adding, "Digital services, AI and cloud are what we are layering on top of it now."
 
-The money flowing into the issue also lifted the rupee in early trade. Bidding closes on Friday, 23 October.
+The money flowing into the issue also lifted the rupee in early trade. Bidding closes on Friday, October 23.

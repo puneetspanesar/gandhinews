@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Jaiswal remarks at MEA weekly briefing on 23 Oct, via ANI/Tribune (updated 10:37 pm IST). Exact quote fragments 'remain vigilant' only; rest paraphrased."
+    - "Jaiswal remarks at MEA weekly briefing on Oct 23, via ANI/Tribune (updated 10:37 pm IST). Exact quote fragments 'remain vigilant' only; rest paraphrased."
     - "No advisory text from the Indian mission in Belgium was found; copy says only that the MEA's appeal covers Belgium."
-    - "Paris embassy advisory was already covered on 21 Oct; this story is the MEA widening to Italy and Belgium."
+    - "Paris embassy advisory was already covered on Oct 21; this story is the MEA widening to Italy and Belgium."
     - "Saloni Doshi remarks paraphrased (AP)."
 ---
 

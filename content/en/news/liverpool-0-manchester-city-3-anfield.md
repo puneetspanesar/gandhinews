@@ -95,7 +95,7 @@ Liverpool manager Andoni Iraola felt his side were the better team for the first
 
 > I think the first foul of Ryan is never a yellow card, never.
 >
-> Source: Andoni Iraola, Liverpool manager, 11 October 2026
+> Source: Andoni Iraola, Liverpool manager, October 11, 2026
 
 Virgil van Dijk agreed the dismissal changed the match. "Unfortunately, the red card obviously changed a big part of the game, especially when you concede that quickly afterwards as well," he said.
 

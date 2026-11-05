@@ -22,7 +22,7 @@ hero:
     value: "Worst day for Jakarta stocks since 1998"
 related: [haze-from-indonesia-fires-firefly-cancels-singapore-flights]
 seo:
-  description: "Indonesia's Jakarta Composite plunged more than 11% on 16 October, the worst day since 1998, after MSCI proposed cutting Indonesia to standalone-market status."
+  description: "Indonesia's Jakarta Composite plunged more than 11% on October 16, the worst day since 1998, after MSCI proposed cutting Indonesia to standalone-market status."
 sources:
   - title: "Indonesia stocks: Jakarta Composite plunges 11% as MSCI reviews emerging market status"
     publisher: "Business Today"
@@ -45,7 +45,7 @@ verification:
     - "Size of fall: Business Today (10:15 am IST update) had -10.6% / 614 points to 5,240 intraday; Investing.com and Finance Monthly say 'more than 11%' for the session. Closing level not confirmed, so no index level given in copy."
     - "30-minute halt after an 8% drop shortly after the open: Investing.com; Finance Monthly confirms a halt after an 8% fall without duration."
     - "Year-to-date fall: Business Today 39%, Investing.com 'nearly 40%', Finance Monthly 'more than 40%'. Copy says 'close to 40%'."
-    - "MSCI quote verbatim from Investing.com. Consultation to 30 April 2027, decision by 30 June 2027: Investing.com and Finance Monthly (Business Today: end of June 2027)."
+    - "MSCI quote verbatim from Investing.com. Consultation to April 30, 2027, decision by June 30, 2027: Investing.com and Finance Monthly (Business Today: end of June 2027)."
     - "Moody's and Fitch negative outlooks: Investing.com, timing of those actions not given; written as 'have already cut'."
     - "UBS estimates ($4bn passive, $15bn active) from Finance Monthly only, described there as a potential scenario."
     - "IDX chief Jeffrey Hendrik seeking clarification: Investing.com; no direct quote available."
@@ -65,7 +65,7 @@ The index provider's concerns are about how hard it is to see who owns Indonesia
 
 Until it decides, MSCI will keep its freeze on Indonesian stocks. It will not raise foreign inclusion factors or share counts, add new companies to its Indonesia investable index, or move stocks up between size segments. It will also keep deleting securities flagged under Indonesia's own High Shareholding Concentration rules.
 
-Investors can comment until 30 April 2027, and MSCI expects to give a final decision by 30 June 2027. It said it would go ahead unless the consultation produces clear evidence of real improvement.
+Investors can comment until April 30, 2027, and MSCI expects to give a final decision by June 30, 2027. It said it would go ahead unless the consultation produces clear evidence of real improvement.
 
 ## What it could cost
 

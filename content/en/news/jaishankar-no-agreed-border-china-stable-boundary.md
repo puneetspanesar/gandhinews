@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI copy on WebIndia123, 2:01 am IST 15 Oct). All quotes verbatim from it. Day of Jaishankar's and Goyal's remarks not stated; the Bloomberg New Economy Forum in Delhi was running on 14 Oct (see site story on Mittal). Copy avoids naming the day."
+    - "Single source (ANI copy on WebIndia123, 2:01 am IST Oct 15). All quotes verbatim from it. Day of Jaishankar's and Goyal's remarks not stated; the Bloomberg New Economy Forum in Delhi was running on Oct 14 (see site story on Mittal). Copy avoids naming the day."
     - "Jaiswal quotes: same ANI copy, which says the briefing was 'on Wednesday'; date not confirmed, so day not given."
     - "Jaishankar's point that investment and market access will be handled separately from the boundary is paraphrased, not quoted, as in the source."
 ---

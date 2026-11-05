@@ -22,7 +22,7 @@ hero:
     value: "Seven from seven, now Villa Park"
 related: [haaland-double-city-beat-ipswich-isak-liverpool-brentford, madueke-late-goal-arsenal-win-at-forest-leeds-hold-united, neto-double-chelsea-win-everton-martinez-hospital, tottenham-beat-coventry-first-league-win-maddison, enciso-earns-ipswich-draw-nottingham-forest]
 seo:
-  description: "Saturday 24 October football in IST: Aston Villa v Manchester City 5 pm, Arsenal v Everton 7:30 pm, Chelsea v Tottenham 10 pm, Napoli v Roma 9:30 pm."
+  description: "Saturday, October 24 football in IST: Aston Villa v Manchester City 5 pm, Arsenal v Everton 7:30 pm, Chelsea v Tottenham 10 pm, Napoli v Roma 9:30 pm."
 sources:
   - title: "Live Soccer TV schedule, 24 October 2026"
     publisher: "Live Soccer TV"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Fixtures and times from Live Soccer TV, which lists US Eastern time (EDT, UTC-4); converted at +9:30 to IST. Villa v City 7:30 am ET = 5 pm IST; 10 am ET = 7:30 pm; 12 pm = 9:30 pm; 12:30 pm = 10 pm; 3 pm = 12:30 am Sunday. Timezone of listing inferred from the 23 Oct page (Ipswich v Forest at 3 pm = 8 pm UK)."
-    - "League context (City seven straight wins, six-point lead before Arsenal's 1-0 win at Forest; Villa won at Newcastle; Chelsea fourth after win at Everton, Martinez hospital; Spurs first win v Coventry, 16th) from Gandhi News's own 17-20 October reports. Midweek European results not re-checked; lead 'three points' inferred from those reports, written carefully."
+    - "Fixtures and times from Live Soccer TV, which lists US Eastern time (EDT, UTC-4); converted at +9:30 to IST. Villa v City 7:30 am ET = 5 pm IST; 10 am ET = 7:30 pm; 12 pm = 9:30 pm; 12:30 pm = 10 pm; 3 pm = 12:30 am Sunday. Timezone of listing inferred from the Oct 23 page (Ipswich v Forest at 3 pm = 8 pm UK)."
+    - "League context (City seven straight wins, six-point lead before Arsenal's 1-0 win at Forest; Villa won at Newcastle; Chelsea fourth after win at Everton, Martinez hospital; Spurs first win v Coventry, 16th) from Gandhi News's own October 17-20 reports. Midweek European results not re-checked; lead 'three points' inferred from those reports, written carefully."
     - "Martinez fitness for Spurs game not checked; not mentioned."
 ---
 

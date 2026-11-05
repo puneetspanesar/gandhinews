@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: News On AIR evening news, 8:33 pm IST 24 Oct. Letter's date, signatory and any penalties not reported; device types beyond 'devices and surgical supplies' not named. No second source found within the search budget."
+    - "Single source: News On AIR evening news, 8:33 pm IST Oct 24. Letter's date, signatory and any penalties not reported; device types beyond 'devices and surgical supplies' not named. No second source found within the search budget."
 ---
 
 The Directorate General of Health Services (DGHS) has warned hospitals across the country against reusing medical devices and surgical items that are made to be used only once, saying the practice puts patients at risk and must stop in both public and private hospitals.

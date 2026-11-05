@@ -12,7 +12,7 @@ location: London
 keyPoints:
   - "Police re-arrested **two men, aged 24 and 25**, on suspicion of assisting Iran's intelligence service."
   - "Five other men remain on bail and **no one has been charged**."
-  - "Police found petrol in **three vans** at the US-run base on 27 September, but no explosives."
+  - "Police found petrol in **three vans** at the US-run base on September 27, but no explosives."
 hero:
   need: "RAF Fairford airbase, Gloucestershire"
   suggested_source: "RAF Fairford"
@@ -22,7 +22,7 @@ hero:
     value: "Fairford probe: two held again"
 related: [uk-says-iran-highly-likely-behind-raf-fairford-plot]
 seo:
-  description: "UK counter-terrorism police re-arrested two men, aged 24 and 25, on suspicion of assisting Iran's intelligence over the suspected 27 September plot at RAF Fairford."
+  description: "UK counter-terrorism police re-arrested two men, aged 24 and 25, on suspicion of assisting Iran's intelligence over the suspected September 27 plot at RAF Fairford."
 sources:
   - title: "2 men rearrested on suspicion of spying for Iran over suspected plot at U.S.-run air base in England"
     publisher: "CBS News / AP"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Details and Laurence Taylor quotes from CBS/AP (20 Oct, 1:17 pm EDT). Al Jazeera, CNN and others confirm via headlines seen in search. Names of the men not released; dates of first arrests not given."
+    - "Details and Laurence Taylor quotes from CBS/AP (Oct 20, 1:17 pm EDT). Al Jazeera, CNN and others confirm via headlines seen in search. Names of the men not released; dates of first arrests not given."
     - "'Highly likely' quote may be from an earlier statement by Taylor; CBS presents it within the Tuesday report."
 ---
 
@@ -47,7 +47,7 @@ Counter Terrorism Policing said the men, a 24-year-old British national and a 25
 
 Laurence Taylor, head of National Counter Terrorism Policing, said detectives were pursuing "many lines of enquiry involved in this hugely complex investigation". "We consider it highly likely that there is Iranian state involvement," he said, adding that investigators were examining "what that level of involvement was and the ambition behind it."
 
-The case centres on 27 September, when armed police and army bomb disposal teams swarmed the rural area around the base and scores of residents were moved out of nearby homes. Police later said they had found a quantity of petrol, an accelerant, in three vans at the site, but no explosives.
+The case centres on September 27, when armed police and army bomb disposal teams swarmed the rural area around the base and scores of residents were moved out of nearby homes. Police later said they had found a quantity of petrol, an accelerant, in three vans at the site, but no explosives.
 
 RAF Fairford has been used by American bombers to strike Iran during this year's war. After British authorities linked Tehran to the incident, the US Air Force pulled all of its bombers out of the base earlier this month.
 

@@ -12,7 +12,7 @@ location: Paris
 keyPoints:
   - "The Embassy of India in Paris issued a **safety advisory** on Wednesday for Indians in France."
   - "It asks people to **avoid large gatherings** and expect transport disruption and local curfews."
-  - "New demonstrations are planned for **24 October**, with soldiers due to help secure them."
+  - "New demonstrations are planned for **October 24**, with soldiers due to help secure them."
 hero:
   need: "The Embassy of India building in Paris"
   suggested_source: "Embassy of India, Paris"
@@ -22,7 +22,7 @@ hero:
     value: "Avoid crowds, embassy tells Indians"
 related: [france-lecornu-new-curfews-unrest, macron-anger-shame-france-riots-2400-arrested, france-protests-550000-limoges-city-hall-fire-macron]
 seo:
-  description: "The Indian embassy in Paris on 21 October advised Indian nationals in France to stay vigilant, avoid crowds and follow local authorities as cost-of-living protests turned violent."
+  description: "The Indian embassy in Paris on October 21 advised Indian nationals in France to stay vigilant, avoid crowds and follow local authorities as cost-of-living protests turned violent."
 sources:
   - title: "India issues advisory for its citizens in France, asks them to remain vigilant amid violent protests"
     publisher: "IANS"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (IANS, 10:55 pm). Embassy's own post not read; helpline numbers taken from IANS copy, should match embassy advisory."
-    - "Background on riots of 17 Oct and Macron/Nunez statements from IANS, which cited Xinhua; matches earlier Gandhi News France coverage."
+    - "Background on riots of Oct 17 and Macron/Nunez statements from IANS, which cited Xinhua; matches earlier Gandhi News France coverage."
 ---
 
 The Embassy of India in Paris on Wednesday asked Indian nationals and travellers in France to remain vigilant, after protests over the cost of living turned violent in several parts of the country.
@@ -46,6 +46,6 @@ Indians who need help can call the embassy in Paris on +33 6 48 34 00 63 or the 
 
 The protests began in late September over poor conditions in schools and a shortage of teachers. They have since grown into nationwide anti-government demonstrations driven by high living costs, fuel prices and cuts to public sector budgets.
 
-Rioting on 17 October left widespread damage and led to thousands of arrests. President Emmanuel Macron has said the government will use every legal tool available to stop further violence. He has said a state of emergency is not needed for now but could be declared later.
+Rioting on October 17 left widespread damage and led to thousands of arrests. President Emmanuel Macron has said the government will use every legal tool available to stop further violence. He has said a state of emergency is not needed for now but could be declared later.
 
-Interior Minister Laurent Nuñez has said soldiers from Operation Sentinelle, France's domestic security deployment, will help secure the next round of demonstrations, planned for Saturday, 24 October.
+Interior Minister Laurent Nuñez has said soldiers from Operation Sentinelle, France's domestic security deployment, will help secure the next round of demonstrations, planned for Saturday, October 24.

@@ -102,7 +102,7 @@ verification:
     - "Gaurav Bora's line ('It's for the badge, it's for the people!') is quoted by India.com from the ISL's X account; the post itself was not opened."
     - "Inter Kashi v Kerala venue: The Bridge calls it Balewadi Stadium; ANI names the Shree Shiv Chhatrapati Sports Complex, Pune (the Balewadi complex). Copy uses Pune."
     - "Season format, 13 clubs, 163 matches and the Churchill/Jamshedpur and Diamond Harbour details are from The Bridge's season guide only."
-    - "Update 13 Oct: NorthEast United 1-0 Mohun Bagan SG agreed by UNI, myKhel and The News Mill; Jithin M.S. at 90+2. myKhel describes the goal as a rebound after a Kaith save off the post; The News Mill describes a counterattack finish. Copy says only that he 'struck from close range', which fits both. Ajaraie disallowed offside goal from myKhel only, minute unknown, left out. No NorthEast coach quote found."
+    - "Update Oct 13: NorthEast United 1-0 Mohun Bagan SG agreed by UNI, myKhel and The News Mill; Jithin M.S. at 90+2. myKhel describes the goal as a rebound after a Kaith save off the post; The News Mill describes a counterattack finish. Copy says only that he 'struck from close range', which fits both. Ajaraie disallowed offside goal from myKhel only, minute unknown, left out. No NorthEast coach quote found."
 ---
 
 The Indian Super League is back in its full home-and-away shape, and its opening weekend did not lack drama. Bengaluru FC came from behind to beat Sporting Club Delhi 3-2 on Saturday, with defender Menno Koch scoring at both ends. On Sunday, newcomers Churchill Brothers won their first ISL match, beating Mumbai City 2-1 at Fatorda, and on Monday night NorthEast United snatched a 1-0 win over Mohun Bagan Super Giant in stoppage time.
@@ -128,7 +128,7 @@ Head coach Ashley Westwood was pleased but not carried away. "Happy with the res
 On Saturday night FC Goa came from behind to draw 1-1 with Chennaiyin FC at Fatorda. Irfan Yadwad put Chennaiyin ahead in the 64th minute, and Chiki headed the equaliser 11 minutes later from a free kick won by Udanta Singh, who also hit the crossbar.
 
 ```facts
-{"title":"ISL 2026-27, opening weekend","items":[{"value":"3-2","label":"Bengaluru FC v Sporting Club Delhi, 10 Oct","source":"ISL"},{"value":"1-1","label":"FC Goa v Chennaiyin FC, 10 Oct","source":"ISL"},{"value":"0-2","label":"Inter Kashi v Kerala Blasters, 11 Oct","source":"ISL"},{"value":"2-1","label":"Churchill Brothers v Mumbai City, 11 Oct","source":"ISL"},{"value":"1-0","label":"NorthEast United v Mohun Bagan SG, 12 Oct","source":"ISL"}]}
+{"title":"ISL 2026-27, opening weekend","items":[{"value":"3-2","label":"Bengaluru FC v Sporting Club Delhi, Oct 10","source":"ISL"},{"value":"1-1","label":"FC Goa v Chennaiyin FC, Oct 10","source":"ISL"},{"value":"0-2","label":"Inter Kashi v Kerala Blasters, Oct 11","source":"ISL"},{"value":"2-1","label":"Churchill Brothers v Mumbai City, Oct 11","source":"ISL"},{"value":"1-0","label":"NorthEast United v Mohun Bagan SG, Oct 12","source":"ISL"}]}
 ```
 
 ## A full season again
@@ -143,8 +143,8 @@ Mohun Bagan had the better of the chances. Lee Erwin headed against the woodwork
 
 > We are very sad and disappointed with the result. We apologise to our fans because we wanted to start the season with a win, and we believe we deserved it.
 >
-> Source: Panos Dilmperis, Mohun Bagan Super Giant head coach, 12 October 2026
+> Source: Panos Dilmperis, Mohun Bagan Super Giant head coach, October 12, 2026
 
 ## What's next
 
-Punjab FC play Odisha FC in Delhi on Wednesday, and East Bengal begin their season against Churchill Brothers at Fatorda on 18 October.
+Punjab FC play Odisha FC in Delhi on Wednesday, and East Bengal begin their season against Churchill Brothers at Fatorda on October 18.

@@ -35,7 +35,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Nvidia's own announcement not found (newsroom had nothing after 8 Oct when checked). Nvidia's participation rests on Yahoo Finance; OCP post confirms the 'Open Data Center for AI' specification revision 0.7.0 but does not name Nvidia."
+    - "Nvidia's own announcement not found (newsroom had nothing after Oct 8 when checked). Nvidia's participation rests on Yahoo Finance; OCP post confirms the 'Open Data Center for AI' specification revision 0.7.0 but does not name Nvidia."
     - "Name differs: Yahoo says 'Open Data Center Specification v0.7'; OCP says 'Open Data Center for AI specification, Revision 0.7.0'. Used OCP's fuller name in body."
     - "Yahoo calls the grid standard 'OCP Grid Resilience Specification'; OCP describes an interface specification for disturbance performance between hyperscale data centres and the grid. Treated as the same work; flag if wrong."
     - "Yahoo's lines on New York and Texas data centre pauses left out (single source)."

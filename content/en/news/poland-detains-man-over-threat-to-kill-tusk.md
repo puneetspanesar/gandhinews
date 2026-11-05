@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Kyiv Independent, 12 Oct), which cites a 11 Oct briefing, Tusk's X post, TVN24 and TVP Info. Primary Polish statements not opened."
+    - "Single source (Kyiv Independent, Oct 12), which cites a Oct 11 briefing, Tusk's X post, TVN24 and TVP Info. Primary Polish statements not opened."
     - "Date of Tusk's X post about the detention is not given; story does not date it."
     - "The detained man is not named and his nationality is not stated. TVN24's report on an informant and a man called Krzysztof is not used, as it is unclear how it relates to the detainee."
 ---

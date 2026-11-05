@@ -21,7 +21,7 @@ hero:
     value: "22 deportees, one secret deal"
 related: []
 seo:
-  description: "Jamaica received 22 third-country deportees from the US on 13 October under a June agreement the government says Washington will not let it publish."
+  description: "Jamaica received 22 third-country deportees from the US on October 13 under a June agreement the government says Washington will not let it publish."
 sources:
   - title: "Jamaica accepts first flight of third-country deportations from US"
     publisher: "Al Jazeera"

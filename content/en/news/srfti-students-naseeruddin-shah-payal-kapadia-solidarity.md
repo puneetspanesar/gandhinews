@@ -12,7 +12,7 @@ location: Kolkata
 keyPoints:
   - "SRFTI students are on an **indefinite sit-in** demanding Vice Chancellor Santosh Ajmera's resignation."
   - "Payal Kapadia said she was **\"absolutely horrified\"** by what had happened at the institute."
-  - "Classes have been suspended since 28 September, and the institute has told students to **vacate the campus**."
+  - "Classes have been suspended since September 28, and the institute has told students to **vacate the campus**."
 hero:
   need: "Actor Naseeruddin Shah and filmmaker Payal Kapadia"
   suggested_source: "Naseeruddin Shah"
@@ -39,9 +39,9 @@ verification:
 
 Actor Naseeruddin Shah and filmmaker Payal Kapadia have come out in support of students at the Satyajit Ray Film and Television Institute (SRFTI) in Kolkata, who have been protesting for weeks over what they say were attacks on their campus by groups linked to the RSS.
 
-The students allege they were attacked on 27 September by members of the Akhil Bharatiya Grahak Panchayat, an RSS-affiliated consumer group, and again on 4 October during a rally by the Bangiya Hindu Jagran Manch near the institute's gate. They are holding an indefinite sit-in and want Vice Chancellor Santosh Ajmera to resign.
+The students allege they were attacked on September 27 by members of the Akhil Bharatiya Grahak Panchayat, an RSS-affiliated consumer group, and again on October 4 during a rally by the Bangiya Hindu Jagran Manch near the institute's gate. They are holding an indefinite sit-in and want Vice Chancellor Santosh Ajmera to resign.
 
-Classes have been suspended since 28 September. On 16 October the institute called off film-making and video classes until 13 November and asked students to leave the campus.
+Classes have been suspended since September 28. On October 16 the institute called off film-making and video classes until November 13 and asked students to leave the campus.
 
 In a video posted on social media, Shah accused the BJP, which now governs West Bengal, of seeking revenge on those who do not share its views. He said the party "is either hoping to brainwash or frighten future filmmakers", adding: "I can promise you that is not going to happen."
 

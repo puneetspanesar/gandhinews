@@ -28,7 +28,7 @@ cover:
   score: ["CLE 6", "PIT 27"]
 related: []
 seo:
-  description: "Jaylen Warren ran for 143 yards as the Pittsburgh Steelers beat the Cleveland Browns 27-6 on 1 November 2026 to improve to 6-2 in the NFL."
+  description: "Jaylen Warren ran for 143 yards as the Pittsburgh Steelers beat the Cleveland Browns 27-6 on November 1, 2026, to improve to 6-2 in the NFL."
 sources:
   - title: "Cleveland Browns vs. Pittsburgh Steelers Live Score and Stats - November 1, 2026 Gametracker"
     publisher: "CBS Sports"
@@ -38,7 +38,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 02:40 IST, final of Browns at Steelers (kickoff 1:00 pm EST Sunday 1 Nov = 23:30 IST; CBS gametracker shows FINAL)."
+    - "event: Nov 2 about 02:40 IST, final of Browns at Steelers (kickoff 1:00 pm EST Sunday, Nov 1 = 23:30 IST; CBS gametracker shows FINAL)."
     - "Single source (CBS Sports gametracker/recap with box score). Score, halftime 20-6, Freiermuth 1-yard TD before half, Warren 1-yard third-quarter TD, yards 361-319, rushing 200-34, two lost fumbles, one interception, Rodgers 13/25 172 1 INT, Warren 17-143-1, Dowdle 15-56-1, Watson 27/39 324, Fannin 10-154, Watt 2 sacks, Heyward 1.5, records 6-2 and 5-3: all from that page."
     - "McCarthy quote is from the AP pre-game preview quoted on the CBS page, so presented as said before the game. No post-game quotes found. Venue (Acrisure Stadium) is Pittsburgh's home ground; the page lists the game as CLE@PIT."
     - "Search budget ran out; ESPN recap (blocked) not used for cross-checking."

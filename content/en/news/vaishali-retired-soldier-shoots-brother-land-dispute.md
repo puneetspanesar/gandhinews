@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS via English Punjab Kesari, 3:00 pm IST, dateline Patna 24 Oct. No named police officer and no direct quotes."
+    - "Single source: IANS via English Punjab Kesari, 3:00 pm IST, dateline Patna Oct 24. No named police officer and no direct quotes."
     - "Where on the body Somnath was shot is not stated; left out. Name of the SSP not given."
 ---
 

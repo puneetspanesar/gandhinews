@@ -55,7 +55,7 @@ verification:
     - "Hamilton result and quotes single-source (Al Jazeera); Kansas flip was also listed in Bangor Daily News per an earlier story. Margin and vote shares not available, so left out."
     - "Trump 'We'll probably work something out' is attributed by Business Standard to an interview with The New York Times; exact time of the remark not given."
     - "Alaska: no result found in any page read; stated as still being counted (Al Jazeera listed it as a toss-up without a result). No Schumer or Jeffries statements found in pages read, so none quoted. Final House tally not available: Business Standard preliminary count at 11:12 IST was 182 D, 107 R, left out of copy as clearly partial."
-    - "No Sensex/Nifty data for 4 Nov 2026 found; no market story written."
+    - "No Sensex/Nifty data for Nov 4, 2026, found; no market story written."
     - "hero: Adam Hamilton may not have an English Wikipedia page; suggested_source set to Roger Marshall so the photo finder has a hit. Photo block shows Mary Peltola for the Alaska paragraph."
 ---
 

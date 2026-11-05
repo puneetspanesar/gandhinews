@@ -22,7 +22,7 @@ hero:
     value: "Champi skirts Taiwan"
 related: []
 seo:
-  description: "Taiwan issued a land warning for Typhoon Champi on 22 October and cancelled 125 flights; the storm is due closest to the northeast coast late Friday."
+  description: "Taiwan issued a land warning for Typhoon Champi on October 22 and cancelled 125 flights; the storm is due closest to the northeast coast late Friday."
 sources:
   - title: "Taiwan issues land warning ahead of arrival of powerful Typhoon Champi"
     publisher: "CNA (Reuters)"

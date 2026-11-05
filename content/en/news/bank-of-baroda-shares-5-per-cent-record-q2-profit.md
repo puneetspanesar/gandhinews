@@ -22,7 +22,7 @@ hero:
     value: "BoB up 5% on record profit"
 related: [sensex-500-points-off-high-afternoon-it-drags-nifty-23247, sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, fcnr-deposits-swell-hdfc-icici-axis-balance-sheets]
 seo:
-  description: "Bank of Baroda shares rose 5.15% to ₹250.89 on 2 November 2026 after Q2 FY27 standalone profit rose 35.8% to a record ₹6,532 crore on NSE stake-sale gains."
+  description: "Bank of Baroda shares rose 5.15% to ₹250.89 on November 2, 2026, after Q2 FY27 standalone profit rose 35.8% to a record ₹6,532 crore on NSE stake-sale gains."
 cover:
   template: business
   label: "Bank results"
@@ -58,8 +58,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 12:21 IST, Business Standard live blog: BoB rose as much as 5.15% to intraday high Rs 250.89 (NSE presumably); standalone Q2 profit +35.8% to Rs 6,531 cr (UNI and PSU Watch say Rs 6,532 cr; copy uses 6,532)."
-    - "Results were announced Friday 30 Oct (UNI 13:41 IST); the stock closed 1.24% lower at Rs 238.50 on BSE that day (PSU Watch). Monday 2 Nov is the first full session after results."
+    - "event: Nov 2 12:21 IST, Business Standard live blog: BoB rose as much as 5.15% to intraday high Rs 250.89 (NSE presumably); standalone Q2 profit +35.8% to Rs 6,531 cr (UNI and PSU Watch say Rs 6,532 cr; copy uses 6,532)."
+    - "Results were announced Friday, Oct 30 (UNI 13:41 IST); the stock closed 1.24% lower at Rs 238.50 on BSE that day (PSU Watch). Monday, Nov 2 is the first full session after results."
     - "Debadatta Chand remarks (guidance 13-15% from 12-14%, NIM band 2.75-2.95%, ECL need about Rs 12,500 cr, Rs 2,500 cr excess provisions) are indirect speech in PSU Watch; no direct quotes used."
     - "NSE stake sale: cash profit Rs 1,340 cr; other income +96% to Rs 6,881 cr (PSU Watch). Single-source figures stated plainly as bank's reported numbers."
 ---

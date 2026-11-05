@@ -22,7 +22,7 @@ hero:
     value: "US strikes Qeshm on midterms eve"
 related: [oil-slump-deepens-brent-105-airlines-rally-iran-talks, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, trump-rules-out-iran-strike-today-qatar-mediators-tehran, netanyahu-zamir-clash-report-iran-warning-election-eve]
 seo:
-  description: "The US struck Iran's Qeshm Island in the Strait of Hormuz on 2 November 2026, officials said, calling it defensive. Iran reported five blasts; Brent edged up in Asia."
+  description: "The US struck Iran's Qeshm Island in the Strait of Hormuz on November 2, 2026, officials said, calling it defensive. Iran reported five blasts; Brent edged up in Asia."
 cover:
   template: breaking
   label: "Iran war"
@@ -63,11 +63,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: strikes late Monday 2 Nov (Iran time, exact hour not given); reports landed 3 Nov about 07:20-07:55 IST (The National updated 01:52 UTC = 07:22 IST; Yahoo/Investing 02:18 UTC = 07:48 IST; Al Jazeera 02:25; FMT/AFP 02:27 UTC = 07:57 IST). Arab News first published 00:15 'Saudi time', updated 05:27 (07:57 IST)."
+    - "event: strikes late Monday, Nov 2 (Iran time, exact hour not given); reports landed Nov 3 about 07:20-07:55 IST (The National updated 01:52 UTC = 07:22 IST; Yahoo/Investing 02:18 UTC = 07:48 IST; Al Jazeera 02:25; FMT/AFP 02:27 UTC = 07:57 IST). Arab News first published 00:15 'Saudi time', updated 05:27 (07:57 IST)."
     - "Strike attributed to US officials by WSJ (via Yahoo, The National, FMT/AFP), AP (via Arab News and Al Jazeera), Fox/NewsNation (via The National). No on-record CENTCOM or Pentagon statement; CENTCOM did not respond (The National, AFP)."
     - "Five explosions, two aircraft seen: IRNA via AFP/FMT and Al Jazeera. Bandar Lengeh blasts: Fars via Al Jazeera. 'surface to air missiles' quote: anonymous US official via Arab News (AP)."
     - "Fishing boats claim: Arab News headline only; official not named and no detail in the text fetched. Kept hedged, one sentence."
-    - "Trump quotes ('could happen', 'We had a war with Iran. We won', 'no' on post-election strikes): The National and AFP, said Monday 2 Nov."
+    - "Trump quotes ('could happen', 'We had a war with Iran. We won', 'no' on post-election strikes): The National and AFP, said Monday, Nov 2."
     - "Qatari two rounds of talks, third carrier, Netanyahu push: Arab News (AP). Netanyahu line left out (reportedly, single source)."
     - "Brent +0.5% to $105.25 early Asia (The National); Jan Brent $104.41 +0.12% at about 08:00 IST (Business Standard). Monday fall 7.6% to $104.77 from the site's own Wall Street close story."
 ---

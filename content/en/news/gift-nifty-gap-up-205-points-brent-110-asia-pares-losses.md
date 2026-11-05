@@ -22,7 +22,7 @@ hero:
     value: "GIFT Nifty up 205 points, Brent down 2.7%"
 related: [asia-open-nikkei-seen-down-oil-dalal-street-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, markets-week-ahead-us-midterms-itc-sbi-results-november-2, india-manufacturing-pmi-october-final-due-flash-54-9, kospi-turns-higher-samsung-sk-hynix-recover-chip-rout]
 seo:
-  description: "Market cues for 2 November 2026: GIFT Nifty up 205 points at 23,291, Brent down 2.7% at $110.4, Nikkei pares losses, US futures up; Reliance, IOC, Sun Pharma, BEL in focus."
+  description: "Market cues for November 2, 2026: GIFT Nifty up 205 points at 23,291, Brent down 2.7% at $110.4, Nikkei pares losses, US futures up; Reliance, IOC, Sun Pharma, BEL in focus."
 cover:
   template: business
   label: "Market open"
@@ -61,9 +61,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 07:55 IST, GIFT Nifty around 23,291 (+205, +0.89%) in Sunday Guardian pre-market piece (last updated 02:24:59 UTC); 2 Nov 08:48 IST, HDFC Sky global markets snapshot (Nikkei -0.3%, Kospi +1.4%, MSCI Asia ex-Japan -0.2%, S&P futures +0.4%, Nasdaq futures +0.8%, Brent -2.7% at $110.4, WTI -2.9% at $101.1). New development on the 05:40 asia-open story, which carried only the pre-open projection of Nikkei -1.5%."
+    - "event: Nov 2 07:55 IST, GIFT Nifty around 23,291 (+205, +0.89%) in Sunday Guardian pre-market piece (last updated 02:24:59 UTC); Nov 2 08:48 IST, HDFC Sky global markets snapshot (Nikkei -0.3%, Kospi +1.4%, MSCI Asia ex-Japan -0.2%, S&P futures +0.4%, Nasdaq futures +0.8%, Brent -2.7% at $110.4, WTI -2.9% at $101.1). New development on the 05:40 asia-open story, which carried only the pre-open projection of Nikkei -1.5%."
     - "Opening moves (Kospi -1.06%, Nikkei -0.39%, Topix -0.51%, yen 157.80, Nasdaq 100 -3.5% Friday, SOX -7.2%, Intel steepest one-day fall in more than four decades) from CNBC-TV18 on TradingView; no time of day given. CNBC-TV18 says GIFT Nifty pointed to a gap-up of close to 200 points, consistent with Sunday Guardian."
-    - "Company results figures (Reliance, IOC, Sun Pharma, BEL, Jio Platforms) and today's results list (ITC, Marico, NALCO, NLC India, Concor) are single-source from Sunday Guardian; Reliance 41% / ₹25,548 crore cross-checked with IndiaIPO (results announced 30 Oct). Announcement dates for IOC, Sun Pharma and BEL results not stated; copy says only that the shares trade for the first time after the numbers, which holds for weekend or Friday-evening releases. Editor may wish to soften if any was released before Friday's close."
+    - "Company results figures (Reliance, IOC, Sun Pharma, BEL, Jio Platforms) and today's results list (ITC, Marico, NALCO, NLC India, Concor) are single-source from Sunday Guardian; Reliance 41% / ₹25,548 crore cross-checked with IndiaIPO (results announced Oct 30). Announcement dates for IOC, Sun Pharma and BEL results not stated; copy says only that the shares trade for the first time after the numbers, which holds for weekend or Friday-evening releases. Editor may wish to soften if any was released before Friday's close."
     - "Brent: earlier site story had $111.84 in early trade; HDFC Sky later has $110.4, down 2.7%. Both consistent with a further slide through the morning. The 72% probability of a December Fed hike is HDFC Sky's figure, unattributed to a specific tool."
 ---
 

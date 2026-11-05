@@ -9,7 +9,7 @@ title: "The Supreme Court has rerun last Diwali's cracker experiment. This time 
 standfirst: "Green crackers are back in Delhi-NCR for two evenings, under rules almost identical to those that failed to stop a smoky morning-after in 2025. The court's order is careful on paper. Whether it was worth repeating will depend on enforcement that the police and pollution boards must now show, not assert."
 published: 2026-11-02T18:10:00+05:30
 keyPoints:
-  - "The court has allowed certified green crackers in Delhi-NCR **on 7 and 8 November only**, with the full ban back on 9 November."
+  - "The court has allowed certified green crackers in Delhi-NCR **on November 7 and 8 only**, with the full ban back on November 9."
   - "Last year's near-identical relaxation was followed by **an AQI of 350 the morning after Diwali**."
   - "Police and pollution boards should **publish district-wise enforcement and hourly air data** before the court decides on a repeat."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Two nights of crackers, then the test"
 related: [supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, supreme-court-firecrackers-religion-caqm-suggestions, delhi-winter-curbs-need-buses-and-enforcement-not-just-bans, delhi-air-needs-year-round-plan-not-grap-reflex, illegal-firecracker-units-need-checks-before-diwali]
 seo:
-  description: "Gandhi News editorial: the Supreme Court's 2 November order allowing green crackers in Delhi-NCR on 7 and 8 November repeats last year's experiment. Enforcement and air data must be made public before it becomes routine."
+  description: "Gandhi News editorial: the Supreme Court's November 2 order allowing green crackers in Delhi-NCR on November 7 and 8 repeats last year's experiment. Enforcement and air data must be made public before it becomes routine."
 sources:
   - title: "Supreme Court Allows Certified Green Crackers In Delhi-NCR For Diwali On Nov 7-8; Year-Round Ban To Resume On Nov 9"
     publisher: "LiveLaw"
@@ -52,25 +52,25 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. 2026 order details (Sundresh and Varale JJ, 7 and 8 Nov, 6-7 am and 8-10 pm, sales 4-6 Nov at district-chosen sites, no online sales, NEERI certification and QR codes, barium and series crackers banned, 300 m no-cracker zones, security money, police patrols, three CPCB reports, compliance on 16 Dec, ban back on 9 Nov, two quotes) from the desk's 2 Nov news story (LiveLaw, Deccan Herald)."
-    - "2025 order (15 Oct 2025, bench led by CJI B R Gavai, same two windows on the day before Diwali and on Diwali, QR checks and patrols, court to examine compliance after three weeks) from The Tribune, 21 Oct 2025, fetched."
-    - "Morning-after figures (CPCB AQI 350 at 8 am on 21 Oct 2025, 36 of 38 stations in the red zone, Bawana 423) from The Week; Tribune gives 352 at 8 am. Copy uses 'about 350'. Bursting beyond permitted hours reported by both The Week and Tribune, no count given."
-    - "Amicus Aparajita Singh quotes from the 12 Oct 2026 hearing, desk's story (LiveLaw)."
+    - "Editorial view of the desk. 2026 order details (Sundresh and Varale JJ, Nov 7 and 8, 6-7 am and 8-10 pm, sales Nov 4-6 at district-chosen sites, no online sales, NEERI certification and QR codes, barium and series crackers banned, 300 m no-cracker zones, security money, police patrols, three CPCB reports, compliance on Dec 16, ban back on Nov 9, two quotes) from the desk's Nov 2 news story (LiveLaw, Deccan Herald)."
+    - "2025 order (Oct 15, 2025, bench led by CJI B R Gavai, same two windows on the day before Diwali and on Diwali, QR checks and patrols, court to examine compliance after three weeks) from The Tribune, Oct 21, 2025, fetched."
+    - "Morning-after figures (CPCB AQI 350 at 8 am on Oct 21, 2025, 36 of 38 stations in the red zone, Bawana 423) from The Week; Tribune gives 352 at 8 am. Copy uses 'about 350'. Bursting beyond permitted hours reported by both The Week and Tribune, no count given."
+    - "Amicus Aparajita Singh quotes from the Oct 12, 2026, hearing, desk's story (LiveLaw)."
     - "Not checked in this run whether the 2025 compliance reports were ever discussed in open court or published; copy does not claim either way."
     - "Recommendations are the desk's own."
 ---
 
-For two evenings this Diwali, people in Delhi and the National Capital Region may light crackers again. The Supreme Court on Monday allowed **certified green crackers on 7 and 8 November**, between 6 am and 7 am and between 8 pm and 10 pm, and said the year-round ban would return on 9 November. Justices M M Sundresh and Prasanna B Varale called the relief temporary and wrapped it in conditions: sales only from 4 to 6 November at sites chosen by district officials, no online selling, sealed boxes with QR codes, and **no crackers within 300 metres** of hospitals, schools and old-age homes.
+For two evenings this Diwali, people in Delhi and the National Capital Region may light crackers again. The Supreme Court on Monday allowed **certified green crackers on November 7 and 8**, between 6 am and 7 am and between 8 pm and 10 pm, and said the year-round ban would return on November 9. Justices M M Sundresh and Prasanna B Varale called the relief temporary and wrapped it in conditions: sales only from November 4 to 6 at sites chosen by district officials, no online selling, sealed boxes with QR codes, and **no crackers within 300 metres** of hospitals, schools and old-age homes.
 
 On paper, it is a careful order. The trouble is that we have seen it before.
 
 ## Last year's experiment
 
-On 15 October 2025, a bench led by the then Chief Justice B R Gavai allowed green crackers on the day before Diwali and on Diwali itself, in **the same two daily windows**. It too ordered QR checks, police patrols at sale points and daily air monitoring, and said it would examine afterwards whether its directions had been followed in full, in part or not at all.
+On October 15, 2025, a bench led by the then Chief Justice B R Gavai allowed green crackers on the day before Diwali and on Diwali itself, in **the same two daily windows**. It too ordered QR checks, police patrols at sale points and daily air monitoring, and said it would examine afterwards whether its directions had been followed in full, in part or not at all.
 
 The morning after Diwali, the capital's air quality index stood at **about 350, deep in the "very poor" band**. Thirty-six of the city's 38 monitoring stations were in the red, and Bawana crossed 400. Crackers were burst late into the night, well outside the permitted hours.
 
-At a hearing on 12 October this year, the court's own amicus, Senior Advocate Aparajita Singh, put it bluntly. Time limits, she said, "sound nice" but are not enforced. "Year after year, we see the same playbook getting repeated."
+At a hearing on October 12 this year, the court's own amicus, Senior Advocate Aparajita Singh, put it bluntly. Time limits, she said, "sound nice" but are not enforced. "Year after year, we see the same playbook getting repeated."
 
 ## The fair objection
 
@@ -82,14 +82,14 @@ That is a reasonable aim. But **a relaxation is only as good as its policing**, 
 
 ## What should happen now
 
-First, the Delhi Police and the police in the NCR districts of Haryana, Uttar Pradesh and Rajasthan should publish, day by day from 4 to 9 November, how many sale points they inspected, how many fake QR codes they found, what they seized and **how many people they prosecuted**. Numbers, not press notes.
+First, the Delhi Police and the police in the NCR districts of Haryana, Uttar Pradesh and Rajasthan should publish, day by day from November 4 to 9, how many sale points they inspected, how many fake QR codes they found, what they seized and **how many people they prosecuted**. Numbers, not press notes.
 
-Second, the pollution boards should release hourly readings for every station on the nights of 7 and 8 November, so anyone can see whether the spikes came inside the permitted windows or long after them.
+Second, the pollution boards should release hourly readings for every station on the nights of November 7 and 8, so anyone can see whether the spikes came inside the permitted windows or long after them.
 
-Third, the no-cracker zones should be marked on the ground before 7 November, as the court directed, and not discovered by residents on the night.
+Third, the no-cracker zones should be marked on the ground before November 7, as the court directed, and not discovered by residents on the night.
 
-Finally, when the case returns on 16 December, the court should weigh this year's reports alongside last year's in open court. If they show the windows were ignored again, the relaxation should not become **an annual ritual granted by default**. Two nights of light should not cost a city a week of breath.
+Finally, when the case returns on December 16, the court should weigh this year's reports alongside last year's in open court. If they show the windows were ignored again, the relaxation should not become **an annual ritual granted by default**. Two nights of light should not cost a city a week of breath.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"2","label":"nights, 7 and 8 November, on which green crackers are allowed in Delhi-NCR this year"},{"value":"350","label":"approximate Delhi AQI at 8 am the morning after Diwali 2025, under similar rules"},{"value":"36 of 38","label":"Delhi monitoring stations in the red zone that morning"}]}
+{"title":"The reporting behind this view","items":[{"value":"2","label":"nights, November 7 and 8, on which green crackers are allowed in Delhi-NCR this year"},{"value":"350","label":"approximate Delhi AQI at 8 am the morning after Diwali 2025, under similar rules"},{"value":"36 of 38","label":"Delhi monitoring stations in the red zone that morning"}]}
 ```

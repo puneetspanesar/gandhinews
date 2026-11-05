@@ -61,9 +61,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Facts drawn from the desk's reporting of 11-13 October on the tanker attacks, the Rezaei-Doval call and Iran's conditions (see linked stories and their sources)."
-    - "Crew counts (Petro Dolphin 11 Indian crew, 9 rescued, 2 missing; Valthera 11 safe; Gem No. 2 22 safe), DGMA 15 July bar and 5 August consent advisory, the July death on MT Al Bahiyah and the India-Liberia Group of Friends are from the desk's 12 October seafarers story."
-    - "MEA quote ('Attacks on commercial vessels, seafarers and civilian infrastructure must cease.') is from the MEA statement of 11 October as carried in that story."
+    - "Editorial view of the desk. Facts drawn from the desk's reporting of October 11-13 on the tanker attacks, the Rezaei-Doval call and Iran's conditions (see linked stories and their sources)."
+    - "Crew counts (Petro Dolphin 11 Indian crew, 9 rescued, 2 missing; Valthera 11 safe; Gem No. 2 22 safe), DGMA July 15 bar and August 5 consent advisory, the July death on MT Al Bahiyah and the India-Liberia Group of Friends are from the desk's October 12 seafarers story."
+    - "MEA quote ('Attacks on commercial vessels, seafarers and civilian infrastructure must cease.') is from the MEA statement of October 11 as carried in that story."
     - "The recommendations (war-risk pay, insurance, repatriation as conditions; weekly public status) are the desk's own proposals. The piece does not claim the current advisory lacks any specific term beyond notification, consent and vigilance, which is what the desk's reporting records."
 ---
 
@@ -75,7 +75,7 @@ Those men were not soldiers. They were doing a job that keeps fuel moving into I
 
 The Ministry of External Affairs has condemned the attacks and said that "attacks on commercial vessels, seafarers and civilian infrastructure must cease." Shipping Minister Sarbananda Sonowal has said search and rescue is under way. The embassy in Muscat is in touch with Omani authorities. All of that is necessary.
 
-But the main rule that governs whether an Indian sailor goes into the strait is an advisory from the Directorate General of Maritime Administration, issued on 5 August. It allows companies to send Indian crew on Hormuz voyages if they inform the regulator, obtain each seafarer's consent and keep a heightened watch. In effect, the decision to accept the risk of a war zone has been handed to the individual.
+But the main rule that governs whether an Indian sailor goes into the strait is an advisory from the Directorate General of Maritime Administration, issued on August 5. It allows companies to send Indian crew on Hormuz voyages if they inform the regulator, obtain each seafarer's consent and keep a heightened watch. In effect, the decision to accept the risk of a war zone has been handed to the individual.
 
 Consent sounds fair. In practice a junior rating on a contract, far from home, with a family depending on his pay, is rarely in a position to refuse.
 
@@ -96,5 +96,5 @@ Third, India should use its unusual position. It speaks to Tehran, as the call b
 The strait may stay shut for months while Iran and the United States argue over conditions. Indian sailors will keep sailing through it. The least they are owed is a government that shares the risk it is asking them to carry.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"2 missing","label":"Indian seafarers from MT Petro Dolphin, hit off Sohar on 11 October"},{"value":"44","label":"Indian crew aboard three tankers struck between 9 and 11 October"},{"value":"5 August","label":"date of the advisory allowing Hormuz voyages with each seafarer's consent"}]}
+{"title":"The reporting behind this view","items":[{"value":"2 missing","label":"Indian seafarers from MT Petro Dolphin, hit off Sohar on October 11"},{"value":"44","label":"Indian crew aboard three tankers struck between October 9 and 11"},{"value":"August 5","label":"date of the advisory allowing Hormuz voyages with each seafarer's consent"}]}
 ```

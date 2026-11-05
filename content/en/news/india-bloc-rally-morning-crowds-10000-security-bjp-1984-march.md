@@ -22,7 +22,7 @@ hero:
     value: "10,000 on duty as crowds arrive"
 related: [india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, sirsa-rahul-november-1-rally-1984-sikhs, bjp-hits-back-at-india-bloc-march-adityanath-thakur]
 seo:
-  description: "INDIA bloc rally at Ramlila Maidan, 1 November 2026: crowds gather demanding CEC Gyanesh Kumar's resignation, 10,000 security personnel deployed, Section 163 imposed, BJP 1984 march in Hari Nagar."
+  description: "INDIA bloc rally at Ramlila Maidan, November 1, 2026: crowds gather demanding CEC Gyanesh Kumar's resignation, 10,000 security personnel deployed, Section 163 imposed, BJP 1984 march in Hari Nagar."
 sources:
   - title: "Delhi deploys 10,000 personnel, announces traffic curbs ahead of INDIA bloc rally"
     publisher: "ANI"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 08:30 to 09:30 IST, crowds arriving at Ramlila Maidan and remarks by Bhagat and Udit Raj; ANI stories time-stamped 09:03, 09:16 and 09:29 IST."
+    - "event: Nov 1 08:30 to 09:30 IST, crowds arriving at Ramlila Maidan and remarks by Bhagat and Udit Raj; ANI stories time-stamped 09:03, 09:16 and 09:29 IST."
     - "Single outlet (ANI, three stories). 10,000 total and 4,000-plus around the venue from ANI; the earlier preview gave 4,000-plus for the venue, consistent."
     - "DCP Rohit Rajbir gave 200-250 and then about 250 CCTV cameras; copy uses 'about 250'."
     - "Protesters' claims (10 lakh mobilised, vehicles stopped in Haryana) are their claims, attributed and hedged. No EC or government response in sources."

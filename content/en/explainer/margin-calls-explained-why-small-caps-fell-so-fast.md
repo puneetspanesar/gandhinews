@@ -48,11 +48,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Index figures and the Ambareesh Baliga quote from the desk's 23 October news story (Business Standard); the Business Standard page could not be re-opened in this run."
-    - "MTF history (2004, reviewed 2017), Group I eligibility, the 20% initial margin in SEBI's worked example (VaR 9.5%, ELM 3.5%, VaR + 3 ELM), wrong-way risk, liquidation on unmet calls and the 18 June 2026 proposals (5.5 times net worth, ₹5 crore net worth, 30-day rebalancing) from the SEBI consultation paper. Final SEBI decision on the paper not checked."
-    - "Current cap of 5 times net worth on MTF borrowing and the 1 July 2026 secured-lending rule from the Vinod Kothari presentation. Its typical interest rate (about 0.04% a day) is a broker example; copy says rates vary and gives no number."
-    - "NSE outstanding MTF book ₹1,22,151 crore as of 15 May 2026, about half in non-F&O stocks, and Kamath's May X post quote from Wealthy's 20 May report. No newer industry figure found."
-    - "The inkl/Economic Times page carries no visible date; sidebar suggests about 23 October 2026. Kamath's 'biggest risk' quote and the ₹9,000 crore Zerodha book are from it; copy says 'this week' only loosely, as 'has said'."
+    - "Index figures and the Ambareesh Baliga quote from the desk's October 23 news story (Business Standard); the Business Standard page could not be re-opened in this run."
+    - "MTF history (2004, reviewed 2017), Group I eligibility, the 20% initial margin in SEBI's worked example (VaR 9.5%, ELM 3.5%, VaR + 3 ELM), wrong-way risk, liquidation on unmet calls and the June 18, 2026, proposals (5.5 times net worth, ₹5 crore net worth, 30-day rebalancing) from the SEBI consultation paper. Final SEBI decision on the paper not checked."
+    - "Current cap of 5 times net worth on MTF borrowing and the July 1, 2026, secured-lending rule from the Vinod Kothari presentation. Its typical interest rate (about 0.04% a day) is a broker example; copy says rates vary and gives no number."
+    - "NSE outstanding MTF book ₹1,22,151 crore as of May 15, 2026, about half in non-F&O stocks, and Kamath's May X post quote from Wealthy's May 20 report. No newer industry figure found."
+    - "The inkl/Economic Times page carries no visible date; sidebar suggests about October 23, 2026. Kamath's 'biggest risk' quote and the ₹9,000 crore Zerodha book are from it; copy says 'this week' only loosely, as 'has said'."
     - "The worked example in the compare block is the desk's own arithmetic on SEBI's 20% margin illustration, not a real account. Actual shortfall rules depend on broker terms and daily margin rates."
     - "How much of this week's fall was caused by margin calls is an analyst view, attributed to Baliga; no data on liquidations was found."
 ---
@@ -95,7 +95,7 @@ The effect is strongest in smaller companies, where fewer shares change hands. I
 
 **Very big, and much of it is in the riskier end of the market.**
 
-The NSE's outstanding MTF book stood at ₹1,22,151 crore on 15 May 2026, having grown sharply since 2020, and roughly half of it was in stocks that are not traded in the futures and options segment. Those tend to be smaller and less liquid companies.
+The NSE's outstanding MTF book stood at ₹1,22,151 crore on May 15, 2026, having grown sharply since 2020, and roughly half of it was in stocks that are not traded in the futures and options segment. Those tend to be smaller and less liquid companies.
 
 Nithin Kamath, co-founder of the broker Zerodha, warned in May that "if markets crash, brokers could end up holding losses from MTF positions they can't exit." He has also said his firm's own book is about ₹9,000 crore, and that "in terms of pure risk, MTF is by far the biggest risk we have taken since we started in 2010."
 
@@ -109,6 +109,6 @@ The client loses their own money first. If prices fall so fast that the shares s
 
 **It has proposed changes, though they are aimed more at plumbing than at cutting leverage.**
 
-In a consultation paper on 18 June 2026, SEBI proposed raising the minimum net worth for brokers offering MTF from ₹3 crore to ₹5 crore, an overall limit of 5.5 times net worth, a uniform rights and obligations document for clients, and a 30-day window to rebalance when a stock drops out of Group I. It kept the higher margin for positions where a client's cash funds the purchase and the shares become the security. A separate review of which stocks qualify is due.
+In a consultation paper on June 18, 2026, SEBI proposed raising the minimum net worth for brokers offering MTF from ₹3 crore to ₹5 crore, an overall limit of 5.5 times net worth, a uniform rights and obligations document for clients, and a 30-day window to rebalance when a stock drops out of Group I. It kept the higher margin for positions where a client's cash funds the purchase and the shares become the security. A separate review of which stocks qualify is due.
 
 For investors, the lesson of the week is an old one. Borrowed money multiplies gains on the way up and losses on the way down, and in a falling market it is the broker, not the investor, who decides when to sell.

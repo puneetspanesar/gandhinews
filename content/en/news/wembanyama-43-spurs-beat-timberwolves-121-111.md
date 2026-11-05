@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 07:45 IST (game tipped 8:00 pm EDT Sat 31 Oct = 05:30 IST; final in the 08:00 IST window)."
-    - "Final score 121-111, Wembanyama 43 pts (17-34 FG, 3-8 3PT, 6-9 FT), 7 reb, 4 ast, 6 blk, 1 stl, 33 min, career-high 34 FGA, second-highest career total behind 50 v Wizards 13 Nov 2024, season-high 36 v Jazz Wednesday, October averages 28.0 pts / 10.7 reb / 4.2 blk: RotoWire (single source for the result; CBS gametracker showed FINAL but no score; ESPN/Covers pages were stale)."
+    - "event: Nov 1 about 07:45 IST (game tipped 8:00 pm EDT Sat Oct 31 = 05:30 IST; final in the 08:00 IST window)."
+    - "Final score 121-111, Wembanyama 43 pts (17-34 FG, 3-8 3PT, 6-9 FT), 7 reb, 4 ast, 6 blk, 1 stl, 33 min, career-high 34 FGA, second-highest career total behind 50 v Wizards Nov 13, 2024, season-high 36 v Jazz Wednesday, October averages 28.0 pts / 10.7 reb / 4.2 blk: RotoWire (single source for the result; CBS gametracker showed FINAL but no score; ESPN/Covers pages were stale)."
     - "Edwards out after Thursday knee surgery, up to two months; Finch quote; Spurs 0-2 then three straight wins; Wolves beat Clippers 127-101 Friday; homestand v Utah Monday, Dallas Wednesday: CBS Sports preview. Pregame records SA 3-2, MIN 4-2: ESPN. No post-game quotes or other players' lines found; none used."
 ---
 

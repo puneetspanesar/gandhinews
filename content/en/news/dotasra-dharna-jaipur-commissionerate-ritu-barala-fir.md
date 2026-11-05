@@ -22,7 +22,7 @@ hero:
     value: "Sit-in until the FIR is filed"
 related: [rahul-gandhi-goa-rally-modi-shah-cec-vote-chori]
 seo:
-  description: "Rajasthan Congress chief Govind Singh Dotasra began a sit-in at the Jaipur police commissionerate on 19 October seeking a zero FIR against a Delhi Police constable over NSUI leader Ritu Barala's alleged assault."
+  description: "Rajasthan Congress chief Govind Singh Dotasra began a sit-in at the Jaipur police commissionerate on October 19 seeking a zero FIR against a Delhi Police constable over NSUI leader Ritu Barala's alleged assault."
 sources:
   - title: "Rajasthan: Congress stages overnight dharna for filing of FIR against Delhi Police"
     publisher: "UNI"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Dharna details from UNI (7:14 pm) and Amar Ujala (8:28 pm). Neither reported an outcome by publication; no later report found by 5:30 am, so the story says only that the sit-in began and was set to continue overnight."
     - "Lal Kothi police station's refusal from UNI. Dotasra's Hindi quotes from Amar Ujala, translated."
-    - "Rahul Gandhi's allegation naming constable Chanchal Yadav and the Kerala zero FIR from ETV Bharat (16 Oct). The constable is not named in the headline or lead; it is his allegation. No Delhi Police response found."
+    - "Rahul Gandhi's allegation naming constable Chanchal Yadav and the Kerala zero FIR from ETV Bharat (Oct 16). The constable is not named in the headline or lead; it is his allegation. No Delhi Police response found."
     - "Exact date and place of the Delhi incident not given in sources; described as during the protests against the CEC last week."
 ---
 
@@ -58,7 +58,7 @@ Dotasra arrived at the commissionerate at about 6:15 pm with Ritu Barala, a Nati
 
 Barala was among the students detained during last week's protests in Delhi against Chief Election Commissioner Gyanesh Kumar. A video of her scuffle with a woman constable during a bus detention spread widely on social media. Barala alleges she was beaten and abused by Delhi Police personnel.
 
-After the incident she met Rahul Gandhi, who phoned Dotasra on 16 October and asked him to help her register a case in Rajasthan. Gandhi named the constable as Chanchal Yadav and alleged that she "beat her and tore her clothes". He said Delhi Police was refusing to register an FIR, and that a zero FIR had already been filed in Kerala over the assault of another student, Athira, after he spoke to the state's Home Minister, Ramesh Chennithala.
+After the incident she met Rahul Gandhi, who phoned Dotasra on October 16 and asked him to help her register a case in Rajasthan. Gandhi named the constable as Chanchal Yadav and alleged that she "beat her and tore her clothes". He said Delhi Police was refusing to register an FIR, and that a zero FIR had already been filed in Kerala over the assault of another student, Athira, after he spoke to the state's Home Minister, Ramesh Chennithala.
 
 "The brutality of the Delhi Police under Amit Shah will not be allowed to go unaccounted," Gandhi wrote on social media at the time. Delhi Police has not publicly responded to the allegations.
 

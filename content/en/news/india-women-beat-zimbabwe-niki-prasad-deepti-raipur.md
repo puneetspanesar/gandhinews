@@ -50,7 +50,7 @@ verification:
     - "Totals and margin from Wisden results: ZIM-W 114-5 (20), IND-W 116-6 (15.4), India won by 4 wickets. RevSportz gives target 115, consistent."
     - "Toss (India bowled), Mayers 43* off 33, Ndhlovu-Mupachikwa 53 for 2nd wicket, Arundhati Reddy 1 for 30 in 3 overs, Gwanzura dismissing Mandhana, 19/4, Prasad (20, debut) and Deepti finishing: RevSportz only. That piece mentions an unbeaten 39 but it is unclear whether Deepti or Prasad made it, so no individual India scores are given. Mandhana's score not given."
     - "Deepti quote is the headline of a RevSportz piece ('It didn't feel like she was making her debut': Deepti Sharma on Niki Prasad); full article not read, so no more is quoted."
-    - "Player of the match not found. Next T20Is 18 and 20 Oct, Raipur, 7 pm (Wisden)."
+    - "Player of the match not found. Next T20Is Oct 18 and 20, Raipur, 7 pm (Wisden)."
 ---
 
 India won Smriti Mandhana's first match as captain by four wickets against Zimbabwe in Raipur on Friday night, but the margin hides an evening when the visitors had India's top order in real trouble.
@@ -67,4 +67,4 @@ Arundhati Reddy took one wicket but went for 30 in her three overs. Zimbabwe los
 
 ## What comes next
 
-The three-match series continues in Raipur with the second T20I on Sunday, 18 October, and the third on Tuesday, 20 October, both starting at 7 pm. India's batters will want a steadier start against a Zimbabwe attack that showed on Friday it can bite.
+The three-match series continues in Raipur with the second T20I on Sunday, October 18, and the third on Tuesday, October 20, both starting at 7 pm. India's batters will want a steadier start against a Zimbabwe attack that showed on Friday it can bite.

@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Full text read only from WTX News (appears to carry the Al Jazeera report, 19:00 UTC 20 Oct). Oxfam press release page rate-limited, not read; Al Jazeera page headline only. Figures match across headlines (42%)."
+    - "Full text read only from WTX News (appears to carry the Al Jazeera report, 19:00 UTC Oct 20). Oxfam press release page rate-limited, not read; Al Jazeera page headline only. Figures match across headlines (42%)."
     - "Survey sample size and method not reported. 2000-2019 share of about 39% is Oxfam to the outlet."
     - "Keiko Fujimori sworn in as president in July as stated in source; not independently checked on this run."
 ---

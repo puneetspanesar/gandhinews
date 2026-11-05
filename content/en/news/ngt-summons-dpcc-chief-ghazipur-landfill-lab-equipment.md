@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Tribune, 5:52 am IST, 17 Oct), on Friday's hearing. NGT order not checked on the tribunal's site. Dates of the previous order and of the next hearing not reported; left out."
+    - "Single source (The Tribune, 5:52 am IST, Oct 17), on Friday's hearing. NGT order not checked on the tribunal's site. Dates of the previous order and of the next hearing not reported; left out."
     - "Case described as the Ghazipur landfill fire case, taken up on the basis of a news report (suo motu application); date of the fire not given."
 ---
 

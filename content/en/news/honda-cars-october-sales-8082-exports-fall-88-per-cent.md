@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 20:10 IST, Honda Cars India October wholesale figures (Whalesbook story stamped 8:10 pm IST / 14:40 UTC)."
+    - "event: Nov 1 about 20:10 IST, Honda Cars India October wholesale figures (Whalesbook story stamped 8:10 pm IST / 14:40 UTC)."
     - "October split (8,082 total, 7,609 domestic, 473 exports, 4,124 exports a year ago) from Whalesbook only; Autocar India independently confirms October 2025 domestic base of 6,394. September split (6,955 total, 4,465 domestic, 2,490 exports) from Autocar India."
     - "No company quote found; no model-wise numbers. Whalesbook also gave HMSI two-wheelers at 734,566 (+13%) but single-source and close to Hero's figure, so left out."
 ---

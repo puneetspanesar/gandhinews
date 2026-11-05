@@ -38,9 +38,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Jio anchor figures (72.4 million shares at ₹1,119, ₹8,110 crore, bids above ₹2.5 lakh crore and over 30 times, LIC ₹500 crore, ADIA only existing shareholder to ask for more, Samco analyst quote, issue 21-23 Oct, ₹30,213 crore) are from the desk's 20 Oct news story and its Business Standard source. Bid figures are indicative, as bankers described them."
+    - "Jio anchor figures (72.4 million shares at ₹1,119, ₹8,110 crore, bids above ₹2.5 lakh crore and over 30 times, LIC ₹500 crore, ADIA only existing shareholder to ask for more, Samco analyst quote, issue Oct 21-23, ₹30,213 crore) are from the desk's Oct 20 news story and its Business Standard source. Bid figures are indicative, as bankers described them."
     - "Rules (eligible institutions, ₹10 crore minimum application, up to 60% of QIB portion, bidding one working day before the issue opens, 50% locked for 30 days and 50% for 90 days) from Groww's explainer; SEBI's ICDR regulations were not opened. Groww's page is muddled on the 60%/40% point; Business Standard makes clear the 40% is a reservation inside the anchor portion, so the copy follows BS."
-    - "2025 change (notification 31 Oct 2025, effective 30 Nov 2025: 40% of anchor portion reserved, 33% for mutual funds and 7% for insurers and pension funds, unused part of the 7% to mutual funds; 5 to 15 anchors for allocations up to ₹250 crore, ₹5 crore minimum allotment, categories merged) from Business Standard, 6 Nov 2025."
+    - "2025 change (notification Oct 31, 2025, effective Nov 30, 2025: 40% of anchor portion reserved, 33% for mutual funds and 7% for insurers and pension funds, unused part of the 7% to mutual funds; 5 to 15 anchors for allocations up to ₹250 crore, ₹5 crore minimum allotment, categories merged) from Business Standard, Nov 6, 2025."
     - "Rule that anchors pay the difference if the final issue price is set above the anchor price, with no refund if it is set below, is the standard ICDR provision; Groww mentions only the first half. Not material for Jio, whose anchors paid the top of the band."
     - "Retail lottery for minimum lot in an oversubscribed issue and the ₹2 lakh retail ceiling are long-standing SEBI rules stated from desk knowledge; no 2026 document opened. Groww date is a placeholder; page undated in fetch."
     - "Jio's allotment and exact lock-in end dates not published in what we read; copy gives them relative to allotment only."
@@ -62,7 +62,7 @@ The idea, borrowed from markets abroad, is simple. If well-known funds are willi
 
 **Up to 60% of the institutional portion.** In a typical large issue that works out to a little under a third of all the shares on offer. At Jio Platforms the anchors took ₹8,110 crore of a ₹30,213 crore issue, roughly a quarter.
 
-SEBI has also decided who inside that anchor book gets first claim. Since 30 November 2025, 40% of the anchor portion is set aside for Indian long-term money: 33% for domestic mutual funds and 7% for insurers and pension funds. If insurers and pension funds do not take up their share, it goes to mutual funds. The regulator said the change was meant to "broaden the participation of long-term institutional investors in the IPOs". The same reform allowed between five and 15 anchors for allocations of up to ₹250 crore, each getting at least ₹5 crore.
+SEBI has also decided who inside that anchor book gets first claim. Since November 30, 2025, 40% of the anchor portion is set aside for Indian long-term money: 33% for domestic mutual funds and 7% for insurers and pension funds. If insurers and pension funds do not take up their share, it goes to mutual funds. The regulator said the change was meant to "broaden the participation of long-term institutional investors in the IPOs". The same reform allowed between five and 15 anchors for allocations of up to ₹250 crore, each getting at least ₹5 crore.
 
 That is why the Life Insurance Corporation of India, SBI Mutual Fund and HDFC Mutual Fund sit alongside Capital Group, BlackRock and Singapore's government on Jio's list.
 

@@ -22,7 +22,7 @@ hero:
     value: "Federal Bank's best quarter yet"
 related: [sensex-nifty-it-rally-weekly-gain-october-16, polycab-hdfc-life-irfc-q2-results-roundup, yes-bank-shares-crash-supreme-court-at1-bonds]
 seo:
-  description: "Federal Bank's Q2 net profit rose 45% to a record ₹1,386 crore and PNB's rose 12.8% to ₹5,532 crore on 16 October 2026 as both banks cut bad loans."
+  description: "Federal Bank's Q2 net profit rose 45% to a record ₹1,386 crore and PNB's rose 12.8% to ₹5,532 crore on October 16, 2026, as both banks cut bad loans."
 sources:
   - title: "Federal Bank Q2 earnings: Net profit at record high, asset quality improves"
     publisher: "Business Today"
@@ -52,11 +52,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Federal Bank figures and KVS Manian quote from Business Today (16 Oct). The APAC headline agrees on 45% and Rs 1,386 crore; body not read."
+    - "Federal Bank figures and KVS Manian quote from Business Today (Oct 16). The APAC headline agrees on 45% and Rs 1,386 crore; body not read."
     - "PNB figures from APAC News Network (Noida, 6:04 pm) only; NII Rs 11,601 crore confirmed by Upstox live-blog headline. APAC gave Q2 total income growth as 5.4% in one place and 2.7% in another; total income not used. PNB deposits and gross/net NPA ratios not reported; only absolute NPA amounts used."
     - "Federal Bank share close Rs 337 vs Rs 335 from Business Today. PNB share move not found."
     - "Exact release times not found; published time set to early evening."
-    - "JM Financial NIM expectation from TradingView (Moody's/ preview) Q2 bank preview, 16 Oct."
+    - "JM Financial NIM expectation from TradingView (Moody's/ preview) Q2 bank preview, Oct 16."
 ---
 
 Federal Bank reported the most profitable quarter in its history on Friday, with net profit up 45.1% to ₹1,386.09 crore for the three months to September, as the Kerala-based lender earned more on its loans and set aside less for bad ones. Punjab National Bank, the Delhi-based state-run lender, also reported higher earnings, with profit up 12.8% to ₹5,532 crore.

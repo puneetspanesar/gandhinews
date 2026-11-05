@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Al Jazeera, 23 Oct. Trump's fuller remark not retrieved; only 'disloyal' used as quote. Stearns and Bullock quotes verbatim. Vance's 'whining' as given."
-    - "Stepfather died 2004 and had been charged with rape per report. Polls: Acton narrowly ahead, no numbers given. Election day 3 Nov (US midterms)."
-    - "Existing story vivek-ramaswamy-ohio-governor-race-amy-acton (20 Oct) does not mention the ad (grep Donna Arthur)."
+    - "Single source: Al Jazeera, Oct 23. Trump's fuller remark not retrieved; only 'disloyal' used as quote. Stearns and Bullock quotes verbatim. Vance's 'whining' as given."
+    - "Stepfather died 2004 and had been charged with rape per report. Polls: Acton narrowly ahead, no numbers given. Election day Nov 3 (US midterms)."
+    - "Existing story vivek-ramaswamy-ohio-governor-race-amy-acton (Oct 20) does not mention the ad (grep Donna Arthur)."
 ---
 
 President Donald Trump has told Vivek Ramaswamy to keep running a television advertisement in which the estranged mother of his Democratic rival for Ohio governor, Amy Acton, urges voters to reject her, and accused Ohio's Republican governor of being "disloyal" for opposing it.
@@ -49,4 +49,4 @@ The spot has split Ohio Republicans. Governor Mike DeWine, who is term-limited a
 
 Vice President JD Vance, campaigning with Ramaswamy, waved away Republican criticism as "whining".
 
-Polls show Acton, a former state health director, narrowly ahead in one of the closest governor's races of the 3 November midterms. Ramaswamy, the Indian-American biotech entrepreneur who ran for the Republican presidential nomination in 2024, is seeking to keep the governorship in Republican hands.
+Polls show Acton, a former state health director, narrowly ahead in one of the closest governor's races of the November 3 midterms. Ramaswamy, the Indian-American biotech entrepreneur who ran for the Republican presidential nomination in 2024, is seeking to keep the governorship in Republican hands.

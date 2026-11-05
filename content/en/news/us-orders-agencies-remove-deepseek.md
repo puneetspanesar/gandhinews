@@ -26,7 +26,7 @@ seo:
 verification:
   status: approved
   notes:
-    - "Order is FASCSA Exclusion and Removal Order 2026-01, signed by DHS Secretary Markwayne Mullin. Cyberpress says the order was first issued 24 July 2026 with a Federal Register notice on 20 October; Tech Insider dates it 19 October. Copy says the notice was made public this week and avoids an exact signing date. TechCrunch article could not be fetched; headline only. No DeepSeek or Chinese response found. Washington Times page failed to load."
+    - "Order is FASCSA Exclusion and Removal Order 2026-01, signed by DHS Secretary Markwayne Mullin. Cyberpress says the order was first issued July 24, 2026, with a Federal Register notice on October 20; Tech Insider dates it October 19. Copy says the notice was made public this week and avoids an exact signing date. TechCrunch article could not be fetched; headline only. No DeepSeek or Chinese response found. Washington Times page failed to load."
 sources:
   - title: "US Government Orders Removal of DeepSeek AI From Federal Agency Systems"
     publisher: "Cyber Press"

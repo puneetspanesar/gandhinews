@@ -21,7 +21,7 @@ hero:
     value: "Profit up 86%, shares up 10%"
 related: [sensex-nifty-rupee-close-october-15, tcs-q2-profit-ai-revenue-crosses-3-billion]
 seo:
-  description: "Tata Communications Q2 FY27 net profit rose 86% to ₹341 crore and EBITDA hit ₹1,422 crore; shares jumped over 10% on 15 October 2026."
+  description: "Tata Communications Q2 FY27 net profit rose 86% to ₹341 crore and EBITDA hit ₹1,422 crore; shares jumped over 10% on October 15, 2026."
 sources:
   - title: "Tata Communications Q2 FY27 result: Net profit rises 86%; digital platform revenue grows 18.6% YoY"
     publisher: "Upstox"

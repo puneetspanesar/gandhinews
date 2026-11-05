@@ -26,7 +26,7 @@ cover:
   headline: "Murasu 200 km off Chennai, schools shut"
 related: [cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
-  description: "Severe cyclonic storm Murasu was 200 km off Chennai and 260 km from Ongole at 5:30 am on 2 November, moving faster towards the Andhra coast. Schools are shut in three states."
+  description: "Severe cyclonic storm Murasu was 200 km off Chennai and 260 km from Ongole at 5:30 am on November 2, moving faster towards the Andhra coast. Schools are shut in three states."
 sources:
   - title: "Cyclone Murasu Intensifies Into Severe Storm, Now 200 KM From Chennai: IMD"
     publisher: "OMMCOM News"
@@ -51,10 +51,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, IMD bulletin based on 5:30 am observations, reported by OMMCOM at 08:22 IST (02:52 UTC); schools-shut entries on ETV Bharat live blog at 7:04 and 7:13 am IST. New development on the 02:25 IST story: storm closer (200 km from Chennai vs 260 km at 2:30 am) and faster (25 km/h vs 20 km/h)."
+    - "event: Nov 2, IMD bulletin based on 5:30 am observations, reported by OMMCOM at 08:22 IST (02:52 UTC); schools-shut entries on ETV Bharat live blog at 7:04 and 7:13 am IST. New development on the 02:25 IST story: storm closer (200 km from Chennai vs 260 km at 2:30 am) and faster (25 km/h vs 20 km/h)."
     - "5:30 am position, distances and 25 km/h WNW movement: OMMCOM only (single source), citing IMD. IMD bulletin itself not opened. OMMCOM says landfall 'around midnight'; the 11:30 pm to 4 am window is from the 2:30 am bulletin (India TV, ETV Bharat)."
     - "2:30 am position (260 km ENE Chennai, 330 km SE Ongole, 20 km/h NW): India TV 07:27 IST and Open 08:09 IST. Surge figures: ETV Bharat 7:16 am entry."
-    - "School closures: Chennai (Collector S Malathi Helan) and Tiruvallur from ETV Bharat and India TV; NTR, Palnadu, Nellore, Gudur and Malkangiri (2-4 Nov) from ETV Bharat only."
+    - "School closures: Chennai (Collector S Malathi Helan) and Tiruvallur from ETV Bharat and India TV; NTR, Palnadu, Nellore, Gudur and Malkangiri (Nov 2-4) from ETV Bharat only."
     - "Rayagada preparations and Kahanra quote: Open (single source). Name spelt 'Kahanra' as in source; may be Kanhar. Manorama Mohanty paraphrase from India TV."
     - "Hero 'Kavali' may have few Commons photos; fallback Nellore coast."
 ---
@@ -70,10 +70,10 @@ The IMD expects Murasu to **cross between Nellore and Narsapur, close to Ongole*
 Chennai Collector S Malathi Helan declared Monday **a holiday for schools and colleges**, and Tiruvallur district did the same under an orange alert for heavy to very heavy rain. In Andhra Pradesh, schools and colleges are shut in NTR district, which includes Vijayawada, and in Palnadu, Nellore and Gudur.
 
 ```photo
-{"n":1,"subject":"Malkangiri","caption":"A Bonda woman at a market in Malkangiri district, southern Odisha, where schools, colleges and anganwadi centres are shut from 2 to 4 November and may serve as cyclone shelters.","alt":"A Bonda woman at a market in Malkangiri district, Odisha (file photo)"}
+{"n":1,"subject":"Malkangiri","caption":"A Bonda woman at a market in Malkangiri district, southern Odisha, where schools, colleges and anganwadi centres are shut from November 2 to 4 and may serve as cyclone shelters.","alt":"A Bonda woman at a market in Malkangiri district, Odisha (file photo)"}
 ```
 
-In Odisha, the Malkangiri administration has closed all schools, colleges and anganwadi centres **from 2 to 4 November**, saying the buildings may be used as temporary cyclone shelters.
+In Odisha, the Malkangiri administration has closed all schools, colleges and anganwadi centres **from November 2 to 4**, saying the buildings may be used as temporary cyclone shelters.
 
 ## Odisha's south gets ready
 
@@ -85,4 +85,4 @@ Manorama Mohanty, director of the Meteorological Centre in Bhubaneswar, said rai
 
 "The administration has deployed fire station teams and machinery for road clearance," said Ravindranath Kahanra, Additional District Magistrate of Rayagada.
 
-Fishing is suspended, and the IMD has told fishermen to **stay out of the Bay of Bengal**, where seas will stay rough to very rough until 4 November.
+Fishing is suspended, and the IMD has told fishermen to **stay out of the Bay of Bengal**, where seas will stay rough to very rough until November 4.

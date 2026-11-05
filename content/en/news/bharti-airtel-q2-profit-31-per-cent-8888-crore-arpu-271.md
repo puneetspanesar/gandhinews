@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 2026, results filed after market close; first reports about 17:00 IST (Upstox updated 17:05 IST, NewsBytes 17:08 IST). Exact filing time not seen."
+    - "event: Nov 5, 2026, results filed after market close; first reports about 17:00 IST (Upstox updated 17:05 IST, NewsBytes 17:08 IST). Exact filing time not seen."
     - "Upstox headline says 9% YoY but the 9% is against Q1 FY27 profit of ₹8,167 cr (QoQ). NewsBytes gives 31% YoY; consistent with Q2 FY26 profit of ₹6,792 cr reported in Nov 2025 (IANS). Year-ago revenue ₹52,145 cr (NewsBytes), so +16.7%. Zee Business headline (not fetched) said revenue up 17%, ARPU beat estimates."
     - "CNBC-TV18 profit estimate ₹9,209 cr via NewsBytes; written as analysts' estimate without outlet name. Share close ₹2,056.90, down 0.52% on NSE (Upstox). Not a market story; share line is context only."
 infographic:

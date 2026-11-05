@@ -31,9 +31,9 @@ infographic:
   dek: "India pitches digital public infrastructure and trade deals to the Commonwealth"
   motif: globe
   timeline:
-    - {date: "30-31 Oct", text: "G20 Foreign Ministers' Meeting, Atlanta", icon: globe}
-    - {date: "3 Nov", text: "Sibi George at pre-CHOGM foreign ministers' meeting", icon: chats}
-    - {date: "4 Nov", text: "Jaishankar at CHOGM executive session", icon: handshake}
+    - {date: "Oct 30-31", text: "G20 Foreign Ministers' Meeting, Atlanta", icon: globe}
+    - {date: "Nov 3", text: "Sibi George at pre-CHOGM foreign ministers' meeting", icon: chats}
+    - {date: "Nov 4", text: "Jaishankar at CHOGM executive session", icon: handshake}
   source: "External Affairs Minister's post on X and MEA, November 4, 2026"
 related: []
 seo:
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Jaishankar's X post on the executive session, reported 06:53 IST 4 Nov (ANI dateline Nov 4). Session itself likely held Tuesday local time in Antigua (UTC-4); day kept vague in copy."
+    - "event: Jaishankar's X post on the executive session, reported 06:53 IST Nov 4 (ANI dateline Nov 4). Session itself likely held Tuesday local time in Antigua (UTC-4); day kept vague in copy."
     - "Single source (ANI via Daily Prabhat). Only the phrase 'Honoured to represent India' is quoted verbatim; the rest is paraphrase. Quad meeting date not given, left out of timeline."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "FIIs buy ₹3,115 crore"
 related: [sensex-nifty-close-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, fii-net-sellers-2697-crore-week-dii-buy-10942-crore, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
-  description: "FII DII data 2 November 2026: foreign institutional investors net bought ₹3,114.68 crore of Indian shares, DIIs net sold ₹392.20 crore as Sensex rose 1,233 points."
+  description: "FII DII data November 2, 2026: foreign institutional investors net bought ₹3,114.68 crore of Indian shares, DIIs net sold ₹392.20 crore as Sensex rose 1,233 points."
 cover:
   template: business
   label: "FII flows"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov evening (after about 18:30 IST), NSE provisional FII/DII cash-market figures for 2 Nov. Exact release time not seen; Trendlyne page fetched about 20:15 IST showed the 2 Nov row."
+    - "event: Nov 2 evening (after about 18:30 IST), NSE provisional FII/DII cash-market figures for Nov 2. Exact release time not seen; Trendlyne page fetched about 20:15 IST showed the Nov 2 row."
     - "Net figures (FII/FPI +Rs 3,114.68 cr, DII -Rs 392.20 cr) from Trendlyne summary only; gross buy/sell values did not load and are left out. Single source for flows; nse site not fetched."
     - "Market context (Sensex 75,692.78 +1,233.25, Nifty 23,440.80, Reliance +11.6%, Nifty Oil & Gas +5.95%, about Rs 6,300 cr FPI buying last week, 2026 net outflow Rs 2.95 lakh crore) from this site's close story, sourced to the Upstox market wrap."
 ---
@@ -68,7 +68,7 @@ The flows matched the mood on the trading floor. The Sensex closed **up 1,233.25
 Monday's purchase extends a change of direction. Overseas investors had bought **about ₹6,300 crore last week**, after a long run of selling that has left their net outflow from Indian equities in 2026 at ₹2.95 lakh crore. Even with Monday's purchase, the money that has come back is **small against that year-long outflow**.
 
 ```infographic
-{"title":"Institutional flows, Monday 2 November","items":[{"icon":"globe-hemisphere-east","value":"+₹3,114.68 crore","label":"Foreign institutions","text":"Net buyers in the cash market."},{"icon":"bank","value":"-₹392.20 crore","label":"Domestic institutions","text":"Small net sellers on the day."},{"icon":"trend-up","value":"1,233 points","label":"Sensex gain","text":"Third straight session of gains."}]}
+{"title":"Institutional flows, Monday, November 2","items":[{"icon":"globe-hemisphere-east","value":"+₹3,114.68 crore","label":"Foreign institutions","text":"Net buyers in the cash market."},{"icon":"bank","value":"-₹392.20 crore","label":"Domestic institutions","text":"Small net sellers on the day."},{"icon":"trend-up","value":"1,233 points","label":"Sensex gain","text":"Third straight session of gains."}]}
 ```
 
 The figures are provisional and can be revised when the exchanges publish final data. Whether the buying lasts will be tested this week, with the **US midterm elections on Tuesday** and State Bank of India among the companies due to report September-quarter results.

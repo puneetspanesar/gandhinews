@@ -6,12 +6,12 @@ section: politics
 format_label: "Politics / Tamil Nadu"
 topics: [states]
 title: "'What is so exceptional for 2026?' Madras High Court presses state on RSS march refusal"
-standfirst: "Justice V Lakshminarayanan said the state was treating citizens as enemies by refusing processions. The RSS wants to march on 18 October or later dates."
+standfirst: "Justice V Lakshminarayanan said the state was treating citizens as enemies by refusing processions. The RSS wants to march on October 18 or later dates."
 published: 2026-10-14T18:30:00+05:30
 location: Chennai
 keyPoints:
   - "Justice V Lakshminarayanan asked the state why it refused the RSS **when courts allow the marches every year**."
-  - "The RSS member's plea seeks permission for route marches **on 18 October, 25 October or 1 November**."
+  - "The RSS member's plea seeks permission for route marches **on October 18, October 25 or November 1**."
   - "The petitioners were asked to meet the State Public Prosecutor, and the case **returns on Thursday**."
 hero:
   need: "An RSS route march (path sanchalan) with uniformed volunteers and a band"
@@ -21,7 +21,7 @@ hero:
     value: "'State is looking at citizens as enemies'"
 related: [sc-cases-tracker]
 seo:
-  description: "Madras High Court questions Tamil Nadu police for denying RSS route march permission, asking what is exceptional in 2026. The case returns on 15 October."
+  description: "Madras High Court questions Tamil Nadu police for denying RSS route march permission, asking what is exceptional in 2026. The case returns on October 15."
 sources:
   - title: "What is your fear? Madras High Court questions State over refusal to permit RSS marches"
     publisher: "Bar & Bench"
@@ -44,7 +44,7 @@ verification:
     - "VG Jagadeesan v State, WP Crl 2790 of 2026; petitioner spelled Jagadeesan/Jegadeesan. Quotes verbatim from Bar & Bench; 'This government is against any procession...' from LiveLaw alert (12:27 pm)."
     - "Advocate General's name spelled 'Vijay Narayan' (Bar & Bench) and 'Vijaya Narayan' (LiveLaw); not named in copy."
     - "J&K remark ('terrorist infested place like Jammu and Kashmir') is in LiveLaw's report; left out of copy as only partly quoted."
-    - "Districts not named in sources. Adjourned to Thursday 15 Oct (both outlets)."
+    - "Districts not named in sources. Adjourned to Thursday, Oct 15 (both outlets)."
 ---
 
 The Madras High Court on Wednesday sharply questioned the Tamil Nadu government's refusal to allow the Rashtriya Swayamsevak Sangh to hold route marches this month, saying the state appeared to see its own citizens as a threat.
@@ -53,7 +53,7 @@ The Madras High Court on Wednesday sharply questioned the Tamil Nadu government'
 
 ## The plea
 
-The petition, by RSS member V G Jagadeesan, asks the court to direct police to consider his representation and permit route marches with uniforms and a band, followed by a public meeting, on 18 October, 25 October, 1 November or other dates. The organisation wants to mark its founding day, which falls on Vijayadashami.
+The petition, by RSS member V G Jagadeesan, asks the court to direct police to consider his representation and permit route marches with uniforms and a band, followed by a public meeting, on October 18, October 25, November 1 or other dates. The organisation wants to mark its founding day, which falls on Vijayadashami.
 
 Senior advocate N L Rajah, for the petitioner, said police had cited law and order. He argued that the court's earlier procession guidelines were not rigid statutory rules, that police should ask for clarifications instead of rejecting applications, and objected to references to mosques along the proposed routes in the rejection orders. He also asked what smaller groups without the means to come to court were supposed to do.
 

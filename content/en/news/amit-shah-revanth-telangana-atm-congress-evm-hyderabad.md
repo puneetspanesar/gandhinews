@@ -12,7 +12,7 @@ location: Hyderabad
 keyPoints:
   - "Amit Shah said Revanth Reddy had made Telangana **an ATM for Congress leaders in Delhi**."
   - "He asked how Revanth became Chief Minister **if EVMs are faulty**."
-  - "Shah repeated the promise of **a drug-free India before 31 December 2029**."
+  - "Shah repeated the promise of **a drug-free India before December 31, 2029**."
 hero:
   need: "Two-panel split: Union Home Minister Amit Shah, who spoke, and Telangana Chief Minister A Revanth Reddy, whom he attacked"
   suggested_source: "Amit Shah"
@@ -27,7 +27,7 @@ cover:
   bg: "Moazzam Jahi Market"
 related: [amit-shah-hyderabad-padayatra-charminar-sir-congress, ktr-telangana-atm-rahul-gandhi-420-promises, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, himanta-dares-congress-states-to-resign-revanth-attacks-sir]
 seo:
-  description: "At the end of the BJP padayatra in Hyderabad on 2 November 2026, Amit Shah accused CM Revanth Reddy of turning Telangana into an ATM for Congress leaders and mocked the party over EVMs."
+  description: "At the end of the BJP padayatra in Hyderabad on November 2, 2026, Amit Shah accused CM Revanth Reddy of turning Telangana into an ATM for Congress leaders and mocked the party over EVMs."
 sources:
   - title: "\"Revanth Reddy, you have turned Telangana into an ATM for Delhi leaders\": Amit Shah slams Congress at Hyderabad rally"
     publisher: "Daily Prabhat"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, speech at Moazzam Jahi Market roughly 4:45 to 5:30 pm IST. Siasat at 4:04 pm had him at the temple with the march still to come; Times Now Hindi carried speech quotes at 5:33 pm; Hans India 6:02 pm; Daily Prabhat 6:29 pm. Exact start time of speech not reported."
+    - "event: Nov 2, speech at Moazzam Jahi Market roughly 4:45 to 5:30 pm IST. Siasat at 4:04 pm had him at the temple with the march still to come; Times Now Hindi carried speech quotes at 5:33 pm; Hans India 6:02 pm; Daily Prabhat 6:29 pm. Exact start time of speech not reported."
     - "All Shah quotes (ATM, six guarantees, Owaisi/BRS, EVMs, Rs 12 lakh crore, drugs 2029, states won) verbatim from Daily Prabhat English rendering; speech likely partly in Hindi. Single source for these lines."
     - "Route: ThePrint/PTI says Babu Jagjivan Ram statue at Basheerbagh; Hans India says Nizam College Grounds (also Basheerbagh), nearly 4 km, Shah carrying the national flag. Hans India wrongly says 'Tuesday'."
     - "No Congress or Revanth Reddy response found by 6:35 pm."

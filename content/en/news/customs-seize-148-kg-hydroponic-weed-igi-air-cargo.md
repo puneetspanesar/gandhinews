@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single official source: PIB release posted 15 Oct, 6:31 pm IST. Arrested person and importer not named; states searched not named."
+    - "Single official source: PIB release posted Oct 15, 6:31 pm IST. Arrested person and importer not named; states searched not named."
     - "Release calls the material 'suspected to be ganja/marijuana' on preliminary tests; copy says preliminary tests."
 ---
 

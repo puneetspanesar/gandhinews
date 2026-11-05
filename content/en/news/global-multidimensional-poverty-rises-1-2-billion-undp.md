@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Release date: Dawn (13 Oct, Washington) says Monday, i.e. 12 Oct; OPHI page gives no date, file paths say 2026-10. Written as 'released on Monday'."
+    - "Release date: Dawn (Oct 13, Washington) says Monday, i.e. Oct 12; OPHI page gives no date, file paths say 2026-10. Written as 'released on Monday'."
     - "Headline numbers (1.2bn, 18.9%, 108 countries, 6.3bn people, 'first time since 2010') from OPHI pages. 51.5m rise, 617m children, 83% rural, South Asia figures, country figures and De Croo quotes from Dawn only; UNDP press release not read directly."
     - "India, Pakistan and Bangladesh are not among the 13 countries with updated estimates in 2026 (OPHI), so their figures come from older surveys (years not stated in what we read). Flagged in copy as surveys from different years."
     - "OPHI rounds poor share to 18.9%; Dawn gives South Asia 19.3%."

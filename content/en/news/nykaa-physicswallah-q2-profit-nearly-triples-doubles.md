@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov evening IST, results filed after market; Business Standard Nykaa 6:43 pm IST, PhysicsWallah 6:30 pm IST."
-    - "Nykaa (FSN E-Commerce): PAT 101.19 vs 32.98 cr, +26.8% QoQ; revenue 3,006.04 vs 2,345.98 cr; expenses 2,867.05 cr; EBITDA 263 cr (+65%), margin 8.7%; beauty GMV 4,454 cr (+25%), fashion GMV 1,674 cr (+42%), 338 stores; Simply Nam 82%, FY26 turnover 16.99 cr, completion by 31 Dec. No share move in source."
+    - "event: Nov 4 evening IST, results filed after market; Business Standard Nykaa 6:43 pm IST, PhysicsWallah 6:30 pm IST."
+    - "Nykaa (FSN E-Commerce): PAT 101.19 vs 32.98 cr, +26.8% QoQ; revenue 3,006.04 vs 2,345.98 cr; expenses 2,867.05 cr; EBITDA 263 cr (+65%), margin 8.7%; beauty GMV 4,454 cr (+25%), fashion GMV 1,674 cr (+42%), 338 stores; Simply Nam 82%, FY26 turnover 16.99 cr, completion by Dec 31. No share move in source."
     - "PhysicsWallah: PAT 142.29 vs 69.72 cr; Q1 loss 87.04 cr; revenue 1,242.26 vs 1,051.24 cr; online 694 cr (+26.4%), offline 541 cr (+9%); expenses 1,105.4 cr; adj EBITDA 399 cr; treasury 5,268 cr. Source's line on Q1 expenses looks wrong; not used. Share move not in source."
 infographic:
   kicker: September quarter results
@@ -69,7 +69,7 @@ Beauty, its core business, sold goods worth ₹4,454 crore, up 25%, while the fa
 
 "Our performance this quarter reflects the strength of the Nykaa ecosystem," said founder and chief executive Falguni Nayar. "Beauty and fashion are seeing accelerated growth."
 
-The company also agreed to **buy an 82% stake in Simply Nam**, a professional makeup brand set up in 2022 with a turnover of ₹16.99 crore last year. The deal should close by 31 December.
+The company also agreed to **buy an 82% stake in Simply Nam**, a professional makeup brand set up in 2022 with a turnover of ₹16.99 crore last year. The deal should close by December 31.
 
 ## PhysicsWallah back in the black
 

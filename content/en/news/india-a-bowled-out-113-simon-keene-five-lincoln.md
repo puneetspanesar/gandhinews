@@ -22,7 +22,7 @@ hero:
     value: "58 for six on a green top"
 related: [india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
 seo:
-  description: "India A were bowled out for 113 by New Zealand A in Lincoln on 24 October, with Simon Keene taking 5/24 and KL Rahul out for a duck in the first unofficial Test."
+  description: "India A were bowled out for 113 by New Zealand A in Lincoln on October 24, with Simon Keene taking 5/24 and KL Rahul out for a duck in the first unofficial Test."
 sources:
   - title: "KL Rahul, Yashasvi Jaiswal fail as India A bowled out for 113 against New Zealand A"
     publisher: "CricketAddictor"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "India A innings from CricketAddictor only (published 9:45 am IST); cricinfo scorecard could not be fetched. Toss not stated directly; report says India A were asked to bat, written that way."
-    - "Line-up names (Yash Rathod, Mukesh Choudhary, Auqib Nabi) from CricketAddictor; differ from the squad in the 23 Oct PTI preview, which had Mukesh Kumar and Manav Suthar. Akash Deep and Nabi scores not given."
+    - "Line-up names (Yash Rathod, Mukesh Choudhary, Auqib Nabi) from CricketAddictor; differ from the squad in the Oct 23 PTI preview, which had Mukesh Kumar and Manav Suthar. Akash Deep and Nabi scores not given."
     - "Rahul's mode of dismissal unclear (lbw or bowled); written as 'fell to Fraser Sheat'."
     - "NZ A reply rests only on a cricinfo search-result title: Mariu 76*, Curtis Heaphy 34*, Auqib Nabi 0/30. NZ A team score and wickets not known; stumps status not confirmed. Written as 'at last report'."
 ---
@@ -62,6 +62,6 @@ What respectability they reached came from No. 8 Yash Rathod. He struck three fo
 
 New Zealand A made a far better fist of the conditions. At last report Mariu was unbeaten on 76, with Curtis Heaphy on 34, and Auqib Nabi had gone wicketless for 30.
 
-The match is the first of three unofficial Tests and the main red-ball rehearsal for several of India's Test hopefuls before the senior side's first Test in Wellington on 19 November. Batting coach Sitanshu Kotak had said before the game that "the match practice of the red ball is very important" for those heading into the Tests.
+The match is the first of three unofficial Tests and the main red-ball rehearsal for several of India's Test hopefuls before the senior side's first Test in Wellington on November 19. Batting coach Sitanshu Kotak had said before the game that "the match practice of the red ball is very important" for those heading into the Tests.
 
-Rishabh Pant is missing the first two games with a side strain. The second unofficial Test is in Christchurch from 31 October, and the third returns to Lincoln from 7 November.
+Rishabh Pant is missing the first two games with a side strain. The second unofficial Test is in Christchurch from October 31, and the third returns to Lincoln from November 7.

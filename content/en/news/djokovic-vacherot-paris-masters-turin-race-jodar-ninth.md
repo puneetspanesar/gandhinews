@@ -27,7 +27,7 @@ cover:
   bg: "Paris La Défense Arena"
 related: [djokovic-returns-basel-wawrinka-farewell-swiss-indoors, bergs-stuns-alcaraz-zverev-clinches-year-end-no-1, zverev-world-no-1-bid-vienna-alcaraz-erste-bank-open]
 seo:
-  description: "Novak Djokovic plays Basel champion Valentin Vacherot in the Paris Masters first round on 3 November 2026 and needs a semi-final to stay in the ATP Finals race; Rafael Jodar moved into ninth."
+  description: "Novak Djokovic plays Basel champion Valentin Vacherot in the Paris Masters first round on November 3, 2026, and needs a semi-final to stay in the ATP Finals race; Rafael Jodar moved into ninth."
 sources:
   - title: "Race to Turin daily: Jodar's must-win start opens the Paris decider, with Djokovic facing Basel champion Vacherot"
     publisher: "Tennis Majors"
@@ -67,9 +67,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview of Tue 3 Nov first-round matches at the Paris Masters (Paris is IST minus 4h30). Courts and times for Tuesday not yet published in any source read; copy says only 'on Tuesday'. Background events: Jodar d. Tabilo 6-2, 6-3 on Monday day session (before 22:00 IST); Zverev No. 1 ceremony after Ruud's match on Monday (Tennis Majors Ruud report, 15:05 UTC)."
-    - "Race points (Tennis Majors Race to Turin daily, 2 Nov 06:23 UTC): de Minaur 3,210 (9th, bye), Jodar 3,209, Djokovic 2,900, Fritz 2,895, Paul 2,775. Jodar win takes him to 3,234, 24 ahead of de Minaur, per the article's own arithmetic; ATP did not publish a live race table we could read. Djokovic QF = 3,090, SF = 3,290, title = 3,890 (certain). Sinner out for the season, so ninth is the cutoff."
-    - "Vacherot won Basel on Sunday 1 Nov beating Jiri Lehecka in the final (Tennis Majors); score not given, so left out. Vacherot as 2025 Shanghai champion from our own 13 Oct story ('defending champion'). Djokovic beat Humbert in Basel on 28 Oct per Tennis Majors match page form strip. Djokovic-Vacherot head-to-head not confirmed from a source read, so left out (Wikipedia and tennis.com match pages were not permitted this run)."
+    - "event: preview of Tue Nov 3 first-round matches at the Paris Masters (Paris is IST minus 4h30). Courts and times for Tuesday not yet published in any source read; copy says only 'on Tuesday'. Background events: Jodar d. Tabilo 6-2, 6-3 on Monday day session (before 22:00 IST); Zverev No. 1 ceremony after Ruud's match on Monday (Tennis Majors Ruud report, 15:05 UTC)."
+    - "Race points (Tennis Majors Race to Turin daily, Nov 2 06:23 UTC): de Minaur 3,210 (9th, bye), Jodar 3,209, Djokovic 2,900, Fritz 2,895, Paul 2,775. Jodar win takes him to 3,234, 24 ahead of de Minaur, per the article's own arithmetic; ATP did not publish a live race table we could read. Djokovic QF = 3,090, SF = 3,290, title = 3,890 (certain). Sinner out for the season, so ninth is the cutoff."
+    - "Vacherot won Basel on Sunday, Nov 1 beating Jiri Lehecka in the final (Tennis Majors); score not given, so left out. Vacherot as 2025 Shanghai champion from our own Oct 13 story ('defending champion'). Djokovic beat Humbert in Basel on Oct 28 per Tennis Majors match page form strip. Djokovic-Vacherot head-to-head not confirmed from a source read, so left out (Wikipedia and tennis.com match pages were not permitted this run)."
     - "Seeds, byes and withdrawals (Sinner knee, Auger-Aliassime ankle) from the Wikipedia draw page. Tuesday first-round list from the Tennis Majors Monday order-of-play article. Night session on Monday (Shapovalov v Khachanov, Humbert v van de Zandschulp) not finished at time of writing, so not reported. No quotes found."
 ---
 

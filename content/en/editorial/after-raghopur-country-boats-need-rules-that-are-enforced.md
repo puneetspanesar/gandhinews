@@ -56,8 +56,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Raghopur facts (13 children dead, 7 rescued, 15 to 20 aboard by local accounts, about 30 per Tejashwi Yadav, ₹4 lakh state aid, ₹2 lakh PMNRF) from the desk's 14 October story and its sources."
-    - "8 September 2026 Terasia Diara capsize (11 aboard, one dead, one missing, boat hit a submerged boulder) from ETV Bharat/PTI."
+    - "Editorial view of the desk. Raghopur facts (13 children dead, 7 rescued, 15 to 20 aboard by local accounts, about 30 per Tejashwi Yadav, ₹4 lakh state aid, ₹2 lakh PMNRF) from the desk's October 14 story and its sources."
+    - "September 8, 2026 Terasia Diara capsize (11 aboard, one dead, one missing, boat hit a submerged boulder) from ETV Bharat/PTI."
     - "January 2017 Patna tragedy (24 dead, more than 60 aboard, over 30 of about 50 boats on that stretch unregistered, no life jackets, rule against sailing after sunset often ignored) as reported in The Hindu at the time and summarised by Shankar IAS; secondary summary, figures given as reported then."
     - "Inland Vessels Act 2021 scope (mechanically propelled vessels; states set criteria for categorising non-mechanically propelled vessels) from the PRS bill summary. Whether the Raghopur boat was motorised, registered or licensed has not been reported; the editorial does not claim either."
     - "Recommendations are the desk's own."
@@ -71,7 +71,7 @@ That last detail matters more than it seems. A boat that nobody counted is a boa
 
 The state has responded in the usual way. Chief Minister Samrat Choudhary announced ₹4 lakh for each bereaved family, and the Prime Minister added ₹2 lakh. Disaster response teams and local divers searched through the night. All of that is right, and none of it would have kept a single child out of the water.
 
-Bihar has been here before, many times. In January 2017, 24 people drowned when an overcrowded boat capsized in the Ganga near Patna on a day when crowds had gathered for a festival. It was carrying more than 60 people. It was reported then that over 30 of the roughly 50 boats working that stretch were unregistered, that none carried life jackets, and that a rule against sailing after sunset was routinely ignored. Just five weeks ago, on 8 September, a boat carrying 11 people capsized at Terasia Diara in the same district, after hitting a submerged boulder in floodwater. One young man died.
+Bihar has been here before, many times. In January 2017, 24 people drowned when an overcrowded boat capsized in the Ganga near Patna on a day when crowds had gathered for a festival. It was carrying more than 60 people. It was reported then that over 30 of the roughly 50 boats working that stretch were unregistered, that none carried life jackets, and that a rule against sailing after sunset was routinely ignored. Just five weeks ago, on September 8, a boat carrying 11 people capsized at Terasia Diara in the same district, after hitting a submerged boulder in floodwater. One young man died.
 
 Raghopur is a river island. For the people of the diara, the country boat is not a pleasure trip. It is the bus to school, the market and the hospital.
 
@@ -96,5 +96,5 @@ Fourth, disaster response teams should be posted at the busiest crossings during
 Finally, the government should order an inquiry into Raghopur and publish its findings within a month: how many were aboard, whether the boat was licensed, and who was meant to be watching. The families have been given money. They are also owed an answer, and the next children to cross the river are owed a safer boat.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"13","label":"children drowned when the boat overturned at Raghopur on 13 October"},{"value":"24","label":"people killed in the Ganga boat capsize near Patna in January 2017"},{"value":"8 September","label":"date of an earlier capsize this flood season in Vaishali, at Terasia Diara"}]}
+{"title":"The reporting behind this view","items":[{"value":"13","label":"children drowned when the boat overturned at Raghopur on October 13"},{"value":"24","label":"people killed in the Ganga boat capsize near Patna in January 2017"},{"value":"September 8","label":"date of an earlier capsize this flood season in Vaishali, at Terasia Diara"}]}
 ```

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 20 Oct, 11:38 am PDT (12:08 am IST 21 Oct). No quotes from Google in source. The 85% PyTorch share is 'by some accounts' and is hedged in copy."
+    - "Single source: TechCrunch, Oct 20, 11:38 am PDT (12:08 am IST Oct 21). No quotes from Google in source. The 85% PyTorch share is 'by some accounts' and is hedged in copy."
 ---
 
 Google has made TorchTPU, its version of the PyTorch programming toolkit, available as an open-source project, a day after Amazon did the same for its own AI chip. Both companies want developers to stop writing AI software that runs by default on Nvidia's graphics processors.

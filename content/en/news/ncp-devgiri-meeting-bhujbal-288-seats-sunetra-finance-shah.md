@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov evening IST (source says 'Tuesday evening'; page carries no calendar date or timestamp. Matches the editor's open note on the NCP meeting amid BJP rift concerns; desk should confirm the date before going live)."
+    - "event: Nov 3 evening IST (source says 'Tuesday evening'; page carries no calendar date or timestamp. Matches the editor's open note on the NCP meeting amid BJP rift concerns; desk should confirm the date before going live)."
     - "Single source (The Statesman, citing party sources for the BJP condition). Bhujbal and Tatkare quotes verbatim from that report. Finance condition attributed to party sources in copy."
     - "Patel 'in Mumbai but stayed away' as reported. No on-record BJP response found."
 ---

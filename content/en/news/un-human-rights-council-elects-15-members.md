@@ -21,7 +21,7 @@ hero:
     value: "15 seats, 15 candidates"
 related: []
 seo:
-  description: "The UN General Assembly elected 15 countries, including Nepal, Japan, Brazil, Germany and Ukraine, to the Human Rights Council on 13 October in uncontested races."
+  description: "The UN General Assembly elected 15 countries, including Nepal, Japan, Brazil, Germany and Ukraine, to the Human Rights Council on October 13 in uncontested races."
 sources:
   - title: "UN Human Rights Council elects 15 members in uncontested vote (AP)"
     publisher: "Al Jazeera"
@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (AP via Al Jazeera). Vote counts not reported. Term start date not given in source; three-year terms normally begin on 1 January but not stated, so left out."
+    - "Single source (AP via Al Jazeera). Vote counts not reported. Term start date not given in source; three-year terms normally begin on January 1 but not stated, so left out."
     - "India not mentioned in the source; no India angle written."
     - "Dujarric quote dropped (only a fragment available)."
 ---

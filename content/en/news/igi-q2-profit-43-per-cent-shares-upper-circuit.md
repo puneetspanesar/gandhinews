@@ -22,7 +22,7 @@ hero:
     value: "Profit up 43%, stock up 10%"
 related: [results-today-hpcl-swiggy-havells-colgate-october-22]
 seo:
-  description: "International Gemological Institute (IGI) Q2 FY27: profit up 43% to Rs 185.8 crore, revenue up 31% to Rs 398 crore; shares hit 10% upper circuit at Rs 353.20 on 22 October 2026."
+  description: "International Gemological Institute (IGI) Q2 FY27: profit up 43% to Rs 185.8 crore, revenue up 31% to Rs 398 crore; shares hit 10% upper circuit at Rs 353.20 on October 22, 2026."
 sources:
   - title: "International Gemological Institute shares hit 10% upper circuit after Q2 FY27 results"
     publisher: "Kotak Neo"

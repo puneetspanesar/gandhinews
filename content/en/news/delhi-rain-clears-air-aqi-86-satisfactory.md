@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Delhi's AQI stood at **86 at 9:30 am** on Friday, in the satisfactory category, by CPCB data."
   - "The Ridge recorded the most rain, **25.2 mm** in 24 hours."
-  - "The weather office expects Delhi to stay **dry from 17 to 22 October**, including Dussehra."
+  - "The weather office expects Delhi to stay **dry from October 17 to 22**, including Dussehra."
 hero:
   need: "Lodhi Garden, New Delhi, under rain or clear post-rain skies"
   suggested_source: "Lodhi Garden Delhi"
@@ -22,7 +22,7 @@ hero:
     value: "AQI 86: Delhi breathes easy"
 related: [punjab-farm-fires-season-worst-day-amritsar-tarn-taran, chouhan-yadav-review-stubble-burning-punjab-haryana]
 seo:
-  description: "Delhi's AQI dropped to 86, in the satisfactory category, on 16 October after thunderstorms; October rain is nearly three times normal and dry days lie ahead."
+  description: "Delhi's AQI dropped to 86, in the satisfactory category, on October 16 after thunderstorms; October rain is nearly three times normal and dry days lie ahead."
 sources:
   - title: "Delhi Weather Update: Rain Improves Air Quality, AQI Drops to 86"
     publisher: "Business Today (BT Bazaar)"
@@ -42,17 +42,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "AQI 86 at 9:30 am, attributed to CPCB, rests on BT Bazaar (11:20 am IST) only. CPCB's 4 pm bulletin for 16 Oct could not be found or fetched; no evening figure used."
+    - "AQI 86 at 9:30 am, attributed to CPCB, rests on BT Bazaar (11:20 am IST) only. CPCB's 4 pm bulletin for Oct 16 could not be found or fetched; no evening figure used."
     - "Times Now Navbharat (7:55 am) gave an AQI of 149-165 with no time or source; not used."
     - "Rainfall: the two sources agree on Ridge 25.2, Safdarjung 15.9, Lodhi Road 20, Palam 11.2; they differ on Ayanagar (8.4 mm to 8:30 am Fri per BT; 7.2 mm to 5:30 pm Thu per Times Now). Ayanagar omitted."
-    - "October rain 65.8 mm vs normal 24.2 mm, Thursday Safdarjung max 28.3°C (4.9° below normal), western disturbance and dry forecast 17-22 Oct: Times Now Navbharat only."
+    - "October rain 65.8 mm vs normal 24.2 mm, Thursday Safdarjung max 28.3°C (4.9° below normal), western disturbance and dry forecast Oct 17-22: Times Now Navbharat only."
     - "Minimum 19.4°C (0.2° below normal), Ridge 17.7°C: BT Bazaar only."
-    - "Season comparison: AQI 187 on 4 Oct (IANS via NewKerala, CPCB-based)."
+    - "Season comparison: AQI 187 on Oct 4 (IANS via NewKerala, CPCB-based)."
 ---
 
 Delhi woke up to clean air on Friday. After thunderstorms swept the capital on Thursday, the Air Quality Index stood at 86 at 9:30 am, in the "satisfactory" band, according to Central Pollution Control Board (CPCB) data.
 
-That is a sharp turn from earlier this month. On 4 October the city's average AQI had climbed to 187, its worst in nearly three months, with stations such as Mundka in the "poor" range.
+That is a sharp turn from earlier this month. On October 4 the city's average AQI had climbed to 187, its worst in nearly three months, with stations such as Mundka in the "poor" range.
 
 ## A wet October
 
@@ -62,6 +62,6 @@ Delhi has now received 65.8 mm of rain in October, against a monthly normal of 2
 
 ## Dry days ahead
 
-The relief may not last long. The India Meteorological Department expects partly cloudy skies with light drizzle in places on Friday, followed by a dry spell from 17 to 22 October, including Dussehra on 20 October. Dry weather and calm winds usually let pollution build up again, and farm fires in Punjab have been rising with the paddy harvest.
+The relief may not last long. The India Meteorological Department expects partly cloudy skies with light drizzle in places on Friday, followed by a dry spell from October 17 to 22, including Dussehra on October 20. Dry weather and calm winds usually let pollution build up again, and farm fires in Punjab have been rising with the paddy harvest.
 
 On the CPCB scale, an AQI of 51 to 100 is "satisfactory", 101 to 200 "moderate" and 201 to 300 "poor".

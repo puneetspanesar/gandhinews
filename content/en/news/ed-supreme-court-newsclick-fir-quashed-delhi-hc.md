@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, 22:30 IST 24 Oct), based on the ED's SLP. HC judge and exact May date not given; no SC listing date reported."
+    - "Single source (ANI, 22:30 IST Oct 24), based on the ED's SLP. HC judge and exact May date not given; no SC listing date reported."
     - "No response from NewsClick or Purkayastha found."
 ---
 

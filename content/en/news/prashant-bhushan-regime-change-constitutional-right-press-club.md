@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ThePrint, 15 Oct 6:48 pm. Bhushan quote verbatim from it. Kapil Sibal attended but no remarks attributed to him."
+    - "Single source: ThePrint, Oct 15 6:48 pm. Bhushan quote verbatim from it. Kapil Sibal attended but no remarks attributed to him."
     - "Bora named an ACP in her allegation; the officer is not named in copy because the claim is unproven and the matter is before the Supreme Court."
     - "Tribune India ran 'Ahead of CJP march today, Prashant Bhushan's regime change call sparks row' but the page could not be opened; no BJP reaction to Bhushan's words was found, so none is reported."
 ---

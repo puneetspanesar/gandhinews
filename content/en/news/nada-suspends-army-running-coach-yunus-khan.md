@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Based on NADA's provisionally suspended list as reported by The Bridge (13 Oct, 3:30 pm). NADA list itself not opened. Date of suspension not given."
+    - "Based on NADA's provisionally suspended list as reported by The Bridge (Oct 13, 3:30 pm). NADA list itself not opened. Date of suspension not given."
     - "Which athlete's violation the charge relates to is not reported. Gulveer Singh and Sawan Barwal are named only as athletes Khan has trained; no suggestion they are involved, and the copy says so."
     - "No comment from Khan or the Army Sports Institute found."
     - "Rakesh Kumar lifetime ban (Article 2.8, August 2026) from the same report."

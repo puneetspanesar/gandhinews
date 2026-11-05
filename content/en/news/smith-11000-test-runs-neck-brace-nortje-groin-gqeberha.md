@@ -59,4 +59,4 @@ His absence leaves Australia a batter short as they try to save the second Test 
 
 South Africa have a fitness concern of their own. Anrich Nortje, who took the wicket of Marnus Labuschagne in the first innings, left the field with a right groin injury, which could leave Temba Bavuma a fast bowler short as his side chase six more wickets on Thursday.
 
-Both teams will want answers quickly. Australia lead the three-match series 1-0, and the final Test starts at Newlands in Cape Town on 27 October, leaving little time for either player to recover.
+Both teams will want answers quickly. Australia lead the three-match series 1-0, and the final Test starts at Newlands in Cape Town on October 27, leaving little time for either player to recover.

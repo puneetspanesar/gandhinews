@@ -22,7 +22,7 @@ hero:
     value: "Balaghat to Lok Bhavan, Dehradun"
 related: [president-appoints-governors-six-states-keralam-tamil-nadu, ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor]
 seo:
-  description: "Dhal Singh Bisen was sworn in as Uttarakhand's ninth Governor at Lok Bhavan, Dehradun, on 19 October 2026, succeeding Lt Gen (retd) Gurmeet Singh."
+  description: "Dhal Singh Bisen was sworn in as Uttarakhand's ninth Governor at Lok Bhavan, Dehradun, on October 19, 2026, succeeding Lt Gen (retd) Gurmeet Singh."
 sources:
   - title: "Dhal Singh Bisen Sworn In As Uttarakhand Governor"
     publisher: "ETV Bharat"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ETV Bharat, 19 Oct (oath at 11 am; article 3:19 pm). Appointment itself was covered on 13 Oct from AIR. Gurmeet Singh's next post, if any, not stated in source; left out. Dhami's X post quoted only in the Hindi opening words given by the source; English copy paraphrases it."
+    - "Single source: ETV Bharat, Oct 19 (oath at 11 am; article 3:19 pm). Appointment itself was covered on Oct 13 from AIR. Gurmeet Singh's next post, if any, not stated in source; left out. Dhami's X post quoted only in the Hindi opening words given by the source; English copy paraphrases it."
 ---
 
 Dhal Singh Bisen was sworn in as the Governor of Uttarakhand on Monday, becoming the ninth person to hold the office since the hill state was carved out of Uttar Pradesh.
@@ -52,10 +52,10 @@ Chief Minister Pushkar Singh Dhami congratulated Bisen on X soon after the cerem
 
 Bisen, an Ayurvedic doctor and farmer from Pipariya village in Madhya Pradesh's Seoni district, has spent most of his political life in the BJP in that state. He was elected four times to the Madhya Pradesh Assembly from Barghat and served as a cabinet minister from 2003 to 2005. He chaired the state's Finance Commission from 2011 to 2013, and in 2019 won the Balaghat Lok Sabha seat, sitting in the 17th Lok Sabha until 2024.
 
-President Droupadi Murmu named him to the post on 12 October in a reshuffle that sent new Governors to six states, including Tamil Nadu, Keralam, Karnataka, Odisha and Sikkim.
+President Droupadi Murmu named him to the post on October 12 in a reshuffle that sent new Governors to six states, including Tamil Nadu, Keralam, Karnataka, Odisha and Sikkim.
 
 ## A long tenure ends
 
-Bisen succeeds Lieutenant General (retd) Gurmeet Singh, who became the longest-serving Governor in Uttarakhand's history in July. On 5 July he completed 1,755 days in office, passing the record set by Sudarshan Agarwal.
+Bisen succeeds Lieutenant General (retd) Gurmeet Singh, who became the longest-serving Governor in Uttarakhand's history in July. On July 5 he completed 1,755 days in office, passing the record set by Sudarshan Agarwal.
 
 The new Governor arrives in a state heading into an election year. Uttarakhand's Assembly completes its term in early 2027, and the Congress plans to gherao the Assembly during its coming session, a move the state BJP chief has dismissed as "negative politics".

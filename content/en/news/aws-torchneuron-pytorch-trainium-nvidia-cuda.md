@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch, 19 Oct 1:09 pm PDT). Colin Brace quotes as given there."
+    - "Single source (TechCrunch, Oct 19 1:09 pm PDT). Colin Brace quotes as given there."
 ---
 
 Amazon Web Services has released a developer tool designed to make it easy for AI start-ups to move their software off Nvidia's chips and on to Amazon's own, its most direct attempt yet to weaken the hold of Nvidia's CUDA software on the industry.

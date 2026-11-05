@@ -21,7 +21,7 @@ hero:
     value: "GIFT Nifty up about 100 points"
 related: [sensex-nifty-rupee-close-october-15, fpi-outflows-record-3-trillion-2026, wipro-guidance-december-quarter-large-deals-fall, tech-mahindra-q2-profit-rises-33-bonus-issue, zetwerk-tonbo-ipos-day-two]
 seo:
-  description: "GIFT Nifty rose about 100 points to near 23,090 on 16 October 2026 as Asian markets rebounded. Wall Street ended higher; Brent traded near $105.6 a barrel."
+  description: "GIFT Nifty rose about 100 points to near 23,090 on October 16, 2026, as Asian markets rebounded. Wall Street ended higher; Brent traded near $105.6 a barrel."
 sources:
   - title: "GIFT NIFTY indicates gap up opening for Indian markets; Asian stocks rebound"
     publisher: "Upstox"

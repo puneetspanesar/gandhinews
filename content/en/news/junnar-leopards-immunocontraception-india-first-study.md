@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Down To Earth, 18 Oct 2026, Himanshu Nitnaware), based on a forest department press statement. No direct quotes available; exact date of the injections not given. Hero uses place (Junnar) as no named official was quoted."
+    - "Single source (Down To Earth, Oct 18, 2026, Himanshu Nitnaware), based on a forest department press statement. No direct quotes available; exact date of the injections not given. Hero uses place (Junnar) as no named official was quoted."
 ---
 
 Forest officials in Maharashtra's Junnar division have given two female leopards a contraceptive vaccine and released them back into the wild, in what the department calls India's first scientific study of immunocontraception as a way to manage leopard numbers without killing or caging the animals.

@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov, results entry 13:24 IST, management commentary entry 13:18 IST (Upstox live blog, updated 14:01). Standalone PAT Rs 5,101.62 cr vs Rs 4,520.52 cr (+12.85%); revenue Rs 42,477.42 cr (+27.10%). Year-ago Rs 4,521 cr matches last year's reports (afaqs, Moneycontrol)."
+    - "event: Nov 5, results entry 13:24 IST, management commentary entry 13:18 IST (Upstox live blog, updated 14:01). Standalone PAT Rs 5,101.62 cr vs Rs 4,520.52 cr (+12.85%); revenue Rs 42,477.42 cr (+27.10%). Year-ago Rs 4,521 cr matches last year's reports (afaqs, Moneycontrol)."
     - "Management remarks are paraphrased from the live blog, not exact quotes: Shah 25% consolidated PAT growth; Jejurikar SUV volumes +26% YoY, auto consolidated PBIT margin 8.8% (+110 bps QoQ), farm PBIT margin +20 bps QoQ; CFO Amarjyoti Barua on balance sheet. Consolidated profit figure in rupees and share price reaction not found; left out."
     - "Single source; no exchange filing read."
 ---

@@ -12,7 +12,7 @@ location: Amaravati
 keyPoints:
   - "Y S Jagan Mohan Reddy asked Governor S Abdul Nazeer to deploy **central forces and CCTV surveillance** for the local body polls."
   - "He alleged that **only 19 nominations were filed for 36 wards** in Pulivendula."
-  - "Polling for **100 urban local bodies is on 28 October**, with results on 30 October."
+  - "Polling for **100 urban local bodies is on October 28**, with results on October 30."
 hero:
   need: "Two-panel: YSRCP chief Y S Jagan Mohan Reddy and Andhra Pradesh Governor S Abdul Nazeer"
   suggested_source: "Y. S. Jagan Mohan Reddy"
@@ -22,7 +22,7 @@ hero:
     value: "'A stain on democracy'"
 related: [jagan-accuses-naidu-blocking-opposition-nominations, tdp-second-list-andhra-urban-local-body-polls]
 seo:
-  description: "YSRCP chief Jagan Mohan Reddy met Governor S Abdul Nazeer on 18 October, seeking central forces and CCTV coverage for Andhra Pradesh's local body polls, alleging attacks on candidates."
+  description: "YSRCP chief Jagan Mohan Reddy met Governor S Abdul Nazeer on October 18, seeking central forces and CCTV coverage for Andhra Pradesh's local body polls, alleging attacks on candidates."
 sources:
   - title: "Jagan urges Guv to deploy Central forces, CCTV surveillance for Andhra local body polls (PTI)"
     publisher: "ThePrint"
@@ -61,4 +61,4 @@ He complained that the schedule was announced a day after ward reservations were
 
 Mr Reddy said the YSRCP would pursue legal remedies and told workers to keep fighting, warning that those responsible would be held to account.
 
-The polls themselves will roll out over the next seven weeks. Voting in 100 urban local bodies is on 28 October, with results on 30 October. Mandal and zilla parishad territorial constituencies vote on 3 November and are counted on 5 November, and gram panchayats vote in three phases on 26 November, 29 November and 2 December, with results declared on each polling day.
+The polls themselves will roll out over the next seven weeks. Voting in 100 urban local bodies is on October 28, with results on October 30. Mandal and zilla parishad territorial constituencies vote on November 3 and are counted on November 5, and gram panchayats vote in three phases on November 26, November 29 and December 2, with results declared on each polling day.

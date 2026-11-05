@@ -9,7 +9,7 @@ title: "Delhi must give protesters a place within reach, and stop moving it"
 standfirst: "Jantar Mantar has been struck off the list, Central Park is shut, and prohibitory orders cover Connaught Place. Delhi needs protest sites people can actually reach, rules that are written down, and protesters who keep the peace."
 published: 2026-10-16T14:30:00+05:30
 keyPoints:
-  - "Delhi Police **removed Jantar Mantar** from the list of protest sites on 11 October and named three grounds instead."
+  - "Delhi Police **removed Jantar Mantar** from the list of protest sites on October 11 and named three grounds instead."
   - "Designated sites should be **central, reachable and permanent**, not changed in the middle of a dispute."
   - "Protesters, for their part, should **keep to the venue and the hours** they are given."
 hero:
@@ -53,9 +53,9 @@ verification:
   status: approved
   notes:
     - "Editorial view of the desk, written before the 5 pm gathering; it makes no claim about how the evening went."
-    - "Central Park closure on 16 and 17 October by NDMC ('administrative reasons'), Section 163 BNSS orders in CP per DCP (PRO) Neha Yadav, traffic curbs from 3 pm, and police indicating a limited group may carry the flag and sing the anthem at an unnamed alternative location: The Statesman, 16 October 8:41 am, single source."
-    - "De-notification of Jantar Mantar on 11 October, Ramlila Maidan, Burari Ground and CBD Ground as replacements, and ASG Chetan Sharma's quote: Bar & Bench, as carried in the desk's 13 October story."
-    - "Swaty Singh petition quote and the 2018 Supreme Court ruling on Jantar Mantar and Boat Club: Bar & Bench, as carried in the desk's 14 October story. The 2018 judgment itself was not read."
+    - "Central Park closure on October 16 and 17 by NDMC ('administrative reasons'), Section 163 BNSS orders in CP per DCP (PRO) Neha Yadav, traffic curbs from 3 pm, and police indicating a limited group may carry the flag and sing the anthem at an unnamed alternative location: The Statesman, October 16 8:41 am, single source."
+    - "De-notification of Jantar Mantar on October 11, Ramlila Maidan, Burari Ground and CBD Ground as replacements, and ASG Chetan Sharma's quote: Bar & Bench, as carried in the desk's October 13 story."
+    - "Swaty Singh petition quote and the 2018 Supreme Court ruling on Jantar Mantar and Boat Club: Bar & Bench, as carried in the desk's October 14 story. The 2018 judgment itself was not read."
     - "High Court hearing (Gupta plea, 'pattern of lawlessness', 15 lakh traders, no blanket ban): LiveLaw and The Statesman."
     - "Burari Ground described as on the city's northern edge: general geography, not from a source."
     - "Recommendations are the desk's own."
@@ -67,9 +67,9 @@ The police say Connaught Place is not a protest site, and they are right. Yet in
 
 ## A list that keeps shrinking
 
-On 11 October Delhi Police removed Jantar Mantar, the capital's best-known place of protest for decades, from its list of designated sites. In its place they named Ramlila Maidan, Burari Ground and CBD Ground. Additional Solicitor General Chetan Sharma told the courts that this followed the Supreme Court's own suggestion that suitable venues be found. "The Court said appropriate sites need to be identified and designated and we have precisely done that," he said.
+On October 11 Delhi Police removed Jantar Mantar, the capital's best-known place of protest for decades, from its list of designated sites. In its place they named Ramlila Maidan, Burari Ground and CBD Ground. Additional Solicitor General Chetan Sharma told the courts that this followed the Supreme Court's own suggestion that suitable venues be found. "The Court said appropriate sites need to be identified and designated and we have precisely done that," he said.
 
-The timing tells its own story. The order came the day after the CJP's march on 10 October, when entry was restricted at 45 of Delhi's 303 Metro stations and large numbers of people were detained. It came in the middle of a dispute with one group of protesters, and it moved protest away from the street where Parliament and the ministries sit. Burari Ground lies on the city's northern edge.
+The timing tells its own story. The order came the day after the CJP's march on October 10, when entry was restricted at 45 of Delhi's 303 Metro stations and large numbers of people were detained. It came in the middle of a dispute with one group of protesters, and it moved protest away from the street where Parliament and the ministries sit. Burari Ground lies on the city's northern edge.
 
 A petition now before the Supreme Court, filed by advocate Swaty Singh, puts the principle well: "The right to protest is not merely a right to assemble at a designated physical space." In 2018 the court held that a blanket ban on protests at Jantar Mantar and the Boat Club could not stand.
 
@@ -94,5 +94,5 @@ The CJP has obligations too. It should apply for permission, accept the venue it
 A democracy does not have to put up with chaos. It does have to leave people somewhere to go.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"3","label":"grounds named by Delhi Police on 11 October in place of Jantar Mantar: Ramlila Maidan, Burari Ground and CBD Ground"},{"value":"45 of 303","label":"Delhi Metro stations with entry restricted on 10 October, per the DMRC's account to the Supreme Court"},{"value":"2 days","label":"Central Park in Connaught Place closed to the public, on 16 and 17 October"}]}
+{"title":"The reporting behind this view","items":[{"value":"3","label":"grounds named by Delhi Police on October 11 in place of Jantar Mantar: Ramlila Maidan, Burari Ground and CBD Ground"},{"value":"45 of 303","label":"Delhi Metro stations with entry restricted on October 10, per the DMRC's account to the Supreme Court"},{"value":"2 days","label":"Central Park in Connaught Place closed to the public, on October 16 and 17"}]}
 ```

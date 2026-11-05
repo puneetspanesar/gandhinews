@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 15:50 to 16:00 IST, Petronet LNG board approves Q2 results and interim dividend (Whalesbook 15:54 IST; Upstox 16:00 and 16:06 IST)."
+    - "event: Nov 2 about 15:50 to 16:00 IST, Petronet LNG board approves Q2 results and interim dividend (Whalesbook 15:54 IST; Upstox 16:00 and 16:06 IST)."
     - "Consolidated PAT Rs 1,234.63 cr vs Rs 801.88 cr (+54%, Upstox; figure matches InvestyWise). Standalone PAT Rs 1,235.40 cr vs Rs 805.75 cr (Whalesbook; prior-year figure matches last year's Indian Masterminds report)."
     - "Revenue Rs 7,200.35 cr vs Rs 11,009.13 cr from Whalesbook only; InvestyWise gives standalone total income Rs 7,432.44 cr. Copy uses revenue figure without a percentage."
     - "Half-year figures conflict (Whalesbook H1 PAT Rs 2,368.12 cr; InvestyWise H1 PAT Rs 1,132.72 cr standalone); left out."
@@ -71,7 +71,7 @@ verification:
 
 Petronet LNG, which imports liquefied natural gas through terminals at Dahej and Kochi, on Monday reported a **54% jump in September-quarter profit**, and its board approved an interim dividend for shareholders.
 
-Consolidated profit for the quarter ended 30 September came to ₹1,234.63 crore, against ₹801.88 crore a year earlier. On a standalone basis, profit was ₹1,235.40 crore, up from ₹805.75 crore.
+Consolidated profit for the quarter ended September 30 came to ₹1,234.63 crore, against ₹801.88 crore a year earlier. On a standalone basis, profit was ₹1,235.40 crore, up from ₹805.75 crore.
 
 The higher profit came on a smaller top line. Revenue **fell to ₹7,200.35 crore** from ₹11,009.13 crore in the same quarter last year.
 

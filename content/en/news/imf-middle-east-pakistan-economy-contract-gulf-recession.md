@@ -22,7 +22,7 @@ hero:
     value: "Region's output to shrink 1.3%"
 related: [imf-gulf-economies-wont-return-to-pre-war-growth, irgc-seven-tankers-hormuz-rezaei-warns-us-bases, us-orders-staff-leave-saudi-arabia-dammam-airport-attack, aramco-evacuates-dhahran-hq-drones-riyadh-madinah]
 seo:
-  description: "IMF regional outlook, 22 October 2026: Middle East, North Africa and Pakistan GDP to fall 1.3% in 2026; Gulf exporters in recession as Iran war hits oil, shipping."
+  description: "IMF regional outlook, October 22, 2026: Middle East, North Africa and Pakistan GDP to fall 1.3% in 2026; Gulf exporters in recession as Iran war hits oil, shipping."
 sources:
   - title: "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says"
     publisher: "Aaj English TV (Reuters)"
@@ -46,7 +46,7 @@ In its regional economic outlook, the IMF forecast that output across the region
 
 The fund expects every economy in the Gulf Cooperation Council to contract this year except Oman. Bahrain, Kuwait and Qatar, along with Iraq, which is outside the bloc, face double-digit falls in GDP. Saudi Arabia and the UAE are also projected to fall into recession, though the IMF said they were less exposed to the disruption of energy trade than their neighbours.
 
-The IMF blamed the downturn on the US-Israeli-led war against Iran, which began on 28 February and has hit energy production, shipping, tourism, trade and confidence across the region. Oil importers have held up better than exporters, it said, helped by remittances, tourism and policy responses.
+The IMF blamed the downturn on the US-Israeli-led war against Iran, which began on February 28 and has hit energy production, shipping, tourism, trade and confidence across the region. Oil importers have held up better than exporters, it said, helped by remittances, tourism and policy responses.
 
 Pakistan is counted in the regional group. The IMF did not give a separate figure for it in the outlook.
 

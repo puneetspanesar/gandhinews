@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB release posted 3:17 pm IST, 23 Oct. Project cost given as ₹8755.60 lakh (= ₹87.556 crore); standfirst rounds to ₹87.56 crore. Amrit Sarovar cost ₹69 lakh."
+    - "PIB release posted 3:17 pm IST, Oct 23. Project cost given as ₹8755.60 lakh (= ₹87.556 crore); standfirst rounds to ₹87.56 crore. Amrit Sarovar cost ₹69 lakh."
     - "Release calls the state document both 'Fisheries Investment and Export Guidelines, 2026' and 'Fisheries Investment and Export Promotion Policy 2026', and separately mentions a 'Madhya Pradesh Fisheries Policy 2026' announced by the CM; copy uses the guidelines name and the CM's policy as given."
     - "147% production increase in inland states: period not stated in release; reported as the minister's figure without a period."
 ---

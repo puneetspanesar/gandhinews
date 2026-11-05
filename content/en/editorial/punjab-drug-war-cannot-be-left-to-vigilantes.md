@@ -51,9 +51,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Mansa facts (shot three times while livestreaming, licensed weapon per DIG Harjeet Singh, accused Ashwani Kumar absconding, one arrest for helping him flee, the July 2023 shoe-garland incident and cross-cases, Phillaur review on 16 October, bandh called for 15 October) from the desk's 14 October story and its Tribune sources."
+    - "Editorial view of the desk. Mansa facts (shot three times while livestreaming, licensed weapon per DIG Harjeet Singh, accused Ashwani Kumar absconding, one arrest for helping him flee, the July 2023 shoe-garland incident and cross-cases, Phillaur review on October 16, bandh called for October 15) from the desk's October 14 story and its Tribune sources."
     - "Arrest status of Ashwani Kumar as of this morning not re-confirmed; written as 'still being hunted when last reported'."
-    - "79,784 arrests and 60,582 FIRs since 1 March 2025, and the ₹366 crore property-freeze quote, from DGP Gaurav Yadav's briefing of 14 September 2026 (PTI via The Pioneer). The campaign name Yudh Nashian Virudh as used in Punjab government communication."
+    - "79,784 arrests and 60,582 FIRs since March 1, 2025, and the ₹366 crore property-freeze quote, from DGP Gaurav Yadav's briefing of September 14, 2026 (PTI via The Pioneer). The campaign name Yudh Nashian Virudh as used in Punjab government communication."
     - "The editorial does not say Ashwani Kumar sold drugs; it records that he was accused and booked in 2023."
     - "Recommendations are the desk's own."
 ---
@@ -89,5 +89,5 @@ Fourth, the police should review arms licences held by people booked in drug cas
 Punjab's young people need protection from drugs. They also need a state that protects the people who speak up, and a law that is enforced by the police and the courts, not by whoever holds the phone or the gun.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"3","label":"bullets that struck Parvinder Jhota in a Mansa chemist's shop on 13 October"},{"value":"79,784","label":"arrests reported by Punjab Police in their anti-drug drive since 1 March 2025"},{"value":"July 2023","label":"when Jhota's supporters paraded the accused chemist, leading to cases against both men"}]}
+{"title":"The reporting behind this view","items":[{"value":"3","label":"bullets that struck Parvinder Jhota in a Mansa chemist's shop on October 13"},{"value":"79,784","label":"arrests reported by Punjab Police in their anti-drug drive since March 1, 2025"},{"value":"July 2023","label":"when Jhota's supporters paraded the accused chemist, leading to cases against both men"}]}
 ```

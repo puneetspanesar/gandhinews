@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (CNA ground report from Peshawar, 22 Oct 5:13 pm SGT). All quotes and figures from it: Junaid Altaf (Fedro Pharmaceuticals), Manzoor Ellahi (MM Ellahi Traders), Muhammad Naeem, Vaqar Ahmed (Partnership for Economic Policy). Quotes were given to CNA; copy attributes to speakers only."
+    - "Single source (CNA ground report from Peshawar, Oct 22 5:13 pm SGT). All quotes and figures from it: Junaid Altaf (Fedro Pharmaceuticals), Manzoor Ellahi (MM Ellahi Traders), Muhammad Naeem, Vaqar Ahmed (Partnership for Economic Policy). Quotes were given to CNA; copy attributes to speakers only."
     - "Pakistan's position that trade will not resume without Taliban action against militants, and Kabul's denial, as summarised by CNA."
 ---
 

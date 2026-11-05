@@ -50,4 +50,4 @@ He asked why the Samajwadi Party had not given university status to Shibli Colle
 
 He framed the coming election as a contest of "99 vs 1", in which "the 99% represents the poor citizens of Uttar Pradesh".
 
-No response from the Samajwadi Party was reported on Monday, when Akhilesh Yadav was in Delhi for the INDIA bloc's march. Uttar Pradesh's current Assembly completes its term on 22 May 2027.
+No response from the Samajwadi Party was reported on Monday, when Akhilesh Yadav was in Delhi for the INDIA bloc's march. Uttar Pradesh's current Assembly completes its term on May 22, 2027.

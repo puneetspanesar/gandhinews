@@ -52,11 +52,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Price facts (Delhi ₹2,820, up ₹10; Kolkata ₹2,971, up ₹17; third straight monthly rise; ₹82 Delhi rise since August; year-ago ₹1,590.50; domestic ₹942 unchanged since 7 June; Aramco November propane $720/t) from the desk's 1 November story commercial-lpg-up-rs-10-delhi-2820-third-straight-hike and its sources."
+    - "Editorial view of the desk. Price facts (Delhi ₹2,820, up ₹10; Kolkata ₹2,971, up ₹17; third straight monthly rise; ₹82 Delhi rise since August; year-ago ₹1,590.50; domestic ₹942 unchanged since June 7; Aramco November propane $720/t) from the desk's November 1 story commercial-lpg-up-rs-10-delhi-2820-third-straight-hike and its sources."
     - "77% = 2,820 / 1,590.50 = 1.773. Per-kg: domestic 942 / 14.2 = ₹66.3; commercial 2,820 / 19 = ₹148.4. Both desk arithmetic."
     - "GST rates: domestic LPG 5%, commercial LPG for hotels and restaurants 18% (Busy guide; ClearTax lists 5% for domestic and exempt non-domestic consumers, propane/butane at 18%). Secondary sources, not the notification itself. Tax inside ₹2,820 at 18% = ₹430; at 5% the same pre-tax price gives about ₹2,509, so about ₹311 less. Desk arithmetic, assumes full pass-through."
     - "Restaurant services taxed at 5% without input tax credit: long-standing GST rule (since November 2017), from desk knowledge; stated generally."
-    - "BPCL LPG under-recovery ₹17,334.40 crore by 30 September from desk's 23 October story. GST October figures from desk's 1 November story and Tribune/ANI."
+    - "BPCL LPG under-recovery ₹17,334.40 crore by September 30 from desk's October 23 story. GST October figures from desk's November 1 story and Tribune/ANI."
     - "No figure on the scale of domestic cylinder diversion is claimed. Recommendations are the desk's own."
 ---
 
@@ -73,7 +73,7 @@ The first is tax. Household LPG carries 5% GST. Commercial LPG used by hotels, d
 The Centre can afford to look at this. Gross GST collections in October were **₹2.31 lakh crore, up 22.9%** on a year earlier, announced on the same day as the price rise. The GST Council should cut the rate on commercial LPG to 5% for as long as the Hormuz disruption lasts, with a date to review it. At today's price that would take about ₹300 off a cylinder.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"₹2,820","label":"price of a 19-kg commercial cylinder in Delhi from 1 November, against ₹1,590.50 a year ago"},{"value":"18%","label":"GST on commercial LPG for hotels and restaurants, against 5% on household cylinders"},{"value":"₹148 vs ₹66","label":"cost of a kilo of commercial and household LPG in Delhi at Sunday's prices"}]}
+{"title":"The reporting behind this view","items":[{"value":"₹2,820","label":"price of a 19-kg commercial cylinder in Delhi from November 1, against ₹1,590.50 a year ago"},{"value":"18%","label":"GST on commercial LPG for hotels and restaurants, against 5% on household cylinders"},{"value":"₹148 vs ₹66","label":"cost of a kilo of commercial and household LPG in Delhi at Sunday's prices"}]}
 ```
 
 ## The gap that feeds a black market
@@ -90,4 +90,4 @@ That is why the cut should be temporary and tied to the disruption, not open-end
 {"n":1,"subject":"Kolkata food stall","caption":"A food stall kitchen in Kolkata, where the commercial cylinder rose most this month, by ₹17 to ₹2,971.","alt":"A cook at a food stall kitchen in Kolkata"}
 ```
 
-The government cannot control the price of propane in the Gulf. It does control the tax it adds on top, and whether household cylinders end up in commercial kitchens. It should act on both before the next monthly revision on 1 December.
+The government cannot control the price of propane in the Gulf. It does control the tax it adds on top, and whether household cylinders end up in commercial kitchens. It should act on both before the next monthly revision on December 1.

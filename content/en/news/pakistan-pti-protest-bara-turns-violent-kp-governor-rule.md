@@ -21,7 +21,7 @@ hero:
     value: "Bara burns as Islamabad digs in"
 related: [pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan]
 seo:
-  description: "A PTI protest against governor's rule in Khyber Pakhtunkhwa turned violent in Bara on 13 October as Shehbaz Sharif rallied allies and Afridi's brother went to court."
+  description: "A PTI protest against governor's rule in Khyber Pakhtunkhwa turned violent in Bara on October 13 as Shehbaz Sharif rallied allies and Afridi's brother went to court."
 sources:
   - title: "PTI protest in KP's Bara turns violent as demonstrators clash with police"
     publisher: "Dawn"
@@ -56,7 +56,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Written about 7:50 am IST, 14 Oct. Bara details rest mainly on Dawn's report (eyewitnesses, a Hayatabad Medical Complex doctor). Al Jazeera video headline confirms clashes but its content was not read. Torching of NADRA and Rescue 1122 offices is 'reports said' in Dawn; written as protesters set fire, hedged with 'were reported'."
+    - "Written about 7:50 am IST, Oct 14. Bara details rest mainly on Dawn's report (eyewitnesses, a Hayatabad Medical Complex doctor). Al Jazeera video headline confirms clashes but its content was not read. Torching of NADRA and Rescue 1122 offices is 'reports said' in Dawn; written as protesters set fire, hedged with 'were reported'."
     - "Arrest figures conflict: CCPO Peshawar 50; adviser Samar Haroon Bilour 42 (25 described by her as illegal Afghans). Neither independently confirmed. Both given."
     - "Injuries: Dawn confirmed at least five protesters; HMC doctor said more than a dozen including four policemen. Used doctor's figure, attributed."
     - "PTI's planned court challenge (Sheikh Waqas Akram said Tuesday): whether it was filed, and in which court, not confirmed at writing."

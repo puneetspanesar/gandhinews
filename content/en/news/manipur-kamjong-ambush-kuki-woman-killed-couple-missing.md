@@ -42,10 +42,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Attack time 4-5 pm Thursday 15 Oct: Kuki Inpi Manipur statement (Deccan Herald, 15 Oct 4:53 pm) and Deccan Chronicle. Names of victims and missing couple: Deccan Chronicle only (Deccan Herald metadata lists Hatneikim and Jangkhongam Haokip)."
+    - "Attack time 4-5 pm Thursday, Oct 15: Kuki Inpi Manipur statement (Deccan Herald, Oct 15 4:53 pm) and Deccan Chronicle. Names of victims and missing couple: Deccan Chronicle only (Deccan Herald metadata lists Hatneikim and Jangkhongam Haokip)."
     - "Spelling of the Naga victim: Deccan Chronicle 'Ajinbou Ringkamai', Deccan Herald metadata 'Ajinbou Ringkangmai'. Copy uses Deccan Chronicle."
     - "KZC toll of 30 Kuki-Zo civilians in violence attributed to NSCN-IM and ZUF(K): KZC's claim via ETV Bharat. Not independently checked."
-    - "Head recovered late Wednesday 14 Oct (inferred by Deccan Chronicle), autopsy Thursday at JNIMS."
+    - "Head recovered late Wednesday, Oct 14 (inferred by Deccan Chronicle), autopsy Thursday at JNIMS."
 ---
 
 A Kuki-Zo woman was killed and her husband wounded when gunmen ambushed two couples on motorcycles in Manipur's Kamjong district on Thursday evening. The second couple has not been seen since.
@@ -56,4 +56,4 @@ Police said the attack was carried out by suspected militants and that details w
 
 In a statement on Friday, the Kuki-Zo Council called for "an immediate and impartial investigation". It said the killing took to 30 the number of Kuki-Zo civilians it holds the NSCN-IM and the ZUF(K) responsible for, and argued that any review of suspension of operations pacts with Kuki groups should also cover the NSCN-IM ceasefire.
 
-The ambush followed the recovery of the severed head of Ajinbou Ringkamai, 52, one of four Naga men killed in an attack on Makui Ashang village in Kangpokpi district on 10 October, for which suspected Kuki militants were blamed. A joint team of the CRPF and Manipur Police found it near the attack site. The Naga body Joint Tribes Council Manipur had given a 48-hour ultimatum for its return, and post-mortems went ahead at JNIMS in Imphal on Thursday.
+The ambush followed the recovery of the severed head of Ajinbou Ringkamai, 52, one of four Naga men killed in an attack on Makui Ashang village in Kangpokpi district on October 10, for which suspected Kuki militants were blamed. A joint team of the CRPF and Manipur Police found it near the attack site. The Naga body Joint Tribes Council Manipur had given a 48-hour ultimatum for its return, and post-mortems went ahead at JNIMS in Imphal on Thursday.

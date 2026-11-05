@@ -35,7 +35,7 @@ infographic:
   source: "Statements by Pawan Khera, Rahul Gandhi and Zafar Islam, November 4, 2026"
 related: [nishikant-dubey-offers-debate-rahul-congress-office, smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir]
 seo:
-  description: "Congress leader Pawan Khera on 4 November 2026 backed Rahul Gandhi's open debate challenge to PM Modi, saying he skips Parliament and has held no press conference in 12-13 years."
+  description: "Congress leader Pawan Khera on November 4, 2026, backed Rahul Gandhi's open debate challenge to PM Modi, saying he skips Parliament and has held no press conference in 12-13 years."
 sources:
   - title: "\"You dont show up in Parliament, dont hold a press conference\": Pawan Khera targets PM Modi, backs Rahul Gandhis debate challenge"
     publisher: "WebIndia123 (ANI)"
@@ -50,7 +50,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Khera's remarks on Wednesday morning 4 Nov; ANI copy on WebIndia123 timestamped 9:41 am IST, so remarks made before then. Where he spoke not stated (copy datelined Jaisalmer); location left out."
+    - "event: Khera's remarks on Wednesday morning Nov 4; ANI copy on WebIndia123 timestamped 9:41 am IST, so remarks made before then. Where he spoke not stated (copy datelined Jaisalmer); location left out."
     - "Single wire copy (ANI via WebIndia123); Daily Prabhat carries the same headline but its page did not load. Quotes taken from WebIndia123, where apostrophes and dashes were stripped; restored apostrophes only (dont -> don't, lets -> let's). The 'delicate...terrified' quote left out because the punctuation was garbled."
     - "Zafar Islam described only as 'BJP leader' in the source; photo subject Syed Zafar Islam assumed to be the same person. Time of his reply not stated."
     - "Rahul's X poll text and options from the same copy; poll results not given."

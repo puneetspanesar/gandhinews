@@ -10,7 +10,7 @@ standfirst: "The Congress leader and the Tamil Nadu Chief Minister met for about
 published: 2026-10-11T12:15:00+05:30
 location: Chennai
 keyPoints:
-  - "Rahul Gandhi had **lunch with Chief Minister C. Joseph Vijay** at his Neelankarai home on 10 October, followed by coffee at a café in Palavakkam."
+  - "Rahul Gandhi had **lunch with Chief Minister C. Joseph Vijay** at his Neelankarai home on October 10, followed by coffee at a café in Palavakkam."
   - "The meeting came **a day after TVK won both Tamil Nadu bypolls** and a day before Vijay received Prime Minister Narendra Modi in Chennai."
   - "Neither leader made **any public statement on the talks**; Gandhi was reported to have invited TVK to join opposition campaigns, including the protests over the SIR."
   - "At the **sixth Chhatron Ki Goonj student event**, Gandhi said Modi would not be allowed to attack Tamil language and culture."
@@ -22,7 +22,7 @@ hero:
     value: "Lunch in Chennai, a day before Modi arrives"
 related: [modi-opens-chennai-metro-stretch-vijay-seeks-school-funds, bypoll-results-ruling-parties-win-all-six-seats, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, electoral-rolls-sir]
 seo:
-  description: "Rahul Gandhi met Tamil Nadu CM Vijay over lunch in Chennai on 10 October, a day before Vijay hosted PM Modi. Where TVK and the Congress stand on the SIR row."
+  description: "Rahul Gandhi met Tamil Nadu CM Vijay over lunch in Chennai on October 10, a day before Vijay hosted PM Modi. Where TVK and the Congress stand on the SIR row."
 sources:
   - title: "Rahul Gandhi, Vijay discuss alliance plans over lunch in Chennai"
     publisher: "The News Minute"
@@ -83,11 +83,11 @@ verification:
   status: approved
   notes:
     - "No on-record statement from Gandhi, Vijay, TVK or the Congress about the lunch was found. 'About an hour' rests on party sources and media reports (The News Minute, India Today via NPUI). The invitation to join anti-BJP campaigns rests on unnamed Congress sources quoted by South First, so it is worded as 'reported'. The Taj Connemara meeting is South First only and is left out."
-    - "Whether TVK is formally in the INDIA bloc is unclear: The News Minute says it formally joined; South First and The Federal say it is not formally part. The story quotes TVK spokesperson Felix Gerald's own words from 3 October instead of asserting membership."
-    - "Navbharat Live (June 2026) reported Vijay met Sonia and Rahul Gandhi in Delhi in June, while The Federal calls the 10 October lunch their first meeting since Vijay became CM. The story makes no 'first meeting' claim."
+    - "Whether TVK is formally in the INDIA bloc is unclear: The News Minute says it formally joined; South First and The Federal say it is not formally part. The story quotes TVK spokesperson Felix Gerald's own words from October 3 instead of asserting membership."
+    - "Navbharat Live (June 2026) reported Vijay met Sonia and Rahul Gandhi in Delhi in June, while The Federal calls the October 10 lunch their first meeting since Vijay became CM. The story makes no 'first meeting' claim."
     - "The 'cowardice' remark: Business Standard says Gandhi made it in Chennai and also posted it on X; The Week places it at the student event. The story says he said it on Saturday and posted it on X."
-    - "Chennai Police arresting over 100 AISF and AIYF members on 10 October is from The Federal only; worded as 'were reported'."
-    - "DMK's 4 June statement: the Asianet Newsable article is dated 5 June and says 'Thursday', which was 4 June 2026."
+    - "Chennai Police arresting over 100 AISF and AIYF members on October 10 is from The Federal only; worded as 'were reported'."
+    - "DMK's June 4 statement: the Asianet Newsable article is dated June 5 and says 'Thursday', which was June 4, 2026."
     - "Not included: reports that some TVK leaders floated Vijay as a 2029 PM candidate (single sources, unnamed leaders) and claims about Congress ministers in the state cabinet (removed earlier from the bypoll story as unconfirmed)."
 ---
 
@@ -104,12 +104,12 @@ That question matters because Vijay has not taken a public position on the SIR o
 ## Where TVK and the Congress stand
 
 ```timeline
-{"title":"TVK and the Congress since the assembly election","items":[{"date":"10 May 2026","text":"Vijay sworn in as Chief Minister; Rahul Gandhi attends."},{"date":"4 Jun 2026","text":"DMK says it is no longer in the INDIA bloc after the Congress backs TVK."},{"date":"9 Sep 2026","text":"TVK-led alliance named the Secular Social Justice Victory Alliance, with the Congress, VCK, MDMK and IUML."},{"date":"3 Oct 2026","text":"TVK attends a Tamil Nadu INDIA bloc meeting for the first time."},{"date":"9 Oct 2026","text":"TVK wins both Tamil Nadu bypolls."},{"date":"10 Oct 2026","text":"Rahul Gandhi lunches with Vijay in Chennai."},{"date":"11 Oct 2026","text":"Vijay receives Modi and rides the new Metro stretch with him."}]}
+{"title":"TVK and the Congress since the assembly election","items":[{"date":"May 10, 2026","text":"Vijay sworn in as Chief Minister; Rahul Gandhi attends."},{"date":"Jun 4, 2026","text":"DMK says it is no longer in the INDIA bloc after the Congress backs TVK."},{"date":"Sep 9, 2026","text":"TVK-led alliance named the Secular Social Justice Victory Alliance, with the Congress, VCK, MDMK and IUML."},{"date":"Oct 3, 2026","text":"TVK attends a Tamil Nadu INDIA bloc meeting for the first time."},{"date":"Oct 9, 2026","text":"TVK wins both Tamil Nadu bypolls."},{"date":"Oct 10, 2026","text":"Rahul Gandhi lunches with Vijay in Chennai."},{"date":"Oct 11, 2026","text":"Vijay receives Modi and rides the new Metro stretch with him."}]}
 ```
 
 The Congress broke with the DMK after this year's assembly election and backed Vijay's government. "We are no more in the INDIA bloc, and that is why we are not attending the meeting," DMK leader T.K.S. Elangovan said in June.
 
-TVK's own place in the opposition alliance is still loosely defined. When its ministers Aadhav Arjuna and Maria Wilson attended a Tamil Nadu INDIA bloc meeting on 3 October, party spokesperson Felix Gerald described the INDIA alliance as "the larger version of the Secular Social Justice Victory Alliance". "Technically, we are part of that alliance, and we are participating in today's meeting on that basis," he said.
+TVK's own place in the opposition alliance is still loosely defined. When its ministers Aadhav Arjuna and Maria Wilson attended a Tamil Nadu INDIA bloc meeting on October 3, party spokesperson Felix Gerald described the INDIA alliance as "the larger version of the Secular Social Justice Victory Alliance". "Technically, we are part of that alliance, and we are participating in today's meeting on that basis," he said.
 
 ## Gandhi's message to students
 
@@ -119,10 +119,10 @@ After the lunch, Gandhi spoke at the sixth edition of the Congress's student out
 
 > Questioning is the foundation of curiosity, questioning is also the foundation of progress.
 >
-> Source: Rahul Gandhi, Leader of the Opposition, Chennai, 10 October 2026
+> Source: Rahul Gandhi, Leader of the Opposition, Chennai, October 10, 2026
 
 ## The other side
 
-The BJP has accused Gandhi of backing disorder over the protests against the CEC. "I would say these are people with an anarchist mindset, who know only how to spread poison in society," BJP president Nitin Nabin said in Varanasi on 8 October. "If he has the courage, Rahul Gandhi should first resign."
+The BJP has accused Gandhi of backing disorder over the protests against the CEC. "I would say these are people with an anarchist mindset, who know only how to spread poison in society," BJP president Nitin Nabin said in Varanasi on October 8. "If he has the courage, Rahul Gandhi should first resign."
 
 At his Chennai event on Sunday, Modi recalled his work with Tamil Nadu leaders of several parties and said "we are taking this journey forward with CM Joseph Vijay".

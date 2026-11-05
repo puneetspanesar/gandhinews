@@ -6,11 +6,11 @@ section: states
 format_label: States / West Bengal
 topics: [states]
 title: "West Bengal makes Bengali compulsory for all government work"
-standfirst: "Chief Minister Suvendu Adhikari's rule applies from 1 September. Letters to the Centre are to go in Bengali and Hindi. Opposition parties welcomed the aim but questioned how it will work."
+standfirst: "Chief Minister Suvendu Adhikari's rule applies from September 1. Letters to the Centre are to go in Bengali and Hindi. Opposition parties welcomed the aim but questioned how it will work."
 published: 2026-10-11T11:00:00+05:30
 location: Kolkata
 keyPoints:
-  - "Chief Minister Suvendu Adhikari told the Assembly on 20 July that **Bengali would be mandatory** at every level of the state government from 1 September 2026."
+  - "Chief Minister Suvendu Adhikari told the Assembly on July 20 that **Bengali would be mandatory** at every level of the state government from September 1, 2026."
   - "Communication with the Centre is to be **in Bengali along with Hindi**, and Adhikari urged police to use Bengali for FIRs, complaints and public messages."
   - "The move followed **a letter from Union Home Minister Amit Shah**, which Adhikari read out in the Assembly."
   - "Trinamool, Congress and CPI(M) leaders backed promoting Bengali but **raised practical and political objections**."
@@ -47,14 +47,14 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact check 11 Oct 2026: PTI (ThePrint), ANI (ThePrint), The Week and Outlook reopened; all direct quotes match. Corrections: police use of Bengali for FIRs is something Adhikari advocated, per ANI, not a mandatory rule, so keyPoint and body reworded; Kunal Ghosh asked only about judges transferred from outside the state (PTI), the officers and court-hearings questions are not in the source and were removed; Pabitra Sarkar's 'cannot happen overnight' is The Week's indirect speech, quotation marks removed; Debjit Sarkar said it 'took 75 years', not that a '75-year-old demand' was met; manifesto link is ANI's description, not Adhikari's words."
-    - "Implementation on the ground since 1 September was not confirmed from an official source. A Personnel and Administrative Reforms Department order dated 31 August 2026 (memo 290-CS) appears on wbxpress.com, an unofficial orders archive; the PDF could not be downloaded and the order was not found on a state government site, so its contents are left out. Editors: pull it from wb.gov.in / egazette."
+    - "Fact check Oct 11, 2026: PTI (ThePrint), ANI (ThePrint), The Week and Outlook reopened; all direct quotes match. Corrections: police use of Bengali for FIRs is something Adhikari advocated, per ANI, not a mandatory rule, so keyPoint and body reworded; Kunal Ghosh asked only about judges transferred from outside the state (PTI), the officers and court-hearings questions are not in the source and were removed; Pabitra Sarkar's 'cannot happen overnight' is The Week's indirect speech, quotation marks removed; Debjit Sarkar said it 'took 75 years', not that a '75-year-old demand' was met; manifesto link is ANI's description, not Adhikari's words."
+    - "Implementation on the ground since September 1 was not confirmed from an official source. A Personnel and Administrative Reforms Department order dated August 31, 2026 (memo 290-CS) appears on wbxpress.com, an unofficial orders archive; the PDF could not be downloaded and the order was not found on a state government site, so its contents are left out. Editors: pull it from wb.gov.in / egazette."
     - "The ANI copy on ThePrint wrongly calls the CM 'she' and 'Banerjee' in places; no lines from those passages are used. Amit Shah's UN-language remark rests on that ANI copy only."
     - "BJP seat figures (208 of 294) in the research rest on Wikipedia and are not used."
     - "Reactions from The Week (Debjit Sarkar, Shubhankar Sarkar, Rabin Deb) are paraphrased there, so they are paraphrased here, not quoted."
 ---
 
-Bengali is mandatory for official work at every level of the West Bengal government from 1 September 2026, under a rule Chief Minister Suvendu Adhikari announced in the Legislative Assembly on 20 July.
+Bengali is mandatory for official work at every level of the West Bengal government from September 1, 2026, under a rule Chief Minister Suvendu Adhikari announced in the Legislative Assembly on July 20.
 
 "From September 1, the use of the Bengali language will be mandatory at every level of the state government," Adhikari said, according to PTI. The BJP had ended the Trinamool Congress's 15-year rule in the state about two and a half months before the announcement, PTI noted.
 
@@ -65,14 +65,14 @@ According to PTI, the rule covers file notings, departmental correspondence, gov
 Adhikari also urged police and law-and-order services to use Bengali for registering FIRs and complaints, for citizen information and for public safety and awareness messages, ANI reported.
 
 ```facts
-{"title":"Bengali in West Bengal's administration","items":[{"value":"20 July 2026","label":"Adhikari announces the rule in the Assembly","source":"PTI"},{"value":"1 September 2026","label":"Bengali mandatory at every level of state government","source":"PTI; ANI"},{"value":"Bengali + Hindi","label":"languages for letters to the Union government","source":"PTI"}]}
+{"title":"Bengali in West Bengal's administration","items":[{"value":"July 20, 2026","label":"Adhikari announces the rule in the Assembly","source":"PTI"},{"value":"September 1, 2026","label":"Bengali mandatory at every level of state government","source":"PTI; ANI"},{"value":"Bengali + Hindi","label":"languages for letters to the Union government","source":"PTI"}]}
 ```
 
 ## Amit Shah's letter
 
 Adhikari announced the decision by reading out a letter, written in Bengali, from Union Home Minister Amit Shah. Shah urged wide use of Bengali in land records, public services, digital administration and advertisements, and suggested Bengali and Hindi in place of English for dealings with the Centre, PTI reported. Adhikari said the state had accepted the suggestions.
 
-The letter invoked Syama Prasad Mookerjee, founder of the Bharatiya Jana Sangh, whose 125th birth anniversary fell on 6 July. ANI reported that the move fulfils a commitment in the Bengal BJP's manifesto to promote the Bengali language.
+The letter invoked Syama Prasad Mookerjee, founder of the Bharatiya Jana Sangh, whose 125th birth anniversary fell on July 6. ANI reported that the move fulfils a commitment in the Bengal BJP's manifesto to promote the Bengali language.
 
 ## Reactions across parties
 
@@ -90,4 +90,4 @@ Linguist Pabitra Sarkar, a former vice-chancellor of Rabindra Bharati University
 
 Political scientist Biswanath Chakraborty said the BJP wanted to neutralise an issue that had helped the Trinamool. "So far, the TMC projected itself as the custodian of Bengali identity," he said, according to PTI. Assembly Speaker Rathindra Bose said efforts to increase the use of Bengali in the legislature had already begun.
 
-Gandhi News could not confirm from an official source how far the rule is being applied in government offices since 1 September.
+Gandhi News could not confirm from an official source how far the rule is being applied in government offices since September 1.

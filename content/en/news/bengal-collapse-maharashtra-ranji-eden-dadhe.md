@@ -22,7 +22,7 @@ hero:
     value: "Bengal 72/7, Dadhe 3 for 18"
 related: [railways-bowl-mumbai-ranji-round-four-cci-start, mohammed-shami-sits-out-bengal-ranji-services, bengal-shahbaz-ahmed-return-ranji-services-palam, bengal-beat-services-ranji-up-vidarbha-tamil-nadu-win]
 seo:
-  description: "Bengal slumped to 72 for 7 in 22 overs against Maharashtra at Eden Gardens on day one of Ranji Trophy round four on 2 November 2026, with Pradeep Dadhe taking 3 for 18."
+  description: "Bengal slumped to 72 for 7 in 22 overs against Maharashtra at Eden Gardens on day one of Ranji Trophy round four on November 2, 2026, with Pradeep Dadhe taking 3 for 18."
 sources:
   - title: "BENG vs MAHA Live Score, Group C, Ranji Trophy Elite, 02 Nov 2026"
     publisher: "CricTracker"
@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, toss about 09:00 IST, play from about 09:30 IST; Bengal 72/7 after 22 overs, about 11:00 to 11:05 IST, from the CricTracker live page fetched about 11:15 IST. Sports Tak scorecard (fetched about 11:05 IST) showed 37/3 after 10.3 overs; Sports Tak live page showed 50/4 after 15 overs. No page gives clock times per ball, so session timings are estimates."
+    - "event: Nov 2, toss about 09:00 IST, play from about 09:30 IST; Bengal 72/7 after 22 overs, about 11:00 to 11:05 IST, from the CricTracker live page fetched about 11:15 IST. Sports Tak scorecard (fetched about 11:05 IST) showed 37/3 after 10.3 overs; Sports Tak live page showed 50/4 after 15 overs. No page gives clock times per ball, so session timings are estimates."
     - "Fall of wickets from CricTracker: 12-1 Easwaran (3.1), 18-2 Ankur Paul (4.4), 18-3 Suraj Jaiswal (4.6), 37-4 Sudip Chatterjee (11.1), 54-5 Gharami (15.4), 59-6 Shahbaz (16.4), 72-7 Sumanta Gupta (21.4). Dismissals confirmed only for Easwaran (c Sachin Dhas b Hangargekar), Paul (c Hitesh Walunj b Dadhe), Jaiswal (c Dhas b Dadhe) and Gupta (c Dhas b Dadhe); bowlers for Chatterjee, Gharami and Shahbaz not given, so copy does not assign them. Bowling at 22 overs: Dadhe 8-4-18-3, Hangargekar 7-0-35-2, Sanghvi 7-2-15-2."
     - "Shami listed among Bengal's yet-to-bat on the Sports Tak scorecard, so he is in the XI. Pitch conditions not described by any source; copy does not describe the pitch. Sanghvi's bowling style not confirmed; not stated."
-    - "Captains Easwaran and Shaw, Bengal top with 18 points and three outright wins (Delhi, Services, Kerala), Maharashtra one win and two draws: Sportsdunia, 2 Nov 02:14 IST. Search budget used: 5 of 6."
+    - "Captains Easwaran and Shaw, Bengal top with 18 points and three outright wins (Delhi, Services, Kerala), Maharashtra one win and two draws: Sportsdunia, Nov 2 02:14 IST. Search budget used: 5 of 6."
 cover:
   template: sport
   label: Ranji Trophy

@@ -5,14 +5,14 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Second Bay of Bengal system due on Friday as Tamil Nadu braces for rain till 26 October"
-standfirst: "A fresh low-pressure area formed off the Tamil Nadu coast on Wednesday, another is expected from 23 October with the potential to become a cyclone, and Odisha and Andhra Pradesh are watching its track."
+title: "Second Bay of Bengal system due on Friday as Tamil Nadu braces for rain till October 26"
+standfirst: "A fresh low-pressure area formed off the Tamil Nadu coast on Wednesday, another is expected from October 23 with the potential to become a cyclone, and Odisha and Andhra Pradesh are watching its track."
 published: 2026-10-22T05:10:00+05:30
 location: Chennai
 keyPoints:
   - "A fresh **low-pressure area** formed over the southwest Bay of Bengal on Wednesday."
-  - "A second system expected around **23 October** has the potential to intensify into a cyclone."
-  - "Heavy to very heavy rain is forecast in Tamil Nadu, including the Cauvery delta, **until 26 October**."
+  - "A second system expected around **October 23** has the potential to intensify into a cyclone."
+  - "Heavy to very heavy rain is forecast in Tamil Nadu, including the Cauvery delta, **until October 26**."
 hero:
   need: "Rain-soaked Marina Beach or a flooded Chennai street during the northeast monsoon"
   suggested_source: "Chennai rain Marina Beach"
@@ -22,7 +22,7 @@ hero:
     value: "One low formed, another on the way"
 related: [chennai-rain-schools-shut-four-districts-low-pressure, chennai-rain-vijay-review-flood-prevention-yellow-alert, keralam-orange-alert-five-districts-heavy-rain]
 seo:
-  description: "A fresh low formed over the Bay of Bengal on 21 October and a second system from 23 October could become a cyclone. Tamil Nadu faces heavy rain till 26 October."
+  description: "A fresh low formed over the Bay of Bengal on October 21 and a second system from October 23 could become a cyclone. Tamil Nadu faces heavy rain till October 26."
 sources:
   - title: "Fresh LP area forms over Bay, one more system in offing on Oct 23, heavy rains to continue in TN till Oct 26"
     publisher: "UNI"
@@ -52,16 +52,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Fresh LPA formed Wednesday and second system on 23 Oct with cyclone potential: UNI (paywalled excerpt, 11:50 am). OdishaTV (3:15 pm) also gives LPA around 23 Oct, depression around 27 Oct, possible cyclone end-October per unnamed foreign agencies; IMD had not forecast a cyclone. Headline says 'Friday' = 23 Oct."
-    - "School closures for Thursday 22 Oct: not confirmed in any source checked; copy says decisions rest with collectors. Wednesday closures: Chennai, Tiruvallur, Chengalpattu, Kancheepuram (India TV, The Week), Ranipet (Careers360 only)."
-    - "Orange alert for Tirunelveli and Thoothukudi for 21-22 Oct, up to 20 cm: Careers360 only, citing RMC; hedged."
+    - "Fresh LPA formed Wednesday and second system on Oct 23 with cyclone potential: UNI (paywalled excerpt, 11:50 am). OdishaTV (3:15 pm) also gives LPA around Oct 23, depression around Oct 27, possible cyclone end-October per unnamed foreign agencies; IMD had not forecast a cyclone. Headline says 'Friday' = Oct 23."
+    - "School closures for Thursday, Oct 22: not confirmed in any source checked; copy says decisions rest with collectors. Wednesday closures: Chennai, Tiruvallur, Chengalpattu, Kancheepuram (India TV, The Week), Ranipet (Careers360 only)."
+    - "Orange alert for Tirunelveli and Thoothukudi for Oct 21-22, up to 20 cm: Careers360 only, citing RMC; hedged."
     - "No overnight rainfall totals for Wednesday night found."
     - "Pradeep John quotes verbatim from The Week."
 ---
 
 Tamil Nadu is in for several more days of heavy rain, with one low-pressure area already over the Bay of Bengal and a second expected to take shape from Friday that forecasters say could strengthen into a cyclone.
 
-A fresh low-pressure area formed over the southwest Bay of Bengal, off the Tamil Nadu coast, on Wednesday. Another system is likely to form around 23 October and has the potential to intensify into a cyclone. Heavy to very heavy showers are expected to continue across the state until 26 October, including the Cauvery delta districts that feed much of the state's paddy crop.
+A fresh low-pressure area formed over the southwest Bay of Bengal, off the Tamil Nadu coast, on Wednesday. Another system is likely to form around October 23 and has the potential to intensify into a cyclone. Heavy to very heavy showers are expected to continue across the state until October 26, including the Cauvery delta districts that feed much of the state's paddy crop.
 
 The Regional Meteorological Centre in Chennai has warned of heavy to very heavy rain at isolated places in Chennai, Thiruvallur, Chengalpattu, Cuddalore, Villupuram, Thanjavur, Thiruvarur, Nagapattinam, Mayiladuthurai and Ramanathapuram, as well as Puducherry and Karaikal. In the far south, Tirunelveli and Thoothukudi were reported to be under an orange alert for up to 20 cm of rain on Wednesday and Thursday.
 
@@ -75,7 +75,7 @@ The state government has put its disaster machinery on alert and ordered precaut
 
 ## Odisha and Andhra watch the track
 
-The second system is being watched closely further up the coast. Some international weather models project that a low formed around 23 October could become a depression by about 27 October and move towards the central Bay of Bengal, with a possible cyclone crossing between north coastal Andhra Pradesh and southern Odisha by the end of the month.
+The second system is being watched closely further up the coast. Some international weather models project that a low formed around October 23 could become a depression by about October 27 and move towards the central Bay of Bengal, with a possible cyclone crossing between north coastal Andhra Pradesh and southern Odisha by the end of the month.
 
 The India Meteorological Department has not forecast a cyclone so far, and the track and strength of any system remain uncertain. Coastal Andhra Pradesh is expected to see isolated heavy rain over the next three days, with light to moderate rain and thunderstorms elsewhere in the state.
 

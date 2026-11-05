@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Batch size (151, 37 women, 16 foreign) from Business Standard only. Quotes verbatim from Greater Kashmir (wire copy); 'changed irrevocably' in both."
-    - "Greater Kashmir dateline reads 'Oct 7' but timestamp and 'on Saturday' indicate 17 Oct; Business Standard confirms 17 Oct."
+    - "Greater Kashmir dateline reads 'Oct 7' but timestamp and 'on Saturday' indicate Oct 17; Business Standard confirms Oct 17."
     - "Red Fort blast reference is Mohan's, as reported by Business Standard; date of the blast not given, so not stated."
 ---
 

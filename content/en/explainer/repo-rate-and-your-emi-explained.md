@@ -50,7 +50,7 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026: definitions, MPC composition and rules, May 2016 amendment, 25 March 2026 retention of the 4% target for April 2026 to March 2031, SDF/MSF spreads and Bank Rate confirmed on RBI's monetary policy overview page; external benchmark rules confirmed in circular RBI/2019-20/53; quotes and projections confirmed in the 7 Oct resolution and Governor's statement; repo history as in the RBI news story. EMI arithmetic recomputed: ₹41,822 and ₹42,603, ₹781 a month, about ₹1.87 lakh over 240 months, about 12 extra instalments if tenure is extended."
+    - "Fact-checked Oct 11, 2026: definitions, MPC composition and rules, May 2016 amendment, March 25, 2026, retention of the 4% target for April 2026 to March 2031, SDF/MSF spreads and Bank Rate confirmed on RBI's monetary policy overview page; external benchmark rules confirmed in circular RBI/2019-20/53; quotes and projections confirmed in the Oct 7 resolution and Governor's statement; repo history as in the RBI news story. EMI arithmetic recomputed: ₹41,822 and ₹42,603, ₹781 a month, about ₹1.87 lakh over 240 months, about 12 extra instalments if tenure is extended."
     - "Changed: the benchmark list now includes 'another market benchmark published by FBIL', which the circular also allows."
     - "The EMI example is Gandhi News's own arithmetic on assumed loan terms (₹50 lakh, 20 years, 8.00% rising to 8.25%). The 8.00% starting rate is an assumption for illustration, not a quoted bank rate."
     - "Treatment of fixed-rate and older (MCLR or base-rate) loans is not covered because no source on those was read for this piece."
@@ -76,7 +76,7 @@ When inflation threatens to rise, the MPC raises the rate to make borrowing dear
 
 ## How does a repo rate change reach my home loan?
 
-**Most new floating-rate retail loans are tied directly to the repo rate, and banks must reset them at least once every three months.** Since 1 October 2019, the RBI has required banks to link new floating-rate personal and retail loans, such as home and car loans, and floating-rate loans to micro and small enterprises, to an external benchmark.
+**Most new floating-rate retail loans are tied directly to the repo rate, and banks must reset them at least once every three months.** Since October 1, 2019, the RBI has required banks to link new floating-rate personal and retail loans, such as home and car loans, and floating-rate loans to micro and small enterprises, to an external benchmark.
 
 Banks can choose the RBI's repo rate, the three- or six-month Treasury bill yield, or another market benchmark published by Financial Benchmarks India (FBIL). A bank must use the same benchmark for all loans in one category. Your loan rate is the benchmark plus a spread that the bank sets. When the repo rate rises by 0.25 percentage point, a repo-linked loan rises by the same amount at the next reset.
 
@@ -96,7 +96,7 @@ If a lender keeps the EMI unchanged and extends the tenure instead, this example
 
 The spread over the benchmark is set by the bank. Under the 2019 rules, the credit risk part of the spread can change only if your credit assessment changes substantially, as agreed in the loan contract. Other parts, such as operating costs, can be changed once every three years.
 
-Transmission is not always even. The Governor's statement of 7 October noted "dissimilar movements in deposit and lending rates" in July-August, and said the weighted average lending rate on fresh rupee loans rose 8 basis points in those two months.
+Transmission is not always even. The Governor's statement of October 7 noted "dissimilar movements in deposit and lending rates" in July-August, and said the weighted average lending rate on fresh rupee loans rose 8 basis points in those two months.
 
 ## What are the SDF and MSF rates?
 
@@ -106,10 +106,10 @@ As of October 2026, the SDF rate is 5.25% and the MSF rate and Bank Rate are 5.7
 
 ## Where has the repo rate been?
 
-**The repo rate is 5.50% as of October 2026, after a cutting cycle in 2025 and a pause through most of 2026.** It was raised to 6.50% in February 2023 and stayed there until 2025, when the MPC cut it to 5.50% by June. A further cut on 5 December 2025 took it to 5.25%. The 7 October 2026 increase brought it back to 5.50%.
+**The repo rate is 5.50% as of October 2026, after a cutting cycle in 2025 and a pause through most of 2026.** It was raised to 6.50% in February 2023 and stayed there until 2025, when the MPC cut it to 5.50% by June. A further cut on December 5, 2025, took it to 5.25%. The October 7, 2026, increase brought it back to 5.50%.
 
 ```chart
 {"type":"line","title":"Repo rate since January 2024","subtitle":"Level after each change (%)","unit":"%","data":[{"label":"Jan 2024","value":6.50},{"label":"Feb 2025","value":6.25},{"label":"Apr 2025","value":6.00},{"label":"Jun 2025","value":5.50},{"label":"Dec 2025","value":5.25},{"label":"Oct 2026","value":5.50,"highlight":true}],"source":"RBI; PTI; Business Standard"}
 ```
 
-The next MPC meeting is on 2 to 4 December 2026.
+The next MPC meeting is on December 2 to 4, 2026.

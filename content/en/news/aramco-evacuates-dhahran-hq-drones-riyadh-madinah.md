@@ -22,7 +22,7 @@ hero:
     value: "Aramco empties its head office"
 related: [houthis-strike-aramco-building-dhahran-coalition-hits-sanaa, us-orders-staff-leave-saudi-arabia-dammam-airport-attack, aramco-nasser-foreign-strategic-oil-storage-asia, uk-typhoon-jets-defend-saudi-arabia-houthis]
 seo:
-  description: "Saudi Aramco evacuated its Dhahran headquarters on 22 October as the coalition downed drones over Riyadh and Madinah and the Houthis claimed strikes on Yanbu."
+  description: "Saudi Aramco evacuated its Dhahran headquarters on October 22 as the coalition downed drones over Riyadh and Madinah and the Houthis claimed strikes on Yanbu."
 sources:
   - title: "Saudi Aramco tells staff to evacuate Dhahran as clashes with Houthis continue"
     publisher: "Aaj English TV (Reuters)"
@@ -65,6 +65,6 @@ Saree also said the Houthis were rescuing a boat carrying 14 Indians that had be
 
 ## Markets on edge
 
-Saudi Arabia's benchmark TASI index fell 2.5% on Thursday. Brent crude rose more than $3 to $111.88 a barrel by mid-afternoon in London, after touching $112.55, its highest since 18 May.
+Saudi Arabia's benchmark TASI index fell 2.5% on Thursday. Brent crude rose more than $3 to $111.88 a barrel by mid-afternoon in London, after touching $112.55, its highest since May 18.
 
 The fighting between the Houthis and the Saudi-led coalition resumed in July and ended a truce brokered by the UN in 2022. On Wednesday the US State Department ordered some diplomats and their families to leave its missions in Saudi Arabia.

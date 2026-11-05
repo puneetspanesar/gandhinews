@@ -21,7 +21,7 @@ hero:
     value: "11 sailors missing off Bulgaria"
 related: [trump-announces-russia-ukraine-energy-ceasefire, ukraine-passes-minority-schools-law-to-unblock-eu-talks]
 seo:
-  description: "Drones sank a cargo ship off Krapets, Bulgaria, and hit the Ukrainian-owned Chelsea 3 on 13 October. Eleven sailors are missing and Sofia summoned Russia's envoy."
+  description: "Drones sank a cargo ship off Krapets, Bulgaria, and hit the Ukrainian-owned Chelsea 3 on October 13. Eleven sailors are missing and Sofia summoned Russia's envoy."
 sources:
   - title: "Eleven sailors missing after drone sinks ship off Bulgaria (Reuters)"
     publisher: "Internazionale"
@@ -49,8 +49,8 @@ verification:
     - "Name and flag of the sunken ship conflict: Al Jazeera says HS Dignity, Guinea-Bissau flag; Reuters says Bulgarian media named it Azov Concord, Turkey-based manager. Ship left unnamed."
     - "Crew figures: both say five rescued and 11 missing from the sunken ship; Chelsea 3 crew of 15 (seven Ukrainians, eight Azerbaijanis) all rescued. Five received medical help (Al Jazeera)."
     - "Previous week's sinking: Reuters says nine Syrian and one Egyptian sailor lost; Al Jazeera says all 10 unaccounted for."
-    - "No new Kremlin statement on the energy ceasefire found for 13 Oct. Rutte line paraphrased (Al Jazeera only). No Russian comment on the Bulgaria attack at writing."
-    - "Valtonen comments: Reuters, made at a forum in Singapore on 13 Oct; Reuters says they followed Trump's lifting of sanctions on Russian diesel exports."
+    - "No new Kremlin statement on the energy ceasefire found for Oct 13. Rutte line paraphrased (Al Jazeera only). No Russian comment on the Bulgaria attack at writing."
+    - "Valtonen comments: Reuters, made at a forum in Singapore on Oct 13; Reuters says they followed Trump's lifting of sanctions on Russian diesel exports."
 ---
 
 Drones sank a cargo ship off Bulgaria's Black Sea coast overnight into Tuesday and damaged a second vessel, leaving 11 sailors missing in the second such attack near the country's waters in a week.

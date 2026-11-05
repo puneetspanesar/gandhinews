@@ -21,7 +21,7 @@ hero:
     value: "Docked 400 km above South Africa"
 related: [spacex-crs-35-cargo-launch-iss-brain-organoids]
 seo:
-  description: "SpaceX's CRS-35 Cargo Dragon docked with the ISS Harmony module at 10:27 am EDT (7:57 pm IST) on 15 October 2026, delivering the final roll-out solar arrays."
+  description: "SpaceX's CRS-35 Cargo Dragon docked with the ISS Harmony module at 10:27 am EDT (7:57 pm IST) on October 15, 2026, delivering the final roll-out solar arrays."
 sources:
   - title: "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS"
     publisher: "Space.com"
@@ -41,11 +41,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Docking time 10:27 am EDT (1427 GMT) on 15 Oct confirmed by Space.com and CGTN (citing NASA and Xinhua) = 7:57 pm IST. Slightly earlier than the 11 am EDT planned time given in our launch story."
+    - "Docking time 10:27 am EDT (1427 GMT) on Oct 15 confirmed by Space.com and CGTN (citing NASA and Xinhua) = 7:57 pm IST. Slightly earlier than the 11 am EDT planned time given in our launch story."
     - "Port: CGTN quotes a NASA photo caption, Harmony module's space-facing port; Space.com also says zenith port on Harmony (one paragraph has a typo 'space-face')."
     - "Altitude about 400 km over South Africa, Anil Menon monitoring: Space.com only."
     - "Mid-November departure and California splashdown: CGTN. Space.com says about one month."
-    - "Cargo details carried over from our 13 Oct launch story (NASA sources). Hatch opening and spacewalk dates not found; not given."
+    - "Cargo details carried over from our Oct 13 launch story (NASA sources). Hatch opening and spacewalk dates not found; not given."
     - "NASA blog pages could not be fetched in this run (tool provenance block)."
 ---
 

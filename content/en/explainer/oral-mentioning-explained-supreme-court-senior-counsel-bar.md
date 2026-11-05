@@ -8,7 +8,7 @@ topics: [supreme-court]
 title: "Oral mentioning explained: why senior advocates can no longer ask the Supreme Court for urgent hearings"
 standfirst: "From Monday, no senior counsel may stand up before any Supreme Court bench to seek an early listing. What mentioning is, why the court wants junior lawyers to do it, how the rule has swung under three Chief Justices, and what it means for a litigant in a hurry."
 published: 2026-11-02T06:50:00+05:30
-shortAnswer: "Mentioning is the request a lawyer makes, usually at the start of the court day, for a case to be heard urgently or earlier than its turn. A Supreme Court registry circular dated 27 October 2026 says that from 2 November 'no Senior Counsel shall be permitted to make oral mentioning before any Court', and that junior and young counsel should be encouraged to do it instead. The idea is not new: Chief Justice B R Gavai kept senior advocates from mentioning in his own court from August 2025, and circulars issued under Chief Justice Surya Kant in November 2025 extended that to every bench. The procedure for urgent listing stays the same, and the most urgent kinds of cases, such as bail and habeas corpus, are listed automatically without any mention."
+shortAnswer: "Mentioning is the request a lawyer makes, usually at the start of the court day, for a case to be heard urgently or earlier than its turn. A Supreme Court registry circular dated October 27, 2026, says that from November 2 'no Senior Counsel shall be permitted to make oral mentioning before any Court', and that junior and young counsel should be encouraged to do it instead. The idea is not new: Chief Justice B R Gavai kept senior advocates from mentioning in his own court from August 2025, and circulars issued under Chief Justice Surya Kant in November 2025 extended that to every bench. The procedure for urgent listing stays the same, and the most urgent kinds of cases, such as bail and habeas corpus, are listed automatically without any mention."
 hero:
   need: "Chief Justice of India Surya Kant, under whom the mentioning rules have been rewritten"
   suggested_source: "Surya Kant"
@@ -18,7 +18,7 @@ hero:
     value: "Juniors to the front"
 related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches, cji-surya-kant-inaugurates-ladakh-high-court-bench-leh]
 seo:
-  description: "What oral mentioning is in the Supreme Court, why senior advocates are barred from it from 2 November 2026, how Khanna, Gavai and Surya Kant changed the practice, and how urgent listing works now."
+  description: "What oral mentioning is in the Supreme Court, why senior advocates are barred from it from November 2, 2026, how Khanna, Gavai and Surya Kant changed the practice, and how urgent listing works now."
 sources:
   - title: "Supreme Court of India circular F.No. 25/Judl./2026 dated 27 October 2026"
     publisher: "Supreme Court of India"
@@ -48,11 +48,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "27 Oct 2026 circular wording ('no Senior Counsel shall be permitted to make oral mentioning before any Court' from 02.11.2026; juniors 'may, instead, be encouraged') from the desk's 2 Nov news story, which read the PDF. Circular gives no reason for being reissued; the copy says so. SCC Online and Tribune pages timed out this run (permission not answered) and were not used."
-    - "November 2025 rules (four circulars effective 1 Dec 2025; seniors barred from mentioning before any bench; only matters on the previous day's mentioning list may be mentioned; auto-listing within two working days for regular, anticipatory and cancellation of bail, death penalty, habeas corpus, eviction, dispossession, demolition, urgent interim orders; proforma and urgency letter by 3 pm previous working day or 11:30 am Saturday; exceptionally urgent before 10:30 am; Registrar (Judicial Listing) takes CJI's directions; adjournment rules): Bar and Bench, 29 Nov 2025."
-    - "Gavai announcement 6 Aug 2025, effective 11 Aug, quote 'There is a strong demand that senior counsel should not mention matters', 'at least in my court', Singhvi welcome 'provided it applies equally': Deccan Chronicle. Khanna's email/letter system and Gavai's restoration after 14 May 2025 swearing-in: same source and the desk's news story."
-    - "Surya Kant first day 24 Nov 2025, quotes on mentioning slips, exceptions for liberty and death sentence, term to 9 Feb 2027: Siasat."
-    - "Vacation benches 1 June 2026: Bar and Bench lead only; judges not named."
+    - "Oct 27, 2026, circular wording ('no Senior Counsel shall be permitted to make oral mentioning before any Court' from 02.11.2026; juniors 'may, instead, be encouraged') from the desk's Nov 2 news story, which read the PDF. Circular gives no reason for being reissued; the copy says so. SCC Online and Tribune pages timed out this run (permission not answered) and were not used."
+    - "November 2025 rules (four circulars effective Dec 1, 2025; seniors barred from mentioning before any bench; only matters on the previous day's mentioning list may be mentioned; auto-listing within two working days for regular, anticipatory and cancellation of bail, death penalty, habeas corpus, eviction, dispossession, demolition, urgent interim orders; proforma and urgency letter by 3 pm previous working day or 11:30 am Saturday; exceptionally urgent before 10:30 am; Registrar (Judicial Listing) takes CJI's directions; adjournment rules): Bar and Bench, Nov 29, 2025."
+    - "Gavai announcement Aug 6, 2025, effective Aug 11, quote 'There is a strong demand that senior counsel should not mention matters', 'at least in my court', Singhvi welcome 'provided it applies equally': Deccan Chronicle. Khanna's email/letter system and Gavai's restoration after May 14, 2025, swearing-in: same source and the desk's news story."
+    - "Surya Kant first day Nov 24, 2025, quotes on mentioning slips, exceptions for liberty and death sentence, term to Feb 9, 2027: Siasat."
+    - "Vacation benches June 1, 2026: Bar and Bench lead only; judges not named."
     - "Senior advocate designation (Section 16, Advocates Act 1961, by the Supreme Court or a High Court) and advocate-on-record role are standard background, not from a 2026 document."
     - "Why mentioning by seniors is seen as unfair to juniors is described in general terms consistent with the circulars' stated aim (opportunity for young counsel); no bar association reaction to the October 2026 circular was found."
 ---
@@ -65,7 +65,7 @@ The bench, or in the Chief Justice's court the Chief Justice, then decides wheth
 
 ## What has changed from Monday?
 
-**Senior advocates can no longer do it before any bench.** A circular dated 27 October and signed by three Registrars says that with effect from 2 November "no Senior Counsel shall be permitted to make oral mentioning before any Court". Young and junior counsel, it says, "may, instead, be encouraged to make oral mentioning before the Courts."
+**Senior advocates can no longer do it before any bench.** A circular dated October 27 and signed by three Registrars says that with effect from November 2 "no Senior Counsel shall be permitted to make oral mentioning before any Court". Young and junior counsel, it says, "may, instead, be encouraged to make oral mentioning before the Courts."
 
 Senior advocates are lawyers whom the Supreme Court or a High Court has designated for their standing and experience. They argue cases, but they work alongside advocates-on-record, the lawyers entitled to file cases in the Supreme Court, and usually with juniors. The rule leaves the arguing to seniors and the asking to juniors.
 
@@ -79,13 +79,13 @@ When he announced the first version of the rule in August 2025, Chief Justice Ga
 
 ## Is this a new rule?
 
-**Not quite; it is the latest turn in a practice that has swung back and forth.** Under Chief Justice Sanjiv Khanna, oral mentioning was stopped and lawyers were asked to send emails or letters instead. B R Gavai brought it back after he was sworn in on 14 May 2025, and then, from 11 August, barred senior advocates from mentioning in his court.
+**Not quite; it is the latest turn in a practice that has swung back and forth.** Under Chief Justice Sanjiv Khanna, oral mentioning was stopped and lawyers were asked to send emails or letters instead. B R Gavai brought it back after he was sworn in on May 14, 2025, and then, from August 11, barred senior advocates from mentioning in his court.
 
 ```timeline
-{"title":"How mentioning has changed","items":[{"date":"14 May 2025","text":"B R Gavai sworn in as Chief Justice; restores oral mentioning stopped under Sanjiv Khanna"},{"date":"11 Aug 2025","text":"Senior advocates barred from mentioning in the Chief Justice's court"},{"date":"24 Nov 2025","text":"Surya Kant takes over and asks lawyers for written mentioning slips"},{"date":"1 Dec 2025","text":"New circulars bar seniors from mentioning before any bench and list urgent categories automatically"},{"date":"1 Jun 2026","text":"Vacation benches refuse mentions by senior advocates"},{"date":"2 Nov 2026","text":"Fresh circular of 27 October takes effect: no senior counsel may mention before any court"}]}
+{"title":"How mentioning has changed","items":[{"date":"May 14, 2025","text":"B R Gavai sworn in as Chief Justice; restores oral mentioning stopped under Sanjiv Khanna"},{"date":"Aug 11, 2025","text":"Senior advocates barred from mentioning in the Chief Justice's court"},{"date":"Nov 24, 2025","text":"Surya Kant takes over and asks lawyers for written mentioning slips"},{"date":"Dec 1, 2025","text":"New circulars bar seniors from mentioning before any bench and list urgent categories automatically"},{"date":"Jun 1, 2026","text":"Vacation benches refuse mentions by senior advocates"},{"date":"Nov 2, 2026","text":"Fresh circular of October 27 takes effect: no senior counsel may mention before any court"}]}
 ```
 
-Surya Kant, on his first day as Chief Justice on 24 November 2025, told lawyers: "If you have any urgent matters, give your mentioning slip along with the cause of urgency." Oral requests, he said, would be heard only in extraordinary circumstances, such as cases involving personal liberty or a possible death sentence. Circulars issued days later, effective from 1 December 2025, already said **senior counsel could not mention before any bench**. Vacation benches refused mentions by senior advocates again in June this year.
+Surya Kant, on his first day as Chief Justice on November 24, 2025, told lawyers: "If you have any urgent matters, give your mentioning slip along with the cause of urgency." Oral requests, he said, would be heard only in extraordinary circumstances, such as cases involving personal liberty or a possible death sentence. Circulars issued days later, effective from December 1, 2025, already said **senior counsel could not mention before any bench**. Vacation benches refused mentions by senior advocates again in June this year.
 
 The new circular does not say why the rule had to be restated, and it **does not change the procedure** for urgent listing.
 

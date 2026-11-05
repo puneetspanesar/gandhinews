@@ -22,7 +22,7 @@ hero:
     value: "Four days in the red"
 related: [sensex-nifty-close-october-22-crude-110-west-asia, midcap-smallcap-indices-slide-4-per-cent-margin-calls, jio-platforms-ipo-closes-subscription-final-day, q2-movers-hatsun-sterlite-bluestone-shree-cement-october-23, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
 seo:
-  description: "Stock market close 23 October 2026: Sensex falls 125.56 points to 73,123.83 for a fourth straight day, Nifty at 22,600; small caps down 2.94%, metals and realty slide, IT gains; VIX up 8%, Brent near $114."
+  description: "Stock market close October 23, 2026: Sensex falls 125.56 points to 73,123.83 for a fourth straight day, Nifty at 22,600; small caps down 2.94%, metals and realty slide, IT gains; VIX up 8%, Brent near $114."
 sources:
   - title: "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 8%"
     publisher: "Business Standard"

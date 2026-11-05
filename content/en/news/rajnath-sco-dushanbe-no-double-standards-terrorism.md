@@ -22,7 +22,7 @@ hero:
     value: "No double standards on terror"
 related: [rajnath-singh-sco-heads-of-government-dushanbe, diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe]
 seo:
-  description: "At the SCO heads of government meeting in Dushanbe on 20 October, Rajnath Singh said there can be no double standards on terrorism, with Pakistan's Ishaq Dar present."
+  description: "At the SCO heads of government meeting in Dushanbe on October 20, Rajnath Singh said there can be no double standards on terrorism, with Pakistan's Ishaq Dar present."
 sources:
   - title: "'No double standards on terrorism': Rajnath Singh at SCO meet in presence of Pakistan's Ishaq Dar"
     publisher: "The Tribune"

@@ -12,7 +12,7 @@ location: Hubballi
 keyPoints:
   - "B Y Vijayendra said **several senior Congress leaders have lost faith** in Chief Minister D K Shivakumar."
   - "He claimed the sting operation set-up had **'moved from the KPCC office to Vidhana Soudha'**."
-  - "Karnataka votes for **four Legislative Council seats on 23 October**."
+  - "Karnataka votes for **four Legislative Council seats on October 23**."
 hero:
   need: "Two-panel: Karnataka BJP president B Y Vijayendra and Chief Minister D K Shivakumar"
   suggested_source: "B. Y. Vijayendra"
@@ -22,7 +22,7 @@ hero:
     value: "'Lost faith in the CM'"
 related: [siddaramaiah-court-bars-sting-videos-bjp-attacks-congress, rijiju-himanta-shivakumar-rahul-gandhi-video-row]
 seo:
-  description: "Karnataka BJP president B Y Vijayendra alleged on 18 October that Congress leaders are working to remove CM D K Shivakumar, linking it to the sting videos, ahead of 23 October council polls."
+  description: "Karnataka BJP president B Y Vijayendra alleged on October 18 that Congress leaders are working to remove CM D K Shivakumar, linking it to the sting videos, ahead of October 23 council polls."
 sources:
   - title: "Karnataka BJP president alleges discontent in Cong, claims bid to oust CM Shivakumar (PTI)"
     publisher: "ThePrint"
@@ -50,7 +50,7 @@ There was no response from the Congress or the chief minister's office to the cl
 
 ## Council polls and farmers
 
-Mr Vijayendra said the BJP and the JD(S) were campaigning together and that NDA candidates would win all four Legislative Council seats in the polls on 23 October.
+Mr Vijayendra said the BJP and the JD(S) were campaigning together and that NDA candidates would win all four Legislative Council seats in the polls on October 23.
 
 He accused the state government of passing the sugarcane growers' problems on to the Centre, banks and sugar factories, and urged it to consider a State Advised Price, as he said Haryana and Uttar Pradesh do. He questioned whether ₹2,500 in drought relief was enough.
 

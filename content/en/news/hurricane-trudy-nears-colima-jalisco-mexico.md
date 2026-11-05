@@ -22,7 +22,7 @@ hero:
     value: "Category 3, heading for the coast"
 related: []
 seo:
-  description: "Hurricane Trudy, which rapidly intensified to Category 3, was forecast to pass close to Mexico's Colima and Jalisco coast late on 17 October and on 18 October."
+  description: "Hurricane Trudy, which rapidly intensified to Category 3, was forecast to pass close to Mexico's Colima and Jalisco coast late on October 17 and on October 18."
 sources:
   - title: "Trudy rapidly intensified as Simon struggles; both storms are threatening Mexico's coast"
     publisher: "AccuWeather"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Latest data read: AccuWeather update 17 Oct 7:51 am EDT (5:21 pm IST). Trudy's exact current category/winds on Saturday not given; story avoids stating them."
+    - "Latest data read: AccuWeather update Oct 17 7:51 am EDT (5:21 pm IST). Trudy's exact current category/winds on Saturday not given; story avoids stating them."
     - "Watch/warning areas from the Rio Times citing Conagua/SMN advisory of midnight Friday (Mexico time); may have been updated since."
     - "SMN (Fabián Vázquez Romaña) did not expect landfall per Rio Times paraphrase; Weather Network also said direct landfall unlikely; US GFS model brought it inland. No verbatim official quote available."
     - "Storm surge 6-10 ft and gusts 60-90 mph are AccuWeather forecasts. Rainfall 100-200 mm for Michoacán, Colima, Jalisco from SMN-based figures in Rio Times."

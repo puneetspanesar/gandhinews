@@ -22,7 +22,7 @@ hero:
     value: "\"Jobs only in slogans\""
 related: [dhami-defends-police-ankita-bhandari-congress]
 seo:
-  description: "Rahul Gandhi on 18 October called the Uttarakhand Investors Summit a sham and asked CM Pushkar Singh Dhami to publish the list of 3,300 investors behind the ₹1 lakh crore claim."
+  description: "Rahul Gandhi on October 18 called the Uttarakhand Investors Summit a sham and asked CM Pushkar Singh Dhami to publish the list of 3,300 investors behind the ₹1 lakh crore claim."
 sources:
   - title: "'Investments exist only on paper, jobs only in slogans': Rahul Gandhi slams Dhami govt over Uttarakhand Investors Summit"
     publisher: "ANI"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: ANI 2:43 pm IST, based on Rahul Gandhi's X post. All figures are his claims, attributed. He cited an online news investigation (outlet not named in ANI)."
-    - "Summit date: source says the definition of investment was diluted on 1 December 2023, seven days before the summit, so December 2023 implied; copy says 'held in December 2023' per his account (copy avoids stating the date directly)."
+    - "Summit date: source says the definition of investment was diluted on December 1, 2023, seven days before the summit, so December 2023 implied; copy says 'held in December 2023' per his account (copy avoids stating the date directly)."
     - "No BJP or state government response in source."
 ---
 
@@ -45,7 +45,7 @@ He said the summit had announced 1,779 memorandums of understanding worth ₹3.5
 
 Citing an online news investigation, Gandhi said flour mills, fertiliser and seed shops and small clinics had been counted as investors, some without knowing it. A school run on CSR funds and donations was listed as investing ₹24.49 crore, he said, and one "investor" credited with ₹1,200 crore had earned nothing for four years and listed no employees. He said ₹27,975 crore was claimed from roadshows in Dubai and London, yet none of the companies from those cities appear on the list of investors on the ground.
 
-He alleged that the definition of "investment" was diluted on 1 December 2023, seven days before the summit. "Change the rules first, then present the figures," he wrote.
+He alleged that the definition of "investment" was diluted on December 1, 2023, seven days before the summit. "Change the rules first, then present the figures," he wrote.
 
 "The Chief Minister must make the full list of the 3,300 'investors' public," Gandhi said.
 

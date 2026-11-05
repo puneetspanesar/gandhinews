@@ -9,7 +9,7 @@ title: "A Human Rights Council election with no contest is not an election. Indi
 standfirst: "For the second year running, the UN filled 15 seats on its top human rights body with exactly 15 candidates. Clean slates spare governments embarrassment; they also spare bad records any scrutiny."
 published: 2026-10-21T14:20:00+05:30
 keyPoints:
-  - "All **15 Human Rights Council seats** were filled on 13 October with no competition."
+  - "All **15 Human Rights Council seats** were filled on October 13 with no competition."
   - "With one candidate per seat, the 193 voting states had **no way to reject anyone**."
   - "Regional groups should field **at least one more candidate than seats**."
 hero:
@@ -33,12 +33,12 @@ verification:
   status: approved
   notes:
     - "Editorial view of the desk; recommendations are the desk's own."
-    - "Election facts (15 members elected 13 October by the 193-member General Assembly for three-year terms to the 47-nation council; full list by region; uncontested for second year running; Louis Charbonneau quotes) from the desk's 14 October story, single source AP via Al Jazeera."
+    - "Election facts (15 members elected October 13 by the 193-member General Assembly for three-year terms to the 47-nation council; full list by region; uncontested for second year running; Louis Charbonneau quotes) from the desk's October 14 story, single source AP via Al Jazeera."
     - "Council based in Geneva; members elected by secret ballot needing an absolute majority (97 votes) of the General Assembly; seats allocated by regional group; council created in 2006 to replace the Commission on Human Rights; India has served several terms: standard UN background, not re-sourced this run. India's current membership status not checked, so not stated."
     - "Secretary-General straw poll reference rests on the desk's own news story of this month."
 ---
 
-On 13 October the UN General Assembly elected 15 countries to the Human Rights Council, the UN's highest human rights body. The ballot was a formality. Each regional group had put forward exactly as many candidates as it had seats, so every candidate was certain to win before a single vote was cast. It was the second year in a row that this happened.
+On October 13 the UN General Assembly elected 15 countries to the Human Rights Council, the UN's highest human rights body. The ballot was a formality. Each regional group had put forward exactly as many candidates as it had seats, so every candidate was certain to win before a single vote was cast. It was the second year in a row that this happened.
 
 "This uncompetitive vote makes a mockery of the word 'election'," said Louis Charbonneau, UN director at Human Rights Watch. He is right.
 

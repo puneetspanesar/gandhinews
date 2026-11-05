@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov about 19:40 IST, MCX board approves Q2 FY27 results, BSE filing (reports published 14:12 and 14:14 UTC)."
+    - "event: Nov 3 about 19:40 IST, MCX board approves Q2 FY27 results, BSE filing (reports published 14:12 and 14:14 UTC)."
     - "Year-ago profit ₹197.47 cr (Whalesbook; matches widely reported Q2 FY26 figure). Investywise's ₹413.44 cr comparison equals H1 868.01 minus Q2 454.57, so it is the June quarter, used as QoQ. Revenue 799.66 vs 374.23 cr; EPS 17.83 vs 7.74; standalone 405.35 vs 156.43; total income 851.28; expenses 211.36; PBT 639.92; SGF 1,472.16 cr; coal arm investment 51.50 cr this quarter, 52.50 cr total. No quotes found. Percentages are our calculation."
 infographic:
   kicker: "September quarter results"

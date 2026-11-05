@@ -22,7 +22,7 @@ hero:
     value: "65 years on the LAC"
 related: [mea-chinese-patrol-deviations-lac-itbp-face-offs-arunachal]
 seo:
-  description: "The ITBP marks its 65th Raising Day on 24 October as outgoing DG Shatrujeet Singh Kapur lays out drone, Shaurya commando and mountain force plans for the China border."
+  description: "The ITBP marks its 65th Raising Day on October 24 as outgoing DG Shatrujeet Singh Kapur lays out drone, Shaurya commando and mountain force plans for the China border."
 sources:
   - title: "Beijing's patrol deviations behind face-offs, says MEA"
     publisher: "The Tribune"
@@ -49,7 +49,7 @@ verification:
 
 The Indo-Tibetan Border Police, which guards the frontier with China, marks its 65th Raising Day on Saturday with its outgoing chief pressing for a force built around drones and commandos.
 
-Director General Shatrujeet Singh Kapur, who retires on 31 October, set out his plans to personnel at the force's base in Alwar, Rajasthan, on Thursday. The same speech made headlines for his remark that face-offs with Chinese troops were continuing at several places in Arunachal Pradesh.
+Director General Shatrujeet Singh Kapur, who retires on October 31, set out his plans to personnel at the force's base in Alwar, Rajasthan, on Thursday. The same speech made headlines for his remark that face-offs with Chinese troops were continuing at several places in Arunachal Pradesh.
 
 Kapur acknowledged that China had invested heavily in the People's Liberation Army and its conventional strength, but argued that drones could even the odds. He pointed to the Russia-Ukraine war and to Iran as examples of how drones were changing the way wars are fought.
 

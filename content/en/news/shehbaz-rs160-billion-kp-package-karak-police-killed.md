@@ -22,7 +22,7 @@ hero:
     value: "Rs160 billion, and four more police dead"
 related: [shehbaz-peshawar-visit-khyber-pakhtunkhwa-security-review, sharifs-defend-kp-governors-rule-lawyers-strike, pakistan-army-major-killed-gwadar-ied-kalat-operation]
 seo:
-  description: "Shehbaz Sharif announced a Rs160 billion KP package in Peshawar on 22 October and defended governor's rule; four police including a CTD DSP were killed in Karak."
+  description: "Shehbaz Sharif announced a Rs160 billion KP package in Peshawar on October 22 and defended governor's rule; four police including a CTD DSP were killed in Karak."
 sources:
   - title: "PM announces Rs160bn package for KP"
     publisher: "Aaj English TV"
@@ -48,7 +48,7 @@ verification:
   status: approved
   notes:
     - "All four items single-sourced to Aaj English TV. Package split per KP information adviser Samar Bilour, not a federal statement. Shehbaz quote verbatim from Aaj."
-    - "Karak names per police as reported by Aaj; operation said to be ongoing at 12:09 am PKT 23 Oct."
+    - "Karak names per police as reported by Aaj; operation said to be ongoing at 12:09 am PKT Oct 23."
     - "Gwadar: 'security sources' only, no ISPR statement found; second operation at a hotel near Gwadar highway with four militants surrounded, outcome unknown. Hedged. 'Fitna al-Hindustan' is Pakistan's official label for Baloch militant groups it says India backs; not repeated as fact."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Newcastle 0-1 Everton"
 related: [neto-double-chelsea-win-everton-martinez-hospital, liverpool-0-1-arsenal-havertz-alisson-error-anfield]
 seo:
-  description: "Everton beat Newcastle 1-0 in the Premier League at St James' Park on Monday 2 November 2026, Thierno Barry scoring after a Lukas Hornicek error. Everton rise to seventh; Newcastle drop to 13th."
+  description: "Everton beat Newcastle 1-0 in the Premier League at St James' Park on Monday, November 2, 2026, Thierno Barry scoring after a Lukas Hornicek error. Everton rise to seventh; Newcastle drop to 13th."
 sources:
   - title: "Barry Sees Blues Beat Newcastle Again"
     publisher: "Everton Football Club"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov about 03:25 IST, match ended (kick-off 20:00 GMT Monday 2 Nov = 01:30 IST per SoccerGraph fixture list)."
+    - "event: Nov 3 about 03:25 IST, match ended (kick-off 20:00 GMT Monday, Nov 2 = 01:30 IST per SoccerGraph fixture list)."
     - "Goal 49th minute, Garner pass, George shot fumbled by Hornicek, Barry tap-in: Everton FC report, AP via La Nacion, beIN agree. Barry 'eighth of the season' = all competitions (Everton FC, beIN); AP says four league goals. Copy says eight in all competitions."
     - "Everton seventh, Newcastle 13th: AP via La Nacion. Points totals not given, left out. Tarkowski quote from AP. Newcastle manager Matthias Jaissle named by beIN only; not named in copy to be safe."
     - "Grealish absent for disciplinary reasons, did not travel: AP only, stated as Everton left him out. Newcastle seven home league defeats in 2026: beIN only, left out."

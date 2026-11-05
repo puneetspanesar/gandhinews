@@ -22,7 +22,7 @@ hero:
     value: "14 dead in an illegal mine"
 related: []
 seo:
-  description: "A landslide at an illegal open-pit gold mine in Santa Bárbara de Iscuandé, Nariño, killed 14 people and injured seven on 19 October."
+  description: "A landslide at an illegal open-pit gold mine in Santa Bárbara de Iscuandé, Nariño, killed 14 people and injured seven on October 19."
 sources:
   - title: "Nariño Illegal Gold Mine Collapse Kills 14 as Gold Hits Record"
     publisher: "Discovery Alert"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Body text read only from Discovery Alert (00:52 UTC 20 Oct), which cites Reuters for 14 dead, 7 injured; Chambero sector; Governor Luis Alfonso Escobar on X (paraphrase only); Jorge Tovar Castillo early 12-15 missing figure. Al Jazeera and Euronews headlines (14 dead; 14 dead, 7 injured) corroborate; their pages could not be fetched."
-    - "August collapse: 13 dead per Al Jazeera headline (20 Aug); Discovery Alert says Policarpa, Nariño, attributed to improper ore extraction."
-    - "Cause of this collapse not reported. Time of day not reported; collapse reported Monday 19 Oct local time."
+    - "Body text read only from Discovery Alert (00:52 UTC Oct 20), which cites Reuters for 14 dead, 7 injured; Chambero sector; Governor Luis Alfonso Escobar on X (paraphrase only); Jorge Tovar Castillo early 12-15 missing figure. Al Jazeera and Euronews headlines (14 dead; 14 dead, 7 injured) corroborate; their pages could not be fetched."
+    - "August collapse: 13 dead per Al Jazeera headline (Aug 20); Discovery Alert says Policarpa, Nariño, attributed to improper ore extraction."
+    - "Cause of this collapse not reported. Time of day not reported; collapse reported Monday, Oct 19 local time."
 ---
 
 A landslide at an illegal gold mine in south-western Colombia has killed 14 people and injured seven, in the second deadly mine collapse in the department of Nariño in two months.

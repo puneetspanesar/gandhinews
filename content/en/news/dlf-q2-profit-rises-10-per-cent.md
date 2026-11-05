@@ -22,7 +22,7 @@ hero:
     value: "DLF profit up 10%"
 related: [supreme-court-stays-gurugram-dlf-colonies-sealing-drive, sensex-nifty-it-rally-weekly-gain-october-16, polycab-hdfc-life-irfc-q2-results-roundup]
 seo:
-  description: "DLF's Q2 net profit rose 10% to ₹1,301.35 crore and Oberoi Realty's was flat at ₹761.65 crore as both developers reported results on 16 October 2026."
+  description: "DLF's Q2 net profit rose 10% to ₹1,301.35 crore and Oberoi Realty's was flat at ₹761.65 crore as both developers reported results on October 16, 2026."
 sources:
   - title: "DLF Q2 net profit rises 10% to ₹1,301 cr, revenue climbs to ₹2,297 cr (PTI)"
     publisher: "Business Standard"

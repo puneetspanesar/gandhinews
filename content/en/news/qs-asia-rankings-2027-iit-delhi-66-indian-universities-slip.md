@@ -44,7 +44,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 2026 (QS release date per source; exact release time not given). Released earlier on 3 Nov, not yet on our site; acceptable per desk instruction."
+    - "event: Nov 3, 2026 (QS release date per source; exact release time not given). Released earlier on Nov 3, not yet on our site; acceptable per desk instruction."
     - "Single source read (Elets; WebFetch summary). Ranks 2026 to 2027 as given there. IIT Kanpur's 2026 rank given as 77th, same as Kharagpur; kept as reported."
     - "IIT Hyderabad's previous rank not in the source read, so the '19 places' rise in the tip was left out. Source gives conflicting new-entrant numbers (195 overall vs 34 Indian), so left out."
     - "Ben Sowter quote is a partial quote from the summary; rest paraphrased."

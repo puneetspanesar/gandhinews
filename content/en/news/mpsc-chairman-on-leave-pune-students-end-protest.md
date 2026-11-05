@@ -51,7 +51,7 @@ verification:
     - "Two-month deadline for the reform report is from IANS only."
     - "Students' demands (70,000 posts over three years, more Group C vacancies) from ANI; Navarashtra presents the 70,000 figure as a government plan. Copy treats it as a demand only."
     - "Bhimanwar and Rohit Pawar quotes are English renderings by IANS/ANI of posts and remarks likely made in Marathi."
-    - "Drug Inspector recruitment details (exam 22 March, complaints of a leak on 20 March, process cancelled) are from ANI only."
+    - "Drug Inspector recruitment details (exam March 22, complaints of a leak on March 20, process cancelled) are from ANI only."
 ---
 
 The chairman of the Maharashtra Public Service Commission (MPSC), Vivek Bhimanwar, has gone on leave pending an inquiry into alleged paper leaks, and the students who had protested in Pune for 11 days have suspended their agitation.
@@ -60,7 +60,7 @@ Bhimanwar announced the decision on X at about 1:24 am on Monday, hours after th
 
 > The autonomy, credibility, and interests of students of the MPSC have always been my priority.
 >
-> Source: Vivek Bhimanwar, MPSC chairman, on X, 12 October 2026
+> Source: Vivek Bhimanwar, MPSC chairman, on X, October 12, 2026
 
 "Throughout my entire life, I have always prioritised ethics," he added.
 
@@ -76,4 +76,4 @@ Rohit Pawar, the NCP (SP) MLA who led the agitation, said the students' main dem
 
 The panel is headed by retired judge Dilip Bhosale. Its members are retired judge P.D. Naik, former IAS officer Ganesh Patil and police officer Laxmi Gautam, with senior IAS officer Tukaram Mundhe, the Food and Drug Administration Commissioner, as secretary. It will look into the leak allegations and administrative irregularities and study structural flaws in how the commission works, with two months to submit a report on reforms.
 
-The protests followed complaints that some candidates had the question paper for the Drug Inspector screening exam, held on 22 March, two days in advance. The commission cancelled that entire recruitment process. Students have also asked for 70,000 posts to be filled over three years and for more vacancies in the next Group C exam.
+The protests followed complaints that some candidates had the question paper for the Drug Inspector screening exam, held on March 22, two days in advance. The commission cancelled that entire recruitment process. Students have also asked for 70,000 posts to be filled over three years and for more vacancies in the next Group C exam.

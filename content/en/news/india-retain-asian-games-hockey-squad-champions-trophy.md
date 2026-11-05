@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "India have kept the core of the side that **won Asian Games gold** in Japan."
   - "Defender Amandeep Lakra and midfielder **Aditya Arjun Lalage** are the new faces."
-  - "The tournament runs from **27 October to 5 November** in Jalandhar and Mohali."
+  - "The tournament runs from **October 27 to November 5** in Jalandhar and Mohali."
 hero:
   need: "India hockey captain Harmanpreet Singh in action or celebrating"
   suggested_source: "Harmanpreet Singh field hockey"
@@ -21,7 +21,7 @@ hero:
     value: "Asian champions, now at home in Punjab"
 related: [rajnath-singh-honours-services-athletes-27-asian-games-medals]
 seo:
-  description: "India name Harmanpreet Singh-led squad for the hockey Asian Champions Trophy in Jalandhar and Mohali from 27 October, keeping the Asian Games gold core."
+  description: "India name Harmanpreet Singh-led squad for the hockey Asian Champions Trophy in Jalandhar and Mohali from October 27, keeping the Asian Games gold core."
 sources:
   - title: "Asian Champions Trophy: India retain Asian Games gold-winning squad (PTI)"
     publisher: "The Bridge"
@@ -36,11 +36,11 @@ verification:
     - "India's opponents and match schedule not given in the report; left out."
 ---
 
-India have kept faith with the team that won Asian Games gold for the men's hockey Asian Champions Trophy, which they will host in Punjab from 27 October to 5 November.
+India have kept faith with the team that won Asian Games gold for the men's hockey Asian Champions Trophy, which they will host in Punjab from October 27 to November 5.
 
 Harmanpreet Singh, who captained India to the continental title in Japan and with it a place at the Los Angeles Olympics, will lead an 18-member squad with two reserves. India are the defending champions and have won the Asian Champions Trophy five times.
 
-The league stage will be played at the Olympian Surjit Singh Hockey Stadium in Jalandhar, which also hosts the opening ceremony, from 27 October to 2 November. The semi-finals on 4 November and the medal matches a day later move to the Olympian Balbir Singh Senior International Hockey Stadium in Mohali.
+The league stage will be played at the Olympian Surjit Singh Hockey Stadium in Jalandhar, which also hosts the opening ceremony, from October 27 to November 2. The semi-finals on November 4 and the medal matches a day later move to the Olympian Balbir Singh Senior International Hockey Stadium in Mohali.
 
 ## Who is in
 

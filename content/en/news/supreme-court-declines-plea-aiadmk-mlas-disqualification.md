@@ -10,9 +10,9 @@ standfirst: "The MLAs voted for the TVK government against their party's whip an
 published: 2026-10-11T19:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "On 9 October a bench led by Chief Justice Surya Kant **declined to interfere** with the Madras High Court's dismissal of a plea against the Tamil Nadu Speaker."
-  - "The 21 MLAs were among **25 AIADMK legislators** who voted for Chief Minister C. Joseph Vijay's TVK government on 13 May despite a party whip."
-  - "Speaker J.C.D. Prabhakar dropped the proceedings on 9 June after AIADMK general secretary Edappadi K. Palaniswami **pardoned the MLAs in writing**."
+  - "On October 9 a bench led by Chief Justice Surya Kant **declined to interfere** with the Madras High Court's dismissal of a plea against the Tamil Nadu Speaker."
+  - "The 21 MLAs were among **25 AIADMK legislators** who voted for Chief Minister C. Joseph Vijay's TVK government on May 13 despite a party whip."
+  - "Speaker J.C.D. Prabhakar dropped the proceedings on June 9 after AIADMK general secretary Edappadi K. Palaniswami **pardoned the MLAs in writing**."
   - "The bench **left the questions of law open** for an appropriate proceeding, so whether a party can end a defection case by pardon is still undecided."
 hero:
   need: "Fort St. George, seat of the Tamil Nadu Legislative Assembly, Chennai; or the Supreme Court of India building"
@@ -67,28 +67,28 @@ sources:
 verification:
   status: approved
   notes:
-    - "The Supreme Court's order was not opened; the bench's remarks are as reported by Deccan Chronicle, DT Next and ETV Bharat on 9-10 October. The 'interloper' and 'multi-party system' remarks appear only in ETV Bharat and are attributed to the bench, not to a named judge."
+    - "The Supreme Court's order was not opened; the bench's remarks are as reported by Deccan Chronicle, DT Next and ETV Bharat on October 9-10. The 'interloper' and 'multi-party system' remarks appear only in ETV Bharat and are attributed to the bench, not to a named judge."
     - "Justice Bagchi's quote ('We are fully with you...') is from DT Next; Deccan Chronicle paraphrases the same point."
-    - "The 27 May date of Palaniswami's letter is from ETV Bharat; The Wire says he wrote four separate letters. Copy says only that he wrote to the Speaker."
-    - "Status of the four MLAs who resigned: The Wire (10 June) said proceedings against them would be decided later; ETV Bharat (18 Aug) said Palaniswami withdrew the request against them; LiveLaw said the Speaker accepted their resignations. Copy says only that they resigned from the AIADMK."
-    - "TVK's 108 seats, the 118 majority mark and the 144 votes in the confidence motion are from LiveLaw (19 Aug) only; not checked against Assembly records."
-    - "LiveLaw (19 Aug) says C. Vijayabhaskar and M.R. Vijayabhaskar 'later resigned' and that six MLAs' resignations are in a separate court matter; unclear and not used. Do not state that all 21 remain AIADMK MLAs without checking."
+    - "The May 27 date of Palaniswami's letter is from ETV Bharat; The Wire says he wrote four separate letters. Copy says only that he wrote to the Speaker."
+    - "Status of the four MLAs who resigned: The Wire (June 10) said proceedings against them would be decided later; ETV Bharat (Aug 18) said Palaniswami withdrew the request against them; LiveLaw said the Speaker accepted their resignations. Copy says only that they resigned from the AIADMK."
+    - "TVK's 108 seats, the 118 majority mark and the 144 votes in the confidence motion are from LiveLaw (Aug 19) only; not checked against Assembly records."
+    - "LiveLaw (Aug 19) says C. Vijayabhaskar and M.R. Vijayabhaskar 'later resigned' and that six MLAs' resignations are in a separate court matter; unclear and not used. Do not state that all 21 remain AIADMK MLAs without checking."
     - "No statement from the AIADMK, TVK or the Speaker's office on the Supreme Court order was found."
-    - "Independent fact-check 11 Oct: 'constitutional farce' is LiveLaw's paraphrase of the petitioner's argument, not a direct quote, so the quotation marks were removed. All other quotes, names, dates and figures checked against DT Next, ETV Bharat, Deccan Chronicle, LiveLaw and The Wire and found to match."
+    - "Independent fact-check Oct 11: 'constitutional farce' is LiveLaw's paraphrase of the petitioner's argument, not a direct quote, so the quotation marks were removed. All other quotes, names, dates and figures checked against DT Next, ETV Bharat, Deccan Chronicle, LiveLaw and The Wire and found to match."
 ---
 
-The Supreme Court on 9 October declined to hear a challenge to the Tamil Nadu Assembly Speaker's decision to drop disqualification proceedings against 21 AIADMK MLAs. The MLAs had voted for the Tamilaga Vettri Kazhagam (TVK) government in a confidence motion, against their party's whip.
+The Supreme Court on October 9 declined to hear a challenge to the Tamil Nadu Assembly Speaker's decision to drop disqualification proceedings against 21 AIADMK MLAs. The MLAs had voted for the Tamilaga Vettri Kazhagam (TVK) government in a confidence motion, against their party's whip.
 
 A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana refused to interfere with the Madras High Court's dismissal of a public interest petition filed by P.V. Selvakumar. It left the questions of law open, to be considered in an appropriate proceeding.
 
 ## How the case began
 
-The TVK won 108 seats in the 2026 Assembly election, short of the 118 needed for a majority. In the confidence motion on 13 May, the government of Chief Minister C. Joseph Vijay received 144 votes. Twenty-five AIADMK MLAs, led by S.P. Velumani and C. Vijayabaskar, voted for it despite a whip directing them to vote against.
+The TVK won 108 seats in the 2026 Assembly election, short of the 118 needed for a majority. In the confidence motion on May 13, the government of Chief Minister C. Joseph Vijay received 144 votes. Twenty-five AIADMK MLAs, led by S.P. Velumani and C. Vijayabaskar, voted for it despite a whip directing them to vote against.
 
-AIADMK general secretary Edappadi K. Palaniswami sought the disqualification of all 25 under the Tenth Schedule, the anti-defection law, and proceedings began on 14 May. Four of the 25 later resigned from the AIADMK and joined the TVK. For the other 21, Palaniswami wrote to the Speaker pardoning their conduct. Speaker J.C.D. Prabhakar accepted the letters and dropped the proceedings on 9 June.
+AIADMK general secretary Edappadi K. Palaniswami sought the disqualification of all 25 under the Tenth Schedule, the anti-defection law, and proceedings began on May 14. Four of the 25 later resigned from the AIADMK and joined the TVK. For the other 21, Palaniswami wrote to the Speaker pardoning their conduct. Speaker J.C.D. Prabhakar accepted the letters and dropped the proceedings on June 9.
 
 ```timeline
-{"title":"The 21 AIADMK MLAs case","items":[{"date":"13 May 2026","text":"25 AIADMK MLAs vote for the TVK government in the confidence motion, against the party whip."},{"date":"14 May 2026","text":"Disqualification proceedings begin under the Tenth Schedule."},{"date":"9 Jun 2026","text":"Speaker J.C.D. Prabhakar drops proceedings against 21 MLAs after the party pardons them."},{"date":"18 Aug 2026","text":"Madras High Court dismisses P.V. Selvakumar's public interest petition."},{"date":"9 Oct 2026","text":"Supreme Court declines to interfere and leaves the questions of law open."}]}
+{"title":"The 21 AIADMK MLAs case","items":[{"date":"May 13, 2026","text":"25 AIADMK MLAs vote for the TVK government in the confidence motion, against the party whip."},{"date":"May 14, 2026","text":"Disqualification proceedings begin under the Tenth Schedule."},{"date":"Jun 9, 2026","text":"Speaker J.C.D. Prabhakar drops proceedings against 21 MLAs after the party pardons them."},{"date":"Aug 18, 2026","text":"Madras High Court dismisses P.V. Selvakumar's public interest petition."},{"date":"Oct 9, 2026","text":"Supreme Court declines to interfere and leaves the questions of law open."}]}
 ```
 
 ## What the petitioner argued
@@ -101,13 +101,13 @@ The state, through Advocate General Vijay Narayan, had argued in the High Court 
 
 ## What the courts said
 
-The High Court bench of Chief Justice S.A. Dharmadhikari and Justice G. Arul Murugan dismissed the petition on 18 August, noting that the party had condoned the MLAs within the 15 days the law allows. "They have not resigned. The petitioner is a third party," the bench observed.
+The High Court bench of Chief Justice S.A. Dharmadhikari and Justice G. Arul Murugan dismissed the petition on August 18, noting that the party had condoned the MLAs within the 15 days the law allows. "They have not resigned. The petitioner is a third party," the bench observed.
 
 In the Supreme Court, Justice Bagchi said proceedings under the Tenth Schedule must be pursued by a member of the House. "We are fully with you that the sanctity of constitutional mandate must be preserved," he said. The bench noted that the AIADMK leadership appeared to have condoned the MLAs' conduct and said: "They continue to be in AIADMK."
 
 > We have a multi-party system. One can say I prefer party C to be in power than party B.
 >
-> Source: Supreme Court bench, hearing on 9 October 2026
+> Source: Supreme Court bench, hearing on October 9, 2026
 
 The bench added, "If the party had made an application, we could appreciate," and told the petitioner's side that "it appears you are at best an opportunistic interloper", or "at best a conscientious person adhering to minority philosophy".
 

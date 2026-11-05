@@ -22,7 +22,7 @@ hero:
     value: "3-1 up, one last game in Hamilton"
 related: [nz-thrash-india-87-runs-eden-park-fourth-t20i, tilak-nitish-india-beat-new-zealand-2-0-christchurch, india-record-chase-beat-new-zealand-christchurch-naman-dhir, india-new-zealand-second-t20i-sooryavanshi-kishan-preview]
 seo:
-  description: "India meet New Zealand in the fifth and final T20I at Seddon Park, Hamilton, on 1 November at 12:30 pm IST, leading the series 3-1. Team news and conditions."
+  description: "India meet New Zealand in the fifth and final T20I at Seddon Park, Hamilton, on November 1 at 12:30 pm IST, leading the series 3-1. Team news and conditions."
 sources:
   - title: "New Zealand vs India, 5th T20I, Seddon Park"
     publisher: "Wisden"
@@ -42,14 +42,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview, match starts 1 Nov 12:30 IST (20:00 NZDT) at Seddon Park. Venue, date, local start from Wisden match page (pre-match, 'Teams will be announced at the toss'); 12:30 pm IST from Yahoo and India.com."
+    - "event: preview, match starts Nov 1 12:30 IST (20:00 NZDT) at Seddon Park. Venue, date, local start from Wisden match page (pre-match, 'Teams will be announced at the toss'); 12:30 pm IST from Yahoo and India.com."
     - "Phillips century and Bracewell blitz in 4th T20I: Yahoo (Phillips century also India.com). Mayank Yadav three wickets after replacing Bhuvneshwar, Bhuvneshwar 1 wicket/139 runs/11.58 economy in three games, Sooryavanshi 4 and 45 off 19, Kuldeep expected back, Varun available, Arshdeep best bowler, Rahane quotes (YouTube channel), Prasidh out of ODIs replaced by Auqib Nabi, Nitish Reddy added: India.com single source."
-    - "Seddon Park T20I record (23 matches, first-innings average 168, highest 212/4 NZ v India) from Yahoo. Earlier results and ODI start 4 Nov Auckland from our 30 Oct story (ESPN). Predicted XIs not used."
+    - "Seddon Park T20I record (23 matches, first-innings average 168, highest 212/4 NZ v India) from Yahoo. Earlier results and ODI start Nov 4 Auckland from our Oct 30 story (ESPN). Predicted XIs not used."
 ---
 
 India go into Sunday's last T20I in Hamilton with the series won but with a fresh bruise. Shreyas Iyer's side meet New Zealand at Seddon Park **at 12:30 pm IST**, two days after the hosts piled up 259 for seven at Eden Park and won by 87 runs.
 
-That defeat broke a run of three Indian wins: two tight chases in Christchurch and a rout in Wellington, where they **chased 199 in 13.2 overs**. India lead 3-1, so Sunday is about finishing well before five one-day internationals start in Auckland on 4 November.
+That defeat broke a run of three Indian wins: two tight chases in Christchurch and a rout in Wellington, where they **chased 199 in 13.2 overs**. India lead 3-1, so Sunday is about finishing well before five one-day internationals start in Auckland on November 4.
 
 New Zealand needed a Glenn Phillips century and a Michael Bracewell blitz to reach their total on Friday, and Mitchell Santner's side will want **a second straight win** to take into the ODIs.
 

@@ -15,8 +15,8 @@ keyPoints:
   - "**90% of zero-rated and inverted-duty refund claims** would be sanctioned automatically and provisionally on the basis of system risk checks."
   - "The release says the recommendations take legal effect **only through circulars, notifications and law amendments**."
 hero:
-  need: "Finance Minister Nirmala Sitharaman chairing or briefing after the 57th GST Council meeting at Bharat Mandapam, 8 October 2026"
-  suggested_source: "PIB photo gallery, 8 Oct 2026 (search 'GST Council 57th meeting'); credit PIB"
+  need: "Finance Minister Nirmala Sitharaman chairing or briefing after the 57th GST Council meeting at Bharat Mandapam, October 8, 2026"
+  suggested_source: "PIB photo gallery, Oct 8, 2026 (search 'GST Council 57th meeting'); credit PIB"
   alt: "Finance Minister Nirmala Sitharaman at the 57th GST Council meeting in New Delhi"
   overlay:
     value: "No arrest powers, ₹5 crore prosecution threshold"
@@ -52,17 +52,17 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-checked 11 Oct 2026 against the GST Council release PDF: section 69 wording, ₹1 crore to ₹5 crore, section 132(1) changes, ₹10,000 SCN threshold, section 125 penalty, 5% reduced penalty (30 days under s.73, 60 days under s.74A), 15 to 10 days, 90% provisional refunds, 1 Nov 2026 and 1 Apr 2027 dates, 60 months, section 17(5) list, e-commerce warehouse registration, three rate decisions and the 'circulars/ notifications/ law amendments' sentence all confirmed. Sitharaman and Modi quotes and the 1 April 2027 date confirmed in Deccan Chronicle; Taxscan confirms the 'criminality' remark. Business Today confirms the September GST figures."
+    - "Fact-checked Oct 11, 2026, against the GST Council release PDF: section 69 wording, ₹1 crore to ₹5 crore, section 132(1) changes, ₹10,000 SCN threshold, section 125 penalty, 5% reduced penalty (30 days under s.73, 60 days under s.74A), 15 to 10 days, 90% provisional refunds, Nov 1, 2026, and Apr 1, 2027, dates, 60 months, section 17(5) list, e-commerce warehouse registration, three rate decisions and the 'circulars/ notifications/ law amendments' sentence all confirmed. Sitharaman and Modi quotes and the April 1, 2027, date confirmed in Deccan Chronicle; Taxscan confirms the 'criminality' remark. Business Today confirms the September GST figures."
     - "Not in the story but worth noting: the e-commerce auto-registration applies only where the supplier passes on ITC of up to ₹2.5 lakh a month (release)."
-    - "Decisions checked against the official GST Council Secretariat release of 8 Oct 2026 (PDF). Earlier research relied on Taxscan only."
+    - "Decisions checked against the official GST Council Secretariat release of Oct 8, 2026 (PDF). Earlier research relied on Taxscan only."
     - "Correction to research brief: the release does contain some rate decisions (psyllium seeds at NIL, an optional 5% rate for EV passenger transport, 5% without credit for e-commerce operator delivery services). The headline therefore says slabs were unchanged, not that there were 'no rate changes'."
     - "The '3 working days' refund timeline and '65% of registration amendments auto-approved' figure in Taxscan are not in the official release and have been left out."
-    - "The 1 April 2027 implementation date for the agenda items is attributed to the Finance Minister by Deccan Chronicle and Taxscan; the official release gives no single implementation date."
+    - "The April 1, 2027, implementation date for the agenda items is attributed to the Finance Minister by Deccan Chronicle and Taxscan; the official release gives no single implementation date."
     - "Sitharaman and Modi quotes are taken from Deccan Chronicle's report; not checked against a video or the PIB transcript."
     - "Deccan Chronicle's report that rate changes will now be made once a year is single-source and not in the release; left out."
 ---
 
-The GST Council has recommended taking away the power of GST officers to arrest taxpayers and raising the threshold for criminal prosecution from ₹1 crore to ₹5 crore. The 57th meeting, held on 8 October 2026 at Bharat Mandapam in New Delhi and chaired by Finance Minister Nirmala Sitharaman, kept the tax slabs unchanged and concentrated on enforcement and compliance.
+The GST Council has recommended taking away the power of GST officers to arrest taxpayers and raising the threshold for criminal prosecution from ₹1 crore to ₹5 crore. The 57th meeting, held on October 8, 2026, at Bharat Mandapam in New Delhi and chaired by Finance Minister Nirmala Sitharaman, kept the tax slabs unchanged and concentrated on enforcement and compliance.
 
 The meeting was the Council's first since the 56th meeting in September 2025, which approved the move to a two-rate structure of 5% and 18%.
 
@@ -74,7 +74,7 @@ Prosecution is narrowed as well as made rarer. Apart from the higher ₹5 crore 
 
 > Business has to be trusted. Taxpayers have to be trusted.
 >
-> Source: Nirmala Sitharaman, Union Finance Minister, at the post-meeting briefing on 8 October 2026, as reported by Deccan Chronicle
+> Source: Nirmala Sitharaman, Union Finance Minister, at the post-meeting briefing on October 8, 2026, as reported by Deccan Chronicle
 
 Taxscan reported the Finance Minister as saying that prosecution would continue where there is criminality.
 
@@ -85,14 +85,14 @@ No show cause notice would be issued where the total tax at stake (central, stat
 The general penalty under section 125, which applies where no specific penalty is set, would fall from ₹25,000 to ₹10,000. In cases without fraud, the penalty would drop to 5% if tax and interest are paid within 30 or 60 days of the order, depending on the section.
 
 ```facts
-{"title":"57th GST Council: key thresholds","items":[{"value":"₹5 crore","label":"proposed prosecution threshold, up from ₹1 crore","source":"GST Council release, 8 Oct 2026"},{"value":"₹10,000","label":"minimum tax at stake before a show cause notice","source":"GST Council release"},{"value":"90%","label":"of zero-rated and inverted-duty refund claims to be sanctioned automatically and provisionally","source":"GST Council release"},{"value":"1 Nov 2026","label":"input services credit becomes refundable under the inverted duty structure","source":"GST Council release"}]}
+{"title":"57th GST Council: key thresholds","items":[{"value":"₹5 crore","label":"proposed prosecution threshold, up from ₹1 crore","source":"GST Council release, Oct 8, 2026"},{"value":"₹10,000","label":"minimum tax at stake before a show cause notice","source":"GST Council release"},{"value":"90%","label":"of zero-rated and inverted-duty refund claims to be sanctioned automatically and provisionally","source":"GST Council release"},{"value":"Nov 1, 2026","label":"input services credit becomes refundable under the inverted duty structure","source":"GST Council release"}]}
 ```
 
 ## Refunds, credit and registration
 
 The time to acknowledge a refund claim would fall from 15 days to 10, with deemed acknowledgement after that. Exporters and businesses with an inverted duty structure would get 90% of their claim sanctioned automatically and provisionally, based on a system risk assessment.
 
-Refunds of accumulated credit on input services under the inverted duty structure would be allowed for credit taken on or after 1 November 2026. Credit on capital goods would become refundable for credit taken on or after 1 April 2027, spread over 60 months.
+Refunds of accumulated credit on input services under the inverted duty structure would be allowed for credit taken on or after November 1, 2026. Credit on capital goods would become refundable for credit taken on or after April 1, 2027, spread over 60 months.
 
 The Council also recommended removing restrictions on input tax credit for health and life insurance, outdoor catering, telecom towers, pipelines outside factory premises and free samples. Small e-commerce sellers without a physical presence in a state could register automatically by declaring the platform's warehouse as their place of business.
 
@@ -104,6 +104,6 @@ Prime Minister Narendra Modi welcomed the recommendations in a post on X: "The f
 
 ## What happens next
 
-The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. According to Deccan Chronicle and Taxscan, Sitharaman said the agenda items would be implemented from 1 April 2027.
+The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. According to Deccan Chronicle and Taxscan, Sitharaman said the agenda items would be implemented from April 1, 2027.
 
 The meeting came as collections stayed strong. Gross GST revenue in September 2026 was about ₹2.04 lakh crore, up 14.7% on a year earlier, according to provisional data reported by Business Today.

@@ -22,7 +22,7 @@ hero:
     value: "'From the streets to the legislature'"
 related: [rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign]
 seo:
-  description: "Congress president Mallikarjun Kharge said on 2 November 2026 that the BJP's double-engine government had betrayed Uttarakhand, after a review of 2027 poll preparations with Rahul Gandhi, K C Venugopal, Kumari Selja and Ganesh Godiyal."
+  description: "Congress president Mallikarjun Kharge said on November 2, 2026, that the BJP's double-engine government had betrayed Uttarakhand, after a review of 2027 poll preparations with Rahul Gandhi, K C Venugopal, Kumari Selja and Ganesh Godiyal."
 sources:
   - title: "BJP's 'double-engine' govt in Uttarakhand 'betrayed' people, change in offing: Cong (PTI)"
     publisher: "ThePrint"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, meeting at 10 Rajaji Marg and Kharge's and Venugopal's X posts; PTI copy time-stamped 15:49 IST. Meeting start time not given."
+    - "event: Nov 2, meeting at 10 Rajaji Marg and Kharge's and Venugopal's X posts; PTI copy time-stamped 15:49 IST. Meeting start time not given."
     - "Single source (PTI via ThePrint). Kharge posted in Hindi; quotes are PTI's English rendering. Hindi twin translates them back; original Hindi wording not available."
     - "Venugopal's quote shortened to avoid a dash in the original ('severe injustice ... from leaked papers to a mockery of justice in the Ankita Bhandari case')."
     - "'Ten years' is Kharge's figure for BJP rule in the state, as reported."

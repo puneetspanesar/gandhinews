@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single media source (Arab News PK, 7:22 pm PKT / 7:52 pm IST, 21 Oct) for the remarks; quotes are Sharif's own words at a televised joint press stakeout. No MEA response found by the time of writing."
+    - "Single media source (Arab News PK, 7:22 pm PKT / 7:52 pm IST, Oct 21) for the remarks; quotes are Sharif's own words at a televised joint press stakeout. No MEA response found by the time of writing."
     - "Maldivian president not named in the source; copy says only 'the Maldivian president'."
     - "Treaty background (1960, World Bank, eastern and western rivers) is standard and also in the source. Copy does not name the April 2025 attack site because the source does not."
 ---

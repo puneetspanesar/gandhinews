@@ -22,7 +22,7 @@ hero:
     value: "'Art is a mirror of our culture'"
 related: []
 seo:
-  description: "President Droupadi Murmu called for economic support and market access for rural and folk artists at the 65th National Exhibition of Art awards on 21 October 2026."
+  description: "President Droupadi Murmu called for economic support and market access for rural and folk artists at the 65th National Exhibition of Art awards on October 21, 2026."
 sources:
   - title: "'Art is mirror of culture': President Murmu calls for empowering rural, folk artists at 65th National Exhibition of Art"
     publisher: "NewKerala (ANI)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI via NewKerala, 14:18 on 21 Oct). Venue and award winners not given in source; none named. Lalit Kala Akademi praised by Murmu; not stated as organiser."
+    - "Single source (ANI via NewKerala, 14:18 on Oct 21). Venue and award winners not given in source; none named. Lalit Kala Akademi praised by Murmu; not stated as organiser."
 ---
 
 President Droupadi Murmu on Wednesday called for artists in rural and remote parts of India to be given economic support, training and access to wider markets, as she presented the awards of the 65th National Exhibition of Art in New Delhi.

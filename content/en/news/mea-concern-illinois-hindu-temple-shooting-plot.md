@@ -38,7 +38,7 @@ verification:
   notes:
     - "MEA statement: Deccan Chronicle (ANI, 4:06 pm IST) says 'on Wednesday'; NewsDrum (4:03 pm) says Jaiswal responded to media queries 'on Thursday'. Copy avoids naming the day of the statement."
     - "MEA statement not seen on mea.gov.in (not fetched). Quotes verbatim from ANI copy; two outlets agree on wording."
-    - "Rifle malfunction and flight, next court date 30 October, FBI assistance, Chicago consulate's reaction: NewsDrum only; hedged as 'prosecutors say' / attributed. Specific temple not identified."
+    - "Rifle malfunction and flight, next court date October 30, FBI assistance, Chicago consulate's reaction: NewsDrum only; hedged as 'prosecutors say' / attributed. Specific temple not identified."
     - "Plot details are allegations from Palatine police and prosecutors; charges not proven."
 ---
 
@@ -50,13 +50,13 @@ He said the anti-Hindu and racist nature of the plot, including its references t
 
 ## What police in Illinois say
 
-The accused is Alexandros Paporakis, 19, of Palatine, Illinois. Palatine police say their investigation began on 11 October, after the Mount Prospect police department passed on information about a possible mass shooting. That information came from a person who had received worrying electronic messages from Paporakis.
+The accused is Alexandros Paporakis, 19, of Palatine, Illinois. Palatine police say their investigation began on October 11, after the Mount Prospect police department passed on information about a possible mass shooting. That information came from a person who had received worrying electronic messages from Paporakis.
 
 According to police, he had shared a document setting out a plan to attack a Hindu temple, along with pictures of a rifle, magazines, body armour and tactical gear. He was arrested as he left his home. Officers say they recovered a rifle, loaded magazines, hundreds of rounds of ammunition and a body-armour vest carrying a patch with white supremacist imagery.
 
-Investigators believe the attack may have been planned for 11 October and aimed at a Hindu place of worship in the Aurora area near Chicago. The temple has not been identified. Police say a document titled "Why I Fought: A.K.A.: (Aurora Shooter's Manifesto)" set out white supremacist views and referred to violence against people of South Asian, and particularly Indian, descent. Prosecutors have also alleged that he tried to carry out the plan but fled when his rifle malfunctioned.
+Investigators believe the attack may have been planned for October 11 and aimed at a Hindu place of worship in the Aurora area near Chicago. The temple has not been identified. Police say a document titled "Why I Fought: A.K.A.: (Aurora Shooter's Manifesto)" set out white supremacist views and referred to violence against people of South Asian, and particularly Indian, descent. Prosecutors have also alleged that he tried to carry out the plan but fled when his rifle malfunctioned.
 
-Paporakis faces one count of making a terrorist threat, a Class X felony, and one count of unlawful possession of weapons. At a detention hearing on Wednesday, a judge ordered that he be held in custody. His next court date was reported to be 30 October, and the FBI is assisting local police.
+Paporakis faces one count of making a terrorist threat, a Class X felony, and one count of unlawful possession of weapons. At a detention hearing on Wednesday, a judge ordered that he be held in custody. His next court date was reported to be October 30, and the FBI is assisting local police.
 
 ## A sharper tone from Delhi
 

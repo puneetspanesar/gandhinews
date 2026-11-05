@@ -22,7 +22,7 @@ hero:
     value: "State heads to the top court"
 related: [zubeen-garg-complainant-ratul-bora-to-move-supreme-court, zubeen-garg-cousin-sandipan-bail-gauhati-high-court]
 seo:
-  description: "The Assam government will move the Supreme Court against the Gauhati High Court's bail to Amritprava Mahanta and Sandipan Garg in the Zubeen Garg death case, officials said on 18 October."
+  description: "The Assam government will move the Supreme Court against the Gauhati High Court's bail to Amritprava Mahanta and Sandipan Garg in the Zubeen Garg death case, officials said on October 18."
 sources:
   - title: "Assam govt to move SC against grant of bail to 2 accused in Zubeen death case (PTI)"
     publisher: "ThePrint"
@@ -48,12 +48,12 @@ Advocate General Devajit Saikia said he had found "some discrepancies" in Mahant
 
 The detailed order on Sandipan Garg's bail was not yet available, he said, and the state would file a petition if it found discrepancies there too.
 
-The High Court granted Mahanta bail on 9 October and Sandipan Garg on 16 October; lower courts had earlier turned both down. Mahanta has been released, while Sandipan Garg was awaiting the execution of his order.
+The High Court granted Mahanta bail on October 9 and Sandipan Garg on October 16; lower courts had earlier turned both down. Mahanta has been released, while Sandipan Garg was awaiting the execution of his order.
 
 Mr Gupta said 134 witnesses had been examined so far. "No witness has turned hostile," he said.
 
 ## The wider case
 
-Garg died on 19 September 2025 while swimming in the sea in Singapore, where he had gone for the North East India Festival. Singapore police found no evidence of foul play, but Assam authorities say those findings do not affect their case. A CID special investigation team, set up after more than 60 FIRs were filed across the state, charged seven people in December 2025, four of them with murder.
+Garg died on September 19, 2025, while swimming in the sea in Singapore, where he had gone for the North East India Festival. Singapore police found no evidence of foul play, but Assam authorities say those findings do not affect their case. A CID special investigation team, set up after more than 60 FIRs were filed across the state, charged seven people in December 2025, four of them with murder.
 
 Ratul Bora, the Morigaon lawyer who filed the first police complaint after the singer's death, said on Saturday that he too would go to the Supreme Court against the bail orders.

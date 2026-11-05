@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Jio Platforms' IPO was subscribed **5.51 times** overall by 6:57 pm on Thursday."
   - "Qualified institutional buyers bid for **13.14 times** the shares reserved for them."
-  - "The issue **closes on Friday**, and the shares are due to list on 28 October."
+  - "The issue **closes on Friday**, and the shares are due to list on October 28."
 hero:
   need: "Reliance Corporate Park, the Reliance and Jio campus at Ghansoli, Navi Mumbai"
   suggested_source: "Reliance Corporate Park Navi Mumbai"
@@ -22,7 +22,7 @@ hero:
     value: "5.51 times, one day to go"
 related: [jio-ipo-retail-quota-full-day-two-3-47-times, jio-platforms-ipo-three-times-subscribed-day-one-qib, jio-platforms-ipo-opens-today-what-bidders-need-to-know, jio-platforms-anchor-book-8110-crore-30-times-demand]
 seo:
-  description: "Jio Platforms IPO subscription status day 2, 22 October 2026: 5.51 times overall, QIB 13.14x, NII 5.91x, retail 1.53x. Issue closes 23 October; allotment 26 October, listing 28 October."
+  description: "Jio Platforms IPO subscription status day 2, October 22, 2026: 5.51 times overall, QIB 13.14x, NII 5.91x, retail 1.53x. Issue closes October 23; allotment October 26, listing October 28."
 sources:
   - title: "Jio Platforms IPO subscription status"
     publisher: "IPOJI"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Category figures from IPOJI 6:57 pm snapshot (citing BSE/NSE); 5 pm snapshot 5.24x. Kotak Neo had 4.38x at 3 pm and QIB 10.07x. Exchange pages not read directly."
-    - "Price band, lot, listing date 28 Oct, allotment 26 Oct from earlier desk stories and IPOJI (allotment)."
+    - "Price band, lot, listing date Oct 28, allotment Oct 26 from earlier desk stories and IPOJI (allotment)."
     - "Retail by applications 0.76x per IPOJI."
 ---
 
@@ -61,6 +61,6 @@ Retail demand counted by number of applications stood at 0.76 times on Thursday 
 
 ## What comes next
 
-Bidding closes on Friday, 23 October. Allotment is due to be finalised on Monday, 26 October, and the shares are scheduled to list on the BSE and NSE on Wednesday, 28 October.
+Bidding closes on Friday, October 23. Allotment is due to be finalised on Monday, October 26, and the shares are scheduled to list on the BSE and NSE on Wednesday, October 28.
 
 The money raised has already helped the rupee: dealers credited dollar inflows for the issue with Wednesday's six-week high in the currency.

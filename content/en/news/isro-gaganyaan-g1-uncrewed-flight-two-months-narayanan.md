@@ -22,7 +22,7 @@ hero:
     value: "Vyommitra's ride, two months out"
 related: [isro-gaganyaan-crew-service-module-separation-tests, nvs-03-navic-satellite-gslv-launch-october-30]
 seo:
-  description: "ISRO chairman V Narayanan said on 24 October that Gaganyaan's uncrewed G1 test flight carrying robot Vyommitra on HLVM3 will be conducted in about two months."
+  description: "ISRO chairman V Narayanan said on October 24 that Gaganyaan's uncrewed G1 test flight carrying robot Vyommitra on HLVM3 will be conducted in about two months."
 sources:
   - title: "Gaganyaan first test flight in 2 months: ISRO Chief"
     publisher: "UNI"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source for Saturday's remarks: UNI (Chennai, 24 Oct, 11:35 UTC = 5:05 pm IST); visible portion about 100 words, rest paywalled. Quote in UNI reads 'till be conducted' (typo); copy paraphrases the timeline and quotes only the Vyommitra sentence."
-    - "Background on separation tests from ISRO release of 16 Oct, as used in our 17 Oct story."
+    - "Single source for Saturday's remarks: UNI (Chennai, Oct 24, 11:35 UTC = 5:05 pm IST); visible portion about 100 words, rest paywalled. Quote in UNI reads 'till be conducted' (typo); copy paraphrases the timeline and quotes only the Vyommitra sentence."
+    - "Background on separation tests from ISRO release of Oct 16, as used in our Oct 17 story."
     - "No exact launch date given; 'about two months' is UNI's framing of his remark. Copy does not convert it into a month."
 ---
 
@@ -48,7 +48,7 @@ Speaking to reporters in Chennai after a graduation day event at the Sri Ramacha
 
 "G1 flight is an uncrewed test mission that will carry the half-humanoid robot Vyommitra into a low Earth orbit," he said.
 
-The remark is the clearest timeline ISRO has given for G1 in recent weeks. When the agency announced its latest ground tests on 16 October, it said only that the flight was targeted for 2026, with no date fixed.
+The remark is the clearest timeline ISRO has given for G1 in recent weeks. When the agency announced its latest ground tests on October 16, it said only that the flight was targeted for 2026, with no date fixed.
 
 ## Getting ready for G1
 
@@ -58,4 +58,4 @@ Engineers at the Vikram Sarabhai Space Centre in Thiruvananthapuram completed a 
 
 Earlier in the year, the G1 crew module was dropped from an aircraft to test its parachute descent, and ISRO qualified the system that turns the capsule upright after splashdown. India's first crewed flight is targeted for 2027.
 
-Narayanan did not give an exact launch date on Saturday. ISRO's next scheduled launch is the GSLV mission carrying the NVS-03 navigation satellite, set for 30 October.
+Narayanan did not give an exact launch date on Saturday. ISRO's next scheduled launch is the GSLV mission carrying the NVS-03 navigation satellite, set for October 30.

@@ -22,7 +22,7 @@ hero:
     value: "1,000 drones, one night"
 related: [trump-announces-russia-ukraine-energy-ceasefire, ukraine-resumes-strikes-russian-oil-refineries, russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout, trump-waives-russia-sanctions-law-india-tariff-threat, zelenskyy-us-proposes-trilateral-putin-summit-december]
 seo:
-  description: "Ukraine launched more than 1,000 drones at Russia overnight to 18 October 2026, setting the Petersburg Oil Terminal ablaze; Zelenskyy says Russia hit Ukrainian energy 76 times in a week."
+  description: "Ukraine launched more than 1,000 drones at Russia overnight to October 18, 2026, setting the Petersburg Oil Terminal ablaze; Zelenskyy says Russia hit Ukrainian energy 76 times in a week."
 verification:
   status: approved
   notes:
@@ -59,13 +59,13 @@ In Ukraine, Russian attacks on Zaporizhzhia killed a woman and wounded at least 
 
 ## A ceasefire in name only
 
-The strikes deepen the collapse of the "energy ceasefire" that President Donald Trump announced on 11 October without giving details. Kyiv reported Russian attacks on its power grid soon afterwards, and on Thursday Ukraine confirmed it had resumed strikes on Russian oil facilities after a three-day pause. Trump has criticised those strikes, adding to the strain between Kyiv and Washington.
+The strikes deepen the collapse of the "energy ceasefire" that President Donald Trump announced on October 11 without giving details. Kyiv reported Russian attacks on its power grid soon afterwards, and on Thursday Ukraine confirmed it had resumed strikes on Russian oil facilities after a three-day pause. Trump has criticised those strikes, adding to the strain between Kyiv and Washington.
 
 President Volodymyr Zelenskyy said on Sunday that Russia had attacked Ukraine's energy, oil and gas sectors 76 times in the week since the announcement. Energy facilities in four regions were hit overnight, he said, leaving tens of thousands of families without power, and he accused Moscow of trying to cause a blackout.
 
 "America should see that Russia is not taking any reciprocal steps in response to sanctions relief or agreements," Zelenskyy wrote. "It is Russia that must face pressure for peace to have a chance."
 
-His remarks were aimed squarely at Washington. On Friday Trump signed an order waiving key penalties under a new Russia sanctions law, including extra tariffs on the biggest buyers of Russian oil such as India and China, and announced a deal for Russia to supply diesel to world markets as fuel prices weigh on American voters before the 3 November midterm elections.
+His remarks were aimed squarely at Washington. On Friday Trump signed an order waiving key penalties under a new Russia sanctions law, including extra tariffs on the biggest buyers of Russian oil such as India and China, and announced a deal for Russia to supply diesel to world markets as fuel prices weigh on American voters before the November 3 midterm elections.
 
 ## What comes next
 

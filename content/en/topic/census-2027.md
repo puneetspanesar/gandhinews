@@ -39,7 +39,7 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-checked 11 Oct 2026 against Business Standard (14 Aug), the 5 Sep gazette, ANI, Telangana Today and Arunachal Times (₹11,718 crore, first digital census). Removed 'India's 16th census' (unsourced)."
+    - "Fact-checked Oct 11, 2026, against Business Standard (Aug 14), the Sep 5 gazette, ANI, Telangana Today and Arunachal Times (₹11,718 crore, first digital census). Removed 'India's 16th census' (unsourced)."
     - "National completion of house listing is not confirmed by an official source; the phase was scheduled for April to September 2026 (ANI)."
     - "Related id 'elections-2027' exists as topic/elections-2027.md."
 ---
@@ -48,18 +48,18 @@ Census 2027 is India's first census since 2011. It is the first to be carried ou
 
 ## Where things stand
 
-The first phase, house listing and housing, was scheduled from April to September 2026, state by state. On 14 August 2026 the Registrar General notified 40 questions for the population count, including caste, Aadhaar number, mobile number and the number of bank accounts.
+The first phase, house listing and housing, was scheduled from April to September 2026, state by state. On August 14, 2026, the Registrar General notified 40 questions for the population count, including caste, Aadhaar number, mobile number and the number of bank accounts.
 
-Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand were counted in September 2026. Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand, all with assembly terms ending in 2027, will be counted from 1 December 2026 to 4 January 2027. The rest of India follows in February 2027.
+Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand were counted in September 2026. Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand, all with assembly terms ending in 2027, will be counted from December 1, 2026, to January 4, 2027. The rest of India follows in February 2027.
 
 The questions also include new items such as particulars of parents and spouse, digital literacy and where a person received a Covid-19 vaccine. The notification does not include a pre-set list of castes, so answers are to be recorded as given. How the Registrar General will group those answers, and when caste tables will be published, has not been announced.
 
 ```timeline
-{"title":"Key dates","items":[{"date":"Apr–Sep 2026","text":"House listing and housing phase"},{"date":"14 Aug 2026","text":"40 population questions notified, including caste"},{"date":"5 Sep 2026","text":"Count advanced in four poll-bound states"},{"date":"1 Dec 2026–4 Jan 2027","text":"Count in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Feb 2027","text":"Count in the rest of India"},{"date":"1 Mar 2027","text":"Reference date for most of India"}]}
+{"title":"Key dates","items":[{"date":"Apr–Sep 2026","text":"House listing and housing phase"},{"date":"Aug 14, 2026","text":"40 population questions notified, including caste"},{"date":"Sep 5, 2026","text":"Count advanced in four poll-bound states"},{"date":"Dec 1, 2026–Jan 4, 2027","text":"Count in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Feb 2027","text":"Count in the rest of India"},{"date":"Mar 1, 2027","text":"Reference date for most of India"}]}
 ```
 
 ```facts
-{"title":"Key numbers","items":[{"value":"40","label":"questions in the population count","source":"Business Standard"},{"value":"1931","label":"last census to record caste for all groups","source":"Business Standard"},{"value":"₹11,718 crore","label":"reported census budget","source":"Telangana Today"},{"value":"5 Jan 2027","label":"reference date in the four poll-bound states","source":"Gazette notification, 5 Sep 2026"}]}
+{"title":"Key numbers","items":[{"value":"40","label":"questions in the population count","source":"Business Standard"},{"value":"1931","label":"last census to record caste for all groups","source":"Business Standard"},{"value":"₹11,718 crore","label":"reported census budget","source":"Telangana Today"},{"value":"Jan 5, 2027","label":"reference date in the four poll-bound states","source":"Gazette notification, Sep 5, 2026"}]}
 ```
 
 ## Key questions
@@ -71,7 +71,7 @@ Yes. Question 10 now reads "SC/ST/Caste". There is no pre-set list of castes, wh
 The notification gives no reason. Business Standard linked it to assembly elections due in those states in 2027.
 
 **Can I fill in my own details?**
-Yes. Self-enumeration windows open before door-to-door counting; in the four poll-bound states it runs from 16 to 30 November 2026.
+Yes. Self-enumeration windows open before door-to-door counting; in the four poll-bound states it runs from November 16 to 30, 2026.
 
 **When will results be published?**
 No date has been announced. Gandhi News could not find an official release timetable for population totals or caste tables.

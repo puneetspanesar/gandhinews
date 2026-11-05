@@ -22,7 +22,7 @@ hero:
     value: "Rupee at 94.38, up 53 paise"
 related: [rupee-flat-94-92-importer-dollar-demand-october-19, sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-fully-subscribed-day-one-record]
 seo:
-  description: "Rupee closes at 94.38 against the US dollar on 21 October 2026, up 53 paise and a six-week high, on Jio Platforms IPO inflows and RBI intervention; Brent above $110."
+  description: "Rupee closes at 94.38 against the US dollar on October 21, 2026, up 53 paise and a six-week high, on Jio Platforms IPO inflows and RBI intervention; Brent above $110."
 sources:
   - title: "Rupee closes at six-week high of 94.38 driven by Jio IPO, RBI intervention (PTI)"
     publisher: "ThePrint"
@@ -39,12 +39,12 @@ verification:
   notes:
     - "PTI's provisional close was 94.43 (up 48 paise, Deccan Herald 6:10 pm); its final figure 94.38 (up 53 paise, ThePrint 8:46 pm). Copy uses the final figure."
     - "ThePrint's high/low labels appear reversed (high 94.35, low 94.82); copy says the rupee traded between 94.35 and 94.82."
-    - "Strongest close since 4 Sep (94.43 that day) per PTI."
+    - "Strongest close since Sep 4 (94.43 that day) per PTI."
 ---
 
 The rupee closed at its strongest level in six weeks on Wednesday, rising 53 paise to 94.38 against the dollar as foreign investors brought in money to bid for the Jio Platforms share sale.
 
-The currency opened at 94.78, against Monday's close of 94.91, and moved between 94.35 and 94.82 during the day. It was the best close since 4 September. The foreign exchange market was shut on Tuesday for Dussehra.
+The currency opened at 94.78, against Monday's close of 94.91, and moved between 94.35 and 94.82 during the day. It was the best close since September 4. The foreign exchange market was shut on Tuesday for Dussehra.
 
 Analysts said the Reserve Bank of India also stepped in. Gaurav Garg, head of research at Lemonn, said the central bank had acted to reduce spot-market dollar demand from oil companies and to manage excessive swings. "Foreign investors participating in large IPOs typically sell dollars to acquire rupees," he said.
 

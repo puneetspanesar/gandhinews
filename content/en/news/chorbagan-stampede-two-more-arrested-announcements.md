@@ -37,16 +37,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Raha detained in Nadia on Thursday 22 Oct, arrested after; Majumdar held Friday. PTI says Majumdar held from Girish Park area; ETV Bharat (Lalbazar sources) says he walked into Girish Park police station early Friday and identified himself. Written as 'picked up at Girish Park police station' after he went there; ETV detail attributed to police sources is hedged."
+    - "Raha detained in Nadia on Thursday, Oct 22, arrested after; Majumdar held Friday. PTI says Majumdar held from Girish Park area; ETV Bharat (Lalbazar sources) says he walked into Girish Park police station early Friday and identified himself. Written as 'picked up at Girish Park police station' after he went there; ETV detail attributed to police sources is hedged."
     - "Kunal Agarwal quote: ETV Bharat. 'identified by scanning CCTV footage': PTI, unnamed police officer, so paraphrased."
-    - "Raha's court appearance due later on 23 Oct; outcome not known at time of writing. Charges for Majumdar not reported."
+    - "Raha's court appearance due later on Oct 23; outcome not known at time of writing. Charges for Majumdar not reported."
     - "Forensic AC finding: ETV Bharat only."
     - "SIT: PTI says six-member SIT formed by state in consultation with the HC; ETV says led by retired Justice Anindita Roy Saraswati following HC directive."
 ---
 
 Kolkata Police have arrested two men who they say set off the deadly stampede at the Chorbagan Durga Puja pandal by announcing over loudspeakers that the structure was collapsing. The arrests take the number of people held in the case to nine.
 
-Nineteen people died in the crush at the north Kolkata pandal on the evening of 17 October, Maha Saptami.
+Nineteen people died in the crush at the north Kolkata pandal on the evening of October 17, Maha Saptami.
 
 Sanjib Raha, the treasurer of the Chorbagan Durga Puja committee, was detained in Nadia district on Thursday and later arrested. Kushal Majumdar was picked up on Friday. According to police sources, he went to Girish Park police station early in the morning and identified himself, and was then taken to Lalbazar, the city police headquarters, where he was arrested.
 

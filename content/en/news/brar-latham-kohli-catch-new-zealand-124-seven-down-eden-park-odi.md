@@ -28,7 +28,7 @@ cover:
 infographic:
   kicker: "New Zealand v India, 1st ODI, live"
   headline: "India's bowlers leave New Zealand seven down"
-  dek: "Eden Park, Auckland, Wednesday 4 November"
+  dek: "Eden Park, Auckland, Wednesday, November 4"
   motif: cricket
   stats:
     - {icon: cricket, value: "124/7", label: "New Zealand after 30 overs"}
@@ -37,7 +37,7 @@ infographic:
   source: "Match scoring, November 4, 2026"
 related: [arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview]
 seo:
-  description: "New Zealand v India first ODI live at Eden Park: Gurnoor Brar's return catch removes Tom Latham, Virat Kohli's diving catch dismisses Nathan Smith and New Zealand are 124 for 7 after 30 overs on 4 November 2026."
+  description: "New Zealand v India first ODI live at Eden Park: Gurnoor Brar's return catch removes Tom Latham, Virat Kohli's diving catch dismisses Nathan Smith and New Zealand are 124 for 7 after 30 overs on November 4, 2026."
 sources:
   - title: "Gurnoor Brar stuns Tom Latham with phenomenal one-handed catch off his own bowling in 1st ODI"
     publisher: "CricTracker"
@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1st ODI, Eden Park, Auckland, Wed 4 Nov 2026, play began 07:45 IST. State written about 10:10 IST, NZ innings in progress, no innings break yet."
+    - "event: 1st ODI, Eden Park, Auckland, Wed Nov 4, 2026, play began 07:45 IST. State written about 10:10 IST, NZ innings in progress, no innings break yet."
     - "Latham c & b Brar 3 (11 balls), last ball of the 17th over, NZ four down: CricTracker article (read, published 10:06 IST, modified 10:10 IST). Same article mentions NZ seventh wicket in the 29th over at 115."
     - "124/7 after 30 overs: VAVEL search-result title only; VAVEL and India.com fetched copies were stale pre-match caches. Kohli diving catch to dismiss Nathan Smith: Outlook search-result headline only; fetched Outlook copy was a stale 08:06 IST cache, so bowler and score at Smith's wicket NOT confirmed and left out. Identity of wickets five and six not confirmed and left out. Daryl Mitchell's fate not confirmed, not mentioned."
     - "Cricinfo scorecard and News24 failed to fetch. Series length (three or five ODIs) conflicts between sources; left vague."

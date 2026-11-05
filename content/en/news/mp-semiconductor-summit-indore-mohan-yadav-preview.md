@@ -22,7 +22,7 @@ hero:
     value: "50+ chip firms in Indore"
 related: [mp-cabinet-27050-crore-jabalpur-indore-corridor-bhavantar, mohan-yadav-laadli-behna-41st-instalment-umaria]
 seo:
-  description: "Madhya Pradesh CM Mohan Yadav opens the two-day MP Semiconductor Summit-2026 in Indore on 23 October, with more than 50 companies exhibiting."
+  description: "Madhya Pradesh CM Mohan Yadav opens the two-day MP Semiconductor Summit-2026 in Indore on October 23, with more than 50 companies exhibiting."
 sources:
   - title: "मुख्यमंत्री डॉ. यादव शुक्रवार को इंदौर में करेंगे मध्यप्रदेश सेमीकंडक्टर समिट-2026 का शुभारंभ"
     publisher: "Mediasaheb"

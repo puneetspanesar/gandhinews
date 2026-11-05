@@ -22,7 +22,7 @@ hero:
     value: "22 dead on Kenya's busiest road"
 related: [nairobi-16-storey-building-collapse-tear-gas-rescue, kenya-second-ebola-death-no-community-spread]
 seo:
-  description: "At least 22 people were killed on 25 October when a bus carrying mourners hit a truck on Kenya's Nairobi-Mombasa highway, police said; the toll could rise."
+  description: "At least 22 people were killed on October 25 when a bus carrying mourners hit a truck on Kenya's Nairobi-Mombasa highway, police said; the toll could rise."
 sources:
   - title: "At least 22 killed in Kenya bus-truck collision"
     publisher: "The Business Standard (UNB)"

@@ -22,7 +22,7 @@ hero:
     value: "Islamabad hits back at Khalilzad"
 related: [pakistan-eu-counterterrorism-dialogue-afghanistan-water, gwadar-attack-foiled-three-militants-killed, shehbaz-rs160-billion-kp-package-karak-police-killed, iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace]
 seo:
-  description: "Pakistan on 24 October rejected ex-US envoy Zalmay Khalilzad's claim that it recruits Afghans to fight anti-Pakistan insurgents, blaming 'India-sponsored proxies'."
+  description: "Pakistan on October 24 rejected ex-US envoy Zalmay Khalilzad's claim that it recruits Afghans to fight anti-Pakistan insurgents, blaming 'India-sponsored proxies'."
 sources:
   - title: "Pakistan rejects ex-US envoy Khalilzad's 'baseless' allegations of arming Afghans to fight Taliban"
     publisher: "Dawn"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Dawn, published 4:32 pm PKT, updated 5:04 pm PKT on 24 Oct. Ministry response posted by the information ministry's fact-check account on X."
-    - "Khalilzad's post was on X on 23 Oct; only the 'recruiting Afghans' phrase is quoted in the source. Dawn's headline says 'arming', which the article text does not quote; copy uses 'recruiting'."
+    - "Single source: Dawn, published 4:32 pm PKT, updated 5:04 pm PKT on Oct 24. Ministry response posted by the information ministry's fact-check account on X."
+    - "Khalilzad's post was on X on Oct 23; only the 'recruiting Afghans' phrase is quoted in the source. Dawn's headline says 'arming', which the article text does not quote; copy uses 'recruiting'."
     - "'paddling' is as printed in the ministry statement quoted by Dawn (likely 'peddling'); not used in copy."
     - "No response from Khalilzad or from India's MEA found."
 ---

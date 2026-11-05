@@ -38,7 +38,7 @@ verification:
   notes:
     - "Scores agree in both sources (Tribune/ANI gives them from the winners' side). Match durations from The Bridge."
     - "First loss in four meetings with the Chinese pair, and Ayush's record against Alwi (four losses in six), from Tribune/ANI only."
-    - "Srikanth's next opponent (Alex Lanier) from our 13 Oct story; match day not given in sources."
+    - "Srikanth's next opponent (Alex Lanier) from our Oct 13 story; match day not given in sources."
     - "No quotes in either report. Women's doubles results not yet reported at time of writing."
 ---
 

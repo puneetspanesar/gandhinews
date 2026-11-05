@@ -22,7 +22,7 @@ hero:
     value: "Shots fired at a Kyiv draft office"
 related: [russia-hits-28-energy-sites-trump-says-fine]
 seo:
-  description: "A man suspected of draft evasion opened fire at a recruitment centre in Kyiv's Pechersk district on 19 October, wounding three police officers and three soldiers."
+  description: "A man suspected of draft evasion opened fire at a recruitment centre in Kyiv's Pechersk district on October 19, wounding three police officers and three soldiers."
 sources:
   - title: "Shooting at Kyiv draft office injures 6 as mobilization tensions rise"
     publisher: "Kyiv Independent"
@@ -44,6 +44,6 @@ The attack is the latest in a series of violent clashes over mobilisation, one o
 
 In August a draft officer in Lviv was stabbed to death and four recruiters in Odesa were wounded in a shooting. In September an explosion at a recruitment centre in Lviv led to a terrorism investigation. Many of the officers targeted are former front-line soldiers moved to recruitment work after being wounded.
 
-Kyrylo Budanov, head of the Presidential Office, said on 28 August that Ukraine needs to mobilise at least 30,000 people a month to sustain its defence. Reports of recruiters forcibly detaining men on the street have become more common, and Ukrainian officials say Russian disinformation campaigns amplify them.
+Kyrylo Budanov, head of the Presidential Office, said on August 28 that Ukraine needs to mobilise at least 30,000 people a month to sustain its defence. Reports of recruiters forcibly detaining men on the street have become more common, and Ukrainian officials say Russian disinformation campaigns amplify them.
 
 The shooting came at the end of a day in which Russia struck 28 energy facilities around the country and a drone attack on a park in the Kharkiv region killed six people.

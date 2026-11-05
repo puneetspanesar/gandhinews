@@ -22,7 +22,7 @@ hero:
     value: "'From within the EC itself'"
 related: [gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go, people-against-sir-march-delhi-detained-cec-gyanesh-kumar, dmk-seeks-cec-gyanesh-kumar-removal-ballot-papers, rahul-gandhi-goa-rally-modi-shah-cec-vote-chori]
 seo:
-  description: "Priyanka Chaturvedi on 23 October said the EC was silent on its commissioners' SIR objections; Om Birla said a fresh CEC removal notice would be examined."
+  description: "Priyanka Chaturvedi on October 23 said the EC was silent on its commissioners' SIR objections; Om Birla said a fresh CEC removal notice would be examined."
 sources:
   - title: "Priyanka Chaturvedi questions Election Commission's silence, backs due process for CEC removal (IANS)"
     publisher: "The Hans India"
@@ -57,10 +57,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Chaturvedi remarks: IANS via The Hans India, 23 Oct 3:07 pm; single report, quotes as given in English. Published slot set just after the window opens; remarks were made Friday afternoon."
-    - "Birla remarks were made at a press briefing in New Delhi on Thursday 22 Oct (Deccan Chronicle 5:48 pm, PTI via Kashmir Reader, India TV agree on quote). Not previously on Gandhi News."
+    - "Chaturvedi remarks: IANS via The Hans India, Oct 23 3:07 pm; single report, quotes as given in English. Published slot set just after the window opens; remarks were made Friday afternoon."
+    - "Birla remarks were made at a press briefing in New Delhi on Thursday, Oct 22 (Deccan Chronicle 5:48 pm, PTI via Kashmir Reader, India TV agree on quote). Not previously on Gandhi News."
     - "Two earlier removal attempts (first rejected in both Houses, second pending in Rajya Sabha): PTI via Kashmir Reader and Deccan Chronicle."
-    - "Goa Congress: Northeast News, 22 Oct 9:14 pm; 1,39,634 deletions (11.84%) is Chodankar's figure. Start date of the 10-day deadline not given. No ECI or Goa CEO response found."
+    - "Goa Congress: Northeast News, Oct 22 9:14 pm; 1,39,634 deletions (11.84%) is Chodankar's figure. Start date of the 10-day deadline not given. No ECI or Goa CEO response found."
     - "Sandhu/Joshi '14 objections over 10 months' rests on an Indian Express report, cited via PTI; attributed in copy as reported."
 ---
 

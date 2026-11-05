@@ -22,7 +22,7 @@ hero:
     value: "Flash factory PMI at 54.9"
 related: [gst-collections-october-2026-2-31-lakh-crore-imports, markets-week-ahead-us-midterms-itc-sbi-results-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2]
 seo:
-  description: "India's final HSBC manufacturing PMI for October 2026 is due on 2 November. The flash reading was 54.9 against 55.1 in September, with export orders at a 16-month high and price rises at a near four-year low."
+  description: "India's final HSBC manufacturing PMI for October 2026 is due on November 2. The flash reading was 54.9 against 55.1 in September, with export orders at a 16-month high and price rises at a near four-year low."
 cover:
   template: business
   label: "Factory PMI"
@@ -58,14 +58,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview. Release dates (manufacturing 2 Nov, services 4 Nov) from Business Standard 23 Oct flash PMI report. Exact release time not stated in sources, so copy says 'later on Monday morning' (HSBC/S&P India PMIs usually publish at 10:30 IST, not stated in copy)."
-    - "All flash figures and the Bhandari quote from Business Standard 23 Oct. September flash 55.7 revised to final 55.1 from Trading Economics."
+    - "event: preview. Release dates (manufacturing Nov 2, services Nov 4) from Business Standard Oct 23 flash PMI report. Exact release time not stated in sources, so copy says 'later on Monday morning' (HSBC/S&P India PMIs usually publish at 10:30 IST, not stated in copy)."
+    - "All flash figures and the Bhandari quote from Business Standard Oct 23. September flash 55.7 revised to final 55.1 from Trading Economics."
     - "Cover bg Chakan MIDC Pune is a generic Indian industrial belt choice, not named in sources."
 ---
 
 India's final **purchasing managers' index for factories** in October is due later on Monday morning, the final word on how the country's manufacturers fared in a month of costly oil and war in West Asia.
 
-The flash estimate, released on 23 October, put the HSBC India Manufacturing PMI at **54.9, a shade below September's 55.1**. Any reading above 50 means activity grew from the month before. The output index edged up to 57.6 from 57.5.
+The flash estimate, released on October 23, put the HSBC India Manufacturing PMI at **54.9, a shade below September's 55.1**. Any reading above 50 means activity grew from the month before. The output index edged up to 57.6 from 57.5.
 
 Flash numbers can move. September's figure was first put at 55.7 and later **revised down to 55.1** in the final survey, so Monday's number could differ from the early estimate.
 
@@ -83,4 +83,4 @@ Prices have cooled. Input cost inflation **eased for a seventh straight month** 
 {"n":2,"subject":"Nhava Sheva container terminal","caption":"Containers at Nhava Sheva near Mumbai, India's busiest container port, as factories report faster growth in export orders.","alt":"Container cranes and stacks at Nhava Sheva port near Mumbai (file photo)"}
 ```
 
-The flash composite index, which combines factories and services, rose to 56.7 from 55.9, its fastest growth since June. The final services PMI is due on Wednesday, 4 November.
+The flash composite index, which combines factories and services, rose to 56.7 from 55.9, its fastest growth since June. The final services PMI is due on Wednesday, November 4.

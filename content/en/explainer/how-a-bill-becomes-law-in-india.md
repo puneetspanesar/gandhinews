@@ -74,7 +74,7 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: Lok Sabha Secretariat quotes confirmed; PRS figures confirmed (14th 60%, 15th 71%, 16th 25%, 17th 16%; 14 PMBs, none since 1970; 729 PMBs and 2 discussed; Budget 2026 no PMB business in LS and 50 PMBs in RS). Articles 107-111 checked against the constitutional text as we know it; no changes needed."
+    - "Fact-check Oct 11, 2026: Lok Sabha Secretariat quotes confirmed; PRS figures confirmed (14th 60%, 15th 71%, 16th 25%, 17th 16%; 14 PMBs, none since 1970; 729 PMBs and 2 discussed; Budget 2026 no PMB business in LS and 50 PMBs in RS). Articles 107-111 checked against the constitutional text as we know it; no changes needed."
     - "PRS gives 25% and 28% for the 16th Lok Sabha on different pages; the chart subtitle flags this."
     - "Share of Bills referred for the 16th Lok Sabha: PRS gives 25% on its 16th Lok Sabha page and 28% on its Monsoon Session 2026 page (its 2019 discussion paper says 27%). The chart uses 25% for consistency with the 14th and 15th Lok Sabha figures from the same page; the subtitle flags this."
     - "History of joint sittings (how many, which Bills) left out: the only sources found were Wikipedia and exam-prep sites."
@@ -98,7 +98,7 @@ Under Article 107 of the Constitution, a Bill can start in either House. The exc
 
 The second reading has two parts, the Lok Sabha Secretariat explains: a general debate, and then "clause-by-clause consideration of the Bill as introduced, or as reported by Select/Joint Committee".
 
-A Bill becomes law only when both Houses have agreed to it in the same form (Article 107). A constitutional amendment needs more: two-thirds of members present and voting. In April 2026 the Constitution (131st Amendment) Bill got 298 votes for and 230 against in the Lok Sabha. That was a majority, but short of the 352 votes needed, so it failed (LiveLaw, 17 April 2026).
+A Bill becomes law only when both Houses have agreed to it in the same form (Article 107). A constitutional amendment needs more: two-thirds of members present and voting. In April 2026 the Constitution (131st Amendment) Bill got 298 votes for and 230 against in the Lok Sabha. That was a majority, but short of the 352 votes needed, so it failed (LiveLaw, April 17, 2026).
 
 ## How often do Bills go to a committee?
 

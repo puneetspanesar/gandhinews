@@ -30,7 +30,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch, 4:00 pm PDT 14 Oct, during Disrupt 2026). Company claims (revenue, customers, validation) attributed to the company."
+    - "Single source (TechCrunch, 4:00 pm PDT Oct 14, during Disrupt 2026). Company claims (revenue, customers, validation) attributed to the company."
     - "Childs quote verbatim. Eiken quote not used: TechCrunch paraphrased it."
     - "Pre-seed investors not named."
 ---

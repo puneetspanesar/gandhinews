@@ -13,7 +13,7 @@ location: Mumbai
 keyPoints:
   - "The retail portion of the Jio Platforms IPO was **fully subscribed by 11 am** on Thursday."
   - "By 2:12 pm the issue as a whole had drawn bids for **4.3 times** the shares on offer."
-  - "Qualified institutions led with **9.78 times** their quota; bidding closes on Friday, 23 October."
+  - "Qualified institutions led with **9.78 times** their quota; bidding closes on Friday, October 23."
 hero:
   need: "Maker Chambers IV, Nariman Point, Mumbai, the registered office of Reliance Industries, parent of Jio Platforms"
   suggested_source: "Maker Chambers IV Nariman Point"
@@ -23,7 +23,7 @@ hero:
     value: "Retail book full by 11 am"
 related: [jio-platforms-ipo-fully-subscribed-day-one-record, jio-platforms-ipo-three-times-subscribed-day-one-qib, jio-platforms-anchor-book-8110-crore-30-times-demand, jio-platforms-ipo-price-band-biggest-india-listing]
 seo:
-  description: "Jio Platforms IPO day two, 22 October 2026: retail quota fully subscribed by 11 am, issue booked 3.47 times. QIB 9.42x, NII 2.34x, shareholders 2.06x, employees 1.61x."
+  description: "Jio Platforms IPO day two, October 22, 2026: retail quota fully subscribed by 11 am, issue booked 3.47 times. QIB 9.42x, NII 2.34x, shareholders 2.06x, employees 1.61x."
 sources:
   - title: "Jio Platforms IPO retail quota fully subscribed within hours on Day 2"
     publisher: "Telangana Today (PTI)"
@@ -60,4 +60,4 @@ The Reliance unit is selling up to 27 crore new shares at ₹1,065 to ₹1,119 e
 
 Moody's Ratings has called the issue credit positive for Reliance Industries, because the proceeds will be used to cut debt and interest costs at Reliance Jio Infocomm.
 
-Bidding closes on Friday, 23 October.
+Bidding closes on Friday, October 23.

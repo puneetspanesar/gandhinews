@@ -26,7 +26,7 @@ seo:
 verification:
   status: approved
   notes:
-    - 'Single source: Punjab Kesari English (agency copy, published Sunday 18 Oct). A Latestly agency headline on the same conclave appeared in search but could not be fetched. Exact date of the conclave not stated; copy avoids naming the day. Wikipedia page title for Krishnan uncertain; photo picker may need a manual check.'
+    - 'Single source: Punjab Kesari English (agency copy, published Sunday, Oct 18). A Latestly agency headline on the same conclave appeared in search but could not be fetched. Exact date of the conclave not stated; copy avoids naming the day. Wikipedia page title for Krishnan uncertain; photo picker may need a manual check.'
 sources:
   - title: "AI can make healthcare more accessible, improve clinical decision-making: MeitY Secretary"
     publisher: "Punjab Kesari"
@@ -50,4 +50,4 @@ He said AI could improve access, affordability and quality of care, and listed d
 
 Arvind Kumar, Director General of STPI, said India's startup ecosystem had helped young innovators become job creators. He stressed translational research, protecting intellectual property and getting products to market, and said STPI's network of 27 Centres of Entrepreneurship should help build startup clusters beyond the major tech hubs.
 
-The remarks come as MeitY prepares its first consultation paper on regulating AI. Union minister Ashwini Vaishnaw said on 8 October that it would be released within a month, with a focus on safety and on harms from deepfakes.
+The remarks come as MeitY prepares its first consultation paper on regulating AI. Union minister Ashwini Vaishnaw said on October 8 that it would be released within a month, with a focus on safety and on harms from deepfakes.

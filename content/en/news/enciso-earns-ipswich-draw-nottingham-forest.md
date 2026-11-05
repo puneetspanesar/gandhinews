@@ -22,7 +22,7 @@ hero:
     value: "A point apiece at Portman Road"
 related: [haaland-double-city-beat-ipswich-isak-liverpool-brentford, madueke-late-goal-arsenal-win-at-forest-leeds-hold-united]
 seo:
-  description: "Julio Enciso cancelled out Neco Williams's opener as promoted Ipswich Town drew 1-1 with Nottingham Forest at Portman Road on Friday 23 October."
+  description: "Julio Enciso cancelled out Neco Williams's opener as promoted Ipswich Town drew 1-1 with Nottingham Forest at Portman Road on Friday, October 23."
 sources:
   - title: "Ipswich Town 1-1 Nottingham Forest Premier League match report"
     publisher: "Suffolk News"

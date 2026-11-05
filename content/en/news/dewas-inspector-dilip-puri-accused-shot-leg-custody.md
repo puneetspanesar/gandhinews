@@ -34,13 +34,13 @@ infographic:
     - {icon: wine, value: "1,800+ litres", label: "liquor recovered from the truck"}
     - {icon: hospital, value: "ICU", label: "accused admitted in Dewas, then referred on"}
   timeline:
-    - {date: "1-2 Nov night", text: "Inspector Dilip Puri run over on Harda-Nemawar highway", icon: siren}
-    - {date: "2 Nov", text: "Police seize truck and recover liquor", icon: truck}
-    - {date: "4 Nov", text: "Accused Akku Rawat shot in leg in custody", icon: police-car}
+    - {date: "Nov 1-2 night", text: "Inspector Dilip Puri run over on Harda-Nemawar highway", icon: siren}
+    - {date: "Nov 2", text: "Police seize truck and recover liquor", icon: truck}
+    - {date: "Nov 4", text: "Accused Akku Rawat shot in leg in custody", icon: police-car}
   source: "Dewas police statement, November 4, 2026"
 related: []
 seo:
-  description: "Gajendra alias Akku Rawat, prime accused in the death of Madhya Pradesh police inspector Dilip Puri on the Harda-Nemawar highway, was shot in the leg after allegedly trying to flee custody, Dewas SP Aditya Mishra said on 4 November 2026."
+  description: "Gajendra alias Akku Rawat, prime accused in the death of Madhya Pradesh police inspector Dilip Puri on the Harda-Nemawar highway, was shot in the leg after allegedly trying to flee custody, Dewas SP Aditya Mishra said on November 4, 2026."
 sources:
   - title: "Accused in Dewas inspector's killing shot in leg while allegedly attempting to flee police custody"
     publisher: "Daily Prabhat (ANI)"
@@ -50,7 +50,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: SP Aditya Mishra's statement on Wednesday morning 4 Nov; ANI copy published 07:02 IST. Exact time of the shooting not given (likely overnight); left out."
+    - "event: SP Aditya Mishra's statement on Wednesday morning Nov 4; ANI copy published 07:02 IST. Exact time of the shooting not given (likely overnight); left out."
     - "Single source (ANI via Daily Prabhat). Escape attempt is the police account and is attributed as such. No word on other arrests; left out."
 ---
 

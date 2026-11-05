@@ -10,9 +10,9 @@ standfirst: "The Speaker's deadline for 20 Trinamool rebels falls on Tuesday, di
 published: 2026-10-18T05:15:00+05:30
 location: New Delhi
 keyPoints:
-  - "Twenty rebel Trinamool MPs must answer disqualification petitions by **Tuesday, 20 October**."
-  - "Farmer, worker and student groups hold **nationwide protests against the SIR on 23 October**."
-  - "The Supreme Court is on its Dussehra break; several political cases are due **from 26 October**."
+  - "Twenty rebel Trinamool MPs must answer disqualification petitions by **Tuesday, October 20**."
+  - "Farmer, worker and student groups hold **nationwide protests against the SIR on October 23**."
+  - "The Supreme Court is on its Dussehra break; several political cases are due **from October 26**."
 hero:
   need: "Lok Sabha Speaker Om Birla in the Speaker's chair or at a press event"
   suggested_source: "Om Birla"
@@ -22,7 +22,7 @@ hero:
     value: "A week of deadlines"
 related: [speaker-gives-rebel-tmc-mps-till-october-20, aiks-joins-october-23-nationwide-protests-against-sir, rss-invites-dhankhar-vijayadashami-congress-jibe, ec-hearing-trinamool-ownership-dispute-october-30, supreme-court-to-hear-plea-rahul-gandhi-pushed-pregnant-journalist, pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, jaishankar-rubio-talks-mumbai-october-20-mea, shinde-says-mahayuti-will-win-all-five-maharashtra-mlc-seats, congress-ramlila-maidan-rally-november-1-police-noc]
 seo:
-  description: "What to watch in politics this week: rebel TMC MPs' 20 October deadline, anti-SIR protests on 23 October, Maharashtra and UP council polls, and the Supreme Court's return."
+  description: "What to watch in politics this week: rebel TMC MPs' October 20 deadline, anti-SIR protests on October 23, Maharashtra and UP council polls, and the Supreme Court's return."
 sources:
   - title: "Lok Sabha Speaker Om Birla Grants Rebel TMC MPs Time Till October 20 to Reply to Disqualification Petition"
     publisher: "The Wire"
@@ -82,38 +82,38 @@ sources:
 verification:
   status: approved
   notes:
-    - "Preview built from the sourced reporting behind Gandhi News's earlier stories (sources listed) plus the Ramlila NOC report of 17 Oct."
-    - "Exact dates of the Supreme Court's Dussehra vacation not confirmed; copy says the court is on its break and that the Vijayan plea goes to 26 October if no vacation bench takes it (CJI, 16 Oct, LiveLaw)."
+    - "Preview built from the sourced reporting behind Gandhi News's earlier stories (sources listed) plus the Ramlila NOC report of Oct 17."
+    - "Exact dates of the Supreme Court's Dussehra vacation not confirmed; copy says the court is on its break and that the Vijayan plea goes to October 26 if no vacation bench takes it (CJI, Oct 16, LiveLaw)."
     - "Next date for Rahul Gandhi v ECI (SIR) not found; copy says it has not been announced."
-    - "Vacation inferred from the Vijayan report: the plea was mentioned on 16 Oct before the court broke for Dussehra, with 26 October as the fallback date."
+    - "Vacation inferred from the Vijayan report: the plea was mentioned on Oct 16 before the court broke for Dussehra, with October 26 as the fallback date."
 ---
 
 The coming week brings a string of deadlines for the opposition and the government, with the Supreme Court on its Dussehra break and the fight over the electoral roll revision moving back to the streets.
 
 ## Tuesday: the Trinamool rebels' deadline
 
-The 20 Trinamool Congress MPs who broke away in June to join the Nationalist Citizens Party of India must reply by Tuesday, 20 October, to the petitions seeking their disqualification under the anti-defection law. Lok Sabha Speaker Om Birla's office has already extended the deadline three times. Abhishek Banerjee, who filed the petitions, has asked the Supreme Court to push the Speaker to decide.
+The 20 Trinamool Congress MPs who broke away in June to join the Nationalist Citizens Party of India must reply by Tuesday, October 20, to the petitions seeking their disqualification under the anti-defection law. Lok Sabha Speaker Om Birla's office has already extended the deadline three times. Abhishek Banerjee, who filed the petitions, has asked the Supreme Court to push the Speaker to decide.
 
 The same day, RSS chief Mohan Bhagwat gives his Vijayadashami address in Nagpur, closing the Sangh's centenary year. Former Vice-President Jagdeep Dhankhar is on the guest list, which the Congress has read as a sign of strain within the Sangh Parivar. Dhankhar has not said whether he will go.
 
-In Mumbai, External Affairs Minister S Jaishankar holds talks with US Secretary of State Marco Rubio, who is in India until 22 October with energy at the top of his agenda.
+In Mumbai, External Affairs Minister S Jaishankar holds talks with US Secretary of State Marco Rubio, who is in India until October 22 with energy at the top of his agenda.
 
 ## Friday: protests across the country
 
-On Friday, 23 October, the Samyukta Kisan Morcha, the All India Kisan Sabha, trade unions and student, youth and women's groups plan district-level protests demanding that the Special Intensive Revision be scrapped and Chief Election Commissioner Gyanesh Kumar removed.
+On Friday, October 23, the Samyukta Kisan Morcha, the All India Kisan Sabha, trade unions and student, youth and women's groups plan district-level protests demanding that the Special Intensive Revision be scrapped and Chief Election Commissioner Gyanesh Kumar removed.
 
-Graduates and teachers in Maharashtra vote the same day for five Legislative Council seats in Pune, Nagpur, Chhatrapati Sambhajinagar and Amravati, which Eknath Shinde has predicted the ruling Mahayuti will sweep. In Uttar Pradesh, the Varanasi division seat votes on 24 October. The Maharashtra count is on 27 October.
+Graduates and teachers in Maharashtra vote the same day for five Legislative Council seats in Pune, Nagpur, Chhatrapati Sambhajinagar and Amravati, which Eknath Shinde has predicted the ruling Mahayuti will sweep. In Uttar Pradesh, the Varanasi division seat votes on October 24. The Maharashtra count is on October 27.
 
 ## The courts
 
-The Supreme Court's regular benches are off for the Dussehra break. Chief Justice Surya Kant said on Friday he would try to list former Keralam chief minister Pinarayi Vijayan's plea against an FIR order before a vacation bench, failing which it would come up on 26 October. The court has said it will take up the application alleging that Rahul Gandhi pushed a pregnant journalist during the 12 October march on 26 or 27 October.
+The Supreme Court's regular benches are off for the Dussehra break. Chief Justice Surya Kant said on Friday he would try to list former Keralam chief minister Pinarayi Vijayan's plea against an FIR order before a vacation bench, failing which it would come up on October 26. The court has said it will take up the application alleging that Rahul Gandhi pushed a pregnant journalist during the October 12 march on 26 or October 27.
 
-No date has been announced for the next hearing of the INDIA bloc leaders' petition against the SIR, in which the court issued notice to the Election Commission on 15 October.
+No date has been announced for the next hearing of the INDIA bloc leaders' petition against the SIR, in which the court issued notice to the Election Commission on October 15.
 
 ## Looking further ahead
 
-Delhi Police have issued the Congress a no-objection certificate covering 25 October to 3 November for its rally at Ramlila Maidan on 1 November. The Election Commission hears the battle between the Mamata Banerjee and Ritabrata Banerjee factions over the Trinamool's name and symbol on 30 October, and a Delhi court takes up the defamation case against Dhruv Rathee on 31 October.
+Delhi Police have issued the Congress a no-objection certificate covering October 25 to November 3 for its rally at Ramlila Maidan on November 1. The Election Commission hears the battle between the Mamata Banerjee and Ritabrata Banerjee factions over the Trinamool's name and symbol on October 30, and a Delhi court takes up the defamation case against Dhruv Rathee on October 31.
 
 ```timeline
-{"title":"Dates to watch","items":[{"date":"20 Oct","text":"Rebel TMC MPs' reply deadline; RSS Vijayadashami address in Nagpur; Jaishankar-Rubio talks in Mumbai"},{"date":"23 Oct","text":"Nationwide district-level protests against the SIR; Maharashtra council polls"},{"date":"24 Oct","text":"Varanasi division council poll in Uttar Pradesh"},{"date":"26-27 Oct","text":"Supreme Court benches return; Rahul Gandhi journalist application due"},{"date":"30 Oct","text":"Election Commission hears Trinamool ownership dispute"},{"date":"1 Nov","text":"Congress rally at Ramlila Maidan"}]}
+{"title":"Dates to watch","items":[{"date":"Oct 20","text":"Rebel TMC MPs' reply deadline; RSS Vijayadashami address in Nagpur; Jaishankar-Rubio talks in Mumbai"},{"date":"Oct 23","text":"Nationwide district-level protests against the SIR; Maharashtra council polls"},{"date":"Oct 24","text":"Varanasi division council poll in Uttar Pradesh"},{"date":"Oct 26-27","text":"Supreme Court benches return; Rahul Gandhi journalist application due"},{"date":"Oct 30","text":"Election Commission hears Trinamool ownership dispute"},{"date":"Nov 1","text":"Congress rally at Ramlila Maidan"}]}
 ```

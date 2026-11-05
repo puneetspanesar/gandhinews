@@ -22,7 +22,7 @@ hero:
     value: "Dow up 1%, oil down 7%"
 related: [wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slump-deepens-brent-105-airlines-rally-iran-talks, gold-below-4000-first-time-since-july-asia-monday, fed-holds-rates-3-75-4-two-dissent-hike, sensex-nifty-close-november-2]
 seo:
-  description: "Wall Street midday on 2 November 2026: Dow up about 1% near 52,300, Oracle down about 6% on a $20 billion stock and bond plan, Amazon up 4%, gold near $3,971 and US crude down over 7%."
+  description: "Wall Street midday on November 2, 2026: Dow up about 1% near 52,300, Oracle down about 6% on a $20 billion stock and bond plan, Amazon up 4%, gold near $3,971 and US crude down over 7%."
 cover:
   template: business
   label: "Wall Street"
@@ -61,7 +61,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 22:01 IST (11:31 am ET) Motley Fool midday snapshot, published 11:52 am ET (22:22 IST): Dow +1.05% 52,314, Nasdaq +0.76% 25,631, S&P +0.64% 7,629; Amazon +4%+, Oracle about -6% ($10bn stock + $10bn bonds for AI infrastructure), Exxon -2.2%, gold +1.97%, 10-year 4.94%."
+    - "event: Nov 2 22:01 IST (11:31 am ET) Motley Fool midday snapshot, published 11:52 am ET (22:22 IST): Dow +1.05% 52,314, Nasdaq +0.76% 25,631, S&P +0.64% 7,629; Amazon +4%+, Oracle about -6% ($10bn stock + $10bn bonds for AI infrastructure), Exxon -2.2%, gold +1.97%, 10-year 4.94%."
     - "Later snapshot, Yahoo Finance page header about 12:37 pm ET (23:07 IST): Dow 52,282.62 (+0.99%), S&P 7,609.11 (+0.38%), Nasdaq 25,526.11 (+0.35%), gold 3,971.30 (+1.86%), CL=F Dec 96.58 (-7.24%). Times on Yahoo were relative ('21 mins ago'), converted by fetch model; treat as approximate."
     - "Sløk quote and 76% December hike odds (CME FedWatch) from Yahoo live update about 12:16 pm ET (22:46 IST). Fed range 3.75-4.00%."
     - "Airline gains (United +6.91%, American +6.07%, Delta +4.67% at 11:02 am ET) from StockTitan movers board. Rubio 'diplomatically' quote from StockTitan 10:42 am coverage; context only."

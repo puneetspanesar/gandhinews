@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Tribune, 14 Oct 1:24 am IST). Meeting date not stated; presumed Tuesday 13 Oct from publication time, so the copy avoids naming the day."
+    - "Single source (The Tribune, Oct 14 1:24 am IST). Meeting date not stated; presumed Tuesday, Oct 13 from publication time, so the copy avoids naming the day."
     - "The seven points are listed in one paragraph in the source; paraphrased, not quoted. No statistics or numerical targets were reported."
     - "Link to Punjab's Mansa killing is context only; the source does not say Saini referred to it."
 ---

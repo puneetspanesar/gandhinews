@@ -87,7 +87,7 @@ verification:
     - "Removal procedure (Article 324(5), same as a Supreme Court judge, special majority in both Houses) is from Deccan Chronicle as used in Gandhi News's CEC explainer; Article text not opened today."
     - "Background lines (Cabinet minister on the selection panel; April refusal of removal notices) rest on Gandhi News's CEC explainer and its sources (PRS, DT Next, The Statesman); the AIR URL was listed in search results but not opened today."
     - "No Election Commission response to the resolution was found as of 3 pm."
-    - "Rajeev Chandrasekhar quote is from 9 October (Metro Vaartha, citing his X post), before the session."
+    - "Rajeev Chandrasekhar quote is from October 9 (Metro Vaartha, citing his X post), before the session."
 ---
 
 The Keralam Legislative Assembly on Monday passed a resolution asking for the removal of Chief Election Commissioner Gyanesh Kumar, the first time a state legislature has taken such a step against a sitting CEC.
@@ -104,7 +104,7 @@ The resolution makes three demands: restore the names of eligible voters who wer
 
 > Our stand is unequivocal. The right to vote must be protected.
 >
-> Source: V.D. Satheesan, Chief Minister of Keralam, on X, 12 October 2026
+> Source: V.D. Satheesan, Chief Minister of Keralam, on X, October 12, 2026
 
 ## Amendments on the floor
 
@@ -112,7 +112,7 @@ Leader of the Opposition Pinarayi Vijayan suggested a verbal change, accepted by
 
 BJP MLA V. Muraleedharan sought two additions. One would have recorded that the Election Commission had itself called the media report on Form 6 incorrect. The other read: "We strongly condemn the attempts by vested interests to discredit the Election Commission, a constitutional body." The government rejected the BJP's amendments.
 
-The BJP had signalled before the session that it would turn the argument back on the ruling Congress. "What is the legitimacy of this Assembly? Is this an illegal Assembly or a legal one," state BJP president Rajeev Chandrasekhar said on 9 October. His argument: if Congress leaders doubt elections held after the SIR, the same doubt applies to the House elected in April, and the Chief Minister should explain himself or resign.
+The BJP had signalled before the session that it would turn the argument back on the ruling Congress. "What is the legitimacy of this Assembly? Is this an illegal Assembly or a legal one," state BJP president Rajeev Chandrasekhar said on October 9. His argument: if Congress leaders doubt elections held after the SIR, the same doubt applies to the House elected in April, and the Chief Minister should explain himself or resign.
 
 ## What the resolution can do
 

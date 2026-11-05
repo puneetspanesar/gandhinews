@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI via NewKerala, updated 11:21 on 21 Oct). Official is unnamed in the source; no budget, timeline start date or ministry order given, so none stated."
+    - "Single source (ANI via NewKerala, updated 11:21 on Oct 21). Official is unnamed in the source; no budget, timeline start date or ministry order given, so none stated."
 ---
 
 The Wildlife Institute of India (WII) is to estimate the populations of all four bear species found in the country, beginning with the sloth bear and its frequent run-ins with people in and around protected areas.

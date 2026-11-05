@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera, with Truth Social post quoted). Trump post was on Friday 23 Oct US time; Al Jazeera story timestamp 17:01 on 24 Oct (zone not stated)."
+    - "Single source (Al Jazeera, with Truth Social post quoted). Trump post was on Friday, Oct 23 US time; Al Jazeera story timestamp 17:01 on Oct 24 (zone not stated)."
     - "Quotes: 'Fake News', 'I NEVER even thought to do such a stupid thing!', 'to a less obnoxious location' (Trump); Leavitt 'flirting', 'He just, maybe, wants to restore it to all of its glory', 'I don't know if he'll do it' on HBO's Real Time, Friday."
-    - "New York Times report on Tuesday that Trump pitched Leavitt on the move: attributed in copy as 'a report this week'. Leavitt's tenure ended 27 Aug."
+    - "New York Times report on Tuesday that Trump pitched Leavitt on the move: attributed in copy as 'a report this week'. Leavitt's tenure ended Aug 27."
     - "CNN, MS NOW, POLITICO bar and judge's ruling: Al Jazeera."
 ---
 
@@ -42,10 +42,10 @@ President Donald Trump has said he may move the reporters who cover the White Ho
 
 In a post on Truth Social, Trump dismissed those reports as "Fake News". "I NEVER even thought to do such a stupid thing!" he wrote. In the same post he raised the idea of relocating the press corps, without saying where it might go.
 
-The James S. Brady Press Briefing Room was built in the 1970s under Richard Nixon on a floor laid over an indoor pool installed in 1933 for Franklin D. Roosevelt. The pool is still there. A report this week said Trump had pitched moving journalists out of the room to Karoline Leavitt while she was press secretary, a post she left on 27 August.
+The James S. Brady Press Briefing Room was built in the 1970s under Richard Nixon on a floor laid over an indoor pool installed in 1933 for Franklin D. Roosevelt. The pool is still there. A report this week said Trump had pitched moving journalists out of the room to Karoline Leavitt while she was press secretary, a post she left on August 27.
 
 Leavitt, appearing on HBO's "Real Time with Bill Maher" on Friday, said Trump was "flirting" with the idea. "He just, maybe, wants to restore it to all of its glory," she said. "I don't know if he'll do it."
 
 Trump has already reshaped the White House grounds, demolishing the East Wing to build a ballroom, laying pavers over the Rose Garden lawn and adding a helipad on the South Lawn.
 
-The idea comes less than two weeks before the 3 November midterms. Last month Trump barred CNN, MS NOW and POLITICO from the White House, an order a federal judge said was likely unconstitutional; the administration is contesting that ruling.
+The idea comes less than two weeks before the November 3 midterms. Last month Trump barred CNN, MS NOW and POLITICO from the White House, an order a federal judge said was likely unconstitutional; the administration is contesting that ruling.

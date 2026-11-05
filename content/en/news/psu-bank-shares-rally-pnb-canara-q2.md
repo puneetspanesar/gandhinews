@@ -22,7 +22,7 @@ hero:
     value: "PNB up 8% on results"
 related: [union-bank-of-india-q2-profit-rises-30-per-cent, sensex-nifty-close-october-19-private-banks-axis, central-bank-of-india-q2-profit-rises-21-per-cent]
 seo:
-  description: "PNB rose about 8% and the Nifty PSU Bank index gained up to 3% on 19 October 2026 after state-run banks' Q2 results beat forecasts."
+  description: "PNB rose about 8% and the Nifty PSU Bank index gained up to 3% on October 19, 2026, after state-run banks' Q2 results beat forecasts."
 sources:
   - title: "Nifty PSU Bank index surges 3%; PNB, PSB, Canara, Union Bank soar up to 8%"
     publisher: "Business Standard"

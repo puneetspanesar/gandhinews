@@ -22,7 +22,7 @@ hero:
     value: "₹1.25 crore for fallen SIs, inspectors"
 related: [amit-shah-police-martyrs-wall-of-valour-154-names, police-commemoration-day-amit-shah-national-police-memorial]
 seo:
-  description: "Telangana CM Revanth Reddy on 21 October 2026 raised ex-gratia for police killed on duty, up to ₹2 crore for IPS officers, and said 5,000 police posts are being filled."
+  description: "Telangana CM Revanth Reddy on October 21, 2026, raised ex-gratia for police killed on duty, up to ₹2 crore for IPS officers, and said 5,000 police posts are being filled."
 sources:
   - title: "T'gana govt taking concrete measures to check narcotics, cybercrimes: CM"
     publisher: "ThePrint (PTI)"
@@ -53,4 +53,4 @@ Reddy named three martyrs, Dev Singh, Pramod Kumar and Gajula Soumya, as the for
 
 Anand also asked the chief minister to speed up other welfare measures for the force.
 
-Police Commemoration Day is held every year on 21 October to remember the ten policemen killed by Chinese troops at Hot Springs in Ladakh in 1959. States held their own parades on Wednesday while Amit Shah led the national ceremony at the National Police Memorial in New Delhi.
+Police Commemoration Day is held every year on October 21 to remember the ten policemen killed by Chinese troops at Hot Springs in Ladakh in 1959. States held their own parades on Wednesday while Amit Shah led the national ceremony at the National Police Memorial in New Delhi.

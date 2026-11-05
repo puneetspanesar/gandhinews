@@ -8,7 +8,7 @@ topics: []
 title: "No first use explained: what India's nuclear pledge says, and why it wants a treaty"
 standfirst: "This week India told the UN's disarmament committee it is ready to make its promise never to strike first with nuclear weapons legally binding. What the 2003 doctrine says, its exceptions, who can order a strike, and what a global pact would change."
 published: 2026-10-23T09:40:00+05:30
-shortAnswer: "No first use means India will use nuclear weapons only in retaliation for a nuclear attack on its territory or its forces anywhere. The policy, made public by the Cabinet Committee on Security on 4 January 2003, also rules out nuclear use against countries without nuclear weapons, with one exception: India keeps the option of a nuclear response to a major biological or chemical attack. Only the Prime Minister-led Political Council of the Nuclear Command Authority can authorise use. This week India repeated its offer to turn the pledge into a binding multilateral agreement."
+shortAnswer: "No first use means India will use nuclear weapons only in retaliation for a nuclear attack on its territory or its forces anywhere. The policy, made public by the Cabinet Committee on Security on January 4, 2003, also rules out nuclear use against countries without nuclear weapons, with one exception: India keeps the option of a nuclear response to a major biological or chemical attack. Only the Prime Minister-led Political Council of the Nuclear Command Authority can authorise use. This week India repeated its offer to turn the pledge into a binding multilateral agreement."
 hero:
   need: "Atal Bihari Vajpayee, Prime Minister when the 2003 nuclear doctrine was made public"
   suggested_source: "Atal Bihari Vajpayee"
@@ -33,8 +33,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Doctrine points (credible minimum deterrent, NFU, retaliation only for nuclear attack on Indian territory or Indian forces anywhere, massive retaliation to inflict unacceptable damage, civilian political authorisation through the NCA, non-use against non-nuclear-weapon states, option of nuclear retaliation for major biological or chemical attack, export controls, FMCT, test moratorium, disarmament) and NCA structure (Political Council chaired by PM as sole body to authorise use; Executive Council chaired by NSA; C-in-C Strategic Forces Command; alternate chains of command) from the PIB release of 4 January 2003, read as a summary."
-    - "UN First Committee statement (delivered by Manish Tewari; offer to make NFU and non-use against NNWS part of a multilateral legal arrangement; human control over nuclear decisions with AI; de-alerting; convention prohibiting use or threat of use) from News On AIR, 20 Oct 2026, via the desk's news story."
+    - "Doctrine points (credible minimum deterrent, NFU, retaliation only for nuclear attack on Indian territory or Indian forces anywhere, massive retaliation to inflict unacceptable damage, civilian political authorisation through the NCA, non-use against non-nuclear-weapon states, option of nuclear retaliation for major biological or chemical attack, export controls, FMCT, test moratorium, disarmament) and NCA structure (Political Council chaired by PM as sole body to authorise use; Executive Council chaired by NSA; C-in-C Strategic Forces Command; alternate chains of command) from the PIB release of January 4, 2003, read as a summary."
+    - "UN First Committee statement (delivered by Manish Tewari; offer to make NFU and non-use against NNWS part of a multilateral legal arrangement; human control over nuclear decisions with AI; de-alerting; convention prohibiting use or threat of use) from News On AIR, Oct 20, 2026, via the desk's news story."
     - "No claim made about any later official review of the doctrine, or about Pakistan's or China's declared policies; none were read in this run."
     - "The 2003 PIB wording on 'Indian forces anywhere' is as summarised; copy keeps to it."
 ---
@@ -51,7 +51,7 @@ The offer is not new. It restates one of the oldest planks of India's position o
 
 **That India will never be the first to use nuclear weapons in a conflict, and will use them only in retaliation for a nuclear attack.**
 
-The policy was set out when the Cabinet Committee on Security (CCS) reviewed India's nuclear doctrine and made its main points public on 4 January 2003. It says nuclear weapons will be used only in retaliation against a nuclear attack on Indian territory or on Indian forces anywhere.
+The policy was set out when the Cabinet Committee on Security (CCS) reviewed India's nuclear doctrine and made its main points public on January 4, 2003. It says nuclear weapons will be used only in retaliation against a nuclear attack on Indian territory or on Indian forces anywhere.
 
 The same statement fixes the scale of any response. Retaliation to a first strike "will be massive", designed to inflict unacceptable damage. No first use is meant to be paired with a threat large enough to make a first strike on India unthinkable.
 

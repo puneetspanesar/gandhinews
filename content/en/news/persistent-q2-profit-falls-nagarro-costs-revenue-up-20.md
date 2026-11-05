@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Release dated 15 Oct, 8:34 am ET (6:04 pm IST). All figures and quotes from the release; rupee figures converted from ₹ million (₹46,639.0 million = ₹4,663.9 crore; ₹3,515.1 million = ₹351.5 crore), matching Kotak Neo."
+    - "Release dated Oct 15, 8:34 am ET (6:04 pm IST). All figures and quotes from the release; rupee figures converted from ₹ million (₹46,639.0 million = ₹4,663.9 crore; ₹3,515.1 million = ₹351.5 crore), matching Kotak Neo."
     - "Nagarro-related expenses of ₹185.34 crore are from Groww Digest only; the release does not give the figure. Copy attributes the drop to deal costs in general and gives the figure as reported once, plainly; flagging single source."
     - "Share close ₹5,840 (-0.98%, NSE) from Kotak Neo; results came after market hours."
     - "No purchase price or closing date for Nagarro given in sources."

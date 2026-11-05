@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Briefing was Friday 23 Oct at Kennedy Space Center; AP's fuller piece ran Sunday 25 Oct 10 am EDT (7:30 pm IST). Not previously on site."
+    - "Briefing was Friday, Oct 23 at Kennedy Space Center; AP's fuller piece ran Sunday, Oct 25 10 am EDT (7:30 pm IST). Not previously on site."
     - "AP names Blue Origin's lander 'Blue Ghost' (that is Firefly's lander); ECOticias says Blue Moon test lander. Copy says 'Blue Origin's lander' without the name for Artemis III, and Blue Moon Mark 2 for Artemis IV (ECOticias)."
     - "Crew names (Bresnik, Rubio, Douglas, Parmitano) from ECOticias; AP gives three NASA astronauts and one Italian, and names Rubio."
     - "Orbit height about 435 km (270 miles) per AP."
@@ -63,7 +63,7 @@ Speaking at Kennedy Space Center in Florida on Friday, Isaacman said the agency 
 
 The plan reshapes the next two Artemis flights. Artemis III, due next summer, will no longer head for the Moon. Instead, four astronauts will spend about two weeks in Earth orbit, a stay that could stretch to 17 days if weather delays the launch. NASA's Randy Bresnik, Frank Rubio and Andre Douglas will fly with the European Space Agency's Luca Parmitano of Italy.
 
-Their Orion capsule will rendezvous and dock with test versions of the two commercial landers, from SpaceX and Blue Origin, in separate orbits about 435 km up. That needs three launches in quick succession from Cape Canaveral, with Blue Origin's lander going up first and the Space Launch System following. The rocket's boosters were stacked on 30 September, and the core stage is due to join them for a fuelling test at Launch Pad 39B by the end of the year.
+Their Orion capsule will rendezvous and dock with test versions of the two commercial landers, from SpaceX and Blue Origin, in separate orbits about 435 km up. That needs three launches in quick succession from Cape Canaveral, with Blue Origin's lander going up first and the Space Launch System following. The rocket's boosters were stacked on September 30, and the core stage is due to join them for a fuelling test at Launch Pad 39B by the end of the year.
 
 "It is incredibly ambitious," Rubio said. Amit Kshatriya, NASA's associate administrator, was more cheerful still. "As a rocket nerd, it's going to be pretty awesome," he said.
 

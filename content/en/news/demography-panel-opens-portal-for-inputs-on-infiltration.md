@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Retired Justice Prakash Prabhakar Naolekar launched the **portal at demography.mha.gov.in**."
   - "The committee must recommend a system to **identify, detain and deport illegal immigrants**."
-  - "It was set up on 26 May and has **one year to submit its final report**."
+  - "It was set up on May 26 and has **one year to submit its final report**."
 hero:
   need: "Former Supreme Court judge Justice P P Naolekar, or the Ministry of Home Affairs building in New Delhi"
   suggested_source: "P. P. Naolekar"
@@ -47,7 +47,7 @@ Justice Prakash Prabhakar Naolekar, a retired Supreme Court judge who chairs the
 
 ## What the committee is asked to do
 
-The Home Ministry formally constituted the committee on 26 May 2026. Its terms of reference ask it to examine the challenges posed by demographic change, including illegal infiltration, and to study possible causes such as differences in fertility rates, cross-border movement, economic opportunity and planned migration. It is also to analyse structural changes in population at the level of religious and social communities that differ from general trends.
+The Home Ministry formally constituted the committee on May 26, 2026. Its terms of reference ask it to examine the challenges posed by demographic change, including illegal infiltration, and to study possible causes such as differences in fertility rates, cross-border movement, economic opportunity and planned migration. It is also to analyse structural changes in population at the level of religious and social communities that differ from general trends.
 
 On the policy side, the panel must recommend a permanent system for the "legal, fair and time-bound" identification, detention and deportation of illegal immigrants. It will also suggest ways to strengthen border management, population stabilisation, identity systems and monitoring, and a framework for closer coordination between the Centre and the states.
 

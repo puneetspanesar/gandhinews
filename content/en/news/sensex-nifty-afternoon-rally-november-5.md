@@ -38,10 +38,10 @@ infographic:
     - {icon: trend-up, value: "+1,854.94", label: "Sensex points by 1.30 pm, to 79,156.24"}
     - {icon: trend-up, value: "+528.70", label: "Nifty 50 points by 1.30 pm, to 24,489.30"}
     - {icon: gas-pump, value: "$94", label: "Brent crude a barrel, down almost 10%"}
-  source: "BSE and NSE data, 5 November 2026"
+  source: "BSE and NSE data, November 5, 2026"
 related: [sensex-1553-points-bse-market-cap-500-lakh-crore-10am, sensex-1623-points-pre-open-nifty-24378-brent-below-100, wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
 seo:
-  description: "Stock market today, 5 November 2026: Sensex rises 1,854.94 points to 79,156.24 and Nifty 528.70 points to 24,489.30 by 1.30 pm as Brent falls to about $94 after the US midterms."
+  description: "Stock market today, November 5, 2026: Sensex rises 1,854.94 points to 79,156.24 and Nifty 528.70 points to 24,489.30 by 1.30 pm as Brent falls to about $94 after the US midterms."
 sources:
   - title: "Bull Run Ahead Of Diwali: Sensex, Nifty rally (updated 1:30 pm)"
     publisher: "ETV Bharat (PTI)"
@@ -61,7 +61,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 2026, intraday to about 13:30 IST. Index levels from ETV Bharat/PTI page last updated 1:30 pm IST (page gives no timestamp per figure): Sensex 79,156.24 +1,854.94, Nifty 24,489.30 +528.70. 15:30 close NOT yet readable at writing (BS live blog fetch blocked); update when close is published."
+    - "event: Nov 5, 2026, intraday to about 13:30 IST. Index levels from ETV Bharat/PTI page last updated 1:30 pm IST (page gives no timestamp per figure): Sensex 79,156.24 +1,854.94, Nifty 24,489.30 +528.70. 15:30 close NOT yet readable at writing (BS live blog fetch blocked); update when close is published."
     - "Intraday high 79,378.05 from InvestingCube (citing Reuters). Bank Nifty 56,867.80 +1.71% and sector %s are from the ETV/PTI morning snapshot (9:49), so sectors are written without a time-specific level; Bank Nifty figure kept out of body as it is a morning number."
     - "Brent about $94, 'almost 10%' lower: Hariselvan Radhakrishnan (HST Wealth) quote via ETV/PTI. Upstream ONGC/Oil India lower, OMCs higher, Apollo Hospitals and Bharti Airtel laggards: The Week (10:11 am). Rupee not used: only an untimed ticker (94.43) was available."
     - "FII net buy Rs 7,284 crore on Wednesday (provisional, two sources: BS Hindi, InvestingCube). DIIs net sellers Rs 3,712 crore, fourth day (ETV/PTI)."

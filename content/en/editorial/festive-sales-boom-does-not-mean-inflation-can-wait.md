@@ -51,9 +51,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Festive sales figures (₹24,000 crore, 6-6.5 crore shoppers, phones 38-40%, two-thirds of opening-day shoppers from Tier 2 and rural India, first-time shoppers doubled) are Redseer estimates as reported on 12 October, via the desk's news story."
-    - "CPI 5.54% for September, food 7.74%, onions up 108%, and Madan Sabnavis's December rate hike view: from the desk's 12-13 October CPI stories."
-    - "RBI repo 5.50% on 7 October and its 6.0% projection for October-December: from the desk's RBI editorial and its sources."
+    - "Editorial view of the desk. Festive sales figures (₹24,000 crore, 6-6.5 crore shoppers, phones 38-40%, two-thirds of opening-day shoppers from Tier 2 and rural India, first-time shoppers doubled) are Redseer estimates as reported on October 12, via the desk's news story."
+    - "CPI 5.54% for September, food 7.74%, onions up 108%, and Madan Sabnavis's December rate hike view: from the desk's October 12-13 CPI stories."
+    - "RBI repo 5.50% on October 7 and its 6.0% projection for October-December: from the desk's RBI editorial and its sources."
     - "The recommendations (food stock releases where the government holds stocks, EMI cost disclosure, offline retail data) are the desk's own. No claim is made about specific buffer stock levels."
 ---
 

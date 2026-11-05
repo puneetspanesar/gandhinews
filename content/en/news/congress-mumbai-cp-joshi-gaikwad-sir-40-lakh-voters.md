@@ -59,4 +59,4 @@ Earlier in the day, Congress general secretary Jairam Ramesh accused the Commiss
 
 "The public knows that massive manipulation has taken place. Gyanesh Kumar must go. The SIR must be suspended forthwith," Ramesh wrote on X.
 
-The INDIA bloc's rally at Delhi's Ramlila Maidan is on 1 November.
+The INDIA bloc's rally at Delhi's Ramlila Maidan is on November 1.

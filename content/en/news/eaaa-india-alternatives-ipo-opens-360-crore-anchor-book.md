@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "EAAA India Alternatives raised about **₹360 crore** from anchor investors at ₹1,665 a share."
   - "Norway's Government Pension Fund Global and **ten mutual funds** were among the anchors."
-  - "The ₹1,200 crore issue is open from **26 to 28 October**, with listing planned for 2 November."
+  - "The ₹1,200 crore issue is open from **October 26 to 28**, with listing planned for November 2."
 hero:
   need: "Edelweiss House in Mumbai, the headquarters of the Edelweiss group that promotes EAAA"
   suggested_source: "Edelweiss Financial Services"
@@ -22,7 +22,7 @@ hero:
     value: "₹1,200 crore, not a rupee to the company"
 related: [ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, anchor-investors-explained-jio-platforms-ipo, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
-  description: "EAAA India Alternatives IPO opens 26 October 2026: ₹1,200 crore offer for sale by Edelweiss at ₹1,585-1,665, ₹360 crore anchor book with Norway's wealth fund, listing 2 November."
+  description: "EAAA India Alternatives IPO opens October 26, 2026: ₹1,200 crore offer for sale by Edelweiss at ₹1,585-1,665, ₹360 crore anchor book with Norway's wealth fund, listing November 2."
 sources:
   - title: "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26"
     publisher: "inkl"
@@ -38,10 +38,10 @@ verification:
   status: approved
   notes:
     - "Anchor figures (21,62,161 shares at ₹1,665, about ₹360 crore), names, 10 MFs taking 61%: inkl and Kotak Neo agree. Kotak Neo gives 14.14 lakh shares to MFs and adds Hornbill, Goldman Sachs, BNP Paribas as foreign anchors."
-    - "Allotment 29 Oct and listing 2 Nov are from inkl, described as tentative. AUM ₹95,344.8 crore as of June 2026 from Kotak Neo only."
-    - "Anchor book date not given in sources (published before Monday's open; assumed Friday 23 Oct). Not stated in copy."
+    - "Allotment Oct 29 and listing Nov 2 are from inkl, described as tentative. AUM ₹95,344.8 crore as of June 2026 from Kotak Neo only."
+    - "Anchor book date not given in sources (published before Monday's open; assumed Friday, Oct 23). Not stated in copy."
     - "No grey market premium used. No executive quotes found."
-    - "Week's IPO list (five issues, ₹2,636 crore), market falls, FPI October total and Jio subscription restated from the desk's 24-25 Oct stories."
+    - "Week's IPO list (five issues, ₹2,636 crore), market falls, FPI October total and Jio subscription restated from the desk's Oct 24-25 stories."
 ---
 
 EAAA India Alternatives, the alternative investment arm of the Edelweiss group, opens its ₹1,200 crore initial public offering on Monday after drawing a long list of global and Indian institutions to its anchor book.
@@ -54,7 +54,7 @@ Ten mutual funds took 61% of the anchor allocation, including all five of the co
 
 The issue is entirely an offer for sale. Edelweiss Securities and Investments, the promoter, is selling 72.07 lakh shares, and the company will receive none of the proceeds. That makes it a partial exit for the parent rather than a capital raise for the business.
 
-Retail investors can bid for a minimum of nine shares, or ₹14,985 at the upper end of the band. Bidding closes on Wednesday, 28 October. Allotment is expected on Thursday, and the shares are tentatively due to list on BSE and NSE on Monday, 2 November.
+Retail investors can bid for a minimum of nine shares, or ₹14,985 at the upper end of the band. Bidding closes on Wednesday, October 28. Allotment is expected on Thursday, and the shares are tentatively due to list on BSE and NSE on Monday, November 2.
 
 Axis Capital, Jefferies India, Motilal Oswal Investment Advisors and Nuvama Wealth Management are managing the issue.
 

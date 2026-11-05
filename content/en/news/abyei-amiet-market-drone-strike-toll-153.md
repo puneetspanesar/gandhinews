@@ -43,10 +43,10 @@ verification:
   status: approved
   notes:
     - "Toll 153 (up from 73): Yohana Akol Ngor, caretaker information minister, to Radio Tamazuj and Reuters; he rejected reports of 220. Radio Tamazuj first published 08:54 UTC Wed, so the toll rise predates this run's window slightly; timestamp is ours."
-    - "Attack day 'Monday' in all sources (19 Oct). Wounded: 30 in hospital (Ngor, Radio Tamazuj); MSF treating more than 20 (ABC)."
+    - "Attack day 'Monday' in all sources (Oct 19). Wounded: 30 in hospital (Ngor, Radio Tamazuj); MSF treating more than 20 (ABC)."
     - "Fuel depot used by RSF: Reuters sources via ABC and The National; hedged."
     - "8,000 displaced: Ngor via ABC only."
-    - "SG statement condemning drone attacks in Abyei (SG/SM/23339, 20 Oct) seen only as a title on press.un.org; mentioned without quotation."
+    - "SG statement condemning drone attacks in Abyei (SG/SM/23339, Oct 20) seen only as a title on press.un.org; mentioned without quotation."
 ---
 
 The number of people killed in a drone strike on a crowded market in Abyei, the disputed territory on the border between Sudan and South Sudan, has risen to 153, officials said on Wednesday, more than double the first count.

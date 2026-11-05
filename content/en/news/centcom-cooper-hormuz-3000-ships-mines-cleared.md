@@ -22,7 +22,7 @@ hero:
     value: "3,000 ships, and a mined strait"
 related: [centcom-cooper-irgc-cash-strain-iran-denies-collapse, irgc-supertanker-mine-fire-hormuz-closed, what-hormuz-attacks-mean-for-indian-fuel-prices, trump-rules-out-iran-strike-today-qatar-mediators-tehran]
 seo:
-  description: "CENTCOM chief Brad Cooper said on 25 October that over 3,000 ships crossed Hormuz with US help and the lanes were cleared of IRGC mines, as attacks on shipping hit a high."
+  description: "CENTCOM chief Brad Cooper said on October 25 that over 3,000 ships crossed Hormuz with US help and the lanes were cleared of IRGC mines, as attacks on shipping hit a high."
 sources:
   - title: "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen"
     publisher: "The National"

@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch exclusive, 20 Oct, 6:00 am PDT (6:30 pm IST). Performance figures are the company's own claims and are attributed to Eka."
+    - "Single source: TechCrunch exclusive, Oct 20, 6:00 am PDT (6:30 pm IST). Performance figures are the company's own claims and are attributed to Eka."
     - "Anonymous roboticist's remarks left out (no anonymous quotes)."
 ---
 

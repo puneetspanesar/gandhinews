@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Remarks made Friday 23 Oct at the NDTV World Summit 2026 in New Delhi; reported by LawBeat on 25 Oct (1:53 am IST). Weekend catch-up item not previously on site. Single source; quotes verbatim from LawBeat."
-    - "Earlier timing (paper 'within a month', said 8 Oct) from the existing site story meity-secretary-krishnan-ai-healthcare-access-stpi-varanasi."
+    - "Remarks made Friday, Oct 23 at the NDTV World Summit 2026 in New Delhi; reported by LawBeat on Oct 25 (1:53 am IST). Weekend catch-up item not previously on site. Single source; quotes verbatim from LawBeat."
+    - "Earlier timing (paper 'within a month', said Oct 8) from the existing site story meity-secretary-krishnan-ai-healthcare-access-stpi-varanasi."
     - "Content of the paper not described beyond general outline; no draft provisions given."
 ---
 
@@ -45,6 +45,6 @@ The paper will seek views from citizens, industry, experts and other stakeholder
 
 He stressed that AI must stay under human control, with safeguards for systems that behave unpredictably, including a way to stop one that goes out of control. "The race towards innovation has to be moderated by the safety of human beings," he said. He also called for international cooperation, since AI systems cross borders.
 
-On 8 October, Vaishnaw had said the consultation paper would be out within a month, with a focus on safety and on the harm done by deepfakes.
+On October 8, Vaishnaw had said the consultation paper would be out within a month, with a focus on safety and on the harm done by deepfakes.
 
 Until now, India has dealt with AI through changes to existing rules. In February, the government amended the IT Intermediary Guidelines and Digital Media Ethics Code Rules, 2021, to cover AI-generated and synthetic content, including deepfakes. Platforms must now take down flagged content within three hours of a direction from a court or competent authority, down from 36 hours earlier.

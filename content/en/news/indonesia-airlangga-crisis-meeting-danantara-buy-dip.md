@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Airlangga 18:11 WIB and Rosan 19:01 WIB on 16 Oct (Antara). Meeting date not given."
+    - "Airlangga 18:11 WIB and Rosan 19:01 WIB on Oct 16 (Antara). Meeting date not given."
     - "Morning low 5,393.92 (-8.01%, -469.86) is the figure at the halt per Antara; our earlier story has the full-day fall of more than 11%. Closing level not in what we read, so not given."
     - "Airlangga's quote 'reforms must be implemented, and the progress must be visible' as rendered by Antara in English."
     - "Rosan quotes verbatim from Antara."
@@ -60,4 +60,4 @@ At a press conference at the stock exchange building, Rosan Roeslani, chief exec
 
 "Danantara always views investment as a long-term commitment," Rosan said. "We must continue to see this as an opportunity. We are optimistic, we believe in it." He blamed the fall mainly on technical factors, rumours and sentiment rather than weak company balance sheets.
 
-The OJK said it respected MSCI's decision to consult investors. Its chair, Friderica Widyasari Dewi, said: "We believe the domestic capital market remains prospective and attractive." MSCI's consultation runs until 30 April 2027, with a final decision due by 30 June 2027.
+The OJK said it respected MSCI's decision to consult investors. Its chair, Friderica Widyasari Dewi, said: "We believe the domestic capital market remains prospective and attractive." MSCI's consultation runs until April 30, 2027, with a final decision due by June 30, 2027.

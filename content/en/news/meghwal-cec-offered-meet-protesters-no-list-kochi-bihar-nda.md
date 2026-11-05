@@ -22,7 +22,7 @@ hero:
     value: "'But they never gave that list'"
 related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop, nadda-anarchy-model-india-bloc-rally-sood-chaos, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila]
 seo:
-  description: "Law Minister Arjun Ram Meghwal said in Kochi on 1 November 2026 that CEC Gyanesh Kumar offered to meet protesters who never gave a delegation list; Bihar NDA leaders said the INDIA bloc rally manufactured controversies."
+  description: "Law Minister Arjun Ram Meghwal said in Kochi on November 1, 2026, that CEC Gyanesh Kumar offered to meet protesters who never gave a delegation list; Bihar NDA leaders said the INDIA bloc rally manufactured controversies."
 sources:
   - title: "Meghwal says CEC offered to meet protesters, but they failed to submit delegation list (PTI)"
     publisher: "ThePrint"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov evening, BJP debate on SIR in Kochi; PTI copy time-stamped 20:50 IST. Bihar NDA reactions: PTI Patna copy time-stamped 20:48 IST."
+    - "event: Nov 1 evening, BJP debate on SIR in Kochi; PTI copy time-stamped 20:50 IST. Bihar NDA reactions: PTI Patna copy time-stamped 20:48 IST."
     - "Meghwal's portfolio given by PTI as MoS (Independent Charge) Law and Justice and Parliamentary Affairs; written as Law Minister."
     - "Song lyrics not reproduced in source summary; mentioned only that he sang. His claim about the President asking for proof is his own account; no Rashtrapati Bhavan statement found."
     - "Mangal Pandey described by PTI as former Bihar minister. Prasad quotes are fragments as reported."

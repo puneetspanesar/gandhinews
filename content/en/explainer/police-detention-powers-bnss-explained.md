@@ -49,9 +49,9 @@ verification:
   status: approved
   notes:
     - "Wording of Sections 168, 169, 170, 171 and 172 BNSS taken from The Legal Quotient's reproduction of the text; the PRS bill PDF is listed but was not opened in this run."
-    - "Section 172 described as a new provision with no CrPC equivalent per PTI (via Siasat, 3 July 2024). CrPC equivalents (Section 151 for 170, Section 107 for 126, Section 144 for 163) are standard and were not re-checked against a concordance table."
-    - "Section 126 (Executive Magistrate may ask for a bond to keep the peace for up to one year) is described from general knowledge of the provision; the bare text was not opened. Its use against the CJP leaders (Delhi Police X post: 'Preventive arrest u/s 126/170 BNSS', ₹50,000 surety bond, one year) is from the desk's 11 October story."
-    - "Supreme Court's 11 October words ('save and except by procedure established by law') from the desk's 11 October story, based on LiveLaw and PTI; the written order was not read."
+    - "Section 172 described as a new provision with no CrPC equivalent per PTI (via Siasat, July 3, 2024). CrPC equivalents (Section 151 for 170, Section 107 for 126, Section 144 for 163) are standard and were not re-checked against a concordance table."
+    - "Section 126 (Executive Magistrate may ask for a bond to keep the peace for up to one year) is described from general knowledge of the provision; the bare text was not opened. Its use against the CJP leaders (Delhi Police X post: 'Preventive arrest u/s 126/170 BNSS', ₹50,000 surety bond, one year) is from the desk's October 11 story."
+    - "Supreme Court's October 11 words ('save and except by procedure established by law') from the desk's October 11 story, based on LiveLaw and PTI; the written order was not read."
     - "Rights (Article 22, D K Basu, Section 38, Section 43(5)) as summarised by Outlook and Usthadian; Article 22(3) carve-out for preventive detention laws is standard constitutional text."
     - "Consequence of breaking a peace bond (forfeiture, jail for the rest of the period) is the general scheme of the BNSS chapter on security for keeping the peace (old CrPC Section 122); section number not given in copy and not re-checked."
     - "No official count of detentions in Delhi exists; copy says thousands, consistent with every estimate in earlier stories (1,000 to 15,000)."
@@ -63,7 +63,7 @@ verification:
 
 An arrest is the formal act of taking someone into custody under a legal power, usually because police suspect the person has committed an offence. "Detention" at a protest normally means something shorter: police stop people, put them in buses and hold them at a stadium or police station for some hours before letting them go.
 
-Whether either is lawful depends on the power used and the reason for using it, not on the label. In October, Delhi Police have used both words. They described the CJP leaders Abhijeet Dipke, Ashutosh Ranka and Saurav Das, held at Delhi airport on 10 October, as under "preventive arrest u/s 126/170 BNSS".
+Whether either is lawful depends on the power used and the reason for using it, not on the label. In October, Delhi Police have used both words. They described the CJP leaders Abhijeet Dipke, Ashutosh Ranka and Saurav Das, held at Delhi airport on October 10, as under "preventive arrest u/s 126/170 BNSS".
 
 ## What does Section 170 allow?
 
@@ -71,7 +71,7 @@ Whether either is lawful depends on the power used and the reason for using it, 
 
 The section says a police officer "knowing of a design to commit any cognizable offence" may arrest the person without orders from a magistrate and without a warrant. There is a condition: it must appear to the officer that the offence "cannot be otherwise prevented".
 
-The arrested person cannot be held for more than 24 hours from the time of arrest, unless another provision of the BNSS or another law allows longer custody. Section 170 replaced Section 151 of the old Code of Criminal Procedure (CrPC) when the BNSS came into force on 1 July 2024.
+The arrested person cannot be held for more than 24 hours from the time of arrest, unless another provision of the BNSS or another law allows longer custody. Section 170 replaced Section 151 of the old Code of Criminal Procedure (CrPC) when the BNSS came into force on July 1, 2024.
 
 ## And Section 172?
 
@@ -91,7 +91,7 @@ The CrPC had no such clause. Critics have said its wording gives police wide dis
 
 Section 126, the successor to CrPC Section 107, allows an Executive Magistrate who has information that a person is likely to commit a breach of the peace to ask that person to show why they should not sign a bond to keep the peace for a period of up to one year.
 
-That is what happened to the three CJP leaders. On 11 October an Executive Magistrate at Delhi Cantonment police station released them on a ₹50,000 surety bond each, with the condition of no breach of the peace for a year. Breaking such a bond can lead to the surety being forfeited and the person being sent to jail for the rest of the period.
+That is what happened to the three CJP leaders. On October 11 an Executive Magistrate at Delhi Cantonment police station released them on a ₹50,000 surety bond each, with the condition of no breach of the peace for a year. Breaking such a bond can lead to the surety being forfeited and the person being sent to jail for the rest of the period.
 
 ## What rights does a detained person have?
 
@@ -99,7 +99,7 @@ That is what happened to the three CJP leaders. On 11 October an Executive Magis
 
 Article 22 of the Constitution says an arrested person must be told the grounds of arrest, may consult a lawyer of their choice, and must be produced before a magistrate within 24 hours, not counting travel time. The Supreme Court's 1997 ruling in D K Basu v. State of West Bengal added more: officers must carry clear identification, prepare an arrest memo and inform a relative or friend. The BNSS also bars the arrest of women between sunset and sunrise except in exceptional cases with a magistrate's prior permission.
 
-Several petitions now before the Supreme Court, from the Bar associations, journalists' groups and DYFI, say these safeguards were ignored in Delhi on 10 and 11 October, with people held in buses for hours without being told why or given any memo.
+Several petitions now before the Supreme Court, from the Bar associations, journalists' groups and DYFI, say these safeguards were ignored in Delhi on October 10 and 11, with people held in buses for hours without being told why or given any memo.
 
 ## Is this the same as preventive detention under the NSA?
 
@@ -111,4 +111,4 @@ Laws such as the National Security Act, 1980, allow the state to detain a person
 
 **That peaceful people cannot be detained outside the law.**
 
-At a special sitting on Sunday 11 October, a bench of Justices Joymalya Bagchi and V Mohana said nobody should be detained "save and except by procedure established by law", particularly people in peaceful, unarmed gatherings outside the area covered by prohibitory orders. The court is now hearing the petitions on the detentions. How it reads Section 172, which it has not yet examined in detail, may decide how much room police have at protests for years to come.
+At a special sitting on Sunday, October 11, a bench of Justices Joymalya Bagchi and V Mohana said nobody should be detained "save and except by procedure established by law", particularly people in peaceful, unarmed gatherings outside the area covered by prohibitory orders. The court is now hearing the petitions on the detentions. How it reads Section 172, which it has not yet examined in detail, may decide how much room police have at protests for years to come.

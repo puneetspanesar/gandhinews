@@ -22,7 +22,7 @@ hero:
     value: "40 results, one giant IPO"
 related: [markets-shut-dussehra-results-data-calendar-october-20, global-cues-dow-rallies-netflix-slides-brent-108-october-21, jio-platforms-anchor-book-8110-crore-30-times-demand, ipo-week-ahead-jio-platforms-paras-healthcare-open, bajaj-finance-q2-results-october-19, hindustan-zinc-q2-profit-more-than-doubles-6412-crore, sensex-nifty-close-october-19-private-banks-axis]
 seo:
-  description: "What to watch on 21 October 2026: Eternal, Indian Hotels, Adani Green, SRF results, Jio Platforms IPO opening, RBI policy minutes and Tesla and Meta results overnight."
+  description: "What to watch on October 21, 2026: Eternal, Indian Hotels, Adani Green, SRF results, Jio Platforms IPO opening, RBI policy minutes and Tesla and Meta results overnight."
 sources:
   - title: "Stock Market Holiday Today (20-10-2026): Trading On BSE, NSE Closed For Dussehra; Dividends, Q2 Results To Watch Out Ahead"
     publisher: "Goodreturns"
@@ -64,7 +64,7 @@ verification:
   notes:
     - "Wednesday results list (40 companies, named highlights) from Goodreturns; Zee Business headline says 39 companies, so 'about 40' used."
     - "Tuesday's results (Aptus Pharma, Pioneer Agro Extracts, Shardul Securities, Shree Ram Twistex) from Goodreturns; no figures found, so only named."
-    - "RBI minutes date, Paras Healthcare size, HD Fire Protect listing, Tonbo allotment carried from the desk's 20 Oct calendar story and its sources; not re-checked this morning."
+    - "RBI minutes date, Paras Healthcare size, HD Fire Protect listing, Tonbo allotment carried from the desk's Oct 20 calendar story and its sources; not re-checked this morning."
     - "Jio issue size: IPO Premium gives up to ₹30,187.65 crore; earlier desk stories use ₹30,213 crore. Kept ₹30,213 crore for consistency."
 ---
 
@@ -82,7 +82,7 @@ Tuesday's holiday was quiet for results. Only a handful of small companies, incl
 
 ## Jio and the other share sales
 
-The Jio Platforms initial public offer opens on Wednesday and closes on Friday, 23 October, at ₹1,065 to ₹1,119 a share. At the top of the band it raises about ₹30,213 crore, all through new shares. Anchor investors put in ₹8,110 crore on Monday. Allotment is due on 26 October and listing on 28 October.
+The Jio Platforms initial public offer opens on Wednesday and closes on Friday, October 23, at ₹1,065 to ₹1,119 a share. At the top of the band it raises about ₹30,213 crore, all through new shares. Anchor investors put in ₹8,110 crore on Monday. Allotment is due on October 26 and listing on October 28.
 
 Paras Healthcare's ₹1,450 crore issue also opens on Wednesday, HD Fire Protect makes its market debut, and Tonbo Imaging is due to finalise share allotment ahead of a Friday listing.
 
@@ -92,7 +92,7 @@ The minutes of the Monetary Policy Committee's October meeting will show how eac
 
 ## Dividends and dates
 
-Shares of ICICI Prudential Asset Management, Mangalore Refinery and Petrochemicals and Elecon Engineering trade without their interim dividends from Wednesday. The exchanges have also fixed this year's Diwali Muhurat trading session for Sunday, 8 November, from 2:20 pm to 3:30 pm.
+Shares of ICICI Prudential Asset Management, Mangalore Refinery and Petrochemicals and Elecon Engineering trade without their interim dividends from Wednesday. The exchanges have also fixed this year's Diwali Muhurat trading session for Sunday, November 8, from 2:20 pm to 3:30 pm.
 
 ## Overseas
 

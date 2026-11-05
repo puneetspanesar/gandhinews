@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026, Vahan October registration data reported at 3:32 pm IST (ElecTree, Ashutosh Shukla). Data compiled from the Vahan portal on 1 Nov."
+    - "event: Nov 1, 2026, Vahan October registration data reported at 3:32 pm IST (ElecTree, Ashutosh Shukla). Data compiled from the Vahan portal on Nov 1."
     - "Single media source for the compilation; figures are registrations, not factory dispatches, and the copy says so. Vahan figures can be revised slightly as late registrations are added."
     - "Bajaj and Ather year-on-year changes not given in source; left out. No company quotes in source."
     - "TVS company-reported EV dispatches (71,382, includes three-wheelers) are in the earlier TVS story; different measure, not compared directly."

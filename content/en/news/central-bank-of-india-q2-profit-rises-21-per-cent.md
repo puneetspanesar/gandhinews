@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Business Standard, 17 Oct, 7:08 pm IST), detailed figures apparently from the bank's results presentation. BSE filing not read."
+    - "Single source (Business Standard, Oct 17, 7:08 pm IST), detailed figures apparently from the bank's results presentation. BSE filing not read."
     - "No executive quoted in the source; no quotes used. Share price reaction not available (results came on a Saturday)."
     - "Provisions figure Rs 799 crore includes tax, as stated in source."
 ---

@@ -22,7 +22,7 @@ hero:
     value: "Rupee at 94.93, second day down"
 related: [rupee-falls-44-paise-94-82-crude-houthi-attacks, rupee-six-week-high-94-38-jio-inflows-rbi, sensex-nifty-close-october-23-smallcaps-crash-metals]
 seo:
-  description: "Rupee closes 12 paise lower at 94.93 against the US dollar on 23 October 2026 as Brent crude rises to $114.31 and foreign investors sell Indian shares."
+  description: "Rupee closes 12 paise lower at 94.93 against the US dollar on October 23, 2026, as Brent crude rises to $114.31 and foreign investors sell Indian shares."
 sources:
   - title: "Rupee slips to 94.93 against dollar as crude price surges (PTI)"
     publisher: "The Federal"
@@ -39,12 +39,12 @@ verification:
   notes:
     - "All figures are PTI's (The Federal 4:14 pm IST; DT Next carries the same report). 94.93 is provisional. PTI now gives Thursday's close as 94.81 (previously reported provisionally as 94.82)."
     - "Both Choudhary quotes appear in the PTI copy (the 'slight negative bias' sentence in DT Next's version)."
-    - "Weekly change: 16 Oct close 94.89 (dashboard, PTI final) to 94.93, a 4-paise fall."
+    - "Weekly change: Oct 16 close 94.89 (dashboard, PTI final) to 94.93, a 4-paise fall."
 ---
 
 The rupee fell 12 paise to close at a provisional 94.93 against the US dollar on Friday, its second straight loss, as crude oil prices kept climbing and foreign investors stayed sellers of Indian shares.
 
-At the interbank foreign exchange market, the currency opened at 94.78 and touched a low of 94.98 during the session. It had closed at 94.81 on Thursday after a 43-paise fall. Over the week, the rupee ended almost where it started, 4 paise weaker than its close of 94.89 on 16 October.
+At the interbank foreign exchange market, the currency opened at 94.78 and touched a low of 94.98 during the session. It had closed at 94.81 on Thursday after a 43-paise fall. Over the week, the rupee ended almost where it started, 4 paise weaker than its close of 94.89 on October 16.
 
 Brent crude futures rose 1.01% to $114.31 a barrel during the day, as attacks in Saudi Arabia and the risk of a wider conflict involving Iran kept the oil market tense. India buys most of its oil abroad, so dearer crude raises demand for dollars from importers. The dollar index, which tracks the US currency against six major peers, was 0.12% higher at 101.73.
 

@@ -54,8 +54,8 @@ verification:
   notes:
     - "Profit, revenue, YoY/QoQ, deals, FCF, guidance and Parekh's large-deal quote and Sanghrajka's margin quote from Goodreturns (5:13 pm IST). Same headline figures in Multibagg and BigGo."
     - "Parekh's AI quote, headcount (+4,480 to 332,542), attrition 12.7% and ADR -8.5% pre-market from BigGo only (8:05 pm IST). ADR close not found; copy says pre-market."
-    - "Dividend record date 3 Nov and payment 11 Nov, year-ago ₹23 from Multibagg. 'Challenging demand environment' phrase from Multibagg, attributed to the company."
-    - "June-quarter large deals $3.6 bn and AI share 8.2%, July guidance narrowing and Dash succession (1 April 2027) from Reuters via Yahoo and BigGo (July). Company filing not read directly."
+    - "Dividend record date Nov 3 and payment Nov 11, year-ago ₹23 from Multibagg. 'Challenging demand environment' phrase from Multibagg, attributed to the company."
+    - "June-quarter large deals $3.6 bn and AI share 8.2%, July guidance narrowing and Dash succession (April 1, 2027) from Reuters via Yahoo and BigGo (July). Company filing not read directly."
     - "Infosys domestic share close on Friday not found; not given."
 ---
 
@@ -77,14 +77,14 @@ Infosys kept its operating margin range for the year at 20% to 22%. "We delivere
 
 ## Dividend and hiring
 
-The board declared an interim dividend of ₹26 a share, up from ₹23 a year ago. The record date is 3 November and the payout is due on 11 November.
+The board declared an interim dividend of ₹26 a share, up from ₹23 a year ago. The record date is November 3 and the payout is due on November 11.
 
 The company added a net 4,480 employees in the quarter, taking its workforce to 332,542, after a small fall in the June quarter. Voluntary attrition in its IT services business eased to 12.7% from 13%.
 
 ## A second cut in three months
 
-In July, Infosys trimmed the top of its range from 3.5% to 3% and named Ashiss Kumar Dash, who joined the company in 1995, to take over from Parekh as chief executive on 1 April 2027. Parekh said then that the macro environment remained uncertain.
+In July, Infosys trimmed the top of its range from 3.5% to 3% and named Ashiss Kumar Dash, who joined the company in 1995, to take over from Parekh as chief executive on April 1, 2027. Parekh said then that the macro environment remained uncertain.
 
 Friday's cut takes the forecast lower still at both ends, and sets a cautious tone for the software sector after peers TCS, Wipro and Tech Mahindra reported earlier in the month. For the first half of the year, revenue grew 1.9% in constant currency to $10.23 billion and net profit rose 9% to ₹15,592 crore.
 
-Indian investors get their first chance to react on Monday, 26 October, when trading resumes after the weekend. The Sensex closed Friday at 73,123.83, its fourth straight fall.
+Indian investors get their first chance to react on Monday, October 26, when trading resumes after the weekend. The Sensex closed Friday at 73,123.83, its fourth straight fall.

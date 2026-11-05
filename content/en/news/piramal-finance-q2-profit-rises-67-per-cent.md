@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Figures from Kotak Neo (19 Oct). Sahi headline gives consolidated net profit ₹540 crore (+63.6%), likely a different measure (after minority/other items); used the company-reported PAT ₹545 crore from Kotak Neo, which matches scanx headline (₹545 crore, +67%). Not read in full."
+    - "Figures from Kotak Neo (Oct 19). Sahi headline gives consolidated net profit ₹540 crore (+63.6%), likely a different measure (after minority/other items); used the company-reported PAT ₹545 crore from Kotak Neo, which matches scanx headline (₹545 crore, +67%). Not read in full."
     - "Khara 'former SBI chairman' is general knowledge of Dinesh Kumar Khara; appointment as independent director for five years from Kotak Neo."
     - "Release time not given; estimated 8 pm IST. Share close ₹1,948.70 (-0.08%) on NSE before results."
 ---

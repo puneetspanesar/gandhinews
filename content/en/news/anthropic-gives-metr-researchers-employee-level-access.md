@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 15 Oct 2026, 12:14 pm PDT (00:44 am IST 16 Oct). Anthropic's blog post itself was not opened; quotes are as TechCrunch gives them from the blog post, no named speaker."
+    - "Single source: TechCrunch, Oct 15, 2026, 12:14 pm PDT (00:44 am IST Oct 16). Anthropic's blog post itself was not opened; quotes are as TechCrunch gives them from the blog post, no named speaker."
     - "Amodei's September essay is described only as proposing embedded outside evaluators, per TechCrunch; title not given."
 ---
 

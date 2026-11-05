@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Saada toll: Saba (Houthi-run) via The New Arab, 'not final'. Attributed, not independently confirmed."
-    - "Helicopter crash: coalition statement via Reuters in ToI liveblog (7:27 am Israel, 18 Oct) and New Arab. Houthi Apache claim via CGTN."
+    - "Helicopter crash: coalition statement via Reuters in ToI liveblog (7:27 am Israel, Oct 18) and New Arab. Houthi Apache claim via CGTN."
     - "Najran six injured: Saudi civil defence via New Arab."
     - "1,417 strikes / 800 claim: CGTN citing Yemen's (government) armed forces. Saree 53 strikes: CGTN."
 ---

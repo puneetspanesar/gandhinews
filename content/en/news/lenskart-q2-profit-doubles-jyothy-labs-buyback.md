@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov afternoon IST, results filed; IANS Jyothy story 4:41-4:46 pm IST, FPJ Lenskart story 4:58 pm IST."
+    - "event: Nov 4 afternoon IST, results filed; IANS Jyothy story 4:41-4:46 pm IST, FPJ Lenskart story 4:58 pm IST."
     - "Lenskart: PAT 232.45 vs 103.45 cr; revenue 2,845.03 vs 2,096.14 cr; Q1 PAT 228.43, revenue 2,714.18; H1 PAT 460.88 vs 164.62; office moved to Delhi Aerocity. No share move or executive quotes in source. Peyush Bansal as CEO from general knowledge, used only in hero."
     - "Jyothy: profit 10.6 vs 87.8 cr; revenue 760 vs 736 cr; EBITDA 19 vs 118 cr; margin 2.5% vs 16%; ex-Pril/Fa revenue +12.4%, volume +8.1%; buyback 68.37 lakh shares at 215, 147 cr, tender, promoters out; stock closed 189, +0.32%. No reason for the fall given in source; not stated. Pril and Fa called brands without detail."
 infographic:
@@ -76,7 +76,7 @@ Eyewear retailer Lenskart **more than doubled its quarterly profit** on Wednesda
 
 Lenskart posted consolidated profit after tax of ₹232.45 crore for the July to September quarter, up 124.7% from ₹103.45 crore a year earlier. Revenue from operations **climbed 35.7% to ₹2,845.03 crore**, from ₹2,096.14 crore. Profit before tax more than doubled to ₹304.48 crore.
 
-The company also grew on the previous quarter, when it earned ₹228.43 crore on revenue of ₹2,714.18 crore. For the first half of the year, its profit stood at **₹460.88 crore, against ₹164.62 crore**. The board approved the allotment of 4,60,934 shares under its employee stock option scheme, and the company moved its registered office to Delhi's Aerocity from 4 November.
+The company also grew on the previous quarter, when it earned ₹228.43 crore on revenue of ₹2,714.18 crore. For the first half of the year, its profit stood at **₹460.88 crore, against ₹164.62 crore**. The board approved the allotment of 4,60,934 shares under its employee stock option scheme, and the company moved its registered office to Delhi's Aerocity from November 4.
 
 ## Jyothy Labs squeezed
 

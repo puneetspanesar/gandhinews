@@ -41,7 +41,7 @@ verification:
     - "Goals, assists and minutes: 23' Hnamte (Manoj Mohammad), 56' Lee Erwin (Rahul Bheke), 60' Figueira (Lalengmawia Ralte). Both IANS pieces agree on scorers and minutes."
     - "Club quote 'The Friday night crowd turned out to back the team' is attributed to SC Delhi's release by IANS."
     - "Table position (12th, two defeats from two) from IANS. Bagan's position not given, so not stated."
-    - "Opening-round context (Delhi lost 3-2 to Bengaluru FC, Bagan lost 1-0 at NorthEast United) from our earlier ISL stories; Dilmperis named as Bagan coach in the 15 Oct preview."
+    - "Opening-round context (Delhi lost 3-2 to Bengaluru FC, Bagan lost 1-0 at NorthEast United) from our earlier ISL stories; Dilmperis named as Bagan coach in the Oct 15 preview."
     - "No post-match quotes from either coach found."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Oil cools, Infosys tests the open"
 related: [week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore, fpi-selling-53337-crore-october-tenth-week-crude, top-10-firms-mcap-falls-1-56-lakh-crore-hdfc-bank-tcs-gains, central-bank-week-results-l-t-maruti-hul-us-gdp-iip]
 seo:
-  description: "Market outlook Monday 26 October 2026: Brent eases to $115.92, US futures rise, gold below $4,000, Infosys ADR fell 6.3% after guidance cut, FPIs sold ₹53,337 crore in October."
+  description: "Market outlook Monday, October 26, 2026: Brent eases to $115.92, US futures rise, gold below $4,000, Infosys ADR fell 6.3% after guidance cut, FPIs sold ₹53,337 crore in October."
 sources:
   - title: "Markets live updates: Markets put chance of RBA rate hike above 60pc, ASX down"
     publisher: "ABC News (Australia)"
@@ -72,12 +72,12 @@ verification:
     - "No Monday-morning Gift Nifty reading was found by publication time; Friday afternoon 22,603 (HDFC Sky) used and flagged as pre-Wall Street fall."
     - "Infosys ADR -6.3% was in premarket trading on Friday (ET via inkl; NewsBytes). Friday ADR close not found; not stated."
     - "78% chance of a December Fed hike is ANZ's Daniel Hynes as quoted in the ABC blog."
-    - "FPI October total ₹53,337 crore and weekly FII/DII figures restated from the desk's 25 October stories (NSDL/Geojit and Liquide)."
+    - "FPI October total ₹53,337 crore and weekly FII/DII figures restated from the desk's October 25 stories (NSDL/Geojit and Liquide)."
 ---
 
 Indian shares open on Monday with some relief from overnight markets and a fresh test at home. Brent crude eased from its highest close in six months in early Asian trade and US stock futures pointed higher, but the session will be the first since Infosys cut its revenue forecast, and foreign investors have been selling for ten weeks.
 
-Brent, the benchmark for most of the oil India buys, fell about 0.7% to $115.92 a barrel by 4:55 am IST, having dropped as far as $115 earlier in the morning. It had settled at $116.72 on Friday, its highest close since 29 April. West Texas Intermediate slipped 0.9% to $102.33.
+Brent, the benchmark for most of the oil India buys, fell about 0.7% to $115.92 a barrel by 4:55 am IST, having dropped as far as $115 earlier in the morning. It had settled at $116.72 on Friday, its highest close since April 29. West Texas Intermediate slipped 0.9% to $102.33.
 
 When US trading reopened on Sunday evening, Nasdaq 100 futures rose 0.6% and S&P 500 futures 0.4%, a partial bounce after Friday's losses on Wall Street. Asian markets were set for a mixed start. In Sydney, the ASX 200 was down 0.7% at 8,734 by mid-morning.
 

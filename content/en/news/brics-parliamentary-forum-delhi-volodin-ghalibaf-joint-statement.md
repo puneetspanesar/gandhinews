@@ -10,7 +10,7 @@ standfirst: "Delegation secretaries meet on Sunday to settle the joint statement
 published: 2026-10-25T08:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The 12th BRICS Parliamentary Forum runs on **26 and 27 October** in Samvidhan Sadan's Central Hall."
+  - "The 12th BRICS Parliamentary Forum runs on **October 26 and 27** in Samvidhan Sadan's Central Hall."
   - "Russian Duma Speaker Vyacheslav Volodin is on his **first foreign trip** as head of the new Duma."
   - "Iran's Speaker Mohammad Bagher Ghalibaf will stay away over **unforeseen circumstances**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "BRICS speakers come to Delhi"
 related: [brics-parliamentary-forum-delhi-special-session-talk]
 seo:
-  description: "Russia's Vyacheslav Volodin arrived in Delhi for the BRICS Parliamentary Forum on 26-27 October; Iran's Speaker Ghalibaf will not attend but sends a delegation."
+  description: "Russia's Vyacheslav Volodin arrived in Delhi for the BRICS Parliamentary Forum on October 26-27; Iran's Speaker Ghalibaf will not attend but sends a delegation."
 sources:
   - title: "Russian State Duma Speaker arrives in New Delhi for 12th BRICS Parliamentary Forum (IANS)"
     publisher: "The Hans India"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Volodin arrived Saturday 24 Oct (TASS); no reception details reported. Iran's delegation leader not named by the embassy."
+    - "Volodin arrived Saturday, Oct 24 (TASS); no reception details reported. Iran's delegation leader not named by the embassy."
     - "Birla quote on 18 countries from his Parliament House press conference as carried by IANS; date of that presser not given."
     - "Modi expected to attend and meet delegation leaders, per Birla (IANS). Exact list of attending countries not published."
 ---

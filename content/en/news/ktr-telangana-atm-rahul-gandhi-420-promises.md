@@ -22,7 +22,7 @@ hero:
     value: "'Revanth is Rahul's ATM card'"
 related: [brs-krishank-revanth-reddy-power-cuts-water-shortage, ktr-ai-not-a-demon-hyderabad-random-trees]
 seo:
-  description: "BRS working president K T Rama Rao said on 25 October that Telangana has become an ATM for Rahul Gandhi and asked what happened to the Congress's 420 poll promises."
+  description: "BRS working president K T Rama Rao said on October 25 that Telangana has become an ATM for Rahul Gandhi and asked what happened to the Congress's 420 poll promises."
 sources:
   - title: "\"Telangana has become ATM for Rahul Gandhi\": KTR targets Congress over unfulfilled pre-election promises"
     publisher: "ANI"

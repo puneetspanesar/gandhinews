@@ -22,7 +22,7 @@ hero:
     value: "\"It is clear that we have lost\""
 related: [serbia-votes-snap-election-vucic-student-list]
 seo:
-  description: "Aleksandar Vučić conceded Serbia's 25 October snap election as projections gave the student-led list about 52% and 139 of 250 seats on a record turnout."
+  description: "Aleksandar Vučić conceded Serbia's October 25 snap election as projections gave the student-led list about 52% and 139 of 250 seats on a record turnout."
 sources:
   - title: "Serbia's Vucic concedes election defeat to student-led movement"
     publisher: "Al Jazeera"
@@ -72,7 +72,7 @@ The day was not calm everywhere. The independent watchdog CRTA said it recorded 
 
 ## From a station canopy to parliament
 
-The movement began after the concrete canopy of the railway station in Novi Sad collapsed on 1 November 2024, killing 16 people. Protests over the disaster grew into a broad campaign against alleged corruption and repression, which Vučić and the SNS deny.
+The movement began after the concrete canopy of the railway station in Novi Sad collapsed on November 1, 2024, killing 16 people. Protests over the disaster grew into a broad campaign against alleged corruption and repression, which Vučić and the SNS deny.
 
 Vučić, who has dominated Serbian politics since 2012 as prime minister and then president, resigned the presidency in September to lead his party into the early election as its candidate for prime minister. The Student List fielded academics, doctors, teachers and other professionals chosen through student assemblies, many with no political experience. Some established opposition parties stood aside to back it.
 

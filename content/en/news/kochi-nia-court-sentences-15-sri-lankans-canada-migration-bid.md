@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ETV Bharat, 2:21 pm IST 24 Oct. Verdict date not stated; copy avoids naming a day. If the order was passed before Saturday, headline still holds."
+    - "Single source: PTI via ETV Bharat, 2:21 pm IST Oct 24. Verdict date not stated; copy avoids naming a day. If the order was passed before Saturday, headline still holds."
     - "Accused not named; boat not named. Exact month in 2023 not given."
     - "State name 'Keralam' follows the source and site usage."
 ---

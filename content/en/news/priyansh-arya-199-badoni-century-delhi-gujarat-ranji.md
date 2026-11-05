@@ -66,4 +66,4 @@ Gujarat came into the match unbeaten after the first round. They will need early
 
 It was a day of big hundreds around the country. Rinku Singh's unbeaten 118 rescued Uttar Pradesh from 137 for 9 against Goa in Kanpur, Uday Saharan made an unbeaten 106 for Punjab after Shubman Gill fell for one, and Sachin Baby was 112 not out for Kerala against Odisha.
 
-Day two of the second round is on Monday, 19 October, and the four-day round runs until Wednesday.
+Day two of the second round is on Monday, October 19, and the four-day round runs until Wednesday.

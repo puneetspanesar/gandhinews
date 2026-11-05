@@ -11,7 +11,7 @@ published: 2026-10-20T19:40:00+05:30
 location: Belagavi
 keyPoints:
   - "Shivakumar will hold **separate meetings** with sugarcane farmers and factory owners."
-  - "North Karnataka farmers suspended their **seven-day padayatra** on 19 October."
+  - "North Karnataka farmers suspended their **seven-day padayatra** on October 19."
   - "He has proposed an **all-party delegation to Delhi** on the growers' demands."
 hero:
   need: "Karnataka Chief Minister D K Shivakumar"
@@ -32,12 +32,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (IANS, 13:54 UTC / 7:24 pm IST, 20 Oct). Price figures demanded or offered not reported. Meeting date not fixed."
+    - "Single source (IANS, 13:54 UTC / 7:24 pm IST, Oct 20). Price figures demanded or offered not reported. Meeting date not fixed."
 ---
 
 Karnataka Chief Minister D K Shivakumar said on Tuesday that the state would hold separate meetings with sugarcane farmers and sugar factory owners to settle the growers' price demands, and that he would also take up the issue with the Union government.
 
-Shivakumar travelled from Bengaluru to Belagavi to meet the protesting farmers. Growers in north Karnataka had suspended their seven-day padayatra and protest on Monday, 19 October, after Union Minister Pralhad Joshi said a high-level committee would study their demands.
+Shivakumar travelled from Bengaluru to Belagavi to meet the protesting farmers. Growers in north Karnataka had suspended their seven-day padayatra and protest on Monday, October 19, after Union Minister Pralhad Joshi said a high-level committee would study their demands.
 
 "We have to resolve the issue peacefully and cordially, as it concerns people's livelihoods," Shivakumar said. "If farmers grow sugarcane, factories can operate." He added: "I do not want to burden anyone."
 
@@ -45,4 +45,4 @@ No date has been set for the talks. Shivakumar said it would be fixed around the
 
 The Chief Minister said he had sought an appointment with Union ministers in Delhi on drought relief but had not yet received confirmation.
 
-He also said voter lists for the local body elections were expected on 27 October, and that the panchayat and municipal polls could be completed within two to three days.
+He also said voter lists for the local body elections were expected on October 27, and that the panchayat and municipal polls could be completed within two to three days.

@@ -22,18 +22,18 @@ hero:
     value: "Seoul's chip rout, Dalal Street gap-up"
 related: [sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4, wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil, gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3, kospi-slumps-chip-selloff-asia-tuesday-close, us-midterms-democrats-win-senate-talarico-brown-flip]
 seo:
-  description: "Stock market today, 5 November 2026: GIFT Nifty near 24,286 signals a gap-up open; Kospi trips sell-side circuit breaker as Samsung, SK Hynix slump on US AI regulation fears; FIIs bought ₹7,284 crore."
+  description: "Stock market today, November 5, 2026: GIFT Nifty near 24,286 signals a gap-up open; Kospi trips sell-side circuit breaker as Samsung, SK Hynix slump on US AI regulation fears; FIIs bought ₹7,284 crore."
 infographic:
-  kicker: "Before the bell, 5 November"
+  kicker: "Before the bell, November 5"
   headline: "Dalal Street set to open higher as Seoul slumps"
   dek: "Chipmakers lead Kospi down about 5% after the Democrats' midterm sweep"
   motif: chart-line
   stats:
     - {icon: trend-up, value: "24,286", label: "GIFT Nifty at 7:50 am IST"}
     - {icon: trend-down, value: "-5%", label: "Kospi's slide by mid-morning in Seoul"}
-    - {icon: currency-inr, value: "₹7,284 cr", label: "net foreign buying of Indian shares on 4 November"}
+    - {icon: currency-inr, value: "₹7,284 cr", label: "net foreign buying of Indian shares on November 4"}
   chart: {type: bars, title: "Seoul on Thursday morning, % fall", unit: "%", highlight: -1, items: [{label: "Kosdaq", value: 4, display: "-4%"}, {label: "Kospi", value: 5, display: "-5%"}, {label: "Samsung", value: 6, display: "-6%"}, {label: "SK Hynix", value: 9, display: "-9%"}]}
-  source: "Korea Exchange, NSE provisional data, 5 November 2026"
+  source: "Korea Exchange, NSE provisional data, November 5, 2026"
 sources:
   - title: "Seoul shares open lower on Democratic Party victory in US midterm elections"
     publisher: "The Korea Times (Yonhap)"
@@ -58,13 +58,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 05:45 IST (9:15 am KST) Kospi open; circuit breaker 10:16 am KST = 06:46 IST; GIFT Nifty level as of 07:50 IST."
+    - "event: Nov 5 05:45 IST (9:15 am KST) Kospi open; circuit breaker 10:16 am KST = 06:46 IST; GIFT Nifty level as of 07:50 IST."
     - "Kospi open: Yonhap/Korea Times says 5,570.99 (-112.81, -1.98%) at 9:15 am KST; BigGo says opened 5,580.09 (-103.71, -1.82%). Used no exact opening level in copy; said 'about 2% lower'."
     - "Circuit breaker at 10:16 KST, KOSPI 200 futures -5.25%, Samsung about -6%, SK Hynix about -9%, Kosdaq about -4%, Kim Seok-hwan quote: BigGo only. Upstox has Kospi -4.5% in the morning, broadly consistent with 'about 5%'."
     - "Opening stock moves (Samsung -3.56%, SK hynix -5.8%) and won at 1,340.25 from Yonhap only; AI data-centre regulation fears in both Yonhap and BigGo."
     - "GIFT Nifty 24,286 at 7:50 am from Upstox, which also says it is down 0.36% (against its own previous settle) and signals a 326-point rise; 24,286 minus Nifty close 23,960.60 = 325.4, consistent. Whalesbook says up 316 points. Copy says about 325 points above Nifty close."
     - "FII +₹7,284.03 cr, DII -₹3,712.23 cr: Upstox and Whalesbook agree. Nikkei -0.38% from Upstox only, hedged as 'slightly lower'. Hang Seng +2.5% (Upstox only) left out."
-    - "Wall Street 4 Nov: Dow +3.03% to 53,356.12 (Upstox), Dow up 3% and PHLX chip index -3.1% to six-month low (Yonhap)."
+    - "Wall Street Nov 4: Dow +3.03% to 53,356.12 (Upstox), Dow up 3% and PHLX chip index -3.1% to six-month low (Yonhap)."
 ---
 
 Indian shares look set for **a sixth straight day of gains** on Thursday, even as a fresh rout in Asian chipmakers swept through Seoul on fears that the Democrats' sweep of the US Congress will bring tougher rules for artificial intelligence.

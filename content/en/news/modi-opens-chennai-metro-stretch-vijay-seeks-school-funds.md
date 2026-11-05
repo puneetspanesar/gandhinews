@@ -83,7 +83,7 @@ verification:
     - "The Union Education Ministry tying SSA funds to NEP 2020 and a PM SHRI MoU is as described by WION; no ministry document was opened."
     - "'First visit since the TVK government took office' is from News Today; AIADMK leading the NDA in Tamil Nadu and the presence of Palaniswami and Nagendran at the airport are from UNI and News Today."
     - "Not included: Vijay's reported mention of a USD 1.5 trillion economy target by 2036 and '100 days in office' (DT Next only; the day count did not match the May swearing-in)."
-    - "Independent fact-check 11 Oct: 'without any conditions' is WION's paraphrase, not Vijay's words in quotation marks, so the quote marks were removed (DT Next also paraphrases the ask as 'immediate, unconditional'). Other figures, names and quotes re-checked against Business Standard, ANI, News On AIR, The Federal, DT Next, UNI and News Today and found to match."
+    - "Independent fact-check Oct 11: 'without any conditions' is WION's paraphrase, not Vijay's words in quotation marks, so the quote marks were removed (DT Next also paraphrases the ask as 'immediate, unconditional'). Other figures, names and quotes re-checked against Business Standard, ANI, News On AIR, The Federal, DT Next, UNI and News Today and found to match."
 ---
 
 Prime Minister Narendra Modi on Sunday opened a new section of the Chennai Metro and rode it with Chief Minister C. Joseph Vijay, on his first visit to Tamil Nadu since Vijay's Tamilaga Vettri Kazhagam (TVK) government took office in May.
@@ -94,7 +94,7 @@ Modi landed in Chennai at about 11 am and was received by Vijay and Governor Raj
 
 The Poonamallee-Vadapalani stretch is part of Corridor 4 of Chennai Metro's Phase II. It runs about 15 km with 11 elevated stations, cost about ₹4,900 crore, and includes a 3.7 km double-decker section. Its signalling is designed to support driverless trains.
 
-Modi and Vijay rode together from Porur Bypass to Poonamallee Bypass and back. Passenger services began at 4 pm on Sunday. From 12 October, trains will run from 7 am to 9 pm in both directions.
+Modi and Vijay rode together from Porur Bypass to Poonamallee Bypass and back. Passenger services began at 4 pm on Sunday. From October 12, trains will run from 7 am to 9 pm in both directions.
 
 The rest of the ₹13,000 crore programme included railway works worth over ₹750 crore, among them five redeveloped stations at Palani, Vellore Cantonment, Ambasamudram, Paramakudi and Namakkal, and national highway projects worth about ₹3,700 crore. Modi also laid foundations for a new coal berth and dredging work at Kamarajar Port and a lube oil base stocks unit at Chennai Petroleum's Manali refinery, and dedicated the Sudha Gopalakrishnan Brain Centre at IIT Madras.
 

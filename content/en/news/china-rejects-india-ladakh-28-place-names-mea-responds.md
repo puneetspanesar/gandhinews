@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "China's foreign ministry said India's naming of 28 Ladakh features was **\"illegal, null and void\"**."
   - "MEA spokesperson Randhir Jaiswal said **no amount of denial** by China can change the fact that Ladakh belongs to India."
-  - "The names, announced on 2 October, include **Zorawar Peak, Kanishka Peak and Guru Rinpoche Lake**."
+  - "The names, announced on October 2, include **Zorawar Peak, Kanishka Peak and Guru Rinpoche Lake**."
 hero:
   need: "A landscape of eastern Ladakh near the Line of Actual Control, such as Pangong Tso lake"
   suggested_source: "Pangong Tso Ladakh"
@@ -64,7 +64,7 @@ Her remarks appeared aimed at Aksai Chin, the high plateau China has held since 
 
 ## The names on the map
 
-The government announced the 28 "standard place and feature names" on 2 October, in consultation with the Ladakh administration, and placed them on a high-resolution Survey of India map of the Union Territory. "Identifying them formally on the Survey of India map of UT of Ladakh is aimed at facilitating their accurate recognition" and public awareness, the statement said.
+The government announced the 28 "standard place and feature names" on October 2, in consultation with the Ladakh administration, and placed them on a high-resolution Survey of India map of the Union Territory. "Identifying them formally on the Survey of India map of UT of Ladakh is aimed at facilitating their accurate recognition" and public awareness, the statement said.
 
 The peaks on the list include Zorawar Peak, Kanishka Peak, Atisha Giri, Rinchen Zangpo, Milarepa Kangri, Marpa Lotsava Ri, Shiva Ri and Maheshvara Ri. Also on the list are the Chapchingal and Shachmirk passes, the Parpik and Skamri glaciers, the Shkorga Valley, the Yangpa River and Guru Rinpoche Lake. The features include known friction points along the LAC.
 

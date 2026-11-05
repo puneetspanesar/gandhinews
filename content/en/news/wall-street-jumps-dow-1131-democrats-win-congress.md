@@ -32,7 +32,7 @@ infographic:
   source: "US market data, November 4, 2026"
 related: [wall-street-opens-higher-dow-403-oil-slides-midterms-eve, us-midterms-democrats-win-house-senate-in-balance, us-midterms-democrats-win-senate-talarico-brown-flip, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
 seo:
-  description: "Wall Street on 4 November 2026: Dow up 1,131 points (2.2%), S&P 500 up 1.6% and Nasdaq up 2% after Democrats win the House and Senate in the US midterms; Amazon jumps 8%."
+  description: "Wall Street on November 4, 2026: Dow up 1,131 points (2.2%), S&P 500 up 1.6% and Nasdaq up 2% after Democrats win the House and Senate in the US midterms; Amazon jumps 8%."
 cover:
   template: business
   label: "Wall Street"
@@ -61,12 +61,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 20:28 IST (9:58 am ET), Dow +1,131 (2.2%), Nasdaq +2%; S&P +1.6% shown alongside, no exact timestamp. No index levels found, so none given. Stock Titan live page last updated 10:20 am ET."
+    - "event: Nov 4 20:28 IST (9:58 am ET), Dow +1,131 (2.2%), Nasdaq +2%; S&P +1.6% shown alongside, no exact timestamp. No index levels found, so none given. Stock Titan live page last updated 10:20 am ET."
     - "Stock moves (Amazon +8.12%, Microsoft +6.67%, Apple +6.25%, Alphabet +5.01%, Nvidia -0.56%, Duolingo +30.76%, Amdocs -30.19%, FIS -22.21%) are last trades around 10:01-10:03 am ET from Stock Titan."
     - "'Stocks jumped... after Democrats won Congress and President Trump accepted the results' is Stock Titan citing CNBC; used as plain context, not quoted."
     - "Gold $4,052.90 (+2.86%, 9:05 am ET) and Brent $102.30 (-1.21%, 7:09 am ET) from TheStreet. Hathorn quote from TheStreet (Capital.com senior market analyst)."
-    - "Amdocs and FIS reasons (T-Mobile legal dispute outlook; FIS outlook cut, CFO James Kehoe leaving 5 Nov) from TheStreet premarket notes."
-    - "Nepal helicopter collision not written: it happened on 3 Nov morning (Pheriche, Solukhumbu) and MEA condolence was 3 Nov, outside the window; no new 4 Nov development found."
+    - "Amdocs and FIS reasons (T-Mobile legal dispute outlook; FIS outlook cut, CFO James Kehoe leaving Nov 5) from TheStreet premarket notes."
+    - "Nepal helicopter collision not written: it happened on Nov 3 morning (Pheriche, Solukhumbu) and MEA condolence was Nov 3, outside the window; no new Nov 4 development found."
 ---
 
 Wall Street **rallied hard at the open on Wednesday**, a day after Democrats won control of both the House of Representatives and the Senate in the US midterm elections, as investors cheered a clear result and an end to weeks of uncertainty.

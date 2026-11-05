@@ -10,7 +10,7 @@ standfirst: "Pramod Bhagat and Bhavina Patel will carry the flag in Aichi-Nagoya
 published: 2026-10-13T19:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "India will send **168 athletes**, 112 men and 56 women, to the Asian Para Games in Japan from 18 October."
+  - "India will send **168 athletes**, 112 men and 56 women, to the Asian Para Games in Japan from October 18."
   - "Para-athletics has the biggest group with **62 athletes**, down from 123 in Hangzhou."
   - "The Sports Ministry has decided **not to field teams in seven sports**, including wheelchair basketball and goalball."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "168 athletes, 11 sports, one flag"
 related: []
 seo:
-  description: "India name 168 athletes in 11 sports for the Asian Para Games in Aichi-Nagoya from 18 to 24 October, with Pramod Bhagat and Bhavina Patel as flagbearers."
+  description: "India name 168 athletes in 11 sports for the Asian Para Games in Aichi-Nagoya from October 18 to 24, with Pramod Bhagat and Bhavina Patel as flagbearers."
 sources:
   - title: "Asian Para Games 2026: India to field 168 athletes in Aichi-Nagoya, full contingent revealed"
     publisher: "The Bridge"
@@ -31,15 +31,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Bridge, 13 Oct 4:45 pm), based on the contingent list cleared by the Sports Ministry. The ministry's own order/press release was not found, so no ministry quote."
+    - "Single source (The Bridge, Oct 13 4:45 pm), based on the contingent list cleared by the Sports Ministry. The ministry's own order/press release was not found, so no ministry quote."
     - "Figures (168, 112/56, 98 officials, 15 staff, sport breakdown, 309 in Hangzhou, 60 + 2 athletics quotas, 123 athletics at Hangzhou) all from The Bridge. Breakdown adds to 168."
     - "The Bridge says numbers may change because of pending court appeals; which sports are affected is not specified."
-    - "Event details (5th edition, 45 nations, 492 medal events, 18 sports, 18-24 Oct) also from The Bridge; not checked against the organisers' site."
+    - "Event details (5th edition, 45 nations, 492 medal events, 18 sports, Oct 18-24) also from The Bridge; not checked against the organisers' site."
 ---
 
 India will send 168 athletes to the Asian Para Games in Aichi-Nagoya, Japan, a squad little more than half the size of the one that went to Hangzhou three years ago.
 
-The contingent, named on Tuesday, has 112 men and 56 women across 11 sports. They will be supported by 98 team officials and 15 contingent staff. The Games, the fifth edition, run from 18 to 24 October, with 45 nations competing for medals in 492 events across 18 sports.
+The contingent, named on Tuesday, has 112 men and 56 women across 11 sports. They will be supported by 98 team officials and 15 contingent staff. The Games, the fifth edition, run from October 18 to 24, with 45 nations competing for medals in 492 events across 18 sports.
 
 Badminton player Pramod Bhagat, a Tokyo Paralympic gold medallist, and table tennis player Bhavina Patel will be India's flagbearers at the opening ceremony.
 
@@ -65,4 +65,4 @@ Between the tighter quotas and the dropped sports, India will have 141 fewer ath
 
 ## What comes next
 
-The opening ceremony is on 18 October, and competition runs for a week. With fewer entries than in Hangzhou, India's medal hopes will rest largely on the athletics squad and on proven names such as Bhagat, Lekhara and Sheetal Devi.
+The opening ceremony is on October 18, and competition runs for a week. With fewer entries than in Hangzhou, India's medal hopes will rest largely on the athletics squad and on proven names such as Bhagat, Lekhara and Sheetal Devi.

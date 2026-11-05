@@ -107,21 +107,21 @@ sources:
 verification:
   status: approved
   notes:
-    - "The judgment itself (Ashita Dubey and Others v. State of Madhya Pradesh, 159 pages, 9 Oct 2026) was not read; facts rest on LawBeat, The Wire, Tribune, NewsDrum, Statesman, India TV, Millennium Post and Dainik Jagran English, which agree on the core findings and directions. Editors: pull the order from mphc.gov.in if possible."
+    - "The judgment itself (Ashita Dubey and Others v. State of Madhya Pradesh, 159 pages, Oct 9, 2026) was not read; facts rest on LawBeat, The Wire, Tribune, NewsDrum, Statesman, India TV, Millennium Post and Dainik Jagran English, which agree on the core findings and directions. Editors: pull the order from mphc.gov.in if possible."
     - "The court quote 'This case is not about grant of reservation but extent of reservation' appears in LawBeat, NewsDrum and The Wire (citing The Hindu)."
-    - "Start of the protected-appointment window differs: most reports say March 2019, India TV says 2 September 2019. The story uses only the agreed end date, 29 September 2022."
+    - "Start of the protected-appointment window differs: most reports say March 2019, India TV says September 2, 2019. The story uses only the agreed end date, September 29, 2022."
     - "OBC data figures (33.87% of higher education enrolment, 28.16% of government jobs) from The Wire and Dainik Jagran English; neither clarifies the year or dataset."
-    - "Reservation split (SC 16%, ST 20%, EWS 10%) from NewsDrum and India TV. The 73% total under the 2019 law appears in NewsDrum and India TV (fact-check 12 Oct: not in Dainik Jagran English as first noted). The 60% total under 14% is Gandhi News arithmetic and is not stated in the text; LiveLaw reports the court itself put reserved seats at about 60%."
+    - "Reservation split (SC 16%, ST 20%, EWS 10%) from NewsDrum and India TV. The 73% total under the 2019 law appears in NewsDrum and India TV (fact-check Oct 12: not in Dainik Jagran English as first noted). The 60% total under 14% is Gandhi News arithmetic and is not stated in the text; LiveLaw reports the court itself put reserved seats at about 60%."
     - "Hemant Khandelwal quote is from PTI (ThePrint), likely translated from Hindi by PTI."
     - "Mohan Yadav's and Kamal Nath's remarks are paraphrased in all sources (Amar Ujala, Mediawala, The Wire citing NDTV, Whispers in the Corridors); no direct quotes used."
-    - "Minister Prahlad Patel's statement that the government will go to the Supreme Court rests on Mediawala (with Amar Ujala related coverage); hedged. No formal cabinet decision or petition filing was found as of 12 Oct morning."
+    - "Minister Prahlad Patel's statement that the government will go to the Supreme Court rests on Mediawala (with Amar Ujala related coverage); hedged. No formal cabinet decision or petition filing was found as of Oct 12 morning."
     - "Jitu Patwari's Rs 200 crore claim (IANS) and Umang Singhar's remarks (Millennium Post only) were left out."
-    - "Fact-check 12 Oct: Judgment still not read; mphc.gov.in copy not retrievable this morning. Re-checked against LiveLaw (case WP 5910 of 2019, Ashita Dubey v State of MP, 2026 LiveLaw (MP) 411; bench of Justices Anand Pathak and Vinay Saraf), PTI (ThePrint), LawBeat, The Wire, Tribune, NewsDrum and India TV. 159 pages: India TV, Tribune, PTI. 8 Mar 2019 ordinance and 14 Aug 2019 Act: PTI (ThePrint, Tribune). 5 Aug 2026 end of final hearing: PTI (ThePrint, Tribune), same wire. Court quote and Khandelwal quote verified verbatim. 'Adequately represented under Article 16(4)': LawBeat and NewsDrum say 16(4); LiveLaw's quote of the judgment reads 'Article 16(3)', likely a slip in the order or the report; kept 16(4). LiveLaw dates the 33.87% enrolment figure to 2023. No state government petition or cabinet decision found as of 8 am 12 Oct; Congress filing date also not announced. Added LiveLaw and the PTI judgment report to sources. No body text changed."
+    - "Fact-check Oct 12: Judgment still not read; mphc.gov.in copy not retrievable this morning. Re-checked against LiveLaw (case WP 5910 of 2019, Ashita Dubey v State of MP, 2026 LiveLaw (MP) 411; bench of Justices Anand Pathak and Vinay Saraf), PTI (ThePrint), LawBeat, The Wire, Tribune, NewsDrum and India TV. 159 pages: India TV, Tribune, PTI. Mar 8, 2019, ordinance and Aug 14, 2019 Act: PTI (ThePrint, Tribune). Aug 5, 2026, end of final hearing: PTI (ThePrint, Tribune), same wire. Court quote and Khandelwal quote verified verbatim. 'Adequately represented under Article 16(4)': LawBeat and NewsDrum say 16(4); LiveLaw's quote of the judgment reads 'Article 16(3)', likely a slip in the order or the report; kept 16(4). LiveLaw dates the 33.87% enrolment figure to 2023. No state government petition or cabinet decision found as of 8 am Oct 12; Congress filing date also not announced. Added LiveLaw and the PTI judgment report to sources. No body text changed."
 ---
 
 Reservation for Other Backward Classes (OBCs) in Madhya Pradesh government jobs and education is back to 14% after the High Court struck down the 2019 law that raised it to 27%.
 
-A Division Bench of Justices Anand Pathak and Vinay Saraf, sitting at Jabalpur, delivered a 159-page judgment on 9 October in a batch of petitions led by Ashita Dubey and others. It held the amendment unconstitutional and said the state had not shown exceptional circumstances to breach the 50% ceiling on reservation laid down by the Supreme Court in the Indra Sawhney and Jaishri Laxmanrao Patil cases.
+A Division Bench of Justices Anand Pathak and Vinay Saraf, sitting at Jabalpur, delivered a 159-page judgment on October 9 in a batch of petitions led by Ashita Dubey and others. It held the amendment unconstitutional and said the state had not shown exceptional circumstances to breach the 50% ceiling on reservation laid down by the Supreme Court in the Indra Sawhney and Jaishri Laxmanrao Patil cases.
 
 ## What the court found
 
@@ -139,17 +139,17 @@ With the 27% figure, total reservation in the state would have reached 73%, the 
 
 While the case was pending, recruitment ran on an 87:13 formula, with 13% of posts held back. The court directed the Madhya Pradesh Public Service Commission, the Employees Selection Board and other recruiting agencies to fill those withheld posts from the unreserved category within three months.
 
-Candidates appointed under the higher quota up to 29 September 2022 will keep their jobs. Their posts above the 14% limit are to be adjusted over the next three recruitment rounds. Appointments after that date that exceed 14% are void to the extent of the excess. Petitions seeking more OBC or EWS reservation were dismissed.
+Candidates appointed under the higher quota up to September 29, 2022, will keep their jobs. Their posts above the 14% limit are to be adjusted over the next three recruitment rounds. Appointments after that date that exceed 14% are void to the extent of the excess. Petitions seeking more OBC or EWS reservation were dismissed.
 
 ```timeline
-{"title":"The OBC quota case","items":[{"date":"8 Mar 2019","text":"Kamal Nath's Congress government issues an ordinance raising OBC reservation from 14% to 27%"},{"date":"14 Aug 2019","text":"The increase becomes law through an amendment Act"},{"date":"29 Sep 2022","text":"Cut-off date for appointments the court has now protected"},{"date":"5 Aug 2026","text":"Final arguments end and the High Court reserves its verdict"},{"date":"9 Oct 2026","text":"High Court strikes down the 2019 law and restores 14%"},{"date":"Within 3 months","text":"Withheld 13% of posts to be filled from the unreserved category"}]}
+{"title":"The OBC quota case","items":[{"date":"Mar 8, 2019","text":"Kamal Nath's Congress government issues an ordinance raising OBC reservation from 14% to 27%"},{"date":"Aug 14, 2019","text":"The increase becomes law through an amendment Act"},{"date":"Sep 29, 2022","text":"Cut-off date for appointments the court has now protected"},{"date":"Aug 5, 2026","text":"Final arguments end and the High Court reserves its verdict"},{"date":"Oct 9, 2026","text":"High Court strikes down the 2019 law and restores 14%"},{"date":"Within 3 months","text":"Withheld 13% of posts to be filled from the unreserved category"}]}
 ```
 
 ## Blame and next steps
 
 Chief Minister Mohan Yadav blamed the previous Congress government, saying its ordinance was rushed, had serious legal flaws and was issued without consulting the National Commission for Backward Classes. He said the state would study the ruling legally before deciding its next step. Minister Prahlad Patel was reported to have said the government would go to the Supreme Court.
 
-BJP state president Hemant Khandelwal said the Kamal Nath government had prepared the 2019 papers in haste. "The BJP is committed to OBC reservation, and the state government will take all necessary steps in this regard," he said on 9 October.
+BJP state president Hemant Khandelwal said the Kamal Nath government had prepared the 2019 papers in haste. "The BJP is committed to OBC reservation, and the state government will take all necessary steps in this regard," he said on October 9.
 
 State Congress president Jitu Patwari accused the BJP government and the Chief Minister of working against OBCs and said the party would challenge the verdict in the Supreme Court. Former Chief Minister Kamal Nath accused successive BJP governments of failing to implement the quota and of presenting a weak case in court.
 

@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Figures and quotes from the ICC announcement of 13 October. Shortlist (Sree Charani, Chamari Athapaththu) from UNI, 6 October."
+    - "Figures and quotes from the ICC announcement of October 13. Shortlist (Sree Charani, Chamari Athapaththu) from UNI, October 6."
     - "Asian Games host given by ICC as Japan; Asia Cup in UAE. Eighth Asia Cup title per ICC."
     - "Quotes are fragments as given in the ICC release; used verbatim."
 ---

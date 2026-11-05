@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single wire source (AP via ABC News, 4:29 am EDT / 1:59 pm IST, 21 Oct); statements are KCNA and JCS on-record quotes. Story broke a little before this run's 4 pm window; not previously covered on the site."
+    - "Single wire source (AP via ABC News, 4:29 am EDT / 1:59 pm IST, Oct 21); statements are KCNA and JCS on-record quotes. Story broke a little before this run's 4 pm window; not previously covered on the site."
     - "KCNA first dated the visit Tuesday and later corrected it to early Wednesday; copy says Wednesday."
 ---
 
@@ -42,6 +42,6 @@ She made the announcement after touring frontline areas where North Korean soldi
 
 She also warned that North Korean border guards "will show no mercy for the armed gangsters bereft of reason", a reference to the warning shots South Korean troops fire when Northern soldiers cross the military demarcation line. Seoul says that has happened 50 times this year. Marshal Pak Jong Chon, a senior military official who joined her, called the South's claims "deliberate, premeditated and absurd" and said: "Our army knows where our borderline is better than any others."
 
-South Korea's Joint Chiefs of Staff chairman, Jin Yong-sung, called the threats "intolerable" and ordered the military to "sternly respond" to any provocation. Seoul has formally blamed North Korean mines for blasts on 21 September that injured three of its frontline soldiers, and has asked Pyongyang to apologise and clear the remaining mines. The North denies responsibility.
+South Korea's Joint Chiefs of Staff chairman, Jin Yong-sung, called the threats "intolerable" and ordered the military to "sternly respond" to any provocation. Seoul has formally blamed North Korean mines for blasts on September 21 that injured three of its frontline soldiers, and has asked Pyongyang to apologise and clear the remaining mines. The North denies responsibility.
 
 President Lee Jae Myung's government switched off the South's own loudspeakers after he took office last year, and the North stopped its broadcasts soon after. Restarting them would undo one of the few easing steps between the two sides since Kim Jong Un declared the South a permanent enemy.

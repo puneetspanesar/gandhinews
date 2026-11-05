@@ -22,7 +22,7 @@ hero:
     value: "70,000 police for one Saturday"
 related: [india-advisory-france-italy-belgium-protests-louvre-shut, macron-anger-shame-france-riots-2400-arrested, france-protests-550000-limoges-city-hall-fire-macron, france-lecornu-new-curfews-unrest]
 seo:
-  description: "France deploys about 70,000 police and gendarmes on 24 October as cost-of-living protests return, with the Louvre shut and an anti-far-right march in Orléans."
+  description: "France deploys about 70,000 police and gendarmes on October 24 as cost-of-living protests return, with the Louvre shut and an anti-far-right march in Orléans."
 sources:
   - title: "France bolsters security as businesses fear renewed unrest during Saturday protests"
     publisher: "Euronews"

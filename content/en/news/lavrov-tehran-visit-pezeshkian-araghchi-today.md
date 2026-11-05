@@ -22,7 +22,7 @@ hero:
     value: "Lavrov heads to Tehran"
 related: [araghchi-seven-day-hormuz-offer-stands-irgc-second-tanker-mine, iran-parliament-approves-akhlaghi-defence-minister, zelenskyy-us-proposes-trilateral-putin-summit-december]
 seo:
-  description: "Russian Foreign Minister Sergey Lavrov visits Tehran on 19 October for talks with Abbas Araghchi and a meeting with President Masoud Pezeshkian on Iran and regional tensions."
+  description: "Russian Foreign Minister Sergey Lavrov visits Tehran on October 19 for talks with Abbas Araghchi and a meeting with President Masoud Pezeshkian on Iran and regional tensions."
 sources:
   - title: "Lavrov to visit Tehran, to be received by President Pezeshkian on October 19"
     publisher: "TASS"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Visit date and meetings: TASS (18 Oct) and Russian MFA statement via Sputnik (18:34 GMT, 18 Oct). Zakharova quotes via ANI/TASS."
+    - "Visit date and meetings: TASS (Oct 18) and Russian MFA statement via Sputnik (18:34 GMT, Oct 18). Zakharova quotes via ANI/TASS."
     - "No time of arrival or outcomes known; written as preview."
 ---
 

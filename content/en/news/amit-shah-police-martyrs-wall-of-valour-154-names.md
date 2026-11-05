@@ -22,7 +22,7 @@ hero:
     value: "36,852 names on the Wall of Valour"
 related: [police-commemoration-day-amit-shah-national-police-memorial, national-unity-day-ekta-nagar-25000-lwe-districts-govind-mohan]
 seo:
-  description: "Amit Shah honoured 36,852 police martyrs at the National Police Memorial on Police Commemoration Day, 21 October 2026, as 154 new names were added."
+  description: "Amit Shah honoured 36,852 police martyrs at the National Police Memorial on Police Commemoration Day, October 21, 2026, as 154 new names were added."
 sources:
   - title: "Amit Shah honours 36,852 police martyrs; 154 new names added to wall of valour"
     publisher: "NewKerala (ANI)"
@@ -62,7 +62,7 @@ He called the memorial, which Prime Minister Narendra Modi dedicated to the nati
 
 ## Remembering Hot Springs
 
-The day marks the ambush of 21 October 1959 at Hot Springs in Ladakh, when ten CRPF personnel were killed by Chinese troops. Shah said the men knew the odds once the fighting began but were determined that "not even an inch of our land should fall into foreign hands".
+The day marks the ambush of October 21, 1959, at Hot Springs in Ladakh, when ten CRPF personnel were killed by Chinese troops. Shah said the men knew the odds once the fighting began but were determined that "not even an inch of our land should fall into foreign hands".
 
 He spoke at length about the demands of police work. Of all forms of government service, he said, "the most demanding and challenging is, without a doubt, service in the police force." Policemen and women stand guard during Raksha Bandhan, Holi, Diwali and Eid, when other families celebrate together, and spend long stretches away from their own homes, which he called "a truly profound act of service".
 
@@ -77,4 +77,4 @@ Shah singled out the Central Armed Police Forces for their role in guarding bord
 ## What comes next
 
 Shah also urged police forces to stay committed for the next three years to make India drug-free by 2029. 
-The commemoration continues through the week. From 22 to 30 October the central forces and police organisations will hold events at the memorial, including visits by martyrs' families, band displays, a Run for Martyrs and blood donation camps, with state police forces holding similar programmes. A motorcycle rally of about 90 police riders that Shah flagged off is heading to Ekta Nagar in Gujarat for the Ekta Parade on 31 October.
+The commemoration continues through the week. From October 22 to 30 the central forces and police organisations will hold events at the memorial, including visits by martyrs' families, band displays, a Run for Martyrs and blood donation camps, with state police forces holding similar programmes. A motorcycle rally of about 90 police riders that Shah flagged off is heading to Ekta Nagar in Gujarat for the Ekta Parade on October 31.

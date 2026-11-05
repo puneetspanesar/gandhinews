@@ -22,7 +22,7 @@ hero:
     value: "'This is a much more powerful term'"
 related: [us-inflation-september-cpi-rises-before-midterms, trump-waives-russia-sanctions-law-india-tariff-threat]
 seo:
-  description: "Trump urged Kentucky voters on 17 October to act as if he were on the midterm ballot, promised $5,000 per adult and backed Ed Gallrein, who beat Massie."
+  description: "Trump urged Kentucky voters on October 17 to act as if he were on the midterm ballot, promised $5,000 per adult and backed Ed Gallrein, who beat Massie."
 sources:
   - title: "Trump touts his power in Northern Kentucky rally to energize voters ahead of midterms"
     publisher: "Local 12 (AP)"

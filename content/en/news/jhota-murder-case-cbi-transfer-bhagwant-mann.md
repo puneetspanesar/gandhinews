@@ -11,7 +11,7 @@ published: 2026-10-20T10:40:00+05:30
 location: Chandigarh
 keyPoints:
   - "Bhagwant Mann said the **Jhota murder case will go to the CBI**, as the family had demanded."
-  - "Jhota, an anti-drug activist from Mansa, was shot on **13 October** and died in hospital."
+  - "Jhota, an anti-drug activist from Mansa, was shot on **October 13** and died in hospital."
   - "His father **Bhim Singh** had called on the Chief Minister and the DGP to resign."
 hero:
   need: "Punjab Chief Minister Bhagwant Mann"
@@ -22,7 +22,7 @@ hero:
     value: "Jhota case goes to the CBI"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, jhota-accused-police-remand-wife-held-mann-phillaur-review, punjab-bandh-jhota-mansa-shutdown-response, amit-shah-gurdaspur-bikramjit-family-aman-arora-questions]
 seo:
-  description: "Punjab CM Bhagwant Mann said on 20 October the murder of Mansa anti-drug activist Parvinder Singh Jhota will be handed to the CBI at his family's request."
+  description: "Punjab CM Bhagwant Mann said on October 20 the murder of Mansa anti-drug activist Parvinder Singh Jhota will be handed to the CBI at his family's request."
 sources:
   - title: "Jhota murder case to be transferred to CBI: Punjab CM Bhagwant Mann"
     publisher: "ANI"
@@ -51,7 +51,7 @@ The Punjab government will hand the murder of anti-drug activist Parvinder Singh
 
 "Acceding to the family's demand, we are handing over this case to the CBI," Mann wrote on X. He said the government "stood firmly" with Jhota's father and family, who had been fighting drugs, and added: "Our fight against drug peddlers is decisive." The state, he said, "will not back down".
 
-Jhota was shot in Mansa on 13 October, allegedly by the owner of a medical shop he had confronted, and died of his wounds in hospital. The killing set off a Punjab bandh called by farmers' and workers' groups on 15 October. Punjab Police, working with Rajasthan Police, arrested the alleged shooter at a dharamshala near the Salasar Balaji temple in Rajasthan.
+Jhota was shot in Mansa on October 13, allegedly by the owner of a medical shop he had confronted, and died of his wounds in hospital. The killing set off a Punjab bandh called by farmers' and workers' groups on October 15. Punjab Police, working with Rajasthan Police, arrested the alleged shooter at a dharamshala near the Salasar Balaji temple in Rajasthan.
 
 His father, Bhim Singh, had blamed the administration for failing to prevent the attack and asked for a CBI probe. "Chief Minister and the DGP, if their conscience awakens, they should resign on their own," he had said.
 

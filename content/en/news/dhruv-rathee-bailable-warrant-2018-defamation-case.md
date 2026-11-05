@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Judicial Magistrate Rahul Jain at Saket issued **bailable warrants** against Dhruv Rathee."
   - "The case is over Rathee's May 2018 video **\"BJP IT Cell Part 2\"**."
-  - "The matter was brought forward and is now listed for **31 October**."
+  - "The matter was brought forward and is now listed for **October 31**."
 hero:
   need: "Two-panel: YouTuber Dhruv Rathee and Saket District Court, New Delhi"
   suggested_source: "Dhruv Rathee"
@@ -44,9 +44,9 @@ verification:
   notes:
     - "Order date unclear: The Pioneer (7:37 am Saturday) says 'on Saturday', which cannot be right for a report published at 7:37 am; The Quint gives no date. Copy avoids naming the day."
     - "Complainant spelt Vikas Sankrityayan (Pioneer, also 'Vikas Pandey') and Vikas Sanskrityayan (Quint); used Pioneer spelling."
-    - "Fresh summons earlier this week: Bar & Bench/LiveLaw headlines only (LiveLaw id suggests 14 Oct); date given as approximate in source list."
+    - "Fresh summons earlier this week: Bar & Bench/LiveLaw headlines only (LiveLaw id suggests Oct 14); date given as approximate in source list."
     - "Quint quote 'The service of summons had been delayed...' is the complainant's submission as paraphrased/quoted by Quint; used as attributed paraphrase."
-    - "Rathee's 10 Oct detention by Gurugram Police from Oneindia (11 Oct)."
+    - "Rathee's Oct 10 detention by Gurugram Police from Oneindia (Oct 11)."
 ---
 
 A Delhi court has issued bailable warrants against YouTuber Dhruv Rathee in a criminal defamation case filed against him in 2018 over his video "BJP IT Cell Part 2".
@@ -55,8 +55,8 @@ Judicial Magistrate Rahul Jain of the Saket courts issued the warrants after bei
 
 The complaint was filed by Vikas Sankrityayan, also known as Vikas Pandey, who says the video, published in May 2018, made false and defamatory claims about him. The video dealt with allegations that the BJP's IT cell had tried to bribe a man into withdrawing his claim that it spread fake news. Arvind Kejriwal, who shared the video, was also named in the case. He later apologised before the Supreme Court, but the case against Rathee went on.
 
-The complainant told the court that service of summons had been held up for years because Rathee lives abroad, in Germany, and argued that he had recently been in India for a protest. Rathee was detained by Gurugram Police on 10 October before he could join the demonstrations against Chief Election Commissioner Gyanesh Kumar, and was released in the early hours of the next day.
+The complainant told the court that service of summons had been held up for years because Rathee lives abroad, in Germany, and argued that he had recently been in India for a protest. Rathee was detained by Gurugram Police on October 10 before he could join the demonstrations against Chief Election Commissioner Gyanesh Kumar, and was released in the early hours of the next day.
 
-The court had issued fresh summons to Rathee earlier this week. The case had been listed for 20 November, but at the complainant's request it will now be heard on 31 October.
+The court had issued fresh summons to Rathee earlier this week. The case had been listed for November 20, but at the complainant's request it will now be heard on October 31.
 
 The allegations in the complaint have not been tested in court.

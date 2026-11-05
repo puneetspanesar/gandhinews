@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch, 19 Oct 11:37 am PDT), which also cites a Bloomberg interview with Keller. No direct quotes available."
+    - "Single source (TechCrunch, Oct 19 11:37 am PDT), which also cites a Bloomberg interview with Keller. No direct quotes available."
 ---
 
 Tenstorrent, the AI chip start-up led by the veteran processor designer Jim Keller, has raised $1.5 billion in a funding round that values it at $6.2 billion, more than double the $2.6 billion it was worth in late 2024.

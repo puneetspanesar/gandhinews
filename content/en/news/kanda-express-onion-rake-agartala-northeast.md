@@ -6,11 +6,11 @@ section: policy
 format_label: "Policy / Food prices"
 topics: [inflation]
 title: "First Kanda Express to Agartala brings 440 tonnes of buffer onions to Tripura"
-standfirst: "The onion train is due on 18 October. The Centre is releasing buffer stock in the Northeast to keep prices in check before the festive season."
+standfirst: "The onion train is due on October 18. The Centre is releasing buffer stock in the Northeast to keep prices in check before the festive season."
 published: 2026-10-16T16:45:00+05:30
 location: New Delhi
 keyPoints:
-  - "About **440 tonnes of buffer onions** are due to reach Agartala by rail on 18 October."
+  - "About **440 tonnes of buffer onions** are due to reach Agartala by rail on October 18."
   - "Supplies will go to **seven of Tripura's eight districts**."
   - "Assam's average retail price is **₹54.30 a kg**, against an all-India average of ₹53.07."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "440 tonnes of onions, by rail"
 related: [up-sugar-stock-limit-hoarding-jail-yogi]
 seo:
-  description: "The first Kanda Express carrying about 440 tonnes of buffer onions is due in Agartala on 18 October as the Centre steps up supplies to the Northeast before festivals."
+  description: "The first Kanda Express carrying about 440 tonnes of buffer onions is due in Agartala on October 18 as the Centre steps up supplies to the Northeast before festivals."
 sources:
   - title: "Kanda Express to reach Agartala to boost onion supply in the Northeast (PIB, Consumer Affairs)"
     publisher: "PIB"
@@ -42,13 +42,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB release listed on PIB's 16 Oct index but the page itself could not be fetched; content from IANS (Hans India, 5:14 pm) and Northeast News, both based on the ministry statement."
+    - "PIB release listed on PIB's Oct 16 index but the page itself could not be fetched; content from IANS (Hans India, 5:14 pm) and Northeast News, both based on the ministry statement."
     - "Origin station of the train not given in either source; left out."
     - "Mandi price fall (about ₹3,600 to ₹3,300 a quintal) from IANS only."
     - "Which earlier rake went where is not stated in sources."
 ---
 
-The first Kanda Express to Tripura, carrying about 440 tonnes of onions from the Centre's buffer stock, is due to reach Agartala by 18 October, the Department of Consumer Affairs said on Friday.
+The first Kanda Express to Tripura, carrying about 440 tonnes of onions from the Centre's buffer stock, is due to reach Agartala by October 18, the Department of Consumer Affairs said on Friday.
 
 The onions will be sold in seven of the state's eight districts: Dhalai, South Tripura, Khowai, Unakoti, West Tripura, Gomati and Sepahijala. The department said the aim was to keep prices affordable ahead of the festive season.
 

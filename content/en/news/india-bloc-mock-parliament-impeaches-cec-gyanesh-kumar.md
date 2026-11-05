@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Twenty-one INDIA bloc parties adopted a **six-point resolution seeking Gyanesh Kumar's removal**."
   - "Amit Shah said on Friday he was **ready to call a special session** of Parliament on the vote theft charge."
-  - "The bloc holds a **rally at Ramlila Maidan on Sunday**, 1 November."
+  - "The bloc holds a **rally at Ramlila Maidan on Sunday**, November 1."
 hero:
   need: "Congress president Mallikarjun Kharge and Chief Election Commissioner Gyanesh Kumar, as a two-panel split"
   suggested_source: "Mallikarjun Kharge"
@@ -22,7 +22,7 @@ hero:
     value: "A mock House, a real demand"
 related: [india-bloc-public-impeachment-cec-october-30-dilli-chalo, congress-ramlila-maidan-rally-november-1-police-noc, supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct, dmk-seeks-cec-gyanesh-kumar-removal-ballot-papers]
 seo:
-  description: "21 INDIA bloc parties held a mock Parliament at Kharge's residence on 31 October and 'impeached' CEC Gyanesh Kumar on six charges. BJP called it a mockery."
+  description: "21 INDIA bloc parties held a mock Parliament at Kharge's residence on October 31 and 'impeached' CEC Gyanesh Kumar on six charges. BJP called it a mockery."
 sources:
   - title: "'Left with no choice': INDIA bloc 'impeaches' Gyanesh Kumar in mock Parliament, accuses him of treason"
     publisher: "ThePrint"
@@ -57,10 +57,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Proceedings, speakers, charges: ThePrint and Tribune (31 Oct, 4:48 pm) agree on venue (10 Rajaji Marg), Meira Kumar presiding, Kharge moving the six charges. '21 parties' and the speeches by Ghose, Sawant, Brittas, Basheer, Yadav are ThePrint only."
+    - "Proceedings, speakers, charges: ThePrint and Tribune (Oct 31, 4:48 pm) agree on venue (10 Rajaji Marg), Meira Kumar presiding, Kharge moving the six charges. '21 parties' and the speeches by Ghose, Sawant, Brittas, Basheer, Yadav are ThePrint only."
     - "Deleted voters: Kharge's charge sheet says 13.2 crore (Tribune, ThePrint); Rahul Gandhi said 13.3 crore, about 15% of the electorate (ThePrint). Both figures are the opposition's claims; copy attributes them."
     - "No vote count reported; ThePrint says the resolution was adopted. No Election Commission response found."
-    - "Shah quote ('I am ready to call a special session... But Rahul Baba will never agree') from Indian Opinion's summary of Lucknow speech of 30 Oct, which cites HT, NDTV, India Today; original outlets not fetched (blocked). 'drama on the streets' fragment same source."
+    - "Shah quote ('I am ready to call a special session... But Rahul Baba will never agree') from Indian Opinion's summary of Lucknow speech of Oct 30, which cites HT, NDTV, India Today; original outlets not fetched (blocked). 'drama on the streets' fragment same source."
     - "Postponement from Friday citing rain: Indian Opinion only; hedged. Congress said on Tuesday it was denied permission: Outlook."
     - "Patra quotes: UNI (paywalled after ~100 words). Trivedi quote: PTI via ThePrint."
 ---
@@ -94,4 +94,4 @@ On the eve of the event, Amit Shah told the BJP's Uttar Pradesh working committe
 
 The BJP said on Saturday the opposition was **making a mockery of Parliament**. "Kharge ji, by repeatedly telling lies, you cannot prove Rahul Gandhi's claims to be true," BJP MP Sambit Patra said. Party spokesperson Sudhanshu Trivedi pointed to a new World Bank poverty estimate. "The World Bank's hard statistics have in a way mocked their mock parliament," he said.
 
-The bloc now moves to the street. It holds a **rally at Ramlila Maidan on Sunday**, 1 November.
+The bloc now moves to the street. It holds a **rally at Ramlila Maidan on Sunday**, November 1.

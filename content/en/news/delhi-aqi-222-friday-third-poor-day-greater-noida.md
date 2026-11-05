@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Delhi's AQI was **223 at 8 am** and 222 around midday on Friday, the third 'poor' day running."
   - "Greater Noida, at **357**, was the most polluted city in the country."
-  - "Air quality is forecast to stay **'poor' through Sunday, 25 October**."
+  - "Air quality is forecast to stay **'poor' through Sunday, October 25**."
 hero:
   need: "Haze over the IARI campus at Pusa or the Pusa Road area of west Delhi"
   suggested_source: "Indian Agricultural Research Institute Pusa New Delhi"
@@ -22,7 +22,7 @@ hero:
     value: "AQI 222: a third 'poor' day"
 related: [delhi-aqi-223-thursday-jahangirpuri-very-poor, delhi-aqi-226-second-poor-day-caqm-dust-review-mcd, grap-explained-delhi-air-stages-what-is-banned]
 seo:
-  description: "Delhi's AQI was 222 (poor) on 23 October 2026 per CPCB, a third straight poor day, with Pusa at 289 and Greater Noida very poor at 357."
+  description: "Delhi's AQI was 222 (poor) on October 23, 2026, per CPCB, a third straight poor day, with Pusa at 289 and Greater Noida very poor at 357."
 sources:
   - title: "Delhi AQI remains poor at 223 as GRAP-I checks tighten at borders"
     publisher: "NewsDrum"
@@ -50,7 +50,7 @@ verification:
     - "CPCB readings: 223 at 8 am (NewsDrum, 12:14 pm); 225 at 9 am (PTI via Hans India, 10:16 am); 222 overall with 57 of 59 stations working (ETV Bharat, 12:54 pm, updated 1:57 pm; hour not stated, written as 'around midday'). CPCB 4 pm daily bulletin not out at time of writing."
     - "Station figures from ETV Bharat. Faridabad figure garbled in source, omitted."
     - "Border bus checks: Thursday meeting chaired by Special CP (Traffic) Ajay Chaudhary, NewsDrum."
-    - "Forecast through 24 Oct (NewsDrum) and through Sunday 25 Oct (Business Standard citing AQEWS); used 25 Oct."
+    - "Forecast through Oct 24 (NewsDrum) and through Sunday, Oct 25 (Business Standard citing AQEWS); used Oct 25."
 ---
 
 Delhi woke up to a third straight day of 'poor' air on Friday. The Central Pollution Control Board (CPCB) put the city's average air quality index at 223 at 8 am, 225 an hour later and 222 around midday, with 57 of its 59 monitoring stations reporting.
@@ -71,12 +71,12 @@ Other big cities were far cleaner: Mumbai was at 188, Kolkata 169, Ahmedabad 160
 
 The slide began after Dussehra, with emissions from firecrackers and burning effigies adding to the usual load from traffic and construction dust. Cooler nights and slow winds are trapping pollutants close to the ground. The Indian Institute of Tropical Meteorology's Decision Support System estimated on Wednesday that transport accounted for about 21% of Delhi's PM2.5 and stubble burning in neighbouring states for about 4%. Forecasters expect the farm-fire share to grow.
 
-The weather offers little help for now. Safdarjung recorded a minimum of 19°C, 1.8 degrees above normal, and the India Meteorological Department expects a maximum of around 32°C under mainly clear skies. A western disturbance due over the western Himalayas around 24 October could bring clouds to Delhi as well.
+The weather offers little help for now. Safdarjung recorded a minimum of 19°C, 1.8 degrees above normal, and the India Meteorological Department expects a maximum of around 32°C under mainly clear skies. A western disturbance due over the western Himalayas around October 24 could bring clouds to Delhi as well.
 
 ## On the roads
 
 Stage I of the Graded Response Action Plan has been in force across Delhi-NCR since Wednesday, with 25 measures covering road sweeping, water sprinkling, dust control at building sites, pollution certificate checks and action against over-age vehicles.
 
-At an inter-state meeting on Thursday, Special Commissioner of Police (Traffic) Ajay Chaudhary and officials from neighbouring states discussed stopping or turning back polluting buses at border checkpoints rather than catching them after they enter the city. Joint enforcement teams were also discussed. Restrictions on some vehicles registered outside Delhi will apply from 1 November 2026 to 31 January 2027.
+At an inter-state meeting on Thursday, Special Commissioner of Police (Traffic) Ajay Chaudhary and officials from neighbouring states discussed stopping or turning back polluting buses at border checkpoints rather than catching them after they enter the city. Joint enforcement teams were also discussed. Restrictions on some vehicles registered outside Delhi will apply from November 1, 2026, to January 31, 2027.
 
-The Air Quality Early Warning System expects the air to remain 'poor' through Sunday, 25 October.
+The Air Quality Early Warning System expects the air to remain 'poor' through Sunday, October 25.

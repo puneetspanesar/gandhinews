@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Study first reported by TechCrunch (24 Oct); TechCrunch page could not be fetched. Details (Convovo, Tapan Parikh, model names, percentages, 57/67 and 47/72, 30-race no-search test, OpenAI statement) from Mezha's write-up of the TechCrunch report; headline numbers (92/97, under 10% agreement, ~500 races) confirmed by Crypto Briefing."
+    - "Study first reported by TechCrunch (Oct 24); TechCrunch page could not be fetched. Details (Convovo, Tapan Parikh, model names, percentages, 57/67 and 47/72, 30-race no-search test, OpenAI statement) from Mezha's write-up of the TechCrunch report; headline numbers (92/97, under 10% agreement, ~500 races) confirmed by Crypto Briefing."
     - "Model names 'Grok 4.7' and 'GPT-6.1 Sol' and 'SpaceXAI' as given by Mezha."
     - "Dateline New York is nominal (Cornell); study location not stated."
     - "Swedish Chalmers/Gothenburg study mentioned by Crypto Briefing only; left out."

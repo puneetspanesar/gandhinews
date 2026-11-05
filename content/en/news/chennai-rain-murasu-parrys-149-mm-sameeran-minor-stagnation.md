@@ -26,7 +26,7 @@ cover:
   headline: "149 mm in Parrys as rain lashes Chennai"
 related: [cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
-  description: "Chennai's Parrys recorded 149.2 mm of rain to 6 am on 2 November as Cyclone Murasu neared; GCC Commissioner G S Sameeran said waterlogging was minor and all subways were open."
+  description: "Chennai's Parrys recorded 149.2 mm of rain to 6 am on November 2 as Cyclone Murasu neared; GCC Commissioner G S Sameeran said waterlogging was minor and all subways were open."
 sources:
   - title: "Heavy rain disrupts Chennai as severe cyclone Murasu nears Andhra coast"
     publisher: "The Hans India"
@@ -51,7 +51,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, Monday morning IST (between about 9:00 and 10:27), GCC Commissioner G S Sameeran's inspection and remarks to reporters on waterlogging; first reported by Rozana Spokesman at 10:27 IST, Hans India (IANS-style copy) at 10:49 IST. Exact hour of the inspection not stated in either source; both describe it as Monday morning. New development on the 08:35 IST Murasu story: Chennai rain totals and civic response."
+    - "event: Nov 2, Monday morning IST (between about 9:00 and 10:27), GCC Commissioner G S Sameeran's inspection and remarks to reporters on waterlogging; first reported by Rozana Spokesman at 10:27 IST, Hans India (IANS-style copy) at 10:49 IST. Exact hour of the inspection not stated in either source; both describe it as Monday morning. New development on the 08:35 IST Murasu story: Chennai rain totals and civic response."
     - "GCC station figures (Parrys 149.2, New Manali Town 141.6, Manali 136.2 mm; 5 very heavy, 28 heavy, 25 moderate) for 24 h to 6 am: Hans India, citing the GCC Integrated Command and Control Centre. Rozana Spokesman agrees on 28 heavy and 5 very heavy. IMD station figures (Madhavaram 11 cm, Ennore Port and Nungambakkam 10 cm): Rozana Spokesman only."
     - "Sameeran quote 'some minor water stagnation' and the 2 of 22 subways, pumps and backup motors: Rozana Spokesman only. Besant Road (Triplicane) inspection and ICCC visit at Ripon Building: Hans India only."
     - "11 IndiGo flights cancelled: Chennai airport X post as reported by DT Next (page updated 4:33 am) and Onmanorama (10:54 am); background, not an in-window event. Routes and times from DT Next."
@@ -63,7 +63,7 @@ Chennai woke on Monday to **waterlogged roads after a night of torrential rain**
 Parrys, the old commercial heart of north Chennai, recorded **149.2 mm in the 24 hours to 6 am**, according to the Greater Chennai Corporation's Integrated Command and Control Centre. New Manali Town and Manali were close behind. Five locations had very heavy rain, 28 heavy and 25 moderate. Madhavaram logged 11 cm at the IMD's stations, with Ennore Port and Nungambakkam at 10 cm each.
 
 ```chart
-{"type":"hbar","title":"Heaviest rain in Chennai, 24 hours to 6 am, 2 November","unit":"mm","data":[{"label":"Parrys","value":149.2},{"label":"New Manali Town","value":141.6},{"label":"Manali","value":136.2}]}
+{"type":"hbar","title":"Heaviest rain in Chennai, 24 hours to 6 am, November 2","unit":"mm","data":[{"label":"Parrys","value":149.2},{"label":"New Manali Town","value":141.6},{"label":"Manali","value":136.2}]}
 ```
 
 Rough waves pounded the city's beaches. Corporation Commissioner G S Sameeran inspected stagnant water on Besant Road in Triplicane and then went to the command centre at Ripon Building to review the relief work. He said there was "some minor water stagnation" in a few areas and **no major flooding**.

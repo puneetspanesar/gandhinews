@@ -21,7 +21,7 @@ hero:
     value: "A third of its value gone in 2026"
 related: [sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks, fpi-outflows-record-3-trillion-2026]
 seo:
-  description: "Maruti Suzuki shares fell to an 18-month low of ₹11,126.05 on 13 October, down 33% in 2026, as brokers flag raw material inflation and a fading GST demand boost."
+  description: "Maruti Suzuki shares fell to an 18-month low of ₹11,126.05 on October 13, down 33% in 2026, as brokers flag raw material inflation and a fading GST demand boost."
 sources:
   - title: "Maruti Suzuki tanks 33% in calendar year 2026; stock hits 18-month low"
     publisher: "Business Standard"

@@ -10,7 +10,7 @@ standfirst: "An H3 rocket is scheduled to launch the Martian Moons eXploration s
 published: 2026-10-19T12:30:00+05:30
 location: Tanegashima, Japan
 keyPoints:
-  - "Launch is set for **4:41 am Japan time on 20 October**, which is 1:11 am IST on Tuesday."
+  - "Launch is set for **4:41 am Japan time on October 20**, which is 1:11 am IST on Tuesday."
   - "MMX aims to collect **at least 10 grams** of material from Phobos."
   - "A capsule is due to land in **Woomera, Australia, in 2031**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Next stop: a moon of Mars"
 related: [japan-h3-mmx-phobos-sample-return-launch, bandwagon-5-mmx-launch-week-falcon-9-h3-electron]
 seo:
-  description: "JAXA's MMX probe is due to launch on an H3 rocket from Tanegashima at 1:11 am IST on 20 October to bring back samples from the Martian moon Phobos."
+  description: "JAXA's MMX probe is due to launch on an H3 rocket from Tanegashima at 1:11 am IST on October 20 to bring back samples from the Martian moon Phobos."
 sources:
   - title: "The Martian Moons eXploration MMX mission"
     publisher: "European Space Agency"
@@ -42,13 +42,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Preview: launch had not happened at time of writing. Time 04:41 JST 20 Oct from ESA page and Space.com (19:41 UTC 19 Oct); IST conversion 01:11 IST 20 Oct. ESA page date in October not exact; 2026-10-01 used as placeholder."
-    - "No same-day JAXA go/no-go statement found; story does not claim one. Window runs to 7 Nov per Space.com."
+    - "Preview: launch had not happened at time of writing. Time 04:41 JST Oct 20 from ESA page and Space.com (19:41 UTC Oct 19); IST conversion 01:11 IST Oct 20. ESA page date in October not exact; 2026-10-01 used as placeholder."
+    - "No same-day JAXA go/no-go statement found; story does not claim one. Window runs to Nov 7 per Space.com."
 ---
 
 Japan is due to launch its Martian Moons eXploration probe in the early hours of Tuesday, India time, on a mission to bring back the first samples ever collected from a moon of Mars.
 
-An H3 rocket is scheduled to lift off from the Tanegashima Space Center in southern Japan at 4:41 am local time on 20 October, which is 1:11 am IST. If weather or technical problems intervene, the launch window stays open until 7 November.
+An H3 rocket is scheduled to lift off from the Tanegashima Space Center in southern Japan at 4:41 am local time on October 20, which is 1:11 am IST. If weather or technical problems intervene, the launch window stays open until November 7.
 
 The Japan Aerospace Exploration Agency (JAXA) leads the mission with NASA, the European Space Agency and the French and German space agencies, CNES and DLR.
 

@@ -10,7 +10,7 @@ standfirst: "Amit Shah said the raids at 38 places in Assam, Mizoram and Manipur
 published: 2026-10-25T13:40:00+05:30
 location: Aizawl
 keyPoints:
-  - "Agencies froze **1,424 bank accounts** and seized 500 detonators in raids on 23 October."
+  - "Agencies froze **1,424 bank accounts** and seized 500 detonators in raids on October 23."
   - "The ED arrested six people and attached a Champhai hotel worth **₹17.82 crore**."
   - "One Churachandpur counter made **2,947 transfers worth ₹175.03 crore**, the ED says."
 hero:
@@ -44,9 +44,9 @@ verification:
 
 Central agencies and police in three northeastern states have frozen 1,424 bank accounts and arrested 18 people in a coordinated strike on a drug trafficking network that moved narcotics and money across the Myanmar border, Union Home Minister Amit Shah said on Sunday.
 
-The raids, under the name Operation Trident, were carried out on 23 October at 38 places in Assam, Mizoram and Manipur by the Enforcement Directorate (ED), the Narcotics Control Bureau and state police. Shah said they uncovered about ₹100 crore in hawala transactions and turned up 500 detonators and ₹12 lakh in cash. Officials have not said what the detonators were meant for.
+The raids, under the name Operation Trident, were carried out on October 23 at 38 places in Assam, Mizoram and Manipur by the Enforcement Directorate (ED), the Narcotics Control Bureau and state police. Shah said they uncovered about ₹100 crore in hawala transactions and turned up 500 detonators and ₹12 lakh in cash. Officials have not said what the detonators were meant for.
 
-"Modi govt deals another lethal blow against drugs with Operation Trident," Shah wrote on X, congratulating the anti-narcotics teams. Repeating the government's aim of breaking drug networks by 31 December 2029, he added: "India will hammer until the last nail is driven into the coffin of drug cartels."
+"Modi govt deals another lethal blow against drugs with Operation Trident," Shah wrote on X, congratulating the anti-narcotics teams. Repeating the government's aim of breaking drug networks by December 31, 2029, he added: "India will hammer until the last nail is driven into the coffin of drug cartels."
 
 ## Following the money
 

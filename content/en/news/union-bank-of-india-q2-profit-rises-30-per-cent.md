@@ -22,7 +22,7 @@ hero:
     value: "Profit up 30% to ₹5,537 crore"
 related: [psu-bank-shares-rally-pnb-canara-q2, sensex-nifty-close-october-19-private-banks-axis, central-bank-of-india-q2-profit-rises-21-per-cent]
 seo:
-  description: "Union Bank of India's Q2 FY27 net profit rose 30.3% to ₹5,537 crore, NII rose 20% and gross NPA fell to 2.42%, sending its shares up 5% on 19 October 2026."
+  description: "Union Bank of India's Q2 FY27 net profit rose 30.3% to ₹5,537 crore, NII rose 20% and gross NPA fell to 2.42%, sending its shares up 5% on October 19, 2026."
 sources:
   - title: "Union Bank shares jump 5% as Q2 PAT rises 30% YoY, asset quality improves"
     publisher: "Business Standard"

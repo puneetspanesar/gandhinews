@@ -35,10 +35,10 @@ infographic:
     - {icon: map-pin, value: "9.44%", label: "Anantapur, highest district at 9 am"}
     - {icon: users, value: "2.61 crore", label: "eligible voters"}
   chart: {type: columns, title: "Turnout by 9 am, selected districts, %", highlight: 0, items: [{label: "Anantapur", value: 9.44, display: "9.44"}, {label: "Krishna", value: 8.21, display: "8.21"}, {label: "Chittoor", value: 7.30, display: "7.30"}, {label: "Kurnool", value: 7.23, display: "7.23"}, {label: "Eluru", value: 2.14, display: "2.14"}, {label: "Bapatla", value: 1.38, display: "1.38"}]}
-  source: "District-wise turnout as reported, 5 November 2026"
+  source: "District-wise turnout as reported, November 5, 2026"
 related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
-  description: "Andhra Pradesh MPTC-ZPTC polls on 5 November 2026: 4.8% statewide turnout by 9 am, Anantapur at 9.44%, NTR over 14% and Krishna over 15% later in the morning."
+  description: "Andhra Pradesh MPTC-ZPTC polls on November 5, 2026: 4.8% statewide turnout by 9 am, Anantapur at 9.44%, NTR over 14% and Krishna over 15% later in the morning."
 sources:
   - title: "AP ZPTC MPTC election: Voter Turnout of 4.8% recorded by 9am"
     publisher: "The Hans India"
@@ -58,7 +58,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 09:00 IST statewide figure (published 10:43 IST); NTR/Krishna figures published 10:49 IST, live update 11:02 IST; minister's visit live update 11:02 IST."
+    - "event: Nov 5 09:00 IST statewide figure (published 10:43 IST); NTR/Krishna figures published 10:49 IST, live update 11:02 IST; minister's visit live update 11:02 IST."
     - "Statewide 11 am figure NOT found in any source read by about 11:10 IST; story uses the 9 am figure. Releasing body for 4.8% not named in source; written without attribution to SEC."
     - "NTR 'over 14%' and Krishna 'over 15%' have no stated hour ('Thursday morning'). Note Krishna was 8.21% at 9 am, consistent with a later reading."
     - "Gathering of 'outsiders' dispersed by police (10:01 IST update in Hans India) has no place given; kept vague."

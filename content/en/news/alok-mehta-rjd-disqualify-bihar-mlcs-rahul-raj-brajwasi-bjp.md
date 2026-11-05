@@ -27,7 +27,7 @@ cover:
   bg: "Bihar Legislative Council"
 related: [rlm-suspends-ram-pukar-sinha-mla-revolt-saran-mlc, tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally]
 seo:
-  description: "RJD MLA Alok Kumar Mehta on 2 November 2026 demanded that Bihar MLCs Rahul Raj and Banshidhar Brajwasi, elected as independents, lose their seats for joining the BJP, citing the Tenth Schedule."
+  description: "RJD MLA Alok Kumar Mehta on November 2, 2026, demanded that Bihar MLCs Rahul Raj and Banshidhar Brajwasi, elected as independents, lose their seats for joining the BJP, citing the Tenth Schedule."
 sources:
   - title: "Alok Mehta demands cancellation of MLC memberships of Rahul Raj & Banshidhar Brajwasi for joining BJP"
     publisher: "UNI"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov evening, Alok Mehta spoke to reporters in Samastipur; UNI report timestamped 15:32 UTC (9:02 pm IST). Exact time of remarks not given."
+    - "event: Nov 2 evening, Alok Mehta spoke to reporters in Samastipur; UNI report timestamped 15:32 UTC (9:02 pm IST). Exact time of remarks not given."
     - "Single source (UNI), paywalled after the lede. Only the phrase on the Tenth Schedule is quoted. Date the two MLCs joined the BJP not given; no response from them or the BJP found. Search budget exhausted."
-    - "Council polls of 23 October and the Saran contest (Ram Pukar Sinha, Anand Pushkar, Aafaq Ahmad) are from our 12 Oct story (Aaj Tak, Insider Live). Rahul Raj's win in Saran teachers' seat is from UNI; vote figures not found."
+    - "Council polls of October 23 and the Saran contest (Ram Pukar Sinha, Anand Pushkar, Aafaq Ahmad) are from our Oct 12 story (Aaj Tak, Insider Live). Rahul Raj's win in Saran teachers' seat is from UNI; vote figures not found."
     - "Wikipedia title for Mehta assumed 'Alok Kumar Mehta' (RJD, Ujiarpur)."
 ---
 
@@ -58,6 +58,6 @@ He went further and called for **fresh elections in both constituencies**.
 
 The Tenth Schedule, the anti-defection law, covers independents as well as party members. A legislator elected without a party who joins one after the election can be disqualified. The decision rests with the presiding officer of the House, in this case the Chairman of the Legislative Council, so the RJD's demand will only bite if it is taken to him as a formal petition. Mehta did not say whether the party would file one.
 
-The Saran teachers' seat was one of eight Council seats that went to the polls on 23 October. It was a messy contest for the ruling alliance. The NDA had fielded Anand Pushkar of the Janata Dal (United), while Ram Pukar Sinha of the Rashtriya Lok Morcha ran as an independent against him and was **suspended by his party for six years**.
+The Saran teachers' seat was one of eight Council seats that went to the polls on October 23. It was a messy contest for the ruling alliance. The NDA had fielded Anand Pushkar of the Janata Dal (United), while Ram Pukar Sinha of the Rashtriya Lok Morcha ran as an independent against him and was **suspended by his party for six years**.
 
 Neither Rahul Raj, Brajwasi nor the BJP had responded to Mehta's demand by Monday night.

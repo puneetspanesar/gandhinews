@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Shah's remarks were a Hindi post on X; quotes are the English translations carried by IANS and ANI, which differ slightly. PIB also carried it (PRID 2324402, Home Affairs, 16 Oct) but the page could not be fetched."
+    - "Shah's remarks were a Hindi post on X; quotes are the English translations carried by IANS and ANI, which differ slightly. PIB also carried it (PRID 2324402, Home Affairs, Oct 16) but the page could not be fetched."
     - "Time of post not given; IANS story 11:51 am, ANI 12:00 pm. Published time set just before."
     - "Spelling: 'Jhota' used on site; IANS spells 'Jhotta'."
     - "No AAP or Punjab government response found at time of writing."

@@ -10,7 +10,7 @@ standfirst: "Maharashtra lost the most names and Delhi the largest share. The El
 published: 2026-10-11T10:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "Draft rolls in the 17 states and UTs published by 1 September left out **more than 6.15 crore electors**, Deccan Herald reported."
+  - "Draft rolls in the 17 states and UTs published by September 1 left out **more than 6.15 crore electors**, Deccan Herald reported."
   - "Maharashtra had the **largest number of exclusions (2.07 crore)** and Delhi the largest share (32.78%)."
   - "The Election Commission says names were left out because voters were absent, had shifted, had died or were registered twice, and that these are **not final deletions**."
   - "Opposition leaders including Rahul Gandhi have alleged that **eligible voters are being removed**; the ECI calls the 'vote chori' charge part of a misleading narrative."
@@ -92,19 +92,19 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: Deccan Herald's page renders only its headline and summary to our fetcher. Its headline confirms 'over 6.15 crore' in 17 states/UTs, Maharashtra highest by number and Delhi highest by share. The exact figures 6,15,07,279, 17.04% and 36.08 crore, and DH's state figures for Karnataka, Telangana, Odisha, DNH&DD and Arunachal could not be confirmed and were removed. Telangana and Karnataka now carry Outlook's 'about one-fifth'."
+    - "Fact-check Oct 11, 2026: Deccan Herald's page renders only its headline and summary to our fetcher. Its headline confirms 'over 6.15 crore' in 17 states/UTs, Maharashtra highest by number and Delhi highest by share. The exact figures 6,15,07,279, 17.04% and 36.08 crore, and DH's state figures for Karnataka, Telangana, Odisha, DNH&DD and Arunachal could not be confirmed and were removed. Telangana and Karnataka now carry Outlook's 'about one-fifth'."
     - "Confirmed: Maharashtra 2,06,88,487 / 21.14% (PTI); Delhi 47,56,722 of 1,45,10,299 (ThePrint; 32.78% is our calculation); Jharkhand breakdown (Pioneer); Haryana 33.8 lakh / 16.4% and AP 44.9 lakh / 10.8% (The Wire); Punjab 20.66 lakh (Tribune); Jubilee Hills and Bommanahalli (Outlook); Tejashwi detention (IANS)."
-    - "Removed: Kejriwal '47 lakh of 1.5 crore' line (no source found). ECI 2 October statement is paraphrased, not quoted: FPJ paraphrases the ECI and its wording cannot be presented as the Commission's own."
-    - "Added: revised Maharashtra schedule (claims to 12 Oct, disposal by 10 Nov, final roll 16 Nov; News On AIR) and Delhi claims to 30 Oct (Business Today). The older notes below about DH percentages are superseded."
-    - "No ECI primary state-wise table could be opened (eci.gov.in unreachable). State figures are from Deccan Herald (1 Sep 2026), cross-checked where possible: Maharashtra (PTI), Jharkhand (CEO figures via The Pioneer), Haryana and AP (The Wire), Punjab (The Tribune) all match."
+    - "Removed: Kejriwal '47 lakh of 1.5 crore' line (no source found). ECI October 2 statement is paraphrased, not quoted: FPJ paraphrases the ECI and its wording cannot be presented as the Commission's own."
+    - "Added: revised Maharashtra schedule (claims to Oct 12, disposal by Nov 10, final roll Nov 16; News On AIR) and Delhi claims to Oct 30 (Business Today). The older notes below about DH percentages are superseded."
+    - "No ECI primary state-wise table could be opened (eci.gov.in unreachable). State figures are from Deccan Herald (Sep 1, 2026), cross-checked where possible: Maharashtra (PTI), Jharkhand (CEO figures via The Pioneer), Haryana and AP (The Wire), Punjab (The Tribune) all match."
     - "Percentages: Delhi, DNH&DD, Telangana, Karnataka, Arunachal and Maharashtra are Deccan Herald's. Jharkhand 16.49% is derived from the CEO's statement that 83.51% are in the draft roll. Haryana 16.4% and AP 10.8% are from The Wire (which also gives AP as 10.6% in one place). Punjab 9.7% is The Tribune's. Odisha's share was not found."
     - "Deccan Herald gives Maharashtra as both 21.15% and 21.14%; PTI gives 21.14%."
-    - "Delhi final roll date has changed more than once: CEO FAQ 7 Oct, UNI headline 27 Oct, ThePrint (31 Aug) 4 Nov. Not stated in copy."
+    - "Delhi final roll date has changed more than once: CEO FAQ Oct 7, UNI headline Oct 27, ThePrint (Aug 31) Nov 4. Not stated in copy."
     - "The ECI's '13 crore ASDD' figure covers all SIR phases since June 2025, not only phase III. Reported by FPJ; the ECI statement itself was not opened."
     - "Rahul Gandhi's words are PTI's English translation of a Hindi post; paraphrased rather than quoted."
 ---
 
-Draft electoral rolls published so far in the third phase of the Special Intensive Revision (SIR) have left out more than 6.15 crore names, Deccan Herald reported on 1 September, covering the 17 states and Union Territories whose drafts were out by then. The Election Commission of India (ECI) says names left off a draft are not final deletions and can be restored through claims.
+Draft electoral rolls published so far in the third phase of the Special Intensive Revision (SIR) have left out more than 6.15 crore names, Deccan Herald reported on September 1, covering the 17 states and Union Territories whose drafts were out by then. The Election Commission of India (ECI) says names left off a draft are not final deletions and can be restored through claims.
 
 ```chart
 {"type":"hbar","title":"Names left out of SIR phase III draft rolls","subtitle":"Lakh electors, states with confirmed figures","unit":"lakh","data":[{"label":"Maharashtra","value":206.88,"highlight":true},{"label":"Delhi","value":47.57},{"label":"Andhra Pradesh","value":44.9},{"label":"Jharkhand","value":43.62},{"label":"Haryana","value":33.8},{"label":"Punjab","value":20.66}],"source":"Maharashtra CEO via PTI; ThePrint (Delhi); Jharkhand CEO via The Pioneer; The Wire (Haryana, Andhra Pradesh); The Tribune (Punjab). Karnataka and Telangana totals not confirmed"}
@@ -112,7 +112,7 @@ Draft electoral rolls published so far in the third phase of the Special Intensi
 
 ## Where the cuts were deepest
 
-Maharashtra's draft, released on 31 August, left out 2,06,88,487 people, or 21.14% of its 9.78 crore electors, PTI reported. Delhi lost the largest share: 47,56,722 of 1.45 crore electors, or 32.78%, most of them marked "permanently shifted", according to ThePrint.
+Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or 21.14% of its 9.78 crore electors, PTI reported. Delhi lost the largest share: 47,56,722 of 1.45 crore electors, or 32.78%, most of them marked "permanently shifted", according to ThePrint.
 
 | State or UT | Left out of draft | Share of old roll |
 |---|---|---|
@@ -133,12 +133,12 @@ Within states, Outlook found deletions concentrated in some city seats. Jubilee 
 
 The ECI's stated aim, in the Delhi Chief Electoral Officer's FAQ, is that "No eligible citizen is left out and no ineligible person is included in the Electoral Roll." Names are left off a draft when Booth Level Officers cannot collect an enumeration form, under the category of absent, shifted, dead or duplicate (ASDD). Jharkhand's 43.62 lakh exclusions, for instance, included 7.63 lakh dead, 15.92 lakh permanently shifted, 14.50 lakh untraceable and 4.38 lakh registered in more than one place, according to the state CEO's figures.
 
-On 2 October the ECI called the claim that 13 crore voters had been removed from the rolls misleading, Free Press Journal reported. According to the report, the Commission said that figure counts electors marked absent, shifted, dead or duplicate at the draft stage across all SIR phases since June 2025, not names deleted from final rolls. It described the "vote chori" allegation as part of a misleading narrative and said about 2.37 crore voters aged 18 to 28 had been added since the SIR began.
+On October 2 the ECI called the claim that 13 crore voters had been removed from the rolls misleading, Free Press Journal reported. According to the report, the Commission said that figure counts electors marked absent, shifted, dead or duplicate at the draft stage across all SIR phases since June 2025, not names deleted from final rolls. It described the "vote chori" allegation as part of a misleading narrative and said about 2.37 crore voters aged 18 to 28 had been added since the SIR began.
 
 ## What the opposition says
 
-Rahul Gandhi, Leader of the Opposition in the Lok Sabha, described the Maharashtra exclusions as "vote theft" in a post on 1 September and alleged that the exercise was aimed at securing a BJP victory, according to PTI's translation of his Hindi post. In Punjab, the Congress, BJP, AAP and Shiromani Akali Dal all said they were checking the draft lists booth by booth, The Tribune reported. On 8 October, Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a Mahagathbandhan march against the SIR, IANS reported.
+Rahul Gandhi, Leader of the Opposition in the Lok Sabha, described the Maharashtra exclusions as "vote theft" in a post on September 1 and alleged that the exercise was aimed at securing a BJP victory, according to PTI's translation of his Hindi post. In Punjab, the Congress, BJP, AAP and Shiromani Akali Dal all said they were checking the draft lists booth by booth, The Tribune reported. On October 8, Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a Mahagathbandhan march against the SIR, IANS reported.
 
 ## What happens next
 
-Final rolls are being published state by state. In Maharashtra, the ECI extended the deadline for claims and objections to 12 October, with disposal due by 10 November and the final roll moved to 16 November, News On AIR reported. In Delhi, claims and objections now run to 30 October, Business Today reported. Voters left out can apply for inclusion using Form 6 with a declaration. Our [explainer](/en/explainer/special-intensive-revision-how-to-check-your-name) sets out how to check your name.
+Final rolls are being published state by state. In Maharashtra, the ECI extended the deadline for claims and objections to October 12, with disposal due by November 10 and the final roll moved to November 16, News On AIR reported. In Delhi, claims and objections now run to October 30, Business Today reported. Voters left out can apply for inclusion using Form 6 with a declaration. Our [explainer](/en/explainer/special-intensive-revision-how-to-check-your-name) sets out how to check your name.

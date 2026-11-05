@@ -42,10 +42,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Headline figures (profit, NII, AUM, customers, deposits, GNPA/NNPA, share close ₹957.35 down 2.52%) from Upstox, updated 7:12 pm IST 19 Oct; results declared after market hours. Exact filing time not seen; published time set at 6:40 pm."
+    - "Headline figures (profit, NII, AUM, customers, deposits, GNPA/NNPA, share close ₹957.35 down 2.52%) from Upstox, updated 7:12 pm IST Oct 19; results declared after market hours. Exact filing time not seen; published time set at 6:40 pm."
     - "Guidance, credit cost 1.56%, overlay ₹337 crore, cost of funds 7.87%, ROA/ROE, leverage corridor and all quotes from Investing.com's earnings call transcript. Fee income range given as both 15-18% and 16-18% there, so not used."
     - "AUM: Upstox ₹5.85 lakh crore (26%); transcript ₹5.84 lakh crore (26.5%). Used ₹5.85 lakh crore and 26%."
-    - "Consensus ₹6,383 crore is from our 19 Oct preview (average of five brokerages)."
+    - "Consensus ₹6,383 crore is from our Oct 19 preview (average of five brokerages)."
 ---
 
 Bajaj Finance, India's largest consumer lender, reported a 29% rise in quarterly profit on Monday and raised its forecast for loan growth this year, even as it braced for higher borrowing costs after the Reserve Bank's first rate increase in four years.

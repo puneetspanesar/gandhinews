@@ -22,7 +22,7 @@ hero:
     value: "A Gulf bid for the UN's top job"
 related: [un-secretary-general-straw-poll-all-seven-vetoed-sall-quits]
 seo:
-  description: "The UAE nominated Minister of State Lana Nusseibeh for UN secretary-general on 21 October, as the race to succeed Antonio Guterres remains deadlocked."
+  description: "The UAE nominated Minister of State Lana Nusseibeh for UN secretary-general on October 21, as the race to succeed Antonio Guterres remains deadlocked."
 sources:
   - title: "UAE nominates Lana Nusseibeh for UN secretary-general: What to know"
     publisher: "Al-Monitor"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Nomination by UAE Foreign Ministry on Wednesday (Al-Monitor); letter sent by President Mohammed bin Zayed to the heads of the General Assembly and Security Council (Times of Israel live blog, 11:36 pm Israel time)."
-    - "Al-Monitor's 16 October straw poll numbers (Grynspan 9 'encourage') differ from our earlier story (7); copy avoids the vote tallies."
+    - "Al-Monitor's October 16 straw poll numbers (Grynspan 9 'encourage') differ from our earlier story (7); copy avoids the vote tallies."
     - "Reported US opposition to the existing slate rests on media reports (Politico via Al-Monitor); hedged."
 ---
 
@@ -50,4 +50,4 @@ Nusseibeh is minister of state at the UAE foreign ministry. She was the country'
 
 The contest to replace Antonio Guterres has been stuck. Several rounds of informal straw polls have failed to produce a candidate acceptable to all five permanent members, and Washington is reported to oppose the existing field. The UAE's close ties with the Trump administration could help her build support, although the post is widely expected to go to a Latin American this time, and most of the declared candidates come from the region.
 
-If chosen, Nusseibeh would be the first woman to lead the UN and the second Arab, after Egypt's Boutros Boutros-Ghali. Guterres's second term ends on 31 December.
+If chosen, Nusseibeh would be the first woman to lead the UN and the second Arab, after Egypt's Boutros Boutros-Ghali. Guterres's second term ends on December 31.

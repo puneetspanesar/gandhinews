@@ -12,7 +12,7 @@ location: New York
 keyPoints:
   - "MEA Deputy Secretary Barkha Tamrakar named the **National Green Tribunal** as a pillar of India's environmental protection."
   - "She said India sees climate change as a challenge to **development, livelihoods and human rights**."
-  - "India held the ninth annual **India-UN Development Partnership Fund** event on 22 October."
+  - "India held the ninth annual **India-UN Development Partnership Fund** event on October 22."
 hero:
   need: "The National Green Tribunal building in New Delhi"
   suggested_source: "National Green Tribunal"
@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, New York, 25 Oct, updated 1:11 am IST). Exact date of Tamrakar's remarks not given; written without a day. Special Rapporteur not named in source."
+    - "Single source (ANI, New York, Oct 25, updated 1:11 am IST). Exact date of Tamrakar's remarks not given; written without a day. Special Rapporteur not named in source."
     - "Most quotes are fragments; only the first is a full sentence. Kept as given."
-    - "Development Partnership Fund: $150 million fund set up in 2017, ninth annual event at UNGA on 22 Oct, as reported by ANI."
+    - "Development Partnership Fund: $150 million fund set up in 2017, ninth annual event at UNGA on Oct 22, as reported by ANI."
 ---
 
 India has told the United Nations that its environmental courts and an independent judiciary are central to how it deals with climate change, in a debate on the role of justice systems in the climate crisis.
@@ -47,4 +47,4 @@ She said "environmental protection in India is strongly supported by the Constit
 
 On the report's concerns about judges, Tamrakar pointed to "transparent, institutionally supervised judicial training", including at the National Judicial Academy, "aimed at strengthening impartiality and preserving judicial independence".
 
-Separately, India held the ninth annual event of the India-UN Development Partnership Fund at the General Assembly on 22 October, where partner countries praised its support for sustainable development. The $150 million fund was set up in 2017.
+Separately, India held the ninth annual event of the India-UN Development Partnership Fund at the General Assembly on October 22, where partner countries praised its support for sustainable development. The $150 million fund was set up in 2017.

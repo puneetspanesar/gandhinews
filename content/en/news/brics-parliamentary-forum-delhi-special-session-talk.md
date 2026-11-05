@@ -5,13 +5,13 @@ type: news
 section: parliament
 format_label: "Parliament / BRICS"
 topics: [parliament, delimitation]
-title: "Om Birla to host BRICS lawmakers from 25 October, with Modi to open the forum"
+title: "Om Birla to host BRICS lawmakers from October 25, with Modi to open the forum"
 standfirst: "Lawmakers from BRICS countries meet in Samvidhan Sadan's Central Hall next week. The government is also weighing a special session for the delimitation and women's quota bills, but has set no dates."
 published: 2026-10-18T05:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "The **12th BRICS Parliamentary Forum** runs for three days from 25 October in the Central Hall of Samvidhan Sadan."
-  - "Prime Minister Narendra Modi is due to **inaugurate it on 26 October**; it ends with a joint statement."
+  - "The **12th BRICS Parliamentary Forum** runs for three days from October 25 in the Central Hall of Samvidhan Sadan."
+  - "Prime Minister Narendra Modi is due to **inaugurate it on October 26**; it ends with a joint statement."
   - "Government sources say a **special session** for constitutional amendment bills may be fitted around the forum."
 hero:
   need: "Lok Sabha Speaker Om Birla and Prime Minister Narendra Modi, two-panel portraits"
@@ -22,7 +22,7 @@ hero:
     value: "BRICS lawmakers in the Central Hall"
 related: [delimitation-explained-why-131st-amendment-failed, speaker-gives-rebel-tmc-mps-till-october-20]
 seo:
-  description: "India hosts the 12th BRICS Parliamentary Forum in Samvidhan Sadan from 25 October, with PM Modi opening it on 26 October, as talk of a special session grows."
+  description: "India hosts the 12th BRICS Parliamentary Forum in Samvidhan Sadan from October 25, with PM Modi opening it on October 26, as talk of a special session grows."
 sources:
   - title: "PM Modi to inaugurate 12th BRICS Parliamentary Forum on Oct 26"
     publisher: "Kashmir Vision"
@@ -52,16 +52,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Forum dates: Lok Sabha Secretariat announcement (Wednesday 14 Oct) as reported by Kashmir Vision: three days from 25 Oct, PM inaugurates 26 Oct, Central Hall. Dynamite News (15 Sept, citing Secretariat sources) had 26-27 Oct and 'Parliament complex'; the later and more specific version used. Secretariat release itself not seen."
+    - "Forum dates: Lok Sabha Secretariat announcement (Wednesday, Oct 14) as reported by Kashmir Vision: three days from Oct 25, PM inaugurates Oct 26, Central Hall. Dynamite News (Sept 15, citing Secretariat sources) had Oct 26-27 and 'Parliament complex'; the later and more specific version used. Secretariat release itself not seen."
     - "Theme, four plenaries and AI focus from Dynamite News citing a 'senior official' in September; written as what officials said then. Om Birla as chair: Dynamite News."
     - "Special session: anonymous government sources via India Today, as carried by Business Today and aggregated by Indian Opinion. No official confirmation; hedged throughout. Business Today's claim about TMC and Sena (UBT) MPs switching sides not used."
-    - "131st Amendment vote 298-230 on 17 April 2026 from LiveLaw, as used in our explainer."
+    - "131st Amendment vote 298-230 on April 17, 2026, from LiveLaw, as used in our explainer."
     - "Could not check sansad.in or PIB in this run for a fresh notice; as of writing no session dates reported in sources seen."
 ---
 
 Parliament will host lawmakers from BRICS countries next week, when the 12th BRICS Parliamentary Forum opens in the Central Hall of Samvidhan Sadan, the old Parliament building in New Delhi.
 
-The Lok Sabha Secretariat has said the meeting will run for three days from Sunday, 25 October, and that Prime Minister Narendra Modi will inaugurate it on Monday, 26 October. Lok Sabha Speaker Om Birla is to chair the forum, which will close with the adoption of a joint statement.
+The Lok Sabha Secretariat has said the meeting will run for three days from Sunday, October 25, and that Prime Minister Narendra Modi will inaugurate it on Monday, October 26. Lok Sabha Speaker Om Birla is to chair the forum, which will close with the adoption of a joint statement.
 
 The forum is the legislative counterpart of the BRICS leaders' summits and comes about a month after India hosted the BRICS Summit. Presiding officers, parliamentary leaders and delegates from member and partner countries are expected. The Secretariat describes the forum as a platform for member parliaments to align their legislative agendas, encourage democratic dialogue and speak for the Global South. India last hosted a gathering of this kind in October 2023, when it held the ninth G20 Parliamentary Speakers' Summit.
 
@@ -73,8 +73,8 @@ Officials said in September that the meeting would be built around the theme "Fo
 
 The forum has become part of a wider calculation about Parliament's calendar. Government sources say the Centre is considering a special session later this month to bring constitutional amendment bills on delimitation and women's reservation, and that the dates could be fitted around the BRICS meeting with about a week's notice to MPs.
 
-The Monsoon Session ended on 13 August but has not been prorogued, which leaves room for a special sitting. The government is said to be reaching out to the DMK, which left the INDIA bloc after the Tamil Nadu elections, and to smaller opposition parties.
+The Monsoon Session ended on August 13 but has not been prorogued, which leaves room for a special sitting. The government is said to be reaching out to the DMK, which left the INDIA bloc after the Tamil Nadu elections, and to smaller opposition parties.
 
-The numbers are the hard part. A constitutional amendment needs a special majority, and the NDA falls short of two-thirds in the Lok Sabha on its own. The last attempt, the Constitution (131st Amendment) Bill, which would have raised the cap on Lok Sabha seats to 850, won 298 votes to 230 on 17 April, short of the two-thirds it needed. That bill would also have let Parliament decide by law when to redraw constituencies and which census to use.
+The numbers are the hard part. A constitutional amendment needs a special majority, and the NDA falls short of two-thirds in the Lok Sabha on its own. The last attempt, the Constitution (131st Amendment) Bill, which would have raised the cap on Lok Sabha seats to 850, won 298 votes to 230 on April 17, short of the two-thirds it needed. That bill would also have let Parliament decide by law when to redraw constituencies and which census to use.
 
 The government has not confirmed that a session will be held, and no dates have been announced.

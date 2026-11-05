@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: withdrawals reported in MyKhel's 3 Nov sports bulletin posted 09:55 IST; exact time of announcement and who announced it (players, BAI or BWF entry list) not given in source. Single source for the withdrawals; no quotes available. '31 is the new 21' is Sindhu's line from the IANS headline of 1 Nov."
+    - "event: withdrawals reported in MyKhel's Nov 3 sports bulletin posted 09:55 IST; exact time of announcement and who announced it (players, BAI or BWF entry list) not given in source. Single source for the withdrawals; no quotes available. '31 is the new 21' is Sindhu's line from the IANS headline of Nov 1."
     - "Source says Sindhu wants downtime to manage her physical workload after a demanding stretch, not because of an injury. Reason for Lakshya's withdrawal not stated; copy gives none. Lakshya's Japan Masters status not mentioned in source; copy does not say."
-    - "Korea Open and Japan Masters dates not in source; left out. Hylo Open and French Open context from our own reports of 1 Nov and 25 Oct. SAI funding big story skipped: no source URL found (one search spent)."
+    - "Korea Open and Japan Masters dates not in source; left out. Hylo Open and French Open context from our own reports of Nov 1 and Oct 25. SAI funding big story skipped: no source URL found (one search spent)."
 ---
 
 PV Sindhu and Lakshya Sen have **withdrawn from the Korea Open**, two days after the pair won both singles titles at the Hylo Open in Saarbrücken.

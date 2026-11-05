@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Deal talks rest on a Bloomberg report citing unnamed people, relayed by TechCrunch (19 Oct 4:39 pm PDT); hedged as 'reported'. Neither company had commented."
+    - "Deal talks rest on a Bloomberg report citing unnamed people, relayed by TechCrunch (Oct 19 4:39 pm PDT); hedged as 'reported'. Neither company had commented."
     - "Microsoft's withdrawal from the Essex project is from The Neuron's summary of a BBC report (BBC not fetchable); hedged."
 ---
 

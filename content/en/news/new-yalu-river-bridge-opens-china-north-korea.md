@@ -21,7 +21,7 @@ hero:
     value: "Twelve years later, the trucks roll"
 related: [china-north-korea-open-new-yalu-river-bridge, north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test]
 seo:
-  description: "The New Yalu River Bridge linking Dandong and Sinuiju opened to traffic on 15 October, 12 years after China finished it. Li Qiang joined by video link."
+  description: "The New Yalu River Bridge linking Dandong and Sinuiju opened to traffic on October 15, 12 years after China finished it. Li Qiang joined by video link."
 sources:
   - title: "New four-lane bridge between China and North Korea opens after a decade of delay"
     publisher: "Euronews (AFP, AP)"

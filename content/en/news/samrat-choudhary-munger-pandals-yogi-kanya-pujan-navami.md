@@ -22,7 +22,7 @@ hero:
     value: "Navami prayers, Dussehra next"
 related: [bhubaneswar-durga-puja-security-visarjan-october-22]
 seo:
-  description: "On Navami, 19 October, Bihar CM Samrat Choudhary visited Munger pandals, UP CM Yogi Adityanath performed Kanya Pujan in Gorakhpur and Gujarat CM Bhupendra Patel attended Ahmedabad's Kalibari puja."
+  description: "On Navami, October 19, Bihar CM Samrat Choudhary visited Munger pandals, UP CM Yogi Adityanath performed Kanya Pujan in Gorakhpur and Gujarat CM Bhupendra Patel attended Ahmedabad's Kalibari puja."
 sources:
   - title: "Bihar CM Samrat Choudhary visits Durga Puja pandals in Munger, offers prayers"
     publisher: "ANI"
@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "All from ANI reports (9:28 pm, 9:52 pm, and Gujarat item timestamped 03:19 IST 20 Oct, citing a CMO release; Patel attended on Monday evening). Quotes as carried by ANI."
-    - "Dussehra date 20 October per festival calendars and ANI's framing of 19 October as Navami; Bhubaneswar Ravan Podi on 22 October per Odisha police."
+    - "All from ANI reports (9:28 pm, 9:52 pm, and Gujarat item timestamped 03:19 IST Oct 20, citing a CMO release; Patel attended on Monday evening). Quotes as carried by ANI."
+    - "Dussehra date October 20 per festival calendars and ANI's framing of October 19 as Navami; Bhubaneswar Ravan Podi on October 22 per Odisha police."
 ---
 
 Chief ministers across India spent Navami, the ninth night of Navratri, at temples and puja pandals on Monday, as the country headed into Vijayadashami on Tuesday.
@@ -56,4 +56,4 @@ In Ahmedabad, Gujarat Chief Minister Bhupendra Patel joined the aarti at the 89t
 
 In Bengaluru, Governor Sudha Yadav marked Ayudha Puja at Lok Bhavan. "Vijaya Dashami is not merely a festival; it is an auspicious occasion that reminds us to follow the path of truth," she said.
 
-Ravana effigies will burn across north India on Tuesday evening, while in Odisha's capital the immersions and Ravan Podi are set for 22 October.
+Ravana effigies will burn across north India on Tuesday evening, while in Odisha's capital the immersions and Ravan Podi are set for October 22.

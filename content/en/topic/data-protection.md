@@ -14,7 +14,7 @@ hero:
   alt: "A person using a smartphone"
 related: [dpdp-consent-managers-start-data-protection-board-empty, your-rights-under-dpdp-act, appoint-data-protection-board-before-rules-bite]
 seo:
-  description: "India's data protection law as of October 2026: DPDP Rules in phases, consent managers from 13 November, full duties from May 2027, and a Board with no members."
+  description: "India's data protection law as of October 2026: DPDP Rules in phases, consent managers from November 13, full duties from May 2027, and a Board with no members."
 sources:
   - title: "DPDP Rules, 2025 Notified (backgrounder)"
     publisher: "Press Information Bureau"
@@ -39,23 +39,23 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Board status rests on sources up to August 2026 and a news search on 11 Oct 2026 that found no appointment."
-    - "Phase dates confirmed by Storyboard18, India Data Law and S.S. Rana (G.S.R. 846(E), 13 Nov 2025)."
-    - "Fact-checked 11 Oct 2026 against the MeitY circular, LiveLaw, India Data Law and the PIB backgrounder. No copy changes needed."
+    - "Board status rests on sources up to August 2026 and a news search on Oct 11, 2026, that found no appointment."
+    - "Phase dates confirmed by Storyboard18, India Data Law and S.S. Rana (G.S.R. 846(E), Nov 13, 2025)."
+    - "Fact-checked Oct 11, 2026, against the MeitY circular, LiveLaw, India Data Law and the PIB backgrounder. No copy changes needed."
 ---
 
 The Digital Personal Data Protection Act, 2023 governs how organisations collect and use people's personal data in digital form. Its rules, notified in November 2025, bring it into force in phases over 18 months.
 
 ## Where things stand
 
-The provisions setting up the Data Protection Board of India took effect when the rules were notified. The Board still has no chairperson or members. The Ministry of Electronics and Information Technology invited applications for a chairperson and four members on 6 May 2026, and the posts were advertised on 6 June. No appointment had been reported as of 11 October 2026.
+The provisions setting up the Data Protection Board of India took effect when the rules were notified. The Board still has no chairperson or members. The Ministry of Electronics and Information Technology invited applications for a chairperson and four members on May 6, 2026, and the posts were advertised on June 6. No appointment had been reported as of October 11, 2026.
 
-The consent manager framework, which lets people manage their consent across services through a single platform, begins on 13 November 2026. Most duties on organisations, and the Board's power to inquire and impose penalties, start on 13 May 2027.
+The consent manager framework, which lets people manage their consent across services through a single platform, begins on November 13, 2026. Most duties on organisations, and the Board's power to inquire and impose penalties, start on May 13, 2027.
 
 Two search-cum-selection committees are handling the Board appointments, one chaired by the Cabinet Secretary, LiveLaw reported. The law requires at least one member with legal expertise. Until members are named, the Board cannot hear a complaint or pass an order. Appeals against its decisions, once it starts work, will go to the Telecom Disputes Settlement and Appellate Tribunal.
 
 ```timeline
-{"title":"Key dates","items":[{"date":"2023","text":"DPDP Act passed"},{"date":"Nov 2025","text":"Rules notified; Board established in law"},{"date":"6 May 2026","text":"MeitY invites applications for Board posts"},{"date":"13 Nov 2026","text":"Consent manager framework begins"},{"date":"13 May 2027","text":"Most obligations and Board's penalty powers take effect"}]}
+{"title":"Key dates","items":[{"date":"2023","text":"DPDP Act passed"},{"date":"Nov 2025","text":"Rules notified; Board established in law"},{"date":"May 6, 2026","text":"MeitY invites applications for Board posts"},{"date":"Nov 13, 2026","text":"Consent manager framework begins"},{"date":"May 13, 2027","text":"Most obligations and Board's penalty powers take effect"}]}
 ```
 
 ```facts

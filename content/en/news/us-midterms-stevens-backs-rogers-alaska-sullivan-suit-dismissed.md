@@ -22,7 +22,7 @@ hero:
     value: "A Democrat crosses over in Michigan"
 related: [trump-port-huron-rally-el-sayed-rogers-james-michigan, trump-votes-early-florida-michigan-early-voting-opens, trump-approval-record-low-polls-two-weeks-before-midterms, vance-declines-to-endorse-netanyahu-midterms]
 seo:
-  description: "Haley Stevens endorsed Republican Mike Rogers over Democrat Abdul El-Sayed in Michigan on 1 November, and a federal judge dismissed Trump's Alaska suit over Senator Dan Sullivan's race."
+  description: "Haley Stevens endorsed Republican Mike Rogers over Democrat Abdul El-Sayed in Michigan on November 1, and a federal judge dismissed Trump's Alaska suit over Senator Dan Sullivan's race."
 cover:
   template: faceoff
   label: "US midterms"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 23:19 IST (17:49 GMT), Al Jazeera live blog entry reporting Stevens' endorsement of Rogers; 1 Nov 23:28 IST (17:58 GMT), entry reporting the federal judge's dismissal of the Alaska suit. Both single-source (Al Jazeera live blog); could not run more searches within budget."
+    - "event: Nov 1 23:19 IST (17:49 GMT), Al Jazeera live blog entry reporting Stevens' endorsement of Rogers; Nov 1 23:28 IST (17:58 GMT), entry reporting the federal judge's dismissal of the Alaska suit. Both single-source (Al Jazeera live blog); could not run more searches within budget."
     - "How Stevens endorsed (statement, post or at an event) not stated by the source; copy says only that she endorsed him. Church appearance in Detroit was earlier on Sunday (16:58 GMT entry), shown in social media videos and images."
     - "Judge and court in the Alaska case not named in source. Suit sought to stop Alaska certifying a loss by Sullivan, arguing votes for a rival of the same name could change the result."
     - "Comer (16:35 GMT, Fox News), Scott (17:50 GMT, NBC) and Pritzker remarks from the same live blog. 52 million early ballots: AP figure cited in live blog."

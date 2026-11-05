@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Bloomberg headline seen in search results only (paywall, not read). Body facts from KuCoin News flash (23 Oct, 06:16), BigGo Finance (23 Oct, 02:25 UTC) and PANews (22 Oct), all relaying Yuyuan Tantian, the CCTV-linked account. No statement from DeepSeek or MiniMax themselves was read."
+    - "Bloomberg headline seen in search results only (paywall, not read). Body facts from KuCoin News flash (Oct 23, 06:16), BigGo Finance (Oct 23, 02:25 UTC) and PANews (Oct 22), all relaying Yuyuan Tantian, the CCTV-linked account. No statement from DeepSeek or MiniMax themselves was read."
     - "Yuyuan Tantian and commerce ministry remarks are paraphrased from English renderings; no Chinese original read, so no direct quotes used."
     - "Thresholds (compute volume, parameters above 2 trillion, global top-ten capability) and the chip design/interconnect entries from BigGo only."
     - "DeepSeek V4.1 Flash update, inference framework open-sourcing and MiniMax M3.1 release from KuCoin only; written plainly but briefly."
-    - "Published time 8:20 am IST estimates when the 23 Oct coverage appeared; state media report came out Thursday evening China time."
+    - "Published time 8:20 am IST estimates when the Oct 23 coverage appeared; state media report came out Thursday evening China time."
 ---
 
 DeepSeek and MiniMax have become the first Chinese artificial intelligence companies to clear Beijing's new export registration for AI technology, a week after the government proposed putting large models, AI agents and computing clusters on its list of controlled exports.
@@ -62,7 +62,7 @@ Both companies kept shipping. DeepSeek, based in Hangzhou, updated its V4.1 Flas
 
 ## What Beijing is controlling
 
-On 16 October the Ministry of Commerce and the Ministry of Science and Technology put out for comment a revised Catalogue of Technologies Prohibited or Restricted from Export, a list first drawn up in 2001 and revised several times since. The new draft adds 23 AI-related technologies, among them large models, AI agents, computing power clusters and information processing, as well as AI chip design and high-speed interconnects.
+On October 16 the Ministry of Commerce and the Ministry of Science and Technology put out for comment a revised Catalogue of Technologies Prohibited or Restricted from Export, a list first drawn up in 2001 and revised several times since. The new draft adds 23 AI-related technologies, among them large models, AI agents, computing power clusters and information processing, as well as AI chip design and high-speed interconnects.
 
 The catalogue singles out large models trained on core or important data and offered as services abroad. The tests for what counts include the amount of computing used, parameter counts above 2 trillion and whether a model ranks in the global top ten for capability. Some uses in sensitive sectors move from restricted to prohibited.
 

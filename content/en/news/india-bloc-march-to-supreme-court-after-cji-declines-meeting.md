@@ -15,14 +15,14 @@ keyPoints:
   - "Rahul Gandhi and 10 other leaders filed a **writ petition against the Election Commission**, the CEC and both Election Commissioners."
   - "The petition seeks an **interim stay on the SIR** across states; the Chief Justice had said the court would take it up on Tuesday if filed."
 hero:
-  need: "Rahul Gandhi, Akhilesh Yadav and INDIA bloc leaders at the police barricade on Bhagwan Dass Road near the Supreme Court, or on the march from Connaught Place, 12 October"
+  need: "Rahul Gandhi, Akhilesh Yadav and INDIA bloc leaders at the police barricade on Bhagwan Dass Road near the Supreme Court, or on the march from Connaught Place, October 12"
   suggested_source: "Wikimedia Commons search 'Supreme Court of India building' or 'Rahul Gandhi protest march Delhi'"
   alt: "INDIA bloc leaders on the march towards the Supreme Court in New Delhi"
   overlay:
     value: "Stopped at the barricade, filed in court"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, keralam-assembly-resolution-seeks-removal-of-cec, sir-phase-three-draft-rolls-names-dropped-by-state, how-chief-election-commissioner-is-appointed-removed, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, sc-cases-tracker, electoral-rolls-sir, election-commission]
 seo:
-  description: "Police stopped the INDIA bloc march near the Supreme Court on 12 October. Rahul Gandhi and 10 leaders filed a petition against the ECI seeking a stay on the SIR."
+  description: "Police stopped the INDIA bloc march near the Supreme Court on October 12. Rahul Gandhi and 10 leaders filed a petition against the ECI seeking a stay on the SIR."
 sources:
   - title: "Rahul Gandhi, 10 other INDIA bloc leaders file petition before SC against SIR of electoral rolls"
     publisher: "The Hans India"
@@ -124,10 +124,10 @@ verification:
   notes:
     - "Rewritten at about 9:30 pm as a full day report. Latest items used: The Week (7:52 pm) on the Keralam Congress post; National Herald live blog (last entry 7:22 pm) on leaders entering the registry at 6:47 pm."
     - "Petition: Diary No. 64196/2026 (Hans India, LiveLaw, South First). 11 petitioners and 4 respondents per Hans India, inkl/PTI copy and India TV; LiveLaw lists only ECI as respondent in the case title. AoR S Prasanna. Filing time conflicts: South First about 4:35 pm; National Herald 4:55 pm; Tribune 5:17 pm. Written as 'late afternoon, shortly before the filing counter closed'."
-    - "Prayers: LiveLaw, LawBeat and Daily Jagran said details were awaited. The full list (stay on SIR, disclosure of records incl. the 24 June 2025 decision, audit committee under a retired SC judge, booth-wise deletion lists, no deletion without notice and hearing) is from Gujarat Samachar only; India TV separately reports a halt to the SIR. Stay on SIR used as the headline prayer (two sources). Audit committee and deletion lists used in body as what the petition asks; single source, recheck against the filed document. India TV also says it demands removal of the CEC; not used (not in the detailed list). South First says a key prayer is scrapping Kumar's decisions since he became CEC; single source, not used."
-    - "Listing: South First (4:46 pm) quotes CJI as ready to take it up Tuesday if filed; India TV says registry told to process it Monday for listing Tuesday before a CJI-led bench; Daily Jagran (6:25 pm) says likely Tuesday but no listing confirmed; LiveLaw says similar SIR matters are listed Tuesday. Cause list for 13 October not checked."
+    - "Prayers: LiveLaw, LawBeat and Daily Jagran said details were awaited. The full list (stay on SIR, disclosure of records incl. the June 24, 2025, decision, audit committee under a retired SC judge, booth-wise deletion lists, no deletion without notice and hearing) is from Gujarat Samachar only; India TV separately reports a halt to the SIR. Stay on SIR used as the headline prayer (two sources). Audit committee and deletion lists used in body as what the petition asks; single source, recheck against the filed document. India TV also says it demands removal of the CEC; not used (not in the detailed list). South First says a key prayer is scrapping Kumar's decisions since he became CEC; single source, not used."
+    - "Listing: South First (4:46 pm) quotes CJI as ready to take it up Tuesday if filed; India TV says registry told to process it Monday for listing Tuesday before a CJI-led bench; Daily Jagran (6:25 pm) says likely Tuesday but no listing confirmed; LiveLaw says similar SIR matters are listed Tuesday. Cause list for October 13 not checked."
     - "Where march stopped: Bhagwan Dass Road (Tribune 4:41 pm, National Herald 4:51 pm, The Week, Statesman, India TV). 'About 600 metres' from the court is The Statesman only. Tribune has leaders arriving at Barakhamba Road in four buses (3:24 pm) and walking from Connaught Place outer circle (4:22 pm) past Mandi House (4:31 pm)."
-    - "Detentions: no report found of leaders or MPs detained on Monday. SFI injury and harassment allegations (National Herald, 3:36 pm) are about detentions over the weekend and are unverified; not used. John Brittas's account relates to 11 October."
+    - "Detentions: no report found of leaders or MPs detained on Monday. SFI injury and harassment allegations (National Herald, 3:36 pm) are about detentions over the weekend and are unverified; not used. John Brittas's account relates to October 11."
     - "Crowd size conflicts: 'hundreds' (The Week, India TV), 'thousands' (ANI), 'up to 80,000 per reports' (South First). No figure used. Police deployment of over 30,000 is Tribune only; not used."
     - "Leaders entering the registry at 6:47 pm (Rahul Gandhi, Priyanka Gandhi Vadra, Kharge, Akhilesh Yadav): National Herald only; The Week says the court allowed a delegation of 10-15 to the filing counter. Kept, stated plainly."
     - "No Election Commission response to Monday's march or petition found by 9:30 pm."

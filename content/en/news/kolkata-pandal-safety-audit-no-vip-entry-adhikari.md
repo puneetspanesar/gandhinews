@@ -12,7 +12,7 @@ location: Kolkata
 keyPoints:
   - "The safety committee has **scrapped separate VIP entrances** at puja pandals."
   - "Its first stop on Sunday was **Santosh Mitra Square**, followed by Tala Prattoy."
-  - "Adhikari will meet bereaved families on **20 and 21 October**."
+  - "Adhikari will meet bereaved families on **October 20 and 21**."
 hero:
   need: "A crowded Durga Puja pandal entrance in Kolkata, or Chief Minister Suvendu Adhikari"
   suggested_source: "Suvendu Adhikari"
@@ -22,7 +22,7 @@ hero:
     value: "Wider exits, no VIP gates"
 related: [kolkata-stampede-seven-arrested-sit-judge, kolkata-chorbagan-durga-puja-pandal-stampede, kolkata-police-shut-major-pandals-stampede-probe]
 seo:
-  description: "After the Chorbagan stampede that killed 19, a Bengal safety committee began inspecting Kolkata's major Durga Puja pandals on 18 October and scrapped VIP entrances."
+  description: "After the Chorbagan stampede that killed 19, a Bengal safety committee began inspecting Kolkata's major Durga Puja pandals on October 18 and scrapped VIP entrances."
 sources:
   - title: "Grief overshadows Durga Puja in Bengal after Kolkata stampede; CM orders safety audit, 7 held (PTI)"
     publisher: "ThePrint"
@@ -61,4 +61,4 @@ The opposition seized on the name of Debdeep Adhikari, listed in publicity mater
 
 ## What happens next
 
-Adhikari will visit the families of the dead on 20 and 21 October to hand over compensation cheques. Magistrates and DSP-rank officers have been told to stay with families until the cremations are done. A toned-down Bijoya Sammilani for puja committees, meant to draw lessons from the tragedy, is planned for 26 October.
+Adhikari will visit the families of the dead on October 20 and 21 to hand over compensation cheques. Magistrates and DSP-rank officers have been told to stay with families until the cremations are done. A toned-down Bijoya Sammilani for puja committees, meant to draw lessons from the tragedy, is planned for October 26.

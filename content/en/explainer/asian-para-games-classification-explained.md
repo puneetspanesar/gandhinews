@@ -50,7 +50,7 @@ verification:
   notes:
     - "Ten impairment types and the 'skill, fitness, power...' quote from Paralympics New Zealand. Impairment names paraphrased in plain English (muscle tension = hypertonia, uncoordinated movement = ataxia, involuntary movements = athetosis)."
     - "Badminton classes from the IPC badminton page; athletics T/F numbering and table tennis classes 1-11 from Olympics.com (Paris 2024 guide); the goalball 10% visual acuity example is also from there but not used."
-    - "Indian athletes' classes (Suhas SL4, Manasi Joshi SL3, Krishna Nagar SH6, Bhavina Patel women's Class 4-5 singles, SL3-SU5 men's doubles) from The Bridge's 16 October schedule, as in the desk's morning story."
+    - "Indian athletes' classes (Suhas SL4, Manasi Joshi SL3, Krishna Nagar SH6, Bhavina Patel women's Class 4-5 singles, SL3-SU5 men's doubles) from The Bridge's October 16 schedule, as in the desk's morning story."
     - "Merged classes (Class 4-5) explained as a general practice when fields are small; the reason for this specific merger at Aichi was not confirmed."
     - "The classification procedure (evaluation by panels of medical and technical classifiers) stated in general terms from Olympics.com; review/confirmed sport class status not described in sources read and left out."
     - "Games figures (18 sports, 492 medal events, 45 nations, 168 Indian athletes in 11 sports) from The Bridge; not checked against the organisers' site."

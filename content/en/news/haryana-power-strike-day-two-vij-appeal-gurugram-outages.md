@@ -10,7 +10,7 @@ standfirst: "About 40,000 power employees are on strike against a private distri
 published: 2026-10-23T12:40:00+05:30
 location: Chandigarh
 keyPoints:
-  - "About **40,000 power employees and engineers** are on a three-day strike that runs until 24 October."
+  - "About **40,000 power employees and engineers** are on a three-day strike that runs until October 24."
   - "They want HERC's **25-year parallel licence for Gurugram and Nuh** cancelled."
   - "Energy Minister Anil Vij said the government was **ready to discuss all options**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "No power, no water in Gurugram"
 related: []
 seo:
-  description: "Haryana's power strike against a private distribution licence for Gurugram and Nuh entered its second day on 23 October as Anil Vij urged staff to return to duty."
+  description: "Haryana's power strike against a private distribution licence for Gurugram and Nuh entered its second day on October 23 as Anil Vij urged staff to return to duty."
 sources:
   - title: "End strike, return to duty: Haryana minister appeals to power employees"
     publisher: "NewKerala (ANI)"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Vij X post quote: ANI via NewKerala, updated 12:03 pm 23 Oct. The post also referred to action under Section 108 of the Electricity Act 2003 (state government directions to the regulator); the exact wording around it was unclear, so it is paraphrased as 'including a step under Section 108'."
-    - "A NewKerala related headline (23 Oct) said Vij claimed the strike 'will end in just a few hours' and union leaders had agreed to meet; article text not read, so written as reported, without detail."
-    - "Licensee name Eleven Power Private Limited, 25-year term, HERC order of 19 October, 10 lakh consumers and 3,000 complaints in 12 hours: Tribune 23 Oct (1:48 am) only."
+    - "Vij X post quote: ANI via NewKerala, updated 12:03 pm Oct 23. The post also referred to action under Section 108 of the Electricity Act 2003 (state government directions to the regulator); the exact wording around it was unclear, so it is paraphrased as 'including a step under Section 108'."
+    - "A NewKerala related headline (Oct 23) said Vij claimed the strike 'will end in just a few hours' and union leaders had agreed to meet; article text not read, so written as reported, without detail."
+    - "Licensee name Eleven Power Private Limited, 25-year term, HERC order of October 19, 10 lakh consumers and 3,000 complaints in 12 hours: Tribune Oct 23 (1:48 am) only."
     - "No direct quotes from union leaders were available; their positions are paraphrased."
 ---
 
@@ -59,9 +59,9 @@ Haryana's power strike went into its second day on Friday with large parts of Gu
 
 ## Why the staff walked out
 
-The strike was called by the Haryana Electricity Employees and Engineers Joint Struggle Front, which speaks for regular and contract workers and power engineers. About 40,000 of them stopped work at 10 pm on 21 October for three days, until 24 October.
+The strike was called by the Haryana Electricity Employees and Engineers Joint Struggle Front, which speaks for regular and contract workers and power engineers. About 40,000 of them stopped work at 10 pm on October 21 for three days, until October 24.
 
-Their target is an order of the Haryana Electricity Regulatory Commission (HERC) dated 19 October. It gave Eleven Power Private Limited a 25-year parallel licence to distribute electricity in Gurugram and Nuh, the first such licence in the state. The employees want it cancelled and a clear state policy against parallel licences.
+Their target is an order of the Haryana Electricity Regulatory Commission (HERC) dated October 19. It gave Eleven Power Private Limited a 25-year parallel licence to distribute electricity in Gurugram and Nuh, the first such licence in the state. The employees want it cancelled and a clear state policy against parallel licences.
 
 Front leader Devender Singh Hooda has said the strike is not about pay or allowances but about stopping privatisation and keeping power affordable for farmers and other consumers. Subhash Lamba, national president of the Electricity Employees Federation of India, and Shailendra Dubey, chairman of the All India Power Engineers Federation, have backed the stir. Lamba asked why the state had not acted earlier against the licence if the Chief Minister and the Power Minister were opposed to privatisation.
 

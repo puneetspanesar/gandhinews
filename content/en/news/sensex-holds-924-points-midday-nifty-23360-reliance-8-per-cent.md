@@ -22,7 +22,7 @@ hero:
     value: "Sensex up 924 points at midday"
 related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
-  description: "Stock market today at midday, 2 November 2026: Sensex up 924 points at 75,383.98 and Nifty at 23,319.55 after a new high of 23,360.50, with Reliance up nearly 8%, India VIX higher and the rupee near 94.97 per dollar."
+  description: "Stock market today at midday, November 2, 2026: Sensex up 924 points at 75,383.98 and Nifty at 23,319.55 after a new high of 23,360.50, with Reliance up nearly 8%, India VIX higher and the rupee near 94.97 per dollar."
 cover:
   template: business
   label: "Markets"
@@ -61,7 +61,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 11:22 IST index levels (EquityPandit, published 11:29 IST): Sensex 75,383.98 (+1.24%), Nifty 23,319.55 (+1.16%), Nifty intraday high 23,360.50, Reliance about 8%. Point changes computed from Friday closes 74,459.53 and 23,053.10 (HDFC Sky open report): +924.45 and +266.45."
+    - "event: Nov 2 11:22 IST index levels (EquityPandit, published 11:29 IST): Sensex 75,383.98 (+1.24%), Nifty 23,319.55 (+1.16%), Nifty intraday high 23,360.50, Reliance about 8%. Point changes computed from Friday closes 74,459.53 and 23,053.10 (HDFC Sky open report): +924.45 and +266.45."
     - "10:30 IST levels (HDFC Sky Hindi, published 11:06 IST): Sensex 75,439.18 (+979.65), Nifty 23,319.75. Gainers/losers from the same page's ticker snapshot (no timestamp, around 10:30-11:00): Reliance 1,254.40 +7.68%, Shriram Finance +5.12%, Max Healthcare +4.61%, Coal India +4.60%, Tata Steel +4.43%; Adani Ports -1.32%, Infosys -1.29%, ICICI Bank -0.88%, Sun Pharma -0.74%."
     - "India VIX 15.66 (+2.42%) at 10:05 IST, day high 15.68 (HDFC Sky, published 10:56 IST)."
     - "Rupee 94.97 (open 94.90, prev 94.76) in early trade; PTI copy, published 10:10 to 11:02 IST. Brent $109.95, -3.07%. Banerjee quote exact from HDFC Sky PTI copy."

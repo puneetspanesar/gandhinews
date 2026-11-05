@@ -39,7 +39,7 @@ infographic:
   source: "Match scoring and projected revised targets, November 4, 2026"
 related: [india-41-one-down-kohli-chase-186-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
 seo:
-  description: "New Zealand v India first ODI at Eden Park, 4 November 2026: rain stops play with India 54 for 1 after 10.5 overs chasing 186; projected revised targets."
+  description: "New Zealand v India first ODI at Eden Park, November 4, 2026: rain stops play with India 54 for 1 after 10.5 overs chasing 186; projected revised targets."
 sources:
   - title: "IND vs NZ 1st ODI 2026 Rain Interrupted, Revised Targets Announced"
     publisher: "CREX"
@@ -54,7 +54,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: rain stopped play at Eden Park around 12:30 IST, Wed 4 Nov 2026 (desk brief, Outlook live page); CREX piece published 12:43 IST, updated 12:53 IST; FPJ 12:40 IST. Written about 13:10 IST. No resumption or result found in any source read by then."
+    - "event: rain stopped play at Eden Park around 12:30 IST, Wed Nov 4, 2026 (desk brief, Outlook live page); CREX piece published 12:43 IST, updated 12:53 IST; FPJ 12:40 IST. Written about 13:10 IST. No resumption or result found in any source read by then."
     - "54/1 in 10.5 overs, 132 needed from 39.1 overs, and projected targets (167 in 40 ov, 137 in 30 ov, 92 in 20 ov): CREX. CREX calls them 'possible' targets and does not name DLS, so the copy calls them projections, not official."
     - "Kohli and Gill at the crease: FPJ summary. Individual scores, dismissed batter and bowler not given in any source read, so not named. 20-over minimum for a result: FPJ."
     - "Outlook live page fetched was stale (08:07 IST)."

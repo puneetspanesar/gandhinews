@@ -51,11 +51,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov evening IST, Ashwin's YouTube show Ash Ki Baat; first report Outlook 2 Nov 10:42 pm IST. Remarks likely in Hindi; English wording is Outlook's translation."
+    - "event: Nov 2 evening IST, Ashwin's YouTube show Ash Ki Baat; first report Outlook Nov 2 10:42 pm IST. Remarks likely in Hindi; English wording is Outlook's translation."
     - "Brief headline says 'chapter is closed'; the quoted words are 'So I think that chapter is maybe closed'. Copy keeps 'maybe'."
     - "Outlook headline says Ashwin compared Bhuvneshwar with a 'former India pacer' but the body never names him; left out."
     - "Bhuvneshwar 139 runs, 1 wicket, economy 11.58 in first three NZ T20Is: Outlook, matches our own Hamilton preview. His fifth-match figures not checked; not given."
-    - "Shami career figures (64 Tests/229, 108 ODIs/206, 25 T20Is/27) and last India game (CT final, March 2025): News Karnataka. Shami 3-1-4-0 v Maharashtra at Eden on 2 Nov: our own Ranji story."
+    - "Shami career figures (64 Tests/229, 108 ODIs/206, 25 T20Is/27) and last India game (CT final, March 2025): News Karnataka. Shami 3-1-4-0 v Maharashtra at Eden on Nov 2: our own Ranji story."
     - "Location Chennai is Ashwin's base; the show is recorded remotely. Exact recording place not reported."
 ---
 

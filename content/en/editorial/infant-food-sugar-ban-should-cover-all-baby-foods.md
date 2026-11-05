@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Draft details (Foods for Infant Nutrition Amendment Regulations 2026, gazette 16 Oct, wording 'shall not be added', 2020 rules allowing sucrose/fructose within limits as a carbohydrate source, 60-day comment period, FSSAI's stated reasons) from the desk's 17 October news story, which used the PIB release. PIB page could not be opened in this run (fetch permission timed out)."
+    - "Editorial view of the desk. Draft details (Foods for Infant Nutrition Amendment Regulations 2026, gazette Oct 16, wording 'shall not be added', 2020 rules allowing sucrose/fructose within limits as a carbohydrate source, 60-day comment period, FSSAI's stated reasons) from the desk's October 17 news story, which used the PIB release. PIB page could not be opened in this run (fetch permission timed out)."
     - "Public Eye/IBFAN 2024 findings (15 Cerelac products in India, about 3 g added sugar per serving, none in UK, France, Germany; 4 to 6.8 g in Brazil, Ethiopia, Thailand, Nigeria) from The Week and The Statesman. Nestle India quote ('reduced added sugars by up to 30 per cent, depending on the variant') from The Week. CCPA chief Nidhi Khare quote and NCPCR notice from The South First."
     - "Cerelac described as meant for infants and children up to two years per The Statesman. The copy says these cereals are eaten after six months; the age printed on each pack was not checked."
     - "Outcome of FSSAI's 2024 inquiry into Nestle not checked; the copy does not describe one."
@@ -98,5 +98,5 @@ Finally, when it issues the final rule, FSSAI should set out what its examinatio
 A baby has no say in what goes into its bowl. The rules should decide for it, and decide early.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"6 months","label":"age limit in FSSAI's draft ban on added sucrose and fructose, published 16 October 2026"},{"value":"About 3 g","label":"added sugar per serving found in Cerelac sold in India in 2024, against none in the UK and Germany"},{"value":"60 days","label":"window for public comments on the draft before FSSAI finalises it"}]}
+{"title":"The reporting behind this view","items":[{"value":"6 months","label":"age limit in FSSAI's draft ban on added sucrose and fructose, published October 16, 2026"},{"value":"About 3 g","label":"added sugar per serving found in Cerelac sold in India in 2024, against none in the UK and Germany"},{"value":"60 days","label":"window for public comments on the draft before FSSAI finalises it"}]}
 ```

@@ -9,7 +9,7 @@ title: "Seventy years of linguistic states proved the doubters wrong. Their less
 standfirst: "Karnataka and Keralam turn 70 today, born on the day the States Reorganisation Act came into force. The map drawn on language did not break India, as many feared. It still leaves unfinished business, and a lesson about how the Union should handle the next demand."
 published: 2026-11-01T18:00:00+05:30
 keyPoints:
-  - "On **1 November 1956** India was redrawn into 14 states and six Union Territories, largely along lines of language."
+  - "On **November 1, 1956** India was redrawn into 14 states and six Union Territories, largely along lines of language."
   - "The Belagavi dispute has sat in the Supreme Court **since Maharashtra's suit in 2004**."
   - "Future demands for new states should go to **a standing commission**, not wait for fasts and riots."
 hero:
@@ -47,15 +47,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. History (Dhar Commission 1948 rejected language as main basis; JVP committee of Nehru, Patel and Pattabhi Sitaramayya, April 1949 report set the linguistic principle aside; Potti Sreeramulu began fast 19 Oct 1952, died 15 Dec 1952; Andhra State 1 Oct 1953; SRC appointed 22 Dec 1953, Fazl Ali, H N Kunzru, K M Panikkar, report 30 Sep 1955; Act in force 1 Nov 1956 with 14 states and 6 UTs; Bombay split 1960; Punjab Reorganisation 1966 created Haryana) from GKToday. Fast length given as 56 days by GKToday, other accounts differ; copy avoids the number."
-    - "Belagavi: Maharashtra moved SC in 2004, Mahajan Commission favoured Karnataka, Maharashtra claims 814 villages (ETV Bharat). Siddaramaiah quotes on jurisdiction and locus standi, 19 Jan 2026 (ThePrint/PTI). No hearing date or later status found; copy says only that the case is pending."
-    - "Foundation days today (Karnataka 70th Rajyotsava, Keralam 70, Haryana 60, MP and Chhattisgarh) from the desk's 1 November stories. Mysore State renamed Karnataka in 1973, from the desk's Karnataka story."
+    - "Editorial view of the desk. History (Dhar Commission 1948 rejected language as main basis; JVP committee of Nehru, Patel and Pattabhi Sitaramayya, April 1949 report set the linguistic principle aside; Potti Sreeramulu began fast Oct 19, 1952, died Dec 15, 1952; Andhra State Oct 1, 1953; SRC appointed Dec 22, 1953, Fazl Ali, H N Kunzru, K M Panikkar, report Sep 30, 1955; Act in force Nov 1, 1956, with 14 states and 6 UTs; Bombay split 1960; Punjab Reorganisation 1966 created Haryana) from GKToday. Fast length given as 56 days by GKToday, other accounts differ; copy avoids the number."
+    - "Belagavi: Maharashtra moved SC in 2004, Mahajan Commission favoured Karnataka, Maharashtra claims 814 villages (ETV Bharat). Siddaramaiah quotes on jurisdiction and locus standi, Jan 19, 2026 (ThePrint/PTI). No hearing date or later status found; copy says only that the case is pending."
+    - "Foundation days today (Karnataka 70th Rajyotsava, Keralam 70, Haryana 60, MP and Chhattisgarh) from the desk's November 1 stories. Mysore State renamed Karnataka in 1973, from the desk's Karnataka story."
     - "Chhattisgarh, Jharkhand, Uttarakhand (2000) and Telangana (2014) formation years: common knowledge, not sourced in this run."
     - "February 2025 bus attacks: from Business Standard URL/title in search results only (page not opened); copy says only that buses were attacked."
     - "Recommendations are the desk's own."
 ---
 
-Karnataka celebrates its 70th Rajyotsava today, and Keralam turns 70. Madhya Pradesh marks its foundation day too, and Haryana turns 60. The coincidence is not an accident of the calendar. On **1 November 1956** the States Reorganisation Act came into force and India was redrawn into 14 states and six Union Territories, very largely along the lines of the languages people spoke.
+Karnataka celebrates its 70th Rajyotsava today, and Keralam turns 70. Madhya Pradesh marks its foundation day too, and Haryana turns 60. The coincidence is not an accident of the calendar. On **November 1, 1956** the States Reorganisation Act came into force and India was redrawn into 14 states and six Union Territories, very largely along the lines of the languages people spoke.
 
 It is worth remembering how unwelcome that idea once was in New Delhi.
 
@@ -63,10 +63,10 @@ It is worth remembering how unwelcome that idea once was in New Delhi.
 
 In 1948 the Dhar Commission advised against drawing states mainly on language, preferring administrative convenience and finance. A Congress committee of Jawaharlal Nehru, Vallabhbhai Patel and Pattabhi Sitaramayya **set the linguistic principle aside** in 1949, citing the need for unity and security so soon after Partition. The fear was real: that states built around language would put loyalty to language above loyalty to the country.
 
-What changed the government's mind was not a white paper. Potti Sreeramulu fasted for a Telugu-speaking state and **died on 15 December 1952**. Andhra State was created within a year, and a commission under Fazl Ali, with H N Kunzru and K M Panikkar, was set up to look at the whole map. Its report led to the 1956 Act. Bombay was split into Maharashtra and Gujarat in 1960, and Punjab and Haryana in 1966, each after its own agitation.
+What changed the government's mind was not a white paper. Potti Sreeramulu fasted for a Telugu-speaking state and **died on December 15, 1952**. Andhra State was created within a year, and a commission under Fazl Ali, with H N Kunzru and K M Panikkar, was set up to look at the whole map. Its report led to the 1956 Act. Bombay was split into Maharashtra and Gujarat in 1960, and Punjab and Haryana in 1966, each after its own agitation.
 
 ```timeline
-{"title":"How India was redrawn","items":[{"date":"1948","text":"Dhar Commission advises against making language the main basis for states"},{"date":"April 1949","text":"Nehru, Patel and Sitaramayya committee sets the linguistic principle aside"},{"date":"15 Dec 1952","text":"Potti Sreeramulu dies fasting for a Telugu-speaking state"},{"date":"1 Oct 1953","text":"Andhra State created from Madras State"},{"date":"30 Sep 1955","text":"States Reorganisation Commission submits its report"},{"date":"1 Nov 1956","text":"States Reorganisation Act in force: 14 states and six Union Territories"},{"date":"1960 and 1966","text":"Bombay split into Maharashtra and Gujarat; Haryana carved out of Punjab"},{"date":"2004","text":"Maharashtra takes the Belagavi dispute to the Supreme Court"}]}
+{"title":"How India was redrawn","items":[{"date":"1948","text":"Dhar Commission advises against making language the main basis for states"},{"date":"April 1949","text":"Nehru, Patel and Sitaramayya committee sets the linguistic principle aside"},{"date":"Dec 15, 1952","text":"Potti Sreeramulu dies fasting for a Telugu-speaking state"},{"date":"Oct 1, 1953","text":"Andhra State created from Madras State"},{"date":"Sep 30, 1955","text":"States Reorganisation Commission submits its report"},{"date":"Nov 1, 1956","text":"States Reorganisation Act in force: 14 states and six Union Territories"},{"date":"1960 and 1966","text":"Bombay split into Maharashtra and Gujarat; Haryana carved out of Punjab"},{"date":"2004","text":"Maharashtra takes the Belagavi dispute to the Supreme Court"}]}
 ```
 
 ## What seventy years showed

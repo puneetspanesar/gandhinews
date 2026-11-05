@@ -52,9 +52,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "HC ruling Friday 23 Oct evening (Tribune 7:52 pm, ThePrint 8:43 pm); not on site before this. Detailed order awaited."
+    - "HC ruling Friday, Oct 23 evening (Tribune 7:52 pm, ThePrint 8:43 pm); not on site before this. Detailed order awaited."
     - "'Adequate safeguards' and 'to take care': Tribune quotes of the judge's oral order."
-    - "Bora press conference Saturday, ANI 13:31. Whether she appeared before the SEM on Saturday (B&B said SEM hearing 24 Oct) not reported; left out."
+    - "Bora press conference Saturday, ANI 13:31. Whether she appeared before the SEM on Saturday (B&B said SEM hearing Oct 24) not reported; left out."
     - "ASG 'lumpen elements' quote from ThePrint."
     - "Hero: no confirmed Commons photo of Bora likely; suggested_source set to Delhi High Court."
 ---
@@ -63,9 +63,9 @@ Neha Bora, national president of the All India Students' Association (AISA), sai
 
 "Signing such peace bonds is a principally wrong decision for us," Bora told a press conference in New Delhi. "It is no less than signing away our democratic right to dissent."
 
-On Friday evening, Justice Subramonium Prasad dismissed her challenge to a 17 October notice from a Special Executive Magistrate. It asked her to execute a personal bond of ₹10,000, with one surety, to keep the peace while an enquiry is held. The judge said there were "adequate safeguards" and directed the magistrate "to take care" that Bora is given all the material relied on before any order is passed. A detailed order is awaited.
+On Friday evening, Justice Subramonium Prasad dismissed her challenge to a October 17 notice from a Special Executive Magistrate. It asked her to execute a personal bond of ₹10,000, with one surety, to keep the peace while an enquiry is held. The judge said there were "adequate safeguards" and directed the magistrate "to take care" that Bora is given all the material relied on before any order is passed. A detailed order is awaited.
 
-Bora was detained at Mandi House on 16 October during a protest against Chief Election Commissioner Gyanesh Kumar and held overnight at R K Puram police station. The notice accused her of sloganeering and of repeated protests near Jantar Mantar in defiance of prohibitory orders.
+Bora was detained at Mandi House on October 16 during a protest against Chief Election Commissioner Gyanesh Kumar and held overnight at R K Puram police station. The notice accused her of sloganeering and of repeated protests near Jantar Mantar in defiance of prohibitory orders.
 
 In court, Senior Advocate Gopal Sankaranarayanan said the protest had been peaceful and she had never called for violence. Additional Solicitor General Chetan Sharma, for the police, called the protesters "lumpen elements in the nerve of New Delhi" and said the magistrate could not ignore six FIRs against her.
 

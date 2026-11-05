@@ -26,7 +26,7 @@ seo:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch In Brief, 20 Oct 1:35 pm PDT (2:05 am IST 21 Oct), based on OpenAI's website announcement. Deal terms undisclosed. No quotes available. Funding figure 'reportedly' as of 2025, hedged in copy. Founders not named in source."
+    - "Single source: TechCrunch In Brief, Oct 20 1:35 pm PDT (2:05 am IST Oct 21), based on OpenAI's website announcement. Deal terms undisclosed. No quotes available. Funding figure 'reportedly' as of 2025, hedged in copy. Founders not named in source."
 sources:
   - title: "OpenAI acquires startup Orchestra Bio to beef up its biotech business"
     publisher: "TechCrunch"

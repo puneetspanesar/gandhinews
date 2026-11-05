@@ -22,7 +22,7 @@ hero:
     value: "Brent down 4.2% at $108.64"
 related: [oil-slips-monday-brent-111-iran-qatar-talks-november-2, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, india-crude-import-bill-90-6-billion-april-september, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, sensex-nifty-close-november-2]
 seo:
-  description: "Oil prices on 2 November 2026: Brent falls 4.2% to $108.64 and WTI drops below $100 as Iran's talks with Qatar produce a draft proposal; Goldman sees $140 risk in 2027."
+  description: "Oil prices on November 2, 2026: Brent falls 4.2% to $108.64 and WTI drops below $100 as Iran's talks with Qatar produce a draft proposal; Goldman sees $140 risk in 2027."
 cover:
   template: business
   label: "Crude oil"
@@ -53,11 +53,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 19:55 IST (14:25 GMT), Reuters oil report updated to 'over 4%' headline (Kitco, updated 14:27 GMT). Prices Brent -4.79 (4.2%) 108.64, WTI -4.41 (4.2%) 99.71. Fetch summary tagged these prices '1020 GMT', which may be the earlier snapshot time; MoneyCheck at 14:26 UTC had Brent -3.96% at $108.94, so the evening level is consistent. Copy gives no clock time for the price."
+    - "event: Nov 2 19:55 IST (14:25 GMT), Reuters oil report updated to 'over 4%' headline (Kitco, updated 14:27 GMT). Prices Brent -4.79 (4.2%) 108.64, WTI -4.41 (4.2%) 99.71. Fetch summary tagged these prices '1020 GMT', which may be the earlier snapshot time; MoneyCheck at 14:26 UTC had Brent -3.96% at $108.94, so the evening level is consistent. Copy gives no clock time for the price."
     - "Draft proposal / possible follow-up meeting: one official briefed on the talks (Reuters), hedged in copy."
     - "Varga (PVM) quote, ADNOC CEO's ~1 billion barrels drawdown, Goldman $140 in 2027 scenario (Gulf output 3.5 mb/d below 2025 average), Saudi October exports: Reuters via Kitco. ADNOC CEO not named in the source; not named in copy."
-    - "Kpler Fujairah/Omani loadings 36% above prewar, OPEC+ seven producers hold December targets and meet 29 Nov, near 15% October rise: MoneyCheck."
-    - "India figures ($90.6 bn April-September, $116 basket in September) from our own 17 Oct story."
+    - "Kpler Fujairah/Omani loadings 36% above prewar, OPEC+ seven producers hold December targets and meet Nov 29, near 15% October rise: MoneyCheck."
+    - "India figures ($90.6 bn April-September, $116 basket in September) from our own Oct 17 story."
 ---
 
 Oil prices **fell more than 4% on Monday**, and US crude slipped below $100 a barrel, as hopes grew that talks to end the US-Israeli war on Iran were moving forward.
@@ -72,7 +72,7 @@ The slide followed word that Iranian negotiators had left their latest talks wit
 
 "The new month brought with it renewed hopes of a breakthrough in the Iranian stalemate," said Tamas Varga of the oil broker PVM.
 
-Supply has also held up better than feared. Tanker loadings at Fujairah and Omani terminals outside the Strait of Hormuz are **running 36% above pre-war levels**, according to the ship-tracking firm Kpler, and Saudi Arabia raised its crude exports in October. Seven OPEC+ producers kept their December output targets unchanged on Sunday and meet again on 29 November.
+Supply has also held up better than feared. Tanker loadings at Fujairah and Omani terminals outside the Strait of Hormuz are **running 36% above pre-war levels**, according to the ship-tracking firm Kpler, and Saudi Arabia raised its crude exports in October. Seven OPEC+ producers kept their December output targets unchanged on Sunday and meet again on November 29.
 
 The relief may not last. Tanker attacks in the strait have picked up recently, and the head of the Abu Dhabi National Oil Company said the world has drawn **nearly 1 billion barrels from its inventories** during the war. Goldman Sachs raised its price forecasts on Sunday and said Brent could **climb to $140 in 2027** if Gulf output stays 3.5 million barrels a day below its 2025 average.
 

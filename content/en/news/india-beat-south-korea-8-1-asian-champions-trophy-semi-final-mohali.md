@@ -22,7 +22,7 @@ hero:
     value: "India 8-1 South Korea, into the final"
 related: [india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar, india-south-korea-asian-champions-trophy-last-league-jalandhar-preview, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy]
 seo:
-  description: "India beat South Korea 8-1 in the men's Asian Champions Trophy semi-final in Mohali on 4 November 2026 and will play Japan in the final on 5 November."
+  description: "India beat South Korea 8-1 in the men's Asian Champions Trophy semi-final in Mohali on November 4, 2026, and will play Japan in the final on November 5."
 sources:
   - title: "India thrash South Korea 8-1 to enter ACT hockey final (PTI)"
     publisher: "ThePrint"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 19:00 IST start (Hockey India post quoted by Outlook), full time about 20:30 IST; PTI report on ThePrint 21:45 IST. Venue: Balbir Singh (Senior) International Hockey Stadium, Mohali."
+    - "event: Nov 4 19:00 IST start (Hockey India post quoted by Outlook), full time about 20:30 IST; PTI report on ThePrint 21:45 IST. Venue: Balbir Singh (Senior) International Hockey Stadium, Mohali."
     - "Scorers and minutes from PTI (ThePrint): Lakra 4', 13'; Harmanpreet 9' (PC); Sukhjeet 21'; Dilpreet 21', 25'; Angad Bir Singh 36'; Vivek Sagar Prasad 54'; Han Sangjun 9' for Korea. 6-1 at half-time (PTI). Outlook live feed gives slightly different minutes (5', 10', 12', 15', 20', 20', 25', 40'); PTI minutes used. Order of the early goals (Lakra 4', then Harmanpreet and Han both 9') written without claiming which 9th-minute goal came first."
-    - "Final v Japan on Thursday 5 Nov (PTI). Japan beat Malaysia 5-3 on penalties after 0-0 (PTI). PTI says India reached the final for a record seventh time; Outlook calls this the first semi-final, PTI the second, so neither label used. Final start time not found; not given."
+    - "Final v Japan on Thursday, Nov 5 (PTI). Japan beat Malaysia 5-3 on penalties after 0-0 (PTI). PTI says India reached the final for a record seventh time; Outlook calls this the first semi-final, PTI the second, so neither label used. Final start time not found; not given."
     - "No player quotes found. Craig Fulton quote on Abhishek Nain injury on Outlook page has no clear time context; not used."
 infographic:
   kicker: "Asian Champions Trophy semi-final"
@@ -74,4 +74,4 @@ India kept pressing after the break. Angad Bir Singh made it 7-1 in the 36th min
 
 The win takes India into the final **for a record seventh time**. The five-time champions have now won all six of their games in the tournament.
 
-Japan reached the final the hard way. Their semi-final against Malaysia finished goalless, and they **won the shoot-out 5-3**. The final is in Mohali on Thursday, 5 November.
+Japan reached the final the hard way. Their semi-final against Malaysia finished goalless, and they **won the shoot-out 5-3**. The final is in Mohali on Thursday, November 5.

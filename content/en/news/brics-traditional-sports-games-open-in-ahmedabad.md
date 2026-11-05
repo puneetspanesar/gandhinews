@@ -10,7 +10,7 @@ standfirst: "Delegations from across the BRICS group showed off their indigenous
 published: 2026-10-12T21:30:00+05:30
 location: Ahmedabad
 keyPoints:
-  - "The **BRICS Traditional and Indigenous Sports Demonstration Games** were held in Ahmedabad on 12 October."
+  - "The **BRICS Traditional and Indigenous Sports Demonstration Games** were held in Ahmedabad on October 12."
   - "Mandaviya proposed a **voluntary BRICS repository** to record the history, rules and equipment of traditional sports."
   - "The event was **non-competitive**: teams demonstrated sports from gorodki to capoeira and kalaripayattu."
 hero:
@@ -70,7 +70,7 @@ Union Sports Minister Mansukh Mandaviya, who declared the games open in the pres
 
 > First, we should work towards creating a voluntary BRICS Repository of Traditional and Indigenous Sports.
 >
-> Source: Mansukh Mandaviya, Union Minister of Youth Affairs and Sports, 12 October 2026
+> Source: Mansukh Mandaviya, Union Minister of Youth Affairs and Sports, October 12, 2026
 
 The repository would record each sport's history, cultural meaning, rules, equipment and playing area. His other two proposals were exchanges among practitioners, coaches, researchers and cultural experts across member countries, and regular demonstrations of traditional sports at future BRICS sporting events.
 

@@ -21,7 +21,7 @@ hero:
     value: "N. Korea missile flies over 900 km"
 related: []
 seo:
-  description: "North Korea fired several ballistic missiles from near Pyongyang on 12 October, one flying over 900 km, days after South Korea's first hypersonic glide vehicle test."
+  description: "North Korea fired several ballistic missiles from near Pyongyang on October 12, one flying over 900 km, days after South Korea's first hypersonic glide vehicle test."
 sources:
   - title: "North Korea Fires Ballistic Missiles Flying over 900 km, 4 Days After South Korea's Hypersonic Launch"
     publisher: "SBS News"
@@ -63,10 +63,10 @@ verification:
   notes:
     - "Number of missiles: South Korea's JCS said 'several' and did not give a count; Japan's defence ministry detected at least two. JoongAng Daily's update mentions a single missile; not followed, as SBS, AP, Al Jazeera and Seoul Economic Daily all say several."
     - "Japanese official: Al Jazeera names Takashi Koyari as Deputy Defence Minister; SBS (citing Kyodo/NHK) calls him Defense Minister. Japan's defence minister in July 2026 was Shinjiro Koizumi (Japan NATO mission page). Title unresolved, so the story attributes the remarks to Japan's defence ministry and leaves him unnamed."
-    - "Date of South Korea's hypersonic test: SBS says the test took place on 8 October; Seoul Economic Daily says it was disclosed on the 8th; Al Jazeera says Lee oversaw it 'on Thursday' (8 Oct); AP says Friday. Story says it was announced on Thursday."
+    - "Date of South Korea's hypersonic test: SBS says the test took place on October 8; Seoul Economic Daily says it was disclosed on the 8th; Al Jazeera says Lee oversaw it 'on Thursday' (Oct 8); AP says Friday. Story says it was announced on Thursday."
     - "Landmine blast timing conflict (Al Jazeera 'last week', AP 'last month'); story gives no date. AP says the findings were by South Korea's military and the US-led UN Command; Al Jazeera says a joint South Korean-UN investigation."
-    - "'16th ballistic missile launch this year' and 'first from the Pyongyang area since 20 August' rest on SBS only (Korean broadcaster, translated)."
-    - "North Korean state media had not reported on Monday's launch as of these sources. For the 3 October launch, Seoul Economic Daily says the North claimed a 1,000 km range and JoongAng says it claimed a 1,000 km flight; figure left out."
+    - "'16th ballistic missile launch this year' and 'first from the Pyongyang area since August 20' rest on SBS only (Korean broadcaster, translated)."
+    - "North Korean state media had not reported on Monday's launch as of these sources. For the October 3 launch, Seoul Economic Daily says the North claimed a 1,000 km range and JoongAng says it claimed a 1,000 km flight; figure left out."
     - "Launch times 9:19 and 9:36 am are Japan's (same time zone as Korea); JCS says about 9:20 am."
 ---
 
@@ -86,13 +86,13 @@ In Seoul, the presidential National Security Office called an emergency meeting 
 
 ## Rival tests
 
-The launch follows a busy fortnight. On 3 October North Korea fired a missile from the Wonsan area that flew more than 700 km. Its state media described it as a hypersonic intermediate-range missile and said leader Kim Jong Un attended the test.
+The launch follows a busy fortnight. On October 3 North Korea fired a missile from the Wonsan area that flew more than 700 km. Its state media described it as a hypersonic intermediate-range missile and said leader Kim Jong Un attended the test.
 
 On Thursday South Korea announced its first test launch of a domestically developed hypersonic glide vehicle, fired from an offshore barge at the Agency for Defense Development's Anheung test site. President Lee Jae Myung watched the test. His office said the weapon would help the South strike key targets by surprise once it is fully developed.
 
 Seoul presented the test partly as an answer to a landmine blast in the Demilitarised Zone that wounded three South Korean soldiers. South Korean investigators and the US-led UN Command concluded that North Korean troops had planted the mines. Pyongyang denies this and has mocked Seoul's demands for an apology.
 
-Monday's launch was the North's first from the Pyongyang area since 20 August, when it fired about 10 short-range missiles, and its 16th ballistic missile launch this year.
+Monday's launch was the North's first from the Pyongyang area since August 20, when it fired about 10 short-range missiles, and its 16th ballistic missile launch this year.
 
 ## Diplomacy on hold
 

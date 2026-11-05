@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Schumer's post-election news conference in Washington on Wednesday 4 Nov; the source article was published 11:07 am CST (22:37 IST) and the conference is described as already held; NewsNation had a 'watch live' page for it (fetch failed). Exact start time not stated, assumed late morning ET (about 21:00-22:30 IST)."
+    - "event: Schumer's post-election news conference in Washington on Wednesday, Nov 4; the source article was published 11:07 am CST (22:37 IST) and the conference is described as already held; NewsNation had a 'watch live' page for it (fetch failed). Exact start time not stated, assumed late morning ET (about 21:00-22:30 IST)."
     - "Main source is one wire report (AP via Fox10). 'Followed Trump over the cliff', 'red brick wall' and 'Americans voted for change' lines are from his remarks as reported; the 'with the president or without him' line is explicitly from the Wednesday news conference. 'Against all odds' is from his election-night speech (CBS live, 12:43 am ET)."
     - "No final Senate or House seat totals found; Alaska and Mississippi Senate races were still uncalled as of CBS 4:20 am ET post. No Trump response to Schumer found. Cover block omitted per hourly brief."
 ---

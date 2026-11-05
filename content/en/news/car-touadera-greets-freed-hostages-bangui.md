@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (Africanews). The article names only Koumba Ndiaye, sub-prefect of Bambouti, and does not explicitly say she was one of the three captives; copy describes her as speaking at the ceremony on the group's behalf without stating she was held."
-    - "Exact return date not given; Africanews report time-stamped 09:25 on 24 Oct."
+    - "Exact return date not given; Africanews report time-stamped 09:25 on Oct 24."
     - "Wagner training of Azandé group: as stated by Africanews, written as reported."
 ---
 

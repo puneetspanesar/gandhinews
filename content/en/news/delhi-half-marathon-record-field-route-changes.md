@@ -21,7 +21,7 @@ hero:
     value: "41,000 runners, a new start line"
 related: [kipruto-feysa-win-chicago-marathon]
 seo:
-  description: "Vedanta Delhi Half Marathon 2026 on 18 October: record 41,000 runners, Open 10K moved from Sansad Marg to JLN Stadium, start times and free Metro rides."
+  description: "Vedanta Delhi Half Marathon 2026 on October 18: record 41,000 runners, Open 10K moved from Sansad Marg to JLN Stadium, start times and free Metro rides."
 sources:
   - title: "Delhi Half Marathon route has minor refinements because of safety measures"
     publisher: "The Bridge"
@@ -41,7 +41,7 @@ verification:
     - "5:30 am half marathon start is subject to government approval (The Bridge)."
 ---
 
-A record field of more than 41,000 runners has signed up for the Vedanta Delhi Half Marathon on Sunday, 18 October, and many of them will be starting from a different place.
+A record field of more than 41,000 runners has signed up for the Vedanta Delhi Half Marathon on Sunday, October 18, and many of them will be starting from a different place.
 
 Organisers announced on Wednesday that the Open 10K will now start at the Jawaharlal Nehru Stadium at 7:35 am instead of Sansad Marg, the avenue in central Delhi where protests against the Election Commission have been held in recent days. They also made what they called minor refinements to the half marathon route, saying the changes were made with the "safety and experience" of runners in mind and in close coordination with the authorities.
 

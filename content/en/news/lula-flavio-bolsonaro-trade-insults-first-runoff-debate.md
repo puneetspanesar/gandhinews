@@ -6,13 +6,13 @@ section: world
 format_label: "World / Latin America"
 topics: []
 title: "Lula and Flávio Bolsonaro call each other liars in bitter first runoff debate"
-standfirst: "Brazil's president and the senator leading him in the polls traded charges of corruption and lies in São Paulo on Sunday night, a week before the 25 October runoff."
+standfirst: "Brazil's president and the senator leading him in the polls traded charges of corruption and lies in São Paulo on Sunday night, a week before the October 25 runoff."
 published: 2026-10-19T07:40:00+05:30
 location: São Paulo
 keyPoints:
   - "Lula called Flávio Bolsonaro **\"a habitual liar\"** and a \"thug\"; Bolsonaro called the president a \"clown\"."
   - "Bolsonaro led the first round with **47% to Lula's 45%**, and polls show a close runoff."
-  - "The two meet again in a **second debate on 23 October**, two days before the vote."
+  - "The two meet again in a **second debate on October 23**, two days before the vote."
 hero:
   need: "Two-panel split: President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro"
   suggested_source: "Luiz Inácio Lula da Silva"
@@ -22,7 +22,7 @@ hero:
     value: "\"Liar\", \"thug\", \"clown\""
 related: [brazil-runoff-polls-flavio-edge-lula-first-debate, venezuela-opposition-backs-machado-leadership-transition-plan]
 seo:
-  description: "Lula and Flávio Bolsonaro traded insults and corruption charges in Brazil's first runoff debate in São Paulo, a week before the 25 October vote."
+  description: "Lula and Flávio Bolsonaro traded insults and corruption charges in Brazil's first runoff debate in São Paulo, a week before the October 25 vote."
 sources:
   - title: "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate"
     publisher: "Al Jazeera"
@@ -39,7 +39,7 @@ verification:
 
 Brazil's presidential runoff turned openly personal on Sunday night as President Luiz Inácio Lula da Silva and right-wing Senator Flávio Bolsonaro used their first televised debate in São Paulo to call each other liars and accuse each other of corruption.
 
-The debate came exactly a week before the 25 October second round, a race the polls describe as close, with Bolsonaro, son of former president Jair Bolsonaro, holding a slight edge.
+The debate came exactly a week before the October 25 second round, a race the polls describe as close, with Bolsonaro, son of former president Jair Bolsonaro, holding a slight edge.
 
 ## Insults across the stage
 
@@ -67,4 +67,4 @@ Bolsonaro finished the first round ahead with 47% of the vote to Lula's 45%. Abo
 
 Supporters held large rallies on Sunday, with Bolsonaro's backers gathering in São Paulo and Lula's in Brasília and Rio de Janeiro.
 
-The candidates meet for a second and final debate on 23 October, two days before Brazilians vote.
+The candidates meet for a second and final debate on October 23, two days before Brazilians vote.

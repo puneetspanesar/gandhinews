@@ -22,7 +22,7 @@ hero:
     value: "Strike on a battery plant"
 related: [russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm, ukraine-sanctions-russian-missile-suppliers-rusal-vlasiuk, crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire]
 seo:
-  description: "The industrial zone of Yelets in Russia's Lipetsk region, home to the sanctioned Energia battery plant, was attacked on 25 October as Zelensky tallied a week of strikes."
+  description: "The industrial zone of Yelets in Russia's Lipetsk region, home to the sanctioned Energia battery plant, was attacked on October 25 as Zelensky tallied a week of strikes."
 sources:
   - title: "Missile strike hits Russian defense plant Energia in Lipetsk region: media"
     publisher: "Ukrinform"
@@ -44,7 +44,7 @@ verification:
 
 The Russian town of Yelets came under attack on Sunday, with an industrial zone that is home to one of Russia's main makers of batteries for military drones and air defence systems apparently the target.
 
-Igor Artamonov, governor of the Lipetsk region, said the Yelets industrial zone had been attacked on 25 October. "Emergency services are already working at the scene," he wrote on social media. He did not say what had been hit or whether anyone was hurt.
+Igor Artamonov, governor of the Lipetsk region, said the Yelets industrial zone had been attacked on October 25. "Emergency services are already working at the scene," he wrote on social media. He did not say what had been hit or whether anyone was hurt.
 
 Monitoring channels said the town was hit by cruise missiles. The likely target was the Energia plant, Russia's largest research and production enterprise for chemical power sources. It makes batteries for unmanned aerial vehicles, power cells for air defence missiles, and batteries for aircraft and naval vessels. The plant is under sanctions from the United States, the European Union, the United Kingdom, Canada, Switzerland, Japan, Australia and Ukraine, and was struck before, in May 2025 and again in January this year.
 

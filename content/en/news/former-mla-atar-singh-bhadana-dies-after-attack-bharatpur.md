@@ -70,7 +70,7 @@ His wife, Kamlesh Singh, gave a different account. She said he reached the lease
 
 > These incidents were constantly reported to the police and administration, but no effective action was taken.
 >
-> Source: Kamlesh Singh, Atar Singh Bhadana's wife, 12 October 2026
+> Source: Kamlesh Singh, Atar Singh Bhadana's wife, October 12, 2026
 
 She also said her husband had been shot. Police said their initial investigation did not point to a shooting, and doctors at the local hospital ruled out a gunshot wound on a preliminary examination.
 

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 15:31 IST, JSW MG Motor October sales (Auto India Daily timestamp). Single source; figures stated plainly as they are company numbers, but no October 2025 base or EV split given, so none written."
+    - "event: Nov 1 15:31 IST, JSW MG Motor October sales (Auto India Daily timestamp). Single source; figures stated plainly as they are company numbers, but no October 2025 base or EV split given, so none written."
     - "No quotes in source. Zeebiz Hindi report also listed JSW MG among October gainers but could not be fetched."
 ---
 

@@ -59,9 +59,9 @@ verification:
     - "Bench quote 'We are issuing notice ...Tagging with pending cases. But we would like to ask one of the petitioners about his conduct' verbatim from PTI (DT Next, Varthabharati, The Publish)."
     - "Whom the conduct remark refers to: Daijiworld says the court questioned Rahul Gandhi over his conduct during Monday's march; IANS (OrissaPOST) says the petitioner was not named. Copy reports the unnamed remark and says the Daijiworld reading in hedged form ('widely read as')."
     - "'subject to his explaining his conduct' from Daijiworld only; used as a short quote."
-    - "Number of petitioners: our 12 Oct story said 11 (Rahul plus 10); IANS says Rahul and 12 others; Aaj Tak says 13. Copy avoids a number."
+    - "Number of petitioners: our Oct 12 story said 11 (Rahul plus 10); IANS says Rahul and 12 others; Aaj Tak says 13. Copy avoids a number."
     - "Pramod Tiwari quote from Aaj Tak live blog 9:04 am (Hindi), translated."
-    - "Owaisi pleas notice from PTI. Reliefs sought in the INDIA bloc plea taken from our 12 Oct story (petition text as reported then)."
+    - "Owaisi pleas notice from PTI. Reliefs sought in the INDIA bloc plea taken from our Oct 12 story (petition text as reported then)."
     - "No next date reported."
 ---
 
@@ -73,7 +73,7 @@ The bench did not name him in the order. The remark was widely read as directed 
 
 ## What the bloc wants
 
-The petition, filed on 12 October by Gandhi with Congress president Mallikarjun Kharge, Samajwadi Party chief Akhilesh Yadav, RJD leader Tejashwi Yadav, Trinamool's Saugata Roy and other opposition leaders, alleges large-scale deletion of voters and irregularities in the SIR. When it was filed, it asked the court to stay the revision in all states until the case is decided, to order the Commission to disclose its SIR records, and to set up an independent committee led by a retired Supreme Court judge to audit deletions.
+The petition, filed on October 12 by Gandhi with Congress president Mallikarjun Kharge, Samajwadi Party chief Akhilesh Yadav, RJD leader Tejashwi Yadav, Trinamool's Saugata Roy and other opposition leaders, alleges large-scale deletion of voters and irregularities in the SIR. When it was filed, it asked the court to stay the revision in all states until the case is decided, to order the Commission to disclose its SIR records, and to set up an independent committee led by a retired Supreme Court judge to audit deletions.
 
 By tagging it with the petitions already pending against the SIR in various states, the court has folded the bloc's case into the larger fight over the revision instead of hearing it on its own. The bench said either someone should accept notice for the Commission or the petitioners should serve the respondents themselves. It also issued notice to the Centre and others on Election Commission-related pleas by AIMIM chief Asaduddin Owaisi and others.
 
@@ -85,7 +85,7 @@ The bloc's leaders have made the resignation of the Chief Election Commissioner 
 
 ## A tense run-up
 
-The case reached the court after an uneasy week between the bloc and the bench. The Chief Justice declined to meet Kharge and Gandhi on 11 October and told them to file a petition. A day later the Congress's Keralam unit posted, and then deleted, a demand that he resign, after he called the Delhi protests a law and order matter.
+The case reached the court after an uneasy week between the bloc and the bench. The Chief Justice declined to meet Kharge and Gandhi on October 11 and told them to file a petition. A day later the Congress's Keralam unit posted, and then deleted, a demand that he resign, after he called the Delhi protests a law and order matter.
 
 That episode was in the background on Thursday as well. In a separate matter, the court issued notice to the Congress, Gandhi and others on a plea objecting to the march to the court, observing that "nobody can browbeat judiciary".
 

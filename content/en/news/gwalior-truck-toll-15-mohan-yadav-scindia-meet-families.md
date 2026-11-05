@@ -22,7 +22,7 @@ hero:
     value: "Toll rises to 15"
 related: [gwalior-truck-sheetla-mata-temple-14-killed]
 seo:
-  description: "The toll in the 18 October Gwalior Sheetla Mata temple truck crash rose to 15; CM Mohan Yadav and Jyotiraditya Scindia met victims' families on 19 October and promised action."
+  description: "The toll in the October 18 Gwalior Sheetla Mata temple truck crash rose to 15; CM Mohan Yadav and Jyotiraditya Scindia met victims' families on October 19 and promised action."
 sources:
   - title: "MP CM Yadav meets families of Gwalior truck mishap victims, offer condolences"
     publisher: "ANI"

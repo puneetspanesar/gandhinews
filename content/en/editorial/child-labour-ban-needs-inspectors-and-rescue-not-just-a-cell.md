@@ -32,7 +32,7 @@ infographic:
     - {date: "1986", text: "Law bars children only from listed hazardous jobs", icon: file-text}
     - {date: "1996", text: "Court orders ₹20,000 per child from employers", icon: gavel}
     - {date: "2016", text: "Amendment bans all work by children under 14", icon: scales}
-    - {date: "4 Nov 2026", text: "Court orders a special enforcement cell", icon: buildings}
+    - {date: "Nov 4, 2026", text: "Court orders a special enforcement cell", icon: buildings}
   source: "Supreme Court orders; Census 2011; NCRB data"
 related: [supreme-court-child-labour-special-cell-centre]
 seo:
@@ -64,12 +64,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Order facts (bench of Justices SVN Bhatti and NV Anjaria, Health for Millions petition of 2009, WCD Secretary to set up cell, instructions via Chief Secretaries, quote 'giving complete and full effect to the changes introduced by way of amendment Act No. 35 of 2016', no deadline reported) from the desk's 4 Nov news story (LiveLaw). LiveLaw page could not be opened in this run (permission timeout)."
+    - "Editorial view of the desk. Order facts (bench of Justices SVN Bhatti and NV Anjaria, Health for Millions petition of 2009, WCD Secretary to set up cell, instructions via Chief Secretaries, quote 'giving complete and full effect to the changes introduced by way of amendment Act No. 35 of 2016', no deadline reported) from the desk's Nov 4 news story (LiveLaw). LiveLaw page could not be opened in this run (permission timeout)."
     - "Census 2011: 1.01 crore (10.13 million) children aged 5-14 working, about 3.9%: Factly and Next IAS agree."
     - "2,991 cases under the CLPR Act 2016-2021 (NCRB): Factly only; Factly article undated. Copy says 'a few hundred a year', consistent with 2,991 over six years."
-    - "Enfold and CivicDataLab study (Next IAS, 29 Mar 2025): e-Courts data in six states show about eight times more child labour cases than NCRB reports. Copy hedges to 'in the states it studied'."
+    - "Enfold and CivicDataLab study (Next IAS, Mar 29, 2025): e-Courts data in six states show about eight times more child labour cases than NCRB reports. Copy hedges to 'in the states it studied'."
     - "M C Mehta v State of Tamil Nadu (1996) 6 SCC 756: ₹20,000 per child payable by employers into a district welfare fund; separate cell in each state Labour Department; per summary hosted by Bihar government CPMIS. State contribution figure in that summary looked garbled; not used."
-    - "Just Rights for Children Alliance petition (notice on or before 25 May 2026; CJI Surya Kant bench) seeking orchestras, dance bars, spas, salons in Part A of the Schedule: News on AIR."
+    - "Just Rights for Children Alliance petition (notice on or before May 25, 2026; CJI Surya Kant bench) seeking orchestras, dance bars, spas, salons in Part A of the Schedule: News on AIR."
     - "That the Act is administered by the Ministry of Labour and Employment is general knowledge (labour.gov.in has a child labour division); the order assigns the cell to WCD."
     - "Recommendations are the desk's own."
 ---

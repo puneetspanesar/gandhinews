@@ -21,7 +21,7 @@ hero:
     value: "Barricades at Rajabazar"
 related: [woman-tries-to-attack-mamata-banerjee-kalighat-tmc-says, speaker-gives-rebel-tmc-mps-till-october-20, india-bloc-march-to-supreme-court-after-cji-declines-meeting, amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat]
 seo:
-  description: "Police and central forces stopped Mamata Banerjee's Trinamool march against CEC Gyanesh Kumar at Rajabazar in Kolkata on 13 October after CM Suvendu Adhikari's order."
+  description: "Police and central forces stopped Mamata Banerjee's Trinamool march against CEC Gyanesh Kumar at Rajabazar in Kolkata on October 13 after CM Suvendu Adhikari's order."
 sources:
   - title: "Kolkata anti-Gyanesh rally blocked; crackdown on Mamata's march sparks row"
     publisher: "National Herald"
@@ -52,7 +52,7 @@ verification:
   status: approved
   notes:
     - "Police commissioner's name differs: National Herald 'Ajay Nanda', ANI 'Ajay Kumar Nand'. Not named in copy; quotes attributed to 'the city's police commissioner'."
-    - "Whether Mamata Banerjee attended is not reported. The Statesman (12 Oct) said she would lead it if back from Delhi in time. Not stated in copy."
+    - "Whether Mamata Banerjee attended is not reported. The Statesman (Oct 12) said she would lead it if back from Delhi in time. Not stated in copy."
     - "No detentions reported by NH, ANI or UNI. UNI (paywalled) says protesters held a meeting at the spot. Crowd size: NH says 'hundreds'."
     - "Adhikari's remarks were made on Monday night (NH). Sukanta Majumdar quote and TMC's X post from NH only."
     - "UNI says the march also protested Mamata Banerjee's detention by Delhi Police during the Delhi protests; date of that detention not given. Written generally."

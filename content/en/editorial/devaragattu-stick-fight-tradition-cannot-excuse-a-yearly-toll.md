@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. 2026 facts (Potaraju, 28, of Alur; 100+ injured, about 10 critical; 1,000+ police; held despite police orders) from the desk's 22 October news story and its sources."
+    - "Editorial view of the desk. 2026 facts (Potaraju, 28, of Alur; 100+ injured, about 10 critical; 1,000+ police; held despite police orders) from the desk's October 22 news story and its sources."
     - "2025: two dead (one head injury, one heart attack), 90 injured, about 1,000 police and 10 drones, 32 awareness campaigns in 16 villages, Sub-Collector Mourya Bharadwaj said injuries were lower than earlier years (Tribune)."
     - "2023: two killed when an overloaded tree branch broke, a third (from Karnataka) died of natural causes, about 40 injured; 2022: a teenager from Karnataka died and 70+ were injured (South First). DSP B Sreenivas Reddy quote from South First."
     - "2024: no death figure was confirmed in this run (search result headline only mentions 70 injured), so copy lists deaths only for 2022, 2023, 2025 and 2026 and does not claim one in 2024."
@@ -91,5 +91,5 @@ Finally, deaths must be investigated like any other death. Police have not yet s
 Devotion at Devaragattu will continue. The question for the state is whether next year's festival ends with another name on this list.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"1","label":"dead and 100+ injured at the Banni Utsav on the night of 21-22 October 2026"},{"value":"2","label":"dead and 90 injured in 2025, despite drones and 1,000 police"},{"value":"2020","label":"the year the festival was officially cancelled, and went ahead anyway"}]}
+{"title":"The reporting behind this view","items":[{"value":"1","label":"dead and 100+ injured at the Banni Utsav on the night of October 21-22, 2026"},{"value":"2","label":"dead and 90 injured in 2025, despite drones and 1,000 police"},{"value":"2020","label":"the year the festival was officially cancelled, and went ahead anyway"}]}
 ```

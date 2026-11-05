@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Anthropic report page could not be fetched (blocked); all figures and quoted phrases as given by TechCrunch (17 Oct, 1:21 pm PDT). Report released Friday per TechCrunch."
+    - "Anthropic report page could not be fetched (blocked); all figures and quoted phrases as given by TechCrunch (Oct 17, 1:21 pm PDT). Report released Friday per TechCrunch."
     - "Hero: Dario Amodei photo already used on site, so Daniela Amodei suggested; she is not quoted in the story."
     - "Unnamed employee quotes in the TechCrunch piece not used."
 ---

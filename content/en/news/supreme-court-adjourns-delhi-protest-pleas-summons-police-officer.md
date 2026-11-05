@@ -11,7 +11,7 @@ published: 2026-10-13T19:00:00+05:30
 location: New Delhi
 keyPoints:
   - "Chief Justice Surya Kant asked for **a senior Delhi Police officer** to be present to answer the women journalists' allegations."
-  - "The detention and contempt petitions over the protests were **put off to 15 October** because Justice V Mohana was unwell."
+  - "The detention and contempt petitions over the protests were **put off to October 15** because Justice V Mohana was unwell."
   - "The government got **two more days** to file its compliance report and replies to the contempt pleas."
 hero:
   need: "Senior advocate Indira Jaising, who argued the women journalists' petition"
@@ -21,7 +21,7 @@ hero:
     value: "Police must explain, says the CJI"
 related: [lawyers-journalists-move-supreme-court-over-delhi-protest-detentions, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, cjp-members-scale-jantar-mantar-gate-detained, two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named, supreme-court-notice-adr-plea-cec-immunity-section-16, sc-cases-tracker]
 seo:
-  description: "Supreme Court seeks a senior Delhi Police officer's presence over women journalists' harassment plea, and puts off protest detention cases to 15 October."
+  description: "Supreme Court seeks a senior Delhi Police officer's presence over women journalists' harassment plea, and puts off protest detention cases to October 15."
 sources:
   - title: "Supreme Court Seeks Presence Of Senior Delhi Police Officer To Explain Alleged Assault Of Women Journalists During Protest Coverage"
     publisher: "LiveLaw"
@@ -54,19 +54,19 @@ verification:
     - "Bench: Bar & Bench names CJI Kant, Bagchi and Mohana JJ for the journalists' mention; LiveLaw's adjournment report says Mohana J was unwell and the bench was reconstituted for the day. Copy attributes the mention to the CJI only."
     - "CJI quote: LiveLaw has 'We'd like some senior officer to remain present here and explain.'; Bar & Bench has 'some senior officer to be present here to assist us or to explain.' LiveLaw's wording used."
     - "Petition names: LiveLaw says 'Freedom Speech Collective' in one report and 'Free Speech Collective' in another; written as Free Speech Collective. Amaan Rastogi (Molitics) contempt plea: LiveLaw adjournment report."
-    - "3 Oct harassment allegations, Crime Branch transfer and NHRC cognisance: Bar & Bench only."
+    - "Oct 3 harassment allegations, Crime Branch transfer and NHRC cognisance: Bar & Bench only."
     - "Manoj Jha petition's figure of more than 6,000 detentions is his petition's claim (LiveLaw)."
-    - "Rahul Gandhi's SIR petition: LiveLaw says Gandhi and nine others; no order reported on 13 Oct. Kept vague."
+    - "Rahul Gandhi's SIR petition: LiveLaw says Gandhi and nine others; no order reported on Oct 13. Kept vague."
     - "Media Park gathering and minute's silence at 1:15 pm: LiveLaw alert only."
 ---
 
 The Supreme Court on Tuesday asked for a senior Delhi Police officer to appear before it and explain allegations that women journalists were manhandled and sexually harassed by police while covering the protests against Chief Election Commissioner Gyanesh Kumar.
 
-"We'd like some senior officer to remain present here and explain," Chief Justice Surya Kant said when senior advocate Indira Jaising mentioned a petition by the Network of Women in Media, India (NWMI). The case will be heard on Thursday, 15 October, with the other petitions arising from the protests.
+"We'd like some senior officer to remain present here and explain," Chief Justice Surya Kant said when senior advocate Indira Jaising mentioned a petition by the Network of Women in Media, India (NWMI). The case will be heard on Thursday, October 15, with the other petitions arising from the protests.
 
 ## What the journalists say
 
-Women reporters covering the protests against the Special Intensive Revision (SIR) of electoral rolls say they were manhandled, detained and stopped from working even after they identified themselves as press. On 3 October, three women journalists accused police personnel of sexual harassment while they were held at a protest near Jantar Mantar. Delhi Police have said those complaints were sent to the Crime Branch for an inquiry, and the National Human Rights Commission has asked the Police Commissioner for a report.
+Women reporters covering the protests against the Special Intensive Revision (SIR) of electoral rolls say they were manhandled, detained and stopped from working even after they identified themselves as press. On October 3, three women journalists accused police personnel of sexual harassment while they were held at a protest near Jantar Mantar. Delhi Police have said those complaints were sent to the Crime Branch for an inquiry, and the National Human Rights Commission has asked the Police Commissioner for a report.
 
 "This pertains specifically to women journalists facing sexual harassment during the course of protests," Jaising told the court. The NWMI wants binding guidelines for how police deal with journalists at protests, an independent inquiry and action against officers found responsible.
 
@@ -74,7 +74,7 @@ Senior advocates Gopal Sankaranarayanan and C U Singh mentioned similar pleas, i
 
 ## The main cases wait two days
 
-The larger set of petitions over the mass detentions of 10 and 11 October did not go ahead. Justice V Mohana, one of the three judges on the bench with the Chief Justice and Justice Joymalya Bagchi, was unwell, and the parties agreed to take the matters up on Thursday.
+The larger set of petitions over the mass detentions of October 10 and 11 did not go ahead. Justice V Mohana, one of the three judges on the bench with the Chief Justice and Justice Joymalya Bagchi, was unwell, and the parties agreed to take the matters up on Thursday.
 
 At the request of Solicitor General Tushar Mehta, the court gave the government until then to file its compliance report on the court's earlier directions on Metro and rail services, and its replies to the contempt petitions. One contempt plea names the Union Home Secretary, the Delhi Police Commissioner and the Delhi Metro chief.
 

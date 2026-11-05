@@ -37,7 +37,7 @@ verification:
   status: approved
   notes:
     - "Fleetwood as defending champion and McIlroy in the field: UNI lead paragraph only (rest paywalled)."
-    - "Start date 15 Oct and Delhi Golf Club venue: Tribune. Tee times and round-one pairings not found; left out."
+    - "Start date Oct 15 and Delhi Golf Club venue: Tribune. Tee times and round-one pairings not found; left out."
     - "Top three of the PGTI Order of Merit (Talwar, Joshi, Ahlawat): UNI. Order of Merit positions of the debutants and all quotes: Tribune."
     - "Lahiri's presence inferred from Jaglan's comment in Tribune; not mentioned in copy."
 ---

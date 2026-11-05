@@ -72,4 +72,4 @@ Haryana were the first side to finish. They beat Chandigarh by an innings and 24
 
 Elsewhere, Karnataka made 342, with 135 from Manvanth Kumar, and Saurashtra were 164 for 4 in reply. Tamil Nadu took a lead of 179 over Uttarakhand thanks to Pradosh Ranjan Paul's 136.
 
-Play resumes on Tuesday, 20 October, for day three of the four-day round, which ends on Wednesday. Gujarat face a long fight to avoid defeat at Palam, and J&K and Tripura will need to bat through the day to keep their matches alive.
+Play resumes on Tuesday, October 20, for day three of the four-day round, which ends on Wednesday. Gujarat face a long fight to avoid defeat at Palam, and J&K and Tripura will need to bat through the day to keep their matches alive.

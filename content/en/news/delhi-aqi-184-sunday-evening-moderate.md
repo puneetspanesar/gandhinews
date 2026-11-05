@@ -22,7 +22,7 @@ hero:
     value: "AQI 184, low of 18.6°C"
 related: [delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
 seo:
-  description: "Delhi's AQI was 184 ('moderate') at 6 pm on 18 October, per CPCB's Sameer app, as the minimum temperature dropped to 18.6 degrees Celsius, the month's lowest."
+  description: "Delhi's AQI was 184 ('moderate') at 6 pm on October 18, per CPCB's Sameer app, as the minimum temperature dropped to 18.6 degrees Celsius, the month's lowest."
 sources:
   - title: "Delhi's minimum falls to 18.6 degrees Celsius (PTI)"
     publisher: "ThePrint"

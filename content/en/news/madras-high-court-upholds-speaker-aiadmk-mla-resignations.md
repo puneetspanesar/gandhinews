@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Names of the four MLAs are not given in the LiveLaw report. UNI (8 Sept) says the AIADMK asked the Speaker not to accept resignations of Maragatham Kumaravel, P Sathyabama, S Jayakumar and Esakki Subbiah, against whom disqualification proceedings were pending. Likely the same four but not confirmed; names left out of copy."
+    - "Names of the four MLAs are not given in the LiveLaw report. UNI (Sept 8) says the AIADMK asked the Speaker not to accept resignations of Maragatham Kumaravel, P Sathyabama, S Jayakumar and Esakki Subbiah, against whom disqualification proceedings were pending. Likely the same four but not confirmed; names left out of copy."
     - "Speaker JCD Prabhakar named per UNI."
     - "Petitioner Agri S S Krishnamurthy described by LiveLaw as AIADMK whip (case title). 'Partly allowed' scope not specified; copy refers only to the two-month direction."
     - "TVK 108 seats and confidence vote of 144: LiveLaw summary of petitioner's timeline."
@@ -54,9 +54,9 @@ The First Bench of Chief Justice S A Dharmadhikari and Justice G Arul Murugan fo
 
 ## A same-day resignation
 
-The case goes back to the confidence vote in May. The TVK, led by Chief Minister Vijay, won 108 seats, short of a majority, and won the vote on 13 May with 144 votes after 25 AIADMK MLAs backed it against their party's whip. Disqualification proceedings were started against all 25 the next day and later dropped against those who apologised.
+The case goes back to the confidence vote in May. The TVK, led by Chief Minister Vijay, won 108 seats, short of a majority, and won the vote on May 13 with 144 votes after 25 AIADMK MLAs backed it against their party's whip. Disqualification proceedings were started against all 25 the next day and later dropped against those who apologised.
 
-On 25 May, four of the MLAs handed in their resignations, met the TVK's general secretary and joined the party. Speaker J C D Prabhakar accepted the resignations the same day and a gazette notification followed.
+On May 25, four of the MLAs handed in their resignations, met the TVK's general secretary and joined the party. Speaker J C D Prabhakar accepted the resignations the same day and a gazette notification followed.
 
 The AIADMK, through its whip Agri S S Krishnamurthy, argued that the speed of it all pointed to horse-trading and that the Speaker should have inquired whether the resignations were voluntary and heard the party first. Its counsel, led by senior counsel V Giri, called the procedure a "sham".
 

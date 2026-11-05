@@ -11,8 +11,8 @@ published: 2026-10-24T14:40:00+05:30
 location: New Delhi
 keyPoints:
   - "Kapil Sibal said **\"What India wants is a change of government through democratic means\"**, answering Mohan Bhagwat."
-  - "Bhagwat had warned in his **20 October Vijayadashami speech** in Nagpur against attempts to change regimes."
-  - "Sibal questioned the handling of **57 FIRs** registered in Delhi between 2 and 23 October."
+  - "Bhagwat had warned in his **October 20 Vijayadashami speech** in Nagpur against attempts to change regimes."
+  - "Sibal questioned the handling of **57 FIRs** registered in Delhi between October 2 and 23."
 hero:
   need: "Two-panel split: Rajya Sabha MP Kapil Sibal on one side, RSS chief Mohan Bhagwat on the other"
   suggested_source: "Kapil Sibal"
@@ -37,10 +37,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Sibal press conference, New Delhi, 24 Oct; ANI 14:30 IST. All quotes verbatim from ANI (fetched). News Mill copy is ANI-based, not fetched separately."
-    - "Bhagwat speech: 20 Oct, Reshimbagh, Nagpur, RSS centenary Vijayadashami utsav, per ANI. 'Demonic forces' paraphrased; no full Bhagwat quote in source, so his words are paraphrased."
+    - "Sibal press conference, New Delhi, Oct 24; ANI 14:30 IST. All quotes verbatim from ANI (fetched). News Mill copy is ANI-based, not fetched separately."
+    - "Bhagwat speech: Oct 20, Reshimbagh, Nagpur, RSS centenary Vijayadashami utsav, per ANI. 'Demonic forces' paraphrased; no full Bhagwat quote in source, so his words are paraphrased."
     - "No BJP or RSS response to Sibal found by 3:30 pm."
-    - "57 FIRs 2-23 Oct, transferred to Crime Branch: Sibal's figure as reported by ANI."
+    - "57 FIRs Oct 2-23, transferred to Crime Branch: Sibal's figure as reported by ANI."
     - "ITBP Arunachal statement and Rubio visit references: kept brief, as Sibal's remarks only."
 ---
 
@@ -48,7 +48,7 @@ Rajya Sabha MP Kapil Sibal on Saturday turned the RSS chief's warning about "reg
 
 "What India wants is a change of government through democratic means," Sibal told a press conference in New Delhi. "I think Mohan Bhagwat understands that but is not willing to acknowledge it."
 
-Bhagwat used his Vijayadashami address at Reshimbagh ground in Nagpur on 20 October, which also marked the close of the RSS centenary, to speak of attempts to change regimes. He said "demonic forces" were trying to break India, Hindus and the Sangh, and that people driven by political ambition were backing them. He urged that protests and political action must not divide society. The speech came during the weeks of protest against the special intensive revision (SIR) of electoral rolls and the opposition's demand that Chief Election Commissioner Gyanesh Kumar resign.
+Bhagwat used his Vijayadashami address at Reshimbagh ground in Nagpur on October 20, which also marked the close of the RSS centenary, to speak of attempts to change regimes. He said "demonic forces" were trying to break India, Hindus and the Sangh, and that people driven by political ambition were backing them. He urged that protests and political action must not divide society. The speech came during the weeks of protest against the special intensive revision (SIR) of electoral rolls and the opposition's demand that Chief Election Commissioner Gyanesh Kumar resign.
 
 ## 'None of them had lathis'
 
@@ -60,7 +60,7 @@ He also asked why the RSS had been silent about incursions in Arunachal Pradesh 
 
 ## The FIRs
 
-Sibal raised the policing of the protests in the capital. He questioned how 57 FIRs registered between 2 and 23 October had been handled and why they had been moved to the Crime Branch. "They register an FIR without naming anyone," he said.
+Sibal raised the policing of the protests in the capital. He questioned how 57 FIRs registered between October 2 and 23 had been handled and why they had been moved to the Crime Branch. "They register an FIR without naming anyone," he said.
 
 He mocked the burning of effigies at Dussehra too. "If you were a true Indian, you would burn the effigy of the Chanda Chors," he said, using a jibe that means "donation thieves".
 
@@ -68,4 +68,4 @@ He mocked the burning of effigies at Dussehra too. "If you were a true Indian, y
 
 The BJP and the RSS had not responded to Sibal by mid-afternoon. The exchange adds to a sharper argument over the protests. Earlier this month the BJP accused Rahul Gandhi of wanting "regime change" after an AISA leader praised Bangladesh's youth-led protests.
 
-The INDIA bloc's rally at Ramlila Maidan on 1 November, called to demand the Chief Election Commissioner's resignation, is the next big test. Sibal said he expected the change he spoke of to come at the ballot box. "I think the people of India have decided there will be change, and it will happen most peacefully."
+The INDIA bloc's rally at Ramlila Maidan on November 1, called to demand the Chief Election Commissioner's resignation, is the next big test. Sibal said he expected the change he spoke of to come at the ballot box. "I think the people of India have decided there will be change, and it will happen most peacefully."

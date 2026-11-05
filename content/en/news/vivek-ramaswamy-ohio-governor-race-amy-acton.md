@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "All race details from Axios Cleveland (20 Oct, 10:19 UTC). Tribune article seen as a headline only. Spending figure is Axios citing Cleveland.com, 'as of last week'. Polls showing Ramaswamy narrowly ahead mentioned by Axios without numbers."
-    - "Election day 3 November 2026 is the scheduled US general election date; Axios piece did not state it."
+    - "All race details from Axios Cleveland (Oct 20, 10:19 UTC). Tribune article seen as a headline only. Spending figure is Axios citing Cleveland.com, 'as of last week'. Polls showing Ramaswamy narrowly ahead mentioned by Axios without numbers."
+    - "Election day November 3, 2026, is the scheduled US general election date; Axios piece did not state it."
 ---
 
 Vivek Ramaswamy, the Indian-American entrepreneur bidding to become Ohio's governor, is outspending his Democratic rival by more than three to one, yet the latest independent poll has him behind with two weeks to go.
@@ -51,4 +51,4 @@ The Cincinnati biotech entrepreneur and former presidential candidate has promis
 
 Acton is running on affordability, public education and health care, and Democrats paint Ramaswamy as a wealthy outsider whose plans favour billionaires and corporations over working Ohioans. She has refused to debate him; the two have appeared only in separate interviews with Ideastream Public Media.
 
-The stakes are high for both parties. An Acton win would make her Ohio's first woman governor and the first Democrat to hold the office since Ted Strickland, elected in 2006, though she would probably face a Republican-controlled Statehouse. A Ramaswamy victory would put a prominent ally of Donald Trump in charge, which could speed up conservative changes to education and government spending. Voters decide on 3 November.
+The stakes are high for both parties. An Acton win would make her Ohio's first woman governor and the first Democrat to hold the office since Ted Strickland, elected in 2006, though she would probably face a Republican-controlled Statehouse. A Ramaswamy victory would put a prominent ally of Donald Trump in charge, which could speed up conservative changes to education and government spending. Voters decide on November 3.

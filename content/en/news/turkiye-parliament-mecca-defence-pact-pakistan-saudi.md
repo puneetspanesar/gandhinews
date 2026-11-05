@@ -38,7 +38,7 @@ verification:
 
 Turkiye has submitted a three-way defence treaty with Pakistan and Saudi Arabia to its parliament for ratification, moving the alliance a step closer to law as Houthi attacks on the Saudi kingdom continue.
 
-The Mecca Joint Defence Agreement was signed on 7 August and has 16 articles. Ratification needs only a simple majority, which the ruling coalition holds, but the process is expected to take some time and could bring heated debate in the chamber.
+The Mecca Joint Defence Agreement was signed on August 7 and has 16 articles. Ratification needs only a simple majority, which the ruling coalition holds, but the process is expected to take some time and could bring heated debate in the chamber.
 
 ## What the treaty says
 

@@ -10,7 +10,7 @@ standfirst: "Gadi Eisenkot's Yashar party asked election authorities to stop the
 published: 2026-10-25T14:10:00+05:30
 location: Jerusalem
 keyPoints:
-  - "Israel holds its general election on **Tuesday, 27 October**."
+  - "Israel holds its general election on **Tuesday, October 27**."
   - "Yashar petitioned the Central Elections Committee to **cancel Netanyahu's meeting** with the police chief."
   - "Democrats leader Yair Golan will get **Shin Bet-directed protection** after dozens of death threats."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Election eve row over police meeting"
 related: [trump-endorses-netanyahu-eisenkot-says-voters-decide, vance-declines-to-endorse-netanyahu-midterms, west-bank-olive-harvest-settler-attacks-israeli-election]
 seo:
-  description: "Two days before Israel's 27 October election, Yashar challenged Netanyahu's meeting with the police chief, while Yair Golan and Gadi Eisenkot got state protection."
+  description: "Two days before Israel's October 27 election, Yashar challenged Netanyahu's meeting with the police chief, while Yair Golan and Gadi Eisenkot got state protection."
 sources:
   - title: "Liveblog, 25 October 2026"
     publisher: "The Times of Israel"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Times of Israel liveblog, entries 8:44 am to 10:28 am Israel time, 25 Oct). Meeting with Ben Gvir present and Levy's earlier refusal rest on Hebrew media/Haaretz reports, hedged in copy."
+    - "Single source (Times of Israel liveblog, entries 8:44 am to 10:28 am Israel time, Oct 25). Meeting with Ben Gvir present and Levy's earlier refusal rest on Hebrew media/Haaretz reports, hedged in copy."
     - "Commissioner's first name appears as both Danny and Daniel in the source; Danny used."
     - "Ofer Winter protection is from Hebrew media; his party made no statement. Hedged."
     - "Outcome of Sohlberg's 10:30 am deadline not known at time of writing."
@@ -64,4 +64,4 @@ The campaign has grown tense in its final days. On Saturday, a man was detained 
 
 ## What happens next
 
-Polls open on Tuesday, 27 October. The vote comes as Israel remains part of the wider regional war with Iran that began in February, a conflict that has already disrupted flights between India and the Gulf.
+Polls open on Tuesday, October 27. The vote comes as Israel remains part of the wider regional war with Iran that began in February, a conflict that has already disrupted flights between India and the Gulf.

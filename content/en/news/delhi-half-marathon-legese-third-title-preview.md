@@ -32,10 +32,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: NewKerala (wire copy), 17 Oct, 3:24 pm IST. Quotes verbatim from that report; the setting (pre-race media interaction) is not named there, so copy just says 'said'."
+    - "Single source: NewKerala (wire copy), Oct 17, 3:24 pm IST. Quotes verbatim from that report; the setting (pre-race media interaction) is not named there, so copy just says 'said'."
     - "Matata's 59:15 Riga win 'earlier this year' and police job; Cheptai's Dubai win (Feb) and Sydney Marathon second (Aug); Salpeter's World Championships marathon bronze 'four years ago' and May hamstring injury; Matre PB 1:04:57; Das 4th last year in 1:16:27; Dhyani 5th in 1:17:52; Karkera 3rd in 2025: all from that report."
     - "Prize money: $275,732 purse, $27,000 per winner, $12,000 course-record bonus; Indian elite ₹3.5 lakh / ₹2.5 lakh / ₹1.5 lakh and ₹1 lakh Indian elite record bonus."
-    - "Elite start times (5:18 am men, 5:20 am women) and JLN Stadium start/finish from our 14 Oct story."
+    - "Elite start times (5:18 am men, 5:20 am women) and JLN Stadium start/finish from our Oct 14 story."
 ---
 
 Birhanu Legese will be chasing a third Delhi Half Marathon title when the elite fields set off from the Jawaharlal Nehru Stadium early on Sunday, and the Ethiopian sounded at ease on the eve of the race.

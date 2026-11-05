@@ -22,7 +22,7 @@ hero:
     value: "Out of the ministry, back to Tamil Nadu"
 related: [l-murugan-seeks-to-quit-ministry-rajya-sabha-for-tamil-nadu-bjp]
 seo:
-  description: "The President accepted L Murugan's resignation from the Union Council of Ministers on 15 October, on the Prime Minister's advice, two days after he sought to quit."
+  description: "The President accepted L Murugan's resignation from the Union Council of Ministers on October 15, on the Prime Minister's advice, two days after he sought to quit."
 sources:
   - title: "Press Communique (resignation of Dr. L. Murugan)"
     publisher: "PIB (President's Secretariat)"
@@ -42,10 +42,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Acceptance: President's Secretariat communique posted 15 Oct, 7:14 pm IST. The communique does not name the President; Droupadi Murmu is the incumbent."
+    - "Acceptance: President's Secretariat communique posted Oct 15, 7:14 pm IST. The communique does not name the President; Droupadi Murmu is the incumbent."
     - "Status of his Rajya Sabha resignation not found in any source checked; copy says it has not been announced."
     - "No reallocation of his portfolios found as of Friday morning."
-    - "Quotes ('villages, streets', 'Nation First...') from Pioneer and South First, 13-14 Oct."
+    - "Quotes ('villages, streets', 'Nation First...') from Pioneer and South First, Oct 13-14."
     - "Reshuffle speculation reported by South First and Pioneer; kept as speculation only, attributed to no one."
 ---
 

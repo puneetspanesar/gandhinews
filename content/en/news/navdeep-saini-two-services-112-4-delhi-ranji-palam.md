@@ -22,7 +22,7 @@ hero:
     value: "Saini 2/15 at Palam"
 related: [delhi-gujarat-ranji-trophy-palam-badoni-preview]
 seo:
-  description: "Navdeep Saini took two wickets as Delhi reduced Services to 44 for four on day one of their Ranji Trophy round four match at Palam on 2 November 2026, before Rajat Paliwal and Mohit Ahlawat rebuilt to 112 for four."
+  description: "Navdeep Saini took two wickets as Delhi reduced Services to 44 for four on day one of their Ranji Trophy round four match at Palam on November 2, 2026, before Rajat Paliwal and Mohit Ahlawat rebuilt to 112 for four."
 sources:
   - title: "Delhi vs Services Match 69 Full Scorecard, Ranji Trophy, 2 November 2026"
     publisher: "Sports Tak"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 11:40 to 12:40 IST, Services 92/4 after 30 overs (Sports Tak scorecard, read about 12:50 IST) and 112/4 after 35 overs (ESPN scores page, live). Play began 09:30 IST. Early wickets (0.2, 8.2, 11.2, 17.4 ov) fell before 11:10; the in-window news is the Paliwal-Ahlawat recovery past 100."
+    - "event: Nov 2 11:40 to 12:40 IST, Services 92/4 after 30 overs (Sports Tak scorecard, read about 12:50 IST) and 112/4 after 35 overs (ESPN scores page, live). Play began 09:30 IST. Early wickets (0.2, 8.2, 11.2, 17.4 ov) fell before 11:10; the in-window news is the Paliwal-Ahlawat recovery past 100."
     - "Scorecard at 30 ov: Rohilla c Dhull b Saini 0 (2b), Tanwar c Rawat b Aman Chaudhary 22 (55b), Ravi Chauhan c Rawat b Saini 7 (21b), Dhankhar c Badoni b Shokeen 4 (10b), Paliwal 31* (57b, 3x4), Ahlawat 20* (35b, 2x4, 1x6), extras 8. FoW 0-1, 20-2, 27-3, 44-4. Bowling: Saini 7-1-15-2, Aman Chaudhary 8-0-25-1, Shokeen 7-1-20-1, Lakra 3-0-5-0, Badoni 3-0-16-0, Mathur 2-0-4-0."
     - "Sports Tak page did not mark a lunch break, so copy does not claim a lunch score. Individual scores at 35 overs not available. Venue Airforce Complex Ground, Palam. No quotes available."
 cover:

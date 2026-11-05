@@ -33,8 +33,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Regional figures, Ramesh, Palawat, Koll, Ramanjaneyulu and Khosla remarks, rice area, drought declarations and El Nino odds from the desk's 17 October story, which relied on EastMojo's report of a Climate Trends analysis."
-    - "All-India 759.4 mm against LPA 868.6 mm, 12.6% deficit, 87% of LPA, lowest since 2015, 17 of 36 subdivisions deficient, October forecast under 85% of LPA: from SuperKalam's summary of IMD's end-of-season briefing (1 October). The earlier news story rounded the national deficit to 13%; this explainer uses IMD's 12.6%."
+    - "Regional figures, Ramesh, Palawat, Koll, Ramanjaneyulu and Khosla remarks, rice area, drought declarations and El Nino odds from the desk's October 17 story, which relied on EastMojo's report of a Climate Trends analysis."
+    - "All-India 759.4 mm against LPA 868.6 mm, 12.6% deficit, 87% of LPA, lowest since 2015, 17 of 36 subdivisions deficient, October forecast under 85% of LPA: from SuperKalam's summary of IMD's end-of-season briefing (October 1). The earlier news story rounded the national deficit to 13%; this explainer uses IMD's 12.6%."
     - "East/NE 1,017.1 mm and 25.6% deficit match in both sources."
     - "General description of how Bay of Bengal lows bring rain to the region and of El Nino is standard meteorology, consistent with the sources' wording."
 ---
@@ -75,7 +75,7 @@ East and Northeast India have had below-normal monsoon rain in nine of the last 
 
 ## Who feels it?
 
-**Farmers first.** Rice, the main kharif crop in the region, needs standing water. Nationally, the area under rice was 15.56 lakh hectares lower by 5 October than a year earlier. G V Ramanjaneyulu of the Centre for Sustainable Agriculture says farmers seem to be switching to less thirsty crops, and warns that weak groundwater recharge will push up dependence on irrigation in the coming months.
+**Farmers first.** Rice, the main kharif crop in the region, needs standing water. Nationally, the area under rice was 15.56 lakh hectares lower by October 5 than a year earlier. G V Ramanjaneyulu of the Centre for Sustainable Agriculture says farmers seem to be switching to less thirsty crops, and warns that weak groundwater recharge will push up dependence on irrigation in the coming months.
 
 The dry weather also came with heat. August 2026 was India's hottest August since 1901.
 

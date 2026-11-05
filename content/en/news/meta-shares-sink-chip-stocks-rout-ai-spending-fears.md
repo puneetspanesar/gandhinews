@@ -22,7 +22,7 @@ hero:
     value: "Meta down 7%, chip index down 6.7%"
 related: [meta-ibm-tesla-results-after-hours-lam-research, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, netflix-tesla-meta-results-week-after-nasdaq-worst-week]
 seo:
-  description: "Meta shares fall 6.98% to $648.85 on 22 October 2026 after capex guidance of $135-145 billion and negative free cash flow; chip stocks crash, SOX down 6.7%, Lam Research, CoreWeave, Tesla fall."
+  description: "Meta shares fall 6.98% to $648.85 on October 22, 2026, after capex guidance of $135-145 billion and negative free cash flow; chip stocks crash, SOX down 6.7%, Lam Research, CoreWeave, Tesla fall."
 sources:
   - title: "Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet"
     publisher: "Yahoo Finance"

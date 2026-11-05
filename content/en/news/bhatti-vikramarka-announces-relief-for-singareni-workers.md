@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Hans India, 1:37 pm 13 Oct). No direct quotes available; all paraphrased. Published time set to the evening window as a later write-up of Tuesday's announcement."
+    - "Single source (Hans India, 1:37 pm Oct 13). No direct quotes available; all paraphrased. Published time set to the evening window as a later write-up of Tuesday's announcement."
     - "Where he spoke to the media not stated (Hyderabad dateline used). No timeline given for housing colonies or hospital upgrades."
     - "'Alias names' refers to discrepancies between workers' recorded names; meaning not explained in source."
 ---

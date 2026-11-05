@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (PTI via Deccan Chronicle, 20 Oct noon). RD-PRD commissioner not named. Exact date of the government order not given; reported Tuesday."
+    - "Single source (PTI via Deccan Chronicle, Oct 20 noon). RD-PRD commissioner not named. Exact date of the government order not given; reported Tuesday."
 ---
 
 Tamil Nadu will pay from its own funds for 25 extra days of work for rural households that use up the 125 days guaranteed under the Centre's VB-G RAM G scheme, taking the total possible to 150 days a year.
@@ -41,6 +41,6 @@ The state's Rural Development and Panchayat Raj Department issued the order on t
 
 Priority will go to women-headed households, single women, households with differently-abled members, Scheduled Caste and Scheduled Tribe families, and beneficiaries under the Forest Rights Act, 2006. The department's commissioner has been authorised to release the money to every district except Chennai.
 
-VB-G RAM G replaced the rural job scheme run under the Mahatma Gandhi National Rural Employment Guarantee Act, 2005, after that law was repealed. The new scheme came into force in Tamil Nadu on 1 July 2026 with a statutory guarantee of 125 days of work.
+VB-G RAM G replaced the rural job scheme run under the Mahatma Gandhi National Rural Employment Guarantee Act, 2005, after that law was repealed. The new scheme came into force in Tamil Nadu on July 1, 2026, with a statutory guarantee of 125 days of work.
 
 How many households qualify will depend on how many reach the 125-day mark this year, a figure the government has not yet published.

@@ -58,7 +58,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 10:30 IST, S&P Global/HSBC release of final October manufacturing PMI (standard 10:30 IST release slot; Business Standard report timestamped 10:44 IST, says data released Monday)."
+    - "event: Nov 2 10:30 IST, S&P Global/HSBC release of final October manufacturing PMI (standard 10:30 IST release slot; Business Standard report timestamped 10:44 IST, says data released Monday)."
     - "Flash 54.9 from the earlier preview story and the TradingView/Trading Economics flash summary. Newsquawk headline (search result only, not opened) gives final 54.7 vs expected 54.8, prev 55.1; expectation figure not used in copy."
     - "Export orders: the final release (Bhandari quote) says six-month high; the flash summary said fastest since June 2025. Copy follows the final release."
     - "No sub-index numbers available; descriptions only. Bhandari quotes exact from Business Standard."

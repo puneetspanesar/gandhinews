@@ -22,7 +22,7 @@ hero:
     value: "50 off 14 balls"
 related: [india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview]
 seo:
-  description: "Prema Rawat scored a 14-ball fifty for Uttarakhand against Hyderabad in the Senior Women's T20 Trophy in Pune on 2 November 2026, the fastest in women's T20 cricket."
+  description: "Prema Rawat scored a 14-ball fifty for Uttarakhand against Hyderabad in the Senior Women's T20 Trophy in Pune on November 2, 2026, the fastest in women's T20 cricket."
 sources:
   - title: "Prema Rawat Smashes 14-Ball Women's T20 Fifty, Breaks Fatima Sana's Record"
     publisher: "RevSportz"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Monday 2 Nov 2026, Uttarakhand v Hyderabad, Senior Women's T20 Trophy, MCA Cricket Stadium, Pune. RevSportz report published 16:25 UTC (21:55 IST). Start time of the match not given in the source; the record innings may have come earlier in the day than the 20:40-22:40 IST window. The report itself broke inside the window."
+    - "event: Monday, Nov 2, 2026, Uttarakhand v Hyderabad, Senior Women's T20 Trophy, MCA Cricket Stadium, Pune. RevSportz report published 16:25 UTC (21:55 IST). Start time of the match not given in the source; the record innings may have come earlier in the day than the 20:40-22:40 IST window. The report itself broke inside the window."
     - "Single source (RevSportz). Figures: Uttarakhand 187/2 after choosing to bat; Raghvi Bist 72* off 50; Prema 50* off 14 at No. 4; unbroken 58 in the last 2.5 overs; Hyderabad 98/8; Prema 2 wickets; margin 89 runs. Previous record 15 balls by Fatima Sana v Zimbabwe in 2026; list of 16 (Anya Vaidya, Sweden) and 18 (Devine, Litchfield, Richa Ghosh) per same article. No quotes in source."
     - "Photo caution: 'Prema Rawat' searches may return the unrelated spiritual teacher Prem Rawat. Picture desk should drop the hero rather than use a wrong person."
     - "Search budget: 6 of 6 used. wisden.com/cricket-news and tribuneindia.com/news/sports index fetches not approved; cricinfo results page failed."

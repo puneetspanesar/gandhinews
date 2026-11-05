@@ -12,7 +12,7 @@ location: Patna
 keyPoints:
   - "JD(U) MLA Anant Singh appeared to say he had got **nine people murdered** while backing Nitish Kumar."
   - "He later said nine of his associates were killed, and that **the statement has already been refuted**."
-  - "Polls for **eight Bihar Legislative Council seats** are due on 23 October."
+  - "Polls for **eight Bihar Legislative Council seats** are due on October 23."
 hero:
   need: "Two-panel: Mokama MLA Anant Singh and Nitish Kumar"
   suggested_source: "Anant Kumar Singh"
@@ -32,10 +32,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Statesman, 1:01 pm, partly from ANI). Remark made Friday 16 October; where and to whom not reported. Original remark is reported as 'appeared to say'; kept that hedge."
+    - "Single source (The Statesman, 1:01 pm, partly from ANI). Remark made Friday, October 16; where and to whom not reported. Original remark is reported as 'appeared to say'; kept that hedge."
     - "Shakti Singh Yadav's 'effectively confessed to nine murders' given as a quote in the summary; treated as his words."
     - "Nitish Kumar's current office not stated in source; not given. Sanjay Kumar Jha described as JD(U) working president per source."
-    - "Council polls: eight seats, voting 23 Oct, counting 27 Oct, terms end 16 Nov."
+    - "Council polls: eight seats, voting Oct 23, counting Oct 27, terms end Nov 16."
 ---
 
 Bihar's Mokama MLA Anant Singh set off a political row on Friday when he appeared to say he had got "nine people murdered" while supporting Nitish Kumar, then rushed to clarify that he had meant something else entirely.
@@ -48,4 +48,4 @@ The JD(U) played it down. Working president Sanjay Kumar Jha said the state unit
 
 The episode comes as Singh is openly at odds with his own party over the Patna Graduates' seat in the Legislative Council. He is backing Jan Suraaj candidate Anuj Singh against the JD(U)'s nominee, Neeraj Kumar.
 
-Polling for eight Bihar council seats is due on 23 October, with counting on 27 October. The terms of the sitting members end on 16 November.
+Polling for eight Bihar council seats is due on October 23, with counting on October 27. The terms of the sitting members end on November 16.

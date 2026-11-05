@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (22Scope, 14 Oct). Robbery on Tuesday 13 Oct around 7:30 am. Value of goods (Rs 3.5 crore) as reported; family had not filed a written complaint at time of reporting, so value is hedged."
+    - "Single source (22Scope, Oct 14). Robbery on Tuesday, Oct 13 around 7:30 am. Value of goods (Rs 3.5 crore) as reported; family had not filed a written complaint at time of reporting, so value is hedged."
     - "Innova registered to Kundan Kumar of Ratu Road per report; owner not named in copy as involvement unproven."
     - "Thana in-charge named as Kunal Kumar; quote is paraphrased."
 ---

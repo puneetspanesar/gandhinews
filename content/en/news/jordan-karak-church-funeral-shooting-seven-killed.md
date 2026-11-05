@@ -23,7 +23,7 @@ hero:
     value: "A funeral turned into a massacre"
 related: []
 seo:
-  description: "Gunmen killed at least seven people and wounded 34 at a funeral in a Greek Orthodox church in Jordan's Karak governorate on 23 October; two suspects are being hunted."
+  description: "Gunmen killed at least seven people and wounded 34 at a funeral in a Greek Orthodox church in Jordan's Karak governorate on October 23; two suspects are being hunted."
 sources:
   - title: "At least seven killed after gunmen open fire at church in Jordan"
     publisher: "Al Jazeera"
@@ -33,7 +33,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single outlet (Al Jazeera, published 13:32 UTC, updated 17:23 UTC, 23 Oct). All figures and quotes are from named officials as carried there: Public Security Directorate chief Obaidullah Al-Maaytah, Interior Minister Mazen al-Faraya, King Abdullah II on X, UN spokesman Stephane Dujarric. Witness Khaled Burqan quoted by state broadcaster Al-Mamlaka, paraphrased only."
+    - "Single outlet (Al Jazeera, published 13:32 UTC, updated 17:23 UTC, Oct 23). All figures and quotes are from named officials as carried there: Public Security Directorate chief Obaidullah Al-Maaytah, Interior Minister Mazen al-Faraya, King Abdullah II on X, UN spokesman Stephane Dujarric. Witness Khaled Burqan quoted by state broadcaster Al-Mamlaka, paraphrased only."
     - "Village spelled Hamoud (also Hammoud in a caption). Exact time of the attack on Friday not given. Victims not named. Suspect account (two men leaving a vehicle and opening fire) rests on Al-Mamlaka via Al Jazeera, so hedged."
     - "No claim of responsibility found at time of writing."
 ---

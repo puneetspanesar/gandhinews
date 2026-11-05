@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single primary source: PIB backgrounder released 23 Oct, 11:24 am IST (Hindi PRID 2327188; English listing PRID 2327125). No named speakers or quotes in it; none used."
-    - "Conference dates (21-23 Oct, New Delhi) and theme 'Powering the Global South' from the backgrounder. Venue and conference speeches not read."
+    - "Single primary source: PIB backgrounder released Oct 23, 11:24 am IST (Hindi PRID 2327188; English listing PRID 2327125). No named speakers or quotes in it; none used."
+    - "Conference dates (Oct 21-23, New Delhi) and theme 'Powering the Global South' from the backgrounder. Venue and conference speeches not read."
     - "Project count and capacity are 'as of August 2025' per PIB; copy keeps that date. Income figures (about Rs 60,000 to over Rs 1 lakh per acre) are PIB's 'in some cases' estimate."
 ---
 

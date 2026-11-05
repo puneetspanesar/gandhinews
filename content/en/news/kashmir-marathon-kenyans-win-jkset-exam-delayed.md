@@ -22,7 +22,7 @@ hero:
     value: "42 km along Dal Lake"
 related: [kashmir-igp-sujit-kumar-security-review-winter, omar-abdullah-cabinet-reshuffle-next-week-sajjan-singh-yadav-chief-secretary]
 seo:
-  description: "Kenyan runners won the full marathon titles at the third Kashmir International Marathon in Srinagar on 25 October 2026; road closures delayed the JKSET exam by two hours."
+  description: "Kenyan runners won the full marathon titles at the third Kashmir International Marathon in Srinagar on October 25, 2026; road closures delayed the JKSET exam by two hours."
 sources:
   - title: "Kashmir International Marathon: Kenyan runners win full marathon as traffic disruption delays JKSET exam by two hours"
     publisher: "Deccan Herald"

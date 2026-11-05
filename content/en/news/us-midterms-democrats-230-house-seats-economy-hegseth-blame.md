@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: article published 4 Nov 07:46 (page metadata, assumed GMT = 13:16 IST). House figure is the article's projection ('likely to garner north of 230'), not a final tally; Senate 'at least six' flips."
+    - "event: article published Nov 4 07:46 (page metadata, assumed GMT = 13:16 IST). House figure is the article's projection ('likely to garner north of 230'), not a final tally; Senate 'at least six' flips."
     - "Hegseth quote is from an anonymous Republican source in one outlet; attributed as such. Alaska Senate not mentioned on any page read, so left as uncalled per earlier story. No Schumer quote found. CBS live page fetch was not approved; no other tally source read."
-    - "No Sensex/Nifty data for 4 Nov 2026 found (search returned 2025 pages); no market story written."
+    - "No Sensex/Nifty data for Nov 4, 2026, found (search returned 2025 pages); no market story written."
 ---
 
 Democrats are on course to win **more than 230 seats in the House of Representatives**, with votes still being counted across the US on Wednesday, adding to a night in which the party took control of both chambers of Congress.

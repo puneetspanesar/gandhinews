@@ -22,7 +22,7 @@ hero:
     value: "Strike or deal: 'Either way we win'"
 related: [istanbul-ministers-reject-new-iran-attack-trump-epic-fury, iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace, iran-abdollahi-no-us-warships-gulf-pezeshkian-moscow, trump-votes-early-florida-michigan-early-voting-opens]
 seo:
-  description: "Trump said on 24 October the US could strike Iran again as soon as Sunday, but left room for a 'big, beautiful agreement' and questioned whether Tehran would keep a deal."
+  description: "Trump said on October 24 the US could strike Iran again as soon as Sunday, but left room for a 'big, beautiful agreement' and questioned whether Tehran would keep a deal."
 sources:
   - title: "US may hit Iran today or reach deal, says Trump"
     publisher: "24 News HD"
@@ -63,7 +63,7 @@ At an election rally in Georgia earlier, he repeated that he had "terminated" th
 
 ## Signs of preparation
 
-The remarks came as sailors aboard the USS George Washington carrier strike group were reported on Saturday to be loading munitions and readying aircraft. Separately, US Central Command was said to have follow-up plans for renewed strikes ready, pending White House approval, with several options put before Defence Secretary Pete Hegseth, some of them for after the 3 November midterm elections.
+The remarks came as sailors aboard the USS George Washington carrier strike group were reported on Saturday to be loading munitions and readying aircraft. Separately, US Central Command was said to have follow-up plans for renewed strikes ready, pending White House approval, with several options put before Defence Secretary Pete Hegseth, some of them for after the November 3 midterm elections.
 
 A Pentagon official said the department's job was to develop and present options to the president, and that it does not speculate about hypothetical or future operations.
 

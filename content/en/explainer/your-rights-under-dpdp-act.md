@@ -8,7 +8,7 @@ topics: [data-protection]
 title: "Your rights under the Digital Personal Data Protection Act"
 standfirst: "India's data protection law lets you see, correct and erase your data and complain if it is misused. Most of it takes effect in May 2027, and the regulator is not yet staffed."
 published: 2026-10-11T09:00:00+05:30
-shortAnswer: "Under the Digital Personal Data Protection Act, 2023 and its 2025 Rules, you can ask an organisation for a copy of your personal data, have it corrected or erased, name someone to act for you, and complain to the Data Protection Board. Organisations must answer within 90 days. Most duties apply from 13 May 2027, and as of October 2026 the Board has no members."
+shortAnswer: "Under the Digital Personal Data Protection Act, 2023 and its 2025 Rules, you can ask an organisation for a copy of your personal data, have it corrected or erased, name someone to act for you, and complain to the Data Protection Board. Organisations must answer within 90 days. Most duties apply from May 13, 2027, and as of October 2026 the Board has no members."
 hero:
   need: "Person reading a consent notice on a phone screen"
   suggested_source: "Wikimedia Commons search 'smartphone privacy' or a commissioned illustration; credit as listed"
@@ -40,12 +40,12 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Rights and duties summarised from the PIB backgrounder of 17 Nov 2025. The Act and Rules text in the gazette was not opened."
+    - "Rights and duties summarised from the PIB backgrounder of Nov 17, 2025. The Act and Rules text in the gazette was not opened."
     - "The age below which a person counts as a child under the Act was not stated in any source read, so it is not given."
     - "The PIB backgrounder does not give a fixed hour limit for breach notification to individuals (it says 'without delay'); the 72-hour figure sometimes cited for reporting to the Board was not confirmed and is left out."
-    - "Phase dates (13 Nov 2026, 13 May 2027) confirmed by Storyboard18, India Data Law and S.S. Rana (gazette G.S.R. 846(E), 13 Nov 2025)."
-    - "Fact-checked 11 Oct 2026: every right, the 90-day limit, consent notice and contact-point duties, consent manager description, breach notice content, penalties (₹250/200/50 crore), children's data exceptions, significant data fiduciary duties, portal/app and TDSAT confirmed in the PIB backgrounder. Board status and committees confirmed in LiveLaw and India Data Law. No copy changes needed."
-    - "Board status (no members) as of the latest sources (August 2026) plus a news search on 11 Oct 2026 that found no appointment."
+    - "Phase dates (Nov 13, 2026, May 13, 2027) confirmed by Storyboard18, India Data Law and S.S. Rana (gazette G.S.R. 846(E), Nov 13, 2025)."
+    - "Fact-checked Oct 11, 2026: every right, the 90-day limit, consent notice and contact-point duties, consent manager description, breach notice content, penalties (₹250/200/50 crore), children's data exceptions, significant data fiduciary duties, portal/app and TDSAT confirmed in the PIB backgrounder. Board status and committees confirmed in LiveLaw and India Data Law. No copy changes needed."
+    - "Board status (no members) as of the latest sources (August 2026) plus a news search on Oct 11, 2026, that found no appointment."
 ---
 
 ## What is the DPDP Act?
@@ -70,7 +70,7 @@ Organisations must respond to requests for access, correction, updating or erasu
 
 **They must give a separate consent notice that states clearly what the data is for.** It must set out the specific purpose for which the data is collected and used. Organisations must also display contact details for questions about personal data, such as a designated officer or Data Protection Officer.
 
-You can also give, review and withdraw consent through a consent manager. This is an India-based company that runs a single, transparent and interoperable platform for managing consent across services, and it works under the Data Protection Board's oversight. The consent manager framework begins on 13 November 2026.
+You can also give, review and withdraw consent through a consent manager. This is an India-based company that runs a single, transparent and interoperable platform for managing consent across services, and it works under the Data Protection Board's oversight. The consent manager framework begins on November 13, 2026.
 
 ## What happens if my data is leaked?
 
@@ -100,8 +100,8 @@ All organisations covered by the law must keep reasonable security safeguards, a
 
 ## When do these rights actually start?
 
-**Most obligations on organisations, and the Board's powers to inquire and penalise, apply from 13 May 2027.** The rules set up the Board immediately on notification, start the consent manager framework a year later, and bring in most other duties after 18 months.
+**Most obligations on organisations, and the Board's powers to inquire and penalise, apply from May 13, 2027.** The rules set up the Board immediately on notification, start the consent manager framework a year later, and bring in most other duties after 18 months.
 
 ```timeline
-{"title":"DPDP rules: when things take effect","items":[{"date":"2023","text":"Digital Personal Data Protection Act passed"},{"date":"Nov 2025","text":"Rules notified; Data Protection Board established in law"},{"date":"13 Nov 2026","text":"Consent manager framework begins"},{"date":"13 May 2027","text":"Most obligations take effect, including the Board's powers to inquire and impose penalties"}]}
+{"title":"DPDP rules: when things take effect","items":[{"date":"2023","text":"Digital Personal Data Protection Act passed"},{"date":"Nov 2025","text":"Rules notified; Data Protection Board established in law"},{"date":"Nov 13, 2026","text":"Consent manager framework begins"},{"date":"May 13, 2027","text":"Most obligations take effect, including the Board's powers to inquire and impose penalties"}]}
 ```

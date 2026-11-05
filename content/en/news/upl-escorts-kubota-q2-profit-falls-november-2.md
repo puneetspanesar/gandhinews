@@ -22,7 +22,7 @@ hero:
     value: "UPL profit down 24%"
 related: [sensex-500-points-off-high-afternoon-it-drags-nifty-23247, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
-  description: "UPL Q2 FY27 results: consolidated net profit falls 24% to ₹421 crore, revenue ₹11,860 crore. Escorts Kubota profit down 21.35% to ₹250 crore on income of ₹3,367 crore, 2 November 2026."
+  description: "UPL Q2 FY27 results: consolidated net profit falls 24% to ₹421 crore, revenue ₹11,860 crore. Escorts Kubota profit down 21.35% to ₹250 crore on income of ₹3,367 crore, November 2, 2026."
 cover:
   template: business
   label: "Q2 results"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 14:53 IST (UPL results entry) and 15:08 IST (Escorts Kubota results entry), Upstox Q2 results live blog, last updated 15:08 IST."
+    - "event: Nov 2 14:53 IST (UPL results entry) and 15:08 IST (Escorts Kubota results entry), Upstox Q2 results live blog, last updated 15:08 IST."
     - "Single source for both results (Upstox live blog); company filings on BSE/NSE not read. UPL entry text says 'Q1 FY27' though the blog is the Q2 results blog and figures compare with a year earlier; copy says September quarter. Check against the filing when available."
     - "No segment, EBITDA, management comment or share price reaction given for either company; none written."
     - "ITC estimates are analysts' preview figures from the same blog (12:54 IST); ITC share price 264.55, down 0.40%, at 12:59 IST."

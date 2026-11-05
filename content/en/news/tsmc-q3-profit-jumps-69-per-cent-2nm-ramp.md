@@ -41,12 +41,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "All Q3 2026 figures and the Q4 guidance are from TSMC's own earnings release filed as a Form 6-K on 15 Oct 2026. TSMC notes the figures are not yet approved by its board."
+    - "All Q3 2026 figures and the Q4 guidance are from TSMC's own earnings release filed as a Form 6-K on Oct 15, 2026. TSMC notes the figures are not yet approved by its board."
     - "Year-earlier comparisons (Q3 2025: net profit NT$452.30bn, revenue NT$989.92bn, gross margin 59.5%, 3nm 23% of wafer revenue) from Focus Taiwan/CNA, Oct 2025. They match the growth rates in the 6-K."
-    - "Wendell Huang quote is a single sentence from the 6-K. No earnings-call remarks from C.C. Wei on 15 Oct were found in any source read, so none are used. Not described as a 'record' quarter because no 2026 source read says so."
-    - "Capex range of $60-64bn is the July 2026 guidance (Bits&Chips); whether it changed on 15 Oct was not found, so written as July guidance."
+    - "Wendell Huang quote is a single sentence from the 6-K. No earnings-call remarks from C.C. Wei on Oct 15 were found in any source read, so none are used. Not described as a 'record' quarter because no 2026 source read says so."
+    - "Capex range of $60-64bn is the July 2026 guidance (Bits&Chips); whether it changed on Oct 15 was not found, so written as July guidance."
     - "Q4 midpoint growth (about 14% over Q3) is Gandhi News's own arithmetic from the guidance."
-    - "Release time on 15 Oct not confirmed; published time set to Thursday afternoon IST."
+    - "Release time on Oct 15 not confirmed; published time set to Thursday afternoon IST."
 ---
 
 Taiwan Semiconductor Manufacturing Company (TSMC) said on Thursday that its net income rose 68.7% from a year earlier in the July to September quarter, on the back of strong demand for its most advanced manufacturing processes.

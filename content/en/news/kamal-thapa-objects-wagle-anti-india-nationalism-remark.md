@@ -22,7 +22,7 @@ hero:
     value: "Is anti-India nationalism over?"
 related: [nepal-dashain-exodus-flood-victims-rent-aid, dipke-rejects-nepal-bangladesh-parallels-satyagraha]
 seo:
-  description: "Kamal Thapa on 24 October objected to Nepal Finance Minister Swarnim Wagle's New Delhi remark that the era of anti-India nationalism is over, seeking clarification."
+  description: "Kamal Thapa on October 24 objected to Nepal Finance Minister Swarnim Wagle's New Delhi remark that the era of anti-India nationalism is over, seeking clarification."
 sources:
   - title: "Nepal News Evening Briefing: Saturday, October 24, 2026"
     publisher: "Nepal News"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Thapa's reaction: Nepal News evening briefing only, posted on social media on Saturday; his words paraphrased, no verbatim quote available."
-    - "Wagle quotes verbatim from The Kathmandu Post (spoken at NDTV World Summit 2026, New Delhi, 23 Oct; may be translated from Nepali or given in English, source does not say)."
+    - "Wagle quotes verbatim from The Kathmandu Post (spoken at NDTV World Summit 2026, New Delhi, Oct 23; may be translated from Nepali or given in English, source does not say)."
     - "No government response to Thapa found by publication."
 ---
 

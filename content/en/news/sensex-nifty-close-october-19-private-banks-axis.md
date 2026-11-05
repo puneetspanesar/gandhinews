@@ -22,7 +22,7 @@ hero:
     value: "Sensex down 876 points"
 related: [sensex-nifty-it-rally-weekly-gain-october-16, axis-bank-q2-profit-rises-38-per-cent-misses-estimates, hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, monday-open-gift-nifty-brent-108-iran-hormuz-offer]
 seo:
-  description: "The Sensex fell 876.37 points to 73,852.90 and the Nifty ended near 22,889 on 19 October 2026 as Axis Bank and HDFC Bank slid after results and FPIs kept selling."
+  description: "The Sensex fell 876.37 points to 73,852.90 and the Nifty ended near 22,889 on October 19, 2026, as Axis Bank and HDFC Bank slid after results and FPIs kept selling."
 sources:
   - title: "Market Close: Sensex snaps 2-day winning streak, down 876 pts; Nifty at 22,889 as IT, pvt banks drag"
     publisher: "Business Standard"

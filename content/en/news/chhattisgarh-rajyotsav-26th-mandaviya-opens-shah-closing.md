@@ -6,12 +6,12 @@ section: states
 format_label: "States / Chhattisgarh"
 topics: [states]
 title: "Chhattisgarh turns 26; Mandaviya to open three-day Rajyotsav in Nava Raipur, Shah to close it"
-standfirst: "The state's foundation day festival runs from today to 3 November on the theme of women's empowerment and youth. An Air Force helicopter display is set for Monday."
+standfirst: "The state's foundation day festival runs from today to November 3 on the theme of women's empowerment and youth. An Air Force helicopter display is set for Monday."
 published: 2026-11-01T06:20:00+05:30
 location: Raipur
 keyPoints:
   - "Chhattisgarh marks its **26th foundation day** with a three-day Rajyotsav in Nava Raipur."
-  - "Union Minister **Mansukh Mandaviya opens the festival** today; Amit Shah attends the close on 3 November."
+  - "Union Minister **Mansukh Mandaviya opens the festival** today; Amit Shah attends the close on November 3."
   - "The Sarang helicopter team flies over **Sendh Lake at 11 am on Monday**."
 hero:
   need: "Two-panel split: Union Minister Mansukh Mandaviya, chief guest at the opening, and Nava Raipur, where the Rajyotsav is held"
@@ -22,7 +22,7 @@ hero:
     value: "Chhattisgarh at 26"
 related: [kerala-turns-70-festival-kerala-satheesan-nishagandhi, chhattisgarh-sai-maoism-police-commemoration-mana]
 seo:
-  description: "Chhattisgarh Rajyotsav 2026: the state's 26th foundation day festival runs 1 to 3 November in Nava Raipur. Mansukh Mandaviya opens it, Governor Ramen Deka presides on 2 November, Amit Shah attends the close."
+  description: "Chhattisgarh Rajyotsav 2026: the state's 26th foundation day festival runs November 1 to 3 in Nava Raipur. Mansukh Mandaviya opens it, Governor Ramen Deka presides on November 2, Amit Shah attends the close."
 sources:
   - title: "Chhattisgarh state foundation day celebrations to begin today"
     publisher: "Millennium Post"
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 00:00 IST, 26th foundation day begins; Rajyotsav opening today (start time not reported; daily cultural slots 4 pm, 7 pm, 8 pm). Day-of preview. Millennium Post item timestamped 1 Nov 00:00, updated 00:58 IST."
-    - "Mandaviya as chief guest on 1 Nov, Deka on 2 Nov, Sarang display details, performers: Millennium Post only. Shah at closing on 3 Nov, venue, dates and theme: Millennium Post and UNI agree."
+    - "event: Nov 1 00:00 IST, 26th foundation day begins; Rajyotsav opening today (start time not reported; daily cultural slots 4 pm, 7 pm, 8 pm). Day-of preview. Millennium Post item timestamped Nov 1 00:00, updated 00:58 IST."
+    - "Mandaviya as chief guest on Nov 1, Deka on Nov 2, Sarang display details, performers: Millennium Post only. Shah at closing on Nov 3, venue, dates and theme: Millennium Post and UNI agree."
     - "Mandaviya's portfolio not given in sources; copy says Union Minister. No statement from the Chief Minister or PM's greeting found before 6:15 am."
 ---
 
 Chhattisgarh turns 26 today, and the state is marking the day with **a three-day Rajyotsav in Nava Raipur Atal Nagar**. The festival runs from Sunday to Tuesday at the Dr Shyama Prasad Mukherjee Industry and Trade Complex, the Mela Ground of the new capital.
 
-Union Minister **Mansukh Mandaviya is the chief guest at the opening** today, and playback singer Palak Muchhal performs in the evening. The state was carved out of Madhya Pradesh on 1 November 2000.
+Union Minister **Mansukh Mandaviya is the chief guest at the opening** today, and playback singer Palak Muchhal performs in the evening. The state was carved out of Madhya Pradesh on November 1, 2000.
 
 ```photo
 {"n":1,"subject":"Palak Muchhal","caption":"Playback singer Palak Muchhal, who performs on the opening day of the Rajyotsav.","alt":"Singer Palak Muchhal"}
@@ -61,4 +61,4 @@ On Monday, **Governor Ramen Deka will preside** over the programmes, and celebra
 
 **Union Home Minister Amit Shah** will attend the closing ceremony on Tuesday, when Abhijeet Bhattacharya is due to sing.
 
-Chhattisgarh shares its foundation day with Madhya Pradesh, from which it was formed, as well as Karnataka, Keralam and Haryana, all of which mark their formation on 1 November.
+Chhattisgarh shares its foundation day with Madhya Pradesh, from which it was formed, as well as Karnataka, Keralam and Haryana, all of which mark their formation on November 1.

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single detailed source (Down To Earth, 18 Oct 2026, 6 am; Jayanta Basu) for scorecard figures and all quotes. Roychowdhury quote is truncated in the fetched summary, so only the opening clause is used. Exact release date of the scorecard not confirmed; published time set to the afternoon pickup. Original scorecard page not fetched (search budget)."
+    - "Single detailed source (Down To Earth, Oct 18, 2026, 6 am; Jayanta Basu) for scorecard figures and all quotes. Roychowdhury quote is truncated in the fetched summary, so only the opening clause is used. Exact release date of the scorecard not confirmed; published time set to the afternoon pickup. Original scorecard page not fetched (search budget)."
 ---
 
 India's latest climate pledge scores 2 out of a possible 32 for how well it protects people's health, putting the country joint bottom of a global scorecard of 132 nations alongside Japan and New Zealand.

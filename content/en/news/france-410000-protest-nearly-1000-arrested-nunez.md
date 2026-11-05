@@ -12,7 +12,7 @@ location: Paris
 keyPoints:
   - "The interior ministry counted **4.1 lakh marchers** nationwide; organisers claimed more than 8 lakh."
   - "Interior Minister Laurent Nunez said police arrested **nearly 1,000 people** across France."
-  - "Students have called **another protest for next Saturday**, 31 October."
+  - "Students have called **another protest for next Saturday**, October 31."
 hero:
   need: "Interior Minister Laurent Nunez, or a Paris street during the protests"
   suggested_source: "Laurent Nuñez"
@@ -22,7 +22,7 @@ hero:
     value: "Calmer streets, 1,000 arrests"
 related: [france-70000-police-saturday-protests-louvre-shut, france-protests-550000-limoges-city-hall-fire-macron, india-advisory-france-italy-belgium-protests-louvre-shut, macron-anger-shame-france-riots-2400-arrested, france-lecornu-new-curfews-unrest]
 seo:
-  description: "France's interior ministry counted 410,000 protesters on 24 October and nearly 1,000 arrests, with tear gas in Paris, Lyon and Marseille but less violence than a week earlier."
+  description: "France's interior ministry counted 410,000 protesters on October 24 and nearly 1,000 arrests, with tear gas in Paris, Lyon and Marseille but less violence than a week earlier."
 sources:
   - title: "Clashes between French police and protesters after largely peaceful demonstrations that drew thousands"
     publisher: "Euronews"
@@ -46,8 +46,8 @@ verification:
     - "Nearly 1,000 arrests: Nunez via Al Jazeera and Euronews; France 24 headline (page blocked) says the same. Reuters had 135 by early afternoon. Paris: 3,000+ checks, 65 arrests earlier in day (Al Jazeera)."
     - "Two seriously injured (Toulouse man reportedly lost fingers; Clermont-Ferrand): Euronews only; 'reportedly' kept."
     - "Quotes: Nunez 'ultra, ultra responsive' (Reuters); 'an extremely elevated level of violence' (Al Jazeera, Euronews); Melenchon quotes (Reuters); Bagayoko paraphrase only; student Clara Lebbadi quote (Reuters)."
-    - "Next Saturday protest: Al Jazeera says a new protest announced for next Saturday; date 31 Oct inferred."
-    - "Last week's arrests: Al Jazeera says over 2,000 taken into custody on 17 Oct; Euronews 2,700 arrests from last week's rioting. Copy says 'more than 2,000'."
+    - "Next Saturday protest: Al Jazeera says a new protest announced for next Saturday; date Oct 31 inferred."
+    - "Last week's arrests: Al Jazeera says over 2,000 taken into custody on Oct 17; Euronews 2,700 arrests from last week's rioting. Copy says 'more than 2,000'."
     - "Police deployment 70,000 (all three). Reuters says 10,000 more than previous week."
 ---
 

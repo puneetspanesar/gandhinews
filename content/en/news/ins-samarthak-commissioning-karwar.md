@@ -23,7 +23,7 @@ hero:
     value: "First private-yard warship in service"
 related: [navy-commissions-ins-mangrol-anti-submarine-craft, maritime-state-development-council-mumbai]
 seo:
-  description: "Vice President C P Radhakrishnan commissioned INS Samarthak, the Navy's first indigenous multi-purpose vessel built by L&T, at Karwar on 16 October 2026."
+  description: "Vice President C P Radhakrishnan commissioned INS Samarthak, the Navy's first indigenous multi-purpose vessel built by L&T, at Karwar on October 16, 2026."
 sources:
   - title: "AI, unmanned systems transforming naval warfare, says Vice President Radhakrishnan (PTI)"
     publisher: "Daily Excelsior"
@@ -63,16 +63,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Update 16 Oct, 5:15 pm IST: rewritten as the result. PIB release 'VP launches INS Samarthak at Karwar' (PRID 2324356) listed on PIB's 16 Oct index but the page could not be fetched (tool provenance block); copy rests on PTI (Daily Excelsior), IANS (Punjab Kesari) and Revoi.in."
+    - "Update Oct 16, 5:15 pm IST: rewritten as the result. PIB release 'VP launches INS Samarthak at Karwar' (PRID 2324356) listed on PIB's Oct 16 index but the page could not be fetched (tool provenance block); copy rests on PTI (Daily Excelsior), IANS (Punjab Kesari) and Revoi.in."
     - "Swaminathan quote 'the first major or big warship contracted to and constructed by a private shipyard' is PTI wording; Revoi has the same point in paraphrase. VP quote 'no longer merely an aspiration but an emerging reality' is IANS only."
     - "Attendees: Vatsayan, Sadhu, Menon (IANS); Santosh Lad (Revoi only). Commanding officer and time of ceremony not reported."
     - "Navy spokesperson X post wording from Revoi only."
-    - "Delivery on 27 Aug: PIB-based summary (SuperKalam). Specs (length, displacement, speed) not found; left out."
+    - "Delivery on Aug 27: PIB-based summary (SuperKalam). Specs (length, displacement, speed) not found; left out."
 ---
 
 Vice President C P Radhakrishnan commissioned Samarthak, the Indian Navy's first indigenous multi-purpose vessel, at Naval Base Karwar in Karnataka on Friday.
 
-The ship is the first of four multi-purpose vessels being inducted into the Navy. Larsen and Toubro designed it at its Warship Design Centre and built it at its Kattupalli shipyard in Tamil Nadu, with more than 75% indigenous content. The company handed it over on 27 August.
+The ship is the first of four multi-purpose vessels being inducted into the Navy. Larsen and Toubro designed it at its Warship Design Centre and built it at its Kattupalli shipyard in Tamil Nadu, with more than 75% indigenous content. The company handed it over on August 27.
 
 Chief of the Naval Staff Admiral Krishna Swaminathan said Samarthak was "the first major or big warship contracted to and constructed by a private shipyard" to be commissioned into the Navy. He called the induction a milestone in the drive for Aatmanirbharata, or self-reliance, and said the lessons of the build should be used to raise quality and cut delivery times.
 

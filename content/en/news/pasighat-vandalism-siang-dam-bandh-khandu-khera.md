@@ -11,7 +11,7 @@ published: 2026-10-25T03:20:00+05:30
 location: Itanagar
 keyPoints:
   - "Vandals hit a police station, the NHPC office and **the homes of state BJP president Kaling Moyong** and two MLAs in Pasighat."
-  - "The violence followed a **12-hour bandh** against the Siang Upper Multipurpose Project on 23 October."
+  - "The violence followed a **12-hour bandh** against the Siang Upper Multipurpose Project on October 23."
   - "Pema Khandu said he would meet the dam's opponents **anywhere they choose**."
 hero:
   need: "Arunachal Pradesh Chief Minister Pema Khandu, or the town of Pasighat on the Siang river"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "ANI only (22:35 IST 24 Oct; 03:00 IST 25 Oct). Organisations that called the bandh not named in source."
+    - "ANI only (22:35 IST Oct 24; 03:00 IST Oct 25). Organisations that called the bandh not named in source."
     - "Project capacity given as both 11,000 MW and 11,200 MW in ANI copy; written as 'more than 11,000 MW'."
     - "Khera's tear gas allegation: no official response found; attributed to him."
     - "No arrests reported in sources; none mentioned."

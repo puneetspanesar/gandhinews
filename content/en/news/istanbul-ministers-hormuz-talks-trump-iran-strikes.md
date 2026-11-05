@@ -59,7 +59,7 @@ verification:
   notes:
     - "No outcome or joint statement from the Istanbul meeting found by 3:30 pm IST; copy describes positions set out before and at the start of talks."
     - "Only Fidan and Miliband named; other ministers not named in sources, so not named in copy."
-    - "Trump quotes taken from Bloomberg headline wire ('knocked the hell out of Iran', 'may do it a little bit further'); venue and exact time not found, reported late on 22 Oct US time."
+    - "Trump quotes taken from Bloomberg headline wire ('knocked the hell out of Iran', 'may do it a little bit further'); venue and exact time not found, reported late on Oct 22 US time."
     - "Italy listed as attending by The New Arab; Kuwait Times lists only E3 and R4."
 ---
 

@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "OpenShell details and Huang quotes from The Next Web (11:21 UTC, 21 Oct). DSX POD details and Huang's 'tokens' remark from the AI Weekly digest only; kept brief."
+    - "OpenShell details and Huang quotes from The Next Web (11:21 UTC, Oct 21). DSX POD details and Huang's 'tokens' remark from the AI Weekly digest only; kept brief."
     - "Performance claims (milliseconds, up to 20% capacity) are Nvidia's own and attributed."
 ---
 

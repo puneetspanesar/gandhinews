@@ -22,7 +22,7 @@ hero:
     value: "Hebron sealed, raids begin"
 related: [netanyahu-west-bank-lockdown-hebron-gunfight, west-bank-olive-harvest-settler-attacks-israeli-election, brad-lander-detained-west-bank-olive-harvest]
 seo:
-  description: "Israel began a 'targeted and thorough' operation in Hebron after two soldiers were killed on 23 October; Palestinian groups reported 36 arrests and 17 attacks on farmers."
+  description: "Israel began a 'targeted and thorough' operation in Hebron after two soldiers were killed on October 23; Palestinian groups reported 36 arrests and 17 attacks on farmers."
 sources:
   - title: "Iran war live: Israel launches targeted Hebron operation after attack"
     publisher: "Al Jazeera"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Two soldiers killed: Al Jazeera (two articles) and the Middle East Monitor headline (article not opened). Injured count differs: Israel's ambulance service said at least five more were injured (Al Jazeera/AP); an AFP caption carried by Al Jazeera said three. Copy says 'several'."
-    - "'Targeted and thorough' is the Al Jazeera 24 Oct summary of the operation; the speaker (army) is not named beyond Israeli forces."
+    - "'Targeted and thorough' is the Al Jazeera Oct 24 summary of the operation; the speaker (army) is not named beyond Israeli forces."
     - "Arrest breakdown from Wafa, Palestinian Prisoner's Society and the Colonization and Wall Resistance Commission, as carried by Al Jazeera. Ben-Gvir quote from his social media statement as carried by Al Jazeera."
 ---
 

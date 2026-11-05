@@ -8,7 +8,7 @@ topics: []
 title: "Undersea cables explained: what Iran's threat to the wires under Hormuz means for India's internet"
 standfirst: "A senior Revolutionary Guards commander said this week that the internet cables beneath the Strait of Hormuz could be destroyed if Iran is attacked. How these cables work, how much of India's traffic uses them, and what would happen if they were cut."
 published: 2026-10-23T06:30:00+05:30
-shortAnswer: "Almost all international internet traffic travels through fibre-optic cables laid on the seabed, not via satellites. Several cable systems linking the Gulf states with India, Europe and Africa run through the Strait of Hormuz, and on 21 October IRGC commander Yadollah Javani said they 'could also be targeted and destroyed' if Iran's infrastructure is hit. Cutting them would not black out India's internet, because traffic reroutes over other cables, but it could slow services to and from West Asia and Europe, and repairs in a war zone could take months."
+shortAnswer: "Almost all international internet traffic travels through fibre-optic cables laid on the seabed, not via satellites. Several cable systems linking the Gulf states with India, Europe and Africa run through the Strait of Hormuz, and on October 21 IRGC commander Yadollah Javani said they 'could also be targeted and destroyed' if Iran's infrastructure is hit. Cutting them would not black out India's internet, because traffic reroutes over other cables, but it could slow services to and from West Asia and Europe, and repairs in a war zone could take months."
 hero:
   need: "A submarine communications cable, or a cable ship laying one"
   suggested_source: "Submarine communications cable"
@@ -58,7 +58,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Javani quote and context (Al-Alam interview, 21 October) from the desk's 21 October news story and its sources (Tasnim, WANA)."
+    - "Javani quote and context (Al-Alam interview, October 21) from the desk's October 21 news story and its sources (Tasnim, WANA)."
     - "Number of systems disputed: IRGC officials and ORF say seven; the International Cable Protection Committee (via Iran International, in the desk's news story) says five active segments carrying under 1% of international bandwidth. Copy gives both."
     - "Cable names AAE-1, FALCON, GBI, SeaMeWe-6 from ORF; Outlook Business also names Tata-TGN Gulf. Outlook says FALCON is owned by Tata Communications; not confirmed elsewhere, so ownership is left out. Airtel and Jio stakes in several systems: ORF."
     - "About 60% of India's westward data traffic through the Strait corridor, four of seven cables critical to India, and $920 million cost of a 24-hour disruption (ORF citing TIME): single think-tank source, attributed to ORF in copy."

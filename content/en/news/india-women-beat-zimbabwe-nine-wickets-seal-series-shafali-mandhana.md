@@ -45,7 +45,7 @@ verification:
     - "Scores and figures from The Statesman (10:33 pm IST) and Asianet Newsable (IANS); they agree on 102/8, 103/1 in 8.5 overs, Shafali 55 (25), Mandhana 47* (25), Prasad 2/7."
     - "Asianet lists Anushka Sharma 1* in the chase; with one wicket down that would be the new batter, left out as unclear. Asianet says Shafali's fifty came off 24 balls; Statesman agrees (out next ball)."
     - "The Statesman says Prasad is the first Indian to take wickets with the first two balls of her international bowling career; not independently confirmed, left out."
-    - "Third T20I on 20 October per The Statesman; venue not given in sources read. Mandhana and Nkomo post-match quotes not found."
+    - "Third T20I on October 20 per The Statesman; venue not given in sources read. Mandhana and Nkomo post-match quotes not found."
     - "Records (17th win, partnership marks, Shafali's 922 runs) from Asianet/IANS only."
 ---
 
@@ -77,4 +77,4 @@ The opening stand was the pair's ninth of 50 or more in T20Is this year, the mos
 
 ## What next
 
-The third and final match is on Tuesday, 20 October. Zimbabwe, who ran India close on Friday before losing by four wickets, will be looking to avoid a clean sweep.
+The third and final match is on Tuesday, October 20. Zimbabwe, who ran India close on Friday before losing by four wickets, will be looking to avoid a clean sweep.

@@ -22,7 +22,7 @@ hero:
     value: "'Vote chori, yes papa'"
 related: [rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, nadda-anarchy-model-india-bloc-rally-sood-chaos]
 seo:
-  description: "INDIA bloc rally at Ramlila Maidan, 1 November 2026: Mamata Banerjee mocks the BJP and CEC Gyanesh Kumar with a 'vote chori, yes papa' chant and says she will not surrender over the SIR."
+  description: "INDIA bloc rally at Ramlila Maidan, November 1, 2026: Mamata Banerjee mocks the BJP and CEC Gyanesh Kumar with a 'vote chori, yes papa' chant and says she will not surrender over the SIR."
 sources:
   - title: "'BJP Papa' Remark: Mamata Banerjee Takes a Dig at Gyanesh Kumar and BJP at Ramlila Maidan Rally"
     publisher: "News Track"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov afternoon, Mamata Banerjee speech at Ramlila Maidan, before 16:32 IST (News Track published 16:32 IST; march reached ground about 15:00 per earlier story). Exact minute not given."
+    - "event: Nov 1 afternoon, Mamata Banerjee speech at Ramlila Maidan, before 16:32 IST (News Track published 16:32 IST; march reached ground about 15:00 per earlier story). Exact minute not given."
     - "Single source for the speech (News Track). Only the 'yes papa' chant is quoted, in its original Hindi-English words; the rest is paraphrase. Ram Janmabhoomi funds and Waqf claims reported without quotes, so kept brief and attributed."
     - "News Track calls her West Bengal chief minister; she is the former CM (site convention, NewsTak also says former), so copy says Trinamool chief."
     - "Search budget exhausted; tribuneindia and pib.gov.in fetches were blocked by permission timeout. No BJP or EC response to her speech found."

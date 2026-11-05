@@ -22,7 +22,7 @@ hero:
     value: "Noboa's rival detained before dawn"
 related: []
 seo:
-  description: "Ecuador police detained former presidential candidate Luisa González in Manabí on 22 October 2026 in the Laberinto money laundering case. She called it persecution."
+  description: "Ecuador police detained former presidential candidate Luisa González in Manabí on October 22, 2026, in the Laberinto money laundering case. She called it persecution."
 sources:
   - title: "Detienen a Luisa González, excandidata presidencial del correísmo en Ecuador"
     publisher: "Primicias"

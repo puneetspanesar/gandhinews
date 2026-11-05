@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "The Supreme Court upheld the Bombay High Court order that **quashed the ₹8,415 crore AT-1 write-off**."
   - "YES Bank shares fell as much as **20% to ₹16.96** on the NSE before recovering part of the loss."
-  - "The bank reports its September-quarter results on **17 October**, when investors expect more detail."
+  - "The bank reports its September-quarter results on **October 17**, when investors expect more detail."
 hero:
   need: "YES Bank headquarters building in Santacruz, Mumbai"
   suggested_source: "YES Bank House Santacruz Mumbai"
@@ -21,7 +21,7 @@ hero:
     value: "A 2020 write-off, undone"
 related: [sensex-nifty-rupee-close-october-15, government-approves-idbi-bank-strategic-restructuring, rbl-bank-q2-profit-jumps-170-per-cent]
 seo:
-  description: "YES Bank shares fell up to 20% on 15 October 2026 after the Supreme Court upheld the Bombay High Court order quashing the ₹8,415 crore AT-1 bond write-off."
+  description: "YES Bank shares fell up to 20% on October 15, 2026, after the Supreme Court upheld the Bombay High Court order quashing the ₹8,415 crore AT-1 bond write-off."
 sources:
   - title: "In freefall! Yes Bank crashes 20% after SC ruling on AT-1 bond write-off"
     publisher: "Business Standard"
@@ -78,4 +78,4 @@ Avinash Gorakshakar, founder and head of research at Avinash Mentor Research Ser
 
 ## What comes next
 
-YES Bank reports its results for the July to September quarter on 17 October, when it is expected to say how it will deal with the ruling. No comment from the bank or the RBI on the judgment was available on Thursday afternoon.
+YES Bank reports its results for the July to September quarter on October 17, when it is expected to say how it will deal with the ruling. No comment from the bank or the RBI on the judgment was available on Thursday afternoon.

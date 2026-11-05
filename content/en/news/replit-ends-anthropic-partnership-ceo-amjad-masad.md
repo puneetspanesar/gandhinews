@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single outlet (TechCrunch, 16 Oct, 2:22 pm PDT, updated 3:50 pm PDT = 3:20 am IST Sat). Masad spoke on stage at Disrupt on Thursday 15 Oct; the remarks were published late Friday US time."
+    - "Single outlet (TechCrunch, Oct 16, 2:22 pm PDT, updated 3:50 pm PDT = 3:20 am IST Sat). Masad spoke on stage at Disrupt on Thursday, Oct 15; the remarks were published late Friday US time."
     - "The insider who says the partnership is still in place is unnamed in the source; copy attributes to 'people familiar with the partnership'. No statement from Anthropic or follow-up from Replit found."
     - "Sol and Astra: Masad's quote names them; TechCrunch does not say whose models they are. Copy does not attribute them to OpenAI, only notes the August OpenAI partnership."
     - "Model names Claude Fable 5, Fable 5.1 and Opus 5.5 as given by TechCrunch citing Replit's late-September blog post and an employee's X post."

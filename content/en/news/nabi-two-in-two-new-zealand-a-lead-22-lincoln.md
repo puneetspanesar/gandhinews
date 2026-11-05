@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Day-one detail from Asianet Newsable; the two-in-two is confirmed by the ESPNcricinfo match report headline (page body blocked). Match dates 24-27 October from the ESPNcricinfo scorecard listing."
+    - "Day-one detail from Asianet Newsable; the two-in-two is confirmed by the ESPNcricinfo match report headline (page body blocked). Match dates October 24-27 from the ESPNcricinfo scorecard listing."
     - "Day two was under way or about to start at publication; no day-two score read. Bowling figures beyond wicket counts not available."
 ---
 
@@ -60,4 +60,4 @@ India A's batting had let them down earlier. KL Rahul fell for an eight-ball duc
 
 Only Devdutt Padikkal, with 32, and Yash Rathod, unbeaten on 44 with three sixes, held up New Zealand A for long. Zak Gibson took three wickets.
 
-With three days left, India A need early wickets on the second day to keep the deficit small. The second unofficial Test starts at Hagley Oval in Christchurch on 31 October, and the third is back in Lincoln from 7 November.
+With three days left, India A need early wickets on the second day to keep the deficit small. The second unofficial Test starts at Hagley Oval in Christchurch on October 31, and the third is back in Lincoln from November 7.

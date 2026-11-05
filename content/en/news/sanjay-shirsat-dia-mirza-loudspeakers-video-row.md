@@ -31,7 +31,7 @@ infographic:
   source: "PTI, Bombay High Court, November 3, 2026"
 related: [bombay-hc-bmc-restore-dia-mirza-video-secular-country, bombay-high-court-street-firecracker-ban-all-festivals]
 seo:
-  description: "Maharashtra minister Sanjay Shirsat said on 3 November that Dia Mirza should make a video on loudspeaker noise, after the Bombay HC ordered her Diwali clip restored."
+  description: "Maharashtra minister Sanjay Shirsat said on November 3 that Dia Mirza should make a video on loudspeaker noise, after the Bombay HC ordered her Diwali clip restored."
 sources:
   - title: "Mirza should also upload video on noise from 'loudspeakers': Shiv Sena minister (PTI)"
     publisher: "ThePrint"
@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov evening, Shirsat remarks to reporters in Mumbai; PTI copy on ThePrint timestamped 9:46 pm IST."
+    - "event: Nov 3 evening, Shirsat remarks to reporters in Mumbai; PTI copy on ThePrint timestamped 9:46 pm IST."
     - "PTI says the loudspeaker remark 'apparently' refers to mosques; copy keeps that hedge. Fadnavis reaction (Deccan Herald) could not be fetched; left out. Sachin Ahir remark left out (party affiliation unclear in source)."
 ---
 

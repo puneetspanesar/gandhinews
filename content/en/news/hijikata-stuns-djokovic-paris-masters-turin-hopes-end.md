@@ -22,7 +22,7 @@ hero:
     value: "Qualifier ends Djokovic's season"
 related: [djokovic-vacherot-paris-masters-turin-race-jodar-ninth, shapovalov-retires-khachanov-paris-masters-leading-4-1]
 seo:
-  description: "Australian qualifier Rinky Hijikata beat Novak Djokovic 2-6, 6-3, 6-3 in the Paris Masters second round on 4 November 2026, ending Djokovic's ATP Finals hopes."
+  description: "Australian qualifier Rinky Hijikata beat Novak Djokovic 2-6, 6-3, 6-3 in the Paris Masters second round on November 4, 2026, ending Djokovic's ATP Finals hopes."
 infographic:
   kicker: "Paris Masters, second round"
   headline: "Hijikata beats Djokovic from a set down"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event time: match ended about 10:20 pm IST on 4 Nov. AOL article URL timestamp 16:59 UTC (10:29 pm IST), updated 17:17 UTC; Univers Tennis published 17:20 UTC; duration 2h14 (Univers Tennis). Within the 9:00 to 11:15 pm window. Zverev, Medvedev, Tiafoe results finished earlier in the day (AP filed 8:47 am CT = 8:17 pm IST) and are context only."
+    - "Event time: match ended about 10:20 pm IST on Nov 4. AOL article URL timestamp 16:59 UTC (10:29 pm IST), updated 17:17 UTC; Univers Tennis published 17:20 UTC; duration 2h14 (Univers Tennis). Within the 9:00 to 11:15 pm window. Zverev, Medvedev, Tiafoe results finished earlier in the day (AP filed 8:47 am CT = 8:17 pm IST) and are context only."
     - "Score 2-6, 6-3, 6-3 in all three sources. Ranking 83 and qualifier status: Tennis Majors and AOL. Stats (37 v 18 winners, 3/7 v 2/11 break points): Univers Tennis only. Double faults at 3-5: Tennis Majors."
     - "Hijikata quotes ('wasn't sure whether I was going to be able to take the court today', 'maybe gotten a little bit passive under pressure') from AOL/Independent; neck pain from Univers Tennis. Pre-match quote on best season from Tennis Majors."
     - "Djokovic post-match comments not found; none used. AOL detail of him doubling over between points not used (single source)."
@@ -66,7 +66,7 @@ verification:
 
 Novak Djokovic's season is over. **Australian qualifier Rinky Hijikata** came from a set down to beat the seven-time champion 2-6, 6-3, 6-3 in the second round of the Paris Masters on Wednesday night, a result that also ends the Serbian's hopes of a place at the ATP Finals in Turin.
 
-Djokovic, seeded 10th, needed at least a semi-final in Paris to stay in the race for the season finale, which runs from 15 to 22 November. He raced through the first set, breaking at 4-2, and looked set to repeat their earlier meetings, all won by Djokovic in straight sets.
+Djokovic, seeded 10th, needed at least a semi-final in Paris to stay in the race for the season finale, which runs from November 15 to 22. He raced through the first set, breaking at 4-2, and looked set to repeat their earlier meetings, all won by Djokovic in straight sets.
 
 
 ## How the match turned

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ANI, Kasauli dateline 25 Oct, updated 3:30 am IST. He spoke to ANI on the sidelines; exact day of remarks not stated (festival opened Friday 23 Oct), so copy avoids naming the day."
+    - "Single source: ANI, Kasauli dateline Oct 25, updated 3:30 am IST. He spoke to ANI on the sidelines; exact day of remarks not stated (festival opened Friday, Oct 23), so copy avoids naming the day."
     - "All quotes verbatim from ANI. 'India must weigh' in headline paraphrases 'We must carefully consider the extent to which we should adopt these technologies'."
 ---
 

@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "CM remarks: IANS via Social News XYZ, published 16:04 UTC (9:34 pm IST) 20 Oct; single source. Exact quotes in English as carried by IANS (original likely Bengali). Source says remarks made at Swasthya Bhavan control room; it also mentions 'night of Navami', inconsistent with the Saptami stampede date; copy avoids that phrase."
+    - "CM remarks: IANS via Social News XYZ, published 16:04 UTC (9:34 pm IST) Oct 20; single source. Exact quotes in English as carried by IANS (original likely Bengali). Source says remarks made at Swasthya Bhavan control room; it also mentions 'night of Navami', inconsistent with the Saptami stampede date; copy avoids that phrase."
     - "Of 25 injured, 14 shifted to private hospitals per IANS; hospitals not named."
-    - "Ainul Haque arrest: IANS, 10:11 am IST 20 Oct; BNS 353(2); Additional CP (Crime) Kunal Agarwal identified him. CCTV: 30 cameras, footage from 13 secured."
+    - "Ainul Haque arrest: IANS, 10:11 am IST Oct 20; BNS 353(2); Additional CP (Crime) Kunal Agarwal identified him. CCTV: 30 cameras, footage from 13 secured."
 ---
 
 West Bengal Chief Minister Suvendu Adhikari on Tuesday defended the decision to send people injured in the Chorbagan pandal stampede to private hospitals, saying the move had kept the death toll from rising.

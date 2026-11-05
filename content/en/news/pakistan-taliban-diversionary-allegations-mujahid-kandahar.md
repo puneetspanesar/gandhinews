@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Ministry statement issued late Saturday 24 Oct (PTI dateline Islamabad 25 Oct; ThePrint 12:45 pm IST). Radio Pakistan page not fetched; listed as the official carrier from search result only."
+    - "Ministry statement issued late Saturday, Oct 24 (PTI dateline Islamabad Oct 25; ThePrint 12:45 pm IST). Radio Pakistan page not fetched; listed as the official carrier from search result only."
     - "Mujahid quote verbatim from PTI copy. Ministry quotes verbatim from PTI and The Nation."
     - "UN Monitoring Team 16th report and US Lead IG Jan-Mar 2026 report: The Nation only. TTP 4,000-6,000 estimate omitted (unclear which report)."
 ---

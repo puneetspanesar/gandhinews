@@ -11,7 +11,7 @@ published: 2026-10-15T17:50:00+05:30
 location: Bhopal
 keyPoints:
   - "A state-owned company with **₹100 crore** share capital will develop the Jabalpur-Bhopal-Indore industrial corridor."
-  - "Soybean farmers must register on the e-Uparjan portal by **17 October** to get Bhavantar payments."
+  - "Soybean farmers must register on the e-Uparjan portal by **October 17** to get Bhavantar payments."
   - "The cabinet cleared proposals worth about **₹27,050 crore** in all."
 hero:
   need: "Mantralaya (Vallabh Bhawan) in Bhopal, or Chief Minister Mohan Yadav at a cabinet meeting"
@@ -38,7 +38,7 @@ verification:
   notes:
     - "Cabinet met on Thursday afternoon; ANI copy timed 5:38 pm. Story timed shortly after."
     - "School infrastructure figure: ANI gives ₹2,875.20 crore; Bhopal Samachar and another headline (The Hawk) round it to ₹3,000 crore. Used ANI's figure."
-    - "Bhavantar: ANI reports cabinet approval under PM-AASHA with registration by 17 Oct and sales 22 Oct to 15 Jan; Bhopal Samachar treats it as already in force and says open-market prices are currently higher. Reported the approval and dates only."
+    - "Bhavantar: ANI reports cabinet approval under PM-AASHA with registration by Oct 17 and sales Oct 22 to Jan 15; Bhopal Samachar treats it as already in force and says open-market prices are currently higher. Reported the approval and dates only."
     - "Phase-one 2028 targets (₹1 lakh crore, 3 lakh jobs) only in Bhopal Samachar; three-year figures (₹3 lakh crore, 6 lakh jobs) in both."
     - "Yadav's quotes are as carried in English by ANI; likely translated from Hindi."
 ---
@@ -57,7 +57,7 @@ The government expects the corridor to draw more than ₹3 lakh crore of investm
 
 ## Soybean farmers and schools
 
-The cabinet approved the Bhavantar Bhugtan Yojana for soybean growers this kharif season, under the Centre's PM-AASHA scheme. Farmers have to register on the e-Uparjan portal by 17 October, and sales at notified mandis will count from 22 October 2026 to 15 January 2027.
+The cabinet approved the Bhavantar Bhugtan Yojana for soybean growers this kharif season, under the Centre's PM-AASHA scheme. Farmers have to register on the e-Uparjan portal by October 17, and sales at notified mandis will count from October 22, 2026, to January 15, 2027.
 
 For schools, ministers cleared ₹241.88 crore for bus services for students at 94 Sandipani schools run by the tribal affairs department. The yearly transport allowance per student goes up from ₹10,000 to ₹21,000, with a 5% rise each year, and district collectors will now decide bus operations and fares. A further ₹2,875.20 crore will go to building and expanding government schools, hostels, libraries and residential sports facilities.
 

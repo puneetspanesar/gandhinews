@@ -10,7 +10,7 @@ standfirst: "The Maharashtra Congress chief visited Pradeep Purnekar's family an
 published: 2026-10-24T19:05:00+05:30
 location: Thane
 keyPoints:
-  - "Shiv Sena (UBT) ward chief **Pradeep Purnekar** was shot and attacked with sharp weapons in Thane on 29 September."
+  - "Shiv Sena (UBT) ward chief **Pradeep Purnekar** was shot and attacked with sharp weapons in Thane on September 29."
   - "Police have arrested **five people** and questioned Rajendra Shinde, husband of a former mayor."
   - "Harshvardhan Sapkal said police were working to **\"protect the evildoers\"**."
 hero:
@@ -32,14 +32,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ThePrint, 6:49 pm. Year of the murder (29 September) not given in the copy; context indicates 2026."
+    - "Single source: PTI via ThePrint, 6:49 pm. Year of the murder (September 29) not given in the copy; context indicates 2026."
     - "No police or state government response in the source."
     - "Headline of the PTI copy has a typo ('protest' for 'protect'); the quote in the body reads 'protect the evildoers'."
 ---
 
 Maharashtra Congress president Harshvardhan Sapkal on Saturday accused the Thane police of shielding the people behind the murder of Shiv Sena (UBT) leader Pradeep Purnekar, saying officers had picked up only the men paid to carry it out.
 
-Purnekar, the party's Manpada ward chief, was shot at and then attacked with sharp weapons in a densely populated part of Thane on 29 September. Police have arrested five people and questioned Rajendra Shinde, the husband of former Thane mayor Meenakshi Shinde.
+Purnekar, the party's Manpada ward chief, was shot at and then attacked with sharp weapons in a densely populated part of Thane on September 29. Police have arrested five people and questioned Rajendra Shinde, the husband of former Thane mayor Meenakshi Shinde.
 
 Sapkal spoke to reporters after visiting Purnekar's family. "Instead of targeting the masterminds, the police are merely arresting hired hitmen," he said, adding that the police were working to "protect the evildoers".
 

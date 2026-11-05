@@ -22,7 +22,7 @@ hero:
     value: "'Failed product' meets 'show documents'"
 related: [bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, karnataka-gcc-csr-framework-priyank-kharge]
 seo:
-  description: "BJP MP Sudhanshu Trivedi on 23 October called Rahul Gandhi a 'failed product' who meets questionable people abroad; Priyank Kharge asked what RAW was doing."
+  description: "BJP MP Sudhanshu Trivedi on October 23 called Rahul Gandhi a 'failed product' who meets questionable people abroad; Priyank Kharge asked what RAW was doing."
 sources:
   - title: "BJP Press Conference: BJP ने साधा राहुल गांधी पर निशाना"
     publisher: "Live Times"
@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Trivedi's Hindi quotes and career claims (Monitor 1996-99, Backops 2003-09, 16-seat primaries in 2014): Live Times (23 Oct 12:13 pm) only; attributed to Trivedi and not independently checked. English quote 'Whenever Rahul Gandhi travels abroad...' from ANI via Asianet and The News Mill."
-    - "Asianet (ANI) says Kharge spoke 'on Saturday'; both reports timestamped about 5 am IST 24 Oct. Copy says his reply came 'early on Saturday' without a place, which neither report gives."
+    - "Trivedi's Hindi quotes and career claims (Monitor 1996-99, Backops 2003-09, 16-seat primaries in 2014): Live Times (Oct 23 12:13 pm) only; attributed to Trivedi and not independently checked. English quote 'Whenever Rahul Gandhi travels abroad...' from ANI via Asianet and The News Mill."
+    - "Asianet (ANI) says Kharge spoke 'on Saturday'; both reports timestamped about 5 am IST Oct 24. Copy says his reply came 'early on Saturday' without a place, which neither report gives."
     - "Thursday's Bhatia/Bhandari remarks: PTI via Nagaland Post. The underlying Fox News report was not read; it is described only as the BJP cited it."
     - "No Congress response to Trivedi beyond Priyank Kharge found."
 ---

@@ -22,7 +22,7 @@ hero:
     value: "AQI 226: poor for a second day"
 related: [delhi-grap-stage-one-aqi-245-season-first-poor-day, delhi-aqi-233-poor-very-poor-forecast-thursday, delhi-air-set-to-turn-poor-stubble-fires-dry-week, grap-explained-delhi-air-stages-what-is-banned]
 seo:
-  description: "Delhi's AQI stood at 226 (poor) at 7 am on 22 October 2026 per CPCB, as CAQM ordered the MCD to tighten dust control under GRAP Stage I."
+  description: "Delhi's AQI stood at 226 (poor) at 7 am on October 22, 2026, per CPCB, as CAQM ordered the MCD to tighten dust control under GRAP Stage I."
 sources:
   - title: "Delhi AQI remains poor at 226; CAQM enforces GRAP-1, orders stricter dust control"
     publisher: "NewsDrum"
@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "AQI 226 at 7 am (CPCB): NewsDrum 10:17 am; PTI via ThePrint 9:46 am gives 226 without hour. CPCB 4 pm daily bulletin for 22 Oct not out at time of writing."
+    - "AQI 226 at 7 am (CPCB): NewsDrum 10:17 am; PTI via ThePrint 9:46 am gives 226 without hour. CPCB 4 pm daily bulletin for Oct 22 not out at time of writing."
     - "Wednesday peak: PTI says 245 (100-day high), NewsDrum/ANI say 244 at 2 pm; used 245 as in earlier Gandhi News story and PTI. Jahangirpuri 309, Chandni Chowk 307 attributed to CPCB Wednesday readings (NewsDrum, ANI)."
     - "ANI also cited a 'government dashboard' 299 at 10:31 am and station values (Patparganj 298, ITO 280); source of these readings unclear, left out."
     - "CAQM chair Rajesh Verma review with Delhi Chief Secretary and MCD figures from NewsDrum only; date of the review meeting not stated, written without a day."
-    - "Lucknow Lalbagh AQI 223 from ANI only. Rain on 24-25 Oct: IMD outlook as reported by DNA (21 Oct)."
+    - "Lucknow Lalbagh AQI 223 from ANI only. Rain on Oct 24-25: IMD outlook as reported by DNA (Oct 21)."
 ---
 
 Delhi woke to a second straight day of 'poor' air on Thursday, with the city's air quality index at 226 at 7 am according to Central Pollution Control Board data, as the air quality commission turned its attention to the dust rising off the capital's roads and building sites.
@@ -72,7 +72,7 @@ Stage I measures also cover tighter road sweeping, water sprinkling and action a
 
 The weather offered little help. The minimum temperature was 19.7 degrees Celsius, 1.7 degrees above normal, and humidity stood at 89 per cent at 8:30 am. Skies were forecast to stay mainly clear with a high near 32 degrees.
 
-Relief may come at the weekend. The weather office expects isolated to scattered rain over Delhi, Haryana and Punjab on 24 and 25 October as a western disturbance moves in.
+Relief may come at the weekend. The weather office expects isolated to scattered rain over Delhi, Haryana and Punjab on October 24 and 25 as a western disturbance moves in.
 
 Delhi is not alone. In Lucknow, the municipal corporation sprayed water on main roads as the Lalbagh station recorded an AQI of 223, also in the 'poor' range.
 

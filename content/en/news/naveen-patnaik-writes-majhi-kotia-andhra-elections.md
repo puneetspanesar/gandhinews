@@ -11,8 +11,8 @@ published: 2026-11-04T19:15:00+05:30
 location: Bhubaneswar
 keyPoints:
   - "Naveen Patnaik asked Mohan Charan Majhi to **raise Kotia with the Centre and Andhra Pradesh**."
-  - "He called Andhra's decision to **hold elections in Kotia on 5 November** a serious concern."
-  - "It is his **second letter in about two weeks**, after one on 19 October."
+  - "He called Andhra's decision to **hold elections in Kotia on November 5** a serious concern."
+  - "It is his **second letter in about two weeks**, after one on October 19."
 hero:
   need: "Odisha Leader of Opposition Naveen Patnaik, and Chief Minister Mohan Charan Majhi"
   suggested_source: "Naveen Patnaik"
@@ -30,14 +30,14 @@ infographic:
   headline: "Naveen writes again to Majhi on Kotia"
   motif: map-pin-area
   timeline:
-    - {date: "19 Oct", text: "Naveen's first letter to the Chief Minister", icon: file-text}
-    - {date: "27 Oct", text: "Majhi replies", icon: file-text}
-    - {date: "4 Nov", text: "Second letter warns tension has grown", icon: warning}
-    - {date: "5 Nov", text: "Andhra Pradesh elections in Kotia", icon: clock}
+    - {date: "Oct 19", text: "Naveen's first letter to the Chief Minister", icon: file-text}
+    - {date: "Oct 27", text: "Majhi replies", icon: file-text}
+    - {date: "Nov 4", text: "Second letter warns tension has grown", icon: warning}
+    - {date: "Nov 5", text: "Andhra Pradesh elections in Kotia", icon: clock}
   source: "Naveen Patnaik's letter, November 4, 2026"
 related: []
 seo:
-  description: "Naveen Patnaik wrote to Odisha CM Mohan Charan Majhi on 4 November urging him to take up the Kotia dispute with the Centre and Andhra Pradesh before Andhra's 5 November polls there."
+  description: "Naveen Patnaik wrote to Odisha CM Mohan Charan Majhi on November 4 urging him to take up the Kotia dispute with the Centre and Andhra Pradesh before Andhra's November 5 polls there."
 sources:
   - title: "Naveen Urges CM to Protect Odisha's Territorial Integrity in Kotia"
     publisher: "The News Insight"
@@ -47,17 +47,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 19:11 IST, The News Insight publication time (13:41 UTC) of Naveen's letter dated 4 Nov; exact time the letter was released not given."
-    - "Single source. Nature of the 5 Nov Andhra elections (panchayat or other) not stated; written only as 'elections'. Majhi's 27 Oct reply contents and any response to this letter not reported. No specific incident between officials described."
+    - "event: Nov 4 19:11 IST, The News Insight publication time (13:41 UTC) of Naveen's letter dated Nov 4; exact time the letter was released not given."
+    - "Single source. Nature of the Nov 5 Andhra elections (panchayat or other) not stated; written only as 'elections'. Majhi's Oct 27 reply contents and any response to this letter not reported. No specific incident between officials described."
 ---
 
 Leader of Opposition Naveen Patnaik on Wednesday urged Odisha Chief Minister Mohan Charan Majhi to **take up the Kotia dispute "at the highest level"** with the Union government and Andhra Pradesh, a day before Andhra holds elections in the contested area.
 
-In a letter dated 4 November, the Biju Janata Dal chief said he was concerned about "the growing tension between officials of Odisha and Andhra Pradesh". Andhra's decision to go ahead with **elections in Kotia on 5 November** was "a matter of serious concern" for Odisha, he wrote.
+In a letter dated November 4, the Biju Janata Dal chief said he was concerned about "the growing tension between officials of Odisha and Andhra Pradesh". Andhra's decision to go ahead with **elections in Kotia on November 5** was "a matter of serious concern" for Odisha, he wrote.
 
 ## A second letter
 
-Naveen had written to Majhi on the same subject on 19 October and received a reply on 27 October. Since then, he said, the situation had **"further deteriorated"**, with reports of rising tension and confrontation between officials of the two states.
+Naveen had written to Majhi on the same subject on October 19 and received a reply on October 27. Since then, he said, the situation had **"further deteriorated"**, with reports of rising tension and confrontation between officials of the two states.
 
 He pointed out that both Odisha and Andhra Pradesh are now ruled by parties of the BJP-led National Democratic Alliance. "Urgent steps must be taken to protect Odisha's territorial integrity, as promised in the BJP's 2024 election manifesto," he wrote, adding that the Chief Minister "has a moral responsibility to protect the state's legitimate interests and ensure that the situation does not escalate further."
 

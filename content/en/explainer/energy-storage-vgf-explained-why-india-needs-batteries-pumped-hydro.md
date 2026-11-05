@@ -33,7 +33,7 @@ infographic:
       - {label: "Sep 2023", value: 3760, display: "3,760"}
       - {label: "Jun 2025", value: 5400, display: "5,400"}
       - {label: "Nov 2026", value: 14500, display: "14,500"}
-  source: "Union Cabinet decisions, September 6, 2023 and November 4, 2026; Ministry of Power, June 10, 2025"
+  source: "Union Cabinet decisions, September 6, 2023, and November 4, 2026; Ministry of Power, June 10, 2025"
 related: [cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814]
 seo:
   description: "What is viability gap funding, why India needs battery and pumped hydro storage for solar power, how the ₹14,500 crore scheme for 92 GWh of storage works, and what the ₹2,814 crore lithium and nickel processing scheme does."
@@ -71,8 +71,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Nov 4 scheme figures (₹14,500 cr, FY27-FY31, 92 GWh = 60 PSP + 30 BESS + 2 other, 170% of current capacity, 411 GWh need by 2031-32, ₹97,600 cr investment, 40% DCR, tariff-based bidding, discoms eligible; minerals ₹2,814 cr, 30% capex, 2 lithium min 30 kt cap ₹500 cr, 2 nickel min 50 kt cap ₹900 cr, three tranches) from the desk's news story cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814 and its IANS sources. No minister quote from the 4 Nov briefing found; none used."
-    - "2023 scheme (6 Sep 2023; 4,000 MWh; up to 40% of capital cost; ₹3,760 cr budget support within ₹9,400 cr outlay; LCOS target ₹5.50-6.60 per kWh; 85% capacity to discoms) from pmindia.gov.in; Anurag Thakur quote from DT Next."
+    - "Nov 4 scheme figures (₹14,500 cr, FY27-FY31, 92 GWh = 60 PSP + 30 BESS + 2 other, 170% of current capacity, 411 GWh need by 2031-32, ₹97,600 cr investment, 40% DCR, tariff-based bidding, discoms eligible; minerals ₹2,814 cr, 30% capex, 2 lithium min 30 kt cap ₹500 cr, 2 nickel min 50 kt cap ₹900 cr, three tranches) from the desk's news story cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814 and its IANS sources. No minister quote from the Nov 4 briefing found; none used."
+    - "2023 scheme (Sep 6, 2023; 4,000 MWh; up to 40% of capital cost; ₹3,760 cr budget support within ₹9,400 cr outlay; LCOS target ₹5.50-6.60 per kWh; 85% capacity to discoms) from pmindia.gov.in; Anurag Thakur quote from DT Next."
     - "June 2025 round (₹5,400 cr from PSDF, 30 GWh, ₹18 lakh per MWh, 25 GWh to 15 states and 5 GWh to NTPC, 2-hour duration preferred, 18 months to commission, 20/50/30 payment) from Energetica India; Khattar quote and CEA projection of 236 GWh BESS by 2031-32 from Business Standard. Business Standard also says the first tranche covered 13.2 GWh, not reconciled with 4,000 MWh; copy uses the Cabinet's 4,000 MWh."
     - "Whether the 30 GWh BESS in the Nov 2026 scheme overlaps with the June 2025 30 GWh round is not stated in sources read; copy does not say either way."
     - "A May 2026 report (Whalesbook) of a ₹15,000 crore, 112 GWh proposal not used."
@@ -118,7 +118,7 @@ Batteries are quicker to set up and can respond in fractions of a second, which 
 **From a small pilot to a much larger round.** In September 2023 the Cabinet approved its first battery scheme, ₹3,760 crore of budget support for 4,000 MWh, covering up to 40% of each project's capital cost. "We don't have the capacity," the then minister Anurag Thakur said at the time. In June 2025 the Power Ministry added ₹5,400 crore from the Power System Development Fund for 30 GWh of batteries, at ₹18 lakh per MWh.
 
 ```timeline
-{"title":"India's push for grid storage","items":[{"date":"September 2023","text":"Cabinet approves ₹3,760 crore viability gap funding for 4,000 MWh of batteries"},{"date":"June 2025","text":"Power Ministry adds ₹5,400 crore for 30 GWh of batteries across 15 states and NTPC"},{"date":"4 November 2026","text":"Cabinet clears ₹14,500 crore for 92 GWh of storage, mostly pumped hydro"},{"date":"4 November 2026","text":"Separate ₹2,814 crore scheme backs lithium and nickel processing"},{"date":"2031-32","text":"Government estimates India will need 411 GWh of storage"}]}
+{"title":"India's push for grid storage","items":[{"date":"September 2023","text":"Cabinet approves ₹3,760 crore viability gap funding for 4,000 MWh of batteries"},{"date":"June 2025","text":"Power Ministry adds ₹5,400 crore for 30 GWh of batteries across 15 states and NTPC"},{"date":"November 4, 2026","text":"Cabinet clears ₹14,500 crore for 92 GWh of storage, mostly pumped hydro"},{"date":"November 4, 2026","text":"Separate ₹2,814 crore scheme backs lithium and nickel processing"},{"date":"2031-32","text":"Government estimates India will need 411 GWh of storage"}]}
 ```
 
 ## Who gets the money and on what terms?

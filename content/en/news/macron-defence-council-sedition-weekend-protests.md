@@ -10,9 +10,9 @@ standfirst: "The French president condemned far-left 'sedition' after the worst 
 published: 2026-10-22T18:50:00+05:30
 location: Paris
 keyPoints:
-  - "Macron will chair a **defence council on Friday** ahead of mass demonstrations on 24 October."
+  - "Macron will chair a **defence council on Friday** ahead of mass demonstrations on October 24."
   - "Only **trade-union marches** will be authorised nationwide on Saturday."
-  - "Police numbers will rise by about **20%** on the 17 October deployment of some 60,000."
+  - "Police numbers will rise by about **20%** on the October 17 deployment of some 60,000."
 hero:
   need: "French President Emmanuel Macron, and La France insoumise founder Jean-Luc Mélenchon"
   suggested_source: "Emmanuel Macron"
@@ -22,7 +22,7 @@ hero:
     value: "Only union marches on Saturday"
 related: [france-protests-550000-limoges-city-hall-fire-macron, france-lecornu-new-curfews-unrest, macron-anger-shame-france-riots-2400-arrested, macron-admits-failures-rejects-minister-resignation, india-advisory-citizens-france-protests-embassy]
 seo:
-  description: "Macron convened a defence council for 23 October and limited Saturday's protests to union marches, blaming far-left 'sedition' for France's worst unrest in years."
+  description: "Macron convened a defence council for October 23 and limited Saturday's protests to union marches, blaming far-left 'sedition' for France's worst unrest in years."
 sources:
   - title: "France's Macron convenes defence council ahead of fresh weekend protests"
     publisher: "Euronews"
@@ -44,9 +44,9 @@ President Emmanuel Macron will chair an emergency defence council on Friday and 
 
 "A defence council meeting will be convened tomorrow under my chairmanship, and we will take further decisions," Macron said on Thursday after meeting intelligence chiefs. He condemned what he called "sedition" by far-left groups, saying they posed a "grave danger" to the Republic.
 
-Protests on 17 October, joined by unions, Yellow Vest activists and students angry about living costs, the state of schools and fuel prices, ended in looting and clashes with police. Interior Minister Laurent Nuñez had expected about 200,000 people; between 550,000 and 800,000 turned out. The authorities have acknowledged that intelligence services underestimated the scale.
+Protests on October 17, joined by unions, Yellow Vest activists and students angry about living costs, the state of schools and fuel prices, ended in looting and clashes with police. Interior Minister Laurent Nuñez had expected about 200,000 people; between 550,000 and 800,000 turned out. The authorities have acknowledged that intelligence services underestimated the scale.
 
-For Saturday, prefects can ban unauthorised gatherings, especially those called by groups lacking what the government calls "legitimacy". Some 60,000 police and gendarmes were deployed on 17 October, and that force is expected to grow by about a fifth, backed by Sentinelle soldiers and elite units. Several city centres have been under curfew since Monday.
+For Saturday, prefects can ban unauthorised gatherings, especially those called by groups lacking what the government calls "legitimacy". Some 60,000 police and gendarmes were deployed on October 17, and that force is expected to grow by about a fifth, backed by Sentinelle soldiers and elite units. Several city centres have been under curfew since Monday.
 
 ## A fractious meeting ahead
 

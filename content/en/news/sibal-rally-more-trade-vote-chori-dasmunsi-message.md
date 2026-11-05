@@ -22,7 +22,7 @@ hero:
     value: "'There will be more trade'"
 related: [khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, india-bloc-rally-venugopal-stern-warning-modi-shah, nadda-anarchy-model-india-bloc-rally-sood-chaos, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-ramlila-maidan-rally-today-preview]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Kapil Sibal says the Ramlila Maidan rally will bring Delhi traders more business and the opposition will keep 'vote chori' before the nation; Deepa Dasmunsi calls it a message to CEC Gyanesh Kumar."
+  description: "INDIA bloc rally, November 1, 2026: Kapil Sibal says the Ramlila Maidan rally will bring Delhi traders more business and the opposition will keep 'vote chori' before the nation; Deepa Dasmunsi calls it a message to CEC Gyanesh Kumar."
 sources:
   - title: "\"There will be more trade\": Kapil Sibal says INDIA bloc's 'Chalo Delhi' rally will benefit traders"
     publisher: "Daily Prabhat (ANI)"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, Sibal remarks shortly before 13:34 IST (ANI copy on Daily Prabhat published 08:04 UTC = 13:34 IST); exact minute not given. Source says 'while speaking at the rally', not explicitly from the stage; copy says 'at the rally'."
+    - "event: Nov 1, Sibal remarks shortly before 13:34 IST (ANI copy on Daily Prabhat published 08:04 UTC = 13:34 IST); exact minute not given. Source says 'while speaking at the rally', not explicitly from the stage; copy says 'at the rally'."
     - "Single source (ANI via Daily Prabhat) for Sibal and Dasmunsi quotes, verbatim in English as published. Where Dasmunsi spoke not stated."
-    - "Rahul Gandhi quotes are from his X video message posted Saturday 31 Oct, labelled as such. 'A week before Diwali' and 5 pm deadline from Ada Derana (agencies, 15:13 IST page)."
+    - "Rahul Gandhi quotes are from his X video message posted Saturday, Oct 31, labelled as such. 'A week before Diwali' and 5 pm deadline from Ada Derana (agencies, 15:13 IST page)."
 ---
 
 The INDIA bloc's rally will **bring Delhi's traders more business, not less**, Rajya Sabha MP Kapil Sibal said at Ramlila Maidan on Sunday afternoon, pushing back against fears that a massive political gathering a week before Diwali would hurt the city's markets.

@@ -22,7 +22,7 @@ hero:
     value: "'Barricades are being put up everywhere'"
 related: [india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, nadda-anarchy-model-india-bloc-rally-sood-chaos, india-bloc-convoy-connaught-place-tejashwi-crush-democracy]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Congress MP Deepender Hooda alleges barricades to slow rally-goers from Haryana, Sachin Pilot says the government is using pressure to silence people."
+  description: "INDIA bloc rally, November 1, 2026: Congress MP Deepender Hooda alleges barricades to slow rally-goers from Haryana, Sachin Pilot says the government is using pressure to silence people."
 sources:
   - title: "INDIA bloc rally: Congress leaders allege attempts to obstruct people from reaching Ramlila Maidan"
     publisher: "Daily Prabhat (ANI)"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, remarks made shortly before 13:42 IST (ANI copy published 08:12 UTC = 13:42 IST); exact minute not given. Placed in the 13:10-13:42 window as 'early afternoon'."
+    - "event: Nov 1, remarks made shortly before 13:42 IST (ANI copy published 08:12 UTC = 13:42 IST); exact minute not given. Placed in the 13:10-13:42 window as 'early afternoon'."
     - "Single source (ANI via Daily Prabhat) for the Hooda and Pilot remarks; quotes verbatim in English as published. Pilot described by source as Punjab Congress in-charge; copy uses 'senior Congress leader' only."
     - "Nabin protest outside the Hooda residence is Deepender Hooda's claim; earlier site story bjp-rohtak-padyatra-nabin-counter-india-bloc-rally covers the BJP march itself. No response from Haryana Police or BJP found."
     - "5 pm deadline: Ada Derana (BBC-sourced, 15:13 IST page) and earlier site stories."

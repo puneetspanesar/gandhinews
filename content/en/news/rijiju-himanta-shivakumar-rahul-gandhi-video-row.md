@@ -42,9 +42,9 @@ verification:
   status: approved
   notes:
     - "The video is described by all outlets as 'purported'; we have not seen it. Written as 'appears to show'."
-    - "Day of Rijiju's post unclear: Asianet says dated 13 Oct, Deccan Chronicle says Wednesday. Day not stated in copy."
+    - "Day of Rijiju's post unclear: Asianet says dated Oct 13, Deccan Chronicle says Wednesday. Day not stated in copy."
     - "No response from Rahul Gandhi or the Congress party found by about 8 am."
-    - "Shivakumar became CM in June 2026 (ThePrint, 13 Oct, sting row story); not stated in copy."
+    - "Shivakumar became CM in June 2026 (ThePrint, Oct 13, sting row story); not stated in copy."
 ---
 
 Union Parliamentary Affairs Minister Kiren Rijiju has urged Karnataka Chief Minister DK Shivakumar to stand up to Rahul Gandhi over a video from Monday's INDIA bloc march in Delhi, which the BJP says shows Gandhi humiliating him. Shivakumar has brushed the charge aside.

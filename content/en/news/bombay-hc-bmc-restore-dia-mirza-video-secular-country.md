@@ -22,7 +22,7 @@ hero:
     value: "'Restore it'"
 related: [bombay-high-court-street-firecracker-ban-all-festivals, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
 seo:
-  description: "The Bombay High Court on 3 November 2026 asked the BMC to restore actor Dia Mirza's anti-firecracker video, removed after objections from BJP leaders, and criticised political remarks against her."
+  description: "The Bombay High Court on November 3, 2026, asked the BMC to restore actor Dia Mirza's anti-firecracker video, removed after objections from BJP leaders, and criticised political remarks against her."
 sources:
   - title: "'Petty-Mindedness': Bombay HC Rebukes Takedown Of Dia Mirza's Eco-Diwali Video, Asks BMC To Restore Celebrity Campaign Clip"
     publisher: "Free Press Journal"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov morning hearing, Bombay HC bench of Justices Girish Kulkarni and Neela Gokhale, in the suo motu case on festival noise and air pollution. IANS copy timestamped 12:51 IST, FPJ updated 13:00 IST. Exact hearing time not given."
+    - "event: Nov 3 morning hearing, Bombay HC bench of Justices Girish Kulkarni and Neela Gokhale, in the suo motu case on festival noise and air pollution. IANS copy timestamped 12:51 IST, FPJ updated 13:00 IST. Exact hearing time not given."
     - "Court quotes from FPJ. 'India is a secular country' is reported by IANS in indirect speech, so kept out of quote marks."
     - "Ameet Satam's objections reported but not quoted. Mayor Ritu Tawde's remarks are reported paraphrase (Hindutva, Hindus need no lessons on Diwali, selective agenda). Mirza quote given to IANS on Monday."
     - "Next hearing date not reported. Whether the BMC has already restored the clip not reported."
@@ -55,7 +55,7 @@ cover:
 
 The Bombay High Court on Tuesday asked the Brihanmumbai Municipal Corporation (BMC) to **put Dia Mirza's anti-firecracker video back online**, and sharply criticised the political leaders whose objections got it taken down.
 
-A bench of Justices Girish Kulkarni and Neela Gokhale was hearing the case it began on its own on noise and air pollution during festivals. The actor's message, asking people not to burst crackers on public roads at Diwali, was recorded for the civic body's awareness drive after the court's orders of 15 October, which had suggested **bringing in celebrities** to spread the word. The BMC removed it from its social media handles after Mumbai BJP chief Ameet Satam objected.
+A bench of Justices Girish Kulkarni and Neela Gokhale was hearing the case it began on its own on noise and air pollution during festivals. The actor's message, asking people not to burst crackers on public roads at Diwali, was recorded for the civic body's awareness drive after the court's orders of October 15, which had suggested **bringing in celebrities** to spread the word. The BMC removed it from its social media handles after Mumbai BJP chief Ameet Satam objected.
 
 ```photo
 {"n":1,"subject":"Bombay High Court","caption":"The Bombay High Court in Mumbai, where Justices Girish Kulkarni and Neela Gokhale heard the festival pollution case.","alt":"The Bombay High Court building, Mumbai"}

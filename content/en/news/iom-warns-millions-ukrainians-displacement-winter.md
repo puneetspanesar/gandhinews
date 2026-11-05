@@ -32,10 +32,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "IOM report released 16 Oct; read via Kyiv Independent only (IOM page not opened). Figures as reported there."
+    - "IOM report released Oct 16; read via Kyiv Independent only (IOM page not opened). Figures as reported there."
     - "Erken's quote is the only direct quote available; his further remarks paraphrased."
     - "1.56 million figure is returnees as of June 2026 living in frontline districts; 4.1 million total returnees excludes IDPs."
-    - "13-14 Oct Kyiv attack details (Koretskyi; at least three women killed per Kyiv police) from same article; casualty totals inconsistent in source, so only 'at least three' used."
+    - "Oct 13-14 Kyiv attack details (Koretskyi; at least three women killed per Kyiv police) from same article; casualty totals inconsistent in source, so only 'at least three' used."
 ---
 
 Russia's attacks on Ukrainian homes and power supplies could force millions of people from their homes this winter, the United Nations migration agency has warned, as many who returned after fleeing the war struggle to keep warm and safe.
@@ -52,6 +52,6 @@ In all, about 4.1 million people have returned to Ukraine, a figure that does no
 
 ## A grid under attack
 
-The warning comes as Russia steps up its strikes on Ukraine's energy system ahead of winter. In an attack on 13 and 14 October, Prime Minister Serhii Koretskyi said, all three of Kyiv's combined heat and power stations were hit, along with infrastructure in the Kyiv region that supplies electricity to the capital and central Ukraine. Kyiv police said at least three women were killed in a strike on a residential building.
+The warning comes as Russia steps up its strikes on Ukraine's energy system ahead of winter. In an attack on October 13 and 14, Prime Minister Serhii Koretskyi said, all three of Kyiv's combined heat and power stations were hit, along with infrastructure in the Kyiv region that supplies electricity to the capital and central Ukraine. Kyiv police said at least three women were killed in a strike on a residential building.
 
 Overnight into Saturday, Russian drones and missiles were again striking energy facilities in western and central Ukraine.

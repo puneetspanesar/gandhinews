@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All throttling details, quotes (Zelenskyy to Piers Morgan Uncensored, Shaheen, Sikorski, Beskrestnov) and the Kyiv toll of at least nine rest on one Al Jazeera report that pooled AFP and Reuters. A second independent report dated 14 Oct could not be found within the search budget; searches returned August 2026 Kyiv strikes with similar tolls, which were NOT used."
+    - "All throttling details, quotes (Zelenskyy to Piers Morgan Uncensored, Shaheen, Sikorski, Beskrestnov) and the Kyiv toll of at least nine rest on one Al Jazeera report that pooled AFP and Reuters. A second independent report dated Oct 14 could not be found within the search budget; searches returned August 2026 Kyiv strikes with similar tolls, which were NOT used."
     - "Shaheen and Sikorski remarks are paraphrased; only 'cannot be a coincidence', 'a big mistake', 'painful' and 'has to stay in the middle' are used as direct words, as given by Al Jazeera."
     - "US threat to cut early-warning intelligence rests on unnamed sources speaking to Reuters (via Al Jazeera); attributed as such."
     - "ThePrint item listed for context on the diesel deal (headline only read); no facts taken from it."
@@ -64,6 +64,6 @@ People familiar with the matter have said Washington threatened to withhold the 
 
 ## An uneasy truce
 
-The pressure follows Trump's announcement on 11 October of an "energy ceasefire" between Russia and Ukraine, which the Kremlin has never confirmed and which Russian strikes on Ukraine's grid have repeatedly tested. Last week Trump lifted sanctions on Russian diesel to ease soaring fuel prices at home, and on Saturday he blamed Zelenskyy for high diesel prices in the US.
+The pressure follows Trump's announcement on October 11 of an "energy ceasefire" between Russia and Ukraine, which the Kremlin has never confirmed and which Russian strikes on Ukraine's grid have repeatedly tested. Last week Trump lifted sanctions on Russian diesel to ease soaring fuel prices at home, and on Saturday he blamed Zelenskyy for high diesel prices in the US.
 
 Zelenskyy said it was "painful" that Trump had picked a side. If the United States is in the middle, he said, it "has to stay in the middle".

@@ -82,19 +82,19 @@ sources:
 verification:
   status: approved
   notes:
-    - "Update 14 Oct, 8:30 am IST. New: LiveLaw (13 Oct, 11:42 am) on pleas over the crowd in SC premises, mentioned by Gaurav Bhatia and Mahesh Jethmalani, CJI agreed to list Thursday; petitioners not named and relief sought not stated in the report. Entry around 7 pm through Gate B per a tweet LiveLaw cites; written as 'on Monday evening'."
-    - "Contempt plea against Congress, Rahul Gandhi, Kharge, KPCC, Mahua Moitra, Akhilesh Yadav: Bar & Bench, 13 Oct, 11:36 am; listing date not reported."
+    - "Update Oct 14, 8:30 am IST. New: LiveLaw (Oct 13, 11:42 am) on pleas over the crowd in SC premises, mentioned by Gaurav Bhatia and Mahesh Jethmalani, CJI agreed to list Thursday; petitioners not named and relief sought not stated in the report. Entry around 7 pm through Gate B per a tweet LiveLaw cites; written as 'on Monday evening'."
+    - "Contempt plea against Congress, Rahul Gandhi, Kharge, KPCC, Mahua Moitra, Akhilesh Yadav: Bar & Bench, Oct 13, 11:36 am; listing date not reported."
     - "Still no on-record police statement or FIR copy found as of this update. FIR count: two (Tribune, Hans India/PTI, Business Today/ANI) vs four (Statesman, Telangana Today: two Tilak Marg, one Mandir Marg, one Barakhamba). Updated copy goes with the later 'police sources' count of four, attributed. Slug keeps 'two' as originally briefed."
     - "Shivakumar described as Karnataka CM by LiveLaw and Tribune caption."
     - "Rahul Gandhi named: Tribune only ('reportedly names INDIA bloc leaders, including Rahul Gandhi'). Other named persons not reported."
     - "No Congress response to the FIRs found by this update. Gandhi's Tuesday afternoon meeting at his residence covered by the politics desk separately; not used here."
-    - "Rahul Gandhi's SIR petition: LiveLaw 13 Oct says filed by Gandhi and nine others; earlier The Week said Gandhi and 10 others. Neither number used in this update. No order on it on 13 Oct."
-    - "BJP quotes are from 12 Oct (Paswan via Zee News; Chouhan via Business Today)."
+    - "Rahul Gandhi's SIR petition: LiveLaw Oct 13 says filed by Gandhi and nine others; earlier The Week said Gandhi and 10 others. Neither number used in this update. No order on it on Oct 13."
+    - "BJP quotes are from Oct 12 (Paswan via Zee News; Chouhan via Business Today)."
 ---
 
 The Supreme Court will hear pleas on Thursday over the crowd that gathered inside its premises on Monday evening, when INDIA bloc leaders and their supporters entered the court complex at the end of their march against the Election Commission.
 
-Senior advocates Gaurav Bhatia and Mahesh Jethmalani mentioned the petitions, filed by lawyers, before Chief Justice Surya Kant on Tuesday morning and asked for an urgent hearing. The Chief Justice agreed to list them on Thursday, 15 October, the same day the court takes up the petitions over the Delhi protest detentions.
+Senior advocates Gaurav Bhatia and Mahesh Jethmalani mentioned the petitions, filed by lawyers, before Chief Justice Surya Kant on Tuesday morning and asked for an urgent hearing. The Chief Justice agreed to list them on Thursday, October 15, the same day the court takes up the petitions over the Delhi protest detentions.
 
 ## Four FIRs, police sources say
 

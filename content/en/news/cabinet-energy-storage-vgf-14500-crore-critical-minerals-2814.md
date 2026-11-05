@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov afternoon IST, Cabinet decisions released in official statement; IANS stories timestamped 15:36 and 15:48 IST."
+    - "event: Nov 4 afternoon IST, Cabinet decisions released in official statement; IANS stories timestamped 15:36 and 15:48 IST."
     - "Both IANS stories read via summary only (no verbatim text); no minister briefing or individual quotes found, so none used. Only quoted phrase is from the official statement as cited by IANS."
     - "Storage: 14,500 cr, FY27-FY31; 92 GWh = 60 pumped hydro + 30 BESS + 2 alternative; 170% of current capacity; 411 GWh need by 2031-32; 97,600 cr investment; 40% DCR for BESS; tariff-based bidding. Minerals: 2,814 cr over 5 yrs; 30% capex subsidy; 2 lithium (min 30 kt) + 2 nickel (min 50 kt); caps 500/900 cr; least-cost two-stage bidding; three tranches."
 infographic:

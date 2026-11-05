@@ -10,9 +10,9 @@ standfirst: "India made 223 in Indore and held West Indies to 209 for 7 to win t
 published: 2026-10-12T08:00:00+05:30
 location: Indore
 keyPoints:
-  - "India beat West Indies **by 14 runs** at the Holkar Stadium on 11 October."
+  - "India beat West Indies **by 14 runs** at the Holkar Stadium on October 11."
   - "Abhishek Sharma hit **69 off 30 balls**; Arshdeep Singh took **3 for 44** and was player of the match."
-  - "India lead the five-match series **2-1**, with the fourth T20I in Hyderabad on 14 October."
+  - "India lead the five-match series **2-1**, with the fourth T20I in Hyderabad on October 14."
 hero:
   need: "Holkar Cricket Stadium, Indore, or Arshdeep Singh bowling for India"
   suggested_source: "Wikimedia Commons search 'Holkar Cricket Stadium Indore' or 'Arshdeep Singh'"
@@ -91,7 +91,7 @@ Sherfane Rutherford (32 off 20) and Quentin Sampson (21 off 15) kept the asking 
 
 > It was pretty nice, the ball was reversing a bit and it's always pretty fun to bowl at the death with some reverse swing.
 >
-> Source: Arshdeep Singh, India fast bowler and player of the match, 11 October 2026
+> Source: Arshdeep Singh, India fast bowler and player of the match, October 11, 2026
 
 ## The changes that worked
 
@@ -103,4 +103,4 @@ The win made India the first side in this series to win batting first. Iyer's un
 
 ## What's next
 
-The fourth T20I is at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday, 14 October, at 7 pm IST. The series ends at the M. Chinnaswamy Stadium in Bengaluru on 17 October.
+The fourth T20I is at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday, October 14, at 7 pm IST. The series ends at the M. Chinnaswamy Stadium in Bengaluru on October 17.

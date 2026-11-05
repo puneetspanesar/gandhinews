@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Advisory contents (inter-departmental committee review, similar reports and visuals across channels, AI 'may be limited to assistive capacity', panellist screening, mute/warn/stop feed, Cable Television Networks (Regulation) Act 1995 and Rules 1994, no penalties set out, no channels named) from the desk's 21 Oct news story, single source IANS. The advisory text itself was not seen."
+    - "Editorial view of the desk. Advisory contents (inter-departmental committee review, similar reports and visuals across channels, AI 'may be limited to assistive capacity', panellist screening, mute/warn/stop feed, Cable Television Networks (Regulation) Act 1995 and Rules 1994, no penalties set out, no channels named) from the desk's Oct 21 news story, single source IANS. The advisory text itself was not seen."
     - "The three-tier grievance system under the Cable Television Networks (Amendment) Rules, 2021 is standard background; not checked against the gazette in this run."
     - "Recommendations are the desk's own."
 ---
@@ -64,5 +64,5 @@ Third, the standards on abuse and incitement should be the ones already in law a
 Better television news is a goal the government and viewers share. It will come from rules everyone can read and apply, not from warnings passed quietly to broadcasters.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"0","label":"channels or programmes named in the ministry's advisory of 21 October"},{"value":"'Assistive'","label":"the only limit the advisory sets on AI in news and programmes"},{"value":"1995","label":"year of the Cable Television Networks Act under which the Programme Code sits"}]}
+{"title":"The reporting behind this view","items":[{"value":"0","label":"channels or programmes named in the ministry's advisory of October 21"},{"value":"'Assistive'","label":"the only limit the advisory sets on AI in news and programmes"},{"value":"1995","label":"year of the Cable Television Networks Act under which the Programme Code sits"}]}
 ```

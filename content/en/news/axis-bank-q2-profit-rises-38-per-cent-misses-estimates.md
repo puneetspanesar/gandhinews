@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Axis Bank's net profit rose **38% to ₹7,003 crore** from ₹5,089 crore a year earlier."
   - "Advances grew **23% from a year ago** and 9% from the June quarter."
-  - "The bank had raised **$10.62 billion in FCNR-B deposits** by 30 September."
+  - "The bank had raised **$10.62 billion in FCNR-B deposits** by September 30."
 hero:
   need: "Axis Bank MD and CEO Amitabh Chaudhry"
   suggested_source: "Amitabh Chaudhry"
@@ -64,7 +64,7 @@ Asset quality improved. The gross NPA ratio fell 30 basis points from a year ear
 
 ## Dollars from abroad
 
-Like HDFC Bank and ICICI Bank, Axis leaned on foreign currency non-resident (FCNR-B) deposits during the quarter. It had raised $10.62 billion by 30 September and issued $4.69 billion of standby letters of credit to other lenders against loans backed by those deposits.
+Like HDFC Bank and ICICI Bank, Axis leaned on foreign currency non-resident (FCNR-B) deposits during the quarter. It had raised $10.62 billion by September 30 and issued $4.69 billion of standby letters of credit to other lenders against loans backed by those deposits.
 
 Part of the money went to replace bulk deposits from companies and institutions. Non-retail term deposits fell 8.6% from the June quarter.
 

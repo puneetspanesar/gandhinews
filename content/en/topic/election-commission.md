@@ -49,21 +49,21 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-check 11 Oct 2026: all facts consistent with the verified EC news story and CEC explainer. Corrected the 23 Sep timeline entry (papers sent to the CJI for a Constitution Bench, not a referral by the bench) and added the 5 Oct notice on the CEC-powers plea."
-    - "Whether the third removal notice was submitted after 24 September is unconfirmed as of 11 October."
+    - "Fact-check Oct 11, 2026: all facts consistent with the verified EC news story and CEC explainer. Corrected the Sep 23 timeline entry (papers sent to the CJI for a Constitution Bench, not a referral by the bench) and added the Oct 5 notice on the CEC-powers plea."
+    - "Whether the third removal notice was submitted after September 24 is unconfirmed as of October 11."
     - "The Indian Express dissent report was not read directly."
 ---
 
-The Election Commission of India (ECI) conducts India's elections and orders the revision of electoral rolls. In its own words, it "operates as a multi-member constitutional body". It has three members: Chief Election Commissioner (CEC) Gyanesh Kumar, whose tenure runs to 26 January 2029, and Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi.
+The Election Commission of India (ECI) conducts India's elections and orders the revision of electoral rolls. In its own words, it "operates as a multi-member constitutional body". It has three members: Chief Election Commissioner (CEC) Gyanesh Kumar, whose tenure runs to January 26, 2029, and Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi.
 
 ## Where things stand
 
-Much of the current dispute concerns the Special Intensive Revision (SIR) of electoral rolls. On 23 September the Indian Express reported that Sandhu and Joshi objected on record at least 14 times in 10 months to SIR decisions. The ECI replied that written notes are standard practice and its decisions were unanimous. Opposition parties, which have twice moved to remove the CEC, say a third notice is being drafted. Delhi Police registered FIRs against opposition leaders after protests on 6 and 7 October; no court has ruled on them. The law on how Commissioners are appointed is headed to a Constitution Bench.
+Much of the current dispute concerns the Special Intensive Revision (SIR) of electoral rolls. On September 23 the Indian Express reported that Sandhu and Joshi objected on record at least 14 times in 10 months to SIR decisions. The ECI replied that written notes are standard practice and its decisions were unanimous. Opposition parties, which have twice moved to remove the CEC, say a third notice is being drafted. Delhi Police registered FIRs against opposition leaders after protests on October 6 and 7; no court has ruled on them. The law on how Commissioners are appointed is headed to a Constitution Bench.
 
-Three things to watch next: whether the Chief Justice sets up the Constitution Bench on the appointment law, the Supreme Court's next hearing on who modified Form 6 and whether the CEC can act alone on the Commission's powers, and whether opposition parties file their third removal notice. The second notice, signed by 73 MPs with nine charges, has been pending in the Rajya Sabha since 24 April.
+Three things to watch next: whether the Chief Justice sets up the Constitution Bench on the appointment law, the Supreme Court's next hearing on who modified Form 6 and whether the CEC can act alone on the Commission's powers, and whether opposition parties file their third removal notice. The second notice, signed by 73 MPs with nine charges, has been pending in the Rajya Sabha since April 24.
 
 ```timeline
-{"title":"Key dates","items":[{"date":"2 Mar 2023","text":"Supreme Court puts the Chief Justice on the selection panel until Parliament legislates."},{"date":"Dec 2023","text":"Parliament passes a law replacing the Chief Justice with a Cabinet minister."},{"date":"Feb 2025","text":"Gyanesh Kumar appointed CEC; Rahul Gandhi files a dissent note."},{"date":"6 Apr 2026","text":"First removal notices against the CEC refused admission."},{"date":"24 Apr 2026","text":"Second notice filed in the Rajya Sabha; pending."},{"date":"23 Sep 2026","text":"Dissent report; Supreme Court bench sends appointment-law challenge to the CJI for a Constitution Bench."},{"date":"5 Oct 2026","text":"Supreme Court says it has not approved any modification to Form 6 and issues notice on a plea over the CEC's powers."}]}
+{"title":"Key dates","items":[{"date":"Mar 2, 2023","text":"Supreme Court puts the Chief Justice on the selection panel until Parliament legislates."},{"date":"Dec 2023","text":"Parliament passes a law replacing the Chief Justice with a Cabinet minister."},{"date":"Feb 2025","text":"Gyanesh Kumar appointed CEC; Rahul Gandhi files a dissent note."},{"date":"Apr 6, 2026","text":"First removal notices against the CEC refused admission."},{"date":"Apr 24, 2026","text":"Second notice filed in the Rajya Sabha; pending."},{"date":"Sep 23, 2026","text":"Dissent report; Supreme Court bench sends appointment-law challenge to the CJI for a Constitution Bench."},{"date":"Oct 5, 2026","text":"Supreme Court says it has not approved any modification to Form 6 and issues notice on a plea over the CEC's powers."}]}
 ```
 
 ```facts

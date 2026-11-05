@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov about 10:50 IST (Bangor Daily News story 05:22 UTC = 10:52 IST; Scripps 00:27 ET = 10:57 IST), Collins conceded by phone, per a source/spokesperson on Jackson's team."
+    - "event: Nov 4 about 10:50 IST (Bangor Daily News story 05:22 UTC = 10:52 IST; Scripps 00:27 ET = 10:57 IST), Collins conceded by phone, per a source/spokesperson on Jackson's team."
     - "Count 52.5-46.3 is as of 12:19 a.m. ET, not final. No direct quotes from Collins or Jackson found in pages read, so none used. List of six earlier flips (NC, SC, Kansas, Texas, Iowa, Ohio) from Bangor Daily News; Kansas flip single-source. Platner withdrawal from PBS backgrounder. Overall seat tally not found; Alaska result not found; omitted."
 ---
 

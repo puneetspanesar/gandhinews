@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Verdictum, 18 Oct 4 pm). Judgment PDF URL suggests 17 October; story says 'in a judgment made public on Sunday' rather than giving a delivery date."
+    - "Single source (Verdictum, Oct 18 4 pm). Judgment PDF URL suggests October 17; story says 'in a judgment made public on Sunday' rather than giving a delivery date."
     - "Vote figures 85,710 and 71,676 from Verdictum; margin 14,034 computed."
     - "Vijay's current role as CM taken from earlier site stories (TVK formed government in 2026); hero only."
 ---

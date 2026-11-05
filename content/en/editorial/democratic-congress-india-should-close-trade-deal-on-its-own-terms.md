@@ -26,13 +26,13 @@ infographic:
   dek: "Why Democratic control does not change the 10% duty"
   motif: flag-banner
   stats:
-    - {icon: percent, value: "10%", label: "US duty on Indian goods since 24 July, under Section 301"}
+    - {icon: percent, value: "10%", label: "US duty on Indian goods since July 24, under Section 301"}
     - {icon: currency-dollar, value: "$42.79 bn", label: "Indian goods exports to the US, April to August 2026"}
   timeline:
-    - {date: "20 Feb", text: "US Supreme Court strikes down emergency tariffs", icon: gavel}
-    - {date: "24 Jul", text: "10% Section 301 duty on India takes effect", icon: percent}
-    - {date: "18 Sep", text: "Russia sanctions law allows tariffs up to 100%", icon: scroll}
-    - {date: "4 Nov", text: "Democrats win both chambers of Congress", icon: bank}
+    - {date: "Feb 20", text: "US Supreme Court strikes down emergency tariffs", icon: gavel}
+    - {date: "Jul 24", text: "10% Section 301 duty on India takes effect", icon: percent}
+    - {date: "Sep 18", text: "Russia sanctions law allows tariffs up to 100%", icon: scroll}
+    - {date: "Nov 4", text: "Democrats win both chambers of Congress", icon: bank}
   source: "US Supreme Court; USTR; White House; US network projections, 2026"
 related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-explained-congress-tariffs-what-it-means-for-india, india-us-trade-talks-plateau-russia-oil-tariff-law, jaishankar-rubio-mumbai-talks]
 seo:
@@ -61,10 +61,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Election result (Democrats projected to win House and Senate on 4 Nov IST; Senate at least 51; exit polls: 70% want Congress to be more of a check, cost of living top worry) from the desk's 4 Nov stories us-midterms-democrats-win-senate-talarico-brown-flip and us-midterms-democrats-230-house-seats-economy-hegseth-blame. Final seat counts not used."
-    - "Tariff history (SCOTUS 20 Feb 2026 6-3 on IEEPA; Section 122 10% from 24 Feb expired 24 July; Section 301 10% from 24 July, India cut from proposed 12.5% after 14 June FTP amendment; no fixed end date), Yoeli quote, veto, H-1B $100,000 fee blocked 30 Sep by a California federal judge and appealed, export figures $42.79 bn vs $40.39 bn: from the desk's 4 Nov explainer and 11 Oct story, with sources listed there."
-    - "Russia sanctions law signed 18 Sep, up to 100% tariffs on the largest buyers of Russian oil and gas, Blumenthal quote after House vote 16 Sep (The Pioneer), Jeffries opposed it over costs for households (Al Jazeera), Trump waiver order dated 16 Oct: from the desk's 11 Oct and 17 Oct stories."
-    - "Goyal 29 July quote (PTI) from 11 Oct story; Rubio 'very close' quote (said in Uzbekistan) from the desk's 20 Oct story. India slowing talks until the midterms: Hindu BusinessLine, 14 April, unnamed sources; written as reported."
+    - "Editorial view of the desk. Election result (Democrats projected to win House and Senate on Nov 4 IST; Senate at least 51; exit polls: 70% want Congress to be more of a check, cost of living top worry) from the desk's Nov 4 stories us-midterms-democrats-win-senate-talarico-brown-flip and us-midterms-democrats-230-house-seats-economy-hegseth-blame. Final seat counts not used."
+    - "Tariff history (SCOTUS Feb 20, 2026 6-3 on IEEPA; Section 122 10% from Feb 24 expired July 24; Section 301 10% from July 24, India cut from proposed 12.5% after June 14 FTP amendment; no fixed end date), Yoeli quote, veto, H-1B $100,000 fee blocked Sep 30 by a California federal judge and appealed, export figures $42.79 bn vs $40.39 bn: from the desk's Nov 4 explainer and Oct 11 story, with sources listed there."
+    - "Russia sanctions law signed Sep 18, up to 100% tariffs on the largest buyers of Russian oil and gas, Blumenthal quote after House vote Sep 16 (The Pioneer), Jeffries opposed it over costs for households (Al Jazeera), Trump waiver order dated Oct 16: from the desk's Oct 11 and Oct 17 stories."
+    - "Goyal July 29 quote (PTI) from Oct 11 story; Rubio 'very close' quote (said in Uzbekistan) from the desk's Oct 20 story. India slowing talks until the midterms: Hindu BusinessLine, April 14, unnamed sources; written as reported."
     - "No Indian government reaction to the result was found in two searches this run; none claimed. Recommendations are the desk's own."
 ---
 
@@ -74,13 +74,13 @@ It is tempting to read that as relief for Indian exporters. It is not, or not ye
 
 ## The tariff does not need Congress
 
-Indian goods entering the United States pay **a 10% duty under Section 301** of the Trade Act of 1974, in force since 24 July. It came out of a US investigation into goods made with forced labour, and India was given the lower of two rates after it changed its own trade rules in June. Unlike the emergency tariffs the US Supreme Court struck down in February, this one rests on a law that lets the President act alone, and it has no fixed end date.
+Indian goods entering the United States pay **a 10% duty under Section 301** of the Trade Act of 1974, in force since July 24. It came out of a US investigation into goods made with forced labour, and India was given the lower of two rates after it changed its own trade rules in June. Unlike the emergency tariffs the US Supreme Court struck down in February, this one rests on a law that lets the President act alone, and it has no fixed end date.
 
 A Democratic Congress can hold hearings, demand documents and ask why American shoppers are paying more. Voters plainly want that: seven in ten told exit pollsters they wanted Congress to act as more of a check on the administration, and prices topped their worries. But a bill to cut tariffs would still need Trump's signature, and overriding his veto takes two-thirds of both chambers. Max Yoeli of Chatham House put it well before the vote: opposition on foreign policy "will be more about optics than hard constraints".
 
 ## Democrats are not softer on Russian oil
 
-The bigger threat to Indian exports is the Russia sanctions law Trump signed on 18 September, which allows **tariffs of up to 100%** on the largest buyers of Russian oil and gas, India among them. That law was not a Republican project alone. Its co-author, Democratic Senator Richard Blumenthal, said after the House vote: "To China and India: you better clean up your act. Buy your oil and gas somewhere else."
+The bigger threat to Indian exports is the Russia sanctions law Trump signed on September 18, which allows **tariffs of up to 100%** on the largest buyers of Russian oil and gas, India among them. That law was not a Republican project alone. Its co-author, Democratic Senator Richard Blumenthal, said after the House vote: "To China and India: you better clean up your act. Buy your oil and gas somewhere else."
 
 ```photo
 {"n":1,"subject":"Richard Blumenthal","caption":"Democratic Senator Richard Blumenthal, a co-author of the Russia sanctions law that allows tariffs of up to 100% on the biggest buyers of Russian oil.","alt":"US Senator Richard Blumenthal"}

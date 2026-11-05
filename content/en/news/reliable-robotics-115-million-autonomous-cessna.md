@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 20 Oct, 6:17 am PDT (6:47 pm IST). Exact valuation not given, only 'above $1 billion'."
+    - "Single source: TechCrunch, Oct 20, 6:17 am PDT (6:47 pm IST). Exact valuation not given, only 'above $1 billion'."
 ---
 
 Reliable Robotics, a California start-up building technology to fly aircraft without a pilot on board, has raised $115 million in an extension of its Series D round. The deal values the company at more than $1 billion.

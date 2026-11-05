@@ -42,12 +42,12 @@ verification:
   status: approved
   fact_check: verified
   notes:
-    - "Fact-checked 11 Oct 2026: 1931, 40 questions, Q10 wording and Jairam Ramesh quote confirmed in Business Standard; ₹11,718 crore (Cabinet-approved) confirmed in Telangana Today and The Arunachal Times; Feb 2027 enumeration and gazette reference dates confirmed."
+    - "Fact-checked Oct 11, 2026: 1931, 40 questions, Q10 wording and Jairam Ramesh quote confirmed in Business Standard; ₹11,718 crore (Cabinet-approved) confirmed in Telangana Today and The Arunachal Times; Feb 2027 enumeration and gazette reference dates confirmed."
     - "Changed: 'caste is to be recorded as people state it' was stated as fact; it rests on Telangana Today citing unnamed sources, so it is now attributed. 'The country is spending ₹11,718 crore' changed to the approved figure."
     - "No official release timetable for census results has been found; the editorial treats this as not yet announced."
 ---
 
-On 14 August the Registrar General notified the 40 questions every resident will be asked in Census 2027. Question 10 now reads "SC/ST/Caste". When the count is done, India will have recorded the caste of every group for the first time since 1931.
+On August 14 the Registrar General notified the 40 questions every resident will be asked in Census 2027. Question 10 now reads "SC/ST/Caste". When the count is done, India will have recorded the caste of every group for the first time since 1931.
 
 Collecting the data is the easier part. The harder test is whether the results are published in full, on a date announced in advance, with the method laid open.
 

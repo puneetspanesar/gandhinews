@@ -8,7 +8,7 @@ topics: []
 title: "Gaganyaan G1 explained: what India's first uncrewed flight with Vyommitra has to prove"
 standfirst: "ISRO chairman V Narayanan says the first Gaganyaan test flight is about two months away. Why a robot is going before the astronauts, what the capsule must survive, and how many steps remain before Indians fly."
 published: 2026-10-25T09:10:00+05:30
-shortAnswer: "G1 is the first orbital flight of the Gaganyaan crew capsule, carrying no astronauts but a half-humanoid robot, Vyommitra, and a small biology experiment. Launched on the human-rated HLVM3 rocket from Sriharikota, it must show that the capsule can reach low Earth orbit, keep its cabin systems working, come back through the atmosphere, open its parachutes in sequence and splash down safely to be recovered. ISRO chairman V Narayanan said on 24 October that it would fly in about two months. More uncrewed tests are planned before the first crewed flight, which is targeted for 2027."
+shortAnswer: "G1 is the first orbital flight of the Gaganyaan crew capsule, carrying no astronauts but a half-humanoid robot, Vyommitra, and a small biology experiment. Launched on the human-rated HLVM3 rocket from Sriharikota, it must show that the capsule can reach low Earth orbit, keep its cabin systems working, come back through the atmosphere, open its parachutes in sequence and splash down safely to be recovered. ISRO chairman V Narayanan said on October 24 that it would fly in about two months. More uncrewed tests are planned before the first crewed flight, which is targeted for 2027."
 hero:
   need: "Vyommitra, ISRO's half-humanoid robot for the Gaganyaan programme"
   suggested_source: "Vyommitra"
@@ -43,8 +43,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Narayanan's 24 Oct timeline and Vyommitra quote from UNI via the desk's 24 Oct news story. ISRO's 16 Oct separation tests and 2027 crewed target from that story and the ISRO release."
-    - "Orbit (170 x 408 km), parachute sequence (10 chutes: 2 apex cover, 2 drogue, 3 pilot, 3 main), 12 x 100 N crew module thrusters, air drop test of 10 April 2026 by IAF Chinook off Sriharikota, fruit fly experiment (TIFR, UAS Dharwad, IIST), tracking ships in the Pacific and North Atlantic, and the history of slipped targets from December 2020 all come from the Wikipedia article only; ISRO documents for these were not opened. Orbit figure hedged as 'planned'."
+    - "Narayanan's Oct 24 timeline and Vyommitra quote from UNI via the desk's Oct 24 news story. ISRO's Oct 16 separation tests and 2027 crewed target from that story and the ISRO release."
+    - "Orbit (170 x 408 km), parachute sequence (10 chutes: 2 apex cover, 2 drogue, 3 pilot, 3 main), 12 x 100 N crew module thrusters, air drop test of April 10, 2026, by IAF Chinook off Sriharikota, fruit fly experiment (TIFR, UAS Dharwad, IIST), tracking ships in the Pacific and North Atlantic, and the history of slipped targets from December 2020 all come from the Wikipedia article only; ISRO documents for these were not opened. Orbit figure hedged as 'planned'."
     - "Vyommitra tasks (monitor module parameters, raise alerts, carry out life support operations) from Narayanan as reported by The Tribune, August 2025."
     - "TV-D1 crew escape test in October 2023 and the four astronaut-designates named in February 2024 are well established; not re-sourced in this run. Names omitted from copy."
     - "Mission duration and splashdown area not given in sources; left out."
@@ -75,7 +75,7 @@ The HLVM3 must place the capsule and its service module in a low orbit, planned 
 Then comes the hardest part. The capsule must survive re-entry and slow down through a chain of 10 parachutes: two to pull away the protective apex cover, two drogues to steady and brake it, three pilot chutes and finally three main parachutes. It must then splash down in the sea and be recovered. Chartered ships stationed in the Pacific and the North Atlantic are expected to help track the flight.
 
 ```timeline
-{"title":"The road to G1","items":[{"date":"Oct 2023","text":"TV-D1 tests the crew escape system on a single-stage rocket off Sriharikota."},{"date":"Apr 2026","text":"Crew module dropped from an IAF Chinook to test its parachutes over the Bay of Bengal."},{"date":"Oct 2026","text":"Crew module and service module separation tests completed at VSSC."},{"date":"About Dec 2026","text":"G1 flies with Vyommitra on HLVM3, about two months after Narayanan's 24 October remark."},{"date":"2027","text":"Target for India's first crewed Gaganyaan flight."}]}
+{"title":"The road to G1","items":[{"date":"Oct 2023","text":"TV-D1 tests the crew escape system on a single-stage rocket off Sriharikota."},{"date":"Apr 2026","text":"Crew module dropped from an IAF Chinook to test its parachutes over the Bay of Bengal."},{"date":"Oct 2026","text":"Crew module and service module separation tests completed at VSSC."},{"date":"About Dec 2026","text":"G1 flies with Vyommitra on HLVM3, about two months after Narayanan's October 24 remark."},{"date":"2027","text":"Target for India's first crewed Gaganyaan flight."}]}
 ```
 
 ## Why has it taken so long?

@@ -37,11 +37,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Advisory details (agents run by AI developers for research and evaluation; no affected organisation detected the intrusion; discovery through voluntary disclosures, CERT-In forensics and threat hunting; leaked credentials and over-permissioned cloud accounts; criminals cutting time from days to hours; 180-day log retention; advice to developers, organisations and deployers) from the desk's 16 October story, sourced to Inc42. Advisory not opened."
-    - "Advisory date of 15 October and 'critical cloud security advisory' description from NewsBytes."
-    - "April 2026 advisory (28 April summary; names Anthropic's Claude Mythos and similar models; recommendations) from Vision IAS's summary of a Business Standard report; the April advisory itself not opened."
+    - "Editorial view of the desk. Advisory details (agents run by AI developers for research and evaluation; no affected organisation detected the intrusion; discovery through voluntary disclosures, CERT-In forensics and threat hunting; leaked credentials and over-permissioned cloud accounts; criminals cutting time from days to hours; 180-day log retention; advice to developers, organisations and deployers) from the desk's October 16 story, sourced to Inc42. Advisory not opened."
+    - "Advisory date of October 15 and 'critical cloud security advisory' description from NewsBytes."
+    - "April 2026 advisory (April 28 summary; names Anthropic's Claude Mythos and similar models; recommendations) from Vision IAS's summary of a Business Standard report; the April advisory itself not opened."
     - "CERT-In's April 2022 directions requiring incidents to be reported within six hours are standard record, not re-checked in this run."
-    - "DPDP dates (breach reporting to the Board from 13 May 2027) from the desk's 11 October editorial on the Data Protection Board."
+    - "DPDP dates (breach reporting to the Board from May 13, 2027) from the desk's October 11 editorial on the Data Protection Board."
     - "CERT-In did not name the AI providers or the affected organisations; the editorial names neither."
     - "Recommendations are the desk's own."
 ---

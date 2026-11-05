@@ -43,19 +43,19 @@ verification:
   notes:
     - "Sealed cover and women-led committee: Bar & Bench (CJI agreed; 'predominantly or exclusively' women). No direct CJI quote available, so paraphrased."
     - "Mehta on women's security and protesters making reels: Daijiworld (paraphrase only)."
-    - "DUJ: Datar sought return of devices; Mehta said none seized; notice issued, no directions (Bar & Bench). DUJ petition background from our 15 Oct morning story (LiveLaw 14 Oct)."
-    - "Whether a senior police officer appeared, as sought on 13 Oct, not reported; omitted."
+    - "DUJ: Datar sought return of devices; Mehta said none seized; notice issued, no directions (Bar & Bench). DUJ petition background from our Oct 15 morning story (LiveLaw Oct 14)."
+    - "Whether a senior police officer appeared, as sought on Oct 13, not reported; omitted."
 ---
 
 The Supreme Court on Thursday allowed women journalists who say they were sexually harassed by police during the Delhi protests to put their allegations before it in a sealed cover, and said any committee set up to look into the complaints should be made up predominantly or exclusively of women.
 
-Senior advocate Indira Jaising, appearing for the Network of Women in Media, India, asked for a committee headed by a woman and for permission to file the details confidentially. Chief Justice Surya Kant agreed to both. The plea concerns women reporters who say they were manhandled and harassed while covering the protests against Chief Election Commissioner Gyanesh Kumar, including three who made complaints after a protest near Jantar Mantar on 3 October.
+Senior advocate Indira Jaising, appearing for the Network of Women in Media, India, asked for a committee headed by a woman and for permission to file the details confidentially. Chief Justice Surya Kant agreed to both. The plea concerns women reporters who say they were manhandled and harassed while covering the protests against Chief Election Commissioner Gyanesh Kumar, including three who made complaints after a protest near Jantar Mantar on October 3.
 
 Solicitor General Tushar Mehta said the government supported security for all women, including women police personnel. He argued that some of those at the protests had come mainly to shoot social media reels, which made it hard to tell journalists apart from online content creators.
 
 ## Phones and cameras
 
-The Delhi Union of Journalists, represented by senior advocate Arvind Datar, asked for the return of devices it says were taken from reporters. Its petition alleges that journalists were detained, assaulted and stopped from recording on 10 and 11 October, and wants an independent inquiry and protection for freelance and digital reporters.
+The Delhi Union of Journalists, represented by senior advocate Arvind Datar, asked for the return of devices it says were taken from reporters. Its petition alleges that journalists were detained, assaulted and stopped from recording on October 10 and 11, and wants an independent inquiry and protection for freelance and digital reporters.
 
 Mehta told the bench that no devices had been seized. The court issued notice on the union's plea but passed no directions.
 

@@ -50,4 +50,4 @@ For the first half of the financial year, profit rose 26.5% to ₹760 crore. The
 
 The stock did not share in the market's cheer. On the NSE it rose to ₹465.20 in the morning, then fell about 4% from that high to ₹446.30. In the afternoon it was trading 2.7% lower at ₹450, while the Nifty was up 1.5%.
 
-The shares are close to their 52-week low of ₹441.80, touched on 1 October, and well below the high of ₹706.80 they reached on 13 January.
+The shares are close to their 52-week low of ₹441.80, touched on October 1, and well below the high of ₹706.80 they reached on January 13.

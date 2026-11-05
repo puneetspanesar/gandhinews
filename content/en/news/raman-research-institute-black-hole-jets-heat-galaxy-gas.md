@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Deccan Herald, 1:19 am IST, 17 Oct). Journal, publication date and sample size beyond 'hundreds of galaxies' not given; left out. Not able to find an RRI press release."
+    - "Single source (Deccan Herald, 1:19 am IST, Oct 17). Journal, publication date and sample size beyond 'hundreds of galaxies' not given; left out. Not able to find an RRI press release."
     - "Namrata Roy quote verbatim from Deccan Herald."
 ---
 

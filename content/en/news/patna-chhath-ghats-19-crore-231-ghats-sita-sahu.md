@@ -6,13 +6,13 @@ section: states
 format_label: "States / Bihar"
 topics: []
 title: "Patna sets aside ₹19.34 crore to get 231 ghats ready for Chhath"
-standfirst: "The civic body wants barricades, lighting, parking and levelled riverbanks in place by 12-13 November, and Chief Minister Samrat Choudhary may inspect the work on 28 October."
+standfirst: "The civic body wants barricades, lighting, parking and levelled riverbanks in place by November 12-13, and Chief Minister Samrat Choudhary may inspect the work on October 28."
 published: 2026-10-25T16:40:00+05:30
 location: Patna
 keyPoints:
   - "Patna Municipal Corporation has budgeted **₹19.34 crore** for 231 Chhath ghats."
   - "Collectorate Ghat gets the largest share, about **₹1.01 crore**."
-  - "Chief Minister Samrat Choudhary may review the preparations **on 28 October**."
+  - "Chief Minister Samrat Choudhary may review the preparations **on October 28**."
 hero:
   need: "Ganga ghats in Patna, ideally Collectorate Ghat or Digha ghats, with devotees or preparation work"
   suggested_source: "Collectorate Ghat Patna"
@@ -22,7 +22,7 @@ hero:
     value: "231 ghats, ₹19.34 crore"
 related: [samrat-choudhary-opens-ctrls-data-centre-patna]
 seo:
-  description: "Patna Municipal Corporation has drawn up a ₹19.34 crore plan to prepare 231 ghats for Chhath, with work due by 12-13 November and a possible CM review on 28 October."
+  description: "Patna Municipal Corporation has drawn up a ₹19.34 crore plan to prepare 231 ghats for Chhath, with work due by November 12-13 and a possible CM review on October 28."
 sources:
   - title: "Patna Municipal Corporation Gears Up For Chhath Puja 2026 With Rs 19.34 Crore Plan For 231 Ghats"
     publisher: "Patna Press"
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single local outlet (Patna Press) for all figures; plan published 2:18 pm IST 25 Oct, story timed 4:40 pm for this window. Mayor Sita Sahu's remark is reported speech in the source, so paraphrased."
-    - "Chhath 2026 festival dates not stated in sources; left out. Completion target 12-13 Nov from source."
-    - "Circle-level details (27 ghats Hiranand Ghat to Didarganj; 26 ghats Pathari Ghat to Keshav Rai Ghat; five artificial ponds) from 24 Oct Patna Press piece; officials Ashutosh Kumar (executive officer, Patna City circle) and Bhushan Kumar (assistant engineer, Azimabad circle)."
+    - "Single local outlet (Patna Press) for all figures; plan published 2:18 pm IST Oct 25, story timed 4:40 pm for this window. Mayor Sita Sahu's remark is reported speech in the source, so paraphrased."
+    - "Chhath 2026 festival dates not stated in sources; left out. Completion target Nov 12-13 from source."
+    - "Circle-level details (27 ghats Hiranand Ghat to Didarganj; 26 ghats Pathari Ghat to Keshav Rai Ghat; five artificial ponds) from Oct 24 Patna Press piece; officials Ashutosh Kumar (executive officer, Patna City circle) and Bhushan Kumar (assistant engineer, Azimabad circle)."
 ---
 
 Patna's civic body has drawn up a ₹19.34 crore plan to get 231 ghats ready for Chhath, the festival when devotees stand in the Ganga and in ponds across the city to offer arghya to the setting and rising sun.
 
-The Patna Municipal Corporation wants the work finished by 12 or 13 November. Chief Minister Samrat Choudhary may visit the ghats on 28 October to see how far it has got. Mayor Sita Sahu said looking after devotees was the corporation's first priority. The ghat-by-ghat estimates set out how much each stretch of riverbank will get, from the Collectorate in the heart of the city to Kurji and Digha further west.
+The Patna Municipal Corporation wants the work finished by 12 or November 13. Chief Minister Samrat Choudhary may visit the ghats on October 28 to see how far it has got. Mayor Sita Sahu said looking after devotees was the corporation's first priority. The ghat-by-ghat estimates set out how much each stretch of riverbank will get, from the Collectorate in the heart of the city to Kurji and Digha further west.
 
 ## Where the money goes
 

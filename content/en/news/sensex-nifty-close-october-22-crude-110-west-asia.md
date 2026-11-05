@@ -22,7 +22,7 @@ hero:
     value: "Third day in the red"
 related: [sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-ipo-retail-quota-full-day-two-3-47-times, results-today-hpcl-swiggy-havells-colgate-october-22, global-cues-wall-street-gains-brent-109-yields-october-22, rupee-six-week-high-94-38-jio-inflows-rbi]
 seo:
-  description: "Stock market close 22 October 2026: Sensex falls about 460 points, Nifty ends near 22,688 as Brent tops $110 and Asian markets slide. Power Grid, M&M, Nestle among losers; rupee at 94.50 early."
+  description: "Stock market close October 22, 2026: Sensex falls about 460 points, Nifty ends near 22,688 as Brent tops $110 and Asian markets slide. Power Grid, M&M, Nestle among losers; rupee at 94.50 early."
 sources:
   - title: "Stock Market Close: Sensex falls 460 pts, Nifty ends at 22,688; IT, FMCG, auto underperform"
     publisher: "Business Standard"
@@ -59,7 +59,7 @@ verification:
   notes:
     - "Close figures from Business Standard live-blog headline (Sensex falls 460 pts, Nifty ends at 22,688) seen in search results; page body read only to 3:10 pm. Exact closing levels not read; Nifty change of about 123 points derived from 22,811.35 previous close."
     - "Opening 366.36 points down at 73,343.33 from India TV; 10:59 am figures from ETV Bharat (PTI); 3 pm figures, midcap/smallcap, losers and 52-week lows from Business Standard live blog. Houthi/US diplomats reason from Indian Opinion (single source)."
-    - "Vijayakumar and Banerjee quotes from PTI copy via ETV Bharat and DT Next. Rupee close for 22 Oct not found; only opening level used."
+    - "Vijayakumar and Banerjee quotes from PTI copy via ETV Bharat and DT Next. Rupee close for Oct 22 not found; only opening level used."
 ---
 
 Indian shares fell for a third straight session on Thursday as Brent crude climbed above $110 a barrel and a sell-off swept Asian markets. The Sensex closed about 460 points lower and the Nifty 50 ended near 22,688, down roughly 123 points. Information technology, consumer goods and carmakers were among the weakest groups.

@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "PIB page would not render; only its title (incl. 'intelligence-led policing') seen in PIB listing. Body detail from AIR (2:37 pm), attributed to the Ministry of Railways."
-    - "Conference 'concluded yesterday' per AIR, i.e. Friday 23 Oct; ministry release Saturday. Number of days, attendees and speakers not given; none named."
+    - "Conference 'concluded yesterday' per AIR, i.e. Friday, Oct 23; ministry release Saturday. Number of days, attendees and speakers not given; none named."
     - "Intelligence-led policing appears only in PIB headline; no detail available, so mentioned only as a stated focus."
 ---
 

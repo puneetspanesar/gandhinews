@@ -43,8 +43,8 @@ verification:
   status: approved
   notes:
     - "Scores and durations from RevSportz only (Olympics.com page could not be fetched; its headline confirms Satwik-Chirag's third straight first-round exit). Results otherwise single-source."
-    - "Sindhu and Lakshya not mentioned in day-one reports; first round spans 20-21 Oct per our preview, so written as Wednesday. Exact order of play not checked."
-    - "Conflict: RevSportz says Tanvi may meet An Se-young in round two if An beats Amalie Schulz, but News On AIR (20 Oct) and our preview say Sindhu opens against An. Tanvi-An line dropped; Sindhu-An draw kept per two sources."
+    - "Sindhu and Lakshya not mentioned in day-one reports; first round spans Oct 20-21 per our preview, so written as Wednesday. Exact order of play not checked."
+    - "Conflict: RevSportz says Tanvi may meet An Se-young in round two if An beats Amalie Schulz, but News On AIR (Oct 20) and our preview say Sindhu opens against An. Tanvi-An line dropped; Sindhu-An draw kept per two sources."
     - "Seeding of Satwik-Chirag (RevSportz says fifth) not used. No quotes found."
 ---
 

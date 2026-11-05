@@ -22,7 +22,7 @@ hero:
     value: "Meta up 3.3% after the bell"
 related: [global-cues-wall-street-gains-brent-109-yields-october-22, netflix-q3-results-job-cuts-ad-forecast-shares-fall, us-earnings-capital-one-united-intuitive-super-micro-gm, spacex-q3-revenue-14-6-billion-ai-half-income]
 seo:
-  description: "US earnings 21 October 2026: Meta revenue $64.6 billion, Q4 outlook $73-76 billion, shares up 3.3% after hours; IBM beats; Tesla flat on $1.53 billion free cash flow; Lam falls."
+  description: "US earnings October 21, 2026: Meta revenue $64.6 billion, Q4 outlook $73-76 billion, shares up 3.3% after hours; IBM beats; Tesla flat on $1.53 billion free cash flow; Lam falls."
 sources:
   - title: "Closing Look, Wednesday, October 21, 2026"
     publisher: "Capp Notes (Substack)"

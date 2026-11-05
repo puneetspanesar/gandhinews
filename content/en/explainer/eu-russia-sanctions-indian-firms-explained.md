@@ -18,7 +18,7 @@ hero:
     value: "Europe's reach, India's oil"
 related: [eu-sanctions-circumvention-firms-india-uae-shadow-fleet, india-us-trade-talks-plateau-russia-oil-tariff-law, us-weighs-easing-shadow-fleet-sanctions-freight-rates]
 seo:
-  description: "EU sanctions on Indian firms explained: what an EU listing means, why shadow fleet operators and a crude trader were named on 15 October 2026, the Nayara precedent, the refined fuel ban and India's position."
+  description: "EU sanctions on Indian firms explained: what an EU listing means, why shadow fleet operators and a crude trader were named on October 15, 2026, the Nayara precedent, the refined fuel ban and India's position."
 sources:
   - title: "EU sanctions individuals and companies for circumventing Russia sanctions"
     publisher: "Ukrinform"
@@ -53,12 +53,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "15 October listings (3 individuals, 9 entities; DIS Logistics DMCC, Vigor Marine Services LLP, Shiva Shipping Ltd as shadow fleet; Hurus Trade FZE as trader supplying Russian-origin crude to India; Kallas quote) from Ukrinform's account of the Council release, as in the desk's 15 October story. Which firm is registered in which country is not stated; copy does not assign countries."
-    - "What a listing means (asset freeze, ban on making funds or economic resources available, travel ban for individuals) is the standard effect of the EU's Russia sanctions listings; the Council legal act for 15 October was not opened. Penningtons confirms Nayara was listed under the asset freeze rules with no wind-down period."
-    - "Nayara facts (Vadinar, Rosneft 49.13%, 6,750+ pumps, Kallas 'biggest Rosneft refinery in India') and MEA quotes from The Tribune, 18 July 2025. Penningtons dates the 18th package to 18 July 2025."
-    - "Refined products ban start (21 January 2026), Reliance halting Russian crude into the export-oriented Jamnagar refinery, and Russian seaborne shipments to India (1.03 million b/d in December 2025, 125,000 b/d in the first half of January, provisional) from S&P Global. Exempted countries under the ban not confirmed; not mentioned."
-    - "20th package (23 April 2026; 632 shadow fleet vessels; port ban extended to Karimun terminal in Indonesia, first outside Russia) from Thommessen. No India entities in that summary."
-    - "No MEA response to the 15 October listings found by Friday evening. US law and MEA's 14 October remark carried over from the desk's news story."
+    - "October 15 listings (3 individuals, 9 entities; DIS Logistics DMCC, Vigor Marine Services LLP, Shiva Shipping Ltd as shadow fleet; Hurus Trade FZE as trader supplying Russian-origin crude to India; Kallas quote) from Ukrinform's account of the Council release, as in the desk's October 15 story. Which firm is registered in which country is not stated; copy does not assign countries."
+    - "What a listing means (asset freeze, ban on making funds or economic resources available, travel ban for individuals) is the standard effect of the EU's Russia sanctions listings; the Council legal act for October 15 was not opened. Penningtons confirms Nayara was listed under the asset freeze rules with no wind-down period."
+    - "Nayara facts (Vadinar, Rosneft 49.13%, 6,750+ pumps, Kallas 'biggest Rosneft refinery in India') and MEA quotes from The Tribune, July 18, 2025. Penningtons dates the 18th package to July 18, 2025."
+    - "Refined products ban start (January 21, 2026), Reliance halting Russian crude into the export-oriented Jamnagar refinery, and Russian seaborne shipments to India (1.03 million b/d in December 2025, 125,000 b/d in the first half of January, provisional) from S&P Global. Exempted countries under the ban not confirmed; not mentioned."
+    - "20th package (April 23, 2026; 632 shadow fleet vessels; port ban extended to Karimun terminal in Indonesia, first outside Russia) from Thommessen. No India entities in that summary."
+    - "No MEA response to the October 15 listings found by Friday evening. US law and MEA's October 14 remark carried over from the desk's news story."
 ---
 
 ## What did the EU do on Thursday?
@@ -86,7 +86,7 @@ When the EU listed an Indian refinery last year, the Ministry of External Affair
 **Yes, and on a much bigger scale.**
 
 ```timeline
-{"title":"How EU curbs on Russian oil have reached India","items":[{"date":"18 Jul 2025","text":"The EU lists Nayara Energy, whose Vadinar refinery in Gujarat is 49.13% owned by Russia's Rosneft."},{"date":"21 Jan 2026","text":"EU ban takes effect on fuel made from Russian crude in third countries."},{"date":"23 Apr 2026","text":"20th package lists 632 shadow fleet tankers and, for the first time, a port outside Russia."},{"date":"15 Oct 2026","text":"Four firms from India, the UAE and the Seychelles are listed for shadow fleet and crude trading roles."}]}
+{"title":"How EU curbs on Russian oil have reached India","items":[{"date":"Jul 18, 2025","text":"The EU lists Nayara Energy, whose Vadinar refinery in Gujarat is 49.13% owned by Russia's Rosneft."},{"date":"Jan 21, 2026","text":"EU ban takes effect on fuel made from Russian crude in third countries."},{"date":"Apr 23, 2026","text":"20th package lists 632 shadow fleet tankers and, for the first time, a port outside Russia."},{"date":"Oct 15, 2026","text":"Four firms from India, the UAE and the Seychelles are listed for shadow fleet and crude trading roles."}]}
 ```
 
 The Nayara listing was the one that mattered most. Kallas described it at the time as "the biggest Rosneft refinery in India". The company, formerly Essar Oil, runs more than 6,750 petrol pumps, and the listing barred it from selling petrol and diesel into Europe.
@@ -95,7 +95,7 @@ The Nayara listing was the one that mattered most. Kallas described it at the ti
 
 **Mostly through the refined fuel ban.**
 
-Since 21 January, the EU has refused fuel refined from Russian crude in other countries. Europe is an important market for Indian diesel, so refiners that export have had to choose. Reliance Industries stopped taking Russian crude into its export-oriented refinery at Jamnagar. Provisional tanker data showed Russian seaborne crude shipments to India falling from 1.03 million barrels a day in December 2025 to about 125,000 barrels a day in the first half of January, though those early figures were expected to be revised up.
+Since January 21, the EU has refused fuel refined from Russian crude in other countries. Europe is an important market for Indian diesel, so refiners that export have had to choose. Reliance Industries stopped taking Russian crude into its export-oriented refinery at Jamnagar. Provisional tanker data showed Russian seaborne crude shipments to India falling from 1.03 million barrels a day in December 2025 to about 125,000 barrels a day in the first half of January, though those early figures were expected to be revised up.
 
 ## Why does Thursday's list matter, if the firms are small?
 
@@ -103,4 +103,4 @@ Since 21 January, the EU has refused fuel refined from Russian crude in other co
 
 ## What happens now?
 
-**India is unlikely to change course because of an EU list, but the pressure is coming from two sides.** A new US law, the Sanctioning Russia and Iran Act, allows tariffs of up to 100% on countries that keep buying Russian energy, if the president chooses to use it. The MEA said on 14 October that India had "conveyed to the US side our concerns" about it. No Indian response to Thursday's EU listings had been issued by Friday evening.
+**India is unlikely to change course because of an EU list, but the pressure is coming from two sides.** A new US law, the Sanctioning Russia and Iran Act, allows tariffs of up to 100% on countries that keep buying Russian energy, if the president chooses to use it. The MEA said on October 14 that India had "conveyed to the US side our concerns" about it. No Indian response to Thursday's EU listings had been issued by Friday evening.

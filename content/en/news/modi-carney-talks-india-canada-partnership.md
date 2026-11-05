@@ -21,7 +21,7 @@ hero:
     value: "Delhi and Ottawa keep the thaw going"
 related: [canada-foreign-minister-anand-arrives-for-india-talks]
 seo:
-  description: "PM Narendra Modi spoke to Canada's Mark Carney on 13 October; both agreed to seek concrete outcomes on trade, energy, technology and security."
+  description: "PM Narendra Modi spoke to Canada's Mark Carney on October 13; both agreed to seek concrete outcomes on trade, energy, technology and security."
 sources:
   - title: "PM holds warm and productive conversation with Prime Minister of Canada Mark Carney"
     publisher: "PIB, Prime Minister's Office"
@@ -37,7 +37,7 @@ verification:
   status: approved
   notes:
     - "PIB release does not say whether this was a phone call or a meeting; written as 'spoke' / 'conversation'. No Canadian readout found (pm.gc.ca readouts page did not load content)."
-    - "Whether Anand met Jaishankar on 13 October not confirmed in sources read; written only that her visit had begun."
+    - "Whether Anand met Jaishankar on October 13 not confirmed in sources read; written only that her visit had begun."
     - "Carney's February-March 2026 visit, CEPA target and trade figures taken from our earlier story's sources (Global Affairs Canada release)."
 ---
 
@@ -49,12 +49,12 @@ Modi described the call as warm and productive in a post on X.
 
 > "We agreed to build on the positive momentum in India-Canada ties and work towards concrete outcomes across key areas of our Strategic Partnership, including trade, energy, technology, security and people-to-people ties."
 >
-> Source: Narendra Modi, Prime Minister, 13 October 2026
+> Source: Narendra Modi, Prime Minister, October 13, 2026
 
 He added: "Together, India and Canada are contributing towards a more stable and prosperous world."
 
 ## A thaw that has picked up speed
 
-Relations froze in 2023 and have been rebuilt step by step since. Carney visited India from 27 February to 2 March this year, the first bilateral visit by a Canadian prime minister in eight years. The two governments agreed then to negotiate a Comprehensive Economic Partnership Agreement and set a target of concluding it by the end of 2026.
+Relations froze in 2023 and have been rebuilt step by step since. Carney visited India from February 27 to March 2 this year, the first bilateral visit by a Canadian prime minister in eight years. The two governments agreed then to negotiate a Comprehensive Economic Partnership Agreement and set a target of concluding it by the end of 2026.
 
 Two-way trade between the countries was worth C$30.4 billion in 2025, according to Ottawa. Anand's visit, her 11th meeting with Jaishankar since September 2025, is meant to move forward a shared roadmap on trade, energy, security and people-to-people ties.

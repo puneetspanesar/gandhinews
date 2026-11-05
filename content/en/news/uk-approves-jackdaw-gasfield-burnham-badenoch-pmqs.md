@@ -22,7 +22,7 @@ hero:
     value: "Jackdaw gets the green light"
 related: []
 seo:
-  description: "The UK approved the Jackdaw North Sea gas field on 21 October. PM Andy Burnham said gas would flow within weeks; the Speaker rebuked ministers for briefing the media first."
+  description: "The UK approved the Jackdaw North Sea gas field on October 21. PM Andy Burnham said gas would flow within weeks; the Speaker rebuked ministers for briefing the media first."
 sources:
   - title: "House of Commons, 21 October 2026: Prime Minister's Questions and Jackdaw Gasfield statement"
     publisher: "Hansard, UK Parliament"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All quotes and figures from the Hansard record of 21 Oct (PMQs and the Jackdaw statement by energy minister Michael Shanks)."
+    - "All quotes and figures from the Hansard record of Oct 21 (PMQs and the Jackdaw statement by energy minister Michael Shanks)."
     - "Speaker not named: Hansard records 'Mr Speaker' and the name was not in the fetched extract."
     - "Energy Secretary not named in the statement (referred to as 'her assessment'); left unnamed. Operator (Shell) not named in Hansard; left out."
     - "27 direct jobs and 273 safeguarded jobs: Shanks. 1.4 million homes: shadow energy secretary Andrew Bowie's claim. 2% of demand: Lib Dem Pippa Heylings' claim."
@@ -49,7 +49,7 @@ The decision dominated Prime Minister's Questions. "Last week I asked the Prime 
 
 Burnham replied: "We have made a decision that the right hon. Lady's Government messed up." He said revenue from the field would help pay for renewables and that he had asked the Chancellor and the Energy Secretary to look at removing standing charges on gas bills.
 
-Liberal Democrat leader Ed Davey used his questions to press for Britain to rejoin the European single market. Burnham pointed to a UK-EU summit on 20 November as "an opportunity to take an important step back to secure growth in the British economy".
+Liberal Democrat leader Ed Davey used his questions to press for Britain to rejoin the European single market. Burnham pointed to a UK-EU summit on November 20 as "an opportunity to take an important step back to secure growth in the British economy".
 
 ## Speaker's anger
 

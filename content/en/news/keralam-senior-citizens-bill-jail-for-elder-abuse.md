@@ -46,15 +46,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Tabling and the bill's provisions rest on one report (The Statesman, 14 Oct, 9:56 pm), which says Satheesan tabled it 'on Tuesday' (13 Oct). Day left out of the copy; not independently confirmed."
-    - "Cabinet clearance and session start of 12 October from Outlook Money (11 Oct). Satheesan's 'pass this month' quote from PTI via ThePrint (9 Oct)."
+    - "Tabling and the bill's provisions rest on one report (The Statesman, Oct 14, 9:56 pm), which says Satheesan tabled it 'on Tuesday' (Oct 13). Day left out of the copy; not independently confirmed."
+    - "Cabinet clearance and session start of October 12 from Outlook Money (Oct 11). Satheesan's 'pass this month' quote from PTI via ThePrint (Oct 9)."
     - "Fine printed as 'Rs. 50,000.50,000.' in the Statesman; read as ₹50,000."
     - "The September draft carried a different title (Keralam State Elderly (Care and Rights Protection) Bill); the tabled title from the Statesman is used."
 ---
 
 People who abandon or abuse senior citizens in Keralam could go to jail for up to three years and pay a fine of ₹50,000 under a bill Chief Minister V D Satheesan has placed before the state Assembly.
 
-Satheesan wants the Keralam Senior Citizens' (Care and Protection of Rights) Bill, 2026 passed quickly. "I hope we can pass the legislation this month itself," he said last week, before the Assembly session opened on 12 October. "We are preparing legislation to provide a legal guarantee to senior citizens."
+Satheesan wants the Keralam Senior Citizens' (Care and Protection of Rights) Bill, 2026 passed quickly. "I hope we can pass the legislation this month itself," he said last week, before the Assembly session opened on October 12. "We are preparing legislation to provide a legal guarantee to senior citizens."
 
 ## Doctors must report abuse
 

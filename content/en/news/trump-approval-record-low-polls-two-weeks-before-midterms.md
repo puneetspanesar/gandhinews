@@ -22,7 +22,7 @@ hero:
     value: "36%, two weeks out"
 related: [us-inflation-september-cpi-rises-before-midterms, trump-kentucky-rally-gallrein-midterms-massie, vivek-ramaswamy-ohio-governor-race-amy-acton]
 seo:
-  description: "Trump's approval fell to 36% in the NYT/Siena poll and 32% in CNN's, with Democrats leading the House vote by double digits two weeks before the 3 November midterms."
+  description: "Trump's approval fell to 36% in the NYT/Siena poll and 32% in CNN's, with Democrats leading the House vote by double digits two weeks before the November 3 midterms."
 sources:
   - title: "Trump's Approval Rating Hits Record Low In Third New Poll This Week"
     publisher: "Forbes"
@@ -47,21 +47,21 @@ sources:
 verification:
   status: approved
   notes:
-    - "NYT/Siena figures (36/59, 52-41, 3,494 likely voters, 12-19 Oct, MoE 1.9) from Forbes; 'lowest in that poll', down 2 points from September, issue figures from Brit Brief (which follows The Guardian); 11-point lead and independents from Zetik. NYT page itself not fetched (permission timeout)."
+    - "NYT/Siena figures (36/59, 52-41, 3,494 likely voters, Oct 12-19, MoE 1.9) from Forbes; 'lowest in that poll', down 2 points from September, issue figures from Brit Brief (which follows The Guardian); 11-point lead and independents from Zetik. NYT page itself not fetched (permission timeout)."
     - "Issue figures (cost of living 69%, economy 64%, gas prices 73%) are among registered voters per Brit Brief; Iran war figure 'about 65%' per Brit Brief and Zetik."
     - "CNN/SSRS and Reuters/Ipsos figures from Forbes only."
     - "Early vote 'more than 13 million' rests on a KCRA headline relayed by The Politics Bar; hedged. Cook ratings move rests on The Hill headline via The Politics Bar."
-    - "Election date 3 November 2026 is the statutory date (first Tuesday after first Monday); sources say 'two weeks'."
+    - "Election date November 3, 2026, is the statutory date (first Tuesday after first Monday); sources say 'two weeks'."
     - "No White House response found; The Guardian said it had asked for comment."
 ---
 
-Donald Trump's approval rating hit record lows in two polls released on Wednesday, with voters turning against him less than two weeks before the midterm elections on 3 November.
+Donald Trump's approval rating hit record lows in two polls released on Wednesday, with voters turning against him less than two weeks before the midterm elections on November 3.
 
 The final New York Times/Siena College national poll before the vote found that 36% of likely voters approve of the way Trump is doing his job and 59% disapprove. It is his lowest rating in that survey, two points down from September. A CNN/SSRS poll published the same day put his approval at 32%, also a record low for that series, and a Reuters/Ipsos survey released on Monday had it at 31%.
 
 ## A lead for Democrats
 
-The numbers matter most for the fight over Congress. In the Times/Siena poll, 52% of likely voters said they would back the Democrat in their district and 41% the Republican, an 11-point gap that is slightly wider than last month. CNN found Democrats ahead by 49% to 39%. The Times/Siena survey interviewed 3,494 likely voters between 12 and 19 October and has a margin of error of 1.9 points.
+The numbers matter most for the fight over Congress. In the Times/Siena poll, 52% of likely voters said they would back the Democrat in their district and 41% the Republican, an 11-point gap that is slightly wider than last month. CNN found Democrats ahead by 49% to 39%. The Times/Siena survey interviewed 3,494 likely voters between October 12 and 19 and has a margin of error of 1.9 points.
 
 Independents have swung hard against the president: more than two-thirds disapprove of him. The poll also suggests Democrats have won back ground over the past year among men, young voters and Hispanic voters.
 

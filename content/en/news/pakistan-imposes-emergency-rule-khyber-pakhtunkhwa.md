@@ -66,10 +66,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Update 3 pm IST 12 Oct: custody confirmed by 'a senior police official' via Dawn (1:48 pm PKT); eight people incl. Afridi, Junaid Akbar (Dawn calls him MNA; we keep 'PTI provincial president' from the morning version) and Speaker Babar Saleem Swati. Dawn's sources say Afridi and Akbar are held under Section 3 of the MPO; not used. Chaudhry's line (those with cases tried, others released) is from Dawn citing Reuters."
-    - "Swabi details (no significant protest Monday, mobile and PTCL internet suspended, dispersal at Shiwa Adda and Ismaila Interchange) are from one Express Tribune report. No court petition had been filed as of the Tribune's 12 Oct report; the Pakistan Bar Council members' quote is from the same report."
+    - "Update 3 pm IST Oct 12: custody confirmed by 'a senior police official' via Dawn (1:48 pm PKT); eight people incl. Afridi, Junaid Akbar (Dawn calls him MNA; we keep 'PTI provincial president' from the morning version) and Speaker Babar Saleem Swati. Dawn's sources say Afridi and Akbar are held under Section 3 of the MPO; not used. Chaudhry's line (those with cases tried, others released) is from Dawn citing Reuters."
+    - "Swabi details (no significant protest Monday, mobile and PTCL internet suspended, dispersal at Shiwa Adda and Ismaila Interchange) are from one Express Tribune report. No court petition had been filed as of the Tribune's Oct 12 report; the Pakistan Bar Council members' quote is from the same report."
     - "The President House proclamation itself was not opened; its wording ('could not function in accordance with the Constitution under the prevailing circumstances') is from The Express Tribune, and 'unprecedented intensity of terrorist violence' from Nukta. Articles 232(1) and 234(1) agree across Dawn, Tribune and Nukta."
-    - "Afridi's arrest: claimed by PTI figures (KP Information Minister Shafi Jan, MNA Shahid Khattak, Junaid Akbar's colleagues); not confirmed by police or government as of the 12 Oct Express Tribune reports. Minister of State Tallal Chaudhry said some people were detained. Kept as a claim."
+    - "Afridi's arrest: claimed by PTI figures (KP Information Minister Shafi Jan, MNA Shahid Khattak, Junaid Akbar's colleagues); not confirmed by police or government as of the Oct 12 Express Tribune reports. Minister of State Tallal Chaudhry said some people were detained. Kept as a claim."
     - "Gohar Ali Khan's arrest figures (about 1,500 PTI workers jailed in Punjab, 10 KP MPAs and 8 MNAs arrested) are party claims from Express Tribune; not used."
     - "Ali Amin Gandapur's house arrest rests on 'police sources' in Express Tribune; not used."
     - "Duration rules: Dawn says an Article 234 proclamation must go before a joint sitting and lapses after two months unless extended, up to six months; newscord.org summary mentions 10/30-day approval windows. Story uses Dawn's version only."
@@ -107,4 +107,4 @@ Under the constitution, governor's rule must be put before a joint sitting of Pa
 
 ## How it came to this
 
-Khan was removed as prime minister in a no-confidence vote in April 2022 and has been in prison since August 2023. His party has governed Khyber Pakhtunkhwa and has clashed with the centre over how to fight militants and whether to talk to the Afghan Taliban. Talks between the government and the PTI broke down on 3 October.
+Khan was removed as prime minister in a no-confidence vote in April 2022 and has been in prison since August 2023. His party has governed Khyber Pakhtunkhwa and has clashed with the centre over how to fight militants and whether to talk to the Afghan Taliban. Talks between the government and the PTI broke down on October 3.

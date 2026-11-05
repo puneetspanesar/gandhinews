@@ -57,10 +57,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Mock Parliament facts (31 Oct, 10 Rajaji Marg, Meira Kumar presiding, Kharge moving six charges, 21 parties, 13.2 crore deletions claimed by Kharge, 13.3 crore by Rahul Gandhi, 'left with no choice') from the desk's 31 Oct story, sourced to ThePrint and Tribune."
-    - "Shah quote ('I am ready to call a special session... But Rahul Baba will never agree') from Indian Opinion's summary of his Lucknow speech of 30 Oct, as used in the desk's news story; original outlets not fetched."
-    - "April notice: The Statesman (fetched) gives 130 Lok Sabha and 63 Rajya Sabha signatures, 193 in all, notice submitted 12 March; Speaker refused to admit it under section 3 of the Judges (Inquiry) Act, 1968, with no further reasoning in the report. Onmanorama URL dated 7 April 2026 (search result only); rejection reported as on a Monday, so 6 April 2026 assumed; copy says 'in April'."
-    - "Dissent report (Sandhu and Joshi objecting at least 14 times, per Indian Express) and EC's reply that decisions were unanimous: desk's 11 Oct story. ADR Section 16 immunity petition: desk's 13 Oct story."
+    - "Editorial view of the desk. Mock Parliament facts (Oct 31, 10 Rajaji Marg, Meira Kumar presiding, Kharge moving six charges, 21 parties, 13.2 crore deletions claimed by Kharge, 13.3 crore by Rahul Gandhi, 'left with no choice') from the desk's Oct 31 story, sourced to ThePrint and Tribune."
+    - "Shah quote ('I am ready to call a special session... But Rahul Baba will never agree') from Indian Opinion's summary of his Lucknow speech of Oct 30, as used in the desk's news story; original outlets not fetched."
+    - "April notice: The Statesman (fetched) gives 130 Lok Sabha and 63 Rajya Sabha signatures, 193 in all, notice submitted March 12; Speaker refused to admit it under section 3 of the Judges (Inquiry) Act, 1968, with no further reasoning in the report. Onmanorama URL dated April 7, 2026 (search result only); rejection reported as on a Monday, so April 6, 2026, assumed; copy says 'in April'."
+    - "Dissent report (Sandhu and Joshi objecting at least 14 times, per Indian Express) and EC's reply that decisions were unanimous: desk's Oct 11 story. ADR Section 16 immunity petition: desk's Oct 13 story."
     - "December 2025 Lok Sabha debate on electoral reforms with Shah and Rahul Gandhi: search results only (India TV, Statesman, ThePrint headlines); copy only says the House debated electoral reforms last December."
     - "Removal procedure (Article 324(5), like a Supreme Court judge; Article 124(4) majority of total membership and two-thirds present and voting in each House) is constitutional text, stated from standard knowledge."
     - "No Election Commission response to the mock Parliament found. Deletion figures are the opposition's claims and are attributed."

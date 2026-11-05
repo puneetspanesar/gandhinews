@@ -6,12 +6,12 @@ section: sports
 format_label: "Sports / Chess"
 topics: []
 title: "Gukesh will defend his world title in a Geneva library-museum"
-standfirst: "The Fondation Martin Bodmer in Cologny, home to papyri and rare books, will host D Gukesh's match against Uzbekistan's Javokhir Sindarov from 22 November."
+standfirst: "The Fondation Martin Bodmer in Cologny, home to papyri and rare books, will host D Gukesh's match against Uzbekistan's Javokhir Sindarov from November 22."
 published: 2026-10-20T13:30:00+05:30
 location: Geneva
 keyPoints:
   - "The match will be played at the **Fondation Martin Bodmer** in Cologny, near Geneva."
-  - "The first game is on **24 November**; the match runs until 12 December."
+  - "The first game is on **November 24**; the match runs until December 12."
   - "The prize fund is **$2.5 million**."
 hero:
   need: "D Gukesh and Javokhir Sindarov"
@@ -19,10 +19,10 @@ hero:
   subjects: ["Gukesh Dommaraju", "Javokhir Sindarov"]
   alt: "World chess champion D Gukesh"
   overlay:
-    value: "Gukesh v Sindarov, from 24 Nov"
+    value: "Gukesh v Sindarov, from Nov 24"
 related: []
 seo:
-  description: "World Chess Championship 2026: D Gukesh v Javokhir Sindarov will be played at the Fondation Martin Bodmer near Geneva from 22 November, first game 24 November."
+  description: "World Chess Championship 2026: D Gukesh v Javokhir Sindarov will be played at the Fondation Martin Bodmer near Geneva from November 22, first game November 24."
 sources:
   - title: "A Century of Knowledge: The Historic Venue for Gukesh vs. Sindarov"
     publisher: "ChessBase India"
@@ -32,13 +32,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ChessBase India feature, 20 Oct). Number of games and tiebreak format not given, so left out."
+    - "Single source (ChessBase India feature, Oct 20). Number of games and tiebreak format not given, so left out."
     - "Venue may have been announced earlier by FIDE; framed as preview, not as a new announcement."
 ---
 
 D Gukesh's first defence of his world chess title will be played among some of the rarest books in the world. The match against Uzbekistan's Javokhir Sindarov is set for the Fondation Martin Bodmer in Cologny, on the outskirts of Geneva, a venue that is half library and half museum.
 
-The match runs from 22 November to 12 December, with the first game on 24 November. Gukesh, the defending champion, and Sindarov, who won this year's Candidates Tournament in Cyprus, will both be 20 when it begins.
+The match runs from November 22 to December 12, with the first game on November 24. Gukesh, the defending champion, and Sindarov, who won this year's Candidates Tournament in Cyprus, will both be 20 when it begins.
 
 The prize fund is $2.5 million. Under FIDE's rules, each player earns $200,000 for every game he wins, and the rest of the money is split equally between them.
 

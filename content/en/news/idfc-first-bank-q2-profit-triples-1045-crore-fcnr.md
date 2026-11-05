@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Standalone profit, total income, interest earned, provisions, GNPA/NNPA and capital adequacy read in the bank's filing (figures in ₹ lakh: 1,04,460; 35,231; 1,07,496 etc.). Board met 10 am to 2:45 pm on 24 Oct; reports appeared through the evening."
+    - "Standalone profit, total income, interest earned, provisions, GNPA/NNPA and capital adequacy read in the bank's filing (figures in ₹ lakh: 1,04,460; 35,231; 1,07,496 etc.). Board met 10 am to 2:45 pm on Oct 24; reports appeared through the evening."
     - "Percentage changes (profit up about 197%, interest earned up about 20%, provisions down about 22%) calculated from filing figures; Whalesbook headline also gives 197%."
     - "NII ₹6,188 crore (+21.04% YoY, +3.59% QoQ), deposits ₹3,48,583 crore (+25.9%), advances ₹3,46,913 crore (+30.1%, incl. credit substitutes and FCNR(B)-backed loans), CASA 48.4% from 50.1%, FCNR(B) over ₹34,000 crore and both Vaidyanathan quotes from Daijiworld (from the bank's investor release). Consolidated profit ₹1,049.17 crore, down 8.59% QoQ from ₹1,147.82 crore, per Daijiworld."
     - "Whether the CASA comparison (50.1%) is quarter-on-quarter is not stated; copy says 'from 50.1%' without a period."

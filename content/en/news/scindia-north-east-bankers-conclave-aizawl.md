@@ -43,7 +43,7 @@ Mizoram Chief Minister Lalduhoma attended, along with DoNER Secretary Srinivas K
 
 > "We must take banking and credit to the remotest corners of the North East."
 >
-> Source: Jyotiraditya Scindia, Union DoNER Minister, on X, 13 October 2026
+> Source: Jyotiraditya Scindia, Union DoNER Minister, on X, October 13, 2026
 
 Scindia said about 73% of the targets set at the first conclave had been met over five years. He said 131 new bank branches and 126 ATMs had been opened, and that the region now has 6,674 branches and 5,823 ATMs. Banking touchpoints reach about 99.93% of villages, and the minimum population for opening a physical branch has been cut from 3,000 to 2,000.
 

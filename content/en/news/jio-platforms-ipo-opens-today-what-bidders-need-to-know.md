@@ -10,9 +10,9 @@ standfirst: "Retail investors can bid for a minimum of 12 shares in India's larg
 published: 2026-10-21T05:20:00+05:30
 location: Mumbai
 keyPoints:
-  - "Bids open on **Wednesday, 21 October**, and close on Friday, 23 October."
+  - "Bids open on **Wednesday, October 21**, and close on Friday, October 23."
   - "One lot of **12 shares costs ₹13,428** at the top of the ₹1,065-1,119 band."
-  - "Reliance shareholders as of **13 October** can bid in a reserved category."
+  - "Reliance shareholders as of **October 13** can bid in a reserved category."
 hero:
   need: "Reliance Corporate Park, the Reliance Industries campus in Ghansoli, Navi Mumbai"
   suggested_source: "Reliance Corporate Park Navi Mumbai"
@@ -22,7 +22,7 @@ hero:
     value: "12 shares, ₹13,428 to start"
 related: [jio-platforms-anchor-book-8110-crore-30-times-demand, jio-platforms-ipo-price-band-biggest-india-listing, anchor-investors-explained-jio-platforms-ipo, markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21]
 seo:
-  description: "Jio Platforms IPO opens 21 October 2026 at ₹1,065-1,119 a share. Lot size 12 shares (₹13,428), shareholder quota, ₹54 employee discount, listing on 28 October."
+  description: "Jio Platforms IPO opens October 21, 2026, at ₹1,065-1,119 a share. Lot size 12 shares (₹13,428), shareholder quota, ₹54 employee discount, listing on October 28."
 sources:
   - title: "Jio Platforms Ltd IPO"
     publisher: "IPO Premium"
@@ -51,9 +51,9 @@ The share sale of Jio Platforms, Reliance Industries' telecom and digital arm, o
 
 Bids can be placed in lots of 12 shares at a price band of ₹1,065 to ₹1,119 a share, so a single lot costs ₹13,428 at the top of the range. Small investors can bid for up to 14 lots. Above that, bids fall into the category for high net-worth individuals, which starts at 15 lots, or 180 shares.
 
-The issue closes on Friday, 23 October. Shares are due to be allotted on 26 October and to list on the BSE and NSE on 28 October.
+The issue closes on Friday, October 23. Shares are due to be allotted on October 26 and to list on the BSE and NSE on October 28.
 
-Two groups get special treatment. People who held Reliance Industries shares on or before 13 October can apply in a reserved shareholder category with bids of up to ₹2 lakh, and allotment in that category is proportionate. Jio employees get a discount of ₹54 a share.
+Two groups get special treatment. People who held Reliance Industries shares on or before October 13 can apply in a reserved shareholder category with bids of up to ₹2 lakh, and allotment in that category is proportionate. Jio employees get a discount of ₹54 a share.
 
 The offer raises about ₹30,200 crore, all through new shares, which makes it the largest share sale in India. At the top of the band it values the company at about ₹10.3 lakh crore. Anchor investors, led by LIC, Capital Group and the Government of Singapore, took up ₹8,110 crore of shares on Monday at ₹1,119 each, after institutions bid more than 30 times the shares set aside for them.
 

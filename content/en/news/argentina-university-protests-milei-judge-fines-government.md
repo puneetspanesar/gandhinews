@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera report from Buenos Aires). The march was on Thursday 15 October local time."
+    - "Single source (Al Jazeera report from Buenos Aires). The march was on Thursday, October 15 local time."
     - "Name of the federal judge and the exact start date of the fines were not given."
 ---
 

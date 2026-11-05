@@ -22,7 +22,7 @@ hero:
     value: "\"I am here. With you\""
 related: [venezuela-first-nationwide-protest-two-years-machado-elections, venezuela-opposition-backs-machado-leadership-transition-plan, us-lifts-sanctions-jorge-rodriguez-venezuela-assembly]
 seo:
-  description: "Venezuelan opposition leader María Corina Machado returned home on 25 October after more than 10 months in exile, as pressure grows for an election date."
+  description: "Venezuelan opposition leader María Corina Machado returned home on October 25 after more than 10 months in exile, as pressure grows for an election date."
 sources:
   - title: "Venezuela's opposition leader Maria Corina Machado returns from exile"
     publisher: "Al Jazeera"
@@ -52,6 +52,6 @@ Edmundo González, the opposition's candidate in the disputed 2024 presidential 
 
 Machado dropped out of public view after a brief arrest in January 2025 and left the country covertly in December to collect the Nobel prize in Norway. Her team said she made several failed attempts to come back in September.
 
-Venezuela has been run since January by Delcy Rodríguez as acting president, after US forces seized Nicolás Maduro in Caracas. Rodríguez has served beyond the 90 days she was authorised to and has not called an election, although she promised one at the UN General Assembly in September. On 22 October thousands marched across the country to demand a vote. The government considers Machado a fugitive and has not commented on her return.
+Venezuela has been run since January by Delcy Rodríguez as acting president, after US forces seized Nicolás Maduro in Caracas. Rodríguez has served beyond the 90 days she was authorised to and has not called an election, although she promised one at the UN General Assembly in September. On October 22 thousands marched across the country to demand a vote. The government considers Machado a fugitive and has not commented on her return.
 
 US Secretary of State Marco Rubio said the conditions for her safe return came out of reconciliation talks backed by Washington, which have freed hundreds of political prisoners. President Donald Trump said he did not "know anything about it" but called her "a very nice woman", adding: "I hope she's safe."

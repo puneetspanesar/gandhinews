@@ -12,7 +12,7 @@ location: Meerut
 keyPoints:
   - "District Judge Arvind Kumar Mishra **sentenced both accused to death** on Wednesday."
   - "The verdict came after **126 hearings and statements from 22 witnesses**."
-  - "Saurabh Rajput was killed on **3 March 2025** and his body hidden in a blue drum filled with wet cement."
+  - "Saurabh Rajput was killed on **March 3, 2025** and his body hidden in a blue drum filled with wet cement."
 hero:
   need: "Meerut district court or collectorate building, exterior"
   suggested_source: "Meerut Collectorate"
@@ -21,7 +21,7 @@ hero:
     value: "Death sentence in the blue drum case"
 related: [up-yogi-releases-493-crore-crop-loss-relief-farmers]
 seo:
-  description: "A Meerut court sentenced Muskan Rastogi and Sahil Shukla to death on 14 October 2026 for murdering merchant navy officer Saurabh Rajput in the blue drum case."
+  description: "A Meerut court sentenced Muskan Rastogi and Sahil Shukla to death on October 14, 2026, for murdering merchant navy officer Saurabh Rajput in the blue drum case."
 sources:
   - title: "Meerut Blue drum murder case: Saurabh Rajput's wife Muskan, lover Sahil sentenced to death"
     publisher: "The Statesman"
@@ -41,21 +41,21 @@ sources:
 verification:
   status: approved
   notes:
-    - "Sentence (death for both, 14 Oct) from The Statesman only (4:49 pm IST); conviction on 30 Sept and judge's name confirmed by UNI and Free Press Journal."
+    - "Sentence (death for both, Oct 14) from The Statesman only (4:49 pm IST); conviction on Sept 30 and judge's name confirmed by UNI and Free Press Journal."
     - "Fines: Statesman gives Rs 50,000 under 'Section 302' and Rs 20,000 under 'Section 238A'. The crime post-dates the BNS, so section numbers look garbled; copy gives the amounts and the two charges only."
     - "Daughter-related remark by Advocate Krishan Kumar Dubey (child may stay with mother for six years) left out as unclear."
-    - "Judge's 'no place in a civilised society' remark was made at the 30 Sept conviction (Free Press Journal)."
+    - "Judge's 'no place in a civilised society' remark was made at the Sept 30 conviction (Free Press Journal)."
 ---
 
 A court in Meerut on Wednesday sentenced Muskan Rastogi and Sahil Shukla to death for the murder of her husband, merchant navy officer Saurabh Rajput, in a case that shocked Uttar Pradesh and became known across the country as the "blue drum" murder.
 
-District Judge Arvind Kumar Mishra, who had convicted the pair on 30 September, handed down the sentence after a trial that ran to 126 hearings and heard 22 witnesses. Both were found guilty of murder and of hiding the body. The court also fined them ₹50,000 on the murder charge and ₹20,000 on the second count.
+District Judge Arvind Kumar Mishra, who had convicted the pair on September 30, handed down the sentence after a trial that ran to 126 hearings and heard 22 witnesses. Both were found guilty of murder and of hiding the body. The court also fined them ₹50,000 on the murder charge and ₹20,000 on the second count.
 
 ## What happened in March 2025
 
-The prosecution's case was that on 3 March 2025, Rastogi laced her husband's food with a sedative. Shukla then came to the house, and the two stabbed Rajput, cut up his body and sealed the parts in a blue plastic drum which they filled with wet cement.
+The prosecution's case was that on March 3, 2025, Rastogi laced her husband's food with a sedative. Shukla then came to the house, and the two stabbed Rajput, cut up his body and sealed the parts in a blue plastic drum which they filled with wet cement.
 
-A case was registered on 17 March 2025 and both were sent to Meerut jail two days later. The trial moved to the district judge's court in July 2025, and arguments went on for about 13 months.
+A case was registered on March 17, 2025, and both were sent to Meerut jail two days later. The trial moved to the district judge's court in July 2025, and arguments went on for about 13 months.
 
 ## How the case was proved
 

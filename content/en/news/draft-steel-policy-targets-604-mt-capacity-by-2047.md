@@ -52,14 +52,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "The draft policy document on steel.gov.in could not be opened (site fetch failed), so no primary source is listed. All draft figures come from Business Standard (11 Oct), cross-checked with Business Today and Deccan Chronicle, which agree on 604 MT, 505 MT, 302 kg, 45 MT exports, 92% coking coal imports, 2.54 and 1.92 tCO2/tcs, 2,550 secondary units and 47%."
-    - "Comment deadline of 30 October 2026 appears only in Swarajya and a Globe TV aggregator, so it is left out. Business Standard says only that the ministry has invited feedback on its website."
-    - "Current capacity: Business Standard (29 Sep) says 220 MT in FY25 and Business Today says 220 MT now; ANI cites 222.7 MT as of July 2026 from ministry data. We say 'about 220 million tonnes'."
+    - "The draft policy document on steel.gov.in could not be opened (site fetch failed), so no primary source is listed. All draft figures come from Business Standard (Oct 11), cross-checked with Business Today and Deccan Chronicle, which agree on 604 MT, 505 MT, 302 kg, 45 MT exports, 92% coking coal imports, 2.54 and 1.92 tCO2/tcs, 2,550 secondary units and 47%."
+    - "Comment deadline of October 30, 2026, appears only in Swarajya and a Globe TV aggregator, so it is left out. Business Standard says only that the ministry has invited feedback on its website."
+    - "Current capacity: Business Standard (Sep 29) says 220 MT in FY25 and Business Today says 220 MT now; ANI cites 222.7 MT as of July 2026 from ministry data. We say 'about 220 million tonnes'."
     - "Base year for 170 MT production: Business Standard says 2025, Deccan Chronicle and Business Today say 2025-26. We use 2025-26."
     - "2017 policy targets: 300 MT by 2030-31 (ANI) and 160 kg per capita (Deccan Chronicle)."
-    - "Release date: one aggregator cites Reuters saying the draft went up late on 10 October; not confirmed from a primary source, so the story does not give an exact release date."
-    - "Viksit Bharat ISPAT scheme (₹5,000 crore, small producers) is from Steel Secretary Sandeep Poundrik's remarks on 29 Sept (Business Standard); it is a proposal, not yet approved."
-    - "Independent fact-check 11 Oct: Poundrik never said the 2017 policy 'needed a relook'; reworded to his reported words on 29 Sept (ANI: new issues since 2017 and 'course correction... in terms of capacity, consumption'). Draft figures re-checked against Business Standard, Business Today and Deccan Chronicle and found to match; the Viksit Bharat quote matches ANI."
+    - "Release date: one aggregator cites Reuters saying the draft went up late on October 10; not confirmed from a primary source, so the story does not give an exact release date."
+    - "Viksit Bharat ISPAT scheme (₹5,000 crore, small producers) is from Steel Secretary Sandeep Poundrik's remarks on Sept 29 (Business Standard); it is a proposal, not yet approved."
+    - "Independent fact-check Oct 11: Poundrik never said the 2017 policy 'needed a relook'; reworded to his reported words on Sept 29 (ANI: new issues since 2017 and 'course correction... in terms of capacity, consumption'). Draft figures re-checked against Business Standard, Business Today and Deccan Chronicle and found to match; the Viksit Bharat quote matches ANI."
 ---
 
 The Ministry of Steel has put out a draft National Steel Policy-Vision 2047 that plans for India to build 604 million tonnes (MT) of crude steel capacity by 2047. Installed capacity today is about 220 MT, so the target is close to three times the current level.
@@ -72,11 +72,11 @@ The draft projects crude steel production of 531 MT and finished steel consumpti
 
 Exports are pegged at 45 MT. India produced about 170 MT of crude steel in 2025-26, up from about 89 MT in 2014-15. Finished steel consumption rose from 77 MT to 164 MT over the same years.
 
-Steel Secretary Sandeep Poundrik said on 29 September that new issues had come up since 2017 and that a course correction was needed on capacity and consumption. He also described the draft's aim.
+Steel Secretary Sandeep Poundrik said on September 29 that new issues had come up since 2017 and that a course correction was needed on capacity and consumption. He also described the draft's aim.
 
 > This National Steel Policy is being formulated with a vision to bring India to Viksit Bharat target in 2047.
 >
-> Source: Sandeep Poundrik, Steel Secretary, 29 September 2026
+> Source: Sandeep Poundrik, Steel Secretary, September 29, 2026
 
 ## Raw materials are the big gap
 

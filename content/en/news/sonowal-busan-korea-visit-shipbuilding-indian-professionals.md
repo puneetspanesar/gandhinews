@@ -22,7 +22,7 @@ hero:
     value: "Shipbuilding: top five by 2047"
 related: [goyal-rotterdam-port-capacity-fourfold-2047, sonowal-opens-sagarmala-finance-office-60205-crore-target]
 seo:
-  description: "Shipping Minister Sarbananda Sonowal began a four-day South Korea visit in Busan on 25 October 2026, urging Indian professionals in Korean shipyards to help India's shipbuilding push."
+  description: "Shipping Minister Sarbananda Sonowal began a four-day South Korea visit in Busan on October 25, 2026, urging Indian professionals in Korean shipyards to help India's shipbuilding push."
 sources:
   - title: "We are looking for partnership with Korea in shipbuilding, shipping, ports and maritime logistics: Sarbananda Sonowal"
     publisher: "ANI"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ANI, 21:37 IST, 25 Oct. Quote 'a platform for your professional growth and for India's maritime future' verbatim from ANI."
+    - "Single source: ANI, 21:37 IST, Oct 25. Quote 'a platform for your professional growth and for India's maritime future' verbatim from ANI."
     - "Ambassador Gourangalal Das, companies present, VOYAGES framework adopted in April during President Lee Jae Myung's state visit, September 2025 Cabinet incentives, India Ship Technology Centre, India-KOICA partnership: all from ANI."
     - "No agreements reported. Date of the World Maritime Day roundtable not given."
     - "Headline phrase about 'partnership with Korea' is ANI's headline; not used as a direct quote in copy."

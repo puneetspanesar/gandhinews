@@ -22,7 +22,7 @@ hero:
     value: "Encroachment admitted, places not named"
 related: [kamal-thapa-objects-wagle-anti-india-nationalism-remark]
 seo:
-  description: "Nepal's foreign ministry told Parliament on 25 October that encroachment exists along the India border beyond Susta, Kalapani, Lipulekh and Limpiyadhura, but named no sites."
+  description: "Nepal's foreign ministry told Parliament on October 25 that encroachment exists along the India border beyond Susta, Kalapani, Lipulekh and Limpiyadhura, but named no sites."
 sources:
   - title: "Govt acknowledges border encroachment by India but provides no details"
     publisher: "OnlineKhabar English"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: OnlineKhabar English, 25 Oct 4:50 pm NPT (4:35 pm IST). The ministry's reply is written; quoted phrase 'problems of cross-border occupation and encroachment on no-man's land exist' as given there. Date the reply was sent not stated."
+    - "Single source: OnlineKhabar English, Oct 25 4:50 pm NPT (4:35 pm IST). The ministry's reply is written; quoted phrase 'problems of cross-border occupation and encroachment on no-man's land exist' as given there. Date the reply was sent not stated."
     - "Headline of the source frames it as encroachment 'by India'; the ministry wording quoted speaks of cross-border occupation and encroachment on no-man's land without assigning direction, so copy follows the ministry wording."
     - "No Indian response found."
 ---
@@ -50,6 +50,6 @@ The ministry said that apart from those four areas, where mapping "remains incom
 
 It said the locations were being mapped through the Nepal-India Boundary Working Group and other mechanisms, and that Nepal "remains committed to resolving this issue through diplomatic dialogue" on the basis of historical treaties, agreements and maps. The present boundary rests largely on the Treaty of Sugauli of 1816, and the two countries share an open border.
 
-The Boundary Working Group was set up in 2014 to handle technical work such as building and restoring boundary pillars. It first met in Kathmandu in July 2015 and has held seven meetings in all; at the latest, in New Delhi on 28-29 July 2025, the two sides agreed to finish the remaining technical work within three years, leaving out Kalapani and Susta.
+The Boundary Working Group was set up in 2014 to handle technical work such as building and restoring boundary pillars. It first met in Kathmandu in July 2015 and has held seven meetings in all; at the latest, in New Delhi on July 28-29, 2025, the two sides agreed to finish the remaining technical work within three years, leaving out Kalapani and Susta.
 
 The reply comes as relations with India are being debated in Kathmandu. Finance Minister Swarnim Wagle drew criticism, including from former foreign minister Kamal Thapa, after telling a summit in New Delhi on Friday that the era when Nepali nationalism was associated with anti-India sentiment "is over". India has not commented on the ministry's reply.

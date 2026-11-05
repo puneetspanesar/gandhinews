@@ -22,7 +22,7 @@ hero:
     value: "Release them alive, or else"
 related: [costa-rica-opens-mega-prison-bukele-model]
 seo:
-  description: "El Salvador's Nayib Bukele said on 21 October he had launched a military operation in Haiti to rescue four Salvadoran technicians kidnapped by gangs."
+  description: "El Salvador's Nayib Bukele said on October 21 he had launched a military operation in Haiti to rescue four Salvadoran technicians kidnapped by gangs."
 sources:
   - title: "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti"
     publisher: "AP (via KPBS)"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Details and quotes from AP via KPBS (1:39 am PDT 22 Oct). Al Jazeera article could not be fetched (permission); headline only."
+    - "Details and quotes from AP via KPBS (1:39 am PDT Oct 22). Al Jazeera article could not be fetched (permission); headline only."
     - "AP calls the four both 'soldiers' and 'aviation technicians'; copy uses 'aviation technicians' and notes they are members of El Salvador's contingent. Force name given variously; copy says 'gang suppression force'."
     - "Unclear whether the four are confirmed alive; copy says so."
 ---

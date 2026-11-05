@@ -6,12 +6,12 @@ section: sports
 format_label: "Sports / Cricket"
 topics: []
 title: "BCCI puts IPL 2027 stakeholders' meeting on hold, Impact Player debate waits"
-standfirst: "The conclave of franchises, broadcasters and state associations was due in Mumbai on Thursday evening. Teams still have until 15 November to name retained players before a December auction in Goa."
+standfirst: "The conclave of franchises, broadcasters and state associations was due in Mumbai on Thursday evening. Teams still have until November 15 to name retained players before a December auction in Goa."
 published: 2026-10-15T17:30:00+05:30
 location: Mumbai
 keyPoints:
   - "The meeting at the Taj Santacruz has been **put on hold** with no new date."
-  - "Franchises must submit retention lists by **15 November**."
+  - "Franchises must submit retention lists by **November 15**."
   - "The mini-auction is expected in **Goa in December**."
 hero:
   need: "BCCI secretary Devajit Saikia"
@@ -21,7 +21,7 @@ hero:
     value: "IPL's 20th season, meeting on hold"
 related: [modi-hosts-asian-games-champions-iyer-harmanpreet-delhi, bcci-denies-india-sri-lanka-odi-shift-from-delhi]
 seo:
-  description: "The BCCI has postponed its IPL 2027 stakeholders' meeting in Mumbai. Retention lists are due on 15 November and the mini-auction is expected in Goa in December."
+  description: "The BCCI has postponed its IPL 2027 stakeholders' meeting in Mumbai. Retention lists are due on November 15 and the mini-auction is expected in Goa in December."
 sources:
   - title: "BCCI Postpones IPL 2027 Meeting: Impact Player Rule and 20th Season Plans in Focus"
     publisher: "Sportsdanka"
@@ -46,9 +46,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Postponement and memo quotes from Sportsdanka only (14 Oct, updated 5:01 pm IST). Consistent with Daily Excelsior/Sports Digest reports that BCCI officials and Jay Shah attended the 15 Oct felicitation. Story timed for Thursday evening when the meeting would have been held."
+    - "Postponement and memo quotes from Sportsdanka only (Oct 14, updated 5:01 pm IST). Consistent with Daily Excelsior/Sports Digest reports that BCCI officials and Jay Shah attended the Oct 15 felicitation. Story timed for Thursday evening when the meeting would have been held."
     - "Late Oct/early Nov window: 'cricket operations executives suggested', Sportsdanka only; hedged."
-    - "Retention deadline 15 Nov and Goa auction in December (likely second week): Business Standard (citing Cricbuzz) and The Cricket News agree."
+    - "Retention deadline Nov 15 and Goa auction in December (likely second week): Business Standard (citing Cricbuzz) and The Cricket News agree."
     - "First auction on Indian soil in recent years after Saudi Arabia, Dubai, Abu Dhabi: The Cricket News only."
     - "Agenda list for the rescheduled meeting: Sportsdanka; original agenda: Business Standard and Daily Jagran."
 ---
@@ -67,4 +67,4 @@ IPL 2027 will be the league's 20th season, and the board wanted a wider meeting 
 
 The agenda covers retention limits, Right-to-Match cards and purse caps, overseas player availability, venue and fan facilities, and broadcasters' concerns over match timings. The Impact Player rule, criticised by several Indian captains and franchise coaches, remains the most debated item.
 
-The calendar does not wait for the meeting. Franchises have until 15 November to submit their lists of retained and released players, and the mini-auction is expected in Goa in the second week of December. It will be the last auction of the 2023 to 2027 cycle, and the first held in India in recent years after editions in Saudi Arabia, Dubai and Abu Dhabi. The trading window is already open.
+The calendar does not wait for the meeting. Franchises have until November 15 to submit their lists of retained and released players, and the mini-auction is expected in Goa in the second week of December. It will be the last auction of the 2023 to 2027 cycle, and the first held in India in recent years after editions in Saudi Arabia, Dubai and Abu Dhabi. The trading window is already open.

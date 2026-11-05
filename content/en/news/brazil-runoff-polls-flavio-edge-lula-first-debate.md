@@ -22,7 +22,7 @@ hero:
     value: "Neck and neck, eight days out"
 related: [brazil-senate-approves-40-hour-week-end-6x1-before-runoff]
 seo:
-  description: "Flávio Bolsonaro leads Lula 46.8% to 45.9% in a CNT/MDA poll before Brazil's 25 October runoff, a toss-up within the margin of error before Sunday's first debate."
+  description: "Flávio Bolsonaro leads Lula 46.8% to 45.9% in a CNT/MDA poll before Brazil's October 25 runoff, a toss-up within the margin of error before Sunday's first debate."
 sources:
   - title: "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off"
     publisher: "Al Jazeera"
@@ -47,15 +47,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Poll figures: CNT/MDA and Quaest from Al Jazeera (16 Oct); Datafolha (fieldwork 13-14 Oct, 2,520 voters, +/-2 points; 47-45 raw, 51-49 valid) from The Rio Times."
-    - "Meta row: based on Rio Times headlines only ('Meta Admits Lula Glitches, Denies Bias'; 'Brazil Court Backs Equal Treatment by Meta') and Al Jazeera 16 Oct headline 'Meta employees say Lula's accounts restricted in Brazil election: Report'. Articles could not be opened; kept to one hedged sentence each, no detail."
-    - "Debate: Rio Times headline 'Lula, Flávio Set for First Runoff Debate', URL slug says Band, 18 October. Time not confirmed, so not given."
+    - "Poll figures: CNT/MDA and Quaest from Al Jazeera (Oct 16); Datafolha (fieldwork Oct 13-14, 2,520 voters, +/-2 points; 47-45 raw, 51-49 valid) from The Rio Times."
+    - "Meta row: based on Rio Times headlines only ('Meta Admits Lula Glitches, Denies Bias'; 'Brazil Court Backs Equal Treatment by Meta') and Al Jazeera Oct 16 headline 'Meta employees say Lula's accounts restricted in Brazil election: Report'. Articles could not be opened; kept to one hedged sentence each, no detail."
+    - "Debate: Rio Times headline 'Lula, Flávio Set for First Runoff Debate', URL slug says Band, October 18. Time not confirmed, so not given."
     - "First-round votes and ages, Jair Bolsonaro's 27-year sentence and house arrest: Al Jazeera."
 ---
 
-Senator Flávio Bolsonaro has kept a slender lead over President Luiz Inácio Lula da Silva in the race for Brazil's presidency, with a third poll in as many days putting him narrowly ahead eight days before the runoff on 25 October.
+Senator Flávio Bolsonaro has kept a slender lead over President Luiz Inácio Lula da Silva in the race for Brazil's presidency, with a third poll in as many days putting him narrowly ahead eight days before the runoff on October 25.
 
-A CNT/MDA survey released on Friday gave Bolsonaro 46.8% and Lula 45.9%. A Quaest poll a day earlier had the senator on 46% to Lula's 44%, and Datafolha, interviewing 2,520 voters on 13 and 14 October, found him ahead by 47% to 45%. All three gaps are within the polls' margin of error of about two points, and many analysts see the contest as a toss-up.
+A CNT/MDA survey released on Friday gave Bolsonaro 46.8% and Lula 45.9%. A Quaest poll a day earlier had the senator on 46% to Lula's 44%, and Datafolha, interviewing 2,520 voters on October 13 and 14, found him ahead by 47% to 45%. All three gaps are within the polls' margin of error of about two points, and many analysts see the contest as a toss-up.
 
 Datafolha's previous survey, a week earlier, had shown a four-point lead, so Lula has narrowed the gap slightly.
 
@@ -63,7 +63,7 @@ Datafolha's previous survey, a week earlier, had shown a four-point lead, so Lul
 
 Lula, 80, is seeking a fourth, non-consecutive term. A month ago he was widely expected to win comfortably. Bolsonaro, 42, is the son of former president Jair Bolsonaro, who is under house arrest serving a 27-year sentence over efforts to overturn the 2022 election and is barred from standing until 2030. The son has campaigned on a crackdown on crime and drug trafficking and on tax cuts.
 
-In the first round on 4 October, Bolsonaro won 56,104,503 votes to Lula's 53,879,538.
+In the first round on October 4, Bolsonaro won 56,104,503 votes to Lula's 53,879,538.
 
 Lula got a lift this week when Congress approved a constitutional amendment giving workers two days off a week instead of one, a central promise of his campaign. Datafolha's next poll is expected to show whether the vote has shifted opinion.
 

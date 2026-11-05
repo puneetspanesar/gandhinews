@@ -52,11 +52,11 @@ verification:
   status: approved
   notes:
     - "Consideration: PIB Hindi release gives ₹52,878.0806181 crore; media quoting the official statement give ₹52,877.07 crore. Copy says 'about ₹52,878 crore'."
-    - "PIB release posted 6:30 pm IST, 14 Oct, under Cabinet (CCEA)."
+    - "PIB release posted 6:30 pm IST, Oct 14, under Cabinet (CCEA)."
     - "Vaishnaw quote and Chawla timeline from Upstox; CSB merge-or-exit condition and open offer from Hans India and Daily Jagran (two sources agree); not in the PIB text."
     - "Emirates NBD as the other bidder: Daily Jagran only; PIB says two qualified bidders without naming them. Copy names Emirates NBD with 'was reported'."
-    - "Valuation-period trading range ₹61.01 to ₹118.38 and ₹70.38 on 18 May 2026: Upstox only; left out."
-    - "IDBI share price on 14 Oct not found; left out."
+    - "Valuation-period trading range ₹61.01 to ₹118.38 and ₹70.38 on May 18, 2026: Upstox only; left out."
+    - "IDBI share price on Oct 14 not found; left out."
 ---
 
 The Union Cabinet on Wednesday approved the sale of a controlling 60.72% stake in IDBI Bank to a Canadian company owned by Prem Watsa's Fairfax Financial Holdings, closing a privatisation that the government first cleared in principle five years ago.
@@ -83,6 +83,6 @@ After the deal, the government will keep 15% and LIC 19%, a combined 34%. An emp
 
 The buyer must file certificates with the RBI and submit a roadmap showing how it will meet regulatory requirements. Fairfax will also have to make an open offer to minority shareholders. Because it already holds a stake in CSB Bank, it will have two years either to merge CSB with IDBI Bank or to exit that holding.
 
-Arunish Chawla, Secretary of the Department of Investment and Public Asset Management, said the transaction would be completed before the end of the current financial year, which ends on 31 March 2027.
+Arunish Chawla, Secretary of the Department of Investment and Public Asset Management, said the transaction would be completed before the end of the current financial year, which ends on March 31, 2027.
 
 It is the biggest strategic disinvestment by the Centre since the sale of Air India.

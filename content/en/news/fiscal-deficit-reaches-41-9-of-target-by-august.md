@@ -67,15 +67,15 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-checked 11 Oct 2026: ₹7,10,249 crore, 41.9% and 38.1% confirmed by UNI; 18.2%/17.9% and ₹3,07,833 crore by ThePrint (PTI); 26.8%/29.9% and ₹4,55,144 crore by Daily Excelsior; ICRA figures (6.5%, -23%, 24%, 8%, -3%, 12.5%, capex +18%/+60%/-30%, ₹1.3-1.4 lakh crore overshoot, devolution tranche, customs, small savings) by Deccan Chronicle; BE figures (₹16,95,768 cr, ₹53,47,315 cr, ₹35,33,150 cr) by Budget at a Glance; 8.0% GTR growth and 50±1% debt by 2030-31 by PIB; FY26 outturn by Deccan Herald."
+    - "Fact-checked Oct 11, 2026: ₹7,10,249 crore, 41.9% and 38.1% confirmed by UNI; 18.2%/17.9% and ₹3,07,833 crore by ThePrint (PTI); 26.8%/29.9% and ₹4,55,144 crore by Daily Excelsior; ICRA figures (6.5%, -23%, 24%, 8%, -3%, 12.5%, capex +18%/+60%/-30%, ₹1.3-1.4 lakh crore overshoot, devolution tranche, customs, small savings) by Deccan Chronicle; BE figures (₹16,95,768 cr, ₹53,47,315 cr, ₹35,33,150 cr) by Budget at a Glance; 8.0% GTR growth and 50±1% debt by 2030-31 by PIB; FY26 outturn by Deccan Herald."
     - "Corrected: the story said the deficit was 'running behind last year's pace until July', but at end-June it was slightly ahead (18.2% vs 17.9%). Also removed 'Spending rose faster on the revenue side', which the data contradicts (capex +18% vs revenue spending +8%)."
-    - "The CGA's own release for August 2026 (cga.nic.in, last updated 9 Oct 2026) could not be read: the page body did not load. Monthly deficit figures rest on UNI, PTI (via ThePrint), Daily Excelsior and Deccan Chronicle. The BE figure (₹16,95,768 crore) is confirmed from Budget at a Glance."
+    - "The CGA's own release for August 2026 (cga.nic.in, last updated Oct 9, 2026) could not be read: the page body did not load. Monthly deficit figures rest on UNI, PTI (via ThePrint), Daily Excelsior and Deccan Chronicle. The BE figure (₹16,95,768 crore) is confirmed from Budget at a Glance."
     - "The tax, subsidy and capex growth rates come from Deccan Chronicle's report of ICRA's analysis. No ICRA spokesperson is named and there are no direct quotes, so none are used."
     - "Deccan Chronicle reports ICRA citing expenditure savings of ₹1.6 to 1.7 lakh crore that could absorb the overshoot, but the year these savings refer to is unclear in the report. Left out."
     - "April-May figure (₹1.62 lakh crore, 9.6% of BE) rests on a Deccan Chronicle headline only; not used in the chart."
 ---
 
-The Centre's fiscal deficit for April-August 2026 stood at ₹7,10,249 crore, or 41.9% of the Budget Estimate (BE) for 2026-27, according to Controller General of Accounts (CGA) data released on 30 September. A year earlier, the deficit for the same five months was 38.1% of that year's target.
+The Centre's fiscal deficit for April-August 2026 stood at ₹7,10,249 crore, or 41.9% of the Budget Estimate (BE) for 2026-27, according to Controller General of Accounts (CGA) data released on September 30. A year earlier, the deficit for the same five months was 38.1% of that year's target.
 
 The Budget for 2026-27 targets a deficit of ₹16,95,768 crore, or 4.3% of GDP, down from 4.4% in 2025-26. The deficit is the gap between what the government spends and what it earns, which it covers by borrowing.
 
@@ -91,7 +91,7 @@ August changed that. The cumulative deficit went from ₹4,55,144 crore at the e
 
 ## Where the pressure is coming from
 
-Gross tax revenue grew 6.5% in April-August, according to ICRA's analysis. The Budget assumes 8.0% growth for the full year. Excise collections fell 23% after the government cut excise duty on petrol and diesel on 27 March to cushion oil marketing companies from higher crude prices. Most other taxes grew at double-digit rates.
+Gross tax revenue grew 6.5% in April-August, according to ICRA's analysis. The Budget assumes 8.0% growth for the full year. Excise collections fell 23% after the government cut excise duty on petrol and diesel on March 27 to cushion oil marketing companies from higher crude prices. Most other taxes grew at double-digit rates.
 
 On the spending side, subsidies were up 24% and revenue expenditure 8%, while interest payments fell 3%. Revenue spending excluding interest and subsidies grew 12.5%.
 
@@ -111,6 +111,6 @@ ICRA also sees some offsets. Customs collections are running above budget becaus
 
 ## Last year's record
 
-The government met its 2025-26 target. The deficit for that year was ₹15,19,169 crore, or 4.4% of GDP, according to provisional accounts reported on 1 June 2026. That was 97.5% of the Revised Estimate.
+The government met its 2025-26 target. The deficit for that year was ₹15,19,169 crore, or 4.4% of GDP, according to provisional accounts reported on June 1, 2026. That was 97.5% of the Revised Estimate.
 
 The Budget also set a medium-term goal of bringing central government debt down to 50% of GDP, give or take one percentage point, by 2030-31.

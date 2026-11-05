@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "RailTel's September-quarter profit fell to **₹68.6 crore** from ₹76.1 crore a year earlier."
   - "Revenue from operations rose **20.5% to ₹1,146 crore**, led by project work."
-  - "The board declared an interim dividend of **₹1 a share**, with a record date of 30 October."
+  - "The board declared an interim dividend of **₹1 a share**, with a record date of October 30."
 hero:
   need: "RailTel Corporation of India's corporate office or logo signage"
   suggested_source: "RailTel Corporation of India"
@@ -22,7 +22,7 @@ hero:
     value: "Revenue up 20%, profit down 10%"
 related: []
 seo:
-  description: "RailTel Q2 FY27 results: net profit falls to ₹68.6 crore from ₹76.1 crore as revenue rises 20.5% to ₹1,146 crore; ₹1 interim dividend, record date 30 October, payment 20 November."
+  description: "RailTel Q2 FY27 results: net profit falls to ₹68.6 crore from ₹76.1 crore as revenue rises 20.5% to ₹1,146 crore; ₹1 interim dividend, record date October 30, payment November 20."
 sources:
   - title: "RailTel Q2 Profit Falls to Rs 68.6 Crore; Declares Rs 1 Interim Dividend"
     publisher: "Indian PSU"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Board met Sunday 25 Oct (PSU Connect). Whalesbook published 2:52 pm, Indian PSU 8:41 pm; story timed after both were available in the afternoon."
+    - "Board met Sunday, Oct 25 (PSU Connect). Whalesbook published 2:52 pm, Indian PSU 8:41 pm; story timed after both were available in the afternoon."
     - "Indian PSU calls the figures consolidated; Whalesbook does not specify. PAT ₹68.56 crore vs ₹76.07 crore; revenue ₹1,146.14 crore vs ₹951.36 crore: both agree."
     - "EBITDA ₹176 crore (+13.9%), margin 15.4% vs 16.2%, PBT ₹92.30 crore vs ₹105.30 crore, exceptional charge ₹32.2 crore, segment split: Indian PSU only. Nature of the exceptional item not reported."
     - "H1 total income ₹2,058.66 crore, H1 profit ₹134.34 crore: Whalesbook only. No management quotes found. Share price reaction will come Monday."
@@ -50,7 +50,7 @@ verification:
 
 RailTel Corporation of India, the state-owned telecom and IT infrastructure company of the railways, reported a 10% fall in quarterly profit on Sunday even as its revenue grew by a fifth, and declared an interim dividend of ₹1 a share.
 
-Profit for the quarter to 30 September came to ₹68.6 crore, down from ₹76.1 crore a year earlier. Revenue from operations rose 20.5% to ₹1,146 crore from ₹951.4 crore. The board met on a Sunday to approve the numbers.
+Profit for the quarter to September 30 came to ₹68.6 crore, down from ₹76.1 crore a year earlier. Revenue from operations rose 20.5% to ₹1,146 crore from ₹951.4 crore. The board met on a Sunday to approve the numbers.
 
 An exceptional charge of ₹32.2 crore did much of the damage. Profit before tax fell to ₹92.3 crore from ₹105.3 crore, even though earnings before interest, tax, depreciation and amortisation rose 13.9% to ₹176 crore. The operating margin slipped to 15.4% from 16.2%.
 
@@ -62,6 +62,6 @@ For the first half of the year, RailTel's total income was ₹2,058.66 crore and
 
 ## The dividend
 
-The interim dividend of ₹1 on each ₹10 share has a record date of Friday, 30 October, and will be paid by 20 November. Auditors Lunawat & Co gave an unmodified limited review of the results.
+The interim dividend of ₹1 on each ₹10 share has a record date of Friday, October 30, and will be paid by November 20. Auditors Lunawat & Co gave an unmodified limited review of the results.
 
 The shares will trade on the numbers for the first time on Monday. RailTel also disclosed on Saturday that it had won a ₹20.04 crore IT infrastructure contract from Munitions India.

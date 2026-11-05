@@ -6,11 +6,11 @@ section: world
 format_label: "World / Bangladesh"
 topics: []
 title: "Tarique Rahman heads to Tokyo next week with Matarbari port and a link to India's northeast on the table"
-standfirst: "Bangladesh's prime minister will hold talks with Sanae Takaichi on 27 October. Tokyo wants the Japanese-funded deep-sea port to become a gateway for India's seven northeastern states."
+standfirst: "Bangladesh's prime minister will hold talks with Sanae Takaichi on October 27. Tokyo wants the Japanese-funded deep-sea port to become a gateway for India's seven northeastern states."
 published: 2026-10-21T17:40:00+05:30
 location: Dhaka
 keyPoints:
-  - "Tarique Rahman will visit Japan **from 26 to 29 October** at Sanae Takaichi's invitation."
+  - "Tarique Rahman will visit Japan **from October 26 to 29** at Sanae Takaichi's invitation."
   - "Three or four of about **eight draft agreements** may be signed during the visit."
   - "Japanese officials see **connectivity to northeast India** as key to Matarbari port's value."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Dhaka to Tokyo, via the northeast"
 related: [tarique-rahman-rangpur-durga-puja-mahanavami, saudi-executes-two-bangladeshis-mecca-dhaka-disappointed]
 seo:
-  description: "Bangladesh PM Tarique Rahman visits Japan 26-29 October for talks with Sanae Takaichi on Matarbari port, MoUs and connectivity to India's northeast."
+  description: "Bangladesh PM Tarique Rahman visits Japan October 26-29 for talks with Sanae Takaichi on Matarbari port, MoUs and connectivity to India's northeast."
 sources:
   - title: "Bangladesh, Japan may sign up to 4 deals during PM Tarique's Tokyo visit"
     publisher: "The Daily Star"
@@ -47,15 +47,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Curtain-raiser. Visit dates, 27 Oct talks and MoU count from Foreign Secretary Asad Alam Siam's briefing (Daily Star, updated 20 Oct 5:26 pm; Daily Times of Bangladesh, updated 21 Oct 12:51 pm BST). Hook falls just before this run's window; not previously covered on the site."
-    - "Northeast India quotes are from unnamed Japanese officials (The Hindu, 17 Oct). Hedged as Japanese officials."
+    - "Curtain-raiser. Visit dates, Oct 27 talks and MoU count from Foreign Secretary Asad Alam Siam's briefing (Daily Star, updated Oct 20 5:26 pm; Daily Times of Bangladesh, updated Oct 21 12:51 pm BST). Hook falls just before this run's window; not previously covered on the site."
+    - "Northeast India quotes are from unnamed Japanese officials (The Hindu, Oct 17). Hedged as Japanese officials."
     - "Japan's concern over the June Beijing communique is 'reportedly' raised through diplomatic channels (Daily Times of Bangladesh); hedged."
-    - "Emperor meeting only 'expected' (Dhaka Tribune, 6 Oct); left out."
+    - "Emperor meeting only 'expected' (Dhaka Tribune, Oct 6); left out."
 ---
 
 Bangladesh's Prime Minister Tarique Rahman will travel to Tokyo next week for a four-day visit in which Japan hopes to turn a port it is building on the Bay of Bengal into a trade gateway for India's northeast.
 
-Rahman will be in Japan from 26 to 29 October at the invitation of Prime Minister Sanae Takaichi. The two leaders will hold talks at the Japanese prime minister's office on 27 October, followed by a lunch. Bangladesh and Japan are negotiating about eight memorandums of understanding, and three or four could be signed, covering areas such as agriculture, fisheries, skills, civil aviation, trade and the environment. A joint statement is likely.
+Rahman will be in Japan from October 26 to 29 at the invitation of Prime Minister Sanae Takaichi. The two leaders will hold talks at the Japanese prime minister's office on October 27, followed by a lunch. Bangladesh and Japan are negotiating about eight memorandums of understanding, and three or four could be signed, covering areas such as agriculture, fisheries, skills, civil aviation, trade and the environment. A joint statement is likely.
 
 Japan's foreign ministry said the visit "is expected to further strengthen the 'Strategic Partnership'". Foreign Secretary Asad Alam Siam said the economic partnership agreement the two countries signed in February "has created new opportunities for expanding trade and investment". Dhaka will also raise Japanese help for its metro rail, airport and port projects and push for lower interest rates on Japanese loans.
 

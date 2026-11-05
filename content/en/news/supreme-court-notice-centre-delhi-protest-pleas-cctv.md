@@ -60,13 +60,13 @@ verification:
     - "Orders (notice to Union and Delhi Police, CCTV preservation, Section 163 orders on record, nodal counsel, notice on S.172 BNSS challenge): LiveLaw 2:30 pm and Bar & Bench. 'earnest appeal' quote verbatim from Bar & Bench; '46 matters' from Bar & Bench."
     - "Bagchi 'arguing against a ghost' from LiveLaw (fragment). Hariharan 'Going by this logic, one can protest from Kerala' from Daijiworld citing ANI."
     - "Contempt: Home Secretary Govind Mohan's unconditional apology and Mehta's argument (paraphrased, no direct quote available) from PTI via DT Next and The Publish. Bench said it was not taking cognisance of media reports of apologies; written as paraphrase."
-    - "Jantar Mantar: Bar & Bench says response sought from Delhi Police, Daijiworld says Delhi government; written as 'the authorities'. Petitioner not named in today's reports (likely advocate Swaty Singh, filed 14 Oct); not named."
+    - "Jantar Mantar: Bar & Bench says response sought from Delhi Police, Daijiworld says Delhi government; written as 'the authorities'. Petitioner not named in today's reports (likely advocate Swaty Singh, filed Oct 14); not named."
     - "Next date of hearing not reported in any source by about 4 pm; omitted."
 ---
 
 The Supreme Court on Thursday ordered the police and every other agency involved to preserve CCTV footage and other digital material from the protests against Chief Election Commissioner Gyanesh Kumar, and told Delhi Police to put on record the prohibitory orders it used to bar gatherings in the capital.
 
-A bench of Chief Justice Surya Kant and Justice Joymalya Bagchi issued notice to the Union government and Delhi Police on the batch of petitions over the detentions of protesters, lawyers and journalists since 10 October. It also issued notice on a petition challenging Section 172 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), which lets police detain or remove people who disregard their directions.
+A bench of Chief Justice Surya Kant and Justice Joymalya Bagchi issued notice to the Union government and Delhi Police on the batch of petitions over the detentions of protesters, lawyers and journalists since October 10. It also issued notice on a petition challenging Section 172 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), which lets police detain or remove people who disregard their directions.
 
 The pile of cases has grown fast. With 46 matters now before the court, the Chief Justice asked lawyers to hold back. "We make an earnest appeal to the members of the Bar not to file more petitions," he said. The bench asked the Solicitor General's side and the petitioners to each name a nodal counsel to bring the overlapping issues together.
 
@@ -76,11 +76,11 @@ A large part of the hearing turned on a document the petitioners had never seen.
 
 Justice Bagchi remarked that the lawyers were "arguing against a ghost", since the complaint was that the order had never been placed on record. Senior advocate Kapil Sibal said none of the lawyers had seen it. The court asked Solicitor General Tushar Mehta to file the promulgated orders with the authorities' further affidavits.
 
-In its affidavit, the police defended the restrictions on grounds of public order and the 18th BRICS Summit. It said some orders that reached beyond the protest area were later withdrawn in line with the court's directions of 11 October. The orders covered New Delhi district before the 10 October protest and barred assemblies of five or more people, processions and dharnas without written permission.
+In its affidavit, the police defended the restrictions on grounds of public order and the 18th BRICS Summit. It said some orders that reached beyond the protest area were later withdrawn in line with the court's directions of October 11. The orders covered New Delhi district before the October 10 protest and barred assemblies of five or more people, processions and dharnas without written permission.
 
 ## Apologies and contempt
 
-In the contempt case over the closure of Metro stations on 10 October, Mehta argued that the unconditional apology tendered by Union Home Secretary Govind Mohan did not stop the government from defending what it had done, and that an apology was part of the procedure. The bench said it was not going by media reports that the authorities had apologised. Delhi Metro chairperson D Thara had offered her own apology in an affidavit on Wednesday.
+In the contempt case over the closure of Metro stations on October 10, Mehta argued that the unconditional apology tendered by Union Home Secretary Govind Mohan did not stop the government from defending what it had done, and that an apology was part of the procedure. The bench said it was not going by media reports that the authorities had apologised. Delhi Metro chairperson D Thara had offered her own apology in an affidavit on Wednesday.
 
 ## Jantar Mantar
 

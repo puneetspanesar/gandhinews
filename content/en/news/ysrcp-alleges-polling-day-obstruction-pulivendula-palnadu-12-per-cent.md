@@ -35,10 +35,10 @@ infographic:
     - {icon: users, value: "55,583", label: "votes polled in Palnadu by 9 am"}
     - {icon: map-pin, value: "576", label: "polling stations in 11 Palnadu mandals"}
   chart: {type: columns, title: "Turnout by 9 am, selected Palnadu mandals, %", highlight: 0, items: [{label: "Piduguralla", value: 18.55, display: "18.55"}, {label: "Gurazala", value: 16.77, display: "16.77"}, {label: "Sattenapalli", value: 16.76, display: "16.76"}, {label: "Krosuru", value: 6.31, display: "6.31"}, {label: "Chilakaluripet", value: 4.63, display: "4.63"}]}
-  source: "Palnadu district election authorities; YSRCP statement, 5 November 2026"
+  source: "Palnadu district election authorities; YSRCP statement, November 5, 2026"
 related: [andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
-  description: "YSRCP alleged obstruction of polling agents and voters in Pulivendula, Ramagiri and Hindupur during Andhra MPTC-ZPTC polls on 5 November 2026; Palnadu recorded 12.06% turnout by 9 am."
+  description: "YSRCP alleged obstruction of polling agents and voters in Pulivendula, Ramagiri and Hindupur during Andhra MPTC-ZPTC polls on November 5, 2026; Palnadu recorded 12.06% turnout by 9 am."
 sources:
   - title: "YSRCP alleges polling-day violence and obstruction during ZPTC, MPTC elections in Andhra Pradesh"
     publisher: "ANI"
@@ -63,7 +63,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov, YSRCP statement reported 09:18 IST (ANI, Vijayawada); Palnadu turnout figure is as of 09:00 IST (Hans India, published 10:11 IST). Published time set at 09:40 to sit after the YSRCP statement; Palnadu figure was released by district authorities around 9 am."
+    - "event: Nov 5, YSRCP statement reported 09:18 IST (ANI, Vijayawada); Palnadu turnout figure is as of 09:00 IST (Hans India, published 10:11 IST). Published time set at 09:40 to sit after the YSRCP statement; Palnadu figure was released by district authorities around 9 am."
     - "All obstruction, threat, attack and house-arrest claims rest on the YSRCP statement as carried by ANI only; written as allegations attributed to the party. No TDP, police or SEC response found in any source read."
     - "Burra Madhusudhan Yadav notice: ANI only, reported as police action, with his response paraphrased (no verbatim quote available)."
     - "Rayanipeta boycott (120 voters) and Janardhanapuram sandbags: ANI only, hedged."
@@ -99,4 +99,4 @@ Piduguralla led at 18.55%, followed by Gurazala and Sattenapalli at nearly 16.8%
 Elsewhere the weather left by Cyclone Murasu was still a factor. State Election Commission officials said polling had been put off to Friday in **five mandals across Eluru and East Godavari** and at two centres in another mandal. At Janardhanapuram in Gudivada constituency, rainwater flooded a polling station, and officials were reported to have laid sandbags as a walkway for elderly and disabled voters. All 120 voters of Rayanipeta in Bheemili mandal were reported to have stayed away in protest over the lack of basic amenities.
 
 
-Voting for 582 ZPTC and 7,767 MPTC seats ends at 5 pm. **Counting is on Saturday**, 7 November.
+Voting for 582 ZPTC and 7,767 MPTC seats ends at 5 pm. **Counting is on Saturday**, November 7.

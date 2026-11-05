@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Bar & Bench 4:27 am 24 Oct; LawBeat 1:27 pm; ANI 1:36 pm. Published time set after LawBeat/ANI, as filing widely reported in early afternoon."
+    - "Bar & Bench 4:27 am Oct 24; LawBeat 1:27 pm; ANI 1:36 pm. Published time set after LawBeat/ANI, as filing widely reported in early afternoon."
     - "Petitioner name: Vishal Tiwari (B&B, ANI headline search snippet, Newsdrum); LawBeat case title says 'Vishal Mishra', treated as error."
     - "No hearing date or bench reported. 14 dissent notes figure is a media report cited in the petition; attributed to the petition."
     - "Quotes from the petition verbatim from LawBeat."

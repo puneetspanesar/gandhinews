@@ -9,7 +9,7 @@ title: "Umrah pilgrims stranded in Saudi Arabia need a state that answers, and o
 standfirst: "Houthi strikes have shut Riyadh's airport and Indian airlines have suspended Saudi flights. Elderly pilgrims are paying for a gap in the rules: Haj is tightly organised by the state, Umrah is left almost entirely to private operators."
 published: 2026-10-21T15:00:00+05:30
 keyPoints:
-  - "Air India, Air India Express and IndiGo have **suspended all Saudi routes**, IndiGo until 24 October."
+  - "Air India, Air India Express and IndiGo have **suspended all Saudi routes**, IndiGo until October 24."
   - "The government has **not publicly answered** an MP's appeal to bring stranded pilgrims home."
   - "Umrah operators should be **registered and bonded** to guarantee their customers' return."
 hero:
@@ -38,15 +38,15 @@ verification:
   status: approved
   notes:
     - "Editorial view of the desk; recommendations are the desk's own."
-    - "Airline suspensions (Air India and AI Express all Saudi routes until 20 October; IndiGo until 24 October; Akasa Riyadh until 24, Jeddah until 21 October), Riyadh airport closed, Dammam/Jeddah/Madinah operating with disruption, Saudia/Flynas/flyadeal alternatives, embassy advisory wording 'account for airport disruptions...' and six Indians injured at Riyadh airport on 10 October, all from Siasat, 16 October. Whether Air India resumed after 20 October not checked; copy says suspensions 'have run' and avoids stating Air India's current status."
-    - "Mansoor Ali Khan letters, operators running out of money, overstay risk, Makkah control room set up by Jeddah consulate on 15 October: desk's 18 October story (ANI). No government reply found as of that story; not rechecked today beyond the search."
+    - "Airline suspensions (Air India and AI Express all Saudi routes until October 20; IndiGo until October 24; Akasa Riyadh until 24, Jeddah until October 21), Riyadh airport closed, Dammam/Jeddah/Madinah operating with disruption, Saudia/Flynas/flyadeal alternatives, embassy advisory wording 'account for airport disruptions...' and six Indians injured at Riyadh airport on October 10, all from Siasat, October 16. Whether Air India resumed after October 20 not checked; copy says suspensions 'have run' and avoids stating Air India's current status."
+    - "Mansoor Ali Khan letters, operators running out of money, overstay risk, Makkah control room set up by Jeddah consulate on October 15: desk's October 18 story (ANI). No government reply found as of that story; not rechecked today beyond the search."
     - "Number of stranded pilgrims unknown; none given."
     - "Haj is organised through the Haj Committee of India and registered private operators under the Minority Affairs ministry, while Umrah has no comparable state framework: general knowledge, stated broadly. No claim made about any specific existing Umrah regulation."
 ---
 
 Indian Muslims travel in large numbers to Makkah and Madinah for Umrah, the pilgrimage that can be made at any time of year. This October, many of them cannot get home.
 
-Houthi missile and drone strikes on Saudi Arabia have closed Riyadh's international airport and thrown the kingdom's air travel into disorder. Six Indians were injured in the attack on the airport on 10 October. Indian carriers pulled out: Air India and Air India Express suspended all their Saudi routes, and IndiGo has suspended its flights until 24 October. The Indian embassy in Riyadh has warned intending pilgrims to "account for airport disruptions and possible flight cancellations, which could result in extended stays".
+Houthi missile and drone strikes on Saudi Arabia have closed Riyadh's international airport and thrown the kingdom's air travel into disorder. Six Indians were injured in the attack on the airport on October 10. Indian carriers pulled out: Air India and Air India Express suspended all their Saudi routes, and IndiGo has suspended its flights until October 24. The Indian embassy in Riyadh has warned intending pilgrims to "account for airport disruptions and possible flight cancellations, which could result in extended stays".
 
 For those already there, the warning came too late.
 

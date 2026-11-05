@@ -30,7 +30,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch, 2:00 pm PDT 14 Oct, described as an exclusive). Colossal's own release not read."
+    - "Single source (TechCrunch, 2:00 pm PDT Oct 14, described as an exclusive). Colossal's own release not read."
     - "Lamm quote 'treasure map for the dodo genome' is a fragment as reported; second quote verbatim."
     - "No funding figures for GenoMorph or NeoGenesis Capital reported."
 ---

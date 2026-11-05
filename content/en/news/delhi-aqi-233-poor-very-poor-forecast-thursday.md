@@ -22,7 +22,7 @@ hero:
     value: "AQI 233 at 9 am, worse due"
 related: [delhi-air-set-to-turn-poor-stubble-fires-dry-week, delhi-aqi-161-dussehra-morning-moderate, delhi-air-turns-poor-again-anand-vihar-dry-week]
 seo:
-  description: "Delhi's AQI was 233 (poor) at 9 am on 21 October 2026, per CPCB, with the early warning system forecasting 342 (very poor) for Thursday morning."
+  description: "Delhi's AQI was 233 (poor) at 9 am on October 21, 2026, per CPCB, with the early warning system forecasting 342 (very poor) for Thursday morning."
 sources:
   - title: "Delhi records low of 18 degrees Celsius, air quality 'poor'"
     publisher: "ThePrint (PTI)"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - 'AQI 233 at 9 am (CPCB) from PTI via ThePrint; 219 at 7 am and 342 forecast for 22 Oct 9 am from Business Standard (AQEWS dashboard). BS says last poor day was 13 July (AQI 246) and calls 21 Oct the first poor day in 100 days, but our own 17 Oct story reported a poor reading, so that claim is left out. Brief asked for ''post-Diwali'' framing: Diwali 2026 falls on 8 November, so this is pre-Diwali; not framed as post-Diwali.'
+    - 'AQI 233 at 9 am (CPCB) from PTI via ThePrint; 219 at 7 am and 342 forecast for Oct 22 9 am from Business Standard (AQEWS dashboard). BS says last poor day was July 13 (AQI 246) and calls Oct 21 the first poor day in 100 days, but our own Oct 17 story reported a poor reading, so that claim is left out. Brief asked for ''post-Diwali'' framing: Diwali 2026 falls on November 8, so this is pre-Diwali; not framed as post-Diwali.'
 ---
 
 Delhi's air turned poor on Wednesday morning, and forecasters expect it to get worse before the week is out.
@@ -46,7 +46,7 @@ The Central Pollution Control Board put the city's air quality index at 233 at 9
 
 ## A sharper slide ahead
 
-The early warning dashboard projects an AQI of 342 at 9 am on Thursday, which would put the capital in the very poor category of 301 to 400. The IMD bulletin issued on Tuesday forecast poor air from 21 to 23 October and poor conditions for the six days after that.
+The early warning dashboard projects an AQI of 342 at 9 am on Thursday, which would put the capital in the very poor category of 301 to 400. The IMD bulletin issued on Tuesday forecast poor air from October 21 to 23 and poor conditions for the six days after that.
 
 The change follows a run of cooler, drier days. Safdarjung, the city's main weather station, recorded a minimum of 18°C on Wednesday, below the seasonal average. Palam logged 17.8°C, 1.1 degrees below normal, Ayanagar 17.7°C and the Ridge 19.1°C. The daytime maximum was expected to touch about 31°C. On Tuesday the city's maximum was 31.8°C, 0.8 degrees below normal.
 
@@ -56,6 +56,6 @@ Cool nights and light winds keep pollutants close to the ground, and with no rai
 
 The Commission for Air Quality Management runs the Graded Response Action Plan for Delhi and the National Capital Region. Its four stages bring progressively tighter curbs, from dust control and limits on diesel generators to restrictions on construction and on vehicles. The commission can trigger stages on the strength of forecasts, not only on readings already recorded, so a forecast of very poor air can bring Stage II measures before the city actually crosses 300.
 
-No new GRAP order had been announced by Wednesday afternoon. With Diwali on 8 November and the stubble season under way, the coming fortnight is usually when the city's air takes its sharpest turn.
+No new GRAP order had been announced by Wednesday afternoon. With Diwali on November 8 and the stubble season under way, the coming fortnight is usually when the city's air takes its sharpest turn.
 
 The CPCB's 4 pm bulletin, the official daily figure, is due later on Wednesday.

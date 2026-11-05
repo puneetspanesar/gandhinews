@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 12:52 IST (Investywise timestamp 07:22:58 UTC), Tata Motors commercial vehicle October 2026 sales, citing BSE filing (filing not opened)."
+    - "event: Nov 1 12:52 IST (Investywise timestamp 07:22:58 UTC), Tata Motors commercial vehicle October 2026 sales, citing BSE filing (filing not opened)."
     - "Figures from Investywise; Whalesbook headline (27%, 47,652) agrees, page not opened. Segments 12,030 + 7,213 + 3,826 + 16,715 = 39,784; 39,784 + 7,868 = 47,652, checks out. No quotes in source."
 ---
 

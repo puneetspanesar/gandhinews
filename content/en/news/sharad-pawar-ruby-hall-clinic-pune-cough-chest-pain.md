@@ -27,7 +27,7 @@ cover:
   bg: "Ruby Hall Clinic"
 related: [sunetra-pawar-panel-sweeps-someshwar-sugar-factory-polls]
 seo:
-  description: "NCP (SP) chief Sharad Pawar, 85, was admitted to Ruby Hall Clinic in Pune on 2 November 2026 after a cough and chest pain; Supriya Sule says he is stable."
+  description: "NCP (SP) chief Sharad Pawar, 85, was admitted to Ruby Hall Clinic in Pune on November 2, 2026, after a cough and chest pain; Supriya Sule says he is stable."
 sources:
   - title: "NCP (SP) Supremo Sharad Pawar Admitted To Ruby Hall Clinic In Pune"
     publisher: "ETV Bharat"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, news broke about 5:45 pm IST (ETV Bharat 5:49 pm, Deccan Chronicle 5:57 pm). ETV says he was brought to hospital in the afternoon; exact admission time and time of Sule's X post not given. Admission may slightly precede the 5:20 pm window; the public announcement falls inside it."
+    - "event: Nov 2, news broke about 5:45 pm IST (ETV Bharat 5:49 pm, Deccan Chronicle 5:57 pm). ETV says he was brought to hospital in the afternoon; exact admission time and time of Sule's X post not given. Admission may slightly precede the 5:20 pm window; the public announcement falls inside it."
     - "Sule quotes from her X post as carried by ETV Bharat and Deccan Chronicle. Grant quote verbatim from ETV Bharat. 'Pleuritic pain' from Deccan Chronicle only, so written as chest pain."
     - "Drought tour detail from ETV Bharat only."
     - "A Gulf News page from February 2026 about an earlier Ruby Hall admission surfaced in search; not used."

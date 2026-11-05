@@ -22,7 +22,7 @@ hero:
     value: "Tusk in Delhi, Modi talks today"
 related: [tusk-india-visit-october-21-modi-bengaluru]
 seo:
-  description: "Polish PM Donald Tusk arrived in New Delhi on 21 October. He meets Jaishankar, visits Rajghat and holds talks with Narendra Modi at Hyderabad House on Thursday."
+  description: "Polish PM Donald Tusk arrived in New Delhi on October 21. He meets Jaishankar, visits Rajghat and holds talks with Narendra Modi at Hyderabad House on Thursday."
 sources:
   - title: "Polish PM Donald Tusk arrives in New Delhi; bilateral talks with PM Modi, India-Poland Business Forum on agenda"
     publisher: "The Tribune"
@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Arrival time not given in any source; Tribune report timestamped 12:39 am IST 22 Oct, Punjab Kesari 11:50 pm 21 Oct. Copy says 'Wednesday night'."
+    - "Arrival time not given in any source; Tribune report timestamped 12:39 am IST Oct 22, Punjab Kesari 11:50 pm Oct 21. Copy says 'Wednesday night'."
     - "Receiving minister: Tribune spells Raj Bhushan Chaudhary, DD India Raj Bhushan Choudhary; MoS Jal Shakti per Tribune. Used Choudhary."
     - "Thursday schedule (Jaishankar meeting, Rajghat, Hyderabad House talks with press statements, evening flight to Bengaluru) from DD India and Vartha Bharati (PTI copy). Business forum dates from Tribune. No ceremonial welcome mentioned in sources, so not included."
     - "No agreements or MoUs named in advance; none listed. Trade figures not in sources read, left out."
-    - "Jaishankar-Sikorski meeting 4 Sept and Nawrocki meeting from Tribune only."
+    - "Jaishankar-Sikorski meeting Sept 4 and Nawrocki meeting from Tribune only."
 ---
 
 Polish Prime Minister Donald Tusk arrived in New Delhi on Wednesday night at the start of a three-day visit, and will hold talks with Prime Minister Narendra Modi at Hyderabad House on Thursday.
@@ -70,7 +70,7 @@ An India-Poland Business Forum meets in New Delhi on Thursday. In the evening Tu
 
 ## Two years after Warsaw
 
-Modi's visit to Poland in August 2024 lifted the relationship to a Strategic Partnership. In the run-up to this trip, Jaishankar was in Warsaw on 4 September, where he and Polish Deputy Prime Minister and Foreign Minister Radosław Sikorski reviewed the Joint Action Plan for 2024 to 2028. He also called on Polish President Karol Nawrocki.
+Modi's visit to Poland in August 2024 lifted the relationship to a Strategic Partnership. In the run-up to this trip, Jaishankar was in Warsaw on September 4, where he and Polish Deputy Prime Minister and Foreign Minister Radosław Sikorski reviewed the Joint Action Plan for 2024 to 2028. He also called on Polish President Karol Nawrocki.
 
 This is Tusk's second official visit to India as Prime Minister. He first came in 2010, during his earlier term, and was in New Delhi again in 2017 for the India-EU Summit, then as President of the European Council.
 

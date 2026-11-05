@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Session times from News.gp in CET/CEST: FP3 Sat 19:30, qualifying Sat 23:00, race Sun 21:00. Converted at CEST (UTC+2, clocks change 25 Oct): qualifying 2:30 am IST Sunday; FP3 11 pm IST Saturday (Speedcafe: 12:30 pm local). Race time Sunday 21:00 CEST would be after clock change, so race IST time not stated."
+    - "Session times from News.gp in CET/CEST: FP3 Sat 19:30, qualifying Sat 23:00, race Sun 21:00. Converted at CEST (UTC+2, clocks change Oct 25): qualifying 2:30 am IST Sunday; FP3 11 pm IST Saturday (Speedcafe: 12:30 pm local). Race time Sunday 21:00 CEST would be after clock change, so race IST time not stated."
     - "News.gp publication date not shown; date given is when it was read. No sprint this year per News.gp."
     - "Hadjar 'disgusting' as reported by F1.com, attributed to team radio; not used."
 ---

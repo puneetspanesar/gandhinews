@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "TechCrunch, 18 Oct 20:37 UTC (2:07 am IST 19 Oct). Quote is Anthropic's announcement as carried by TechCrunch."
+    - "TechCrunch, Oct 18 20:37 UTC (2:07 am IST Oct 19). Quote is Anthropic's announcement as carried by TechCrunch."
     - "Amodei 'crisis of trust' line is from an earlier TechCrunch interview, used as background only."
 ---
 

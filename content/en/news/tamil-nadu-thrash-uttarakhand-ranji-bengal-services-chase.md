@@ -53,7 +53,7 @@ verification:
   status: approved
   notes:
     - "Day-three scores from Khel Now live scorecards only, read about 3:30 pm IST; several Khel Now pages were visibly stale (Delhi v Gujarat, Assam v Tripura), so those games are left out."
-    - "Day-two context and Shahbaz quotes from RevSportz (19 Oct)."
+    - "Day-two context and Shahbaz quotes from RevSportz (Oct 19)."
     - "Uttarakhand first-innings overs differ between Khel Now index and page; only totals used."
 ---
 

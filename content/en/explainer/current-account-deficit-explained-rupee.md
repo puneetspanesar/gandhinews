@@ -38,9 +38,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Q1 FY27 figures ($4.2bn, 0.5% of GDP; $3.4bn, 0.4% a year earlier; goods deficit $86.1bn; services net $51.6bn; remittances $42.9bn; primary income outflow $10.5bn; FDI $6.1bn; FPI outflow $9.6bn; reserves down $8.1bn) from ETV Bharat and NewKerala, both reporting the RBI release of 1 September 2026. RBI release not opened."
-    - "August 2026 monthly figures (CAD $5.2bn; goods deficit $26.6bn; services surplus $16.5bn; transfers $12.8bn; income outflow $8bn) from the desk's 16 October story, sourced to PTI. The four components in the infographic sum to $5.3bn against a reported $5.2bn because of rounding and smaller items."
-    - "Rupee levels (94.89 on 16 October; a near-record low of about 97 the week before) from the desk's 16 and 12 October stories."
+    - "Q1 FY27 figures ($4.2bn, 0.5% of GDP; $3.4bn, 0.4% a year earlier; goods deficit $86.1bn; services net $51.6bn; remittances $42.9bn; primary income outflow $10.5bn; FDI $6.1bn; FPI outflow $9.6bn; reserves down $8.1bn) from ETV Bharat and NewKerala, both reporting the RBI release of September 1, 2026. RBI release not opened."
+    - "August 2026 monthly figures (CAD $5.2bn; goods deficit $26.6bn; services surplus $16.5bn; transfers $12.8bn; income outflow $8bn) from the desk's October 16 story, sourced to PTI. The four components in the infographic sum to $5.3bn against a reported $5.2bn because of rounding and smaller items."
+    - "Rupee levels (94.89 on October 16; a near-record low of about 97 the week before) from the desk's October 16 and 12 stories."
     - "The 2012-13 deficit of 4.8% of GDP and the 2013 taper tantrum episode are standard history, not re-checked in this run."
     - "Description of the current account's four parts and of the capital account is standard balance of payments practice (IMF BPM6), as used by the RBI."
 ---
@@ -69,7 +69,7 @@ Put together, the quarter ended with a deficit of $4.2 billion, compared with $3
 
 **The RBI compiles it from customs data, bank reports of foreign exchange transactions and company surveys, and publishes it in dollars.**
 
-Goods trade figures come largely from the commerce ministry's customs records. Services, income and transfers are built mainly from what banks report about foreign exchange payments and receipts, checked against surveys of companies. The RBI publishes full quarterly figures about two months after a quarter ends; the April to June data came out on 1 September. It also releases preliminary monthly figures, and the August numbers came out on 15 October.
+Goods trade figures come largely from the commerce ministry's customs records. Services, income and transfers are built mainly from what banks report about foreign exchange payments and receipts, checked against surveys of companies. The RBI publishes full quarterly figures about two months after a quarter ends; the April to June data came out on September 1. It also releases preliminary monthly figures, and the August numbers came out on October 15.
 
 Because a $5 billion gap means more for a small economy than a large one, the deficit is usually expressed as a share of GDP. India's April to June deficit was 0.5% of GDP.
 

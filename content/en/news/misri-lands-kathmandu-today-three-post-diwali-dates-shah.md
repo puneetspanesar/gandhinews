@@ -26,17 +26,17 @@ infographic:
   dek: "Two days of talks as India offers three post-Diwali dates"
   motif: handshake
   stats:
-    - {icon: calendar, value: "4-5 Nov", label: "Misri's visit to Kathmandu"}
+    - {icon: calendar, value: "Nov 4-5", label: "Misri's visit to Kathmandu"}
     - {icon: airplane, value: "3 dates", label: "offered by India for Shah's visit, all after Diwali"}
   timeline:
     - {date: "May", text: "Misri's first planned visit put off over protocol issues", icon: calendar}
-    - {date: "3 Nov", text: "New ambassador Sudhakar Dalela arrives in Kathmandu", icon: map-pin}
-    - {date: "4-5 Nov", text: "Misri holds talks with Amrit Bahadur Rai", icon: handshake}
+    - {date: "Nov 3", text: "New ambassador Sudhakar Dalela arrives in Kathmandu", icon: map-pin}
+    - {date: "Nov 4-5", text: "Misri holds talks with Amrit Bahadur Rai", icon: handshake}
     - {date: "Nov", text: "Balendra Shah's visit to New Delhi expected", icon: airplane}
   source: "MEA and Nepal Ministry of Foreign Affairs, November 2026"
 related: [vikram-misri-kathmandu-visit-november-4-5-balendra-shah, sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal, nepal-acknowledges-india-border-encroachment-no-details]
 seo:
-  description: "Foreign Secretary Vikram Misri begins a two-day Nepal visit on 4 November 2026 as India offers three post-Diwali November dates for PM Balendra Shah's trip to New Delhi."
+  description: "Foreign Secretary Vikram Misri begins a two-day Nepal visit on November 4, 2026, as India offers three post-Diwali November dates for PM Balendra Shah's trip to New Delhi."
 sources:
   - title: "India Proposes Post-Diwali Dates for Nepal PM Balen Shah's Visit"
     publisher: "Deccan Chronicle"
@@ -56,10 +56,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: visit begins 4 Nov (no arrival time found by 6:05 am IST); three-dates report Deccan Chronicle 3 Nov 8:23 pm IST. Arrival and meetings not yet reported; update when Misri lands."
+    - "event: visit begins Nov 4 (no arrival time found by 6:05 am IST); three-dates report Deccan Chronicle Nov 3 8:23 pm IST. Arrival and meetings not yet reported; update when Misri lands."
     - "Three post-Diwali dates: single source (Deccan Chronicle, unattributed, dates not listed); written as 'is understood to have offered'."
     - "Meetings with the President and PM Shah, and trade/energy/border/joint projects agenda: Review Nepal only; hedged. Energy, security, connectivity, flood reconstruction and hydropower agenda for Shah's visit: Deccan Chronicle, unattributed; hedged as expected."
-    - "MEA quotes verbatim via Deccan Chronicle (and our 2 Nov story). OnlineKhabar names the counterpart 'Amrit Kumar Rai'; other sources and our earlier story say Amrit Bahadur Rai, used that."
+    - "MEA quotes verbatim via Deccan Chronicle (and our Nov 2 story). OnlineKhabar names the counterpart 'Amrit Kumar Rai'; other sources and our earlier story say Amrit Bahadur Rai, used that."
 ---
 
 Foreign Secretary **Vikram Misri travels to Kathmandu on Wednesday** for a two-day visit that New Delhi and Kathmandu both see as the groundwork for Prime Minister Balendra Shah's first official trip to India.

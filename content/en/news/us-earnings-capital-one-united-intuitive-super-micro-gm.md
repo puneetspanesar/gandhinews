@@ -22,7 +22,7 @@ hero:
     value: "Super Micro up 12.7% after hours"
 related: [netflix-q3-results-job-cuts-ad-forecast-shares-fall, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
 seo:
-  description: "US results on 20 October 2026: Super Micro raises outlook and jumps, Capital One profit $3.5 billion, United record revenue, Intuitive Surgical and GM shares fall."
+  description: "US results on October 20, 2026: Super Micro raises outlook and jumps, Capital One profit $3.5 billion, United record revenue, Intuitive Surgical and GM shares fall."
 sources:
   - title: "Stock Market News for Oct 20, 2026"
     publisher: "Stock Titan"

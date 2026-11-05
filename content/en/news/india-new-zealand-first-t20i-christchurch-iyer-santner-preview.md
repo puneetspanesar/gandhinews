@@ -55,8 +55,8 @@ verification:
     - "Start time 12:30 pm IST and 8 pm local both from Outlook (consistent with NZDT)."
     - "Iyer's indication that Sooryavanshi may wait and Duffy's remark that NZ have plans for him are paraphrases in Outlook; no direct quotes. Hedged."
     - "Outlook's predicted NZ XI includes the injured Mark Chapman, so predicted XIs not used."
-    - "Tour schedule (ODIs from 4 Nov, Tests from 19 Nov) from CricTracker and Khel Now."
-    - "Kaif quote dated 19 Oct (CricTracker)."
+    - "Tour schedule (ODIs from Nov 4, Tests from Nov 19) from CricTracker and Khel Now."
+    - "Kaif quote dated Oct 19 (CricTracker)."
 ---
 
 India begin a long tour of New Zealand on Thursday with the first of five T20Is at Hagley Oval in Christchurch, a ground where they have never played the format. The match starts at 8 pm local time, 12:30 pm IST, under lights on what is expected to be a chilly evening.
@@ -81,6 +81,6 @@ India lead the overall T20I head-to-head 19-11, with one tie. In New Zealand the
 
 ## A long trip
 
-The five T20Is are only the start. Five ODIs follow from 4 November, with Shubman Gill and Iyer sharing the captaincy, and two Tests begin on 19 November. Mohammed Shami was left out of all three squads, and the selectors have given no official reason. Former India batter Mohammad Kaif said on 19 October: "I believe there should be transparency. Come forward and tell us what the reason is."
+The five T20Is are only the start. Five ODIs follow from November 4, with Shubman Gill and Iyer sharing the captaincy, and two Tests begin on November 19. Mohammed Shami was left out of all three squads, and the selectors have given no official reason. Former India batter Mohammad Kaif said on October 19: "I believe there should be transparency. Come forward and tell us what the reason is."
 
 The match will be shown on the Sony Sports Network and streamed on SonyLIV.

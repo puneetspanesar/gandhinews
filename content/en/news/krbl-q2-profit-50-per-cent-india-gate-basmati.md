@@ -49,14 +49,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 16:01 IST, KRBL board meeting outcome filed with NSE (timestamp in filing name 02112026160131); HDFC Sky article published 16:38 IST."
+    - "event: Nov 2 16:01 IST, KRBL board meeting outcome filed with NSE (timestamp in filing name 02112026160131); HDFC Sky article published 16:38 IST."
     - "All figures from HDFC Sky only, which cites the NSE filing; filing itself could not be fetched (fetch permission blocked)."
     - "Share price: HDFC Sky gives Rs 363 at 3:57 pm IST, up Rs 17.95 (5.20%); market closed at 3:30 pm, so treated as the closing level, before results. No management quote found."
 ---
 
 KRBL, the company behind the India Gate basmati rice brand, on Monday reported a **50% jump in September-quarter profit** as sales grew at a steady clip.
 
-Consolidated net profit for the quarter ended 30 September came to ₹258.93 crore, against ₹172.11 crore a year earlier. Revenue from operations **rose 14.3% to ₹1,727.36 crore** from ₹1,511.08 crore. Profit before tax climbed to ₹349.04 crore from ₹232.52 crore, and earnings per share rose to ₹11.31 from ₹7.52.
+Consolidated net profit for the quarter ended September 30 came to ₹258.93 crore, against ₹172.11 crore a year earlier. Revenue from operations **rose 14.3% to ₹1,727.36 crore** from ₹1,511.08 crore. Profit before tax climbed to ₹349.04 crore from ₹232.52 crore, and earnings per share rose to ₹11.31 from ₹7.52.
 
 ## Flat on the previous quarter
 

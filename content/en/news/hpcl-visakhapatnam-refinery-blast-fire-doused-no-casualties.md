@@ -28,7 +28,7 @@ cover:
   inset: "Visakh Refinery"
 related: []
 seo:
-  description: "An explosion caused a massive fire at HPCL's Visakhapatnam refinery on the night of 2 November 2026; the fire was put out with no casualties and a safety inquiry was ordered."
+  description: "An explosion caused a massive fire at HPCL's Visakhapatnam refinery on the night of November 2, 2026; the fire was put out with no casualties and a safety inquiry was ordered."
 sources:
   - title: "Fire at HPCL refinery in Visakhapatnam doused, no casualties"
     publisher: "ANI"
@@ -48,9 +48,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov night IST (exact time not reported); India TV first report 11:19 pm IST 2 Nov, ANI 'doused' report around 12:44 am IST 3 Nov."
+    - "event: Nov 2 night IST (exact time not reported); India TV first report 11:19 pm IST Nov 2, ANI 'doused' report around 12:44 am IST Nov 3."
     - "RUF location from India TV only. CP quote from India TV; name spelt Shankhabrata Bagchi (India TV wrote 'Shankabrata Baghci'). RDO Dileep Chakravarthy quotes from ANI."
-    - "2013 cooling tower blast (two dead, 37 injured) from Oneindia; MRPL Mangaluru blast 30 Sept 2026 (one dead, eight injured) from Oneindia and India TV."
+    - "2013 cooling tower blast (two dead, 37 injured) from Oneindia; MRPL Mangaluru blast Sept 30, 2026 (one dead, eight injured) from Oneindia and India TV."
     - "No HPCL statement found. Production impact not reported."
 ---
 

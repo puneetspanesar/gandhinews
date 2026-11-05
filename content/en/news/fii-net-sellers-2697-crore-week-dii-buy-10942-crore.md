@@ -10,7 +10,7 @@ standfirst: "Indian institutions bought shares in every session of the Dussehra-
 published: 2026-10-24T18:30:00+05:30
 location: Mumbai
 keyPoints:
-  - "Foreign institutions sold a net **₹2,697.37 crore** of Indian shares in the four sessions to 23 October."
+  - "Foreign institutions sold a net **₹2,697.37 crore** of Indian shares in the four sessions to October 23."
   - "Domestic institutions bought a net **₹10,942.19 crore** over the same days."
   - "Thursday's foreign selling of **₹3,458.70 crore** was the heaviest of the week."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Foreigners sell, Indians buy"
 related: [fpi-selling-reaches-52100-crore-october-friday-buying, fpi-outflows-record-3-trillion-2026, sensex-nifty-close-october-23-smallcaps-crash-metals, week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat]
 seo:
-  description: "FIIs sold a net ₹2,697.37 crore of Indian shares in the week to 23 October 2026 while DIIs bought ₹10,942.19 crore; Sensex fell 2.15% for the week."
+  description: "FIIs sold a net ₹2,697.37 crore of Indian shares in the week to October 23, 2026, while DIIs bought ₹10,942.19 crore; Sensex fell 2.15% for the week."
 sources:
   - title: "Weekly review: Indian stock market prediction, Oct 26th to Oct 30th 2026"
     publisher: "Liquide"
@@ -52,9 +52,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Daily and weekly FII/DII figures are provisional exchange data as compiled by Liquide (24 Oct); single source for the weekly totals and Mon/Wed/Fri figures. Thursday's ₹3,458.70 crore also in PTI (via The Federal, used in Saturday desk story)."
-    - "Monday -1,148.64; Wednesday +1,022.32; Thursday -3,458.70; Friday +887.65 crore. Markets shut Tuesday 20 Oct for Dussehra."
-    - "Depository (NSDL) figure of ₹52,100 crore covers 1-16 October and is a different data set from exchange provisional figures; copy keeps them separate. Sunday's NSDL update for the week not yet out at time of writing."
+    - "Daily and weekly FII/DII figures are provisional exchange data as compiled by Liquide (Oct 24); single source for the weekly totals and Mon/Wed/Fri figures. Thursday's ₹3,458.70 crore also in PTI (via The Federal, used in Saturday desk story)."
+    - "Monday -1,148.64; Wednesday +1,022.32; Thursday -3,458.70; Friday +887.65 crore. Markets shut Tuesday, Oct 20 for Dussehra."
+    - "Depository (NSDL) figure of ₹52,100 crore covers October 1-16 and is a different data set from exchange provisional figures; copy keeps them separate. Sunday's NSDL update for the week not yet out at time of writing."
     - "'Four times as much' in headline: 10,942.19 / 2,697.37 = 4.06."
 ---
 

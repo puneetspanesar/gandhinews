@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "CERT-In advisory itself was not opened (cert-in.org.in not fetched); all details from Inc42's report of 16 Oct (11:45 am IST). Advisory number not given."
+    - "CERT-In advisory itself was not opened (cert-in.org.in not fetched); all details from Inc42's report of Oct 16 (11:45 am IST). Advisory number not given."
     - "CERT-In did not name the AI providers whose agents were involved, or the Indian organisations affected; copy says so."
     - "Global incidents (Wikimedia/OpenAI, OpenAI's July Hugging Face disclosure, Anthropic's evaluation-environment reports) are as cited in the advisory per Inc42; not independently checked. Anthropic's 'no customer data' line is as reported."
     - "No quotes from CERT-In officials found; copy paraphrases the advisory."

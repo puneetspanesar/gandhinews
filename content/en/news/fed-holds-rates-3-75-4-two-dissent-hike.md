@@ -23,7 +23,7 @@ hero:
     value: "Fed holds, two vote to hike"
 related: [week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, gold-ends-week-near-4166-fed-hike-bets-ease-warsh, us-inflation-september-cpi-rises-before-midterms, sensex-nifty-week-october-30-pharma-fii-return, rbi-raises-repo-rate-to-5-50]
 seo:
-  description: "The US Federal Reserve held rates at 3.75%-4% on 28 October 2026 in a 10-2 vote, with Lisa Cook and Beth Hammack dissenting for a hike; inflation remains elevated."
+  description: "The US Federal Reserve held rates at 3.75%-4% on October 28, 2026, in a 10-2 vote, with Lisa Cook and Beth Hammack dissenting for a hike; inflation remains elevated."
 sources:
   - title: "Federal Reserve Holds Rates at 3.75%-4%; Two Officials Favor Another Hike"
     publisher: "Quiver Quantitative"
@@ -56,8 +56,8 @@ verification:
     - "Decision, 10-2 vote, Cook and Hammack dissents for a 25 bp hike: Quiver Quant and investingLive agree; Navia also has 10-2 with two governors (Hammack is a reserve bank president, so Navia's 'governors' wording not used)."
     - "'Solid' to 'strong' wording change: investingLive. 'Inflation remains elevated': Quiver and Navia."
     - "IORB 3.90%, primary credit 4%: Quiver only."
-    - "September CPI 3.7%, core 2.6%; September hike unanimous and first in three years: Euronews (27 Oct) and CBS (17 Sep)."
-    - "Warsh's press conference remarks could not be retrieved (Admiral Markets page blocked); no Warsh quote from 28 Oct used. The quote used is from his September press conference per CBS."
+    - "September CPI 3.7%, core 2.6%; September hike unanimous and first in three years: Euronews (Oct 27) and CBS (Sep 17)."
+    - "Warsh's press conference remarks could not be retrieved (Admiral Markets page blocked); no Warsh quote from Oct 28 used. The quote used is from his September press conference per CBS."
     - "CBS item title in sources is a desk description; page fetched at the URL listed."
 ---
 
@@ -81,4 +81,4 @@ Under its chair, Kevin Warsh, the Fed raised rates in September for the first ti
 
 A Fed that stays on hold gives some breathing room to emerging markets, where higher US rates tend to draw money away. Indian shares rallied on Thursday, the day after the decision, and by Friday foreign investors turned **net buyers of Indian shares for the week**. The rupee held near 95 to the dollar.
 
-The Reserve Bank of India raised its own repo rate by 25 basis points to 5.50% on 7 October. A further Fed rise in December would add pressure on the rupee at a time when oil prices are already high.
+The Reserve Bank of India raised its own repo rate by 25 basis points to 5.50% on October 7. A further Fed rise in December would add pressure on the rupee at a time when oil prices are already high.

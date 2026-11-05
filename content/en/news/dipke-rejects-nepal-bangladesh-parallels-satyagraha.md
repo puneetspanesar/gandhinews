@@ -11,7 +11,7 @@ published: 2026-10-20T15:00:00+05:30
 location: New Delhi
 keyPoints:
   - "Abhijeet Dipke said jailed leaders Das and Ranka were following **Gandhian satyagraha**."
-  - "Their judicial custody was extended **till 21 October** after their surety was rejected."
+  - "Their judicial custody was extended **till October 21** after their surety was rejected."
   - "Sanjay Raut said **\"it is the Supreme Court alone that can save the nation\"**."
 hero:
   need: "Two-panel split: Cockroach Janta Party founder Abhijeet Dipke and Shiv Sena (UBT) MP Sanjay Raut"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Dipke quotes from his video statement on X, 20 Oct, as transcribed by ANI (2:55 pm). Raut quotes ANI 1:40 pm."
+    - "Dipke quotes from his video statement on X, Oct 20, as transcribed by ANI (2:55 pm). Raut quotes ANI 1:40 pm."
     - "Kejriwal and Akhilesh remarks in the Raut copy not dated clearly; left out."
 ---
 
@@ -49,7 +49,7 @@ In a video posted on X, Dipke said Saurav Das and Ashutosh Ranka "went to jail w
 
 He turned on critics who keep pointing to France: "have some shame and look at what is happening right here in India." And he said prison would not change the two men. "If anyone thinks locking Sourav and Ashutosh up will intimidate or break them, that is never going to happen."
 
-Das and Ranka were remanded after climbing the gate of Jantar Mantar with the Tricolour on 13 October. Their custody was extended until Wednesday, 21 October, after their surety was rejected over a reported mismatch in documents.
+Das and Ranka were remanded after climbing the gate of Jantar Mantar with the Tricolour on October 13. Their custody was extended until Wednesday, October 21, after their surety was rejected over a reported mismatch in documents.
 
 Shiv Sena (UBT) MP Sanjay Raut called on the Supreme Court to step in. "If we cannot hoist the Tricolour in our own country, then what can we do?" he said. "We have faith in the Supreme Court, and it is the Supreme Court alone that can save the nation." He warned that "if this government remains in power, chaos will inevitably spread".
 

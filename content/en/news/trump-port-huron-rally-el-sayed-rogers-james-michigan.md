@@ -22,7 +22,7 @@ hero:
     value: "Trump in Port Huron, nine days out"
 related: [trump-votes-early-florida-michigan-early-voting-opens, trump-backs-ramaswamy-ad-amy-acton-mother-dewine]
 seo:
-  description: "Donald Trump rallied for Mike Rogers and John James in Port Huron, Michigan, on 25 October and attacked Democrat Abdul El-Sayed ahead of the 3 November midterms."
+  description: "Donald Trump rallied for Mike Rogers and John James in Port Huron, Michigan, on October 25 and attacked Democrat Abdul El-Sayed ahead of the November 3 midterms."
 sources:
   - title: "President Trump rallies for Michigan Republicans at Port Huron gathering"
     publisher: "CBS Detroit"
@@ -42,13 +42,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Rally quotes and Hertel statement: CBS Detroit (published 5:58 pm EDT, 25 Oct) only; no crowd size reported. Rally remarks were scheduled for 3 pm EDT (FOX 2 preview), 12:30 am IST."
+    - "Rally quotes and Hertel statement: CBS Detroit (published 5:58 pm EDT, Oct 25) only; no crowd size reported. Rally remarks were scheduled for 3 pm EDT (FOX 2 preview), 12:30 am IST."
     - "First presidential visit to Port Huron and St Clair County: City of Port Huron via FOX 2."
     - "Rogers and James presence implied by Hertel's statement ('standing with'); copy says Trump praised and backed them, not that they spoke."
     - "Obama Saturday quotes from Al Jazeera."
 ---
 
-President Donald Trump took his midterm campaign to Port Huron, Michigan, on Sunday, telling supporters he had come to keep the Democratic Senate nominee Abdul El-Sayed out of Washington, nine days before the 3 November elections.
+President Donald Trump took his midterm campaign to Port Huron, Michigan, on Sunday, telling supporters he had come to keep the Democratic Senate nominee Abdul El-Sayed out of Washington, nine days before the November 3 elections.
 
 "I'm here to keep a jihadist Muslim Brotherhood member from becoming a United States senator," Trump said at McMorran Place arena, in what city officials said was the first visit by a president to Port Huron or St Clair County.
 

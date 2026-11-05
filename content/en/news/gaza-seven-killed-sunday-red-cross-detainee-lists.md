@@ -22,7 +22,7 @@ hero:
     value: "Seven more dead in a ceasefire"
 related: [gaza-five-killed-saturday-khan-younis-beit-lahia, gaza-city-strike-kills-one-1500-dead-since-ceasefire, hebron-closures-al-jalda-families-displaced]
 seo:
-  description: "Israeli strikes killed seven people in Gaza on 25 October, hospitals said, as the ICRC began receiving lists of Palestinian detainees from Israel again."
+  description: "Israeli strikes killed seven people in Gaza on October 25, hospitals said, as the ICRC began receiving lists of Palestinian detainees from Israel again."
 sources:
   - title: "Iran says messages are still being passed to the US amid war concerns, and other Mideast news (AP)"
     publisher: "Walla Walla Union-Bulletin"
@@ -50,8 +50,8 @@ Gaza's health ministry, which is run by Hamas, says more than 1,500 Palestinians
 
 ## Names, but no visits
 
-In a separate development, the International Committee of the Red Cross confirmed it has started receiving lists of Palestinian detainees from Israel again. Israel stopped sharing the lists, and stopped letting the ICRC visit detainees, after the Hamas-led attack of 7 October 2023. Israel's Supreme Court ordered the government earlier this year to resume both.
+In a separate development, the International Committee of the Red Cross confirmed it has started receiving lists of Palestinian detainees from Israel again. Israel stopped sharing the lists, and stopped letting the ICRC visit detainees, after the Hamas-led attack of October 7, 2023. Israel's Supreme Court ordered the government earlier this year to resume both.
 
-ICRC spokesperson Gilad Grossman said Israel had not yet allowed prison visits to restart, but the organisation hoped they would resume soon. Israel detained thousands of Palestinians after 7 October. Some were freed under last year's ceasefire deal, but about 9,000 remain in prison or detention, many in harsh conditions.
+ICRC spokesperson Gilad Grossman said Israel had not yet allowed prison visits to restart, but the organisation hoped they would resume soon. Israel detained thousands of Palestinians after October 7. Some were freed under last year's ceasefire deal, but about 9,000 remain in prison or detention, many in harsh conditions.
 
 In the occupied West Bank, Israeli forces pressed on with a raid in Hebron, an operation that has been reported to have displaced thousands of people as movement restrictions tighten.

@@ -22,7 +22,7 @@ hero:
     value: "Every Indian export, duty free"
 related: [india-nz-fta-duty-concessions-take-effect-october-20, india-new-zealand-fta-explained-what-changes]
 seo:
-  description: "The India-New Zealand FTA entered into force on 20 October. All Indian exports get duty-free access; India liberalises about 70% of tariff lines and protects dairy."
+  description: "The India-New Zealand FTA entered into force on October 20. All Indian exports get duty-free access; India liberalises about 70% of tariff lines and protects dairy."
 sources:
   - title: "India-New Zealand FTA comes into force on occasion of Vijay Dashami today"
     publisher: "News On AIR"
@@ -37,11 +37,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Entry-into-force ceremony with Goyal in New Delhi was on the evening of 19 Oct (News On AIR, 9:01 pm); copy says Monday evening. Goyal quotes are fragments as given by News On AIR."
+    - "Entry-into-force ceremony with Goyal in New Delhi was on the evening of Oct 19 (News On AIR, 9:01 pm); copy says Monday evening. Goyal quotes are fragments as given by News On AIR."
     - "Trade figures differ: ANI cites Commerce Ministry USD 1.3 billion merchandise trade in 2024-25 (up 49%), exports USD 711 million; News On AIR says about USD 1.1 billion in 2025-26. Both given with years."
     - "Doubling target to about ₹35,000 crore by 2030 is News On AIR's figure (goods and services)."
     - "Sampath Kumar, Additional DGFT, quote verbatim via ANI (Hyderabad)."
-    - "Signing date 27 April 2026 per ANI; Bharat Mandapam per News On AIR."
+    - "Signing date April 27, 2026, per ANI; Bharat Mandapam per News On AIR."
 ---
 
 The free trade agreement between India and New Zealand came into force on Tuesday, Vijayadashami, giving every Indian product duty-free entry into the New Zealand market from today.
@@ -54,4 +54,4 @@ At a ceremony in New Delhi on Monday evening to mark the start of the pact, Comm
 
 New Zealand has committed to facilitate $20 billion of investment into India in areas such as manufacturing, infrastructure and services, and the agreement opens new pathways for Indian professionals, students and young people. The government's aim is to double trade in goods and services to about ₹35,000 crore by 2030.
 
-Trade is small for now. The Commerce Ministry put two-way merchandise trade at $1.3 billion in 2024-25, up 49% on the year before, with Indian exports of $711 million. Goyal and New Zealand's Trade Minister Todd McClay signed the agreement in New Delhi on 27 April.
+Trade is small for now. The Commerce Ministry put two-way merchandise trade at $1.3 billion in 2024-25, up 49% on the year before, with Indian exports of $711 million. Goyal and New Zealand's Trade Minister Todd McClay signed the agreement in New Delhi on April 27.

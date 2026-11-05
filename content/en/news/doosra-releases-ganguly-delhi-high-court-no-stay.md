@@ -22,7 +22,7 @@ hero:
     value: "Personality rights v the big screen"
 related: []
 seo:
-  description: "Doosra released on 23 October after Justice Dinesh Bhatt of the Delhi High Court refused Sourav Ganguly's plea for an urgent stay in his personality-rights suit."
+  description: "Doosra released on October 23 after Justice Dinesh Bhatt of the Delhi High Court refused Sourav Ganguly's plea for an urgent stay in his personality-rights suit."
 sources:
   - title: "Delhi High Court Refuses To Stay 'Doosra' Film On Sourav Ganguly's Plea Alleging Personality Rights Violation"
     publisher: "LiveLaw"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (LiveLaw, 22 Oct, 6:12 pm). 'Keeping it for tomorrow' read as listing on 23 Oct; not independently confirmed. Outcome of any Friday hearing not found by 3:30 pm."
-    - "Release on 23 Oct as scheduled per LiveLaw; actual screenings not independently checked."
+    - "Single source (LiveLaw, Oct 22, 6:12 pm). 'Keeping it for tomorrow' read as listing on Oct 23; not independently confirmed. Outcome of any Friday hearing not found by 3:30 pm."
+    - "Release on Oct 23 as scheduled per LiveLaw; actual screenings not independently checked."
 ---
 
 *Doosra*, a film whose trailer leans heavily on footage of Sourav Ganguly, was set for release in cinemas on Friday after the Delhi High Court refused to stop its release on a suit by the former India captain alleging that the film exploits his personality without his permission.

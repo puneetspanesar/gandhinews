@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Supertanker: IRGC statement via Dawn live blog (4:07 pm PKT, 17 Oct) and Al Jazeera analysis (12:10, 17 Oct). Ship, flag and location not given by the IRGC. 'Attempting to pass illegally' and 'struck a mine, triggering an explosion and a fierce fire' are Dawn's rendering of the IRGC statement."
+    - "Supertanker: IRGC statement via Dawn live blog (4:07 pm PKT, Oct 17) and Al Jazeera analysis (12:10, Oct 17). Ship, flag and location not given by the IRGC. 'Attempting to pass illegally' and 'struck a mine, triggering an explosion and a fierce fire' are Dawn's rendering of the IRGC statement."
     - "Jubail RPG attack: UKMTO via Dawn live blog (2:02 pm PKT) and Al Jazeera; 1922 GMT Friday, 78 nm NE of Al Jubayl, aft port quarter damage. Converted to 12:52 am IST Saturday."
-    - "Sonowal and 15 Indian seafarers: single source, Dawn live blog citing Reuters (11:06 pm PKT, 16 Oct). Ship not named. No PIB release found. Kept as attributed statement."
+    - "Sonowal and 15 Indian seafarers: single source, Dawn live blog citing Reuters (11:06 pm PKT, Oct 16). Ship not named. No PIB release found. Kept as attributed statement."
     - "UKMTO weekly count (12 attacks), Kpler flows, Brent $110, Cooper quote, Persian Gulf Strait Authority: Al Jazeera analysis only."
     - "Ibn Reza quote as rendered in English by Dawn; Akraminia 500 km claim via Dawn live blog. Both are claims, written as such."
     - "Al Jazeera also says three tankers reported hit since Friday; we list the ones we could describe."
@@ -62,9 +62,9 @@ Late on Friday, Shipping Minister Sarbananda Sonowal said 15 Indian seafarers ab
 
 ## A week of attacks
 
-The UKMTO said at least 12 ships were attacked in the week to 16 October, and that it was "struggling to accurately report true number of attacks" because most vessels no longer report to it. Of the 12, six reached port or carried on, one sank, two were disabled and three were damaged or their fate was unclear. The first half of October has seen more attacks on shipping than any period since the US-Israeli war on Iran began on 28 February.
+The UKMTO said at least 12 ships were attacked in the week to October 16, and that it was "struggling to accurately report true number of attacks" because most vessels no longer report to it. Of the 12, six reached port or carried on, one sank, two were disabled and three were damaged or their fate was unclear. The first half of October has seen more attacks on shipping than any period since the US-Israeli war on Iran began on February 28.
 
-Brent crude touched $110 a barrel on Friday, the first time since May. Crude flows through the strait in the seven days to 13 October averaged 11.6 million barrels a day, about two-thirds of the pre-war level of 17.1 million, according to the ship-tracking firm Kpler.
+Brent crude touched $110 a barrel on Friday, the first time since May. Crude flows through the strait in the seven days to October 13 averaged 11.6 million barrels a day, about two-thirds of the pre-war level of 17.1 million, according to the ship-tracking firm Kpler.
 
 ## Rival claims of control
 

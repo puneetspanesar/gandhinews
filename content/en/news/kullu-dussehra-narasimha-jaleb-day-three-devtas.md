@@ -12,7 +12,7 @@ location: Kullu
 keyPoints:
   - "The **Narasimha Jaleb** set out from Raja ki Chanani in Dhalpur on Friday afternoon."
   - "**Hundreds of village deities** from the valley took part with their devotees."
-  - "The week-long festival ends with **Lanka Dahan on 27 October**."
+  - "The week-long festival ends with **Lanka Dahan on October 27**."
 hero:
   need: "Kullu Dussehra at Dhalpur Maidan: palanquins of village deities (devtas) in procession"
   suggested_source: "Kullu Dussehra Dhalpur"
@@ -22,7 +22,7 @@ hero:
     value: "Kullu's protector deity on the move"
 related: []
 seo:
-  description: "Hundreds of valley deities joined the Narasimha Jaleb procession from Dhalpur on the third day of International Kullu Dussehra on Friday, 23 October 2026."
+  description: "Hundreds of valley deities joined the Narasimha Jaleb procession from Dhalpur on the third day of International Kullu Dussehra on Friday, October 23, 2026."
 sources:
   - title: "Kullu: Bhagwan Nrisingh ki jaleb mein umda aastha ka sailab"
     publisher: "Himachal Dastak"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Jaleb details from Himachal Dastak (published 6:56 pm IST Friday), Hindi; route through hospital and college campus areas. No deity names or crowd figures given; 'hundreds' used."
     - "Folk dance contest: Amar Ujala (2:35 pm), more than 10 women's and youth mandal teams, four judges incl. Dr Surat Thakur, run by District Language Officer. Source inconsistent on whether it is day one of the contest or day three of the festival; copy says the contest opened on Friday, the festival's third day."
-    - "Dates 21-27 Oct from HimbuMail (also the title of the Kullu district event page in search results, not opened); Lanka Dahan 27 Oct and 'more than 300 village deities expected' from HimbuMail."
+    - "Dates Oct 21-27 from HimbuMail (also the title of the Kullu district event page in search results, not opened); Lanka Dahan Oct 27 and 'more than 300 village deities expected' from HimbuMail."
     - "Lord Narasimha as protector deity of the valley: Himachal Dastak wording."
 ---
 
@@ -52,8 +52,8 @@ The third day of the International Kullu Dussehra belonged to Lord Narasimha. On
 
 Drums, nagaras, the long karnal horns and shehnai played as the procession moved through the hospital and college areas and other parts of the town. Crowds lined both sides of the road from the Dhalpur ground to Raja ki Chanani, chanting "Jai Shri Ram" and "Jai Dev Narasimha". Before it set off, the deities gathered in Dhalpur for a meeting of the devtas.
 
-Lord Narasimha is regarded as the protector deity of the valley. The week-long festival began on Wednesday, 21 October, with the rath yatra of Lord Raghunath, Kullu's presiding deity. More than 300 village deities were expected at Dhalpur this year.
+Lord Narasimha is regarded as the protector deity of the valley. The week-long festival began on Wednesday, October 21, with the rath yatra of Lord Raghunath, Kullu's presiding deity. More than 300 village deities were expected at Dhalpur this year.
 
 Across town at the Lal Chand Prarthi Kalakendra, the festival's folk dance competition got under way on Friday. More than 10 cultural teams from women's and youth groups performed the nati in traditional Kullvi dress before a panel of four judges, among them Dr Surat Thakur. The contest, run by the District Language Officer, continues on Saturday, and the winners will be honoured at the close of the festival.
 
-Kullu Dussehra ends on 27 October with Lanka Dahan, the burning of Lanka, on its seventh day.
+Kullu Dussehra ends on October 27 with Lanka Dahan, the burning of Lanka, on its seventh day.

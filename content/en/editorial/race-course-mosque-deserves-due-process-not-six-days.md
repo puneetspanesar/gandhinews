@@ -46,11 +46,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Notice details (L&DO, six days, served Monday 19 October, land called government land and mosque unauthorised, NDMC heritage list entry 'Mosque and Campus, Race Course', Jamiat meeting with Rijiju and his assurance, Owaisi's 1977 gazette claim and 'waqf by user' argument) from the desk's 20 October news story and its sources."
-    - "Utilities cut on 8 October, imam Maulana Haroon's account that his petition was turned away because only the Waqf Board could file, capacity about 800, and age of 125 years: single source (Ummid.com), based on the imam's and politicians' statements. Age hedged as 'said to be'; the court that dismissed the petition is not named in the source, so not named here."
-    - "Delhi Waqf Board not constituted since its tenure ended in August 2023, administrator appointed January 2024, Delhi HC (Justice Anish Dayal) notice on plea in September 2026: Swarajya, 11 September 2026."
-    - "Delhi Race Club eviction upheld by Delhi High Court and wall/stables demolished by L&DO (late August 2026); nearby camps given until 5 October: ETV Bharat."
-    - "Supreme Court interim order of 15 September 2025 put on hold the provision letting a designated officer decide whether property claimed as waqf is government property: The Leaflet. The copy does not claim that this order governs an L&DO eviction under other laws; it is cited as a principle."
+    - "Editorial view of the desk. Notice details (L&DO, six days, served Monday, October 19, land called government land and mosque unauthorised, NDMC heritage list entry 'Mosque and Campus, Race Course', Jamiat meeting with Rijiju and his assurance, Owaisi's 1977 gazette claim and 'waqf by user' argument) from the desk's October 20 news story and its sources."
+    - "Utilities cut on October 8, imam Maulana Haroon's account that his petition was turned away because only the Waqf Board could file, capacity about 800, and age of 125 years: single source (Ummid.com), based on the imam's and politicians' statements. Age hedged as 'said to be'; the court that dismissed the petition is not named in the source, so not named here."
+    - "Delhi Waqf Board not constituted since its tenure ended in August 2023, administrator appointed January 2024, Delhi HC (Justice Anish Dayal) notice on plea in September 2026: Swarajya, September 11, 2026."
+    - "Delhi Race Club eviction upheld by Delhi High Court and wall/stables demolished by L&DO (late August 2026); nearby camps given until October 5: ETV Bharat."
+    - "Supreme Court interim order of September 15, 2025, put on hold the provision letting a designated officer decide whether property claimed as waqf is government property: The Leaflet. The copy does not claim that this order governs an L&DO eviction under other laws; it is cited as a principle."
     - "Recommendations are the desk's own."
 ---
 
@@ -89,5 +89,5 @@ Fourth, electricity and water should be restored while the case is heard. Cuttin
 If the courts find the land belongs to the government and the mosque has no right to it, the state can act with the law plainly behind it. That is a far stronger position than a bulldozer at the end of a six-day notice.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"6 days","label":"to vacate under the Land and Development Office's notice served on 19 October"},{"value":"Aug 2023","label":"when the last Delhi Waqf Board's term ended; no new board has been constituted"},{"value":"1977","label":"year of the Delhi Gazette entry the mosque's defenders cite as recording it as waqf"}]}
+{"title":"The reporting behind this view","items":[{"value":"6 days","label":"to vacate under the Land and Development Office's notice served on October 19"},{"value":"Aug 2023","label":"when the last Delhi Waqf Board's term ended; no new board has been constituted"},{"value":"1977","label":"year of the Delhi Gazette entry the mosque's defenders cite as recording it as waqf"}]}
 ```

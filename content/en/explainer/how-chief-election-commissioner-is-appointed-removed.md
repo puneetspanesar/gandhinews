@@ -70,18 +70,18 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-check 11 Oct 2026: selection committee, eligibility, term, outside-shortlist and vacancy rules, EC removal confirmed on PRS; February 2025 appointment, Rahul Gandhi's dissent and 26 Jan 2029 tenure on Scroll; signatures and special majority on Deccan Chronicle; notices on DT Next and The Statesman; SCO for Anoop Baranwal and Jaya Thakur."
+    - "Fact-check Oct 11, 2026: selection committee, eligibility, term, outside-shortlist and vacancy rules, EC removal confirmed on PRS; February 2025 appointment, Rahul Gandhi's dissent and Jan 26, 2029, tenure on Scroll; signatures and special majority on Deccan Chronicle; notices on DT Next and The Statesman; SCO for Anoop Baranwal and Jaya Thakur."
     - "Corrected: 'former IAS officer' (not in sources read) replaced with Scroll's description (Election Commissioner from March 2024, previously a Union Secretary)."
     - "Term, eligibility and EC-removal provisions are from PRS's summary of the 2023 Bill. The enacted Act may differ in detail (e.g. search committee composition, salary); those details are left out because the Act's final text was not read."
     - "The text of Article 324 itself was not opened; Article 324(5) and its link to Article 124(4) are as cited in the opposition notices reported by PTI and The Statesman."
-    - "Scroll's report is dated 18 February 2025 and refers to the appointment on the Monday (17 February); the copy says 'February 2025'."
+    - "Scroll's report is dated February 18, 2025, and refers to the appointment on the Monday (February 17); the copy says 'February 2025'."
     - "The role of the Speaker/Chairman in admitting a notice is inferred from the April 2026 orders under Section 3 of the Judges (Inquiry) Act as reported by PTI."
     - "No source read says whether any CEC has ever been removed; the copy makes no such claim."
 ---
 
 ## Who runs the Election Commission?
 
-**The Election Commission of India (ECI) is a three-member body: a Chief Election Commissioner (CEC) and two Election Commissioners.** The current CEC is Gyanesh Kumar, a former Union Secretary who became an Election Commissioner in March 2024 and took over as CEC in February 2025, with Sukhbir Singh Sandhu and Vivek Joshi as Election Commissioners. In its own words, from a statement on 23 September 2026, "The Commission operates as a multi-member constitutional body."
+**The Election Commission of India (ECI) is a three-member body: a Chief Election Commissioner (CEC) and two Election Commissioners.** The current CEC is Gyanesh Kumar, a former Union Secretary who became an Election Commissioner in March 2024 and took over as CEC in February 2025, with Sukhbir Singh Sandhu and Vivek Joshi as Election Commissioners. In its own words, from a statement on September 23, 2026, "The Commission operates as a multi-member constitutional body."
 
 ## How is the CEC chosen?
 
@@ -91,13 +91,13 @@ Gyanesh Kumar was chosen in February 2025 by Prime Minister Narendra Modi, Home 
 
 ## How long does a CEC serve?
 
-**Six years or until the age of 65, whichever comes first, with no reappointment.** If an Election Commissioner is elevated to CEC, the total term still cannot exceed six years, PRS notes. Scroll reported Gyanesh Kumar's tenure runs until 26 January 2029.
+**Six years or until the age of 65, whichever comes first, with no reappointment.** If an Election Commissioner is elevated to CEC, the total term still cannot exceed six years, PRS notes. Scroll reported Gyanesh Kumar's tenure runs until January 26, 2029.
 
 ## Why is the appointment law in the Supreme Court?
 
-**Because it replaced a court-ordered panel that included the Chief Justice of India.** In Anoop Baranwal v Union of India on 2 March 2023, a five-judge Constitution Bench directed that appointments be made on the advice of the Prime Minister, the Leader of the Opposition and the Chief Justice, until Parliament passed a law. The 2023 Act replaced the Chief Justice with a Cabinet minister. Petitioners in Jaya Thakur v Union of India argue this gives the executive control of the selection. The law has not been stayed: the court refused interim stays in January and March 2024.
+**Because it replaced a court-ordered panel that included the Chief Justice of India.** In Anoop Baranwal v Union of India on March 2, 2023, a five-judge Constitution Bench directed that appointments be made on the advice of the Prime Minister, the Leader of the Opposition and the Chief Justice, until Parliament passed a law. The 2023 Act replaced the Chief Justice with a Cabinet minister. Petitioners in Jaya Thakur v Union of India argue this gives the executive control of the selection. The law has not been stayed: the court refused interim stays in January and March 2024.
 
-On 23 September 2026 a two-judge bench split on whether to refer the case to a larger bench, then unanimously sent the papers to the Chief Justice so that a Constitution Bench can be formed, Supreme Court Observer reported.
+On September 23, 2026, a two-judge bench split on whether to refer the case to a larger bench, then unanimously sent the papers to the Chief Justice so that a Constitution Bench can be formed, Supreme Court Observer reported.
 
 ## How can a CEC be removed?
 
@@ -111,14 +111,14 @@ Election Commissioners have a different safeguard: they can be removed only on t
 
 ## Can the CEC act without the other two Commissioners?
 
-**That question is now before the Supreme Court.** On 5 October 2026 the court issued notice on a petition asking whether the CEC can individually exercise powers that are vested in the multi-member Commission, IANS reported. Separately, the Indian Express reported on 23 September that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had objected on record at least 14 times in 10 months to decisions on the Special Intensive Revision of electoral rolls, including orders they said were issued without their knowledge, according to ANI's summary of the report. The ECI's response was that written notes and differing views are a normal part of deliberation and that "All these decisions are an outcome of the unanimous decisions of the full Commission in the past one year."
+**That question is now before the Supreme Court.** On October 5, 2026, the court issued notice on a petition asking whether the CEC can individually exercise powers that are vested in the multi-member Commission, IANS reported. Separately, the Indian Express reported on September 23 that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had objected on record at least 14 times in 10 months to decisions on the Special Intensive Revision of electoral rolls, including orders they said were issued without their knowledge, according to ANI's summary of the report. The ECI's response was that written notes and differing views are a normal part of deliberation and that "All these decisions are an outcome of the unanimous decisions of the full Commission in the past one year."
 
 ## Has anyone tried to remove Gyanesh Kumar?
 
 **Yes. Opposition parties have filed two sets of notices in 2026 and say a third is being prepared.** None has reached a vote.
 
 ```timeline
-{"title":"Removal notices against CEC Gyanesh Kumar","items":[{"date":"12 Mar 2026","text":"Notices signed by 130 Lok Sabha and 63 Rajya Sabha MPs, alleging 'partisan and discriminatory conduct in office' and 'mass disenfranchisement'."},{"date":"6 Apr 2026","text":"Speaker Om Birla and Chairman C.P. Radhakrishnan refuse to admit both notices."},{"date":"24 Apr 2026","text":"Second notice, signed by 73 MPs with nine charges, filed in the Rajya Sabha; still pending."},{"date":"24 Sep 2026","text":"INDIA bloc parties say a third notice is being drafted for both Houses."}]}
+{"title":"Removal notices against CEC Gyanesh Kumar","items":[{"date":"Mar 12, 2026","text":"Notices signed by 130 Lok Sabha and 63 Rajya Sabha MPs, alleging 'partisan and discriminatory conduct in office' and 'mass disenfranchisement'."},{"date":"Apr 6, 2026","text":"Speaker Om Birla and Chairman C.P. Radhakrishnan refuse to admit both notices."},{"date":"Apr 24, 2026","text":"Second notice, signed by 73 MPs with nine charges, filed in the Rajya Sabha; still pending."},{"date":"Sep 24, 2026","text":"INDIA bloc parties say a third notice is being drafted for both Houses."}]}
 ```
 
 The ECI has called the "vote chori" allegation "part of a misleading narrative", and after an Indian Express report in September of dissent by the two Election Commissioners, it said its decisions over the past year were unanimous. Our [news report](/en/news/election-commission-dissent-report-move-to-remove-cec) covers both sides.

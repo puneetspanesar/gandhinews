@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 06:15 IST (game tipped 6:00 pm EDT Sat 31 Oct = 03:30 IST; PhillyVoice report posted 8:47 pm EDT = 06:17 IST, AP 9:07 pm EDT = 06:37 IST)."
+    - "event: Nov 1 about 06:15 IST (game tipped 6:00 pm EDT Sat Oct 31 = 03:30 IST; PhillyVoice report posted 8:47 pm EDT = 06:17 IST, AP 9:07 pm EDT = 06:37 IST)."
     - "Score, 38 points, Simons 19, Brown 16, Allen 27 (7 of 10 threes), Miller 24, 97-90 with five minutes left, lead for good on Maxey free throws at 1:22, Edgecombe three for 105-101, Brown free throws at 5.2 seconds, sellout 19,533, rest after 98-93 Knicks NBA Cup win, White and Knueppel out: AP. Season high, seventh straight 25-point game, 6-1 start, Simons franchise first, Wade 10 assists: PhillyVoice."
     - "No post-game quotes available in sources read; none used. PhillyVoice mentions a 13-0 run but it does not reconcile with AP's score sequence, so left out. LeBron's move to Philadelphia not described as it was not confirmed in sources read."
 ---

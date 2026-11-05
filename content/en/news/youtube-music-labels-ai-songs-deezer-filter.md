@@ -35,7 +35,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "YouTube announcement Wednesday 14 Oct (TechCrunch 11:23 am PDT). No rollout timeline or YouTube spokesperson quoted."
+    - "YouTube announcement Wednesday, Oct 14 (TechCrunch 11:23 am PDT). No rollout timeline or YouTube spokesperson quoted."
     - "Deezer: CEO Alexis Lanternier quotes; 90,000/day and over 50% figures from Deezer's July 2026 statement; 10% in January 2025; 45% from 2025 Deezer-Ipsos survey."
     - "Apple Music label plans: TechCrunch and a Variety August report; written as plans."
 ---

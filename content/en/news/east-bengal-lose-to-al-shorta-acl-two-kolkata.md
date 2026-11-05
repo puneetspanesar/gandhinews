@@ -21,7 +21,7 @@ hero:
     value: "Two goals for David, none of the points"
 related: [isl-returns-bengaluru-comeback-churchill-brothers-win-on-debut]
 seo:
-  description: "AFC Champions League Two: East Bengal lost 3-2 to Iraq's Al Shorta in Kolkata on 13 October despite two first-half goals from David Lalhlansanga."
+  description: "AFC Champions League Two: East Bengal lost 3-2 to Iraq's Al Shorta in Kolkata on October 13 despite two first-half goals from David Lalhlansanga."
 sources:
   - title: "East Bengal lose lead and match against Al Shorta in ACL Two"
     publisher: "All India Football Federation"
@@ -50,7 +50,7 @@ verification:
     - "Assist for the second goal: AIFF says captain (Mohammed) Basim Rashid back-heeled the ball to David; Khel Now says Rashid set it up from a set-piece. Written simply as Rashid setting it up."
     - "AIFF names a 'Ruben Ramirez' supplying Yahya's goal; Khel Now lists Daniel Ramirez Fernandez as an East Bengal player involved in their goals. Conflicting, so Ramirez left out."
     - "Kick-off time not confirmed. No coach or player quotes found in either report. First-matchday 2-2 draw with Al Hussein from ThePrint headline (date of that match approximate)."
-    - "ISL fixture v Churchill Brothers on 18 Oct from Khel Now's October calendar."
+    - "ISL fixture v Churchill Brothers on Oct 18 from Khel Now's October calendar."
 ---
 
 David Lalhlansanga scored twice in the first half but East Bengal still lost 3-2 to Iraq's Al Shorta in the AFC Champions League Two at the Vivekananda Yuba Bharati Krirangan on Tuesday night.
@@ -75,6 +75,6 @@ The game opened up further in the 76th minute when Al Shorta's Abdoul Moumouni w
 
 It is the second time in two group games that East Bengal have let a lead slip. They were 2-0 up against Al Hussein on the first matchday and had to settle for a 2-2 draw.
 
-That leaves them third in the four-team group with one point after two games. Al Shorta have six. Their next continental match is away to Oman's Al Seeb on 27 October, and with four group games left they still have room to recover.
+That leaves them third in the four-team group with one point after two games. Al Shorta have six. Their next continental match is away to Oman's Al Seeb on October 27, and with four group games left they still have room to recover.
 
-Before that the focus shifts to the Indian Super League. East Bengal open their league campaign against Churchill Brothers at Fatorda, Goa, on 18 October.
+Before that the focus shifts to the Indian Super League. East Bengal open their league campaign against Churchill Brothers at Fatorda, Goa, on October 18.

@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 16:25 IST, Kia India October sales figures (RushLane 10:55 UTC, Gogi 11:17 UTC). Both agree on all numbers."
+    - "event: Nov 1 about 16:25 IST, Kia India October sales figures (RushLane 10:55 UTC, Gogi 11:17 UTC). Both agree on all numbers."
     - "Atul Sood remarks paraphrased only; no verbatim quote in either source. No individual EV or Sonet figures given. CNG about 3,300 units per Gogi only, written as 'nearly 10%' which both carry."
 ---
 

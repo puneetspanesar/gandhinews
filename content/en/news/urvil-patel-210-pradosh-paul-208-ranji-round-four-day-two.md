@@ -16,7 +16,7 @@ keyPoints:
 infographic:
   kicker: Ranji Trophy, day two
   headline: Three double hundreds in one day
-  dek: Round four, 3 November 2026. Gujarat declare on 534 for nine
+  dek: Round four, November 3, 2026. Gujarat declare on 534 for nine
   stats:
   - icon: medal
     value: "210*"
@@ -37,7 +37,7 @@ hero:
     value: "Urvil Patel 210 not out"
 related: [mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz, ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra, bengal-collapse-maharashtra-ranji-eden-dadhe, mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati, harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur]
 seo:
-  description: "Ranji Trophy round four, day two, 3 November 2026: Urvil Patel 210 not out for Gujarat, Pradosh Paul 208, Sanvir Singh 205, Mumbai 396 v Railways 116 for two, Maharashtra 207 for nine v Bengal."
+  description: "Ranji Trophy round four, day two, November 3, 2026: Urvil Patel 210 not out for Gujarat, Pradosh Paul 208, Sanvir Singh 205, Mumbai 396 v Railways 116 for two, Maharashtra 207 for nine v Bengal."
 sources:
   - title: "Ranji Trophy 2026/27: Round Four, Day Two: CSK's Urvil Patel Slams Maiden First-Class Double Hundred"
     publisher: "Wisden"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, close of day two of Ranji round four (play ends about 16:30 to 17:00 IST); Wisden round-up published 13:05 UTC = 18:35 IST. Day's-play close counted per desk instruction."
+    - "event: Nov 3, close of day two of Ranji round four (play ends about 16:30 to 17:00 IST); Wisden round-up published 13:05 UTC = 18:35 IST. Day's-play close counted per desk instruction."
     - "All scores from the Wisden round-up only (single source); ThePrint article (seen in search) could not be fetched; no details taken from it. Overs, venues beyond those named, and quotes not available, so left out."
     - "Group placement as given by Wisden. Karnataka lead 361 per Wisden (496 minus 135). Rajasthan lead 222 per Wisden."
 ---

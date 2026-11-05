@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Delhi's AQI climbed to **216 by Saturday morning**, from about 100 on Friday afternoon."
   - "**Anand Vihar** recorded the worst reading in the city, at 348."
-  - "IITM expects air quality to be **'poor' from 19 October**, with no rain forecast."
+  - "IITM expects air quality to be **'poor' from October 19**, with no rain forecast."
 hero:
   need: "Anand Vihar, Delhi: haze over the bus terminal or railway station area"
   suggested_source: "Anand Vihar ISBT Delhi"
@@ -22,7 +22,7 @@ hero:
     value: "From 86 to 216 in a day"
 related: [delhi-rain-clears-air-aqi-86-satisfactory]
 seo:
-  description: "Delhi's air quality slipped back to 'poor' on Saturday, a day after rain cleared it, with Anand Vihar the worst and IITM forecasting poor air from 19 October."
+  description: "Delhi's air quality slipped back to 'poor' on Saturday, a day after rain cleared it, with Anand Vihar the worst and IITM forecasting poor air from October 19."
 sources:
   - title: "Delhi Air Quality Today: Causes Behind the Sudden AQI Spike"
     publisher: "Bombay Samachar"
@@ -42,11 +42,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "CPCB's 4 pm national bulletin for 17 Oct was not found. City-wide hourly figures (102 at 3:31 pm Fri, 198 at 11:31 pm, 216 at 10:31 am Sat, 165 at 3:21 pm Sat) are from the private aggregator AQI.in as cited by Bombay Samachar and Daily Jagran. Copy does not call them CPCB figures."
+    - "CPCB's 4 pm national bulletin for Oct 17 was not found. City-wide hourly figures (102 at 3:31 pm Fri, 198 at 11:31 pm, 216 at 10:31 am Sat, 165 at 3:21 pm Sat) are from the private aggregator AQI.in as cited by Bombay Samachar and Daily Jagran. Copy does not call them CPCB figures."
     - "IANS gives Delhi's overall AQI as 348 'very poor', identical to its Anand Vihar figure and inconsistent with all other stations (51 to 227) and AQI.in; treated as the Anand Vihar reading only. Reading times not given."
-    - "Rain-free outlook: IANS says no rain until 22 Oct (IMD bulletin of 16 Oct); other reports say till 23 Oct. Copy says 'next several days'."
-    - "Friday's 86: from our own 16 Oct story."
-    - "IITM forecast of 'poor' from 19 Oct: Daily Jagran, citing India Today."
+    - "Rain-free outlook: IANS says no rain until Oct 22 (IMD bulletin of Oct 16); other reports say till Oct 23. Copy says 'next several days'."
+    - "Friday's 86: from our own Oct 16 story."
+    - "IITM forecast of 'poor' from Oct 19: Daily Jagran, citing India Today."
 ---
 
 Delhi's brief spell of clean air is over. A day after rain and thunderstorms pushed the city's air quality index down to 86 on Friday morning, it climbed back into the "poor" band by Saturday, and forecasters expect it to stay there as the city heads into a dry week.
@@ -57,8 +57,8 @@ Anand Vihar in east Delhi was the worst of the monitoring stations on Saturday, 
 
 ## No rain to clear it
 
-The India Meteorological Department expects partly cloudy skies to give way to mainly clear weather from Sunday, with no rain over the next several days and maximum temperatures rising to 32 to 34 degrees Celsius by 21 and 22 October. Without rain to wash out pollutants, vehicle exhaust, road dust and construction emissions build up.
+The India Meteorological Department expects partly cloudy skies to give way to mainly clear weather from Sunday, with no rain over the next several days and maximum temperatures rising to 32 to 34 degrees Celsius by October 21 and 22. Without rain to wash out pollutants, vehicle exhaust, road dust and construction emissions build up.
 
-The Indian Institute of Tropical Meteorology's forecast puts Delhi's air in the "poor" category from 19 October for the rest of its six-day outlook.
+The Indian Institute of Tropical Meteorology's forecast puts Delhi's air in the "poor" category from October 19 for the rest of its six-day outlook.
 
 For people with breathing problems, the change was felt quickly. "I have increased breathing problems. So, I carry my asthma pump with me all the time," said Pooja Goyal, 41.

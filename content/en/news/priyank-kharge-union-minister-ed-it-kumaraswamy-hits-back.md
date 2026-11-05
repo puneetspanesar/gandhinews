@@ -27,7 +27,7 @@ cover:
   bg: "Vidhana Soudha Bengaluru"
 related: [mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura, siddaramaiah-court-bars-sting-videos-bjp-attacks-congress, siddaramaiah-sting-video-accused-ritesh-pandey-bail]
 seo:
-  description: "Karnataka Home Minister Priyank Kharge alleged on 2 November 2026 that a Union minister was pushing for IT and ED action against him using the KPSC probe as cover. H D Kumaraswamy hit back."
+  description: "Karnataka Home Minister Priyank Kharge alleged on November 2, 2026, that a Union minister was pushing for IT and ED action against him using the KPSC probe as cover. H D Kumaraswamy hit back."
 sources:
   - title: "Union Minister pressuring Modi govt to target me, alleges Minister Priyank Kharge (PTI)"
     publisher: "ThePrint"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, Kharge's X post and Kumaraswamy's reply to reporters on Monday evening/night; first reported 2 Nov 22:48 IST (PTI via ThePrint). Exact time of the X post and of Kumaraswamy's response not given; if the post was earlier in the evening, the news still broke inside the window."
+    - "event: Nov 2, Kharge's X post and Kumaraswamy's reply to reporters on Monday evening/night; first reported Nov 2 22:48 IST (PTI via ThePrint). Exact time of the X post and of Kumaraswamy's response not given; if the post was earlier in the evening, the news still broke inside the window."
     - "Single source (PTI). Kharge did not name the minister; PTI cited party sources that it was aimed at Kumaraswamy. Copy attributes the identification to Congress sources and says Kharge did not name him."
     - "Kharge's 'RSS's newest Group D recruit' line left out: target unclear."
     - "Details of the KPSC probe (who is accused, which recruitment) not in source; kept general. Sting operation on Siddaramaiah mentioned in source as part of the wider row; background from our earlier stories (siddaramaiah-court-bars-sting-videos..., mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura)."

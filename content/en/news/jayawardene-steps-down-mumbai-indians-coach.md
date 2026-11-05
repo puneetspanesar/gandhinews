@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Jayawardene: single source (RevSportz staff report, 17 Oct, 12:45 pm IST), which cites his press release and a Nita Ambani statement. Quotes verbatim from that report. No successor named."
+    - "Jayawardene: single source (RevSportz staff report, Oct 17, 12:45 pm IST), which cites his press release and a Nita Ambani statement. Quotes verbatim from that report. No successor named."
     - "Ninth place with four wins in IPL 2026, 2017 start, three titles in first stint ending 2022, Global Head of Performance, return in 2024 on a two-plus-one-year deal, 2025 playoffs: all RevSportz."
-    - "Vaas: RevSportz, 17 Oct, 2:03 pm IST; DC confirmed via Instagram on Saturday, post text quoted verbatim. Career numbers (355 wkts in 111 Tests, 400 in 322 ODIs, 5,147 intl runs, Deccan Chargers 2008-10, 18 wkts in 13 games) and previous coaching (Sri Lanka, New Zealand, Ireland) from that report. Munaf was DC bowling coach for the past two seasons."
+    - "Vaas: RevSportz, Oct 17, 2:03 pm IST; DC confirmed via Instagram on Saturday, post text quoted verbatim. Career numbers (355 wkts in 111 Tests, 400 in 322 ODIs, 5,147 intl runs, Deccan Chargers 2008-10, 18 wkts in 13 games) and previous coaching (Sri Lanka, New Zealand, Ireland) from that report. Munaf was DC bowling coach for the past two seasons."
     - "Ganguly as head coach and Yuvraj appointed 'earlier this week' as assistant and batting coach: RevSportz; exact date of Yuvraj appointment not given."
 ---
 

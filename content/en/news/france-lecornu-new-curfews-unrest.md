@@ -22,7 +22,7 @@ hero:
     value: "Curfews where needed"
 related: [macron-admits-failures-rejects-minister-resignation, macron-anger-shame-france-riots-2400-arrested, france-protests-550000-limoges-city-hall-fire-macron]
 seo:
-  description: "French PM Sébastien Lecornu said on 20 October new curfews will be imposed where needed after targeted curfews kept Monday night calm."
+  description: "French PM Sébastien Lecornu said on October 20 new curfews will be imposed where needed after targeted curfews kept Monday night calm."
 sources:
   - title: "France to impose new curfews where 'situation requires it', PM Lecornu says"
     publisher: "Euronews"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Lecornu quotes from his X post, verbatim in Euronews and Dawn/AFP (both 20 Oct morning CEST)."
+    - "Lecornu quotes from his X post, verbatim in Euronews and Dawn/AFP (both Oct 20 morning CEST)."
     - "Medef estimate and Patrick Martin 'failed': both sources. Lyon gathering of about 500 'according to organisers'."
     - "No arrest figures in these sources; earlier 2,400 arrests figure is on site in a related story, not repeated."
 ---

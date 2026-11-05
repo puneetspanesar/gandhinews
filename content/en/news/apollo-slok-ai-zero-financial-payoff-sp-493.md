@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch In Brief, 25 Oct 9:57 am PDT = 10:27 pm IST) relaying Slok's note; the note's figures, sample and period were not reproduced, so none are given. Quotes are Slok's words as carried by TechCrunch."
+    - "Single source (TechCrunch In Brief, Oct 25 9:57 am PDT = 10:27 pm IST) relaying Slok's note; the note's figures, sample and period were not reproduced, so none are given. Quotes are Slok's words as carried by TechCrunch."
 ---
 
 Artificial intelligence has so far brought "zero financial payoff to corporate America outside of tech", according to Torsten Slok, chief economist at the investment firm Apollo Global Management.

@@ -52,7 +52,7 @@ verification:
     - "The role of the Commission for Agricultural Costs and Prices (CACP) in recommending MSPs could not be confirmed from a source opened in this session (the CACP website did not load and the PIB rabi release does not mention it). It is therefore not described."
     - "Procurement shares (33% of wheat and 30% of rice in 2015-16) and the NITI Aayog awareness figures come from an older PRS report with data up to early 2017; they are labelled as such. No more recent official share was found."
     - "The share of farmers who sell at MSP was not found in any source read; no figure is given."
-    - "Fact-checked 11 Oct 2026: PRS report confirms the definition quote, 22 crops plus FRP, factors, 'mainly happens for wheat, rice, sugarcane and cotton', 33%/30% (2015-16), NITI 10%/62% and the cropping effect. PIB PRID 2316956 confirms all rabi MSPs, margins, procurement and payment totals; desk shares recomputed (94.7%, 87.4%). DT Next (PTI) confirms 14 kharif crops, paddy ₹2,441 (+₹72), sunflower ₹8,343 (+₹622), tur ₹8,450. UNI (7 Oct) confirms 180 lakh tonnes target, 7.50 lakh tonnes bought and ₹42,786.68 crore CCL. Outlook confirms ₹90,962 crore."
+    - "Fact-checked Oct 11, 2026: PRS report confirms the definition quote, 22 crops plus FRP, factors, 'mainly happens for wheat, rice, sugarcane and cotton', 33%/30% (2015-16), NITI 10%/62% and the cropping effect. PIB PRID 2316956 confirms all rabi MSPs, margins, procurement and payment totals; desk shares recomputed (94.7%, 87.4%). DT Next (PTI) confirms 14 kharif crops, paddy ₹2,441 (+₹72), sunflower ₹8,343 (+₹622), tur ₹8,450. UNI (Oct 7) confirms 180 lakh tonnes target, 7.50 lakh tonnes bought and ₹42,786.68 crore CCL. Outlook confirms ₹90,962 crore."
     - "Changed: shortAnswer now attributes the 1.5x rule to the government (body already did); removed quotation marks around 'in line with', which could not be matched verbatim in the PIB release."
     - "Wheat's share of rabi procurement and payments (about 95% and 87%) is the desk's calculation from PIB figures."
 ---
@@ -72,12 +72,12 @@ The cost it uses includes paid-out costs such as hired labour, rent for leased l
 Because the formula sets only a floor, actual margins vary widely by crop.
 
 ```chart
-{"type":"hbar","title":"Rabi MSP 2027–28: margin over cost of production","subtitle":"MSP above all-India weighted average cost (%)","unit":"%","data":[{"label":"Wheat","value":106,"highlight":true},{"label":"Rapeseed & mustard","value":96},{"label":"Masoor (lentil)","value":92},{"label":"Gram","value":59},{"label":"Barley","value":58},{"label":"Safflower","value":50}],"source":"PIB, 30 Sep 2026"}
+{"type":"hbar","title":"Rabi MSP 2027–28: margin over cost of production","subtitle":"MSP above all-India weighted average cost (%)","unit":"%","data":[{"label":"Wheat","value":106,"highlight":true},{"label":"Rapeseed & mustard","value":96},{"label":"Masoor (lentil)","value":92},{"label":"Gram","value":59},{"label":"Barley","value":58},{"label":"Safflower","value":50}],"source":"PIB, Sep 30, 2026"}
 ```
 
 ## What are the current MSPs?
 
-**For the 2027–28 rabi season, wheat is ₹2,610 a quintal, and for the 2026–27 kharif season, common paddy is ₹2,441.** The rabi MSPs were approved on 30 September 2026. Wheat rose by ₹25, while safflower rose by ₹675, rapeseed-mustard by ₹413 and masoor by ₹390.
+**For the 2027–28 rabi season, wheat is ₹2,610 a quintal, and for the 2026–27 kharif season, common paddy is ₹2,441.** The rabi MSPs were approved on September 30, 2026. Wheat rose by ₹25, while safflower rose by ₹675, rapeseed-mustard by ₹413 and masoor by ₹390.
 
 The kharif MSPs for 2026–27 were approved in May 2026 for 14 crops. Paddy rose by ₹72, and sunflower seed got the largest increase, ₹622 to ₹8,343 a quintal, according to a PTI report.
 
@@ -103,7 +103,7 @@ The government's own figures for rabi crops show the same pattern. Of the 3,921 
 
 **Mainly farmers who can sell to government agencies, which in practice means wheat and paddy growers in states with strong procurement.**
 
-Punjab shows what large-scale procurement looks like. The Centre has asked the state to procure 180 lakh tonnes of paddy for the central pool this kharif season. By 7 October, agencies had bought 7.50 lakh tonnes, and the RBI had released a cash credit limit of ₹42,786.68 crore to fund purchases, UNI reported.
+Punjab shows what large-scale procurement looks like. The Centre has asked the state to procure 180 lakh tonnes of paddy for the central pool this kharif season. By October 7, agencies had bought 7.50 lakh tonnes, and the RBI had released a cash credit limit of ₹42,786.68 crore to fund purchases, UNI reported.
 
 Awareness is another limit. A NITI Aayog study cited by PRS found that only 10% of farmers knew the MSP before sowing, while 62% learned of it after sowing.
 

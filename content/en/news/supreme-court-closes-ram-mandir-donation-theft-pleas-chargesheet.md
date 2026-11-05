@@ -22,7 +22,7 @@ hero:
     value: "Chargesheet filed, Supreme Court steps back"
 related: [supreme-court-ram-temple-trust-funds-probe-hearing-today]
 seo:
-  description: "On 2 November 2026 the Supreme Court closed pleas seeking a CBI probe into theft of Ayodhya Ram Mandir donations after police filed a chargesheet against eight accused."
+  description: "On November 2, 2026, the Supreme Court closed pleas seeking a CBI probe into theft of Ayodhya Ram Mandir donations after police filed a chargesheet against eight accused."
 sources:
   - title: "Ram Mandir donation theft probe: Supreme Court ends monitoring after police files chargesheet"
     publisher: "Bar & Bench"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov ~12:40 IST, SC bench (CJI Surya Kant, Justices Bagchi, Mohana) closes Ram Mandir donation theft pleas. LiveLaw alert at 10:49 am said the case was yet to be heard; Bar & Bench report stamped 7:13 am, read as UTC (12:43 pm IST)."
+    - "event: Nov 2 ~12:40 IST, SC bench (CJI Surya Kant, Justices Bagchi, Mohana) closes Ram Mandir donation theft pleas. LiveLaw alert at 10:49 am said the case was yet to be heard; Bar & Bench report stamped 7:13 am, read as UTC (12:43 pm IST)."
     - "Mehta's ₹15 lakh / ₹50 lakh property example and 105 instances from Bar & Bench summary; no verbatim quotes available, so none used. Petitioners' names and trial court location not given in today's report; left out."
     - "New development on earlier preview story supreme-court-ram-temple-trust-funds-probe-hearing-today (outcome, new slug)."
 cover:

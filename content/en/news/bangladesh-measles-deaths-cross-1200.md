@@ -12,7 +12,7 @@ location: Dhaka
 keyPoints:
   - "Two more children died with measles-like symptoms, taking **confirmed and suspected deaths to 1,207**."
   - "Bangladesh recorded **995 new suspected cases** in the 24 hours to 8 am on Friday."
-  - "Nearly **1.94 lakh suspected patients** have been admitted to hospital since 15 March."
+  - "Nearly **1.94 lakh suspected patients** have been admitted to hospital since March 15."
 hero:
   need: "Dhaka Medical College Hospital or a Dhaka children's hospital"
   suggested_source: "Dhaka Medical College Hospital"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures from DGHS via UNB/Daily Star, 24 hours to 8 am Friday 23 Oct (Bangladesh time). Single source; figures are official data."
+    - "All figures from DGHS via UNB/Daily Star, 24 hours to 8 am Friday, Oct 23 (Bangladesh time). Single source; figures are official data."
     - "No vaccination campaign or official quote in the source; not added. No India cross-border spread reporting found; left out."
 ---
 
@@ -42,7 +42,7 @@ Both deaths, recorded in the 24 hours to 8 am on Friday, were classed as suspect
 
 The spread shows little sign of slowing. Health officials logged 995 new suspected cases in the same 24 hours, bringing the total since the start of the year to 2,17,760. Another 36 cases were confirmed in the laboratory, for a cumulative 23,248 confirmed cases.
 
-Hospitals have carried much of the load. Since 15 March, 1,93,608 suspected measles patients have been admitted across the country, the DGHS said, and 1,85,927 of them have recovered and gone home. The gap of 7,681 covers both patients still under treatment and those who did not survive. Hospitals have now been admitting suspected measles patients in large numbers for more than seven months.
+Hospitals have carried much of the load. Since March 15, 1,93,608 suspected measles patients have been admitted across the country, the DGHS said, and 1,85,927 of them have recovered and gone home. The gap of 7,681 covers both patients still under treatment and those who did not survive. Hospitals have now been admitting suspected measles patients in large numbers for more than seven months.
 
 Measles is one of the most contagious diseases known and spreads through the air. Children who have not been vaccinated are the most at risk, and complications such as pneumonia and brain swelling can kill.
 

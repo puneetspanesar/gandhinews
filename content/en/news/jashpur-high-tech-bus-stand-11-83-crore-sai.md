@@ -36,8 +36,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Statesman, Raipur, 8:52 pm IST 14 Oct), apparently based on a state government release. No official quotes in source."
-    - "Mahanadi bridge (over Rs 63 crore, Shivrinarayan) and health-services action plan rest on UNI Varta headlines only (14 Oct, 7:45 pm and 7:34 pm); article pages could not be fetched (URL too long). Kept to headline wording."
+    - "Single source (The Statesman, Raipur, 8:52 pm IST Oct 14), apparently based on a state government release. No official quotes in source."
+    - "Mahanadi bridge (over Rs 63 crore, Shivrinarayan) and health-services action plan rest on UNI Varta headlines only (Oct 14, 7:45 pm and 7:34 pm); article pages could not be fetched (URL too long). Kept to headline wording."
 ---
 
 Jashpur Nagar in northern Chhattisgarh is to get a new high-tech bus stand costing ₹11.83 crore, approved at the initiative of Chief Minister Vishnu Deo Sai. Details of the project were released on Wednesday.

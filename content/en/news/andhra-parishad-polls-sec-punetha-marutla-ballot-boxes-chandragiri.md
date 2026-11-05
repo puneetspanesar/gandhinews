@@ -29,7 +29,7 @@ infographic:
     - {icon: users-three, value: "2.61 crore", label: "voters in the MPTC and ZPTC polls"}
     - {icon: police-car, value: "40,679", label: "police on poll duty"}
     - {icon: map-pin, value: "7,160", label: "hyper-sensitive polling stations"}
-  source: "State Election Commission figures, 5 November 2026"
+  source: "State Election Commission figures, November 5, 2026"
 related: [andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula, ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "Andhra Pradesh SEC Anil Chandra Punetha said MPTC-ZPTC polling was proceeding smoothly on November 5, 2026, as YSRCP and TDP cadres clashed inside a Marutla booth in Anantapur and villages in Prakasam announced boycotts."
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: report published 5 Nov 14:44 IST (The South First), covering SEC Punetha's inspection near Vijayawada and incidents through the day; exact times of the individual incidents not given in the source, so story pegged to the 14:44 IST report. Single source for Marutla, Kalasapadu, Nandalur, Chandragiri and boycotts; YSRCP claims written as allegations."
+    - "event: report published Nov 5 14:44 IST (The South First), covering SEC Punetha's inspection near Vijayawada and incidents through the day; exact times of the individual incidents not given in the source, so story pegged to the 14:44 IST report. Single source for Marutla, Kalasapadu, Nandalur, Chandragiri and boycotts; YSRCP claims written as allegations."
     - "No statewide 1 pm or 3 pm turnout figure found: searches returned only the 11 am figure (21.12%). Daily Jagran and Hans India live-blog fetches were not permitted this run. SEC quotes are short phrases as reported; no full direct quote available."
     - "No TDP response to the YSRCP allegations found beyond Pulivarthi Sudha Reddy's remark."
 ---
@@ -66,4 +66,4 @@ In Chandragiri, TDP leader Pulivarthi Sudha Reddy said she **would shadow Chevir
 
 Byreddy Siddharth Reddy, the YSRCP youth wing president, questioned the legal basis for arresting the party's booth agents in Nandikotkur.
 
-The last statewide figure stood at **21.12% by 11 am**. About 2.61 crore voters are electing 582 ZPTC and 7,767 MPTC members, guarded by 40,679 police. Any repoll will be on Friday and **counting is on 7 November**.
+The last statewide figure stood at **21.12% by 11 am**. About 2.61 crore voters are electing 582 ZPTC and 7,767 MPTC members, guarded by 40,679 police. Any repoll will be on Friday and **counting is on November 7**.

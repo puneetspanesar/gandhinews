@@ -11,7 +11,7 @@ published: 2026-11-03T09:20:00+05:30
 location: Mumbai
 keyPoints:
   - "Promoter Anand Pandit is selling **up to 5.89% of Sri Lotus Developers** through an offer for sale."
-  - "The floor price is **₹240 a share**, and retail bidding opens on 4 November."
+  - "The floor price is **₹240 a share**, and retail bidding opens on November 4."
   - "SEBI **waived the 12-week cooling-off period** after his 2% sale in September."
 hero:
   need: "Film producer and Sri Lotus Developers promoter Anand Pandit"
@@ -32,7 +32,7 @@ cover:
     - {icon: users, value: "10%", label: "set aside for retail investors"}
 related: []
 seo:
-  description: "Sri Lotus Developers and Realty promoter Anand Pandit's offer for sale of up to 5.89% opened on 3 November 2026 at a floor price of ₹240 a share, to meet SEBI minimum public shareholding norms."
+  description: "Sri Lotus Developers and Realty promoter Anand Pandit's offer for sale of up to 5.89% opened on November 3, 2026, at a floor price of ₹240 a share, to meet SEBI minimum public shareholding norms."
 sources:
   - title: "Sri Lotus Developers Promoter Announces 5.89% Stake Sale via OFS"
     publisher: "Whalesbook"
@@ -47,15 +47,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 09:15 IST, non-retail OFS bidding window opens with the market (normal OFS window; exact time not in source). Announcement made 2 Nov afternoon."
-    - "Offer details from Whalesbook copy of the exchange disclosure (2 Nov, 5:44 pm). Multibagg headline (search result) agrees on 5.89% and SEBI waiver; its page was not read."
+    - "event: Nov 3 09:15 IST, non-retail OFS bidding window opens with the market (normal OFS window; exact time not in source). Announcement made Nov 2 afternoon."
+    - "Offer details from Whalesbook copy of the exchange disclosure (Nov 2, 5:44 pm). Multibagg headline (search result) agrees on 5.89% and SEBI waiver; its page was not read."
     - "5.89% read as the total of 2,37,95,818 base shares plus 50,00,000 greenshoe = 2,87,95,818. Rupee values (about ₹571 crore base, ₹691 crore with greenshoe) are our arithmetic at the floor price."
     - "Description of Sri Lotus as a Mumbai real estate developer and Pandit as a film producer is background knowledge, not from the source."
 ---
 
 Anand Pandit, the promoter of **Sri Lotus Developers and Realty**, began selling part of his holding on Tuesday through an offer for sale, putting **up to 5.89% of the Mumbai property developer** on the block.
 
-The sale opened to non-retail investors when the market opened this morning, at a **floor price of ₹240 a share**. Retail investors can bid on Wednesday, 4 November, when institutions that did not get shares on day one can also carry their unallotted bids forward.
+The sale opened to non-retail investors when the market opened this morning, at a **floor price of ₹240 a share**. Retail investors can bid on Wednesday, November 4, when institutions that did not get shares on day one can also carry their unallotted bids forward.
 
 The base offer is 2,37,95,818 shares. If demand is strong, Pandit can sell **another 50 lakh shares through a greenshoe option**, taking the offer to 2,87,95,818 shares. At the floor price, that is roughly ₹571 crore for the base offer and about ₹691 crore if the greenshoe is used in full.
 
@@ -65,7 +65,7 @@ The base offer is 2,37,95,818 shares. If demand is strong, Pandit can sell **ano
 
 The sale is meant to bring the company in line with **SEBI's minimum public shareholding rules**, which require promoters of listed companies to bring their stake down over time.
 
-It follows a smaller sale only weeks ago. On 10 September Pandit sold **2% of the company, or 97,70,000 shares**, in the open market. SEBI rules normally make a promoter wait 12 weeks between such sales, but the company obtained **a waiver of the cooling-off period** from the regulator, which let this offer go ahead now.
+It follows a smaller sale only weeks ago. On September 10 Pandit sold **2% of the company, or 97,70,000 shares**, in the open market. SEBI rules normally make a promoter wait 12 weeks between such sales, but the company obtained **a waiver of the cooling-off period** from the regulator, which let this offer go ahead now.
 
 ```photo
 {"n":2,"subject":"SEBI Bhavan","caption":"SEBI's headquarters in Mumbai. The regulator waived the 12-week gap between the promoter's two sales.","alt":"SEBI Bhavan, headquarters of the Securities and Exchange Board of India"}

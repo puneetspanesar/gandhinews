@@ -11,7 +11,7 @@ published: 2026-11-05T11:05:00+05:30
 location: New Delhi
 keyPoints:
   - "The 24-hour limit under Article 22(2) **runs from the moment a person is detained**, the Supreme Court held."
-  - "Four men in a Tripura NDPS case were held at 2 pm on 29 September 2025 but **shown as arrested only at 11 am the next day**."
+  - "Four men in a Tripura NDPS case were held at 2 pm on September 29, 2025, but **shown as arrested only at 11 am the next day**."
   - "The court **set aside the Tripura High Court's bail refusal** and ordered their release on bail."
 hero:
   need: "Justice Ujjal Bhuyan, who sat on the bench with Justice Atul S Chandurkar"
@@ -29,13 +29,13 @@ infographic:
     - {icon: clock-countdown, value: "24 hours", label: "limit to produce a detained person before a magistrate"}
     - {icon: hourglass, value: "21 hours", label: "between detention and the recorded arrest in the Tripura case"}
   timeline:
-    - {date: "29 Sep 2025, 2 pm", text: "Four men detained during a search", icon: hand}
-    - {date: "30 Sep 2025, 11 am", text: "Formally shown as arrested", icon: file-text}
-    - {date: "5 Nov 2026", text: "Supreme Court orders bail, sets rule", icon: gavel}
+    - {date: "Sep 29, 2025, 2 pm", text: "Four men detained during a search", icon: hand}
+    - {date: "Sep 30, 2025, 11 am", text: "Formally shown as arrested", icon: file-text}
+    - {date: "Nov 5, 2026", text: "Supreme Court orders bail, sets rule", icon: gavel}
   source: "Supreme Court judgment, Justices Ujjal Bhuyan and Atul S Chandurkar, November 5, 2026"
 related: []
 seo:
-  description: "The Supreme Court on 5 November 2026 held that the 24-hour limit to produce an accused before a magistrate runs from actual detention, not formal arrest, and granted bail to four men in a Tripura NDPS case."
+  description: "The Supreme Court on November 5, 2026, held that the 24-hour limit to produce an accused before a magistrate runs from actual detention, not formal arrest, and granted bail to four men in a Tripura NDPS case."
 sources:
   - title: "No Difference Between Arrest And Detention: SC Says 24-Hour Clock Starts When Liberty Is Curtailed"
     publisher: "ETV Bharat"
@@ -50,15 +50,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov (Thursday) morning; judgment reported by LiveLaw about 10:51 IST per run brief, IANS copy on Punjab Kesari 11:37 IST, ETV Bharat 12:03 IST ('on Thursday'). published set to 11:05 IST."
+    - "event: Nov 5 (Thursday) morning; judgment reported by LiveLaw about 10:51 IST per run brief, IANS copy on Punjab Kesari 11:37 IST, ETV Bharat 12:03 IST ('on Thursday'). published set to 11:05 IST."
     - "Bench: Justices Ujjal Bhuyan and Atul S Chandurkar (ETV Bharat, IANS). Case name not given in either source; described as appeals by four persons against Tripura HC bail denial under NDPS Act. Appellants not named."
     - "Quotes taken verbatim from ETV Bharat and IANS. Not fetched: ommcomnews (same IANS copy)."
-    - "21 hours computed from 2 pm 29 Sep to 11 am 30 Sep 2025."
+    - "21 hours computed from 2 pm Sep 29 to 11 am Sep 30, 2025."
 ---
 
 The Supreme Court on Thursday held that the **24-hour deadline to produce an accused before a magistrate runs from the moment of actual detention**, not from the time police formally record an arrest.
 
-A bench of Justices Ujjal Bhuyan and Atul S Chandurkar ruled on appeals by four men who had been refused bail by the Tripura High Court in a case under the Narcotic Drugs and Psychotropic Substances (NDPS) Act. The four were **detained at 2 pm on 29 September 2025** during a search and seizure, but were shown as arrested only at 11 am the next day.
+A bench of Justices Ujjal Bhuyan and Atul S Chandurkar ruled on appeals by four men who had been refused bail by the Tripura High Court in a case under the Narcotic Drugs and Psychotropic Substances (NDPS) Act. The four were **detained at 2 pm on September 29, 2025** during a search and seizure, but were shown as arrested only at 11 am the next day.
 
 The court said they should have been produced before a magistrate within 24 hours of the 2 pm detention. It **set aside the High Court's judgment** and directed that they be released on bail, on conditions to be set by the Special Court.
 

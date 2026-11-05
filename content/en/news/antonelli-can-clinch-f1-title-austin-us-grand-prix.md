@@ -22,7 +22,7 @@ hero:
     value: "Win in Texas, take the crown"
 related: [verstappen-wins-singapore-grand-prix-antonelli-nears-title]
 seo:
-  description: "Kimi Antonelli can clinch the 2026 F1 title at the United States Grand Prix in Austin on 25 October if he wins and Russell and Hamilton finish low enough."
+  description: "Kimi Antonelli can clinch the 2026 F1 title at the United States Grand Prix in Austin on October 25 if he wins and Russell and Hamilton finish low enough."
 sources:
   - title: "How Kimi Antonelli can win the 2026 F1 title in the United States GP"
     publisher: "RacingNews365"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "RacingNews365 text and table conflict on Russell's threshold; text says a ninth place leaves exactly 125 behind and Antonelli wins on countback (nine wins to a maximum of eight). Copy follows the text."
-    - "Race date 25 October from RacingNews365. Session times not confirmed; omitted. UNI quote was cut off, so not used."
+    - "Race date October 25 from RacingNews365. Session times not confirmed; omitted. UNI quote was cut off, so not used."
 ---
 
 Kimi Antonelli arrives in Texas this weekend with the Formula 1 world championship within reach. The 20-year-old Mercedes driver can wrap up the title at Sunday's United States Grand Prix in Austin, and in doing so become the youngest champion in the sport's history.

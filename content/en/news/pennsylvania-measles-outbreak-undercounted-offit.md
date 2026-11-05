@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Offit's estimate and quotes rest on Rolling Out (18 Oct, 5:24 pm ET), so hedged as his estimate. Pennsylvania figures: 1,260 cases/43 counties/238 hospitalisations as of 16 Oct (Rolling Out); Al Jazeera gave 1,222/42/225 as of Wednesday 14 Oct; consistent. National total 4,410 from Al Jazeera citing CDC."
+    - "Offit's estimate and quotes rest on Rolling Out (Oct 18, 5:24 pm ET), so hedged as his estimate. Pennsylvania figures: 1,260 cases/43 counties/238 hospitalisations as of Oct 16 (Rolling Out); Al Jazeera gave 1,222/42/225 as of Wednesday, Oct 14; consistent. National total 4,410 from Al Jazeera citing CDC."
 ---
 
 Pennsylvania's measles outbreak, the largest in the United States this year, has reached 1,260 confirmed cases across 43 counties, and one of the country's best-known vaccine experts says the real figure is probably several times higher.
@@ -46,7 +46,7 @@ Dr Paul Offit, a paediatrician who directs the Vaccine Education Center at Child
 
 ## The toll so far
 
-State figures up to 16 October show 238 people admitted to hospital. Pennsylvania has confirmed five measles-associated deaths and on 14 October said it was looking into another reported death in Franklin County. Fewer than 1% of cases involve people who had been vaccinated.
+State figures up to October 16 show 238 people admitted to hospital. Pennsylvania has confirmed five measles-associated deaths and on October 14 said it was looking into another reported death in Franklin County. Fewer than 1% of cases involve people who had been vaccinated.
 
 Two days earlier the state had reported 1,222 cases in 42 counties, with 86 new infections in a week. Health workers have given more than 5,900 doses of the measles, mumps and rubella (MMR) vaccine at 202 pop-up clinics since the outbreak began in late April, and the CDC is sending an officer from its Epidemic Intelligence Service to help after the state asked for federal support.
 
@@ -54,6 +54,6 @@ Offit said the outbreak is largely hitting adults in their 20s, 30s and 40s who 
 
 ## A national surge
 
-The CDC has recorded 4,410 measles cases across the US so far in 2026, up 330 in a week, with 451 hospitalisations. In New York, Governor Kathy Hochul declared a statewide disaster emergency on 5 October to widen the pool of health workers allowed to vaccinate.
+The CDC has recorded 4,410 measles cases across the US so far in 2026, up 330 in a week, with 451 hospitalisations. In New York, Governor Kathy Hochul declared a statewide disaster emergency on October 5 to widen the pool of health workers allowed to vaccinate.
 
 Coverage among kindergarten children has slipped from 95.2% in 2019-20 to 92.4% in 2025-26, and the CDC estimates about 280,000 kindergarteners are at risk.

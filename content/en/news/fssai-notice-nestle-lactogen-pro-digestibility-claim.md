@@ -22,7 +22,7 @@ hero:
     value: "'Easy to digest'? Prove it, says FSSAI"
 related: [fssai-draft-ban-added-sugar-infant-food-six-months]
 seo:
-  description: "FSSAI served Nestle India a notice on 21 October seeking proof that Lactogen Pro 1's whey protein is easy to digest, and sent notices to other firms and an influencer."
+  description: "FSSAI served Nestle India a notice on October 21 seeking proof that Lactogen Pro 1's whey protein is easy to digest, and sent notices to other firms and an influencer."
 sources:
   - title: "FSSAI issues notice to Nestle India over Lactogen Pro 1 digestibility claim (IANS)"
     publisher: "Sambad English"
@@ -55,7 +55,7 @@ verification:
     - "Nestle notice: IANS (Sambad English 9:50 pm, Whalesbook 8:01 pm) and ET via inkl agree. No deadline in days given; 'within the stipulated period'."
     - "ANI report does not name the companies behind the immunity claim or the influencer; copy does not link them to Nestle."
     - "Punhani's 150+ figure from ET via inkl only; written as something he has said, not dated."
-    - "No Nestle India response to the 21 Oct notice found; September response quoted from Outlook Business (18 Sept)."
+    - "No Nestle India response to the Oct 21 notice found; September response quoted from Outlook Business (Sept 18)."
     - "Complan and Nan Excella Pro Stage 1 mentioned in IANS/ET as earlier targets; manufacturer of Complan not named in sources, so not named in copy."
 ---
 
@@ -75,7 +75,7 @@ FSSAI chief executive Rajit Punhani has said that more than 150 food and beverag
 
 ## Second time for the same claim
 
-The Lactogen line is not new to the regulator. On 18 September FSSAI started three adjudication cases against Nestle India. Two were over claims on Nan Excella Pro Stage 1 and the "easy to digest" whey protein claim on Lactogen Pro 1, which it said breached Regulation 4(2) of the 2020 infant nutrition rules and Section 3 of the Infant Milk Substitutes Act. The third concerned a follow-up formula that a referral laboratory found short on biotin.
+The Lactogen line is not new to the regulator. On September 18 FSSAI started three adjudication cases against Nestle India. Two were over claims on Nan Excella Pro Stage 1 and the "easy to digest" whey protein claim on Lactogen Pro 1, which it said breached Regulation 4(2) of the 2020 infant nutrition rules and Section 3 of the Infant Milk Substitutes Act. The third concerned a follow-up formula that a referral laboratory found short on biotin.
 
 Nestle India said then that "the said products (i.e., NAN EXCELLA PRO & LACTOGEN PRO) and their labels were approved by the expert committee of FSSAI", and that its label statements were "factual in nature and supported by scientific literature".
 

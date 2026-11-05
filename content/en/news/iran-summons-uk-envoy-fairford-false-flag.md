@@ -42,11 +42,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Summons of Hugo Shorter, 'destructive role', 'clumsy false flag operation', demand for evidence: Gulf News live blog, entry posted early 16 Oct. Exact day of the summons not given; copy says 'has summoned'."
+    - "Summons of Hugo Shorter, 'destructive role', 'clumsy false flag operation', demand for evidence: Gulf News live blog, entry posted early Oct 16. Exact day of the summons not given; copy says 'has summoned'."
     - "Pentagon thanks to London, US bombers withdrawn from Fairford, Spain signing the joint statement: Atalayar only."
-    - "Hamburg sentences (Ali S., Danish, 8.5 years; Tawab M., Afghan, 4.5 years) and MI5 chief Ken McCallum's remarks (14 Oct): CBS live blog."
-    - "UK summons of Iran envoy and sanctions on two Iranians: from our 12 Oct story uk-says-iran-highly-likely-behind-raf-fairford-plot (PA/Express & Star sources there)."
-    - "The UK PM is Andy Burnham and Foreign Secretary Ed Miliband per our 12 Oct story; not repeated here."
+    - "Hamburg sentences (Ali S., Danish, 8.5 years; Tawab M., Afghan, 4.5 years) and MI5 chief Ken McCallum's remarks (Oct 14): CBS live blog."
+    - "UK summons of Iran envoy and sanctions on two Iranians: from our Oct 12 story uk-says-iran-highly-likely-behind-raf-fairford-plot (PA/Express & Star sources there)."
+    - "The UK PM is Andy Burnham and Foreign Secretary Ed Miliband per our Oct 12 story; not repeated here."
 ---
 
 Iran has summoned Britain's ambassador in Tehran, Hugo Shorter, and demanded that London produce evidence for its claim that Iran was probably behind a suspected plot near RAF Fairford, the air base in England used by American bombers.

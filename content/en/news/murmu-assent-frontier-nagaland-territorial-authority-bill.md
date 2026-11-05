@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Assent announced by Rio on X on 25 Oct; Eastern Mirror page updated 5:14 pm IST; AIR item 8:15 pm. Rio quote as given by Morung Express and Eastern Mirror; '@HMOIndia' thanks quoted by Morung Express."
+    - "Assent announced by Rio on X on Oct 25; Eastern Mirror page updated 5:14 pm IST; AIR item 8:15 pm. Rio quote as given by Morung Express and Eastern Mirror; '@HMOIndia' thanks quoted by Morung Express."
     - "Composition, 46 subjects, interim council, IGP-level police supervision, budget subhead, CAG audit, Article 371(A)/BEFR 1873 clauses and 10-year review all from Morung Express ('inches closer'); composition and districts also in Eastern Mirror."
-    - "Legislative history (MoA 5 Feb, first Bill 26 Mar withdrawn, revised Bill 1 Sep by Y Patton, passed 3 Sep unanimously) from Morung Express; 3 Sep passage also in AIR and Eastern Mirror."
-    - "No ENPO reaction to the assent found; ENPO's 3 Sep position from Morung Express."
+    - "Legislative history (MoA Feb 5, first Bill Mar 26 withdrawn, revised Bill Sep 1 by Y Patton, passed Sep 3 unanimously) from Morung Express; Sep 3 passage also in AIR and Eastern Mirror."
+    - "No ENPO reaction to the assent found; ENPO's Sep 3 position from Morung Express."
     - "PIB/MHA statement on the assent not found (PIB pages could not be fetched)."
 ---
 
@@ -58,7 +58,7 @@ President Droupadi Murmu has given her assent to the Frontier Nagaland Territori
 
 Chief Minister Neiphiu Rio announced the assent on X on Sunday. "It's a key step towards realising the aspirations of the people of Eastern Nagaland," he wrote, thanking the President and "@HMOIndia for coordinating the process."
 
-The authority will cover Tuensang, Mon, Longleng, Kiphire, Noklak and Shamator, together known as the Frontier Nagaland Territory. The Nagaland Legislative Assembly passed the Bill unanimously on 3 September.
+The authority will cover Tuensang, Mon, Longleng, Kiphire, Noklak and Shamator, together known as the Frontier Nagaland Territory. The Nagaland Legislative Assembly passed the Bill unanimously on September 3.
 
 ## What the authority will look like
 
@@ -72,9 +72,9 @@ Money will come through a separate major subhead in the state budget, and develo
 
 ## A long road to the statute book
 
-The authority grows out of a Memorandum of Agreement signed on 5 February by the Centre, the Nagaland government and the Eastern Nagaland Peoples' Organisation (ENPO), which had campaigned for years for a separate arrangement for the region. The agreement provides for a review after 10 years.
+The authority grows out of a Memorandum of Agreement signed on February 5 by the Centre, the Nagaland government and the Eastern Nagaland Peoples' Organisation (ENPO), which had campaigned for years for a separate arrangement for the region. The agreement provides for a review after 10 years.
 
-A first Bill introduced on 26 March was withdrawn after the Home Ministry, the ENPO and the Eastern Nagaland Legislators' Union sought more clarity on some provisions. Deputy Chief Minister Y Patton brought in a revised Bill on 1 September. On the day it passed, Rio told the House that the Home Ministry had asked the state to wait for its views on giving the authority legislative powers. The ENPO urged the state to stand by the February agreement, while the legislators' union asked for the Bill to be put off until its concerns were met.
+A first Bill introduced on March 26 was withdrawn after the Home Ministry, the ENPO and the Eastern Nagaland Legislators' Union sought more clarity on some provisions. Deputy Chief Minister Y Patton brought in a revised Bill on September 1. On the day it passed, Rio told the House that the Home Ministry had asked the state to wait for its views on giving the authority legislative powers. The ENPO urged the state to stand by the February agreement, while the legislators' union asked for the Bill to be put off until its concerns were met.
 
 ## What happens next
 

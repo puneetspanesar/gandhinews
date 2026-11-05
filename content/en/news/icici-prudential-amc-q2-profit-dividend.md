@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Net profit rose **6.1% to ₹889 crore** from a year earlier but fell 7.8% from the June quarter."
   - "Average mutual fund assets grew 14.4% to **₹11.61 lakh crore**, a 13.3% market share."
-  - "The board declared an **interim dividend of ₹30** a share, with 21 October as the record date."
+  - "The board declared an **interim dividend of ₹30** a share, with October 21 as the record date."
 hero:
   need: "ICICI Prudential Mutual Fund office or signage"
   suggested_source: "ICICI Prudential Mutual Fund office"
@@ -56,7 +56,7 @@ ICICI Prudential Asset Management Company's net profit rose 6.1% to ₹889 crore
 
 Revenue from operations rose 16.3% to ₹1,674 crore. Operating profit before tax grew 15.7% to ₹1,181 crore. But profit fell 7.8% from ₹965 crore in the June quarter, because other income shrank to ₹17 crore from ₹181 crore.
 
-The board declared an interim dividend of ₹30 a share. The record date is 21 October.
+The board declared an interim dividend of ₹30 a share. The record date is October 21.
 
 ## Assets and investors
 

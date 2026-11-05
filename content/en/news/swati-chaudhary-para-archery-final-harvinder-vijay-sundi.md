@@ -38,14 +38,14 @@ verification:
 
 India are guaranteed two more medals at the Asian Para Games after Swati Chaudhary and the recurve pair of Harvinder Singh and Vijay Sundi won their semi-finals in Nagoya on Tuesday.
 
-Swati, competing at her first Games, beat South Korea's Eunhee Lee 6-2 in the W1 women's individual semi-final. She meets China's Mengkan Cen for gold on 22 October, with the match scheduled for 5:55 am IST.
+Swati, competing at her first Games, beat South Korea's Eunhee Lee 6-2 in the W1 women's individual semi-final. She meets China's Mengkan Cen for gold on October 22, with the match scheduled for 5:55 am IST.
 
-Harvinder and Vijay needed every arrow to get past Korea's Jung-Hoon Kim and Geonhwi Kwak, winning 5-4 in the men's recurve doubles. They face a Chinese pair in the gold medal match on 23 October, from 6:45 am IST.
+Harvinder and Vijay needed every arrow to get past Korea's Jung-Hoon Kim and Geonhwi Kwak, winning 5-4 in the men's recurve doubles. They face a Chinese pair in the gold medal match on October 23, from 6:45 am IST.
 
 The Sports Authority of India celebrated with the words "INDIA SHOOTS FOR GOLD!" after the doubles win.
 
 ## More medal chances
 
-India's mixed teams also moved forward. Sheetal Devi and Toman Kumar, who set a world record in the ranking round, beat Japan's Aya Shinohara and Yuya Oe 152-141 in the compound mixed team quarter-final and meet Chinese Taipei in the semi-final on 22 October.
+India's mixed teams also moved forward. Sheetal Devi and Toman Kumar, who set a world record in the ranking round, beat Japan's Aya Shinohara and Yuya Oe 152-141 in the compound mixed team quarter-final and meet Chinese Taipei in the semi-final on October 22.
 
-In the recurve mixed team, Harvinder and Bhawna beat Thailand's Phattharaphon Pattawaeo and Hanreuchai Netsiri 6-0 and return on 23 October.
+In the recurve mixed team, Harvinder and Bhawna beat Thailand's Phattharaphon Pattawaeo and Hanreuchai Netsiri 6-0 and return on October 23.

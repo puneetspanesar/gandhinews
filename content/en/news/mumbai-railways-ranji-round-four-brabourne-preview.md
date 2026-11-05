@@ -10,7 +10,7 @@ standfirst: "Fresh from a 10-wicket bonus-point win over Haryana, Mumbai meet Ra
 published: 2026-11-02T07:10:00+05:30
 location: Mumbai
 keyPoints:
-  - "Mumbai play Railways at **Brabourne Stadium** from Monday, 2 November, to Thursday, 5 November."
+  - "Mumbai play Railways at **Brabourne Stadium** from Monday, November 2, to Thursday, November 5."
   - "Mumbai beat Haryana **by 10 wickets with a bonus point** in round three."
   - "Railways lost to **Tamil Nadu by five wickets** in their last game."
 hero:
@@ -28,7 +28,7 @@ cover:
   people: ["Musheer Khan"]
 related: [priyanshu-moliya-321-baroda-record-test-dream, ranji-round-two-final-day-mumbai-maharashtra-punjab-push, mumbai-lose-jaiswal-mhatre-ranji-himachal]
 seo:
-  description: "Ranji Trophy 2026-27 round four: Mumbai host Railways at Brabourne Stadium from 2 to 5 November after beating Haryana by 10 wickets; Railways lost to Tamil Nadu."
+  description: "Ranji Trophy 2026-27 round four: Mumbai host Railways at Brabourne Stadium from November 2 to 5 after beating Haryana by 10 wickets; Railways lost to Tamil Nadu."
 sources:
   - title: "Ranji Trophy 2026-27: Round 3 Summary"
     publisher: "BCCI"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Dates 2-5 Nov, Brabourne, 9:30 am and January resumption: Sportsdunia schedule (6 Oct); venue CCI and 9:30 am start also on Khel Now match page. Railways are the nominal home side on the fixture list though the game is in Mumbai."
+    - "Dates Nov 2-5, Brabourne, 9:30 am and January resumption: Sportsdunia schedule (Oct 6); venue CCI and 9:30 am start also on Khel Now match page. Railways are the nominal home side on the fixture list though the game is in Mumbai."
     - "Round 3 figures (Musheer 109 and 6-85, Kotian 8-81, chase of 97 in 10.4 overs; TN beat Railways by 5 wkts, Raj Choudhary 5-41, Sai Kishore 4-39, Andre Siddarth 56*) from BCCI round 3 summary."
     - "Playing XIs and current captain not confirmed for this match; Lad named captain in October squad, so copy avoids naming who will play. Other round 4 fixtures listed on Khel Now (Gujarat v Kerala, Delhi v Services, etc.) left out as groups and venues were not confirmed."
 ---

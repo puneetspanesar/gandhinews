@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 12:39 IST (Investywise timestamp 07:09:57 UTC), Tata Motors Passenger Vehicles October 2026 sales, citing BSE filing (filing not opened)."
+    - "event: Nov 1 12:39 IST (Investywise timestamp 07:09:57 UTC), Tata Motors Passenger Vehicles October 2026 sales, citing BSE filing (filing not opened)."
     - "Figures from Investywise; TaxGuru headline (23% growth) agrees, page not opened. 73,894 + 1,532 = 75,426 checks out. No quotes in source."
     - "Mahindra comparison uses Mahindra domestic utility vehicle figure 73,338 from our earlier story (mahindra-record-october-suv-sales-73338-tractors-fall). Tata domestic PV figure includes EVs. Margin 556 units. Wholesale (dispatch) figures, not retail."
 ---

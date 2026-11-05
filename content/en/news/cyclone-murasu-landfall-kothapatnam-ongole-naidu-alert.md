@@ -27,7 +27,7 @@ cover:
   bg: "Cyclone Murasu"
 related: [cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit, cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight, chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation]
 seo:
-  description: "Severe Cyclonic Storm Murasu began making landfall near Kothapatnam, close to Ongole in Andhra Pradesh, early on 3 November with winds up to 120 km/h, the IMD said."
+  description: "Severe Cyclonic Storm Murasu began making landfall near Kothapatnam, close to Ongole in Andhra Pradesh, early on November 3 with winds up to 120 km/h, the IMD said."
 sources:
   - title: "Cyclone Murasu's eye touches Andhra Pradesh coast as landfall process continues: IMD"
     publisher: "Webindia123 (IANS)"
@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, about 05:00 IST, IMD update on X that the eye of SCS Murasu touched the south Andhra coast and part of the wall cloud was over land (Webindia123 item stamped 05:11:25 IST). NewsMill (ANI inputs) at 05:47 IST says landfall process expected to take about two more hours, landfall near Kothapatnam close to Ongole. Copy says landfall is under way, not complete."
-    - "Naidu's directions (stay indoors, Swarna Grama/Ward staff, canals and tanks, power restoration, Arnab deaths) are from his teleconference as reported by both IANS and ANI copy; paraphrased, no verbatim quote available from those. The quote 'high speed winds could hit Ongole district during the landfall' is from Deccan Chronicle live blog, 11:33 pm 2 Nov."
+    - "event: Nov 3, about 05:00 IST, IMD update on X that the eye of SCS Murasu touched the south Andhra coast and part of the wall cloud was over land (Webindia123 item stamped 05:11:25 IST). NewsMill (ANI inputs) at 05:47 IST says landfall process expected to take about two more hours, landfall near Kothapatnam close to Ongole. Copy says landfall is under way, not complete."
+    - "Naidu's directions (stay indoors, Swarna Grama/Ward staff, canals and tanks, power restoration, Arnab deaths) are from his teleconference as reported by both IANS and ANI copy; paraphrased, no verbatim quote available from those. The quote 'high speed winds could hit Ongole district during the landfall' is from Deccan Chronicle live blog, 11:33 pm Nov 2."
     - "Monday context from Deccan Chronicle live blog: NDRF 37 teams in five states, 13 in AP, NDRF official quote on winds (10:09/11:09 pm); Prakasam Collector P Raja Babu, 26 vulnerable villages, seven coastal mandals (11:06 pm); signal 10 at Nizampatnam (5:55 pm); 19 flights cancelled at Vijayawada, Tirupati, Visakhapatnam (7:52 pm). Single source for these. Odisha evacuation figures left out (unclear)."
     - "No casualty or damage figures reported as of about 05:50 IST."
 ---

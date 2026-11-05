@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "New Zealand v India, 1st ODI"
   headline: "New Zealand all out for 185"
-  dek: "Eden Park, Auckland, Wednesday 4 November"
+  dek: "Eden Park, Auckland, Wednesday, November 4"
   motif: cricket
   stats:
     - {icon: cricket, value: "185", label: "New Zealand all out in 40.2 overs"}
@@ -32,7 +32,7 @@ infographic:
   source: "Match scoring, November 4, 2026"
 related: [brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi, arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
 seo:
-  description: "New Zealand v India first ODI at Eden Park: Rohit Sharma's diving run-out removes Daryl Mitchell for 28 and New Zealand are all out for 185 in 40.2 overs on 4 November 2026."
+  description: "New Zealand v India first ODI at Eden Park: Rohit Sharma's diving run-out removes Daryl Mitchell for 28 and New Zealand are all out for 185 in 40.2 overs on November 4, 2026."
 sources:
   - title: "Rohit Sharma shows off exceptional reflexes to run out Daryl Mitchell in first ODI against NZ"
     publisher: "India TV"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1st ODI, Eden Park, Auckland, Wed 4 Nov 2026; Mitchell run-out in 22nd over (about 09:45 IST), NZ 185/9 after 40 overs about 10:40 IST. Written about 10:45 IST."
+    - "event: 1st ODI, Eden Park, Auckland, Wed Nov 4, 2026; Mitchell run-out in 22nd over (about 09:45 IST), NZ 185/9 after 40 overs about 10:40 IST. Written about 10:45 IST."
     - "Mitchell run out 28, 22nd over, Rohit dive at cover, throw to KL Rahul; NZ 137/8 by 35th over: India TV article read (published 10:37 IST)."
     - "All out 185 in 40.2 overs: Wisden match page (wisden.com/match/cc8cbfea-e555-420c-8180-c55c3aab89e9), read about 11:20 IST, shows NZ 185-10 (40.2) and India need 186. 185/9 after 40 overs: VAVEL search-result title only (fetched page was a stale pre-match cache), and matches the desk brief's last check. Innings break total and India's chase NOT found in any readable source by ~11:05 IST (Cricinfo blocked, India.com/India TV/VAVEL live pages stale), so not reported. Identity of wickets eight and nine and the 70 runs' scorers not confirmed, left out."
     - "115/7 in 29th over and earlier wickets (Arshdeep: Young, Nicholls; Brar: Seifert, Latham; Kohli catch of Nathan Smith) from the earlier published story's sources."

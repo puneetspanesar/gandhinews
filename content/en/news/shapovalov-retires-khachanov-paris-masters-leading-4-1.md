@@ -22,7 +22,7 @@ hero:
     value: "Shapovalov quits while 4-1 up"
 related: [djokovic-vacherot-paris-masters-turin-race-jodar-ninth]
 seo:
-  description: "Denis Shapovalov retired with a right thigh problem while leading 4-1 in the third set against Karen Khachanov in the Paris Masters first round on 2 November 2026. Khachanov won 6-4, 6-7, 1-4 ret."
+  description: "Denis Shapovalov retired with a right thigh problem while leading 4-1 in the third set against Karen Khachanov in the Paris Masters first round on November 2, 2026. Khachanov won 6-4, 6-7, 1-4 ret."
 sources:
   - title: "Shapovalov retires against Khachanov in Paris despite leading 4-1 in the third set"
     publisher: "Tennis Majors"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov about 02:00 IST, Shapovalov retired (match scheduled not before 19:00 CET = 23:30 IST Monday on Central per ATP schedule; Tennis Majors report filed 20:38 UTC = 02:08 IST)."
+    - "event: Nov 3 about 02:00 IST, Shapovalov retired (match scheduled not before 19:00 CET = 23:30 IST Monday on Central per ATP schedule; Tennis Majors report filed 20:38 UTC = 02:08 IST)."
     - "Score 6-4, 6-7, 1-4 ret; tie-break score not given, left out. 'A tear was feared, but it looked more like cramp' is the reporter's line, used as paraphrase only. No player quotes found."
     - "Other Monday results from the same Tennis Majors report. Humbert v van de Zandschulp (night session, 20:30 CET) result not found; left out. Single source for match detail; search budget exhausted (6/6)."
 cover:

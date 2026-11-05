@@ -21,7 +21,7 @@ hero:
     value: "78 days' wages for 11.4 lakh staff"
 related: []
 seo:
-  description: "The Union Cabinet on 14 October 2026 approved a 78-day productivity-linked bonus worth ₹2,009.61 crore for 11.41 lakh railway employees, up to ₹17,951 each."
+  description: "The Union Cabinet on October 14, 2026, approved a 78-day productivity-linked bonus worth ₹2,009.61 crore for 11.41 lakh railway employees, up to ₹17,951 each."
 sources:
   - title: "Cabinet approves ₹2,009 crore bonus for 1.14 mn railway employees"
     publisher: "Business Standard"
@@ -39,7 +39,7 @@ verification:
     - "PIB release for the decision not opened; details from Business Standard's report of the official statement. Employee count given as 1,140,770, written here as about 11.41 lakh."
     - "The quoted phrase 'incentivise employees to improve the performance of Indian Railways' is from the government statement as reported."
     - "Freight (1,670 million tonnes) and passenger (about 7.41 billion) figures for 2025-26 are as reported; the report used 'reportedly'. Written as the government's figures cited with the decision."
-    - "NSAP extension and renaming: Business Standard, 14 Oct, 4:33 pm, citing the government release. Quote verbatim. Assistance amounts (₹375/₹625) in the source not used because their basis was unclear."
+    - "NSAP extension and renaming: Business Standard, Oct 14, 4:33 pm, citing the government release. Quote verbatim. Assistance amounts (₹375/₹625) in the source not used because their basis was unclear."
     - "No minister named in the source as announcing the decision, so none named. Last year's bonus not compared (no source read)."
 ---
 

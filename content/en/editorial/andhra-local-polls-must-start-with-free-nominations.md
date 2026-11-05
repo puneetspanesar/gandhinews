@@ -6,7 +6,7 @@ section: politics
 format_label: "Editorial"
 topics: [states]
 title: "An election is lost at the nomination desk. Andhra's commission must show every candidate got there"
-standfirst: "Overturned SUVs in Punganur, burnt cars in Rayachoti and claims of seized papers across the state have marred the start of Andhra Pradesh's local body polls. Before anyone votes on 28 October, the State Election Commission owes voters a public account of who was allowed to stand."
+standfirst: "Overturned SUVs in Punganur, burnt cars in Rayachoti and claims of seized papers across the state have marred the start of Andhra Pradesh's local body polls. Before anyone votes on October 28, the State Election Commission owes voters a public account of who was allowed to stand."
 published: 2026-10-19T07:30:00+05:30
 keyPoints:
   - "The YSRCP says its candidates **could not file papers at all in eight places**; the TDP accuses the YSRCP of starting the violence."
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Incident facts (Punganur SUVs and burnt cars, Rayachoti fires, DSP B Prasad quote, TDP's X post, Palla Srinivasa Rao remark), Jagan's allegations (eight places, Pulivendula 19 nominations for 36 wards, request to Governor for central forces and CCTV) and the poll schedule (28 Oct urban bodies, results 30 Oct; later rounds to 2 Dec) from the desk's 16 and 18 Oct stories and their sources."
+    - "Editorial view of the desk. Incident facts (Punganur SUVs and burnt cars, Rayachoti fires, DSP B Prasad quote, TDP's X post, Palla Srinivasa Rao remark), Jagan's allegations (eight places, Pulivendula 19 nominations for 36 wards, request to Governor for central forces and CCTV) and the poll schedule (Oct 28 urban bodies, results Oct 30; later rounds to Dec 2) from the desk's Oct 16 and 18 stories and their sources."
     - "All allegations of obstruction are attributed to the YSRCP; no State Election Commission or government response had been reported."
     - "The line that the TDP made similar complaints when the YSRCP governed (2020-21 local polls) is desk background knowledge, kept general; no figures used."
     - "Recommendations are the desk's own."
@@ -70,10 +70,10 @@ Third, any ward won unopposed in the towns named in complaints, such as Pulivend
 
 Fourth, the police officers in charge at nomination centres where violence broke out should be identified and, where they failed to act, moved before polling day. Video recordings from those centres should be kept and made available to the courts.
 
-Finally, the rural rounds still lie ahead. Mandal and zilla parishad nominations, and three phases of gram panchayat polls ending on 2 December, will test the same system in thousands of villages. If the urban round passes without an answer, every party will draw the obvious lesson for the next one.
+Finally, the rural rounds still lie ahead. Mandal and zilla parishad nominations, and three phases of gram panchayat polls ending on December 2, will test the same system in thousands of villages. If the urban round passes without an answer, every party will draw the obvious lesson for the next one.
 
-Voting in 100 urban bodies is on 28 October. The commission has nine days to show that the choice on the ballot is the voters' to make.
+Voting in 100 urban bodies is on October 28. The commission has nine days to show that the choice on the ballot is the voters' to make.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"8","label":"places where the YSRCP says its candidates could not file nominations at all"},{"value":"19 for 36","label":"nominations the YSRCP says were filed for Pulivendula's 36 wards"},{"value":"28 Oct","label":"polling day for 100 urban local bodies; results on 30 October"}]}
+{"title":"The reporting behind this view","items":[{"value":"8","label":"places where the YSRCP says its candidates could not file nominations at all"},{"value":"19 for 36","label":"nominations the YSRCP says were filed for Pulivendula's 36 wards"},{"value":"Oct 28","label":"polling day for 100 urban local bodies; results on October 30"}]}
 ```

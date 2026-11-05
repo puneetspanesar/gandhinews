@@ -22,7 +22,7 @@ hero:
     value: "Gold down ₹870 on Dussehra"
 related: [gold-ends-week-near-4166-fed-hike-bets-ease-warsh, gold-slips-near-1-5-lakh-ahead-of-us-inflation-data, gold-silver-crude-prices-october-16, markets-shut-dussehra-results-data-calendar-october-20]
 seo:
-  description: "Gold fell ₹870 to ₹1,47,170 per 10 grams on Dussehra, 20 October 2026, as global prices dropped towards $4,100. MCX was shut; silver steady at ₹2.3 lakh/kg."
+  description: "Gold fell ₹870 to ₹1,47,170 per 10 grams on Dussehra, October 20, 2026, as global prices dropped towards $4,100. MCX was shut; silver steady at ₹2.3 lakh/kg."
 sources:
   - title: "BIG Drop in Gold Rate in India Today On Dussehra; Find Out Latest 24K, 22K, 18K Prices on Oct 20"
     publisher: "Goodreturns"

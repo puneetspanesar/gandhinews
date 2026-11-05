@@ -10,7 +10,7 @@ standfirst: "Captain Smit Machchhar, recovering in an Abu Dhabi military hospita
 published: 2026-10-18T15:45:00+05:30
 location: Abu Dhabi
 keyPoints:
-  - "Captain Smit Machchhar was attacked by his co-pilot on **flight FZ1073** from Dubai to Tel Aviv on 30 September."
+  - "Captain Smit Machchhar was attacked by his co-pilot on **flight FZ1073** from Dubai to Tel Aviv on September 30."
   - "Another captain on board **took over the controls**, Machchhar said."
   - "He is recovering at **Zayed Military Hospital** in Abu Dhabi and wants to return to work."
 hero:
@@ -32,14 +32,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: News On AIR, 18 Oct 2:00 pm, summarising Machchhar's interviews with The National and Sky News Arabia (outlets not named in copy). Published time set 3:45 pm, as the story reached this desk in the afternoon."
+    - "Single source: News On AIR, Oct 18 2:00 pm, summarising Machchhar's interviews with The National and Sky News Arabia (outlets not named in copy). Published time set 3:45 pm, as the story reached this desk in the afternoon."
     - "Source quote 'Smith, do something' paraphrased to avoid the spelling issue. Co-pilot's name, nationality, motive, the aircraft's diversion/landing airport and any charges not in source; left out."
     - "Machchhar's nationality not stated in source; copy does not call him Indian."
 ---
 
 An airline captain who was attacked by his co-pilot in the cockpit of a flydubai jet has described the moment he was struck from behind, and the crew who, he said, saved his life.
 
-Captain Smit Machchhar was flying flight FZ1073 from Dubai to Tel Aviv on 30 September when the attack happened. Speaking from Zayed Military Hospital in Abu Dhabi, where he is recovering, he gave the fullest account yet of what happened on the flight deck.
+Captain Smit Machchhar was flying flight FZ1073 from Dubai to Tel Aviv on September 30 when the attack happened. Speaking from Zayed Military Hospital in Abu Dhabi, where he is recovering, he gave the fullest account yet of what happened on the flight deck.
 
 ## "And that's when it started"
 

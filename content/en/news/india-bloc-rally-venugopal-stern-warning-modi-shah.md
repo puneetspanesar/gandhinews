@@ -22,7 +22,7 @@ hero:
     value: "'A stern warning' to Modi, Shah"
 related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Congress general secretary K C Venugopal says the Ramlila Maidan protest against CEC Gyanesh Kumar is a stern warning to PM Modi and Amit Shah."
+  description: "INDIA bloc rally, November 1, 2026: Congress general secretary K C Venugopal says the Ramlila Maidan protest against CEC Gyanesh Kumar is a stern warning to PM Modi and Amit Shah."
 sources:
   - title: "INDIA bloc rally LIVE Updates: Ramlila Maidan capacity 50,000; Opposition expects 10 lakh turnout"
     publisher: "The Tribune"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 10:40 IST, Venugopal remarks to reporters in Delhi (Tribune live blog entry 10:40 am, page updated 10:49 am IST). SP workers at Akhilesh Yadav's residence and Congress supporters at Himachal Bhawan: Tribune entry 10:48 am."
+    - "event: Nov 1 10:40 IST, Venugopal remarks to reporters in Delhi (Tribune live blog entry 10:40 am, page updated 10:49 am IST). SP workers at Akhilesh Yadav's residence and Congress supporters at Himachal Bhawan: Tribune entry 10:48 am."
     - "Venugopal quotes verbatim from the Tribune live blog (PTI-style copy). Who in the government called protesters 'anarchists' is not named in the source; copy attributes it to Venugopal's claim only."
     - "Turnout figures (up to 10 lakh claimed by INDIA bloc, about 50,000 expected by police): The Week 10:20 IST and Siasat 11:09 IST agree. Open buses from Kharge's residence: Siasat. Nothing found on the march actually starting by 12:05 IST; written as due at noon."
 ---

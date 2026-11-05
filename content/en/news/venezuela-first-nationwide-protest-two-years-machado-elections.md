@@ -22,7 +22,7 @@ hero:
     value: "Set the date: Venezuela marches"
 related: [venezuela-opposition-backs-machado-leadership-transition-plan, us-lifts-sanctions-jorge-rodriguez-venezuela-assembly]
 seo:
-  description: "Thousands of Venezuelans marched in Caracas, Valencia, Maracay, San Cristóbal and Maracaibo on 22 October demanding a presidential election date, in the first nationwide opposition protest in nearly two years."
+  description: "Thousands of Venezuelans marched in Caracas, Valencia, Maracay, San Cristóbal and Maracaibo on October 22 demanding a presidential election date, in the first nationwide opposition protest in nearly two years."
 sources:
   - title: "Venezuelans demand elections in first national protest in nearly two years"
     publisher: "Al Jazeera"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Thursday protests: Al Jazeera (with wire reporting), 23 Oct, only source for the 22 Oct marches. Cities, Hernandez quotes, PSUV march, Cabello on state TV, July 2027 deadline all from that report. No crowd total given; 'thousands' is the report's word."
-    - "July 2026 Caracas march (Vente Venezuela's first in the capital this year, 28 July) from El Nuevo Diario/EFE, used for background only."
+    - "Thursday protests: Al Jazeera (with wire reporting), Oct 23, only source for the Oct 22 marches. Cities, Hernandez quotes, PSUV march, Cabello on state TV, July 2027 deadline all from that report. No crowd total given; 'thousands' is the report's word."
+    - "July 2026 Caracas march (Vente Venezuela's first in the capital this year, July 28) from El Nuevo Diario/EFE, used for background only."
     - "Faction in US-backed dialogue not named in sources; left unnamed."
     - "Earlier related ids checked with ls."
 ---
@@ -47,7 +47,7 @@ Thousands of Venezuelans marched through Caracas and at least four other cities 
 
 The rallies were called by Vente Venezuela, the movement led by Nobel Peace Prize laureate María Corina Machado, who has been outside the country for close to a year. Supporters gathered in Valencia, Maracay, San Cristóbal and Maracaibo as well as the capital. Machado says a vote must take place by July 2027.
 
-Acting President Delcy Rodríguez, of the long-ruling United Socialist Party of Venezuela (PSUV), has led the country since 3 January, after US forces seized Nicolás Maduro in a military raid. Both Rodríguez and US President Donald Trump have said there will be elections. Neither has named a day.
+Acting President Delcy Rodríguez, of the long-ruling United Socialist Party of Venezuela (PSUV), has led the country since January 3, after US forces seized Nicolás Maduro in a military raid. Both Rodríguez and US President Donald Trump have said there will be elections. Neither has named a day.
 
 ## Hope on the streets
 
@@ -69,7 +69,7 @@ A US-backed dialogue between one opposition faction and the interim government h
 
 The dispute goes back to the July 2024 presidential vote. The electoral council declared Maduro the winner but never published full results. The opposition says tally sheets it collected show that its candidate, Edmundo González Urrutia, Machado's stand-in after she was barred, won comfortably. González Urrutia now lives in Spain.
 
-Vente Venezuela held a smaller march in Caracas on 28 July, the second anniversary of that vote, when crowds chanted "set the date, we'll put the votes". Thursday's protests carried that demand across the country for the first time.
+Vente Venezuela held a smaller march in Caracas on July 28, the second anniversary of that vote, when crowds chanted "set the date, we'll put the votes". Thursday's protests carried that demand across the country for the first time.
 
 Maduro and his wife, Cilia Flores, face drug trafficking and torture charges in the United States. Both have pleaded not guilty.
 

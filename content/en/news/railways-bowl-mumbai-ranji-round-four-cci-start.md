@@ -22,7 +22,7 @@ hero:
     value: "Railways bowl first, Mumbai 10/0"
 related: [mumbai-railways-ranji-round-four-brabourne-preview, bengal-shahbaz-ahmed-return-ranji-services-palam, mohammed-shami-sits-out-bengal-ranji-services]
 seo:
-  description: "Railways won the toss and bowled against Mumbai at the Cricket Club of India on day one of Ranji Trophy round four on 2 November 2026. Mumbai reached 10 without loss in the first four overs."
+  description: "Railways won the toss and bowled against Mumbai at the Cricket Club of India on day one of Ranji Trophy round four on November 2, 2026. Mumbai reached 10 without loss in the first four overs."
 sources:
   - title: "RLYS vs MUM Live Score, Group D, Ranji Trophy Elite, 02 Nov 2026"
     publisher: "CricTracker"
@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 09:00 IST toss, play from 09:30 IST (scheduled start on CricTracker); Mumbai 10/0 after 3.5 to 4.1 overs, roughly 09:45 to 09:50 IST, from CricTracker and Sports Tak live pages fetched about 10:00 IST. Neither page gives clock times per ball."
+    - "event: Nov 2 about 09:00 IST toss, play from 09:30 IST (scheduled start on CricTracker); Mumbai 10/0 after 3.5 to 4.1 overs, roughly 09:45 to 09:50 IST, from CricTracker and Sports Tak live pages fetched about 10:00 IST. Neither page gives clock times per ball."
     - "Batting figures: Raghuvanshi 5 off 13 or 14, Saxena 5 off 10 (commentary); CricTracker scorecard table lagged. Bowling figures conflict between feeds (Sangwan 1-0-4-0 vs 2-0-6-0), so copy names Adarsh Singh and Himanshu Sangwan as the new-ball pair without figures. Only boundary in commentary: Raghuvanshi four off Adarsh Singh."
-    - "Playing XIs not available. Siddhesh Lad named Mumbai captain and Shardul Thakur out with a hand injury, per Free Press Journal (1 Nov 19:12 IST). Railways captain not confirmed; not named."
-    - "Bengal v Maharashtra at Eden Gardens and captains Easwaran and Shaw from Sportsdunia (2 Nov 02:14). Shami's place in the XI not confirmed; copy avoids saying he plays. Start time of that match not confirmed."
+    - "Playing XIs not available. Siddhesh Lad named Mumbai captain and Shardul Thakur out with a hand injury, per Free Press Journal (Nov 1 19:12 IST). Railways captain not confirmed; not named."
+    - "Bengal v Maharashtra at Eden Gardens and captains Easwaran and Shaw from Sportsdunia (Nov 2 02:14). Shami's place in the XI not confirmed; copy avoids saying he plays. Start time of that match not confirmed."
     - "Search budget for desk exhausted (6/6)."
 cover:
   template: sport

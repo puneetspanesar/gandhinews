@@ -22,7 +22,7 @@ hero:
     value: "Triple the income by 2050"
 related: [imf-middle-east-pakistan-economy-contract-gulf-recession, pakistan-rice-exporters-lose-buyers-freight-costs-india]
 seo:
-  description: "World Bank's Pakistan Development Update 'Attaining Escape Velocity', 22 October 2026: growth 3.7% in FY26, incomes could triple by 2050 with faster reforms."
+  description: "World Bank's Pakistan Development Update 'Attaining Escape Velocity', October 22, 2026: growth 3.7% in FY26, incomes could triple by 2050 with faster reforms."
 sources:
   - title: "Faster reforms could triple Pakistan's incomes by 2050: World Bank"
     publisher: "Aaj English TV"

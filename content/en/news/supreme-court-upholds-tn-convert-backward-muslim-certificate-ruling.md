@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single secondary source (The Logical Indian, which cites LiveLaw). Bench Justices Prashant Kumar Mishra and Shree Chandrashekhar; dismissed 15 Oct; verdict reserved Aug 2026; HC ruling June 2026; GO March 2024; Sameer Ahamed converted 2015, sought Muslim Lebbai certificate. Not cross-checked with a second outlet because of the search budget; editor may wish to confirm before promoting."
+    - "Single secondary source (The Logical Indian, which cites LiveLaw). Bench Justices Prashant Kumar Mishra and Shree Chandrashekhar; dismissed Oct 15; verdict reserved Aug 2026; HC ruling June 2026; GO March 2024; Sameer Ahamed converted 2015, sought Muslim Lebbai certificate. Not cross-checked with a second outlet because of the search budget; editor may wish to confirm before promoting."
     - "Quoted phrase 'doesn't become a member of one of the seven notified backward class social communities in the State' attributed by The Logical Indian to LiveLaw's report of the judgment; used as the court's words with that caveat."
     - "Case number and GO number not given; omitted. Time of judgment not given; published time is an estimate."
     - "Article 16(4) public employment context per source."

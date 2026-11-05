@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Bandipur figures (228 of 630 filled, 402 vacant, 63.81%; 12 of 206 watchers; 56.59% beat foresters vacant; STPF about 16%; core-area night stays) from the desk's 19 October story, single source Tribune citing an NTCA supervisory report obtained under RTI."
-    - "Karnataka-wide figures (about half of frontline posts vacant; at least 60% of 1,892 watcher posts; about 45% of guards; 540 guard posts approved for 2023-24; PCCF Meenakshi Negi on recruitment in 'final stages'; minister suggested outsourced labour) from Deccan Herald, 11 July 2025. Not checked whether that recruitment has since been completed; copy says 'last year'."
-    - "Assam reserves (casual workers Rs 6,000-9,000 a month, up to 50% of frontline staff temporary in some reserves, no powers to book offences, home guard Dhanmani Deka killed by a tiger at Orang on 28 August 2024, Sahajul Haque quote) from Scroll/IndiaSpend, citing NTCA management effectiveness evaluation reports."
+    - "Editorial view of the desk. Bandipur figures (228 of 630 filled, 402 vacant, 63.81%; 12 of 206 watchers; 56.59% beat foresters vacant; STPF about 16%; core-area night stays) from the desk's October 19 story, single source Tribune citing an NTCA supervisory report obtained under RTI."
+    - "Karnataka-wide figures (about half of frontline posts vacant; at least 60% of 1,892 watcher posts; about 45% of guards; 540 guard posts approved for 2023-24; PCCF Meenakshi Negi on recruitment in 'final stages'; minister suggested outsourced labour) from Deccan Herald, July 11, 2025. Not checked whether that recruitment has since been completed; copy says 'last year'."
+    - "Assam reserves (casual workers Rs 6,000-9,000 a month, up to 50% of frontline staff temporary in some reserves, no powers to book offences, home guard Dhanmani Deka killed by a tiger at Orang on August 28, 2024, Sahajul Haque quote) from Scroll/IndiaSpend, citing NTCA management effectiveness evaluation reports."
     - "Tiger numbers (India 3,682 average estimate in 2022; Karnataka 563; Bandipur 150) from Big Cats India summary of Status of Tigers 2022; the official report was not opened. Page date approximate."
     - "Recommendations are the desk's own."
 ---

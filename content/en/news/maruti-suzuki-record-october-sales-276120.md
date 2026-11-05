@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 13:45 IST (Investywise published_time 08:15:45 UTC; Whalesbook byline 1:46 pm), Maruti Suzuki October 2026 sales filed with BSE (filing itself not opened)."
-    - "Oct 2026 figures from Investywise and Whalesbook (agree on 276,120 total and 49,872 exports). Oct 2025 base (220,894 total, 180,675 domestic, 8,915 OEM, 31,304 exports) from Tribune/ANI 1 Nov 2025. Growth computed: total +25.0%, domestic PV+LCV +20.0%, exports +59.3%, OEM +6.1%."
+    - "event: Nov 1 13:45 IST (Investywise published_time 08:15:45 UTC; Whalesbook byline 1:46 pm), Maruti Suzuki October 2026 sales filed with BSE (filing itself not opened)."
+    - "Oct 2026 figures from Investywise and Whalesbook (agree on 276,120 total and 49,872 exports). Oct 2025 base (220,894 total, 180,675 domestic, 8,915 OEM, 31,304 exports) from Tribune/ANI Nov 1, 2025. Growth computed: total +25.0%, domestic PV+LCV +20.0%, exports +59.3%, OEM +6.1%."
     - "Sums check: 100,877 + 97,787 + 13,720 = 212,384 PV; + 4,405 LCV = 216,789; + 9,459 OEM = 226,248; + 49,872 exports = 276,120. YTD 1,655,498 vs 1,299,629 (Whalesbook)."
     - "No quotes in sources. September 2026 Maruti PV figure 168,744 from Auto India Daily recap."
 ---

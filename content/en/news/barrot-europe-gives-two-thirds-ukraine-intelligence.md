@@ -12,7 +12,7 @@ location: Paris
 keyPoints:
   - "Jean-Noel Barrot said **two-thirds of intelligence** given to Ukraine comes from Europeans."
   - "He **neither confirmed nor denied** that the US had reduced its intelligence sharing."
-  - "Ukrainian defence sources said **Starshield links resumed** on 15 October."
+  - "Ukrainian defence sources said **Starshield links resumed** on October 15."
 hero:
   need: "French Foreign Minister Jean-Noel Barrot"
   suggested_source: "Jean-Noël Barrot"
@@ -21,7 +21,7 @@ hero:
     value: "Two-thirds of the intelligence"
 related: [musk-starlink-ukraine-throttling-us-military, zelenskyy-brussels-rutte-macron-air-defence-eu-summit, ukraine-resumes-strikes-russian-oil-refineries]
 seo:
-  description: "French Foreign Minister Jean-Noel Barrot said on 15 October that Europeans provide two-thirds of Ukraine's intelligence, amid fears of US cuts and Starlink limits."
+  description: "French Foreign Minister Jean-Noel Barrot said on October 15 that Europeans provide two-thirds of Ukraine's intelligence, amid fears of US cuts and Starlink limits."
 sources:
   - title: "Barrot says Europeans provide two-thirds of intelligence to Ukraine"
     publisher: "Ukrinform"
@@ -43,6 +43,6 @@ Pressed on whether Washington had reduced or stopped sharing intelligence with K
 
 On Starlink, Barrot said "there is information in the public domain that appears to indicate a reduction in Starlink's operating speed." He pointed out that Elon Musk had placed responsibility for limits on Starshield, the military version of the service, on the US government.
 
-Ukrainian units lost the use of Starlink terminals on the move overnight on 14 October without warning. Sources in Ukraine's defence ministry were reported as saying that Starshield's in-motion service came back on 15 October, while the reasons for the cut were still being looked into with partners.
+Ukrainian units lost the use of Starlink terminals on the move overnight on October 14 without warning. Sources in Ukraine's defence ministry were reported as saying that Starshield's in-motion service came back on October 15, while the reasons for the cut were still being looked into with partners.
 
 Barrot said the Kremlin was using the episode to wear down Ukrainian morale and split its backers. "We are waging a war on the battlefield, but also in people's minds," he said. He also pointed to joint work with Ukraine on interceptor missiles that are "significantly cheaper and much faster to produce" than those available until now.

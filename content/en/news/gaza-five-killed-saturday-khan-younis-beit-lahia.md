@@ -22,7 +22,7 @@ hero:
     value: "Five more dead in a truce"
 related: [gaza-city-strike-kills-one-1500-dead-since-ceasefire, gaza-three-killed-yellow-line-musaddar, un-envoy-gaza-ceasefire-in-name-only-security-council]
 seo:
-  description: "At least five Palestinians, including a girl and two women, were reported killed by Israeli fire across Gaza on 24 October, a year after the ceasefire began."
+  description: "At least five Palestinians, including a girl and two women, were reported killed by Israeli fire across Gaza on October 24, a year after the ceasefire began."
 sources:
   - title: "At least eight Palestinians killed in Israeli strikes on Gaza in 48 hours (AFP)"
     publisher: "L'Orient Today"
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Five deaths and locations from the Palestinian Information Center (updated 19:03 +02:00), a Hamas-aligned outlet; hedged as 'reported'. Victims not named."
     - "AFP (12:41 +03:00) separately reports at least eight killed in 48 hours and a woman killed in Jabalia per Shifa sources; PIC lists a woman injured in Jabalia. Jabalia death not used because of the conflict."
-    - "Ministry totals (1,547 killed, 5,559 wounded since 11 Oct 2025; 74,540 and 175,678 since Oct 2023) from AFP."
+    - "Ministry totals (1,547 killed, 5,559 wounded since Oct 11, 2025; 74,540 and 175,678 since Oct 2023) from AFP."
     - "No Israeli military comment found."
 ---
 
@@ -53,8 +53,8 @@ Israeli tank fire also hit two occupied homes near the Shuja'iya junction in eas
 
 ## A year of the truce
 
-The ceasefire took effect on 11 October 2025. Since then, Gaza's health ministry says, at least 1,547 Palestinians have been killed and 5,559 wounded by Israeli fire. The ministry puts the toll since the war began in October 2023 at 74,540 dead and 175,678 wounded.
+The ceasefire took effect on October 11, 2025. Since then, Gaza's health ministry says, at least 1,547 Palestinians have been killed and 5,559 wounded by Israeli fire. The ministry puts the toll since the war began in October 2023 at 74,540 dead and 175,678 wounded.
 
-The war followed the Hamas-led attack on southern Israel on 7 October 2023, in which more than 1,200 people were killed.
+The war followed the Hamas-led attack on southern Israel on October 7, 2023, in which more than 1,200 people were killed.
 
-Saturday's deaths came as the Israeli army continued its operation in Hebron in the occupied West Bank, days before Israelis vote in a general election on 27 October.
+Saturday's deaths came as the Israeli army continued its operation in Hebron in the occupied West Bank, days before Israelis vote in a general election on October 27.

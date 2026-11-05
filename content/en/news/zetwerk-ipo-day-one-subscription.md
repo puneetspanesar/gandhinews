@@ -12,7 +12,7 @@ location: Bengaluru
 keyPoints:
   - "Zetwerk's IPO was **12% subscribed** by 3:04 pm on its first day."
   - "The company raised **₹2,251.23 crore from anchor investors** including BlackRock and Norway's sovereign fund."
-  - "The issue closes on 19 October and the shares are due to list on **23 October**."
+  - "The issue closes on October 19 and the shares are due to list on **October 23**."
 hero:
   need: "Zetwerk co-founder and CEO Amrit Acharya"
   suggested_source: "Amrit Acharya Zetwerk"
@@ -21,7 +21,7 @@ hero:
     value: "12% subscribed on day one"
 related: [zetwerk-ipo-price-band-opens-october-15, jio-platforms-ipo-price-band-biggest-india-listing, sebi-proposes-tighter-ipo-proceeds-monitoring, sensex-nifty-rupee-close-october-15]
 seo:
-  description: "Zetwerk's ₹5,012 crore IPO was 12% subscribed by 3 pm on day one, 15 October 2026, after raising ₹2,251 crore from anchors. Retail portion led at 17%."
+  description: "Zetwerk's ₹5,012 crore IPO was 12% subscribed by 3 pm on day one, October 15, 2026, after raising ₹2,251 crore from anchors. Retail portion led at 17%."
 sources:
   - title: "Zetwerk Manufacturing Business IPO subscribed 12% so far on Day 1: Check price band, lot size and key dates"
     publisher: "Upstox (PTI)"
@@ -54,4 +54,4 @@ The issue is priced at ₹143 to ₹151 a share, with a minimum bid of 99 shares
 
 SBI Securities and ICICI Direct have recommended subscribing. "We recommend investors SUBSCRIBE to this issue with a long-term investment horizon," SBI Securities said, while flagging the company's heavy working capital needs and negative operating cash flow. Swastika was neutral, saying the company's net losses "remain a major concern". It put the consolidated loss for 2025-26 at ₹1,606 crore. At the top of the price band, the issue values Zetwerk at an enterprise value of 66.5 times its 2025-26 EBITDA, or earnings before interest, tax, depreciation and amortisation.
 
-The issue closes on 19 October. Shares are due to be allotted on 21 October and to list on the BSE and NSE on 23 October.
+The issue closes on October 19. Shares are due to be allotted on October 21 and to list on the BSE and NSE on October 23.

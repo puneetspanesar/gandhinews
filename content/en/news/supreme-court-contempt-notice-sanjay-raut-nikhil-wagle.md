@@ -22,7 +22,7 @@ hero:
     value: "Show cause, but no summons"
 related: [attorney-general-consent-contempt-wagle-sanjay-raut-cji, supreme-court-notice-congress-rahul-march-browbeat-judiciary, supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct, sc-cases-tracker]
 seo:
-  description: "The Supreme Court on 16 October issued contempt show-cause notices to Sanjay Raut and Nikhil Wagle over remarks on CJI Surya Kant and the judiciary, on the SCBA's plea."
+  description: "The Supreme Court on October 16 issued contempt show-cause notices to Sanjay Raut and Nikhil Wagle over remarks on CJI Surya Kant and the judiciary, on the SCBA's plea."
 sources:
   - title: "Supreme Court issues contempt notice to Sanjay Raut, Nikhil Wagle over remarks targeting CJI Kant, judiciary"
     publisher: "Bar & Bench"
@@ -67,6 +67,6 @@ The SCBA argued that the remarks were scandalous and lowered the standing of the
 
 The case moved quickly. Under Section 15(1)(b) of the Contempt of Courts Act, a private party needs the Attorney General's consent to bring a criminal contempt case. The SCBA wrote to Attorney General R Venkataramani on Thursday, and he gave his consent the same day. In his letter he said the posts by Wagle and Raut were "prima-facie scandalous".
 
-The notices come at a tense moment between the court and the opposition. A day earlier the court issued notices to Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav and the Congress on a lawyer's plea against the 12 October march by opposition leaders inside the Supreme Court premises, and heard Gandhi's own petition against the Special Intensive Revision of electoral rolls.
+The notices come at a tense moment between the court and the opposition. A day earlier the court issued notices to Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav and the Congress on a lawyer's plea against the October 12 march by opposition leaders inside the Supreme Court premises, and heard Gandhi's own petition against the Special Intensive Revision of electoral rolls.
 
 Neither Raut nor Wagle had responded publicly to the notice by Friday evening. The date of the next hearing was not immediately known.

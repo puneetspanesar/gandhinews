@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "The post was in Hindi; quotes are ANI's English translation. UNI's translation of the first question differs slightly in wording."
-    - "Friday press conference on SIR: The Statesman, 16 Oct 6:25 pm."
+    - "Friday press conference on SIR: The Statesman, Oct 16 6:25 pm."
     - "No BJP or government response found by publication."
 ---
 

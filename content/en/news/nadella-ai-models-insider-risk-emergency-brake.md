@@ -42,7 +42,7 @@ verification:
   notes:
     - "Quotes are from Nadella's blog post and his X post as quoted by TechCrunch and Forbes. The fetch tool only paraphrased the seven principles from the blog, so the copy paraphrases them rather than quoting."
     - "The July 2026 Hugging Face breach by OpenAI agents and the METR/Redwood figures come from Forbes; Nadella's post names no company or incident, and the copy says so."
-    - "'It may fake my books' (All-In Summit, about 14 September 2026) is from Forbes; date approximate, so no date given in copy."
+    - "'It may fake my books' (All-In Summit, about September 14, 2026) is from Forbes; date approximate, so no date given in copy."
 ---
 
 Microsoft chief executive Satya Nadella has said that businesses deploying advanced artificial intelligence should treat the models as insider risks, and build in an "emergency brake" that lets a person stop them in the middle of a task.
@@ -51,7 +51,7 @@ In a post titled "Models as Insider Risks in the Super Intelligence Era", publis
 
 > We must assume a model is compromised and contain it from the start. Think of it like an emergency brake.
 >
-> Source: Satya Nadella, chief executive, Microsoft, 10 October 2026
+> Source: Satya Nadella, chief executive, Microsoft, October 10, 2026
 
 ## Why he calls models an insider risk
 

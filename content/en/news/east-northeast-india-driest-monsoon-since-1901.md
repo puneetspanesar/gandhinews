@@ -32,14 +32,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: EastMojo (17 Oct, 05:00 UTC), reporting a Climate Trends analysis of IMD data. Climate Trends report itself not read; no IMD press statement found. Search budget exhausted before a second source could be found."
+    - "Single source: EastMojo (Oct 17, 05:00 UTC), reporting a Climate Trends analysis of IMD data. Climate Trends report itself not read; no IMD press statement found. Search budget exhausted before a second source could be found."
     - "Quotes: only the fragments EastMojo put in quotation marks are used (Khosla 'from response to preparedness'; Palawat 'partly due to a sustained supply of moisture'). Ramesh and Koll paraphrased."
     - "El Nino probabilities (83% strongest since 1950 for OND; near 100% persisting to Feb 2027): issuer not named in source, so attributed to 'forecasts'."
-    - "Regional reservoir figures left out: source wording ambiguous. All-India 87.08% of normal on 8 Oct used."
+    - "Regional reservoir figures left out: source wording ambiguous. All-India 87.08% of normal on Oct 8 used."
     - "Analysis published Saturday morning; not previously on site."
 ---
 
-The monsoon that ended on 30 September was the driest on record for East and Northeast India. The region received 1,017.1 mm of rain against a normal of 1,367.3 mm, a shortfall of 25.6%, according to an analysis of India Meteorological Department (IMD) data by the climate communications group Climate Trends. That is the lowest total in 125 years of records, below the previous low of 1,065.7 mm in 2013.
+The monsoon that ended on September 30 was the driest on record for East and Northeast India. The region received 1,017.1 mm of rain against a normal of 1,367.3 mm, a shortfall of 25.6%, according to an analysis of India Meteorological Department (IMD) data by the climate communications group Climate Trends. That is the lowest total in 125 years of records, below the previous low of 1,065.7 mm in 2013.
 
 India as a whole finished 13% below normal, its weakest season in a decade. The analysis links the poor rains to a developing El Niño, the periodic warming of the Pacific that tends to weaken the Indian monsoon.
 
@@ -63,7 +63,7 @@ Mahesh Palawat of Skymet Weather said low-pressure systems are now lingering ove
 
 ## Farms, reservoirs and heat
 
-Nationally, the area under rice was 15.56 lakh hectares lower by 5 October than a year earlier. Telangana, Karnataka, Andhra Pradesh, Rajasthan and Maharashtra have declared drought, with Maharashtra's declaration covering 75% of the state. Live storage in India's 178 major reservoirs stood at 87.08% of normal on 8 October.
+Nationally, the area under rice was 15.56 lakh hectares lower by October 5 than a year earlier. Telangana, Karnataka, Andhra Pradesh, Rajasthan and Maharashtra have declared drought, with Maharashtra's declaration covering 75% of the state. Live storage in India's 178 major reservoirs stood at 87.08% of normal on October 8.
 
 G V Ramanjaneyulu of the Centre for Sustainable Agriculture said farmers appear to be moving to less water-hungry crops, and warned that weaker groundwater recharge will push up dependence on irrigation.
 

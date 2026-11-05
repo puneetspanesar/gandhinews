@@ -22,7 +22,7 @@ hero:
     value: "Tehran's terms for Washington"
 related: [pakistan-munir-saudi-envoy-makkah-pact-collective-response, lavrov-tehran-backs-iran-hormuz-pre-war-terms, hegseth-netanyahu-desert-air-base-qatar-iran-us-talks]
 seo:
-  description: "Iran told Pakistan army chief Asim Munir in Tehran on 20 October that there will be no talks with the US until Washington meets its seven conditions."
+  description: "Iran told Pakistan army chief Asim Munir in Tehran on October 20 that there will be no talks with the US until Washington meets its seven conditions."
 sources:
   - title: "Iran tells Pakistan army chief no talks with Washington until demands are met (Reuters)"
     publisher: "ThePrint"
@@ -54,7 +54,7 @@ verification:
 
 Iran has told Pakistan's army chief, Field Marshal Asim Munir, that it will not sit down with the United States until Washington meets its demands, a firmer line delivered as Islamabad tries to head off a new round of fighting.
 
-Munir, who is also Pakistan's Chief of Defence Forces, arrived in Tehran on Tuesday evening with Interior Minister Mohsin Naqvi. It was his fifth visit to Iran since the US and Israel attacked the country on 28 February, and his first since September.
+Munir, who is also Pakistan's Chief of Defence Forces, arrived in Tehran on Tuesday evening with Interior Minister Mohsin Naqvi. It was his fifth visit to Iran since the US and Israel attacked the country on February 28, and his first since September.
 
 ## What Iran's leaders said
 
@@ -70,7 +70,7 @@ Foreign Ministry spokesperson Esmail Baghaei said the main aim of Munir's visit 
 
 ## Pakistan's place in the talks
 
-Pakistan has been the main go-between since the war began. Its mediation led to a ceasefire on 8 April and a 14-point memorandum in June under which the US was to lift its blockade, Hormuz was to reopen and frozen Iranian assets were to be released in phases. That deal lapsed in mid-August, and Iran has kept the strait shut since, saying the US failed to keep its side.
+Pakistan has been the main go-between since the war began. Its mediation led to a ceasefire on April 8 and a 14-point memorandum in June under which the US was to lift its blockade, Hormuz was to reopen and frozen Iranian assets were to be released in phases. That deal lapsed in mid-August, and Iran has kept the strait shut since, saying the US failed to keep its side.
 
 Washington's position remains far apart. US Vice President JD Vance said earlier this month that Iran must make a "meaningful" cut in its uranium enrichment capacity to end the war, now nearly eight months old.
 
@@ -78,4 +78,4 @@ Washington's position remains far apart. US Vice President JD Vance said earlier
 
 Munir's trip followed a visit to Tehran on Monday by Russian Foreign Minister Sergey Lavrov, and came as US Defence Secretary Pete Hegseth made an unannounced stop in Israel to see Prime Minister Benjamin Netanyahu.
 
-US President Donald Trump has said the US will not attack Iran before the 3 November midterm elections, though the naval blockade stays in place. Israel votes on 27 October. Pakistan had not commented on the outcome of Munir's meetings by late Tuesday.
+US President Donald Trump has said the US will not attack Iran before the November 3 midterm elections, though the naval blockade stays in place. Israel votes on October 27. Pakistan had not commented on the outcome of Munir's meetings by late Tuesday.

@@ -12,7 +12,7 @@ location: Washington
 keyPoints:
   - "Former FBI officials **Nikki Floris and Bradley Benavides** are accused of lying to Congress."
   - "Prosecutors say their testimony that **the FBI's election interference task force** played no part in the laptop inquiry is contradicted by messages."
-  - "The charges come ahead of the **3 November midterm elections**."
+  - "The charges come ahead of the **November 3 midterm elections**."
 hero:
   need: "FBI Director Kash Patel; or the J Edgar Hoover FBI headquarters building in Washington"
   suggested_source: "Kash Patel"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Al Jazeera with AP, published 18:22 GMT 23 Oct. Court not named; announcing official not named, so attributed to the Justice Department and prosecutors."
+    - "Single source: Al Jazeera with AP, published 18:22 GMT Oct 23. Court not named; announcing official not named, so attributed to the Justice Department and prosecutors."
     - "Al Jazeera expands FITF as 'Foreign Intelligence Task Force'; the unit is widely known as the Foreign Influence Task Force. Copy avoids the expansion and uses FITF with a description."
     - "Benavides's lawyer reaction not reported."
     - "Floris lawyer quotes: 'on the say-so of politicians, not on the facts' and 'no coincidence' only; nearly 20 years paraphrased."
@@ -46,7 +46,7 @@ FBI Director Kash Patel welcomed the case. "Lying to Congress by senior FBI offi
 
 ## "No coincidence"
 
-Lawyers for the pair accused the Justice Department of trying to stir up the scandal before the 3 November vote. Floris's lawyer said she had served nearly 20 years as an FBI intelligence officer and had been charged falsely "on the say-so of politicians, not on the facts". The timing, the lawyer said, was "no coincidence".
+Lawyers for the pair accused the Justice Department of trying to stir up the scandal before the November 3 vote. Floris's lawyer said she had served nearly 20 years as an FBI intelligence officer and had been charged falsely "on the say-so of politicians, not on the facts". The timing, the lawyer said, was "no coincidence".
 
 The laptop, left at a computer repair shop in Delaware, became public in October 2020, weeks before Joe Biden beat Donald Trump. Some former intelligence officials said it bore the hallmarks of Russian disinformation; the FBI later confirmed it was authentic. Its contents were used in federal gun and tax cases against Hunter Biden, but no wrongdoing involving his business dealings or his father was found.
 

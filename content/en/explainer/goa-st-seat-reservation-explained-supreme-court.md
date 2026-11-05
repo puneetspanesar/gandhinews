@@ -8,7 +8,7 @@ topics: [delimitation, elections-2027, census-2027]
 title: "Goa's tribal seats explained: why a High Court stay has sent the ST quota fight to the Supreme Court"
 standfirst: "Goa has never reserved an assembly seat for Scheduled Tribes, though they are about a tenth of its people. A 2025 law was meant to change that before the 2027 election. A High Court stay has stalled it, and the state says it will go to the Supreme Court by Wednesday."
 published: 2026-11-03T18:05:00+05:30
-shortAnswer: "Goa's Scheduled Tribes, mainly the Gawda, Kunbi and Velip communities, were added to the ST list only in 2003, after the 2001 Census that the current constituency map is based on. So none of Goa's 40 assembly seats is reserved for them. A 2025 Act of Parliament lets the Census Commissioner estimate their share of the population and the Election Commission then reserve seats, likely four, before the 2027 polls. On 29 October the Bombay High Court at Goa restrained the Commissioner from notifying that estimate while it hears a challenge to the law. The Goa government says it will file an appeal in the Supreme Court by Wednesday, 4 November."
+shortAnswer: "Goa's Scheduled Tribes, mainly the Gawda, Kunbi and Velip communities, were added to the ST list only in 2003, after the 2001 Census that the current constituency map is based on. So none of Goa's 40 assembly seats is reserved for them. A 2025 Act of Parliament lets the Census Commissioner estimate their share of the population and the Election Commission then reserve seats, likely four, before the 2027 polls. On October 29 the Bombay High Court at Goa restrained the Commissioner from notifying that estimate while it hears a challenge to the law. The Goa government says it will file an appeal in the Supreme Court by Wednesday, November 4."
 hero:
   need: "Goa Legislative Assembly complex at Porvorim, whose seats are at the heart of the dispute"
   suggested_source: "Goa Legislative Assembly"
@@ -53,13 +53,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "HC order date 29 Oct 2026, bench (Justices Valmiki Menezes and Amit S Jamsandekar), petitioner Edwin Lucio Fernandes, Section 3(1), the 10 Sept 2026 Census Commissioner communication (data 'insufficient', ST share 'reasonably presumed' at 9.9% from the 2001 Census), counsel's 'finality' argument, DSG Pravin Faldessai appearing, quoted words of the order: Verdictum and Law Trend (30 Oct). No next hearing date was reported."
-    - "SLP 'by Wednesday', Sawaikar as NRI Commissioner, Monday delegation with Speaker Ganesh Gaonkar and minister Ramesh Tawadkar, Act passed Aug 2025 and in force Aug 2026, Kunbi/Gauda/Velip added Jan 2003, 566 tribal people in 2001: ThePrint/PTI 3 Nov (1:49 pm). The PTI line that the bench said figures could not be fixed 'on any basis other than the first official Census conducted after 2026' is not quoted; it may be the petitioner's case rather than the court's finding, so copy gives it as the petition's argument."
+    - "HC order date Oct 29, 2026, bench (Justices Valmiki Menezes and Amit S Jamsandekar), petitioner Edwin Lucio Fernandes, Section 3(1), the Sept 10, 2026 Census Commissioner communication (data 'insufficient', ST share 'reasonably presumed' at 9.9% from the 2001 Census), counsel's 'finality' argument, DSG Pravin Faldessai appearing, quoted words of the order: Verdictum and Law Trend (Oct 30). No next hearing date was reported."
+    - "SLP 'by Wednesday', Sawaikar as NRI Commissioner, Monday delegation with Speaker Ganesh Gaonkar and minister Ramesh Tawadkar, Act passed Aug 2025 and in force Aug 2026, Kunbi/Gauda/Velip added Jan 2003, 566 tribal people in 2001: ThePrint/PTI Nov 3 (1:49 pm). The PTI line that the bench said figures could not be fixed 'on any basis other than the first official Census conducted after 2026' is not quoted; it may be the petitioner's case rather than the court's finding, so copy gives it as the petition's argument."
     - "2011 ST population 1.49 lakh (10.21% of 14.58 lakh), Pernem the one SC seat, 40 seats, four likely constituencies (Sanguem, Quepem, Priol, Nuvem, a politicians' estimate), July 2023 assembly resolution, March 2024 Cabinet approval: ThePrint July 2025. 'Likely four' is consistent with 9.9% of 40; stated as likely."
-    - "Bill mechanics (Census Commissioner estimate on 2001 base, Election Commission to amend the Delimitation Order after inviting suggestions, effect from dissolution of the current assembly): PRS summary. Notification on 7 Aug 2026: News On AIR headline."
+    - "Bill mechanics (Census Commissioner estimate on 2001 base, Election Commission to amend the Delimitation Order after inviting suggestions, effect from dissolution of the current assembly): PRS summary. Notification on Aug 7, 2026: News On AIR headline."
     - "Constitutional freeze on readjusting seats until figures of the first Census after 2026 (Articles 82 and 170) and proportional ST reservation (Article 332) are standard constitutional provisions, not opened from a document this run."
-    - "Census 2027 timing (February 2027, reference date 1 March 2027): the site's census explainer. Assembly polls 'expected in early 2027': Verdictum. That the new census figures cannot arrive before the polls is the desk's inference, phrased cautiously."
-    - "No Supreme Court filing had been reported as of the afternoon of 3 Nov; the copy treats the appeal as planned."
+    - "Census 2027 timing (February 2027, reference date March 1, 2027): the site's census explainer. Assembly polls 'expected in early 2027': Verdictum. That the new census figures cannot arrive before the polls is the desk's inference, phrased cautiously."
+    - "No Supreme Court filing had been reported as of the afternoon of Nov 3; the copy treats the appeal as planned."
 infographic:
   kicker: Explained
   headline: Goa's tribal seats, from 2001 to the Supreme Court
@@ -107,21 +107,21 @@ The Act works in two steps. First, under Section 3(1), the Census Commissioner *
 Politicians in Goa expect **about four seats** to be reserved, in areas with large tribal populations such as Sanguem, Quepem, Priol and Nuvem.
 
 ```photo
-{"n":1,"subject":"High Court of Bombay at Goa","caption":"The Bombay High Court's bench at Goa, which on 29 October restrained the Census Commissioner from notifying Goa's estimated tribal population.","alt":"The building of the Bombay High Court bench at Goa"}
+{"n":1,"subject":"High Court of Bombay at Goa","caption":"The Bombay High Court's bench at Goa, which on October 29 restrained the Census Commissioner from notifying Goa's estimated tribal population.","alt":"The building of the Bombay High Court bench at Goa"}
 ```
 
 ## What did the High Court stop?
 
 **The first step.** A Goa resident, Edwin Lucio Fernandes, has challenged the law as unconstitutional. His petition argues that reserved seats cannot be reallocated until the first Census after 2026 is done, and that a special law cannot get around that. His lawyers also warned that once the population figure was notified, it "would attain finality and could not be questioned before any court".
 
-On 29 October a bench of Justices Valmiki Menezes and Amit S Jamsandekar ordered that, until the petition is decided, the Census Commissioner **is restrained from notifying the estimate** in the Gazette of India.
+On October 29 a bench of Justices Valmiki Menezes and Amit S Jamsandekar ordered that, until the petition is decided, the Census Commissioner **is restrained from notifying the estimate** in the Gazette of India.
 
 ## Why did the court doubt the estimate?
 
-**Because the Census Commissioner's own letter admitted the data was thin.** In a communication to the Union Law Ministry on 10 September, the Commissioner said the available information was insufficient to determine or estimate Goa's current population. Yet the same letter said the ST share could be "reasonably presumed" to be **about 9.9%**, working from the 2001 Census. The bench asked how that conclusion could be reached on the Commissioner's own admission.
+**Because the Census Commissioner's own letter admitted the data was thin.** In a communication to the Union Law Ministry on September 10, the Commissioner said the available information was insufficient to determine or estimate Goa's current population. Yet the same letter said the ST share could be "reasonably presumed" to be **about 9.9%**, working from the 2001 Census. The bench asked how that conclusion could be reached on the Commissioner's own admission.
 
 ```timeline
-{"title":"Goa's long road to tribal seats","items":[{"date":"2001","text":"Census records 566 tribal people in Goa; the seat map is later drawn on this count."},{"date":"Jan 2003","text":"Gawda, Kunbi and Velip communities added to Goa's ST list."},{"date":"2011","text":"Census counts 1.49 lakh STs, about 10.2% of Goa."},{"date":"Aug 2025","text":"Parliament passes the Goa ST readjustment law."},{"date":"Aug 2026","text":"The Act comes into force."},{"date":"10 Sept 2026","text":"Census Commissioner puts ST share at about 9.9%."},{"date":"29 Oct 2026","text":"High Court at Goa restrains notification of the estimate."},{"date":"4 Nov 2026","text":"Goa government's deadline to file its appeal in the Supreme Court."}]}
+{"title":"Goa's long road to tribal seats","items":[{"date":"2001","text":"Census records 566 tribal people in Goa; the seat map is later drawn on this count."},{"date":"Jan 2003","text":"Gawda, Kunbi and Velip communities added to Goa's ST list."},{"date":"2011","text":"Census counts 1.49 lakh STs, about 10.2% of Goa."},{"date":"Aug 2025","text":"Parliament passes the Goa ST readjustment law."},{"date":"Aug 2026","text":"The Act comes into force."},{"date":"Sept 10, 2026","text":"Census Commissioner puts ST share at about 9.9%."},{"date":"Oct 29, 2026","text":"High Court at Goa restrains notification of the estimate."},{"date":"Nov 4, 2026","text":"Goa government's deadline to file its appeal in the Supreme Court."}]}
 ```
 
 ## What is Goa doing now?

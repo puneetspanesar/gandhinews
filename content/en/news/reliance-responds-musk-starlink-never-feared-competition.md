@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Reliance statement rests on Inc42 (16 Oct, 12:10 pm IST) only; the original Reliance release or post was not opened. Quoted line 'At Reliance, we have never feared competition' is as given by Inc42. The 530 million Jio customer figure is Reliance's own claim as reported."
+    - "Reliance statement rests on Inc42 (Oct 16, 12:10 pm IST) only; the original Reliance release or post was not opened. Quoted line 'At Reliance, we have never feared competition' is as given by Inc42. The 530 million Jio customer figure is Reliance's own claim as reported."
     - "'Prime Minister Ambani' post and Musk's argument about remote areas: Inc42 summary; not opened on X."
     - "Mittal's remarks on OneWeb's position in the queue are from Inc42's summary of his Bloomberg New Economy Forum comments; paraphrased, not quoted."
     - "OneWeb's September request for urgent clearance and its January 2025 compliance demonstration: Inc42, 'reportedly'. Starlink's reapplication to IN-SPACe for its second-generation constellation: Inc42, 'reportedly'; hedged in copy."
-    - "Ministry wording 'fair and non-discriminatory' and the 'same stage' line are carried over from the 12 Oct story's sources (PTI via ThePrint, The Tribune)."
+    - "Ministry wording 'fair and non-discriminatory' and the 'same stage' line are carried over from the Oct 12 story's sources (PTI via ThePrint, The Tribune)."
 ---
 
 Reliance Industries has answered Elon Musk. A week after the SpaceX chief accused Mukesh Ambani of standing in the way of Starlink's launch in India, the company said on Friday that it has nothing to fear from a rival.
@@ -60,7 +60,7 @@ Reliance Industries has answered Elon Musk. A week after the SpaceX chief accuse
 
 ## A week of posts
 
-The row began on 7 October, when Musk wrote that Starlink was "being blocked by certain oligarchs in order to maintain their monopolistic chokehold". He then named Ambani, asking whether he was "the real boss of India", and in a later post called him "Prime Minister Ambani". Musk has argued that satellite internet could reach remote areas where poor connectivity holds back schooling and keeps small businesses from wider markets. He has offered no evidence that anyone is blocking Starlink.
+The row began on October 7, when Musk wrote that Starlink was "being blocked by certain oligarchs in order to maintain their monopolistic chokehold". He then named Ambani, asking whether he was "the real boss of India", and in a later post called him "Prime Minister Ambani". Musk has argued that satellite internet could reach remote areas where poor connectivity holds back schooling and keeps small businesses from wider markets. He has offered no evidence that anyone is blocking Starlink.
 
 Until Friday, Reliance had stayed quiet. Its statement does not name Musk.
 

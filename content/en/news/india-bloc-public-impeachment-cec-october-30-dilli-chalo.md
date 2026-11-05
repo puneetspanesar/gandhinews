@@ -5,13 +5,13 @@ type: news
 section: politics
 format_label: "Politics / Opposition"
 topics: [election-commission, electoral-rolls-sir]
-title: "INDIA bloc plans a 'public impeachment' of CEC Gyanesh Kumar on 30 October"
-standfirst: "K C Venugopal says the symbolic proceeding will come two days before the 1 November Dilli Chalo march to Ramlila Maidan, as Kharge asks allied leaders to be in Delhi in full force."
+title: "INDIA bloc plans a 'public impeachment' of CEC Gyanesh Kumar on October 30"
+standfirst: "K C Venugopal says the symbolic proceeding will come two days before the November 1 Dilli Chalo march to Ramlila Maidan, as Kharge asks allied leaders to be in Delhi in full force."
 published: 2026-10-24T22:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The INDIA bloc will hold a symbolic **'public impeachment' of the Chief Election Commissioner** on 30 October."
-  - "Organisers expect **at least a million people** at the Dilli Chalo march ending at Ramlila Maidan on 1 November."
+  - "The INDIA bloc will hold a symbolic **'public impeachment' of the Chief Election Commissioner** on October 30."
+  - "Organisers expect **at least a million people** at the Dilli Chalo march ending at Ramlila Maidan on November 1."
   - "Himachal Congress and Left leaders say they will bring **20,000 people** from the state."
 hero:
   need: "Congress general secretary K C Venugopal and Chief Election Commissioner Gyanesh Kumar, as a two-panel split"
@@ -19,10 +19,10 @@ hero:
   subjects: ["K. C. Venugopal", "Gyanesh Kumar"]
   alt: "Congress general secretary K C Venugopal and Chief Election Commissioner Gyanesh Kumar"
   overlay:
-    value: "A people's verdict on the CEC, 30 Oct"
+    value: "A people's verdict on the CEC, Oct 30"
 related: [ravi-shankar-prasad-rahul-november-1-rally-sikh-traders, congress-ramlila-maidan-rally-november-1-police-noc, priyanka-chaturvedi-ec-silence-commissioners-dissent-cec-removal, how-chief-election-commissioner-is-appointed-removed, jairam-ramesh-ec-software-ecinet-up-mlc-voter-list]
 seo:
-  description: "The INDIA bloc will stage a symbolic public impeachment of CEC Gyanesh Kumar on 30 October before its 1 November Dilli Chalo march to Ramlila Maidan."
+  description: "The INDIA bloc will stage a symbolic public impeachment of CEC Gyanesh Kumar on October 30 before its November 1 Dilli Chalo march to Ramlila Maidan."
 sources:
   - title: "Anti-SIR stir: INDIA bloc gears up for Nov 1 'Dilli Chalo' march, BJP says hurting Sikh sentiments"
     publisher: "ANI"
@@ -42,18 +42,18 @@ sources:
 verification:
   status: approved
   notes:
-    - "Venugopal's X post as quoted by ANI (22:05 IST). ANI's separate report 'INDIA bloc to hold public impeachment of CEC Gyanesh Kumar on October 30' could not be fetched (permission not granted); venue and format details of 30 Oct event not available, so not given."
+    - "Venugopal's X post as quoted by ANI (22:05 IST). ANI's separate report 'INDIA bloc to hold public impeachment of CEC Gyanesh Kumar on October 30' could not be fetched (permission not granted); venue and format details of Oct 30 event not available, so not given."
     - "Baghel's 13 crore figure is his claim; not checked against ECI data; attributed only."
     - "Shimla press conference: Rajani Patil quotes verbatim; Vinay Kumar and Sanjay Chauhan paraphrased only in source."
-    - "CTI letter details (Brijesh Goyal, after 10 November, Rs 10,000 crore) from Outlook/PTI 3:18 pm; background only."
+    - "CTI letter details (Brijesh Goyal, after November 10, Rs 10,000 crore) from Outlook/PTI 3:18 pm; background only."
     - "Quotes reached via fetch tool capped at 125 chars; only complete fragments used."
 ---
 
-The opposition INDIA bloc will hold a symbolic "public impeachment" of Chief Election Commissioner Gyanesh Kumar on 30 October, Congress general secretary K C Venugopal said on Saturday night, two days before the alliance's march on Delhi over the Special Intensive Revision (SIR) of electoral rolls.
+The opposition INDIA bloc will hold a symbolic "public impeachment" of Chief Election Commissioner Gyanesh Kumar on October 30, Congress general secretary K C Venugopal said on Saturday night, two days before the alliance's march on Delhi over the Special Intensive Revision (SIR) of electoral rolls.
 
 Venugopal said the event would be the place "where the public's verdict to remove the Vote Chor CEC Gyanesh Kumar will be delivered loud and clear." He did not say where it would be held. The alliance accuses the Election Commission of wrongly striking voters off the rolls during the SIR and wants the CEC to resign.
 
-The proceeding will be followed on 1 November by a "Dilli Chalo" march that is to end in a rally at Ramlila Maidan. Venugopal said "at least a million concerned citizens will participate." Congress president Mallikarjun Kharge, he added, had asked allied parties to keep their leaders and members in Delhi over this period and to "be present in full force."
+The proceeding will be followed on November 1 by a "Dilli Chalo" march that is to end in a rally at Ramlila Maidan. Venugopal said "at least a million concerned citizens will participate." Congress president Mallikarjun Kharge, he added, had asked allied parties to keep their leaders and members in Delhi over this period and to "be present in full force."
 
 "We continued our meetings to take stock of preparations for the INDIA Bloc Mega Rally against Vote Chori on November 1st," Venugopal wrote on X.
 
@@ -67,10 +67,10 @@ CPI MP P Sandosh Kumar said his party would bring "at least 15,000 to 20,000 peo
 
 ## The row over the date
 
-The BJP has spent the week attacking the choice of 1 November, the anniversary of the 1984 anti-Sikh violence. "Why November 1, Mr Rahul Gandhi?" BJP MP Ravi Shankar Prasad asked, accusing the Leader of the Opposition of trying "to rub salt into the wounded sentiments of the Sikh community". Haryana Chief Minister Nayab Singh Saini also brought up the riots.
+The BJP has spent the week attacking the choice of November 1, the anniversary of the 1984 anti-Sikh violence. "Why November 1, Mr Rahul Gandhi?" BJP MP Ravi Shankar Prasad asked, accusing the Leader of the Opposition of trying "to rub salt into the wounded sentiments of the Sikh community". Haryana Chief Minister Nayab Singh Saini also brought up the riots.
 
 Congress MP Jebi Mather said the date was "a joint decision" of the alliance and that "there's nothing particular about the date". Sandosh Kumar called the BJP's remarks "senseless comments".
 
-Delhi's Chamber of Trade and Industry has separately asked Rahul Gandhi to move the rally to after 10 November, warning of losses to markets around Ramlila Maidan in the week of Dhanteras and Diwali. Congress leader Rashid Alvi dismissed the letter. "This is how the BJP operates. It gets such letters written by its own people," he said. "Why did the police grant permission for the programme on November 1?"
+Delhi's Chamber of Trade and Industry has separately asked Rahul Gandhi to move the rally to after November 10, warning of losses to markets around Ramlila Maidan in the week of Dhanteras and Diwali. Congress leader Rashid Alvi dismissed the letter. "This is how the BJP operates. It gets such letters written by its own people," he said. "Why did the police grant permission for the programme on November 1?"
 
 Congress leader Bhupesh Baghel claimed that "Names of 13 crore people have been deleted" from the voter list in the SIR. "The country's population is continuously increasing, while the number of voters is decreasing," he said.

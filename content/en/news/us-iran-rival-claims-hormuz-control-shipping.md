@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "CENTCOM quote and 19 million barrels, Hatami quotes: Gulf News live blog (entries 02:38 and 03:02, timezone not stated, likely UAE time, 16 Oct)."
+    - "CENTCOM quote and 19 million barrels, Hatami quotes: Gulf News live blog (entries 02:38 and 03:02, timezone not stated, likely UAE time, Oct 16)."
     - "CENTCOM rejection of three IRGC claims and 'over forty' vessels in 24 hours: Atalayar; Gulf News confirms the rejection of the same three claims."
-    - "JMIC data (121 transits 11-14 Oct, 22% of pre-war 138 a day, 'no evidence' of mines, threat 'severe', 149 incidents since 1 March), IMO 24 sailors dead, ~430 vessels anchored: Atalayar only."
-    - "12 vessels attacked 5-11 Oct: Democracy Now!, citing maritime officials. CBS has at least 10 attacked since Sunday 11 Oct. Used Democracy Now! figure with its dates."
+    - "JMIC data (121 transits Oct 11-14, 22% of pre-war 138 a day, 'no evidence' of mines, threat 'severe', 149 incidents since March 1), IMO 24 sailors dead, ~430 vessels anchored: Atalayar only."
+    - "12 vessels attacked Oct 5-11: Democracy Now!, citing maritime officials. CBS has at least 10 attacked since Sunday, Oct 11. Used Democracy Now! figure with its dates."
     - "Iranian officials' 'new tactics' remark is from a Reuters report as relayed by Atalayar; attributed to 'two senior Iranian officials'."
 ---
 
@@ -60,6 +60,6 @@ US Central Command rejected assertions by Iran's Revolutionary Guards that Tehra
 
 Iran's army chief, Major General Amir Hatami, said the opposite. The strait "will remain closed until the enemy respects the rights of the Iranian people," he said, claiming "full surveillance" of the waters by the army and the Guards.
 
-Independent monitors paint a picture somewhere in between. The Joint Maritime Information Center recorded 121 US-escorted transits between 11 and 14 October, about 30 a day or roughly 22% of the pre-war average of 138. It found "no evidence" of mines but kept its threat level at "severe". About 430 vessels remain at anchor, and the International Maritime Organization counts 24 seafarers killed since the war began.
+Independent monitors paint a picture somewhere in between. The Joint Maritime Information Center recorded 121 US-escorted transits between October 11 and 14, about 30 a day or roughly 22% of the pre-war average of 138. It found "no evidence" of mines but kept its threat level at "severe". About 430 vessels remain at anchor, and the International Maritime Organization counts 24 seafarers killed since the war began.
 
-Maritime officials said 12 vessels were attacked in and around the strait between 5 and 11 October, the fastest pace since the US imposed its naval blockade of Iranian ports. Two senior Iranian officials have said Tehran is using "new tactics" against shipping.
+Maritime officials said 12 vessels were attacked in and around the strait between October 5 and 11, the fastest pace since the US imposed its naval blockade of Iranian ports. Two senior Iranian officials have said Tehran is using "new tactics" against shipping.

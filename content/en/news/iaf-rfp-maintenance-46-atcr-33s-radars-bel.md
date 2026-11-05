@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source, idrw.org, posted 23 Oct 2026, 11:34 UTC (5:04 pm IST). RFP document itself not seen; RFP number, bid deadline and contract value not given."
+    - "Single source, idrw.org, posted Oct 23, 2026, 11:34 UTC (5:04 pm IST). RFP document itself not seen; RFP number, bid deadline and contract value not given."
     - "Source says BEL is 'designated to receive the service tender'; written as named for the tender."
     - "Whether the IFF portion is hardware, software or maintenance is unclear in the source; copy says only that it covers the systems."
     - "Bases not named."

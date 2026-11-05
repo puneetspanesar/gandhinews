@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Foreign portfolio investors sold a record **₹3.08 lakh crore** of Indian equities in the first nine months of 2026."
   - "That compares with **₹1.66 lakh crore** withdrawn in the whole of 2025."
-  - "They have sold another **₹47,417 crore** in October up to 12 October."
+  - "They have sold another **₹47,417 crore** in October up to October 12."
 hero:
   need: "Uday Kotak speaking at a conference, or a portrait"
   suggested_source: "Uday Kotak"
@@ -37,12 +37,12 @@ verification:
   status: approved
   notes:
     - "FPI figures from Business Standard citing NSDL data; NSDL not read directly. ₹3.08 trillion written as ₹3.08 lakh crore; ₹3.64 trillion as ₹3.64 lakh crore; DII ₹6.83 trillion as ₹6.83 lakh crore."
-    - "Uday Kotak remarks at Bloomberg New Economy Forum panel on 13 Oct, per Business Standard. 'an important signal' is a partial quote."
+    - "Uday Kotak remarks at Bloomberg New Economy Forum panel on Oct 13, per Business Standard. 'an important signal' is a partial quote."
 ---
 
 Foreign investors have pulled more money out of Indian shares this year than in any year before, and the selling has not let up in October.
 
-Foreign portfolio investors (FPIs) sold a net ₹3.08 lakh crore of Indian equities in the first nine months of 2026, nearly double the ₹1.66 lakh crore they withdrew in the whole of 2025. Counting only the secondary market, net sales up to 12 October reached ₹3.64 lakh crore, partly offset by ₹56,485 crore of net buying in share sales and IPOs. FPIs sold ₹35,861 crore in September and another ₹47,417 crore in the first 12 days of October.
+Foreign portfolio investors (FPIs) sold a net ₹3.08 lakh crore of Indian equities in the first nine months of 2026, nearly double the ₹1.66 lakh crore they withdrew in the whole of 2025. Counting only the secondary market, net sales up to October 12 reached ₹3.64 lakh crore, partly offset by ₹56,485 crore of net buying in share sales and IPOs. FPIs sold ₹35,861 crore in September and another ₹47,417 crore in the first 12 days of October.
 
 Domestic institutions have absorbed much of the selling, investing a net ₹6.83 lakh crore this year. Even so, the Sensex was down about 15.6% for the year before Tuesday's rally.
 

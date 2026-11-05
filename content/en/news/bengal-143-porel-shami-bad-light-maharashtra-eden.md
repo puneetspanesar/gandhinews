@@ -22,7 +22,7 @@ hero:
     value: "Bengal 143, Maharashtra 18/0"
 related: [bengal-collapse-maharashtra-ranji-eden-dadhe, mohammed-shami-sits-out-bengal-ranji-services]
 seo:
-  description: "Bengal were bowled out for 143 by Maharashtra on day one of their Ranji Trophy round four match at Eden Gardens on 2 November 2026 after Abishek Porel's 49 led a recovery from 72 for 7; bad light stopped play with Maharashtra 18 for none."
+  description: "Bengal were bowled out for 143 by Maharashtra on day one of their Ranji Trophy round four match at Eden Gardens on November 2, 2026, after Abishek Porel's 49 led a recovery from 72 for 7; bad light stopped play with Maharashtra 18 for none."
 sources:
   - title: "Bengal vs Maharashtra, Elite Group C, Ranji Trophy 2026-27: Live scorecard"
     publisher: "ESPN"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 13:50 IST (ESPN match page 'ground time 13:50'), Maharashtra 18/0 after 6 overs, trail by 125; ESPN Bengal team page status 'Match delayed - Bad Light'. Bengal innings ended between lunch (11:30-12:10 scheduled) and about 13:20 IST; exact close time not shown, so copy dates only the bad-light stoppage."
+    - "event: Nov 2 about 13:50 IST (ESPN match page 'ground time 13:50'), Maharashtra 18/0 after 6 overs, trail by 125; ESPN Bengal team page status 'Match delayed - Bad Light'. Bengal innings ended between lunch (11:30-12:10 scheduled) and about 13:20 IST; exact close time not shown, so copy dates only the bad-light stoppage."
     - "Bengal total 143 from ESPN header and 'trail by 125' (143-18); 'fold for 143' from ESPNcricinfo live blog headline seen in search results (blog page itself would not load), so all out. ESPN innings table was a stale snapshot at 133/7 in 34 overs: Easwaran 10 (12b), Ankur Paul 1 (12), Gharami 19 (36), Suraj Jaiswal 0 (2), Sudip Chatterjee 7 (21), Porel 49* (58), Shahbaz 0 (3), Sumanta Gupta 7 (20), Pramanik 30* (41), extras 10. Hence last three wickets fell for 10 runs and Porel/Pramanik stand at least 61 (72 to 133). Final individual scores, fall of wickets after 133 and final bowling figures not available; copy gives Porel 49 and Pramanik 30 only as their scores at 133/7."
     - "Bowling at 133/7: Dadhe 14-5-45-3, Hangargekar 8-0-42-2, Sanghvi 8-2-29-2, Veer 4-0-9-0. Maharashtra: Shaw 12* (20b, 2x4), Siddhesh Veer 6* (16b, 1x4); Shami 3-1-4-0, Kaif 1-0-5-0, Suraj Jaiswal bowled the 4th over in part. Scheduled hours from ESPN: 09.00 start, lunch 11.30-12.10, tea 14.10-14.40, close 16.00. Umpires Mohit Krishnadas and Akshay Totre, referee Pankaj Dharmani. No quotes available. The 'Mumbai lose two' part of the cricinfo headline could not be detailed; not used. WebSearch budget used 6/6; Khel Now, Sports Tak live, CricTracker pages could not be fetched."
 cover:

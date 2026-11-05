@@ -21,7 +21,7 @@ hero:
     value: "Five Indigenous peoples, 20 years"
 related: []
 seo:
-  description: "Colombia's JEP peace tribunal on 13 October charged 10 former FARC members, including ex-senator Julian Gallo, over crimes against five Indigenous groups."
+  description: "Colombia's JEP peace tribunal on October 13 charged 10 former FARC members, including ex-senator Julian Gallo, over crimes against five Indigenous groups."
 sources:
   - title: "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes"
     publisher: "Al Jazeera"

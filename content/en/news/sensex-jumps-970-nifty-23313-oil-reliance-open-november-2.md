@@ -22,7 +22,7 @@ hero:
     value: "Sensex up 970 points by 10 am"
 related: [gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, asia-open-nikkei-seen-down-oil-dalal-street-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, kospi-turns-higher-samsung-sk-hynix-recover-chip-rout, sensex-nifty-week-october-30-pharma-fii-return, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio]
 seo:
-  description: "Stock market opening 2 November 2026: Sensex up 970 points at 75,429.53 and Nifty at 23,313.20 by 10 am as Brent eased to $110.4 and Reliance Industries rose over 6% after Q2 results."
+  description: "Stock market opening November 2, 2026: Sensex up 970 points at 75,429.53 and Nifty at 23,313.20 by 10 am as Brent eased to $110.4 and Reliance Industries rose over 6% after Q2 results."
 cover:
   template: business
   label: "Market open"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 09:15 IST, market open (pre-open close 09:10-09:11, Sensex +718 at 75,178, Nifty +169 at 23,222); 10:00 IST Sensex +970 (1.30%) at 75,429.53, Nifty +260.10 (1.13%) at 23,313.20, both from Business Standard live blog timestamps."
+    - "event: Nov 2 09:15 IST, market open (pre-open close 09:10-09:11, Sensex +718 at 75,178, Nifty +169 at 23,222); 10:00 IST Sensex +970 (1.30%) at 75,429.53, Nifty +260.10 (1.13%) at 23,313.20, both from Business Standard live blog timestamps."
     - "9:24 am index levels, gainers/losers, sector moves, VIX 15.52, Brent $110.37 and WTI $101.12 from HDFC Sky open report (published 09:54 IST, data as of 09:24). HDFC Sky lists Nifty Private Bank +0.07% though it says only two sectors were red; copy names only Pharma and Media as slightly lower."
     - "Market cap: BS live 09:52 IST, ₹478.90 trillion from ₹475.35 trillion; written as lakh crore (1 trillion = 1 lakh crore)."
     - "Rupee: BS live 09:01 IST, 94.89 vs 94.96 Friday close (Bloomberg data)."

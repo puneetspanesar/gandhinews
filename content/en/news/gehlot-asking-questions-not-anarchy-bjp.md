@@ -6,13 +6,13 @@ section: politics
 format_label: "Politics / Congress"
 topics: [electoral-rolls-sir]
 title: "'Asking questions is not anarchy': Gehlot rejects BJP's Bangladesh comparison"
-standfirst: "The former Rajasthan chief minister said the 12 October march led by Rahul Gandhi was peaceful and recalled that the Congress accepted the 2014 verdict after the Anna Hazare and Ramdev agitations."
+standfirst: "The former Rajasthan chief minister said the October 12 march led by Rahul Gandhi was peaceful and recalled that the Congress accepted the 2014 verdict after the Anna Hazare and Ramdev agitations."
 published: 2026-10-17T19:35:00+05:30
 location: Jaipur
 keyPoints:
   - "Ashok Gehlot said questioning the government is **the people's right, not anarchy**."
   - "He rejected BJP claims that the opposition wants **Bangladesh-style unrest**."
-  - "Gehlot called the **12 October march** disciplined and peaceful."
+  - "Gehlot called the **October 12 march** disciplined and peaceful."
 hero:
   need: "Former Rajasthan chief minister Ashok Gehlot speaking"
   suggested_source: "Ashok Gehlot"
@@ -22,7 +22,7 @@ hero:
     value: "'Asking questions is not anarchy'"
 related: [uddhav-thackeray-backs-prashant-bhushan-regime-change, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, bjp-hits-back-at-india-bloc-march-adityanath-thakur]
 seo:
-  description: "Ashok Gehlot said on 17 October that asking questions in a democracy is not anarchy, rejecting BJP claims that the opposition seeks Bangladesh-style unrest."
+  description: "Ashok Gehlot said on October 17 that asking questions in a democracy is not anarchy, rejecting BJP claims that the opposition seeks Bangladesh-style unrest."
 sources:
   - title: "लोकतंत्र में सवाल पूछना अराजकता नहीं, जनता का अधिकार: अशोक गहलोत"
     publisher: "ThePrint Hindi (Bhasha)"
@@ -42,7 +42,7 @@ Former Rajasthan chief minister Ashok Gehlot on Saturday hit back at BJP leaders
 
 Gehlot said senior BJP leaders were now claiming that the opposition wanted to change the government through Bangladesh-style chaos and agitation. "The BJP should tell us where it saw violence in this movement being led by Rahul Gandhi," he said.
 
-He described the 12 October march in Delhi as disciplined, peaceful and spirited, saying it drew leaders and workers of the INDIA bloc parties, social activists, ordinary citizens and members of "Gen-Z".
+He described the October 12 march in Delhi as disciplined, peaceful and spirited, saying it drew leaders and workers of the INDIA bloc parties, social activists, ordinary citizens and members of "Gen-Z".
 
 Seeking a change of government through elections had always been part of Indian politics, he said, and demanding it was neither a crime nor a conspiracy.
 

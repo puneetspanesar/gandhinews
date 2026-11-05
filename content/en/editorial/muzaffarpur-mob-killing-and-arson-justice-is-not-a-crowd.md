@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Incident facts (Navneet Kumar, 20; about 15 attackers near Chainpur Chowk on Saturday evening 17 Oct; family's allegation of sticks and a belt; nine houses of Dalit families burnt in Mohammadpur Khaje; SP Rural Rajesh Singh Prabhakar; post-mortem; investigation of both) from the desk's 18 Oct story, single PTI source."
+    - "Editorial view of the desk. Incident facts (Navneet Kumar, 20; about 15 attackers near Chainpur Chowk on Saturday evening Oct 17; family's allegation of sticks and a belt; nine houses of Dalit families burnt in Mohammadpur Khaje; SP Rural Rajesh Singh Prabhakar; post-mortem; investigation of both) from the desk's Oct 18 story, single PTI source."
     - "Child's condition, arrests, identity of attackers and arsonists, and why those homes were targeted were not reported; the copy says so and makes no claim about motive."
     - "Tehseen Poonawalla v Union of India (Supreme Court, July 2018: district nodal officers, fast-track trials, victim compensation, action against negligent officers) and BNS Section 103(2) (murder by five or more persons on grounds such as caste or community) are desk background knowledge, not re-read this run. The copy does not say 103(2) applies to this case."
     - "Recommendations are the desk's own."

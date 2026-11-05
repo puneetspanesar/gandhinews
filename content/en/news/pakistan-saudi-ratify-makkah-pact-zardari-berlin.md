@@ -23,7 +23,7 @@ hero:
     value: "Two down, Turkey to go"
 related: [pakistan-munir-saudi-envoy-makkah-pact-collective-response, turkiye-parliament-mecca-defence-pact-pakistan-saudi, pakistan-turkiye-qatar-indonesia-badr-defence-accord-doha, shehbaz-indus-treaty-violation-act-of-war-maldives]
 seo:
-  description: "Pakistan's Foreign Office said on 23 October that Pakistan and Saudi Arabia have ratified the Makkah defence pact with Turkey, which says an attack on one is an attack on all."
+  description: "Pakistan's Foreign Office said on October 23 that Pakistan and Saudi Arabia have ratified the Makkah defence pact with Turkey, which says an attack on one is an attack on all."
 sources:
   - title: "Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO"
     publisher: "Dawn"
@@ -43,10 +43,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "FO briefing quotes verbatim from Dawn (published 9:39 pm PKT, 23 Oct). Spokesperson named as Sajjad Haider Khan. The FO page itself was not checked."
-    - "Zardari-Steinmeier meeting: Dawn (updated 12:17 am, 24 Oct). Quotes 'rising diplomatic profile', 'no conflict with the Afghan people', 'not directed against any specific country', 'sincere mediation role', 'at an appropriate time' are as carried by Dawn; some are partial phrases."
+    - "FO briefing quotes verbatim from Dawn (published 9:39 pm PKT, Oct 23). Spokesperson named as Sajjad Haider Khan. The FO page itself was not checked."
+    - "Zardari-Steinmeier meeting: Dawn (updated 12:17 am, Oct 24). Quotes 'rising diplomatic profile', 'no conflict with the Afghan people', 'not directed against any specific country', 'sincere mediation role', 'at an appropriate time' are as carried by Dawn; some are partial phrases."
     - "Pact signed in August (Dawn and Al Jazeera). The India paragraph is an inference from the pact's own mutual-defence clause; no Indian government reaction was found and none is claimed."
-    - "Shehbaz Indus remark sourced from the existing Gandhi News story of 21 October (Arab News Pakistan)."
+    - "Shehbaz Indus remark sourced from the existing Gandhi News story of October 21 (Arab News Pakistan)."
 ---
 
 Pakistan and Saudi Arabia have both ratified the Makkah Joint Defence Agreement, Pakistan's Foreign Office said on Friday, leaving Turkey as the only one of the three signatories still to complete the process.

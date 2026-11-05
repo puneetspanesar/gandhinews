@@ -22,7 +22,7 @@ hero:
     value: "Oil off the boil, Monday on watch"
 related: [oil-110-nasdaq-slide-cautious-start-indian-markets-monday, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, fpi-selling-reaches-52100-crore-october-friday-buying, rupee-sixth-gain-forex-reserves-fall-726-billion, irgc-supertanker-mine-fire-hormuz-closed, brent-highest-close-since-may-yanbu-russian-refinery]
 seo:
-  description: "Brent crude eased to about $108 a barrel as trading resumed after the weekend and Iran said its Hormuz proposal still stands. What to watch as Sensex and Nifty open on Monday 19 October."
+  description: "Brent crude eased to about $108 a barrel as trading resumed after the weekend and Iran said its Hormuz proposal still stands. What to watch as Sensex and Nifty open on Monday, October 19."
 sources:
   - title: "Brent crude oil: price, chart and news"
     publisher: "Trading Economics"
@@ -48,10 +48,10 @@ verification:
   status: approved
   notes:
     - "Early Monday Brent 108.44 (-1.29%) and WTI ('Crude Oil') 100.75 (-0.65%) from Trading Economics only; page carried a conflicting 108.23 figure, so copy says 'near $108.4' and 'about $100.8'. No time stamp beyond the date."
-    - "GIFT Nifty 23,085 (-9.5) last trade at 02:44 IST Saturday 17 Oct, Quantsapp cached page; next session 06:30 IST. Monday's pre-open GIFT level was not available at writing."
+    - "GIFT Nifty 23,085 (-9.5) last trade at 02:44 IST Saturday, Oct 17, Quantsapp cached page; next session 06:30 IST. Monday's pre-open GIFT level was not available at writing."
     - "Araghchi Sunday remarks, Vance CBS remark ('would be three times higher without that protection'), CENTCOM 138 vessels: FinanceFeeds only, paraphrased except the short Vance phrase."
     - "Goldman $120/$80 scenarios, IEA 20 million barrels: Kotak Neo."
-    - "Indian figures (Nifty 23,146.15, rupee 94.89, FII -15,440 cr, DII +14,792 cr, Friday FPI +1,165.92 cr, October -52,100 cr, reserves $726.027 bn, Dussehra holiday) from the site's own 16-18 Oct stories."
+    - "Indian figures (Nifty 23,146.15, rupee 94.89, FII -15,440 cr, DII +14,792 cr, Friday FPI +1,165.92 cr, October -52,100 cr, reserves $726.027 bn, Dussehra holiday) from the site's own Oct 16-18 stories."
     - "No Asian index opening figures found in a source read; left out."
 ---
 
@@ -71,7 +71,7 @@ Analysts at Goldman Sachs have sketched both ends of the risk: crude climbing to
 
 The Nifty closed on Friday at 23,146.15 after gaining 2.8% last week, its best week in months, led by IT companies. GIFT Nifty, the dollar-denominated contract traded in Gandhinagar, last changed hands at 23,085 in the early hours of Saturday, about 60 points below that close, which points to a slightly softer start. It resumes trading at 6:30 am.
 
-Foreign money remains the weak spot. Foreign institutional investors sold a net ₹15,440 crore of Indian shares in the week to 16 October, almost all of it absorbed by ₹14,792 crore of buying from domestic funds. Their October outflow stands at about ₹52,100 crore, although they turned small net buyers on Friday as US bond yields eased from above 5.3% to about 5.1%.
+Foreign money remains the weak spot. Foreign institutional investors sold a net ₹15,440 crore of Indian shares in the week to October 16, almost all of it absorbed by ₹14,792 crore of buying from domestic funds. Their October outflow stands at about ₹52,100 crore, although they turned small net buyers on Friday as US bond yields eased from above 5.3% to about 5.1%.
 
 The rupee strengthened for six straight sessions last week to close at 94.89 to the dollar, helped by the RBI and by a dip in oil earlier in the week. A Brent price that stays above $105 would test that recovery, since India imports most of its crude. Foreign exchange reserves have fallen to $726.03 billion as the central bank has defended the currency.
 
@@ -79,4 +79,4 @@ The rupee strengthened for six straight sessions last week to close at 94.89 to 
 
 Exchanges are closed on Tuesday for Dussehra, so the week has four sessions. Monday brings results from Bajaj Finance, UltraTech Cement, Hindustan Zinc and Union Bank of India, and traders will react first to Saturday's numbers from ICICI Bank, Axis Bank and HDFC Bank. The ₹30,200 crore Jio Platforms share sale opens on Wednesday.
 
-Analysts see support for the Nifty around 22,800. Overseas, US results from Netflix, Tesla and Meta and the Federal Reserve's meeting on 27-28 October will shape the mood in technology stocks after the Nasdaq's worst week since June.
+Analysts see support for the Nifty around 22,800. Overseas, US results from Netflix, Tesla and Meta and the Federal Reserve's meeting on October 27-28 will shape the mood in technology stocks after the Nasdaq's worst week since June.

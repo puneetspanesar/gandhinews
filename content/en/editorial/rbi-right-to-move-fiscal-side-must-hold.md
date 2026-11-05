@@ -52,13 +52,13 @@ verification:
   status: approved
   fact_check: verified
   notes:
-    - "Fact-checked 11 Oct 2026: all figures confirmed (RBI resolution incl. 'elevated inflation expectations' and second-round effects; MoSPI CPI; MoSPI GDP; UNI 41.9%/38.1%; Deccan Chronicle ICRA figures; PTI Brent $102.95; Budget 8.0% GTR growth per PIB). 'Ten months after the last cut' checks (5 Dec 2025 to 7 Oct 2026). No changes needed."
+    - "Fact-checked Oct 11, 2026: all figures confirmed (RBI resolution incl. 'elevated inflation expectations' and second-round effects; MoSPI CPI; MoSPI GDP; UNI 41.9%/38.1%; Deccan Chronicle ICRA figures; PTI Brent $102.95; Budget 8.0% GTR growth per PIB). 'Ten months after the last cut' checks (Dec 5, 2025, to Oct 7, 2026). No changes needed."
     - "Editor note: the 6.5% tax growth (April-August, year on year) and the Budget's 8% (full year over RE 2025-26) are not strictly like-for-like; ICRA says 10.9% growth is needed for September-March to meet the BE, which may be the cleaner comparison."
     - "Desk view. All figures are from the linked sources; the recommendations are the desk's own."
     - "Fiscal tax and subsidy growth rates rest on Deccan Chronicle's report of ICRA analysis; the CGA release itself could not be read."
 ---
 
-The Reserve Bank of India raised its repo rate by 25 basis points to 5.50% on 7 October. It was the first increase since February 2023, and it came barely ten months after the last cut. Some will call it a reversal. We think it was the right call, made at the right size.
+The Reserve Bank of India raised its repo rate by 25 basis points to 5.50% on October 7. It was the first increase since February 2023, and it came barely ten months after the last cut. Some will call it a reversal. We think it was the right call, made at the right size.
 
 ## The case for moving now
 
@@ -87,5 +87,5 @@ We recommend three things. First, the Finance Ministry should state publicly, be
 The RBI has done its part. The Centre should do its share.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"4.82%","label":"CPI inflation in August 2026, seventh straight monthly rise","source":"MoSPI, 14 Sep 2026"},{"value":"6.0%","label":"RBI's inflation projection for October-December 2026","source":"RBI, 7 Oct 2026"},{"value":"41.9%","label":"share of the 2026-27 deficit target used by August (38.1% a year earlier)","source":"CGA data via UNI, 30 Sep 2026"}]}
+{"title":"The reporting behind this view","items":[{"value":"4.82%","label":"CPI inflation in August 2026, seventh straight monthly rise","source":"MoSPI, Sep 14, 2026"},{"value":"6.0%","label":"RBI's inflation projection for October-December 2026","source":"RBI, Oct 7, 2026"},{"value":"41.9%","label":"share of the 2026-27 deficit target used by August (38.1% a year earlier)","source":"CGA data via UNI, Sep 30, 2026"}]}
 ```

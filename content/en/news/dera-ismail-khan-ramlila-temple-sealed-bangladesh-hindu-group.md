@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI via Tribune, 6:59 am IST), which cites Dawn for the demolition and sealing details. Exact date of sealing 'Sunday' (18 Oct inferred, written as Sunday). No response from Pakistani authorities reported."
+    - "Single source (ANI via Tribune, 6:59 am IST), which cites Dawn for the demolition and sealing details. Exact date of sealing 'Sunday' (Oct 18 inferred, written as Sunday). No response from Pakistani authorities reported."
     - "Order of events (assistant commissioner sealing after protests vs 'authorities sealed') is somewhat unclear in the source; copy keeps to what is stated."
 ---
 

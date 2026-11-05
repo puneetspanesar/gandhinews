@@ -6,11 +6,11 @@ section: world
 format_label: "World / Middle East"
 topics: []
 title: "Saudi Arabia postpones 'Davos in the Desert' as Houthi attacks hit Riyadh"
-standfirst: "The tenth Future Investment Initiative, due from 26 to 29 October, moves to next year. Government offices and firms in the capital have told staff to work from home."
+standfirst: "The tenth Future Investment Initiative, due from October 26 to 29, moves to next year. Government offices and firms in the capital have told staff to work from home."
 published: 2026-10-20T06:50:00+05:30
 location: Riyadh
 keyPoints:
-  - "The Future Investment Initiative, due on **26 to 29 October**, has been pushed to next year."
+  - "The Future Investment Initiative, due on **October 26 to 29**, has been pushed to next year."
   - "Houthi strikes on Saudi Arabia have killed **at least 18 people** and hit Riyadh's main airport."
   - "A new date will be announced **\"very soon\"**, the FII Institute said."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Davos in the Desert, on hold"
 related: [riyadh-kingdom-centre-tenants-work-from-home-houthi, saudi-arabia-vows-serious-response-riyadh-airport-stays-shut, why-riyadh-airport-is-shut-houthi-saudi-strikes-explained, houthi-missiles-kill-53-recruits-shabwa-camp]
 seo:
-  description: "Saudi Arabia has postponed the 2026 Future Investment Initiative, due 26-29 October in Riyadh, to next year as Houthi missile and drone attacks hit the capital."
+  description: "Saudi Arabia has postponed the 2026 Future Investment Initiative, due October 26-29 in Riyadh, to next year as Houthi missile and drone attacks hit the capital."
 sources:
   - title: "Saudi Arabia cancels 2026 'Davos in the Desert' amid Houthi attacks"
     publisher: "Al Jazeera"
@@ -50,13 +50,13 @@ verification:
 
 Saudi Arabia has put off this year's Future Investment Initiative, the showcase conference known as "Davos in the Desert", as Houthi missiles and drones keep striking the kingdom's capital.
 
-The tenth edition was due to run in Riyadh from 26 to 29 October. A statement on the FII website on Tuesday said it would move to next year, with a new date to be announced "very soon".
+The tenth edition was due to run in Riyadh from October 26 to 29. A statement on the FII website on Tuesday said it would move to next year, with a new date to be announced "very soon".
 
 Maha bint Mishari Al Saud, chief executive of the FII Institute, said the decision "comes from a deep commitment to our partners, members, speakers and delegates". As the "landmark tenth edition", she said, the event had to deliver the full scale and quality its community expects.
 
 ## A capital under fire
 
-The postponement follows weeks of escalating war between the Saudi-led coalition, which backs Yemen's internationally recognised government, and the Iran-aligned Houthis. The Houthis have struck military, energy and civilian targets across Saudi Arabia, including King Khalid International Airport in Riyadh, which the Houthis said they struck on 8 October and has been attacked again since. The attacks have killed at least 18 people and injured hundreds.
+The postponement follows weeks of escalating war between the Saudi-led coalition, which backs Yemen's internationally recognised government, and the Iran-aligned Houthis. The Houthis have struck military, energy and civilian targets across Saudi Arabia, including King Khalid International Airport in Riyadh, which the Houthis said they struck on October 8 and has been attacked again since. The attacks have killed at least 18 people and injured hundreds.
 
 On Tuesday the coalition's spokesperson, Colonel Turki al-Maliki, said another Houthi ballistic missile aimed at Riyadh had been intercepted and destroyed.
 

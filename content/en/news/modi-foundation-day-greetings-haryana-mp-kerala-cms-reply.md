@@ -22,7 +22,7 @@ hero:
     value: "Formation day wishes from the PM"
 related: [haryana-60-murmu-kurukshetra-haryana-day, mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav, kerala-turns-70-festival-kerala-satheesan-nishagandhi, modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee]
 seo:
-  description: "PM Narendra Modi greets Haryana, Madhya Pradesh and Keralam on formation day, 1 November 2026. Nayab Singh Saini, Mohan Yadav, V D Satheesan and Yogi Adityanath also post messages."
+  description: "PM Narendra Modi greets Haryana, Madhya Pradesh and Keralam on formation day, November 1, 2026. Nayab Singh Saini, Mohan Yadav, V D Satheesan and Yogi Adityanath also post messages."
 sources:
   - title: "Adorned with glorious history, Haryana is pride of nation: PM Modi's Foundation Day greetings"
     publisher: "IANS via Punjab Kesari English"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov morning, X posts by PM Modi and CMs; reported by IANS at 08:35 IST (MP), 08:48 IST (Haryana) and 09:04 IST (Kerala). Exact post times not given in sources."
+    - "event: Nov 1 morning, X posts by PM Modi and CMs; reported by IANS at 08:35 IST (MP), 08:48 IST (Haryana) and 09:04 IST (Kerala). Exact post times not given in sources."
     - "All three source reports are IANS copy republished by Punjab Kesari English and Bhaskar Live; quotes are IANS English renderings of posts likely written in Hindi (Modi on MP and Haryana, Saini, Yadav, Yogi) or Malayalam (Satheesan). Quoted as IANS gives them."
     - "Modi's Kerala lines: IANS attributes all to him but does not say whether every line was in the same X post; written as 'he wrote' only for the opening greeting."
     - "Saini's '2.80 crore families' is his own figure as quoted."
@@ -55,7 +55,7 @@ The chief ministers answered within the hour, each folding the day into the lang
 
 ## Haryana at 60
 
-"Our state, adorned with a glorious history, remarkable valour, and a rich culture, is the pride of the nation," Modi wrote of Haryana, which was carved out of Punjab on 1 November 1966. He said its people had **proven their talent from farm to startup**. "The athletes here are enhancing the honour of the Tricolour," he wrote, "while the food providers are strengthening the country's food security."
+"Our state, adorned with a glorious history, remarkable valour, and a rich culture, is the pride of the nation," Modi wrote of Haryana, which was carved out of Punjab on November 1, 1966. He said its people had **proven their talent from farm to startup**. "The athletes here are enhancing the honour of the Tricolour," he wrote, "while the food providers are strengthening the country's food security."
 
 Chief Minister Nayab Singh Saini thanked him. "From the very beginning, you have had a deep attachment to Haryana, the land of Karmaveers," Saini wrote, crediting the Centre's cooperation for progress in education, sports, infrastructure, farmer welfare and startups. He pledged, "on behalf of the 2.80 crore families of the state", to **work for Viksit Bharat @ 2047**.
 

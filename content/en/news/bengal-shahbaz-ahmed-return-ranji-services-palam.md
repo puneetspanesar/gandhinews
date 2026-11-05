@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: RevSportz, 17 Oct, 3 pm IST. Sunday start matches our round-two fixtures story (18-21 Oct)."
+    - "Single source: RevSportz, Oct 17, 3 pm IST. Sunday start matches our round-two fixtures story (Oct 18-21)."
     - "Shahbaz age 31, 35 wickets last season, right shoulder surgery in Mumbai after a Bengal Pro T20 League injury: RevSportz. Kaif or Suraj Sindhu Jaiswal for one spot: RevSportz expectation, hedged."
     - "Bengal beat Delhi by nine wickets with hundreds from Abhishek Porel and Sudip Gharami; Services lost to Maharashtra by 127 runs: RevSportz."
     - "Shami again left out of India's Test squad for New Zealand: RevSportz."
@@ -55,4 +55,4 @@ Both teams trained at the ground on Saturday, but overnight rain left the practi
 
 Bengal start the round in good shape. Coach Laxmi Ratan Shukla's side beat Delhi by nine wickets, with centuries from Abhishek Porel and Sudip Gharami, though they missed out on the maximum seven points because the win was neither by an innings nor by ten wickets. Services lost their opener to Maharashtra by 127 runs.
 
-The second round of the Elite group stage runs from 18 to 21 October.
+The second round of the Elite group stage runs from October 18 to 21.

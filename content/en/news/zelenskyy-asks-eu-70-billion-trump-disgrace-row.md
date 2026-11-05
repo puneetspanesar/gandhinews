@@ -22,7 +22,7 @@ hero:
     value: "Ask for 2027: €70 billion more"
 related: [zelenskyy-brussels-rutte-macron-air-defence-eu-summit, ukraine-osce-refinery-strikes-stop-if-russia-halts-energy-attacks, musk-starlink-ukraine-throttling-us-military, trump-announces-russia-ukraine-energy-ceasefire]
 seo:
-  description: "Zelenskyy told EU leaders in Brussels on 16 October that Ukraine needs at least €70 billion more for 2027, as Trump said he was harder to deal with than Putin."
+  description: "Zelenskyy told EU leaders in Brussels on October 16 that Ukraine needs at least €70 billion more for 2027, as Trump said he was harder to deal with than Putin."
 sources:
   - title: "Live - EU summit: Zelenskyy asks leaders for €70 billion in extra support"
     publisher: "Euronews"

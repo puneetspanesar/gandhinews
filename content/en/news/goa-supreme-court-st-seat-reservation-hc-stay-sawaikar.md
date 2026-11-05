@@ -22,7 +22,7 @@ hero:
     value: "Goa heads to Supreme Court over ST seats"
 related: []
 seo:
-  description: "Goa will file a special leave petition in the Supreme Court by 4 November 2026 against a Bombay High Court stay on notifying Scheduled Tribe population figures needed to reserve assembly seats."
+  description: "Goa will file a special leave petition in the Supreme Court by November 4, 2026, against a Bombay High Court stay on notifying Scheduled Tribe population figures needed to reserve assembly seats."
 sources:
   - title: "Goa to move Supreme Court against HC order stalling ST seat reservation process"
     publisher: "ThePrint (PTI)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, Sawaikar's statement reported 1:49 pm IST (ThePrint/PTI, Panaji dateline); exact time he spoke not given."
+    - "event: Nov 3, Sawaikar's statement reported 1:49 pm IST (ThePrint/PTI, Panaji dateline); exact time he spoke not given."
     - "Single source (PTI via ThePrint). No direct quotes available; Sawaikar paraphrased."
     - "HC order date given only as 'last week'."
 ---

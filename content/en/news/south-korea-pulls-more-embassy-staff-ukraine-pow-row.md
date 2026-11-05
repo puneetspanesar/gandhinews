@@ -42,7 +42,7 @@ Foreign Ministry spokesperson Park Doo-soon said on Tuesday that Seoul had conve
 
 Park said the step was needed to "facilitate an amicable resolution of the issue" and restore trust. He also cited persistent threats of air strikes across Ukraine, which he said made it hard to ensure the safety of staff.
 
-The quarrel dates to 24 September, when President Volodymyr Zelenskyy told the UN General Assembly that Ukraine had handed two captured North Korean soldiers to South Korea. Seoul was angered, saying the transfer should have stayed confidential to protect the men's families in North Korea.
+The quarrel dates to September 24, when President Volodymyr Zelenskyy told the UN General Assembly that Ukraine had handed two captured North Korean soldiers to South Korea. Seoul was angered, saying the transfer should have stayed confidential to protect the men's families in North Korea.
 
 Earlier in October, South Korea recalled its ambassador from Kyiv, summoned Ukraine's envoy and warned of unspecified "further measures". Foreign Minister Cho Hyun said Ukraine's message had included "words of apology" but fell short of what Seoul expected.
 

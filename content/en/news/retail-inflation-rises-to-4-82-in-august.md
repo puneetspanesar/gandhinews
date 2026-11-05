@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / Inflation"
 topics: [inflation, rbi-interest-rates]
 title: "Retail inflation rises to 4.82% in August, the seventh straight monthly increase"
-standfirst: "Food prices pushed CPI inflation up from 4.45% in July, with rural inflation well above urban. September data on the new 2024-base series is due on 12 October."
+standfirst: "Food prices pushed CPI inflation up from 4.45% in July, with rural inflation well above urban. September data on the new 2024-base series is due on October 12."
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
@@ -42,13 +42,13 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026: every figure (headline, CFPI, rural/urban, Annexure IV monthly series, 12 division rates, sub-classes, index levels 108.74 and 107.95, 12 Oct release date) confirmed in MoSPI's August 2026 CPI release. Basket facts (358 items vs 299, food and beverages weight 36.75%, HCES 2023-24) confirmed in MoSPI's 12 Feb 2026 first release. RBI figures confirmed in the MPC resolution."
-    - "Note for editors: MoSPI's 12 Feb release gives two market counts (1,407 urban markets incl. online and 1,465 villages in the technical note; 1,395 urban + 12 online markets in the FAQ). The story uses the technical-note figures, which the August release repeats."
-    - "January 2026 was first released at 2.75% (provisional, 12 Feb 2026) and now stands at 2.74% in MoSPI's August release. The later figure is used."
+    - "Fact-checked Oct 11, 2026: every figure (headline, CFPI, rural/urban, Annexure IV monthly series, 12 division rates, sub-classes, index levels 108.74 and 107.95, Oct 12 release date) confirmed in MoSPI's August 2026 CPI release. Basket facts (358 items vs 299, food and beverages weight 36.75%, HCES 2023-24) confirmed in MoSPI's Feb 12, 2026, first release. RBI figures confirmed in the MPC resolution."
+    - "Note for editors: MoSPI's Feb 12 release gives two market counts (1,407 urban markets incl. online and 1,465 villages in the technical note; 1,395 urban + 12 online markets in the FAQ). The story uses the technical-note figures, which the August release repeats."
+    - "January 2026 was first released at 2.75% (provisional, Feb 12, 2026) and now stands at 2.74% in MoSPI's August release. The later figure is used."
     - "MoSPI does not explain why the personal care and miscellaneous division rose 15.17%. The RBI separately reports core inflation excluding precious metals at 2.9%, against 4.2% including them; we have not stated a cause."
 ---
 
-Retail inflation rose to 4.82% in August 2026 from 4.45% in July, according to provisional data released by the National Statistics Office on 14 September. It was the seventh monthly rise in a row, from 2.74% in January.
+Retail inflation rose to 4.82% in August 2026 from 4.45% in July, according to provisional data released by the National Statistics Office on September 14. It was the seventh monthly rise in a row, from 2.74% in January.
 
 The figures are from the new Consumer Price Index series with base year 2024=100, which replaced the 2012 series this year.
 
@@ -61,7 +61,7 @@ Inflation was higher in villages than in towns. Rural CPI rose 5.23% and urban C
 The gap has been building all year. In January the two were almost level, at 2.73% rural and 2.75% urban. Rural inflation has run ahead in every month since February, and the difference widened to almost a full percentage point by August. The all-India index stood at 108.74 in August, up from 107.95 in July.
 
 ```chart
-{"type":"line","title":"CPI inflation, January to August 2026","subtitle":"All-India, year on year (%), base 2024=100","unit":"%","data":[{"label":"Jan","value":2.74},{"label":"Feb","value":3.21},{"label":"Mar","value":3.40},{"label":"Apr","value":3.48},{"label":"May","value":3.93},{"label":"Jun","value":4.38},{"label":"Jul","value":4.45},{"label":"Aug","value":4.82,"highlight":true}],"source":"MoSPI, 14 Sep 2026 (August provisional)"}
+{"type":"line","title":"CPI inflation, January to August 2026","subtitle":"All-India, year on year (%), base 2024=100","unit":"%","data":[{"label":"Jan","value":2.74},{"label":"Feb","value":3.21},{"label":"Mar","value":3.40},{"label":"Apr","value":3.48},{"label":"May","value":3.93},{"label":"Jun","value":4.38},{"label":"Jul","value":4.45},{"label":"Aug","value":4.82,"highlight":true}],"source":"MoSPI, Sep 14, 2026 (August provisional)"}
 ```
 
 ## What else rose
@@ -78,7 +78,7 @@ Health (1.34%), recreation (1.74%) and information and communication (2.01%) ros
 
 ## How the RBI reads it
 
-The RBI's Monetary Policy Committee cited the August data when it raised the repo rate to 5.50% on 7 October. Its resolution says the rise was driven by food and fuel, and that core inflation, which leaves out food and fuel, rose to 4.2%. Excluding precious metals, core inflation was 2.9%.
+The RBI's Monetary Policy Committee cited the August data when it raised the repo rate to 5.50% on October 7. Its resolution says the rise was driven by food and fuel, and that core inflation, which leaves out food and fuel, rose to 4.2%. Excluding precious metals, core inflation was 2.9%.
 
 The RBI said about 37% of the CPI basket by weight showed inflation above 4% in August. It projects inflation at 4.9% for July-September, rising to 6.0% in October-December, and 5.2% for 2026-27 as a whole. Its target is 4%, with a tolerance band of 2% to 6%.
 
@@ -90,4 +90,4 @@ Because the base and the basket changed, the new figures should not be compared 
 
 ## What comes next
 
-MoSPI will release CPI data for September on 12 October 2026. The August figure is provisional and may be revised in that release.
+MoSPI will release CPI data for September on October 12, 2026. The August figure is provisional and may be revised in that release.

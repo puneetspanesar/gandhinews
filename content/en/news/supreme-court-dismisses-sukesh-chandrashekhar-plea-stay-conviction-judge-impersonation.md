@@ -11,7 +11,7 @@ published: 2026-11-02T13:25:00+05:30
 location: New Delhi
 keyPoints:
   - "The Supreme Court **dismissed Sukesh Chandrashekhar's plea** to stay his conviction and sentence."
-  - "He was convicted on 20 August for **impersonating a Supreme Court judge** and the judge's secretary."
+  - "He was convicted on August 20 for **impersonating a Supreme Court judge** and the judge's secretary."
   - "His lawyer said he faces **31 other criminal cases**, none ending in conviction so far."
 hero:
   need: "Justice JB Pardiwala, who headed the bench, and conman Sukesh Chandrashekhar"
@@ -27,7 +27,7 @@ cover:
   bg: "Supreme Court of India"
 related: []
 seo:
-  description: "The Supreme Court on 2 November 2026 refused to stay Sukesh Chandrashekhar's conviction for impersonating a Supreme Court judge, upholding the Delhi High Court's order."
+  description: "The Supreme Court on November 2, 2026, refused to stay Sukesh Chandrashekhar's conviction for impersonating a Supreme Court judge, upholding the Delhi High Court's order."
 sources:
   - title: "Supreme Court Dismisses Conman Sukesh Chandrashekar's Plea To Stay Conviction For Impersonating SC Judge"
     publisher: "LiveLaw"
@@ -37,16 +37,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, order reported by LiveLaw at 1:14 pm IST (updated 1:21 pm IST). Exact hearing time not given; source time stamp is inside the window. Single source (LiveLaw)."
+    - "event: Nov 2, order reported by LiveLaw at 1:14 pm IST (updated 1:21 pm IST). Exact hearing time not given; source time stamp is inside the window. Single source (LiveLaw)."
     - "Case: Sukesh Chandrashekhar v State (NCT of Delhi), SLP(Crl) 20754/2026. Spelling: LiveLaw uses both Chandrashekhar and Chandrashekar; Wikipedia title 'Sukesh Chandrashekar' used for photo search only."
-    - "Length of sentence not given in source; left out. Conviction 20 Aug, sentence 29 Aug (year assumed 2026, not stated)."
+    - "Length of sentence not given in source; left out. Conviction Aug 20, sentence Aug 29 (year assumed 2026, not stated)."
 ---
 
 The Supreme Court on Monday **refused to stay the conviction** of conman Sukesh Chandrashekhar, who was found guilty of impersonating a Supreme Court judge and the judge's private secretary to pressure a judicial officer hearing his case.
 
 A bench of Justices JB Pardiwala and Manmohan dismissed his plea against a Delhi High Court order, finding no error in it, "not to speak of any error of law". The bench said the other criminal trials he faces should go ahead on their own merits and in accordance with law.
 
-Chandrashekhar was accused of using a constable's phone while in police custody in a 2017 corruption case to call the judicial officer presiding over that case, first posing as the judge's secretary and then as the judge himself. A Chief Judicial Magistrate **convicted him on 20 August** under Indian Penal Code sections for personating a public servant, threatening injury to a public servant and criminal intimidation by anonymous communication. He was sentenced on 29 August.
+Chandrashekhar was accused of using a constable's phone while in police custody in a 2017 corruption case to call the judicial officer presiding over that case, first posing as the judge's secretary and then as the judge himself. A Chief Judicial Magistrate **convicted him on August 20** under Indian Penal Code sections for personating a public servant, threatening injury to a public servant and criminal intimidation by anonymous communication. He was sentenced on August 29.
 
 He sought a stay of the conviction and sentence first from an Additional Sessions Judge and then from the Delhi High Court. **Both turned him down.** The High Court said the trial court's strong remarks about his conduct were for the appellate court to examine.
 

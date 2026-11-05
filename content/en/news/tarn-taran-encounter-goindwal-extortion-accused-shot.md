@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI via Asianet, 2:41 am Sat). 'Friday' in source; date taken as 23 Oct. Time of encounter not reported."
+    - "Single source (ANI via Asianet, 2:41 am Sat). 'Friday' in source; date taken as Oct 23. Time of encounter not reported."
     - "SSP Surinder Lamba quotes verbatim. Weapon type and gang not reported. Nature of injury not reported beyond 'injured' and taken to hospital."
     - "Confession is the police account; hedged as 'allegedly told police'."
 ---

@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026, Hero MotoCorp October sales filing to BSE; earliest reports timestamped 14:18 UTC (7:48 pm IST, Investywise) and 14:19 UTC (7:49 pm IST, Whalesbook). Autocar Professional page shows date only."
+    - "event: Nov 1, 2026, Hero MotoCorp October sales filing to BSE; earliest reports timestamped 14:18 UTC (7:48 pm IST, Investywise) and 14:19 UTC (7:49 pm IST, Whalesbook). Autocar Professional page shows date only."
     - "All figures agree across three reports. No company quotes in any source, so none used."
     - "Investywise text gives domestic ICE dispatches as 675,017, which does not reconcile with domestic 705,084 minus Vida 30,143; ICE figure left out."
     - "Vida 13.6% e-two-wheeler share is the company's figure; our Vahan-based e2W story put Vida registrations at 29,936. Comparison with TVS (7,00,134) avoided because TVS total includes three-wheelers."

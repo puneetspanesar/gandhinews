@@ -10,7 +10,7 @@ standfirst: "Brokerages expect profit to rise sharply on strong loan growth. The
 published: 2026-10-16T20:45:00+05:30
 location: Mumbai
 keyPoints:
-  - "YES Bank's board meets on **Saturday, 17 October** to approve September-quarter results."
+  - "YES Bank's board meets on **Saturday, October 17** to approve September-quarter results."
   - "An average of six brokerages puts net profit at about **₹969 crore, up 48%**."
   - "Investors want to know how the bank will deal with the **₹8,415 crore AT-1 ruling**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Results day after the AT-1 shock"
 related: [yes-bank-shares-crash-supreme-court-at1-bonds, supreme-court-yes-bank-at1-judgment-rbi-bystander, pnb-federal-bank-q2-profit-record, sensex-nifty-it-rally-weekly-gain-october-16]
 seo:
-  description: "YES Bank reports Q2 results on 17 October 2026. Brokerages see profit near ₹969 crore, up 48%, as investors weigh the Supreme Court's ₹8,415 crore AT-1 bond ruling."
+  description: "YES Bank reports Q2 results on October 17, 2026. Brokerages see profit near ₹969 crore, up 48%, as investors weigh the Supreme Court's ₹8,415 crore AT-1 bond ruling."
 sources:
   - title: "Q2 Preview: ICICI, Axis, YES, HDFC Bank - 4 banking stocks to declare results on Oct 17"
     publisher: "TradingView News"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Six-brokerage average (Rs 969 crore, +48% from Rs 655 crore; NII Rs 2,807 crore) and ICICI Securities / Kotak estimates from inkl (partial page; publication date not shown, assumed 15-16 Oct)."
+    - "Six-brokerage average (Rs 969 crore, +48% from Rs 655 crore; NII Rs 2,807 crore) and ICICI Securities / Kotak estimates from inkl (partial page; publication date not shown, assumed Oct 15-16)."
     - "JM Financial estimate (PAT Rs 899.5 crore, +37.4% YoY, -16% QoQ; NIM 2.7%) from TradingView preview."
-    - "Provisional business figures (loans Rs 3,09,675 crore, +23.8%; deposits Rs 3,54,084 crore, +19.5%; CASA 30% vs 33.7%) and timing of previous two results (1:30-2 pm) from Upstox, 5 Oct."
+    - "Provisional business figures (loans Rs 3,09,675 crore, +23.8%; deposits Rs 3,54,084 crore, +19.5%; CASA 30% vs 33.7%) and timing of previous two results (1:30-2 pm) from Upstox, Oct 5."
     - "Bank's own response to the verdict not found; not stated."
 ---
 

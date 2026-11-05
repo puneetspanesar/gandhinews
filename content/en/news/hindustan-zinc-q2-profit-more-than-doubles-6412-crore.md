@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures and CEO quote from ANI (6:47 pm IST, 19 Oct). Second source seen only as search headline (same figures). Share reaction not reported; exchanges shut 20 Oct."
+    - "All figures and CEO quote from ANI (6:47 pm IST, Oct 19). Second source seen only as search headline (same figures). Share reaction not reported; exchanges shut Oct 20."
 ---
 
 Hindustan Zinc, the Vedanta group's zinc and silver miner, more than doubled its quarterly profit on Monday as higher metal prices, record mining output and lower costs fed straight into its earnings.

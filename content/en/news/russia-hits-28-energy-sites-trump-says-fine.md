@@ -62,11 +62,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Trump quote from Kyiv Independent (20:25 UTC, 19 Oct), said to reporters as he left the White House. Only one outlet carried the exact words in what we read."
+    - "Trump quote from Kyiv Independent (20:25 UTC, Oct 19), said to reporters as he left the White House. Only one outlet carried the exact words in what we read."
     - "Park strike toll: Kyiv Independent Trump piece says six dead including two children; its Nova Vodolaha report says three children per Governor Syniehubov. Copy says 'six people, among them children'."
     - "Energy figures: 28 facilities, 550,000 households, 16 ballistic missiles, 11 regions from Kyiv Independent, AP and Forbes (agree). Air force: 269 drones, 243 downed (Forbes)."
-    - "Rubio quotes from Kyiv Independent (Samarkand). APEC dates 18-19 Nov per WSJ via Kyiv Independent; unconfirmed."
-    - "Patriot figure of about 12 a month is Zelenskyy's claim in a Bloomberg interview, 18 Oct."
+    - "Rubio quotes from Kyiv Independent (Samarkand). APEC dates Nov 18-19 per WSJ via Kyiv Independent; unconfirmed."
+    - "Patriot figure of about 12 a month is Zelenskyy's claim in a Bloomberg interview, Oct 18."
 ---
 
 US President Donald Trump said on Monday that Russia had "been fine on Ukraine", hours after Russian missiles and drones knocked out 28 substations and other critical energy facilities across the country and a daytime drone strike on a park in the Kharkiv region killed six people, among them children.
@@ -77,13 +77,13 @@ US President Donald Trump said on Monday that Russia had "been fine on Ukraine",
 
 The overnight attack was one of the heaviest on Ukraine's power system this autumn. President Volodymyr Zelenskyy said Russia fired 16 ballistic missiles at Kyiv and the surrounding region and more than 200 drones in several waves. Energy facilities were hit in 11 regions, from Volyn and Rivne in the west to Kharkiv and Odesa, and at least 550,000 households lost power. A 21-year-old woman was killed in the capital.
 
-Ukraine's air force said Russia launched 269 drones overnight, of which 243 were shot down or neutralised. First Deputy Energy Minister Artem Nekrasov counted 87 attacks on the energy, oil and gas sectors in the past week alone. Zelenskyy said Russia had attacked those sectors 76 times since Trump announced an "energy ceasefire" on 11 October.
+Ukraine's air force said Russia launched 269 drones overnight, of which 243 were shot down or neutralised. First Deputy Energy Minister Artem Nekrasov counted 87 attacks on the energy, oil and gas sectors in the past week alone. Zelenskyy said Russia had attacked those sectors 76 times since Trump announced an "energy ceasefire" on October 11.
 
 "The reality is that the war continues, and it continues solely because of Russian strikes," Zelenskyy said.
 
 ## No warning, then a late one
 
-Kyiv's sharpest complaint was about intelligence. Air force spokesman Yurii Ihnat said no warning came from partners before the first wave at about 11 pm, and word of the second wave around 3 am arrived too late to sound the sirens. He said the same had happened during the 14 October attack.
+Kyiv's sharpest complaint was about intelligence. Air force spokesman Yurii Ihnat said no warning came from partners before the first wave at about 11 pm, and word of the second wave around 3 am arrived too late to sound the sirens. He said the same had happened during the October 14 attack.
 
 US Secretary of State Marco Rubio, speaking in Samarkand, Uzbekistan, said he could not confirm Kyiv's account. "I don't know. I mean, where did it happen last night? I don't know exactly," he said, adding that a software problem had affected Ukraine's early warning system a few nights earlier. Trump has said Washington has not stopped sharing intelligence with Kyiv.
 

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Unite.AI, 8:35 am ET 21 Oct, written by an AI research agent and reviewed by editors), summarising a Google Cloud announcement by Michael Gerstenhaber. Google's own post not read. Kept as a brief, claims attributed to Google."
+    - "Single source (Unite.AI, 8:35 am ET Oct 21, written by an AI research agent and reviewed by editors), summarising a Google Cloud announcement by Michael Gerstenhaber. Google's own post not read. Kept as a brief, claims attributed to Google."
     - "Pricing not given; the '50% lower API prices' in the source URL slug is not confirmed in the text and is left out."
     - "No mention of India or regional availability."
 ---

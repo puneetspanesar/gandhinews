@@ -22,7 +22,7 @@ hero:
     value: "Back to the Vatican"
 related: [pope-leo-celebrates-mass-gemelli-hospital-steady-improvement, pope-leo-recovering-well-after-cancer-surgery, pope-leo-diagnosed-with-lung-cancer-after-surgery]
 seo:
-  description: "Pope Leo XIV was cleared to leave Rome's Gemelli hospital on 17 October, four days after lung cancer surgery, and will lead the Angelus on Sunday."
+  description: "Pope Leo XIV was cleared to leave Rome's Gemelli hospital on October 17, four days after lung cancer surgery, and will lead the Angelus on Sunday."
 sources:
   - title: "Pope Leo XIV to be discharged from hospital"
     publisher: "Vatican News"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Written at about 3:30 pm IST, before the scheduled early-afternoon (Rome) departure; departure itself not yet reported, so written as due."
     - "Doctors named by Vatican News: Dr Luigi Carbone and Prof Stefano Margaritora."
-    - "Original expected stay until 20 October: CBS."
+    - "Original expected stay until October 20: CBS."
     - "Putin call: Kyiv Independent paraphrase of Vatican statement; Kremlin line from TASS. About 2,000 residents trapped: Kyiv Independent."
     - "South America trip (Uruguay, Argentina, Peru) next month: CBS, based on Vatican list of accredited journalists."
 ---
@@ -53,7 +53,7 @@ Pope Leo XIV was cleared on Saturday to leave Rome's Gemelli hospital, four days
 
 "Following the doctors' assessment this morning, Pope Leo XIV will be discharged today from Gemelli Hospital," the Holy See Press Office said. "He will leave the hospital in the early afternoon and return to the Vatican."
 
-His doctors, Luigi Carbone and Stefano Margaritora, said blood tests and a chest X-ray taken on Saturday morning, along with his overall clinical condition, showed he was fit for discharge. He had been expected to stay until 20 October. Before leaving, he was to celebrate Mass in the chapel on the hospital's 10th floor.
+His doctors, Luigi Carbone and Stefano Margaritora, said blood tests and a chest X-ray taken on Saturday morning, along with his overall clinical condition, showed he was fit for discharge. He had been expected to stay until October 20. Before leaving, he was to celebrate Mass in the chapel on the hospital's 10th floor.
 
 "Tomorrow, he will lead the Angelus prayer from the window of the papal apartment," the press office added.
 

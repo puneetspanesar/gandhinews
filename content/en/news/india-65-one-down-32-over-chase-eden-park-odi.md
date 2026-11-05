@@ -33,7 +33,7 @@ infographic:
   source: "Wisden live scorecard, November 4, 2026"
 related: [india-54-one-down-rain-stops-play-eden-park-odi, india-41-one-down-kohli-chase-186-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park]
 seo:
-  description: "New Zealand v India first ODI at Eden Park, 4 November 2026: after rain, India's chase is cut to 32 overs; India 65 for 1 after 12.2 overs, needing 78 from 19.4 overs."
+  description: "New Zealand v India first ODI at Eden Park, November 4, 2026: after rain, India's chase is cut to 32 overs; India 65 for 1 after 12.2 overs, needing 78 from 19.4 overs."
 sources:
   - title: "New Zealand v India, 1st ODI, live scorecard"
     publisher: "Wisden"
@@ -43,8 +43,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: play resumed after the rain break (stopped about 12:30 IST); state read from Wisden live page fetched 14:15 IST, Wed 4 Nov 2026. Page gives no update timestamp. Match not over at time of reading."
-    - "Wisden page names Eden Park, Auckland, 4 Nov 2026, NZ 185 (40.2 ov), India 65-1 (12.2/32 ov), status 'India need 78 runs to win from 19.4 overs with 9 wickets remaining'."
+    - "event: play resumed after the rain break (stopped about 12:30 IST); state read from Wisden live page fetched 14:15 IST, Wed Nov 4, 2026. Page gives no update timestamp. Match not over at time of reading."
+    - "Wisden page names Eden Park, Auckland, Nov 4, 2026, NZ 185 (40.2 ov), India 65-1 (12.2/32 ov), status 'India need 78 runs to win from 19.4 overs with 9 wickets remaining'."
     - "Figures check: 185 minus 65 is 120, not 78, so the original target of 186 no longer applies. 65 + 78 = 143 and 32 - 12.2 = 19.4 overs, so the page is consistent with a revised target of 143 in 32 overs. The page does not name DLS or state the target, so the copy reports only the stated 32-over innings and 78 needed, and does not print a revised target figure as official."
     - "Batters at the crease and dismissed batter not given on the page; Kohli and Gill named only as the pair at the crease before the rain (previous story, FPJ)."
 ---

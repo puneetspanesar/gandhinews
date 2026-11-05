@@ -47,7 +47,7 @@ The boy from Nabha in Punjab was swept aside in the first game and stood one poi
 
 > "The feeling can't be expressed by words."
 >
-> Source: Jagsher Singh Khangurra, after the quarter-final, 15 October 2026
+> Source: Jagsher Singh Khangurra, after the quarter-final, October 15, 2026
 
 He said he was now hoping for gold.
 

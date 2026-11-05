@@ -55,7 +55,7 @@ That leaves India waiting on their first-choice left-arm seamer with the series 
 
 ## A familiar face at the Chinnaswamy
 
-Bhuvneshwar was already in the squad for the five-match T20I series in New Zealand, which starts in Christchurch on 22 October, so the call-up only brings his return forward by a few days. He also knows the ground well from his seasons with Royal Challengers Bengaluru, a point bowling coach Morne Morkel made when he spoke in Bengaluru on Friday.
+Bhuvneshwar was already in the squad for the five-match T20I series in New Zealand, which starts in Christchurch on October 22, so the call-up only brings his return forward by a few days. He also knows the ground well from his seasons with Royal Challengers Bengaluru, a point bowling coach Morne Morkel made when he spoke in Bengaluru on Friday.
 
 "I'm really excited to have him back in the mix," Morkel said. He said Bhuvneshwar's experience would add value to a relatively young attack, and that the aim at a high-scoring venue was to help the younger bowlers make smarter decisions under pressure. Landing yorkers at the death, he said, "comes with experience and game time."
 

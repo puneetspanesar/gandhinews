@@ -54,7 +54,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 15:30 IST market close; Upstox wrap updated 15:55 IST."
+    - "event: Nov 4 15:30 IST market close; Upstox wrap updated 15:55 IST."
     - "Closing figures, gainers, breadth (36 up, 14 down) and FII/DII Tuesday flows from the Upstox wrap. Business Standard page read was the pre-market live blog only (GIFT Nifty 23,728.5, Brent Jan futures $103.20 in Asia trade); it had no closing data."
     - "Not found in any page read: Bank Nifty, rupee close, sector index figures, named losers, gold, VIX. Front-page check said IT was the only sectoral loser, but no page I read stated it, so it is left out. Crude given as about $102 (Upstox, contract not named). Nov 2 and Nov 3 Nifty closes from our earlier close stories."
 ---

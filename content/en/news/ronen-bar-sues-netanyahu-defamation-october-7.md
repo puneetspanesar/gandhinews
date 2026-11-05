@@ -12,7 +12,7 @@ location: Jerusalem
 keyPoints:
   - "Ronen Bar filed a **134-page defamation suit** against Benjamin Netanyahu on Wednesday."
   - "He is seeking **3 million shekels (about $968,500)** in damages."
-  - "Israel goes to the polls on **27 October**, with Netanyahu in a tight race."
+  - "Israel goes to the polls on **October 27**, with Netanyahu in a tight race."
 hero:
   need: "Portrait of Ronen Bar, former director of Israel's Shin Bet security agency"
   suggested_source: "Ronen Bar"
@@ -21,7 +21,7 @@ hero:
     value: "3 million shekels and a missed phone call"
 related: [israeli-teen-killed-hezbollah-munition-school-hike]
 seo:
-  description: "Ex-Shin Bet chief Ronen Bar has sued Benjamin Netanyahu for 3 million shekels, saying the PM lied in blaming him for October 7 failures. Israel votes on 27 October."
+  description: "Ex-Shin Bet chief Ronen Bar has sued Benjamin Netanyahu for 3 million shekels, saying the PM lied in blaming him for October 7 failures. Israel votes on October 27."
 sources:
   - title: "Israel's former security chief sues Netanyahu for October 7 defamation"
     publisher: "Al Jazeera"
@@ -31,18 +31,18 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera, 14 Oct). Court where the suit was filed not named in the report, so not stated."
+    - "Single source (Al Jazeera, Oct 14). Court where the suit was filed not named in the report, so not stated."
     - "Avi Gil allegations were made to Israel's Channel 12; Egypt warning reported by the Wall Street Journal last month; both attributed to people, not outlets, in copy (Kamel warning hedged as 'reported')."
     - "Bar's phrases 'criminal failures' and 'lying to cover himself' are as quoted in the report's summary of the filing."
 ---
 
-Ronen Bar, who led Israel's Shin Bet security agency on the day of the Hamas attack of 7 October 2023, sued Prime Minister Benjamin Netanyahu for defamation on Wednesday, accusing him of blaming the agency to shield himself.
+Ronen Bar, who led Israel's Shin Bet security agency on the day of the Hamas attack of October 7, 2023, sued Prime Minister Benjamin Netanyahu for defamation on Wednesday, accusing him of blaming the agency to shield himself.
 
 The 134-page filing seeks 3 million shekels, about $968,500. Bar says Netanyahu accused him of "criminal failures" over the attack, knowing the accusations to be false, and was "lying to cover himself" in order to draw attention away from his own responsibility. He also argues that the prime minister's policies over several years increased the danger from armed groups in Gaza.
 
 ## The phone call at the centre of it
 
-Much of the dispute turns on the early hours of 7 October. Netanyahu has long said he was not alerted by Bar that morning and that he could have stopped the attack had the Shin Bet director or military chiefs called to wake him. Bar's filing says he telephoned the prime minister's military secretary as soon as there were signs of a possible attack, but that he did not have Netanyahu's direct number.
+Much of the dispute turns on the early hours of October 7. Netanyahu has long said he was not alerted by Bar that morning and that he could have stopped the attack had the Shin Bet director or military chiefs called to wake him. Bar's filing says he telephoned the prime minister's military secretary as soon as there were signs of a possible attack, but that he did not have Netanyahu's direct number.
 
 Netanyahu answered in a statement issued by his Likud party. "Ronen, are you serious?" the statement said. "You had my number on the red line and could have called me immediately, as all security chiefs do."
 
@@ -58,7 +58,7 @@ Egypt's intelligence chief at the time, Abbas Kamel, is also reported to have ph
 
 ## Why it matters now
 
-Israel votes on 27 October. Netanyahu is in a close race to keep his job, and the question of who failed on 7 October has followed him through the campaign, raised by former staff, security officials and the opposition alike.
+Israel votes on October 27. Netanyahu is in a close race to keep his job, and the question of who failed on October 7 has followed him through the campaign, raised by former staff, security officials and the opposition alike.
 
 At least 1,221 Israelis were killed in the attack, according to Israeli official figures, and 251 were taken captive, among them the bodies of 44 people killed that day. Gaza's Health Ministry says Israel's war has since killed more than 74,300 people in the territory, including more than 1,400 since a US-backed ceasefire was agreed last year.
 

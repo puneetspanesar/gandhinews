@@ -10,7 +10,7 @@ standfirst: "West Asia will dominate two days of talks in Mumbai before the US S
 published: 2026-10-19T05:15:00+05:30
 location: Mumbai
 keyPoints:
-  - "UAE Foreign Minister Sheikh Abdullah bin Zayed is in Mumbai on **19 and 20 October** for talks with S Jaishankar."
+  - "UAE Foreign Minister Sheikh Abdullah bin Zayed is in Mumbai on **October 19 and 20** for talks with S Jaishankar."
   - "Marco Rubio meets Jaishankar in Mumbai on Tuesday, after the **C5+1 ministerial in Samarkand**."
   - "Rajnath Singh represents India at the **25th SCO heads of government meeting** in Dushanbe."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Mumbai becomes India's diplomatic hub"
 related: [jaishankar-rubio-talks-mumbai-october-20-mea, rajnath-singh-sco-heads-of-government-dushanbe, jaishankar-uae-raisina-middle-east-forum-abu-dhabi, india-condemns-houthi-attacks-saudi-airports-riyadh]
 seo:
-  description: "Jaishankar hosts UAE Foreign Minister Abdullah bin Zayed in Mumbai on 19-20 October before talks with Marco Rubio; Rajnath Singh is at the SCO meeting in Dushanbe."
+  description: "Jaishankar hosts UAE Foreign Minister Abdullah bin Zayed in Mumbai on October 19-20 before talks with Marco Rubio; Rajnath Singh is at the SCO meeting in Dushanbe."
 sources:
   - title: "US-India ties: Rubio's visit focuses on investments, US midterms"
     publisher: "Asianet Newsable (ANI)"
@@ -57,11 +57,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "SRIA concerns and diesel deal: Jaiswal 14 Oct via Tribune/ANI."
-    - "Preview written 5:15 am IST Monday. No report found of Abdullah bin Zayed's arrival in Mumbai as of writing; copy says he is due/in Mumbai on 19-20 Oct per MEA (Jaiswal, 16 Oct)."
-    - "Rubio itinerary: State Dept, 17-22 Oct, Samarkand first for C5+1, then Mumbai and Jamnagar; separate city dates not given. Jamnagar called 'on cards' by DT Next; copy says it is on the itinerary as announced by State Dept. Ambani meeting rests on earlier reporting quoting Ambassador Gor (carried in our 16 Oct story); not repeated here."
-    - "SCO meeting dates: News On AIR says two-day meeting starts 'tomorrow' (story dated 18 Oct), so 19-20 Oct inferred."
-    - "Jaiswal quote on West Asia from our 16 Oct story (Business Standard source)."
+    - "SRIA concerns and diesel deal: Jaiswal Oct 14 via Tribune/ANI."
+    - "Preview written 5:15 am IST Monday. No report found of Abdullah bin Zayed's arrival in Mumbai as of writing; copy says he is due/in Mumbai on Oct 19-20 per MEA (Jaiswal, Oct 16)."
+    - "Rubio itinerary: State Dept, Oct 17-22, Samarkand first for C5+1, then Mumbai and Jamnagar; separate city dates not given. Jamnagar called 'on cards' by DT Next; copy says it is on the itinerary as announced by State Dept. Ambani meeting rests on earlier reporting quoting Ambassador Gor (carried in our Oct 16 story); not repeated here."
+    - "SCO meeting dates: News On AIR says two-day meeting starts 'tomorrow' (story dated Oct 18), so Oct 19-20 inferred."
+    - "Jaiswal quote on West Asia from our Oct 16 story (Business Standard source)."
     - "Pages not reachable this run: pib.gov.in index, mea.gov.in."
 ---
 
@@ -71,7 +71,7 @@ The choice of the financial capital over New Delhi has already caused a politica
 
 ## West Asia first
 
-The UAE minister's visit comes days after Jaishankar met him in Abu Dhabi at the Raisina Middle East forum. Since then, Houthi drone and missile attacks on Saudi Arabia have continued. On Sunday the Indian Embassy in Riyadh told Indian nationals to follow Saudi safety directives, shelter indoors and stay away from windows, after an attack on King Khalid International Airport on 10 October killed an Indian national.
+The UAE minister's visit comes days after Jaishankar met him in Abu Dhabi at the Raisina Middle East forum. Since then, Houthi drone and missile attacks on Saudi Arabia have continued. On Sunday the Indian Embassy in Riyadh told Indian nationals to follow Saudi safety directives, shelter indoors and stay away from windows, after an attack on King Khalid International Airport on October 10 killed an Indian national.
 
 Announcing the visit last week, MEA spokesperson Randhir Jaiswal said: "They will naturally have a detailed exchange of views on the situation in West Asia."
 ## Rubio arrives with energy on the table

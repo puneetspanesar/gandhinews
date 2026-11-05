@@ -22,7 +22,7 @@ hero:
     value: "Two more wins for India"
 related: [india-kabaddi-men-beat-uganda-women-singapore-commonwealth, india-kabaddi-teams-thrash-malaysia-england-commonwealth, commonwealth-kabaddi-championship-opens-ahmedabad-india-england]
 seo:
-  description: "India women beat Uganda 41-18 and India men beat Malaysia 37-23 at the Commonwealth Kabaddi Championship in Ahmedabad; both teams play Nigeria on 26 October."
+  description: "India women beat Uganda 41-18 and India men beat Malaysia 37-23 at the Commonwealth Kabaddi Championship in Ahmedabad; both teams play Nigeria on October 26."
 sources:
   - title: "Commonwealth Kabaddi Championship 2026: Indian women, men register convincing wins over Uganda, Malaysia respectively"
     publisher: "ANI"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Scores and individual points from ANI (citing an organisers' press release); single source but official release. No quotes available."
-    - "Monday fixtures and semi-final/final dates from Khel Now schedule published 23 October; times may change."
+    - "Monday fixtures and semi-final/final dates from Khel Now schedule published October 23; times may change."
 ---
 
 India's women and men both stayed on course at the inaugural Commonwealth Kabaddi Championship on Sunday evening, beating Uganda and Malaysia at the Veer Savarkar Sports Complex in Naranpura, Ahmedabad.
@@ -55,4 +55,4 @@ India's men had earlier beaten England and Uganda, and the women Malaysia and Si
 
 ## What comes next
 
-Both Indian teams play Nigeria on Monday, the women at 6:45 pm IST and the men at 8:30 pm IST. The championship, which runs from 23 to 31 October, has men's and women's divisions with teams from across the Commonwealth, among them England, Scotland, Australia, Kenya and Sri Lanka. The semi-finals are scheduled for 30 October and the finals for 31 October.
+Both Indian teams play Nigeria on Monday, the women at 6:45 pm IST and the men at 8:30 pm IST. The championship, which runs from October 23 to 31, has men's and women's divisions with teams from across the Commonwealth, among them England, Scotland, Australia, Kenya and Sri Lanka. The semi-finals are scheduled for October 30 and the finals for October 31.

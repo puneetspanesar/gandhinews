@@ -67,9 +67,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event time: Senate control projected about 04:30 UTC, 10:00-10:06 IST on 4 Nov (Scripps story stamped 23:36 EST = 10:06 IST; Reuters on ThePrint 04:30 UTC; NBC and Bloomberg/DDHQ headlines 'Democrats win control of House and Senate' seen in search results only, pages blocked). The Hill article (headline only, page blocked) says Schumer set to become majority leader."
+    - "Event time: Senate control projected about 04:30 UTC, 10:00-10:06 IST on Nov 4 (Scripps story stamped 23:36 EST = 10:06 IST; Reuters on ThePrint 04:30 UTC; NBC and Bloomberg/DDHQ headlines 'Democrats win control of House and Senate' seen in search results only, pages blocked). The Hill article (headline only, page blocked) says Schumer set to become majority leader."
     - "Final seat count not available; Scripps says at least 51-49. Michigan and Minnesota holds stated by Reuters as needed for majority; whether called is not confirmed, so not stated as won. Maine, Iowa, Alaska outcomes not found; omitted. Exact race that clinched control not identified in sources read."
-    - "Schumer quotes are from an ABC interview posted 2:57 pm GMT on 3 Nov, before results; written as pre-results remarks. No Schumer, Thune or Talarico reaction after the call found. Trump quote from Reuters copy. No India-specific angle (trade, markets) found in pages read; Sensex was flat at open (down 0.06% at 9:26, though that page's date was ambiguous), so no market line used."
+    - "Schumer quotes are from an ABC interview posted 2:57 pm GMT on Nov 3, before results; written as pre-results remarks. No Schumer, Thune or Talarico reaction after the call found. Trump quote from Reuters copy. No India-specific angle (trade, markets) found in pages read; Sensex was flat at open (down 0.06% at 9:26, though that page's date was ambiguous), so no market line used."
 ---
 
 Democrats are **projected to win control of the Senate**, US networks said on Wednesday morning India time, completing a sweep of both chambers of Congress hours after they were projected to take the House of Representatives. It is the heaviest midterm defeat for President Donald Trump, whose Republicans had held the White House, the House and the Senate since January 2025.

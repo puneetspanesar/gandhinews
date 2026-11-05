@@ -22,7 +22,7 @@ hero:
     value: "Blackstone up 8%, Moderna down 20%"
 related: [meta-shares-sink-chip-stocks-rout-ai-spending-fears, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
 seo:
-  description: "Blackstone shares jump 8.38% to $118.75 on 22 October 2026 on exit outlook despite 34% fall in Q3 net realisations; Moderna falls over 20% after leaked melanoma vaccine study results."
+  description: "Blackstone shares jump 8.38% to $118.75 on October 22, 2026, on exit outlook despite 34% fall in Q3 net realisations; Moderna falls over 20% after leaked melanoma vaccine study results."
 sources:
   - title: "Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet"
     publisher: "Yahoo Finance"

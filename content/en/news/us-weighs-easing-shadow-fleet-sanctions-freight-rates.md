@@ -21,7 +21,7 @@ hero:
     value: "Old tankers, new rules?"
 related: [eu-sanctions-circumvention-firms-india-uae-shadow-fleet, india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
-  description: "The Trump administration is weighing sanctions relief for shadow fleet tankers so they can carry legal oil, aiming to cut record freight rates before the 3 November midterms."
+  description: "The Trump administration is weighing sanctions relief for shadow fleet tankers so they can carry legal oil, aiming to cut record freight rates before the November 3 midterms."
 sources:
   - title: "US considering easing sanctions on shadow fleet: Reuters"
     publisher: "Ukrinform"
@@ -43,7 +43,7 @@ verification:
   notes:
     - "Single-sourced: rests on a Reuters report quoting an unnamed US official, read only through Ukrinform's summary. Hedged accordingly ('is reported to be')."
     - "Wright's remarks reached us via Energy Aspects' account of his video address, as cited in the same report."
-    - "The MEA line is from Randhir Jaiswal's 14 October briefing."
+    - "The MEA line is from Randhir Jaiswal's October 14 briefing."
 ---
 
 The Trump administration is reported to be considering sanctions relief for the "shadow fleet", the vessels that have carried oil and fuel from Russia, Iran and Venezuela, in an effort to bring down record global freight rates.
@@ -52,7 +52,7 @@ The talks, described by a US official, began a few days after President Donald T
 
 Energy Secretary Chris Wright made the case in a video address to the World Petroleum Congress in Riyadh, saying that easing the curbs would cut freight rates, which have dampened demand for American oil. The Department of Energy says the move would not help Russia ship its own oil.
 
-High fuel prices are a political worry for Trump before the 3 November midterm elections, when Republicans are trying to hold both houses of Congress.
+High fuel prices are a political worry for Trump before the November 3 midterm elections, when Republicans are trying to hold both houses of Congress.
 
 Shipping industry figures are doubtful. They say most sanctioned tankers are old and in poor condition, so the change would not add much capacity quickly, and that insurers still have to follow EU and British rules, which limits any fall in rates.
 

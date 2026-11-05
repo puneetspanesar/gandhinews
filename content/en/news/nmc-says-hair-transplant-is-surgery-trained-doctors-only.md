@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: UNI, Kochi, 16 Oct, 01:28 am; most of the article is behind a paywall. The NMC guideline document itself was not found or opened; date of issue not known. Quoted phrases are the guideline wording as given by UNI."
+    - "Single source: UNI, Kochi, Oct 16, 01:28 am; most of the article is behind a paywall. The NMC guideline document itself was not found or opened; date of issue not known. Quoted phrases are the guideline wording as given by UNI."
     - "The Kochi infection case: severity, patient and clinic not reported in the visible text; copy says only that a serious infection was reported."
     - "The guidelines' full definition of surgery was cut off in the source; copy uses only the visible part."
     - "Brief is shorter than the usual minimum because the available reporting is thin."

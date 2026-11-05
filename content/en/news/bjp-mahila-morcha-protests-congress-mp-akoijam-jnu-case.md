@@ -11,7 +11,7 @@ published: 2026-10-13T05:00:00+05:30
 location: New Delhi
 keyPoints:
   - "BJP Mahila Morcha workers marched towards Congress headquarters and burned an **effigy of Rahul Gandhi**."
-  - "JNU dismissed Akoijam on 9 October after its internal committee examined **complaints from 11 women students**."
+  - "JNU dismissed Akoijam on October 9 after its internal committee examined **complaints from 11 women students**."
   - "Akoijam denies the allegations and has called the dismissal a **political witch hunt**."
 hero:
   need: "Congress MP Angomcha Bimol Akoijam, or the JNU administration block in New Delhi"
@@ -62,7 +62,7 @@ verification:
   status: approved
   notes:
     - "Annpurna Devi's line 'When will you break your silence, Rahul Gandhi?' is from India Today NE (headline and body); spoken in Hindi, English rendering is the outlet's."
-    - "Akoijam's quotes are from KRC Times (Imphal press conference, night of 9/10 Oct). 'Witch hunt' wording is described, not quoted, in Ukhrul Times and NewsDrum."
+    - "Akoijam's quotes are from KRC Times (Imphal press conference, night of 9/Oct 10). 'Witch hunt' wording is described, not quoted, in Ukhrul Times and NewsDrum."
     - "No Congress statement on the expulsion demand was found in any source read. Number of detained workers not reported (Aaj Tak says 'several')."
     - "ANI page description says MP Roop Kumari Chaudhary led the march; not confirmed in body text, left out."
     - "JNUTA position from Ukhrul Times summary; no direct JNUTA quote available."
@@ -74,7 +74,7 @@ Police stopped the march on Deen Dayal Upadhyay Marg, near ITO, before it reache
 
 ## The case against the MP
 
-Akoijam taught at JNU's Centre for the Study of Social Systems. On 9 October the university dismissed him with immediate effect after its Internal Committee, which examined complaints from 11 women students, recommended major punishment. The students had complained in May. They alleged that he called them to his campus residence on the pretext of meetings and harassed them, and some alleged obscene remarks in class.
+Akoijam taught at JNU's Centre for the Study of Social Systems. On October 9 the university dismissed him with immediate effect after its Internal Committee, which examined complaints from 11 women students, recommended major punishment. The students had complained in May. They alleged that he called them to his campus residence on the pretext of meetings and harassed them, and some alleged obscene remarks in class.
 
 On Sunday, Delhi Police registered an FIR at Vasant Kunj North police station on a complaint from JNU's chief security officer. It invokes Sections 75 and 79 of the Bharatiya Nyaya Sanhita, which deal with sexual harassment and insulting the modesty of a woman. Police say the investigation is continuing. No court has ruled on the allegations.
 
@@ -86,7 +86,7 @@ On Sunday, BJP MP Bansuri Swaraj had set out the party's charge at its headquart
 
 > For the Congress party, feminism merely begins with a hashtag and ends right at the threshold of accountability.
 >
-> Source: Bansuri Swaraj, BJP MP, 11 October 2026
+> Source: Bansuri Swaraj, BJP MP, October 11, 2026
 
 Manipur BJP president Sharda Devi and Nagaland Rajya Sabha MP S Phangnon Konyak also spoke at Monday's protest. No response from the Congress leadership to the demand for Akoijam's expulsion was reported on Monday.
 

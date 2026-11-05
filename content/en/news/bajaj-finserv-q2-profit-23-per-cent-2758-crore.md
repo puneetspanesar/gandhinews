@@ -49,9 +49,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: results filed about 12:55 pm IST, 3 Nov 2026 (Upstox liveblog entry 12:55 pm; article updated 1:06 pm; Sahi alert 1:08 pm)."
+    - "event: results filed about 12:55 pm IST, Nov 3, 2026 (Upstox liveblog entry 12:55 pm; article updated 1:06 pm; Sahi alert 1:08 pm)."
     - "All figures from Upstox (PAT 2,757.66 vs 2,244.1 cr; revenue 43,415.65 vs 37,214.56 cr; NII 13,335 vs 10,785 cr). Sahi rounds to 2,760 and its 2,200 cr base is inconsistent; not used. Sahi's 2,700 cr market estimate unverified; not used."
-    - "Bajaj Finance Q2 (6,367 cr, up 29%) from our own 19 Oct story. No share price move or management quotes found at time of writing; no segment (insurance) figures seen."
+    - "Bajaj Finance Q2 (6,367 cr, up 29%) from our own Oct 19 story. No share price move or management quotes found at time of writing; no segment (insurance) figures seen."
 ---
 
 Bajaj Finserv, the holding company for Bajaj Finance and the group's insurance businesses, reported **a 22.9% rise in quarterly profit** on Tuesday, as its lending arm kept up the pace of growth.
@@ -62,7 +62,7 @@ Net interest income, the gap between what the group earns on loans and pays on b
 
 ## The lender does the heavy lifting
 
-Much of the gain traces back to Bajaj Finance, India's largest consumer lender, which reported its own numbers on 19 October. That company's profit **rose 29% to ₹6,367 crore** in the quarter, and it raised its loan growth forecast for the year, though it warned that further interest rate rises could squeeze its margins.
+Much of the gain traces back to Bajaj Finance, India's largest consumer lender, which reported its own numbers on October 19. That company's profit **rose 29% to ₹6,367 crore** in the quarter, and it raised its loan growth forecast for the year, though it warned that further interest rate rises could squeeze its margins.
 
 The Reserve Bank of India raised the repo rate by 25 basis points in October, pushing up borrowing costs for non-bank lenders. Bajaj Finserv's results suggest the group has so far grown its loan book fast enough to stay ahead of that pressure.
 

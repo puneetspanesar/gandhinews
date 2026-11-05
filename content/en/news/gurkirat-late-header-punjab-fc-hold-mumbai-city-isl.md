@@ -47,4 +47,4 @@ The first 45 minutes were goalless but not without incident. Rishikanta Meitei t
 
 At the other end, Punjab keeper Arshdeep Singh rushed off his line to deny Brandon Fernandes, and Khaiminthang Lhungdim hit the woodwork in first-half stoppage time.
 
-Mumbai brought on Tluanga and Wilmar Jordan after taking the lead, but could not see the game out. For Punjab, it was a second late show in a week, after Messi Bouli scored in the last minute to beat Odisha FC on 14 October.
+Mumbai brought on Tluanga and Wilmar Jordan after taking the lead, but could not see the game out. For Punjab, it was a second late show in a week, after Messi Bouli scored in the last minute to beat Odisha FC on October 14.

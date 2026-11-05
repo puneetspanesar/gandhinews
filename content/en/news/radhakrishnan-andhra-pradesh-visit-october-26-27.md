@@ -10,7 +10,7 @@ standfirst: "C P Radhakrishnan begins a two-day visit on Monday. He is chief gue
 published: 2026-10-25T17:45:00+05:30
 location: Vijayawada
 keyPoints:
-  - "Vice-President C P Radhakrishnan is in Andhra Pradesh on **26 and 27 October**."
+  - "Vice-President C P Radhakrishnan is in Andhra Pradesh on **October 26 and 27**."
   - "He is chief guest at the **40th anniversary** of Dr NTR University of Health Sciences in Vijayawada."
   - "He will offer prayers at **Sri Venkateswara Swamy Temple** in Tirupati and the Padmavathi temple at Tiruchanur."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Vijayawada, then Tirupati"
 related: []
 seo:
-  description: "Vice-President C P Radhakrishnan visits Andhra Pradesh on 26 and 27 October 2026 for the 40th anniversary of Dr NTR University of Health Sciences and the Tirupati temples."
+  description: "Vice-President C P Radhakrishnan visits Andhra Pradesh on October 26 and 27, 2026 for the 40th anniversary of Dr NTR University of Health Sciences and the Tirupati temples."
 sources:
   - title: "Vice President C. P. Radhakrishnan to Visit Andhra Pradesh from Tomorrow"
     publisher: "News On AIR"
@@ -42,15 +42,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "AIR item 5:43 pm, 25 Oct. Dates 26-27 Oct from PIB release listing title (Vice-President's Secretariat); the release text itself could not be fetched."
+    - "AIR item 5:43 pm, Oct 25. Dates Oct 26-27 from PIB release listing title (Vice-President's Secretariat); the release text itself could not be fetched."
     - "Neither source says which event falls on which day, or gives times. Copy avoids assigning days."
-    - "November 2025 Puttaparthi visit from AIR item of 21 Nov 2025. A search result also showed an April 2026 AIR item on him attending Andhra University centenary in Visakhapatnam (not read), so copy does not call Nov 2025 his last visit."
+    - "November 2025 Puttaparthi visit from AIR item of Nov 21, 2025. A search result also showed an April 2026 AIR item on him attending Andhra University centenary in Visakhapatnam (not read), so copy does not call Nov 2025 his last visit."
     - "No other attendees named. Andhra Pradesh state ministers' attendance not confirmed; left out."
 ---
 
 Vice-President C P Radhakrishnan begins a two-day visit to Andhra Pradesh on Monday, with a university anniversary in Vijayawada and temple visits in the Tirupati region on his programme.
 
-In Vijayawada he is to be chief guest at the 40th anniversary celebrations of Dr NTR University of Health Sciences. The two-day trip runs on 26 and 27 October according to the Vice-President's Secretariat.
+In Vijayawada he is to be chief guest at the 40th anniversary celebrations of Dr NTR University of Health Sciences. The two-day trip runs on October 26 and 27 according to the Vice-President's Secretariat.
 
 He will also offer prayers at the Sri Venkateswara Swamy Temple in Tirupati and at the Sri Padmavathi Ammavari Temple in Tiruchanur.
 

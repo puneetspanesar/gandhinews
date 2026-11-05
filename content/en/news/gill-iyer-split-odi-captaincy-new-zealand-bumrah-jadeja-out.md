@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Squads from The Tribune (ANI). ODI dates and 7:30 am IST start times from NewsX; Auckland 4 Nov and Mount Maunganui 13 and 15 Nov confirmed by Tribune and NewsMill too."
+    - "Squads from The Tribune (ANI). ODI dates and 7:30 am IST start times from NewsX; Auckland Nov 4 and Mount Maunganui Nov 13 and 15 confirmed by Tribune and NewsMill too."
     - "No reason given anywhere read for Bumrah's absence or Jadeja's omission. NewsX says Bumrah was 'rested'; not used, copy says only that he is not in the ODI squads."
     - "Test series dates and venues not found; left out. Dateline Mumbai assumed (BCCI HQ); no venue for the announcement was reported."
 ---
@@ -53,7 +53,7 @@ The biggest absentees from the one-day side are Jasprit Bumrah and Ravindra Jade
 
 ## Two squads for one series
 
-Iyer is Gill's vice-captain for the first three matches, in Auckland on 4 November, Wellington on 7 November and Hamilton on 10 November. He then leads a reshaped group in Mount Maunganui on 13 and 15 November, with Ishan Kishan as his deputy. All five games are scheduled to start at 7:30 am IST.
+Iyer is Gill's vice-captain for the first three matches, in Auckland on November 4, Wellington on November 7 and Hamilton on November 10. He then leads a reshaped group in Mount Maunganui on November 13 and 15, with Ishan Kishan as his deputy. All five games are scheduled to start at 7:30 am IST.
 
 Rohit Sharma and Virat Kohli are in both squads, as are Axar Patel, Kuldeep Yadav, Mohammed Siraj and Arshdeep Singh. Prasidh Krishna's place for the first three games depends on a fitness clearance. For the last two, Tilak Varma, Auqib Nabi, Kumar Kushagra and Yash Thakur come in, while Gill, KL Rahul, Anshul Kamboj and Prasidh drop out.
 
@@ -67,4 +67,4 @@ Gill also leads the Test side, with KL Rahul as vice-captain. Rishabh Pant is na
 
 **Tests:** Shubman Gill (captain), Yashasvi Jaiswal, KL Rahul (vice-captain), Devdutt Padikkal, Rishabh Pant (wicketkeeper, subject to fitness), Dhruv Jurel (wicketkeeper), Ravindra Jadeja, Anshul Kamboj, Jasprit Bumrah, Prasidh Krishna, Akash Deep, Sai Sudharsan, Nitish Kumar Reddy, Washington Sundar, Kuldeep Yadav, Mohammed Siraj.
 
-Before any of that, India play five T20Is in New Zealand from 22 October in Christchurch, and they first have to finish the home series against West Indies, which is level at 2-2 going into Saturday's decider in Bengaluru.
+Before any of that, India play five T20Is in New Zealand from October 22 in Christchurch, and they first have to finish the home series against West Indies, which is level at 2-2 going into Saturday's decider in Bengaluru.

@@ -30,7 +30,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Bloomberg via Business Standard, 12:39 pm IST, 14 Oct). Published time set to 5:15 pm to fit the run window. ASML's own results release not read."
+    - "Single source (Bloomberg via Business Standard, 12:39 pm IST, Oct 14). Published time set to 5:15 pm to fit the run window. ASML's own results release not read."
     - "Bookings and net profit not reported in source; left out."
     - "Analyst average €11.7bn from source."
 ---

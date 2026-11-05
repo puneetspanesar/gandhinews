@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Al Jazeera (22 Oct, 9:00 GMT). Government spokesperson Majid al-Nazili's figures (835 operations, 285 Houthis killed or injured) are his claims, not independently confirmed; attributed. OCHA report released late Wednesday; OHCHR-verified casualty figures and 174,000 reached via OCHA. Dammam toll of two from Saudi civil aviation authority, Thursday."
+    - "Al Jazeera (Oct 22, 9:00 GMT). Government spokesperson Majid al-Nazili's figures (835 operations, 285 Houthis killed or injured) are his claims, not independently confirmed; attributed. OCHA report released late Wednesday; OHCHR-verified casualty figures and 174,000 reached via OCHA. Dammam toll of two from Saudi civil aviation authority, Thursday."
 ---
 
 Fighting between Yemen's internationally recognised government and the Houthis has intensified in Taiz province, and the United Nations says nearly 260,000 people have been forced from their homes across the country since August.

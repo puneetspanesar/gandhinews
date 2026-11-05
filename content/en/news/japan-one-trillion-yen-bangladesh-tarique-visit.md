@@ -11,7 +11,7 @@ published: 2026-10-23T21:40:00+05:30
 location: Dhaka
 keyPoints:
   - "Japan will invest **one trillion yen, about $6.35 billion**, in Bangladesh's private sector over five years."
-  - "Tarique Rahman visits Japan **from 26 to 29 October** and meets Sanae Takaichi on 27 October."
+  - "Tarique Rahman visits Japan **from October 26 to 29** and meets Sanae Takaichi on October 27."
   - "About **eight agreements** are being prepared, covering farming, fisheries, skills and civil aviation."
 hero:
   need: "Bangladesh Foreign Secretary Asad Alam Siam, or the Matarbari deep-sea port site"
@@ -22,7 +22,7 @@ hero:
     value: "¥1 trillion on the table"
 related: [tarique-rahman-japan-visit-takaichi-matarbari-northeast-india, japan-big-b-india-reinclusion-tarique-rahman-tokyo]
 seo:
-  description: "Japan plans to invest ¥1 trillion ($6.35 billion) in Bangladesh's private sector over five years, to be announced during Tarique Rahman's 26-29 October visit."
+  description: "Japan plans to invest ¥1 trillion ($6.35 billion) in Bangladesh's private sector over five years, to be announced during Tarique Rahman's October 26-29 visit."
 sources:
   - title: "Japan to invest Tk 774.7 billion in Bangladesh"
     publisher: "Prothom Alo"
@@ -37,17 +37,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "¥1 trillion figure first reported by Nikkei Asia on Thursday, as carried by Prothom Alo (updated 23 Oct, 03:22). Nikkei itself not read. Not yet confirmed by either government, so attributed as expected."
-    - "Siam quotes verbatim from BSS via Dhaka Tribune (9:27 pm, 23 Oct). Prothom Alo says Takaichi hosts a dinner; BSS says a luncheon. Meal omitted."
-    - "Talks on Tuesday 27 October; departure Monday 26 October (both sources). MRT cost rises from BSS."
-    - "India paragraph rests on the existing Gandhi News stories of 21 and 22 October (Matarbari link to northeast India; BIG-B re-inclusion)."
+    - "¥1 trillion figure first reported by Nikkei Asia on Thursday, as carried by Prothom Alo (updated Oct 23, 03:22). Nikkei itself not read. Not yet confirmed by either government, so attributed as expected."
+    - "Siam quotes verbatim from BSS via Dhaka Tribune (9:27 pm, Oct 23). Prothom Alo says Takaichi hosts a dinner; BSS says a luncheon. Meal omitted."
+    - "Talks on Tuesday, October 27; departure Monday, October 26 (both sources). MRT cost rises from BSS."
+    - "India paragraph rests on the existing Gandhi News stories of October 21 and 22 (Matarbari link to northeast India; BIG-B re-inclusion)."
 ---
 
 Japan is preparing to commit one trillion yen, about $6.35 billion, to Bangladesh's private sector over five years, with the announcement expected when Prime Minister Tarique Rahman meets Sanae Takaichi in Tokyo next week.
 
 The money is meant for car making and other manufacturing, power and energy projects, and the Bangladesh Special Economic Zone being built with the Japanese trading house Sumitomo Corporation. It was first reported in Japan on Thursday and is expected to be set out in a joint statement after the summit. Neither government has confirmed the figure.
 
-Tarique Rahman leaves for a four-day visit on Monday, 26 October, at Takaichi's invitation, and the two leaders hold talks at her office the next day. His programme includes a keynote at a Japan-Bangladesh economic forum, meetings with the heads of JICA, JBIC and JETRO, and visits to an LNG terminal and power plant in Chiba and a Toyota factory in Nagoya.
+Tarique Rahman leaves for a four-day visit on Monday, October 26, at Takaichi's invitation, and the two leaders hold talks at her office the next day. His programme includes a keynote at a Japan-Bangladesh economic forum, meetings with the heads of JICA, JBIC and JETRO, and visits to an LNG terminal and power plant in Chiba and a Toyota factory in Nagoya.
 
 ## "Lower interest rates from all countries"
 

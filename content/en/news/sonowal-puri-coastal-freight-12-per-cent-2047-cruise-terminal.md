@@ -32,7 +32,7 @@ infographic:
   source: "Ministry of Ports, Shipping and Waterways, November 3, 2026"
 related: []
 seo:
-  description: "Sarbananda Sonowal told a parliamentary consultative committee in Puri on 3 November 2026 that coastal and inland waterways should carry 12% of India's freight by 2047, and announced a Puri cruise terminal."
+  description: "Sarbananda Sonowal told a parliamentary consultative committee in Puri on November 3, 2026, that coastal and inland waterways should carry 12% of India's freight by 2047, and announced a Puri cruise terminal."
 sources:
   - title: "Union Minister Sonowal outlines plan to double coastal, waterway freight share to 12% by 2047"
     publisher: "ANI"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov IST, Consultative Committee meeting in Puri (time of meeting not given); ministry details released and reported by ANI at 11:08 pm IST. Meeting itself may have been earlier in the day; the release is in the window."
+    - "event: Nov 3 IST, Consultative Committee meeting in Puri (time of meeting not given); ministry details released and reported by ANI at 11:08 pm IST. Meeting itself may have been earlier in the day; the release is in the window."
     - "Single source (ANI, apparently from ministry release). All figures as reported: 6% to 12% by 2047, 1 million cruise passengers by 2029, Rs 1,500 crore Puri terminal ('likely'), NW-5 over Rs 13,000 crore, coastal cargo 74 to 177 MMT, 4,62,661 cruise passengers and 212 vessel calls in 2025-26, 5.6 lakh jobs."
     - "MPs and the secretary not named in the source; left unnamed."
 ---

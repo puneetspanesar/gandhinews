@@ -47,15 +47,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Shokeen video facts (viral 20 October; words 'chinky', 'China president', 'Michael Jackson'; Pradyot Kishore Manikya Debbarma 'insult to the people'; Jitendra Chaudhury 'immediate, strict, and exemplary action'; Birajit Sinha citing Anjel Chakma) from Outlook/PTI. 'Unwanted physical contact' alleged per UNI (paywalled excerpt)."
-    - "Arrest at Karol Bagh on Thursday 22 October, five days' police custody on 24 October, apology then claim that the clip was scripted, earlier FIRs, from the desk's 24 October story."
-    - "Anjel Chakma (spelt Angel in some reports; Anjel used, per Outlook and The Federal): 24, MBA student from Tripura, attacked at Selaqui, Dehradun, on 9 December 2025, died 26 December after 17 days in hospital; quote 'We are not Chinese, we are Indians' is reported, not from a recording; Uttarakhand Police said the clash was not racially motivated; father alleges police first called it a 'minor matter'; five arrested including two juveniles, prime accused at large at time of report. From The Logical Indian and The Federal. Current status of the Chakma case not checked in this run."
+    - "Editorial view of the desk. Shokeen video facts (viral October 20; words 'chinky', 'China president', 'Michael Jackson'; Pradyot Kishore Manikya Debbarma 'insult to the people'; Jitendra Chaudhury 'immediate, strict, and exemplary action'; Birajit Sinha citing Anjel Chakma) from Outlook/PTI. 'Unwanted physical contact' alleged per UNI (paywalled excerpt)."
+    - "Arrest at Karol Bagh on Thursday, October 22, five days' police custody on October 24, apology then claim that the clip was scripted, earlier FIRs, from the desk's October 24 story."
+    - "Anjel Chakma (spelt Angel in some reports; Anjel used, per Outlook and The Federal): 24, MBA student from Tripura, attacked at Selaqui, Dehradun, on December 9, 2025, died December 26 after 17 days in hospital; quote 'We are not Chinese, we are Indians' is reported, not from a recording; Uttarakhand Police said the clash was not racially motivated; father alleges police first called it a 'minor matter'; five arrested including two juveniles, prime accused at large at time of report. From The Logical Indian and The Federal. Current status of the Chakma case not checked in this run."
     - "Bezbaruah committee (2014, after Nido Taniam's death; anti-racial law or IPC amendment; cognisable, non-bailable; 60-day investigation, 90-day trial; SPUNER and helpline 1093 in Delhi only) and Alana Golmei quotes from The Federal. Publication date of The Federal piece approximate (January 2026)."
     - "Which BNS sections Delhi Police have used against Shokeen was not found; copy does not name them."
     - "Recommendations are the desk's own."
 ---
 
-In a video that spread on social media on 20 October, an Instagram creator calls a young man from Tripura "chinky", "China president" and "Michael Jackson", for the entertainment of strangers. Two days later Delhi Police arrested Amir Shokeen at Karol Bagh, and on Saturday a court gave them five days to question him.
+In a video that spread on social media on October 20, an Instagram creator calls a young man from Tripura "chinky", "China president" and "Michael Jackson", for the entertainment of strangers. Two days later Delhi Police arrested Amir Shokeen at Karol Bagh, and on Saturday a court gave them five days to question him.
 
 The arrest is right, and the reaction from Tripura was swift and cross-party. Tipra Motha founder Pradyot Kishore Manikya Debbarma called the clip an "insult to the people" of the state. The CPI(M)'s Jitendra Chaudhury, Leader of the Opposition, asked for "immediate, strict, and exemplary action". But an arrest in one viral case is not a policy, and the country has had twelve years to make one.
 

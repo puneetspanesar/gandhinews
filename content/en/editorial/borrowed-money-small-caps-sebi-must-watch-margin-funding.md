@@ -9,7 +9,7 @@ title: "This week's small-cap rout was a warning. SEBI should rein in borrowed m
 standfirst: "Margin calls helped drive the Nifty Smallcap 100 down 7.4% in a week. Lending to buy shares has grown far faster than the safeguards around it, and SEBI's June proposals would let it grow further. The regulator should look at the risk first."
 published: 2026-10-24T15:05:00+05:30
 keyPoints:
-  - "Leveraged equity positions stood close to a **record ₹1.6 lakh crore** on 30 September."
+  - "Leveraged equity positions stood close to a **record ₹1.6 lakh crore** on September 30."
   - "About half of the NSE's margin book in May was in **stocks outside the futures segment**, often smaller and thinly traded."
   - "SEBI should **publish margin data by stock** and demand higher margins on less liquid shares before widening brokers' funding."
 hero:
@@ -57,9 +57,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Index falls (Smallcap 100 down 7.4% for the week, more than 10% below its high) and Ambareesh Baliga quote from the desk's 23 October story (Business Standard)."
-    - "NSE MTF book ₹1,22,151 crore on 15 May 2026, about half in non-F&O stocks, and Kamath's May quote from the desk's 24 October explainer (Wealthy). SEBI proposals (net worth ₹3 crore to ₹5 crore, 5.5 times net worth limit, NCD funding, higher margin kept for wrong-way risk) from the SEBI paper via that explainer and ETV Bharat."
-    - "₹1.6 lakh crore leveraged positions on 30 September, ₹3.2 lakh crore broker CP in 2026, 21% of CP issuance against about 4% in 2021, and 9-20% client rates from Business Today, which cites Bloomberg and Prime Database. Business Today does not call ₹1.6 lakh crore the MTF book; copy says 'leveraged equity positions'."
+    - "Editorial view of the desk. Index falls (Smallcap 100 down 7.4% for the week, more than 10% below its high) and Ambareesh Baliga quote from the desk's October 23 story (Business Standard)."
+    - "NSE MTF book ₹1,22,151 crore on May 15, 2026, about half in non-F&O stocks, and Kamath's May quote from the desk's October 24 explainer (Wealthy). SEBI proposals (net worth ₹3 crore to ₹5 crore, 5.5 times net worth limit, NCD funding, higher margin kept for wrong-way risk) from the SEBI paper via that explainer and ETV Bharat."
+    - "₹1.6 lakh crore leveraged positions on September 30, ₹3.2 lakh crore broker CP in 2026, 21% of CP issuance against about 4% in 2021, and 9-20% client rates from Business Today, which cites Bloomberg and Prime Database. Business Today does not call ₹1.6 lakh crore the MTF book; copy says 'leveraged equity positions'."
     - "Industry MTF book of ₹23,594 crore in March 2022 from Upstox, which cites Economic Times reports; used only as an approximate earlier level, compared loosely ('several times')."
     - "How much of this week's fall was due to margin calls is an analyst view; no liquidation data found. Whether SEBI has finalised the June paper was not checked."
     - "Recommendations are the desk's own."
@@ -71,7 +71,7 @@ That is a warning worth taking seriously, because the amount of borrowed money i
 
 ## How big the borrowing has become
 
-Leveraged equity positions stood close to a record ₹1.6 lakh crore on 30 September. The NSE's margin trading book alone was ₹1,22,151 crore in May, several times what the industry's book was in early 2022. About half of that NSE book sat in shares outside the futures and options segment, which tend to be smaller and less easily traded. Brokers have funded the boom partly with short-term borrowing: they raised about ₹3.2 lakh crore through commercial paper this year, around 21% of all such issuance, up from about 4% in 2021. Clients pay roughly 9% to 20% on the loans.
+Leveraged equity positions stood close to a record ₹1.6 lakh crore on September 30. The NSE's margin trading book alone was ₹1,22,151 crore in May, several times what the industry's book was in early 2022. About half of that NSE book sat in shares outside the futures and options segment, which tend to be smaller and less easily traded. Brokers have funded the boom partly with short-term borrowing: they raised about ₹3.2 lakh crore through commercial paper this year, around 21% of all such issuance, up from about 4% in 2021. Clients pay roughly 9% to 20% on the loans.
 
 The people running this business have said openly that it worries them. Nithin Kamath, co-founder of Zerodha, warned in May that "if markets crash, brokers could end up holding losses from MTF positions they can't exit."
 
@@ -85,7 +85,7 @@ All true. The case for caution rests on something narrower: matching the rules t
 
 ## What SEBI should do
 
-SEBI's consultation paper of 18 June was mostly about plumbing. It would raise the minimum net worth for brokers offering the facility to ₹5 crore, but it would also let them lend up to 5.5 times their net worth and fund the book by issuing bonds. To its credit, SEBI refused calls to cut the extra margin that guards against the risk of a stock serving as security for its own purchase. Before it finalises anything that lets brokers lend more, it should do four things.
+SEBI's consultation paper of June 18 was mostly about plumbing. It would raise the minimum net worth for brokers offering the facility to ₹5 crore, but it would also let them lend up to 5.5 times their net worth and fund the book by issuing bonds. To its credit, SEBI refused calls to cut the extra margin that guards against the risk of a stock serving as security for its own purchase. Before it finalises anything that lets brokers lend more, it should do four things.
 
 First, publish the data. Exchanges should release, every week, the size of the margin book by stock and by category, so investors and analysts can see where leverage is piled up.
 
@@ -98,5 +98,5 @@ Fourth, test the brokers. SEBI and the RBI should check how large brokers would 
 Borrowing to buy shares has its place. The system built around it has not yet been tested by a real crash, and the regulator should not wait for one to find out where it breaks.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"7.4%","label":"weekly fall in the Nifty Smallcap 100 to 23 October 2026"},{"value":"₹1.6 lakh crore","label":"leveraged equity positions on 30 September 2026, close to a record"},{"value":"21%","label":"brokers' share of commercial paper issuance in 2026, up from about 4% in 2021"}]}
+{"title":"The reporting behind this view","items":[{"value":"7.4%","label":"weekly fall in the Nifty Smallcap 100 to October 23, 2026"},{"value":"₹1.6 lakh crore","label":"leveraged equity positions on September 30, 2026, close to a record"},{"value":"21%","label":"brokers' share of commercial paper issuance in 2026, up from about 4% in 2021"}]}
 ```

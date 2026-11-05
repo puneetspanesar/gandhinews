@@ -22,7 +22,7 @@ hero:
     value: "\"See what happens at 2 pm\""
 related: [cjp-das-ranka-custody-extended-till-october-21, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench, cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party]
 seo:
-  description: "CJP leaders Saurav Das and Ashutosh Ranka withdrew their Delhi High Court plea against extended judicial custody on 21 October ahead of a 2 pm magistrate hearing."
+  description: "CJP leaders Saurav Das and Ashutosh Ranka withdrew their Delhi High Court plea against extended judicial custody on October 21 ahead of a 2 pm magistrate hearing."
 sources:
   - title: "Saurav Das, Ashutosh Ranka withdraw petition before Delhi High Court against judicial custody"
     publisher: "Bar & Bench"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Quotes from Justice Prasad per Bar & Bench and IANS (both 21 Oct). Outcome of the 2 pm SEM hearing not reported in any source seen by about 3:45 pm, so the copy says so."
+    - "Quotes from Justice Prasad per Bar & Bench and IANS (both Oct 21). Outcome of the 2 pm SEM hearing not reported in any source seen by about 3:45 pm, so the copy says so."
     - "Neha Bora details per PTI via ThePrint; outcome of her hearing not reported."
 ---
 
@@ -52,10 +52,10 @@ Justice Subramonium Prasad questioned why they had come to the High Court at all
 
 "Would it not be better for you to withdraw this, see what happens at 2 PM," the judge said. "Suppose things happen today in your favour at 4 PM, all gone."
 
-Their advocate, Abhik Chimni, had argued that the magistrate's order of 19 October was flawed at its root because the court had no power to extend their custody, and that it had wrongly recorded the position on sureties. "The order says no other surety is present," he told the court. After a short break he chose to withdraw. The judge allowed it and said he was expressing no view on the merits.
+Their advocate, Abhik Chimni, had argued that the magistrate's order of October 19 was flawed at its root because the court had no power to extend their custody, and that it had wrongly recorded the position on sureties. "The order says no other surety is present," he told the court. After a short break he chose to withdraw. The judge allowed it and said he was expressing no view on the merits.
 
-The pair have been held since 13 October, when they climbed the gate of Jantar Mantar a day after it was struck off the list of protest sites. On Monday Special Executive Magistrate Ritu Raj refused their sureties and extended their custody to Wednesday, saying their conduct "shows no respect for law". The result of Wednesday afternoon's hearing had not been made public by about 3:45 pm.
+The pair have been held since October 13, when they climbed the gate of Jantar Mantar a day after it was struck off the list of protest sites. On Monday Special Executive Magistrate Ritu Raj refused their sureties and extended their custody to Wednesday, saying their conduct "shows no respect for law". The result of Wednesday afternoon's hearing had not been made public by about 3:45 pm.
 
-The same judge also agreed to hear urgently a plea by AISA president Neha Bora against a police notice asking her to show why she should not sign a ₹10,000 bond "for keeping peace". She was detained on 16 October on her way to the party's "Lehra Do Tiranga" march and released the next day.
+The same judge also agreed to hear urgently a plea by AISA president Neha Bora against a police notice asking her to show why she should not sign a ₹10,000 bond "for keeping peace". She was detained on October 16 on her way to the party's "Lehra Do Tiranga" march and released the next day.
 
 "Saurav and Ashutosh should not spend a single minute behind bars," CJP legal affairs head Ratna Singh wrote on X on Tuesday.

@@ -12,7 +12,7 @@ location: Wainwright, Alberta
 keyPoints:
   - "Four service members died and **at least 39 people** were taken to hospital after the fire at CFB Wainwright."
   - "The army said a grass fire started during training with grenades and live ammunition and was driven by **uncommonly strong winds**."
-  - "The disaster came days before Alberta's **19 October vote** on starting the legal process towards secession."
+  - "The disaster came days before Alberta's **October 19 vote** on starting the legal process towards secession."
 hero:
   need: "Canadian Forces Base Wainwright in Alberta, its training area or main gate"
   suggested_source: "CFB Wainwright"
@@ -22,7 +22,7 @@ hero:
     value: "Four soldiers dead, 19 critical"
 related: [carney-urges-albertans-to-stay-united-before-vote, modi-carney-talks-india-canada-partnership]
 seo:
-  description: "Four Canadian soldiers were killed and 39 people hospitalised after a grass fire swept through CFB Wainwright in Alberta during live-fire training on 17 October."
+  description: "Four Canadian soldiers were killed and 39 people hospitalised after a grass fire swept through CFB Wainwright in Alberta during live-fire training on October 17."
 sources:
   - title: "Fire at Canadian military base kills at least four, injures dozens"
     publisher: "Al Jazeera"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera, updated 23:29 UTC on 18 October). Casualty figures attributed to Alberta Premier Danielle Smith as of Sunday."
+    - "Single source (Al Jazeera, updated 23:29 UTC on October 18). Casualty figures attributed to Alberta Premier Danielle Smith as of Sunday."
     - "Names of the dead as given in the source; spellings not cross-checked with the Department of National Defence."
     - "Carney quote shortened to avoid an em dash in the original wording; no words altered."
 ---

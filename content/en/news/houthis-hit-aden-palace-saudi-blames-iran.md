@@ -59,7 +59,7 @@ verification:
     - "Toll differs: health minister Qasim Mohammed Buhaibeh said 5 killed, 16 injured (Al Jazeera, ANI); government sources told Reuters at least 4 killed, 10 wounded (Dawn); Arab News said 2 security personnel killed. Story uses the health minister's figure and says two of the dead were guards (Reuters, Al Jazeera, Arab News agree on two guards/bodyguards)."
     - "Exact time of the strike not given in any source; 'Thursday'."
     - "'Five missiles' from Information Minister Moammar al-Eryani (Al Jazeera); Dawn says five missiles and drones."
-    - "'First on the complex since the civil war reignited in July' is Dawn/Reuters framing; Arab News calls it the second Houthi attack on Aden since 5 October (the first being Aden airport on 7 October)."
+    - "'First on the complex since the civil war reignited in July' is Dawn/Reuters framing; Arab News calls it the second Houthi attack on Aden since October 5 (the first being Aden airport on October 7)."
     - "Al-Alimi's words are short phrases quoted by ANI; Saree's quotes from ANI and Dawn."
     - "Coalition figures (20 attacks on King Khalid airport in October, 17 dead, 333 wounded) from Dawn; Al Jazeera says 'more than 300' injured over 11 days."
     - "No Iranian response to the Saudi accusation in sources."
@@ -70,7 +70,7 @@ Houthi missiles slammed into the al-Maashiq presidential palace in Aden on Thurs
 
 Information Minister Moammar al-Eryani said the complex was hit by five missiles. Two of the dead were bodyguards attached to the security detail of Prime Minister Shaya al-Zandani. The government said the prime minister and cabinet ministers were unharmed, and residents described loud explosions and thick smoke rising over the palace.
 
-It was the first strike on the palace complex since Yemen's civil war reignited in July, after a UN-brokered truce collapsed. Earlier this month, on 7 October, the Houthis fired ballistic missiles and drones at Aden airport, forcing flights to divert.
+It was the first strike on the palace complex since Yemen's civil war reignited in July, after a UN-brokered truce collapsed. Earlier this month, on October 7, the Houthis fired ballistic missiles and drones at Aden airport, forcing flights to divert.
 
 ## What each side said
 

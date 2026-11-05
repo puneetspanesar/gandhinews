@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 02:30 to 03:30 IST (Saturday 31 Oct 15:00 local session, 21:00 UTC; RaceFans report posted 22:16 GMT = 03:46 IST). Session start inferred from Yahoo placeholder stamped 20:00 UTC and standard Saturday slot."
+    - "event: Nov 1 about 02:30 to 03:30 IST (Saturday, Oct 31 15:00 local session, 21:00 UTC; RaceFans report posted 22:16 GMT = 03:46 IST). Session start inferred from Yahoo placeholder stamped 20:00 UTC and standard Saturday slot."
     - "Q3 times, 0.009s gap, grid penalties (Verstappen and Lawson one place each for practice collision), Piastri out in Q2, Alonso out in Q1 with water pressure loss and reprimand, Hirakawa for Ocon, last pole 2023 Hungary: RaceFans. Qualifying order confirmed by The Race (Verstappen 4th, Antonelli 5th before penalty)."
     - "Title scenario (ninth place enough even if Russell wins) from Yahoo preview text and our Austin story (123-point lead, 125 available after Austin). No driver quotes found from 2026 session; a motorsport.com quote piece turned out to be 2025 and was not used."
     - "Race start time in IST not stated to readers; not confirmed."

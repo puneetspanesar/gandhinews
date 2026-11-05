@@ -22,7 +22,7 @@ hero:
     value: "Nifty reclaims 23,000"
 related: [week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, sensex-nifty-close-october-23-smallcaps-crash-metals, fii-net-sellers-2697-crore-week-dii-buy-10942-crore, jio-platforms-lists-21-per-cent-premium-1358, fed-holds-rates-3-75-4-two-dissent-hike]
 seo:
-  description: "Sensex and Nifty weekly wrap, 26-30 October 2026: Sensex up 1,335.70 points to 74,459.53, Nifty at 23,053.10, pharma leads, FIIs turn net buyers, Jio lists."
+  description: "Sensex and Nifty weekly wrap, October 26-30, 2026: Sensex up 1,335.70 points to 74,459.53, Nifty at 23,053.10, pharma leads, FIIs turn net buyers, Jio lists."
 sources:
   - title: "Weekly Stock Market Review, October 26-30, 2026: Nifty reclaims 23,053 as pharma surges, Jio Platforms lists at 21% premium, FIIs return"
     publisher: "HDFC Sky"
@@ -43,18 +43,18 @@ verification:
   status: approved
   notes:
     - "Closes: Sensex 74,459.53 (+308.49, 0.42% Fri), Nifty 23,053.10 (+116.35, 0.51% Fri) agree across HDFC Sky, Bombay Samachar and Navia."
-    - "Weekly change: HDFC Sky's Sensex base 73,123.83 matches our 23 Oct close story, so +1,335.70 (1.83%) is used. Navia's +1,173.61 rejected. Nifty: our 23 Oct story has 22,600, so the week's gain is 453.10 points (2.0%); Bombay Samachar says 'nearly 2%'. HDFC Sky and Navia's 2.59% rest on a 22,471 base that does not match; not used."
+    - "Weekly change: HDFC Sky's Sensex base 73,123.83 matches our Oct 23 close story, so +1,335.70 (1.83%) is used. Navia's +1,173.61 rejected. Nifty: our Oct 23 story has 22,600, so the week's gain is 453.10 points (2.0%); Bombay Samachar says 'nearly 2%'. HDFC Sky and Navia's 2.59% rest on a 22,471 base that does not match; not used."
     - "Small caps: Navia (Smallcap 100 +4%) and Bombay Samachar (smallcap index up more than 4%) agree; HDFC Sky had Smallcap 250 down 1.63%. Copy follows the two agreeing sources."
     - "FII weekly net buying ₹6,304.67 crore and 'nine straight weeks of selling' are Navia's (single source). Friday FII +₹3,598.54 crore and Thursday -₹943.60 crore are HDFC Sky's provisional figures."
     - "Pharma: HDFC Sky +6.10%, Navia 7%; copy says more than 6%."
     - "Brent: HDFC Sky $117.84 Friday after a Hormuz tanker attack; Navia 'above $113'. Copy uses 'above $113' only."
-    - "Equitas: HDFC Sky says 20% lower circuit on 29 Oct; Bombay Samachar says down over 6% on Friday 'amid reports' of MD and CEO resigning. Copy says shares fell sharply after the resignation."
+    - "Equitas: HDFC Sky says 20% lower circuit on Oct 29; Bombay Samachar says down over 6% on Friday 'amid reports' of MD and CEO resigning. Copy says shares fell sharply after the resignation."
     - "Reliance Q2 result (Navia only) left out."
 ---
 
 Indian shares ended October's last full trading week on a high. The Nifty 50 closed on Friday at 23,053.10, back above 23,000, after **a late-week rally led by drug makers**. The Sensex finished at 74,459.53, up 308.49 points on the day.
 
-Over the week the Sensex gained **1,335.70 points, or 1.83%**, from its close of 73,123.83 on 23 October. The Nifty rose about 2%, or 453 points. Smaller companies, battered the week before, bounced harder still, with the main small-cap indices up more than 4%.
+Over the week the Sensex gained **1,335.70 points, or 1.83%**, from its close of 73,123.83 on October 23. The Nifty rose about 2%, or 453 points. Smaller companies, battered the week before, bounced harder still, with the main small-cap indices up more than 4%.
 
 ## The day that turned it
 

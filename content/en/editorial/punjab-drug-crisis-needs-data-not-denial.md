@@ -47,12 +47,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Mann's Phillaur remarks (Punjabi line, BSF 50-km belt, Kandla 3,000 kg, anti-drone system) and the MHA letters from the desk's 16 October story, sourced to The Tribune, PTI and The Statesman."
-    - "NCRB 2023 figures (89 overdose deaths, highest for second year, down from 144; 25.3 trafficking cases per lakh, highest; 11,589 NDPS cases, third behind Kerala and Maharashtra) from The Tribune, 2 October 2025. NCRB report itself not opened."
-    - "Survey: launched 1 April 2026, ₹150 crore for 2026-27, Mann quote ('The idea is to understand the drug problem...') from The Tribune, 1 April. Target of 60.35 lakh households and extensions to 15 and probably 31 July, two months' analysis, findings to go to the Council of Ministers and possibly the Vidhan Sabha from The Tribune, 8 July. Copy uses 'about 65 lakh families' as announced."
-    - "That findings have not been published is the desk's reading: no report of released results was found in searches on 17 October. Copy says 'not public' rather than asserting a decision to withhold."
-    - "Undercount concerns (alcohol excluded, respondents avoiding questions, Dr Ritu Bala's methodology criticism) from Scroll, 2 June 2026."
-    - "79,784 arrests since March 2025 from the desk's 15 October editorial (DGP briefing of 14 September 2026)."
+    - "Editorial view of the desk. Mann's Phillaur remarks (Punjabi line, BSF 50-km belt, Kandla 3,000 kg, anti-drone system) and the MHA letters from the desk's October 16 story, sourced to The Tribune, PTI and The Statesman."
+    - "NCRB 2023 figures (89 overdose deaths, highest for second year, down from 144; 25.3 trafficking cases per lakh, highest; 11,589 NDPS cases, third behind Kerala and Maharashtra) from The Tribune, October 2, 2025. NCRB report itself not opened."
+    - "Survey: launched April 1, 2026, ₹150 crore for 2026-27, Mann quote ('The idea is to understand the drug problem...') from The Tribune, April 1. Target of 60.35 lakh households and extensions to 15 and probably July 31, two months' analysis, findings to go to the Council of Ministers and possibly the Vidhan Sabha from The Tribune, July 8. Copy uses 'about 65 lakh families' as announced."
+    - "That findings have not been published is the desk's reading: no report of released results was found in searches on October 17. Copy says 'not public' rather than asserting a decision to withhold."
+    - "Undercount concerns (alcohol excluded, respondents avoiding questions, Dr Ritu Bala's methodology criticism) from Scroll, June 2, 2026."
+    - "79,784 arrests since March 2025 from the desk's October 15 editorial (DGP briefing of September 14, 2026)."
     - "Recommendations are the desk's own."
 ---
 
@@ -74,7 +74,7 @@ These are crime and death figures, not a measure of addiction, and they can be r
 
 ## The survey nobody has seen
 
-Punjab has one. On 1 April Mann's government began a household Drug and Socio-Economic Survey of about 65 lakh families, with ₹150 crore set aside for it. "The idea is to understand the drug problem and then make targeted policies which will have better outcomes," the Chief Minister said. Data collection, first due by June, ran on into the summer. Officials said analysis would take about two more months. Six and a half months after the launch, no findings have been made public.
+Punjab has one. On April 1 Mann's government began a household Drug and Socio-Economic Survey of about 65 lakh families, with ₹150 crore set aside for it. "The idea is to understand the drug problem and then make targeted policies which will have better outcomes," the Chief Minister said. Data collection, first due by June, ran on into the summer. Officials said analysis would take about two more months. Six and a half months after the launch, no findings have been made public.
 
 There were concerns from the start. Enumerators reported that families were unwilling to admit drug use or name sellers. Alcohol, which critics of the survey say is the state's most common addiction, was left out. A social work professor at Punjabi University said the method broke basic research principles. Those doubts are reasons to publish the method and the results together, so that experts can judge them, not reasons to keep the numbers in a drawer until after an election.
 
@@ -89,5 +89,5 @@ Third, the Centre should match that openness. The BSF and the Narcotics Control 
 Punjab's families do not need to be told the problem is imaginary, or that it is all someone else's fault. They need to know how big it is, where it is worst, and whether what is being done is working.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"89","label":"overdose deaths recorded in Punjab in 2023, the highest of any state"},{"value":"25.3","label":"drug trafficking cases per lakh people in Punjab in 2023, the highest rate in India"},{"value":"65 lakh","label":"families in the household drug survey launched on 1 April 2026, whose findings are not yet public"}]}
+{"title":"The reporting behind this view","items":[{"value":"89","label":"overdose deaths recorded in Punjab in 2023, the highest of any state"},{"value":"25.3","label":"drug trafficking cases per lakh people in Punjab in 2023, the highest rate in India"},{"value":"65 lakh","label":"families in the household drug survey launched on April 1, 2026, whose findings are not yet public"}]}
 ```

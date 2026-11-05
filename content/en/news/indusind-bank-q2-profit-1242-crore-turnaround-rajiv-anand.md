@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Profit, year-ago loss ₹437 crore, NII, NIM 3.23% (from 3.32%), share close ₹835 (-1.76%), results after market hours from Business Today (5:01 pm IST). Business Today does not say standalone or consolidated."
-    - "Provisions, Q1 normalised profit ₹824 crore, GNPA/NNPA vs 30 June, deposits, advances, CASA, CRAR from EquityBulls (5:51 pm IST, citing bank release). Business Today gives GNPA comparison 3.60% (apparently year-ago); copy uses June-quarter comparison from EquityBulls."
+    - "Provisions, Q1 normalised profit ₹824 crore, GNPA/NNPA vs June 30, deposits, advances, CASA, CRAR from EquityBulls (5:51 pm IST, citing bank release). Business Today gives GNPA comparison 3.60% (apparently year-ago); copy uses June-quarter comparison from EquityBulls."
     - "Anand quote identical in both sources. Other outlets show ₹1,176 crore and ₹1,241 crore (headlines only, not read); copy uses ₹1,242 crore given by the two sources read."
 ---
 

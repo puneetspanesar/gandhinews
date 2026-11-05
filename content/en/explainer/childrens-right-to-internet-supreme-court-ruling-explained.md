@@ -8,7 +8,7 @@ topics: [supreme-court, data-protection]
 title: "Children's right to the internet: what the Supreme Court has said, and what platforms must now do"
 standfirst: "Last week the Supreme Court held that access to the internet is a fundamental right of every person, children included, and ordered a national database to take down child abuse material. Where the right comes from, what it rules out, and what changes for families and tech companies."
 published: 2026-10-19T14:10:00+05:30
-shortAnswer: "In an order dated 15 October, Justices J B Pardiwala and K Vinod Chandran held that the right to access and use the internet flows from Article 21 read with Article 19(1)(a), and that children share it. Blanket bans that keep children offline because platforms fail to remove abuse material are not allowed, though proportionate safeguards such as parental controls or a 'child mode' are. The court told the Centre to build a National Hash & URL List Database of child sexual abuse material, tightened takedown and grievance duties for platforms, and wants digital safety and sex education in the school curriculum. The Centre must report progress before 10 December."
+shortAnswer: "In an order dated October 15, Justices J B Pardiwala and K Vinod Chandran held that the right to access and use the internet flows from Article 21 read with Article 19(1)(a), and that children share it. Blanket bans that keep children offline because platforms fail to remove abuse material are not allowed, though proportionate safeguards such as parental controls or a 'child mode' are. The court told the Centre to build a National Hash & URL List Database of child sexual abuse material, tightened takedown and grievance duties for platforms, and wants digital safety and sex education in the school curriculum. The Centre must report progress before December 10."
 hero:
   need: "NCERT headquarters in New Delhi, which the court wants to add digital safety to the curriculum"
   suggested_source: "NCERT New Delhi"
@@ -38,8 +38,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "2026 ruling details (bench, 15 Oct order date, Article 21 with 19(1)(a), quotes, hash database with three human analysts, two-step reporting, grievance officers, fines and forfeiture, NCERT curriculum, 10 Dec hearing, child mode as suggestion) from the desk's 17 Oct story and its sources (Bar & Bench, The Statesman). Judgment text not read."
-    - "Faheema Shirin (Justice P V Asha, Kerala HC, 19 Sept 2019; hostel phone ban 6 pm to 10 pm; Sree Narayana College, Chelanur) from LiveLaw."
+    - "2026 ruling details (bench, Oct 15 order date, Article 21 with 19(1)(a), quotes, hash database with three human analysts, two-step reporting, grievance officers, fines and forfeiture, NCERT curriculum, Dec 10 hearing, child mode as suggestion) from the desk's Oct 17 story and its sources (Bar & Bench, The Statesman). Judgment text not read."
+    - "Faheema Shirin (Justice P V Asha, Kerala HC, Sept 19, 2019; hostel phone ban 6 pm to 10 pm; Sree Narayana College, Chelanur) from LiveLaw."
     - "Anuradha Bhasin (Supreme Court, January 2020, protection of speech and trade over the internet under 19(1)(a) and 19(1)(g), no indefinite shutdowns) and the September 2024 Just Rights for Children judgment (storing or viewing such material can be an offence under POCSO; preference for the term CSEAM) are desk background knowledge, not re-read this run."
     - "Hash matching described in general terms (a digital fingerprint of a known file); standard, not taken from the order."
     - "No claim about how the ruling affects the DPDP Act's parental consent rules; not addressed in sources."
@@ -87,4 +87,4 @@ They must display the details of their grievance officers prominently, let users
 
 ## What happens next?
 
-The Centre must file a progress affidavit before the case returns on 10 December. As the bench put it: "The safety of our children and their freedom are not at odds with each other. Our children are entitled to both."
+The Centre must file a progress affidavit before the case returns on December 10. As the bench put it: "The safety of our children and their freedom are not at odds with each other. Our children are entitled to both."

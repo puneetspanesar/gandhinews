@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Kerala HC order (bench, three ministries, Apple, Google, four weeks, 11 November listing), July I4C order to GitHub and its reasoning, and SFLC.in quote from the desk's 18 Oct news story and its sources (MediaNama, Deccan Herald/PTI)."
-    - "Apple's notice citing a MeitY demand under Section 69A on the ground the app 'includes content that is illegal in India', and the order being unpublished, from the Internet Freedom Foundation post of 3 Oct (IFF quotes Apple's notice; notice not seen directly)."
+    - "Editorial view of the desk. Kerala HC order (bench, three ministries, Apple, Google, four weeks, November 11 listing), July I4C order to GitHub and its reasoning, and SFLC.in quote from the desk's Oct 18 news story and its sources (MediaNama, Deccan Herald/PTI)."
+    - "Apple's notice citing a MeitY demand under Section 69A on the ground the app 'includes content that is illegal in India', and the order being unpublished, from the Internet Freedom Foundation post of Oct 3 (IFF quotes Apple's notice; notice not seen directly)."
     - "Shreya Singhal (2015) safeguards, Rule 8 hearing, Tanul Thakur (Delhi HC, 2022) and Anuradha Bhasin (2020) as summarised by IFF; Rule 9 emergency blocking, Rule 16 confidentiality, RTI refusals, X Corp ruling in Karnataka HC and the SFLC.in petition on which the Supreme Court issued notice in March 2025 from Verfassungsblog (Rahul Pallipurath). Judgments themselves not opened."
     - "No official figures on the number of blocking orders were found; none used."
     - "Recommendations are the desk's own."

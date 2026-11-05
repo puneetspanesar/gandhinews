@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 13 Oct. No Meta spokesperson quoted; no availability, country or rollout details given, so India availability not stated."
+    - "Single source: TechCrunch, Oct 13. No Meta spokesperson quoted; no availability, country or rollout details given, so India availability not stated."
     - "Instagram timeline: Reels December 2025, extended to Feed and Explore June 2026, per TechCrunch."
 ---
 

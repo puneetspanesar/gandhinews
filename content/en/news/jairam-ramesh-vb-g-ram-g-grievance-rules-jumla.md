@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Jairam Ramesh called the new grievance rules **\"yet another jumla\"** on Wednesday."
   - "He said the **penalty for missing deadlines and the FIR clause** were deleted from the draft."
-  - "The rural development ministry **notified the rules on 2 November**."
+  - "The rural development ministry **notified the rules on November 2**."
 hero:
   need: "Congress general secretary Jairam Ramesh speaking"
   suggested_source: "Jairam Ramesh"
@@ -28,7 +28,7 @@ cover:
 infographic:
   kicker: "VB-G RAM G grievance rules"
   headline: "What the Congress says was dropped"
-  dek: "Draft of May 2026 against rules notified on 2 November"
+  dek: "Draft of May 2026 against rules notified on November 2"
   motif: file-text
   stats:
     - {icon: clock, value: "15 days", label: "escalation still mandatory, but not explicitly automatic"}
@@ -36,7 +36,7 @@ infographic:
   source: "Jairam Ramesh on X, November 4, 2026"
 related: []
 seo:
-  description: "Jairam Ramesh says the VB-G RAM G grievance rules notified on 2 November dropped penalties, FIR provisions and grievance desks from the May draft."
+  description: "Jairam Ramesh says the VB-G RAM G grievance rules notified on November 2 dropped penalties, FIR provisions and grievance desks from the May draft."
 sources:
   - title: "'Yet another jumla': Cong slams Modi govt on VB-G RAM G grievance redressal rules (PTI)"
     publisher: "ThePrint"
@@ -51,13 +51,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 18:46 IST, ThePrint/PTI copy timestamp (13:16 UTC) of Jairam Ramesh's X post; exact time of the post itself not given. UNI digest 1900 hrs also carries the item (paywalled)."
-    - "All draft-vs-final comparisons are Ramesh's claims as reported by PTI; ministry's response not found. Business Standard piece (2 Nov) seen in search results only, not fetched."
+    - "event: Nov 4 18:46 IST, ThePrint/PTI copy timestamp (13:16 UTC) of Jairam Ramesh's X post; exact time of the post itself not given. UNI digest 1900 hrs also carries the item (paywalled)."
+    - "All draft-vs-final comparisons are Ramesh's claims as reported by PTI; ministry's response not found. Business Standard piece (Nov 2) seen in search results only, not fetched."
 ---
 
 The Congress on Wednesday accused the Centre of hollowing out the complaint system for rural workers, with general secretary Jairam Ramesh calling the new grievance rules under the VB-G RAM G Act **"yet another jumla"**.
 
-The Union Ministry of Rural Development **notified the grievance redressal rules on 2 November**. Ramesh, who is in charge of communications for the party, said in a post on X that the final version had quietly dropped many of the protections promised in the draft rules published in May. Workers' rights, he said, "will remain on paper/in the cloud."
+The Union Ministry of Rural Development **notified the grievance redressal rules on November 2**. Ramesh, who is in charge of communications for the party, said in a post on X that the final version had quietly dropped many of the protections promised in the draft rules published in May. Workers' rights, he said, "will remain on paper/in the cloud."
 
 ## What he says went missing
 
@@ -69,6 +69,6 @@ Escalation of complaints after 15 days stays mandatory, but **no longer explicit
 
 ## A running fight
 
-Ramesh also said millions of workers are unable to mark attendance on the National Mobile Monitoring System or receive wages through the Aadhaar-Based Payment System. The VB-G RAM G Act **replaced MGNREGA on 1 July**, and the Congress has opposed the overhaul from the start.
+Ramesh also said millions of workers are unable to mark attendance on the National Mobile Monitoring System or receive wages through the Aadhaar-Based Payment System. The VB-G RAM G Act **replaced MGNREGA on July 1**, and the Congress has opposed the overhaul from the start.
 
 The government had not responded to his criticism by Wednesday evening.

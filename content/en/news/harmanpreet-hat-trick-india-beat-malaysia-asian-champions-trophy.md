@@ -22,7 +22,7 @@ hero:
     value: "Harmanpreet treble, India 4 Malaysia 2"
 related: [india-retain-asian-games-hockey-squad-champions-trophy, hockey-veterans-shocked-by-reported-retirement-plan]
 seo:
-  description: "India beat Malaysia 4-2 in the Asian Champions Trophy hockey in Jalandhar on 1 November 2026, with captain Harmanpreet Singh scoring a hat-trick and Sukhjeet Singh the other goal. India top the table with 12 points."
+  description: "India beat Malaysia 4-2 in the Asian Champions Trophy hockey in Jalandhar on November 1, 2026, with captain Harmanpreet Singh scoring a hat-trick and Sukhjeet Singh the other goal. India top the table with 12 points."
 sources:
   - title: "Asian Champions Trophy: Harmanpreet's hat-trick powers India to victory over Malaysia"
     publisher: "IANS"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, match ended shortly before the IANS report posted at 22:52 IST (metadata 17:25 UTC = 22:55 IST); kickoff time not in source. Single source (IANS) for all match detail."
+    - "event: Nov 1, match ended shortly before the IANS report posted at 22:52 IST (metadata 17:25 UTC = 22:55 IST); kickoff time not in source. Single source (IANS) for all match detail."
     - "Malaysian defender who got the late yellow card is spelt two ways in source (Aminul Azhar / Amirul Azahar); not named in copy. Marhan's full name not given; used as in source."
     - "Harmanpreet's eight-goal tournament tally, Player of the Match award and table (India 12 pts GD +21, Malaysia 9, Japan 7, South Korea 6; all four through to semis) from IANS. Quotes from IANS."
 ---

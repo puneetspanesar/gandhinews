@@ -22,7 +22,7 @@ hero:
     value: "4.9% off every ministry"
 related: [ronen-bar-sues-netanyahu-defamation-october-7, settlers-attack-european-diplomats-taybeh-west-bank, rabbi-dov-lior-olive-ruling-draws-rabbinic-backlash]
 seo:
-  description: "Israel's government approved NIS 2.6 billion in across-the-board ministry cuts for defence on 18 October, nine days before the 27 October election."
+  description: "Israel's government approved NIS 2.6 billion in across-the-board ministry cuts for defence on October 18, nine days before the October 27 election."
 sources:
   - title: "Liveblog, October 18, 2026"
     publisher: "The Times of Israel"
@@ -37,7 +37,7 @@ verification:
     - "Galia Albin: source notes she appears not to have made the comments Netanyahu cited; copy says so."
 ---
 
-Israel's government on Sunday approved NIS 2.6 billion (about $840 million) in across-the-board cuts to ministry budgets to pay for urgent defence purchases, nine days before the country votes on 27 October.
+Israel's government on Sunday approved NIS 2.6 billion (about $840 million) in across-the-board cuts to ministry budgets to pay for urgent defence purchases, nine days before the country votes on October 27.
 
 Every ministry will lose 4.9% of its budget, with education, health, welfare and transport among those hit. The discretionary funds that coalition parties use for their own priorities were left untouched.
 

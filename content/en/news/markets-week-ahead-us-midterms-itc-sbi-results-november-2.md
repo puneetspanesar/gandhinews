@@ -22,7 +22,7 @@ hero:
     value: "Results, a US vote and oil at $117"
 related: [sensex-nifty-week-october-30-pharma-fii-return, tata-steel-postpones-q2-results-to-november-7, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
-  description: "Week ahead for Indian markets, 2-6 November 2026: ITC, SBI, NSE, BSE, Airtel, Titan and Hindalco results, US midterms on 3 November, Brent above $117, FII buying and Nifty levels."
+  description: "Week ahead for Indian markets, November 2-6, 2026: ITC, SBI, NSE, BSE, Airtel, Titan and Hindalco results, US midterms on November 3, Brent above $117, FII buying and Nifty levels."
 cover:
   template: business
   label: "Week ahead"
@@ -36,7 +36,7 @@ cover:
       value: "1.83%"
       label: "Sensex gain last week"
     - icon: calendar-check
-      value: "3 Nov"
+      value: "Nov 3"
       label: "SBI results and the US midterms"
 sources:
   - title: "ITC, State Bank of India and 10 Other Stocks Set to Announce Q2 FY27 Results Next Week"
@@ -72,12 +72,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview of Monday 2 Nov and the week of 2-7 Nov. Results calendar from Trade Brains, published 1 Nov 21:00 IST (inside window). Weekly outlooks: Goodreturns 1 Nov 17:20 IST; Liquide 1 Nov; TradingView/Moody's 1 Nov."
-    - "Friday 30 Oct closes Sensex 74,459.53, Nifty 23,053.10: three sources agree. Sensex weekly +1.83% (Goodreturns, and our 31 Oct story); TradingView says 1.6%, used 1.83%. Nifty weekly gain differs (2% Liquide/Goodreturns, 2.59% TradingView): left out."
+    - "event: preview of Monday, Nov 2 and the week of Nov 2-7. Results calendar from Trade Brains, published Nov 1 21:00 IST (inside window). Weekly outlooks: Goodreturns Nov 1 17:20 IST; Liquide Nov 1; TradingView/Moody's Nov 1."
+    - "Friday, Oct 30 closes Sensex 74,459.53, Nifty 23,053.10: three sources agree. Sensex weekly +1.83% (Goodreturns, and our Oct 31 story); TradingView says 1.6%, used 1.83%. Nifty weekly gain differs (2% Liquide/Goodreturns, 2.59% TradingView): left out."
     - "FII net buying figures differ (Rs 7,767.16 cr Goodreturns, Rs 6,304.67 cr Liquide): copy says only that FIIs were net buyers. DII Rs 3,109.79 cr: two sources agree."
     - "Brent: TradingView 'above $117 on Friday', Liquide about $118.42. Copy says above $117. Rupee 94.94: Liquide and Goodreturns ticker."
-    - "India's October manufacturing PMI release date not found in sources checked; not stated. US ISM manufacturing due Monday 2 Nov (Univest). No NSE trading holiday 2-6 Nov (Liquide citing NSE calendar)."
-    - "Results dates per Trade Brains only; company filings not checked. Tata Steel 7 Nov from our earlier story."
+    - "India's October manufacturing PMI release date not found in sources checked; not stated. US ISM manufacturing due Monday, Nov 2 (Univest). No NSE trading holiday Nov 2-6 (Liquide citing NSE calendar)."
+    - "Results dates per Trade Brains only; company filings not checked. Tata Steel Nov 7 from our earlier story."
 ---
 
 Indian shares go into Monday with something they have lacked for most of the autumn: momentum. The Sensex gained **1.83% last week to close at 74,459.53**, and the Nifty 50 finished Friday at 23,053.10, back above the 23,000 mark. Foreign investors were net buyers over the week, and domestic institutions added ₹3,109.79 crore.

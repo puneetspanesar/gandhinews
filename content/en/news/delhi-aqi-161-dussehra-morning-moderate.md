@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Delhi's AQI was **161 at 9 am** on Tuesday, in the 'moderate' category, according to the CPCB."
   - "Palam logged a minimum of **17.3 degrees Celsius**, 1.6 degrees below normal."
-  - "The early warning system expects **'poor' air on 21 and 22 October**."
+  - "The early warning system expects **'poor' air on October 21 and 22**."
 hero:
   need: "Morning haze over a Delhi skyline or the Delhi Ridge forest"
   suggested_source: "Delhi Ridge"
@@ -22,7 +22,7 @@ hero:
     value: "AQI 161 on Dussehra morning"
 related: [delhi-aqi-139-monday-coldest-october-night, delhi-air-turns-poor-again-anand-vihar-dry-week, delhi-aqi-184-sunday-evening-moderate, bhupender-yadav-startups-delhi-air-pollution-solutions]
 seo:
-  description: "Delhi's AQI stood at 161 (moderate) at 9 am on Tuesday 20 October, per CPCB, with forecasters expecting poor air on 21 and 22 October as dry, calm weather holds."
+  description: "Delhi's AQI stood at 161 (moderate) at 9 am on Tuesday, October 20, per CPCB, with forecasters expecting poor air on October 21 and 22 as dry, calm weather holds."
 sources:
   - title: "Delhi weather update: Cool morning, clear skies but air pollution may worsen; Check IMD forecast"
     publisher: "India.com"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "AQI 161 at 9 am: India.com (10:32 am), citing CPCB; no station breakdown. Not independently confirmed from CPCB bulletin (cpcb.nic.in not fetched). Monday 4 pm average 139 and 58-station breakdown from IANS via Social News XYZ, consistent with our 19 Oct story. Minimum temperatures per station from India.com. EWS forecast: IANS says moderate Tue, poor 21-22 Oct; India.com cites 18 Oct EWS issue projecting poor 19-21. Copy uses the later (IANS) version."
+    - "AQI 161 at 9 am: India.com (10:32 am), citing CPCB; no station breakdown. Not independently confirmed from CPCB bulletin (cpcb.nic.in not fetched). Monday 4 pm average 139 and 58-station breakdown from IANS via Social News XYZ, consistent with our Oct 19 story. Minimum temperatures per station from India.com. EWS forecast: IANS says moderate Tue, poor Oct 21-22; India.com cites Oct 18 EWS issue projecting poor 19-21. Copy uses the later (IANS) version."
 ---
 
 Delhi woke up to air in the "moderate" band on Dussehra morning, with the Air Quality Index (AQI) at 161 at 9 am on Tuesday, according to the Central Pollution Control Board (CPCB). That was a little worse than Monday, when the city's 24-hour average had improved to 139.
@@ -48,15 +48,15 @@ The reading came on a cool, clear morning. The minimum temperature at Palam was 
 
 Monday night had been the coldest of the month so far at Safdarjung, with the mercury dropping to 17.1 degrees Celsius, 1.3 degrees below the seasonal average. The day's maximum was 31.7 degrees.
 
-The cool nights come with a cost. Light winds and dry weather leave pollutants hanging over the city instead of dispersing them, and the Air Quality Early Warning System expects Delhi's air to slip into the "poor" category on Wednesday and Thursday, 21 and 22 October, with poor conditions possible for the six days after that.
+The cool nights come with a cost. Light winds and dry weather leave pollutants hanging over the city instead of dispersing them, and the Air Quality Early Warning System expects Delhi's air to slip into the "poor" category on Wednesday and Thursday, October 21 and 22, with poor conditions possible for the six days after that.
 
 On Monday, two of Delhi's 58 monitoring stations were already in the poor band, six were satisfactory and the rest moderate. Pusa recorded the highest reading, at 281.
 
 ## A dry week ahead
 
-The India Meteorological Department expects mainly clear skies on Tuesday, with the maximum temperature around 32 degrees and no rain. Over the coming days, maximum temperatures are forecast between 32 and 34 degrees and minimums between 19 and 21 degrees. Skies are expected to stay clear until 25 October, with some cloud possible on 24 and 25 October, and no rain is likely in that period.
+The India Meteorological Department expects mainly clear skies on Tuesday, with the maximum temperature around 32 degrees and no rain. Over the coming days, maximum temperatures are forecast between 32 and 34 degrees and minimums between 19 and 21 degrees. Skies are expected to stay clear until October 25, with some cloud possible on October 24 and 25, and no rain is likely in that period.
 
-Dry weather and weak winds are the main worry, since they keep pollutants from dispersing. Rain brought by a western disturbance last week had briefly pushed the AQI into the "satisfactory" range on 16 October; no such relief is in sight this week.
+Dry weather and weak winds are the main worry, since they keep pollutants from dispersing. Rain brought by a western disturbance last week had briefly pushed the AQI into the "satisfactory" range on October 16; no such relief is in sight this week.
 
 ## How the scale works
 

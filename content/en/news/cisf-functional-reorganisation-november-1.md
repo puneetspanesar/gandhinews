@@ -5,12 +5,12 @@ type: news
 section: policy
 format_label: "Policy / Internal Security"
 topics: []
-title: "CISF to guard India's plants and ports by sector, not region, from 1 November"
+title: "CISF to guard India's plants and ports by sector, not region, from November 1"
 standfirst: "The Home Ministry has approved the biggest overhaul of the industrial security force's structure in decades, replacing eight regional commands with sectors for power, coal, steel, oil and gas, ports and the capital's public buildings."
 published: 2026-10-18T14:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The CISF will move from regional to **industry-wise sectors** from 1 November, with Home Ministry approval."
+  - "The CISF will move from regional to **industry-wise sectors** from November 1, with Home Ministry approval."
   - "Eight territorial sectors become units for **power, coal, steel, petroleum, ports and Delhi's public buildings and metro**."
   - "The airport and atomic energy and space sectors, already run this way **for about 25 years**, stay as they are."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Guarding by sector, not by map"
 related: [home-secretary-govind-mohan-ips-passing-out-security]
 seo:
-  description: "From 1 November 2026 the CISF will reorganise its eight territorial sectors into functional ones for power, coal, steel, petroleum and natural gas, ports and Delhi's government buildings and metro."
+  description: "From November 1, 2026, the CISF will reorganise its eight territorial sectors into functional ones for power, coal, steel, petroleum and natural gas, ports and Delhi's government buildings and metro."
 sources:
   - title: "CISF to roll out historic functional reorganisation from November 1"
     publisher: "ANI"
@@ -32,11 +32,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ANI (Rajnish Singh), 18 Oct, about 2:30 pm IST, attributing the plan to the CISF with MHA approval. No named official quoted. Sector table, unchanged sectors and the 25-year figure from ANI. The CISF/MHA order itself not seen; PIB not reachable."
+    - "Single source: ANI (Rajnish Singh), Oct 18, about 2:30 pm IST, attributing the plan to the CISF with MHA approval. No named official quoted. Sector table, unchanged sectors and the 25-year figure from ANI. The CISF/MHA order itself not seen; PIB not reachable."
     - "Total personnel and number of units in each new sector not reported; left out."
 ---
 
-The Central Industrial Security Force will reorganise itself around the industries it protects rather than the regions where they sit, starting on 1 November. The Ministry of Home Affairs has approved the change, the force said on Sunday.
+The Central Industrial Security Force will reorganise itself around the industries it protects rather than the regions where they sit, starting on November 1. The Ministry of Home Affairs has approved the change, the force said on Sunday.
 
 Under the plan, eight of the CISF's territorial sectors will become functional ones. Instead of a Western Sector in Mumbai or an Eastern Sector in Ranchi, senior officers will oversee every power station, coalfield, steel plant or port under their charge across the country.
 
@@ -60,4 +60,4 @@ The force is also building up its cyber security and its drone and anti-drone ca
 
 ## What happens next
 
-The new structure takes effect on 1 November. The force has not said whether the change will alter staffing at individual sites or how many units fall under each new sector.
+The new structure takes effect on November 1. The force has not said whether the change will alter staffing at individual sites or how many units fall under each new sector.

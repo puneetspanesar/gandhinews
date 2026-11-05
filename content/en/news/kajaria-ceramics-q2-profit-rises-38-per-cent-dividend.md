@@ -11,7 +11,7 @@ published: 2026-10-24T19:15:00+05:30
 location: New Delhi
 keyPoints:
   - "Standalone net profit rose **37.7% to ₹166.28 crore** in July-September."
-  - "The board declared an interim dividend of **₹12 a share**, with 29 October as the record date."
+  - "The board declared an interim dividend of **₹12 a share**, with October 29 as the record date."
   - "It approved **₹554 crore** of expansion at Srikalahasti, Gailpur and Durgapur."
 hero:
   need: "A Kajaria Ceramics plant or showroom"
@@ -55,4 +55,4 @@ The board approved ₹554 crore of new spending. The largest piece is ₹340 cro
 
 The company will also pay ₹50 crore for the remaining shares of Kajaria Bathware, making it a wholly owned subsidiary. It booked a ₹5.09 crore exceptional charge for impairment of its investment in Kajaria International FZCO.
 
-Shareholders on the register on 29 October will receive the dividend, which is to be paid on or before 22 November.
+Shareholders on the register on October 29 will receive the dividend, which is to be paid on or before November 22.

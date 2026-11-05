@@ -12,7 +12,7 @@ location: Austin
 keyPoints:
   - "Kimi Antonelli won the US Grand Prix by **13.078 seconds** for his ninth win of 2026."
   - "George Russell finished eighth after a **five-second penalty**, and Lewis Hamilton was fourth."
-  - "Antonelli will be champion if he finishes **ninth or better in Mexico** on 1 November."
+  - "Antonelli will be champion if he finishes **ninth or better in Mexico** on November 1."
 hero:
   need: "Kimi Antonelli in the Mercedes or on the podium at the Circuit of the Americas"
   suggested_source: "Kimi Antonelli"
@@ -22,7 +22,7 @@ hero:
     value: "Two points from the world title"
 related: [antonelli-pole-austin-title-verstappen-second, antonelli-can-clinch-f1-title-austin-us-grand-prix, leclerc-tops-austin-practice-antonelli-second, verstappen-wins-singapore-grand-prix-antonelli-nears-title]
 seo:
-  description: "Kimi Antonelli won the US Grand Prix in Austin from pole and needs only two points at the Mexican Grand Prix on 1 November to become F1's youngest champion."
+  description: "Kimi Antonelli won the US Grand Prix in Austin from pole and needs only two points at the Mexican Grand Prix on November 1 to become F1's youngest champion."
 sources:
   - title: "Motor racing-Antonelli wins US Grand Prix but must wait for title"
     publisher: "SRN News (Reuters)"
@@ -54,7 +54,7 @@ verification:
 
 Kimi Antonelli is one weekend away from the Formula One world title. The Mercedes driver won the United States Grand Prix at the Circuit of the Americas on Sunday, leading from pole on a one-stop strategy and crossing the line 13.078 seconds ahead of Ferrari's Charles Leclerc.
 
-It was the 20-year-old Italian's ninth win of the season. It was not quite enough to settle the championship in Texas, because his closest rivals both scored, but it leaves him needing only two points, a ninth-place finish, at the Mexican Grand Prix on 1 November to become the youngest champion in the sport's history.
+It was the 20-year-old Italian's ninth win of the season. It was not quite enough to settle the championship in Texas, because his closest rivals both scored, but it leaves him needing only two points, a ninth-place finish, at the Mexican Grand Prix on November 1 to become the youngest champion in the sport's history.
 
 "We try to finish on a high and hopefully we can clinch it very soon," Antonelli said.
 
@@ -76,4 +76,4 @@ Antonelli has 365 points. Russell is second on 242 and Hamilton third on 241, 12
 
 Mercedes lead the constructors' standings with 607 points to Ferrari's 474, while McLaren and Red Bull are level on 355 in the fight for third.
 
-After Mexico City, the season moves to São Paulo on 8 November, Las Vegas on 21 November, Qatar on 29 November and Abu Dhabi on 6 December.
+After Mexico City, the season moves to São Paulo on November 8, Las Vegas on November 21, Qatar on November 29 and Abu Dhabi on December 6.

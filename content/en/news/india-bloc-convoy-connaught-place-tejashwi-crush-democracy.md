@@ -22,7 +22,7 @@ hero:
     value: "Opposition convoy reaches Connaught Place"
 related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Rahul Gandhi, Mamata Banerjee, Akhilesh and Tejashwi ride an open bus from Minto Bridge to Connaught Place; BJP calls it anarchic."
+  description: "INDIA bloc rally, November 1, 2026: Rahul Gandhi, Mamata Banerjee, Akhilesh and Tejashwi ride an open bus from Minto Bridge to Connaught Place; BJP calls it anarchic."
 sources:
   - title: "Ramlila Maidan Rally Live: सड़क पर उतरा INDIA ब्लॉक, खुली बस में सवार विपक्षी नेता"
     publisher: "Aaj Tak"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 12:19 IST Mamata, Abhishek Banerjee and Rahul Gandhi at Kharge's residence; 12:40 IST march starts from Minto Bridge in open bus; 12:59 IST leaders moving to Ramlila Maidan; 13:20 IST leaders reach Connaught Place (all Aaj Tak live blog timestamps). National Herald 12:55 entry confirms move from CP-Minto Road junction."
+    - "event: Nov 1 12:19 IST Mamata, Abhishek Banerjee and Rahul Gandhi at Kharge's residence; 12:40 IST march starts from Minto Bridge in open bus; 12:59 IST leaders moving to Ramlila Maidan; 13:20 IST leaders reach Connaught Place (all Aaj Tak live blog timestamps). National Herald 12:55 entry confirms move from CP-Minto Road junction."
     - "Tejashwi, D Raja, Kesavan and Shergill remarks: ANI via News Mill (published 12:42 IST) and Asianet (12:50 IST); exact time each was said not given, so placed only as on the day before 12:50. Quotes are as published in English."
     - "Mamata Banerjee's current title conflicts between sources (News Mill: former West Bengal CM; other outlets: CM), so copy calls her Trinamool Congress chief only."
     - "Hans India listed JP Nadda attacking Rahul Gandhi but with no quote and unclear title; left out."

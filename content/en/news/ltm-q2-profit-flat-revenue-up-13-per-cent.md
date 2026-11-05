@@ -22,7 +22,7 @@ hero:
     value: "Flat profit, AI up 40%"
 related: [sensex-nifty-it-rally-weekly-gain-october-16, tech-mahindra-q2-profit-rises-33-bonus-issue, wipro-guidance-december-quarter-large-deals-fall, tcs-q2-profit-ai-revenue-crosses-3-billion, hcltech-q2-profit-rises-21-raises-revenue-guidance, persistent-q2-profit-falls-nagarro-costs-revenue-up-20]
 seo:
-  description: "LTM, formerly LTIMindtree, reported Q2 profit of ₹1,398 crore on 16 October 2026, nearly flat, while rupee revenue rose 13.6% and AI revenue grew 40%."
+  description: "LTM, formerly LTIMindtree, reported Q2 profit of ₹1,398 crore on October 16, 2026, nearly flat, while rupee revenue rose 13.6% and AI revenue grew 40%."
 sources:
   - title: "India's LTM reports marginal fall in second-quarter profit (Reuters)"
     publisher: "MarketScreener"

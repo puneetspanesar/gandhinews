@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 17:53 to 18:00 IST, NSE board results and coal exchange stake-sale decision (Upstox liveblog timestamps)."
+    - "event: Nov 3 17:53 to 18:00 IST, NSE board results and coal exchange stake-sale decision (Upstox liveblog timestamps)."
     - "Figures from Upstox liveblog: profit 2,578 vs 2,098 cr (+23%); revenue 4,067 vs 3,677 cr (+11%); QoQ profit -17.4% from 3,120; revenue -10.8% from 4,560; EBITDA 3,079 vs 3,551 cr, margin 75.7% vs 77.9%; shares closed 1.31% up at ₹1,803 on BSE; IPO price ₹1,785. 'First results since listing' from Upstox headline. No executive quotes found. Business Today article not fetched, headline only."
 infographic:
   kicker: "September quarter results"
@@ -54,7 +54,7 @@ infographic:
 
 The National Stock Exchange **earned ₹2,578 crore in the September quarter**, up 23% from a year ago, in the first set of results it has announced since listing its own shares.
 
-The consolidated net profit for the three months to 30 September compared with ₹2,098 crore in the same quarter of 2025. Revenue from operations **rose 11% to ₹4,067 crore**, from ₹3,677 crore, as trading volumes kept the exchange's main business growing.
+The consolidated net profit for the three months to September 30 compared with ₹2,098 crore in the same quarter of 2025. Revenue from operations **rose 11% to ₹4,067 crore**, from ₹3,677 crore, as trading volumes kept the exchange's main business growing.
 
 ## A softer quarter than June
 

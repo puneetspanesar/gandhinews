@@ -22,7 +22,7 @@ hero:
     value: "Schools shut, more rain due"
 related: [chennai-rain-vijay-review-flood-prevention-yellow-alert, modi-opens-chennai-metro-stretch-vijay-seeks-school-funds]
 seo:
-  description: "Heavy rain closed schools in Chennai, Thiruvallur, Kancheepuram and Chengalpattu on 21 October 2026, with a low-pressure area expected off the Tamil Nadu coast."
+  description: "Heavy rain closed schools in Chennai, Thiruvallur, Kancheepuram and Chengalpattu on October 21, 2026, with a low-pressure area expected off the Tamil Nadu coast."
 sources:
   - title: "Heavy rains lash Chennai, northern districts in TN"
     publisher: "ThePrint (PTI)"

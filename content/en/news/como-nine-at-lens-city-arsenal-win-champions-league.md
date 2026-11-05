@@ -22,7 +22,7 @@ hero:
     value: "Como hit nine in Lens"
 related: [fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek, como-thrash-manchester-united-nico-paz-carrick-winless-seven]
 seo:
-  description: "Champions League matchday four, 4 November 2026: Lens 1-9 Como, Leipzig 2-3 Manchester City, Slavia Prague 1-2 Arsenal, Porto 4-1 Napoli, Dortmund 2-1 Betis, PSV 1-2 Club Brugge, Viking 4-1 Sabah."
+  description: "Champions League matchday four, November 4, 2026: Lens 1-9 Como, Leipzig 2-3 Manchester City, Slavia Prague 1-2 Arsenal, Porto 4-1 Napoli, Dortmund 2-1 Betis, PSV 1-2 Club Brugge, Viking 4-1 Sabah."
 infographic:
   kicker: "Champions League, matchday four"
   headline: "Como run riot in Lens"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: all seven games kicked off 21:00 CET (01:30 IST, 5 Nov), full time about 03:20 IST. Kick-off times from UEFA fixtures page; football-italia gives 20:00 GMT for Porto and Lens games."
+    - "event: all seven games kicked off 21:00 CET (01:30 IST, Nov 5), full time about 03:20 IST. Kick-off times from UEFA fixtures page; football-italia gives 20:00 GMT for Porto and Lens games."
     - "Scores for Leipzig 2-3 City, Slavia 1-2 Arsenal, Porto 4-1 Napoli, PSV 1-2 Brugge, Viking 4-1 Sabah, Dortmund 2-1 Betis, and standings notes (City nine points top eight, Arsenal unbeaten third on ten, PSG and Madrid only 12-point sides, Betis first points dropped, Napoli out of top 24, Viking into top 24) from Yahoo/OneFootball (AI-translated French original, 22:04 UTC). No scorers for those games found, so none given."
     - "Lens 1-9 Como from football-italia live blog only ('FT: Lens 1-9 Como'); not in the Yahoo roundup. Douvikas hat-trick, Liberali 62, Baturina 69, Paz, Papaccioli 92 on debut, Fabregas quote from same page. One Como goal attributed to 'Ruben Aguilar' in the summary, probably a Lens own goal, left out. Porto scorers (Veiga 71, Kiwior 80, Samu 90 pen), McTominay equaliser, Rafa Marin red card 88, Allegri quote: football-italia only."
 ---

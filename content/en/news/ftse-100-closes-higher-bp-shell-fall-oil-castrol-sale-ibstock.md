@@ -22,7 +22,7 @@ hero:
     value: "FTSE 100 up 0.3%, BP down 4.4%"
 related: [wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, oil-slump-deepens-brent-105-airlines-rally-iran-talks, gold-below-4000-first-time-since-july-asia-monday, castrol-india-quarterly-profit-falls-23-per-cent, sensex-nifty-close-november-2]
 seo:
-  description: "London close on 2 November 2026: FTSE 100 up 0.3% at 10,761.33, FTSE 250 up 1.4%, BP down 4.4% and Shell down 2.9% as Brent fell to about $105, IAG and Wizz Air up, Ibstock down 10% on a profit warning."
+  description: "London close on November 2, 2026: FTSE 100 up 0.3% at 10,761.33, FTSE 250 up 1.4%, BP down 4.4% and Shell down 2.9% as Brent fell to about $105, IAG and Wizz Air up, Ibstock down 10% on a profit warning."
 cover:
   template: business
   label: "Europe close"
@@ -56,9 +56,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 22:05 IST (London close 4:35 pm GMT); closing report published 12:04 pm EST = 22:34 IST (Alliance News via MarketScreener). Closing levels, company moves, Brent $105.09 vs $117.61 Friday, gold $3,968.02, Ibstock and Dobson quotes all from that report."
+    - "event: Nov 2 22:05 IST (London close 4:35 pm GMT); closing report published 12:04 pm EST = 22:34 IST (Alliance News via MarketScreener). Closing levels, company moves, Brent $105.09 vs $117.61 Friday, gold $3,968.02, Ibstock and Dobson quotes all from that report."
     - "CAC 40 +1.0% and DAX +0.6% from both Alliance and Investing.com (Investing.com updated 12:30 pm, no timezone; its BP -1.2% was an earlier intraday figure, not used). STOXX 600 close not found; only an early -0.1% figure from the Euronext/Reuters 13:41 report, so it is left out."
-    - "BoE expected 25 bp rise to 4.00% on Thursday 5 Nov per Alliance and Investing.com (ING sees 7-2 vote)."
+    - "BoE expected 25 bp rise to 4.00% on Thursday, Nov 5 per Alliance and Investing.com (ING sees 7-2 vote)."
     - "Castrol India link is context only: the Alliance report says BP keeps 35% of Castrol after selling 65% to Stonepeak for $6bn; it does not mention Castrol India. Described generally."
 ---
 

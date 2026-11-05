@@ -22,7 +22,7 @@ hero:
     value: "Fleeing Moyale for Kenya"
 related: []
 seo:
-  description: "Hundreds of Ethiopians, mostly women and children, fled into Kenya at Moyale on 22 October as Oromia and Somali regional forces clashed after a flag dispute."
+  description: "Hundreds of Ethiopians, mostly women and children, fled into Kenya at Moyale on October 22 as Oromia and Somali regional forces clashed after a flag dispute."
 sources:
   - title: "Hundreds of Ethiopians cross into Kenya to flee regional fighting"
     publisher: "Al Jazeera"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Al Jazeera with AP and Reuters, 22 Oct. Crossing points named by Kenyan police. Flag dispute began Sunday 18 Oct per Ethiopian media cited in the report; hedged."
+    - "Single source: Al Jazeera with AP and Reuters, Oct 22. Crossing points named by Kenyan police. Flag dispute began Sunday, Oct 18 per Ethiopian media cited in the report; hedged."
     - "No casualty figures reported. No Ethiopian federal government statement found."
 ---
 

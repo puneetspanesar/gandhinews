@@ -74,7 +74,7 @@ Bergs said he had long been too deferential towards the game's leading players. 
 
 > I feel like now I really can win against these guys. Not just I can play against them, but I can win against them.
 >
-> Source: Zizou Bergs, Belgian player, 12 October 2026
+> Source: Zizou Bergs, Belgian player, October 12, 2026
 
 He plays defending champion Valentin Vacherot or 15th seed Tommy Paul in the fourth round.
 
@@ -82,7 +82,7 @@ He plays defending champion Valentin Vacherot or 15th seed Tommy Paul in the fou
 
 The result rounds off a remarkable season for Zverev, the top seed in Shanghai. He has won Roland Garros and the US Open this year and reached the Wimbledon final. On Sunday he beat Quentin Halys 6-4, 6-7(8), 6-3 for his 60th tour-level win of 2026, and he faces Alexander Bublik next.
 
-The world No. 1, Jannik Sinner, has ended his season early with a knee injury. Zverev cannot take over the top spot in the weekly rankings before 2 November.
+The world No. 1, Jannik Sinner, has ended his season early with a knee injury. Zverev cannot take over the top spot in the weekly rankings before November 2.
 
 ## Tsitsipas gets there at the fourth attempt
 
@@ -90,4 +90,4 @@ Stefanos Tsitsipas came from a set down to beat 11th seed Taylor Fritz 3-6, 7-5,
 
 "I was manifesting today's match and trying to put myself in a victorious situation," the Greek said. He meets fifth seed Daniil Medvedev, who beat qualifier Dalibor Svrčina 6-2, 6-3.
 
-Fourth seed Félix Auger-Aliassime beat Pablo Carreño Busta 6-3, 4-6, 6-1, 12th seed Rafael Jodar came from a set down to beat Jiří Lehečka 4-6, 7-6(2), 6-4, and Casper Ruud beat Learner Tien 6-4, 7-6(3). The tournament ends on 18 October.
+Fourth seed Félix Auger-Aliassime beat Pablo Carreño Busta 6-3, 4-6, 6-1, 12th seed Rafael Jodar came from a set down to beat Jiří Lehečka 4-6, 7-6(2), 6-4, and Casper Ruud beat Learner Tien 6-4, 7-6(3). The tournament ends on October 18.

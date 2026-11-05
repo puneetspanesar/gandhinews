@@ -50,7 +50,7 @@ verification:
     - "Result about 3:45 pm IST; story timed 4:20 pm as the post-match report, after the 2:50 pm in-play story. Scores and figures from Yahoo Sports match report, consistent with Outlook (230/6 in 19.4 overs, four wickets, two balls)."
     - "Record framing: Outlook says highest successful chase at Hagley Oval and India's highest T20I chase v NZ; Hans India calls it India's highest successful T20I chase. Copy uses the narrower 'highest against New Zealand' and 'at Hagley Oval'."
     - "Phillips quotes verbatim from Hans India (IANS), post-match press conference. No Iyer or Dhir post-match quotes found."
-    - "Iyer dismissed by Milne first ball of 19th over (Yahoo). Second T20I date and venue not confirmed in sources read; series runs to 1 November, so copy does not name the next venue."
+    - "Iyer dismissed by Milne first ball of 19th over (Yahoo). Second T20I date and venue not confirmed in sources read; series runs to November 1, so copy does not name the next venue."
 ---
 
 India pulled off the biggest chase of their T20I rivalry with New Zealand on Thursday, scoring 230 for 6 in 19.4 overs to beat the hosts by four wickets at Hagley Oval and take a 1-0 lead in the five-match series.
@@ -79,4 +79,4 @@ He also praised the surface. "The pitches are fantastic as well," Phillips said,
 
 ## What comes next
 
-The win extends India's grip on New Zealand in the shortest format after they beat them by 96 runs in the T20 World Cup final in March. Four more T20Is follow before the series ends on 1 November, with all games starting at 12:30 pm IST. Five ODIs begin on 4 November and two Tests on 19 November.
+The win extends India's grip on New Zealand in the shortest format after they beat them by 96 runs in the T20 World Cup final in March. Four more T20Is follow before the series ends on November 1, with all games starting at 12:30 pm IST. Five ODIs begin on November 4 and two Tests on November 19.

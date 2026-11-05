@@ -22,7 +22,7 @@ hero:
     value: "Results day winners and losers"
 related: [sensex-nifty-close-october-19-private-banks-axis, hfcl-q2-profit-jumps-448-per-cent-upper-circuit, ultratech-cement-q2-profit-rises-21-per-cent]
 seo:
-  description: "Tejas Networks fell 4.5% after a ₹207 crore Q2 loss, Kross rose 20%, Cyient DLM and Oberoi Realty slipped and sugar stocks fell up to 6% on 19 October 2026."
+  description: "Tejas Networks fell 4.5% after a ₹207 crore Q2 loss, Kross rose 20%, Cyient DLM and Oberoi Realty slipped and sugar stocks fell up to 6% on October 19, 2026."
 sources:
   - title: "Stock Market LIVE, 19 October 2026"
     publisher: "Business Standard"

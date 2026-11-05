@@ -22,7 +22,7 @@ hero:
     value: "\"A lot depends\" on Washington"
 related: [st-petersburg-oil-terminal-ablaze-ukraine-1000-drones, trump-waives-russia-sanctions-law-india-tariff-threat, zelenskyy-us-proposes-trilateral-putin-summit-december, jaishankar-rubio-talks-mumbai-october-20-mea]
 seo:
-  description: "Zelenskyy said on 18 October the war must end after a call with Witkoff and Kushner; Rubio said Ukraine lacks Starshield access and denied any deliberate Starlink outage."
+  description: "Zelenskyy said on October 18 the war must end after a call with Witkoff and Kushner; Rubio said Ukraine lacks Starshield access and denied any deliberate Starlink outage."
 sources:
   - title: "Russia's war on Ukraine 'must be brought to an end', Zelenskyy says"
     publisher: "Al Jazeera"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Rubio spoke at Joint Base Andrews on Saturday 17 October; Zelenskyy's X post and NBC interview on Sunday 18 October."
-    - "Rubio's Mumbai meeting with Jaishankar on 20 October is from the MEA, as in our earlier story."
+    - "Rubio spoke at Joint Base Andrews on Saturday, October 17; Zelenskyy's X post and NBC interview on Sunday, October 18."
+    - "Rubio's Mumbai meeting with Jaishankar on October 20 is from the MEA, as in our earlier story."
 ---
 
 Volodymyr Zelenskyy said on Sunday that Russia's war on Ukraine "must be brought to an end" and that Kyiv was preparing for the "next steps" in diplomacy, after a call with Donald Trump's envoys Steve Witkoff and Jared Kushner.

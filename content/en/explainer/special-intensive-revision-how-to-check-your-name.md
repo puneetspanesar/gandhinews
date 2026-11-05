@@ -60,9 +60,9 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: all 14 procedural points checked against the Delhi CEO FAQ (three BLO visits, no documents at enumeration, Aadhaar optional, 12 documents, 15-day appeal, 1950, Book a Call with BLO, ECINET). Phase III scope and 36.73 crore (The News Minute) and the 25 Sep Form 6 withdrawal (Daily Jagran/PTI) confirmed."
-    - "Corrected: 6.15 crore figure no longer carries the unconfirmed 17.04%. 27 May 2026 Bihar ruling now attributed (ECI via PTI)."
-    - "Delhi's final-roll date has moved again (claims now to 30 Oct per Business Today); copy correctly tells readers to check their state CEO."
+    - "Fact-check Oct 11, 2026: all 14 procedural points checked against the Delhi CEO FAQ (three BLO visits, no documents at enumeration, Aadhaar optional, 12 documents, 15-day appeal, 1950, Book a Call with BLO, ECINET). Phase III scope and 36.73 crore (The News Minute) and the Sep 25 Form 6 withdrawal (Daily Jagran/PTI) confirmed."
+    - "Corrected: 6.15 crore figure no longer carries the unconfirmed 17.04%. May 27, 2026 Bihar ruling now attributed (ECI via PTI)."
+    - "Delhi's final-roll date has moved again (claims now to Oct 30 per Business Today); copy correctly tells readers to check their state CEO."
     - "The voters.eci.gov.in and electoralsearch.eci.gov.in pages could not be rendered (JavaScript app / fetch error), so search steps are as described by ThePrint and the Delhi CEO FAQ."
     - "Procedures (12 documents, appeal within 15 days to the DEO/DM) are from the Delhi CEO's FAQ; other states' FAQs were not checked, though the SIR orders are issued by the ECI for all states."
     - "The '2002/2003 roll' reference year varies by state (Delhi 2002; Punjab 2003 per The Tribune)."
@@ -72,7 +72,7 @@ verification:
 
 **It is a fresh, house-to-house check of every entry on the electoral roll, in which Booth Level Officers (BLOs) collect a form from each listed voter.** The Election Commission of India (ECI) revises rolls "before every election or as per requirement", according to the Delhi Chief Electoral Officer's FAQ, and an intensive revision rebuilds them through fresh enumeration. The FAQ states the aim: "No eligible citizen is left out and no ineligible person is included in the Electoral Roll." The ECI has cited migration-related duplicate registrations and dead voters who were not removed.
 
-The SIR began in Bihar in June 2025. The ECI announced the third phase on 14 May 2026, covering about 36.73 crore electors in 16 states and 3 Union Territories, The News Minute reported. On 27 May 2026 the Supreme Court upheld the Bihar SIR order, the ECI has said.
+The SIR began in Bihar in June 2025. The ECI announced the third phase on May 14, 2026, covering about 36.73 crore electors in 16 states and 3 Union Territories, The News Minute reported. On May 27, 2026, the Supreme Court upheld the Bihar SIR order, the ECI has said.
 
 ## How does it work?
 
@@ -82,10 +82,10 @@ The form asks for details from the last intensive revision roll (2002 in Delhi; 
 
 ## Why are so many names missing from draft rolls?
 
-**Because a name is left out of the draft when no form is collected, and the reasons are grouped as absent, shifted, dead or duplicate.** Draft rolls in 17 states and Union Territories left out more than 6.15 crore names, Deccan Herald reported on 1 September. The ECI says this is not the same as a final deletion and that names can be restored during claims. Opposition parties have alleged that eligible voters are being removed; our [news report](/en/news/sir-phase-three-draft-rolls-names-dropped-by-state) sets out both positions and the state figures.
+**Because a name is left out of the draft when no form is collected, and the reasons are grouped as absent, shifted, dead or duplicate.** Draft rolls in 17 states and Union Territories left out more than 6.15 crore names, Deccan Herald reported on September 1. The ECI says this is not the same as a final deletion and that names can be restored during claims. Opposition parties have alleged that eligible voters are being removed; our [news report](/en/news/sir-phase-three-draft-rolls-names-dropped-by-state) sets out both positions and the state figures.
 
 ```facts
-{"title":"SIR in numbers (as of October 2026)","items":[{"value":"36.73 crore","label":"electors covered by phase III","source":"The News Minute"},{"value":"6.15 crore","label":"names left off phase III draft rolls in 17 states and UTs","source":"Deccan Herald, 1 Sep 2026"},{"value":"12","label":"documents accepted when an ERO issues a notice","source":"CEO Delhi FAQ"},{"value":"1950","label":"toll-free voter helpline","source":"CEO Delhi FAQ"}]}
+{"title":"SIR in numbers (as of October 2026)","items":[{"value":"36.73 crore","label":"electors covered by phase III","source":"The News Minute"},{"value":"6.15 crore","label":"names left off phase III draft rolls in 17 states and UTs","source":"Deccan Herald, Sep 1, 2026"},{"value":"12","label":"documents accepted when an ERO issues a notice","source":"CEO Delhi FAQ"},{"value":"1950","label":"toll-free voter helpline","source":"CEO Delhi FAQ"}]}
 ```
 
 ## How do I check my name?
@@ -111,4 +111,4 @@ Two other forms matter. Form 7 is used to object to an entry, for example a dead
 
 ## What is the Form 6 declaration dispute?
 
-**The ECI added an SIR declaration to Form 6, and its legality is now being examined by the Supreme Court.** On 25 September the ECI withdrew the extra declaration from online Form 6 in states where revision was complete, PTI reported. On 5 October a bench led by Chief Justice Surya Kant said "Any modification to Form 6 has not been approved by us." The ECI's position, in its press note of 26 September, is that "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court." Until the court rules, voters filing claims should use the form and declaration their state CEO currently prescribes.
+**The ECI added an SIR declaration to Form 6, and its legality is now being examined by the Supreme Court.** On September 25 the ECI withdrew the extra declaration from online Form 6 in states where revision was complete, PTI reported. On October 5 a bench led by Chief Justice Surya Kant said "Any modification to Form 6 has not been approved by us." The ECI's position, in its press note of September 26, is that "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court." Until the court rules, voters filing claims should use the form and declaration their state CEO currently prescribes.

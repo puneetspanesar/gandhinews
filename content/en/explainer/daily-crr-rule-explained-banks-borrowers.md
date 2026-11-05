@@ -8,7 +8,7 @@ topics: [rbi-interest-rates]
 title: "The RBI's new daily CRR rule: what changes for banks today, and what it means for your loan"
 standfirst: "From Friday, banks must keep at least 99% of their required cash reserve with the RBI every single day, up from 90%. It sounds technical. It is one of the ways the central bank is trying to make its rate rise bite."
 published: 2026-10-16T06:50:00+05:30
-shortAnswer: "Every bank must keep 3% of its deposits and similar liabilities as cash with the RBI, measured as an average over a fortnight. Until now a bank could let its balance drop to 90% of that requirement on any day; from the fortnight beginning 16 October 2026 the floor is 99%, which leaves banks almost no room to dip into the reserve. The aim is to soak up surplus cash and push overnight interest rates up towards the 5.50% repo rate, which over time keeps loans dearer and supports deposit rates."
+shortAnswer: "Every bank must keep 3% of its deposits and similar liabilities as cash with the RBI, measured as an average over a fortnight. Until now a bank could let its balance drop to 90% of that requirement on any day; from the fortnight beginning October 16, 2026, the floor is 99%, which leaves banks almost no room to dip into the reserve. The aim is to soak up surplus cash and push overnight interest rates up towards the 5.50% repo rate, which over time keeps loans dearer and supports deposit rates."
 hero:
   need: "Reserve Bank of India regional office building in Nagpur"
   suggested_source: "Reserve Bank of India Nagpur office"
@@ -17,7 +17,7 @@ hero:
     value: "From 90% to 99%, every day"
 related: [rbi-raises-daily-crr-minimum-to-99-per-cent, rbi-raises-repo-rate-to-5-50, repo-rate-and-your-emi-explained, rupee-near-97-as-crude-stays-above-100]
 seo:
-  description: "RBI's daily CRR rule explained: why banks must hold 99% of the required cash reserve every day from 16 October 2026, how it drains surplus liquidity and what it means for loan and deposit rates."
+  description: "RBI's daily CRR rule explained: why banks must hold 99% of the required cash reserve every day from October 16, 2026, how it drains surplus liquidity and what it means for loan and deposit rates."
 sources:
   - title: "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement (notification listing)"
     publisher: "Reserve Bank of India"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures (3% CRR, 90% to 99% floor, fortnight from 16 October, ₹3.88 lakh crore surplus on 8 October, call rate 5.31% on 9 October, ₹25,000 crore OMO on 13 October, ₹1 lakh crore OMOs in September, 2013 and 2016 history, lending-rate moves) come from the desk's 11 October news story and its sources. RBI notification full text could not be opened then."
+    - "All figures (3% CRR, 90% to 99% floor, fortnight from October 16, ₹3.88 lakh crore surplus on October 8, call rate 5.31% on October 9, ₹25,000 crore OMO on October 13, ₹1 lakh crore OMOs in September, 2013 and 2016 history, lending-rate moves) come from the desk's October 11 news story and its sources. RBI notification full text could not be opened then."
     - "The ₹1 lakh crore bank example is the desk's own arithmetic, for illustration."
     - "CRR is computed on net demand and time liabilities (mostly deposits); standard RBI definition, described in plain words."
     - "Effect on borrowers is described as indirect and gradual; no bank has linked a rate change to the CRR step."
@@ -59,10 +59,10 @@ The ratio is set by the RBI and applies to a bank's net demand and time liabilit
 
 **The ratio stays at 3%. What has risen is the minimum a bank must hold on each day.**
 
-The 3% is measured as an average across a two-week reporting fortnight. That gives banks some flexibility: on a day when they are short of cash, they can let the balance fall below the requirement and make up for it later in the fortnight. Until now the balance could fall as low as 90% of the requirement on any day. From the fortnight beginning 16 October 2026, it cannot fall below 99%. The fortnightly average must still be at least 3%.
+The 3% is measured as an average across a two-week reporting fortnight. That gives banks some flexibility: on a day when they are short of cash, they can let the balance fall below the requirement and make up for it later in the fortnight. Until now the balance could fall as low as 90% of the requirement on any day. From the fortnight beginning October 16, 2026, it cannot fall below 99%. The fortnightly average must still be at least 3%.
 
 ```compare
-{"title":"A bank that must hold ₹3,000 crore as CRR","columns":["Until 15 October","From 16 October"],"rows":[{"icon":"percent","label":"Daily floor","cells":["90% of requirement","99% of requirement"]},{"icon":"bank","label":"Lowest balance allowed on any day","cells":["₹2,700 crore","₹2,970 crore"]},{"icon":"calendar-blank","label":"Fortnightly average","cells":["₹3,000 crore","₹3,000 crore"]},{"icon":"currency-inr","label":"Interest earned on it","cells":["None","None"]}]}
+{"title":"A bank that must hold ₹3,000 crore as CRR","columns":["Until October 15","From October 16"],"rows":[{"icon":"percent","label":"Daily floor","cells":["90% of requirement","99% of requirement"]},{"icon":"bank","label":"Lowest balance allowed on any day","cells":["₹2,700 crore","₹2,970 crore"]},{"icon":"calendar-blank","label":"Fortnightly average","cells":["₹3,000 crore","₹3,000 crore"]},{"icon":"currency-inr","label":"Interest earned on it","cells":["None","None"]}]}
 ```
 
 ## Why does a few percentage points matter?
@@ -75,9 +75,9 @@ When banks can run their reserve balance down, they can use that money for a few
 
 **Because banks have too much cash, and that has kept short-term rates below the RBI's policy rate.**
 
-The Monetary Policy Committee raised the repo rate by 25 basis points to 5.50% on 7 October. Yet the system was flush: surplus funds parked with the RBI stood at ₹3.88 lakh crore on 8 October. With so much money about, the call rate, at which banks lend to each other overnight, was 5.31% on 9 October, below the repo rate. A rate rise that does not reach the overnight market does not travel far.
+The Monetary Policy Committee raised the repo rate by 25 basis points to 5.50% on October 7. Yet the system was flush: surplus funds parked with the RBI stood at ₹3.88 lakh crore on October 8. With so much money about, the call rate, at which banks lend to each other overnight, was 5.31% on October 9, below the repo rate. A rate rise that does not reach the overnight market does not travel far.
 
-The daily CRR change is one of several tools. The RBI sold ₹1 lakh crore of government bonds in September and another ₹25,000 crore on 13 October, and it has run reverse repo auctions in which banks lend money back to it.
+The daily CRR change is one of several tools. The RBI sold ₹1 lakh crore of government bonds in September and another ₹25,000 crore on October 13, and it has run reverse repo auctions in which banks lend money back to it.
 
 ## Has this been done before?
 
@@ -93,4 +93,4 @@ The CRR step works further back in the chain. Tighter cash makes it costlier for
 
 ## What happens next?
 
-**The RBI will watch whether the call rate climbs towards 5.50%.** The minutes of the October policy meeting are due on 21 October, and the next MPC meeting is from 2 to 4 December 2026. If the surplus shrinks quickly, the RBI could ease the daily floor again, as it did in 2013.
+**The RBI will watch whether the call rate climbs towards 5.50%.** The minutes of the October policy meeting are due on October 21, and the next MPC meeting is from December 2 to 4, 2026. If the surplus shrinks quickly, the RBI could ease the daily floor again, as it did in 2013.

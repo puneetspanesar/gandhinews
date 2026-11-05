@@ -21,7 +21,7 @@ hero:
     value: "Best day for the Sensex since June"
 related: [sensex-falls-as-bond-yields-climb-rupee-best-day-since-april, hcltech-q2-profit-rises-21-raises-revenue-guidance, tcs-q2-profit-ai-revenue-crosses-3-billion, retail-inflation-september-2026-5-54, wpi-inflation-september-data-due-preview]
 seo:
-  description: "Sensex rose 1,109 points to 73,033.78 and Nifty ended at 22,721.95 on 13 October as IT stocks surged on HCLTech results and FM Sitharaman's LTCG remarks."
+  description: "Sensex rose 1,109 points to 73,033.78 and Nifty ended at 22,721.95 on October 13 as IT stocks surged on HCLTech results and FM Sitharaman's LTCG remarks."
 sources:
   - title: "IT stocks lead markets to biggest rally in four months on HCLTech boost"
     publisher: "Business Standard"
@@ -55,11 +55,11 @@ verification:
 
 Indian shares had their best day in four months on Tuesday. A rush back into technology stocks after HCLTech's results, and remarks from Finance Minister Nirmala Sitharaman on capital gains tax late in the session, pulled the market out of a week-long slide.
 
-The BSE Sensex closed 1,109.10 points, or 1.54%, higher at 73,033.78. The NSE Nifty 50 rose 358.60 points, or 1.60%, to 22,721.95. Both indices posted their biggest single-day gains since 12 June, and 46 of the 50 Nifty stocks ended higher. Indian equities were the best performers in Asia for the day.
+The BSE Sensex closed 1,109.10 points, or 1.54%, higher at 73,033.78. The NSE Nifty 50 rose 358.60 points, or 1.60%, to 22,721.95. Both indices posted their biggest single-day gains since June 12, and 46 of the 50 Nifty stocks ended higher. Indian equities were the best performers in Asia for the day.
 
 ## IT leads the way
 
-The Nifty IT index jumped 5.22% to 29,830.10, its biggest one-day rise since 12 May 2025, with all ten of its stocks in the green. HCLTech, which on Monday evening reported a 21% rise in quarterly profit and raised the lower end of its revenue guidance, climbed 8.42%. Tata Consultancy Services, Tech Mahindra and Shriram Finance were among the other leading gainers on the Nifty.
+The Nifty IT index jumped 5.22% to 29,830.10, its biggest one-day rise since May 12, 2025, with all ten of its stocks in the green. HCLTech, which on Monday evening reported a 21% rise in quarterly profit and raised the lower end of its revenue guidance, climbed 8.42%. Tata Consultancy Services, Tech Mahindra and Shriram Finance were among the other leading gainers on the Nifty.
 
 "HCLTech results were in line (with our expectations)," said Somil Mehta, head of retail research at Mirae Asset Sharekhan. "The IT pack has been oversold, and it has been holding on to good levels."
 

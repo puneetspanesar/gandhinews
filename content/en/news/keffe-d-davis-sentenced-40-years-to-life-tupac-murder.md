@@ -21,7 +21,7 @@ hero:
     value: "Nearly 30 years later, a sentence"
 related: []
 seo:
-  description: "Duane 'Keffe D' Davis, 63, was sentenced to 40 years to life in Las Vegas on 13 October for the 1996 murder of rapper Tupac Shakur. He says he will appeal."
+  description: "Duane 'Keffe D' Davis, 63, was sentenced to 40 years to life in Las Vegas on October 13 for the 1996 murder of rapper Tupac Shakur. He says he will appeal."
 sources:
   - title: "Ex-gang leader gets 40 years to life for rapper Tupac Shakur's 1996 murder"
     publisher: "Al Jazeera"
@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Conviction month conflict: Al Jazeera text says August, its linked verdict story is dated 1 September 2026. Written without a month ('was convicted earlier')."
+    - "Conviction month conflict: Al Jazeera text says August, its linked verdict story is dated September 1, 2026. Written without a month ('was convicted earlier')."
     - "Reuters preview headline only used for context; details from Al Jazeera. Courthouse for hero is a guess at the venue (Clark County court in Las Vegas); not named in source."
     - "Arrest date not given in source; omitted."
 ---
@@ -49,7 +49,7 @@ Duane "Keffe D" Davis, 63, once a leader of the South Side Compton Crips, is the
 
 ## The 1996 shooting
 
-Shakur was shot in Las Vegas on 7 September 1996 while sitting in the passenger seat of a black BMW stopped at a red light, after attending a Mike Tyson heavyweight fight. He died six days later, aged 25. The shooting came about two hours after a confrontation between Shakur's entourage and Davis's nephew, Orlando Anderson.
+Shakur was shot in Las Vegas on September 7, 1996, while sitting in the passenger seat of a black BMW stopped at a red light, after attending a Mike Tyson heavyweight fight. He died six days later, aged 25. The shooting came about two hours after a confrontation between Shakur's entourage and Davis's nephew, Orlando Anderson.
 
 Investigators suspected Davis for decades but lacked the evidence to charge him. What changed was Davis himself: he talked about his role in media interviews and in his 2019 memoir, *Compton Street Legend*, where he admitted handing the gun to companions in a white Cadillac. He is the only one from that car still alive.
 

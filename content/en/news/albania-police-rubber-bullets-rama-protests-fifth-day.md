@@ -22,7 +22,7 @@ hero:
     value: "Fifth day, 167 arrests"
 related: [albania-education-ministry-fire-student-protests-tirana, france-protests-550000-limoges-city-hall-fire-macron]
 seo:
-  description: "Albanian police fired rubber bullets at protesters near Edi Rama's office in Tirana on 17 October, the fifth day of unrest; 167 have been arrested."
+  description: "Albanian police fired rubber bullets at protesters near Edi Rama's office in Tirana on October 17, the fifth day of unrest; 167 have been arrested."
 sources:
   - title: "Albanian police fire rubber bullets as protests against Rama escalate"
     publisher: "Al Jazeera (AFP)"

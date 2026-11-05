@@ -46,14 +46,14 @@ verification:
   status: approved
   fact_check: notes
   notes:
-    - "Fact-checked 11 Oct 2026: 21 Nov 2025 (KPMG, The Tribune), 8 May 2026 central rules (SAM), Kumar's 'hoping' and 'appropriate government' remarks, ten states, Labour Stack quote and GT Bharat issues (Business Standard), Kerala (The Tribune), 1 vs 5 years gratuity (SAM) all confirmed."
+    - "Fact-checked Oct 11, 2026: Nov 21, 2025 (KPMG, The Tribune), May 8, 2026, central rules (SAM), Kumar's 'hoping' and 'appropriate government' remarks, ten states, Labour Stack quote and GT Bharat issues (Business Standard), Kerala (The Tribune), 1 vs 5 years gratuity (SAM) all confirmed."
     - "Changed: 'Eleven months' -> 'Nearly 11 months' (twice); 'nearly five months after the central rules' -> 'five months'; removed 'in line with the code' after the one-year gratuity point and replaced 'appointment letters' with fixed-term gratuity, because neither was supported by the sources cited."
     - "The PRS source (IR Code (Amendment) Bill, 2026) is listed but not used in the text and was not opened; editor may drop it."
     - "The ten states with final rules are not named by the government; the editorial does not name them."
     - "The claim that no official state-wise list exists rests on the research desk's finding; the Labour Ministry portal was not opened in this session."
 ---
 
-The four labour codes have been law since 21 November 2025. The Centre took until 8 May 2026 to notify its own rules. And on 24 September, the Labour Secretary said ten states had final rules and the rest only drafts, adding that the Centre was "hoping" all states would be done by 31 October.
+The four labour codes have been law since November 21, 2025. The Centre took until May 8, 2026, to notify its own rules. And on September 24, the Labour Secretary said ten states had final rules and the rest only drafts, adding that the Centre was "hoping" all states would be done by October 31.
 
 Workers are owed a firmer date than that, from the Centre and from every state.
 
@@ -78,13 +78,13 @@ The larger failure is that nobody can easily check where things stand. The gover
 The Centre is building a "Labour Stack" so that worker databases and welfare schemes can "talk to each other", in Kumar's words. A simple public list of state rules should come first.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"21 Nov 2025","label":"date the four labour codes came into force, replacing 29 central laws","source":"KPMG; Business Standard"},{"value":"10","label":"states with final rules as of 24 Sep 2026, unnamed by the government","source":"Business Standard"},{"value":"1 year vs 5 years","label":"service needed for fixed-term gratuity in several states' rules versus Gujarat's","source":"Shardul Amarchand Mangaldas, Oct 2026"}]}
+{"title":"The reporting behind this view","items":[{"value":"Nov 21, 2025","label":"date the four labour codes came into force, replacing 29 central laws","source":"KPMG; Business Standard"},{"value":"10","label":"states with final rules as of Sep 24, 2026, unnamed by the government","source":"Business Standard"},{"value":"1 year vs 5 years","label":"service needed for fixed-term gratuity in several states' rules versus Gujarat's","source":"Shardul Amarchand Mangaldas, Oct 2026"}]}
 ```
 
-## What should happen by 31 October
+## What should happen by October 31
 
 The Labour Ministry should publish, on its website, a state-wise table showing which rules each state has notified under each code, with the date and a link to the gazette. It should update the table every week.
 
-Every state that misses 31 October should publish a dated timetable for its final rules, and explain any provision where it plans to depart from the central rules. And the Centre should clear up the open definitions it controls, so that states are not left to guess.
+Every state that misses October 31 should publish a dated timetable for its final rules, and explain any provision where it plans to depart from the central rules. And the Centre should clear up the open definitions it controls, so that states are not left to guess.
 
 All of this can be done without new law. The workers the codes were written for are owed an answer, and a date by which they will get it.

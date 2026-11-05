@@ -11,7 +11,7 @@ published: 2026-10-19T05:15:00+05:30
 location: Pune
 keyPoints:
   - "Five brokerages on average expect net profit of about **₹6,383 crore**, up 29% from ₹4,948 crore."
-  - "Assets under management rose **26.5% to ₹5.85 lakh crore** by 30 September, the company has said."
+  - "Assets under management rose **26.5% to ₹5.85 lakh crore** by September 30, the company has said."
   - "Managing Director Rajeev Jain will take questions from analysts on an **earnings call at 6 pm**."
 hero:
   need: "Rajeev Jain, Vice Chairman and Managing Director of Bajaj Finance"
@@ -42,10 +42,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Consensus (five brokerages) ₹6,383 cr profit vs ₹4,948 cr; NII ₹13,373 cr vs ₹10,785 cr; Motilal Oswal, Nomura and PL Capital views: ET preview via inkl only. Exact publish date of the preview not shown; dated 18 Oct as the latest likely date."
+    - "Consensus (five brokerages) ₹6,383 cr profit vs ₹4,948 cr; NII ₹13,373 cr vs ₹10,785 cr; Motilal Oswal, Nomura and PL Capital views: ET preview via inkl only. Exact publish date of the preview not shown; dated Oct 18 as the latest likely date."
     - "Provisional Q2 business update (AUM ₹5,84,750 cr, +26.5%; customers 12.89 cr; new loans 1.35 cr, +11%; deposits ₹69,750 cr; ~₹37,800 cr AUM added in quarter) agrees across inkl/ET and ScanX."
     - "Earnings call 6 pm IST Monday with Rajeev Jain and Sandeep Jain: ScanX citing the company's Reg 30 intimation."
-    - "Bajaj Housing profit +18% to ₹757 cr from site's own story and ScanX headline. Other Monday reporters from site's 18 Oct calendar story."
+    - "Bajaj Housing profit +18% to ₹757 cr from site's own story and ScanX headline. Other Monday reporters from site's Oct 18 calendar story."
     - "Hero: Rajeev Jain Wikipedia page title not confirmed; fallback 'Bajaj Finance'."
 ---
 

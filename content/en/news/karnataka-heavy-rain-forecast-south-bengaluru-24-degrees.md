@@ -22,7 +22,7 @@ hero:
     value: "Heavy rain for 3 to 4 days"
 related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
 seo:
-  description: "Heavy rain is forecast across Karnataka for three to four days from 25 October 2026, heaviest in the south; Bengaluru to see a high of 24C and low of 19C."
+  description: "Heavy rain is forecast across Karnataka for three to four days from October 25, 2026, heaviest in the south; Bengaluru to see a high of 24C and low of 19C."
 sources:
   - title: "Karnataka weather report 25-10-2026"
     publisher: "Public TV"

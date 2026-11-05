@@ -22,7 +22,7 @@ hero:
     value: "Rupee at 94.92"
 related: [rupee-sixth-gain-forex-reserves-fall-726-billion, sensex-nifty-close-october-19-private-banks-axis, rbi-raises-repo-rate-to-5-50, global-cues-dussehra-holiday-wall-street-oil-october-20]
 seo:
-  description: "The rupee closed 3 paise lower at 94.92 against the dollar on 19 October 2026, ending a six-session winning streak as importers bought dollars and stocks fell."
+  description: "The rupee closed 3 paise lower at 94.92 against the dollar on October 19, 2026, ending a six-session winning streak as importers bought dollars and stocks fell."
 sources:
   - title: "Rupee falls 3 paise to close at 94.92 against US dollar"
     publisher: "PTI via DT Next"
@@ -49,6 +49,6 @@ Oil gave some help. Brent crude futures were down about 1.2% at $108.58 a barrel
 
 Analysts said oil would decide how far the rupee can recover. "RBI measures may help stabilise short-term currency movements, but a sustainable recovery will depend on lower oil prices," said Gaurav Garg, head of research at Lemonn. Anuj Choudhary, research analyst at Mirae Asset Sharekhan, said: "We expect the rupee to trade with a positive bias on overall weakness in the dollar."
 
-Traders are now waiting for Wednesday's minutes of the Reserve Bank's October meeting, at which it raised the repo rate for the first time in four years, for clues on how far it will go. "We expect a 25bp hike in December," economists at ANZ said in a note, adding that persistent pressure on the currency could push the central bank towards a bigger move. The US midterm elections on 3 November are another risk on traders' minds.
+Traders are now waiting for Wednesday's minutes of the Reserve Bank's October meeting, at which it raised the repo rate for the first time in four years, for clues on how far it will go. "We expect a 25bp hike in December," economists at ANZ said in a note, adding that persistent pressure on the currency could push the central bank towards a bigger move. The US midterm elections on November 3 are another risk on traders' minds.
 
-The rupee had gained about 2% last week, the best showing among emerging market currencies, after hitting a record closing low of 96.88 on 8 October.
+The rupee had gained about 2% last week, the best showing among emerging market currencies, after hitting a record closing low of 96.88 on October 8.

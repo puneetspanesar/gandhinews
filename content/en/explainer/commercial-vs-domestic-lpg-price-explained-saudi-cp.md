@@ -53,10 +53,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "1 November 2026 prices (Delhi ₹2,820, +₹10; Kolkata ₹2,971, +₹17; Mumbai ₹2,775; Chennai ₹2,994.50), Aramco November CP (propane $720, +$40; butane $780, +$50), domestic ₹942 unchanged, ₹82 rise since August and year-ago ₹1,590.50 are from the desk's 1 November news story and its sources (Goodreturns, Lalluram, Republic World). Not re-opened for this piece."
-    - "Ministry quotes 'market-determined and directly linked to international benchmarks' and 'revisions in commercial LPG prices reflect movements in global LPG prices and associated costs' and the ₹111 January rise from IANS, 1 January 2026."
-    - "Supply cost above ₹1,600, under-recovery about ₹700, ₹60 rise on 7 March, ₹29 rise in June, ₹942 Delhi, PMUY effective ₹642 and ₹300 per refill, about 60% imported, about 54% of consumption via Hormuz, June commercial ₹3,113.50 after five increases, about ₹66/kg household vs ₹164/kg commercial in June, ministry quote 'What the household does not bear the brunt of...', country comparisons: The Week, 7 June 2026. Statesman (same ministry briefing) confirms ₹1,600, ₹700, ₹942, ₹642, 10.58 crore PMUY connections, ₹30,000 crore Cabinet compensation, cumulative under-recovery ₹60,000 crore by end of 2025-26 (from ₹41,338 crore), blended Saudi CP $542.50 Feb, $775 April, $790 June."
-    - "Date of June domestic increase differs (news desk story says 7 June; The Week implies Saturday 6 June). Copy says 'in June'."
+    - "November 1, 2026, prices (Delhi ₹2,820, +₹10; Kolkata ₹2,971, +₹17; Mumbai ₹2,775; Chennai ₹2,994.50), Aramco November CP (propane $720, +$40; butane $780, +$50), domestic ₹942 unchanged, ₹82 rise since August and year-ago ₹1,590.50 are from the desk's November 1 news story and its sources (Goodreturns, Lalluram, Republic World). Not re-opened for this piece."
+    - "Ministry quotes 'market-determined and directly linked to international benchmarks' and 'revisions in commercial LPG prices reflect movements in global LPG prices and associated costs' and the ₹111 January rise from IANS, January 1, 2026."
+    - "Supply cost above ₹1,600, under-recovery about ₹700, ₹60 rise on March 7, ₹29 rise in June, ₹942 Delhi, PMUY effective ₹642 and ₹300 per refill, about 60% imported, about 54% of consumption via Hormuz, June commercial ₹3,113.50 after five increases, about ₹66/kg household vs ₹164/kg commercial in June, ministry quote 'What the household does not bear the brunt of...', country comparisons: The Week, June 7, 2026. Statesman (same ministry briefing) confirms ₹1,600, ₹700, ₹942, ₹642, 10.58 crore PMUY connections, ₹30,000 crore Cabinet compensation, cumulative under-recovery ₹60,000 crore by end of 2025-26 (from ₹41,338 crore), blended Saudi CP $542.Feb 50, $775 April, $790 June."
+    - "Date of June domestic increase differs (news desk story says June 7; The Week implies Saturday, June 6). Copy says 'in June'."
     - "Number of subsidised PMUY refills a year conflicts between sources (IANS: up to nine for 2025-26; The Week: first four a year); copy gives no number."
     - "Names of the three public sector oil marketing companies are standard. That prices eased over the summer is inferred from June ₹3,113.50 and the ₹82 rise since August to ₹2,820 (implying about ₹2,738 in July)."
     - "November blended CP ($750, simple average of $720 and $780) and current commercial price per kg (about ₹148 = ₹2,820/19) are desk calculations. Under-recovery figure is as of June; no newer figure found, copy dates it."
@@ -86,12 +86,12 @@ Prices then eased over the summer before turning up again. Across the three revi
 
 ## And the household cylinder?
 
-**Its price is held far below what it costs to supply.** The household price was raised twice this year, by ₹60 on 7 March and by ₹29 in June, to ₹942 in Delhi. Even so, the ministry said in June that the cost of supplying a 14.2-kg cylinder had crossed ₹1,600, leaving oil companies with an **under-recovery of about ₹700 a cylinder**.
+**Its price is held far below what it costs to supply.** The household price was raised twice this year, by ₹60 on March 7 and by ₹29 in June, to ₹942 in Delhi. Even so, the ministry said in June that the cost of supplying a 14.2-kg cylinder had crossed ₹1,600, leaving oil companies with an **under-recovery of about ₹700 a cylinder**.
 
 "What the household does not bear the brunt of is the several hundred rupees a cylinder which the government is bearing," the ministry said. The Union Cabinet has approved ₹30,000 crore to compensate the oil companies, against cumulative under-recoveries put at ₹60,000 crore by the end of 2025-26.
 
 ```compare
-{"title":"Household and commercial LPG compared","columns":["Household (14.2 kg)","Commercial (19 kg)"],"rows":[{"icon":"users","label":"Who uses it","cells":["Homes","Hotels, restaurants, sweet shops"]},{"icon":"currency-inr","label":"Delhi price, 1 November","cells":["₹942, unchanged","₹2,820, up ₹10"]},{"icon":"chart-line","label":"How the price is set","cells":["Decided with the government, held below cost","Tracks world benchmarks such as the Saudi CP"]},{"icon":"calendar-blank","label":"How often it changes","cells":["Occasionally; twice in 2026","Revised on the first of every month"]},{"icon":"percent","label":"Subsidy","cells":["₹300 a refill for Ujjwala homes","None"]}]}
+{"title":"Household and commercial LPG compared","columns":["Household (14.2 kg)","Commercial (19 kg)"],"rows":[{"icon":"users","label":"Who uses it","cells":["Homes","Hotels, restaurants, sweet shops"]},{"icon":"currency-inr","label":"Delhi price, November 1","cells":["₹942, unchanged","₹2,820, up ₹10"]},{"icon":"chart-line","label":"How the price is set","cells":["Decided with the government, held below cost","Tracks world benchmarks such as the Saudi CP"]},{"icon":"calendar-blank","label":"How often it changes","cells":["Occasionally; twice in 2026","Revised on the first of every month"]},{"icon":"percent","label":"Subsidy","cells":["₹300 a refill for Ujjwala homes","None"]}]}
 ```
 
 ## What do poorer households pay?
@@ -100,7 +100,7 @@ Prices then eased over the summer before turning up again. Across the three revi
 
 ## What does it mean for you?
 
-**Eating out may cost a little more.** Commercial gas is a direct cost for eateries and sweet makers, whose gas use peaks in the run-up to Diwali, and many may pass the rise on. Households are protected for now, but the gap between cost and price does not disappear. It sits on the books of the oil companies and, through compensation, the government. As long as Hormuz stays closed and Gulf prices stay high, that bill keeps growing, and the pressure for another household increase grows with it. The next commercial revision is due on 1 December.
+**Eating out may cost a little more.** Commercial gas is a direct cost for eateries and sweet makers, whose gas use peaks in the run-up to Diwali, and many may pass the rise on. Households are protected for now, but the gap between cost and price does not disappear. It sits on the books of the oil companies and, through compensation, the government. As long as Hormuz stays closed and Gulf prices stay high, that bill keeps growing, and the pressure for another household increase grows with it. The next commercial revision is due on December 1.
 
 ```photo
 {"n":2,"subject":"LPG cylinder","caption":"An LPG cylinder. Sweet shops and eateries run on the 19-kg commercial cylinder and use the most gas in the weeks before Diwali.","alt":"A red LPG cylinder"}

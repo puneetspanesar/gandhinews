@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Zetwerk's IPO was subscribed **1.25 times by 2:20 pm** on the final day."
   - "Qualified institutional buyers **led the late demand**, after holding back for two days."
-  - "Zetwerk and Tonbo Imaging are due to list on **23 October**."
+  - "Zetwerk and Tonbo Imaging are due to list on **October 23**."
 hero:
   need: "A Zetwerk factory or Zetwerk's Bengaluru office"
   suggested_source: "Zetwerk"
@@ -22,7 +22,7 @@ hero:
     value: "1.25 times subscribed on day three"
 related: [zetwerk-tonbo-ipo-day-two-close-subscription, zetwerk-tonbo-ipos-day-two, zetwerk-ipo-day-one-subscription, zetwerk-ipo-price-band-opens-october-15, tonbo-imaging-ipo-price-band-defence-tech, ipo-week-ahead-jio-platforms-paras-healthcare-open]
 seo:
-  description: "Zetwerk's ₹5,012.33 crore IPO was subscribed 1.25 times by 2:20 pm on 19 October 2026, its final day, led by qualified institutional buyers."
+  description: "Zetwerk's ₹5,012.33 crore IPO was subscribed 1.25 times by 2:20 pm on October 19, 2026, its final day, led by qualified institutional buyers."
 sources:
   - title: "Stock Market LIVE, 19 October 2026 (Zetwerk IPO update, 2:20 pm)"
     publisher: "Business Standard"
@@ -46,4 +46,4 @@ Zetwerk, a contract manufacturer, is selling shares at ₹143 to ₹151 each. Th
 
 Tonbo Imaging, the defence electronics maker whose ₹852.18 crore offer opened on the same day as Zetwerk's, also closed on Monday. Its sale had already been bid close to eight times by Friday, with heavy demand from wealthy individuals.
 
-Shares in Tonbo are due to be allotted on 21 October, and both companies are expected to list on the BSE and NSE on 23 October. The next big test for the primary market comes on Wednesday, when the ₹30,200 crore Jio Platforms offer opens.
+Shares in Tonbo are due to be allotted on October 21, and both companies are expected to list on the BSE and NSE on October 23. The next big test for the primary market comes on Wednesday, when the ₹30,200 crore Jio Platforms offer opens.

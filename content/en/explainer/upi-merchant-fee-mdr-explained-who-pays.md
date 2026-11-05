@@ -6,7 +6,7 @@ section: economy
 format_label: "Explained / Payments"
 topics: [economy]
 title: "The new UPI fee on shop payments: what the merchant discount rate is, and who ends up paying"
-standfirst: "UPI payments to shops have been free for merchants since 2020. A fee on larger payments was due on 15 October and has been put off until after Diwali. How it works, what is exempt and whether customers will feel it."
+standfirst: "UPI payments to shops have been free for merchants since 2020. A fee on larger payments was due on October 15 and has been put off until after Diwali. How it works, what is exempt and whether customers will feel it."
 published: 2026-10-14T21:00:00+05:30
 shortAnswer: "The merchant discount rate (MDR) is a small fee a shop or business pays on each digital payment it receives, shared among the banks, payment apps and the network that move the money. UPI has carried no MDR since January 2020. Under the new rules, merchants will pay 0.40% on UPI payments above ₹2,000, capped at ₹300, from a date after Diwali. Payments between people, payments up to ₹2,000 and small merchants are exempt, and the Finance Ministry has told banks the cost should not be passed to customers."
 hero:
@@ -38,11 +38,11 @@ verification:
   status: approved
   notes:
     - "NPCI circular not read directly. Rates (0.40% above ₹2,000, ₹300 cap, flat ₹5 for telecom/railways/utility-type payments, 0.02% for capital-market payments) agree across Outlook Money and SuperKalam; deferral wording 'immediately post Diwali on a date to be notified separately' from Business Standard."
-    - "Lists of flat-₹5 categories differ slightly between sources (Outlook: telecom, railways, fuel, insurance; SuperKalam: railways, telecom, utility bills; our 13 Oct story: bills, utilities, education, fuel). Copy names only telecom, railways and utility bills, which appear in two."
+    - "Lists of flat-₹5 categories differ slightly between sources (Outlook: telecom, railways, fuel, insurance; SuperKalam: railways, telecom, utility bills; our Oct 13 story: bills, utilities, education, fuel). Copy names only telecom, railways and utility bills, which appear in two."
     - "Exemptions for autopay mandates and for small merchants receiving up to ₹1 lakh a month into personal accounts (lost after three consecutive months above), the Finance Ministry advice on not passing costs on, and NPCI's ₹20,000 crore annual infrastructure cost: SuperKalam digest only. Attributed or stated with care."
     - "RuPay debit card exemption: Outlook Money only. Not used."
     - "4% of P2M volume / about two-thirds of value above ₹2,000 attributed to Adhil Shetty of BankBazaar (Outlook). ₹16,000 crore a year revenue estimate is Outlook's figure, written as an estimate."
-    - "Zero MDR on UPI and RuPay debit cards from 1 January 2020 under the 2019 changes to the Payment and Settlement Systems Act and Income-tax Act: standard background, no 2026 document opened."
+    - "Zero MDR on UPI and RuPay debit cards from January 1, 2020, under the 2019 changes to the Payment and Settlement Systems Act and Income-tax Act: standard background, no 2026 document opened."
     - "Government incentive scheme for UPI and RuPay payments described generally; no amount stated because no 2026 figure was read."
     - "Worked examples (₹5,000 gives ₹20, ₹10,000 gives ₹40, cap at ₹75,000) are arithmetic on the published rate."
 ---
@@ -53,13 +53,13 @@ verification:
 
 When you pay a shop by card, the shop does not get the full amount. A percentage goes to the chain that made the payment possible: the customer's bank, the shop's bank, the company that supplied the card machine or QR code, and the network operator. That slice is the merchant discount rate, or MDR. Card payments in India have always carried one.
 
-UPI has not. Since 1 January 2020 the government has required UPI and RuPay debit card payments to merchants to be free of MDR, and has paid banks a yearly incentive to make up part of the cost.
+UPI has not. Since January 1, 2020, the government has required UPI and RuPay debit card payments to merchants to be free of MDR, and has paid banks a yearly incentive to make up part of the cost.
 
 ## What is changing?
 
 **From a date after Diwali, merchants will pay 0.40% on UPI payments above ₹2,000, with the fee capped at ₹300 a payment.**
 
-The rates were set by the UPI steering committee and announced by the National Payments Corporation of India (NPCI), which runs the network, in September. The fee was due to start on 15 October. This week NPCI said it would instead begin "immediately post Diwali on a date to be notified separately", citing the festive season.
+The rates were set by the UPI steering committee and announced by the National Payments Corporation of India (NPCI), which runs the network, in September. The fee was due to start on October 15. This week NPCI said it would instead begin "immediately post Diwali on a date to be notified separately", citing the festive season.
 
 A few kinds of payment have their own rates. Some essential payments, such as telecom, railway and utility bills, will carry a flat ₹5 a transaction above ₹2,000. Payments for mutual funds and securities carry 0.02%, also capped at ₹300.
 

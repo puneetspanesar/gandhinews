@@ -9,11 +9,11 @@ title: "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring 
 standfirst: "A week ago the Supreme Court suggested that voters dropped from Delhi's draft roll should not have to apply afresh as if they were new. The Election Commission has now told them Form 6 is fine. With three weeks left to file claims, voters deserve a simple route back and their names on a list at every booth."
 published: 2026-11-04T18:05:00+05:30
 keyPoints:
-  - "**47.56 lakh Delhi electors** were left out of the draft roll; claims close on 25 November."
-  - "The Commission's 3 November letter says Form 6 is fine, after its counsel had spoken of **a separate form, not called Form 6**."
+  - "**47.56 lakh Delhi electors** were left out of the draft roll; claims close on November 25."
+  - "The Commission's November 3 letter says Form 6 is fine, after its counsel had spoken of **a separate form, not called Form 6**."
   - "The Commission should accept Form 8 or the enumeration form and **publish deleted names at every booth**."
 hero:
-  need: "Nirvachan Sadan, the Election Commission of India headquarters in New Delhi, which issued the 3 November clarification"
+  need: "Nirvachan Sadan, the Election Commission of India headquarters in New Delhi, which issued the November 3 clarification"
   suggested_source: "Nirvachan Sadan"
   subjects: ["Nirvachan Sadan"]
   alt: "Voters queue with their identity cards to vote (file photo)"
@@ -23,21 +23,21 @@ hero:
 infographic:
   kicker: "Our view"
   headline: "Delhi's dropped voters need a simple way back"
-  dek: "Claims close on 25 November; the final roll is due on 22 December"
+  dek: "Claims close on November 25; the final roll is due on December 22"
   motif: identification-card
   stats:
-    - {icon: users, value: "47.56 lakh", label: "electors left out of Delhi's draft roll on 31 August"}
-    - {icon: files, value: "2.76 lakh", label: "Form 6 applications from all applicants, 31 August to 28 October"}
-    - {icon: calendar-blank, value: "25 Nov", label: "last date for claims and objections"}
+    - {icon: users, value: "47.56 lakh", label: "electors left out of Delhi's draft roll on August 31"}
+    - {icon: files, value: "2.76 lakh", label: "Form 6 applications from all applicants, August 31 to October 28"}
+    - {icon: calendar-blank, value: "Nov 25", label: "last date for claims and objections"}
   timeline:
-    - {date: "28 Oct", text: "Supreme Court suggests Form 8 or enumeration forms", icon: scales}
-    - {date: "29 Oct", text: "Commission extends claims to 25 November", icon: calendar-blank}
-    - {date: "3 Nov", text: "Commission says missing electors may file Form 6", icon: files}
-    - {date: "19 Nov", text: "Supreme Court to hear the issue", icon: gavel}
+    - {date: "Oct 28", text: "Supreme Court suggests Form 8 or enumeration forms", icon: scales}
+    - {date: "Oct 29", text: "Commission extends claims to November 25", icon: calendar-blank}
+    - {date: "Nov 3", text: "Commission says missing electors may file Form 6", icon: files}
+    - {date: "Nov 19", text: "Supreme Court to hear the issue", icon: gavel}
   source: "Supreme Court proceedings; Election Commission notification and clarification"
 related: [supreme-court-delhi-sir-form-6-ec-clarification-cji-mention, delhi-high-court-form-6-sir-deleted-voters-ec, delhi-sir-reverification-47-lakh-deleted-voters, special-intensive-revision-how-to-check-your-name]
 seo:
-  description: "Gandhi News editorial: voters dropped from Delhi's SIR draft roll should be allowed back through Form 8 or the enumeration form, with deleted names listed at every booth before the 25 November claims deadline."
+  description: "Gandhi News editorial: voters dropped from Delhi's SIR draft roll should be allowed back through Form 8 or the enumeration form, with deleted names listed at every booth before the November 25 claims deadline."
 sources:
   - title: "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6"
     publisher: "LiveLaw"
@@ -67,31 +67,31 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. 4 Nov mention (Bhushan for Anjali Bhardwaj and Amrita Johri; CJI 'people need not be apprehensive'; application to be filed; 19 Nov hearing; EC 3 Nov clarification quote 'not, by itself, false merely because the elector was previously enrolled'; no action under Section 31 RP Act 1950 on that ground alone) from the desk's 4 Nov news story (LiveLaw)."
-    - "28 Oct hearing (CJI Surya Kant, Justices Joymalya Bagchi and V Mohana; CJI quote 'Instead of putting the burden on them that they will approach, why don't you reach out to them?'; Bagchi view that enumeration forms should suffice until final roll; EC counsel Dama Seshadri Naidu said EC would provide a separate form, not called Form 6, and consider a residual category): LiveLaw 28 Oct, fetched."
-    - "Revised timeline (claims to 25 Nov, disposal by 15 Dec, final roll 22 Dec) and 2,75,856 Form 6 applications 31 Aug to 28 Oct: ThePrint (PTI) 29 Oct, fetched. Form 6 figure covers all applicants including first-time voters; copy says so. Rounded to 2.76 lakh."
+    - "Editorial view of the desk. Nov 4 mention (Bhushan for Anjali Bhardwaj and Amrita Johri; CJI 'people need not be apprehensive'; application to be filed; Nov 19 hearing; EC Nov 3 clarification quote 'not, by itself, false merely because the elector was previously enrolled'; no action under Section 31 RP Act 1950 on that ground alone) from the desk's Nov 4 news story (LiveLaw)."
+    - "Oct 28 hearing (CJI Surya Kant, Justices Joymalya Bagchi and V Mohana; CJI quote 'Instead of putting the burden on them that they will approach, why don't you reach out to them?'; Bagchi view that enumeration forms should suffice until final roll; EC counsel Dama Seshadri Naidu said EC would provide a separate form, not called Form 6, and consider a residual category): LiveLaw Oct 28, fetched."
+    - "Revised timeline (claims to Nov 25, disposal by Dec 15, final roll Dec 22) and 2,75,856 Form 6 applications Aug 31 to Oct 28: ThePrint (PTI) Oct 29, fetched. Form 6 figure covers all applicants including first-time voters; copy says so. Rounded to 2.76 lakh."
     - "47.56 lakh excluded, 31.59 lakh marked permanently shifted: desk's earlier stories."
-    - "Petitioners' letter to CEC (Form 8 and enumeration forms, booth-level lists, publicity in Hindi and other languages): desk's 4 Nov story."
+    - "Petitioners' letter to CEC (Form 8 and enumeration forms, booth-level lists, publicity in Hindi and other languages): desk's Nov 4 story."
     - "Recommendations are the desk's own."
 ---
 
-Nearly a third of Delhi's electorate, **47.56 lakh people, was left out of the draft roll** published on 31 August under the Special Intensive Revision. Most were marked as having shifted. Many of them were on the 2026 rolls and still live in the city. They have until 25 November to get back on, and the question of how they should do it has been back before the Supreme Court again and again.
+Nearly a third of Delhi's electorate, **47.56 lakh people, was left out of the draft roll** published on August 31 under the Special Intensive Revision. Most were marked as having shifted. Many of them were on the 2026 rolls and still live in the city. They have until November 25 to get back on, and the question of how they should do it has been back before the Supreme Court again and again.
 
-On 28 October the court made its view plain. Voters who were already on the rolls, it suggested, should not be pushed onto Form 6, the form for new voters, but allowed to use Form 8 or the enumeration form. Chief Justice Surya Kant put the principle simply: "Instead of putting the burden on them that they will approach, why don't you reach out to them?" The Commission's own counsel told the bench it would **provide a separate form, not called Form 6**.
+On October 28 the court made its view plain. Voters who were already on the rolls, it suggested, should not be pushed onto Form 6, the form for new voters, but allowed to use Form 8 or the enumeration form. Chief Justice Surya Kant put the principle simply: "Instead of putting the burden on them that they will approach, why don't you reach out to them?" The Commission's own counsel told the bench it would **provide a separate form, not called Form 6**.
 
 ## A letter instead of a form
 
-What came instead, on 3 November, was a letter to state electoral officers. It says missing electors **may submit Form 6** even if they were enrolled before, that such a declaration is "not, by itself, false merely because the elector was previously enrolled", and that no one will be prosecuted on that ground alone.
+What came instead, on November 3, was a letter to state electoral officers. It says missing electors **may submit Form 6** even if they were enrolled before, that such a declaration is "not, by itself, false merely because the elector was previously enrolled", and that no one will be prosecuted on that ground alone.
 
-On Wednesday the petitioners told the Chief Justice this runs against what the court had suggested. He said the matter was pending and that people need not be apprehensive, and the issue will be heard on 19 November.
+On Wednesday the petitioners told the Chief Justice this runs against what the court had suggested. He said the matter was pending and that people need not be apprehensive, and the issue will be heard on November 19.
 
 ```timeline
-{"title":"Getting Delhi's deleted voters back on the roll","items":[{"date":"31 August","text":"Draft roll leaves out 47.56 lakh Delhi voters"},{"date":"28 October","text":"Supreme Court suggests Form 8 or the enumeration form for voters already on the rolls"},{"date":"3 November","text":"Election Commission letter says missing electors may file Form 6"},{"date":"4 November","text":"Petitioners raise the letter before the Chief Justice"},{"date":"19 November","text":"Supreme Court to hear the issue"},{"date":"25 November","text":"Last date for claims and objections"},{"date":"22 December","text":"Final roll due"}]}
+{"title":"Getting Delhi's deleted voters back on the roll","items":[{"date":"August 31","text":"Draft roll leaves out 47.56 lakh Delhi voters"},{"date":"October 28","text":"Supreme Court suggests Form 8 or the enumeration form for voters already on the rolls"},{"date":"November 3","text":"Election Commission letter says missing electors may file Form 6"},{"date":"November 4","text":"Petitioners raise the letter before the Chief Justice"},{"date":"November 19","text":"Supreme Court to hear the issue"},{"date":"November 25","text":"Last date for claims and objections"},{"date":"December 22","text":"Final roll due"}]}
 ```
 
 ## The fair objection
 
-The Commission has a point. Form 6 is a working route, the Delhi High Court said last month that the fear of a false-declaration charge was misplaced, and the 3 November letter puts the promise of no prosecution in writing. Applications are coming in: about 2.76 lakh Form 6 applications were filed between 31 August and 28 October, though that figure includes first-time voters. Changing forms in mid-revision could confuse people further.
+The Commission has a point. Form 6 is a working route, the Delhi High Court said last month that the fear of a false-declaration charge was misplaced, and the November 3 letter puts the promise of no prosecution in writing. Applications are coming in: about 2.76 lakh Form 6 applications were filed between August 31 and October 28, though that figure includes first-time voters. Changing forms in mid-revision could confuse people further.
 
 But a voter who has been on the roll for years is being asked to sign a form built for someone who never was, on the strength of an assurance in a circular she will never see. That is not how an electoral roll should be rebuilt. And **2.76 lakh applications against 47.56 lakh deletions** suggests the present route is not reaching most of the people it is meant for.
 
@@ -103,6 +103,6 @@ Second, **publish the list of deleted names at every booth** and in every block 
 
 Third, explain the process in plain Hindi and the city's other languages, in newspapers and at polling stations, as the petitioners have asked.
 
-Fourth, report weekly until 25 November how many deleted voters have applied and how many have been restored. The final roll is due on 22 December. Delhi should know well before then whether lakhs of its residents are about to lose their vote because of paperwork.
+Fourth, report weekly until November 25 how many deleted voters have applied and how many have been restored. The final roll is due on December 22. Delhi should know well before then whether lakhs of its residents are about to lose their vote because of paperwork.
 
 The burden of proving that a voter exists should not fall on the voter alone. The court has said so. The Commission should act as if it heard.

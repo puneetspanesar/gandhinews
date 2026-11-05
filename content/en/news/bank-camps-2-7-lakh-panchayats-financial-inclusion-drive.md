@@ -6,11 +6,11 @@ section: policy
 format_label: "Policy / Banking"
 topics: []
 title: "Bank camps open in 2.7 lakh panchayats and towns for Jan Dhan, insurance and re-KYC"
-standfirst: "The Finance Ministry's saturation drive, which began on Wednesday and runs until 31 December, also targets unclaimed deposits and Kisan Credit Cards ahead of the rabi season."
+standfirst: "The Finance Ministry's saturation drive, which began on Wednesday and runs until December 31, also targets unclaimed deposits and Kisan Credit Cards ahead of the rabi season."
 published: 2026-10-21T17:40:00+05:30
 location: New Delhi
 keyPoints:
-  - "Banks are holding camps across **2.70 lakh gram panchayats and urban local bodies** until 31 December."
+  - "Banks are holding camps across **2.70 lakh gram panchayats and urban local bodies** until December 31."
   - "People can open Jan Dhan accounts, enrol in insurance and pension schemes and **complete re-KYC** at the camps."
   - "The drive also pushes **Kisan Credit Cards** and crop insurance for PM-Kisan beneficiaries before the rabi season."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Banks go to 2.7 lakh panchayats"
 related: []
 seo:
-  description: "The Finance Ministry's financial inclusion camps began on 21 October in 2.70 lakh panchayats and towns, offering Jan Dhan accounts, insurance, APY, re-KYC and KCC until 31 December."
+  description: "The Finance Ministry's financial inclusion camps began on October 21 in 2.70 lakh panchayats and towns, offering Jan Dhan accounts, insurance, APY, re-KYC and KCC until December 31."
 sources:
   - title: "Finance Ministry launches bank camps from Oct 21 to boost financial inclusion (IANS)"
     publisher: "Punjab Kesari (English)"
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "End date 31 Dec 2026 and DFS as organiser from the page reproducing PIB release 2325230 (19 Oct); PIB page itself not fetched. IANS says 'until December'."
+    - "End date Dec 31, 2026, and DFS as organiser from the page reproducing PIB release 2325230 (Oct 19); PIB page itself not fetched. IANS says 'until December'."
     - "No number of camps, targets or minister quote available; none given."
     - "Hero suggestion is a scheme name; photo team may need a generic PMJDY image."
 ---
 
 Banks began holding camps in 2.70 lakh gram panchayats and urban local bodies on Wednesday, as the Finance Ministry opened a drive to bring every eligible person into its main financial inclusion schemes.
 
-The Saturation Campaign of Financial Inclusion Schemes, organised by the ministry's Department of Financial Services, runs until 31 December. The ministry said it reflected the government's commitment to "empowering citizens at the last mile" and to bringing the unbanked into the formal financial system.
+The Saturation Campaign of Financial Inclusion Schemes, organised by the ministry's Department of Financial Services, runs until December 31. The ministry said it reflected the government's commitment to "empowering citizens at the last mile" and to bringing the unbanked into the formal financial system.
 
 ## What the camps offer
 
