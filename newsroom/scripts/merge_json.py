@@ -55,5 +55,5 @@ else:
     for k in base:
         if k not in ours and k in out and out[k] == base[k]: del out[k]  # ours deleted, theirs untouched
 with open(ours_p, 'w') as f:
-    json.dump(out, f, ensure_ascii=False, indent=1)
+    json.dump(out, f, ensure_ascii=False, indent=2 if 'homepage' in sys.argv[-1] else 1)
     f.write('\n')
