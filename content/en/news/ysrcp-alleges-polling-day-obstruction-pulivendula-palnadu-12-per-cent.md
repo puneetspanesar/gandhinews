@@ -84,9 +84,6 @@ The party's list ran well beyond Kadapa. In Ramagiri mandal of Sri Sathya Sai di
 
 It said Sakshi reporter Pulla Reddy was attacked at Lingala while covering the vote, his phone broken and his leg injured. In Chittoor, the party accused a personal assistant of coalition MLA Gurajala Jagan Mohan of going to the homes of YSRCP leaders and warning them not to act as agents.
 
-```photo
-{"n":1,"subject":"Gorantla Madhav","caption":"Former MP Gorantla Madhav, who the YSRCP says was placed under house arrest in Anantapur on polling day.","alt":"Gorantla Madhav"}
-```
 
 Former MP Gorantla Madhav was **placed under house arrest in Anantapur**, the party said. In Kandukuru, police served a notice on former MLA Burra Madhusudhan Yadav warning of legal action if he broke restrictions. Yadav said he was only watching the process as Election Commission rules allow, and asked why the ruling party's MLA faced no such curbs.
 
@@ -96,16 +93,10 @@ The YSRCP asked the State Election Commission and senior police officers to step
 
 Away from the allegations, Palnadu district reported a quiet morning. By 9 am, **12.06% of its 4,60,784 voters** had cast their ballots at 576 polling stations across 11 mandals, district election authorities said, with no trouble reported.
 
-```photo
-{"n":2,"subject":"Piduguralla","caption":"Piduguralla in Palnadu district, which led the district's early turnout at 18.55% by 9 am.","alt":"Piduguralla town, Palnadu district"}
-```
 
 Piduguralla led at 18.55%, followed by Gurazala and Sattenapalli at nearly 16.8% each. Chilakaluripet was slowest at 4.63%.
 
 Elsewhere the weather left by Cyclone Murasu was still a factor. State Election Commission officials said polling had been put off to Friday in **five mandals across Eluru and East Godavari** and at two centres in another mandal. At Janardhanapuram in Gudivada constituency, rainwater flooded a polling station, and officials were reported to have laid sandbags as a walkway for elderly and disabled voters. All 120 voters of Rayanipeta in Bheemili mandal were reported to have stayed away in protest over the lack of basic amenities.
 
-```photo
-{"n":3,"subject":"Gudivada","caption":"Gudivada in Krishna district, where a polling station at Janardhanapuram was flooded by rain.","alt":"Gudivada town, Krishna district"}
-```
 
 Voting for 582 ZPTC and 7,767 MPTC seats ends at 5 pm. **Counting is on Saturday**, 7 November.

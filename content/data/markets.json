@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T09:10:00+05:30",
+  "as_of": "2026-11-05T10:00:00+05:30",
   "status": "open",
   "session_date": "2026-11-05",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 78925.0,
-      "change": 1623.6,
-      "pct": 2.1,
+      "value": 78854.23,
+      "change": 1552.83,
+      "pct": 2.01,
       "history": [
         {
           "date": "2026-09-30",
@@ -103,9 +103,9 @@
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 24378.0,
-      "change": 417.4,
-      "pct": 1.74,
+      "value": 24388.4,
+      "change": 427.8,
+      "pct": 1.79,
       "history": [
         {
           "date": "2026-09-30",
@@ -202,16 +202,16 @@
       "id": "nifty-bank",
       "name": "Nifty Bank",
       "name_hi": "निफ्टी बैंक",
-      "value": 55913.6,
-      "change": 373.55,
-      "pct": 0.67,
+      "value": 56867.8,
+      "change": 954.2,
+      "pct": 1.71,
       "history": [
         {
           "date": "2026-11-04",
           "close": 55913.6
         }
       ],
-      "source": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/"
+      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-5-2026-bse-sensex-nse-nifty-crude-oil-price-fii-enn26110501035"
     },
     {
       "id": "nifty-midcap-100",

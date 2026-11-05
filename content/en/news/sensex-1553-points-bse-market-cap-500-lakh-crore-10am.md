@@ -65,9 +65,6 @@ The rally on Dalal Street **gathered pace in the first hour** of trade on Thursd
 
 The Sensex opened 1,329 points higher at 78,630 and kept climbing, on course for a sixth straight day of gains. Buying came from almost every corner. Every Sensex stock except Bharti Airtel traded higher in the opening minutes, with **Maruti, Asian Paints, Bajaj Finance and M&M up 3 to 4%**. Airtel slipped slightly ahead of its September-quarter results, due later on Thursday.
 
-```photo
-{"n":1,"subject":"Bajaj Finance","caption":"Bajaj Finance was among the Sensex stocks that rose 3 to 4% in early trade on Thursday.","alt":"Bajaj Finance office"}
-```
 
 ## ₹500 lakh crore and counting
 
@@ -79,8 +76,5 @@ Bank Nifty rose 1.71% to 56,867.80. Cement, financial services and realty stocks
 
 Quarterly numbers drove some of the biggest single moves. Lenskart Solutions **jumped 10.6% to ₹762.75**, a 52-week high, after its consolidated net profit for the July to September quarter rose 122.1% to ₹227.1 crore. Nykaa's parent FSN E-Commerce went the other way, falling 3.3% to ₹343.70 even though its quarterly profit tripled to ₹101 crore.
 
-```photo
-{"n":2,"subject":"Lenskart","caption":"A Lenskart store; the eyewear retailer's shares hit a 52-week high after its quarterly profit more than doubled.","alt":"Lenskart eyewear store"}
-```
 
 The mood was set overnight on Wall Street, where the Dow rose 3.03% after the Democrats' win in the US midterm elections raised hopes of a quicker end to the West Asia conflict and pushed crude lower. Titan and Bharti Airtel are among the stocks traders are watching through the day.

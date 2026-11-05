@@ -17,16 +17,16 @@
     },
     "dataBox": [],
     "relatedBelow": [
+      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
       "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-      "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
-      "andhra-mptc-zptc-polling-today-2-81-crore-voters"
+      "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous"
     ],
     "relatedBeside": [
-      "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
+      "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
       "india-japan-asian-champions-trophy-final-mohali-preview",
-      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
       "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
     ],
     "live": {
       "title": {
@@ -38,14 +38,25 @@
   "briefing": {
     "items": [
       {
-        "link": "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
+        "link": "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
         "lead": {
           "en": "Markets:",
           "hi": "बाजार:"
         },
         "text": {
-          "en": "Sensex jumps 1,623 points in pre-open as Brent slips below $100",
-          "hi": "प्री-ओपन में सेंसेक्स 1,623 अंक उछला, ब्रेंट 100 डॉलर से नीचे"
+          "en": "Sensex up 1,553 points by 10 am as BSE market value crosses ₹500 lakh crore",
+          "hi": "सुबह 10 बजे तक सेंसेक्स 1,553 अंक ऊपर, बीएसई का बाजार मूल्य 500 लाख करोड़ रुपये के पार"
+        }
+      },
+      {
+        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am",
+          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में 9 बजे तक 12% मतदान"
         }
       },
       {
@@ -104,25 +115,14 @@
         }
       },
       {
-        "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
+        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
         "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
+          "en": "US midterms:",
+          "hi": "अमेरिकी मध्यावधि चुनाव:"
         },
         "text": {
-          "en": "Court stays Madras High Court order on a five-member board for the Chidambaram Nataraja temple",
-          "hi": "चिदंबरम नटराज मंदिर के लिए पांच सदस्यीय बोर्ड बनाने के मद्रास हाईकोर्ट के आदेश पर रोक"
-        }
-      },
-      {
-        "link": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-        "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
-        },
-        "text": {
-          "en": "Naveen Patnaik urges Majhi to take up Kotia at 'highest level' before Andhra polls",
-          "hi": "आंध्र के चुनाव से पहले नवीन पटनायक ने माझी से कहा, कोटिया का मुद्दा 'सर्वोच्च स्तर' पर उठाएं"
+          "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
+          "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
         }
       }
     ]
@@ -193,16 +193,16 @@
       "id": "cabinet-fast-track-special-courts-2031-850-courts",
       "also": []
     },
-    "list": [
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-      "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-      "supreme-court-child-labour-special-cell-centre",
-      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-      "supreme-court-two-child-norm-javed-larger-bench"
-    ],
     "also": [
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
+      "siraj-to-join-india-odi-squad-wellington-missed-auckland"
+    ],
+    "list": [
+      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+      "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
     ]
   },
   "startHere": [
@@ -386,7 +386,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
+      "lead": "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +397,19 @@
         ]
       },
       "list": [
+        "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
         "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
         "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil",
-        "wall-street-jumps-dow-1131-democrats-win-congress",
-        "nykaa-physicswallah-q2-profit-nearly-triples-doubles"
+        "wall-street-jumps-dow-1131-democrats-win-congress"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
+      "lead": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
       "list": [
+        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
         "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
-        "andhra-mptc-zptc-polling-today-2-81-crore-voters",
-        "naveen-patnaik-writes-majhi-kotia-andhra-elections"
+        "andhra-mptc-zptc-polling-today-2-81-crore-voters"
       ]
     },
     {
