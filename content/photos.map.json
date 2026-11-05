@@ -28715,16 +28715,16 @@
     }
   },
   "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh": {
-    "id": "o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-    "src": "/photos/o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-1280.jpg",
-    "src800": "/photos/o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-640.jpg",
+    "id": "o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-b",
+    "src": "/photos/o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-b-1280.jpg",
+    "src800": "/photos/o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-b-640.jpg",
     "width": 1280,
-    "height": 720,
-    "credit": "Photo: Vkraja / Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "alt": "Fishing boats moored at a harbour in Chennai under a grey sky (file photo)",
-    "alt_hi": "चेन्नई के एक बंदरगाह पर बादलों के बीच खड़ी मछली पकड़ने वाली नावें (फ़ाइल फ़ोटो)",
-    "page": "https://commons.wikimedia.org/wiki/File:CHENNAI_SEA_.jpg"
+    "height": 1920,
+    "credit": "Photo: Dani Charles, Silverscreen Media Inc. / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "Tamil Nadu Chief Minister Vijay (file photo)",
+    "alt_hi": "तमिलनाडु के मुख्यमंत्री विजय (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_the_Nadigar_Sangam_Protest.jpg"
   },
   "india-beat-japan-4-1-asian-champions-trophy-final": {
     "id": "o-india-beat-japan-4-1-asian-champions-trophy-final",
@@ -28809,5 +28809,41 @@
     "alt": "Hardeep Singh Puri delivers an address in New Delhi (file photo)",
     "alt_hi": "नई दिल्ली में संबोधन देते हरदीप सिंह पुरी (फाइल फोटो)",
     "page": "https://commons.wikimedia.org/wiki/File:Hardeep_Singh_Puri_delivering_the_inaugural_address_at_the_International_Conference_on_Plastics_Recycling_%26_Waste_Management_Opportunities_%26_Challenges,_in_New_Delhi_(1).JPG"
+  },
+  "spacex-tesla-shares-slide-democratic-sweep-merger-texas": {
+    "id": "o-spacex-tesla-shares-slide-democratic-sweep-merger-texas",
+    "src": "/photos/o-spacex-tesla-shares-slide-democratic-sweep-merger-texas-1280.jpg",
+    "src800": "/photos/o-spacex-tesla-shares-slide-democratic-sweep-merger-texas-640.jpg",
+    "width": 1280,
+    "height": 1689,
+    "credit": "Photo: U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "Elon Musk, head of Tesla and SpaceX (file photo)",
+    "alt_hi": "टेस्ला और स्पेसएक्स के प्रमुख एलन मस्क (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+  },
+  "wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally": {
+    "id": "o-wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally",
+    "src": "/photos/o-wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally-1280.jpg",
+    "src800": "/photos/o-wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally-640.jpg",
+    "width": 1280,
+    "height": 1280,
+    "credit": "Photo: ajay_suresh / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "The Nasdaq MarketSite in Times Square, New York (file photo)",
+    "alt_hi": "न्यूयॉर्क के टाइम्स स्क्वायर में नैस्डैक मार्केटसाइट (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+  },
+  "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths": {
+    "id": "o-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+    "src": "/photos/o-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths-1280.jpg",
+    "src800": "/photos/o-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths-640.jpg",
+    "width": 1280,
+    "height": 891,
+    "credit": "Photo: Election Commission of India / Wikimedia Commons",
+    "licence": "GODL-India",
+    "alt": "Voters queue at a polling booth near Visakhapatnam, Andhra Pradesh (file photo)",
+    "alt_hi": "आंध्र प्रदेश में विशाखापत्तनम के पास एक मतदान केंद्र पर कतार में खड़े मतदाता (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Voters_standing_in_a_queue_to_cast_their_votes,_at_a_polling_booth,_during_the_8th_Phase_of_General_Elections-2014,_at_Enadi,_in_Visakhapatnam,_Andhra_Pradesh_on_May_07,_2014.jpg"
   }
 }

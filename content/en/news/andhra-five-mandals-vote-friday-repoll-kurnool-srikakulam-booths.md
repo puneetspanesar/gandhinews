@@ -79,10 +79,6 @@ The State Election Commission moved the vote in **Velerupadu, Buttayagudem, Jeel
 
 Eluru Collector K Vetriselvi said on Thursday night that the four mandals in her charge have **4 ZPTC and 42 MPTC seats** spread over 140 polling stations. Staff and ballot material had already reached every station, she said. The cyclone's floods had overflowed the Jalleru, Kovvada and Erra Kalva reservoirs and cut road links in the area.
 
-```photo
-{"n":1,"subject":"Eluru floods","caption":"Floodwater in Eluru district, where Cyclone Murasu's rain cut roads and forced the State Election Commission to delay polling in four mandals (file photo).","alt":"Flooded road in Eluru district, Andhra Pradesh (file photo)"}
-```
-
 Vetriselvi and Superintendent of Police K Pratap Siva Kishore said Thursday's polling in the district's other 23 mandals passed off peacefully. Sensitive booths in the flood-hit mandals will have extra police, CCTV cameras and webcasting, and officers will wear body cameras. In Buttayagudem, a road bridge was washed away and **22 labourers were left stranded**; the SP said police would bring them out.
 
 In Gopalapuram, voters will choose 1 ZPTC member and 18 MPTC members at 64 polling stations.
@@ -92,10 +88,6 @@ In Gopalapuram, voters will choose 1 ZPTC member and 18 MPTC members at 64 polli
 The commission has **ordered a repoll at polling station No. 2 in Arlabanda** village of Kosigi mandal in Kurnool district, a ZPTC booth, after complaints of rigging there. It held an inquiry before deciding. Voting will run from 7 am to 5 pm.
 
 In Srikakulam, Collector and District Election Officer Swapnil Dinkar Pundkar announced a **repoll at polling station No. 2 in Ponnam** village of Srikakulam Rural mandal, also on Friday.
-
-```photo
-{"n":2,"subject":"Ballot paper India","caption":"Parishad elections in Andhra Pradesh are held with paper ballots; Friday's voters and the two repoll booths use them too (file photo).","alt":"A voter holding a ballot paper in India (file photo)"}
-```
 
 ## What happens next
 

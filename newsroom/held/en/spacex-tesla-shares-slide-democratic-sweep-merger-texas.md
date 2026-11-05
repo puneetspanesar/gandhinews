@@ -31,7 +31,7 @@ infographic:
   source: "US markets, November 5, 2026"
 related: [wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally, spacex-q3-revenue-14-6-billion-ai-half-income, us-midterms-democrats-win-senate-talarico-brown-flip, musk-one-spacex-share-every-child-america]
 seo:
-  description: "SpaceX and Tesla shares fell more than 10% on November 5, 2026 after Democrats won Congress and Texas, with an analyst saying the Musk merger faces a tougher regulatory path."
+  description: "SpaceX and Tesla shares fell more than 10% on November 5, 2026, after Democrats won Congress and Texas, with an analyst saying the Musk merger faces a tougher regulatory path."
 sources:
   - title: "Stock market today: Nasdaq plunges 5% amid chip stock wipeout, Dow and S&P 500 erase post-election rally gains (entry: SpaceX, Tesla stocks tumble 9% as Democratic sweep raises questions on merger prospects, AI build-out)"
     publisher: "Yahoo Finance"
@@ -67,10 +67,6 @@ By late morning in New York, about 10 pm IST, SpaceX had **lost about $200 billi
 Both companies are headquartered in Texas, and that is where the worry is sharpest. The state elected a **Democratic governor this week**, and Democrat James Talarico won its Senate seat. Musk had feuded with Talarico online before the vote.
 
 Gina Hinojosa, the governor-elect, has promised a moratorium on data centres in the state. Wells Fargo estimates that Texas holds **27% of planned US data-centre capacity**. That matters for SpaceX, whose AI business brought in 52% of its income in the September quarter.
-
-```photo
-{"n":1,"subject":"James Talarico","caption":"James Talarico, the Democrat who won the Senate seat in Texas, where SpaceX and Tesla are based.","alt":"James Talarico"}
-```
 
 ## A harder road for the merger
 

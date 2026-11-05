@@ -59,10 +59,6 @@ The three were **trapped under the rubble and died on the spot**. They came from
 
 Krishnagiri Collector Dinesh Kumar went to the site on Thursday. "17 people were involved in the construction work," he said, adding that the debris would be fully cleared and examined. SIPCOT police and fire and rescue teams kept searching the rubble to make sure nobody else was trapped.
 
-```photo
-{"n":1,"subject":"Tamil Nadu Fire and Rescue Services","caption":"Fire and rescue personnel joined SIPCOT police in clearing the rubble at the Hosur site to check for anyone still trapped (file photo).","alt":"Tamil Nadu Fire and Rescue Services personnel (file photo)"}
-```
-
 ## Questions over the design
 
 The structure had **no pillars or proper planning** to bear the weight of the wet concrete, according to the initial findings reported from the site. The Collector has ordered the Hosur Deputy Superintendent of Police to take strict action against the engineer and others responsible, and an inquiry has begun against the engineer who designed the building.

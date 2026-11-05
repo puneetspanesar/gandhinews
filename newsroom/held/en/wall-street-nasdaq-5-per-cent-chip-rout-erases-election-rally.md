@@ -78,10 +78,6 @@ The S&P 500 shed **more than $2 trillion in market value** by mid-morning. The D
 
 The Philadelphia Semiconductor Index **fell about 11%**. Micron and AMD were down by double digits, Nvidia lost more than 6% and Broadcom was among the hardest hit. Qualcomm slid as much as 13% after its smartphone chip sales for the quarter fell short of expectations, which the company put down to weak demand and less business from Apple.
 
-```photo
-{"n":1,"subject":"Qualcomm headquarters San Diego","caption":"Qualcomm's headquarters in San Diego; its shares slid after quarterly smartphone chip sales missed expectations.","alt":"Qualcomm headquarters building in San Diego (file photo)"}
-```
-
 The selling reached well beyond chips. Data-centre groups Nebius and CoreWeave, storage makers such as SanDisk and Western Digital, and **Elon Musk's SpaceX and Tesla** all fell sharply. AppLovin went the other way, up nearly 30% after strong quarterly results. Energy shares gained as oil climbed back, with Brent around $97 a barrel after Wednesday's slump of more than 8%.
 
 ## Why the mood turned
@@ -91,10 +87,6 @@ Democrats won control of both the House of Representatives and the Senate this w
 Wall Street's fear gauge, the VIX, jumped more than 65% to as high as 27.45, its **biggest one-day rise in over two years**, according to Shay Boloor of Futurum Equities. Bitcoin briefly fell below $76,000.
 
 The new Congress also changes the outlook for the Federal Reserve. Jonathan Pingle, an economist at UBS, said Democratic control of the Senate effectively blocks President Donald Trump's efforts to reshape the central bank.
-
-```photo
-{"n":2,"subject":"Andrew Bailey","caption":"Bank of England Governor Andrew Bailey, whose bank raised rates on Thursday for the first time since 2023.","alt":"Bank of England Governor Andrew Bailey"}
-```
 
 Earlier on Thursday the Bank of England **raised its main rate by a quarter point to 4%** on an 8-1 vote. Governor Andrew Bailey said the move "shouldn't be seen as the first in an inevitable long sequence of hikes."
 

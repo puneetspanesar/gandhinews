@@ -1,0 +1,38 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-06T00:04:34+05:30",
+ "end": "2026-11-06T00:35:20+05:30",
+ "summary": "Andhra five-mandal vote leads; Kasimedu back with photo; Hosur, Wall Street, SpaceX held",
+ "new": [
+  "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+ ],
+ "held": [
+  "hosur-factory-concrete-structure-collapse-three-workers-killed",
+  "spacex-tesla-shares-slide-democratic-sweep-merger-texas",
+  "wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "spacex-tesla-shares-slide-democratic-sweep-merger-texas",
+   "kind": "facts",
+   "why": "Sits in the top headlines with figures that are hours old: 'more than 10%' and the $200 bn / $170 bn losses are from about 11:34 am ET (10:04 pm IST) and 'midmorning', while it is now past 1:30 pm ET and the sister Wall Street story already carries 1 pm ET index levels. The body also dates the value losses to 'late morning, about 10 pm IST' though the notes say they come from a midmorning chart.",
+   "fix": "Update SpaceX and Tesla to the latest intraday move (or the close after 2:30 am IST) with the time stated, take the market-value losses from the same time, and match the infographic and Hindi twin to the new figures."
+  },
+  {
+   "id": "wall-street-nasdaq-5-per-cent-chip-rout-erases-election-rally",
+   "kind": "picture",
+   "why": "Main picture is a generic sunny exterior of the Nasdaq MarketSite tower in Times Square with a 'Better begins now.' billboard: an office-building stand-in that shows nothing of a 5% crash and reads upbeat on a rout day.",
+   "fix": "Use a photo of traders on the NYSE floor reacting to losses, or a market board/screen showing the falling indices (labelled file photo if not today's)."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "1) Stale preview at the top: 'India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight' is still in the top headlines although India have already beaten Japan 4-1; replace it with the result story (with a photo of the winning team) and, as the biggest national story of the night, consider it for the lead or a top slot. 2) The Andhra parishad polls running story takes both the lead and a top slot ('Andhra parishad polling ends; 65% to 68% turnout'); keep the lead and move the polling-ends story into the Andhra Pradesh section. 3) Two business stories in the top headlines (SpaceX/Tesla shares and Fortis Q2 results); keep at most one, move Fortis down. 4) Andhra Pradesh 'Live coverage' block: big empty red column to the right of the infographic (no picture or headline in it), and the block leads with the old 'polling under way, four mandals wait a day' infographic (timeline still from Nov 5 morning) and a 30.5% turnout-by-1 pm item that is hours old; fill the right column, lead the block with the current five-mandal story and drop the hours-old turnout items. 5) The section strip under the nav repeats 'Companies' twice and 'Courts' twice, which looks machine-made; de-duplicate it.",
+   "done": "1) Hockey preview dropped from the headlines (the 4-1 result stays held for a picture: finder had no main-size Harmanpreet or team photo). 2) Polling-ends story out of the slots beside the lead. 3) Fortis dropped, but ONGC and Titan Q2 now fill two slots: refresh_home fills from business whatever is dropped, no other fresh story outside last hour's homepage. 4) Old 'polling under way' infographic and turnout items out of the live band (band now empty, the lead is the five-mandal story). 5) Duplicate strip labels renamed (Results, Supreme Court)."
+  }
+ ],
+ "breaches": [],
+ "lead": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+}
