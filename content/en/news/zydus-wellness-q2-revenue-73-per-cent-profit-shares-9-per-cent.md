@@ -74,10 +74,6 @@ Zydus Wellness **returned to profit** in the September quarter on Tuesday, and i
 
 The Ahmedabad-based consumer products company, part of the Zydus group, reported consolidated net profit of ₹5.1 crore for the three months to September 30, 2026. A year earlier it had **lost ₹52.8 crore**.
 
-```photo
-{"n":1,"subject":"Zydus Corporate Park Ahmedabad","caption":"The Zydus group's head office in Ahmedabad; Zydus Wellness is the group's consumer products company.","alt":"Zydus Corporate Park in Ahmedabad"}
-```
-
 Revenue from operations **jumped 73.2% to ₹1,126.6 crore**, from ₹650.5 crore in the same quarter last year, a rise of about ₹476 crore in a single year.
 
 ## Stock rallies on the numbers

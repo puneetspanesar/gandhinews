@@ -90,9 +90,6 @@ The same duty appears in Section 58 of the Bharatiya Nagarik Suraksha Sanhita (B
 
 That is what happened in the case decided on Thursday. Four men in Tripura were **detained at 2 pm on September 29, 2025** during a search and seizure under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, but shown as arrested only at 11 am the next day, 21 hours later. The Tripura High Court refused them bail.
 
-```photo
-{"n":1,"subject":"Ujjal Bhuyan","caption":"Justice Ujjal Bhuyan, who sat on the bench that ruled the 24-hour clock runs from the moment of detention.","alt":"Supreme Court judge Justice Ujjal Bhuyan (file photo)"}
-```
 
 ## What did the court decide?
 

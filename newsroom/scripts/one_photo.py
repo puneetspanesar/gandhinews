@@ -36,7 +36,7 @@ for p in P:
     if fileof(p.get('sourceUrl')) == fileof(c['url']):
         s = re.sub(r'--(p\d+|bg|in|c)$', '', str(p.get('articleId', '')).replace('part:', '').split(':')[0])
         if s in pub and (now - pub[s]).days < 7: sys.exit(f'this photo was used by {s} on {pub[s]:%B %d}: the 7-day rule')
-pid = f'x-{sid}'[:90]
+pid = f'o-{sid}'[:90]  # o- = one_photo; x-, v-, c-, i-, r- belong to other tools
 credit = clean_credit(c.get('author') or '') or 'Wikimedia Commons contributor'
 P = [p for p in P if p['id'] != pid] + [{'id': pid, 'articleId': sid, 'sourceUrl': c['url'], 'credit': f'Photo: {credit} / Wikimedia Commons',
      'licence': lic, 'alt': alt, 'alt_hi': alt_hi, 'page': c['page']}]

@@ -114,9 +114,6 @@ Justice Bagchi asked whether Clause 3(c) was needed at all, given the wider defi
 
 Mr Mehta replied that the government was examining the matter so that **no section feels left out**. "The government has taken a decision that every student should be taken care of," he said. The court deferred the hearing.
 
-```photo
-{"n":2,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant, whose bench put the regulations on hold in January and asked the Centre on Thursday to revisit them.","alt":"Chief Justice of India Surya Kant (file photo)"}
-```
 
 ## What could change now?
 

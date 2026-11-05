@@ -64,10 +64,6 @@ The Supreme Court on Thursday **transferred Azam Khan's challenge** to his arres
 
 A bench led by Chief Justice Surya Kant directed the Registrar to place the petition before the Chief Justice of the Allahabad High Court so that it is **listed on November 16**. The High Court has been asked to decide Khan's plea for interim relief on that day.
 
-```photo
-{"n":1,"subject":"Kapil Sibal","caption":"Senior advocate Kapil Sibal argued Azam Khan's case before the Supreme Court on Thursday.","alt":"Senior advocate Kapil Sibal"}
-```
-
 Senior advocate Kapil Sibal pressed for a hearing in the top court, arguing that the money laundering law had been **wrongly invoked** against his client. "They are saying goats, cows are proceeds of crime, how can that be?" he told the bench.
 
 The ED case is a fresh money laundering case linked to the Mohammad Ali Jauhar Trust. Khan, 78, says he was picked up about 40 minutes after walking out of Rampur jail on bail in the dual PAN card case. He has also challenged a November 1 special court order sending him to judicial custody. His counsel Nizam Pasha had mentioned the plea before the Chief Justice on Monday, seeking an urgent listing.

@@ -69,10 +69,6 @@ The flash estimate, released on October 23, put the HSBC India Manufacturing PMI
 
 Flash numbers can move. September's figure was first put at 55.7 and later **revised down to 55.1** in the final survey, so Monday's number could differ from the early estimate.
 
-```photo
-{"n":1,"subject":"Chakan MIDC Pune","caption":"The Chakan industrial area near Pune, one of India's biggest manufacturing belts.","alt":"Factories in the Chakan industrial area near Pune (file photo)"}
-```
-
 The flash survey had good news on exports. "The steady pace of new order growth masks the **fastest increase in new export orders** since June 2025," said Pranjul Bhandari, chief India economist at HSBC. Firms reported demand from the US, the UK, West Asia and Bangladesh.
 
 Hiring was the weak spot. Factory job creation slowed, and across the private sector employment grew at its weakest pace of the year, with companies saying their staff were enough to handle current work. Services firms kept headcount unchanged, ending a nine-month run of hiring.
