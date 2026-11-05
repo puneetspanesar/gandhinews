@@ -14,19 +14,12 @@ keyPoints:
   - "Average revenue per user **climbed to ₹271** from ₹256 a year ago."
   - "The company added a **record 1.2 million postpaid customers** in the quarter."
 hero:
-  need: "Gopal Vittal, executive vice chairman of Bharti Airtel, who presented the results"
-  suggested_source: "Gopal Vittal"
-  subjects: ["Gopal Vittal"]
-  alt: "Gopal Vittal, executive vice chairman of Bharti Airtel"
+  need: "Sunil Bharti Mittal, founder and chairman of Bharti Airtel"
+  suggested_source: "Sunil Bharti Mittal"
+  subjects: ["Sunil Bharti Mittal"]
+  alt: "Sunil Bharti Mittal, chairman of Bharti Airtel (file photo)"
   overlay:
     value: "Airtel profit up 31%, ARPU ₹271"
-cover:
-  template: business
-  label: "Q2 results"
-  headline: "Airtel profit up 31% to ₹8,888 crore"
-  bg: "Airtel Center Gurgaon"
-  people: ["Gopal Vittal"]
-  data: [{icon: currency-inr, value: "₹8,888 cr", label: "Q2 net profit, up 31%"}, {icon: chart-line, value: "₹60,878 cr", label: "Revenue, up 17%"}, {icon: users, value: "₹271", label: "ARPU, from ₹256"}]
 related: []
 seo:
   description: "Bharti Airtel's consolidated net profit rose 31% to ₹8,888 crore in the July-September 2026 quarter, revenue grew to ₹60,878 crore and ARPU reached ₹271."
@@ -85,9 +78,6 @@ The figures for the July to September quarter came after the market closed. Cons
 
 Revenue from operations rose to ₹60,878 crore, against ₹52,145 crore a year earlier, a gain of **about 17% in a year**. On the quarter, revenue grew 4% from ₹58,539 crore.
 
-```photo
-{"n":1,"subject":"Airtel Center Gurgaon","caption":"Bharti Airtel's headquarters in Gurugram; the company reported its September quarter results after the market closed on Thursday.","alt":"Airtel Center, the Bharti Airtel head office in Gurugram"}
-```
 
 ## Higher earnings per user
 
@@ -105,8 +95,5 @@ Earnings before interest, tax, depreciation and amortisation rose 5% on the quar
 
 Capital spending in the quarter was ₹12,467 crore, of which ₹9,908 crore went into India. Airtel also put ₹2,826 crore into a land parcel to expand its data centre business. It added 497 towers and 11,684 mobile broadband base stations in the three months.
 
-```photo
-{"n":2,"subject":"Sunil Bharti Mittal","caption":"Sunil Bharti Mittal, founder and chairman of Bharti Airtel.","alt":"Sunil Bharti Mittal, chairman of Bharti Airtel"}
-```
 
 Airtel shares closed **0.52% lower at ₹2,056.90** on the National Stock Exchange on Thursday, before the numbers were out. The stock's first reaction to the results will come when trading opens on Friday.
