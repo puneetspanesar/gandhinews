@@ -85,7 +85,7 @@ Sources: [Free Press Journal, September 12, 2026](https://freepressjournal.in/in
 
 ## Why this claim spread
 
-The image appeared while India was hosting the summit, an event that drew Xi on his first visit to India in nearly seven years, Free Press Journal reported. BOOM said it was posted by a spokesperson of the ruling party, with a message aimed at opposition leaders, before it was deleted. BOOM linked an archived copy of the post. The desk has no sourced data on how widely the image was shared or how many accounts posted it, and the deletion does not by itself show how far it had travelled.
+The image appeared while India was hosting the summit, an event that drew Xi on his first visit to India in nearly seven years. BOOM said it was posted by a spokesperson of the ruling party, with a message aimed at opposition leaders, before it was deleted. BOOM linked an archived copy of the post. The desk has no sourced data on how widely the image was shared or how many accounts posted it, and the deletion does not by itself show how far it had travelled.
 
 Gandhi News does not reproduce or link to the image. Readers can see BOOM's full analysis at the link above.
 

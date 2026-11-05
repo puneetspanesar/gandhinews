@@ -61,7 +61,7 @@ The video is false. It is edited from Rahul Gandhi's speech at the Chhatron Ki G
 
 ### 1. What the clip claims
 
-BOOM reported that social media users shared a video saying it showed Gandhi stating that "80 percent of rapes happen because of women". Posts also said he called for women to be kept in a cage and said such crimes happen in "India" but not in "Bharat".
+Social media users shared a video saying it showed Gandhi stating that "80 percent of rapes happen because of women". Posts also said he called for women to be kept in a cage and said such crimes happen in "India" but not in "Bharat".
 
 Source: [BOOM, August 26, 2026](https://www.boomlive.in/fact-check/viral-video-rahul-gandhi-congress-rape-woman-statement-fact-check-32105)
 
@@ -73,19 +73,19 @@ Source: [BOOM, August 26, 2026](https://www.boomlive.in/fact-check/viral-video-r
 
 ### 3. Contemporary reports match BOOM's account
 
-PTI's report on the day said Gandhi "referred to an old statement by RSS chief Mohan Bhagwat" and to a comment attributed to Khattar. It quoted him: "So this is a mindset, and this fight is against this mindset." He told the audience: "You belong to nobody, except yourself." The Week reported that the event, the fourth edition of his student outreach programme, was held at AISSMS College Ground and focused on women.
+PTI's report on the day said Gandhi "referred to an old statement by RSS chief Mohan Bhagwat" and to a comment attributed to Khattar. It quoted him: "So this is a mindset, and this fight is against this mindset." He told the audience: "You belong to nobody, except yourself." The event, the fourth edition of his student outreach programme, was held at AISSMS College Ground and focused on women.
 
 Sources: [PTI via ThePrint, August 22, 2026](https://theprint.in/india/rahul-slams-manusmriti-mindset-at-pune-event-asks-girl-students-to-smash-patriarchy/3022517/); [The Week, August 22, 2026](https://www.theweek.in/news/india/2026/08/22/chhatron-ki-goonj-but-with-a-twist-rahul-s-women-powerplay-in-pune-draws-huge-audience.html)
 
 ### 4. How the clip was cut
 
-According to BOOM, the edit drops the passage in which Gandhi names Bhagwat and Khattar and frames their words as views he is criticising. Without that passage, the quoted lines appear to be his own.
+The edit drops the passage in which Gandhi names Bhagwat and Khattar and frames their words as views he is criticising. Without that passage, the quoted lines appear to be his own.
 
 Source: [BOOM, August 26, 2026](https://www.boomlive.in/fact-check/viral-video-rahul-gandhi-congress-rape-woman-statement-fact-check-32105)
 
 ## Why this claim spread
 
-The speech was covered by national outlets on the day. PTI reported that Gandhi used it to criticise the Manusmriti and urged girl students to challenge patriarchy, and The Week reported a packed venue. The desk has no sourced data on how widely the edited clip was shared or who first posted it.
+The speech was covered by national outlets on the day. Gandhi used it to criticise the Manusmriti and urged girl students to challenge patriarchy, and the venue was reported to be packed. The desk has no sourced data on how widely the edited clip was shared or who first posted it.
 
 Gandhi News does not reproduce or link to the clip. Readers can see BOOM's full analysis at the link above.
 

@@ -11,7 +11,7 @@ published: 2026-10-11T10:00:00+05:30
 factcheck:
   claim: "\"Merchant Discount Rate (MDR) applies only on the merchants and not on the end users/customers.\" UPI will remain free for consumers."
   claimant: "Nirmala Sitharaman, Union Finance Minister"
-  seenOn: "Public reply to Jairam Ramesh reported by Business Today; repeated in the Rajya Sabha"
+  seenOn: "Public reply to Jairam Ramesh; repeated in the Rajya Sabha"
   firstSeen: 2026-08-06
   verdict: "Mostly true"
   finding: "Under NPCI's framework from October 15, the 0.4% fee is paid by merchants, P2P transfers stay free and merchants may not pass the fee on. The legal bar on charging users now covers only UPI payments up to ₹2,000, and prices could still absorb the cost."
@@ -100,18 +100,18 @@ Sources: [ANI via Khaleej Times, September 16, 2026](https://www.khaleejtimes.co
 
 ### 3. The legal bar on charging users stops at ₹2,000
 
-The September 14 notification (S.O. 5067(E)) bars banks and system providers from imposing any charge, "whether directly or indirectly", on UPI payments up to ₹2,000 and on RuPay debit cards, LiveLaw reported. Payments above ₹2,000 are not on that list, so the bar on user charges there comes from NPCI's framework rather than the notification.
+The September 14 notification (S.O. 5067(E)) bars banks and system providers from imposing any charge, "whether directly or indirectly", on UPI payments up to ₹2,000 and on RuPay debit cards. Payments above ₹2,000 are not on that list, so the bar on user charges there comes from NPCI's framework rather than the notification.
 
 Source: [LiveLaw, September 15, 2026](https://www.livelaw.in/top-stories/centre-prohibits-charges-on-upi-transactions-up-to-rs-2000-rupay-debit-card-550015)
 
 ### 4. Prices could still carry the cost
 
-Deccan Chronicle reported that it "remains to be seen" whether large merchants will pass the cost on through higher retail prices. A ban on surcharges does not prevent that.
+Whether large merchants will pass the cost on through higher retail prices is not yet known. A ban on surcharges does not prevent that.
 
 Source: [Deccan Chronicle, September 15, 2026](https://www.deccanchronicle.com/business/npci-announces-04-merchant-charge-on-upi-payments-above-2000-1987634)
 
 ## Why this claim spread
 
-The statement was a direct public reply to Jairam Ramesh, tagging him and the Congress, according to Business Today. Two days later the Finance Ministry said UPI transactions "will remain completely free for citizens", in Business Today's paraphrase, and called suggestions that "external influences" were driving policy "unfounded, completely false and misleading". The desk has no sourced data on how widely the Minister's statement was shared.
+The statement was a direct public reply to Jairam Ramesh, tagging him and the Congress. Two days later the Finance Ministry said UPI transactions would remain completely free for citizens, and called suggestions that "external influences" were driving policy "unfounded, completely false and misleading". The desk has no sourced data on how widely the Minister's statement was shared.
 
 Source: [Business Today, August 8, 2026](https://www.businesstoday.in/india/story/no-your-upi-transactions-arent-getting-charged-government-refutes-fee-rumors-claims-548149-2026-08-08)

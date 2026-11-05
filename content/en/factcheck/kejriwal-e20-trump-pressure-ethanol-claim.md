@@ -11,7 +11,7 @@ published: 2026-10-11T10:00:00+05:30
 factcheck:
   claim: "\"To create demand for American ethanol, India is being forced to implement E20 and import the substance from the US.\" India imported one billion litres of ethanol from the US last year and would import five billion litres this year."
   claimant: "Arvind Kejriwal, AAP convener and former Delhi Chief Minister"
-  seenOn: "Remarks to reporters in Panaji, Goa, reported by PTI; AAP social media"
+  seenOn: "Remarks to reporters in Panaji, Goa; AAP social media"
   firstSeen: 2026-08-07
   verdict: "Misleading"
   finding: "US ethanol does reach India, but the E20 target was set in a June 2021 roadmap, the Commerce Ministry says blending ethanol is entirely domestic, and US data show about 71 crore litres (0.71 billion) shipped to India in 2025, below the figures Kejriwal gave."
@@ -104,6 +104,6 @@ Sources: [EIA annual data](https://www.eia.gov/dnav/pet/pet_move_expc_a_EPOOXE_E
 
 ## Why this claim spread
 
-Kejriwal made the remarks while campaigning against E20. PTI reported that he told reporters many vehicles were "not designed to run on E20 fuel" and urged people to stop buying petrol and diesel vehicles for now. The Commerce Ministry's statement a day earlier was itself a response to media reports about US ethanol imports during the India-US trade talks.
+Kejriwal made the remarks while campaigning against E20. He told reporters many vehicles were "not designed to run on E20 fuel" and urged people to stop buying petrol and diesel vehicles for now. The Commerce Ministry's statement a day earlier was itself a response to media reports about US ethanol imports during the India-US trade talks.
 
 Sources: [PTI via ThePrint, August 7, 2026](https://theprint.in/india/e20-policy-imposed-under-pressure-from-trump-to-facilitate-us-ethanol-imports-kejriwal/3008369/); [PTI via Business Standard, August 6, 2026](https://www.business-standard.com/economy/news/no-commitments-relating-to-ethanol-import-from-us-under-fta-talks-govt-126080601771_1.html)
