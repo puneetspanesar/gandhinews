@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+    "id": "cristiano-ronaldo-retires-international-football-portugal",
     "overlay": {
       "kicker": {
-        "en": "Politics / Diplomacy",
-        "hi": "राजनीति / कूटनीति"
+        "en": "Sports / Football",
+        "hi": "खेल / फुटबॉल"
       },
       "value": {
-        "en": "Misri meets Shah before Delhi visit",
-        "hi": "दिल्ली यात्रा से पहले मिस्री-शाह मुलाकात"
+        "en": "Handing back the No. 7 shirt",
+        "hi": "नंबर 7 की जर्सी लौटाई"
       },
       "text": {
         "en": "",
@@ -18,41 +18,52 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "cristiano-ronaldo-retires-international-football-portugal",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "modi-meets-asian-para-games-medallists-delhi",
       "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-      "jagan-parishad-polls-selections-naidu-hijacked"
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
     ],
     "live": {
       "title": {
-        "en": "India and Nepal",
-        "hi": "भारत और नेपाल"
+        "en": "Football",
+        "hi": "फुटबॉल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
-          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
+          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
         }
       },
       {
-        "link": "cristiano-ronaldo-retires-international-football-portugal",
+        "link": "jagan-parishad-polls-selections-naidu-hijacked",
         "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
-          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
+          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
+          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+        }
+      },
+      {
+        "link": "modi-meets-asian-para-games-medallists-delhi",
+        "lead": {
+          "en": "Para sport:",
+          "hi": "पैरा खेल:"
+        },
+        "text": {
+          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
+          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
         }
       },
       {
@@ -67,39 +78,6 @@
         }
       },
       {
-        "link": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra parishad polling ends; officials estimate 65% to 68% turnout, counting on November 7",
-          "hi": "आंध्र परिषद चुनाव का मतदान खत्म, 65% से 68% मतदान का अनुमान; गिनती 7 नवंबर को"
-        }
-      },
-      {
-        "link": "jagan-parishad-polls-selections-naidu-hijacked",
-        "lead": {
-          "en": "YSRCP:",
-          "hi": "वाईएसआरसीपी:"
-        },
-        "text": {
-          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
-          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
-        }
-      },
-      {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
-        }
-      },
-      {
         "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
         "lead": {
           "en": "Courts:",
@@ -111,14 +89,36 @@
         }
       },
       {
-        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
-          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
+          "en": "Andhra parishad polls: YSRCP alleges booth capturing in Dhulipalla, Byreddy Siddharth under house arrest",
+          "hi": "आंध्र परिषद चुनाव: वाईएसआरसीपी का धुलिपल्ला में बूथ कब्जे का आरोप, बायरेड्डी सिद्धार्थ नजरबंद"
+        }
+      },
+      {
+        "link": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Alcaraz survives the day of upsets in Paris as Fils celebrates his Turin place with a win",
+          "hi": "उलटफेर भरे दिन पेरिस में अल्कराज डटे रहे, ट्यूरिन का टिकट पाने वाले फिल्स भी जीते"
+        }
+      },
+      {
+        "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
+          "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
         }
       }
     ]
@@ -186,19 +186,18 @@
   },
   "topStories": {
     "big": {
-      "id": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "id": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
       "also": []
     },
     "list": [
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "india-japan-asian-champions-trophy-final-mohali-preview",
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "como-nine-at-lens-city-arsenal-win-champions-league"
+      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+      "us-midterms-explained-congress-tariffs-what-it-means-for-india",
+      "coastal-freight-goal-for-2047-needs-milestones-this-decade",
+      "qs-asia-slide-india-universities-must-open-to-the-world"
     ],
     "also": [
-      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-      "two-child-norm-explained-javed-ruling-larger-bench"
+      "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
     ]
   },
   "startHere": [
@@ -453,28 +452,16 @@
     },
     {
       "section": "sports",
-      "lead": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "lead": "cristiano-ronaldo-retires-international-football-portugal",
       "list": [
-        "cristiano-ronaldo-retires-international-football-portugal",
         "modi-meets-asian-para-games-medallists-delhi",
         "india-japan-asian-champions-trophy-final-mohali-preview",
-        "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16"
+        "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+        "como-nine-at-lens-city-arsenal-win-champions-league"
       ]
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
-      },
-      "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
-    },
     {
       "icon": "bank",
       "date": {
@@ -522,17 +509,17 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-05T23:45:37+05:30",
+      "at": "2026-11-05T23:30:11+05:30",
       "ids": [
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "cristiano-ronaldo-retires-international-football-portugal",
-        "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
         "jagan-parishad-polls-selections-naidu-hijacked",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "modi-meets-asian-para-games-medallists-delhi",
+        "fii-buy-14975-crore-november-5-dii-sell-10445",
         "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
+        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+        "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
       ]
     }
   ],
