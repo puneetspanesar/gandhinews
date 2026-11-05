@@ -17,16 +17,15 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
-      "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead"
+      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
     ],
     "relatedBeside": [
       "supreme-court-24-hour-production-runs-from-detention-not-arrest",
       "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
       "india-japan-asian-champions-trophy-final-mohali-preview",
       "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
+      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
     ],
     "live": {
       "title": {
@@ -37,6 +36,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "lead": {
+          "en": "Andhra:",
+          "hi": "आंध्र:"
+        },
+        "text": {
+          "en": "YSRCP alleges booth capturing at Dhulipalla in Palnadu; Byreddy Siddharth kept under house arrest",
+          "hi": "वाईएसआरसीपी का आरोप, पलनाडु के धुलिपल्ला में बूथ कब्जा; बायरेड्डी सिद्धार्थ नजरबंद"
+        }
+      },
       {
         "link": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
         "lead": {
@@ -49,14 +59,14 @@
         }
       },
       {
-        "link": "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
+        "link": "cabinet-fast-track-special-courts-2031-850-courts",
         "lead": {
-          "en": "Rupee:",
-          "hi": "रुपया:"
+          "en": "Cabinet:",
+          "hi": "कैबिनेट:"
         },
         "text": {
-          "en": "Rupee opens 29 paise stronger at 94.35 as Brent slips to $93",
-          "hi": "रुपया 29 पैसे मज़बूत होकर 94.35 पर खुला, ब्रेंट 93 डॉलर पर"
+          "en": "Cabinet extends 850 fast-track special courts to 2031 at a cost of Rs 3,788 crore",
+          "hi": "कैबिनेट ने 850 फास्ट-ट्रैक विशेष अदालतें 2031 तक बढ़ाईं, लागत 3,788 करोड़ रुपये"
         }
       },
       {
@@ -68,17 +78,6 @@
         "text": {
           "en": "Sensex up 1,553 points by 10 am as BSE market value crosses ₹500 lakh crore",
           "hi": "सुबह 10 बजे तक सेंसेक्स 1,553 अंक ऊपर, बीएसई का बाजार मूल्य 500 लाख करोड़ रुपये के पार"
-        }
-      },
-      {
-        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am",
-          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में 9 बजे तक 12% मतदान"
         }
       },
       {
@@ -194,11 +193,11 @@
       "also": []
     },
     "list": [
-      "cabinet-fast-track-special-courts-2031-850-courts",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
       "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
       "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "modi-meet-asian-para-games-contingent-thursday",
-      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
+      "modi-meet-asian-para-games-contingent-thursday"
     ],
     "also": []
   },
@@ -402,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
+      "lead": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
       "list": [
+        "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
         "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
-        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
+        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
       ]
     },
     {
