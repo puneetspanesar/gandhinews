@@ -11,7 +11,7 @@ published: 2026-11-04T10:15:00+05:30
 location: Des Moines, Iowa
 keyPoints:
   - "Democrat **Josh Turek defeated Ashley Hinson**, according to network projections."
-  - "Iowa had **not elected a Democrat to the Senate since 2008**."
+  - "Iowa had not elected a Democrat to the Senate **since 2008**."
   - "The seat fell open when **Joni Ernst chose not to run** again."
 hero:
   need: "Josh Turek, Iowa Democratic Senate winner, and Republican Ashley Hinson"

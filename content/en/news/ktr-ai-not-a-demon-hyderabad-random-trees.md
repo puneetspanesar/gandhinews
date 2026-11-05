@@ -12,7 +12,7 @@ location: Hyderabad
 keyPoints:
   - "K T Rama Rao inaugurated Random Trees' Indian headquarters in Hyderabad, which opens with **400 employees**."
   - "He said **AI will not take away jobs** and young people should be given confidence, not fear."
-  - "He called for **Hyderabad to be developed into a global AI hub**."
+  - "He called for Hyderabad to be developed into a **global AI hub**."
 hero:
   need: "BRS working president K T Rama Rao"
   suggested_source: "K. T. Rama Rao"

@@ -12,7 +12,7 @@ location: Des Moines
 keyPoints:
   - "Amina Nasreen A.S. won the **Global Youth Institute award** and a US$500 prize."
   - "She was one of **seven Indian high school students** picked through NAAS and the World Food Prize Foundation."
-  - "NAAS signed an **MoU with the US Council for Agricultural Science and Technology**."
+  - "NAAS signed an **MoU** with the US Council for Agricultural Science and Technology."
 hero:
   need: "The World Food Prize Hall of Laureates building in Des Moines, Iowa"
   suggested_source: "World Food Prize Hall of Laureates"

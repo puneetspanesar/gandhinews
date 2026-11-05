@@ -12,7 +12,7 @@ location: Amaravati
 keyPoints:
   - "Murasu was **about 200 km east-northeast of Chennai** at 5:30 am on Monday."
   - "It is expected to **cross the coast close to Ongole** around midnight, with winds gusting to 120 km/h."
-  - "Schools are **shut in Chennai, parts of Andhra Pradesh and Malkangiri**."
+  - "Schools are **shut in Chennai**, parts of Andhra Pradesh and Malkangiri."
 hero:
   need: "Kavali, a coastal town in Nellore district on the storm's path"
   suggested_source: "Kavali"

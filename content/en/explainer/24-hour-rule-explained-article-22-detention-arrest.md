@@ -8,7 +8,7 @@ topics: [supreme-court]
 title: "The 24-hour rule explained: why the Supreme Court says the clock starts at detention"
 standfirst: "The Constitution says anyone arrested must be brought before a magistrate within 24 hours. On Thursday the Supreme Court settled when those 24 hours begin. What Article 22(2) says, what the court decided and what it means for police and magistrates."
 published: 2026-11-05T18:10:00+05:30
-shortAnswer: "Article 22(2) of the Constitution, mirrored in Section 58 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), says a person arrested and held in custody must be produced before the nearest magistrate within 24 hours, not counting travel time. On 5 November 2026 the Supreme Court held that the 24 hours run from the moment police first curtail a person's liberty, not from the time they record a formal arrest, and that holding someone longer without a magistrate's order is unconstitutional. Magistrates must now record the actual time of detention and count from it."
+shortAnswer: "Article 22(2) of the Constitution, mirrored in Section 58 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), says a person arrested and held in custody must be produced before the nearest magistrate within 24 hours, not counting travel time. On November 5, 2026 the Supreme Court held that the 24 hours run from the moment police first curtail a person's liberty, not from the time they record a formal arrest, and that holding someone longer without a magistrate's order is unconstitutional. Magistrates must now record the actual time of detention and count from it."
 hero:
   need: "The Supreme Court of India, which ruled on when the 24-hour clock starts"
   suggested_source: "Supreme Court of India"
@@ -25,13 +25,13 @@ infographic:
     - {icon: clock-countdown, value: "24 hours", label: "to produce a detained person before a magistrate"}
     - {icon: hourglass, value: "21 hours", label: "between detention and recorded arrest in the Tripura case"}
   timeline:
-    - {date: "29 Sep 2025, 2 pm", text: "Four men detained during a search in Tripura", icon: hand-palm}
-    - {date: "30 Sep 2025, 11 am", text: "Police record their formal arrest", icon: file-text}
-    - {date: "5 Nov 2026", text: "Supreme Court counts from 2 pm and grants bail", icon: gavel}
-  source: "Constitution of India; Supreme Court judgment, 5 November 2026"
+    - {date: "Sep 29, 2025, 2 pm", text: "Four men detained during a search in Tripura", icon: hand-palm}
+    - {date: "Sep 30, 2025, 11 am", text: "Police record their formal arrest", icon: file-text}
+    - {date: "Nov 5, 2026", text: "Supreme Court counts from 2 pm and grants bail", icon: gavel}
+  source: "Constitution of India; Supreme Court judgment, November 5, 2026"
 related: [supreme-court-24-hour-production-runs-from-detention-not-arrest, police-detention-powers-bnss-explained, bombay-hc-5-lakh-compensation-illegal-arrest]
 seo:
-  description: "What Article 22(2) and BNSS Section 58 say about producing an arrested person within 24 hours, what the Supreme Court held on 5 November 2026, and what changes for police."
+  description: "What Article 22(2) and BNSS Section 58 say about producing an arrested person within 24 hours, what the Supreme Court held on November 5, 2026, and what changes for police."
 sources:
   - title: "Article 22: Protection against arrest and detention in certain cases"
     publisher: "Constitution of India (constitutionofindia.net)"
@@ -66,10 +66,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "5 November ruling (bench, Tripura NDPS facts, times, quotes, Section 58 reasonableness point, magistrates' duty) taken from the desk's 11:05 news story, which rests on ETV Bharat and IANS. Neither page could be re-fetched in this run (permission not granted); the judgment text was not read and the case name is not known."
+    - "November 5 ruling (bench, Tripura NDPS facts, times, quotes, Section 58 reasonableness point, magistrates' duty) taken from the desk's 11:05 news story, which rests on ETV Bharat and IANS. Neither page could be re-fetched in this run (permission not granted); the judgment text was not read and the case name is not known."
     - "Article 22(1)-(3) wording from constitutionofindia.net (fetched)."
-    - "Jaskaran Jeet Singh Deol (same bench; Article 22 breach makes arrest unconstitutional, no automatic re-arrest, compensation possible) from the CaseCiter summary dated 22 September 2026; judgment date not stated, so the copy says 'in September'. Not the judgment itself."
-    - "Punjab and Haryana HC (Justice Sumeet Goel, 16 April 2026) from SCC Online; Kerala HC (Justice Kauser Edappagath, 27 August 2026) from LiveLaw summary (full text paywalled). The copy does not claim the Supreme Court overruled the Kerala view; it notes the Supreme Court took the broader view in an NDPS case."
+    - "Jaskaran Jeet Singh Deol (same bench; Article 22 breach makes arrest unconstitutional, no automatic re-arrest, compensation possible) from the CaseCiter summary dated September 22, 2026; judgment date not stated, so the copy says 'in September'. Not the judgment itself."
+    - "Punjab and Haryana HC (Justice Sumeet Goel, April 16, 2026) from SCC Online; Kerala HC (Justice Kauser Edappagath, August 27, 2026) from LiveLaw summary (full text paywalled). The copy does not claim the Supreme Court overruled the Kerala view; it notes the Supreme Court took the broader view in an NDPS case."
     - "'Binding on all courts' is the general rule under Article 141; not from a source on this case."
     - "Section 58 BNSS described as corresponding to Section 57 CrPC per SCC Online. BNSS text not opened."
 ---
@@ -88,7 +88,7 @@ The same duty appears in Section 58 of the Bharatiya Nagarik Suraksha Sanhita (B
 
 **When the 24 hours begin.** Police often hold a person during a search or for questioning and record the formal arrest later. If the clock starts only at the recorded arrest, those earlier hours fall outside the count.
 
-That is what happened in the case decided on Thursday. Four men in Tripura were **detained at 2 pm on 29 September 2025** during a search and seizure under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, but shown as arrested only at 11 am the next day, 21 hours later. The Tripura High Court refused them bail.
+That is what happened in the case decided on Thursday. Four men in Tripura were **detained at 2 pm on September 29, 2025** during a search and seizure under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, but shown as arrested only at 11 am the next day, 21 hours later. The Tripura High Court refused them bail.
 
 ```photo
 {"n":1,"subject":"Ujjal Bhuyan","caption":"Justice Ujjal Bhuyan, who sat on the bench that ruled the 24-hour clock runs from the moment of detention.","alt":"Supreme Court judge Justice Ujjal Bhuyan (file photo)"}
@@ -103,7 +103,7 @@ Leaving out the time spent on search, seizure or inquiry before the formal arres
 It set aside the High Court's order and **granted the four men bail**, on conditions to be set by the Special Court.
 
 ```timeline
-{"title":"How the hours ran in the Tripura case","items":[{"date":"29 Sep 2025, 2 pm","text":"Four men detained during a search and seizure"},{"date":"30 Sep 2025, 11 am","text":"Police record the formal arrest, 21 hours later"},{"date":"30 Sep 2025, 2 pm","text":"24 hours from detention run out, the deadline the court applied"},{"date":"5 Nov 2026","text":"Supreme Court sets aside the High Court order and grants bail"}]}
+{"title":"How the hours ran in the Tripura case","items":[{"date":"Sep 29, 2025, 2 pm","text":"Four men detained during a search and seizure"},{"date":"Sep 30, 2025, 11 am","text":"Police record the formal arrest, 21 hours later"},{"date":"Sep 30, 2025, 2 pm","text":"24 hours from detention run out, the deadline the court applied"},{"date":"Nov 5, 2026","text":"Supreme Court sets aside the High Court order and grants bail"}]}
 ```
 
 ## Had courts disagreed on this before?

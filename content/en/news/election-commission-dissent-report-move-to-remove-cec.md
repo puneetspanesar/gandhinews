@@ -6,11 +6,11 @@ section: politics
 format_label: "Politics / Election Commission"
 topics: [election-commission, electoral-rolls-sir, supreme-court]
 title: "Report of dissent inside the Election Commission revives opposition push to remove CEC"
-standfirst: "The Indian Express reported two Election Commissioners objected at least 14 times to SIR decisions. The ECI says differing views are routine and its decisions were unanimous."
+standfirst: "Two Election Commissioners were reported to have objected at least 14 times to SIR decisions. The ECI says differing views are routine and its decisions were unanimous."
 published: 2026-10-11T11:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Indian Express reported on September 23 that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record **at least 14 times** in 10 months to SIR-related decisions."
+  - "A newspaper report on September 23 said Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record **at least 14 times** in 10 months to SIR-related decisions."
   - "The Election Commission said written notes and differing views are a normal part of deliberation and that its **decisions over the past year were unanimous**."
   - "INDIA bloc parties said they were **drafting a third notice** to remove CEC Gyanesh Kumar; no report found by October 11 confirms it has been submitted."
   - "Delhi Police registered **at least four FIRs** naming Rahul Gandhi, Priyanka Gandhi Vadra and others after protests on October 6 and 7; no court has ruled on them."
@@ -22,7 +22,7 @@ hero:
     value: "Two commissioners objected at least 14 times"
 related: [how-chief-election-commissioner-is-appointed-removed, election-commission-should-publish-its-dissent, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
-  description: "Indian Express reported two Election Commissioners objected 14 times to SIR decisions; the ECI says decisions were unanimous. Where the CEC removal move stands."
+  description: "Two Election Commissioners were reported to have objected 14 times to SIR decisions; the ECI says decisions were unanimous. Where the CEC removal move stands."
 sources:
   - title: "EC reacts to report on dissent in poll body: decisions unanimous, differing views part of deliberations"
     publisher: "ThePrint (ANI)"
@@ -85,9 +85,9 @@ verification:
 
 A report that two of the three Election Commissioners repeatedly objected to decisions on the Special Intensive Revision (SIR) of electoral rolls has led opposition parties to prepare a third attempt to remove Chief Election Commissioner (CEC) Gyanesh Kumar. The Election Commission of India (ECI) has rejected the suggestion that the objections point to any irregularity.
 
-## What the Indian Express reported
+## What the report said
 
-On September 23, the Indian Express reported that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record at **least 14 times** over 10 months to decisions and orders they said were issued without their knowledge during the national rollout of the SIR. According to published summaries of the report, the objections covered changes to Form 6, the statutory form for registering as a voter, additions to and deletions from rolls, and centralised control of the electoral roll database.
+On September 23, a newspaper report said that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record at **least 14 times** over 10 months to decisions and orders they said were issued without their knowledge during the national rollout of the SIR. According to published summaries of the report, the objections covered changes to Form 6, the statutory form for registering as a voter, additions to and deletions from rolls, and centralised control of the electoral roll database.
 
 ## The Commission's response
 
@@ -106,7 +106,7 @@ Rahul Gandhi, Leader of the Opposition in the Lok Sabha, wrote on X on September
 On September 24, INDIA bloc parties were reported to be drafting a fresh notice to remove the CEC in both Houses, to be filed after legal vetting. No report found by this desk as of October 11 says it has been submitted.
 
 ```timeline
-{"title":"Opposition moves against the CEC","items":[{"date":"Mar 12, 2026","text":"Notices signed by 130 Lok Sabha and 63 Rajya Sabha MPs seek CEC Gyanesh Kumar's removal under Article 324(5)."},{"date":"Apr 6, 2026","text":"Speaker Om Birla and Chairman C.P. Radhakrishnan refuse to admit both notices."},{"date":"Apr 24, 2026","text":"73 MPs file a second notice in the Rajya Sabha with nine charges; it remains pending."},{"date":"Sep 23, 2026","text":"Indian Express reports dissent by two Election Commissioners; ECI says decisions were unanimous."},{"date":"Sep 24, 2026","text":"INDIA bloc parties say a third notice is being drafted for both Houses."},{"date":"Oct 6-7, 2026","text":"Opposition protests in Delhi seeking the CEC's resignation; Delhi Police register FIRs."}]}
+{"title":"Opposition moves against the CEC","items":[{"date":"Mar 12, 2026","text":"Notices signed by 130 Lok Sabha and 63 Rajya Sabha MPs seek CEC Gyanesh Kumar's removal under Article 324(5)."},{"date":"Apr 6, 2026","text":"Speaker Om Birla and Chairman C.P. Radhakrishnan refuse to admit both notices."},{"date":"Apr 24, 2026","text":"73 MPs file a second notice in the Rajya Sabha with nine charges; it remains pending."},{"date":"Sep 23, 2026","text":"Newspaper report of dissent by two Election Commissioners; ECI says decisions were unanimous."},{"date":"Sep 24, 2026","text":"INDIA bloc parties say a third notice is being drafted for both Houses."},{"date":"Oct 6-7, 2026","text":"Opposition protests in Delhi seeking the CEC's resignation; Delhi Police register FIRs."}]}
 ```
 
 The March notices alleged "partisan and discriminatory conduct in office" and "mass disenfranchisement". The Speaker and the Chairman refused to admit them under Section 3 of the Judges (Inquiry) Act, 1968, after what the Rajya Sabha notification called "a careful and objective assessment". The CEC can be removed only in the manner of a Supreme Court judge, on grounds of proven misbehaviour or incapacity.
@@ -115,4 +115,4 @@ The March notices alleged "partisan and discriminatory conduct in office" and "m
 
 Opposition leaders protested in central Delhi on October 6 and 7 demanding the CEC's resignation. Delhi Police registered at **least four FIRs** naming Rahul Gandhi, Priyanka Gandhi Vadra and others, alleging assault, obstruction of public servants and violation of prohibitory orders under Section 163 of the BNSS. A separate FIR alleges forced entry into Akashvani Bhawan. Police said 91 people, including several MPs, were detained. These are police cases; no court has ruled on them. Congress leader Jairam Ramesh, in remarks aimed at Prime Minister Narendra Modi and Home Minister Amit Shah, said: "The diabolical duo is nervous, rattled and desperate."
 
-The Supreme Court is also involved. On October 5 a bench led by Chief Justice Surya Kant said "Any modification to Form 6 has not been approved by us", and issued notice on a petition asking whether the CEC can individually exercise powers vested in the full Commission, IANS reported. Rahul Gandhi said on X that it was "now established beyond doubt that Gyanesh Kumar changed Form 6 illegally and unilaterally"; the ECI called his claims misleading and said the Form 6 declaration had been upheld by the court. Separately, on September 23, a two-judge bench split on whether the challenge to the 2023 law on appointing Election Commissioners needed a larger bench, then unanimously sent the papers to the Chief Justice to set up a Constitution Bench, Supreme Court Observer reported.
+The Supreme Court is also involved. On October 5 a bench led by Chief Justice Surya Kant said "Any modification to Form 6 has not been approved by us", and issued notice on a petition asking whether the CEC can individually exercise powers vested in the full Commission. Rahul Gandhi said on X that it was "now established beyond doubt that Gyanesh Kumar changed Form 6 illegally and unilaterally"; the ECI called his claims misleading and said the Form 6 declaration had been upheld by the court. Separately, on September 23, a two-judge bench split on whether the challenge to the 2023 law on appointing Election Commissioners needed a larger bench, then unanimously sent the papers to the Chief Justice to set up a Constitution Bench, Supreme Court Observer reported.

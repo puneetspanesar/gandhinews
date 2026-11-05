@@ -12,7 +12,7 @@ location: Kolkata
 keyPoints:
   - "Suvendu Adhikari said that for the BJP, SIR means **'Remove Infiltrators, Save India'**."
   - "He accused the Opposition of trying to create **political instability in West Bengal**."
-  - "He warned of **a decisive reply in the Kolkata and Howrah civic polls**."
+  - "He warned of **a decisive reply** in the Kolkata and Howrah civic polls."
 hero:
   need: "West Bengal Chief Minister Suvendu Adhikari, who led the BJP procession and addressed the Esplanade rally"
   suggested_source: "Suvendu Adhikari"

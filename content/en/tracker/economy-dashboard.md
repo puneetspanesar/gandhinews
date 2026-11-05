@@ -72,4 +72,4 @@ The data file also marks each indicator as verified against a primary source or 
 
 ## Sources
 
-GDP, CPI, unemployment and industrial output are from MoSPI releases. The repo rate is from the RBI. The fiscal deficit is from Controller General of Accounts data as reported by UNI and PTI, and GST from figures reported by Business Today and IANS. The rupee, forex reserves and market closes are from PTI and Business Standard. Every row in the data file carries its own source link and date.
+GDP, CPI, unemployment and industrial output are from MoSPI releases. The repo rate is from the RBI. The fiscal deficit is from Controller General of Accounts data, and GST from official monthly collection figures. The rupee, forex reserves and market closes are from RBI data and exchange closing figures. Every row in the data file carries its own source link and date.

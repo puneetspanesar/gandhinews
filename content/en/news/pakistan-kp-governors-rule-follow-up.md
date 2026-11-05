@@ -72,7 +72,7 @@ The session lacked the usual uproar. Shehbaz attended part of it and shook hands
 
 Law Minister Azam Nazeer Tarar said the situation in the province was "turning into a threat to national security to an alarming extent". Earlier in the day he said the emergency covers the whole province, not only the **12 districts** hit hardest by militancy, which will get a separate Area Development Secretariat.
 
-Defence Minister Khawaja Asif told the PTI it did not have clean hands and accused Afridi of taking directions from Afghanistan. Farooq Sattar of the MQM-P called the decision extremely difficult but unavoidable and urged the PTI: "Openly condemn terrorism."
+Defence Minister Khawaja Asif said the PTI did not have clean hands and accused Afridi of taking directions from Afghanistan. Farooq Sattar of the MQM-P called the decision extremely difficult but unavoidable and urged the PTI: "Openly condemn terrorism."
 
 Bilawal Bhutto-Zardari, whose PPP supports the government, called the PTI's conduct a "political suicide attack" on its own provincial government. He also warned that an emergency was "always a stopgap measure". "We cannot sustain the emergency forever," he said, urging both sides to talk. PTI chairman Barrister Gohar Ali Khan said his party rejected the move but welcomed the call for dialogue.
 

@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "The BJP has told Sunetra Pawar to **meet Amit Shah in Delhi** if she wants the finance portfolio."
   - "Chhagan Bhujbal urged the NCP to **prepare for all 288 seats** on its own."
-  - "Parth Pawar **walked out when Sunil Tatkare began speaking**."
+  - "Parth Pawar **walked out** when Sunil Tatkare began speaking."
 hero:
   need: "Chhagan Bhujbal speaking, with Deputy Chief Minister Sunetra Pawar as the second panel"
   suggested_source: "Chhagan Bhujbal"

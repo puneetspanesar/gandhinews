@@ -52,6 +52,6 @@ The quake hit at 10:33 pm local time (8:03 pm IST) in Maru township in Baqen cou
 
 More than 300 houses came down, and CCTV said **339 homes** in all had collapsed or been damaged. Walls cracked at the township office, and power and telephone services were cut in the county seat. "It was clearly felt," said Lhawang Dagpo, the township's deputy head. Television footage showed workers running out of restaurants and goods tumbling off supermarket shelves.
 
-Authorities activated a level-III earthquake emergency response. More than 300 police officers were sent to the area, and the regional fire and rescue corps mobilised 347 personnel. Rescuers searched damaged buildings, some with their roofs caved in, through the night, while soldiers stood ready to deploy. The official Xinhua news agency said damage was still being assessed on Friday.
+Authorities activated a level-III earthquake emergency response. More than 300 police officers were sent to the area, and the regional fire and rescue corps mobilised 347 personnel. Rescuers searched damaged buildings, some with their roofs caved in, through the night, while soldiers stood ready to deploy. Chinese state media said damage was still being assessed on Friday.
 
 Earthquakes are common in China. In January 2025, a quake in Tibet's Tingri county killed at least **126 people**, and in December 2023 one in Gansu province killed at least 127.

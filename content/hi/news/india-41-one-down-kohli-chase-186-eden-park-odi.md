@@ -13,7 +13,7 @@ location: ऑकलैंड
 keyPoints:
   - "186 रनों का पीछा करते हुए भारत **7.4 ओवर में 1 विकेट पर 41**।"
   - "पहला विकेट गिरने के बाद **विराट कोहली क्रीज़ पर**।"
-  - "भारत को **9 विकेट रहते 145 रन और चाहिए**।"
+  - "भारत को 9 विकेट रहते **145 रन और चाहिए**।"
 hero:
   need: "India batter Virat Kohli batting in the chase at Eden Park"
   suggested_source: "Virat Kohli"

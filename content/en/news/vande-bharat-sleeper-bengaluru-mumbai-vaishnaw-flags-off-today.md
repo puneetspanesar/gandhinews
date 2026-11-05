@@ -12,7 +12,7 @@ location: Bengaluru
 keyPoints:
   - "Railway Minister Ashwini Vaishnaw will **inaugurate the train in Bengaluru** on Sunday."
   - "The regular service leaves SMVT at 7:45 pm and **reaches CSMT at 11:55 am** the next day."
-  - "It will run **six days a week, every day except Monday**."
+  - "It will run **six days a week**, every day except Monday."
 hero:
   need: "Two-panel split: Railway Minister Ashwini Vaishnaw and Sir M. Visvesvaraya Terminal in Bengaluru, where he flags off the train"
   suggested_source: "Ashwini Vaishnaw"

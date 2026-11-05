@@ -21,7 +21,7 @@ hero:
     value: "Rules before the accident, says Mittal"
 related: []
 seo:
-  description: "Sunil Mittal said AI should not be stifled but needs rules before an accident, as OpenAI told the Bloomberg New Economy Forum in Delhi that firms want outcomes."
+  description: "Sunil Mittal said AI should not be stifled but needs rules before an accident, as OpenAI said at the Bloomberg New Economy Forum in Delhi that firms want outcomes."
 sources:
   - title: "AI shouldn't be stifled, but unchecked use will be 'foolish': Sunil Mittal"
     publisher: "Business Standard (PTI)"
@@ -54,7 +54,7 @@ verification:
 
 Bharti Airtel chairman Sunil Mittal said on Wednesday that governments must set rules for artificial intelligence before something goes wrong, while warning against choking off its growth.
 
-"We need to think about the regulation. I don't think we need to stifle it or stop the growth of it," Mittal told the Bloomberg New Economy Forum, which is meeting in New Delhi from October 13 to 15. But "it will be foolish for anybody to think that we can let it flow", he added. "Are we going to wake up only when an accident happens or we do it before."
+"We need to think about the regulation. I don't think we need to stifle it or stop the growth of it," Mittal said at the Bloomberg New Economy Forum, which is meeting in New Delhi from October 13 to 15. But "it will be foolish for anybody to think that we can let it flow", he added. "Are we going to wake up only when an accident happens or we do it before."
 
 He said there was suddenly "a scrambling around the government corridors" over how to keep countries secure as AI spreads into every part of life, and that international talks were lagging. "Unfortunately, that conversation is not happening at the pace it should," he said.
 

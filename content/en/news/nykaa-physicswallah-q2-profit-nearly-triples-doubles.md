@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Nykaa's net profit **rose to ₹101.19 crore from ₹32.98 crore** a year earlier."
   - "PhysicsWallah **earned ₹142.29 crore against ₹69.72 crore** and a June-quarter loss."
-  - "Nykaa will **buy an 82% stake in makeup brand Simply Nam**."
+  - "Nykaa will buy an **82% stake** in makeup brand Simply Nam."
 hero:
   need: "Falguni Nayar, founder and chief executive of Nykaa, and Alakh Pandey, founder of PhysicsWallah"
   suggested_source: "Falguni Nayar"
