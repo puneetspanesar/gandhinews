@@ -94,10 +94,6 @@ Some will say India should hold out longer. A weakened President, facing a hosti
 
 Perhaps. But exporters cannot price goods on perhaps. Every month of uncertainty is a month in which buyers hedge their orders. And the first tranche of the deal is, by Commerce Minister Piyush Goyal's own account in July, already finalised. He said it would take effect "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors". Secretary of State Marco Rubio said last month that the two sides were "very close". The gap is narrow enough to close.
 
-```photo
-{"n":2,"subject":"Piyush Goyal","caption":"Commerce Minister Piyush Goyal, who said in July that the first tranche of the India-US trade deal had been finalised.","alt":"Union Commerce Minister Piyush Goyal"}
-```
-
 ## What New Delhi should do
 
 First, **close the first tranche now**, on terms India can defend at home, and with a rate that keeps Indian goods ahead of competitors such as Vietnam and China, which pay 12.5% under the same duty.
