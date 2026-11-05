@@ -28653,5 +28653,87 @@
   "alt": "Andhra Pradesh Deputy Chief Minister Pawan Kalyan (file photo)",
   "alt_hi": "आंध्र प्रदेश के उपमुख्यमंत्री पवन कल्याण (फाइल फोटो) (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous": {
+  "id": "i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
+  "src": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Fewer seats on the ballot as unanimous wins pile up",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: निर्विरोध जीत बढ़ी, मतपत्र पर कम सीटें",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-en-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-hi-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous-hi-640.jpg"
+   }
+  }
+ },
+ "india-japan-asian-champions-trophy-final-mohali-preview": {
+  "id": "i-india-japan-asian-champions-trophy-final-mohali-preview",
+  "src": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India meet Japan for the title in Mohali",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मोहाली में खिताब के लिए भारत बनाम जापान",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-en-t-1280.jpg",
+    "src800": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-hi-t-1280.jpg",
+    "src800": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-en-1280.jpg",
+    "src800": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-hi-1280.jpg",
+    "src800": "/photos/i-india-japan-asian-champions-trophy-final-mohali-preview-hi-640.jpg"
+   }
+  }
  }
 }

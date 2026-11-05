@@ -66,18 +66,10 @@ Polling for **Andhra Pradesh's mandal and zilla parishads** was due to open at 7
 
 Of 9,821 Mandal Parishad Territorial Constituency (MPTC) seats, **2,051 were declared unanimous**, leaving 7,767 to be decided by voters. In the Zilla Parishad Territorial Constituency (ZPTC) contest, 77 of 659 seats went unopposed and 582 are on the ballot. Palnadu had the most unanimous MPTC results at 382, followed by YSR Kadapa with 350 and Markapuram with 217. Three MPTC seats will not be filled at all: no nominations were filed for two in YSR Kadapa district, and every nomination for the third, in Nandyal district, was rejected.
 
-```photo
-{"n":1,"subject":"Anil Chandra Punetha","caption":"State Election Commissioner Anil Chandra Punetha reviewed polling arrangements with district collectors and police chiefs on Wednesday.","alt":"Andhra Pradesh State Election Commissioner Anil Chandra Punetha"}
-```
-
 The final roll has **2,61,52,377 voters**, with women (1,32,74,208) outnumbering men (1,28,76,887). The commission has classed 31,460 polling stations as problematic, and polling will be watched on CCTV at 16,064 locations and webcast on 6,000 laptops.
 
 ## Rain and security
 
 State Election Commissioner **Anil Chandra Punetha** held a video conference with collectors and superintendents of police on Wednesday, after heavy rain from Cyclone Murasu. He said that with the rain easing there was no major obstacle to polling in most of the state, and told officials to "conduct the MPTC and ZPTC elections peacefully and transparently". Decisions on any trouble spots, he said, would be taken on the collectors' field reports. West Godavari, Guntur and Bapatla districts are getting special attention.
-
-```photo
-{"n":2,"subject":"Cyclone Murasu","caption":"Cyclone Murasu crossed the Andhra coast this week, and the commission is taking extra care in the districts it hit.","alt":"Rain and storm damage from Cyclone Murasu in coastal Andhra Pradesh"}
-```
 
 Director General of Police **Harish Kumar Gupta** has deployed 40,679 personnel. About 2.52 lakh staff are on poll duty, said commission secretary A Mallikarjuna. Counting begins at 8 am on Saturday.

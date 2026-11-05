@@ -75,18 +75,10 @@ Harmanpreet Singh's side have **won all six of their games**. They put eight pas
 
 They have already beaten Japan once in this event. In the league match in Jalandhar on 30 October, **India won 4-1**, with Abhishek scoring twice and Harmanpreet and Vishnu Kant Singh adding one each. Shota Yamada scored Japan's goal from a penalty stroke. "Our strategy in the last quarter was to control the game and press higher," Abhishek said after that match.
 
-```photo
-{"n":1,"subject":"Abhishek (field hockey)","caption":"Abhishek scored twice when India beat Japan 4-1 in the league stage in Jalandhar.","alt":"India hockey forward Abhishek"}
-```
-
 ## Japan's long wait
 
 Japan, captained by Raiki Fujishima, have **never won the title**. They were runners-up in 2013 and 2021 and took bronze in 2023. They reached this final the hard way: their semi-final against Malaysia ended goalless and they won the shoot-out 5-3.
 
 Coach Craig Fulton had set the tone before the tournament, a few weeks after India retained their Asian Games title in Japan. "The Asian Champions Trophy 2026 is a new challenge, on home soil," he said on 8 October, asking for "the same hunger, discipline and intensity to every match".
-
-```photo
-{"n":2,"subject":"Craig Fulton","caption":"India coach Craig Fulton, whose side have won every game of the tournament so far.","alt":"India men's hockey coach Craig Fulton"}
-```
 
 No injury news was reported from either camp before the final.
