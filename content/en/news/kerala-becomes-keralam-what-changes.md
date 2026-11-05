@@ -90,7 +90,7 @@ The Assembly's 2024 resolution linked the demand to the 1956 reorganisation of s
 
 ## What changes
 
-From August 25, "Keralam" replaces "Kerala" as the state's name in the Constitution. "The Bill provides that the State of Kerala will be known as the State of Keralam," Minister of State for Home Affairs Nityanand Rai told the Rajya Sabha, according to The News Minute.
+From August 25, "Keralam" replaces "Kerala" as the state's name in the Constitution. "The Bill provides that the State of Kerala will be known as the State of Keralam," Minister of State for Home Affairs Nityanand Rai told the Rajya Sabha.
 
 The Act also makes the consequential amendments the change requires, according to Onmanorama and The News Minute. The reports Gandhi News reviewed do not list those amendments or say whether the names of bodies such as the High Court, state universities or public corporations will change. The text of the Act will settle that.
 
@@ -98,8 +98,8 @@ The Act also makes the consequential amendments the change requires, according t
 
 The Lok Sabha passed the Bill on August 11 by voice vote without discussion, during opposition protests over a separate issue, Kerala Kaumudi reported. Congress MPs had asked that it not be taken up that day because members from Kerala would not get a chance to speak. Rai said the change was being made at the demand of Kerala's MPs and that the opposition's stand was wrong.
 
-The Rajya Sabha debated the Bill and passed it by voice vote on August 12, Onmanorama reported. Rai said the Bill was brought "to honour the State's request", All India Radio reported.
+The Rajya Sabha debated the Bill and passed it by voice vote on August 12, Onmanorama reported. Rai said the Bill was brought "to honour the State's request".
 
-Members across parties backed the change. Union Minister Suresh Gopi called it "a celebratory moment for over four crore Malayalis around the globe" and alleged that Congress and CPI(M) members had prevented a discussion in the Lok Sabha. Tiruchi Siva (DMK), Derek O'Brien (Trinamool) and Sanjay Singh (AAP) spoke in support, All India Radio reported. Congress MP Jebi Mather Hisham welcomed the change but raised other political issues, which the Chair kept off the record, Onmanorama reported.
+Members across parties backed the change. Union Minister Suresh Gopi called it "a celebratory moment for over four crore Malayalis around the globe" and alleged that Congress and CPI(M) members had prevented a discussion in the Lok Sabha. Tiruchi Siva (DMK), Derek O'Brien (Trinamool) and Sanjay Singh (AAP) spoke in support. Congress MP Jebi Mather Hisham welcomed the change but raised other political issues, which the Chair kept off the record, Onmanorama reported.
 
 Other renaming demands surfaced in the debate. BJP MP Samik Bhattacharya called for West Bengal to be renamed Paschim Banga, describing the current name as a "colonial legacy". Rai replied that the Centre could consider such a proposal if it reflected the state's heritage and its people's wishes, Onmanorama reported.

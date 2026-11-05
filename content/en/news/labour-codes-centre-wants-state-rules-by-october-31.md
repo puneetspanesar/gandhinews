@@ -56,7 +56,7 @@ verification:
     - "Changed: standfirst said 'Eleven months' (it is just under 11) and 'workers' rights in most states still wait on state rules', which overstated the sourced position; reworded."
 ---
 
-The Union government wants every state and Union Territory to have rules under the four labour codes in place by October 31, 2026. Labour Secretary Chandra Bhushan Kumar said on September 24 that ten states had published final rules and the rest had put out drafts for consultation, Business Standard reported.
+The Union government wants every state and Union Territory to have rules under the four labour codes in place by October 31, 2026. Labour Secretary Chandra Bhushan Kumar said on September 24 that ten states had published final rules and the rest had put out drafts for consultation.
 
 > we are hoping we will have the rules at the state level by October 31.
 >
@@ -84,7 +84,7 @@ The Tribune reported in July that Kerala had sought more time to study the codes
 
 Rules notified so far differ from state to state. Several state social security rules make a fixed-term employee eligible for gratuity after at least one year of service, but Gujarat's rules require five years, the Shardul Amarchand Mangaldas newsletter says. Some states that allow women to work night shifts set different conditions: Bihar requires at least two women on duty and Uttar Pradesh at least four.
 
-The Grant Thornton Bharat report launched at the same seminar also flagged unresolved questions. These include the rule on paying wages within two working days after a worker leaves, and the lack of definitions for managerial, administrative and supervisory roles, Business Standard reported.
+The Grant Thornton Bharat report launched at the same seminar also flagged unresolved questions. These include the rule on paying wages within two working days after a worker leaves, and the lack of definitions for managerial, administrative and supervisory roles.
 
 ```timeline
 {"title":"Labour codes: from law to rules","items":[{"date":"Nov 21, 2025","text":"The four labour codes come into force, replacing 29 central laws"},{"date":"May 8, 2026","text":"Centre notifies rules under all four codes and Model Standing Orders"},{"date":"Jul 10, 2026","text":"The Tribune reports four states with final rules under all four codes; Kerala seeks more time"},{"date":"Sep 24, 2026","text":"Labour Secretary says ten states have final rules, sets October 31 target"},{"date":"Oct 31, 2026","text":"Centre's target for rules in every state and Union Territory"}]}

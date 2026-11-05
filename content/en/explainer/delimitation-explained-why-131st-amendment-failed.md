@@ -69,7 +69,7 @@ verification:
 
 ## What did the 131st Amendment Bill propose?
 
-**It would have raised the Lok Sabha's maximum size from 550 to 850 and let Parliament decide by law when to hold delimitation and which census to use.** Up to 815 seats would have gone to states and up to 35 to Union Territories, according to PRS. PRS notes that Parliament could have made these decisions by a simple majority. A companion Delimitation Bill would have set up a commission chaired by a serving or former Supreme Court judge, with the Chief Election Commissioner or a nominee and the state election commissioner, to redraw seats on the 2011 census, LiveLaw reported. All three bills, including a Union Territories Laws (Amendment) Bill, were introduced on April 16, 2026.
+**It would have raised the Lok Sabha's maximum size from 550 to 850 and let Parliament decide by law when to hold delimitation and which census to use.** Up to 815 seats would have gone to states and up to 35 to Union Territories, according to PRS. PRS notes that Parliament could have made these decisions by a simple majority. A companion Delimitation Bill would have set up a commission chaired by a serving or former Supreme Court judge, with the Chief Election Commissioner or a nominee and the state election commissioner, to redraw seats on the 2011 census. All three bills, including a Union Territories Laws (Amendment) Bill, were introduced on April 16, 2026.
 
 ## How was it linked to women's reservation?
 
@@ -79,7 +79,7 @@ verification:
 
 **It did not get the two-thirds of members present and voting that a constitutional amendment needs.** On April 17, 2026, the Lok Sabha voted 298 for and 230 against. With 528 members voting, 352 votes were needed. South First reported it was "the first Bill to be defeated in the Lok Sabha during the 12 years of the Narendra Modi government". Union minister Kiren Rijiju then withdrew the Delimitation Bill and the Union Territories bill.
 
-Opposition parties argued that redrawing seats on the 2011 census would cut the share of southern and north-eastern states, and questioned the timing while a new census was under way, LiveLaw reported. Most parties said they supported women's reservation itself.
+Opposition parties argued that redrawing seats on the 2011 census would cut the share of southern and north-eastern states, and questioned the timing while a new census was under way. Most parties said they supported women's reservation itself.
 
 ## Which states would have gained or lost?
 

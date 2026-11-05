@@ -85,7 +85,7 @@ Gandhi News could not find a national completion figure from the Registrar Gener
 
 ## Caste on the form
 
-On August 14 the Union Home Ministry issued a gazette notification under the Census Act, 1948, signed by Registrar General Mritunjay Kumar Narayan, listing 40 questions for the population count. Question 10, which asked only about Scheduled Caste or Scheduled Tribe status in 2011, now reads "SC/ST/Caste", Business Standard reported.
+On August 14 the Union Home Ministry issued a gazette notification under the Census Act, 1948, signed by Registrar General Mritunjay Kumar Narayan, listing 40 questions for the population count. Question 10, which asked only about Scheduled Caste or Scheduled Tribe status in 2011, now reads "SC/ST/Caste".
 
 India last recorded caste across all groups in 1931; every census since independence has recorded only SC and ST status. Other new questions cover Aadhaar number, mobile number, the number of bank accounts, digital literacy and where a person received a Covid-19 vaccine.
 
@@ -107,6 +107,6 @@ Business Standard linked the change to assembly elections: the terms of the Goa,
 
 ## The rest of India
 
-Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand were counted in September 2026, with a reference date of October 1, 2026. Everywhere else, enumeration is scheduled for February 2027 with a reference date of March 1, 2027, according to Business Standard.
+Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand were counted in September 2026, with a reference date of October 1, 2026. Everywhere else, enumeration is scheduled for February 2027 with a reference date of March 1, 2027.
 
 Business Standard describes Census 2027 as the first to be conducted digitally, with an option for people to enumerate themselves.

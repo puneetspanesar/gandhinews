@@ -107,7 +107,7 @@ The session ran from July 20 to August 13, 2026, and both Houses met on 19 days.
 
 ## Two sets of numbers
 
-The government's figures are higher. Parliamentary Affairs Minister Kiren Rijiju put Lok Sabha productivity at 19% and Rajya Sabha productivity at 39%, Outlook reported on August 13. Rajya Sabha Chairman C.P. Radhakrishnan gave the Upper House figure as 39.17%, or 37 hours and 49 minutes of sitting, according to PTI.
+The government's figures are higher. Parliamentary Affairs Minister Kiren Rijiju put Lok Sabha productivity at 19% and Rajya Sabha productivity at 39%, Outlook reported on August 13. Rajya Sabha Chairman C.P. Radhakrishnan gave the Upper House figure as 39.17%, or 37 hours and 49 minutes of sitting.
 
 PRS measures the time each House actually worked against the time it was scheduled to sit. The reports we read do not say how the government's figures are calculated, so this report gives both.
 
@@ -131,17 +131,17 @@ Rijiju acknowledged the gap at the end of the session.
 
 He also said that this was "not healthy for the parliamentary democracy", Outlook reported.
 
-Closing the Rajya Sabha, Radhakrishnan said: "As the 271st Session of the Rajya Sabha draws to a close, I reflect on its proceedings with deep concern." He added that "repeated disruptions ultimately affect the trust and aspirations of the people", PTI reported.
+Closing the Rajya Sabha, Radhakrishnan said: "As the 271st Session of the Rajya Sabha draws to a close, I reflect on its proceedings with deep concern." He added that "repeated disruptions ultimately affect the trust and aspirations of the people".
 
 ## Questions went unasked
 
 Question Hour ran for 1% of its scheduled time in the Lok Sabha: nine minutes in all, with two questions answered orally. In the Rajya Sabha it ran for 12%, according to PRS. By comparison, in the Winter Session of 2025 the Lok Sabha used 67% of its Question Hour time and the Rajya Sabha 80%.
 
-In the Rajya Sabha, 16 of 285 starred questions were taken up, along with 52 of 380 Zero Hour submissions and 93 of 380 Special Mentions, PTI reported. PRS records no debates, discussions or private members' business in the Lok Sabha during the session.
+In the Rajya Sabha, 16 of 285 starred questions were taken up, along with 52 of 380 Zero Hour submissions and 93 of 380 Special Mentions. PRS records no debates, discussions or private members' business in the Lok Sabha during the session.
 
 ## What carries over
 
-Lok Sabha referred the Foreign Contribution (Regulation) Amendment Bill, 2026 to a 31-member Joint Parliamentary Committee on August 12. The committee is due to report by the end of the first week of the Winter Session, ThePrint reported. A joint committee on the Viksit Bharat Shiksha Adhishthan Bill, 2025, the proposed single regulator for higher education, has not presented its report, PRS says.
+Lok Sabha referred the Foreign Contribution (Regulation) Amendment Bill, 2026 to a 31-member Joint Parliamentary Committee on August 12. The committee is due to report by the end of the first week of the Winter Session. A joint committee on the Viksit Bharat Shiksha Adhishthan Bill, 2025, the proposed single regulator for higher education, has not presented its report, PRS says.
 
 The 18th Lok Sabha has sent 21% of its Bills to committees so far, against 16% in the 17th, according to PRS. The House has also not elected a Deputy Speaker two years into its term.
 

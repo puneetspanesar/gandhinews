@@ -87,7 +87,7 @@ Some items went the other way. Motorcycles above 350 cc, aerated and caffeinated
 
 ## What happened to tobacco and the compensation cess?
 
-**Since February 1, 2026, pan masala, cigarettes and tobacco products attract 40% GST, and the compensation cess has ended.** The 56th Council kept the old rates on these goods until loan and interest obligations under the compensation cess account were paid off. At the end of December 2025 the government notified February 1 as the date from which the compensation cess would "cease to exist", PTI reported on January 1, 2026.
+**Since February 1, 2026, pan masala, cigarettes and tobacco products attract 40% GST, and the compensation cess has ended.** The 56th Council kept the old rates on these goods until loan and interest obligations under the compensation cess account were paid off. At the end of December 2025 the government notified February 1 as the date from which the compensation cess would "cease to exist".
 
 From that date, tobacco products also attract an additional excise duty, and pan masala a new Health and National Security Cess, both on top of GST. Biris are taxed at 18%.
 
@@ -115,7 +115,7 @@ The Centre's tax revenue is then shared again through the Finance Commission. Th
 
 ## How much does GST raise?
 
-**Gross GST collections were about ₹2.04 lakh crore in September 2026, up 14.7% on a year earlier.** GST on imports grew 25.9% and domestic GST 10.1%, according to provisional data reported by Business Today. Net collections after refunds were ₹1.77 lakh crore.
+**Gross GST collections were about ₹2.04 lakh crore in September 2026, up 14.7% on a year earlier.** GST on imports grew 25.9% and domestic GST 10.1%, according to provisional data. Net collections after refunds were ₹1.77 lakh crore.
 
 For April to September 2026, gross collections came to ₹12.46 lakh crore, up 11.6%. The September 2025 base came just before the rate cuts took effect on September 22, 2025.
 

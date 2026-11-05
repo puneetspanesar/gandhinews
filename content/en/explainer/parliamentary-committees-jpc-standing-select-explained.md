@@ -109,7 +109,7 @@ The Standing Committee on Finance, chaired by Bhartruhari Mahtab, reported on th
 {"title":"Joint and select committees at work (as of October 2026)","items":[{"date":"Dec 19, 2024","text":"One Nation One Election Bills go to a 41-member JPC chaired by P.P. Chaudhary. Deadline now the first day of the last week of the Winter Session 2026."},{"date":"Aug 20, 2025","text":"Constitution (130th Amendment) Bill, on removing ministers held in custody, goes to a JPC chaired by Aparajita Sarangi. No report yet."},{"date":"Dec 16, 2025","text":"Viksit Bharat Shiksha Adhishthan Bill, on a single higher education regulator, goes to a JPC chaired by Daggubati Purandeswari. No report yet."},{"date":"Aug 3, 2026","text":"JPC on the Corporate Laws (Amendment) Bill, 2026, chaired by Sudhir Gupta, presents its report."},{"date":"Aug 12, 2026","text":"FCRA Amendment Bill goes to a 31-member JPC. Report due in the first week of the Winter Session 2026."}]}
 ```
 
-The FCRA committee has 21 members from the Lok Sabha and 10 from the Rajya Sabha, ThePrint reported. Its members have not been named in any report we found.
+The FCRA committee has 21 members from the Lok Sabha and 10 from the Rajya Sabha. Its members have not been named in any report we found.
 
 ## How is a select committee different?
 

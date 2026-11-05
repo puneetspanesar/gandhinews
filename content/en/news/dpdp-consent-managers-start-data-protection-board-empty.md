@@ -75,7 +75,7 @@ Consent managers are companies that give people one platform to give, manage, re
 
 The Board was established in law when the rules were notified. The Ministry of Electronics and Information Technology (MeitY) invited applications for a chairperson and four members in a circular dated May 6, 2026, and a recruitment advertisement followed on June 6, according to India Data Law.
 
-Two search-cum-selection committees are handling the appointments, one chaired by the Cabinet Secretary for the chairperson and one chaired by the MeitY Secretary for the members, LiveLaw reported. A Lok Sabha written answer on August 12 confirmed the advertisement, according to India Data Law.
+Two search-cum-selection committees are handling the appointments, one chaired by the Cabinet Secretary for the chairperson and one chaired by the MeitY Secretary for the members. A Lok Sabha written answer on August 12 confirmed the advertisement, according to India Data Law.
 
 > A Board with no Members cannot convene a bench, cannot hear a party, and cannot sign an order, reasoned or otherwise.
 >

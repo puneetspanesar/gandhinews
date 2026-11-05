@@ -66,7 +66,7 @@ verification:
     - "Forex reserve figures are from Business Standard's report of RBI weekly data; RBI's Weekly Statistical Supplement was not opened."
 ---
 
-The rupee ended the week near 97 to the dollar. It closed at a provisional 96.72 on Friday, October 9, up 16 paise from 96.88 on Thursday, according to PTI. Brent crude futures traded at $102.95 a barrel that day.
+The rupee ended the week near 97 to the dollar. It closed at a provisional 96.72 on Friday, October 9, up 16 paise from 96.88 on Thursday. Brent crude futures traded at $102.95 a barrel that day.
 
 A day later, on Saturday, the Reserve Bank of India announced two sets of measures to ease pressure on the currency.
 
@@ -90,9 +90,9 @@ Banks must also keep a new Foreign Exchange Risk Reserve with the RBI in cash. I
 
 ## The oil link
 
-Business Standard has tied the rupee's slide this year to oil prices and foreign investor selling. On April 30, when Brent touched $126 a barrel, its highest since June 2022, the rupee hit a then-record low of 95.32, Business Standard reported. Foreign investors had pulled more than $20 billion out of Indian markets in 2026 by then.
+Business Standard has tied the rupee's slide this year to oil prices and foreign investor selling. On April 30, when Brent touched $126 a barrel, its highest since June 2022, the rupee hit a then-record low of 95.32. Foreign investors had pulled more than $20 billion out of Indian markets in 2026 by then.
 
-Higher oil prices raise India's import bill, widen the current account deficit and add to importers' demand for dollars, Business Standard noted. The rupee has lost 1.62% against the dollar since early September, according to Business Standard. Foreign institutional investors sold equities worth ₹12,943.58 crore on October 8 alone, PTI reported.
+Higher oil prices raise India's import bill, widen the current account deficit and add to importers' demand for dollars. The rupee has lost 1.62% against the dollar since early September. Foreign institutional investors sold equities worth ₹12,943.58 crore on October 8 alone.
 
 > The Indian rupee appreciated after three days of weakness, strengthening against the US dollar
 >
@@ -108,7 +108,7 @@ India's foreign exchange reserves fell $12.95 billion to $734.6 billion in the w
 {"type":"vbar","title":"India's forex reserves, selected weeks of 2026","subtitle":"Week ended ($ billion)","unit":"$ bn","data":[{"label":"Jun 26","value":666.9},{"label":"Sep 4","value":785.7},{"label":"Sep 25","value":747.6},{"label":"Oct 2","value":734.6,"highlight":true}],"source":"RBI data via Business Standard, Oct 9, 2026"}
 ```
 
-Market participants estimate the RBI sold about $30 billion, net, in September, Business Standard reported. Gaura Sen Gupta, chief economist at IDFC FIRST Bank, put the RBI's sales at about $7.5 billion in the latest reported week, with valuation changes accounting for most of the rest of the fall.
+Market participants estimate the RBI sold about $30 billion, net, in September. Gaura Sen Gupta, chief economist at IDFC FIRST Bank, put the RBI's sales at about $7.5 billion in the latest reported week, with valuation changes accounting for most of the rest of the fall.
 
 Reserves had been rebuilt over the summer through a concessional swap window for FCNR(B) deposits, which opened on June 8 and closed on August 31. It brought in $143.6 billion by September 18, of which $132.98 billion came from FCNR(B) deposits.
 

@@ -73,7 +73,7 @@ The strongest argument against publication deserves a hearing. Commissioners may
 
 ## What the Commission should do
 
-The stakes justify the change. SIR phase three draft rolls in 17 states and Union Territories left out more than 6.15 crore names, Deccan Herald reported on September 1. Changes to Form 6, the form used to register as a voter, have drawn questions from the Supreme Court, which has said it wants to see who modified the form. Decisions of this weight should carry a public record of who agreed and on what terms.
+The stakes justify the change. SIR phase three draft rolls in 17 states and Union Territories left out more than 6.15 crore names. Changes to Form 6, the form used to register as a voter, have drawn questions from the Supreme Court, which has said it wants to see who modified the form. Decisions of this weight should carry a public record of who agreed and on what terms.
 
 We recommend that the Commission adopt a simple rule. For every decision taken by the full Commission on the conduct of elections or the preparation of rolls, it should record each member's position and publish any dissenting or concurring note with the order, or within two weeks of it. Internal staff notes and routine administrative matters can stay internal. If the Commission does not act on its own, Parliament can write the requirement into the 2023 law on the Commission. A Commission that publishes its disagreements has less to fear from leaks.
 

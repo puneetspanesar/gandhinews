@@ -88,11 +88,11 @@ Under the current law, when a certificate is cancelled or surrendered, the forei
 
 ## What do the parties say?
 
-**The Congress and the Samajwadi Party have asked for the Bill to be withdrawn; the government says it does not target minorities.** Congress MP K.C. Venugopal sought its withdrawal when it was referred to the committee, and SP chief Akhilesh Yadav also opposed it, ThePrint reported on August 12. Parliamentary Affairs Minister Kiren Rijiju said nothing in the Bill targets minority institutions, according to the same report.
+**The Congress and the Samajwadi Party have asked for the Bill to be withdrawn; the government says it does not target minorities.** Congress MP K.C. Venugopal sought its withdrawal when it was referred to the committee, and SP chief Akhilesh Yadav also opposed it. Parliamentary Affairs Minister Kiren Rijiju said nothing in the Bill targets minority institutions, according to the same report.
 
 ## Where does the Bill stand?
 
-**It is with a Joint Parliamentary Committee.** The Lok Sabha referred it on August 12, 2026, near the end of the Monsoon Session. The committee is due to report by the last day of the first week of the Winter Session 2026, ThePrint reported. As of October 11, 2026, the Winter Session's dates had not been announced.
+**It is with a Joint Parliamentary Committee.** The Lok Sabha referred it on August 12, 2026, near the end of the Monsoon Session. The committee is due to report by the last day of the first week of the Winter Session 2026. As of October 11, 2026, the Winter Session's dates had not been announced.
 
 ```timeline
 {"title":"FCRA Amendment Bill, 2026","items":[{"date":"Mar 25, 2026","text":"Introduced in the Lok Sabha by the Ministry of Home Affairs."},{"date":"Aug 12, 2026","text":"Referred to a 31-member Joint Parliamentary Committee."},{"date":"Winter Session 2026","text":"Committee report due by the end of the session's first week. Dates not yet announced."}]}

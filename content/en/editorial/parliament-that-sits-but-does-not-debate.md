@@ -69,7 +69,7 @@ The habit predates this session. The 18th Lok Sabha has sent 21% of its Bills to
 
 The Opposition's grievance was real. Its MPs wanted a discussion on the NEET-UG paper leak and a statement from the Home Minister. A national exam paper leak deserved the House's time.
 
-But disruption cost the Opposition its own best tools. In the Rajya Sabha, 16 of 285 starred questions were taken up, PTI reported. Each lost question was a lost chance to put a minister on record, on NEET or anything else. And when the House did debate the exam-cheating Bill, 48 Lok Sabha MPs spoke over nearly 11 hours. Debate was possible when both sides wanted it.
+But disruption cost the Opposition its own best tools. In the Rajya Sabha, 16 of 285 starred questions were taken up. Each lost question was a lost chance to put a minister on record, on NEET or anything else. And when the House did debate the exam-cheating Bill, 48 Lok Sabha MPs spoke over nearly 11 hours. Debate was possible when both sides wanted it.
 
 ## What should change before the Winter Session
 

@@ -55,7 +55,7 @@ Collecting the data is the easier part. The harder test is whether the results a
 
 Caste shapes reservation, welfare targeting, and political argument in almost every state. For nine decades, those debates have run on estimates, state surveys and old numbers. A national count, done by the same enumerators under the same law as the rest of the census, can settle questions that surveys cannot.
 
-That only works if the numbers come out. Partial tables, or totals for broad categories without the underlying castes, would leave room for every side to claim the data supports it and no one to check. The Union Cabinet approved ₹11,718 crore for this census, as reported by Telangana Today and The Arunachal Times. Its users are owed the results.
+That only works if the numbers come out. Partial tables, or totals for broad categories without the underlying castes, would leave room for every side to claim the data supports it and no one to check. The Union Cabinet approved ₹11,718 crore for this census. Its users are owed the results.
 
 ## The coding problem
 

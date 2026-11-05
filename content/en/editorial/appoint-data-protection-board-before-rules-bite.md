@@ -63,7 +63,7 @@ A regulator needs time before it can use those powers well. It needs staff, a re
 
 There is a fair case for the pace so far. The phased design gives companies 18 months to prepare, and a Board with little to enforce in its first year would have had little to do. Choosing a chairperson and members for a new regulator through two search-cum-selection committees, one chaired by the Cabinet Secretary, takes care. A hurried appointment of the wrong people would do lasting harm.
 
-That argument holds for a few months. It weakens with each one that passes. The selection process began in May, and the posts were advertised in June. The Board also needs members before consent managers start up, since they come under its oversight. And the law requires at least one member with legal expertise, alongside domain knowledge in data governance, dispute resolution, technology or the digital economy, according to LiveLaw. That is a pool that can be searched in months.
+That argument holds for a few months. It weakens with each one that passes. The selection process began in May, and the posts were advertised in June. The Board also needs members before consent managers start up, since they come under its oversight. And the law requires at least one member with legal expertise, alongside domain knowledge in data governance, dispute resolution, technology or the digital economy. That is a pool that can be searched in months.
 
 ## Independence starts with appointment
 

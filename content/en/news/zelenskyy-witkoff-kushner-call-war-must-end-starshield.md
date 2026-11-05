@@ -47,7 +47,7 @@ Writing on X, the Ukrainian president said the two sides were in "virtually nons
 
 The warm words came in a week of open friction. On Saturday, Trump waived expected sanctions on Russia's energy sector and on countries that buy its oil and gas, a list that includes India, after calling Ukraine's renewed strikes on Russian refineries "a disgrace". Ukraine pressed on regardless, hitting St Petersburg overnight in what Russian state media called the largest attack on the city since 2022.
 
-Zelenskyy told NBC he was "thankful" that Washington had resumed intelligence sharing after a pause. "It was blocked for some period of time. And then it was deblocked by the American side," he said, adding that Ukraine had gone without it during three days of Russian ballistic missile attacks.
+Zelenskyy said he was "thankful" that Washington had resumed intelligence sharing after a pause. "It was blocked for some period of time. And then it was deblocked by the American side," he said, adding that Ukraine had gone without it during three days of Russian ballistic missile attacks.
 
 ## The satellite dispute
 

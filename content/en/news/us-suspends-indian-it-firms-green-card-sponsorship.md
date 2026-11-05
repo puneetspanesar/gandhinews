@@ -65,15 +65,15 @@ verification:
 
 The US Labor Department said on October 8 that it would stop processing labour certifications for green cards sponsored by eight companies, including four large Indian IT firms. The next day, India's Ministry of External Affairs (MEA) objected to Vice President JD Vance's description of foreign workers hired in place of Americans as "foreign indentured servants".
 
-The companies are Tata Consultancy Services, Infosys, Wipro, HCL Technologies, Cognizant, Capgemini, Microsoft and Adobe, according to Reuters and Gulf News.
+The companies are Tata Consultancy Services, Infosys, Wipro, HCL Technologies, Cognizant, Capgemini, Microsoft and Adobe.
 
 ## What the US did
 
-Labor Secretary Keith Sonderling said the department "will not accept any new or process any pending permanent labour certification applications involving these companies", Reuters reported. The step targets PERM, the labour certification most employment-based green cards require. Under it, an employer must show that hiring a foreign worker will not harm the wages, conditions or job prospects of US workers.
+Labor Secretary Keith Sonderling said the department "will not accept any new or process any pending permanent labour certification applications involving these companies". The step targets PERM, the labour certification most employment-based green cards require. Under it, an employer must show that hiring a foreign worker will not harm the wages, conditions or job prospects of US workers.
 
-The administration cited fraudulent hiring practices, ThePrint reported. Sonderling said the companies had received about 230,000 H-1B visas and more than 100,000 PERM certifications since 2009. The government has not said how long the suspension will last or how many workers are affected.
+The administration cited fraudulent hiring practices. Sonderling said the companies had received about 230,000 H-1B visas and more than 100,000 PERM certifications since 2009. The government has not said how long the suspension will last or how many workers are affected.
 
-The freeze does not appear to directly affect current H-1B visa holders, Reuters reported. It could, however, block a common route by which employers sponsor those workers for permanent residence.
+The freeze does not appear to directly affect current H-1B visa holders. It could, however, block a common route by which employers sponsor those workers for permanent residence.
 
 ```facts
 {"title":"The PERM suspension in numbers","items":[{"value":"8","label":"companies suspended, including TCS, Infosys, Wipro and HCL","source":"Reuters; Gulf News"},{"value":"230,000","label":"H-1B visas the companies received since 2009, according to the US Labor Secretary","source":"ThePrint, Oct 9, 2026"},{"value":"15,000","label":"additional US hires TCS plans over five years","source":"TCS statement, Oct 9, 2026"},{"value":"2%","label":"rise in the Nifty IT index on October 9","source":"Business Today"}]}
@@ -81,13 +81,13 @@ The freeze does not appear to directly affect current H-1B visa holders, Reuters
 
 ## Vance's remarks
 
-At a White House news conference on October 8, Vance singled out Microsoft. "You're a great American company, but you've got to hire great American workers," he said, according to Reuters. He alleged that Microsoft laid off 6,000 American workers last year while obtaining 6,300 H-1B visas and nearly 3,000 green cards, Gulf News reported, citing Reuters and AP. He also claimed that H-1B workers brought in by outsourcing firms earn $48,000 less than American citizens, Business Today reported. These are Vance's allegations, not findings.
+At a White House news conference on October 8, Vance singled out Microsoft. "You're a great American company, but you've got to hire great American workers," he said. He alleged that Microsoft laid off 6,000 American workers last year while obtaining 6,300 H-1B visas and nearly 3,000 green cards, Gulf News reported, citing Reuters and AP. He also claimed that H-1B workers brought in by outsourcing firms earn $48,000 less than American citizens. These are Vance's allegations, not findings.
 
-Vance said nine universities, including Harvard, Yale and Stanford, would be investigated over what the administration called "misuse of exchange-visitor visas", Reuters reported.
+Vance said nine universities, including Harvard, Yale and Stanford, would be investigated over what the administration called "misuse of exchange-visitor visas".
 
 ## India's response
 
-The MEA said in a statement on October 9 that the US steps "do not advance the shared ambitions of both countries", ThePrint reported. It called the description of Indian professionals "unwarranted and deeply offensive".
+The MEA said in a statement on October 9 that the US steps "do not advance the shared ambitions of both countries". It called the description of Indian professionals "unwarranted and deeply offensive".
 
 > Resorting to terminology that carries painful historical and colonial legacy connotations is deeply offensive.
 >
@@ -99,8 +99,8 @@ The ministry said Indian professionals in the US are "highly educated and skille
 
 TCS said it would comply with any Labor Department directive. "Our PERM applications were in single digits in the last two years and hence we do not expect the suspension of the program to impact our workforce strategy and customer engagements," the company said on October 9. It repeated a plan to hire 15,000 more people in the US over five years.
 
-Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to Reuters' requests for comment. Indian IT shares rose on October 9, with TCS up about 5% and the Nifty IT index up 2%, Business Today reported.
+Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to Reuters' requests for comment. Indian IT shares rose on October 9, with TCS up about 5% and the Nifty IT index up 2%.
 
 ## What else is pending
 
-A separate US proposal for a $70,000 fee on universities that recommend international students for Optional Practical Training was announced on October 7. It has not taken effect, Gulf News reported.
+A separate US proposal for a $70,000 fee on universities that recommend international students for Optional Practical Training was announced on October 7. It has not taken effect.

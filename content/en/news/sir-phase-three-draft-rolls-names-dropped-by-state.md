@@ -10,7 +10,7 @@ standfirst: "Maharashtra lost the most names and Delhi the largest share. The El
 published: 2026-10-11T10:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "Draft rolls in the 17 states and UTs published by September 1 left out **more than 6.15 crore electors**, Deccan Herald reported."
+  - "Draft rolls in the 17 states and UTs published by September 1 left out **more than 6.15 crore electors**."
   - "Maharashtra had the **largest number of exclusions (2.07 crore)** and Delhi the largest share (32.78%)."
   - "The Election Commission says names were left out because voters were absent, had shifted, had died or were registered twice, and that these are **not final deletions**."
   - "Opposition leaders including Rahul Gandhi have alleged that **eligible voters are being removed**; the ECI calls the 'vote chori' charge part of a misleading narrative."
@@ -112,7 +112,7 @@ Draft electoral rolls published so far in the third phase of the Special Intensi
 
 ## Where the cuts were deepest
 
-Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or 21.14% of its 9.78 crore electors, PTI reported. Delhi lost the largest share: 47,56,722 of 1.45 crore electors, or 32.78%, most of them marked "permanently shifted", according to ThePrint.
+Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or 21.14% of its 9.78 crore electors. Delhi lost the largest share: 47,56,722 of 1.45 crore electors, or 32.78%, most of them marked "permanently shifted".
 
 | State or UT | Left out of draft | Share of old roll |
 |---|---|---|
@@ -133,12 +133,12 @@ Within states, Outlook found deletions concentrated in some city seats. Jubilee 
 
 The ECI's stated aim, in the Delhi Chief Electoral Officer's FAQ, is that "No eligible citizen is left out and no ineligible person is included in the Electoral Roll." Names are left off a draft when Booth Level Officers cannot collect an enumeration form, under the category of absent, shifted, dead or duplicate (ASDD). Jharkhand's 43.62 lakh exclusions, for instance, included 7.63 lakh dead, 15.92 lakh permanently shifted, 14.50 lakh untraceable and 4.38 lakh registered in more than one place, according to the state CEO's figures.
 
-On October 2 the ECI called the claim that 13 crore voters had been removed from the rolls misleading, Free Press Journal reported. According to the report, the Commission said that figure counts electors marked absent, shifted, dead or duplicate at the draft stage across all SIR phases since June 2025, not names deleted from final rolls. It described the "vote chori" allegation as part of a misleading narrative and said about 2.37 crore voters aged 18 to 28 had been added since the SIR began.
+On October 2 the ECI called the claim that 13 crore voters had been removed from the rolls misleading. According to the report, the Commission said that figure counts electors marked absent, shifted, dead or duplicate at the draft stage across all SIR phases since June 2025, not names deleted from final rolls. It described the "vote chori" allegation as part of a misleading narrative and said about 2.37 crore voters aged 18 to 28 had been added since the SIR began.
 
 ## What the opposition says
 
-Rahul Gandhi, Leader of the Opposition in the Lok Sabha, described the Maharashtra exclusions as "vote theft" in a post on September 1 and alleged that the exercise was aimed at securing a BJP victory, according to PTI's translation of his Hindi post. In Punjab, the Congress, BJP, AAP and Shiromani Akali Dal all said they were checking the draft lists booth by booth, The Tribune reported. On October 8, Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a Mahagathbandhan march against the SIR, IANS reported.
+Rahul Gandhi, Leader of the Opposition in the Lok Sabha, described the Maharashtra exclusions as "vote theft" in a post on September 1 and alleged that the exercise was aimed at securing a BJP victory, according to PTI's translation of his Hindi post. In Punjab, the Congress, BJP, AAP and Shiromani Akali Dal all said they were checking the draft lists booth by booth. On October 8, Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a Mahagathbandhan march against the SIR.
 
 ## What happens next
 
-Final rolls are being published state by state. In Maharashtra, the ECI extended the deadline for claims and objections to October 12, with disposal due by November 10 and the final roll moved to November 16, News On AIR reported. In Delhi, claims and objections now run to October 30, Business Today reported. Voters left out can apply for inclusion using Form 6 with a declaration. Our [explainer](/en/explainer/special-intensive-revision-how-to-check-your-name) sets out how to check your name.
+Final rolls are being published state by state. In Maharashtra, the ECI extended the deadline for claims and objections to October 12, with disposal due by November 10 and the final roll moved to November 16. In Delhi, claims and objections now run to October 30. Voters left out can apply for inclusion using Form 6 with a declaration. Our [explainer](/en/explainer/special-intensive-revision-how-to-check-your-name) sets out how to check your name.

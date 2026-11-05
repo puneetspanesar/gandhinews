@@ -106,4 +106,4 @@ Prime Minister Narendra Modi welcomed the recommendations in a post on X: "The f
 
 The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. According to Deccan Chronicle and Taxscan, Sitharaman said the agenda items would be implemented from April 1, 2027.
 
-The meeting came as collections stayed strong. Gross GST revenue in September 2026 was about ₹2.04 lakh crore, up 14.7% on a year earlier, according to provisional data reported by Business Today.
+The meeting came as collections stayed strong. Gross GST revenue in September 2026 was about ₹2.04 lakh crore, up 14.7% on a year earlier, according to provisional data.

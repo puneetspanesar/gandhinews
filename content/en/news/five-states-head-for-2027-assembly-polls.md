@@ -103,7 +103,7 @@ Section 15 of the Representation of the People Act allows the Election Commissio
 
 ## The census was moved for the polls
 
-The Registrar General of India notified on September 5 that population enumeration for Census 2027 in Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand will run from December 1, 2026, to January 4, 2027, with a revisional round from January 5 to 9. The reference date for these states is 00:00 hours on January 5, 2027, against March 1, 2027, for most of the country, ETV Bharat reported. ETV Bharat reported that the count was being advanced in the states likely to go to the polls early next year. News24 reported that census house listing in Manipur has been postponed.
+The Registrar General of India notified on September 5 that population enumeration for Census 2027 in Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand will run from December 1, 2026, to January 4, 2027, with a revisional round from January 5 to 9. The reference date for these states is 00:00 hours on January 5, 2027, against March 1, 2027, for most of the country. ETV Bharat reported that the count was being advanced in the states likely to go to the polls early next year. News24 reported that census house listing in Manipur has been postponed.
 
 ## Where the voter rolls stand
 
@@ -113,10 +113,10 @@ The Special Intensive Revision (SIR) of electoral rolls is complete in three of 
 {"title":"Roll revision in the five states","items":[{"value":"13.2%","label":"fall in Uttar Pradesh's roll after SIR, to 13.4 crore","source":"News24"},{"value":"10.2%","label":"fall in Goa's roll, to 10.6 lakh","source":"News24"},{"value":"20.66 lakh","label":"names struck from Punjab's draft roll in August","source":"The Tribune"},{"value":"12.8 lakh","label":"Punjab voters not matched to the 2003 roll and issued notices","source":"The Tribune"}]}
 ```
 
-Punjab and Uttarakhand await final rolls. Punjab's draft, published on August 13, removed 20.66 lakh names, about 9.7% of the June list, and a further 12.8 lakh voters who could not be matched to the 2003 rolls were asked to submit documents, The Tribune reported.
+Punjab and Uttarakhand await final rolls. Punjab's draft, published on August 13, removed 20.66 lakh names, about 9.7% of the June list, and a further 12.8 lakh voters who could not be matched to the 2003 rolls were asked to submit documents.
 
 ## How the parties are preparing
 
-In Uttar Pradesh, BJP president Nitin Nabin chaired a meeting of about 65 state in-charges and co-in-charges in Delhi at the end of September, ANI reported, with organisational meetings planned in Lucknow on October 1 and 2 and a two-day meeting proposed in Mathura on October 3 and 4 with Chief Minister Yogi Adityanath. Senior Samajwadi Party and Congress leaders have stressed the unity of their alliance, but MPs from each party have backed different leaders as its face, PTI reported. In Punjab, Shiromani Akali Dal chief Sukhbir Badal met Prime Minister Narendra Modi on August 7, and ThePrint reported that reviving the Akali-BJP alliance was on the agenda. Punjab BJP chief Kewal Singh Dhillon said: "Anyone can go and meet the PM. We are going to contest alone on all seats." Punjab has 117 seats.
+In Uttar Pradesh, BJP president Nitin Nabin chaired a meeting of about 65 state in-charges and co-in-charges in Delhi at the end of September, ANI reported, with organisational meetings planned in Lucknow on October 1 and 2 and a two-day meeting proposed in Mathura on October 3 and 4 with Chief Minister Yogi Adityanath. Senior Samajwadi Party and Congress leaders have stressed the unity of their alliance, but MPs from each party have backed different leaders as its face. In Punjab, Shiromani Akali Dal chief Sukhbir Badal met Prime Minister Narendra Modi on August 7, and ThePrint reported that reviving the Akali-BJP alliance was on the agenda. Punjab BJP chief Kewal Singh Dhillon said: "Anyone can go and meet the PM. We are going to contest alone on all seats." Punjab has 117 seats.
 
 Himachal Pradesh and Gujarat are due to vote later in 2027. See the [election calendar](/en/tracker/election-calendar) for all dates.

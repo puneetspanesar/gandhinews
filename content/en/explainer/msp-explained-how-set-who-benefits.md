@@ -103,7 +103,7 @@ The government's own figures for rabi crops show the same pattern. Of the 3,921 
 
 **Mainly farmers who can sell to government agencies, which in practice means wheat and paddy growers in states with strong procurement.**
 
-Punjab shows what large-scale procurement looks like. The Centre has asked the state to procure 180 lakh tonnes of paddy for the central pool this kharif season. By October 7, agencies had bought 7.50 lakh tonnes, and the RBI had released a cash credit limit of ₹42,786.68 crore to fund purchases, UNI reported.
+Punjab shows what large-scale procurement looks like. The Centre has asked the state to procure 180 lakh tonnes of paddy for the central pool this kharif season. By October 7, agencies had bought 7.50 lakh tonnes, and the RBI had released a cash credit limit of ₹42,786.68 crore to fund purchases.
 
 Awareness is another limit. A NITI Aayog study cited by PRS found that only 10% of farmers knew the MSP before sowing, while 62% learned of it after sowing.
 
