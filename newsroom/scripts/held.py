@@ -21,10 +21,19 @@ def info(i):
     t = dt.datetime.fromisoformat(d['held_at'])
     d['held_at'] = (t if t.tzinfo else t.replace(tzinfo=IST)).isoformat()
     return d
+import hashlib
+def pic_print(i):
+    """Fingerprint of the story's current main picture file (ids get reused, files do not lie)."""
+    e = json.load(open('content/photos.map.json')).get(i) or {}
+    try: return hashlib.sha1(open('public' + e['src'], 'rb').read()).hexdigest()[:16]
+    except (KeyError, OSError): return None
 def fixed_picture(i, d):
     """A picture hold is fixed only by a DIFFERENT main picture than the one it was held with."""
-    e = json.load(open('content/photos.map.json')).get(i)
-    return bool(e) and e.get('id') != d.get('picture_at_hold')
+    now_ = pic_print(i)
+    if not now_: return False
+    if d.get('picture_print'): return now_ != d['picture_print']
+    e = json.load(open('content/photos.map.json')).get(i) or {}
+    return e.get('id') != d.get('picture_at_hold')
 cmd = sys.argv[1] if len(sys.argv) > 1 else 'list'
 if cmd == 'list':
     ids = sorted(os.path.basename(f)[:-3] for f in glob.glob(f'{H}/en/*.md'))
@@ -43,7 +52,7 @@ elif cmd == 'hold':
         for f in glob.glob(f'content/{lang}/*/{i}.md'):
             mv(f, f'{H}/{lang}/{i}.md'); n += 1
             open(f'{H}/{i}.type', 'w').write(f.split('/')[2])
-    json.dump({'why': why, 'kind': kind, 'held_at': now.isoformat(timespec='minutes'), 'picture_at_hold': pic.get('id')}, open(f'{H}/{i}.json', 'w'), ensure_ascii=False)
+    json.dump({'why': why, 'kind': kind, 'held_at': now.isoformat(timespec='minutes'), 'picture_at_hold': pic.get('id'), 'picture_print': pic_print(i)}, open(f'{H}/{i}.json', 'w'), ensure_ascii=False)
     home = open('content/homepage.json').read()
     if f'"{i}"' in home: print(f'  {i} is on the homepage: run refresh_home.py, then check_fresh.py (it fails on any id still pointing at it)')
     print(f'held {i} ({n} files): {why}')

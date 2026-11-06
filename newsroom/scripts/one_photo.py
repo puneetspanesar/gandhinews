@@ -1,6 +1,8 @@
 """One new main picture for one story, start to finish: candidate -> download (GitHub workflow) -> files -> photos.json + map.
 
   python3 newsroom/scripts/one_photo.py <story-id> <candidates-dir> <query-key> <n> "<English alt>" "<Hindi alt>"
+  python3 newsroom/scripts/one_photo.py <story-id> --person "<name>"     from the people library (checked portraits;
+                                                                          the first one not used in the last 7 days)
 
 <candidates-dir> is what `photos_gh.py find` printed (it holds photo-candidates/candidates.json); <query-key> and <n>
 pick the candidate you LOOKED AT. Alt text names what is in the picture; add "(file photo)" / "(फ़ाइल फ़ोटो)" when it is
@@ -13,12 +15,20 @@ from gnrules import clean_credit
 from PIL import Image
 GN_ROOT = os.environ.get('GN_ROOT') or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + '/'
 W = os.environ.get('GN_WORK') or '/home/claude/gn-work/'
-sid, cdir, key, n, alt, alt_hi = sys.argv[1], sys.argv[2].rstrip('/'), sys.argv[3], int(sys.argv[4]), sys.argv[5], sys.argv[6]
-C = json.load(open(f'{cdir}/photo-candidates/candidates.json'))
-c = next(x for x in C[key]['candidates'] if x['n'] == n)
-lic = str(c.get('licence') or '')
-if re.search(r'\b(nc|nd)\b', lic.lower().replace('godl-india', '')): sys.exit(f'licence {lic} is not allowed')
-if (c.get('width') or 0) < 900: sys.exit(f'{c.get("width")} px wide: too small for a main picture')
+LIBRARY = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'library', 'people.json')
+sid = sys.argv[1]
+if sys.argv[2] == '--person':
+    # the people library: checked portraits of the people most in the news; seconds instead of a search
+    who = sys.argv[3].strip().lower()
+    LIB = json.load(open(LIBRARY))
+    key = next((k for k, v in LIB.items() if who in (k, v['en'].lower()) or who in [x.lower() for x in v.get('aliases', [])]), None)
+    if not key: sys.exit(f'{sys.argv[3]} is not in the people library (newsroom/library/people.json): use the finder')
+    person = LIB[key]
+    cands = person['photos']; alt = f"{person['en']} (file photo)"; alt_hi = f"{person['hi']} (फ़ाइल फ़ोटो)"
+else:
+    cdir, key, n, alt, alt_hi = sys.argv[2].rstrip('/'), sys.argv[3], int(sys.argv[4]), sys.argv[5], sys.argv[6]
+    C = json.load(open(f'{cdir}/photo-candidates/candidates.json'))
+    cands = [next(x for x in C[key]['candidates'] if x['n'] == n)]
 os.chdir(GN_ROOT)
 import fcntl
 _lk = open('content/.photos.lock', 'w'); fcntl.flock(_lk, fcntl.LOCK_EX)  # never two writers of photos.json at once
@@ -32,12 +42,23 @@ for f in glob.glob('content/en/*/*.md'):
     if m:
         try: pub[os.path.basename(f)[:-3]] = dt.datetime.fromisoformat(m.group(1))
         except ValueError: pass
-for p in P:
-    if fileof(p.get('sourceUrl')) == fileof(c['url']):
-        s = re.sub(r'--(p\d+|bg|in|c)$', '', str(p.get('articleId', '')).replace('part:', '').split(':')[0])
-        if s in pub and (now - pub[s]).days < 7: sys.exit(f'this photo was used by {s} on {pub[s]:%B %d}: the 7-day rule')
 BL = {l.strip().lower() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) if l.strip() and not l.startswith('#')}
-if fileof(c['url']) in BL or fileof(c['url']).replace(' ', '_') in BL: sys.exit(f'{fileof(c["url"])} is on the blocklist (a wrong person or place before)')
+def why_not(c):
+    lic = str(c.get('licence') or '')
+    if re.search(r'\b(nc|nd)\b', lic.lower().replace('godl-india', '')): return f'licence {lic} is not allowed'
+    minw = 560 if 'crop' in c and not c.get('crop') else 900   # a checked library headshot reads well from 560 px
+    if c.get('crop'): minw = 900 / c['crop'][2]                   # a crop must itself be 900 px wide
+    if (c.get('width') or 0) < minw: return f'{c.get("width")} px wide: too small for a main picture'
+    if fileof(c['url']) in BL or fileof(c['url']).replace(' ', '_') in BL: return f'{fileof(c["url"])} is on the blocklist'
+    for p in P:
+        if fileof(p.get('sourceUrl')) == fileof(c['url']):
+            s_ = re.sub(r'--(p\d+|bg|in|c)$', '', str(p.get('articleId', '')).replace('part:', '').split(':')[0])
+            if s_ in pub and s_ != sid and (now - pub[s_]).days < 7: return f'used by {s_} on {pub[s_]:%B %d} (the 7-day rule)'
+    return None
+reasons = [(c, why_not(c)) for c in cands]
+c = next((c for c, r in reasons if not r), None)
+if not c: sys.exit('no usable photo: ' + '; '.join(r for _, r in reasons))
+lic = str(c.get('licence') or '')
 pid = f'o-{sid}'[:90]  # o- = one_photo; x-, v-, c-, i-, r- belong to other tools
 credit = clean_credit(c.get('author') or '') or 'Wikimedia Commons contributor'
 # the story's old main picture entries go, so check:photos does not count a picture the story no longer shows
@@ -51,6 +72,19 @@ print(r.stdout.strip(), r.stderr.strip())
 raw = f'{W}raw-{tag}/{pid}.jpg'
 if not os.path.exists(raw): sys.exit('download failed; photos.json entry left in place, run again')
 im = Image.open(raw).convert('RGB')
+if c.get('crop'):   # library portraits from big official photos: the crop around the face, worked out when the library was built
+    X, Y, w_, h_ = c['crop']; im = im.crop((int(X * im.width), int(Y * im.height), int((X + w_) * im.width), int((Y + h_) * im.height)))
+if im.height > im.width * 0.8:
+    # A tall portrait goes into wide slots: crop it to 3:2 around the face, never the chest
+    ch = int(im.width * 2 / 3); top = int(im.height * 0.06)
+    try:
+        import cv2, numpy as np
+        g = cv2.cvtColor(np.array(im), cv2.COLOR_RGB2GRAY)
+        f = sorted(cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml').detectMultiScale(g, 1.1, 6, minSize=(40, 40)), key=lambda r: -r[2])
+        if len(f): top = int(f[0][1] + f[0][3] / 2 - 0.45 * ch)
+    except Exception:
+        pass
+    top = max(0, min(top, im.height - ch)); im = im.crop((0, top, im.width, top + ch))
 for w, sfx in ((1280, '1280'), (640, '640')):
     x = im.copy(); x.thumbnail((w, w * 2)); x.save(f'public/photos/{pid}-{sfx}.jpg', quality=82, optimize=True, progressive=True)
 h = round(im.height * 1280 / im.width)

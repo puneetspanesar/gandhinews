@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "id": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "Cyclone-hit mandals vote, 7 booths repoll",
-        "hi": "चक्रवात वाले मंडलों में वोट, 7 बूथों पर दोबारा"
+        "en": "The 1980 voter list case, back in court",
+        "hi": "1980 की मतदाता सूची का मामला फिर अदालत में"
       },
       "text": {
         "en": "",
@@ -16,26 +16,45 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
+      "lic-q2-profit-12115-crore-up-20-per-cent",
+      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
       "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "modi-meets-asian-para-games-medallists-delhi",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "24-hour-rule-explained-article-22-detention-arrest"
+      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+      "modi-meets-asian-para-games-medallists-delhi"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "lic-q2-profit-12115-crore-up-20-per-cent",
+        "lead": {
+          "en": "Results:",
+          "hi": "नतीजे:"
+        },
+        "text": {
+          "en": "LIC's September-quarter profit rises 20% to ₹12,115 crore as premiums grow 16%",
+          "hi": "एलआईसी का सितंबर तिमाही मुनाफा 20% बढ़कर 12,115 करोड़ रुपये, प्रीमियम आय 16% बढ़ी"
+        }
+      },
+      {
+        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "lead": {
+          "en": "Rajya Sabha:",
+          "hi": "राज्यसभा:"
+        },
+        "text": {
+          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
+          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+        }
+      },
       {
         "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
         "lead": {
@@ -48,14 +67,14 @@
         }
       },
       {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "link": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+          "en": "Andhra parishad polling ends; officials estimate 65% to 68% turnout, counting on November 7",
+          "hi": "आंध्र परिषद चुनाव का मतदान खत्म, 65% से 68% मतदान का अनुमान; गिनती 7 नवंबर को"
         }
       },
       {
@@ -70,50 +89,6 @@
         }
       },
       {
-        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
-          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
-        }
-      },
-      {
-        "link": "24-hour-rule-explained-article-22-detention-arrest",
-        "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
-        },
-        "text": {
-          "en": "The 24-hour rule explained: why the Supreme Court says the clock starts at detention",
-          "hi": "24 घंटे का नियम: सुप्रीम कोर्ट क्यों कहता है कि घड़ी हिरासत से चलती है"
-        }
-      },
-      {
-        "link": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Five more years for fast-track courts is welcome. Without judges and forensic labs they will not be fast",
-          "hi": "फास्ट ट्रैक अदालतों को पांच साल और मिलना स्वागतयोग्य है। पर जज और फॉरेंसिक लैब के बिना वे तेज़ नहीं होंगी"
-        }
-      },
-      {
-        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
-        },
-        "text": {
-          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
-          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
-        }
-      },
-      {
         "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
         "lead": {
           "en": "Shooting:",
@@ -122,6 +97,28 @@
         "text": {
           "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
           "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
+        }
+      },
+      {
+        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
+          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
+        }
+      },
+      {
+        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
+          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
         }
       }
     ]
@@ -189,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "id": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
       "also": []
     },
     "list": [
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
       "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-      "joshi-renewable-investment-220-billion-500-gw-2030",
-      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
     ],
     "also": [
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri"
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "24-hour-rule-explained-article-22-detention-arrest"
     ]
   },
   "startHere": [
@@ -378,8 +375,8 @@
       },
       "list": [
         "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
       ],
       "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
     },
@@ -599,19 +596,17 @@
       ]
     },
     {
-      "at": "2026-11-06T10:40:22+05:30",
+      "at": "2026-11-06T11:11:52+05:30",
       "ids": [
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "lic-q2-profit-12115-crore-up-20-per-cent",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
         "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
         "modi-meets-asian-para-games-medallists-delhi",
-        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-        "24-hour-rule-explained-article-22-detention-arrest",
-        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-        "fast-track-special-courts-explained-rape-pocso-backlog",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol"
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
       ]
     }
   ],

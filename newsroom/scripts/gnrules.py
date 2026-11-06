@@ -84,3 +84,21 @@ def prev_hour_homepage(now, root='.', minutes=40):
             try: return t, _json.loads(sp.run(['git', '-C', root, 'show', f'{sha}:content/homepage.json'], capture_output=True, text=True).stdout)
             except ValueError: return None, None
     return None, None
+def recent_homepages(now, hours=6, root='.', min_age_minutes=40):
+    """[(time, homepage dict)] for main's homepage.json commits from the last `hours` hours that are at least
+    `min_age_minutes` old (newest first), from git, so checks never depend on what a run wrote."""
+    import subprocess as sp
+    out = []
+    log = sp.run(['git', '-C', root, 'log', f'--since={hours} hours ago', '--format=%H %ct', 'origin/main', '--', 'content/homepage.json'], capture_output=True, text=True).stdout.split('\n')
+    for l in log:
+        if not l.strip(): continue
+        sha, ct = l.split()
+        t = _dt.datetime.fromtimestamp(int(ct), now.tzinfo)
+        if (now - t).total_seconds() < min_age_minutes * 60: continue
+        try: out.append((t, _json.loads(sp.run(['git', '-C', root, 'show', f'{sha}:content/homepage.json'], capture_output=True, text=True).stdout)))
+        except ValueError: pass
+    return out
+def core_ids(h):
+    """The core headlines: the lead and the stories beside it. These never repeat within 6 hours."""
+    L = h.get('lead') or {}
+    return [i for i in [L.get('id')] + list(L.get('relatedBeside') or []) if i]
