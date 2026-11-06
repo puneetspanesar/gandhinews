@@ -60,8 +60,5 @@ Earlier in the round Taylor Fritz knocked out the French favourite Arthur Fils. 
 
 Van Assche's opponent on Saturday is the third seed **Ben Shelton**, who beat fellow American Tommy Paul 6-4, 4-6, 6-3 earlier on Friday to reach his first Paris semi-final.
 
-```photo
-{"n":1,"subject":"Ben Shelton","caption":"Third seed Ben Shelton, who beat Tommy Paul on Friday, is Van Assche's semi-final opponent.","alt":"American tennis player Ben Shelton (file photo)"}
-```
 
 The other semi-final was not yet set when Van Assche finished. Carlos Alcaraz was still to play Fritz, and Nuno Borges was still to play Casper Ruud, in the remaining quarter-finals on Friday night.

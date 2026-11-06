@@ -66,9 +66,6 @@ Maaya made the better start, breaking Montgomery in the fifth game of the first 
 
 Montgomery, a left-hander and a former top-100 player, is ranked 151st. She now plays the top seed and defending champion **Janice Tjen** of Indonesia in the semi-finals. Tjen came from a set down to beat sixth seed Polina Kudermetova in her quarter-final.
 
-```photo
-{"n":1,"subject":"Janice Tjen","caption":"Indonesia's Janice Tjen, the top seed and defending champion, waits for Montgomery in the semi-finals.","alt":"Indonesian tennis player Janice Tjen (file photo)"}
-```
 
 ## Indian hopes that remain
 
