@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Global markets"
 topics: []
-title: "Nikkei crashes 6%, Kospi halted below 5,000 as AI chip rout hits Asia"
+title: "Nikkei crashes 6%, Kospi down 7% near 5,000 after a trading halt"
 standfirst: "Tokyo and Seoul took the full force of Wall Street's worst day since April 2025 on Friday morning, and GIFT Nifty pointed to a weaker start for Dalal Street after six days of gains."
 published: 2026-11-06T08:14:30+05:30
 location: Mumbai
@@ -19,20 +19,20 @@ hero:
   subjects: ["Tokyo Stock Exchange"]
   alt: "The Tokyo Stock Exchange (file photo)"
   overlay:
-    value: "Nikkei down 6%, Kospi halted"
+    value: "Nikkei down 6%, Kospi down 7%"
 infographic:
   kicker: "Asia on Friday morning, November 6"
   headline: "Tokyo and Seoul crash after Wall Street rout"
-  dek: "Chipmakers lead the fall as Kospi slips below 5,000 for the first time in 10 months"
+  dek: "Kospi down about 7% near 5,000 after an 8.55% plunge halted trading"
   motif: chart-line-down
   stats:
     - {icon: trend-down, value: "-6.2%", label: "Nikkei 225 in morning trade, at 57,271.19"}
-    - {icon: trend-down, value: "-8.55%", label: "Kospi when Seoul halted trading, at 4,923.47"}
+    - {icon: trend-down, value: "-7.1%", label: "Kospi later in the morning, at 5,000.25"}
     - {icon: trend-down, value: "-10.28%", label: "SK hynix at 10:30 am in Seoul"}
   source: "Market data, November 6, 2026"
 related: [wall-street-close-dow-1833-nasdaq-correction-chip-rout, gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5, sensex-nifty-close-november-5-rally, fii-buy-14975-crore-november-5-dii-sell-10445, us-midterms-democrats-win-senate-talarico-brown-flip]
 seo:
-  description: "Asian markets on November 6, 2026: Nikkei falls 6.2% to 57,271, Kospi trips a circuit breaker and drops below 5,000, Samsung and SK hynix slump; GIFT Nifty signals a weak open."
+  description: "Asian markets on November 6, 2026: Nikkei falls 6.2% to 57,271, Kospi trips a circuit breaker and trades down about 7% near 5,000, Samsung and SK hynix slump; GIFT Nifty signals a weak open."
 sources:
   - title: "Japan's Nikkei falls more than 6% as Asian benchmarks tumble after Wall Street drop (AP)"
     publisher: "KPRC Click2Houston"
@@ -88,13 +88,10 @@ Indian shares now face a test after six straight days of gains. GIFT Nifty futur
 
 The Kospi opened 2.24% lower at 5,263.26 and kept falling. At 9:03 am in Seoul, 5:33 am IST, it was down 460.33 points, or 8.55%, at 4,923.47, and the Korea Exchange **triggered a circuit breaker that stopped trading for 20 minutes**. The rule kicks in when the benchmark stays more than 8% below the previous close for a full minute.
 
-The index slipped **below 5,000 for the first time in 10 months**. It had already lost 5.28% on Thursday, when a softer circuit breaker suspended programme selling.
+The index slipped **below 5,000 for the first time in 10 months** before trading resumed, and later in the morning it was **down about 7.1% at 5,000.25**. It had already lost 5.28% on Thursday, when a softer circuit breaker suspended programme selling.
 
 Memory chipmakers, which have ridden the AI boom, took the worst of it. By 10:30 am in Seoul, Samsung Electronics was down 7.99% and **SK hynix had lost 10.28%**. When the halt began, the two had been down nearly 10% and nearly 12%.
 
-```photo
-{"n":1,"subject":"SK Hynix","caption":"SK hynix, the South Korean memory chipmaker, whose shares fell more than 10% on Friday morning as the AI sell-off spread to Seoul.","alt":"SK hynix building in South Korea (file photo)"}
-```
 
 ## Tokyo's worst morning
 

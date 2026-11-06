@@ -29001,5 +29001,71 @@
   "alt": "Manu Bhaker with her two Paris 2024 Olympic bronze medals (file photo)",
   "alt_hi": "पेरिस 2024 ओलंपिक के अपने दो कांस्य पदकों के साथ मनु भाकर (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Paris_Olympics_double_bronze_medalist_Manu_Bhaker_with_PM_Modi_in_August_2024.jpg"
+ },
+ "india-new-zealand-second-odi-wellington-rain-forecast-preview": {
+  "id": "o-india-new-zealand-second-odi-wellington-rain-forecast-preview",
+  "src": "/photos/o-india-new-zealand-second-odi-wellington-rain-forecast-preview-1280.jpg",
+  "src800": "/photos/o-india-new-zealand-second-odi-wellington-rain-forecast-preview-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Phillip Capper / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Wellington Regional Stadium beside the harbour, venue of the second ODI (file photo)",
+  "alt_hi": "बंदरगाह के पास वेलिंगटन रीजनल स्टेडियम, दूसरे वनडे का मैदान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Wellington_Westpac_Stadium,_23_April_2005.jpg"
+ },
+ "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent": {
+  "id": "o-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+  "src": "/photos/o-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent-1280.jpg",
+  "src800": "/photos/o-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent-640.jpg",
+  "width": 1280,
+  "height": 865,
+  "credit": "Photo: Election Commission of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Women voters show their identity slips at a polling booth in Mylavaram, Vijayawada, Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश के विजयवाड़ा के मायलावरम में एक मतदान केंद्र पर पहचान पर्चियां दिखाती महिला मतदाता (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Muslim_women_voters_showing_their_voters_identity_card_at_a_polling_booth_at_Mylavaram,_in_Vijayawada,_Andhra_Pradesh,_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
+ },
+ "nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower": {
+  "id": "i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower",
+  "src": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-3x2-1280.jpg",
+  "src800": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Tokyo and Seoul crash after Wall Street rout",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वॉल स्ट्रीट के बाद टोक्यो और सोल धड़ाम",
+  "page": null,
+  "ihash": "4c4779e12b5d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-t-1280.jpg",
+    "src800": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-hi-t-1280.jpg",
+    "src800": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-1280.jpg",
+    "src800": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-hi-1280.jpg",
+    "src800": "/photos/i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-hi-640.jpg"
+   }
+  }
  }
 }

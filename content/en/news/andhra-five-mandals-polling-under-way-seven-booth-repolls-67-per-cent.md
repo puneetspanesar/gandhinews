@@ -86,9 +86,6 @@ The commission ordered the repolls after **polling was cancelled at booths in fi
 
 The other repolls are at station 2 in Arlabanda in Kosigi mandal of Kurnool, a ZPTC booth where the commission acted after an inquiry into rigging complaints, and at station 2 in Ponnam in Srikakulam mandal, where **ink stains were found on ballot papers**. Fresh voting is also under way at station 5 in Gangavaram in Pullalacheruvu mandal of Markapuram district, where a ballot box was seized, and at station 43 in Andukuru in Krosuru mandal of Palnadu.
 
-```photo
-{"n":1,"subject":"Godavari floods Polavaram","caption":"Flooding in the Godavari belt around Polavaram, where Cyclone Murasu pushed the parishad vote back by a day (file photo).","alt":"Floodwater in the Polavaram area of Andhra Pradesh (file photo)"}
-```
 
 ## Thursday's turnout
 

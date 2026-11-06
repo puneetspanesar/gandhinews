@@ -33,7 +33,7 @@ infographic:
   source: "Match schedule and forecast, November 5, 2026"
 related: [india-beat-new-zealand-five-wickets-dls-eden-park-first-odi, siraj-to-join-india-odi-squad-wellington-missed-auckland, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
-  description: "New Zealand v India second ODI in Wellington on November 7, 2026 starts at 7:30 am IST. India lead the series 1-0 and the forecast gives about a 75% chance of rain."
+  description: "New Zealand v India second ODI in Wellington on November 7, 2026, starts at 7:30 am IST. India lead the series 1-0 and the forecast gives about a 75% chance of rain."
 sources:
   - title: "When and where will NZ vs IND 2nd ODI take place?"
     publisher: "Khel Now"
@@ -75,9 +75,6 @@ Rain had already shaped the opener. At Eden Park on Wednesday, India bowled New 
 
 Shubman Gill leads India for the first three games before Shreyas Iyer takes over for the last two, with Mitchell Santner in charge of New Zealand throughout. Virat Kohli and Rohit Sharma are back in the one-day side after the T20 series, which India won 3-2.
 
-```photo
-{"n":1,"subject":"Mohammed Siraj","caption":"Mohammed Siraj, who missed the Auckland opener while playing for India A, was expected to join the one-day squad in Wellington.","alt":"Mohammed Siraj"}
-```
 
 ## Siraj back in the frame
 

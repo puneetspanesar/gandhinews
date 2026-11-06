@@ -1,0 +1,26 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-06T08:04:11+05:30",
+ "end": "2026-11-06T08:39:24+05:30",
+ "summary": "Andhra five-mandal vote and seven repolls lead; Lella Appi Reddy, ODI preview and Nikkei held for pictures",
+ "new": [
+  "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+ ],
+ "held": [
+  "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+  "nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower",
+  "ysrcp-mlc-lella-appireddy-arrested-guntur-ballot-box"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower",
+   "kind": "picture",
+   "why": "The main picture and both covers are infographics, but the story has a known place to show: the Tokyo Stock Exchange, which the story's own hero.need asks for. Together with the Cricket and Andhra infographics this pushes the homepage top over the one-third infographic limit. The figures on it (Nikkei -6.2% 'in morning trade', Kospi -7.1% 'later in the morning') date from about 7 am IST. Tokyo's morning session closed at 8 am IST, so they are already stale.",
+   "fix": "Use a photo of the Tokyo Stock Exchange or a Tokyo electronic share board showing the Nikkei fall (quick_photo.py 'Tokyo Stock Exchange' or 'Nikkei stock board'), labelled as a file photo if not taken today. Keep the infographic only as an in-story graphic. Update the headline, text and graphic in English and Hindi to the Nikkei's morning-session close and the latest Kospi level, and to the Indian open if it is past 9:15 am."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+}
