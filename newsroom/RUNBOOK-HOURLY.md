@@ -1,8 +1,10 @@
-# Hourly run (every hour from 6 am to midnight IST, plus 12:03 am)
+# Writing run (every 2 hours: 6, 8, 10 am, noon, 2, 4, 6, 8, 10 pm and 12:03 am IST; the run name stays hourly-HH)
+
+In the hours between, the GitHub job .github/workflows/home-rotate.yml rotates the homepage at :50 without AI (refresh_home.py and check_fresh.py), so every headline still changes every hour. Markets figures are updated by these runs, so every 2 hours.
 
 Read newsroom/RUNBOOK.md first: its rules (A), setup (B), pictures (C), gate (D) and publish (E) are part of this runbook. This file only adds what is particular to the hourly run.
 
-Each run publishes 5 or 6 new news stories (at least 4; the homepage changes every headline every hour, so it needs a steady supply), refreshes the homepage and keeps the markets band current. No explainers or editorials: the long-form runs write those.
+Each run publishes 8 new news stories (at least 5; the homepage changes every headline every hour, so it needs a steady supply), refreshes the homepage and keeps the markets band current. No explainers or editorials: the long-form runs write those.
 
 ## Time budget (minutes from the start time setup.sh printed)
 - 0 to 6: setup (a fresh container installs for 2 to 3 minutes), held stories, front-page check.
@@ -16,12 +18,12 @@ Each run publishes 5 or 6 new news stories (at least 4; the homepage changes eve
 Read newsroom/editor-notes.md (the owner's current priorities); its items are BIG STORIES. Then two WebSearch calls (mode extended) for India's top news of the last few hours, and WebFetch of newsonair.gov.in and one or two front pages that allow it. A story leading two or more of them is a BIG STORY. Write the BIG STORIES, ours or missing, to /home/claude/gn-work/frontpages.txt, one per line. Missing BIG STORIES are written first this run, even if they broke up to 24 hours ago; BIG STORIES we have but whose latest development is missing get a development story. Delete an editor-notes item once it is published.
 
 ## 2. Desks (four agents in ONE message, in parallel; each finds its own pictures)
-Write /home/claude/gn-work/window.txt with: the date and time now (`date`); the window (the last 2 hours; the 6 am run covers from midnight); the BIG STORIES; and these limits, which override every brief: "HOURLY run. News only: briefs 220 to 380 words, leads 400 to 650. Your desk writes the number of stories in its DESK line, and at least one of them must be able to lead: a fresh India story with a real photo, not markets. In-story photo blocks: at most 1 per brief, 2 per lead, each a different person or place; no cover blocks. At most 6 WebSearch calls." Each desk prompt starts `Read /home/claude/gn-work/run-brief.md and follow it. DESK = <desk>.`:
+Write /home/claude/gn-work/window.txt with: the date and time now (`date`); the window (the last 2 hours; the 6 am run covers from midnight); the BIG STORIES; and these limits, which override every brief: "HOURLY run. News only: briefs 220 to 380 words, leads 400 to 650. Your desk writes the number of stories in its DESK line, and at least one of them must be able to lead: a fresh India story with a real photo, not markets. In-story photo blocks: at most 1 per brief, 2 per lead, each a different person or place; no cover blocks. At most 6 WebSearch calls." Spawn every desk with `model: "sonnet"` (the owner's usage decision, November 6; the editor agent stays on the default model). Each desk prompt starts `Read /home/claude/gn-work/run-brief.md and follow it. DESK = <desk>.`:
 1. national: politics, Parliament, the Union government, courts. 2 stories.
 2. states: state politics, governments, disasters, crime and civic news from the states. 2 stories.
 3. world-business: world news with India angles, economy, companies, RBI and SEBI. 2 stories. At most one markets story per run, and only when the market really moved (Sensex or Nifty over 0.5%, or a big single stock); monthly sales figures as one roundup a day.
 4. sport-science: cricket first, other sport, science, tech, space, health, climate. 2 stories.
-That is 8 stories an hour, at least 5; the homepage needs them, because every headline changes every hour and the top five never repeat within 6 hours.
+That is 8 stories a run, at least 5; the homepage needs them, because every headline changes every hour and the top five never repeat within 6 hours.
 PICTURES ARE THE DESK'S JOB, done before it hands back (run-brief.md "Main picture"): the people library first (`one_photo.py <id> --person "<name>"`, seconds), then quick_photo.py, then ONE finder call for whatever is left, then the infographic with `--nophoto` (never a hold for want of a photo). The run then only checks the pictures and does the finder for anything a desk could not place.
 An event older than the window is not news; only a real new development of it is (new id). Desks put the event time in `verification.notes`.
 When they finish: `python3 newsroom/scripts/audit.py --new --skip photos,home,site,style` checks only the files this run wrote; it must pass (fix the file, or delete that story in both languages), then `git add content public/photos && git commit -q -m "desk HH"` locally. Never push here.
