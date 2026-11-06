@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+    "id": "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
     "overlay": {
       "kicker": {
-        "en": "Politics / Jammu and Kashmir",
-        "hi": "राजनीति / जम्मू-कश्मीर"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "'Their problems were genuine'",
-        "hi": "'उनकी समस्याएं जायज़ थीं'"
+        "en": "No relief for Tejpal in Supreme Court",
+        "hi": "सुप्रीम कोर्ट से तेजपाल को राहत नहीं"
       },
       "text": {
         "en": "",
@@ -16,112 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-      "andhra-local-polls-must-start-with-free-nominations"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "india-u19-beat-nepal-asia-cup-al-amerat",
-      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-      "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza"
+      "sonia-gandhi-voter-list-case-additional-documents-november-18",
+      "hindalco-q2-profit-59-per-cent-7533-crore-record",
+      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
     ],
     "live": {
       "title": {
-        "en": "Jammu and Kashmir",
-        "hi": "जम्मू-कश्मीर"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
-        },
-        "text": {
-          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
-          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
-        }
-      },
-      {
-        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
-          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
-        }
-      },
-      {
-        "link": "india-u19-beat-nepal-asia-cup-al-amerat",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Sehwag and Raichandani fifties carry India to 10-wicket win over Nepal in U19 Asia Cup",
-          "hi": "अंडर-19 एशिया कप: सहवाग और रायचंदानी के अर्धशतक, भारत ने नेपाल को 10 विकेट से रौंदा"
-        }
-      },
-      {
-        "link": "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Tanvi Patri, 15, wins India's first Youth Olympics medal in women's badminton",
-          "hi": "15 साल की तन्वी पात्री ने यूथ ओलंपिक में रजत जीतकर रचा इतिहास"
-        }
-      },
-      {
-        "link": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Night fire in Karol Bagh's Gaffar Market damages up to 45 shops; no one hurt",
-          "hi": "करोल बाग के गफ्फार मार्केट में रात को लगी आग, 45 तक दुकानें प्रभावित; कोई हताहत नहीं"
-        }
-      },
-      {
-        "link": "amit-shah-dehradun-rally-speech-1475-crore-projects",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Amit Shah says BJP will win Uttarakhand again as he unveils ₹1,475 crore projects in Dehradun",
-          "hi": "अमित शाह बोले, उत्तराखंड में फिर बनेगी भाजपा सरकार; देहरादून में ₹1,475 करोड़ की योजनाएं दीं"
-        }
-      },
-      {
-        "link": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring letter",
-          "hi": "दिल्ली के 47 लाख कटे मतदाताओं को तसल्ली की चिट्ठी नहीं, एक साफ फॉर्म चाहिए"
-        }
-      },
-      {
-        "link": "two-child-norm-explained-javed-ruling-larger-bench",
+        "link": "sonia-gandhi-voter-list-case-additional-documents-november-18",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Two-child norm explained: what Javed held in 2003 and why the Supreme Court wants it looked at again",
-          "hi": "दो-बच्चा नियम क्या है, 2003 के जावेद फैसले में क्या कहा गया था और सुप्रीम कोर्ट अब उस पर दोबारा विचार क्यों चाहता है"
+          "en": "Sonia Gandhi voter list case: court lets complainant file more documents, next hearing November 18",
+          "hi": "सोनिया गांधी मतदाता सूची मामला: शिकायतकर्ता को और दस्तावेज देने की छूट, अगली सुनवाई 18 नवंबर को"
+        }
+      },
+      {
+        "link": "hindalco-q2-profit-59-per-cent-7533-crore-record",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Hindalco posts record quarterly profit of ₹7,533 crore, up 59%, as copper and aluminium shine",
+          "hi": "हिंडाल्को का तिमाही मुनाफा रिकॉर्ड ₹7,533 करोड़, 59% की छलांग; तांबा और एल्युमिनियम चमके"
+        }
+      },
+      {
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
+        }
+      },
+      {
+        "link": "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "lead": {
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
+        },
+        "text": {
+          "en": "Haryana raises DA to 63% and releases ₹4,470 crore, including Lado Lakshmi's 13th instalment",
+          "hi": "हरियाणा में महंगाई भत्ता 63% हुआ, लाडो लक्ष्मी की 13वीं किस्त समेत ₹4,470 करोड़ जारी"
+        }
+      },
+      {
+        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
+          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Sensex soars 1,718 points to 81,028 and Nifty reclaims 25,000 in a Dhanteras rally",
+          "hi": "धनतेरस पर सेंसेक्स 1,718 अंक उछलकर 81,028 पर, निफ्टी फिर 25,000 के पार"
+        }
+      },
+      {
+        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
+          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
+        }
+      },
+      {
+        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "lead": {
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
+        },
+        "text": {
+          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
+          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
         }
       }
     ]
@@ -189,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "amit-shah-dehradun-rally-speech-1475-crore-projects",
+      "id": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
       "also": []
     },
     "list": [
-      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-      "two-child-norm-explained-javed-ruling-larger-bench",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-      "titan-q2-standalone-profit-doubles-2393-crore"
+      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+      "jharkhand-khunti-trailer-crowd-seven-killed"
     ],
     "also": [
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
     ]
   },
   "startHere": [
@@ -377,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "amit-shah-dehradun-rally-speech-1475-crore-projects",
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
       ],
-      "lead": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation"
+      "lead": "sonia-gandhi-voter-list-case-additional-documents-november-18"
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+      "lead": "hindalco-q2-profit-59-per-cent-7533-crore-record",
       "module": {
         "type": "markets",
         "indicators": [
@@ -396,19 +393,19 @@
         ]
       },
       "list": [
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
       "section": "states",
-      "lead": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+      "lead": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
       "list": [
-        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-        "jharkhand-khunti-trailer-crowd-seven-killed",
-        "andhra-parishad-polls-four-voters-two-poll-staff-die"
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza"
       ]
     },
     {
@@ -541,20 +538,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-06T06:38:16+05:30",
-      "ids": [
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-        "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-        "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
-      ]
-    },
-    {
       "at": "2026-11-06T08:36:48+05:30",
       "ids": [
         "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
@@ -657,6 +640,20 @@
         "amit-shah-dehradun-rally-speech-1475-crore-projects",
         "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
         "two-child-norm-explained-javed-ruling-larger-bench"
+      ]
+    },
+    {
+      "at": "2026-11-06T16:19:36+05:30",
+      "ids": [
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "hindalco-q2-profit-59-per-cent-7533-crore-record",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
       ]
     }
   ],

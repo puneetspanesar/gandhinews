@@ -282,11 +282,11 @@
    "name_hi": "ब्रेंट क्रूड",
    "unit": "$/barrel",
    "unit_hi": "$/बैरल",
-   "value": 99.41,
-   "change": 5.95,
-   "pct": 6.37,
+   "value": 96.99,
+   "change": 3.53,
+   "pct": 3.78,
    "decimals": 2,
-   "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-6-november-gift-nifty-signals-weak-opening-amid-global-market-pressure-12787789"
+   "source": "https://www.tribuneindia.com (ANI market close report, 3:52 pm IST)"
   },
   {
    "id": "gold",
@@ -372,6 +372,7 @@
   "hourly-11: Sensex, Nifty at 11:00 am (Business Standard live blog); MCX gold and silver at about 10:45 am (Business Today). Nifty Bank, Midcap, VIX, rupee, Brent, yield, movers, sectors keep earlier values (no dated source read this run).",
   "Nov 6 12:00 IST (hourly-12): Sensex, Nifty 50 at 12 pm and rupee 94.066 at 12:10 pm from the Business Standard live blog; Nifty Bank, Midcap, VIX, Brent, gold, silver, yield, movers and sectors keep earlier values (no dated figure read).",
   "15:00 run: no dated figure after the 2 pm levels read (live blog fetch refused); values unchanged.",
-  "6 Nov 16:20 IST (hourly 16:00): Sensex and Nifty 50 closing values from ANI via The Tribune (3:52 pm IST), confirmed by Free Press Journal; appended to history. Nifty Bank, other indices, rupee, rates, movers, sectors and Nov 6 FII/DII flows not found in a dated source this run; earlier values kept."
+  "6 Nov 16:20 IST (hourly 16:00): Sensex and Nifty 50 closing values from ANI via The Tribune (3:52 pm IST), confirmed by Free Press Journal; appended to history. Nifty Bank, other indices, rupee, rates, movers, sectors and Nov 6 FII/DII flows not found in a dated source this run; earlier values kept.",
+  "6 Nov 16:32 IST: Brent 96.99 from ANI at the Indian close (was 99.41 pre-open); change taken against the previous close implied by the pre-open entry (93.46)."
  ]
 }

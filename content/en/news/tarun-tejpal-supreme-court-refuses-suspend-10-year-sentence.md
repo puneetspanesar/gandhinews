@@ -68,7 +68,7 @@ The Supreme Court on Friday **refused to suspend the 10-year prison sentence** o
 
 A bench of Justices **M M Sundresh and Prasanna B Varale** heard senior advocate Kapil Sibal for Tejpal and Solicitor General Tushar Mehta for the Goa government before saying it was "not inclined to suspend the sentence". The order means the High Court's punishment stays in force while his appeal against the conviction is pending.
 
-Tejpal, 62, was **acquitted by a Goa trial court in 2021**. The Bombay High Court's bench at Goa overturned that verdict on August 6, found him guilty and sentenced him to 10 years of rigorous imprisonment. He moved the Supreme Court against the ruling on August 20, and has said he is the victim of a political vendetta.
+Tejpal was **acquitted by a Goa trial court in 2021**. The Bombay High Court's bench at Goa overturned that verdict on August 6, found him guilty and sentenced him to 10 years of rigorous imprisonment. He moved the Supreme Court against the ruling on August 20, and has said he is the victim of a political vendetta.
 
 ## What the two sides argued
 
