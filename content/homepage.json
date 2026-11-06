@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
       "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro"
+      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
     ],
     "live": {
       "title": {
@@ -33,17 +33,6 @@
   },
   "briefing": {
     "items": [
-      {
-        "link": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "IRB Infrastructure Q2 profit nearly doubles to ₹260 crore",
-          "hi": "आईआरबी इन्फ्रास्ट्रक्चर का दूसरी तिमाही में मुनाफा लगभग दोगुना होकर ₹260 करोड़"
-        }
-      },
       {
         "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
         "lead": {
@@ -56,28 +45,6 @@
         }
       },
       {
-        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
-        },
-        "text": {
-          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
-          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
-        }
-      },
-      {
-        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
-          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
-        }
-      },
-      {
         "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
         "lead": {
           "en": "Energy:",
@@ -86,6 +53,17 @@
         "text": {
           "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
           "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
+        }
+      },
+      {
+        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
+          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
         }
       },
       {
@@ -119,6 +97,28 @@
         "text": {
           "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
           "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
+        }
+      },
+      {
+        "link": "hosur-factory-concrete-structure-collapse-three-workers-killed",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Three workers killed as concrete structure collapses at Hosur factory site",
+          "hi": "होसुर में फैक्टरी निर्माण स्थल पर कंक्रीट ढांचा गिरा, तीन मजदूरों की मौत"
+        }
+      },
+      {
+        "link": "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Bombay High Court cancels Sachin Waze's bail in Antilia bomb scare case",
+          "hi": "एंटीलिया बम कांड: बॉम्बे हाईकोर्ट ने सचिन वाझे की ज़मानत रद्द की"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+      "id": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
       "also": []
     },
     "list": [
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
       "hosur-factory-concrete-structure-collapse-three-workers-killed",
       "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
-      "titan-q2-standalone-profit-doubles-2393-crore"
+      "titan-q2-standalone-profit-doubles-2393-crore",
+      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7"
     ],
     "also": [
-      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+      "ugc-equity-regulations-explained-caste-discrimination-campuses"
     ]
   },
   "startHere": [
@@ -625,17 +625,17 @@
       ]
     },
     {
-      "at": "2026-11-06T13:09:55+05:30",
+      "at": "2026-11-06T13:19:52+05:30",
       "ids": [
         "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
         "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-        "fast-track-special-courts-explained-rape-pocso-backlog",
-        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
         "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+        "hosur-factory-concrete-structure-collapse-three-workers-killed",
+        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
       ]
     }
   ],

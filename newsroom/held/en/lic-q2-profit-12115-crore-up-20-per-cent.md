@@ -7,7 +7,7 @@ format_label: "Economy / Results"
 topics: []
 title: "LIC's September-quarter profit rises 20% to ₹12,115 crore as premiums grow 16%"
 standfirst: "India's largest insurer also earned far more on the new policies it sold, with the value of new business up 61% and its margin up 7.5 percentage points."
-published: 2026-11-06T10:13:10+05:30
+published: 2026-11-06T13:05:08+05:30
 location: Mumbai
 keyPoints:
   - "LIC's consolidated net profit **rose 20% to ₹12,115 crore** in July-September."
@@ -17,7 +17,7 @@ hero:
   need: "Yogakshema, the Life Insurance Corporation of India headquarters at Nariman Point, Mumbai"
   suggested_source: "Yogakshema LIC building Mumbai"
   subjects: ["Yogakshema LIC building Mumbai"]
-  alt: "A Life Insurance Corporation of India branch office in Malbazar, West Bengal (file photo)"
+  alt: "Yogakshema, the LIC headquarters at Nariman Point, Mumbai (file photo)"
   overlay:
     value: "LIC profit up 20% at ₹12,115 crore"
 infographic:
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Results filed Thursday Nov 5, 2026; IANS report 6:20 pm IST. All figures from IANS: consolidated PAT ₹12,115 cr vs ₹10,098 cr; NPI ₹1.47 lakh cr vs ₹1.27 lakh cr (+16.2%); VNB +61% to ₹3,136 cr; VNB margin 22.9% vs 15.4% (+750 bps); gross NPA 1.16% vs 1.21% previous quarter; previous quarter PAT ₹13,492 cr (IANS labels it Q1 FY26, read as Apr-Jun 2026)."
+    - "Results filed Thursday Nov 5, 2026; IANS report 6:20 pm IST. All figures from IANS: consolidated PAT ₹12,115 cr vs ₹10,098 cr; NPI ₹1.47 lakh cr vs ₹1.27 lakh cr (+16.2%); VNB +61% to ₹3,136 cr; VNB margin 22.9% vs 15.4% (+750 bps); gross NPA 1.16% vs 1.21% previous quarter; previous-quarter comparison dropped by the stall check: IANS labels ₹13,492 cr as Q1 FY26 and it could not be confirmed."
     - "Year-ago ₹10,098 crore consolidated matches 2025 reporting of LIC Q2 FY26. Indian Opinion headline suggests a ₹12,076 crore (likely standalone) figure; not used in copy."
     - "No management quote, no share price reaction found. Two-point chart kept only in the infographic cover block, not in the body."
     - "LIC filing on BSE/NSE not fetched within budget."
@@ -68,5 +68,3 @@ In other words, each rupee of new premium is now worth a good deal more to LIC t
 ## Cleaner books
 
 Bad loans in LIC's investment portfolio eased too. The **gross NPA ratio fell to 1.16%**, from 1.21% at the end of June.
-
-The profit is lower than the ₹13,492 crore LIC earned in the April-June quarter, when profit had risen 22.8%.
