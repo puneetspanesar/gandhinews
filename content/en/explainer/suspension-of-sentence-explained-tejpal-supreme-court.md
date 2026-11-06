@@ -121,10 +121,6 @@ Life sentences are treated more strictly. In a 2023 judgment the Supreme Court d
 
 Tejpal's case fits it exactly. A Goa trial court acquitted him in 2021. On August 6, 2026, a High Court bench of Justices Neela Gokhale and Amit Jamsandekar set that aside, convicted him of rape and other sexual offences under the Indian Penal Code and sentenced him to **10 years of rigorous imprisonment**.
 
-```photo
-{"n":2,"subject":"High Court of Bombay at Goa","caption":"The Bombay High Court's bench at Goa, which overturned Tejpal's 2021 acquittal on August 6 and sentenced him to 10 years.","alt":"The Bombay High Court bench at Porvorim, Goa (file photo)"}
-```
-
 ## How did the case reach this point?
 
 **Through 13 years, two opposite verdicts and a surrender.** After he appealed in August, the Supreme Court turned down his plea to be excused from surrendering, and he gave himself up before a court in Mapusa on September 14. He has since been held in the Central Jail at Colvale in North Goa.
