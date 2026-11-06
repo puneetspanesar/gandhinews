@@ -1,0 +1,30 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-06T17:04:39+05:30",
+ "end": "2026-11-06T17:28:25+05:30",
+ "summary": "2 stories, homepage refreshed, Jharkhand HC lead",
+ "new": [
+  "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "two business stories in the top headlines",
+   "done": "dropped the FII flows markets card and the Prism Johnson results card from the top; Hindalco is the only business story in the top eight"
+  },
+  {
+   "id": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+   "why": "Hindi grammar slip",
+   "done": "उतरेगा changed to उतरेगी"
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+ ],
+ "lead": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation"
+}

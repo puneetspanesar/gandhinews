@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+    "id": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
     "overlay": {
       "kicker": {
         "en": "Politics / Courts",
         "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "No relief for Tejpal in Supreme Court",
-        "hi": "सुप्रीम कोर्ट से तेजपाल को राहत नहीं"
+        "en": "JSSC CGL jobs restored",
+        "hi": "जेएसएससी सीजीएल की नौकरियां बहाल"
       },
       "text": {
         "en": "",
@@ -16,13 +16,15 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
+    ],
     "relatedBeside": [
-      "sonia-gandhi-voter-list-case-additional-documents-november-18",
-      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-      "cristiano-ronaldo-retires-international-football-portugal",
-      "sensex-nifty-close-november-6-sensex-1718-nifty-25030"
+      "hindalco-q2-profit-59-per-cent-7533-crore-record",
+      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+      "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
     ],
     "live": {
       "title": {
@@ -34,91 +36,91 @@
   "briefing": {
     "items": [
       {
-        "link": "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "link": "hindalco-q2-profit-59-per-cent-7533-crore-record",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Sonia Gandhi voter list case: court lets complainant file more documents, next hearing November 18",
-          "hi": "सोनिया गांधी मतदाता सूची मामला: शिकायतकर्ता को और दस्तावेज देने की छूट, अगली सुनवाई 18 नवंबर को"
+          "en": "Hindalco posts record quarterly profit of ₹7,533 crore, up 59%, as copper and aluminium shine",
+          "hi": "हिंडाल्को का तिमाही मुनाफा रिकॉर्ड ₹7,533 करोड़, 59% की छलांग; तांबा और एल्युमिनियम चमके"
         }
       },
       {
-        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
-          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
+          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
+          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
         }
       },
       {
-        "link": "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "link": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Airbnb shares jump 10% after fastest revenue growth in three years and a $12 billion buyback",
+          "hi": "तीन साल की सबसे तेज़ कमाई बढ़त और 12 अरब डॉलर के बायबैक से एयरबीएनबी का शेयर 10% उछला"
+        }
+      },
+      {
+        "link": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra parishad polls: final turnout rises to 70.72%, Visakhapatnam tops at 82.51%",
+          "hi": "आंध्र परिषद चुनाव: अंतिम मतदान 70.72%, विशाखापत्तनम 82.51% के साथ सबसे आगे"
+        }
+      },
+      {
+        "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Rain threatens Wellington ODI as India call off training",
+          "hi": "वेलिंगटन वनडे पर बारिश का खतरा, भारत ने अभ्यास रद्द किया"
+        }
+      },
+      {
+        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
         "lead": {
           "en": "Haryana:",
           "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Haryana raises DA to 63% and releases ₹4,470 crore, including Lado Lakshmi's 13th instalment",
-          "hi": "हरियाणा में महंगाई भत्ता 63% हुआ, लाडो लक्ष्मी की 13वीं किस्त समेत ₹4,470 करोड़ जारी"
+          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
+          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
         }
       },
       {
-        "link": "cristiano-ronaldo-retires-international-football-portugal",
+        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
         "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
-          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
+          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
+          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
         }
       },
       {
-        "link": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Sensex soars 1,718 points to 81,028 and Nifty reclaims 25,000 in a Dhanteras rally",
-          "hi": "धनतेरस पर सेंसेक्स 1,718 अंक उछलकर 81,028 पर, निफ्टी फिर 25,000 के पार"
-        }
-      },
-      {
-        "link": "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-        "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
-        },
-        "text": {
-          "en": "Suhail Bhat scores twice as India hold off late Pakistan fightback to win SAFF opener 3-2",
-          "hi": "सुहैल भट के दो गोल, पाकिस्तान की आखिरी पलों की वापसी के बावजूद भारत ने सैफ ओपनर 3-2 से जीता"
-        }
-      },
-      {
-        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "lead": {
-          "en": "Home Ministry:",
-          "hi": "गृह मंत्रालय:"
-        },
-        "text": {
-          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
-          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
-        }
-      },
-      {
-        "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Delhi court to hear plea for FIR against Sonia Gandhi over 1980 voter list today",
-          "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर आज सुनवाई"
+          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
+          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
         }
       }
     ]
@@ -186,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+      "id": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
       "also": []
     },
     "list": [
-      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
-      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-      "modi-meets-asian-para-games-medallists-delhi"
+      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+      "jharkhand-khunti-trailer-crowd-seven-killed"
     ],
     "also": [
-      "24-hour-rule-explained-article-22-detention-arrest",
-      "fast-track-special-courts-explained-rape-pocso-backlog"
+      "amit-shah-dehradun-rally-speech-1475-crore-projects",
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
     ]
   },
   "startHere": [
@@ -382,7 +384,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+      "lead": "hindalco-q2-profit-59-per-cent-7533-crore-record",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,19 +395,19 @@
         ]
       },
       "list": [
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
         "joshi-renewable-investment-220-billion-500-gw-2030",
         "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445"
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
       ]
     },
     {
       "section": "states",
-      "lead": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+      "lead": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
       "list": [
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza"
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance"
       ]
     },
     {
@@ -453,12 +455,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-u19-beat-nepal-asia-cup-al-amerat",
+      "lead": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
       "list": [
+        "india-u19-beat-nepal-asia-cup-al-amerat",
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
       ]
     }
   ],
@@ -537,21 +539,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T08:36:48+05:30",
-      "ids": [
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
-      ]
-    },
     {
       "at": "2026-11-06T09:32:56+05:30",
       "ids": [
@@ -654,6 +641,21 @@
         "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
         "govt-relaxes-passport-visa-rules-foreign-nationals-india",
         "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+      ]
+    },
+    {
+      "at": "2026-11-06T17:26:10+05:30",
+      "ids": [
+        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "hindalco-q2-profit-59-per-cent-7533-crore-record",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "ugc-equity-rules-revise-them-do-not-bury-them"
       ]
     }
   ],
