@@ -27,7 +27,7 @@ infographic:
   dek: "निर्देश 20 जिलों से बढ़ाकर सभी 75 जिलों पर"
   motif: gavel
   stats:
-    - {icon: users, value: "264", label: "20 जिलों में जमानत के बाद भी जेल में बंद कैदी"}
+    - {icon: users, value: "264", label: "20 जिलों में जमानत के बावजूद जेल में मिले कैदी"}
     - {icon: check-circle, value: "158", label: "अब तक रिहा, राज्य ने अदालत को बताया"}
     - {icon: hourglass, value: "106", label: "मामले, जिन पर फैसला बाकी"}
   source: "सुप्रीम कोर्ट, 6 नवंबर 2026"

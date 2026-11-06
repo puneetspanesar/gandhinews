@@ -10,7 +10,7 @@ standfirst: "Justices P S Narasimha and R Mahadevan turned down the Centre's req
 published: 2026-11-06T19:16:15+05:30
 location: New Delhi
 keyPoints:
-  - "The court **rejected the Centre's bid to modify** its March 11, 2026 creamy layer ruling."
+  - "The court **rejected the Centre's bid to modify** its March 11, 2026, creamy layer ruling."
   - "The ruling will **govern service allocation** for OBC candidates of CSE 2025."
   - "The Centre gets **two more months to comply**, but no two-year window."
 hero:

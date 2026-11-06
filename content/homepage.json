@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "id": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
     "overlay": {
       "kicker": {
         "en": "States / Andhra Pradesh",
         "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "₹1,919 crore of cyclone damage",
-        "hi": "चक्रवात से 1,919 करोड़ का नुकसान"
+        "en": "Final turnout 70.72%, counting Saturday",
+        "hi": "अंतिम मतदान 70.72%, गिनती शनिवार को"
       },
       "text": {
         "en": "",
@@ -17,16 +17,15 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "saini-chowkidar-honorarium-15221-rahul-apology",
-      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
+      "andhra-parishad-polls-four-voters-two-poll-staff-die",
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
     ],
     "relatedBeside": [
-      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-      "rupee-93-89-strongest-since-april-fii-record-buying",
-      "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-      "modi-meets-asian-para-games-medallists-delhi",
-      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
+      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
     ],
     "live": {
       "title": {
@@ -38,91 +37,91 @@
   "briefing": {
     "items": [
       {
-        "link": "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Supreme Court issues contempt notice to Kerala Congress office-bearers over 'resign now' post on CJI",
-          "hi": "सीजेआई से 'इस्तीफा दो' वाली पोस्ट पर सुप्रीम कोर्ट का केरल कांग्रेस पदाधिकारियों को अवमानना नोटिस"
+          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
+          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
         }
       },
       {
-        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
-        },
-        "text": {
-          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
-          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
-        }
-      },
-      {
-        "link": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra's cyclone-hit mandals vote as repolls open at seven booths; Thursday turnout put at 67.24%",
-          "hi": "आंध्र के चक्रवात प्रभावित मंडलों में मतदान शुरू, सात बूथों पर दोबारा वोटिंग; गुरुवार को 67.24% मतदान"
-        }
-      },
-      {
-        "link": "modi-meets-asian-para-games-medallists-delhi",
-        "lead": {
-          "en": "Para sport:",
-          "hi": "पैरा खेल:"
-        },
-        "text": {
-          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
-          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
-        }
-      },
-      {
-        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "lead": {
-          "en": "Rajya Sabha:",
-          "hi": "राज्यसभा:"
-        },
-        "text": {
-          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
-          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
-        }
-      },
-      {
-        "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "The seven who died in Khunti had stopped to help. Jharkhand's rural roads need lights, speed checks and a safe way to rescue",
-          "hi": "खूंटी में जान गंवाने वाले सात लोग मदद के लिए रुके थे। झारखंड की ग्रामीण सड़कों को रोशनी, रफ्तार पर लगाम और सुरक्षित बचाव का तरीका चाहिए"
+          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
+          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
         }
       },
       {
-        "link": "suspension-of-sentence-explained-tejpal-supreme-court",
+        "link": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
         "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Suspension of sentence explained: why Tarun Tejpal stays in jail while his appeal waits",
-          "hi": "सज़ा का निलंबन क्या है: अपील लंबित रहते तरुण तेजपाल जेल में क्यों रहेंगे"
+          "en": "Five more years for fast-track courts is welcome. Without judges and forensic labs they will not be fast",
+          "hi": "फास्ट ट्रैक अदालतों को पांच साल और मिलना स्वागतयोग्य है। पर जज और फॉरेंसिक लैब के बिना वे तेज़ नहीं होंगी"
         }
       },
       {
-        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
-          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+        }
+      },
+      {
+        "link": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "lead": {
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
+        },
+        "text": {
+          "en": "Supreme Court refuses to revisit OBC creamy layer ruling, says parents' salary cannot be counted mechanically",
+          "hi": "ओबीसी क्रीमी लेयर फैसले पर दोबारा विचार से सुप्रीम कोर्ट का इनकार, कहा माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Sensex soars 1,718 points to 81,028 and Nifty reclaims 25,000 in a Dhanteras rally",
+          "hi": "धनतेरस पर सेंसेक्स 1,718 अंक उछलकर 81,028 पर, निफ्टी फिर 25,000 के पार"
+        }
+      },
+      {
+        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "lead": {
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
+        },
+        "text": {
+          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
+          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
+        }
+      },
+      {
+        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
+          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
         }
       }
     ]
@@ -190,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "khunti-crash-night-highways-need-lights-and-speed-checks",
+      "id": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
       "also": []
     },
     "list": [
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-      "jagan-parishad-polls-selections-naidu-hijacked",
-      "24-hour-rule-explained-article-22-detention-arrest"
+      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+      "hosur-factory-concrete-structure-collapse-three-workers-killed"
     ],
     "also": [
-      "sonia-gandhi-voter-list-case-additional-documents-november-18",
-      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
+      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
     ]
   },
   "startHere": [
@@ -378,11 +377,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "sonia-gandhi-voter-list-case-additional-documents-november-18",
-        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
+        "sc-up-under-trials-bail-release-all-75-districts",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18"
       ],
-      "lead": "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+      "lead": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
     },
     {
       "section": "economy",
@@ -397,10 +396,10 @@
         ]
       },
       "list": [
-        "hindalco-q2-profit-59-per-cent-7533-crore-record",
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
         "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-        "joshi-renewable-investment-220-billion-500-gw-2030"
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
@@ -457,10 +456,10 @@
     },
     {
       "section": "sports",
-      "lead": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+      "lead": "india-u19-beat-nepal-asia-cup-al-amerat",
       "list": [
-        "india-u19-beat-nepal-asia-cup-al-amerat",
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
       ]
@@ -541,20 +540,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T11:39:33+05:30",
-      "ids": [
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "gold-silver-fall-dhanteras-november-6-mcx",
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-        "ugc-equity-rules-revise-them-do-not-bury-them",
-        "ugc-equity-regulations-explained-caste-discrimination-campuses",
-        "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "jagan-parishad-polls-selections-naidu-hijacked"
-      ]
-    },
     {
       "at": "2026-11-06T12:33:43+05:30",
       "ids": [
@@ -661,6 +646,22 @@
         "khunti-crash-night-highways-need-lights-and-speed-checks",
         "suspension-of-sentence-explained-tejpal-supreme-court",
         "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
+      ]
+    },
+    {
+      "at": "2026-11-06T19:33:54+05:30",
+      "ids": [
+        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "ugc-equity-rules-revise-them-do-not-bury-them",
+        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
       ]
     }
   ],

@@ -1,0 +1,25 @@
+{
+ "run": "hourly-19",
+ "start": "2026-11-06T19:06:15+05:30",
+ "end": "2026-11-06T19:36:32+05:30",
+ "summary": "Two SC stories (UP under-trials bail, OBC creamy layer), Andhra final turnout lead, homepage refresh",
+ "new": [
+  "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+  "sc-up-under-trials-bail-release-all-75-districts"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Two business stories in the top; stale 65-68% estimate in the Andhra box; three infographic tiles under the lead; Appireddy beside the polls lead",
+   "done": "Dropped Hindalco, the 3 pm Andhra story with the 65-68% estimate, the Appireddy arrest and the Wellington ODI infographic from the top; one markets story (Sensex close) remains."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+  "in the top five at 17:28 as well: the lead and the four beside it never repeat within 6 hours: andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam"
+ ],
+ "lead": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam"
+}

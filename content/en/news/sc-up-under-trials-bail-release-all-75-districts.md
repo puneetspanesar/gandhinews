@@ -26,7 +26,7 @@ infographic:
   dek: "Directions extended from 20 districts to all 75"
   motif: gavel
   stats:
-    - {icon: users, value: "264", label: "under-trials with bail still jailed in 20 districts"}
+    - {icon: users, value: "264", label: "found jailed despite bail in 20 districts"}
     - {icon: check-circle, value: "158", label: "released so far, the state told the court"}
     - {icon: hourglass, value: "106", label: "cases where a decision is still pending"}
   source: "Supreme Court of India, November 6, 2026"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS copy on Punjab Kesari English, 6:25 pm Nov 6 (inside window). Bench, case title, 264/158/106, 20 of 75 districts, quotes and January 20, 2027 date all from it. Order text not yet on sci.gov.in at writing; LiveLaw fetch not permitted this run."
+    - "Single source: IANS copy on Punjab Kesari English, 6:25 pm Nov 6 (inside window). Bench, case title, 264/158/106, 20 of 75 districts, quotes and January 20, 2027, date all from it. Order text not yet on sci.gov.in at writing; LiveLaw fetch not permitted this run."
     - "The source does not say on which date the court first sought the 20-district figures; left out."
 ---
 
