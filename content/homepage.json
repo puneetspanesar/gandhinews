@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+    "id": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP",
-        "hi": "राजनीति / भाजपा"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "Shah's Doon rally ahead of 2027 polls",
-        "hi": "2027 से पहले दून में शाह की रैली"
+        "en": "The 1980 voter list case, back in court",
+        "hi": "1980 की मतदाता सूची का मामला फिर अदालत में"
       },
       "text": {
         "en": "",
@@ -18,41 +18,52 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
-      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "titan-q2-standalone-profit-doubles-2393-crore",
+      "sensex-nifty-close-november-5-rally",
       "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
       "ugc-equity-rules-revise-them-do-not-bury-them"
     ],
     "live": {
       "title": {
-        "en": "BJP",
-        "hi": "भाजपा"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "lead": {
+          "en": "Rajya Sabha:",
+          "hi": "राज्यसभा:"
+        },
+        "text": {
+          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
+          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+        }
+      },
+      {
+        "link": "titan-q2-standalone-profit-doubles-2393-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Titan's Q2 standalone profit more than doubles to ₹2,393 crore",
+          "hi": "टाइटन का दूसरी तिमाही का स्टैंडअलोन मुनाफ़ा दोगुने से ज़्यादा, ₹2,393 करोड़"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-5-rally",
         "lead": {
           "en": "Markets:",
           "hi": "बाजार:"
         },
         "text": {
-          "en": "Sensex up 394 points at 11 am as IT stocks shrug off the global chip rout",
-          "hi": "सुबह 11 बजे सेंसेक्स 394 अंक ऊपर, वैश्विक चिप बिकवाली के बीच आईटी शेयरों ने संभाला बाजार"
-        }
-      },
-      {
-        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
-          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
+          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
+          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
         }
       },
       {
@@ -67,17 +78,6 @@
         }
       },
       {
-        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
-          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
-        }
-      },
-      {
         "link": "ugc-equity-rules-revise-them-do-not-bury-them",
         "lead": {
           "en": "Editorial:",
@@ -86,6 +86,17 @@
         "text": {
           "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
           "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
+        }
+      },
+      {
+        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
+          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
         }
       },
       {
@@ -100,25 +111,14 @@
         }
       },
       {
-        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
-          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
-        }
-      },
-      {
-        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
-          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
+          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
+          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "ugc-equity-regulations-explained-caste-discrimination-campuses",
+      "id": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
       "also": []
     },
     "list": [
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+      "ugc-equity-regulations-explained-caste-discrimination-campuses",
       "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+      "cristiano-ronaldo-retires-international-football-portugal"
     ],
     "also": [
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore"
     ]
   },
   "startHere": [
@@ -375,14 +375,14 @@
       },
       "list": [
         "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
       ],
       "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
     },
     {
       "section": "economy",
-      "lead": "gold-silver-fall-dhanteras-november-6-mcx",
+      "lead": "lic-q2-profit-12115-crore-up-20-per-cent",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +393,10 @@
         ]
       },
       "list": [
-        "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
-        "lic-q2-profit-12115-crore-up-20-per-cent",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "fii-buy-14975-crore-november-5-dii-sell-10445"
       ]
     },
     {
@@ -596,33 +596,17 @@
       ]
     },
     {
-      "at": "2026-11-06T10:40:22+05:30",
+      "at": "2026-11-06T11:27:51+05:30",
       "ids": [
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-        "modi-meets-asian-para-games-medallists-delhi",
-        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-        "24-hour-rule-explained-article-22-detention-arrest",
-        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-        "fast-track-special-courts-explained-rape-pocso-backlog",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol"
-      ]
-    },
-    {
-      "at": "2026-11-06T11:37:05+05:30",
-      "ids": [
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
-        "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "titan-q2-standalone-profit-doubles-2393-crore",
+        "sensex-nifty-close-november-5-rally",
         "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
         "ugc-equity-rules-revise-them-do-not-bury-them",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
         "ugc-equity-regulations-explained-caste-discrimination-campuses",
-        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-        "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
       ]
     }
   ],

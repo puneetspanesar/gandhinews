@@ -9,7 +9,7 @@ Rules checked, mechanically:
     stale 2 hours after that clock time
   markets band: while the market is open its figures are under 2 hours old
   the site moves: between 8 am and midnight the newest news story is under 3 hours old
-  headlines change every hour: nothing in the headlines was in the previous hour's headlines (git), unless marked
+  headlines change every hour: nothing in the headlines was in the homepage that stood at the top of this hour (git), unless marked
     critical and updated since
 Exit 0: all rules hold. Exit 1: problems to fix before publishing. Exit 2: only rule breaches that cannot be fixed
 this run (an infographic lead when no fresh story has a photo, no new story in 3 hours): publish, they go in the run record.
@@ -17,7 +17,7 @@ Usage: python3 newsroom/scripts/check_fresh.py   (run from the repo root)"""
 import json, glob, yaml, sys, os, re, datetime as dt
 from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage
+from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage, recent_homepages, core_ids
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
@@ -111,9 +111,22 @@ if ph:
         if i not in P: continue
         u = P[i].get('updated')
         if i in crit and u and u > pt: continue
-        flag(f'already in the headlines at {pt:%H:%M}: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical)', i)
+        why = f'already in the headlines at {pt:%H:%M}: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical)'
+        # the lead can only change to a new story: when none exists the run still publishes (breach recorded), never freezes
+        (soft.append((why, i, 0)) if i == h['lead']['id'] else flag(why, i))
 
 if len(h.get('weekAhead') or []) < 2: flag('the week ahead band has fewer than 2 items (refresh_home.py builds it; add `upcoming:` blocks to previews)', 'weekAhead')
+
+# The top five (the lead and the four beside it) never repeat within 6 hours; a story that led never leads again.
+crit = set(h.get('critical') or [])
+for t, hp in recent_homepages(now, 6):
+    for i in set(core_ids(h)) & set(core_ids(hp)):
+        u = (P.get(i) or {}).get('updated')
+        if i in crit and u and u > t: continue
+        soft.append((f'in the top five at {t:%H:%M} as well: the lead and the four beside it never repeat within 6 hours', i, 0))
+    if h['lead']['id'] == (hp.get('lead') or {}).get('id') and h['lead']['id'] not in crit:
+        soft.append((f'led at {t:%H:%M} already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical)', h['lead']['id'], 0))
+soft = list({(n, i): (n, i, x) for n, i, x in soft}.values())
 
 mk_open = now.weekday() < 5 and (9, 15) <= (now.hour, now.minute) <= (15, 30)
 try:

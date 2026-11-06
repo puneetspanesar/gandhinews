@@ -27,3 +27,10 @@ Use at most the WebSearch calls window.txt allows. Prefer WebFetch: section page
 
 ## Report back
 End with a compact list: `slug | section | lead/brief | one-line` for every story written (and any files updated). Nothing else.
+
+## Main picture (the desk does this before handing back)
+For each story, in order, and stop at the first that works:
+1. The person the story is about is in the people library: `cd /home/claude/gandhinews && python3 newsroom/scripts/one_photo.py <story-id> --person "<name as in newsroom/library/people.json>"`. Check the list of names with `python3 -c "import json;print(sorted(v['en'] for v in json.load(open('/home/claude/gandhinews/newsroom/library/people.json')).values()))"`.
+2. `python3 newsroom/scripts/quick_photo.py <story-id> "<person or place>" --list`, look at the candidates, then `--pick <photo-id>`.
+3. Neither works: leave it, and say in your reply which person, place or event the picture must show. The run does one finder call for all desks.
+Event stories (flood, landslide, fire, collapse, cyclone, smog, protest, polling) show the event in the same state or region, labelled "(file photo)": never a landmark, a building or a person standing in for the event. Run these commands one after another, never in parallel.

@@ -26,7 +26,7 @@ Then run check_fresh.py and the build as usual.
 import json, glob, re, sys, argparse, datetime as dt
 import yaml, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage
+from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage, recent_homepages, core_ids
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
@@ -67,17 +67,22 @@ _pending_lead = False
 # ---- the previous hour's headlines: nothing in them may appear in this hour's headlines (critical + updated excepted)
 hist = h.setdefault('headlineHistory', [])
 _at = lambda e: dt.datetime.fromisoformat(e['at'])
-prev = next((e for e in reversed(hist) if (now - _at(e)).total_seconds() >= 40 * 60), None)
+_hour = now.replace(minute=0, second=0, microsecond=0)
+prev = next((e for e in reversed(hist) if _at(e) < _hour), None)
 _gt, _gh = prev_hour_homepage(now)
 if _gh and (not prev or _gt > _at(prev)): prev = {'at': _gt.isoformat(timespec='seconds'), 'ids': headline_ids(_gh)}   # main's own history wins
 blocked = set(prev['ids']) if prev else set()
 # how many earlier hours showed each story in the headlines, and which stories have led: stories never shown come
 # first, a story that already led never leads again (an update leads only as a new development story or via --critical)
-shown, led = {}, set()
-for e in hist:
-    for n, i in enumerate(e.get('ids') or []):
-        shown[i] = shown.get(i, 0) + 1
-        if n == 0: led.add(i)
+shown, led, core6 = {}, set(), set()
+for t, hp in recent_homepages(now, 6):
+    for i in headline_ids(hp): shown[i] = shown.get(i, 0) + 1
+    led.add((hp.get('lead') or {}).get('id')); core6 |= set(core_ids(hp))
+for e in hist:   # this homepage's own record too (covers a run that has not reached git yet)
+    if (now - _at(e)).total_seconds() < 6 * 3600 and _at(e) < _hour:
+        for n, i in enumerate(e.get('ids') or []):
+            shown[i] = shown.get(i, 0) + 1
+            if n == 0: led.add(i)
 def upd(i):
     t = A[i].get('updated')
     return (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
@@ -108,7 +113,7 @@ if _pending_lead:
     set_lead(a.lead)
 lead = L['id']
 fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600  # 7, so it is still under 8 an hour later and not is_markets(d['id'], d) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
-bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
+bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
     same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
@@ -116,7 +121,7 @@ if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
 if bad and not a.lead:
     # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
     PRIO = {'politics': 0, 'national': 0, 'states': 0, 'india': 0, 'world': 1, 'sports': 2, 'science': 2, 'tech': 2, 'economy': 3}
-    cand = sorted([i for i in newest(fresh_photo) if allowed(i) and (i not in led or i in a.critical)], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i)]
+    cand = sorted([i for i in newest(fresh_photo) if allowed(i) and (i not in led or i in a.critical) and i not in core6], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i) and i not in led and i not in core6]
     if cand:
         print(f'lead {lead} replaced ({bad}) by {cand[0]}'); set_lead(cand[0]); lead = cand[0]
     else:
@@ -148,8 +153,13 @@ for i in pool:
     taken.append(i); secs[s] = secs.get(s, 0) + 1; used_words |= words(i); mk += bool(is_markets(i, A.get(i)))
     if len(taken) >= 16: break
 nb = len(L.get('relatedBeside') or []) or 4
-L['relatedBeside'] = taken[:nb]
-rest = taken[nb:]
+# the four beside the lead: never in the lead or beside it in the last 6 hours (critical updates excepted)
+fresh_core = [i for i in taken if i not in core6 or (i in a.critical and allowed(i))]
+beside = fresh_core[:nb]
+if len(beside) < nb: print(f'WARNING: only {len(beside)} stories not in the top five in the last 6 hours: publish more stories this run'); beside += [i for i in taken if i not in beside][:nb - len(beside)]
+L['relatedBeside'] = beside
+rest = [i for i in taken if i not in beside]
+taken = beside + rest
 h['topStories'] = {'big': {'id': rest[0], 'also': []}, 'list': rest[1:6], 'also': rest[6:8]} if rest else h['topStories']
 
 def short(lbl): return (lbl.split('/')[-1].strip() or lbl) + ':'
@@ -177,7 +187,7 @@ if len(h['weekAhead']) < 3: print(f"WARNING: only {len(h['weekAhead'])} dated it
 
 # ---- remember this hour's headlines (a re-run inside the same hour replaces its own entry)
 entry = {'at': now.isoformat(timespec='seconds'), 'ids': [lead] + rel[:3] + taken[:8]}
-if hist and (now - _at(hist[-1])).total_seconds() < 40 * 60: hist[-1] = entry
+if hist and _at(hist[-1]) >= _hour: hist[-1] = entry
 else: hist.append(entry)
 h['headlineHistory'] = hist[-8:]
 h['critical'] = [i for i in a.critical if allowed(i)]

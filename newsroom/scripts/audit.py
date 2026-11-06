@@ -414,7 +414,10 @@ def check_home(root, dist, S, M):
         if old.returncode == 0:
             cur = json.load(open(f'{root}/content/homepage.json')); prev = json.loads(old.stdout)
             key = lambda h: json.dumps([h.get('lead', {}).get('id'), h.get('lead', {}).get('relatedBeside'), h.get('topStories'), h.get('lead', {}).get('relatedBelow')])
-            if key(cur) == key(prev) and 6 <= NOW.hour <= 23: fail(G, 'content/homepage.json', 'top of the homepage is identical to the live one (the site must visibly change every run)')
+            # A run that changes no content publishes nothing (a clean stall check on main as it is): nothing to compare.
+            touched = subprocess.run(['git', '-C', root, 'status', '--porcelain', '--', 'content'], capture_output=True, text=True, timeout=20).stdout.strip() \
+                or subprocess.run(['git', '-C', root, 'diff', '--name-only', 'origin/main', '--', 'content'], capture_output=True, text=True, timeout=20).stdout.strip()
+            if touched and key(cur) == key(prev) and 6 <= NOW.hour <= 23: fail(G, 'content/homepage.json', 'top of the homepage is identical to the live one (the site must visibly change every run)')
     except Exception as e:
         warn(G, 'content/homepage.json', f'could not compare with origin/main: {e}')
 
