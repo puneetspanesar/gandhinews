@@ -1,0 +1,13 @@
+{
+ "run": "stall-10",
+ "start": "2026-11-06T10:56:00+05:30",
+ "end": "2026-11-06T11:04:52+05:30",
+ "summary": "audit same-homepage check skips runs that change no content",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+}
