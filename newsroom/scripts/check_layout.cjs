@@ -9,6 +9,7 @@ const srv = http.createServer((q, r) => { let f = path.join(root, decodeURICompo
   const b = await chromium.launch(); let bad = [];
   for (const [w, pathn] of [[1440, '/'], [390, '/'], [1440, '/hi/']]) {
     const p = await b.newPage({viewport: {width: w, height: 900}});
+    await p.route(/google-analytics\.com|googletagmanager\.com/, (r) => r.abort());  // our checks never reach Analytics
     await p.goto((process.env.LAYOUT_URL || 'http://localhost:4396') + pathn, {waitUntil: 'networkidle'});
     for (let y = 0; y < 16000; y += 700) { await p.evaluate((y) => scrollTo(0, y), y); await p.waitForTimeout(80); }
     await p.waitForTimeout(1000);
