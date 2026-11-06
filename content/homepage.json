@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+    "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Politics / BJP",
+        "hi": "राजनीति / भाजपा"
       },
       "value": {
-        "en": "Five mandals vote today, two repolls",
-        "hi": "पांच मंडलों में आज मतदान, दो बूथों पर दोबारा"
+        "en": "Shah's Doon rally ahead of 2027 polls",
+        "hi": "2027 से पहले दून में शाह की रैली"
       },
       "text": {
         "en": "",
@@ -16,111 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-      "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
-      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra"
+      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "BJP",
+        "hi": "भाजपा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
-          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
-        }
-      },
-      {
-        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "link": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
         "lead": {
           "en": "Companies:",
           "hi": "कंपनियां:"
         },
         "text": {
-          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
-          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
+          "en": "Airbnb shares jump 10% after fastest revenue growth in three years and a $12 billion buyback",
+          "hi": "तीन साल की सबसे तेज़ कमाई बढ़त और 12 अरब डॉलर के बायबैक से एयरबीएनबी का शेयर 10% उछला"
         }
       },
       {
-        "link": "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
         "lead": {
-          "en": "Results:",
-          "hi": "नतीजे:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Glenmark Pharma's Q2 profit falls 57% to ₹264 crore as revenue drops 30%",
-          "hi": "ग्लेनमार्क फार्मा का दूसरी तिमाही का मुनाफा 57% घटकर ₹264 करोड़, आय 30% गिरी"
+          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
+          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
         }
       },
       {
-        "link": "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "Andhra parishad polls: SEC Punetha says voting is smooth as ballot boxes are thrown down in Marutla",
-          "hi": "आंध्र परिषद चुनाव: राज्य चुनाव आयुक्त पुनेठा बोले मतदान सुचारु, मारुतला में मतपेटियां ज़मीन पर फेंकी गईं"
+          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
+          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
         }
       },
       {
-        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
+          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+        }
+      },
+      {
+        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
-          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
+          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
+          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
         }
       },
       {
-        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
         "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
-          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
+          "en": "Andhra parishad polls: YSRCP alleges booth capturing in Dhulipalla, Byreddy Siddharth under house arrest",
+          "hi": "आंध्र परिषद चुनाव: वाईएसआरसीपी का धुलिपल्ला में बूथ कब्जे का आरोप, बायरेड्डी सिद्धार्थ नजरबंद"
         }
       },
       {
-        "link": "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-        "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
-        },
-        "text": {
-          "en": "Fenerbahce come from behind twice to beat Liverpool 3-2 as Valverde rescues Real Madrid in Athens",
-          "hi": "दो बार पिछड़ने के बाद फेनरबाखचे ने लिवरपूल को 3-2 से हराया, वाल्वेर्दे ने एथेंस में रियल मैड्रिड को बचाया"
-        }
-      },
-      {
-        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
+        "link": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
-          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
+          "en": "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring letter",
+          "hi": "दिल्ली के 47 लाख कटे मतदाताओं को तसल्ली की चिट्ठी नहीं, एक साफ फॉर्म चाहिए"
+        }
+      },
+      {
+        "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
+          "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
         }
       }
     ]
@@ -188,19 +186,18 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+      "id": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
       "also": []
     },
     "list": [
-      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-      "ugc-equity-rules-revise-them-do-not-bury-them",
-      "24-hour-rule-explained-article-22-detention-arrest",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years"
+      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+      "us-midterms-explained-congress-tariffs-what-it-means-for-india",
+      "coastal-freight-goal-for-2047-needs-milestones-this-decade",
+      "qs-asia-slide-india-universities-must-open-to-the-world"
     ],
     "also": [
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro"
+      "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
     ]
   },
   "startHere": [
@@ -376,15 +373,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
         "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
+        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra"
       ],
-      "lead": "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+      "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
     },
     {
       "section": "economy",
-      "lead": "fii-buy-14975-crore-november-5-dii-sell-10445",
+      "lead": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
       "module": {
         "type": "markets",
         "indicators": [
@@ -395,10 +392,10 @@
         ]
       },
       "list": [
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "fii-buy-14975-crore-november-5-dii-sell-10445",
         "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-        "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-        "titan-q2-standalone-profit-doubles-2393-crore"
+        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8"
       ]
     },
     {
@@ -455,16 +452,40 @@
     },
     {
       "section": "sports",
-      "lead": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "lead": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
       "list": [
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "cristiano-ronaldo-retires-international-football-portugal",
         "modi-meets-asian-para-games-medallists-delhi",
-        "india-japan-asian-champions-trophy-final-mohali-preview",
-        "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16"
+        "india-japan-asian-champions-trophy-final-mohali-preview"
       ]
     }
   ],
   "weekAhead": [
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Men's U19 Asia Cup: India v Nepal in Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम नेपाल, सुबह 10:30 बजे"
+      },
+      "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Amit Shah addresses BJP rally at Dehradun's Parade Ground",
+        "hi": "देहरादून के परेड ग्राउंड में अमित शाह की भाजपा रैली"
+      },
+      "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -510,28 +531,6 @@
         "en": "Counting: Andhra Pradesh Mandal and Zilla Parishad (MPTC and ZPTC) elections",
         "hi": "मतगणना: आंध्र प्रदेश मंडल और जिला परिषद (एमपीटीसी और जेडपीटीसी) चुनाव"
       }
-    },
-    {
-      "icon": "calendar-check",
-      "date": {
-        "en": "Nov 12",
-        "hi": "12 नवंबर"
-      },
-      "text": {
-        "en": "Polling and counting: Rajya Sabha bypoll, Madhya Pradesh",
-        "hi": "मतदान और मतगणना: राज्यसभा उपचुनाव, मध्य प्रदेश"
-      }
-    },
-    {
-      "icon": "chart-line",
-      "date": {
-        "en": "Nov 12",
-        "hi": "12 नवंबर"
-      },
-      "text": {
-        "en": "Retail inflation (CPI) for October, 4 pm",
-        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
-      }
     }
   ],
   "headlineHistory": [
@@ -548,6 +547,20 @@
         "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
         "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
         "ugc-equity-rules-revise-them-do-not-bury-them"
+      ]
+    },
+    {
+      "at": "2026-11-06T06:38:16+05:30",
+      "ids": [
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+        "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
       ]
     }
   ],

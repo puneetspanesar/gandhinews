@@ -28845,5 +28845,113 @@
     "alt": "Voters queue at a polling booth near Visakhapatnam, Andhra Pradesh (file photo)",
     "alt_hi": "आंध्र प्रदेश में विशाखापत्तनम के पास एक मतदान केंद्र पर कतार में खड़े मतदाता (फाइल फोटो)",
     "page": "https://commons.wikimedia.org/wiki/File:Voters_standing_in_a_queue_to_cast_their_votes,_at_a_polling_booth,_during_the_8th_Phase_of_General_Elections-2014,_at_Enadi,_in_Visakhapatnam,_Andhra_Pradesh_on_May_07,_2014.jpg"
+  },
+  "amit-shah-dehradun-parade-ground-rally-padyatra-today": {
+    "id": "o-amit-shah-dehradun-parade-ground-rally-padyatra-today",
+    "src": "/photos/o-amit-shah-dehradun-parade-ground-rally-padyatra-today-1280.jpg",
+    "src800": "/photos/o-amit-shah-dehradun-parade-ground-rally-padyatra-today-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+    "licence": "GODL-India",
+    "alt": "Union Home Minister Amit Shah (file photo)",
+    "alt_hi": "केंद्रीय गृह मंत्री अमित शाह (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+  },
+  "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump": {
+    "id": "o-airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+    "src": "/photos/o-airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump-1280.jpg",
+    "src800": "/photos/o-airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: TechCrunch / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "Airbnb chief executive Brian Chesky (file photo)",
+    "alt_hi": "एयरबीएनबी के मुख्य कार्यकारी ब्रायन चेस्की (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_Chesky_TechCrunch.jpg"
+  },
+  "india-u19-open-asia-cup-nepal-al-amerat-raichandani": {
+    "id": "i-india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+    "src": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-en-3x2-1280.jpg",
+    "src800": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-en-3x2-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Graphic: Gandhi News",
+    "licence": "",
+    "graphic": true,
+    "alt": "Gandhi News graphic: India open against Nepal in Al Amerat",
+    "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अल अमेरात में भारत की शुरुआत नेपाल से",
+    "page": null,
+    "ihash": "6ade92e70d27",
+    "byLang": {
+      "hi": {
+        "src": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-hi-3x2-1280.jpg",
+        "src800": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-hi-3x2-640.jpg"
+      }
+    },
+    "thumb": {
+      "en": {
+        "src": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-en-t-1280.jpg",
+        "src800": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-en-t-640.jpg"
+      },
+      "hi": {
+        "src": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-hi-t-1280.jpg",
+        "src800": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-hi-t-640.jpg"
+      }
+    },
+    "cover": {
+      "width": 1280,
+      "height": 720,
+      "en": {
+        "src": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-en-1280.jpg",
+        "src800": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-en-640.jpg"
+      },
+      "hi": {
+        "src": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-hi-1280.jpg",
+        "src800": "/photos/i-india-u19-open-asia-cup-nepal-al-amerat-raichandani-hi-640.jpg"
+      }
+    }
+  },
+  "wall-street-close-dow-1833-nasdaq-correction-chip-rout": {
+    "id": "i-wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+    "src": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-en-3x2-1280.jpg",
+    "src800": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-en-3x2-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Graphic: Gandhi News",
+    "licence": "",
+    "graphic": true,
+    "alt": "Gandhi News graphic: Wall Street wipes out its election rally",
+    "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वॉल स्ट्रीट ने गंवाई चुनावी तेज़ी",
+    "page": null,
+    "ihash": "94fea0c849b7",
+    "byLang": {
+      "hi": {
+        "src": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-hi-3x2-1280.jpg",
+        "src800": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-hi-3x2-640.jpg"
+      }
+    },
+    "thumb": {
+      "en": {
+        "src": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-en-t-1280.jpg",
+        "src800": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-en-t-640.jpg"
+      },
+      "hi": {
+        "src": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-hi-t-1280.jpg",
+        "src800": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-hi-t-640.jpg"
+      }
+    },
+    "cover": {
+      "width": 1280,
+      "height": 720,
+      "en": {
+        "src": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-en-1280.jpg",
+        "src800": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-en-640.jpg"
+      },
+      "hi": {
+        "src": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-hi-1280.jpg",
+        "src800": "/photos/i-wall-street-close-dow-1833-nasdaq-correction-chip-rout-hi-640.jpg"
+      }
+    }
   }
 }

@@ -36,7 +36,7 @@ infographic:
   source: "Uttarakhand BJP and state government, November 2 to 6, 2026"
 related: [dhami-bjp-save-democracy-campaign-sir-congress, kharge-uttarakhand-review-bjp-betrayed-venugopal-2027, india-bloc-rally-venugopal-stern-warning-modi-shah, dhami-akhilesh-uttarakhand-infiltrators-remark-congress]
 seo:
-  description: "Amit Shah visits Dehradun on November 6, 2026 for the BJP's 'Save Democracy, Remove Anarchy' padyatra at the Parade Ground and to present the President's Police Colour to Uttarakhand Police."
+  description: "Amit Shah visits Dehradun on November 6, 2026, for the BJP's 'Save Democracy, Remove Anarchy' padyatra at the Parade Ground and to present the President's Police Colour to Uttarakhand Police."
 sources:
   - title: "Shah to attend State Foundation Day programme in Doon today"
     publisher: "Pioneer Edge"

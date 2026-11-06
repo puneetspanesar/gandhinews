@@ -1,0 +1,26 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-06T06:04:44+05:30",
+ "end": "2026-11-06T06:41:25+05:30",
+ "summary": "Amit Shah Dehradun rally leads; Wall Street close, Airbnb Q3, India U19 opener; Sonia Gandhi hearing held for picture",
+ "new": [
+  "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+  "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+  "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+  "wall-street-close-dow-1833-nasdaq-correction-chip-rout"
+ ],
+ "held": [
+  "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Lead is wrong (rule 10) and the Andhra slot in the top headlines is hours old (rules 9b, 12). frontpages.txt shows other sites leading with today's Andhra parishad voting (five Cyclone Murasu-hit mandals vote today, Friday November 6, plus repolls at two booths). On our page that story (andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths, published 00:12 IST today) sits below the fold as the India section lead. The Headlines lead is a preview of Amit Shah's Dehradun rally. Meanwhile the top headlines carry last night's 'Andhra parishad polling ends; officials estimate 65% to 68% turnout' (andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7, November 5, 8:09 pm), which says polling has ended when five mandals are voting today. Fix: make the five-mandals/repoll story the Headlines lead, or at least put it in the top headlines in place of the November 5 'polling ends' story, and take that older story out of the top. Move the Amit Shah preview into a secondary top slot. Once polling is under way, update the five-mandals story with live turnout so it carries the latest figure.",
+   "done": "Took the Nov 5 'polling ends' Andhra story out of the top headlines. Kept the Amit Shah lead: the five-mandals story was last hour's lead and rule 13 lets it stay only with new facts; polling opens at 7 am, after this run, so the next run should re-lead it with live turnout as a new development."
+  }
+ ],
+ "breaches": [],
+ "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+}
