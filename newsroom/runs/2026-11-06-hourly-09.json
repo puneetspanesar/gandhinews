@@ -1,0 +1,21 @@
+{
+ "run": "hourly-09",
+ "start": "2026-11-06T09:04:41+05:30",
+ "end": "2026-11-06T09:35:09+05:30",
+ "summary": "Fritz beats Fils story, homepage refresh, rupee and Brent update",
+ "new": [
+  "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+   "why": "Hindi twin mistranslates the first set: 'बिना अंक गंवाए पहला सेट अपने नाम किया' says Fritz won the whole first set without losing a point. The English and the source say only that he served out the se",
+   "done": "Hindi body now reads 'और लव गेम में सर्विस करते हुए पहला सेट अपने नाम किया', the editor's wording."
+  }
+ ],
+ "breaches": [],
+ "lead": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+}

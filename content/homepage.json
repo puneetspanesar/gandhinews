@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "id": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Sports / Tennis",
+        "hi": "खेल / टेनिस"
       },
       "value": {
-        "en": "Cyclone-hit mandals vote, 7 booths repoll",
-        "hi": "चक्रवात वाले मंडलों में वोट, 7 बूथों पर दोबारा"
+        "en": "Fritz ends Fils's run in Paris",
+        "hi": "फ्रिट्ज ने रोका फिस का सफर"
       },
       "text": {
         "en": "",
@@ -16,111 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+      "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+      "cristiano-ronaldo-retires-international-football-portugal",
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Tennis",
+        "hi": "टेनिस"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "link": "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Global markets:",
+          "hi": "वैश्विक बाज़ार:"
         },
         "text": {
-          "en": "Airbnb shares jump 10% after fastest revenue growth in three years and a $12 billion buyback",
-          "hi": "तीन साल की सबसे तेज़ कमाई बढ़त और 12 अरब डॉलर के बायबैक से एयरबीएनबी का शेयर 10% उछला"
+          "en": "Dow sinks 1,833 points and Nasdaq closes in a correction as chip stocks crash",
+          "hi": "चिप शेयरों की तबाही से डाउ 1,833 अंक टूटा, नैस्डैक करेक्शन में बंद"
         }
       },
       {
-        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "link": "cristiano-ronaldo-retires-international-football-portugal",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Football:",
+          "hi": "फुटबॉल:"
         },
         "text": {
-          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
-          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
+          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
+          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
         }
       },
       {
-        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
-          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
-        }
-      },
-      {
-        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
-          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
-        }
-      },
-      {
-        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
-          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
-        }
-      },
-      {
-        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
-          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
-        }
-      },
-      {
-        "link": "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Glenmark Pharma's Q2 profit falls 57% to ₹264 crore as revenue drops 30%",
-          "hi": "ग्लेनमार्क फार्मा का दूसरी तिमाही का मुनाफा 57% घटकर ₹264 करोड़, आय 30% गिरी"
-        }
-      },
-      {
-        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "link": "jagan-parishad-polls-selections-naidu-hijacked",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Andhra parishad polls: YSRCP alleges booth capturing in Dhulipalla, Byreddy Siddharth under house arrest",
-          "hi": "आंध्र परिषद चुनाव: वाईएसआरसीपी का धुलिपल्ला में बूथ कब्जे का आरोप, बायरेड्डी सिद्धार्थ नजरबंद"
+          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
+          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+        }
+      },
+      {
+        "link": "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Bharti Airtel profit rises 31% to ₹8,888 crore as ARPU climbs to ₹271",
+          "hi": "भारती एयरटेल का मुनाफा 31% बढ़कर ₹8,888 करोड़, ARPU ₹271 पर पहुंचा"
+        }
+      },
+      {
+        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
+          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
+        }
+      },
+      {
+        "link": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court: 24-hour clock to produce an accused before a magistrate starts at detention, not formal arrest",
+          "hi": "सुप्रीम कोर्ट: आरोपी को मजिस्ट्रेट के सामने पेश करने की 24 घंटे की मियाद हिरासत से शुरू, औपचारिक गिरफ्तारी से नहीं"
+        }
+      },
+      {
+        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
+          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
+        }
+      },
+      {
+        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
+          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
         }
       }
     ]
@@ -188,20 +186,17 @@
   },
   "topStories": {
     "big": {
-      "id": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+      "id": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
       "also": []
     },
     "list": [
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
-      "ugc-equity-regulations-explained-caste-discrimination-campuses",
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years"
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+      "two-child-norm-explained-javed-ruling-larger-bench",
+      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
     ],
-    "also": [
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro"
-    ]
+    "also": []
   },
   "startHere": [
     "24-hour-rule-explained-article-22-detention-arrest",
@@ -455,12 +450,12 @@
     },
     {
       "section": "sports",
-      "lead": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "lead": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
       "list": [
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
         "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
         "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "cristiano-ronaldo-retires-international-football-portugal",
-        "modi-meets-asian-para-games-medallists-delhi"
+        "cristiano-ronaldo-retires-international-football-portugal"
       ]
     }
   ],
@@ -514,6 +509,18 @@
       "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
     },
     {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
+        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
+      },
+      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+    },
+    {
       "icon": "bank",
       "date": {
         "en": "Today",
@@ -522,17 +529,6 @@
       "text": {
         "en": "RBI's weekly forex reserves figures",
         "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
-      }
-    },
-    {
-      "icon": "calendar-check",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "Counting: Andhra Pradesh Mandal and Zilla Parishad (MPTC and ZPTC) elections",
-        "hi": "मतगणना: आंध्र प्रदेश मंडल और जिला परिषद (एमपीटीसी और जेडपीटीसी) चुनाव"
       }
     }
   ],
@@ -579,6 +575,20 @@
         "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
         "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
         "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
+      ]
+    },
+    {
+      "at": "2026-11-06T09:32:56+05:30",
+      "ids": [
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "cristiano-ronaldo-retires-international-football-portugal",
+        "jagan-parishad-polls-selections-naidu-hijacked",
+        "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
       ]
     }
   ],

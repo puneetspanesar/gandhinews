@@ -21,7 +21,7 @@ hero:
   need: "Taylor Fritz, with Arthur Fils as the second panel"
   suggested_source: "Taylor Fritz"
   subjects: ["Taylor Fritz", "Arthur Fils"]
-  alt: "Taylor Fritz and Arthur Fils (file photos)"
+  alt: "Taylor Fritz (file photo)"
   overlay:
     value: "Fritz ends Fils's run in Paris"
 cover:
@@ -87,9 +87,6 @@ Fils had already sealed his place at the ATP Finals on Wednesday, the first Fren
 
 Fritz is looking forward to the Alcaraz match. "Carlos and I have had a lot of battles, and some close ones as well, so I'm really looking forward to the opportunity," he said.
 
-```photo
-{"n":1,"subject":"Rinky Hijikata","caption":"Australian qualifier Rinky Hijikata, who reached his biggest quarter-final a day after beating Novak Djokovic.","alt":"Rinky Hijikata"}
-```
 
 ## Hijikata does it again
 
