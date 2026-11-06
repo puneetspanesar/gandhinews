@@ -29626,5 +29626,60 @@
     "src800": "/photos/i-icici-bank-record-high-1526-nears-11-trillion-market-value-hi-640.jpg"
    }
   }
+ },
+ "govt-relaxes-passport-visa-rules-foreign-nationals-india": {
+  "id": "r-govt-relaxes-passport-visa-rules-foreign-nationals-india",
+  "src": "/photos/r-govt-relaxes-passport-visa-rules-foreign-nationals-india-1280.jpg",
+  "src800": "/photos/r-govt-relaxes-passport-visa-rules-foreign-nationals-india-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: Devopam / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, which houses the Ministry of Home Affairs, in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली का नॉर्थ ब्लॉक, जहां गृह मंत्रालय है (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:EVidyaloka_Rubaru_2018-1.jpg"
+ },
+ "india-u19-bowl-out-nepal-128-asia-cup-al-amerat": {
+  "id": "i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat",
+  "src": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India dismiss Nepal for 128",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत ने नेपाल को 128 पर समेटा",
+  "page": null,
+  "ihash": "1a21066f7600",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-en-t-1280.jpg",
+    "src800": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-hi-t-1280.jpg",
+    "src800": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-en-1280.jpg",
+    "src800": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-hi-1280.jpg",
+    "src800": "/photos/i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the India U19 team; library (none), quick_photo 'India national under-19 cricket team' 0 usable; senior-team stand-ins excluded"
  }
 }
