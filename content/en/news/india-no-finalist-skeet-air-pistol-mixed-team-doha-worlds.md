@@ -62,6 +62,6 @@ In the 10m air pistol mixed team event, India's two pairs never threatened the f
 
 The second pair, Sainyam and Ravin Kumar, finished 27th. Sainyam opened with a strong 99 in the first series, but Ravin's **closing series of 91** pulled them down the order.
 
-The day leaves India's position unchanged. Jaypal's silver remains the country's **only quota place for the 2028 Los Angeles Olympics** at these championships, alongside the women's air pistol team silver won by Manu Bhaker, Suruchi and Sainyam on November 5.
+The day leaves India's position unchanged. Jaypal's silver remains the country's **only quota place for the 2028 Los Angeles Olympics** at these championships. Separately, Manu Bhaker, Suruchi and Sainyam won the women's air pistol team silver on November 5.
 
 India's shooters return for the remaining events as the championships continue in Doha.

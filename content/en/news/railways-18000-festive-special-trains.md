@@ -58,7 +58,7 @@ verification:
     - "HelloRail (Nov 5) used only as background that the 18,000 figure was first given earlier in the week; its 20,000-capacity holding areas, platform ticket suspension and Amrit Bharat figures left out as single unofficial source."
 ---
 
-Indian Railways is running **about 18,000 special trains** this festive season, half as many again as last year's record of about 12,000, Railway Minister Ashwini Vaishnaw said on Friday as he walked through the evening crowds at New Delhi Railway Station.
+Indian Railways is running **about 18,000 special trains** this festive season, half as many again as last year's figure of about 12,000, Railway Minister Ashwini Vaishnaw said on Friday as he walked through the evening crowds at New Delhi Railway Station.
 
 The extra trains cover Durga Puja, Diwali and Chhath, the three festivals that send millions of workers in Delhi and other big cities home to their villages. Several trains that ran as specials in earlier years have now been **made regular services**, the minister said.
 

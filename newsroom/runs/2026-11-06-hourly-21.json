@@ -1,0 +1,30 @@
+{
+ "run": "hourly-21",
+ "start": "2026-11-06T21:05:49+05:30",
+ "end": "2026-11-06T21:43:56+05:30",
+ "summary": "Amit Shah Police Colour lead, Railways festive specials, 5 stories, 2 held",
+ "new": [
+  "amit-shah-presidents-police-colour-uttarakhand-police",
+  "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+  "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+  "railways-18000-festive-special-trains",
+  "rain-industries-q3-profit-243-crore-interim-dividend"
+ ],
+ "held": [
+  "data-patterns-q2-profit-21-97-crore-revenue-133-crore",
+  "delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+   "why": "The body says 'Conway, 34' (Hindi: '34 साल के कॉनवे'). Devon Conway was born on July 8, 1991, so he is 35, and the listed source (Outlook India) also gives his age as 35.",
+   "done": "age changed from 34 to 35 in English and Hindi"
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
+ ],
+ "lead": "amit-shah-presidents-police-colour-uttarakhand-police"
+}

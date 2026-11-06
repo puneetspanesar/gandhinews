@@ -70,7 +70,7 @@ infographic:
 
 New Zealand will play the rest of their one-day series against India **without Devon Conway**. On the eve of Saturday's second ODI in Wellington, the hosts confirmed that the opener's concussion, suffered in a training collision in Auckland, has ended his part in the five-match series.
 
-Conway, 34, was hurt in a collision with fast bowler Matt Henry during a session at Eden Park the day before the first ODI. With his concussion symptoms persisting, the medical staff ruled him out of **all four remaining matches**.
+Conway, 35, was hurt in a collision with fast bowler Matt Henry during a session at Eden Park the day before the first ODI. With his concussion symptoms persisting, the medical staff ruled him out of **all four remaining matches**.
 
 ## Kelly comes in early
 
