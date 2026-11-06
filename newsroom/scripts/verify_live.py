@@ -8,7 +8,7 @@ Checks:
   runs       a run record (newsroom/runs/) or a run commit in the last 75 minutes between 7 am and midnight
   freshness  check_fresh.py on main's homepage (lead, headlines, clock figures, the site moving every hour)
   homepage   the live English and Hindi homepages show main's lead headline, and no camera placeholders or broken images
-  held       picture holds whose picture now exists, and holds over 12 hours old
+  held       picture holds whose picture now exists, and holds over 48 hours old
 """
 import json, os, re, subprocess, sys, time, urllib.request, datetime as dt
 GN_ROOT = os.environ.get('GN_ROOT') or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + '/'
@@ -68,7 +68,7 @@ for lang, url in (('en', 'https://gandhinews.com/'), ('hi', 'https://gandhinews.
 
 h = sh(sys.executable, 'newsroom/scripts/held.py', 'list').stdout
 for l in h.splitlines():
-    if 'republish' in l or (re.search(r'\| (\d+\.\d)h \|', l) and float(re.search(r'\| (\d+\.\d)h \|', l).group(1)) > 12):
+    if 'republish' in l or (re.search(r'\| (\d+\.\d)h \|', l) and float(re.search(r'\| (\d+\.\d)h \|', l).group(1)) > 48):
         bad.append('held: ' + l)
 
 if bad:

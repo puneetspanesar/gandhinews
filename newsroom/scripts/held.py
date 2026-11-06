@@ -3,7 +3,7 @@
   python3 newsroom/scripts/held.py hold <id> <picture|facts|other> "<why>"   take a story off the site (both languages)
   python3 newsroom/scripts/held.py republish <id>             put it back (only once the reason is fixed: a picture hold
                                                               needs its main picture in content/photos.map.json)
-  python3 newsroom/scripts/held.py expire                     delete holds older than 12 hours (that news is gone)
+  python3 newsroom/scripts/held.py expire                     delete holds older than 48 hours (picture holds are worth fixing for two days: the story still belongs in its section and archive)
 Every run does `list` and `expire` at the start, and republishes picture holds whose picture now exists.
 """
 import json, os, sys, glob, shutil, subprocess, datetime as dt
@@ -62,7 +62,7 @@ elif cmd == 'republish':
 elif cmd == 'expire':
     for f in glob.glob(f'{H}/en/*.md'):
         i = os.path.basename(f)[:-3]; d = info(i)
-        if (now - dt.datetime.fromisoformat(d['held_at'])).total_seconds() > 12 * 3600:
+        if (now - dt.datetime.fromisoformat(d['held_at'])).total_seconds() > 48 * 3600:
             for p in [f'{H}/en/{i}.md', f'{H}/hi/{i}.md', f'{H}/{i}.json', f'{H}/{i}.type']:
                 if os.path.exists(p): subprocess.run(['git', 'rm', '-q', '-f', p], capture_output=True); os.path.exists(p) and os.remove(p)
             print(f'expired {i}')
