@@ -1,0 +1,22 @@
+{
+  "k1": {
+    "query": "M. M. Sundresh",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Justice MM Sundresh.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Justice_MM_Sundresh.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Justice_MM_Sundresh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 400,
+        "height": 478,
+        "licence": "GODL-India",
+        "author": "Supreme Court of India",
+        "credit": "https://www.sci.gov.in/chief-justice-judges",
+        "date": "2021-09-08 22:15:17",
+        "description": "Justice MM Sundresh is a Judge of Supreme Court of India",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/1/15/Justice_MM_Sundresh.jpg"
+      }
+    ]
+  }
+}
