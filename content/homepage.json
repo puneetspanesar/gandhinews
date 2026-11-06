@@ -1,665 +1,672 @@
 {
- "lead": {
-  "id": "delhi-grap-stage-three-aqi-382-caqm",
-  "overlay": {
-   "kicker": {
-    "en": "States / Delhi",
-    "hi": "राज्य / दिल्ली"
-   },
-   "value": {
-    "en": "Delhi AQI 382: GRAP Stage III is back",
-    "hi": "एक्यूआई 382: ग्रैप-3 फिर लागू"
-   },
-   "text": {
-    "en": "",
-    "hi": ""
-   }
+  "lead": {
+    "id": "saini-chowkidar-honorarium-15221-rahul-apology",
+    "overlay": {
+      "kicker": {
+        "en": "States / Haryana",
+        "hi": "राज्य / हरियाणा"
+      },
+      "value": {
+        "en": "38% raise for village watchmen",
+        "hi": "चौकीदारों का मानदेय 38% बढ़ा"
+      },
+      "text": {
+        "en": "",
+        "hi": ""
+      }
+    },
+    "dataBox": [],
+    "relatedBelow": [
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
+    ],
+    "relatedBeside": [
+      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+      "ugc-equity-regulations-explained-caste-discrimination-campuses",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc"
+    ],
+    "live": {
+      "title": {
+        "en": "Haryana",
+        "hi": "हरियाणा"
+      }
+    }
   },
-  "dataBox": [],
-  "relatedBelow": [],
-  "relatedBeside": [
-   "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-   "iran-hands-us-nuclear-proposal-seven-demands",
-   "navy-receives-amini-anti-submarine-shallow-water-craft",
-   "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-   "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
-  ],
-  "live": {
-   "title": {
-    "en": "Delhi",
-    "hi": "दिल्ली"
-   }
-  }
- },
- "briefing": {
-  "items": [
-   {
-    "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-    "lead": {
-     "en": "Himachal Pradesh:",
-     "hi": "हिमाचल प्रदेश:"
-    },
-    "text": {
-     "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
-     "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
-    }
-   },
-   {
-    "link": "iran-hands-us-nuclear-proposal-seven-demands",
-    "lead": {
-     "en": "Middle East:",
-     "hi": "पश्चिम एशिया:"
-    },
-    "text": {
-     "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
-     "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
-    }
-   },
-   {
-    "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
-    "lead": {
-     "en": "Defence:",
-     "hi": "रक्षा:"
-    },
-    "text": {
-     "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
-     "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
-    }
-   },
-   {
-    "link": "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-    "lead": {
-     "en": "RBI:",
-     "hi": "आरबीआई:"
-    },
-    "text": {
-     "en": "Forex reserves fall for an eighth week, by $2.69 billion to $717 billion",
-     "hi": "विदेशी मुद्रा भंडार लगातार आठवें हफ्ते घटा, 2.69 अरब डॉलर गिरकर 717 अरब डॉलर पर"
-    }
-   },
-   {
-    "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-    "lead": {
-     "en": "Electoral rolls:",
-     "hi": "मतदाता सूची:"
-    },
-    "text": {
-     "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
-     "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
-    }
-   },
-   {
-    "link": "sc-up-under-trials-bail-release-all-75-districts",
-    "lead": {
-     "en": "Supreme Court:",
-     "hi": "सुप्रीम कोर्ट:"
-    },
-    "text": {
-     "en": "Supreme Court tells UP to free under-trials who got bail but are still in jail, in all 75 districts",
-     "hi": "जमानत के बाद भी जेल में बंद विचाराधीन कैदियों को रिहा करे यूपी: सुप्रीम कोर्ट, सभी 75 जिलों पर लागू आदेश"
-    }
-   },
-   {
-    "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-    "lead": {
-     "en": "Shooting:",
-     "hi": "निशानेबाज़ी:"
-    },
-    "text": {
-     "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
-     "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
-    }
-   },
-   {
-    "link": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-    "lead": {
-     "en": "Andhra Pradesh:",
-     "hi": "आंध्र प्रदेश:"
-    },
-    "text": {
-     "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
-     "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
-    }
-   }
-  ]
- },
- "numbers": {
-  "tracker": "economy-dashboard",
-  "items": [
-   {
-    "indicator": "gdp-growth",
-    "icon": "trend-up",
-    "label": {
-     "en": "GDP growth",
-     "hi": "जीडीपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "cpi-inflation",
-    "icon": "shopping-cart",
-    "highlight": true,
-    "label": {
-     "en": "CPI inflation",
-     "hi": "सीपीआई महंगाई"
-    },
-    "decimals": 2
-   },
-   {
-    "indicator": "unemployment",
-    "icon": "briefcase",
-    "label": {
-     "en": "Unemployment",
-     "hi": "बेरोज़गारी"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "iip-growth",
-    "icon": "factory",
-    "label": {
-     "en": "IIP growth",
-     "hi": "आईआईपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "repo-rate",
-    "icon": "bank",
-    "decimals": 2,
-    "label": {
-     "en": "Repo rate",
-     "hi": "रेपो रेट"
-    }
-   },
-   {
-    "indicator": "fiscal-deficit-pct-be",
-    "icon": "chart-bar",
-    "highlight": true,
-    "label": {
-     "en": "Fiscal deficit used",
-     "hi": "राजकोषीय घाटा (बजट का)"
-    },
-    "decimals": 1
-   }
-  ]
- },
- "topStories": {
-  "big": {
-   "id": "sc-up-under-trials-bail-release-all-75-districts",
-   "also": []
-  },
-  "list": [
-   "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-   "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-   "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-   "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-   "supreme-court-contempt-notice-kerala-congress-x-post-cji"
-  ],
-  "also": [
-   "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-   "hindalco-q2-profit-59-per-cent-7533-crore-record"
-  ]
- },
- "startHere": [
-  "foreign-investors-return-explained-fii-dii-sensex-rally",
-  "suspension-of-sentence-explained-tejpal-supreme-court",
-  "24-hour-rule-explained-article-22-detention-arrest",
-  "ugc-equity-regulations-explained-caste-discrimination-campuses",
-  "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-  "fast-track-special-courts-explained-rape-pocso-backlog"
- ],
- "trackers": [
-  {
-   "id": "bills-in-parliament-tracker",
-   "title": {
-    "en": "Bills in Parliament",
-    "hi": "संसद में विधेयक"
-   }
-  },
-  {
-   "id": "economy-dashboard",
-   "title": {
-    "en": "Economy dashboard",
-    "hi": "अर्थव्यवस्था डैशबोर्ड"
-   }
-  },
-  {
-   "id": "election-calendar",
-   "title": {
-    "en": "Election calendar",
-    "hi": "चुनाव कैलेंडर"
-   }
-  },
-  {
-   "id": "budget-2026-27-promise-tracker",
-   "title": {
-    "en": "Budget promises",
-    "hi": "बजट के वादे"
-   }
-  },
-  {
-   "id": "sc-cases-tracker",
-   "title": {
-    "en": "Big Supreme Court cases",
-    "hi": "सुप्रीम कोर्ट के बड़े मामले"
-   }
-  }
- ],
- "dataDesk": {
-  "map": {
-   "tracker": "election-calendar",
-   "topic": "elections-2027",
-   "kicker": {
-    "en": "Elections 2027",
-    "hi": "चुनाव 2027"
-   },
-   "title": {
-    "en": "{n} states vote in 2027",
-    "hi": "2027 में {n} राज्यों में चुनाव"
-   },
-   "text": {
-    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-   }
-  },
-  "parliament": {
-   "tracker": "bills-in-parliament-tracker",
-   "session": "monsoon-2026",
-   "bills": [
-    "fcra-amendment-2026",
-    "indian-statistical-institute-2026",
-    "supreme-court-number-of-judges-amendment-2026",
-    "mmdr-amendment-2026",
-    "kerala-alteration-of-name-2026"
-   ]
-  }
- },
- "factCheck": {
-  "cards": [
-   "jairam-ramesh-upi-charges-above-2000-claim",
-   "kejriwal-e20-trump-pressure-ethanol-claim",
-   "ai-brics-selfie-modi-putin-xi-raisi"
-  ]
- },
- "explained": [
-  {
-   "id": "imf-world-economic-outlook-explained-india-rbi",
-   "kn": [
-    {
-     "value": {
-      "en": "7%",
-      "hi": "7%"
-     },
-     "label": {
-      "en": "IMF forecast for India, this year",
-      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-     }
-    },
-    {
-     "value": {
-      "en": "7.1%",
-      "hi": "7.1%"
-     },
-     "label": {
-      "en": "RBI's own forecast",
-      "hi": "आरबीआई का अपना अनुमान"
-     }
-    }
-   ]
-  },
-  {
-   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-   "kn": [
-    {
-     "value": {
-      "en": "11.39%",
-      "hi": "11.39%"
-     },
-     "label": {
-      "en": "wholesale inflation, September",
-      "hi": "थोक महंगाई, सितंबर"
-     }
-    },
-    {
-     "value": {
-      "en": "5.54%",
-      "hi": "5.54%"
-     },
-     "label": {
-      "en": "retail inflation, September",
-      "hi": "खुदरा महंगाई, सितंबर"
-     }
-    }
-   ]
-  },
-  {
-   "id": "repo-rate-and-your-emi-explained",
-   "kn": [
-    {
-     "value": {
-      "en": "₹781",
-      "hi": "₹781"
-     },
-     "label": {
-      "en": "extra EMI a month, ₹50 lakh loan",
-      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-     }
-    },
-    {
-     "value": {
-      "en": "₹1.87 lakh",
-      "hi": "₹1.87 लाख"
-     },
-     "label": {
-      "en": "extra over 20 years",
-      "hi": "20 साल में ज़्यादा भुगतान"
-     }
-    }
-   ]
-  }
- ],
- "opinion": [
-  "khunti-crash-night-highways-need-lights-and-speed-checks",
-  "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-  "ugc-equity-rules-revise-them-do-not-bury-them",
-  "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-  "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
- ],
- "sections": [
-  {
-   "section": "politics",
-   "module": {
-    "type": "bypolls",
-    "article": "bypoll-results-ruling-parties-win-all-six-seats"
-   },
-   "list": [
-    "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-    "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-    "sc-up-under-trials-bail-release-all-75-districts"
-   ],
-   "lead": "supreme-court-contempt-notice-kerala-congress-x-post-cji"
-  },
-  {
-   "section": "economy",
-   "lead": "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-   "module": {
-    "type": "markets",
-    "indicators": [
-     "sensex",
-     "nifty-50",
-     "usd-inr",
-     "forex-reserves"
+  "briefing": {
+    "items": [
+      {
+        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
+          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+        }
+      },
+      {
+        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
+          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+        }
+      },
+      {
+        "link": "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "lead": {
+          "en": "Education:",
+          "hi": "शिक्षा:"
+        },
+        "text": {
+          "en": "UGC equity rules explained: what the caste discrimination regulations say and why they are on hold",
+          "hi": "यूजीसी के समानता नियम: कैंपस में जातिगत भेदभाव पर नियम क्या कहते हैं और क्यों रुके हैं"
+        }
+      },
+      {
+        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
+          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
+        }
+      },
+      {
+        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
+          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
+        }
+      },
+      {
+        "link": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "lead": {
+          "en": "Inflation:",
+          "hi": "महंगाई:"
+        },
+        "text": {
+          "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
+          "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
+        }
+      },
+      {
+        "link": "hosur-factory-concrete-structure-collapse-three-workers-killed",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Three workers killed as concrete structure collapses at Hosur factory site",
+          "hi": "होसुर में फैक्टरी निर्माण स्थल पर कंक्रीट ढांचा गिरा, तीन मजदूरों की मौत"
+        }
+      },
+      {
+        "link": "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+        "lead": {
+          "en": "Welfare:",
+          "hi": "कल्याण योजनाएं:"
+        },
+        "text": {
+          "en": "Rahul Gandhi's claim that welfare will now go by voter ID, not Aadhaar, is misleading",
+          "hi": "योजनाओं का लाभ अब आधार नहीं, वोटर आईडी से मिलने का राहुल गांधी का दावा भ्रामक"
+        }
+      }
     ]
-   },
-   "list": [
-    "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-    "rupee-93-89-strongest-since-april-fii-record-buying",
-    "hindalco-q2-profit-59-per-cent-7533-crore-record",
-    "sensex-nifty-close-november-6-sensex-1718-nifty-25030"
-   ]
   },
-  {
-   "section": "states",
-   "lead": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-   "list": [
-    "delhi-grap-stage-three-aqi-382-caqm",
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam"
-   ]
+  "numbers": {
+    "tracker": "economy-dashboard",
+    "items": [
+      {
+        "indicator": "gdp-growth",
+        "icon": "trend-up",
+        "label": {
+          "en": "GDP growth",
+          "hi": "जीडीपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "cpi-inflation",
+        "icon": "shopping-cart",
+        "highlight": true,
+        "label": {
+          "en": "CPI inflation",
+          "hi": "सीपीआई महंगाई"
+        },
+        "decimals": 2
+      },
+      {
+        "indicator": "unemployment",
+        "icon": "briefcase",
+        "label": {
+          "en": "Unemployment",
+          "hi": "बेरोज़गारी"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "iip-growth",
+        "icon": "factory",
+        "label": {
+          "en": "IIP growth",
+          "hi": "आईआईपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "repo-rate",
+        "icon": "bank",
+        "decimals": 2,
+        "label": {
+          "en": "Repo rate",
+          "hi": "रेपो रेट"
+        }
+      },
+      {
+        "indicator": "fiscal-deficit-pct-be",
+        "icon": "chart-bar",
+        "highlight": true,
+        "label": {
+          "en": "Fiscal deficit used",
+          "hi": "राजकोषीय घाटा (बजट का)"
+        },
+        "decimals": 1
+      }
+    ]
   },
-  {
-   "section": "policy",
-   "lead": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-   "list": [
-    "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-    "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-    "sitharaman-tata-critical-component-settle-amicably-investors"
-   ]
+  "topStories": {
+    "big": {
+      "id": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+      "also": []
+    },
+    "list": [
+      "hosur-factory-concrete-structure-collapse-three-workers-killed",
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "fast-track-special-courts-explained-rape-pocso-backlog",
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+      "jharkhand-khunti-trailer-crowd-seven-killed"
+    ],
+    "also": [
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+      "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+    ]
   },
-  {
-   "section": "parliament",
-   "module": {
-    "type": "session",
-    "session": "monsoon-2026"
-   },
-   "list": [
-    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-    "brics-parliamentary-forum-delhi-special-session-talk",
-    "finance-ministry-idbi-2003-parliament-assurance-not-binding"
-   ]
-  }
- ],
- "desks": [
-  {
-   "section": "world",
-   "lead": "iran-hands-us-nuclear-proposal-seven-demands",
-   "list": [
-    "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-    "us-midterms-schumer-lower-costs-with-or-without-trump",
-    "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-    "us-midterms-democrats-230-house-seats-economy-hegseth-blame"
-   ]
-  },
-  {
-   "section": "science",
-   "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
-   "list": [
-    "apple-app-store-18-plus-dating-ai-companion-apps",
-    "aditya-l1-velc-asymmetric-cme-expansion-iia",
-    "apollo-slok-ai-zero-financial-payoff-sp-493",
-    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
-   ]
-  },
-  {
-   "section": "sports",
-   "lead": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-   "list": [
-    "india-u19-beat-nepal-asia-cup-al-amerat",
-    "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-    "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-    "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
-   ]
-  }
- ],
- "weekAhead": [
-  {
-   "icon": "calendar-blank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Men's U19 Asia Cup: India v Nepal in Al Amerat, 10:30 am IST",
-    "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम नेपाल, सुबह 10:30 बजे"
-   },
-   "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
-  },
-  {
-   "icon": "calendar-blank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Amit Shah addresses BJP rally at Dehradun's Parade Ground",
-    "hi": "देहरादून के परेड ग्राउंड में अमित शाह की भाजपा रैली"
-   },
-   "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
-  },
-  {
-   "icon": "calendar-blank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST",
-    "hi": "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"
-   },
-   "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
-  },
-  {
-   "icon": "calendar-blank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
-    "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
-   },
-   "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
-  },
-  {
-   "icon": "calendar-blank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Andhra parishad polls in five cyclone-hit mandals, repolls at two booths",
-    "hi": "आंध्र के पांच चक्रवात प्रभावित मंडलों में परिषद चुनाव, दो बूथों पर दोबारा मतदान"
-   },
-   "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
-  },
-  {
-   "icon": "calendar-blank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Rouse Avenue court hears plea for FIR against Sonia Gandhi over 1980 voter list",
-    "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
-   },
-   "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
-  }
- ],
- "headlineHistory": [
-  {
-   "at": "2026-11-06T13:41:04+05:30",
-   "ids": [
-    "amit-shah-dehradun-rally-speech-1475-crore-projects",
-    "andhra-parishad-polls-four-voters-two-poll-staff-die",
-    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-    "fast-track-special-courts-explained-rape-pocso-backlog",
-    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-    "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-    "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
-    "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
-   ]
-  },
-  {
-   "at": "2026-11-06T14:45:06+05:30",
-   "ids": [
-    "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-    "telangana-roll-revision-must-not-erase-voters-quietly",
-    "who-owns-trinamool-election-commission-symbol-dispute-explained",
-    "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-    "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
-    "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-    "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-    "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-    "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-    "joshi-renewable-investment-220-billion-500-gw-2030",
-    "jharkhand-khunti-trailer-crowd-seven-killed"
-   ]
-  },
-  {
-   "at": "2026-11-06T15:48:12+05:30",
-   "ids": [
-    "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-    "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-    "andhra-local-polls-must-start-with-free-nominations",
-    "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-    "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-    "india-u19-beat-nepal-asia-cup-al-amerat",
-    "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-    "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-    "amit-shah-dehradun-rally-speech-1475-crore-projects",
-    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-    "two-child-norm-explained-javed-ruling-larger-bench"
-   ]
-  },
-  {
-   "at": "2026-11-06T16:41:16+05:30",
-   "ids": [
-    "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
-    "sonia-gandhi-voter-list-case-additional-documents-november-18",
-    "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-    "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-    "cristiano-ronaldo-retires-international-football-portugal",
-    "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-    "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-    "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-    "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
-   ]
-  },
-  {
-   "at": "2026-11-06T17:26:10+05:30",
-   "ids": [
-    "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-    "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-    "hindalco-q2-profit-59-per-cent-7533-crore-record",
-    "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-    "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-    "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-    "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-    "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-    "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-    "ugc-equity-rules-revise-them-do-not-bury-them"
-   ]
-  },
-  {
-   "at": "2026-11-06T18:38:35+05:30",
-   "ids": [
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "saini-chowkidar-honorarium-15221-rahul-apology",
-    "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-    "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-    "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-    "rupee-93-89-strongest-since-april-fii-record-buying",
-    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-    "modi-meets-asian-para-games-medallists-delhi",
-    "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-    "khunti-crash-night-highways-need-lights-and-speed-checks",
+  "startHere": [
+    "foreign-investors-return-explained-fii-dii-sensex-rally",
     "suspension-of-sentence-explained-tejpal-supreme-court",
-    "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
-   ]
+    "24-hour-rule-explained-article-22-detention-arrest",
+    "ugc-equity-regulations-explained-caste-discrimination-campuses",
+    "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+    "fast-track-special-courts-explained-rape-pocso-backlog"
+  ],
+  "trackers": [
+    {
+      "id": "bills-in-parliament-tracker",
+      "title": {
+        "en": "Bills in Parliament",
+        "hi": "संसद में विधेयक"
+      }
+    },
+    {
+      "id": "economy-dashboard",
+      "title": {
+        "en": "Economy dashboard",
+        "hi": "अर्थव्यवस्था डैशबोर्ड"
+      }
+    },
+    {
+      "id": "election-calendar",
+      "title": {
+        "en": "Election calendar",
+        "hi": "चुनाव कैलेंडर"
+      }
+    },
+    {
+      "id": "budget-2026-27-promise-tracker",
+      "title": {
+        "en": "Budget promises",
+        "hi": "बजट के वादे"
+      }
+    },
+    {
+      "id": "sc-cases-tracker",
+      "title": {
+        "en": "Big Supreme Court cases",
+        "hi": "सुप्रीम कोर्ट के बड़े मामले"
+      }
+    }
+  ],
+  "dataDesk": {
+    "map": {
+      "tracker": "election-calendar",
+      "topic": "elections-2027",
+      "kicker": {
+        "en": "Elections 2027",
+        "hi": "चुनाव 2027"
+      },
+      "title": {
+        "en": "{n} states vote in 2027",
+        "hi": "2027 में {n} राज्यों में चुनाव"
+      },
+      "text": {
+        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+      }
+    },
+    "parliament": {
+      "tracker": "bills-in-parliament-tracker",
+      "session": "monsoon-2026",
+      "bills": [
+        "fcra-amendment-2026",
+        "indian-statistical-institute-2026",
+        "supreme-court-number-of-judges-amendment-2026",
+        "mmdr-amendment-2026",
+        "kerala-alteration-of-name-2026"
+      ]
+    }
   },
-  {
-   "at": "2026-11-06T19:33:54+05:30",
-   "ids": [
-    "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-    "andhra-parishad-polls-four-voters-two-poll-staff-die",
-    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-    "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+  "factCheck": {
+    "cards": [
+      "jairam-ramesh-upi-charges-above-2000-claim",
+      "kejriwal-e20-trump-pressure-ethanol-claim",
+      "ai-brics-selfie-modi-putin-xi-raisi"
+    ]
+  },
+  "explained": [
+    {
+      "id": "imf-world-economic-outlook-explained-india-rbi",
+      "kn": [
+        {
+          "value": {
+            "en": "7%",
+            "hi": "7%"
+          },
+          "label": {
+            "en": "IMF forecast for India, this year",
+            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+          }
+        },
+        {
+          "value": {
+            "en": "7.1%",
+            "hi": "7.1%"
+          },
+          "label": {
+            "en": "RBI's own forecast",
+            "hi": "आरबीआई का अपना अनुमान"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+      "kn": [
+        {
+          "value": {
+            "en": "11.39%",
+            "hi": "11.39%"
+          },
+          "label": {
+            "en": "wholesale inflation, September",
+            "hi": "थोक महंगाई, सितंबर"
+          }
+        },
+        {
+          "value": {
+            "en": "5.54%",
+            "hi": "5.54%"
+          },
+          "label": {
+            "en": "retail inflation, September",
+            "hi": "खुदरा महंगाई, सितंबर"
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo-rate-and-your-emi-explained",
+      "kn": [
+        {
+          "value": {
+            "en": "₹781",
+            "hi": "₹781"
+          },
+          "label": {
+            "en": "extra EMI a month, ₹50 lakh loan",
+            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+          }
+        },
+        {
+          "value": {
+            "en": "₹1.87 lakh",
+            "hi": "₹1.87 लाख"
+          },
+          "label": {
+            "en": "extra over 20 years",
+            "hi": "20 साल में ज़्यादा भुगतान"
+          }
+        }
+      ]
+    }
+  ],
+  "opinion": [
+    "khunti-crash-night-highways-need-lights-and-speed-checks",
+    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
     "ugc-equity-rules-revise-them-do-not-bury-them",
-    "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-    "joshi-renewable-investment-220-billion-500-gw-2030",
-    "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-    "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-    "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-    "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
-   ]
-  },
-  {
-   "at": "2026-11-06T20:39:55+05:30",
-   "ids": [
-    "delhi-grap-stage-three-aqi-382-caqm",
-    "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-    "iran-hands-us-nuclear-proposal-seven-demands",
-    "navy-receives-amini-anti-submarine-shallow-water-craft",
-    "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-    "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-    "sc-up-under-trials-bail-release-all-75-districts",
-    "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-    "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
-   ]
-  }
- ],
- "critical": []
+    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+  ],
+  "sections": [
+    {
+      "section": "politics",
+      "module": {
+        "type": "bypolls",
+        "article": "bypoll-results-ruling-parties-win-all-six-seats"
+      },
+      "list": [
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "sc-up-under-trials-bail-release-all-75-districts",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+      ],
+      "lead": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
+    },
+    {
+      "section": "economy",
+      "lead": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+      "module": {
+        "type": "markets",
+        "indicators": [
+          "sensex",
+          "nifty-50",
+          "usd-inr",
+          "forex-reserves"
+        ]
+      },
+      "list": [
+        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+        "rupee-93-89-strongest-since-april-fii-record-buying",
+        "hindalco-q2-profit-59-per-cent-7533-crore-record",
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030"
+      ]
+    },
+    {
+      "section": "states",
+      "lead": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+      "list": [
+        "delhi-grap-stage-three-aqi-382-caqm",
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "saini-chowkidar-honorarium-15221-rahul-apology"
+      ]
+    },
+    {
+      "section": "policy",
+      "lead": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "list": [
+        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+        "sitharaman-tata-critical-component-settle-amicably-investors"
+      ]
+    },
+    {
+      "section": "parliament",
+      "module": {
+        "type": "session",
+        "session": "monsoon-2026"
+      },
+      "list": [
+        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+        "brics-parliamentary-forum-delhi-special-session-talk",
+        "finance-ministry-idbi-2003-parliament-assurance-not-binding"
+      ]
+    }
+  ],
+  "desks": [
+    {
+      "section": "world",
+      "lead": "iran-hands-us-nuclear-proposal-seven-demands",
+      "list": [
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "us-midterms-schumer-lower-costs-with-or-without-trump",
+        "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+        "us-midterms-democrats-230-house-seats-economy-hegseth-blame"
+      ]
+    },
+    {
+      "section": "science",
+      "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "list": [
+        "apple-app-store-18-plus-dating-ai-companion-apps",
+        "aditya-l1-velc-asymmetric-cme-expansion-iia",
+        "apollo-slok-ai-zero-financial-payoff-sp-493",
+        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
+      ]
+    },
+    {
+      "section": "sports",
+      "lead": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+      "list": [
+        "india-u19-beat-nepal-asia-cup-al-amerat",
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
+      ]
+    }
+  ],
+  "weekAhead": [
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Andhra parishad polls in five cyclone-hit mandals, repolls at two booths",
+        "hi": "आंध्र के पांच चक्रवात प्रभावित मंडलों में परिषद चुनाव, दो बूथों पर दोबारा मतदान"
+      },
+      "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
+        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
+      },
+      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Rahul Gandhi meets Congress PCC presidents and CLP leaders in New Delhi",
+        "hi": "राहुल गांधी नई दिल्ली में कांग्रेस प्रदेश अध्यक्षों और विधायक दल नेताओं से मिलेंगे"
+      },
+      "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST",
+        "hi": "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"
+      },
+      "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Rouse Avenue court hears plea for FIR against Sonia Gandhi over 1980 voter list",
+        "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
+      },
+      "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
+        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
+      },
+      "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
+    }
+  ],
+  "headlineHistory": [
+    {
+      "at": "2026-11-06T14:45:06+05:30",
+      "ids": [
+        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "telangana-roll-revision-must-not-erase-voters-quietly",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "jharkhand-khunti-trailer-crowd-seven-killed"
+      ]
+    },
+    {
+      "at": "2026-11-06T15:48:12+05:30",
+      "ids": [
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+        "andhra-local-polls-must-start-with-free-nominations",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "india-u19-beat-nepal-asia-cup-al-amerat",
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+        "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+        "two-child-norm-explained-javed-ruling-larger-bench"
+      ]
+    },
+    {
+      "at": "2026-11-06T16:41:16+05:30",
+      "ids": [
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "cristiano-ronaldo-retires-international-football-portugal",
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+      ]
+    },
+    {
+      "at": "2026-11-06T17:26:10+05:30",
+      "ids": [
+        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "hindalco-q2-profit-59-per-cent-7533-crore-record",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "ugc-equity-rules-revise-them-do-not-bury-them"
+      ]
+    },
+    {
+      "at": "2026-11-06T18:38:35+05:30",
+      "ids": [
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "rupee-93-89-strongest-since-april-fii-record-buying",
+        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+        "modi-meets-asian-para-games-medallists-delhi",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "suspension-of-sentence-explained-tejpal-supreme-court",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
+      ]
+    },
+    {
+      "at": "2026-11-06T19:33:54+05:30",
+      "ids": [
+        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "ugc-equity-rules-revise-them-do-not-bury-them",
+        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+      ]
+    },
+    {
+      "at": "2026-11-06T20:39:55+05:30",
+      "ids": [
+        "delhi-grap-stage-three-aqi-382-caqm",
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "iran-hands-us-nuclear-proposal-seven-demands",
+        "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "sc-up-under-trials-bail-release-all-75-districts",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+      ]
+    },
+    {
+      "at": "2026-11-06T21:21:33+05:30",
+      "ids": [
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "hosur-factory-concrete-structure-collapse-three-workers-killed",
+        "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+      ]
+    }
+  ],
+  "critical": []
 }
