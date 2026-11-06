@@ -210,3 +210,13 @@ export function iconFor(d: any): string {
 
 /** Stories per page on section and hub listings (/politics/, /politics/page/2/, ...). */
 export const PER_PAGE = 40;
+
+/** Owner's rule: text is never cut off with dots. Whole sentences up to about `max` characters; the first sentence is
+ *  always kept whole, however long. Used wherever a standfirst has to be shorter in a small slot. */
+export function whole(text: unknown, max = 160): string {
+  const t = String(text ?? '').trim();
+  const parts = t.match(/[^.!?।]+[.!?।]+["'’”)]*(\s+|$)|[^.!?।]+$/g) || [t];
+  let out = '';
+  for (const s of parts) { if (out && (out + s).trim().length > max) break; out += s; }
+  return out.trim();
+}

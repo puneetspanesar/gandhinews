@@ -20,6 +20,7 @@ Pictures
 10. No source photo is used again within 7 days (`npm run -s check:photos`), and never twice at the top of the homepage.
 11. Infographics only for stories with no person or place to show (index levels, results tables, a policy with numbers), or when the finder truly found nothing. Numbers on a graphic must match the story; re-render it whenever the story's figures change.
 11a. NO PHOTO EXISTS: the library has no portrait, quick_photo nothing, the finder no correct candidate (or the only correct one is blocked by the 7-day rule). Then: `make_infographic.py <id> --nophoto "<what was searched>"`, and the story publishes. It never leads and never sits beside the lead (refresh_home.py puts pictured stories there; check_fresh.py records a breach otherwise); it can fill the top stories, briefing, sections and desks. The person goes into newsroom/library/people.tsv so the library run looks again, and audit.py's 24-hour upgrade list swaps the graphic for a photo once one is found.
+11b. TEXT IS NEVER CUT OFF WITH DOTS (owner's first rule, sacrosanct): no "..." or "…" ending a headline, standfirst, card, key point or overlay anywhere on the site. A short slot gets whole sentences (whole() in src/lib/site.ts); the build gate fails on clipping CSS and on homepage text ending in dots.
 12. Credits come from the photo's page, cleaned (gnrules.clean_credit). No "{{", "&amp;", licence boilerplate or uploader phrases.
 
 Homepage (refresh_home.py does the mechanics, check_fresh.py is the counter check)

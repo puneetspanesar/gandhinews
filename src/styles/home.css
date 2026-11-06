@@ -175,7 +175,7 @@
 :lang(hi) .home .fcc .vd{letter-spacing:0}
 .home .fcc .vd.v-misleading{background:transparent;color:#fff;border:1px solid #fff}
 .home .fcc .vd.v-mostly,.home .fcc .vd.v-true{background:var(--blk);color:#fff}
-.home .fcc h3{font-size:16px;margin-top:12px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.home .fcc h3{font-size:16px;margin-top:12px;line-height:1.3;}
 .home .fcc .who{font-size:12px;margin-top:8px}
 .home .fcc .wf{font-size:14px;line-height:1.45;margin-top:10px;margin-bottom:16px}
 .home .fcc .wf b{font-weight:600}

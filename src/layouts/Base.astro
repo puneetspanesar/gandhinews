@@ -93,7 +93,7 @@ const C = (await content())[lang];
 const trending = (HOME.briefing?.items ?? []).map((b: any) => {
   const e: any = C.all.get(b.link);
   return e ? { label: String(b.lead[lang]).replace(/[:：]\s*$/, ''), href: urlOf(e.data) } : null;
-}).filter(Boolean).slice(0, 7);
+}).filter((x: any, i: number, all: any[]) => x && all.findIndex((y: any) => y && y.label === x.label) === i).slice(0, 7);  // one link per label
 
 const breadcrumbLd = crumbs.length
   ? {
@@ -348,7 +348,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         var li = document.createElement('li'), a = document.createElement('a'); a.href = d.url;
         var k = document.createElement('span'); k.className = 'k'; k.textContent = (d.meta && d.meta.format) || '';
         var h = document.createElement('b'); h.textContent = (d.meta && d.meta.title) || d.url;
-        var x = document.createElement('span'); x.className = 'x'; x.innerHTML = d.excerpt;
+        var x = document.createElement('span'); x.className = 'x'; x.textContent = (d.meta && d.meta.sf) || '';  // whole sentences, never a clipped excerpt with dots
         a.append(k, h, x); li.append(a); res.append(li);
       });
       msg.textContent = D.lNone; msg.hidden = data.length > 0;

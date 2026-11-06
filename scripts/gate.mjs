@@ -6,6 +6,7 @@
 //   no template junk on any page ({{, &amp;amp;, undefined, NaN, [object Object], Invalid Date)
 //   no em dash, and in English no day-month date, in the title, standfirst or text of anything published in the last 48 hours
 //   the homepage shows its lead, in English and Hindi
+//   no text cut off with dots: no line-clamp or ellipsis CSS, no card text ending in ... on the homepages
 // Then writes dist/build.json ({sha, built}) so anyone can see which commit is live.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -78,6 +79,20 @@ let pages = 0;
     }
   }
 })('dist');
+// Owner's rule (sacrosanct): text is never cut off with dots. No CSS that clips text (line-clamp, text-overflow) and no
+// dots at the end of a card's text on the homepages; a short slot gets whole sentences (whole() in src/lib/site.ts).
+(function css(dir) {
+  for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, f.name);
+    if (f.isDirectory()) { if (f.name !== 'pagefind') css(p); }  // pagefind ships its own unused UI stylesheet
+    else if (f.name.endsWith('.css') && /line-clamp|text-overflow\s*:\s*ellipsis/.test(read(p))) fail('CSS clips text with dots (line-clamp or text-overflow: ellipsis)', p);
+  }
+})('dist');
+for (const page of ['dist/index.html', 'dist/hi/index.html']) {
+  const html = (read(page) ?? '').replace(/<script[\s\S]*?<\/script>/g, '').replace(/<style[\s\S]*?<\/style>/g, '');
+  for (const m of html.matchAll(/>([^<>]{0,80}(?:\u2026|\.\.\.))\s*</g)) fail('text cut off with dots on the homepage', `${page}: "${m[1].trim().slice(-60)}"`);
+  if (/line-clamp|text-overflow\s*:\s*ellipsis/.test(html)) fail('inline CSS clips text with dots', page);
+}
 const home = JSON.parse(read('content/homepage.json'));
 for (const [lang, page] of [['en', 'dist/index.html'], ['hi', 'dist/hi/index.html']]) {
   const src = read(`content/${lang}/news/${home.lead.id}.md`) ?? '';

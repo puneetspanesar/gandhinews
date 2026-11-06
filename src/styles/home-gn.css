@@ -129,7 +129,7 @@
 .gn .mk-mv h4{margin:0 0 6px;font-size:14px;font-weight:700}
 .gn .mk-mv ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
 .gn .mk-mv li{display:grid;grid-template-columns:minmax(0,1fr) 72px 64px;align-items:center;gap:10px;font-size:14px;font-weight:600}
-.gn .mk-mv li span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.gn .mk-mv li span{}
 .gn .mk-mv li i{grid-column:2;height:8px;display:block;justify-self:start}
 .gn .mk-mv li i.u,.gn .mk-fl i.u{background:var(--u)}.gn .mk-mv li i.d,.gn .mk-fl i.d{background:var(--d)}
 .gn .mk-mv li b{grid-column:3;text-align:right}
@@ -172,4 +172,4 @@
 
 .gn .g-ft{margin:0 0 4px;font-size:14px;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:.04em}
 
-.gn .g-clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.gn .g-clamp{}
