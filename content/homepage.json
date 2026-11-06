@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "id": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "States / Himachal Pradesh",
+        "hi": "राज्य / हिमाचल प्रदेश"
       },
       "value": {
-        "en": "₹1,919 crore of cyclone damage",
-        "hi": "चक्रवात से 1,919 करोड़ का नुकसान"
+        "en": "11,973 MU over 20 years",
+        "hi": "20 साल में 11,973 मिलियन यूनिट"
       },
       "text": {
         "en": "",
@@ -17,112 +17,112 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "saini-chowkidar-honorarium-15221-rahul-apology",
-      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-      "haryana-9880-crore-paddy-farmers-beekeepers-insurance"
+      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+      "sangareddy-pharma-deaths-need-inspections-not-compensation",
+      "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers"
     ],
     "relatedBeside": [
-      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-      "rupee-93-89-strongest-since-april-fii-record-buying",
-      "sonia-gandhi-voter-list-case-additional-documents-november-18",
-      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence"
+      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+      "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Himachal Pradesh",
+        "hi": "हिमाचल प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "lead": {
+          "en": "Electoral rolls:",
+          "hi": "मतदाता सूची:"
+        },
+        "text": {
+          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
+          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
+        }
+      },
+      {
+        "link": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra parishad polls: final turnout rises to 70.72%, Visakhapatnam tops at 82.51%",
+          "hi": "आंध्र परिषद चुनाव: अंतिम मतदान 70.72%, विशाखापत्तनम 82.51% के साथ सबसे आगे"
+        }
+      },
+      {
+        "link": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "lead": {
+          "en": "Jammu and Kashmir:",
+          "hi": "जम्मू और कश्मीर:"
+        },
+        "text": {
+          "en": "Farooq Abdullah says no one can break the National Conference after meeting upset MLAs",
+          "hi": "नाराज़ विधायकों से मिलने के बाद फ़ारूक़ अब्दुल्ला बोले, नेशनल कॉन्फ़्रेंस को कोई नहीं तोड़ सकता"
+        }
+      },
+      {
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+        }
+      },
+      {
+        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
+          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
+        }
+      },
+      {
+        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Luca Van Assche beats Rinky Hijikata to reach first Masters 1000 semi-final, meets Ben Shelton",
-          "hi": "लुका वान असे ने रिंकी हिजिकाता को हराकर पहला मास्टर्स 1000 सेमीफाइनल खेलने का मौका पाया, सामने बेन शेल्टन"
+          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
+          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
         }
       },
       {
-        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
+        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
-          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
+          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
+          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
         }
       },
       {
-        "link": "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "link": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Sonia Gandhi voter list case: court lets complainant file more documents, next hearing November 18",
-          "hi": "सोनिया गांधी मतदाता सूची मामला: शिकायतकर्ता को और दस्तावेज देने की छूट, अगली सुनवाई 18 नवंबर को"
-        }
-      },
-      {
-        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
-          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
-        }
-      },
-      {
-        "link": "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court refuses to suspend Tarun Tejpal's 10-year sentence in 2013 rape case",
-          "hi": "सुप्रीम कोर्ट ने 2013 के बलात्कार मामले में तरुण तेजपाल की 10 साल की सजा निलंबित करने से इनकार किया"
-        }
-      },
-      {
-        "link": "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Tanvi Patri, 15, wins India's first Youth Olympics medal in women's badminton",
-          "hi": "15 साल की तन्वी पात्री ने यूथ ओलंपिक में रजत जीतकर रचा इतिहास"
-        }
-      },
-      {
-        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
-          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
-        }
-      },
-      {
-        "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The seven who died in Khunti had stopped to help. Jharkhand's rural roads need lights, speed checks and a safe way to rescue",
-          "hi": "खूंटी में जान गंवाने वाले सात लोग मदद के लिए रुके थे। झारखंड की ग्रामीण सड़कों को रोशनी, रफ्तार पर लगाम और सुरक्षित बचाव का तरीका चाहिए"
+          "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
+          "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
         }
       }
     ]
@@ -190,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+      "id": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
       "also": []
     },
     "list": [
-      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-      "khunti-crash-night-highways-need-lights-and-speed-checks",
-      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-      "hindalco-q2-profit-59-per-cent-7533-crore-record"
+      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+      "suspension-of-sentence-explained-tejpal-supreme-court",
+      "ugc-equity-rules-revise-them-do-not-bury-them"
     ],
     "also": [
-      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "delhi-grap-stage-three-aqi-382-caqm"
     ]
   },
   "startHere": [
@@ -497,10 +497,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
-        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
+        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
       },
-      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+      "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
     },
     {
       "icon": "calendar-blank",
@@ -509,10 +509,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
-        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
+        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
+        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
       },
-      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
     },
     {
       "icon": "calendar-blank",
@@ -539,20 +539,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T16:41:16+05:30",
-      "ids": [
-        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
-        "sonia-gandhi-voter-list-case-additional-documents-november-18",
-        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "cristiano-ronaldo-retires-international-football-portugal",
-        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-        "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
-      ]
-    },
     {
       "at": "2026-11-06T17:26:10+05:30",
       "ids": [
@@ -658,6 +644,23 @@
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
         "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "khunti-crash-night-highways-need-lights-and-speed-checks"
+      ]
+    },
+    {
+      "at": "2026-11-07T03:06:56+05:30",
+      "ids": [
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+        "sangareddy-pharma-deaths-need-inspections-not-compensation",
+        "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers",
+        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
       ]
     }
   ],
