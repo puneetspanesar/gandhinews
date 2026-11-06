@@ -131,7 +131,8 @@ for n, sid in enumerate(ids, 1):
     sheet = sheet.crop((0, 0, W, min(sheet.height, y + 20)))
     out = f'{OUT}story-{n:02d}.jpg'; sheet.save(out, quality=82)
     paths = [f'{R}content/{lg}/{d.get("type", "news")}/{sid}.md' for lg in ('en', 'hi')]
-    lines.append(f'story-{n:02d}.jpg  {sid}  text: {paths[0]}  {paths[1]}')
+    np_ = (M.get(sid) or {}).get('nophoto')
+    lines.append(f'story-{n:02d}.jpg  {sid}  text: {paths[0]}  {paths[1]}' + (f'  NOPHOTO: {np_}' if np_ else ''))
 import secrets
 nonce = secrets.token_hex(4)
 open(OUT + 'list.txt', 'w').write('\n'.join(lines) + f'\nNONCE {nonce}\n(copy this nonce into editor.json as "nonce")\n')

@@ -1,0 +1,25 @@
+{
+ "run": "stall-12",
+ "start": "2026-11-06T12:53:33+05:30",
+ "end": "2026-11-06T13:22:28+05:30",
+ "summary": "Lead off the thrice-led Andhra story, stale cards dropped; LIC held again on facts",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "lic-q2-profit-12115-crore-up-20-per-cent",
+   "kind": "facts",
+   "why": "The VNB figures (up 61% to Rs 3,136 crore, margin 22.9% from 15.4%) and the 'higher investment income' driver come from the part of the IANS piece that recaps the PREVIOUS quarter (the paragraph starting 'Meanwhile, in previous quarter... Rs 13,492 crore'). They are not stated for July-September. The 15.4% base matches LIC's April-June 2025 VNB margin, which points to these being April-June 2026 figures. IANS says the Q2 profit was 'driven by growth in premium collections and an improvement in asset quality'. The standfirst, the third key point, the 'New policies earn more' section, the closing 'main drivers' line, the infographic VNB stat, the SEO description and the Hindi twin all repeat the misattributed numbers.",
+   "fix": "Confirm the Q2 VNB and margin from LIC's BSE/NSE filing or investor presentation. If they cannot be confirmed, remove VNB and margin from the standfirst, key points, body, infographic and SEO in both languages. Rewrite the drivers line to match the source (premium growth and better asset quality), and drop the investment-income claim unless the filing backs it."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+  "in the top five at 10:40 as well: the lead and the four beside it never repeat within 6 hours: trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+  "in the top five at 07:44 as well: the lead and the four beside it never repeat within 6 hours: trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+ ],
+ "lead": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+}

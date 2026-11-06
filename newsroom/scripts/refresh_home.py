@@ -112,16 +112,20 @@ if _pending_lead:
     if not allowed(a.lead): sys.exit(f'{a.lead} led or was in the headlines at {_at(prev):%H:%M}: headlines change every hour (update it and pass --critical, or lead with a new story)')
     set_lead(a.lead)
 lead = L['id']
-fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600  # 7, so it is still under 8 an hour later and not is_markets(d['id'], d) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
+# under 7 hours, so it is still under 8 an hour later; never markets, never an infographic, never a stale clock figure
+fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
 bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
     same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
     if same: print(f'lead {lead} is an infographic; {same[0]} (same story, real photo) leads instead'); set_lead(same[0]); lead = same[0]
+if not bad and not a.lead and PIC.get(lead, {}).get('graphic'): bad = 'an infographic (a pictured story leads when one exists)'
 if bad and not a.lead:
     # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
     PRIO = {'politics': 0, 'national': 0, 'states': 0, 'india': 0, 'world': 1, 'sports': 2, 'science': 2, 'tech': 2, 'economy': 3}
-    cand = sorted([i for i in newest(fresh_photo) if allowed(i) and (i not in led or i in a.critical) and i not in core6], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i) and i not in led and i not in core6]
+    cand = sorted([i for i in newest(fresh_photo) if allowed(i) and (i not in led or i in a.critical) and i not in core6], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp()))
+    # fallbacks, best first: a pictured story that was beside the lead in the last 6 hours (it never led), then an infographic story
+    cand = cand or [i for i in newest(fresh_photo) if allowed(i) and i not in led] or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i) and i not in led and i not in core6]
     if cand:
         print(f'lead {lead} replaced ({bad}) by {cand[0]}'); set_lead(cand[0]); lead = cand[0]
     else:
@@ -155,11 +159,22 @@ for i in pool:
 nb = len(L.get('relatedBeside') or []) or 4
 # the four beside the lead: never in the lead or beside it in the last 6 hours (critical updates excepted)
 fresh_core = [i for i in taken if i not in core6 or (i in a.critical and allowed(i))]
+# a story showing an infographic never sits beside the lead while a pictured story is available (owner's rule: photos at the top)
+fresh_core = [i for i in fresh_core if not PIC.get(i, {}).get('graphic')] + [i for i in fresh_core if PIC.get(i, {}).get('graphic')]
 beside = fresh_core[:nb]
 if len(beside) < nb: print(f'WARNING: only {len(beside)} stories not in the top five in the last 6 hours: publish more stories this run'); beside += [i for i in taken if i not in beside][:nb - len(beside)]
 L['relatedBeside'] = beside
 rest = [i for i in taken if i not in beside]
 taken = beside + rest
+# moving pictured stories beside the lead can put a third story of one section into the top eight: push the extra ones down
+for _ in range(len(taken)):
+    cnt, mv = {}, None
+    for k, i in enumerate(taken[:8]):
+        s_ = A[i].get('section') or A[i]['type']; cnt[s_] = cnt.get(s_, 0) + 1
+        if cnt[s_] > 2 and k >= nb: mv = k; break
+    if mv is None: break
+    x = taken.pop(mv); taken.insert(8, x)
+rest = taken[len(beside):]
 h['topStories'] = {'big': {'id': rest[0], 'also': []}, 'list': rest[1:6], 'also': rest[6:8]} if rest else h['topStories']
 
 def short(lbl): return (lbl.split('/')[-1].strip() or lbl) + ':'

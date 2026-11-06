@@ -65,6 +65,9 @@ for name, part in [('live band', h['lead'].get('relatedBelow')), ('beside lead',
     for i in ids(part):
         if P[i]['type'] == 'news' and age(i) > 24: flag(f'{name}: over 24 hours old', i, age(i))
 
+for i in ids(h['lead'].get('relatedBeside')):
+    if (M.get(i) or {}).get('graphic'): soft.append(('beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first)', i, 0))
+
 heads = []
 ts = h.get('topStories') or {}
 for part in [h['lead'].get('relatedBeside'), (ts.get('big') or {}).get('id'), ts.get('list'), ts.get('also'), h.get('briefing')]:

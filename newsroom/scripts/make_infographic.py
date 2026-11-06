@@ -6,6 +6,8 @@ renders four images and registers them as the story's main picture in content/ph
   public/photos/i-<id>-<lang>-1280.jpg / -640.jpg   16:9 cover (article hero, homepage 16:9 slots)
   public/photos/i-<id>-<lang>-3x2-1280.jpg / -640.jpg  3:2 card (lists and cards)
 --preview: render only, into /home/claude/gn-work/infographics/, no map change.
+--nophoto "<what was searched>": the story is about a person or event with no usable free photo (library, quick_photo and
+  the finder found none). Recorded in the map; such a story publishes but never leads or sits beside the lead.
 
 The `infographic:` block (both language files, each in its own language):
   kicker: "Q2 results"                       short red label
@@ -226,7 +228,8 @@ def render(jobs):
 
 
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    nophoto = sys.argv[sys.argv.index('--nophoto') + 1] if '--nophoto' in sys.argv else None
+    args = [a for a in sys.argv[1:] if not a.startswith('--') and a != nophoto]
     preview = '--preview' in sys.argv
     outdir = '/home/claude/gn-work/infographics/' if preview else R + 'public/photos/'
     os.makedirs(outdir, exist_ok=True)
@@ -248,7 +251,8 @@ def main():
                   'page': None, 'ihash': _ihash(gs), 'byLang': {'hi': {'src': u('hi', '-3x2')[0], 'src800': u('hi', '-3x2')[1]}},
                   'thumb': {'en': dict(zip(('src', 'src800'), u('en', '-t'))), 'hi': dict(zip(('src', 'src800'), u('hi', '-t')))},
                   'cover': {'width': 1280, 'height': 720, 'en': dict(zip(('src', 'src800'), u('en'))), 'hi': dict(zip(('src', 'src800'), u('hi')))}}
-        print(f'{sid}: infographic cover registered')
+        if nophoto: M[sid]['nophoto'] = nophoto
+        print(f'{sid}: infographic cover registered' + (' (no photo exists: kept out of the top five)' if nophoto else ''))
     if not preview:
         json.dump(M, open(R + 'content/photos.map.json', 'w'), ensure_ascii=False, indent=1)
 

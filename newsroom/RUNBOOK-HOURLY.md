@@ -8,7 +8,7 @@ Each run publishes 5 or 6 new news stories (at least 4; the homepage changes eve
 - 0 to 6: setup (a fresh container installs for 2 to 3 minutes), held stories, front-page check.
 - 6 to 22: desks write the stories and place their main pictures; then `audit.py --new` on them.
 - 22 to 28: pictures the desks could not place (C), and the markets work.
-- 28: picture deadline. Every story still without a correct main picture is held (`held.py hold <id> picture "..."`).
+- 28: picture deadline. Every story still without a correct main picture gets its infographic with `--nophoto` (RUNBOOK.md rule 11a) and publishes; it stays out of the top five.
 - 28 to 40: refresh_home and gate.sh (about 3 minutes), review_pack and the editor agent, apply_verdict, gate.sh again only if something was held or fixed.
 - by 45: publish.sh. If the gate still fails at 42, hold the failing stories and publish the rest. The run ALWAYS publishes, at the least a refreshed homepage and current markets figures, because the site must change every hour.
 
@@ -22,7 +22,7 @@ Write /home/claude/gn-work/window.txt with: the date and time now (`date`); the 
 3. world-business: world news with India angles, economy, companies, RBI and SEBI. 2 stories. At most one markets story per run, and only when the market really moved (Sensex or Nifty over 0.5%, or a big single stock); monthly sales figures as one roundup a day.
 4. sport-science: cricket first, other sport, science, tech, space, health, climate. 2 stories.
 That is 8 stories an hour, at least 5; the homepage needs them, because every headline changes every hour and the top five never repeat within 6 hours.
-PICTURES ARE THE DESK'S JOB, done before it hands back (run-brief.md "Main picture"): the people library first (`one_photo.py <id> --person "<name>"`, seconds), then quick_photo.py, then ONE finder call for whatever is left. The run then only checks the pictures and does the finder for anything a desk could not place.
+PICTURES ARE THE DESK'S JOB, done before it hands back (run-brief.md "Main picture"): the people library first (`one_photo.py <id> --person "<name>"`, seconds), then quick_photo.py, then ONE finder call for whatever is left, then the infographic with `--nophoto` (never a hold for want of a photo). The run then only checks the pictures and does the finder for anything a desk could not place.
 An event older than the window is not news; only a real new development of it is (new id). Desks put the event time in `verification.notes`.
 When they finish: `python3 newsroom/scripts/audit.py --new --skip photos,home,site,style` checks only the files this run wrote; it must pass (fix the file, or delete that story in both languages), then `git add content public/photos && git commit -q -m "desk HH"` locally. Never push here.
 
