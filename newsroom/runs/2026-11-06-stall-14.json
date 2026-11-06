@@ -1,0 +1,19 @@
+{
+ "run": "stall-14",
+ "start": "2026-11-06T14:49:53+05:30",
+ "end": "2026-11-06T14:49:53+05:30",
+ "summary": "Wrong Maaya photo removed, QF preview released with infographic, homepage refreshed for the missing 14:00 run",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): sensex-nifty-close-november-5-rally",
+  "already in the headlines at 13:41: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical): amit-shah-dehradun-rally-speech-1475-crore-projects",
+  "in the top five at 13:41 as well: the lead and the four beside it never repeat within 6 hours: amit-shah-dehradun-rally-speech-1475-crore-projects",
+  "led at 13:41 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): amit-shah-dehradun-rally-speech-1475-crore-projects",
+  "in the top five at 11:30 as well: the lead and the four beside it never repeat within 6 hours: sensex-nifty-close-november-5-rally"
+ ],
+ "lead": "amit-shah-dehradun-rally-speech-1475-crore-projects"
+}

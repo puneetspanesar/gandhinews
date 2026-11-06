@@ -40,6 +40,16 @@ verification:
   - '''Youngest Indian woman to win a professional singles title'' is the Bridge''s claim, not checked against ITF records.'
   - Ranking 1038 from the 11 Oct Bridge piece (pre-title ranking assumed). Quotes from the 12 Oct Bridge feature, which appear to be from an interview with her.
   - Nadal Academy departure is in the headline only; details not read, so not used.
+infographic:
+  kicker: "टेनिस"
+  headline: "माया राजेश्वरन का पहला प्रो खिताब"
+  dek: "17 की उम्र में आईटीएफ़ डब्ल्यू35 लागोस चैंपियन, एक भी सेट नहीं गंवाया"
+  motif: tennis-ball
+  stats:
+    - {icon: trophy, value: "6-4, 6-2", label: "फ़ाइनल में सेलिया सेर्विनो रुइज़ पर जीत"}
+    - {icon: ranking, value: "1038", label: "टूर्नामेंट से पहले डब्ल्यूटीए रैंकिंग"}
+    - {icon: medal, value: "2", label: "लागोस में खिताब: सिंगल्स और डबल्स"}
+  source: "द ब्रिज, 11 और 12 अक्टूबर 2026"
 ---
 
 माया राजेश्वरन ने रविवार को अपना पहला प्रोफ़ेशनल सिंगल्स खिताब जीता। लागोस में **आईटीएफ़ डब्ल्यू35** टूर्नामेंट के फ़ाइनल में उन्होंने स्पेन की सेलिया सेर्विनो रुइज़ को 6-4, 6-2 से हराया।

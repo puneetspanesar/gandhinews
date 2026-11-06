@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "andhra-parishad-polls-four-voters-two-poll-staff-die",
-      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+      "sensex-nifty-close-november-5-rally"
     ],
     "live": {
       "title": {
@@ -34,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
+          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+        }
+      },
+      {
+        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
+          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+        }
+      },
+      {
+        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Four voters and two poll staff die on Andhra parishad polling day",
-          "hi": "आंध्र में परिषद चुनाव के दिन चार मतदाताओं और दो चुनाव कर्मियों की मौत"
+          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
+          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
         }
       },
       {
-        "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
-          "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
+          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
+          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
         }
       },
       {
-        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
-        },
-        "text": {
-          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
-          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
-        }
-      },
-      {
-        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
-          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
-        }
-      },
-      {
-        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
-          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
-        }
-      },
-      {
-        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "lead": {
-          "en": "Rajya Sabha:",
-          "hi": "राज्यसभा:"
-        },
-        "text": {
-          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
-          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
-        }
-      },
-      {
-        "link": "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+        "link": "sensex-nifty-close-november-5-rally",
         "lead": {
           "en": "Markets:",
           "hi": "बाजार:"
         },
         "text": {
-          "en": "Sensex up 647 points at 1 pm as India stands apart from Asia's chip rout",
-          "hi": "एशिया में चिप शेयरों की भारी बिकवाली के बीच दोपहर 1 बजे सेंसेक्स 647 अंक ऊपर"
+          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
+          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
         }
       },
       {
-        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
-          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
+          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
+          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
+        }
+      },
+      {
+        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
+          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+        }
+      },
+      {
+        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "lead": {
+          "en": "BJP:",
+          "hi": "भाजपा:"
+        },
+        "text": {
+          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
+          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "id": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
       "also": []
     },
     "list": [
-      "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+      "titan-q2-standalone-profit-doubles-2393-crore",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc"
     ],
     "also": [
-      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-      "ugc-equity-regulations-explained-caste-discrimination-campuses"
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
     ]
   },
   "startHere": [
@@ -374,9 +374,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
       ],
       "lead": "amit-shah-dehradun-rally-speech-1475-crore-projects"
     },
@@ -404,8 +404,8 @@
       "lead": "andhra-parishad-polls-four-voters-two-poll-staff-die",
       "list": [
         "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-        "hosur-factory-concrete-structure-collapse-three-workers-killed",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
+        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
       ]
     },
     {
@@ -458,7 +458,7 @@
         "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
         "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
       ]
     }
   ],
@@ -486,6 +486,18 @@
         "hi": "देहरादून के परेड ग्राउंड में अमित शाह की भाजपा रैली"
       },
       "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST",
+        "hi": "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"
+      },
+      "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
     },
     {
       "icon": "calendar-blank",
@@ -522,18 +534,6 @@
         "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
       },
       "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
-      },
-      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
     }
   ],
   "headlineHistory": [
@@ -636,6 +636,20 @@
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
         "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
+      ]
+    },
+    {
+      "at": "2026-11-06T14:47:10+05:30",
+      "ids": [
+        "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+        "sensex-nifty-close-november-5-rally",
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today"
       ]
     }
   ],

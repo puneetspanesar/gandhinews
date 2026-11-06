@@ -1800,16 +1800,47 @@
   "page": null
  },
  "maaya-rajeshwaran-wins-first-professional-title": {
-  "id": "x-maaya-rajeshwaran-wins-first-professional-title",
-  "src": "/photos/x-maaya-rajeshwaran-wins-first-professional-title-1280.jpg",
-  "src800": "/photos/x-maaya-rajeshwaran-wins-first-professional-title-640.jpg",
+  "id": "i-maaya-rajeshwaran-wins-first-professional-title",
+  "src": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-en-3x2-1280.jpg",
+  "src800": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-en-3x2-640.jpg",
   "width": 1280,
-  "height": 1283,
-  "credit": "Photo: Daduschu / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Indian teenage tennis player Maaya Rajeshwaran",
-  "alt_hi": "भारत की किशोर टेनिस खिलाड़ी माया राजेश्वरन",
-  "page": "https://commons.wikimedia.org/wiki/File:Yukina_Saigo.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Maaya Rajeshwaran wins her first pro title",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: माया राजेश्वरन का पहला प्रो खिताब",
+  "page": null,
+  "ihash": "25c7aa7b646b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-hi-3x2-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-en-t-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-hi-t-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-en-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-hi-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-wins-first-professional-title-hi-640.jpg"
+   }
+  },
+  "nophoto": "wrong photo removed (Yukina Saigo, not Maaya); no free photo of Maaya Rajeshwaran Revathi; library, quick_photo, finder h0613"
  },
  "gold-slips-near-1-5-lakh-ahead-of-us-inflation-data": {
   "id": "v-gold-slips-near-1-5-lakh-ahead-of-us-inflation-data",
@@ -29626,5 +29657,48 @@
     "src800": "/photos/i-icici-bank-record-high-1526-nears-11-trillion-market-value-hi-640.jpg"
    }
   }
+ },
+ "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery": {
+  "id": "i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+  "src": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-en-3x2-1280.jpg",
+  "src800": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Maaya Rajeshwaran one win from the semis",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सेमीफाइनल से एक जीत दूर माया राजेश्वरन",
+  "page": null,
+  "ihash": "8e23999df57a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-hi-3x2-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-en-t-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-hi-t-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-en-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-hi-1280.jpg",
+    "src800": "/photos/i-maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Maaya Rajeshwaran Revathi; library, quick_photo, finder h0613"
  }
 }

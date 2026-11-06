@@ -7,7 +7,7 @@ format_label: "Sports / Tennis"
 topics: []
 title: "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot"
 standfirst: "The 17-year-old wild card, ranked 669th in the world, plays the American on Centre Court at 3 pm IST after becoming the first Indian woman since Sania Mirza to reach a WTA singles quarter-final."
-published: 2026-11-06T13:12:56+05:30
+published: 2026-11-06T14:01:10+05:30
 location: Chennai
 upcoming: {date: 2026-11-06, en: "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST", hi: "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"}
 keyPoints:

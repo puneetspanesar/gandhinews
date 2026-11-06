@@ -39,6 +39,16 @@ verification:
     - "'Youngest Indian woman to win a professional singles title' is the Bridge's claim, not checked against ITF records."
     - "Ranking 1038 from the Oct 11 Bridge piece (pre-title ranking assumed). Quotes from the Oct 12 Bridge feature, which appear to be from an interview with her."
     - "Nadal Academy departure is in the headline only; details not read, so not used."
+infographic:
+  kicker: "Tennis"
+  headline: "Maaya Rajeshwaran wins her first pro title"
+  dek: "ITF W35 Lagos singles champion at 17, without dropping a set"
+  motif: tennis-ball
+  stats:
+    - {icon: trophy, value: "6-4, 6-2", label: "final win over Celia Cerviño Ruiz"}
+    - {icon: ranking, value: "1038", label: "her WTA ranking going in"}
+    - {icon: medal, value: "2", label: "titles in Lagos: singles and doubles"}
+  source: "The Bridge, October 11 and 12, 2026"
 ---
 
 Maaya Rajeshwaran won her first professional singles title on Sunday, beating Spain's Celia Cerviño Ruiz 6-4, 6-2 in the final of the **ITF W35** tournament in Lagos.
