@@ -60,7 +60,7 @@ verification:
     - "Written 8:08 pm IST Nov 6. Listed as a BIG STORY in window.txt. Handover was Thursday November 5; the Ministry of Defence release (via PIB, cited by Angel One, updated 6:57 pm IST Nov 6) came on November 6. PIB release itself not opened."
     - "Indigenous content: MoD/PIB says over 80% (used in copy); GRSE-based reports say about 88% for the programme (given as the builder's figure)."
     - "Length 77.6 m and draught 2.7 m from GRSE-based reports; Agray PIB release says about 77 m. No speed, displacement or crew figure found. No quotes in any source."
-    - "Launch: PIB title says Amini was launched on November 16, 2023 at L&T Kattupalli as the fourth ship of the GRSE project; it is now the fifth delivered. Third ship's name not confirmed, so not named."
+    - "Launch: PIB title says Amini was launched on November 16, 2023, at L&T Kattupalli as the fourth ship of the GRSE project; it is now the fifth delivered. Third ship's name not confirmed, so not named."
 infographic:
   kicker: "Indian Navy, November 5, 2026"
   headline: "Amini joins the Navy's coastal submarine hunters"
@@ -90,7 +90,7 @@ The Ministry of Defence puts the ship's **indigenous content at over 80%**, and 
 
 The ship takes its name from **Amini Island in Lakshadweep**. The name was carried earlier by INS Amini, a Petya III class anti-submarine corvette that was decommissioned in 2002. The Navy often passes the names of retired ships to new ones.
 
-Amini was launched on November 16, 2023, at the Larsen and Toubro yard in Kattupalli near Chennai, as the fourth hull of the GRSE project. It joins Arnala, the first of the series, Androth, the second, and Agray, which GRSE handed over in Kolkata on March 30, 2026 on the same day as Dunagiri and Sanshodhak.
+Amini was launched on November 16, 2023, at the Larsen and Toubro yard in Kattupalli near Chennai, as the fourth hull of the GRSE project. It joins Arnala, the first of the series, Androth, the second, and Agray, which GRSE handed over in Kolkata on March 30, 2026, on the same day as Dunagiri and Sanshodhak.
 
 ## What comes next
 

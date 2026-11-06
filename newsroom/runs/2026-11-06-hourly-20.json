@@ -1,0 +1,22 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-06T20:05:03+05:30",
+ "end": "2026-11-06T20:42:14+05:30",
+ "summary": "GRAP Stage III Delhi-NCR lead, EC SIR window, Himachal BBMB, Iran proposal, Navy Amini, rice stock order",
+ "new": [
+  "delhi-grap-stage-three-aqi-382-caqm",
+  "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+  "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+  "iran-hands-us-nuclear-proposal-seven-demands",
+  "navy-receives-amini-anti-submarine-shallow-water-craft",
+  "rice-paddy-stock-declaration-every-friday-food-stock-portal"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
+ ],
+ "lead": "delhi-grap-stage-three-aqi-382-caqm"
+}

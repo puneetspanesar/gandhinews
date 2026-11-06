@@ -11,7 +11,7 @@ published: 2026-11-06T20:12:00+05:30
 location: New Delhi
 keyPoints:
   - "The CAQM **invoked GRAP Stage III across Delhi-NCR** on Friday with immediate effect."
-  - "Delhi's average AQI was **382, in the very poor band**, with Jahangirpuri at 449 by 4 pm."
+  - "Delhi's average AQI was **382, in the very poor band**, close to the severe mark of 400."
   - "Forecasters expect **severe air from November 7 to 9**, over the Diwali weekend."
 hero:
   need: "Smog over Delhi, showing hazy air pollution in the city (file photo)"
@@ -27,12 +27,11 @@ infographic:
   motif: cloud-fog
   stats:
     - {icon: cloud-fog, value: "382", label: "Delhi's average AQI on Friday, very poor"}
-    - {icon: map-pin, value: "449", label: "Jahangirpuri, the worst station at 4 pm"}
     - {icon: warning, value: "Nov 7 to 9", label: "days forecast in the severe band"}
   source: "CAQM and IITM, November 6, 2026"
 related: [delhi-aqi-331-jahangirpuri-499-grap-stage-two, delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today]
 seo:
-  description: "The CAQM imposed GRAP Stage III curbs across Delhi-NCR on November 6, 2026 as Delhi's average AQI reached 382, with severe air forecast for November 7 to 9."
+  description: "The CAQM imposed GRAP Stage III curbs across Delhi-NCR on November 6, 2026, as Delhi's average AQI reached 382, with severe air forecast for November 7 to 9."
 sources:
   - title: "Delhi-NCR AQI hits 382, slips into 'very poor' category; GRAP Stage III invoked ahead of Diwali"
     publisher: "The Tribune"
@@ -83,8 +82,5 @@ The Delhi government and the NCR states must decide whether public, municipal an
 
 The timing is grim. The early warning bulletin from IITM Pune forecasts **severe air from November 7 to 9**, the Diwali weekend, when firecrackers and festival traffic usually add to the haze. For the six days after that, it expects air quality to swing between severe and very poor.
 
-```photo
-{"n":2,"subject":"Air pollution in Delhi","caption":"Smog over Delhi in an earlier winter; forecasters expect severe air over the Diwali weekend.","alt":"Hazy, polluted skyline in Delhi (file photo)"}
-```
 
 Stage III comes on top of the Stage I and II measures already in force, and the commission has asked agencies to step up mechanical sweeping, water sprinkling and traffic management. If the index stays above 450, the commission can move to **Stage IV**, the last and toughest step of the plan.

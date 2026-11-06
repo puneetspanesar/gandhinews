@@ -32,7 +32,7 @@ infographic:
   source: "Election Commission of India, November 6, 2026"
 related: [sir-phase-three-draft-rolls-names-dropped-by-state, delhi-high-court-form-6-sir-deleted-voters-ec]
 seo:
-  description: "The Election Commission on November 6, 2026 gave electors left off SIR draft rolls in Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland a fresh chance to enrol."
+  description: "The Election Commission on November 6, 2026, gave electors left off SIR draft rolls in Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland a fresh chance to enrol."
 sources:
   - title: "EC Gives Fresh Opportunity To Electors Left Out Of Draft Rolls In 7 States During SIR"
     publisher: "ETV Bharat (PTI)"

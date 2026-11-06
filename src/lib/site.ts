@@ -215,7 +215,8 @@ export const PER_PAGE = 40;
  *  always kept whole, however long. Used wherever a standfirst has to be shorter in a small slot. */
 export function whole(text: unknown, max = 160): string {
   const t = String(text ?? '').trim();
-  const parts = t.match(/[^.!?।]+[.!?।]+["'’”)]*(\s+|$)|[^.!?।]+$/g) || [t];
+  // split only where sentence punctuation is followed by whitespace, so "77.6" or "Rs 1.5" never breaks a sentence
+  const parts = t.split(/(?<=[.!?।]["'’”)]*)\s+/).map((s, i, a) => (i < a.length - 1 ? s + ' ' : s));
   let out = '';
   for (const s of parts) { if (out && (out + s).trim().length > max) break; out += s; }
   return out.trim();

@@ -35,7 +35,7 @@ infographic:
   source: "Food ministry order and statement, November 6, 2026"
 related: [food-inflation-weak-monsoon-sugar-poultry-milk-prices, haryana-9880-crore-paddy-farmers-beekeepers-insurance]
 seo:
-  description: "The Centre on November 6, 2026 ordered traders, wholesalers, retailers, big chains and millers to declare rice and paddy stocks every Friday on the Food Stock Portal, allowed five southern states to set stock limits and doubled OMSS rice sales to 50 lakh tonnes."
+  description: "The Centre on November 6, 2026, ordered traders, wholesalers, retailers, big chains and millers to declare rice and paddy stocks every Friday on the Food Stock Portal, allowed five southern states to set stock limits and doubled OMSS rice sales to 50 lakh tonnes."
 sources:
   - title: "Government doubles OMSS rice sale target to 50 LMT for 2026-27; 25 LMT already sold through e-auctions (PIB)"
     publisher: "DD India"
