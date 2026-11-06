@@ -19,10 +19,10 @@
     "relatedBelow": [],
     "relatedBeside": [
       "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
       "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
     ],
     "live": {
       "title": {
@@ -45,14 +45,14 @@
         }
       },
       {
-        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Electronics:",
+          "hi": "इलेक्ट्रॉनिक्स:"
         },
         "text": {
-          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
-          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
+          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
+          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
         }
       },
       {
@@ -67,14 +67,25 @@
         }
       },
       {
-        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "lead": {
-          "en": "Electronics:",
-          "hi": "इलेक्ट्रॉनिक्स:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
-          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
+          "en": "Delhi court to hear plea for FIR against Sonia Gandhi over 1980 voter list today",
+          "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर आज सुनवाई"
+        }
+      },
+      {
+        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
+          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
         }
       },
       {
@@ -100,25 +111,14 @@
         }
       },
       {
-        "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "link": "24-hour-rule-explained-article-22-detention-arrest",
         "lead": {
-          "en": "Himachal Pradesh:",
-          "hi": "हिमाचल प्रदेश:"
+          "en": "Law:",
+          "hi": "कानून:"
         },
         "text": {
-          "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
-          "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
-        }
-      },
-      {
-        "link": "iran-hands-us-nuclear-proposal-seven-demands",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
-          "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
+          "en": "The 24-hour rule explained: why the Supreme Court says the clock starts at detention",
+          "hi": "24 घंटे का नियम: सुप्रीम कोर्ट क्यों कहता है कि घड़ी हिरासत से चलती है"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+      "id": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
       "also": []
     },
     "list": [
+      "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+      "24-hour-rule-explained-article-22-detention-arrest",
       "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-      "iran-hands-us-nuclear-proposal-seven-demands",
-      "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "sc-up-under-trials-bail-release-all-75-districts",
-      "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
+      "delhi-grap-stage-three-aqi-382-caqm",
+      "iran-hands-us-nuclear-proposal-seven-demands"
     ],
     "also": [
-      "india-u19-beat-nepal-asia-cup-al-amerat",
-      "jharkhand-hc-quashes-jssc-cgl-exam-cancellation"
+      "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "sc-up-under-trials-bail-release-all-75-districts"
     ]
   },
   "startHere": [
@@ -414,7 +414,7 @@
       "list": [
         "railways-18000-festive-special-trains",
         "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
+        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties"
       ]
     },
     {
@@ -644,17 +644,17 @@
       ]
     },
     {
-      "at": "2026-11-06T22:39:47+05:30",
+      "at": "2026-11-06T22:56:43+05:30",
       "ids": [
         "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
         "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
         "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
         "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-        "iran-hands-us-nuclear-proposal-seven-demands"
+        "24-hour-rule-explained-article-22-detention-arrest"
       ]
     }
   ],

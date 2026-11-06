@@ -31046,46 +31046,15 @@
   "nophoto": "no free photo of Surya Kant unused in 7 days; library, quick_photo, finder h0622 (only portrait used Nov 5)"
  },
  "semicon-india-2-portal-vaishnaw-12-ecms-projects": {
-  "id": "i-semicon-india-2-portal-vaishnaw-12-ecms-projects",
-  "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-3x2-1280.jpg",
-  "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-3x2-640.jpg",
+  "id": "o-semicon-india-2-portal-vaishnaw-12-ecms-projects",
+  "src": "/photos/o-semicon-india-2-portal-vaishnaw-12-ecms-projects-1280.jpg",
+  "src800": "/photos/o-semicon-india-2-portal-vaishnaw-12-ecms-projects-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Semicon 2.0 portal opens for applications",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सेमीकॉन 2.0 पोर्टल पर आवेदन शुरू",
-  "page": null,
-  "ihash": "5ef928cde85c",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-3x2-1280.jpg",
-    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-t-1280.jpg",
-    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-t-1280.jpg",
-    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-1280.jpg",
-    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-1280.jpg",
-    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-640.jpg"
-   }
-  },
-  "nophoto": "no usable photo of Ashwini Vaishnaw; library blocked by 7-day rule, finder h0622 candidates all under main size"
+  "height": 884,
+  "credit": "Photo: Ministry of Railways / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union IT and electronics minister Ashwini Vaishnaw (file photo)",
+  "alt_hi": "केंद्रीय आईटी और इलेक्ट्रॉनिक्स मंत्री अश्विनी वैष्णव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Ashwini_Vaishnaw_taking_charge_as_the_Union_Minister_for_Railways,_in_New_Delhi_on_July_08,_2021_(1).jpg"
  }
 }
