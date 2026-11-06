@@ -191,7 +191,7 @@ async function subscribe(req: Request, env: Env) {
   await ensureSchema(env.DB);
 
   const now = new Date().toISOString();
-  const ipHash = await sha256((req.headers.get('cf-connecting-ip') || '') + 'lokvox');
+  const ipHash = await sha256((req.headers.get('cf-connecting-ip') || '') + 'gandhinews');
   const ua = (req.headers.get('user-agent') || '').slice(0, 200);
   const existing: any = await env.DB.prepare('SELECT * FROM subscribers WHERE email = ?').bind(email).first();
   if (existing && existing.status === 'confirmed') {
