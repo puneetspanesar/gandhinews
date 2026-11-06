@@ -2,6 +2,7 @@
 # Runs pass exactly what to fetch: -f part=<tag> -f entries='[{"id":"...","url":"..."}]'. Nothing needs to be on main.
 # Without entries it falls back to the old behaviour: every content/photos.json entry not yet in public/photos.
 name: Download photos
+run-name: "Download photos ${{ inputs.part }}"
 on:
   workflow_dispatch:
     inputs:

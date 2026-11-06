@@ -30,10 +30,11 @@ def dispatch_and_wait(workflow, fields, limit_min):
     run_id = None
     for _ in range(40):
         time.sleep(3)
-        runs = json.loads(sh('gh', 'run', 'list', '-R', REPO, '--workflow', workflow, '-L', '10', '--json', 'databaseId,createdAt,status,conclusion,event'))
+        runs = json.loads(sh('gh', 'run', 'list', '-R', REPO, '--workflow', workflow, '-L', '20', '--json', 'databaseId,createdAt,status,conclusion,event,displayTitle'))
         for r in runs:
             t = time.mktime(time.strptime(r['createdAt'], '%Y-%m-%dT%H:%M:%SZ')) - time.timezone
-            if r['event'] == 'workflow_dispatch' and t >= before - 5:
+            # matched by its part in the run name, so parallel finder or download calls never pick up each other's run
+            if r['event'] == 'workflow_dispatch' and t >= before - 5 and str(r.get('displayTitle', '')).endswith(' ' + fields.get('part', '')):
                 run_id = r['databaseId']; break
         if run_id: break
     if not run_id: sys.exit(f'{workflow}: dispatched but the run never appeared')
