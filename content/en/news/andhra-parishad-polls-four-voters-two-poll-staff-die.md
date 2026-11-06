@@ -66,10 +66,6 @@ Geddada Namashivaya, 61, a head constable at the Palakollu police station in Wes
 
 Chief Minister **N Chandrababu Naidu and Deputy Chief Minister Pawan Kalyan** offered condolences over the teacher's death and promised her family the government's full support.
 
-```photo
-{"n":1,"subject":"N. Chandrababu Naidu","caption":"Chief Minister N Chandrababu Naidu, who offered condolences over the death of a teacher on polling duty and promised help to her family.","alt":"Andhra Pradesh Chief Minister N Chandrababu Naidu"}
-```
-
 ## Voters who died
 
 Two elderly voters died shortly after casting their ballots: Chitta Tulasi Reddy, 63, of Repudi in Phirangipuram mandal of Guntur district, and Khagga Tirupati Rao, 65, of Vatticherukuru. In Aryapeta in Yalamanchili mandal of West Godavari, Eda David, 50, **collapsed near a polling station** and died of a heart attack.

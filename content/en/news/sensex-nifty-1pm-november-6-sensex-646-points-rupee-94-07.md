@@ -21,7 +21,7 @@ hero:
   overlay:
     value: "Sensex near 80,000 at 1 pm"
 infographic:
-  kicker: "Markets at 1 pm, November 6"
+  kicker: "Markets at 1 pm"
   headline: "Sensex up 647 points as Asia sells off"
   dek: "Private banks and IT lead; the rupee hits a seven-month high"
   motif: chart-line-up

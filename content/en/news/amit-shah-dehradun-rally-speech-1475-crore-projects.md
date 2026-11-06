@@ -5,11 +5,12 @@ type: news
 section: politics
 format_label: "Politics / BJP"
 topics: []
-title: "Amit Shah unveils ₹1,475 crore projects at Dehradun rally as Dhami turns on Congress"
+title: "Amit Shah says BJP will win Uttarakhand again as he unveils ₹1,475 crore projects in Dehradun"
 standfirst: "The Union Home Minister opened and laid stones for state projects at the Parade Ground on Uttarakhand's foundation day, while protesters over the Ankita Bhandari case were held across the city."
 published: 2026-11-06T13:13:02+05:30
 location: Dehradun
 keyPoints:
+  - "Shah told the rally the message should reach \"Rahul baba\" that **the BJP will form the government in Uttarakhand again**."
   - "Amit Shah inaugurated and laid foundation stones for **projects worth ₹1,475.31 crore** at Dehradun's Parade Ground."
   - "Chief Minister Pushkar Singh Dhami said his government **delivered justice in the Ankita Bhandari case** and accused Congress of spreading falsehoods."
   - "Congress, UKD and Suraj Seva Dal workers were **stopped or detained by police** as they protested the visit."
@@ -60,6 +61,7 @@ verification:
     - "₹1,475.31 crore: Dhami's post as quoted by ETV Bharat (12:05 pm); Amar Ujala 12:44 pm says Shah inaugurated and laid foundation stones for ₹1,475 crore. Project list not given anywhere read."
     - "Dhami lines: Amar Ujala 12:38 to 12:44 pm and ETV Bharat 12:39 pm. 'Echo of lies' / 'echo of students' is our translation of 'झूठ की गूंज' / 'छात्रों की गूंज'. Jenny and tandoor case remark from ETV Bharat, paraphrased."
     - "Protests: ink on hoarding, UKD barricades, Suraj Seva Dal detentions from Amar Ujala live blog (12:35, 12:36 pm). Congress detentions near Jolly Grant, Mohit Uniyal named, Amar Ujala 11:32 am. Claim about Ankita Bhandari's parents at Rajghat is Congress's allegation only."
+    - "Shah speech added 1:25 pm IST from the Amar Ujala live blog entries at 12:48, 12:55 and 1:04 pm (Hindi, reported speech, our paraphrase; quoted only 'राहुल बाबा' as 'Rahul baba'). The live blog was still running at 1:04 pm, so the speech may have continued."
     - "Police Colour ceremony at Police Line not yet confirmed as held at time of writing; BJP core committee meeting postponed per Amar Ujala, no reason given."
 ---
 
@@ -67,11 +69,13 @@ Union Home Minister Amit Shah inaugurated and laid foundation stones for **proje
 
 Shah was received at Jolly Grant Airport around noon and reached the Parade Ground stage shortly after 12:15 pm, where Chief Minister Pushkar Singh Dhami presented him with Ganga water ahead of the coming Kumbh. Dhami put the value of the projects at ₹1,475.31 crore and said they marked **26 years of the state**. A list of the individual projects has not been released.
 
-```photo
-{"n":1,"subject":"Pushkar Singh Dhami","caption":"Chief Minister Pushkar Singh Dhami, who spoke before Amit Shah and used the stage to attack Congress.","alt":"Uttarakhand Chief Minister Pushkar Singh Dhami"}
-```
-
 The rally is part of the BJP's "Loktantra Bachao, Arajakta Hatao" (Save Democracy, Remove Anarchy) campaign, which the party built as an answer to the opposition's campaign against the Election Commission. Uttarakhand BJP leaders Anil Baluni, Ajay Bhatt and Ramesh Pokhriyal Nishank were on the stage, along with party office-bearer Bansuri Swaraj.
+
+## What Shah said
+
+Shah began speaking at about 12:48 pm with a "Ram Ram" greeting to the crowd. He said the message should reach "Rahul baba" that **the BJP will form the government in Uttarakhand again**, and led the crowd in "Jai Shri Ram" slogans.
+
+He credited former Prime Minister Atal Bihari Vajpayee with creating Uttarakhand and paid tribute to the statehood agitators, including those at Rampur Tiraha, accusing the Congress and the Samajwadi Party of atrocities on the movement's young people. He said a developed Uttarakhand was **the first stop on the journey to a developed India**, that Prime Minister Narendra Modi was now polishing the state Vajpayee had made, and that it should be among the most developed states by 2047. He also remembered the folk heroes Tilu Rauteli and Madho Singh Bhandari.
 
 ## Dhami goes after Congress
 
@@ -86,10 +90,6 @@ Cabinet minister Satpal Maharaj said the day was also for remembering the sacrif
 ## Protests outside
 
 The visit was shadowed by protests over the Ankita Bhandari case. Black ink was thrown on a hoarding welcoming Shah, with slogans demanding justice for her. Workers of the Uttarakhand Kranti Dal **broke through police barricades** as they moved towards the Parade Ground, and police detained Suraj Seva Dal workers at Kishan Nagar Chowk before releasing them some distance away.
-
-```photo
-{"n":2,"subject":"Parade Ground Dehradun","caption":"The Parade Ground in Dehradun, where the BJP held Friday's rally.","alt":"Parade Ground, Dehradun"}
-```
 
 Earlier in the morning, police stopped Congress workers led by Parwadun district president Mohit Uniyal on the Jolly Grant road as they marched towards the airport, and put them on a bus. The party alleged that Ankita Bhandari's parents had been picked up by police at Rajghat in Delhi, and Uniyal criticised road closures and the shutting of firecracker shops on Dhanteras.
 

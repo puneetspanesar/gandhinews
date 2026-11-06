@@ -1,0 +1,27 @@
+{
+ "run": "hourly-13",
+ "start": "2026-11-06T13:04:09+05:30",
+ "end": "2026-11-06T13:40:59+05:30",
+ "summary": "Amit Shah Dehradun rally lead, Andhra poll-day deaths, markets at 1 pm; 2 held",
+ "new": [
+  "amit-shah-dehradun-rally-speech-1475-crore-projects",
+  "andhra-parishad-polls-four-voters-two-poll-staff-die",
+  "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07"
+ ],
+ "held": [
+  "icici-bank-record-high-1526-nears-11-trillion-market-value",
+  "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "icici-bank-record-high-1526-nears-11-trillion-market-value",
+   "kind": "picture",
+   "why": "Main picture is the dark Gandhi News infographic (bank-column icon and share price) for a story about a named, well-known company, and its own hero brief asks for CEO Sandeep Bakhshi. Rule 8 does not allow an infographic in place of a known person or place. It is also the only graphic card in the homepage top headlines and looks machine-made next to the photo cards.",
+   "fix": "Replace the main picture with a real photo of ICICI Bank MD and CEO Sandeep Bakhshi (quick_photo.py 'Sandeep Bakhshi'), labelled as a file photo. If none can be found, use a photo of ICICI Bank Towers, Bandra Kurla Complex, Mumbai. Keep the infographic only as an in-story graphic."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "amit-shah-dehradun-rally-speech-1475-crore-projects"
+}

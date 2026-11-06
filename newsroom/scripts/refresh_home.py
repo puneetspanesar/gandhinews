@@ -168,7 +168,7 @@ h['briefing']['items'] = [{'link': i, 'lead': {'en': short(A[i].get('format_labe
 
 # ---- section and desk lists
 for s in h.get('sections', []) + h.get('desks', []):
-    ids = newest(lambda d, sec=s['section']: d['type'] == 'news' and d.get('section') == sec and not clocked(d['id']))  # rule 6: a stale clock figure never sits in a section list
+    ids = newest(lambda d, sec=s['section']: d['type'] == 'news' and d.get('section') == sec and not clocked(d['id']) and d['id'] not in a.drop)  # rule 6: a stale clock figure never sits in a section list
     if not ids: continue
     n = max(len(s.get('list') or []), 3)
     if 'lead' in s: s['lead'], s['list'] = ids[0], ids[1:1 + n]
