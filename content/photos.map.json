@@ -29781,16 +29781,47 @@
   "nophoto": "no free photo of a Jharkhand road accident or Khunti; library, quick_photo, finder h0614"
  },
  "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza": {
-  "id": "o-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-  "src": "/photos/o-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-1280.jpg",
-  "src800": "/photos/o-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-640.jpg",
+  "id": "i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+  "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-3x2-640.jpg",
   "width": 1280,
-  "height": 695,
-  "credit": "Photo: DiplomatTesterMan / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A Delhi Fire Service fire tender (file photo)",
-  "alt_hi": "दिल्ली अग्निशमन सेवा की दमकल गाड़ी (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Delhi_Fire_Service_Basic_Fire_Truck.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Gaffar Market blaze damages up to 45 shops",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गफ्फार मार्केट की आग में 45 तक दुकानें प्रभावित",
+  "page": null,
+  "ihash": "9df0e0b342e4",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-1280.jpg",
+    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-1280.jpg",
+    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Gaffar Market fire or a Delhi market fire in action; finder h0622 found only a parked fire tender (rejected by the editor)"
  },
  "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results": {
   "id": "i-prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",

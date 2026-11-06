@@ -21,7 +21,7 @@ hero:
   overlay:
     value: "Shelton beats Paul in Paris"
 seo:
-  description: "Ben Shelton beat Tommy Paul 6-4, 4-6, 6-3 in the Rolex Paris Masters quarter-final on November 6, 2026 and reached his first Paris semi-final."
+  description: "Ben Shelton beat Tommy Paul 6-4, 4-6, 6-3 in the Rolex Paris Masters quarter-final on November 6, 2026, and reached his first Paris semi-final."
 sources:
   - title: "Shelton beats Paul to reach his first Paris semi-final and send Tiafoe to Turin"
     publisher: "Tennis Majors"

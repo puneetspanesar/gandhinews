@@ -353,9 +353,9 @@
   ],
   "sectors_source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324 (Nov 5 close; other sector percentages not given)",
   "flows": {
-    "date": "2026-11-05",
-    "fii": 14975.0,
-    "dii": -10445.0,
+    "date": "2026-11-06",
+    "fii": 13750.0,
+    "dii": -5969.0,
     "unit": "₹ crore",
     "source": "https://www.niftytrader.in/fii-dii-data"
   },

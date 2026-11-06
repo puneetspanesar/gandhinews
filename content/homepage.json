@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-presidents-police-colour-uttarakhand-police",
+    "id": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
     "overlay": {
       "kicker": {
-        "en": "States / Uttarakhand",
-        "hi": "राज्य / उत्तराखंड"
+        "en": "Policy / Defence",
+        "hi": "नीति / रक्षा"
       },
       "value": {
-        "en": "Uttarakhand Police get the President's Colour",
-        "hi": "उत्तराखंड पुलिस को राष्ट्रपति निशान"
+        "en": "Six days of joint relief planning",
+        "hi": "छह दिन संयुक्त राहत योजना के"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "railways-18000-festive-special-trains",
-      "saini-chowkidar-honorarium-15221-rahul-apology",
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
+      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
     ],
     "live": {
       "title": {
-        "en": "Uttarakhand",
-        "hi": "उत्तराखंड"
+        "en": "Defence",
+        "hi": "रक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "railways-18000-festive-special-trains",
-        "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
-        },
-        "text": {
-          "en": "Railways to run about 18,000 festive specials, half as many again as last year, says Vaishnaw",
-          "hi": "त्योहारों में करीब 18,000 स्पेशल ट्रेनें चलाएगा रेलवे, पिछले साल से डेढ़ गुना: वैष्णव"
-        }
-      },
-      {
-        "link": "saini-chowkidar-honorarium-15221-rahul-apology",
-        "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
-        },
-        "text": {
-          "en": "Saini raises Haryana village watchmen's pay to ₹15,221, asks Rahul Gandhi to apologise for 'chowkidar chor hai'",
-          "hi": "सैनी ने गांव के चौकीदारों का मानदेय 15,221 रुपये किया, 'चौकीदार चोर है' पर राहुल गांधी से माफी मांगने को कहा"
-        }
-      },
-      {
-        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "link": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
-          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+          "en": "Shelton beats Paul to reach Paris Masters semi-final and end Turin hopes of Paul",
+          "hi": "पेरिस मास्टर्स: शेल्टन ने पॉल को हराकर सेमीफाइनल में जगह बनाई, पॉल की ट्यूरिन की उम्मीद खत्म"
         }
       },
       {
-        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
-          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
+          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
         }
       },
       {
-        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
         },
         "text": {
-          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
-          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
+          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
+          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
         }
       },
       {
-        "link": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
+          "en": "Electronics:",
+          "hi": "इलेक्ट्रॉनिक्स:"
         },
         "text": {
-          "en": "Supreme Court refuses to revisit OBC creamy layer ruling, says parents' salary cannot be counted mechanically",
-          "hi": "ओबीसी क्रीमी लेयर फैसले पर दोबारा विचार से सुप्रीम कोर्ट का इनकार, कहा माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता"
+          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
+          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
         }
       },
       {
-        "link": "rain-industries-q3-profit-243-crore-interim-dividend",
+        "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Rain Industries posts ₹243 crore profit for July to September, declares 50 paise dividend",
-          "hi": "रेन इंडस्ट्रीज को जुलाई-सितंबर में ₹243 करोड़ का मुनाफा, 50 पैसे का लाभांश घोषित"
+          "en": "Santner's New Zealand lose Conway for the series as Henry returns for Wellington ODI",
+          "hi": "सैंटनर की टीम को झटका, कॉनवे पूरी सीरीज़ से बाहर; वेलिंगटन वनडे में हेनरी की वापसी संभव"
         }
       },
       {
-        "link": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "link": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
         },
         "text": {
-          "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
-          "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
+          "en": "Night fire in Karol Bagh's Gaffar Market damages up to 45 shops; no one hurt",
+          "hi": "करोल बाग के गफ्फार मार्केट में रात को लगी आग, 45 तक दुकानें प्रभावित; कोई हताहत नहीं"
+        }
+      },
+      {
+        "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "lead": {
+          "en": "Himachal Pradesh:",
+          "hi": "हिमाचल प्रदेश:"
+        },
+        "text": {
+          "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
+          "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
+        }
+      },
+      {
+        "link": "iran-hands-us-nuclear-proposal-seven-demands",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
+          "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+      "id": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
       "also": []
     },
     "list": [
-      "rain-industries-q3-profit-243-crore-interim-dividend",
-      "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-      "hosur-factory-concrete-structure-collapse-three-workers-killed",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+      "iran-hands-us-nuclear-proposal-seven-demands",
+      "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "sc-up-under-trials-bail-release-all-75-districts",
+      "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
     ],
     "also": [
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+      "india-u19-beat-nepal-asia-cup-al-amerat",
+      "jharkhand-hc-quashes-jssc-cgl-exam-cancellation"
     ]
   },
   "startHere": [
@@ -382,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "rain-industries-q3-profit-243-crore-interim-dividend",
+      "lead": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +393,10 @@
         ]
       },
       "list": [
+        "rain-industries-q3-profit-243-crore-interim-dividend",
         "rice-paddy-stock-declaration-every-friday-food-stock-portal",
         "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-        "rupee-93-89-strongest-since-april-fii-record-buying",
-        "hindalco-q2-profit-59-per-cent-7533-crore-record"
+        "rupee-93-89-strongest-since-april-fii-record-buying"
       ]
     },
     {
@@ -410,10 +410,10 @@
     },
     {
       "section": "policy",
-      "lead": "railways-18000-festive-special-trains",
+      "lead": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
       "list": [
+        "railways-18000-festive-special-trains",
         "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
         "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
       ]
     },
@@ -453,12 +453,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+      "lead": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
       "list": [
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
         "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "india-u19-beat-nepal-asia-cup-al-amerat",
-        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
+        "india-u19-beat-nepal-asia-cup-al-amerat"
       ]
     }
   ],
@@ -537,23 +537,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T14:45:06+05:30",
-      "ids": [
-        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "telangana-roll-revision-must-not-erase-voters-quietly",
-        "who-owns-trinamool-election-commission-symbol-dispute-explained",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "joshi-renewable-investment-220-billion-500-gw-2030",
-        "jharkhand-khunti-trailer-crowd-seven-killed"
-      ]
-    },
     {
       "at": "2026-11-06T15:48:12+05:30",
       "ids": [
@@ -658,6 +641,20 @@
         "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
         "rain-industries-q3-profit-243-crore-interim-dividend",
         "rice-paddy-stock-declaration-every-friday-food-stock-portal"
+      ]
+    },
+    {
+      "at": "2026-11-06T22:37:24+05:30",
+      "ids": [
+        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "iran-hands-us-nuclear-proposal-seven-demands"
       ]
     }
   ],

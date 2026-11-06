@@ -5,7 +5,7 @@ translation_of: tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatna
 type: news
 section: policy
 format_label: "नीति / रक्षा"
-topics: [india-us-trade]
+topics: []
 title: "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
 standfirst: "तीनों सेनाओं के मानवीय सहायता अभ्यास का पांचवां संस्करण गुरुवार को समापन समारोह के साथ खत्म हुआ। इसमें संयुक्त राहत अभियानों पर स्टाफ अभ्यास और टेबलटॉप अभ्यास हुए।"
 published: 2026-11-06T22:09:19+05:30
@@ -18,7 +18,7 @@ hero:
   need: "विशाखापत्तनम में भारतीय और अमेरिकी नौसैनिक अधिकारी, या पूर्वी नौसेना कमान"
   suggested_source: "Eastern Naval Command"
   subjects: ["Eastern Naval Command", "Visakhapatnam"]
-  alt: "विशाखापत्तनम में पूर्वी नौसेना कमान"
+  alt: "अभ्यास टाइगर ट्रायम्फ के पिछले संस्करण में भारतीय और अमेरिकी कर्मी (फाइल फोटो)"
   overlay:
     value: "छह दिन संयुक्त राहत योजना के"
 related: [navy-receives-amini-anti-submarine-shallow-water-craft]

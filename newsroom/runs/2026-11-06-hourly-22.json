@@ -1,0 +1,40 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-06T22:04:48+05:30",
+ "end": "2026-11-06T22:39:42+05:30",
+ "summary": "Tiger Triumph lead, Semicon 2.0, Shelton; SC pollution story held",
+ "new": [
+  "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+  "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+  "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam"
+ ],
+ "held": [
+  "sc-delhi-pollution-hearing-cji-old-tried-failed-measures"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "sc-delhi-pollution-hearing-cji-old-tried-failed-measures",
+   "kind": "facts",
+   "why": "Published 10:08 pm, but the headline figure on the main graphic, both covers, the homepage card and the first paragraph is AQI 391 'around noon' (a dashboard average, not CPCB). The story's own verification note says it is not the latest official figure, and other sites now carry the evening AQI. The infographic itself stands, since list.txt marks the story NOPHOTO.",
+   "fix": "Replace 391 at noon with the CPCB 4 pm bulletin AQI for November 6 (plus the latest hourly reading if available) in the English and Hindi text, both covers and the main graphic, and adjust 'as AQI nears 400' in both headlines if the new figure needs it."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+   "why": "Event story (fire) but the main picture is a Delhi Fire Service tender parked on a calm, leafy street: no fire, smoke, firefighters at work or damage. It is a generic stand-in and the same picture sits on the homepage.",
+   "done": "Fire tender photo removed; story back on its infographic (--nophoto), no correct fire photo found in h0622."
+  },
+  {
+   "id": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+   "why": "The hero alt text (EN 'The Eastern Naval Command at Visakhapatnam', HI the same) does not describe the picture, which is a group photo of Indian and US personnel at an earlier Tiger Triumph. The topic tag is india-us-trade, but this is a defence exercise.",
+   "done": "Alt text in both files now describes the earlier Tiger Triumph file photo; india-us-trade topic removed (no defence topic exists)."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): semicon-india-2-portal-vaishnaw-12-ecms-projects",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+ ],
+ "lead": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam"
+}

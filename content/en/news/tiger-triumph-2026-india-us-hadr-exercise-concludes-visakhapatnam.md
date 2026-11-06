@@ -4,7 +4,7 @@ lang: en
 type: news
 section: policy
 format_label: "Policy / Defence"
-topics: [india-us-trade]
+topics: []
 title: "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam"
 standfirst: "The fifth edition of the tri-service humanitarian exercise ended with a closing ceremony on Thursday, after a staff phase and a tabletop drill on joint relief operations."
 published: 2026-11-06T22:09:19+05:30
@@ -17,7 +17,7 @@ hero:
   need: "Indian and US naval officers at Visakhapatnam, or the Eastern Naval Command"
   suggested_source: "Eastern Naval Command"
   subjects: ["Eastern Naval Command", "Visakhapatnam"]
-  alt: "The Eastern Naval Command at Visakhapatnam"
+  alt: "Indian and US personnel at an earlier edition of Exercise Tiger Triumph (file photo)"
   overlay:
     value: "Six days of joint relief planning"
 related: [navy-receives-amini-anti-submarine-shallow-water-craft]

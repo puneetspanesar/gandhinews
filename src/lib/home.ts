@@ -540,7 +540,7 @@ export async function homeModel(lang: Lang) {
     // Never an empty column: when the running story has fewer than two follow-ups, fill with the newest pictured stories from the lead's section.
     filler: lead.below.length < 3,
     // Always three follow-ups in the right column: the running story's own updates first, then the newest pictured stories from the lead's section that are not already in the headlines.
-    list: [...lead.below.slice(1).filter((x: any) => !staleClock(x.d)), ...c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && !chosen.some((h: any) => h.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))].slice(0, 3).map(short),
+    list: [...lead.below.slice(1).filter((x: any) => !staleClock(x.d)), ...c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && (Date.now() - +new Date(x.data.published)) / 3.6e6 <= 24 && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && !chosen.some((h: any) => h.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))].slice(0, 3).map(short),
     points: (lead.d.keyPoints ?? []).map((k: string) => String(k).replace(/\*\*/g, '')),
     facts: lead.dataBox.slice(0, 3),
   };
