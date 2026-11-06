@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+    "id": "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
     "overlay": {
       "kicker": {
-        "en": "States / Haryana",
-        "hi": "राज्य / हरियाणा"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "DA up 3 points to 63%",
-        "hi": "महंगाई भत्ता 3 अंक बढ़कर 63%"
+        "en": "No relief for Tejpal in Supreme Court",
+        "hi": "सुप्रीम कोर्ट से तेजपाल को राहत नहीं"
       },
       "text": {
         "en": "",
@@ -16,91 +16,87 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-      "jagan-parishad-polls-selections-naidu-hijacked",
-      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-      "wall-street-close-dow-1833-nasdaq-correction-chip-rout"
+      "sonia-gandhi-voter-list-case-additional-documents-november-18",
+      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "cristiano-ronaldo-retires-international-football-portugal",
+      "sensex-nifty-close-november-6-sensex-1718-nifty-25030"
     ],
     "live": {
       "title": {
-        "en": "Haryana",
-        "hi": "हरियाणा"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "link": "sonia-gandhi-voter-list-case-additional-documents-november-18",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
-          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+          "en": "Sonia Gandhi voter list case: court lets complainant file more documents, next hearing November 18",
+          "hi": "सोनिया गांधी मतदाता सूची मामला: शिकायतकर्ता को और दस्तावेज देने की छूट, अगली सुनवाई 18 नवंबर को"
         }
       },
       {
-        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
-          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
         }
       },
       {
-        "link": "jagan-parishad-polls-selections-naidu-hijacked",
+        "link": "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
-          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+          "en": "Haryana raises DA to 63% and releases ₹4,470 crore, including Lado Lakshmi's 13th instalment",
+          "hi": "हरियाणा में महंगाई भत्ता 63% हुआ, लाडो लक्ष्मी की 13वीं किस्त समेत ₹4,470 करोड़ जारी"
         }
       },
       {
-        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "link": "cristiano-ronaldo-retires-international-football-portugal",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Football:",
+          "hi": "फुटबॉल:"
         },
         "text": {
-          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
-          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
+          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
+          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
         }
       },
       {
-        "link": "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "link": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
         "lead": {
-          "en": "Global markets:",
-          "hi": "वैश्विक बाज़ार:"
+          "en": "Markets:",
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Dow sinks 1,833 points and Nasdaq closes in a correction as chip stocks crash",
-          "hi": "चिप शेयरों की तबाही से डाउ 1,833 अंक टूटा, नैस्डैक करेक्शन में बंद"
+          "en": "Sensex soars 1,718 points to 81,028 and Nifty reclaims 25,000 in a Dhanteras rally",
+          "hi": "धनतेरस पर सेंसेक्स 1,718 अंक उछलकर 81,028 पर, निफ्टी फिर 25,000 के पार"
         }
       },
       {
-        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "link": "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Football:",
+          "hi": "फुटबॉल:"
         },
         "text": {
-          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
-          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
+          "en": "Suhail Bhat scores twice as India hold off late Pakistan fightback to win SAFF opener 3-2",
+          "hi": "सुहैल भट के दो गोल, पाकिस्तान की आखिरी पलों की वापसी के बावजूद भारत ने सैफ ओपनर 3-2 से जीता"
         }
       },
       {
@@ -115,14 +111,14 @@
         }
       },
       {
-        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
-          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
+          "en": "Delhi court to hear plea for FIR against Sonia Gandhi over 1980 voter list today",
+          "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर आज सुनवाई"
         }
       }
     ]
@@ -190,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+      "id": "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
       "also": []
     },
     "list": [
       "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-      "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
+      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+      "modi-meets-asian-para-games-medallists-delhi"
     ],
     "also": [
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+      "24-hour-rule-explained-article-22-detention-arrest",
+      "fast-track-special-courts-explained-rape-pocso-backlog"
     ]
   },
   "startHere": [
@@ -378,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-        "amit-shah-dehradun-rally-speech-1475-crore-projects"
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
       ],
-      "lead": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation"
+      "lead": "sonia-gandhi-voter-list-case-additional-documents-november-18"
     },
     {
       "section": "economy",
-      "lead": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+      "lead": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
       "module": {
         "type": "markets",
         "indicators": [
@@ -405,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "lead": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
       "list": [
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
         "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-        "jharkhand-khunti-trailer-crowd-seven-killed"
+        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza"
       ]
     },
     {
@@ -460,9 +456,9 @@
       "lead": "india-u19-beat-nepal-asia-cup-al-amerat",
       "list": [
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
       ]
     }
   ],
@@ -647,20 +643,17 @@
       ]
     },
     {
-      "at": "2026-11-06T16:05:00+05:30",
+      "at": "2026-11-06T16:41:16+05:30",
       "ids": [
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-        "jagan-parishad-polls-selections-naidu-hijacked",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "cristiano-ronaldo-retires-international-football-portugal",
+        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
         "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
       ]
     }
   ],
