@@ -71,6 +71,13 @@ prev = next((e for e in reversed(hist) if (now - _at(e)).total_seconds() >= 40 *
 _gt, _gh = prev_hour_homepage(now)
 if _gh and (not prev or _gt > _at(prev)): prev = {'at': _gt.isoformat(timespec='seconds'), 'ids': headline_ids(_gh)}   # main's own history wins
 blocked = set(prev['ids']) if prev else set()
+# how many earlier hours showed each story in the headlines, and which stories have led: stories never shown come
+# first, a story that already led never leads again (an update leads only as a new development story or via --critical)
+shown, led = {}, set()
+for e in hist:
+    for n, i in enumerate(e.get('ids') or []):
+        shown[i] = shown.get(i, 0) + 1
+        if n == 0: led.add(i)
 def upd(i):
     t = A[i].get('updated')
     return (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
@@ -109,7 +116,7 @@ if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
 if bad and not a.lead:
     # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
     PRIO = {'politics': 0, 'national': 0, 'states': 0, 'india': 0, 'world': 1, 'sports': 2, 'science': 2, 'tech': 2, 'economy': 3}
-    cand = sorted([i for i in newest(fresh_photo) if allowed(i)], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i)]
+    cand = sorted([i for i in newest(fresh_photo) if allowed(i) and (i not in led or i in a.critical)], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i)]
     if cand:
         print(f'lead {lead} replaced ({bad}) by {cand[0]}'); set_lead(cand[0]); lead = cand[0]
     else:
@@ -129,6 +136,8 @@ L['relatedBelow'] = rel[:3]
 pool = [i for i in a.pin if ok(i) and age(i) < 24] + newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 86400)
 # Explainers, editorials and fact checks of the last 48 hours fill what news cannot, so every headline slot changes every hour
 pool += newest(lambda d: d['type'] in ('explainer', 'editorial', 'factcheck') and (now - d['_t']).total_seconds() < 48 * 3600)
+pins = [i for i in a.pin if ok(i)]
+pool = pins + sorted([i for i in dict.fromkeys(pool) if i not in pins], key=lambda i: shown.get(i, 0))   # stable: newest first within each count
 taken, secs, mk, used_words = [], {}, 0, set(words(lead))
 for i in pool:
     if i == lead or i in taken or i in rel or clocked(i) or not allowed(i): continue
