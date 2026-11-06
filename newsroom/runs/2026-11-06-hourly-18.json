@@ -1,0 +1,44 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-06T18:05:03+05:30",
+ "end": "2026-11-06T18:38:29+05:30",
+ "summary": "5 stories, Murasu Andhra damage lead, 1 held (Delhi pollution hearing picture)",
+ "new": [
+  "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+  "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+  "rupee-93-89-strongest-since-april-fii-record-buying",
+  "saini-chowkidar-honorarium-15221-rahul-apology",
+  "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+ ],
+ "held": [
+  "supreme-court-delhi-pollution-hearing-peoples-movement-cji"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "supreme-court-delhi-pollution-hearing-peoples-movement-cji",
+   "kind": "picture",
+   "why": "Headline is about what CJI Surya Kant said, but the main picture is only a smog view over Gurgaon; the person who spoke is not shown (rule 1). The in-story Surya Kant photo was also NOT FOUND.",
+   "fix": "Use a clear photo of Chief Justice of India Surya Kant as the main picture (try the library, quick_photo.py and the finder for 'Surya Kant'); keep the smog photo as the in-story photo with its caption."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "rupee-93-89-strongest-since-april-fii-record-buying",
+   "why": "Main picture shows a wall with two air-conditioner units and pipes; nothing in it identifies the Reserve Bank headquarters or the rupee. It reads as a generic stand-in (rule 3) and the caption does not match what is shown (rule 6).",
+   "done": "main picture swapped to the already-checked RBI Bhubaneswar office photo with the Reserve Bank name visible (quick_photo x-rbi-interest-rates), caption matches"
+  },
+  {
+   "id": "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+   "why": "Main picture is a steep upward shot of the RBI tower that looks rotated sideways; as a homepage thumbnail it is an unidentifiable grey slab with a traffic light, badly framed and not recognisable (rule 3, rule 13).",
+   "done": "main picture swapped to the level, already-checked RBI Kolkata building photo with the name on the facade (quick_photo rbi-kolkata); different from the rupee story"
+  },
+  {
+   "id": "homepage",
+   "why": "1) Balance (rule 11): two business stories sit in the top headlines, stacked in the same column (RBI forex reserves and Markets rupee), and they are on the same subject (rupee/RBI dollar flows) next to each other; keep only one (the rupee close) in the top block and move forex reserves down to Economy. 2) Lead (rule 10): a contempt notice to a state Congress unit leads while the Cyclone Murasu damage estimate (8 dead, about Rs 1,919 crore, 1.4 lakh hectares of crops), the running national story frontpages.txt lists, sits in a side slot; lead with the Murasu damage story (with the damage photo) and move the contempt notice to a top slot. 3) Empty space (rule 9): in the red Courts 'Live coverage' block the right column has a large empty red gap between the Tejpal item and 'Read the full story'; fill it with another Courts item or shorten the block. 4) Repetition (rule 13): the Tejpal sentence story appears twice, in the Courts block and again as a card in the India section; drop one, and the Courts block labelled 'Live coverage' carries no live coverage, only two explainers and an unrelated case, so relabel it or make it a real running file.",
+   "done": "lead moved to the Murasu damage story (--lead); forex reserves dropped from the top block (--drop) so only the rupee story is in it; duplicate Tejpal item dropped (--drop); pollution story held, so it leaves the Courts live band. Courts band gap and label not re-checked: left to the next run if it remains"
+  }
+ ],
+ "breaches": [],
+ "lead": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
+}
