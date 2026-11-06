@@ -1,8 +1,13 @@
-# Stall check (minute 52 of every hour, 7 am to 11 pm IST)
+# Stall check (minute 52 of every writing-run hour: 6:52 am to 10:52 pm IST, every 2 hours)
 
 The counter check on the hourly and long-form runs. It never trusts a run's own report: it checks the live site against the rules and fixes what is wrong. Read newsroom/RUNBOOK.md first; its rules (A), pictures (C), gate (D) and publish (E) apply. The owner hears from this run only about what it could not fix.
 
-## 1. Check (about 5 minutes)
+## 1. Check
+First, ONE command and nothing else (no setup, no build: this keeps a clean check to a minute):
+```
+cd /home/claude/gandhinews && python3 newsroom/scripts/verify_live.py
+```
+It prints "OK at": finish silently, now. Only when it prints LIVE SITE PROBLEMS go on:
 ```
 source /home/claude/gandhinews/newsroom/scripts/setup.sh stall-HH
 python3 newsroom/scripts/verify_live.py          # deploy, missed runs, homepage rules, lead shown, empty slots, holds
@@ -12,7 +17,8 @@ bash newsroom/scripts/gate.sh                    # the same gate the runs use, o
 All three clean: finish silently.
 
 ## 2. Decide
-- No "Hourly HH:00" commit on main yet this hour (`git log --since="60 minutes ago" --format=%s origin/main`): the hourly run is late or failed. Act.
+- No "Hourly HH:00" commit on main yet this hour (`git log --since="60 minutes ago" --format=%s origin/main`): the writing run is late or failed. Act.
+- A failed "Homepage rotation" job (`gh run list --workflow home-rotate.yml -L 3`): run refresh_home.py and publish.sh yourself, and fix the cause.
 - The last run record shows an editor FAIL with nothing held, no editor.json, breaches, or holds that verify_live says can be republished: act.
 - verify_live or gate.sh fails: act.
 

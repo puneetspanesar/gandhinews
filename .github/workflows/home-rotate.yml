@@ -1,0 +1,41 @@
+# Hourly homepage rotation, no AI: the owner's rule is that every headline changes every hour. The writing runs
+# (Claude, every 2 hours) publish new stories and refresh the homepage themselves; in the hours between, this job runs
+# refresh_home.py at :50 IST so the headlines still change. It skips an hour whose homepage already changed after
+# the top of the hour, and never pushes a homepage that check_fresh.py rejects (exit 1). The stall check watches it.
+name: Homepage rotation
+run-name: Homepage rotation
+on:
+  schedule:
+    - cron: '20 1-19 * * *'   # 6:50 am to 12:50 am IST
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: home-rotate
+  cancel-in-progress: false
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 400
+      - run: pip install -q pyyaml
+      - name: Rotate the headlines unless this hour already has a new homepage
+        env:
+          GN_WORK: ${{ runner.temp }}/
+        run: |
+          set -e
+          hour_start=$(TZ=Asia/Kolkata date -d "$(TZ=Asia/Kolkata date +%Y-%m-%dT%H:00)" +%s)
+          last=$(git log -1 --format=%ct -- content/homepage.json)
+          if [ "$last" -ge "$hour_start" ]; then echo "homepage already changed this hour: nothing to do"; exit 0; fi
+          python3 newsroom/scripts/refresh_home.py
+          set +e; python3 newsroom/scripts/check_fresh.py; rc=$?; set -e
+          if [ "$rc" = 1 ]; then echo "check_fresh rejects this homepage: not pushing (the stall check will see it)"; exit 1; fi
+          git diff --quiet content/homepage.json && { echo "no change"; exit 0; }
+          git config user.name "Gandhi News bot"; git config user.email "noreply@gandhinews.com"
+          git add content/homepage.json
+          git commit -q -m "Homepage rotation $(TZ=Asia/Kolkata date +%H:%M) IST"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 20; done
+          exit 1

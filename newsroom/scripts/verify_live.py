@@ -5,7 +5,7 @@
 Checks:
   deploy     the live /build.json commit is main's newest commit (allowing 15 minutes for Cloudflare); if not, whether the
              Cloudflare build for main failed (then the build gate's message is reproduced with a local build)
-  runs       a run record (newsroom/runs/) or a run commit in the last 75 minutes between 7 am and midnight
+  runs       a run commit or a homepage rotation (.github/workflows/home-rotate.yml) in the last 75 minutes, 7 am to midnight
   freshness  check_fresh.py on main's homepage (lead, headlines, clock figures, the site moving every hour)
   homepage   the live English and Hindi homepages show main's lead headline, and no camera placeholders or broken images
   held       picture holds whose picture now exists, and holds over 48 hours old
@@ -46,12 +46,14 @@ if live.get('sha') and live['sha'] != main:
 
 if 7 <= now.hour:
     log = sh('git', 'log', '-30', '--format=%ct %s', 'origin/main').stdout.splitlines()
-    last = max([int(l.split()[0]) for l in log if re.search(r'^\d+ (Hourly|Long-form|Stall)', l)] or [0])
+    last = max([int(l.split()[0]) for l in log if re.search(r'^\d+ (Hourly|Long-form|Stall|Homepage rotation)', l)] or [0])
     if (now.timestamp() - last) > 75 * 60:
         bad.append(f'runs: no run commit since {dt.datetime.fromtimestamp(last, IST):%B %d %H:%M} (a run was missed or failed before pushing)')
 
 f = sh(sys.executable, 'newsroom/scripts/check_fresh.py')
-if f.returncode: bad.append('freshness:\n    ' + '\n    '.join(f.stdout.strip().splitlines()[1:]))
+if f.returncode == 1: bad.append('freshness:\n    ' + '\n    '.join(f.stdout.strip().splitlines()[1:]))
+# exit 2 = recorded rule breaches the next writing run clears (e.g. no fresh pictured story to lead): noted, not a stall
+notes = f.stdout.strip().splitlines()[1:] if f.returncode == 2 else []
 
 home = json.load(open('content/homepage.json'))
 lead = home['lead']['id']
@@ -73,4 +75,4 @@ for l in h.splitlines():
 
 if bad:
     print(f'LIVE SITE PROBLEMS at {now:%H:%M} IST:'); [print('  ' + b) for b in bad]; sys.exit(1)
-print(f"OK at {now:%H:%M} IST: live = main ({main[:7]}), runs on time, homepage rules hold, lead shown in both languages.")
+print(f"OK at {now:%H:%M} IST: live = main ({main[:7]}), runs on time, homepage rules hold, lead shown in both languages." + ("\n  breaches for the next writing run:\n  " + "\n  ".join(notes) if notes else ""))

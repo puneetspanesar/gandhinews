@@ -17,7 +17,7 @@ hero:
   need: "Nirvachan Sadan, the Election Commission of India headquarters in New Delhi"
   suggested_source: "Nirvachan Sadan"
   subjects: ["Nirvachan Sadan"]
-  alt: "Nirvachan Sadan, the Election Commission's headquarters in New Delhi"
+  alt: "Voters check their names in an electoral roll with a poll worker (file photo)"
   overlay:
     value: "Left off draft rolls? A fresh chance"
 infographic:

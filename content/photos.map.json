@@ -30614,47 +30614,16 @@
   "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg"
  },
  "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states": {
-  "id": "i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-  "src": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-en-3x2-1280.jpg",
-  "src800": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-en-3x2-640.jpg",
+  "id": "r-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+  "src": "/photos/r-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-1280.jpg",
+  "src800": "/photos/r-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Excluded voters in 7 states get another chance",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 7 राज्यों में छूटे मतदाताओं को एक और मौका",
-  "page": null,
-  "ihash": "3656d570ab73",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-hi-3x2-1280.jpg",
-    "src800": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-en-t-1280.jpg",
-    "src800": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-hi-t-1280.jpg",
-    "src800": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-en-1280.jpg",
-    "src800": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-hi-1280.jpg",
-    "src800": "/photos/i-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states-hi-640.jpg"
-   }
-  },
-  "nophoto": "no correct free photo of Nirvachan Sadan or a booth-level officer; quick_photo pictures mislabelled (EVM error screen, helpline poster); Gyanesh Kumar portraits inside 7 days; finder h0620 blo found a politician"
+  "height": 960,
+  "credit": "Photo: Nilanjan Chowdhury / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Voters check their names in an electoral roll with a poll worker (file photo)",
+  "alt_hi": "मतदाता सूची में अपना नाम देखते मतदाता, साथ में एक चुनाव कर्मी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg"
  },
  "iran-hands-us-nuclear-proposal-seven-demands": {
   "id": "r-iran-hands-us-nuclear-proposal-seven-demands",
