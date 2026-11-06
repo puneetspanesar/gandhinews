@@ -75,10 +75,6 @@ Justice Deepak Roshan, ruling on petitions filed by selected candidates in Ranch
 
 The court said selected candidates **cannot be presumed guilty** on the strength of allegations about the exam alone, and repeated its earlier direction that those picked through a fair process "should not be harassed in the name of the investigation". A detailed written order is still to come.
 
-```photo
-{"n":1,"subject":"Hemant Soren","caption":"Chief Minister Hemant Soren's government cancelled the CGL exam and its appointments on August 18 after protests by job aspirants.","alt":"Jharkhand Chief Minister Hemant Soren"}
-```
-
 ## A probe that goes on
 
 The ruling does not end the inquiry. The **CID's investigation will continue**, monitored by retired judge Gautam Kumar Choudhary, whom the court appointed in September, with retired IPS officer R K Mallik as nodal officer.

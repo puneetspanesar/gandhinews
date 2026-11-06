@@ -71,19 +71,11 @@ Nepal tried to rebuild through Darsh Sonar, who batted with great patience for *
 
 Rajput, who also held three catches, then joined in with the ball and **took three wickets** of his own, while Goud and Chauhan claimed two each. Nepal were all out for 128 in 42.3 overs.
 
-```photo
-{"n":1,"subject":"Al Amerat Cricket Ground","caption":"The Oman Cricket Academy grounds at Al Amerat are hosting every match of the Under-19 Asia Cup.","alt":"Cricket ground at Al Amerat, Oman (file photo)"}
-```
-
 ## A chase without a scare
 
 India's openers began carefully, with only 29 runs from the first five overs as Sushil Rawal bowled tightly for Nepal. Once they had the measure of the bowling, they cut loose. Sehwag, son of former India opener Virender Sehwag, raced to **69 off 51 balls** with seven fours and four sixes. Raichandani was the steadier partner, making 53 off 63 balls with seven fours.
 
 Nepal's captain Bipin Prasad Sharma went for 37 runs in his five overs, and none of his bowlers could break the partnership. India reached the target with **31 overs to spare**.
-
-```photo
-{"n":2,"subject":"Virender Sehwag","caption":"Former India opener Virender Sehwag, whose son Aaryavir top-scored in the chase against Nepal.","alt":"Former India cricketer Virender Sehwag"}
-```
 
 For Sehwag, the innings carried on the form that won him his place. He came into the tournament after scoring 173 off 143 balls for Delhi against Chandigarh in the Vinoo Mankad Trophy.
 

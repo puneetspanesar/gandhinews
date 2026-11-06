@@ -83,10 +83,6 @@ The paddy figures came as the Chief Minister released a wider round of payments.
 
 The allowance goes up from 60% to 63% from July 1, 2026, for about 2.78 lakh employees and 2.60 lakh pensioners. Social security pensions under 15 state schemes accounted for ₹1,135.21 crore of the money released on Friday, reaching 35,26,358 people.
 
-```photo
-{"n":1,"subject":"Paddy procurement Haryana mandi","caption":"Paddy at a Haryana grain market, where purchases run until November 15 (file photo).","alt":"Heaps of paddy at a grain market in Haryana (file photo)"}
-```
-
 He also wished people in the state a happy Dhanteras and Deepawali.
 
 ## What comes next

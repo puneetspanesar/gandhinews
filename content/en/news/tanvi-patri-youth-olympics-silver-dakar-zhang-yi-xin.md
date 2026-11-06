@@ -62,10 +62,6 @@ Tanvi started slowly but took the opening game in 25 minutes, turning a 3-5 defi
 
 The third game looked over when Zhang led **19-10** with a stream of cross-court drops. Tanvi clawed back to 19-15, then an error on a cross-court smash handed Zhang five match points. The Indian **saved all five** and earned three chances of her own to win gold, but Zhang held her nerve to close it out at 26-24.
 
-```photo
-{"n":1,"subject":"Lakshya Sen","caption":"Lakshya Sen won singles silver at the 2018 Youth Olympics, the last Indian to reach a badminton final at the Games before Tanvi Patri.","alt":"Indian badminton player Lakshya Sen"}
-```
-
 Only two Indians had won an individual badminton medal at the Youth Olympics before her, both men and both silver: **HS Prannoy in 2010 and Lakshya Sen in 2018**. Sen also took gold that year in a mixed team made up of players from eight countries.
 
 The Badminton Association of India hailed the result. "Tanvi Patri has made the entire nation proud with a historic achievement at the Youth Olympic Games," its general secretary said. "Winning a silver medal at just 15 is an extraordinary accomplishment."

@@ -79,10 +79,6 @@ Abdullah did not dismiss the complaints. "We have talked to them, their problems
 
 He used the moment to restate the party's central demands. "Our fight for statehood will continue, and so will our fight for Article 370 and Article 35A," he said.
 
-```photo
-{"n":1,"subject":"Omar Abdullah","caption":"Chief Minister Omar Abdullah, whose October 27 cabinet expansion set off the unrest, sat in on Friday's meeting with the legislators.","alt":"Jammu and Kashmir Chief Minister Omar Abdullah"}
-```
-
 Nazir Ahmad Khan Gurezi, the MLA who had been chosen to take the dissidents' memorandum to the party president, played down talk of a breakaway group. "We are legislators of the National Conference. We come to our party leadership with our issues every time," he said. "**No separate party has emerged** from the National Conference."
 
 He said the group had sat together for the last few days and that social media had made more of it than there was. The leadership, he said, had assured them that some issues, political and otherwise, would be addressed immediately.
