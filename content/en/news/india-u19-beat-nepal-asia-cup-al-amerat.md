@@ -6,7 +6,7 @@ section: sports
 format_label: "Sports / Cricket"
 topics: []
 title: "Sehwag and Raichandani fifties carry India to 10-wicket win over Nepal in U19 Asia Cup"
-standfirst: "Ishan Sood's 3 for 18 helped bowl Nepal out for 128 in Al Amerat, and the Indian openers knocked off the runs in 19 overs without losing a wicket."
+standfirst: "Ishan Sood's 3 for 18 helped bowl Nepal out for 128 in Al Amerat, and the Indian openers knocked off the runs in 19.1 overs without losing a wicket."
 published: 2026-11-06T15:10:03+05:30
 location: Al Amerat, Oman
 upcoming: {date: 2026-11-08, en: "Men's U19 Asia Cup: India v Pakistan in Al Amerat, 10:30 am IST", hi: "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"}
@@ -23,7 +23,7 @@ hero:
     value: "128 all out, chased without loss"
 related: [india-u19-open-asia-cup-nepal-al-amerat-raichandani]
 seo:
-  description: "India beat Nepal by 10 wickets in the Men's U19 Asia Cup in Al Amerat on November 6, 2026, chasing 129 in 19 overs after Ishan Sood's 3 for 18."
+  description: "India beat Nepal by 10 wickets in the Men's U19 Asia Cup in Al Amerat on November 6, 2026, chasing 129 in 19.1 overs after Ishan Sood's 3 for 18."
 sources:
   - title: "India U19 Vs Nepal U19 LIVE Score: Aaryavir Sehwag and Lakshya Raichandani Hit Fifties As India Close In On Victory"
     publisher: "Outlook India"
@@ -44,13 +44,13 @@ verification:
   status: approved
   notes:
     - "Nepal innings and India bowling from Outlook live blog (1:42 pm IST update): 128 all out in 42.3 overs; Sood 3/18 in 10 overs with four maidens; Rajput 3, Goud 2, Manal Chauhan 2 (figures for those three not given, so not printed). Batting: Darsh Sonar 43 (93), Aashish Luhar 29 (45), Niraj Kumar Yadav 20 (48); 43-run fifth-wicket stand. India won toss and fielded."
-    - "Chase from CricTracker live page: India 128/0 in 19 overs, needing 1, Sehwag 69 (51b, 7x4, 4x6), Raichandani 53 (63b, 7x4). Final winning run not seen on a page I could read by 3:10 pm IST; 10-wicket margin follows from 128/0 needing 1 and Outlook headline 'close in on victory'. Final scores of the two batters may be a run or so higher; copy uses the CricTracker figures. Picture desk/editor: recheck the final scorecard before publishing."
+    - "Chase from CricTracker live page: India 128/0 in 19.1 overs, needing 1, Sehwag 69 (51b, 7x4, 4x6), Raichandani 53* (63b, 7x4). Final winning run not seen on a page I could read by 3:10 pm IST; 10-wicket margin follows from 128/0 needing 1 and Outlook headline 'close in on victory'. Final scores of the two batters may be a run or so higher; copy uses the CricTracker figures. Picture desk/editor: recheck the final scorecard before publishing."
     - "No post-match quotes found; none used. Player of the match not found."
     - "India v Pakistan on Sunday November 8, 10:30 am IST, from the preview story's sources (Oman Observer, Madhyamam)."
 infographic:
   kicker: "Men's U19 Asia Cup, Al Amerat"
   headline: "India crush Nepal by 10 wickets in opener"
-  dek: "Nepal 128 all out; India chase it in 19 overs"
+  dek: "Nepal 128 all out; India chase it in 19.1 overs"
   motif: cricket
   stats:
     - {icon: cricket, value: "128", label: "Nepal all out in 42.3 overs"}
@@ -59,7 +59,7 @@ infographic:
   source: "Match scorecard, November 6, 2026"
 ---
 
-India opened their Men's Under-19 Asia Cup campaign with a crushing **10-wicket win over Nepal** in Al Amerat, Oman, on Friday, November 6, 2026. After their bowlers dismissed Nepal for 128, openers Aaryavir Sehwag and captain Lakshya Raichandani knocked off the target in just 19 overs.
+India opened their Men's Under-19 Asia Cup campaign with a crushing **10-wicket win over Nepal** in Al Amerat, Oman, on Friday, November 6, 2026. After their bowlers dismissed Nepal for 128, openers Aaryavir Sehwag and captain Lakshya Raichandani knocked off the target in just 19.1 overs.
 
 The eight-time champions could hardly have asked for a cleaner start. Raichandani won the toss and chose to bowl on the Oman Cricket Academy ground, and his bowlers had Nepal in trouble inside the first hour.
 
@@ -75,7 +75,7 @@ Rajput, who also held three catches, then joined in with the ball and **took thr
 
 India's openers began carefully, with only 29 runs from the first five overs as Sushil Rawal bowled tightly for Nepal. Once they had the measure of the bowling, they cut loose. Sehwag, son of former India opener Virender Sehwag, raced to **69 off 51 balls** with seven fours and four sixes. Raichandani was the steadier partner, making 53 off 63 balls with seven fours.
 
-Nepal's captain Bipin Prasad Sharma went for 37 runs in his five overs, and none of his bowlers could break the partnership. India reached the target with **31 overs to spare**.
+Nepal's captain Bipin Prasad Sharma went for 37 runs in his five overs, and none of his bowlers could break the partnership. India reached the target with **30.5 overs to spare**.
 
 For Sehwag, the innings carried on the form that won him his place. He came into the tournament after scoring 173 off 143 balls for Delhi against Chandigarh in the Vinoo Mankad Trophy.
 

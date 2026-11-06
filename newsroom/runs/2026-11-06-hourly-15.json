@@ -1,0 +1,26 @@
+{
+ "run": "hourly-15",
+ "start": "2026-11-06T15:04:24+05:30",
+ "end": "2026-11-06T15:50:44+05:30",
+ "summary": "Farooq Abdullah lead, Jharkhand HC JSSC ruling, Haryana paddy and DA, U19 win, Tanvi Patri silver; LIC held",
+ "new": [
+  "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+  "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+  "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+  "india-u19-beat-nepal-asia-cup-al-amerat",
+  "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+  "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
+ ],
+ "held": [
+  "lic-q2-profit-rises-20-per-cent-12076-crore-shares-fall"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-u19-beat-nepal-asia-cup-al-amerat",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza"
+ ],
+ "lead": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
+}

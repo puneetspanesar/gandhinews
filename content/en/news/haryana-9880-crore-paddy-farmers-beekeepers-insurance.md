@@ -53,7 +53,7 @@ verification:
   status: approved
   notes:
     - "Paddy figures (₹9,880 crore, 2,88,102 farmers, 48 LMT arrivals, 43 LMT procured up to Nov 5) agree in UNI (paywalled excerpt) and Rozana Spokesman (11:43 am IST)."
-    - "Procurement dates (Sept 29 to Nov 15), 278 mandis, prices ₹2,441 / ₹2,461 per quintal, ₹50 per colony per box premium and the Aug 16, 2025 honey announcement: Rozana Spokesman only."
+    - "Procurement dates (Sept 29 to Nov 15), 278 mandis, prices ₹2,441 / ₹2,461 per quintal, ₹50 per colony per box premium and the Aug 16, 2025, honey announcement: Rozana Spokesman only."
     - "250 colonies / 250 boxes cap and the list of covered risks (floods, fire, natural calamities, road accidents while colonies are moved): UNI, October 24, 2026, quoting a Horticulture Department spokesperson."
     - "No direct quotes from Saini were available in the sources read; his remarks are paraphrased. UNI excerpt also mentions a 37.20 lakh tonne figure without context; left out."
     - "Exact time of the press conference not given; Rozana Spokesman report was up by 11:43 am IST."

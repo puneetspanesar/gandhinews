@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+    "id": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
     "overlay": {
       "kicker": {
-        "en": "Politics / Opposition",
-        "hi": "राजनीति / विपक्ष"
+        "en": "Politics / Jammu and Kashmir",
+        "hi": "राजनीति / जम्मू-कश्मीर"
       },
       "value": {
-        "en": "'Vote lost, rights lost'",
-        "hi": "'वोट गया, तो हक गया'"
+        "en": "'Their problems were genuine'",
+        "hi": "'उनकी समस्याएं जायज़ थीं'"
       },
       "text": {
         "en": "",
@@ -17,112 +17,111 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-      "telangana-roll-revision-must-not-erase-voters-quietly",
-      "who-owns-trinamool-election-commission-symbol-dispute-explained"
+      "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+      "andhra-local-polls-must-start-with-free-nominations"
     ],
     "relatedBeside": [
-      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-      "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
+      "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "india-u19-beat-nepal-asia-cup-al-amerat",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+      "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza"
     ],
     "live": {
       "title": {
-        "en": "Opposition",
-        "hi": "विपक्ष"
+        "en": "Jammu and Kashmir",
+        "hi": "जम्मू-कश्मीर"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
         "lead": {
-          "en": "Home Ministry:",
-          "hi": "गृह मंत्रालय:"
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
-          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
+          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
+          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
         }
       },
       {
-        "link": "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Sensex crosses 80,000, up 1,066 points at 2 pm as banks extend the rally",
-          "hi": "दोपहर 2 बजे सेंसेक्स 1,066 अंक उछलकर 80,000 के पार, बैंकों ने बढ़त आगे बढ़ाई"
+          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
+          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
         }
       },
       {
-        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "link": "india-u19-beat-nepal-asia-cup-al-amerat",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
-          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+          "en": "Sehwag and Raichandani fifties carry India to 10-wicket win over Nepal in U19 Asia Cup",
+          "hi": "अंडर-19 एशिया कप: सहवाग और रायचंदानी के अर्धशतक, भारत ने नेपाल को 10 विकेट से रौंदा"
         }
       },
       {
-        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "link": "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
         },
         "text": {
-          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
-          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+          "en": "Tanvi Patri, 15, wins India's first Youth Olympics medal in women's badminton",
+          "hi": "15 साल की तन्वी पात्री ने यूथ ओलंपिक में रजत जीतकर रचा इतिहास"
         }
       },
       {
-        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+        "link": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
         },
         "text": {
-          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
-          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
+          "en": "Night fire in Karol Bagh's Gaffar Market damages up to 45 shops; no one hurt",
+          "hi": "करोल बाग के गफ्फार मार्केट में रात को लगी आग, 45 तक दुकानें प्रभावित; कोई हताहत नहीं"
         }
       },
       {
-        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "link": "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "lead": {
+          "en": "BJP:",
+          "hi": "भाजपा:"
+        },
+        "text": {
+          "en": "Amit Shah says BJP will win Uttarakhand again as he unveils ₹1,475 crore projects in Dehradun",
+          "hi": "अमित शाह बोले, उत्तराखंड में फिर बनेगी भाजपा सरकार; देहरादून में ₹1,475 करोड़ की योजनाएं दीं"
+        }
+      },
+      {
+        "link": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring letter",
+          "hi": "दिल्ली के 47 लाख कटे मतदाताओं को तसल्ली की चिट्ठी नहीं, एक साफ फॉर्म चाहिए"
+        }
+      },
+      {
+        "link": "two-child-norm-explained-javed-ruling-larger-bench",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
-          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
-        }
-      },
-      {
-        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
-          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
-        }
-      },
-      {
-        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
-        "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
-        },
-        "text": {
-          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
-          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
+          "en": "Two-child norm explained: what Javed held in 2003 and why the Supreme Court wants it looked at again",
+          "hi": "दो-बच्चा नियम क्या है, 2003 के जावेद फैसले में क्या कहा गया था और सुप्रीम कोर्ट अब उस पर दोबारा विचार क्यों चाहता है"
         }
       }
     ]
@@ -190,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+      "id": "amit-shah-dehradun-rally-speech-1475-crore-projects",
       "also": []
     },
     "list": [
-      "joshi-renewable-investment-220-billion-500-gw-2030",
-      "jharkhand-khunti-trailer-crowd-seven-killed",
-      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-      "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+      "two-child-norm-explained-javed-ruling-larger-bench",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+      "titan-q2-standalone-profit-doubles-2393-crore"
     ],
     "also": [
-      "hosur-factory-concrete-structure-collapse-three-workers-killed",
-      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
     ]
   },
   "startHere": [
@@ -378,15 +377,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
         "amit-shah-dehradun-rally-speech-1475-crore-projects",
-        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
       ],
-      "lead": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
+      "lead": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation"
     },
     {
       "section": "economy",
-      "lead": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+      "lead": "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +396,19 @@
         ]
       },
       "list": [
-        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
-        "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "fii-buy-14975-crore-november-5-dii-sell-10445"
       ]
     },
     {
       "section": "states",
-      "lead": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+      "lead": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
       "list": [
+        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
         "jharkhand-khunti-trailer-crowd-seven-killed",
-        "andhra-parishad-polls-four-voters-two-poll-staff-die",
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+        "andhra-parishad-polls-four-voters-two-poll-staff-die"
       ]
     },
     {
@@ -457,12 +456,12 @@
     },
     {
       "section": "sports",
-      "lead": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+      "lead": "india-u19-beat-nepal-asia-cup-al-amerat",
       "list": [
-        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
       ]
     }
   ],
@@ -490,6 +489,18 @@
         "hi": "देहरादून के परेड ग्राउंड में अमित शाह की भाजपा रैली"
       },
       "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST",
+        "hi": "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"
+      },
+      "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
     },
     {
       "icon": "calendar-blank",
@@ -526,36 +537,9 @@
         "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
       },
       "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
-      },
-      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T00:33:01+05:30",
-      "ids": [
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
-        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-        "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-        "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
-        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
-        "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-        "ugc-equity-rules-revise-them-do-not-bury-them"
-      ]
-    },
     {
       "at": "2026-11-06T06:38:16+05:30",
       "ids": [
@@ -657,6 +641,22 @@
         "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
         "joshi-renewable-investment-220-billion-500-gw-2030",
         "jharkhand-khunti-trailer-crowd-seven-killed"
+      ]
+    },
+    {
+      "at": "2026-11-06T15:48:12+05:30",
+      "ids": [
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+        "andhra-local-polls-must-start-with-free-nominations",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "india-u19-beat-nepal-asia-cup-al-amerat",
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+        "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+        "two-child-norm-explained-javed-ruling-larger-bench"
       ]
     }
   ],
