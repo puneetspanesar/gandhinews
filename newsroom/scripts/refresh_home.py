@@ -67,7 +67,8 @@ _pending_lead = False
 # ---- the previous hour's headlines: nothing in them may appear in this hour's headlines (critical + updated excepted)
 hist = h.setdefault('headlineHistory', [])
 _at = lambda e: dt.datetime.fromisoformat(e['at'])
-prev = next((e for e in reversed(hist) if (now - _at(e)).total_seconds() >= 40 * 60), None)
+_hour = now.replace(minute=0, second=0, microsecond=0)
+prev = next((e for e in reversed(hist) if _at(e) < _hour), None)
 _gt, _gh = prev_hour_homepage(now)
 if _gh and (not prev or _gt > _at(prev)): prev = {'at': _gt.isoformat(timespec='seconds'), 'ids': headline_ids(_gh)}   # main's own history wins
 blocked = set(prev['ids']) if prev else set()
@@ -78,7 +79,7 @@ for t, hp in recent_homepages(now, 6):
     for i in headline_ids(hp): shown[i] = shown.get(i, 0) + 1
     led.add((hp.get('lead') or {}).get('id')); core6 |= set(core_ids(hp))
 for e in hist:   # this homepage's own record too (covers a run that has not reached git yet)
-    if (now - _at(e)).total_seconds() < 6 * 3600 and (now - _at(e)).total_seconds() >= 40 * 60:
+    if (now - _at(e)).total_seconds() < 6 * 3600 and _at(e) < _hour:
         for n, i in enumerate(e.get('ids') or []):
             shown[i] = shown.get(i, 0) + 1
             if n == 0: led.add(i)
@@ -186,7 +187,7 @@ if len(h['weekAhead']) < 3: print(f"WARNING: only {len(h['weekAhead'])} dated it
 
 # ---- remember this hour's headlines (a re-run inside the same hour replaces its own entry)
 entry = {'at': now.isoformat(timespec='seconds'), 'ids': [lead] + rel[:3] + taken[:8]}
-if hist and (now - _at(hist[-1])).total_seconds() < 40 * 60: hist[-1] = entry
+if hist and _at(hist[-1]) >= _hour: hist[-1] = entry
 else: hist.append(entry)
 h['headlineHistory'] = hist[-8:]
 h['critical'] = [i for i in a.critical if allowed(i)]

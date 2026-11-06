@@ -9,7 +9,7 @@ Rules checked, mechanically:
     stale 2 hours after that clock time
   markets band: while the market is open its figures are under 2 hours old
   the site moves: between 8 am and midnight the newest news story is under 3 hours old
-  headlines change every hour: nothing in the headlines was in the previous hour's headlines (git), unless marked
+  headlines change every hour: nothing in the headlines was in the homepage that stood at the top of this hour (git), unless marked
     critical and updated since
 Exit 0: all rules hold. Exit 1: problems to fix before publishing. Exit 2: only rule breaches that cannot be fixed
 this run (an infographic lead when no fresh story has a photo, no new story in 3 hours): publish, they go in the run record.

@@ -71,22 +71,22 @@ def headline_ids(h):
     L = h.get('lead') or {}; ts = h.get('topStories') or {}
     ids = [L.get('id')] + list(L.get('relatedBelow') or []) + list(L.get('relatedBeside') or []) + [(ts.get('big') or {}).get('id')] + list(ts.get('list') or []) + list(ts.get('also') or []) + [i.get('link') for i in (h.get('briefing') or {}).get('items') or []]
     return [i for i in dict.fromkeys(ids) if i]
-def prev_hour_homepage(now, root='.', minutes=40):
-    """(time, homepage dict) of main's homepage.json as it was in the newest commit at least `minutes` old, read from git,
-    so the check does not depend on what a run wrote into homepage.json."""
+def prev_hour_homepage(now, root='.', minutes=None):
+    """(time, homepage dict) of main's homepage.json as it stood at the top of this hour (the newest commit before
+    HH:00), read from git, so the check never depends on what a run wrote. Every run of this hour must differ from it."""
     import subprocess as sp
     log = sp.run(['git', '-C', root, 'log', '-40', '--format=%H %ct', 'origin/main', '--', 'content/homepage.json'], capture_output=True, text=True).stdout.split('\n')
     for l in log:
         if not l.strip(): continue
         sha, ct = l.split()
         t = _dt.datetime.fromtimestamp(int(ct), now.tzinfo)
-        if (now - t).total_seconds() >= minutes * 60:
+        if t < now.replace(minute=0, second=0, microsecond=0):
             try: return t, _json.loads(sp.run(['git', '-C', root, 'show', f'{sha}:content/homepage.json'], capture_output=True, text=True).stdout)
             except ValueError: return None, None
     return None, None
 def recent_homepages(now, hours=6, root='.', min_age_minutes=40):
-    """[(time, homepage dict)] for main's homepage.json commits from the last `hours` hours that are at least
-    `min_age_minutes` old (newest first), from git, so checks never depend on what a run wrote."""
+    """[(time, homepage dict)] for main's homepage.json commits from the last `hours` hours before the top of this
+    hour (newest first), from git, so checks never depend on what a run wrote."""
     import subprocess as sp
     out = []
     log = sp.run(['git', '-C', root, 'log', f'--since={hours} hours ago', '--format=%H %ct', 'origin/main', '--', 'content/homepage.json'], capture_output=True, text=True).stdout.split('\n')
@@ -94,7 +94,7 @@ def recent_homepages(now, hours=6, root='.', min_age_minutes=40):
         if not l.strip(): continue
         sha, ct = l.split()
         t = _dt.datetime.fromtimestamp(int(ct), now.tzinfo)
-        if (now - t).total_seconds() < min_age_minutes * 60: continue
+        if t >= now.replace(minute=0, second=0, microsecond=0): continue   # this hour's own versions do not count
         try: out.append((t, _json.loads(sp.run(['git', '-C', root, 'show', f'{sha}:content/homepage.json'], capture_output=True, text=True).stdout)))
         except ValueError: pass
     return out

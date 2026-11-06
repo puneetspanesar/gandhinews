@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "lic-q2-profit-12115-crore-up-20-per-cent",
       "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-      "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-      "modi-meets-asian-para-games-medallists-delhi"
+      "titan-q2-standalone-profit-doubles-2393-crore",
+      "sensex-nifty-close-november-5-rally",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "ugc-equity-rules-revise-them-do-not-bury-them"
     ],
     "live": {
       "title": {
@@ -33,17 +33,6 @@
   },
   "briefing": {
     "items": [
-      {
-        "link": "lic-q2-profit-12115-crore-up-20-per-cent",
-        "lead": {
-          "en": "Results:",
-          "hi": "नतीजे:"
-        },
-        "text": {
-          "en": "LIC's September-quarter profit rises 20% to ₹12,115 crore as premiums grow 16%",
-          "hi": "एलआईसी का सितंबर तिमाही मुनाफा 20% बढ़कर 12,115 करोड़ रुपये, प्रीमियम आय 16% बढ़ी"
-        }
-      },
       {
         "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
         "lead": {
@@ -56,58 +45,47 @@
         }
       },
       {
-        "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
+        "link": "titan-q2-standalone-profit-doubles-2393-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Titan's Q2 standalone profit more than doubles to ₹2,393 crore",
+          "hi": "टाइटन का दूसरी तिमाही का स्टैंडअलोन मुनाफ़ा दोगुने से ज़्यादा, ₹2,393 करोड़"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-5-rally",
         "lead": {
           "en": "Markets:",
-          "hi": "बाज़ार:"
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day",
-          "hi": "सेंसेक्स की 2,009 अंकों की छलांग वाले दिन विदेशी निवेशकों ने ₹14,975 करोड़ के शेयर खरीदे"
+          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
+          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
         }
       },
       {
-        "link": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Andhra parishad polling ends; officials estimate 65% to 68% turnout, counting on November 7",
-          "hi": "आंध्र परिषद चुनाव का मतदान खत्म, 65% से 68% मतदान का अनुमान; गिनती 7 नवंबर को"
+          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
+          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
         }
       },
       {
-        "link": "modi-meets-asian-para-games-medallists-delhi",
+        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
         "lead": {
-          "en": "Para sport:",
-          "hi": "पैरा खेल:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
-          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
-        }
-      },
-      {
-        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
-        },
-        "text": {
-          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
-          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
-        }
-      },
-      {
-        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
-          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
+          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
+          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
         }
       },
       {
@@ -119,6 +97,28 @@
         "text": {
           "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
           "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
+        }
+      },
+      {
+        "link": "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "lead": {
+          "en": "Education:",
+          "hi": "शिक्षा:"
+        },
+        "text": {
+          "en": "UGC equity rules explained: what the caste discrimination regulations say and why they are on hold",
+          "hi": "यूजीसी के समानता नियम: कैंपस में जातिगत भेदभाव पर नियम क्या कहते हैं और क्यों रुके हैं"
+        }
+      },
+      {
+        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
+          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "id": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
       "also": []
     },
     "list": [
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
+      "ugc-equity-regulations-explained-caste-discrimination-campuses",
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+      "cristiano-ronaldo-retires-international-football-portugal"
     ],
     "also": [
-      "ugc-equity-rules-revise-them-do-not-bury-them",
-      "24-hour-rule-explained-article-22-detention-arrest"
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore"
     ]
   },
   "startHere": [
@@ -596,17 +596,17 @@
       ]
     },
     {
-      "at": "2026-11-06T11:14:05+05:30",
+      "at": "2026-11-06T11:27:51+05:30",
       "ids": [
         "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "lic-q2-profit-12115-crore-up-20-per-cent",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-        "modi-meets-asian-para-games-medallists-delhi",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+        "titan-q2-standalone-profit-doubles-2393-crore",
+        "sensex-nifty-close-november-5-rally",
+        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+        "ugc-equity-rules-revise-them-do-not-bury-them",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
       ]
     }
   ],
