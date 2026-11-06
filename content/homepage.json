@@ -21,11 +21,11 @@
       "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
     ],
     "relatedBeside": [
-      "lic-q2-profit-12115-crore-up-20-per-cent",
-      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-      "joshi-renewable-investment-220-billion-500-gw-2030",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+      "fii-buy-14975-crore-november-5-dii-sell-10445",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "modi-meets-asian-para-games-medallists-delhi",
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "24-hour-rule-explained-article-22-detention-arrest"
     ],
     "live": {
       "title": {
@@ -37,14 +37,80 @@
   "briefing": {
     "items": [
       {
-        "link": "lic-q2-profit-12115-crore-up-20-per-cent",
+        "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
         "lead": {
-          "en": "Results:",
-          "hi": "नतीजे:"
+          "en": "Markets:",
+          "hi": "बाज़ार:"
         },
         "text": {
-          "en": "LIC's September-quarter profit rises 20% to ₹12,115 crore as premiums grow 16%",
-          "hi": "एलआईसी का सितंबर तिमाही मुनाफा 20% बढ़कर 12,115 करोड़ रुपये, प्रीमियम आय 16% बढ़ी"
+          "en": "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day",
+          "hi": "सेंसेक्स की 2,009 अंकों की छलांग वाले दिन विदेशी निवेशकों ने ₹14,975 करोड़ के शेयर खरीदे"
+        }
+      },
+      {
+        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
+          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+        }
+      },
+      {
+        "link": "modi-meets-asian-para-games-medallists-delhi",
+        "lead": {
+          "en": "Para sport:",
+          "hi": "पैरा खेल:"
+        },
+        "text": {
+          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
+          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
+        }
+      },
+      {
+        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
+          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
+        }
+      },
+      {
+        "link": "24-hour-rule-explained-article-22-detention-arrest",
+        "lead": {
+          "en": "Law:",
+          "hi": "कानून:"
+        },
+        "text": {
+          "en": "The 24-hour rule explained: why the Supreme Court says the clock starts at detention",
+          "hi": "24 घंटे का नियम: सुप्रीम कोर्ट क्यों कहता है कि घड़ी हिरासत से चलती है"
+        }
+      },
+      {
+        "link": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Five more years for fast-track courts is welcome. Without judges and forensic labs they will not be fast",
+          "hi": "फास्ट ट्रैक अदालतों को पांच साल और मिलना स्वागतयोग्य है। पर जज और फॉरेंसिक लैब के बिना वे तेज़ नहीं होंगी"
+        }
+      },
+      {
+        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालतें:"
+        },
+        "text": {
+          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
+          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
         }
       },
       {
@@ -56,72 +122,6 @@
         "text": {
           "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
           "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
-        }
-      },
-      {
-        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
-          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
-        }
-      },
-      {
-        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
-          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
-        }
-      },
-      {
-        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
-          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
-        }
-      },
-      {
-        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
-          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
-        }
-      },
-      {
-        "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Delhi court to hear plea for FIR against Sonia Gandhi over 1980 voter list today",
-          "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर आज सुनवाई"
-        }
-      },
-      {
-        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
-          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
         }
       }
     ]
@@ -189,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+      "id": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
       "also": []
     },
     "list": [
-      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-      "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "modi-meets-asian-para-games-medallists-delhi"
+      "fast-track-special-courts-explained-rape-pocso-backlog",
+      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
     ],
     "also": [
       "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore"
+      "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri"
     ]
   },
   "startHere": [
@@ -599,19 +599,19 @@
       ]
     },
     {
-      "at": "2026-11-06T10:27:48+05:30",
+      "at": "2026-11-06T10:40:22+05:30",
       "ids": [
         "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
         "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
         "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "lic-q2-profit-12115-crore-up-20-per-cent",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "joshi-renewable-investment-220-billion-500-gw-2030",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
+        "fii-buy-14975-crore-november-5-dii-sell-10445",
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "modi-meets-asian-para-games-medallists-delhi",
+        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "24-hour-rule-explained-article-22-detention-arrest",
+        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+        "fast-track-special-courts-explained-rape-pocso-backlog",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol"
       ]
     }
   ],
