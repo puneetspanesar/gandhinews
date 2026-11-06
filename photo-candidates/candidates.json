@@ -1,0 +1,135 @@
+{
+  "fire": {
+    "query": "Delhi fire brigade firefighters blaze",
+    "candidates": []
+  },
+  "u19": {
+    "query": "India under-19 cricket team",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Sindh Cricket team match with Australia in 1935.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sindh_Cricket_team_match_with_Australia_in_1935.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sindh_Cricket_team_match_with_Australia_in_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 256,
+        "height": 594,
+        "licence": "Public domain",
+        "author": "The Sydney Morning Herald, Australia",
+        "credit": "The Sydney Morning Herald, Australia (Newspapers) Archive",
+        "date": "2012-11-24 22:19:48",
+        "description": "The news was published on November 23, 1935 in Daily Sydney Morning Herald",
+        "thumb": "u19-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sindh_Cricket_team_match_with_Australia_in_1935.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Indian Cricket Team in Wankhede Stadium during RSWS.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Indian_Cricket_Team_in_Wankhede_Stadium_during_RSWS.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Indian_Cricket_Team_in_Wankhede_Stadium_during_RSWS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 949,
+        "height": 504,
+        "licence": "CC BY-SA 4.0",
+        "author": "Shuvik23",
+        "credit": "Own work",
+        "date": "2021-11-19",
+        "description": "Indian Cricket Team in Wankhede Stadium during RSWS 2019",
+        "thumb": "u19-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Indian_Cricket_Team_in_Wankhede_Stadium_during_RSWS.png"
+      },
+      {
+        "n": 2,
+        "title": "File:Manmohan Singh and the Prime Minister of Pakistan, Mr. Yousuf Raza Gilani interacting with the Indian Cricket Team at the Indo-Pak World Cup semi-final, at the Punjab Cricket Association stadium, in Mohali on March 30, 2011.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Manmohan_Singh_and_the_Prime_Minister_of_Pakistan,_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final,_at_the_Punjab_Cricket_Association_stadium,_in_Mohali_on_March_30,_2011.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2200,
+        "height": 1755,
+        "licence": "GODL-India",
+        "author": "Prime Minister's Office",
+        "credit": "This file or its source was published by Press Information Bureau on behalf of Prime Minister's Office, Government of In",
+        "date": "2011-03-30 02:28:24",
+        "description": "The Prime Minister, Dr. Manmohan Singh and the Prime Minister of Pakistan, Mr. Yousuf Raza Gilani interacting with the Indian Cricket Team at the Indo-Pak World Cup semi-final, at the Punjab Cricket A",
+        "thumb": "u19-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011.jpg/1600px-thumbnail.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:Manmohan Singh and the Prime Minister of Pakistan, Mr. Yousuf Raza Gilani interacting with the Indian Cricket Team at the Indo-Pak World Cup semi-final, at the Punjab Cricket Association stadium, in Mohali on March 30, 2011 (1).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Manmohan_Singh_and_the_Prime_Minister_of_Pakistan,_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final,_at_the_Punjab_Cricket_Association_stadium,_in_Mohali_on_March_30,_2011_(1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2400,
+        "height": 1594,
+        "licence": "GODL-India",
+        "author": "Prime Minister's Office",
+        "credit": "This file or its source was published by Press Information Bureau on behalf of Prime Minister's Office, Government of In",
+        "date": "2011-03-30 02:28:38",
+        "description": "The Prime Minister, Dr. Manmohan Singh and the Prime Minister of Pakistan, Mr. Yousuf Raza Gilani interacting with the Indian Cricket Team at the Indo-Pak World Cup semi-final, at the Punjab Cricket A",
+        "thumb": "u19-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011_%281%29.jpg/1600px-thumbnail.jpg"
+      },
+      {
+        "n": 4,
+        "title": "File:TCA Team Picture.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:TCA_Team_Picture.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/TCA_Team_Picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2592,
+        "height": 1728,
+        "licence": "CC BY-SA 4.0",
+        "author": "Dharam2016",
+        "credit": "Own work",
+        "date": "2015-12-19 10:43:20",
+        "description": "TCA Team Picture",
+        "thumb": "u19-4.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TCA_Team_Picture.jpg/1600px-TCA_Team_Picture.jpg"
+      },
+      {
+        "n": 5,
+        "title": "File:Bangladesh Prime Minister Sheikh Hasina receives flowers after youth cricket team wins Under-19 World Cup 2020-02-10 (PID-0034326).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bangladesh_Prime_Minister_Sheikh_Hasina_receives_flowers_after_youth_cricket_team_wins_Under-19_World_Cup_2020-02-10_(PID-0034326).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bangladesh_Prime_Minister_Sheikh_Hasina_receives_flowers_after_youth_cricket_team_wins_Under-19_World_Cup_2020-02-10_%28PID-0034326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1555,
+        "height": 1309,
+        "licence": "Public domain",
+        "author": "Press Information Department",
+        "credit": "pressinform.gov.bd (archive)",
+        "date": "10 February 2020, 07:03:35",
+        "description": "At the start of a cabinet meeting at her office in Dhaka, Prime Minister Sheikh Hasina was congratulated with flowers by the State Minister for Youth and Sports, Md. Zahid Ahsan Russel, for Bangladesh",
+        "thumb": "u19-5.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bangladesh_Prime_Minister_Sheikh_Hasina_receives_flowers_after_youth_cricket_team_wins_Under-19_World_Cup_2020-02-10_%28PID-0034326%29.jpg"
+      },
+      {
+        "n": 6,
+        "title": "File:TCA Team Meeting with Coach.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:TCA_Team_Meeting_with_Coach.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/TCA_Team_Meeting_with_Coach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2592,
+        "height": 1728,
+        "licence": "CC BY-SA 4.0",
+        "author": "Dharam2016",
+        "credit": "Own work",
+        "date": "2015-12-19 09:07:36",
+        "description": "Team Meeting",
+        "thumb": "u19-6.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TCA_Team_Meeting_with_Coach.jpg/1600px-TCA_Team_Meeting_with_Coach.jpg"
+      },
+      {
+        "n": 7,
+        "title": "File:Indian Team in Canberra.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Indian_Team_in_Canberra.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Indian_Team_in_Canberra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1600,
+        "height": 900,
+        "licence": "CC BY-SA 4.0",
+        "author": "Amardeep Singh",
+        "credit": "Own work",
+        "date": "2016-01-19",
+        "description": "Indian cricket team at India House in Canberra",
+        "thumb": "u19-7.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Indian_Team_in_Canberra.jpg"
+      }
+    ]
+  },
+  "tanvi": {
+    "query": "Tanvi Patri badminton",
+    "candidates": []
+  }
+}
