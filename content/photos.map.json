@@ -30769,5 +30769,29 @@
     "src800": "/photos/i-rice-paddy-stock-declaration-every-friday-food-stock-portal-hi-640.jpg"
    }
   }
+ },
+ "railways-18000-festive-special-trains": {
+  "id": "o-railways-18000-festive-special-trains",
+  "src": "/photos/o-railways-18000-festive-special-trains-1280.jpg",
+  "src800": "/photos/o-railways-18000-festive-special-trains-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Institution:Ministry of Electronics & IT / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Ashwini Vaishnaw (file photo)",
+  "alt_hi": "अश्विनी वैष्णव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ashwini_Vaishnaw_Minister_of_IT.jpg"
+ },
+ "amit-shah-presidents-police-colour-uttarakhand-police": {
+  "id": "o-amit-shah-presidents-police-colour-uttarakhand-police",
+  "src": "/photos/o-amit-shah-presidents-police-colour-uttarakhand-police-1280.jpg",
+  "src800": "/photos/o-amit-shah-presidents-police-colour-uttarakhand-police-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Amit Shah (file photo)",
+  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg"
  }
 }
