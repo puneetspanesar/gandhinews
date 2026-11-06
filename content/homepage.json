@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "saini-chowkidar-honorarium-15221-rahul-apology",
+    "id": "amit-shah-presidents-police-colour-uttarakhand-police",
     "overlay": {
       "kicker": {
-        "en": "States / Haryana",
-        "hi": "राज्य / हरियाणा"
+        "en": "States / Uttarakhand",
+        "hi": "राज्य / उत्तराखंड"
       },
       "value": {
-        "en": "38% raise for village watchmen",
-        "hi": "चौकीदारों का मानदेय 38% बढ़ा"
+        "en": "Uttarakhand Police get the President's Colour",
+        "hi": "उत्तराखंड पुलिस को राष्ट्रपति निशान"
       },
       "text": {
         "en": "",
@@ -16,27 +16,45 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-      "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
+      "railways-18000-festive-special-trains",
+      "saini-chowkidar-honorarium-15221-rahul-apology",
       "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
       "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-      "ugc-equity-regulations-explained-caste-discrimination-campuses",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc"
+      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
     ],
     "live": {
       "title": {
-        "en": "Haryana",
-        "hi": "हरियाणा"
+        "en": "Uttarakhand",
+        "hi": "उत्तराखंड"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "railways-18000-festive-special-trains",
+        "lead": {
+          "en": "Railways:",
+          "hi": "रेलवे:"
+        },
+        "text": {
+          "en": "Railways to run about 18,000 festive specials, half as many again as last year, says Vaishnaw",
+          "hi": "त्योहारों में करीब 18,000 स्पेशल ट्रेनें चलाएगा रेलवे, पिछले साल से डेढ़ गुना: वैष्णव"
+        }
+      },
+      {
+        "link": "saini-chowkidar-honorarium-15221-rahul-apology",
+        "lead": {
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
+        },
+        "text": {
+          "en": "Saini raises Haryana village watchmen's pay to ₹15,221, asks Rahul Gandhi to apologise for 'chowkidar chor hai'",
+          "hi": "सैनी ने गांव के चौकीदारों का मानदेय 15,221 रुपये किया, 'चौकीदार चोर है' पर राहुल गांधी से माफी मांगने को कहा"
+        }
+      },
       {
         "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "lead": {
@@ -60,47 +78,36 @@
         }
       },
       {
-        "link": "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "lead": {
-          "en": "Education:",
-          "hi": "शिक्षा:"
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "UGC equity rules explained: what the caste discrimination regulations say and why they are on hold",
-          "hi": "यूजीसी के समानता नियम: कैंपस में जातिगत भेदभाव पर नियम क्या कहते हैं और क्यों रुके हैं"
+          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
+          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
         }
       },
       {
-        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "link": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
-          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
+          "en": "Supreme Court refuses to revisit OBC creamy layer ruling, says parents' salary cannot be counted mechanically",
+          "hi": "ओबीसी क्रीमी लेयर फैसले पर दोबारा विचार से सुप्रीम कोर्ट का इनकार, कहा माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता"
         }
       },
       {
-        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "link": "rain-industries-q3-profit-243-crore-interim-dividend",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
-          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
-        }
-      },
-      {
-        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
-        "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
-        },
-        "text": {
-          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
-          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
+          "en": "Rain Industries posts ₹243 crore profit for July to September, declares 50 paise dividend",
+          "hi": "रेन इंडस्ट्रीज को जुलाई-सितंबर में ₹243 करोड़ का मुनाफा, 50 पैसे का लाभांश घोषित"
         }
       },
       {
@@ -112,17 +119,6 @@
         "text": {
           "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
           "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
-        }
-      },
-      {
-        "link": "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
-        "lead": {
-          "en": "Welfare:",
-          "hi": "कल्याण योजनाएं:"
-        },
-        "text": {
-          "en": "Rahul Gandhi's claim that welfare will now go by voter ID, not Aadhaar, is misleading",
-          "hi": "योजनाओं का लाभ अब आधार नहीं, वोटर आईडी से मिलने का राहुल गांधी का दावा भ्रामक"
         }
       }
     ]
@@ -190,15 +186,15 @@
   },
   "topStories": {
     "big": {
-      "id": "jharkhand-khunti-trailer-crowd-seven-killed",
+      "id": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
       "also": []
     },
     "list": [
+      "rain-industries-q3-profit-243-crore-interim-dividend",
       "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
       "hosur-factory-concrete-structure-collapse-three-workers-killed",
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "jharkhand-khunti-trailer-crowd-seven-killed"
     ],
     "also": [
       "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
@@ -386,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+      "lead": "rain-industries-q3-profit-243-crore-interim-dividend",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,28 +393,28 @@
         ]
       },
       "list": [
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal",
         "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
         "rupee-93-89-strongest-since-april-fii-record-buying",
-        "hindalco-q2-profit-59-per-cent-7533-crore-record",
-        "sensex-nifty-close-november-6-sensex-1718-nifty-25030"
+        "hindalco-q2-profit-59-per-cent-7533-crore-record"
       ]
     },
     {
       "section": "states",
-      "lead": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+      "lead": "amit-shah-presidents-police-colour-uttarakhand-police",
       "list": [
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
         "delhi-grap-stage-three-aqi-382-caqm",
-        "saini-chowkidar-honorarium-15221-rahul-apology",
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
+        "saini-chowkidar-honorarium-15221-rahul-apology"
       ]
     },
     {
       "section": "policy",
-      "lead": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "lead": "railways-18000-festive-special-trains",
       "list": [
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
         "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-        "sitharaman-tata-critical-component-settle-amicably-investors"
+        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
       ]
     },
     {
@@ -457,12 +453,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+      "lead": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
       "list": [
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
         "india-u19-beat-nepal-asia-cup-al-amerat",
-        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
       ]
     }
   ],
@@ -651,20 +647,17 @@
       ]
     },
     {
-      "at": "2026-11-06T21:37:19+05:30",
+      "at": "2026-11-06T21:44:06+05:30",
       "ids": [
+        "amit-shah-presidents-police-colour-uttarakhand-police",
+        "railways-18000-festive-special-trains",
         "saini-chowkidar-honorarium-15221-rahul-apology",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
         "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "ugc-equity-regulations-explained-caste-discrimination-campuses",
-        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-        "jharkhand-khunti-trailer-crowd-seven-killed",
-        "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-        "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "rain-industries-q3-profit-243-crore-interim-dividend",
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
       ]
     }
   ],
