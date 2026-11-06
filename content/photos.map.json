@@ -30188,47 +30188,16 @@
   }
  },
  "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam": {
-  "id": "i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-  "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-3x2-1280.jpg",
-  "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-3x2-640.jpg",
+  "id": "o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "src": "/photos/o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-1280.jpg",
+  "src800": "/photos/o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Final turnout rises to 70.72%",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अंतिम मतदान बढ़कर 70.72%",
-  "page": null,
-  "ihash": "ead66314ddc8",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-3x2-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-t-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-t-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Andhra Pradesh polling; library, quick_photo, finder h0617 (only 600 px Chittoor 2004)"
+  "height": 865,
+  "credit": "Photo: Election Commission of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Voters queue outside a polling booth in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश में एक मतदान केंद्र के बाहर कतार में मतदाता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
  },
  "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled": {
   "id": "i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",

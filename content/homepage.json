@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+    "id": "sonia-gandhi-voter-list-case-additional-documents-november-18",
     "overlay": {
       "kicker": {
         "en": "Politics / Courts",
         "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "JSSC CGL jobs restored",
-        "hi": "जेएसएससी सीजीएल की नौकरियां बहाल"
+        "en": "Voter list case: next date November 18",
+        "hi": "मतदाता सूची मामला: अगली तारीख 18 नवंबर"
       },
       "text": {
         "en": "",
@@ -16,15 +16,13 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "hindalco-q2-profit-59-per-cent-7533-crore-record",
-      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-      "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "modi-meets-asian-para-games-medallists-delhi",
+      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
     ],
     "live": {
       "title": {
@@ -36,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "hindalco-q2-profit-59-per-cent-7533-crore-record",
+        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "lead": {
+          "en": "BJP:",
+          "hi": "भाजपा:"
+        },
+        "text": {
+          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
+          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
+        }
+      },
+      {
+        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "lead": {
+          "en": "Rajya Sabha:",
+          "hi": "राज्यसभा:"
+        },
+        "text": {
+          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
+          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+        }
+      },
+      {
+        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
         "lead": {
           "en": "Companies:",
           "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Hindalco posts record quarterly profit of ₹7,533 crore, up 59%, as copper and aluminium shine",
-          "hi": "हिंडाल्को का तिमाही मुनाफा रिकॉर्ड ₹7,533 करोड़, 59% की छलांग; तांबा और एल्युमिनियम चमके"
+          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
+          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
         }
       },
       {
-        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "link": "modi-meets-asian-para-games-medallists-delhi",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Para sport:",
+          "hi": "पैरा खेल:"
         },
         "text": {
-          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
-          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
+          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
+          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
         }
       },
       {
-        "link": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
+          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
+        }
+      },
+      {
+        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "lead": {
           "en": "Companies:",
           "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Airbnb shares jump 10% after fastest revenue growth in three years and a $12 billion buyback",
-          "hi": "तीन साल की सबसे तेज़ कमाई बढ़त और 12 अरब डॉलर के बायबैक से एयरबीएनबी का शेयर 10% उछला"
+          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
+          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
         }
       },
       {
-        "link": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Andhra parishad polls: final turnout rises to 70.72%, Visakhapatnam tops at 82.51%",
-          "hi": "आंध्र परिषद चुनाव: अंतिम मतदान 70.72%, विशाखापत्तनम 82.51% के साथ सबसे आगे"
+          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
+          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
         }
       },
       {
-        "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+        "link": "jagan-parishad-polls-selections-naidu-hijacked",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Rain threatens Wellington ODI as India call off training",
-          "hi": "वेलिंगटन वनडे पर बारिश का खतरा, भारत ने अभ्यास रद्द किया"
-        }
-      },
-      {
-        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
-        },
-        "text": {
-          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
-          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
-        }
-      },
-      {
-        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
-          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
-        }
-      },
-      {
-        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
-          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
+          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
+          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
         }
       }
     ]
@@ -188,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+      "id": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
       "also": []
     },
     "list": [
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-      "ugc-equity-rules-revise-them-do-not-bury-them",
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence"
     ],
     "also": [
-      "amit-shah-dehradun-rally-speech-1475-crore-projects",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+      "india-u19-beat-nepal-asia-cup-al-amerat",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
     ]
   },
   "startHere": [
@@ -396,9 +394,9 @@
       },
       "list": [
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
@@ -540,20 +538,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-06T09:32:56+05:30",
-      "ids": [
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "cristiano-ronaldo-retires-international-football-portugal",
-        "jagan-parishad-polls-selections-naidu-hijacked",
-        "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-        "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
-      ]
-    },
-    {
       "at": "2026-11-06T11:39:33+05:30",
       "ids": [
         "amit-shah-dehradun-parade-ground-rally-padyatra-today",
@@ -656,6 +640,20 @@
         "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
         "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
         "ugc-equity-rules-revise-them-do-not-bury-them"
+      ]
+    },
+    {
+      "at": "2026-11-06T18:12:08+05:30",
+      "ids": [
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "modi-meets-asian-para-games-medallists-delhi",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "jagan-parishad-polls-selections-naidu-hijacked"
       ]
     }
   ],
