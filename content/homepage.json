@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+    "id": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP",
-        "hi": "राजनीति / भाजपा"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "Shah's Doon rally ahead of 2027 polls",
-        "hi": "2027 से पहले दून में शाह की रैली"
+        "en": "Five mandals vote today, two repolls",
+        "hi": "पांच मंडलों में आज मतदान, दो बूथों पर दोबारा"
       },
       "text": {
         "en": "",
@@ -16,109 +16,111 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
+    ],
     "relatedBeside": [
-      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
+      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "cristiano-ronaldo-retires-international-football-portugal",
+      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8"
     ],
     "live": {
       "title": {
-        "en": "BJP",
-        "hi": "भाजपा"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "lead": {
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
+        },
+        "text": {
+          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
+          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
+        }
+      },
+      {
+        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
+          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
+        }
+      },
+      {
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+        }
+      },
+      {
+        "link": "cristiano-ronaldo-retires-international-football-portugal",
+        "lead": {
+          "en": "Football:",
+          "hi": "फुटबॉल:"
+        },
+        "text": {
+          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
+          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
+        }
+      },
+      {
+        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
         "lead": {
           "en": "Companies:",
           "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Airbnb shares jump 10% after fastest revenue growth in three years and a $12 billion buyback",
-          "hi": "तीन साल की सबसे तेज़ कमाई बढ़त और 12 अरब डॉलर के बायबैक से एयरबीएनबी का शेयर 10% उछला"
+          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
+          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
         }
       },
       {
-        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
-          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
-        }
-      },
-      {
-        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
-          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
-        }
-      },
-      {
-        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
-          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
-        }
-      },
-      {
-        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
-          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
+          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
+          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
         }
       },
       {
-        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
+          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
+        }
+      },
+      {
+        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Andhra parishad polls: YSRCP alleges booth capturing in Dhulipalla, Byreddy Siddharth under house arrest",
-          "hi": "आंध्र परिषद चुनाव: वाईएसआरसीपी का धुलिपल्ला में बूथ कब्जे का आरोप, बायरेड्डी सिद्धार्थ नजरबंद"
-        }
-      },
-      {
-        "link": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring letter",
-          "hi": "दिल्ली के 47 लाख कटे मतदाताओं को तसल्ली की चिट्ठी नहीं, एक साफ फॉर्म चाहिए"
-        }
-      },
-      {
-        "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
-          "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
+          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% in the first two hours",
+          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में पहले दो घंटों में 12% मतदान"
         }
       }
     ]
@@ -186,18 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+      "id": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
       "also": []
     },
     "list": [
-      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-      "us-midterms-explained-congress-tariffs-what-it-means-for-india",
-      "coastal-freight-goal-for-2047-needs-milestones-this-decade",
-      "qs-asia-slide-india-universities-must-open-to-the-world"
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+      "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "24-hour-rule-explained-article-22-detention-arrest"
     ],
     "also": [
-      "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
     ]
   },
   "startHere": [
@@ -381,7 +384,7 @@
     },
     {
       "section": "economy",
-      "lead": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+      "lead": "joshi-renewable-investment-220-billion-500-gw-2030",
       "module": {
         "type": "markets",
         "indicators": [
@@ -392,10 +395,10 @@
         ]
       },
       "list": [
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
         "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
         "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8"
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
       ]
     },
     {
@@ -432,12 +435,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "lead": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
       "list": [
+        "us-midterms-schumer-lower-costs-with-or-without-trump",
         "us-midterms-alaska-sullivan-peltola-too-close-to-call",
         "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-        "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
-        "us-midterms-collins-concedes-troy-jackson-maine-senate-flip"
+        "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries"
       ]
     },
     {
@@ -452,12 +455,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+      "lead": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
       "list": [
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
         "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "cristiano-ronaldo-retires-international-football-portugal",
-        "modi-meets-asian-para-games-medallists-delhi",
-        "india-japan-asian-champions-trophy-final-mohali-preview"
+        "modi-meets-asian-para-games-medallists-delhi"
       ]
     }
   ],
@@ -561,6 +564,21 @@
         "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
         "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
         "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+      ]
+    },
+    {
+      "at": "2026-11-06T07:42:06+05:30",
+      "ids": [
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "cristiano-ronaldo-retires-international-football-portugal",
+        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
       ]
     }
   ],

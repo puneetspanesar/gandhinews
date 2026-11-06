@@ -135,3 +135,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - NEXT RUN, FIRST: Andhra five Murasu-hit mandals and two repoll booths vote from 7 am today; write live turnout as a new development story and make it the LEAD.
 - Homepage: business cards (Fortis, Titan, Airtel, ONGC, Glenmark, IRB, Mahindra) dropped from the top to keep one business story (Airbnb); the top eight now reach back to 37-hour-old opinion pieces for lack of fresh stories. Editor's first check also flagged "Andhra Pradesh" and "Companies" twice in the sub-nav (the second check did not see it; not fixed).
 - Markets: before the open; markets.json unchanged.
+
+## November 6, 2026, 7:45 am (from the 07:00 run)
+- Published 3 stories: Trump says a Russia-Ukraine deal may involve all of Europe, met Dmitriev (Trump photo); Pralhad Joshi says renewable investment will top $220 bn by 2030 (Joshi photo, Nov 5 event); Manu Bhaker, Suruchi and Sainyam win women's 10m air pistol team silver at the ISSF Worlds in Doha (Manu photo cropped from a Paris 2024 PMO photo; Nov 5 event). Lead is the Andhra five-mandal vote preview.
+- Held: tn-fishermen-five-bodies-kothapatnam-four-missing-murasu (picture: Coast Guard ship file photo looked like a drill; editor wants a Murasu rough sea, Kothapatnam recovery or Kasimedu harbour photo). Fifth body is single-source; recheck before republishing.
+- NEXT RUN, FIRST: Andhra five mandals and two repoll booths live turnout (9 am SEC figure) as a new development story and LEAD; Amit Shah Dehradun padyatra and rally outcome; ISSF Doha Friday finals; India v Nepal U19 live after 10:30 am.
+- Editor homepage FAIL not fixed after the second check (no stories or photos in time): live band is thin with an empty column, Andhra preview rather than live turnout, Amit Shah 1857 memorial in Haryana and Modi with new NITI Aayog leadership not written (both looked like Nov 5 events), "Andhra Pradesh" twice in the sub-nav. Andhra parishad polling card is still an infographic.
+- Markets: before the open; markets.json unchanged.

@@ -71,9 +71,6 @@ The trawler left **Kasimedu fishing harbour on October 29** with ten days of foo
 
 Fishermen spotted the **capsized boat off Kothapatnam** on the evening of November 4. Raja Babu said officials "believe the boat capsized due to Cyclone Murasu, and fear that all of them are dead". He said the crew had set out from Nizampatnam without telling the owner or officials.
 
-```photo
-{"n":1,"subject":"Indian Coast Guard ship","caption":"An Indian Coast Guard vessel; the Coast Guard is leading the sea search for the four missing fishermen.","alt":"Indian Coast Guard ship at sea (file photo)"}
-```
 
 ## Families travel to Ongole
 

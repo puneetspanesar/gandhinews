@@ -49,7 +49,7 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "Quotes from ANI copy (updated 04:41 IST Nov 6). Exact date of Dmitriev meeting not given in source. 25,000 a month figure is Trump's claim, not independently confirmed. AIR article page not fetched (permission timeout)."
+  notes: ["Quotes from ANI copy (updated 04:41 IST Nov 6). Exact date of Dmitriev meeting not given in source. 25,000 a month figure is Trump's claim, not independently confirmed. AIR article page not fetched (permission timeout)."]
 ---
 
 US President Donald Trump said on Thursday that Russia and Ukraine were **"very close to settling"** the war, and that the agreement he expects could reach well beyond the two countries.
@@ -58,9 +58,6 @@ US President Donald Trump said on Thursday that Russia and Ukraine were **"very 
 
 Trump confirmed he had **met Kirill Dmitriev**, the envoy of Russian President Vladimir Putin, at the White House, but gave nothing away. "Yeah, I did. I can't tell you what I discussed, but I'm just telling you, there's going to be an agreement," he said.
 
-```photo
-{"n":1,"subject":"Kirill Dmitriev","caption":"Kirill Dmitriev, Vladimir Putin's envoy, whom Trump said he met at the White House.","alt":"Russian envoy Kirill Dmitriev"}
-```
 
 ## 'It's a bloodbath'
 

@@ -1,0 +1,26 @@
+{
+ "run": "hourly-07",
+ "start": "2026-11-06T07:09:31+05:30",
+ "end": "2026-11-06T07:44:26+05:30",
+ "summary": "3 stories (Trump, Joshi, Manu Bhaker), fishermen story held, Andhra lead",
+ "new": [
+  "joshi-renewable-investment-220-billion-500-gw-2030",
+  "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+  "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+ ],
+ "held": [
+  "tn-fishermen-five-bodies-kothapatnam-four-missing-murasu"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "tn-fishermen-five-bodies-kothapatnam-four-missing-murasu",
+   "kind": "picture",
+   "why": "Main picture (the homepage lead) is a generic file photo of an Indian Coast Guard ship on a calm sea with orange smoke, which looks like a drill. It does not show Cyclone Murasu, Kothapatnam or the recovery of the fishermen, and it does not match the hero alt text ('Rough sea off the Andhra Pradesh coast during Cyclone Murasu').",
+   "fix": "Use a photo of the search or recovery at Kothapatnam beach or Ongole GGH, families at Kasimedu harbour, or Cyclone Murasu rough sea or boat damage on the Andhra or Tamil Nadu coast. A labelled file photo of an earlier cyclone hitting the Chennai or Andhra coast is also acceptable. Make the caption and alt match the photo."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+}

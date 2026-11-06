@@ -2,7 +2,7 @@
 id: joshi-renewable-investment-220-billion-500-gw-2030
 lang: en
 type: news
-section: business
+section: economy
 format_label: "Business / Energy"
 topics: []
 title: "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi"
@@ -33,7 +33,7 @@ infographic:
   source: "Pralhad Joshi, press conference, November 5, 2026"
 related: [modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview]
 seo:
-  description: "Pralhad Joshi said on November 5, 2026 that renewable investment will exceed the $220 billion India needs to add 190 GW and reach 500 GW of non-fossil capacity by 2030."
+  description: "Pralhad Joshi said on November 5, 2026, that renewable investment will exceed the $220 billion India needs to add 190 GW and reach 500 GW of non-fossil capacity by 2030."
 sources:
   - title: "India's renewable energy investments expected to exceed $220 billion needed for 2030 target: Pralhad Joshi"
     publisher: "PSU Watch"
@@ -52,7 +52,7 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "Details from PSU Watch report of the November 5 press conference; AIR article page could not be fetched (permission timeout), headline seen on newsonair homepage. Event was on the evening of November 5, listed as missing in window.txt."
+  notes: ["Details from PSU Watch report of the November 5 press conference; AIR article page could not be fetched (permission timeout), headline seen on newsonair homepage. Event was on the evening of November 5, listed as missing in window.txt."]
 ---
 
 India's investment in clean power will **exceed the $220 billion** it needs to reach its 2030 target, Union Minister for New and Renewable Energy Pralhad Joshi said in New Delhi on Thursday, November 5, 2026.
@@ -61,9 +61,6 @@ Speaking at a press conference that closed the four-day **Bharat Renewable Energ
 
 He pointed to how fast the build-out has sped up. "To achieve first 100 GW, it took 7 decades," he said, adding that "the next 100 GW was added in 2 years." About **₹7 lakh crore** has come into the sector over the past two years through domestic funds and foreign direct investment, and renewables met more than a quarter of the country's electricity use last financial year.
 
-```photo
-{"n":1,"subject":"Bharat Mandapam","caption":"Bharat Mandapam in New Delhi hosted the four-day Bharat Renewable Energy Summit and Expo, which ended on Thursday.","alt":"Bharat Mandapam convention centre, New Delhi"}
-```
 
 ## Batteries and waste
 

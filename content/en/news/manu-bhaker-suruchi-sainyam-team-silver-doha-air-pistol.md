@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event held Thursday November 5, 2026 in Doha; first report (Hans India) published 4:37 pm IST, final report (PTI via Meghalayan Express) 13:04 UTC (6:34 pm IST). Outside the hourly window; window relaxed by the coordinator."
+    - "Event held Thursday November 5, 2026, in Doha; first report (Hans India) published 4:37 pm IST, final report (PTI via Meghalayan Express) 13:04 UTC (6:34 pm IST). Outside the hourly window; window relaxed by the coordinator."
     - "Both reports carry PTI copy; scores agree across the two. No quotes available. issf-sport.org results not opened."
 ---
 
@@ -63,9 +63,6 @@ The final belonged to China. Jiang Ranxin, who had topped qualifying with 585, w
 
 Manu's shots swung between 8.8 and 10.7, and she went out after the 18th shot in **fifth place with 179.9**. Suruchi, an Asian Games mixed team gold medallist and a multiple World Cup winner, was undone by a run of 8s and 9s and left after the 16th shot in sixth with 158.3.
 
-```photo
-{"n":1,"subject":"Suruchi Singh","caption":"Suruchi Inder Singh, who reached the final in eighth place and finished sixth.","alt":"Indian pistol shooter Suruchi Inder Singh (file photo)"}
-```
 
 ## The quota hunt goes on
 
