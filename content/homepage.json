@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+    "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
     "overlay": {
       "kicker": {
-        "en": "Politics / Courts",
-        "hi": "राजनीति / अदालत"
+        "en": "Politics / BJP",
+        "hi": "राजनीति / भाजपा"
       },
       "value": {
-        "en": "The 1980 voter list case, back in court",
-        "hi": "1980 की मतदाता सूची का मामला फिर अदालत में"
+        "en": "Shah's Doon rally ahead of 2027 polls",
+        "hi": "2027 से पहले दून में शाह की रैली"
       },
       "text": {
         "en": "",
@@ -18,21 +18,32 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "gold-silver-fall-dhanteras-november-6-mcx",
       "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-      "titan-q2-standalone-profit-doubles-2393-crore",
-      "sensex-nifty-close-november-5-rally",
       "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "ugc-equity-rules-revise-them-do-not-bury-them"
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "ugc-equity-regulations-explained-caste-discrimination-campuses"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "BJP",
+        "hi": "भाजपा"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "gold-silver-fall-dhanteras-november-6-mcx",
+        "lead": {
+          "en": "Commodities:",
+          "hi": "कमोडिटी:"
+        },
+        "text": {
+          "en": "Gold falls about ₹2,000 on Dhanteras morning as the dollar firms before US jobs data",
+          "hi": "धनतेरस की सुबह सोना करीब 2,000 रुपये सस्ता, अमेरिकी रोजगार आंकड़ों से पहले डॉलर मजबूत"
+        }
+      },
       {
         "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
         "lead": {
@@ -42,28 +53,6 @@
         "text": {
           "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
           "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
-        }
-      },
-      {
-        "link": "titan-q2-standalone-profit-doubles-2393-crore",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Titan's Q2 standalone profit more than doubles to ₹2,393 crore",
-          "hi": "टाइटन का दूसरी तिमाही का स्टैंडअलोन मुनाफ़ा दोगुने से ज़्यादा, ₹2,393 करोड़"
-        }
-      },
-      {
-        "link": "sensex-nifty-close-november-5-rally",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
-        },
-        "text": {
-          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
-          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
         }
       },
       {
@@ -89,17 +78,6 @@
         }
       },
       {
-        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
-          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
-        }
-      },
-      {
         "link": "ugc-equity-regulations-explained-caste-discrimination-campuses",
         "lead": {
           "en": "Education:",
@@ -111,6 +89,17 @@
         }
       },
       {
+        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
+          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
+        }
+      },
+      {
         "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "lead": {
           "en": "Tennis:",
@@ -119,6 +108,17 @@
         "text": {
           "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
           "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+        }
+      },
+      {
+        "link": "jagan-parishad-polls-selections-naidu-hijacked",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
+          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+      "id": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
       "also": []
     },
     "list": [
-      "ugc-equity-regulations-explained-caste-discrimination-campuses",
       "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
       "jagan-parishad-polls-selections-naidu-hijacked",
       "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-      "cristiano-ronaldo-retires-international-football-portugal"
+      "cristiano-ronaldo-retires-international-football-portugal",
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
     ],
     "also": [
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore"
+      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
     ]
   },
   "startHere": [
@@ -382,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "lic-q2-profit-12115-crore-up-20-per-cent",
+      "lead": "gold-silver-fall-dhanteras-november-6-mcx",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +393,10 @@
         ]
       },
       "list": [
+        "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+        "lic-q2-profit-12115-crore-up-20-per-cent",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
@@ -596,17 +596,17 @@
       ]
     },
     {
-      "at": "2026-11-06T11:27:51+05:30",
+      "at": "2026-11-06T11:39:33+05:30",
       "ids": [
-        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "gold-silver-fall-dhanteras-november-6-mcx",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "titan-q2-standalone-profit-doubles-2393-crore",
-        "sensex-nifty-close-november-5-rally",
         "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "ugc-equity-rules-revise-them-do-not-bury-them",
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
         "ugc-equity-regulations-explained-caste-discrimination-campuses",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+        "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "jagan-parishad-polls-selections-naidu-hijacked"
       ]
     }
   ],
