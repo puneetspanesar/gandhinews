@@ -1,0 +1,99 @@
+---
+id: amit-shah-dehradun-rally-speech-1475-crore-projects
+lang: hi
+translation_of: amit-shah-dehradun-rally-speech-1475-crore-projects
+type: news
+section: politics
+format_label: "राजनीति / भाजपा"
+topics: []
+title: "देहरादून रैली में अमित शाह ने ₹1,475 करोड़ की योजनाएं दीं, धामी के निशाने पर कांग्रेस"
+standfirst: "उत्तराखंड के स्थापना दिवस पर केंद्रीय गृह मंत्री ने परेड ग्राउंड से राज्य की योजनाओं का लोकार्पण और शिलान्यास किया, जबकि अंकिता भंडारी मामले पर विरोध कर रहे लोग शहर भर में हिरासत में लिए गए।"
+published: 2026-11-06T13:13:02+05:30
+location: देहरादून
+keyPoints:
+  - "अमित शाह ने देहरादून के परेड ग्राउंड में **₹1,475.31 करोड़ की योजनाओं** का लोकार्पण और शिलान्यास किया।"
+  - "मुख्यमंत्री पुष्कर सिंह धामी ने कहा कि सरकार ने **अंकिता भंडारी मामले में न्याय दिलाया** और कांग्रेस पर झूठ फैलाने का आरोप लगाया।"
+  - "दौरे का विरोध कर रहे कांग्रेस, यूकेडी और सूरज सेवा दल के कार्यकर्ताओं को **पुलिस ने रोका या हिरासत में लिया**।"
+hero:
+  need: "देहरादून के परेड ग्राउंड में रैली को संबोधित करते अमित शाह; मुख्यमंत्री पुष्कर सिंह धामी के साथ दो हिस्सों वाली तस्वीर"
+  suggested_source: "Amit Shah"
+  subjects: ["Amit Shah", "Pushkar Singh Dhami"]
+  alt: "केंद्रीय गृह मंत्री अमित शाह"
+  overlay:
+    value: "उत्तराखंड को ₹1,475 करोड़"
+related: [amit-shah-dehradun-parade-ground-rally-padyatra-today, dhami-bjp-save-democracy-campaign-sir-congress, dhami-defends-police-ankita-bhandari-congress]
+seo:
+  description: "अमित शाह ने 6 नवंबर 2026 को देहरादून के परेड ग्राउंड में ₹1,475.31 करोड़ की योजनाओं का लोकार्पण-शिलान्यास किया; धामी ने कांग्रेस पर हमला बोला, प्रदर्शनकारी हिरासत में।"
+infographic:
+  kicker: "उत्तराखंड स्थापना दिवस"
+  headline: "देहरादून में शाह ने दीं ₹1,475 करोड़ की योजनाएं"
+  dek: "परेड ग्राउंड में भाजपा रैली, शहर में प्रदर्शनकारी हिरासत में"
+  motif: megaphone
+  stats:
+    - {icon: currency-inr, value: "₹1,475.31 करोड़", label: "योजनाओं का लोकार्पण और शिलान्यास"}
+    - {icon: calendar, value: "26 वर्ष", label: "उत्तराखंड राज्य के"}
+  source: "उत्तराखंड के मुख्यमंत्री, 6 नवंबर 2026"
+sources:
+  - title: "Amit Shah Dehradun Visit Live: मंच पर पहुंचे, जनसभा को करेंगे संबोधित"
+    publisher: "Amar Ujala"
+    date: 2026-11-06
+    url: "https://www.amarujala.com/live/dehradun/amit-shah-dehradun-visit-today-to-address-rally-present-president-colour-to-police-rajyotsav-uttarakhand-2026-11-06"
+    primary: false
+  - title: "Live blog: Union Home Minister Amit Shah visit to Dehradun, Save Democracy Remove Anarchy rally"
+    publisher: "ETV Bharat"
+    date: 2026-11-06
+    url: "https://www.etvbharat.com/hi/bharat/live-blog--union-home-minister-amit-shah-visit-to-dehradun-and-save-democracy-remove-anarchy-rally-utn26110601795"
+    primary: false
+  - title: "अमित शाह का देहरादून दौरा: विरोध करने एयरपोर्ट जा रहे थे कांग्रेसी, पुलिस ने हिरासत में लिया"
+    publisher: "Amar Ujala"
+    date: 2026-11-06
+    url: "https://www.amarujala.com/uttarakhand/rishikesh/amit-shah-dehradun-visit-congress-workers-detained-on-way-to-airport-to-protest-uttarakhand-news-2026-11-06"
+    primary: false
+  - title: "कल देहरादून में गरजेंगे अमित शाह, 1500 करोड़ की योजनाओं का करेंगे लोकार्पण-शिलान्यास"
+    publisher: "Haldwani Live"
+    date: 2026-11-05
+    url: "https://haldwanilive.com/amit-shah-uttarakhand-visit-dehradun-rally-november-6/"
+    primary: false
+verification:
+  status: approved
+  notes:
+    - "Written 1:13 pm IST. Shah's own speech (window says 12:48 to 1:04 pm) could NOT be read: Amar Ujala live blog as fetched was last updated 12:46 pm, ETV Bharat live blog 12:42 pm. No Shah quote and no 'BJP will form government again' line is used; add them in an update once a source is read."
+    - "₹1,475.31 crore: Dhami's post as quoted by ETV Bharat (12:05 pm); Amar Ujala 12:44 pm says Shah inaugurated and laid foundation stones for ₹1,475 crore. Project list not given anywhere read."
+    - "Dhami lines: Amar Ujala 12:38 to 12:44 pm and ETV Bharat 12:39 pm. 'Echo of lies' / 'echo of students' is our translation of 'झूठ की गूंज' / 'छात्रों की गूंज'. Jenny and tandoor case remark from ETV Bharat, paraphrased."
+    - "Protests: ink on hoarding, UKD barricades, Suraj Seva Dal detentions from Amar Ujala live blog (12:35, 12:36 pm). Congress detentions near Jolly Grant, Mohit Uniyal named, Amar Ujala 11:32 am. Claim about Ankita Bhandari's parents at Rajghat is Congress's allegation only."
+    - "Police Colour ceremony at Police Line not yet confirmed as held at time of writing; BJP core committee meeting postponed per Amar Ujala, no reason given."
+---
+
+केंद्रीय गृह मंत्री अमित शाह ने शुक्रवार को देहरादून के परेड ग्राउंड में **₹1,475.31 करोड़ की योजनाओं** का लोकार्पण और शिलान्यास किया। उत्तराखंड के स्थापना दिवस पर हुई भाजपा की इस रैली के दौरान शहर में कई जगह विरोध प्रदर्शन भी हुए।
+
+दोपहर करीब 12 बजे जौलीग्रांट एयरपोर्ट पर शाह का स्वागत हुआ और सवा बारह बजे के बाद वे परेड ग्राउंड के मंच पर पहुंचे। मुख्यमंत्री पुष्कर सिंह धामी ने आने वाले कुंभ से पहले उन्हें गंगाजल भेंट किया। धामी ने योजनाओं की कुल लागत ₹1,475.31 करोड़ बताई और कहा कि यह **राज्य के 26 वर्ष** पूरे होने का मौका है। अलग-अलग योजनाओं की सूची अभी जारी नहीं हुई है।
+
+```photo
+{"n":1,"subject":"Pushkar Singh Dhami","caption":"मुख्यमंत्री पुष्कर सिंह धामी, जिन्होंने अमित शाह से पहले मंच से कांग्रेस पर हमला बोला।","alt":"उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी"}
+```
+
+यह रैली भाजपा के "लोकतंत्र बचाओ, अराजकता हटाओ" अभियान का हिस्सा है, जिसे पार्टी ने चुनाव आयोग के खिलाफ विपक्ष के अभियान के जवाब में खड़ा किया है। मंच पर उत्तराखंड भाजपा के नेता अनिल बलूनी, अजय भट्ट और रमेश पोखरियाल निशंक के साथ पार्टी पदाधिकारी बांसुरी स्वराज भी मौजूद थीं।
+
+## धामी के निशाने पर कांग्रेस
+
+शाह से पहले बोलते हुए धामी ने कहा कि उनकी सरकार राज्य आंदोलनकारियों की अपेक्षाओं के अनुरूप उत्तराखंड का विकास कर रही है। उन्होंने राज्य पुलिस को **राष्ट्रपति पुलिस कलर** मिलने पर बधाई दी, जिसे शाह आज ही पुलिस लाइन में प्रदान करेंगे। उन्होंने कहा कि तीन नए आपराधिक कानूनों और अनुच्छेद 370 हटाने जैसे केंद्र के फैसलों से राष्ट्रीय एकता मजबूत हुई है।
+
+इसके बाद धामी उस मामले पर आए जो उनकी सरकार का पीछा नहीं छोड़ रहा। उन्होंने कहा कि सरकार ने **अंकिता भंडारी हत्याकांड में न्याय दिलाया**, दोषियों को उम्रकैद हुई, और कांग्रेस पर इस बारे में झूठ फैलाने का आरोप लगाया। उन्होंने पूछा, "कांग्रेस जेनी और दिल्ली के तंदूर कांड पर चुप क्यों है।"
+
+उन्होंने राहुल गांधी के हाल के उत्तराखंड दौरे पर भी तंज कसा और उसे "छात्रों की गूंज" नहीं, "झूठ की गूंज" कार्यक्रम बताया। उन्होंने राज्य के नकल-विरोधी कानून और मदरसा बोर्ड की जगह अल्पसंख्यक विकास प्राधिकरण बनाने का भी जिक्र किया।
+
+कैबिनेट मंत्री सतपाल महाराज ने कहा कि यह दिन खटीमा, मसूरी और रामपुर तिराहा में राज्य आंदोलन के बलिदानों को याद करने का भी है, और सरकार का लक्ष्य **पलायन रोकना और रोजगार देना** है। उन्होंने जनरल बिपिन रावत और राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल पर कांग्रेस की पुरानी टिप्पणियों को लेकर उस पर हमला किया। कैबिनेट मंत्री धन सिंह रावत ने कहा कि उत्तराखंड देश का पांचवां पूर्ण साक्षर राज्य बन गया है।
+
+## बाहर विरोध
+
+शाह के दौरे पर अंकिता भंडारी मामले को लेकर विरोध की छाया रही। शाह के स्वागत में लगे एक होर्डिंग पर काली स्याही फेंकी गई और अंकिता के लिए न्याय की मांग के नारे लगे। उत्तराखंड क्रांति दल के कार्यकर्ता परेड ग्राउंड की ओर बढ़ते हुए **पुलिस बैरिकेड तोड़कर** आगे निकले, और पुलिस ने किशन नगर चौक पर सूरज सेवा दल के कार्यकर्ताओं को हिरासत में लिया, जिन्हें कुछ दूर ले जाकर छोड़ दिया गया।
+
+```photo
+{"n":2,"subject":"Parade Ground Dehradun","caption":"देहरादून का परेड ग्राउंड, जहां शुक्रवार को भाजपा की रैली हुई।","alt":"देहरादून का परेड ग्राउंड"}
+```
+
+सुबह पुलिस ने परवादून कांग्रेस जिलाध्यक्ष मोहित उनियाल के नेतृत्व में एयरपोर्ट की ओर कूच कर रहे कांग्रेस कार्यकर्ताओं को जौलीग्रांट मार्ग पर रोका और बस में बैठा दिया। पार्टी का आरोप है कि अंकिता भंडारी के माता-पिता को दिल्ली में राजघाट पर पुलिस ने उठा लिया। उनियाल ने धनतेरस पर सड़कें बंद करने और पटाखों की दुकानें बंद कराने की भी आलोचना की।
+
+## आगे क्या
+
+रैली के बाद शाह रेसकोर्स इलाके की पुलिस लाइन में उत्तराखंड पुलिस को राष्ट्रपति पुलिस कलर प्रदान करेंगे। दौरे के लिए प्रस्तावित भाजपा प्रदेश कोर कमेटी की बैठक टाल दी गई है।
