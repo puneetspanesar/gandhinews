@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-dehradun-rally-speech-1475-crore-projects",
+    "id": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP",
-        "hi": "राजनीति / भाजपा"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "₹1,475 crore for Uttarakhand",
-        "hi": "उत्तराखंड को ₹1,475 करोड़"
+        "en": "'Vote lost, rights lost'",
+        "hi": "'वोट गया, तो हक गया'"
       },
       "text": {
         "en": "",
@@ -16,23 +16,49 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "telangana-roll-revision-must-not-erase-voters-quietly",
+      "who-owns-trinamool-election-commission-symbol-dispute-explained"
+    ],
     "relatedBeside": [
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
       "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
       "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-      "sensex-nifty-close-november-5-rally"
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
     ],
     "live": {
       "title": {
-        "en": "BJP",
-        "hi": "भाजपा"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "lead": {
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
+        },
+        "text": {
+          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
+          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
+        }
+      },
+      {
+        "link": "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Sensex crosses 80,000, up 1,066 points at 2 pm as banks extend the rally",
+          "hi": "दोपहर 2 बजे सेंसेक्स 1,066 अंक उछलकर 80,000 के पार, बैंकों ने बढ़त आगे बढ़ाई"
+        }
+      },
       {
         "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "lead": {
@@ -56,17 +82,6 @@
         }
       },
       {
-        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
-          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
-        }
-      },
-      {
         "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
         "lead": {
           "en": "Tamil Nadu:",
@@ -78,47 +93,36 @@
         }
       },
       {
-        "link": "sensex-nifty-close-november-5-rally",
+        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
-          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
+          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
+          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
         }
       },
       {
-        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
-          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
         }
       },
       {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Jharkhand:",
+          "hi": "झारखंड:"
         },
         "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
-        }
-      },
-      {
-        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
-          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
+          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
+          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
         }
       }
     ]
@@ -186,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+      "id": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
       "also": []
     },
     "list": [
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
-      "titan-q2-standalone-profit-doubles-2393-crore",
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc"
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "jharkhand-khunti-trailer-crowd-seven-killed",
+      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+      "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
     ],
     "also": [
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
+      "hosur-factory-concrete-structure-collapse-three-workers-killed",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
     ]
   },
   "startHere": [
@@ -374,15 +378,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "amit-shah-dehradun-rally-speech-1475-crore-projects",
         "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
       ],
-      "lead": "amit-shah-dehradun-rally-speech-1475-crore-projects"
+      "lead": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+      "lead": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,28 +397,28 @@
         ]
       },
       "list": [
+        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+        "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-four-voters-two-poll-staff-die",
+      "lead": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
       "list": [
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+        "jharkhand-khunti-trailer-crowd-seven-killed",
+        "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
       ]
     },
     {
       "section": "policy",
-      "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "lead": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
       "list": [
+        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
         "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-        "sitharaman-tata-critical-component-settle-amicably-investors",
-        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
+        "sitharaman-tata-critical-component-settle-amicably-investors"
       ]
     },
     {
@@ -494,18 +498,6 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST",
-        "hi": "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"
-      },
-      "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
         "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
       },
@@ -534,6 +526,18 @@
         "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
       },
       "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
+        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
+      },
+      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
     }
   ],
   "headlineHistory": [
@@ -639,17 +643,20 @@
       ]
     },
     {
-      "at": "2026-11-06T14:47:10+05:30",
+      "at": "2026-11-06T14:45:06+05:30",
       "ids": [
-        "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "telangana-roll-revision-must-not-erase-voters-quietly",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
         "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
         "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "sensex-nifty-close-november-5-rally",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-        "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "jharkhand-khunti-trailer-crowd-seven-killed"
       ]
     }
   ],
