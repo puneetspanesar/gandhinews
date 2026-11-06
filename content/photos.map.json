@@ -30286,28 +30286,90 @@
   "page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG"
  },
  "rahul-gandhi-voter-id-not-aadhaar-welfare-claim": {
-  "id": "o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
-  "src": "/photos/o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-1280.jpg",
-  "src800": "/photos/o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-640.jpg",
+  "id": "i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+  "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: joegoauk Last Namegoa / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Congress leader Rahul Gandhi (file photo)",
-  "alt_hi": "कांग्रेस नेता राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_in_Goa.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: A minister's remark, not a new rule",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मंत्री का बयान, कोई नया नियम नहीं",
+  "page": null,
+  "ihash": "7d8d5d5d1fc6",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-t-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "every usable Rahul Gandhi photo used in 7 days or under 900 px; only free one left is a watermarked crowd shot; library, quick_photo, finder l06e"
  },
  "khunti-crash-night-highways-need-lights-and-speed-checks": {
-  "id": "o-khunti-crash-night-highways-need-lights-and-speed-checks",
-  "src": "/photos/o-khunti-crash-night-highways-need-lights-and-speed-checks-1280.jpg",
-  "src800": "/photos/o-khunti-crash-night-highways-need-lights-and-speed-checks-640.jpg",
+  "id": "i-khunti-crash-night-highways-need-lights-and-speed-checks",
+  "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-3x2-1280.jpg",
+  "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Diego Delso / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "An overturned truck after a highway crash in India (file photo)",
-  "alt_hi": "भारत में हाईवे हादसे के बाद पलटा ट्रक (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Truck_accident-India.JPG"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Khunti's rescuers deserved a safer road",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: खूंटी के मददगारों को सुरक्षित सड़क मिलनी चाहिए थी",
+  "page": null,
+  "ihash": "373213572dc8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-3x2-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-t-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-t-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Khunti crash or any Jharkhand road crash; library, quick_photo, finder l06e"
  },
  "relief-for-long-settled-refugees-should-lead-to-a-refugee-law": {
   "id": "o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
@@ -30333,7 +30395,7 @@
   "alt": "Gandhi News graphic: Why an appeal does not always mean bail",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अपील का मतलब हमेशा ज़मानत क्यों नहीं",
   "page": null,
-  "ihash": "81aade6d1e2c",
+  "ihash": "cfdb66a2a6e4",
   "byLang": {
    "hi": {
     "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-3x2-1280.jpg",
@@ -30362,7 +30424,7 @@
     "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of the Supreme Court of India (all 8 used in 7 days) or Tarun Tejpal; library, quick_photo, finder l06e"
+  "nophoto": "only free Tarun Tejpal photo (Tarun_J_Tejpal_2007.jpg) is used today by tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence (7-day rule); all 8 Supreme Court photos used in 7 days; library, quick_photo, finder l06e"
  },
  "foreign-investors-return-explained-fii-dii-sensex-rally--p1": {
   "id": "o-foreign-investors-return-explained-fii-dii-sensex-rally--p1",
@@ -30387,18 +30449,6 @@
   "alt": "Former Supreme Court judge K T Thomas (file photo)",
   "alt_hi": "सुप्रीम कोर्ट के पूर्व न्यायाधीश के टी थॉमस (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Justice_K_T_Thomas_(2023).jpg"
- },
- "khunti-crash-night-highways-need-lights-and-speed-checks--p1": {
-  "id": "o-khunti-crash-night-highways-need-lights-and-speed-checks--p1",
-  "src": "/photos/o-khunti-crash-night-highways-need-lights-and-speed-checks--p1-1280.jpg",
-  "src800": "/photos/o-khunti-crash-night-highways-need-lights-and-speed-checks--p1-640.jpg",
-  "width": 1280,
-  "height": 852,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Hemant Soren (file photo)",
-  "alt_hi": "हेमंत सोरेन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_of_Jharkhand_Shri_Hemant_Soren.jpg"
  },
  "rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1": {
   "id": "o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1",

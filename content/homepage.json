@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+    "id": "sonia-gandhi-voter-list-case-additional-documents-november-18",
     "overlay": {
       "kicker": {
         "en": "Politics / Courts",
         "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "JSSC CGL jobs restored",
-        "hi": "जेएसएससी सीजीएल की नौकरियां बहाल"
+        "en": "Voter list case: next date November 18",
+        "hi": "मतदाता सूची मामला: अगली तारीख 18 नवंबर"
       },
       "text": {
         "en": "",
@@ -16,15 +16,13 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "hindalco-q2-profit-59-per-cent-7533-crore-record",
-      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-      "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+      "foreign-investors-return-explained-fii-dii-sensex-rally",
+      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "modi-meets-asian-para-games-medallists-delhi",
+      "khunti-crash-night-highways-need-lights-and-speed-checks"
     ],
     "live": {
       "title": {
@@ -36,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "hindalco-q2-profit-59-per-cent-7533-crore-record",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Hindalco posts record quarterly profit of ₹7,533 crore, up 59%, as copper and aluminium shine",
-          "hi": "हिंडाल्को का तिमाही मुनाफा रिकॉर्ड ₹7,533 करोड़, 59% की छलांग; तांबा और एल्युमिनियम चमके"
-        }
-      },
-      {
-        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
-        },
-        "text": {
-          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
-          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
-        }
-      },
-      {
-        "link": "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Airbnb shares jump 10% after fastest revenue growth in three years and a $12 billion buyback",
-          "hi": "तीन साल की सबसे तेज़ कमाई बढ़त और 12 अरब डॉलर के बायबैक से एयरबीएनबी का शेयर 10% उछला"
-        }
-      },
-      {
-        "link": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra parishad polls: final turnout rises to 70.72%, Visakhapatnam tops at 82.51%",
-          "hi": "आंध्र परिषद चुनाव: अंतिम मतदान 70.72%, विशाखापत्तनम 82.51% के साथ सबसे आगे"
-        }
-      },
-      {
-        "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Rain threatens Wellington ODI as India call off training",
-          "hi": "वेलिंगटन वनडे पर बारिश का खतरा, भारत ने अभ्यास रद्द किया"
-        }
-      },
-      {
-        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
-        },
-        "text": {
-          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
-          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
-        }
-      },
-      {
-        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
-          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
-        }
-      },
-      {
-        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
+        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
-          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
+          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
+          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
+        }
+      },
+      {
+        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
+          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
+        }
+      },
+      {
+        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "lead": {
+          "en": "Rajya Sabha:",
+          "hi": "राज्यसभा:"
+        },
+        "text": {
+          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
+          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+        }
+      },
+      {
+        "link": "modi-meets-asian-para-games-medallists-delhi",
+        "lead": {
+          "en": "Para sport:",
+          "hi": "पैरा खेल:"
+        },
+        "text": {
+          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
+          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
+        }
+      },
+      {
+        "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The seven who died in Khunti had stopped to help. Jharkhand's rural roads need lights, speed checks and a safe way to rescue",
+          "hi": "खूंटी में जान गंवाने वाले सात लोग मदद के लिए रुके थे। झारखंड की ग्रामीण सड़कों को रोशनी, रफ्तार पर लगाम और सुरक्षित बचाव का तरीका चाहिए"
+        }
+      },
+      {
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
+        }
+      },
+      {
+        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
+          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+        }
+      },
+      {
+        "link": "jagan-parishad-polls-selections-naidu-hijacked",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
+          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
         }
       }
     ]
@@ -188,28 +186,28 @@
   },
   "topStories": {
     "big": {
-      "id": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+      "id": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
       "also": []
     },
     "list": [
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-      "ugc-equity-rules-revise-them-do-not-bury-them",
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+      "india-u19-beat-nepal-asia-cup-al-amerat",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
     ],
     "also": [
-      "amit-shah-dehradun-rally-speech-1475-crore-projects",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+      "andhra-parishad-polls-four-voters-two-poll-staff-die"
     ]
   },
   "startHere": [
+    "foreign-investors-return-explained-fii-dii-sensex-rally",
+    "suspension-of-sentence-explained-tejpal-supreme-court",
     "24-hour-rule-explained-article-22-detention-arrest",
     "ugc-equity-regulations-explained-caste-discrimination-campuses",
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-    "fast-track-special-courts-explained-rape-pocso-backlog",
-    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-    "two-child-norm-explained-javed-ruling-larger-bench"
+    "fast-track-special-courts-explained-rape-pocso-backlog"
   ],
   "trackers": [
     {
@@ -362,11 +360,11 @@
     }
   ],
   "opinion": [
+    "khunti-crash-night-highways-need-lights-and-speed-checks",
+    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
     "ugc-equity-rules-revise-them-do-not-bury-them",
     "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-    "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
   ],
   "sections": [
     {
@@ -398,7 +396,7 @@
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
         "joshi-renewable-investment-220-billion-500-gw-2030",
         "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout"
       ]
     },
     {
@@ -540,20 +538,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-06T09:32:56+05:30",
-      "ids": [
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "cristiano-ronaldo-retires-international-football-portugal",
-        "jagan-parishad-polls-selections-naidu-hijacked",
-        "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-        "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
-      ]
-    },
-    {
       "at": "2026-11-06T11:39:33+05:30",
       "ids": [
         "amit-shah-dehradun-parade-ground-rally-padyatra-today",
@@ -656,6 +640,20 @@
         "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
         "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
         "ugc-equity-rules-revise-them-do-not-bury-them"
+      ]
+    },
+    {
+      "at": "2026-11-06T18:24:48+05:30",
+      "ids": [
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "modi-meets-asian-para-games-medallists-delhi",
+        "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "jagan-parishad-polls-selections-naidu-hijacked"
       ]
     }
   ],

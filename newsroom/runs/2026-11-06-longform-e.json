@@ -1,0 +1,43 @@
+{
+ "run": "longform-e",
+ "start": "2026-11-06T17:38:20+05:30",
+ "end": "2026-11-06T18:29:42+05:30",
+ "summary": "5 long-form pieces: FII return and suspension of sentence explainers, Khunti and refugee editorials, voter ID fact check",
+ "new": [
+  "khunti-crash-night-highways-need-lights-and-speed-checks",
+  "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+  "foreign-investors-return-explained-fii-dii-sensex-rally",
+  "suspension-of-sentence-explained-tejpal-supreme-court",
+  "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "khunti-crash-night-highways-need-lights-and-speed-checks",
+   "why": "Main picture is a generic Wikimedia 'Truck_accident-India' file (Diego Delso), captioned only 'a highway crash in India': not shown to be Jharkhand, and an overturned truck is not the event (a trailer running into villagers at night). The hero brief asked for a Jharkhand road accident. In-story photo shows Chief Minister Hemant Soren smiling broadly, on an editorial about seven deaths.",
+   "done": "Main picture swapped for the story's infographic under rule 11a (no free photo of the Khunti crash or any Jharkhand road crash; finder l06e); the smiling Hemant Soren in-story photo dropped from both language files."
+  },
+  {
+   "id": "suspension-of-sentence-explained-tejpal-supreme-court",
+   "why": "Infographic main picture for a story about a named, well-known person, Tarun Tejpal. The NOPHOTO mark is wrong: a free Tejpal photo is already in the library (Wikimedia File:Tarun_J_Tejpal_2007.jpg, used on tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence, which is on the homepage). The Hindi cover dek also says 'सुप्रीम कोर्ट ने तरुण तेजपाल की 10 साल की सज़ा बरकरार रखी', which reads as 'upheld the sentence'; the court only refused to suspend it and the appeal is still pending.",
+   "done": "Hindi dek changed to 'सुप्रीम कोर्ट ने तरुण तेजपाल की 10 साल की सज़ा पर रोक से इनकार किया'. Main picture stays the infographic under rule 11a: the only free Tejpal photo (Tarun_J_Tejpal_2007.jpg) is used today by the news story, so the 7-day rule blocks it, and all 8 Supreme Court photos were used in the last 7 days. Tejpal added to people.tsv."
+  },
+  {
+   "id": "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+   "why": "Main picture is a cluttered group shot of a Goa Congress stage with eight people and a visible 'JoeGoaUk' watermark in the corner; Rahul Gandhi is one face among many, smiling and holding a booklet. It looks lazy. The review sheet also failed to render (blank section and date, slug as headline, no in-story photo) because list.txt points to content/en/news/ while the story is in content/en/factcheck/, so the Lalan Singh photo and caption were never shown on a sheet.",
+   "done": "Watermarked crowd shot removed and blocklisted; main picture is the infographic under rule 11a (every other Rahul Gandhi photo is used in the last 7 days or under 900 px). Lalan Singh in-story photo kept."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Two stories on the same Sonia Gandhi voter-list case sit together in the top headlines, and the second ('Delhi court to hear plea ... today') is a preview of the hearing the lead already reports: remove it. 2) The lead is a procedural adjournment (complainant may file more documents, next hearing November 18): a minor story to lead with. Lead with a bigger story of the day, such as the Supreme Court refusing to suspend Tejpal's sentence or the Sensex's 1,718-point rally. frontpages.txt was missing, so this could not be compared against other sites. 3) Two business stories in the top headlines (Markets: foreign investors explainer; Companies: Fortis Q2): keep at most one and swap Fortis for a non-business story. 4) 'Amit Shah in Dehradun today for BJP rally' is a preview at about 6 pm of an event that has already happened: replace it with what he said, or drop it. 5) 'Five cyclone-hit Andhra mandals vote on Friday; repolls ordered' in the headlines is hours old, while the final 70.72% turnout story is already out lower down: use the turnout story in that slot and do not run Andhra parishad polls twice. 6) Two dark infographic cards sit side by side in the second headline row (foreign flows, Tejpal explainer). It looks machine-made, and once Tejpal gets his photo it is fixed. 7) Mobile: a large empty gap under the Amit Shah card before the Khunti card.",
+   "done": "refresh_home --drop of the Sonia Gandhi hearing preview, the Amit Shah Dehradun preview, the Andhra five-mandals vote and 3 pm turnout stories, Fortis Q2 and Prism Johnson (one markets story left); pinned pictured pieces beside the lead. The lead is left to refresh_home (a long-form run does not choose it; Tejpal already led at 16:41). Repeat-lead breach recorded for the next hourly run."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): khunti-crash-night-highways-need-lights-and-speed-checks",
+  "in the top five at 16:41 as well: the lead and the four beside it never repeat within 6 hours: sonia-gandhi-voter-list-case-additional-documents-november-18"
+ ],
+ "lead": "sonia-gandhi-voter-list-case-additional-documents-november-18"
+}

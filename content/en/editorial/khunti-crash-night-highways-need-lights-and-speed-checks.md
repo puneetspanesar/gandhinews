@@ -81,10 +81,6 @@ Officials who came to talk promised help "in line with government rules", withou
 
 Khunti is not an exception. The Road Transport Ministry's own count shows **1,72,890 people killed on India's roads in 2023**, about 20 every hour. Where deaths were linked to traffic rules being broken, overspeeding accounted for 68.1% of them. More than 40% of all deaths happened on roads other than national and state highways, the kind of road that runs past Jone-Ludru.
 
-```photo
-{"n":1,"subject":"Hemant Soren","caption":"Chief Minister Hemant Soren said the seven deaths had deeply saddened him; his government now has to make the Karra-Torpa road safer.","alt":"Jharkhand Chief Minister Hemant Soren"}
-```
-
 ## The fair objection
 
 Speed breakers on a road used by goods traffic are not a cure-all. Badly built humps cause their own crashes, and a district cannot post a constable on every bend. Nor can the state stop people from rushing to help someone lying hurt on the road, and it should never want to.
