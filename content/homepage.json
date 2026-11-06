@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "id": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Cyclone-hit mandals vote, 7 booths repoll",
-        "hi": "चक्रवात वाले मंडलों में वोट, 7 बूथों पर दोबारा"
+        "en": "'A big, beautiful agreement'",
+        "hi": "'एक बड़ा, शानदार समझौता'"
       },
       "text": {
         "en": "",
@@ -16,111 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
-      "two-child-norm-explained-javed-ruling-larger-bench",
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
+      "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
+      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+      "fast-track-special-courts-explained-rape-pocso-backlog",
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+        "link": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
         "lead": {
           "en": "Companies:",
           "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Mahindra & Mahindra Q2 standalone profit rises 13% to ₹5,102 crore as revenue jumps 27%",
-          "hi": "महिंद्रा एंड महिंद्रा का दूसरी तिमाही में स्टैंडअलोन मुनाफा 13% बढ़कर ₹5,102 करोड़, आय 27% उछली"
+          "en": "IRB Infrastructure Q2 profit nearly doubles to ₹260 crore",
+          "hi": "आईआरबी इन्फ्रास्ट्रक्चर का दूसरी तिमाही में मुनाफा लगभग दोगुना होकर ₹260 करोड़"
         }
       },
       {
-        "link": "two-child-norm-explained-javed-ruling-larger-bench",
+        "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
+          "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
+        }
+      },
+      {
+        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
         "lead": {
           "en": "Courts:",
-          "hi": "अदालत:"
+          "hi": "अदालतें:"
         },
         "text": {
-          "en": "Two-child norm explained: what Javed held in 2003 and why the Supreme Court wants it looked at again",
-          "hi": "दो-बच्चा नियम क्या है, 2003 के जावेद फैसले में क्या कहा गया था और सुप्रीम कोर्ट अब उस पर दोबारा विचार क्यों चाहता है"
+          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
+          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
         }
       },
       {
-        "link": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Five more years for fast-track courts is welcome. Without judges and forensic labs they will not be fast",
-          "hi": "फास्ट ट्रैक अदालतों को पांच साल और मिलना स्वागतयोग्य है। पर जज और फॉरेंसिक लैब के बिना वे तेज़ नहीं होंगी"
-        }
-      },
-      {
-        "link": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring letter",
-          "hi": "दिल्ली के 47 लाख कटे मतदाताओं को तसल्ली की चिट्ठी नहीं, एक साफ फॉर्म चाहिए"
-        }
-      },
-      {
-        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Andhra parishad polls: YSRCP alleges booth capturing in Dhulipalla, Byreddy Siddharth under house arrest",
-          "hi": "आंध्र परिषद चुनाव: वाईएसआरसीपी का धुलिपल्ला में बूथ कब्जे का आरोप, बायरेड्डी सिद्धार्थ नजरबंद"
+          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
+          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
         }
       },
       {
-        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
+        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
         "lead": {
           "en": "Energy:",
           "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
-          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
+          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
         }
       },
       {
-        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
-          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
+          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
         }
       },
       {
-        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "link": "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Hockey:",
+          "hi": "हॉकी:"
         },
         "text": {
-          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
-          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+          "en": "India come from behind to beat Japan 4-1 and win sixth Asian Champions Trophy",
+          "hi": "पिछड़ने के बाद भारत ने जापान को 4-1 से हराया, छठी बार जीती एशियाई चैंपियंस ट्रॉफी"
+        }
+      },
+      {
+        "link": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
+          "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
         }
       }
     ]
@@ -188,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "joshi-renewable-investment-220-billion-500-gw-2030",
+      "id": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
       "also": []
     },
     "list": [
-      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-      "modi-meets-asian-para-games-medallists-delhi",
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+      "hosur-factory-concrete-structure-collapse-three-workers-killed",
+      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
+      "titan-q2-standalone-profit-doubles-2393-crore"
     ],
     "also": [
-      "24-hour-rule-explained-article-22-detention-arrest",
-      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol"
+      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
     ]
   },
   "startHere": [
@@ -378,7 +376,7 @@
       "list": [
         "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
       ],
       "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
     },
@@ -403,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+      "lead": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
       "list": [
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7"
+        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+        "hosur-factory-concrete-structure-collapse-three-workers-killed",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
       ]
     },
     {
@@ -455,12 +453,12 @@
     },
     {
       "section": "sports",
-      "lead": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "lead": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
       "list": [
+        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "cristiano-ronaldo-retires-international-football-portugal"
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
       ]
     }
   ],
@@ -624,6 +622,20 @@
         "joshi-renewable-investment-220-billion-500-gw-2030",
         "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+      ]
+    },
+    {
+      "at": "2026-11-06T13:09:55+05:30",
+      "ids": [
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
+        "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+        "fast-track-special-courts-explained-rape-pocso-backlog",
+        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
       ]
     }
   ],

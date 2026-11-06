@@ -14,11 +14,12 @@ Writing
 6. A figure tied to a clock time ("30.5% by 1 pm") is stale 2 hours after that time: update the story (title, standfirst, first key point, first paragraph, `updated:`) or move it off the top. Never just reword the time away.
 
 Pictures
-7. Every story goes live with a correct main picture, or does not go live (the gate enforces "a picture", the editor and you enforce "correct").
-8. The picture shows who the story is ABOUT: the person who spoke or acted first, the person they answered second. A well-known person always gets a PHOTO, never an infographic.
+7. Every story goes live with a correct main picture (the gate enforces "a picture", the editor and you enforce "correct"). A WRONG or generic photo is never used. When no correct photo exists anywhere (rule 11a), the story goes live with its infographic: a missing photo never stops a story (owner's decision, November 6).
+8. The picture shows who the story is ABOUT: the person who spoke or acted first, the person they answered second. A person with a photo in the library, in quick_photo or among the finder's candidates always gets that PHOTO, never an infographic.
 9. Event stories (rain, flood, cyclone, smog, fire, crash, collapse, strike, protest, polling) show the event: a file photo of the same kind of event in the same region is right, labelled "(file photo)". Never a landmark, temple, office building or calm street.
 10. No source photo is used again within 7 days (`npm run -s check:photos`), and never twice at the top of the homepage.
 11. Infographics only for stories with no person or place to show (index levels, results tables, a policy with numbers), or when the finder truly found nothing. Numbers on a graphic must match the story; re-render it whenever the story's figures change.
+11a. NO PHOTO EXISTS: the library has no portrait, quick_photo nothing, the finder no correct candidate (or the only correct one is blocked by the 7-day rule). Then: `make_infographic.py <id> --nophoto "<what was searched>"`, and the story publishes. It never leads and never sits beside the lead (refresh_home.py puts pictured stories there; check_fresh.py records a breach otherwise); it can fill the top stories, briefing, sections and desks. The person goes into newsroom/library/people.tsv so the library run looks again, and audit.py's 24-hour upgrade list swaps the graphic for a photo once one is found.
 12. Credits come from the photo's page, cleaned (gnrules.clean_credit). No "{{", "&amp;", licence boilerplate or uploader phrases.
 
 Homepage (refresh_home.py does the mechanics, check_fresh.py is the counter check)
@@ -47,8 +48,8 @@ Then the held stories: `python3 newsroom/scripts/held.py expire`, `python3 newsr
 1. INSTANT, photos we already have: `python3 newsroom/scripts/quick_photo.py <id> "<subject>" --list`, look at the candidates, then `--pick <photo-id>`. Subject = the person as Wikipedia names them, or the place. Seconds.
 2. FINDER for every story still without a correct picture, all in ONE call per run: write the queries to /home/claude/gn-work/q-<tag>.json (`{"k1": "Rahul Gandhi||8", "k2": "Chennai floods||8"}`), then `python3 newsroom/scripts/photos_gh.py find <tag> /home/claude/gn-work/q-<tag>.json` (usually 2 minutes; give up at 6 and fall back to step 3 or a hold). Make one contact sheet of /home/claude/gn-work/pcv<tag>/photo-candidates/thumbs and Read it, pick by eye, then per pick `python3 newsroom/scripts/one_photo.py <id> /home/claude/gn-work/pcv<tag> <key> <n> "<English alt>" "<Hindi alt>"` (downloads, crops, registers; usually 1 minute; run them one after another, never in parallel). Alt text names what is shown, with "(file photo)" when it is not from this event.
    Two-person splits and covers: newsroom/PHOTOS-COMPOSITE.md, only when there is time.
-3. INFOGRAPHIC, last resort, only under rule 11: `python3 newsroom/scripts/make_infographic.py <id> ...`.
-4. No correct picture by the picture deadline: `python3 newsroom/scripts/held.py hold <id> picture "no correct photo of <subject>"`. Never a wrong or generic photo.
+3. INFOGRAPHIC: under rule 11 (nothing to show) `python3 newsroom/scripts/make_infographic.py <id>`; under rule 11a (a person or event with no correct photo anywhere) `python3 newsroom/scripts/make_infographic.py <id> --nophoto "no free photo of <subject>; library, quick_photo, finder <tag>"`. Every story has an `infographic:` block, so this always works. Never a wrong or generic photo.
+4. HOLD for a picture only when the story's infographic itself is wrong (numbers do not match the story) and cannot be fixed by the deadline. A story is never held just because no photo exists.
 In-story ```photo blocks whose photo did not arrive are deleted from both language files; the story still goes.
 Wrong picks go into newsroom/scripts/blocklist.txt (file name, lower case); pick.py, quick_photo.py and one_photo.py never use them again.
 
