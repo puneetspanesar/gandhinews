@@ -30186,5 +30186,91 @@
     "src800": "/photos/i-sensex-nifty-close-november-6-sensex-1718-nifty-25030-hi-640.jpg"
    }
   }
+ },
+ "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam": {
+  "id": "i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Final turnout rises to 70.72%",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अंतिम मतदान बढ़कर 70.72%",
+  "page": null,
+  "ihash": "ead66314ddc8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Andhra Pradesh polling; library, quick_photo, finder h0617 (only 600 px Chittoor 2004)"
+ },
+ "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled": {
+  "id": "i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+  "src": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rain threatens India v New Zealand",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत-न्यूज़ीलैंड मैच पर बारिश का खतरा",
+  "page": null,
+  "ihash": "4ce98a41dbd5",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-en-t-1280.jpg",
+    "src800": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-hi-t-1280.jpg",
+    "src800": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-en-1280.jpg",
+    "src800": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-hi-1280.jpg",
+    "src800": "/photos/i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Shubman Gill; library and finder h0617 candidates under main size or used within 7 days"
  }
 }
