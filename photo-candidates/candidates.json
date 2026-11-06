@@ -1,0 +1,331 @@
+{
+  "e1": {
+    "query": "Odisha landslide",
+    "candidates": []
+  },
+  "e2": {
+    "query": "Ganjam district Odisha flood",
+    "candidates": []
+  },
+  "e3": {
+    "query": "building collapse Tamil Nadu rescue",
+    "candidates": []
+  },
+  "e4": {
+    "query": "Cyclone fishing boats Andhra Pradesh coast",
+    "candidates": []
+  },
+  "e5": {
+    "query": "Tokyo Stock Exchange",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Inside Tokyo Stock Exchange (93140).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Inside_Tokyo_Stock_Exchange_(93140).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inside_Tokyo_Stock_Exchange_%2893140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Inside Tokyo Stock Exchange",
+        "thumb": "e5-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inside_Tokyo_Stock_Exchange_%2893140%29.jpg/1600px-Inside_Tokyo_Stock_Exchange_%2893140%29.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Artefacts at Tokyo Stock Exchange (45543).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Artefacts_at_Tokyo_Stock_Exchange_(45543).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Artefacts at Tokyo Stock Exchange",
+        "thumb": "e5-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg/1600px-Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg"
+      },
+      {
+        "n": 2,
+        "title": "File:Artefacts at Tokyo Stock Exchange (96849).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Artefacts_at_Tokyo_Stock_Exchange_(96849).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Artefacts_at_Tokyo_Stock_Exchange_%2896849%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4000,
+        "height": 3000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Artefacts at Tokyo Stock Exchange",
+        "thumb": "e5-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Artefacts_at_Tokyo_Stock_Exchange_%2896849%29.jpg/1600px-Artefacts_at_Tokyo_Stock_Exchange_%2896849%29.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:Artefacts at Tokyo Stock Exchange (97128).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Artefacts_at_Tokyo_Stock_Exchange_(97128).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Artefacts_at_Tokyo_Stock_Exchange_%2897128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Artefacts at Tokyo Stock Exchange",
+        "thumb": "e5-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Artefacts_at_Tokyo_Stock_Exchange_%2897128%29.jpg/1600px-Artefacts_at_Tokyo_Stock_Exchange_%2897128%29.jpg"
+      },
+      {
+        "n": 4,
+        "title": "File:Inside Tokyo Stock Exchange (81498).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Inside_Tokyo_Stock_Exchange_(81498).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Inside_Tokyo_Stock_Exchange_%2881498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Inside Tokyo Stock Exchange",
+        "thumb": "e5-4.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Inside_Tokyo_Stock_Exchange_%2881498%29.jpg/1600px-Inside_Tokyo_Stock_Exchange_%2881498%29.jpg"
+      },
+      {
+        "n": 5,
+        "title": "File:Inside Tokyo Stock Exchange (65002).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Inside_Tokyo_Stock_Exchange_(65002).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Inside_Tokyo_Stock_Exchange_%2865002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Inside Tokyo Stock Exchange",
+        "thumb": "e5-5.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Inside_Tokyo_Stock_Exchange_%2865002%29.jpg/1600px-Inside_Tokyo_Stock_Exchange_%2865002%29.jpg"
+      },
+      {
+        "n": 6,
+        "title": "File:Outside Tokyo Stock Exchange (98572).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Outside_Tokyo_Stock_Exchange_(98572).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Outside_Tokyo_Stock_Exchange_%2898572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Outside Tokyo Stock Exchange",
+        "thumb": "e5-6.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Outside_Tokyo_Stock_Exchange_%2898572%29.jpg/1600px-Outside_Tokyo_Stock_Exchange_%2898572%29.jpg"
+      },
+      {
+        "n": 7,
+        "title": "File:Artefacts at Tokyo Stock Exchange (86209).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Artefacts_at_Tokyo_Stock_Exchange_(86209).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Artefacts_at_Tokyo_Stock_Exchange_%2886209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4000,
+        "height": 3000,
+        "licence": "CC0",
+        "author": "Syced",
+        "credit": "Own work",
+        "date": "26 December 2025",
+        "description": "Artefacts at Tokyo Stock Exchange",
+        "thumb": "e5-7.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Artefacts_at_Tokyo_Stock_Exchange_%2886209%29.jpg/1600px-Artefacts_at_Tokyo_Stock_Exchange_%2886209%29.jpg"
+      }
+    ]
+  },
+  "e6": {
+    "query": "New York Stock Exchange trading floor",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:No Known Restrictions Trading Floor, New York Stock Exchange (Highsmith LOC) (6718386525).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_Trading_Floor,_New_York_Stock_Exchange_(Highsmith_LOC)_(6718386525).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/No_Known_Restrictions_Trading_Floor%2C_New_York_Stock_Exchange_%28Highsmith_LOC%29_%286718386525%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1632,
+        "height": 2048,
+        "licence": "Public domain",
+        "author": "Carol M. Highsmith",
+        "credit": "This image is available from the United States Library of Congress's Prints and Photographs division under the digital I",
+        "date": "2011-07-10 20:03",
+        "description": "Believed to be in Public Domain From &lt;a href=\"https://www.loc.gov/rr/print/catalog.html\" rel=\"nofollow\"&gt;Library of Congress, Prints and Photographs Collections&lt;/a&gt;. More on copyright: &lt;",
+        "thumb": "e6-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/No_Known_Restrictions_Trading_Floor%2C_New_York_Stock_Exchange_%28Highsmith_LOC%29_%286718386525%29.jpg/1600px-No_Known_Restrictions_Trading_Floor%2C_New_York_Stock_Exchange_%28Highsmith_LOC%29_%286718386525%29.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:NY stock exchange traders floor LC-U9-10548-6.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4537,
+        "height": 3004,
+        "licence": "Public domain",
+        "author": "Thomas J. O'Halloran",
+        "credit": "This image is available from the United States Library of Congress's Prints and Photographs division under the digital I",
+        "date": "1963-09-26",
+        "description": "Photograph shows stock brokers working at the New York Stock Exchange",
+        "thumb": "e6-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg/1600px-NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+      },
+      {
+        "n": 2,
+        "title": "File:Automatic ticker apparatus, New York Stock Exchange. View of stations from floor LCCN2013647238.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 640,
+        "height": 500,
+        "licence": "Public domain",
+        "author": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+        "credit": "Library of Congress Catalog: https://lccn.loc.gov/2013647238 Image download: https://cdn.loc.gov/service/pnp/cph/3a40000",
+        "date": "1922",
+        "description": "Title: Automatic ticker apparatus, New York Stock Exchange. View of stations from floor Abstract/medium: 1 photographic print.",
+        "thumb": "e6-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:Kathy at New York Stock Exchange (cropped).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kathy_at_New_York_Stock_Exchange_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kathy_at_New_York_Stock_Exchange_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1419,
+        "height": 1893,
+        "licence": "CC BY-SA 2.0",
+        "author": "kathy ireland",
+        "credit": "NYSE",
+        "date": "2018-08-27 18:48",
+        "description": "NYSE",
+        "thumb": "e6-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kathy_at_New_York_Stock_Exchange_%28cropped%29.jpg"
+      },
+      {
+        "n": 4,
+        "title": "File:Kathy at New York Stock Exchange.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kathy_at_New_York_Stock_Exchange.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kathy_at_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3840,
+        "height": 4803,
+        "licence": "CC BY-SA 2.0",
+        "author": "kathy ireland",
+        "credit": "NYSE",
+        "date": "2018-08-27 18:48",
+        "description": "NYSE",
+        "thumb": "e6-4.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kathy_at_New_York_Stock_Exchange.jpg/1600px-Kathy_at_New_York_Stock_Exchange.jpg"
+      },
+      {
+        "n": 5,
+        "title": "File:President Ronald Reagan During a Trip to New York and a Visit to The New York Stock Exchange Nyse and Addressing The New York Stock Exchange Employees, Including Brokers, Clerks, an - DPLA - 151b56214071912e19b10a868af8851c.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:President_Ronald_Reagan_During_a_Trip_to_New_York_and_a_Visit_to_The_New_York_Stock_Exchange_Nyse_and_Addressing_The_New_York_Stock_Exchange_Employees,_Including_Brokers,_Clerks,_an_-_DPLA_-_151b56214071912e19b10a868af8851c.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/President_Ronald_Reagan_During_a_Trip_to_New_York_and_a_Visit_to_The_New_York_Stock_Exchange_Nyse_and_Addressing_The_New_York_Stock_Exchange_Employees%2C_Including_Brokers%2C_Clerks%2C_an_-_DPLA_-_151b56214071912e19b10a868af8851c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4000,
+        "height": 2690,
+        "licence": "Public domain",
+        "author": "President (1981-1989 : Reagan). White House Photographic Office. 1981-1989",
+        "credit": "File URL Catalog record",
+        "date": "28 March 1985",
+        "description": "",
+        "thumb": "e6-5.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/President_Ronald_Reagan_During_a_Trip_to_New_York_and_a_Visit_to_The_New_York_Stock_Exchange_Nyse_and_Addressing_The_New_York_Stock_Exchange_Employees%2C_Including_Brokers%2C_Clerks%2C_an_-_DPLA_-_151b56214071912e19b10a868af8851c.jpg/1600px-thumbnail.jpg"
+      },
+      {
+        "n": 6,
+        "title": "File:New York Stock Exchange, Manhattan, New York (7236984682).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange,_Manhattan,_New_York_(7236984682).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4000,
+        "height": 3000,
+        "licence": "CC BY-SA 2.0",
+        "author": "Ken Lund from Reno, Nevada, USA",
+        "credit": "New York Stock Exchange, Manhattan, New York",
+        "date": "2012-05-17 05:01",
+        "description": "The New York Stock Exchange, commonly referred to as NYSE is a stock exchange located at 11 Wall Street, Lower Manhattan, New York City, New York, United States. It is by far the world's largest stock",
+        "thumb": "e6-6.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg/1600px-New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg"
+      },
+      {
+        "n": 7,
+        "title": "File:NY stock exchange interior LC-USZ62-94123.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_interior_LC-USZ62-94123.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/NY_stock_exchange_interior_LC-USZ62-94123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 640,
+        "height": 485,
+        "licence": "Public domain",
+        "author": "Unknown authorUnknown author",
+        "credit": "U.S. Library of Congress, Prints and Photographs Division, \"Built in America\" Collection",
+        "date": "1920-09-04",
+        "description": "Interior of New York Stock Exchange",
+        "thumb": "e6-7.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/9/98/NY_stock_exchange_interior_LC-USZ62-94123.jpg"
+      }
+    ]
+  },
+  "e7": {
+    "query": "Suhail Bhat footballer",
+    "candidates": []
+  },
+  "e8": {
+    "query": "Hardeep Singh Puri 2024",
+    "candidates": []
+  },
+  "e9": {
+    "query": "Sachin Vaze",
+    "candidates": []
+  },
+  "e10": {
+    "query": "Indian men hockey team Asian Champions Trophy",
+    "candidates": []
+  },
+  "e11": {
+    "query": "Harmanpreet Singh hockey captain",
+    "candidates": []
+  },
+  "e12": {
+    "query": "Lella Appi Reddy",
+    "candidates": []
+  },
+  "e13": {
+    "query": "India national football team 2025",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:IndiaU20WNT 2026AFC U20WAC Quals.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:IndiaU20WNT_2026AFC_U20WAC_Quals.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/IndiaU20WNT_2026AFC_U20WAC_Quals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4096,
+        "height": 2731,
+        "licence": "GODL-India",
+        "author": "Ministry of Youth Affairs and Sports (SAI)",
+        "credit": "https://x.com/Media_SAI/status/1954836047885402287?s=20",
+        "date": "2025-08-11",
+        "description": "India national u20 women football team celebrating after 1-0 vs Myanmar u20 women's team as India qualified for 2026 AFC U20 Women's Asian Cup.",
+        "thumb": "e13-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IndiaU20WNT_2026AFC_U20WAC_Quals.jpg/1600px-IndiaU20WNT_2026AFC_U20WAC_Quals.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:India vs Pakistan, 2018 SAFF Championship.png",
+        "page": "https://commons.wikimedia.org/wiki/File:India_vs_Pakistan,_2018_SAFF_Championship.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/India_vs_Pakistan%2C_2018_SAFF_Championship.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 510,
+        "height": 360,
+        "licence": "CC BY 3.0",
+        "author": "@xossboss9890",
+        "credit": "YouTube: https://www.youtube.com/watch?v=9Qb-fHJxLtM&amp;t=83s – View/save archived versions on archive.org (cropped)",
+        "date": "2018-09-12",
+        "description": "India vs Pakistan at the 2018 SAFF Championship semi-finals held at the Bangabandhu National Stadium in Dhaka, Bangladesh on 12 September 2018. India won the match by 3–1.",
+        "thumb": "e13-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/4/47/India_vs_Pakistan%2C_2018_SAFF_Championship.png"
+      }
+    ]
+  },
+  "e14": {
+    "query": "Sky Stadium Wellington cricket rain",
+    "candidates": []
+  }
+}
