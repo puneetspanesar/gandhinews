@@ -1,0 +1,16 @@
+{
+ "run": "stall-16",
+ "start": "2026-11-06T15:54:05+05:30",
+ "end": "2026-11-06T16:07:20+05:30",
+ "summary": "Homepage refreshed with photos beside the lead; refresh_home section cap fixed",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): wall-street-close-dow-1833-nasdaq-correction-chip-rout"
+ ],
+ "lead": "haryana-da-63-per-cent-lado-lakshmi-13th-instalment"
+}
