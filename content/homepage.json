@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+    "id": "amit-shah-dehradun-rally-speech-1475-crore-projects",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "Politics / BJP",
+        "hi": "राजनीति / भाजपा"
       },
       "value": {
-        "en": "'A big, beautiful agreement'",
-        "hi": "'एक बड़ा, शानदार समझौता'"
+        "en": "₹1,475 crore for Uttarakhand",
+        "hi": "उत्तराखंड को ₹1,475 करोड़"
       },
       "text": {
         "en": "",
@@ -18,21 +18,32 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "andhra-parishad-polls-four-voters-two-poll-staff-die",
       "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+      "fast-track-special-courts-explained-rape-pocso-backlog",
       "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "BJP",
+        "hi": "भाजपा"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Four voters and two poll staff die on Andhra parishad polling day",
+          "hi": "आंध्र में परिषद चुनाव के दिन चार मतदाताओं और दो चुनाव कर्मियों की मौत"
+        }
+      },
       {
         "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
         "lead": {
@@ -42,6 +53,17 @@
         "text": {
           "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
           "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
+        }
+      },
+      {
+        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालतें:"
+        },
+        "text": {
+          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
+          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
         }
       },
       {
@@ -67,6 +89,28 @@
         }
       },
       {
+        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "lead": {
+          "en": "Rajya Sabha:",
+          "hi": "राज्यसभा:"
+        },
+        "text": {
+          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
+          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+        }
+      },
+      {
+        "link": "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Sensex up 647 points at 1 pm as India stands apart from Asia's chip rout",
+          "hi": "एशिया में चिप शेयरों की भारी बिकवाली के बीच दोपहर 1 बजे सेंसेक्स 647 अंक ऊपर"
+        }
+      },
+      {
         "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "lead": {
           "en": "Shooting:",
@@ -75,50 +119,6 @@
         "text": {
           "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
           "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
-        }
-      },
-      {
-        "link": "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-        "lead": {
-          "en": "Hockey:",
-          "hi": "हॉकी:"
-        },
-        "text": {
-          "en": "India come from behind to beat Japan 4-1 and win sixth Asian Champions Trophy",
-          "hi": "पिछड़ने के बाद भारत ने जापान को 4-1 से हराया, छठी बार जीती एशियाई चैंपियंस ट्रॉफी"
-        }
-      },
-      {
-        "link": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
-          "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
-        }
-      },
-      {
-        "link": "hosur-factory-concrete-structure-collapse-three-workers-killed",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Three workers killed as concrete structure collapses at Hosur factory site",
-          "hi": "होसुर में फैक्टरी निर्माण स्थल पर कंक्रीट ढांचा गिरा, तीन मजदूरों की मौत"
-        }
-      },
-      {
-        "link": "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Bombay High Court cancels Sachin Waze's bail in Antilia bomb scare case",
-          "hi": "एंटीलिया बम कांड: बॉम्बे हाईकोर्ट ने सचिन वाझे की ज़मानत रद्द की"
         }
       }
     ]
@@ -186,15 +186,15 @@
   },
   "topStories": {
     "big": {
-      "id": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+      "id": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
       "also": []
     },
     "list": [
-      "hosur-factory-concrete-structure-collapse-three-workers-killed",
-      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
-      "titan-q2-standalone-profit-doubles-2393-crore",
-      "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7"
+      "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
     ],
     "also": [
       "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
@@ -374,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
+        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
       ],
-      "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+      "lead": "amit-shah-dehradun-rally-speech-1475-crore-projects"
     },
     {
       "section": "economy",
-      "lead": "joshi-renewable-investment-220-billion-500-gw-2030",
+      "lead": "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,19 +393,19 @@
         ]
       },
       "list": [
+        "joshi-renewable-investment-220-billion-500-gw-2030",
         "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
         "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
+        "fii-buy-14975-crore-november-5-dii-sell-10445"
       ]
     },
     {
       "section": "states",
-      "lead": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+      "lead": "andhra-parishad-polls-four-voters-two-poll-staff-die",
       "list": [
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
         "hosur-factory-concrete-structure-collapse-three-workers-killed",
-        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
       ]
     },
     {
@@ -458,7 +458,7 @@
         "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
         "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
       ]
     }
   ],
@@ -625,17 +625,17 @@
       ]
     },
     {
-      "at": "2026-11-06T13:19:52+05:30",
+      "at": "2026-11-06T13:41:04+05:30",
       "ids": [
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "andhra-parishad-polls-four-voters-two-poll-staff-die",
         "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+        "fast-track-special-courts-explained-rape-pocso-backlog",
         "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
         "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-        "hosur-factory-concrete-structure-collapse-three-workers-killed",
-        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
       ]
     }
   ],
