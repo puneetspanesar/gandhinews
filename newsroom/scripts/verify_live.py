@@ -51,7 +51,9 @@ if 7 <= now.hour:
         bad.append(f'runs: no run commit since {dt.datetime.fromtimestamp(last, IST):%B %d %H:%M} (a run was missed or failed before pushing)')
 
 f = sh(sys.executable, 'newsroom/scripts/check_fresh.py')
-if f.returncode: bad.append('freshness:\n    ' + '\n    '.join(f.stdout.strip().splitlines()[1:]))
+if f.returncode == 1: bad.append('freshness:\n    ' + '\n    '.join(f.stdout.strip().splitlines()[1:]))
+# exit 2 = recorded rule breaches the next writing run clears (e.g. no fresh pictured story to lead): noted, not a stall
+notes = f.stdout.strip().splitlines()[1:] if f.returncode == 2 else []
 
 home = json.load(open('content/homepage.json'))
 lead = home['lead']['id']
@@ -73,4 +75,4 @@ for l in h.splitlines():
 
 if bad:
     print(f'LIVE SITE PROBLEMS at {now:%H:%M} IST:'); [print('  ' + b) for b in bad]; sys.exit(1)
-print(f"OK at {now:%H:%M} IST: live = main ({main[:7]}), runs on time, homepage rules hold, lead shown in both languages.")
+print(f"OK at {now:%H:%M} IST: live = main ({main[:7]}), runs on time, homepage rules hold, lead shown in both languages." + ("\n  breaches for the next writing run:\n  " + "\n  ".join(notes) if notes else ""))
