@@ -1,0 +1,38 @@
+{
+  "vaze2": {
+    "query": "Sachin Waze",
+    "candidates": []
+  },
+  "odl2": {
+    "query": "Odisha landslide",
+    "candidates": []
+  },
+  "kand": {
+    "query": "Kandhamal landslide",
+    "candidates": []
+  },
+  "tnc2": {
+    "query": "Tamil Nadu building collapse",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Debris of fallen ceiling of the Big warehouse and vegetation growth on it.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Debris_of_fallen_ceiling_of_the_Big_warehouse_and_vegetation_growth_on_it.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Debris_of_fallen_ceiling_of_the_Big_warehouse_and_vegetation_growth_on_it.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2400,
+        "height": 3200,
+        "licence": "CC BY-SA 4.0",
+        "author": "RASHIKA AGARWAL",
+        "credit": "Own work",
+        "date": "2018-01-11 15:16:10",
+        "description": "This is a photo of ASI monument number",
+        "thumb": "tnc2-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Debris_of_fallen_ceiling_of_the_Big_warehouse_and_vegetation_growth_on_it.jpg/1600px-Debris_of_fallen_ceiling_of_the_Big_warehouse_and_vegetation_growth_on_it.jpg"
+      }
+    ]
+  },
+  "moul2": {
+    "query": "2014 Chennai building collapse",
+    "candidates": []
+  }
+}
