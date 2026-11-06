@@ -87,10 +87,6 @@ He warned that the link would not stop at Panchayati Raj programmes and could re
 
 He again accused Chief Election Commissioner Gyanesh Kumar of working with the BJP, and said the Congress had exposed what it calls vote theft.
 
-```photo
-{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whom Rahul Gandhi again accused of working with the BJP as the SIR of the rolls goes on.","alt":"Chief Election Commissioner Gyanesh Kumar"}
-```
-
 The government has not set out which schemes the announcement covers or how it would work, and no formal guidelines have been issued.
 
 ## Venugopal's 13 crore charge
@@ -102,10 +98,6 @@ The BJP has rejected the vote theft charge before. Its leaders say the SIR only 
 ## State chiefs called to Delhi
 
 The attack comes hours before Gandhi meets **Pradesh Congress Committee presidents and Congress Legislature Party leaders** in New Delhi on Friday evening. Karnataka Chief Minister D K Shivakumar flew in from Bengaluru for it and said the meeting would last about an hour and a half. The party has not said what is on the agenda.
-
-```photo
-{"n":2,"subject":"D. K. Shivakumar","caption":"Karnataka Chief Minister D K Shivakumar, who travelled to Delhi for Rahul Gandhi's meeting with state Congress chiefs and legislature party leaders.","alt":"Karnataka Chief Minister D K Shivakumar"}
-```
 
 Shivakumar said he would see no one else in the capital because of Deepavali, though his schedule lists calls on Union ministers. He also said the state had invited the Prime Minister to open the new stretch of Bengaluru Metro's Pink Line on November 13, and asked what the BJP had to do with the invitation.
 

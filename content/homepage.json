@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-dehradun-rally-speech-1475-crore-projects",
+    "id": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP",
-        "hi": "राजनीति / भाजपा"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "₹1,475 crore for Uttarakhand",
-        "hi": "उत्तराखंड को ₹1,475 करोड़"
+        "en": "'Vote lost, rights lost'",
+        "hi": "'वोट गया, तो हक गया'"
       },
       "text": {
         "en": "",
@@ -16,109 +16,113 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "telangana-roll-revision-must-not-erase-voters-quietly",
+      "who-owns-trinamool-election-commission-symbol-dispute-explained"
+    ],
     "relatedBeside": [
-      "andhra-parishad-polls-four-voters-two-poll-staff-die",
-      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
     ],
     "live": {
       "title": {
-        "en": "BJP",
-        "hi": "भाजपा"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
         },
         "text": {
-          "en": "Four voters and two poll staff die on Andhra parishad polling day",
-          "hi": "आंध्र में परिषद चुनाव के दिन चार मतदाताओं और दो चुनाव कर्मियों की मौत"
+          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
+          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
         }
       },
       {
-        "link": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A special cell for child labour is welcome. It must come with a deadline, a count and a public report",
-          "hi": "बाल श्रम पर विशेष प्रकोष्ठ स्वागत योग्य है, पर उसके साथ समय-सीमा, गिनती और सार्वजनिक रिपोर्ट भी चाहिए"
-        }
-      },
-      {
-        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
-        },
-        "text": {
-          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
-          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
-        }
-      },
-      {
-        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
-          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
-        }
-      },
-      {
-        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
-          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
-        }
-      },
-      {
-        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "lead": {
-          "en": "Rajya Sabha:",
-          "hi": "राज्यसभा:"
-        },
-        "text": {
-          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
-          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
-        }
-      },
-      {
-        "link": "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+        "link": "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
         "lead": {
           "en": "Markets:",
           "hi": "बाजार:"
         },
         "text": {
-          "en": "Sensex up 647 points at 1 pm as India stands apart from Asia's chip rout",
-          "hi": "एशिया में चिप शेयरों की भारी बिकवाली के बीच दोपहर 1 बजे सेंसेक्स 647 अंक ऊपर"
+          "en": "Sensex crosses 80,000, up 1,066 points at 2 pm as banks extend the rally",
+          "hi": "दोपहर 2 बजे सेंसेक्स 1,066 अंक उछलकर 80,000 के पार, बैंकों ने बढ़त आगे बढ़ाई"
         }
       },
       {
-        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
-          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
+          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
+          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+        }
+      },
+      {
+        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
+          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
+        }
+      },
+      {
+        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
+          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
+        }
+      },
+      {
+        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
+          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
+        }
+      },
+      {
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+        }
+      },
+      {
+        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
+        "lead": {
+          "en": "Jharkhand:",
+          "hi": "झारखंड:"
+        },
+        "text": {
+          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
+          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
         }
       }
     ]
@@ -186,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "id": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
       "also": []
     },
     "list": [
-      "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "jharkhand-khunti-trailer-crowd-seven-killed",
+      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+      "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
     ],
     "also": [
-      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-      "ugc-equity-regulations-explained-caste-discrimination-campuses"
+      "hosur-factory-concrete-structure-collapse-three-workers-killed",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
     ]
   },
   "startHere": [
@@ -374,15 +378,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+        "amit-shah-dehradun-rally-speech-1475-crore-projects",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
       ],
-      "lead": "amit-shah-dehradun-rally-speech-1475-crore-projects"
+      "lead": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
+      "lead": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,28 +397,28 @@
         ]
       },
       "list": [
+        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+        "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-four-voters-two-poll-staff-die",
+      "lead": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
       "list": [
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-        "hosur-factory-concrete-structure-collapse-three-workers-killed",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
+        "jharkhand-khunti-trailer-crowd-seven-killed",
+        "andhra-parishad-polls-four-voters-two-poll-staff-die",
+        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
       ]
     },
     {
       "section": "policy",
-      "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "lead": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
       "list": [
+        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
         "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-        "sitharaman-tata-critical-component-settle-amicably-investors",
-        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
+        "sitharaman-tata-critical-component-settle-amicably-investors"
       ]
     },
     {
@@ -458,7 +462,7 @@
         "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
         "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
       ]
     }
   ],
@@ -636,6 +640,23 @@
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
         "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
+      ]
+    },
+    {
+      "at": "2026-11-06T14:45:06+05:30",
+      "ids": [
+        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "telangana-roll-revision-must-not-erase-voters-quietly",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "sensex-nifty-2pm-november-6-sensex-1065-points-80375",
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "jharkhand-khunti-trailer-crowd-seven-killed"
       ]
     }
   ],

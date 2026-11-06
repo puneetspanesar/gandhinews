@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T13:00:00+05:30",
+  "as_of": "2026-11-06T14:00:00+05:30",
   "status": "open",
   "session_date": "2026-11-06",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 79956.74,
-      "change": 646.73,
-      "pct": 0.82,
+      "value": 80375.65,
+      "change": 1065.64,
+      "pct": 1.34,
       "history": [
         {
           "date": "2026-09-30",
@@ -101,15 +101,15 @@
           "close": 79310.01
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+      "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 24678.55,
-      "change": 141.95,
-      "pct": 0.58,
+      "value": 24801.8,
+      "change": 265.2,
+      "pct": 1.08,
       "history": [
         {
           "date": "2026-09-30",
@@ -204,7 +204,7 @@
           "close": 24536.6
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+      "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
     },
     {
       "id": "nifty-bank",
@@ -244,16 +244,16 @@
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 15.62,
-      "change": null,
-      "pct": 2.83,
+      "value": 17.22,
+      "change": 1.64,
+      "pct": 10.53,
       "history": [
         {
           "date": "2026-11-04",
           "close": 15.19
         }
       ],
-      "source": "https://www.chinimandi.com/sensex-climbs-2000-points-nifty-above-24500/"
+      "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
     }
   ],
   "rates": [

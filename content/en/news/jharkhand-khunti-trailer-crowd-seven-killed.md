@@ -96,10 +96,6 @@ The truck was reported to have smashed through the culvert railing and come to r
 
 Khunti's police chief said early information pointed to a crowd forming after the scooter crash and the truck then running over those standing on the road. The police have begun an investigation.
 
-```photo
-{"n":1,"subject":"Road blockade protest Jharkhand","caption":"Villagers in Jharkhand block a road in protest after a fatal accident (file photo); Karra residents blocked the main road on Friday morning.","alt":"Villagers blocking a road in Jharkhand during a protest (file photo)"}
-```
-
 ## Anger on the road
 
 By Friday morning, grief had turned to anger. Villagers **burned tyres and blocked the main road** near the Karra railway crossing, stopping all traffic. They demanded the driver's immediate arrest, government jobs and proper compensation for the families of the dead, and treatment for the injured girl.

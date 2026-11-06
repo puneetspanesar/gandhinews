@@ -69,7 +69,7 @@ Registered Sri Lankan Tamils who took shelter in India **up to January 9, 2015**
 
 ## Pakistani nationals and PIOs
 
-Some Pakistani nationals who came on or before December 31, 2009 to settle permanently, and cannot renew their passports because they hold **no Pakistani identity card (CNIC)**, are covered too. They must have no adverse police or security reports, must not have married or bought property in Pakistan, and must undertake not to return there. People of Indian origin who returned by the same date on Malaysian or Singaporean passports that have expired and cannot be renewed get similar relief.
+Some Pakistani nationals who came on or before December 31, 2009, to settle permanently, and cannot renew their passports because they hold **no Pakistani identity card (CNIC)**, are covered too. They must have no adverse police or security reports, must not have married or bought property in Pakistan, and must undertake not to return there. People of Indian origin who returned by the same date on Malaysian or Singaporean passports that have expired and cannot be renewed get similar relief.
 
 ## Nepal and Bhutan
 

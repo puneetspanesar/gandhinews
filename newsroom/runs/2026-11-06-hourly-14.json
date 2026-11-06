@@ -1,0 +1,35 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-06T14:04:39+05:30",
+ "end": "2026-11-06T14:47:32+05:30",
+ "summary": "Rahul Gandhi lead, Khunti crash, passport rules, Karol Bagh fire, Sensex 2 pm, Prism Johnson; U19 held",
+ "new": [
+  "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+  "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+  "jharkhand-khunti-trailer-crowd-seven-killed",
+  "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+  "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+  "sensex-nifty-2pm-november-6-sensex-1065-points-80375"
+ ],
+ "held": [
+  "india-u19-bowl-out-nepal-128-asia-cup-al-amerat"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "india-u19-bowl-out-nepal-128-asia-cup-al-amerat",
+   "kind": "facts",
+   "why": "English and Hindi say every match of the tournament is played on this one ground, then say Pakistan played the UAE 'on the next ground' on Friday; the two lines contradict each other. The story also still stops at the innings break, while other sites already carry the India v Nepal result.",
+   "fix": "Say matches are spread across the Oman Cricket Academy grounds in Al Amerat (both languages), and update headline, standfirst, covers and Hindi twin with the result (or latest chase score with its time)."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+   "why": "Main picture caption on the page reads 'North Block, home of the Finance Ministry, New Delhi (file photo)' on a Home Ministry story; the caption was carried over from the RBI/fiscal story the photo was picked from and contradicts the story's own alt text.",
+   "done": "Recaptioned the North Block photo in both languages: North Block, which houses the Ministry of Home Affairs, in New Delhi (file photo)."
+  }
+ ],
+ "breaches": [],
+ "lead": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
+}

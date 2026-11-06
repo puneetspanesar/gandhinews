@@ -58,10 +58,6 @@ verification:
     - "Arjun Rajput bowled overs 42.1 to 42.3 and the last wicket fell at 42.3 (CricTracker over log); written as Rajput ending the innings. No individual Nepal scores or full bowling figures found in any page read, so none given."
     - "Result not decided when written. Eight titles and the 191-run loss in the 2025 final: Hans India (from the preview story). Fixtures Nov 8 Pakistan, Nov 10 UAE, semis Nov 12, final Nov 14: preview story sources."
     - "Cricinfo scorecard and the CricTracker scorecard tab could not be read; ESPNcricinfo blocked."
-verification:
-  status: approved
-  notes:
-    - "Hindi twin of the English story; see English notes."
 infographic:
   kicker: "अंडर-19 एशिया कप, ओमान"
   headline: "भारत ने नेपाल को 128 पर समेटा"
