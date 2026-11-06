@@ -29187,5 +29187,71 @@
     "src800": "/photos/i-india-u19-bowl-first-nepal-asia-cup-al-amerat-hi-640.jpg"
    }
   }
+ },
+ "gold-silver-fall-dhanteras-november-6-mcx": {
+  "id": "o-gold-silver-fall-dhanteras-november-6-mcx",
+  "src": "/photos/o-gold-silver-fall-dhanteras-november-6-mcx-1280.jpg",
+  "src800": "/photos/o-gold-silver-fall-dhanteras-november-6-mcx-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Aviral Mediratta / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Jewellery shops in Zaveri Bazaar at Manek Chowk, Ahmedabad (file photo)",
+  "alt_hi": "अहमदाबाद के माणेक चौक में जवेरी बाजार की आभूषण दुकानें (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Manekchowk_-_Zaveri_Bazaar.JPG"
+ },
+ "sensex-nifty-11am-november-6-it-gains-nikkei-rout": {
+  "id": "i-sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+  "src": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-en-3x2-1280.jpg",
+  "src800": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sensex up 394 points as IT leads",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: IT के दम पर सेंसेक्स 394 अंक ऊपर",
+  "page": null,
+  "ihash": "d2d560892cae",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-en-t-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-hi-t-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-en-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-hi-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-11am-november-6-it-gains-nikkei-rout-hi-640.jpg"
+   }
+  }
+ },
+ "india-beat-japan-4-1-sixth-asian-champions-trophy-title": {
+  "id": "o-india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+  "src": "/photos/o-india-beat-japan-4-1-sixth-asian-champions-trophy-title-1280.jpg",
+  "src800": "/photos/o-india-beat-japan-4-1-sixth-asian-champions-trophy-title-640.jpg",
+  "width": 1280,
+  "height": 833,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "India hockey captain Harmanpreet Singh (right) and P R Sreejesh with their Paris 2024 bronze medals, with Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "पेरिस 2024 के कांस्य पदक के साथ भारतीय हॉकी कप्तान हरमनप्रीत सिंह (दाएं) और पी आर श्रीजेश, प्रधानमंत्री नरेंद्र मोदी के साथ (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:PM_Modi_with_medal_winners_of_the_2024_Paris_Olympics.jpg"
  }
 }

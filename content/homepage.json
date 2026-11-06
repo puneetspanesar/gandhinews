@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Politics / BJP",
+        "hi": "राजनीति / भाजपा"
       },
       "value": {
-        "en": "Cyclone-hit mandals vote, 7 booths repoll",
-        "hi": "चक्रवात वाले मंडलों में वोट, 7 बूथों पर दोबारा"
+        "en": "Shah's Doon rally ahead of 2027 polls",
+        "hi": "2027 से पहले दून में शाह की रैली"
       },
       "text": {
         "en": "",
@@ -16,112 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "modi-meets-asian-para-games-medallists-delhi",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "24-hour-rule-explained-article-22-detention-arrest"
+      "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+      "ugc-equity-rules-revise-them-do-not-bury-them"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "BJP",
+        "hi": "भाजपा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
+        "link": "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
         "lead": {
           "en": "Markets:",
-          "hi": "बाज़ार:"
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day",
-          "hi": "सेंसेक्स की 2,009 अंकों की छलांग वाले दिन विदेशी निवेशकों ने ₹14,975 करोड़ के शेयर खरीदे"
+          "en": "Sensex up 394 points at 11 am as IT stocks shrug off the global chip rout",
+          "hi": "सुबह 11 बजे सेंसेक्स 394 अंक ऊपर, वैश्विक चिप बिकवाली के बीच आईटी शेयरों ने संभाला बाजार"
         }
       },
       {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
+          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
         }
       },
       {
-        "link": "modi-meets-asian-para-games-medallists-delhi",
-        "lead": {
-          "en": "Para sport:",
-          "hi": "पैरा खेल:"
-        },
-        "text": {
-          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
-          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
-        }
-      },
-      {
-        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
-          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
+          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
+          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
         }
       },
       {
-        "link": "24-hour-rule-explained-article-22-detention-arrest",
+        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
         "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "The 24-hour rule explained: why the Supreme Court says the clock starts at detention",
-          "hi": "24 घंटे का नियम: सुप्रीम कोर्ट क्यों कहता है कि घड़ी हिरासत से चलती है"
+          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
+          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
         }
       },
       {
-        "link": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Five more years for fast-track courts is welcome. Without judges and forensic labs they will not be fast",
-          "hi": "फास्ट ट्रैक अदालतों को पांच साल और मिलना स्वागतयोग्य है। पर जज और फॉरेंसिक लैब के बिना वे तेज़ नहीं होंगी"
+          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
+          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
         }
       },
       {
-        "link": "fast-track-special-courts-explained-rape-pocso-backlog",
+        "link": "ugc-equity-regulations-explained-caste-discrimination-campuses",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
+          "en": "Education:",
+          "hi": "शिक्षा:"
         },
         "text": {
-          "en": "Fast-track special courts explained: why rape and POCSO trials still take so long",
-          "hi": "फास्ट ट्रैक स्पेशल कोर्ट क्या हैं, और बलात्कार व पॉक्सो मुकदमों में अब भी इतनी देर क्यों"
+          "en": "UGC equity rules explained: what the caste discrimination regulations say and why they are on hold",
+          "hi": "यूजीसी के समानता नियम: कैंपस में जातिगत भेदभाव पर नियम क्या कहते हैं और क्यों रुके हैं"
         }
       },
       {
-        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
-          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
+          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
+          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
+        }
+      },
+      {
+        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
+          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
         }
       }
     ]
@@ -189,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "id": "ugc-equity-regulations-explained-caste-discrimination-campuses",
       "also": []
     },
     "list": [
-      "fast-track-special-courts-explained-rape-pocso-backlog",
-      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-      "joshi-renewable-investment-220-billion-500-gw-2030",
-      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
     ],
     "also": [
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri"
+      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
     ]
   },
   "startHere": [
@@ -385,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "lic-q2-profit-12115-crore-up-20-per-cent",
+      "lead": "gold-silver-fall-dhanteras-november-6-mcx",
       "module": {
         "type": "markets",
         "indicators": [
@@ -396,10 +393,10 @@
         ]
       },
       "list": [
+        "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+        "lic-q2-profit-12115-crore-up-20-per-cent",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
@@ -612,6 +609,20 @@
         "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
         "fast-track-special-courts-explained-rape-pocso-backlog",
         "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol"
+      ]
+    },
+    {
+      "at": "2026-11-06T11:37:05+05:30",
+      "ids": [
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+        "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "ugc-equity-rules-revise-them-do-not-bury-them",
+        "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
       ]
     }
   ],

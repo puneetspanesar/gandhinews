@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T10:00:00+05:30",
+  "as_of": "2026-11-06T11:00:00+05:30",
   "status": "open",
   "session_date": "2026-11-06",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 79462.7,
-      "change": 152.69,
-      "pct": 0.19,
+      "value": 79704.28,
+      "change": 394.27,
+      "pct": 0.5,
       "history": [
         {
           "date": "2026-09-30",
@@ -101,15 +101,15 @@
           "close": 79310.01
         }
       ],
-      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-6-november-gift-nifty-signals-weak-opening-amid-global-market-pressure-12787789"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 24524.5,
-      "change": -12.1,
-      "pct": -0.05,
+      "value": 24599.6,
+      "change": 63.0,
+      "pct": 0.26,
       "history": [
         {
           "date": "2026-09-30",
@@ -204,7 +204,7 @@
           "close": 24536.6
         }
       ],
-      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-6-november-gift-nifty-signals-weak-opening-amid-global-market-pressure-12787789"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
     },
     {
       "id": "nifty-bank",
@@ -286,11 +286,11 @@
       "name_hi": "सोना",
       "unit": "₹/10 g, MCX",
       "unit_hi": "₹/10 ग्राम, MCX",
-      "value": 142695,
-      "change": null,
-      "pct": 2.33,
+      "value": 142061,
+      "change": -2034,
+      "pct": -1.41,
       "decimals": 0,
-      "source": "https://www.kotakneo.com/news/market-news/markets-end-higher-after-range-bound-session/"
+      "source": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
     },
     {
       "id": "silver",
@@ -298,11 +298,11 @@
       "name_hi": "चांदी",
       "unit": "₹/kg, MCX",
       "unit_hi": "₹/किलो, MCX",
-      "value": 186800,
-      "change": null,
-      "pct": 3.95,
+      "value": 184035,
+      "change": -3105,
+      "pct": -1.66,
       "decimals": 0,
-      "source": "https://www.kotakneo.com/news/market-news/markets-end-higher-after-range-bound-session/"
+      "source": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
     },
     {
       "id": "gsec-10y",
@@ -366,6 +366,7 @@
     "Nov 5, checked 18:30 IST (18:00 hourly run): no newer dated figures read (Nov 5 FII/DII page not readable this run); closing values and flows kept as they were.",
     "FII/DII for Nov 5 not yet read (19:20 IST); Nov 4 flows shown.",
     "6 Nov 09:25 IST (hourly 09:00): rupee 94.48 and Brent $99.41 from Tradebrains (09:16 IST); change against the previous stored readings. No post-open Sensex/Nifty level found in a readable source (Business Standard live blog failed to load), so indices keep the Nov 5 close and status closed.",
-    "hourly-10: Sensex and Nifty at about 10:00 am Nov 6 (Trade Brains live blog); Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (no dated source read this run)."
+    "hourly-10: Sensex and Nifty at about 10:00 am Nov 6 (Trade Brains live blog); Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (no dated source read this run).",
+    "hourly-11: Sensex, Nifty at 11:00 am (Business Standard live blog); MCX gold and silver at about 10:45 am (Business Today). Nifty Bank, Midcap, VIX, rupee, Brent, yield, movers, sectors keep earlier values (no dated source read this run)."
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-06T11:04:24+05:30",
+ "end": "2026-11-06T11:39:28+05:30",
+ "summary": "Sensex at 11 am, gold on Dhanteras; 3 held for pictures",
+ "new": [
+  "gold-silver-fall-dhanteras-november-6-mcx",
+  "sensex-nifty-11am-november-6-it-gains-nikkei-rout"
+ ],
+ "held": [
+  "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+  "india-u19-nepal-27-2-ishan-sood-asia-cup-al-amerat",
+  "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
+   "why": "Astral is called a 52-week low in the key point, the body ('to Rs 1,215.50, a 52-week low') and both covers ('Astral at its low, a 52-week low' / 'एस्ट्रल, 52 हफ्ते के निचले स्तर पर'), in English and Hindi. The source's 10:30 entry gives Rs 1,215.50 only as Astral's day's low. The 52-week low in the source is Happy Forgings (10:40, Rs 1,695). The Nikkei -5.88% on the cover is the 9:35 am figure set beside the 11 am Sensex, with no time given.",
+   "done": "Astral now \"its lowest of the day\" in EN and HI key point and body; 52-week low moved to Happy Forgings; Nikkei timed at 9:35 am in key point, body and cover; cover labels changed as asked and both covers regenerated."
+  }
+ ],
+ "breaches": [],
+ "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+}

@@ -66,9 +66,6 @@ Japan, still chasing their first title, struck first. **Kazumasa Matsumoto score
 
 India came out sharper after the break. Japan goalkeeper Kuroda saved from Harmanpreet Singh at a penalty corner before **Shilanand Lakra equalised in the 42nd minute**, deflecting in a penalty-corner variation. Japan's review for dangerous play was turned down.
 
-```photo
-{"n":1,"subject":"Shilanand Lakra","caption":"Shilanand Lakra scored India's equaliser in the 42nd minute, the goal that turned the final.","alt":"India forward Shilanand Lakra (file photo)"}
-```
 
 The last quarter belonged to India. Dilpreet Singh turned and scored after a move involving Sanjay and Hardik Singh, Jugraj Singh **drag-flicked a penalty corner** into the net, and Sukhjeet Singh deflected in a Vivek Sagar Prasad shot from the top of the circle. Japan's final penalty corner went wide.
 

@@ -115,3 +115,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - NEXT RUN, FIRST: Andhra five mandals SEC 9 am/11 am turnout into the lead story (still only Thursday's 67.24%); a timestamped midday markets story; Amit Shah Dehradun rally outcome; U19 score; Sonia hearing outcome.
 - Editor homepage FAIL not fixed (second check): empty right column in the Andhra live band; Amit Shah card crop cuts the top of his head; renewable investment and LIC are two money items in the top; U19 and Amit Shah previews in the top.
 - Markets: Sensex and Nifty at about 10:00 am (Trade Brains), status open; Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (Midcap and Brent tiles disagree with the day; refresh next run).
+
+## November 6, 2026, 11:40 am (from the 11:00 run)
+- Published: sensex-nifty-11am-november-6-it-gains-nikkei-rout (11 am levels, Nikkei timed 9:35 am; infographic, no unused BSE photo under the 7-day rule) and gold-silver-fall-dhanteras-november-6-mcx (Zaveri Bazaar, Ahmedabad file photo). Lead: Amit Shah Dehradun preview (stand-in until his speech is written).
+- Held for pictures: india-beat-japan-4-1-sixth-asian-champions-trophy-title (editor: Modi with Paris medallists photo is not the team; needs Harmanpreet Singh in India kit or the team at Mohali), india-u19-nepal-27-2-ishan-sood-asia-cup-al-amerat (no U19 team photo; score stale by 1:10 pm anyway), lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur (no photo of him).
+- NEXT RUN, FIRST: Amit Shah Dehradun speech (rally due about 11:50 am) as the new lead; Sonia Gandhi Rouse Avenue outcome; Andhra five mandals SEC turnout (merge, drop the Friday-vote preview); U19 result with a team photo.
+- Editor homepage FAIL not fixed (second check): lead is a preview; top block still holds old explainers/editorials (17 to 41 hours) because only two fresh stories passed; Sonia preview in the India section. Finder upgrades not run this hour: Anil Chandra Punetha, Al Amerat Cricket Ground.
+- Markets: Sensex and Nifty at 11 am (Business Standard live blog), MCX gold and silver about 10:45 am; other tiles keep earlier values.

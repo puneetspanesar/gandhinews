@@ -58,9 +58,6 @@ Silver fell harder. MCX silver was **down ₹3,105 at ₹1,84,035** a kilo, agai
 
 The fall followed world prices. On Comex, gold opened at $4,098.50 an ounce against a close of $4,113.50 and slipped to about $4,061. It had climbed to a two-week high on Thursday as the dollar weakened after the US midterm elections, gaining more than $250 this week from a one-year low of about $3,870. On Friday **a firmer dollar and profit-taking** reversed part of that move.
 
-```photo
-{"n":1,"subject":"Zaveri Bazaar","caption":"Zaveri Bazaar in Mumbai, the city's old gold and jewellery market, where Dhanteras is one of the busiest days of the year.","alt":"Jewellery shops in Zaveri Bazaar, Mumbai (file photo)"}
-```
 
 The next test comes this evening, when **US jobs and wage data are due at 7 pm IST**. Strong numbers could add to fears of a US rate rise and weigh on gold. Independent analyst Anuj Gupta said markets were pricing a 68% chance of a Federal Reserve rate increase in December.
 
