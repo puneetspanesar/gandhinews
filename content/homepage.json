@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+    "id": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
     "overlay": {
       "kicker": {
-        "en": "Sports / Tennis",
-        "hi": "खेल / टेनिस"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "Fritz ends Fils's run in Paris",
-        "hi": "फ्रिट्ज ने रोका फिस का सफर"
+        "en": "Cyclone-hit mandals vote, 7 booths repoll",
+        "hi": "चक्रवात वाले मंडलों में वोट, 7 बूथों पर दोबारा"
       },
       "text": {
         "en": "",
@@ -16,109 +16,112 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
+    ],
     "relatedBeside": [
-      "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-      "cristiano-ronaldo-retires-international-football-portugal",
-      "jagan-parishad-polls-selections-naidu-hijacked",
-      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
+      "lic-q2-profit-12115-crore-up-20-per-cent",
+      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+      "joshi-renewable-investment-220-billion-500-gw-2030",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
     ],
     "live": {
       "title": {
-        "en": "Tennis",
-        "hi": "टेनिस"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "link": "lic-q2-profit-12115-crore-up-20-per-cent",
         "lead": {
-          "en": "Global markets:",
-          "hi": "वैश्विक बाज़ार:"
+          "en": "Results:",
+          "hi": "नतीजे:"
         },
         "text": {
-          "en": "Dow sinks 1,833 points and Nasdaq closes in a correction as chip stocks crash",
-          "hi": "चिप शेयरों की तबाही से डाउ 1,833 अंक टूटा, नैस्डैक करेक्शन में बंद"
+          "en": "LIC's September-quarter profit rises 20% to ₹12,115 crore as premiums grow 16%",
+          "hi": "एलआईसी का सितंबर तिमाही मुनाफा 20% बढ़कर 12,115 करोड़ रुपये, प्रीमियम आय 16% बढ़ी"
         }
       },
       {
-        "link": "cristiano-ronaldo-retires-international-football-portugal",
+        "link": "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
         "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
-          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
+          "en": "Manu Bhaker, Suruchi and Sainyam win team silver at shooting Worlds, Olympic quota still elusive",
+          "hi": "विश्व निशानेबाज़ी चैंपियनशिप में मनु, सुरुचि और सैन्यम को टीम रजत, ओलंपिक कोटा अब भी दूर"
         }
       },
       {
-        "link": "jagan-parishad-polls-selections-naidu-hijacked",
+        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
-          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
+          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
         }
       },
       {
-        "link": "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "Bharti Airtel profit rises 31% to ₹8,888 crore as ARPU climbs to ₹271",
-          "hi": "भारती एयरटेल का मुनाफा 31% बढ़कर ₹8,888 करोड़, ARPU ₹271 पर पहुंचा"
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
         }
       },
       {
-        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Raichandani's India begin Under-19 Asia Cup against Nepal in Oman today",
+          "hi": "अंडर-19 एशिया कप: लक्ष्य रायचंदानी की टीम इंडिया आज ओमान में नेपाल से भिड़ेगी"
+        }
+      },
+      {
+        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "lead": {
+          "en": "BJP:",
+          "hi": "भाजपा:"
+        },
+        "text": {
+          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
+          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
+        }
+      },
+      {
+        "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
-          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
+          "en": "Delhi court to hear plea for FIR against Sonia Gandhi over 1980 voter list today",
+          "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर आज सुनवाई"
         }
       },
       {
-        "link": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Supreme Court: 24-hour clock to produce an accused before a magistrate starts at detention, not formal arrest",
-          "hi": "सुप्रीम कोर्ट: आरोपी को मजिस्ट्रेट के सामने पेश करने की 24 घंटे की मियाद हिरासत से शुरू, औपचारिक गिरफ्तारी से नहीं"
-        }
-      },
-      {
-        "link": "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters",
-          "hi": "आंध्र में मंडल और ज़िला परिषद चुनाव: आज आप किसे चुन रहे हैं और यह क्यों अहम है"
-        }
-      },
-      {
-        "link": "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A Democratic Congress will not lift India's tariffs. New Delhi should stop waiting and close the deal on its own terms",
-          "hi": "डेमोक्रेटिक कांग्रेस भारत पर लगा टैरिफ नहीं हटाएगी। नई दिल्ली इंतज़ार छोड़े और अपनी शर्तों पर समझौता पूरा करे"
+          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
+          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
         }
       }
     ]
@@ -186,17 +189,20 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+      "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
       "also": []
     },
     "list": [
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-      "two-child-norm-explained-javed-ruling-larger-bench",
-      "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+      "fii-buy-14975-crore-november-5-dii-sell-10445",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "modi-meets-asian-para-games-medallists-delhi"
     ],
-    "also": []
+    "also": [
+      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore"
+    ]
   },
   "startHere": [
     "24-hour-rule-explained-article-22-detention-arrest",
@@ -371,15 +377,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
         "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra"
+        "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
       ],
       "lead": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
     },
     {
       "section": "economy",
-      "lead": "joshi-renewable-investment-220-billion-500-gw-2030",
+      "lead": "lic-q2-profit-12115-crore-up-20-per-cent",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,10 +396,10 @@
         ]
       },
       "list": [
+        "joshi-renewable-investment-220-billion-500-gw-2030",
         "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
         "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
-        "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
+        "fii-buy-14975-crore-november-5-dii-sell-10445"
       ]
     },
     {
@@ -515,21 +521,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
+        "en": "Rouse Avenue court hears plea for FIR against Sonia Gandhi over 1980 voter list",
+        "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
       },
-      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+      "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
     },
     {
-      "icon": "bank",
+      "icon": "calendar-blank",
       "date": {
         "en": "Today",
         "hi": "आज"
       },
       "text": {
-        "en": "RBI's weekly forex reserves figures",
-        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
-      }
+        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
+        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
+      },
+      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
     }
   ],
   "headlineHistory": [
@@ -589,6 +596,22 @@
         "supreme-court-24-hour-production-runs-from-detention-not-arrest",
         "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
         "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+      ]
+    },
+    {
+      "at": "2026-11-06T10:27:48+05:30",
+      "ids": [
+        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "lic-q2-profit-12115-crore-up-20-per-cent",
+        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
       ]
     }
   ],

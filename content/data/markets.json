@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-06T09:25:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-05",
+  "as_of": "2026-11-06T10:00:00+05:30",
+  "status": "open",
+  "session_date": "2026-11-06",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 79310.01,
-      "change": 2008.61,
-      "pct": 2.6,
+      "value": 79462.7,
+      "change": 152.69,
+      "pct": 0.19,
       "history": [
         {
           "date": "2026-09-30",
@@ -101,15 +101,15 @@
           "close": 79310.01
         }
       ],
-      "source": "https://www.chinimandi.com/sensex-climbs-2000-points-nifty-above-24500/"
+      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-6-november-gift-nifty-signals-weak-opening-amid-global-market-pressure-12787789"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 24536.6,
-      "change": 576.0,
-      "pct": 2.4,
+      "value": 24524.5,
+      "change": -12.1,
+      "pct": -0.05,
       "history": [
         {
           "date": "2026-09-30",
@@ -204,7 +204,7 @@
           "close": 24536.6
         }
       ],
-      "source": "https://www.chinimandi.com/sensex-climbs-2000-points-nifty-above-24500/"
+      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-6-november-gift-nifty-signals-weak-opening-amid-global-market-pressure-12787789"
     },
     {
       "id": "nifty-bank",
@@ -365,6 +365,7 @@
     "5 Nov 17:15 IST (post-close check): Nov 5 Sensex and Nifty 50 closes confirmed present once each in history (22 and 23 sessions, under 30). India VIX Nov 4 history corrected 15.23 -> 15.19 (NSE close per Oquilia Market Pulse, Nov 2026 page; consistent with the 15.62 / +2.83% Nov 5 reading); Oquilia also confirms Nov 4 closes Nifty Bank 55,913.60 and Midcap 100 59,505.50. No Nov 5 closing figure found in a source read this run for Nifty Bank (level kept at earlier intraday read, Nov 5 not added to its history), India VIX (Nov 5 not added to history), Brent, MCX gold/silver, 10-year G-sec, Nifty losers or other sectors; old values kept. Rupee close 94.47 kept from the 16:05 read. Nov 5 FII/DII provisional not yet published (Trendlyne latest row 4 Nov), flows stay dated 4 Nov. ETV Bharat fetch not answered.",
     "Nov 5, checked 18:30 IST (18:00 hourly run): no newer dated figures read (Nov 5 FII/DII page not readable this run); closing values and flows kept as they were.",
     "FII/DII for Nov 5 not yet read (19:20 IST); Nov 4 flows shown.",
-    "6 Nov 09:25 IST (hourly 09:00): rupee 94.48 and Brent $99.41 from Tradebrains (09:16 IST); change against the previous stored readings. No post-open Sensex/Nifty level found in a readable source (Business Standard live blog failed to load), so indices keep the Nov 5 close and status closed."
+    "6 Nov 09:25 IST (hourly 09:00): rupee 94.48 and Brent $99.41 from Tradebrains (09:16 IST); change against the previous stored readings. No post-open Sensex/Nifty level found in a readable source (Business Standard live blog failed to load), so indices keep the Nov 5 close and status closed.",
+    "hourly-10: Sensex and Nifty at about 10:00 am Nov 6 (Trade Brains live blog); Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (no dated source read this run)."
   ]
 }

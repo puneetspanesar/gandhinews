@@ -1,0 +1,24 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-06T10:04:15+05:30",
+ "end": "2026-11-06T10:40:19+05:30",
+ "summary": "LIC Q2, Sonia Gandhi hearing preview, Andhra polling lead; Sensex and U19 held",
+ "new": [
+  "lic-q2-profit-12115-crore-up-20-per-cent"
+ ],
+ "held": [
+  "india-u19-bowl-first-nepal-asia-cup-al-amerat",
+  "sensex-nifty-fall-early-trade-november-6"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+   "why": "Stale preview at the top (rule 12). The story was written at 6:09 am as 'hearing today', and frontpages.txt lists this case with 'missing: outcome', so other sites appear to carry the hearing's outcome while ours still previews it. The picture, text and figures are fine: the Nov 6 listing before ACJM Vinod Joshi, the Oct 28 strike, Vikas Tripathi, the 1980/1982/1983 entries, April 1983 and Gogne's Sep 21 quotes all match the Asianet source, and the Hindi matches the English.",
+   "done": "Checked: the India desk's searches at about 10:11 IST found no reported outcome of Friday's hearing; 'missing: outcome' in frontpages.txt meant missing from our site, not reported elsewhere. Preview of today's hearing kept; outcome to be written as a new story."
+  }
+ ],
+ "breaches": [],
+ "lead": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+}

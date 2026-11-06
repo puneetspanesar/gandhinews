@@ -72,9 +72,6 @@ The decision puts the onus on Lakshya Raichandani's bowlers to set the tone for 
 
 Raichandani leads a 15-member squad named by the BCCI on October 30, with Yashbardhan Singh Chauhan as vice-captain. The batting has drawn most of the attention before the tournament, with **Aaryavir Sehwag and Anvay Dravid** arriving on the back of heavy scoring in the Vinoo Mankad Trophy. Among the bowlers, Ishan Sood took 13 wickets in eight games in that competition.
 
-```photo
-{"n":1,"subject":"Nepal national under-19 cricket team","caption":"Nepal, captained by Bipin Sharma, were sent in to bat by India in the Group A opener.","alt":"Nepal under-19 cricketers (file photo)"}
-```
 
 Nepal are led by **Bipin Sharma**. They also play the UAE and Pakistan in Group A, and a strong total here would give them a real chance of pushing for one of the two semi-final places.
 

@@ -31,7 +31,7 @@ infographic:
     - {icon: percent, value: "22.9%", label: "VNB margin, up from 15.4%"}
   chart: {type: columns, title: "Consolidated net profit, ₹ crore", highlight: -1, items: [{label: "Jul-Sep 2025", value: 10098, display: "10,098"}, {label: "Jul-Sep 2026", value: 12115, display: "12,115"}]}
   source: "LIC stock exchange filing, November 5, 2026"
-related: [sensex-nifty-fall-early-trade-november-6]
+related: []
 seo:
   description: "LIC Q2 FY27 results: consolidated net profit rises 20% to ₹12,115 crore, net premium income up 16.2% to ₹1.47 lakh crore, VNB up 61% to ₹3,136 crore, margin 22.9%."
 sources:
@@ -64,12 +64,9 @@ The sharper change was in how much LIC makes on what it sells. The value of new 
 
 In other words, each rupee of new premium is now worth a good deal more to LIC than it was a year ago. Better profitability on new business, together with premium growth and higher investment income, is what the insurer's numbers point to as the **main drivers of the quarter**.
 
-```photo
-{"n":1,"subject":"Jeevan Bharati Building","caption":"LIC's Jeevan Bharati building in Connaught Place, New Delhi, one of the insurer's best-known offices.","alt":"The Jeevan Bharati building in New Delhi"}
-```
 
 ## Cleaner books
 
 Bad loans in LIC's investment portfolio eased too. The **gross NPA ratio fell to 1.16%**, from 1.21% at the end of June.
 
-The profit is lower than the ₹13,492 crore LIC earned in the April-June quarter, when profit had risen 22.8%. LIC's shares will trade on the results for the first time on Friday, in a market already under pressure from a sell-off across Asia.
+The profit is lower than the ₹13,492 crore LIC earned in the April-June quarter, when profit had risen 22.8%.

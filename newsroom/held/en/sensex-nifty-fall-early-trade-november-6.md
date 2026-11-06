@@ -72,9 +72,6 @@ The start had been calm. The Sensex opened 61 points higher at 79,371 and the Ni
 
 The trouble began on Wall Street, where the Nasdaq fell 5.52% on Thursday as chip and data centre stocks crashed. Asia followed on Friday. South Korea's **Kospi fell more than 8% at one point**, setting off a circuit breaker, and Japan's Nikkei 225 lost about 6%. Hong Kong's Hang Seng was down about 1.25%. Brent crude rose about 2% to around $100 a barrel, a worry for India, which imports most of its oil.
 
-```photo
-{"n":1,"subject":"Korea Exchange","caption":"The Korea Exchange in Seoul, where the Kospi fell more than 8% at one stage on Friday and set off a circuit breaker.","alt":"The Korea Exchange building in Seoul"}
-```
 
 ## Metals fall, IT holds up
 

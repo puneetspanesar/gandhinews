@@ -36,7 +36,7 @@ infographic:
   source: "Rouse Avenue court proceedings, 2025 to 2026"
 related: []
 seo:
-  description: "A Rouse Avenue court in Delhi hears on November 6, 2026 a plea for an FIR against Sonia Gandhi over her name on the 1980 voter list, after a sessions judge set aside the earlier refusal."
+  description: "A Rouse Avenue court in Delhi hears on November 6, 2026, a plea for an FIR against Sonia Gandhi over her name on the 1980 voter list, after a sessions judge set aside the earlier refusal."
 sources:
   - title: "Sonia Gandhi electoral roll name inclusion matter: Court defers hearing of complaint amid lawyers' strike (ANI)"
     publisher: "Devdiscourse"
@@ -77,8 +77,8 @@ verification:
   status: approved
   notes:
     - "Preview written 6:09 am IST. Listing for November 6 before ACJM (MP-MLA) Vinod Joshi: ANI via Devdiscourse and Asianet (Oct 28), confirmed by Amar Ujala's Nov 6 events list. Hearing time not reported."
-    - "Magistrate's original refusal: order reserved Sep 10, 2025 by ACMM Vaibhav Chaurasia (Tribune); refusal reported later in September 2025. The exact date of the refusal not confirmed; copy and timeline say only '2025'. Notice to Sonia Gandhi and Delhi Police issued Dec 9, 2025 (Hindusthan Samachar)."
-    - "Gogne quotes verbatim from ANI (Devdiscourse, Oct 13 and Oct 28). Citizenship date April 30, 1983 per complaint (Organiser); copy says April 1983."
+    - "Magistrate's original refusal: order reserved Sep 10, 2025, by ACMM Vaibhav Chaurasia (Tribune); refusal reported later in September 2025. The exact date of the refusal not confirmed; copy and timeline say only '2025'. Notice to Sonia Gandhi and Delhi Police issued Dec 9, 2025 (Hindusthan Samachar)."
+    - "Gogne quotes verbatim from ANI (Devdiscourse, Oct 13 and Oct 28). Citizenship date April 30, 1983, per complaint (Organiser); copy says April 1983."
     - "No statement from Sonia Gandhi or her lawyers found in any source; her counsel not named. Whether the police status report has been filed: not reported."
     - "Complainant's 'date after date' remark from Hindusthan Samachar (May 16, 2026) only; paraphrased and attributed to him."
 ---
@@ -93,9 +93,6 @@ The complainant, advocate Vikas Tripathi, alleges that her name appeared on the 
 
 A magistrate **refused to order an FIR** in 2025, finding the material too thin; the complaint rested on what was described as a photocopy of a photocopy of the 1980 roll, not a certified copy. Tripathi went in revision, and the sessions court issued notice to Sonia Gandhi and Delhi Police on December 9, 2025.
 
-```photo
-{"n":1,"subject":"Rouse Avenue Court Complex","caption":"The Rouse Avenue court complex in New Delhi, where the magistrate hears cases against MPs and MLAs.","alt":"The Rouse Avenue court complex in New Delhi"}
-```
 
 On September 21, Special Judge Vishal Gogne **set aside the refusal**. "The order is a non-speaking order. It is liable to be set aside," he said, adding that the magistrate's "observation regarding the Central Government and Election Commission in relation to citizenship is improper". He sent the case back with directions to call for a status report from the police officer concerned and pass a reasoned order after hearing that officer.
 
