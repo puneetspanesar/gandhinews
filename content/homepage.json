@@ -93,6 +93,17 @@
         }
       },
       {
+        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
+        "lead": {
+          "en": "Jharkhand:",
+          "hi": "झारखंड:"
+        },
+        "text": {
+          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
+          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
+        }
+      },
+      {
         "link": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
         "lead": {
           "en": "Inflation:",
@@ -101,17 +112,6 @@
         "text": {
           "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
           "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
-        }
-      },
-      {
-        "link": "hosur-factory-concrete-structure-collapse-three-workers-killed",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Three workers killed as concrete structure collapses at Hosur factory site",
-          "hi": "होसुर में फैक्टरी निर्माण स्थल पर कंक्रीट ढांचा गिरा, तीन मजदूरों की मौत"
         }
       },
       {
@@ -190,15 +190,15 @@
   },
   "topStories": {
     "big": {
-      "id": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+      "id": "jharkhand-khunti-trailer-crowd-seven-killed",
       "also": []
     },
     "list": [
-      "hosur-factory-concrete-structure-collapse-three-workers-killed",
+      "rice-paddy-stock-declaration-every-friday-food-stock-portal",
       "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "hosur-factory-concrete-structure-collapse-three-workers-killed",
       "fast-track-special-courts-explained-rape-pocso-backlog",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
     ],
     "also": [
       "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
@@ -408,8 +408,8 @@
       "lead": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
       "list": [
         "delhi-grap-stage-three-aqi-382-caqm",
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "saini-chowkidar-honorarium-15221-rahul-apology"
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
       ]
     },
     {
@@ -474,10 +474,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Andhra parishad polls in five cyclone-hit mandals, repolls at two booths",
-        "hi": "आंध्र के पांच चक्रवात प्रभावित मंडलों में परिषद चुनाव, दो बूथों पर दोबारा मतदान"
+        "en": "Men's U19 Asia Cup: India v Nepal in Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम नेपाल, सुबह 10:30 बजे"
       },
-      "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+      "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
     },
     {
       "icon": "calendar-blank",
@@ -486,22 +486,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters quarter-finals: Taylor Fritz v Carlos Alcaraz, not before 11:30 pm IST",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: टेलर फ्रिट्ज बनाम कार्लोस अल्कराज, रात 11:30 बजे से पहले नहीं"
+        "en": "Amit Shah addresses BJP rally at Dehradun's Parade Ground",
+        "hi": "देहरादून के परेड ग्राउंड में अमित शाह की भाजपा रैली"
       },
-      "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Rahul Gandhi meets Congress PCC presidents and CLP leaders in New Delhi",
-        "hi": "राहुल गांधी नई दिल्ली में कांग्रेस प्रदेश अध्यक्षों और विधायक दल नेताओं से मिलेंगे"
-      },
-      "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
+      "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
     },
     {
       "icon": "calendar-blank",
@@ -522,10 +510,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Rouse Avenue court hears plea for FIR against Sonia Gandhi over 1980 voter list",
-        "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
+        "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
+        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
       },
-      "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+      "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
     },
     {
       "icon": "calendar-blank",
@@ -534,10 +522,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
+        "en": "Andhra parishad polls in five cyclone-hit mandals, repolls at two booths",
+        "hi": "आंध्र के पांच चक्रवात प्रभावित मंडलों में परिषद चुनाव, दो बूथों पर दोबारा मतदान"
       },
-      "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
+      "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Rouse Avenue court hears plea for FIR against Sonia Gandhi over 1980 voter list",
+        "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
+      },
+      "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
     }
   ],
   "headlineHistory": [
@@ -651,7 +651,7 @@
       ]
     },
     {
-      "at": "2026-11-06T21:21:33+05:30",
+      "at": "2026-11-06T21:37:19+05:30",
       "ids": [
         "saini-chowkidar-honorarium-15221-rahul-apology",
         "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
@@ -662,8 +662,8 @@
         "ugc-equity-regulations-explained-caste-discrimination-campuses",
         "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
         "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+        "jharkhand-khunti-trailer-crowd-seven-killed",
         "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-        "hosur-factory-concrete-structure-collapse-three-workers-killed",
         "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
       ]
     }
