@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+    "id": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP",
-        "hi": "राजनीति / भाजपा"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "Shah's Doon rally ahead of 2027 polls",
-        "hi": "2027 से पहले दून में शाह की रैली"
+        "en": "Cyclone-hit mandals vote, 7 booths repoll",
+        "hi": "चक्रवात वाले मंडलों में वोट, 7 बूथों पर दोबारा"
       },
       "text": {
         "en": "",
@@ -16,109 +16,111 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
+    ],
     "relatedBeside": [
-      "gold-silver-fall-dhanteras-november-6-mcx",
-      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "ugc-equity-rules-revise-them-do-not-bury-them",
-      "ugc-equity-regulations-explained-caste-discrimination-campuses"
+      "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+      "two-child-norm-explained-javed-ruling-larger-bench",
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
     ],
     "live": {
       "title": {
-        "en": "BJP",
-        "hi": "भाजपा"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "gold-silver-fall-dhanteras-november-6-mcx",
+        "link": "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
         "lead": {
-          "en": "Commodities:",
-          "hi": "कमोडिटी:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Gold falls about ₹2,000 on Dhanteras morning as the dollar firms before US jobs data",
-          "hi": "धनतेरस की सुबह सोना करीब 2,000 रुपये सस्ता, अमेरिकी रोजगार आंकड़ों से पहले डॉलर मजबूत"
+          "en": "Mahindra & Mahindra Q2 standalone profit rises 13% to ₹5,102 crore as revenue jumps 27%",
+          "hi": "महिंद्रा एंड महिंद्रा का दूसरी तिमाही में स्टैंडअलोन मुनाफा 13% बढ़कर ₹5,102 करोड़, आय 27% उछली"
         }
       },
       {
-        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "lead": {
-          "en": "Rajya Sabha:",
-          "hi": "राज्यसभा:"
-        },
-        "text": {
-          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
-          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
-        }
-      },
-      {
-        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+        "link": "two-child-norm-explained-javed-ruling-larger-bench",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
-          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
+          "en": "Two-child norm explained: what Javed held in 2003 and why the Supreme Court wants it looked at again",
+          "hi": "दो-बच्चा नियम क्या है, 2003 के जावेद फैसले में क्या कहा गया था और सुप्रीम कोर्ट अब उस पर दोबारा विचार क्यों चाहता है"
         }
       },
       {
-        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
+        "link": "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
-          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
+          "en": "Five more years for fast-track courts is welcome. Without judges and forensic labs they will not be fast",
+          "hi": "फास्ट ट्रैक अदालतों को पांच साल और मिलना स्वागतयोग्य है। पर जज और फॉरेंसिक लैब के बिना वे तेज़ नहीं होंगी"
         }
       },
       {
-        "link": "ugc-equity-regulations-explained-caste-discrimination-campuses",
+        "link": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
         "lead": {
-          "en": "Education:",
-          "hi": "शिक्षा:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "UGC equity rules explained: what the caste discrimination regulations say and why they are on hold",
-          "hi": "यूजीसी के समानता नियम: कैंपस में जातिगत भेदभाव पर नियम क्या कहते हैं और क्यों रुके हैं"
+          "en": "Delhi's 47 lakh struck-off voters need one clear form, not a reassuring letter",
+          "hi": "दिल्ली के 47 लाख कटे मतदाताओं को तसल्ली की चिट्ठी नहीं, एक साफ फॉर्म चाहिए"
         }
       },
       {
-        "link": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Energy storage VGF explained: why India is paying ₹14,500 crore to save solar power for the evening",
-          "hi": "ऊर्जा भंडारण वीजीएफ क्या है: सौर बिजली को शाम के लिए बचाने पर भारत ₹14,500 करोड़ क्यों खर्च कर रहा है"
-        }
-      },
-      {
-        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
-          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
-        }
-      },
-      {
-        "link": "jagan-parishad-polls-selections-naidu-hijacked",
+        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
-          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+          "en": "Andhra parishad polls: YSRCP alleges booth capturing in Dhulipalla, Byreddy Siddharth under house arrest",
+          "hi": "आंध्र परिषद चुनाव: वाईएसआरसीपी का धुलिपल्ला में बूथ कब्जे का आरोप, बायरेड्डी सिद्धार्थ नजरबंद"
+        }
+      },
+      {
+        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
+          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+        }
+      },
+      {
+        "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Shelton fights back to beat Rinderknech in Paris and sets up quarter-final with Paul",
+          "hi": "पेरिस में पिछड़ने के बाद शेल्टन ने रिंडरनेक को हराया, क्वार्टर फाइनल में पॉल से टक्कर"
+        }
+      },
+      {
+        "link": "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Misri calls on Nepal PM Balendra Shah, briefs him on India visit plans",
+          "hi": "मिस्री ने नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात की, भारत यात्रा की तैयारियों की जानकारी दी"
         }
       }
     ]
@@ -186,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+      "id": "joshi-renewable-investment-220-billion-500-gw-2030",
       "also": []
     },
     "list": [
-      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-      "jagan-parishad-polls-selections-naidu-hijacked",
-      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-      "cristiano-ronaldo-retires-international-football-portugal",
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
+      "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+      "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+      "modi-meets-asian-para-games-medallists-delhi",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
     ],
     "also": [
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+      "24-hour-rule-explained-article-22-detention-arrest",
+      "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol"
     ]
   },
   "startHere": [
@@ -382,7 +384,7 @@
     },
     {
       "section": "economy",
-      "lead": "gold-silver-fall-dhanteras-november-6-mcx",
+      "lead": "joshi-renewable-investment-220-billion-500-gw-2030",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +395,10 @@
         ]
       },
       "list": [
-        "sensex-nifty-11am-november-6-it-gains-nikkei-rout",
-        "lic-q2-profit-12115-crore-up-20-per-cent",
-        "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "fii-buy-14975-crore-november-5-dii-sell-10445",
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
       ]
     },
     {
@@ -607,6 +609,21 @@
         "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
         "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "jagan-parishad-polls-selections-naidu-hijacked"
+      ]
+    },
+    {
+      "at": "2026-11-06T12:33:43+05:30",
+      "ids": [
+        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+        "two-child-norm-explained-javed-ruling-larger-bench",
+        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+        "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+        "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
       ]
     }
   ],

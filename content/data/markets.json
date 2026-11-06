@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T11:00:00+05:30",
+  "as_of": "2026-11-06T12:00:00+05:30",
   "status": "open",
   "session_date": "2026-11-06",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 79704.28,
-      "change": 394.27,
-      "pct": 0.5,
+      "value": 79760.39,
+      "change": 450.38,
+      "pct": 0.57,
       "history": [
         {
           "date": "2026-09-30",
@@ -107,9 +107,9 @@
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 24599.6,
-      "change": 63.0,
-      "pct": 0.26,
+      "value": 24614.5,
+      "change": 77.9,
+      "pct": 0.32,
       "history": [
         {
           "date": "2026-09-30",
@@ -261,12 +261,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.48,
-      "change": 0.01,
-      "pct": 0.01,
+      "value": 94.07,
+      "change": -0.4,
+      "pct": -0.42,
       "decimals": 2,
       "unit": "",
-      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-6-november-gift-nifty-signals-weak-opening-amid-global-market-pressure-12787789"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
     },
     {
       "id": "brent",
@@ -367,6 +367,7 @@
     "FII/DII for Nov 5 not yet read (19:20 IST); Nov 4 flows shown.",
     "6 Nov 09:25 IST (hourly 09:00): rupee 94.48 and Brent $99.41 from Tradebrains (09:16 IST); change against the previous stored readings. No post-open Sensex/Nifty level found in a readable source (Business Standard live blog failed to load), so indices keep the Nov 5 close and status closed.",
     "hourly-10: Sensex and Nifty at about 10:00 am Nov 6 (Trade Brains live blog); Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (no dated source read this run).",
-    "hourly-11: Sensex, Nifty at 11:00 am (Business Standard live blog); MCX gold and silver at about 10:45 am (Business Today). Nifty Bank, Midcap, VIX, rupee, Brent, yield, movers, sectors keep earlier values (no dated source read this run)."
+    "hourly-11: Sensex, Nifty at 11:00 am (Business Standard live blog); MCX gold and silver at about 10:45 am (Business Today). Nifty Bank, Midcap, VIX, rupee, Brent, yield, movers, sectors keep earlier values (no dated source read this run).",
+    "Nov 6 12:00 IST (hourly-12): Sensex, Nifty 50 at 12 pm and rupee 94.066 at 12:10 pm from the Business Standard live blog; Nifty Bank, Midcap, VIX, Brent, gold, silver, yield, movers and sectors keep earlier values (no dated figure read)."
   ]
 }

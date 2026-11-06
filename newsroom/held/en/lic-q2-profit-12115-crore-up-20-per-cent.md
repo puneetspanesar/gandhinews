@@ -17,7 +17,7 @@ hero:
   need: "Yogakshema, the Life Insurance Corporation of India headquarters at Nariman Point, Mumbai"
   suggested_source: "Yogakshema LIC building Mumbai"
   subjects: ["Yogakshema LIC building Mumbai"]
-  alt: "Yogakshema, the headquarters of Life Insurance Corporation of India in Mumbai (file photo)"
+  alt: "A Life Insurance Corporation of India branch office in Malbazar, West Bengal (file photo)"
   overlay:
     value: "LIC profit up 20% at ₹12,115 crore"
 infographic:

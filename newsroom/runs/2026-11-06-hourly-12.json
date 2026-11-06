@@ -1,0 +1,31 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-06T12:04:38+05:30",
+ "end": "2026-11-06T12:36:23+05:30",
+ "summary": "No new story passed; homepage refreshed, markets at 12 pm; 4 held",
+ "new": [],
+ "held": [
+  "gold-silver-fall-dhanteras-november-6-mcx",
+  "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+  "lic-q2-profit-12115-crore-up-20-per-cent",
+  "sensex-nifty-11am-november-6-it-gains-nikkei-rout"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "lic-q2-profit-12115-crore-up-20-per-cent",
+   "kind": "facts",
+   "why": "The last paragraph (EN and HI) says LIC earned Rs 13,492 crore in the April-June quarter, when profit had risen 22.8%. The verification notes admit IANS labels that figure Q1 FY26, which is April-June 2025, not 2026. The writer guessed it meant 2026, the LIC filing was never fetched, and the 22.8% has no source at all. The comparison may be wrong. Separately, the main picture is still the signboard of a small branch in Malbazar, West Bengal. It is close to a logo shot standing in for the country's largest insurer, and the hero brief asked for Yogakshema, the Mumbai headquarters.",
+   "fix": "Check the April-June 2026 (Q1 FY27) consolidated profit and its growth against LIC's BSE/NSE filing and correct the paragraph in both languages. If it cannot be confirmed, delete the paragraph from both files. Replace the main picture with a photo of Yogakshema at Nariman Point (or of LIC's chairman), labelled as a file photo."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [
+  "in the top five at 10:40 as well: the lead and the four beside it never repeat within 6 hours: andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+  "led at 10:40 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+  "in the top five at 08:39 as well: the lead and the four beside it never repeat within 6 hours: andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+  "led at 08:39 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+  "no new story in over 3 hours (the site must visibly change every hour): "
+ ],
+ "lead": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent"
+}

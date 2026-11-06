@@ -18,7 +18,7 @@ hero:
   need: "मुंबई के नरीमन पॉइंट पर भारतीय जीवन बीमा निगम का मुख्यालय योगक्षेम"
   suggested_source: "Yogakshema LIC building Mumbai"
   subjects: ["Yogakshema LIC building Mumbai"]
-  alt: "मुंबई में भारतीय जीवन बीमा निगम का मुख्यालय योगक्षेम (फाइल फोटो)"
+  alt: "पश्चिम बंगाल के मालबाजार में भारतीय जीवन बीमा निगम का एक शाखा कार्यालय (फाइल फोटो)"
   overlay:
     value: "एलआईसी मुनाफा 20% बढ़कर 12,115 करोड़"
 infographic:
