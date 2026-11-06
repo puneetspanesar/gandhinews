@@ -30514,5 +30514,91 @@
   "alt": "A house in Andhra Pradesh destroyed by an earlier cyclone (file photo)",
   "alt_hi": "आंध्र प्रदेश में पिछले चक्रवात से ढहा एक घर (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png"
+ },
+ "sc-up-under-trials-bail-release-all-75-districts": {
+  "id": "i-sc-up-under-trials-bail-release-all-75-districts",
+  "src": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-en-3x2-1280.jpg",
+  "src800": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Supreme Court orders UP to free bailed under-trials",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: जमानत पाए विचाराधीन कैदियों को रिहा करे यूपी",
+  "page": null,
+  "ihash": "6f667272928a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-en-t-1280.jpg",
+    "src800": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-hi-t-1280.jpg",
+    "src800": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-en-1280.jpg",
+    "src800": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-hi-1280.jpg",
+    "src800": "/photos/i-sc-up-under-trials-bail-release-all-75-districts-hi-640.jpg"
+   }
+  },
+  "nophoto": "no usable photo of M M Sundresh (finder h0619 file 400 px); library, quick_photo"
+ },
+ "sc-obc-creamy-layer-parents-salary-centre-plea-rejected": {
+  "id": "i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+  "src": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-en-3x2-1280.jpg",
+  "src800": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Supreme Court holds firm on creamy layer ruling",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: क्रीमी लेयर फैसले पर सुप्रीम कोर्ट अडिग",
+  "page": null,
+  "ihash": "0fa391ef2861",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-en-t-1280.jpg",
+    "src800": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-t-1280.jpg",
+    "src800": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-en-1280.jpg",
+    "src800": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-1280.jpg",
+    "src800": "/photos/i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-640.jpg"
+   }
+  },
+  "nophoto": "no usable photo of P S Narasimha (finder h0619 file 600 px); library, quick_photo"
  }
 }
