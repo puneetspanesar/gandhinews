@@ -29781,47 +29781,16 @@
   "nophoto": "no free photo of a Jharkhand road accident or Khunti; library, quick_photo, finder h0614"
  },
  "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza": {
-  "id": "i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-  "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-3x2-1280.jpg",
-  "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-3x2-640.jpg",
+  "id": "o-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+  "src": "/photos/o-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-1280.jpg",
+  "src800": "/photos/o-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Gaffar Market blaze damages up to 45 shops",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गफ्फार मार्केट की आग में 45 तक दुकानें प्रभावित",
-  "page": null,
-  "ihash": "9df0e0b342e4",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-3x2-1280.jpg",
-    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-t-1280.jpg",
-    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-t-1280.jpg",
-    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-1280.jpg",
-    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-1280.jpg",
-    "src800": "/photos/i-delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of a Delhi market fire; library, quick_photo, finder h0614"
+  "height": 695,
+  "credit": "Photo: DiplomatTesterMan / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A Delhi Fire Service fire tender (file photo)",
+  "alt_hi": "दिल्ली अग्निशमन सेवा की दमकल गाड़ी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_Fire_Service_Basic_Fire_Truck.jpg"
  },
  "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results": {
   "id": "i-prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
@@ -30977,5 +30946,115 @@
    }
   },
   "nophoto": "no free photo of a Rain Industries plant; quick_photo, finder h0621"
+ },
+ "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin": {
+  "id": "o-shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+  "src": "/photos/o-shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin-1280.jpg",
+  "src800": "/photos/o-shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin-640.jpg",
+  "width": 1280,
+  "height": 752,
+  "credit": "Photo: Skyscraper2010 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Ben Shelton (file photo)",
+  "alt_hi": "बेन शेल्टन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ben_Shelton,_Swiss_Indoors_Basel_2025.jpg"
+ },
+ "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam": {
+  "id": "o-tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+  "src": "/photos/o-tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam-1280.jpg",
+  "src800": "/photos/o-tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: U.S. Navy COM-PF by Cmdr. Desiree Frame / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Indian and US personnel at an earlier edition of Exercise Tiger Triumph (file photo)",
+  "alt_hi": "अभ्यास टाइगर ट्रायम्फ के पिछले संस्करण में भारतीय और अमेरिकी कर्मी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Exercise_Tiger_Triumph_2026_Commences_in_Visakhapatnam_to_Enhance_U_S_-India_Combined_Interoperability_(10064145).jpg"
+ },
+ "sc-delhi-pollution-hearing-cji-old-tried-failed-measures": {
+  "id": "i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures",
+  "src": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-en-3x2-1280.jpg",
+  "src800": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Supreme Court asks what works beyond bans",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सुप्रीम कोर्ट ने पूछा, पाबंदियों से आगे क्या",
+  "page": null,
+  "ihash": "86b851d76f75",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-en-t-1280.jpg",
+    "src800": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-hi-t-1280.jpg",
+    "src800": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-en-1280.jpg",
+    "src800": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-hi-1280.jpg",
+    "src800": "/photos/i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Surya Kant unused in 7 days; library, quick_photo, finder h0622 (only portrait used Nov 5)"
+ },
+ "semicon-india-2-portal-vaishnaw-12-ecms-projects": {
+  "id": "i-semicon-india-2-portal-vaishnaw-12-ecms-projects",
+  "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-3x2-1280.jpg",
+  "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Semicon 2.0 portal opens for applications",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सेमीकॉन 2.0 पोर्टल पर आवेदन शुरू",
+  "page": null,
+  "ihash": "5ef928cde85c",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-3x2-1280.jpg",
+    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-t-1280.jpg",
+    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-t-1280.jpg",
+    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-1280.jpg",
+    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-1280.jpg",
+    "src800": "/photos/i-semicon-india-2-portal-vaishnaw-12-ecms-projects-hi-640.jpg"
+   }
+  },
+  "nophoto": "no usable photo of Ashwini Vaishnaw; library blocked by 7-day rule, finder h0622 candidates all under main size"
  }
 }
