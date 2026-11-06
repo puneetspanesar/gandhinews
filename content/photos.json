@@ -49028,12 +49028,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Bombay_Stock_Exchange,_2015_1.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/North_Block%2C_Raisina_Hill%2C_New_Delhi_06.jpg/1600px-North_Block%2C_Raisina_Hill%2C_New_Delhi_06.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/EVidyaloka_Rubaru_2018-1.jpg/1280px-EVidyaloka_Rubaru_2018-1.jpg",
+  "credit": "Photo: Devopam / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "North Block, home of the Finance Ministry, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में वित्त मंत्रालय का नॉर्थ ब्लॉक (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_06.jpg",
+  "alt": "North Block, which houses the Ministry of Home Affairs, in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली का नॉर्थ ब्लॉक, जहां गृह मंत्रालय है (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:EVidyaloka_Rubaru_2018-1.jpg",
   "id": "r-govt-relaxes-passport-visa-rules-foreign-nationals-india",
   "articleId": "govt-relaxes-passport-visa-rules-foreign-nationals-india"
  },
@@ -49126,6 +49126,16 @@
   "alt": "Fishing boats at Rameswaram, Tamil Nadu (file photo)",
   "alt_hi": "रामेश्वरम, तमिलनाडु में मछली पकड़ने वाली नावें (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Fishing_Boats_at_Rameshwaram.jpeg"
+ },
+ {
+  "id": "o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "articleId": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency%2C_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Election Commission of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Voters queue outside a polling booth in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश में एक मतदान केंद्र के बाहर कतार में मतदाता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
  },
  {
   "id": "o-foreign-investors-return-explained-fii-dii-sensex-rally",

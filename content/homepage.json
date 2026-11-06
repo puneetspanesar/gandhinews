@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-      "foreign-investors-return-explained-fii-dii-sensex-rally",
+      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
       "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
       "modi-meets-asian-para-games-medallists-delhi",
-      "khunti-crash-night-highways-need-lights-and-speed-checks"
+      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
     ],
     "live": {
       "title": {
@@ -34,25 +34,14 @@
   "briefing": {
     "items": [
       {
-        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "BJP:",
+          "hi": "भाजपा:"
         },
         "text": {
-          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
-          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
-        }
-      },
-      {
-        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
-          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
+          "en": "Amit Shah in Dehradun today for BJP's 'Save Democracy' rally and police colour ceremony",
+          "hi": "अमित शाह आज देहरादून में, भाजपा की 'लोकतंत्र बचाओ' रैली और पुलिस कलर समारोह"
         }
       },
       {
@@ -67,6 +56,17 @@
         }
       },
       {
+        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
+          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+        }
+      },
+      {
         "link": "modi-meets-asian-para-games-medallists-delhi",
         "lead": {
           "en": "Para sport:",
@@ -78,36 +78,36 @@
         }
       },
       {
-        "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The seven who died in Khunti had stopped to help. Jharkhand's rural roads need lights, speed checks and a safe way to rescue",
-          "hi": "खूंटी में जान गंवाने वाले सात लोग मदद के लिए रुके थे। झारखंड की ग्रामीण सड़कों को रोशनी, रफ्तार पर लगाम और सुरक्षित बचाव का तरीका चाहिए"
-        }
-      },
-      {
-        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
-          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
-        }
-      },
-      {
-        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
-          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
+          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
+        }
+      },
+      {
+        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
+          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
+        }
+      },
+      {
+        "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Five cyclone-hit Andhra mandals vote on Friday; repolls ordered at two booths",
+          "hi": "आंध्र के चक्रवात प्रभावित पांच मंडलों में शुक्रवार को मतदान, दो बूथों पर दोबारा वोटिंग"
         }
       },
       {
@@ -186,28 +186,28 @@
   },
   "topStories": {
     "big": {
-      "id": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+      "id": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
       "also": []
     },
     "list": [
-      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
       "jagan-parishad-polls-selections-naidu-hijacked",
-      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
-      "india-u19-beat-nepal-asia-cup-al-amerat",
-      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence"
     ],
     "also": [
-      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-      "andhra-parishad-polls-four-voters-two-poll-staff-die"
+      "india-u19-beat-nepal-asia-cup-al-amerat",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
     ]
   },
   "startHere": [
-    "foreign-investors-return-explained-fii-dii-sensex-rally",
-    "suspension-of-sentence-explained-tejpal-supreme-court",
     "24-hour-rule-explained-article-22-detention-arrest",
     "ugc-equity-regulations-explained-caste-discrimination-campuses",
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-    "fast-track-special-courts-explained-rape-pocso-backlog"
+    "fast-track-special-courts-explained-rape-pocso-backlog",
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+    "two-child-norm-explained-javed-ruling-larger-bench"
   ],
   "trackers": [
     {
@@ -360,11 +360,11 @@
     }
   ],
   "opinion": [
-    "khunti-crash-night-highways-need-lights-and-speed-checks",
-    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
     "ugc-equity-rules-revise-them-do-not-bury-them",
     "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
   ],
   "sections": [
     {
@@ -394,9 +394,9 @@
       },
       "list": [
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
       ]
     },
     {
@@ -643,16 +643,16 @@
       ]
     },
     {
-      "at": "2026-11-06T18:24:48+05:30",
+      "at": "2026-11-06T18:12:08+05:30",
       "ids": [
         "sonia-gandhi-voter-list-case-additional-documents-november-18",
-        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-        "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "amit-shah-dehradun-parade-ground-rally-padyatra-today",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
         "modi-meets-asian-para-games-medallists-delhi",
-        "khunti-crash-night-highways-need-lights-and-speed-checks",
-        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
         "jagan-parishad-polls-selections-naidu-hijacked"
       ]
     }
