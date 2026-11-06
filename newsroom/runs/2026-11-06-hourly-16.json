@@ -1,0 +1,34 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-06T16:04:04+05:30",
+ "end": "2026-11-06T16:41:11+05:30",
+ "summary": "5 stories, Tejpal SC lead, Sensex close, 1 held",
+ "new": [
+  "hindalco-q2-profit-59-per-cent-7533-crore-record",
+  "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+  "sonia-gandhi-voter-list-case-additional-documents-november-18",
+  "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+  "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence"
+ ],
+ "held": [
+  "andhra-five-mandals-41-per-cent-1pm-gopalapuram-repolls"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+   "why": "Main picture is an infographic card although the story names a known place (hero need: the BSE building on Dalal Street) and list.txt does not mark it NOPHOTO. The main-picture caption ('Sensex jumps 1,718 points, Nifty back above 25,000') also does not match the card, which shows only the Sensex figure. Separately, the copy says 'Lower crude oil prices helped too, with Brent near $97' (Hindi: 'कच्चे तेल की कीमतें नरम रहने से भी मदद मिली'), but the site's own markets panel shows Brent at 96.99, up 3.78% on the day, so crude rose.",
+   "done": "Removed the 'lower crude' sentence in English and Hindi (Brent rose on the day, about 96.99 against about 93.5 on Thursday). Main picture stays the infographic under rule 11 (index levels): the desk and finder h0616 found every BSE, Phiroze Jeejeebhoy Towers and NSE photo inside the 7-day rule or under main size (Dalal Street 640 px)."
+  },
+  {
+   "id": "homepage",
+   "why": "Three Politics stories in the top headlines.",
+   "done": "refresh_home --drop rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting (plus the earlier drops of Hindalco, the Maaya preview and Prism Johnson)."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): sensex-nifty-close-november-6-sensex-1718-nifty-25030"
+ ],
+ "lead": "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence"
+}

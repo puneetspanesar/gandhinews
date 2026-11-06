@@ -73,7 +73,7 @@ Very few shares fell. Power Grid was the only loser among Sensex stocks, while T
 
 ## Foreign money returns
 
-Much of the push came from abroad. Foreign institutional investors **bought about ₹14,975 crore of Indian shares on Thursday**, their largest single-day purchase in nearly six years, after a long run of selling. Lower crude oil prices helped too, with Brent near $97 a barrel by the close.
+Much of the push came from abroad. Foreign institutional investors **bought about ₹14,975 crore of Indian shares on Thursday**, their largest single-day purchase in nearly six years, after a long run of selling.
 
 "Markets extended their winning streak for the seventh consecutive session on Friday," said Ajit Mishra, senior vice president for research at Religare Broking. "Following the sharp seven-session rally, some consolidation and sectoral rotation would be healthy," he added.
 

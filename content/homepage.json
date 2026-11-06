@@ -19,10 +19,10 @@
     "relatedBelow": [],
     "relatedBeside": [
       "sonia-gandhi-voter-list-case-additional-documents-november-18",
-      "hindalco-q2-profit-59-per-cent-7533-crore-record",
       "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
       "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
+      "cristiano-ronaldo-retires-international-football-portugal",
+      "sensex-nifty-close-november-6-sensex-1718-nifty-25030"
     ],
     "live": {
       "title": {
@@ -42,17 +42,6 @@
         "text": {
           "en": "Sonia Gandhi voter list case: court lets complainant file more documents, next hearing November 18",
           "hi": "सोनिया गांधी मतदाता सूची मामला: शिकायतकर्ता को और दस्तावेज देने की छूट, अगली सुनवाई 18 नवंबर को"
-        }
-      },
-      {
-        "link": "hindalco-q2-profit-59-per-cent-7533-crore-record",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Hindalco posts record quarterly profit of ₹7,533 crore, up 59%, as copper and aluminium shine",
-          "hi": "हिंडाल्को का तिमाही मुनाफा रिकॉर्ड ₹7,533 करोड़, 59% की छलांग; तांबा और एल्युमिनियम चमके"
         }
       },
       {
@@ -78,14 +67,14 @@
         }
       },
       {
-        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "link": "cristiano-ronaldo-retires-international-football-portugal",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Football:",
+          "hi": "फुटबॉल:"
         },
         "text": {
-          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
-          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+          "en": "Cristiano Ronaldo retires from international football after 234 games and 146 goals for Portugal",
+          "hi": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल को अलविदा कहा, पुर्तगाल के लिए 234 मैच और 146 गोल"
         }
       },
       {
@@ -100,14 +89,14 @@
         }
       },
       {
-        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "link": "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Football:",
+          "hi": "फुटबॉल:"
         },
         "text": {
-          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
-          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
+          "en": "Suhail Bhat scores twice as India hold off late Pakistan fightback to win SAFF opener 3-2",
+          "hi": "सुहैल भट के दो गोल, पाकिस्तान की आखिरी पलों की वापसी के बावजूद भारत ने सैफ ओपनर 3-2 से जीता"
         }
       },
       {
@@ -119,6 +108,17 @@
         "text": {
           "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
           "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
+        }
+      },
+      {
+        "link": "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Bombay High Court cancels Sachin Waze's bail in Antilia bomb scare case",
+          "hi": "एंटीलिया बम कांड: बॉम्बे हाईकोर्ट ने सचिन वाझे की ज़मानत रद्द की"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
+      "id": "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
       "also": []
     },
     "list": [
-      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
       "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-      "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal",
+      "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
+      "hosur-factory-concrete-structure-collapse-three-workers-killed"
     ],
     "also": [
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+      "24-hour-rule-explained-article-22-detention-arrest",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
     ]
   },
   "startHere": [
@@ -382,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "hindalco-q2-profit-59-per-cent-7533-crore-record",
+      "lead": "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +393,10 @@
         ]
       },
       "list": [
-        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump"
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout",
+        "fii-buy-14975-crore-november-5-dii-sell-10445"
       ]
     },
     {
@@ -456,9 +456,9 @@
       "lead": "india-u19-beat-nepal-asia-cup-al-amerat",
       "list": [
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+        "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris"
       ]
     }
   ],
@@ -643,17 +643,17 @@
       ]
     },
     {
-      "at": "2026-11-06T16:19:36+05:30",
+      "at": "2026-11-06T16:38:41+05:30",
       "ids": [
         "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
         "sonia-gandhi-voter-list-case-additional-documents-november-18",
-        "hindalco-q2-profit-59-per-cent-7533-crore-record",
         "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "cristiano-ronaldo-retires-international-football-portugal",
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
+        "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "bombay-hc-cancels-sachin-waze-bail-antilia-nia-appeal"
       ]
     }
   ],
