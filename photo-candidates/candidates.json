@@ -1,0 +1,26 @@
+{
+  "k1": {
+    "query": "Yogakshema LIC building Mumbai",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:LIC Central Office.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:LIC_Central_Office.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LIC_Central_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4000,
+        "height": 3000,
+        "licence": "CC BY-SA 4.0",
+        "author": "PIYUSH P PUJARI",
+        "credit": "Own work",
+        "date": "2019-06-13",
+        "description": "LIC CENTRAL OFFICE(YOGAKSHEMA)",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LIC_Central_Office.jpg/1600px-LIC_Central_Office.jpg"
+      }
+    ]
+  },
+  "k2": {
+    "query": "LIC headquarters Nariman Point",
+    "candidates": []
+  }
+}
