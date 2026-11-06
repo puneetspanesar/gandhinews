@@ -161,19 +161,30 @@ nb = len(L.get('relatedBeside') or []) or 4
 fresh_core = [i for i in taken if i not in core6 or (i in a.critical and allowed(i))]
 # a story showing an infographic never sits beside the lead while a pictured story is available (owner's rule: photos at the top)
 fresh_core = [i for i in fresh_core if not PIC.get(i, {}).get('graphic')] + [i for i in fresh_core if PIC.get(i, {}).get('graphic')]
-beside = fresh_core[:nb]
+# the stories beside the lead are all in the top eight: never three of one section among them
+beside, bsec = [], {}
+for i in fresh_core:
+    s_ = A[i].get('section') or A[i]['type']
+    if bsec.get(s_, 0) >= 2: continue
+    beside.append(i); bsec[s_] = bsec.get(s_, 0) + 1
+    if len(beside) >= nb: break
 if len(beside) < nb: print(f'WARNING: only {len(beside)} stories not in the top five in the last 6 hours: publish more stories this run'); beside += [i for i in taken if i not in beside][:nb - len(beside)]
 L['relatedBeside'] = beside
 rest = [i for i in taken if i not in beside]
 taken = beside + rest
 # moving pictured stories beside the lead can put a third story of one section into the top eight: push the extra ones down
-for _ in range(len(taken)):
-    cnt, mv = {}, None
-    for k, i in enumerate(taken[:8]):
-        s_ = A[i].get('section') or A[i]['type']; cnt[s_] = cnt.get(s_, 0) + 1
-        if cnt[s_] > 2 and k >= nb: mv = k; break
-    if mv is None: break
-    x = taken.pop(mv); taken.insert(8, x)
+# (one pass, in order: the old pop-and-reinsert loop could cycle and leave a third story in place)
+cnt = {}
+for i in beside: s_ = A[i].get('section') or A[i]['type']; cnt[s_] = cnt.get(s_, 0) + 1
+top, over = [], []
+for i in rest:
+    s_ = A[i].get('section') or A[i]['type']
+    if len(beside) + len(top) < 8:
+        if cnt.get(s_, 0) >= 2: over.append(i); continue
+        cnt[s_] = cnt.get(s_, 0) + 1
+    top.append(i)
+k8 = max(0, 8 - len(beside))
+taken = beside + top[:k8] + over + top[k8:]
 rest = taken[len(beside):]
 h['topStories'] = {'big': {'id': rest[0], 'also': []}, 'list': rest[1:6], 'also': rest[6:8]} if rest else h['topStories']
 
