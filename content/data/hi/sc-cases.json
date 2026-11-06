@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-11-05",
+    "as_of": "2026-11-06",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -771,6 +771,35 @@
       ],
       "notes": "स्रोतों में मुख्य केस का नाम नहीं। स्थगन आदेश की तारीख नहीं दी गई।",
       "case_hi": "यूजीसी (उच्च शिक्षा संस्थानों में समानता को बढ़ावा) विनियम, 2026 को चुनौती",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "tarun-tejpal-appeal",
+      "case": "Tarun J. Tejpal v. State of Goa (criminal appeal against conviction, with plea to suspend sentence)",
+      "issue": "क्या बॉम्बे हाईकोर्ट की गोवा पीठ का 6 अगस्त 2026 को तरुण तेजपाल की 2021 की बरी को पलटकर उन्हें नवंबर 2013 में गोवा के एक होटल की लिफ्ट में जूनियर सहकर्मी से बलात्कार के लिए 10 साल के सश्रम कारावास की सजा देना सही था, और क्या अपील की सुनवाई तक सजा निलंबित की जाए।",
+      "bench_size": 2,
+      "bench": "जस्टिस एम एम सुंदरेश और जस्टिस प्रसन्ना बी वराले",
+      "status": "pending",
+      "status_text": "सजा निलंबन से इनकार; अपील लंबित",
+      "last_date": "2026-11-06",
+      "last_event": "तेजपाल की ओर से वरिष्ठ अधिवक्ता कपिल सिब्बल और गोवा की ओर से सॉलिसिटर जनरल तुषार मेहता को सुनने के बाद पीठ ने कहा कि वह \"not inclined to suspend the sentence\" है, इसलिए अपील लंबित रहने तक 10 साल की सजा लागू रहेगी।",
+      "next_step": "दोषसिद्धि के खिलाफ अपील की सुनवाई; कोई तारीख सामने नहीं आई। गोवा सरकार ने अलग से सजा बढ़ाकर उम्रकैद करने की मांग की है (रिपोर्ट के अनुसार)।",
+      "sources": [
+        {
+          "title": "Supreme Court rejects Tarun Tejpal's plea to suspend 10-year sentence in 2013 rape case (PTI)",
+          "publisher": "ThePrint",
+          "date": "2026-11-06",
+          "url": "https://theprint.in/india/supreme-court-rejects-tarun-tejpals-plea-to-suspend-10-year-sentence-in-2013-rape-case/3092338/"
+        },
+        {
+          "title": "Supreme Court Refuses To Suspend Ex-Tehelka Editor Tarun Tejpal's 10-Year Sentence",
+          "publisher": "Free Press Journal",
+          "date": "2026-11-06",
+          "url": "https://www.freepressjournal.in/india/supreme-court-refuses-to-suspend-ex-tehelka-editor-tarun-tejpals-10-year-sentence"
+        }
+      ],
+      "notes": "मामले का शीर्षक विवरण के रूप में; तेजपाल 20 अगस्त 2026 को सुप्रीम कोर्ट पहुंचे। ब्योरा समाचार डेस्क की 6 नवंबर 2026 की खबर से (पीटीआई, द प्रिंट के ज़रिए; फ्री प्रेस जर्नल)।",
+      "case_hi": "तरुण जे. तेजपाल बनाम गोवा राज्य (दोषसिद्धि के खिलाफ आपराधिक अपील, सजा निलंबन की अर्जी के साथ)",
       "status_hi": "लंबित"
     }
   ]

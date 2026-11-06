@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "id": "sonia-gandhi-voter-list-case-additional-documents-november-18",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "₹1,919 crore of cyclone damage",
-        "hi": "चक्रवात से 1,919 करोड़ का नुकसान"
+        "en": "Voter list case: next date November 18",
+        "hi": "मतदाता सूची मामला: अगली तारीख 18 नवंबर"
       },
       "text": {
         "en": "",
@@ -16,47 +16,43 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "saini-chowkidar-honorarium-15221-rahul-apology",
-      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-      "rupee-93-89-strongest-since-april-fii-record-buying",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+      "foreign-investors-return-explained-fii-dii-sensex-rally",
       "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "modi-meets-asian-para-games-medallists-delhi"
+      "modi-meets-asian-para-games-medallists-delhi",
+      "khunti-crash-night-highways-need-lights-and-speed-checks"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Supreme Court issues contempt notice to Kerala Congress office-bearers over 'resign now' post on CJI",
-          "hi": "सीजेआई से 'इस्तीफा दो' वाली पोस्ट पर सुप्रीम कोर्ट का केरल कांग्रेस पदाधिकारियों को अवमानना नोटिस"
+          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
+          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
         }
       },
       {
-        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
+        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
         "lead": {
           "en": "Markets:",
-          "hi": "बाजार:"
+          "hi": "बाज़ार:"
         },
         "text": {
-          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
-          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
+          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
+          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
         }
       },
       {
@@ -71,17 +67,6 @@
         }
       },
       {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
-        }
-      },
-      {
         "link": "modi-meets-asian-para-games-medallists-delhi",
         "lead": {
           "en": "Para sport:",
@@ -93,6 +78,28 @@
         }
       },
       {
+        "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The seven who died in Khunti had stopped to help. Jharkhand's rural roads need lights, speed checks and a safe way to rescue",
+          "hi": "खूंटी में जान गंवाने वाले सात लोग मदद के लिए रुके थे। झारखंड की ग्रामीण सड़कों को रोशनी, रफ्तार पर लगाम और सुरक्षित बचाव का तरीका चाहिए"
+        }
+      },
+      {
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
+        }
+      },
+      {
         "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
         "lead": {
           "en": "Tennis:",
@@ -101,17 +108,6 @@
         "text": {
           "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
           "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
-        }
-      },
-      {
-        "link": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra's cyclone-hit mandals vote as repolls open at seven booths; Thursday turnout put at 67.24%",
-          "hi": "आंध्र के चक्रवात प्रभावित मंडलों में मतदान शुरू, सात बूथों पर दोबारा वोटिंग; गुरुवार को 67.24% मतदान"
         }
       },
       {
@@ -190,28 +186,28 @@
   },
   "topStories": {
     "big": {
-      "id": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "id": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
       "also": []
     },
     "list": [
-      "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
       "jagan-parishad-polls-selections-naidu-hijacked",
-      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-      "sonia-gandhi-voter-list-case-additional-documents-november-18",
-      "india-u19-beat-nepal-asia-cup-al-amerat"
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+      "india-u19-beat-nepal-asia-cup-al-amerat",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
     ],
     "also": [
-      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-      "cristiano-ronaldo-retires-international-football-portugal"
+      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+      "andhra-parishad-polls-four-voters-two-poll-staff-die"
     ]
   },
   "startHere": [
+    "foreign-investors-return-explained-fii-dii-sensex-rally",
+    "suspension-of-sentence-explained-tejpal-supreme-court",
     "24-hour-rule-explained-article-22-detention-arrest",
     "ugc-equity-regulations-explained-caste-discrimination-campuses",
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-    "fast-track-special-courts-explained-rape-pocso-backlog",
-    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-    "two-child-norm-explained-javed-ruling-larger-bench"
+    "fast-track-special-courts-explained-rape-pocso-backlog"
   ],
   "trackers": [
     {
@@ -364,11 +360,11 @@
     }
   ],
   "opinion": [
+    "khunti-crash-night-highways-need-lights-and-speed-checks",
+    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
     "ugc-equity-rules-revise-them-do-not-bury-them",
     "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-    "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
   ],
   "sections": [
     {
@@ -378,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
         "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
         "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
       ],
-      "lead": "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+      "lead": "sonia-gandhi-voter-list-case-additional-documents-november-18"
     },
     {
       "section": "economy",
-      "lead": "rupee-93-89-strongest-since-april-fii-record-buying",
+      "lead": "hindalco-q2-profit-59-per-cent-7533-crore-record",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +393,19 @@
         ]
       },
       "list": [
-        "hindalco-q2-profit-59-per-cent-7533-crore-record",
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-        "joshi-renewable-investment-220-billion-500-gw-2030"
+        "joshi-renewable-investment-220-billion-500-gw-2030",
+        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
+        "wall-street-close-dow-1833-nasdaq-correction-chip-rout"
       ]
     },
     {
       "section": "states",
-      "lead": "saini-chowkidar-honorarium-15221-rahul-apology",
+      "lead": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
       "list": [
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance"
       ]
     },
     {
@@ -461,8 +457,8 @@
       "list": [
         "india-u19-beat-nepal-asia-cup-al-amerat",
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
       ]
     }
   ],
@@ -647,19 +643,16 @@
       ]
     },
     {
-      "at": "2026-11-06T18:36:13+05:30",
+      "at": "2026-11-06T18:29:46+05:30",
       "ids": [
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "saini-chowkidar-honorarium-15221-rahul-apology",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-        "rupee-93-89-strongest-since-april-fii-record-buying",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "foreign-investors-return-explained-fii-dii-sensex-rally",
         "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
         "modi-meets-asian-para-games-medallists-delhi",
+        "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
         "jagan-parishad-polls-selections-naidu-hijacked"
       ]
     }

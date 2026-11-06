@@ -30188,47 +30188,16 @@
   }
  },
  "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam": {
-  "id": "i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-  "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-3x2-1280.jpg",
-  "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-3x2-640.jpg",
+  "id": "o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "src": "/photos/o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-1280.jpg",
+  "src800": "/photos/o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Final turnout rises to 70.72%",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अंतिम मतदान बढ़कर 70.72%",
-  "page": null,
-  "ihash": "ead66314ddc8",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-3x2-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-t-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-t-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-1280.jpg",
-    "src800": "/photos/i-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Andhra Pradesh polling; library, quick_photo, finder h0617 (only 600 px Chittoor 2004)"
+  "height": 865,
+  "credit": "Photo: Election Commission of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Voters queue outside a polling booth in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश में एक मतदान केंद्र के बाहर कतार में मतदाता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
  },
  "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled": {
   "id": "i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
@@ -30272,6 +30241,207 @@
    }
   },
   "nophoto": "no free photo of Shubman Gill; library and finder h0617 candidates under main size or used within 7 days"
+ },
+ "foreign-investors-return-explained-fii-dii-sensex-rally": {
+  "id": "o-foreign-investors-return-explained-fii-dii-sensex-rally",
+  "src": "/photos/o-foreign-investors-return-explained-fii-dii-sensex-rally-1280.jpg",
+  "src800": "/photos/o-foreign-investors-return-explained-fii-dii-sensex-rally-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Jnpet / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The National Stock Exchange of India, Mumbai (file photo)",
+  "alt_hi": "मुंबई में नेशनल स्टॉक एक्सचेंज (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG"
+ },
+ "rahul-gandhi-voter-id-not-aadhaar-welfare-claim": {
+  "id": "i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+  "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: A minister's remark, not a new rule",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मंत्री का बयान, कोई नया नियम नहीं",
+  "page": null,
+  "ihash": "7d8d5d5d1fc6",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-t-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "every usable Rahul Gandhi photo used in 7 days or under 900 px; only free one left is a watermarked crowd shot; library, quick_photo, finder l06e"
+ },
+ "khunti-crash-night-highways-need-lights-and-speed-checks": {
+  "id": "i-khunti-crash-night-highways-need-lights-and-speed-checks",
+  "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-3x2-1280.jpg",
+  "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Khunti's rescuers deserved a safer road",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: खूंटी के मददगारों को सुरक्षित सड़क मिलनी चाहिए थी",
+  "page": null,
+  "ihash": "373213572dc8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-3x2-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-t-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-t-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-1280.jpg",
+    "src800": "/photos/i-khunti-crash-night-highways-need-lights-and-speed-checks-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Khunti crash or any Jharkhand road crash; library, quick_photo, finder l06e"
+ },
+ "relief-for-long-settled-refugees-should-lead-to-a-refugee-law": {
+  "id": "o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+  "src": "/photos/o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law-1280.jpg",
+  "src800": "/photos/o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law-640.jpg",
+  "width": 1280,
+  "height": 846,
+  "credit": "Photo: European Commission DG ECHO / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A camp for Sri Lankan Tamil refugees at Vembakkottai, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु के वेम्बक्कोट्टई में श्रीलंकाई तमिल शरणार्थियों का शिविर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Camp_for_Sri_Lankan_refugees_in_Tamil_Nadu.jpg"
+ },
+ "suspension-of-sentence-explained-tejpal-supreme-court": {
+  "id": "i-suspension-of-sentence-explained-tejpal-supreme-court",
+  "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-en-3x2-1280.jpg",
+  "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Why an appeal does not always mean bail",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अपील का मतलब हमेशा ज़मानत क्यों नहीं",
+  "page": null,
+  "ihash": "cfdb66a2a6e4",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-3x2-1280.jpg",
+    "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-en-t-1280.jpg",
+    "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-t-1280.jpg",
+    "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-en-1280.jpg",
+    "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-1280.jpg",
+    "src800": "/photos/i-suspension-of-sentence-explained-tejpal-supreme-court-hi-640.jpg"
+   }
+  },
+  "nophoto": "only free Tarun Tejpal photo (Tarun_J_Tejpal_2007.jpg) is used today by tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence (7-day rule); all 8 Supreme Court photos used in 7 days; library, quick_photo, finder l06e"
+ },
+ "foreign-investors-return-explained-fii-dii-sensex-rally--p1": {
+  "id": "o-foreign-investors-return-explained-fii-dii-sensex-rally--p1",
+  "src": "/photos/o-foreign-investors-return-explained-fii-dii-sensex-rally--p1-1280.jpg",
+  "src800": "/photos/o-foreign-investors-return-explained-fii-dii-sensex-rally--p1-640.jpg",
+  "width": 1280,
+  "height": 995,
+  "credit": "Photo: Dietmar Rabich / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The New York Stock Exchange building on Wall Street (file photo)",
+  "alt_hi": "वॉल स्ट्रीट पर न्यूयॉर्क स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Wall_Street_--_2012_--_6614.jpg"
+ },
+ "suspension-of-sentence-explained-tejpal-supreme-court--p1": {
+  "id": "o-suspension-of-sentence-explained-tejpal-supreme-court--p1",
+  "src": "/photos/o-suspension-of-sentence-explained-tejpal-supreme-court--p1-1280.jpg",
+  "src800": "/photos/o-suspension-of-sentence-explained-tejpal-supreme-court--p1-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Dream Sparrow / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Former Supreme Court judge K T Thomas (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के पूर्व न्यायाधीश के टी थॉमस (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_K_T_Thomas_(2023).jpg"
+ },
+ "rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1": {
+  "id": "o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1",
+  "src": "/photos/o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1-1280.jpg",
+  "src800": "/photos/o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "credit": "Photo: Department of Information & Public Relations, Government of Bihar / Wikimedia Commons",
+  "licence": "Attribution",
+  "alt": "Lalan Singh (file photo)",
+  "alt_hi": "ललन सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rajiv_Ranjan_Singh_alias_Lalan_Singh_2022.jpg"
+ },
+ "relief-for-long-settled-refugees-should-lead-to-a-refugee-law--p1": {
+  "id": "o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law--p1",
+  "src": "/photos/o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law--p1-1280.jpg",
+  "src800": "/photos/o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law--p1-640.jpg",
+  "width": 1280,
+  "height": 846,
+  "credit": "Photo: European Commission DG ECHO / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Families at a Sri Lankan Tamil refugee camp in Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु में श्रीलंकाई तमिल शरणार्थी शिविर में परिवार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Eelam_Refugees_India7.jpg"
  },
  "rupee-93-89-strongest-since-april-fii-record-buying": {
   "id": "r-rupee-93-89-strongest-since-april-fii-record-buying",

@@ -1,0 +1,16 @@
+{
+ "run": "stall-17",
+ "start": "2026-11-06T17:53:52+05:30",
+ "end": "2026-11-06T18:14:24+05:30",
+ "summary": "Andhra turnout story photo; homepage refreshed",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+  "in the top five at 16:41 as well: the lead and the four beside it never repeat within 6 hours: sonia-gandhi-voter-list-case-additional-documents-november-18"
+ ],
+ "lead": "sonia-gandhi-voter-list-case-additional-documents-november-18"
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-05",
+    "as_of": "2026-11-06",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -713,6 +713,33 @@
         }
       ],
       "notes": "Lead case title not named in sources. Date of the abeyance order not given."
+    },
+    {
+      "id": "tarun-tejpal-appeal",
+      "case": "Tarun J. Tejpal v. State of Goa (criminal appeal against conviction, with plea to suspend sentence)",
+      "issue": "Whether the Bombay High Court at Goa was right to overturn Tarun Tejpal's 2021 acquittal and sentence him on 6 Aug 2026 to 10 years' rigorous imprisonment for raping a junior colleague in a Goa hotel lift in November 2013, and whether the sentence should be suspended while the appeal is heard.",
+      "bench_size": 2,
+      "bench": "Justices M.M. Sundresh and Prasanna B. Varale",
+      "status": "pending",
+      "status_text": "Suspension of sentence refused; appeal pending",
+      "last_date": "2026-11-06",
+      "last_event": "After hearing senior advocate Kapil Sibal for Tejpal and Solicitor General Tushar Mehta for Goa, the bench said it was \"not inclined to suspend the sentence\", so the 10-year term stays in force while the appeal is pending.",
+      "next_step": "Hearing of the appeal against conviction; no date reported. Goa has separately sought a higher sentence of life imprisonment (reported).",
+      "sources": [
+        {
+          "title": "Supreme Court rejects Tarun Tejpal's plea to suspend 10-year sentence in 2013 rape case (PTI)",
+          "publisher": "ThePrint",
+          "date": "2026-11-06",
+          "url": "https://theprint.in/india/supreme-court-rejects-tarun-tejpals-plea-to-suspend-10-year-sentence-in-2013-rape-case/3092338/"
+        },
+        {
+          "title": "Supreme Court Refuses To Suspend Ex-Tehelka Editor Tarun Tejpal's 10-Year Sentence",
+          "publisher": "Free Press Journal",
+          "date": "2026-11-06",
+          "url": "https://www.freepressjournal.in/india/supreme-court-refuses-to-suspend-ex-tehelka-editor-tarun-tejpals-10-year-sentence"
+        }
+      ],
+      "notes": "Case title written descriptively; Tejpal moved the Supreme Court on 20 Aug 2026. Details from the news desk's story of 6 Nov 2026 (PTI via ThePrint, Free Press Journal)."
     }
   ]
 }

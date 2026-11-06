@@ -1337,7 +1337,7 @@
   "id": "x-rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
   "articleId": "rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rahul_Gandhi_in_Goa.jpg/1280px-Rahul_Gandhi_in_Goa.jpg",
-  "credit": "Photo: joegoauk Last Namegoa / Wikimedia Commons",
+  "credit": "Photo: joegoauk / Wikimedia Commons",
   "licence": "CC BY-SA 2.0",
   "alt": "Congress leader and Leader of the Opposition in the Lok Sabha Rahul Gandhi",
   "alt_hi": "कांग्रेस नेता और लोकसभा में नेता प्रतिपक्ष राहुल गांधी",
@@ -49028,12 +49028,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Bombay_Stock_Exchange,_2015_1.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/North_Block%2C_Raisina_Hill%2C_New_Delhi_06.jpg/1600px-North_Block%2C_Raisina_Hill%2C_New_Delhi_06.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/EVidyaloka_Rubaru_2018-1.jpg/1280px-EVidyaloka_Rubaru_2018-1.jpg",
+  "credit": "Photo: Devopam / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "North Block, home of the Finance Ministry, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में वित्त मंत्रालय का नॉर्थ ब्लॉक (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_06.jpg",
+  "alt": "North Block, which houses the Ministry of Home Affairs, in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली का नॉर्थ ब्लॉक, जहां गृह मंत्रालय है (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:EVidyaloka_Rubaru_2018-1.jpg",
   "id": "r-govt-relaxes-passport-visa-rules-foreign-nationals-india",
   "articleId": "govt-relaxes-passport-visa-rules-foreign-nationals-india"
  },
@@ -49128,22 +49128,92 @@
   "page": "https://commons.wikimedia.org/wiki/File:Fishing_Boats_at_Rameshwaram.jpeg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_cooler_outlets_at_SBI_munnekollala.._.jpg/1280px-Air_cooler_outlets_at_SBI_munnekollala.._.jpg",
-  "credit": "Photo: Gangaasoonu / Wikimedia Commons",
+  "id": "o-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "articleId": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency%2C_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Election Commission of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Voters queue outside a polling booth in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश में एक मतदान केंद्र के बाहर कतार में मतदाता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
+ },
+ {
+  "id": "o-foreign-investors-return-explained-fii-dii-sensex-rally",
+  "articleId": "foreign-investors-return-explained-fii-dii-sensex-rally",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/National_Stock_exchange_Mumbai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Jnpet / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The National Stock Exchange of India, Mumbai (file photo)",
+  "alt_hi": "मुंबई में नेशनल स्टॉक एक्सचेंज (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG"
+ },
+ {
+  "id": "o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+  "articleId": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Camp_for_Sri_Lankan_refugees_in_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: European Commission DG ECHO / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A camp for Sri Lankan Tamil refugees at Vembakkottai, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु के वेम्बक्कोट्टई में श्रीलंकाई तमिल शरणार्थियों का शिविर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Camp_for_Sri_Lankan_refugees_in_Tamil_Nadu.jpg"
+ },
+ {
+  "id": "o-foreign-investors-return-explained-fii-dii-sensex-rally--p1",
+  "articleId": "foreign-investors-return-explained-fii-dii-sensex-rally--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Dietmar Rabich / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "Reserve Bank of India headquarters building in Mumbai (file photo)",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक के मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Air_cooler_outlets_at_SBI_munnekollala.._.jpg",
+  "alt": "The New York Stock Exchange building on Wall Street (file photo)",
+  "alt_hi": "वॉल स्ट्रीट पर न्यूयॉर्क स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Wall_Street_--_2012_--_6614.jpg"
+ },
+ {
+  "id": "o-suspension-of-sentence-explained-tejpal-supreme-court--p1",
+  "articleId": "suspension-of-sentence-explained-tejpal-supreme-court--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Justice_K_T_Thomas_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Dream Sparrow / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Former Supreme Court judge K T Thomas (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के पूर्व न्यायाधीश के टी थॉमस (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_K_T_Thomas_(2023).jpg"
+ },
+ {
+  "id": "o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1",
+  "articleId": "rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rajiv_Ranjan_Singh_alias_Lalan_Singh_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Department of Information & Public Relations, Government of Bihar / Wikimedia Commons",
+  "licence": "Attribution",
+  "alt": "Lalan Singh (file photo)",
+  "alt_hi": "ललन सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rajiv_Ranjan_Singh_alias_Lalan_Singh_2022.jpg"
+ },
+ {
+  "id": "o-relief-for-long-settled-refugees-should-lead-to-a-refugee-law--p1",
+  "articleId": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eelam_Refugees_India7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: European Commission DG ECHO / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Families at a Sri Lankan Tamil refugee camp in Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु में श्रीलंकाई तमिल शरणार्थी शिविर में परिवार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Eelam_Refugees_India7.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/RBI_Bhubaneswar.jpg/1280px-RBI_Bhubaneswar.jpg",
+  "credit": "Photo: Subhrasingh / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Reserve Bank of India office in Bhubaneswar (file photo)",
+  "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg",
   "id": "r-rupee-93-89-strongest-since-april-fii-record-buying",
   "articleId": "rupee-93-89-strongest-since-april-fii-record-buying"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_03.jpg/1600px-Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_03.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Reserve_Bank_of_India_building_in_Kolkata.jpg/1280px-Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "The Reserve Bank of India tower in Mumbai (file photo)",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_03.jpg",
+  "alt": "The Reserve Bank of India building in Kolkata (file photo)",
+  "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
   "id": "r-india-forex-reserves-fall-2-69-billion-717-billion-october-30",
   "articleId": "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
  },
@@ -49186,25 +49256,5 @@
   "alt": "A house in Andhra Pradesh destroyed by an earlier cyclone (file photo)",
   "alt_hi": "आंध्र प्रदेश में पिछले चक्रवात से ढहा एक घर (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png"
- },
- {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Reserve_Bank_of_India_building_in_Kolkata.jpg/1280px-Reserve_Bank_of_India_building_in_Kolkata.jpg",
-  "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Reserve Bank of India building in Kolkata (file photo)",
-  "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
-  "id": "r-india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-  "articleId": "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
- },
- {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/RBI_Bhubaneswar.jpg/1280px-RBI_Bhubaneswar.jpg",
-  "credit": "Photo: Subhrasingh / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Reserve Bank of India office in Bhubaneswar (file photo)",
-  "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg",
-  "id": "r-rupee-93-89-strongest-since-april-fii-record-buying",
-  "articleId": "rupee-93-89-strongest-since-april-fii-record-buying"
  }
 ]
