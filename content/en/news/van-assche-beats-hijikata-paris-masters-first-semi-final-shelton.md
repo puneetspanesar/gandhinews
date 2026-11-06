@@ -23,7 +23,7 @@ hero:
     value: "First Masters 1000 semi-final"
 related: [shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin, fritz-beats-fils-alcaraz-quarter-final-hijikata-paris]
 seo:
-  description: "Luca Van Assche beat Rinky Hijikata 6-4, 6-7 (4), 7-5 on November 6, 2026 to reach his first Masters 1000 semi-final at the Paris Masters, where he meets Ben Shelton."
+  description: "Luca Van Assche beat Rinky Hijikata 6-4, 6-7 (4), 7-5 on November 6, 2026, to reach his first Masters 1000 semi-final at the Paris Masters, where he meets Ben Shelton."
 sources:
   - title: "Van Assche beats Hijikata to reach his first Masters 1000 semi-final in Paris, sets up Shelton clash"
     publisher: "Tennis Majors"
@@ -54,7 +54,7 @@ He broke Hijikata to love in the deciding set and closed the match out on his **
 
 Hijikata, ranked 83rd at the start of the week, pushed him all the way. He hit more winners, 47 to 39, and won 25 of 43 points at the net, but made 41 unforced errors against Van Assche's 20. Van Assche served 13 aces to Hijikata's seven and saved five of the seven break points he faced.
 
-Earlier in the round Taylor Fritz knocked out the French favourite Arthur Fils. After that defeat Fils said he hoped for a Frenchman in the semi-finals, in the final and perhaps even as champion. Van Assche has now kept that hope alive.
+On Thursday night, in the previous round, Taylor Fritz knocked out the French favourite Arthur Fils. After that defeat Fils said he hoped for a Frenchman in the semi-finals, in the final and perhaps even as champion. Van Assche has now kept that hope alive.
 
 ## Shelton next
 

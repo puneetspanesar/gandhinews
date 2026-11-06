@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+    "id": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
     "overlay": {
       "kicker": {
-        "en": "Policy / Defence",
-        "hi": "नीति / रक्षा"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "Six days of joint relief planning",
-        "hi": "छह दिन संयुक्त राहत योजना के"
+        "en": "₹1,919 crore of cyclone damage",
+        "hi": "चक्रवात से 1,919 करोड़ का नुकसान"
       },
       "text": {
         "en": "",
@@ -16,109 +16,113 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "saini-chowkidar-honorarium-15221-rahul-apology",
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "haryana-9880-crore-paddy-farmers-beekeepers-insurance"
+    ],
     "relatedBeside": [
-      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-      "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-      "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting"
+      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+      "rupee-93-89-strongest-since-april-fii-record-buying",
+      "sonia-gandhi-voter-list-case-additional-documents-november-18",
+      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence"
     ],
     "live": {
       "title": {
-        "en": "Defence",
-        "hi": "रक्षा"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+        "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Shelton beats Paul to reach Paris Masters semi-final and end Turin hopes of Paul",
-          "hi": "पेरिस मास्टर्स: शेल्टन ने पॉल को हराकर सेमीफाइनल में जगह बनाई, पॉल की ट्यूरिन की उम्मीद खत्म"
+          "en": "Luca Van Assche beats Rinky Hijikata to reach first Masters 1000 semi-final, meets Ben Shelton",
+          "hi": "लुका वान असे ने रिंकी हिजिकाता को हराकर पहला मास्टर्स 1000 सेमीफाइनल खेलने का मौका पाया, सामने बेन शेल्टन"
         }
       },
       {
-        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
         "lead": {
-          "en": "Electronics:",
-          "hi": "इलेक्ट्रॉनिक्स:"
+          "en": "Markets:",
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
-          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
+          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
+          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
         }
       },
       {
-        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "lead": {
-          "en": "Home Ministry:",
-          "hi": "गृह मंत्रालय:"
-        },
-        "text": {
-          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
-          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
-        }
-      },
-      {
-        "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
+        "link": "sonia-gandhi-voter-list-case-additional-documents-november-18",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Delhi court to hear plea for FIR against Sonia Gandhi over 1980 voter list today",
-          "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर आज सुनवाई"
+          "en": "Sonia Gandhi voter list case: court lets complainant file more documents, next hearing November 18",
+          "hi": "सोनिया गांधी मतदाता सूची मामला: शिकायतकर्ता को और दस्तावेज देने की छूट, अगली सुनवाई 18 नवंबर को"
         }
       },
       {
-        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
-          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
         }
       },
       {
-        "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "link": "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Santner's New Zealand lose Conway for the series as Henry returns for Wellington ODI",
-          "hi": "सैंटनर की टीम को झटका, कॉनवे पूरी सीरीज़ से बाहर; वेलिंगटन वनडे में हेनरी की वापसी संभव"
+          "en": "Supreme Court refuses to suspend Tarun Tejpal's 10-year sentence in 2013 rape case",
+          "hi": "सुप्रीम कोर्ट ने 2013 के बलात्कार मामले में तरुण तेजपाल की 10 साल की सजा निलंबित करने से इनकार किया"
         }
       },
       {
-        "link": "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
+        "link": "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
         },
         "text": {
-          "en": "Night fire in Karol Bagh's Gaffar Market damages up to 45 shops; no one hurt",
-          "hi": "करोल बाग के गफ्फार मार्केट में रात को लगी आग, 45 तक दुकानें प्रभावित; कोई हताहत नहीं"
+          "en": "Tanvi Patri, 15, wins India's first Youth Olympics medal in women's badminton",
+          "hi": "15 साल की तन्वी पात्री ने यूथ ओलंपिक में रजत जीतकर रचा इतिहास"
         }
       },
       {
-        "link": "24-hour-rule-explained-article-22-detention-arrest",
+        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "The 24-hour rule explained: why the Supreme Court says the clock starts at detention",
-          "hi": "24 घंटे का नियम: सुप्रीम कोर्ट क्यों कहता है कि घड़ी हिरासत से चलती है"
+          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
+          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
+        }
+      },
+      {
+        "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The seven who died in Khunti had stopped to help. Jharkhand's rural roads need lights, speed checks and a safe way to rescue",
+          "hi": "खूंटी में जान गंवाने वाले सात लोग मदद के लिए रुके थे। झारखंड की ग्रामीण सड़कों को रोशनी, रफ्तार पर लगाम और सुरक्षित बचाव का तरीका चाहिए"
         }
       }
     ]
@@ -186,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+      "id": "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
       "also": []
     },
     "list": [
-      "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-      "24-hour-rule-explained-article-22-detention-arrest",
-      "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-      "delhi-grap-stage-three-aqi-382-caqm",
-      "iran-hands-us-nuclear-proposal-seven-demands"
+      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+      "khunti-crash-night-highways-need-lights-and-speed-checks",
+      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+      "hindalco-q2-profit-59-per-cent-7533-crore-record"
     ],
     "also": [
-      "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "sc-up-under-trials-bail-release-all-75-districts"
+      "amit-shah-dehradun-parade-ground-rally-padyatra-today",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
     ]
   },
   "startHere": [
@@ -453,27 +457,26 @@
     },
     {
       "section": "sports",
-      "lead": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+      "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
       "list": [
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "india-u19-beat-nepal-asia-cup-al-amerat"
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],
   "weekAhead": [
     {
-      "icon": "calendar-blank",
+      "icon": "calendar-check",
       "date": {
         "en": "Today",
         "hi": "आज"
       },
       "text": {
-        "en": "Men's U19 Asia Cup: India v Nepal in Al Amerat, 10:30 am IST",
-        "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम नेपाल, सुबह 10:30 बजे"
-      },
-      "link": "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
+        "en": "Counting: Andhra Pradesh Mandal and Zilla Parishad (MPTC and ZPTC) elections",
+        "hi": "मतगणना: आंध्र प्रदेश मंडल और जिला परिषद (एमपीटीसी और जेडपीटीसी) चुनाव"
+      }
     },
     {
       "icon": "calendar-blank",
@@ -482,10 +485,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Amit Shah addresses BJP rally at Dehradun's Parade Ground",
-        "hi": "देहरादून के परेड ग्राउंड में अमित शाह की भाजपा रैली"
+        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections",
+        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना"
       },
-      "link": "amit-shah-dehradun-parade-ground-rally-padyatra-today"
+      "link": "andhra-parishad-polls-four-voters-two-poll-staff-die"
     },
     {
       "icon": "calendar-blank",
@@ -494,10 +497,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Chennai Open quarter-final: Maaya Rajeshwaran v Robin Montgomery, 3 pm IST",
-        "hi": "चेन्नई ओपन क्वार्टर फाइनल: माया राजेश्वरन बनाम रॉबिन मॉन्टगोमरी, दोपहर 3 बजे"
+        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
+        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
       },
-      "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
+      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
     },
     {
       "icon": "calendar-blank",
@@ -506,53 +509,36 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters quarter-finals: Ben Shelton v Tommy Paul",
-        "hi": "पेरिस मास्टर्स क्वार्टर फाइनल: बेन शेल्टन बनाम टॉमी पॉल"
+        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
       },
-      "link": "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
+      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
     },
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
-        "en": "Andhra parishad polls in five cyclone-hit mandals, repolls at two booths",
-        "hi": "आंध्र के पांच चक्रवात प्रभावित मंडलों में परिषद चुनाव, दो बूथों पर दोबारा मतदान"
+        "en": "Men's U19 Asia Cup: India v Pakistan in Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"
       },
-      "link": "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths"
+      "link": "india-u19-beat-nepal-asia-cup-al-amerat"
     },
     {
-      "icon": "calendar-blank",
+      "icon": "chart-line",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Nov 12",
+        "hi": "12 नवंबर"
       },
       "text": {
-        "en": "Rouse Avenue court hears plea for FIR against Sonia Gandhi over 1980 voter list",
-        "hi": "1980 की मतदाता सूची पर सोनिया गांधी के खिलाफ एफआईआर की अर्जी पर राउज एवेन्यू कोर्ट में सुनवाई"
-      },
-      "link": "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today"
+        "en": "Retail inflation (CPI) for October, 4 pm",
+        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T15:48:12+05:30",
-      "ids": [
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-        "andhra-local-polls-must-start-with-free-nominations",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-        "india-u19-beat-nepal-asia-cup-al-amerat",
-        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-        "amit-shah-dehradun-rally-speech-1475-crore-projects",
-        "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-        "two-child-norm-explained-javed-ruling-larger-bench"
-      ]
-    },
     {
       "at": "2026-11-06T16:41:16+05:30",
       "ids": [
@@ -655,6 +641,23 @@
         "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
         "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
         "24-hour-rule-explained-article-22-detention-arrest"
+      ]
+    },
+    {
+      "at": "2026-11-07T00:43:35+05:30",
+      "ids": [
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "rupee-93-89-strongest-since-april-fii-record-buying",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "khunti-crash-night-highways-need-lights-and-speed-checks"
       ]
     }
   ],

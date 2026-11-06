@@ -1,0 +1,24 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-07T00:04:23+05:30",
+ "end": "2026-11-07T00:45:51+05:30",
+ "summary": "Van Assche into Paris semis; Maaya result held on facts; Cyclone Murasu damage leads",
+ "new": [
+  "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+ ],
+ "held": [
+  "maaya-rajeshwaran-loses-chennai-open-quarter-final-montgomery-tjen-semi"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "maaya-rajeshwaran-loses-chennai-open-quarter-final-montgomery-tjen-semi",
+   "kind": "facts",
+   "why": "Match account is wrong against the sources: ThePrint and DT Next both put Maaya's third double fault in the FIRST set (at 3-4, giving Montgomery the 5-3 break that decided the set), but the story says three double faults handed Montgomery chances in the second set. The sources also say Montgomery broke back to 4-3 and then broke again for 5-3, which the story leaves out. 'Centre Court', the Lagos W35 title and the wins over Katarzyna Kawa and 'qualifier' Weronika Falkowska are in none of the three listed sources. The cover/infographic stat '2012: last time an Indian woman reached a WTA singles quarter-final' is now false, because Maaya just did it (the Hindi label has the same error). On the main picture and homepage card the kicker breaks badly as 'CHENNAI OPEN QUARTER- / FINAL'. The infographic itself stands, since the story is marked NOPHOTO.",
+   "fix": "In EN and HI, change the second-set sentence to: her first serve let her down, and her third double fault of the match, at 3-4 in the first set, set up the break that gave Montgomery a 5-3 lead before she served out the set; Montgomery also won the second set 6-3. Drop 'on Centre Court' and remove or source the Lagos title and the Kawa/Falkowska wins (cite the earlier Gandhi News story if that is where they came from). Relabel the 2012 stat as 'Sania Mirza's year, the last Indian woman before Maaya in a WTA singles quarter-final' (and the same in Hindi). Shorten the kicker so it fits on one line (e.g. 'CHENNAI OPEN') or keep 'QUARTER-FINAL' unbroken."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
+}

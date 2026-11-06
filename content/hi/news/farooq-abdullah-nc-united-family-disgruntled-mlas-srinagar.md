@@ -4,7 +4,7 @@ lang: hi
 translation_of: farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar
 type: news
 section: politics
-format_label: "राजनीति / जम्मू-कश्मीर"
+format_label: "राजनीति / जम्मू और कश्मीर"
 topics: [states]
 title: "नाराज़ विधायकों से मिलने के बाद फ़ारूक़ अब्दुल्ला बोले, नेशनल कॉन्फ़्रेंस को कोई नहीं तोड़ सकता"
 standfirst: "नेकां अध्यक्ष ने विधायकों की शिकायतों को जायज़ बताया और जल्द कदम उठाने का भरोसा दिया। एक हफ़्ते पहले इन विधायकों ने उमर अब्दुल्ला मंत्रिमंडल में नए फेरबदल की मांग की थी।"
