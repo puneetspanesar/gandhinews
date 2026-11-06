@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sonia-gandhi-voter-list-case-additional-documents-november-18",
+    "id": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
     "overlay": {
       "kicker": {
-        "en": "Politics / Courts",
-        "hi": "राजनीति / अदालत"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "Voter list case: next date November 18",
-        "hi": "मतदाता सूची मामला: अगली तारीख 18 नवंबर"
+        "en": "₹1,919 crore of cyclone damage",
+        "hi": "चक्रवात से 1,919 करोड़ का नुकसान"
       },
       "text": {
         "en": "",
@@ -16,54 +16,58 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "saini-chowkidar-honorarium-15221-rahul-apology",
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "ganjam-landslide-toll-seven-odisha-seeks-2526-crore"
+    ],
     "relatedBeside": [
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-      "foreign-investors-return-explained-fii-dii-sensex-rally",
-      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+      "rupee-93-89-strongest-since-april-fii-record-buying",
+      "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
       "modi-meets-asian-para-games-medallists-delhi",
-      "khunti-crash-night-highways-need-lights-and-speed-checks"
+      "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "link": "supreme-court-contempt-notice-kerala-congress-x-post-cji",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
-          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
+          "en": "Supreme Court issues contempt notice to Kerala Congress office-bearers over 'resign now' post on CJI",
+          "hi": "सीजेआई से 'इस्तीफा दो' वाली पोस्ट पर सुप्रीम कोर्ट का केरल कांग्रेस पदाधिकारियों को अवमानना नोटिस"
         }
       },
       {
-        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
         "lead": {
           "en": "Markets:",
-          "hi": "बाज़ार:"
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
-          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
+          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
+          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
         }
       },
       {
-        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "link": "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
         "lead": {
-          "en": "Rajya Sabha:",
-          "hi": "राज्यसभा:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
-          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+          "en": "Andhra's cyclone-hit mandals vote as repolls open at seven booths; Thursday turnout put at 67.24%",
+          "hi": "आंध्र के चक्रवात प्रभावित मंडलों में मतदान शुरू, सात बूथों पर दोबारा वोटिंग; गुरुवार को 67.24% मतदान"
         }
       },
       {
@@ -78,6 +82,17 @@
         }
       },
       {
+        "link": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "lead": {
+          "en": "Rajya Sabha:",
+          "hi": "राज्यसभा:"
+        },
+        "text": {
+          "en": "Hardeep Puri elected unopposed to Rajya Sabha from Madhya Pradesh",
+          "hi": "हरदीप पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध चुने गए"
+        }
+      },
+      {
         "link": "khunti-crash-night-highways-need-lights-and-speed-checks",
         "lead": {
           "en": "Editorial:",
@@ -89,36 +104,25 @@
         }
       },
       {
-        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "link": "suspension-of-sentence-explained-tejpal-supreme-court",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Law:",
+          "hi": "कानून:"
         },
         "text": {
-          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
-          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
+          "en": "Suspension of sentence explained: why Tarun Tejpal stays in jail while his appeal waits",
+          "hi": "सज़ा का निलंबन क्या है: अपील लंबित रहते तरुण तेजपाल जेल में क्यों रहेंगे"
         }
       },
       {
-        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
-          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
-        }
-      },
-      {
-        "link": "jagan-parishad-polls-selections-naidu-hijacked",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
-          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
+          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
         }
       }
     ]
@@ -186,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+      "id": "khunti-crash-night-highways-need-lights-and-speed-checks",
       "also": []
     },
     "list": [
+      "suspension-of-sentence-explained-tejpal-supreme-court",
+      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
       "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
       "jagan-parishad-polls-selections-naidu-hijacked",
-      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
-      "india-u19-beat-nepal-asia-cup-al-amerat",
-      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
+      "24-hour-rule-explained-article-22-detention-arrest"
     ],
     "also": [
-      "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-      "andhra-parishad-polls-four-voters-two-poll-staff-die"
+      "sonia-gandhi-voter-list-case-additional-documents-november-18",
+      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
     ]
   },
   "startHere": [
@@ -374,15 +378,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+        "sonia-gandhi-voter-list-case-additional-documents-november-18",
         "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
         "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
       ],
-      "lead": "sonia-gandhi-voter-list-case-additional-documents-november-18"
+      "lead": "supreme-court-contempt-notice-kerala-congress-x-post-cji"
     },
     {
       "section": "economy",
-      "lead": "hindalco-q2-profit-59-per-cent-7533-crore-record",
+      "lead": "rupee-93-89-strongest-since-april-fii-record-buying",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,19 +397,19 @@
         ]
       },
       "list": [
+        "hindalco-q2-profit-59-per-cent-7533-crore-record",
         "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-        "joshi-renewable-investment-220-billion-500-gw-2030",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "wall-street-close-dow-1833-nasdaq-correction-chip-rout"
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "joshi-renewable-investment-220-billion-500-gw-2030"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+      "lead": "saini-chowkidar-honorarium-15221-rahul-apology",
       "list": [
-        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance"
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
       ]
     },
     {
@@ -457,8 +461,8 @@
       "list": [
         "india-u19-beat-nepal-asia-cup-al-amerat",
         "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota"
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
       ]
     }
   ],
@@ -643,17 +647,20 @@
       ]
     },
     {
-      "at": "2026-11-06T18:29:46+05:30",
+      "at": "2026-11-06T18:38:35+05:30",
       "ids": [
-        "sonia-gandhi-voter-list-case-additional-documents-november-18",
-        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-        "foreign-investors-return-explained-fii-dii-sensex-rally",
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "rupee-93-89-strongest-since-april-fii-record-buying",
+        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
         "modi-meets-asian-para-games-medallists-delhi",
+        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
         "khunti-crash-night-highways-need-lights-and-speed-checks",
-        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "jagan-parishad-polls-selections-naidu-hijacked"
+        "suspension-of-sentence-explained-tejpal-supreme-court",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
       ]
     }
   ],
