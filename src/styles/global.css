@@ -47,7 +47,8 @@ ul,ol{list-style:none}
 .w{max-width:1280px;margin:0 auto;padding:0 var(--gut)}
 h1,h2,h3,h4,h5{font-family:var(--f-serif);font-weight:700;line-height:1.22;letter-spacing:0;text-wrap:balance}
 :lang(hi) h1,:lang(hi) h2,:lang(hi) h3,:lang(hi) h4{line-height:1.4;letter-spacing:0}
-p,dd,li{text-wrap:pretty}
+p,dd,li{text-wrap:wrap}
+.d-li,.d-must span,.d-fch,.d-q,.d-qi,figcaption{text-wrap:balance}
 .num{font-variant-numeric:tabular-nums}
 .k{font-family:var(--f-head);font-size:12px;font-weight:600;color:var(--ink);margin-bottom:4px;display:block;letter-spacing:.01em}
 .m{font-size:12px;color:var(--ink);margin-top:6px}
@@ -1025,12 +1026,15 @@ footer .fwm{height:48px;color:#fff}
 @media(max-width:1180px){.menu.mh-nav>a,.menu.mh-nav summary{font-size:12px;padding:11px 9px}}
 @media(max-width:980px){.mh-brand{grid-template-columns:1fr;justify-items:center}.mh-wm{grid-column:1;height:50px}}
 @media(max-width:560px){.mh-wm{height:40px}}
-/* the wordmark rises into the top bar, whose rule breaks around it (owner, November 7: no wasted space above the logo) */
+/* desktop masthead (owner, November 8): one row on a single rule. Date, wordmark and the right-hand links all sit centred on the line, which breaks around each of them; no tagline */
 @media(min-width:1081px){
-  .mh-top{position:relative;z-index:0}
-  .mh-brand{padding-top:0;padding-bottom:12px;margin-top:-30px;position:relative;z-index:1;pointer-events:none}
+  .mh-top{position:relative;z-index:0;height:96px;padding:0 var(--gut);border-bottom:0;isolation:isolate}
+  .mh-top::before{content:"";position:absolute;left:var(--gut);right:var(--gut);top:50%;height:1px;background:var(--line);z-index:-1}
+  .mh-date{background:#fff;padding-right:18px}
+  .mh-act{background:#fff;padding-left:18px}
+  .mh-brand{height:96px;margin-top:-96px;padding-top:0;padding-bottom:0;position:relative;z-index:1;pointer-events:none;align-items:center}
   .mh-brand>*{pointer-events:auto}
-  .mh-wm{background:#fff;padding:0 22px;box-sizing:content-box}
-  .mh-tag{align-self:end;margin-bottom:2px}
+  .mh-wm{background:#fff;padding:0 22px;box-sizing:content-box;height:72px}
+  .menu.mh-nav{margin-top:4px}
 }
-@media(min-width:1081px) and (max-width:1240px){.mh-wm{height:58px;padding:0 10px}.mh-brand{margin-top:-26px}}
+@media(min-width:1081px) and (max-width:1240px){.mh-top,.mh-brand{height:80px}.mh-brand{margin-top:-80px}.mh-wm{height:56px;padding:0 14px}}

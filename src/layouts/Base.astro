@@ -190,7 +190,6 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     </div>
     <div class="w mh-brand">
       <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
-      <span class="mh-tag">{lang === 'hi' ? <>भारत और दुनिया,<br />हिंदी और अंग्रेज़ी में</> : <>India and the world,<br />in English and Hindi</>}</span>
     </div>
     <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
       <a href={`${p}/`} class={active === 'home' ? 'on' : undefined} aria-current={active === 'home' ? 'page' : undefined}>{t.home}</a>
@@ -401,6 +400,23 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       document.querySelectorAll('[data-cookie-settings]').forEach(function (a) {
         a.addEventListener('click', function (e) { e.preventDefault(); box.hidden = false; });
       });
+    })();
+  </script>
+  <script is:inline>
+    /* no orphans (owner rule): the last two words of every paragraph and headline stay on one line */
+    (function(){
+      var sel='p,li,dd,h1,h2,h3,h4,.d-li,.d-must span,.d-fch,.d-q,.d-qi,figcaption,blockquote';
+      function glue(el){
+        var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null),n,last=null;
+        while((n=w.nextNode())){if(/\S/.test(n.nodeValue))last=n;}
+        if(!last)return;
+        var v=last.nodeValue.replace(/\s+$/,''),i=v.lastIndexOf(' ');
+        if(i<1){return;}
+        var tail=v.slice(i+1);if(tail.length>14)return;
+        last.nodeValue=v.slice(0,i)+'\u00a0'+tail+last.nodeValue.slice(v.length);
+      }
+      function run(){document.querySelectorAll(sel).forEach(function(el){if(!el.dataset.gl){el.dataset.gl=1;glue(el);}});}
+      if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',run);else run();
     })();
   </script>
 </body>
