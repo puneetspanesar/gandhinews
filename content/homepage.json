@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+    "id": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
     "overlay": {
       "kicker": {
-        "en": "States / Himachal Pradesh",
-        "hi": "राज्य / हिमाचल प्रदेश"
+        "en": "Sports / Tennis",
+        "hi": "खेल / टेनिस"
       },
       "value": {
-        "en": "11,973 MU over 20 years",
-        "hi": "20 साल में 11,973 मिलियन यूनिट"
+        "en": "First Masters 1000 semi-final",
+        "hi": "पहला मास्टर्स 1000 सेमीफाइनल"
       },
       "text": {
         "en": "",
@@ -17,112 +17,110 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-      "sangareddy-pharma-deaths-need-inspections-not-compensation",
-      "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers"
+      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
     ],
     "relatedBeside": [
-      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-      "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-      "joshi-renewable-investment-220-billion-500-gw-2030",
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+      "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+      "amit-shah-presidents-police-colour-uttarakhand-police",
+      "railways-18000-festive-special-trains",
+      "iran-hands-us-nuclear-proposal-seven-demands"
     ],
     "live": {
       "title": {
-        "en": "Himachal Pradesh",
-        "hi": "हिमाचल प्रदेश"
+        "en": "Tennis",
+        "hi": "टेनिस"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "link": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
-          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
+          "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
+          "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
         }
       },
       {
-        "link": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Electronics:",
+          "hi": "इलेक्ट्रॉनिक्स:"
         },
         "text": {
-          "en": "Andhra parishad polls: final turnout rises to 70.72%, Visakhapatnam tops at 82.51%",
-          "hi": "आंध्र परिषद चुनाव: अंतिम मतदान 70.72%, विशाखापत्तनम 82.51% के साथ सबसे आगे"
+          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
+          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
         }
       },
       {
-        "link": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "link": "amit-shah-presidents-police-colour-uttarakhand-police",
         "lead": {
-          "en": "Jammu and Kashmir:",
-          "hi": "जम्मू और कश्मीर:"
+          "en": "Uttarakhand:",
+          "hi": "उत्तराखंड:"
         },
         "text": {
-          "en": "Farooq Abdullah says no one can break the National Conference after meeting upset MLAs",
-          "hi": "नाराज़ विधायकों से मिलने के बाद फ़ारूक़ अब्दुल्ला बोले, नेशनल कॉन्फ़्रेंस को कोई नहीं तोड़ सकता"
+          "en": "Amit Shah hands Uttarakhand Police the President's Colour, promises verdicts within three years",
+          "hi": "अमित शाह ने उत्तराखंड पुलिस को सौंपा राष्ट्रपति निशान, तीन साल में सजा का भरोसा"
         }
       },
       {
-        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
+        "link": "railways-18000-festive-special-trains",
         "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
+          "en": "Railways:",
+          "hi": "रेलवे:"
         },
         "text": {
-          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
-          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
+          "en": "Railways to run about 18,000 festive specials, half as many again as last year, says Vaishnaw",
+          "hi": "त्योहारों में करीब 18,000 स्पेशल ट्रेनें चलाएगा रेलवे, पिछले साल से डेढ़ गुना: वैष्णव"
         }
       },
       {
-        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
+        "link": "iran-hands-us-nuclear-proposal-seven-demands",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
-          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
+          "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
+          "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
         }
       },
       {
-        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
-          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
-        }
-      },
-      {
-        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "lead": {
           "en": "Shooting:",
           "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
-          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
+          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
+          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
         }
       },
       {
-        "link": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+        "link": "rain-industries-q3-profit-243-crore-interim-dividend",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
-          "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
+          "en": "Rain Industries posts ₹243 crore profit for July to September, declares 50 paise dividend",
+          "hi": "रेन इंडस्ट्रीज को जुलाई-सितंबर में ₹243 करोड़ का मुनाफा, 50 पैसे का लाभांश घोषित"
+        }
+      },
+      {
+        "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Santner's New Zealand lose Conway for the series as Henry returns for Wellington ODI",
+          "hi": "सैंटनर की टीम को झटका, कॉनवे पूरी सीरीज़ से बाहर; वेलिंगटन वनडे में हेनरी की वापसी संभव"
         }
       }
     ]
@@ -190,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+      "id": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
       "also": []
     },
     "list": [
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "ugc-equity-rules-revise-them-do-not-bury-them"
+      "rain-industries-q3-profit-243-crore-interim-dividend",
+      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+      "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+      "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
     ],
     "also": [
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "delhi-grap-stage-three-aqi-382-caqm"
+      "saini-chowkidar-honorarium-15221-rahul-apology",
+      "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
     ]
   },
   "startHere": [
@@ -497,10 +495,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
-        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
+        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
+        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
       },
-      "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
     },
     {
       "icon": "calendar-blank",
@@ -509,10 +507,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
-        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
+        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
       },
-      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
     },
     {
       "icon": "calendar-blank",
@@ -539,21 +537,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T17:26:10+05:30",
-      "ids": [
-        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "hindalco-q2-profit-59-per-cent-7533-crore-record",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "ugc-equity-rules-revise-them-do-not-bury-them"
-      ]
-    },
     {
       "at": "2026-11-06T18:38:35+05:30",
       "ids": [
@@ -661,6 +644,21 @@
         "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+      ]
+    },
+    {
+      "at": "2026-11-07T06:54:01+05:30",
+      "ids": [
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "amit-shah-presidents-police-colour-uttarakhand-police",
+        "railways-18000-festive-special-trains",
+        "iran-hands-us-nuclear-proposal-seven-demands",
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "rain-industries-q3-profit-243-crore-interim-dividend",
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
       ]
     }
   ],

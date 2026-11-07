@@ -1,0 +1,13 @@
+{
+ "run": "stall-06",
+ "start": "2026-11-07T06:53:48+05:30",
+ "end": "2026-11-07T07:00:25+05:30",
+ "summary": "Homepage rotated after the overnight gap; stale lead and top story replaced",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+}
