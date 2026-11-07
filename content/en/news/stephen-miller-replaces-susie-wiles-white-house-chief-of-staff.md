@@ -70,6 +70,3 @@ Wiles was the first woman to hold the post and the longest-serving chief of staf
 
 The announcement lands in the first week after an election in which voters punished the president's party in both chambers, with the war with Iran and high fuel prices among the complaints. A Democratic-run House and Senate will now be in a position to question the White House on both. Who will fill the deputy chief of staff job, and whether the Cabinet will change as well, has not been announced.
 
-```photo
-{"n":1,"subject":"Donald Trump","caption":"President Donald Trump announced the change on Friday and praised Wiles' work.","alt":"US President Donald Trump"}
-```

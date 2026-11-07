@@ -76,9 +76,6 @@ Roughly six flights were disrupted on Tuesday and more than two dozen on Thursda
 
 Hungary's Defence Minister Romulusz Ruszin-Szendi said fighter jets escorted airliners from Brussels to Sofia and from Prague to Bucharest and Cyprus through Hungarian airspace. **NATO ordered an air patrol** near the Hungarian-Romanian border, the first reported involvement of the alliance.
 
-```photo
-{"n":1,"subject":"Copenhagen Airport","caption":"Police returned to Copenhagen Airport on Friday after threats against air traffic, though the airport kept operating.","alt":"Copenhagen Airport terminal"}
-```
 
 ## Who is suspected
 

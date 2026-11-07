@@ -73,9 +73,6 @@ His case rests on three points. The notification, he says, was based on the admi
 
 The State argued that it could carry out delimitation even without a recommendation from the Corporation, that the administrator held the Corporation's powers, and that the challenge came late, after the September notification. Advocate General Surajit Nath Mitra appeared for the State. Senior Advocate Bikash Ranjan Bhattacharya argued for the petitioner.
 
-```photo
-{"n":1,"subject":"Kolkata Municipal Corporation","caption":"The Kolkata Municipal Corporation, whose ward boundaries are at the centre of the case.","alt":"The Kolkata Municipal Corporation building"}
-```
 
 ## What happens next
 

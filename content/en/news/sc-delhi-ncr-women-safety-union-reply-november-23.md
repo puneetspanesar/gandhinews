@@ -63,9 +63,6 @@ The Supreme Court on Friday gave the Union government until **November 23** to f
 
 A bench of Justices JB Pardiwala and Manmohan had earlier listed the reply for November 6. Mehta asked for more time and told the court, "We want something that can be replicated in the rest of the country." The bench agreed, but made its expectation plain. "Reply should be meaningful," Justice Pardiwala said. "If the Solicitor General is not satisfied with the reply they have prepared, **the whole exercise will be futile**," he added.
 
-```photo
-{"n":1,"subject":"Tushar Mehta","caption":"Solicitor General Tushar Mehta, who sought more time for the Centre's reply.","alt":"Solicitor General Tushar Mehta"}
-```
 
 ## Time for the amicus
 

@@ -73,8 +73,5 @@ Alcaraz now leads Fritz 7-1 in their meetings. He won Vienna last week and has *
 
 Alcaraz's opponent on Saturday is Casper Ruud, who beat lucky loser Nuno Borges 7-6 (5), 6-4 in one hour 34 minutes. Borges had held all 25 of his service games in the main draw before the match. **Ruud won the tie-break**, saved both break points he faced in the second set and broke once, with his only chance of the match. Alcaraz leads Ruud 6-1 in their meetings.
 
-```photo
-{"n":1,"subject":"Casper Ruud","caption":"Casper Ruud, who beat Nuno Borges in straight sets to set up a semi-final against Alcaraz.","alt":"Casper Ruud (file photo)"}
-```
 
 The other semi-final is between Luca Van Assche and Ben Shelton.

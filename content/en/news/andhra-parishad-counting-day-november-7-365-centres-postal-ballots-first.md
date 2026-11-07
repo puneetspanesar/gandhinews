@@ -83,9 +83,6 @@ State Election Commissioner Anil Chandra Punetha said "elaborate arrangements ha
 
 The run-up has not been calm. The commission ordered fresh polling at seven booths in Anantapur, Kurnool, Srikakulam, Markapuram and Palnadu after reports of booth capturing and destroyed ballot boxes. That repolling on Friday **concluded peacefully**.
 
-```photo
-{"n":1,"subject":"Ballot box","caption":"A ballot box of the kind used in the paper-ballot parishad polls, which are counted by hand.","alt":"A ballot box used in Indian elections"}
-```
 
 ## What comes after the count
 

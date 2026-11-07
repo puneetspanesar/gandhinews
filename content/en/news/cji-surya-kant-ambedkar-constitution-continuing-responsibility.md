@@ -66,9 +66,6 @@ He was speaking as chief guest at the first national conference of the SC, ST & 
 
 Justice Kant began with Ambedkar the advocate, a litigator before he became Law Minister and chairman of the Drafting Committee. He recalled that Ambedkar was **denied water at school**, an exclusion enforced by custom and not by law, and that Ambedkar saw education and legal rights as the way out.
 
-```photo
-{"n":1,"subject":"Bharat Mandapam","caption":"Bharat Mandapam in New Delhi, where the Advocates Association held its first national conference.","alt":"Bharat Mandapam, New Delhi"}
-```
 
 ## The lessons of Mahad
 
