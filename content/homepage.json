@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+    "id": "delhi-grap-stage-three-aqi-382-caqm",
     "overlay": {
       "kicker": {
-        "en": "Sports / Tennis",
-        "hi": "खेल / टेनिस"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "First Masters 1000 semi-final",
-        "hi": "पहला मास्टर्स 1000 सेमीफाइनल"
+        "en": "Delhi AQI 382: GRAP Stage III is back",
+        "hi": "एक्यूआई 382: ग्रैप-3 फिर लागू"
       },
       "text": {
         "en": "",
@@ -26,8 +26,8 @@
     ],
     "live": {
       "title": {
-        "en": "Tennis",
-        "hi": "टेनिस"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
@@ -202,12 +202,12 @@
     ]
   },
   "startHere": [
-    "obc-creamy-layer-explained-parents-salary-supreme-court",
-    "bbmb-power-sharing-explained-himachal-share-supreme-court",
     "foreign-investors-return-explained-fii-dii-sensex-rally",
     "suspension-of-sentence-explained-tejpal-supreme-court",
     "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses"
+    "ugc-equity-regulations-explained-caste-discrimination-campuses",
+    "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+    "fast-track-special-courts-explained-rape-pocso-backlog"
   ],
   "trackers": [
     {
@@ -360,11 +360,11 @@
     }
   ],
   "opinion": [
-    "bail-granted-is-not-freedom-release-the-under-trials",
-    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
     "khunti-crash-night-highways-need-lights-and-speed-checks",
     "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-    "ugc-equity-rules-revise-them-do-not-bury-them"
+    "ugc-equity-rules-revise-them-do-not-bury-them",
+    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
   ],
   "sections": [
     {
@@ -413,8 +413,7 @@
       "lead": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
       "list": [
         "railways-18000-festive-special-trains",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties"
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
       ]
     },
     {
@@ -423,11 +422,7 @@
         "type": "session",
         "session": "monsoon-2026"
       },
-      "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-        "brics-parliamentary-forum-delhi-special-session-talk",
-        "finance-ministry-idbi-2003-parliament-assurance-not-binding"
-      ]
+      "list": []
     }
   ],
   "desks": [
@@ -435,30 +430,22 @@
       "section": "world",
       "lead": "iran-hands-us-nuclear-proposal-seven-demands",
       "list": [
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "us-midterms-schumer-lower-costs-with-or-without-trump",
-        "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-        "us-midterms-democrats-230-house-seats-economy-hegseth-blame"
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
       ]
     },
     {
       "section": "science",
       "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "list": [
-        "apple-app-store-18-plus-dating-ai-companion-apps",
-        "aditya-l1-velc-asymmetric-cme-expansion-iia",
-        "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
-      ]
+      "list": []
     },
     {
       "section": "sports",
       "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
       "list": [
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "india-u19-beat-nepal-asia-cup-al-amerat",
-        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],
@@ -643,9 +630,9 @@
       ]
     },
     {
-      "at": "2026-11-07T07:21:37+05:30",
+      "at": "2026-11-07T07:21:09+05:30",
       "ids": [
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "delhi-grap-stage-three-aqi-382-caqm",
         "navy-receives-amini-anti-submarine-shallow-water-craft",
         "saini-chowkidar-honorarium-15221-rahul-apology",
         "india-forex-reserves-fall-2-69-billion-717-billion-october-30",

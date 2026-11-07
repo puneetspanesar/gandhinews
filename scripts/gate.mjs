@@ -6,6 +6,7 @@
 //   no template junk on any page ({{, &amp;amp;, undefined, NaN, [object Object], Invalid Date)
 //   no em dash, and in English no day-month date, in the title, standfirst or text of anything published in the last 48 hours
 //   the homepage shows its lead, in English and Hindi
+//   no news older than 48 hours linked from the homepages
 //   no text cut off with dots: no line-clamp or ellipsis CSS, no card text ending in ... on the homepages
 // Then writes dist/build.json ({sha, built}) so anyone can see which commit is live.
 import fs from 'node:fs';
@@ -88,6 +89,19 @@ let pages = 0;
     else if (f.name.endsWith('.css') && /line-clamp|text-overflow\s*:\s*ellipsis/.test(read(p))) fail('CSS clips text with dots (line-clamp or text-overflow: ellipsis)', p);
   }
 })('dist');
+// Owner's rule (November 7): nothing older than 48 hours on the homepage (news; explainers, editorials and trackers keep
+// longer). Every news link on the English and Hindi homepages is checked against its story's publish time.
+const PUB = new Map();
+for (const f of fs.readdirSync('content/en/news').filter((x) => x.endsWith('.md'))) { const d = fm(read(`content/en/news/${f}`)); PUB.set(f.slice(0, -3), Date.parse(d.published)); }
+for (const page of ['dist/index.html', 'dist/hi/index.html']) {
+  const seen = new Set();
+  for (const m of (read(page) ?? '').matchAll(/href="([^"]+)"/g)) {
+    const id = m[1].replace(/\/$/, '').split('/').pop();
+    if (!PUB.has(id) || seen.has(id)) continue; seen.add(id);
+    const h = (now - PUB.get(id)) / 3600e3;
+    if (h > 48) fail(`news over 48 hours old on the homepage (${Math.round(h)} hours)`, `${page}: ${id}`);
+  }
+}
 for (const page of ['dist/index.html', 'dist/hi/index.html']) {
   const html = (read(page) ?? '').replace(/<script[\s\S]*?<\/script>/g, '').replace(/<style[\s\S]*?<\/style>/g, '');
   for (const m of html.matchAll(/>([^<>]{0,80}(?:\u2026|\.\.\.))\s*</g)) fail('text cut off with dots on the homepage', `${page}: "${m[1].trim().slice(-60)}"`);

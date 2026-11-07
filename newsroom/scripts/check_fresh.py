@@ -51,8 +51,12 @@ age = lambda i: (now - P[i]['published']).total_seconds() / 3600
 lead = h['lead']['id']
 if lead not in P: flag('lead is not a published story', lead); lead = None
 else:
-    if P[lead]['type'] == 'news' and age(lead) > 8: flag('lead is over 8 hours old', lead, age(lead))
+    # over 8 hours only happens when no fresher national, state, world or economy story with a photo exists (refresh_home.py
+    # always tries those first): recorded as a breach, so an important story never loses to a match result
+    if P[lead]['type'] == 'news' and age(lead) > 16: flag('lead is over 16 hours old', lead, age(lead))
+    elif P[lead]['type'] == 'news' and age(lead) > 8: soft.append(('lead is over 8 hours old: the next writing run must publish a fresh lead story', lead, age(lead)))
     if is_markets(lead, P[lead]): flag('markets story as the lead', lead)
+    if P[lead].get('section') in ('sports', 'science', 'tech'): soft.append((f'a {P[lead].get("section")} story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news)', lead, 0))
     if (M.get(lead) or {}).get('graphic'): soft.append(('lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one', lead, 0))
 
 everything = ids(h, strict=True)
@@ -67,6 +71,10 @@ for name, part in [('live band', h['lead'].get('relatedBelow')), ('beside lead',
 
 for i in ids(h['lead'].get('relatedBeside')):
     if (M.get(i) or {}).get('graphic'): soft.append(('beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first)', i, 0))
+
+for blk in (h.get('sections') or []) + (h.get('desks') or []):
+    for i in ids([blk.get('lead'), blk.get('list')]):
+        if P[i]['type'] == 'news' and age(i) > 48: flag(f"{blk.get('section')} section: over 48 hours old (nothing older than 48 hours anywhere on the homepage)", i, age(i))
 
 heads = []
 ts = h.get('topStories') or {}

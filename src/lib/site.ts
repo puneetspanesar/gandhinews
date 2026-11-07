@@ -213,7 +213,7 @@ export const PER_PAGE = 40;
 
 /** Owner's rule: text is never cut off with dots. Whole sentences up to about `max` characters; the first sentence is
  *  always kept whole, however long. Used wherever a standfirst has to be shorter in a small slot. */
-export function whole(text: unknown, max = 160): string {
+export function whole(text: unknown, max = 100): string {
   const t = String(text ?? '').trim();
   // split only where sentence punctuation is followed by whitespace, so "77.6" or "Rs 1.5" never breaks a sentence
   const parts = t.split(/(?<=[.!?।]["'’”)]*)\s+/).map((s, i, a) => (i < a.length - 1 ? s + ' ' : s));
