@@ -1041,10 +1041,11 @@ footer .fwm{height:48px;color:#fff}
   .mh-lang a,.mh-lang span{font-size:15px}
   .mh-ib{width:40px;height:40px}.mh-ib .ic{width:22px;height:22px}
   .mh-sub{font-size:15px;padding:10px 18px}
+  .mh-lang a,.mh-lang span,.mh-sub{font-family:var(--f-serif);font-weight:700}
 }
 @media(min-width:1081px) and (max-width:1240px){.mh-top,.mh-brand{height:80px}.mh-brand{margin-top:-80px}.mh-wm{height:56px;padding:0 14px}}
 /* reading text in PT Serif, the same family as the headings (owner, November 8). Hindi keeps Noto Sans Devanagari for text; labels, menus and numbers stay in Roboto */
-:lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol,:lang(en) .stand,:lang(en) .kp li,:lang(en) .d-p,:lang(en) .sf,:lang(en) .body blockquote{font-family:var(--f-serif)}
+:lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol,:lang(en) .stand,:lang(en) .kp li,:lang(en) .d-p,:lang(en) .sf,:lang(en) .d-bul,:lang(en) .d-wk dd,:lang(en) .body blockquote{font-family:var(--f-serif)}
 :lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol{font-size:18px;line-height:1.65;color:var(--ink)}
 :lang(en) .kp li{font-size:16px}
 :lang(en) .d-p{font-size:15px}
@@ -1052,3 +1053,4 @@ footer .fwm{height:48px;color:#fff}
 @media(min-width:1081px) and (max-width:1240px){.mh-date{font-size:15px}.mh-lang a,.mh-lang span{font-size:14px}.mh-sub{font-size:14px;padding:8px 14px}}
 .mh-l{display:flex;align-items:center;gap:20px}
 @media(max-width:1080px){.mh-l{gap:14px}}
+:lang(en) .d-bul{font-size:16px;font-weight:400}
