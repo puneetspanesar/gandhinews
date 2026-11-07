@@ -21,7 +21,7 @@ hero:
   need: "Prime Minister Christopher Luxon and Labour leader Chris Hipkins"
   suggested_source: "Christopher Luxon"
   subjects: ["Christopher Luxon", "Chris Hipkins"]
-  alt: "Christopher Luxon and Chris Hipkins, the two main rivals in New Zealand's election (file photos)"
+  alt: "Prime Minister Christopher Luxon (file photo)"
   overlay:
     value: "Luxon v Hipkins, too close to call"
 related: []

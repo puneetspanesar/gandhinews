@@ -31686,12 +31686,12 @@
   "src800": "/photos/o-nz-election-polling-day-luxon-hipkins-polls-close-7pm-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1042,
-  "credit": "Photo: Sekretariat Presiden Republik Indonesia / Wikimedia Commons",
-  "licence": "Public domain",
+  "srcWidth": 1170,
+  "credit": "Photo: New Zealand National Party / Wikimedia Commons",
+  "licence": "CC BY 4.0",
   "alt": "Christopher Luxon (file photo)",
   "alt_hi": "क्रिस्टोफ़र लक्सन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Christopher_Luxon_2024_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:LUXON,_Christopher_-_Botany_(cropped).jpg"
  },
  "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti": {
   "id": "o-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
@@ -31731,5 +31731,100 @@
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg"
+ },
+ "nabi-two-wickets-new-zealand-29-for-3-wellington-second-odi": {
+  "id": "o-nabi-two-wickets-new-zealand-29-for-3-wellington-second-odi",
+  "src": "/photos/o-nabi-two-wickets-new-zealand-29-for-3-wellington-second-odi-1280.jpg",
+  "src800": "/photos/o-nabi-two-wickets-new-zealand-29-for-3-wellington-second-odi-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3665,
+  "credit": "Photo: Tungtap / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Auqib Nabi bowling in a Ranji Trophy match in Shillong (file photo)",
+  "alt_hi": "शिलांग में रणजी ट्रॉफी मैच में गेंदबाजी करते आकिब नबी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Auqib_Nabi_bowling_in_a_Ranji_Trophy_2024-25_match_against_Meghalaya_in_Shillong.jpg"
+ },
+ "who-six-climate-health-actions-1-6-million-lives-cop31": {
+  "id": "o-who-six-climate-health-actions-1-6-million-lives-cop31",
+  "src": "/photos/o-who-six-climate-health-actions-1-6-million-lives-cop31-1280.jpg",
+  "src800": "/photos/o-who-six-climate-health-actions-1-6-million-lives-cop31-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5472,
+  "credit": "Photo: MONUSCO Photos / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "WHO Director-General Tedros Adhanom Ghebreyesus speaking to reporters (file photo)",
+  "alt_hi": "पत्रकारों से बात करते WHO महानिदेशक टेड्रोस अधनोम घेब्रेयसस (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tedros_Adhanom_Ghebreyesus_(44834995345).jpg"
+ },
+ "nz-election-polling-day-luxon-hipkins-polls-close-7pm--p1": {
+  "id": "o-nz-election-polling-day-luxon-hipkins-polls-close-7pm--p1",
+  "src": "/photos/o-nz-election-polling-day-luxon-hipkins-polls-close-7pm--p1-1280.jpg",
+  "src800": "/photos/o-nz-election-polling-day-luxon-hipkins-polls-close-7pm--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4896,
+  "credit": "Photo: Dhantegge / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Chris Hipkins, leader of New Zealand's Labour Party (file photo)",
+  "alt_hi": "न्यूजीलैंड की लेबर पार्टी के नेता क्रिस हिपकिंस (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins_speaking_Sep_26.jpg"
+ },
+ "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast": {
+  "id": "o-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
+  "src": "/photos/o-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-1280.jpg",
+  "src800": "/photos/o-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 1920,
+  "credit": "Photo: NOAA / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Satellite image of thick smog over Delhi and the Indo-Gangetic plain (file image)",
+  "alt_hi": "दिल्ली और सिंधु-गंगा के मैदान पर घने स्मॉग की उपग्रह तस्वीर (फाइल चित्र)",
+  "page": "https://commons.wikimedia.org/wiki/File:Thick_Smog_Blankets_India%E2%80%99s_Capital_City_(NESDIS_2019-11-01_delhi-image).jpg"
+ },
+ "punjab-paddy-procurement-record-150-lmt-kataruchak": {
+  "id": "i-punjab-paddy-procurement-record-150-lmt-kataruchak",
+  "src": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-en-3x2-1280.jpg",
+  "src800": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Punjab's paddy buying hits a record",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पंजाब में धान खरीद का रिकॉर्ड",
+  "page": null,
+  "ihash": "ab9d36be3392",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-3x2-1280.jpg",
+    "src800": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-en-t-1280.jpg",
+    "src800": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-t-1280.jpg",
+    "src800": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-en-1280.jpg",
+    "src800": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-1280.jpg",
+    "src800": "/photos/i-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Lal Chand Kataruchak or a Punjab paddy mandi; library, quick_photo, finder h0710"
  }
 }
