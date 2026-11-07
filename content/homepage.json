@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+    "id": "modi-diwali-greetings-citizens-viksit-bharat",
     "overlay": {
       "kicker": {
-        "en": "Policy / Home Affairs",
-        "hi": "नीति / गृह मंत्रालय"
+        "en": "Politics / Diwali",
+        "hi": "राजनीति / दिवाली"
       },
       "value": {
-        "en": "Shah: drug-free India by 2029",
-        "hi": "शाह: 2029 तक नशामुक्त भारत"
+        "en": "Modi's Diwali message to citizens",
+        "hi": "नागरिकों के नाम मोदी का दिवाली संदेश"
       },
       "text": {
         "en": "",
@@ -16,111 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "labour-codes-centre-states-owe-workers-deadline"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "foreign-investors-return-explained-fii-dii-sensex-rally",
-      "chawri-bazar-building-collapse-toll-six-four-arrested",
-      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
+      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
     ],
     "live": {
       "title": {
-        "en": "Home Affairs",
-        "hi": "गृह मंत्रालय"
+        "en": "Diwali",
+        "hi": "दिवाली"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
-          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
-        }
-      },
-      {
-        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
-          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
-        }
-      },
-      {
-        "link": "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "Over 30 lakh diyas light up Saryu banks as Ayodhya marks 10th Deepotsav",
-          "hi": "10वें दीपोत्सव में सरयू तट पर 30 लाख से ज्यादा दीये जगमगाए"
-        }
-      },
-      {
-        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
-          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
-        }
-      },
-      {
-        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
-          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
+          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
+          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
         }
       },
       {
-        "link": "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "lead": {
-          "en": "Citizenship:",
-          "hi": "नागरिकता:"
+          "en": "SEBI:",
+          "hi": "सेबी:"
         },
         "text": {
-          "en": "Suvendu Adhikari's promise of CAA citizenship for 2.5 lakh Bengal applicants by December 31 is misleading",
-          "hi": "बंगाल के 2.5 लाख सीएए आवेदकों को 31 दिसंबर तक नागरिकता देने का सुवेंदु अधिकारी का वादा भ्रामक"
+          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
+          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
         }
       },
       {
-        "link": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Cheaper cancer drugs on paper are only half the job. From Monday the price cut must reach the patient",
-          "hi": "कागज़ पर सस्ती कैंसर दवाएं आधा काम हैं। सोमवार से कटौती मरीज़ तक पहुंचनी चाहिए"
+          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
+          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
         }
       },
       {
-        "link": "nadda-national-cancer-awareness-day-screening-appeal",
+        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Weather:",
+          "hi": "मौसम:"
         },
         "text": {
-          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
-          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
+          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
+          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
+        }
+      },
+      {
+        "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi ends Diwali eve at AQI 369, with 16 stations in the severe band",
+          "hi": "दिवाली की पूर्व संध्या पर दिल्ली का एक्यूआई 369, 16 स्टेशनों पर हवा गंभीर"
+        }
+      },
+      {
+        "link": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Bosch profit rises 19% to ₹840 crore as board proposes a 1:5 split and 3:1 bonus issue",
+          "hi": "बॉश का मुनाफा 19% बढ़कर ₹840 करोड़, बोर्ड ने 1:5 स्प्लिट और 3:1 बोनस का प्रस्ताव रखा"
+        }
+      },
+      {
+        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
+          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
+        }
+      },
+      {
+        "link": "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "'The Constitution is a continuing responsibility', CJI Surya Kant tells lawyers at Ambedkar conference",
+          "hi": "'संविधान एक सतत जिम्मेदारी है', आंबेडकर सम्मेलन में वकीलों से बोले सीजेआई सूर्यकांत"
         }
       }
     ]
@@ -188,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+      "id": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
       "also": []
     },
     "list": [
-      "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-      "nadda-national-cancer-awareness-day-screening-appeal",
-      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-      "punjab-paddy-procurement-record-150-lmt-kataruchak",
-      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+      "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+      "suvendu-adhikari-caa-citizenship-december-31-nadia",
+      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+      "khunti-crash-night-highways-need-lights-and-speed-checks"
     ],
     "also": [
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
     ]
   },
   "startHere": [
@@ -403,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "lead": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
       "list": [
+        "chawri-bazar-building-collapse-toll-six-four-arrested",
         "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-        "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
-        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears"
+        "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
       ]
     },
     {
@@ -431,11 +429,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+      "lead": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
       "list": [
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
         "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-        "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
-        "nz-election-polling-day-luxon-hipkins-polls-close-7pm"
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
       ]
     },
     {
@@ -449,26 +447,27 @@
     },
     {
       "section": "sports",
-      "lead": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+      "lead": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
       "list": [
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests"
       ]
     }
   ],
   "weekAhead": [
     {
-      "icon": "calendar-check",
+      "icon": "calendar-blank",
       "date": {
         "en": "Today",
         "hi": "आज"
       },
       "text": {
-        "en": "Counting: Andhra Pradesh Mandal and Zilla Parishad (MPTC and ZPTC) elections",
-        "hi": "मतगणना: आंध्र प्रदेश मंडल और जिला परिषद (एमपीटीसी और जेडपीटीसी) चुनाव"
-      }
+        "en": "Rajnath Singh at Sherathang War Memorial, Sikkim, on Diwali",
+        "hi": "दिवाली पर सिक्किम के शेरथांग युद्ध स्मारक में राजनाथ सिंह"
+      },
+      "link": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
     },
     {
       "icon": "calendar-blank",
@@ -477,10 +476,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections",
-        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना"
+        "en": "India A v New Zealand A, 3rd unofficial Test, day two, Lincoln",
+        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, दूसरा दिन, लिंकन"
       },
-      "link": "andhra-parishad-polls-four-voters-two-poll-staff-die"
+      "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one"
     },
     {
       "icon": "calendar-blank",
@@ -489,10 +488,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
-        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
+        "en": "Diwali in Delhi, with severe air forecast for November 8 and 9",
+        "hi": "दिल्ली में दिवाली, 8 और 9 नवंबर को गंभीर हवा का पूर्वानुमान"
       },
-      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+      "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
     },
     {
       "icon": "calendar-blank",
@@ -501,10 +500,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
-        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
+        "en": "Men's U19 Asia Cup: India v Pakistan in Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"
       },
-      "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      "link": "india-u19-beat-nepal-asia-cup-al-amerat"
     },
     {
       "icon": "calendar-blank",
@@ -513,10 +512,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections from 8 am",
-        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना सुबह 8 बजे से"
+        "en": "Men's U19 Asia Cup: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
-      "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
+      "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
     },
     {
       "icon": "calendar-blank",
@@ -525,27 +524,13 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Rajnath Singh at Sherathang War Memorial, Sikkim, on Diwali",
-        "hi": "दिवाली पर सिक्किम के शेरथांग युद्ध स्मारक में राजनाथ सिंह"
+        "en": "Revised MRPs of 137 anti-cancer drugs take effect, trade margins capped at 30%",
+        "hi": "137 कैंसर दवाओं की संशोधित एमआरपी लागू, ट्रेड मार्जिन 30% पर सीमित"
       },
-      "link": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
+      "link": "cancer-drugs-137-revised-prices-november-9-nppa"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T10:41:17+05:30",
-      "ids": [
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-        "punjab-paddy-procurement-record-150-lmt-kataruchak",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "suspension-of-sentence-explained-tejpal-supreme-court"
-      ]
-    },
     {
       "at": "2026-11-07T12:33:44+05:30",
       "ids": [
@@ -647,6 +632,20 @@
         "suvendu-adhikari-caa-citizenship-by-december-31-claim",
         "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
         "nadda-national-cancer-awareness-day-screening-appeal"
+      ]
+    },
+    {
+      "at": "2026-11-08T00:25:58+05:30",
+      "ids": [
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
       ]
     }
   ],

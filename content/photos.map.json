@@ -33005,18 +33005,6 @@
   "alt_hi": "बल्लेबाज़ी करते यशस्वी जायसवाल (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Yashasvi_Jaiswal_2.jpg"
  },
- "up-voter-list-revision-november-12-rinwa-women-young-voters": {
-  "id": "r-up-voter-list-revision-november-12-rinwa-women-young-voters",
-  "src": "/photos/r-up-voter-list-revision-november-12-rinwa-women-young-voters-1280.jpg",
-  "src800": "/photos/r-up-voter-list-revision-november-12-rinwa-women-young-voters-640.jpg",
-  "width": 1280,
-  "height": 720,
-  "credit": "Photo: Mohammad Azahar / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Vidhan Bhawan, the Uttar Pradesh legislature, in Lucknow (file photo)",
-  "alt_hi": "लखनऊ में उत्तर प्रदेश विधानमंडल का विधान भवन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vidhan_Bhawan_Lucknow.jpg"
- },
  "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu": {
   "id": "i-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
   "src": "/photos/i-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-3x2-1280.jpg",
@@ -33070,9 +33058,9 @@
   "licence": "",
   "graphic": true,
   "alt": "Gandhi News graphic: Qatar keeps mediating after Qeshm strikes",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कश्म हमलों के बाद भी कतर की मध्यस्थता जारी",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: क़ेश्म हमलों के बाद भी कतर की मध्यस्थता जारी",
   "page": null,
-  "ihash": "784ac5d2b21a",
+  "ihash": "9ab74bfa3b39",
   "byLang": {
    "hi": {
     "src": "/photos/i-qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm-hi-3x2-1280.jpg",
@@ -33101,7 +33089,7 @@
     "src800": "/photos/i-qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Mohammed bin Abdulrahman Al Thani or Qeshm; library, quick_photo, finder h0800 down"
+  "nophoto": "no correct free photo of Donald Trump (only quick_photo candidate is trump-zelenskyy, a different event with Zelenskyy), Mohammed bin Abdulrahman Al Thani or Qeshm; library downloads and finder h0800 down (GitHub Actions failing)"
  },
  "imd-sunday-rain-south-western-disturbance-november-10-himalaya": {
   "id": "i-imd-sunday-rain-south-western-disturbance-november-10-himalaya",
