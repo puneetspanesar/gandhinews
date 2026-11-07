@@ -1,0 +1,21 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-08T00:04:49+05:30",
+ "end": "2026-11-08T00:40:23+05:30",
+ "summary": "4 new stories, Qatar/Qeshm lead (infographic), nothing held",
+ "new": [
+  "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+  "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+  "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+  "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one: qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+ ],
+ "lead": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+}
