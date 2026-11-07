@@ -1,4 +1,4 @@
-# Long-form run (6:35 am, 12:35 pm and 5:35 pm IST)
+# Long-form run (6:35 am and 5:35 pm IST; the 12:03 pm and 10:03 pm writing runs add an editorial and a fact check)
 
 Read newsroom/RUNBOOK.md first: its rules (A), setup (B), pictures (C), gate (D) and publish (E) are part of this runbook. This run writes explainers, editorials and fact checks, and updates the trackers. It does not write news and does not choose the homepage lead; refresh_home.py picks its pieces up for the explainer and opinion slots.
 
