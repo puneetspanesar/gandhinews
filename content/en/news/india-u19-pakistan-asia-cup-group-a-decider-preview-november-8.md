@@ -35,7 +35,7 @@ infographic:
   source: "Match reports, November 6-7, 2026"
 related: [india-u19-beat-nepal-asia-cup-al-amerat, india-u19-open-asia-cup-nepal-al-amerat-raichandani]
 seo:
-  description: "India U19 face Pakistan U19 in the Asia Cup Group A at Al Amerat, Oman, on November 8, 2026 at 10:30 am IST, both unbeaten after one match."
+  description: "India U19 face Pakistan U19 in the Asia Cup Group A at Al Amerat, Oman, on November 8, 2026, at 10:30 am IST, both unbeaten after one match."
 sources:
   - title: "IND U19 vs PAK U19: Where To Watch India vs Pakistan U19 Asia Cup 2026 Group Match?"
     publisher: "ETV Bharat"

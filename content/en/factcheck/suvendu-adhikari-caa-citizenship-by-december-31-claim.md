@@ -32,7 +32,7 @@ infographic:
     - {icon: calendar-check, value: "4,600+", label: "cases a day needed between November 7 and December 31"}
     - {icon: scales, value: "No limit", label: "time limit for a decision in the CAA rules"}
   compare:
-    left: {title: "What was promised", value: "Dec 31", text: "Hearings done and certificates issued, says the chief minister"}
+    left: {title: "What was promised", value: "December 31", text: "Hearings done and certificates issued, says the chief minister"}
     right: {title: "What the rules say", value: "No deadline", text: "A central Empowered Committee grants citizenship case by case"}
   source: "Citizenship (Amendment) Rules, 2024; chief minister's speeches of November 1 and 6, 2026"
 related: [suvendu-adhikari-caa-citizenship-december-31-nadia]
@@ -54,12 +54,12 @@ sources:
     date: 2024-05-15
     url: "https://newsonair.gov.in/mha-issues-first-set-of-citizenship-certificates-under-caa"
     primary: true
-  - title: "Will expedite hearings, provide citizenship to 2.5 lakh applicants under CAA by Dec 31: Bengal CM"
+  - title: "Will expedite hearings, provide citizenship to 2.5 lakh applicants under CAA by December 31: Bengal CM"
     publisher: "ThePrint (PTI)"
     date: 2026-11-01
     url: "https://theprint.in/india/will-expedite-hearings-provide-citizenship-to-2-5-lakh-applicants-under-caa-by-dec-31-bengal-cm/3087760/"
     primary: false
-  - title: "Eligible CAA applicants to get citizenship by Dec 31: Suvendu"
+  - title: "Eligible CAA applicants to get citizenship by December 31: Suvendu"
     publisher: "ThePrint (PTI)"
     date: 2026-11-06
     url: "https://theprint.in/india/eligible-caa-applicants-to-get-citizenship-by-dec-31-suvendu/3092710/"
@@ -83,12 +83,12 @@ verification:
   status: approved
   notes:
     - "Data and fact-check desk, opinion-and-fact-check run, November 7, 2026. Claim: Adhikari's remarks at Thakurnagar on November 1 (exact words from PTI via ThePrint: 'Only around 25,000 people have received citizenship certificates under the CAA in West Bengal so far'; 'nearly 2.5 lakh petitioners'; 'We will complete the hearings by December 31 and issue citizenship certificates to them') and at Aranghata on November 6 ('All eligible applications under the CAA will be disposed of by December 31', per the desk's earlier news story from PTI). The November 6 ThePrint page was not opened in this run."
-    - "PRIMARY SOURCES: the gazette notification of March 11, 2024 could not be opened (pib.gov.in and mha.gov.in were not readable in this run). The rule text is taken from Legitquest, which reproduces the notification (Rules 11A and 13A; no time limit and no appeal provision found in it), and from PRS Legislative Research, which describes the District Level Committee as headed by the jurisdictional Senior Superintendent or Superintendent of Post and the Empowered Committee as headed by the Director of Census Operations of a state or UT. Both should be checked against the gazette."
+    - "PRIMARY SOURCES: the gazette notification of March 11, 2024, could not be opened (pib.gov.in and mha.gov.in were not readable in this run). The rule text is taken from Legitquest, which reproduces the notification (Rules 11A and 13A; no time limit and no appeal provision found in it), and from PRS Legislative Research, which describes the District Level Committee as headed by the jurisdictional Senior Superintendent or Superintendent of Post and the Empowered Committee as headed by the Director of Census Operations of a state or UT. Both should be checked against the gazette."
     - "News On AIR (a government broadcaster's page) carries the MHA release of May 15, 2024: rules notified March 11, 2024; 14 certificates handed over by the Home Secretary."
     - "No Centre notification naming sub-divisional officers as Designated Officers or as members of the Bengal committees was found. Adhikari says SDOs will hold hearings (desk's news story); that is not checked and is not rated."
-    - "MHA's own figures: none published. Home Minister Amit Shah said in May 2024 that over 25,000 applications had been received (an interview, reported by Scroll; the interview was not opened). MoS Nityanand Rai told the Rajya Sabha on April 2, 2025 that 'thousands' had been granted, without a number. NE Now reports MHA declined an RTI request in September 2024 and told the Central Information Commission on July 9, 2025 that the data was 'not being maintained as desired'. These rest on Scroll and NE Now; Parliament records were not opened. No 2026 reply or annual report figure was found."
+    - "MHA's own figures: none published. Home Minister Amit Shah said in May 2024 that over 25,000 applications had been received (an interview, reported by Scroll; the interview was not opened). MoS Nityanand Rai told the Rajya Sabha on April 2, 2025, that 'thousands' had been granted, without a number. NE Now reports MHA declined an RTI request in September 2024 and told the Central Information Commission on July 9, 2025, that the data was 'not being maintained as desired'. These rest on Scroll and NE Now; Parliament records were not opened. No 2026 reply or annual report figure was found."
     - "Adhikari's 25,000 (certificates in Bengal) and 2.5 lakh (applicants in Nadia and North 24 Parganas, per the November 6 report) could not be checked against any official count. Reports vary between 'applications' and 'petitioners'."
-    - "Arithmetic: November 7 to December 31, 2026 is 54 days; 250,000 / 54 = about 4,630 a day. First certificates were handed over on May 15, 2024, 29 months before November 1, 2026."
+    - "Arithmetic: November 7 to December 31, 2026, is 54 days; 250,000 / 54 = about 4,630 a day. First certificates were handed over on May 15, 2024, 29 months before November 1, 2026."
     - "Verdict Misleading, not False: the chief minister is promising a future event, so it cannot be proved wrong today. It misleads because it presents as the state's to deliver a decision the rules give to a central committee with no time limit, with no published data to show the pace is possible. If the Centre notifies a new procedure or the committees clear the backlog, this rating will be revisited."
 ---
 
@@ -116,7 +116,7 @@ The text of the rules contains **no deadline** for verification, scrutiny or a d
 From November 7 to December 31 is 54 days. Clearing 2.5 lakh cases in that time means **over 4,600 a day**, every day, including holidays. The first CAA certificates were handed over to 14 people on May 15, 2024. By the chief minister's own count, about 25,000 people had received certificates in Bengal by November 1, 2026, nearly two and a half years later. Neither figure can be tested, because the next section applies.
 
 ```timeline
-{"title":"The CAA in Bengal, from rules to the December 31 promise","items":[{"date":"Mar 11, 2024","text":"The Centre notifies the Citizenship (Amendment) Rules, 2024"},{"date":"May 15, 2024","text":"Home Secretary hands the first 14 certificates to applicants in New Delhi"},{"date":"May 29, 2024","text":"Grants begin in West Bengal, Haryana and Uttarakhand through state Empowered Committees"},{"date":"Nov 1, 2026","text":"Adhikari says about 25,000 have received certificates in Bengal and promises hearings by December 31"},{"date":"Nov 6, 2026","text":"At Aranghata he repeats that all eligible applications will be disposed of by December 31"}]}
+{"title":"The CAA in Bengal, from rules to the December 31 promise","items":[{"date":"March 11, 2024","text":"The Centre notifies the Citizenship (Amendment) Rules, 2024"},{"date":"May 15, 2024","text":"Home Secretary hands the first 14 certificates to applicants in New Delhi"},{"date":"May 29, 2024","text":"Grants begin in West Bengal, Haryana and Uttarakhand through state Empowered Committees"},{"date":"November 1, 2026","text":"Adhikari says about 25,000 have received certificates in Bengal and promises hearings by December 31"},{"date":"November 6, 2026","text":"At Aranghata he repeats that all eligible applications will be disposed of by December 31"}]}
 ```
 
 ### 4. The Home Ministry has published no count

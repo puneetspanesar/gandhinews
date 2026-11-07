@@ -1,0 +1,33 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-07T22:04:06+05:30",
+ "end": "2026-11-07T22:45:28+05:30",
+ "summary": "8 new pieces, nothing held; finder down (GitHub Actions), seven infographics",
+ "new": [
+  "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+  "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+  "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+  "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+  "chawri-bazar-building-collapse-toll-six-four-arrested",
+  "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+  "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+  "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+   "why": "English dates are abbreviated, breaking rule 14: the timeline block reads 'Mar 11, 2024', 'May 15, 2024', 'May 29, 2024', 'Nov 1, 2026', 'Nov 6, 2026', and the cover and compare box show 'Dec 31'. Also, the review sheet for this story is broken. list.txt points to content/en/news/ and content/hi/news/suvendu-adhikari-caa-citizenship-by-december-31-claim.md, which do not exist (the files are in content/en/factcheck/ and content/hi/factcheck/), so story-07.jpg shows the slug as its headline with no section or time.",
+   "done": "Spelled out every English date (March 11, 2024; May 15, 2024; May 29, 2024; November 1 and 6, 2026; December 31) and re-rendered the infographic cover."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): chawri-bazar-building-collapse-toll-six-four-arrested",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
+ ],
+ "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029"
+}

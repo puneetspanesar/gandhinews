@@ -58,7 +58,7 @@ verification:
 
 Air strikes on a farming village near Yemen's capital killed **25 people and wounded 30** on Saturday, most of them women and children, according to the Houthi-run health ministry. The Houthis blamed Saudi Arabia. Riyadh has not commented, and the casualty figures could not be independently confirmed.
 
-The strikes hit homes in al-Shariya, in the Bani Hushaysh district about 15 km north-east of Sanaa, which is held by the Iran-backed Houthi movement. The group's television channel, al-Masirah, had earlier put the toll at 22 dead and 30 injured.
+The strikes hit homes in al-Shariya, in the Bani Hushaysh district about 15 km north-east of Sanaa, which is held by the Iran-backed Houthi movement. Houthi-run media had earlier put the toll at 22 dead and 30 injured.
 
 Anees Alasbahi, the health ministry's spokesman, said civilians were still trapped under rubble. He said **later strikes targeted emergency workers** who were pulling survivors out. The Houthis said Saudi jets or the Saudi-led coalition carried out the attacks. The coalition has said in the past that its air strikes target Houthi military infrastructure.
 

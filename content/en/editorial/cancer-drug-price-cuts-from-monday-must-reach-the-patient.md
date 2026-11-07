@@ -95,5 +95,5 @@ The Supreme Court bench of Justices Vikram Nath and Sandeep Mehta asked the righ
 The Centre should go back to the court with a **dated plan** for the other medicines and devices where mark-ups run this high, starting with those on the essential list. It has shown, with 137 drugs, that the method works. The next step is to show that it does not need a court to prompt it each time.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"137","label":"non-scheduled anti-cancer drugs under the NPPA's October 17, 2026 margin cap"},{"value":"30%","label":"cap on trade margin as a share of MRP, in force from November 9"},{"value":"643","label":"revised brand entries on the NPPA's latest list, with data up to October 28"}]}
+{"title":"The reporting behind this view","items":[{"value":"137","label":"non-scheduled anti-cancer drugs under the NPPA's October 17, 2026, margin cap"},{"value":"30%","label":"cap on trade margin as a share of MRP, in force from November 9"},{"value":"643","label":"revised brand entries on the NPPA's latest list, with data up to October 28"}]}
 ```

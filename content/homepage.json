@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+    "id": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
     "overlay": {
       "kicker": {
-        "en": "States / West Bengal",
-        "hi": "राज्य / पश्चिम बंगाल"
+        "en": "Policy / Home Affairs",
+        "hi": "नीति / गृह मंत्रालय"
       },
       "value": {
-        "en": "'Ajay Nanda should resign'",
-        "hi": "'अजय नंदा इस्तीफा दें'"
+        "en": "Shah: drug-free India by 2029",
+        "hi": "शाह: 2029 तक नशामुक्त भारत"
       },
       "text": {
         "en": "",
@@ -17,112 +17,110 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
+      "labour-codes-centre-states-owe-workers-deadline"
     ],
     "relatedBeside": [
-      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-      "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-      "sc-delhi-ncr-women-safety-union-reply-november-23",
-      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
+      "foreign-investors-return-explained-fii-dii-sensex-rally",
+      "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
     ],
     "live": {
       "title": {
-        "en": "West Bengal",
-        "hi": "पश्चिम बंगाल"
+        "en": "Home Affairs",
+        "hi": "गृह मंत्रालय"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
+          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
+        }
+      },
+      {
+        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
+          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
+        }
+      },
+      {
+        "link": "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "Over 30 lakh diyas light up Saryu banks as Ayodhya marks 10th Deepotsav",
+          "hi": "10वें दीपोत्सव में सरयू तट पर 30 लाख से ज्यादा दीये जगमगाए"
+        }
+      },
+      {
+        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
+          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
+        }
+      },
+      {
+        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
-          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
+          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
+          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
         }
       },
       {
-        "link": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+        "link": "suvendu-adhikari-caa-citizenship-by-december-31-claim",
         "lead": {
-          "en": "Deepotsav:",
-          "hi": "दीपोत्सव:"
+          "en": "Citizenship:",
+          "hi": "नागरिकता:"
         },
         "text": {
-          "en": "Vice-President Radhakrishnan in Ayodhya for 10th Deepotsav, to pray at Ram temple",
-          "hi": "उपराष्ट्रपति राधाकृष्णन 10वें दीपोत्सव के लिए अयोध्या में, राम मंदिर में करेंगे पूजा"
+          "en": "Suvendu Adhikari's promise of CAA citizenship for 2.5 lakh Bengal applicants by December 31 is misleading",
+          "hi": "बंगाल के 2.5 लाख सीएए आवेदकों को 31 दिसंबर तक नागरिकता देने का सुवेंदु अधिकारी का वादा भ्रामक"
         }
       },
       {
-        "link": "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court gives Centre till November 23 for a 'meaningful' reply on Delhi-NCR women's safety",
-          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर सुप्रीम कोर्ट ने केंद्र को 'सार्थक' जवाब के लिए 23 नवंबर तक का समय दिया"
-        }
-      },
-      {
-        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
-          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
-        }
-      },
-      {
-        "link": "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+        "link": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Counting rice every Friday will not cool prices on its own. The Centre must put its cheap grain on southern shelves, and show what the count finds",
-          "hi": "हर शुक्रवार चावल गिनने से अपने आप दाम नहीं घटेंगे। केंद्र अपना सस्ता अनाज दक्षिण की दुकानों तक पहुंचाए और बताए कि गिनती में क्या मिला"
+          "en": "Cheaper cancer drugs on paper are only half the job. From Monday the price cut must reach the patient",
+          "hi": "कागज़ पर सस्ती कैंसर दवाएं आधा काम हैं। सोमवार से कटौती मरीज़ तक पहुंचनी चाहिए"
         }
       },
       {
-        "link": "cancer-drugs-137-revised-prices-november-9-nppa",
+        "link": "nadda-national-cancer-awareness-day-screening-appeal",
         "lead": {
           "en": "Health:",
           "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Revised prices of 137 anti-cancer drugs take effect on Monday, with margins capped at 30%",
-          "hi": "137 कैंसर दवाओं की संशोधित कीमतें सोमवार से लागू, मार्जिन की सीमा 30%"
-        }
-      },
-      {
-        "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "Satellites find Istanbul landfill leaking 7.4 tonnes of methane an hour as COP31 nears",
-          "hi": "कॉप31 से पहले उपग्रहों ने पकड़ा: इस्तांबुल के कूड़ाघर से हर घंटे 7.4 टन मीथेन का रिसाव"
-        }
-      },
-      {
-        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
-          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
+          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
+          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
         }
       }
     ]
@@ -190,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "cancer-drugs-137-revised-prices-november-9-nppa",
+      "id": "suvendu-adhikari-caa-citizenship-by-december-31-claim",
       "also": []
     },
     "list": [
-      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
-      "bail-granted-is-not-freedom-release-the-under-trials"
+      "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+      "nadda-national-cancer-awareness-day-screening-appeal",
+      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+      "punjab-paddy-procurement-record-150-lmt-kataruchak",
+      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
     ],
     "also": [
-      "khunti-crash-night-highways-need-lights-and-speed-checks",
-      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+      "suspension-of-sentence-explained-tejpal-supreme-court",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
     ]
   },
   "startHere": [
@@ -281,9 +279,9 @@
   },
   "factCheck": {
     "cards": [
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
       "railways-18000-festive-specials-trips-claim",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
-      "eci-form-6-press-note-taken-down-claim"
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
     ]
   },
   "explained": [
@@ -364,11 +362,11 @@
     }
   ],
   "opinion": [
+    "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
     "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
     "bail-granted-is-not-freedom-release-the-under-trials",
     "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-    "khunti-crash-night-highways-need-lights-and-speed-checks",
-    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
+    "khunti-crash-night-highways-need-lights-and-speed-checks"
   ],
   "sections": [
     {
@@ -405,20 +403,20 @@
     },
     {
       "section": "states",
-      "lead": "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+      "lead": "chawri-bazar-building-collapse-toll-six-four-arrested",
       "list": [
-        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-        "wb-suvendu-police-attacks-asansol-recruitment-29000",
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+        "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears"
       ]
     },
     {
       "section": "policy",
-      "lead": "cancer-drugs-137-revised-prices-november-9-nppa",
+      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
       "list": [
+        "cancer-drugs-137-revised-prices-november-9-nppa",
         "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
-        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
       ]
     },
     {
@@ -433,11 +431,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+      "lead": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
       "list": [
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
         "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
-        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-        "europe-bomb-threat-wave-flights-broadcasters-third-day"
+        "nz-election-polling-day-luxon-hipkins-polls-close-7pm"
       ]
     },
     {
@@ -451,12 +449,12 @@
     },
     {
       "section": "sports",
-      "lead": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+      "lead": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
       "list": [
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
         "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
       ]
     }
   ],
@@ -534,20 +532,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T08:47:29+05:30",
-      "ids": [
-        "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
-      ]
-    },
     {
       "at": "2026-11-07T10:41:17+05:30",
       "ids": [
@@ -648,6 +632,21 @@
         "cancer-drugs-137-revised-prices-november-9-nppa",
         "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
+      ]
+    },
+    {
+      "at": "2026-11-07T22:43:07+05:30",
+      "ids": [
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+        "labour-codes-centre-states-owe-workers-deadline",
+        "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+        "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+        "nadda-national-cancer-awareness-day-screening-appeal"
       ]
     }
   ],
