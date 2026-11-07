@@ -30,6 +30,7 @@ End with a compact list: `slug | section | lead/brief | one-line` for every stor
 
 ## Main picture (the desk does this before handing back)
 For each story, in order, and stop at the first that works:
+0. A government event of the last few days (minister, PM, President, official launch, visit, meeting): the event's own PIB photo. `cd /home/claude/gandhinews && python3 newsroom/scripts/pib_photo.py find <story-id-short> "<name place>"`, Read the sheet.jpg it prints, then `python3 newsroom/scripts/one_photo.py <story-id> /home/claude/gn-work/pib<story-id-short> q1 <n> "<English alt>" "<Hindi alt>"`. Alt names who and where, with no "(file photo)" because it is from the event. Never DD News, ANI, PTI or any outlet's photos.
 1. The person the story is about is in the people library: `cd /home/claude/gandhinews && python3 newsroom/scripts/one_photo.py <story-id> --person "<name as in newsroom/library/people.json>"`. Check the list of names with `python3 -c "import json;print(sorted(v['en'] for v in json.load(open('/home/claude/gandhinews/newsroom/library/people.json')).values()))"`.
 2. `python3 newsroom/scripts/quick_photo.py <story-id> "<person or place>" --list`, look at the candidates, then `--pick <photo-id>`.
 3. Neither works: leave it, and say in your reply which person, place or event the picture must show. The run does one finder call for all desks.

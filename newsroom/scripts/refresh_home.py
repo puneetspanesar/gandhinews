@@ -117,7 +117,7 @@ fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() 
 # Owner's rule (November 7): a match result or a science story never leads by itself; only the run's front-page check
 # can put one up there (--lead, a BIG STORY such as an India World Cup win). The lead is national, state, world or economy news.
 NOLEAD = {'sports', 'science', 'tech'}
-lead_ok = lambda d: fresh_photo(d) and d.get('section') not in NOLEAD
+lead_ok = lambda d: fresh_photo(d) and d.get('section') not in NOLEAD and (PIC.get(d['id'], {}).get('srcWidth') or 9999) >= 900  # a small photo never fills the lead
 bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.

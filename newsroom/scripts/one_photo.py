@@ -47,6 +47,7 @@ def why_not(c):
     lic = str(c.get('licence') or '')
     if re.search(r'\b(nc|nd)\b', lic.lower().replace('godl-india', '')): return f'licence {lic} is not allowed'
     minw = 560 if 'crop' in c and not c.get('crop') else 900   # a checked library headshot reads well from 560 px
+    if c.get('source') == 'pib': minw = 600                       # PIB event photos: usually about 600 px
     if c.get('crop'): minw = 900 / c['crop'][2]                   # a crop must itself be 900 px wide
     if (c.get('width') or 0) < minw: return f'{c.get("width")} px wide: too small for a main picture'
     if fileof(c['url']) in BL or fileof(c['url']).replace(' ', '_') in BL: return f'{fileof(c["url"])} is on the blocklist'
@@ -61,15 +62,20 @@ if not c: sys.exit('no usable photo: ' + '; '.join(r for _, r in reasons))
 lic = str(c.get('licence') or '')
 pid = f'o-{sid}'[:90]  # o- = one_photo; x-, v-, c-, i-, r- belong to other tools
 credit = clean_credit(c.get('author') or '') or 'Wikimedia Commons contributor'
+CREDIT = 'Photo: PIB' if c.get('source') == 'pib' else f'Photo: {credit} / Wikimedia Commons'
 # the story's old main picture entries go, so check:photos does not count a picture the story no longer shows
 main_of = lambda aid: str(aid).replace('part:', '').split(':')[0]
-P = [p for p in P if p['id'] != pid and main_of(p.get('articleId')) != sid] + [{'id': pid, 'articleId': sid, 'sourceUrl': c['url'], 'credit': f'Photo: {credit} / Wikimedia Commons',
+P = [p for p in P if p['id'] != pid and main_of(p.get('articleId')) != sid] + [{'id': pid, 'articleId': sid, 'sourceUrl': c['url'], 'credit': CREDIT,
      'licence': lic, 'alt': alt, 'alt_hi': alt_hi, 'page': c['page']}]
 json.dump(P, open('content/photos.json', 'w'), ensure_ascii=False, indent=1); open('content/photos.json', 'a').write('\n')
 tag = re.sub(r'[^a-z0-9]', '', sid)[:12] + now.strftime('%H%M')
-r = subprocess.run([sys.executable, 'newsroom/scripts/photos_gh.py', 'download', tag, pid], capture_output=True, text=True)
-print(r.stdout.strip(), r.stderr.strip())
 raw = f'{W}raw-{tag}/{pid}.jpg'
+if c.get('source') == 'pib':   # PIB is reachable directly: no GitHub workflow needed
+    import urllib.request; os.makedirs(os.path.dirname(raw), exist_ok=True)
+    open(raw, 'wb').write(urllib.request.urlopen(urllib.request.Request(c['url'], headers={'User-Agent': 'Mozilla/5.0 (gandhinews photo desk)'}), timeout=60).read())
+else:
+    r = subprocess.run([sys.executable, 'newsroom/scripts/photos_gh.py', 'download', tag, pid], capture_output=True, text=True)
+    print(r.stdout.strip(), r.stderr.strip())
 if not os.path.exists(raw): sys.exit('download failed; photos.json entry left in place, run again')
 im = Image.open(raw).convert('RGB')
 if c.get('crop'):   # library portraits from big official photos: the crop around the face, worked out when the library was built
@@ -89,6 +95,6 @@ for w, sfx in ((1280, '1280'), (640, '640')):
     x = im.copy(); x.thumbnail((w, w * 2)); x.save(f'public/photos/{pid}-{sfx}.jpg', quality=82, optimize=True, progressive=True)
 h = round(im.height * 1280 / im.width)
 M[sid] = {'id': pid, 'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'width': 1280, 'height': h,
-          'credit': f'Photo: {credit} / Wikimedia Commons', 'licence': lic, 'alt': alt, 'alt_hi': alt_hi, 'page': c['page']}
+          'srcWidth': im.width, 'credit': CREDIT, 'licence': lic, 'alt': alt, 'alt_hi': alt_hi, 'page': c['page']}
 json.dump(M, open('content/photos.map.json', 'w'), ensure_ascii=False, indent=1); open('content/photos.map.json', 'a').write('\n')
 print(f'{sid}: {alt} ({credit}, {lic}) {M[sid]["src"]}')
