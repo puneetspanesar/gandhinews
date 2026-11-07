@@ -6,7 +6,7 @@ section: states
 format_label: "States / Andhra Pradesh"
 topics: []
 title: "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far"
-standfirst: "By about 1:40 pm the alliance had won 78 of the first 140 ZPTC seats declared and 1,918 of 2,037 MPTC seats, with the TDP also taking Pulivendula, a YSRCP stronghold."
+standfirst: "By about 1:40 pm the alliance had won 78 ZPTC seats and led in 54 of the 140 with results or trends, and won 1,918 of 2,037 MPTC seats declared, with the TDP also taking Pulivendula, a YSRCP stronghold."
 published: 2026-11-07T14:08:00+05:30
 location: Amaravati
 keyPoints:
@@ -32,7 +32,7 @@ infographic:
   source: "Andhra Pradesh counting tallies, November 7, 2026, 1:40 pm"
 related: [andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
 seo:
-  description: "By about 1:40 pm on November 7, 2026 the TDP-Jana Sena-BJP alliance had won 78 ZPTC and 1,918 MPTC seats in Andhra Pradesh, with the YSRCP far behind."
+  description: "By about 1:40 pm on November 7, 2026, the TDP-Jana Sena-BJP alliance had won 78 ZPTC and 1,918 MPTC seats in Andhra Pradesh, with the YSRCP far behind."
 sources:
   - title: "AP ZPTC, MPTC results: Kootami leading (Telugu live tallies, modified 1:40 pm)"
     publisher: "Ap7am"
@@ -61,7 +61,7 @@ verification:
 
 The alliance of the **TDP, Jana Sena and BJP was well ahead** in Andhra Pradesh's mandal and zilla parishad count on Saturday afternoon, while the YSRCP, which swept the same polls in 2021, had won a single zilla parishad seat.
 
-By about 1:40 pm, results were in for 140 of the 659 ZPTC seats. The alliance had **won 78 and was leading in 54 more**. The YSRCP had won one and was ahead in seven. For the 9,821 MPTC seats, 2,037 had been declared, of which the alliance had **won 1,918**, the YSRCP 87 and others 32.
+By about 1:40 pm, results or trends were in for 140 of the 659 ZPTC seats. The alliance had **won 78 and was leading in 54 more**. The YSRCP had won one and was ahead in seven. For the 9,821 MPTC seats, 2,037 had been declared, of which the alliance had **won 1,918**, the YSRCP 87 and others 32.
 
 ## How much of this is new
 

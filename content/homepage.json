@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+    "id": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
     "overlay": {
       "kicker": {
-        "en": "Policy / Defence",
-        "hi": "नीति / रक्षा"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "Diwali with the Army in north Bengal",
-        "hi": "उत्तर बंगाल में सेना के साथ दिवाली"
+        "en": "Alliance sweeps early count",
+        "hi": "शुरुआती गिनती में गठबंधन आगे"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "modi-diwali-greetings-citizens-viksit-bharat",
-      "who-six-climate-health-actions-1-6-million-lives-cop31",
-      "rupee-93-89-strongest-since-april-fii-record-buying",
-      "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
+      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "sc-delhi-ncr-women-safety-union-reply-november-23",
+      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
     ],
     "live": {
       "title": {
-        "en": "Defence",
-        "hi": "रक्षा"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "modi-diwali-greetings-citizens-viksit-bharat",
+        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "lead": {
-          "en": "Diwali:",
-          "hi": "दिवाली:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
-          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
+          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
+          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
         }
       },
       {
-        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
+          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
+        }
+      },
+      {
+        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "lead": {
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
+        },
+        "text": {
+          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
+          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
+        }
+      },
+      {
+        "link": "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court gives Centre till November 23 for a 'meaningful' reply on Delhi-NCR women's safety",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर सुप्रीम कोर्ट ने केंद्र को 'सार्थक' जवाब के लिए 23 नवंबर तक का समय दिया"
+        }
+      },
+      {
+        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
+        }
+      },
+      {
+        "link": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+        "lead": {
+          "en": "Deepotsav:",
+          "hi": "दीपोत्सव:"
+        },
+        "text": {
+          "en": "Vice-President Radhakrishnan in Ayodhya for 10th Deepotsav, to pray at Ram temple",
+          "hi": "उपराष्ट्रपति राधाकृष्णन 10वें दीपोत्सव के लिए अयोध्या में, राम मंदिर में करेंगे पूजा"
+        }
+      },
+      {
+        "link": "nadda-national-cancer-awareness-day-screening-appeal",
         "lead": {
           "en": "Health:",
           "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
-          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
+          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
+          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
         }
       },
       {
-        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
+        "link": "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
-          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
-        }
-      },
-      {
-        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
-        },
-        "text": {
-          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
-          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
-        }
-      },
-      {
-        "link": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "lead": {
-          "en": "Jammu and Kashmir:",
-          "hi": "जम्मू और कश्मीर:"
-        },
-        "text": {
-          "en": "Farooq Abdullah says no one can break the National Conference after meeting upset MLAs",
-          "hi": "नाराज़ विधायकों से मिलने के बाद फ़ारूक़ अब्दुल्ला बोले, नेशनल कॉन्फ़्रेंस को कोई नहीं तोड़ सकता"
-        }
-      },
-      {
-        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
-          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
-        }
-      },
-      {
-        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
-        "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
-        },
-        "text": {
-          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
-          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
-        }
-      },
-      {
-        "link": "bail-granted-is-not-freedom-release-the-under-trials",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Bail that never opens a cell door is no bail at all. Uttar Pradesh must free the 106 still waiting, and stop the next 264",
-          "hi": "जो जमानत जेल का दरवाज़ा न खोले, वह जमानत नहीं। उत्तर प्रदेश इंतज़ार कर रहे 106 लोगों को रिहा करे और अगले 264 को रोके"
+          "en": "Rajnath Singh meets Air Warriors at Bagdogra, calls morale 'the greatest weapon'",
+          "hi": "राजनाथ सिंह बागडोगरा में एयर वॉरियर्स से मिले, बोले मनोबल सबसे बड़ा हथियार"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+      "id": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
       "also": []
     },
     "list": [
-      "jharkhand-khunti-trailer-crowd-seven-killed",
-      "bail-granted-is-not-freedom-release-the-under-trials",
-      "railways-18000-festive-specials-trips-claim",
-      "khunti-crash-night-highways-need-lights-and-speed-checks",
-      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
+      "nadda-national-cancer-awareness-day-screening-appeal",
+      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+      "suvendu-adhikari-caa-citizenship-december-31-nadia",
+      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
+      "fox-completes-22-billion-roku-acquisition"
     ],
     "also": [
-      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-      "semicon-india-2-portal-vaishnaw-12-ecms-projects"
+      "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
     ]
   },
   "startHere": [
@@ -382,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "lead": "fox-completes-22-billion-roku-acquisition",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,28 +393,28 @@
         ]
       },
       "list": [
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
         "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "rain-industries-q3-profit-243-crore-interim-dividend",
-        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
+        "rain-industries-q3-profit-243-crore-interim-dividend"
       ]
     },
     {
       "section": "states",
-      "lead": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "lead": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
       "list": [
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan"
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "amit-shah-presidents-police-colour-uttarakhand-police"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+      "lead": "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
       "list": [
-        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-        "railways-18000-festive-special-trains",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
+        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam"
       ]
     },
     {
@@ -438,19 +438,20 @@
     },
     {
       "section": "science",
-      "lead": "who-six-climate-health-actions-1-6-million-lives-cop31",
+      "lead": "nadda-national-cancer-awareness-day-screening-appeal",
       "list": [
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
         "navy-receives-amini-anti-submarine-shallow-water-craft"
       ]
     },
     {
       "section": "sports",
-      "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+      "lead": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
       "list": [
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
       ]
     }
   ],
@@ -528,20 +529,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T22:56:43+05:30",
-      "ids": [
-        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-        "delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza",
-        "24-hour-rule-explained-article-22-detention-arrest"
-      ]
-    },
     {
       "at": "2026-11-07T00:43:35+05:30",
       "ids": [
@@ -648,6 +635,20 @@
         "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "jharkhand-khunti-trailer-crowd-seven-killed",
         "bail-granted-is-not-freedom-release-the-under-trials"
+      ]
+    },
+    {
+      "at": "2026-11-07T14:38:30+05:30",
+      "ids": [
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+        "nadda-national-cancer-awareness-day-screening-appeal",
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
       ]
     }
   ],

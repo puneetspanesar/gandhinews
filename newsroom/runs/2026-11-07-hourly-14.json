@@ -1,0 +1,29 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-07T14:03:58+05:30",
+ "end": "2026-11-07T14:41:00+05:30",
+ "summary": "7 stories, Andhra parishad count lead, NZ election held",
+ "new": [
+  "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+  "fox-completes-22-billion-roku-acquisition",
+  "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
+  "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+  "nadda-national-cancer-awareness-day-screening-appeal",
+  "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+  "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+ ],
+ "held": [
+  "nz-election-too-close-to-call-opportunity-kingmaker"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+   "why": "Standfirst says the alliance 'won 78 of the first 140 ZPTC seats declared' and the body says 'results were in for 140 of the 659 ZPTC seats', yet the same paragraph (and the notes: 'ZPTC 140 of 659 counted') shows 61 of those 140 are only leads (alliance 54, YSRCP 7); just 79 are declared. The figur",
+   "done": "Standfirst and body (EN and HI) now say 140 ZPTC seats with results or trends: alliance won 78 and leads 54; YSRCP won 1, leads 7. Key points, infographic and SEO already said won 78, leading 54."
+  }
+ ],
+ "breaches": [],
+ "lead": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm"
+}

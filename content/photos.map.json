@@ -31983,27 +31983,227 @@
   "nophoto": "no free photo of Gurnoor Brar or Daryl Mitchell; library, quick_photo, finder h0712"
  },
  "nz-election-too-close-to-call-opportunity-kingmaker": {
-  "id": "r-nz-election-too-close-to-call-opportunity-kingmaker",
-  "src": "/photos/r-nz-election-too-close-to-call-opportunity-kingmaker-1280.jpg",
-  "src800": "/photos/r-nz-election-too-close-to-call-opportunity-kingmaker-640.jpg",
+  "id": "o-nz-election-too-close-to-call-opportunity-kingmaker",
+  "src": "/photos/o-nz-election-too-close-to-call-opportunity-kingmaker-1280.jpg",
+  "src800": "/photos/o-nz-election-too-close-to-call-opportunity-kingmaker-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Photo: Jakobandrewnz / Wikimedia Commons",
+  "srcWidth": 2952,
+  "credit": "Photo: Dhantegge / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "Christopher Luxon (file photo)",
-  "alt_hi": "क्रिस्टोफ़र लक्सन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chris_Luxon_portrait_(cropped).jpg"
+  "alt": "Labour leader Chris Hipkins at an election forum in Lower Hutt, September 2026 (file photo)",
+  "alt_hi": "सितंबर 2026 में लोअर हट में एक चुनावी मंच पर लेबर नेता क्रिस हिपकिंस (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins,_2026_Living_Wage_Election_Forum_(cropped).jpg"
  },
  "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve": {
-  "id": "r-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-  "src": "/photos/r-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-1280.jpg",
-  "src800": "/photos/r-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-640.jpg",
+  "id": "i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+  "src": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-en-3x2-1280.jpg",
+  "src800": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rajnath Singh tells Air Warriors morale matters most",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: राजनाथ ने एयर वॉरियर्स से कहा, मनोबल सबसे अहम",
+  "page": null,
+  "ihash": "623a4629d76b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-en-t-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-t-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-en-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-640.jpg"
+   }
+  },
+  "nophoto": "no usable photo of Rajnath Singh: library portraits used in last 7 days, quick_photo none, PIB no Bagdogra photo; desk's Parliament street photo rejected by editor"
+ },
+ "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd": {
+  "id": "o-tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+  "src": "/photos/o-tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd-1280.jpg",
+  "src800": "/photos/o-tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd-640.jpg",
   "width": 1280,
   "height": 960,
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Defence Minister Rajnath Singh (file photo)",
-  "alt_hi": "रक्षा मंत्री राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Parliament_of_India_in_New_Delhi_08.jpg"
+  "srcWidth": 3264,
+  "credit": "Photo: McKay Savage from London, UK / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "A flooded street in Chennai after heavy monsoon rain (file photo)",
+  "alt_hi": "भारी मानसूनी बारिश के बाद चेन्नई की पानी भरी सड़क (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_01_(3058208937).jpg"
+ },
+ "mohammed-shami-retires-test-cricket-229-wickets-64-tests": {
+  "id": "o-mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+  "src": "/photos/o-mohammed-shami-retires-test-cricket-229-wickets-64-tests-1280.jpg",
+  "src800": "/photos/o-mohammed-shami-retires-test-cricket-229-wickets-64-tests-640.jpg",
+  "width": 1280,
+  "height": 848,
+  "srcWidth": 4928,
+  "credit": "Photo: NAPARAZZI / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Mohammed Shami at India training at the SCG, 2015 (file photo)",
+  "alt_hi": "2015 में एससीजी पर भारतीय टीम के अभ्यास में मोहम्मद शमी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Shami_(Indian_Cricket_team_training_SCG_2015).jpg"
+ },
+ "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm": {
+  "id": "o-andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+  "src": "/photos/o-andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm-1280.jpg",
+  "src800": "/photos/o-andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm-640.jpg",
+  "width": 1280,
+  "height": 1012,
+  "srcWidth": 2147,
+  "credit": "Photo: Prime Minister's Office, Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "N. Chandrababu Naidu, now Andhra Pradesh Chief Minister, calls on Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "आंध्र प्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू प्रधानमंत्री नरेंद्र मोदी से मिलते हुए (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Andhra_CM_Chandrababu_Naidu_meets_PM_Modi.jpg"
+ },
+ "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis": {
+  "id": "i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
+  "src": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-en-3x2-1280.jpg",
+  "src800": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Karnataka and oil firms disagree on ethanol",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एथेनॉल पर कर्नाटक और तेल कंपनियां आमने-सामने",
+  "page": null,
+  "ihash": "665b0d880869",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-hi-3x2-1280.jpg",
+    "src800": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-en-t-1280.jpg",
+    "src800": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-hi-t-1280.jpg",
+    "src800": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-en-1280.jpg",
+    "src800": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-hi-1280.jpg",
+    "src800": "/photos/i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Rizwan Arshad above main size; Hardeep Singh Puri library portrait inside 7 days, finder h0714 candidates under main size"
+ },
+ "fox-completes-22-billion-roku-acquisition": {
+  "id": "i-fox-completes-22-billion-roku-acquisition",
+  "src": "/photos/i-fox-completes-22-billion-roku-acquisition-en-3x2-1280.jpg",
+  "src800": "/photos/i-fox-completes-22-billion-roku-acquisition-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Fox closes its Roku takeover",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: फॉक्स ने पूरा किया रोकू अधिग्रहण",
+  "page": null,
+  "ihash": "41853be2c5fe",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-fox-completes-22-billion-roku-acquisition-hi-3x2-1280.jpg",
+    "src800": "/photos/i-fox-completes-22-billion-roku-acquisition-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-fox-completes-22-billion-roku-acquisition-en-t-1280.jpg",
+    "src800": "/photos/i-fox-completes-22-billion-roku-acquisition-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-fox-completes-22-billion-roku-acquisition-hi-t-1280.jpg",
+    "src800": "/photos/i-fox-completes-22-billion-roku-acquisition-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-fox-completes-22-billion-roku-acquisition-en-1280.jpg",
+    "src800": "/photos/i-fox-completes-22-billion-roku-acquisition-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-fox-completes-22-billion-roku-acquisition-hi-1280.jpg",
+    "src800": "/photos/i-fox-completes-22-billion-roku-acquisition-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Lachlan Murdoch or Anthony Wood at main size; library, quick_photo, finder h0714"
+ },
+ "nadda-national-cancer-awareness-day-screening-appeal": {
+  "id": "i-nadda-national-cancer-awareness-day-screening-appeal",
+  "src": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-en-3x2-1280.jpg",
+  "src800": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Screen early, says Health Minister",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: स्वास्थ्य मंत्री: जल्दी जांच कराएं",
+  "page": null,
+  "ihash": "fa93643f2e49",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-en-t-1280.jpg",
+    "src800": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-hi-t-1280.jpg",
+    "src800": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-en-1280.jpg",
+    "src800": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-hi-1280.jpg",
+    "src800": "/photos/i-nadda-national-cancer-awareness-day-screening-appeal-hi-640.jpg"
+   }
+  },
+  "nophoto": "only library portrait of J. P. Nadda crops his head; quick_photo none"
  }
 }
