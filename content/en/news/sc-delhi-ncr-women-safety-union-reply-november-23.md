@@ -54,7 +54,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Hearing of Friday, November 6, 2026 rests on one report (LiveLaw): bench Justices JB Pardiwala and Manmohan; the September and October orders were by Justices Pardiwala and K Vinod Chandran. Hour of the hearing not given."
+    - "Hearing of Friday, November 6, 2026, rests on one report (LiveLaw): bench Justices JB Pardiwala and Manmohan; the September and October orders were by Justices Pardiwala and K Vinod Chandran. Hour of the hearing not given."
     - "Which 'reply' the Union is filing (what the affidavits cover) is not stated in the report; copy says only 'its reply'."
     - "Oct 5 order and Nov 16 date from LiveLaw Oct 8; the Nov 6 report gives the next date as December 2, so the November 16 date is not used."
 ---

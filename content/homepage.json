@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+    "id": "sc-delhi-ncr-women-safety-union-reply-november-23",
     "overlay": {
       "kicker": {
-        "en": "States / Himachal Pradesh",
-        "hi": "राज्य / हिमाचल प्रदेश"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "11,973 MU over 20 years",
-        "hi": "20 साल में 11,973 मिलियन यूनिट"
+        "en": "'Reply should be meaningful'",
+        "hi": "'जवाब सार्थक होना चाहिए'"
       },
       "text": {
         "en": "",
@@ -17,112 +17,112 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-      "sangareddy-pharma-deaths-need-inspections-not-compensation",
-      "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers"
+      "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+      "sc-up-under-trials-bail-release-all-75-districts"
     ],
     "relatedBeside": [
-      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-      "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-      "joshi-renewable-investment-220-billion-500-gw-2030",
-      "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+      "semicon-india-2-portal-vaishnaw-12-ecms-projects"
     ],
     "live": {
       "title": {
-        "en": "Himachal Pradesh",
-        "hi": "हिमाचल प्रदेश"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
-          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
+          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
+          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
         }
       },
       {
-        "link": "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "United States:",
+          "hi": "अमेरिका:"
         },
         "text": {
-          "en": "Andhra parishad polls: final turnout rises to 70.72%, Visakhapatnam tops at 82.51%",
-          "hi": "आंध्र परिषद चुनाव: अंतिम मतदान 70.72%, विशाखापत्तनम 82.51% के साथ सबसे आगे"
+          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
         }
       },
       {
-        "link": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "lead": {
-          "en": "Jammu and Kashmir:",
-          "hi": "जम्मू और कश्मीर:"
-        },
-        "text": {
-          "en": "Farooq Abdullah says no one can break the National Conference after meeting upset MLAs",
-          "hi": "नाराज़ विधायकों से मिलने के बाद फ़ारूक़ अब्दुल्ला बोले, नेशनल कॉन्फ़्रेंस को कोई नहीं तोड़ सकता"
-        }
-      },
-      {
-        "link": "joshi-renewable-investment-220-billion-500-gw-2030",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Renewable investment will top $220 billion needed for 500 GW by 2030, says Pralhad Joshi",
-          "hi": "500 गीगावाट के लक्ष्य के लिए जरूरी 220 अरब डॉलर से ज्यादा आएगा निवेश: प्रल्हाद जोशी"
-        }
-      },
-      {
-        "link": "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Trump says Russia-Ukraine peace deal is close and 'might involve all of Europe'",
-          "hi": "ट्रंप बोले, रूस-यूक्रेन शांति समझौता करीब, इसमें 'पूरा यूरोप शामिल हो सकता है'"
-        }
-      },
-      {
-        "link": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+        "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Teenager Maaya Rajeshwaran takes on Robin Montgomery for a Chennai Open semi-final spot",
-          "hi": "चेन्नई ओपन: सेमीफाइनल की जगह के लिए आज रॉबिन मॉन्टगोमरी से भिड़ेंगी 17 साल की माया राजेश्वरन"
+          "en": "Luca Van Assche beats Rinky Hijikata to reach first Masters 1000 semi-final, meets Ben Shelton",
+          "hi": "लुका वान असे ने रिंकी हिजिकाता को हराकर पहला मास्टर्स 1000 सेमीफाइनल खेलने का मौका पाया, सामने बेन शेल्टन"
         }
       },
       {
-        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "link": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
-          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
+          "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
+          "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
         }
       },
       {
-        "link": "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
+        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "lead": {
+          "en": "Electronics:",
+          "hi": "इलेक्ट्रॉनिक्स:"
+        },
+        "text": {
+          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
+          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
+        }
+      },
+      {
+        "link": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Hoax bomb threats hit European flights and broadcasters for a third day, NATO orders air patrol",
+          "hi": "यूरोप में उड़ानों और प्रसारकों को लगातार तीसरे दिन बम की झूठी धमकियां, नाटो ने हवाई गश्त का आदेश दिया"
+        }
+      },
+      {
+        "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "YSRCP MLC Lella Appireddy arrested after Guntur road protest over a ballot box",
-          "hi": "बैलेट बॉक्स को लेकर गुंटूर में सड़क पर धरना, वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गिरफ्तार"
+          "en": "Andhra parishad polls: counting begins at 8 am at 365 centres, first trends by noon",
+          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर सुबह 8 बजे से मतगणना, दोपहर तक पहले रुझान"
+        }
+      },
+      {
+        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "lead": {
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
+        },
+        "text": {
+          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
+          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
         }
       }
     ]
@@ -190,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
+      "id": "europe-bomb-threat-wave-flights-broadcasters-third-day",
       "also": []
     },
     "list": [
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-      "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur",
-      "india-u19-open-asia-cup-nepal-al-amerat-raichandani",
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "ugc-equity-rules-revise-them-do-not-bury-them"
+      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+      "amit-shah-presidents-police-colour-uttarakhand-police",
+      "railways-18000-festive-special-trains",
+      "rain-industries-q3-profit-243-crore-interim-dividend"
     ],
     "also": [
-      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-      "delhi-grap-stage-three-aqi-382-caqm"
+      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+      "iran-hands-us-nuclear-proposal-seven-demands"
     ]
   },
   "startHere": [
@@ -378,11 +378,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-        "sc-up-under-trials-bail-release-all-75-districts",
-        "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
       ],
-      "lead": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
+      "lead": "sc-delhi-ncr-women-safety-union-reply-november-23"
     },
     {
       "section": "economy",
@@ -405,11 +405,11 @@
     },
     {
       "section": "states",
-      "lead": "amit-shah-presidents-police-colour-uttarakhand-police",
+      "lead": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
       "list": [
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-        "delhi-grap-stage-three-aqi-382-caqm",
-        "saini-chowkidar-honorarium-15221-rahul-apology"
+        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+        "amit-shah-presidents-police-colour-uttarakhand-police",
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan"
       ]
     },
     {
@@ -437,12 +437,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "iran-hands-us-nuclear-proposal-seven-demands",
+      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
       "list": [
+        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "iran-hands-us-nuclear-proposal-seven-demands",
         "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "us-midterms-schumer-lower-costs-with-or-without-trump",
-        "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-        "us-midterms-democrats-230-house-seats-economy-hegseth-blame"
+        "us-midterms-schumer-lower-costs-with-or-without-trump"
       ]
     },
     {
@@ -497,10 +497,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
-        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
+        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
+        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
       },
-      "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
     },
     {
       "icon": "calendar-blank",
@@ -509,10 +509,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Paris Masters semi-final: Luca Van Assche v Ben Shelton",
-        "hi": "पेरिस मास्टर्स सेमीफाइनल: लुका वान असे बनाम बेन शेल्टन"
+        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
       },
-      "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections from 8 am",
+        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना सुबह 8 बजे से"
+      },
+      "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
     },
     {
       "icon": "calendar-blank",
@@ -525,35 +537,9 @@
         "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"
       },
       "link": "india-u19-beat-nepal-asia-cup-al-amerat"
-    },
-    {
-      "icon": "chart-line",
-      "date": {
-        "en": "Nov 12",
-        "hi": "12 नवंबर"
-      },
-      "text": {
-        "en": "Retail inflation (CPI) for October, 4 pm",
-        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
-      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T17:26:10+05:30",
-      "ids": [
-        "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "hindalco-q2-profit-59-per-cent-7533-crore-record",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
-        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "ugc-equity-rules-revise-them-do-not-bury-them"
-      ]
-    },
     {
       "at": "2026-11-06T18:38:35+05:30",
       "ids": [
@@ -661,6 +647,23 @@
         "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
+      ]
+    },
+    {
+      "at": "2026-11-07T07:34:32+05:30",
+      "ids": [
+        "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "sc-up-under-trials-bail-release-all-75-districts",
+        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "europe-bomb-threat-wave-flights-broadcasters-third-day",
+        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
       ]
     }
   ],

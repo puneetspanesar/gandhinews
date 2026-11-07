@@ -20,7 +20,7 @@ hero:
   subjects: ["Stephen Miller", "Susie Wiles"]
   alt: "स्टीफन मिलर और सूज़ी वाइल्स"
   overlay:
-    value: "व्हाइट हाउस में मिलर की जगह वाइल्स"
+    value: "व्हाइट हाउस में वाइल्स की जगह मिलर"
 infographic:
   kicker: "व्हाइट हाउस में फेरबदल"
   headline: "मिलर बने चीफ ऑफ स्टाफ"

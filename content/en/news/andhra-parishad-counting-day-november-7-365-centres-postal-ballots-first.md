@@ -39,7 +39,7 @@ infographic:
   source: "Andhra Pradesh State Election Commission, November 6 and 7, 2026"
 related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri]
 seo:
-  description: "Counting of Andhra Pradesh MPTC and ZPTC votes begins at 8 am on November 7, 2026 at 365 centres. Postal ballots first; MPTC results by about 3 pm, ZPTC by 7 pm."
+  description: "Counting of Andhra Pradesh MPTC and ZPTC votes begins at 8 am on November 7, 2026, at 365 centres. Postal ballots first; MPTC results by about 3 pm, ZPTC by 7 pm."
 sources:
   - title: "Andhra Pradesh: MPTC, ZPTC vote counting today amid tight security"
     publisher: "The Hans India"

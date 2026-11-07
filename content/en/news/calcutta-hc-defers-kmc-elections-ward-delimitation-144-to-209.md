@@ -36,7 +36,7 @@ infographic:
   source: "Calcutta High Court proceedings, November 6, 2026"
 related: [suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls]
 seo:
-  description: "Calcutta High Court on November 6, 2026 barred the State Election Commission from notifying Kolkata civic polls until a plea against ward delimitation from 144 to 209 is decided."
+  description: "Calcutta High Court on November 6, 2026, barred the State Election Commission from notifying Kolkata civic polls until a plea against ward delimitation from 144 to 209 is decided."
 sources:
   - title: "Calcutta High Court Defers KMC Elections Till Plea Challenging Ward Delimitation From 144 To 209 Is Decided"
     publisher: "LiveLaw"

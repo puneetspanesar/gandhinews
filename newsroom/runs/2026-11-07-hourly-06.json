@@ -1,0 +1,36 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-07T06:04:53+05:30",
+ "end": "2026-11-07T07:36:56+05:30",
+ "summary": "SC women's safety lead, Calcutta HC KMC polls, Andhra counting day, Miller chief of staff; 2 held",
+ "new": [
+  "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+  "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+  "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+  "europe-bomb-threat-wave-flights-broadcasters-third-day",
+  "sc-delhi-ncr-women-safety-union-reply-november-23",
+  "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
+ ],
+ "held": [
+  "alcaraz-saves-two-match-points-beats-fritz-paris-masters-semi-final-ruud",
+  "wellington-pitch-wind-showers-second-odi-india-new-zealand-match-day"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "alcaraz-saves-two-match-points-beats-fritz-paris-masters-semi-final-ruud",
+   "kind": "picture",
+   "why": "Main picture is a red-carpet gala portrait (IWC sponsor backdrop, suit), not tennis, with an odd red/orange colour cast around the eyes that looks like a processing artefact; reads as a stock headshot on a match report.",
+   "fix": "Use a clean on-court photo of Carlos Alcaraz playing (Paris Masters or another tournament, labelled file photo), with natural colour."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+   "why": "Hindi hero overlay reads 'व्हाइट हाउस में मिलर की जगह वाइल्स' (Wiles replaces Miller), the reverse of the story; the English overlay says Miller replaces Wiles.",
+   "done": "Hindi overlay changed to 'व्हाइट हाउस में वाइल्स की जगह मिलर'"
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-delhi-ncr-women-safety-union-reply-november-23"
+}

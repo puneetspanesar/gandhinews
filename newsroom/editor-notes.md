@@ -86,3 +86,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Desks: states and sport-science found almost nothing; their WebFetch was refused (PROVENANCE_REQUIRED). The main session's web-fetch agent works; desks without an Agent tool cannot use it.
 - Editor homepage FAIL not fixed: lead is a minor exercise (no fresh pictured big story); live band labelled by section with a factcheck feature; infographic cards beside the lead; empty space under the lead and Rahul Gandhi card. Fixed: Amit Shah rally speech dropped (duplicate), live band filler now only uses stories under 24 hours (src/lib/home.ts).
 - Markets: closes kept; November 6 FII +13,750 crore, DII -5,969 crore (niftytrader) added.
+
+## November 7, 2026, 7:40 am (from the 06:00 run)
+- Published 6 stories: sc-delhi-ncr-women-safety-union-reply-november-23 (LEAD, Justice Pardiwala photo), calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209 (Calcutta HC building), stephen-miller-replaces-susie-wiles-white-house-chief-of-staff (Miller photo), andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first, cji-surya-kant-ambedkar-constitution-continuing-responsibility, europe-bomb-threat-wave-flights-broadcasters-third-day (last three infographic --nophoto, finder h0706).
+- Held: wellington-pitch-wind-showers-second-odi-india-new-zealand-match-day (pre-match preview after first ball; write the live score or result as a new id), alcaraz-saves-two-match-points-beats-fritz-paris-masters-semi-final-ruud (editor: red-carpet gala portrait; needs an on-court Alcaraz photo).
+- NEXT RUN, FIRST: Andhra MPTC/ZPTC counting trends (counting from 8 am, first trends about noon) as a new id and LEAD with a counting photo; India v NZ second ODI score or result; Suvendu Adhikari CAA citizenship by December 31; AIADMK PM Mannan arrest over TVK MLA offer.
+- Editor homepage FAIL not fixed (second check): lead is a procedural SC adjournment; Courts block lists the EC SIR story (not a court story) with an empty gap and a misleading "Live coverage" label; Andhra counting is an infographic outside the top five.
+- Markets: Saturday, closed; markets.json unchanged.

@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Speech on Friday, November 6, 2026 at Bharat Mandapam; PTI copy timestamped 9:57 pm IST Nov 6 (Vartha Bharati), carried Nov 7. Time of the speech not given."
+    - "Speech on Friday, November 6, 2026, at Bharat Mandapam; PTI copy timestamped 9:57 pm IST Nov 6 (Vartha Bharati), carried Nov 7. Time of the speech not given."
     - "Sources differ on the date of the Mahad satyagraha (one says 1927, PTI copy says the 1923 council resolution and 'three years later'); the satyagraha year is left out. The Bombay High Court appeal dismissed in 1937 is from the PTI copy."
     - "The 'clock of law / clock of society' and 'would require a constable to enforce them' lines are Ambedkar quotes as cited in the speech; only the shorter exact phrases are quoted."
     - "Photo block subject Bharat Mandapam is a venue file photo."
