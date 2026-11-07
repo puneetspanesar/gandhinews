@@ -1,0 +1,15 @@
+{
+ "run": "stall-20",
+ "start": "2026-11-07T20:54:01+05:30",
+ "end": "2026-11-07T21:04:19+05:30",
+ "summary": "lead moved off repeated rain story to Mamata v Kolkata Police chief; stale Andhra tally dropped",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one: mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence"
+ ],
+ "lead": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence"
+}

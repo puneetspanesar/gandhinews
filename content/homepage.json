@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+    "id": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
     "overlay": {
       "kicker": {
-        "en": "States / Weather",
-        "hi": "राज्य / मौसम"
+        "en": "States / West Bengal",
+        "hi": "राज्य / पश्चिम बंगाल"
       },
       "value": {
-        "en": "Rain on Deepavali in the south",
-        "hi": "दक्षिण में दीपावली पर बारिश"
+        "en": "'Ajay Nanda should resign'",
+        "hi": "'अजय नंदा इस्तीफा दें'"
       },
       "text": {
         "en": "",
@@ -16,18 +16,22 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
+    ],
     "relatedBeside": [
       "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
       "sc-delhi-ncr-women-safety-union-reply-november-23",
-      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
+      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
     ],
     "live": {
       "title": {
-        "en": "Weather",
-        "hi": "मौसम"
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
       }
     }
   },
@@ -45,25 +49,14 @@
         }
       },
       {
-        "link": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "link": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Deepotsav:",
+          "hi": "दीपोत्सव:"
         },
         "text": {
-          "en": "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far",
-          "hi": "आंध्र परिषद चुनाव की गिनती में टीडीपी गठबंधन आगे, वाईएसआरसीपी को अब तक एक जेडपीटीसी सीट"
-        }
-      },
-      {
-        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
-          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
+          "en": "Vice-President Radhakrishnan in Ayodhya for 10th Deepotsav, to pray at Ram temple",
+          "hi": "उपराष्ट्रपति राधाकृष्णन 10वें दीपोत्सव के लिए अयोध्या में, राम मंदिर में करेंगे पूजा"
         }
       },
       {
@@ -86,6 +79,17 @@
         "text": {
           "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
           "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
+        }
+      },
+      {
+        "link": "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Counting rice every Friday will not cool prices on its own. The Centre must put its cheap grain on southern shelves, and show what the count finds",
+          "hi": "हर शुक्रवार चावल गिनने से अपने आप दाम नहीं घटेंगे। केंद्र अपना सस्ता अनाज दक्षिण की दुकानों तक पहुंचाए और बताए कि गिनती में क्या मिला"
         }
       },
       {
@@ -193,12 +197,12 @@
       "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
       "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
       "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
+      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
+      "bail-granted-is-not-freedom-release-the-under-trials"
     ],
     "also": [
-      "bail-granted-is-not-freedom-release-the-under-trials",
-      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
+      "khunti-crash-night-highways-need-lights-and-speed-checks",
+      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
     ]
   },
   "startHere": [
@@ -374,15 +378,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
         "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "sc-delhi-ncr-women-safety-union-reply-november-23"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond"
       ],
       "lead": "modi-diwali-greetings-citizens-viksit-bharat"
     },
     {
       "section": "economy",
-      "lead": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "lead": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +397,10 @@
         ]
       },
       "list": [
+        "fox-completes-22-billion-roku-acquisition",
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "rain-industries-q3-profit-243-crore-interim-dividend",
-        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects"
       ]
     },
     {
@@ -405,16 +409,16 @@
       "list": [
         "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
         "wb-suvendu-police-attacks-asansol-recruitment-29000",
-        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm"
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
       ]
     },
     {
       "section": "policy",
       "lead": "cancer-drugs-137-revised-prices-november-9-nppa",
       "list": [
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
         "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
-        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam"
+        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
       ]
     },
     {
@@ -431,9 +435,9 @@
       "section": "world",
       "lead": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
       "list": [
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
         "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-        "europe-bomb-threat-wave-flights-broadcasters-third-day",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
+        "europe-bomb-threat-wave-flights-broadcasters-third-day"
       ]
     },
     {
@@ -630,14 +634,17 @@
       ]
     },
     {
-      "at": "2026-11-07T20:43:35+05:30",
+      "at": "2026-11-07T20:56:47+05:30",
       "ids": [
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
         "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
         "sc-delhi-ncr-women-safety-union-reply-november-23",
         "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
         "cancer-drugs-137-revised-prices-november-9-nppa",
         "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
