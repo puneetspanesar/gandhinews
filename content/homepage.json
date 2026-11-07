@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+    "id": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
     "overlay": {
       "kicker": {
-        "en": "Politics / Deepotsav",
-        "hi": "राजनीति / दीपोत्सव"
+        "en": "Policy / Defence",
+        "hi": "नीति / रक्षा"
       },
       "value": {
-        "en": "Deepotsav 2026, Ayodhya",
-        "hi": "दीपोत्सव 2026, अयोध्या"
+        "en": "Diwali with the Army in north Bengal",
+        "hi": "उत्तर बंगाल में सेना के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-      "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
+      "modi-diwali-greetings-citizens-viksit-bharat",
+      "who-six-climate-health-actions-1-6-million-lives-cop31",
+      "rupee-93-89-strongest-since-april-fii-record-buying",
+      "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+      "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar"
     ],
     "live": {
       "title": {
-        "en": "Deepotsav",
-        "hi": "दीपोत्सव"
+        "en": "Defence",
+        "hi": "रक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+        "link": "modi-diwali-greetings-citizens-viksit-bharat",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "Diwali:",
+          "hi": "दिवाली:"
         },
         "text": {
-          "en": "New Zealand votes with Luxon and Hipkins level in the final polls",
-          "hi": "न्यूज़ीलैंड में मतदान, आखिरी सर्वे में लक्सन और हिपकिंस बराबरी पर"
+          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
+          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
         }
       },
       {
-        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
         "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
-          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
+          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
+          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
         }
       },
       {
-        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "link": "rupee-93-89-strongest-since-april-fii-record-buying",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "Markets:",
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
-          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
+          "en": "Rupee jumps 52 paise to 93.89, its strongest close since April, as foreign money pours in",
+          "hi": "रुपया 52 पैसे उछलकर 93.89 पर, अप्रैल के बाद सबसे मजबूत बंद; विदेशी पैसे की बाढ़"
         }
       },
       {
-        "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "link": "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
         "lead": {
-          "en": "Himachal Pradesh:",
-          "hi": "हिमाचल प्रदेश:"
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
-          "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
+          "en": "Haryana pays ₹9,880 crore to 2.88 lakh paddy farmers, brings beekeepers under crop insurance",
+          "hi": "हरियाणा ने 2.88 लाख धान किसानों को ₹9,880 करोड़ दिए, मधुमक्खी पालक भी फसल बीमा के दायरे में"
         }
       },
       {
-        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "link": "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "lead": {
+          "en": "Jammu and Kashmir:",
+          "hi": "जम्मू और कश्मीर:"
+        },
+        "text": {
+          "en": "Farooq Abdullah says no one can break the National Conference after meeting upset MLAs",
+          "hi": "नाराज़ विधायकों से मिलने के बाद फ़ारूक़ अब्दुल्ला बोले, नेशनल कॉन्फ़्रेंस को कोई नहीं तोड़ सकता"
+        }
+      },
+      {
+        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
-          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
+          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
         }
       },
       {
-        "link": "punjab-paddy-procurement-record-150-lmt-kataruchak",
+        "link": "jharkhand-khunti-trailer-crowd-seven-killed",
         "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
+          "en": "Jharkhand:",
+          "hi": "झारखंड:"
         },
         "text": {
-          "en": "Punjab paddy procurement crosses a record 150 lakh tonnes, ₹33,000 crore paid to farmers",
-          "hi": "पंजाब में धान की खरीद रिकॉर्ड 150 लाख टन के पार, किसानों को ₹33,000 करोड़ का भुगतान"
+          "en": "Seven killed in Khunti as speeding trailer ploughs into villagers helping a fallen scooter rider",
+          "hi": "खूंटी में तेज रफ्तार ट्रेलर ने स्कूटी सवार की मदद कर रहे ग्रामीणों को रौंदा, सात की मौत"
         }
       },
       {
-        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "link": "bail-granted-is-not-freedom-release-the-under-trials",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
-          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
-        }
-      },
-      {
-        "link": "suspension-of-sentence-explained-tejpal-supreme-court",
-        "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
-        },
-        "text": {
-          "en": "Suspension of sentence explained: why Tarun Tejpal stays in jail while his appeal waits",
-          "hi": "सज़ा का निलंबन क्या है: अपील लंबित रहते तरुण तेजपाल जेल में क्यों रहेंगे"
+          "en": "Bail that never opens a cell door is no bail at all. Uttar Pradesh must free the 106 still waiting, and stop the next 264",
+          "hi": "जो जमानत जेल का दरवाज़ा न खोले, वह जमानत नहीं। उत्तर प्रदेश इंतज़ार कर रहे 106 लोगों को रिहा करे और अगले 264 को रोके"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "punjab-paddy-procurement-record-150-lmt-kataruchak",
+      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
       "also": []
     },
     "list": [
-      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
-      "ugc-equity-rules-revise-them-do-not-bury-them",
-      "24-hour-rule-explained-article-22-detention-arrest"
+      "jharkhand-khunti-trailer-crowd-seven-killed",
+      "bail-granted-is-not-freedom-release-the-under-trials",
+      "railways-18000-festive-specials-trips-claim",
+      "khunti-crash-night-highways-need-lights-and-speed-checks",
+      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
     ],
     "also": [
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-      "delhi-grap-stage-three-aqi-382-caqm"
+      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+      "semicon-india-2-portal-vaishnaw-12-ecms-projects"
     ]
   },
   "startHere": [
@@ -360,11 +360,11 @@
     }
   ],
   "opinion": [
+    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
     "bail-granted-is-not-freedom-release-the-under-trials",
     "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
     "khunti-crash-night-highways-need-lights-and-speed-checks",
-    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-    "ugc-equity-rules-revise-them-do-not-bury-them"
+    "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
   ],
   "sections": [
     {
@@ -374,11 +374,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
         "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "sc-delhi-ncr-women-safety-union-reply-november-23"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond"
       ],
-      "lead": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
+      "lead": "modi-diwali-greetings-citizens-viksit-bharat"
     },
     {
       "section": "economy",
@@ -401,17 +401,18 @@
     },
     {
       "section": "states",
-      "lead": "punjab-paddy-procurement-record-150-lmt-kataruchak",
+      "lead": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
       "list": [
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
         "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "amit-shah-presidents-police-colour-uttarakhand-police"
+        "amit-shah-presidents-police-colour-uttarakhand-police",
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan"
       ]
     },
     {
       "section": "policy",
-      "lead": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+      "lead": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
       "list": [
+        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "railways-18000-festive-special-trains",
         "govt-relaxes-passport-visa-rules-foreign-nationals-india"
       ]
@@ -437,8 +438,10 @@
     },
     {
       "section": "science",
-      "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "list": []
+      "lead": "who-six-climate-health-actions-1-6-million-lives-cop31",
+      "list": [
+        "navy-receives-amini-anti-submarine-shallow-water-craft"
+      ]
     },
     {
       "section": "sports",
@@ -525,20 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T21:44:06+05:30",
-      "ids": [
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "railways-18000-festive-special-trains",
-        "saini-chowkidar-honorarium-15221-rahul-apology",
-        "shelton-beats-rinderknech-paul-quarter-final-paris-masters",
-        "misri-meets-balendra-shah-kathmandu-india-visit-preparations",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-        "rain-industries-q3-profit-243-crore-interim-dividend",
-        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
-      ]
-    },
     {
       "at": "2026-11-06T22:56:43+05:30",
       "ids": [
@@ -645,6 +634,20 @@
         "punjab-paddy-procurement-record-150-lmt-kataruchak",
         "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "suspension-of-sentence-explained-tejpal-supreme-court"
+      ]
+    },
+    {
+      "at": "2026-11-07T12:33:44+05:30",
+      "ids": [
+        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "rupee-93-89-strongest-since-april-fii-record-buying",
+        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
+        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "jharkhand-khunti-trailer-crowd-seven-killed",
+        "bail-granted-is-not-freedom-release-the-under-trials"
       ]
     }
   ],

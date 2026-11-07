@@ -1,0 +1,38 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-07T12:04:05+05:30",
+ "end": "2026-11-07T12:36:05+05:30",
+ "summary": "Rajnath Diwali eve with troops leads; Modi Diwali message; women's safety editorial; NZ election and ODI stories held",
+ "new": [
+  "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+  "modi-diwali-greetings-citizens-viksit-bharat",
+  "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
+ ],
+ "held": [
+  "nz-all-out-134-brar-four-india-need-135-wellington-second-odi",
+  "nz-early-results-national-labour-neck-and-neck-opportunity-clears-5"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "nz-all-out-134-brar-four-india-need-135-wellington-second-odi",
+   "kind": "facts",
+   "why": "The headline, cover and graphic still say 'India need 135'. That figure dates from the end of New Zealand's innings, which was reported in the late morning. At about 12:30 pm IST India's chase should be under way or finished, and frontpages.txt lists the live score or result as missing. The top of the site carries an hours-old figure (rule 9b). The infographic itself is acceptable because the story is marked NOPHOTO.",
+   "fix": "Check the current state of India's chase in the second ODI. Update the headline, standfirst, body and both covers (English and Hindi) with the latest score, or the result with the margin if the match is over. Keep the Hindi figures the same as the English."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+   "why": "The Hindi headline 'उत्तर बंगाल में सैनिकों से मिले राजनाथ सिंह' says in the past tense that he met the soldiers. The English says 'spends', and the verification notes say the visits are scheduled and not confirmed as done. So the Hindi twin claims something the sources do not support. The main picture is also a soft, over-tight file close-up, and on mobile the crop cuts off the top of his head.",
+   "done": "Hindi headline changed to 'सैनिकों के साथ राजनाथ सिंह' to match the English; soft 770 px close-up blocklisted and replaced by a sharper library photo of Rajnath Singh (MoD, full head in frame)."
+  },
+  {
+   "id": "homepage",
+   "why": "1) The lead is wrong. Rajnath Singh's scheduled Diwali-eve troop visit is a minor story. The biggest Indian story right now is the Andhra Pradesh MPTC/ZPTC parishad counting (frontpages.txt), which has no trends or results story at all: our latest counting item, 'no trends yet', was published at 8:07 am, and first trends were due by noon. Write and lead with the counting trends or results, or failing that the India v New Zealand ODI with its latest score, and move Rajnath down. 2) Two Diwali leader stories sit side by side at the top (Rajnath on Diwali eve, and Modi's Diwali message, both tagged Diwali). Separate them or drop one from the top block. 3) Stale item in the top headlines: 'Four voters and two poll staff die on Andhra parishad polling day' is about the November 5 polling, published November 6 at 1:12 pm, and is overtaken by counting day. Replace it with the counting story. 4) The India section leads with the Punjab paddy infographic while pictured stories are available (Vice-President Radhakrishnan at Deepotsav, Suvendu Adhikari). It also leaves a large empty white block under its one-line headline. Lead the section with a pictured story and give the infographic card a standfirst or a smaller slot. Punjab paddy and Haryana paddy on the same page also read as repetitive.",
+   "done": "No Andhra counting trends after 8:53 am could be confirmed this run (desk plus two live blogs read at 12:15 pm), so no counting story to lead; Rajnath leads with a sharper photo. Andhra polling-day deaths card and the Punjab paddy infographic dropped from the homepage. NOT fixed: Modi's Diwali message still sits beside the Rajnath lead (no other fresh pictured story to put there)."
+  }
+ ],
+ "breaches": [],
+ "lead": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
+}

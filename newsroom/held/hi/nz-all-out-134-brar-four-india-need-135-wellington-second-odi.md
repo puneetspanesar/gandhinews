@@ -27,7 +27,8 @@ seo:
   description: "7 नवंबर 2026 को वेलिंगटन में बारिश से प्रभावित दूसरे वनडे में भारत ने न्यूज़ीलैंड को 41 ओवर में 134 पर समेटा। गुरनूर ब्रार ने 30 रन पर 4 विकेट लिए। भारत को 135 रन चाहिए।"
 verification:
   status: approved
-  notes: "Same as English file: live reports on November 7, 2026 between about 8 am and 12 pm IST."
+  notes:
+    - "Same as English file: live reports on November 7, 2026 between about 8 am and 12 pm IST."
 sources:
   - title: "IND vs NZ 2nd ODI Live Update: India Need 135 Runs To Win The Match"
     publisher: "NewsX"

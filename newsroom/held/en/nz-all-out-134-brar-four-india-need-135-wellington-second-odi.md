@@ -26,7 +26,8 @@ seo:
   description: "India bowled New Zealand out for 134 in 41 overs in the rain-hit second ODI at Wellington on November 7, 2026, with Gurnoor Brar taking 4 for 30. India need 135 to win."
 verification:
   status: approved
-  notes: "Toss, 47-over reduction and NZ 134 all out in 41 overs from live reports on November 7, 2026, published between roughly 8 am and 12 pm IST; exact end time of innings not stated. India chase not yet begun or not reported at 12:15 pm IST. Debutant claim not made."
+  notes:
+    - "Toss, 47-over reduction and NZ 134 all out in 41 overs from live reports on November 7, 2026, published between roughly 8 am and 12 pm IST; exact end time of innings not stated. India chase not yet begun or not reported at 12:15 pm IST. Debutant claim not made."
 sources:
   - title: "IND vs NZ 2nd ODI Live Update: India Need 135 Runs To Win The Match"
     publisher: "NewsX"

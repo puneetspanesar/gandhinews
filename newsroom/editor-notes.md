@@ -51,3 +51,8 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - NEXT RUN, FIRST: Andhra MPTC/ZPTC counting trends (counting from 8 am, first trends about noon) as a new id and LEAD with a counting photo; India v NZ second ODI score or result; Suvendu Adhikari CAA citizenship by December 31; AIADMK PM Mannan arrest over TVK MLA offer.
 - Editor homepage FAIL not fixed (second check): lead is a procedural SC adjournment; Courts block lists the EC SIR story (not a court story) with an empty gap and a misleading "Live coverage" label; Andhra counting is an infographic outside the top five.
 - Markets: Saturday, closed; markets.json unchanged.
+
+## November 7, 2026, 12:40 pm (from the 12:00 run)
+- Published 3: rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday (LEAD), modi-diwali-greetings-citizens-viksit-bharat, delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft (editorial, infographic --nophoto).
+- Held: nz-early-results-national-labour-neck-and-neck-opportunity-clears-5 (Luxon close-up; needs a well framed Luxon or Hipkins photo and the latest count), nz-all-out-134-brar-four-india-need-135-wellington-second-odi (write the India chase score or result as a new id).
+- NEXT RUN, FIRST: Andhra MPTC/ZPTC counting trends or results (none confirmed after 8:53 am; LEAD with a counting photo); India v NZ second ODI result; New Zealand election result; Delhi AQI after 8 am; CAA December 31 fact check.

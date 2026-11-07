@@ -49678,16 +49678,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg"
  },
  {
-  "id": "o-rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-  "articleId": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Shri_Rajnath_Singh%2C_Defence_Minister_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Rajnath Singh (file photo)",
-  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Defence_Minister_of_India.jpg"
- },
- {
   "id": "o-modi-diwali-greetings-citizens-viksit-bharat",
   "articleId": "modi-diwali-greetings-citizens-viksit-bharat",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -49706,5 +49696,15 @@
   "alt": "Christopher Luxon (file photo)",
   "alt_hi": "क्रिस्टोफ़र लक्सन (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Chris_Luxon_portrait_(cropped).jpg"
+ },
+ {
+  "id": "o-rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+  "articleId": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shri_Rajnath_Singh%2C_Union_Minister_of_Defence_at_a_webinar_on_August_04%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rajnath Singh (file photo)",
+  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg"
  }
 ]
