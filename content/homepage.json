@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+    "id": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
     "overlay": {
       "kicker": {
-        "en": "Policy / Defence",
-        "hi": "नीति / रक्षा"
+        "en": "States / Weather",
+        "hi": "राज्य / मौसम"
       },
       "value": {
-        "en": "Diwali with the Army in north Bengal",
-        "hi": "उत्तर बंगाल में सेना के साथ दिवाली"
+        "en": "Rain on Deepavali in the south",
+        "hi": "दक्षिण में दीपावली पर बारिश"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "amit-shah-presidents-police-colour-uttarakhand-police",
-      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court",
-      "railways-18000-festive-specials-trips-claim"
+      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "sc-delhi-ncr-women-safety-union-reply-november-23",
+      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
     ],
     "live": {
       "title": {
-        "en": "Defence",
-        "hi": "रक्षा"
+        "en": "Weather",
+        "hi": "मौसम"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "amit-shah-presidents-police-colour-uttarakhand-police",
+        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "lead": {
-          "en": "Uttarakhand:",
-          "hi": "उत्तराखंड:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Amit Shah hands Uttarakhand Police the President's Colour, promises verdicts within three years",
-          "hi": "अमित शाह ने उत्तराखंड पुलिस को सौंपा राष्ट्रपति निशान, तीन साल में सजा का भरोसा"
+          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
+          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
         }
       },
       {
-        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "link": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
-          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
+          "en": "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far",
+          "hi": "आंध्र परिषद चुनाव की गिनती में टीडीपी गठबंधन आगे, वाईएसआरसीपी को अब तक एक जेडपीटीसी सीट"
         }
       },
       {
-        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
         "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
-          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
+          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
+          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
         }
       },
       {
-        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "link": "sc-delhi-ncr-women-safety-union-reply-november-23",
         "lead": {
-          "en": "Power:",
-          "hi": "बिजली:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
-          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
+          "en": "Supreme Court gives Centre till November 23 for a 'meaningful' reply on Delhi-NCR women's safety",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर सुप्रीम कोर्ट ने केंद्र को 'सार्थक' जवाब के लिए 23 नवंबर तक का समय दिया"
         }
       },
       {
-        "link": "railways-18000-festive-specials-trips-claim",
+        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
         "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
+          "en": "United States:",
+          "hi": "अमेरिका:"
         },
         "text": {
-          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
-          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
+          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
         }
       },
       {
-        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "link": "cancer-drugs-137-revised-prices-november-9-nppa",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
-          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
+          "en": "Revised prices of 137 anti-cancer drugs take effect on Monday, with margins capped at 30%",
+          "hi": "137 कैंसर दवाओं की संशोधित कीमतें सोमवार से लागू, मार्जिन की सीमा 30%"
         }
       },
       {
-        "link": "fox-completes-22-billion-roku-acquisition",
+        "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
         "lead": {
-          "en": "Media:",
-          "hi": "मीडिया:"
+          "en": "Climate:",
+          "hi": "जलवायु:"
         },
         "text": {
-          "en": "Fox completes $22 billion Roku takeover, months ahead of schedule",
-          "hi": "फॉक्स ने तय समय से काफी पहले पूरा किया 22 अरब डॉलर का रोकू अधिग्रहण"
+          "en": "Satellites find Istanbul landfill leaking 7.4 tonnes of methane an hour as COP31 nears",
+          "hi": "कॉप31 से पहले उपग्रहों ने पकड़ा: इस्तांबुल के कूड़ाघर से हर घंटे 7.4 टन मीथेन का रिसाव"
         }
       },
       {
-        "link": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "Hoax bomb threats hit European flights and broadcasters for a third day, NATO orders air patrol",
-          "hi": "यूरोप में उड़ानों और प्रसारकों को लगातार तीसरे दिन बम की झूठी धमकियां, नाटो ने हवाई गश्त का आदेश दिया"
+          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
+          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+      "id": "cancer-drugs-137-revised-prices-november-9-nppa",
       "also": []
     },
     "list": [
-      "fox-completes-22-billion-roku-acquisition",
-      "europe-bomb-threat-wave-flights-broadcasters-third-day",
-      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-      "rain-industries-q3-profit-243-crore-interim-dividend"
+      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
     ],
     "also": [
-      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-      "nadda-national-cancer-awareness-day-screening-appeal"
+      "bail-granted-is-not-freedom-release-the-under-trials",
+      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
     ]
   },
   "startHere": [
@@ -374,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
         "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "sc-delhi-ncr-women-safety-union-reply-november-23"
       ],
       "lead": "modi-diwali-greetings-citizens-viksit-bharat"
     },
     {
       "section": "economy",
-      "lead": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+      "lead": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,24 +393,24 @@
         ]
       },
       "list": [
-        "fox-completes-22-billion-roku-acquisition",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects"
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "rain-industries-q3-profit-243-crore-interim-dividend",
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
       ]
     },
     {
       "section": "states",
-      "lead": "wb-suvendu-police-attacks-asansol-recruitment-29000",
+      "lead": "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
       "list": [
-        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "punjab-paddy-procurement-record-150-lmt-kataruchak"
+        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+        "wb-suvendu-police-attacks-asansol-recruitment-29000",
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+      "lead": "cancer-drugs-137-revised-prices-november-9-nppa",
       "list": [
         "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
         "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
@@ -429,7 +429,7 @@
   "desks": [
     {
       "section": "world",
-      "lead": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+      "lead": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
       "list": [
         "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
         "europe-bomb-threat-wave-flights-broadcasters-third-day",
@@ -438,19 +438,21 @@
     },
     {
       "section": "science",
-      "lead": "nadda-national-cancer-awareness-day-screening-appeal",
+      "lead": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
       "list": [
-        "who-six-climate-health-actions-1-6-million-lives-cop31"
+        "nadda-national-cancer-awareness-day-screening-appeal",
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "navy-receives-amini-anti-submarine-shallow-water-craft"
       ]
     },
     {
       "section": "sports",
-      "lead": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+      "lead": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
       "list": [
+        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
       ]
     }
   ],
@@ -528,23 +530,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T07:40:18+05:30",
-      "ids": [
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "navy-receives-amini-anti-submarine-shallow-water-craft",
-        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-        "europe-bomb-threat-wave-flights-broadcasters-third-day",
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
-      ]
-    },
     {
       "at": "2026-11-07T08:47:29+05:30",
       "ids": [
@@ -642,6 +627,20 @@
         "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "fox-completes-22-billion-roku-acquisition",
         "europe-bomb-threat-wave-flights-broadcasters-third-day"
+      ]
+    },
+    {
+      "at": "2026-11-07T20:43:35+05:30",
+      "ids": [
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "cancer-drugs-137-revised-prices-november-9-nppa",
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
       ]
     }
   ],

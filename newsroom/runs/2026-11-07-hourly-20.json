@@ -1,0 +1,29 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-07T20:04:42+05:30",
+ "end": "2026-11-07T20:46:22+05:30",
+ "summary": "6 new stories, all infographics (photo jobs down); nothing held",
+ "new": [
+  "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+  "cancer-drugs-137-revised-prices-november-9-nppa",
+  "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+  "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+  "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+  "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "1) Lead is wrong: 'Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali' is a forecast that no rival front page is leading with (frontpages.txt: Andhra MPTC/ZPTC final tally, Mamata v Kolkata Police chief, Omar Abdullah's resignation offer, IAF IL-76 at Nyoma, Ayodhya Deepotsav). Lead with a bigger pictured national story: the Andhra parishad final tally once written (the TDP-led alliance count already has a Naidu photo) or the Mamata/Ajay Nanda story once a real Mamata photo is in; do not put an infographic story in the lead. 2) New Zealand election takes two top slots and one is stale: Must Read #2 'Luxon and Hipkins separated by about 3,500 votes, no winner yet' is the older count while the 97%-counted wrap is in the top column. Drop the older NZ item from Must Read. 3) Too much business at the top: the foreign-investors markets explainer in the top co",
+   "done": "Dropped the older NZ count story, Fox-Roku, Tata Steel and the foreign-investors explainer (removes the duplicate in the Explained strip and the business excess). Lead kept on the TN/Kerala rain story: no pictured national story under 8 hours exists (Mamata and Andhra final tally have no photo or no story; GitHub Actions photo jobs down)."
+  }
+ ],
+ "breaches": [
+  "in the top five at 18:35 as well: the lead and the four beside it never repeat within 6 hours: tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+  "led at 18:35 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+ ],
+ "lead": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+}

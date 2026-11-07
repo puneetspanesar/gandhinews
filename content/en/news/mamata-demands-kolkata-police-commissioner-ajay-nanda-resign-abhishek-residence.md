@@ -89,7 +89,7 @@ On Saturday afternoon police imposed **prohibitory orders under Section 163 of t
 
 ## What Mamata said
 
-"A group of lumpen elements backed by the BJP orchestrated the attack," Mamata said. She added: "An atmosphere of unrest has been deliberately created in this area before the Kali Puja." Of the chief minister, Suvendu Adhikari, she said that the one leading the administration was behind it, while adding that she was not blaming everyone in the BJP.
+"A group of lumpen elements backed by the BJP orchestrated the attack," Mamata said. She added: "An atmosphere of unrest has been deliberately created in this area before the Kali Puja." Without naming Chief Minister Suvendu Adhikari, she said that the one leading the administration was behind it, while adding that she was not blaming everyone in the BJP.
 
 She told the police: "do not cross your limits. If you cross the limits, I will fight you." She said she might move the Supreme Court, and that if she was stopped she would hold the Kali Puja in front of the Kalighat temple.
 

@@ -6,7 +6,7 @@ section: states
 format_label: "States / Uttar Pradesh"
 topics: [states]
 title: "Uttar Pradesh raises dearness allowance by 3 points to 63% ahead of Diwali"
-standfirst: "The enhanced allowance applies from July 1, 2026 and will come with November salaries, with four months of arrears from July to October paid under separate rules for each fund type."
+standfirst: "The enhanced allowance applies from July 1, 2026, and will come with November salaries, with four months of arrears from July to October paid under separate rules for each fund type."
 published: 2026-11-07T20:09:00+05:30
 location: Lucknow
 keyPoints:
@@ -66,7 +66,7 @@ How an employee receives the arrears depends on the fund they belong to.
 
 - **General Provident Fund (GPF) employees:** the arrears are credited to their GPF accounts, after the prescribed limits and income tax deductions. They stay there until November 1, 2027, and final withdrawal follows the rules for exceptional cases.
 - **National Pension System (NPS) employees:** **10% of the arrears goes to the Tier-I account**, to which the state adds 14%. The remaining 90% goes into a PPF account or National Savings Certificates, or is paid in cash if certificates are unavailable.
-- **Retirees:** employees who retired between July 1, 2026 and the date of the order, and those retiring within six months, get their full eligible arrears in cash.
+- **Retirees:** employees who retired between July 1, 2026, and the date of the order, and those retiring within six months, get their full eligible arrears in cash.
 
 ## Where it stands
 

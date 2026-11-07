@@ -49798,16 +49798,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg"
  },
  {
-  "id": "o-up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-  "articleId": "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Uttar_Pradesh_Chief_Minister%2C_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10%2C_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Yogi Adityanath (file photo)",
-  "alt_hi": "योगी आदित्यनाथ (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Uttar_Pradesh_Chief_Minister,_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10,_2018_(cropped).jpg"
- },
- {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Homi_Bhabha_Block_at_Tata_Memorial_Hospital_Mumbai.jpg/1280px-Homi_Bhabha_Block_at_Tata_Memorial_Hospital_Mumbai.jpg",
   "credit": "Photo: Reetesh Chaurasia / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
@@ -49826,5 +49816,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins,_2026_Living_Wage_Election_Forum_(cropped).jpg",
   "id": "r-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
   "articleId": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
+ },
+ {
+  "id": "o-up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+  "articleId": "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Uttar_Pradesh_Chief_Minister%2C_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10%2C_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Yogi Adityanath (file photo)",
+  "alt_hi": "योगी आदित्यनाथ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Uttar_Pradesh_Chief_Minister,_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10,_2018_(cropped).jpg"
  }
 ]

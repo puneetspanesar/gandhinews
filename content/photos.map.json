@@ -32462,7 +32462,7 @@
     "src800": "/photos/i-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Mamata Banerjee; library download failed (GitHub Actions down), quick_photo not retried"
+  "nophoto": "library Mamata Banerjee: download failed (GitHub Actions jobs failing, retried); quick_photo: 0 unused; finder runs on the same failing jobs"
  },
  "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears": {
   "id": "i-up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
@@ -32505,31 +32505,93 @@
     "src800": "/photos/i-up-da-hike-3-per-cent-63-per-cent-state-employees-arrears-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Yogi Adityanath; library download failed (GitHub Actions down), quick_photo not retried"
+  "nophoto": "library Yogi Adityanath: download failed twice (GitHub Actions run 42383301861 failed); quick_photo: 0 unused; finder runs on the same failing jobs"
  },
  "cancer-drugs-137-revised-prices-november-9-nppa": {
-  "id": "r-cancer-drugs-137-revised-prices-november-9-nppa",
-  "src": "/photos/r-cancer-drugs-137-revised-prices-november-9-nppa-1280.jpg",
-  "src800": "/photos/r-cancer-drugs-137-revised-prices-november-9-nppa-640.jpg",
+  "id": "i-cancer-drugs-137-revised-prices-november-9-nppa",
+  "src": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-en-3x2-1280.jpg",
+  "src800": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Photo: Reetesh Chaurasia / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Tata Memorial Hospital, a cancer hospital in Mumbai (file photo)",
-  "alt_hi": "मुंबई का कैंसर अस्पताल टाटा मेमोरियल हॉस्पिटल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Homi_Bhabha_Block_at_Tata_Memorial_Hospital_Mumbai.jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 137 cancer drugs get lower MRPs from Monday",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सोमवार से 137 कैंसर दवाओं की एमआरपी कम",
+  "page": null,
+  "ihash": "2db5b4e4094e",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-hi-3x2-1280.jpg",
+    "src800": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-en-t-1280.jpg",
+    "src800": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-hi-t-1280.jpg",
+    "src800": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-en-1280.jpg",
+    "src800": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-hi-1280.jpg",
+    "src800": "/photos/i-cancer-drugs-137-revised-prices-november-9-nppa-hi-640.jpg"
+   }
+  },
+  "nophoto": "quick_photo pick (Tata Memorial atrium) rejected by the editor as generic; finder unavailable (GitHub Actions jobs failing)"
  },
  "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins": {
-  "id": "r-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-  "src": "/photos/r-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-1280.jpg",
-  "src800": "/photos/r-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-640.jpg",
+  "id": "i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+  "src": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-en-3x2-1280.jpg",
+  "src800": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Photo: Dhantegge / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Labour leader Chris Hipkins at an election forum in Lower Hutt, September 2026 (file photo)",
-  "alt_hi": "सितंबर 2026 में लोअर हट में एक चुनावी मंच पर लेबर नेता क्रिस हिपकिंस (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins,_2026_Living_Wage_Election_Forum_(cropped).jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: National 29.3%, Labour 29.2% with 97% counted",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 97% गिनती पर नेशनल 29.3%, लेबर 29.2%",
+  "page": null,
+  "ihash": "7ec0cd8e837b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-en-t-1280.jpg",
+    "src800": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-hi-t-1280.jpg",
+    "src800": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-en-1280.jpg",
+    "src800": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-hi-1280.jpg",
+    "src800": "/photos/i-nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins-hi-640.jpg"
+   }
+  },
+  "nophoto": "Hipkins quick_photo rejected (cropped, trailing leader); Luxon library photo inside 7 days; finder unavailable (GitHub Actions jobs failing)"
  },
  "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open": {
   "id": "i-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
