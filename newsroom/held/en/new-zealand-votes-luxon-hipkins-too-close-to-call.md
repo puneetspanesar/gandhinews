@@ -33,7 +33,7 @@ infographic:
     - {icon: users, value: "1.67 million", label: "had voted by Thursday, over a third of those eligible"}
     - {icon: clock, value: "11:30 am IST", label: "polls close, preliminary results follow"}
     - {icon: calendar, value: "Nov 27", label: "official result with special votes"}
-  source: "Electoral Commission and Reuters, November 6, 2026"
+  source: "New Zealand Electoral Commission, November 6, 2026"
 related: []
 seo:
   description: "New Zealand votes on November 7, 2026, with Christopher Luxon's coalition and Chris Hipkins' Labour level in the polls. Polls close 11:30 am IST."

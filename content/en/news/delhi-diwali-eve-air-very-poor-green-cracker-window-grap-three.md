@@ -5,8 +5,8 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: []
-title: "Delhi wakes to very poor air on Diwali eve with GRAP III in force"
-standfirst: "Friday's AQI of 382 to 391 was the lowest in four days but still very poor, and forecasters expect it to worsen over the Diwali weekend as green crackers are allowed for two days."
+title: "Delhi air stays very poor on Diwali eve with GRAP III in force"
+standfirst: "Friday's AQI of 382 to 391 was below the 400 severe mark and down from 445 and 412 on November 4 and 5, but still very poor, and forecasters expect it to worsen over the Diwali weekend as green crackers are allowed for two days."
 published: 2026-11-07T08:07:42+05:30
 location: New Delhi
 keyPoints:
@@ -62,7 +62,7 @@ verification:
 
 Delhi began Diwali eve under **very poor air**, with GRAP Stage III curbs in force across the capital region. Friday's daily AQI was recorded at **382 to 391, in the very poor band** and just under the 400 mark for severe, according to the figures available on Saturday morning. No reading dated November 7 had been published by 8:10 am.
 
-The week's numbers show how high the air has stayed. Delhi's daily AQI was 389 on November 3, **445 on November 4**, 412 on November 5 and 391 on November 6. Friday was the lowest of the four, but it was still far above last year, when the Diwali eve reading was 296 and Diwali day 345.
+The week's numbers show how high the air has stayed. Delhi's daily AQI was 389 on November 3, **445 on November 4**, 412 on November 5 and 391 on November 6. Friday stayed below the severe mark of 400, but it was still far above last year, when the Diwali eve reading was 296 and Diwali day 345.
 
 ## Hotspots in the severe band
 

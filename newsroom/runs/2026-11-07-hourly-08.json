@@ -1,0 +1,48 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-07T08:04:32+05:30",
+ "end": "2026-11-07T08:49:59+05:30",
+ "summary": "Suvendu CAA lead, Mannan arrest, Andhra counting, Delhi air, Bosch Q2; 3 held by the editor",
+ "new": [
+  "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+  "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+  "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
+  "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+  "suvendu-adhikari-caa-citizenship-december-31-nadia"
+ ],
+ "held": [
+  "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
+  "new-zealand-votes-luxon-hipkins-too-close-to-call",
+  "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "suvendu-adhikari-caa-citizenship-december-31-nadia",
+   "kind": "picture",
+   "why": "The lead story's main picture is a small, low-resolution official passport-style headshot blown up to lead size. It is soft and grainy, and the top of his head is cut off; on mobile the crop cuts across his forehead.",
+   "fix": "Use a sharp, wider photo of Suvendu Adhikari speaking at a public event (library, quick_photo.py, finder 'Suvendu Adhikari'), with his whole head in frame in both the desktop and mobile crops."
+  },
+  {
+   "id": "new-zealand-votes-luxon-hipkins-too-close-to-call",
+   "kind": "picture",
+   "why": "The main picture is an extreme close-up of Christopher Luxon with his mouth open and the top of his head cut off. The story is a two-way race (hero.need asks for both Luxon and Chris Hipkins), but only Luxon is shown.",
+   "fix": "Use a properly framed photo of Christopher Luxon and Chris Hipkins together, either a side-by-side pair or a debate photo. Failing that, use a full-head photo of Luxon and put Hipkins in an in-story photo."
+  },
+  {
+   "id": "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
+   "kind": "picture",
+   "why": "The main picture is the widely reused stock aurora shot (green aurora over a snowy Alaskan lake from years ago), a generic stand-in for a story about this week's coronal-hole solar wind. The copy also still treats the Kp 5 peak (5:30 to 8:30 am IST on November 7) as a forecast, though that window has passed.",
+   "fix": "Use a NASA SDO image of this week's coronal hole (public domain), or a labelled photo of an aurora from this storm. Update the English and Hindi copy with the observed Kp/G level for the early hours of November 7."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
+   "why": "The standfirst says Friday's 382 to 391 was 'the lowest in four days', and the body says 'Friday was the lowest of the four' (the Hindi says the same). The story's own series, and Daily Jagran, put Nov 3 at 389, which is lower than Friday's 391, so the cover chart contradicts the text. The headline says Delhi 'wakes to' very poor air but gives no Saturday reading, only Friday's daily average.",
+   "done": "Removed the \"lowest in four days\" claim in English and Hindi (standfirst and body): now below the 400 severe mark and down from 445 and 412 on November 4 and 5. English headline reworded to \"Delhi air stays very poor on Diwali eve with GRAP III in force\"; no Saturday CPCB reading was found this run."
+  }
+ ],
+ "breaches": [],
+ "lead": "suvendu-adhikari-caa-citizenship-december-31-nadia"
+}

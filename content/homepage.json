@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
-      "new-zealand-votes-luxon-hipkins-too-close-to-call",
-      "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
-      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-      "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
+      "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+      "bbmb-power-sharing-explained-himachal-share-supreme-court"
     ],
     "live": {
       "title": {
@@ -33,50 +33,6 @@
   },
   "briefing": {
     "items": [
-      {
-        "link": "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Second ODI in Wellington waits on a wet outfield as the toss is pushed back",
-          "hi": "वेलिंगटन में दूसरे वनडे का टॉस बारिश और गीले आउटफील्ड से टला"
-        }
-      },
-      {
-        "link": "new-zealand-votes-luxon-hipkins-too-close-to-call",
-        "lead": {
-          "en": "Oceania:",
-          "hi": "ओशिनिया:"
-        },
-        "text": {
-          "en": "New Zealand votes with Luxon and Hipkins neck and neck and a small party holding the key",
-          "hi": "न्यूज़ीलैंड में वोटिंग, लक्सन और हिपकिन्स में कांटे की टक्कर, छोटी पार्टी के हाथ में चाबी"
-        }
-      },
-      {
-        "link": "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "Fast solar wind keeps a geomagnetic storm watch on for Saturday, with a chance of auroras far south",
-          "hi": "तेज़ सौर हवा से शनिवार को भू-चुंबकीय तूफान की चेतावनी, दक्षिण तक दिख सकती है ध्रुवीय ज्योति"
-        }
-      },
-      {
-        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
-          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
-        }
-      },
       {
         "link": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
         "lead": {
@@ -89,14 +45,47 @@
         }
       },
       {
-        "link": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
         },
         "text": {
-          "en": "Andhra parishad counting under way at 365 centres, no trends yet",
-          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर मतगणना जारी, अभी कोई रुझान नहीं"
+          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
+          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
+        }
+      },
+      {
+        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
+          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
+        }
+      },
+      {
+        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
+          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+        }
+      },
+      {
+        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "lead": {
+          "en": "Power:",
+          "hi": "बिजली:"
+        },
+        "text": {
+          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
+          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
         }
       },
       {
@@ -111,14 +100,25 @@
         }
       },
       {
-        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
         "lead": {
-          "en": "Home Ministry:",
-          "hi": "गृह मंत्रालय:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
-          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
+          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
+          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
+        }
+      },
+      {
+        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
+          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+      "id": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
       "also": []
     },
     "list": [
-      "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
       "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "jharkhand-khunti-trailer-crowd-seven-killed"
+      "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
+      "bail-granted-is-not-freedom-release-the-under-trials"
     ],
     "also": [
-      "amit-shah-dehradun-rally-speech-1475-crore-projects",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
+      "railways-18000-festive-specials-trips-claim",
+      "khunti-crash-night-highways-need-lights-and-speed-checks"
     ]
   },
   "startHere": [
@@ -403,9 +403,9 @@
       "section": "states",
       "lead": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
       "list": [
+        "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
         "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "amit-shah-presidents-police-colour-uttarakhand-police"
+        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
       ]
     },
     {
@@ -428,28 +428,26 @@
   "desks": [
     {
       "section": "world",
-      "lead": "new-zealand-votes-luxon-hipkins-too-close-to-call",
+      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
       "list": [
-        "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands"
+        "iran-hands-us-nuclear-proposal-seven-demands",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
       ]
     },
     {
       "section": "science",
-      "lead": "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
-      "list": [
-        "navy-receives-amini-anti-submarine-shallow-water-craft"
-      ]
+      "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "list": []
     },
     {
       "section": "sports",
-      "lead": "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
+      "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
       "list": [
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],
@@ -472,34 +470,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India v New Zealand, second ODI, Wellington, toss delayed by rain",
-        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, बारिश से टॉस में देरी"
-      },
-      "link": "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections",
         "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना"
       },
       "link": "andhra-parishad-polls-four-voters-two-poll-staff-die"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "New Zealand election: polls close 11:30 am IST, first results soon after",
-        "hi": "न्यूज़ीलैंड चुनाव: मतदान सुबह 11:30 बजे (भारतीय समय) बंद, नतीजे जल्द"
-      },
-      "link": "new-zealand-votes-luxon-hipkins-too-close-to-call"
     },
     {
       "icon": "calendar-blank",
@@ -524,6 +498,30 @@
         "hi": "पी एम मन्नान को सुबह 10 बजे मदुरै सीसीबी में पूछताछ के लिए पहुंचना है"
       },
       "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
+      },
+      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections from 8 am",
+        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना सुबह 8 बजे से"
+      },
+      "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
     }
   ],
   "headlineHistory": [
@@ -636,17 +634,17 @@
       ]
     },
     {
-      "at": "2026-11-07T08:18:59+05:30",
+      "at": "2026-11-07T08:47:29+05:30",
       "ids": [
         "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
-        "new-zealand-votes-luxon-hipkins-too-close-to-call",
-        "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
         "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
       ]
     }
   ],

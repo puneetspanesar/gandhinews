@@ -49538,20 +49538,10 @@
   "page": "https://commons.wikimedia.org/wiki/File:Stephen_miller_june_2016_cropped_corrected.jpg"
  },
  {
-  "id": "o-suvendu-adhikari-caa-citizenship-december-31-nadia",
-  "articleId": "suvendu-adhikari-caa-citizenship-december-31-nadia",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Suvendu_Adhikariji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: PRS India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Suvendu Adhikari (file photo)",
-  "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Suvendu_Adhikariji.jpg"
- },
- {
   "id": "o-mannan-arrested-madurai-tvk-mla-offer-released-bond",
   "articleId": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tamil_Nadu_CM_Edappadi_K._Palaniswami_at_the_Finals_of_68th_National_Basketball_Championship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Silverscreen Media Inc. (https://silverscreen.in) / Wikimedia Commons",
+  "credit": "Photo: Silverscreen Media Inc. / Wikimedia Commons",
   "licence": "CC BY-SA 3.0",
   "alt": "Edappadi K. Palaniswami (file photo)",
   "alt_hi": "एडप्पाडी के. पलानीस्वामी (फ़ाइल फ़ोटो)",
@@ -49586,5 +49576,15 @@
   "alt": "Green aurora lights over a snowy landscape (file photo)",
   "alt_hi": "बर्फीले इलाके के ऊपर हरी ध्रुवीय ज्योति (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg"
+ },
+ {
+  "id": "o-suvendu-adhikari-caa-citizenship-december-31-nadia",
+  "articleId": "suvendu-adhikari-caa-citizenship-december-31-nadia",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Prime_Minister_of_Bharat%2C_Shri_Narendra_Damodardas_Modi_with_the_Chief_Minister_of_West_Bengal%2C_Shri_Suvendu_Adhikari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Chief Minister Suvendu Adhikari with Prime Minister Narendra Modi at a public event (file photo)",
+  "alt_hi": "एक सार्वजनिक कार्यक्रम में प्रधानमंत्री नरेंद्र मोदी के साथ मुख्यमंत्री शुभेंदु अधिकारी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_with_the_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari.jpg"
  }
 ]
