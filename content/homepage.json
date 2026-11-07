@@ -16,15 +16,13 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-      "who-six-climate-health-actions-1-6-million-lives-cop31",
-      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-      "semicon-india-2-portal-vaishnaw-12-ecms-projects"
+      "amit-shah-presidents-police-colour-uttarakhand-police",
+      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+      "obc-creamy-layer-explained-parents-salary-supreme-court",
+      "bbmb-power-sharing-explained-himachal-share-supreme-court",
+      "railways-18000-festive-specials-trips-claim"
     ],
     "live": {
       "title": {
@@ -36,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+        "link": "amit-shah-presidents-police-colour-uttarakhand-police",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "Uttarakhand:",
+          "hi": "उत्तराखंड:"
         },
         "text": {
-          "en": "New Zealand votes with Luxon and Hipkins level in the final polls",
-          "hi": "न्यूज़ीलैंड में मतदान, आखिरी सर्वे में लक्सन और हिपकिंस बराबरी पर"
+          "en": "Amit Shah hands Uttarakhand Police the President's Colour, promises verdicts within three years",
+          "hi": "अमित शाह ने उत्तराखंड पुलिस को सौंपा राष्ट्रपति निशान, तीन साल में सजा का भरोसा"
         }
       },
       {
-        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Electoral rolls:",
+          "hi": "मतदाता सूची:"
         },
         "text": {
-          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
-          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
+          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
+          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
         }
       },
       {
-        "link": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Reservation:",
+          "hi": "आरक्षण:"
         },
         "text": {
-          "en": "Shelton beats Paul to reach Paris Masters semi-final and end Turin hopes of Paul",
-          "hi": "पेरिस मास्टर्स: शेल्टन ने पॉल को हराकर सेमीफाइनल में जगह बनाई, पॉल की ट्यूरिन की उम्मीद खत्म"
+          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
+          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
         }
       },
       {
-        "link": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Power:",
+          "hi": "बिजली:"
         },
         "text": {
-          "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
-          "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
+          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
+          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
         }
       },
       {
-        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "link": "railways-18000-festive-specials-trips-claim",
         "lead": {
-          "en": "Electronics:",
-          "hi": "इलेक्ट्रॉनिक्स:"
+          "en": "Railways:",
+          "hi": "रेलवे:"
         },
         "text": {
-          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
-          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
+          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
+          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
         }
       },
       {
-        "link": "wb-suvendu-police-attacks-asansol-recruitment-29000",
+        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Suvendu Adhikari warns attackers of police: 'They will end up behind bars'",
-          "hi": "शुभेंदु अधिकारी की चेतावनी: पुलिस पर हमला करने वाले 'सलाखों के पीछे होंगे'"
+          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
         }
       },
       {
-        "link": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+        "link": "fox-completes-22-billion-roku-acquisition",
         "lead": {
-          "en": "Results:",
-          "hi": "नतीजे:"
+          "en": "Media:",
+          "hi": "मीडिया:"
         },
         "text": {
-          "en": "Tata Steel Q2 profit rises 18% to ₹3,666 crore as India business carries the group",
-          "hi": "टाटा स्टील का दूसरी तिमाही का मुनाफा 18% बढ़कर ₹3,666 करोड़, भारत कारोबार ने संभाला"
+          "en": "Fox completes $22 billion Roku takeover, months ahead of schedule",
+          "hi": "फॉक्स ने तय समय से काफी पहले पूरा किया 22 अरब डॉलर का रोकू अधिग्रहण"
         }
       },
       {
-        "link": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+        "link": "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "New Zealand election: Luxon and Hipkins separated by about 3,500 votes, no winner yet",
-          "hi": "न्यूज़ीलैंड चुनाव: लक्सन और हिपकिंस के बीच करीब 3,500 वोट का फासला, अभी कोई विजेता नहीं"
+          "en": "Hoax bomb threats hit European flights and broadcasters for a third day, NATO orders air patrol",
+          "hi": "यूरोप में उड़ानों और प्रसारकों को लगातार तीसरे दिन बम की झूठी धमकियां, नाटो ने हवाई गश्त का आदेश दिया"
         }
       }
     ]
@@ -188,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "wb-suvendu-police-attacks-asansol-recruitment-29000",
+      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
       "also": []
     },
     "list": [
-      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-      "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
-      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-      "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
-      "amit-shah-presidents-police-colour-uttarakhand-police"
+      "fox-completes-22-billion-roku-acquisition",
+      "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+      "rain-industries-q3-profit-243-crore-interim-dividend"
     ],
     "also": [
-      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-      "navy-receives-amini-anti-submarine-shallow-water-craft"
+      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+      "nadda-national-cancer-awareness-day-screening-appeal"
     ]
   },
   "startHere": [
@@ -407,7 +405,7 @@
       "list": [
         "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
         "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast"
+        "punjab-paddy-procurement-record-150-lmt-kataruchak"
       ]
     },
     {
@@ -442,18 +440,17 @@
       "section": "science",
       "lead": "nadda-national-cancer-awareness-day-screening-appeal",
       "list": [
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "navy-receives-amini-anti-submarine-shallow-water-craft"
+        "who-six-climate-health-actions-1-6-million-lives-cop31"
       ]
     },
     {
       "section": "sports",
-      "lead": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+      "lead": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
       "list": [
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
       ]
     }
   ],
@@ -531,21 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T06:54:01+05:30",
-      "ids": [
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "railways-18000-festive-special-trains",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "rain-industries-q3-profit-243-crore-interim-dividend",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
-      ]
-    },
     {
       "at": "2026-11-07T07:40:18+05:30",
       "ids": [
@@ -646,6 +628,20 @@
         "wb-suvendu-police-attacks-asansol-recruitment-29000",
         "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
+      ]
+    },
+    {
+      "at": "2026-11-07T19:17:46+05:30",
+      "ids": [
+        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+        "amit-shah-presidents-police-colour-uttarakhand-police",
+        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "railways-18000-festive-specials-trips-claim",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "fox-completes-22-billion-roku-acquisition",
+        "europe-bomb-threat-wave-flights-broadcasters-third-day"
       ]
     }
   ],

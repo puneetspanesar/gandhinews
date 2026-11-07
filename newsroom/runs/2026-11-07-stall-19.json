@@ -1,0 +1,13 @@
+{
+ "run": "stall-19",
+ "start": "2026-11-07T18:53:46+05:30",
+ "end": "2026-11-07T19:20:51+05:30",
+ "summary": "Homepage rotated for the 19:00 hour; rotation job blocked by Actions billing",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
+}
