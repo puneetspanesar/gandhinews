@@ -90,7 +90,7 @@ That matching was never fully done. Until it was, the order said the income test
 
 ## What did the government do instead?
 
-**It began counting the salary.** A Department of Personnel and Training letter of October 14, 2004 said that where equivalence had not been worked out, a parent's salary and other income would be assessed separately. If either crossed the limit, then ₹2.5 lakh, for three years in a row, the candidate was treated as creamy layer.
+**It began counting the salary.** A Department of Personnel and Training letter of October 14, 2004, said that where equivalence had not been worked out, a parent's salary and other income would be assessed separately. If either crossed the limit, then ₹2.5 lakh, for three years in a row, the candidate was treated as creamy layer.
 
 In practice this meant the child of a PSU engineer could be **excluded on pay alone**, while the child of a government employee was still judged by the rank of the parent's post. A parliamentary committee later remarked that the letter did more to confuse the position than to clarify it.
 

@@ -93,7 +93,7 @@ For three decades the claim got nowhere. In 1996 Himachal filed an original suit
 
 **It gave Himachal a 7.19% share, backdated to the start.** In its decree of September 27, 2011, the Supreme Court fixed the shares of the successor states at 51.80% for Punjab, 37.51% for Haryana, **7.19% for Himachal** and 3.50% for Chandigarh, leaving Rajasthan's separate share largely as it was.
 
-Himachal's entitlement ran from November 1, 1966 for Bhakra, November 1977 for Dehar and January 1978 for Pong. From November 1, 2011 the BBMB began giving the state its share of current power. The past was another matter.
+Himachal's entitlement ran from November 1, 1966, for Bhakra, November 1977 for Dehar and January 1978 for Pong. From November 1, 2011, the BBMB began giving the state its share of current power. The past was another matter.
 
 ```chart
 {"type":"hbar","title":"Who gets BBMB power","subtitle":"Share of the successor states and Chandigarh, after Rajasthan's share (%)","unit":"%","data":[{"label":"Punjab","value":51.8},{"label":"Haryana","value":37.51},{"label":"Himachal Pradesh","value":7.19,"highlight":true},{"label":"Chandigarh","value":3.5}]}
@@ -106,10 +106,6 @@ Himachal's entitlement ran from November 1, 1966 for Bhakra, November 1977 for D
 The deadlock broke when the Centre suggested skipping money altogether. At a hearing on July 30, 2026, Attorney General R Venkataramani told the bench that relying on the 1966 Act alone would never produce a settlement. "Something has to be done," he said. Under the proposal, Himachal would also not have to pay about ₹420 crore it owed the two states or over ₹400 crore in capital costs.
 
 Haryana agreed in principle. Punjab objected, calling a rate of ₹2.5 a unit too high and saying it would lose about ₹2,000 crore. The bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana was blunt: "there is a decree of the court and it has to be followed."
-
-```photo
-{"n":1,"subject":"Pandoh Dam","caption":"The Pandoh Dam on the Beas in Mandi, which diverts water through the Beas-Sutlej link to the Dehar power house, one of the three projects in the dispute.","alt":"Pandoh Dam on the Beas river in Mandi district"}
-```
 
 ## What has the court now ordered?
 
