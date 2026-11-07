@@ -492,6 +492,7 @@ export async function homeModel(lang: Lang) {
     const out: any[] = [];
     for (const id of ids) {
       if (!id || out.length >= n || used.has(id) || !c.all.get(id) || !hasPic(id)) continue;
+      if ((c.all.get(id) as any).data.type === 'news' && (Date.now() - +new Date((c.all.get(id) as any).data.published)) / 3.6e6 > 48) continue;  // owner: nothing older than 48 hours on the homepage
       used.add(id); out.push(short(card(id)));
     }
     return out;
@@ -514,7 +515,7 @@ export async function homeModel(lang: Lang) {
   }
   const headlines = chosen;
   // ---- Desks: world, science and tech, sports. Never repeat a story or a photo already shown above, and never show
-  // week-old news when the desk has anything recent: stories from the last 72 hours first, older only to fill.
+  // news older than 48 hours (owner's rule).
   const shownSrc = new Set<string>(  // same alt text = same photo (reused photos get new file names)
     [lead.id, ...headlines.map((x: any) => x.id), ...lead.below.map((x: any) => x.id)].map((id) => (PHOTO_MAP as any)[id]?.alt).filter(Boolean));
   const shownIds = new Set<string>([lead.id, ...headlines.map((x: any) => x.id), ...lead.below.map((x: any) => x.id)]);
@@ -522,12 +523,14 @@ export async function homeModel(lang: Lang) {
   const deskFill = (sec: string) => [...c.articles].filter((x: any) => x.data.type === 'news' && x.data.section === sec && hasPic(x.data.id)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 12).map((x: any) => x.data.id);
   const desks = (HOME.desks ?? []).map((s: any) => {
     const pool = [...new Set([s.lead, ...(s.list ?? []), ...deskFill(s.section)])].filter((x: string) => has(x) && hasPic(x) && !shownIds.has(x));
-    const fresh = pool.filter((x) => ageH(x) <= 72), older = pool.filter((x) => ageH(x) > 72);
+    // owner's rule (November 7): nothing older than 48 hours on the homepage; a desk without a full row of fresh stories is not shown
+    const fresh = pool.filter((x) => ageH(x) <= 48), older: string[] = [];
     const ok: string[] = []; const src = new Set(shownSrc);
     // Same alt text can mean the same photo reused: check:photos already keeps a source photo out of two stories within 7 days,
     // so the alt test is only needed for older stories (two Kohli photos from this week share an alt but are different pictures).
     for (const x of [...fresh, ...older]) { const p = (PHOTO_MAP as any)[x]?.alt; if (p && src.has(p) && ageH(x) > 168) continue; if (p) src.add(p); ok.push(x); if (ok.length >= 5) break; }
-    return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null;
+    // a desk shows a full row (4 cards, sport 3) or is left out: never a half-empty row
+    return ok.length >= (s.section === 'sports' ? 3 : 4) ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null;
   }).filter(Boolean);
 
   const india = pick([sec('states').lead, ...(sec('politics').list ?? []), ...(sec('states').list ?? []), ...(sec('policy').list ?? []), sec('policy').lead, ...freshIds(['states', 'politics', 'policy'])], 3);

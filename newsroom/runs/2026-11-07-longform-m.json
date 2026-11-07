@@ -1,0 +1,19 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-07T06:37:00+05:30",
+ "end": "2026-11-07T07:21:33+05:30",
+ "summary": "Long-form morning: 2 explainers, 2 editorials, 1 fact check, trackers",
+ "new": [
+  "bail-granted-is-not-freedom-release-the-under-trials",
+  "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+  "bbmb-power-sharing-explained-himachal-share-supreme-court",
+  "obc-creamy-layer-explained-parents-salary-supreme-court",
+  "railways-18000-festive-specials-trips-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+}

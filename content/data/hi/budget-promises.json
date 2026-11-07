@@ -2,7 +2,7 @@
   "id": "budget-2026-27-promise-tracker",
   "title": "बजट 2026-27 के वादों का ट्रैकर",
   "budget": "केंद्रीय बजट 2026-27, जिसे वित्त मंत्री निर्मला सीतारमण ने 1 फरवरी 2026 को पेश किया",
-  "as_of": "2026-10-11",
+  "as_of": "2026-11-07",
   "status_definitions": {
     "delivered": "वादा किया गया उपाय औपचारिक रूप से लागू हो गया है: कोई कानून लागू हुआ है, या कैबिनेट ने कोई योजना या कोष मंजूर किया है। इसका मतलब यह नहीं कि इच्छित नतीजा हासिल हो गया है।",
     "in progress": "पुष्ट कदम उठाए गए हैं, या चालू साल के आंकड़े दिखाते हैं कि लक्ष्य पर नज़र रखी जा रही है, लेकिन वादा अभी पूरा नहीं हुआ है।",
@@ -176,8 +176,8 @@
       "budget_speech_reference": "पैरा 17",
       "category": "Industry",
       "status": "delivered",
-      "progress_note": "आईटी मंत्री अश्विनी वैष्णव ने बताया कि केंद्रीय कैबिनेट ने 15 जुलाई 2026 को ₹1.27 लाख करोड़ के कुल परिव्यय के साथ आईएसएम 2.0 को मंजूरी दी (पीटीआई)। इसके तहत परियोजनाओं पर नज़र नहीं रखी गई।",
-      "last_checked": "2026-10-11",
+      "progress_note": "आईटी मंत्री अश्विनी वैष्णव ने बताया कि केंद्रीय कैबिनेट ने 15 जुलाई 2026 को ₹1.27 लाख करोड़ के कुल परिव्यय के साथ आईएसएम 2.0 को मंजूरी दी (पीटीआई)। 6 नवंबर 2026 को वैष्णव ने सेमीकॉन 2.0 वेब आवेदन पोर्टल शुरू किया; पिलर 2, 3 और 4 (उपकरण और सामग्री, नए फैब, एटीएमपी/ओसैट) के लिए आवेदन खुले हैं। लॉन्च की रिपोर्टों में परिव्यय ₹1.275 लाख करोड़ बताया गया है।",
+      "last_checked": "2026-11-07",
       "sources": [
         {
           "publisher": "Ministry of Finance (Budget Speech 2026-27)",
@@ -188,6 +188,16 @@
           "publisher": "PTI via ThePrint",
           "url": "https://theprint.in/economy/cabinet-approves-rs-1-27-lakh-crore-for-semicon-mission-2-0/2987130/",
           "date": "2026-07-15"
+        },
+        {
+          "publisher": "Dataquest",
+          "url": "https://www.dqindia.com/semiconductors/ashwini-vaishnaw-launches-semicon-20-web-application-portal-12790123",
+          "date": "2026-11-06"
+        },
+        {
+          "publisher": "Punjab Kesari English",
+          "url": "https://english.punjabkesari.com/business/govt-launches-semicon-20-portal-clears-12-more-electronics-component-projects-worth-rs-7503-crore",
+          "date": "2026-11-06"
         }
       ],
       "ministry_hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी",

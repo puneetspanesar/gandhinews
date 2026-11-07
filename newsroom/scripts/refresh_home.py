@@ -114,7 +114,11 @@ if _pending_lead:
 lead = L['id']
 # under 7 hours, so it is still under 8 an hour later; never markets, never an infographic, never a stale clock figure
 fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
-bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
+# Owner's rule (November 7): a match result or a science story never leads by itself; only the run's front-page check
+# can put one up there (--lead, a BIG STORY such as an India World Cup win). The lead is national, state, world or economy news.
+NOLEAD = {'sports', 'science', 'tech'}
+lead_ok = lambda d: fresh_photo(d) and d.get('section') not in NOLEAD
+bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
     same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
@@ -123,9 +127,13 @@ if not bad and not a.lead and PIC.get(lead, {}).get('graphic'): bad = 'an infogr
 if bad and not a.lead:
     # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
     PRIO = {'politics': 0, 'national': 0, 'states': 0, 'india': 0, 'world': 1, 'sports': 2, 'science': 2, 'tech': 2, 'economy': 3}
-    cand = sorted([i for i in newest(fresh_photo) if allowed(i) and (i not in led or i in a.critical) and i not in core6], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp()))
-    # fallbacks, best first: a pictured story that was beside the lead in the last 6 hours (it never led), then an infographic story
-    cand = cand or [i for i in newest(fresh_photo) if allowed(i) and i not in led] or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i) and i not in led and i not in core6]
+    cand = sorted([i for i in newest(lead_ok) if allowed(i) and (i not in led or i in a.critical) and i not in core6], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp()))
+    # fallbacks, best first: a lead-worthy story that was beside the lead in the last 6 hours (it never led); a lead-worthy
+    # story up to 10 hours old (the first morning refresh, after the night pause); then an infographic story
+    lead_ok10 = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 10 * 3600 and d.get('section') not in NOLEAD and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
+    # last before an infographic: an important (non-sport) story up to 16 hours old beats a fresh match result (owner, November 7)
+    lead_ok16 = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 16 * 3600 and d.get('section') not in NOLEAD and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
+    cand = cand or [i for i in newest(lead_ok) if allowed(i) and i not in led] or [i for i in newest(lead_ok10) if allowed(i) and i not in led and i not in core6] or sorted([i for i in newest(lead_ok16) if allowed(i) and i not in led], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and d.get('section') not in NOLEAD and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i) and i not in led and i not in core6]
     if cand:
         print(f'lead {lead} replaced ({bad}) by {cand[0]}'); set_lead(cand[0]); lead = cand[0]
     else:
@@ -194,8 +202,10 @@ h['briefing']['items'] = [{'link': i, 'lead': {'en': short(A[i].get('format_labe
 
 # ---- section and desk lists
 for s in h.get('sections', []) + h.get('desks', []):
-    ids = newest(lambda d, sec=s['section']: d['type'] == 'news' and d.get('section') == sec and not clocked(d['id']) and d['id'] not in a.drop)  # rule 6: a stale clock figure never sits in a section list
-    if not ids: continue
+    # owner's rule (November 7): nothing older than 48 hours in any homepage section; a short section shows fewer stories
+    ids = newest(lambda d, sec=s['section']: d['type'] == 'news' and d.get('section') == sec and (now - d['_t']).total_seconds() < 48 * 3600 and not clocked(d['id']) and d['id'] not in a.drop)  # rule 6: a stale clock figure never sits in a section list
+    if not ids:
+        s['list'] = []; s.pop('lead', None); continue
     n = max(len(s.get('list') or []), 3)
     if 'lead' in s: s['lead'], s['list'] = ids[0], ids[1:1 + n]
     else: s['list'] = ids[:n]

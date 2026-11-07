@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -168,7 +168,7 @@
       "status_text": "बिहार एसआईआर सही ठहराया गया; बाद के चरणों की चुनौतियां लंबित",
       "last_date": "2026-11-04",
       "last_event": "4 नवंबर 2026 को दिल्ली के याचिकाकर्ताओं अंजलि भारद्वाज और अमृता जौहरी की ओर से प्रशांत भूषण ने मुख्य न्यायाधीश सूर्यकांत के सामने उल्लेख किया कि ईसीआई का 3 नवंबर का स्पष्टीकरण (मसौदा सूची से छूटे मतदाता फॉर्म 6 भर सकते हैं, और सिर्फ इस आधार पर जनप्रतिनिधित्व अधिनियम, 1950 की धारा 31 के तहत कार्रवाई नहीं होगी) कोर्ट की 28 अक्टूबर की उस टिप्पणी के उलट है कि ऐसे मतदाताओं को फॉर्म 6 के लिए मजबूर नहीं किया जा सकता और उन्हें फॉर्म 8 या गणना फॉर्म इस्तेमाल करने दिया जाए। मुख्य न्यायाधीश ने कहा कि लोगों को 'आशंकित होने की जरूरत नहीं', अर्जी दाखिल करने को कहा और संकेत दिया कि कोर्ट आयोग से समय सीमा बढ़ाने को कह सकता है। दिल्ली की मसौदा सूची से करीब 47.56 लाख मतदाता बाहर रहे। इससे पहले: सितंबर में दिल्ली की एक याचिका पर नोटिस; अगस्त में ईसीआई को पश्चिम बंगाल की लंबित अपीलों का ब्योरा देने का निर्देश; 27 मई 2026 को बिहार एसआईआर सर्वसम्मति से सही ठहराया गया।",
-      "next_step": "दिल्ली के फॉर्म 6 मुद्दे पर 19 नवंबर 2026 को सुनवाई; पश्चिम बंगाल के मामले लंबित।",
+      "next_step": "दिल्ली के फॉर्म 6 मुद्दे पर 19 नवंबर 2026 को सुनवाई; पश्चिम बंगाल के मामले लंबित। अलग से, 6 नवंबर 2026 को चुनाव आयोग ने दिल्ली, महाराष्ट्र, हरियाणा, आंध्र प्रदेश, झारखंड, तेलंगाना और नगालैंड की एसआईआर मसौदा सूचियों में अनुपस्थित, स्थानांतरित, मृत या दोहरे बताए गए मतदाताओं को अंतिम सूची से पहले गणना फॉर्म भरने (ईसीआईनेट पर ऑनलाइन या बीएलओ और ईआरओ को) का एक और मौका दिया; कोई समयसीमा नहीं बताई गई।",
       "sources": [
         {
           "title": "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6",
@@ -193,6 +193,12 @@
           "publisher": "Supreme Court Observer",
           "date": "2026-09-30",
           "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        },
+        {
+          "title": "EC Gives Fresh Opportunity To Electors Left Out Of Draft Rolls In 7 States During SIR (PTI)",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-06",
+          "url": "https://www.etvbharat.com/en/bharat/ec-gives-fresh-opportunity-to-electors-left-out-of-draft-rolls-in-7-states-during-sir-enn26110604531"
         }
       ],
       "notes": "4 नवंबर 2026 का दिल्ली वाला उल्लेख एक ही स्रोत (LiveLaw) पर आधारित; रिपोर्ट में मुख्य न्यायाधीश के अलावा पीठ के बाकी जजों के नाम नहीं। एससीओ ने सितंबर के नोटिस की सटीक तारीख नहीं बताई।",
@@ -800,6 +806,116 @@
       ],
       "notes": "मामले का शीर्षक विवरण के रूप में; तेजपाल 20 अगस्त 2026 को सुप्रीम कोर्ट पहुंचे। ब्योरा समाचार डेस्क की 6 नवंबर 2026 की खबर से (पीटीआई, द प्रिंट के ज़रिए; फ्री प्रेस जर्नल)।",
       "case_hi": "तरुण जे. तेजपाल बनाम गोवा राज्य (दोषसिद्धि के खिलाफ आपराधिक अपील, सजा निलंबन की अर्जी के साथ)",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "obc-creamy-layer-parents-salary",
+      "case": "Union of India's applications to modify the Supreme Court's OBC creamy layer judgment of 11 Mar 2026 (appeals from the Madras, Delhi and Kerala High Courts)",
+      "issue": "क्या सार्वजनिक क्षेत्र के उपक्रमों में काम करने वाले माता-पिता की वेतन आय को 1993 के कार्यालय ज्ञापन और 2004 के स्पष्टीकरण पत्र के तहत यंत्रवत जोड़कर ओबीसी सिविल सेवा उम्मीदवारों को क्रीमी लेयर में रखा जा सकता है।",
+      "bench_size": 2,
+      "bench": "जस्टिस पी एस नरसिम्हा और जस्टिस आर महादेवन",
+      "status": "decided",
+      "status_text": "केंद्र की बदलाव की अर्जी खारिज; अमल के लिए दो महीने और",
+      "last_date": "2026-11-06",
+      "last_event": "पीठ ने अपने 11 मार्च 2026 के फैसले में बदलाव से इनकार किया, कहा कि उसकी व्याख्या अनुच्छेद 141 के तहत बाध्यकारी है और माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता, कहा कि इसी व्याख्या के अनुसार क्रीमी लेयर का सिद्धांत सिविल सेवा परीक्षा 2025 के ओबीसी उम्मीदवारों के सेवा आवंटन पर लागू होगा, पीएसयू और बैंक पदों की समतुल्यता के लिए केंद्र की मांगी दो साल की समयसीमा तय करने से इनकार किया, अमल का समय दो महीने बढ़ाया और अर्जियों का निपटारा कर दिया। पूरे हो चुके चयन, नियुक्तियां और आवंटन दोबारा नहीं खुलेंगे।",
+      "next_step": "केंद्र बढ़ाए गए दो महीनों में अमल करे; अदालतों और अधिकरणों में लंबित ऐसे ही मामलों पर मार्च की व्याख्या के आधार पर फैसला होगा।",
+      "sources": [
+        {
+          "title": "Parents' salary income cannot determine OBC creamy layer status, reiterates SC (IANS)",
+          "publisher": "Punjab Kesari English",
+          "date": "2026-11-06",
+          "url": "https://english.punjabkesari.com/india/sc-reiterates-parents-salary-income-cannot-determine-obc-creamy-layer-status/"
+        }
+      ],
+      "notes": "मामले का शीर्षक विवरण के रूप में; स्रोत में मामले का नाम नहीं। एक ही स्रोत (आईएएनएस)। ब्योरा समाचार डेस्क की 6 नवंबर 2026 की खबर से।",
+      "case_hi": "ओबीसी क्रीमी लेयर पर सुप्रीम कोर्ट के 11 मार्च 2026 के फैसले में बदलाव की केंद्र की अर्जियां (मद्रास, दिल्ली और केरल हाईकोर्ट से आई अपीलें)",
+      "status_hi": "तय"
+    },
+    {
+      "id": "up-under-trials-bail-release",
+      "case": "In Re: Policy Strategy for Grant of Bail (suo motu), Uttar Pradesh under-trials",
+      "issue": "उत्तर प्रदेश के वे विचाराधीन कैदी जिन्हें जमानत मिल चुकी है, पर जमानतदार या दूसरी शर्तें पूरी न कर पाने के कारण वे हिरासत में हैं।",
+      "bench_size": 2,
+      "bench": "जस्टिस एम एम सुंदरेश और जस्टिस प्रसन्ना बी वराले",
+      "status": "pending",
+      "status_text": "रिहाई के निर्देश सभी 75 जिलों तक बढ़ाए गए",
+      "last_date": "2026-11-06",
+      "last_event": "उत्तर प्रदेश ने पीठ को बताया कि 20 जिलों में जमानत के बावजूद हिरासत में 264 विचाराधीन कैदी मिले, 158 रिहा हो चुके हैं और 106 पर फैसला लंबित है। पीठ ने यह कवायद सभी 75 जिलों तक बढ़ाई, कहा कि \"the onus lies on the state\", राज्य को निर्देश दिया कि वह जिला विधिक सेवा प्राधिकरणों के साथ मिलकर ऐसे सभी कैदियों की मदद करे, निजी वकील वालों की भी, और निचली अदालतों से ज़रूरत पड़ने पर जमानत की शर्तें बदलने को कहा।",
+      "next_step": "अगली सुनवाई 20 जनवरी 2027।",
+      "sources": [
+        {
+          "title": "SC asks UP to ensure release of under-trials granted bail but still in custody (IANS)",
+          "publisher": "Punjab Kesari English",
+          "date": "2026-11-06",
+          "url": "https://english.punjabkesari.com/india/sc-asks-up-to-ensure-release-of-under-trials-granted-bail-but-still-in-custody"
+        }
+      ],
+      "notes": "एक ही स्रोत (आईएएनएस)। आदेश का पाठ sci.gov.in पर नहीं देखा गया। ब्योरा समाचार डेस्क की 6 नवंबर 2026 की खबर से।",
+      "case_hi": "इन री: पॉलिसी स्ट्रैटेजी फॉर ग्रांट ऑफ बेल (स्वतः संज्ञान), उत्तर प्रदेश के विचाराधीन कैदी",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "himachal-bbmb-arrears",
+      "case": "State of Himachal Pradesh v. State of Punjab and others (BBMB share arrears, suit filed in 1996)",
+      "issue": "पंजाब और हरियाणा हिमाचल प्रदेश को भाखड़ा ब्यास प्रबंधन बोर्ड की परियोजनाओं में उसके 7.19% हिस्से का बकाया कैसे चुकाएं, जो सुप्रीम कोर्ट ने सितंबर 2011 में तय किया था और भाखड़ा के लिए नवंबर 1966 से तथा देहर और पौंग के लिए 1970 के दशक के आखिर से देय है।",
+      "bench_size": 3,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची व जस्टिस वी मोहना",
+      "status": "decided",
+      "status_text": "बकाया बिजली में: 20 साल में 11,973 मिलियन यूनिट",
+      "last_date": "2026-11",
+      "last_event": "पीठ ने नकद रहित समझौते को मंजूरी दी, जिसके तहत पंजाब और हरियाणा 20 साल में हिमाचल को बीबीएमबी की 11,973 मिलियन यूनिट बिजली देंगे (पंजाब ने 30 साल मांगे थे, हिमाचल ने 10, अटॉर्नी जनरल ने 15 का प्रस्ताव रखा था)। पंजाब की आपत्तियां नहीं मानी गईं। हिमाचल के महाधिवक्ता अनूप कुमार रतन ने 6 नवंबर 2026 को शिमला में नतीजे की जानकारी दी और फायदा हर साल ₹600 करोड़ से ₹800 करोड़ आंका।",
+      "next_step": "राज्य के अनुसार बिजली 20 साल तक अक्टूबर से मार्च के बीच ली जाएगी। हिमाचल का कहना है कि वह जल उपकर और शानन परियोजना की वापसी के लिए अलग से लड़ेगा।",
+      "sources": [
+        {
+          "title": "Himachal Pradesh to gain Rs 600-800 crore annually from BBMB power share",
+          "publisher": "ANI",
+          "date": "2026-11-06",
+          "url": "https://aninews.in/news/national/general-news/himachal-pradesh-to-gain-rs-600-800-crore-annually-from-bbmb-power-share20261106184605/"
+        },
+        {
+          "title": "'Won Another Major Battle For State': Himachal CM Sukhu On SC Decision Regarding BBMB Arrears",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-06",
+          "url": "https://www.etvbharat.com/en/state/won-another-major-battle-for-state-himachal-cm-sukhu-on-sc-decision-regarding-bbmb-arrears-enn26110603710"
+        },
+        {
+          "title": "BBMB share dispute: Centre proposes cashless settlement of arrears to Himachal; SC pulls up Punjab",
+          "publisher": "The Tribune",
+          "date": "2026-07-30",
+          "url": "https://www.tribuneindia.com/news/himachal/bbmb-share-dispute-centre-proposes-cashless-settlement-of-arrears-to-himachal-sc-pulls-punjab/"
+        }
+      ],
+      "notes": "फैसले की सटीक तारीख किसी पढ़े गए स्रोत में नहीं; सिर्फ महीना। आकलन अलग अलग: रतन (₹10 प्रति यूनिट पर हर साल ₹600 से ₹800 करोड़) और मुख्यमंत्री सुक्खू (₹6 पर हर साल करीब ₹500 करोड़)। मामले का शीर्षक विवरण के रूप में। ब्योरा समाचार डेस्क की 6 नवंबर 2026 की खबर से।",
+      "case_hi": "हिमाचल प्रदेश राज्य बनाम पंजाब राज्य व अन्य (बीबीएमबी हिस्से का बकाया, 1996 में दायर वाद)",
+      "status_hi": "तय"
+    },
+    {
+      "id": "kerala-congress-cji-post-contempt",
+      "case": "In Re: post on the Kerala Pradesh Congress Committee's X handle about CJI Surya Kant (suo motu criminal contempt, from letters of advocates Vineet Jindal and Sreejesh SR)",
+      "issue": "क्या 12 अक्टूबर 2026 को कांग्रेस केरल के एक्स हैंडल पर मुख्य न्यायाधीश सूर्यकांत से 'अभी इस्तीफा दें' कहने वाली पोस्ट आपराधिक अवमानना है।",
+      "bench_size": 2,
+      "bench": "जस्टिस अरविंद कुमार और जस्टिस विपुल एम पंचोली",
+      "status": "pending",
+      "status_text": "केपीसीसी पदाधिकारियों को कारण बताओ नोटिस",
+      "last_date": "2026-11-06",
+      "last_event": "पीठ ने केपीसीसी के सभी पदाधिकारियों को कारण बताओ नोटिस जारी किया, उन्हें खुद पेश होने से छूट दी, अटॉर्नी जनरल से सहायता मांगी और संकेत दिया कि वरिष्ठ अधिवक्ता अरविंद दातार और अधिवक्ता सिद्धार्थ अग्रवाल न्याय मित्र होंगे। वकील ने कहा कि \"unconditional and unqualified apology would be tendered\"। पीठ ने कहा कि अदालत के अधिकार को कमजोर करने की किसी भी कोशिश से सख्ती से निपटा जाना चाहिए।",
+      "next_step": "पदाधिकारी नोटिस का जवाब दें; अगली तारीख सामने नहीं आई।",
+      "sources": [
+        {
+          "title": "Supreme Court Issues Contempt Notice To Kerala Congress Over X Post Against CJI Surya Kant",
+          "publisher": "LawBeat",
+          "date": "2026-11-06",
+          "url": "https://lawbeat.in/top-stories/supreme-court-issues-contempt-notice-to-kerala-congress-over-x-post-against-cji-surya-kant-1649687"
+        },
+        {
+          "title": "SC Takes Suo Motu Cognisance Over Kerala Congress Post Targeting CJI Surya Kant",
+          "publisher": "Outlook",
+          "date": "2026-10-31",
+          "url": "https://www.outlookindia.com/national/sc-takes-suo-motu-cognisance-over-kerala-congress-post-targeting-cji-surya-kant"
+        }
+      ],
+      "notes": "6 नवंबर की सुनवाई एक ही स्रोत (लॉबीट) पर आधारित। मामला अक्टूबर 2026 के आखिर में स्वतः संज्ञान याचिका के रूप में दर्ज हुआ। ब्योरा समाचार डेस्क की 6 नवंबर 2026 की खबर से।",
+      "case_hi": "इन री: मुख्य न्यायाधीश सूर्यकांत के बारे में केरल प्रदेश कांग्रेस कमेटी के एक्स हैंडल की पोस्ट (स्वतः संज्ञान आपराधिक अवमानना, अधिवक्ता विनीत जिंदल और श्रीजेश एसआर के पत्रों से)",
       "status_hi": "लंबित"
     }
   ]

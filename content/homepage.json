@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sc-delhi-ncr-women-safety-union-reply-november-23",
+    "id": "delhi-grap-stage-three-aqi-382-caqm",
     "overlay": {
       "kicker": {
-        "en": "Politics / Courts",
-        "hi": "राजनीति / अदालत"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "'Reply should be meaningful'",
-        "hi": "'जवाब सार्थक होना चाहिए'"
+        "en": "Delhi AQI 382: GRAP Stage III is back",
+        "hi": "एक्यूआई 382: ग्रैप-3 फिर लागू"
       },
       "text": {
         "en": "",
@@ -16,113 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-      "sc-up-under-trials-bail-release-all-75-districts"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-      "semicon-india-2-portal-vaishnaw-12-ecms-projects"
+      "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "saini-chowkidar-honorarium-15221-rahul-apology",
+      "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
-          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
-        }
-      },
-      {
-        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
-          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
-        }
-      },
-      {
-        "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Luca Van Assche beats Rinky Hijikata to reach first Masters 1000 semi-final, meets Ben Shelton",
-          "hi": "लुका वान असे ने रिंकी हिजिकाता को हराकर पहला मास्टर्स 1000 सेमीफाइनल खेलने का मौका पाया, सामने बेन शेल्टन"
-        }
-      },
-      {
-        "link": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
         "lead": {
           "en": "Defence:",
           "hi": "रक्षा:"
         },
         "text": {
-          "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
-          "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
+          "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
+          "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
         }
       },
       {
-        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "link": "saini-chowkidar-honorarium-15221-rahul-apology",
         "lead": {
-          "en": "Electronics:",
-          "hi": "इलेक्ट्रॉनिक्स:"
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
-          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
+          "en": "Saini raises Haryana village watchmen's pay to ₹15,221, asks Rahul Gandhi to apologise for 'chowkidar chor hai'",
+          "hi": "सैनी ने गांव के चौकीदारों का मानदेय 15,221 रुपये किया, 'चौकीदार चोर है' पर राहुल गांधी से माफी मांगने को कहा"
         }
       },
       {
-        "link": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+        "link": "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "Hoax bomb threats hit European flights and broadcasters for a third day, NATO orders air patrol",
-          "hi": "यूरोप में उड़ानों और प्रसारकों को लगातार तीसरे दिन बम की झूठी धमकियां, नाटो ने हवाई गश्त का आदेश दिया"
+          "en": "Forex reserves fall for an eighth week, by $2.69 billion to $717 billion",
+          "hi": "विदेशी मुद्रा भंडार लगातार आठवें हफ्ते घटा, 2.69 अरब डॉलर गिरकर 717 अरब डॉलर पर"
         }
       },
       {
-        "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+        "link": "supreme-court-contempt-notice-kerala-congress-x-post-cji",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Andhra parishad polls: counting begins at 8 am at 365 centres, first trends by noon",
-          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर सुबह 8 बजे से मतगणना, दोपहर तक पहले रुझान"
+          "en": "Supreme Court issues contempt notice to Kerala Congress office-bearers over 'resign now' post on CJI",
+          "hi": "सीजेआई से 'इस्तीफा दो' वाली पोस्ट पर सुप्रीम कोर्ट का केरल कांग्रेस पदाधिकारियों को अवमानना नोटिस"
         }
       },
       {
-        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
-          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
+        }
+      },
+      {
+        "link": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "lead": {
+          "en": "Inflation:",
+          "hi": "महंगाई:"
+        },
+        "text": {
+          "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
+          "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
+        }
+      },
+      {
+        "link": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "lead": {
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
+        },
+        "text": {
+          "en": "Supreme Court refuses to revisit OBC creamy layer ruling, says parents' salary cannot be counted mechanically",
+          "hi": "ओबीसी क्रीमी लेयर फैसले पर दोबारा विचार से सुप्रीम कोर्ट का इनकार, कहा माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता"
+        }
+      },
+      {
+        "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Rain threatens Wellington ODI as India call off training",
+          "hi": "वेलिंगटन वनडे पर बारिश का खतरा, भारत ने अभ्यास रद्द किया"
         }
       }
     ]
@@ -190,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "id": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
       "also": []
     },
     "list": [
-      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-      "amit-shah-presidents-police-colour-uttarakhand-police",
-      "railways-18000-festive-special-trains",
-      "rain-industries-q3-profit-243-crore-interim-dividend"
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "india-u19-beat-nepal-asia-cup-al-amerat"
     ],
     "also": [
-      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-      "iran-hands-us-nuclear-proposal-seven-demands"
+      "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
     ]
   },
   "startHere": [
@@ -378,11 +374,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "sc-up-under-trials-bail-release-all-75-districts",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji"
       ],
-      "lead": "sc-delhi-ncr-women-safety-union-reply-november-23"
+      "lead": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
     },
     {
       "section": "economy",
@@ -405,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "lead": "amit-shah-presidents-police-colour-uttarakhand-police",
       "list": [
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan"
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "delhi-grap-stage-three-aqi-382-caqm",
+        "saini-chowkidar-honorarium-15221-rahul-apology"
       ]
     },
     {
@@ -417,8 +413,7 @@
       "lead": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
       "list": [
         "railways-18000-festive-special-trains",
-        "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-        "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties"
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
       ]
     },
     {
@@ -427,33 +422,21 @@
         "type": "session",
         "session": "monsoon-2026"
       },
-      "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-        "brics-parliamentary-forum-delhi-special-session-talk",
-        "finance-ministry-idbi-2003-parliament-assurance-not-binding"
-      ]
+      "list": []
     }
   ],
   "desks": [
     {
       "section": "world",
-      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "lead": "iran-hands-us-nuclear-proposal-seven-demands",
       "list": [
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "us-midterms-schumer-lower-costs-with-or-without-trump"
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
       ]
     },
     {
       "section": "science",
       "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "list": [
-        "apple-app-store-18-plus-dating-ai-companion-apps",
-        "aditya-l1-velc-asymmetric-cme-expansion-iia",
-        "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
-      ]
+      "list": []
     },
     {
       "section": "sports",
@@ -517,18 +500,6 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections from 8 am",
-        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना सुबह 8 बजे से"
-      },
-      "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -537,26 +508,20 @@
         "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"
       },
       "link": "india-u19-beat-nepal-asia-cup-al-amerat"
+    },
+    {
+      "icon": "chart-line",
+      "date": {
+        "en": "Nov 12",
+        "hi": "12 नवंबर"
+      },
+      "text": {
+        "en": "Retail inflation (CPI) for October, 4 pm",
+        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T18:38:35+05:30",
-      "ids": [
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "saini-chowkidar-honorarium-15221-rahul-apology",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-        "rupee-93-89-strongest-since-april-fii-record-buying",
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "modi-meets-asian-para-games-medallists-delhi",
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "khunti-crash-night-highways-need-lights-and-speed-checks",
-        "suspension-of-sentence-explained-tejpal-supreme-court",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
-      ]
-    },
     {
       "at": "2026-11-06T19:33:54+05:30",
       "ids": [
@@ -650,20 +615,32 @@
       ]
     },
     {
-      "at": "2026-11-07T07:34:32+05:30",
+      "at": "2026-11-07T06:54:01+05:30",
       "ids": [
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-        "sc-up-under-trials-bail-release-all-75-districts",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
         "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "europe-bomb-threat-wave-flights-broadcasters-third-day",
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
+        "amit-shah-presidents-police-colour-uttarakhand-police",
+        "railways-18000-festive-special-trains",
+        "iran-hands-us-nuclear-proposal-seven-demands",
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "rain-industries-q3-profit-243-crore-interim-dividend",
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      ]
+    },
+    {
+      "at": "2026-11-07T07:21:09+05:30",
+      "ids": [
+        "delhi-grap-stage-three-aqi-382-caqm",
+        "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],

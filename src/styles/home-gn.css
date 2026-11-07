@@ -23,6 +23,8 @@
 .gn .g-im{display:block;overflow:hidden;background:#efefef;aspect-ratio:16/9}
 .gn .g-im img,.gn .g-im .ph{width:100%;height:100%;object-fit:cover;display:block;border-radius:0}
 .gn .g-im-lead{aspect-ratio:16/9}
+/* the lead photo grows to the height of the cards beside it, so a short lead never leaves white space under it (desktop) */
+@media (min-width:1000px){.gn .g-lead{display:flex;flex-direction:column}.gn .g-lead .g-im-lead{flex:1 1 auto;aspect-ratio:auto;min-height:280px}.gn .g-lead .g-im-lead img{position:static}}
 .gn .g-im-big{aspect-ratio:16/9}
 .gn .g-sm .g-im{aspect-ratio:16/9}
 .gn .g-pts{list-style:none;margin:6px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
