@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import HOME from '../../content/homepage.json';
 import PHOTO_MAP from '../../content/photos.map.json';
+import MARKETS_DATA from '../../content/data/markets.json';
 // A story whose picture is not ready yet never goes on the homepage (no grey camera boxes).
 const hasPic = (id?: string) => !!id && !!(PHOTO_MAP as Record<string, any>)[id];
 import { content, urlOf, kicker, fmtShort, labelParts, topicLink, iconFor, type Entry } from './site';
@@ -602,7 +603,54 @@ export async function homeModel(lang: Lang) {
   const altLang = [lead.id, ...headlines.map((x: any) => x.id)].map((id) => oc.all.get(id)).filter(Boolean).slice(0, 4)
     .map((e: any) => ({ title: e.data.title, href: urlOf(e.data) }));
 
-  return { headlines, india, econ, live, markets, altLang, kk: short, week, desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
+  // ---- Dense front page (owner, November 7: the Indian Express style). Every block fills itself from the newest stories,
+  // never shows one story twice, never news older than 48 hours, never a stale clock figure.
+  const dense = (() => {
+    const seen = new Set<string>([lead.id]);
+    const age = (id: string) => (Date.now() - +new Date((c.all.get(id) as any)?.data.published)) / 3.6e6;
+    const real = (id: string) => hasPic(id) && !(PHOTO_MAP as any)[id]?.graphic;
+    const pool = (secs: string[] | null, h = 48) => [...c.articles]
+      .filter((x: any) => x.data.type === 'news' && (!secs || secs.includes(x.data.section)) && age(x.data.id) <= h && hasPic(x.data.id) && !staleClock(x.data))
+      .sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).map((x: any) => x.data.id as string);
+    const take = (ids: string[], n: number, photoFirst = false) => {
+      const ok = [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id) && age(id) <= 48);
+      if (photoFirst) { const i = ok.findIndex(real); if (i > 0) ok.unshift(ok.splice(i, 1)[0]); }
+      const out = ok.slice(0, n); out.forEach((id) => seen.add(id));
+      return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
+    };
+    const hl = headlines.map((x: any) => x.id);
+    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 3);
+    const second = take(hl.filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
+    const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 5);
+    const must = take(pool(['politics', 'states', 'world', 'economy', 'policy'], 24), 5);
+    const states = take(pool(['states']), 10, true);
+    const econ = take(pool(['economy']), 6, true);
+    // three columns at the foot: world, sports, science; a column with fewer than three fresh stories gives way to policy, then politics
+    const cols = [['world', ['world']], ['sports', ['sports']], ['science', ['science', 'tech']], ['policy', ['policy']], ['politics', ['politics']]]
+      .map(([key, secs]: any) => { const ids = pool(secs).filter((id) => !seen.has(id)); return ids.length >= 3 ? { key, items: take(ids, 4, true) } : null; })
+      .filter(Boolean).slice(0, 3);
+    const MK: any = MARKETS_DATA;
+    const row = (id: string) => [...(MK.indices ?? []), ...(MK.rates ?? [])].find((r: any) => r.id === id);
+    const sxh = ((row('sensex')?.history ?? []) as any[]).slice(-22).map((x: any) => x.close as number);
+    const mn = Math.min(...sxh), mx = Math.max(...sxh);
+    const spark = sxh.length > 1 ? sxh.map((v, i) => `${(i * 280 / (sxh.length - 1)).toFixed(1)},${(62 - (v - mn) / (mx - mn || 1) * 56).toFixed(1)}`).join(' ') : '';
+    const sxFirst = ((row('sensex')?.history ?? []) as any[]).slice(-22)[0]?.date;
+    const mkRows = [['nifty-50', lang === 'hi' ? 'निफ्टी 50' : 'Nifty 50'], ['nifty-bank', lang === 'hi' ? 'निफ्टी बैंक' : 'Nifty Bank'], ['usd-inr', lang === 'hi' ? 'रुपया प्रति डॉलर' : 'Rupee a dollar'], ['brent', lang === 'hi' ? 'ब्रेंट, $ प्रति बैरल' : 'Brent, $ a barrel'], ['india-vix', 'India VIX']]
+      .map(([id, l]) => { const r = row(id); return r && r.value != null ? { l, v: fmtNum(r.value, 2), p: r.pct, up: id === 'usd-inr' ? r.pct <= 0 : r.pct >= 0 } : null; }).filter(Boolean);
+    const sx = row('sensex');
+    // one line per event: two diary lines about the same event (same date, three shared long words) count once
+    const wset = (s: string) => new Set(String(s).toLowerCase().match(/[\p{L}\p{M}]{5,}/gu) ?? []);
+    const sameEv = (a: any, b: any) => a.date === b.date && [...wset(a.text)].filter((w) => wset(b.text).has(w)).length >= 3;
+    const weekD = week.filter((x: any, i: number, all: any[]) => all.findIndex((y: any) => y.text === x.text || (y.href && y.href === x.href) || sameEv(x, y)) === i).slice(0, 4);
+    return {
+      leadLinks, second, col2, must, states, econ, cols, weekD,
+      explained: start.slice(0, 4), opinion: opinion.slice(0, 5), fc: fcCards.slice(0, 2),
+      sensex: sx ? { v: fmtNum(sx.value, 2), ch: fmtNum(sx.change, 0, true), p: sx.pct, spark, from: sxFirst ? fmtShort(String(sxFirst), lang, false) : '', to: fmtShort(String(MK.session_date), lang, false), n: sxh.length } : null,
+      mkRows, mkDate: fmtShort(String(MK.session_date), lang, false), mkOpen: MK.status === 'open',
+    };
+  })();
+
+  return { headlines, india, econ, live, markets, altLang, kk: short, week, desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections, dense };
 }
 
 export { esc };

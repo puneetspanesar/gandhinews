@@ -1,0 +1,170 @@
+---
+// Homepage, English and Hindi: the dense front page (owner, November 7, 2026; Indian Express style, PT Serif and Roboto).
+// Every block fills itself from the newest stories (src/lib/home.ts, `dense`): nothing older than 48 hours, no story twice.
+import Base from '../layouts/Base.astro';
+import Photo from '../components/Photo.astro';
+import ResultsStrip from '../components/ResultsStrip.astro';
+import RESULTS from '../../content/data/results.json';
+import '../styles/home-dense.css';
+import { prefix, whole } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+import { websiteLd } from '../lib/seo';
+import { homeModel } from '../lib/home';
+
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const m = await homeModel(lang);
+const L = m.lead;
+const D = m.dense;
+const hi = lang === 'hi';
+const desc = hi
+  ? 'गांधी न्यूज़: भारत और दुनिया की स्वतंत्र खबरें: राजनीति, अर्थव्यवस्था, विज्ञान-तकनीक और खेल, हिंदी और अंग्रेज़ी में।'
+  : 'Gandhi News: independent news from India and the world: politics, economy, science and tech, and sports, in English and Hindi.';
+const G = hi ? {
+  top: 'प्रमुख खबरें', must: 'ज़रूर पढ़ें', week: 'इस हफ़्ते', explained: 'समझिए', allEx: 'सभी व्याख्याएं', states: 'राज्यों से', allStates: 'सभी राज्य',
+  biz: 'कारोबार और बाज़ार', mkData: 'पूरे आंकड़े', opinion: 'राय', allOp: 'सभी संपादकीय', ourView: 'हमारी राय', fc: 'फ़ैक्ट चेक', all: 'सभी',
+  world: 'दुनिया', sports: 'खेल', science: 'विज्ञान और तकनीक', more: 'और', close: (d: string) => `${d} का बंद भाव`, sessions: (n: number) => `${n} कारोबारी दिन`,
+  sxAria: 'पिछले कारोबारी दिनों में सेंसेक्स का बंद भाव', scale: ['ग़लत', 'भ्रामक', 'काफ़ी हद तक सही', 'सही'],
+} : {
+  top: 'Top news', must: 'Must read', week: 'This week', explained: 'Explained', allEx: 'All explainers', states: 'Across the states', allStates: 'All states',
+  biz: 'Business and markets', mkData: 'Full market data', opinion: 'Opinion', allOp: 'All editorials', ourView: 'Our view', fc: 'Fact check', all: 'All',
+  world: 'World', sports: 'Sports', science: 'Science and tech', more: 'More', close: (d: string) => `Closing figures, ${d}`, sessions: (n: number) => `${n} sessions`,
+  sxAria: 'Sensex closes over the last sessions', scale: ['False', 'Misleading', 'Mostly true', 'True'],
+};
+const VK = ['false', 'misleading', 'mostly', 'true'];
+const pc = (v: number) => `${v > 0 ? '+' : v < 0 ? '−' : ''}${Math.abs(v).toFixed(2)}%`;
+const [sm1, ...smRest] = D.states;
+const stMid = smRest.slice(0, 4), stRight = smRest.slice(4, 9);
+const [eBig, ...eList] = D.econ;
+const [op1, ...opRest] = D.opinion;
+const NAME: Record<string, string> = { world: G.world, sports: G.sports, science: G.science, policy: hi ? 'नीति' : 'Policy', politics: hi ? 'राजनीति' : 'Politics' };
+const cols = D.cols.map((c: any) => [c.key, NAME[c.key], c.items]);
+---
+<Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
+<div class="dhome">
+  {(RESULTS as any).active && <ResultsStrip lang={lang} />}
+
+  <div class="w d-top">
+    <section class="d-c1" aria-labelledby="lead-h">
+      <a href={L.href} class="d-im d-im-lead" tabindex="-1" aria-hidden="true"><Photo cover id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
+      {L.k && <span class="d-lab">{L.k}</span>}
+      <a href={L.href}><h1 id="lead-h" class="d-h1">{L.d.title}</h1></a>
+      <p class="d-sf">{L.d.standfirst}</p>
+      {D.leadLinks.length > 0 && <ul class="d-bul">{D.leadLinks.map((x: any) => <li><a href={x.href}>{x.d.title}</a></li>)}</ul>}
+    </section>
+
+    <section class="d-c2" aria-label={G.top}>
+      {D.second.map((x: any) => <a href={x.href} class="d-blk">
+        <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+        <h2 class="d-h2">{x.d.title}</h2>
+        <p class="d-p">{whole(x.d.standfirst, 140)}</p>
+      </a>)}
+      {D.col2.map((x: any) => <a class="d-li" href={x.href}>{x.d.title}</a>)}
+    </section>
+
+    <aside class="d-c3">
+      <h2 class="d-ttl">{G.must}</h2>
+      <ol class="d-must">{D.must.map((x: any, i: number) => <li><a href={x.href}><b>{i + 1}</b><span>{x.d.title}</span></a></li>)}</ol>
+      {D.weekD.length > 0 && <>
+        <h2 class="d-ttl">{G.week}</h2>
+        <dl class="d-wk">{D.weekD.map((x: any) => <><dt>{x.date}</dt><dd>{x.href ? <a href={x.href}>{x.text}</a> : x.text}</dd></>)}</dl>
+      </>}
+    </aside>
+  </div>
+
+  {D.explained.length >= 4 && (
+    <section class="d-band" aria-labelledby="ex-h">
+      <div class="w">
+        <div class="d-sec"><h2 id="ex-h"><a href={`${p}/explained/`}>{G.explained}</a></h2><i></i><a href={`${p}/explained/`}>{G.allEx}</a></div>
+        <div class="d-g4">
+          {D.explained.map((x: any) => <a href={x.href} class="d-ex">
+            <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+            {x.meta && <span class="d-lab">{x.meta}</span>}
+            <h3>{x.d.title}</h3>
+          </a>)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {sm1 && (
+    <section class="w d-s" aria-labelledby="st-h">
+      <div class="d-sec"><h2 id="st-h"><a href={`${p}/states/`}>{G.states}</a></h2><i></i><a href={`${p}/states/`}>{G.allStates}</a></div>
+      <div class="d-st">
+        <a href={sm1.href} class="d-blk d-rr">
+          <span class="d-im d-im-wide"><Photo cover id={sm1.id} src={sm1.d.hero?.src} lang={lang} size="lg" /></span>
+          {sm1.st && <span class="d-lab">{sm1.st}</span>}
+          <h3 class="d-h3l">{sm1.d.title}</h3>
+          <p class="d-p">{whole(sm1.d.standfirst, 150)}</p>
+        </a>
+        <div class="d-rr d-px">{stMid.map((x: any) => <a href={x.href} class="d-row">{x.st && <span class="d-lab">{x.st}</span>}<h3>{x.d.title}</h3></a>)}</div>
+        <div class="d-pl">{stRight.map((x: any, i: number) => i < 2 && x.real
+          ? <a href={x.href} class="d-row d-thr"><span>{x.st && <span class="d-lab">{x.st}</span>}<h3>{x.d.title}</h3></span><span class="d-th"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span></a>
+          : <a href={x.href} class="d-row">{x.st && <span class="d-lab">{x.st}</span>}<h3>{x.d.title}</h3></a>)}</div>
+      </div>
+    </section>
+  )}
+
+  {(eBig || D.sensex) && (
+    <section class="w d-s" aria-labelledby="bz-h">
+      <div class="d-sec"><h2 id="bz-h"><a href={`${p}/economy/`}>{G.biz}</a></h2><i></i><a href={m.dashHref}>{G.mkData}</a></div>
+      <div class="d-ec">
+        {D.sensex && <div class="d-rr d-mk">
+          <div class="d-mkh"><b>{hi ? 'सेंसेक्स' : 'Sensex'}</b><span class="num"><b>{D.sensex.v}</b> <b class={D.sensex.p >= 0 ? 'up' : 'dn'}>{D.sensex.ch} ({pc(D.sensex.p)})</b></span></div>
+          {D.sensex.spark && <svg viewBox="0 0 280 66" class="d-spark" role="img" aria-label={G.sxAria}><line x1="0" y1="64" x2="280" y2="64" stroke="#dcdcdc" stroke-width="1"></line><polyline points={D.sensex.spark} fill="none" stroke={D.sensex.p >= 0 ? '#12804a' : '#cc0000'} stroke-width="2" stroke-linejoin="round"></polyline></svg>}
+          <div class="d-spx"><span>{D.sensex.from}</span><span>{G.sessions(D.sensex.n)}</span><span>{D.sensex.to}</span></div>
+          <div class="d-mkt num">{D.mkRows.map((r: any) => <div><span>{r.l}</span><b>{r.v}</b><b class={r.up ? 'up' : 'dn'}>{pc(r.p)}</b></div>)}</div>
+          <p class="d-note">{G.close(D.mkDate)}</p>
+        </div>}
+        {eBig && <a href={eBig.href} class="d-blk d-rr d-px">
+          <span class="d-im"><Photo cover id={eBig.id} src={eBig.d.hero?.src} lang={lang} /></span>
+          {eBig.st && <span class="d-lab">{eBig.st}</span>}
+          <h3 class="d-h3l">{eBig.d.title}</h3>
+          <p class="d-p">{whole(eBig.d.standfirst, 140)}</p>
+        </a>}
+        <div class="d-pl">{eList.map((x: any, i: number) => <a class={i === 0 ? 'd-li d-li0' : 'd-li'} href={x.href}>{x.d.title}</a>)}</div>
+      </div>
+    </section>
+  )}
+
+  <div class="w d-s d-opf">
+    {op1 && <section aria-labelledby="op-h">
+      <div class="d-sec"><h2 id="op-h"><a href={`${p}/opinion/`}>{G.opinion}</a></h2><i></i><a href={`${p}/opinion/`}>{G.allOp}</a></div>
+      <div class="d-op">
+        <a href={op1.href} class="d-rr d-op1">
+          <span class="d-lab">{G.ourView}</span>
+          <p class="d-q">{op1.d.title}</p>
+          <p class="d-qs">{whole(op1.d.standfirst, 160)}</p>
+          <span class="d-im d-im-wide"><Photo cover id={op1.id} src={op1.d.hero?.src} lang={lang} /></span>
+        </a>
+        <div class="d-pl">{opRest.map((x: any) => <a href={x.href} class="d-row">{x.topic && <span class="d-lab">{x.topic}</span>}<p class="d-qi">{x.d.title}</p></a>)}</div>
+      </div>
+    </section>}
+    {D.fc.length > 0 && <section aria-labelledby="fc-h">
+      <div class="d-sec"><h2 id="fc-h"><a href={`${p}/fact-check/`}>{G.fc}</a></h2><i></i><a href={`${p}/fact-check/`}>{G.all}</a></div>
+      {D.fc.map((x: any) => <a href={x.href} class="d-fc">
+        <p class="d-fch">{x.claim}</p>
+        <div class="d-scale">{G.scale.map((s: string, i: number) => <span class={VK[i] === x.vk ? 'on' : undefined}>{s}</span>)}</div>
+        <p class="d-p">{whole(x.found, 150)}</p>
+      </a>)}
+    </section>}
+  </div>
+
+  {cols.length > 0 && (
+    <div class="w d-s d-g3" style={`grid-template-columns:repeat(${cols.length},minmax(0,1fr))`}>
+      {cols.map(([key, name, xs]: any) => (
+        <section aria-label={name}>
+          <div class="d-sec"><h2><a href={`${p}/${key}/`}>{name}</a></h2><i></i><a href={`${p}/${key}/`}>{G.more}</a></div>
+          <a href={xs[0].href} class="d-blk"><span class="d-im d-im-wide"><Photo cover id={xs[0].id} src={xs[0].d.hero?.src} lang={lang} /></span><h3 class="d-h3">{xs[0].d.title}</h3></a>
+          {xs.slice(1, 3).map((x: any) => x.real
+            ? <a href={x.href} class="d-row d-thl"><span class="d-th"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span><h3>{x.d.title}</h3></a>
+            : <a class="d-li" href={x.href}>{x.d.title}</a>)}
+          {xs.slice(3).map((x: any) => <a class="d-li" href={x.href}>{x.d.title}</a>)}
+        </section>
+      ))}
+    </div>
+  )}
+</div>
+</Base>
