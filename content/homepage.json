@@ -16,15 +16,13 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-      "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-      "amit-shah-presidents-police-colour-uttarakhand-police",
-      "railways-18000-festive-special-trains",
-      "iran-hands-us-nuclear-proposal-seven-demands"
+      "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "saini-chowkidar-honorarium-15221-rahul-apology",
+      "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+      "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
     ],
     "live": {
       "title": {
@@ -36,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
         "lead": {
           "en": "Defence:",
           "hi": "रक्षा:"
         },
         "text": {
-          "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
-          "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
+          "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
+          "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
         }
       },
       {
-        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "link": "saini-chowkidar-honorarium-15221-rahul-apology",
         "lead": {
-          "en": "Electronics:",
-          "hi": "इलेक्ट्रॉनिक्स:"
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
-          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
+          "en": "Saini raises Haryana village watchmen's pay to ₹15,221, asks Rahul Gandhi to apologise for 'chowkidar chor hai'",
+          "hi": "सैनी ने गांव के चौकीदारों का मानदेय 15,221 रुपये किया, 'चौकीदार चोर है' पर राहुल गांधी से माफी मांगने को कहा"
         }
       },
       {
-        "link": "amit-shah-presidents-police-colour-uttarakhand-police",
+        "link": "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
         "lead": {
-          "en": "Uttarakhand:",
-          "hi": "उत्तराखंड:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "Amit Shah hands Uttarakhand Police the President's Colour, promises verdicts within three years",
-          "hi": "अमित शाह ने उत्तराखंड पुलिस को सौंपा राष्ट्रपति निशान, तीन साल में सजा का भरोसा"
+          "en": "Forex reserves fall for an eighth week, by $2.69 billion to $717 billion",
+          "hi": "विदेशी मुद्रा भंडार लगातार आठवें हफ्ते घटा, 2.69 अरब डॉलर गिरकर 717 अरब डॉलर पर"
         }
       },
       {
-        "link": "railways-18000-festive-special-trains",
+        "link": "supreme-court-contempt-notice-kerala-congress-x-post-cji",
         "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Railways to run about 18,000 festive specials, half as many again as last year, says Vaishnaw",
-          "hi": "त्योहारों में करीब 18,000 स्पेशल ट्रेनें चलाएगा रेलवे, पिछले साल से डेढ़ गुना: वैष्णव"
+          "en": "Supreme Court issues contempt notice to Kerala Congress office-bearers over 'resign now' post on CJI",
+          "hi": "सीजेआई से 'इस्तीफा दो' वाली पोस्ट पर सुप्रीम कोर्ट का केरल कांग्रेस पदाधिकारियों को अवमानना नोटिस"
         }
       },
       {
-        "link": "iran-hands-us-nuclear-proposal-seven-demands",
+        "link": "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
-          "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
+          "en": "Eight Rameswaram fishermen freed by Sri Lanka fly home to Chennai",
+          "hi": "श्रीलंका की जेल से छूटे रामेश्वरम के आठ मछुआरे चेन्नई लौटे"
         }
       },
       {
-        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "link": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Inflation:",
+          "hi": "महंगाई:"
         },
         "text": {
-          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
-          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
+          "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
+          "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
         }
       },
       {
-        "link": "rain-industries-q3-profit-243-crore-interim-dividend",
+        "link": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "Rain Industries posts ₹243 crore profit for July to September, declares 50 paise dividend",
-          "hi": "रेन इंडस्ट्रीज को जुलाई-सितंबर में ₹243 करोड़ का मुनाफा, 50 पैसे का लाभांश घोषित"
+          "en": "Supreme Court refuses to revisit OBC creamy layer ruling, says parents' salary cannot be counted mechanically",
+          "hi": "ओबीसी क्रीमी लेयर फैसले पर दोबारा विचार से सुप्रीम कोर्ट का इनकार, कहा माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता"
         }
       },
       {
-        "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Santner's New Zealand lose Conway for the series as Henry returns for Wellington ODI",
-          "hi": "सैंटनर की टीम को झटका, कॉनवे पूरी सीरीज़ से बाहर; वेलिंगटन वनडे में हेनरी की वापसी संभव"
+          "en": "Rain threatens Wellington ODI as India call off training",
+          "hi": "वेलिंगटन वनडे पर बारिश का खतरा, भारत ने अभ्यास रद्द किया"
         }
       }
     ]
@@ -188,28 +186,28 @@
   },
   "topStories": {
     "big": {
-      "id": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+      "id": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
       "also": []
     },
     "list": [
-      "rain-industries-q3-profit-243-crore-interim-dividend",
-      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-      "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-      "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+      "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
+      "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
+      "india-u19-beat-nepal-asia-cup-al-amerat"
     ],
     "also": [
-      "saini-chowkidar-honorarium-15221-rahul-apology",
-      "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
+      "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+      "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin"
     ]
   },
   "startHere": [
+    "obc-creamy-layer-explained-parents-salary-supreme-court",
+    "bbmb-power-sharing-explained-himachal-share-supreme-court",
     "foreign-investors-return-explained-fii-dii-sensex-rally",
     "suspension-of-sentence-explained-tejpal-supreme-court",
     "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses",
-    "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-    "fast-track-special-courts-explained-rape-pocso-backlog"
+    "ugc-equity-regulations-explained-caste-discrimination-campuses"
   ],
   "trackers": [
     {
@@ -362,11 +360,11 @@
     }
   ],
   "opinion": [
+    "bail-granted-is-not-freedom-release-the-under-trials",
+    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
     "khunti-crash-night-highways-need-lights-and-speed-checks",
     "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-    "ugc-equity-rules-revise-them-do-not-bury-them",
-    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+    "ugc-equity-rules-revise-them-do-not-bury-them"
   ],
   "sections": [
     {
@@ -457,10 +455,10 @@
       "section": "sports",
       "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
       "list": [
-        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
+        "india-u19-beat-nepal-asia-cup-al-amerat",
+        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
+        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
       ]
     }
   ],
@@ -537,23 +535,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T18:38:35+05:30",
-      "ids": [
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "saini-chowkidar-honorarium-15221-rahul-apology",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
-        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-        "rupee-93-89-strongest-since-april-fii-record-buying",
-        "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-        "modi-meets-asian-para-games-medallists-delhi",
-        "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
-        "khunti-crash-night-highways-need-lights-and-speed-checks",
-        "suspension-of-sentence-explained-tejpal-supreme-court",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
-      ]
-    },
     {
       "at": "2026-11-06T19:33:54+05:30",
       "ids": [
@@ -659,6 +640,20 @@
         "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "rain-industries-q3-profit-243-crore-interim-dividend",
         "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      ]
+    },
+    {
+      "at": "2026-11-07T07:21:37+05:30",
+      "ids": [
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "saini-chowkidar-honorarium-15221-rahul-apology",
+        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+        "supreme-court-contempt-notice-kerala-congress-x-post-cji",
+        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],
