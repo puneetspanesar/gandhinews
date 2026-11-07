@@ -16,7 +16,9 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin"
+    ],
     "relatedBeside": [
       "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
       "semicon-india-2-portal-vaishnaw-12-ecms-projects",
@@ -89,6 +91,17 @@
         }
       },
       {
+        "link": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "lead": {
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
+        },
+        "text": {
+          "en": "India draw a blank in skeet and air pistol mixed team at Doha Worlds",
+          "hi": "दोहा विश्व चैंपियनशिप: स्कीट और एयर पिस्टल मिश्रित टीम में भारत खाली हाथ"
+        }
+      },
+      {
         "link": "rain-industries-q3-profit-243-crore-interim-dividend",
         "lead": {
           "en": "Companies:",
@@ -100,25 +113,14 @@
         }
       },
       {
-        "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
-          "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
-        }
-      },
-      {
-        "link": "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "Supreme Court refuses to revisit OBC creamy layer ruling, says parents' salary cannot be counted mechanically",
-          "hi": "ओबीसी क्रीमी लेयर फैसले पर दोबारा विचार से सुप्रीम कोर्ट का इनकार, कहा माता-पिता का वेतन यंत्रवत नहीं जोड़ा जा सकता"
+          "en": "Santner's New Zealand lose Conway for the series as Henry returns for Wellington ODI",
+          "hi": "सैंटनर की टीम को झटका, कॉनवे पूरी सीरीज़ से बाहर; वेलिंगटन वनडे में हेनरी की वापसी संभव"
         }
       }
     ]
@@ -186,28 +188,28 @@
   },
   "topStories": {
     "big": {
-      "id": "rain-industries-q3-profit-243-crore-interim-dividend",
+      "id": "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
       "also": []
     },
     "list": [
+      "rain-industries-q3-profit-243-crore-interim-dividend",
+      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+      "rice-paddy-stock-declaration-every-friday-food-stock-portal",
       "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-      "saini-chowkidar-honorarium-15221-rahul-apology",
-      "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-      "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
     ],
     "also": [
-      "rupee-93-89-strongest-since-april-fii-record-buying",
-      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+      "saini-chowkidar-honorarium-15221-rahul-apology",
+      "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
     ]
   },
   "startHere": [
-    "obc-creamy-layer-explained-parents-salary-supreme-court",
-    "bbmb-power-sharing-explained-himachal-share-supreme-court",
     "foreign-investors-return-explained-fii-dii-sensex-rally",
     "suspension-of-sentence-explained-tejpal-supreme-court",
     "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses"
+    "ugc-equity-regulations-explained-caste-discrimination-campuses",
+    "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+    "fast-track-special-courts-explained-rape-pocso-backlog"
   ],
   "trackers": [
     {
@@ -360,11 +362,11 @@
     }
   ],
   "opinion": [
-    "bail-granted-is-not-freedom-release-the-under-trials",
-    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
     "khunti-crash-night-highways-need-lights-and-speed-checks",
     "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-    "ugc-equity-rules-revise-them-do-not-bury-them"
+    "ugc-equity-rules-revise-them-do-not-bury-them",
+    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
   ],
   "sections": [
     {
@@ -455,10 +457,10 @@
       "section": "sports",
       "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
       "list": [
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "india-u19-beat-nepal-asia-cup-al-amerat",
-        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery"
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],
@@ -645,17 +647,18 @@
       ]
     },
     {
-      "at": "2026-11-07T07:11:13+05:30",
+      "at": "2026-11-07T06:54:01+05:30",
       "ids": [
         "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "amit-shah-presidents-police-colour-uttarakhand-police",
         "railways-18000-festive-special-trains",
         "iran-hands-us-nuclear-proposal-seven-demands",
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "rain-industries-q3-profit-243-crore-interim-dividend",
-        "navy-receives-amini-anti-submarine-shallow-water-craft",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
       ]
     }
   ],
