@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+    "id": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
     "overlay": {
       "kicker": {
-        "en": "States / Weather",
-        "hi": "राज्य / मौसम"
+        "en": "Policy / Defence",
+        "hi": "नीति / रक्षा"
       },
       "value": {
-        "en": "Rain on Deepavali in the south",
-        "hi": "दक्षिण में दीपावली पर बारिश"
+        "en": "Diwali with the Army in north Bengal",
+        "hi": "उत्तर बंगाल में सेना के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -16,65 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+    ],
     "relatedBeside": [
-      "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-      "suvendu-adhikari-caa-citizenship-december-31-nadia",
-      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam"
+      "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+      "who-six-climate-health-actions-1-6-million-lives-cop31",
+      "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+      "semicon-india-2-portal-vaishnaw-12-ecms-projects"
     ],
     "live": {
       "title": {
-        "en": "Weather",
-        "hi": "मौसम"
+        "en": "Defence",
+        "hi": "रक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
         },
         "text": {
-          "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
-          "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
+          "en": "New Zealand votes with Luxon and Hipkins level in the final polls",
+          "hi": "न्यूज़ीलैंड में मतदान, आखिरी सर्वे में लक्सन और हिपकिंस बराबरी पर"
         }
       },
       {
-        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
-          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
+          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
+          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
         }
       },
       {
-        "link": "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Suvendu Adhikari promises citizenship to all eligible CAA applicants in Bengal by December 31",
-          "hi": "सुवेंदु अधिकारी का वादा: बंगाल में सभी पात्र सीएए आवेदकों को 31 दिसंबर तक नागरिकता"
-        }
-      },
-      {
-        "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "link": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Luca Van Assche beats Rinky Hijikata to reach first Masters 1000 semi-final, meets Ben Shelton",
-          "hi": "लुका वान असे ने रिंकी हिजिकाता को हराकर पहला मास्टर्स 1000 सेमीफाइनल खेलने का मौका पाया, सामने बेन शेल्टन"
+          "en": "Shelton beats Paul to reach Paris Masters semi-final and end Turin hopes of Paul",
+          "hi": "पेरिस मास्टर्स: शेल्टन ने पॉल को हराकर सेमीफाइनल में जगह बनाई, पॉल की ट्यूरिन की उम्मीद खत्म"
         }
       },
       {
@@ -86,6 +77,17 @@
         "text": {
           "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
           "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
+        }
+      },
+      {
+        "link": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+        "lead": {
+          "en": "Electronics:",
+          "hi": "इलेक्ट्रॉनिक्स:"
+        },
+        "text": {
+          "en": "Vaishnaw opens Semicon 2.0 portal and clears 12 more electronics component projects",
+          "hi": "वैष्णव ने खोला सेमीकॉन 2.0 पोर्टल, 12 और इलेक्ट्रॉनिक्स कंपोनेंट परियोजनाओं को मंजूरी"
         }
       },
       {
@@ -193,12 +195,12 @@
       "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
       "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
       "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-      "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
+      "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
+      "amit-shah-presidents-police-colour-uttarakhand-police"
     ],
     "also": [
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+      "navy-receives-amini-anti-submarine-shallow-water-craft"
     ]
   },
   "startHere": [
@@ -393,19 +395,19 @@
         ]
       },
       "list": [
+        "fox-completes-22-billion-roku-acquisition",
         "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "rain-industries-q3-profit-243-crore-interim-dividend"
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects"
       ]
     },
     {
       "section": "states",
       "lead": "wb-suvendu-police-attacks-asansol-recruitment-29000",
       "list": [
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
         "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "punjab-paddy-procurement-record-150-lmt-kataruchak",
-        "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three"
+        "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast"
       ]
     },
     {
@@ -431,9 +433,9 @@
       "section": "world",
       "lead": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
       "list": [
+        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
         "europe-bomb-threat-wave-flights-broadcasters-third-day",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands"
+        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
       ]
     },
     {
@@ -632,14 +634,15 @@
       ]
     },
     {
-      "at": "2026-11-07T18:32:42+05:30",
+      "at": "2026-11-07T18:59:34+05:30",
       "ids": [
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "navy-receives-amini-anti-submarine-shallow-water-craft",
-        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "wb-suvendu-police-attacks-asansol-recruitment-29000",
         "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
