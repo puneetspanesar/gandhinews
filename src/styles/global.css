@@ -1038,3 +1038,9 @@ footer .fwm{height:48px;color:#fff}
   .menu.mh-nav{margin-top:4px}
 }
 @media(min-width:1081px) and (max-width:1240px){.mh-top,.mh-brand{height:80px}.mh-brand{margin-top:-80px}.mh-wm{height:56px;padding:0 14px}}
+/* reading text in PT Serif, the same family as the headings (owner, November 8). Hindi keeps Noto Sans Devanagari for text; labels, menus and numbers stay in Roboto */
+:lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol,:lang(en) .stand,:lang(en) .kp li,:lang(en) .d-p,:lang(en) .sf,:lang(en) .body blockquote{font-family:var(--f-serif)}
+:lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol{font-size:18px;line-height:1.65;color:var(--ink)}
+:lang(en) .kp li{font-size:16px}
+:lang(en) .d-p{font-size:15px}
+@media(max-width:560px){:lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol{font-size:17px}}

@@ -415,7 +415,17 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         var tail=v.slice(i+1);if(tail.length>14)return;
         last.nodeValue=v.slice(0,i)+'\u00a0'+tail+last.nodeValue.slice(v.length);
       }
-      function run(){document.querySelectorAll(sel).forEach(function(el){if(!el.dataset.gl){el.dataset.gl=1;glue(el);}});}
+      /* hyphenated words (BS-III, Delhi-NCR, co-founder) never split across lines */
+      function hy(el){
+        var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null),n,list=[],re=/[^\s\-\u2013]{1,14}(?:-[^\s\-\u2013]{1,14})+/g;
+        while((n=w.nextNode())){if(n.nodeValue.indexOf('-')>-1&&!(n.parentNode.closest&&n.parentNode.closest('.nw')))list.push(n);}
+        list.forEach(function(t){
+          var v=t.nodeValue,f=document.createDocumentFragment(),last=0,m;re.lastIndex=0;
+          while((m=re.exec(v))){f.appendChild(document.createTextNode(v.slice(last,m.index)));var sp=document.createElement('span');sp.className='nw';sp.style.whiteSpace='nowrap';sp.textContent=m[0];f.appendChild(sp);last=m.index+m[0].length;}
+          if(last){f.appendChild(document.createTextNode(v.slice(last)));t.parentNode.replaceChild(f,t);}
+        });
+      }
+      function run(){document.querySelectorAll(sel).forEach(function(el){if(!el.dataset.gl){el.dataset.gl=1;hy(el);glue(el);}});}
       if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',run);else run();
     })();
   </script>
