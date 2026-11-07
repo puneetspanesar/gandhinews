@@ -70,10 +70,6 @@ It is tempting to call this an administrative lag. It is more serious than that.
 
 The same week brought a sharper case. On November 3, a bench of Justices J B Pardiwala and Manmohan found that a man named Saddam, from Baghpat, was **still in jail weeks after the Supreme Court itself had granted him bail** on September 28. His bail plea had earlier been adjourned 12 times in the Allahabad High Court. The judges called it "something very disturbing" and asked the state to show why it should not pay him compensation.
 
-```photo
-{"n":1,"subject":"Allahabad High Court","caption":"The Allahabad High Court, where one Uttar Pradesh prisoner's bail plea was adjourned 12 times before the Supreme Court freed him, only for him to stay in jail for weeks more.","alt":"The Allahabad High Court building in Prayagraj"}
-```
-
 If an order of the country's highest court can sit unexecuted for weeks, the odds for a daily wage earner bailed by a magistrate in a district town are worse.
 
 ## The real reason is poverty
