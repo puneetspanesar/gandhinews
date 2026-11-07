@@ -210,7 +210,9 @@ for s in h.get('sections', []) + h.get('desks', []):
     if 'lead' in s: s['lead'], s['list'] = ids[0], ids[1:1 + n]
     else: s['list'] = ids[:n]
 
-# ---- long form
+# ---- long form (explainers, editorials and fact checks: always the newest)
+fc = newest(lambda d: d['type'] == 'factcheck')
+if fc: h.setdefault('factCheck', {})['cards'] = fc[:3]
 for key, typ in (('startHere', 'explainer'), ('opinion', 'editorial')):
     n = len(h.get(key) or []) or 4
     fresh = newest(lambda d, t=typ: d['type'] == t)

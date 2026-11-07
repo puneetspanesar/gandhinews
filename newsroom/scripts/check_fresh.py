@@ -126,6 +126,12 @@ if ph:
         # the lead can only change to a new story: when none exists the run still publishes (breach recorded), never freezes
         (soft.append((why, i, 0)) if i == h['lead']['id'] else flag(why, i))
 
+# every section updates by itself: the long-form slots show the newest pieces (refresh_home.py), and new ones keep coming
+for key, typ, hrs in (('opinion', 'editorial', 20), ('startHere', 'explainer', 20)):
+    got = [i for i in ids(h.get(key)) if i in P]
+    if got and min(age(i) for i in got) > hrs: soft.append((f'{key}: the newest {typ} on the homepage is over {hrs} hours old (the long-form runs are late or wrote none)', got[0], min(age(i) for i in got)))
+_fc = sorted([age(i) for i in P if P[i]['type'] == 'factcheck']) or [999]
+if _fc[0] > 30: soft.append(('fact check: no new fact check in over 30 hours (the long-form runs must write one each)', '', _fc[0]))
 if len(h.get('weekAhead') or []) < 2: flag('the week ahead band has fewer than 2 items (refresh_home.py builds it; add `upcoming:` blocks to previews)', 'weekAhead')
 
 # The top five (the lead and the four beside it) never repeat within 6 hours; a story that led never leads again.

@@ -93,17 +93,6 @@
         }
       },
       {
-        "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Andhra parishad polls: counting begins at 8 am at 365 centres, first trends by noon",
-          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर सुबह 8 बजे से मतगणना, दोपहर तक पहले रुझान"
-        }
-      },
-      {
         "link": "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "lead": {
           "en": "Europe:",
@@ -112,6 +101,17 @@
         "text": {
           "en": "Hoax bomb threats hit European flights and broadcasters for a third day, NATO orders air patrol",
           "hi": "यूरोप में उड़ानों और प्रसारकों को लगातार तीसरे दिन बम की झूठी धमकियां, नाटो ने हवाई गश्त का आदेश दिया"
+        }
+      },
+      {
+        "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra parishad polls: counting begins at 8 am at 365 centres, first trends by noon",
+          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर सुबह 8 बजे से मतगणना, दोपहर तक पहले रुझान"
         }
       },
       {
@@ -190,11 +190,11 @@
   },
   "topStories": {
     "big": {
-      "id": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+      "id": "europe-bomb-threat-wave-flights-broadcasters-third-day",
       "also": []
     },
     "list": [
-      "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
       "rice-paddy-stock-declaration-every-friday-food-stock-portal",
       "sc-up-under-trials-bail-release-all-75-districts",
       "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
@@ -281,9 +281,9 @@
   },
   "factCheck": {
     "cards": [
-      "jairam-ramesh-upi-charges-above-2000-claim",
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "ai-brics-selfie-modi-putin-xi-raisi"
+      "railways-18000-festive-specials-trips-claim",
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "eci-form-6-press-note-taken-down-claim"
     ]
   },
   "explained": [
@@ -446,12 +446,12 @@
     },
     {
       "section": "sports",
-      "lead": "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
+      "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
       "list": [
+        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
         "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-        "india-u19-beat-nepal-asia-cup-al-amerat"
+        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
       ]
     }
   ],
@@ -637,7 +637,7 @@
       ]
     },
     {
-      "at": "2026-11-07T07:37:00+05:30",
+      "at": "2026-11-07T07:40:18+05:30",
       "ids": [
         "sc-delhi-ncr-women-safety-union-reply-november-23",
         "obc-creamy-layer-explained-parents-salary-supreme-court",
@@ -648,8 +648,8 @@
         "navy-receives-amini-anti-submarine-shallow-water-craft",
         "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
         "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
         "europe-bomb-threat-wave-flights-broadcasters-third-day",
+        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
         "rice-paddy-stock-declaration-every-friday-food-stock-portal"
       ]
     }

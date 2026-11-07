@@ -416,7 +416,9 @@ export async function homeModel(lang: Lang) {
 
   // ---- Fact check
   const fcAll = c.articles.filter((e: any) => e.data.type === 'factcheck');
-  const fcCards = HOME.factCheck.cards.filter((id: string) => has(id) && c.all.get(id)?.data.factcheck).map((id: string) => {
+  // the three newest fact checks, always (owner, November 7: every section updates by itself, never a hand-kept list)
+  const fcNewest = [...fcAll].filter((e: any) => e.data.factcheck && hasPic(e.data.id)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 3).map((e: any) => e.data.id);
+  const fcCards = fcNewest.filter((id: string) => has(id)).map((id: string) => {
     const x = card(id);
     const f = need(x.d.factcheck, `factcheck block for "${id}"`);
     const pubs: string[] = [];
