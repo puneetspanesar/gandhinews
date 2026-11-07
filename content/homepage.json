@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-diwali-greetings-citizens-viksit-bharat",
+    "id": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
     "overlay": {
       "kicker": {
-        "en": "Politics / Diwali",
-        "hi": "राजनीति / दिवाली"
+        "en": "States / Weather",
+        "hi": "राज्य / मौसम"
       },
       "value": {
-        "en": "Modi's Diwali message to citizens",
-        "hi": "नागरिकों के नाम मोदी का दिवाली संदेश"
+        "en": "Rain on Deepavali in the south",
+        "hi": "दक्षिण में दीपावली पर बारिश"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-      "railways-18000-festive-special-trains",
-      "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-      "delhi-grap-stage-three-aqi-382-caqm",
-      "iran-hands-us-nuclear-proposal-seven-demands"
+      "navy-receives-amini-anti-submarine-shallow-water-craft",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+      "suvendu-adhikari-caa-citizenship-december-31-nadia",
+      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+      "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam"
     ],
     "live": {
       "title": {
-        "en": "Diwali",
-        "hi": "दिवाली"
+        "en": "Weather",
+        "hi": "मौसम"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
         "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
-          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
+          "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
+          "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
         }
       },
       {
-        "link": "railways-18000-festive-special-trains",
+        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
         "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Railways to run about 18,000 festive specials, half as many again as last year, says Vaishnaw",
-          "hi": "त्योहारों में करीब 18,000 स्पेशल ट्रेनें चलाएगा रेलवे, पिछले साल से डेढ़ गुना: वैष्णव"
+          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
+          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
         }
       },
       {
-        "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "link": "suvendu-adhikari-caa-citizenship-december-31-nadia",
         "lead": {
-          "en": "Himachal Pradesh:",
-          "hi": "हिमाचल प्रदेश:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
-          "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
+          "en": "Suvendu Adhikari promises citizenship to all eligible CAA applicants in Bengal by December 31",
+          "hi": "सुवेंदु अधिकारी का वादा: बंगाल में सभी पात्र सीएए आवेदकों को 31 दिसंबर तक नागरिकता"
         }
       },
       {
-        "link": "delhi-grap-stage-three-aqi-382-caqm",
+        "link": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "GRAP Stage III back across Delhi-NCR as AQI hits 382, two days before Diwali",
-          "hi": "दिवाली से दो दिन पहले दिल्ली-एनसीआर में ग्रैप का तीसरा चरण लागू, एक्यूआई 382"
+          "en": "Luca Van Assche beats Rinky Hijikata to reach first Masters 1000 semi-final, meets Ben Shelton",
+          "hi": "लुका वान असे ने रिंकी हिजिकाता को हराकर पहला मास्टर्स 1000 सेमीफाइनल खेलने का मौका पाया, सामने बेन शेल्टन"
         }
       },
       {
-        "link": "iran-hands-us-nuclear-proposal-seven-demands",
+        "link": "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
-          "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
+          "en": "India and US end Tiger Triumph 2026, a six-day disaster-relief exercise at Visakhapatnam",
+          "hi": "भारत और अमेरिका के बीच विशाखापत्तनम में छह दिन का आपदा राहत अभ्यास टाइगर ट्रायम्फ 2026 संपन्न"
         }
       },
       {
-        "link": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "link": "wb-suvendu-police-attacks-asansol-recruitment-29000",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Bosch profit rises 19% to ₹840 crore as board proposes a 1:5 split and 3:1 bonus issue",
-          "hi": "बॉश का मुनाफा 19% बढ़कर ₹840 करोड़, बोर्ड ने 1:5 स्प्लिट और 3:1 बोनस का प्रस्ताव रखा"
+          "en": "Suvendu Adhikari warns attackers of police: 'They will end up behind bars'",
+          "hi": "शुभेंदु अधिकारी की चेतावनी: पुलिस पर हमला करने वाले 'सलाखों के पीछे होंगे'"
         }
       },
       {
-        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "link": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Results:",
+          "hi": "नतीजे:"
         },
         "text": {
-          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
-          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
+          "en": "Tata Steel Q2 profit rises 18% to ₹3,666 crore as India business carries the group",
+          "hi": "टाटा स्टील का दूसरी तिमाही का मुनाफा 18% बढ़कर ₹3,666 करोड़, भारत कारोबार ने संभाला"
         }
       },
       {
-        "link": "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+        "link": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
         },
         "text": {
-          "en": "'The Constitution is a continuing responsibility', CJI Surya Kant tells lawyers at Ambedkar conference",
-          "hi": "'संविधान एक सतत जिम्मेदारी है', आंबेडकर सम्मेलन में वकीलों से बोले सीजेआई सूर्यकांत"
+          "en": "New Zealand election: Luxon and Hipkins separated by about 3,500 votes, no winner yet",
+          "hi": "न्यूज़ीलैंड चुनाव: लक्सन और हिपकिंस के बीच करीब 3,500 वोट का फासला, अभी कोई विजेता नहीं"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+      "id": "wb-suvendu-police-attacks-asansol-recruitment-29000",
       "also": []
     },
     "list": [
-      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-      "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-      "punjab-paddy-procurement-record-150-lmt-kataruchak",
-      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
+      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+      "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+      "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
+      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
     ],
     "also": [
-      "rain-industries-q3-profit-243-crore-interim-dividend",
-      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+      "suspension-of-sentence-explained-tejpal-supreme-court",
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
     ]
   },
   "startHere": [
@@ -382,7 +382,7 @@
     },
     {
       "section": "economy",
-      "lead": "fox-completes-22-billion-roku-acquisition",
+      "lead": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
       "module": {
         "type": "markets",
         "indicators": [
@@ -401,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+      "lead": "wb-suvendu-police-attacks-asansol-recruitment-29000",
       "list": [
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
         "punjab-paddy-procurement-record-150-lmt-kataruchak",
-        "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209"
+        "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three"
       ]
     },
     {
@@ -429,11 +429,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "lead": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
       "list": [
+        "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+        "iran-hands-us-nuclear-proposal-seven-demands"
       ]
     },
     {
@@ -446,12 +446,12 @@
     },
     {
       "section": "sports",
-      "lead": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+      "lead": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
       "list": [
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
+        "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
       ]
     }
   ],
@@ -498,22 +498,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "New Zealand election: polls close at 7 pm NZDT (11:30 am IST), first results minutes later",
-        "hi": "न्यूज़ीलैंड चुनाव: मतदान शाम 7 बजे (भारत में सुबह 11:30 बजे) बंद, कुछ मिनट बाद पहले नतीजे"
-      },
-      "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
         "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
       },
-      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+      "link": "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
     },
     {
       "icon": "calendar-blank",
@@ -526,26 +514,21 @@
         "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना सुबह 8 बजे से"
       },
       "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Rajnath Singh at Sherathang War Memorial, Sikkim, on Diwali",
+        "hi": "दिवाली पर सिक्किम के शेरथांग युद्ध स्मारक में राजनाथ सिंह"
+      },
+      "link": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T03:06:56+05:30",
-      "ids": [
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "sangareddy-pharma-deaths-need-inspections-not-compensation",
-        "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "joshi-renewable-investment-220-billion-500-gw-2030",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
-      ]
-    },
     {
       "at": "2026-11-07T06:54:01+05:30",
       "ids": [
@@ -646,6 +629,20 @@
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
         "mannan-arrested-madurai-tvk-mla-offer-released-bond",
         "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
+      ]
+    },
+    {
+      "at": "2026-11-07T18:32:42+05:30",
+      "ids": [
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "suvendu-adhikari-caa-citizenship-december-31-nadia",
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
+        "wb-suvendu-police-attacks-asansol-recruitment-29000",
+        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
       ]
     }
   ],

@@ -26,7 +26,7 @@ seo:
   description: "New Zealand election count: National and Labour about 3,500 votes apart with 95% counted. Luxon says too close to call, Hipkins says every vote must be counted."
 infographic:
   kicker: "New Zealand election"
-  headline: "Right bloc ahead on seats, but nobody has a majority"
+  headline: "Right bloc on 67 seats, one past the 66 needed, before special votes"
   dek: "Preliminary count, 95% of votes counted"
   motif: flag
   stats:

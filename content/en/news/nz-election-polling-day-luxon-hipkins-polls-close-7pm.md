@@ -13,10 +13,6 @@ keyPoints:
   - "Voting places are open from 9 am to 7 pm, and **more than 1.5 million people** had already cast advance votes."
   - "The final Verian poll had **National on 30% and Labour on 29%**, with the right-wing bloc short of a majority."
   - "Preliminary results are due from **7 pm NZDT (11:30 am IST)**, and the official result on November 27."
-upcoming:
-  date: 2026-11-07
-  en: "New Zealand election: polls close at 7 pm NZDT (11:30 am IST), first results minutes later"
-  hi: "न्यूज़ीलैंड चुनाव: मतदान शाम 7 बजे (भारत में सुबह 11:30 बजे) बंद, कुछ मिनट बाद पहले नतीजे"
 hero:
   need: "Prime Minister Christopher Luxon and Labour leader Chris Hipkins"
   suggested_source: "Christopher Luxon"

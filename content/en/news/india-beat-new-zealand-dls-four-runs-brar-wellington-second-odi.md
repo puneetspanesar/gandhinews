@@ -28,7 +28,7 @@ cover:
   bg: "Sky Stadium"
   score: ["NZ 134", "IND 113/7"]
 infographic:
-  kicker: "New Zealand v India, 2nd ODI"
+  kicker: "2nd ODI, Wellington"
   headline: "Brar's 4 for 30 wins a rain-hit ODI"
   dek: "India finish four runs ahead of the DLS par score"
   motif: cricket

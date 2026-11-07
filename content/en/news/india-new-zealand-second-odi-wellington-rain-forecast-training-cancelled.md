@@ -9,7 +9,6 @@ title: "Rain threatens Wellington ODI as India call off training"
 standfirst: "Persistent drizzle wiped out India's Friday session and sent New Zealand indoors, with more rain forecast for Saturday's second ODI, which starts at 7:30 am IST."
 published: 2026-11-06T17:07:34+05:30
 location: Wellington
-upcoming: {date: 2026-11-07, en: "India v New Zealand, second ODI, Wellington, 7:30 am IST", hi: "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"}
 keyPoints:
   - "India **cancelled their Friday training session** in Wellington because of rain."
   - "Forecasts give a **60 to 70 per cent chance of rain** on match day."

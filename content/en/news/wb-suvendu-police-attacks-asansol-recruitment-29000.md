@@ -32,7 +32,7 @@ infographic:
   source: "Chief Minister's remarks, Kolkata, November 7, 2026"
 related: []
 seo:
-  description: "West Bengal CM Suvendu Adhikari warned on November 7, 2026 that attackers of police will go to jail, and announced 29,000 police appointments."
+  description: "West Bengal CM Suvendu Adhikari warned on November 7, 2026, that attackers of police will go to jail, and announced 29,000 police appointments."
 sources:
   - title: "\"They will end up behind bars\": WB CM Suvendu Adhikari warns against attacks on police in West Bengal"
     publisher: "ANI"

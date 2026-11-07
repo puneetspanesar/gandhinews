@@ -1,0 +1,22 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-07T18:04:43+05:30",
+ "end": "2026-11-07T18:35:29+05:30",
+ "summary": "4 new stories; Andhra results held; GitHub Actions billing blocks photo downloads",
+ "new": [
+  "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+  "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+  "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+  "wb-suvendu-police-attacks-asansol-recruitment-29000"
+ ],
+ "held": [
+  "andhra-parishad-results-alliance-170-zptc-pulivendula-2-25-pm"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "in the top five at 14:41 as well: the lead and the four beside it never repeat within 6 hours: tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+ ],
+ "lead": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd"
+}
