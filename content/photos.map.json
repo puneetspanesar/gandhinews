@@ -31484,7 +31484,7 @@
   "alt": "Gandhi News graphic: AIADMK's Mannan arrested, freed on bond",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अन्नाद्रमुक के मन्नान गिरफ्तार, बॉन्ड पर रिहा",
   "page": null,
-  "ihash": "ce77d3e530b5",
+  "ihash": "ab48cab0deab",
   "byLang": {
    "hi": {
     "src": "/photos/i-mannan-arrested-madurai-tvk-mla-offer-released-bond-hi-3x2-1280.jpg",
@@ -31513,7 +31513,7 @@
     "src800": "/photos/i-mannan-arrested-madurai-tvk-mla-offer-released-bond-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of P M Mannan; library, quick_photo, finder h0708 query mannan found none"
+  "nophoto": "no free photo of P M Mannan; re-rendered after the 10 am line changed"
  },
  "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand": {
   "id": "o-wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
@@ -31699,12 +31699,12 @@
   "src800": "/photos/o-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 899,
+  "srcWidth": 1332,
   "credit": "Photo: Vice President's Secretariat / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "C. P. Radhakrishnan (file photo)",
   "alt_hi": "सी. पी. राधाकृष्णन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg"
  },
  "sebi-settlement-regulations-2026-in-force-online-facility-fees": {
   "id": "o-sebi-settlement-regulations-2026-in-force-online-facility-fees",
@@ -31769,20 +31769,50 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Chris Hipkins, leader of New Zealand's Labour Party (file photo)",
   "alt_hi": "न्यूजीलैंड की लेबर पार्टी के नेता क्रिस हिपकिंस (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins_speaking_Sep_26.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins_2026_original.jpg"
  },
  "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast": {
-  "id": "o-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
-  "src": "/photos/o-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-1280.jpg",
-  "src800": "/photos/o-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-640.jpg",
+  "id": "i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
+  "src": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-3x2-640.jpg",
   "width": 1280,
-  "height": 720,
-  "srcWidth": 1920,
-  "credit": "Photo: NOAA / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Satellite image of thick smog over Delhi and the Indo-Gangetic plain (file image)",
-  "alt_hi": "दिल्ली और सिंधु-गंगा के मैदान पर घने स्मॉग की उपग्रह तस्वीर (फाइल चित्र)",
-  "page": "https://commons.wikimedia.org/wiki/File:Thick_Smog_Blankets_India%E2%80%99s_Capital_City_(NESDIS_2019-11-01_delhi-image).jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Delhi air eases a little, still very poor",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दिल्ली की हवा थोड़ी सुधरी, अब भी बहुत खराब",
+  "page": null,
+  "ihash": "2de48fe5a62c",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-640.jpg"
+   }
+  },
+  "nophoto": "no correct unused ground-level Delhi smog photo: every Delhi smog photo in finder h0710 used within 7 days; satellite image rejected by the editor"
  },
  "punjab-paddy-procurement-record-150-lmt-kataruchak": {
   "id": "i-punjab-paddy-procurement-record-150-lmt-kataruchak",

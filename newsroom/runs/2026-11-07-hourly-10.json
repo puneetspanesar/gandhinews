@@ -1,0 +1,31 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-07T10:04:45+05:30",
+ "end": "2026-11-07T10:43:40+05:30",
+ "summary": "VP Deepotsav lead, NZ polling day, SEBI rules, Punjab paddy, Delhi AQI, WHO; 2 held by the editor",
+ "new": [
+  "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
+  "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+  "punjab-paddy-procurement-record-150-lmt-kataruchak",
+  "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+  "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+  "who-six-climate-health-actions-1-6-million-lives-cop31"
+ ],
+ "held": [
+  "nabi-two-wickets-new-zealand-29-for-3-wellington-second-odi",
+  "rahul-gandhi-asks-amit-shah-to-convince-modi-open-debate-sir"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+   "kind": "facts",
+   "why": "The time conversion is wrong in both languages. 'About 95% of the preliminary party vote by 11:30 pm, which is about 4 am IST on Sunday' (Hindi: 'रविवार तड़के करीब 4 बजे') cannot be right: NZDT is 7.5 hours ahead of IST, so 11:30 pm NZDT is 4 pm IST on Saturday. The story's own 7 pm NZDT = 11:30 am IST shows this. Polls also close at 11:30 am IST, under an hour from now.",
+   "fix": "In EN and HI, change 'about 4 am IST on Sunday' to 'about 4 pm IST on Saturday' (Hindi: 'भारतीय समय के अनुसार शनिवार शाम करीब 4 बजे'). The 10 pm (50% of voting places) and 11:30 pm (95%) targets match The Spinoff, so leave them. After 11:30 am IST, rewrite it as a results story with the first preliminary figures.",
+   "done": "Changed to about 4 pm IST on Saturday in English and Hindi."
+  }
+ ],
+ "breaches": [],
+ "lead": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
+}

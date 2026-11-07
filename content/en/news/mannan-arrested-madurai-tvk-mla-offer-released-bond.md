@@ -9,14 +9,10 @@ title: "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bon
 standfirst: "Police say the former deputy mayor offered ₹15 crore to ₹30 crore to a TVK legislator to vote against the government. The judge asked why he was arrested a day before his summons."
 published: 2026-11-07T08:12:00+05:30
 location: Madurai
-upcoming:
-  date: 2026-11-07
-  en: "P M Mannan due at Madurai CCB for questioning at 10 am"
-  hi: "पी एम मन्नान को सुबह 10 बजे मदुरै सीसीबी में पूछताछ के लिए पहुंचना है"
 keyPoints:
   - "Madurai police arrested former deputy mayor **P M Mannan** on Friday over an alleged bribe offer to a TVK MLA."
   - "A judge **refused to remand him** and released him on a personal bond of ₹25,000."
-  - "He is due at the Central Crime Branch at **10 am on Saturday**."
+  - "He was summoned to the Central Crime Branch for **10 am on Saturday**."
 hero:
   need: "AIADMK general secretary Edappadi K Palaniswami, who called the arrest a false case, and Chief Minister Vijay"
   suggested_source: "Edappadi K. Palaniswami"
@@ -38,7 +34,7 @@ infographic:
   timeline:
     - {date: "6 am, Nov 6", text: "Questioning begins at the CCB", icon: users}
     - {date: "Nov 6", text: "Arrest, then release by the judge", icon: gavel}
-    - {date: "10 am, Nov 7", text: "Due again at the CCB", icon: map-pin}
+    - {date: "10 am, Nov 7", text: "Summoned again to the CCB", icon: map-pin}
   source: "Madurai police and court proceedings, November 6, 2026"
 sources:
   - title: "AIADMK leader Mannan held over alleged bid to bribe TVK MLA, released by court"
@@ -70,7 +66,7 @@ Officers questioned Mannan from about 6 am on Friday, for more than four hours, 
 
 Mannan was produced at the judge's residence because the court was closed for a local holiday. Joseph Joy, the in-charge judge of the Madurai special anti-corruption court, asked police why he had been arrested on Friday when he had already been summoned to appear on Saturday. He **refused to remand Mannan** and released him on a **personal bond of ₹25,000**.
 
-Mannan has said he will cooperate and is due at the CCB at **10 am on Saturday**.
+Mannan has said he will cooperate and was summoned to the CCB for **10 am on Saturday**.
 
 ## Party responses
 

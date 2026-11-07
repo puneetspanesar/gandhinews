@@ -50,7 +50,7 @@ verification:
     - "SEBI site not readable by the desk; details from two syndicated reports quoting SEBI. Regulations notified October 8, 2026."
 ---
 
-The Securities and Exchange Board of India's new settlement regulations **came into force on Saturday, November 7**. The SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026 were notified on October 8 and repeal the 2018 Settlement Proceedings Regulations, subject to transitional and saving provisions. SEBI set November 7, 2026 as the date they take effect.
+The Securities and Exchange Board of India's new settlement regulations **came into force on Saturday, November 7**. The SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026 were notified on October 8 and repeal the 2018 Settlement Proceedings Regulations, subject to transitional and saving provisions. SEBI set November 7, 2026, as the date they take effect.
 
 The market regulator has also opened an **online application facility** on its website. It comes with a settlement amount calculator, an explainer video, FAQs and a dedicated help desk.
 

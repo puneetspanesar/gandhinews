@@ -3,7 +3,7 @@ id: vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti
 lang: en
 type: news
 section: politics
-format_label: "Politics / Vice-President"
+format_label: "Politics / Deepotsav"
 topics: []
 title: "Vice-President Radhakrishnan in Ayodhya for 10th Deepotsav, to pray at Ram temple"
 standfirst: "C P Radhakrishnan will offer prayers at the Ram Janmabhoomi temple, join the aarti with the Governor and the Chief Minister, and attend the Deepotsav celebrations on the eve of Diwali."
@@ -31,7 +31,7 @@ infographic:
   source: "Official statement and UP government, November 7, 2026"
 related: []
 seo:
-  description: "Vice-President C P Radhakrishnan is in Ayodhya on November 7, 2026 for the 10th Deepotsav: prayers at the Ram temple, the aarti with Yogi Adityanath and a drone show."
+  description: "Vice-President C P Radhakrishnan is in Ayodhya on November 7, 2026, for the 10th Deepotsav: prayers at the Ram temple, the aarti with Yogi Adityanath and a drone show."
 sources:
   - title: "V-P Radhakrishnan to join Ayodhya Deepotsav 2026 today"
     publisher: "The Hans India"

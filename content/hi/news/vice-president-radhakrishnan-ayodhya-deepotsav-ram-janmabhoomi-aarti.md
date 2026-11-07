@@ -4,7 +4,7 @@ lang: hi
 translation_of: vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti
 type: news
 section: politics
-format_label: "राजनीति / उपराष्ट्रपति"
+format_label: "राजनीति / दीपोत्सव"
 topics: []
 title: "उपराष्ट्रपति राधाकृष्णन 10वें दीपोत्सव के लिए अयोध्या में, राम मंदिर में करेंगे पूजा"
 standfirst: "सी पी राधाकृष्णन राम जन्मभूमि मंदिर में पूजा करेंगे, राज्यपाल और मुख्यमंत्री के साथ आरती में शामिल होंगे और दिवाली की पूर्व संध्या पर दीपोत्सव में हिस्सा लेंगे।"

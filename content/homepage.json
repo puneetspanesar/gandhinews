@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "suvendu-adhikari-caa-citizenship-december-31-nadia",
+    "id": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
     "overlay": {
       "kicker": {
-        "en": "Politics / West Bengal",
-        "hi": "राजनीति / पश्चिम बंगाल"
+        "en": "Politics / Deepotsav",
+        "hi": "राजनीति / दीपोत्सव"
       },
       "value": {
-        "en": "Citizenship under CAA by December 31",
-        "hi": "31 दिसंबर तक सीएए नागरिकता"
+        "en": "Deepotsav 2026, Ayodhya",
+        "hi": "दीपोत्सव 2026, अयोध्या"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
-      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
-      "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court"
+      "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+      "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law"
     ],
     "live": {
       "title": {
-        "en": "West Bengal",
-        "hi": "पश्चिम बंगाल"
+        "en": "Deepotsav",
+        "hi": "दीपोत्सव"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
         },
         "text": {
-          "en": "Cyclone Murasu caused about ₹1,919 crore of damage in Andhra, Naidu says, with crops hit on 1.4 lakh hectares",
-          "hi": "चक्रवात मुरासु से आंध्र को करीब 1,919 करोड़ रुपये का नुकसान, 1.4 लाख हेक्टेयर में फसलें बर्बाद: नायडू"
+          "en": "New Zealand votes with Luxon and Hipkins level in the final polls",
+          "hi": "न्यूज़ीलैंड में मतदान, आखिरी सर्वे में लक्सन और हिपकिंस बराबरी पर"
         }
       },
       {
-        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "lead": {
-          "en": "Home Ministry:",
-          "hi": "गृह मंत्रालय:"
+          "en": "SEBI:",
+          "hi": "सेबी:"
         },
         "text": {
-          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
-          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
+          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
+          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
         }
       },
       {
-        "link": "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+        "link": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Electoral rolls:",
+          "hi": "मतदाता सूची:"
         },
         "text": {
-          "en": "Rahul Gandhi says welfare tied to voter ID will turn the rolls into a political tool",
-          "hi": "योजनाओं को वोटर आईडी से जोड़कर मतदाता सूची को राजनीतिक हथियार बनाया जा रहा है: राहुल गांधी"
+          "en": "EC gives voters left off SIR draft rolls in 7 states a fresh chance to get back on",
+          "hi": "एसआईआर मसौदा सूची से छूटे 7 राज्यों के मतदाताओं को चुनाव आयोग ने दिया एक और मौका"
         }
       },
       {
-        "link": "fritz-beats-fils-alcaraz-quarter-final-hijikata-paris",
+        "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Himachal Pradesh:",
+          "hi": "हिमाचल प्रदेश:"
         },
         "text": {
-          "en": "Fritz beats Fils in Paris to keep Turin hopes alive and set up Alcaraz quarter-final",
-          "hi": "पेरिस में फ्रिट्ज ने फिस को हराया, ट्यूरिन की उम्मीद बरकरार, क्वार्टर फाइनल में अल्कराज से टक्कर"
+          "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
+          "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
         }
       },
       {
-        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
         "lead": {
-          "en": "Power:",
-          "hi": "बिजली:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
-          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
+          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
+          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
         }
       },
       {
-        "link": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "link": "punjab-paddy-procurement-record-150-lmt-kataruchak",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "Bosch profit rises 19% to ₹840 crore as board proposes a 1:5 split and 3:1 bonus issue",
-          "hi": "बॉश का मुनाफा 19% बढ़कर ₹840 करोड़, बोर्ड ने 1:5 स्प्लिट और 3:1 बोनस का प्रस्ताव रखा"
+          "en": "Punjab paddy procurement crosses a record 150 lakh tonnes, ₹33,000 crore paid to farmers",
+          "hi": "पंजाब में धान की खरीद रिकॉर्ड 150 लाख टन के पार, किसानों को ₹33,000 करोड़ का भुगतान"
         }
       },
       {
-        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "link": "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
         },
         "text": {
-          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
-          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
+          "en": "Jaypal Malviya wins air pistol silver in Doha, India's first shooting quota for LA 2028",
+          "hi": "दोहा में जयपाल मालवीय को एयर पिस्टल रजत, लॉस एंजिलिस 2028 के लिए भारत का पहला निशानेबाज़ी कोटा"
         }
       },
       {
-        "link": "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+        "link": "suspension-of-sentence-explained-tejpal-supreme-court",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Law:",
+          "hi": "कानून:"
         },
         "text": {
-          "en": "Prism Johnson jumps 5% on Q2 profit as Ratnamani and Precision Wires slide",
-          "hi": "दूसरी तिमाही के मुनाफे पर प्रिज्म जॉनसन 5% चढ़ा, रत्नमणि और प्रिसिजन वायर्स फिसले"
+          "en": "Suspension of sentence explained: why Tarun Tejpal stays in jail while his appeal waits",
+          "hi": "सज़ा का निलंबन क्या है: अपील लंबित रहते तरुण तेजपाल जेल में क्यों रहेंगे"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+      "id": "punjab-paddy-procurement-record-150-lmt-kataruchak",
       "also": []
     },
     "list": [
-      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-      "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
-      "india-beat-japan-4-1-sixth-asian-champions-trophy-title",
-      "bail-granted-is-not-freedom-release-the-under-trials"
+      "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+      "suspension-of-sentence-explained-tejpal-supreme-court",
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "24-hour-rule-explained-article-22-detention-arrest"
     ],
     "also": [
-      "railways-18000-festive-specials-trips-claim",
-      "khunti-crash-night-highways-need-lights-and-speed-checks"
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "delhi-grap-stage-three-aqi-382-caqm"
     ]
   },
   "startHere": [
@@ -374,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "suvendu-adhikari-caa-citizenship-december-31-nadia",
         "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
+        "sc-delhi-ncr-women-safety-union-reply-november-23"
       ],
-      "lead": "suvendu-adhikari-caa-citizenship-december-31-nadia"
+      "lead": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
     },
     {
       "section": "economy",
-      "lead": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+      "lead": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,19 +393,19 @@
         ]
       },
       "list": [
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
         "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "rain-industries-q3-profit-243-crore-interim-dividend",
-        "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-        "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
+        "rice-paddy-stock-declaration-every-friday-food-stock-portal"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+      "lead": "punjab-paddy-procurement-record-150-lmt-kataruchak",
       "list": [
-        "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
         "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
+        "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+        "amit-shah-presidents-police-colour-uttarakhand-police"
       ]
     },
     {
@@ -428,11 +428,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "lead": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
       "list": [
+        "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+        "iran-hands-us-nuclear-proposal-seven-demands"
       ]
     },
     {
@@ -494,10 +494,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "P M Mannan due at Madurai CCB for questioning at 10 am",
-        "hi": "पी एम मन्नान को सुबह 10 बजे मदुरै सीसीबी में पूछताछ के लिए पहुंचना है"
+        "en": "New Zealand election: polls close at 7 pm NZDT (11:30 am IST), first results minutes later",
+        "hi": "न्यूज़ीलैंड चुनाव: मतदान शाम 7 बजे (भारत में सुबह 11:30 बजे) बंद, कुछ मिनट बाद पहले नतीजे"
       },
-      "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond"
+      "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm"
     },
     {
       "icon": "calendar-blank",
@@ -525,20 +525,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T20:39:55+05:30",
-      "ids": [
-        "delhi-grap-stage-three-aqi-382-caqm",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "navy-receives-amini-anti-submarine-shallow-water-craft",
-        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "sc-up-under-trials-bail-release-all-75-districts",
-        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
-        "lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur"
-      ]
-    },
     {
       "at": "2026-11-06T21:44:06+05:30",
       "ids": [
@@ -645,6 +631,20 @@
         "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
         "mannan-arrested-madurai-tvk-mla-offer-released-bond",
         "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results"
+      ]
+    },
+    {
+      "at": "2026-11-07T10:41:17+05:30",
+      "ids": [
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "punjab-paddy-procurement-record-150-lmt-kataruchak",
+        "jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota",
+        "suspension-of-sentence-explained-tejpal-supreme-court"
       ]
     }
   ],

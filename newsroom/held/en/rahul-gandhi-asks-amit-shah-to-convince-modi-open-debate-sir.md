@@ -29,7 +29,7 @@ infographic:
   source: "Statements of November 6, 2026"
 related: []
 seo:
-  description: "Rahul Gandhi asked Amit Shah on November 6, 2026 to convince Modi to accept an open debate. Shah replied in Karnal that Gandhi should raise SIR in Parliament."
+  description: "Rahul Gandhi asked Amit Shah on November 6, 2026, to convince Modi to accept an open debate. Shah replied in Karnal that Gandhi should raise SIR in Parliament."
 sources:
   - title: "Debate dares and Ghuspatiya jibes: Rahul Gandhi-Amit Shah face-off over SIR intensifies"
     publisher: "ANI"
