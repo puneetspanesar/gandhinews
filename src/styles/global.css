@@ -1030,12 +1030,17 @@ footer .fwm{height:48px;color:#fff}
 @media(min-width:1081px){
   .mh-top{position:relative;z-index:0;height:96px;padding:0 var(--gut);border-bottom:0;isolation:isolate}
   .mh-top::before{content:"";position:absolute;left:var(--gut);right:var(--gut);top:50%;height:1px;background:var(--line);z-index:-1}
-  .mh-date{background:#fff;padding-right:18px}
+  .mh-l{background:#fff;padding-right:18px}
   .mh-act{background:#fff;padding-left:18px}
   .mh-brand{height:96px;margin-top:-96px;padding-top:0;padding-bottom:0;position:relative;z-index:1;pointer-events:none;align-items:center}
   .mh-brand>*{pointer-events:auto}
   .mh-wm{background:#fff;padding:0 22px;box-sizing:content-box;height:72px}
   .menu.mh-nav{margin-top:4px}
+  .mh-date{font-family:var(--f-serif);font-size:17px;font-weight:700;letter-spacing:0}
+  .mh-lang{gap:16px;padding-left:20px;border-left:1px solid var(--line)}
+  .mh-lang a,.mh-lang span{font-size:15px}
+  .mh-ib{width:40px;height:40px}.mh-ib .ic{width:22px;height:22px}
+  .mh-sub{font-size:15px;padding:10px 18px}
 }
 @media(min-width:1081px) and (max-width:1240px){.mh-top,.mh-brand{height:80px}.mh-brand{margin-top:-80px}.mh-wm{height:56px;padding:0 14px}}
 /* reading text in PT Serif, the same family as the headings (owner, November 8). Hindi keeps Noto Sans Devanagari for text; labels, menus and numbers stay in Roboto */
@@ -1044,3 +1049,6 @@ footer .fwm{height:48px;color:#fff}
 :lang(en) .kp li{font-size:16px}
 :lang(en) .d-p{font-size:15px}
 @media(max-width:560px){:lang(en) .body p,:lang(en) .body ul,:lang(en) .body ol{font-size:17px}}
+@media(min-width:1081px) and (max-width:1240px){.mh-date{font-size:15px}.mh-lang a,.mh-lang span{font-size:14px}.mh-sub{font-size:14px;padding:8px 14px}}
+.mh-l{display:flex;align-items:center;gap:20px}
+@media(max-width:1080px){.mh-l{gap:14px}}

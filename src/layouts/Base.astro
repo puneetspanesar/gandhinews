@@ -177,13 +177,15 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <a class="skip" href="#main">{t.skip}</a>
   <header class="mh" id="nb">
     <div class="w mh-top">
-      <span class="mh-date">{todayLine(lang)}</span>
-      <div class="mh-act">
+      <div class="mh-l">
+        <span class="mh-date">{todayLine(lang)}</span>
         <div class="mh-lang" role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'}>
           {lang === 'en'
             ? <><span class="on" aria-current="true">English</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <span class="hi off" lang="hi">हिंदी</span>}</>
             : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>English</a> : <span class="off">English</span>}<span class="on hi" aria-current="true">हिंदी</span></>}
         </div>
+      </div>
+      <div class="mh-act">
         <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
         <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>
       </div>
