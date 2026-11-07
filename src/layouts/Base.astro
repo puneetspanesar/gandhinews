@@ -177,20 +177,21 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <a class="skip" href="#main">{t.skip}</a>
   <header class="mh" id="nb">
     <div class="w mh-top">
-      <span class="mh-date">{todayLine(lang)}</span>
-      <div class="mh-act">
+      <div class="mh-l">
+        <span class="mh-date">{todayLine(lang)}</span>
         <div class="mh-lang" role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'}>
           {lang === 'en'
             ? <><span class="on" aria-current="true">English</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <span class="hi off" lang="hi">हिंदी</span>}</>
             : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>English</a> : <span class="off">English</span>}<span class="on hi" aria-current="true">हिंदी</span></>}
         </div>
+      </div>
+      <div class="mh-act">
         <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
         <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>
       </div>
     </div>
     <div class="w mh-brand">
       <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
-      <span class="mh-tag">{lang === 'hi' ? <>भारत और दुनिया,<br />हिंदी और अंग्रेज़ी में</> : <>India and the world,<br />in English and Hindi</>}</span>
     </div>
     <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
       <a href={`${p}/`} class={active === 'home' ? 'on' : undefined} aria-current={active === 'home' ? 'page' : undefined}>{t.home}</a>
@@ -401,6 +402,33 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       document.querySelectorAll('[data-cookie-settings]').forEach(function (a) {
         a.addEventListener('click', function (e) { e.preventDefault(); box.hidden = false; });
       });
+    })();
+  </script>
+  <script is:inline>
+    /* no orphans (owner rule): the last two words of every paragraph and headline stay on one line */
+    (function(){
+      var sel='p,li,dd,h1,h2,h3,h4,.d-li,.d-must span,.d-fch,.d-q,.d-qi,figcaption,blockquote';
+      function glue(el){
+        var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null),n,last=null;
+        while((n=w.nextNode())){if(/\S/.test(n.nodeValue))last=n;}
+        if(!last)return;
+        var v=last.nodeValue.replace(/\s+$/,''),i=v.lastIndexOf(' ');
+        if(i<1){return;}
+        var tail=v.slice(i+1);if(tail.length>14)return;
+        last.nodeValue=v.slice(0,i)+'\u00a0'+tail+last.nodeValue.slice(v.length);
+      }
+      /* hyphenated words (BS-III, Delhi-NCR, co-founder) never split across lines */
+      function hy(el){
+        var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null),n,list=[],re=/[^\s\-\u2013]{1,14}(?:-[^\s\-\u2013]{1,14})+/g;
+        while((n=w.nextNode())){if(n.nodeValue.indexOf('-')>-1&&!(n.parentNode.closest&&n.parentNode.closest('.nw')))list.push(n);}
+        list.forEach(function(t){
+          var v=t.nodeValue,f=document.createDocumentFragment(),last=0,m;re.lastIndex=0;
+          while((m=re.exec(v))){f.appendChild(document.createTextNode(v.slice(last,m.index)));var sp=document.createElement('span');sp.className='nw';sp.style.whiteSpace='nowrap';sp.textContent=m[0];f.appendChild(sp);last=m.index+m[0].length;}
+          if(last){f.appendChild(document.createTextNode(v.slice(last)));t.parentNode.replaceChild(f,t);}
+        });
+      }
+      function run(){document.querySelectorAll(sel).forEach(function(el){if(!el.dataset.gl){el.dataset.gl=1;hy(el);glue(el);}});}
+      if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',run);else run();
     })();
   </script>
 </body>
