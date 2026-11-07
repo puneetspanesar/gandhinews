@@ -1025,3 +1025,12 @@ footer .fwm{height:48px;color:#fff}
 @media(max-width:1180px){.menu.mh-nav>a,.menu.mh-nav summary{font-size:12px;padding:11px 9px}}
 @media(max-width:980px){.mh-brand{grid-template-columns:1fr;justify-items:center}.mh-wm{grid-column:1;height:50px}}
 @media(max-width:560px){.mh-wm{height:40px}}
+/* the wordmark rises into the top bar, whose rule breaks around it (owner, November 7: no wasted space above the logo) */
+@media(min-width:1081px){
+  .mh-top{position:relative;z-index:0}
+  .mh-brand{padding-top:0;padding-bottom:12px;margin-top:-30px;position:relative;z-index:1;pointer-events:none}
+  .mh-brand>*{pointer-events:auto}
+  .mh-wm{background:#fff;padding:0 22px;box-sizing:content-box}
+  .mh-tag{align-self:end;margin-bottom:2px}
+}
+@media(min-width:1081px) and (max-width:1240px){.mh-wm{height:58px;padding:0 10px}.mh-brand{margin-top:-26px}}
