@@ -65,10 +65,6 @@ The new-ball pair did the early damage. Auqib Nabi removed Tim Seifert for a duc
 
 Gurnoor Brar did the rest of the middle-order work, **finishing with 4 for 30 in 10 overs**. He took Tom Latham and Glenn Phillips in quick succession and later Santner and Nathan Smith. Axar Patel dismissed Daryl Mitchell and Kyle Jamieson for 2 for 28, and Kamboj ended the innings by getting Blair Tickner for 2, finishing with 2 for 25.
 
-```photo
-{"n":1,"subject":"Daryl Mitchell","caption":"Daryl Mitchell made 55 off 104 balls, the only half-century of the New Zealand innings.","alt":"New Zealand batter Daryl Mitchell"}
-```
-
 Mitchell's **55 off 104 balls** was a lone hand, and Santner's 31 off 38 was the only other score of note. Arshdeep Singh went wicketless but conceded just 16 runs in his 7 overs.
 
 New Zealand played without Devon Conway, who is out of the series with concussion. The chase has Rohit Sharma, Gill and Virat Kohli, who made 74 in the first ODI, in the line-up.

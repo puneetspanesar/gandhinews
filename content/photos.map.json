@@ -31895,5 +31895,91 @@
   "alt": "Christopher Luxon (file photo)",
   "alt_hi": "क्रिस्टोफ़र लक्सन (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Chris_Luxon_portrait_(cropped).jpg"
+ },
+ "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft": {
+  "id": "i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+  "src": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: From suo motu notice to the Centre's reply",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: स्वतः संज्ञान से केंद्र के जवाब तक",
+  "page": null,
+  "ihash": "439c12d3b4a5",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-en-1280.jpg",
+    "src800": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-hi-1280.jpg",
+    "src800": "/photos/i-delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free unused photo of Tushar Mehta or the Supreme Court; library, quick_photo, finder h0712 (all inside 7 days)"
+ },
+ "nz-all-out-134-brar-four-india-need-135-wellington-second-odi": {
+  "id": "i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi",
+  "src": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-en-3x2-1280.jpg",
+  "src800": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: New Zealand bowled out for 134",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: न्यूज़ीलैंड 134 पर ऑल आउट",
+  "page": null,
+  "ihash": "d0631420e8c2",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-en-t-1280.jpg",
+    "src800": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-hi-t-1280.jpg",
+    "src800": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-en-1280.jpg",
+    "src800": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-hi-1280.jpg",
+    "src800": "/photos/i-nz-all-out-134-brar-four-india-need-135-wellington-second-odi-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Gurnoor Brar or Daryl Mitchell; library, quick_photo, finder h0712"
  }
 }

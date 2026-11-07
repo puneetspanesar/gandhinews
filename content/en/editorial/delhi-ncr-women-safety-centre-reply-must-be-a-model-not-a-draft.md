@@ -93,10 +93,6 @@ None of this is expensive next to the cost of another night like the ones that b
 
 Senior Advocate Liz Mathew, the amicus curiae, has asked for a week after the reply is filed. The case is listed on December 2. The court could use that date to ask a simple question of every agency in the region: **what was fixed since September 28, and where is the proof**. A reply that can answer that is a model. One that cannot is only a draft with a better cover.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court of India, which has listed its suo motu case on women's safety in Delhi-NCR for December 2.","alt":"The Supreme Court of India building in New Delhi"}
-```
-
 ```facts
 {"title":"The reporting behind this view","items":[{"value":"November 23","label":"new deadline for the Centre's reply, extended from November 6 (Supreme Court, November 6, 2026)"},{"value":"October 5","label":"date of the court's directions on beat patrols and verified drivers"},{"value":"December 2","label":"next hearing, after the amicus has a week with the reply"}]}
 ```

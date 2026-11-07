@@ -2,48 +2,6 @@
 
 Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 24 hours are no longer BIG STORIES: delete them. Delete an item once it is published or no longer news.
 
-## November 6, 2026, 6:40 am (from the 06:00 run)
-- Published 4 stories: Amit Shah Dehradun padyatra and Parade Ground rally preview (LEAD, Shah file photo re-cropped to show his whole head); India v Nepal U19 Asia Cup opener 10:30 am IST (infographic, no team or ground photo found); Wall Street close Nov 5 (Dow -1,833 to 51,523.06, Nasdaq -5.52% into a correction, S&P -4.36%; infographic, index story) which replaces the two held Wall Street and SpaceX/Tesla stories; Airbnb Q3 revenue +19%, $12 bn buyback (Brian Chesky photo).
-- Held: sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today (picture: finder h0606 had only Sonia Gandhi portraits under main size). Rouse Avenue hearing is today; write the outcome as a new story with a real photo.
-- NEXT RUN, FIRST: Andhra five Murasu-hit mandals and two repoll booths vote from 7 am today; write live turnout as a new development story and make it the LEAD.
-- Homepage: business cards (Fortis, Titan, Airtel, ONGC, Glenmark, IRB, Mahindra) dropped from the top to keep one business story (Airbnb); the top eight now reach back to 37-hour-old opinion pieces for lack of fresh stories. Editor's first check also flagged "Andhra Pradesh" and "Companies" twice in the sub-nav (the second check did not see it; not fixed).
-- Markets: before the open; markets.json unchanged.
-
-## November 6, 2026, 7:45 am (from the 07:00 run)
-- Published 3 stories: Trump says a Russia-Ukraine deal may involve all of Europe, met Dmitriev (Trump photo); Pralhad Joshi says renewable investment will top $220 bn by 2030 (Joshi photo, Nov 5 event); Manu Bhaker, Suruchi and Sainyam win women's 10m air pistol team silver at the ISSF Worlds in Doha (Manu photo cropped from a Paris 2024 PMO photo; Nov 5 event). Lead is the Andhra five-mandal vote preview.
-- Held: tn-fishermen-five-bodies-kothapatnam-four-missing-murasu (picture: Coast Guard ship file photo looked like a drill; editor wants a Murasu rough sea, Kothapatnam recovery or Kasimedu harbour photo). Fifth body is single-source; recheck before republishing.
-- NEXT RUN, FIRST: Andhra five mandals and two repoll booths live turnout (9 am SEC figure) as a new development story and LEAD; Amit Shah Dehradun padyatra and rally outcome; ISSF Doha Friday finals; India v Nepal U19 live after 10:30 am.
-- Editor homepage FAIL not fixed after the second check (no stories or photos in time): live band is thin with an empty column, Andhra preview rather than live turnout, Amit Shah 1857 memorial in Haryana and Modi with new NITI Aayog leadership not written (both looked like Nov 5 events), "Andhra Pradesh" twice in the sub-nav. Andhra parishad polling card is still an infographic.
-- Markets: before the open; markets.json unchanged.
-
-## November 6, 2026, 8:40 am (from the 08:00 run)
-- Published 1 story: andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent (polling from 7 am in five Murasu-hit mandals, 5 ZPTC and 60 MPTC seats, repolls at seven booths; Thursday final 67.24%; now the LEAD, Mylavaram 2009 polling file photo). NEXT RUN, FIRST: add Friday's 9 am or 11 am SEC turnout (rule 6).
-- Held: ysrcp-mlc-lella-appireddy-arrested-guntur-ballot-box (no photo of Lella Appi Reddy); india-new-zealand-second-odi-wellington-rain-forecast-preview (editor: empty sunny stadium, wants Gill or the India ODI side, or rain covers at Wellington); nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower (editor: wants a Tokyo Stock Exchange or share-board photo, finder h0608 had only museum artefacts; figures are from about 7 am IST, update to the Tokyo morning close and the Indian open before republishing).
-- Homepage: stale Andhra preview, 3 pm turnout, Jagan, Punetha and Fortis cards dropped. Editor items not fixed: empty right column in the Andhra band, grey box over the 7 Nov step on the "Our View" graphic, U19 cricket card is an infographic (wants Raichandani or the team), Sonia Gandhi Rouse Avenue hearing still held/missing, Amit Shah rally outcome not yet out.
-- Markets: before the open; markets.json unchanged.
-
-## November 6, 2026, 9:40 am (from the 09:00 run)
-- Published 1 story: fritz-beats-fils-alcaraz-quarter-final-hijikata-paris (Fritz 6-3, 6-4 over Fils, Alcaraz in Friday's quarter-final not before 11:30 pm IST; Basel 2025 Fritz photo). Now the LEAD only because every fresher story was in the 07:44 or 08:39 headlines; the editor wants it down to one sports slot.
-- Dropped as a duplicate: a second Lella Appireddy arrest story (same event as held ysrcp-mlc-lella-appireddy-arrested-guntur-ballot-box; still no photo of him).
-- NEXT RUN, FIRST: Andhra five mandals and repoll booths with today's 11 am or 1 pm SEC turnout as a new development story and LEAD; the Indian market open after the Asian rout (GIFT Nifty about -0.6% pre-open, Sensex +100 in pre-open; no post-open level found this hour); LIC Q2 profit Rs 12,115 crore +20% (Nov 5 evening, not on the site); Amit Shah Dehradun rally outcome; Sonia Gandhi Rouse Avenue hearing outcome; India v Nepal U19 (10:30 am).
-- Editor homepage FAIL not fixed (no fresh stories to fill): tennis lead; a second business card (Airtel) refills whenever one is dropped; two Andhra poll cards in the top; sub-nav lists Andhra Pradesh and Courts twice; mobile bottom tab bar appears mid-page in the full-page screenshot (likely a screenshot artefact of a fixed bar).
-- Photo finder h0609: Sonia Gandhi, Shubman Gill and BSE candidates all under main size or used within 7 days; Hudhud Bheemunipatnam and BSE building photos are inside the 7-day rule.
-- Markets: rupee 94.48 and Brent $99.41 (pre-open, Tradebrains 09:16 IST); indices keep the Nov 5 close.
-
-## November 6, 2026, 10:40 am (from the 10:00 run)
-- Published: lic-q2-profit-12115-crore-up-20-per-cent (IANS only; LIC branch file photo); Sonia Gandhi Rouse Avenue hearing preview back from its picture hold with a WEF India Economic Summit file photo (no outcome reported by 10:11 IST; write the outcome as a new story). Lead moved to the Andhra five-mandal polling story; the Friday-vote preview dropped from the homepage.
-- Held by the editor: sensex-nifty-fall-early-trade-november-6 (built on the 9:35 am low, market recovered by 10 am: Sensex 79,462.70 +0.19%, Nifty 24,524.50 -0.05% per Trade Brains; use 5.6% for Nasdaq per IANS or cite our Wall Street story) and india-u19-bowl-first-nepal-asia-cup-al-amerat (infographic, toss only; write the score or result with a team or Raichandani photo).
-- NEXT RUN, FIRST: Andhra five mandals SEC 9 am/11 am turnout into the lead story (still only Thursday's 67.24%); a timestamped midday markets story; Amit Shah Dehradun rally outcome; U19 score; Sonia hearing outcome.
-- Editor homepage FAIL not fixed (second check): empty right column in the Andhra live band; Amit Shah card crop cuts the top of his head; renewable investment and LIC are two money items in the top; U19 and Amit Shah previews in the top.
-- Markets: Sensex and Nifty at about 10:00 am (Trade Brains), status open; Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (Midcap and Brent tiles disagree with the day; refresh next run).
-
-## November 6, 2026, 11:40 am (from the 11:00 run)
-- Published: sensex-nifty-11am-november-6-it-gains-nikkei-rout (11 am levels, Nikkei timed 9:35 am; infographic, no unused BSE photo under the 7-day rule) and gold-silver-fall-dhanteras-november-6-mcx (Zaveri Bazaar, Ahmedabad file photo). Lead: Amit Shah Dehradun preview (stand-in until his speech is written).
-- Held for pictures: india-beat-japan-4-1-sixth-asian-champions-trophy-title (editor: Modi with Paris medallists photo is not the team; needs Harmanpreet Singh in India kit or the team at Mohali), india-u19-nepal-27-2-ishan-sood-asia-cup-al-amerat (no U19 team photo; score stale by 1:10 pm anyway), lella-appireddy-arrested-nallapadu-ballot-box-protest-guntur (no photo of him).
-- NEXT RUN, FIRST: Amit Shah Dehradun speech (rally due about 11:50 am) as the new lead; Sonia Gandhi Rouse Avenue outcome; Andhra five mandals SEC turnout (merge, drop the Friday-vote preview); U19 result with a team photo.
-- Editor homepage FAIL not fixed (second check): lead is a preview; top block still holds old explainers/editorials (17 to 41 hours) because only two fresh stories passed; Sonia preview in the India section. Finder upgrades not run this hour: Anil Chandra Punetha, Al Amerat Cricket Ground.
-- Markets: Sensex and Nifty at 11 am (Business Standard live blog), MCX gold and silver about 10:45 am; other tiles keep earlier values.
-
 ## November 6, 2026, 12:40 pm (from the 12:00 run)
 - Published NO new story: desks found nothing confirmable 10:00 to 12:20 IST. Amit Shah's Dehradun speech not yet reported at 12:20 (ETV Bharat live blog last updated 11:27; core committee meeting postponed; police detained Congress workers heading to Dehradun airport); no Sonia Gandhi Rouse Avenue outcome; no Friday SEC turnout for the five Andhra mandals.
 - Held: jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota (no photo of Jaypal Malviya; finder h0612 found none; single source ETV Bharat 9:49 am); by the editor: sensex-nifty-11am-november-6-it-gains-nikkei-rout (11 am figures stale), gold-silver-fall-dhanteras-november-6-mcx (Zaveri Bazaar street stand-in, MCX 10:45 am figures), lic-q2-profit-12115-crore-up-20-per-cent (April-June comparison is Q1 FY26, i.e. 2025, unsourced 22.8%; branch signboard picture).
