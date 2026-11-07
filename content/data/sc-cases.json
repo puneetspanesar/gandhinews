@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -151,7 +151,7 @@
       "status_text": "Bihar SIR upheld; later-phase challenges pending",
       "last_date": "2026-11-04",
       "last_event": "On 4 Nov 2026 Prashant Bhushan, for Delhi petitioners Anjali Bhardwaj and Amrita Johri, mentioned before CJI Surya Kant that the ECI's 3 Nov clarification (that electors left out of the draft roll may file Form 6, with no action under Section 31 of the RP Act, 1950, on that ground alone) runs against the Court's 28 Oct observation that such voters cannot be compelled to use Form 6 and should be allowed Form 8 or the enumeration form. The CJI said people 'need not be apprehensive', asked for an application and indicated the Court could ask the ECI to extend the deadline. About 47.56 lakh Delhi electors were left out of the draft roll. Earlier: notice on a Delhi petition in September; ECI told in August to disclose pending West Bengal appeals; Bihar SIR upheld unanimously on 27 May 2026.",
-      "next_step": "Delhi Form 6 issue to be heard on 19 Nov 2026; West Bengal matters pending.",
+      "next_step": "Delhi Form 6 issue to be heard on 19 Nov 2026; West Bengal matters pending. Separately, on 6 Nov 2026 the ECI gave electors marked absent, shifted, dead or duplicate in the SIR draft rolls of Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland a fresh chance to file enumeration forms (online on ECINET or to BLOs and EROs) before the final rolls; no deadline was given.",
       "sources": [
         {
           "title": "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6",
@@ -176,6 +176,12 @@
           "publisher": "Supreme Court Observer",
           "date": "2026-09-30",
           "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        },
+        {
+          "title": "EC Gives Fresh Opportunity To Electors Left Out Of Draft Rolls In 7 States During SIR (PTI)",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-06",
+          "url": "https://www.etvbharat.com/en/bharat/ec-gives-fresh-opportunity-to-electors-left-out-of-draft-rolls-in-7-states-during-sir-enn26110604531"
         }
       ],
       "notes": "4 Nov 2026 Delhi mention rests on a single source (LiveLaw); bench beyond the CJI not named in the report. Exact date of the September notice not given by SCO."
@@ -740,6 +746,108 @@
         }
       ],
       "notes": "Case title written descriptively; Tejpal moved the Supreme Court on 20 Aug 2026. Details from the news desk's story of 6 Nov 2026 (PTI via ThePrint, Free Press Journal)."
+    },
+    {
+      "id": "obc-creamy-layer-parents-salary",
+      "case": "Union of India's applications to modify the Supreme Court's OBC creamy layer judgment of 11 Mar 2026 (appeals from the Madras, Delhi and Kerala High Courts)",
+      "issue": "Whether the salary income of parents employed in public sector undertakings can be counted mechanically to place OBC civil services candidates in the creamy layer, under the 1993 Office Memorandum and the 2004 clarificatory letter.",
+      "bench_size": 2,
+      "bench": "Justices P.S. Narasimha and R. Mahadevan",
+      "status": "decided",
+      "status_text": "Centre's plea to modify rejected; two more months to comply",
+      "last_date": "2026-11-06",
+      "last_event": "The bench refused to modify its 11 Mar 2026 judgment, said its interpretation is binding under Article 141 and that parents' salary cannot be mechanically included, ruled that the creamy layer principle as interpreted will govern service allocation for OBC candidates of the Civil Services Examination 2025, declined to set the two-year timeline the Centre sought for PSU and bank post equivalence, extended the time to comply by two months and disposed of the applications. Completed selections, appointments and allocations are not reopened.",
+      "next_step": "Centre to comply within the extended two months; similar pending cases before courts and tribunals to be decided on the March interpretation.",
+      "sources": [
+        {
+          "title": "Parents' salary income cannot determine OBC creamy layer status, reiterates SC (IANS)",
+          "publisher": "Punjab Kesari English",
+          "date": "2026-11-06",
+          "url": "https://english.punjabkesari.com/india/sc-reiterates-parents-salary-income-cannot-determine-obc-creamy-layer-status/"
+        }
+      ],
+      "notes": "Case title written descriptively; the source does not name the case. Single source (IANS). Details from the news desk's story of 6 Nov 2026."
+    },
+    {
+      "id": "up-under-trials-bail-release",
+      "case": "In Re: Policy Strategy for Grant of Bail (suo motu), Uttar Pradesh under-trials",
+      "issue": "Under-trial prisoners in Uttar Pradesh who have been granted bail but remain in custody because they cannot furnish sureties or meet other bail conditions.",
+      "bench_size": 2,
+      "bench": "Justices M.M. Sundresh and Prasanna B. Varale",
+      "status": "pending",
+      "status_text": "Release directions extended to all 75 districts",
+      "last_date": "2026-11-06",
+      "last_event": "Uttar Pradesh told the bench that in 20 districts it found 264 under-trials with bail still in custody, 158 since released and decisions pending for 106. The bench extended the exercise to all 75 districts, said 'the onus lies on the state' to secure their release, directed the state to work with District Legal Services Authorities for all such prisoners, including those with private counsel, and asked trial courts to modify bail conditions where necessary.",
+      "next_step": "Next hearing 20 Jan 2027.",
+      "sources": [
+        {
+          "title": "SC asks UP to ensure release of under-trials granted bail but still in custody (IANS)",
+          "publisher": "Punjab Kesari English",
+          "date": "2026-11-06",
+          "url": "https://english.punjabkesari.com/india/sc-asks-up-to-ensure-release-of-under-trials-granted-bail-but-still-in-custody"
+        }
+      ],
+      "notes": "Single source (IANS). Order text not seen on sci.gov.in. Details from the news desk's story of 6 Nov 2026."
+    },
+    {
+      "id": "himachal-bbmb-arrears",
+      "case": "State of Himachal Pradesh v. State of Punjab and others (BBMB share arrears, suit filed in 1996)",
+      "issue": "How Punjab and Haryana should pay Himachal Pradesh arrears of its 7.19% share in Bhakra Beas Management Board projects, fixed by the Supreme Court in September 2011 and payable from November 1966 for Bhakra and from the late 1970s for Dehar and Pong.",
+      "bench_size": 3,
+      "bench": "CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana",
+      "status": "decided",
+      "status_text": "Arrears to be paid in power: 11,973 million units over 20 years",
+      "last_date": "2026-11",
+      "last_event": "The bench approved a cashless settlement under which Punjab and Haryana will supply Himachal 11,973 million units of BBMB power over 20 years (Punjab had sought 30 years, Himachal 10, the Attorney General proposed 15). Punjab's objections were not accepted. Himachal's Advocate General Anup Kumar Rattan announced the outcome in Shimla on 6 Nov 2026 and put the gain at ₹600 crore to ₹800 crore a year.",
+      "next_step": "Supply schedule to run over 20 years, drawn between October and March according to the state. Himachal says it will pursue water cess and the return of the Shanan project separately.",
+      "sources": [
+        {
+          "title": "Himachal Pradesh to gain ₹600-800 crore annually from BBMB power share",
+          "publisher": "ANI",
+          "date": "2026-11-06",
+          "url": "https://aninews.in/news/national/general-news/himachal-pradesh-to-gain-rs-600-800-crore-annually-from-bbmb-power-share20261106184605/"
+        },
+        {
+          "title": "'Won Another Major Battle For State': Himachal CM Sukhu On SC Decision Regarding BBMB Arrears",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-06",
+          "url": "https://www.etvbharat.com/en/state/won-another-major-battle-for-state-himachal-cm-sukhu-on-sc-decision-regarding-bbmb-arrears-enn26110603710"
+        },
+        {
+          "title": "BBMB share dispute: Centre proposes cashless settlement of arrears to Himachal; SC pulls up Punjab",
+          "publisher": "The Tribune",
+          "date": "2026-07-30",
+          "url": "https://www.tribuneindia.com/news/himachal/bbmb-share-dispute-centre-proposes-cashless-settlement-of-arrears-to-himachal-sc-pulls-punjab/"
+        }
+      ],
+      "notes": "Exact date of the judgment not given in any source read; month only. Valuations differ between Rattan (₹600 to 800 crore a year at ₹10 a unit) and CM Sukhu (about ₹500 crore a year at ₹6). Case title written descriptively. Details from the news desk's story of 6 Nov 2026."
+    },
+    {
+      "id": "kerala-congress-cji-post-contempt",
+      "case": "In Re: post on the Kerala Pradesh Congress Committee's X handle about CJI Surya Kant (suo motu criminal contempt, from letters of advocates Vineet Jindal and Sreejesh SR)",
+      "issue": "Whether an October 12, 2026, post on the Congress Kerala X handle telling CJI Surya Kant to 'resign now' amounts to criminal contempt.",
+      "bench_size": 2,
+      "bench": "Justices Aravind Kumar and Vipul M. Pancholi",
+      "status": "pending",
+      "status_text": "Show-cause notice to KPCC office-bearers",
+      "last_date": "2026-11-06",
+      "last_event": "The bench issued a show-cause notice to all KPCC office-bearers, exempted them from personal appearance, asked the Attorney General to assist and indicated that senior advocate Arvind Datar and advocate Siddharth Agarwal would be amici curiae. Counsel said an 'unconditional and unqualified apology would be tendered'. The bench said any attempt to undermine the court must be dealt with 'an iron hand'.",
+      "next_step": "Office-bearers to reply to the notice; no next date reported.",
+      "sources": [
+        {
+          "title": "Supreme Court Issues Contempt Notice To Kerala Congress Over X Post Against CJI Surya Kant",
+          "publisher": "LawBeat",
+          "date": "2026-11-06",
+          "url": "https://lawbeat.in/top-stories/supreme-court-issues-contempt-notice-to-kerala-congress-over-x-post-against-cji-surya-kant-1649687"
+        },
+        {
+          "title": "SC Takes Suo Motu Cognisance Over Kerala Congress Post Targeting CJI Surya Kant",
+          "publisher": "Outlook",
+          "date": "2026-10-31",
+          "url": "https://www.outlookindia.com/national/sc-takes-suo-motu-cognisance-over-kerala-congress-post-targeting-cji-surya-kant"
+        }
+      ],
+      "notes": "6 Nov hearing rests on a single source (LawBeat). Case registered as a suo motu petition at the end of October 2026. Details from the news desk's story of 6 Nov 2026."
     }
   ]
 }

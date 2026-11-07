@@ -2,7 +2,7 @@
   "id": "budget-2026-27-promise-tracker",
   "title": "Budget 2026-27 promise tracker",
   "budget": "Union Budget 2026-27, presented 1 February 2026 by Finance Minister Nirmala Sitharaman",
-  "as_of": "2026-10-11",
+  "as_of": "2026-11-07",
   "status_definitions": {
     "delivered": "The promised measure has been formally put in place: a law in force, or a scheme or fund approved by the Cabinet. It does not mean the intended outcome has been achieved.",
     "in progress": "Verified steps have been taken, or in-year data shows the target is being tracked, but the promise is not yet complete.",
@@ -158,8 +158,8 @@
       "budget_speech_reference": "Para 17",
       "category": "Industry",
       "status": "delivered",
-      "progress_note": "The Union Cabinet approved ISM 2.0 with a total outlay of ₹1.27 lakh crore on 15 July 2026, IT Minister Ashwini Vaishnaw said (PTI). Projects under it were not tracked.",
-      "last_checked": "2026-10-11",
+      "progress_note": "The Union Cabinet approved ISM 2.0 with a total outlay of ₹1.27 lakh crore on 15 July 2026, IT Minister Ashwini Vaishnaw said (PTI). On 6 Nov 2026 Vaishnaw launched the Semicon 2.0 web application portal; applications are open for Pillars 2, 3 and 4 (equipment and materials, new fabs, ATMP/OSAT). Reports of the launch give the outlay as ₹1.275 lakh crore.",
+      "last_checked": "2026-11-07",
       "sources": [
         {
           "publisher": "Ministry of Finance (Budget Speech 2026-27)",
@@ -170,6 +170,16 @@
           "publisher": "PTI via ThePrint",
           "url": "https://theprint.in/economy/cabinet-approves-rs-1-27-lakh-crore-for-semicon-mission-2-0/2987130/",
           "date": "2026-07-15"
+        },
+        {
+          "publisher": "Dataquest",
+          "url": "https://www.dqindia.com/semiconductors/ashwini-vaishnaw-launches-semicon-20-web-application-portal-12790123",
+          "date": "2026-11-06"
+        },
+        {
+          "publisher": "Punjab Kesari English",
+          "url": "https://english.punjabkesari.com/business/govt-launches-semicon-20-portal-clears-12-more-electronics-component-projects-worth-rs-7503-crore",
+          "date": "2026-11-06"
         }
       ]
     },
