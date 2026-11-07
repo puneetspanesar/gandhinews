@@ -36,7 +36,7 @@ infographic:
   source: "Electoral Commission and Reuters, November 6, 2026"
 related: []
 seo:
-  description: "New Zealand votes on November 7, 2026 with Christopher Luxon's coalition and Chris Hipkins' Labour level in the polls. Polls close 11:30 am IST."
+  description: "New Zealand votes on November 7, 2026, with Christopher Luxon's coalition and Chris Hipkins' Labour level in the polls. Polls close 11:30 am IST."
 sources:
   - title: "New Zealand election campaign enters final day with result too close to call"
     publisher: "Reuters (via Investing.com)"

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sc-delhi-ncr-women-safety-union-reply-november-23",
+    "id": "suvendu-adhikari-caa-citizenship-december-31-nadia",
     "overlay": {
       "kicker": {
-        "en": "Politics / Courts",
-        "hi": "राजनीति / अदालत"
+        "en": "Politics / West Bengal",
+        "hi": "राजनीति / पश्चिम बंगाल"
       },
       "value": {
-        "en": "'Reply should be meaningful'",
-        "hi": "'जवाब सार्थक होना चाहिए'"
+        "en": "Citizenship under CAA by December 31",
+        "hi": "31 दिसंबर तक सीएए नागरिकता"
       },
       "text": {
         "en": "",
@@ -16,113 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-      "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-      "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-      "supreme-court-contempt-notice-kerala-congress-x-post-cji"
+      "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
+      "new-zealand-votes-luxon-hipkins-too-close-to-call",
+      "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
+      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+      "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "link": "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
-          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
+          "en": "Second ODI in Wellington waits on a wet outfield as the toss is pushed back",
+          "hi": "वेलिंगटन में दूसरे वनडे का टॉस बारिश और गीले आउटफील्ड से टला"
         }
       },
       {
-        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
+        "link": "new-zealand-votes-luxon-hipkins-too-close-to-call",
         "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
+          "en": "Oceania:",
+          "hi": "ओशिनिया:"
         },
         "text": {
-          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
-          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
+          "en": "New Zealand votes with Luxon and Hipkins neck and neck and a small party holding the key",
+          "hi": "न्यूज़ीलैंड में वोटिंग, लक्सन और हिपकिन्स में कांटे की टक्कर, छोटी पार्टी के हाथ में चाबी"
         }
       },
       {
-        "link": "navy-receives-amini-anti-submarine-shallow-water-craft",
+        "link": "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
         },
         "text": {
-          "en": "Navy receives Amini, fifth indigenous anti-submarine shallow water craft from GRSE",
-          "hi": "नौसेना को मिला 'अमिनी', GRSE का बनाया पांचवां स्वदेशी पनडुब्बी-रोधी उथले पानी का पोत"
+          "en": "Fast solar wind keeps a geomagnetic storm watch on for Saturday, with a chance of auroras far south",
+          "hi": "तेज़ सौर हवा से शनिवार को भू-चुंबकीय तूफान की चेतावनी, दक्षिण तक दिख सकती है ध्रुवीय ज्योति"
         }
       },
       {
-        "link": "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
+        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Forex reserves fall for an eighth week, by $2.69 billion to $717 billion",
-          "hi": "विदेशी मुद्रा भंडार लगातार आठवें हफ्ते घटा, 2.69 अरब डॉलर गिरकर 717 अरब डॉलर पर"
+          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
+          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
         }
       },
       {
-        "link": "supreme-court-contempt-notice-kerala-congress-x-post-cji",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court issues contempt notice to Kerala Congress office-bearers over 'resign now' post on CJI",
-          "hi": "सीजेआई से 'इस्तीफा दो' वाली पोस्ट पर सुप्रीम कोर्ट का केरल कांग्रेस पदाधिकारियों को अवमानना नोटिस"
-        }
-      },
-      {
-        "link": "europe-bomb-threat-wave-flights-broadcasters-third-day",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Hoax bomb threats hit European flights and broadcasters for a third day, NATO orders air patrol",
-          "hi": "यूरोप में उड़ानों और प्रसारकों को लगातार तीसरे दिन बम की झूठी धमकियां, नाटो ने हवाई गश्त का आदेश दिया"
-        }
-      },
-      {
-        "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+        "link": "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
         "lead": {
           "en": "Andhra Pradesh:",
           "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Andhra parishad polls: counting begins at 8 am at 365 centres, first trends by noon",
-          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर सुबह 8 बजे से मतगणना, दोपहर तक पहले रुझान"
+          "en": "Cyclone Murasu caused about ₹1,919 crore of damage in Andhra, Naidu says, with crops hit on 1.4 lakh hectares",
+          "hi": "चक्रवात मुरासु से आंध्र को करीब 1,919 करोड़ रुपये का नुकसान, 1.4 लाख हेक्टेयर में फसलें बर्बाद: नायडू"
         }
       },
       {
-        "link": "rice-paddy-stock-declaration-every-friday-food-stock-portal",
+        "link": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Rice traders, retailers and millers must declare stocks every Friday as prices climb",
-          "hi": "चावल के दाम चढ़े, अब व्यापारियों, खुदरा विक्रेताओं और मिलों को हर शुक्रवार बताना होगा स्टॉक"
+          "en": "Andhra parishad counting under way at 365 centres, no trends yet",
+          "hi": "आंध्र परिषद चुनाव: 365 केंद्रों पर मतगणना जारी, अभी कोई रुझान नहीं"
+        }
+      },
+      {
+        "link": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Bosch profit rises 19% to ₹840 crore as board proposes a 1:5 split and 3:1 bonus issue",
+          "hi": "बॉश का मुनाफा 19% बढ़कर ₹840 करोड़, बोर्ड ने 1:5 स्प्लिट और 3:1 बोनस का प्रस्ताव रखा"
+        }
+      },
+      {
+        "link": "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+        "lead": {
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
+        },
+        "text": {
+          "en": "Centre eases passport and visa rules for persecuted minorities, Sri Lankan Tamils and Tibetans living in India",
+          "hi": "प्रताड़ित अल्पसंख्यकों, श्रीलंकाई तमिलों और तिब्बतियों के लिए पासपोर्ट-वीज़ा नियमों में ढील"
         }
       }
     ]
@@ -190,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "id": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
       "also": []
     },
     "list": [
-      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-      "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-      "sc-up-under-trials-bail-release-all-75-districts",
-      "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
-      "sonia-gandhi-voter-list-case-additional-documents-november-18"
+      "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+      "govt-relaxes-passport-visa-rules-foreign-nationals-india",
+      "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
+      "rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting",
+      "jharkhand-khunti-trailer-crowd-seven-killed"
     ],
     "also": [
-      "hindalco-q2-profit-59-per-cent-7533-crore-record",
-      "sri-lanka-releases-eight-indian-fishermen-tamil-nadu"
+      "amit-shah-dehradun-rally-speech-1475-crore-projects",
+      "india-beat-japan-4-1-sixth-asian-champions-trophy-title"
     ]
   },
   "startHere": [
@@ -378,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
       ],
-      "lead": "sc-delhi-ncr-women-safety-union-reply-november-23"
+      "lead": "suvendu-adhikari-caa-citizenship-december-31-nadia"
     },
     {
       "section": "economy",
-      "lead": "semicon-india-2-portal-vaishnaw-12-ecms-projects",
+      "lead": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +393,19 @@
         ]
       },
       "list": [
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
         "rain-industries-q3-profit-243-crore-interim-dividend",
         "rice-paddy-stock-declaration-every-friday-food-stock-portal",
-        "india-forex-reserves-fall-2-69-billion-717-billion-october-30",
-        "rupee-93-89-strongest-since-april-fii-record-buying"
+        "india-forex-reserves-fall-2-69-billion-717-billion-october-30"
       ]
     },
     {
       "section": "states",
-      "lead": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+      "lead": "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
       "list": [
+        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
         "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan"
+        "amit-shah-presidents-police-colour-uttarakhand-police"
       ]
     },
     {
@@ -432,26 +428,28 @@
   "desks": [
     {
       "section": "world",
-      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
+      "lead": "new-zealand-votes-luxon-hipkins-too-close-to-call",
       "list": [
+        "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
+        "iran-hands-us-nuclear-proposal-seven-demands"
       ]
     },
     {
       "section": "science",
-      "lead": "navy-receives-amini-anti-submarine-shallow-water-craft",
-      "list": []
+      "lead": "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
+      "list": [
+        "navy-receives-amini-anti-submarine-shallow-water-craft"
+      ]
     },
     {
       "section": "sports",
-      "lead": "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
+      "lead": "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
       "list": [
+        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
         "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
         "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds",
-        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve",
-        "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
+        "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
       ]
     }
   ],
@@ -474,10 +472,34 @@
         "hi": "आज"
       },
       "text": {
+        "en": "India v New Zealand, second ODI, Wellington, toss delayed by rain",
+        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, बारिश से टॉस में देरी"
+      },
+      "link": "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
         "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections",
         "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना"
       },
       "link": "andhra-parishad-polls-four-voters-two-poll-staff-die"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "New Zealand election: polls close 11:30 am IST, first results soon after",
+        "hi": "न्यूज़ीलैंड चुनाव: मतदान सुबह 11:30 बजे (भारतीय समय) बंद, नतीजे जल्द"
+      },
+      "link": "new-zealand-votes-luxon-hipkins-too-close-to-call"
     },
     {
       "icon": "calendar-blank",
@@ -498,53 +520,13 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India v New Zealand, second ODI, Wellington, 7:30 am IST",
-        "hi": "भारत बनाम न्यूज़ीलैंड, दूसरा वनडे, वेलिंगटन, सुबह 7:30 बजे"
+        "en": "P M Mannan due at Madurai CCB for questioning at 10 am",
+        "hi": "पी एम मन्नान को सुबह 10 बजे मदुरै सीसीबी में पूछताछ के लिए पहुंचना है"
       },
-      "link": "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Counting of votes in Andhra Pradesh MPTC and ZPTC elections from 8 am",
-        "hi": "आंध्र प्रदेश एमपीटीसी और जेडपीटीसी चुनावों की मतगणना सुबह 8 बजे से"
-      },
-      "link": "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "Men's U19 Asia Cup: India v Pakistan in Al Amerat, 10:30 am IST",
-        "hi": "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"
-      },
-      "link": "india-u19-beat-nepal-asia-cup-al-amerat"
+      "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-06T19:33:54+05:30",
-      "ids": [
-        "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-        "andhra-parishad-polls-four-voters-two-poll-staff-die",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev",
-        "ugc-equity-rules-revise-them-do-not-bury-them",
-        "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-        "joshi-renewable-investment-220-billion-500-gw-2030",
-        "sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
-        "sensex-nifty-close-november-6-sensex-1718-nifty-25030",
-        "manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol",
-        "india-u19-open-asia-cup-nepal-al-amerat-raichandani"
-      ]
-    },
     {
       "at": "2026-11-06T20:39:55+05:30",
       "ids": [
@@ -651,6 +633,20 @@
         "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
         "rice-paddy-stock-declaration-every-friday-food-stock-portal"
+      ]
+    },
+    {
+      "at": "2026-11-07T08:18:59+05:30",
+      "ids": [
+        "suvendu-adhikari-caa-citizenship-december-31-nadia",
+        "wellington-second-odi-toss-delayed-wet-outfield-india-new-zealand",
+        "new-zealand-votes-luxon-hipkins-too-close-to-call",
+        "coronal-hole-solar-wind-geomagnetic-storm-watch-g1-g2-aurora-november-7",
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+        "andhra-parishad-counting-under-way-no-trends-yet-2169-zptc-candidates",
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "govt-relaxes-passport-visa-rules-foreign-nationals-india"
       ]
     }
   ],
