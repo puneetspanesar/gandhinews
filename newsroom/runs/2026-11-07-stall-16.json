@@ -1,0 +1,15 @@
+{
+ "run": "stall-16",
+ "start": "2026-11-07T16:53:30+05:30",
+ "end": "2026-11-07T17:12:15+05:30",
+ "summary": "Homepage rotated after missed 15:00 and 16:00 runs; audit fixed for the redesign",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "in the top five at 12:36 as well: the lead and the four beside it never repeat within 6 hours: modi-diwali-greetings-citizens-viksit-bharat"
+ ],
+ "lead": "modi-diwali-greetings-citizens-viksit-bharat"
+}

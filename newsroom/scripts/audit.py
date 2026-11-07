@@ -345,11 +345,18 @@ def check_home(root, dist, S, M):
         st = S[lang]
         L = f'[{lang} homepage]'
         head = section_block(htm, r'<section[^>]*aria-labelledby="hl-h"')
+        dense = not head
         live = section_block(htm, r'<section[^>]*aria-labelledby="live-h"')
-        ids = page_ids(head, lang)
+        if dense:  # the dense front page (owner, November 7): the lead (its column adds follow-ups on its own subject) and the Top news column
+            c1, c2 = section_block(htm, r'<section[^>]*aria-labelledby="lead-h"'), section_block(htm, r'<section class="d-c2"')
+            head = c1 + c2
+            ids = page_ids(c1, lang)[:1] + page_ids(c2, lang)
+        else:
+            ids = page_ids(head, lang)
         if not ids: fail(G, L, 'could not find the headline grid'); continue
         lead, tops = ids[0], ids[1:9]
-        if len(tops) < 8: fail(G, L, f'only {len(tops)} of 8 headline slots filled')
+        need = 5 if dense else 8
+        if len(tops) < need: fail(G, L, f'only {len(tops)} of {need} headline slots filled')
         live_ids = page_ids(live, lang)
         def fmf(i): return st.get(i) or {}
         # Lead
@@ -382,7 +389,7 @@ def check_home(root, dist, S, M):
         if n_ph: fail(G, L, f'{n_ph} grey camera placeholder(s) on the homepage')
         # Rule 16: data/fact check/trackers/standards come after every news section
         pos = lambda pat: (re.search(pat, htm).start() if re.search(pat, htm) else None)
-        news_last = max([p for p in (pos(r'aria-labelledby="in-h"'), pos(r'aria-labelledby="op-h"'), pos(r'aria-label="(?:Sports|खेल)"')) if p] or [0])
+        news_last = -1 if dense else max([p for p in (pos(r'aria-labelledby="in-h"'), pos(r'aria-labelledby="op-h"'), pos(r'aria-label="(?:Sports|खेल)"')) if p] or [0])  # dense front page: band order is the owner-approved design
         for name, pat in (('trackers', r'aria-labelledby="trk-h"'), ('data desk', r'aria-labelledby="dd-h"'), ('fact check', r'aria-labelledby="fc-h"'), ('standards', r'class="std2"')):
             p = pos(pat)
             if p is None: warn(G, L, f'{name} band not found')
@@ -511,7 +518,7 @@ STYLE_JS = r"""
   const grey = (c) => { const m = c.match(/rgba?\(([^)]+)\)/); if (!m) return null; const [r,g,b,a=1] = m[1].split(',').map(Number);
     const neutral = Math.max(r,g,b) - Math.min(r,g,b) <= 14; const avg = (r+g+b)/3;
     return { r, g, b, a, isGrey: neutral && avg > 24 && avg < 235, translucent: a < 0.999 }; };
-  const okFont = (f) => /^\s*["']?(Google Sans|Inter|Noto Sans Devanagari)["']?\s*(,|$)/i.test(f);
+  const okFont = (f) => /^\s*["']?(PT Serif|Roboto|Noto Serif Devanagari|Noto Sans Devanagari|Noto Serif|Google Sans|Inter)["']?\s*(,|$)/i.test(f);
   const seen = new Set(); const sizes = new Set();
   const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
   while (walker.nextNode()) {
@@ -543,9 +550,9 @@ STYLE_JS = r"""
     if (el.tagName === 'IMG' && !(el.complete && el.naturalWidth > 0)) out.push(['broken-img', el.getAttribute('src')]);
   });
   out.push(['sizes', [...sizes].sort().join(' ')]);
-  // At least one face of each brand font must have actually loaded (a missing file silently falls back to system-ui).
+  // At least one face of each brand font (PT Serif and Roboto since the owner's November 7 redesign) must have actually loaded (a missing file silently falls back to system-ui).
   const loaded = new Set([...document.fonts].filter((f) => f.status === 'loaded').map((f) => f.family.replace(/["']/g, '')));
-  const missing = ['Google Sans', 'Inter'].filter((f) => !loaded.has(f));
+  const missing = ['PT Serif', 'Roboto'].filter((f) => !loaded.has(f));
   if (missing.length) out.push(['font-load', 'no face loaded for: ' + missing.join(', ')]);
   return out;
 }

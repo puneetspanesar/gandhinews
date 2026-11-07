@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+    "id": "modi-diwali-greetings-citizens-viksit-bharat",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Politics / Diwali",
+        "hi": "राजनीति / दिवाली"
       },
       "value": {
-        "en": "Alliance sweeps early count",
-        "hi": "शुरुआती गिनती में गठबंधन आगे"
+        "en": "Modi's Diwali message to citizens",
+        "hi": "नागरिकों के नाम मोदी का दिवाली संदेश"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-      "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-      "sc-delhi-ncr-women-safety-union-reply-november-23",
-      "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff"
+      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "railways-18000-festive-special-trains",
+      "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+      "delhi-grap-stage-three-aqi-382-caqm",
+      "iran-hands-us-nuclear-proposal-seven-demands"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Diwali",
+        "hi": "दिवाली"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "SEBI:",
+          "hi": "सेबी:"
         },
         "text": {
-          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
-          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
+          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
+          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
         }
       },
       {
-        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "link": "railways-18000-festive-special-trains",
         "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
+          "en": "Railways:",
+          "hi": "रेलवे:"
         },
         "text": {
-          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
-          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
+          "en": "Railways to run about 18,000 festive specials, half as many again as last year, says Vaishnaw",
+          "hi": "त्योहारों में करीब 18,000 स्पेशल ट्रेनें चलाएगा रेलवे, पिछले साल से डेढ़ गुना: वैष्णव"
         }
       },
       {
-        "link": "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+        "link": "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Himachal Pradesh:",
+          "hi": "हिमाचल प्रदेश:"
         },
         "text": {
-          "en": "Calcutta High Court bars Kolkata civic poll notification until ward delimitation case is decided",
-          "hi": "वार्ड परिसीमन मामले के फैसले तक कोलकाता निकाय चुनाव की अधिसूचना पर कलकत्ता हाईकोर्ट की रोक"
+          "en": "Himachal to get 11,973 million units of BBMB power over 20 years after Supreme Court win, Sukhu says fight goes on",
+          "hi": "सुप्रीम कोर्ट से जीत के बाद हिमाचल को 20 साल में मिलेगी बीबीएमबी की 11,973 मिलियन यूनिट बिजली, सुक्खू बोले लड़ाई जारी"
         }
       },
       {
-        "link": "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "link": "delhi-grap-stage-three-aqi-382-caqm",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "GRAP Stage III back across Delhi-NCR as AQI hits 382, two days before Diwali",
+          "hi": "दिवाली से दो दिन पहले दिल्ली-एनसीआर में ग्रैप का तीसरा चरण लागू, एक्यूआई 382"
+        }
+      },
+      {
+        "link": "iran-hands-us-nuclear-proposal-seven-demands",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran sends US a nuclear proposal through Qatar, but only after seven demands are met",
+          "hi": "ईरान ने कतर के रास्ते अमेरिका को परमाणु प्रस्ताव भेजा, पर पहले सात मांगें माननी होंगी"
+        }
+      },
+      {
+        "link": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Bosch profit rises 19% to ₹840 crore as board proposes a 1:5 split and 3:1 bonus issue",
+          "hi": "बॉश का मुनाफा 19% बढ़कर ₹840 करोड़, बोर्ड ने 1:5 स्प्लिट और 3:1 बोनस का प्रस्ताव रखा"
+        }
+      },
+      {
+        "link": "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "AIADMK's P M Mannan arrested over alleged offer to TVK MLA, freed on bond by Madurai judge",
+          "hi": "टीवीके विधायक को कथित पेशकश पर अन्नाद्रमुक के पी एम मन्नान गिरफ्तार, मदुरै की अदालत ने बॉन्ड पर छोड़ा"
+        }
+      },
+      {
+        "link": "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Supreme Court gives Centre till November 23 for a 'meaningful' reply on Delhi-NCR women's safety",
-          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर सुप्रीम कोर्ट ने केंद्र को 'सार्थक' जवाब के लिए 23 नवंबर तक का समय दिया"
-        }
-      },
-      {
-        "link": "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
-          "hi": "ट्रंप ने स्टीफन मिलर को व्हाइट हाउस का चीफ ऑफ स्टाफ बनाया, सूज़ी वाइल्स की जगह"
-        }
-      },
-      {
-        "link": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "lead": {
-          "en": "Deepotsav:",
-          "hi": "दीपोत्सव:"
-        },
-        "text": {
-          "en": "Vice-President Radhakrishnan in Ayodhya for 10th Deepotsav, to pray at Ram temple",
-          "hi": "उपराष्ट्रपति राधाकृष्णन 10वें दीपोत्सव के लिए अयोध्या में, राम मंदिर में करेंगे पूजा"
-        }
-      },
-      {
-        "link": "nadda-national-cancer-awareness-day-screening-appeal",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
-          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
-        }
-      },
-      {
-        "link": "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-        "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
-        },
-        "text": {
-          "en": "Rajnath Singh meets Air Warriors at Bagdogra, calls morale 'the greatest weapon'",
-          "hi": "राजनाथ सिंह बागडोगरा में एयर वॉरियर्स से मिले, बोले मनोबल सबसे बड़ा हथियार"
+          "en": "'The Constitution is a continuing responsibility', CJI Surya Kant tells lawyers at Ambedkar conference",
+          "hi": "'संविधान एक सतत जिम्मेदारी है', आंबेडकर सम्मेलन में वकीलों से बोले सीजेआई सूर्यकांत"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+      "id": "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
       "also": []
     },
     "list": [
-      "nadda-national-cancer-awareness-day-screening-appeal",
-      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-      "suvendu-adhikari-caa-citizenship-december-31-nadia",
-      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
-      "fox-completes-22-billion-roku-acquisition"
+      "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+      "cji-surya-kant-ambedkar-constitution-continuing-responsibility",
+      "punjab-paddy-procurement-record-150-lmt-kataruchak",
+      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
+      "india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds"
     ],
     "also": [
-      "europe-bomb-threat-wave-flights-broadcasters-third-day",
-      "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton"
+      "rain-industries-q3-profit-243-crore-interim-dividend",
+      "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve"
     ]
   },
   "startHere": [
@@ -401,11 +401,11 @@
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+      "lead": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
       "list": [
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "amit-shah-presidents-police-colour-uttarakhand-police"
+        "punjab-paddy-procurement-record-150-lmt-kataruchak",
+        "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
+        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209"
       ]
     },
     {
@@ -429,11 +429,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+      "lead": "europe-bomb-threat-wave-flights-broadcasters-third-day",
       "list": [
-        "europe-bomb-threat-wave-flights-broadcasters-third-day",
         "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "iran-hands-us-nuclear-proposal-seven-demands"
+        "iran-hands-us-nuclear-proposal-seven-demands",
+        "trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev"
       ]
     },
     {
@@ -529,23 +529,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T00:43:35+05:30",
-      "ids": [
-        "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-        "saini-chowkidar-honorarium-15221-rahul-apology",
-        "haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
-        "rupee-93-89-strongest-since-april-fii-record-buying",
-        "sonia-gandhi-voter-list-case-additional-documents-november-18",
-        "sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
-        "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
-        "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
-        "prism-johnson-jumps-ratnamani-precision-wires-fall-q2-results",
-        "khunti-crash-night-highways-need-lights-and-speed-checks"
-      ]
-    },
     {
       "at": "2026-11-07T03:06:56+05:30",
       "ids": [
@@ -649,6 +632,20 @@
         "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
         "nadda-national-cancer-awareness-day-screening-appeal",
         "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+      ]
+    },
+    {
+      "at": "2026-11-07T17:04:39+05:30",
+      "ids": [
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "railways-18000-festive-special-trains",
+        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
+        "delhi-grap-stage-three-aqi-382-caqm",
+        "iran-hands-us-nuclear-proposal-seven-demands",
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
       ]
     }
   ],
