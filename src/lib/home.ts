@@ -605,6 +605,11 @@ export async function homeModel(lang: Lang) {
 
   // ---- Dense front page (owner, November 7: the Indian Express style). Every block fills itself from the newest stories,
   // never shows one story twice, never news older than 48 hours, never a stale clock figure.
+  const EN = (await content()).en;
+  const courtIds = new Set([...EN.articles].filter((x: any) => x.data.type === 'news' && (/Courts/.test(x.data.format_label ?? '') || /Supreme Court|High Court/.test(x.data.title))).map((x: any) => x.data.id as string));
+  const topicPages = [...c.topics]
+    .sort((a: any, b: any) => +new Date(b.data.updated ?? b.data.published) - +new Date(a.data.updated ?? a.data.published)).slice(0, 6)
+    .map((x: any) => ({ id: x.data.id, title: x.data.title.split(':')[0].trim(), line: firstSentence(x.data.standfirst), href: urlOf(x.data) }));
   const dense = (() => {
     const seen = new Set<string>([lead.id]);
     const age = (id: string) => (Date.now() - +new Date((c.all.get(id) as any)?.data.published)) / 3.6e6;
@@ -623,6 +628,11 @@ export async function homeModel(lang: Lang) {
     const second = take(hl.filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 5);
     const must = take(pool(['politics', 'states', 'world', 'economy', 'policy'], 24), 5);
+    const picIds = pool(null, 24).filter((id) => real(id) && !seen.has(id));
+    const pics = take(picIds, picIds.length >= 5 ? 5 : 3);
+    const courts = take(pool(null).filter((id) => courtIds.has(id)), 4, true);
+    const dayIST = (d: any) => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(new Date(d));
+    const wire = take(pool(null, 36), 8).map((x: any) => ({ ...x, day: dayIST(x.d.published) === dayIST(Date.now()) ? '' : fmtShort(String(x.d.published).slice(0, 10), lang, false), time: new Intl.DateTimeFormat(lang === 'hi' ? 'hi-IN' : 'en-IN', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'Asia/Kolkata' }).format(new Date(x.d.published)).replace(/\s?([ap])\.?m\.?$/i, (_: string, a: string) => ` ${a.toLowerCase()}m`) }));
     const states = take(pool(['states']), 10, true);
     const econ = take(pool(['economy']), 6, true);
     // three columns at the foot: world, sports, science; a column with fewer than three fresh stories gives way to policy, then politics
@@ -643,7 +653,7 @@ export async function homeModel(lang: Lang) {
     const sameEv = (a: any, b: any) => a.date === b.date && [...wset(a.text)].filter((w) => wset(b.text).has(w)).length >= 3;
     const weekD = week.filter((x: any, i: number, all: any[]) => all.findIndex((y: any) => y.text === x.text || (y.href && y.href === x.href) || sameEv(x, y)) === i).slice(0, 4);
     return {
-      leadLinks, second, col2, must, states, econ, cols, weekD,
+      leadLinks, second, col2, must, states, econ, cols, weekD, pics, courts, wire, topics: topicPages,
       explained: start.slice(0, 4), opinion: opinion.slice(0, 5), fc: fcCards.slice(0, 2),
       sensex: sx ? { v: fmtNum(sx.value, 2), ch: fmtNum(sx.change, 0, true), p: sx.pct, spark, from: sxFirst ? fmtShort(String(sxFirst), lang, false) : '', to: fmtShort(String(MK.session_date), lang, false), n: sxh.length } : null,
       mkRows, mkDate: fmtShort(String(MK.session_date), lang, false), mkOpen: MK.status === 'open',
