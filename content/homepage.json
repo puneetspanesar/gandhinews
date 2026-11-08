@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "meghwal-diwali-bsf-bikaner-soldiers-family",
+    "id": "modi-heads-to-bastar-diwali-security-forces",
     "overlay": {
       "kicker": {
-        "en": "States / Rajasthan",
-        "hi": "राज्य / राजस्थान"
+        "en": "Politics / Armed forces",
+        "hi": "राजनीति / सशस्त्र बल"
       },
       "value": {
-        "en": "Diwali with BSF jawans in Bikaner",
-        "hi": "बीकानेर में बीएसएफ जवानों संग दिवाली"
+        "en": "Diwali with the jawans, in Bastar",
+        "hi": "जवानों संग दिवाली, बस्तर में"
       },
       "text": {
         "en": "",
@@ -16,109 +16,112 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+    ],
     "relatedBeside": [
-      "e20-petrol-explained-ethanol-blend-karnataka-row",
-      "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
+      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+      "railways-18000-festive-specials-trips-claim",
+      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+      "japan-aichi-shizuoka-earthquake-57-22-injured",
+      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence"
     ],
     "live": {
       "title": {
-        "en": "Rajasthan",
-        "hi": "राजस्थान"
+        "en": "Armed forces",
+        "hi": "सशस्त्र बल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
         "lead": {
-          "en": "Fuel:",
-          "hi": "ईंधन:"
+          "en": "Weather:",
+          "hi": "मौसम:"
         },
         "text": {
-          "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
-          "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
+          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
+          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
         }
       },
       {
-        "link": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "link": "railways-18000-festive-specials-trips-claim",
         "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
+          "en": "Railways:",
+          "hi": "रेलवे:"
         },
         "text": {
-          "en": "11.11 lakh lamps light the Ganga at Munger as Samrat Choudhary announces an 83-km marine drive",
-          "hi": "मुंगेर में गंगा किनारे जगमगाए 11.11 लाख दीप, सम्राट चौधरी ने किया 83 किमी मरीन ड्राइव का ऐलान"
+          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
+          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
         }
       },
       {
-        "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Trade:",
+          "hi": "व्यापार:"
         },
         "text": {
-          "en": "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083",
-          "hi": "आज मुहूर्त ट्रेडिंग: संवत 2083 की शुरुआत में दोपहर 2:20 से 3:30 बजे तक दिवाली सत्र"
+          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
+          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
         }
       },
       {
-        "link": "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
         "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
+          "en": "Japan:",
+          "hi": "जापान:"
         },
         "text": {
-          "en": "Over 30 lakh diyas light up Saryu banks as Ayodhya marks 10th Deepotsav",
-          "hi": "10वें दीपोत्सव में सरयू तट पर 30 लाख से ज्यादा दीये जगमगाए"
+          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
+          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
         }
       },
       {
-        "link": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+        "link": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Brar takes 4 for 30 as India beat New Zealand by four runs on DLS to lead 2-0",
-          "hi": "ब्रार के 30 रन पर 4 विकेट, भारत ने डीएलएस से न्यूज़ीलैंड को 4 रन से हराया, सीरीज़ में 2-0 की बढ़त"
+          "en": "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home",
+          "hi": "अभिषेक के घर के बाहर फिर तनाव, ममता ने कोलकाता पुलिस आयुक्त अजय नंदा से इस्तीफा मांगा"
         }
       },
       {
-        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
+        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
-          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
+          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
         }
       },
       {
-        "link": "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "link": "nadda-national-cancer-awareness-day-screening-appeal",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Yogi Adityanath's claim that 1.27 crore Hindus are missing from UP's voter lists is misleading",
-          "hi": "यूपी की मतदाता सूची से 1.27 करोड़ हिंदुओं के नाम गायब होने का योगी आदित्यनाथ का दावा भ्रामक"
+          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
+          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
         }
       },
       {
-        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "link": "fox-completes-22-billion-roku-acquisition",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Media:",
+          "hi": "मीडिया:"
         },
         "text": {
-          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
-          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
+          "en": "Fox completes $22 billion Roku takeover, months ahead of schedule",
+          "hi": "फॉक्स ने तय समय से काफी पहले पूरा किया 22 अरब डॉलर का रोकू अधिग्रहण"
         }
       }
     ]
@@ -186,28 +189,26 @@
   },
   "topStories": {
     "big": {
-      "id": "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
       "also": []
     },
     "list": [
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires"
+      "nadda-national-cancer-awareness-day-screening-appeal",
+      "fox-completes-22-billion-roku-acquisition",
+      "modi-diwali-greetings-citizens-viksit-bharat",
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
     ],
     "also": [
-      "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
-      "jajpur-nalipur-house-fire-four-of-family-dead-odisha"
+      "obc-creamy-layer-explained-parents-salary-supreme-court",
+      "bbmb-power-sharing-explained-himachal-share-supreme-court"
     ]
   },
   "startHere": [
     "e20-petrol-explained-ethanol-blend-karnataka-row",
     "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
     "obc-creamy-layer-explained-parents-salary-supreme-court",
-    "bbmb-power-sharing-explained-himachal-share-supreme-court",
-    "foreign-investors-return-explained-fii-dii-sensex-rally",
-    "suspension-of-sentence-explained-tejpal-supreme-court"
+    "bbmb-power-sharing-explained-himachal-share-supreme-court"
   ],
   "trackers": [
     {
@@ -374,15 +375,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond"
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
       ],
-      "lead": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
+      "lead": "modi-heads-to-bastar-diwali-security-forces"
     },
     {
       "section": "economy",
-      "lead": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+      "lead": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
       "module": {
         "type": "markets",
         "indicators": [
@@ -401,7 +402,7 @@
     },
     {
       "section": "states",
-      "lead": "meghwal-diwali-bsf-bikaner-soldiers-family",
+      "lead": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
       "list": [
         "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
         "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
@@ -410,11 +411,11 @@
     },
     {
       "section": "policy",
-      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+      "lead": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
       "list": [
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
       ]
     },
     {
@@ -429,11 +430,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "lead": "japan-aichi-shizuoka-earthquake-57-22-injured",
       "list": [
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
         "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
       ]
     },
     {
@@ -464,58 +465,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Rajnath Singh at Sherathang War Memorial, Sikkim, on Diwali",
-        "hi": "दिवाली पर सिक्किम के शेरथांग युद्ध स्मारक में राजनाथ सिंह"
-      },
-      "link": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Yogi Adityanath's Diwali programme in Ayodhya, from 7:50 am",
-        "hi": "अयोध्या में योगी आदित्यनाथ का दिवाली कार्यक्रम, सुबह 7:50 बजे से"
-      },
-      "link": "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "India A v New Zealand A, 3rd unofficial Test, day two, Lincoln",
         "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, दूसरा दिन, लिंकन"
       },
       "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "CM Suvendu Adhikari spends Diwali with BSF personnel at a North 24 Parganas border outpost",
-        "hi": "मुख्यमंत्री सुवेंदु अधिकारी उत्तर 24 परगना की सीमा चौकी पर बीएसएफ जवानों के साथ दिवाली मनाएंगे"
-      },
-      "link": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Diwali in Delhi, with severe air forecast for November 8 and 9",
-        "hi": "दिल्ली में दिवाली, 8 और 9 नवंबर को गंभीर हवा का पूर्वानुमान"
-      },
-      "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
     },
     {
       "icon": "calendar-blank",
@@ -531,21 +484,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T18:59:34+05:30",
-      "ids": [
-        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin",
-        "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "wb-suvendu-police-attacks-asansol-recruitment-29000",
-        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
-      ]
-    },
     {
       "at": "2026-11-07T19:17:46+05:30",
       "ids": [
@@ -647,6 +585,22 @@
         "e20-ethanol-row-needs-joint-testing-and-published-results",
         "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
         "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
+      ]
+    },
+    {
+      "at": "2026-11-08T10:47:53+05:30",
+      "ids": [
+        "modi-heads-to-bastar-diwali-security-forces",
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "railways-18000-festive-specials-trips-claim",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "nadda-national-cancer-awareness-day-screening-appeal",
+        "fox-completes-22-billion-roku-acquisition"
       ]
     }
   ],

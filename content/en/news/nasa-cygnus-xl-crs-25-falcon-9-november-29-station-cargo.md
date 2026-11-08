@@ -31,7 +31,7 @@ infographic:
   source: "NASA media advisory, November 2, 2026"
 related: []
 seo:
-  description: "NASA targets 10:49 am EST on November 29, 2026 for the Northrop Grumman CRS-25 Cygnus XL launch on a Falcon 9, carrying cancer and muscle-loss experiments to the space station."
+  description: "NASA targets 10:49 am EST on November 29, 2026, for the Northrop Grumman CRS-25 Cygnus XL launch on a Falcon 9, carrying cancer and muscle-loss experiments to the space station."
 sources:
   - title: "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch"
     publisher: "NASA"

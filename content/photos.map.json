@@ -33632,5 +33632,246 @@
    }
   },
   "nophoto": "no unused BSE building photo; quick_photo empty, finder h0808 failed (Actions down)"
+ },
+ "modi-heads-to-bastar-diwali-security-forces": {
+  "id": "v-modi-heads-to-bastar-diwali-security-forces",
+  "src": "/photos/v-modi-heads-to-bastar-diwali-security-forces-1280.jpg",
+  "src800": "/photos/v-modi-heads-to-bastar-diwali-security-forces-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Narendra Modi / Wikimedia Commons; Prime Minister's Office / Wikimedia Commons",
+  "licence": "CC BY 3.0 and GODL-India",
+  "alt": "Prime Minister Narendra Modi (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280
+ },
+ "rajnath-singh-reaches-sherathang-diwali-nathu-la": {
+  "id": "i-rajnath-singh-reaches-sherathang-diwali-nathu-la",
+  "src": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-en-3x2-1280.jpg",
+  "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rajnath Singh's Diwali with troops",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: राजनाथ सिंह की जवानों संग दिवाली",
+  "page": null,
+  "ihash": "9cd816aa2eb6",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-en-t-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-t-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-en-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-1280.jpg",
+    "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Rajnath Singh unused in 7 days; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down); library cover tried and rejected (wrong panels)"
+ },
+ "yogi-diwali-nishad-settlement-ayodhya-bullets-remark": {
+  "id": "v-yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+  "src": "/photos/v-yogi-diwali-nishad-settlement-ayodhya-bullets-remark-1280.jpg",
+  "src800": "/photos/v-yogi-diwali-nishad-settlement-ayodhya-bullets-remark-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: NabilSyed / Wikimedia Commons; Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0 and CC BY 3.0",
+  "alt": "Uttar Pradesh Chief Minister Yogi Adityanath and the Ram Mandir in Ayodhya (file photos)",
+  "alt_hi": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ और अयोध्या का राम मंदिर (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280
+ },
+ "delhi-aqi-383-diwali-morning-12-stations-severe": {
+  "id": "i-delhi-aqi-383-diwali-morning-12-stations-severe",
+  "src": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Delhi AQI 383 on Diwali morning",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दिवाली की सुबह दिल्ली का AQI 383",
+  "page": null,
+  "ihash": "957556f4b492",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-en-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-hi-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-383-diwali-morning-12-stations-severe-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Delhi smog unused in 7 days; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)"
+ },
+ "japan-aichi-shizuoka-earthquake-57-22-injured": {
+  "id": "i-japan-aichi-shizuoka-earthquake-57-22-injured",
+  "src": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-en-3x2-1280.jpg",
+  "src800": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Magnitude 5.7 quake injures at least 22",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 5.7 तीव्रता का भूकंप, कम से कम 22 घायल",
+  "page": null,
+  "ihash": "f7c35eef520d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-hi-3x2-1280.jpg",
+    "src800": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-en-t-1280.jpg",
+    "src800": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-hi-t-1280.jpg",
+    "src800": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-en-1280.jpg",
+    "src800": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-hi-1280.jpg",
+    "src800": "/photos/i-japan-aichi-shizuoka-earthquake-57-22-injured-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Japan earthquake; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)"
+ },
+ "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore": {
+  "id": "i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+  "src": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-en-3x2-1280.jpg",
+  "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Festive trade passes ₹6 lakh crore, ₹7 lakh crore expected",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: त्योहारी कारोबार ₹6 लाख करोड़ के पार, ₹7 लाख करोड़ की उम्मीद",
+  "page": null,
+  "ihash": "e62db24c1af1",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-3x2-1280.jpg",
+    "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-en-t-1280.jpg",
+    "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-t-1280.jpg",
+    "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-en-1280.jpg",
+    "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-1280.jpg",
+    "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Praveen Khandelwal; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)"
+ },
+ "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo": {
+  "id": "i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+  "src": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-en-3x2-1280.jpg",
+  "src800": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Cygnus XL heads for the station on November 29",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: साइग्नस एक्सएल 29 नवंबर को स्टेशन के लिए",
+  "page": null,
+  "ihash": "01702a9f5c60",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-en-t-1280.jpg",
+    "src800": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-hi-t-1280.jpg",
+    "src800": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-en-1280.jpg",
+    "src800": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-hi-1280.jpg",
+    "src800": "/photos/i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Cygnus spacecraft; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)"
  }
 }

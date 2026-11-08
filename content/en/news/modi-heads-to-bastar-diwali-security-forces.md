@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Armed forces"
 topics: []
-title: "Modi heads to Bastar to spend Diwali with security forces, 12th year of the tradition"
+title: "Modi heads to Bastar to spend Diwali with security forces, a tradition since 2014"
 standfirst: "The Prime Minister announced on Diwali morning that he is going to the once Naxal-hit region to thank the jawans for their sacrifice."
 published: 2026-11-08T10:25:00+05:30
 location: New Delhi
@@ -63,7 +63,7 @@ Prime Minister Narendra Modi said on Diwali morning that he is **heading to Bast
 
 The announcement came a few hours after he wished the nation a happy Diwali. The exact venue within Bastar, the units he will meet and the time of the programme had not been announced when this report was filed.
 
-## A 12-year tradition
+## A tradition since 2014
 
 Modi has spent Diwali with troops every year since he became Prime Minister. He began at the **Siachen Base Camp in 2014** and has since been to the Punjab border near Amritsar, Sumdoh in Himachal Pradesh, Gurez, Harsil, Rajouri, Longewala, Nowshera, Kargil and Lepcha. In 2024 he was at Sir Creek in Kutch, and last year he spent the festival aboard **INS Vikrant** off the Goa-Karwar coast.
 

@@ -28,3 +28,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Editor homepage FAIL not fixed (second check): Meghwal lead is weak; explainers (E20) in top column and Explained band; two TN/Kerala rain stories side by side; Delhi AQI 369 is last night's figure.
 - Markets: Sunday, closed (Muhurat session 2:20 to 3:30 pm); markets.json unchanged.
 
+
+## November 8, 2026, 10:50 am (from the 10:00 run)
+- Published 6: modi-heads-to-bastar-diwali-security-forces (LEAD, Modi file cover; swap in the PIB Bastar photo when out), yogi-diwali-nishad-settlement-ayodhya-bullets-remark, rajnath-singh-reaches-sherathang-diwali-nathu-la, japan-aichi-shizuoka-earthquake-57-22-injured, cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore, nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo.
+- Held: delhi-aqi-383-diwali-morning-12-stations-severe (8 am figure stale). Write the latest CPCB Diwali reading as a new id.
+- Finder (GitHub Actions) still failing. Praveen Khandelwal added to people.tsv.
+- NEXT RUN, FIRST: Modi in Bastar with venue, remarks and PIB photo (update the lead); Delhi Diwali CPCB AQI latest; India U19 v Pakistan result; Chennai Open doubles final; Suvendu Hingalganj as done; merge or drop the duplicate TN/Kerala rain stories; Muhurat trading result after 3:30 pm.

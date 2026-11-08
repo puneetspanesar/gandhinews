@@ -59,7 +59,7 @@ Buying peaked on **Dhanteras, Friday, November 6**, when crowds filled markets i
 
 According to CAIT, demand was strong across the board. **Gold, silver and jewellery** drew heavy buying, alongside mobile phones, LED televisions, refrigerators, washing machines and air conditioners. Sarees, suits, kurtas, readymade garments and children's wear sold well, as did earthen diyas, idols of Goddess Lakshmi and Lord Ganesha, puja items and sweets. Cars, two-wheelers and commercial vehicles added to the total, and khadi, handloom and handicraft goods did a steady business.
 
-"The unprecedented footfall in markets has not only provided fresh momentum to commercial activities," said Praveen Khandelwal, CAIT Secretary General and Member of Parliament. He tied the trend to consumers **increasingly preferring Indian products**, linking it to the Prime Minister's appeals for "Vocal for Local" and "Aatmanirbhar Bharat".
+Praveen Khandelwal, CAIT Secretary General and Member of Parliament, said the **unprecedented footfall in markets** had given fresh momentum to commercial activity. He tied the trend to consumers **increasingly preferring Indian products**, linking it to the Prime Minister's appeals for "Vocal for Local" and "Aatmanirbhar Bharat".
 
 ## Who gains
 

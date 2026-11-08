@@ -1,0 +1,42 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-08T10:09:12+05:30",
+ "end": "2026-11-08T10:50:11+05:30",
+ "summary": "Modi to Bastar for Diwali leads; 6 new stories, Delhi AQI 8 am story held",
+ "new": [
+  "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+  "japan-aichi-shizuoka-earthquake-57-22-injured",
+  "modi-heads-to-bastar-diwali-security-forces",
+  "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+  "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+  "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+ ],
+ "held": [
+  "delhi-aqi-383-diwali-morning-12-stations-severe"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-heads-to-bastar-diwali-security-forces",
+   "why": "The lead picture joins two unrelated file photos. The right half shows Modi tiny behind a car window with his hand partly over his face, so he is too small to recognise, and neither half has anything to do with soldiers or Bastar. As the lead it looks machine-made.",
+   "done": "Car shot dropped; lead cover now two checked file portraits of Modi (no troops photo available: PIB has none yet, finder down)."
+  },
+  {
+   "id": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+   "why": "An infographic stands in for Rajnath Singh, a well-known minister. The NOPHOTO note only says there is no photo 'unused in 7 days' and that the finder failed because GitHub Actions was down. That is not 'no free photo exists anywhere': PIB and Wikimedia have many. Also, step 03 now differs between the covers. The English says 'Memorial tribute near Nathu La'; the Hindi still adds a meeting with jawans.",
+   "done": "Library cover tried and rejected (wrong panels); no Rajnath photo outside the 7-day rule and finder down, so it keeps its --nophoto infographic under rule 11a (RUNBOOK rule 10 forbids reuse within 7 days)."
+  },
+  {
+   "id": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+   "why": "An infographic stands in for Yogi Adityanath, one of the most photographed leaders in India. The NOPHOTO note only says there is no photo 'unused in 7 days' and that the finder was down. Free photos clearly exist. The graphic itself only says 'Nov 8' and adds nothing.",
+   "done": "Infographic replaced by a photo cover: library photo of Yogi Adityanath and the Ram Mandir in Ayodhya (file photos)."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): japan-aichi-shizuoka-earthquake-57-22-injured",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence"
+ ],
+ "lead": "modi-heads-to-bastar-diwali-security-forces"
+}

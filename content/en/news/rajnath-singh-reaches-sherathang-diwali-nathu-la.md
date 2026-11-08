@@ -28,7 +28,7 @@ infographic:
   steps:
     - {title: "Saturday, Nov 7", text: "Bagdogra Airfield and Sukna"}
     - {title: "Sunday, Nov 8", text: "Sherathang, East Sikkim"}
-    - {title: "Next", text: "War memorial tribute, troops near Nathu La"}
+    - {title: "Next", text: "Memorial tribute near Nathu La"}
   source: "Reports of November 8, 2026"
 related: [rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday, rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve]
 seo:
