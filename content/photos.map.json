@@ -34229,5 +34229,48 @@
    }
   },
   "nophoto": "no free photo of Arjun Rajput or India U19; library, quick_photo, finder h0816 failed"
+ },
+ "adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert": {
+  "id": "i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert",
+  "src": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-en-3x2-1280.jpg",
+  "src800": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Swiss pair take the Chennai title",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: खिताब स्विस जोड़ी के नाम",
+  "page": null,
+  "ihash": "0776bc1e7c9c",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-hi-3x2-1280.jpg",
+    "src800": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-en-t-1280.jpg",
+    "src800": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-hi-t-1280.jpg",
+    "src800": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-en-1280.jpg",
+    "src800": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-hi-1280.jpg",
+    "src800": "/photos/i-adkar-bhosale-lose-chennai-open-doubles-final-karamoko-waltert-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Rutuja Bhosale, Vaishnavi Adkar, Simona Waltert; library, quick_photo, finder h0818 (Actions failing)"
  }
 }
