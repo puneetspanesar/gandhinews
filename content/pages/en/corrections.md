@@ -4,7 +4,7 @@ lang: en
 path: corrections
 title: "Corrections"
 description: "Every correction Gandhi News makes, with the date, the story and what changed. How to ask us to correct something."
-updated: 2026-10-11
+updated: 2026-11-08
 ---
 
 When we get something wrong, we fix it on the story and say what changed and when. Every correction is also listed below, newest first.

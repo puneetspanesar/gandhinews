@@ -6,8 +6,9 @@ section: states
 format_label: "Explained / Andhra Pradesh"
 topics: []
 title: "Andhra's mandal and zilla parishad polls explained: who you elect today and why it matters"
-standfirst: "About 2.81 crore rural voters in Andhra Pradesh cast two ballots on Thursday, two days later than planned, after a bitter run-up of court battles and clashes. How the state's rural councils are chosen, what they control, and what the result will say about Chandrababu Naidu's government."
+standfirst: "About 2.61 crore rural voters in Andhra Pradesh cast two ballots on Thursday, two days later than planned, after a bitter run-up of court battles and clashes. How the state's rural councils are chosen, what they control, and what the result will say about Chandrababu Naidu's government."
 published: 2026-11-05T06:50:00+05:30
+updated: 2026-11-08T16:50:00+05:30
 shortAnswer: "Andhra Pradesh's rural local government has three tiers: gram panchayats for villages, mandal parishads for blocks of villages, and zilla parishads for districts. On Thursday voters elect members to the middle and top tiers, casting one ballot for a Mandal Parishad Territorial Constituency (MPTC) and one for a Zilla Parishad Territorial Constituency (ZPTC), on party symbols. The winners then pick the mandal parishad presidents and zilla parishad chairpersons. Polling runs from 7 am to 5 pm, was moved from November 3 so police and staff were not stretched over two exercises, and votes are counted on Saturday, November 7. It is the first statewide rural vote since the TDP-led alliance swept the 2024 Assembly election, and the YSR Congress Party, which won almost every seat in 2021, says its candidates were obstructed."
 hero:
   need: "Chief Minister N. Chandrababu Naidu and opposition leader Y. S. Jagan Mohan Reddy, whose parties face off in the rural polls"
@@ -22,7 +23,7 @@ infographic:
   dek: "Polling on November 5, counting on November 7"
   motif: check-square
   stats:
-    - {icon: users, value: "2.81 crore", label: "rural voters eligible"}
+    - {icon: users, value: "2.61 crore", label: "rural voters eligible"}
     - {icon: map-pin, value: "9,829", label: "MPTC seats listed for election"}
     - {icon: buildings, value: "659", label: "ZPTC seats listed for election"}
   steps:
@@ -105,7 +106,7 @@ The people elected today do not run the councils directly. After the count, **MP
 
 ## How big is the exercise?
 
-When State Election Commissioner Anil Chandra Punetha announced the schedule on October 19, **659 ZPTC and 9,829 MPTC seats** were listed for election across 28 districts, with about 2.81 crore eligible voters and 35,333 polling stations. Some seats were settled before polling day, when returning officers declared unopposed winners on October 27. After scrutiny, 50,815 nominations were found valid.
+When State Election Commissioner Anil Chandra Punetha announced the schedule on October 19, **659 ZPTC and 9,829 MPTC seats** were listed for election across 28 districts, with 35,333 polling stations. The schedule put the electorate at about 2.81 crore; the commission's final roll for polling day was 2.61 crore (2,61,52,377 voters). Some seats were settled before polling day, when returning officers declared unopposed winners on October 27. After scrutiny, 50,815 nominations were found valid.
 
 Polling runs from 7 am to 5 pm, except at 88 stations in Alluri Sitarama Raju and Polavaram districts, where it closes at 3 pm. Any repoll is on Friday, and **counting starts at 8 am on Saturday**.
 

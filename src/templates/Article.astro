@@ -9,9 +9,10 @@ import Sources from '../components/Sources.astro';
 import Tags from '../components/Tags.astro';
 import RailList from '../components/RailList.astro';
 import FollowCard from '../components/FollowCard.astro';
-import { content, urlOf, prefix, kicker, fmtDateTime, labelParts, heroOf, emph } from '../lib/site';
+import { content, urlOf, prefix, kicker, fmtDate, fmtDateTime, labelParts, heroOf, emph } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
 import PHOTO_MAP from '../../content/photos.map.json';
+import CORRECTIONS from '../../content/corrections.json';
 import { newsArticleLd, faqLd, claimReviewLd, storyImage, shareImage } from '../lib/seo';
 
 interface Props { lang: Lang; id: string; route: string }
@@ -137,6 +138,10 @@ const heroOv = {
         {d.updated && (
           <p class="upd"><Icon name="clock-counter-clockwise" /><span><b>{t.updated} {fmtDateTime(d.updated, lang)}:</b> {t.updateNote}</span></p>
         )}
+
+        {(CORRECTIONS as any[]).filter((x) => x.article === d.id).sort((a, b) => String(a.date).localeCompare(String(b.date))).map((x) => (
+          <aside class="corr" id={x.id}><b>{lang === 'hi' ? 'सुधार' : 'Correction'}, {fmtDate(new Date(`${x.date}T12:00:00+05:30`), lang)}:</b> {x.correction?.[lang] ?? x.correction?.en} <a href={`${p}/corrections/`}>{lang === 'hi' ? 'सुधारों का रिकॉर्ड' : 'Corrections log'}</a></aside>
+        ))}
 
         <div data-pagefind-ignore><Sources lang={lang} sources={d.sources} />
         <Tags lang={lang} topics={d.topics} /></div>
