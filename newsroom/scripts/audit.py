@@ -204,6 +204,9 @@ def lint_story(lang, sid, fm, twin):
         for b in bolds:
             if len(b.split()) > 14: fail(G, f'{rel}:{line_of(raw, b[:30])}', f'bold runs a whole sentence ("{b[:50]}...")'); break
         if not fm.get('keyPoints'): fail(G, rel, 'news story has no keyPoints')
+        # Depth (owner, November 8): news is reported, not stated. New English stories run 600 words or more.
+        if '/en/' in rel and fm.get('_pub') and fm['_pub'] >= dt.datetime(2026, 11, 8, 17, 30, tzinfo=dt.timezone(dt.timedelta(hours=5, minutes=30))) and words < 550:
+            fail(G, rel, f'news story is {words} words; reported stories run 600 to 900 (record, background, reactions, why it matters, what next)')
     # Figures pinned to a clock time (recent stories only): the one shared rule in gnrules.stale_clock
     when = fm['_upd'] or fm['_pub']
     if when and NOW - when < dt.timedelta(hours=30) and fm.get('id') in TOP_IDS():   # only the top of the homepage: an article's own history is fine
