@@ -14,7 +14,6 @@ keyPoints:
   - "एक-एक जीत से **2-2 अंक** वाले भारत और पाकिस्तान रविवार सुबह 10:30 बजे ग्रुप A में भिड़ेंगे।"
   - "भारत ने नेपाल को **10 विकेट से** हराया; पाकिस्तान ने यूएई के 225 रन का पीछा किया, **उस्मान खान नाबाद 139**।"
   - "हर ग्रुप की **शीर्ष दो टीमें** ही सेमीफाइनल में जाएंगी।"
-upcoming: {date: 2026-11-08, en: "Men's U19 Asia Cup: India v Pakistan, Al Amerat, 10:30 am IST", hi: "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"}
 hero:
   need: "India under-19 cricketers, ideally captain Lakshya Raichandani or Aaryavir Sehwag, or the India v Pakistan U19 teams"
   suggested_source: "India national under-19 cricket team"

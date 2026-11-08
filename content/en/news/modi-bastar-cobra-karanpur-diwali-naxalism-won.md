@@ -29,7 +29,7 @@ infographic:
     - {icon: map-pin, value: "Karanpur", label: "CoBRA Operations Base, Bastar"}
     - {icon: users, value: "13th", label: "straight Diwali with the forces since 2014"}
   source: "Prime Minister's remarks, November 8, 2026"
-related: [modi-heads-to-bastar-diwali-security-forces, modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-diwali-greetings-citizens-viksit-bharat]
+related: [modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-diwali-greetings-citizens-viksit-bharat]
 seo:
   description: "PM Modi spent Diwali 2026 with CoBRA and CRPF personnel at Karanpur in Bastar and said it is the first Diwali when every district is free from Naxalism."
 sources:
@@ -58,7 +58,7 @@ verification:
   notes:
     - "Written 2:20 pm IST. No time of day for the event in any source. The 'dimagi Naxals' remark is in one headline only (ETV Bharat); no body text read carries it, so it is hedged and not quoted at length."
     - "No PIB photo for the visit yet (0 found); library photo used."
-    - "Free Press Journal says the Centre declared the country Naxal-free around March 31, 2026 and Amit Shah declared Bastar Naxal-free in May 2026; single source."
+    - "Free Press Journal says the Centre declared the country Naxal-free around March 31, 2026, and Amit Shah declared Bastar Naxal-free in May 2026; single source."
 ---
 
 Prime Minister Narendra Modi spent Diwali on Sunday with security personnel at the **CoBRA Operations Base in Karanpur** in Bastar, Chhattisgarh, and told them the country had won its long fight against Maoist violence.

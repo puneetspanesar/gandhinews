@@ -9,7 +9,6 @@ title: "Suvendu Adhikari to spend first Diwali as Bengal CM with BSF jawans on t
 standfirst: "The Chief Minister is due at a border outpost in North 24 Parganas on Sunday morning, then heads to Nandigram for the rest of the festival."
 published: 2026-11-08T06:13:00+05:30
 location: Kolkata
-upcoming: {date: 2026-11-08, en: "CM Suvendu Adhikari spends Diwali with BSF personnel at a North 24 Parganas border outpost", hi: "मुख्यमंत्री सुवेंदु अधिकारी उत्तर 24 परगना की सीमा चौकी पर बीएसएफ जवानों के साथ दिवाली मनाएंगे"}
 keyPoints:
   - "West Bengal Chief Minister Suvendu Adhikari will celebrate Diwali with **BSF personnel at a border outpost** in North 24 Parganas on Sunday."
   - "He said on Saturday night he will **visit the Hingalganj BSF post**, with DGP Siddh Nath Gupta, before leaving for Nandigram."

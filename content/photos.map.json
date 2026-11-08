@@ -33888,17 +33888,47 @@
   "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
  },
  "modi-bastar-cobra-karanpur-diwali-naxalism-won": {
-  "id": "v-modi-bastar-cobra-karanpur-diwali-naxalism-won",
-  "src": "/photos/v-modi-bastar-cobra-karanpur-diwali-naxalism-won-1280.jpg",
-  "src800": "/photos/v-modi-bastar-cobra-karanpur-diwali-naxalism-won-640.jpg",
+  "id": "i-modi-bastar-cobra-karanpur-diwali-naxalism-won",
+  "src": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-en-3x2-1280.jpg",
+  "src800": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-en-3x2-640.jpg",
   "width": 1280,
-  "height": 800,
-  "credit": "Photos: Narendra Modi / Wikimedia Commons; Ministry of Home Affairs / Wikimedia Commons",
-  "licence": "CC BY 3.0 and GODL-India",
-  "alt": "Prime Minister Narendra Modi and Union Home Minister Amit Shah (file photos)",
-  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और केंद्रीय गृह मंत्री अमित शाह (फ़ाइल फ़ोटो)",
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Modi marks a Naxal-free Diwali with the forces",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: नक्सलमुक्त दिवाली, जवानों के साथ मोदी",
   "page": null,
-  "srcWidth": 1280
+  "ihash": "aa8fb84054ef",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-hi-3x2-1280.jpg",
+    "src800": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-en-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-hi-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-en-1280.jpg",
+    "src800": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-hi-1280.jpg",
+    "src800": "/photos/i-modi-bastar-cobra-karanpur-diwali-naxalism-won-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Modi at Bastar; PIB 0 at 2:25 pm; library Modi portraits all used in 7 days; finder h0814 down (GitHub Actions failing)"
  },
  "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8": {
   "id": "i-hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",

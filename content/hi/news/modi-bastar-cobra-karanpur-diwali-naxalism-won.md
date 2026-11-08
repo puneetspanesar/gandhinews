@@ -30,7 +30,7 @@ infographic:
     - {icon: map-pin, value: "करनपुर", label: "कोबरा ऑपरेशंस बेस, बस्तर"}
     - {icon: users, value: "13वीं", label: "2014 से जवानों संग लगातार दिवाली"}
   source: "प्रधानमंत्री का संबोधन, 8 नवंबर 2026"
-related: [modi-heads-to-bastar-diwali-security-forces, modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-diwali-greetings-citizens-viksit-bharat]
+related: [modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-diwali-greetings-citizens-viksit-bharat]
 seo:
   description: "प्रधानमंत्री मोदी ने दिवाली 2026 बस्तर के करनपुर में कोबरा और सीआरपीएफ जवानों के साथ मनाई और कहा कि यह हर जिले के नक्सलमुक्त होने के बाद पहली दिवाली है।"
 sources:

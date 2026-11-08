@@ -13,7 +13,6 @@ keyPoints:
   - "India and Pakistan, both **2 points from one win**, meet in Group A at 10:30 am IST on Sunday."
   - "India won their opener by **10 wickets**; Pakistan chased 225 against the UAE with **Usman Khan on 139 not out**."
   - "Only the **top two teams in each group** reach the semi-finals."
-upcoming: {date: 2026-11-08, en: "Men's U19 Asia Cup: India v Pakistan, Al Amerat, 10:30 am IST", hi: "अंडर-19 एशिया कप: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"}
 hero:
   need: "India under-19 cricketers, ideally captain Lakshya Raichandani or Aaryavir Sehwag, or the India v Pakistan U19 teams"
   suggested_source: "India national under-19 cricket team"

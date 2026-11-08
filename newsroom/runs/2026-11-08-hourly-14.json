@@ -1,0 +1,35 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-08T14:04:07+05:30",
+ "end": "2026-11-08T14:38:12+05:30",
+ "summary": "Fadnavis leads; Modi Bastar, Hormuz; Rajput U19 held",
+ "new": [
+  "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
+  "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+  "modi-bastar-cobra-karanpur-diwali-naxalism-won"
+ ],
+ "held": [
+  "arjun-rajput-107-rescues-india-22-for-3-pakistan-u19-asia-cup"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "arjun-rajput-107-rescues-india-22-for-3-pakistan-u19-asia-cup",
+   "kind": "facts",
+   "why": "The headline, standfirst, text and both covers still say India were 'around 200' after about 44 overs and that Pakistan's chase had not started. That was the position at about 2 pm IST. India's innings has closed since then, so the top of the site shows an out-of-date, approximate figure (rule 9b). The cover's '22/3, India's early position' stat, shown with a trophy icon, is also weak. frontpages.txt lists the match result as missing.",
+   "fix": "Update the English and Hindi stories with India's confirmed final total and Pakistan's chase as it stands, or the result if the match is over, and rewrite the headline to match. Rebuild the en and hi covers with the final total in place of the 22/3 stat. Keep 107 off 85, with the hundred off 80 balls."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+   "why": "The lead picture is two file photos of Modi joined side by side. The right half is a small, blurry, low-resolution shot of him waving through an SUV window, so his face is too small and soft to read (rule 3). Putting the same man twice on the lead looks machine-made (rule 13). Neither half shows the security forces or Diwali at the base.",
+   "done": "Two-Modi cover dropped. Every library Modi portrait is used within 7 days and PIB has no Bastar photo yet, so the story takes its infographic under rule 11a (--nophoto) and does not lead."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): modi-bastar-cobra-karanpur-diwali-naxalism-won",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+ ],
+ "lead": "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing"
+}

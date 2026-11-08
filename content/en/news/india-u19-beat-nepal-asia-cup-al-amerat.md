@@ -9,7 +9,6 @@ title: "Sehwag and Raichandani fifties carry India to 10-wicket win over Nepal i
 standfirst: "Ishan Sood's 3 for 18 helped bowl Nepal out for 128 in Al Amerat, and the Indian openers knocked off the runs in 19.1 overs without losing a wicket."
 published: 2026-11-06T15:10:03+05:30
 location: Al Amerat, Oman
-upcoming: {date: 2026-11-08, en: "Men's U19 Asia Cup: India v Pakistan in Al Amerat, 10:30 am IST", hi: "अंडर-19 एशिया कप: अल अमेरात में भारत बनाम पाकिस्तान, सुबह 10:30 बजे"}
 keyPoints:
   - "India beat Nepal by **10 wickets** in their Under-19 Asia Cup opener in Oman."
   - "Ishan Sood took **3 for 18 in 10 overs** as Nepal were bowled out for 128."

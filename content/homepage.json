@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+    "id": "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
     "overlay": {
       "kicker": {
-        "en": "National / Aviation security",
-        "hi": "राष्ट्रीय / विमानन सुरक्षा"
+        "en": "States / Maharashtra",
+        "hi": "राज्य / महाराष्ट्र"
       },
       "value": {
-        "en": "Hijack threat note: IndiGo flight turns back",
-        "hi": "अपहरण की धमकी: इंडिगो उड़ान लौटी"
+        "en": "Diwali with farmers in Lohari Sawanga",
+        "hi": "लोहारी सावंगा में किसानों संग दिवाली"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-      "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
+      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "foreign-investors-return-explained-fii-dii-sensex-rally",
+      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+      "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
     ],
     "live": {
       "title": {
-        "en": "Aviation security",
-        "hi": "विमानन सुरक्षा"
+        "en": "Maharashtra",
+        "hi": "महाराष्ट्र"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "lead": {
-          "en": "Home Affairs:",
-          "hi": "गृह मंत्रालय:"
-        },
-        "text": {
-          "en": "Shah sets drug-free India by 2029 goal at Gujarat security review in Ahmedabad",
-          "hi": "अहमदाबाद में गुजरात की सुरक्षा समीक्षा, शाह ने 2029 तक नशामुक्त भारत का लक्ष्य रखा"
-        }
-      },
-      {
-        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
-          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
+          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
+          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
         }
       },
       {
-        "link": "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
+          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
+        }
+      },
+      {
+        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Counting rice every Friday will not cool prices on its own. The Centre must put its cheap grain on southern shelves, and show what the count finds",
-          "hi": "हर शुक्रवार चावल गिनने से अपने आप दाम नहीं घटेंगे। केंद्र अपना सस्ता अनाज दक्षिण की दुकानों तक पहुंचाए और बताए कि गिनती में क्या मिला"
+          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
+          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
         }
       },
       {
-        "link": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "link": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
         "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
+          "en": "Internal security:",
+          "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "NASA targets November 29 to send cancer and muscle-loss experiments to the space station",
-          "hi": "नासा 29 नवंबर को अंतरिक्ष स्टेशन भेजेगा कैंसर और मांसपेशी क्षय के प्रयोग"
+          "en": "Modi at CoBRA base in Bastar: first Diwali with every district free of Naxalism",
+          "hi": "बस्तर के कोबरा बेस पर मोदी: हर जिला नक्सलवाद से मुक्त, पहली ऐसी दिवाली"
         }
       },
       {
-        "link": "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "Yogi Adityanath to spend Diwali morning at Hanumangarhi, Ram temple and Nishad basti",
-          "hi": "योगी आदित्यनाथ की दिवाली की सुबह हनुमानगढ़ी, राम मंदिर और निषाद बस्ती में"
-        }
-      },
-      {
-        "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Adkar and Bhosale meet Swiss pair Karamoko and Waltert in Chennai Open doubles final",
-          "hi": "चेन्नई ओपन डबल्स फाइनल में आडकर और भोसले का सामना स्विट्ज़रलैंड की कारामोको और वाल्टर्ट से"
-        }
-      },
-      {
-        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
-          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
-        }
-      },
-      {
-        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "link": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
         "lead": {
           "en": "Middle East:",
           "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
-          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
+          "en": "Two tankers burn after hitting mines near Hormuz as loud blasts rock Riyadh",
+          "hi": "होर्मुज के पास बारूदी सुरंग से दो टैंकरों में आग, रियाद में तेज धमाके"
+        }
+      },
+      {
+        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
+          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
+        }
+      },
+      {
+        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
+          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
+        }
+      },
+      {
+        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
+          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+      "id": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
       "also": []
     },
     "list": [
-      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
-      "cancer-drugs-137-revised-prices-november-9-nppa",
-      "wb-suvendu-police-attacks-asansol-recruitment-29000"
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+      "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+      "khunti-crash-night-highways-need-lights-and-speed-checks"
     ],
     "also": [
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-      "bail-granted-is-not-freedom-release-the-under-trials"
+      "suspension-of-sentence-explained-tejpal-supreme-court",
+      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
     ]
   },
   "startHere": [
@@ -376,7 +376,7 @@
         "modi-diwali-greetings-citizens-viksit-bharat",
         "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
       ],
-      "lead": "modi-heads-to-bastar-diwali-security-forces"
+      "lead": "modi-bastar-cobra-karanpur-diwali-naxalism-won"
     },
     {
       "section": "economy",
@@ -399,9 +399,9 @@
     },
     {
       "section": "states",
-      "lead": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+      "lead": "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
       "list": [
-        "meghwal-diwali-bsf-bikaner-soldiers-family",
+        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
         "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
         "jajpur-nalipur-house-fire-four-of-family-dead-odisha"
       ]
@@ -412,7 +412,7 @@
       "list": [
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
       ]
     },
     {
@@ -427,11 +427,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "japan-aichi-shizuoka-earthquake-57-22-injured",
+      "lead": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
       "list": [
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
         "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
       ]
     },
     {
@@ -462,46 +462,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Rajnath Singh at Sherathang War Memorial, Sikkim, on Diwali",
-        "hi": "दिवाली पर सिक्किम के शेरथांग युद्ध स्मारक में राजनाथ सिंह"
-      },
-      "link": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Yogi Adityanath's Diwali programme in Ayodhya, from 7:50 am",
-        "hi": "अयोध्या में योगी आदित्यनाथ का दिवाली कार्यक्रम, सुबह 7:50 बजे से"
-      },
-      "link": "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "India A v New Zealand A, 3rd unofficial Test, day two, Lincoln",
         "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, दूसरा दिन, लिंकन"
       },
       "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "CM Suvendu Adhikari spends Diwali with BSF personnel at a North 24 Parganas border outpost",
-        "hi": "मुख्यमंत्री सुवेंदु अधिकारी उत्तर 24 परगना की सीमा चौकी पर बीएसएफ जवानों के साथ दिवाली मनाएंगे"
-      },
-      "link": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram"
     },
     {
       "icon": "calendar-blank",
@@ -526,26 +490,45 @@
         "hi": "चेन्नई ओपन डबल्स फाइनल: आडकर और भोसले बनाम कारामोको और वाल्टर्ट"
       },
       "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Muhurat trading on NSE and BSE, 2:20 pm to 3:30 pm IST",
+        "hi": "एनएसई और बीएसई पर मुहूर्त ट्रेडिंग, दोपहर 2:20 से 3:30 बजे तक"
+      },
+      "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Revised MRPs of 137 anti-cancer drugs take effect, trade margins capped at 30%",
+        "hi": "137 कैंसर दवाओं की संशोधित एमआरपी लागू, ट्रेड मार्जिन 30% पर सीमित"
+      },
+      "link": "cancer-drugs-137-revised-prices-november-9-nppa"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "COP31 climate summit opens in Antalya, Turkey (to November 20)",
+        "hi": "कॉप31 जलवायु सम्मेलन तुर्की के अंताल्या में शुरू (20 नवंबर तक)"
+      },
+      "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T20:56:47+05:30",
-      "ids": [
-        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-        "cancer-drugs-137-revised-prices-november-9-nppa",
-        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
-      ]
-    },
     {
       "at": "2026-11-07T22:43:07+05:30",
       "ids": [
@@ -646,6 +629,20 @@
         "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
         "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
+      ]
+    },
+    {
+      "at": "2026-11-08T14:36:09+05:30",
+      "ids": [
+        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
+        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "foreign-investors-return-explained-fii-dii-sensex-rally",
+        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
+        "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "chawri-bazar-building-collapse-toll-six-four-arrested"
       ]
     }
   ],

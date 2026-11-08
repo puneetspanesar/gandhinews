@@ -9,7 +9,6 @@ title: "Yogi Adityanath to spend Diwali morning at Hanumangarhi, Ram temple and 
 standfirst: "After Saturday's Deepotsav, the Chief Minister's Diwali programme in Ayodhya begins at 7:50 am with prayers and takes in a Deepawali milan, meetings with saints and a public programme at Ram Ki Paidi."
 published: 2026-11-08T06:15:00+05:30
 location: Ayodhya
-upcoming: {date: 2026-11-08, en: "Yogi Adityanath's Diwali programme in Ayodhya, from 7:50 am", hi: "अयोध्या में योगी आदित्यनाथ का दिवाली कार्यक्रम, सुबह 7:50 बजे से"}
 keyPoints:
   - "Yogi Adityanath is due at **Hanumangarhi at 7:50 am** and at the Ram Janmabhoomi temple at 8:05 am."
   - "A **Deepawali milan in Nishad basti** near Ramghat Halt follows at 8:20 am."

@@ -9,7 +9,6 @@ title: "Rajnath Singh spends Diwali eve with Army troops in north Bengal, Sikkim
 standfirst: "The Defence Minister meets soldiers at Bagdogra Airfield and Sukna on Saturday and will pay tribute at the Sherathang War Memorial on Diwali day."
 published: 2026-11-07T12:11:44+05:30
 location: Siliguri
-upcoming: {date: 2026-11-08, en: "Rajnath Singh at Sherathang War Memorial, Sikkim, on Diwali", hi: "दिवाली पर सिक्किम के शेरथांग युद्ध स्मारक में राजनाथ सिंह"}
 keyPoints:
   - "Rajnath Singh meets **Army personnel at Bagdogra Airfield and Sukna** on Diwali eve."
   - "On Sunday he will visit the **Sherathang War Memorial in Sikkim** and meet troops deployed there."
