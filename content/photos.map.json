@@ -33873,5 +33873,374 @@
    }
   },
   "nophoto": "no free photo of Cygnus spacecraft; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)"
+ },
+ "delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450": {
+  "id": "i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450",
+  "src": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 11 of 23 stations severe at 6 am",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सुबह 6 बजे 23 में से 11 स्टेशन गंभीर",
+  "page": null,
+  "ihash": "5993e4ea9dd9",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-en-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-hi-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450-hi-640.jpg"
+   }
+  },
+  "nophoto": "Delhi smog"
+ },
+ "faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested": {
+  "id": "i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested",
+  "src": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-en-3x2-1280.jpg",
+  "src800": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Parking row ends in a killing",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पार्किंग विवाद का अंत हत्या में",
+  "page": null,
+  "ihash": "be23f1d1bded",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-hi-3x2-1280.jpg",
+    "src800": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-en-t-1280.jpg",
+    "src800": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-hi-t-1280.jpg",
+    "src800": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-en-1280.jpg",
+    "src800": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-hi-1280.jpg",
+    "src800": "/photos/i-faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested-hi-640.jpg"
+   }
+  },
+  "nophoto": "Paramjit Dhankhar"
+ },
+ "gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent": {
+  "id": "i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent",
+  "src": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-en-3x2-1280.jpg",
+  "src800": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Gold ₹51,000 below its January high",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सोना जनवरी के शिखर से 51,000 रुपये नीचे",
+  "page": null,
+  "ihash": "27dd06b9e743",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-hi-3x2-1280.jpg",
+    "src800": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-en-t-1280.jpg",
+    "src800": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-hi-t-1280.jpg",
+    "src800": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-en-1280.jpg",
+    "src800": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-hi-1280.jpg",
+    "src800": "/photos/i-gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent-hi-640.jpg"
+   }
+  }
+ },
+ "amit-shah-fir-sentence-within-three-years-claim": {
+  "id": "o-amit-shah-fir-sentence-within-three-years-claim",
+  "src": "/photos/o-amit-shah-fir-sentence-within-three-years-claim-1280.jpg",
+  "src800": "/photos/o-amit-shah-fir-sentence-within-three-years-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1280,
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Amit Shah (file photo)",
+  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg"
+ },
+ "modi-karanpur-crpf-camp-bastar-diwali-sai-welcome": {
+  "id": "v-modi-karanpur-crpf-camp-bastar-diwali-sai-welcome",
+  "src": "/photos/v-modi-karanpur-crpf-camp-bastar-diwali-sai-welcome-1280.jpg",
+  "src800": "/photos/v-modi-karanpur-crpf-camp-bastar-diwali-sai-welcome-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Narendra Modi / Wikimedia Commons; PathakNar / Wikimedia Commons",
+  "licence": "CC BY 3.0 and CC0",
+  "alt": "Prime Minister Narendra Modi and Chhattisgarh Chief Minister Vishnu Deo Sai (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और छत्तीसगढ़ के मुख्यमंत्री विष्णु देव साय (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280
+ },
+ "amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad": {
+  "id": "i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad",
+  "src": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-en-3x2-1280.jpg",
+  "src800": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: SG Highway gets a signal-free corridor",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एसजी हाईवे को सिग्नल-मुक्त कॉरिडोर",
+  "page": null,
+  "ihash": "b47c2bfd33c2",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-hi-3x2-1280.jpg",
+    "src800": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-en-t-1280.jpg",
+    "src800": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-hi-t-1280.jpg",
+    "src800": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-en-1280.jpg",
+    "src800": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-hi-1280.jpg",
+    "src800": "/photos/i-amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free Amit Shah photo outside 7 days, no SG Highway corridor photo; library, quick_photo; finder (GitHub Actions) down all day"
+ },
+ "saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8": {
+  "id": "i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8",
+  "src": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-en-3x2-1280.jpg",
+  "src800": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Two Houthi missiles fired at Riyadh are destroyed",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रियाद की ओर दागी दो हूती मिसाइलें नष्ट",
+  "page": null,
+  "ihash": "4dd755be211a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-hi-3x2-1280.jpg",
+    "src800": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-en-t-1280.jpg",
+    "src800": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-hi-t-1280.jpg",
+    "src800": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-en-1280.jpg",
+    "src800": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-hi-1280.jpg",
+    "src800": "/photos/i-saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Riyadh interception or Patriot launch; library, quick_photo; finder down"
+ },
+ "kolkata-civic-poll-clock-december-8-wards-case": {
+  "id": "i-kolkata-civic-poll-clock-december-8-wards-case",
+  "src": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-en-3x2-1280.jpg",
+  "src800": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: No council, no election notice, 30 days left",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: न परिषद, न चुनाव अधिसूचना, 30 दिन बाकी",
+  "page": null,
+  "ihash": "009aa25ba932",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-hi-3x2-1280.jpg",
+    "src800": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-en-t-1280.jpg",
+    "src800": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-hi-t-1280.jpg",
+    "src800": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-en-1280.jpg",
+    "src800": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-hi-1280.jpg",
+    "src800": "/photos/i-kolkata-civic-poll-clock-december-8-wards-case-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of KMC headquarters; Calcutta HC photo blocked by 7-day rule; quick_photo; finder down"
+ },
+ "india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs": {
+  "id": "i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs",
+  "src": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India 70 for 4 after 20 overs",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 20 ओवर के बाद भारत 70/4",
+  "page": null,
+  "ihash": "5369a02eccfa",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-en-t-1280.jpg",
+    "src800": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-hi-t-1280.jpg",
+    "src800": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-en-1280.jpg",
+    "src800": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-hi-1280.jpg",
+    "src800": "/photos/i-india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of India U19 team or Al Amerat ground; library, quick_photo; finder down"
+ },
+ "fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8": {
+  "id": "i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8",
+  "src": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-en-3x2-1280.jpg",
+  "src800": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Fast solar wind unsettles Earth's field",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तेज सौर हवा से अशांत चुंबकीय क्षेत्र",
+  "page": null,
+  "ihash": "59252efc728a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-hi-3x2-1280.jpg",
+    "src800": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-en-t-1280.jpg",
+    "src800": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-hi-t-1280.jpg",
+    "src800": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-en-1280.jpg",
+    "src800": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-hi-1280.jpg",
+    "src800": "/photos/i-fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8-hi-640.jpg"
+   }
+  },
+  "nophoto": "no unused free coronal hole or aurora photo; quick_photo; finder down"
  }
 }
