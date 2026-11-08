@@ -39,6 +39,14 @@ FONTS = f"""
 @font-face{{font-family:GS;src:url(file://{R}newsroom/fonts/GoogleSans-500.ttf);font-weight:500}}
 @font-face{{font-family:GS;src:url(file://{R}newsroom/fonts/GoogleSans-700.ttf);font-weight:700}}
 @font-face{{font-family:ND;src:url(file://{R}newsroom/fonts/NotoSansDevanagari.ttf);font-weight:100 900}}
+@font-face{{font-family:PT;src:url(file://{R}public/fonts/pt-serif-latin-400-normal.woff2);font-weight:400 500}}
+@font-face{{font-family:PT;src:url(file://{R}public/fonts/pt-serif-latin-700-normal.woff2);font-weight:600 900}}
+@font-face{{font-family:NSD;src:url(file://{R}public/fonts/noto-serif-devanagari-devanagari-400-normal.woff2);font-weight:400 500}}
+@font-face{{font-family:NSD;src:url(file://{R}public/fonts/noto-serif-devanagari-devanagari-700-normal.woff2);font-weight:600 900}}
+@font-face{{font-family:RB;src:url(file://{R}public/fonts/roboto-latin-700-normal.woff2);font-weight:600 900}}
+@font-face{{font-family:RB;src:url(file://{R}public/fonts/roboto-latin-500-normal.woff2);font-weight:400 500}}
+/* the site's type (owner, November 8): PT Serif for headlines, numbers and text; Roboto only for the red labels */
+.kick,.ct,.k,.cst,.foot{{font-family:RB, ND, sans-serif}}
 """
 
 
@@ -104,7 +112,7 @@ def compare_html(c):
 
 def page(g, lang, W, H):
     hi = lang == 'hi'
-    fam = "ND, GS, sans-serif" if hi else "GS, ND, sans-serif"
+    fam = "NSD, PT, serif" if hi else "PT, NSD, serif"
     up = '' if hi else 'text-transform:uppercase;'
     stats = (g.get('stats') or [])[:3]
     st = ''.join(f'<div class="s1">{ico(s.get("icon", "info"), 58)}<div><div class="sv">{e(s.get("value"))}</div><div class="sl">{e(s.get("label"))}</div></div></div>' for s in stats)
@@ -130,7 +138,7 @@ body{{width:{W}px;height:{H}px;background:{INK};color:#fff;font-family:{fam};ove
 .top{{display:flex;gap:32px;align-items:flex-start}}
 .tt{{flex:1}}
 .kick{{display:inline-block;background:{RED};font-weight:700;font-size:{20 if hi else 21}px;padding:7px 14px;{up}letter-spacing:{0 if hi else .3}px}}
-h1{{text-wrap:balance;font-weight:700;font-size:{hsize}px;line-height:{1.22 if hi else 1.02};margin-top:16px;{up}}}
+h1{{text-wrap:balance;font-weight:700;font-size:{hsize}px;line-height:{1.3 if hi else 1.08};margin-top:16px}}
 .dek{{font-weight:500;font-size:22px;line-height:1.3;margin-top:12px}}
 .seal{{width:104px;height:104px;flex:none;outline:4px solid #fff;outline-offset:0}}
 .seal svg{{width:104px;height:104px;display:block}}
@@ -189,7 +197,7 @@ h1{{text-wrap:balance;font-weight:700;font-size:{hsize}px;line-height:{1.22 if h
 def thumb(g, lang, W, H):
     """Card and small-slot version: one number or the headline, big enough to read at 200px wide."""
     hi = lang == 'hi'
-    fam = "ND, GS, sans-serif" if hi else "GS, ND, sans-serif"
+    fam = "NSD, PT, serif" if hi else "PT, NSD, serif"
     up = '' if hi else 'text-transform:uppercase;'
     st = (g.get('thumb') or (g.get('stats') or [None])[0]) if not g.get('thumb_headline') else None
     motif = g.get('motif') or (st or {}).get('icon') or 'newspaper'
@@ -205,7 +213,7 @@ body{{width:{W}px;height:{H}px;background:{INK};color:#fff;font-family:{fam};ove
 .k{{display:inline-block;background:{RED};font-weight:700;font-size:{40 if hi else 42}px;padding:10px 22px;{up}line-height:1.15}}
 .v{{font-weight:700;font-size:{118 if len(str((st or {}).get('value', ''))) < 9 else 96}px;line-height:1;margin-top:34px;letter-spacing:-.01em;white-space:nowrap}}
 .l{{font-weight:500;font-size:46px;line-height:1.22;margin-top:22px;text-wrap:balance}}
-.h{{font-weight:700;font-size:{70 if hi else 74}px;line-height:{1.2 if hi else 1.04};margin-top:30px;{up}text-wrap:balance}}
+.h{{font-weight:700;font-size:{70 if hi else 74}px;line-height:{1.25 if hi else 1.08};margin-top:30px;text-wrap:balance}}
 .sl{{position:absolute;left:84px;bottom:56px;width:84px;height:84px;outline:4px solid #fff}}
 .sl svg{{width:84px;height:84px;display:block}}
 </style></head><body><div class="ic">{ico(motif, 380)}</div>
