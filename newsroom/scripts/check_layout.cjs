@@ -32,7 +32,10 @@ const srv = http.createServer((q, r) => { let f = path.join(root, decodeURICompo
       document.querySelectorAll('.home > section > .w, .home .g-band > .w, .home section.w, .dhome > .w, .dhome > section.w, .dhome .d-band > .w').forEach((wr) => {
         const r = wr.getBoundingClientRect(); if (!wr.offsetParent || r.height < 200) return;
         const cols = Math.floor(r.width / st), rows = Math.floor(r.height / st), E = [];
-        for (let j = 0; j < rows; j++) { E.push([]); for (let i = 0; i < cols; i++) { const x = r.left + st / 2 + i * st, y = r.top + st / 2 + j * st; E[j].push(BG(document.elementFromPoint(x, y))); } }
+        // pages taller than the 16,000 px viewport: scroll so each sampled row is inside it
+        const top0 = r.top + scrollY;
+        for (let j = 0; j < rows; j++) { E.push([]); const ya = top0 + st / 2 + j * st; if (ya - scrollY > innerHeight - 10 || ya < scrollY) scrollTo(0, Math.max(0, ya - 200)); for (let i = 0; i < cols; i++) { const x = r.left + st / 2 + i * st; E[j].push(BG(document.elementFromPoint(x, ya - scrollY))); } }
+        scrollTo(0, 0);
         let hit = null;
         for (let j = 0; j + need <= rows && !hit; j++) for (let i = 0; i + need <= cols && !hit; i++) {
           let all = true; for (let a = 0; a < need && all; a++) for (let b2 = 0; b2 < need && all; b2++) all = E[j + a][i + b2];
