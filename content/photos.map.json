@@ -33191,47 +33191,17 @@
   "nophoto": "no free photo of a house fire in Odisha; library, quick_photo, finder h0806 (GitHub Actions failing)"
  },
  "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram": {
-  "id": "i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
-  "src": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-en-3x2-1280.jpg",
-  "src800": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-en-3x2-640.jpg",
+  "id": "v-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr",
+  "src": "/photos/v-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr-1280.jpg",
+  "src800": "/photos/v-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Bengal CM to mark Diwali at the border",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बंगाल के मुख्यमंत्री सीमा पर मनाएंगे दिवाली",
+  "height": 800,
+  "credit": "Photos: মঞ্জুর আলম খান / Wikimedia Commons; Arupparia / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "West Bengal Chief Minister Suvendu Adhikari and the fenced India-Bangladesh border (file photos)",
+  "alt_hi": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी और भारत-बांग्लादेश सीमा पर बाड़ (फ़ाइल फ़ोटो)",
   "page": null,
-  "ihash": "22434409cea7",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-hi-3x2-1280.jpg",
-    "src800": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-en-t-1280.jpg",
-    "src800": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-hi-t-1280.jpg",
-    "src800": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-en-1280.jpg",
-    "src800": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-hi-1280.jpg",
-    "src800": "/photos/i-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Suvendu Adhikari (both library portraits inside 7 days); library, quick_photo, finder h0806 (GitHub Actions failing)"
+  "srcWidth": 1280
  },
  "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday": {
   "id": "i-adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
