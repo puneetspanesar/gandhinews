@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-06T15:30:00+05:30",
+  "as_of": "2026-11-08T15:30:00+05:30",
   "status": "closed",
-  "session_date": "2026-11-06",
+  "session_date": "2026-11-08",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81028.02,
-      "change": 1718.01,
-      "pct": 2.17,
+      "value": 80999.4,
+      "change": -28.62,
+      "pct": -0.04,
       "history": [
         {
           "date": "2026-09-30",
@@ -103,17 +103,21 @@
         {
           "date": "2026-11-06",
           "close": 81028.02
+        },
+        {
+          "date": "2026-11-08",
+          "close": 80999.4
         }
       ],
-      "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+      "source": "https://www.business-standard.com/markets"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25030.35,
-      "change": 493.75,
-      "pct": 2.01,
+      "value": 24986.4,
+      "change": -43.95,
+      "pct": -0.18,
       "history": [
         {
           "date": "2026-09-30",
@@ -210,9 +214,13 @@
         {
           "date": "2026-11-06",
           "close": 25030.35
+        },
+        {
+          "date": "2026-11-08",
+          "close": 24986.4
         }
       ],
-      "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+      "source": "https://www.business-standard.com/markets"
     },
     {
       "id": "nifty-bank",
@@ -375,6 +383,7 @@
     "6 Nov 16:20 IST (hourly 16:00): Sensex and Nifty 50 closing values from ANI via The Tribune (3:52 pm IST), confirmed by Free Press Journal; appended to history. Nifty Bank, other indices, rupee, rates, movers, sectors and Nov 6 FII/DII flows not found in a dated source this run; earlier values kept.",
     "6 Nov 16:32 IST: Brent 96.99 from ANI at the Indian close (was 99.41 pre-open); change taken against the previous close implied by the pre-open entry (93.46).",
     "6 Nov 18:25 IST (hourly-18): rupee close 93.89 (provisional, up 52 paise from 94.41; PTI via HDFC Sky). Nifty Bank up 2.27% to an eight-month high but no level read, kept. Nov 6 FII/DII not yet published; Nov 5 flows kept.",
-    "6 Nov 21:25 IST (hourly 21:00): closing values kept; no dated November 6 FII/DII flow figure found in a source read this run, flows keep November 5."
+    "6 Nov 21:25 IST (hourly 21:00): closing values kept; no dated November 6 FII/DII flow figure found in a source read this run, flows keep November 5.",
+    "8 Nov 16:20 IST (hourly 16:00): Muhurat trading (Samvat 2083) close, Sensex 80,999.40 (-28.62, -0.04%) and Nifty 50 24,986.40 (-43.95, -0.18%) from Business Standard (3:33 pm) and India TV (4:00 pm), matching Upstox; appended to history. Other indices, rates, movers, sectors and flows keep earlier values (no dated Muhurat figure read)."
   ]
 }
