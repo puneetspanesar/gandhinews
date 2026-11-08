@@ -1,0 +1,16 @@
+{
+ "run": "stall-12",
+ "start": "2026-11-08T12:55:33+05:30",
+ "end": "2026-11-08T13:15:22+05:30",
+ "summary": "Homepage rotated after hourly 11 and 12 missed; audit font check fixed",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
+ ],
+ "lead": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
+}

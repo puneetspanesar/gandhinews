@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-heads-to-bastar-diwali-security-forces",
+    "id": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
     "overlay": {
       "kicker": {
-        "en": "Politics / Armed forces",
-        "hi": "राजनीति / सशस्त्र बल"
+        "en": "National / Aviation security",
+        "hi": "राष्ट्रीय / विमानन सुरक्षा"
       },
       "value": {
-        "en": "Diwali with the jawans, in Bastar",
-        "hi": "जवानों संग दिवाली, बस्तर में"
+        "en": "Hijack threat note: IndiGo flight turns back",
+        "hi": "अपहरण की धमकी: इंडिगो उड़ान लौटी"
       },
       "text": {
         "en": "",
@@ -16,112 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-      "railways-18000-festive-specials-trips-claim",
-      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-      "japan-aichi-shizuoka-earthquake-57-22-injured",
-      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence"
+      "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
     ],
     "live": {
       "title": {
-        "en": "Armed forces",
-        "hi": "सशस्त्र बल"
+        "en": "Aviation security",
+        "hi": "विमानन सुरक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "link": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
+          "en": "Home Affairs:",
+          "hi": "गृह मंत्रालय:"
         },
         "text": {
-          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
-          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
+          "en": "Shah sets drug-free India by 2029 goal at Gujarat security review in Ahmedabad",
+          "hi": "अहमदाबाद में गुजरात की सुरक्षा समीक्षा, शाह ने 2029 तक नशामुक्त भारत का लक्ष्य रखा"
         }
       },
       {
-        "link": "railways-18000-festive-specials-trips-claim",
+        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
-          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
+          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
+          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
         }
       },
       {
-        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
-          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
-        }
-      },
-      {
-        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "lead": {
-          "en": "Japan:",
-          "hi": "जापान:"
-        },
-        "text": {
-          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
-          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
-        }
-      },
-      {
-        "link": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home",
-          "hi": "अभिषेक के घर के बाहर फिर तनाव, ममता ने कोलकाता पुलिस आयुक्त अजय नंदा से इस्तीफा मांगा"
-        }
-      },
-      {
-        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "link": "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
-          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
+          "en": "Counting rice every Friday will not cool prices on its own. The Centre must put its cheap grain on southern shelves, and show what the count finds",
+          "hi": "हर शुक्रवार चावल गिनने से अपने आप दाम नहीं घटेंगे। केंद्र अपना सस्ता अनाज दक्षिण की दुकानों तक पहुंचाए और बताए कि गिनती में क्या मिला"
         }
       },
       {
-        "link": "nadda-national-cancer-awareness-day-screening-appeal",
+        "link": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
         },
         "text": {
-          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
-          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
+          "en": "NASA targets November 29 to send cancer and muscle-loss experiments to the space station",
+          "hi": "नासा 29 नवंबर को अंतरिक्ष स्टेशन भेजेगा कैंसर और मांसपेशी क्षय के प्रयोग"
         }
       },
       {
-        "link": "fox-completes-22-billion-roku-acquisition",
+        "link": "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
         "lead": {
-          "en": "Media:",
-          "hi": "मीडिया:"
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
         },
         "text": {
-          "en": "Fox completes $22 billion Roku takeover, months ahead of schedule",
-          "hi": "फॉक्स ने तय समय से काफी पहले पूरा किया 22 अरब डॉलर का रोकू अधिग्रहण"
+          "en": "Yogi Adityanath to spend Diwali morning at Hanumangarhi, Ram temple and Nishad basti",
+          "hi": "योगी आदित्यनाथ की दिवाली की सुबह हनुमानगढ़ी, राम मंदिर और निषाद बस्ती में"
+        }
+      },
+      {
+        "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Adkar and Bhosale meet Swiss pair Karamoko and Waltert in Chennai Open doubles final",
+          "hi": "चेन्नई ओपन डबल्स फाइनल में आडकर और भोसले का सामना स्विट्ज़रलैंड की कारामोको और वाल्टर्ट से"
+        }
+      },
+      {
+        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
+          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
+        }
+      },
+      {
+        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
+          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
         }
       }
     ]
@@ -189,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+      "id": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
       "also": []
     },
     "list": [
-      "nadda-national-cancer-awareness-day-screening-appeal",
-      "fox-completes-22-billion-roku-acquisition",
-      "modi-diwali-greetings-citizens-viksit-bharat",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+      "cancer-drugs-137-revised-prices-november-9-nppa",
+      "wb-suvendu-police-attacks-asansol-recruitment-29000"
     ],
     "also": [
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court"
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+      "bail-granted-is-not-freedom-release-the-under-trials"
     ]
   },
   "startHere": [
@@ -394,19 +391,19 @@
         ]
       },
       "list": [
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
         "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "fox-completes-22-billion-roku-acquisition",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares"
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees"
       ]
     },
     {
       "section": "states",
       "lead": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
       "list": [
+        "meghwal-diwali-bsf-bikaner-soldiers-family",
         "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
+        "jajpur-nalipur-house-fire-four-of-family-dead-odisha"
       ]
     },
     {
@@ -439,11 +436,11 @@
     },
     {
       "section": "science",
-      "lead": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
       "list": [
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
         "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "navy-receives-amini-anti-submarine-shallow-water-craft"
+        "who-six-climate-health-actions-1-6-million-lives-cop31"
       ]
     },
     {
@@ -532,20 +529,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T19:17:46+05:30",
-      "ids": [
-        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "railways-18000-festive-specials-trips-claim",
-        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "fox-completes-22-billion-roku-acquisition",
-        "europe-bomb-threat-wave-flights-broadcasters-third-day"
-      ]
-    },
     {
       "at": "2026-11-07T20:56:47+05:30",
       "ids": [
@@ -649,6 +632,20 @@
         "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "nadda-national-cancer-awareness-day-screening-appeal",
         "fox-completes-22-billion-roku-acquisition"
+      ]
+    },
+    {
+      "at": "2026-11-08T13:12:26+05:30",
+      "ids": [
+        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
+        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
       ]
     }
   ],

@@ -550,9 +550,9 @@ STYLE_JS = r"""
     if (el.tagName === 'IMG' && !(el.complete && el.naturalWidth > 0)) out.push(['broken-img', el.getAttribute('src')]);
   });
   out.push(['sizes', [...sizes].sort().join(' ')]);
-  // At least one face of each brand font (PT Serif and Roboto since the owner's November 7 redesign) must have actually loaded (a missing file silently falls back to system-ui).
+  // At least one face of the brand font (PT Serif for every element since the owner's November 8 change) must have actually loaded (a missing file silently falls back to system-ui).
   const loaded = new Set([...document.fonts].filter((f) => f.status === 'loaded').map((f) => f.family.replace(/["']/g, '')));
-  const missing = ['PT Serif', 'Roboto'].filter((f) => !loaded.has(f));
+  const missing = ['PT Serif'].filter((f) => !loaded.has(f));
   if (missing.length) out.push(['font-load', 'no face loaded for: ' + missing.join(', ')]);
   return out;
 }
