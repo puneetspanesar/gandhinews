@@ -1,17 +1,10 @@
 {
  "run": "hourly-22",
  "start": "2026-11-08T22:09:11+05:30",
- "end": "2026-11-08T23:15:17+05:30",
- "summary": "Amit Shah Naxalism post leads; 4 held by the editor",
- "new": [
-  "amit-shah-first-diwali-five-decades-naxalism-freed-post"
- ],
- "held": [
-  "adkar-bhosale-chennai-open-doubles-final-swiss-karamoko-waltert-win-straight-sets",
-  "creamy-layer-centre-must-publish-equivalence-rule-in-two-months",
-  "modi-first-diwali-every-district-free-of-naxalism-claim",
-  "paraguay-pena-charged-pretrial-detention-ueno-bank-alliana"
- ],
+ "end": "2026-11-08T23:22:26+05:30",
+ "summary": "Held-story records tidied after the 22:00 publish",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [
   {
