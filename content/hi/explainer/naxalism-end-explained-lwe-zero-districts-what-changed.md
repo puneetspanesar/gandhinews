@@ -14,7 +14,7 @@ hero:
   need: "केंद्रीय गृह मंत्री अमित शाह, जिन्होंने नक्सलवाद खत्म करने की 31 मार्च 2026 की समय-सीमा तय की, और बस्तर"
   suggested_source: "Amit Shah"
   subjects: ["Amit Shah", "Bastar district"]
-  alt: "केंद्रीय गृह मंत्री अमित शाह"
+  alt: "इन्फोग्राफ़िक: नक्सल प्रभावित ज़िलों की गृह मंत्रालय की गिनती"
   overlay:
     value: "126 जिलों से शून्य तक"
 related: [modi-bastar-cobra-karanpur-diwali-naxalism-won, modi-heads-to-bastar-diwali-security-forces]

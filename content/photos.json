@@ -416,7 +416,7 @@
   "credit": "Photo: US Navy / Wikimedia Commons",
   "licence": "Public domain",
   "alt": "File photo: a crude oil tanker on fire at sea (2004)",
-  "alt_hi": "फ़ाइल फ़ोटो: समुद्र में आग की चपेट में एक कच्चे तेल का टैंकर (2004)",
+  "alt_hi": "समुद्र में आग से क्षतिग्रस्त कच्चे तेल का टैंकर, जिस पर पानी डाला जा रहा है (फ़ाइल फ़ोटो, 2004)",
   "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG"
  },
  {
@@ -49967,6 +49967,39 @@
   "licence": "CC BY 3.0 and CC BY-SA 4.0",
   "alt": "Prime Minister Narendra Modi (file photos)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Burning_MV_EVERTON_in_2004.JPEG",
+  "credit": "Photo: US Navy / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "A crude oil tanker damaged by fire at sea being hosed down (file photo, 2004)",
+  "alt_hi": "समुद्र में आग से क्षतिग्रस्त कच्चे तेल का टैंकर, जिस पर पानी डाला जा रहा है (फ़ाइल फ़ोटो, 2004)",
+  "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG",
+  "id": "r-sea-mines-explained-hormuz-tankers-how-they-work-why-hard-to-clear",
+  "articleId": "sea-mines-explained-hormuz-tankers-how-they-work-why-hard-to-clear"
+ },
+ {
+  "id": "o-naxalism-end-explained-lwe-zero-districts-what-changed",
+  "articleId": "naxalism-end-explained-lwe-zero-districts-what-changed",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs%2C_in_New_Delhi_on_June_01%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Amit Shah (file photo)",
+  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg"
+ },
+ {
+  "id": "x-hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+  "articleId": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+  "sourceUrl": "",
+  "credit": "Photos: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Quintin Soloviev / Wikimedia Commons",
+  "licence": "Public domain and CC0",
+  "alt": "The Strait of Hormuz seen from space, and a crude oil tanker at sea (file photos)",
+  "alt_hi": "अंतरिक्ष से दिखता होर्मुज जलडमरूमध्य और समुद्र में कच्चे तेल का एक टैंकर (फ़ाइल फ़ोटो)",
   "page": null,
   "composite": [
    "lead-cover"

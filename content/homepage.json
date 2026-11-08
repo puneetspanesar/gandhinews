@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "meghwal-diwali-bsf-bikaner-soldiers-family",
+    "id": "naxalism-end-explained-lwe-zero-districts-what-changed",
     "overlay": {
       "kicker": {
-        "en": "States / Rajasthan",
-        "hi": "राज्य / राजस्थान"
+        "en": "Explained / Internal security",
+        "hi": "समझिए / आंतरिक सुरक्षा"
       },
       "value": {
-        "en": "Diwali with BSF jawans in Bikaner",
-        "hi": "बीकानेर में बीएसएफ जवानों संग दिवाली"
+        "en": "From 126 districts to none",
+        "hi": "126 जिलों से शून्य तक"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-      "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "sea-mines-explained-hormuz-tankers-how-they-work-why-hard-to-clear",
+      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+      "domestic-workers-need-registered-placements-and-home-checks-after-delhi-teen-case",
+      "one-voter-one-roll-rajasthan-local-polls-must-explain-30-lakh-gap",
+      "modi-bastar-every-district-free-of-naxalism-claim"
     ],
     "live": {
       "title": {
-        "en": "Rajasthan",
-        "hi": "राजस्थान"
+        "en": "Internal security",
+        "hi": "आंतरिक सुरक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "link": "sea-mines-explained-hormuz-tankers-how-they-work-why-hard-to-clear",
         "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
-          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
+          "en": "Sea mines explained: why a few cheap weapons can keep the Strait of Hormuz shut",
+          "hi": "समुद्री बारूदी सुरंगें क्या हैं: चंद सस्ते हथियार होर्मुज जलडमरूमध्य को कैसे बंद रख सकते हैं"
         }
       },
       {
-        "link": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "link": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
         "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "11.11 lakh lamps light the Ganga at Munger as Samrat Choudhary announces an 83-km marine drive",
-          "hi": "मुंगेर में गंगा किनारे जगमगाए 11.11 लाख दीप, सम्राट चौधरी ने किया 83 किमी मरीन ड्राइव का ऐलान"
+          "en": "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home",
+          "hi": "अभिषेक के घर के बाहर फिर तनाव, ममता ने कोलकाता पुलिस आयुक्त अजय नंदा से इस्तीफा मांगा"
         }
       },
       {
-        "link": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
-        },
-        "text": {
-          "en": "Four of a family, two of them children, die in Jajpur house fire on Diwali eve",
-          "hi": "जाजपुर में दिवाली की पूर्व संध्या पर घर में आग, एक ही परिवार के चार लोगों की मौत"
-        }
-      },
-      {
-        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
-          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
-        }
-      },
-      {
-        "link": "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9",
-          "hi": "कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या है: 9 नवंबर से 137 दवाओं की एमआरपी क्यों घटेगी"
-        }
-      },
-      {
-        "link": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+        "link": "domestic-workers-need-registered-placements-and-home-checks-after-delhi-teen-case",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Cheaper cancer drugs on paper are only half the job. From Monday the price cut must reach the patient",
-          "hi": "कागज़ पर सस्ती कैंसर दवाएं आधा काम हैं। सोमवार से कटौती मरीज़ तक पहुंचनी चाहिए"
+          "en": "A 16-year-old was kept behind a closed door for a year. Delhi must stop treating the home as a place no inspector can enter",
+          "hi": "16 साल की बच्ची साल भर बंद दरवाज़े के पीछे रही। दिल्ली घर को ऐसी जगह मानना बंद करे जहां कोई निरीक्षक नहीं जा सकता"
         }
       },
       {
-        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "link": "one-voter-one-roll-rajasthan-local-polls-must-explain-30-lakh-gap",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
-          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
+          "en": "A voter cannot be dead on one roll and eligible on another. Rajasthan must explain its 30 lakh gap",
+          "hi": "कोई मतदाता एक सूची में मृत और दूसरी में पात्र नहीं हो सकता। राजस्थान 30 लाख के फर्क का जवाब दे"
         }
       },
       {
-        "link": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+        "link": "modi-bastar-every-district-free-of-naxalism-claim",
         "lead": {
           "en": "Internal security:",
           "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Modi at CoBRA base in Bastar: first Diwali with every district free of Naxalism",
-          "hi": "बस्तर के कोबरा बेस पर मोदी: हर जिला नक्सलवाद से मुक्त, पहली ऐसी दिवाली"
+          "en": "Modi's claim that every district is now free of Naxalism is mostly true, but his 230-district peak is not in official data",
+          "hi": "मोदी का दावा कि हर ज़िला नक्सलवाद से मुक्त है, ज़्यादातर सही; पर 230 ज़िलों का आंकड़ा सरकारी डेटा में नहीं"
+        }
+      },
+      {
+        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
+        }
+      },
+      {
+        "link": "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "Over 30 lakh diyas light up Saryu banks as Ayodhya marks 10th Deepotsav",
+          "hi": "10वें दीपोत्सव में सरयू तट पर 30 लाख से ज्यादा दीये जगमगाए"
+        }
+      },
+      {
+        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
+          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
         }
       }
     ]
@@ -186,26 +186,26 @@
   },
   "topStories": {
     "big": {
-      "id": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
       "also": []
     },
     "list": [
-      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-      "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-      "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+      "japan-aichi-shizuoka-earthquake-57-22-injured",
+      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
     ],
     "also": [
-      "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+      "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+      "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
     ]
   },
   "startHere": [
+    "naxalism-end-explained-lwe-zero-districts-what-changed",
+    "sea-mines-explained-hormuz-tankers-how-they-work-why-hard-to-clear",
     "e20-petrol-explained-ethanol-blend-karnataka-row",
-    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-    "obc-creamy-layer-explained-parents-salary-supreme-court",
-    "bbmb-power-sharing-explained-himachal-share-supreme-court"
+    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
   ],
   "trackers": [
     {
@@ -275,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "modi-bastar-every-district-free-of-naxalism-claim",
       "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "railways-18000-festive-specials-trips-claim"
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
     ]
   },
   "explained": [
@@ -358,11 +358,11 @@
     }
   ],
   "opinion": [
+    "domestic-workers-need-registered-placements-and-home-checks-after-delhi-teen-case",
+    "one-voter-one-roll-rajasthan-local-polls-must-explain-30-lakh-gap",
     "e20-ethanol-row-needs-joint-testing-and-published-results",
     "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-    "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-    "bail-granted-is-not-freedom-release-the-under-trials"
+    "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
   ],
   "sections": [
     {
@@ -530,20 +530,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-08T06:34:13+05:30",
-      "ids": [
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "cancer-drugs-137-revised-prices-november-9-nppa"
-      ]
-    },
-    {
       "at": "2026-11-08T07:22:28+05:30",
       "ids": [
         "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
@@ -643,6 +629,20 @@
         "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "modi-bastar-cobra-karanpur-diwali-naxalism-won"
+      ]
+    },
+    {
+      "at": "2026-11-08T18:53:33+05:30",
+      "ids": [
+        "naxalism-end-explained-lwe-zero-districts-what-changed",
+        "sea-mines-explained-hormuz-tankers-how-they-work-why-hard-to-clear",
+        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+        "domestic-workers-need-registered-placements-and-home-checks-after-delhi-teen-case",
+        "one-voter-one-roll-rajasthan-local-polls-must-explain-30-lakh-gap",
+        "modi-bastar-every-district-free-of-naxalism-claim",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
       ]
     }
   ],

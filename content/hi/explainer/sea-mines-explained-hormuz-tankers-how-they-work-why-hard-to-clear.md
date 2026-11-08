@@ -14,7 +14,7 @@ hero:
   need: "होर्मुज जलडमरूमध्य, जहां टैंकरों के बारूदी सुरंगों से टकराने की खबर है"
   suggested_source: "Strait of Hormuz"
   subjects: ["Strait of Hormuz", "Naval mine"]
-  alt: "होर्मुज जलडमरूमध्य में जहाज (फाइल फोटो)"
+  alt: "इन्फोग्राफ़िक: कुछ सुरंगें होर्मुज जलडमरूमध्य को कैसे बंद कर सकती हैं"
   overlay:
     value: "होर्मुज की बारूदी सुरंगें"
 related: [hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8, qeshm-island-explained-why-us-strike-hormuz-matters-india, what-hormuz-attacks-mean-for-indian-fuel-prices, undersea-cables-explained-iran-hormuz-threat-india-internet]
@@ -27,7 +27,7 @@ infographic:
     - {icon: bomb, value: "2,000 से 6,000", label: "ईरान के पास अनुमानित बारूदी सुरंगें"}
     - {icon: clock, value: "6 महीने", label: "अप्रैल में पेंटागन अधिकारियों का बताया सफाई का समय"}
   compare: {left: {title: "युद्ध से पहले", value: "0.25% से कम", text: "युद्ध-जोखिम प्रीमियम, पोत की कीमत का हिस्सा"}, right: {title: "अप्रैल 2026", value: "1% से 5%", text: "युद्ध-जोखिम प्रीमियम, पोत की कीमत का हिस्सा"}}
-  source: "अल जज़ीरा, एस एंड पी ग्लोबल, सेंटकॉम; 8 नवंबर 2026"
+  source: "एस एंड पी ग्लोबल, सेंटकॉम; 8 नवंबर 2026"
 seo:
   description: "समुद्री बारूदी सुरंगें कैसे काम करती हैं, ईरान के पास कितनी हो सकती हैं, इन्हें हटाना कठिन क्यों है, और ये होर्मुज को बंद व बीमा को महंगा कैसे रखती हैं, जबकि 8 नवंबर 2026 को दो और टैंकरों के टकराने की खबर है।"
 sources:

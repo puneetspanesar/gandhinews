@@ -13,7 +13,7 @@ hero:
   need: "The Strait of Hormuz, where tankers are reported to have hit mines"
   suggested_source: "Strait of Hormuz"
   subjects: ["Strait of Hormuz", "Naval mine"]
-  alt: "Ships in the Strait of Hormuz (file photo)"
+  alt: "Infographic: why a few mines can shut the Strait of Hormuz"
   overlay:
     value: "The mines of Hormuz"
 related: [hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8, qeshm-island-explained-why-us-strike-hormuz-matters-india, what-hormuz-attacks-mean-for-indian-fuel-prices, undersea-cables-explained-iran-hormuz-threat-india-internet]
@@ -26,7 +26,7 @@ infographic:
     - {icon: bomb, value: "2,000 to 6,000", label: "mines Iran is estimated to hold"}
     - {icon: clock, value: "6 months", label: "clearance time Pentagon officials gave in April"}
   compare: {left: {title: "Before the war", value: "Under 0.25%", text: "war-risk premium, share of hull value"}, right: {title: "April 2026", value: "1% to 5%", text: "war-risk premium, share of hull value"}}
-  source: "Al Jazeera, S&P Global, CENTCOM; November 8, 2026"
+  source: "S&P Global, CENTCOM; November 8, 2026"
 seo:
   description: "How sea mines work, how many Iran may hold, why they are hard to clear and how they keep the Strait of Hormuz shut and insurance costly, as two more tankers are reported hit on November 8, 2026."
 sources:

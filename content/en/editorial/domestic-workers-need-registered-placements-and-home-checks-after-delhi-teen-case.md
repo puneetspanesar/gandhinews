@@ -46,7 +46,7 @@ verification:
     - "Recommendations are the desk's own. No claim is made about what the law says on domestic work by 14 to 17 year olds; not checked against the Act text in this run."
 ---
 
-A 16-year-old girl was freed from a house in Abul Fazal Enclave-II in southeast Delhi on November 3 and 4. She has told the Child Welfare Committee that she was **burned with a hot iron** on her back, hands and hips, wounded with a heated knife, and kept without food and water for three days. She says she worked from 6 am to 2 am. Shaheen Bagh police have registered a case. As of Saturday, no one had been arrested.
+A 16-year-old girl was freed from a house in southeast Delhi on November 3 and 4. She has told the Child Welfare Committee that she was **burned with a hot iron** on her back, hands and hips, wounded with a heated knife, and kept without food and water for three days. She says she worked from 6 am to 2 am. Delhi Police have registered a case. As of Saturday, no one had been arrested.
 
 Those are allegations, and the courts will test them. What is not in dispute is how she came to be there and how long it took anyone to notice.
 

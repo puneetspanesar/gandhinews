@@ -83,7 +83,16 @@ else:
         u_ = str(c['url']).split('?')[0]
         if (c.get('width') or 0) > 1920 and '/commons/' in u_ and '/thumb/' not in u_:
             u_ = u_.replace('/commons/', '/commons/thumb/', 1) + '/1920px-' + u_.split('/')[-1]
-        for t in range(4):
+        elif (c.get('width') or 9999) > 960 and '/commons/' in u_ and '/thumb/' not in u_:
+            # wider than 960 px or width unknown: try a standard thumbnail size (1280 or 960 px) first, the original only if that fails
+            sz = 1280 if (c.get('width') or 9999) > 1280 else 960
+            th = u_.replace('/commons/', '/commons/thumb/', 1) + f'/{sz}px-' + u_.split('/')[-1]
+            try:
+                data = urllib.request.urlopen(urllib.request.Request(th, headers={'User-Agent': 'GandhiNewsPhotoDesk/1.0 (noreply@anthropic.com)'}), timeout=120).read()
+                open(raw, 'wb').write(data); print('downloaded 1280 px thumbnail from Commons')
+            except Exception as e:
+                print('thumbnail download:', e)
+        for t in range(0 if os.path.exists(raw) else 4):
             try:
                 data = urllib.request.urlopen(urllib.request.Request(u_, headers={'User-Agent': 'GandhiNewsPhotoDesk/1.0 (noreply@anthropic.com)'}), timeout=120).read()
                 open(raw, 'wb').write(data); print('downloaded directly from Commons'); break

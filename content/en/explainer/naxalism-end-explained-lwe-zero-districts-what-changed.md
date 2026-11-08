@@ -8,12 +8,12 @@ topics: []
 title: "Naxalism explained: how India went from 126 affected districts to none, and what is left"
 standfirst: "On Diwali the Prime Minister told troops at Karanpur that this was the first Diwali when every district is free of Naxalism. What the Maoist insurgency was, how the count of affected districts fell to zero, and what the government still watches."
 published: 2026-11-08T17:50:00+05:30
-shortAnswer: "Left-wing extremism, or Naxalism, was an armed Maoist insurgency that began in West Bengal's Naxalbari in the early 1970s and spread across a belt of central and eastern India. The Home Ministry counted 126 affected districts in 2014 and 18 in September 2025. After a security review that followed the March 31, 2026 deadline Home Minister Amit Shah had set, the ministry told nine states on April 8 that no district now falls in the LWE-affected category. The armed leadership has been largely killed or has surrendered. The government now watches a list of former strongholds, including one 'district of concern', and warns that the ideology, not just the weapons, has to be answered."
+shortAnswer: "Left-wing extremism, or Naxalism, was an armed Maoist insurgency that began in West Bengal's Naxalbari in the early 1970s and spread across a belt of central and eastern India. The Home Ministry counted 126 affected districts in 2014 and 18 in September 2025. After a security review that followed the March 31, 2026, deadline Home Minister Amit Shah had set, the ministry told nine states on April 8 that no district now falls in the LWE-affected category. The armed leadership has been largely killed or has surrendered. The government now watches a list of former strongholds, including one 'district of concern', and warns that the ideology, not just the weapons, has to be answered."
 hero:
-  need: "Union Home Minister Amit Shah, who set the March 31, 2026 deadline to end Naxalism, and Bastar"
+  need: "Union Home Minister Amit Shah, who set the March 31, 2026, deadline to end Naxalism, and Bastar"
   suggested_source: "Amit Shah"
   subjects: ["Amit Shah", "Bastar district"]
-  alt: "Union Home Minister Amit Shah"
+  alt: "Infographic: the Home Ministry count of Naxal-affected districts"
   overlay:
     value: "From 126 districts to none"
 related: [modi-bastar-cobra-karanpur-diwali-naxalism-won, modi-heads-to-bastar-diwali-security-forces]
@@ -27,9 +27,9 @@ infographic:
     - {icon: users, value: "4,839", label: "Naxalites surrendered, 2024 to March 2026, per Shah"}
   timeline:
     - {date: "2004", text: "CPI (Maoist) is formed", icon: flag}
-    - {date: "Sep 2025", text: "Shah says only 18 districts remain affected", icon: map-pin}
-    - {date: "Mar 30, 2026", text: "Shah tells Lok Sabha India is 'virtually' Naxal-free", icon: gavel}
-    - {date: "Apr 8, 2026", text: "Ministry tells nine states no district is LWE-affected", icon: shield-check}
+    - {date: "September 2025", text: "Shah says only 18 districts remain affected", icon: map-pin}
+    - {date: "March 30, 2026", text: "Shah tells Lok Sabha India is 'virtually' Naxal-free", icon: gavel}
+    - {date: "April 8, 2026", text: "Ministry tells nine states no district is LWE-affected", icon: shield-check}
   source: "Home Ministry, PIB, Lok Sabha debate; November 8, 2026"
 seo:
   description: "How India's Maoist insurgency shrank from 126 affected districts in 2014 to none in April 2026, what Amit Shah and the Home Ministry said, the figures on surrenders and security camps, and what remains."
@@ -81,7 +81,7 @@ Its heartland was the so-called **Red Corridor**, which Amit Shah described in t
 **By districts the Home Ministry called "LWE-affected".** The yardstick matters because the numbers quoted differ. Modi said on Sunday that at its height Naxalism touched **more than 230 districts in nearly 20 states**. The ministry's own list of affected districts stood at 126 in 2014, and Shah said it had fallen to 18 by September 2025, with the most-affected districts down from 36 to six.
 
 ```timeline
-{"title":"The Home Ministry's count, step by step","items":[{"date":"2004","text":"CPI (Maoist) is formed, after which Shah says violence became more serious"},{"date":"2014","text":"126 districts on the ministry's affected list"},{"date":"Sep 28, 2025","text":"Shah repeats the March 31, 2026 deadline for ending armed Naxalism; 18 districts remain"},{"date":"Feb 19, 2026","text":"Bihar is declared free after the last armed Maoist, Suresh Koda, surrenders in Munger"},{"date":"Mar 30, 2026","text":"Shah tells the Lok Sabha India has 'virtually become Naxal-free'"},{"date":"Apr 8, 2026","text":"The ministry tells nine states that no district falls in the LWE-affected category"}]}
+{"title":"The Home Ministry's count, step by step","items":[{"date":"2004","text":"CPI (Maoist) is formed, after which Shah says violence became more serious"},{"date":"2014","text":"126 districts on the ministry's affected list"},{"date":"September 28, 2025","text":"Shah repeats the March 31, 2026, deadline for ending armed Naxalism; 18 districts remain"},{"date":"February 19, 2026","text":"Bihar is declared free after the last armed Maoist, Suresh Koda, surrenders in Munger"},{"date":"March 30, 2026","text":"Shah tells the Lok Sabha India has 'virtually become Naxal-free'"},{"date":"April 8, 2026","text":"The ministry tells nine states that no district falls in the LWE-affected category"}]}
 ```
 
 ## What changed on the ground?
