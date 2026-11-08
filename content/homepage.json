@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "modi-diwali-greetings-citizens-viksit-bharat",
-      "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
       "e20-petrol-explained-ethanol-blend-karnataka-row",
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court"
+      "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
     ],
     "live": {
       "title": {
@@ -34,28 +34,6 @@
   "briefing": {
     "items": [
       {
-        "link": "modi-diwali-greetings-citizens-viksit-bharat",
-        "lead": {
-          "en": "Diwali:",
-          "hi": "दिवाली:"
-        },
-        "text": {
-          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
-          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
-        }
-      },
-      {
-        "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
-        "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
-        },
-        "text": {
-          "en": "New Zealand votes with Luxon and Hipkins level in the final polls",
-          "hi": "न्यूज़ीलैंड में मतदान, आखिरी सर्वे में लक्सन और हिपकिंस बराबरी पर"
-        }
-      },
-      {
         "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
         "lead": {
           "en": "Fuel:",
@@ -64,28 +42,6 @@
         "text": {
           "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
           "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
-        }
-      },
-      {
-        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
-        },
-        "text": {
-          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
-          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
-        }
-      },
-      {
-        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "lead": {
-          "en": "Power:",
-          "hi": "बिजली:"
-        },
-        "text": {
-          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
-          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
         }
       },
       {
@@ -111,6 +67,17 @@
         }
       },
       {
+        "link": "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "Over 30 lakh diyas light up Saryu banks as Ayodhya marks 10th Deepotsav",
+          "hi": "10वें दीपोत्सव में सरयू तट पर 30 लाख से ज्यादा दीये जगमगाए"
+        }
+      },
+      {
         "link": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
         "lead": {
           "en": "Cricket:",
@@ -119,6 +86,39 @@
         "text": {
           "en": "Brar takes 4 for 30 as India beat New Zealand by four runs on DLS to lead 2-0",
           "hi": "ब्रार के 30 रन पर 4 विकेट, भारत ने डीएलएस से न्यूज़ीलैंड को 4 रन से हराया, सीरीज़ में 2-0 की बढ़त"
+        }
+      },
+      {
+        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
+          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
+        }
+      },
+      {
+        "link": "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "lead": {
+          "en": "Electoral rolls:",
+          "hi": "मतदाता सूची:"
+        },
+        "text": {
+          "en": "Yogi Adityanath's claim that 1.27 crore Hindus are missing from UP's voter lists is misleading",
+          "hi": "यूपी की मतदाता सूची से 1.27 करोड़ हिंदुओं के नाम गायब होने का योगी आदित्यनाथ का दावा भ्रामक"
+        }
+      },
+      {
+        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
+          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+      "id": "e20-ethanol-row-needs-joint-testing-and-published-results",
       "also": []
     },
     "list": [
-      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-      "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires"
     ],
     "also": [
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+      "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+      "jajpur-nalipur-house-fire-four-of-family-dead-odisha"
     ]
   },
   "startHere": [
@@ -374,9 +374,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-diwali-greetings-citizens-viksit-bharat",
         "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia"
+        "suvendu-adhikari-caa-citizenship-december-31-nadia",
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond"
       ],
       "lead": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
     },
@@ -405,7 +405,7 @@
       "list": [
         "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
         "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
+        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
       ]
     },
     {
@@ -636,17 +636,17 @@
       ]
     },
     {
-      "at": "2026-11-08T08:41:59+05:30",
+      "at": "2026-11-08T08:45:01+05:30",
       "ids": [
         "meghwal-diwali-bsf-bikaner-soldiers-family",
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
         "e20-petrol-explained-ethanol-blend-karnataka-row",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
         "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
         "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
+        "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+        "e20-ethanol-row-needs-joint-testing-and-published-results",
+        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
       ]
     }
   ],
