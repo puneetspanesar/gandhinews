@@ -11,6 +11,7 @@ Each run publishes 8 new news stories (at least 5; the homepage changes every he
 - 6 to 22: desks write the stories and place their main pictures; then `audit.py --new` on them.
 - 22 to 28: pictures the desks could not place (C), and the markets work.
 - 28: picture deadline. Every story still without a correct main picture gets its infographic with `--nophoto` (RUNBOOK.md rule 11a) and publishes; it stays out of the top five.
+  THE LEAD IS ALWAYS A PHOTOGRAPH (owner, November 8). A lead-worthy story (politics, national, states, world) never goes up on an infographic alone: mix 2-3 real photos of its people and place or thing with `python3 newsroom/scripts/lead_cover.py <id> "<alt>" "<Hindi alt>" <photo> <photo> [<photo>]` (library photos may be reused for a cover), Read the result, and it can lead. refresh_home.py and the build gate refuse an infographic lead.
 - 28 to 40: refresh_home and gate.sh (about 3 minutes), review_pack and the editor agent, apply_verdict, gate.sh again only if something was held or fixed.
 - by 45: publish.sh. If the gate still fails at 42, hold the failing stories and publish the rest. The run ALWAYS publishes, at the least a refreshed homepage and current markets figures, because the site must change every hour.
 

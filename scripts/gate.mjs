@@ -108,6 +108,8 @@ for (const page of ['dist/index.html', 'dist/hi/index.html']) {
   if (/line-clamp|text-overflow\s*:\s*ellipsis/.test(html)) fail('inline CSS clips text with dots', page);
 }
 const home = JSON.parse(read('content/homepage.json'));
+// owner's rule (November 8): the lead is always a photograph, never an infographic
+if (JSON.parse(read('content/photos.map.json'))[home.lead.id]?.graphic) fail('the homepage lead shows an infographic; it must be a photograph (make a 2-3 photo composite)', home.lead.id);
 for (const [lang, page] of [['en', 'dist/index.html'], ['hi', 'dist/hi/index.html']]) {
   const src = read(`content/${lang}/news/${home.lead.id}.md`) ?? '';
   const title = fm(src).title;
