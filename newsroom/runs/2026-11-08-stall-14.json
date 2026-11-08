@@ -1,0 +1,16 @@
+{
+ "run": "stall-14",
+ "start": "2026-11-08T14:54:00+05:30",
+ "end": "2026-11-08T15:04:44+05:30",
+ "summary": "expire U19 Nepal hold; Actions billing blocks photos",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): modi-bastar-cobra-karanpur-diwali-naxalism-won",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+ ],
+ "lead": "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing"
+}
