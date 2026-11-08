@@ -619,7 +619,7 @@ export async function homeModel(lang: Lang) {
       return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
     };
     const hl = headlines.map((x: any) => x.id);
-    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 3);
+    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 5);
     const second = take(hl.filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 5);
     const must = take(pool(['politics', 'states', 'world', 'economy', 'policy'], 24), 5);
