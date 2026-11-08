@@ -37,7 +37,7 @@ infographic:
   source: "Police statements as reported, November 7 to 8, 2026"
 related: [chawri-bazar-building-collapse-toll-six-four-arrested]
 seo:
-  description: "Paramjit Dhankhar, a former Tech Mahindra executive, was shot dead in Faridabad on November 6, 2026 after a parking and dog row. Neighbour Mohan Sharma was arrested on November 7."
+  description: "Paramjit Dhankhar, a former Tech Mahindra executive, was shot dead in Faridabad on November 6, 2026, after a parking and dog row. Neighbour Mohan Sharma was arrested on November 7."
 sources:
   - title: "Ex Tech Mahindra executive shot dead over dog, parking dispute during Diwali visit to Faridabad"
     publisher: "Business Today"

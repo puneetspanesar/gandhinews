@@ -31,7 +31,7 @@ infographic:
   source: "Prime Minister's posts on X and state government statements, November 8, 2026"
 related: [modi-heads-to-bastar-diwali-security-forces, modi-diwali-greetings-citizens-viksit-bharat]
 seo:
-  description: "PM Modi is celebrating Diwali on November 8, 2026 with security forces in Bastar, Chhattisgarh. The Karanpur CRPF camp is reported as the venue; CM Sai welcomed him."
+  description: "PM Modi is celebrating Diwali on November 8, 2026, with security forces in Bastar, Chhattisgarh. The Karanpur CRPF camp is reported as the venue; CM Sai welcomed him."
 sources:
   - title: "Diwali par Bastar pahunchenge PM Modi, CM Sai ne kiya abhinandan"
     publisher: "Vistaar News"

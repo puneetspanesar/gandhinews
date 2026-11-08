@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-heads-to-bastar-diwali-security-forces",
+    "id": "modi-karanpur-crpf-camp-bastar-diwali-sai-welcome",
     "overlay": {
       "kicker": {
         "en": "Politics / Armed forces",
         "hi": "राजनीति / सशस्त्र बल"
       },
       "value": {
-        "en": "Diwali with the jawans, in Bastar",
-        "hi": "जवानों संग दिवाली, बस्तर में"
+        "en": "Diwali with jawans in Bastar",
+        "hi": "बस्तर में जवानों संग दिवाली"
       },
       "text": {
         "en": "",
@@ -16,16 +16,13 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-      "railways-18000-festive-specials-trips-claim",
-      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-      "japan-aichi-shizuoka-earthquake-57-22-injured",
-      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence"
+      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+      "amit-shah-fir-sentence-within-three-years-claim",
+      "gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent",
+      "amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad",
+      "saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8"
     ],
     "live": {
       "title": {
@@ -37,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "link": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
         "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
-          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
+          "en": "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far",
+          "hi": "आंध्र परिषद चुनाव की गिनती में टीडीपी गठबंधन आगे, वाईएसआरसीपी को अब तक एक जेडपीटीसी सीट"
         }
       },
       {
-        "link": "railways-18000-festive-specials-trips-claim",
+        "link": "amit-shah-fir-sentence-within-three-years-claim",
         "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
+          "en": "Criminal law:",
+          "hi": "आपराधिक कानून:"
         },
         "text": {
-          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
-          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
+          "en": "Amit Shah's pledge of sentences within three years of an FIR is a target the law does not set",
+          "hi": "एफआईआर के तीन साल के भीतर सजा का अमित शाह का वादा एक लक्ष्य है, कानून में ऐसी सीमा नहीं"
         }
       },
       {
-        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "link": "gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "Gold:",
+          "hi": "सोना:"
         },
         "text": {
-          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
-          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
+          "en": "Gold sits near ₹1.44 lakh on Diwali, about ₹51,000 below its January peak, and buyers hold back",
+          "hi": "दिवाली पर सोना 1.44 लाख रुपये के आसपास, जनवरी के शिखर से करीब 51,000 रुपये नीचे, खरीदार थमे"
         }
       },
       {
-        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "link": "amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad",
         "lead": {
-          "en": "Japan:",
-          "hi": "जापान:"
+          "en": "Infrastructure:",
+          "hi": "बुनियादी ढांचा:"
         },
         "text": {
-          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
-          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
+          "en": "Shah to open ₹464 crore SG Highway elevated corridor in Ahmedabad on Monday",
+          "hi": "शाह सोमवार को अहमदाबाद में ₹464 करोड़ के एसजी हाईवे एलिवेटेड कॉरिडोर का उद्घाटन करेंगे"
         }
       },
       {
-        "link": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+        "link": "saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home",
-          "hi": "अभिषेक के घर के बाहर फिर तनाव, ममता ने कोलकाता पुलिस आयुक्त अजय नंदा से इस्तीफा मांगा"
+          "en": "Saudi coalition destroys two Houthi ballistic missiles fired at Riyadh as loud booms rattle the capital",
+          "hi": "सऊदी गठबंधन ने रियाद की ओर दागी दो हूती बैलिस्टिक मिसाइलें नष्ट कीं, राजधानी में गूंजे धमाके"
         }
       },
       {
-        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "link": "fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Space weather:",
+          "hi": "अंतरिक्ष मौसम:"
         },
         "text": {
-          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
-          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
+          "en": "Fast solar wind from a coronal hole keeps Earth's magnetic field unsettled on Sunday",
+          "hi": "कोरोनल होल से तेज सौर हवा, रविवार को भी अशांत रह सकता है पृथ्वी का चुंबकीय क्षेत्र"
         }
       },
       {
-        "link": "nadda-national-cancer-awareness-day-screening-appeal",
+        "link": "india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Nadda urges cancer screening on National Cancer Awareness Day",
-          "hi": "राष्ट्रीय कैंसर जागरूकता दिवस पर नड्डा की अपील, समय पर जांच कराएं"
+          "en": "India U19 are 70 for 4 after 20 overs against Pakistan in the Asia Cup",
+          "hi": "एशिया कप में पाकिस्तान के खिलाफ भारत अंडर-19 का स्कोर 20 ओवर के बाद 70/4"
         }
       },
       {
-        "link": "fox-completes-22-billion-roku-acquisition",
+        "link": "faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested",
         "lead": {
-          "en": "Media:",
-          "hi": "मीडिया:"
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
         },
         "text": {
-          "en": "Fox completes $22 billion Roku takeover, months ahead of schedule",
-          "hi": "फॉक्स ने तय समय से काफी पहले पूरा किया 22 अरब डॉलर का रोकू अधिग्रहण"
+          "en": "Former Tech Mahindra executive shot dead in Faridabad parking row; neighbour arrested",
+          "hi": "फरीदाबाद में पार्किंग विवाद पर टेक महिंद्रा के पूर्व अधिकारी की गोली मारकर हत्या, पड़ोसी गिरफ्तार"
         }
       }
     ]
@@ -189,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+      "id": "fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8",
       "also": []
     },
     "list": [
-      "nadda-national-cancer-awareness-day-screening-appeal",
-      "fox-completes-22-billion-roku-acquisition",
-      "modi-diwali-greetings-citizens-viksit-bharat",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+      "india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs",
+      "faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested",
+      "delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450",
+      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
     ],
     "also": [
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court"
+      "wb-suvendu-police-attacks-asansol-recruitment-29000",
+      "kolkata-civic-poll-clock-december-8-wards-case"
     ]
   },
   "startHere": [
@@ -278,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "amit-shah-fir-sentence-within-three-years-claim",
       "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "railways-18000-festive-specials-trips-claim"
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
     ]
   },
   "explained": [
@@ -361,11 +358,11 @@
     }
   ],
   "opinion": [
+    "kolkata-civic-poll-clock-december-8-wards-case",
     "e20-ethanol-row-needs-joint-testing-and-published-results",
     "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-    "bail-granted-is-not-freedom-release-the-under-trials"
+    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft"
   ],
   "sections": [
     {
@@ -375,15 +372,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-heads-to-bastar-diwali-security-forces",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
+        "modi-diwali-greetings-citizens-viksit-bharat"
       ],
-      "lead": "modi-heads-to-bastar-diwali-security-forces"
+      "lead": "modi-karanpur-crpf-camp-bastar-diwali-sai-welcome"
     },
     {
       "section": "economy",
-      "lead": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+      "lead": "gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent",
       "module": {
         "type": "markets",
         "indicators": [
@@ -394,28 +391,28 @@
         ]
       },
       "list": [
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
         "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-        "fox-completes-22-billion-roku-acquisition",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares"
+        "fox-completes-22-billion-roku-acquisition"
       ]
     },
     {
       "section": "states",
-      "lead": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+      "lead": "faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested",
       "list": [
-        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
+        "delhi-aqi-384-diwali-morning-cpcb-6am-punjabi-bagh-450",
+        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+        "meghwal-diwali-bsf-bikaner-soldiers-family"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "lead": "amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad",
       "list": [
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+        "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
     },
     {
@@ -430,30 +427,30 @@
   "desks": [
     {
       "section": "world",
-      "lead": "japan-aichi-shizuoka-earthquake-57-22-injured",
+      "lead": "saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8",
       "list": [
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
         "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
       ]
     },
     {
       "section": "science",
-      "lead": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "lead": "fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8",
       "list": [
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "navy-receives-amini-anti-submarine-shallow-water-craft"
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "nadda-national-cancer-awareness-day-screening-appeal"
       ]
     },
     {
       "section": "sports",
-      "lead": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+      "lead": "india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs",
       "list": [
+        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
       ]
     }
   ],
@@ -532,20 +529,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T19:17:46+05:30",
-      "ids": [
-        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-        "amit-shah-presidents-police-colour-uttarakhand-police",
-        "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "railways-18000-festive-specials-trips-claim",
-        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "fox-completes-22-billion-roku-acquisition",
-        "europe-bomb-threat-wave-flights-broadcasters-third-day"
-      ]
-    },
     {
       "at": "2026-11-07T20:56:47+05:30",
       "ids": [
@@ -649,6 +632,20 @@
         "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "nadda-national-cancer-awareness-day-screening-appeal",
         "fox-completes-22-billion-roku-acquisition"
+      ]
+    },
+    {
+      "at": "2026-11-08T12:28:01+05:30",
+      "ids": [
+        "modi-karanpur-crpf-camp-bastar-diwali-sai-welcome",
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "amit-shah-fir-sentence-within-three-years-claim",
+        "gold-diwali-sunday-1-44-lakh-dhanteras-sales-ludhiana-down-40-per-cent",
+        "amit-shah-iscon-sarkhej-elevated-corridor-monday-ahmedabad",
+        "saudi-intercepts-two-houthi-ballistic-missiles-riyadh-booms-november-8",
+        "fast-solar-wind-coronal-hole-geomagnetic-storm-aurora-november-8",
+        "india-u19-pakistan-asia-cup-india-70-for-4-after-20-overs",
+        "faridabad-ex-tech-mahindra-executive-shot-dead-parking-dog-row-neighbour-arrested"
       ]
     }
   ],
