@@ -6,7 +6,7 @@ import HOME from '../../content/homepage.json';
 import PHOTO_MAP from '../../content/photos.map.json';
 import MARKETS_DATA from '../../content/data/markets.json';
 // A story whose picture is not ready yet never goes on the homepage (no grey camera boxes).
-const hasPic = (id?: string) => !!id && !!(PHOTO_MAP as Record<string, any>)[id];
+const hasPic = (id?: string) => !!id && !!(PHOTO_MAP as Record<string, any>)[id] && !(PHOTO_MAP as Record<string, any>)[id].nohome;   // nohome: a broken cover (the same person twice) stays off the homepage
 import { content, urlOf, kicker, fmtShort, labelParts, topicLink, iconFor, type Entry } from './site';
 import { DATA, tr } from './data';
 import { verdictKey, VERDICT_ORDER, type Lang } from './i18n';
@@ -650,7 +650,8 @@ export async function homeModel(lang: Lang) {
     };
     const hl = headlines.map((x: any) => x.id);
     const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 4);
-    const second = take(hl.filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
+    // the middle column always opens with a real photo: from the headlines, else the newest pictured news of the last 24 hours
+    const second = take([...hl, ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)].filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 5);
     const must = take(pool(['politics', 'states', 'world', 'economy', 'policy'], 24), 5);
     // ---- news-dense blocks (owner, November 8): headline lists grouped the way readers look for news

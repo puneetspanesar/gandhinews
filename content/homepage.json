@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+    "id": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
     "overlay": {
       "kicker": {
-        "en": "Politics / Internal security",
-        "hi": "राजनीति / आंतरिक सुरक्षा"
+        "en": "Policy / Defence",
+        "hi": "नीति / रक्षा"
       },
       "value": {
-        "en": "First Diwali free of Naxalism, Modi says",
-        "hi": "नक्सलमुक्त पहली दिवाली: मोदी"
+        "en": "Diwali with the Trishakti Corps",
+        "hi": "त्रिशक्ति कोर के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -17,79 +17,25 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "modi-advani-99th-birthday-nation-first-foundation"
+      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "meghwal-diwali-bsf-bikaner-soldiers-family"
     ],
     "relatedBeside": [
-      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-      "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court",
-      "railways-18000-festive-specials-trips-claim"
+      "india-u19-pakistan-asia-cup-result-zahoor-century",
+      "modi-advani-99th-birthday-nation-first-foundation",
+      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
     ],
     "live": {
       "title": {
-        "en": "Internal security",
-        "hi": "आंतरिक सुरक्षा"
+        "en": "Defence",
+        "hi": "रक्षा"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
-          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
-        }
-      },
-      {
-        "link": "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Counting rice every Friday will not cool prices on its own. The Centre must put its cheap grain on southern shelves, and show what the count finds",
-          "hi": "हर शुक्रवार चावल गिनने से अपने आप दाम नहीं घटेंगे। केंद्र अपना सस्ता अनाज दक्षिण की दुकानों तक पहुंचाए और बताए कि गिनती में क्या मिला"
-        }
-      },
-      {
-        "link": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "lead": {
-          "en": "Aviation security:",
-          "hi": "विमानन सुरक्षा:"
-        },
-        "text": {
-          "en": "IndiGo Bengaluru-Lucknow flight turns back after hijack threat note found in toilet",
-          "hi": "शौचालय में अपहरण की धमकी का नोट मिला, इंडिगो की बेंगलुरु-लखनऊ उड़ान लौटी"
-        }
-      },
-      {
-        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "lead": {
-          "en": "Power:",
-          "hi": "बिजली:"
-        },
-        "text": {
-          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
-          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
-        }
-      },
-      {
-        "link": "railways-18000-festive-specials-trips-claim",
-        "lead": {
-          "en": "Railways:",
-          "hi": "रेलवे:"
-        },
-        "text": {
-          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
-          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
-        }
-      },
       {
         "link": "india-u19-pakistan-asia-cup-result-zahoor-century",
         "lead": {
@@ -113,14 +59,69 @@
         }
       },
       {
-        "link": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+        "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+        "lead": {
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
+        },
+        "text": {
+          "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
+          "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
+        }
+      },
+      {
+        "link": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi: 16-year-old domestic worker rescued, says she was burned with a hot iron; no arrest yet",
+          "hi": "दिल्ली: 16 साल की घरेलू सहायिका छुड़ाई गई, गर्म प्रेस से जलाने का आरोप; अभी कोई गिरफ्तारी नहीं"
+        }
+      },
+      {
+        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
+          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
+        }
+      },
+      {
+        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "lead": {
+          "en": "Japan:",
+          "hi": "जापान:"
+        },
+        "text": {
+          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
+          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
+        }
+      },
+      {
+        "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083",
+          "hi": "आज मुहूर्त ट्रेडिंग: संवत 2083 की शुरुआत में दोपहर 2:20 से 3:30 बजे तक दिवाली सत्र"
+        }
+      },
+      {
+        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
         "lead": {
           "en": "Middle East:",
           "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Two tankers burn after hitting mines near Hormuz as loud blasts rock Riyadh",
-          "hi": "होर्मुज के पास बारूदी सुरंग से दो टैंकरों में आग, रियाद में तेज धमाके"
+          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
+          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
         }
       }
     ]
@@ -188,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-u19-pakistan-asia-cup-result-zahoor-century",
+      "id": "japan-aichi-shizuoka-earthquake-57-22-injured",
       "also": []
     },
     "list": [
-      "modi-advani-99th-birthday-nation-first-foundation",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
+      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti"
     ],
     "also": [
-      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-      "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
+      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
     ]
   },
   "startHere": [
@@ -374,9 +375,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-        "modi-heads-to-bastar-diwali-security-forces",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
       ],
       "lead": "modi-advani-99th-birthday-nation-first-foundation"
     },
@@ -496,6 +497,18 @@
     {
       "icon": "calendar-blank",
       "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Muhurat trading on NSE and BSE, 2:20 pm to 3:30 pm IST",
+        "hi": "एनएसई और बीएसई पर मुहूर्त ट्रेडिंग, दोपहर 2:20 से 3:30 बजे तक"
+      },
+      "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -519,22 +532,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T10:50:16+05:30",
-      "ids": [
-        "modi-heads-to-bastar-diwali-security-forces",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "railways-18000-festive-specials-trips-claim",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "fox-completes-22-billion-roku-acquisition"
-      ]
-    },
     {
       "at": "2026-11-08T13:12:26+05:30",
       "ids": [
@@ -633,6 +630,22 @@
         "india-u19-pakistan-asia-cup-result-zahoor-century",
         "modi-advani-99th-birthday-nation-first-foundation",
         "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+      ]
+    },
+    {
+      "at": "2026-11-08T21:10:31+05:30",
+      "ids": [
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+        "meghwal-diwali-bsf-bikaner-soldiers-family",
+        "india-u19-pakistan-asia-cup-result-zahoor-century",
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
       ]
     }
   ],

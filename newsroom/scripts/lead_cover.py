@@ -2,6 +2,7 @@
 
 The homepage lead is ALWAYS a photograph, never an infographic. When no one photo fits, mix 2-3 photos of the people,
 place or thing in the story (e.g. the Chief Minister + the border fence) into one 16:10 cover.
+Every panel shows a DIFFERENT person, place or thing: never two photos of the same person (owner, November 8).
 
 Usage (repo root):
   python3 newsroom/scripts/lead_cover.py <story-id> "<English alt>" "<Hindi alt>" <photo> <photo> [<photo>]
@@ -18,7 +19,7 @@ sid, alt, alt_hi, *srcs = sys.argv[1:]
 assert 2 <= len(srcs) <= 3, 'give 2 or 3 photos'
 M = json.load(open('content/photos.map.json')); P = json.load(open('content/photos.json'))
 W, H, G = 1280, 800, 6
-parts, credits, lic = [], [], []
+parts, credits, lic, seen = [], [], [], []
 for s in srcs:
     sl = None
     if ':' in s and ',' in s.rsplit(':', 1)[1]: s, r = s.rsplit(':', 1); sl = [float(x) for x in r.split(',')]
@@ -31,6 +32,18 @@ for s in srcs:
         for c in e['credit'].replace('Photos: ', '').replace('Photo: ', '').split('; '):
             if c not in credits: credits.append(c)
         if e.get('licence') and e['licence'] not in lic: lic.append(e['licence'])
+    seen.append((s, (e or {}).get('alt', '')))
+# Owner's rule (November 8): every panel shows a DIFFERENT person, place or thing. Two portraits of the same person side
+# by side make no sense: pair the person with the place or the event (e.g. Modi + a CoBRA camp), or use one photo.
+# A panel whose own caption names the same person in a different scene passes only with SAME_PERSON_OK=1, after looking.
+import re as _re
+_names = lambda t: set(_re.findall(r'\b[A-Z][a-z]+ [A-Z][a-z]+\b', t or ''))
+for n1 in range(len(seen)):
+    for n2 in range(n1 + 1, len(seen)):
+        (a1, t1), (a2, t2) = seen[n1], seen[n2]
+        assert a1 != a2, f'{a1} twice: every panel must be a different picture'
+        both = _names(t1) & _names(t2)
+        assert not both or os.environ.get('SAME_PERSON_OK') == '1', f'{a1} and {a2} both show {", ".join(sorted(both))}: every panel must show a different person, place or thing'
 # widths in proportion to each panel's natural width at full height, so nothing is stretched or over-zoomed
 nat = [im.width * H / im.height for im in parts]
 avail = W - G * (len(parts) - 1)

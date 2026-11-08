@@ -41,6 +41,8 @@ const pc = (v: number) => `${v > 0 ? '+' : v < 0 ? '−' : ''}${Math.abs(v).toFi
 const [sm1, ...smRest] = D.states;
 const stMid = smRest.slice(0, 4), stRight = smRest.slice(4, 9);
 const [eBig, ...eList] = D.econ;
+// the middle and right business columns stay level: a short list puts one headline under the pictured story
+const eR = eList.length >= 7 ? 5 : Math.max(3, eList.length - 1);
 const [op1, ...opRest] = D.opinion;
 const NAME: Record<string, string> = { world: G.world, sports: G.sports, science: G.science, policy: hi ? 'नीति' : 'Policy', politics: hi ? 'राजनीति' : 'Politics' };
 const cols = D.cols.map((c: any) => [c.key, NAME[c.key], c.items]);
@@ -166,8 +168,8 @@ const IND = [...(await import('node:fs')).readFileSync('public/maps/india.svg', 
           {eBig.st && <span class="d-lab">{eBig.st}</span>}
           <h3 class="d-h3l">{eBig.d.title}</h3>
           <p class="d-p">{whole(eBig.d.standfirst, 140)}</p>
-        </a>{eList.slice(5).map((x: any) => <a class="d-li" href={x.href}>{x.d.title}</a>)}</div>}
-        <div class="d-pl">{eList.slice(0, 5).map((x: any, i: number) => <a class={i === 0 ? 'd-li d-li0' : 'd-li'} href={x.href}>{x.d.title}</a>)}</div>
+        </a>{eList.slice(eR).map((x: any) => <a class="d-li" href={x.href}>{x.d.title}</a>)}</div>}
+        <div class="d-pl">{eList.slice(0, eR).map((x: any, i: number) => <a class={i === 0 ? 'd-li d-li0' : 'd-li'} href={x.href}>{x.d.title}</a>)}</div>
       </div>
     </section>
   )}

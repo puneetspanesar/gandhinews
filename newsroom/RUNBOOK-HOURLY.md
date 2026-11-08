@@ -40,3 +40,8 @@ Market hours (9:15 am to 3:30 pm, Monday to Friday): current index levels, chang
 ## 5. Homepage, gate, editor, publish
 RUNBOOK.md sections D and E (gate.sh, the editor, apply_verdict, publish.sh). `--lead <id>` when the biggest story of the front-page check is not the lead (refresh_home.py replaces a held, over-8-hour, clock-stale or markets lead by itself); `--pin <id> ...` for BIG STORIES. Every headline must differ from last hour's: refresh_home.py does this by itself; a nation- or world-changing story stays only when this run added new facts to it (new `updated:`) and passes it with `--critical <id>`, or as a new development story. During a big election count, update content/data/results.json every run from sources read in this run (`active: false` 48 hours after counting ends).
 Run name for the lock and the record: `hourly-HH`, HH the hour the run started. Message the owner (SendUserMessage) only when a story was held or the site could not be deployed.
+
+## Owner's rules, November 8 (evening)
+- The top of the homepage is the newest news. Lead under 6 hours old; beside the lead, news under 12 hours old, newest first. Fresh news (under 6 hours) may stay in the headlines the next hour and moves down as newer stories arrive; the lead still changes every hour. refresh_home.py and check_fresh.py enforce this.
+- A lead cover (lead_cover.py) never shows the same person twice. Pair the person with the place or event, or use one photo. lead_cover.py refuses panels whose captions name the same person.
+- A broken cover is kept off the homepage with `"nohome": "<reason>"` on its photos.map.json entry; remove the flag once the story has a proper photo.

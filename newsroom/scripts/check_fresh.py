@@ -1,8 +1,8 @@
 """Counter check for the homepage. Fails (exit 1) on any breach of the owner's homepage rules; prints every problem.
 Rules checked, mechanically:
-  lead: a published news story under 8 hours old, never a markets story, with a real photo (not an infographic)
+  lead: a published news story under 6 hours old, never a markets story, with a real photo (not an infographic)
   every homepage id exists in English and Hindi and has a picture (a held or deleted story never stays on the page)
-  live band, beside the lead, top stories, briefing: news from the last 24 hours
+  beside the lead: news under 12 hours old.  live band, top stories, briefing: news from the last 24 hours
   headlines: at most one markets story, at most two per section in the top eight, no two neighbours on the same subject,
     no photo shown twice
   clock-pinned figures ("by 10 am", "सुबह 10 बजे तक") in titles, standfirsts and the lead overlay, English and Hindi:
@@ -54,7 +54,7 @@ else:
     # over 8 hours only happens when no fresher national, state, world or economy story with a photo exists (refresh_home.py
     # always tries those first): recorded as a breach, so an important story never loses to a match result
     if P[lead]['type'] == 'news' and age(lead) > 16: flag('lead is over 16 hours old', lead, age(lead))
-    elif P[lead]['type'] == 'news' and age(lead) > 8: soft.append(('lead is over 8 hours old: the next writing run must publish a fresh lead story', lead, age(lead)))
+    elif P[lead]['type'] == 'news' and age(lead) > 6: soft.append(('lead is over 6 hours old: the next writing run must publish a fresh lead story', lead, age(lead)))
     if is_markets(lead, P[lead]): flag('markets story as the lead', lead)
     if P[lead].get('section') in ('sports', 'science', 'tech'): soft.append((f'a {P[lead].get("section")} story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news)', lead, 0))
     if (M.get(lead) or {}).get('graphic'): soft.append(('lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one', lead, 0))
@@ -69,8 +69,11 @@ for name, part in [('live band', h['lead'].get('relatedBelow')), ('beside lead',
     for i in ids(part):
         if P[i]['type'] == 'news' and age(i) > 24: flag(f'{name}: over 24 hours old', i, age(i))
 
+# Owner's rule (November 8): beside the lead is the newest news. Nothing over 12 hours old, no editorial or explainer there
+# while fresher news exists (refresh_home.py orders them newest first).
 for i in ids(h['lead'].get('relatedBeside')):
-    if (M.get(i) or {}).get('graphic'): soft.append(('beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first)', i, 0))
+    if P[i]['type'] != 'news': flag('beside the lead: not a news story (the top of the page is the newest news)', i)
+    elif age(i) > 12: flag('beside the lead: over 12 hours old (the top of the page is the newest news)', i, age(i))
 
 for blk in (h.get('sections') or []) + (h.get('desks') or []):
     for i in ids([blk.get('lead'), blk.get('list')]):
@@ -122,6 +125,7 @@ if ph:
         if i not in P: continue
         u = P[i].get('updated')
         if i in crit and u and u > pt: continue
+        if i != (ph.get('lead') or {}).get('id') and P[i]['type'] == 'news' and age(i) < 6: continue   # fresh news stays and moves down (owner, November 8)
         why = f'already in the headlines at {pt:%H:%M}: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical)'
         # the lead can only change to a new story: when none exists the run still publishes (breach recorded), never freezes
         (soft.append((why, i, 0)) if i == h['lead']['id'] else flag(why, i))
@@ -134,13 +138,13 @@ _fc = sorted([age(i) for i in P if P[i]['type'] == 'factcheck']) or [999]
 if _fc[0] > 30: soft.append(('fact check: no new fact check in over 30 hours (the long-form runs must write one each)', '', _fc[0]))
 if len(h.get('weekAhead') or []) < 2: flag('the week ahead band has fewer than 2 items (refresh_home.py builds it; add `upcoming:` blocks to previews)', 'weekAhead')
 
-# The top five (the lead and the four beside it) never repeat within 6 hours; a story that led never leads again.
+# A story that led never leads again; the previous hour's headlines never repeat (checked above).
 crit = set(h.get('critical') or [])
 for t, hp in recent_homepages(now, 6):
     for i in set(core_ids(h)) & set(core_ids(hp)):
         u = (P.get(i) or {}).get('updated')
         if i in crit and u and u > t: continue
-        soft.append((f'in the top five at {t:%H:%M} as well: the lead and the four beside it never repeat within 6 hours', i, 0))
+        if i == h['lead']['id']: soft.append((f'led or sat beside the lead at {t:%H:%M} as well', i, 0))   # beside-the-lead repeats over 6 hours are fine (owner, November 8: freshness first)
     if h['lead']['id'] == (hp.get('lead') or {}).get('id') and h['lead']['id'] not in crit:
         soft.append((f'led at {t:%H:%M} already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical)', h['lead']['id'], 0))
 soft = list({(n, i): (n, i, x) for n, i, x in soft}.values())

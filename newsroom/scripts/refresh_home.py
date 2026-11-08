@@ -17,7 +17,8 @@ least 40 minutes old, kept in homepage.json headlineHistory and checked independ
 A new story on the same running subject (a development, with its own id) is a new headline and is fine.
 
 What it does, mechanically, with the owner's balance rules:
-  headlines (beside the lead, top stories, briefing): pictured news from the last 24 hours, newest first,
+  lead: under 6 hours old. beside the lead: the newest news under 12 hours, newest first (owner, November 8).
+  headlines (top stories, briefing): news from the last 24 hours, newest first,
     at most ONE markets story, at most TWO per section in the top eight, no two stories on the same subject.
   live band: keeps items under 24 hours old, tops up with the newest same-topic stories.
   section and desk lists: newest pictured news of that section.  startHere: newest explainers.  opinion: newest editorials.
@@ -47,7 +48,7 @@ for lang in ('en', 'hi'):
         else:
             A.setdefault('_hi', {})[d['id']] = d
 HI = A.pop('_hi', {})
-ok = lambda i: i in A and i in PIC and i in HI
+ok = lambda i: i in A and i in PIC and i in HI and not PIC[i].get('nohome')   # nohome: a broken cover (e.g. the same person twice) stays off the homepage
 def clocked(i):
     for lang, d in (('en', A.get(i)), ('hi', HI.get(i))):
         if not d: continue
@@ -86,9 +87,13 @@ for e in hist:   # this homepage's own record too (covers a run that has not rea
 def upd(i):
     t = A[i].get('updated')
     return (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
+prev_lead = (prev or {}).get('ids', [None])[0] if prev else None
 def allowed(i):
     if i in a.drop: return False
     if i not in blocked: return True
+    # Owner's rule (November 8, replaces "every headline changes every hour" for fresh news): news under 6 hours old
+    # stays in the headlines and moves down as newer stories arrive. The lead still changes every hour.
+    if i != prev_lead and i in A and A[i]['type'] == 'news' and age(i) < 6: return True
     return i in a.critical and upd(i) is not None and upd(i) > _at(prev)
 for i in a.critical:
     if i in blocked and not allowed(i): print(f'{i}: --critical needs an update since {_at(prev):%H:%M} (set `updated:` and add the new facts), or a new development story')
@@ -113,13 +118,13 @@ if _pending_lead:
     if not allowed(a.lead): sys.exit(f'{a.lead} led or was in the headlines at {_at(prev):%H:%M}: headlines change every hour (update it and pass --critical, or lead with a new story)')
     set_lead(a.lead)
 lead = L['id']
-# under 7 hours, so it is still under 8 an hour later; never markets, never an infographic, never a stale clock figure
-fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
+# under 5 hours, so it is still under 6 an hour later (owner, November 8: no old story at the top); never markets, never an infographic, never a stale clock figure
+fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 5 * 3600 and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
 # Owner's rule (November 7): a match result or a science story never leads by itself; only the run's front-page check
 # can put one up there (--lead, a BIG STORY such as an India World Cup win). The lead is national, state, world or economy news.
 NOLEAD = {'sports', 'science', 'tech'}
 lead_ok = lambda d: fresh_photo(d) and d.get('section') not in NOLEAD and (PIC.get(d['id'], {}).get('srcWidth') or 9999) >= 900  # a small photo never fills the lead
-bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
+bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 6 and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
     same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
@@ -157,7 +162,10 @@ pool = [i for i in a.pin if ok(i) and age(i) < 24] + newest(lambda d: d['type'] 
 # Explainers, editorials and fact checks of the last 48 hours fill what news cannot, so every headline slot changes every hour
 pool += newest(lambda d: d['type'] in ('explainer', 'editorial', 'factcheck') and (now - d['_t']).total_seconds() < 48 * 3600)
 pins = [i for i in a.pin if ok(i)]
-pool = pins + sorted([i for i in dict.fromkeys(pool) if i not in pins], key=lambda i: shown.get(i, 0))   # stable: newest first within each count
+# Owner's rule (November 8): the top of the page is the newest news. News comes first, newest first (the previous hour's
+# headlines are already excluded by allowed()), then explainers, editorials and fact checks; a story never moves up just
+# because it has been shown less (that put 38-hour-old items beside the lead).
+pool = pins + [i for i in dict.fromkeys(pool) if i not in pins]
 taken, secs, mk, used_words = [], {}, 0, set(words(lead))
 for i in pool:
     if i == lead or i in taken or i in rel or clocked(i) or not allowed(i): continue
@@ -168,10 +176,10 @@ for i in pool:
     taken.append(i); secs[s] = secs.get(s, 0) + 1; used_words |= words(i); mk += bool(is_markets(i, A.get(i)))
     if len(taken) >= 16: break
 nb = len(L.get('relatedBeside') or []) or 4
-# the four beside the lead: never in the lead or beside it in the last 6 hours (critical updates excepted)
-fresh_core = [i for i in taken if i not in core6 or (i in a.critical and allowed(i))]
-# a story showing an infographic never sits beside the lead while a pictured story is available (owner's rule: photos at the top)
-fresh_core = [i for i in fresh_core if not PIC.get(i, {}).get('graphic')] + [i for i in fresh_core if PIC.get(i, {}).get('graphic')]
+# Owner's rule (November 8): beside the lead goes the NEWEST news, under 12 hours old, newest first (not shown the previous
+# hour). Never an older pictured story ahead of a fresher one, never an editorial or explainer while fresh news exists.
+fresh_core = sorted([i for i in taken if A[i]['type'] == 'news' and age(i) < 12], key=lambda i: A[i]['_t'], reverse=True)
+fresh_core += sorted([i for i in taken if i not in fresh_core and A[i]['type'] == 'news' and age(i) < 24], key=lambda i: A[i]['_t'], reverse=True)
 # the stories beside the lead are all in the top eight: never three of one section among them
 beside, bsec = [], {}
 for i in fresh_core:
@@ -179,7 +187,7 @@ for i in fresh_core:
     if bsec.get(s_, 0) >= 2: continue
     beside.append(i); bsec[s_] = bsec.get(s_, 0) + 1
     if len(beside) >= nb: break
-if len(beside) < nb: print(f'WARNING: only {len(beside)} stories not in the top five in the last 6 hours: publish more stories this run'); beside += [i for i in taken if i not in beside][:nb - len(beside)]
+if len(beside) < nb: print(f'WARNING: only {len(beside)} news stories under 24 hours not shown last hour: publish more stories this run'); beside += [i for i in taken if i not in beside][:nb - len(beside)]
 L['relatedBeside'] = beside
 rest = [i for i in taken if i not in beside]
 taken = beside + rest
