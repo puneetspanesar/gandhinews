@@ -28,10 +28,10 @@ infographic:
   stats:
     - {icon: airplane-takeoff, value: "5:50 pm", label: "departure from Bengaluru"}
     - {icon: users, value: "178", label: "passengers on board, as reported"}
-  source: "IndiGo statement, November 7, 2026"
+  source: "Reports, November 7, 2026"
 related: []
 seo:
-  description: "IndiGo flight 6E 451 from Bengaluru to Lucknow returned on November 7, 2026 after a hijack threat note was found in a toilet; a full emergency was declared at the airport."
+  description: "IndiGo flight 6E 451 from Bengaluru to Lucknow returned on November 7, 2026, after a hijack threat note was found in a toilet; a full emergency was declared at the airport."
 sources:
   - title: "Full emergency declared at Bengaluru Airport after hijack threat note found on Lucknow-bound IndiGo flight"
     publisher: "Daily Prabhat (ANI)"

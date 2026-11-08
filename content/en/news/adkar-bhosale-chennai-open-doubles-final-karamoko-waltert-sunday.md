@@ -6,7 +6,7 @@ section: sports
 format_label: "Sports / Tennis"
 topics: []
 title: "Adkar and Bhosale meet Swiss pair Karamoko and Waltert in Chennai Open doubles final"
-standfirst: "The all-Indian pair play for the title on Sunday, November 8, after becoming the first Indians to reach a doubles final on the main WTA Tour."
+standfirst: "The all-Indian pair play for the title on Sunday, November 8, after becoming the first all-Indian pair to reach a doubles final on the main WTA Tour."
 published: 2026-11-08T06:12:37+05:30
 location: Chennai
 keyPoints:

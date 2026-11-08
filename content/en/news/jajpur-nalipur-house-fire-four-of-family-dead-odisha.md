@@ -6,13 +6,13 @@ section: states
 format_label: "States / Odisha"
 topics: []
 title: "Four of a family, two of them children, die in Jajpur house fire on Diwali eve"
-standfirst: "The blaze tore through an asbestos-roofed house at Nalipur in Odisha's Jajpur district on Saturday night. Another child was rushed to hospital with serious burns."
+standfirst: "The blaze tore through an asbestos-roofed house at Nalipur in Odisha's Jajpur district on Saturday night. Another member of the family was rushed to hospital with serious burns."
 published: 2026-11-08T06:20:00+05:30
 location: Jajpur, Odisha
 keyPoints:
   - "**Four members of one family** died when their house caught fire at Nalipur village in Jajpur around 8 pm on Saturday."
   - "The dead include a **10-year-old girl and an eight-month-old boy**, along with two women of the household."
-  - "Police have **not yet found the cause**, and a child with serious burns is being treated at Badachana."
+  - "Police have **not yet found the cause**, and another family member with serious burns is being treated at Badachana."
 hero:
   need: "A house gutted by fire in rural Odisha, with firefighters and villagers at the site"
   suggested_source: "House fire India"
