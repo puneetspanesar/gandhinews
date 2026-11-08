@@ -7,7 +7,7 @@ format_label: "Sports / Cricket"
 topics: []
 title: "India A declare on 464 for 5 and leave New Zealand A 36 for 2 in Lincoln"
 standfirst: "Tilak Varma made 81 not out, Dhruv Jurel 71 and Washington Sundar 50 not out on day two of the third unofficial Test, and Prasidh Krishna then took two wickets for 12 runs."
-published: "2026-11-09T00:15:00+05:30"
+published: 2026-11-09T00:15:00+05:30
 updated: 2026-11-09T00:15:00+05:30
 location: Lincoln, New Zealand
 keyPoints:

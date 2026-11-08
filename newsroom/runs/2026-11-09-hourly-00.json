@@ -1,0 +1,16 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-09T00:04:54+05:30",
+ "end": "2026-11-09T00:35:18+05:30",
+ "summary": "Modi Bastar speech and Congress reply lead; India A 464 declared in Lincoln",
+ "new": [
+  "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
+  "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"
+}

@@ -69,7 +69,7 @@ verification:
     - "Shah's March 30 reply (two districts left) and Modi's 'every district' remark of November 8 differ; both stated, not reconciled, see our earlier story."
 ---
 
-Prime Minister Narendra Modi told security personnel at the CoBRA Operations Base in Karanpur, Bastar, on Diwali evening that **no CRPF jawan has died on duty in the past year**, which he called the first such year in 47 years. The text of the address, released by the Press Information Bureau at 2:53 pm on Sunday, November 8, 2026, also carries the figures he used to argue that the Maoist threat is over, and an attack on what he called "intellectual Naxals" that drew a sharp reply from the Congress the same afternoon.
+Prime Minister Narendra Modi told security personnel at the CoBRA Operations Base in Karanpur, Bastar, on Diwali, Sunday, November 8, that **no CRPF jawan has died on duty in the past year**, which he called the first such year in 47 years. The text of the address, released by the Press Information Bureau at 2:53 pm that day, also carries the figures he used to argue that the Maoist threat is over, and an attack on what he called "intellectual Naxals" that drew a sharp reply from the Congress later the same day.
 
 ## What the address says
 
@@ -108,7 +108,7 @@ Before the address he paid tribute to CRPF personnel who died, at the camp memor
 
 Congress general secretary Jairam Ramesh answered in a post on X at about 5 pm. "The Prime Minister has not spared the nation even on Diwali day his trademark abuse," he wrote. "This is a brazen assault on all institutional norms, but when has that ever stopped this man?" He objected that Modi was attacking political rivals on a solemn, non-political occasion while wearing the uniform of the forces.
 
-Ramesh also pointed to earlier shifts. He said Modi called those demanding a caste census "urban Naxals" on April 28, 2024, and announced on April 30, 2025 that a caste census would be part of Census 2027. He said Modi in September 2020 linked opponents of the farm laws to Naxal ideology, before the laws were withdrawn on November 19, 2021. "The PM is clearly distraught, disturbed and desperate," he wrote. "Jhola-picking-up time is fast approaching."
+Ramesh also pointed to earlier shifts. He said Modi called those demanding a caste census "urban Naxals" on April 28, 2024, and announced on April 30, 2025, that a caste census would be part of Census 2027. He said Modi in September 2020 linked opponents of the farm laws to Naxal ideology, before the laws were withdrawn on November 19, 2021. "The PM is clearly distraught, disturbed and desperate," he wrote. "Jhola-picking-up time is fast approaching."
 
 No reply from the BJP to Ramesh's post was available in the sources read when this report was written.
 

@@ -38,3 +38,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - NEXT RUN, FIRST: Delhi Diwali-night CPCB AQI (desk could not reach CPCB); the four holds above; retitle the Chennai Open preview (adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday) or keep it off the homepage; one Maharashtra drought-Diwali story only; Vice-President Diwali message (minor).
 - Template: added a flex rule in src/styles/home-dense.css so the Business and Opinion right-hand lists reach the column foot (layout check had failed on empty space).
 
+
+## November 9, 2026, 12:40 am (from the 00:00 run)
+- Published 2: modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh (LEAD, Modi + Jairam Ramesh file-photo cover; editor fix: address was midday, not evening), india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two (infographic --nophoto).
+- Dropped before review: Delhi Diwali-night AQI (only the 7 pm figure from a wire copy, CPCB unreachable, 542 words). World-business desk wrote nothing (RBI and PIB fetch refused).
+- Finder (GitHub Actions) still failing (run 42511667476); Commons API unreachable from the container.
+- Editor homepage FAIL not fixed (second check): Shah Naxalism story still shown under the lead on phone; older Rajnath Sherathang story and Maharashtra drought duplicate still in template-driven lists (Must Read, Policy); 150 to 190px empty space under lead and centre columns on desktop; phone tab bar covers first card under the lead.
+- NEXT RUN, FIRST: Delhi CPCB AQI morning after Diwali (Monday 8 am bulletin) with a smog photo; India A v NZ A day three; Monday markets open; economy story from RBI/PIB once reachable.
