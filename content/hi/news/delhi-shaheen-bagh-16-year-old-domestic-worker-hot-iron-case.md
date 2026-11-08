@@ -28,7 +28,7 @@ infographic:
   motif: warning-circle
   stats:
     - {icon: clock, value: "सुबह 6 से रात 2 बजे", label: "उसके काम के घंटे, जैसा उसने बाल कल्याण समिति को बताया"}
-    - {icon: currency-inr, value: "₹18,000", label: "उसे घर में रखवाने वाली महिला को लगभग एक साल के काम के लिए दिए गए"}
+    - {icon: currency-inr, value: "₹18,000", label: "लगभग एक साल के काम के लिए उसे बस इतना मिला, एनजीओ के अनुसार"}
   source: "पुलिस और एनजीओ के बयान, 8 नवंबर 2026"
 related: []
 seo:
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Single source (PTI via Siasat, 2:39 pm IST November 8; police spoke on Saturday). Victim is a minor and is not named; her locality and the employer's name are left out on purpose, the employer is not named as no arrest or charge is reported."
-    - "Allegations are the girl's statement to the CWC and the NGO's complaint, attributed as such. The Rs 18,000 figure is as reported (paid to the woman who placed her)."
+    - "Allegations are the girl's statement to the CWC and the NGO's complaint, attributed as such. The Rs 18,000 figure is the NGO's claim: the girl was paid only Rs 18,000 for nearly a year of work."
     - "Which police rank or spokesperson spoke is not in the source."
 ---
 
@@ -55,7 +55,7 @@ verification:
 
 उसने सीडब्ल्यूसी को बताया कि वह **सुबह 6 बजे से रात 2 बजे तक** काम करती थी, अक्सर उसे बचा हुआ खाना दिया जाता था और छोटी गलतियों पर पिटाई होती थी। उसके अनुसार उसे पीठ, हाथों और कूल्हों पर बार-बार गर्म प्रेस से जलाया गया, गर्म चाकू से घायल किया गया और तीन दिन तक खाना-पानी नहीं दिया गया। इलाज के बजाय उसे दुकान से दवाएं दी गईं। उसने यह भी कहा कि किसी को बताने पर जान से मारने की धमकी दी गई।
 
-एनजीओ के अनुसार उसे माता-पिता से दूर रखा गया। लगभग एक साल में माता-पिता उससे फोन पर सिर्फ दो-तीन बार बात कर सके और उन बातचीतों में उसका चेहरा ढका रहता था। पुलिस के अनुसार उसे घर में रखवाने वाली महिला को लगभग एक साल के काम के लिए **₹18,000** दिए गए।
+एनजीओ के अनुसार उसे माता-पिता से दूर रखा गया। लगभग एक साल में माता-पिता उससे फोन पर सिर्फ दो-तीन बार बात कर सके और उन बातचीतों में उसका चेहरा ढका रहता था। एक दूसरी महिला ने उसे इस घर में रखवाया था, और एनजीओ के अनुसार लगभग एक साल के काम के लिए लड़की को सिर्फ **₹18,000** दिए गए।
 
 ## मामला
 

@@ -34,3 +34,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Held: delhi-aqi-383-diwali-morning-12-stations-severe (8 am figure stale). Write the latest CPCB Diwali reading as a new id.
 - Finder (GitHub Actions) still failing. Praveen Khandelwal added to people.tsv.
 - NEXT RUN, FIRST: Modi in Bastar with venue, remarks and PIB photo (update the lead); Delhi Diwali CPCB AQI latest; India U19 v Pakistan result; Chennai Open doubles final; Suvendu Hingalganj as done; merge or drop the duplicate TN/Kerala rain stories; Muhurat trading result after 3:30 pm.
+
+## November 8, 2026, 4:40 pm (from the 16:00 run)
+- Published 3: delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case, rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec, india-u19-pakistan-208-arjun-rajput-century-asia-cup (all infographic --nophoto). Stale 8 am Delhi AQI rewrite dropped before review.
+- Held by the editor: luxon-opportunity-relationship-qiulae-wong-nz-election-sunday (needs a Luxon photo other than the blocked 2024 portrait) and muhurat-trading-close-sensex-80999-nifty-24986-streak-ends (needs a BSE building photo). markets.json carries the Muhurat close.
+- Finder (GitHub Actions) still failing (run 42472655746).
+- NEXT RUN, FIRST: India U19 v Pakistan RESULT (update the Rajput story or new id); Modi Bastar as lead with a development; Delhi Diwali-night CPCB AQI; Chennai Open doubles final result; Suvendu first-Diwali story photo shows an INDIA TODAY mic logo: replace or crop it; Ayodhya Deepotsav final count (over 36 lakh diyas) as a follow-up.
+- Editor homepage FAIL not fixed (second check): Modi Bastar not the lead (rule 13, it was in the 14:00 headlines), Diwali-visit and NZ stories crowd the top, E20 explainer at No. 2 (dropping it leaves empty space beside the lead), Muhurat preview still in This Week.

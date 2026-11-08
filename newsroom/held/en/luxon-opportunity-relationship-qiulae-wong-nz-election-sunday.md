@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: scales, value: "67 of 131", label: "seats for National (42), ACT (13) and NZ First (12)"}
     - {icon: users-three, value: "7", label: "seats for the Opportunity Party on 5.96% of the vote"}
-    - {icon: buildings, value: "Nov 27", label: "date of the official result"}
+    - {icon: buildings, value: "November 27", label: "date of the official result"}
   source: "Electoral Commission preliminary results, November 7, 2026"
 related: [nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins, nz-election-latest-count-national-labour-too-close-to-call-130-seats]
 seo:

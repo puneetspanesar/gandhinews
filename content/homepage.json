@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
+    "id": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
     "overlay": {
       "kicker": {
-        "en": "States / Maharashtra",
-        "hi": "राज्य / महाराष्ट्र"
+        "en": "States / Uttar Pradesh",
+        "hi": "राज्य / उत्तर प्रदेश"
       },
       "value": {
-        "en": "Diwali with farmers in Lohari Sawanga",
-        "hi": "लोहारी सावंगा में किसानों संग दिवाली"
+        "en": "Diwali with the Nishads",
+        "hi": "निषादों के बीच दिवाली"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-      "foreign-investors-return-explained-fii-dii-sensex-rally",
-      "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-      "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+      "e20-petrol-explained-ethanol-blend-karnataka-row",
+      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+      "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
     ],
     "live": {
       "title": {
-        "en": "Maharashtra",
-        "hi": "महाराष्ट्र"
+        "en": "Uttar Pradesh",
+        "hi": "उत्तर प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Fuel:",
+          "hi": "ईंधन:"
         },
         "text": {
-          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
-          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
+          "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
+          "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
         }
       },
       {
-        "link": "foreign-investors-return-explained-fii-dii-sensex-rally",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Why foreign investors are rushing back into Indian shares, and who is selling to them",
-          "hi": "विदेशी निवेशक भारतीय शेयरों में क्यों लौट रहे हैं, और उन्हें बेच कौन रहा है"
-        }
-      },
-      {
-        "link": "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Easing the rules for long-settled refugees is right. Exemption orders are no substitute for a refugee law",
-          "hi": "बरसों से बसे शरणार्थियों के लिए नियमों में ढील सही कदम है। पर छूट के आदेश शरणार्थी कानून की जगह नहीं ले सकते"
-        }
-      },
-      {
-        "link": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-        "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
-        },
-        "text": {
-          "en": "Modi at CoBRA base in Bastar: first Diwali with every district free of Naxalism",
-          "hi": "बस्तर के कोबरा बेस पर मोदी: हर जिला नक्सलवाद से मुक्त, पहली ऐसी दिवाली"
-        }
-      },
-      {
-        "link": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Two tankers burn after hitting mines near Hormuz as loud blasts rock Riyadh",
-          "hi": "होर्मुज के पास बारूदी सुरंग से दो टैंकरों में आग, रियाद में तेज धमाके"
-        }
-      },
-      {
-        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
-          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
-        }
-      },
-      {
-        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
-          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
-        }
-      },
-      {
-        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "link": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
         "lead": {
           "en": "Delhi:",
           "hi": "दिल्ली:"
         },
         "text": {
-          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
-          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
+          "en": "Delhi: 16-year-old domestic worker rescued, says she was burned with a hot iron; no arrest yet",
+          "hi": "दिल्ली: 16 साल की घरेलू सहायिका छुड़ाई गई, गर्म प्रेस से जलाने का आरोप; अभी कोई गिरफ्तारी नहीं"
+        }
+      },
+      {
+        "link": "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+        "lead": {
+          "en": "Rajasthan:",
+          "hi": "राजस्थान:"
+        },
+        "text": {
+          "en": "Nearly 30 lakh more names on Rajasthan's local poll rolls than on the SIR roll, says Nikhil Dey",
+          "hi": "राजस्थान की स्थानीय निकाय सूची में एसआईआर रोल से करीब 30 लाख नाम ज्यादा: निखिल डे"
+        }
+      },
+      {
+        "link": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Arjun Rajput's maiden hundred lifts India U19 to 208 against Pakistan after a top-order collapse",
+          "hi": "अर्जुन राजपूत के पहले शतक से टॉप ऑर्डर के ढहने के बाद भारत अंडर-19 ने पाकिस्तान के सामने 208 रन बनाए"
+        }
+      },
+      {
+        "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "Satellites find Istanbul landfill leaking 7.4 tonnes of methane an hour as COP31 nears",
+          "hi": "कॉप31 से पहले उपग्रहों ने पकड़ा: इस्तांबुल के कूड़ाघर से हर घंटे 7.4 टन मीथेन का रिसाव"
+        }
+      },
+      {
+        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "lead": {
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
+        },
+        "text": {
+          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
+          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
+        }
+      },
+      {
+        "link": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+        "lead": {
+          "en": "Results:",
+          "hi": "नतीजे:"
+        },
+        "text": {
+          "en": "Tata Steel Q2 profit rises 18% to ₹3,666 crore as India business carries the group",
+          "hi": "टाटा स्टील का दूसरी तिमाही का मुनाफा 18% बढ़कर ₹3,666 करोड़, भारत कारोबार ने संभाला"
+        }
+      },
+      {
+        "link": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+        "lead": {
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
+        },
+        "text": {
+          "en": "New Zealand election: Luxon and Hipkins separated by about 3,500 votes, no winner yet",
+          "hi": "न्यूज़ीलैंड चुनाव: लक्सन और हिपकिंस के बीच करीब 3,500 वोट का फासला, अभी कोई विजेता नहीं"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "id": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
       "also": []
     },
     "list": [
-      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-      "chawri-bazar-building-collapse-toll-six-four-arrested",
-      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "khunti-crash-night-highways-need-lights-and-speed-checks"
+      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+      "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+      "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ],
     "also": [
-      "suspension-of-sentence-explained-tejpal-supreme-court",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+      "cancer-drugs-137-revised-prices-november-9-nppa",
+      "wb-suvendu-police-attacks-asansol-recruitment-29000"
     ]
   },
   "startHere": [
@@ -391,19 +391,19 @@
         ]
       },
       "list": [
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
         "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "fox-completes-22-billion-roku-acquisition",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees"
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares"
       ]
     },
     {
       "section": "states",
-      "lead": "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
+      "lead": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
       "list": [
-        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
-        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha"
+        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
+        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
       ]
     },
     {
@@ -412,7 +412,7 @@
       "list": [
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa",
-        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
       ]
     },
     {
@@ -445,10 +445,10 @@
     },
     {
       "section": "sports",
-      "lead": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+      "lead": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
       "list": [
+        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
       ]
@@ -529,21 +529,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T22:43:07+05:30",
-      "ids": [
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "labour-codes-centre-states-owe-workers-deadline",
-        "foreign-investors-return-explained-fii-dii-sensex-rally",
-        "chawri-bazar-building-collapse-toll-six-four-arrested",
-        "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-        "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-        "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-        "nadda-national-cancer-awareness-day-screening-appeal"
-      ]
-    },
     {
       "at": "2026-11-08T00:38:04+05:30",
       "ids": [
@@ -643,6 +628,20 @@
         "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
         "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
         "chawri-bazar-building-collapse-toll-six-four-arrested"
+      ]
+    },
+    {
+      "at": "2026-11-08T16:33:54+05:30",
+      "ids": [
+        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+        "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+        "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
       ]
     }
   ],

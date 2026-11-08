@@ -27,7 +27,7 @@ infographic:
   motif: warning-circle
   stats:
     - {icon: clock, value: "6 am to 2 am", label: "her daily working hours, as she told the CWC"}
-    - {icon: currency-inr, value: "₹18,000", label: "paid to the woman who placed her, for nearly a year of work"}
+    - {icon: currency-inr, value: "₹18,000", label: "all she was paid for nearly a year of work, says the NGO"}
   source: "Police and NGO statements, November 8, 2026"
 related: []
 seo:
@@ -42,7 +42,7 @@ verification:
   status: approved
   notes:
     - "Single source (PTI via Siasat, 2:39 pm IST November 8; police spoke on Saturday). Victim is a minor and is not named; her locality and the employer's name are left out on purpose, the employer is not named as no arrest or charge is reported."
-    - "Allegations are the girl's statement to the CWC and the NGO's complaint, attributed as such. The Rs 18,000 figure is as reported (paid to the woman who placed her)."
+    - "Allegations are the girl's statement to the CWC and the NGO's complaint, attributed as such. The Rs 18,000 figure is the NGO's claim: the girl was paid only Rs 18,000 for nearly a year of work."
     - "Which police rank or spokesperson spoke is not in the source."
 ---
 
@@ -54,7 +54,7 @@ The girl was rescued on November 3 and 4 from a house in Abul Fazal Enclave-II a
 
 She told the CWC she worked from **6 am to 2 am**, was often given leftover food and was beaten over minor mistakes. She said she was burned repeatedly with a hot iron on her back, hands and hips, wounded with a heated knife and kept without food and water for three days. Instead of medical care, she was given medicines from a chemist, she said. She also said she was threatened with death if she spoke about it.
 
-The NGO said she was kept away from her parents, who could speak to her on the phone only two or three times in nearly a year, and her face was covered during those calls. Another woman had placed her in the household and was paid **₹18,000** for nearly a year of her work, according to the police.
+The NGO said she was kept away from her parents, who could speak to her on the phone only two or three times in nearly a year, and her face was covered during those calls. Another woman had placed her in the household, and the girl was paid only **₹18,000** for nearly a year of work, the NGO said.
 
 ## The case
 

@@ -1,0 +1,31 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-08T16:04:15+05:30",
+ "end": "2026-11-08T16:36:26+05:30",
+ "summary": "3 new, 2 held for pictures, Muhurat close in markets",
+ "new": [
+  "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+  "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+  "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
+ ],
+ "held": [
+  "luxon-opportunity-relationship-qiulae-wong-nz-election-sunday",
+  "muhurat-trading-close-sensex-80999-nifty-24986-streak-ends"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+   "why": "The Rs 18,000 figure is misreported in the English and Hindi text and on the main graphic and both covers. The source says: 'The NGO said the girl had been placed in the household by another woman and was paid only Rs 18,000 for nearly a year of work.' The money went to the girl, and the claim comes from the NGO. The story says it was paid to the woman who placed her, 'according to the police'.",
+   "done": "Rewrote the Rs 18,000 line in English and Hindi as the editor quoted (the girl was paid, the NGO said), changed the infographic label in both languages, corrected the verification note, re-rendered the graphic and covers."
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
+ ],
+ "lead": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+}
