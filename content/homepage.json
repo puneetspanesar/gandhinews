@@ -16,13 +16,15 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
+    ],
     "relatedBeside": [
-      "e20-petrol-explained-ethanol-blend-karnataka-row",
+      "modi-heads-to-bastar-diwali-security-forces",
+      "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
       "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
       "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
+      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
     ],
     "live": {
       "title": {
@@ -34,14 +36,25 @@
   "briefing": {
     "items": [
       {
-        "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "link": "modi-heads-to-bastar-diwali-security-forces",
         "lead": {
-          "en": "Fuel:",
-          "hi": "ईंधन:"
+          "en": "Armed forces:",
+          "hi": "सशस्त्र बल:"
         },
         "text": {
-          "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
-          "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
+          "en": "Modi heads to Bastar to spend Diwali with security forces, a tradition since 2014",
+          "hi": "मोदी सुरक्षा बलों के साथ दिवाली मनाने बस्तर रवाना, 2014 से जारी परंपरा"
+        }
+      },
+      {
+        "link": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+        "lead": {
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
+        },
+        "text": {
+          "en": "Suvendu Adhikari to spend first Diwali as Bengal CM with BSF jawans on the border",
+          "hi": "बंगाल के मुख्यमंत्री के रूप में पहली दिवाली सीमा पर बीएसएफ जवानों के साथ मनाएंगे सुवेंदु अधिकारी"
         }
       },
       {
@@ -56,17 +69,6 @@
         }
       },
       {
-        "link": "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-        "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
-        },
-        "text": {
-          "en": "Nearly 30 lakh more names on Rajasthan's local poll rolls than on the SIR roll, says Nikhil Dey",
-          "hi": "राजस्थान की स्थानीय निकाय सूची में एसआईआर रोल से करीब 30 लाख नाम ज्यादा: निखिल डे"
-        }
-      },
-      {
         "link": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
         "lead": {
           "en": "Cricket:",
@@ -78,47 +80,47 @@
         }
       },
       {
-        "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Trade:",
+          "hi": "व्यापार:"
         },
         "text": {
-          "en": "Satellites find Istanbul landfill leaking 7.4 tonnes of methane an hour as COP31 nears",
-          "hi": "कॉप31 से पहले उपग्रहों ने पकड़ा: इस्तांबुल के कूड़ाघर से हर घंटे 7.4 टन मीथेन का रिसाव"
+          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
+          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
         }
       },
       {
-        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "Japan:",
+          "hi": "जापान:"
         },
         "text": {
-          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
-          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
+          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
+          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
         }
       },
       {
-        "link": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+        "link": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "lead": {
-          "en": "Results:",
-          "hi": "नतीजे:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Tata Steel Q2 profit rises 18% to ₹3,666 crore as India business carries the group",
-          "hi": "टाटा स्टील का दूसरी तिमाही का मुनाफा 18% बढ़कर ₹3,666 करोड़, भारत कारोबार ने संभाला"
+          "en": "Rajnath Singh reaches Sherathang to spend Diwali with troops near Nathu La",
+          "hi": "राजनाथ सिंह नाथू ला के पास जवानों संग दिवाली मनाने शेरथांग पहुंचे"
         }
       },
       {
-        "link": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
+        "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "Markets:",
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "New Zealand election: Luxon and Hipkins separated by about 3,500 votes, no winner yet",
-          "hi": "न्यूज़ीलैंड चुनाव: लक्सन और हिपकिंस के बीच करीब 3,500 वोट का फासला, अभी कोई विजेता नहीं"
+          "en": "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083",
+          "hi": "आज मुहूर्त ट्रेडिंग: संवत 2083 की शुरुआत में दोपहर 2:20 से 3:30 बजे तक दिवाली सत्र"
         }
       }
     ]
@@ -186,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+      "id": "japan-aichi-shizuoka-earthquake-57-22-injured",
       "also": []
     },
     "list": [
-      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-      "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
-      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-      "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+      "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti"
     ],
     "also": [
-      "cancer-drugs-137-revised-prices-november-9-nppa",
-      "wb-suvendu-police-attacks-asansol-recruitment-29000"
+      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
     ]
   },
   "startHere": [
@@ -372,9 +374,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-heads-to-bastar-diwali-security-forces",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
+        "modi-diwali-greetings-citizens-viksit-bharat"
       ],
       "lead": "modi-bastar-cobra-karanpur-diwali-naxalism-won"
     },
@@ -391,10 +393,10 @@
         ]
       },
       "list": [
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
         "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "fox-completes-22-billion-roku-acquisition",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares"
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees"
       ]
     },
     {
@@ -449,8 +451,8 @@
       "list": [
         "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
       ]
     }
   ],
@@ -631,17 +633,18 @@
       ]
     },
     {
-      "at": "2026-11-08T16:36:29+05:30",
+      "at": "2026-11-08T16:59:22+05:30",
       "ids": [
         "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
-        "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
+        "modi-heads-to-bastar-diwali-security-forces",
+        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
         "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
         "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
       ]
     }
   ],

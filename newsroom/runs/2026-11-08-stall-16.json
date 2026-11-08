@@ -1,0 +1,17 @@
+{
+ "run": "stall-16",
+ "start": "2026-11-08T16:53:55+05:30",
+ "end": "2026-11-08T17:02:36+05:30",
+ "summary": "homepage re-rotated, pictured stories beside the lead; Actions billing blocks the photo finder",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
+ ],
+ "lead": "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+}
