@@ -83,10 +83,6 @@ Sudharsan, who resumed on 77, was bowled by Zak Gibson for **88 off 255 balls**,
 
 Ravindra Jadeja made 25 off 71 balls and put on 44 with Tilak before he edged Gibson to Matthew Boyle. Their stand began at 306 for 4, and Tilak went on to reach his fifty off 131 balls.
 
-```photo
-{"n":1,"subject":"Washington Sundar","caption":"Washington Sundar, who made an unbeaten 50 off 107 balls and shared an unbroken stand of 114 with Tilak Varma.","alt":"India all-rounder Washington Sundar"}
-```
-
 Tilak and Sundar then took India A **past 400 and on to 464** in an unbroken stand of 114. Tilak hit five fours and two sixes in his 81, one of the sixes coming off Dean Foxcroft. Sundar's fifty came off 107 balls and the declaration followed straight after it.
 
 New Zealand A were short of pace for much of the day. Jarrod McKay did not bowl because of a side strain and Ferns was troubled by a back problem, which left Gibson, who finished with two wickets for 73, and the other bowlers to carry the load.
@@ -96,10 +92,6 @@ New Zealand A were short of pace for much of the day. Jarrod McKay did not bowl 
 New Zealand A faced 14 overs before stumps and **lost two wickets in them for 36 runs**. Prasidh Krishna, who is returning from a left hamstring injury according to one match report, dismissed Rhys Mariu for a duck in the first over of the innings. He then trapped Curtis Heaphy lbw for 19 off 35 balls, after Sudharsan had put down a chance off Heaphy at third slip.
 
 Prasidh ended the day with figures of **2 for 12**. Jasprit Bumrah shared the new ball and bowled an opening spell of six overs for 11 runs, without a wicket. One report says it was his first first-class match since the Guwahati Test against South Africa nearly a year ago, and the spells from both men are being watched as preparation for India's coming Test series against New Zealand.
-
-```photo
-{"n":2,"subject":"Prasidh Krishna","caption":"Prasidh Krishna took both New Zealand A wickets on day two, finishing with two for 12.","alt":"India fast bowler Prasidh Krishna"}
-```
 
 Foxcroft was on 10 and nightwatchman Gibson on 1 at the close, the pair who will resume on Monday.
 

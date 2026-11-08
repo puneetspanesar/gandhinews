@@ -108,10 +108,6 @@ Before the address he paid tribute to CRPF personnel who died, at the camp memor
 
 Congress general secretary Jairam Ramesh answered in a post on X at about 5 pm. "The Prime Minister has not spared the nation even on Diwali day his trademark abuse," he wrote. "This is a brazen assault on all institutional norms, but when has that ever stopped this man?" He objected that Modi was attacking political rivals on a solemn, non-political occasion while wearing the uniform of the forces.
 
-```photo
-{"n":1,"subject":"Jairam Ramesh","caption":"Congress general secretary Jairam Ramesh, who answered the Prime Minister's Bastar remarks on X.","alt":"Jairam Ramesh"}
-```
-
 Ramesh also pointed to earlier shifts. He said Modi called those demanding a caste census "urban Naxals" on April 28, 2024, and announced on April 30, 2025 that a caste census would be part of Census 2027. He said Modi in September 2020 linked opponents of the farm laws to Naxal ideology, before the laws were withdrawn on November 19, 2021. "The PM is clearly distraught, disturbed and desperate," he wrote. "Jhola-picking-up time is fast approaching."
 
 No reply from the BJP to Ramesh's post was available in the sources read when this report was written.

@@ -34468,5 +34468,61 @@
    }
   },
   "nophoto": "no free photo of Vaishnavi Adkar or Rutuja Bhosale; not in library, quick_photo none; finder (GitHub Actions) down"
+ },
+ "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two": {
+  "id": "i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
+  "src": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India A declare at 464/5, lead by 428",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत ए 464/5 घोषित, 428 की बढ़त",
+  "page": null,
+  "ihash": "82e65fc4491a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-en-t-1280.jpg",
+    "src800": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-hi-t-1280.jpg",
+    "src800": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-en-1280.jpg",
+    "src800": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-hi-1280.jpg",
+    "src800": "/photos/i-india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Tilak Varma, Washington Sundar, Prasidh Krishna, Dhruv Jurel, Sai Sudharsan; library, quick_photo, finder h0900 (GitHub Actions failed)"
+ },
+ "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh": {
+  "id": "v-modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-",
+  "src": "/photos/v-modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals--1280.jpg",
+  "src800": "/photos/v-modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals--640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Narendra Modi / Wikimedia Commons; Yann Forget from India / Wikimedia Commons",
+  "licence": "CC BY 3.0 and CC BY-SA 2.0",
+  "alt": "Prime Minister Narendra Modi and Congress leader Jairam Ramesh (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और कांग्रेस नेता जयराम रमेश (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280
  }
 }
