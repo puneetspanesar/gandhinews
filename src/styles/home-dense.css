@@ -47,7 +47,7 @@
 /* section heading: name, a rule, a link */
 .d-s{padding-top:34px}
 .d-sec{display:flex;align-items:center;gap:12px;margin-bottom:14px}
-.d-sec h2{font-family:var(--f-head)!important;font-size:20px;font-weight:900;margin:0;white-space:nowrap;letter-spacing:0}
+.d-sec h2{font-family:var(--f-serif)!important;font-size:20px;font-weight:900;margin:0;white-space:nowrap;letter-spacing:0}
 .d-sec i{flex:1;height:1px;background:var(--ink)}
 .d-sec>a{font-family:var(--f-head);font-size:14px;font-weight:700;color:var(--red)!important;white-space:nowrap}
 .d-rr{padding-right:22px;border-right:1px solid #dcdcdc}
