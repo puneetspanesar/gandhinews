@@ -1,17 +1,10 @@
 {
  "run": "hourly-16",
  "start": "2026-11-08T16:04:15+05:30",
- "end": "2026-11-08T16:36:26+05:30",
- "summary": "3 new, 2 held for pictures, Muhurat close in markets",
- "new": [
-  "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-  "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-  "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
- ],
- "held": [
-  "luxon-opportunity-relationship-qiulae-wong-nz-election-sunday",
-  "muhurat-trading-close-sensex-80999-nifty-24986-streak-ends"
- ],
+ "end": "2026-11-08T16:43:38+05:30",
+ "summary": "expire Andhra hold over 48 hours",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [],
  "fixed_by_run": [
