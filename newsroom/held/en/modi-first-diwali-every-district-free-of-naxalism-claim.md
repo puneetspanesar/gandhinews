@@ -52,7 +52,7 @@ verification:
   status: approved
   notes:
     - "Opinion and fact-check desk, November 8, 2026 (22:2x IST). Claim words are from our own news report modi-bastar-cobra-karanpur-diwali-naxalism-won (event reports); the full speech text was not read."
-    - "PIB Research document of August 1, 2026 opened via fetch: 126 districts in 2014 to zero by March-April 2026; most-affected 35 to zero; incidents 870 (2014) to 33 (as of July 29, 2026); fatalities 310 to 11. The document's own 2010 fatality figures are inconsistent, so they are not used."
+    - "PIB Research document of August 1, 2026, opened via fetch: 126 districts in 2014 to zero by March-April 2026; most-affected 35 to zero; incidents 870 (2014) to 33 (as of July 29, 2026); fatalities 310 to 11. The document's own 2010 fatality figures are inconsistent, so they are not used."
     - "Rajya Sabha reply figures (33 incidents in 2026 till July 21, 6 civilian and 5 security force deaths) come from a data note summarising the reply; the original reply on sansad.in was not opened. Not used as a number beyond what PIB confirms."
     - "Verdict Mostly true: the official classification supports the claim; the word 'free' is read as free of affected districts, not free of all violence."
 ---
@@ -68,7 +68,7 @@ What the sentence cannot mean is that Maoist violence has stopped. Official figu
 
 ### 1. The official count of affected districts is zero
 
-A research document published by the Press Information Bureau on August 1, 2026 says the number of districts affected by Left Wing Extremism fell from **126 in 2014 to zero by March-April 2026**. The most-affected category fell from 35 districts to zero. The document says India became "effectively free from Naxalism" on March 31, 2026, the target the government had set on August 24, 2024.
+A research document published by the Press Information Bureau on August 1, 2026, says the number of districts affected by Left Wing Extremism fell from **126 in 2014 to zero by March-April 2026**. The most-affected category fell from 35 districts to zero. The document says India became "effectively free from Naxalism" on March 31, 2026, the target the government had set on August 24, 2024.
 
 ### 2. Violence has fallen sharply but not to nothing
 

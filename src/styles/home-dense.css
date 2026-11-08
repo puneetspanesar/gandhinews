@@ -166,3 +166,6 @@
 .d-wband .d-sgn{border-top:0;padding-top:0;gap:10px}
 .d-rg{width:44px;height:44px;flex:none;fill:#5c1717;stroke:#ff8a8a;stroke-width:1.4;stroke-linejoin:round;vector-effect:non-scaling-stroke}
 .d-rg use{vector-effect:non-scaling-stroke}
+
+/* a short headline list spreads to the column foot, so no empty space opens under it (hourly-22, November 8) */
+@media(min-width:1001px){.d-ec>.d-pl,.d-op>.d-pl{display:flex;flex-direction:column;justify-content:space-between}}

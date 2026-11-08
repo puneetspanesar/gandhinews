@@ -6,12 +6,12 @@ section: world
 format_label: World / Latin America
 topics: []
 title: "Paraguay's ousted president Peña charged, prosecutors seek his detention over Ueno Bank collapse"
-standfirst: "A day after the Senate removed him by 44 votes to 1, Santiago Peña faces charges of breach of trust and self-serving administration. A judge has yet to rule, and the new government is paying back nearly three million locked-out savers."
+standfirst: "A day after the Senate removed him by 44 of the 45 senators present, Santiago Peña faces charges of breach of trust and self-serving administration. A judge has yet to rule, and the new government is paying back nearly three million locked-out savers."
 published: 2026-11-08T22:17:05+05:30
 location: Asunción
 keyPoints:
   - "Prosecutors **charged Santiago Peña** on Saturday and asked a judge to jail him before trial."
-  - "The Senate had removed him on Friday by **44 votes to 1** over the Ueno Bank collapse."
+  - "The Senate had removed him on Friday by **44 of the 45 senators present** over the Ueno Bank collapse."
   - "President **Pedro Alliana** promises every depositor will recover savings; **1.2 million** customers have been paid."
 hero:
   need: "Santiago Peña, the ousted president of Paraguay"
@@ -59,7 +59,7 @@ verification:
     - "Bank customer figure: about 3 million (MercoPress, CT Public) vs PBS 'hundreds of thousands' being compensated; story uses 3 million for locked-out customers and 1.2 million paid per the Central Bank via PBS."
 ---
 
-Paraguayan prosecutors on Saturday **charged former president Santiago Peña** with crimes linked to the collapse of Ueno Bank and asked a judge to hold him in pre-trial detention, a day after the Senate threw him out of office. The judge had not ruled by Sunday night.
+Paraguayan prosecutors on Saturday **charged former president Santiago Peña** with crimes linked to the collapse of Ueno Bank and asked a judge to hold him in pre-trial detention, a day after the Senate threw him out of office. The judge had not ruled by Sunday afternoon local time.
 
 Peña is accused of breach of trust as an instigator and of self-serving administration as the perpetrator. He appeared before prosecutors in Asunción, testified and denies any wrongdoing. Prosecutors also charged Carlos Carvallo, the former Central Bank president, who is already in custody. Carvallo faces counts of breach of trust, producing false public documents and self-serving administration. He ran Ueno Bank before Peña appointed him to head the Central Bank.
 

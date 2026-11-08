@@ -6,7 +6,7 @@ section: politics
 format_label: "Politics / Internal security"
 topics: []
 title: "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar"
-standfirst: "The Home Minister credited the soldiers for the victory in a post on X. In March he had told the Lok Sabha that Naxal-affected districts were down from 126 to two."
+standfirst: "The Home Minister credited the soldiers for the victory in a post on X. On March 30 he had told the Lok Sabha that Naxal-affected districts were down from 126 to two."
 published: 2026-11-08T22:17:43+05:30
 location: New Delhi
 keyPoints:
@@ -108,5 +108,5 @@ For the forces, the post is public recognition at the end of a campaign in which
 The government said in March that it would formally announce completion of the campaign later. Shah's post and Modi's remarks on Sunday do not carry such an announcement. No date for that announcement, or for fresh Home Ministry figures, has been given in the sources we read.
 
 ```timeline
-{"title":"The road to Sunday's claim","items":[{"date":"August 24, 2024","text":"Government sets March 31, 2026 as the target to end Naxalism"},{"date":"March 30, 2026","text":"Shah tells the Lok Sabha the country has become Naxalism-free; two districts still listed as affected"},{"date":"November 1, 2026","text":"Modi links Chhattisgarh's growth to uprooting Naxalism"},{"date":"November 8, 2026","text":"Modi at Karanpur CoBRA base; Shah's post on X"}]}
+{"title":"The road to Sunday's claim","items":[{"date":"August 24, 2024","text":"Government sets March 31, 2026, as the target to end Naxalism"},{"date":"March 30, 2026","text":"Shah tells the Lok Sabha the country has become Naxalism-free; two districts still listed as affected"},{"date":"November 1, 2026","text":"Modi links Chhattisgarh's growth to uprooting Naxalism"},{"date":"November 8, 2026","text":"Modi at Karanpur CoBRA base; Shah's post on X"}]}
 ```

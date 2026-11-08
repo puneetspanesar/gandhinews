@@ -14,7 +14,6 @@ keyPoints:
   - "वैष्णवी आडकर और ऋतुजा भोसले का फाइनल में सामना स्विट्ज़रलैंड की **नाइमा कारामोको और सिमोना वाल्टर्ट** से होगा।"
   - "स्विस जोड़ी ने सेमीफाइनल में इसाबेल हावरलाग और पन्ना उदवर्डी को **6-4, 6-4** से हराया।"
   - "एकल फाइनल **जैनिस टजेन और मैग्दा लिनेट** के बीच है।"
-upcoming: {date: 2026-11-08, en: "Chennai Open doubles final: Adkar and Bhosale v Karamoko and Waltert", hi: "चेन्नई ओपन डबल्स फाइनल: आडकर और भोसले बनाम कारामोको और वाल्टर्ट"}
 hero:
   need: "Vaishnavi Adkar and Rutuja Bhosale, the Indian doubles pair at the Chennai Open"
   suggested_source: "Vaishnavi Adkar"

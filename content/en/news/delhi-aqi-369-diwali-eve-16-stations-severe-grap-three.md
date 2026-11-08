@@ -9,7 +9,6 @@ title: "Delhi ends Diwali eve at AQI 369, with 16 stations in the severe band"
 standfirst: "The city average eased from Friday's 382 but stayed very poor, with GRAP Stage III curbs in force and forecasters expecting severe air on Diwali day and the day after."
 published: 2026-11-07T22:13:04+05:30
 location: New Delhi
-upcoming: {date: 2026-11-08, en: "Diwali in Delhi, with severe air forecast for November 8 and 9", hi: "दिल्ली में दिवाली, 8 और 9 नवंबर को गंभीर हवा का पूर्वानुमान"}
 keyPoints:
   - "Delhi's average AQI was **369 on Saturday**, against 382 on Friday, still short of the 400 severe mark."
   - "Of 59 stations reporting, **16 were severe** and 29 very poor, with the highest reading of 452 near IIT Delhi."

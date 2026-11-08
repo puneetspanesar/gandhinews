@@ -9,10 +9,6 @@ title: "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Sam
 standfirst: "The exchanges open for the Laxmi Pujan session on Sunday afternoon, with a block deal window from 1:50 pm and a pre-open call before continuous trading begins."
 published: 2026-11-08T08:12:32+05:30
 location: Mumbai
-upcoming:
-  date: 2026-11-08
-  en: "Muhurat trading on NSE and BSE, 2:20 pm to 3:30 pm IST"
-  hi: "एनएसई और बीएसई पर मुहूर्त ट्रेडिंग, दोपहर 2:20 से 3:30 बजे तक"
 keyPoints:
   - "Continuous trading **starts at 2:20 pm IST** on Sunday, November 8, and runs to 3:30 pm for most stocks."
   - "The block deal window opens at **1:50 pm** and pre-open runs from 2:05 pm to 2:20 pm."

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+    "id": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
     "overlay": {
       "kicker": {
-        "en": "Policy / Defence",
-        "hi": "नीति / रक्षा"
+        "en": "Politics / Internal security",
+        "hi": "राजनीति / आंतरिक सुरक्षा"
       },
       "value": {
-        "en": "Diwali with the Trishakti Corps",
-        "hi": "त्रिशक्ति कोर के साथ दिवाली"
+        "en": "First Diwali in five decades free of Naxalism: Shah",
+        "hi": "पांच दशकों में पहली नक्सलमुक्त दिवाली: शाह"
       },
       "text": {
         "en": "",
@@ -16,21 +16,17 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-      "meghwal-diwali-bsf-bikaner-soldiers-family"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "india-u19-pakistan-asia-cup-result-zahoor-century",
       "modi-advani-99th-birthday-nation-first-foundation",
       "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-      "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
     ],
     "live": {
       "title": {
-        "en": "Defence",
-        "hi": "रक्षा"
+        "en": "Internal security",
+        "hi": "आंतरिक सुरक्षा"
       }
     }
   },
@@ -70,58 +66,58 @@
         }
       },
       {
-        "link": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "link": "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Rajasthan:",
+          "hi": "राजस्थान:"
         },
         "text": {
-          "en": "Delhi: 16-year-old domestic worker rescued, says she was burned with a hot iron; no arrest yet",
-          "hi": "दिल्ली: 16 साल की घरेलू सहायिका छुड़ाई गई, गर्म प्रेस से जलाने का आरोप; अभी कोई गिरफ्तारी नहीं"
+          "en": "Nearly 30 lakh more names on Rajasthan's local poll rolls than on the SIR roll, says Nikhil Dey",
+          "hi": "राजस्थान की स्थानीय निकाय सूची में एसआईआर रोल से करीब 30 लाख नाम ज्यादा: निखिल डे"
         }
       },
       {
-        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
-          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
-        }
-      },
-      {
-        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "lead": {
-          "en": "Japan:",
-          "hi": "जापान:"
-        },
-        "text": {
-          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
-          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
-        }
-      },
-      {
-        "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
-        },
-        "text": {
-          "en": "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083",
-          "hi": "आज मुहूर्त ट्रेडिंग: संवत 2083 की शुरुआत में दोपहर 2:20 से 3:30 बजे तक दिवाली सत्र"
-        }
-      },
-      {
-        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "link": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
         "lead": {
           "en": "Middle East:",
           "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
-          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
+          "en": "Two tankers burn after hitting mines near Hormuz as loud blasts rock Riyadh",
+          "hi": "होर्मुज के पास बारूदी सुरंग से दो टैंकरों में आग, रियाद में तेज धमाके"
+        }
+      },
+      {
+        "link": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "NASA targets November 29 to send cancer and muscle-loss experiments to the space station",
+          "hi": "नासा 29 नवंबर को अंतरिक्ष स्टेशन भेजेगा कैंसर और मांसपेशी क्षय के प्रयोग"
+        }
+      },
+      {
+        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
+          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
+        }
+      },
+      {
+        "link": "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9",
+          "hi": "कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या है: 9 नवंबर से 137 दवाओं की एमआरपी क्यों घटेगी"
         }
       }
     ]
@@ -189,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "japan-aichi-shizuoka-earthquake-57-22-injured",
+      "id": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
       "also": []
     },
     "list": [
-      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-      "chawri-bazar-building-collapse-toll-six-four-arrested",
-      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti"
+      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
     ],
     "also": [
-      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
+      "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
     ]
   },
   "startHere": [
@@ -375,15 +371,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-advani-99th-birthday-nation-first-foundation",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
+        "modi-diwali-greetings-citizens-viksit-bharat"
       ],
-      "lead": "modi-advani-99th-birthday-nation-first-foundation"
+      "lead": "amit-shah-first-diwali-five-decades-naxalism-freed-post"
     },
     {
       "section": "economy",
-      "lead": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+      "lead": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
       "module": {
         "type": "markets",
         "indicators": [
@@ -394,28 +390,27 @@
         ]
       },
       "list": [
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "fox-completes-22-billion-roku-acquisition",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees"
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares"
       ]
     },
     {
       "section": "states",
       "lead": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
       "list": [
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
         "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing"
+        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
       "list": [
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa"
+        "cancer-drugs-137-revised-prices-november-9-nppa",
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
       ]
     },
     {
@@ -432,9 +427,9 @@
       "section": "world",
       "lead": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
       "list": [
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
       ]
     },
     {
@@ -451,9 +446,9 @@
       "lead": "india-u19-pakistan-asia-cup-result-zahoor-century",
       "list": [
         "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
       ]
     }
   ],
@@ -469,42 +464,6 @@
         "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, दूसरा दिन, लिंकन"
       },
       "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Diwali in Delhi, with severe air forecast for November 8 and 9",
-        "hi": "दिल्ली में दिवाली, 8 और 9 नवंबर को गंभीर हवा का पूर्वानुमान"
-      },
-      "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Chennai Open doubles final: Adkar and Bhosale v Karamoko and Waltert",
-        "hi": "चेन्नई ओपन डबल्स फाइनल: आडकर और भोसले बनाम कारामोको और वाल्टर्ट"
-      },
-      "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Muhurat trading on NSE and BSE, 2:20 pm to 3:30 pm IST",
-        "hi": "एनएसई और बीएसई पर मुहूर्त ट्रेडिंग, दोपहर 2:20 से 3:30 बजे तक"
-      },
-      "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
     },
     {
       "icon": "calendar-blank",
@@ -529,37 +488,44 @@
         "hi": "कॉप31 जलवायु सम्मेलन तुर्की के अंताल्या में शुरू (20 नवंबर तक)"
       },
       "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 10",
+        "hi": "10 नवंबर"
+      },
+      "text": {
+        "en": "India v New Zealand, third ODI, Hamilton, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, हैमिल्टन, सुबह 7:30 बजे"
+      },
+      "link": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 10",
+        "hi": "10 नवंबर"
+      },
+      "text": {
+        "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
+        "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
+      },
+      "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+    },
+    {
+      "icon": "chart-line",
+      "date": {
+        "en": "Nov 12",
+        "hi": "12 नवंबर"
+      },
+      "text": {
+        "en": "Retail inflation (CPI) for October, 4 pm",
+        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T13:12:26+05:30",
-      "ids": [
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
-      ]
-    },
-    {
-      "at": "2026-11-08T14:36:09+05:30",
-      "ids": [
-        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "foreign-investors-return-explained-fii-dii-sensex-rally",
-        "relief-for-long-settled-refugees-should-lead-to-a-refugee-law",
-        "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-        "chawri-bazar-building-collapse-toll-six-four-arrested"
-      ]
-    },
     {
       "at": "2026-11-08T16:59:22+05:30",
       "ids": [
@@ -646,6 +612,20 @@
         "japan-aichi-shizuoka-earthquake-57-22-injured",
         "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
         "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+      ]
+    },
+    {
+      "at": "2026-11-08T23:12:29+05:30",
+      "ids": [
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "india-u19-pakistan-asia-cup-result-zahoor-century",
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
       ]
     }
   ],

@@ -2,17 +2,6 @@
 
 Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 24 hours are no longer BIG STORIES: delete them. Delete an item once it is published or no longer news.
 
-## November 7, 2026, 12:40 pm (from the 12:00 run)
-- Published 3: rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday (LEAD), modi-diwali-greetings-citizens-viksit-bharat, delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft (editorial, infographic --nophoto).
-- Held: nz-early-results-national-labour-neck-and-neck-opportunity-clears-5 (Luxon close-up; needs a well framed Luxon or Hipkins photo and the latest count), nz-all-out-134-brar-four-india-need-135-wellington-second-odi (write the India chase score or result as a new id).
-- NEXT RUN, FIRST: Andhra MPTC/ZPTC counting trends or results (none confirmed after 8:53 am; LEAD with a counting photo); India v NZ second ODI result; New Zealand election result; Delhi AQI after 8 am; CAA December 31 fact check.
-
-## November 7, 2026, 10:45 pm (from the 22:00 run)
-- Published 8: amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029 (PIB meeting photo, 825 px so it cannot lead), ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti, delhi-aqi-369-diwali-eve-16-stations-severe-grap-three, chawri-bazar-building-collapse-toll-six-four-arrested, yemen-airstrike-al-shariya-sanaa-25-killed-houthi, india-u19-pakistan-asia-cup-group-a-decider-preview-november-8, editorial cancer-drug-price-cuts-from-monday-must-reach-the-patient, factcheck suvendu-adhikari-caa-citizenship-by-december-31-claim (all but Shah infographic --nophoto).
-- GitHub Actions jobs fail in 2 seconds with no steps (find-photos.yml and download-photos.yml, three tries): the finder and library downloads are down. NEXT RUN, FIRST: when Actions work, run the finder for Ayodhya Deepotsav, Delhi smog, Suvendu Adhikari, Sanaa air strike, Chawri Bazar collapse, India U19, Tata Memorial Hospital and swap the graphics; Deepotsav should lead once it has a photo.
-- Editor homepage FAIL not fixed (second check): States count in Must Read, week-ahead rows (ODI and counting "Today", Paris Masters final mislabelled as semi-final), FII explainer beside the lead (dropping it left 400px empty beside the lead), U19 headline wrap.
-- Markets: Saturday, closed; markets.json unchanged.
-
 ## November 8, 2026, 6:40 am (from the 06:00 run)
 - Published 5: indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns (LEAD, infographic --nophoto: breach), jajpur-nalipur-house-fire-four-of-family-dead-odisha, yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan (preview), suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram (preview, Hingalganj; dropped from the homepage), adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday (preview). All infographic --nophoto.
 - GitHub Actions still fail at once (find-photos and Homepage rotation, last fails 00:46 UTC and earlier): no finder, no hourly rotation between runs. Wikimedia not reachable from the container; PIB timed out.
@@ -41,3 +30,11 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Finder (GitHub Actions) still failing (run 42472655746).
 - NEXT RUN, FIRST: India U19 v Pakistan RESULT (update the Rajput story or new id); Modi Bastar as lead with a development; Delhi Diwali-night CPCB AQI; Chennai Open doubles final result; Suvendu first-Diwali story photo shows an INDIA TODAY mic logo: replace or crop it; Ayodhya Deepotsav final count (over 36 lakh diyas) as a follow-up.
 - Editor homepage FAIL not fixed (second check): Modi Bastar not the lead (rule 13, it was in the 14:00 headlines), Diwali-visit and NZ stories crowd the top, E20 explainer at No. 2 (dropping it leaves empty space beside the lead), Muhurat preview still in This Week.
+
+## November 8, 2026, 11:15 pm (from the 22:00 run)
+- Published 1 news story: amit-shah-first-diwali-five-decades-naxalism-freed-post (LEAD, Amit Shah library file photo; figures dated March 30). Homepage refreshed; markets unchanged (Sunday, Muhurat close already in).
+- Held by the editor: paraguay-pena-charged-pretrial-detention-ueno-bank-alliana (vote was unanimous, 44 present of 45, write "unanimously by all 44 senators present"; cut the unsourced teachers' strike; rebuild graphic), adkar-bhosale-chennai-open-doubles-final-swiss-karamoko-waltert-win-straight-sets (unsourced history cut leaves it under 600 words; needs WTA scoreline), modi-first-diwali-every-district-free-of-naxalism-claim (needs a Modi photo, ideally PIB Karanpur; full dates; one Hindi spelling of Karanpur), creamy-layer-centre-must-publish-equivalence-rule-in-two-months (needs a Supreme Court file photo, full dates, the Hindi line the editor gave).
+- Photo downloads: GitHub Actions still down and Commons returns 429 for originals; the 1280px thumbnail downloads fine with curl.
+- NEXT RUN, FIRST: Delhi Diwali-night CPCB AQI (desk could not reach CPCB); the four holds above; retitle the Chennai Open preview (adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday) or keep it off the homepage; one Maharashtra drought-Diwali story only; Vice-President Diwali message (minor).
+- Template: added a flex rule in src/styles/home-dense.css so the Business and Opinion right-hand lists reach the column foot (layout check had failed on empty space).
+

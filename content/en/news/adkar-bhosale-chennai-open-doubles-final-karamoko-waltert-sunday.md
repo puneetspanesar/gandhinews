@@ -13,7 +13,6 @@ keyPoints:
   - "Vaishnavi Adkar and Rutuja Bhosale face **Naima Karamoko and Simona Waltert** of Switzerland in Sunday's final."
   - "The Swiss pair reached it by beating Isabelle Haverlag and Panna Udvardy **6-4, 6-4**."
   - "The singles final is **Janice Tjen against Magda Linette**."
-upcoming: {date: 2026-11-08, en: "Chennai Open doubles final: Adkar and Bhosale v Karamoko and Waltert", hi: "चेन्नई ओपन डबल्स फाइनल: आडकर और भोसले बनाम कारामोको और वाल्टर्ट"}
 hero:
   need: "Vaishnavi Adkar and Rutuja Bhosale, the Indian doubles pair at the Chennai Open"
   suggested_source: "Vaishnavi Adkar"

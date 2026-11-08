@@ -31,7 +31,7 @@ infographic:
   source: "Chennai Open final, November 8, 2026"
 related: [adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday, adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open, maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery]
 seo:
-  description: "Vaishnavi Adkar and Rutuja Bhosale lost the Chennai Open doubles final on November 8, 2026 to Switzerland's Naima Karamoko and Simona Waltert, who won in straight sets."
+  description: "Vaishnavi Adkar and Rutuja Bhosale lost the Chennai Open doubles final on November 8, 2026, to Switzerland's Naima Karamoko and Simona Waltert, who won in straight sets."
 sources:
   - title: "Karamoko-Waltert combination too strong for Indians in Chennai Open final"
     publisher: "ThePrint (PTI)"
@@ -77,10 +77,10 @@ Karamoko, 29, from Geneva, won her first title in her first WTA final. She plays
 
 ## What the week meant for Indian tennis
 
-Chennai has a long history of Indian doubles breakthroughs: Leander Paes and Mahesh Bhupathi won their first ATP Tour title together here in 1997 and took the Chennai title again in 1998 and 1999, and Rohan Bopanna reached his first ATP-level doubles final here in 2006. Adkar is 21 and Bhosale 30.
+Adkar is 21 and Bhosale 30.
 
 The title stayed out of reach, but the run stands. After the semi-final Bhosale called reaching the final together "**really special**" and "surreal", while Adkar, who said she had been surprised when Bhosale asked her to partner her, said she was "really glad" to reach her first WTA final. Bhosale had gone one round further than her semi-final exit at last year's event.
 
-The week also gave Indian women's tennis a second headline. Wild card Maaya Rajeshwaran Revathi, 17, reached the singles quarter-finals, the first Indian to do so in Chennai since Sania Mirza in 2012, before losing to Robin Montgomery.
+The week also gave Indian women's tennis a second headline. Wild card Maaya Rajeshwaran Revathi, 17, reached the singles quarter-finals, before losing to Robin Montgomery.
 
 None of the reports available says where Adkar and Bhosale play next, or what ranking points they take from the week.
