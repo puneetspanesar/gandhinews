@@ -1,0 +1,16 @@
+{
+ "run": "stall-07",
+ "start": "2026-11-08T06:55:45+05:30",
+ "end": "2026-11-08T07:27:49+05:30",
+ "summary": "IndiGo story photo, homepage rotated for 07:00; Actions billing blocks finder and rotation",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one: suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): obc-creamy-layer-explained-parents-salary-supreme-court"
+ ],
+ "lead": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram"
+}

@@ -18,7 +18,7 @@ hero:
   need: "बेंगलुरु के केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डे पर इंडिगो का विमान"
   suggested_source: "Kempegowda International Airport"
   subjects: ["Kempegowda International Airport", "IndiGo"]
-  alt: "बेंगलुरु के केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डे पर इंडिगो का विमान"
+  alt: "उड़ान भरता इंडिगो का एयरबस ए320नियो विमान (फ़ाइल फ़ोटो)"
   overlay:
     value: "अपहरण की धमकी: इंडिगो उड़ान लौटी"
 infographic:

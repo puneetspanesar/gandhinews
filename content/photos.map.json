@@ -33135,47 +33135,17 @@
   "nophoto": "no free Kerala or Tamil Nadu rain photo unused in 7 days; quick_photo, finder h0800 down"
  },
  "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns": {
-  "id": "i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-  "src": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-en-3x2-1280.jpg",
-  "src800": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-en-3x2-640.jpg",
+  "id": "o-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+  "src": "/photos/o-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-1280.jpg",
+  "src800": "/photos/o-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Hijack threat note forces IndiGo flight back",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: धमकी के नोट से लौटी इंडिगो उड़ान",
-  "page": null,
-  "ihash": "642370a9b20b",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-hi-3x2-1280.jpg",
-    "src800": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-en-t-1280.jpg",
-    "src800": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-hi-t-1280.jpg",
-    "src800": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-en-1280.jpg",
-    "src800": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-hi-1280.jpg",
-    "src800": "/photos/i-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of IndiGo aircraft and Kempegowda airport; library, quick_photo, finder h0806 (GitHub Actions failing)"
+  "srcWidth": 5215,
+  "credit": "Photo: BriYYZ from Toronto, Canada / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "An IndiGo Airbus A320neo in flight (file photo)",
+  "alt_hi": "उड़ान भरता इंडिगो का एयरबस ए320नियो विमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:IndiGo_Airbus_A320neo_F-WWDG_(to_VT-ITI)_(28915135713).jpg"
  },
  "jajpur-nalipur-house-fire-four-of-family-dead-odisha": {
   "id": "i-jajpur-nalipur-house-fire-four-of-family-dead-odisha",

@@ -76,6 +76,19 @@ if c.get('source') == 'pib':   # PIB is reachable directly: no GitHub workflow n
 else:
     r = subprocess.run([sys.executable, 'newsroom/scripts/photos_gh.py', 'download', tag, pid], capture_output=True, text=True)
     print(r.stdout.strip(), r.stderr.strip())
+    if not os.path.exists(raw) and 'upload.wikimedia.org' in str(c['url']):
+        # GitHub Actions unavailable (e.g. billing): Commons is reachable directly, so fetch it from here
+        import urllib.request, time; os.makedirs(os.path.dirname(raw), exist_ok=True)
+        # Wikimedia asks scripts to fetch its standard thumbnail sizes (https://w.wiki/GHai), not originals
+        u_ = str(c['url']).split('?')[0]
+        if (c.get('width') or 0) > 1920 and '/commons/' in u_ and '/thumb/' not in u_:
+            u_ = u_.replace('/commons/', '/commons/thumb/', 1) + '/1920px-' + u_.split('/')[-1]
+        for t in range(4):
+            try:
+                data = urllib.request.urlopen(urllib.request.Request(u_, headers={'User-Agent': 'GandhiNewsPhotoDesk/1.0 (noreply@anthropic.com)'}), timeout=120).read()
+                open(raw, 'wb').write(data); print('downloaded directly from Commons'); break
+            except Exception as e:
+                print('direct download:', e); time.sleep(30 * (t + 1))
 if not os.path.exists(raw): sys.exit('download failed; photos.json entry left in place, run again')
 im = Image.open(raw).convert('RGB')
 if c.get('crop'):   # library portraits from big official photos: the crop around the face, worked out when the library was built

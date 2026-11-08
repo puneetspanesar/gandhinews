@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+    "id": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
     "overlay": {
       "kicker": {
-        "en": "National / Aviation security",
-        "hi": "राष्ट्रीय / विमानन सुरक्षा"
+        "en": "States / West Bengal",
+        "hi": "राज्य / पश्चिम बंगाल"
       },
       "value": {
-        "en": "Hijack threat note: IndiGo flight turns back",
-        "hi": "अपहरण की धमकी: इंडिगो उड़ान लौटी"
+        "en": "Diwali with BSF on the border",
+        "hi": "सीमा पर बीएसएफ के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -16,109 +16,112 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+      "suvendu-adhikari-caa-citizenship-december-31-nadia"
+    ],
     "relatedBeside": [
-      "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-      "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-      "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-      "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
+      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+      "modi-diwali-greetings-citizens-viksit-bharat",
+      "sebi-settlement-regulations-2026-in-force-online-facility-fees"
     ],
     "live": {
       "title": {
-        "en": "Aviation security",
-        "hi": "विमानन सुरक्षा"
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "lead": {
-          "en": "Home Affairs:",
-          "hi": "गृह मंत्रालय:"
-        },
-        "text": {
-          "en": "Shah sets drug-free India by 2029 goal at Gujarat security review in Ahmedabad",
-          "hi": "अहमदाबाद में गुजरात की सुरक्षा समीक्षा, शाह ने 2029 तक नशामुक्त भारत का लक्ष्य रखा"
-        }
-      },
-      {
-        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
-          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
+          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
+          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
         }
       },
       {
-        "link": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+        "link": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Four of a family, two of them children, die in Jajpur house fire on Diwali eve",
-          "hi": "जाजपुर में दिवाली की पूर्व संध्या पर घर में आग, एक ही परिवार के चार लोगों की मौत"
+          "en": "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far",
+          "hi": "आंध्र परिषद चुनाव की गिनती में टीडीपी गठबंधन आगे, वाईएसआरसीपी को अब तक एक जेडपीटीसी सीट"
         }
       },
       {
-        "link": "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
+        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
         "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
+          "en": "Weather:",
+          "hi": "मौसम:"
         },
         "text": {
-          "en": "Yogi Adityanath to spend Diwali morning at Hanumangarhi, Ram temple and Nishad basti",
-          "hi": "योगी आदित्यनाथ की दिवाली की सुबह हनुमानगढ़ी, राम मंदिर और निषाद बस्ती में"
+          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
+          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
         }
       },
       {
-        "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+        "link": "modi-diwali-greetings-citizens-viksit-bharat",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Diwali:",
+          "hi": "दिवाली:"
         },
         "text": {
-          "en": "Adkar and Bhosale meet Swiss pair Karamoko and Waltert in Chennai Open doubles final",
-          "hi": "चेन्नई ओपन डबल्स फाइनल में आडकर और भोसले का सामना स्विट्ज़रलैंड की कारामोको और वाल्टर्ट से"
+          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
+          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
         }
       },
       {
-        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
+          "en": "SEBI:",
+          "hi": "सेबी:"
         },
         "text": {
-          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
-          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
+          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
+          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
         }
       },
       {
-        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
         "lead": {
           "en": "Middle East:",
           "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
-          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
+          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
+          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
         }
       },
       {
-        "link": "cancer-drugs-137-revised-prices-november-9-nppa",
+        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "Revised prices of 137 anti-cancer drugs take effect on Monday, with margins capped at 30%",
-          "hi": "137 कैंसर दवाओं की संशोधित कीमतें सोमवार से लागू, मार्जिन की सीमा 30%"
+          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
+          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
+        }
+      },
+      {
+        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "lead": {
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
+        },
+        "text": {
+          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
+          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
         }
       }
     ]
@@ -186,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "id": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
       "also": []
     },
     "list": [
-      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-      "cancer-drugs-137-revised-prices-november-9-nppa",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears"
+      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+      "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "nadda-national-cancer-awareness-day-screening-appeal"
     ],
     "also": [
-      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-      "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
+      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
     ]
   },
   "startHere": [
@@ -404,8 +407,8 @@
       "lead": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
       "list": [
         "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
       ]
     },
     {
@@ -532,20 +535,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-07T14:38:30+05:30",
-      "ids": [
-        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
-      ]
-    },
-    {
       "at": "2026-11-07T17:04:39+05:30",
       "ids": [
         "modi-diwali-greetings-citizens-viksit-bharat",
@@ -646,6 +635,22 @@
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
         "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
         "cancer-drugs-137-revised-prices-november-9-nppa"
+      ]
+    },
+    {
+      "at": "2026-11-08T07:21:51+05:30",
+      "ids": [
+        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+        "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+        "suvendu-adhikari-caa-citizenship-december-31-nadia",
+        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
       ]
     }
   ],

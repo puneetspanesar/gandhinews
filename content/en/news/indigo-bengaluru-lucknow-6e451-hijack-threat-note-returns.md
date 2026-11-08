@@ -17,7 +17,7 @@ hero:
   need: "IndiGo aircraft at Kempegowda International Airport, Bengaluru"
   suggested_source: "Kempegowda International Airport"
   subjects: ["Kempegowda International Airport", "IndiGo"]
-  alt: "An IndiGo aircraft at Kempegowda International Airport, Bengaluru"
+  alt: "An IndiGo Airbus A320neo in flight (file photo)"
   overlay:
     value: "Hijack threat note: IndiGo flight turns back"
 infographic:
