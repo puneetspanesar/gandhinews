@@ -49348,12 +49348,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Smog_as_visible_in_the_Gurgaon_area_near_Delhi_on_Nov_2016.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Contr_Unit_of_Electronic_Voting_Machine.jpg/1280px-Contr_Unit_of_Electronic_Voting_Machine.jpg",
   "credit": "Photo: Nilanjan Chowdhury / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
+  "licence": "CC BY-SA 4.0",
   "alt": "Voters check their names in an electoral roll with a poll worker (file photo)",
   "alt_hi": "मतदाता सूची में अपना नाम देखते मतदाता, साथ में एक चुनाव कर्मी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Contr_Unit_of_Electronic_Voting_Machine.jpg",
   "id": "r-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
   "articleId": "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
  },
@@ -49856,6 +49856,16 @@
   "alt": "Akhilesh Yadav (file photo)",
   "alt_hi": "अखिलेश यादव (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav_(14335961811).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Petrol_Pump_at_Addakal.jpg/1280px-HP_Petrol_Pump_at_Addakal.jpg",
+  "credit": "Photo: Chanduclicks / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A petrol pump in Telangana (file photo)",
+  "alt_hi": "तेलंगाना में एक पेट्रोल पंप (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Petrol_Pump_at_Addakal.jpg",
+  "id": "r-e20-petrol-explained-ethanol-blend-karnataka-row",
+  "articleId": "e20-petrol-explained-ethanol-blend-karnataka-row"
  },
  {
   "id": "o-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",

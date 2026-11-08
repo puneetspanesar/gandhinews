@@ -17,15 +17,14 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "suvendu-adhikari-caa-citizenship-december-31-nadia"
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
     ],
     "relatedBeside": [
       "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-      "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-      "modi-diwali-greetings-citizens-viksit-bharat",
-      "sebi-settlement-regulations-2026-in-force-online-facility-fees"
+      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "who-six-climate-health-actions-1-6-million-lives-cop31",
+      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
     ],
     "live": {
       "title": {
@@ -48,39 +47,6 @@
         }
       },
       {
-        "link": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far",
-          "hi": "आंध्र परिषद चुनाव की गिनती में टीडीपी गठबंधन आगे, वाईएसआरसीपी को अब तक एक जेडपीटीसी सीट"
-        }
-      },
-      {
-        "link": "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Heavy rain forecast for Tamil Nadu and Kerala, eight districts on alert for Deepavali",
-          "hi": "तमिलनाडु और केरल में भारी बारिश का अनुमान, दीपावली पर आठ जिलों में अलर्ट"
-        }
-      },
-      {
-        "link": "modi-diwali-greetings-citizens-viksit-bharat",
-        "lead": {
-          "en": "Diwali:",
-          "hi": "दिवाली:"
-        },
-        "text": {
-          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
-          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
-        }
-      },
-      {
         "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "lead": {
           "en": "SEBI:",
@@ -92,6 +58,17 @@
         }
       },
       {
+        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
+          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
+        }
+      },
+      {
         "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
         "lead": {
           "en": "Middle East:",
@@ -100,6 +77,28 @@
         "text": {
           "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
           "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
+        }
+      },
+      {
+        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
+          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
+        }
+      },
+      {
+        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
+          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
         }
       },
       {
@@ -189,28 +188,28 @@
   },
   "topStories": {
     "big": {
-      "id": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "id": "chawri-bazar-building-collapse-toll-six-four-arrested",
       "also": []
     },
     "list": [
       "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
       "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-      "chawri-bazar-building-collapse-toll-six-four-arrested",
-      "nadda-national-cancer-awareness-day-screening-appeal"
-    ],
-    "also": [
+      "nadda-national-cancer-awareness-day-screening-appeal",
       "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
       "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
+    ],
+    "also": [
+      "fox-completes-22-billion-roku-acquisition",
+      "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast"
     ]
   },
   "startHere": [
+    "e20-petrol-explained-ethanol-blend-karnataka-row",
+    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
     "obc-creamy-layer-explained-parents-salary-supreme-court",
     "bbmb-power-sharing-explained-himachal-share-supreme-court",
     "foreign-investors-return-explained-fii-dii-sensex-rally",
-    "suspension-of-sentence-explained-tejpal-supreme-court",
-    "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses"
+    "suspension-of-sentence-explained-tejpal-supreme-court"
   ],
   "trackers": [
     {
@@ -280,9 +279,9 @@
   },
   "factCheck": {
     "cards": [
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
       "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "railways-18000-festive-specials-trips-claim",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+      "railways-18000-festive-specials-trips-claim"
     ]
   },
   "explained": [
@@ -363,11 +362,11 @@
     }
   ],
   "opinion": [
+    "e20-ethanol-row-needs-joint-testing-and-published-results",
+    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
     "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-    "bail-granted-is-not-freedom-release-the-under-trials",
-    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-    "khunti-crash-night-highways-need-lights-and-speed-checks"
+    "bail-granted-is-not-freedom-release-the-under-trials"
   ],
   "sections": [
     {
@@ -377,9 +376,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
       ],
       "lead": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
     },
@@ -638,17 +637,16 @@
       ]
     },
     {
-      "at": "2026-11-08T07:21:51+05:30",
+      "at": "2026-11-08T07:22:28+05:30",
       "ids": [
         "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
         "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia",
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "modi-diwali-greetings-citizens-viksit-bharat",
         "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
         "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "chawri-bazar-building-collapse-toll-six-four-arrested",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
       ]
