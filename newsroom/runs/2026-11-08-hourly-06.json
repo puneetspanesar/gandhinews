@@ -1,0 +1,51 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-08T06:04:31+05:30",
+ "end": "2026-11-08T06:36:40+05:30",
+ "summary": "5 new stories (IndiGo hijack note lead, Jajpur fire, Yogi and Suvendu Diwali, Chennai Open doubles final); nothing held",
+ "new": [
+  "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+  "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+  "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+  "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+  "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+   "why": "Story, key point and both covers place the visit at the Hakimpur BSF camp, Swarupnagar block, at about 11 am, from the November 5 schedule. The latest source (PTI via Vartha Bharati, Saturday night) quotes Adhikari himself: 'I will visit the Hingalganj BSF post tomorrow'. The 11 am time comes only from the outdated schedule, and the cover source line 'State government schedule, November 8, 2026' is not what any source says.",
+   "done": "Hingalganj (his own Saturday-night remark) in EN and HI key point, stat and body; 11 am kept only as the earlier schedule; cover source line now \"Chief Minister's remarks, November 7, 2026\"; covers re-rendered"
+  },
+  {
+   "id": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+   "why": "The standfirst ('Another child was rushed to hospital with serious burns') and the third key point ('a child with serious burns') state as fact what the sources dispute: Sambad says a child, OMMCOM says a youth. The verification note says the copy only says 'another member of the family', but the standfirst and key point do not. The Hindi standfirst and key point repeat it ('एक और बच्चा', 'एक झुलसे बच्चे').",
+   "done": "standfirst and key point say \"another member of the family\" in EN and HI"
+  },
+  {
+   "id": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+   "why": "The English standfirst says they are 'the first Indians to reach a doubles final on the main WTA Tour'. That is false: Sania Mirza won 43 WTA doubles titles. The source (PTI via ThePrint) says first ALL-INDIAN PAIR.",
+   "done": "EN standfirst now \"first all-Indian pair\" (HI already said pair)"
+  },
+  {
+   "id": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+   "why": "Both covers (and the lead graphic on the homepage) give the source as 'IndiGo statement, November 7, 2026', but the two figures shown (5:50 pm departure, 178 passengers) come from NewsX alone. IndiGo's statement gives neither, as the file's own verification note says.",
+   "done": "cover source line \"Reports, November 7, 2026\" in EN and HI; covers re-rendered"
+  },
+  {
+   "id": "homepage",
+   "why": "1) The lead is the IndiGo infographic. The Shah Ahmedabad story beside it has a real photo, so an infographic should not lead (rule 8). A hoax-note flight return from Saturday 5:50 pm is also a minor, roughly 13-hour-old story to lead with on Diwali morning, when other front pages lead with Diwali: move a pictured story with more weight into the lead (e.g. the Shah story or a Diwali-day story) and put IndiGo lower. 2) An empty grey strip sits under the lead graphic on desktop (about 30px between the graphic and the kicker) and on mobile: fix the lead image box so the graphic fills it, or remove the grey placeholder. 3) Balance: the top block holds four stories from the states section (IndiGo, Jajpur, Yogi Diwali, Suvendu Diwali); the limit is two. The Yogi and Suvendu bullets sit next to each other on the same subject (a CM's Diwali plans), and both also repeat in This Week: keep one of them in the top block and move the other states stories down.",
+   "done": "3) Suvendu preview dropped from the homepage: top block now has two states stories (Jajpur, Yogi) and no same-subject pair. 1) Not fixed: the Shah story is 8.2 hours old and fails the build audit as a lead (limit 8); no story under 8 hours has a photo (GitHub Actions finder down, Wikimedia not reachable from the container, PIB timed out), so IndiGo stays the lead as a recorded breach. 2) grey strip under an infographic lead is a template issue, left for a code fix."
+  }
+ ],
+ "breaches": [
+  "lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one: indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): obc-creamy-layer-explained-parents-salary-supreme-court"
+ ],
+ "lead": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
+}

@@ -62,3 +62,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - GitHub Actions jobs fail in 2 seconds with no steps (find-photos.yml and download-photos.yml, three tries): the finder and library downloads are down. NEXT RUN, FIRST: when Actions work, run the finder for Ayodhya Deepotsav, Delhi smog, Suvendu Adhikari, Sanaa air strike, Chawri Bazar collapse, India U19, Tata Memorial Hospital and swap the graphics; Deepotsav should lead once it has a photo.
 - Editor homepage FAIL not fixed (second check): States count in Must Read, week-ahead rows (ODI and counting "Today", Paris Masters final mislabelled as semi-final), FII explainer beside the lead (dropping it left 400px empty beside the lead), U19 headline wrap.
 - Markets: Saturday, closed; markets.json unchanged.
+
+## November 8, 2026, 6:40 am (from the 06:00 run)
+- Published 5: indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns (LEAD, infographic --nophoto: breach), jajpur-nalipur-house-fire-four-of-family-dead-odisha, yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan (preview), suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram (preview, Hingalganj; dropped from the homepage), adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday (preview). All infographic --nophoto.
+- GitHub Actions still fail at once (find-photos and Homepage rotation, last fails 00:46 UTC and earlier): no finder, no hourly rotation between runs. Wikimedia not reachable from the container; PIB timed out.
+- NEXT RUN, FIRST: a Diwali-day lead with a photo (PIB: Rajnath Singh at Sherathang, PM with troops); Suvendu at Hingalganj BSF post as done; Yogi Ayodhya prayers as done; Delhi AQI on Diwali morning (CPCB); India U19 v Pakistan score or result (toss 10 am); Chennai Open doubles final result; a world story (world-business desk found nothing confirmable).
+- Not fixed: grey strip under an infographic lead (template).
