@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: warning-circle, value: "6", label: "dead in the November 5 collapse"}
     - {icon: users, value: "4", label: "arrested, including the owner"}
-  timeline: [{date: "June 15", text: "Police write to the MCD about unauthorised construction", icon: newspaper}, {date: "Nov 5", text: "Three-storey building collapses at 9:50 am call", icon: warning-circle}, {date: "Nov 7", text: "Six bodies recovered, four arrested", icon: gavel}]
+  timeline: [{date: "June 15", text: "Police write to the MCD about unauthorised construction", icon: newspaper}, {date: "Nov 5", text: "Three-storey building collapses; police called at 9:50 am", icon: warning-circle}, {date: "Nov 7", text: "Six bodies recovered, four arrested", icon: gavel}]
   source: "Delhi Police and MCD, November 5 to 7, 2026"
 related: [chawri-bazar-building-collapse-toll-six-four-arrested, school-buildings-need-safety-audits-before-the-next-roof-falls]
 seo:
@@ -60,7 +60,7 @@ verification:
 
 A police officer put it in writing. On June 15, the station house officer at Hauz Qazi wrote to the MCD's City-SP Zone that **unauthorised construction** was being carried out in a building in Gali Sitara. On November 5, at about 9:50 am, that building collapsed. Six people died, five of them from Bihar.
 
-An arrest and two suspensions followed, as they usually do. They do not answer the question the letter raises.
+Four arrests and two suspensions followed, as they usually do. They do not answer the question the letter raises.
 
 ## What the paper trail shows
 

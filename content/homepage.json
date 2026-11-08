@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+    "id": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
     "overlay": {
       "kicker": {
-        "en": "National / Aviation security",
-        "hi": "राष्ट्रीय / विमानन सुरक्षा"
+        "en": "States / West Bengal",
+        "hi": "राज्य / पश्चिम बंगाल"
       },
       "value": {
-        "en": "Hijack threat note: IndiGo flight turns back",
-        "hi": "अपहरण की धमकी: इंडिगो उड़ान लौटी"
+        "en": "Diwali with BSF on the border",
+        "hi": "सीमा पर बीएसएफ के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -16,109 +16,111 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
+    ],
     "relatedBeside": [
-      "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-      "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-      "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-      "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
+      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+      "who-six-climate-health-actions-1-6-million-lives-cop31",
+      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
     ],
     "live": {
       "title": {
-        "en": "Aviation security",
-        "hi": "विमानन सुरक्षा"
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "lead": {
-          "en": "Home Affairs:",
-          "hi": "गृह मंत्रालय:"
-        },
-        "text": {
-          "en": "Shah sets drug-free India by 2029 goal at Gujarat security review in Ahmedabad",
-          "hi": "अहमदाबाद में गुजरात की सुरक्षा समीक्षा, शाह ने 2029 तक नशामुक्त भारत का लक्ष्य रखा"
-        }
-      },
-      {
-        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
-          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
+          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
+          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
         }
       },
       {
-        "link": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "SEBI:",
+          "hi": "सेबी:"
         },
         "text": {
-          "en": "Four of a family, two of them children, die in Jajpur house fire on Diwali eve",
-          "hi": "जाजपुर में दिवाली की पूर्व संध्या पर घर में आग, एक ही परिवार के चार लोगों की मौत"
+          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
+          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
         }
       },
       {
-        "link": "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "Yogi Adityanath to spend Diwali morning at Hanumangarhi, Ram temple and Nishad basti",
-          "hi": "योगी आदित्यनाथ की दिवाली की सुबह हनुमानगढ़ी, राम मंदिर और निषाद बस्ती में"
-        }
-      },
-      {
-        "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Adkar and Bhosale meet Swiss pair Karamoko and Waltert in Chennai Open doubles final",
-          "hi": "चेन्नई ओपन डबल्स फाइनल में आडकर और भोसले का सामना स्विट्ज़रलैंड की कारामोको और वाल्टर्ट से"
-        }
-      },
-      {
-        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
-          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
-        }
-      },
-      {
-        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
-          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
-        }
-      },
-      {
-        "link": "cancer-drugs-137-revised-prices-november-9-nppa",
+        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
         "lead": {
           "en": "Health:",
           "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Revised prices of 137 anti-cancer drugs take effect on Monday, with margins capped at 30%",
-          "hi": "137 कैंसर दवाओं की संशोधित कीमतें सोमवार से लागू, मार्जिन की सीमा 30%"
+          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
+          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
+        }
+      },
+      {
+        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
+          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
+        }
+      },
+      {
+        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
+          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
+        }
+      },
+      {
+        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
+          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
+        }
+      },
+      {
+        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
+          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
+        }
+      },
+      {
+        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "lead": {
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
+        },
+        "text": {
+          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
+          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
         }
       }
     ]
@@ -186,28 +188,28 @@
   },
   "topStories": {
     "big": {
-      "id": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "id": "chawri-bazar-building-collapse-toll-six-four-arrested",
       "also": []
     },
     "list": [
-      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-      "cancer-drugs-137-revised-prices-november-9-nppa",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears"
+      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+      "nadda-national-cancer-awareness-day-screening-appeal",
+      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
     ],
     "also": [
-      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-      "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
+      "fox-completes-22-billion-roku-acquisition",
+      "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast"
     ]
   },
   "startHere": [
+    "e20-petrol-explained-ethanol-blend-karnataka-row",
+    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
     "obc-creamy-layer-explained-parents-salary-supreme-court",
     "bbmb-power-sharing-explained-himachal-share-supreme-court",
     "foreign-investors-return-explained-fii-dii-sensex-rally",
-    "suspension-of-sentence-explained-tejpal-supreme-court",
-    "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses"
+    "suspension-of-sentence-explained-tejpal-supreme-court"
   ],
   "trackers": [
     {
@@ -277,9 +279,9 @@
   },
   "factCheck": {
     "cards": [
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
       "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "railways-18000-festive-specials-trips-claim",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+      "railways-18000-festive-specials-trips-claim"
     ]
   },
   "explained": [
@@ -360,11 +362,11 @@
     }
   ],
   "opinion": [
+    "e20-ethanol-row-needs-joint-testing-and-published-results",
+    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
     "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-    "bail-granted-is-not-freedom-release-the-under-trials",
-    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-    "khunti-crash-night-highways-need-lights-and-speed-checks"
+    "bail-granted-is-not-freedom-release-the-under-trials"
   ],
   "sections": [
     {
@@ -374,9 +376,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia"
+        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
+        "sc-delhi-ncr-women-safety-union-reply-november-23",
+        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
       ],
       "lead": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
     },
@@ -404,8 +406,8 @@
       "lead": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
       "list": [
         "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
       ]
     },
     {
@@ -532,20 +534,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-07T14:38:30+05:30",
-      "ids": [
-        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-        "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
-      ]
-    },
-    {
       "at": "2026-11-07T17:04:39+05:30",
       "ids": [
         "modi-diwali-greetings-citizens-viksit-bharat",
@@ -646,6 +634,21 @@
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
         "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
         "cancer-drugs-137-revised-prices-november-9-nppa"
+      ]
+    },
+    {
+      "at": "2026-11-08T07:22:28+05:30",
+      "ids": [
+        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+        "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+        "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
       ]
     }
   ],

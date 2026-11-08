@@ -107,7 +107,7 @@ Adityanath reportedly named 66 lakh people on panchayat rolls but not on assembl
 He also said only four lakh voters were added in the previous revision. The Commission's figure for this one is **84.29 lakh added** between draft and final, with 86.69 lakh Form 6 applications for inclusion. The reports do not say which exercise he meant.
 
 ```timeline
-{"title":"From the frozen roll to the claim","items":[{"date":"Oct 27, 2025","text":"Roll frozen at about 15.44 crore electors; revision begins"},{"date":"Jan 6, 2026","text":"Draft roll: 12.55 crore, with 2.89 crore names proposed for deletion"},{"date":"Apr 10, 2026","text":"Final roll: 13.39 crore, 84.29 lakh names added since the draft"},{"date":"Oct 30, 2026","text":"Adityanath tells BJP workers 1.27 crore Hindus are missing"},{"date":"Nov 6, 2026","text":"Akhilesh Yadav asks how the Chief Minister knows they are Hindus"}]}
+{"title":"From the frozen roll to the claim","items":[{"date":"Oct 27, 2025","text":"Roll frozen at about 15.44 crore electors; revision begins"},{"date":"Jan 6, 2026","text":"Draft roll: 12.56 crore, with 2.89 crore names proposed for deletion"},{"date":"Apr 10, 2026","text":"Final roll: 13.40 crore, 84.29 lakh names added since the draft"},{"date":"Oct 30, 2026","text":"Adityanath tells BJP workers 1.27 crore Hindus are missing"},{"date":"Nov 6, 2026","text":"Akhilesh Yadav asks how the Chief Minister knows they are Hindus"}]}
 ```
 
 ## Why this claim spread

@@ -1,0 +1,29 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-08T06:37:56+05:30",
+ "end": "2026-11-08T07:25:01+05:30",
+ "summary": "5 long-form pieces; photo finder blocked by GitHub Actions billing",
+ "new": [
+  "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+  "e20-ethanol-row-needs-joint-testing-and-published-results",
+  "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+  "e20-petrol-explained-ethanol-blend-karnataka-row",
+  "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+   "why": "Hindi text, evidence section 3, has a broken sentence: 'पंचायत सूची में पर लेकिन विधानसभा सूची में न होने वाले 66 लाख लोग' ('में पर लेकिन' is not Hindi). Also list.txt points both text files to content/en|hi/news/, where they do not exist (the story is in content/en|hi/factcheck/), so the review sheet has no headline, section or date.",
+   "done": "Hindi evidence point 3 rewritten as \"पंचायत सूची में तो हैं लेकिन विधानसभा सूची में नहीं, ऐसे 66 लाख लोग\""
+  }
+ ],
+ "breaches": [
+  "lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one: suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+ ],
+ "lead": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram"
+}
