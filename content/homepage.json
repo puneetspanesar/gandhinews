@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+    "id": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
     "overlay": {
       "kicker": {
-        "en": "Policy / Defence",
-        "hi": "नीति / रक्षा"
+        "en": "Politics / Internal security",
+        "hi": "राजनीति / आंतरिक सुरक्षा"
       },
       "value": {
-        "en": "Diwali with the Trishakti Corps",
-        "hi": "त्रिशक्ति कोर के साथ दिवाली"
+        "en": "First Diwali free of Naxalism, Modi says",
+        "hi": "नक्सलमुक्त पहली दिवाली: मोदी"
       },
       "text": {
         "en": "",
@@ -16,109 +16,111 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "modi-advani-99th-birthday-nation-first-foundation"
+    ],
     "relatedBeside": [
-      "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
-      "bail-granted-is-not-freedom-release-the-under-trials"
+      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+      "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+      "bbmb-power-sharing-explained-himachal-share-supreme-court",
+      "railways-18000-festive-specials-trips-claim"
     ],
     "live": {
       "title": {
-        "en": "Defence",
-        "hi": "रक्षा"
+        "en": "Internal security",
+        "hi": "आंतरिक सुरक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
         "lead": {
-          "en": "Home Affairs:",
-          "hi": "गृह मंत्रालय:"
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
         },
         "text": {
-          "en": "Shah sets drug-free India by 2029 goal at Gujarat security review in Ahmedabad",
-          "hi": "अहमदाबाद में गुजरात की सुरक्षा समीक्षा, शाह ने 2029 तक नशामुक्त भारत का लक्ष्य रखा"
+          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
+          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
         }
       },
       {
-        "link": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home",
-          "hi": "अभिषेक के घर के बाहर फिर तनाव, ममता ने कोलकाता पुलिस आयुक्त अजय नंदा से इस्तीफा मांगा"
-        }
-      },
-      {
-        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
-          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
-        }
-      },
-      {
-        "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Delhi ends Diwali eve at AQI 369, with 16 stations in the severe band",
-          "hi": "दिवाली की पूर्व संध्या पर दिल्ली का एक्यूआई 369, 16 स्टेशनों पर हवा गंभीर"
-        }
-      },
-      {
-        "link": "bail-granted-is-not-freedom-release-the-under-trials",
+        "link": "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Bail that never opens a cell door is no bail at all. Uttar Pradesh must free the 106 still waiting, and stop the next 264",
-          "hi": "जो जमानत जेल का दरवाज़ा न खोले, वह जमानत नहीं। उत्तर प्रदेश इंतज़ार कर रहे 106 लोगों को रिहा करे और अगले 264 को रोके"
+          "en": "Counting rice every Friday will not cool prices on its own. The Centre must put its cheap grain on southern shelves, and show what the count finds",
+          "hi": "हर शुक्रवार चावल गिनने से अपने आप दाम नहीं घटेंगे। केंद्र अपना सस्ता अनाज दक्षिण की दुकानों तक पहुंचाए और बताए कि गिनती में क्या मिला"
         }
       },
       {
-        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "link": "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+        "lead": {
+          "en": "Aviation security:",
+          "hi": "विमानन सुरक्षा:"
+        },
+        "text": {
+          "en": "IndiGo Bengaluru-Lucknow flight turns back after hijack threat note found in toilet",
+          "hi": "शौचालय में अपहरण की धमकी का नोट मिला, इंडिगो की बेंगलुरु-लखनऊ उड़ान लौटी"
+        }
+      },
+      {
+        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "lead": {
+          "en": "Power:",
+          "hi": "बिजली:"
+        },
+        "text": {
+          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
+          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
+        }
+      },
+      {
+        "link": "railways-18000-festive-specials-trips-claim",
+        "lead": {
+          "en": "Railways:",
+          "hi": "रेलवे:"
+        },
+        "text": {
+          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
+          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
+        }
+      },
+      {
+        "link": "india-u19-pakistan-asia-cup-result-zahoor-century",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
-          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
+          "en": "Hamza Zahoor's hundred takes Pakistan U19 past India by three wickets despite Rajput's 107",
+          "hi": "राजपूत के 107 के बावजूद हमजा ज़हूर के शतक से पाकिस्तान अंडर-19 ने भारत को तीन विकेट से हराया"
         }
       },
       {
-        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "link": "modi-advani-99th-birthday-nation-first-foundation",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "BJP:",
+          "hi": "भाजपा:"
         },
         "text": {
-          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
-          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
+          "en": "Modi on Advani's 99th birthday: he gave the BJP a foundation of Nation First",
+          "hi": "आडवाणी के 99वें जन्मदिन पर मोदी: उन्होंने भाजपा को राष्ट्र प्रथम की नींव दी"
         }
       },
       {
-        "link": "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "link": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Yogi Adityanath's claim that 1.27 crore Hindus are missing from UP's voter lists is misleading",
-          "hi": "यूपी की मतदाता सूची से 1.27 करोड़ हिंदुओं के नाम गायब होने का योगी आदित्यनाथ का दावा भ्रामक"
+          "en": "Two tankers burn after hitting mines near Hormuz as loud blasts rock Riyadh",
+          "hi": "होर्मुज के पास बारूदी सुरंग से दो टैंकरों में आग, रियाद में तेज धमाके"
         }
       }
     ]
@@ -186,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "id": "india-u19-pakistan-asia-cup-result-zahoor-century",
       "also": []
     },
     "list": [
-      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
+      "modi-advani-99th-birthday-nation-first-foundation",
+      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
     ],
     "also": [
-      "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
     ]
   },
   "startHere": [
@@ -372,11 +374,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia"
+        "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+        "modi-heads-to-bastar-diwali-security-forces",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
       ],
-      "lead": "modi-heads-to-bastar-diwali-security-forces"
+      "lead": "modi-advani-99th-birthday-nation-first-foundation"
     },
     {
       "section": "economy",
@@ -399,20 +401,20 @@
     },
     {
       "section": "states",
-      "lead": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+      "lead": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
       "list": [
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
         "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
-        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive"
+        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing"
       ]
     },
     {
       "section": "policy",
       "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
       "list": [
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
+        "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
     },
     {
@@ -427,30 +429,30 @@
   "desks": [
     {
       "section": "world",
-      "lead": "japan-aichi-shizuoka-earthquake-57-22-injured",
+      "lead": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
       "list": [
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
       ]
     },
     {
       "section": "science",
-      "lead": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
       "list": [
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
         "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "navy-receives-amini-anti-submarine-shallow-water-craft"
+        "who-six-climate-health-actions-1-6-million-lives-cop31"
       ]
     },
     {
       "section": "sports",
-      "lead": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+      "lead": "india-u19-pakistan-asia-cup-result-zahoor-century",
       "list": [
+        "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
         "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests"
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
       ]
     }
   ],
@@ -517,20 +519,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T08:45:01+05:30",
-      "ids": [
-        "meghwal-diwali-bsf-bikaner-soldiers-family",
-        "e20-petrol-explained-ethanol-blend-karnataka-row",
-        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
-        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-        "e20-ethanol-row-needs-joint-testing-and-published-results",
-        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8"
-      ]
-    },
     {
       "at": "2026-11-08T10:50:16+05:30",
       "ids": [
@@ -630,6 +618,21 @@
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
         "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+      ]
+    },
+    {
+      "at": "2026-11-08T20:38:22+05:30",
+      "ids": [
+        "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+        "modi-heads-to-bastar-diwali-security-forces",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
+        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "railways-18000-festive-specials-trips-claim",
+        "india-u19-pakistan-asia-cup-result-zahoor-century",
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
       ]
     }
   ],

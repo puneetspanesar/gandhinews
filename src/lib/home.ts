@@ -658,6 +658,10 @@ export async function homeModel(lang: Lang) {
     const courts = take(pool(['politics', 'policy', 'states']).filter(isCourt), 5);
     const PIC_IC: [RegExp, string][] = [[/Defence|Armed/, 'shield-check'], [/Home Affairs|Police|security/i, 'police-car'], [/Health/, 'drop'], [/Fuel|Oil|Petrol/, 'gas-pump'], [/Rail/, 'train'], [/Trade|Commerce/, 'handshake'], [/Agri|Farm|Food/, 'plant'], [/Education/, 'scroll'], [/Election/, 'flag-banner']];
     const policy = take(pool(['policy']), 5).map((x: any) => ({ ...x, ic: (PIC_IC.find(([rx]) => rx.test(enLabel(x.id))) ?? [null, 'bank'])[1] }));
+    // courts and policy sit side by side: equal lengths so neither column leaves empty space; a courts list under 3 is dropped
+    if (courts.length && courts.length < 3) courts.length = 0;
+    if (courts.length && policy.length > courts.length) policy.length = courts.length;
+    if (policy.length && courts.length > policy.length) courts.length = policy.length;
     const politics = take(pool(['politics']), 7, true);
     // state by state: every state with fresh news, the busiest first, up to three headlines each
     const stIds = pool(['states']).filter((id) => !seen.has(id));

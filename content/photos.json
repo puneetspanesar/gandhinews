@@ -49930,19 +49930,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
  },
  {
-  "id": "x-modi-bastar-cobra-karanpur-diwali-naxalism-won",
-  "articleId": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-  "sourceUrl": "",
-  "credit": "Photos: Narendra Modi / Wikimedia Commons; Voelbaarsanket / Wikimedia Commons",
-  "licence": "CC BY 3.0 and CC BY-SA 4.0",
-  "alt": "Prime Minister Narendra Modi (file photos)",
-  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": null,
-  "composite": [
-   "lead-cover"
-  ]
- },
- {
   "id": "o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
   "articleId": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
   "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/image4_20261108151106_3d83ad.jpg",
@@ -49981,5 +49968,18 @@
   "alt": "Mamata Banerjee (file photo)",
   "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg"
+ },
+ {
+  "id": "x-modi-bastar-cobra-karanpur-diwali-naxalism-won",
+  "articleId": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+  "sourceUrl": "",
+  "credit": "Photo: ",
+  "licence": "",
+  "alt": "Prime Minister Narendra Modi (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]

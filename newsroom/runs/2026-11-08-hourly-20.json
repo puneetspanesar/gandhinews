@@ -1,0 +1,17 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-08T20:07:20+05:30",
+ "end": "2026-11-08T20:45:21+05:30",
+ "summary": "3 stories (Advani, Maharashtra dams, U19 result), Modi Bastar lead; editor homepage FAIL not fixed",
+ "new": [
+  "india-u19-pakistan-asia-cup-result-zahoor-century",
+  "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+  "modi-advani-99th-birthday-nation-first-foundation"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "modi-bastar-cobra-karanpur-diwali-naxalism-won"
+}
