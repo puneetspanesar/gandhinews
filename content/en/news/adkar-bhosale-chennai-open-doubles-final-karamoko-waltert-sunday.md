@@ -61,8 +61,4 @@ Karamoko and Waltert **won their semi-final 6-4, 6-4** against Isabelle Haverlag
 
 The singles title will be decided between top seed and defending champion **Janice Tjen of Indonesia** and third seed Magda Linette of Poland. Tjen beat Robin Montgomery 6-3, 6-4 in 1 hour 23 minutes. Linette came from a set down to beat seventh seed Anastasia Zakharova 2-6, 6-2, 6-3.
 
-```photo
-{"n":1,"subject":"Janice Tjen","caption":"Janice Tjen of Indonesia, the top seed and defending champion, plays Magda Linette in the singles final.","alt":"Indonesian tennis player Janice Tjen"}
-```
-
 Sunday's match gives Indian tennis a chance to end the week with a title on home courts. Wild card Maaya Rajeshwaran Revathi, 17, had earlier reached the singles quarter-finals before losing to Montgomery.

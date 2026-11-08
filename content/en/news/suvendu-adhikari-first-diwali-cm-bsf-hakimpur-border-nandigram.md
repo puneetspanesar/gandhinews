@@ -66,10 +66,6 @@ Adhikari spoke about the visit on Saturday on the sidelines of an event at Kolka
 
 He said the government was "making every effort to foster a positive environment and build strong bonds." On the working of the Centre and the state, he said: "You will see in the coming days how the Centre and the state are working together through better coordination."
 
-```photo
-{"n":1,"subject":"India-Bangladesh border barrier","caption":"The fenced India-Bangladesh border, which BSF personnel guard in North 24 Parganas.","alt":"The fenced India-Bangladesh border (file photo)"}
-```
-
 ## Border security and the state
 
 Adhikari said several meetings in Delhi had been aimed at **strengthening ties between the BSF and the state police**, and stressed the need for better coordination between the Centre and the state on border security.
