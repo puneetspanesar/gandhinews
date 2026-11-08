@@ -1057,3 +1057,11 @@ footer .fwm{height:48px;color:#fff}
 :lang(en) .d-bul{font-size:16px;font-weight:400}
 button,input,select,textarea,optgroup{font-family:inherit}
 button,.ckb button,.subf button,.fbtn,.mh-sub{font-weight:700}
+/* menus (owner, November 8): tighter capitals, and a thin divider between items that fades out at both ends */
+.menu.mh-nav>a,.menu.mh-nav summary{letter-spacing:.02em;padding:11px 16px}
+.menu.mh-nav>a+a::before,.menu.mh-nav>a+details>summary::before,.menu.mh-nav>details+a::before{content:"";position:absolute;left:0;top:4px;bottom:4px;width:1px;background:linear-gradient(to bottom,rgba(17,17,17,0),rgba(17,17,17,.6) 50%,rgba(17,17,17,0))}
+.menu.mh-nav details{position:relative}
+.mnav ul{gap:0}
+.mnav a{letter-spacing:.02em;padding:0 14px}
+.mnav li:first-child a{padding-left:16px}
+.mnav li+li a::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:1px;background:linear-gradient(to bottom,rgba(17,17,17,0),rgba(17,17,17,.55) 50%,rgba(17,17,17,0))}
