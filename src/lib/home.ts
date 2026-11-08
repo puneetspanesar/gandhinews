@@ -201,6 +201,30 @@ function mapIds() {
   MAP_IDS = new Map([...svg.matchAll(/<path id="([a-z]+)"[^>]*><title>([^<]+)<\/title>/g)].map((m) => [m[2], m[1]]));
   return MAP_IDS;
 }
+// Each state's outline box in public/maps/india.svg, so a state can be drawn on its own (state-by-state block)
+let STATE_BOX: Map<string, { id: string; vb: string; sw: string }> | null = null;
+export function stateBox(name: string) {
+  if (!STATE_BOX) {
+    STATE_BOX = new Map();
+    const svg = fs.readFileSync(path.join(ROOT, 'public/maps/india.svg'), 'utf8');
+    for (const m of svg.matchAll(/<path id="([a-z]+)" d="([^"]+)"[^>]*><title>([^<]+)<\/title>/g)) {
+      const toks = m[2].match(/[mlzML]|-?\d*\.?\d+(?:e-?\d+)?/gi) ?? [];
+      let cmd = 'm', x = 0, y = 0, sx = 0, sy = 0, first = true, x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
+      for (let i = 0; i < toks.length; i++) {
+        const t = toks[i];
+        if (/^[mlzML]$/.test(t)) { cmd = t; if (t === 'z' || t === 'Z') { x = sx; y = sy; } continue; }
+        const a = +t, b = +toks[++i];
+        if (cmd === 'm' || cmd === 'l') { if (first) { x = a; y = b; } else { x += a; y += b; } } else { x = a; y = b; }
+        if (cmd === 'm' || cmd === 'M') { sx = x; sy = y; cmd = cmd === 'm' ? 'l' : 'L'; }
+        first = false;
+        x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y);
+      }
+      const pad = Math.max(x1 - x0, y1 - y0) * 0.04;
+      STATE_BOX.set(m[3], { id: m[1], sw: (Math.max(x1 - x0, y1 - y0) / 30).toFixed(2), vb: `${(x0 - pad).toFixed(1)} ${(y0 - pad).toFixed(1)} ${(x1 - x0 + 2 * pad).toFixed(1)} ${(y1 - y0 + 2 * pad).toFixed(1)}` });
+    }
+  }
+  return STATE_BOX.get(name) ?? null;
+}
 const MONTH_IDX: Record<string, number> = { january: 0, february: 1, march: 2, april: 3, may: 4, june: 5, july: 6, august: 7, september: 8, october: 9, november: 10, december: 11 };
 
 export async function homeModel(lang: Lang) {
@@ -437,7 +461,10 @@ export async function homeModel(lang: Lang) {
 
   // ---- Explained, opinion
   const explained = HOME.explained.filter((x: any) => has(x.id)).map((x: any) => ({ ...card(x.id), topic: labelParts(get(x.id).data.format_label).slice(-1)[0], kn: x.kn.map((k: any) => ({ v: k.value[lang], l: k.label[lang] })) }));
-  const opinion = await Promise.all(HOME.opinion.filter((id: string) => has(id)).map(async (id: string) => {
+  // the homepage list first, then the newest editorials to make up seven (owner, November 8: a denser opinion block)
+  const opIds = [...HOME.opinion.filter((id: string) => has(id))];
+  for (const e of [...c.articles].filter((x: any) => x.data.type === 'editorial').sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published))) { if (opIds.length >= 7) break; if (!opIds.includes(e.data.id)) opIds.push(e.data.id); }
+  const opinion = await Promise.all(opIds.map(async (id: string) => {
     const x = card(id);
     const tp = x.d.topics[0] ? (await topicLink(x.d.topics[0], lang)).label : '';
     return { ...x, topic: tp, icon: iconFor(x.d) };
@@ -605,6 +632,9 @@ export async function homeModel(lang: Lang) {
 
   // ---- Dense front page (owner, November 7: the Indian Express style). Every block fills itself from the newest stories,
   // never shows one story twice, never news older than 48 hours, never a stale clock figure.
+  const ENC = (await content()).en;
+  const enLabel = (id: string) => String((ENC.all.get(id) as any)?.data.format_label ?? '');
+  const enTitle = (id: string) => String((ENC.all.get(id) as any)?.data.title ?? '');
   const dense = (() => {
     const seen = new Set<string>([lead.id]);
     const age = (id: string) => (Date.now() - +new Date((c.all.get(id) as any)?.data.published)) / 3.6e6;
@@ -619,16 +649,34 @@ export async function homeModel(lang: Lang) {
       return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
     };
     const hl = headlines.map((x: any) => x.id);
-    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 5);
+    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 4);
     const second = take(hl.filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 5);
     const must = take(pool(['politics', 'states', 'world', 'economy', 'policy'], 24), 5);
-    const states = take(pool(['states']), 10, true);
-    const econ = take(pool(['economy']), 6, true);
+    // ---- news-dense blocks (owner, November 8): headline lists grouped the way readers look for news
+    const isCourt = (id: string) => /Courts|Supreme Court|High Court/.test(enLabel(id)) || /Supreme Court|High Court/.test(enTitle(id));
+    const courts = take(pool(['politics', 'policy', 'states']).filter(isCourt), 5);
+    const PIC_IC: [RegExp, string][] = [[/Defence|Armed/, 'shield-check'], [/Home Affairs|Police|security/i, 'police-car'], [/Health/, 'drop'], [/Fuel|Oil|Petrol/, 'gas-pump'], [/Rail/, 'train'], [/Trade|Commerce/, 'handshake'], [/Agri|Farm|Food/, 'plant'], [/Education/, 'scroll'], [/Election/, 'flag-banner']];
+    const policy = take(pool(['policy']), 5).map((x: any) => ({ ...x, ic: (PIC_IC.find(([rx]) => rx.test(enLabel(x.id))) ?? [null, 'bank'])[1] }));
+    const politics = take(pool(['politics']), 7, true);
+    // state by state: every state with fresh news, the busiest first, up to three headlines each
+    const stIds = pool(['states']).filter((id) => !seen.has(id));
+    const byState = new Map<string, string[]>();
+    for (const id of stIds) { const k = labelParts(get(id).data.format_label).slice(-1)[0] ?? ''; const ek = enLabel(id).split('/').pop()!.trim(); if (!k || /Weather|Aviation|security/i.test(ek)) continue; if (!byState.has(k)) byState.set(k, []); byState.get(k)!.push(id); }
+    const stateGrid = [...byState.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 8)
+      .map(([name, ids]) => ({ name, shape: stateBox(enLabel(ids[0]).split('/').pop()!.trim()), items: take(ids, 3), href: `${lang === 'hi' ? '/hi' : ''}/states/` })).filter((g) => g.items.length > 0);
+    // world by region, from the English label
+    const REG: [string, RegExp, string][] = [['me', /Middle East|Iran|Israel|Gaza|Saudi|Qatar|Yemen|Iraq|Syria|Lebanon|Gulf/, lang === 'hi' ? 'पश्चिम एशिया' : 'Middle East'], ['sa', /Pakistan|Bangladesh|Nepal|Sri Lanka|Afghanistan|Bhutan|Maldives|Myanmar|South Asia/, lang === 'hi' ? 'दक्षिण एशिया' : 'South Asia'], ['am', /United States|US|America|Canada|Brazil|Mexico/, lang === 'hi' ? 'अमेरिका' : 'Americas'], ['eu', /Europe|UK|Britain|Russia|Ukraine|France|Germany/, lang === 'hi' ? 'यूरोप' : 'Europe'], ['ap', /China|Japan|Korea|Australia|New Zealand|Asia|Pacific|Taiwan|Philippines|Indonesia/, lang === 'hi' ? 'एशिया-प्रशांत' : 'Asia-Pacific']];
+    const wIds = pool(['world']).filter((id) => !seen.has(id));
+    const regions = REG.map(([key, rx, name]) => ({ key, name, items: take(wIds.filter((id) => rx.test(enLabel(id)) || rx.test(enTitle(id))), 3) })).filter((r) => r.items.length > 0);
+    const worldRest = take(wIds, 3);
+    if (worldRest.length) regions.push({ key: 'ot', name: lang === 'hi' ? 'और दुनिया' : 'Elsewhere', items: worldRest });
+    const states: any[] = [];
+    const econ = take(pool(['economy']), 8, true);
     // three columns at the foot: world, sports, science; a column with fewer than three fresh stories gives way to policy, then politics
-    const cols = [['world', ['world']], ['sports', ['sports']], ['science', ['science', 'tech']], ['policy', ['policy']], ['politics', ['politics']]]
+    const cols = [['sports', ['sports']], ['science', ['science', 'tech']], ['policy', ['policy']], ['politics', ['politics']]]
       .map(([key, secs]: any) => { const ids = pool(secs).filter((id) => !seen.has(id)); return ids.length >= 3 ? { key, items: take(ids, 4, true) } : null; })
-      .filter(Boolean).slice(0, 3);
+      .filter(Boolean).slice(0, 2);
     const MK: any = MARKETS_DATA;
     const row = (id: string) => [...(MK.indices ?? []), ...(MK.rates ?? [])].find((r: any) => r.id === id);
     const sxh = ((row('sensex')?.history ?? []) as any[]).slice(-22).map((x: any) => x.close as number);
@@ -643,8 +691,8 @@ export async function homeModel(lang: Lang) {
     const sameEv = (a: any, b: any) => a.date === b.date && [...wset(a.text)].filter((w) => wset(b.text).has(w)).length >= 3;
     const weekD = week.filter((x: any, i: number, all: any[]) => all.findIndex((y: any) => y.text === x.text || (y.href && y.href === x.href) || sameEv(x, y)) === i).slice(0, 4);
     return {
-      leadLinks, second, col2, must, states, econ, cols, weekD,
-      explained: start.slice(0, 4), opinion: opinion.slice(0, 5), fc: fcCards.slice(0, 2),
+      leadLinks, second, col2, must, states, econ, cols, weekD, courts, policy, politics, stateGrid, regions,
+      explained: start.slice(0, 4), opinion: opinion.slice(0, 7), fc: fcCards.slice(0, 2),
       sensex: sx ? { v: fmtNum(sx.value, 2), ch: fmtNum(sx.change, 0, true), p: sx.pct, spark, from: sxFirst ? fmtShort(String(sxFirst), lang, false) : '', to: fmtShort(String(MK.session_date), lang, false), n: sxh.length } : null,
       mkRows, mkDate: fmtShort(String(MK.session_date), lang, false), mkOpen: MK.status === 'open',
     };
