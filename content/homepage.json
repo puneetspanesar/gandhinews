@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "meghwal-diwali-bsf-bikaner-soldiers-family",
+    "id": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
     "overlay": {
       "kicker": {
-        "en": "States / Rajasthan",
-        "hi": "राज्य / राजस्थान"
+        "en": "States / West Bengal",
+        "hi": "राज्य / पश्चिम बंगाल"
       },
       "value": {
-        "en": "Diwali with BSF jawans in Bikaner",
-        "hi": "बीकानेर में बीएसएफ जवानों संग दिवाली"
+        "en": "Diwali with BSF on the border",
+        "hi": "सीमा पर बीएसएफ के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -16,109 +16,111 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
+    ],
     "relatedBeside": [
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-      "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "bbmb-power-sharing-explained-himachal-share-supreme-court",
+      "railways-18000-festive-specials-trips-claim",
+      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+      "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+      "japan-aichi-shizuoka-earthquake-57-22-injured"
     ],
     "live": {
       "title": {
-        "en": "Rajasthan",
-        "hi": "राजस्थान"
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
         "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
+          "en": "Power:",
+          "hi": "बिजली:"
         },
         "text": {
-          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
-          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
+          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
+          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
         }
       },
       {
-        "link": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "link": "railways-18000-festive-specials-trips-claim",
         "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
+          "en": "Railways:",
+          "hi": "रेलवे:"
         },
         "text": {
-          "en": "11.11 lakh lamps light the Ganga at Munger as Samrat Choudhary announces an 83-km marine drive",
-          "hi": "मुंगेर में गंगा किनारे जगमगाए 11.11 लाख दीप, सम्राट चौधरी ने किया 83 किमी मरीन ड्राइव का ऐलान"
+          "en": "Vaishnaw's claim of 18,000 festive specials against 12,000 last year is mostly true",
+          "hi": "पिछले साल 12,000 के मुकाबले इस बार 18,000 त्योहार स्पेशल का वैष्णव का दावा ज़्यादातर सही"
         }
       },
       {
-        "link": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+        "link": "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
         },
         "text": {
-          "en": "Four of a family, two of them children, die in Jajpur house fire on Diwali eve",
-          "hi": "जाजपुर में दिवाली की पूर्व संध्या पर घर में आग, एक ही परिवार के चार लोगों की मौत"
+          "en": "Uttar Pradesh raises dearness allowance by 3 points to 63% ahead of Diwali",
+          "hi": "दिवाली से पहले उत्तर प्रदेश में महंगाई भत्ता 3 अंक बढ़कर 63%"
         }
       },
       {
-        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
-          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
-        }
-      },
-      {
-        "link": "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9",
-          "hi": "कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या है: 9 नवंबर से 137 दवाओं की एमआरपी क्यों घटेगी"
-        }
-      },
-      {
-        "link": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+        "link": "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Cheaper cancer drugs on paper are only half the job. From Monday the price cut must reach the patient",
-          "hi": "कागज़ पर सस्ती कैंसर दवाएं आधा काम हैं। सोमवार से कटौती मरीज़ तक पहुंचनी चाहिए"
+          "en": "The Centre's reply on women's safety in Delhi-NCR must be a working model, not a tidier draft",
+          "hi": "दिल्ली-एनसीआर में महिला सुरक्षा पर केंद्र का जवाब सुघड़ मसौदा नहीं, काम करने वाला मॉडल हो"
         }
       },
       {
-        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "link": "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "lead": {
+          "en": "Japan:",
+          "hi": "जापान:"
+        },
+        "text": {
+          "en": "Magnitude 5.7 earthquake jolts central Japan, at least 22 injured",
+          "hi": "मध्य जापान में 5.7 तीव्रता का भूकंप, कम से कम 22 घायल"
+        }
+      },
+      {
+        "link": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "Diwali trade crosses ₹6 lakh crore, Delhi alone ₹1 lakh crore, says traders' body",
+          "hi": "दिवाली का कारोबार ₹6 लाख करोड़ के पार, अकेले दिल्ली में ₹1 लाख करोड़: व्यापारी संगठन"
+        }
+      },
+      {
+        "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083",
+          "hi": "आज मुहूर्त ट्रेडिंग: संवत 2083 की शुरुआत में दोपहर 2:20 से 3:30 बजे तक दिवाली सत्र"
+        }
+      },
+      {
+        "link": "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "lead": {
           "en": "Tennis:",
           "hi": "टेनिस:"
         },
         "text": {
-          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
-          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
-        }
-      },
-      {
-        "link": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-        "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
-        },
-        "text": {
-          "en": "Modi at CoBRA base in Bastar: first Diwali with every district free of Naxalism",
-          "hi": "बस्तर के कोबरा बेस पर मोदी: हर जिला नक्सलवाद से मुक्त, पहली ऐसी दिवाली"
+          "en": "Adkar and Bhosale meet Swiss pair Karamoko and Waltert in Chennai Open doubles final",
+          "hi": "चेन्नई ओपन डबल्स फाइनल में आडकर और भोसले का सामना स्विट्ज़रलैंड की कारामोको और वाल्टर्ट से"
         }
       }
     ]
@@ -186,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+      "id": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
       "also": []
     },
     "list": [
-      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-      "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-      "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+      "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
+      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+      "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
     ],
     "also": [
-      "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+      "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
     ]
   },
   "startHere": [
@@ -372,9 +374,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-heads-to-bastar-diwali-security-forces",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "modi-diwali-greetings-citizens-viksit-bharat"
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti"
       ],
       "lead": "modi-bastar-cobra-karanpur-diwali-naxalism-won"
     },
@@ -530,20 +532,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-08T06:34:13+05:30",
-      "ids": [
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "cancer-drugs-137-revised-prices-november-9-nppa"
-      ]
-    },
-    {
       "at": "2026-11-08T07:22:28+05:30",
       "ids": [
         "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
@@ -643,6 +631,21 @@
         "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "modi-bastar-cobra-karanpur-diwali-naxalism-won"
+      ]
+    },
+    {
+      "at": "2026-11-08T18:42:40+05:30",
+      "ids": [
+        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+        "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "railways-18000-festive-specials-trips-claim",
+        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
       ]
     }
   ],
