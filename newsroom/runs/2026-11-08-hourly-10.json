@@ -1,19 +1,10 @@
 {
  "run": "hourly-10",
  "start": "2026-11-08T10:09:12+05:30",
- "end": "2026-11-08T10:50:11+05:30",
- "summary": "Modi to Bastar for Diwali leads; 6 new stories, Delhi AQI 8 am story held",
- "new": [
-  "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-  "japan-aichi-shizuoka-earthquake-57-22-injured",
-  "modi-heads-to-bastar-diwali-security-forces",
-  "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-  "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-  "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
- ],
- "held": [
-  "delhi-aqi-383-diwali-morning-12-stations-severe"
- ],
+ "end": "2026-11-08T10:57:56+05:30",
+ "summary": "Expire two holds over 48 hours",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [],
  "fixed_by_run": [
