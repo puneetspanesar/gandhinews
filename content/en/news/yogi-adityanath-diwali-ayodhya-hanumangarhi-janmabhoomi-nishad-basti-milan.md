@@ -13,7 +13,7 @@ upcoming: {date: 2026-11-08, en: "Yogi Adityanath's Diwali programme in Ayodhya,
 keyPoints:
   - "Yogi Adityanath is due at **Hanumangarhi at 7:50 am** and at the Ram Janmabhoomi temple at 8:05 am."
   - "A **Deepawali milan in Nishad basti** near Ramghat Halt follows at 8:20 am."
-  - "He then meets saints at four akharas and chhawnis and leaves from the Ramkatha Park helipad at 10:40 am."
+  - "He then **meets saints at four akharas** and chhawnis and leaves from the Ramkatha Park helipad at 10:40 am."
 hero:
   need: "Yogi Adityanath in Ayodhya on Diwali"
   suggested_source: "Yogi Adityanath"
