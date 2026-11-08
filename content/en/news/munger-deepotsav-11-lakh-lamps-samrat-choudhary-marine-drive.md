@@ -31,7 +31,7 @@ infographic:
   source: "Deepotsav at Kalyanpur, Munger, November 7, 2026"
 related: [samrat-choudhary-munger-pandals-yogi-kanya-pujan-navami, ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti]
 seo:
-  description: "Bihar CM Samrat Choudhary lit the first of 11,11,111 lamps at Munger's Deepotsav on November 7, 2026 and announced an 83-km Munger-Bhagalpur marine drive."
+  description: "Bihar CM Samrat Choudhary lit the first of 11,11,111 lamps at Munger's Deepotsav on November 7, 2026, and announced an 83-km Munger-Bhagalpur marine drive."
 sources:
   - title: "11.11 lakh diyas illuminate Ganga banks in Munger; CM announces marine drive"
     publisher: "IANS via Bhaskar English"

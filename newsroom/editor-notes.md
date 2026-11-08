@@ -2,56 +2,6 @@
 
 Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 24 hours are no longer BIG STORIES: delete them. Delete an item once it is published or no longer news.
 
-## November 6, 2026, 12:40 pm (from the 12:00 run)
-- Published NO new story: desks found nothing confirmable 10:00 to 12:20 IST. Amit Shah's Dehradun speech not yet reported at 12:20 (ETV Bharat live blog last updated 11:27; core committee meeting postponed; police detained Congress workers heading to Dehradun airport); no Sonia Gandhi Rouse Avenue outcome; no Friday SEC turnout for the five Andhra mandals.
-- Held: jaypal-malviya-silver-air-pistol-worlds-first-la-2028-shooting-quota (no photo of Jaypal Malviya; finder h0612 found none; single source ETV Bharat 9:49 am); by the editor: sensex-nifty-11am-november-6-it-gains-nikkei-rout (11 am figures stale), gold-silver-fall-dhanteras-november-6-mcx (Zaveri Bazaar street stand-in, MCX 10:45 am figures), lic-q2-profit-12115-crore-up-20-per-cent (April-June comparison is Q1 FY26, i.e. 2025, unsourced 22.8%; branch signboard picture).
-- NEXT RUN, FIRST: Amit Shah Dehradun speech as a new lead story (Amit Shah library photo); a midday or 1 pm markets story (Sensex 79,760.39 +450.38, Nifty 24,614.50 +77.90 at 12 pm, rupee 94.066 at 12:10, Business Standard live blog); Andhra Friday turnout; U19 result (Nepal 54/4 after 19 overs, Ishan Sood 3/10; no team photo); Hindalco Q2 after 4:30 pm.
-- Homepage: lead is the Andhra five-mandal story again (breach: led at 08:39 and 10:40; no fresh story to lead). Editor items not fixed: empty space in the Andhra band, faint box on the editorial graphic's 7 Nov step, "Editorial" twice in the sub-nav, top block reaches back to 30 to 43 hour old explainers and editorials.
-- Markets: Sensex, Nifty at 12 pm and rupee at 12:10 updated; other tiles unchanged.
-
-## November 6, 2026, 1:40 pm (from the 13:00 run)
-- Published: amit-shah-dehradun-rally-speech-1475-crore-projects (LEAD; speech to 1:04 pm from the Amar Ujala live blog, Amit Shah library photo), andhra-parishad-polls-four-voters-two-poll-staff-die (one source, ETV Bharat 11:02 am; Madhavadhara 2014 polling file photo), sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07 (infographic).
-- Held: maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery (no photo of Maaya Rajeshwaran Revathi; quarter-final 3 pm, write the result as a new story), icici-bank-record-high-1526-nears-11-trillion-market-value (editor: wants Sandeep Bakhshi or ICICI Bank Towers BKC, not an infographic).
-- NEXT RUN, FIRST: U19 India v Nepal result (Nepal 117/8 after 38.5 overs at 1:15 pm); Maaya Rajeshwaran result; Sonia Gandhi Rouse Avenue outcome; Andhra five-mandal SEC turnout (polls close 5 pm); Shah's Police Colour ceremony and any later lines of his speech; Hindalco Q2.
-- Homepage: refresh_home --drop now also keeps dropped ids out of the section lists. Editor second check items fixed by dropping the Amit Shah preview, the Sonia preview and the morning Andhra five-mandal story. Not fixed: "Andhra Pradesh" twice in the sub-nav.
-- Markets: Sensex 79,956.74 (+646.73) and Nifty 24,678.55 (+141.95) at 1 pm (Business Standard live blog); other tiles unchanged.
-
-## November 6, 2026, 3:50 pm (from the 15:00 run)
-- Published 6 stories: farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar (LEAD; Farooq Abdullah MNRE file photo), jharkhand-hc-quashes-jssc-cgl-exam-cancellation (Jharkhand HC Dhurwa building), haryana-9880-crore-paddy-farmers-beekeepers-insurance and haryana-da-63-per-cent-lado-lakshmi-13th-instalment (Nayab Saini), india-u19-beat-nepal-asia-cup-al-amerat (129/0 in 19.1 overs; infographic --nophoto), tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin (infographic --nophoto).
-- Held by the editor: lic-q2-profit-rises-20-per-cent-12076-crore-shares-fall (share figure from 12:13 pm; republish with the NSE close of November 6). Dropped as out of window: a Jaishankar CHOGM bilaterals story (meetings 12 to 34 hours old).
-- NEXT RUN, FIRST: Sensex and Nifty closing story and markets.json close plus history (no dated figure after 2 pm read this run; the live blog fetch was refused); Sri Lanka releases eight Indian fishermen (AIR, not sourced this run); Maaya Rajeshwaran v Montgomery quarter-final result; Sonia Gandhi Rouse Avenue outcome (preview dropped from the homepage); Andhra five-mandal final turnout (polls close 5 pm); Hindalco Q2.
-- Editor homepage FAIL not fixed (second check): J&K live band label with the Jharkhand HC story and empty red gap; "Companies" twice in the sub-nav; Karol Bagh, Khunti and Sachin Waze infographics; lead re-weigh (Andhra deaths story was in last hour's top, so it cannot return this hour).
-- Markets: values unchanged from 2 pm, note added.
-
-## November 6, 2026, 4:45 pm (from the 16:00 run)
-- Published 5 stories: tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence (LEAD; Tejpal 2007 Geneva photo), sonia-gandhi-voter-list-case-additional-documents-november-18 (outcome: more documents allowed, next hearing November 18), hindalco-q2-profit-59-per-cent-7533-crore-record (Kumar Mangalam Birla), sri-lanka-releases-eight-indian-fishermen-tamil-nadu (one source, ETV Bharat Tamil 3:05 pm; Rameswaram boats file photo), sensex-nifty-close-november-6-sensex-1718-nifty-25030 (infographic; every BSE/NSE photo inside 7 days).
-- Held by the editor: andhra-five-mandals-41-per-cent-1pm-gopalapuram-repolls (1 pm turnout stale). NEXT RUN, FIRST: Andhra five-mandal FINAL turnout after 5 pm as a new id (no unused polling photo found in h0616).
-- NEXT RUN: Maaya Rajeshwaran v Montgomery result (match listed for 4:30 pm IST; preview dropped from the top); Nifty Bank and rupee closes and Nov 6 FII/DII flows for markets.json; Kapil Sibal and Tushar Mehta in-story photos were not found.
-- Breach: Sensex close infographic sits in the top five beside the lead. Dropped from the top this hour: Hindalco, Prism Johnson, Airtel (one business story), Rahul Gandhi voter list (three politics), stale Andhra Friday and Amit Shah rally previews, Jagan parishad (three states).
-- Markets: Sensex 81,028.02 (+1,718.01) and Nifty 25,030.35 (+493.75) closes appended to history, status closed; Brent 96.99 at the close (ANI). Other tiles unchanged.
-
-## November 6, 2026, 9:45 pm (from the 21:00 run)
-- Published 5 stories: amit-shah-presidents-police-colour-uttarakhand-police (LEAD; Amit Shah MHA photo), railways-18000-festive-special-trains (Ashwini Vaishnaw file photo), rain-industries-q3-profit-243-crore-interim-dividend, conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve, india-no-finalist-skeet-air-pistol-mixed-team-doha-worlds (last three infographic --nophoto, finder h0621).
-- Held by the editor: delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday (needs a Delhi smog file photo and the latest evening CPCB AQI instead of 4 pm 382), data-patterns-q2-profit-21-97-crore-revenue-133-crore (revenue bar chart not to scale on both covers).
-- NEXT RUN, FIRST: GRAP III development with tonight's AQI and a smog photo; SC refuses to interfere with non-veg ban near Somnath temple; Nitin Nabin on Jharkhand minister's remarks; SC Delhi pollution hearing (CJI: curbs "old, tried and failed", next hearing November 16) if not yet on the site.
-- Editor homepage FAIL not fixed (second check): empty space under the lead and under the SC under-trials card; four infographic tiles in the third Headlines row; Misri and Shelton (Nov 5) still in the top; GRAP III and EC SIR window kept out of the top by the hourly rotation. Finder h0621: Sirsa, Gill, Narasimha, Sundresh portraits all under main size; nothing for Santner, Conway, Ganemat Sekhon.
-- Markets: closing values kept; November 6 FII/DII flows still not found.
-
-## November 6, 2026, 10:40 pm (from the 22:00 run)
-- Published 4 stories: tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam (LEAD by rotation; earlier-edition file photo), semicon-india-2-portal-vaishnaw-12-ecms-projects (infographic --nophoto: every Vaishnaw photo inside 7 days or under main size), shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin (Ben Shelton library photo).
-- Held by the editor: sc-delhi-pollution-hearing-cji-old-tried-failed-measures (AQI 391 "around noon" is a dashboard average; republish with the CPCB 4 pm bulletin and latest hourly AQI; no Surya Kant photo unused in 7 days). Finder h0622 has good Delhi smog candidates (delhismog-0, -3, -5): use one for a Delhi air development story.
-- NEXT RUN, FIRST: a new Delhi air development story with tonight's CPCB AQI and a smog photo (to lead: GRAP III already led at 20:42); Devon Conway or Santner photo for the Conway story; Gaffar Market fire photo (fire or firefighters, not a parked tender).
-- Desks: states and sport-science found almost nothing; their WebFetch was refused (PROVENANCE_REQUIRED). The main session's web-fetch agent works; desks without an Agent tool cannot use it.
-- Editor homepage FAIL not fixed: lead is a minor exercise (no fresh pictured big story); live band labelled by section with a factcheck feature; infographic cards beside the lead; empty space under the lead and Rahul Gandhi card. Fixed: Amit Shah rally speech dropped (duplicate), live band filler now only uses stories under 24 hours (src/lib/home.ts).
-- Markets: closes kept; November 6 FII +13,750 crore, DII -5,969 crore (niftytrader) added.
-
-## November 7, 2026, 7:40 am (from the 06:00 run)
-- Published 6 stories: sc-delhi-ncr-women-safety-union-reply-november-23 (LEAD, Justice Pardiwala photo), calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209 (Calcutta HC building), stephen-miller-replaces-susie-wiles-white-house-chief-of-staff (Miller photo), andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first, cji-surya-kant-ambedkar-constitution-continuing-responsibility, europe-bomb-threat-wave-flights-broadcasters-third-day (last three infographic --nophoto, finder h0706).
-- Held: wellington-pitch-wind-showers-second-odi-india-new-zealand-match-day (pre-match preview after first ball; write the live score or result as a new id), alcaraz-saves-two-match-points-beats-fritz-paris-masters-semi-final-ruud (editor: red-carpet gala portrait; needs an on-court Alcaraz photo).
-- NEXT RUN, FIRST: Andhra MPTC/ZPTC counting trends (counting from 8 am, first trends about noon) as a new id and LEAD with a counting photo; India v NZ second ODI score or result; Suvendu Adhikari CAA citizenship by December 31; AIADMK PM Mannan arrest over TVK MLA offer.
-- Editor homepage FAIL not fixed (second check): lead is a procedural SC adjournment; Courts block lists the EC SIR story (not a court story) with an empty gap and a misleading "Live coverage" label; Andhra counting is an infographic outside the top five.
-- Markets: Saturday, closed; markets.json unchanged.
-
 ## November 7, 2026, 12:40 pm (from the 12:00 run)
 - Published 3: rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday (LEAD), modi-diwali-greetings-citizens-viksit-bharat, delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft (editorial, infographic --nophoto).
 - Held: nz-early-results-national-labour-neck-and-neck-opportunity-clears-5 (Luxon close-up; needs a well framed Luxon or Hipkins photo and the latest count), nz-all-out-134-brar-four-india-need-135-wellington-second-odi (write the India chase score or result as a new id).
@@ -68,3 +18,13 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - GitHub Actions still fail at once (find-photos and Homepage rotation, last fails 00:46 UTC and earlier): no finder, no hourly rotation between runs. Wikimedia not reachable from the container; PIB timed out.
 - NEXT RUN, FIRST: a Diwali-day lead with a photo (PIB: Rajnath Singh at Sherathang, PM with troops); Suvendu at Hingalganj BSF post as done; Yogi Ayodhya prayers as done; Delhi AQI on Diwali morning (CPCB); India U19 v Pakistan score or result (toss 10 am); Chennai Open doubles final result; a world story (world-business desk found nothing confirmable).
 - Not fixed: grey strip under an infographic lead (template).
+
+## November 8, 2026, 8:45 am (from the 08:00 run)
+- Published 3: meghwal-diwali-bsf-bikaner-soldiers-family (LEAD by rotation, file photo), munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive and muhurat-trading-diwali-sunday-afternoon-session-samvat-2083 (both infographic --nophoto).
+- Held by the editor: modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named (VP meeting was Saturday, not Diwali morning; 7:05/7:15 am were live blog entry times; needs a Modi photo). Rewrite as a new id with a PIB photo.
+- Library portrait Samrat_Choudhary.jpg is the WRONG PERSON: blocklisted; Samrat Choudhary added to people.tsv. Fix the library entry.
+- GitHub Actions still fail (find-photos h0808). Sport-science and world desks found nothing confirmable (WebFetch refused).
+- NEXT RUN, FIRST: Modi Diwali with troops (PIB photo) as LEAD; Delhi Diwali-morning CPCB AQI; India U19 v Pakistan result; Chennai Open doubles final result; Yogi Ayodhya and Suvendu Hingalganj as done; NZ election result or central Japan earthquake (22 injured) for World; Muhurat trading result after 3:30 pm.
+- Editor homepage FAIL not fixed (second check): Meghwal lead is weak; explainers (E20) in top column and Explained band; two TN/Kerala rain stories side by side; Delhi AQI 369 is last night's figure.
+- Markets: Sunday, closed (Muhurat session 2:20 to 3:30 pm); markets.json unchanged.
+

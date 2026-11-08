@@ -33504,17 +33504,47 @@
   "nophoto": "Hardeep Singh Puri blocked by the 7-day rule, Rizwan Arshad not in library, finder l08m could not run (GitHub Actions job not started: account billing)"
  },
  "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive": {
-  "id": "o-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-  "src": "/photos/o-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-1280.jpg",
-  "src800": "/photos/o-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-640.jpg",
+  "id": "i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+  "src": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-en-3x2-1280.jpg",
+  "src800": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1920,
-  "credit": "Photo: Samratudhd / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Samrat Choudhary (file photo)",
-  "alt_hi": "सम्राट चौधरी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Samrat_Choudhary.jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 11.11 lakh lamps on the Ganga at Munger",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मुंगेर में गंगा किनारे 11.11 लाख दीप",
+  "page": null,
+  "ihash": "931fbeaddfba",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-hi-3x2-1280.jpg",
+    "src800": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-en-t-1280.jpg",
+    "src800": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-hi-t-1280.jpg",
+    "src800": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-en-1280.jpg",
+    "src800": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-hi-1280.jpg",
+    "src800": "/photos/i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive-hi-640.jpg"
+   }
+  },
+  "nophoto": "library portrait of Samrat Choudhary was the wrong person (blocklisted); quick_photo none; finder h0808 failed (Actions down)"
  },
  "meghwal-diwali-bsf-bikaner-soldiers-family": {
   "id": "r-meghwal-diwali-bsf-bikaner-soldiers-family",
@@ -33527,5 +33557,91 @@
   "alt": "Law Minister Arjun Ram Meghwal (centre) (file photo)",
   "alt_hi": "कानून मंत्री अर्जुन राम मेघवाल (बीच में) (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Shilp_guru_gopal_prasad_sharma_with_central_minister_shree_Arjun_Ram_Meghwal_ji.jpg"
+ },
+ "modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named": {
+  "id": "i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named",
+  "src": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-en-3x2-1280.jpg",
+  "src800": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Modi's Diwali morning",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मोदी की दिवाली की सुबह",
+  "page": null,
+  "ihash": "7cb4ac589c32",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-hi-3x2-1280.jpg",
+    "src800": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-en-t-1280.jpg",
+    "src800": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-hi-t-1280.jpg",
+    "src800": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-en-1280.jpg",
+    "src800": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-hi-1280.jpg",
+    "src800": "/photos/i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Narendra Modi unused in 7 days; library, quick_photo, PIB timed out, finder h0808 failed (Actions down)"
+ },
+ "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083": {
+  "id": "i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+  "src": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-en-3x2-1280.jpg",
+  "src800": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Diwali trading 2:20 pm to 3:30 pm",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दिवाली पर 2:20 से 3:30 बजे तक कारोबार",
+  "page": null,
+  "ihash": "0e577bde43dc",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-hi-3x2-1280.jpg",
+    "src800": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-en-t-1280.jpg",
+    "src800": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-hi-t-1280.jpg",
+    "src800": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-en-1280.jpg",
+    "src800": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-hi-1280.jpg",
+    "src800": "/photos/i-muhurat-trading-diwali-sunday-afternoon-session-samvat-2083-hi-640.jpg"
+   }
+  },
+  "nophoto": "no unused BSE building photo; quick_photo empty, finder h0808 failed (Actions down)"
  }
 }

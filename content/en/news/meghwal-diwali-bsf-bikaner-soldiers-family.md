@@ -6,7 +6,7 @@ section: states
 format_label: "States / Rajasthan"
 topics: []
 title: "Meghwal spends Diwali with BSF personnel in Bikaner: 'Soldiers are family to us'"
-standfirst: "The Union Law Minister joined jawans guarding the Rajasthan border on the festival morning and praised their vigilance and dedication."
+standfirst: "The Union Law Minister joined jawans guarding the Rajasthan border for Diwali and praised their vigilance and dedication."
 published: 2026-11-08T08:14:00+05:30
 location: Bikaner
 keyPoints:
@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "Diwali with the forces"
   headline: "Meghwal celebrates Diwali with BSF in Bikaner"
-  dek: "Sunday, November 8"
+  dek: "Reported November 8"
   motif: shield-check
   steps:
     - {title: "Greetings", text: "Festive wishes exchanged with the jawans"}
@@ -50,9 +50,9 @@ verification:
     - "Wire copy timed 4:09 am IST, November 8 (ETV Bharat live blog lists it at 7:40 am). Unit, post and number of personnel not given in any source. Quotes are the two lines in the wire copy."
 ---
 
-Union Law and Justice Minister Arjun Ram Meghwal **celebrated Diwali with Border Security Force personnel in Bikaner**, Rajasthan, on Sunday, the day of the festival.
+Union Law and Justice Minister Arjun Ram Meghwal **celebrated Diwali with Border Security Force personnel in Bikaner**, Rajasthan, according to reports early on November 8.
 
-He spent the morning with the soldiers, exchanged festive greetings with the jawans and praised their **vigilance, dedication and service** in guarding the borders during the festive season.
+He met the soldiers, exchanged festive greetings with the jawans and praised their **vigilance, dedication and service** in guarding the borders during the festive season.
 
 "It is a pleasure to celebrate Diwali with our soldiers, who are family to us," Meghwal said.
 

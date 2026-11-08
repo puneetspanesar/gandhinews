@@ -1,0 +1,32 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-08T08:05:18+05:30",
+ "end": "2026-11-08T08:44:56+05:30",
+ "summary": "3 Diwali stories, Modi story held, homepage refreshed",
+ "new": [
+  "meghwal-diwali-bsf-bikaner-soldiers-family",
+  "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+  "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive"
+ ],
+ "held": [
+  "modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named",
+   "kind": "facts",
+   "why": "The headline, standfirst, key points, body and both covers say Modi met Vice-President C P Radhakrishnan on Diwali morning and posted at 7:05 am and 7:15 am. The cited source (the ETV Bharat live blog) says Modi met Radhakrishnan at the Uprashtrapati Bhawan ON SATURDAY. 7:05 am and 7:15 am are only the blog's entry times, not the times of his posts. The cover stat '7:15 am: greetings exchanged with Vice-President' is false, and so is the '7:05 am' stat. The picture is also wrong: the main picture is an infographic of a clock time for a story about Narendra Modi, a named, well-known person. The NOPHOTO note says only 'no free photo unused in 7 days' and that PIB timed out, which does not mean no free photo exists. Also, the English line 'Elsewhere on Sunday, Defence Minister Rajnath Singh marked Diwali eve' is wrong because Diwali eve was Saturday.",
+   "fix": "Rewrite the story and headline in both English and Hindi: Modi's Diwali wishes on Sunday morning; he met the Vice-President on Saturday at the Uprashtrapati Bhawan; the soldiers' location is still not named. Drop every '7:05 am posted' and '7:15 am' claim, or give the real post times from the Prime Minister's X posts. Replace the infographic with a photo of Narendra Modi: try the library, quick_photo.py, PIB and the finder once more, and allow a photo of Modi used in the last 7 days rather than a clock graphic. Once PIB photos of Modi with troops are out, use one of those. Fix the 'Elsewhere on Sunday' sentence."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+   "why": "The headline says 'a one-hour Diwali session from 2:20 pm' and both covers say 'Markets open for one hour on Diwali' (Hindi: 'एक घंटे के लिए खुलेगा बाजार'). The story's own schedule, which matches the Groww source, runs continuous trading from 2:20 pm to 3:30 pm (70 minutes) and F&O to 3:40 pm, with block deals from 1:50 pm and a post-close session to 4:00 pm. The headline and covers contradict the figures in the story.",
+   "done": "EN and HI headlines and covers now say 2:20 pm to 3:30 pm; infographic re-rendered."
+  }
+ ],
+ "breaches": [],
+ "lead": "meghwal-diwali-bsf-bikaner-soldiers-family"
+}

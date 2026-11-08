@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Markets"
 topics: []
-title: "Muhurat trading today: a one-hour Diwali session from 2:20 pm to start Samvat 2083"
+title: "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083"
 standfirst: "The exchanges open for the Laxmi Pujan session on Sunday afternoon, with a block deal window from 1:50 pm and a pre-open call before continuous trading begins."
 published: 2026-11-08T08:12:32+05:30
 location: Mumbai
@@ -26,7 +26,7 @@ hero:
     value: "Muhurat trading from 2:20 pm today"
 infographic:
   kicker: "Diwali Muhurat trading"
-  headline: "Markets open for one hour on Diwali"
+  headline: "Diwali trading 2:20 pm to 3:30 pm"
   dek: "Sunday, November 8, begins Samvat 2083"
   motif: bell-ringing
   stats:

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
+    "id": "meghwal-diwali-bsf-bikaner-soldiers-family",
     "overlay": {
       "kicker": {
-        "en": "States / West Bengal",
-        "hi": "राज्य / पश्चिम बंगाल"
+        "en": "States / Rajasthan",
+        "hi": "राज्य / राजस्थान"
       },
       "value": {
-        "en": "Diwali with BSF on the border",
-        "hi": "सीमा पर बीएसएफ के साथ दिवाली"
+        "en": "Diwali with BSF jawans in Bikaner",
+        "hi": "बीकानेर में बीएसएफ जवानों संग दिवाली"
       },
       "text": {
         "en": "",
@@ -16,111 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-      "who-six-climate-health-actions-1-6-million-lives-cop31",
-      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-      "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+      "modi-diwali-greetings-citizens-viksit-bharat",
+      "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+      "e20-petrol-explained-ethanol-blend-karnataka-row",
+      "obc-creamy-layer-explained-parents-salary-supreme-court",
+      "bbmb-power-sharing-explained-himachal-share-supreme-court"
     ],
     "live": {
       "title": {
-        "en": "West Bengal",
-        "hi": "पश्चिम बंगाल"
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "link": "modi-diwali-greetings-citizens-viksit-bharat",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Diwali:",
+          "hi": "दिवाली:"
         },
         "text": {
-          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
-          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
+          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
+          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
         }
       },
       {
-        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
-        },
-        "text": {
-          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
-          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
-        }
-      },
-      {
-        "link": "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "WHO: six climate and health measures could prevent 1.6 million deaths a year",
-          "hi": "डब्ल्यूएचओ: जलवायु और स्वास्थ्य के छह उपाय हर साल 16 लाख मौतें रोक सकते हैं"
-        }
-      },
-      {
-        "link": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Qatar says US-Iran mediation goes on after Trump confirms 'minor' strikes on Qeshm",
-          "hi": "कतर बोला, अमेरिका-ईरान मध्यस्थता जारी; ट्रंप ने क़ेश्म द्वीप पर 'मामूली' हमलों की पुष्टि की"
-        }
-      },
-      {
-        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
-          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
-        }
-      },
-      {
-        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
-          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
-        }
-      },
-      {
-        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
-          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
-        }
-      },
-      {
-        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "link": "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
         "lead": {
           "en": "New Zealand:",
           "hi": "न्यूज़ीलैंड:"
         },
         "text": {
-          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
-          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
+          "en": "New Zealand votes with Luxon and Hipkins level in the final polls",
+          "hi": "न्यूज़ीलैंड में मतदान, आखिरी सर्वे में लक्सन और हिपकिंस बराबरी पर"
+        }
+      },
+      {
+        "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "lead": {
+          "en": "Fuel:",
+          "hi": "ईंधन:"
+        },
+        "text": {
+          "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
+          "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
+        }
+      },
+      {
+        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "lead": {
+          "en": "Reservation:",
+          "hi": "आरक्षण:"
+        },
+        "text": {
+          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
+          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
+        }
+      },
+      {
+        "link": "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "lead": {
+          "en": "Power:",
+          "hi": "बिजली:"
+        },
+        "text": {
+          "en": "BBMB power sharing explained: how Himachal won 45 years of dues, paid in electricity",
+          "hi": "बीबीएमबी बिजली बंटवारा: हिमाचल ने 45 साल का बकाया कैसे जीता, जो बिजली में मिलेगा"
+        }
+      },
+      {
+        "link": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "lead": {
+          "en": "Bihar:",
+          "hi": "बिहार:"
+        },
+        "text": {
+          "en": "11.11 lakh lamps light the Ganga at Munger as Samrat Choudhary announces an 83-km marine drive",
+          "hi": "मुंगेर में गंगा किनारे जगमगाए 11.11 लाख दीप, सम्राट चौधरी ने किया 83 किमी मरीन ड्राइव का ऐलान"
+        }
+      },
+      {
+        "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाजार:"
+        },
+        "text": {
+          "en": "Muhurat trading today: Diwali session from 2:20 pm to 3:30 pm starts Samvat 2083",
+          "hi": "आज मुहूर्त ट्रेडिंग: संवत 2083 की शुरुआत में दोपहर 2:20 से 3:30 बजे तक दिवाली सत्र"
+        }
+      },
+      {
+        "link": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Brar takes 4 for 30 as India beat New Zealand by four runs on DLS to lead 2-0",
+          "hi": "ब्रार के 30 रन पर 4 विकेट, भारत ने डीएलएस से न्यूज़ीलैंड को 4 रन से हराया, सीरीज़ में 2-0 की बढ़त"
         }
       }
     ]
@@ -188,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "id": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
       "also": []
     },
     "list": [
-      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-      "nadda-national-cancer-awareness-day-screening-appeal",
-      "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
-      "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
+      "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+      "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
     ],
     "also": [
-      "fox-completes-22-billion-roku-acquisition",
-      "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast"
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
     ]
   },
   "startHere": [
@@ -376,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "sc-delhi-ncr-women-safety-union-reply-november-23",
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+        "suvendu-adhikari-caa-citizenship-december-31-nadia"
       ],
       "lead": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
     },
     {
       "section": "economy",
-      "lead": "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+      "lead": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
       "module": {
         "type": "markets",
         "indicators": [
@@ -395,19 +393,19 @@
         ]
       },
       "list": [
+        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
         "fox-completes-22-billion-roku-acquisition",
         "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects"
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares"
       ]
     },
     {
       "section": "states",
-      "lead": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+      "lead": "meghwal-diwali-bsf-bikaner-soldiers-family",
       "list": [
-        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns"
+        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan"
       ]
     },
     {
@@ -534,20 +532,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-07T17:04:39+05:30",
-      "ids": [
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "railways-18000-festive-special-trains",
-        "himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
-        "delhi-grap-stage-three-aqi-382-caqm",
-        "iran-hands-us-nuclear-proposal-seven-demands",
-        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond",
-        "cji-surya-kant-ambedkar-constitution-continuing-responsibility"
-      ]
-    },
-    {
       "at": "2026-11-07T18:59:34+05:30",
       "ids": [
         "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
@@ -649,6 +633,20 @@
         "chawri-bazar-building-collapse-toll-six-four-arrested",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
+      ]
+    },
+    {
+      "at": "2026-11-08T08:41:59+05:30",
+      "ids": [
+        "meghwal-diwali-bsf-bikaner-soldiers-family",
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "nz-election-polling-day-luxon-hipkins-polls-close-7pm",
+        "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
       ]
     }
   ],
