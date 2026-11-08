@@ -12,6 +12,7 @@ const t = UI[lang];
     <Seal small />
     <span>
       <b>{t.fromDesk}{location ? <span style="font-weight:400;color:var(--ink)"> · {location}</span> : null}</b>
+      <span class="ed">{lang === 'hi' ? <>संपादन: <a href="/hi/editor/">पुनीत पनेसर</a></> : <>Edited by <a href="/editor/">Puneet Panesar</a></>}</span>
       {t.published} <time datetime={published.toISOString()}>{fmtDateTime(published, lang)}</time>
       {updated && <><br />{t.updated} <time datetime={updated.toISOString()}>{fmtDateTime(updated, lang)}</time></>}
     </span>
