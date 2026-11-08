@@ -9,8 +9,7 @@ import '../styles/home-dense.css';
 import { prefix, whole } from '../lib/site';
 import { UI, type Lang } from '../lib/i18n';
 import { websiteLd } from '../lib/seo';
-import { homeModel, H as HT } from '../lib/home';
-import Icon from '../components/Icon.astro';
+import { homeModel } from '../lib/home';
 
 interface Props { lang: Lang; route: string }
 const { lang, route } = Astro.props;
@@ -28,13 +27,11 @@ const G = hi ? {
   biz: 'कारोबार और बाज़ार', mkData: 'पूरे आंकड़े', opinion: 'राय', allOp: 'सभी संपादकीय', ourView: 'हमारी राय', fc: 'फ़ैक्ट चेक', all: 'सभी',
   world: 'दुनिया', sports: 'खेल', science: 'विज्ञान और तकनीक', more: 'और', close: (d: string) => `${d} का बंद भाव`, sessions: (n: number) => `${n} कारोबारी दिन`,
   sxAria: 'पिछले कारोबारी दिनों में सेंसेक्स का बंद भाव', scale: ['ग़लत', 'भ्रामक', 'काफ़ी हद तक सही', 'सही'],
-  pics: 'तस्वीरों में', latest: 'ताज़ा', allLatest: 'सभी ताज़ा खबरें', courts: 'अदालतों से', topics: 'विषय, जिन पर हमारी नज़र है', allTopics: 'सभी विषय', other: 'Read in English', otherHref: '/',
 } : {
   top: 'Top news', must: 'Must read', week: 'This week', explained: 'Explained', allEx: 'All explainers', states: 'Across the states', allStates: 'All states',
   biz: 'Business and markets', mkData: 'Full market data', opinion: 'Opinion', allOp: 'All editorials', ourView: 'Our view', fc: 'Fact check', all: 'All',
   world: 'World', sports: 'Sports', science: 'Science and tech', more: 'More', close: (d: string) => `Closing figures, ${d}`, sessions: (n: number) => `${n} sessions`,
   sxAria: 'Sensex closes over the last sessions', scale: ['False', 'Misleading', 'Mostly true', 'True'],
-  pics: 'In pictures', latest: 'Latest', allLatest: 'All the latest', courts: 'In the courts', topics: 'Topics we follow', allTopics: 'All topics', other: 'हिंदी में पढ़ें', otherHref: '/hi/',
 };
 const VK = ['false', 'misleading', 'mostly', 'true'];
 const pc = (v: number) => `${v > 0 ? '+' : v < 0 ? '−' : ''}${Math.abs(v).toFixed(2)}%`;
@@ -44,8 +41,6 @@ const [eBig, ...eList] = D.econ;
 const [op1, ...opRest] = D.opinion;
 const NAME: Record<string, string> = { world: G.world, sports: G.sports, science: G.science, policy: hi ? 'नीति' : 'Policy', politics: hi ? 'राजनीति' : 'Politics' };
 const cols = D.cols.map((c: any) => [c.key, NAME[c.key], c.items]);
-const h = (HT as any)[lang];
-const [pc1, ...pcRest] = D.pics;
 ---
 <Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
 <div class="dhome">
@@ -78,19 +73,6 @@ const [pc1, ...pcRest] = D.pics;
       </>}
     </aside>
   </div>
-
-
-  {D.pics.length >= 3 && (
-    <section class="w d-s" aria-labelledby="pc-h">
-      <div class="d-sec"><h2 id="pc-h">{G.pics}</h2><i></i></div>
-      <div class={`d-pics d-pics${D.pics.length}`}>
-        {D.pics.map((x: any, i: number) => <a href={x.href} class={i === 0 ? 'd-pic d-pic1' : 'd-pic'}>
-          <span class="d-pim"><Photo cover id={x.id} src={x.d.hero?.src} alt={x.d.hero?.alt} lang={lang} size={i === 0 ? 'lg' : undefined} /></span>
-          <span class="d-pcap">{x.st && <span class="d-lab">{x.st}</span>}<b>{x.d.title}</b></span>
-        </a>)}
-      </div>
-    </section>
-  )}
 
   {D.explained.length >= 4 && (
     <section class="d-band" aria-labelledby="ex-h">
@@ -125,22 +107,6 @@ const [pc1, ...pcRest] = D.pics;
     </section>
   )}
 
-
-  {(D.wire.length >= 4 || D.courts.length > 0) && (
-    <div class={`w d-s d-wc${D.wire.length >= 4 && D.courts.length > 0 ? '' : ' d-one'}`}>
-      {D.wire.length >= 4 && <section aria-labelledby="lt-h" class="d-rr">
-        <div class="d-sec"><h2 id="lt-h"><a href={`${p}/latest/`}>{G.latest}</a></h2><i></i><a href={`${p}/latest/`}>{G.allLatest}</a></div>
-        <ol class="d-wire">{D.wire.map((x: any) => <li><time datetime={new Date(x.d.published).toISOString()}>{x.time}{x.day && <small>{x.day}</small>}</time><a href={x.href}>{x.st && <span class="d-lab">{x.st}</span>}<span class="d-wt">{x.d.title}</span></a></li>)}</ol>
-      </section>}
-      {D.courts.length > 0 && <section aria-labelledby="ct-h" class="d-pl">
-        <div class="d-sec"><h2 id="ct-h">{G.courts}</h2><i></i></div>
-        {D.courts.map((x: any, i: number) => i === 0 && x.real
-          ? <a href={x.href} class="d-blk d-ct1"><span class="d-im d-im-wide"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span><h3 class="d-h3">{x.d.title}</h3><p class="d-p">{whole(x.d.standfirst, 150)}</p></a>
-          : <a href={x.href} class="d-row d-ctr"><Icon name="gavel" /><span><h3>{x.d.title}</h3></span></a>)}
-      </section>}
-    </div>
-  )}
-
   {(eBig || D.sensex) && (
     <section class="w d-s" aria-labelledby="bz-h">
       <div class="d-sec"><h2 id="bz-h"><a href={`${p}/economy/`}>{G.biz}</a></h2><i></i><a href={m.dashHref}>{G.mkData}</a></div>
@@ -162,88 +128,6 @@ const [pc1, ...pcRest] = D.pics;
       </div>
     </section>
   )}
-
-
-  {m.trackers.length > 0 && (
-    <section class="d-band d-trkb" aria-labelledby="trk-h">
-      <div class="w">
-        <div class="d-sec"><h2 id="trk-h"><a href={`${p}/trackers/`}>{h.trackers}</a></h2><i></i><a href={`${p}/trackers/`}>{h.allTrackers}</a></div>
-        <div class="trk">
-          {m.trackers.map((x: any) => (
-            <a class="tc" href={x.href}>
-              {x.id === 'bills-in-parliament-tracker' && <>
-                <span class="ti"><Icon name="scroll" />{x.area}</span><h3>{x.short}</h3>
-                <div class="bg"><b class="num">{m.billsCard.big}</b>{h.trk.billsBig}</div>
-                <div class="tr">{m.billsCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
-              </>}
-              {x.id === 'economy-dashboard' && <>
-                <span class="ti"><Icon name="chart-line" />{x.area}</span><h3>{x.short}</h3>
-                <div class="bg"><b class="num">{m.econCard.big}</b>{m.econCard.bigLabel}</div>
-                <div class="sp"><Fragment set:html={m.econCard.spark} /><div class="sx"><span>{m.econCard.x0}</span><span>{m.econCard.x1}</span></div></div>
-                <div class="tl">{m.econCard.rows.slice(0, 3).map((r: any) => <div><span>{r.l}, {r.p}</span><b class="num">{r.v}</b></div>)}</div>
-              </>}
-              {x.id === 'election-calendar' && <>
-                <span class="ti"><Icon name="calendar-blank" />{x.area}</span><h3>{x.short}</h3>
-                <div class="bg"><b class="num">{m.elCard.big}</b>{h.trk.pollsBig}</div>
-                <div class="tr">{m.elCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
-              </>}
-              {x.id === 'budget-2026-27-promise-tracker' && <>
-                <span class="ti"><Icon name="list-checks" />{x.area}</span><h3>{x.short}</h3>
-                <div class="bg"><b class="num">{m.budgetCard.big}</b>{h.trk.promisesBig}</div>
-                <div class="stk">{m.budgetCard.stat.map((s: any) => <i style={`flex:${s.n};background:${s.c}`}></i>)}</div>
-                <div class="sk">{m.budgetCard.stat.map((s: any) => <span><i style={`background:${s.c}`}></i><b class="num">{s.n}</b>{s.l}</span>)}</div>
-              </>}
-              {x.id === 'sc-cases-tracker' && <>
-                <span class="ti"><Icon name="gavel" />{x.area}</span><h3>{x.short}</h3>
-                <div class="bg"><b class="num">{m.scCard.big}</b>{h.trk.casesBig}</div>
-                <div class="tr">{m.scCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : r.gr ? 'gr' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
-              </>}
-              <p class="l">{x.line}</p>
-            </a>
-          ))}
-        </div>
-      </div>
-    </section>
-  )}
-
-  <div class="w d-s">
-    <section class="mapw" aria-labelledby="dd-h">
-      <div>
-        <div class="d-sec"><h2 id="dd-h">{h.dataDesk}</h2><i></i><a href={m.mapModel.href}>{h.moreCharts}</a></div>
-        <div class="mapc">
-          <div>
-            <svg class="map" viewBox="0 0 612 696" role="img" aria-labelledby="map-h">
-              {m.mapModel.paths.map((x: any) => <use href={`/maps/india.svg#${x.id}`} fill={x.fill} stroke="#fff" stroke-width="0.8" />)}
-            </svg>
-            <p class="d-note">{h.mapSource(m.mapModel.asOf)}</p>
-          </div>
-          <div>
-            <a class="d-lab" href={m.mapModel.topicHref}>{m.mapModel.kicker}</a>
-            <h3 id="map-h" class="d-h3l">{m.mapModel.title}</h3>
-            <p class="d-p">{m.mapModel.text}</p>
-            <div class="leg"><span><i style="background:#cc0000"></i>{h.early}</span><span><i style="background:#0d0d0d"></i>{h.late}</span><span><i style="background:#e2e2e2"></i>{h.others}</span></div>
-            <div class="el"><h4><span>{h.state}</span><span>{h.termEnds}</span></h4>
-              {m.mapModel.states.map((st: any) => <div class="r"><i style={`background:${st.early ? '#cc0000' : '#0d0d0d'}`}></i><span>{st.name}</span><span class="num">{st.when}</span></div>)}
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="pt">
-        <div class="d-sec"><h2><a href={m.parl.href}>{h.parl}</a></h2><i></i></div>
-        <p class="d-lab">{m.parl.name}</p>
-        <div class="hsum"><div><b class="num">{m.parl.sittings}</b>{h.sittings}</div><div><b class="num">{m.parl.prod}</b>{h.lsProd}</div><div><b class="num">{m.parl.passed}</b>{h.billsPassed}</div></div>
-        <table class="hpm">
-          <thead><tr><th scope="col">{h.bill}</th>{h.cols.map((c: string) => <th scope="col">{c}</th>)}</tr></thead>
-          <tbody>
-            {m.parl.bills.map((b: any) => (
-              <tr><td><a href={b.href}>{b.name}</a><span>{b.note}</span></td>{b.cells.map((cl: string, i: number) => <td data-l={h.cols[i]}><i class={cl} role="img" aria-label={cl === 'y' ? h.done : cl === 'c' ? h.cur : cl === 's' ? h.skip : h.not}></i></td>)}</tr>
-            ))}
-          </tbody>
-        </table>
-        <div class="hpk"><span><i class="y"></i>{h.done}</span><span><i class="c"></i>{h.cur}</span><span><i class="n"></i>{h.not}</span><span><i class="s"></i>{h.skip}</span><span class="srcr">{h.prs}</span></div>
-      </div>
-    </section>
-  </div>
 
   <div class="w d-s d-opf">
     {op1 && <section aria-labelledby="op-h">
@@ -268,14 +152,6 @@ const [pc1, ...pcRest] = D.pics;
     </section>}
   </div>
 
-
-  {D.topics.length >= 3 && (
-    <section class="w d-s" aria-labelledby="tp-h">
-      <div class="d-sec"><h2 id="tp-h"><a href={`${p}/topics/`}>{G.topics}</a></h2><i></i><a href={`${p}/topics/`}>{G.allTopics}</a></div>
-      <div class="d-tps">{D.topics.map((x: any) => <a href={x.href} class="d-tp"><h3>{x.title}</h3><p>{whole(x.line, 130)}</p></a>)}</div>
-    </section>
-  )}
-
   {cols.length > 0 && (
     <div class="w d-s d-g3" style={`grid-template-columns:repeat(${cols.length},minmax(0,1fr))`}>
       {cols.map(([key, name, xs]: any) => (
@@ -289,13 +165,6 @@ const [pc1, ...pcRest] = D.pics;
         </section>
       ))}
     </div>
-  )}
-
-  {m.altLang.length > 0 && (
-    <section class="w d-s d-alt" aria-labelledby="al-h" lang={hi ? 'en' : 'hi'}>
-      <div class="d-sec"><h2 id="al-h"><a href={G.otherHref}>{G.other}</a></h2><i></i></div>
-      <div class="d-altg">{m.altLang.map((x: any) => <a href={x.href}>{x.title}</a>)}</div>
-    </section>
   )}
 </div>
 </Base>
