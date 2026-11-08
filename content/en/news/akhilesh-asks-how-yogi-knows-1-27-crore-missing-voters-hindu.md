@@ -11,7 +11,7 @@ published: 2026-11-08T00:15:00+05:30
 location: Lucknow
 keyPoints:
   - "Akhilesh Yadav asked how Chief Minister Yogi Adityanath knows that **1.27 crore missing voters are Hindus**."
-  - "He said the BJP wants to add **2 crore names** and that the loss would mean about **31,000 votes per constituency**."
+  - "He said the 1.27 crore deleted votes mean a loss of about **31,000 votes per constituency**, and that the BJP wants to add **2 crore names**."
   - "The Samajwadi Party alleges **misuse of Form 7** to delete names; its account of an FIR is not independently confirmed."
 hero:
   need: "Akhilesh Yadav and Yogi Adityanath, two-panel split"
@@ -64,10 +64,10 @@ He did the arithmetic for his audience. Losing 1.27 crore voters, he said, would
 
 ## Form 7 and the Sultanpur case
 
-The Samajwadi Party also alleges that **Form 7, the objection form used to seek deletion of a name**, was misused with forged signatures. Akhilesh cited Nand Lal Nishad, a Sultanpur resident, whose name was allegedly used on applications seeking the deletion of about 26 voters, and who was reportedly given ₹1 lakh. He said SP workers caught the practice and the fake filings stopped, and demanded an Election Commission inquiry and action against those responsible. According to the party, the Commission has taken cognisance and an FIR has been registered. That account has not been independently confirmed.
+The Samajwadi Party also alleges that **Form 7, the objection form used to seek deletion of a name**, was misused with forged signatures. Akhilesh cited Nand Lal Nishad, a Sultanpur resident, whose name was allegedly used on applications seeking the deletion of about 26 voters. Akhilesh honoured Nishad with a **₹1 lakh reward** for helping expose the alleged fraud. He said SP workers caught the practice and the fake filings stopped, and demanded an Election Commission inquiry and action against those responsible. According to the party, the Commission has taken cognisance and an FIR has been registered. That account has not been independently confirmed.
 
 Akhilesh also suggested that electoral rolls be linked to identity cards, pointing to the biometric and retinal data already collected from citizens, and warned that names missing after the revision could feed fears about citizenship.
 
 ## What comes next
 
-The Election Commission's revision of Uttar Pradesh's rolls for 2027 begins on **November 12**, with the final roll due on January 4. The reports available carry no response from the Chief Minister's office or the BJP to Akhilesh's remarks. With the 2027 assembly elections ahead, the rolls look set to be a main line of attack between the two parties.
+The fight is over **the Election Commission's revision of Uttar Pradesh's rolls** ahead of the 2027 elections. The reports available carry no response from the Chief Minister's office or the BJP to Akhilesh's remarks. With the 2027 assembly elections ahead, the rolls look set to be a main line of attack between the two parties.

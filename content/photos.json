@@ -49788,16 +49788,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Suvendu_Adhikariji.jpg"
  },
  {
-  "id": "o-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-  "articleId": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Official_portrait_of_Mamata_Banerjee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Chief Minister's Office, Government of West Bengal / Wikimedia Commons",
-  "licence": "CC BY 1.0",
-  "alt": "Mamata Banerjee (file photo)",
-  "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg"
- },
- {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Homi_Bhabha_Block_at_Tata_Memorial_Hospital_Mumbai.jpg/1280px-Homi_Bhabha_Block_at_Tata_Memorial_Hospital_Mumbai.jpg",
   "credit": "Photo: Reetesh Chaurasia / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
@@ -49828,16 +49818,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:The_Uttar_Pradesh_Chief_Minister,_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10,_2018_(cropped).jpg"
  },
  {
-  "id": "o-amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-  "articleId": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-  "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/image002_20261107192601_2687a1.jpg",
-  "credit": "Photo: PIB",
-  "licence": "PIB (free reproduction with credit)",
-  "alt": "Amit Shah chairs the review meeting with Gujarat Chief Minister Bhupendra Patel and officials in Ahmedabad on November 7, 2026",
-  "alt_hi": "अहमदाबाद में 7 नवंबर 2026 को गुजरात के मुख्यमंत्री भूपेंद्र पटेल और अधिकारियों के साथ समीक्षा बैठक की अध्यक्षता करते अमित शाह",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334011"
- },
- {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yashasvi_Jaiswal_2.jpg/1600px-Yashasvi_Jaiswal_2.jpg",
   "credit": "Photo: Dee03 / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
@@ -49846,16 +49826,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Yashasvi_Jaiswal_2.jpg",
   "id": "r-jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
   "articleId": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one"
- },
- {
-  "id": "o-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-  "articleId": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Akhilesh_Yadav_%2814335961811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Global Panorama / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Akhilesh Yadav (file photo)",
-  "alt_hi": "अखिलेश यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav_(14335961811).jpg"
  },
  {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Petrol_Pump_at_Addakal.jpg/1280px-HP_Petrol_Pump_at_Addakal.jpg",
@@ -49971,5 +49941,45 @@
   "composite": [
    "lead-cover"
   ]
+ },
+ {
+  "id": "o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+  "articleId": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+  "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/image4_20261108151106_3d83ad.jpg",
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Defence Minister Rajnath Singh addresses soldiers at Sherathang, Sikkim, on November 8, 2026",
+  "alt_hi": "8 नवंबर 2026 को सिक्किम के शेरथांग में सैनिकों को संबोधित करते रक्षा मंत्री राजनाथ सिंह",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334152"
+ },
+ {
+  "id": "o-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+  "articleId": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Akhilesh_Yadav_%2814335961811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Global Panorama / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Akhilesh Yadav (file photo)",
+  "alt_hi": "अखिलेश यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav_(14335961811).jpg"
+ },
+ {
+  "id": "o-amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+  "articleId": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+  "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/image001_20261107192550_e0dd33.jpg",
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Union Home Minister Amit Shah is welcomed at the Gujarat law and order review in Ahmedabad on November 7, 2026",
+  "alt_hi": "7 नवंबर 2026 को अहमदाबाद में गुजरात की कानून-व्यवस्था समीक्षा बैठक में केंद्रीय गृह मंत्री अमित शाह का स्वागत",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334011"
+ },
+ {
+  "id": "o-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+  "articleId": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Official_portrait_of_Mamata_Banerjee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Chief Minister's Office, Government of West Bengal / Wikimedia Commons",
+  "licence": "CC BY 1.0",
+  "alt": "Mamata Banerjee (file photo)",
+  "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg"
  }
 ]

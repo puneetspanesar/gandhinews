@@ -6,7 +6,7 @@ section: states
 format_label: "States / West Bengal"
 topics: [states]
 title: "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home"
-standfirst: "Standing on a chair with a microphone in Kalighat, the Trinamool chairperson accused the police of siding with the BJP and threatened court action, a day after clashes outside her nephew's residence."
+standfirst: "Standing on a chair with a microphone in Kalighat, the Trinamool chairperson accused the police of siding with the BJP and threatened court action, hours after overnight clashes outside her nephew's residence."
 published: 2026-11-07T20:08:00+05:30
 location: Kolkata
 keyPoints:
@@ -92,10 +92,6 @@ On Saturday afternoon police imposed **prohibitory orders under Section 163 of t
 "A group of lumpen elements backed by the BJP orchestrated the attack," Mamata said. She added: "An atmosphere of unrest has been deliberately created in this area before the Kali Puja." Without naming Chief Minister Suvendu Adhikari, she said that the one leading the administration was behind it, while adding that she was not blaming everyone in the BJP.
 
 She told the police: "do not cross your limits. If you cross the limits, I will fight you." She said she might move the Supreme Court, and that if she was stopped she would hold the Kali Puja in front of the Kalighat temple.
-
-```photo
-{"n":1,"subject":"Kalighat Kali Temple","caption":"The Kalighat Kali Temple, near where Mamata Banerjee said she would hold her Kali Puja if police restrictions continued.","alt":"Kalighat Kali Temple in south Kolkata"}
-```
 
 ## The BJP's reply
 

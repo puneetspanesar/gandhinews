@@ -1,0 +1,33 @@
+{
+ "run": "stall-18",
+ "start": "2026-11-08T18:56:23+05:30",
+ "end": "2026-11-08T19:36:56+05:30",
+ "summary": "missed 18:00 run: new Rajnath Sherathang lead with PIB photo, homepage rotated, editor story fixes",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+   "why": "Main picture is an old cut-out of Mamata Banerjee laughing broadly, on a story about overnight clashes with eight injured, stone-pelting and an angry demand that the police chief resign. The tone is wrong, and it sits second on the homepage. In-story photo 1 (Kalighat Kali Temple) was NOT FOUND and the block is being dropped.",
+   "done": "standfirst now says hours after overnight clashes (EN and HI); missing Kalighat in-story photo block removed from both files; main photo kept: the library official portrait is a correct labelled file photo of the person who spoke, the finder is down (Actions billing) so no other photo can be found"
+  },
+  {
+   "id": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+   "why": "The standfirst says the resignation demand came 'a day after clashes outside her nephew's residence' (Hindi: 'एक दिन पहले भतीजे के घर के बाहर झड़पें हुई थीं'), but the body and every source put the clashes at about 2 am to 3:30 am on the SAME Saturday, November 7, the day of the demand.",
+   "done": "standfirst now says hours after overnight clashes (EN and HI); missing Kalighat in-story photo block removed from both files; main photo kept: the library official portrait is a correct labelled file photo of the person who spoke, the finder is down (Actions billing) so no other photo can be found"
+  },
+  {
+   "id": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+   "why": "The Hindi twin's second key point says 'भाजपा 2 करोड़ नाम जुड़वाना चाहती है और इससे हर विधानसभा सीट पर करीब 31,000 वोट का फर्क पड़ेगा', which ties the 31,000 figure to the 2 crore additions. The English text and the source (Akhilesh quoted in the FPJ/ANI report of November 6) tie the 31,000 per constituency to the 1.27 crore deleted votes (1.27 crore / 403 seats). The Hindi does not say the same thing as the English. The story also covers remarks from Friday, November 6, about 48 hours old, despite its November 8 at 00:15 timestamp.",
+   "done": "EN and HI key point now tie 31,000 per seat to the 1.27 crore deleted votes; story kept out of the headlines with --drop"
+  }
+ ],
+ "breaches": [
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+  "beside the lead with an infographic: the top five show photos (refresh_home.py puts pictured stories there first): bail-granted-is-not-freedom-release-the-under-trials"
+ ],
+ "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+}

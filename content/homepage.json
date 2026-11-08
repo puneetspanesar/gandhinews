@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "meghwal-diwali-bsf-bikaner-soldiers-family",
+    "id": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
     "overlay": {
       "kicker": {
-        "en": "States / Rajasthan",
-        "hi": "राज्य / राजस्थान"
+        "en": "Policy / Defence",
+        "hi": "नीति / रक्षा"
       },
       "value": {
-        "en": "Diwali with BSF jawans in Bikaner",
-        "hi": "बीकानेर में बीएसएफ जवानों संग दिवाली"
+        "en": "Diwali with the Trishakti Corps",
+        "hi": "त्रिशक्ति कोर के साथ दिवाली"
       },
       "text": {
         "en": "",
@@ -18,107 +18,107 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-      "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-      "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+      "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+      "bail-granted-is-not-freedom-release-the-under-trials"
     ],
     "live": {
       "title": {
-        "en": "Rajasthan",
-        "hi": "राजस्थान"
+        "en": "Defence",
+        "hi": "रक्षा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "link": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
+          "en": "Home Affairs:",
+          "hi": "गृह मंत्रालय:"
         },
         "text": {
-          "en": "OBC creamy layer explained: why a parent's PSU salary alone cannot shut a candidate out",
-          "hi": "ओबीसी क्रीमी लेयर: माता-पिता का पीएसयू वेतन अकेले उम्मीदवार को बाहर क्यों नहीं कर सकता"
+          "en": "Shah sets drug-free India by 2029 goal at Gujarat security review in Ahmedabad",
+          "hi": "अहमदाबाद में गुजरात की सुरक्षा समीक्षा, शाह ने 2029 तक नशामुक्त भारत का लक्ष्य रखा"
         }
       },
       {
-        "link": "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
+        "link": "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
         "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "11.11 lakh lamps light the Ganga at Munger as Samrat Choudhary announces an 83-km marine drive",
-          "hi": "मुंगेर में गंगा किनारे जगमगाए 11.11 लाख दीप, सम्राट चौधरी ने किया 83 किमी मरीन ड्राइव का ऐलान"
+          "en": "Mamata demands Kolkata Police chief Ajay Nanda resign after fresh tension outside Abhishek's home",
+          "hi": "अभिषेक के घर के बाहर फिर तनाव, ममता ने कोलकाता पुलिस आयुक्त अजय नंदा से इस्तीफा मांगा"
         }
       },
       {
-        "link": "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
+        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Four of a family, two of them children, die in Jajpur house fire on Diwali eve",
-          "hi": "जाजपुर में दिवाली की पूर्व संध्या पर घर में आग, एक ही परिवार के चार लोगों की मौत"
+          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
+          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
         }
       },
       {
-        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
         },
         "text": {
-          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
-          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
+          "en": "Delhi ends Diwali eve at AQI 369, with 16 stations in the severe band",
+          "hi": "दिवाली की पूर्व संध्या पर दिल्ली का एक्यूआई 369, 16 स्टेशनों पर हवा गंभीर"
         }
       },
       {
-        "link": "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9",
-          "hi": "कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या है: 9 नवंबर से 137 दवाओं की एमआरपी क्यों घटेगी"
-        }
-      },
-      {
-        "link": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+        "link": "bail-granted-is-not-freedom-release-the-under-trials",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Cheaper cancer drugs on paper are only half the job. From Monday the price cut must reach the patient",
-          "hi": "कागज़ पर सस्ती कैंसर दवाएं आधा काम हैं। सोमवार से कटौती मरीज़ तक पहुंचनी चाहिए"
+          "en": "Bail that never opens a cell door is no bail at all. Uttar Pradesh must free the 106 still waiting, and stop the next 264",
+          "hi": "जो जमानत जेल का दरवाज़ा न खोले, वह जमानत नहीं। उत्तर प्रदेश इंतज़ार कर रहे 106 लोगों को रिहा करे और अगले 264 को रोके"
         }
       },
       {
-        "link": "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
         "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Vaishnavi Adkar and Rutuja Bhosale make history, reaching Chennai Open doubles final",
-          "hi": "वैष्णवी आडकर और ऋतुजा भोसले ने रचा इतिहास, चेन्नई ओपन डबल्स फाइनल में"
+          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
+          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
         }
       },
       {
-        "link": "modi-bastar-cobra-karanpur-diwali-naxalism-won",
+        "link": "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
         "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
         },
         "text": {
-          "en": "Modi at CoBRA base in Bastar: first Diwali with every district free of Naxalism",
-          "hi": "बस्तर के कोबरा बेस पर मोदी: हर जिला नक्सलवाद से मुक्त, पहली ऐसी दिवाली"
+          "en": "New Zealand election night ends with National and Labour 0.1 points apart, no concession",
+          "hi": "न्यूज़ीलैंड में चुनावी रात खत्म: नेशनल और लेबर के बीच 0.1 अंक का फासला, किसी ने हार नहीं मानी"
+        }
+      },
+      {
+        "link": "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "lead": {
+          "en": "Electoral rolls:",
+          "hi": "मतदाता सूची:"
+        },
+        "text": {
+          "en": "Yogi Adityanath's claim that 1.27 crore Hindus are missing from UP's voter lists is misleading",
+          "hi": "यूपी की मतदाता सूची से 1.27 करोड़ हिंदुओं के नाम गायब होने का योगी आदित्यनाथ का दावा भ्रामक"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
+      "id": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
       "also": []
     },
     "list": [
-      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-      "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-      "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
     ],
     "also": [
-      "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-      "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+      "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
     ]
   },
   "startHere": [
@@ -372,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-heads-to-bastar-diwali-security-forces",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "modi-diwali-greetings-citizens-viksit-bharat"
+        "modi-diwali-greetings-citizens-viksit-bharat",
+        "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
+        "suvendu-adhikari-caa-citizenship-december-31-nadia"
       ],
-      "lead": "modi-bastar-cobra-karanpur-diwali-naxalism-won"
+      "lead": "modi-heads-to-bastar-diwali-security-forces"
     },
     {
       "section": "economy",
@@ -402,17 +402,17 @@
       "lead": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
       "list": [
         "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+        "yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
+        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
       "list": [
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
       ]
     },
     {
@@ -427,20 +427,20 @@
   "desks": [
     {
       "section": "world",
-      "lead": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+      "lead": "japan-aichi-shizuoka-earthquake-57-22-injured",
       "list": [
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
       ]
     },
     {
       "section": "science",
-      "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "lead": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
       "list": [
-        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
         "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31"
+        "who-six-climate-health-actions-1-6-million-lives-cop31",
+        "navy-receives-amini-anti-submarine-shallow-water-craft"
       ]
     },
     {
@@ -449,8 +449,8 @@
       "list": [
         "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
         "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open"
+        "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests"
       ]
     }
   ],
@@ -494,18 +494,6 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Muhurat trading on NSE and BSE, 2:20 pm to 3:30 pm IST",
-        "hi": "एनएसई और बीएसई पर मुहूर्त ट्रेडिंग, दोपहर 2:20 से 3:30 बजे तक"
-      },
-      "link": "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -529,35 +517,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T06:34:13+05:30",
-      "ids": [
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "cancer-drugs-137-revised-prices-november-9-nppa"
-      ]
-    },
-    {
-      "at": "2026-11-08T07:22:28+05:30",
-      "ids": [
-        "suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigram",
-        "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-        "chawri-bazar-building-collapse-toll-six-four-arrested",
-        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
-      ]
-    },
     {
       "at": "2026-11-08T08:45:01+05:30",
       "ids": [
@@ -643,6 +602,34 @@
         "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
         "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
         "modi-bastar-cobra-karanpur-diwali-naxalism-won"
+      ]
+    },
+    {
+      "at": "2026-11-08T18:56:28+05:30",
+      "ids": [
+        "modi-heads-to-bastar-diwali-security-forces",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "railways-18000-festive-specials-trips-claim",
+        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
+      ]
+    },
+    {
+      "at": "2026-11-08T19:29:21+05:30",
+      "ids": [
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+        "bail-granted-is-not-freedom-release-the-under-trials",
+        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
+        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
       ]
     }
   ],

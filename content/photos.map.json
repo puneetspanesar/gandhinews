@@ -32441,47 +32441,17 @@
   "nophoto": "library Suvendu Adhikari photo matched but download workflow blocked (GitHub Actions billing); finder h0718 could not run"
  },
  "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence": {
-  "id": "i-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-  "src": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-en-3x2-1280.jpg",
-  "src800": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-en-3x2-640.jpg",
+  "id": "o-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
+  "src": "/photos/o-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-1280.jpg",
+  "src800": "/photos/o-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Mamata wants Kolkata police chief to quit",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ममता चाहती हैं कोलकाता पुलिस प्रमुख हटें",
-  "page": null,
-  "ihash": "4a2760d70749",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-en-t-1280.jpg",
-    "src800": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-t-1280.jpg",
-    "src800": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-en-1280.jpg",
-    "src800": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-1280.jpg",
-    "src800": "/photos/i2-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence-hi-640.jpg"
-   }
-  },
-  "nophoto": "library Mamata Banerjee: download failed (GitHub Actions jobs failing, retried); quick_photo: 0 unused; finder runs on the same failing jobs"
+  "srcWidth": 1920,
+  "credit": "Photo: Chief Minister's Office, Government of West Bengal / Wikimedia Commons",
+  "licence": "CC BY 1.0",
+  "alt": "Mamata Banerjee (file photo)",
+  "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg"
  },
  "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears": {
   "id": "i-up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
@@ -32703,12 +32673,12 @@
   "src": "/photos/o-amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029-1280.jpg",
   "src800": "/photos/o-amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029-640.jpg",
   "width": 1280,
-  "height": 788,
+  "height": 950,
   "srcWidth": 825,
   "credit": "Photo: PIB",
   "licence": "PIB (free reproduction with credit)",
-  "alt": "Amit Shah chairs the review meeting with Gujarat Chief Minister Bhupendra Patel and officials in Ahmedabad on November 7, 2026",
-  "alt_hi": "अहमदाबाद में 7 नवंबर 2026 को गुजरात के मुख्यमंत्री भूपेंद्र पटेल और अधिकारियों के साथ समीक्षा बैठक की अध्यक्षता करते अमित शाह",
+  "alt": "Union Home Minister Amit Shah is welcomed at the Gujarat law and order review in Ahmedabad on November 7, 2026",
+  "alt_hi": "7 नवंबर 2026 को अहमदाबाद में गुजरात की कानून-व्यवस्था समीक्षा बैठक में केंद्रीय गृह मंत्री अमित शाह का स्वागत",
   "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334011"
  },
  "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti": {
@@ -33025,47 +32995,17 @@
   "page": "https://commons.wikimedia.org/wiki/File:Yashasvi_Jaiswal_2.jpg"
  },
  "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu": {
-  "id": "i-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-  "src": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-3x2-1280.jpg",
-  "src800": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-3x2-640.jpg",
+  "id": "o-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+  "src": "/photos/o-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-1280.jpg",
+  "src800": "/photos/o-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Akhilesh questions Yogi's 1.27 crore claim",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: योगी के 1.27 करोड़ के दावे पर अखिलेश का सवाल",
-  "page": null,
-  "ihash": "33fcea1a7c73",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-t-1280.jpg",
-    "src800": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-hi-t-1280.jpg",
-    "src800": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-1280.jpg",
-    "src800": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-hi-1280.jpg",
-    "src800": "/photos/i2-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Akhilesh Yadav or Yogi Adityanath unused in 7 days; library download and finder h0800 down (GitHub Actions failing)"
+  "srcWidth": 1920,
+  "credit": "Photo: Global Panorama / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Akhilesh Yadav (file photo)",
+  "alt_hi": "अखिलेश यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav_(14335961811).jpg"
  },
  "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm": {
   "id": "i-qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
@@ -34229,5 +34169,18 @@
    }
   },
   "nophoto": "no free photo of Arjun Rajput or India U19; library, quick_photo, finder h0816 failed"
+ },
+ "rajnath-singh-sherathang-soldiers-brightest-lights-diwali": {
+  "id": "o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+  "src": "/photos/o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali-1280.jpg",
+  "src800": "/photos/o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali-640.jpg",
+  "width": 1280,
+  "height": 919,
+  "srcWidth": 1999,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Defence Minister Rajnath Singh addresses soldiers at Sherathang, Sikkim, on November 8, 2026",
+  "alt_hi": "8 नवंबर 2026 को सिक्किम के शेरथांग में सैनिकों को संबोधित करते रक्षा मंत्री राजनाथ सिंह",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334152"
  }
 }
