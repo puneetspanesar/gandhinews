@@ -105,3 +105,64 @@
 @media(max-width:560px){.d-g4{grid-template-columns:minmax(0,1fr)}.d-h1{font-size:25px}.d-thr{grid-template-columns:minmax(0,1fr) 84px}}
 :lang(hi) .d-h1{line-height:1.32}
 :lang(hi) .d-sec h2{font-size:21px}
+/* news-dense blocks (owner, November 8) */
+.d-pol{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}
+.d-pol2{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:24px;align-content:start}
+.d-pol2 .d-row:nth-child(2){border-top:0;padding-top:0}
+.d-rs .d-p{margin-top:4px;font-size:15px}
+.d-cp{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.d-cp.d-one{grid-template-columns:minmax(0,1fr)}.d-cp.d-one>section{padding:0;border:0}
+.d-sg{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px 26px}
+.d-sgn{font-size:19px;line-height:1.2;margin:0 0 4px;padding-top:8px;border-top:3px solid var(--ink)}
+.d-sgc .d-li:first-of-type{border-top:0}
+.d-wr{display:grid;gap:22px 26px}
+.d-wr1{padding:8px 0 10px}.d-wr1 .d-im{margin-bottom:4px}
+.d-wr .d-sgc{min-width:0}
+@media(max-width:1000px){.d-pol,.d-pol2,.d-cp{grid-template-columns:minmax(0,1fr)}.d-pol .d-px,.d-cp .d-pl{padding-left:0;padding-top:18px;margin-top:18px;border-top:1px solid #dcdcdc}.d-pol .d-rr,.d-cp .d-rr{padding-right:0;border-right:0}.d-pol2 .d-row:nth-child(2){border-top:1px solid #dcdcdc;padding-top:12px}.d-sg{grid-template-columns:repeat(2,minmax(0,1fr))}.d-wr{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:560px){.d-sg,.d-wr{grid-template-columns:minmax(0,1fr)!important}}
+.d-polx:first-of-type{margin-top:12px}
+.d-cp .d-sec+.d-row,.d-pol2 .d-row:first-child{border-top:0;padding-top:0}
+.d-g2 .d-im-wide{aspect-ratio:21/9}
+/* small pictures below the top (owner, November 8: no big photos as page filler) */
+.d-tright{display:grid;grid-template-columns:minmax(0,1fr) 200px;gap:18px;align-items:start}
+.d-tright .d-lab{margin-top:0}
+.d-ft1{padding-top:0;border-top:0}.d-ft1 h3{font-size:18px}.d-ft1 .d-p{font-size:15px;margin-top:4px}
+.d-g3 .d-row.d-ft1:first-of-type{border-top:0;padding-top:0}
+.d-thsm{float:right;width:150px;margin:0 0 8px 16px}
+.d-ec .d-blk::after{content:"";display:block;clear:both}
+@media(max-width:560px){.d-tright{grid-template-columns:minmax(0,1fr) 110px}.d-thsm{width:110px}}
+.d-op1{display:block}.d-ec .d-blk+.d-li{margin-top:10px}
+/* design per block (owner, November 8: not all black on white) */
+.d-tint{background:#f3eee4;margin-top:34px;padding:24px 0 28px}
+.d-tint .d-sec{margin-bottom:16px}
+.d-tint .d-rr{border-right-color:#d6cfc2}.d-tint .d-row,.d-tint .d-li{border-top-color:#d6cfc2}
+.d-ico{display:grid;grid-template-columns:28px minmax(0,1fr);gap:12px;align-items:start}
+.d-ico>.ic{width:26px;height:26px;color:var(--red);margin-top:2px}
+.d-stc .d-sgn{display:flex;align-items:center;gap:10px;border-top:0;padding-top:0}
+.d-shp{width:46px;height:46px;flex:none;fill:#f6d3d3;stroke:#8f0000;stroke-linejoin:round}
+.d-wband{margin-top:34px}
+.d-wband .d-sgn{color:#fff;border-top-color:#fff;display:flex;align-items:center;gap:8px}
+.d-wband .d-sgn .ic{width:20px;height:20px;color:#ff6b6b}
+.d-wband .d-li{color:#fff!important;border-top-color:#3a3a3a}
+.d-wband .d-sec h2 a{color:#fff!important}
+.d-qm{width:40px;height:40px;color:var(--red);display:block;margin-bottom:4px}
+
+/* Phosphor duotone, two colours: the outline in ink, the fill layer in red (owner, November 8) */
+.ic-duo{color:var(--ink)}
+.ic-duo path[opacity]{fill:var(--red);opacity:.45}
+.d-wband .ic-duo{color:#fff}
+.d-wband .ic-duo path[opacity]{fill:#ff4d4d;opacity:.7}
+.d-ico>.ic-duo{width:30px;height:30px;color:var(--ink)}
+.d-wband .d-sgn .ic-duo{width:24px;height:24px}
+/* lead's related stories in two columns (owner, November 8) */
+.d-ll{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:24px;margin-top:14px;border-top:1px solid var(--ink)}
+.d-ll a{display:block;padding:10px 0;border-bottom:1px solid #dcdcdc}
+.d-ll a:nth-child(odd){padding-right:12px;border-right:1px solid #dcdcdc;margin-right:-12px}
+.d-ll .d-lab{margin:0 0 2px}
+.d-llt{display:block;font-family:var(--f-serif);font-size:16px;font-weight:700;line-height:1.3}
+.d-ll a:nth-last-child(-n+2){border-bottom:0}
+@media(max-width:560px){.d-ll{grid-template-columns:minmax(0,1fr)}.d-ll a:nth-child(odd){border-right:0;margin-right:0;padding-right:0}.d-ll a:nth-last-child(2){border-bottom:1px solid #dcdcdc}}
+/* world regions: no rule above, each region drawn as its own outline (owner, November 8) */
+.d-wband .d-sgn{border-top:0;padding-top:0;gap:10px}
+.d-rg{width:44px;height:44px;flex:none;fill:#5c1717;stroke:#ff8a8a;stroke-width:1.4;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+.d-rg use{vector-effect:non-scaling-stroke}
