@@ -8,7 +8,7 @@ topics: []
 title: "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9"
 standfirst: "Chemists and hospitals must charge new, lower prices for 137 anti-cancer drugs from Monday. What a trade margin is, how a 30% cap pulls the MRP down, and what patients should check."
 published: 2026-11-08T06:47:00+05:30
-shortAnswer: "A trade margin is the gap between what a manufacturer sells a medicine for and the maximum retail price (MRP) printed on the pack, and it covers wholesalers, hospitals and chemists. On October 17, 2026 the National Pharmaceutical Pricing Authority capped that margin at 30% of the MRP for 137 non-scheduled anti-cancer drugs, under Paragraph 19 of the Drugs (Prices Control) Order, 2013. The revised MRPs apply from Monday, November 9, and the Centre expects prices to fall by up to 70%, depending on how each product was priced before."
+shortAnswer: "A trade margin is the gap between what a manufacturer sells a medicine for and the maximum retail price (MRP) printed on the pack, and it covers wholesalers, hospitals and chemists. On October 17, 2026, the National Pharmaceutical Pricing Authority capped that margin at 30% of the MRP for 137 non-scheduled anti-cancer drugs, under Paragraph 19 of the Drugs (Prices Control) Order, 2013. The revised MRPs apply from Monday, November 9, and the Centre expects prices to fall by up to 70%, depending on how each product was priced before."
 hero:
   need: "A hospital where cancer patients buy their medicines, such as AIIMS Delhi"
   suggested_source: "All India Institute of Medical Sciences Delhi"

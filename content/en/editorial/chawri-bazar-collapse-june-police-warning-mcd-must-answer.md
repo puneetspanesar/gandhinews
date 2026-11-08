@@ -89,7 +89,7 @@ Fifth, the heritage-area rules the government says it is working on through the 
 Delhi has seen this before. The people who died on Thursday were under a roof that was still being built. Delhi owed them a city that read its own letters.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"June 15","label":"date of the Hauz Qazi police letter to the MCD on unauthorised construction at the property"},{"value":"6","label":"people dead in the November 5, 2026 collapse in Gali Sitara"},{"value":"4","label":"arrested, including the owner, under BNS sections 105 and 290; two MCD engineers suspended"}]}
+{"title":"The reporting behind this view","items":[{"value":"June 15","label":"date of the Hauz Qazi police letter to the MCD on unauthorised construction at the property"},{"value":"6","label":"people dead in the November 5, 2026, collapse in Gali Sitara"},{"value":"4","label":"arrested, including the owner, under BNS sections 105 and 290; two MCD engineers suspended"}]}
 ```
 
 ```photo

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+    "id": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "Policy / Home Affairs",
+        "hi": "नीति / गृह मंत्रालय"
       },
       "value": {
-        "en": "Qatar: mediation continues",
-        "hi": "कतर: मध्यस्थता जारी"
+        "en": "Shah: drug-free India by 2029",
+        "hi": "शाह: 2029 तक नशामुक्त भारत"
       },
       "text": {
         "en": "",
@@ -16,109 +16,111 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "labour-codes-centre-states-owe-workers-deadline"
+    ],
     "relatedBeside": [
-      "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-      "modi-diwali-greetings-citizens-viksit-bharat",
-      "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-      "suvendu-adhikari-caa-citizenship-december-31-nadia",
-      "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+      "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+      "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+      "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+      "chawri-bazar-building-collapse-toll-six-four-arrested",
+      "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Home Affairs",
+        "hi": "गृह मंत्रालय"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
+        "link": "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Jaiswal's second straight hundred puts India A on 227 for 2 in Lincoln",
-          "hi": "जायसवाल का लगातार दूसरा शतक, लिंकन में भारत ए 227/2"
+          "en": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets",
+          "hi": "64 टेस्ट और 229 विकेट के बाद मोहम्मद शमी का टेस्ट क्रिकेट से संन्यास"
         }
       },
       {
-        "link": "modi-diwali-greetings-citizens-viksit-bharat",
+        "link": "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
         "lead": {
-          "en": "Diwali:",
-          "hi": "दिवाली:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Modi's Diwali message: light over darkness, and a call to build a Viksit Bharat",
-          "hi": "मोदी का दिवाली संदेश: अंधेरे पर रोशनी की जीत, विकसित भारत बनाने का आह्वान"
+          "en": "TDP-led alliance ahead in Andhra parishad count, YSRCP wins one ZPTC so far",
+          "hi": "आंध्र परिषद चुनाव की गिनती में टीडीपी गठबंधन आगे, वाईएसआरसीपी को अब तक एक जेडपीटीसी सीट"
         }
       },
       {
-        "link": "sebi-settlement-regulations-2026-in-force-online-facility-fees",
+        "link": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
         "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
         },
         "text": {
-          "en": "SEBI's new settlement rules take effect, with online applications and a ₹25,000 fee",
-          "hi": "सेबी के नए निपटान नियम लागू, ऑनलाइन आवेदन और ₹25,000 की फीस"
+          "en": "'How do they know the missing voters are Hindus?' Akhilesh asks Yogi over 1.27 crore claim",
+          "hi": "'उन्हें कैसे पता कि गायब वोटर हिंदू हैं?' 1.27 करोड़ के दावे पर अखिलेश का योगी से सवाल"
         }
       },
       {
-        "link": "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Suvendu Adhikari promises citizenship to all eligible CAA applicants in Bengal by December 31",
-          "hi": "सुवेंदु अधिकारी का वादा: बंगाल में सभी पात्र सीएए आवेदकों को 31 दिसंबर तक नागरिकता"
-        }
-      },
-      {
-        "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Heavy rain likely in Tamil Nadu, Puducherry and Kerala on Diwali Sunday, western disturbance due from November 10",
-          "hi": "दिवाली रविवार को तमिलनाडु, पुडुचेरी और केरल में भारी बारिश के आसार, 10 नवंबर से पश्चिमी विक्षोभ"
-        }
-      },
-      {
-        "link": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+        "link": "chawri-bazar-building-collapse-toll-six-four-arrested",
         "lead": {
           "en": "Delhi:",
           "hi": "दिल्ली:"
         },
         "text": {
-          "en": "Delhi ends Diwali eve at AQI 369, with 16 stations in the severe band",
-          "hi": "दिवाली की पूर्व संध्या पर दिल्ली का एक्यूआई 369, 16 स्टेशनों पर हवा गंभीर"
+          "en": "Chawri Bazar building collapse: toll rises to six, owner and three contractors arrested",
+          "hi": "चांदनी चौक के पास चावड़ी बाजार में इमारत गिरी: मृतकों की संख्या छह, मालिक और तीन ठेकेदार गिरफ्तार"
         }
       },
       {
-        "link": "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+        "link": "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
         "lead": {
-          "en": "Welfare:",
-          "hi": "कल्याण योजनाएं:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Rahul Gandhi's claim that welfare will now go by voter ID, not Aadhaar, is misleading",
-          "hi": "योजनाओं का लाभ अब आधार नहीं, वोटर आईडी से मिलने का राहुल गांधी का दावा भ्रामक"
+          "en": "Air strikes on a village near Sanaa kill 25, mostly women and children, Houthis say",
+          "hi": "सना के पास गांव पर हवाई हमलों में 25 की मौत, ज्यादातर महिलाएं और बच्चे: हूती"
         }
       },
       {
-        "link": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
+        "link": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Brar takes 4 for 30 as India beat New Zealand by four runs on DLS to lead 2-0",
-          "hi": "ब्रार के 30 रन पर 4 विकेट, भारत ने डीएलएस से न्यूज़ीलैंड को 4 रन से हराया, सीरीज़ में 2-0 की बढ़त"
+          "en": "India U19 meet Pakistan on Sunday with both sides unbeaten at the top of Group A",
+          "hi": "अंडर-19 एशिया कप में रविवार को भारत और पाकिस्तान आमने-सामने, दोनों ग्रुप A में अजेय"
+        }
+      },
+      {
+        "link": "cancer-drugs-137-revised-prices-november-9-nppa",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "Revised prices of 137 anti-cancer drugs take effect on Monday, with margins capped at 30%",
+          "hi": "137 कैंसर दवाओं की संशोधित कीमतें सोमवार से लागू, मार्जिन की सीमा 30%"
+        }
+      },
+      {
+        "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "Satellites find Istanbul landfill leaking 7.4 tonnes of methane an hour as COP31 nears",
+          "hi": "कॉप31 से पहले उपग्रहों ने पकड़ा: इस्तांबुल के कूड़ाघर से हर घंटे 7.4 टन मीथेन का रिसाव"
         }
       }
     ]
@@ -186,28 +188,28 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
+      "id": "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
       "also": []
     },
     "list": [
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
-      "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
-      "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-      "khunti-crash-night-highways-need-lights-and-speed-checks",
-      "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
+      "cancer-drugs-137-revised-prices-november-9-nppa",
+      "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+      "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
+      "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
+      "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears"
     ],
     "also": [
-      "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-      "wb-suvendu-police-attacks-asansol-recruitment-29000"
+      "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
+      "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
     ]
   },
   "startHere": [
+    "e20-petrol-explained-ethanol-blend-karnataka-row",
+    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
     "obc-creamy-layer-explained-parents-salary-supreme-court",
     "bbmb-power-sharing-explained-himachal-share-supreme-court",
     "foreign-investors-return-explained-fii-dii-sensex-rally",
-    "suspension-of-sentence-explained-tejpal-supreme-court",
-    "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses"
+    "suspension-of-sentence-explained-tejpal-supreme-court"
   ],
   "trackers": [
     {
@@ -277,9 +279,9 @@
   },
   "factCheck": {
     "cards": [
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
       "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "railways-18000-festive-specials-trips-claim",
-      "rahul-gandhi-voter-id-not-aadhaar-welfare-claim"
+      "railways-18000-festive-specials-trips-claim"
     ]
   },
   "explained": [
@@ -360,11 +362,11 @@
     }
   ],
   "opinion": [
+    "e20-ethanol-row-needs-joint-testing-and-published-results",
+    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
     "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-    "bail-granted-is-not-freedom-release-the-under-trials",
-    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-    "khunti-crash-night-highways-need-lights-and-speed-checks"
+    "bail-granted-is-not-freedom-release-the-under-trials"
   ],
   "sections": [
     {
@@ -374,11 +376,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-diwali-greetings-citizens-viksit-bharat",
         "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-        "suvendu-adhikari-caa-citizenship-december-31-nadia",
-        "mannan-arrested-madurai-tvk-mla-offer-released-bond"
+        "suvendu-adhikari-caa-citizenship-december-31-nadia"
       ],
-      "lead": "modi-diwali-greetings-citizens-viksit-bharat"
+      "lead": "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
     },
     {
       "section": "economy",
@@ -395,8 +397,8 @@
       "list": [
         "fox-completes-22-billion-roku-acquisition",
         "sebi-settlement-regulations-2026-in-force-online-facility-fees",
-        "semicon-india-2-portal-vaishnaw-12-ecms-projects",
-        "rain-industries-q3-profit-243-crore-interim-dividend"
+        "bosch-q2-profit-840-crore-stock-split-3-1-bonus-20-shares",
+        "semicon-india-2-portal-vaishnaw-12-ecms-projects"
       ]
     },
     {
@@ -433,7 +435,7 @@
       "list": [
         "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
         "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-        "nz-election-polling-day-luxon-hipkins-polls-close-7pm"
+        "nz-election-latest-count-national-labour-too-close-to-call-130-seats"
       ]
     },
     {
@@ -531,20 +533,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-07T12:33:44+05:30",
-      "ids": [
-        "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
-        "modi-diwali-greetings-citizens-viksit-bharat",
-        "who-six-climate-health-actions-1-6-million-lives-cop31",
-        "rupee-93-89-strongest-since-april-fii-record-buying",
-        "haryana-9880-crore-paddy-farmers-beekeepers-insurance",
-        "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
-        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "jharkhand-khunti-trailer-crowd-seven-killed",
-        "bail-granted-is-not-freedom-release-the-under-trials"
-      ]
-    },
     {
       "at": "2026-11-07T14:38:30+05:30",
       "ids": [
@@ -646,6 +634,21 @@
         "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
         "rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
         "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
+      ]
+    },
+    {
+      "at": "2026-11-08T06:49:22+05:30",
+      "ids": [
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+        "labour-codes-centre-states-owe-workers-deadline",
+        "mohammed-shami-retires-test-cricket-229-wickets-64-tests",
+        "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
+        "chawri-bazar-building-collapse-toll-six-four-arrested",
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
+        "cancer-drugs-137-revised-prices-november-9-nppa",
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
       ]
     }
   ],
