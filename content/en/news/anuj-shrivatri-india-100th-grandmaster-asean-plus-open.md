@@ -22,7 +22,7 @@ hero:
     value: "India's 100th Grandmaster"
 related: [maaya-rajeshwaran-wins-first-professional-title]
 seo:
-  description: "Anuj Shrivatri, 22, of Madhya Pradesh became India's 100th chess Grandmaster on November 8, 2026 by winning the 7th ASEAN Plus Individual Open in the Philippines."
+  description: "Anuj Shrivatri, 22, of Madhya Pradesh became India's 100th chess Grandmaster on November 8, 2026, by winning the 7th ASEAN Plus Individual Open in the Philippines."
 infographic:
   kicker: "Indian chess"
   headline: "India reaches 100 Grandmasters"

@@ -1,0 +1,27 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-09T10:04:51+05:30",
+ "end": "2026-11-09T10:47:40+05:30",
+ "summary": "COP31 lead, Delhi AQI, Shrivatri 100th GM, India A washout; Alcaraz held",
+ "new": [
+  "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+  "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+  "delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441",
+  "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+ ],
+ "held": [
+  "alcaraz-beats-shelton-paris-masters-final-first-title"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "alcaraz-beats-shelton-paris-masters-final-first-title",
+   "kind": "facts",
+   "why": "The headline and infographic headline (EN 'in two tie-break sets', HI infographic 'दो टाई-ब्रेक सेट') are false. The score was 7-6(5), 7-5, so only the first set went to a tie-break; the story's own body says Alcaraz broke at 6-5 to take the second set 7-5. The main picture is also a tight, smiling red-carpet close-up (Laureus/IWC backdrop) with the top of his head cut off, not a tennis or trophy photo. The Ben Shelton in-story photo was 'NOT FOUND' although he is a top-5 player with free photos.",
+   "fix": "Retitle along the lines of 'Alcaraz beats Shelton 7-6, 7-5 to win his first Paris Masters title' and fix the infographic headline in both languages to match. Replace the main picture with an uncropped photo of Carlos Alcaraz playing or holding a trophy, with the whole head in frame. Retry the library, quick_photo.py and the finder for Ben Shelton for the in-story photo."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "cop31-opens-antalya-turkey-australia-negotiations-india-position"
+}

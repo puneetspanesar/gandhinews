@@ -22,7 +22,7 @@ hero:
     value: "COP31 opens in Antalya"
 related: [unep-emissions-gap-report-1-5-overshoot-guterres, who-six-climate-health-actions-1-6-million-lives-cop31, india-scores-2-of-32-healthy-ndc-scorecard-climate-health, istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31]
 seo:
-  description: "COP31 opened in Antalya on November 9, 2026 and runs to November 20. Turkey hosts, Australia leads the talks, and finance, fossil fuels and weaker plans are in focus."
+  description: "COP31 opened in Antalya on November 9, 2026, and runs to November 20. Turkey hosts, Australia leads the talks, and finance, fossil fuels and weaker plans are in focus."
 infographic:
   kicker: "COP31"
   headline: "COP31 opens in Antalya for 12 days"

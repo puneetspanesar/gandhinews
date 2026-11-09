@@ -22,7 +22,7 @@ hero:
     value: "Alcaraz wins Paris, ninth Masters"
 related: [shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-turin, fritz-beats-fils-alcaraz-quarter-final-hijikata-paris]
 seo:
-  description: "Carlos Alcaraz beat Ben Shelton 7-6(5), 7-5 in the Paris Masters final in Nanterre on November 8, 2026 to win his first title at the event and his ninth Masters 1000."
+  description: "Carlos Alcaraz beat Ben Shelton 7-6(5), 7-5 in the Paris Masters final in Nanterre on November 8, 2026, to win his first title at the event and his ninth Masters 1000."
 infographic:
   kicker: "Paris Masters final"
   headline: "Alcaraz beats Shelton in two tie-break sets"

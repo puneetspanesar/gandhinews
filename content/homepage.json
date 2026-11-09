@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+    "id": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
     "overlay": {
       "kicker": {
-        "en": "States / Delhi",
-        "hi": "राज्य / दिल्ली"
+        "en": "World / Climate",
+        "hi": "दुनिया / जलवायु"
       },
       "value": {
-        "en": "Day after Diwali: AQI 366",
-        "hi": "दिवाली के अगले दिन एक्यूआई 366"
+        "en": "COP31 opens in Antalya",
+        "hi": "अंताल्या में कॉप31 शुरू"
       },
       "text": {
         "en": "",
@@ -18,20 +18,42 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
       "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-      "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two"
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
     ],
     "live": {
       "title": {
-        "en": "Delhi",
-        "hi": "दिल्ली"
+        "en": "Climate",
+        "hi": "जलवायु"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
+          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
+        }
+      },
+      {
+        "link": "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "lead": {
+          "en": "Chess:",
+          "hi": "शतरंज:"
+        },
+        "text": {
+          "en": "Anuj Shrivatri becomes India's 100th Grandmaster with a win in the Philippines",
+          "hi": "फिलीपींस में खिताब जीतकर अनुज श्रीवत्री भारत के 100वें ग्रैंडमास्टर बने"
+        }
+      },
       {
         "link": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "lead": {
@@ -55,69 +77,47 @@
         }
       },
       {
-        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "link": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Rubio calls Iran's demands 'outrageous and ridiculous' and says no deal is close as US-Iran peace talks stall; India watches oil",
+          "hi": "रुबियो ने ईरान की मांगों को 'अपमानजनक और हास्यास्पद' बताया, समझौता करीब नहीं; अमेरिका-ईरान शांति वार्ता अटकी, भारत की नजर तेल और खाड़ी पर"
+        }
+      },
+      {
+        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "lead": {
           "en": "Internal security:",
           "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
-          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
+          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
+          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
         }
       },
       {
-        "link": "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
+        "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
         },
         "text": {
-          "en": "India A declare on 464 for 5 and leave New Zealand A 36 for 2 in Lincoln",
-          "hi": "भारत ए ने 464/5 पर पारी घोषित की, लिंकन में न्यूज़ीलैंड ए 36/2"
+          "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
+          "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
         }
       },
       {
-        "link": "india-u19-pakistan-asia-cup-result-zahoor-century",
+        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Hamza Zahoor's hundred takes Pakistan U19 past India by three wickets despite Rajput's 107",
-          "hi": "राजपूत के 107 के बावजूद हमजा ज़हूर के शतक से पाकिस्तान अंडर-19 ने भारत को तीन विकेट से हराया"
-        }
-      },
-      {
-        "link": "modi-advani-99th-birthday-nation-first-foundation",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Modi on Advani's 99th birthday: he gave the BJP a foundation of Nation First",
-          "hi": "आडवाणी के 99वें जन्मदिन पर मोदी: उन्होंने भाजपा को राष्ट्र प्रथम की नींव दी"
-        }
-      },
-      {
-        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
-        },
-        "text": {
-          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
-          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
-        }
-      },
-      {
-        "link": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Delhi: 16-year-old domestic worker rescued, says she was burned with a hot iron; no arrest yet",
-          "hi": "दिल्ली: 16 साल की घरेलू सहायिका छुड़ाई गई, गर्म प्रेस से जलाने का आरोप; अभी कोई गिरफ्तारी नहीं"
+          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
+          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
         }
       }
     ]
@@ -185,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-u19-pakistan-asia-cup-result-zahoor-century",
+      "id": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
       "also": []
     },
     "list": [
-      "modi-advani-99th-birthday-nation-first-foundation",
-      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+      "nz-mmp-explained-overhang-special-votes-130-seats",
+      "e20-ethanol-row-needs-joint-testing-and-published-results"
     ],
     "also": [
-      "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+      "e20-petrol-explained-ethanol-blend-karnataka-row"
     ]
   },
   "startHere": [
@@ -425,11 +425,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+      "lead": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
       "list": [
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
         "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+        "japan-aichi-shizuoka-earthquake-57-22-injured"
       ]
     },
     {
@@ -437,18 +437,17 @@
       "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
       "list": [
         "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31"
+        "nadda-national-cancer-awareness-day-screening-appeal"
       ]
     },
     {
       "section": "sports",
-      "lead": "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
+      "lead": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
       "list": [
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
         "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
-        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one"
+        "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
       ]
     }
   ],
@@ -508,38 +507,25 @@
         "hi": "कल"
       },
       "text": {
+        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
+        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
+      },
+      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
         "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
         "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
       },
       "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
-    },
-    {
-      "icon": "chart-line",
-      "date": {
-        "en": "Nov 12",
-        "hi": "12 नवंबर"
-      },
-      "text": {
-        "en": "Retail inflation (CPI) for October, 4 pm",
-        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
-      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T18:56:28+05:30",
-      "ids": [
-        "modi-heads-to-bastar-diwali-security-forces",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "railways-18000-festive-specials-trips-claim",
-        "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
-        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
-      ]
-    },
     {
       "at": "2026-11-08T19:29:21+05:30",
       "ids": [
@@ -639,6 +625,20 @@
         "modi-advani-99th-birthday-nation-first-foundation",
         "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
         "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
+      ]
+    },
+    {
+      "at": "2026-11-09T10:45:10+05:30",
+      "ids": [
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
       ]
     }
   ],

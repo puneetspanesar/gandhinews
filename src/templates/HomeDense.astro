@@ -164,7 +164,7 @@ const IND = [...(await import('node:fs')).readFileSync('public/maps/india.svg', 
           <p class="d-note">{G.close(D.mkDate)}</p>
         </div>}
         {eBig && <div class="d-rr d-px"><a href={eBig.href} class="d-blk">
-          {eBig.real && <span class="d-th d-thsm"><Photo cover id={eBig.id} src={eBig.d.hero?.src} lang={lang} /></span>}
+          <span class="d-th d-thsm"><Photo cover id={eBig.id} src={eBig.d.hero?.src} lang={lang} /></span>
           {eBig.st && <span class="d-lab">{eBig.st}</span>}
           <h3 class="d-h3l">{eBig.d.title}</h3>
           <p class="d-p">{whole(eBig.d.standfirst, 140)}</p>
