@@ -1,7 +1,7 @@
 {
  "run": "longform-e",
  "start": "2026-11-09T17:41:04+05:30",
- "end": "2026-11-09T18:58:22+05:30",
+ "end": "2026-11-09T19:00:02+05:30",
  "summary": "Long-form evening: RBI liquidity and COP31 explainers, Novaya Gazeta and Diwali fires editorials, Kapil Mishra fact check",
  "new": [
   "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
@@ -30,6 +30,15 @@
    "done": "Dropped from the top this evening: the Shah Naxal story beside the Modi Bastar fact check, the Nvidia probe (one business story left), the Yogi voter-list fact check from the live band, the 6:30 am AQI 366 story, both older Rajnath Sherathang stories, the Maharashtra ministers' Diwali story and the duplicate COP31 news slot. gate.sh layout check passes (no empty space). NOT fixed in this run: every fresh pictured news story has already led, so the Gogoi story leads as a recorded check_fresh breach until the next hourly run publishes a fresh lead; the desktop trending bar clipping is a template issue left for a code run."
   }
  ],
- "breaches": [],
- "lead": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 16:48 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led at 16:48 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 16:30 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 15:02 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 14:58 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 14:51 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 14:50 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+ ],
+ "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
 }
