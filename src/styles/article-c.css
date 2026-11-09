@@ -12,8 +12,8 @@
 .ac-ph figcaption{position:absolute;left:0;right:0;bottom:0;background:#0d0d0d;color:#fff;font-size:13px;line-height:1.45;padding:9px 16px;display:flex;justify-content:space-between;gap:16px}
 .ac-ph figcaption .pcred{color:#fff;white-space:nowrap}
 
-/* Key numbers: one thin maroon band, one line per figure */
-.ac-band{background:#6b0f1a;color:#fff}
+/* Key numbers: one thin band in the brand red, one line per figure */
+.ac-band{background:var(--red);color:#fff}
 .ac-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}
 .ac-strip.n3{grid-template-columns:repeat(3,minmax(0,1fr))}
 .ac-strip>p{display:flex;align-items:center;gap:10px;margin:0;padding:13px 18px;font-size:15px;line-height:1.35;color:#fff;min-width:0}
@@ -28,15 +28,15 @@
 .art.ac-split{padding-top:44px}
 
 /* Key points: one list under a heavy rule, big maroon numerals in a gutter */
-.kp.ac-kp{border:0;border-radius:0;padding:0;margin:0 0 34px;border-top:3px solid var(--ink)}
+.kp.ac-kp{border:0;border-radius:0;padding:0;margin:0 0 34px}
 .art:not(.ac-split) .kp.ac-kp{margin-top:28px}
-.kp.ac-kp h2{display:flex;align-items:center;gap:8px;font-size:13px!important;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin:12px 0 4px}
-.kp.ac-kp h2 .ic{width:20px;height:20px;color:#6b0f1a}.kp.ac-kp h2 .ic path[opacity]{fill:#6b0f1a;opacity:.3}
+.kp.ac-kp h2{display:flex;align-items:center;gap:8px;font-size:13px!important;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin:0 0 4px}
+.kp.ac-kp h2 .ic{width:20px;height:20px;color:var(--red)}.kp.ac-kp h2 .ic path[opacity]{fill:var(--red);opacity:.3}
 .kp.ac-kp ol{display:block;margin:0;padding:0}
 .kp.ac-kp li{display:grid!important;grid-template-columns:44px minmax(0,1fr);align-items:baseline;border-top:1px solid var(--line)!important;padding:14px 0!important;font-size:18px!important;line-height:1.5}
 .kp.ac-kp li:first-child{border-top:0!important}
 .kp.ac-kp li::before{content:none!important}
-.kp.ac-kp .n{font-size:30px;line-height:1;font-weight:700;color:#6b0f1a}
+.kp.ac-kp .n{font-size:30px;line-height:1;font-weight:700;color:var(--red)}
 .kp.ac-kp .hl,.kp.ac-kp b:not(.n){color:var(--ink);font-weight:700}
 
 /* Timeline set in the story */
