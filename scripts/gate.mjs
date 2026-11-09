@@ -89,6 +89,17 @@ let pages = 0;
     else if (f.name.endsWith('.css') && /line-clamp|text-overflow\s*:\s*ellipsis/.test(read(p))) fail('CSS clips text with dots (line-clamp or text-overflow: ellipsis)', p);
   }
 })('dist');
+// Owner's rules (November 9 night): no picture may show one person twice. A one-person composite cover (v-) must have
+// its collage (treat_photo.py replaces it with that person alone).
+{
+  const PEOPLE = JSON.parse(read('newsroom/library/people.json'));
+  const names = Object.values(PEOPLE).map((v) => v.en);
+  for (const [id, e] of Object.entries(MAP)) {
+    if (!String(e.src || '').includes('/v-') || e.treated) continue;
+    const alt = String(e.alt || '');
+    if (names.filter((nm) => alt.includes(nm)).length === 1 && /\(file photos\)/.test(alt) && !/\band\b|\bwith\b/.test(alt)) fail('a cover shows the same person twice and has no collage (run newsroom/scripts/treat_photo.py on it)', id);
+  }
+}
 // Owner's rule (November 9, replacing November 7): only the TOP of the homepage must be fresh (newsroom/scripts/check_fresh.py
 // enforces that); the sections below may carry news up to 7 days old. No news link on the homepages may be older than 7 days.
 const PUB = new Map();

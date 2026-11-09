@@ -26,6 +26,7 @@ W, H = 1280, 800
 PAPER, RED, INK = (240, 233, 221), (204, 0, 0), (13, 13, 13)
 _session = None
 _DF = None
+_DF = None
 
 SCENE = re.compile(r'building|court|Parliament|Sansad|Sadan|assembly|Vidhan|legislat|station|market|mandi|field|crowd|voters|'
                    r'polling|booth|ballot|EVM|farmers|temple|river|road|skyline|stadium|ground|pitch|port|ship|harbour|train|railway|'
@@ -79,10 +80,9 @@ BUCKETS = [
     (r'cricket|\bT20\b|\bODI\b|Test match|IPL|wicket|innings', r'cricket|stadium|pitch'),
     (r'tennis|ATP|WTA', r'tennis'),
     (r'hockey|football|kabaddi|chess|badminton|athlet|Olympic', r'stadium|ground|arena|hall'),
-    (r'Diwali|Deepavali|festival|Chhath|puja|temple|Ayodhya', r'diyas|lamps|Deepotsav|rangoli|Diwali'),
-    (r'fire|blaze|firecracker|burn', r'fire|blaze|firefighters|fire tender|smoke|flames'),
+    (r'fires?\b|blaze|gutted', r'fire\b|blaze|firefighters|fire tender|flames'),
     (r'earthquake|quake|tremor|landslide|collapse', r'earthquake|rubble|collapsed|rescue|landslide'),
-    (r'Test|ODI|India A|innings|wicket|runs\b|rain', r'cricket|stadium|pitch|ground'),
+    (r'Test|ODI|India A|innings|wicket|runs\b', r'cricket|stadium|pitch'),
     (r'hospital|health|doctor|medical|AIIMS|vaccine|disease', r'hospital|AIIMS|medical|clinic'),
     (r'school|exam|student|university|NEET|JEE|CBSE|UGC', r'school|university|campus|students|exam'),
     (r'fishermen|fishing|boat|sea|coast|port', r'fishermen|boats|harbour|port|coast|sea'),
@@ -100,8 +100,12 @@ def related(sid, M, n=3, strict=False):
     state = None
     for part in [x.strip() for x in loc.split(',')][::-1]:
         st = ALIAS.get(part, part)
-        if st in STATES: state = st; break
+        if st in STATES and st != 'Delhi': state = st; break   # a Delhi dateline is national news
     want = [arx for srx, arx in BUCKETS if re.search(rf'\b(?:{srx})', text, re.I)]
+    _t = str(d.get('title') or '')
+    HEADP = {w for w in re.findall(r'\b[A-Z][A-Za-z]{2,}\b', _t) if w.lower() not in STOP}
+    HEADP -= {'Diwali', 'Deepavali', 'India', 'Indian', 'New', 'First', 'Nation', 'Day', 'Year', 'November', 'October', 'December',
+              'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'} | {PEOPLE[k]['en'].split()[-1] for k in PEOPLE}
     own = os.path.basename(e['src']).split('-1280')[0]
     cands = []
     for k, x in M.items():
@@ -113,9 +117,11 @@ def related(sid, M, n=3, strict=False):
         if d.get('section') == 'world' and (re.search(r'\bIndia|Indian\b', alt) or any(c in alt for c in list(ALIAS) + list(STATES))): continue   # no Indian scenes on world stories
         if state and any(st in alt for st in STATES if st != state) and state not in alt: continue   # another state's scene
         if state and any(c in alt for c, st in ALIAS.items() if st != state and c not in ('New Delhi',)) and state not in alt: continue
-        topic = sum(1 for arx in want if re.search(arx, alt, re.I))
         place = 1 if state and (state in alt or any(c in alt for c, st in ALIAS.items() if st == state)) else 0
-        if topic == 0 and (strict or not (place and SCENE.search(alt))): continue
+        ap = set(re.findall(r'\b[A-Z][A-Za-z]{2,}\b', alt))
+        if not (ap & HEADP) and not place: continue           # must share a proper noun (place, body, event) with the headline
+        topic = sum(1 for arx in want if re.search(rf'\b(?:{arx})', alt, re.I))
+        if topic == 0: continue                               # and show the story's subject matter
         cands.append((topic * 3 + place * 2 - min(USED.get(k, 0), 4) * 1.2, k, alt))   # spread the library: a much-used photo drops
     cands.sort(key=lambda t: (-t[0], t[1]))
     out, seenalt = [], set()
@@ -158,21 +164,65 @@ PERSONISH = re.compile(r'\b(Justice|Dr|Mr|Mrs|Ms|Shri|Smt|minister|leader|chief|
 USED = {}   # how often each library photo already sits in a collage (filled in main)
 
 
+SURNAME = None
+
+
+def named_people(text):
+    """Library people named in a text, in order of mention: full name, alias, or a surname only one person has."""
+    global SURNAME
+    if SURNAME is None:
+        c = {}
+        for k, v in PEOPLE.items():
+            sn = v['en'].split()[-1]
+            if len(sn) >= 4: c.setdefault(sn, []).append(k)
+        SURNAME = {sn: ks[0] for sn, ks in c.items() if len(ks) == 1}
+    hits = {}
+    for k, v in PEOPLE.items():
+        for nm in [v['en']] + list(v.get('aliases') or []):
+            i = (text or '').find(nm)
+            if i >= 0: hits[k] = min(hits.get(k, 1 << 30), i)
+    for sn, k in SURNAME.items():
+        m = re.search(rf"\b{re.escape(sn)}\b", text or '')
+        if m: hits[k] = min(hits.get(k, 1 << 30), m.start())
+    return [k for k, _ in sorted(hits.items(), key=lambda t: t[1])]
+
+
+def library_portrait(pk):
+    """Download (once, as a Wikimedia thumbnail) the first licensed photo of a library person: (path, credit) or None."""
+    import urllib.request, io, time
+    ph = (PEOPLE[pk].get('photos') or [None])[0]
+    if not ph or not ph.get('url'): return None
+    path = f'public/photos/lib-{pk}-1280.jpg'
+    if not os.path.exists(path):
+        u = ph['url'].split('?')[0]
+        m = re.match(r'https://upload\.wikimedia\.org/wikipedia/commons/(\w)/(\w\w)/([^/]+)$', u)
+        if m and (ph.get('width') or 0) > 1280 and not u.lower().endswith(('.svg', '.tif', '.tiff')):
+            u = f'https://upload.wikimedia.org/wikipedia/commons/thumb/{m[1]}/{m[2]}/{m[3]}/1280px-{m[3]}'
+        time.sleep(1.5)
+        try:
+            req = urllib.request.Request(u, headers={'User-Agent': 'GandhiNewsDesk/1.0 (https://gandhinews.com)'})
+            im = Image.open(io.BytesIO(urllib.request.urlopen(req, timeout=40).read())).convert('RGB')
+            im.thumbnail((1280, 1600)); im.save(path, quality=88)
+        except Exception as ex:
+            print(f'  library photo for {pk} not downloaded: {ex}'); return None
+    return path, f"{(ph.get('author') or 'Wikimedia Commons').strip()} / Wikimedia Commons, {ph.get('licence', '')}".strip(', ')
+
+
 def portrait(sid, M):
-    """For a story without its own photo: a solo photo we hold of the person named first in its headline."""
-    d = fm(sid); title = str(d.get('title') or ''); stand = str(d.get('standfirst') or '')
-    named = sorted((title.find(v['en']), k, v) for k, v in PEOPLE.items() if v['en'] in title)   # the headline's person only
-    for _, k, v in named:
-        name = v['en']; best = None
+    """The headline's first-named person, alone: a solo photo we already hold, else the library portrait. (path, credit)."""
+    title = str(fm(sid).get('title') or '')
+    for pk in named_people(title)[:1]:
+        name = PEOPLE[pk]['en']; best = None
         for mk, x in M.items():
             alt = x.get('alt') or ''
-            if mk == sid or x.get('graphic') or x.get('nohome') or mk.startswith('x-') or not x.get('src'): continue
-            if os.path.basename(x['src']).startswith(('v-', 't-')): continue          # no composites, no covers
-            if name not in alt or (people(alt) - {name}): continue                      # him or her alone
+            if mk == sid or x.get('graphic') or mk.startswith('x-') or not x.get('src'): continue
+            if os.path.basename(x['src']).startswith(('v-', 't-', 'c-', 'i')): continue
+            if name not in alt or named_people(alt) != [pk] or re.search(r'\band\b|\bwith\b|calls on|meets|photos\)', alt): continue
             if not os.path.exists('public' + x['src']): continue
             w = x.get('srcWidth') or x.get('width') or 0
             if best is None or w > best[0]: best = (w, mk)
-        if best: return best[1]
+        if best: return 'public' + M[best[1]]['src'], M[best[1]].get('credit', '').replace('Photo: ', '')
+        return library_portrait(pk)
     return None
 
 
@@ -253,19 +303,21 @@ def arch(w, h, color=RED):
 
 def treat(sid, M):
     e = M[sid]
-    # the subject: the story's own photo; for an infographic story, a library portrait of the person it is about;
-    # otherwise none, and the cover is a collage of related scene photos only
-    src_key = sid if not e.get('graphic') else portrait(sid, M)
+    # the subject: the story's own photo, unless it is an infographic or a cover of one person twice; then the headline
+    # person's solo photo (ours or the library's); otherwise a collage of clearly related scenes
+    alt0 = e.get('alt', '')
+    single = (e.get('src') or '').split('/')[-1].startswith('v-') and len(named_people(alt0)) <= 1 and not re.search(r'\band\b|\bwith\b', alt0)
+    if not e.get('graphic') and not single:
+        subj_path, subj_credit, src_key = 'public' + e['src'], e.get('credit', '').replace('Photos: ', '').replace('Photo: ', ''), sid
+    else:
+        pr = portrait(sid, M)
+        subj_path, subj_credit = pr if pr else (None, None)
+        src_key = 'portrait' if pr else None
     main_scene = None
     if src_key is None:
         main_scene = related(sid, M, 4, strict=True)
         if len(main_scene) < 3: return None, False, []
-        # the main photo must clearly be about this story: a real word of the headline in its caption
-        tw = {w.lower() for w in words(str(fm(sid).get('title') or '')) if len(w) >= 5}
-        pick = next((k for k in main_scene if len(tw & {w.lower() for w in words(M[k]['alt'])}) >= 2), None)
-        if not pick: return None, False, []
-        main_scene = [pick] + [k for k in main_scene if k != pick]
-    orig = Image.open('public' + M[src_key]['src']).convert('RGB') if src_key else None
+    orig = Image.open(subj_path).convert('RGB') if subj_path else None
     rnd = random.Random(int(hashlib.md5(sid.encode()).hexdigest()[:8], 16))
     flip = rnd.random() < .5
     X = (lambda x, w: W - x - w) if flip else (lambda x, w: x)      # mirror a box when the subject sits on the right
@@ -274,17 +326,21 @@ def treat(sid, M):
     if main_scene:
         rel = main_scene[1:]; centre = main_scene[0]
     else:
-        rel = [k for k in related(sid, M, 4) if k != src_key][:3]
-        if len(rel) < 2: rel += generic(sid, M, set(rel) | {sid, src_key}, 3 - len(rel))
+        rel = related(sid, M, 3)   # only tiles that clearly belong to this story; none is better than a wrong one
         centre = None
     paths = ['public' + M[k]['src'] for k in rel]
 
-    if orig is not None:
+    a0 = alt0 if src_key == sid else 'portrait'
+    is_person = src_key == 'portrait' or bool(named_people(a0) or people(a0) or PERSONISH.search(a0))
+    if src_key == sid and (len(named_people(a0)) > 2 or re.search(r'\b(group|team|members|delegation|crowd|officials|medallists|contingent|personnel|soldiers|troops)\b', a0, re.I)):
+        is_person = False                                  # a group never cuts out cleanly: show the photo whole
+    if orig is not None and is_person:
         cut, a = cutout(orig)
         ok = .05 < a.mean() < .7 and a[-int(a.shape[0] * .2):].mean() > .04
+        if ok and a[:max(2, int(a.shape[0] * .03))].mean() > .03: ok = False   # head cut by the photo's top edge: show it whole
     else:
         ok = False
-    if src_key and src_key != sid and not ok: return None, False, []   # a library portrait that will not cut out cleanly
+    if src_key == 'portrait' and not ok: return None, False, []
 
     can.alpha_composite(grid(220, 154), (X(36, 220), 40))
     can.alpha_composite(dots(176, 112), (X(W - 220, 176), H - 150))
@@ -299,7 +355,8 @@ def treat(sid, M):
     cxs = int(W * (.42 if not flip else .58))
     if ok:
         cut = cut.crop(cut.getbbox())
-        s = min(H * .9 / cut.height, W * .48 / cut.width)
+        s = min(H * .9 / cut.height, W * .42 / cut.width)
+        if cut.height < cut.width * 1.25: s = min(s, H * .62 / cut.height)   # a tight head crop: keep the face a sane size
         cut = cut.resize((round(cut.width * s), round(cut.height * s)), Image.LANCZOS)
         aw = int(min(max(cut.width * .78, 300), 460)); ah = int(H * .7)
         can.alpha_composite(arch(aw, ah), (cxs - aw // 2, H - ah))
@@ -318,12 +375,12 @@ def treat(sid, M):
     pid = 't-' + sid[:60]
     out.save(f'public/photos/{pid}-1280.jpg', quality=86, optimize=True)
     out.resize((640, 400), Image.LANCZOS).save(f'public/photos/{pid}-640.jpg', quality=84, optimize=True)
-    credits = []
-    for k in ([src_key] if src_key else []) + ([centre] if centre else []) + rel:
+    credits = [subj_credit] if subj_credit else []
+    for k in ([centre] if centre else []) + rel:
         for c in M[k].get('credit', '').replace('Photos: ', '').replace('Photo: ', '').split('; '):
             if c and c not in credits: credits.append(c)
     e['treated'] = {'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'cutout': bool(ok), 'with': ([centre] if centre else []) + rel,
-                    'subject': src_key, 'kind': 'photo' if src_key == sid else 'portrait' if src_key else 'scenes',
+                    'kind': 'photo' if src_key == sid else 'portrait' if src_key else 'scenes',
                     'credit': ('Photos: ' if len(credits) > 1 else 'Photo: ') + '; '.join(credits)}
     return pid, ok, rel
 
@@ -338,7 +395,7 @@ if __name__ == '__main__':
         ids = []
         for f in glob.glob('content/en/news/*.md'):
             sid = os.path.basename(f)[:-3]; e = M.get(sid)
-            if not e or e.get('nohome') or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
+            if not e or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
             m = re.search(r'^published: (\S+)', open(f).read(600), re.M)
             if m and str(m.group(1)) >= cut: ids.append(sid)
     for x in M.values():

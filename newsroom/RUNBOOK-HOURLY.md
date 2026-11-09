@@ -58,3 +58,8 @@ Run name for the lock and the record: `hourly-HH`, HH the hour the run started. 
 - (Later, November 9) EVERY photo everywhere now shows the collage, story pages included. Infographic stories get one too when we hold a solo photo of the headline's person (cut out), or 3-4 clearly related scene photos; their story page keeps the infographic.
 - Owner wants many more stories with photos: find a real licensed photo for every story (PIB first, then Wikimedia Commons, official handouts and press kits). An infographic-only story is the last resort, not the default.
 - (November 9, evening) Freshness applies to the TOP of the homepage only (lead, beside the lead, the headline column, Must read). Every section below runs its newest stories, up to 7 days old, and is never dropped for being short of fresh news.
+
+## Photos: owner's ruling, November 9 night (read before choosing any picture)
+- An infographic is NOT a picture. Every story about a named person gets that person's real photo: PIB first, then our own library (newsroom/library/people.json has licensed portraits of about 300 people; `treat_photo.py` downloads them itself). Never publish an infographic-only story about Modi, Advani, Shah, a CM or anyone in the library.
+- Never a cover of one person twice. Never a background tile from another place or subject (no White House behind an India-Ukraine story). treat_photo.py enforces both: a tile must match the story's topic and share a proper noun with the headline; a portrait must show that person alone; when nothing fits, the collage has no tiles.
+- Before publishing: open every new collage (public/photos/t-<id>-640.jpg) and look at it. Fix anything wrong before the push, not after.
