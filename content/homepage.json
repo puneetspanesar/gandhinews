@@ -77,6 +77,28 @@
         }
       },
       {
+        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "lead": {
+          "en": "Russia:",
+          "hi": "रूस:"
+        },
+        "text": {
+          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
+          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
+        }
+      },
+      {
+        "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
+          "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
+        }
+      },
+      {
         "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "lead": {
           "en": "Cricket:",
@@ -88,36 +110,14 @@
         }
       },
       {
-        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
         "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
+          "en": "Climate:",
+          "hi": "जलवायु:"
         },
         "text": {
-          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
-          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
-        }
-      },
-      {
-        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
-        },
-        "text": {
-          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
-          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
-        }
-      },
-      {
-        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
-          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
+          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
+          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
         }
       }
     ]
@@ -185,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+      "id": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
       "also": []
     },
     "list": [
-      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-      "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-      "e20-petrol-explained-ethanol-blend-karnataka-row"
+      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+      "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
     ],
     "also": [
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+      "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+      "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
     ]
   },
   "startHere": [
+    "cop31-explained-turkey-australia-split-presidency-finance-fight",
+    "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
     "nz-mmp-explained-overhang-special-votes-130-seats",
-    "e20-petrol-explained-ethanol-blend-karnataka-row",
-    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-    "obc-creamy-layer-explained-parents-salary-supreme-court"
+    "e20-petrol-explained-ethanol-blend-karnataka-row"
   ],
   "trackers": [
     {
@@ -274,9 +274,9 @@
   },
   "factCheck": {
     "cards": [
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
       "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ]
   },
   "explained": [
@@ -357,11 +357,11 @@
     }
   ],
   "opinion": [
+    "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
+    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
     "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-    "e20-ethanol-row-needs-joint-testing-and-published-results",
-    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-    "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+    "e20-ethanol-row-needs-joint-testing-and-published-results"
   ],
   "sections": [
     {
@@ -390,9 +390,9 @@
         ]
       },
       "list": [
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires"
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
       ]
     },
     {
@@ -428,8 +428,8 @@
       "lead": "modi-zelenskyy-phone-call-india-peace-efforts",
       "list": [
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "japan-aichi-shizuoka-earthquake-57-22-injured"
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
       ]
     },
     {
@@ -631,17 +631,17 @@
       ]
     },
     {
-      "at": "2026-11-09T20:38:30+05:30",
+      "at": "2026-11-09T20:44:00+05:30",
       "ids": [
         "modi-zelenskyy-phone-call-india-peace-efforts",
         "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
         "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
         "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "e20-ethanol-row-needs-joint-testing-and-published-results"
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position"
       ]
     }
   ],
