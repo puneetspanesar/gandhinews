@@ -288,7 +288,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Election Commission of India's headquarters, Nirvachan Sadan, in New Delhi",
   "alt_hi": "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन",
-  "page": "https://commons.wikimedia.org/wiki/File:Election_commission_of_india_voter_helpline_1950.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Election_commission_of_india_voter_helpline_1950.jpg",
+  "notile": "caption does not match the picture"
  },
  "election-commission": {
   "id": "x-election-commission",
@@ -1014,7 +1015,8 @@
   "licence": "CC BY 3.0",
   "alt": "Election Commission of India headquarters, New Delhi",
   "alt_hi": "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय",
-  "page": "https://commons.wikimedia.org/wiki/File:Abhijeet_Dipke_during_an_interview_with_LetsUpp_Marathi_on_YouTube_(in_Marathi).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Abhijeet_Dipke_during_an_interview_with_LetsUpp_Marathi_on_YouTube_(in_Marathi).jpg",
+  "notile": "caption does not match the picture"
  },
  "draft-steel-policy-targets-604-mt-capacity-by-2047": {
   "id": "durgapur-steel",
@@ -2119,13 +2121,13 @@
    "src800": "/photos/t-bjp-hits-back-at-india-bloc-march-adityanath-thakur-640.jpg",
    "cutout": false,
    "with": [
-    "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
-    "what-is-the-cockroach-janta-party",
+    "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
     "elections-2027",
-    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao"
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "delhi-high-court-form-6-sir-deleted-voters-ec"
    ],
    "kind": "scenes",
-   "credit": "Photos: Pinakpani / Wikimedia Commons; LetsUpp Marathi on YouTube / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Surance / Wikimedia Commons"
   }
  },
  "israeli-teen-killed-hezbollah-munition-school-hike": {
@@ -3720,12 +3722,12 @@
    "src800": "/photos/t-keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijay-640.jpg",
    "cutout": true,
    "with": [
-    "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
-    "cjp-leaders-withdraw-delhi-hc-custody-plea",
-    "goa-st-seat-reservation-explained-supreme-court--p1"
+    "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
+    "andhra-high-court-strikes-down-bc-quota-local-bodies",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
    ],
    "kind": "photo",
-   "credit": "Photos: Sanu N / Wikimedia Commons; Augustus Binu / Wikimedia Commons; Pinakpani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons; Frederick Noronha fredericknoronha1@gmail.com from Goa, India, India / Wikimedia Commons"
+   "credit": "Photos: Sanu N / Wikimedia Commons; Augustus Binu / Wikimedia Commons; Pinakpani / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
   }
  },
  "kimberly-guilfoyle-resigns-us-ambassador-greece": {
@@ -8954,12 +8956,12 @@
    "src800": "/photos/t-dhruv-rathee-bailable-warrant-2018-defamation-case-640.jpg",
    "cutout": false,
    "with": [
-    "supreme-court-two-child-norm-javed-larger-bench--p2",
+    "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
     "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
-    "cjp-leaders-withdraw-delhi-hc-custody-plea"
+    "delhi-high-court-form-6-sir-deleted-voters-ec"
    ],
    "kind": "scenes",
-   "credit": "Photos: Pinakpani / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons"
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Surance / Wikimedia Commons"
   }
  },
  "dipke-granted-bail-neha-bora-released-delhi-court": {
@@ -10031,13 +10033,13 @@
    "src800": "/photos/t-delhi-high-court-refuses-stay-sc-st-fir-woman-journalist-acp-640.jpg",
    "cutout": false,
    "with": [
-    "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
-    "election-commission-should-publish-its-dissent",
+    "politics-courts-week-ahead-speaker-tmc-anti-sir-protests",
     "andhra-high-court-strikes-down-bc-quota-local-bodies",
-    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao"
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
    ],
    "kind": "scenes",
-   "credit": "Photos: Pinakpani / Wikimedia Commons; Kottakkalnet / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
+   "credit": "Photos: Legaleagle86 / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
   }
  },
  "urban-company-q2-revenue-rises-41-per-cent-instahelp": {
@@ -10801,12 +10803,12 @@
    "src800": "/photos/t-supreme-court-bail-sandip-ghosh-rg-kar-financial-case-640.jpg",
    "cutout": false,
    "with": [
+    "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
     "andhra-high-court-strikes-down-bc-quota-local-bodies",
-    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-    "cjp-leaders-withdraw-delhi-hc-custody-plea"
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
    ],
    "kind": "photo",
-   "credit": "Photos: Indrajit Das / Wikimedia Commons; IM3847 / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons"
+   "credit": "Photos: Indrajit Das / Wikimedia Commons; Pinakpani / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
   }
  },
  "tiktok-bans-musk-documentary-ad-account-gibney": {
@@ -14025,13 +14027,13 @@
    "src800": "/photos/t-delhi-aqi-161-dussehra-morning-moderate-640.jpg",
    "cutout": false,
    "with": [
-    "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-    "election-commission-should-publish-its-dissent",
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
     "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
-    "delhi-aqi-139-monday-coldest-october-night"
+    "delhi-aqi-139-monday-coldest-october-night",
+    "delhi-aqi-159-moderate-cpcb-saturday-grap"
    ],
    "kind": "scenes",
-   "credit": "Photos: wili hybrid / Wikimedia Commons; Kottakkalnet / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons"
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons; TargetAimShoot / Wikimedia Commons"
   }
  },
  "deoria-car-crash-four-youths-killed-navratri-fair": {
@@ -15452,7 +15454,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Pinakpani / Wikimedia Commons; Surance / Wikimedia Commons; Frederick Noronha fredericknoronha1@gmail.com from Goa, India, India / Wikimedia Commons; Raki_Man / Wikimedia Commons"
-  }
+  },
+  "notile": "shows one person, not a scene"
  },
  "goyal-fta-outreach-states-msme-farmers-exports": {
   "id": "v-goyal-fta-outreach-states-msme-farmers-exports",
@@ -17593,13 +17596,13 @@
    "src800": "/photos/t-delhi-hc-neha-bora-peace-bond-notice-judgment-tuesday-640.jpg",
    "cutout": false,
    "with": [
-    "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court",
+    "supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations",
+    "andhra-high-court-strikes-down-bc-quota-local-bodies",
     "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
-    "cjp-leaders-withdraw-delhi-hc-custody-plea",
-    "karnataka-high-court-stays-probe-ravi-patil-sir-voter-deletion"
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
    ],
    "kind": "scenes",
-   "credit": "Photos: Pinakpani / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons"
+   "credit": "Photos: Pinakpani / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
   }
  },
  "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll": {
@@ -19349,13 +19352,13 @@
    "src800": "/photos/t-andhra-parishad-nominations-close-clashes-ysrcp-high-court-640.jpg",
    "cutout": false,
    "with": [
-    "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
     "supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations",
-    "cjp-leaders-withdraw-delhi-hc-custody-plea",
-    "goa-st-seat-reservation-explained-supreme-court--p1"
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+    "andhra-high-court-strikes-down-bc-quota-local-bodies",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
    ],
    "kind": "scenes",
-   "credit": "Photos: Election Commission of India / Wikimedia Commons; Pinakpani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons; Frederick Noronha fredericknoronha1@gmail.com from Goa, India, India / Wikimedia Commons"
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Election Commission of India / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
   }
  },
  "pakistan-saudi-ratify-makkah-pact-zardari-berlin": {
@@ -34096,15 +34099,14 @@
   "treated": {
    "src": "/photos/t-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-1280.jpg",
    "src800": "/photos/t-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-640.jpg",
-   "cutout": false,
+   "cutout": true,
    "with": [
-    "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court",
-    "what-is-the-cockroach-janta-party",
+    "politics-courts-week-ahead-speaker-tmc-anti-sir-protests",
     "andhra-high-court-strikes-down-bc-quota-local-bodies",
     "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao"
    ],
-   "kind": "scenes",
-   "credit": "Photos: Pinakpani / Wikimedia Commons; LetsUpp Marathi on YouTube / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
+   "kind": "portrait",
+   "credit": "Photos: Swaraj Abhiyan / Wikimedia Commons, CC BY 2.5; Legaleagle86 / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
   }
  },
  "supreme-court-24-hour-production-runs-from-detention-not-arrest": {
@@ -35018,13 +35020,13 @@
    "src800": "/photos/t-delhi-aatal-air-pollution-source-lab-iitm-jitendra-singh-640.jpg",
    "cutout": false,
    "with": [
-    "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-    "election-commission-should-publish-its-dissent",
-    "delhi-aqi-223-thursday-jahangirpuri-very-poor",
-    "delhi-aqi-233-poor-very-poor-forecast-thursday"
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+    "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "delhi-aqi-139-monday-coldest-october-night",
+    "delhi-aqi-159-moderate-cpcb-saturday-grap"
    ],
    "kind": "scenes",
-   "credit": "Photos: wili hybrid / Wikimedia Commons; Kottakkalnet / Wikimedia Commons; Prami.ap90 / Wikimedia Commons; Sumitmpsd / Wikimedia Commons"
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons; TargetAimShoot / Wikimedia Commons"
   }
  },
  "refining-margins-explained-why-reliance-profit-jumped-hormuz": {
@@ -36660,12 +36662,12 @@
    "src800": "/photos/t-sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today-640.jpg",
    "cutout": true,
    "with": [
-    "election-commission-should-publish-its-dissent",
-    "elections-2027",
-    "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea"
+    "pac-examines-sc-scholarship-schemes-cag-report",
+    "sc-cases-tracker",
+    "how-a-bill-becomes-law-in-india"
    ],
    "kind": "photo",
-   "credit": "Photos: World Economic Forum from Cologny, Switzerland / Wikimedia Commons; Kottakkalnet / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+   "credit": "Photos: World Economic Forum from Cologny, Switzerland / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; कृष्ण कान्त शर्मा / Wikimedia Commons"
   }
  },
  "sensex-nifty-fall-early-trade-november-6": {
@@ -38623,13 +38625,13 @@
    "src800": "/photos/t-delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday-640.jpg",
    "cutout": false,
    "with": [
-    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8--p2",
-    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-    "green-crackers-order-needs-enforcement-not-another-diwali-gamble",
-    "what-is-the-cockroach-janta-party"
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+    "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "delhi-aqi-139-monday-coldest-october-night",
+    "delhi-aqi-159-moderate-cpcb-saturday-grap"
    ],
    "kind": "scenes",
-   "credit": "Photos: Ruturajpol / Wikimedia Commons; Sumitmpsd / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; LetsUpp Marathi on YouTube / Wikimedia Commons"
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons; TargetAimShoot / Wikimedia Commons"
   }
  },
  "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve": {

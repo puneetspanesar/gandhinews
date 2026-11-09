@@ -109,7 +109,7 @@ def related(sid, M, n=3, strict=False):
     own = os.path.basename(e['src']).split('-1280')[0]
     cands = []
     for k, x in M.items():
-        if k == sid or x.get('graphic') or not x.get('src') or not x.get('alt') or k.startswith('x-'): continue
+        if k == sid or x.get('graphic') or x.get('notile') or not x.get('src') or not x.get('alt') or k.startswith('x-'): continue
         alt = x['alt']
         if people(alt) or os.path.basename(x['src']).split('-1280')[0] == own: continue   # places and scenes only
         if PERSONISH.search(alt): continue
