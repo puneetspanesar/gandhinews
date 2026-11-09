@@ -221,16 +221,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       </div>
     </div>
   </div>
-  {crumbs.length > 0 && (
-    <nav class="crumb" aria-label={lang === 'hi' ? 'आप यहां हैं' : 'Breadcrumb'}>
-      <ol class="w">
-        {crumbs.map((c, i) =>
-          i < crumbs.length - 1
-            ? <li><a href={c.href}>{c.name}</a><Icon name="caret-right" /></li>
-            : <li><span aria-current="page">{c.name}</span></li>)}
-      </ol>
-    </nav>
-  )}
+  {/* No visible breadcrumbs (owner, November 9); the BreadcrumbList structured data above stays for Google. */}
   <main id="main" tabindex="-1">
     <slot />
   </main>
