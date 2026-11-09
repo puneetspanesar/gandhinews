@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+    "id": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
     "overlay": {
       "kicker": {
-        "en": "Politics / Opposition",
-        "hi": "राजनीति / विपक्ष"
+        "en": "Economy / Trade",
+        "hi": "अर्थव्यवस्था / व्यापार"
       },
       "value": {
-        "en": "'My challenge stands': Rahul to Modi",
-        "hi": "'मेरी चुनौती कायम है': राहुल"
+        "en": "FTA signing due in Brussels in December",
+        "hi": "दिसंबर में ब्रसेल्स में हस्ताक्षर"
       },
       "text": {
         "en": "",
@@ -19,14 +19,14 @@
     "relatedBelow": [],
     "relatedBeside": [
       "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu"
+      "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
+      "modi-zelenskyy-phone-call-india-peace-efforts",
+      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed"
     ],
     "live": {
       "title": {
-        "en": "Opposition",
-        "hi": "विपक्ष"
+        "en": "Trade",
+        "hi": "व्यापार"
       }
     }
   },
@@ -44,14 +44,25 @@
         }
       },
       {
-        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "link": "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
         },
         "text": {
-          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
-          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
+          "en": "Shinde Sena's Ramdas Kadam seeks probe into Sunil Tatkare's role in Ajit Pawar's air crash",
+          "hi": "शिंदे सेना के रामदास कदम ने अजित पवार के विमान हादसे में सुनील तटकरे की भूमिका की जांच मांगी"
+        }
+      },
+      {
+        "link": "modi-zelenskyy-phone-call-india-peace-efforts",
+        "lead": {
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
+        },
+        "text": {
+          "en": "Modi speaks to Zelenskyy, says India ready to contribute to peace in Ukraine",
+          "hi": "मोदी ने ज़ेलेंस्की से की बात, कहा यूक्रेन में शांति के लिए भारत हर संभव योगदान को तैयार"
         }
       },
       {
@@ -66,58 +77,47 @@
         }
       },
       {
-        "link": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Russia:",
+          "hi": "रूस:"
         },
         "text": {
-          "en": "Maldives frees 24 Thoothukudi fishermen held for nearly a month; Tamil Nadu pays for flight home",
-          "hi": "मालदीव ने थूथुकुडी के 24 मछुआरों को लगभग एक महीने बाद छोड़ा, तमिलनाडु ने उठाया घर वापसी का हवाई खर्च"
+          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
+          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
         }
       },
       {
-        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
-          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
+          "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
+          "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
         }
       },
       {
-        "link": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Niveditha Nair wins 25m standard pistol bronze, India add team silver at Doha Worlds",
-          "hi": "निवेदिता नायर को 25 मीटर स्टैंडर्ड पिस्टल का कांस्य, दोहा में टीम रजत भी"
+          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
+          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
         }
       },
       {
-        "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "link": "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "Trump expects to meet Xi and Putin in Shenzhen next week; China says it is in contact",
-          "hi": "ट्रंप को अगले हफ्ते शेनझेन में शी और पुतिन से मुलाकात की उम्मीद, चीन बोला: संपर्क में हैं"
-        }
-      },
-      {
-        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-        "lead": {
-          "en": "Congress:",
-          "hi": "कांग्रेस:"
-        },
-        "text": {
-          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
-          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
+          "en": "RBI liquidity explained: why the central bank lent cash on Monday after draining it all week",
+          "hi": "आरबीआई की तरलता समझिए: हफ्ते भर नकदी खींचने के बाद सोमवार को केंद्रीय बैंक ने उधार क्यों दिया"
         }
       }
     ]
@@ -185,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+      "id": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
       "also": []
     },
     "list": [
-      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-      "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two"
+      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+      "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
+      "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
+      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim"
     ],
     "also": [
-      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
-      "cop31-explained-turkey-australia-split-presidency-finance-fight"
+      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
     ]
   },
   "startHere": [
     "cop31-explained-turkey-australia-split-presidency-finance-fight",
     "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
     "nz-mmp-explained-overhang-special-votes-130-seats",
-    "e20-petrol-explained-ethanol-blend-karnataka-row"
+    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
   ],
   "trackers": [
     {
@@ -361,7 +361,7 @@
     "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
     "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-    "e20-ethanol-row-needs-joint-testing-and-published-results"
+    "chawri-bazar-collapse-june-police-warning-mcd-must-answer"
   ],
   "sections": [
     {
@@ -372,8 +372,8 @@
       },
       "list": [
         "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "modi-advani-99th-birthday-nation-first-foundation"
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post"
       ],
       "lead": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
     },
@@ -397,11 +397,11 @@
     },
     {
       "section": "states",
-      "lead": "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+      "lead": "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
       "list": [
+        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
         "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires"
       ]
     },
     {
@@ -460,52 +460,16 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Revised MRPs of 137 anti-cancer drugs take effect, trade margins capped at 30%",
-        "hi": "137 कैंसर दवाओं की संशोधित एमआरपी लागू, ट्रेड मार्जिन 30% पर सीमित"
+        "en": "India v New Zealand, third ODI, Hamilton, 7:30 am IST",
+        "hi": "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, हैमिल्टन, सुबह 7:30 बजे"
       },
-      "link": "cancer-drugs-137-revised-prices-november-9-nppa"
+      "link": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
     },
     {
       "icon": "calendar-blank",
       "date": {
         "en": "Today",
         "hi": "आज"
-      },
-      "text": {
-        "en": "COP31 climate summit opens in Antalya, Turkey (to November 20)",
-        "hi": "कॉप31 जलवायु सम्मेलन तुर्की के अंताल्या में शुरू (20 नवंबर तक)"
-      },
-      "link": "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "India v New Zealand, third ODI, Hamilton, 7:30 am IST",
-        "hi": "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, हैमिल्टन, सुबह 7:30 बजे"
-      },
-      "link": "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
-        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
-      },
-      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
       },
       "text": {
         "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
@@ -516,31 +480,51 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
         "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
       },
       "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
+        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
+      },
+      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+    },
+    {
+      "icon": "chart-line",
+      "date": {
+        "en": "Nov 12",
+        "hi": "12 नवंबर"
+      },
+      "text": {
+        "en": "Retail inflation (CPI) for October, 4 pm",
+        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
+    },
+    {
+      "icon": "bank",
+      "date": {
+        "en": "Nov 13",
+        "hi": "13 नवंबर"
+      },
+      "text": {
+        "en": "RBI's weekly forex reserves figures",
+        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T13:37:02+05:30",
-      "ids": [
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-        "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
-        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
-      ]
-    },
     {
       "at": "2026-11-09T14:58:15+05:30",
       "ids": [
@@ -639,6 +623,20 @@
         "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+      ]
+    },
+    {
+      "at": "2026-11-10T00:27:36+05:30",
+      "ids": [
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+        "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "rbi-liquidity-explained-variable-rate-repo-sdf-corridor"
       ]
     }
   ],
