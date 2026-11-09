@@ -34524,5 +34524,61 @@
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और कांग्रेस नेता जयराम रमेश (फ़ाइल फ़ोटो)",
   "page": null,
   "srcWidth": 1280
+ },
+ "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall": {
+  "id": "o-rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+  "src": "/photos/o-rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall-1280.jpg",
+  "src800": "/photos/o-rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1920,
+  "credit": "Photo: Gage Skidmore / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Marco Rubio (file photo)",
+  "alt_hi": "मार्को रुबियो (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_by_Gage_Skidmore_10.jpg"
+ },
+ "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three": {
+  "id": "i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+  "src": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Very poor air, severe at 7 stations",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बेहद खराब हवा, 7 स्टेशनों पर गंभीर",
+  "page": null,
+  "ihash": "fa4fa8546000",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-en-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-hi-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-hi-640.jpg"
+   }
+  },
+  "nophoto": "no unused Delhi smog photo in 7 days; quick_photo Delhi smog, Smog in Delhi, Air pollution in Delhi; finder down (Actions billing)"
  }
 }
