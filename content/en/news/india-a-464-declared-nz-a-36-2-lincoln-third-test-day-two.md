@@ -14,10 +14,6 @@ keyPoints:
   - "India A resumed on 227 for 2, added 237 and **declared at 464 for 5** after 146 overs at the Bert Sutcliffe Oval."
   - "Tilak Varma finished on **81 not out** and shared an unbroken 114 with Washington Sundar, who made 50 not out."
   - "New Zealand A were **36 for 2 at stumps**, 428 runs behind, after Prasidh Krishna took both wickets for 12 runs."
-upcoming:
-  date: 2026-11-09
-  en: "India A v New Zealand A, 3rd unofficial Test, day three, Lincoln"
-  hi: "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, तीसरा दिन, लिंकन"
 hero:
   need: "Tilak Varma batting for India"
   suggested_source: "Tilak Varma"
