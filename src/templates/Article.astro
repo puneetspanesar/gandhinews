@@ -115,7 +115,7 @@ const heroOv = {
     </div>
   )}
   {glance.length > 0 && (
-    <div class="w"><div class={`ac-strip n${glance.length}`}>{glance.map((x: any) => <div><Icon name={duo(x.icon, 'chart-bar-duotone')} class="ic ic-duo" /><p><b>{x.value}</b><span>{x.label}</span></p></div>)}</div></div>
+    <div class="ac-band"><div class={`w ac-strip n${glance.length}`}>{glance.map((x: any) => <p><Icon name={duo(x.icon, 'chart-bar-duotone')} class="ic" /><span><b>{x.value}</b> {x.label}</span></p>)}</div></div>
   )}
   <div class="w">
     <div class={`art ${d.type === 'factcheck' ? 'fc' : ''} ${split ? 'ac-split' : ''} ac`}>
@@ -139,7 +139,7 @@ const heroOv = {
         )}
 
         {d.type === 'news' && d.keyPoints?.length > 0 && (
-          <section class="kp ac-kp" aria-labelledby="kp-h"><h2 id="kp-h" class="sr-only">{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string, i: number) => <li><b class="n">{String(i + 1).padStart(2, '0')}</b><span set:html={emph(x)} /></li>)}</ol></section>
+          <section class="kp ac-kp" aria-labelledby="kp-h"><h2 id="kp-h"><Icon name="list-bullets-duotone" class="ic" />{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string, i: number) => <li><b class="n">{i + 1}</b><span set:html={emph(x)} /></li>)}</ol></section>
         )}
 
         {d.type === 'explainer' && d.shortAnswer && (

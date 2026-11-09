@@ -12,27 +12,32 @@
 .ac-ph figcaption{position:absolute;left:0;right:0;bottom:0;background:#0d0d0d;color:#fff;font-size:13px;line-height:1.45;padding:9px 16px;display:flex;justify-content:space-between;gap:16px}
 .ac-ph figcaption .pcred{color:#fff;white-space:nowrap}
 
-/* Key numbers strip */
-.ac-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-bottom:1px solid var(--ink)}
+/* Key numbers: one thin maroon band, one line per figure */
+.ac-band{background:#6b0f1a;color:#fff}
+.ac-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}
 .ac-strip.n3{grid-template-columns:repeat(3,minmax(0,1fr))}
-.ac-strip>div{display:flex;gap:14px;align-items:flex-start;padding:24px 20px 24px 0;min-width:0}
-.ac-strip>div+div{border-left:1px solid var(--line);padding-left:20px}
-.ac-strip .ic{width:30px;height:30px;flex:none;color:var(--red)}
-.ac-strip p{margin:0;min-width:0}
-.ac-strip b{display:block;font-size:24px;line-height:1.15;font-weight:700}
-.ac-strip span{display:block;font-size:14px;line-height:1.45;margin-top:4px}
+.ac-strip>p{display:flex;align-items:center;gap:10px;margin:0;padding:13px 18px;font-size:15px;line-height:1.35;color:#fff;min-width:0}
+.ac-strip>p:first-child{padding-left:0}
+.ac-strip>p+p{border-left:1px solid rgba(255,255,255,.28)}
+.ac-strip>p b{font-size:19px;font-weight:700;margin-right:2px;white-space:nowrap}
+.ac-strip .ic{width:22px;height:22px;flex:none;color:#fff}
+.ac-strip .ic path[opacity]{fill:#fff;opacity:.35}
 .ic-duo path[opacity]{fill:var(--red)}
 
 /* Wider reading column under the split opening */
 .art.ac-split{padding-top:44px}
 
-/* Key points: 2 x 2 grid, each under a black rule with a red number */
-.kp.ac-kp{border:0;border-radius:0;padding:0;margin:0 0 30px}
+/* Key points: one list under a heavy rule, big maroon numerals in a gutter */
+.kp.ac-kp{border:0;border-radius:0;padding:0;margin:0 0 34px;border-top:3px solid var(--ink)}
 .art:not(.ac-split) .kp.ac-kp{margin-top:28px}
-.kp.ac-kp ol{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0 28px}
-.kp.ac-kp li{display:block;border-top:3px solid var(--ink)!important;padding:12px 0 18px;font-size:17px!important;line-height:1.5}
-.kp.ac-kp li::before{content:none}
-.kp.ac-kp .n{display:block;font-size:13px;letter-spacing:.09em;color:var(--red);margin-bottom:4px}
+.kp.ac-kp h2{display:flex;align-items:center;gap:8px;font-size:13px!important;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin:12px 0 4px}
+.kp.ac-kp h2 .ic{width:20px;height:20px;color:#6b0f1a}.kp.ac-kp h2 .ic path[opacity]{fill:#6b0f1a;opacity:.3}
+.kp.ac-kp ol{display:block;margin:0;padding:0}
+.kp.ac-kp li{display:grid!important;grid-template-columns:44px minmax(0,1fr);align-items:baseline;border-top:1px solid var(--line)!important;padding:14px 0!important;font-size:18px!important;line-height:1.5}
+.kp.ac-kp li:first-child{border-top:0!important}
+.kp.ac-kp li::before{content:none!important}
+.kp.ac-kp .n{font-size:30px;line-height:1;font-weight:700;color:#6b0f1a}
+.kp.ac-kp .hl,.kp.ac-kp b:not(.n){color:var(--ink);font-weight:700}
 
 /* Timeline set in the story */
 .ac-tl{margin:36px 0 8px;padding:24px 0;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink)}
@@ -60,9 +65,9 @@
   .ac-ph figcaption{position:static;flex-direction:column;gap:2px}
   .ac-ph img{position:static;height:auto;aspect-ratio:16/10}
   .ac-ph{aspect-ratio:auto}
-  .ac-strip,.ac-strip.n3{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
-  .ac-strip>div:nth-child(3){border-left:0;padding-left:0}
-  .ac-strip>div:nth-child(n+3){border-top:1px solid var(--line)}
+  .ac-strip,.ac-strip.n3{grid-template-columns:minmax(0,1fr)}
+  .ac-strip>p{padding:10px 0}
+  .ac-strip>p+p{border-left:0;border-top:1px solid rgba(255,255,255,.28)}
   .art.ac-split{padding-top:28px}
 }
 @media(max-width:600px){
@@ -71,7 +76,6 @@
   .ac-tl ol::before{left:7px;right:auto;top:0;bottom:0;width:2px;height:auto}
   .ac-tl li{padding:0 0 18px 30px}
   .ac-tl li::before{top:2px}
-  .ac-strip b{font-size:20px}
 }
 /* byline in the opening panel: the desk line, then the share buttons under it */
 .ac-tx .meta{flex-direction:column;align-items:flex-start;gap:12px}
