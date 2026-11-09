@@ -80,10 +80,6 @@ The gap sat in the Central Pollution Control Board's records, where 36 of Delhi'
 
 The Air Quality Index is capped at 500, a level reached once PM2.5 passes about 420. A reading of 3,744 and one of 500 therefore look the same on the index. Counting the restored hours, the 24-hour AQI to 9 am on Monday rises to **about 384, against the 370 published**, and the 4 pm bulletin figure from 344 to about 360. These are provisional: at 7:58 pm the new values had not yet been entered in CPCB's records.
 
-```photo
-{"n":1,"subject":"Stubble burning Punjab","caption":"Farm fires in Punjab, where CAQM counts 4,459 cases this season.","alt":"A paddy field burning in Punjab (file photo)"}
-```
-
 ## How we got here
 
 Delhi's average AQI was 382 on Friday, November 6, when CAQM brought in GRAP Stage III, then 369 on Saturday and 376 on Sunday. The Supreme Court had allowed only green crackers in fixed windows on November 7 and 8, and bursting went on well past them, as we reported on Monday morning, when the city read 368 at 7 am with 15 stations severe. At 10 pm on Sunday, 20 of the 59 CPCB stations were severe, 33 very poor and 6 poor, with Sonia Vihar at 463 and Jahangirpuri at 450.
@@ -101,10 +97,6 @@ Stubble burning contributed 3.5% of Delhi's PM2.5 on Sunday and is forecast at a
 Delhi minister Kapil Mishra said satellite data showed fires rising from 100 to 125 a day over three days to about 1,200 on Diwali evening. He called it a "conspiracy against farmers, against Diwali, against Delhi, against Punjab," said he was not blaming farmers, and asked Chief Minister Bhagwant Mann to order a probe and register FIRs. BJP MP Praveen Khandelwal went further: "Punjab decided to burn stubble vigorously so that Delhi remains polluted on Diwali and they can blame us for it."
 
 AAP's Baltej Pannu rejected the charge and said BJP leaders were blaming Punjab before the paddy harvest had even begun. Delhi AAP president Saurabh Bharadwaj turned on the data itself: "The government's data is based on fraud." He alleged that monitoring stations were shut overnight, that 20 new stations were put in green areas and that water is sprayed around monitors in polluted spots. The authorities have not said the stations were shut deliberately; the official quoted blamed technical faults.
-
-```photo
-{"n":2,"subject":"Delhi smog","caption":"Smog over Delhi after Diwali, when PM2.5 readings ran into the thousands.","alt":"Smog over Delhi (file photo)"}
-```
 
 ## Why it matters
 

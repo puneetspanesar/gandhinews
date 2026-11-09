@@ -83,19 +83,11 @@ Mandhana took over on **October 6, the day Harmanpreet Kaur stepped down** as ca
 
 Harmanpreet led India in 5 Tests, 51 ODIs and 155 T20Is, and was captain when India won the Women's World Cup in November 2025. The squad lists show her selected in the Test, ODI and T20I teams for South Africa; the advisory does not give her a role beyond that of a player. Our report on [Mandhana's first match as captain](/en/news/india-women-zimbabwe-raipur-mandhana-first-match-captain) covers the handover in detail.
 
-```photo
-{"n":1,"subject":"Harmanpreet Kaur","caption":"Harmanpreet Kaur, who gave up the captaincy on October 6, is named in all three squads for South Africa.","alt":"Harmanpreet Kaur"}
-```
-
 ## What the captain has done so far
 
 Mandhana's first series as full-time captain went India's way. India won the three T20Is against Zimbabwe, finishing with a 92-run win in the third, India's biggest home win by runs in the format, as we reported in [the T20I sweep](/en/news/harmanpreet-91-india-women-sweep-zimbabwe-92-runs). In the ODIs, Pratika Rawal's hundred anchored a chase of 198 in 27.1 overs in the opener, and Harmanpreet and Deepti both made centuries in a [121-run win](/en/news/harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs) that took the series with a game to spare. Shafali and Mandhana chased 103 in 8.5 overs in the second T20I, as we covered in [that match report](/en/news/india-women-beat-zimbabwe-nine-wickets-seal-series-shafali-mandhana).
 
 Niki Prasad, who made her debut in that series, is one of the T20I-only names. Prema Rawat, also in that list, hit the fastest fifty in women's T20 cricket, off 14 balls, for Uttarakhand against Hyderabad in the Senior Women's T20 Trophy in Pune on November 2.
-
-```photo
-{"n":2,"subject":"Shafali Verma","caption":"Shafali Verma is Mandhana's vice-captain in the T20Is and an opener in all three squads.","alt":"Shafali Verma"}
-```
 
 ## Why it matters
 

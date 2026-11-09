@@ -44830,6 +44830,42 @@
   "licence": "GODL-India",
   "alt": "Smriti Mandhana (file photo)",
   "alt_hi": "स्मृति मंधाना (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ms._Smriti_Mandhana,_Arjun_Awardee_(Cricket),_in_New_Delhi_on_July_16,_2019_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Ms._Smriti_Mandhana,_Arjun_Awardee_(Cricket),_in_New_Delhi_on_July_16,_2019_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-women-squads-south-africa-tour-mandhana-captain-all-fo-1280.jpg",
+   "src800": "/photos/t-india-women-squads-south-africa-tour-mandhana-captain-all-fo-640.jpg",
+   "cutout": false,
+   "with": [
+    "glenn-maxwell-retires-international-cricket-38--p1",
+    "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad"
+   ],
+   "kind": "photo",
+   "credit": "Photos: Ministry of Youth Affairs and Sports / Wikimedia Commons; Manas46951 / Wikimedia Commons; Nehatiwari405 / Wikimedia Commons"
+  }
+ },
+ "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot": {
+  "id": "o-delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+  "src": "/photos/o-delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot-1280.jpg",
+  "src800": "/photos/o-delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot-640.jpg",
+  "width": 1280,
+  "height": 875,
+  "srcWidth": 3000,
+  "credit": "Photo: Sumita Roy Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Thick smog at the New Delhi railway station entry, December 2017 (file photo)",
+  "alt_hi": "नई दिल्ली रेलवे स्टेशन के प्रवेश द्वार पर घना स्मॉग, दिसंबर 2017 (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Low_visibility_due_to_Smog_at_New_Delhi_Railway_station_31st_Dec_2017_after_9AM_DSCN8829_1.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-s-1280.jpg",
+   "src800": "/photos/t-delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-s-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+    "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "delhi-aqi-139-monday-coldest-october-night"
+   ],
+   "kind": "photo",
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons"
+  }
  }
 }
