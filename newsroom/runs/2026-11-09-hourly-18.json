@@ -1,0 +1,23 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-09T18:12:36+05:30",
+ "end": "2026-11-09T18:47:27+05:30",
+ "summary": "Trump Iran, Maldives frees 24 TN fishermen, Nair ISSF bronze; homepage refresh",
+ "new": [
+  "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+  "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+  "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+   "why": "Main picture (and homepage lead image) is the June 2020 Lafayette Square photo of Trump holding a Bible outside St. John's Church, a famous protest-era photo op with no link to Iran, strikes or oil; on the lead it reads as a mismatched, lazily picked file photo.",
+   "done": "Main picture swapped for the White House public-domain photo of Trump taking the oath of office, January 2017, labelled file photo (recent official portraits blocked by the 7-day rule). Infographic not used."
+  }
+ ],
+ "breaches": [],
+ "lead": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+}

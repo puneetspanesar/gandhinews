@@ -49348,7 +49348,7 @@
   "page": "https://commons.wikimedia.org/wiki/File:Smog_as_visible_in_the_Gurgaon_area_near_Delhi_on_Nov_2016.jpg"
  },
  {
-  "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Contr_Unit_of_Electronic_Voting_Machine.jpg/1280px-Contr_Unit_of_Electronic_Voting_Machine.jpg",
   "credit": "Photo: Nilanjan Chowdhury / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
   "alt": "Voters check their names in an electoral roll with a poll worker (file photo)",
@@ -49758,16 +49758,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Andhra_CM_Chandrababu_Naidu_meets_PM_Modi.jpg"
  },
  {
-  "id": "o-nadda-national-cancer-awareness-day-screening-appeal",
-  "articleId": "nadda-national-cancer-awareness-day-screening-appeal",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jagat_Prakash_Nadda_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "J. P. Nadda (file photo)",
-  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_2023.jpg"
- },
- {
   "id": "o-nz-election-latest-count-national-labour-too-close-to-call-130-seats",
   "articleId": "nz-election-latest-count-national-labour-too-close-to-call-130-seats",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chris_Luxon_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -49888,19 +49878,6 @@
   "licence": "CC BY 3.0 and GODL-India",
   "alt": "Prime Minister Narendra Modi (file photos)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)",
-  "page": null,
-  "composite": [
-   "lead-cover"
-  ]
- },
- {
-  "id": "x-rajnath-singh-reaches-sherathang-diwali-nathu-la",
-  "articleId": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-  "sourceUrl": "",
-  "credit": "Photos: Prdp777 / Wikimedia Commons; Nikolamikovic82 / Wikimedia Commons; Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0, CC0 and CC BY-SA 4.0",
-  "alt": "Defence Minister Rajnath Singh (file photos)",
-  "alt_hi": "रक्षा मंत्री राजनाथ सिंह (फाइल फोटो)",
   "page": null,
   "composite": [
    "lead-cover"
@@ -50114,6 +50091,46 @@
   "alt": "Dmitry Muratov, editor of Novaya Gazeta (file photo)",
   "alt_hi": "नोवाया गज़ेटा के संपादक दिमित्री मुराटोव (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Dmitry_Muratov,_2012.JPG"
+ },
+ {
+  "id": "o-maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+  "articleId": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tamil_fishermen_dragging_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Mohanatnow / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Fishermen haul a boat ashore on the Tamil Nadu coast (file photo)",
+  "alt_hi": "तमिलनाडु तट पर नाव किनारे खींचते मछुआरे (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tamil_fishermen_dragging_boat.jpg"
+ },
+ {
+  "id": "o-rajnath-singh-reaches-sherathang-diwali-nathu-la",
+  "articleId": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Minister_of_Defence%2C_Shri_Rajnath_Singh_in_March_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Defence Minister Rajnath Singh in March 2026 (file photo)",
+  "alt_hi": "रक्षा मंत्री राजनाथ सिंह, मार्च 2026 (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_Defence,_Shri_Rajnath_Singh_in_March_2026.jpg"
+ },
+ {
+  "id": "o-nadda-national-cancer-awareness-day-screening-appeal",
+  "articleId": "nadda-national-cancer-awareness-day-screening-appeal",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jagat_Prakash_Nadda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J P Nadda (file photo)",
+  "alt_hi": "जे पी नड्डा (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda.jpg"
+ },
+ {
+  "id": "o-trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+  "articleId": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Donald_Trump_swearing_in_ceremony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: The White House / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Donald Trump taking the oath of office in Washington, January 2017 (file photo)",
+  "alt_hi": "वाशिंगटन में पद की शपथ लेते डोनाल्ड ट्रंप, जनवरी 2017 (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_swearing_in_ceremony.jpg"
  },
  {
   "id": "o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
