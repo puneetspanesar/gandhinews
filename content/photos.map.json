@@ -54305,7 +54305,20 @@
   "licence": "GODL-India",
   "alt": "J P Nadda (file photo)",
   "alt_hi": "जे पी नड्डा (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda.jpg",
+  "treated": {
+   "src": "/photos/t-nadda-national-cancer-awareness-day-screening-appeal-1280.jpg",
+   "src800": "/photos/t-nadda-national-cancer-awareness-day-screening-appeal-640.jpg",
+   "cutout": true,
+   "with": [
+    "agrivoltaics-world-conference-delhi-36-projects-potential",
+    "chouhan-women-farmers-recognition-sanchi",
+    "farmer-ids-11-crore-target-agristack"
+   ],
+   "subject": "nadda-national-cancer-awareness-day-screening-appeal",
+   "kind": "photo",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; Tobi Kellner / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons; Yann (talk) / Wikimedia Commons"
+  }
  },
  "india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi": {
   "id": "i-india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi",
@@ -55761,7 +55774,20 @@
   "licence": "GODL-India",
   "alt": "Defence Minister Rajnath Singh in March 2026 (file photo)",
   "alt_hi": "रक्षा मंत्री राजनाथ सिंह, मार्च 2026 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_Defence,_Shri_Rajnath_Singh_in_March_2026.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_Defence,_Shri_Rajnath_Singh_in_March_2026.jpg",
+  "treated": {
+   "src": "/photos/t-rajnath-singh-reaches-sherathang-diwali-nathu-la-1280.jpg",
+   "src800": "/photos/t-rajnath-singh-reaches-sherathang-diwali-nathu-la-640.jpg",
+   "cutout": true,
+   "with": [
+    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "illegal-firecracker-units-need-checks-before-diwali"
+   ],
+   "subject": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+   "kind": "photo",
+   "credit": "Photos: Ministry of Defence / Wikimedia Commons; Bhrigu bayan / Wikimedia Commons; Rameshng / Wikimedia Commons; Le Priyavrat / Wikimedia Commons"
+  }
  },
  "yogi-diwali-nishad-settlement-ayodhya-bullets-remark": {
   "id": "v-yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
@@ -57318,7 +57344,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Fishermen haul a boat ashore on the Tamil Nadu coast (file photo)",
   "alt_hi": "तमिलनाडु तट पर नाव किनारे खींचते मछुआरे (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tamil_fishermen_dragging_boat.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Tamil_fishermen_dragging_boat.jpg",
+  "treated": {
+   "src": "/photos/t-maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu-1280.jpg",
+   "src800": "/photos/t-maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu-640.jpg",
+   "cutout": false,
+   "with": [
+    "austrian-airlines-tel-aviv-vienna-flight-diverted-sofia-bomb-threat",
+    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023--p1",
+    "modi-ladakh-3350-crore-projects"
+   ],
+   "subject": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+   "kind": "photo",
+   "credit": "Photos: Mohanatnow / Wikimedia Commons; Matti Blume / Wikimedia Commons; आशीष भटनागर / Wikimedia Commons; Saippuakauppias / Wikimedia Commons"
+  }
  },
  "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls": {
   "id": "o-trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
@@ -57331,7 +57370,20 @@
   "licence": "Public domain",
   "alt": "Donald Trump taking the oath of office in Washington, January 2017 (file photo)",
   "alt_hi": "वाशिंगटन में पद की शपथ लेते डोनाल्ड ट्रंप, जनवरी 2017 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_swearing_in_ceremony.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_swearing_in_ceremony.jpg",
+  "treated": {
+   "src": "/photos/t-trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-fa-1280.jpg",
+   "src800": "/photos/t-trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-fa-640.jpg",
+   "cutout": false,
+   "with": [
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "imf-raises-india-growth-forecast-7-per-cent"
+   ],
+   "subject": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+   "kind": "photo",
+   "credit": "Photos: The White House / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; APK / Wikimedia Commons"
+  }
  },
  "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha": {
   "id": "i-niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
