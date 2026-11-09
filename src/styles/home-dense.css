@@ -169,3 +169,5 @@
 
 /* a short headline list spreads to the column foot, so no empty space opens under it (hourly-22, November 8) */
 @media(min-width:1001px){.d-ec>.d-pl,.d-op>.d-pl{display:flex;flex-direction:column;justify-content:space-between}}
+/* two full-width bands back to back touch: no white strip between them (owner, November 9) */
+.d-tint+.d-band,.d-band+.d-tint,.d-band+.d-band{margin-top:0}
