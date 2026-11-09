@@ -35627,16 +35627,47 @@
   }
  },
  "rbi-4-day-repo-50000-crore-liquidity-flip-november-9": {
-  "id": "r-rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-  "src": "/photos/r-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-1280.jpg",
-  "src800": "/photos/r-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-640.jpg",
+  "id": "i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+  "src": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-en-3x2-1280.jpg",
+  "src800": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-en-3x2-640.jpg",
   "width": 1280,
-  "height": 720,
-  "credit": "Photo: Gangaasoonu / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Reserve Bank of India headquarters building in Mumbai (file photo)",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक के मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Air_cooler_outlets_at_SBI_munnekollala.._.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: RBI switches to lending cash for four days",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: आरबीआई अब चार दिन के लिए नकदी दे रहा",
+  "page": null,
+  "ihash": "f8fb3f1599b5",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-en-t-1280.jpg",
+    "src800": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-hi-t-1280.jpg",
+    "src800": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-en-1280.jpg",
+    "src800": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-hi-1280.jpg",
+    "src800": "/photos/i-rbi-4-day-repo-50000-crore-liquidity-flip-november-9-hi-640.jpg"
+   }
+  },
+  "nophoto": "no correct free photo of RBI Mint Street tower or Sanjay Malhotra; library (Malhotra absent), quick_photo (only a wall close-up, blocklisted, and a rotated unclear tower), finder down (GitHub Actions failing)"
  },
  "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement": {
   "id": "i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",

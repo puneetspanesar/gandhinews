@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+    "id": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
     "overlay": {
       "kicker": {
-        "en": "Economy / RBI",
-        "hi": "अर्थव्यवस्था / आरबीआई"
+        "en": "Politics / Congress",
+        "hi": "राजनीति / कांग्रेस"
       },
       "value": {
-        "en": "RBI lends ₹50,003 crore for four days",
-        "hi": "आरबीआई ने चार दिन के लिए ₹50,003 करोड़ दिए"
+        "en": "'Modi-Shah-ECI package'",
+        "hi": "'मोदी-शाह-ईसीआई पैकेज'"
       },
       "text": {
         "en": "",
@@ -17,25 +17,47 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "daily-crr-rule-explained-banks-borrowers",
-      "wpi-vs-cpi-explained-wholesale-retail-inflation",
-      "festive-sales-boom-does-not-mean-inflation-can-wait"
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "special-session-of-parliament-explained-shah-offer-cec-removal"
     ],
     "relatedBeside": [
+      "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
       "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
     ],
     "live": {
       "title": {
-        "en": "RBI",
-        "hi": "आरबीआई"
+        "en": "Congress",
+        "hi": "कांग्रेस"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "lead": {
+          "en": "Russia:",
+          "hi": "रूस:"
+        },
+        "text": {
+          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
+          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
+        }
+      },
+      {
+        "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
+          "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
+        }
+      },
       {
         "link": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "lead": {
@@ -48,17 +70,6 @@
         }
       },
       {
-        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-        "lead": {
-          "en": "Congress:",
-          "hi": "कांग्रेस:"
-        },
-        "text": {
-          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
-          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
-        }
-      },
-      {
         "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
           "en": "Technology:",
@@ -67,28 +78,6 @@
         "text": {
           "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
           "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
-        }
-      },
-      {
-        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
-          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
-        }
-      },
-      {
-        "link": "nz-mmp-explained-overhang-special-votes-130-seats",
-        "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
-        },
-        "text": {
-          "en": "New Zealand's election explained: how MMP, overhang seats and special votes decide who governs",
-          "hi": "न्यूज़ीलैंड चुनाव समझिए: एमएमपी, ओवरहैंग सीटें और स्पेशल वोट कैसे तय करते हैं कि सरकार किसकी बनेगी"
         }
       },
       {
@@ -114,14 +103,14 @@
         }
       },
       {
-        "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
+        "link": "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
         "lead": {
-          "en": "Fuel:",
-          "hi": "ईंधन:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
-          "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
+          "en": "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9",
+          "hi": "कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या है: 9 नवंबर से 137 दवाओं की एमआरपी क्यों घटेगी"
         }
       }
     ]
@@ -189,20 +178,14 @@
   },
   "topStories": {
     "big": {
-      "id": "nz-mmp-explained-overhang-special-votes-130-seats",
+      "id": "e20-ethanol-row-needs-joint-testing-and-published-results",
       "also": []
     },
     "list": [
-      "e20-ethanol-row-needs-joint-testing-and-published-results",
       "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-      "e20-petrol-explained-ethanol-blend-karnataka-row",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
     ],
-    "also": [
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
-    ]
+    "also": []
   },
   "startHere": [
     "nz-mmp-explained-overhang-special-votes-130-seats",
@@ -375,7 +358,6 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "modi-advani-99th-birthday-nation-first-foundation",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
       ],
@@ -410,9 +392,8 @@
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
       "list": [
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
     },
@@ -428,11 +409,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+      "lead": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
       "list": [
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
       ]
     },
     {
@@ -630,20 +611,19 @@
       ]
     },
     {
-      "at": "2026-11-09T16:23:05+05:30",
+      "at": "2026-11-09T16:42:41+05:30",
       "ids": [
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "daily-crr-rule-explained-banks-borrowers",
-        "wpi-vs-cpi-explained-wholesale-retail-inflation",
-        "festive-sales-boom-does-not-mean-inflation-can-wait",
-        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-        "nz-mmp-explained-overhang-special-votes-130-seats",
         "e20-ethanol-row-needs-joint-testing-and-published-results",
         "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-        "e20-petrol-explained-ethanol-blend-karnataka-row"
+        "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
       ]
     }
   ],

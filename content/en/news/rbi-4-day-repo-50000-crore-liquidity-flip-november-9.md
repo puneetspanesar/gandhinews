@@ -75,7 +75,7 @@ verification:
 
 The Reserve Bank of India **lent banks ₹50,003 crore for four days** at a variable rate repo auction on Monday, November 9, a sharp change of direction after a week of taking cash out of the system. Banks bid ₹62,872 crore for the ₹50,000 crore on offer, and the central bank allotted the money at a cut-off rate of **5.51%**, one basis point above the 5.50% policy repo rate.
 
-The auction window ran from 9:30 am to 10 am, and the money has to be returned on Friday, November 13. The weighted average rate was 5.54%. Because demand was higher than the amount offered, only **15.18%** of the bids made at the cut-off rate were met in full, according to the RBI's result notice (press release 2026-2027/1467).
+The auction window ran from 9:30 am to 10 am, and the money has to be returned on Friday, November 13. The weighted average rate was 5.54%. Because demand was higher than the amount offered, bids at the cut-off rate received **15.18% of the amount sought**, a partial allotment, according to the RBI's result notice (press release 2026-2027/1467).
 
 ## What the RBI said
 
