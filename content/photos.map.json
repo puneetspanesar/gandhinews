@@ -35833,5 +35833,155 @@
    ],
    "credit": "Photos: Euku / Wikimedia Commons; A ansems / Wikimedia Commons; Beyond My Ken / Wikimedia Commons; Pulakit Singh / Wikimedia Commons"
   }
+ },
+ "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim": {
+  "id": "i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
+  "src": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: One claim near, two that do not hold",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एक दावा करीब, दो टिकते नहीं",
+  "page": null,
+  "ihash": "69f11b1e0b8b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-en-t-1280.jpg",
+    "src800": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-en-1280.jpg",
+    "src800": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-hi-1280.jpg",
+    "src800": "/photos/i-kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Kapil Mishra; library, quick_photo, finder l9e; the only correct one is blocked by the 7-day rule"
+ },
+ "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship": {
+  "id": "o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
+  "src": "/photos/o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship-1280.jpg",
+  "src800": "/photos/o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship-640.jpg",
+  "width": 1280,
+  "height": 848,
+  "srcWidth": 4693,
+  "credit": "Photo: Metsavend / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Novaya Gazeta editor Dmitry Muratov (file photo)",
+  "alt_hi": "नोवाया गज़ेटा के संपादक दिमित्री मुरातोव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dmitry_Muratov,_Tallinn_2023.jpg"
+ },
+ "cop31-explained-turkey-australia-split-presidency-finance-fight--p2": {
+  "id": "o-cop31-explained-turkey-australia-split-presidency-finance-fight--p2",
+  "src": "/photos/o-cop31-explained-turkey-australia-split-presidency-finance-fight--p2-1280.jpg",
+  "src800": "/photos/o-cop31-explained-turkey-australia-split-presidency-finance-fight--p2-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 763,
+  "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupender Yadav (file photo)",
+  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg"
+ },
+ "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship--p1": {
+  "id": "o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship--p1",
+  "src": "/photos/o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship--p1-1280.jpg",
+  "src800": "/photos/o-novaya-gazeta-closure-starving-a-newspaper-is-still-censorship--p1-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5184,
+  "credit": "Photo: yabloko.ru / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Memorial plaque to Anna Politkovskaya at the Novaya Gazeta office in Moscow (file photo)",
+  "alt_hi": "मॉस्को में नोवाया गज़ेटा दफ़्तर पर अन्ना पोलित्कोव्स्काया की स्मृति पट्टिका (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Opening_of_memorial_table_of_Anna_Politkovskaya_07.jpg"
+ },
+ "rbi-liquidity-explained-variable-rate-repo-sdf-corridor": {
+  "id": "r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
+  "src": "/photos/r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-1280.jpg",
+  "src800": "/photos/r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Gppande / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Reserve Bank of India office in Nagpur (file photo)",
+  "alt_hi": "नागपुर में भारतीय रिज़र्व बैंक का दफ़्तर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG"
+ },
+ "cop31-explained-turkey-australia-split-presidency-finance-fight": {
+  "id": "o-cop31-explained-turkey-australia-split-presidency-finance-fight",
+  "src": "/photos/o-cop31-explained-turkey-australia-split-presidency-finance-fight-1280.jpg",
+  "src800": "/photos/o-cop31-explained-turkey-australia-split-presidency-finance-fight-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1031,
+  "credit": "Photo: UK Government / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Chris Bowen, COP31 President of Negotiations (file photo)",
+  "alt_hi": "COP31 के वार्ता अध्यक्ष क्रिस बोवेन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chris_Bowen_(2024)_(cropped).jpg"
+ },
+ "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy": {
+  "id": "i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
+  "src": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-en-3x2-1280.jpg",
+  "src800": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: A quiet Diwali night hides a deadly year",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: शांत दिवाली रात के पीछे जानलेवा साल",
+  "page": null,
+  "ihash": "4f6cd8e9c0cc",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-hi-3x2-1280.jpg",
+    "src800": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-en-t-1280.jpg",
+    "src800": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-hi-t-1280.jpg",
+    "src800": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-en-1280.jpg",
+    "src800": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-hi-1280.jpg",
+    "src800": "/photos/i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of a Delhi or Mumbai building fire; library, quick_photo, finder l9e (only fire trucks); the Gaffar Market fire photo is blocked by the 7-day rule"
  }
 }

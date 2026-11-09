@@ -71,11 +71,12 @@ It is also a sentence that hides how thin the margin was. Three days earlier a f
 
 On Diwali night Delhi's fire service took 257 calls, of which **214 were fire-related**, and six people were hurt in fires. At AIIMS, the burns unit counted 42 Diwali-related cases by Monday morning, 11 of them major, nearly all from firecrackers. One eight-year-old was critical.
 
+```facts
+{"title": "Diwali night and the year, in four numbers", "items": [{"value": "257", "label": "calls to Delhi's fire service on Diwali night, 214 of them fire-related", "source": "Delhi Fire Services, November 9, 2026"}, {"value": "42", "label": "Diwali burn cases at AIIMS New Delhi by Monday morning, 11 of them major", "source": "AIIMS New Delhi, November 9, 2026"}, {"value": "7,054", "label": "fire accidents across India in 2023", "source": "Lok Sabha reply, February 10, 2026"}, {"value": "6,891", "label": "deaths in those fire accidents", "source": "Lok Sabha reply, February 10, 2026"}]}
+```
+
 Over a full year the toll is far larger. The Lok Sabha was told in February that India recorded **6,891 deaths in 7,054 fire accidents in 2023**. The Minister of State for Home Affairs said fire safety is mainly a state responsibility, while the Centre has a ₹5,000 crore scheme, launched on July 4, 2023, to expand and modernise state fire services.
 
-```photo
-{"n":1,"subject":"All India Institute of Medical Sciences, New Delhi","caption":"The burns unit at AIIMS in New Delhi counted 42 Diwali-related cases by Monday morning.","alt":"The AIIMS hospital in New Delhi"}
-```
 
 ## The fair objection
 

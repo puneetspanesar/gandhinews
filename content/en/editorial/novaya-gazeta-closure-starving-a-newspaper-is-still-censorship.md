@@ -34,7 +34,7 @@ infographic:
   source: "Committee to Protect Journalists; Novaya Gazeta statement, October 30, 2026"
 related: [novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement]
 seo:
-  description: "Gandhi News editorial: Novaya Gazeta closed its Moscow newsroom on November 9, 2026 after eviction, bank limits and a blocked site. Starving a paper is still censorship, and democracies should say so."
+  description: "Gandhi News editorial: Novaya Gazeta closed its Moscow newsroom on November 9, 2026, after eviction, bank limits and a blocked site. Starving a paper is still censorship, and democracies should say so."
 sources:
   - title: "Joint statement on the closure of Novaya Gazeta in Russia"
     publisher: "UK Foreign, Commonwealth & Development Office"
@@ -69,7 +69,7 @@ The notable thing is how it happened. There was no decree naming the paper and n
 The editors recall the cost of the years before: Igor Domnikov, Yuri Shchekochikhin, Anna Politkovskaya, Stas Markelov, Anastasia Baburova and Natalia Estemirova, who died for their work. Publisher Dmitry Muratov, who shared the 2021 Nobel Peace Prize, was attacked with paint that nearly cost him his sight. This is not a paper that was undone by bad business. It carried on through murder and threat, and was finally stopped by an administrative squeeze.
 
 ```photo
-{"n":1,"subject":"Anna Politkovskaya","caption":"Anna Politkovskaya, the Novaya Gazeta reporter shot dead in Moscow in 2006, whose name the UK and Finland recalled in their statement.","alt":"Anna Politkovskaya, journalist of Novaya Gazeta (file photo)"}
+{"n": 1, "subject": "Anna Politkovskaya", "caption": "A memorial plaque to Anna Politkovskaya, the Novaya Gazeta reporter shot dead in Moscow in 2006, at the paper's office.", "alt": "Memorial plaque to Anna Politkovskaya at the Novaya Gazeta office in Moscow (file photo)"}
 ```
 
 The UK and Finland, co-chairs of the Media Freedom Coalition, have called for **the immediate release of every jailed journalist** in Russia. The Committee to Protect Journalists counts 31 journalists detained or imprisoned there, the highest number since it began keeping records. Moscow has not answered.

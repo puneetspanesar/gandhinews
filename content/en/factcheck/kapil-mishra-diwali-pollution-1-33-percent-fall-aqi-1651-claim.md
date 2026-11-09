@@ -14,7 +14,7 @@ factcheck:
   seenOn: "Press conference, Delhi (November 9, 2026)"
   firstSeen: 2026-11-09
   verdict: "Misleading"
-  finding: "Punjab's Remote Sensing Centre counted 1,152 fires on November 8, so the fire figure is a fair round-up. The Central Pollution Control Board's index runs only from 0 to 500, so 1,651 cannot be an official AQI. Delhi's day-after-Diwali average of 368 is higher than 358 in 2023, 339 in 2024 and 351 in 2025, and no pair of published readings gives a 1.33% fall."
+  finding: "Punjab's Remote Sensing Centre counted 1,152 fires on November 8, so the fire figure is a fair round-up. The Central Pollution Control Board's index runs only from 0 to 500, so 1,651 cannot be an official AQI. Delhi's 7 am reading of 368 the morning after Diwali is above the day-after-Diwali figures of 358 in 2023, 339 in 2024 and 351 in 2025 (an indicative comparison, as the 2026 figure is not a full-day average), and no pair of published readings gives a 1.33% fall."
 hero:
   need: "Delhi minister Kapil Mishra at his press conference"
   suggested_source: "Kapil Mishra"
@@ -30,7 +30,7 @@ infographic:
   stats:
     - {icon: fire, value: "1,152", label: "Punjab farm fires on November 8; the minister said nearly 1,200"}
     - {icon: cloud-fog, value: "500", label: "top of the official AQI scale; the minister cited 1,651"}
-    - {icon: trend-down, value: "368", label: "Delhi AQI the morning after Diwali, above 2023, 2024 and 2025"}
+    - {icon: trend-up, value: "368", label: "Delhi AQI at 7 am the morning after Diwali, above 2023, 2024 and 2025"}
   compare:
     left: {title: "Minister's figure", value: "1,651", text: "AQI at Sangrur, early Monday"}
     right: {title: "Official AQI scale", value: "0 to 500", text: "Severe is 401 to 500"}
@@ -85,7 +85,7 @@ The Central Pollution Control Board's National Air Quality Index has six bands, 
 
 ### 3. The 1.33% fall: no published basis
 
-The minister named no pollutant, station set or dates. Delhi's city average on Diwali eve was 369, on Diwali day 376, and at 7 am the morning after 368. From Saturday to Monday that is a fall of about 0.3%; from Sunday, about 2.1%. Neither is 1.33%. The more useful comparison is the day after Diwali across years, and there this year is the **highest of the last four**.
+The minister named no pollutant, station set or dates. Delhi's city average on Diwali eve was 369, on Diwali day 376, and at 7 am the morning after 368. From Saturday to Monday that is a fall of about 0.3%; from Sunday, about 2.1%. Neither is 1.33%. The more useful comparison is the day after Diwali across years. On this year's 7 am reading, 2026 is the **highest of the last four**; the comparison is indicative, because the earlier years are not 7 am readings.
 
 ```chart
 {"title":"Delhi AQI the day after Diwali (2026 is the 7 am reading)","type":"vbar","unit":"","data":[{"label":"2023","value":358},{"label":"2024","value":339},{"label":"2025","value":351},{"label":"2026","value":368,"highlight":true}]}

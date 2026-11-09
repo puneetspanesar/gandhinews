@@ -96,8 +96,8 @@ Turkey's own centrepiece is an electrification drive to lift electricity's share
 
 The promise made at Belém was to triple adaptation finance by 2035, with no baseline, no precise target and no named source of money. One common reading, tripling an earlier goal of $40 billion, would mean about $120 billion a year, but delivery methods are disputed. The wider goal of $1.3 trillion a year by 2035 is tracked through the Baku to Belém Roadmap, and a first progress update is expected here.
 
-```photo
-{"n":1,"subject":"Chris Bowen","caption":"Australia's Chris Bowen, President of Negotiations, who chairs the talks that produce the decisions.","alt":"Australia's climate minister Chris Bowen"}
+```facts
+{"title": "COP31 in four numbers", "items": [{"value": "November 9 to 20", "label": "the conference in Antalya, Turkey", "source": "COP31 presidency"}, {"value": "November 11 and 12", "label": "the leaders' summit, days three and four", "source": "COP31 presidency"}, {"value": "35% by 2035", "label": "Turkey's goal for electricity's share of global energy demand, up from about 20%", "source": "COP31 presidency"}, {"value": "About $120 billion", "label": "one common reading of tripling adaptation finance by 2035", "source": "Belém decision, 2025"}]}
 ```
 
 ## What India wants

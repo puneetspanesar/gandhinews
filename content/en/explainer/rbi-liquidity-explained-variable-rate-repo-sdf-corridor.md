@@ -90,8 +90,8 @@ Two standing doors sit on either side. The **standing deposit facility (SDF)** l
 
 The RBI's response was to drain. It raised the daily cash reserve minimum, announced ₹25,000 crore of government bond sales and ran reverse repo auctions. On November 4 it took in ₹50,015 crore in one overnight auction and ₹1,180 crore in another, both at 5.49%. On November 6 a three-day auction took in ₹18,133 crore, against ₹25,000 crore offered.
 
-```photo
-{"n":1,"subject":"Reserve Bank of India headquarters Mumbai","caption":"The Reserve Bank of India headquarters in Mumbai, where the daily liquidity auctions are run.","alt":"The Reserve Bank of India headquarters in Mumbai"}
+```facts
+{"title": "The RBI's rate corridor", "items": [{"value": "5.75%", "label": "marginal standing facility, the ceiling", "source": "RBI policy, October 2026"}, {"value": "5.50%", "label": "repo rate, the policy rate", "source": "RBI policy, October 2026"}, {"value": "5.25%", "label": "standing deposit facility, the floor", "source": "RBI policy, October 2026"}, {"value": "₹50,003 crore", "label": "lent for four days on November 9, 2026", "source": "RBI auction result"}]}
 ```
 
 ## Why it reversed
