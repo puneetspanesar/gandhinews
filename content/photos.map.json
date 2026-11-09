@@ -29579,7 +29579,18 @@
   "licence": "GODL-India",
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Home_Minister,_Shri_Amit_Shah,_in_New_Delhi_on_August_19,_2019_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Home_Minister,_Shri_Amit_Shah,_in_New_Delhi_on_August_19,_2019_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-amit-shah-dehradun-rally-speech-1475-crore-projects-1280.jpg",
+   "src800": "/photos/t-amit-shah-dehradun-rally-speech-1475-crore-projects-640.jpg",
+   "cutout": true,
+   "with": [
+    "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027--bg",
+    "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
+    "punjab-assembly-session-adjourned-ten-minutes-congress-effigy-mann"
+   ],
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; GarvitKaushik8 / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Organic99 / Wikimedia Commons"
+  }
  },
  "andhra-parishad-polls-four-voters-two-poll-staff-die": {
   "id": "o-andhra-parishad-polls-four-voters-two-poll-staff-die",
@@ -29591,7 +29602,18 @@
   "licence": "GODL-India",
   "alt": "Voters queue at a polling booth at Madhavadhara, Visakhapatnam, Andhra Pradesh (file photo)",
   "alt_hi": "आंध्र प्रदेश के विशाखापत्तनम में मधवधारा के एक मतदान केंद्र पर कतार में मतदाता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Voters_standing_in_a_queue_to_cast_their_votes,_at_a_polling_booth,_during_the_8th_Phase_of_General_Elections-2014,_at_Madhavadhara,_in_Visakhapatnam,_Andhra_Pradesh_on_May_07,_2014.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Voters_standing_in_a_queue_to_cast_their_votes,_at_a_polling_booth,_during_the_8th_Phase_of_General_Elections-2014,_at_Madhavadhara,_in_Visakhapatnam,_Andhra_Pradesh_on_May_07,_2014.jpg",
+  "treated": {
+   "src": "/photos/t-andhra-parishad-polls-four-voters-two-poll-staff-die-1280.jpg",
+   "src800": "/photos/t-andhra-parishad-polls-four-voters-two-poll-staff-die-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "aditya-l1-velc-asymmetric-cme-expansion-iia"
+   ],
+   "credit": "Photos: Election Commission of India / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons"
+  }
  },
  "sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07": {
   "id": "i-sensex-nifty-1pm-november-6-sensex-646-points-rupee-94-07",
@@ -29687,7 +29709,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "North Block, which houses the Ministry of Home Affairs, in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, जहां गृह मंत्रालय है (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_06.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_06.jpg",
+  "treated": {
+   "src": "/photos/t-govt-relaxes-passport-visa-rules-foreign-nationals-india-1280.jpg",
+   "src800": "/photos/t-govt-relaxes-passport-visa-rules-foreign-nationals-india-640.jpg",
+   "cutout": false,
+   "with": [
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling",
+    "bhashini-10-billion-inferences-etd-2026-iit-delhi"
+   ],
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Azanti / Wikimedia Commons"
+  }
  },
  "india-u19-bowl-out-nepal-128-asia-cup-al-amerat": {
   "id": "i-india-u19-bowl-out-nepal-128-asia-cup-al-amerat",
@@ -29742,7 +29775,18 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Rahul Gandhi, now Leader of Opposition in the Lok Sabha (file photo, 2008)",
   "alt_hi": "राहुल गांधी, अब लोकसभा में नेता प्रतिपक्ष (फाइल फोटो, 2008)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(2008).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(2008).jpg",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-vote-for-welfare-voter-lists-pcc-chiefs-meeting-640.jpg",
+   "cutout": true,
+   "with": [
+    "eci-form-6-press-note-taken-down-claim",
+    "elections-2027",
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1"
+   ],
+   "credit": "Photos: Original: Indian National Congress / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "sensex-nifty-2pm-november-6-sensex-1065-points-80375": {
   "id": "o-sensex-nifty-2pm-november-6-sensex-1065-points-80375",
@@ -29754,7 +29798,18 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The Bombay Stock Exchange building on Dalal Street, Mumbai (file photo)",
   "alt_hi": "मुंबई के दलाल स्ट्रीट पर बंबई स्टॉक एक्सचेंज की इमारत (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bombay_Stock_Exchange,_2015_1.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Bombay_Stock_Exchange,_2015_1.jpg",
+  "treated": {
+   "src": "/photos/t-sensex-nifty-2pm-november-6-sensex-1065-points-80375-1280.jpg",
+   "src800": "/photos/t-sensex-nifty-2pm-november-6-sensex-1065-points-80375-640.jpg",
+   "cutout": true,
+   "with": [
+    "after-yes-bank-ruling-rbi-must-own-investor-protection",
+    "bajaj-finance-results-today-29-per-cent-profit-estimate",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets"
+   ],
+   "credit": "Photos: Karthikndr / Wikimedia Commons; Unknown / Wikimedia Commons; zadeus / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
+  }
  },
  "jharkhand-khunti-trailer-crowd-seven-killed": {
   "id": "i-jharkhand-khunti-trailer-crowd-seven-killed",
@@ -29937,7 +29992,18 @@
   "licence": "GODL-India",
   "alt": "Nayab Singh Saini (file photo)",
   "alt_hi": "नायब सिंह सैनी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nayab_Singh_Saini.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Nayab_Singh_Saini.jpg",
+  "treated": {
+   "src": "/photos/t-haryana-9880-crore-paddy-farmers-beekeepers-insurance-1280.jpg",
+   "src800": "/photos/t-haryana-9880-crore-paddy-farmers-beekeepers-insurance-640.jpg",
+   "cutout": true,
+   "with": [
+    "msp-explained-how-set-who-benefits",
+    "punjab-farm-fires-season-worst-day-amritsar-tarn-taran",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
+   ],
+   "credit": "Photos: Ministry of Labour and Employment / Wikimedia Commons; Chparveshtaak / Wikimedia Commons; CIAT / Wikimedia Commons; Tobi Kellner / Wikimedia Commons"
+  }
  },
  "haryana-da-63-per-cent-lado-lakshmi-13th-instalment": {
   "id": "r-haryana-da-63-per-cent-lado-lakshmi-13th-instalment",
@@ -29949,7 +30015,18 @@
   "licence": "CC BY 4.0",
   "alt": "Haryana Chief Minister Nayab Singh Saini (file photo)",
   "alt_hi": "हरियाणा के मुख्यमंत्री नायब सिंह सैनी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_Sh._Nayab_Singh_during_the_13th_meeting_of_the_Gurugram_Metropolitan_Development_Authority.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_Sh._Nayab_Singh_during_the_13th_meeting_of_the_Gurugram_Metropolitan_Development_Authority.jpg",
+  "treated": {
+   "src": "/photos/t-haryana-da-63-per-cent-lado-lakshmi-13th-instalment-1280.jpg",
+   "src800": "/photos/t-haryana-da-63-per-cent-lado-lakshmi-13th-instalment-640.jpg",
+   "cutout": true,
+   "with": [
+    "high-court-allows-punjab-plea-bhagwant-mann-france-visit-clearance",
+    "msp-explained-how-set-who-benefits",
+    "pnb-federal-bank-q2-profit-record"
+   ],
+   "credit": "Photos: CMO Haryana / Wikimedia Commons; Harvinder Chandigarh / Wikimedia Commons; Chparveshtaak / Wikimedia Commons; Meet.arpit99 / Wikimedia Commons"
+  }
  },
  "lic-q2-profit-rises-20-per-cent-12076-crore-shares-fall": {
   "id": "r-lic-q2-profit-rises-20-per-cent-12076-crore-shares-fall",
@@ -29973,7 +30050,18 @@
   "licence": "CC0",
   "alt": "The Jharkhand High Court building at Dhurwa, Ranchi (file photo)",
   "alt_hi": "रांची के धुर्वा में झारखंड हाईकोर्ट भवन (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:High_Court_of_Jharkhand_at_Dhruva,_Ranchi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:High_Court_of_Jharkhand_at_Dhruva,_Ranchi.jpg",
+  "treated": {
+   "src": "/photos/t-jharkhand-hc-quashes-jssc-cgl-exam-cancellation-1280.jpg",
+   "src800": "/photos/t-jharkhand-hc-quashes-jssc-cgl-exam-cancellation-640.jpg",
+   "cutout": false,
+   "with": [
+    "iiit-ranchi-student-death-education-ministry-panel-probe",
+    "azam-khan-supreme-court-ed-arrest-plea-cji-this-week--bg",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
+   ],
+   "credit": "Photos: Jharkhand High Court / Wikimedia Commons; Shubjt / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
+  }
  },
  "farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar": {
   "id": "o-farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar",
@@ -29985,7 +30073,18 @@
   "licence": "GODL-India",
   "alt": "National Conference president Farooq Abdullah (file photo)",
   "alt_hi": "नेशनल कॉन्फ्रेंस अध्यक्ष फारूक अब्दुल्ला (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_New_and_Renewable_Energy,_Dr._Farooq_Abdullah_addressing_the_%E2%80%9CInternational_Seminar_on_Energy_Access%E2%80%9D,_in_New_Delhi_on_October_09,_2012.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_New_and_Renewable_Energy,_Dr._Farooq_Abdullah_addressing_the_%E2%80%9CInternational_Seminar_on_Energy_Access%E2%80%9D,_in_New_Delhi_on_October_09,_2012.jpg",
+  "treated": {
+   "src": "/photos/t-farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar-1280.jpg",
+   "src800": "/photos/t-farooq-abdullah-nc-united-family-disgruntled-mlas-srinagar-640.jpg",
+   "cutout": true,
+   "with": [
+    "jkbose-exams-2-7-lakh-students-class-10-monday",
+    "kashmir-buses-attacked-haryana-punjab-omar-abdullah",
+    "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum"
+   ],
+   "credit": "Photos: Ministry of New and Renewable Energy, Government of India / Wikimedia Commons; Delhi Public School, Sushant Lok / Wikimedia Commons; Akaravadra / Wikimedia Commons; Ramchandra9 / Wikimedia Commons"
+  }
  },
  "tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin": {
   "id": "i-tanvi-patri-youth-olympics-silver-dakar-zhang-yi-xin",
@@ -30083,7 +30182,18 @@
   "licence": "CC BY 3.0 br",
   "alt": "Sonia Gandhi (file photo)",
   "alt_hi": "सोनिया गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Gandhisonia05052007.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Gandhisonia05052007.jpg",
+  "treated": {
+   "src": "/photos/t-sonia-gandhi-voter-list-case-additional-documents-november-1-1280.jpg",
+   "src800": "/photos/t-sonia-gandhi-voter-list-case-additional-documents-november-1-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+   ],
+   "credit": "Photos: Ricardo Stuckert/PR / Wikimedia Commons; Pinakpani / Wikimedia Commons; Zealaski / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
+  }
  },
  "hindalco-q2-profit-59-per-cent-7533-crore-record": {
   "id": "o-hindalco-q2-profit-59-per-cent-7533-crore-record",
@@ -30095,7 +30205,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Kumar Mangalam Birla (file photo)",
   "alt_hi": "कुमार मंगलम बिड़ला (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Kumar_Mangalam_Birla.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Kumar_Mangalam_Birla.jpg",
+  "treated": {
+   "src": "/photos/t-hindalco-q2-profit-59-per-cent-7533-crore-record-1280.jpg",
+   "src800": "/photos/t-hindalco-q2-profit-59-per-cent-7533-crore-record-640.jpg",
+   "cutout": true,
+   "with": [
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "bajaj-finance-results-today-29-per-cent-profit-estimate",
+    "fpi-outflows-record-3-trillion-2026"
+   ],
+   "credit": "Photos: Aashutoshgavane / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons; zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
+  }
  },
  "tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence": {
   "id": "o-tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence",
@@ -30107,7 +30228,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Tarun Tejpal (file photo)",
   "alt_hi": "तरुण तेजपाल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tarun_J_Tejpal_2007.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Tarun_J_Tejpal_2007.jpg",
+  "treated": {
+   "src": "/photos/t-tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence-1280.jpg",
+   "src800": "/photos/t-tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence-640.jpg",
+   "cutout": true,
+   "with": [
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling",
+    "cjp-leaders-withdraw-delhi-hc-custody-plea"
+   ],
+   "credit": "Photos: Michelle from Geneva, Switzerland / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons"
+  }
  },
  "sri-lanka-releases-eight-indian-fishermen-tamil-nadu": {
   "id": "o-sri-lanka-releases-eight-indian-fishermen-tamil-nadu",
@@ -30119,7 +30251,18 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Fishing boats at Rameswaram, Tamil Nadu (file photo)",
   "alt_hi": "रामेश्वरम, तमिलनाडु में मछली पकड़ने वाली नावें (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Fishing_Boats_at_Rameshwaram.jpeg"
+  "page": "https://commons.wikimedia.org/wiki/File:Fishing_Boats_at_Rameshwaram.jpeg",
+  "treated": {
+   "src": "/photos/t-sri-lanka-releases-eight-indian-fishermen-tamil-nadu-1280.jpg",
+   "src800": "/photos/t-sri-lanka-releases-eight-indian-fishermen-tamil-nadu-640.jpg",
+   "cutout": false,
+   "with": [
+    "iob-rbi-inspection-risk-weights-capital-ratio-19-06",
+    "madras-high-court-upholds-speaker-aiadmk-mla-resignations",
+    "tamil-nadu-vetri-150-extra-25-days-rural-jobs"
+   ],
+   "credit": "Photos: Ravindraboopathi / Wikimedia Commons; Nivas10798 / Wikimedia Commons; Raki_Man / Wikimedia Commons; N. Vivekananthamoorthy / Wikimedia Commons"
+  }
  },
  "andhra-five-mandals-41-per-cent-1pm-gopalapuram-repolls": {
   "id": "i-andhra-five-mandals-41-per-cent-1pm-gopalapuram-repolls",
@@ -30216,7 +30359,18 @@
   "licence": "GODL-India",
   "alt": "Voters queue outside a polling booth in Andhra Pradesh (file photo)",
   "alt_hi": "आंध्र प्रदेश में एक मतदान केंद्र के बाहर कतार में मतदाता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_youth_voters_standing_in_a_queue_for_waiting_to_cast_their_votes_at_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg",
+  "treated": {
+   "src": "/photos/t-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapa-1280.jpg",
+   "src800": "/photos/t-andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapa-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "andhra-parishad-polls-four-voters-two-poll-staff-die",
+    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur"
+   ],
+   "credit": "Photos: Election Commission of India / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons"
+  }
  },
  "india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled": {
   "id": "i-india-new-zealand-second-odi-wellington-rain-forecast-training-cancelled",
@@ -30472,7 +30626,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Reserve Bank of India office in Bhubaneswar (file photo)",
   "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg",
+  "treated": {
+   "src": "/photos/t-rupee-93-89-strongest-since-april-fii-record-buying-1280.jpg",
+   "src800": "/photos/t-rupee-93-89-strongest-since-april-fii-record-buying-640.jpg",
+   "cutout": false,
+   "with": [
+    "after-yes-bank-ruling-rbi-must-own-investor-protection",
+    "bajaj-finance-results-today-29-per-cent-profit-estimate",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets"
+   ],
+   "credit": "Photos: Subhrasingh / Wikimedia Commons; Unknown / Wikimedia Commons; zadeus / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
+  }
  },
  "india-forex-reserves-fall-2-69-billion-717-billion-october-30": {
   "id": "r-india-forex-reserves-fall-2-69-billion-717-billion-october-30",
@@ -30484,7 +30649,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Reserve Bank of India building in Kolkata (file photo)",
   "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "treated": {
+   "src": "/photos/t-india-forex-reserves-fall-2-69-billion-717-billion-october-3-1280.jpg",
+   "src800": "/photos/t-india-forex-reserves-fall-2-69-billion-717-billion-october-3-640.jpg",
+   "cutout": false,
+   "with": [
+    "after-yes-bank-ruling-rbi-must-own-investor-protection",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets",
+    "bajaj-finance-q2-results-october-19"
+   ],
+   "credit": "Photos: सुबोध कुलकर्णी / Wikimedia Commons; Unknown / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; ChiK / Wikimedia Commons"
+  }
  },
  "supreme-court-contempt-notice-kerala-congress-x-post-cji": {
   "id": "o-supreme-court-contempt-notice-kerala-congress-x-post-cji",
@@ -30496,7 +30672,18 @@
   "licence": "GODL-India",
   "alt": "Justice Aravind Kumar of the Supreme Court (file photo)",
   "alt_hi": "सुप्रीम कोर्ट के न्यायमूर्ति अरविंद कुमार (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_Aravind_Kumar.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_Aravind_Kumar.jpg",
+  "treated": {
+   "src": "/photos/t-supreme-court-contempt-notice-kerala-congress-x-post-cji-1280.jpg",
+   "src800": "/photos/t-supreme-court-contempt-notice-kerala-congress-x-post-cji-640.jpg",
+   "cutout": true,
+   "with": [
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling",
+    "cjp-leaders-withdraw-delhi-hc-custody-plea"
+   ],
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons"
+  }
  },
  "supreme-court-delhi-pollution-hearing-peoples-movement-cji": {
   "id": "o-supreme-court-delhi-pollution-hearing-peoples-movement-cji",
@@ -30520,7 +30707,18 @@
   "licence": "GODL-India",
   "alt": "Nayab Singh Saini takes oath as Haryana Chief Minister in Panchkula, October 2024 (file photo)",
   "alt_hi": "पंचकूला में हरियाणा के मुख्यमंत्री पद की शपथ लेते नायब सिंह सैनी, अक्टूबर 2024 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nayab_Saini_Swearing-in_October_2024.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Nayab_Saini_Swearing-in_October_2024.jpg",
+  "treated": {
+   "src": "/photos/t-saini-chowkidar-honorarium-15221-rahul-apology-1280.jpg",
+   "src800": "/photos/t-saini-chowkidar-honorarium-15221-rahul-apology-640.jpg",
+   "cutout": false,
+   "with": [
+    "keralam-assembly-resolution-seeks-removal-of-cec",
+    "manipur-khemchand-peace-census-deferred-jan-sevak",
+    "sangareddy-pharma-deaths-need-inspections-not-compensation"
+   ],
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Sabu Mampallil / Wikimedia Commons; Ramchandra9 / Wikimedia Commons; Yakshitha / Wikimedia Commons"
+  }
  },
  "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur": {
   "id": "o-murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
@@ -30532,7 +30730,18 @@
   "licence": "CC BY 4.0",
   "alt": "A house in Andhra Pradesh destroyed by an earlier cyclone (file photo)",
   "alt_hi": "आंध्र प्रदेश में पिछले चक्रवात से ढहा एक घर (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png",
+  "treated": {
+   "src": "/photos/t-murasu-andhra-damage-1919-crore-naidu-bapatla-guntur-1280.jpg",
+   "src800": "/photos/t-murasu-andhra-damage-1919-crore-naidu-bapatla-guntur-640.jpg",
+   "cutout": false,
+   "with": [
+    "agrivoltaics-world-conference-delhi-36-projects-potential",
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "anthropic-opens-singapore-office-signs-government-mou"
+   ],
+   "credit": "Photos: Channel Aid (channelaid89) / Wikimedia Commons; Tobi Kellner / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons; Basile Morin / Wikimedia Commons"
+  }
  },
  "sc-up-under-trials-bail-release-all-75-districts": {
   "id": "i-sc-up-under-trials-bail-release-all-75-districts",
@@ -30630,7 +30839,18 @@
   "licence": "GODL-India",
   "alt": "Sukhvinder Singh Sukhu (file photo)",
   "alt_hi": "सुखविंदर सिंह सुक्खू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg",
+  "treated": {
+   "src": "/photos/t-himachal-bbmb-verdict-11973-million-units-sukhu-rattan-1280.jpg",
+   "src800": "/photos/t-himachal-bbmb-verdict-11973-million-units-sukhu-rattan-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1",
+    "azam-khan-supreme-court-ed-arrest-plea-cji-this-week--bg"
+   ],
+   "credit": "Photos: Prime Minister's Office (India) / Wikimedia Commons; Pinakpani / Wikimedia Commons; Zealaski / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
  },
  "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states": {
   "id": "r-ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
@@ -30642,7 +30862,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Voters check their names in an electoral roll with a poll worker (file photo)",
   "alt_hi": "मतदाता सूची में अपना नाम देखते मतदाता, साथ में एक चुनाव कर्मी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg",
+  "treated": {
+   "src": "/photos/t-ec-fresh-window-electors-missing-sir-draft-rolls-seven-state-1280.jpg",
+   "src800": "/photos/t-ec-fresh-window-electors-missing-sir-draft-rolls-seven-state-640.jpg",
+   "cutout": true,
+   "with": [
+    "eci-form-6-press-note-taken-down-claim",
+    "elections-2027",
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1"
+   ],
+   "credit": "Photos: Nilanjan Chowdhury / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "iran-hands-us-nuclear-proposal-seven-demands": {
   "id": "r-iran-hands-us-nuclear-proposal-seven-demands",
@@ -30654,7 +30885,18 @@
   "licence": "CC BY 4.0",
   "alt": "Mohsen Rezaei, pictured in 2020 (file photo)",
   "alt_hi": "मोहसिन रेज़ाई, 2020 की तस्वीर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohsen_Rezaee_in_2020.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Mohsen_Rezaee_in_2020.jpg",
+  "treated": {
+   "src": "/photos/t-iran-hands-us-nuclear-proposal-seven-demands-1280.jpg",
+   "src800": "/photos/t-iran-hands-us-nuclear-proposal-seven-demands-640.jpg",
+   "cutout": true,
+   "with": [
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "imf-raises-india-growth-forecast-7-per-cent"
+   ],
+   "credit": "Photos: khamenei.ir / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; APK / Wikimedia Commons"
+  }
  },
  "navy-receives-amini-anti-submarine-shallow-water-craft": {
   "id": "o-navy-receives-amini-anti-submarine-shallow-water-craft",
@@ -30666,7 +30908,18 @@
   "licence": "GODL-India",
   "alt": "INS Arnala, the first ship of the anti-submarine shallow water craft class that Amini belongs to (file photo)",
   "alt_hi": "आईएनएस अर्नाला, पनडुब्बी रोधी उथले पानी के जहाज़ों की उस श्रेणी का पहला जहाज़ जिसमें अमिनी शामिल है (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:INS_Arnala_(P68)_at_sea.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:INS_Arnala_(P68)_at_sea.jpg",
+  "treated": {
+   "src": "/photos/t-navy-receives-amini-anti-submarine-shallow-water-craft-1280.jpg",
+   "src800": "/photos/t-navy-receives-amini-anti-submarine-shallow-water-craft-640.jpg",
+   "cutout": false,
+   "with": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--p2",
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+    "alappuzha-toddler-death-suspected-malnutrition"
+   ],
+   "credit": "Photos: Defence PRO Visakhapatnam - Indian Navy / Wikimedia Commons; Colin Cooke Photo / Wikimedia Commons; U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons; Ganesh Mohan T / Wikimedia Commons"
+  }
  },
  "himachal-bbmb-verdict-11973-million-units-sukhu-rattan--p1": {
   "id": "o-himachal-bbmb-verdict-11973-million-units-sukhu-rattan--p1",
@@ -30714,7 +30967,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Smog over Gurgaon in Delhi-NCR in November (file photo)",
   "alt_hi": "नवंबर में दिल्ली-एनसीआर के गुरुग्राम पर छाया स्मॉग (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Smog_as_visible_in_the_Gurgaon_area_near_Delhi_on_Nov_2016.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_as_visible_in_the_Gurgaon_area_near_Delhi_on_Nov_2016.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-grap-stage-three-aqi-382-caqm-1280.jpg",
+   "src800": "/photos/t-delhi-grap-stage-three-aqi-382-caqm-640.jpg",
+   "cutout": false,
+   "with": [
+    "bhupender-yadav-startups-delhi-air-pollution-solutions",
+    "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "delhi-aqi-139-monday-coldest-october-night"
+   ],
+   "credit": "Photos: Saurabh Kumar / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons"
+  }
  },
  "rice-paddy-stock-declaration-every-friday-food-stock-portal": {
   "id": "i-rice-paddy-stock-declaration-every-friday-food-stock-portal",
@@ -30768,7 +31032,18 @@
   "licence": "GODL-India",
   "alt": "Ashwini Vaishnaw (file photo)",
   "alt_hi": "अश्विनी वैष्णव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ashwini_Vaishnaw_Minister_of_IT.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Ashwini_Vaishnaw_Minister_of_IT.jpg",
+  "treated": {
+   "src": "/photos/t-railways-18000-festive-special-trains-1280.jpg",
+   "src800": "/photos/t-railways-18000-festive-special-trains-640.jpg",
+   "cutout": true,
+   "with": [
+    "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today--p2",
+    "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing",
+    "elections-2027"
+   ],
+   "credit": "Photos: Institution:Ministry of Electronics & IT / Wikimedia Commons; Superfast1111 / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons"
+  }
  },
  "amit-shah-presidents-police-colour-uttarakhand-police": {
   "id": "o-amit-shah-presidents-police-colour-uttarakhand-police",
@@ -30781,7 +31056,18 @@
   "licence": "PIB (free reproduction with credit)",
   "alt": "Amit Shah at the Uttarakhand Police President's Colour parade in Dehradun",
   "alt_hi": "देहरादून में उत्तराखंड पुलिस की राष्ट्रपति निशान परेड में अमित शाह",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2333756"
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2333756",
+  "treated": {
+   "src": "/photos/t-amit-shah-presidents-police-colour-uttarakhand-police-1280.jpg",
+   "src800": "/photos/t-amit-shah-presidents-police-colour-uttarakhand-police-640.jpg",
+   "cutout": true,
+   "with": [
+    "azam-khan-supreme-court-ed-arrest-plea-cji-this-week--bg",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg",
+    "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct"
+   ],
+   "credit": "Photos: PIB; Subhashish Panigrahi / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Pinakpani / Wikimedia Commons; Zealaski / Wikimedia Commons"
+  }
  },
  "delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday": {
   "id": "i-delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday",
@@ -31008,7 +31294,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Ben Shelton (file photo)",
   "alt_hi": "बेन शेल्टन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ben_Shelton,_Swiss_Indoors_Basel_2025.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Ben_Shelton,_Swiss_Indoors_Basel_2025.jpg",
+  "treated": {
+   "src": "/photos/t-shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-tu-1280.jpg",
+   "src800": "/photos/t-shelton-beats-paul-paris-masters-semi-final-tiafoe-misses-tu-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-high-court-strikes-down-bc-quota-local-bodies",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+   ],
+   "credit": "Photos: Skyscraper2010 / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam": {
   "id": "o-tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhapatnam",
@@ -31020,7 +31317,18 @@
   "licence": "Public domain",
   "alt": "Indian and US personnel at an earlier edition of Exercise Tiger Triumph (file photo)",
   "alt_hi": "अभ्यास टाइगर ट्रायम्फ के पिछले संस्करण में भारतीय और अमेरिकी कर्मी (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Exercise_Tiger_Triumph_2026_Commences_in_Visakhapatnam_to_Enhance_U_S_-India_Combined_Interoperability_(10064145).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Exercise_Tiger_Triumph_2026_Commences_in_Visakhapatnam_to_Enhance_U_S_-India_Combined_Interoperability_(10064145).jpg",
+  "treated": {
+   "src": "/photos/t-tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhap-1280.jpg",
+   "src800": "/photos/t-tiger-triumph-2026-india-us-hadr-exercise-concludes-visakhap-640.jpg",
+   "cutout": false,
+   "with": [
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "navy-commissions-ins-mangrol-anti-submarine-craft",
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew"
+   ],
+   "credit": "Photos: U.S. Navy COM-PF by Cmdr. Desiree Frame / Wikimedia Commons; Rameshng / Wikimedia Commons; Ranjithsiji / Wikimedia Commons; U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons"
+  }
  },
  "sc-delhi-pollution-hearing-cji-old-tried-failed-measures": {
   "id": "i-sc-delhi-pollution-hearing-cji-old-tried-failed-measures",
@@ -31075,7 +31383,18 @@
   "licence": "GODL-India",
   "alt": "Union IT and electronics minister Ashwini Vaishnaw (file photo)",
   "alt_hi": "केंद्रीय आईटी और इलेक्ट्रॉनिक्स मंत्री अश्विनी वैष्णव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Ashwini_Vaishnaw_taking_charge_as_the_Union_Minister_for_Railways,_in_New_Delhi_on_July_08,_2021_(1).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Ashwini_Vaishnaw_taking_charge_as_the_Union_Minister_for_Railways,_in_New_Delhi_on_July_08,_2021_(1).jpg",
+  "treated": {
+   "src": "/photos/t-semicon-india-2-portal-vaishnaw-12-ecms-projects-1280.jpg",
+   "src800": "/photos/t-semicon-india-2-portal-vaishnaw-12-ecms-projects-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+   ],
+   "credit": "Photos: Ministry of Railways / Wikimedia Commons; Pinakpani / Wikimedia Commons; Zealaski / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
+  }
  },
  "van-assche-beats-hijikata-paris-masters-first-semi-final-shelton": {
   "id": "o-van-assche-beats-hijikata-paris-masters-first-semi-final-shelton",
@@ -31087,7 +31406,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Luca Van Assche of France plays a forehand (file photo)",
   "alt_hi": "फ्रांस के लुका वान आस्शे फोरहैंड खेलते हुए (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Van_Assche_RGQ22_(26)_(52129515531).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Van_Assche_RGQ22_(26)_(52129515531).jpg",
+  "treated": {
+   "src": "/photos/t-van-assche-beats-hijikata-paris-masters-first-semi-final-she-1280.jpg",
+   "src800": "/photos/t-van-assche-beats-hijikata-paris-masters-first-semi-final-she-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-high-court-strikes-down-bc-quota-local-bodies",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+   ],
+   "credit": "Photos: si.robi / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "maaya-rajeshwaran-loses-chennai-open-quarter-final-montgomery-tjen-semi": {
   "id": "i-maaya-rajeshwaran-loses-chennai-open-quarter-final-montgomery-tjen-semi",
@@ -31281,7 +31611,18 @@
   "licence": "GODL-India",
   "alt": "Justice JB Pardiwala of the Supreme Court (file photo)",
   "alt_hi": "सुप्रीम कोर्ट के जस्टिस जेबी पारदीवाला (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Pardiwala.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Pardiwala.jpg",
+  "treated": {
+   "src": "/photos/t-sc-delhi-ncr-women-safety-union-reply-november-23-1280.jpg",
+   "src800": "/photos/t-sc-delhi-ncr-women-safety-union-reply-november-23-640.jpg",
+   "cutout": true,
+   "with": [
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling",
+    "cjp-leaders-withdraw-delhi-hc-custody-plea"
+   ],
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons; Kamlesh.legalaid / Wikimedia Commons"
+  }
  },
  "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209": {
   "id": "o-calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
@@ -31293,7 +31634,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Calcutta High Court building in Kolkata (file photo)",
   "alt_hi": "कोलकाता में कलकत्ता हाईकोर्ट की इमारत (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Calcutta_ei05-02.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Calcutta_ei05-02.jpg",
+  "treated": {
+   "src": "/photos/t-calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-20-1280.jpg",
+   "src800": "/photos/t-calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-20-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1",
+    "azam-khan-supreme-court-ed-arrest-plea-cji-this-week--bg"
+   ],
+   "credit": "Photos: G41rn8 / Wikimedia Commons; Pinakpani / Wikimedia Commons; Zealaski / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
  },
  "stephen-miller-replaces-susie-wiles-white-house-chief-of-staff": {
   "id": "o-stephen-miller-replaces-susie-wiles-white-house-chief-of-staff",
@@ -31305,7 +31657,18 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Stephen Miller, named White House chief of staff (file photo)",
   "alt_hi": "व्हाइट हाउस चीफ ऑफ स्टाफ बनाए गए स्टीफन मिलर (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Stephen_miller_june_2016_cropped_corrected.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Stephen_miller_june_2016_cropped_corrected.jpg",
+  "treated": {
+   "src": "/photos/t-stephen-miller-replaces-susie-wiles-white-house-chief-of-sta-1280.jpg",
+   "src800": "/photos/t-stephen-miller-replaces-susie-wiles-white-house-chief-of-sta-640.jpg",
+   "cutout": true,
+   "with": [
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "imf-raises-india-growth-forecast-7-per-cent",
+    "markets-week-ahead-us-midterms-itc-sbi-results-november-2"
+   ],
+   "credit": "Photos: Gage Skidmore / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; APK / Wikimedia Commons; Noclip / Wikimedia Commons"
+  }
  },
  "cji-surya-kant-ambedkar-constitution-continuing-responsibility": {
   "id": "i-cji-surya-kant-ambedkar-constitution-continuing-responsibility",
@@ -31489,7 +31852,18 @@
   "licence": "GODL-India",
   "alt": "Chief Minister Suvendu Adhikari with Prime Minister Narendra Modi at a public event (file photo)",
   "alt_hi": "एक सार्वजनिक कार्यक्रम में प्रधानमंत्री नरेंद्र मोदी के साथ मुख्यमंत्री शुभेंदु अधिकारी (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_with_the_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_with_the_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari.jpg",
+  "treated": {
+   "src": "/photos/t-suvendu-adhikari-caa-citizenship-december-31-nadia-1280.jpg",
+   "src800": "/photos/t-suvendu-adhikari-caa-citizenship-december-31-nadia-640.jpg",
+   "cutout": false,
+   "with": [
+    "andhra-high-court-strikes-down-bc-quota-local-bodies",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+   ],
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "mannan-arrested-madurai-tvk-mla-offer-released-bond": {
   "id": "i-mannan-arrested-madurai-tvk-mla-offer-released-bond",
@@ -31710,7 +32084,18 @@
   "licence": "CC BY 4.0",
   "alt": "Christopher Luxon (file photo)",
   "alt_hi": "क्रिस्टोफ़र लक्सन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:LUXON,_Christopher_-_Botany_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:LUXON,_Christopher_-_Botany_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-nz-election-polling-day-luxon-hipkins-polls-close-7pm-1280.jpg",
+   "src800": "/photos/t-nz-election-polling-day-luxon-hipkins-polls-close-7pm-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1",
+    "andhra-parishad-polls-four-voters-two-poll-staff-die"
+   ],
+   "credit": "Photos: New Zealand National Party / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti": {
   "id": "o-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
@@ -31723,7 +32108,18 @@
   "licence": "GODL-India",
   "alt": "C. P. Radhakrishnan (file photo)",
   "alt_hi": "सी. पी. राधाकृष्णन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg",
+  "treated": {
+   "src": "/photos/t-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoo-1280.jpg",
+   "src800": "/photos/t-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoo-640.jpg",
+   "cutout": true,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "cdot-sixth-centre-of-excellence-iit-bhu-6g",
+    "five-states-head-for-2027-assembly-polls"
+   ],
+   "credit": "Photos: Vice President's Secretariat / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Rosehubwiki / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons"
+  }
  },
  "sebi-settlement-regulations-2026-in-force-online-facility-fees": {
   "id": "o-sebi-settlement-regulations-2026-in-force-online-facility-fees",
@@ -31736,7 +32132,18 @@
   "licence": "GODL-India",
   "alt": "Tuhin Kanta Pandey (file photo)",
   "alt_hi": "तुहिन कांत पांडे (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Tuhin_Kanta_Pandey.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Tuhin_Kanta_Pandey.jpg",
+  "treated": {
+   "src": "/photos/t-sebi-settlement-regulations-2026-in-force-online-facility-fe-1280.jpg",
+   "src800": "/photos/t-sebi-settlement-regulations-2026-in-force-online-facility-fe-640.jpg",
+   "cutout": true,
+   "with": [
+    "bajaj-finance-results-today-29-per-cent-profit-estimate",
+    "fpi-outflows-record-3-trillion-2026",
+    "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
+   ],
+   "credit": "Photos: Ministry of Finance, Government of India / Wikimedia Commons; zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
+  }
  },
  "rahul-gandhi-asks-amit-shah-to-convince-modi-open-debate-sir": {
   "id": "o-rahul-gandhi-asks-amit-shah-to-convince-modi-open-debate-sir",
@@ -31775,7 +32182,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "WHO Director-General Tedros Adhanom Ghebreyesus speaking to reporters (file photo)",
   "alt_hi": "पत्रकारों से बात करते WHO महानिदेशक टेड्रोस अधनोम घेब्रेयसस (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tedros_Adhanom_Ghebreyesus_(44834995345).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Tedros_Adhanom_Ghebreyesus_(44834995345).jpg",
+  "treated": {
+   "src": "/photos/t-who-six-climate-health-actions-1-6-million-lives-cop31-1280.jpg",
+   "src800": "/photos/t-who-six-climate-health-actions-1-6-million-lives-cop31-640.jpg",
+   "cutout": true,
+   "with": [
+    "adani-green-q2-profit-rises-16-per-cent-747-crore",
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
+   ],
+   "credit": "Photos: MONUSCO Photos / Wikimedia Commons; Financial Express / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons; Tobi Kellner / Wikimedia Commons"
+  }
  },
  "nz-election-polling-day-luxon-hipkins-polls-close-7pm--p1": {
   "id": "o-nz-election-polling-day-luxon-hipkins-polls-close-7pm--p1",
@@ -31887,7 +32305,18 @@
   "licence": "GODL-India",
   "alt": "Rajnath Singh (file photo)",
   "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg",
+  "treated": {
+   "src": "/photos/t-rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sund-1280.jpg",
+   "src800": "/photos/t-rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sund-640.jpg",
+   "cutout": true,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "navy-commissions-ins-mangrol-anti-submarine-craft"
+   ],
+   "credit": "Photos: Ministry of Defence / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Rameshng / Wikimedia Commons; Ranjithsiji / Wikimedia Commons"
+  }
  },
  "modi-diwali-greetings-citizens-viksit-bharat": {
   "id": "o-modi-diwali-greetings-citizens-viksit-bharat",
@@ -31900,7 +32329,18 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-modi-diwali-greetings-citizens-viksit-bharat-1280.jpg",
+   "src800": "/photos/t-modi-diwali-greetings-citizens-viksit-bharat-640.jpg",
+   "cutout": true,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+   ],
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "nz-early-results-national-labour-neck-and-neck-opportunity-clears-5": {
   "id": "o-nz-early-results-national-labour-neck-and-neck-opportunity-clears-5",
@@ -32068,7 +32508,18 @@
   "licence": "CC BY 2.0",
   "alt": "A flooded street in Chennai after heavy monsoon rain (file photo)",
   "alt_hi": "भारी मानसूनी बारिश के बाद चेन्नई की पानी भरी सड़क (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_01_(3058208937).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_01_(3058208937).jpg",
+  "treated": {
+   "src": "/photos/t-tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd-1280.jpg",
+   "src800": "/photos/t-tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd-640.jpg",
+   "cutout": false,
+   "with": [
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+    "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+    "puducherry-karaikal-dindigul-schools-shut-cyclone-signal"
+   ],
+   "credit": "Photos: McKay Savage from London, UK / Wikimedia Commons; Vijayingarsal / Wikimedia Commons; TamizhanEditor / Wikimedia Commons"
+  }
  },
  "mohammed-shami-retires-test-cricket-229-wickets-64-tests": {
   "id": "o-mohammed-shami-retires-test-cricket-229-wickets-64-tests",
@@ -32081,7 +32532,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Mohammed Shami at India training at the SCG, 2015 (file photo)",
   "alt_hi": "2015 में एससीजी पर भारतीय टीम के अभ्यास में मोहम्मद शमी (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Shami_(Indian_Cricket_team_training_SCG_2015).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Shami_(Indian_Cricket_team_training_SCG_2015).jpg",
+  "treated": {
+   "src": "/photos/t-mohammed-shami-retires-test-cricket-229-wickets-64-tests-1280.jpg",
+   "src800": "/photos/t-mohammed-shami-retires-test-cricket-229-wickets-64-tests-640.jpg",
+   "cutout": true,
+   "with": [
+    "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji--p1",
+    "east-bengal-thrash-churchill-brothers-isl-opener-bipin-singh",
+    "glenn-maxwell-retires-international-cricket-38--bg"
+   ],
+   "credit": "Photos: NAPARAZZI / Wikimedia Commons; BibhasCD / Wikimedia Commons; Arnabsaha2212 / Wikimedia Commons; Anand Desai / Wikimedia Commons"
+  }
  },
  "andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm": {
   "id": "o-andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-pm",
@@ -32094,7 +32556,18 @@
   "licence": "GODL-India",
   "alt": "N. Chandrababu Naidu, now Andhra Pradesh Chief Minister, calls on Prime Minister Narendra Modi (file photo)",
   "alt_hi": "आंध्र प्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू प्रधानमंत्री नरेंद्र मोदी से मिलते हुए (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Andhra_CM_Chandrababu_Naidu_meets_PM_Modi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Andhra_CM_Chandrababu_Naidu_meets_PM_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-p-1280.jpg",
+   "src800": "/photos/t-andhra-parishad-alliance-early-lead-zptc-mptc-tallies-1-40-p-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
+    "andhra-parishad-polls-four-voters-two-poll-staff-die",
+    "alappuzha-toddler-death-suspected-malnutrition"
+   ],
+   "credit": "Photos: Prime Minister's Office, Government of India / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Ganesh Mohan T / Wikimedia Commons"
+  }
  },
  "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis": {
   "id": "i-karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis",
@@ -32451,7 +32924,18 @@
   "licence": "CC BY 1.0",
   "alt": "Mamata Banerjee (file photo)",
   "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Mamata_Banerjee.jpg",
+  "treated": {
+   "src": "/photos/t-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-1280.jpg",
+   "src800": "/photos/t-mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-640.jpg",
+   "cutout": true,
+   "with": [
+    "azam-khan-supreme-court-ed-arrest-plea-cji-this-week--bg",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg",
+    "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct"
+   ],
+   "credit": "Photos: Chief Minister's Office, Government of West Bengal / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Pinakpani / Wikimedia Commons; Zealaski / Wikimedia Commons"
+  }
  },
  "up-da-hike-3-per-cent-63-per-cent-state-employees-arrears": {
   "id": "i-up-da-hike-3-per-cent-63-per-cent-state-employees-arrears",
@@ -32679,7 +33163,18 @@
   "licence": "PIB (free reproduction with credit)",
   "alt": "Union Home Minister Amit Shah is welcomed at the Gujarat law and order review in Ahmedabad on November 7, 2026",
   "alt_hi": "7 नवंबर 2026 को अहमदाबाद में गुजरात की कानून-व्यवस्था समीक्षा बैठक में केंद्रीय गृह मंत्री अमित शाह का स्वागत",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334011"
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334011",
+  "treated": {
+   "src": "/photos/t-amit-shah-ahmedabad-gujarat-security-review-drug-free-india--1280.jpg",
+   "src800": "/photos/t-amit-shah-ahmedabad-gujarat-security-review-drug-free-india--640.jpg",
+   "cutout": true,
+   "with": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--p2",
+    "gst-collections-october-2026-2-31-lakh-crore-imports",
+    "alappuzha-toddler-death-suspected-malnutrition"
+   ],
+   "credit": "Photos: PIB; Colin Cooke Photo / Wikimedia Commons; Vijay8808 / Wikimedia Commons; Ganesh Mohan T / Wikimedia Commons"
+  }
  },
  "ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti": {
   "id": "i-ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti",
@@ -32992,7 +33487,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Yashasvi Jaiswal batting (file photo)",
   "alt_hi": "बल्लेबाज़ी करते यशस्वी जायसवाल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Yashasvi_Jaiswal_2.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Yashasvi_Jaiswal_2.jpg",
+  "treated": {
+   "src": "/photos/t-jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day--1280.jpg",
+   "src800": "/photos/t-jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day--640.jpg",
+   "cutout": true,
+   "with": [
+    "adani-green-q2-profit-rises-16-per-cent-747-crore",
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
+   ],
+   "credit": "Photos: Dee03 / Wikimedia Commons; Financial Express / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons; Tobi Kellner / Wikimedia Commons"
+  }
  },
  "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu": {
   "id": "o-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
@@ -33005,7 +33511,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Akhilesh Yadav (file photo)",
   "alt_hi": "अखिलेश यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav_(14335961811).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav_(14335961811).jpg",
+  "treated": {
+   "src": "/photos/t-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-1280.jpg",
+   "src800": "/photos/t-akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1",
+    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+    "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states"
+   ],
+   "credit": "Photos: Global Panorama / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Al Jazeera English / Wikimedia Commons; Nilanjan Chowdhury / Wikimedia Commons"
+  }
  },
  "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm": {
   "id": "i-qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
@@ -33104,7 +33621,18 @@
   "licence": "CC BY-SA 2.0",
   "alt": "An IndiGo Airbus A320neo in flight (file photo)",
   "alt_hi": "उड़ान भरता इंडिगो का एयरबस ए320नियो विमान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:IndiGo_Airbus_A320neo_F-WWDG_(to_VT-ITI)_(28915135713).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:IndiGo_Airbus_A320neo_F-WWDG_(to_VT-ITI)_(28915135713).jpg",
+  "treated": {
+   "src": "/photos/t-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-1280.jpg",
+   "src800": "/photos/t-indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns-640.jpg",
+   "cutout": false,
+   "with": [
+    "austrian-airlines-tel-aviv-vienna-flight-diverted-sofia-bomb-threat",
+    "modi-ladakh-3350-crore-projects",
+    "monday-open-brent-eases-us-futures-rise-infosys-test"
+   ],
+   "credit": "Photos: BriYYZ from Toronto, Canada / Wikimedia Commons; Matti Blume / Wikimedia Commons; Saippuakauppias / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
+  }
  },
  "jajpur-nalipur-house-fire-four-of-family-dead-odisha": {
   "id": "i-jajpur-nalipur-house-fire-four-of-family-dead-odisha",
@@ -33160,7 +33688,18 @@
   "alt": "West Bengal Chief Minister Suvendu Adhikari and the fenced India-Bangladesh border (file photos)",
   "alt_hi": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी और भारत-बांग्लादेश सीमा पर बाड़ (फ़ाइल फ़ोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr-1280.jpg",
+   "src800": "/photos/t-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr-640.jpg",
+   "cutout": true,
+   "with": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel"
+   ],
+   "credit": "Photos: মঞ্জুর আলম খান / Wikimedia Commons; Arupparia / Wikimedia Commons; U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Rameshng / Wikimedia Commons"
+  }
  },
  "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday": {
   "id": "i-adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
@@ -33485,7 +34024,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Law Minister Arjun Ram Meghwal (centre) (file photo)",
   "alt_hi": "कानून मंत्री अर्जुन राम मेघवाल (बीच में) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shilp_guru_gopal_prasad_sharma_with_central_minister_shree_Arjun_Ram_Meghwal_ji.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shilp_guru_gopal_prasad_sharma_with_central_minister_shree_Arjun_Ram_Meghwal_ji.jpg",
+  "treated": {
+   "src": "/photos/t-meghwal-diwali-bsf-bikaner-soldiers-family-1280.jpg",
+   "src800": "/photos/t-meghwal-diwali-bsf-bikaner-soldiers-family-640.jpg",
+   "cutout": false,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "navy-commissions-ins-mangrol-anti-submarine-craft"
+   ],
+   "credit": "Photos: Abhi009kk / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Rameshng / Wikimedia Commons; Ranjithsiji / Wikimedia Commons"
+  }
  },
  "modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named": {
   "id": "i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named",
@@ -33641,7 +34191,18 @@
   "alt": "Uttar Pradesh Chief Minister Yogi Adityanath and the Ram Mandir in Ayodhya (file photos)",
   "alt_hi": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ और अयोध्या का राम मंदिर (फाइल फोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-yogi-diwali-nishad-settlement-ayodhya-bullets-remark-1280.jpg",
+   "src800": "/photos/t-yogi-diwali-nishad-settlement-ayodhya-bullets-remark-640.jpg",
+   "cutout": true,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "cdot-sixth-centre-of-excellence-iit-bhu-6g",
+    "five-states-head-for-2027-assembly-polls"
+   ],
+   "credit": "Photos: NabilSyed / Wikimedia Commons; Narendra Modi / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Rosehubwiki / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons"
+  }
  },
  "delhi-aqi-383-diwali-morning-12-stations-severe": {
   "id": "i-delhi-aqi-383-diwali-morning-12-stations-severe",
@@ -33826,7 +34387,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Devendra Fadnavis (file photo)",
   "alt_hi": "देवेंद्र फडणवीस (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg",
+  "treated": {
+   "src": "/photos/t-fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-process-1280.jpg",
+   "src800": "/photos/t-fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-process-640.jpg",
+   "cutout": true,
+   "with": [
+    "agrivoltaics-world-conference-delhi-36-projects-potential",
+    "chouhan-women-farmers-recognition-sanchi",
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll"
+   ],
+   "credit": "Photos: Correctinfo86 / Wikimedia Commons; Tobi Kellner / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons; Daniele Colucci / Wikimedia Commons"
+  }
  },
  "modi-bastar-cobra-karanpur-diwali-naxalism-won": {
   "id": "v-modi-bastar-cobra-karanpur-diwali-naxalism-won",
@@ -34153,7 +34725,18 @@
   "licence": "PIB (free reproduction with credit)",
   "alt": "Defence Minister Rajnath Singh addresses soldiers at Sherathang, Sikkim, on November 8, 2026",
   "alt_hi": "8 नवंबर 2026 को सिक्किम के शेरथांग में सैनिकों को संबोधित करते रक्षा मंत्री राजनाथ सिंह",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334152"
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334152",
+  "treated": {
+   "src": "/photos/t-rajnath-singh-sherathang-soldiers-brightest-lights-diwali-1280.jpg",
+   "src800": "/photos/t-rajnath-singh-sherathang-soldiers-brightest-lights-diwali-640.jpg",
+   "cutout": true,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "navy-commissions-ins-mangrol-anti-submarine-craft"
+   ],
+   "credit": "Photos: PIB; Daniele Colucci / Wikimedia Commons; Rameshng / Wikimedia Commons; Ranjithsiji / Wikimedia Commons"
+  }
  },
  "modi-advani-99th-birthday-nation-first-foundation": {
   "id": "i-modi-advani-99th-birthday-nation-first-foundation",
@@ -34338,7 +34921,18 @@
   "licence": "GODL-India",
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg",
+  "treated": {
+   "src": "/photos/t-amit-shah-first-diwali-five-decades-naxalism-freed-post-1280.jpg",
+   "src800": "/photos/t-amit-shah-first-diwali-five-decades-naxalism-freed-post-640.jpg",
+   "cutout": true,
+   "with": [
+    "bills-in-parliament-tracker",
+    "how-a-bill-becomes-law-in-india",
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll"
+   ],
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons; कृष्ण कान्त शर्मा / Wikimedia Commons; Daniele Colucci / Wikimedia Commons"
+  }
  },
  "modi-first-diwali-every-district-free-of-naxalism-claim": {
   "id": "i-modi-first-diwali-every-district-free-of-naxalism-claim",
@@ -34523,7 +35117,18 @@
   "alt": "Prime Minister Narendra Modi and Congress leader Jairam Ramesh (file photos)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और कांग्रेस नेता जयराम रमेश (फ़ाइल फ़ोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals--1280.jpg",
+   "src800": "/photos/t-modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals--640.jpg",
+   "cutout": true,
+   "with": [
+    "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "navy-commissions-ins-mangrol-anti-submarine-craft"
+   ],
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; Yann Forget from India / Wikimedia Commons; Daniele Colucci / Wikimedia Commons; Rameshng / Wikimedia Commons; Ranjithsiji / Wikimedia Commons"
+  }
  },
  "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall": {
   "id": "o-rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
@@ -34536,7 +35141,18 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Marco Rubio (file photo)",
   "alt_hi": "मार्को रुबियो (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_by_Gage_Skidmore_10.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_by_Gage_Skidmore_10.jpg",
+  "treated": {
+   "src": "/photos/t-rubio-calls-iran-demands-unacceptable-no-breakthrough-talks--1280.jpg",
+   "src800": "/photos/t-rubio-calls-iran-demands-unacceptable-no-breakthrough-talks--640.jpg",
+   "cutout": true,
+   "with": [
+    "bills-in-parliament-tracker",
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "delimitation"
+   ],
+   "credit": "Photos: Gage Skidmore / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Survey of India / Wikimedia Commons"
+  }
  },
  "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three": {
   "id": "o-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
@@ -34549,7 +35165,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Smog over Delhi's skyline (file photo)",
   "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Delhi_air_pollution_2019.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_air_pollution_2019.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-1280.jpg",
+   "src800": "/photos/t-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-640.jpg",
+   "cutout": false,
+   "with": [
+    "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing",
+    "green-crackers-order-needs-enforcement-not-another-diwali-gamble",
+    "cabinet-approves-integrated-transport-logistics-authority"
+   ],
+   "credit": "Photos: Prami.ap90 / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Saankav / Wikimedia Commons"
+  }
  },
  "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18": {
   "id": "o-nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
@@ -34562,7 +35189,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Jensen Huang (file photo)",
   "alt_hi": "जेन्सेन हुआंग (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg",
+  "treated": {
+   "src": "/photos/t-nvidia-board-investigation-jensen-huang-megaspeed-congress-b-1280.jpg",
+   "src800": "/photos/t-nvidia-board-investigation-jensen-huang-megaspeed-congress-b-640.jpg",
+   "cutout": true,
+   "with": [
+    "aditya-l1-velc-asymmetric-cme-expansion-iia--p2",
+    "after-yes-bank-ruling-rbi-must-own-investor-protection",
+    "bajaj-finance-q2-results-october-19"
+   ],
+   "credit": "Photos: Anderseidesvik / Wikimedia Commons; SAHAYA RAJAN S / Wikimedia Commons; Unknown / Wikimedia Commons; ChiK / Wikimedia Commons"
+  }
  },
  "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices": {
   "id": "i-oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
@@ -34717,7 +35355,18 @@
   "licence": "CC BY 4.0",
   "alt": "COP31 President Murat Kurum, Turkey's Environment Minister, at a meeting (file photo)",
   "alt_hi": "कॉप31 के अध्यक्ष और तुर्की के पर्यावरण मंत्री मुरात कुरुम एक बैठक में (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg",
+  "treated": {
+   "src": "/photos/t-cop31-opens-antalya-turkey-australia-negotiations-india-posi-1280.jpg",
+   "src800": "/photos/t-cop31-opens-antalya-turkey-australia-negotiations-india-posi-640.jpg",
+   "cutout": true,
+   "with": [
+    "adani-green-q2-profit-rises-16-per-cent-747-crore",
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
+   ],
+   "credit": "Photos: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons; Financial Express / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons; Tobi Kellner / Wikimedia Commons"
+  }
  },
  "anuj-shrivatri-india-100th-grandmaster-asean-plus-open": {
   "id": "i-anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
@@ -34860,7 +35509,18 @@
   "licence": "CC0",
   "alt": "Congress MP Gaurav Gogoi (file photo)",
   "alt_hi": "कांग्रेस सांसद गौरव गोगोई (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Gaurav_Gogoi_2024.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Gaurav_Gogoi_2024.jpg",
+  "treated": {
+   "src": "/photos/t-gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitatio-1280.jpg",
+   "src800": "/photos/t-gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitatio-640.jpg",
+   "cutout": true,
+   "with": [
+    "eci-form-6-press-note-taken-down-claim",
+    "elections-2027",
+    "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7--p1"
+   ],
+   "credit": "Photos: Gaurav Gogoi / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data": {
   "id": "o-maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
