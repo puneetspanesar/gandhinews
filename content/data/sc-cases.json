@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-07",
+    "as_of": "2026-11-09",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -848,6 +848,33 @@
         }
       ],
       "notes": "6 Nov hearing rests on a single source (LawBeat). Case registered as a suo motu petition at the end of October 2026. Details from the news desk's story of 6 Nov 2026."
+    },
+    {
+      "id": "delhi-ncr-women-safety-suo-motu",
+      "case": "In re: safety of women and children in Delhi-NCR (suo motu)",
+      "issue": "Whether Delhi-NCR's public spaces and public transport are safe for women and girls, after the court took up reports of serious crimes on its own on 28 Sep 2026.",
+      "bench_size": 2,
+      "bench": "Justices J B Pardiwala and Manmohan (6 Nov hearing); the Sep and Oct orders were by Justices Pardiwala and K Vinod Chandran",
+      "status": "pending",
+      "status_text": "Centre's reply due 23 Nov 2026; amicus to study it",
+      "last_date": "2026-11-06",
+      "last_event": "Extended the Centre's deadline from 6 Nov to 23 Nov after Solicitor General Tushar Mehta said the draft affidavits did not satisfy him. Justice Pardiwala: the reply should be meaningful, or the whole exercise will be futile.",
+      "next_step": "Centre's reply by 23 Nov 2026; listed on 2 Dec 2026 after the amicus, Liz Mathew, has had a week with it.",
+      "sources": [
+        {
+          "title": "Supreme Court Grants Union Government Time To File Meaningful Reply (Delhi Women Safety)",
+          "publisher": "LiveLaw",
+          "date": "2026-11-06",
+          "url": "https://www.livelaw.in/news-updates/supreme-court-grants-union-government-file-meaningful-reply-557673"
+        },
+        {
+          "title": "Supreme Court Takes Suo Motu Cognizance of Crimes Against Women and Children; Directs 4-Week Safety Audit Across Delhi-NCR",
+          "publisher": "SCC Online",
+          "date": "2026-09-29",
+          "url": "https://www.scconline.com/blog/post/2026/09/29/supreme-court-delhi-ncr-women-children-safety-directions/"
+        }
+      ],
+      "notes": "6 Nov hearing rests on a single source (LiveLaw). Details from the news desk's story of 7 Nov 2026."
     }
   ]
 }
