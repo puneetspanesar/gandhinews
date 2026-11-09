@@ -7,7 +7,7 @@ section: world
 format_label: "दुनिया / यूक्रेन"
 topics: []
 title: "मोदी ने ज़ेलेंस्की से की बात, कहा यूक्रेन में शांति के लिए भारत हर संभव योगदान को तैयार"
-standfirst: "प्रधानमंत्री कार्यालय के अनुसार दोनों नेताओं ने सोमवार को फोन पर बात की, अबू धाबी में अमेरिका, रूस और यूक्रेन की वार्ता से ठीक पहले। मोदी ने संवाद और कूटनीति पर ज़ोर दिया।"
+standfirst: "प्रधानमंत्री नरेंद्र मोदी और राष्ट्रपति वोलोदिमिर ज़ेलेंस्की ने सोमवार को फोन पर बात की, अबू धाबी में अमेरिका, रूस और यूक्रेन की वार्ता शुरू होने से एक दिन पहले। मोदी ने संवाद और कूटनीति पर ज़ोर दिया।"
 published: 2026-11-09T20:16:00+05:30
 location: नई दिल्ली
 keyPoints:
@@ -17,8 +17,8 @@ keyPoints:
 hero:
   need: "नरेंद्र मोदी और वोलोदिमिर ज़ेलेंस्की, साथ-साथ"
   suggested_source: "Volodymyr Zelenskyy"
-  subjects: ["Volodymyr Zelenskyy"]
-  alt: "यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेंस्की (फाइल फोटो)"
+  subjects: ["Narendra Modi", "Volodymyr Zelenskyy"]
+  alt: "फ्रांस में जी7 शिखर सम्मेलन में प्रधानमंत्री नरेंद्र मोदी और यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)"
   overlay:
     value: "मोदी का ज़ेलेंस्की से: संवाद और कूटनीति"
 related: [india-envoy-vinay-kumar-russia-ukraine-dialogue-recruitment, putin-zelenskyy-back-three-way-talks-freeze-front-line, zelenskyy-us-proposes-trilateral-putin-summit-december, trump-xi-putin-apec-shenzhen-meeting-china-in-contact]

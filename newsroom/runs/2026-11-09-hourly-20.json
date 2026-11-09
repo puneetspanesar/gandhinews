@@ -1,0 +1,17 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-09T20:07:05+05:30",
+ "end": "2026-11-09T20:42:24+05:30",
+ "summary": "Modi-Zelenskyy call leads; India-EU review; Hazaribagh crash",
+ "new": [
+  "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+  "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+  "modi-zelenskyy-phone-call-india-peace-efforts"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "modi-zelenskyy-phone-call-india-peace-efforts"
+}

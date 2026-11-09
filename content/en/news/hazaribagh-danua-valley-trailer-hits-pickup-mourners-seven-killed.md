@@ -36,7 +36,7 @@ infographic:
   source: "Hazaribagh police and hospital, November 9, 2026"
 related: [jharkhand-khunti-trailer-crowd-seven-killed]
 seo:
-  description: "Seven people died and more than a dozen were hurt on November 9, 2026 when a trailer hit a van carrying a body to Varanasi near Danua valley, Hazaribagh."
+  description: "Seven people died and more than a dozen were hurt on November 9, 2026, when a trailer hit a van carrying a body to Varanasi near Danua valley, Hazaribagh."
 sources:
   - title: "Seven killed, over a dozen injured after speeding trailer rams into vehicle in Jharkhand's Hazaribagh (ANI, updated 5:01 pm IST)"
     publisher: "ANI"

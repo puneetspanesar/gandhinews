@@ -6,7 +6,7 @@ section: world
 format_label: "World / Ukraine"
 topics: []
 title: "Modi speaks to Zelenskyy, says India ready to contribute to peace in Ukraine"
-standfirst: "The Prime Minister's Office said the two leaders spoke by telephone on Monday evening, days before US, Russia and Ukraine talks are due in Abu Dhabi. Modi reaffirmed dialogue and diplomacy."
+standfirst: "Prime Minister Narendra Modi and President Volodymyr Zelenskyy spoke by telephone on Monday, a day before US, Russia and Ukraine talks are reported to begin in Abu Dhabi. Modi reaffirmed dialogue and diplomacy."
 published: 2026-11-09T20:16:00+05:30
 location: New Delhi
 keyPoints:
@@ -16,8 +16,8 @@ keyPoints:
 hero:
   need: "Narendra Modi and Volodymyr Zelenskyy, side by side"
   suggested_source: "Volodymyr Zelenskyy"
-  subjects: ["Volodymyr Zelenskyy"]
-  alt: "Ukrainian President Volodymyr Zelenskyy (file photo)"
+  subjects: ["Narendra Modi", "Volodymyr Zelenskyy"]
+  alt: "Prime Minister Narendra Modi with Ukrainian President Volodymyr Zelenskyy at the G7 summit in France (file photo)"
   overlay:
     value: "Modi to Zelenskyy: dialogue and diplomacy"
 related: [india-envoy-vinay-kumar-russia-ukraine-dialogue-recruitment, putin-zelenskyy-back-three-way-talks-freeze-front-line, zelenskyy-us-proposes-trilateral-putin-summit-december, trump-xi-putin-apec-shenzhen-meeting-china-in-contact]

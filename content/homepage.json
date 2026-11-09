@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+    "id": "modi-zelenskyy-phone-call-india-peace-efforts",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "World / Ukraine",
+        "hi": "दुनिया / यूक्रेन"
       },
       "value": {
-        "en": "Trump: new Iran strikes 'highly unlikely'",
-        "hi": "ट्रंप: ईरान पर नए हमले 'बेहद असंभव'"
+        "en": "Modi to Zelenskyy: dialogue and diplomacy",
+        "hi": "मोदी का ज़ेलेंस्की से: संवाद और कूटनीति"
       },
       "text": {
         "en": "",
@@ -18,20 +18,42 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
       "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Ukraine",
+        "hi": "यूक्रेन"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
+          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
+        }
+      },
+      {
+        "link": "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+        "lead": {
+          "en": "Jharkhand:",
+          "hi": "झारखंड:"
+        },
+        "text": {
+          "en": "Seven killed in Hazaribagh as trailer rams pick-up van carrying a body to Varanasi",
+          "hi": "हजारीबाग में वाराणसी शव ले जा रही पिकअप वैन को ट्रेलर ने मारी टक्कर, सात की मौत"
+        }
+      },
       {
         "link": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
         "lead": {
@@ -55,69 +77,47 @@
         }
       },
       {
-        "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
-          "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
+          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
+          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
         }
       },
       {
-        "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Internal security:",
+          "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Trump expects to meet Xi and Putin in Shenzhen next week; China says it is in contact",
-          "hi": "ट्रंप को अगले हफ्ते शेनझेन में शी और पुतिन से मुलाकात की उम्मीद, चीन बोला: संपर्क में हैं"
+          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
+          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
         }
       },
       {
-        "link": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
+          "en": "Internal security:",
+          "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Delhi minister Kapil Mishra asks Mann to file FIRs over what he says were 1,200 Diwali stubble fires in Punjab",
-          "hi": "दिल्ली के मंत्री कपिल मिश्रा ने पंजाब में दिवाली पर उनके मुताबिक 1,200 पराली आग पर मान से एफआईआर मांगी"
+          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
+          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
         }
       },
       {
-        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
         "lead": {
-          "en": "Congress:",
-          "hi": "कांग्रेस:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
-          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
-        }
-      },
-      {
-        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "lead": {
-          "en": "Technology:",
-          "hi": "तकनीक:"
-        },
-        "text": {
-          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
-          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
-        }
-      },
-      {
-        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
-        },
-        "text": {
-          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
-          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
+          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
+          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
         }
       }
     ]
@@ -185,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+      "id": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
       "also": []
     },
     "list": [
-      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
+      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+      "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+      "e20-petrol-explained-ethanol-blend-karnataka-row"
     ],
     "also": [
-      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-      "nz-mmp-explained-overhang-special-votes-130-seats"
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ]
   },
   "startHere": [
@@ -372,14 +372,14 @@
       },
       "list": [
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "modi-advani-99th-birthday-nation-first-foundation"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
     {
       "section": "economy",
-      "lead": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+      "lead": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,18 +390,18 @@
         ]
       },
       "list": [
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
+        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires"
       ]
     },
     {
       "section": "states",
-      "lead": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+      "lead": "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
       "list": [
+        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
         "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three"
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
       ]
     },
     {
@@ -425,11 +425,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+      "lead": "modi-zelenskyy-phone-call-india-peace-efforts",
       "list": [
-        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+        "japan-aichi-shizuoka-earthquake-57-22-injured"
       ]
     },
     {
@@ -453,18 +453,6 @@
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "India A v New Zealand A, 3rd unofficial Test, day three, Lincoln",
-        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, तीसरा दिन, लिंकन"
-      },
-      "link": "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -524,23 +512,21 @@
         "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
       },
       "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
+        "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
+      },
+      "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T10:45:10+05:30",
-      "ids": [
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
-      ]
-    },
     {
       "at": "2026-11-09T12:33:48+05:30",
       "ids": [
@@ -642,6 +628,20 @@
         "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+      ]
+    },
+    {
+      "at": "2026-11-09T20:38:30+05:30",
+      "ids": [
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "e20-ethanol-row-needs-joint-testing-and-published-results"
       ]
     }
   ],
