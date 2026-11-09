@@ -22,7 +22,7 @@ hero:
     value: "A cheaper barrel is not a plan"
 related: [rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall, india-crude-import-bill-90-6-billion-april-september, india-gulf-war-exposure-needs-a-plan-not-hope, what-hormuz-attacks-mean-for-indian-fuel-prices]
 infographic:
-  kicker: "Our view: oil and fuel prices"
+  kicker: "Our view: fuel prices"
   headline: "A cheaper barrel is not a plan"
   dek: "Oil is down 16% on hope while retail petrol and diesel stay frozen"
   motif: gas-pump
@@ -64,7 +64,7 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-On Friday Brent crude ended the week near **$98 a barrel**, 16% below its October 30 peak of $118. On Sunday Secretary of State Marco Rubio called Iran's demands in the peace talks "outrageous and ridiculous" and said the negotiations "haven't been very productive". Tehran's foreign minister said the mediators had stopped travelling. Oil fell on the hope of a deal. The deal is not there yet.
+On Friday Brent crude ended the week near **$98 a barrel**, 16% below its October 30 peak of $118. On Sunday Secretary of State Marco Rubio called Iran's demands in the peace talks "outrageous and ridiculous" and said of the negotiations that "it hasn't been very productive". Tehran's foreign minister said the mediators had stopped travelling. Oil fell on the hope of a deal. The deal is not there yet.
 
 India's policy should not depend on it.
 
@@ -103,5 +103,5 @@ Fourth, back the one thing that would end the problem. India speaks to both Wash
 A fall in oil on hope should be treated as a gift of time. The test is what the government does with it.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"$98","label":"Brent a barrel on Friday, 16% below the October 30 peak of $118"},{"value":"₹570 cr","label":"approximate daily loss of state fuel retailers in October, per ThePrint"},{"value":"$90.6 bn","label":"India's crude import bill in April-September 2026, up 46% on a year earlier"}]}
+{"title":"The reporting behind this view","items":[{"value":"$98","label":"Brent a barrel on Friday, 16% below the October 30 peak of $118"},{"value":"₹570 cr","label":"approximate daily loss of state fuel retailers in October, including cooking gas"},{"value":"$90.6 bn","label":"India's crude import bill in April-September 2026, up 46% on a year earlier"}]}
 ```

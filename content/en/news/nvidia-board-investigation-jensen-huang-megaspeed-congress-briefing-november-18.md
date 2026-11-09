@@ -20,9 +20,9 @@ hero:
   alt: "Nvidia founder and CEO Jensen Huang (file photo)"
   overlay:
     value: "Nvidia opens probe into CEO Huang"
-related: [nvidia-gtc-berlin-openshell-agent-safety-dsx-pod, wall-street-close-dow-1833-nasdaq-correction-chip-rout]
+related: [wall-street-close-dow-1833-nasdaq-correction-chip-rout, chip-stocks-longest-slide-since-2008-coreweave-ai-debt, asml-raises-2026-sales-forecast-ai-chip-tool-demand]
 seo:
-  description: "Nvidia's board opened an independent investigation on November 8, 2026 into reports that CEO Jensen Huang was the target of a foreign intelligence effort. Congress wants a briefing by November 18."
+  description: "Nvidia's board opened an independent investigation on November 8, 2026, into reports that CEO Jensen Huang was the target of a foreign intelligence effort. Congress wants a briefing by November 18."
 sources:
   - title: "Statement from NVIDIA Board of Directors (November 8, 2026)"
     publisher: "NVIDIA Newsroom"

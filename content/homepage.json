@@ -18,10 +18,10 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
       "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
       "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
+      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent"
     ],
     "live": {
       "title": {
@@ -32,6 +32,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "lead": {
+          "en": "Technology:",
+          "hi": "तकनीक:"
+        },
+        "text": {
+          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
+          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
+        }
+      },
       {
         "link": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "lead": {
@@ -77,28 +88,6 @@
         }
       },
       {
-        "link": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Two tankers burn after hitting mines near Hormuz as loud blasts rock Riyadh",
-          "hi": "होर्मुज के पास बारूदी सुरंग से दो टैंकरों में आग, रियाद में तेज धमाके"
-        }
-      },
-      {
-        "link": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-        "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
-        },
-        "text": {
-          "en": "Rajnath Singh reaches Sherathang to spend Diwali with troops near Nathu La",
-          "hi": "राजनाथ सिंह नाथू ला के पास जवानों संग दिवाली मनाने शेरथांग पहुंचे"
-        }
-      },
-      {
         "link": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
         "lead": {
           "en": "Space:",
@@ -110,14 +99,25 @@
         }
       },
       {
-        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
+        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
-          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
+          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
+          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
+        }
+      },
+      {
+        "link": "nz-mmp-explained-overhang-special-votes-130-seats",
+        "lead": {
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
+        },
+        "text": {
+          "en": "New Zealand's election explained: how MMP, overhang seats and special votes decide who governs",
+          "hi": "न्यूज़ीलैंड चुनाव समझिए: एमएमपी, ओवरहैंग सीटें और स्पेशल वोट कैसे तय करते हैं कि सरकार किसकी बनेगी"
         }
       }
     ]
@@ -185,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+      "id": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
       "also": []
     },
     "list": [
-      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
       "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+      "nz-mmp-explained-overhang-special-votes-130-seats",
       "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-      "e20-petrol-explained-ethanol-blend-karnataka-row"
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer"
     ],
     "also": [
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+      "e20-petrol-explained-ethanol-blend-karnataka-row",
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
     ]
   },
   "startHere": [
+    "nz-mmp-explained-overhang-special-votes-130-seats",
     "e20-petrol-explained-ethanol-blend-karnataka-row",
     "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-    "obc-creamy-layer-explained-parents-salary-supreme-court",
-    "bbmb-power-sharing-explained-himachal-share-supreme-court"
+    "obc-creamy-layer-explained-parents-salary-supreme-court"
   ],
   "trackers": [
     {
@@ -357,11 +357,11 @@
     }
   ],
   "opinion": [
+    "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
     "e20-ethanol-row-needs-joint-testing-and-published-results",
     "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-    "bail-granted-is-not-freedom-release-the-under-trials"
+    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft"
   ],
   "sections": [
     {
@@ -379,7 +379,7 @@
     },
     {
       "section": "economy",
-      "lead": "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
+      "lead": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,9 +390,9 @@
         ]
       },
       "list": [
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
         "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires",
-        "fox-completes-22-billion-roku-acquisition"
+        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires"
       ]
     },
     {
@@ -408,9 +408,9 @@
       "section": "policy",
       "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
       "list": [
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa"
+        "cancer-drugs-137-revised-prices-november-9-nppa",
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
       ]
     },
     {
@@ -427,9 +427,9 @@
       "section": "world",
       "lead": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
       "list": [
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
+        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
+        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
       ]
     },
     {
@@ -628,17 +628,17 @@
       ]
     },
     {
-      "at": "2026-11-09T07:11:47+05:30",
+      "at": "2026-11-09T07:39:45+05:30",
       "ids": [
         "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
         "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-        "e20-ethanol-row-needs-joint-testing-and-published-results"
+        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+        "nz-mmp-explained-overhang-special-votes-130-seats"
       ]
     }
   ],

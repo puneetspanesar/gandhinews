@@ -6,7 +6,7 @@ section: world
 format_label: "Explained / New Zealand"
 topics: []
 title: "New Zealand's election explained: how MMP, overhang seats and special votes decide who governs"
-standfirst: "National and Labour finished about a tenth of a point apart, Parliament is set to be the biggest in the country's history, and the result is not final until November 27. Why a close vote can still produce a clear bloc, and what is left to count."
+standfirst: "National and Labour finished about two-tenths of a point apart, Parliament is set to be the biggest in the country's history, and the result is not final until November 27. Why a close vote can still produce a clear bloc, and what is left to count."
 published: 2026-11-09T07:25:00+05:30
 shortAnswer: "New Zealand uses Mixed Member Proportional (MMP) voting: each voter casts one vote for a local MP and one for a party, and the party vote decides how many of the 120 seats each party gets. When a party wins more local seats than its party vote entitles it to, it keeps them all and Parliament grows, which is why the new House is set to have 130 or 131 members and a majority of 66. On the preliminary count the right bloc has 67, but about 399,000 special votes are still to be counted, and the final result is due on November 27."
 hero:
@@ -27,7 +27,7 @@ infographic:
     - {icon: envelope, value: "399,365", label: "special votes still to be counted"}
   source: "Preliminary count and Electoral Commission estimate, November 7 to 9, 2026"
 seo:
-  description: "How New Zealand's MMP system works, what overhang seats are, why Parliament may reach 131 seats, and how special votes could change the November 7, 2026 result."
+  description: "How New Zealand's MMP system works, what overhang seats are, why Parliament may reach 131 seats, and how special votes could change the November 7, 2026, result."
 sources:
   - title: "Democracy Briefing: How the overhang put the right ahead"
     publisher: "The Democracy Project"
@@ -82,7 +82,7 @@ This time the effect is large. National won **42 electorates**, though its 29.2%
 The overhang has also shifted the balance. On a strict reading of the party vote, the 120 seats would split 60 to 60 between the right and the rest. With the extra seats, National, ACT and NZ First have **67 seats against 64** for Labour, the Greens, Te Pāti Māori and Opportunity.
 
 ```chart
-{"type":"hbar","title":"Projected seats, preliminary count (provisional)","unit":"","data":[{"label":"National","value":42},{"label":"Labour","value":36},{"label":"Greens","value":16},{"label":"ACT","value":13},{"label":"NZ First","value":12},{"label":"Opportunity","value":6},{"label":"Te Pāti Māori","value":5}]}
+{"type":"hbar","title":"Projected seats, preliminary count (provisional, 131-seat House with Opportunity on 7)","unit":"","data":[{"label":"National","value":42},{"label":"Labour","value":36},{"label":"Greens","value":16},{"label":"ACT","value":13},{"label":"NZ First","value":12},{"label":"Opportunity","value":7},{"label":"Te Pāti Māori","value":5}]}
 ```
 
 ## What is the 5% threshold, and who is the kingmaker?

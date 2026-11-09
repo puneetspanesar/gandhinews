@@ -6,7 +6,7 @@ type: news
 section: economy
 format_label: "कारोबार / तकनीक"
 topics: []
-title: "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, कर्मचारियों से माफी मांगी"
+title: "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
 standfirst: "दुनिया की सबसे मूल्यवान चिप कंपनी का कहना है कि स्वतंत्र निदेशकों की समिति उन खबरों की जांच करेगी जिनमें संस्थापक को विदेशी खुफिया कोशिश का निशाना बताया गया है। हुआंग ने कर्मचारियों को लिखे पत्र में संबंध की बात मानी; अमेरिकी संसद की तीन समितियों के अध्यक्ष चाहते हैं कि वे 18 नवंबर को ब्रीफिंग दें।"
 published: 2026-11-09T07:24:30+05:30
 location: सांता क्लारा
@@ -20,8 +20,8 @@ hero:
   subjects: ["Jensen Huang"]
   alt: "एनवीडिया के संस्थापक और सीईओ जेन्सन हुआंग (फाइल फोटो)"
   overlay:
-    value: "एनवीडिया की सीईओ हुआंग पर जांच"
-related: [nvidia-gtc-berlin-openshell-agent-safety-dsx-pod, wall-street-close-dow-1833-nasdaq-correction-chip-rout]
+    value: "एनवीडिया के सीईओ हुआंग पर जांच"
+related: [wall-street-close-dow-1833-nasdaq-correction-chip-rout, chip-stocks-longest-slide-since-2008-coreweave-ai-debt, asml-raises-2026-sales-forecast-ai-chip-tool-demand]
 seo:
   description: "एनवीडिया के बोर्ड ने 8 नवंबर 2026 को सीईओ जेन्सन हुआंग के विदेशी खुफिया कोशिश का निशाना बनने की खबरों पर स्वतंत्र जांच शुरू की। अमेरिकी संसद ने 18 नवंबर तक ब्रीफिंग मांगी है।"
 sources:

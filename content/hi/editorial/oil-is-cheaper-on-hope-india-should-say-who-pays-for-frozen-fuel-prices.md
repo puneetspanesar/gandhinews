@@ -23,7 +23,7 @@ hero:
     value: "सस्ता बैरल योजना नहीं है"
 related: [rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall, india-crude-import-bill-90-6-billion-april-september, india-gulf-war-exposure-needs-a-plan-not-hope, what-hormuz-attacks-mean-for-indian-fuel-prices]
 infographic:
-  kicker: "हमारा मत: तेल और ईंधन दाम"
+  kicker: "हमारा मत: ईंधन दाम"
   headline: "सस्ता बैरल योजना नहीं है"
   dek: "उम्मीद पर तेल 16% नीचे, पर पेट्रोल-डीजल के खुदरा दाम जमे हैं"
   motif: gas-pump

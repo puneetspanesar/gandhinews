@@ -5,8 +5,8 @@ type: news
 section: world
 format_label: "World / Middle East"
 topics: []
-title: "Rubio says Iran's demands are unacceptable as peace talks stall"
-standfirst: "The US Secretary of State said there is no breakthrough in sight, a day after Tehran's foreign minister said mediators had stopped travelling since the American midterms. India's oil bill and its Gulf diaspora sit in the middle."
+title: "Rubio calls Iran's demands 'outrageous and ridiculous' and says no deal is close as US-Iran peace talks stall; India watches oil"
+standfirst: "The US Secretary of State said there is no breakthrough in sight, on the same day Tehran's foreign minister said mediators had stopped travelling since the American midterms. India's oil bill and its Gulf diaspora sit in the middle."
 published: 2026-11-09T07:10:00+05:30
 location: Washington
 keyPoints:
@@ -17,7 +17,7 @@ hero:
   need: "US Secretary of State Marco Rubio"
   suggested_source: "Marco Rubio"
   subjects: ["Marco Rubio", "Abbas Araghchi"]
-  alt: "US Secretary of State Marco Rubio and Iranian Foreign Minister Abbas Araghchi (file photo)"
+  alt: "US Secretary of State Marco Rubio (file photo)"
   overlay:
     value: "Rubio: Iran's demands unrealistic"
 related: [qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm, iran-hands-us-nuclear-proposal-seven-demands, hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8, qatar-iran-us-far-apart-36-hours-feedback-hormuz, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, air-india-suspends-riyadh-dammam-flights-november-7]
@@ -29,7 +29,7 @@ infographic:
   stats:
     - {icon: gas-pump, value: "$98.26", label: "Brent at 6:15 pm IST on Friday, 16% below the October 30 peak"}
     - {icon: ship, value: "~2.5 mn bpd", label: "of India's roughly 5 million barrels a day cross Hormuz"}
-  source: "Rubio, Araghchi remarks, November 8, 2026; Kpler; Business Standard"
+  source: "Rubio, Araghchi remarks, November 8, 2026; Kpler"
 seo:
   description: "Marco Rubio called Iran's demands outrageous and unrealistic on November 8 and said there is no breakthrough. Iran says mediators stopped after the US midterms."
 sources:
@@ -77,21 +77,17 @@ verification:
     - "No Iranian reply to Rubio's remarks found as of 7 am IST November 9."
 ---
 
-US Secretary of State Marco Rubio said on Sunday, November 8, that **Iran's demands in the peace talks are "unacceptable"** and that the negotiations have produced no breakthrough, as Tehran said the mediators who carry messages between the two capitals had stopped travelling after the American midterm elections.
+US Secretary of State Marco Rubio said on Sunday, November 8, that **Iran's demands in the peace talks are "outrageous and ridiculous, and really not realistic"** and that the negotiations have produced no breakthrough, as Tehran said the mediators who carry messages between the two capitals had stopped travelling after the American midterm elections.
 
 Speaking to reporters before flying to Paris for a meeting of G7 foreign ministers, Rubio would not say the two sides were close. "I wouldn't say we're on the verge of a breakthrough," he said, adding that other countries are engaging Iran with "different ideas". He called the Iranian demands "outrageous and ridiculous, and really not realistic" and said of the talks: "Right now, it hasn't been very productive."
 
 He kept the door open. "The president would always prefer to solve this and every problem diplomatically," Rubio said, and if there is a chance of a diplomatic solution the United States will explore it.
 
-## What Tehran said a day earlier
+## What Tehran said the same day
 
 Iran's Foreign Minister **Abbas Araghchi told state television in Tehran** on Sunday that mediators had stopped travelling since the midterms, which cost President Donald Trump's Republican Party heavily. He called the result a "shock" for Washington. "We now have to see how long it will take for them to digest these results," he said, and urged patience until the atmosphere improves.
 
 On X he was sharper: "American voters have made their choice. Time for the White House to make its own." He told the US to accept Iran's earlier terms or "choose war, and see our alert and battle-hardened warriors rain down hell."
-
-```photo
-{"n":1,"subject":"Abbas Araghchi","caption":"Iran's foreign minister Abbas Araghchi, who said on November 8 that mediator contacts had stopped since the US midterms.","alt":"Iranian Foreign Minister Abbas Araghchi"}
-```
 
 Those terms are the ones Tehran has repeated for weeks. On November 5 a senior Iranian official said Iran had passed a nuclear proposal to Washington through Qatar but would discuss it only after the US met [seven demands](/en/news/iran-hands-us-nuclear-proposal-seven-demands), including **lifting sanctions, releasing frozen assets and paying war reparations**. Iran's security chief Mohsen Rezaei said that until then Iran would "neither open the Strait of Hormuz nor have negotiations". Washington wants nuclear issues in any first round.
 
@@ -102,20 +98,16 @@ President Trump said after the midterm vote that renewed military action "depend
 The pressure on the ground has not eased. US forces carried out what Trump called ["minor strikes"](/en/news/qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm) on Qeshm island, and on November 7 the US military disabled the commercial vessel M/V Huda in the Gulf of Oman for trying to run its blockade of Iranian ports. US Central Command also set up Task Force Iron Gate to extend the blockade to Iran's land borders and the Caspian Sea. The Revolutionary Guards dismissed it as a plan that "will remain only on paper", and said they had lifted a self-imposed limit on the range of their ballistic missiles. On Sunday the Guards said two tankers had [caught fire after hitting mines](/en/news/hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8) near the strait, a claim Trump has called fabricated.
 
 ```timeline
-{"title":"How the talks reached a stall","items":[{"date":"Late Feb 2026","text":"The US and Israel launch the war on Iran."},{"date":"Nov 3, 2026","text":"Qatari mediators fly to Tehran with a draft deal as US forces strike Qeshm island."},{"date":"Nov 3, 2026","text":"US midterm elections are held."},{"date":"Nov 5, 2026","text":"Iran says it sent a nuclear proposal via Qatar, to be discussed only after seven demands are met."},{"date":"Nov 7, 2026","text":"CENTCOM launches Task Force Iron Gate; the US disables the M/V Huda."},{"date":"Nov 8, 2026","text":"Araghchi says mediators have stopped; Rubio calls Iran's demands unacceptable."},{"date":"Nov 9 and 10, 2026","text":"Rubio attends the G7 foreign ministers' meeting in Paris."}]}
+{"title":"How the talks reached a stall","items":[{"date":"Late February 2026","text":"The US and Israel launch the war on Iran."},{"date":"November 3, 2026","text":"Qatari mediators fly to Tehran with a draft deal as US forces strike Qeshm island."},{"date":"November 3, 2026","text":"US midterm elections are held."},{"date":"November 5, 2026","text":"Iran says it sent a nuclear proposal via Qatar, to be discussed only after seven demands are met."},{"date":"November 7, 2026","text":"CENTCOM launches Task Force Iron Gate; the US disables the M/V Huda."},{"date":"November 8, 2026","text":"Araghchi says mediators have stopped; Rubio calls Iran's demands outrageous and ridiculous."},{"date":"November 9 and 10, 2026","text":"Rubio attends the G7 foreign ministers' meeting in Paris."}]}
 ```
 
 ## Why it matters to India
 
-India is the buyer most exposed to a failure. The **Strait of Hormuz carries about half of India's crude imports**, roughly 2.5 million barrels a day of about 5 million, according to the ship-tracking firm Kpler. In the first half of 2026-27 India imported about 122 million tonnes of crude worth **$90.6 billion, 47% more than a year earlier**, with volumes flat, so the rise was almost all price.
+India is the buyer most exposed to a failure. The **Strait of Hormuz carries about half of India's crude imports**, roughly 2.5 million barrels a day of about 5 million, according to the ship-tracking firm Kpler. In the first half of 2026-27 India imported about 122 million tonnes of crude worth **$90.6 billion, 46% more than a year earlier**, with volumes flat, so the rise was almost all price.
 
 Hopes of a deal have already lowered that price. Brent traded at $98.26 a barrel at 6:15 pm IST on Friday, **16% below its October 30 peak of $118**, in the biggest weekly fall since 2020. Retail fuel prices are capped, and state oil companies were losing about ₹12 a litre on diesel and ₹9 on petrol in October, so every dollar off crude helps their books. Rubio's remarks are a reminder that this relief rests on talks, not on a deal.
 
 India has some cover. Amir Hayat Moqaddam, deputy chairman of Iran's parliamentary national security committee, said on November 3 that ships from India, China, Qatar and Iraq are exempt from Iran's Hormuz restrictions, with Indian vessels to pay transit fees and Iran to receive medicine from India. About 13% of the 10.23 million barrels a day of Gulf crude that passed the strait in October went to India.
-
-```photo
-{"n":2,"subject":"Strait of Hormuz","caption":"The Strait of Hormuz, through which about half of India's crude imports pass, remains the centre of the dispute.","alt":"The Strait of Hormuz"}
-```
 
 ## The Gulf diaspora
 

@@ -80,11 +80,7 @@ Most of the rest of the network was very poor: Alipur 391, Pusa 383, Narela 382,
 
 ## How Diwali day went
 
-Sunday's citywide average was **376, up from 369 on Saturday** and from 382 on Friday, which means the week has hovered a few points short of the 400 line without a clean break either way. At 7 pm on Sunday the instantaneous city reading was 371, and Jahangirpuri recorded 460, the worst in the network at that hour. PM2.5 was the main pollutant, with firecracker smoke adding to it.
-
-```photo
-{"n":1,"subject":"Stubble burning in Punjab","caption":"Stubble burning in neighbouring states continues to add smoke to the Delhi air shed (file photo).","alt":"Farm fire smoke in Punjab (file photo)"}
-```
+Sunday's citywide average was **376, up from 369 on Saturday** but below 382 on Friday, which means the week has hovered a few points short of the 400 line without a clean break either way. At 7 pm on Sunday the instantaneous city reading was 371, and Jahangirpuri recorded 460, the worst in the network at that hour. PM2.5 was the main pollutant, with firecracker smoke adding to it.
 
 The Decision Support System put transport at about 19% of Sunday's pollution load, and stubble burning at about 3.5% on Sunday, projected at about 2.99% on Monday. Experts point to weak winds and poor ventilation: the Air Quality Early Warning System treats a ventilation index below 6,000 square metres per second and wind speed under 10 km/h as unfavourable for dispersal, and both conditions were present on Sunday.
 
@@ -97,10 +93,6 @@ The restrictions came in on Friday, November 6, as a precaution before Diwali, w
 ## Politics of the smog
 
 Delhi minister Kapil Mishra has accused Aam Aadmi Party leader Arvind Kejriwal of running a campaign against Diwali and Sanatan Dharma under the pretext of pollution. The allegation is Mishra's; there was no response from the AAP in the material available at the time of writing.
-
-```photo
-{"n":2,"subject":"Fireworks Diwali India","caption":"Firework smoke on Diwali night added to PM2.5 already trapped by weak winds (file photo).","alt":"Diwali fireworks (file photo)"}
-```
 
 ## What happens next
 
