@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+    "id": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
     "overlay": {
       "kicker": {
-        "en": "World / Russia",
-        "hi": "दुनिया / रूस"
+        "en": "World / Middle East",
+        "hi": "दुनिया / पश्चिम एशिया"
       },
       "value": {
-        "en": "Novaya Gazeta closes",
-        "hi": "नोवाया गज़ेटा बंद"
+        "en": "Trump: new Iran strikes 'highly unlikely'",
+        "hi": "ट्रंप: ईरान पर नए हमले 'बेहद असंभव'"
       },
       "text": {
         "en": "",
@@ -18,20 +18,42 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
       "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     ],
     "live": {
       "title": {
-        "en": "Russia",
-        "hi": "रूस"
+        "en": "Middle East",
+        "hi": "पश्चिम एशिया"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Maldives frees 24 Thoothukudi fishermen held for nearly a month; Tamil Nadu pays for flight home",
+          "hi": "मालदीव ने थूथुकुडी के 24 मछुआरों को लगभग एक महीने बाद छोड़ा, तमिलनाडु ने उठाया घर वापसी का हवाई खर्च"
+        }
+      },
+      {
+        "link": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "lead": {
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
+        },
+        "text": {
+          "en": "Niveditha Nair wins 25m standard pistol bronze, India add team silver at Doha Worlds",
+          "hi": "निवेदिता नायर को 25 मीटर स्टैंडर्ड पिस्टल का कांस्य, दोहा में टीम रजत भी"
+        }
+      },
       {
         "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "lead": {
@@ -66,58 +88,36 @@
         }
       },
       {
-        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Congress:",
+          "hi": "कांग्रेस:"
         },
         "text": {
-          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
-          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
+          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
+          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
         }
       },
       {
-        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Technology:",
+          "hi": "तकनीक:"
         },
         "text": {
-          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
-          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
+          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
+          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
         }
       },
       {
-        "link": "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
         "lead": {
-          "en": "Chess:",
-          "hi": "शतरंज:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Anuj Shrivatri becomes India's 100th Grandmaster with a win in the Philippines",
-          "hi": "फिलीपींस में खिताब जीतकर अनुज श्रीवत्री भारत के 100वें ग्रैंडमास्टर बने"
-        }
-      },
-      {
-        "link": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "lead": {
-          "en": "Fires:",
-          "hi": "आगजनी:"
-        },
-        "text": {
-          "en": "Diwali night fires in Thane, Delhi, Ujjain and Nagpur: dozens rescued, no deaths reported",
-          "hi": "दिवाली की रात ठाणे, दिल्ली, उज्जैन और नागपुर में आग: दर्जनों लोग बचाए गए, मौत की खबर नहीं"
-        }
-      },
-      {
-        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
-        },
-        "text": {
-          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
-          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
+          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
+          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
         }
       }
     ]
@@ -185,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+      "id": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
       "also": []
     },
     "list": [
-      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-      "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
-      "amit-shah-first-diwali-five-decades-naxalism-freed-post"
+      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
     ],
     "also": [
-      "india-u19-pakistan-asia-cup-result-zahoor-century",
-      "modi-advani-99th-birthday-nation-first-foundation"
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+      "nz-mmp-explained-overhang-special-votes-130-seats"
     ]
   },
   "startHere": [
@@ -372,8 +372,8 @@
       },
       "list": [
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "modi-advani-99th-birthday-nation-first-foundation"
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
@@ -397,11 +397,11 @@
     },
     {
       "section": "states",
-      "lead": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+      "lead": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
       "list": [
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent"
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three"
       ]
     },
     {
@@ -425,11 +425,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+      "lead": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
       "list": [
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
       ]
     },
     {
@@ -443,12 +443,12 @@
     },
     {
       "section": "sports",
-      "lead": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+      "lead": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
       "list": [
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
         "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
-        "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
+        "india-u19-pakistan-asia-cup-result-zahoor-century"
       ]
     }
   ],
@@ -527,20 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T08:33:58+05:30",
-      "ids": [
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
-        "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
-      ]
-    },
     {
       "at": "2026-11-09T10:45:10+05:30",
       "ids": [
@@ -642,6 +628,20 @@
         "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"
+      ]
+    },
+    {
+      "at": "2026-11-09T18:45:05+05:30",
+      "ids": [
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     }
   ],

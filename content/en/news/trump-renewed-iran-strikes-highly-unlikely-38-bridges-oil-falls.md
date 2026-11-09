@@ -86,9 +86,9 @@ Iran's position has not changed. It says it passed a nuclear proposal to Washing
 
 ## The sea and the sky
 
-The weekend gave little sign of calm. Both sides reported ships hit in or near the Strait of Hormuz. Iran said [two tankers hit mines](/en/news/hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8) and a third caught fire, while the US said it disabled a commercial vessel in the Gulf of Oman. Reuters could not confirm the strikes at sea. A Saudi Aramco administrative building in Riyadh was reportedly damaged by falling debris after an attempted attack, with no injuries.
+The weekend gave little sign of calm. Both sides reported ships hit in or near the Strait of Hormuz. Iran said [two tankers hit mines](/en/news/hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8) and a third caught fire, while the US said it disabled a commercial vessel in the Gulf of Oman. Neither claim could be independently confirmed. A Saudi Aramco administrative building in Riyadh was reportedly damaged by falling debris after an attempted attack, with no injuries.
 
-Only days earlier, US forces had carried out what Trump called ["minor strikes"](/en/news/qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm) on Qeshm island. Trump's latest phrasing is more guarded than his talk of being "locked and loaded" before the vote, but it is a conditional, not a pledge.
+Only days earlier, US forces had carried out what Trump called ["minor strikes"](/en/news/qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm) on Qeshm island. Trump's latest phrasing is a conditional, not a pledge.
 
 ```timeline
 {"title":"From strikes to a conditional pause","items":[{"date":"November 3, 2026","text":"US forces strike Qeshm island; midterm elections held."},{"date":"November 5, 2026","text":"Iran says it sent a nuclear proposal via Qatar, tied to seven demands."},{"date":"November 7, 2026","text":"CENTCOM launches Task Force Iron Gate; the US disables a vessel in the Gulf of Oman."},{"date":"November 8, 2026","text":"Rubio calls Iran's demands unrealistic; Trump says new strikes are highly unlikely if a deal is signed."},{"date":"November 9, 2026","text":"Brent falls to about $97.5; Rubio in Paris for G7 foreign ministers."}]}
