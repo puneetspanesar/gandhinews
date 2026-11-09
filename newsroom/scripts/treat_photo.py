@@ -210,8 +210,11 @@ def library_portrait(pk):
 
 def portrait(sid, M):
     """The headline's first-named person, alone: a solo photo we already hold, else the library portrait. (path, credit)."""
-    title = str(fm(sid).get('title') or '')
+    d = fm(sid); title = str(d.get('title') or ''); full = title + ' ' + str(d.get('standfirst') or '')
     for pk in named_people(title)[:1]:
+        # a surname alone is not enough: the person's full name must be in the headline or the standfirst
+        # (Tata Steel is not Ratan Tata, Prism Johnson is not Mike Johnson, Azam Khan is not Babar Azam)
+        if not any(nm in full for nm in [PEOPLE[pk]['en']] + list(PEOPLE[pk].get('aliases') or [])): return None
         name = PEOPLE[pk]['en']; best = None
         for mk, x in M.items():
             alt = x.get('alt') or ''
@@ -338,6 +341,13 @@ def treat(sid, M):
         cut, a = cutout(orig)
         ok = .05 < a.mean() < .7 and a[-int(a.shape[0] * .2):].mean() > .04
         if ok and a[:max(2, int(a.shape[0] * .03))].mean() > .03: ok = False   # head cut by the photo's top edge: show it whole
+        ew = max(2, int(a.shape[1] * .02))
+        if ok and (a[:, :ew].mean() > .12 or a[:, -ew:].mean() > .12): ok = False   # someone sliced by the side edge: show it whole
+        if ok:
+            from scipy import ndimage
+            lab, n = ndimage.label(a > .5)
+            big = sum(1 for sz in ndimage.sum(a > .5, lab, range(1, n + 1)) if sz > a.size * .03)
+            if big > 2: ok = False                                                  # a group: show the photo whole
     else:
         ok = False
     if src_key == 'portrait' and not ok: return None, False, []
@@ -355,7 +365,7 @@ def treat(sid, M):
     cxs = int(W * (.42 if not flip else .58))
     if ok:
         cut = cut.crop(cut.getbbox())
-        s = min(H * .9 / cut.height, W * .42 / cut.width)
+        s = min(H * .82 / cut.height, W * .42 / cut.width)
         if cut.height < cut.width * 1.25: s = min(s, H * .62 / cut.height)   # a tight head crop: keep the face a sane size
         cut = cut.resize((round(cut.width * s), round(cut.height * s)), Image.LANCZOS)
         aw = int(min(max(cut.width * .78, 300), 460)); ah = int(H * .7)
