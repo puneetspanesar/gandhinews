@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+    "id": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
     "overlay": {
       "kicker": {
-        "en": "Politics / Congress",
-        "hi": "राजनीति / कांग्रेस"
+        "en": "Politics / Internal security",
+        "hi": "राजनीति / आंतरिक सुरक्षा"
       },
       "value": {
-        "en": "'Modi-Shah-ECI package'",
-        "hi": "'मोदी-शाह-ईसीआई पैकेज'"
+        "en": "First Diwali in five decades free of Naxalism: Shah",
+        "hi": "पांच दशकों में पहली नक्सलमुक्त दिवाली: शाह"
       },
       "text": {
         "en": "",
@@ -16,21 +16,17 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-      "special-session-of-parliament-explained-shah-offer-cec-removal",
-      "telangana-roll-revision-must-not-erase-voters-quietly"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+      "cop31-opens-antalya-turkey-australia-negotiations-india-position",
       "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
+      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
     ],
     "live": {
       "title": {
-        "en": "Congress",
-        "hi": "कांग्रेस"
+        "en": "Internal security",
+        "hi": "आंतरिक सुरक्षा"
       }
     }
   },
@@ -45,6 +41,17 @@
         "text": {
           "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
           "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
+        }
+      },
+      {
+        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
+          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
         }
       },
       {
@@ -70,58 +77,47 @@
         }
       },
       {
-        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "link": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "lead": {
-          "en": "Technology:",
-          "hi": "तकनीक:"
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
         },
         "text": {
-          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
-          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
+          "en": "Delhi wakes to smog the morning after Diwali, AQI 366 at 6:30 am",
+          "hi": "दिवाली के अगले दिन दिल्ली में धुंध की चादर, सुबह 6:30 बजे एक्यूआई 366"
         }
       },
       {
-        "link": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Rubio calls Iran's demands 'outrageous and ridiculous' and says no deal is close as US-Iran peace talks stall; India watches oil",
-          "hi": "रुबियो ने ईरान की मांगों को 'अपमानजनक और हास्यास्पद' बताया, समझौता करीब नहीं; अमेरिका-ईरान शांति वार्ता अटकी, भारत की नजर तेल और खाड़ी पर"
-        }
-      },
-      {
-        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "link": "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
         "lead": {
           "en": "Internal security:",
           "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
-          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
+          "en": "Modi's figures for 15,000 km of roads and 9,500 towers in Naxal-hit areas run ahead of the Home Ministry's own counts",
+          "hi": "नक्सल प्रभावित इलाकों में 15,000 किमी सड़क और 9,500 टावर का मोदी का दावा गृह मंत्रालय के अपने आंकड़ों से आगे है"
         }
       },
       {
-        "link": "modi-advani-99th-birthday-nation-first-foundation",
+        "link": "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
         "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Modi on Advani's 99th birthday: he gave the BJP a foundation of Nation First",
-          "hi": "आडवाणी के 99वें जन्मदिन पर मोदी: उन्होंने भाजपा को राष्ट्र प्रथम की नींव दी"
+          "en": "Maharashtra has paid ₹5,000 to 87 lakh drought-hit farmers. The reservoirs are the harder test, and the numbers should be public",
+          "hi": "महाराष्ट्र ने 87 लाख सूखा-पीड़ित किसानों को ₹5,000 दिए। असली परीक्षा जलाशयों की है, और आंकड़े सार्वजनिक होने चाहिए"
         }
       },
       {
-        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
-          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
+          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
+          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
         }
       }
     ]
@@ -189,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+      "id": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
       "also": []
     },
     "list": [
-      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-      "modi-advani-99th-birthday-nation-first-foundation",
-      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
+      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+      "nz-mmp-explained-overhang-special-votes-130-seats",
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer"
     ],
     "also": [
-      "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+      "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
     ]
   },
   "startHere": [
     "nz-mmp-explained-overhang-special-votes-130-seats",
-    "e20-petrol-explained-ethanol-blend-karnataka-row",
     "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-    "obc-creamy-layer-explained-parents-salary-supreme-court"
+    "e20-petrol-explained-ethanol-blend-karnataka-row",
+    "bbmb-power-sharing-explained-himachal-share-supreme-court"
   ],
   "trackers": [
     {
@@ -363,8 +359,8 @@
   "opinion": [
     "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-    "e20-ethanol-row-needs-joint-testing-and-published-results",
     "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+    "e20-ethanol-row-needs-joint-testing-and-published-results",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
   ],
   "sections": [
@@ -376,8 +372,8 @@
       },
       "list": [
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "modi-advani-99th-birthday-nation-first-foundation"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
@@ -403,9 +399,9 @@
       "section": "states",
       "lead": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
       "list": [
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
       ]
     },
     {
@@ -511,10 +507,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
-        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
+        "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
+        "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
       },
-      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+      "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
     },
     {
       "icon": "calendar-blank",
@@ -523,28 +519,13 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
-        "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
+        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
+        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
       },
-      "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T20:38:22+05:30",
-      "ids": [
-        "modi-bastar-cobra-karanpur-diwali-naxalism-won",
-        "modi-heads-to-bastar-diwali-security-forces",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu",
-        "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south",
-        "indigo-bengaluru-lucknow-6e451-hijack-threat-note-returns",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "railways-18000-festive-specials-trips-claim",
-        "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
-      ]
-    },
     {
       "at": "2026-11-08T21:10:31+05:30",
       "ids": [
@@ -646,6 +627,20 @@
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "modi-advani-99th-birthday-nation-first-foundation",
         "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+      ]
+    },
+    {
+      "at": "2026-11-09T13:37:02+05:30",
+      "ids": [
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+        "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+        "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
       ]
     }
   ],
