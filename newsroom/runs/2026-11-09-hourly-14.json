@@ -1,12 +1,9 @@
 {
  "run": "hourly-14",
  "start": "2026-11-09T14:08:35+05:30",
- "end": "2026-11-09T14:50:43+05:30",
- "summary": "Mishra FIR demand over Punjab stubble fires leads; Trump-Xi-Putin APEC; markets 2 pm",
- "new": [
-  "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-  "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
- ],
+ "end": "2026-11-09T14:58:12+05:30",
+ "summary": "expire NZ election hold past 48 hours",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
