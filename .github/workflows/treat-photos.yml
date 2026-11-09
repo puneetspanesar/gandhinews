@@ -1,0 +1,43 @@
+# House collage treatment for card photos (newsroom/scripts/treat_photo.py, owner, November 9).
+# After any push that changes the photo map, treat every photo story from the last 72 hours that has no treated version.
+name: Treat photos
+on:
+  push:
+    branches: [main]
+    paths: ['content/photos.map.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: treat-photos
+  cancel-in-progress: false
+jobs:
+  treat:
+    if: ${{ !contains(github.event.head_commit.message, '[treat]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: pip install -q "rembg[cpu]==2.0.67" cairosvg==2.7.1 pyyaml pillow numpy
+      - name: Treat
+        run: python3 newsroom/scripts/treat_photo.py --missing
+      - name: Commit
+        run: |
+          git config user.name "Gandhi News desk"
+          git config user.email "desk@gandhinews.com"
+          git add public/photos content/photos.map.json
+          git diff --cached --quiet && { echo "nothing to treat"; exit 0; }
+          git commit -q -m "Treat photos [treat]"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0
+            # a conflict in the photo map: take main's map and treat again on top of it
+            git rebase --abort 2>/dev/null; git reset -q --hard origin/main; git pull -q origin main
+            python3 newsroom/scripts/treat_photo.py --missing
+            git add public/photos content/photos.map.json; git commit -q -m "Treat photos [treat]" || exit 0
+            sleep $((i * 10))
+          done
+          exit 1

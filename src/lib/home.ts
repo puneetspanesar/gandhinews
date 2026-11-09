@@ -665,6 +665,8 @@ export async function homeModel(lang: Lang) {
     if (courts.length && policy.length > courts.length) policy.length = courts.length;
     if (policy.length && courts.length > policy.length) courts.length = policy.length;
     const politics = take(pool(['politics']), 7, true);
+    // the Politics band always fills both columns (owner, November 9): top up from Parliament, then States, then Policy
+    if (politics.length < 7) politics.push(...take(pool(['parliament', 'states', 'policy']), 7 - politics.length));
     // state by state: every state with fresh news, the busiest first, up to three headlines each
     const stIds = pool(['states']).filter((id) => !seen.has(id));
     const byState = new Map<string, string[]>();

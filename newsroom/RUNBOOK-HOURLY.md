@@ -50,3 +50,8 @@ Run name for the lock and the record: `hourly-HH`, HH the hour the run started. 
 - A story with a real photo opens split: headline on a tinted panel, photo on the right. Infographic heroes keep the stacked opening.
 - Under the opening, a strip of 3 or 4 key numbers comes from `glance:` (list of `{icon, value, label}`, Phosphor icon names) or, failing that, `infographic.stats`. Give every photo story a `glance:` of 3 or 4 real figures from the primary source.
 - `infographic.timeline` / `infographic.steps` show as a timeline at the foot of the story; the dateline's state shows as a "Where" map in the rail.
+
+## Card photos: the house collage treatment (owner, November 9)
+- Every real photo in a card slot (homepage, section pages, rails) shows its treated collage: the subject cut out over 2-3 related scene photos from our own library, toned to the house red, on paper beige, with a red arch and small line marks. Story pages show the photo as taken.
+- The "Treat photos" GitHub workflow builds these automatically after each push that changes content/photos.map.json. To do it in a run: `python3 newsroom/scripts/treat_photo.py <id>` (needs `pip install rembg[cpu] cairosvg`).
+- Only licensed photos, as always: never PTI, ANI, DD News, Getty or any other outlet's pictures, cut out or not. A collage of an agency photo is still the agency's photo.
