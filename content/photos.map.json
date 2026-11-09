@@ -57440,5 +57440,61 @@
   "alt": "Volodymyr Zelenskyy (file photo)",
   "alt_hi": "वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg"
+ },
+ "india-eu-strategic-partnership-review-fta-signing-brussels-december": {
+  "id": "o-india-eu-strategic-partnership-review-fta-signing-brussels-december",
+  "src": "/photos/o-india-eu-strategic-partnership-review-fta-signing-brussels-december-1280.jpg",
+  "src800": "/photos/o-india-eu-strategic-partnership-review-fta-signing-brussels-december-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2400,
+  "credit": "Photo: Estonian Foreign Ministry / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Matti Maasikas, the EU official who co-chaired the India-EU review in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत-ईयू समीक्षा की सह-अध्यक्षता करने वाले ईयू अधिकारी मैटी मासिकास (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Matti_Maasikas_(35746656081).jpg"
+ },
+ "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed": {
+  "id": "i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+  "src": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-en-3x2-1280.jpg",
+  "src800": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Trailer hits van of mourners, seven killed",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: शव ले जा रही वैन में ट्रेलर की टक्कर, सात की मौत",
+  "page": null,
+  "ihash": "b909402c66ab",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-hi-3x2-1280.jpg",
+    "src800": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-en-t-1280.jpg",
+    "src800": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-hi-t-1280.jpg",
+    "src800": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-en-1280.jpg",
+    "src800": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-hi-1280.jpg",
+    "src800": "/photos/i-hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Hazaribagh Danua valley crash or a Jharkhand truck crash; library, quick_photo, finder h0920 (k3, k4 empty)"
  }
 }

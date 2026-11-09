@@ -108,9 +108,6 @@ The Indian plan was reported to have been carried to Kyiv by External Affairs Mi
 {"title":"India and the Ukraine war","items":[{"date":"August 2024","text":"Modi visits Kyiv, the first Indian prime minister to do so"},{"date":"August 30, 2025","text":"Modi and Zelenskyy speak by phone"},{"date":"June 17, 2026","text":"The two leaders meet at the G7 summit in France"},{"date":"October 3, 2026","text":"Ukraine's foreign minister calls India's truce proposal the most comprehensive"},{"date":"October 16, 2026","text":"India's envoy in Moscow says Delhi is in touch with Russia on dialogue"},{"date":"November 9, 2026","text":"Modi and Zelenskyy speak by phone"}]}
 ```
 
-```photo
-{"n":1,"subject":"S. Jaishankar","caption":"External Affairs Minister S Jaishankar, who was reported to have carried India's truce proposal to Kyiv in September.","alt":"External Affairs Minister S Jaishankar"}
-```
 
 ## Moscow's view, and the diplomacy around it
 

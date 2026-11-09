@@ -98,9 +98,6 @@ On **September 11, the European Commission sent its proposal to the Council** to
 
 Last month, European Council President Antonio Costa said at an event in Montreal: "Prime Minister Modi will come in December to sign the deal." No date for the Brussels visit has been announced by either side.
 
-```photo
-{"n":1,"subject":"Antonio Costa","caption":"European Council President Antonio Costa has said Prime Minister Narendra Modi will come to Brussels in December to sign the trade deal.","alt":"Antonio Costa, President of the European Council"}
-```
 
 ## What the pact would change
 
@@ -110,9 +107,6 @@ Together the two sides would form a market of more than two billion people, roug
 
 India's goods trade with the EU stood at $136.53 billion in 2024-25, of which $75.85 billion were Indian exports and $60.68 billion Indian imports.
 
-```photo
-{"n":2,"subject":"Maroš Šefčovič","caption":"Trade Commissioner Maros Sefcovic sent the India agreement to the Council on September 11 for authorisation to sign.","alt":"Maroš Šefčovič, European Commissioner for Trade"}
-```
 
 ## What happens next
 
