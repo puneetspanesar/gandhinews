@@ -1,0 +1,15 @@
+{
+ "run": "stall-16",
+ "start": "2026-11-09T16:58:51+05:30",
+ "end": "2026-11-09T17:08:13+05:30",
+ "summary": "Gogoi lead repeated since 12:38; Novaya Gazeta leads with a Muratov photo",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "led or sat beside the lead at 16:48 as well: novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+ ],
+ "lead": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+}

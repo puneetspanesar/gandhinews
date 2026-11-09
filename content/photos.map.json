@@ -35670,46 +35670,16 @@
   "nophoto": "no correct free photo of RBI Mint Street tower or Sanjay Malhotra; library (Malhotra absent), quick_photo (only a wall close-up, blocklisted, and a rotated unclear tower), finder down (GitHub Actions failing)"
  },
  "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement": {
-  "id": "i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-  "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-3x2-1280.jpg",
-  "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-3x2-640.jpg",
+  "id": "o-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+  "src": "/photos/o-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-1280.jpg",
+  "src800": "/photos/o-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Novaya Gazeta closes after 33 years",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 33 साल बाद नोवाया गज़ेटा बंद",
-  "page": null,
-  "ihash": "564c61d221d8",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-3x2-1280.jpg",
-    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-t-1280.jpg",
-    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-t-1280.jpg",
-    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-1280.jpg",
-    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-1280.jpg",
-    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-640.jpg"
-   }
-  },
-  "nophoto": "Dmitry Muratov"
+  "srcWidth": 2113,
+  "credit": "Photo: Euku / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Dmitry Muratov, editor of Novaya Gazeta (file photo)",
+  "alt_hi": "नोवाया गज़ेटा के संपादक दिमित्री मुराटोव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dmitry_Muratov,_2012.JPG"
  }
 }

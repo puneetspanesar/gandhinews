@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+    "id": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
     "overlay": {
       "kicker": {
-        "en": "Politics / Congress",
-        "hi": "राजनीति / कांग्रेस"
+        "en": "World / Russia",
+        "hi": "दुनिया / रूस"
       },
       "value": {
-        "en": "'Modi-Shah-ECI package'",
-        "hi": "'मोदी-शाह-ईसीआई पैकेज'"
+        "en": "Novaya Gazeta closes",
+        "hi": "नोवाया गज़ेटा बंद"
       },
       "text": {
         "en": "",
@@ -16,37 +16,22 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-      "special-session-of-parliament-explained-shah-offer-cec-removal"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
       "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
       "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
+      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
     ],
     "live": {
       "title": {
-        "en": "Congress",
-        "hi": "कांग्रेस"
+        "en": "Russia",
+        "hi": "रूस"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "lead": {
-          "en": "Russia:",
-          "hi": "रूस:"
-        },
-        "text": {
-          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
-          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
-        }
-      },
       {
         "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "lead": {
@@ -56,6 +41,17 @@
         "text": {
           "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
           "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
+        }
+      },
+      {
+        "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Trump expects to meet Xi and Putin in Shenzhen next week; China says it is in contact",
+          "hi": "ट्रंप को अगले हफ्ते शेनझेन में शी और पुतिन से मुलाकात की उम्मीद, चीन बोला: संपर्क में हैं"
         }
       },
       {
@@ -70,47 +66,58 @@
         }
       },
       {
-        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "lead": {
-          "en": "Technology:",
-          "hi": "तकनीक:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
-          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
+          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
+          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
         }
       },
       {
-        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
+        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Climate:",
+          "hi": "जलवायु:"
         },
         "text": {
-          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
-          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
+          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
+          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
         }
       },
       {
-        "link": "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+        "link": "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Chess:",
+          "hi": "शतरंज:"
         },
         "text": {
-          "en": "Police wrote to the MCD about the Chawri Bazar building in June. Six people are dead. Delhi needs to know what happened to that letter",
-          "hi": "जून में पुलिस ने चावड़ी बाज़ार की इमारत पर एमसीडी को लिखा था। छह लोग मारे गए। दिल्ली को जानना है कि उस चिट्ठी का क्या हुआ"
+          "en": "Anuj Shrivatri becomes India's 100th Grandmaster with a win in the Philippines",
+          "hi": "फिलीपींस में खिताब जीतकर अनुज श्रीवत्री भारत के 100वें ग्रैंडमास्टर बने"
         }
       },
       {
-        "link": "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+        "link": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Fires:",
+          "hi": "आगजनी:"
         },
         "text": {
-          "en": "Cancer drug trade margin cap explained: why MRPs of 137 medicines fall from November 9",
-          "hi": "कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या है: 9 नवंबर से 137 दवाओं की एमआरपी क्यों घटेगी"
+          "en": "Diwali night fires in Thane, Delhi, Ujjain and Nagpur: dozens rescued, no deaths reported",
+          "hi": "दिवाली की रात ठाणे, दिल्ली, उज्जैन और नागपुर में आग: दर्जनों लोग बचाए गए, मौत की खबर नहीं"
+        }
+      },
+      {
+        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "lead": {
+          "en": "Internal security:",
+          "hi": "आंतरिक सुरक्षा:"
+        },
+        "text": {
+          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
+          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
         }
       }
     ]
@@ -178,14 +185,20 @@
   },
   "topStories": {
     "big": {
-      "id": "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "id": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
       "also": []
     },
     "list": [
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+      "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
+      "amit-shah-first-diwali-five-decades-naxalism-freed-post"
     ],
-    "also": []
+    "also": [
+      "india-u19-pakistan-asia-cup-result-zahoor-century",
+      "modi-advani-99th-birthday-nation-first-foundation"
+    ]
   },
   "startHere": [
     "nz-mmp-explained-overhang-special-votes-130-seats",
@@ -358,8 +371,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "modi-advani-99th-birthday-nation-first-foundation"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
@@ -387,13 +401,15 @@
       "list": [
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent"
       ]
     },
     {
       "section": "policy",
-      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
+      "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
       "list": [
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
     },
@@ -428,9 +444,9 @@
       "lead": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
       "list": [
         "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
         "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
+        "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
       ]
     }
   ],
@@ -509,20 +525,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T07:39:45+05:30",
-      "ids": [
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-        "nz-mmp-explained-overhang-special-votes-130-seats"
-      ]
-    },
     {
       "at": "2026-11-09T08:33:58+05:30",
       "ids": [
@@ -624,6 +626,20 @@
         "e20-ethanol-row-needs-joint-testing-and-published-results",
         "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
         "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      ]
+    },
+    {
+      "at": "2026-11-09T17:02:14+05:30",
+      "ids": [
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"
       ]
     }
   ],
