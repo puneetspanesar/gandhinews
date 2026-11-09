@@ -1,6 +1,6 @@
 {
- "as_of": "2026-11-09T14:00:00+05:30",
- "status": "open",
+ "as_of": "2026-11-09T15:38:00+05:30",
+ "status": "closed",
  "session_date": "2026-11-09",
  "chart": "nifty-50",
  "indices": [
@@ -8,9 +8,9 @@
    "id": "sensex",
    "name": "Sensex",
    "name_hi": "सेंसेक्स",
-   "value": 80858.0,
-   "change": -141.4,
-   "pct": -0.17,
+   "value": 81106.65,
+   "change": 107.25,
+   "pct": 0.13,
    "history": [
     {
      "date": "2026-09-30",
@@ -107,6 +107,10 @@
     {
      "date": "2026-11-08",
      "close": 80999.4
+    },
+    {
+     "date": "2026-11-09",
+     "close": 81106.65
     }
    ],
    "source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
@@ -115,9 +119,9 @@
    "id": "nifty-50",
    "name": "Nifty 50",
    "name_hi": "निफ्टी 50",
-   "value": 24945.55,
-   "change": -40.85,
-   "pct": -0.16,
+   "value": 25044.65,
+   "change": 58.25,
+   "pct": 0.23,
    "history": [
     {
      "date": "2026-09-30",
@@ -218,6 +222,10 @@
     {
      "date": "2026-11-08",
      "close": 24986.4
+    },
+    {
+     "date": "2026-11-09",
+     "close": 25044.65
     }
    ],
    "source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
@@ -349,27 +357,17 @@
  },
  "sectors": [
   {
-   "name": "Pharma",
-   "name_hi": "फार्मा",
-   "pct": 1.12
-  },
-  {
-   "name": "Media",
-   "name_hi": "मीडिया",
-   "pct": 0.7
-  },
-  {
    "name": "PSU Bank",
    "name_hi": "सरकारी बैंक",
-   "pct": 0.7
+   "pct": 3.7
   },
   {
-   "name": "IT",
-   "name_hi": "आईटी",
-   "pct": -1.7
+   "name": "Pharma",
+   "name_hi": "फार्मा",
+   "pct": 1.65
   }
  ],
- "sectors_source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html (9:24 am IST, November 9)",
+ "sectors_source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html (closing entries, 3:33 to 3:38 pm IST, November 9)",
  "flows": {
   "date": "2026-11-06",
   "fii": 13750.0,
@@ -396,6 +394,7 @@
   "6 Nov 21:25 IST (hourly 21:00): closing values kept; no dated November 6 FII/DII flow figure found in a source read this run, flows keep November 5.",
   "8 Nov 16:20 IST (hourly 16:00): Muhurat trading (Samvat 2083) close, Sensex 80,999.40 (-28.62, -0.04%) and Nifty 50 24,986.40 (-43.95, -0.18%) from Business Standard (3:33 pm) and India TV (4:00 pm), matching Upstox; appended to history. Other indices, rates, movers, sectors and flows keep earlier values (no dated Muhurat figure read).",
   "9 Nov 10:25 IST (hourly 10): Sensex, Nifty 50 at 10:00 am and sectors at 9:24 am from Business Standard live blog; Brent from PTI copy 10:14 am. Nifty Bank, Midcap, VIX, rupee, gold, silver, yield and movers with % not found in a source read this run: old values kept.",
-  "9 Nov 14:40 IST (hourly 14): Sensex 80,858 (-141.40, -0.17%) and Nifty 50 24,945.55 at 2:00 pm from the Business Standard live blog (blog gives Nifty -54.80, inconsistent with the 24,986.40 Muhurat close, so change worked out against that close). Other indices, rates, movers, sectors and flows keep earlier values (no dated figure with levels read)."
+  "9 Nov 14:40 IST (hourly 14): Sensex 80,858 (-141.40, -0.17%) and Nifty 50 24,945.55 at 2:00 pm from the Business Standard live blog (blog gives Nifty -54.80, inconsistent with the 24,986.40 Muhurat close, so change worked out against that close). Other indices, rates, movers, sectors and flows keep earlier values (no dated figure with levels read).",
+  "9 Nov 16:20 IST (hourly 16:00): Sensex 81,106.65 (+107.25, +0.13%) and Nifty 50 25,044.65 (+58.25, +0.23%) closes and PSU Bank +3.7%, Pharma +1.65% from the Business Standard live blog closing entries read this run; Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept from earlier reads (no closing figure found in a source read this run)."
  ]
 }

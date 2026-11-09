@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+    "id": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
     "overlay": {
       "kicker": {
-        "en": "World / Diplomacy",
-        "hi": "दुनिया / कूटनीति"
+        "en": "Economy / RBI",
+        "hi": "अर्थव्यवस्था / आरबीआई"
       },
       "value": {
-        "en": "A Trump, Xi, Putin meeting in Shenzhen?",
-        "hi": "शेनझेन में ट्रंप, शी, पुतिन की मुलाकात?"
+        "en": "RBI lends ₹50,003 crore for four days",
+        "hi": "आरबीआई ने चार दिन के लिए ₹50,003 करोड़ दिए"
       },
       "text": {
         "en": "",
@@ -16,22 +16,37 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "daily-crr-rule-explained-banks-borrowers",
+      "wpi-vs-cpi-explained-wholesale-retail-inflation",
+      "festive-sales-boom-does-not-mean-inflation-can-wait"
+    ],
     "relatedBeside": [
+      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
       "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-      "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open"
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
     ],
     "live": {
       "title": {
-        "en": "Diplomacy",
-        "hi": "कूटनीति"
+        "en": "RBI",
+        "hi": "आरबीआई"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "Delhi minister Kapil Mishra asks Mann to file FIRs over what he says were 1,200 Diwali stubble fires in Punjab",
+          "hi": "दिल्ली के मंत्री कपिल मिश्रा ने पंजाब में दिवाली पर उनके मुताबिक 1,200 पराली आग पर मान से एफआईआर मांगी"
+        }
+      },
       {
         "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "lead": {
@@ -44,80 +59,69 @@
         }
       },
       {
-        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Technology:",
+          "hi": "तकनीक:"
         },
         "text": {
-          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
-          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
+          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
+          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
         }
       },
       {
-        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
-          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
+          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
+          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
         }
       },
       {
-        "link": "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "link": "nz-mmp-explained-overhang-special-votes-130-seats",
         "lead": {
-          "en": "Chess:",
-          "hi": "शतरंज:"
+          "en": "New Zealand:",
+          "hi": "न्यूज़ीलैंड:"
         },
         "text": {
-          "en": "Anuj Shrivatri becomes India's 100th Grandmaster with a win in the Philippines",
-          "hi": "फिलीपींस में खिताब जीतकर अनुज श्रीवत्री भारत के 100वें ग्रैंडमास्टर बने"
+          "en": "New Zealand's election explained: how MMP, overhang seats and special votes decide who governs",
+          "hi": "न्यूज़ीलैंड चुनाव समझिए: एमएमपी, ओवरहैंग सीटें और स्पेशल वोट कैसे तय करते हैं कि सरकार किसकी बनेगी"
         }
       },
       {
-        "link": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "link": "e20-ethanol-row-needs-joint-testing-and-published-results",
         "lead": {
-          "en": "Fires:",
-          "hi": "आगजनी:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Diwali night fires in Thane, Delhi, Ujjain and Nagpur: dozens rescued, no deaths reported",
-          "hi": "दिवाली की रात ठाणे, दिल्ली, उज्जैन और नागपुर में आग: दर्जनों लोग बचाए गए, मौत की खबर नहीं"
+          "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
+          "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
         }
       },
       {
-        "link": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+        "link": "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Delhi wakes to smog the morning after Diwali, AQI 366 at 6:30 am",
-          "hi": "दिवाली के अगले दिन दिल्ली में धुंध की चादर, सुबह 6:30 बजे एक्यूआई 366"
+          "en": "Police wrote to the MCD about the Chawri Bazar building in June. Six people are dead. Delhi needs to know what happened to that letter",
+          "hi": "जून में पुलिस ने चावड़ी बाज़ार की इमारत पर एमसीडी को लिखा था। छह लोग मारे गए। दिल्ली को जानना है कि उस चिट्ठी का क्या हुआ"
         }
       },
       {
-        "link": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "link": "e20-petrol-explained-ethanol-blend-karnataka-row",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Fuel:",
+          "hi": "ईंधन:"
         },
         "text": {
-          "en": "Rubio calls Iran's demands 'outrageous and ridiculous' and says no deal is close as US-Iran peace talks stall; India watches oil",
-          "hi": "रुबियो ने ईरान की मांगों को 'अपमानजनक और हास्यास्पद' बताया, समझौता करीब नहीं; अमेरिका-ईरान शांति वार्ता अटकी, भारत की नजर तेल और खाड़ी पर"
-        }
-      },
-      {
-        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "lead": {
-          "en": "Internal security:",
-          "hi": "आंतरिक सुरक्षा:"
-        },
-        "text": {
-          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
-          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
+          "en": "E20 petrol explained: what the 20% ethanol blend means and why Karnataka's test result is disputed",
+          "hi": "ई20 पेट्रोल क्या है: 20% एथेनॉल मिश्रण का मतलब और कर्नाटक की जांच पर विवाद क्यों"
         }
       }
     ]
@@ -185,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+      "id": "nz-mmp-explained-overhang-special-votes-130-seats",
       "also": []
     },
     "list": [
-      "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-      "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-      "india-u19-pakistan-asia-cup-result-zahoor-century",
-      "modi-advani-99th-birthday-nation-first-foundation"
+      "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+      "e20-petrol-explained-ethanol-blend-karnataka-row",
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ],
     "also": [
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
+      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
     ]
   },
   "startHere": [
@@ -371,15 +375,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "modi-advani-99th-birthday-nation-first-foundation"
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
     {
       "section": "economy",
-      "lead": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "lead": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,9 +394,9 @@
         ]
       },
       "list": [
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires"
+        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083"
       ]
     },
     {
@@ -401,14 +405,13 @@
       "list": [
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent"
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "lead": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
       "list": [
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
@@ -444,9 +447,9 @@
       "lead": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
       "list": [
         "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
         "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
+        "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+        "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday"
       ]
     }
   ],
@@ -525,20 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T00:29:49+05:30",
-      "ids": [
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
-        "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "japan-aichi-shizuoka-earthquake-57-22-injured"
-      ]
-    },
     {
       "at": "2026-11-09T07:39:45+05:30",
       "ids": [
@@ -638,6 +627,23 @@
         "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
         "amit-shah-first-diwali-five-decades-naxalism-freed-post"
+      ]
+    },
+    {
+      "at": "2026-11-09T16:23:05+05:30",
+      "ids": [
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "daily-crr-rule-explained-banks-borrowers",
+        "wpi-vs-cpi-explained-wholesale-retail-inflation",
+        "festive-sales-boom-does-not-mean-inflation-can-wait",
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+        "nz-mmp-explained-overhang-special-votes-130-seats",
+        "e20-ethanol-row-needs-joint-testing-and-published-results",
+        "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+        "e20-petrol-explained-ethanol-blend-karnataka-row"
       ]
     }
   ],

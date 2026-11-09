@@ -35637,5 +35637,48 @@
   "alt": "Reserve Bank of India headquarters building in Mumbai (file photo)",
   "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक के मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Air_cooler_outlets_at_SBI_munnekollala.._.jpg"
+ },
+ "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement": {
+  "id": "i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+  "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-3x2-1280.jpg",
+  "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Novaya Gazeta closes after 33 years",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 33 साल बाद नोवाया गज़ेटा बंद",
+  "page": null,
+  "ihash": "564c61d221d8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-3x2-1280.jpg",
+    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-t-1280.jpg",
+    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-t-1280.jpg",
+    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-1280.jpg",
+    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-1280.jpg",
+    "src800": "/photos/i-novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement-hi-640.jpg"
+   }
+  },
+  "nophoto": "Dmitry Muratov"
  }
 }
