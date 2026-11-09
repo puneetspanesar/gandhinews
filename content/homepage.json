@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+    "id": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
     "overlay": {
       "kicker": {
-        "en": "Politics / Internal security",
-        "hi": "राजनीति / आंतरिक सुरक्षा"
+        "en": "States / Punjab",
+        "hi": "राज्य / पंजाब"
       },
       "value": {
-        "en": "First Diwali in five decades free of Naxalism: Shah",
-        "hi": "पांच दशकों में पहली नक्सलमुक्त दिवाली: शाह"
+        "en": "1,152 Punjab farm fires on Diwali",
+        "hi": "दिवाली पर पंजाब में 1,152 आग"
       },
       "text": {
         "en": "",
@@ -18,20 +18,42 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
       "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-      "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
+      "cop31-opens-antalya-turkey-australia-negotiations-india-position"
     ],
     "live": {
       "title": {
-        "en": "Internal security",
-        "hi": "आंतरिक सुरक्षा"
+        "en": "Punjab",
+        "hi": "पंजाब"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Trump expects to meet Xi and Putin in Shenzhen next week; China says it is in contact",
+          "hi": "ट्रंप को अगले हफ्ते शेनझेन में शी और पुतिन से मुलाकात की उम्मीद, चीन बोला: संपर्क में हैं"
+        }
+      },
+      {
+        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "lead": {
+          "en": "Congress:",
+          "hi": "कांग्रेस:"
+        },
+        "text": {
+          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
+          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
+        }
+      },
       {
         "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "lead": {
@@ -66,58 +88,36 @@
         }
       },
       {
-        "link": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
-          "en": "Fires:",
-          "hi": "आगजनी:"
+          "en": "Technology:",
+          "hi": "तकनीक:"
         },
         "text": {
-          "en": "Diwali night fires in Thane, Delhi, Ujjain and Nagpur: dozens rescued, no deaths reported",
-          "hi": "दिवाली की रात ठाणे, दिल्ली, उज्जैन और नागपुर में आग: दर्जनों लोग बचाए गए, मौत की खबर नहीं"
+          "en": "Nvidia board opens independent probe into CEO Jensen Huang as he apologises to staff",
+          "hi": "एनवीडिया बोर्ड ने सीईओ जेन्सन हुआंग की स्वतंत्र जांच शुरू की, हुआंग ने कर्मचारियों से माफी मांगी"
         }
       },
       {
-        "link": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Delhi wakes to smog the morning after Diwali, AQI 366 at 6:30 am",
-          "hi": "दिवाली के अगले दिन दिल्ली में धुंध की चादर, सुबह 6:30 बजे एक्यूआई 366"
-        }
-      },
-      {
-        "link": "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "lead": {
           "en": "Internal security:",
           "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Modi's figures for 15,000 km of roads and 9,500 towers in Naxal-hit areas run ahead of the Home Ministry's own counts",
-          "hi": "नक्सल प्रभावित इलाकों में 15,000 किमी सड़क और 9,500 टावर का मोदी का दावा गृह मंत्रालय के अपने आंकड़ों से आगे है"
+          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
+          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
         }
       },
       {
-        "link": "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+        "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
         },
         "text": {
-          "en": "Maharashtra has paid ₹5,000 to 87 lakh drought-hit farmers. The reservoirs are the harder test, and the numbers should be public",
-          "hi": "महाराष्ट्र ने 87 लाख सूखा-पीड़ित किसानों को ₹5,000 दिए। असली परीक्षा जलाशयों की है, और आंकड़े सार्वजनिक होने चाहिए"
-        }
-      },
-      {
-        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
-          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
+          "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
+          "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
         }
       }
     ]
@@ -185,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+      "id": "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
       "also": []
     },
     "list": [
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
-      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-      "nz-mmp-explained-overhang-special-votes-130-seats",
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer"
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
     ],
     "also": [
-      "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+      "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
     ]
   },
   "startHere": [
     "nz-mmp-explained-overhang-special-votes-130-seats",
-    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
     "e20-petrol-explained-ethanol-blend-karnataka-row",
-    "bbmb-power-sharing-explained-himachal-share-supreme-court"
+    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+    "obc-creamy-layer-explained-parents-salary-supreme-court"
   ],
   "trackers": [
     {
@@ -359,8 +359,8 @@
   "opinion": [
     "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "e20-ethanol-row-needs-joint-testing-and-published-results",
+    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
     "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
   ],
   "sections": [
@@ -397,11 +397,11 @@
     },
     {
       "section": "states",
-      "lead": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+      "lead": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
       "list": [
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent"
       ]
     },
     {
@@ -425,19 +425,18 @@
   "desks": [
     {
       "section": "world",
-      "lead": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+      "lead": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
       "list": [
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
         "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
-        "japan-aichi-shizuoka-earthquake-57-22-injured"
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
       ]
     },
     {
       "section": "science",
       "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
       "list": [
-        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "nadda-national-cancer-awareness-day-screening-appeal"
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
       ]
     },
     {
@@ -507,10 +506,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
-        "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
+        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
+        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
       },
-      "link": "imd-sunday-rain-south-western-disturbance-november-10-himalaya"
+      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
     },
     {
       "icon": "calendar-blank",
@@ -519,29 +518,13 @@
         "hi": "कल"
       },
       "text": {
-        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
-        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
+        "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
+        "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
       },
-      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T21:10:31+05:30",
-      "ids": [
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-        "meghwal-diwali-bsf-bikaner-soldiers-family",
-        "india-u19-pakistan-asia-cup-result-zahoor-century",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore",
-        "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "muhurat-trading-diwali-sunday-afternoon-session-samvat-2083",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
-      ]
-    },
     {
       "at": "2026-11-08T23:12:29+05:30",
       "ids": [
@@ -641,6 +624,20 @@
         "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
         "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
         "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
+      ]
+    },
+    {
+      "at": "2026-11-09T14:48:12+05:30",
+      "ids": [
+        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent"
       ]
     }
   ],

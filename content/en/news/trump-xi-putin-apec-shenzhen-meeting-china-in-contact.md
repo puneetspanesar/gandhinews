@@ -94,19 +94,11 @@ Trump has also said a Ukraine deal is close. In [remarks at the White House on N
 
 On Iran, talks are stuck. Tehran passed Washington [a nuclear proposal through Qatar](/en/news/iran-hands-us-nuclear-proposal-seven-demands) but only after seven demands, including sanctions relief and reparations, are met. Two tankers were reported on fire near the Strait of Hormuz on November 8.
 
-```photo
-{"n":1,"subject":"Vladimir Putin","caption":"Russian President Vladimir Putin, whose attendance in Shenzhen the Kremlin says is being prepared with China as host.","alt":"Russian President Vladimir Putin"}
-```
-
 ## What it means for India
 
 India is not an APEC member and will not be at the table, but the topics are ones that move its bills. India spent **$90.6 billion on crude imports** in April to September, 46.3% more than a year earlier on almost unchanged volumes, as the Indian basket averaged $116.09 a barrel in September, according to the oil ministry's PPAC data. A deal that ends the Iran war and reopens Gulf shipping lanes would bear directly on that figure.
 
 Russia is the other thread. India bought about 2.08 million barrels a day of Russian crude in August, roughly 45% of its imports, according to Kpler. A US law signed on September 18 allows tariffs of up to 100% on the top buyers of Russian oil, and [President Trump waived it on October 16](/en/news/trump-waives-russia-sanctions-law-india-tariff-threat) for now. Any Ukraine settlement discussed in Shenzhen could decide whether that waiver stays. No Indian government reaction to Trump's remarks had been issued by Monday afternoon.
-
-```photo
-{"n":2,"subject":"Shenzhen","caption":"Shenzhen, the southern Chinese tech hub that hosts the APEC leaders' summit on November 18 and 19.","alt":"Shenzhen, China"}
-```
 
 ## What happens next
 

@@ -66,7 +66,7 @@
 .d-st{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr) minmax(0,1fr)}
 .d-st .d-blk .d-lab{margin-top:10px}
 /* business */
-.d-ec{display:grid;grid-template-columns:330px minmax(0,1fr) minmax(0,1fr)}
+.d-ec{display:grid;grid-template-columns:330px minmax(0,1fr) minmax(0,1fr)}.d-ec2{grid-template-columns:330px minmax(0,1fr)}
 .d-mkh{display:flex;justify-content:space-between;align-items:baseline;font-size:15px;gap:8px}
 .d-mkh .num{font-size:14px}
 .dhome .up{color:var(--up)}.dhome .dn{color:var(--red)}

@@ -1,0 +1,22 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-09T14:08:35+05:30",
+ "end": "2026-11-09T14:50:43+05:30",
+ "summary": "Mishra FIR demand over Punjab stubble fires leads; Trump-Xi-Putin APEC; markets 2 pm",
+ "new": [
+  "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+  "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+   "why": "The headline is about Delhi minister Kapil Mishra demanding FIRs from Bhagwant Mann, but the main picture is only a generic file photo of farmers burning stubble. Mishra, the well-known politician who spoke and acted, does not appear anywhere (rule 1). Separately, the headline and first key point state '1,200 Diwali stubble fires' as fact. That is Mishra's figure; Punjab's own data, which the source confirms, says 1,152.",
+   "done": "1,200 attributed to Mishra in headline, key point and description in both languages, with Punjab's 1,152 beside it. Picture: finder h0914b for 'Kapil Mishra' returned 8 candidates, none of him (Kapil Sibal, a doctor, group shots); library and quick_photo have none. No correct photo of him exists, so the main picture stays the labelled file photo of the Punjab stubble fires his charge is about; he is in people.tsv for the library run."
+  }
+ ],
+ "breaches": [],
+ "lead": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires"
+}

@@ -5,12 +5,12 @@ type: news
 section: states
 format_label: "States / Punjab"
 topics: []
-title: "Delhi minister Kapil Mishra asks Mann to file FIRs over 1,200 Diwali stubble fires in Punjab"
+title: "Delhi minister Kapil Mishra asks Mann to file FIRs over what he says were 1,200 Diwali stubble fires in Punjab"
 standfirst: "Mishra called the Diwali spike a conspiracy against Delhi and wants AAP leaders' phone records checked. Punjab's own data shows 1,152 fires on November 8, the worst day of the season."
 published: 2026-11-09T14:16:17+05:30
 location: New Delhi
 keyPoints:
-  - "Delhi minister Kapil Mishra asked Bhagwant Mann to **file FIRs over 1,200 stubble fires** in Punjab on Diwali."
+  - "Delhi minister Kapil Mishra asked Bhagwant Mann to **file FIRs** over what he says were 1,200 stubble fires in Punjab on Diwali; Punjab's data shows 1,152."
   - "Punjab's own satellite count put November 8 at **1,152 fires**, against 163 on November 7."
   - "AAP's Saurabh Bhardwaj answered by alleging that Delhi's **air quality data is manipulated**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "1,152 Punjab farm fires on Diwali"
 related: [punjab-farm-fires-season-worst-day-amritsar-tarn-taran, delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441]
 seo:
-  description: "Delhi minister Kapil Mishra asked Punjab CM Bhagwant Mann on November 9 to file FIRs over 1,200 Diwali stubble fires and probe AAP leaders; Punjab recorded 1,152 fires on November 8."
+  description: "Delhi minister Kapil Mishra asked Punjab CM Bhagwant Mann on November 9 to file FIRs over what he says were 1,200 Diwali stubble fires and probe AAP leaders; Punjab recorded 1,152 fires on November 8."
 infographic:
   kicker: "Punjab farm fires"
   headline: "Diwali day brings the season's worst spike"
@@ -64,11 +64,7 @@ The minister offered no evidence beyond the satellite counts, and the sources re
 
 Punjab's data confirms a sharp rise, though not the same figures. The state's Remote Sensing Centre detected **1,152 farm fires on Sunday, November 8**, the highest single day of the season, against 163 on November 7. Sangrur logged 194 of them. The season total reached 4,459, with 91.40% of the paddy area harvested.
 
-Enforcement figures reported with the data show 2,998 locations inspected, 1,310 cases of burning physically verified and 884 FIRs registered. Tarn Taran has the most fires this season, 684 of which 306 were verified as stubble burning, followed by Firozpur with 592, of which 247 were verified.
-
-```photo
-{"n":1,"subject":"Kapil Mishra","caption":"Delhi minister Kapil Mishra, who made the FIR demand at a press conference on November 9.","alt":"Kapil Mishra, Delhi minister"}
-```
+Enforcement figures reported with the data show 2,998 locations inspected and 1,310 cases of burning physically verified. Tarn Taran has the most fires this season, 684 of which 306 were verified as stubble burning, followed by Firozpur with 592, of which 247 were verified.
 
 ## Season in context
 
@@ -80,7 +76,7 @@ Despite the Diwali spike, this season sits far below recent years. Punjab record
 
 ## The row over Delhi's air
 
-The charge came as Delhi's air stayed poor after Diwali. The city's AQI was **371 at 10 am on Monday**, in the "very poor" category, and some stations crossed 400. Mishra said Delhi's air was better than under the Kejriwal government, claiming post-Diwali pollution rose 43.33% in 2023 and about 10% in 2024 but fell 1.33% this year. He did not say which pollutants, areas or hours he used.
+The charge came as **Delhi's air stayed poor after Diwali**. Mishra said Delhi's air was better than under the Kejriwal government, claiming post-Diwali pollution rose 43.33% in 2023 and about 10% in 2024 but fell 1.33% this year. He did not say which pollutants, areas or hours he used.
 
 AAP turned the allegation back on the Delhi government. Delhi AAP president Saurabh Bhardwaj said the BJP-led government was tampering with air quality data, claiming that monitors in polluted spots were shut, about 20 new stations were placed in green areas and water was sprayed near monitors. He said AQI had crossed 3,000 in parts of Delhi on Diwali night. India's official AQI scale tops out at 500, and pollutant concentrations are not the same as AQI values. AAP's Shelly Oberoi said the BJP government must answer with action, not rhetoric.
 
