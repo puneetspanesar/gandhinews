@@ -8,11 +8,13 @@ Built only from photos we already hold under licence (content/photos.map.json); 
   a red arch behind the subject, thin-line chart marks, a line grid, a dot grid and small red squares
   the subject cut out (rembg) and set in front, bottom-anchored
 
-Never a second copy of the subject; never a portrait of anyone else. Credits of every photo used are joined.
+Never a second copy of the subject; never a portrait of anyone else.
+An infographic story gets a cover too: the named person's solo library photo cut out, or, failing that, a collage of
+3-4 related scene photos (the main one in natural colour). Its story page keeps the infographic. Credits of every photo used are joined.
 A story photo with no clear subject to cut out (a place, a crowd, an object) is set whole as the main tile.
 
 Writes public/photos/t-<id>-1280.jpg and -640.jpg and sets "treated" on the story's photos.map.json entry.
-Usage (repo root): python3 newsroom/scripts/treat_photo.py <story-id> [...]   |   --missing  (photo stories, last 72 hours)
+Usage (repo root): python3 newsroom/scripts/treat_photo.py <story-id> [...]   |   --missing [hours]  (every story, default last 72 hours)
 """
 import hashlib, json, os, random, re, sys
 import numpy as np
@@ -70,14 +72,17 @@ BUCKETS = [
     (r'Naxal|Maoist|insurg|terror|security review|internal security|police', r'CRPF|security forces|Bastar|Dantewada|Sukma|jungle'),
     (r'climate|COP\d*|emission|pollution|AQI|smog|GRAP|heat|monsoon|flood|cyclone|rain', r'smog|pollution|climate|emission|solar|wind|flood|rain|cyclone|haze|skyline'),
     (r'Sensex|Nifty|market|shares|stock|investor|SEBI|IPO', r'Stock Exchange|BSE|NSE|Dalal|exchange'),
-    (r'RBI|rupee|inflation|repo|bank|forex|GDP|fiscal|Budget|tax|GST', r'Reserve Bank|bank|North Block|Finance Ministry|currency|rupee'),
+    (r'RBI|rupee|inflation|repo\b|repo rate|banks?\b|banking|forex|GDP|fiscal|Budget|tax\b|taxes|GST', r'Reserve Bank|bank|North Block|Finance Ministry|currency|rupee'),
     (r'farm|crop|paddy|wheat|kharif|rabi|MSP|drought|mandi|agricultur', r'farmers|field|crop|paddy|wheat|mandi|harvest|tractor'),
     (r'rail|train|Vande|station', r'railway|train|station|Vande'),
     (r'flight|airline|IndiGo|Air India|airport|aviation|DGCA', r'aircraft|airport|plane|airline|terminal'),
-    (r'cricket|\bT20\b|\bODI\b|Test match|IPL|wicket|innings', r'cricket|stadium|pitch|ground'),
-    (r'tennis|Open\b|Masters|ATP|WTA', r'tennis|court'),
+    (r'cricket|\bT20\b|\bODI\b|Test match|IPL|wicket|innings', r'cricket|stadium|pitch'),
+    (r'tennis|ATP|WTA', r'tennis'),
     (r'hockey|football|kabaddi|chess|badminton|athlet|Olympic', r'stadium|ground|arena|hall'),
-    (r'Diwali|Deepavali|festival|Chhath|puja|temple|Ayodhya', r'diyas|lamps|Deepotsav|rangoli|festival'),
+    (r'Diwali|Deepavali|festival|Chhath|puja|temple|Ayodhya', r'diyas|lamps|Deepotsav|rangoli|Diwali'),
+    (r'fire|blaze|firecracker|burn', r'fire|blaze|firefighters|fire tender|smoke|flames'),
+    (r'earthquake|quake|tremor|landslide|collapse', r'earthquake|rubble|collapsed|rescue|landslide'),
+    (r'Test|ODI|India A|innings|wicket|runs\b|rain', r'cricket|stadium|pitch|ground'),
     (r'hospital|health|doctor|medical|AIIMS|vaccine|disease', r'hospital|AIIMS|medical|clinic'),
     (r'school|exam|student|university|NEET|JEE|CBSE|UGC', r'school|university|campus|students|exam'),
     (r'fishermen|fishing|boat|sea|coast|port', r'fishermen|boats|harbour|port|coast|sea'),
@@ -87,7 +92,7 @@ BUCKETS = [
 ]
 
 
-def related(sid, M, n=3):
+def related(sid, M, n=3, strict=False):
     """The best 2-3 scene photos from our own library for this story: same topic, same place, never a portrait."""
     d = fm(sid); e = M[sid]
     text = ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label'))
@@ -103,13 +108,15 @@ def related(sid, M, n=3):
         if k == sid or x.get('graphic') or not x.get('src') or not x.get('alt') or k.startswith('x-'): continue
         alt = x['alt']
         if people(alt) or os.path.basename(x['src']).split('-1280')[0] == own: continue   # places and scenes only
+        if PERSONISH.search(alt): continue
         if d.get('section') != 'world' and FOREIGN.search(alt): continue                              # no foreign scenes on Indian stories
+        if d.get('section') == 'world' and (re.search(r'\bIndia|Indian\b', alt) or any(c in alt for c in list(ALIAS) + list(STATES))): continue   # no Indian scenes on world stories
         if state and any(st in alt for st in STATES if st != state) and state not in alt: continue   # another state's scene
         if state and any(c in alt for c, st in ALIAS.items() if st != state and c not in ('New Delhi',)) and state not in alt: continue
         topic = sum(1 for arx in want if re.search(arx, alt, re.I))
         place = 1 if state and (state in alt or any(c in alt for c, st in ALIAS.items() if st == state)) else 0
-        if topic == 0 and not (place and SCENE.search(alt)): continue
-        cands.append((topic * 3 + place * 2, k, alt))
+        if topic == 0 and (strict or not (place and SCENE.search(alt))): continue
+        cands.append((topic * 3 + place * 2 - min(USED.get(k, 0), 4) * 1.2, k, alt))   # spread the library: a much-used photo drops
     cands.sort(key=lambda t: (-t[0], t[1]))
     out, seenalt = [], set()
     for sc, k, alt in cands:
@@ -144,6 +151,29 @@ def generic(sid, M, have, n):
            and re.search(want, x['alt'], re.I) and os.path.exists('public' + x['src'])]
     random.Random(sid).shuffle(out)
     return out[:n]
+
+
+PEOPLE = json.load(open(R + 'newsroom/library/people.json'))
+PERSONISH = re.compile(r'\b(Justice|Dr|Mr|Mrs|Ms|Shri|Smt|minister|leader|chief|CM|MP|MLA|chairman|chairperson|CEO|president|woman|man|girl|boy|portrait|speaks|speaking|addresses|addressing|actor|player|batter|bowler|captain|coach)\b', re.I)
+USED = {}   # how often each library photo already sits in a collage (filled in main)
+
+
+def portrait(sid, M):
+    """For a story without its own photo: a solo photo we hold of the person named first in its headline."""
+    d = fm(sid); title = str(d.get('title') or ''); stand = str(d.get('standfirst') or '')
+    named = sorted((title.find(v['en']), k, v) for k, v in PEOPLE.items() if v['en'] in title)   # the headline's person only
+    for _, k, v in named:
+        name = v['en']; best = None
+        for mk, x in M.items():
+            alt = x.get('alt') or ''
+            if mk == sid or x.get('graphic') or x.get('nohome') or mk.startswith('x-') or not x.get('src'): continue
+            if os.path.basename(x['src']).startswith(('v-', 't-')): continue          # no composites, no covers
+            if name not in alt or (people(alt) - {name}): continue                      # him or her alone
+            if not os.path.exists('public' + x['src']): continue
+            w = x.get('srcWidth') or x.get('width') or 0
+            if best is None or w > best[0]: best = (w, mk)
+        if best: return best[1]
+    return None
 
 
 def cutout(im):
@@ -223,18 +253,38 @@ def arch(w, h, color=RED):
 
 def treat(sid, M):
     e = M[sid]
-    orig = Image.open('public' + e['src']).convert('RGB')
+    # the subject: the story's own photo; for an infographic story, a library portrait of the person it is about;
+    # otherwise none, and the cover is a collage of related scene photos only
+    src_key = sid if not e.get('graphic') else portrait(sid, M)
+    main_scene = None
+    if src_key is None:
+        main_scene = related(sid, M, 4, strict=True)
+        if len(main_scene) < 3: return None, False, []
+        # the main photo must clearly be about this story: a real word of the headline in its caption
+        tw = {w.lower() for w in words(str(fm(sid).get('title') or '')) if len(w) >= 5}
+        pick = next((k for k in main_scene if len(tw & {w.lower() for w in words(M[k]['alt'])}) >= 2), None)
+        if not pick: return None, False, []
+        main_scene = [pick] + [k for k in main_scene if k != pick]
+    orig = Image.open('public' + M[src_key]['src']).convert('RGB') if src_key else None
     rnd = random.Random(int(hashlib.md5(sid.encode()).hexdigest()[:8], 16))
     flip = rnd.random() < .5
     X = (lambda x, w: W - x - w) if flip else (lambda x, w: x)      # mirror a box when the subject sits on the right
     can = grain(Image.new('RGB', (W, H), PAPER), 6, rnd.randrange(1 << 30)).convert('RGBA')
 
-    rel = related(sid, M, 3)
-    if len(rel) < 2: rel += generic(sid, M, set(rel) | {sid}, 3 - len(rel))
+    if main_scene:
+        rel = main_scene[1:]; centre = main_scene[0]
+    else:
+        rel = [k for k in related(sid, M, 4) if k != src_key][:3]
+        if len(rel) < 2: rel += generic(sid, M, set(rel) | {sid, src_key}, 3 - len(rel))
+        centre = None
     paths = ['public' + M[k]['src'] for k in rel]
 
-    cut, a = cutout(orig)
-    ok = .05 < a.mean() < .7 and a[-int(a.shape[0] * .2):].mean() > .04
+    if orig is not None:
+        cut, a = cutout(orig)
+        ok = .05 < a.mean() < .7 and a[-int(a.shape[0] * .2):].mean() > .04
+    else:
+        ok = False
+    if src_key and src_key != sid and not ok: return None, False, []   # a library portrait that will not cut out cleanly
 
     can.alpha_composite(grid(220, 154), (X(36, 220), 40))
     can.alpha_composite(dots(176, 112), (X(W - 220, 176), H - 150))
@@ -257,20 +307,23 @@ def treat(sid, M):
         x0 = cxs - cut.width // 2; y0 = H - cut.height
         can.alpha_composite(rim, (x0, y0)); can.alpha_composite(cut, (x0, y0))
     else:
-        aw, ah = 380, int(H * .7)
-        can.alpha_composite(arch(aw, ah), (X(470, aw), H - ah))
         cw, ch = 700, 470
-        can.alpha_composite(tile('public' + e['src'], cw, ch, rnd, False, 'tblr'), ((W - cw) // 2 + (40 if not flip else -40), 160))
+        tx = (W - cw) // 2 + (40 if not flip else -40)
+        aw, ah = 280, 220     # a red dome rising from behind the top edge of the main photo
+        can.alpha_composite(arch(aw, ah), ((tx + cw - aw - 70) if not flip else (tx + 70), 160 - 120))
+        main = 'public' + (M[centre]['src'] if centre else e['src'])
+        can.alpha_composite(tile(main, cw, ch, rnd, False, 'tblr'), ((W - cw) // 2 + (40 if not flip else -40), 160))
 
     out = can.convert('RGB')
     pid = 't-' + sid[:60]
     out.save(f'public/photos/{pid}-1280.jpg', quality=86, optimize=True)
     out.resize((640, 400), Image.LANCZOS).save(f'public/photos/{pid}-640.jpg', quality=84, optimize=True)
     credits = []
-    for k in [sid] + rel:
+    for k in ([src_key] if src_key else []) + ([centre] if centre else []) + rel:
         for c in M[k].get('credit', '').replace('Photos: ', '').replace('Photo: ', '').split('; '):
             if c and c not in credits: credits.append(c)
-    e['treated'] = {'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'cutout': bool(ok), 'with': rel,
+    e['treated'] = {'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'cutout': bool(ok), 'with': ([centre] if centre else []) + rel,
+                    'subject': src_key, 'kind': 'photo' if src_key == sid else 'portrait' if src_key else 'scenes',
                     'credit': ('Photos: ' if len(credits) > 1 else 'Photo: ') + '; '.join(credits)}
     return pid, ok, rel
 
@@ -278,18 +331,23 @@ def treat(sid, M):
 if __name__ == '__main__':
     M = json.load(open('content/photos.map.json'))
     ids = sys.argv[1:]
-    if ids == ['--missing']:
+    if ids and ids[0] == '--missing':
+        hours = int(ids[1]) if len(ids) > 1 else 72
         import glob, datetime as D
-        cut = (D.datetime.now(D.timezone.utc) - D.timedelta(hours=72)).isoformat()[:16]
+        cut = (D.datetime.now(D.timezone.utc) - D.timedelta(hours=hours)).isoformat()[:16]
         ids = []
         for f in glob.glob('content/en/news/*.md'):
             sid = os.path.basename(f)[:-3]; e = M.get(sid)
-            if not e or e.get('graphic') or e.get('nohome') or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
+            if not e or e.get('nohome') or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
             m = re.search(r'^published: (\S+)', open(f).read(600), re.M)
             if m and str(m.group(1)) >= cut: ids.append(sid)
+    for x in M.values():
+        for k in (x.get('treated') or {}).get('with', []): USED[k] = USED.get(k, 0) + 1
     for sid in ids:
         e = M.get(sid)
-        if not e or e.get('graphic'): print(f'{sid}: no real photo, skipped'); continue
+        if not e: print(f'{sid}: no photo entry, skipped'); continue
         pid, ok, rel = treat(sid, M)
+        if pid is None: e.pop('treated', None); print(f'{sid}: nothing suitable to build a cover from'); continue
+        for k in rel: USED[k] = USED.get(k, 0) + 1
         print(f'{sid}: {pid} ({"cut-out" if ok else "scene"}; with {", ".join(rel) or "nothing"})')
     json.dump(M, open('content/photos.map.json', 'w'), ensure_ascii=False, indent=1)

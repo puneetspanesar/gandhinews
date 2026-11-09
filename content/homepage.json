@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+    "id": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
     "overlay": {
       "kicker": {
-        "en": "World / Russia",
-        "hi": "दुनिया / रूस"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "Novaya Gazeta closes",
-        "hi": "नोवाया गज़ेटा बंद"
+        "en": "Day after Diwali: AQI 366",
+        "hi": "दिवाली के अगले दिन एक्यूआई 366"
       },
       "text": {
         "en": "",
@@ -18,20 +18,31 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
       "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
       "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires"
     ],
     "live": {
       "title": {
-        "en": "Russia",
-        "hi": "रूस"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "lead": {
+          "en": "Russia:",
+          "hi": "रूस:"
+        },
+        "text": {
+          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
+          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
+        }
+      },
       {
         "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "lead": {
@@ -74,17 +85,6 @@
         "text": {
           "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
           "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
-        }
-      },
-      {
-        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
-          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
         }
       },
       {
@@ -185,7 +185,7 @@
   },
   "topStories": {
     "big": {
-      "id": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+      "id": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
       "also": []
     },
     "list": [
@@ -436,7 +436,9 @@
       "section": "science",
       "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
       "list": [
-        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
+        "nadda-national-cancer-awareness-day-screening-appeal",
+        "who-six-climate-health-actions-1-6-million-lives-cop31"
       ]
     },
     {
@@ -629,14 +631,14 @@
       ]
     },
     {
-      "at": "2026-11-09T17:02:14+05:30",
+      "at": "2026-11-09T17:10:07+05:30",
       "ids": [
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
         "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"

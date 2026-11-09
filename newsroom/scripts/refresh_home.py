@@ -213,8 +213,8 @@ h['briefing']['items'] = [{'link': i, 'lead': {'en': short(A[i].get('format_labe
 
 # ---- section and desk lists
 for s in h.get('sections', []) + h.get('desks', []):
-    # owner's rule (November 7): nothing older than 48 hours in any homepage section; a short section shows fewer stories
-    ids = newest(lambda d, sec=s['section']: d['type'] == 'news' and d.get('section') == sec and (now - d['_t']).total_seconds() < 48 * 3600 and not clocked(d['id']) and d['id'] not in a.drop)  # rule 6: a stale clock figure never sits in a section list
+    # owner (November 9): only the top of the page must be fresh; sections run their newest stories, up to 7 days old
+    ids = newest(lambda d, sec=s['section']: d['type'] == 'news' and d.get('section') == sec and (now - d['_t']).total_seconds() < 168 * 3600 and not clocked(d['id']) and d['id'] not in a.drop)  # rule 6: a stale clock figure never sits in a section list
     if not ids:
         s['list'] = []; s.pop('lead', None); continue
     n = max(len(s.get('list') or []), 3)

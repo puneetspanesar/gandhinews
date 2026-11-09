@@ -89,8 +89,8 @@ let pages = 0;
     else if (f.name.endsWith('.css') && /line-clamp|text-overflow\s*:\s*ellipsis/.test(read(p))) fail('CSS clips text with dots (line-clamp or text-overflow: ellipsis)', p);
   }
 })('dist');
-// Owner's rule (November 7): nothing older than 48 hours on the homepage (news; explainers, editorials and trackers keep
-// longer). Every news link on the English and Hindi homepages is checked against its story's publish time.
+// Owner's rule (November 9, replacing November 7): only the TOP of the homepage must be fresh (newsroom/scripts/check_fresh.py
+// enforces that); the sections below may carry news up to 7 days old. No news link on the homepages may be older than 7 days.
 const PUB = new Map();
 for (const f of fs.readdirSync('content/en/news').filter((x) => x.endsWith('.md'))) { const d = fm(read(`content/en/news/${f}`)); PUB.set(f.slice(0, -3), Date.parse(d.published)); }
 for (const page of ['dist/index.html', 'dist/hi/index.html']) {
@@ -99,7 +99,7 @@ for (const page of ['dist/index.html', 'dist/hi/index.html']) {
     const id = m[1].replace(/\/$/, '').split('/').pop();
     if (!PUB.has(id) || seen.has(id)) continue; seen.add(id);
     const h = (now - PUB.get(id)) / 3600e3;
-    if (h > 48) fail(`news over 48 hours old on the homepage (${Math.round(h)} hours)`, `${page}: ${id}`);
+    if (h > 168) fail(`news over 7 days old on the homepage (${Math.round(h)} hours)`, `${page}: ${id}`);
   }
 }
 for (const page of ['dist/index.html', 'dist/hi/index.html']) {

@@ -522,7 +522,7 @@ export async function homeModel(lang: Lang) {
     const out: any[] = [];
     for (const id of ids) {
       if (!id || out.length >= n || used.has(id) || !c.all.get(id) || !hasPic(id)) continue;
-      if ((c.all.get(id) as any).data.type === 'news' && (Date.now() - +new Date((c.all.get(id) as any).data.published)) / 3.6e6 > 48) continue;  // owner: nothing older than 48 hours on the homepage
+      if ((c.all.get(id) as any).data.type === 'news' && (Date.now() - +new Date((c.all.get(id) as any).data.published)) / 3.6e6 > 168) continue;  // owner (November 9): sections below the top may run up to 7 days old
       used.add(id); out.push(short(card(id)));
     }
     return out;
@@ -553,8 +553,8 @@ export async function homeModel(lang: Lang) {
   const deskFill = (sec: string) => [...c.articles].filter((x: any) => x.data.type === 'news' && x.data.section === sec && hasPic(x.data.id)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 12).map((x: any) => x.data.id);
   const desks = (HOME.desks ?? []).map((s: any) => {
     const pool = [...new Set([s.lead, ...(s.list ?? []), ...deskFill(s.section)])].filter((x: string) => has(x) && hasPic(x) && !shownIds.has(x));
-    // owner's rule (November 7): nothing older than 48 hours on the homepage; a desk without a full row of fresh stories is not shown
-    const fresh = pool.filter((x) => ageH(x) <= 48), older: string[] = [];
+    // owner (November 9): only the top of the page must be fresh; desks may run stories up to 7 days old, newest first
+    const fresh = pool.filter((x) => ageH(x) <= 168), older: string[] = [];
     const ok: string[] = []; const src = new Set(shownSrc);
     // Same alt text can mean the same photo reused: check:photos already keeps a source photo out of two stories within 7 days,
     // so the alt test is only needed for older stories (two Kohli photos from this week share an alt but are different pictures).
@@ -639,17 +639,17 @@ export async function homeModel(lang: Lang) {
     const seen = new Set<string>([lead.id]);
     const age = (id: string) => (Date.now() - +new Date((c.all.get(id) as any)?.data.published)) / 3.6e6;
     const real = (id: string) => hasPic(id) && !(PHOTO_MAP as any)[id]?.graphic;
-    const pool = (secs: string[] | null, h = 48) => [...c.articles]
+    const pool = (secs: string[] | null, h = 168) => [...c.articles]   // sections: newest first, up to 7 days (owner, November 9)
       .filter((x: any) => x.data.type === 'news' && (!secs || secs.includes(x.data.section)) && age(x.data.id) <= h && hasPic(x.data.id) && !staleClock(x.data))
       .sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).map((x: any) => x.data.id as string);
     const take = (ids: string[], n: number, photoFirst = false) => {
-      const ok = [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id) && age(id) <= 48);
+      const ok = [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id) && age(id) <= 168);
       if (photoFirst) { const i = ok.findIndex(real); if (i > 0) ok.unshift(ok.splice(i, 1)[0]); }
       const out = ok.slice(0, n); out.forEach((id) => seen.add(id));
       return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
     };
     const hl = headlines.map((x: any) => x.id);
-    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24)], 4);
+    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24), ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)], 4);   // always two full rows under the lead
     // the middle column always opens with a real photo: from the headlines, else the newest pictured news of the last 24 hours
     const second = take([...hl, ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)].filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 5);

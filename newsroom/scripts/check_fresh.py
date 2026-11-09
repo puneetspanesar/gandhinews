@@ -77,7 +77,7 @@ for i in ids(h['lead'].get('relatedBeside')):
 
 for blk in (h.get('sections') or []) + (h.get('desks') or []):
     for i in ids([blk.get('lead'), blk.get('list')]):
-        if P[i]['type'] == 'news' and age(i) > 48: flag(f"{blk.get('section')} section: over 48 hours old (nothing older than 48 hours anywhere on the homepage)", i, age(i))
+        if P[i]['type'] == 'news' and age(i) > 168: flag(f"{blk.get('section')} section: over 7 days old (sections below the top may run older news, up to 7 days; owner, November 9)", i, age(i))
 
 heads = []
 ts = h.get('topStories') or {}

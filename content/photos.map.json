@@ -30784,7 +30784,21 @@
     "src800": "/photos/i2-sc-up-under-trials-bail-release-all-75-districts-hi-640.jpg"
    }
   },
-  "nophoto": "no usable photo of M M Sundresh (finder h0619 file 400 px); library, quick_photo"
+  "nophoto": "no usable photo of M M Sundresh (finder h0619 file 400 px); library, quick_photo",
+  "treated": {
+   "src": "/photos/t-sc-up-under-trials-bail-release-all-75-districts-1280.jpg",
+   "src800": "/photos/t-sc-up-under-trials-bail-release-all-75-districts-640.jpg",
+   "cutout": false,
+   "with": [
+    "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today--p2",
+    "delhi-high-court-form-6-sir-deleted-voters-ec",
+    "suspension-of-sentence-explained-tejpal-supreme-court--p1",
+    "ankita-bhandari-protesters-detained-patiala-house-uttarakhand-gherao"
+   ],
+   "subject": null,
+   "kind": "scenes",
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Surance / Wikimedia Commons; Dream Sparrow / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons"
+  }
  },
  "sc-obc-creamy-layer-parents-salary-centre-plea-rejected": {
   "id": "i-sc-obc-creamy-layer-parents-salary-centre-plea-rejected",
@@ -30827,7 +30841,21 @@
     "src800": "/photos/i2-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-hi-640.jpg"
    }
   },
-  "nophoto": "no usable photo of P S Narasimha (finder h0619 file 600 px); library, quick_photo"
+  "nophoto": "no usable photo of P S Narasimha (finder h0619 file 600 px); library, quick_photo",
+  "treated": {
+   "src": "/photos/t-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-1280.jpg",
+   "src800": "/photos/t-sc-obc-creamy-layer-parents-salary-centre-plea-rejected-640.jpg",
+   "cutout": false,
+   "with": [
+    "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today--p2",
+    "delhi-high-court-form-6-sir-deleted-voters-ec",
+    "protest-is-not-a-threat-to-public-order",
+    "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
+   ],
+   "subject": null,
+   "kind": "scenes",
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Surance / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; User:Tanksingh / Wikimedia Commons"
+  }
  },
  "himachal-bbmb-verdict-11973-million-units-sukhu-rattan": {
   "id": "o-himachal-bbmb-verdict-11973-million-units-sukhu-rattan",
@@ -32249,7 +32277,21 @@
     "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-640.jpg"
    }
   },
-  "nophoto": "no correct unused ground-level Delhi smog photo: every Delhi smog photo in finder h0710 used within 7 days; satellite image rejected by the editor"
+  "nophoto": "no correct unused ground-level Delhi smog photo: every Delhi smog photo in finder h0710 used within 7 days; satellite image rejected by the editor",
+  "treated": {
+   "src": "/photos/t-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-1280.jpg",
+   "src800": "/photos/t-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-159-moderate-cpcb-saturday-grap",
+    "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+    "delhi-aqi-233-poor-very-poor-forecast-thursday",
+    "delhi-grap-stage-three-aqi-382-caqm"
+   ],
+   "subject": null,
+   "kind": "scenes",
+   "credit": "Photos: TargetAimShoot / Wikimedia Commons; wili hybrid / Wikimedia Commons; Sumitmpsd / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons"
+  }
  },
  "punjab-paddy-procurement-record-150-lmt-kataruchak": {
   "id": "i-punjab-paddy-procurement-record-150-lmt-kataruchak",
@@ -32292,7 +32334,21 @@
     "src800": "/photos/i2-punjab-paddy-procurement-record-150-lmt-kataruchak-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Lal Chand Kataruchak or a Punjab paddy mandi; library, quick_photo, finder h0710"
+  "nophoto": "no free photo of Lal Chand Kataruchak or a Punjab paddy mandi; library, quick_photo, finder h0710",
+  "treated": {
+   "src": "/photos/t-punjab-paddy-procurement-record-150-lmt-kataruchak-1280.jpg",
+   "src800": "/photos/t-punjab-paddy-procurement-record-150-lmt-kataruchak-640.jpg",
+   "cutout": false,
+   "with": [
+    "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+    "rabi-msp-wheat-up-rs-25-per-quintal",
+    "brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver",
+    "civil-defence-master-trainers-army-600-12-states"
+   ],
+   "subject": null,
+   "kind": "scenes",
+   "credit": "Photos: CIAT / Wikimedia Commons; Sarbjit Bahga / Wikimedia Commons; Gordon Leggett / Wikimedia Commons; Raka / Wikimedia Commons"
+  }
  },
  "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday": {
   "id": "o-rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
@@ -32495,7 +32551,20 @@
     "src800": "/photos/i2-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-hi-640.jpg"
    }
   },
-  "nophoto": "no usable photo of Rajnath Singh: library portraits used in last 7 days, quick_photo none, PIB no Bagdogra photo; desk's Parliament street photo rejected by editor"
+  "nophoto": "no usable photo of Rajnath Singh: library portraits used in last 7 days, quick_photo none, PIB no Bagdogra photo; desk's Parliament street photo rejected by editor",
+  "treated": {
+   "src": "/photos/t-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-1280.jpg",
+   "src800": "/photos/t-rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve-640.jpg",
+   "cutout": true,
+   "with": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--bg",
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+    "undersea-cables-explained-iran-hormuz-threat-india-internet"
+   ],
+   "subject": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+   "kind": "portrait",
+   "credit": "Photos: Ministry of Defence / Wikimedia Commons; U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons; Barry Pousman from New York, NY / Wikimedia Commons; AnkClix / Wikimedia Commons; he:User:ברוך הרצוג, cropped by user:MathKnight / Wikimedia Commons"
+  }
  },
  "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd": {
   "id": "o-tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
@@ -34178,7 +34247,20 @@
     "src800": "/photos/i-rajnath-singh-reaches-sherathang-diwali-nathu-la-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Rajnath Singh unused in 7 days; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down); library cover tried and rejected (wrong panels)"
+  "nophoto": "no free photo of Rajnath Singh unused in 7 days; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down); library cover tried and rejected (wrong panels)",
+  "treated": {
+   "src": "/photos/t-rajnath-singh-reaches-sherathang-diwali-nathu-la-1280.jpg",
+   "src800": "/photos/t-rajnath-singh-reaches-sherathang-diwali-nathu-la-640.jpg",
+   "cutout": true,
+   "with": [
+    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
+    "illegal-firecracker-units-need-checks-before-diwali",
+    "navy-receives-amini-anti-submarine-shallow-water-craft"
+   ],
+   "subject": "rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday",
+   "kind": "portrait",
+   "credit": "Photos: Ministry of Defence / Wikimedia Commons; Bhrigu bayan / Wikimedia Commons; Le Priyavrat / Wikimedia Commons; Defence PRO Visakhapatnam - Indian Navy / Wikimedia Commons"
+  }
  },
  "yogi-diwali-nishad-settlement-ayodhya-bullets-remark": {
   "id": "v-yogi-diwali-nishad-settlement-ayodhya-bullets-remark",
@@ -34331,7 +34413,20 @@
     "src800": "/photos/i-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Praveen Khandelwal; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)"
+  "nophoto": "no free photo of Praveen Khandelwal; library, quick_photo, PIB pibr10; finder h0810 failed (GitHub Actions down)",
+  "treated": {
+   "src": "/photos/t-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-1280.jpg",
+   "src800": "/photos/t-cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8--bg",
+    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
+    "illegal-firecracker-units-need-checks-before-diwali"
+   ],
+   "subject": null,
+   "kind": "scenes",
+   "credit": "Photos: Karthi.dr / Wikimedia Commons; Bhrigu bayan / Wikimedia Commons; Le Priyavrat / Wikimedia Commons"
+  }
  },
  "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo": {
   "id": "i-nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
@@ -35329,7 +35424,21 @@
     "src800": "/photos/i-diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of an Indian building fire; quick_photo (only an unrelated tanker fire), finder h0908 failed (GitHub Actions), Commons API rate-limited"
+  "nophoto": "no free photo of an Indian building fire; quick_photo (only an unrelated tanker fire), finder h0908 failed (GitHub Actions), Commons API rate-limited",
+  "treated": {
+   "src": "/photos/t-diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-uj-1280.jpg",
+   "src800": "/photos/t-diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-uj-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8--bg",
+    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
+    "illegal-firecracker-units-need-checks-before-diwali",
+    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+   ],
+   "subject": null,
+   "kind": "scenes",
+   "credit": "Photos: Karthi.dr / Wikimedia Commons; Bhrigu bayan / Wikimedia Commons; Le Priyavrat / Wikimedia Commons; Rotafinus / Wikimedia Commons"
+  }
  },
  "alcaraz-beats-shelton-paris-masters-final-first-title": {
   "id": "o-alcaraz-beats-shelton-paris-masters-final-first-title",

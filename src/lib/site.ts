@@ -144,6 +144,10 @@ export function heroOf(d: any): { src?: string | null; credit?: string | null; c
     const who = String(f.credit).replace(/^Photo:\s*/, '').replace(/\s*\/\s*Wikimedia Commons$/, '');
     const hi = d.lang === 'hi';
     if (f.graphic) { const g = hi && f.byLang?.hi ? f.byLang.hi : f; return { src: g.src, credit: hi ? 'ग्राफ़िक: गांधी न्यूज़' : f.credit, short: hi ? 'गांधी न्यूज़' : 'Gandhi News', photoId: f.id, caption: alt, alt, page: null }; }
+    if (f.treated) {   // the house collage: every photo used is credited
+      const all = String(f.treated.credit).replace(/^Photos?:\s*/, '');
+      return { src: f.treated.src, credit: (hi ? 'फ़ोटो: ' : f.treated.credit.startsWith('Photos') ? 'Photos: ' : 'Photo: ') + all, short: hi ? 'फ़ोटो कोलाज: गांधी न्यूज़' : 'Collage: Gandhi News', photoId: f.id, caption: alt, alt, page: null };
+    }
     const credit = hi ? `फ़ोटो: ${who} / विकिमीडिया कॉमन्स, ${f.licence}` : `${f.credit}, ${f.licence}`;
     return { src: f.src, credit, short: hi ? `${who} / विकिमीडिया` : `${who} / Wikimedia`, photoId: f.id, caption: alt, alt, page: f.page ?? null };
   }

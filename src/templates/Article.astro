@@ -109,7 +109,7 @@ const heroOv = {
         <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={k} location={d.type === 'news' ? d.location : null} />
       </div>
       <figure class="ac-ph">
-        <Photo id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
+        <Photo story id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
         {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span> {hero.page ? <a class="pcred" href={`/photo-credits/#${hero.photoId}`}>{hero.short}</a> : <span class="pcred">{hero.credit}</span>}</figcaption>}
       </figure>
     </div>
@@ -131,7 +131,7 @@ const heroOv = {
         {!split && (d.type === 'news' || d.type === 'editorial') && (
           <figure class="hero">
             <div class="hero-ph">
-              <Photo cover id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
+              <Photo story cover id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
               {heroOv.value && !hasCover && <div class="hov" aria-hidden="true"><span class="ok">{heroOv.kicker}</span><span class="ov">{heroOv.value}</span></div>}
             </div>
             {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span>{hero.page ? <a class="pcred" href={`/photo-credits/#${hero.photoId}`}>{hero.short}</a> : <span class="pcred">{hero.credit}</span>}</figcaption>}

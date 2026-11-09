@@ -11,6 +11,8 @@ interface Props {
   /** Article id: looks up a fetched photo in content/photos.map.json. */
   id?: string;
   src?: string | null; alt?: string; credit?: string | null; caption?: string | null;
+  /** On a story page: an infographic story keeps its infographic instead of the collage. */
+  story?: boolean;
   size?: 'lg' | 'sm'; lang?: Lang; class?: string; eager?: boolean;
   /** Show the credit line over the image (large slots on the homepage). */
   showCredit?: boolean;
@@ -22,13 +24,13 @@ const base: any = id ? (PHOTOS as Record<string, any>)[id] : null;
 // A cover replaces the photo in 16:9 slots; it carries its own credit line through the base entry.
 // Infographics: the detailed graphic only in large slots; small 16:9 slots get the readable thumb version.
 const th: any = cover && base?.graphic && base?.thumb && size !== 'lg' ? (base.thumb[lang] ?? base.thumb.en) : null;
-// The house collage treatment (newsroom/scripts/treat_photo.py, owner, November 9) replaces a real photo in every card
-// slot (homepage, section pages, rails). The story page itself shows the photo as taken.
-const tr: any = cover && !base?.graphic && base?.treated ? { src: base.treated.src, src800: base.treated.src800 } : null;
+// The house collage treatment (newsroom/scripts/treat_photo.py, owner, November 9) replaces every photo everywhere,
+// story pages included. Only a story page whose own visual is an infographic (story prop) keeps the infographic.
+const tr: any = base?.treated && !(base.graphic && Astro.props.story) ? { src: base.treated.src, src800: base.treated.src800, credit: base.treated.credit } : null;
 const cv: any = th ?? tr ?? (cover && base?.cover ? (base.cover[lang] ?? base.cover.en) : null);
 // Infographics carry a Hindi version of the card image too (base.byLang.hi).
 const bl: any = !cv && base?.byLang?.[lang] ? { ...base, ...base.byLang[lang] } : null;
-const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: tr ? 1280 : base.cover.width, height: tr ? 800 : base.cover.height } : (bl ?? base);
+const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: tr ? 1280 : base.cover.width, height: tr ? 800 : base.cover.height, ...(tr ? { credit: tr.credit, licence: '' } : {}) } : (bl ?? base);
 const src = fetched?.src ?? Astro.props.src;
 // Two widths exist for every fetched photo (640 and 1280); the browser picks by slot width and screen density.
 const srcset = fetched?.src800 && fetched.src800 !== src ? `${fetched.src800} 640w, ${src} 1280w` : undefined;
