@@ -54,7 +54,7 @@ infographic:
   stats:
     - {icon: megaphone, value: "2 नवंबर", label: "एक्स पर पहली सार्वजनिक चुनौती, 3 नवंबर को दोहराई"}
     - {icon: users, value: "72.8%", label: "राहुल गांधी के एक्स पोल के 2,11,661 वोटों में हां"}
-  timeline: {title: "चुनौती का सिलसिला", items: [{date: "2 नवंबर", text: "एक्स पर चुनौती: कोई भी मंच, कोई भी जगह", icon: megaphone}, {date: "3 नवंबर", text: "वीडियो और एक्स पोल में प्रस्ताव दोहराया", icon: users}, {date: "8 नवंबर", text: "बस्तर में मोदी का दिवाली भाषण", icon: map-pin}, {date: "9 नवंबर", text: "राहुल: मेरी चुनौती कायम है", icon: megaphone}]}
+  timeline: [{date: "2 नवंबर", text: "एक्स पर चुनौती: कोई भी मंच, कोई भी जगह", icon: megaphone}, {date: "3 नवंबर", text: "वीडियो और एक्स पोल में प्रस्ताव दोहराया", icon: users}, {date: "8 नवंबर", text: "बस्तर में मोदी का दिवाली भाषण", icon: map-pin}, {date: "9 नवंबर", text: "राहुल: मेरी चुनौती कायम है", icon: megaphone}]
   source: "एक्स पर राहुल गांधी, 2 से 9 नवंबर 2026"
 ---
 

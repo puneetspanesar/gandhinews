@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: calendar, value: "Jan 28", label: "the Learjet crashed near Baramati; five people died"}
     - {icon: scales, value: "3 km", label: "visibility given to the pilots, against a 5 km visual flight minimum"}
-  timeline: {title: "From crash to allegation", items: [{date: "Jan 28", text: "Learjet crashes near Baramati"}, {date: "Jan 30", text: "State CID takes the accident case"}, {date: "Feb 28", text: "AAIB preliminary report, no cause"}, {date: "Mar 6", text: "Aviation minister says final report work has begun"}, {date: "Nov 9", text: "Kadam seeks a probe into Tatkare"}]}
+  timeline: [{date: "January 28", text: "Learjet crashes near Baramati"}, {date: "January 30", text: "State CID takes the accident case"}, {date: "February 28", text: "AAIB preliminary report, no cause"}, {date: "March 6", text: "Aviation minister says final report work has begun"}, {date: "November 9", text: "Kadam seeks a probe into Tatkare"}]
   source: "AAIB preliminary report, February 28, 2026; Kadam's remarks, November 9, 2026"
 related: [ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand, sunetra-pawar-panel-sweeps-someshwar-sugar-factory-polls]
 seo:

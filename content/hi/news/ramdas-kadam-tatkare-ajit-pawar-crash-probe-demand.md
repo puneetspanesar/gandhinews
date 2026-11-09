@@ -29,7 +29,7 @@ infographic:
   stats:
     - {icon: calendar, value: "28 जनवरी", label: "बारामती में लियरजेट गिरा, पांच की मौत"}
     - {icon: scales, value: "कारण नहीं", label: "28 फरवरी की प्रारंभिक रिपोर्ट में"}
-  timeline: {title: "विवाद कैसे बना", items: [{date: "28 जनवरी", text: "बारामती में लियरजेट हादसा"}, {date: "30 जनवरी", text: "मामला राज्य सीआईडी को"}, {date: "28 फरवरी", text: "प्रारंभिक रिपोर्ट, कारण नहीं"}, {date: "9 नवंबर", text: "कदम ने तटकरे की जांच मांगी"}]}
+  timeline: [{date: "28 जनवरी", text: "बारामती में लियरजेट हादसा"}, {date: "30 जनवरी", text: "मामला राज्य सीआईडी को"}, {date: "28 फरवरी", text: "प्रारंभिक रिपोर्ट, कारण नहीं"}, {date: "9 नवंबर", text: "कदम ने तटकरे की जांच मांगी"}]
   source: "कदम का बयान, 9 नवंबर 2026; एएआईबी की प्रारंभिक रिपोर्ट"
 related: [ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah, sunetra-pawar-panel-sweeps-someshwar-sugar-factory-polls]
 seo:

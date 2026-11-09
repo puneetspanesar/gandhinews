@@ -53,7 +53,7 @@ infographic:
   stats:
     - {icon: megaphone, value: "Nov 2", label: "first public challenge on X, repeated November 3"}
     - {icon: users, value: "72.8%", label: "said yes in Rahul Gandhi's X poll of 2,11,661 votes"}
-  timeline: {title: "How the challenge built up", items: [{date: "Nov 2", text: "Challenge on X: any stage, any venue", icon: megaphone}, {date: "Nov 3", text: "X poll and video repeat the offer", icon: users}, {date: "Nov 8", text: "Modi's Diwali speech at Bastar", icon: map-pin}, {date: "Nov 9", text: "Rahul: my challenge stands", icon: megaphone}]}
+  timeline: [{date: "November 2", text: "Challenge on X: any stage, any venue", icon: megaphone}, {date: "November 3", text: "X poll and video repeat the offer", icon: users}, {date: "November 8", text: "Modi's Diwali speech at Bastar", icon: map-pin}, {date: "November 9", text: "Rahul: my challenge stands", icon: megaphone}]
   source: "Rahul Gandhi on X, November 2 to 9, 2026"
 ---
 

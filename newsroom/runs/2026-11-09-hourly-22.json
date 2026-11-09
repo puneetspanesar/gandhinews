@@ -1,0 +1,39 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-09T22:04:59+05:30",
+ "end": "2026-11-09T22:44:42+05:30",
+ "summary": "Rahul debate challenge leads; Kadam-Tatkare probe demand; Hamilton ODI; 3 held",
+ "new": [
+  "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+  "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+  "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand"
+ ],
+ "held": [
+  "ajit-pawar-crash-allegation-belongs-to-aaib-not-a-press-conference",
+  "modi-bastar-230-districts-2000-attacks-no-crpf-death-claim",
+  "turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "modi-bastar-230-districts-2000-attacks-no-crpf-death-claim",
+   "kind": "facts",
+   "why": "1) The headline says 'the official count never reached 230 districts' and the body says the official peak is 126. The desk's own notes say an older, wider ministry measure may exist and the rating does not call the figure false. The Home Ministry did use a wider measure around 2009-10 (roughly 220-plus districts in about 20 states with Naxal influence), which matches Modi's 'nearly 20 states'. The headline overclaims, and the 'Mostly true' rating sits oddly with a 230-versus-126 framing. 2) The en and hi seo descriptions say '126 districts and 1,936 incidents in 2010', but 126 is the pre-2018/2014 count, not 2010. 3) list.txt points to content/en|hi/news/ but this story is in content/en|hi/factcheck/. Because of that, the review sheet shows only the slug as the headline, an empty kicker line and no covers, so its overlay cover was never checked. 4) In Hindi the place is spelled करनपुर here but करणपुर in the Rahul Gandhi story, and the claim quote has 'नजदीक 20 राज्यों' instead of 'करीब 20 राज्यों'.",
+   "fix": "Check the Home Ministry's 2009-10 statements and annual reports for the wider district count. Then reword the headline and finding to say the 230 figure is not in the official 126-district series (not 'never reached'), and revisit the rating if an official figure of about 223 districts is confirmed. Correct both seo descriptions: 1,936 incidents in 2010, peak of 126 districts before 2018. Fix list.txt to use the factcheck paths and regenerate the sheet with headline and covers for review. Standardise the Hindi to करणपुर and करीब 20 राज्यों."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+   "why": "The lead's main picture is a photo of Rahul Gandhi from about 15 years ago: young and clean-shaven, nothing like the Leader of the Opposition readers know today with his grey beard. On the lead slot this looks lazy and dated (rules 3, 13). The hero brief asked for a Rahul/Modi split.",
+   "done": "Kept: the photo is Rahul Gandhi, labelled file photo. Every newer free Rahul photo from finder h0922 is either used in the last 7 days or under 900 px; a story is never held only for its photo (rule 7). Newer photo to swap in next run."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Same running story, side by side, and too much Politics. The lead (Rahul Gandhi answering Modi's Bastar 'dimagi Naxals' remark) sits directly above 'Modi in Bastar: no CRPF jawan died on duty this year ... Congress hits back over dimagi Naxals'. Together with Gogoi's ten-point package, that puts three politics stories in the lead block, and the Politics band just below adds two more Modi/Shah Bastar Diwali items. Take the Modi-in-Bastar card out of the lead grid (link it from inside the lead story, or move it to the Politics band). 2) Other Indian sites have the Punjab stubble fires (up tenfold on Diwali) and Delhi's severe smog as their second story. We show only the Kapil Mishra FIR angle, as Must Read no. 4, and nothing on the smog in the top headlines. Update our AQI/smog story with today's stubble-fire count and Delhi AQI, give it an event photo (Delhi smog or Punjab field fires, file photo labelled if needed), and put it in the freed top slot.",
+   "done": "Modi-in-Bastar news story passed to refresh_home --drop, so it is not in the lead block, live band or headlines this hour (homepage.json relatedBeside: Hamilton, India-EU, Hazaribagh, Maldives fishermen). Smog and stubble-fire update needs new research: left for the next run in editor-notes."
+  }
+ ],
+ "breaches": [],
+ "lead": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
+}

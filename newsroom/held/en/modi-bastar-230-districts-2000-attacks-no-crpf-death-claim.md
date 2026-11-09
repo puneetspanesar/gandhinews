@@ -74,9 +74,9 @@ verification:
   notes:
     - "Opinion-and-fact-check desk, evening run, November 9, 2026. The speech is dated November 8, about 31 hours before writing; chosen because the figures were the most checkable claims in the week's most-discussed speech. The roads and towers figures from the same speech were checked in an earlier piece."
     - "Speech text read on pmindia.gov.in (English rendering of a Hindi speech); quotes are from that rendering."
-    - "PIB August 1 page and the PIB Research Unit page of June 19 were read. The research page is internally inconsistent: it says 'effectively free' on March 31, 2026 yet also 'just 2 districts' in 2026, and gives both 720 civilian deaths and 1,005 fatalities for 2010. The Home Ministry's 2024 reply gives 1,005 deaths for 2010 (civilians and security forces) and the 126-district series."
+    - "PIB August 1 page and the PIB Research Unit page of June 19 were read. The research page is internally inconsistent: it says 'effectively free' on March 31, 2026, yet also 'just 2 districts' in 2026, and gives both 720 civilian deaths and 1,005 fatalities for 2010. The Home Ministry's 2024 reply gives 1,005 deaths for 2010 (civilians and security forces) and the 126-district series."
     - "No official series giving 230 districts or 20 states was found. An older, broader ministry measure (police stations or 'spread') may exist and could explain the figure; it was not found in this run, so the rating does not call the figure false."
-    - "Not checked against a primary document: the 76 CRPF killed in Dantewada in 2010, the 44 civilians, the 'more than 1,000' security personnel killed in Chhattisgarh, the 47-year claim. CRPF DG G P Singh's post of July 1, 2026 on zero operational deaths from January 1 to June 30 was read via PTI; a 12-month claim attributed to the DG in another outlet was not opened."
+    - "Not checked against a primary document: the 76 CRPF killed in Dantewada in 2010, the 44 civilians, the 'more than 1,000' security personnel killed in Chhattisgarh, the 47-year claim. CRPF DG G P Singh's post of July 1, 2026, on zero operational deaths from January 1 to June 30 was read via PTI; a 12-month claim attributed to the DG in another outlet was not opened."
     - "MHA's 32 security personnel killed in 2025 (to December 1) covers all forces, not CRPF alone, and mostly falls before the 12 months the PM referred to; it is not a contradiction."
     - "Will be revisited if the ministry publishes the series behind 230 districts."
 ---
@@ -93,11 +93,11 @@ Speaking to CRPF, CoBRA and state police personnel at Karanpur in Bastar on Nove
 
 ### 1. Attacks in a year: close
 
-PIB's August 1, 2026 release says violence peaked in 2010 with **1,936 incidents**. The Home Ministry told the Rajya Sabha on December 4, 2024 that incidents in 2023 were 73% below 2010. "As many as two thousand" is a fair round figure for the peak, though "attacks" is looser than "incidents".
+PIB's August 1, 2026, release says violence peaked in 2010 with **1,936 incidents**. The Home Ministry told the Rajya Sabha on December 4, 2024, that incidents in 2023 were 73% below 2010. "As many as two thousand" is a fair round figure for the peak, though "attacks" is looser than "incidents".
 
 ### 2. Districts: the official peak is 126
 
-The ministry's reply of December 4, 2024 lists 126 affected districts before April 2018, then 90, 70 and 38 (April 2024). PIB says 126 districts were affected in 2014 and 35 were "most affected". No source we read gives 230. The ministry may once have used a wider measure; the speech does not say which it used.
+The ministry's reply of December 4, 2024, lists 126 affected districts before April 2018, then 90, 70 and 38 (April 2024). PIB says 126 districts were affected in 2014 and 35 were "most affected". No source we read gives 230. The ministry may once have used a wider measure; the speech does not say which it used.
 
 ```chart
 {"title":"LWE-affected districts, Home Ministry series","type":"vbar","unit":"","data":[{"label":"Before 2018","value":126},{"label":"Apr 2018","value":90},{"label":"Jul 2021","value":70},{"label":"Apr 2024","value":38},{"label":"Mar-Apr 2026","value":0,"highlight":true}]}

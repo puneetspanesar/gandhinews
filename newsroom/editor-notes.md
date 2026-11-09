@@ -53,3 +53,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Homepage rotation job (GitHub Actions) fails in 3 seconds with no steps run: Actions billing or minutes block, so no rotation between runs.
 - Editor homepage FAIL not fixed (second check): Hormuz tankers and Japan quake in the World section list and Rajnath Sherathang preview in the Policy list are template-driven; about 170px empty space under the middle column on desktop.
 - NEXT RUN, FIRST: Delhi smog file photo for the AQI story; India A v NZ A day three result; Monday markets open; an India national lead with a PIB photo.
+
+## November 9, 2026, 10:45 pm (from the 22:00 run)
+- Published 3: rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf (LEAD, Rahul 2008 file portrait: swap in a recent bearded photo once one is outside the 7-day rule), ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand (infographic --nophoto: no free Kadam photo; Kadam and Tatkare added to people.tsv), hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match (Seddon Park file photo).
+- Held by the editor: turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing (toll stale: latest is 16 dead, 13 injured per Erdogan; names two outlets; rewrite as a new id), ajit-pawar-crash-allegation-belongs-to-aaib-not-a-press-conference (editorial; needs an Ajit Pawar or Baramati crash photo, not the runway sign), modi-bastar-230-districts-2000-attacks-no-crpf-death-claim (fact check; check the Home Ministry's 2009-10 count of about 223 districts before the headline says "never reached 230"; SEO lines; Hindi करनपुर/करणपुर, "करीब 20 राज्यों").
+- review_pack.py writes content/*/news/ paths for fact checks; they live in content/*/factcheck/. Fix the tool.
+- Removed one exact duplicate photos.json entry (r-ec-fresh-window...) that failed check:photos.
+- NEXT RUN, FIRST: Punjab stubble fires tenfold on Diwali and Delhi severe smog with today's CPCB AQI and an event photo; Turkey Habas blast latest toll; Hamilton third ODI result (7:30 am IST Tuesday).

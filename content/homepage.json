@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-zelenskyy-phone-call-india-peace-efforts",
+    "id": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
     "overlay": {
       "kicker": {
-        "en": "World / Ukraine",
-        "hi": "दुनिया / यूक्रेन"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "Modi to Zelenskyy: dialogue and diplomacy",
-        "hi": "मोदी का ज़ेलेंस्की से: संवाद और कूटनीति"
+        "en": "'My challenge stands': Rahul to Modi",
+        "hi": "'मेरी चुनौती कायम है': राहुल"
       },
       "text": {
         "en": "",
@@ -18,20 +18,31 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
       "india-eu-strategic-partnership-review-fta-signing-brussels-december",
       "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
+      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu"
     ],
     "live": {
       "title": {
-        "en": "Ukraine",
-        "hi": "यूक्रेन"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India can win the ODI series in Hamilton, but rain and a hurried pitch loom",
+          "hi": "हैमिल्टन में भारत सीरीज़ जीत सकता है, पर बारिश और जल्दबाजी में बनी पिच का साया"
+        }
+      },
       {
         "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "lead": {
@@ -66,6 +77,17 @@
         }
       },
       {
+        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
+          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
+        }
+      },
+      {
         "link": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
         "lead": {
           "en": "Shooting:",
@@ -77,47 +99,25 @@
         }
       },
       {
-        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "lead": {
-          "en": "Russia:",
-          "hi": "रूस:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
-          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
+          "en": "Trump expects to meet Xi and Putin in Shenzhen next week; China says it is in contact",
+          "hi": "ट्रंप को अगले हफ्ते शेनझेन में शी और पुतिन से मुलाकात की उम्मीद, चीन बोला: संपर्क में हैं"
         }
       },
       {
-        "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Congress:",
+          "hi": "कांग्रेस:"
         },
         "text": {
-          "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
-          "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
-        }
-      },
-      {
-        "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Rain washes out day three in Lincoln, leaving India A 428 ahead with one day left",
-          "hi": "लिंकन में बारिश ने तीसरा दिन धोया, भारत ए 428 रन आगे, एक दिन बाकी"
-        }
-      },
-      {
-        "link": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "COP31 opens in Antalya with Turkey as host, Australia running the talks and finance the main fight",
-          "hi": "अंताल्या में कॉप31 शुरू: मेज़बान तुर्किये, वार्ता की कमान ऑस्ट्रेलिया के हाथ, वित्त सबसे बड़ा मुद्दा"
+          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
+          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
         }
       }
     ]
@@ -185,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+      "id": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
       "also": []
     },
     "list": [
-      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-      "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-      "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
+      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two"
     ],
     "also": [
-      "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-      "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
+      "cop31-explained-turkey-australia-split-presidency-finance-fight"
     ]
   },
   "startHere": [
@@ -371,11 +371,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "modi-advani-99th-birthday-nation-first-foundation"
       ],
-      "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+      "lead": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
     },
     {
       "section": "economy",
@@ -443,12 +443,12 @@
     },
     {
       "section": "sports",
-      "lead": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+      "lead": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
       "list": [
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
         "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
-        "india-u19-pakistan-asia-cup-result-zahoor-century"
+        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two"
       ]
     }
   ],
@@ -527,23 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T12:33:48+05:30",
-      "ids": [
-        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "special-session-of-parliament-explained-shah-offer-cec-removal",
-        "telangana-roll-revision-must-not-erase-voters-quietly",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
-      ]
-    },
     {
       "at": "2026-11-09T13:37:02+05:30",
       "ids": [
@@ -642,6 +625,20 @@
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
         "cop31-opens-antalya-turkey-australia-negotiations-india-position"
+      ]
+    },
+    {
+      "at": "2026-11-09T22:42:31+05:30",
+      "ids": [
+        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
       ]
     }
   ],

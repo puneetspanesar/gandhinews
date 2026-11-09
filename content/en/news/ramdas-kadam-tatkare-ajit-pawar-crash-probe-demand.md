@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: calendar, value: "Jan 28", label: "the Learjet crashed at Baramati, five killed"}
     - {icon: scales, value: "No cause", label: "stated in the February 28 preliminary report"}
-  timeline: {title: "How the row built", items: [{date: "Jan 28", text: "Learjet crashes at Baramati"}, {date: "Jan 30", text: "State CID takes the accident case"}, {date: "Feb 28", text: "Preliminary report, no cause"}, {date: "Nov 9", text: "Kadam seeks probe into Tatkare"}]}
+  timeline: [{date: "January 28", text: "Learjet crashes at Baramati"}, {date: "January 30", text: "State CID takes the accident case"}, {date: "February 28", text: "Preliminary report, no cause"}, {date: "November 9", text: "Kadam seeks probe into Tatkare"}]
   source: "Kadam's remarks, November 9, 2026; AAIB preliminary report"
 related: [ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah, sunetra-pawar-panel-sweeps-someshwar-sugar-factory-polls]
 seo:

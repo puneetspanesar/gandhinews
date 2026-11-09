@@ -57735,17 +57735,47 @@
   "nophoto": "no free photo of a Delhi or Mumbai building fire; library, quick_photo, finder l9e (only fire trucks); the Gaffar Market fire photo is blocked by the 7-day rule"
  },
  "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand": {
-  "id": "o-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-  "src": "/photos/o-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-1280.jpg",
-  "src800": "/photos/o-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-640.jpg",
+  "id": "i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
+  "src": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-en-3x2-1280.jpg",
+  "src800": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-en-3x2-640.jpg",
   "width": 1280,
-  "height": 698,
-  "srcWidth": 2200,
-  "credit": "Photo: Ministry of Information and Broadcasting / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "NCP leader Sunil Tatkare addressing a public event at Roha (file photo)",
-  "alt_hi": "रोहा में एक कार्यक्रम को संबोधित करते एनसीपी नेता सुनील तटकरे (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_Water_Resource,_Govt._of_Maharashtra_%26_Guardian_Minister_of_Distt._Raigad,_Shri_Sunil_Tatkare_addressing_at_the_inauguration_of_the_Bharat_Nirman_Public_Information_Campaign,_at_Roha.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Kadam seeks probe into Tatkare's role",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कदम ने तटकरे की भूमिका की जांच मांगी",
+  "page": null,
+  "ihash": "5dc432ffcb92",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-hi-3x2-1280.jpg",
+    "src800": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-en-t-1280.jpg",
+    "src800": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-hi-t-1280.jpg",
+    "src800": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-en-1280.jpg",
+    "src800": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-hi-1280.jpg",
+    "src800": "/photos/i-ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Ramdas Kadam; library, quick_photo, finder h0922"
  },
  "ajit-pawar-crash-allegation-belongs-to-aaib-not-a-press-conference": {
   "id": "o-ajit-pawar-crash-allegation-belongs-to-aaib-not-a-press-conference",
@@ -57784,7 +57814,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped)_2008.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped)_2008.jpg",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
+    "illegal-firecracker-units-need-checks-before-diwali"
+   ],
+   "subject": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+   "kind": "photo",
+   "credit": "Photos: Original: Indian National Congress / Wikimedia Commons; Barry Pousman from New York, NY / Wikimedia Commons; AnkClix / Wikimedia Commons; Bhrigu bayan / Wikimedia Commons; Le Priyavrat / Wikimedia Commons"
+  }
  },
  "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match": {
   "id": "o-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
@@ -57797,7 +57840,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Seddon Park, Hamilton, the venue for the third ODI (file photo)",
   "alt_hi": "हैमिल्टन का सेडन पार्क, तीसरे वनडे का मैदान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Seddon_Park.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Seddon_Park.jpg",
+  "treated": {
+   "src": "/photos/t-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-1280.jpg",
+   "src800": "/photos/t-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-640.jpg",
+   "cutout": false,
+   "with": [
+    "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji--p1",
+    "glenn-maxwell-retires-international-cricket-38--bg",
+    "india-west-indies-bengaluru-decider-dew-arshdeep-preview"
+   ],
+   "subject": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+   "kind": "photo",
+   "credit": "Photos: JaumeBG / Wikimedia Commons; BibhasCD / Wikimedia Commons; Anand Desai / Wikimedia Commons; Ashwin Kumar / Wikimedia Commons"
+  }
  },
  "turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing": {
   "id": "i-turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing",
