@@ -1,0 +1,114 @@
+---
+id: trump-xi-putin-apec-shenzhen-meeting-china-in-contact
+lang: hi
+translation_of: trump-xi-putin-apec-shenzhen-meeting-china-in-contact
+type: news
+section: world
+format_label: "दुनिया / कूटनीति"
+topics: []
+title: "ट्रंप को अगले हफ्ते शेनझेन में शी और पुतिन से मुलाकात की उम्मीद, चीन बोला: संपर्क में हैं"
+standfirst: "अमेरिकी राष्ट्रपति ने कहा कि 18 और 19 नवंबर के एपेक शिखर सम्मेलन में तीनों नेता ईरान युद्ध और परमाणु निरस्त्रीकरण पर बात करेंगे। बीजिंग ने संबंधित पक्षों से संपर्क की बात कही, मुलाकात की पुष्टि नहीं की।"
+published: 2026-11-09T14:20:00+05:30
+location: बीजिंग
+keyPoints:
+  - "ट्रंप ने रविवार को कहा कि उन्हें लगता है कि वे शेनझेन में एपेक सम्मेलन में **शी जिनपिंग और व्लादिमीर पुतिन** से मिलेंगे।"
+  - "चीन के विदेश मंत्रालय ने सोमवार को कहा कि वह **संबंधित पक्षों के संपर्क में है**, पर मुलाकात की पुष्टि नहीं की।"
+  - "सम्मेलन **18 और 19 नवंबर** को है; भारत सदस्य नहीं है, पर तेल के बिल और रूस पर प्रतिबंधों के जरिए उसका दांव लगा है।"
+upcoming: {date: 2026-11-10, en: "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11", hi: "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"}
+hero:
+  need: "Donald Trump and Xi Jinping, two-panel"
+  suggested_source: "Donald Trump"
+  subjects: ["Donald Trump", "Xi Jinping"]
+  alt: "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग"
+  overlay:
+    value: "शेनझेन में ट्रंप, शी, पुतिन की मुलाकात?"
+infographic:
+  kicker: "एपेक शेनझेन"
+  headline: "ट्रंप को चीन में तीन-तरफा मुलाकात की उम्मीद"
+  dek: "बीजिंग संपर्क में होने की बात कहता है; कुछ भी पक्का नहीं"
+  motif: globe
+  stats:
+    - {icon: calendar, value: "18-19 नवं.", label: "एपेक नेताओं का सम्मेलन, शेनझेन"}
+    - {icon: gas-pump, value: "$90.6 अरब", label: "भारत का कच्चे तेल का आयात बिल, अप्रैल से सितंबर"}
+  source: "ट्रंप के बयान, 8 नवंबर; चीन का विदेश मंत्रालय, 9 नवंबर"
+related: [zelenskyy-us-proposes-trilateral-putin-summit-december, trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev, iran-hands-us-nuclear-proposal-seven-demands, trump-waives-russia-sanctions-law-india-tariff-threat, india-crude-import-bill-90-6-billion-april-september]
+seo:
+  description: "ट्रंप ने कहा कि वे 18-19 नवंबर को शेनझेन के एपेक सम्मेलन में शी जिनपिंग और पुतिन से मिल सकते हैं; चीन ने कहा कि वह संपर्क में है।"
+sources:
+  - title: "Trump thinks he will meet Xi and Putin at China APEC summit (Reuters)"
+    publisher: "ThePrint / Reuters"
+    date: 2026-11-08
+    url: "https://theprint.in/world/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit/3093826/"
+    primary: false
+  - title: "China says it is talking with relevant parties on China-Russia-US leaders' meeting (Reuters)"
+    publisher: "Asharq Al-Awsat / Reuters"
+    date: 2026-11-09
+    url: "https://english.aawsat.com/world/5339155-china-says-it-talking-relevant-parties-china-russia-us-leaders%E2%80%99-meeting"
+    primary: false
+  - title: "Peskov reveals details of preparations for Putin-Trump-Xi meeting at APEC summit"
+    publisher: "TASS"
+    date: 2026-11-03
+    url: "https://tass.com/politics/2212623"
+    primary: false
+  - title: "Russia, China and U.S. summit under discussion, Kremlin says"
+    publisher: "The Moscow Times"
+    date: 2026-11-03
+    url: "https://www.themoscowtimes.com/2026/11/03/russia-china-and-us-summit-under-discussion-kremlin-says-a94163"
+    primary: false
+  - title: "Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes"
+    publisher: "Kyiv Independent"
+    date: 2026-11-09
+    url: "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/"
+    primary: false
+  - title: "Foreign Ministry Spokesperson Guo Jiakun's Regular Press Conference on November 6, 2026"
+    publisher: "Ministry of Foreign Affairs of the PRC"
+    date: 2026-11-06
+    url: "https://www.mfa.gov.cn/eng/xw/fyrbt/lxjzh/202611/t20261106_12055022.html"
+    primary: true
+verification:
+  status: approved
+  notes:
+    - "Hindi twin of the English story; see English notes. Chinese MFA Nov 9 transcript not openable; Guo's remarks paraphrased from Reuters."
+---
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रविवार को कहा कि उन्हें लगता है कि वे अगले हफ्ते शेनझेन में एशिया-प्रशांत आर्थिक सहयोग (एपेक) शिखर सम्मेलन में चीन के राष्ट्रपति शी जिनपिंग और रूस के राष्ट्रपति व्लादिमीर पुतिन से मिलेंगे, और बातचीत में ईरान युद्ध तथा परमाणु निरस्त्रीकरण शामिल होंगे। सोमवार, 9 नवंबर को चीन के विदेश मंत्रालय ने कहा कि वह **संबंधित पक्षों के संपर्क में है**, लेकिन तीनों नेताओं की मुलाकात की पुष्टि नहीं की।
+
+## क्या कहा गया
+
+ट्रंप ने फ्लोरिडा से वाशिंगटन लौटने से पहले पत्रकारों से बात की। उन्होंने कहा, "One of the meetings, I think, will be with President Putin and President Xi, and that'll be interesting." एजेंडे पर उन्होंने जोड़ा: "We're talking a lot of things, including denuclearization, but we'll be talking a lot of things." ईरान पर उन्होंने कहा: "We're trying to end the war in Iran." उन्होंने कहा कि वे सम्मेलन के लिए चीन जाएंगे, जो **18 और 19 नवंबर** को तय है।
+
+चीनी विदेश मंत्रालय के प्रवक्ता गुओ जियाकुन ने सोमवार की ब्रीफिंग में इन टिप्पणियों पर पूछे जाने पर कहा कि बीजिंग चीन, रूस और अमेरिका के राष्ट्राध्यक्षों की बैठक को लेकर संबंधित पक्षों के संपर्क में है। उन्होंने तारीख, जगह या स्वरूप नहीं बताया।
+
+## यह विचार कैसे बना
+
+तीन-तरफा बैठक की चर्चा हफ्तों से चल रही है। अक्टूबर में ट्रंप ने कहा था कि वे शी और पुतिन के साथ परमाणु निरस्त्रीकरण पर केंद्रित तीन-तरफा हथियार नियंत्रण वार्ता के लिए तैयार हैं। उसी समय पुतिन ने यूक्रेन युद्ध खत्म करने पर तीन-तरफा शिखर बैठक का प्रस्ताव रखा था, ऐसी खबर आई। 18 अक्टूबर को यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की ने कहा था कि अमेरिका ने [पुतिन के साथ तीन-तरफा शिखर बैठक](/hi/news/zelenskyy-us-proposes-trilateral-putin-summit-december) का प्रस्ताव दिया है, जो संभवतः दिसंबर में हो।
+
+3 नवंबर को क्रेमलिन के प्रवक्ता दिमित्री पेस्कोव ने कहा कि ऐसी बैठक की तैयारी की पुष्टि करने वाले "संकेतों का आदान-प्रदान" हो रहा है और कूटनीतिक माध्यमों से एजेंडे पर विचार साझा किए जा रहे हैं। उन्होंने कहा कि मेजबान के नाते चीन की तैयारी में अग्रणी भूमिका है और मॉस्को को उम्मीद है कि इसे "आने वाले दिनों में" अंतिम रूप मिल जाएगा। तब बीजिंग का रुख सीमित था: उसने कहा था कि वह चीन और रूस के राष्ट्राध्यक्षों की बैठक को लेकर संबंधित पक्षों के संपर्क में है, ट्रंप का कोई जिक्र नहीं था।
+
+```timeline
+{"title":"शेनझेन तक का रास्ता","items":[{"date":"18 अक्टूबर","text":"जेलेंस्की ने कहा, अमेरिका ने पुतिन के साथ तीन-तरफा शिखर बैठक का प्रस्ताव दिया"},{"date":"3 नवंबर","text":"पेस्कोव: तैयारी के संकेतों का आदान-प्रदान जारी; चीन मेजबान"},{"date":"8 नवंबर","text":"ट्रंप: चीन में पुतिन और शी से मिलने की उम्मीद"},{"date":"9 नवंबर","text":"चीन: संबंधित पक्षों के संपर्क में"},{"date":"10 से 11 नवंबर","text":"अबू धाबी में अमेरिका, रूस और यूक्रेन की वार्ता की खबर"},{"date":"18 से 19 नवंबर","text":"एपेक नेताओं का सम्मेलन, शेनझेन"}]}
+```
+
+## एजेंडे के पीछे के दो युद्ध
+
+ट्रंप यह भी कह चुके हैं कि यूक्रेन समझौता करीब है। [5 नवंबर को व्हाइट हाउस में](/hi/news/trump-russia-ukraine-deal-could-involve-all-of-europe-dmitriev) पुतिन के दूत किरिल दिमित्रिएव से मिलने के बाद उन्होंने "बड़े, खूबसूरत समझौते" की बात की थी, और एक टेलीविजन इंटरव्यू में कहा कि युद्ध "जल्द खत्म होगा"। अमेरिका, यूक्रेन और रूस के बीच तीन-तरफा वार्ता 10 और 11 नवंबर को अबू धाबी में होने की खबर है, जिसमें यूरोप भी शामिल होगा।
+
+ईरान पर बातचीत अटकी है। तेहरान ने वॉशिंगटन को [कतर के जरिए परमाणु प्रस्ताव](/hi/news/iran-hands-us-nuclear-proposal-seven-demands) भेजा है, लेकिन पहले उसकी सात मांगें माननी होंगी, जिनमें प्रतिबंधों में राहत और मुआवजा शामिल हैं। 8 नवंबर को होर्मुज जलडमरूमध्य के पास दो टैंकरों में आग लगने की खबर आई।
+
+```photo
+{"n":1,"subject":"Vladimir Putin","caption":"रूस के राष्ट्रपति व्लादिमीर पुतिन, जिनके शेनझेन आने की तैयारी क्रेमलिन के मुताबिक चीन की मेजबानी में चल रही है।","alt":"रूस के राष्ट्रपति व्लादिमीर पुतिन"}
+```
+
+## भारत के लिए क्या मायने
+
+भारत एपेक का सदस्य नहीं है और मेज पर नहीं होगा, पर चर्चा के मुद्दे उसके बिल को सीधे छूते हैं। तेल मंत्रालय के पीपीएसी आंकड़ों के मुताबिक भारत ने अप्रैल से सितंबर में कच्चे तेल के आयात पर **90.6 अरब डॉलर खर्च किए**, जो लगभग उतनी ही मात्रा पर एक साल पहले से 46.3% ज्यादा है; सितंबर में भारतीय बास्केट औसतन 116.09 डॉलर प्रति बैरल रही। ईरान युद्ध खत्म होने और खाड़ी के समुद्री रास्ते खुलने का असर सीधे इसी आंकड़े पर पड़ेगा।
+
+दूसरा सूत्र रूस है। केप्लर के मुताबिक भारत ने अगस्त में रोजाना करीब 20.8 लाख बैरल रूसी कच्चा तेल खरीदा, जो उसके आयात का करीब 45% है। 18 सितंबर को हस्ताक्षरित एक अमेरिकी कानून रूसी तेल के शीर्ष खरीदारों पर 100% तक शुल्क की इजाजत देता है, और [राष्ट्रपति ट्रंप ने 16 अक्टूबर को इसे फिलहाल रोक दिया](/hi/news/trump-waives-russia-sanctions-law-india-tariff-threat)। शेनझेन में यूक्रेन पर कोई भी समझौता तय कर सकता है कि यह छूट रहेगी या नहीं। सोमवार दोपहर तक ट्रंप के बयान पर भारत सरकार की कोई प्रतिक्रिया नहीं आई थी।
+
+```photo
+{"n":2,"subject":"Shenzhen","caption":"शेनझेन, दक्षिणी चीन का तकनीकी केंद्र, जो 18 और 19 नवंबर को एपेक नेताओं के सम्मेलन की मेजबानी करेगा।","alt":"शेनझेन, चीन"}
+```
+
+## आगे क्या
+
+अभी कुछ भी पक्का नहीं है। चीन ने यह नहीं कहा है कि वह तीन-तरफा बैठक की मेजबानी करेगा या नहीं, और क्रेमलिन ने ट्रंप के ताजा बयान पर टिप्पणी नहीं की है। 18 नवंबर को सम्मेलन शुरू होने से पहले बीजिंग, व्हाइट हाउस या क्रेमलिन की औपचारिक घोषणा पर नजर रखनी होगी। 10 और 11 नवंबर की अबू धाबी वार्ता बताएगी कि नेताओं के पहुंचने से पहले यूक्रेन का रास्ता कितना आगे बढ़ा है।
