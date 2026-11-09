@@ -14,6 +14,9 @@ import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang
 import PHOTO_MAP from '../../content/photos.map.json';
 import CORRECTIONS from '../../content/corrections.json';
 import { newsArticleLd, faqLd, claimReviewLd, storyImage, shareImage } from '../lib/seo';
+import { stateBox } from '../lib/home';
+import { duo } from '../lib/icons.mjs';
+import '../styles/article-c.css';
 
 interface Props { lang: Lang; id: string; route: string }
 const { lang, id, route } = Astro.props;
@@ -62,6 +65,23 @@ const hasCover = !!(PHOTO_MAP as any)[d.id]?.cover;
 // story file if set, otherwise the highlighted phrase of the first key point.
 const firstKey = (d.keyPoints?.[0] ?? '').match(/\*\*(.+?)\*\*/)?.[1] ?? '';
 const cap = (x: string) => (x ? x.charAt(0).toUpperCase() + x.slice(1) : x);
+// ---- Story page design C (owner's pick, November 9): split opening (tinted panel + photo), a strip of key numbers,
+// key points in a 2x2 grid, the story's timeline set in the text, and a "Where" map in the rail.
+const all = await content();
+const enD: any = all.en.all.get(id)?.data ?? d;
+const pm: any = (PHOTO_MAP as any)[d.id];
+const split = (d.type === 'news' || d.type === 'editorial') && !!pm && !pm.graphic && !pm.nohome;
+const ig: any = (d as any).infographic ?? {};
+const glanceAll: any[] = ((d as any).glance ?? ig.stats ?? []).filter((x: any) => x && x.value && x.label);
+const glance = split && glanceAll.length >= 3 ? glanceAll.slice(0, 4) : [];
+const MON: Record<string, string> = { Jan: 'January', Feb: 'February', Mar: 'March', Apr: 'April', Jun: 'June', Jul: 'July', Aug: 'August', Sep: 'September', Sept: 'September', Oct: 'October', Nov: 'November', Dec: 'December' };
+const fullMonth = (x: string) => String(x).replace(/\b(Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\b\.?/g, (m, a) => MON[a] ?? m);   // owner: dates as "November 7"
+const tlAll: any[] = (ig.timeline ?? ig.steps ?? []).map((x: any) => ({ date: fullMonth(x.date ?? x.title), text: x.text })).filter((x: any) => x.date && x.text);
+const tl = split && tlAll.length >= 2 ? tlAll.slice(0, 4) : [];
+const ALIAS: Record<string, string> = { 'New Delhi': 'Delhi', Mumbai: 'Maharashtra', Bengaluru: 'Karnataka', Kolkata: 'West Bengal', Chennai: 'Tamil Nadu', Hyderabad: 'Telangana', Lucknow: 'Uttar Pradesh', Srinagar: 'Jammu and Kashmir', Ladakh: 'Jammu and Kashmir', Leh: 'Jammu and Kashmir', Jammu: 'Jammu and Kashmir', Gurugram: 'Haryana', Noida: 'Uttar Pradesh', Ahmedabad: 'Gujarat', Patna: 'Bihar', Bhopal: 'Madhya Pradesh', Jaipur: 'Rajasthan', Raipur: 'Chhattisgarh', Ranchi: 'Jharkhand', Bhubaneswar: 'Odisha', Thiruvananthapuram: 'Kerala', Guwahati: 'Assam', Dehradun: 'Uttarakhand', Shimla: 'Himachal Pradesh', Chandigarh: 'Chandigarh', Amaravati: 'Andhra Pradesh', Panaji: 'Goa', Imphal: 'Manipur', Agartala: 'Tripura', Shillong: 'Meghalaya', Aizawl: 'Mizoram', Kohima: 'Nagaland', Itanagar: 'Arunachal Pradesh', Gangtok: 'Sikkim', Puducherry: 'Puducherry' };
+const locParts = String(enD.location ?? '').split(',').map((x) => x.trim()).filter(Boolean);
+const stName = locParts.map((x) => ALIAS[x] ?? x).reverse().find((x) => stateBox(x));
+const where = d.type === 'news' && stName ? { shape: stateBox(stName)!, place: d.location } : null;
 const heroOv = {
   kicker: d.hero?.overlay?.kicker ?? (d.type === 'editorial' ? (lang === 'hi' ? 'हमारा मत' : 'Our view') : String(d.format_label || '').replace(/\s*\/\s*/g, ' · ')),
   value: d.hero?.overlay?.value ?? cap(firstKey),
@@ -80,18 +100,35 @@ const heroOv = {
   active={active}
   article={{ published: d.published, modified: d.updated ?? d.published, section: labelParts(d.format_label)[0], tags: d.topics }}
 >
+  {split && (
+    <div class="ac-top" data-pagefind-body>
+      <div class="ac-tx">
+        <FormatLabel data={d} />
+        <h1>{d.title}</h1>
+        <p class="stand">{d.standfirst}</p>
+        <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={k} location={d.type === 'news' ? d.location : null} />
+      </div>
+      <figure class="ac-ph">
+        <Photo id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
+        {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span> {hero.page ? <a class="pcred" href={`/photo-credits/#${hero.photoId}`}>{hero.short}</a> : <span class="pcred">{hero.credit}</span>}</figcaption>}
+      </figure>
+    </div>
+  )}
+  {glance.length > 0 && (
+    <div class="w"><div class={`ac-strip n${glance.length}`}>{glance.map((x: any) => <div><Icon name={duo(x.icon, 'chart-bar-duotone')} class="ic ic-duo" /><p><b>{x.value}</b><span>{x.label}</span></p></div>)}</div></div>
+  )}
   <div class="w">
-    <div class={`art ${d.type === 'factcheck' ? 'fc' : ''}`}>
+    <div class={`art ${d.type === 'factcheck' ? 'fc' : ''} ${split ? 'ac-split' : ''} ac`}>
       <article data-pagefind-body>
         <PfMeta data={d} lang={lang} />
-        <header class="ah">
+        {!split && <header class="ah">
           <FormatLabel data={d} />
           <h1>{d.title}</h1>
           <p class="stand">{d.standfirst}</p>
           <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={k} location={d.type === 'news' ? d.location : null} />
-        </header>
+        </header>}
 
-        {(d.type === 'news' || d.type === 'editorial') && (
+        {!split && (d.type === 'news' || d.type === 'editorial') && (
           <figure class="hero">
             <div class="hero-ph">
               <Photo cover id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
@@ -102,7 +139,7 @@ const heroOv = {
         )}
 
         {d.type === 'news' && d.keyPoints?.length > 0 && (
-          <section class="kp" aria-labelledby="kp-h"><h2 id="kp-h">{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string) => <li><span set:html={emph(x)} /></li>)}</ol></section>
+          <section class="kp ac-kp" aria-labelledby="kp-h"><h2 id="kp-h" class="sr-only">{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string, i: number) => <li><b class="n">{String(i + 1).padStart(2, '0')}</b><span set:html={emph(x)} /></li>)}</ol></section>
         )}
 
         {d.type === 'explainer' && d.shortAnswer && (
@@ -133,6 +170,13 @@ const heroOv = {
 
         <div class={`body ${d.type === 'explainer' ? 'qa' : ''}`} set:html={html} />
 
+        {tl.length > 0 && (
+          <section class="ac-tl" aria-labelledby="tl-h"><h2 id="tl-h">{ig.headline ?? (lang === 'hi' ? 'घटनाक्रम' : 'Timeline')}</h2>
+            <ol class={`n${tl.length}`}>{tl.map((x: any) => <li><b>{x.date}</b><span>{x.text}</span></li>)}</ol>
+            {ig.source && <p class="ac-tls">{lang === 'hi' ? 'स्रोत' : 'Source'}: {ig.source}</p>}
+          </section>
+        )}
+
         {d.type === 'editorial' && <aside class="ednote"><Icon name="info" /><p>{t.editorialsNote} <a href={`${p}/standards/`}>{t.readStandards}</a></p></aside>}
 
         {d.updated && (
@@ -157,6 +201,11 @@ const heroOv = {
         )}
         {d.type === 'editorial' && (
           <section class="box"><h2 class="rh" style="border:0;padding:0;margin-bottom:6px;font-size:14px">{t.aboutEditorials}</h2><p>{t.aboutEditorialsText}</p><a class="dl" href={`${p}/standards/`}>{t.standards} <Icon name="caret-right" /></a></section>
+        )}
+        {where && (
+          <section class="ac-where"><h2 class="rh">{lang === 'hi' ? 'कहाँ' : 'Where'}</h2>
+            <div><svg class="ac-shp" viewBox={where.shape.vb} aria-hidden="true" style={`stroke-width:${where.shape.sw}`}><use href={`/maps/india.svg#${where.shape.id}`} /></svg><p><b>{where.place}</b></p></div>
+          </section>
         )}
         {d.type !== 'editorial' && topicPages[0] && <FollowCard lang={lang} topic={topicPages[0]} />}
         <RailList title={t.related} items={related.slice(0, 5)} thumbs={d.type === 'news' ? 1 : 0} />

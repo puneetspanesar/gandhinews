@@ -45,3 +45,8 @@ Run name for the lock and the record: `hourly-HH`, HH the hour the run started. 
 - The top of the homepage is the newest news. Lead under 6 hours old; beside the lead, news under 12 hours old, newest first. Fresh news (under 6 hours) may stay in the headlines the next hour and moves down as newer stories arrive; the lead still changes every hour. refresh_home.py and check_fresh.py enforce this.
 - A lead cover (lead_cover.py) never shows the same person twice. Pair the person with the place or event, or use one photo. lead_cover.py refuses panels whose captions name the same person.
 - A broken cover is kept off the homepage with `"nohome": "<reason>"` on its photos.map.json entry; remove the flag once the story has a proper photo.
+
+## Story page design C (owner's pick, November 9)
+- A story with a real photo opens split: headline on a tinted panel, photo on the right. Infographic heroes keep the stacked opening.
+- Under the opening, a strip of 3 or 4 key numbers comes from `glance:` (list of `{icon, value, label}`, Phosphor icon names) or, failing that, `infographic.stats`. Give every photo story a `glance:` of 3 or 4 real figures from the primary source.
+- `infographic.timeline` / `infographic.steps` show as a timeline at the foot of the story; the dateline's state shows as a "Where" map in the rail.

@@ -58,6 +58,9 @@ const base = z.object({
     .optional(),
   translation_of: optStr,
   data: optStr,
+  // the story's own infographic data (stats, timeline) and optional key numbers, used by the story page (design C)
+  infographic: z.any().optional(),
+  glance: z.array(z.object({ icon: optStr, value: z.string(), label: z.string() })).optional(),
 });
 
 const coll = (lang: 'en' | 'hi', pattern: string) =>
