@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+    "id": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "Politics / Congress",
+        "hi": "राजनीति / कांग्रेस"
       },
       "value": {
-        "en": "Trump: new Iran strikes 'highly unlikely'",
-        "hi": "ट्रंप: ईरान पर नए हमले 'बेहद असंभव'"
+        "en": "'Modi-Shah-ECI package'",
+        "hi": "'मोदी-शाह-ईसीआई पैकेज'"
       },
       "text": {
         "en": "",
@@ -16,17 +16,21 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "special-session-of-parliament-explained-shah-offer-cec-removal",
+      "telangana-roll-revision-must-not-erase-voters-quietly"
+    ],
     "relatedBeside": [
       "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
       "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Congress",
+        "hi": "कांग्रेस"
       }
     }
   },
@@ -41,6 +45,17 @@
         "text": {
           "en": "Maldives frees 24 Thoothukudi fishermen held for nearly a month; Tamil Nadu pays for flight home",
           "hi": "मालदीव ने थूथुकुडी के 24 मछुआरों को लगभग एक महीने बाद छोड़ा, तमिलनाडु ने उठाया घर वापसी का हवाई खर्च"
+        }
+      },
+      {
+        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
+          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
         }
       },
       {
@@ -88,17 +103,6 @@
         }
       },
       {
-        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-        "lead": {
-          "en": "Congress:",
-          "hi": "कांग्रेस:"
-        },
-        "text": {
-          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
-          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
-        }
-      },
-      {
         "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
           "en": "Technology:",
@@ -110,14 +114,14 @@
         }
       },
       {
-        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "link": "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
-          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
+          "en": "No deaths on Diwali night is luck, not a fire safety policy",
+          "hi": "दिवाली की रात किसी की जान न जाना क़िस्मत है, अग्निसुरक्षा नीति नहीं"
         }
       }
     ]
@@ -185,13 +189,13 @@
   },
   "topStories": {
     "big": {
-      "id": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+      "id": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
       "also": []
     },
     "list": [
-      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
       "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
       "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
       "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
     ],
@@ -201,10 +205,10 @@
     ]
   },
   "startHere": [
+    "cop31-explained-turkey-australia-split-presidency-finance-fight",
+    "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
     "nz-mmp-explained-overhang-special-votes-130-seats",
-    "e20-petrol-explained-ethanol-blend-karnataka-row",
-    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-    "obc-creamy-layer-explained-parents-salary-supreme-court"
+    "e20-petrol-explained-ethanol-blend-karnataka-row"
   ],
   "trackers": [
     {
@@ -274,9 +278,9 @@
   },
   "factCheck": {
     "cards": [
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
       "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ]
   },
   "explained": [
@@ -357,11 +361,11 @@
     }
   ],
   "opinion": [
+    "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
+    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
     "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-    "e20-ethanol-row-needs-joint-testing-and-published-results",
-    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-    "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+    "e20-ethanol-row-needs-joint-testing-and-published-results"
   ],
   "sections": [
     {
@@ -401,16 +405,16 @@
       "list": [
         "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three"
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
       "list": [
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa"
+        "cancer-drugs-137-revised-prices-november-9-nppa",
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
       ]
     },
     {
@@ -427,9 +431,9 @@
       "section": "world",
       "lead": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
       "list": [
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
       ]
     },
     {
@@ -631,17 +635,20 @@
       ]
     },
     {
-      "at": "2026-11-09T18:56:37+05:30",
+      "at": "2026-11-09T18:58:25+05:30",
       "ids": [
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
+        "telangana-roll-revision-must-not-erase-voters-quietly",
         "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
         "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy"
       ]
     }
   ],
