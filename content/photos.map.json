@@ -41671,7 +41671,15 @@
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)",
   "page": null,
   "srcWidth": 676,
-  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage"
+  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage",
+  "treated": {
+   "src": "/photos/t-modi-heads-to-bastar-diwali-security-forces-1280.jpg",
+   "src800": "/photos/t-modi-heads-to-bastar-diwali-security-forces-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons"
+  }
  },
  "rajnath-singh-reaches-sherathang-diwali-nathu-la": {
   "id": "o-rajnath-singh-reaches-sherathang-diwali-nathu-la",
@@ -41920,7 +41928,15 @@
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)",
   "page": null,
   "srcWidth": 784,
-  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage"
+  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage",
+  "treated": {
+   "src": "/photos/t-modi-bastar-cobra-karanpur-diwali-naxalism-won-1280.jpg",
+   "src800": "/photos/t-modi-bastar-cobra-karanpur-diwali-naxalism-won-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons"
+  }
  },
  "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8": {
   "id": "i-hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
