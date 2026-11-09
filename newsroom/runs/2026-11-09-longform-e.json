@@ -1,0 +1,44 @@
+{
+ "run": "longform-e",
+ "start": "2026-11-09T17:41:04+05:30",
+ "end": "2026-11-09T18:54:10+05:30",
+ "summary": "Long-form evening: RBI liquidity and COP31 explainers, Novaya Gazeta and Diwali fires editorials, Kapil Mishra fact check",
+ "new": [
+  "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
+  "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
+  "cop31-explained-turkey-australia-split-presidency-finance-fight",
+  "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
+  "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
+   "why": "Main picture is a generic exterior of the RBI's regional office in Nagpur (a calm street and an office building), not who acted. The story's own hero brief asks for RBI Governor Sanjay Malhotra, who sets the liquidity stance. The same building photo also sits in the homepage Explained row.",
+   "done": "No free photo of Governor Sanjay Malhotra at 900 px or more exists in the finder pools (391 and 484 px only), and the only RBI Mumbai photo is the tilted shot the first editor rejected. The explainer is about a liquidity operation with numbers, so its main picture is now its infographic (rule 11 / 11a); the Nagpur office photo is removed."
+  },
+  {
+   "id": "cop31-explained-turkey-australia-split-presidency-finance-fight",
+   "why": "Main picture of Chris Bowen is a very tight, soft crop with the top of his head cut off by the frame; the in-story photo of Bhupender Yadav is also cropped through the top of the head. Badly cropped faces are not acceptable.",
+   "done": "No sharp free photo of Bowen or of COP31 itself in the pools (Antalya aerial unusable, other Bowen photos old or off-topic, the Kurum photo blocked by the 7-day rule), so the main picture is now the story's infographic (rule 11a). The in-story Bhupender Yadav portrait is kept: it is the right person with the full face clear, only the hairline is trimmed, and the library has no other portrait."
+  },
+  {
+   "id": "homepage",
+   "why": "FAIL. (1) Balance: the two INTERNAL SECURITY stories, 'Modi in Bastar: no CRPF jawan died on duty this year...' and 'Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar', are on the same subject and sit next to each other under the lead; merge them or move one well down the page. (2) Two business/markets stories in the top headlines ('RBI lends banks Rs 50,003 crore...' and 'Nvidia board opens independent probe into CEO Jensen Huang...'); keep one, move the other below the fold. (3) Election administration crowds the top: the lead (Gogoi on Modi-Shah-ECI, SIR, delimitation), the card under it (Yogi's 1.27 crore missing Hindus on voter lists) and the Andhra parishad polls/State Election Commission editorial; replace at least one with a different subject. (4) Big empty space: on desktop the middle column ends after 'No deaths on Diwali night is luck...' and leaves a tall white gap down to the Politics band while the left and right columns run on; fill it with another headline or rebalance the columns. (5) The lead itself is weak: an opposition MP's list posted on X is not the biggest story in India right now; consider leading with a harder news story of the day (for example the Bastar/Naxal-free Diwali story or Delhi's severe post-Diwali air) and keep Gogoi as a secondary headline. (6) The trending bar on desktop clips its last item to 'Int' mid-word; make the bar end on a whole item.",
+   "done": "Dropped from the top this evening: the Shah Naxal story beside the Modi Bastar fact check, the Nvidia probe (one business story left), the Yogi voter-list fact check from the live band, the 6:30 am AQI 366 story, both older Rajnath Sherathang stories, the Maharashtra ministers' Diwali story and the duplicate COP31 news slot. gate.sh layout check passes (no empty space). NOT fixed in this run: every fresh pictured news story has already led, so the Gogoi story leads as a recorded check_fresh breach until the next hourly run publishes a fresh lead; the desktop trending bar clipping is a template issue left for a code run."
+  }
+ ],
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 16:48 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led at 16:48 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 16:30 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 15:02 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 14:58 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 14:51 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "led or sat beside the lead at 14:50 as well: gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+ ],
+ "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+}

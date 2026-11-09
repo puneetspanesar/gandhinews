@@ -1076,7 +1076,7 @@ html body .mh .mh-top::before{background:#4a4a4a}
 html body .mh .mh-wm,html body .mh .mh-date,html body .mh .mh-l,html body .mh .mh-l a,html body .mh .mh-lang a,html body .mh .mh-lang span,html body .mh .mh-ib,html body .mh .mh-act a:not(.mh-sub){color:#fff}
 html body .mh .mh-l .mh-date+*,html body .mh .mh-l>*+*{border-color:#4a4a4a}
 html body .mh .mh-sub{background:var(--red);color:#fff}
-html body .menu.mh-nav{background:var(--red);border-top:0;border-bottom:0;box-shadow:0 0 0 100vmax var(--red);clip-path:inset(0 -100vmax)}
+html body .menu.mh-nav{background:var(--red);border-top:0;border-bottom:0;box-shadow:none;border-image:conic-gradient(var(--red) 0 0) fill 0//0 100vmax}
 html body .menu.mh-nav>a,html body .menu.mh-nav summary{color:#fff;border-left:0;position:relative}
 html body .menu.mh-nav>a+a::before,html body .menu.mh-nav>details::before{content:'';position:absolute;left:0;top:10px;bottom:10px;width:1px;background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.6),rgba(255,255,255,0))}
 html body .menu.mh-nav>a.on{background:var(--blk);color:#fff;padding-left:18px;padding-right:18px}

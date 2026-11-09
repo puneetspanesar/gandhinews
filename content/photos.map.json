@@ -57463,29 +57463,90 @@
   "page": "https://commons.wikimedia.org/wiki/File:Opening_of_memorial_table_of_Anna_Politkovskaya_07.jpg"
  },
  "rbi-liquidity-explained-variable-rate-repo-sdf-corridor": {
-  "id": "r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
-  "src": "/photos/r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-1280.jpg",
-  "src800": "/photos/r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Gppande / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "The Reserve Bank of India office in Nagpur (file photo)",
-  "alt_hi": "नागपुर में भारतीय रिज़र्व बैंक का दफ़्तर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG"
- },
- "cop31-explained-turkey-australia-split-presidency-finance-fight": {
-  "id": "o-cop31-explained-turkey-australia-split-presidency-finance-fight",
-  "src": "/photos/o-cop31-explained-turkey-australia-split-presidency-finance-fight-1280.jpg",
-  "src800": "/photos/o-cop31-explained-turkey-australia-split-presidency-finance-fight-640.jpg",
+  "id": "i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
+  "src": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-en-3x2-1280.jpg",
+  "src800": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1031,
-  "credit": "Photo: UK Government / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Chris Bowen, COP31 President of Negotiations (file photo)",
-  "alt_hi": "COP31 के वार्ता अध्यक्ष क्रिस बोवेन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chris_Bowen_(2024)_(cropped).jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: The corridor that holds India's short-term rates",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वह गलियारा जो अल्पकालिक दरें थामे है",
+  "page": null,
+  "ihash": "e7f0b5246c8c",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-en-t-1280.jpg",
+    "src800": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-hi-t-1280.jpg",
+    "src800": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-en-1280.jpg",
+    "src800": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-hi-1280.jpg",
+    "src800": "/photos/i-rbi-liquidity-explained-variable-rate-repo-sdf-corridor-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Sanjay Malhotra over 900 px (finder l9e, l9ei: 391 and 484 px); the only RBI Mumbai photo is a tilted, unclear shot"
+ },
+ "cop31-explained-turkey-australia-split-presidency-finance-fight": {
+  "id": "i-cop31-explained-turkey-australia-split-presidency-finance-fight",
+  "src": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-en-3x2-1280.jpg",
+  "src800": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Two countries share one climate conference",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एक जलवायु सम्मेलन, दो देशों की अध्यक्षता",
+  "page": null,
+  "ihash": "c698d46c3971",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-hi-3x2-1280.jpg",
+    "src800": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-en-t-1280.jpg",
+    "src800": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-hi-t-1280.jpg",
+    "src800": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-en-1280.jpg",
+    "src800": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-hi-1280.jpg",
+    "src800": "/photos/i-cop31-explained-turkey-australia-split-presidency-finance-fight-hi-640.jpg"
+   }
+  },
+  "nophoto": "no sharp free photo of COP31 or Chris Bowen at it (finder l9e, l9ei: Antalya aerial unusable, Bowen photos soft or off-topic); Murat Kurum photo blocked by the 7-day rule"
  },
  "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy": {
   "id": "i-diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",

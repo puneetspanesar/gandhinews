@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+    "id": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "Politics / Congress",
+        "hi": "राजनीति / कांग्रेस"
       },
       "value": {
-        "en": "Rubio: Iran's demands unrealistic",
-        "hi": "रुबियो: ईरान की मांगें अव्यावहारिक"
+        "en": "'Modi-Shah-ECI package'",
+        "hi": "'मोदी-शाह-ईसीआई पैकेज'"
       },
       "text": {
         "en": "",
@@ -16,17 +16,21 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "special-session-of-parliament-explained-shah-offer-cec-removal",
+      "telangana-roll-revision-must-not-erase-voters-quietly"
+    ],
     "relatedBeside": [
       "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
       "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
       "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Congress",
+        "hi": "कांग्रेस"
       }
     }
   },
@@ -66,17 +70,6 @@
         }
       },
       {
-        "link": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-        "lead": {
-          "en": "Congress:",
-          "hi": "कांग्रेस:"
-        },
-        "text": {
-          "en": "Gogoi posts a ten-point 'Modi-Shah-ECI package', from SIR and delimitation to faulty EVMs",
-          "hi": "गौरव गोगोई ने गिनाया दस सूत्रीय 'मोदी-शाह-ईसीआई पैकेज': एसआईआर, परिसीमन से लेकर खराब ईवीएम तक"
-        }
-      },
-      {
         "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
           "en": "Technology:",
@@ -88,36 +81,47 @@
         }
       },
       {
-        "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+        "link": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
         "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
-          "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
+          "en": "Rubio calls Iran's demands 'outrageous and ridiculous' and says no deal is close as US-Iran peace talks stall; India watches oil",
+          "hi": "रुबियो ने ईरान की मांगों को 'अपमानजनक और हास्यास्पद' बताया, समझौता करीब नहीं; अमेरिका-ईरान शांति वार्ता अटकी, भारत की नजर तेल और खाड़ी पर"
         }
       },
       {
-        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "link": "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
-          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
+          "en": "No deaths on Diwali night is luck, not a fire safety policy",
+          "hi": "दिवाली की रात किसी की जान न जाना क़िस्मत है, अग्निसुरक्षा नीति नहीं"
         }
       },
       {
-        "link": "cop31-explained-turkey-australia-split-presidency-finance-fight",
+        "link": "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Internal security:",
+          "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "COP31 explained: why Turkey hosts, Australia runs the talks, and what the two weeks are about",
-          "hi": "कॉप31 समझिए: तुर्की मेज़बान, ऑस्ट्रेलिया के हाथ में वार्ता, और दो हफ्तों में दांव पर क्या है"
+          "en": "Modi's figures for 15,000 km of roads and 9,500 towers in Naxal-hit areas run ahead of the Home Ministry's own counts",
+          "hi": "नक्सल प्रभावित इलाकों में 15,000 किमी सड़क और 9,500 टावर का मोदी का दावा गृह मंत्रालय के अपने आंकड़ों से आगे है"
+        }
+      },
+      {
+        "link": "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Maharashtra has paid ₹5,000 to 87 lakh drought-hit farmers. The reservoirs are the harder test, and the numbers should be public",
+          "hi": "महाराष्ट्र ने 87 लाख सूखा-पीड़ित किसानों को ₹5,000 दिए। असली परीक्षा जलाशयों की है, और आंकड़े सार्वजनिक होने चाहिए"
         }
       }
     ]
@@ -185,19 +189,19 @@
   },
   "topStories": {
     "big": {
-      "id": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "id": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
       "also": []
     },
     "list": [
-      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-      "cop31-explained-turkey-australia-split-presidency-finance-fight",
-      "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
-      "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship"
+      "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
+      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+      "nz-mmp-explained-overhang-special-votes-130-seats"
     ],
     "also": [
-      "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim"
+      "e20-ethanol-row-needs-joint-testing-and-published-results",
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer"
     ]
   },
   "startHere": [
@@ -372,8 +376,8 @@
       },
       "list": [
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-        "modi-advani-99th-birthday-nation-first-foundation"
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
@@ -400,17 +404,17 @@
       "lead": "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
       "list": [
         "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
       ]
     },
     {
       "section": "policy",
-      "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "lead": "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
       "list": [
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
         "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve",
+        "karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis"
       ]
     },
     {
@@ -428,8 +432,8 @@
       "lead": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
       "list": [
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
       ]
     },
     {
@@ -631,17 +635,20 @@
       ]
     },
     {
-      "at": "2026-11-09T18:18:45+05:30",
+      "at": "2026-11-09T18:51:27+05:30",
       "ids": [
-        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
+        "telangana-roll-revision-must-not-erase-voters-quietly",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
         "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "cop31-explained-turkey-australia-split-presidency-finance-fight"
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
+        "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+        "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
       ]
     }
   ],
