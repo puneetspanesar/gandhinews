@@ -87,7 +87,7 @@ The overhang has also shifted the balance. On a strict reading of the party vote
 
 ## What is the 5% threshold, and who is the kingmaker?
 
-**A party with less than 5% of the party vote and no local seat gets nothing.** Opportunity, founded in 2017, cleared it with about 5.96% and is set to enter Parliament for the first time, on six seats on one count and seven on another. Its leader Qiulae Wong says she has "both the Chrises' numbers" and will be reaching out. Luxon has ruled out working with the party, while Hipkins is open to talks but opposes its new tax. If the right bloc holds 67 seats it does not need Opportunity, but a slip of two seats could change that.
+**A party with less than 5% of the party vote and no local seat gets nothing.** Opportunity, founded in 2016, cleared it with about 5.96% and is set to enter Parliament for the first time, on six seats on one count and seven on another. Its leader Qiulae Wong says she has "both the Chrises' numbers" and will be reaching out. Luxon has ruled out working with the party, while Hipkins is open to talks but opposes its new tax. If the right bloc holds 67 seats it does not need Opportunity, but a slip of two seats could change that.
 
 ## What are special votes, and what is still to count?
 
@@ -97,4 +97,4 @@ They tend to help the left. They usually add one or two seats to left-leaning pa
 
 ## What happens next?
 
-**Nothing is decided until November 27, and talks can run longer.** The sitting government stays in office under caretaker conventions in the meantime. The last two rounds of coalition talks took about four weeks in 2020 and around 40 days in 2023, and this one could stretch close to Christmas. The figures above are from the preliminary count and will change when the special votes are added.
+**Nothing is decided until November 27, and talks can run longer.** The sitting government stays in office under caretaker conventions in the meantime. The last two rounds of coalition talks took about four weeks in 2017 and around 40 days in 2023, and this one could stretch close to Christmas. The figures above are from the preliminary count and will change when the special votes are added.

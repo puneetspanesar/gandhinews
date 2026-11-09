@@ -45,3 +45,11 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Finder (GitHub Actions) still failing (run 42511667476); Commons API unreachable from the container.
 - Editor homepage FAIL not fixed (second check): Shah Naxalism story still shown under the lead on phone; older Rajnath Sherathang story and Maharashtra drought duplicate still in template-driven lists (Must Read, Policy); 150 to 190px empty space under lead and centre columns on desktop; phone tab bar covers first card under the lead.
 - NEXT RUN, FIRST: Delhi CPCB AQI morning after Diwali (Monday 8 am bulletin) with a smog photo; India A v NZ A day three; Monday markets open; economy story from RBI/PIB once reachable.
+
+## November 9, 2026, 7:55 am (from the stall check, standing in for the missed 06:00 and 6:35 long-form runs)
+- Neither the 06:00 writing run nor the 6:35 long-form run published. The stall check wrote: rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall (LEAD, Rubio library photo), delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three (infographic --nophoto), nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18 (Huang library photo), editorial oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices and explainer nz-mmp-explained-overhang-special-votes-130-seats (both infographic --nophoto).
+- Primary sources (state.gov, CPCB, PIB, PPAC) could not be opened; Rubio, AQI and the editorial rest on relayed reports, noted in verification. Swap in the State Department transcript and CPCB bulletin when readable.
+- Dropped before review: a Kharge "Eid of joy" Diwali remark story (no primary source, relayed reports only).
+- Homepage rotation job (GitHub Actions) fails in 3 seconds with no steps run: Actions billing or minutes block, so no rotation between runs.
+- Editor homepage FAIL not fixed (second check): Hormuz tankers and Japan quake in the World section list and Rajnath Sherathang preview in the Policy list are template-driven; about 170px empty space under the middle column on desktop.
+- NEXT RUN, FIRST: Delhi smog file photo for the AQI story; India A v NZ A day three result; Monday markets open; an India national lead with a PIB photo.

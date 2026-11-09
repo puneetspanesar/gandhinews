@@ -91,7 +91,7 @@ On Thursday, November 5, the chairmen of three House committees, **John Moolenaa
 
 US President Donald Trump, speaking to reporters in Florida on Sunday, said he had not spoken to Huang since the investigation was announced. "I just know he's a fine person, but you never know what is going on," he said. Asked whether he wished he had acted on intelligence he was briefed on last year, Trump said: "No, I don't think so. I think he's an honourable guy." Secretary of State Marco Rubio, asked the same day, declined to comment.
 
-On the market side, Dan Ives of Yorkville & Ives called the episode "a black eye moment" that would bring "multiple congressional inquiries at a minimum" and "an overhang on the stock". He said investors will ask whether Huang stays on as chief executive.
+On the market side, the technology analyst Dan Ives called the episode "a black eye moment" that would bring "multiple congressional inquiries at a minimum" and "an overhang on the stock". He said investors will ask whether Huang stays on as chief executive.
 
 ## Why it matters
 

@@ -1,0 +1,25 @@
+{
+ "run": "stall-06",
+ "start": "2026-11-09T06:55:33+05:30",
+ "end": "2026-11-09T07:54:56+05:30",
+ "summary": "missed 06:00 and long-form runs: Rubio-Iran lead, Delhi AQI, Nvidia, fuel editorial, NZ explainer",
+ "new": [
+  "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+  "nz-mmp-explained-overhang-special-votes-130-seats",
+  "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+  "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+  "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "nz-mmp-explained-overhang-special-votes-130-seats",
+   "why": "Two factual errors, in EN and HI. (1) 'What happens next' says the last two rounds of coalition talks took 'about four weeks in 2020 and around 40 days in 2023'; in 2020 Labour won an outright majority and there were no coalition negotiations (only a two-week Labour-Green cooperation deal). The earlier four-week round was 2017. (2) 'Opportunity, founded in 2017' (HI '2017 में बनी'): The Opportunity Party (formerly TOP) was founded in November 2016.",
+   "done": "'four weeks in 2017 and around 40 days in 2023'; Opportunity 'founded in 2016' (Hindi '2016 में बनी'); also Nvidia: Dan Ives's firm dropped (unverified)"
+  }
+ ],
+ "breaches": [],
+ "lead": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
+}
