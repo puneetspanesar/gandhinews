@@ -194,7 +194,6 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
     </div>
     <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
-      <a href={`${p}/`} class={active === 'home' ? 'on' : undefined} aria-current={active === 'home' ? 'page' : undefined}>{t.home}</a>
       {nav.map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
       <details class={moreActive ? 'on' : undefined}>
         <summary>{t.more} <Icon name="caret-down" /></summary>
