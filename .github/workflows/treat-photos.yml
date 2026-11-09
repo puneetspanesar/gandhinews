@@ -11,6 +11,10 @@ on:
         description: 'Treat every story from the last N hours that has no collage yet'
         required: false
         default: '72'
+      redo:
+        description: 'yes = throw away every collage and make them all again'
+        required: false
+        default: 'no'
 permissions:
   contents: write
 concurrency:
@@ -28,13 +32,18 @@ jobs:
           python-version: '3.12'
       - name: Install
         run: pip install -q "rembg[cpu]==2.0.67" cairosvg==2.7.1 pyyaml pillow numpy
+      - name: Clear collages (redo)
+        if: ${{ inputs.redo == 'yes' }}
+        run: |
+          python3 -c "import json;M=json.load(open('content/photos.map.json'));[e.pop('treated',None) for e in M.values()];json.dump(M,open('content/photos.map.json','w'),ensure_ascii=False,indent=1)"
+          git rm -q --cached public/photos/t-* 2>/dev/null; rm -f public/photos/t-*
       - name: Treat
         run: python3 newsroom/scripts/treat_photo.py --missing ${{ inputs.hours || '72' }}
       - name: Commit
         run: |
           git config user.name "Gandhi News desk"
           git config user.email "desk@gandhinews.com"
-          git add public/photos content/photos.map.json
+          git add -A public/photos content/photos.map.json
           git diff --cached --quiet && { echo "nothing to treat"; exit 0; }
           git commit -q -m "Treat photos [treat]"
           for i in 1 2 3 4 5; do
