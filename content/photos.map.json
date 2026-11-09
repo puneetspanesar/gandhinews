@@ -42300,7 +42300,15 @@
     "src800": "/photos/i-modi-advani-99th-birthday-nation-first-foundation-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of L K Advani or an unused Modi portrait; library, quick_photo, PIB a20, finder h0820 (Actions failing)"
+  "nophoto": "no free photo of L K Advani or an unused Modi portrait; library, quick_photo, PIB a20, finder h0820 (Actions failing)",
+  "treated": {
+   "src": "/photos/t-modi-advani-99th-birthday-nation-first-foundation-1280.jpg",
+   "src800": "/photos/t-modi-advani-99th-birthday-nation-first-foundation-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
  },
  "maharashtra-ministers-diwali-drought-farmers-dams-65-percent": {
   "id": "i-maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
