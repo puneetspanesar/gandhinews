@@ -171,3 +171,5 @@
 @media(min-width:1001px){.d-ec>.d-pl,.d-op>.d-pl{display:flex;flex-direction:column;justify-content:space-between}}
 /* two full-width bands back to back touch: no white strip between them (owner, November 9) */
 .d-tint+.d-band,.d-band+.d-tint,.d-band+.d-band{margin-top:0}
+/* policy on its own (no courts list): two columns, never one long full-width list (owner, November 9) */
+@media(min-width:1001px){.d-cp.d-one>section{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:40px;align-content:start}.d-cp.d-one>section>.d-sec{grid-column:1/-1}.d-cp.d-one .d-sec+.d-row+.d-row{border-top:0;padding-top:0}}

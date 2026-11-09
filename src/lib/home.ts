@@ -658,7 +658,8 @@ export async function homeModel(lang: Lang) {
     const isCourt = (id: string) => /Courts|Supreme Court|High Court/.test(enLabel(id)) || /Supreme Court|High Court/.test(enTitle(id));
     const courts = take(pool(['politics', 'policy', 'states']).filter(isCourt), 5);
     const PIC_IC: [RegExp, string][] = [[/Defence|Armed/, 'shield-check'], [/Home Affairs|Police|security/i, 'police-car'], [/Health/, 'drop'], [/Fuel|Oil|Petrol/, 'gas-pump'], [/Rail/, 'train'], [/Trade|Commerce/, 'handshake'], [/Agri|Farm|Food/, 'plant'], [/Education/, 'scroll'], [/Election/, 'flag-banner']];
-    const policy = take(pool(['policy']), 5).map((x: any) => ({ ...x, ic: (PIC_IC.find(([rx]) => rx.test(enLabel(x.id))) ?? [null, 'bank'])[1] }));
+    // alone (no courts list), policy fills two columns of three
+    const policy = take(pool(['policy']), courts.length >= 3 ? 5 : 6).map((x: any) => ({ ...x, ic: (PIC_IC.find(([rx]) => rx.test(enLabel(x.id))) ?? [null, 'bank'])[1] }));
     // courts and policy sit side by side: equal lengths so neither column leaves empty space; a courts list under 3 is dropped
     if (courts.length && courts.length < 3) courts.length = 0;
     if (courts.length && policy.length > courts.length) policy.length = courts.length;
