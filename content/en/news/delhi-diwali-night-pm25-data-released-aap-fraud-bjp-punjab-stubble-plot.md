@@ -6,7 +6,7 @@ section: states
 format_label: "States / Delhi"
 topics: []
 title: "Delhi releases missing Diwali-night air data: PM2.5 hit 3,744 at Mundka, AAP alleges fraud"
-standfirst: "Readings the central board's database did not show for Sunday night were published on Monday evening. They put the city's 24-hour AQI nearer 384 than the 370 on record, and fed a fresh Delhi-Punjab row over farm fires."
+standfirst: "Readings the central board's database did not show for Sunday night were published on Monday evening. They lift Monday's 4 pm bulletin AQI from 344 to about 360, and fed a fresh Delhi-Punjab row over farm fires."
 published: 2026-11-10T00:14:27+05:30
 location: New Delhi
 keyPoints:

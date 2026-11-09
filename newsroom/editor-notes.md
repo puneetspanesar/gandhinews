@@ -60,3 +60,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - review_pack.py writes content/*/news/ paths for fact checks; they live in content/*/factcheck/. Fix the tool.
 - Removed one exact duplicate photos.json entry (r-ec-fresh-window...) that failed check:photos.
 - NEXT RUN, FIRST: Punjab stubble fires tenfold on Diwali and Delhi severe smog with today's CPCB AQI and an event photo; Turkey Habas blast latest toll; Hamilton third ODI result (7:30 am IST Tuesday).
+
+## November 10, 2026, 12:45 am (from the 00:00 run)
+- Published 2: delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot (LEAD, Delhi smog file photo; editor fix: standfirst now carries the 4 pm AQI), india-women-squads-south-africa-tour-mandhana-captain-all-formats (Mandhana library photo). In-story photo blocks dropped (no photos placed).
+- National and world-business desks wrote nothing: PIB, newsonair and RBI fetches refused (PROVENANCE_REQUIRED); the Turkey Habas blast toll of 16 could not be confirmed.
+- Finder (photos_gh) worked this run. setup.sh hung on the pip install step (rembg); ran it separately.
+- Editor homepage FAIL not fixed (second check): Kapil Mishra stubble card still under the lead and RBI Rs 50,003 crore story in Must Read (template-driven lists, refresh_home --drop does not reach them); four World stories in the top; about 130px space under the centre column.
+- NEXT RUN, FIRST: Hamilton third ODI (7:30 am IST); Delhi CPCB AQI Tuesday morning; Turkey Habas blast official toll; a national story from a primary source.
