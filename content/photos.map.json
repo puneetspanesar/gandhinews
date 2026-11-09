@@ -31397,12 +31397,12 @@
    "src800": "/photos/t-sitharaman-tata-critical-component-settle-amicably-investors-640.jpg",
    "cutout": false,
    "with": [
-    "central-bank-week-results-l-t-maruti-hul-us-gdp-iip",
+    "sebi-pandey-graded-compliance-stockbrokers-anmi",
     "fpi-outflows-record-3-trillion-2026",
     "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
    ],
    "kind": "scenes",
-   "credit": "Photos: zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
+   "credit": "Photos: 312user / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
   }
  },
  "sitharaman-tata-critical-component-settle-amicably-investors--p2": {
@@ -34210,13 +34210,13 @@
    "src800": "/photos/t-supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-no-640.jpg",
    "cutout": false,
    "with": [
+    "neet-pg-candidates-deserve-to-see-their-question-papers--p1",
     "andhra-high-court-strikes-down-bc-quota-local-bodies",
-    "at1-bonds-explained-yes-bank-supreme-court-ruling",
     "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg",
     "high-court-allows-punjab-plea-bhagwant-mann-france-visit-clearance"
    ],
    "kind": "scenes",
-   "credit": "Photos: IM3847 / Wikimedia Commons; Pinakpani / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Harvinder Chandigarh / Wikimedia Commons"
+   "credit": "Photos: Pinakpani / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Harvinder Chandigarh / Wikimedia Commons"
   }
  },
  "pawan-khera-modi-parliament-press-conference-debate-dare": {
@@ -37413,12 +37413,12 @@
    "src800": "/photos/t-prism-johnson-jumps-ratnamani-precision-wires-fall-q2-result-640.jpg",
    "cutout": false,
    "with": [
-    "ipos-next-week-eaaa-sfc-bls-polymers-jio-listing",
-    "sensex-nifty-close-october-22-crude-110-west-asia",
+    "sebi-pandey-graded-compliance-stockbrokers-anmi",
+    "fpi-outflows-record-3-trillion-2026",
     "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
    ],
    "kind": "scenes",
-   "credit": "Photos: zadeus / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
+   "credit": "Photos: 312user / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
   }
  },
  "maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery": {
@@ -42284,7 +42284,15 @@
     "src800": "/photos/i-modi-advani-99th-birthday-nation-first-foundation-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of L K Advani or an unused Modi portrait; library, quick_photo, PIB a20, finder h0820 (Actions failing)"
+  "nophoto": "no free photo of L K Advani or an unused Modi portrait; library, quick_photo, PIB a20, finder h0820 (Actions failing)",
+  "treated": {
+   "src": "/photos/t-modi-advani-99th-birthday-nation-first-foundation-1280.jpg",
+   "src800": "/photos/t-modi-advani-99th-birthday-nation-first-foundation-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
  },
  "maharashtra-ministers-diwali-drought-farmers-dams-65-percent": {
   "id": "i-maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
