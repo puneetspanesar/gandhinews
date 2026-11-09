@@ -110,14 +110,14 @@
         }
       },
       {
-        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "link": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
-          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
+          "en": "Rubio calls Iran's demands 'outrageous and ridiculous' and says no deal is close as US-Iran peace talks stall; India watches oil",
+          "hi": "रुबियो ने ईरान की मांगों को 'अपमानजनक और हास्यास्पद' बताया, समझौता करीब नहीं; अमेरिका-ईरान शांति वार्ता अटकी, भारत की नजर तेल और खाड़ी पर"
         }
       }
     ]
@@ -191,20 +191,20 @@
     "list": [
       "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
       "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
+      "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
     ],
     "also": [
-      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-      "nz-mmp-explained-overhang-special-votes-130-seats"
+      "cop31-explained-turkey-australia-split-presidency-finance-fight",
+      "rbi-liquidity-explained-variable-rate-repo-sdf-corridor"
     ]
   },
   "startHere": [
+    "cop31-explained-turkey-australia-split-presidency-finance-fight",
+    "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
     "nz-mmp-explained-overhang-special-votes-130-seats",
-    "e20-petrol-explained-ethanol-blend-karnataka-row",
-    "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-    "obc-creamy-layer-explained-parents-salary-supreme-court"
+    "e20-petrol-explained-ethanol-blend-karnataka-row"
   ],
   "trackers": [
     {
@@ -274,9 +274,9 @@
   },
   "factCheck": {
     "cards": [
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
       "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ]
   },
   "explained": [
@@ -357,11 +357,11 @@
     }
   ],
   "opinion": [
+    "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
+    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
     "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-    "e20-ethanol-row-needs-joint-testing-and-published-results",
-    "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-    "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+    "e20-ethanol-row-needs-joint-testing-and-published-results"
   ],
   "sections": [
     {
@@ -372,8 +372,8 @@
       },
       "list": [
         "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
-        "modi-advani-99th-birthday-nation-first-foundation",
-        "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
+        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "modi-advani-99th-birthday-nation-first-foundation"
       ],
       "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
@@ -427,9 +427,9 @@
       "section": "world",
       "lead": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
       "list": [
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
         "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+        "cop31-opens-antalya-turkey-australia-negotiations-india-position"
       ]
     },
     {
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "at": "2026-11-09T18:47:31+05:30",
+      "at": "2026-11-09T18:54:30+05:30",
       "ids": [
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
         "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
@@ -641,7 +641,7 @@
         "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
         "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
         "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall"
       ]
     }
   ],
