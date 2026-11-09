@@ -210,9 +210,10 @@ def library_portrait(pk):
 
 def portrait(sid, M):
     """The headline's first-named person, alone: a solo photo we already hold, else the library portrait. (path, credit)."""
-    d = fm(sid); title = str(d.get('title') or ''); full = title + ' ' + str(d.get('standfirst') or '')
+    d = fm(sid); title = str(d.get('title') or ''); fp = R + f'content/en/news/{sid}.md'
+    full = title + ' ' + (open(fp).read() if os.path.exists(fp) else '') + ' ' + str(M.get(sid, {}).get('alt') or '')   # headline, story text or caption
     for pk in named_people(title)[:1]:
-        # a surname alone is not enough: the person's full name must be in the headline or the standfirst
+        # a surname alone is not enough: the person's full name must appear in the story or its caption
         # (Tata Steel is not Ratan Tata, Prism Johnson is not Mike Johnson, Azam Khan is not Babar Azam)
         if not any(nm in full for nm in [PEOPLE[pk]['en']] + list(PEOPLE[pk].get('aliases') or [])): return None
         name = PEOPLE[pk]['en']; best = None
