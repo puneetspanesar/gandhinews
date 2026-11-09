@@ -35589,7 +35589,18 @@
   "licence": "Public domain",
   "alt": "Donald Trump (file photo)",
   "alt_hi": "डोनाल्ड ट्रंप (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+  "treated": {
+   "src": "/photos/t-trump-xi-putin-apec-shenzhen-meeting-china-in-contact-1280.jpg",
+   "src800": "/photos/t-trump-xi-putin-apec-shenzhen-meeting-china-in-contact-640.jpg",
+   "cutout": true,
+   "with": [
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "imf-raises-india-growth-forecast-7-per-cent"
+   ],
+   "credit": "Photos: Shealeah Craighead / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; APK / Wikimedia Commons"
+  }
  },
  "kapil-mishra-fir-demand-punjab-diwali-stubble-fires": {
   "id": "o-kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
@@ -35602,6 +35613,17 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Farmers burning paddy residue in a field in Punjab (file photo)",
   "alt_hi": "पंजाब में खेत में धान की पराली जलाते किसान (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg",
+  "treated": {
+   "src": "/photos/t-kapil-mishra-fir-demand-punjab-diwali-stubble-fires-1280.jpg",
+   "src800": "/photos/t-kapil-mishra-fir-demand-punjab-diwali-stubble-fires-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023--p1",
+    "alappuzha-toddler-death-suspected-malnutrition",
+    "andaman-sea-offshore-mineral-blocks-auction-outreach"
+   ],
+   "credit": "Photos: CIAT / Wikimedia Commons; आशीष भटनागर / Wikimedia Commons; Ganesh Mohan T / Wikimedia Commons; Hannes Grobe / Wikimedia Commons"
+  }
  }
 }
