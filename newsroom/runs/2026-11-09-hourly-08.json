@@ -1,0 +1,25 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-09T08:04:55+05:30",
+ "end": "2026-11-09T08:49:07+05:30",
+ "summary": "Diwali-night fires story; Delhi AQI gets smog photo and leads; editor homepage FAIL recorded",
+ "new": [
+  "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+   "why": "The standfirst ('seven were roped out of a Delhi building') and the second stat on both covers ('7 people roped out of a Mohan Garden building in Delhi' / '7 दिल्ली के मोहन गार्डन की इमारत से रस्सी से उतारे गए लोग') contradict the story body. The body says police and residents roped out four people and firefighters brought out the other three. The Hindi standfirst repeats the error ('सात लोगों को रस्सी से उतारा गया'). The timeline also says 'After 11:30 pm: Mohan Garden fire under control', but the body says it was under control by about 11:30 pm.",
+   "done": "Standfirst EN/HI now 'seven were rescued from a Delhi building'; stat label EN/HI '7 people rescued ... (4 roped down)'; timeline 'About 11:30 pm' / 'करीब रात 11:30 बजे'; infographic and covers regenerated."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 07:54 as well: delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+  "led or sat beside the lead at 07:40 as well: delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+  "led or sat beside the lead at 07:26 as well: delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three"
+ ],
+ "lead": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three"
+}

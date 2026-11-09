@@ -6,7 +6,7 @@ section: states
 format_label: "States / Fires"
 topics: []
 title: "Diwali night fires in Thane, Delhi, Ujjain and Nagpur: dozens rescued, no deaths reported"
-standfirst: "About 50 people were brought out of a burning Thane high-rise, seven were roped out of a Delhi building and firefighters fought a rubber factory blaze in Narela. Firecrackers are suspected in several cases."
+standfirst: "About 50 people were brought out of a burning Thane high-rise, seven were rescued from a Delhi building and firefighters fought a rubber factory blaze in Narela. Firecrackers are suspected in several cases."
 published: 2026-11-09T08:13:11+05:30
 location: Thane
 keyPoints:
@@ -27,7 +27,7 @@ infographic:
   motif: fire
   stats:
     - {icon: users, value: "About 50", label: "residents rescued from a Thane high-rise"}
-    - {icon: users, value: "7", label: "people roped out of a Mohan Garden building in Delhi"}
+    - {icon: users, value: "7", label: "people rescued from a Mohan Garden building in Delhi (4 roped down)"}
     - {icon: fire-truck, value: "7", label: "fire tenders sent to the Narela rubber factory"}
   source: "Delhi Fire Services, Maharashtra Deputy CM, Ujjain Collector, November 8 and 9, 2026"
 related: [delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza, bombay-high-court-street-firecracker-ban-all-festivals]
@@ -86,10 +86,6 @@ Shinde, with MP Naresh Mhaske, MLAs Niranjan Davkhare and Ravindra Phatak, DCP P
 
 The same night, a fire broke out at a shopping centre in Sector 21 of Turbhe in Navi Mumbai, and firefighting units were sent. No casualties have been confirmed there. Fires were also reported at a garage in Mumbai's Dongri area, an apartment in Pune's Wadgaon Sheri, a warehouse in Pune's Phursungi, and a TVS showroom in Nagpur's Savarkar Nagar, where several two-wheelers were burned and firecrackers are blamed.
 
-```photo
-{"n":1,"subject":"Delhi Fire Service","caption":"A Delhi Fire Service tender, the force that answered the Narela and Mohan Garden calls on Diwali night (file photo).","alt":"A Delhi Fire Service fire tender (file photo)"}
-```
-
 ## Delhi: a factory and a four-storey home
 
 In Delhi, the Delhi Fire Services said a blaze began at a **rubber factory in the Narela industrial area at 8:33 pm** and sent seven fire tenders. By about 1 am on Monday the fire had been put out and cooling operations were on. The cause is not known and no injuries were reported.
@@ -103,7 +99,7 @@ In Ujjain, a fire broke out at about 10 pm in the Vishwakarma Hardware building 
 A scrap dealer's warehouse caught fire in Chhota Devi Kheda village in Lucknow's Ashiyana police area. In Bhubaneswar, a government silk production office in Shikharchandi was on fire, and in Surendranagar, Gujarat, a house in Vijay Society on Dal Road. Fire tenders reached all three, and the causes and any losses have not been confirmed.
 
 ```timeline
-{"title":"Diwali night, November 8","items":[{"date":"About 8 pm","text":"Fire on the 8th to 10th floors of a Thane high-rise, according to Deputy CM Shinde."},{"date":"8:33 pm","text":"Fire begins at a Narela rubber factory in Delhi; seven tenders sent."},{"date":"About 10 pm","text":"Fires in a Mohan Garden building in Delhi and a hardware building in Ujjain."},{"date":"After 11:30 pm","text":"Mohan Garden fire under control; seven rescued."},{"date":"About 1 am, November 9","text":"Narela fire out, cooling under way."}]}
+{"title":"Diwali night, November 8","items":[{"date":"About 8 pm","text":"Fire on the 8th to 10th floors of a Thane high-rise, according to Deputy CM Shinde."},{"date":"8:33 pm","text":"Fire begins at a Narela rubber factory in Delhi; seven tenders sent."},{"date":"About 10 pm","text":"Fires in a Mohan Garden building in Delhi and a hardware building in Ujjain."},{"date":"About 11:30 pm","text":"Mohan Garden fire under control; seven rescued."},{"date":"About 1 am, November 9","text":"Narela fire out, cooling under way."}]}
 ```
 
 ## Why it matters

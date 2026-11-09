@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+    "id": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "Rubio: Iran's demands unrealistic",
-        "hi": "रुबियो: ईरान की मांगें अव्यावहारिक"
+        "en": "Day after Diwali: AQI 366",
+        "hi": "दिवाली के अगले दिन एक्यूआई 366"
       },
       "text": {
         "en": "",
@@ -18,20 +18,31 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
+      "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+      "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+      "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "lead": {
+          "en": "Fires:",
+          "hi": "आगजनी:"
+        },
+        "text": {
+          "en": "Diwali night fires in Thane, Delhi, Ujjain and Nagpur: dozens rescued, no deaths reported",
+          "hi": "दिवाली की रात ठाणे, दिल्ली, उज्जैन और नागपुर में आग: दर्जनों लोग बचाए गए, मौत की खबर नहीं"
+        }
+      },
       {
         "link": "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
         "lead": {
@@ -44,80 +55,69 @@
         }
       },
       {
-        "link": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Delhi wakes to smog the morning after Diwali, AQI 366 at 6:30 am",
-          "hi": "दिवाली के अगले दिन दिल्ली में धुंध की चादर, सुबह 6:30 बजे एक्यूआई 366"
-        }
-      },
-      {
-        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "lead": {
           "en": "Internal security:",
           "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
-          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
+          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
+          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
         }
       },
       {
-        "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
-          "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
-        }
-      },
-      {
-        "link": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+        "link": "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Arjun Rajput's maiden hundred lifts India U19 to 208 against Pakistan after a top-order collapse",
-          "hi": "अर्जुन राजपूत के पहले शतक से टॉप ऑर्डर के ढहने के बाद भारत अंडर-19 ने पाकिस्तान के सामने 208 रन बनाए"
+          "en": "India A declare on 464 for 5 and leave New Zealand A 36 for 2 in Lincoln",
+          "hi": "भारत ए ने 464/5 पर पारी घोषित की, लिंकन में न्यूज़ीलैंड ए 36/2"
         }
       },
       {
-        "link": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "link": "india-u19-pakistan-asia-cup-result-zahoor-century",
         "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "NASA targets November 29 to send cancer and muscle-loss experiments to the space station",
-          "hi": "नासा 29 नवंबर को अंतरिक्ष स्टेशन भेजेगा कैंसर और मांसपेशी क्षय के प्रयोग"
+          "en": "Hamza Zahoor's hundred takes Pakistan U19 past India by three wickets despite Rajput's 107",
+          "hi": "राजपूत के 107 के बावजूद हमजा ज़हूर के शतक से पाकिस्तान अंडर-19 ने भारत को तीन विकेट से हराया"
         }
       },
       {
-        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+        "link": "modi-advani-99th-birthday-nation-first-foundation",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "BJP:",
+          "hi": "भाजपा:"
         },
         "text": {
-          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
-          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
+          "en": "Modi on Advani's 99th birthday: he gave the BJP a foundation of Nation First",
+          "hi": "आडवाणी के 99वें जन्मदिन पर मोदी: उन्होंने भाजपा को राष्ट्र प्रथम की नींव दी"
         }
       },
       {
-        "link": "nz-mmp-explained-overhang-special-votes-130-seats",
+        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
         "lead": {
-          "en": "New Zealand:",
-          "hi": "न्यूज़ीलैंड:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "New Zealand's election explained: how MMP, overhang seats and special votes decide who governs",
-          "hi": "न्यूज़ीलैंड चुनाव समझिए: एमएमपी, ओवरहैंग सीटें और स्पेशल वोट कैसे तय करते हैं कि सरकार किसकी बनेगी"
+          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
+          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
+        }
+      },
+      {
+        "link": "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi: 16-year-old domestic worker rescued, says she was burned with a hot iron; no arrest yet",
+          "hi": "दिल्ली: 16 साल की घरेलू सहायिका छुड़ाई गई, गर्म प्रेस से जलाने का आरोप; अभी कोई गिरफ्तारी नहीं"
         }
       }
     ]
@@ -185,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+      "id": "india-u19-pakistan-asia-cup-result-zahoor-century",
       "also": []
     },
     "list": [
-      "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-      "nz-mmp-explained-overhang-special-votes-130-seats",
-      "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer"
+      "modi-advani-99th-birthday-nation-first-foundation",
+      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
+      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
     ],
     "also": [
-      "e20-petrol-explained-ethanol-blend-karnataka-row",
-      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9"
+      "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing",
+      "yogi-diwali-nishad-settlement-ayodhya-bullets-remark"
     ]
   },
   "startHere": [
@@ -397,20 +397,20 @@
     },
     {
       "section": "states",
-      "lead": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+      "lead": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
       "list": [
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
       ]
     },
     {
       "section": "policy",
       "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
       "list": [
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+        "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
     },
     {
@@ -427,9 +427,9 @@
       "section": "world",
       "lead": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
       "list": [
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins"
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+        "japan-aichi-shizuoka-earthquake-57-22-injured",
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
       ]
     },
     {
@@ -526,20 +526,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-08T17:02:40+05:30",
-      "ids": [
-        "meghwal-diwali-bsf-bikaner-soldiers-family",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
-        "jajpur-nalipur-house-fire-four-of-family-dead-odisha",
-        "india-u19-pakistan-asia-cup-group-a-decider-preview-november-8",
-        "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
-        "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-        "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-        "modi-bastar-cobra-karanpur-diwali-naxalism-won"
-      ]
-    },
     {
       "at": "2026-11-08T18:56:28+05:30",
       "ids": [
@@ -639,6 +625,20 @@
         "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
         "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
         "nz-mmp-explained-overhang-special-votes-130-seats"
+      ]
+    },
+    {
+      "at": "2026-11-09T08:33:58+05:30",
+      "ids": [
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two",
+        "india-u19-pakistan-asia-cup-result-zahoor-century",
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
       ]
     }
   ],
