@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+    "id": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
     "overlay": {
       "kicker": {
-        "en": "Politics / Internal security",
-        "hi": "राजनीति / आंतरिक सुरक्षा"
+        "en": "World / Middle East",
+        "hi": "दुनिया / पश्चिम एशिया"
       },
       "value": {
-        "en": "First Diwali in five decades free of Naxalism: Shah",
-        "hi": "पांच दशकों में पहली नक्सलमुक्त दिवाली: शाह"
+        "en": "Rubio: Iran's demands unrealistic",
+        "hi": "रुबियो: ईरान की मांगें अव्यावहारिक"
       },
       "text": {
         "en": "",
@@ -18,20 +18,42 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
       "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-      "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
+      "india-u19-pakistan-208-arjun-rajput-century-asia-cup"
     ],
     "live": {
       "title": {
-        "en": "Internal security",
-        "hi": "आंतरिक सुरक्षा"
+        "en": "Middle East",
+        "hi": "पश्चिम एशिया"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi wakes to smog the morning after Diwali, AQI 366 at 6:30 am",
+          "hi": "दिवाली के अगले दिन दिल्ली में धुंध की चादर, सुबह 6:30 बजे एक्यूआई 366"
+        }
+      },
+      {
+        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "lead": {
+          "en": "Internal security:",
+          "hi": "आंतरिक सुरक्षा:"
+        },
+        "text": {
+          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
+          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
+        }
+      },
       {
         "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
         "lead": {
@@ -41,17 +63,6 @@
         "text": {
           "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
           "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
-        }
-      },
-      {
-        "link": "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-        "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
-        },
-        "text": {
-          "en": "Nearly 30 lakh more names on Rajasthan's local poll rolls than on the SIR roll, says Nikhil Dey",
-          "hi": "राजस्थान की स्थानीय निकाय सूची में एसआईआर रोल से करीब 30 लाख नाम ज्यादा: निखिल डे"
         }
       },
       {
@@ -107,17 +118,6 @@
         "text": {
           "en": "Karnataka says 31.2%, the oil companies say 19% to 21%. A joint test with published results settles it",
           "hi": "कर्नाटक कहता है 31.2%, तेल कंपनियां कहती हैं 19% से 21%। साझा जांच और खुले नतीजे ही फैसला कर सकते हैं"
-        }
-      },
-      {
-        "link": "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-        "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
-        },
-        "text": {
-          "en": "Yogi Adityanath's claim that 1.27 crore Hindus are missing from UP's voter lists is misleading",
-          "hi": "यूपी की मतदाता सूची से 1.27 करोड़ हिंदुओं के नाम गायब होने का योगी आदित्यनाथ का दावा भ्रामक"
         }
       }
     ]
@@ -185,18 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+      "id": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
       "also": []
     },
     "list": [
+      "rajnath-singh-reaches-sherathang-diwali-nathu-la",
       "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
       "e20-ethanol-row-needs-joint-testing-and-published-results",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
+      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
+      "e20-petrol-explained-ethanol-blend-karnataka-row"
     ],
     "also": [
-      "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft"
+      "cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ]
   },
   "startHere": [
@@ -396,11 +397,11 @@
     },
     {
       "section": "states",
-      "lead": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+      "lead": "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
       "list": [
+        "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
         "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
-        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
-        "fadnavis-diwali-lohari-sawanga-farmers-nagpur-orange-processing"
+        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
       ]
     },
     {
@@ -424,11 +425,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
+      "lead": "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
       "list": [
+        "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
         "japan-aichi-shizuoka-earthquake-57-22-injured",
-        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi"
+        "qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm"
       ]
     },
     {
@@ -627,17 +628,17 @@
       ]
     },
     {
-      "at": "2026-11-09T06:55:54+05:30",
+      "at": "2026-11-09T07:11:47+05:30",
       "ids": [
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec",
         "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
         "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
         "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-        "e20-ethanol-row-needs-joint-testing-and-published-results",
-        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+        "e20-ethanol-row-needs-joint-testing-and-published-results"
       ]
     }
   ],
