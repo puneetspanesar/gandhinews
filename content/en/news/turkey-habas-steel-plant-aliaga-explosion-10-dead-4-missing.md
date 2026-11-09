@@ -97,9 +97,6 @@ Workplace safety in Turkey has long been under scrutiny. The independent monitor
 
 The leading causes, it says, are traffic incidents, falls from height, and crushing or collapse. Construction and roadwork accounted for 50 of the September deaths, agriculture and forestry for 45, and transport for 28.
 
-```photo
-{"n":1,"subject":"Cemil Tugay","caption":"Izmir Mayor Cemil Tugay said the full toll would be known only after the wreckage is cleared.","alt":"Cemil Tugay, mayor of Izmir"}
-```
 
 ## What happens next
 

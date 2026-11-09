@@ -81,9 +81,6 @@ What it does describe is a set of **weaknesses at the airfield**. Visibility at 
 
 Nothing in that report points to a person. It points to a runway, a weather estimate and a set of rules.
 
-```photo
-{"n":1,"subject":"Ajit Pawar","caption":"Ajit Pawar, Maharashtra's deputy chief minister, who died in the Learjet crash at Baramati on January 28, 2026.","alt":"Ajit Pawar, Maharashtra deputy chief minister"}
-```
 
 ## The fair objection
 

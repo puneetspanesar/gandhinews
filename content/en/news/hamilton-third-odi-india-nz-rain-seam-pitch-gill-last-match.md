@@ -84,9 +84,6 @@ The Hamilton pitch has been under covers for long spells and the ground staff we
 
 India's batting coach Sitanshu Kotak was quoted as saying the wickets in this part of the tour carry 12 to 14 mm of grass, which makes a match of around 140 runs a side more likely than one of 300. The second ODI fitted that description: New Zealand were bowled out for 134 and India were 113 for 7 when rain ended the match.
 
-```photo
-{"n":1,"subject":"Seddon Park","caption":"Seddon Park in Hamilton, where the third ODI is scheduled for 3 pm local time on Tuesday.","alt":"Seddon Park cricket ground in Hamilton, New Zealand"}
-```
 
 ## How the series got here
 

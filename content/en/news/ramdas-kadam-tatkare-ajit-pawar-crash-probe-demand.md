@@ -83,9 +83,6 @@ He went on to attack Tatkare's character. "He finishes those who grow close to h
 
 Much of the speech was a local grievance. Kadam alleged that Tatkare worked against his son, Shiv Sena minister Yogesh Kadam, in Dapoli, and quietly helped Shiv Sena (UBT) leader Bhaskar Jadhav in Guhagar, a seat Kadam's side lost. Both men come from the Raigad and Ratnagiri belt of the Konkan, where the two parties have competed for years.
 
-```photo
-{"n":1,"subject":"Baramati Airport","caption":"Baramati airfield, where the Learjet carrying Ajit Pawar crashed on January 28.","alt":"Baramati airfield in Maharashtra"}
-```
 
 ## What is on record about the crash
 
