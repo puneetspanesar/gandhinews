@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cop31-opens-antalya-turkey-australia-negotiations-india-position",
+    "id": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
     "overlay": {
       "kicker": {
-        "en": "World / Climate",
-        "hi": "दुनिया / जलवायु"
+        "en": "Politics / Congress",
+        "hi": "राजनीति / कांग्रेस"
       },
       "value": {
-        "en": "COP31 opens in Antalya",
-        "hi": "अंताल्या में कॉप31 शुरू"
+        "en": "'Modi-Shah-ECI package'",
+        "hi": "'मोदी-शाह-ईसीआई पैकेज'"
       },
       "text": {
         "en": "",
@@ -16,7 +16,11 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+      "special-session-of-parliament-explained-shah-offer-cec-removal",
+      "telangana-roll-revision-must-not-erase-voters-quietly"
+    ],
     "relatedBeside": [
       "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
       "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
@@ -25,8 +29,8 @@
     ],
     "live": {
       "title": {
-        "en": "Climate",
-        "hi": "जलवायु"
+        "en": "Congress",
+        "hi": "कांग्रेस"
       }
     }
   },
@@ -88,36 +92,36 @@
         }
       },
       {
-        "link": "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "link": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "lead": {
           "en": "Internal security:",
           "hi": "आंतरिक सुरक्षा:"
         },
         "text": {
-          "en": "Shah: first Diwali in five decades without Naxalism, as Modi meets troops in Bastar",
-          "hi": "शाह: पांच दशकों में पहली दिवाली नक्सलवाद से मुक्त, बस्तर में जवानों संग मोदी"
+          "en": "Modi in Bastar: no CRPF jawan died on duty this year, first time in 47 years; Congress hits back over 'dimagi Naxals'",
+          "hi": "बस्तर में मोदी: एक साल में ड्यूटी पर सीआरपीएफ का कोई जवान शहीद नहीं, 47 साल में पहली बार; 'दिमागी नक्सल' पर कांग्रेस का पलटवार"
         }
       },
       {
-        "link": "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
+        "link": "modi-advani-99th-birthday-nation-first-foundation",
         "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
+          "en": "BJP:",
+          "hi": "भाजपा:"
         },
         "text": {
-          "en": "Maharashtra ministers spend Diwali in drought-hit farm homes as dams stand at 65.79%",
-          "hi": "सूखा-पीड़ित किसानों के घर मंत्रियों ने मनाई दिवाली, बांधों में 65.79% पानी"
+          "en": "Modi on Advani's 99th birthday: he gave the BJP a foundation of Nation First",
+          "hi": "आडवाणी के 99वें जन्मदिन पर मोदी: उन्होंने भाजपा को राष्ट्र प्रथम की नींव दी"
         }
       },
       {
-        "link": "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
+        "link": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Oil is cheaper on hope, not on a deal. India should say who pays for frozen fuel prices",
-          "hi": "तेल उम्मीद पर सस्ता हुआ है, समझौते पर नहीं। जमे हुए ईंधन दामों का बोझ कौन उठाएगा, भारत यह बताए"
+          "en": "Rajnath Singh at Sherathang: soldiers are the brightest lights of Diwali",
+          "hi": "शेरथांग में राजनाथ सिंह: सैनिक दिवाली का सबसे उज्ज्वल प्रकाश हैं"
         }
       }
     ]
@@ -189,15 +193,15 @@
       "also": []
     },
     "list": [
-      "amit-shah-first-diwali-five-decades-naxalism-freed-post",
-      "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-      "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
-      "nz-mmp-explained-overhang-special-votes-130-seats",
-      "e20-ethanol-row-needs-joint-testing-and-published-results"
+      "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+      "modi-advani-99th-birthday-nation-first-foundation",
+      "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+      "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+      "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
     ],
     "also": [
-      "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-      "e20-petrol-explained-ethanol-blend-karnataka-row"
+      "india-u19-pakistan-208-arjun-rajput-century-asia-cup",
+      "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8"
     ]
   },
   "startHere": [
@@ -274,9 +278,9 @@
   },
   "factCheck": {
     "cards": [
+      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
       "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "suvendu-adhikari-caa-citizenship-by-december-31-claim",
-      "railways-18000-festive-specials-trips-claim"
+      "suvendu-adhikari-caa-citizenship-by-december-31-claim"
     ]
   },
   "explained": [
@@ -357,11 +361,11 @@
     }
   ],
   "opinion": [
+    "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
     "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices",
     "e20-ethanol-row-needs-joint-testing-and-published-results",
     "chawri-bazar-collapse-june-police-warning-mcd-must-answer",
-    "cancer-drug-price-cuts-from-monday-must-reach-the-patient",
-    "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft"
+    "cancer-drug-price-cuts-from-monday-must-reach-the-patient"
   ],
   "sections": [
     {
@@ -371,11 +375,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "amit-shah-first-diwali-five-decades-naxalism-freed-post",
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
         "modi-advani-99th-birthday-nation-first-foundation",
         "akhilesh-asks-how-yogi-knows-1-27-crore-missing-voters-hindu"
       ],
-      "lead": "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"
+      "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
     },
     {
       "section": "economy",
@@ -399,9 +403,9 @@
       "section": "states",
       "lead": "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
       "list": [
-        "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
         "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
-        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case"
+        "delhi-shaheen-bagh-16-year-old-domestic-worker-hot-iron-case",
+        "rajasthan-sir-30-lakh-local-body-rolls-nikhil-dey-sec"
       ]
     },
     {
@@ -527,20 +531,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-08T19:29:21+05:30",
-      "ids": [
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence",
-        "yemen-airstrike-al-shariya-sanaa-25-killed-houthi",
-        "delhi-aqi-369-diwali-eve-16-stations-severe-grap-three",
-        "bail-granted-is-not-freedom-release-the-under-trials",
-        "jaiswal-century-india-a-227-for-2-new-zealand-a-lincoln-day-one",
-        "nz-election-night-ends-97-percent-counted-greens-act-record-luxon-hipkins",
-        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
-      ]
-    },
-    {
       "at": "2026-11-08T20:38:22+05:30",
       "ids": [
         "modi-bastar-cobra-karanpur-diwali-naxalism-won",
@@ -639,6 +629,23 @@
         "amit-shah-first-diwali-five-decades-naxalism-freed-post",
         "maharashtra-ministers-diwali-drought-farmers-dams-65-percent",
         "oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices"
+      ]
+    },
+    {
+      "at": "2026-11-09T12:33:48+05:30",
+      "ids": [
+        "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
+        "telangana-roll-revision-must-not-erase-voters-quietly",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
+        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "rubio-calls-iran-demands-unacceptable-no-breakthrough-talks-stall",
+        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh",
+        "modi-advani-99th-birthday-nation-first-foundation",
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     }
   ],

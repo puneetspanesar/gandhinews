@@ -70,10 +70,6 @@ The State Water Resources Department's report for November 8 covers 3,042 irriga
 
 These are readings from early November. The dry months are still ahead, and storage only falls from here.
 
-```photo
-{"n":1,"subject":"Marathwada","caption":"Marathwada, the region where dam storage is lowest at 38.39% of capacity.","alt":"Landscape in Marathwada, Maharashtra"}
-```
-
 ## Why cash is not enough
 
 ₹5,000 helps a family through a festival month. It does not fill a borewell, water a rabi crop or feed a buffalo until June. The state has promised tankers tracked by GPS, fodder at the minimum support price and easier borewell permissions. All three are sensible. None can be judged today, because the public has not been told how many tankers run, to which villages, or how much fodder has been bought.

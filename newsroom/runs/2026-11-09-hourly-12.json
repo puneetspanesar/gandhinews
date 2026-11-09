@@ -1,0 +1,17 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-09T12:09:33+05:30",
+ "end": "2026-11-09T12:38:48+05:30",
+ "summary": "Gogoi ECI package lead; Modi Bastar fact check; Maharashtra drought editorial; markets at noon",
+ "new": [
+  "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+  "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+  "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms"
+}

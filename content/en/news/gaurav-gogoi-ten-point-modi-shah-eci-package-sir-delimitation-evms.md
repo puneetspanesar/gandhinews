@@ -11,7 +11,7 @@ published: 2026-11-09T12:11:38+05:30
 location: New Delhi
 keyPoints:
   - "Gaurav Gogoi listed **ten election-related charges** under one heading: a 'Modi-Shah-Election Commission of India package'."
-  - "The list names **SIR, delimitation, electoral bonds and faulty EVMs**, and calls for no one to be shielded."
+  - "The list names **SIR, delimitation, electoral bonds and faulty EVMs**, and legal protection for the Chief Election Commissioner."
   - "It lands days after **Rahul Gandhi and Amit Shah traded challenges** over a debate on the SIR."
 hero:
   need: "Congress MP Gaurav Gogoi, who posted the list, and Chief Election Commissioner Gyanesh Kumar, the head of the body it targets"
@@ -81,21 +81,13 @@ The post carries no new evidence or case citations. It is a political summary of
 
 The list arrives in the middle of a sharp exchange over the SIR. Gogoi had said in Guwahati on October 23 that the Commission had been **emptied of its constitutional authority** and that Chief Election Commissioner Gyanesh Kumar "has to go", as we reported at the time. The INDIA bloc has since demanded his removal and a rollback of the revision, and held a mock Parliament on the subject.
 
-On November 5, at a rally in Karnal, Haryana, Home Minister Amit Shah said the government was "ready to convene a special session of Parliament to discuss the SIR exercise", but told Rahul Gandhi to write to the Prime Minister and raise the matter inside the House. "Rahul baba is worried, and so he wants to blame his defeat on SIR," he said, and asked "Where was SIR in 2014?" Shah had said in Parliament on December 10, 2025 that the SIR could not be debated there because it fell to the Election Commission, which he called an independent constitutional body.
+On November 5, at a rally in Karnal, Haryana, Home Minister Amit Shah said the government was "ready to convene a special session of Parliament to discuss the SIR exercise", but told Rahul Gandhi to write to the Prime Minister and raise the matter inside the House. "Rahul baba is worried, and so he wants to blame his defeat on SIR," he said, and asked "Where was SIR in 2014?" Shah had said in Parliament on December 10, 2025, that the SIR could not be debated there because it fell to the Election Commission, which he called an independent constitutional body.
 
 Gandhi answered on November 6 with a video setting the two Shah statements side by side. "Amit Shah ji, don't confuse Modi ji. Just convince him to have an open debate with me," he wrote on X. "Any platform, any time. Don't be afraid." He had earlier, on November 4, renewed his challenge to the Prime Minister on any platform of Modi's choosing.
-
-```photo
-{"n":1,"subject":"Amit Shah","caption":"Home Minister Amit Shah, who offered a special session on the SIR at Karnal on November 5.","alt":"Union Home Minister Amit Shah"}
-```
 
 ## The Commission's own latest step
 
 On the ground, the revision continues. On Friday the Election Commission instructed the chief electoral officers of seven states, **Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland**, to give voters marked absent, shifted, dead or duplicate another chance to be included in the final rolls. Booth-wise lists of those left off are to be displayed and posted online, and electors can file enumeration forms through ECINET or to booth-level officers.
-
-```photo
-{"n":2,"subject":"Nirvachan Sadan","caption":"Nirvachan Sadan in New Delhi, the headquarters of the Election Commission, which the post accuses.","alt":"Nirvachan Sadan, New Delhi"}
-```
 
 ## Why it matters
 

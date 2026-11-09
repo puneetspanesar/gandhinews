@@ -34848,5 +34848,74 @@
   },
   "nophoto": "no free Delhi smog photo unused in 7 days; finder h0910 aqi 0,1,2,3,5,7 all used Nov 2 to 9, quick_photo none",
   "nohome": "7 am CPCB figure over 2 hours old; off the homepage until updated"
+ },
+ "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms": {
+  "id": "o-gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+  "src": "/photos/o-gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms-1280.jpg",
+  "src800": "/photos/o-gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1440,
+  "credit": "Photo: Gaurav Gogoi / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Congress MP Gaurav Gogoi (file photo)",
+  "alt_hi": "कांग्रेस सांसद गौरव गोगोई (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gaurav_Gogoi_2024.jpg"
+ },
+ "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data": {
+  "id": "o-maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+  "src": "/photos/o-maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data-1280.jpg",
+  "src800": "/photos/o-maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data-640.jpg",
+  "width": 1280,
+  "height": 841,
+  "srcWidth": 1754,
+  "credit": "Photo: Suhasajgaonkar / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Villagers crowd a well for water during a drought in Marathwada (file photo)",
+  "alt_hi": "मराठवाड़ा में सूखे के दौरान पानी के लिए कुएं पर जुटे ग्रामीण (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Drought_condition_of_Marathwada,.jpg"
+ },
+ "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim": {
+  "id": "i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+  "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Round numbers, bigger than the record",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गोल संख्याएं, रिकॉर्ड से बड़ी",
+  "page": null,
+  "ihash": "7155a3484418",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free Modi photo unused in 7 days; library, quick_photo, PIB mb, finder h0912 (all candidates used within 7 days)"
  }
 }

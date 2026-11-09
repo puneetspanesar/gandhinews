@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-09T10:00:00+05:30",
+ "as_of": "2026-11-09T12:00:00+05:30",
  "status": "open",
  "session_date": "2026-11-09",
  "chart": "nifty-50",
@@ -8,9 +8,9 @@
    "id": "sensex",
    "name": "Sensex",
    "name_hi": "सेंसेक्स",
-   "value": 80770.78,
-   "change": -228.62,
-   "pct": -0.28,
+   "value": 80940.9,
+   "change": -58.5,
+   "pct": -0.07,
    "history": [
     {
      "date": "2026-09-30",
@@ -115,9 +115,9 @@
    "id": "nifty-50",
    "name": "Nifty 50",
    "name_hi": "निफ्टी 50",
-   "value": 24928.5,
-   "change": -57.9,
-   "pct": -0.23,
+   "value": 24967.85,
+   "change": -18.55,
+   "pct": -0.07,
    "history": [
     {
      "date": "2026-09-30",

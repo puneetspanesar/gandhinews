@@ -14,7 +14,7 @@ factcheck:
   seenOn: "Address to security forces at the CoBRA base, Karanpur, Bastar, Chhattisgarh (November 8, 2026; PIB text)"
   firstSeen: 2026-11-08
   verdict: "Misleading"
-  finding: "The Home Ministry told the Lok Sabha on August 12, 2025 that 14,928 km of road and 8,640 towers had been built, while its annexure and a December 2025 PIB backgrounder put completed roads at about 12,000 km. The schools, ITIs and skill centres roughly match official counts. The 15,000 km and 9,500 figures exceed every official total we could find."
+  finding: "The Home Ministry told the Lok Sabha on August 12, 2025, that 14,928 km of road and 8,640 towers had been built, while its annexure and a December 2025 PIB backgrounder put completed roads at about 12,000 km. The schools, ITIs and skill centres roughly match official counts. The 15,000 km and 9,500 figures exceed every official total we could find."
 hero:
   need: "Prime Minister Narendra Modi at the Bastar address"
   suggested_source: "Narendra Modi"
@@ -76,7 +76,7 @@ The Prime Minister's figures are **misleading**. In his Diwali address to securi
 
 ### 1. Roads
 
-The ministry's written reply in the Lok Sabha on August 12, 2025 gives two road figures. Its main text says **14,928 km** were built under the Road Requirement Plan and the Road Connectivity Project for LWE-affected areas. Its annexure, covering developmental achievements since 2014, totals **12,012 km**. A PIB backgrounder of December 2025 says over **12,000 km** were completed between May 2014 and August 2025. The reply does not explain the gap between the two figures. Modi's "more than 15,000 km" is above all of them.
+The ministry's written reply in the Lok Sabha on August 12, 2025, gives two road figures. Its main text says **14,928 km** were built under the Road Requirement Plan and the Road Connectivity Project for LWE-affected areas. Its annexure, covering developmental achievements since 2014, totals **12,012 km**. A PIB backgrounder of December 2025 says over **12,000 km** were completed between May 2014 and August 2025. The reply does not explain the gap between the two figures. Modi's "more than 15,000 km" is above all of them.
 
 ### 2. Mobile towers
 
