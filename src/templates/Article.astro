@@ -139,7 +139,7 @@ const heroOv = {
         )}
 
         {d.type === 'news' && d.keyPoints?.length > 0 && (
-          <section class="kp ac-kp" aria-labelledby="kp-h"><h2 id="kp-h"><Icon name="list-bullets-duotone" class="ic" />{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string, i: number) => <li><b class="n">{i + 1}</b><span set:html={emph(x)} /></li>)}</ol></section>
+          <section class="kp ac-kp" aria-labelledby="kp-h"><h2 id="kp-h"><Icon name="list-bullets-duotone" class="ic" />{t.keyPoints}</h2><ul class={`n${Math.min(d.keyPoints.length, 4)}`}>{d.keyPoints.map((x: string) => <li><span set:html={emph(x)} /></li>)}</ul></section>
         )}
 
         {d.type === 'explainer' && d.shortAnswer && (
