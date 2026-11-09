@@ -1,11 +1,9 @@
 {
  "run": "hourly-08",
  "start": "2026-11-09T08:04:55+05:30",
- "end": "2026-11-09T08:49:07+05:30",
- "summary": "Diwali-night fires story; Delhi AQI gets smog photo and leads; editor homepage FAIL recorded",
- "new": [
-  "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
- ],
+ "end": "2026-11-09T08:58:49+05:30",
+ "summary": "Expire three holds past 48 hours",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
