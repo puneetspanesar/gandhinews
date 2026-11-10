@@ -1,16 +1,10 @@
 {
  "run": "hourly-10",
  "start": "2026-11-10T10:12:24+05:30",
- "end": "2026-11-10T10:47:11+05:30",
- "summary": "Shah Ahmedabad lead, Swachh Survekshan, Hamilton toss; Egypt held; holiday markets",
- "new": [
-  "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-  "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
-  "swachh-survekshan-2025-26-awards-president-murmu-november-11"
- ],
- "held": [
-  "egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system"
- ],
+ "end": "2026-11-10T10:56:26+05:30",
+ "summary": "expire 48h Delhi AQI hold after the 10:00 publish",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [
   {
