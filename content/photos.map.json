@@ -44905,7 +44905,21 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Punjab Chief Minister Bhagwant Mann (file photo)",
   "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg",
+  "treated": {
+   "src": "/photos/t-punjab-election-2027-how-punjab-voted-2022-117-seats-1280.jpg",
+   "src800": "/photos/t-punjab-election-2027-how-punjab-voted-2022-117-seats-640.jpg",
+   "cutout": false,
+   "with": [
+    "five-states-head-for-2027-assembly-polls",
+    "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
+    "cbi-takes-over-jhota-murder-probe-mansa",
+    "womens-reservation-33-per-cent-when-will-it-start-explained"
+   ],
+   "kind": "scenes",
+   "subj": "80dffff000200",
+   "credit": "Photos: Mohammad Azahar / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons"
+  }
  },
  "punjab-election-2027-how-punjab-voted-2022-117-seats--p2": {
   "id": "o-punjab-election-2027-how-punjab-voted-2022-117-seats--p2",
