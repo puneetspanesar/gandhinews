@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+    "id": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
     "overlay": {
       "kicker": {
-        "en": "Policy / Supreme Court",
-        "hi": "नीति / सुप्रीम कोर्ट"
+        "en": "World / Ukraine",
+        "hi": "दुनिया / यूक्रेन"
       },
       "value": {
-        "en": "Digital arrest: banks, WhatsApp on notice",
-        "hi": "डिजिटल अरेस्ट: बैंक, वॉट्सऐप पर नोटिस"
+        "en": "Zelenskyy says India will mediate; Delhi silent",
+        "hi": "ज़ेलेंस्की: भारत खाद्य गलियारों पर मध्यस्थता को तैयार"
       },
       "text": {
         "en": "",
@@ -17,7 +17,7 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "sc-fra-commercial-cultivation-megamalai-silk-cotton"
+      "zelenskyy-india-mediate-black-sea-food-corridors-claim"
     ],
     "relatedBeside": [
       "pmk-functionary-shot-dead-vellore-gudiyatham",
@@ -25,8 +25,8 @@
     ],
     "live": {
       "title": {
-        "en": "Supreme Court",
-        "hi": "सुप्रीम कोर्ट"
+        "en": "Ukraine",
+        "hi": "यूक्रेन"
       }
     }
   },
@@ -66,14 +66,14 @@
         }
       },
       {
-        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "lead": {
-          "en": "Ukraine:",
-          "hi": "यूक्रेन:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
-          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
+          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
+          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
         }
       },
       {
@@ -189,7 +189,7 @@
       "also": []
     },
     "list": [
-      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "swachh-survekshan-2025-26-awards-president-murmu-november-11",
       "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
       "sensex-nifty-close-november-9-highest-since-february-psu-banks",
@@ -201,10 +201,10 @@
     ]
   },
   "startHere": [
+    "black-sea-food-corridors-explained-grain-deal-india-mediation",
+    "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
     "womens-reservation-33-per-cent-when-will-it-start-explained",
-    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-    "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply",
-    "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
+    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
   ],
   "trackers": [
     {
@@ -274,9 +274,9 @@
   },
   "factCheck": {
     "cards": [
+      "zelenskyy-india-mediate-black-sea-food-corridors-claim",
       "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
-      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim"
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim"
     ]
   },
   "explained": [
@@ -357,11 +357,11 @@
     }
   ],
   "opinion": [
+    "delhi-air-monitors-that-go-blank-on-the-worst-night",
+    "megamalai-ruling-forest-rights-line-must-be-honest",
     "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
     "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
-    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration",
-    "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
-    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy"
+    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration"
   ],
   "sections": [
     {
@@ -428,8 +428,8 @@
       "lead": "hasina-passport-request-dhaka-refuses-extradition-india",
       "list": [
         "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
       ]
     },
     {
@@ -460,30 +460,6 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
-        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
-      },
-      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
-        "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
         "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
       },
@@ -500,6 +476,18 @@
         "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
       },
       "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
+        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -522,6 +510,17 @@
       "text": {
         "en": "Retail inflation (CPI) for October, 4 pm",
         "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
+    },
+    {
+      "icon": "bank",
+      "date": {
+        "en": "Nov 13",
+        "hi": "13 नवंबर"
+      },
+      "text": {
+        "en": "RBI's weekly forex reserves figures",
+        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
       }
     }
   ],
@@ -631,16 +630,14 @@
       ]
     },
     {
-      "at": "2026-11-10T18:27:44+05:30",
+      "at": "2026-11-10T18:51:12+05:30",
       "ids": [
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-        "bail-granted-is-not-freedom-release-the-under-trials",
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
         "pmk-functionary-shot-dead-vellore-gudiyatham",
         "hasina-passport-request-dhaka-refuses-extradition-india",
         "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
         "sensex-nifty-close-november-9-highest-since-february-psu-banks",
