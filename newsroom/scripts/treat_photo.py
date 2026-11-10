@@ -493,7 +493,8 @@ def treat(sid, M, scenes_only=False):
     whole_ok = True
     if own_ok:
         im0 = Image.open(own_path).convert('RGB')
-        whole_ok = not ((named_people(alt0) or PERSONISH.search(alt0)) and (im0.height > im0.width * .9 or plain_backdrop(im0)))
+        # a person's photo that does not cut out goes in whole only when it shows an event (a rally, a visit), never a face
+        whole_ok = not ((named_people(alt0) or PERSONISH.search(alt0)) and (im0.height > im0.width * .9 or plain_backdrop(im0) or not SCENE.search(alt0)))
     # never the same picture on two collages (owner, November 10): the story's own photo if it is fresh and usable, else a
     # fresh solo photo of the headline person that cuts out cleanly, else a collage of the story's scenes
     if own_ok and (pre or (not generic_head and whole_ok)) and subj_used(own_path) == 0:
