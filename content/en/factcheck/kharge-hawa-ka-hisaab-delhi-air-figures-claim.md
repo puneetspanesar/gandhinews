@@ -68,7 +68,7 @@ verification:
     - "Primary-source limits: the RTI replies, the IHME/CREA analysis and the HEI report were read only as reproduced in news reports (full texts not opened; sci/cpcb/ihme pages blocked or not reachable this run). Figures are exactly as those reports give them; the links are to the pages read. The RTI documents are not published; who answered the compensation RTI was not stated."
     - "Percentages computed by the desk: 1,153.93 / 1,935.44 = 59.6%; 14.1 / 81.36 = 17.3%. Kharge's '17% through December 2025' fits the January 2026 RTI figure; the report says five years, with exact dates not stated."
     - "Delhi Environment Minister Manjinder Singh Sirsa disputed the 17% figure in January 2026, claiming 100% use last year on road works and sweeping machines and about ₹80 crore given to the MCD this year. Not independently settled."
-    - "Deaths: GBD 2023 estimate attributable to ambient PM, as analysed by CREA; MoS Kirti Vardhan Singh told Rajya Sabha on July 24 (2025) that air pollution cannot be isolated as the sole cause of death. Children figure from State of Global Air 2024 (GBD 2021)."
+    - "Deaths: GBD 2023 estimate attributable to ambient PM, as analysed by CREA; MoS Kirti Vardhan Singh told Rajya Sabha on July 24, 2025, that air pollution cannot be isolated as the sole cause of death. Children figure from State of Global Air 2024 (GBD 2021)."
     - "Rated Mostly true, not True, because two of the four are modelled estimates or contested, and the blank-station count is from the first day's reports and may have been revised after DPCC data was restored."
 ---
 
@@ -96,7 +96,7 @@ An RTI reply obtained by environmentalist Vimlendu Jha showed Delhi was allocate
 
 ### 4. Deaths: an estimate, with a caveat
 
-The **17,188 deaths in Delhi in 2023** come from Global Burden of Disease 2023 data from the Institute for Health Metrics and Evaluation, analysed by the Centre for Research on Energy and Clean Air, and amount to nearly 15% of deaths. The 1,69,400 child deaths in 2021 come from the State of Global Air 2024 report, which works from the Global Burden of Disease 2021 study. Both are model-based estimates. Minister of State Kirti Vardhan Singh told the Rajya Sabha on July 24 that air pollution is one of many contributing factors and that isolating it as the sole cause of death is not scientifically accurate.
+The **17,188 deaths in Delhi in 2023** come from Global Burden of Disease 2023 data from the Institute for Health Metrics and Evaluation, analysed by the Centre for Research on Energy and Clean Air, and amount to nearly 15% of deaths. The 1,69,400 child deaths in 2021 come from the State of Global Air 2024 report, which works from the Global Burden of Disease 2021 study. Both are model-based estimates. Minister of State Kirti Vardhan Singh told the Rajya Sabha on July 24, 2025, that air pollution is one of many contributing factors and that isolating it as the sole cause of death is not scientifically accurate.
 
 ```chart
 {"title":"Kharge's two money figures, as per RTI replies (per cent)","type":"hbar","unit":"%","data":[{"label":"Delhi compensation unspent","value":59.6},{"label":"NCAP funds used (5 years)","value":17.3}]}

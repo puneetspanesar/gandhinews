@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "eci-extends-poll-code-curbs-retired-officials-five-states",
+    "id": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
     "overlay": {
       "kicker": {
-        "en": "Politics / Election Commission",
-        "hi": "राजनीति / चुनाव आयोग"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "Poll code now covers retired officials",
-        "hi": "रिटायर्ड अधिकारियों पर भी आचार संहिता"
+        "en": "'Hawa Ka Hisaab'",
+        "hi": "'हवा का हिसाब'"
       },
       "text": {
         "en": "",
@@ -17,32 +17,30 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "pm-kisan-25th-instalment-date-status-ekyc-explained",
-      "8th-pay-commission-explained-salary-pension-fitment-factor",
-      "new-income-tax-act-2025-explained-tax-year-slabs-deadlines"
+      "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
     ],
     "relatedBeside": [
-      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+      "pmk-functionary-shot-dead-vellore-gudiyatham",
       "hasina-passport-request-dhaka-refuses-extradition-india"
     ],
     "live": {
       "title": {
-        "en": "Election Commission",
-        "hi": "चुनाव आयोग"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
-          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
+          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
+          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
         }
       },
       {
@@ -79,47 +77,47 @@
         }
       },
       {
-        "link": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+        "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Delhi sent ₹142 crore Diwali LPG aid to over 15 lakh ration card families",
-          "hi": "दिल्ली सरकार ने 15 लाख से ज्यादा राशन कार्ड परिवारों को भेजी दिवाली की ₹142 करोड़ की एलपीजी सहायता"
+          "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
+          "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
         }
       },
       {
-        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Urban Affairs:",
+          "hi": "शहरी विकास:"
         },
         "text": {
-          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
-          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
+          "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
+          "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
         }
       },
       {
-        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
         "lead": {
-          "en": "Ukraine:",
-          "hi": "यूक्रेन:"
+          "en": "Markets:",
+          "hi": "बाज़ार:"
         },
         "text": {
-          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
-          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
+          "en": "Sensex and Nifty end at their highest since February as PSU banks surge, with markets shut today",
+          "hi": "पीएसयू बैंकों की तेज़ी से सेंसेक्स-निफ्टी फरवरी के बाद के सबसे ऊंचे स्तर पर, आज बाज़ार बंद"
         }
       },
       {
-        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "link": "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
         "lead": {
-          "en": "Gujarat:",
-          "hi": "गुजरात:"
+          "en": "Assam:",
+          "hi": "असम:"
         },
         "text": {
-          "en": "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
-          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
+          "en": "Assam evictions will go on and are not aimed at any religion, Himanta Sarma says",
+          "hi": "असम में बेदखली जारी रहेगी, किसी धर्म को निशाना नहीं: हिमंत सरमा"
         }
       }
     ]
@@ -192,14 +190,14 @@
     },
     "list": [
       "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-      "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-      "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+      "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+      "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
     ],
     "also": [
-      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25"
+      "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+      "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot"
     ]
   },
   "startHere": [
@@ -276,9 +274,9 @@
   },
   "factCheck": {
     "cards": [
+      "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
       "zelenskyy-india-mediate-black-sea-food-corridors-claim",
-      "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
-      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim"
+      "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim"
     ]
   },
   "explained": [
@@ -359,11 +357,11 @@
     }
   ],
   "opinion": [
+    "digital-arrest-victims-should-be-repaid-by-the-bank-first",
     "delhi-air-monitors-that-go-blank-on-the-worst-night",
     "megamalai-ruling-forest-rights-line-must-be-honest",
     "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
-    "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
-    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration"
+    "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not"
   ],
   "sections": [
     {
@@ -381,7 +379,7 @@
     },
     {
       "section": "economy",
-      "lead": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "lead": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
       "module": {
         "type": "markets",
         "indicators": [
@@ -392,9 +390,9 @@
         ]
       },
       "list": [
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
       ]
     },
     {
@@ -411,8 +409,8 @@
       "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -448,9 +446,9 @@
       "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
       "list": [
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
       ]
     }
   ],
@@ -527,20 +525,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T12:43:07+05:30",
-      "ids": [
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
-      ]
-    },
     {
       "at": "2026-11-10T13:23:04+05:30",
       "ids": [
@@ -647,6 +631,21 @@
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+      ]
+    },
+    {
+      "at": "2026-11-10T22:36:23+05:30",
+      "ids": [
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
       ]
     }
   ],

@@ -87,3 +87,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - States, world-business and sport-science desks wrote nothing: WebFetch refused on PIB, RBI, SEBI, NASA, presidentofindia.gov.in; CPCB bulletin PDF blocked by robots.txt.
 - Editor homepage FAIL partly fixed (second check): live band now non-election explainers; stale Sensex close still in the template Must Read; about 150px gap under the left column; no fresh CPCB AQI story.
 - NEXT RUN, FIRST: President Murmu to IPS probationers (PIB photo); Delhi CPCB AQI latest (try CAQM or SAFAR); a fresh Kharge portrait for the library (all three used inside 7 days).
+
+## November 10, 2026, 10:45 pm (from the 22:00 run)
+- Published 2 long-form pieces: digital-arrest-victims-should-be-repaid-by-the-bank-first (editorial, Supreme Court file photo) and kharge-hawa-ka-hisaab-delhi-air-figures-claim (fact check, Mostly true; editor fix: July 24, 2025 dates; soft Kharge Commons photo kept, no sharper free one found). Lead stays Kharge Vishwaguru (breach: it sat beside the lead at 20:41; every alternative had led more often).
+- Held by the run: president-murmu-ips-probationers-78-rr-people-centric-policing (the PIB release was read with curl after WebFetch was refused; re-read it through WebFetch and republish with --fixed). Held by the editor: pakistan-declare-434-9-three-debutant-fifties-sri-lanka-114-3-rawalpindi-test (stand was 49 not 50-plus; third debutant fifty unnamed; secondary sources only).
+- States and world desks wrote nothing: WebFetch refused on CPCB, CAQM, PIB and the world pages. setup.sh hung again on the rembg pip install.
+- NEXT RUN, FIRST: Murmu IPS probationers (PIB, through WebFetch); Delhi CPCB AQI; Pakistan v Sri Lanka day three; Russia-Ukraine Abu Dhabi talks for World.

@@ -45435,7 +45435,21 @@
   "licence": "CC BY 3.0",
   "alt": "Mallikarjun Kharge (file photo)",
   "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:MallikarjunKharge.png"
+  "page": "https://commons.wikimedia.org/wiki/File:MallikarjunKharge.png",
+  "treated": {
+   "src": "/photos/t-kharge-hawa-ka-hisaab-delhi-air-figures-claim-1280.jpg",
+   "src800": "/photos/t-kharge-hawa-ka-hisaab-delhi-air-figures-claim-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+    "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed",
+    "pac-examines-sc-scholarship-schemes-cag-report",
+    "dghs-warns-hospitals-reuse-single-use-medical-devices"
+   ],
+   "kind": "scenes",
+   "subj": "fffffec0bf3e0000",
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons"
+  }
  },
  "digital-arrest-victims-should-be-repaid-by-the-bank-first": {
   "id": "r-digital-arrest-victims-should-be-repaid-by-the-bank-first",
@@ -45447,7 +45461,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India (file photo)",
   "alt_hi": "भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg",
+  "treated": {
+   "src": "/photos/t-digital-arrest-victims-should-be-repaid-by-the-bank-first-1280.jpg",
+   "src800": "/photos/t-digital-arrest-victims-should-be-repaid-by-the-bank-first-640.jpg",
+   "cutout": false,
+   "with": [
+    "pil-supreme-court-expert-panel-election-commission-vishal-tiwari",
+    "fast-track-special-courts-explained-rape-pocso-backlog--p2",
+    "fiscal-deficit-reaches-41-9-of-target-by-august"
+   ],
+   "kind": "photo",
+   "subj": "ffffff8c8cf00000",
+   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Pinakpani / Wikimedia Commons; Vroomtrapit at English Wikipedia / Wikimedia Commons"
+  }
  },
  "president-murmu-ips-probationers-78-rr-people-centric-policing": {
   "id": "o-president-murmu-ips-probationers-78-rr-people-centric-policing",

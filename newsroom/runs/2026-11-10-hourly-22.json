@@ -1,0 +1,38 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-10T22:11:05+05:30",
+ "end": "2026-11-10T22:38:44+05:30",
+ "summary": "Editorial and Kharge fact check; Murmu and Rawalpindi Test held",
+ "new": [
+  "digital-arrest-victims-should-be-repaid-by-the-bank-first",
+  "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
+ ],
+ "held": [
+  "pakistan-declare-434-9-three-debutant-fifties-sri-lanka-114-3-rawalpindi-test"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "pakistan-declare-434-9-three-debutant-fifties-sri-lanka-114-3-rawalpindi-test",
+   "kind": "facts",
+   "why": "Body says Kamindu Mendis and Dhananjaya de Silva 'added an unbroken stand of more than 50'; Sri Lanka were 65 for 3 when Udara fell and 114 for 3 at stumps, so the stand is 49, not more than 50. The Hindi twin repeats the error ('नाबाद 50 से ज़्यादा रन की साझेदारी'). Also only two debutant fifties are named (Tayyab Arif 57, Mohammad Taha 51) while the headline and copy say three; Minhas is described separately as reaching his first Test fifty, so the third debutant is never identified.",
+   "fix": "Change to 'an unbroken stand of 49' in English and 'नाबाद 49 रन की साझेदारी' in Hindi; name the third debutant who made a fifty from the match reports (or, if it is Arafat Minhas, say so and drop the contradictory separate sentence), in both languages."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+   "why": "The Rajya Sabha statement by MoS Kirti Vardhan Singh is dated just 'July 24' (Hindi '24 जुलाई') with no year; the notes say it was July 24, 2025, so readers will take it as July 2026, and the date format breaks the 'July 24, 2025' rule. Main picture is also a soft, low-resolution video grab of Kharge with a second man's face half behind him.",
+   "done": "Dates now 'July 24, 2025' / '24 जुलाई 2025' in both languages. Photo kept: it is a correct Commons photo of Kharge; the finder (h1022) found no sharper free one (candidates 326, 376, 526 px wide or used by the lead within 7 days)."
+  },
+  {
+   "id": "homepage",
+   "why": "Two stories on the same subject sit next to each other: the lead (Kharge's 'Hawa Ka Hisaab' attack on Modi) is directly followed, first slot under it, by the Kharge 'Hawa Ka Hisaab' fact check. Move the fact check out of the slot under the lead (into the Politics section or lower in the column) and put a different story there, for example the Supreme Court digital arrest story or the Hasina story. Also, the lead is about Delhi air but the top of the page carries no fresh Delhi AQI/GRAP reading (frontpages.txt flags it as missing); add the latest CPCB reading to the lead or a slot.",
+   "done": "Fact check dropped from the slot under the lead with refresh_home --drop. No fresh CPCB/CAQM reading could be read this run (WebFetch refused), so no AQI slot added."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 20:41 as well: kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
+ ],
+ "lead": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
+}
