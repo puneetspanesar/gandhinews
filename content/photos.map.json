@@ -43802,6 +43802,70 @@
    "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons"
   }
  },
+ "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case": {
+  "id": "o-mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+  "src": "/photos/o-mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case-1280.jpg",
+  "src800": "/photos/o-mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1830,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Mamata Banerjee (file photo)",
+  "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mamata_Banerjee_-_Kolkata_2011-12-08_7531_(cropped).JPG",
+  "treated": {
+   "src": "/photos/t-mamata-banerjee-delhi-police-notice-witness-2013-parliament--1280.jpg",
+   "src800": "/photos/t-mamata-banerjee-delhi-police-notice-witness-2013-parliament--640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "credit": "Photo: Biswarup Ganguly / Wikimedia Commons"
+  }
+ },
+ "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25": {
+  "id": "i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
+  "src": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-en-3x2-1280.jpg",
+  "src800": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Mumbai bans rockets after Diwali-day fires",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दिवाली की आग के बाद मुंबई में रॉकेट पर रोक",
+  "page": null,
+  "ihash": "b97eb099533c",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-hi-3x2-1280.jpg",
+    "src800": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-en-t-1280.jpg",
+    "src800": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-hi-t-1280.jpg",
+    "src800": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-en-1280.jpg",
+    "src800": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-hi-1280.jpg",
+    "src800": "/photos/i-mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of a Mumbai fire being fought; library, quick_photo, finder h1006 (only parked fire engines)"
+ },
  "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim": {
   "id": "r-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
   "src": "/photos/r-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-1280.jpg",

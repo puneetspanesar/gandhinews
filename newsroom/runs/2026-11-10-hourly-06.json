@@ -1,0 +1,32 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-10T06:05:49+05:30",
+ "end": "2026-11-10T06:44:21+05:30",
+ "summary": "Mamata Delhi Police notice leads; Mumbai rocket ban; markets holiday noted",
+ "new": [
+  "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+  "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
+   "why": "Event story (Diwali fires) but the main picture is a parked Mumbai Fire Brigade engine on a calm street: no fire, smoke, damage or firefighting. The alt text in both files ('Mumbai Fire Brigade crews at a fire in the city') does not match what is shown. Also a facts slip in both English and Hindi: 'about 200 over the three days to Monday' is wrong, as the source (Free Press Journal) gives about 200 of 282 incidents over November 6 to 9 (four days), and the verification note says this figure was left out of the copy when it was not.",
+   "done": "Parked-engine photo removed; infographic --nophoto (no free photo of a Mumbai fire being fought; finder h1006 had only parked engines); alt text now describes the graphic; \"about 200\" corrected to about 200 of 282 incidents over November 6 to 9 in EN and HI."
+  },
+  {
+   "id": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+   "why": "The case section contradicts itself. It says Banerjee 'had come to Delhi ... to protest the assault' and then 'she was in the capital with Mitra when the attack happened'. She cannot have come to protest an attack she was present for. The sources split: ThePrint (PTI) and ETV Bharat say she came to protest, and Hans India (IANS) quotes Delhi Police saying she was with Mitra. The copy states both as fact. Also, ETV Bharat reports her saying she is a 'People's Representative, not a VIP' and would travel to Delhi to give her statement, while the copy says flatly that she had not responded by early Tuesday. Same problem in the Hindi twin.",
+   "done": "Both versions of her 2013 role now credited to the reports that give them; \"had not responded\" softened to no formal reply published, with the undated reported remark that she would travel to Delhi; double blank line removed. EN and HI."
+  },
+  {
+   "id": "homepage",
+   "why": "Top headlines break the balance rule: three politics-section stories (Mamata lead, Rahul Gandhi debate challenge, Gogoi ten-point package) and four states-section stories (Mumbai rockets ban, Delhi Diwali air data, Kapil Mishra on Punjab stubble fires, Ramdas Kadam on Tatkare). Keep at most two from each section; move Gogoi and Ramdas Kadam (or Kapil Mishra) down. Delhi Diwali air data and Kapil Mishra's Punjab stubble fires are the same subject (who caused Delhi's Diwali smog), so keep one in the top block. Bring up a different section in their place, such as the Hazaribagh crash or Maldives fishermen from Must Read, or the India v New Zealand ODI. The Trump-Iran card in the second slot uses a collage built on Trump's 2017 inauguration swearing-in photo, which has nothing to do with Iran strikes and looks machine-made; use a recent photo of Trump speaking. Below the fold: the Policy section stacks two Rajnath Singh Sherathang stories, and the second ('reaches Sherathang to spend Diwali', November 8) is a preview of something already reported above it, so drop it. The Politics section's 'Vice-President Radhakrishnan in Ayodhya for 10th Deepotsav, to pray at Ram temple' (November 7) previews an event that is over, so remove or replace it. The Bastar/'dimagi Naxals' running story has three slots (Rahul at top, Modi in Bastar and Shah's Naxalism item in Politics); cut it to one or two.",
+   "done": "refresh_home --drop on Gogoi, Ramdas Kadam, Kapil Mishra (same subject as Delhi air data), Trump-Iran (2017 photo), Rajnath Sherathang preview, VP Deepotsav preview, Shah Naxalism item and Maldives (over 12 h beside the lead); top eight now at most two per section. Remaining Bastar slots and template lists left as they are."
+  }
+ ],
+ "breaches": [],
+ "lead": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+}
