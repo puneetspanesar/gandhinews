@@ -50683,16 +50683,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Glimpse_of_the_new_Parliament_Building,_in_New_Delhi.jpg"
  },
  {
-  "id": "o-8th-pay-commission-explained-salary-pension-fitment-factor",
-  "articleId": "8th-pay-commission-explained-salary-pension-fitment-factor",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Delimitation_Commission_for_JK_in_February_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Prime Minister's Office / Election Commission of India / Ministry of Development of North Eastern Region / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Justice Ranjana Prakash Desai (centre), now chair of the 8th Pay Commission, at a Delimitation Commission meeting in February 2021 (file photo)",
-  "alt_hi": "फ़रवरी 2021 में परिसीमन आयोग की बैठक में जस्टिस रंजना प्रकाश देसाई (बीच में), जो अब 8वें वेतन आयोग की अध्यक्ष हैं (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Delimitation_Commission_for_JK_in_February_2021.jpg"
- },
- {
   "id": "o-uttarakhand-election-2027-70-seats-dhami-bjp-congress",
   "articleId": "uttarakhand-election-2027-70-seats-dhami-bjp-congress",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Kartik_Paliwal_with_Pushkar_Singh_Dhami_and_Mohan_Singh_Mehra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -50731,5 +50721,15 @@
   "alt": "J. P. Nadda (file photo)",
   "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_2023.jpg"
+ },
+ {
+  "id": "o-8th-pay-commission-explained-salary-pension-fitment-factor",
+  "articleId": "8th-pay-commission-explained-salary-pension-fitment-factor",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, home of the Finance Ministry, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, वित्त मंत्रालय का दफ्तर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg"
  }
 ]

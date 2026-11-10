@@ -82,7 +82,7 @@ verification:
 **The BJP won a majority on its own for the first time.** It took 32 of the 60 seats with 37.84% of the vote. The National People's Party won 7, the Janata Dal (United) 6, the Congress 5 with 16.84% of the vote, the Naga People's Front 5, independents 3 and the Kuki People's Alliance 2. N. Biren Singh returned as Chief Minister.
 
 ```chart
-{"type":"hbar","title":"Manipur assembly, 2022 result","subtitle":"seats won","unit":"","data":[{"label":"BJP","value":32,"highlight":true},{"label":"NPP","value":7},{"label":"JD(U)","value":6},{"label":"Congress","value":5},{"label":"NPF","value":5},{"label":"Independents","value":3},{"label":"KPA","value":2}],"source":"Election Commission of India, 2022, via BOOM"}
+{"type":"hbar","title":"Manipur assembly, 2022 result","subtitle":"seats won","unit":"","data":[{"label":"BJP","value":32,"highlight":true},{"label":"NPP","value":7},{"label":"JD(U)","value":6},{"label":"Congress","value":5},{"label":"NPF","value":5},{"label":"Independents","value":3},{"label":"KPA","value":2}],"source":"Election Commission of India, 2022"}
 ```
 
 ## What happened after the violence began?

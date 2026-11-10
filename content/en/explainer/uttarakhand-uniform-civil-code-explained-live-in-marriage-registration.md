@@ -30,7 +30,7 @@ infographic:
     - {title: "Mar 11, 2024", text: "President gives assent"}
     - {title: "Jan 27, 2025", text: "Code comes into force"}
     - {title: "Jan 2026", text: "Ordinance revises procedures and penalties"}
-  source: "Uttarakhand government; India TV; IANS"
+  source: "Uttarakhand government; UCC drafting committee"
 related: [uttarakhand-election-2027-70-seats-dhami-bjp-congress, assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur, dhami-bjp-save-democracy-campaign-sir-congress]
 seo:
   description: "Uttarakhand UCC explained: live-in registration rules and penalties, polygamy and halala ban, marriage registration, ST exemption, first-year numbers and the 2026 amendment."

@@ -85,7 +85,7 @@ verification:
 The Revolutionary Goans Party, a new regional outfit, drew 9.81% of the vote, more than AAP or the MGP, though it won only one seat.
 
 ```chart
-{"type":"hbar","title":"Goa vote share, 2022 assembly election","subtitle":"% of votes polled","unit":"%","data":[{"label":"BJP","value":33.31,"highlight":true},{"label":"Congress","value":23.46},{"label":"Revolutionary Goans","value":9.81},{"label":"Independents","value":9.35},{"label":"MGP","value":7.6},{"label":"AAP","value":6.77},{"label":"Goa Forward","value":1.84}],"source":"Election Commission of India, 2022, via BOOM"}
+{"type":"hbar","title":"Goa vote share, 2022 assembly election","subtitle":"% of votes polled","unit":"%","data":[{"label":"BJP","value":33.31,"highlight":true},{"label":"Congress","value":23.46},{"label":"Revolutionary Goans","value":9.81},{"label":"Independents","value":9.35},{"label":"MGP","value":7.6},{"label":"AAP","value":6.77},{"label":"Goa Forward","value":1.84}],"source":"Election Commission of India, 2022"}
 ```
 
 ## Why do defections matter so much in Goa?

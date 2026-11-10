@@ -31,7 +31,7 @@ infographic:
     - {title: "11 मार्च 2024", text: "राष्ट्रपति की मंज़ूरी"}
     - {title: "27 जनवरी 2025", text: "संहिता लागू"}
     - {title: "जनवरी 2026", text: "अध्यादेश से प्रक्रिया और सज़ा में बदलाव"}
-  source: "उत्तराखंड सरकार; इंडिया टीवी; आईएएनएस"
+  source: "उत्तराखंड सरकार; यूसीसी ड्राफ्टिंग समिति"
 related: [uttarakhand-election-2027-70-seats-dhami-bjp-congress, assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur, dhami-bjp-save-democracy-campaign-sir-congress]
 seo:
   description: "उत्तराखंड यूसीसी: लिव-इन पंजीकरण के नियम और सज़ा, बहुविवाह और हलाला पर रोक, विवाह पंजीकरण, अनुसूचित जनजाति को छूट, पहले साल के आंकड़े और 2026 का संशोधन।"

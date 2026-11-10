@@ -13,7 +13,7 @@ hero:
   need: "North Block in New Delhi, home of the Finance Ministry, which will decide on the Pay Commission's report"
   suggested_source: "North Block New Delhi"
   subjects: ["North Block New Delhi"]
-  alt: "Justice Ranjana Prakash Desai (centre), now chair of the 8th Pay Commission, at a Delimitation Commission meeting in February 2021 (file photo)"
+  alt: "North Block, home of the Finance Ministry, New Delhi (file photo)"
   overlay:
     value: "Report due by about May 2027"
 infographic:

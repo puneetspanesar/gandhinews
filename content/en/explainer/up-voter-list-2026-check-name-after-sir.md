@@ -8,7 +8,7 @@ topics: [elections-2027, electoral-rolls-sir]
 title: "UP voter list 2026: how to check your name after the SIR, and what to do if it is missing"
 standfirst: "Uttar Pradesh's final electoral roll after the Special Intensive Revision has 13.39 crore voters, about two crore fewer than before. How to find your name, how to get on the roll before the 2027 election, and what the numbers show district by district."
 published: 2026-11-10T12:33:00+05:30
-shortAnswer: "Uttar Pradesh published its final electoral roll after the Special Intensive Revision on April 10, 2026, with 13,39,84,792 voters, down from about 15.44 crore before the exercise began in October 2025; around 2.04 crore names were removed. You can check your name on the Election Commission's portal, voters.eci.gov.in, by EPIC number or by name, date of birth and district. If your name is missing, apply on Form 6 to be added; enrolment stays open until close to the election. Lucknow, Prayagraj, Kanpur Nagar, Agra and Ghaziabad saw the most deletions."
+shortAnswer: "Uttar Pradesh published its final electoral roll after the Special Intensive Revision on April 10, 2026, with 13,39,84,792 voters, down from about 15.44 crore before the exercise began in October 2025; a net fall of about 2.04 crore. You can check your name on the Election Commission's portal, voters.eci.gov.in, by EPIC number or by name, date of birth and district. If your name is missing, apply on Form 6 to be added; enrolment stays open until close to the election. Lucknow, Prayagraj, Kanpur Nagar, Agra and Ghaziabad saw the most deletions."
 hero:
   need: "Voters with their voter ID cards in queue at a polling station in Uttar Pradesh (file photo)"
   suggested_source: "Voters queue polling station Lucknow"
@@ -23,7 +23,7 @@ infographic:
   motif: identification-card
   stats:
     - {icon: users, value: "13.39 crore", label: "voters on the final roll, April 10, 2026"}
-    - {icon: trend-down, value: "2.04 crore", label: "names removed in the revision"}
+    - {icon: trend-down, value: "2.04 crore", label: "net fall in voters after the revision"}
     - {icon: trend-up, value: "84.3 lakh", label: "added between the draft and the final roll"}
   steps:
     - {title: "Search", text: "voters.eci.gov.in, by EPIC number or name"}
@@ -89,7 +89,7 @@ verification:
 
 ## How many names were removed, and how many added?
 
-**About 2.04 crore names came off, and 84 lakh were added back after the draft.** The draft roll published on January 6, 2026, had 12,55,56,025 voters. Over the next three months, officials sent notices from January 14, held hearings from January 31 to March 27, and took applications from people who had been left out. By the final roll, the electorate had grown by **84,28,767**, split almost equally between men and women.
+**The roll shrank by about 2.04 crore overall, even after 84 lakh names were added back after the draft.** The draft roll published on January 6, 2026, had 12,55,56,025 voters. Over the next three months, officials sent notices from January 14, held hearings from January 31 to March 27, and took applications from people who had been left out. By the final roll, the electorate had grown by **84,28,767**, split almost equally between men and women.
 
 The final roll has 7,30,71,071 men, 6,09,09,525 women and 4,206 third-gender voters. The number of women per 1,000 men on the roll rose from 824 in the draft to 834. First-time voters aged 18 and 19 rose from 3,33,981 to 17,63,360.
 
@@ -130,7 +130,7 @@ In early November, the Election Commission told Uttar Pradesh officials to **re-
 
 ## Why were so many names removed?
 
-**Because the revision checked every entry against what was found on the ground.** Officials flagged about 1.04 crore electors as "non-mapped", meaning they could not be linked to earlier records, and 2.22 crore cases with logical discrepancies, such as mismatched details. In such a revision, entries of voters found to have died, moved away permanently or been enrolled twice are removed. The state's Chief Electoral Officer, Navdeep Rinwa, said **no name was deleted without due process**, and that a name missing from the final list was the result of either a Form 6 application or a decision by an electoral registration officer after a hearing.
+**Because the revision checked every entry against what was found on the ground.** Officials flagged about 1.04 crore electors as "non-mapped", meaning they could not be linked to earlier records, and 2.22 crore cases with logical discrepancies, such as mismatched details. In such a revision, entries of voters found to have died, moved away permanently or been enrolled twice are removed. The state's Chief Electoral Officer, Navdeep Rinwa, said **no name was deleted without due process**.
 
 > No voter's name was deleted without due process.
 >

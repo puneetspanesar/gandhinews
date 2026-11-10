@@ -135,7 +135,7 @@ The law gives the Commission some flexibility. Under the Representation of the P
 
 **The BJP runs four of the five, and the Aam Aadmi Party runs Punjab.** Yogi Adityanath has been Uttar Pradesh's Chief Minister since 2017 and won a second term in 2022, which was sworn in at Lucknow's Ekana Stadium on March 25, 2022. **Bhagwant Mann of AAP** has led Punjab since March 16, 2022, when he took oath at Khatkar Kalan in Shaheed Bhagat Singh Nagar district.
 
-In Uttarakhand, Pushkar Singh Dhami leads a BJP government, and Pramod Sawant leads Goa's. Manipur's story is different. Its BJP government under N. Biren Singh resigned on February 9, 2025, amid ethnic violence between the Meitei and Kuki communities that has killed at least 260 people since May 2023. **President's rule was imposed on February 13, 2025**, and revoked on February 4, 2026, when **Y. Khemchand Singh** was sworn in as Chief Minister of a BJP-led NDA government.
+In Uttarakhand, Pushkar Singh Dhami leads a BJP government, and Pramod Sawant leads Goa's. Manipur's story is different. Its BJP government under N. Biren Singh resigned on February 9, 2025, amid ethnic violence between the Meitei and Kuki communities that has killed at least 306 people since May 2023. **President's rule was imposed on February 13, 2025**, and revoked on February 4, 2026, when **Y. Khemchand Singh** was sworn in as Chief Minister of a BJP-led NDA government.
 
 ```photo
 {"n": 1, "subject": "Nirvachan Sadan", "caption": "A results display board outside Nirvachan Sadan, the Election Commission's headquarters in New Delhi, in 2009. The Commission will announce the 2027 schedule.", "alt": "Results display board outside Nirvachan Sadan, the Election Commission's headquarters, in 2009 (file photo)"}
@@ -143,12 +143,12 @@ In Uttarakhand, Pushkar Singh Dhami leads a BJP government, and Pramod Sawant le
 
 ## How did these states vote in 2022?
 
-**Every ruling party won a clear majority last time, though some margins were thin.** In Uttar Pradesh the BJP won 255 seats on its own and 273 with its allies, while the Samajwadi Party rose to 111. In Punjab, AAP swept 92 of 117 seats, with the Congress at 18, the Shiromani Akali Dal at 3 and the BJP at 2.
+**Four of the five ruling parties won a majority on their own last time; Goa's BJP fell one short.** In Uttar Pradesh the BJP won 255 seats on its own and 273 with its allies, while the Samajwadi Party rose to 111. In Punjab, AAP swept 92 of 117 seats, with the Congress at 18, the Shiromani Akali Dal at 3 and the BJP at 2.
 
 Uttarakhand gave the BJP 47 of 70 seats and the Congress 19, making the BJP the first party to win back-to-back terms in the state, even though Dhami himself lost his own seat of Khatima by 6,579 votes. Goa was the tightest: **the BJP won 20 of 40 seats, one short of a majority**, and kept power with the support of independents. In Manipur, the BJP won 32 of 60 on its own for the first time.
 
 ```chart
-{"type":"hbar","title":"Share of seats won by the ruling party in 2022","subtitle":"% of the assembly","unit":"%","data":[{"label":"Punjab (AAP, 92 of 117)","value":78.6,"highlight":true},{"label":"Uttarakhand (BJP, 47 of 70)","value":67.1},{"label":"Uttar Pradesh (BJP, 255 of 403)","value":63.3},{"label":"Manipur (BJP, 32 of 60)","value":53.3},{"label":"Goa (BJP, 20 of 40)","value":50.0}],"source":"Election Commission of India, PRS, BOOM"}
+{"type":"hbar","title":"Share of seats won by the ruling party in 2022","subtitle":"% of the assembly","unit":"%","data":[{"label":"Punjab (AAP, 92 of 117)","value":78.6,"highlight":true},{"label":"Uttarakhand (BJP, 47 of 70)","value":67.1},{"label":"Uttar Pradesh (BJP, 255 of 403)","value":63.3},{"label":"Manipur (BJP, 32 of 60)","value":53.3},{"label":"Goa (BJP, 20 of 40)","value":50.0}],"source":"Election Commission of India; PRS Legislative Research"}
 ```
 
 ## What is the Election Commission doing to prepare?
@@ -167,7 +167,7 @@ In Uttar Pradesh, Senior Deputy Election Commissioner Manish Garg chaired a revi
 
 ## What are the big contests to watch?
 
-**Each state has its own fight.** In Uttar Pradesh, the BJP seeks a third straight term for Yogi Adityanath against a Samajwadi Party that won 37 of the state's 80 Lok Sabha seats in 2024, three more than the BJP. The roll revision is itself an issue there: the electorate fell from 15.44 crore in October 2025 to 13.39 crore in the final roll of April 10, 2026, and opposition parties have protested what they call irregularities in the exercise.
+**Each state has its own fight.** In Uttar Pradesh, the BJP seeks a third straight term for Yogi Adityanath against a Samajwadi Party that won 37 of the state's 80 Lok Sabha seats in 2024, four more than the BJP. The roll revision is itself an issue there: the electorate fell from 15.44 crore in October 2025 to 13.39 crore in the final roll of April 10, 2026, and opposition parties have protested what they call irregularities in the exercise.
 
 In Punjab, AAP defends its 2022 landslide. Reports in late October said **talks on reviving the BJP and Akali Dal alliance**, which broke in September 2020 over the farm laws, were in their final stages, though neither party has announced a deal. In Goa, the Goa Forward Party has chosen to ally with AAP, while the Congress, the main opposition party, has held alliance talks of its own. In Uttarakhand the BJP will contest under Dhami, and in Manipur the first election since the violence will test whether normal campaigning is possible across the hills and the valley.
 

@@ -71,7 +71,7 @@ Households in the north-eastern states, Uttarakhand, Himachal Pradesh, Jammu and
 
 ## How do I apply?
 
-**Online, on the national portal, in about eight steps.**
+**Online, on the national portal, in six steps.**
 
 ```infographic
 {"title":"How to apply for PM Surya Ghar","items":[{"icon":"user-circle","title":"1. Register","text":"On the national portal with your mobile number and email"},{"icon":"map-pin","title":"2. Apply","text":"Choose your state, power company and consumer number"},{"icon":"check-circle","title":"3. Feasibility","text":"Your power company confirms the installation is possible"},{"icon":"briefcase","title":"4. Pick a vendor","text":"Choose a registered vendor and give your bank details"},{"icon":"house","title":"5. Installation","text":"The vendor installs the system and reports it"},{"icon":"currency-inr","title":"6. Subsidy","text":"After inspection, claim online; money arrives in about 30 days"}]}
