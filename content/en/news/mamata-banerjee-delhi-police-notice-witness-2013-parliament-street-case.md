@@ -90,9 +90,6 @@ The case was registered at **Parliament Street police station on April 9, 2013**
 
 Banerjee had come to Delhi with Trinamool Congress ministers and MPs to protest the assault. Her delegation was near the former Planning Commission building on Sansad Marg, now home to NITI Aayog, when police tried to restrict its movement, citing security concerns and prohibitory orders. Investigators say she was in the capital with Mitra when the attack happened, which is why they want her account.
 
-```photo
-{"n":1,"subject":"Amit Mitra","caption":"Amit Mitra, West Bengal's finance minister in 2013, who was allegedly assaulted at the protest.","alt":"Amit Mitra"}
-```
 
 The reported charges in the case are under the Indian Penal Code: **Sections 186, 353, 332, 147, 149 and 34**, covering obstructing a public servant, using criminal force to deter a public servant, causing hurt to deter a public servant, rioting, unlawful assembly and common intention. The SFI's then general secretary, Ritabrata Banerjee, led the agitation.
 
