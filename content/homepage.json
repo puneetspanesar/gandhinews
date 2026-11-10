@@ -458,14 +458,38 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Under way",
-        "hi": "जारी"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
-        "en": "US, Russia and Ukraine talks in Abu Dhabi, November 10 and 11",
-        "hi": "अबू धाबी में अमेरिका, रूस और यूक्रेन की बातचीत, 10 और 11 नवंबर"
+        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
+        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
       },
-      "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
+      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "India vs New Zealand, third ODI, Seddon Park, Hamilton (40 overs a side)",
+        "hi": "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, सेडन पार्क, हैमिल्टन (40 ओवर प्रति पक्ष)"
+      },
+      "link": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
+        "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -609,7 +633,7 @@
       ]
     },
     {
-      "at": "2026-11-10T14:42:43+05:30",
+      "at": "2026-11-10T14:48:39+05:30",
       "ids": [
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
