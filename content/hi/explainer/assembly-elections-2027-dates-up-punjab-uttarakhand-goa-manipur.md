@@ -14,7 +14,7 @@ hero:
   need: "उत्तर प्रदेश या पंजाब के मतदान केंद्र पर कतार में खड़े मतदाता (फ़ाइल फ़ोटो)"
   suggested_source: "Voters queue polling station Uttar Pradesh"
   subjects: ["Voters queue polling station Uttar Pradesh"]
-  alt: "लखनऊ के मलिहाबाद में मतदान केंद्र पर कतार में मतदाता (फ़ाइल फ़ोटो)"
+  alt: "मुख्य चुनाव आयुक्त ज्ञानेश कुमार (फ़ाइल फ़ोटो)"
   overlay:
     value: "पांच राज्य, 690 सीटें"
 infographic:
@@ -32,6 +32,11 @@ related: [five-states-head-for-2027-assembly-polls, how-uttar-pradesh-voted-2022
 seo:
   description: "विधानसभा चुनाव 2027 की तारीख: यूपी, पंजाब, उत्तराखंड, गोवा और मणिपुर में कब होगा मतदान, कार्यकाल, सीटें, 2022 के नतीजे, मौजूदा सरकारें और चुनाव आयोग की तैयारी।"
 sources:
+  - title: "2027 UP polls: CEC Gyanesh Kumar arrives in Lucknow"
+    publisher: "NewKerala"
+    date: 2026-08-24
+    url: "https://www.newkerala.com/news/a/2027-up-polls-cec-gyanesh-kumar-arrives-lucknow-846.htm"
+    primary: false
   - title: "Assembly Elections 2027: poll dates likely after December 15 as EC begins state-level reviews in five states"
     publisher: "Dainik Jagran English"
     date: 2026-10-13

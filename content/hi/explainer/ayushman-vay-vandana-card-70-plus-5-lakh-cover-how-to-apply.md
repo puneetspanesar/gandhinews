@@ -14,7 +14,7 @@ hero:
   need: "नई दिल्ली में निर्माण भवन, केंद्रीय स्वास्थ्य मंत्रालय का दफ्तर, जो राष्ट्रीय स्वास्थ्य प्राधिकरण के ज़रिये योजना चलाता है"
   suggested_source: "Nirman Bhawan New Delhi"
   subjects: ["Nirman Bhawan New Delhi"]
-  alt: "अखिल भारतीय आयुर्विज्ञान संस्थान, नई दिल्ली (फ़ाइल फ़ोटो)"
+  alt: "केंद्रीय स्वास्थ्य मंत्री जे. पी. नड्डा (फ़ाइल फ़ोटो)"
   overlay:
     value: "70 से ऊपर सबको ₹5 लाख का कवर"
 infographic:
@@ -36,6 +36,11 @@ related: []
 seo:
   description: "70 से ऊपर के लिए आयुष्मान वय वंदना कार्ड: ₹5 लाख मुफ्त स्वास्थ्य कवर, पात्रता, आयुष्मान ऐप पर आवेदन कैसे करें, सीजीएचएस नियम, सबसे आम इलाज और दो साल के आंकड़े।"
 sources:
+  - title: "PM-JAY completes 8 years, covers over 60 crore people: JP Nadda"
+    publisher: "Asianet Newsable"
+    date: 2026-09-23
+    url: "https://newsable.asianetnews.com/india/pm-jay-completes-8-years-covers-over-60-crore-people-jp-nadda-articleshow-koqhsrq"
+    primary: false
   - title: "Ayushman Vay Vandana completes two years with 23.46 lakh hospital admissions worth ₹5,668.80 crore"
     publisher: "Elets eHealth"
     date: 2026-10-29

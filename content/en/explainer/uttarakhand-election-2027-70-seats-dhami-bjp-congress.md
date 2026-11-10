@@ -13,7 +13,7 @@ hero:
   need: "Uttarakhand Chief Minister Pushkar Singh Dhami, whose BJP seeks a third straight term"
   suggested_source: "Pushkar Singh Dhami"
   subjects: ["Pushkar Singh Dhami"]
-  alt: "Uttarakhand Chief Minister Pushkar Singh Dhami (file photo)"
+  alt: "Uttarakhand Chief Minister Pushkar Singh Dhami (centre) receives a bouquet (file photo)"
   overlay:
     value: "70 seats, 36 to win"
 infographic:

@@ -14,7 +14,7 @@ hero:
   need: "उत्तर प्रदेश में मतदान केंद्र पर वोटर आईडी कार्ड के साथ कतार में मतदाता (फ़ाइल फ़ोटो)"
   suggested_source: "Voters queue polling station Lucknow"
   subjects: ["Voters queue polling station Uttar Pradesh"]
-  alt: "2009 में चुनाव आयोग के मुख्यालय निर्वाचन सदन के बाहर नतीजों के बोर्ड पर भीड़ (फ़ाइल फ़ोटो)"
+  alt: "उत्तर प्रदेश के लखनऊ के मलिहाबाद में मतदान केंद्र पर कतार में मतदाता (फ़ाइल फ़ोटो)"
   overlay:
     value: "एसआईआर के बाद 13.39 करोड़ मतदाता"
 infographic:

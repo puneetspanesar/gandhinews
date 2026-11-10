@@ -13,7 +13,7 @@ hero:
   need: "Voters queuing at a polling station in Uttar Pradesh or Punjab (file photo)"
   suggested_source: "Voters queue polling station Uttar Pradesh"
   subjects: ["Voters queue polling station Uttar Pradesh"]
-  alt: "Voters queue at a polling station in Malihabad, Lucknow (file photo)"
+  alt: "Chief Election Commissioner Gyanesh Kumar (file photo)"
   overlay:
     value: "Five states, 690 seats"
 infographic:
@@ -31,6 +31,11 @@ related: [five-states-head-for-2027-assembly-polls, how-uttar-pradesh-voted-2022
 seo:
   description: "Assembly elections 2027 dates: when UP, Punjab, Uttarakhand, Goa and Manipur vote, term end dates, seats, 2022 results, current governments and the EC's preparations."
 sources:
+  - title: "2027 UP polls: CEC Gyanesh Kumar arrives in Lucknow"
+    publisher: "NewKerala"
+    date: 2026-08-24
+    url: "https://www.newkerala.com/news/a/2027-up-polls-cec-gyanesh-kumar-arrives-lucknow-846.htm"
+    primary: false
   - title: "Assembly Elections 2027: poll dates likely after December 15 as EC begins state-level reviews in five states"
     publisher: "Dainik Jagran English"
     date: 2026-10-13

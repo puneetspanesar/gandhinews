@@ -24,7 +24,7 @@ infographic:
   stats:
     - {icon: map-pin, value: "60", label: "assembly seats, 31 for a majority"}
     - {icon: warning, value: "306+", label: "people killed in the conflict since May 2023"}
-    - {icon: calendar-blank, value: "357 days", label: "of President's rule, Feb 2025 to Feb 2026"}
+    - {icon: calendar-blank, value: "356 days", label: "of President's rule, Feb 2025 to Feb 2026"}
   timeline:
     - {date: "May 3, 2023", text: "Ethnic violence breaks out", icon: warning}
     - {date: "Feb 13, 2025", text: "President's rule imposed", icon: scales}
@@ -69,7 +69,7 @@ verification:
   status: approved
   notes:
     - "2022 seats and vote shares from BOOM's Manipur page."
-    - "President's rule dates and Biren Singh's resignation from Deccan Herald (February 4, 2026); 357 days is the count from February 13, 2025, to February 4, 2026."
+    - "President's rule dates and Biren Singh's resignation from Deccan Herald (February 4, 2026); 356 days is the count from February 13, 2025, to February 4, 2026."
     - "Death toll (at least 306), 49 missing, and the census deferral from our story of October 18, 2026, on Khemchand Singh's Imphal speech; 'about 24,000 still in relief camps' is Gaurav Gogoi's count from our story and is attributed to him."
     - "Kuki-Zo seats (10 of 60, seven BJP), the January 13, 2026 Guwahati resolutions and the September 2, 2026, assembly attendance from Lokmat Times (ANI) and National Herald."
     - "2024 Lok Sabha arrangements for displaced voters (94 special polling stations, over 24,500 eligible) from the Chief Electoral Officer as reported by National Herald, April 7, 2024."

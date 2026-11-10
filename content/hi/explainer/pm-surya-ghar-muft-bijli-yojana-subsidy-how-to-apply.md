@@ -14,7 +14,7 @@ hero:
   need: "भारत में घरों की छतों पर सोलर पैनल"
   suggested_source: "Rooftop solar panels India house"
   subjects: ["Rooftop solar panels India"]
-  alt: "भारत में घरों की छतों पर सोलर पैनल (फ़ाइल फ़ोटो)"
+  alt: "कोलकाता के साइंस सिटी में छत पर लगे सोलर पैनल (फ़ाइल फ़ोटो)"
   overlay:
     value: "₹78,000 तक सब्सिडी"
 infographic:

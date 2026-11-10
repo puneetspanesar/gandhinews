@@ -13,7 +13,7 @@ hero:
   need: "Nirman Bhawan in New Delhi, home of the Union Health Ministry, which runs the scheme through the National Health Authority"
   suggested_source: "Nirman Bhawan New Delhi"
   subjects: ["Nirman Bhawan New Delhi"]
-  alt: "All India Institute of Medical Sciences, New Delhi (file photo)"
+  alt: "Union Health Minister J. P. Nadda (file photo)"
   overlay:
     value: "₹5 lakh cover for all over 70"
 infographic:
@@ -35,6 +35,11 @@ related: []
 seo:
   description: "Ayushman Vay Vandana card for 70 plus: ₹5 lakh free health cover, eligibility, how to apply on Ayushman app, CGHS rules, top treatments and two-year figures."
 sources:
+  - title: "PM-JAY completes 8 years, covers over 60 crore people: JP Nadda"
+    publisher: "Asianet Newsable"
+    date: 2026-09-23
+    url: "https://newsable.asianetnews.com/india/pm-jay-completes-8-years-covers-over-60-crore-people-jp-nadda-articleshow-koqhsrq"
+    primary: false
   - title: "Ayushman Vay Vandana completes two years with 23.46 lakh hospital admissions worth ₹5,668.80 crore"
     publisher: "Elets eHealth"
     date: 2026-10-29

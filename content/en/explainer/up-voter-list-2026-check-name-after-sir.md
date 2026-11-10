@@ -13,7 +13,7 @@ hero:
   need: "Voters with their voter ID cards in queue at a polling station in Uttar Pradesh (file photo)"
   suggested_source: "Voters queue polling station Lucknow"
   subjects: ["Voters queue polling station Uttar Pradesh"]
-  alt: "Crowds at the results board outside Nirvachan Sadan, the Election Commission's headquarters, in 2009 (file photo)"
+  alt: "Voters queue at a polling station in Malihabad, Lucknow, Uttar Pradesh (file photo)"
   overlay:
     value: "13.39 crore voters after the SIR"
 infographic:

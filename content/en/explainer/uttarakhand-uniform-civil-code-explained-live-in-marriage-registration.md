@@ -13,7 +13,7 @@ hero:
   need: "Uttarakhand Chief Minister Pushkar Singh Dhami, who brought the Uniform Civil Code into force"
   suggested_source: "Pushkar Singh Dhami"
   subjects: ["Pushkar Singh Dhami"]
-  alt: "President Droupadi Murmu addresses the Uttarakhand Legislative Assembly in Dehradun, November 3, 2025 (file photo)"
+  alt: "Uttarakhand Chief Minister Pushkar Singh Dhami with Prime Minister Narendra Modi (file photo)"
   overlay:
     value: "One civil law for all, except tribes"
 infographic:

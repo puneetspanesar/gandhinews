@@ -13,7 +13,7 @@ hero:
   need: "Rooftop solar panels on houses in India"
   suggested_source: "Rooftop solar panels India house"
   subjects: ["Rooftop solar panels India"]
-  alt: "Rooftop solar panels on homes in India (file photo)"
+  alt: "Rooftop solar panels at Science City, Kolkata (file photo)"
   overlay:
     value: "Up to ₹78,000 subsidy"
 infographic:

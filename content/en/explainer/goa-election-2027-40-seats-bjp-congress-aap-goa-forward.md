@@ -13,7 +13,7 @@ hero:
   need: "Goa Chief Minister Pramod Sawant, whose BJP seeks a fourth straight term"
   suggested_source: "Pramod Sawant"
   subjects: ["Pramod Sawant"]
-  alt: "Goa Chief Minister Pramod Sawant (file photo)"
+  alt: "Goa Chief Minister Pramod Sawant speaking at Goa University (file photo)"
   overlay:
     value: "40 seats, 21 to win"
 infographic:

@@ -25,7 +25,7 @@ infographic:
   stats:
     - {icon: map-pin, value: "60", label: "विधानसभा सीटें, बहुमत के लिए 31"}
     - {icon: warning, value: "306+", label: "मई 2023 से संघर्ष में मारे गए लोग"}
-    - {icon: calendar-blank, value: "357 दिन", label: "राष्ट्रपति शासन, फरवरी 2025 से फरवरी 2026"}
+    - {icon: calendar-blank, value: "356 दिन", label: "राष्ट्रपति शासन, फरवरी 2025 से फरवरी 2026"}
   timeline:
     - {date: "3 मई 2023", text: "जातीय हिंसा भड़की", icon: warning}
     - {date: "13 फरवरी 2025", text: "राष्ट्रपति शासन लगा", icon: scales}
