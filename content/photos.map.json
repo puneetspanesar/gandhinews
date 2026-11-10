@@ -44646,5 +44646,31 @@
    "kind": "photo",
    "credit": "Photos: BSEINDIA / Wikimedia Commons; Pinakpani / Wikimedia Commons; Jnpet / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
   }
+ },
+ "swachh-survekshan-2025-26-awards-president-murmu-november-11": {
+  "id": "o-swachh-survekshan-2025-26-awards-president-murmu-november-11",
+  "src": "/photos/o-swachh-survekshan-2025-26-awards-president-murmu-november-11-1280.jpg",
+  "src800": "/photos/o-swachh-survekshan-2025-26-awards-president-murmu-november-11-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3678,
+  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Droupadi Murmu (file photo)",
+  "alt_hi": "द्रौपदी मुर्मू (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg"
+ },
+ "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro": {
+  "id": "o-amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+  "src": "/photos/o-amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro-1280.jpg",
+  "src800": "/photos/o-amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "srcWidth": 690,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Union Home Minister Amit Shah greets residents at the inauguration of development works in Ahmedabad, Gujarat",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह अहमदाबाद, गुजरात में विकास कार्यों के उद्घाटन के मौके पर लोगों का अभिवादन करते हुए",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334428"
  }
 }
