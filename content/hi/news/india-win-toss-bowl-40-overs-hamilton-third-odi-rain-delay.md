@@ -31,10 +31,6 @@ infographic:
     - {icon: cricket, value: "40", label: "ओवर प्रति पक्ष, गेंदबाज़ के अधिकतम 8"}
   source: "मैच रिपोर्ट, 10 नवंबर 2026"
 related: [hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match, india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi, india-beat-new-zealand-five-wickets-dls-eden-park-first-odi]
-upcoming:
-  date: 2026-11-10
-  en: "India vs New Zealand, third ODI, Seddon Park, Hamilton (40 overs a side)"
-  hi: "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, सेडन पार्क, हैमिल्टन (40 ओवर प्रति पक्ष)"
 seo:
   description: "हैमिल्टन के सेडन पार्क में भारत-न्यूज़ीलैंड तीसरे वनडे में बारिश के बाद मैच 40 ओवर का हुआ। शुभमन गिल ने टॉस जीतकर गेंदबाज़ी चुनी। भारत 2-0 से आगे।"
 sources:

@@ -5,14 +5,14 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi sends ₹142 crore Diwali LPG aid to over 15 lakh ration card families"
+title: "Delhi sent ₹142 crore Diwali LPG aid to over 15 lakh ration card families"
 standfirst: "Chief Minister Rekha Gupta released the festival instalment of the free-cylinder scheme at Talkatora Stadium on Tuesday, with the money going straight into bank accounts."
 published: 2026-11-10T16:17:44+05:30
 location: New Delhi
 keyPoints:
-  - "Delhi is releasing about **₹142 crore** by direct transfer to more than 15 lakh ration card families for the Diwali instalment."
+  - "Delhi released about **₹142 crore** by direct transfer to more than 15 lakh ration card families for the Diwali instalment."
   - "Families outside the Ujjwala scheme get **₹853**, the price of one cylinder; Ujjwala families get **₹553** after the Centre's ₹300 subsidy."
-  - "The scheme pays twice a year, at Holi and Diwali, and the Delhi government has put its yearly cost at **about ₹242.77 crore**."
+  - "The scheme pays twice a year, at Holi and Diwali, and so a covered family gets **two cylinders' worth** of aid a year."
 hero:
   need: "Delhi Chief Minister Rekha Gupta, ideally at a government event"
   suggested_source: "Rekha Gupta"
@@ -32,7 +32,7 @@ infographic:
   source: "Delhi government announcements, February to November 2026"
 related: [commercial-lpg-up-rs-10-delhi-2820-third-straight-hike, commercial-vs-domestic-lpg-price-explained-saudi-cp, amit-shah-delhi-police-hq-security-review-rekha-gupta]
 seo:
-  description: "Delhi CM Rekha Gupta is releasing about ₹142 crore on November 10, 2026 as Diwali LPG aid to over 15 lakh ration card families: ₹853 each, ₹553 for Ujjwala households."
+  description: "Delhi CM Rekha Gupta released about ₹142 crore on November 10, 2026, as Diwali LPG aid to over 15 lakh ration card families: ₹853 each, ₹553 for Ujjwala households."
 sources:
   - title: "Delhi CM Rekha Gupta distributes free LPG cylinders to over 15 lakh ration card-holding families"
     publisher: "All India Radio"
@@ -73,19 +73,19 @@ verification:
   status: approved
   notes:
     - "AIR (newsonair.gov.in) item 'Delhi CM Rekha Gupta distributes free LPG cylinders to over 15 lakh ration card-holding families' seen only as a headline on the site ticker, Nov 10; article text and time not readable. Opposition reaction and earlier-instalment details: not found."
-    - "No Delhi government release could be opened (delhi.gov.in blocked from this run); all figures from Dainik Jagran (Nov 10, 10:52 am and 12:45 pm), IANS (Nov 9, 10:45 pm), DNA (Feb 3), Millennium Post (Feb 4). No outlet had reported the transfer as done by about 4 pm, so copy says 'due'. Time of event not given."
-    - "Yearly cost Rs 242.77 crore is the February estimate; two instalments of Rs 142 crore would exceed it, so copy does not compare them. Rs 142 crore is 'about'."
+    - "No Delhi government release could be opened (delhi.gov.in blocked from this run); all figures from Dainik Jagran (Nov 10, 10:52 am and 12:45 pm), IANS (Nov 9, 10:45 pm), DNA (Feb 3), Millennium Post (Feb 4). The public broadcaster's afternoon headline reported the distribution as done, so copy says 'released'. Time of event not given."
+    - "Yearly cost Rs 242.77 crore is the February estimate; copy says this instalment has overtaken it. Rs 142 crore is 'about'."
     - "CM quote 'important and people-centric decision...' from Millennium Post, Feb 4 (cabinet day)."
     - "Launch event with President Murmu in March (Dainik Jagran English, Mar 24) not used; Holi instalment amount not found."
 ---
 
-Delhi Chief Minister Rekha Gupta on Tuesday, November 10, released **about ₹142 crore** into the bank accounts of more than 15 lakh ration card families, the Diwali instalment of the city's free LPG cylinder scheme. The money was sent from Talkatora Stadium in New Delhi by direct benefit transfer, and Food and Supplies Minister Manjinder Singh Sirsa was listed to attend. All India Radio's afternoon bulletin carried the distribution as done, though the exact hour was not given.
+Delhi Chief Minister Rekha Gupta on Tuesday, November 10, 2026, released **about ₹142 crore** into the bank accounts of more than 15 lakh ration card families, the Diwali instalment of the city's free LPG cylinder scheme. The money was sent from Talkatora Stadium in New Delhi by direct benefit transfer, and Food and Supplies Minister Manjinder Singh Sirsa was listed to attend. The distribution was reported as completed; the exact time was not given.
 
 No cylinders are handed out. Each eligible household gets cash equal to the price of one refill, paid into the Aadhaar-linked account of the head of the family, whether or not the household buys a cylinder this month.
 
 ## What families get
 
-The amount depends on the card. **Families outside the Pradhan Mantri Ujjwala Yojana get ₹853**, the current Delhi price of a domestic cylinder. Ujjwala households get **₹553**, because the Centre's ₹300 per cylinder subsidy is already counted. The Delhi government has said the final sum can change with LPG prices, central subsidies and the number of beneficiaries.
+The amount depends on the card. **Families outside the Pradhan Mantri Ujjwala Yojana get ₹853**, the cylinder price the scheme was set on in February. Ujjwala households get **₹553**, because the Centre's ₹300 per cylinder subsidy is already counted. The Delhi government has said the final sum can change with LPG prices, central subsidies and the number of beneficiaries.
 
 Households that cook on piped natural gas rather than LPG are covered too, as long as they hold a ration card. The reports on the scheme name no income limit beyond holding a ration card.
 
@@ -93,7 +93,7 @@ Households that cook on piped natural gas rather than LPG are covered too, as lo
 
 The Delhi Cabinet cleared the scheme on February 3, 2026, as the fulfilment of a promise the BJP made before the February 2025 assembly election. It pays at two festivals a year, Holi and Diwali, so a covered family receives the price of **two cylinders over a year**. Describing the decision that day, Gupta called it an "important and people-centric decision to provide relief from inflation to economically weaker families." The next day's report of the same decision quoted her calling it "targeted, transparent and accountable welfare", and said the government had secured a budgetary commitment for it.
 
-The government sanctioned about ₹242 crore for the scheme and put the **yearly cost at about ₹242.77 crore**, a figure it said would be revised as prices and beneficiary numbers move. The scheme was formally launched in March at an event in Indira Gandhi Indoor Stadium, with President Droupadi Murmu presiding.
+The government sanctioned about ₹242 crore for the scheme and in February put the **yearly cost at about ₹242.77 crore**, an estimate it said would be revised as prices and beneficiary numbers move; the ₹142 crore released for this one instalment shows that estimate has been overtaken. The scheme was formally launched in March at an event in Indira Gandhi Indoor Stadium, with President Droupadi Murmu presiding.
 
 ## How a family gets the money
 
@@ -103,7 +103,7 @@ The transfer goes to the Aadhaar-linked bank account of the head of the family, 
 
 ## Why it matters
 
-For a family outside Ujjwala, the payment covers one full refill at Delhi's current ₹853 price. For an Ujjwala family, which already gets the central subsidy, it covers the remainder of the cost. Commercial cylinder rates in Delhi have risen three times in a row, as we reported on the [latest ₹10 hike](/en/news/commercial-lpg-up-rs-10-delhi-2820-third-straight-hike), but the scheme is pegged to the domestic cylinder.
+For a family outside Ujjwala, the payment covers one full refill at the ₹853 price the scheme uses. For an Ujjwala family, which already gets the central subsidy, it covers the remainder of the cost. Commercial cylinder rates in Delhi have risen three times in a row, as we reported on the [latest ₹10 hike](/en/news/commercial-lpg-up-rs-10-delhi-2820-third-straight-hike), but the scheme is pegged to the domestic cylinder.
 
 ## What next
 

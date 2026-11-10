@@ -30,10 +30,6 @@ infographic:
     - {icon: cricket, value: "40", label: "overs a side, 8 at most for each bowler"}
   source: "Match reports, November 10, 2026"
 related: [hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match, india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi, india-beat-new-zealand-five-wickets-dls-eden-park-first-odi]
-upcoming:
-  date: 2026-11-10
-  en: "India vs New Zealand, third ODI, Seddon Park, Hamilton (40 overs a side)"
-  hi: "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, सेडन पार्क, हैमिल्टन (40 ओवर प्रति पक्ष)"
 seo:
   description: "Shubman Gill won the toss and chose to bowl as the third ODI between India and New Zealand at Seddon Park, Hamilton, was cut to 40 overs a side by rain. India lead 2-0."
 sources:

@@ -1,0 +1,21 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-10T16:09:24+05:30",
+ "end": "2026-11-10T16:39:41+05:30",
+ "summary": "Delhi Diwali LPG aid leads; 1 story, no holds",
+ "new": [
+  "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+   "why": "The figures contradict each other in front of the reader. Key point 3 says the scheme pays twice a year and costs about Rs 242.77 crore a year, right after key point 1 says one instalment is about Rs 142 crore (two instalments = Rs 284 crore). The verification note admits this but the copy still put",
+   "done": "Removed Rs 242.77 crore from key points (now: two cylinders a year); body says the February yearly estimate is overtaken by this Rs 142 crore instalment; Rs 853 called the price the scheme was set on in February, not current; Hindi title and SEO given ne. More than 15 lakh families is consistent with Rs 142 crore (about 16.6 lakh at Rs 853)."
+  }
+ ],
+ "breaches": [],
+ "lead": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
+}

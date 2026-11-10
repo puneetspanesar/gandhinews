@@ -45130,8 +45130,21 @@
   "srcWidth": 1714,
   "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
   "licence": "GODL-India",
-  "alt": "Delhi Chief Minister Rekha Gupta meets Prime Minister Narendra Modi in New Delhi, June 2025 (file photo)",
-  "alt_hi": "दिल्ली की मुख्यमंत्री रेखा गुप्ता प्रधानमंत्री नरेंद्र मोदी से मिलती हुईं, नई दिल्ली, जून 2025 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Delhi_CM_Rekha_Gupta_meets_PM_Modi.jpg"
+  "alt": "Delhi Chief Minister Rekha Gupta in New Delhi, June 2025 (file photo)",
+  "alt_hi": "दिल्ली की मुख्यमंत्री रेखा गुप्ता, नई दिल्ली, जून 2025 (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_CM_Rekha_Gupta_meets_PM_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta--1280.jpg",
+   "src800": "/photos/t-delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta--640.jpg",
+   "cutout": true,
+   "with": [
+    "finance-ministry-idbi-2003-parliament-assurance-not-binding",
+    "rupee-slips-12-paise-94-93-brent-fii-selling-october-23",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "photo",
+   "subj": "e0e0e0e0f1f9fcde",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons"
+  }
  }
 }
