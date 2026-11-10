@@ -6,7 +6,7 @@ section: world
 format_label: "Explained / Ukraine"
 topics: []
 title: "Black Sea food corridors explained: the 2022 grain deal, why it ended, and what India is being asked to do"
-standfirst: "Zelenskyy said on November 9, 2026 that India is ready to mediate food corridors through the Black Sea, a day before Abu Dhabi talks opened. How the first grain deal worked, why Russia left it, and why shipping is dangerous again."
+standfirst: "Zelenskyy said on November 9, 2026, that India is ready to mediate food corridors through the Black Sea, a day before Abu Dhabi talks opened. How the first grain deal worked, why Russia left it, and why shipping is dangerous again."
 published: 2026-11-10T17:47:53+05:30
 shortAnswer: "A food corridor is a safe sea route that lets grain ships leave Ukraine's Black Sea ports without being attacked. The UN and Turkey brokered one in July 2022, and it carried about 32.9 million tonnes of food before Russia quit it in July 2023. Since then Ukraine has run its own route under fire, and in October 2026 drones hit at least seven cargo ships. On November 9, 2026 Ukraine's president said India is ready to mediate a new arrangement; India has not confirmed this."
 hero:
@@ -28,7 +28,11 @@ infographic:
     - {icon: grains, value: "32.9 million t", label: "food shipped under the 2022 deal"}
     - {icon: anchor, value: "7 ships", label: "hit by drones off Romania and Bulgaria in October 2026"}
     - {icon: grains, value: "30 million t", label: "Ukrainian produce expected to go unexported this season"}
-  timeline: {title: "The corridor in dates", items: [{date: "July 2022", text: "UN and Turkey broker the Istanbul deal", icon: handshake}, {date: "July 2023", text: "Russia quits the deal", icon: anchor}, {date: "October 2026", text: "Drones hit at least seven cargo ships", icon: boat}, {date: "November 9, 2026", text: "Zelenskyy says India ready to mediate", icon: handshake}]}
+  timeline:
+    - {date: "July 2022", text: "UN and Turkey broker the Istanbul deal", icon: handshake}
+    - {date: "July 2023", text: "Russia quits the deal", icon: anchor}
+    - {date: "October 2026", text: "Drones hit at least seven cargo ships", icon: boat}
+    - {date: "November 9, 2026", text: "Zelenskyy says India ready to mediate", icon: handshake}
   source: "UN and Turkey brokered deal; Zelenskyy, November 9, 2026"
 sources:
   - title: "Russia-Ukraine Black Sea grain deal: All you need to know"
@@ -80,7 +84,7 @@ Ukraine did not stop shipping. From August 2023 it opened **its own temporary ch
 
 ## Why is it back in the news?
 
-**Because ships are being sunk again.** In October 2026 at least seven cargo vessels were reported hit by drones off Romania and Bulgaria, leaving about 30 sailors dead or missing, and the cargo ship Khoryv was sunk off Constanta on October 23, 2026. Ukraine's agriculture minister said on September 29, 2026 that he saw no sign of a grain truce in the coming months. Reported estimates say about **30 million tonnes** of Ukrainian produce will go unexported this season, and wheat prices have reached a three-year high.
+**Because ships are being sunk again.** In October 2026 at least seven cargo vessels were reported hit by drones off Romania and Bulgaria, leaving about 30 sailors dead or missing, and the cargo ship Khoryv was sunk off Constanta on October 23, 2026. Ukraine's agriculture minister said on September 29, 2026, that he saw no sign of a grain truce in the coming months. Reported estimates say about **30 million tonnes** of Ukrainian produce will go unexported this season, and wheat prices have reached a three-year high.
 
 Zelenskyy said after a call with Prime Minister Narendra Modi on Monday, November 9, 2026: "We discussed Russia's blocking of grain exports via the Black Sea. **India is ready to mediate** in establishing food corridors, and we are counting on these efforts to continue."
 

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+    "id": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
     "overlay": {
       "kicker": {
-        "en": "States / Delhi",
-        "hi": "राज्य / दिल्ली"
+        "en": "World / Ukraine",
+        "hi": "दुनिया / यूक्रेन"
       },
       "value": {
-        "en": "₹142 crore to 15 lakh families",
-        "hi": "15 लाख परिवारों को ₹142 करोड़"
+        "en": "Zelenskyy says India will mediate; Delhi silent",
+        "hi": "ज़ेलेंस्की: भारत खाद्य गलियारों पर मध्यस्थता को तैयार"
       },
       "text": {
         "en": "",
@@ -17,18 +17,19 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court",
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
+      "zelenskyy-india-mediate-black-sea-food-corridors-claim",
+      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+      "delhi-air-monitors-that-go-blank-on-the-worst-night",
+      "us-chip-export-controls-explained-nvidia-megaspeed-congress-bills"
     ],
     "relatedBeside": [
       "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
+      "swachh-survekshan-2025-26-awards-president-murmu-november-11"
     ],
     "live": {
       "title": {
-        "en": "Delhi",
-        "hi": "दिल्ली"
+        "en": "Ukraine",
+        "hi": "यूक्रेन"
       }
     }
   },
@@ -46,80 +47,80 @@
         }
       },
       {
-        "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "lead": {
+          "en": "Urban Affairs:",
+          "hi": "शहरी विकास:"
+        },
+        "text": {
+          "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
+          "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
+        }
+      },
+      {
+        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "lead": {
+          "en": "Gujarat:",
+          "hi": "गुजरात:"
+        },
+        "text": {
+          "en": "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
+          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex and Nifty end at their highest since February as PSU banks surge, with markets shut today",
+          "hi": "पीएसयू बैंकों की तेज़ी से सेंसेक्स-निफ्टी फरवरी के बाद के सबसे ऊंचे स्तर पर, आज बाज़ार बंद"
+        }
+      },
+      {
+        "link": "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+        "lead": {
+          "en": "Assam:",
+          "hi": "असम:"
+        },
+        "text": {
+          "en": "Assam evictions will go on and are not aimed at any religion, Himanta Sarma says",
+          "hi": "असम में बेदखली जारी रहेगी, किसी धर्म को निशाना नहीं: हिमंत सरमा"
+        }
+      },
+      {
+        "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "lead": {
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
+        },
+        "text": {
+          "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
+          "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
+        }
+      },
+      {
+        "link": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
-          "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
+          "en": "India can win the ODI series in Hamilton, but rain and a hurried pitch loom",
+          "hi": "हैमिल्टन में भारत सीरीज़ जीत सकता है, पर बारिश और जल्दबाजी में बनी पिच का साया"
         }
       },
       {
-        "link": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+        "link": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "Mandhana to lead India women in all formats on December tour of South Africa",
-          "hi": "दिसंबर में दक्षिण अफ्रीका दौरे पर तीनों फॉर्मेट में स्मृति मंधाना होंगी भारतीय महिला टीम की कप्तान"
-        }
-      },
-      {
-        "link": "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Shinde Sena's Ramdas Kadam seeks probe into Sunil Tatkare's role in Ajit Pawar's air crash",
-          "hi": "शिंदे सेना के रामदास कदम ने अजित पवार के विमान हादसे में सुनील तटकरे की भूमिका की जांच मांगी"
-        }
-      },
-      {
-        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
-          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
-        }
-      },
-      {
-        "link": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Maldives frees 24 Thoothukudi fishermen held for nearly a month; Tamil Nadu pays for flight home",
-          "hi": "मालदीव ने थूथुकुडी के 24 मछुआरों को लगभग एक महीने बाद छोड़ा, तमिलनाडु ने उठाया घर वापसी का हवाई खर्च"
-        }
-      },
-      {
-        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
-          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
-        }
-      },
-      {
-        "link": "womens-reservation-33-per-cent-when-will-it-start-explained",
-        "lead": {
-          "en": "Women's reservation:",
-          "hi": "महिला आरक्षण:"
-        },
-        "text": {
-          "en": "Women's reservation explained: the 33% law is in force, so when will women actually get the seats?",
-          "hi": "महिला आरक्षण: 33% का कानून लागू है, तो महिलाओं को सीटें असल में कब मिलेंगी?"
+          "en": "Rahul Gandhi renews debate challenge to Modi after 'dimagi Naxals' remark in Bastar",
+          "hi": "बस्तर में 'दिमागी नक्सल' वाले बयान के बाद राहुल गांधी ने मोदी को फिर दी बहस की चुनौती"
         }
       }
     ]
@@ -187,26 +188,26 @@
   },
   "topStories": {
     "big": {
-      "id": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+      "id": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
       "also": []
     },
     "list": [
-      "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-      "womens-reservation-33-per-cent-when-will-it-start-explained"
+      "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+      "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
     ],
     "also": [
-      "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-      "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply"
+      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+      "black-sea-food-corridors-explained-grain-deal-india-mediation"
     ]
   },
   "startHere": [
+    "black-sea-food-corridors-explained-grain-deal-india-mediation",
+    "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
     "womens-reservation-33-per-cent-when-will-it-start-explained",
-    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-    "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply",
-    "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
+    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
   ],
   "trackers": [
     {
@@ -276,9 +277,9 @@
   },
   "factCheck": {
     "cards": [
+      "zelenskyy-india-mediate-black-sea-food-corridors-claim",
       "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
-      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
-      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim"
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim"
     ]
   },
   "explained": [
@@ -359,11 +360,11 @@
     }
   ],
   "opinion": [
+    "delhi-air-monitors-that-go-blank-on-the-worst-night",
+    "megamalai-ruling-forest-rights-line-must-be-honest",
     "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
     "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
-    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration",
-    "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
-    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy"
+    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration"
   ],
   "sections": [
     {
@@ -429,9 +430,9 @@
       "section": "world",
       "lead": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
       "list": [
-        "modi-zelenskyy-phone-call-india-peace-efforts",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
       ]
     },
     {
@@ -474,18 +475,6 @@
         "hi": "आज"
       },
       "text": {
-        "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
-        "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "Fresh western disturbance reaches Jammu and Kashmir, rain and snow likely",
         "hi": "नया पश्चिमी विक्षोभ जम्मू-कश्मीर पहुंचेगा, बारिश और बर्फबारी की संभावना"
       },
@@ -502,6 +491,18 @@
         "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
       },
       "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
+        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -528,23 +529,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T08:37:46+05:30",
-      "ids": [
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
-        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
-      ]
-    },
     {
       "at": "2026-11-10T10:44:30+05:30",
       "ids": [
@@ -647,6 +631,21 @@
         "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
         "womens-reservation-33-per-cent-when-will-it-start-explained"
+      ]
+    },
+    {
+      "at": "2026-11-10T18:25:39+05:30",
+      "ids": [
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
       ]
     }
   ],

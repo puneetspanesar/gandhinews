@@ -45153,11 +45153,127 @@
   "src800": "/photos/o-zelenskyy-india-mediate-black-sea-food-corridors-claim-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 612,
-  "credit": "Photo: Volodymyr Zelensky / Wikimedia Commons",
-  "licence": "CC0",
+  "srcWidth": 990,
+  "credit": "Photo: President of Ukraine from Україна / Wikimedia Commons",
+  "licence": "Public domain",
   "alt": "Volodymyr Zelenskyy (file photo)",
   "alt_hi": "वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2024.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2022.jpg",
+  "treated": {
+   "src": "/photos/t-zelenskyy-india-mediate-black-sea-food-corridors-claim-1280.jpg",
+   "src800": "/photos/t-zelenskyy-india-mediate-black-sea-food-corridors-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "kyiv-draft-office-shooting-six-injured",
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout"
+   ],
+   "kind": "portrait",
+   "subj": "e0f9f9f9f8f81800",
+   "credit": "Photos: Presidential Office of Ukraine / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons"
+  }
+ },
+ "forest-rights-act-explained-megamalai-silk-cotton-supreme-court": {
+  "id": "o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+  "src": "/photos/o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court-1280.jpg",
+  "src800": "/photos/o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4608,
+  "credit": "Photo: A. J. T. Johnsingh, WWF-India and NCF / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The forested Megamalai ghats in Theni district, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु के थेनी जिले में मेघमलै के जंगल वाले घाट (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_view_of_Megamalai_Ghats,_AJT_Johnsingh._DSCN0744.jpg",
+  "treated": {
+   "src": "/photos/t-forest-rights-act-explained-megamalai-silk-cotton-supreme-co-1280.jpg",
+   "src800": "/photos/t-forest-rights-act-explained-megamalai-silk-cotton-supreme-co-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+    "chennai-rain-schools-shut-four-districts-low-pressure"
+   ],
+   "kind": "photo",
+   "subj": "ffff171a000000f0",
+   "credit": "Photos: A. J. T. Johnsingh, WWF-India and NCF / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; L.vivian.richard"
+  }
+ },
+ "megamalai-ruling-forest-rights-line-must-be-honest": {
+  "id": "o-megamalai-ruling-forest-rights-line-must-be-honest",
+  "src": "/photos/o-megamalai-ruling-forest-rights-line-must-be-honest-1280.jpg",
+  "src800": "/photos/o-megamalai-ruling-forest-rights-line-must-be-honest-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4160,
+  "credit": "Photo: Shanmugam. M / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Settlements and estates in the Megamalai hills, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु की मेघमलै पहाड़ियों में बस्तियां और बागान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Megamalai-hidden_paradise.jpg",
+  "treated": {
+   "src": "/photos/t-megamalai-ruling-forest-rights-line-must-be-honest-1280.jpg",
+   "src800": "/photos/t-megamalai-ruling-forest-rights-line-must-be-honest-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16--p2",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "ff1f404603020000",
+   "credit": "Photos: Shanmugam. M / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
+ },
+ "black-sea-food-corridors-explained-grain-deal-india-mediation": {
+  "id": "o-black-sea-food-corridors-explained-grain-deal-india-mediation",
+  "src": "/photos/o-black-sea-food-corridors-explained-grain-deal-india-mediation-1280.jpg",
+  "src800": "/photos/o-black-sea-food-corridors-explained-grain-deal-india-mediation-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4000,
+  "credit": "Photo: Zinnsoldat / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Cranes at the port of Odesa on the Black Sea (file photo)",
+  "alt_hi": "काला सागर पर ओडेसा बंदरगाह की क्रेनें (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Port_of_Odesa_18.jpg",
+  "treated": {
+   "src": "/photos/t-black-sea-food-corridors-explained-grain-deal-india-mediatio-1280.jpg",
+   "src800": "/photos/t-black-sea-food-corridors-explained-grain-deal-india-mediatio-640.jpg",
+   "cutout": false,
+   "with": [
+    "romania-blames-russia-black-sea-merchant-ship-attacks",
+    "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+    "iom-warns-millions-ukrainians-displacement-winter"
+   ],
+   "kind": "photo",
+   "subj": "fffffe0000000c08",
+   "credit": "Photos: Zinnsoldat / Wikimedia Commons; Mass Communication Specialist 3rd Class Chris Roys / Wikimedia Commons; Alex Blokha / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons"
+  }
+ },
+ "delhi-air-monitors-that-go-blank-on-the-worst-night": {
+  "id": "o-delhi-air-monitors-that-go-blank-on-the-worst-night",
+  "src": "/photos/o-delhi-air-monitors-that-go-blank-on-the-worst-night-1280.jpg",
+  "src800": "/photos/o-delhi-air-monitors-that-go-blank-on-the-worst-night-640.jpg",
+  "width": 1280,
+  "height": 950,
+  "srcWidth": 4000,
+  "credit": "Photo: Sumita Roy Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Smog on Chelmsford Road, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली की चेम्सफोर्ड रोड पर स्मॉग (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Low_visibility_due_to_Smog_in_entry_of_Chelmsford_Road_New_Delhi_31st_Dec_2017_9AM_DSCN8819_1.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-air-monitors-that-go-blank-on-the-worst-night-1280.jpg",
+   "src800": "/photos/t-delhi-air-monitors-that-go-blank-on-the-worst-night-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+    "grap-explained-delhi-air-stages-what-is-banned",
+    "delhi-air-set-to-turn-poor-stubble-fires-dry-week"
+   ],
+   "kind": "photo",
+   "subj": "ffff3c1838380000",
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons"
+  }
  }
 }

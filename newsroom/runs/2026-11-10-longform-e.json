@@ -1,0 +1,36 @@
+{
+ "run": "longform-e",
+ "start": "2026-11-10T17:40:13+05:30",
+ "end": "2026-11-10T18:48:34+05:30",
+ "summary": "5 long-form pieces: Forest Rights Act and Black Sea explainers, Megamalai and Delhi air-monitor editorials, Zelenskyy mediation claim fact check (Misleading)",
+ "new": [
+  "delhi-air-monitors-that-go-blank-on-the-worst-night",
+  "megamalai-ruling-forest-rights-line-must-be-honest",
+  "black-sea-food-corridors-explained-grain-deal-india-mediation",
+  "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+  "zelenskyy-india-mediate-black-sea-food-corridors-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "megamalai-ruling-forest-rights-line-must-be-honest",
+   "why": "The standfirst (EN and HI) says 'a state that stalled the claims process should not be the one to decide them', but the editorial never argues this. Its recommendations accept that Tamil Nadu forms the gram sabhas and decides the claims within five months (it asks the state to treat the 30-day deadline as final), and under the Act the gram sabha and district committees decide claims, not 'the state'. The standfirst promises an argument the piece does not make.",
+   "done": "Both standfirsts rewritten to match the body: 'a state the court blamed for the delay must now meet its deadline in the open' (Hindi to match)."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Balance (rule 11): the running Ukraine story has the lead and then the two slots directly under it, 'Zelenskyy says India is ready to mediate Black Sea food corridors; India's own statement does not say so' and 'Modi speaks to Zelenskyy, says India ready to contribute to peace in Ukraine'. That is three Ukraine items side by side on the same subject, and the fact-check headline nearly repeats the lead's. Keep the lead and the fact check only, and move 'Modi speaks to Zelenskyy' down the page (it is a day old and the lead story already covers it). Fill the freed slot with a different subject, such as 'Delhi releases missing Diwali-night air data' from Must Read. 2) Empty space (rule 9): on desktop the middle column ends after 'India can win the ODI series in Hamilton' about 100 to 150px above the bottom of the left column, leaving a white gap. Add one more middle-column item or balance the columns so they end level.",
+   "done": "Modi call story out of the slots under the lead (four other-subject items fill them, fact check kept first); middle and left columns now end level; gate.sh and check_layout pass."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 15:02 as well: zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+  "led at 15:02 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+  "led or sat beside the lead at 14:49 as well: zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+  "led or sat beside the lead at 14:43 as well: zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+  "led or sat beside the lead at 14:37 as well: zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
+ ],
+ "lead": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
+}

@@ -26,7 +26,7 @@ for f in glob.glob(OUT + '*'): os.remove(f)
 
 
 def fm(sid, lang='en'):
-    for t in ('news', 'explainer', 'editorial'):
+    for t in ('news', 'explainer', 'editorial', 'factcheck'):
         p = f'{R}content/{lang}/{t}/{sid}.md'
         if os.path.exists(p):
             raw = open(p).read()

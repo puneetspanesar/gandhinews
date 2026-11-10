@@ -6,7 +6,7 @@ section: world
 format_label: "World / Ukraine"
 topics: []
 title: "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open"
-standfirst: "After his call with Prime Minister Modi, Ukraine's president said India is ready to help set up food corridors through the Black Sea and asked Delhi to name the steps it can take to end the war. The trilateral talks in Abu Dhabi began on Tuesday."
+standfirst: "After his call with Prime Minister Modi, Ukraine's president said India is ready to help set up food corridors through the Black Sea and asked Delhi to name the steps it can take to end the war. India has not confirmed it. The trilateral talks in Abu Dhabi began on Tuesday."
 published: 2026-11-10T14:19:07+05:30
 location: Kyiv
 keyPoints:
@@ -19,7 +19,7 @@ hero:
   subjects: ["Volodymyr Zelenskyy", "Narendra Modi"]
   alt: "Ukrainian President Volodymyr Zelenskyy (file photo)"
   overlay:
-    value: "Zelenskyy: India ready to mediate food corridors"
+    value: "Zelenskyy says India will mediate; Delhi silent"
 related: [modi-zelenskyy-phone-call-india-peace-efforts, romania-blames-russia-black-sea-merchant-ship-attacks, drone-attack-sinks-ship-off-bulgaria-black-sea, trump-xi-putin-apec-shenzhen-meeting-china-in-contact]
 seo:
   description: "Zelenskyy said on November 9, 2026, that India is ready to mediate Black Sea food corridors after his call with Modi, a day before Abu Dhabi talks began."

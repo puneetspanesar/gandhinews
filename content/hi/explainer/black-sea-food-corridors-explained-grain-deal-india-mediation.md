@@ -29,7 +29,11 @@ infographic:
     - {icon: grains, value: "3.29 करोड़ टन", label: "2022 के समझौते में गई खाद्य सामग्री"}
     - {icon: anchor, value: "7 जहाज", label: "अक्टूबर 2026 में रोमानिया-बुल्गारिया के पास ड्रोन हमले में"}
     - {icon: grains, value: "3 करोड़ टन", label: "इस सीज़न बिना निर्यात रहने का अनुमान"}
-  timeline: {title: "गलियारा, तारीखों में", items: [{date: "जुलाई 2022", text: "संयुक्त राष्ट्र और तुर्की ने इस्तांबुल समझौता कराया", icon: handshake}, {date: "जुलाई 2023", text: "रूस समझौते से हटा", icon: anchor}, {date: "अक्टूबर 2026", text: "ड्रोन हमलों में कम से कम सात मालवाहक जहाज निशाने पर", icon: boat}, {date: "9 नवंबर 2026", text: "ज़ेलेंस्की: मध्यस्थता को तैयार भारत", icon: handshake}]}
+  timeline:
+    - {date: "जुलाई 2022", text: "संयुक्त राष्ट्र और तुर्की ने इस्तांबुल समझौता कराया", icon: handshake}
+    - {date: "जुलाई 2023", text: "रूस समझौते से हटा", icon: anchor}
+    - {date: "अक्टूबर 2026", text: "ड्रोन हमलों में कम से कम सात मालवाहक जहाज निशाने पर", icon: boat}
+    - {date: "9 नवंबर 2026", text: "ज़ेलेंस्की: मध्यस्थता को तैयार भारत", icon: handshake}
   source: "संयुक्त राष्ट्र और तुर्की की मध्यस्थता का समझौता; ज़ेलेंस्की, 9 नवंबर 2026"
 sources:
   - title: "Russia-Ukraine Black Sea grain deal: All you need to know"

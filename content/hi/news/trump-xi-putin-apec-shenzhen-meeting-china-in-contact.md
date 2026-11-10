@@ -14,7 +14,7 @@ keyPoints:
   - "ट्रंप ने रविवार को कहा कि उन्हें लगता है कि वे शेनझेन में एपेक सम्मेलन में **शी जिनपिंग और व्लादिमीर पुतिन** से मिलेंगे।"
   - "चीन के विदेश मंत्रालय ने सोमवार को कहा कि वह **संबंधित पक्षों के संपर्क में है**, पर मुलाकात की पुष्टि नहीं की।"
   - "सम्मेलन **18 और 19 नवंबर** को है; भारत सदस्य नहीं है, पर तेल के बिल और रूस पर प्रतिबंधों के जरिए उसका दांव लगा है।"
-upcoming: {date: 2026-11-10, en: "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11", hi: "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"}
+upcoming: {date: 2026-11-11, en: "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two", hi: "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"}
 hero:
   need: "Donald Trump and Xi Jinping, two-panel"
   suggested_source: "Donald Trump"

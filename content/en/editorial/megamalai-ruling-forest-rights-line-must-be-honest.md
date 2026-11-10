@@ -6,7 +6,7 @@ section: policy
 format_label: "Editorial"
 topics: [supreme-court]
 title: "The Megamalai ruling draws a line on forest rights. The process behind it must now be honest to those on the right side of it"
-standfirst: "The Supreme Court is right that a planned cash crop is not a forest right. But 1,595 permanent residents of Megamalai still have claims to be heard, and a state that stalled the claims process should not be the one to decide them."
+standfirst: "The Supreme Court is right that a planned cash crop is not a forest right. But 1,595 permanent residents of Megamalai still have claims to be heard, and a state the court blamed for the delay must now meet its deadline in the open."
 published: 2026-11-10T17:42:20+05:30
 keyPoints:
   - "The court held on November 6 that **planned cultivation of a commercial crop is not a forest right**, and excluded 2,999 occupants who live outside the forest or only temporarily in it."
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. All facts (November 6, 2026 order, 4,594 occupants on 5,072.64 hectares, categories 1,595 / 232 / 2,767, 2,999 excluded, Gram sabha delay blamed on the state, about 40 gram sabhas and about 1,600 claims, 30 days and five months, Special Committee under former CJI B R Gavai reporting in sealed cover, 118 government servants identified as encroachers, Central Empowered Committee to examine financing and silk cotton status, next hearing February 1, 2027) are from the desk's own news story of November 10, which was written from the order text read through a mirror, with a trade-press cross-check."
+    - "Editorial view of the desk. All facts (November 6, 2026, order, 4,594 occupants on 5,072.64 hectares, categories 1,595 / 232 / 2,767, 2,999 excluded, Gram sabha delay blamed on the state, about 40 gram sabhas and about 1,600 claims, 30 days and five months, Special Committee under former CJI B R Gavai reporting in sealed cover, 118 government servants identified as encroachers, Central Empowered Committee to examine financing and silk cotton status, next hearing February 1, 2027) are from the desk's own news story of November 10, which was written from the order text read through a mirror, with a trade-press cross-check."
     - "No new searches in this run. The order was not re-read; no claim goes beyond what the news story says."
     - "No reaction from tribal groups or the state found; none quoted. Recommendations are the desk's own."
 ---

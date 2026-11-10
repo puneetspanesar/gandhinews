@@ -13,7 +13,7 @@ keyPoints:
   - "Trump said on Sunday he thinks he will meet **Xi Jinping and Vladimir Putin** at the APEC summit in Shenzhen."
   - "China's foreign ministry said on Monday it is **in communication with relevant parties** but did not confirm a meeting."
   - "The summit runs **November 18 and 19**; India, which is not a member, has a stake through its oil bill and Russia sanctions."
-upcoming: {date: 2026-11-10, en: "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11", hi: "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"}
+upcoming: {date: 2026-11-11, en: "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two", hi: "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"}
 hero:
   need: "Donald Trump and Xi Jinping, two-panel"
   suggested_source: "Donald Trump"

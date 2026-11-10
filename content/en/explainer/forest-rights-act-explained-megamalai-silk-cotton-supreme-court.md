@@ -6,7 +6,7 @@ section: policy
 format_label: "Explained / Law"
 topics: [supreme-court]
 title: "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling"
-standfirst: "On November 6, 2026 the Supreme Court said planting a commercial crop in a forest is not a right under the Forest Rights Act, and shut out 2,999 silk cotton cultivators in Tamil Nadu. What the 2006 law gives, who qualifies, and what changes now."
+standfirst: "On November 6, 2026, the Supreme Court said planting a commercial crop in a forest is not a right under the Forest Rights Act, and shut out 2,999 silk cotton cultivators in Tamil Nadu. What the 2006 law gives, who qualifies, and what changes now."
 published: 2026-11-10T17:47:28+05:30
 shortAnswer: "The Forest Rights Act, 2006 recognises the rights of Scheduled Tribes and other traditional forest dwellers who have lived in and depended on forest land, including the right to hold and live on it and to collect minor forest produce. In a ruling dated November 6, 2026, the Supreme Court held that planned cultivation of a commercial crop is not minor forest produce and cannot be claimed as a forest right, and excluded 2,999 occupants of the Megamalai forests in Tamil Nadu who live outside the forest or only temporarily in it. The 1,595 permanent residents are not excluded, and their claims now run to a court-set timetable."
 hero:
@@ -18,7 +18,7 @@ hero:
     value: "Who is a forest dweller?"
 related: [sc-fra-commercial-cultivation-megamalai-silk-cotton, bandipur-tiger-reserve-63-per-cent-vacancies-ntca]
 seo:
-  description: "What the Forest Rights Act, 2006 recognises, who counts as a forest dweller, and what the Supreme Court decided on November 6, 2026 about silk cotton cultivation in Megamalai."
+  description: "What the Forest Rights Act, 2006 recognises, who counts as a forest dweller, and what the Supreme Court decided on November 6, 2026, about silk cotton cultivation in Megamalai."
 infographic:
   kicker: "Forest Rights Act, 2006"
   headline: "Who counts as a forest dweller"
@@ -49,8 +49,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Order facts (categories 1,595 / 232 / 2,767; 4,594 occupants; 5,072.64 ha; 3,637.83 ha under silk cotton; Special Committee under former CJI B R Gavai; 30 days for gram sabhas; February 1, 2027 listing) are carried over from the desk's November 10 news story, which read the order via a mirror. The Verdictum page could not be opened this run."
-    - "Description of the Act (Sections 2(c), 2(o), 3(1)(a), 3(1)(c), 4(2), 6, December 13, 2005 cut-off, four-hectare cap on individual holdings, three-tier committees) is from general knowledge of the statute; the Act text was not re-opened this run."
+    - "Order facts (categories 1,595 / 232 / 2,767; 4,594 occupants; 5,072.64 ha; 3,637.83 ha under silk cotton; Special Committee under former CJI B R Gavai; 30 days for gram sabhas; February 1, 2027, listing) are carried over from the desk's November 10 news story, which read the order via a mirror. The Verdictum page could not be opened this run."
+    - "Description of the Act (Sections 2(c), 2(o), 3(1)(a), 3(1)(c), 4(2), 6, December 13, 2005, cut-off, four-hectare cap on individual holdings, three-tier committees) is from general knowledge of the statute; the Act text was not re-opened this run."
     - "No national claim or title totals are given because none were confirmed."
 ---
 
@@ -78,9 +78,9 @@ The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Fores
 
 ## What happened at Megamalai?
 
-**Thousands of people farming silk cotton inside a tiger reserve asked to be treated as forest dwellers.** The Megamalai forests are part of the Srivilliputhur-Megamalai Tiger Reserve in Tamil Nadu. The state's affidavit of September 6, 2026 listed **4,594 occupants on 5,072.64 hectares**, of which 3,637.83 hectares are under silk cotton. It sorted them into three groups: 1,595 permanent residents cultivating inside the forest, 232 temporary residents and 2,767 people living outside it.
+**Thousands of people farming silk cotton inside a tiger reserve asked to be treated as forest dwellers.** The Megamalai forests are part of the Srivilliputhur-Megamalai Tiger Reserve in Tamil Nadu. The state's affidavit of September 6, 2026, listed **4,594 occupants on 5,072.64 hectares**, of which 3,637.83 hectares are under silk cotton. It sorted them into three groups: 1,595 permanent residents cultivating inside the forest, 232 temporary residents and 2,767 people living outside it.
 
-The case sits inside a larger one. On May 29, 2026 the court had ordered time-bound eviction, rehabilitation and ecological restoration of the Agasthyamalai landscape.
+The case sits inside a larger one. On May 29, 2026, the court had ordered time-bound eviction, rehabilitation and ecological restoration of the Agasthyamalai landscape.
 
 ```photo
 {"n":2,"subject":"Agasthyamalai","caption":"The Agasthyamalai hills, whose landscape the Supreme Court ordered restored in its order of May 29, 2026.","alt":"The Agasthyamalai hills in southern India (file photo)"}
