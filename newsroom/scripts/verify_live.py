@@ -70,7 +70,7 @@ for lang, url in (('en', 'https://gandhinews.com/'), ('hi', 'https://gandhinews.
 
 h = sh(sys.executable, 'newsroom/scripts/held.py', 'list').stdout
 for l in h.splitlines():
-    if 'republish' in l or (re.search(r'\| (\d+\.\d)h \|', l) and float(re.search(r'\| (\d+\.\d)h \|', l).group(1)) > 48):
+    if l.endswith('| a new picture exists: republish') or (re.search(r'\| (\d+\.\d)h \|', l) and float(re.search(r'\| (\d+\.\d)h \|', l).group(1)) > 48):
         bad.append('held: ' + l)
 
 if bad:

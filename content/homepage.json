@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+    "id": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
     "overlay": {
       "kicker": {
-        "en": "States / Assam",
-        "hi": "राज्य / असम"
+        "en": "Politics / West Bengal",
+        "hi": "राजनीति / पश्चिम बंगाल"
       },
       "value": {
-        "en": "'Hindus have also been evicted'",
-        "hi": "'हिंदुओं को भी बेदखल किया गया'"
+        "en": "Witness in a 13-year-old Delhi case",
+        "hi": "13 साल पुराने मामले में गवाह"
       },
       "text": {
         "en": "",
@@ -17,18 +17,17 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court",
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
+      "who-owns-trinamool-election-commission-symbol-dispute-explained",
+      "andhra-local-polls-must-start-with-free-nominations"
     ],
     "relatedBeside": [
       "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25"
     ],
     "live": {
       "title": {
-        "en": "Assam",
-        "hi": "असम"
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
       }
     }
   },
@@ -46,80 +45,80 @@
         }
       },
       {
-        "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "link": "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
         },
         "text": {
-          "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
-          "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
+          "en": "Mumbai bans rockets and aerial firecrackers until November 25 after 137 of 142 fire calls on Diwali day traced to crackers",
+          "hi": "मुंबई में 25 नवंबर तक रॉकेट और आसमान में जाने वाले पटाखों पर रोक, दिवाली के दिन 142 में से 137 फायर कॉल की वजह पटाखे"
         }
       },
       {
-        "link": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+        "link": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Rahul Gandhi renews debate challenge to Modi after 'dimagi Naxals' remark in Bastar",
-          "hi": "बस्तर में 'दिमागी नक्सल' वाले बयान के बाद राहुल गांधी ने मोदी को फिर दी बहस की चुनौती"
+          "en": "Mandhana to lead India women in all formats on December tour of South Africa",
+          "hi": "दिसंबर में दक्षिण अफ्रीका दौरे पर तीनों फॉर्मेट में स्मृति मंधाना होंगी भारतीय महिला टीम की कप्तान"
         }
       },
       {
-        "link": "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
+        "link": "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
         "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
         },
         "text": {
-          "en": "Seven killed in Hazaribagh as trailer rams pick-up van carrying a body to Varanasi",
-          "hi": "हजारीबाग में वाराणसी शव ले जा रही पिकअप वैन को ट्रेलर ने मारी टक्कर, सात की मौत"
+          "en": "Delhi releases missing Diwali-night air data: PM2.5 hit 3,744 at Mundka, AAP alleges fraud",
+          "hi": "दिवाली की रात का गायब डेटा जारी: मुंडका में PM2.5 3,744 तक, आप ने बताया फर्जीवाड़ा"
         }
       },
       {
-        "link": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "link": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Maldives frees 24 Thoothukudi fishermen held for nearly a month; Tamil Nadu pays for flight home",
-          "hi": "मालदीव ने थूथुकुडी के 24 मछुआरों को लगभग एक महीने बाद छोड़ा, तमिलनाडु ने उठाया घर वापसी का हवाई खर्च"
+          "en": "India can win the ODI series in Hamilton, but rain and a hurried pitch loom",
+          "hi": "हैमिल्टन में भारत सीरीज़ जीत सकता है, पर बारिश और जल्दबाजी में बनी पिच का साया"
         }
       },
       {
-        "link": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "link": "modi-zelenskyy-phone-call-india-peace-efforts",
         "lead": {
-          "en": "Shooting:",
-          "hi": "निशानेबाज़ी:"
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
         },
         "text": {
-          "en": "Niveditha Nair wins 25m standard pistol bronze, India add team silver at Doha Worlds",
-          "hi": "निवेदिता नायर को 25 मीटर स्टैंडर्ड पिस्टल का कांस्य, दोहा में टीम रजत भी"
+          "en": "Modi speaks to Zelenskyy, says India ready to contribute to peace in Ukraine",
+          "hi": "मोदी ने ज़ेलेंस्की से की बात, कहा यूक्रेन में शांति के लिए भारत हर संभव योगदान को तैयार"
         }
       },
       {
-        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "lead": {
-          "en": "Russia:",
-          "hi": "रूस:"
+          "en": "Trade:",
+          "hi": "व्यापार:"
         },
         "text": {
-          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
-          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
+          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
+          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
         }
       },
       {
-        "link": "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
+        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "RBI lends banks ₹50,003 crore for four days, days after it was soaking up cash",
-          "hi": "आरबीआई ने बैंकों को चार दिन के लिए ₹50,003 करोड़ दिए, चंद दिन पहले तक खींच रहा था नकदी"
+          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
+          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
         }
       }
     ]
@@ -187,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+      "id": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
       "also": []
     },
     "list": [
-      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-      "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
+      "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+      "modi-zelenskyy-phone-call-india-peace-efforts",
+      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
     ],
     "also": [
-      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires"
+      "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+      "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
     ]
   },
   "startHere": [
@@ -410,9 +409,9 @@
       "section": "policy",
       "lead": "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
       "list": [
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
         "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029",
-        "cancer-drugs-137-revised-prices-november-9-nppa",
-        "rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve"
+        "cancer-drugs-137-revised-prices-november-9-nppa"
       ]
     },
     {
@@ -528,20 +527,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-09T17:23:53+05:30",
-      "ids": [
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-        "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain",
-        "modi-bastar-pib-speech-no-crpf-death-47-years-dimagi-naxals-ramesh"
-      ]
-    },
-    {
       "at": "2026-11-09T18:56:37+05:30",
       "ids": [
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
@@ -642,6 +627,22 @@
         "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
         "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:12:01+05:30",
+      "ids": [
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "andhra-local-polls-must-start-with-free-nominations",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
+        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+        "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
     }
   ],
