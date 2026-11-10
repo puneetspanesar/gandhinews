@@ -46786,5 +46786,74 @@
    "kind": "scenes",
    "credit": "Photos: Phillip Capper / Wikimedia Commons; [2] / Wikimedia Commons; Ciell / Wikimedia Commons; Le Priyavrat / Wikimedia Commons"
   }
+ },
+ "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain": {
+  "id": "o-hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+  "src": "/photos/o-hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain-1280.jpg",
+  "src800": "/photos/o-hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 962,
+  "credit": "Photo: The Tigers Squadron / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Shreyas Iyer (file photo)",
+  "alt_hi": "श्रेयस अय्यर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Captain_Shreyas_Iyer_(Sarpanch_Sahab)_in_T20.jpg"
+ },
+ "rahul-gandhi-13-crore-votes-deleted-sir-claim": {
+  "id": "o-rahul-gandhi-13-crore-votes-deleted-sir-claim",
+  "src": "/photos/o-rahul-gandhi-13-crore-votes-deleted-sir-claim-1280.jpg",
+  "src800": "/photos/o-rahul-gandhi-13-crore-votes-deleted-sir-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 869,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Gyanesh Kumar (file photo)",
+  "alt_hi": "ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg"
+ },
+ "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured": {
+  "id": "i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
+  "src": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-en-3x2-1280.jpg",
+  "src800": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Three died when the support gave way",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सहारा टूटा, तीन मजदूरों की मौत",
+  "page": null,
+  "ihash": "42764b181d0b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-hi-3x2-1280.jpg",
+    "src800": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-en-t-1280.jpg",
+    "src800": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-hi-t-1280.jpg",
+    "src800": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-en-1280.jpg",
+    "src800": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-hi-1280.jpg",
+    "src800": "/photos/i-hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Hosur collapse site; quick_photo (Hosur, Krishnagiri, building collapse, scaffolding), library"
  }
 }
