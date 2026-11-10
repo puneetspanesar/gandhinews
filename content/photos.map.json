@@ -64,7 +64,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "North Block, home of the Ministry of Finance, in New Delhi",
   "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, जहां वित्त मंत्रालय है",
-  "page": "https://commons.wikimedia.org/wiki/File:One_Rupee_Indian_coins.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:One_Rupee_Indian_coins.JPG",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "rbi-right-to-move-fiscal-side-must-hold": {
   "id": "x-rbi-right-to-move-fiscal-side-must-hold-hd",
@@ -136,7 +137,8 @@
   "licence": "CC0",
   "alt": "Parliament House in New Delhi",
   "alt_hi": "नई दिल्ली में संसद भवन",
-  "page": "https://commons.wikimedia.org/wiki/File:Members_of_first_lok_sabha.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Members_of_first_lok_sabha.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "how-a-bill-becomes-law-in-india": {
   "id": "x-how-a-bill-becomes-law-in-india",
@@ -148,7 +150,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Members in the Lok Sabha chamber, New Delhi",
   "alt_hi": "नई दिल्ली में लोकसभा कक्ष में सदस्य",
-  "page": "https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan_Museum_7.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan_Museum_7.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "anti-defection-law-explained": {
   "id": "x-anti-defection-law-explained",
@@ -160,7 +163,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "The Speaker's chair in the Lok Sabha",
   "alt_hi": "लोकसभा में अध्यक्ष की कुर्सी",
-  "page": "https://commons.wikimedia.org/wiki/File:Indian_National_congress_party_rally_-_Flickr_-_Al_Jazeera_English.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_National_congress_party_rally_-_Flickr_-_Al_Jazeera_English.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "how-rajya-sabha-elections-work": {
   "id": "x-how-rajya-sabha-elections-work",
@@ -196,7 +200,8 @@
   "licence": "Public domain",
   "alt": "Members in the Lok Sabha chamber of India's new Parliament building",
   "alt_hi": "भारत के नए संसद भवन के लोकसभा कक्ष में सदस्य",
-  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "delimitation": {
   "id": "x-delimitation",
@@ -208,7 +213,8 @@
   "licence": "Public domain",
   "alt": "The Lok Sabha chamber in the new Parliament building",
   "alt_hi": "नए संसद भवन में लोकसभा का सदन",
-  "page": "https://commons.wikimedia.org/wiki/File:1947_India_showing_Provinces,_States_and_Districts_by_Survey_of_India_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:1947_India_showing_Provinces,_States_and_Districts_by_Survey_of_India_(cropped).jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "bills-in-parliament-tracker": {
   "id": "x-bills-in-parliament-tracker",
@@ -276,7 +282,8 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Donvikro / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "election-commission-should-publish-its-dissent": {
   "id": "x-election-commission-should-publish-its-dissent",
@@ -348,7 +355,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Nirvachan Sadan, the Election Commission of India's headquarters",
   "alt_hi": "निर्वाचन सदन, भारत निर्वाचन आयोग का मुख्यालय",
-  "page": "https://commons.wikimedia.org/wiki/File:Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "election-calendar": {
   "id": "evm",
@@ -743,7 +751,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A person reading a consent notice on a phone",
   "alt_hi": "फोन पर सहमति नोटिस पढ़ता एक व्यक्ति",
-  "page": "https://commons.wikimedia.org/wiki/File:Aadhaar_Seva_Kendra,_Bhopal.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Aadhaar_Seva_Kendra,_Bhopal.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "appoint-data-protection-board-before-rules-bite": {
   "id": "x-appoint-data-protection-board-before-rules-bite",
@@ -1088,7 +1097,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Students protesting at Jantar Mantar, New Delhi, in July 2026 (file photo)",
   "alt_hi": "जुलाई 2026 में नई दिल्ली के जंतर-मंतर पर प्रदर्शन करते छात्र (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_21.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_21.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "supreme-court-declines-plea-aiadmk-mlas-disqualification": {
   "id": "x-supreme-court-declines-plea-aiadmk-mlas-disqualification",
@@ -1136,7 +1146,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Biswarup Ganguly / Wikimedia Commons; Pinakpani / Wikimedia Commons; Election Commission of India / Wikimedia Commons; IM3847 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "rbi-raises-daily-crr-minimum-to-99-per-cent": {
   "id": "x-rbi-raises-daily-crr-minimum-to-99-per-cent",
@@ -1159,7 +1170,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Gangaasoonu / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "rahul-gandhi-lunches-with-vijay-day-before-modi-visit": {
   "id": "x-rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
@@ -3043,7 +3055,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Valter Campanato/ABr / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons; Sanu N / Wikimedia Commons; Tarunsamanta / Wikimedia Commons; IM3847 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "icici-prudential-amc-q2-profit-dividend": {
   "id": "x-icici-prudential-amc-q2-profit-dividend",
@@ -3764,7 +3777,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Andaman & Nicobar Administration Archives / Wikimedia Commons; Survey of India / Wikimedia Commons; IM3847 / Wikimedia Commons; Ministry of Information and Broadcasting / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "madras-high-court-upholds-speaker-aiadmk-mla-resignations": {
   "id": "v-madras-high-court-upholds-speaker-aiadmk-mla-resignations",
@@ -3853,7 +3867,8 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Dati Bendo / European Communities, 2025 / EC - Audiovisual S / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "nada-suspends-army-running-coach-yunus-khan": {
   "id": "x-nada-suspends-army-running-coach-yunus-khan-hd",
@@ -4260,7 +4275,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Harvinder Chandigarh / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "annapurna-devi-ncpcr-review-csam-ai-tool": {
   "id": "v-annapurna-devi-ncpcr-review-csam-ai-tool",
@@ -5853,7 +5869,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Pinakpani / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "dhami-defends-police-ankita-bhandari-congress": {
   "id": "v-dhami-defends-police-ankita-bhandari-congress",
@@ -6583,7 +6600,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Yes Bank / Wikimedia Commons; Jnpet / Wikimedia Commons; Pinakpani / Wikimedia Commons; DesiBoy101 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "zetwerk-ipo-day-one-subscription": {
   "id": "x-zetwerk-ipo-day-one-subscription-2-hd",
@@ -6651,7 +6669,8 @@
   "licence": "Public domain",
   "alt": "Stubble burning in a Punjab field",
   "alt_hi": "पंजाब के एक खेत में जलती पराली",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "abhishek-banerjee-ankita-bhandari-parents-india-versus-bjp": {
   "id": "v-abhishek-banerjee-ankita-bhandari-parents-india-versus-bjp",
@@ -6870,7 +6889,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Pinakpani / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "divya-mittal-ex-ias-launches-jan-neeti-bharat-up-2027": {
   "id": "x-divya-mittal-ex-ias-launches-jan-neeti-bharat-up-2027",
@@ -7328,7 +7348,8 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Pulakit Singh / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "persistent-q2-profit-falls-nagarro-costs-revenue-up-20": {
   "id": "v-persistent-q2-profit-falls-nagarro-costs-revenue-up-20",
@@ -8556,7 +8577,8 @@
   "licence": "CC BY 4.0",
   "alt": "The Reserve Bank of India building in Mumbai (file photo)",
   "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "saudi-houthi-war-crimes-us-tightens-iran-sanctions": {
   "id": "v-saudi-houthi-war-crimes-us-tightens-iran-sanctions",
@@ -9635,7 +9657,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Medical students in India (file photo)",
   "alt_hi": "भारत में मेडिकल छात्र (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "mexico-baja-surfers-killers-sentenced-158-years": {
   "id": "v-mexico-baja-surfers-killers-sentenced-158-years",
@@ -9946,7 +9969,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "A voter holding an election identity card (file photo)",
   "alt_hi": "चुनावी पहचान पत्र दिखाती एक मतदाता (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "supreme-court-contempt-notice-sanjay-raut-nikhil-wagle": {
   "id": "v-supreme-court-contempt-notice-sanjay-raut-nikhil-wagle",
@@ -9995,7 +10019,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "India's women cricketers (file photo)",
   "alt_hi": "भारत की महिला क्रिकेटर (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "pakistan-rejects-rajnath-remarks-afghan-talks-conditions": {
   "id": "v-pakistan-rejects-rajnath-remarks-afghan-talks-conditions",
@@ -10773,7 +10798,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Taybeh village in the occupied West Bank (file photo)",
   "alt_hi": "कब्ज़े वाले पश्चिमी तट का तैबेह गांव (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "sikkim-bjp-backs-dushyant-gautam-ankita-bhandari-probe": {
   "id": "v-sikkim-bjp-backs-dushyant-gautam-ankita-bhandari-probe",
@@ -11802,7 +11828,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Saurabh Kumar / Wikimedia Commons; Ville Miettinen from Helsinki, Finland / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "delhi-high-court-form-6-sir-deleted-voters-ec": {
   "id": "v-delhi-high-court-form-6-sir-deleted-voters-ec",
@@ -11827,7 +11854,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Al Jazeera English / Wikimedia Commons; Nilanjan Chowdhury / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe": {
   "id": "v-diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-",
@@ -12575,7 +12603,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: सुबोध कुलकर्णी / Wikimedia Commons; Nivas10798 / Wikimedia Commons; Meet.arpit99 / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "india-to-host-ciml-legal-metrology-meeting-new-delhi": {
   "id": "v-india-to-host-ciml-legal-metrology-meeting-new-delhi",
@@ -13677,7 +13706,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: zadeus / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "russia-hits-28-energy-sites-trump-says-fine": {
   "id": "v-russia-hits-28-energy-sites-trump-says-fine",
@@ -14368,7 +14398,8 @@
   "licence": "CC BY 2.0",
   "alt": "Para table tennis players in action (file photo)",
   "alt_hi": "खेलते हुए पैरा टेबल टेनिस खिलाड़ी (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "psg-barcelona-champions-league-matchday-three-preview": {
   "id": "v-psg-barcelona-champions-league-matchday-three-preview",
@@ -14460,7 +14491,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The town of Oliva on Spain's Valencian coast (file photo)",
   "alt_hi": "स्पेन के वालेंसिया तट पर ओलिवा कस्बा (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday": {
   "id": "v-supreme-court-vacation-bench-ysrcp-nominations-plea-wednesda",
@@ -14485,7 +14517,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Pinakpani / Wikimedia Commons; Election Commission of India / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "swati-chaudhary-para-archery-final-harvinder-vijay-sundi": {
   "id": "v-swati-chaudhary-para-archery-final-harvinder-vijay-sundi",
@@ -15121,7 +15154,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Paris Saint-Germain midfielder Vitinha (file photo)",
   "alt_hi": "पेरिस सेंट-जर्मेन के मिडफील्डर वितिन्हा (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "race-course-mosque-eviction-notice-ldo-rijiju": {
   "id": "v-race-course-mosque-eviction-notice-ldo-rijiju",
@@ -15165,7 +15199,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A Cessna 208 Caravan aircraft (file photo)",
   "alt_hi": "सेसना 208 कैरावैन विमान (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "roma-hit-four-psv-win-porto-atletico-held-stuttgart": {
   "id": "v-roma-hit-four-psv-win-porto-atletico-held-stuttgart",
@@ -16469,7 +16504,8 @@
   "licence": "CC BY 3.0",
   "alt": "Voters at a rural polling booth in Rajasthan (file photo)",
   "alt_hi": "राजस्थान के एक ग्रामीण मतदान केंद्र पर मतदाता (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening": {
   "id": "v-rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tight",
@@ -17071,7 +17107,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Paul Gian / Wikimedia Commons; zadeus / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "imran-khan-sisters-lahore-high-court-summons-officials": {
   "id": "v-imran-khan-sisters-lahore-high-court-summons-officials",
@@ -17232,7 +17269,8 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Ministry of Internal Affairs of Ukraine / Wikimedia Commons; spoilt.exile / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "mib-advisory-tv-channels-ai-editorial": {
   "id": "v-mib-advisory-tv-channels-ai-editorial",
@@ -17296,7 +17334,8 @@
   "licence": "CC0",
   "alt": "A sitting of the Punjab Vidhan Sabha (file photo)",
   "alt_hi": "पंजाब विधानसभा की एक बैठक (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "russian-pacific-fleet-ships-kochi-marshal-shaposhnikov": {
   "id": "v-russian-pacific-fleet-ships-kochi-marshal-shaposhnikov",
@@ -17441,7 +17480,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The city of Taiz in southwestern Yemen (file photo)",
   "alt_hi": "दक्षिण-पश्चिमी यमन का ताइज़ शहर (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "zimbabwe-197000-return-south-africa-xenophobic-protests": {
   "id": "v-zimbabwe-197000-return-south-africa-xenophobic-protests",
@@ -17896,7 +17936,8 @@
   "licence": "CC BY 3.0",
   "alt": "Manendragarh town, Chhattisgarh (file photo)",
   "alt_hi": "छत्तीसगढ़ का मनेंद्रगढ़ शहर (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "manipur-loktak-day-state-festival-helicopter-services": {
   "id": "v-manipur-loktak-day-state-festival-helicopter-services",
@@ -18102,7 +18143,8 @@
   "licence": "Public domain",
   "alt": "A section of submarine communications cable (file photo)",
   "alt_hi": "समुद्री संचार केबल का एक हिस्सा (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "us-10-year-yield-below-5-per-cent-biggest-drop-since-2023": {
   "id": "v-us-10-year-yield-below-5-per-cent-biggest-drop-since-2023",
@@ -18297,7 +18339,8 @@
   "licence": "CC BY 3.0",
   "alt": "Kolkata Police headquarters at Lalbazar (file photo)",
   "alt_hi": "लालबाज़ार स्थित कोलकाता पुलिस मुख्यालय (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "civil-defence-master-trainers-army-600-12-states": {
   "id": "v-civil-defence-master-trainers-army-600-12-states",
@@ -19471,7 +19514,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Kerala High Court building in Kochi (file photo)",
   "alt_hi": "कोच्चि में केरल हाईकोर्ट की इमारत (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "istanbul-ministers-reject-new-iran-attack-trump-epic-fury": {
   "id": "v-istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
@@ -19751,7 +19795,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Sumitmpsd / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons; TargetAimShoot / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "leclerc-tops-austin-practice-antonelli-second": {
   "id": "v-leclerc-tops-austin-practice-antonelli-second",
@@ -19845,7 +19890,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; IM3847 / Wikimedia Commons; Ramesh lalwani / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "trappes-shooting-one-dead-antiterror-prosecutors-macron": {
   "id": "v-trappes-shooting-one-dead-antiterror-prosecutors-macron",
@@ -22092,7 +22138,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Napoli midfielder Scott McTominay (file photo)",
   "alt_hi": "नापोली के मिडफील्डर स्कॉट मैकटोमिने (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "padikkal-sudharsan-india-a-trail-98-lincoln-day-two": {
   "id": "v-padikkal-sudharsan-india-a-trail-98-lincoln-day-two",
@@ -22188,7 +22235,8 @@
   "licence": "Public domain",
   "alt": "A cardiac catheterisation laboratory in a hospital (file photo)",
   "alt_hi": "एक अस्पताल की कार्डियक कैथेटराइज़ेशन लैब (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "siniakova-thrashes-krueger-osaka-title": {
   "id": "v-siniakova-thrashes-krueger-osaka-title",
@@ -22595,7 +22643,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Unknown / Wikimedia Commons; Anupamdutta73 / Wikimedia Commons; שי קנדלר / Wikimedia Commons; Yes Bank / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "india-kabaddi-women-beat-uganda-men-malaysia-commonwealth": {
   "id": "v-india-kabaddi-women-beat-uganda-men-malaysia-commonwealth",
@@ -25500,7 +25549,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "A view of Nanded city, Maharashtra (file photo)",
   "alt_hi": "महाराष्ट्र के नांदेड़ शहर का एक दृश्य (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red": {
   "id": "v-fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
@@ -26147,7 +26197,8 @@
   "licence": "CC0",
   "alt": "Acrisure Stadium (file photo)",
   "alt_hi": "Acrisure Stadium (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "steelers-27-6-browns-warren-143-yards-rodgers--p1": {
   "id": "v-steelers-27-6-browns-warren-143-yards-rodgers-p1",
@@ -26208,7 +26259,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Biswarup Ganguly / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Harvinder Chandigarh / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "supreme-court-senior-counsel-oral-mentioning-bar-from-today--bg": {
   "id": "v-supreme-court-senior-counsel-oral-mentioning-bar-from-t-bg",
@@ -27723,7 +27775,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: wili hybrid / Wikimedia Commons; Gpkp / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression": {
   "id": "v-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
@@ -28803,7 +28856,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "BSE building, Dalal Street (file photo)",
   "alt_hi": "BSE building, Dalal Street (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "sensex-nifty-close-november-2--p2": {
   "id": "v-sensex-nifty-close-november-2-p2",
@@ -28839,7 +28893,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Supreme Court of India (file photo)",
   "alt_hi": "Supreme Court of India (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur": {
   "id": "v-harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-na",
@@ -29091,7 +29146,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Supreme Court of India (file photo)",
   "alt_hi": "Supreme Court of India (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali": {
   "id": "v-green-crackers-explained-what-makes-a-cracker-green-delhi-di",
@@ -29127,7 +29183,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Medical students in white coats on a hospital campus (file photo)",
   "alt_hi": "अस्पताल परिसर में सफ़ेद कोट पहने मेडिकल छात्र (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "neet-pg-candidates-deserve-to-see-their-question-papers--p1": {
   "id": "v-neet-pg-candidates-deserve-to-see-their-question-papers-p1",
@@ -29304,7 +29361,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Uttarakhand Vidhan Sabha (file photo)",
   "alt_hi": "Uttarakhand Vidhan Sabha (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "modi-brese-44000-government-buildings-solar-700-crore": {
   "id": "v-modi-brese-44000-government-buildings-solar-700-crore",
@@ -30918,7 +30976,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Sripathroy / Wikimedia Commons; Karthikalagu / Wikimedia Commons; Adityamadhav83 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--bg": {
   "id": "v-murasu-nine-trains-cancelled-vijayawada-families-relief-bg",
@@ -31237,7 +31296,8 @@
     "src": "/photos/c-komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressu-hi-1280.jpg",
     "src800": "/photos/c-komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressu-hi-640.jpg"
    }
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure--bg": {
   "id": "v-komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-p-bg",
@@ -31455,7 +31515,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Photo by Mr. Kjetil Ree. / Wikimedia Commons; Jarek Tuszyński / Wikimedia Commons; Seoul Institute / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "supreme-court-rejects-trump-california-ballots-midterms-eve--bg": {
   "id": "v-supreme-court-rejects-trump-california-ballots-midterms-bg",
@@ -31747,7 +31808,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "SEBI Bhavan, headquarters of the Securities and Exchange Board of India (file photo)",
   "alt_hi": "भारतीय प्रतिभूति और विनिमय बोर्ड का मुख्यालय सेबी भवन (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "sunetra-pawar-calls-ncp-mlas-devgiri-bjp-concern": {
   "id": "v-sunetra-pawar-calls-ncp-mlas-devgiri-bjp-concern",
@@ -32112,7 +32174,8 @@
   "licence": "CC0",
   "alt": "Indian Institute of Astrophysics campus, Bengaluru (file photo)",
   "alt_hi": "बेंगलुरु स्थित भारतीय तारा भौतिकी संस्थान (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "food-inflation-weak-monsoon-sugar-poultry-milk-prices--p2": {
   "id": "v-food-inflation-weak-monsoon-sugar-poultry-milk-prices-p2",
@@ -34459,7 +34522,8 @@
    ],
    "kind": "photo",
    "credit": "Photos: Monito - Money Transfer Comparison / Wikimedia Commons; Unknown / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "india-41-one-down-kohli-chase-186-eden-park-odi": {
   "id": "v-india-41-one-down-kohli-chase-186-eden-park-odi",
@@ -34978,7 +35042,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Election Commission of India / Wikimedia Commons; Survey of India / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; IM3847 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "mea-rejects-un-rights-office-remarks-delhi-protest-detentions": {
   "id": "v-mea-rejects-un-rights-office-remarks-delhi-protest-detention",
@@ -35315,7 +35380,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "us-midterms-democrats-230-house-seats-economy-hegseth-blame--p2": {
   "id": "v-us-midterms-democrats-230-house-seats-economy-hegseth-b-p2",
@@ -35775,7 +35841,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: Subhrasingh / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons; Deepak G Goswami / Wikimedia Commons; Nivas10798 / Wikimedia Commons"
-  }
+  },
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "at1-bonds-explained-yes-bank-supreme-court-ruling": {
   "id": "v-at1-bonds-explained-yes-bank-supreme-court-ruling",
@@ -38084,7 +38151,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Former Supreme Court judge K T Thomas (file photo)",
   "alt_hi": "सुप्रीम कोर्ट के पूर्व न्यायाधीश के टी थॉमस (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_K_T_Thomas_(2023).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_K_T_Thomas_(2023).jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1": {
   "id": "o-rahul-gandhi-voter-id-not-aadhaar-welfare-claim--p1",
@@ -44140,7 +44208,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The advisory tower at Baramati Airport, Maharashtra (file photo)",
   "alt_hi": "महाराष्ट्र के बारामती हवाई अड्डे का एडवाइज़री टावर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Baramati_Airport_Adivisory_tower.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Baramati_Airport_Adivisory_tower.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
  },
  "modi-bastar-230-districts-2000-attacks-no-crpf-death-claim": {
   "id": "o-modi-bastar-230-districts-2000-attacks-no-crpf-death-claim",
