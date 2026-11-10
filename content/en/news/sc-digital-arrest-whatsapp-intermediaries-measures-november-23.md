@@ -58,9 +58,9 @@ verification:
   status: approved
   notes:
     - "Order text on sci.gov.in not read this run. Order details from three media reports of November 10 (Telangana Today and Deccan Chronicle, both PTI-based, and The Federal), which agree on bench, directions and November 23."
-    - "Two reports tie the order to the October 29, 2026 hearing; The Federal gives no date. Story says the order was made public on November 10 and carries the October 29 hearing date as reported."
+    - "Two reports tie the order to the October 29, 2026, hearing; The Federal gives no date. Story says the order was made public on November 10 and carries the October 29 hearing date as reported."
     - "Rs 800 crore and 50% fall in cybercrime are attributed by the reports to the bench; kept attributed. The Federal also mentions RBI directions in August and Union report after February directions; used only as 'earlier' without dates beyond that."
-    - "Ambala couple background (Rs 1.05 crore, October 17, 2025 suo motu) from Tribune report of October 2025."
+    - "Ambala couple background (Rs 1.05 crore, October 17, 2025, suo motu) from Tribune report of October 2025."
 ---
 
 The Supreme Court has asked **WhatsApp and other intermediaries to tell it what measures they propose** to stop digital arrest scams and related cybercrime, and has told the Reserve Bank of India that banks must compensate victims where they failed to exercise due diligence. The directions, from a bench of Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana, became public on Tuesday, November 10, 2026. The case returns to court on **November 23, 2026**.

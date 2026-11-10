@@ -1,0 +1,39 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-10T18:05:40+05:30",
+ "end": "2026-11-10T18:43:32+05:30",
+ "summary": "SC digital arrest directions lead; PMK killing, Hasina passport, India A draw",
+ "new": [
+  "hasina-passport-request-dhaka-refuses-extradition-india",
+  "india-a-nz-a-lincoln-third-test-draw-series-level",
+  "pmk-functionary-shot-dead-vellore-gudiyatham",
+  "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+   "why": "Main picture is a generic file shot of the Supreme Court building, and the homepage cover is a collage of four more copies of the same building. That is a stock stand-in. The story is about directions from a bench led by CJI Surya Kant, who acted and is named in the standfirst, and hero.need asks for him.",
+   "done": "two-panel lead cover (CJI Surya Kant library portrait + Supreme Court) with lead_cover.py; building-only collage removed, notreat set"
+  },
+  {
+   "id": "pmk-functionary-shot-dead-vellore-gudiyatham",
+   "why": "The Hindi twin gives a different age. English says Gnanavel was 'a farmer in his mid-40s'; Hindi says 'पचास के करीब उम्र के किसान' (close to fifty). The sources say 43 (DT Next, The Week, UNI) or 46 (Deccan Chronicle).",
+   "done": "Hindi age changed to 40 के दशक के मध्य"
+  },
+  {
+   "id": "hasina-passport-request-dhaka-refuses-extradition-india",
+   "why": "The standfirst says 'Ministers call the request a stunt', and the Hindi says 'मंत्रियों ने इसे सियासी स्टंट बताया'. No minister said that in the sources. 'Nothing but political stunt' came from chief prosecutor Md Aminul Islam (The Star); State Minister Humaiun Kobir called it 'utterly ridiculous' (Daily Star). The body has this right, but the standfirst misattributes it.",
+   "done": "standfirst in both languages: ministers ridiculous, chief prosecutor stunt"
+  },
+  {
+   "id": "india-a-nz-a-lincoln-third-test-draw-series-level",
+   "why": "The Hindi infographic cover's third stat reads '19 नव', which in Hindi reads as '19 new', not 19 November. The Hindi text is also clumsy in the lead: 'चारों-चार दिन के तीनों मैच'. The infographic itself stands, because the story is marked NOPHOTO.",
+   "done": "Hindi stat 19 नवंबर, phrase चार दिवसीय तीनों मैच, infographic re-rendered"
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
+}

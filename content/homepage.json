@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+    "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
     "overlay": {
       "kicker": {
-        "en": "States / Delhi",
-        "hi": "राज्य / दिल्ली"
+        "en": "Policy / Supreme Court",
+        "hi": "नीति / सुप्रीम कोर्ट"
       },
       "value": {
-        "en": "₹142 crore to 15 lakh families",
-        "hi": "15 लाख परिवारों को ₹142 करोड़"
+        "en": "Digital arrest: banks, WhatsApp on notice",
+        "hi": "डिजिटल अरेस्ट: बैंक, वॉट्सऐप पर नोटिस"
       },
       "text": {
         "en": "",
@@ -17,109 +17,107 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court",
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
+      "sc-fra-commercial-cultivation-megamalai-silk-cotton"
     ],
     "relatedBeside": [
-      "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
+      "pmk-functionary-shot-dead-vellore-gudiyatham",
+      "hasina-passport-request-dhaka-refuses-extradition-india"
     ],
     "live": {
       "title": {
-        "en": "Delhi",
-        "hi": "दिल्ली"
+        "en": "Supreme Court",
+        "hi": "सुप्रीम कोर्ट"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
-          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
-        }
-      },
-      {
-        "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
-          "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
-        }
-      },
-      {
-        "link": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Mandhana to lead India women in all formats on December tour of South Africa",
-          "hi": "दिसंबर में दक्षिण अफ्रीका दौरे पर तीनों फॉर्मेट में स्मृति मंधाना होंगी भारतीय महिला टीम की कप्तान"
-        }
-      },
-      {
-        "link": "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Shinde Sena's Ramdas Kadam seeks probe into Sunil Tatkare's role in Ajit Pawar's air crash",
-          "hi": "शिंदे सेना के रामदास कदम ने अजित पवार के विमान हादसे में सुनील तटकरे की भूमिका की जांच मांगी"
-        }
-      },
-      {
-        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
-          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
-        }
-      },
-      {
-        "link": "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
+        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
         "lead": {
           "en": "Tamil Nadu:",
           "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Maldives frees 24 Thoothukudi fishermen held for nearly a month; Tamil Nadu pays for flight home",
-          "hi": "मालदीव ने थूथुकुडी के 24 मछुआरों को लगभग एक महीने बाद छोड़ा, तमिलनाडु ने उठाया घर वापसी का हवाई खर्च"
+          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
+          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
         }
       },
       {
-        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
-          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
+          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
+          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
         }
       },
       {
-        "link": "womens-reservation-33-per-cent-when-will-it-start-explained",
+        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
         "lead": {
-          "en": "Women's reservation:",
-          "hi": "महिला आरक्षण:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Women's reservation explained: the 33% law is in force, so when will women actually get the seats?",
-          "hi": "महिला आरक्षण: 33% का कानून लागू है, तो महिलाओं को सीटें असल में कब मिलेंगी?"
+          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
+          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+        }
+      },
+      {
+        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "lead": {
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
+        },
+        "text": {
+          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
+          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
+        }
+      },
+      {
+        "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "lead": {
+          "en": "Urban Affairs:",
+          "hi": "शहरी विकास:"
+        },
+        "text": {
+          "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
+          "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
+        }
+      },
+      {
+        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "lead": {
+          "en": "Gujarat:",
+          "hi": "गुजरात:"
+        },
+        "text": {
+          "en": "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
+          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex and Nifty end at their highest since February as PSU banks surge, with markets shut today",
+          "hi": "पीएसयू बैंकों की तेज़ी से सेंसेक्स-निफ्टी फरवरी के बाद के सबसे ऊंचे स्तर पर, आज बाज़ार बंद"
+        }
+      },
+      {
+        "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "lead": {
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
+        },
+        "text": {
+          "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
+          "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
         }
       }
     ]
@@ -187,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+      "id": "india-a-nz-a-lincoln-third-test-draw-series-level",
       "also": []
     },
     "list": [
-      "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-      "womens-reservation-33-per-cent-when-will-it-start-explained"
+      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+      "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+      "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
     ],
     "also": [
-      "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-      "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply"
+      "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
     ]
   },
   "startHere": [
@@ -399,20 +397,20 @@
     },
     {
       "section": "states",
-      "lead": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+      "lead": "pmk-functionary-shot-dead-vellore-gudiyatham",
       "list": [
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25"
+        "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
       ]
     },
     {
       "section": "policy",
-      "lead": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+      "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -427,11 +425,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+      "lead": "hasina-passport-request-dhaka-refuses-extradition-india",
       "list": [
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
         "modi-zelenskyy-phone-call-india-peace-efforts",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
     },
     {
@@ -445,12 +443,12 @@
     },
     {
       "section": "sports",
-      "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+      "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
       "list": [
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
       ]
     }
   ],
@@ -528,23 +526,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T08:37:46+05:30",
-      "ids": [
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
-        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
-      ]
-    },
     {
       "at": "2026-11-10T10:44:30+05:30",
       "ids": [
@@ -647,6 +628,23 @@
         "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
         "womens-reservation-33-per-cent-when-will-it-start-explained"
+      ]
+    },
+    {
+      "at": "2026-11-10T18:27:44+05:30",
+      "ids": [
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "bail-granted-is-not-freedom-release-the-under-trials",
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
       ]
     }
   ],

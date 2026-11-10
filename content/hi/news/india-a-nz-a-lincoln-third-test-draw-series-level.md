@@ -36,7 +36,7 @@ infographic:
   stats:
     - {icon: cloud-rain, value: "0", label: "आखिरी दिन फेंकी गई गेंदें"}
     - {icon: cricket, value: "326", label: "देवदत्त पडिक्कल के रन, सीरीज़ में सबसे ज़्यादा"}
-    - {icon: calendar, value: "19 नव", label: "न्यूज़ीलैंड के खिलाफ पहला टेस्ट, वेलिंगटन"}
+    - {icon: calendar, value: "19 नवंबर", label: "न्यूज़ीलैंड के खिलाफ पहला टेस्ट, वेलिंगटन"}
   source: "मैच रिपोर्ट, 10 नवंबर 2026"
 sources:
   - {title: "India A-New Zealand A series ends in draw after rain washes out fourth day of 3rd unofficial Test", publisher: "The Tribune", date: 2026-11-10, url: "https://www.tribuneindia.com/news/devdutt-padikkal/india-a-new-zealand-a-series-ends-in-draw-after-rain-washes-out-fourth-day-of-3rd-unofficial-test", primary: false}
@@ -47,7 +47,7 @@ verification:
     - "Abandonment at 1 pm local time and the 11 overs by Bumrah and Prasidh from one report; series statistics (Padikkal 326 at 65.20, Jaiswal 279 at 69.75, Rathod 223, Nabi 6, Siraj 4, Foxcroft 196, Gibson 8) from the ANI syndicated report. Cricinfo match report could not be fetched. Test dates from BCCI advisory of October 16, 2026."
 ---
 
-मंगलवार, 10 नवंबर को लिंकन में बारिश फिर लौट आई और भारत ए तथा न्यूज़ीलैंड ए के बीच तीसरे और अंतिम अनौपचारिक टेस्ट के आखिरी दिन एक भी गेंद फेंके बिना स्थानीय समय दोपहर 1 बजे **मैच ड्रॉ घोषित कर दिया गया**। इसके साथ **चारों-चार दिन के तीनों मैच बिना नतीजे के खत्म हुए** और सीरीज़ बराबरी पर रही।
+मंगलवार, 10 नवंबर को लिंकन में बारिश फिर लौट आई और भारत ए तथा न्यूज़ीलैंड ए के बीच तीसरे और अंतिम अनौपचारिक टेस्ट के आखिरी दिन एक भी गेंद फेंके बिना स्थानीय समय दोपहर 1 बजे **मैच ड्रॉ घोषित कर दिया गया**। इसके साथ **चार दिवसीय तीनों मैच बिना नतीजे के खत्म हुए** और सीरीज़ बराबरी पर रही।
 
 भारत ए ने रविवार को 464/5 पर पारी घोषित की थी और दूसरे दिन के खेल के अंत में न्यूज़ीलैंड ए 36/2 पर, यानी 428 रन पीछे था। सोमवार का पूरा दिन बारिश में धुल गया। मंगलवार को आठ विकेट लेने का एकमात्र दिन बचा था, पर मौसम ने उसकी शुरुआत तक नहीं होने दी।
 

@@ -45167,36 +45167,25 @@
   "width": 1280,
   "height": 853,
   "srcWidth": 1800,
-  "credit": "Photo: Sriram Narasimhan , Silverscreen Media Inc. (https://silverscreen.in) / Wikimedia Commons",
+  "credit": "Photo: Sriram Narasimhan, Silverscreen Media Inc. / Wikimedia Commons",
   "licence": "CC BY-SA 3.0",
   "alt": "PMK president Anbumani Ramadoss speaking at an event (file photo)",
   "alt_hi": "पीएमके अध्यक्ष अंबुमणि रामदास एक कार्यक्रम में बोलते हुए (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Anbumani_Ramadoss_at_A_Stroke_of_Disssonance_Short_Film_Launch.jpg"
  },
  "sc-digital-arrest-whatsapp-intermediaries-measures-november-23": {
-  "id": "r-sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-  "src": "/photos/r-sc-digital-arrest-whatsapp-intermediaries-measures-november-23-1280.jpg",
-  "src800": "/photos/r-sc-digital-arrest-whatsapp-intermediaries-measures-november-23-640.jpg",
+  "id": "v-sc-digital-arrest-whatsapp-intermediaries-measures-november-",
+  "src": "/photos/v-sc-digital-arrest-whatsapp-intermediaries-measures-november--1280.jpg",
+  "src800": "/photos/v-sc-digital-arrest-whatsapp-intermediaries-measures-november--640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Supreme Court of India (file photo)",
-  "alt_hi": "भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg",
-  "treated": {
-   "src": "/photos/t-sc-digital-arrest-whatsapp-intermediaries-measures-november--1280.jpg",
-   "src800": "/photos/t-sc-digital-arrest-whatsapp-intermediaries-measures-november--640.jpg",
-   "cutout": false,
-   "with": [
-    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-    "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16--p2"
-   ],
-   "kind": "photo",
-   "subj": "ffffff8c8cf00000",
-   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
-  }
+  "height": 800,
+  "credit": "Photos: Supreme Court of India; Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "GODL-India; CC BY-SA 4.0",
+  "alt": "Chief Justice of India Surya Kant and the Supreme Court of India (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "notreat": "collage tiles pulled other courts (Andhra HC); two-panel CJI cover shown as taken"
  },
  "india-a-nz-a-lincoln-third-test-draw-series-level": {
   "id": "i-india-a-nz-a-lincoln-third-test-draw-series-level",
@@ -45210,7 +45199,7 @@
   "alt": "Gandhi News graphic: Three Tests, three draws, rain wins",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तीन टेस्ट, तीन ड्रॉ, बारिश जीती",
   "page": null,
-  "ihash": "4e6b767b1b9e",
+  "ihash": "a7973e20b46b",
   "byLang": {
    "hi": {
     "src": "/photos/i-india-a-nz-a-lincoln-third-test-draw-series-level-hi-3x2-1280.jpg",

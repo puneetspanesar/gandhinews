@@ -6,7 +6,7 @@ section: world
 format_label: "World / Bangladesh"
 topics: []
 title: "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited"
-standfirst: "Her London lawyers wrote to the Bangladesh High Commission in New Delhi on Monday. Ministers call the request a stunt and say the only way back is through India's courts and an extradition order."
+standfirst: "Her London lawyers wrote to the Bangladesh High Commission in New Delhi on Monday, asking for a new passport and a national ID card. Ministers call the request ridiculous, the chief prosecutor calls it a stunt, and Dhaka says the only way back is through India's courts and an extradition order."
 published: 2026-11-10T18:09:43+05:30
 location: Dhaka
 keyPoints:

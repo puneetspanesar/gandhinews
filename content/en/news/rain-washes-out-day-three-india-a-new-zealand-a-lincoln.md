@@ -13,10 +13,6 @@ keyPoints:
   - "Rain **washed out the whole of day three** of the third unofficial Test at Lincoln on Monday, November 9."
   - "New Zealand A remain **36 for 2, 428 runs behind** India A's 464 for 5 declared."
   - "The first Test against New Zealand starts in Wellington on **November 19**."
-upcoming:
-  date: 2026-11-10
-  en: "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln"
-  hi: "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
 hero:
   need: "Jasprit Bumrah bowling, or Prasidh Krishna"
   suggested_source: "Jasprit Bumrah"

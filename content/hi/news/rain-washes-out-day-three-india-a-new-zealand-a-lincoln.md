@@ -14,10 +14,6 @@ keyPoints:
   - "सोमवार, 9 नवंबर को लिंकन में तीसरे अनौपचारिक टेस्ट का **पूरा तीसरा दिन बारिश में धुल गया**।"
   - "न्यूज़ीलैंड ए भारत ए के 464/5 (घोषित) के जवाब में **36/2 पर, 428 रन पीछे** है।"
   - "न्यूज़ीलैंड के खिलाफ पहला टेस्ट **19 नवंबर** से वेलिंगटन में शुरू होगा।"
-upcoming:
-  date: 2026-11-10
-  en: "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln"
-  hi: "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
 hero:
   need: "Jasprit Bumrah bowling, or Prasidh Krishna"
   suggested_source: "Jasprit Bumrah"
