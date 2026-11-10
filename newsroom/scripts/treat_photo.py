@@ -400,7 +400,7 @@ def portraits(sid, M):
         name = PEOPLE[pk]['en']; c = []
         for mk, x in M.items():
             alt = x.get('alt') or ''
-            if mk == sid or x.get('graphic') or mk.startswith('x-') or not x.get('src'): continue
+            if mk == sid or x.get('graphic') or x.get('nocut') or mk.startswith('x-') or not x.get('src'): continue
             if os.path.basename(x['src']).startswith(('t-', 'i2-', 'i-', 'lib-')) or 'photos)' in alt: continue
             if name not in alt or re.search(r'Stadium|Mandapam\b.*\(file photo\)$|statue|poster|cutout|hoarding', alt) or named_people(alt) != [pk] or re.search(r'\band\b|\bwith\b|calls on|meets|photos\)', alt): continue
             if os.path.exists('public' + x['src']): c.append(('public' + x['src'], x.get('credit', '').replace('Photo: ', '')))
@@ -562,7 +562,7 @@ def treat(sid, M, scenes_only=False):
     alt0 = e.get('alt', '')
     single = (e.get('src') or '').split('/')[-1].startswith('v-') and len(named_people(alt0)) <= 1 and not re.search(r'\band\b|\bwith\b', alt0)
     is_v = (e.get('src') or '').split('/')[-1].startswith('v-') and not single   # side-by-side panels of two people
-    own_ok = not e.get('graphic') and not single
+    own_ok = not e.get('graphic') and not single and not e.get('nocut')   # nocut: a face crop or screenshot, never the subject
     pre = None
     if own_ok:
         pre = (_cuts_v if is_v else _cuts)(Image.open('public' + e['src']).convert('RGB')) if (is_v or named_people(alt0) or people(alt0) or PERSONISH.search(alt0)) else None
@@ -687,7 +687,7 @@ if __name__ == '__main__':
         ids = []
         for f in glob.glob('content/en/news/*.md') + glob.glob('content/en/explainer/*.md') + glob.glob('content/en/editorial/*.md') + glob.glob('content/en/factcheck/*.md'):
             sid = os.path.basename(f)[:-3]; e = M.get(sid)
-            if not e or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
+            if not e or e.get('notreat') or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
             m = re.search(r'^published: (\S+)', open(f).read(600), re.M)
             if m and str(m.group(1)) >= cut: ids.append((str(m.group(1)), sid))
         ids = [s for _, s in sorted(ids, reverse=True)]   # newest first: today's stories get the fresh portraits
@@ -711,6 +711,7 @@ if __name__ == '__main__':
         if i and i % 20 == 0: json.dump(M, open('content/photos.map.json', 'w'), ensure_ascii=False, indent=1)
         e = M.get(sid)
         if not e: print(f'{sid}: no photo entry, skipped'); continue
+        if e.get('notreat'): e.pop('treated', None); print(f'{sid}: own photo kept, no collage (notreat)'); continue
         pid, ok, rel = treat(sid, M)
         if pid is None: e.pop('treated', None); print(f'{sid}: nothing suitable to build a cover from'); continue
         for k in M[sid].get('treated', {}).get('with', []): USED[k] = USED.get(k, 0) + 1

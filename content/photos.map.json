@@ -1294,13 +1294,20 @@
   "alt": "Lok Sabha Speaker Om Birla",
   "alt_hi": "लोकसभा अध्यक्ष ओम बिरला",
   "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg",
+  "nocut": true,
   "treated": {
    "src": "/photos/t-speaker-gives-rebel-tmc-mps-till-october-20-1280.jpg",
    "src800": "/photos/t-speaker-gives-rebel-tmc-mps-till-october-20-640.jpg",
-   "cutout": true,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: IAEA Imagebank / Wikimedia Commons"
+   "cutout": false,
+   "with": [
+    "parliament",
+    "supreme-court-declines-plea-aiadmk-mlas-disqualification",
+    "monsoon-session-2026-ends-with-lowest-output",
+    "neet-pg-candidates-deserve-to-see-their-question-papers--p1"
+   ],
+   "kind": "scenes",
+   "subj": "3c3c7e7e3c3c38",
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; Jan Van Ryne (1712-60); Publisher: Robert Sayer / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
   }
  },
  "india-bloc-march-to-supreme-court-after-cji-declines-meeting": {
@@ -10182,14 +10189,7 @@
   "alt": "Lok Sabha Speaker Om Birla (file photo)",
   "alt_hi": "लोकसभा अध्यक्ष ओम बिरला (फ़ाइल फ़ोटो)",
   "page": null,
-  "treated": {
-   "src": "/photos/t-brics-parliamentary-forum-delhi-special-session-talk-1280.jpg",
-   "src800": "/photos/t-brics-parliamentary-forum-delhi-special-session-talk-640.jpg",
-   "cutout": true,
-   "with": [],
-   "kind": "portrait",
-   "credit": "Photo: IAEA Imagebank / Wikimedia Commons"
-  }
+  "nocut": true
  },
  "chacarra-leads-india-championship-chouhan-top-indian": {
   "id": "v-chacarra-leads-india-championship-chouhan-top-indian",
@@ -21256,13 +21256,19 @@
   "alt": "The Grok and ChatGPT chatbots (file images)",
   "alt_hi": "ग्रोक और चैटजीपीटी चैटबॉट (फाइल तस्वीरें) (फ़ाइल फ़ोटो)",
   "page": null,
+  "nocut": true,
   "treated": {
    "src": "/photos/t-grok-republicans-gpt-democrats-midterm-vote-study-1280.jpg",
    "src800": "/photos/t-grok-republicans-gpt-democrats-midterm-vote-study-640.jpg",
    "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: Autor: Grok / Wikimedia Commons; Lugab89 / Wikimedia Commons"
+   "with": [
+    "openai-brings-gpt-6-to-all-chatgpt-users",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "markets-week-ahead-us-midterms-itc-sbi-results-november-2"
+   ],
+   "kind": "scenes",
+   "subj": "ffc1c1c0c0c0c1c1",
+   "credit": "Photos: Jernej Furman / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; Noclip / Wikimedia Commons"
   }
  },
  "houthis-claim-attack-aden-al-nasr-camp-naval-base": {
@@ -44564,20 +44570,7 @@
   "alt": "Nirmala Sitharaman (file photo)",
   "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg",
-  "treated": {
-   "src": "/photos/t-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-1280.jpg",
-   "src800": "/photos/t-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-640.jpg",
-   "cutout": false,
-   "with": [
-    "gst-explained-slabs-council-revenue-sharing",
-    "8th-pay-commission-explained-salary-pension-fitment-factor",
-    "finance-ministry-idbi-2003-parliament-assurance-not-binding",
-    "rupee-slips-12-paise-94-93-brent-fii-selling-october-23"
-   ],
-   "kind": "scenes",
-   "subj": "f1f022223ffef0f",
-   "credit": "Photos: P.K.Niyogi / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons"
-  }
+  "notreat": true
  },
  "pm-kisan-25th-instalment-date-status-ekyc-explained": {
   "id": "o-pm-kisan-25th-instalment-date-status-ekyc-explained",
@@ -44591,20 +44584,7 @@
   "alt": "Shivraj Singh Chouhan (file photo)",
   "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg",
-  "treated": {
-   "src": "/photos/t-pm-kisan-25th-instalment-date-status-ekyc-explained-1280.jpg",
-   "src800": "/photos/t-pm-kisan-25th-instalment-date-status-ekyc-explained-640.jpg",
-   "cutout": false,
-   "with": [
-    "economy-dashboard",
-    "pm-kisan-25th-instalment-date-status-ekyc-explained--p1",
-    "chouhan-women-farmers-recognition-sanchi",
-    "modi-brese-44000-government-buildings-solar-700-crore--p2"
-   ],
-   "kind": "scenes",
-   "subj": "fffe7c00000400e0",
-   "credit": "Photos: Rakesh from Bangalore / Wikimedia Commons; Anil Kaushik / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons; PWRDF / Wikimedia Commons"
-  }
+  "notreat": true
  },
  "8th-pay-commission-explained-salary-pension-fitment-factor": {
   "id": "o-8th-pay-commission-explained-salary-pension-fitment-factor",
@@ -44642,20 +44622,7 @@
   "alt": "Akali Dal president Sukhbir Singh Badal addressing a public meeting in Lambi (file photo)",
   "alt_hi": "लंबी में एक जनसभा को संबोधित करते अकाली दल अध्यक्ष सुखबीर सिंह बादल (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Sukhbir_Singh_Badal_2.jpg",
-  "treated": {
-   "src": "/photos/t-akali-dal-bjp-alliance-punjab-2027-explained-1280.jpg",
-   "src800": "/photos/t-akali-dal-bjp-alliance-punjab-2027-explained-640.jpg",
-   "cutout": false,
-   "with": [
-    "five-states-head-for-2027-assembly-polls",
-    "rabi-msp-wheat-up-rs-25-per-quintal",
-    "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
-    "msp-explained-how-set-who-benefits"
-   ],
-   "kind": "scenes",
-   "subj": "80dffff000200",
-   "credit": "Photos: Mohammad Azahar / Wikimedia Commons; Sarbjit Bahga / Wikimedia Commons; CIAT / Wikimedia Commons; Chparveshtaak / Wikimedia Commons"
-  }
+  "notreat": true
  },
  "akali-dal-bjp-alliance-punjab-2027-explained--p1": {
   "id": "o-akali-dal-bjp-alliance-punjab-2027-explained--p1",
@@ -45029,7 +44996,8 @@
   "licence": "GODL-India",
   "alt": "Union Health Minister J. P. Nadda (file photo)",
   "alt_hi": "केंद्रीय स्वास्थ्य मंत्री जे. पी. नड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg",
+  "notreat": true
  },
  "manipur-election-2027-60-seats-after-presidents-rule": {
   "id": "i-manipur-election-2027-60-seats-after-presidents-rule",
