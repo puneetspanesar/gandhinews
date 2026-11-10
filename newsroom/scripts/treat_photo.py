@@ -61,7 +61,12 @@ def words(t):
 
 def people(alt):
     """Personal names in an alt text (two capitalised words that are not a place or an institution)."""
-    return {n for n in NAME.findall(alt or '') if not PLACEWORDS.search(n)}
+    out = set()
+    for n in NAME.findall(alt or ''):
+        if PLACEWORDS.search(n) or n.split()[0] in ('The', 'A', 'An', 'In', 'At'): continue
+        if re.search(re.escape(n) + r"(?:'s)?\s+(?:Nagar|district|Road|Marg|Chowk|Ghar|Market|Bhawan|Bhavan|Hall|Stadium|clock|tower|House|Gate|Park|Airport|station|Bridge|Ground)", alt, re.I): continue
+        out.add(n)
+    return out
 
 
 # topic buckets: (words in the story, words in a library photo's alt that show that topic)
@@ -70,7 +75,7 @@ BUCKETS = [
     (r'Parliament|Lok Sabha|Rajya Sabha|\bbill\b|session|MPs\b', r'Parliament|Lok Sabha|Rajya Sabha|Samvidhan'),
     (r'court|verdict|judge|bench|petition|\bSC\b|\bHC\b|bail|hearing', r'Supreme Court|High Court|court'),
     (r'army|troops|soldier|defen[cs]e|navy|air force|jawan|BSF|CRPF|border|Rajnath|military', r'soldiers|troops|\barmy\b|Indian Navy|warship|\bINS\b|submarine|\bBSF\b|jawans|Air Force|fighter jet|\btanks? on'),
-    (r'Naxal|Maoist|insurg|terror|security review|internal security|police', r'CRPF|security forces|Bastar|Dantewada|Sukma|jungle'),
+    (r'Naxal|Maoist|insurg|terror|security review|internal security', r'CRPF|security forces|Bastar|Dantewada|Sukma|jungle'),
     (r'climate|COP\d*|emission|pollution|AQI|smog|GRAP|heat|monsoon|flood|cyclone|rain', r'smog|pollution|climate|emission|solar|wind|flood|rain|cyclone|haze|skyline'),
     (r'Sensex|Nifty|market|shares|stock|investor|SEBI|IPO', r'Stock Exchange|BSE|NSE|Dalal|exchange'),
     (r'RBI|rupee|inflation|repo\b|repo rate|banks?\b|banking|forex|GDP|fiscal|Budget|tax\b|taxes|GST', r'Reserve Bank|bank|North Block|Finance Ministry|currency|rupee'),
@@ -114,8 +119,9 @@ def related(sid, M, n=3, strict=False):
         if people(alt) or os.path.basename(x['src']).split('-1280')[0] == own: continue   # places and scenes only
         if PERSONISH.search(alt): continue
         if d.get('section') != 'world' and FOREIGN.search(alt): continue                              # no foreign scenes on Indian stories
+        if FOREIGN.search(alt) and not any(re.search(COUNTRY[c][1], alt) for c in country_of(text)): continue   # only the story's own country
         if d.get('section') == 'world' and (re.search(r'\bIndia|Indian\b', alt) or any(c in alt for c in list(ALIAS) + list(STATES))): continue   # no Indian scenes on world stories
-        if state and any(st in alt for st in STATES if st != state) and state not in alt: continue   # another state's scene
+        if state and any(st in alt for st in STATES if st not in (state, 'Delhi')) and state not in alt: continue   # another state's scene
         if state and any(c in alt for c, st in ALIAS.items() if st != state and c not in ('New Delhi',)) and state not in alt: continue
         place = 1 if state and (state in alt or any(c in alt for c, st in ALIAS.items() if st == state)) else 0
         ap = set(re.findall(r'\b[A-Z][A-Za-z]{2,}\b', alt))
@@ -128,6 +134,7 @@ def related(sid, M, n=3, strict=False):
     for sc, k, alt in cands:
         caps = set(re.findall(r'[A-Z][a-z]+', alt)) | {w.lower() for w in words(alt)}
         if any(len(caps & c) / max(1, len(caps | c)) > .34 for c in seenalt) or not os.path.exists('public' + M[k]['src']): continue
+        if any(same_pic('public' + M[k]['src'], 'public' + M[o]['src']) for o in out): continue
         seenalt.add(frozenset(caps)); out.append(k)
         if len(out) >= n: break
     return out
@@ -138,12 +145,116 @@ ALIAS = {'New Delhi': 'Delhi', 'Mumbai': 'Maharashtra', 'Bengaluru': 'Karnataka'
          'Jaipur': 'Rajasthan', 'Raipur': 'Chhattisgarh', 'Ranchi': 'Jharkhand', 'Bhubaneswar': 'Odisha', 'Thiruvananthapuram': 'Kerala',
          'Guwahati': 'Assam', 'Dehradun': 'Uttarakhand', 'Shimla': 'Himachal Pradesh', 'Amaravati': 'Andhra Pradesh', 'Gandhinagar': 'Gujarat',
          'Ahmedabad': 'Gujarat', 'Chandigarh': 'Punjab', 'Gangtok': 'Sikkim', 'Imphal': 'Manipur', 'Panaji': 'Goa', 'Nagpur': 'Maharashtra',
-         'Varanasi': 'Uttar Pradesh', 'Ayodhya': 'Uttar Pradesh'}
-FOREIGN = re.compile(r'Kenya|Taiwan|China|Chinese|Pakistan|Bangladesh|Nepal|Sri Lanka|United States|\bUS\b|American|Oklahoma|Texas|'
+         'Varanasi': 'Uttar Pradesh', 'Ayodhya': 'Uttar Pradesh', 'Bastar': 'Chhattisgarh', 'Dantewada': 'Chhattisgarh',
+         'Sukma': 'Chhattisgarh', 'Nainital': 'Uttarakhand', 'Dispur': 'Assam', 'Noida': 'Uttar Pradesh', 'Gurugram': 'Haryana'}
+FOREIGN = re.compile(r'Yemen|Houthi|Moscow|Kyiv|Kharkiv|Strasbourg|Brussels|NATO|Geneva|New York|Oslo|Somalia|Gulf of|Red Sea|Kenya|Taiwan|China|Chinese|Pakistan|Bangladesh|Nepal|Sri Lanka|United States|\bUS\b|American|Oklahoma|Texas|'
                      r'Washington|London|British|UK\b|France|French|Paris|Germany|German|Russia|Russian|Ukrain|Japan|Tokyo|Korea|Australia|'
                      r'Canada|Brazil|Iran|Israel|Gaza|Saudi|Qatar|Dubai|Turkey|Türkiye|Africa|Europe|Italy|Spain|Afghan|Myanmar')
 STATES = set(ALIAS.values()) | {'Punjab', 'Haryana', 'Bihar', 'Kerala', 'Assam', 'Odisha', 'Goa', 'Tripura', 'Meghalaya', 'Mizoram',
                                  'Nagaland', 'Arunachal Pradesh', 'Telangana', 'Andhra Pradesh', 'Tamil Nadu', 'Karnataka'}
+
+
+COUNTRY = {  # story words -> scene words for that country
+    'Ukraine': (r'Ukrain|Zelensk|Kyiv', r'Ukrain|Kyiv'), 'Russia': (r'Russia|Putin|Kremlin|Moscow', r'Russia|Moscow|Kremlin'),
+    'United States': (r'United States|\bUS\b|America|Trump|Washington|White House|Rubio|Congress\b.*US', r'Washington|White House|Capitol|United States'),
+    'China': (r'China|Chinese|Beijing|\bXi\b', r'China|Beijing'), 'Iran': (r'Iran|Tehran|Hormuz', r'Iran|Tehran|Hormuz'),
+    'Israel': (r'Israel|Gaza|Netanyahu', r'Israel|Gaza|Jerusalem'), 'Nepal': (r'Nepal|Kathmandu', r'Nepal|Kathmandu'),
+    'Bangladesh': (r'Bangladesh|Dhaka', r'Bangladesh|Dhaka'), 'Pakistan': (r'Pakistan|Islamabad', r'Pakistan|Islamabad'),
+    'United Kingdom': (r'\bUK\b|Britain|London|Starmer', r'London|Britain|\bUK\b'), 'Japan': (r'Japan|Tokyo', r'Japan|Tokyo'),
+    'European Union': (r'\bEU\b|European|Brussels', r'Brussels|European'), 'Turkey': (r'Turkey|Türkiye|Antalya|Ankara', r'Turkey|Türkiye|Antalya|Ankara'),
+    'Sri Lanka': (r'Sri Lanka|Colombo', r'Sri Lanka|Colombo'), 'Maldives': (r'Maldives|Male\b', r'Maldives'),
+}
+INSTITUTION = [  # story words -> Indian institutions and settings that belong with it
+    (r'Naxal|Maoist|CRPF|CoBRA|security forces|insurg', r'CRPF|BSF|jawans|troops|soldiers|Bastar|Dantewada|Sukma'),
+    (r'Election Commission|ECI|\bCEC\b|EVM|SIR\b|voter|electoral roll|delimitation|ballot|polling', r'Nirvachan|Election Commission|polling|voter|ballot|inked finger|Indelible'),
+    (r'talks|summit|visit|bilateral|diplomat|ambassador|envoy|phone call|speaks to|Jaishankar|MEA|treaty|partnership', r'Hyderabad House|External Affairs|South Block|diplomat|summit'),
+    (r'BJP|Congress|party|election|poll|vote|Lok Sabha|Rajya Sabha|MP\b|MLA|opposition|rally|campaign', r'Parliament|Election Commission|Nirvachan|polling|Vidhan|Lok Sabha|Rajya Sabha'),
+    (r'court|judge|bench|bail|petition|verdict|hearing|Supreme Court|High Court', r'Supreme Court|High Court|court'),
+    (r'Sensex|Nifty|shares|market|stock|SEBI|IPO|profit|revenue|quarter|Q[1-4]', r'Stock Exchange|BSE|NSE|Dalal|exchange'),
+    (r'RBI|rupee|inflation|bank|GDP|Budget|tax|GST|fiscal', r'Reserve Bank|North Block|bank'),
+    (r'army|troops|soldier|jawan|BSF|CRPF|border|security forces', r'soldiers|troops|BSF|jawans|\bArmy\b'),
+    (r'navy|naval|warship', r'Indian Navy|warship|\bINS\b'), (r'air force|IAF|fighter', r'Air Force|fighter jet|airbase'),
+    (r'cricket|Test|ODI|T20|IPL', r'cricket|stadium'), (r'tennis|ATP|WTA', r'tennis'), (r'hockey|football|athlet|Olympic|chess|badminton|shoot', r'stadium|arena'),
+]
+
+
+def simalt(a, b):
+    wa = {w.lower() for w in words(a or '') if w.lower() not in ('file', 'photo', 'new', 'delhi', 'building', 'india')}
+    wb = {w.lower() for w in words(b or '') if w.lower() not in ('file', 'photo', 'new', 'delhi', 'building', 'india')}
+    return bool(wa and wb) and len(wa & wb) / len(wa | wb) >= .4
+
+
+def country_of(text):
+    return [c for c, (srx, arx) in COUNTRY.items() if re.search(srx, text)]
+
+
+def fill_tiles(sid, M, have, n=3):
+    """Three background scenes that clearly belong with the story: its own topic and names first, then its country or state,
+    then the Indian institution the story is about. Places and scenes only, never a person, never an unrelated country."""
+    out = [k for k in related(sid, M, n) if k not in have]
+    d = fm(sid); fp = R + f'content/en/news/{sid}.md'
+    body = (open(fp).read().split('---', 2)[-1][:1500] if os.path.exists(fp) else '')
+    text = ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label'))   # headline and standfirst only
+    countries = country_of(str(d.get('title') or '') + ' ' + str(d.get('standfirst') or ''))
+    loc = str(d.get('location') or '')
+    state = next((ALIAS.get(x.strip(), x.strip()) for x in loc.split(',')[::-1] if ALIAS.get(x.strip(), x.strip()) in STATES
+                  and ALIAS.get(x.strip(), x.strip()) != 'Delhi'), None)
+    allowed = [COUNTRY[c][1] for c in countries]
+    story = text + ' ' + body
+    if not state:   # a Delhi dateline: the state the headline is about, if any (Bastar -> Chhattisgarh)
+        for nm in sorted(list(ALIAS) + list(STATES), key=len, reverse=True):
+            if nm not in ('New Delhi', 'Delhi') and re.search(rf'\b{re.escape(nm)}\b', text): state = ALIAS.get(nm, nm); break
+    def state_ok(alt):   # a scene from a state the story never mentions does not belong (UP's Vidhan Bhawan behind Advani)
+        for nm in list(STATES) + list(ALIAS):
+            if nm in ('New Delhi', 'Delhi') or not re.search(rf'\b{re.escape(nm)}\b', alt): continue
+            stn = ALIAS.get(nm, nm)
+            if stn != state and not re.search(rf'\b{re.escape(stn)}\b', story) and not re.search(rf'\b{re.escape(nm)}\b', story): return False
+        return True
+    def ok_scene(k, x):
+        alt = x.get('alt') or ''
+        if k == sid or k in have or k in out or x.get('graphic') or x.get('notile') or not x.get('src') or k.startswith('x-'): return False
+        if os.path.basename(x['src']).startswith(('t-', 'i2-', 'i-', 'lib-')) or 'photos)' in alt or people(alt) or PERSONISH.search(alt): return False
+        if not os.path.exists('public' + x['src']): return False
+        fo = FOREIGN.search(alt)
+        if fo and not any(re.search(a, alt) for a in allowed): return False            # a foreign scene only for that country's story
+        if state and any(st in alt for st in STATES if st not in (state, 'Delhi')) and state not in alt: return False
+        if state and any(c in alt for c, st in ALIAS.items() if st != state and c != 'New Delhi') and state not in alt: return False
+        if not state_ok(alt): return False
+        for rx in (r'bear|tiger|leopard|elephant|National Park|wildlife|bird', r'stadium|cricket|ground', r'coal|power station|thermal|mine\b'):
+            if re.search(rx, alt, re.I) and not re.search(rx, story, re.I): return False   # off-topic: a sloth bear behind a political story
+        if re.search(r'-bg-\d+\.jpg$', x['src']) or re.search(r'chart|graphic|diagram|seat', alt, re.I): return False
+        return True
+    out[:] = [k for k in out if state_ok(M[k].get('alt') or '')]
+    def pick(rx, k_max):
+        c = sorted((USED.get(k, 0), k) for k, x in M.items() if ok_scene(k, x) and re.search(rx, x.get('alt') or ''))
+        took = 0
+        for _, k in c:
+            if len(out) >= n or took >= k_max: break
+            if any(same_pic('public' + x['src'], 'public' + M[o]['src']) for o in list(out) + list(have) for x in [M[k]]): continue
+            if any(simalt(M[o].get('alt'), M[k].get('alt')) for o in out): continue   # two views of one building
+            out.append(k); took += 1
+    for c in countries: pick(COUNTRY[c][1], 2)                                      # Kyiv for a Zelenskyy story
+    if state:   # civic landmarks of the dateline's state only
+        st_rx = re.escape(state) + '|' + '|'.join(re.escape(c) for c, st in ALIAS.items() if st == state)
+        civic = r'Vidhan|Bhavan|Bhawan|Secretariat|Writers|headquarters|High Court|assembly|skyline|city|Raj Bhavan|Nabanna|Lalbazar'
+        civic += r'|Nagar|Raipur|town|clock tower|Ghanta Ghar|Governor|capital|Legislative|Dispur|view|street|market'
+        c = sorted((USED.get(k, 0), k) for k, x in M.items() if ok_scene(k, x) and re.search(st_rx, x.get('alt') or '') and re.search(civic, x.get('alt') or '', re.I))
+        for _, k in c:
+            if len(out) >= n: break
+            if any(same_pic('public' + M[k]['src'], 'public' + M[o]['src']) for o in list(out) + list(have)): continue
+            if sum(1 for o in out if re.search(st_rx, M[o].get('alt') or '')) >= 2: break
+            if any((M[o].get('alt') or '') == (M[k].get('alt') or '') for o in out): continue
+            out.append(k)
+    for srx, arx in INSTITUTION:
+        if len(out) >= n: break
+        if re.search(rf'\b(?:{srx})', text, re.I): pick(arx, 2)
+    if len(out) < n:   # still short: the institution the section covers
+        sec = d.get('section', '')
+        pick({'politics': r'Parliament|Election Commission|Nirvachan|polling', 'states': r'Vidhan|Secretariat|assembly|Bhavan',
+              'policy': r'North Block|South Block|Parliament|Bhawan', 'parliament': r'Parliament|Lok Sabha|Rajya Sabha',
+              'economy': r'Reserve Bank|Stock Exchange|BSE|NSE|port|North Block', 'courts': r'Supreme Court|High Court',
+              'world': r'United Nations|summit|External Affairs', 'sports': r'stadium|ground', 'science': r'ISRO|laboratory|rocket|campus'}.get(sec, r'Parliament|North Block'), n)
+    return out[:n]
 
 
 def generic(sid, M, have, n):
@@ -160,7 +271,7 @@ def generic(sid, M, have, n):
 
 
 PEOPLE = json.load(open(R + 'newsroom/library/people.json'))
-PERSONISH = re.compile(r'\b(Justice|Dr|Mr|Mrs|Ms|Shri|Smt|minister|leader|chief|CM|MP|MLA|chairman|chairperson|CEO|president|woman|man|girl|boy|portrait|speaks|speaking|addresses|addressing|actor|player|batter|bowler|captain|coach)\b', re.I)
+PERSONISH = re.compile(r'\b(leaders|delegates|ministers|officials|group photo|family photo|Justice|Dr|Mr|Mrs|Ms|Shri|Smt|minister|leader|chief|CM|MP|MLA|chairman|chairperson|CEO|president|woman|man|girl|boy|portrait|speaks|speaking|addresses|addressing|actor|player|batter|bowler|captain|coach)\b', re.I)
 USED = {}   # how often each library photo already sits in a collage (filled in main)
 
 
@@ -187,12 +298,13 @@ def named_people(text):
     return [k for k, _ in sorted(hits.items(), key=lambda t: t[1])]
 
 
-def library_portrait(pk):
+def library_portrait(pk, i=0):
     """Download (once, as a Wikimedia thumbnail) the first licensed photo of a library person: (path, credit) or None."""
     import urllib.request, io, time
-    ph = (PEOPLE[pk].get('photos') or [None])[0]
-    if not ph or not ph.get('url'): return None
-    path = f'public/photos/lib-{pk}-1280.jpg'
+    phs = PEOPLE[pk].get('photos') or []
+    if i >= len(phs) or not phs[i].get('url'): return None
+    ph = phs[i]
+    path = f'public/photos/lib-{pk}-1280.jpg' if i == 0 else f'public/photos/lib-{pk}-{i}-1280.jpg'
     if not os.path.exists(path):
         u = ph['url'].split('?')[0]
         m = re.match(r'https://upload\.wikimedia\.org/wikipedia/commons/(\w)/(\w\w)/([^/]+)$', u)
@@ -208,26 +320,75 @@ def library_portrait(pk):
     return path, f"{(ph.get('author') or 'Wikimedia Commons').strip()} / Wikimedia Commons, {ph.get('licence', '')}".strip(', ')
 
 
-def portrait(sid, M):
-    """The headline's first-named person, alone: a solo photo we already hold, else the library portrait. (path, credit)."""
+SUBJ_USED = {}   # subject photos already in a collage, keyed by a picture hash (two files of one photo count as one)
+TILE_HASH = {}
+
+
+def ahash(path):
+    """A 64-bit average hash: the same picture saved twice under two names gets the same (or a very close) hash."""
+    if path not in TILE_HASH:
+        g = np.asarray(Image.open(path).convert('L').resize((8, 8), Image.BILINEAR)).astype(np.float32)
+        TILE_HASH[path] = int(''.join('1' if v > g.mean() else '0' for v in g.flatten()), 2)
+    return TILE_HASH[path]
+
+
+def same_pic(a, b):
+    return bin(ahash(a) ^ ahash(b)).count('1') <= 6
+
+
+def subj_used(path):
+    h = ahash(path)
+    return sum(n for k, n in SUBJ_USED.items() if bin(k ^ h).count('1') <= 6)
+
+
+def plain_backdrop(im):
+    """True for a studio shot on a white or flat backdrop: it looks empty as a whole panel."""
+    a = np.asarray(im.convert('L').resize((64, 64))).astype(np.float32)
+    edge = np.concatenate([a[:6].ravel(), a[:, :6].ravel(), a[:, -6:].ravel()])
+    return edge.mean() > 225 or edge.std() < 9
+
+
+def portraits(sid, M):
+    """Every solo photo we can use of the headline's first-named person, least-used first: [(path, credit), ...]."""
     d = fm(sid); title = str(d.get('title') or ''); fp = R + f'content/en/news/{sid}.md'
-    full = title + ' ' + (open(fp).read() if os.path.exists(fp) else '') + ' ' + str(M.get(sid, {}).get('alt') or '')   # headline, story text or caption
+    full = title + ' ' + (open(fp).read() if os.path.exists(fp) else '') + ' ' + str(M.get(sid, {}).get('alt') or '')
     for pk in named_people(title)[:1]:
-        # a surname alone is not enough: the person's full name must appear in the story or its caption
-        # (Tata Steel is not Ratan Tata, Prism Johnson is not Mike Johnson, Azam Khan is not Babar Azam)
-        if not any(nm in full for nm in [PEOPLE[pk]['en']] + list(PEOPLE[pk].get('aliases') or [])): return None
-        name = PEOPLE[pk]['en']; best = None
+        # a surname alone is not enough: the full name must appear in the story (Tata Steel is not Ratan Tata)
+        if not any(nm in full for nm in [PEOPLE[pk]['en']] + list(PEOPLE[pk].get('aliases') or [])): return []
+        name = PEOPLE[pk]['en']; c = []
         for mk, x in M.items():
             alt = x.get('alt') or ''
             if mk == sid or x.get('graphic') or mk.startswith('x-') or not x.get('src'): continue
-            if os.path.basename(x['src']).startswith(('v-', 't-', 'c-', 'i')): continue
-            if name not in alt or named_people(alt) != [pk] or re.search(r'\band\b|\bwith\b|calls on|meets|photos\)', alt): continue
-            if not os.path.exists('public' + x['src']): continue
-            w = x.get('srcWidth') or x.get('width') or 0
-            if best is None or w > best[0]: best = (w, mk)
-        if best: return 'public' + M[best[1]]['src'], M[best[1]].get('credit', '').replace('Photo: ', '')
-        return library_portrait(pk)
-    return None
+            if os.path.basename(x['src']).startswith(('t-', 'i2-', 'i-', 'lib-')) or 'photos)' in alt: continue
+            if name not in alt or re.search(r'Stadium|Mandapam\b.*\(file photo\)$|statue|poster|cutout|hoarding', alt) or named_people(alt) != [pk] or re.search(r'\band\b|\bwith\b|calls on|meets|photos\)', alt): continue
+            if os.path.exists('public' + x['src']): c.append(('public' + x['src'], x.get('credit', '').replace('Photo: ', '')))
+        for i in range(len(PEOPLE[pk].get('photos') or [])):
+            lp = library_portrait(pk, i)
+            if lp and lp[0] not in [p for p, _ in c]: c.append(lp)
+        h = int(hashlib.md5(sid.encode()).hexdigest()[:6], 16)
+        c.sort(key=lambda pc: (subj_used(pc[0]), (hash(pc[0]) ^ h) & 0xffff))
+        return c
+    return []
+
+
+def _cuts(im):
+    """(cut-out, touches_top) when the photo gives one clean subject, else None."""
+    cut, a = cutout(im)
+    if not (.05 < a.mean() < .7 and a[-int(a.shape[0] * .2):].mean() > .04): return None    # nothing, or not standing on the bottom
+    ew = max(2, int(a.shape[1] * .02))
+    if a[:, :ew].mean() > .12 or a[:, -ew:].mean() > .12: return None                     # someone sliced by the side edge
+    from scipy import ndimage
+    lab, n = ndimage.label(a > .5)
+    if sum(1 for sz in ndimage.sum(a > .5, lab, range(1, n + 1)) if sz > a.size * .03) > 2: return None   # a group
+    m = a > .5; cols = np.where(m.any(0))[0]
+    if len(cols) == 0: return None
+    bw = m[-max(2, int(a.shape[0] * .05)):].any(0).sum()                                    # width across the bottom rows
+    if bw < (cols[-1] - cols[0] + 1) * .55: return None                                     # a face on a neck, no shoulders
+    rows = np.where(m.any(1))[0]
+    if (rows[-1] - rows[0]) < a.shape[0] * .45: return None                                 # a tiny figure in a big frame
+    rs = m.sum(1); r15 = rows[0] + int((rows[-1] - rows[0]) * .15)
+    if rs[r15] > rs.max() * .72: return None                                                # a face filling the frame, no shoulders below
+    return cut, a[:max(2, int(a.shape[0] * .03))].mean() > .03
 
 
 def cutout(im):
@@ -305,21 +466,46 @@ def arch(w, h, color=RED):
     return t
 
 
-def treat(sid, M):
+def treat_scenes(sid, M):
+    return treat(sid, M, scenes_only=True)
+
+
+def treat(sid, M, scenes_only=False):
     e = M[sid]
     # the subject: the story's own photo, unless it is an infographic or a cover of one person twice; then the headline
     # person's solo photo (ours or the library's); otherwise a collage of clearly related scenes
     alt0 = e.get('alt', '')
     single = (e.get('src') or '').split('/')[-1].startswith('v-') and len(named_people(alt0)) <= 1 and not re.search(r'\band\b|\bwith\b', alt0)
-    if not e.get('graphic') and not single:
-        subj_path, subj_credit, src_key = 'public' + e['src'], e.get('credit', '').replace('Photos: ', '').replace('Photo: ', ''), sid
+    own_ok = not e.get('graphic') and not single
+    pre = None
+    if own_ok:
+        pre = _cuts(Image.open('public' + e['src']).convert('RGB')) if (named_people(alt0) or PERSONISH.search(alt0)) else None
+        if pre and pre[1]: pre = None
+    # the story's own photo when it cuts out cleanly, or when it shows an event or a place; a plain file headshot that
+    # will not cut out (head cropped at the top, white backdrop) is swapped for a clean solo photo of the same person
+    generic_head = own_ok and bool(named_people(alt0)) and not SCENE.search(alt0) and re.search(r'\(file photo\)\s*$', alt0)
+    own_path = 'public' + e['src']
+    own_cr = e.get('credit', '').replace('Photos: ', '').replace('Photo: ', '')
+    subj_path = subj_credit = src_key = None
+    whole_ok = True
+    if own_ok:
+        im0 = Image.open(own_path).convert('RGB')
+        whole_ok = not ((named_people(alt0) or PERSONISH.search(alt0)) and (im0.height > im0.width * .9 or plain_backdrop(im0)))
+    # never the same picture on two collages (owner, November 10): the story's own photo if it is fresh and usable, else a
+    # fresh solo photo of the headline person that cuts out cleanly, else a collage of the story's scenes
+    if own_ok and (pre or (not generic_head and whole_ok)) and subj_used(own_path) == 0:
+        subj_path, subj_credit, src_key = own_path, own_cr, sid
     else:
-        pr = portrait(sid, M)
-        subj_path, subj_credit = pr if pr else (None, None)
-        src_key = 'portrait' if pr else None
+        for pth, c in portraits(sid, M):
+            if subj_used(pth) > 0: continue
+            r = _cuts(Image.open(pth).convert('RGB'))
+            if r and not r[1]: subj_path, subj_credit, src_key = pth, c, 'portrait'; break
+    if scenes_only: subj_path = subj_credit = src_key = None
+    if subj_path: SUBJ_USED[ahash(subj_path)] = SUBJ_USED.get(ahash(subj_path), 0) + 1
     main_scene = None
     if src_key is None:
         main_scene = related(sid, M, 4, strict=True)
+        if len(main_scene) < 4: main_scene += fill_tiles(sid, M, set(main_scene), 4 - len(main_scene))
         if len(main_scene) < 3: return None, False, []
     orig = Image.open(subj_path).convert('RGB') if subj_path else None
     rnd = random.Random(int(hashlib.md5(sid.encode()).hexdigest()[:8], 16))
@@ -329,8 +515,9 @@ def treat(sid, M):
 
     if main_scene:
         rel = main_scene[1:]; centre = main_scene[0]
+        if len(rel) < 3: rel += fill_tiles(sid, M, set(main_scene), 3 - len(rel))
     else:
-        rel = related(sid, M, 3)   # only tiles that clearly belong to this story; none is better than a wrong one
+        rel = fill_tiles(sid, M, set(), 3)   # always three scenes that belong with the story
         centre = None
     paths = ['public' + M[k]['src'] for k in rel]
 
@@ -338,25 +525,23 @@ def treat(sid, M):
     is_person = src_key == 'portrait' or bool(named_people(a0) or people(a0) or PERSONISH.search(a0))
     if src_key == sid and (len(named_people(a0)) > 2 or re.search(r'\b(group|team|members|delegation|crowd|officials|medallists|contingent|personnel|soldiers|troops)\b', a0, re.I)):
         is_person = False                                  # a group never cuts out cleanly: show the photo whole
+    top = False
     if orig is not None and is_person:
-        cut, a = cutout(orig)
-        ok = .05 < a.mean() < .7 and a[-int(a.shape[0] * .2):].mean() > .04
-        if ok and a[:max(2, int(a.shape[0] * .03))].mean() > .03: ok = False   # head cut by the photo's top edge: show it whole
-        ew = max(2, int(a.shape[1] * .02))
-        if ok and (a[:, :ew].mean() > .12 or a[:, -ew:].mean() > .12): ok = False   # someone sliced by the side edge: show it whole
-        if ok:
-            from scipy import ndimage
-            lab, n = ndimage.label(a > .5)
-            big = sum(1 for sz in ndimage.sum(a > .5, lab, range(1, n + 1)) if sz > a.size * .03)
-            if big > 2: ok = False                                                  # a group: show the photo whole
+        r = _cuts(orig)
+        ok = bool(r) and not r[1]
+        if ok: cut, top = r
     else:
         ok = False
     if src_key == 'portrait' and not ok: return None, False, []
+    if src_key == sid and is_person and not ok and not whole_ok:
+        SUBJ_USED[ahash(subj_path)] -= 1
+        return treat_scenes(sid, M)
+
 
     can.alpha_composite(grid(220, 154), (X(36, 220), 40))
     can.alpha_composite(dots(176, 112), (X(W - 220, 176), H - 150))
     boxes = [(560, 60, 640, 420, 'tbr'), (40, 300, 380, 280, 'tblr'), (900, 440, 300, 220, 'tlr')]
-    if not ok: boxes = [(30, 90, 330, 240, 'tblr'), (920, 470, 330, 250, 'tblr'), (60, 470, 280, 210, 'tlr')]
+    if not ok: boxes = [(20, 60, 320, 230, 'tblr'), (940, 500, 320, 240, 'tblr'), (30, 500, 300, 220, 'tlr')]
     for p, (x, y, w, h, sd) in zip(paths, boxes):
         can.alpha_composite(tile(p, w, h, rnd, True, sd), (X(x, w), y))
     can.alpha_composite(bars(120, 90, rnd), (X(1130, 120), 28) if not flip else (30, 28))
@@ -366,21 +551,21 @@ def treat(sid, M):
     cxs = int(W * (.42 if not flip else .58))
     if ok:
         cut = cut.crop(cut.getbbox())
-        s = min(H * .82 / cut.height, W * .42 / cut.width)
-        if cut.height < cut.width * 1.25: s = min(s, H * .62 / cut.height)   # a tight head crop: keep the face a sane size
+        if top: s = min(H / cut.height, W * .6 / cut.width)          # a close crop: the head runs off the top of the cover
+        else: s = min(H * .94 / cut.height, W * .56 / cut.width)
         cut = cut.resize((round(cut.width * s), round(cut.height * s)), Image.LANCZOS)
-        aw = int(min(max(cut.width * .78, 300), 460)); ah = int(H * .7)
+        aw = int(min(max(cut.width * .8, 320), 520)); ah = int(H * .78)
         can.alpha_composite(arch(aw, ah), (cxs - aw // 2, H - ah))
         rim = Image.new('RGBA', cut.size, (250, 246, 238, 255)); rim.putalpha(cut.split()[-1].filter(ImageFilter.MaxFilter(7)))
-        x0 = cxs - cut.width // 2; y0 = H - cut.height
+        x0 = min(max(0, cxs - cut.width // 2), W - cut.width); y0 = H - cut.height
         can.alpha_composite(rim, (x0, y0)); can.alpha_composite(cut, (x0, y0))
     else:
-        cw, ch = 700, 470
+        cw, ch = 820, 560
         tx = (W - cw) // 2 + (40 if not flip else -40)
         aw, ah = 280, 220     # a red dome rising from behind the top edge of the main photo
-        can.alpha_composite(arch(aw, ah), ((tx + cw - aw - 70) if not flip else (tx + 70), 160 - 120))
+        can.alpha_composite(arch(aw, ah), ((tx + cw - aw - 70) if not flip else (tx + 70), 120 - 110))
         main = 'public' + (M[centre]['src'] if centre else e['src'])
-        can.alpha_composite(tile(main, cw, ch, rnd, False, 'tblr'), ((W - cw) // 2 + (40 if not flip else -40), 160))
+        can.alpha_composite(tile(main, cw, ch, rnd, False, 'tblr'), (tx, 120))
 
     out = can.convert('RGB')
     pid = 't-' + sid[:60]
@@ -416,6 +601,6 @@ if __name__ == '__main__':
         if not e: print(f'{sid}: no photo entry, skipped'); continue
         pid, ok, rel = treat(sid, M)
         if pid is None: e.pop('treated', None); print(f'{sid}: nothing suitable to build a cover from'); continue
-        for k in rel: USED[k] = USED.get(k, 0) + 1
+        for k in M[sid].get('treated', {}).get('with', []): USED[k] = USED.get(k, 0) + 1
         print(f'{sid}: {pid} ({"cut-out" if ok else "scene"}; with {", ".join(rel) or "nothing"})')
     json.dump(M, open('content/photos.map.json', 'w'), ensure_ascii=False, indent=1)
