@@ -8,7 +8,7 @@ topics: [census-2027, elections-2027]
 title: "Census 2027 self-enumeration from November 16 in UP, Punjab, Goa and Uttarakhand: how to fill the form online"
 standfirst: "People in four poll-bound states can count themselves online from November 16 to 30, before enumerators knock from December 1. The dates, how the self-enumeration portal works, the SE ID you must keep, what you will be asked, and your rights and duties under the Census Act."
 published: 2026-11-10T13:03:00+05:30
-shortAnswer: "In Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand, households can fill in their own census details online from November 16 to 30, 2026. Enumerators then visit every home from December 1, 2026 to January 4, 2027, with a revisional round from January 5 to 9; the population is counted as it stood at midnight on January 5, 2027. In the house-listing phase, the self-enumeration portal (se.census.gov.in) took a mobile OTP, a map pin for your home and about 15 to 20 minutes, and gave an 11-character SE ID to show the enumerator. Self-enumeration is optional; answering the census truthfully is not."
+shortAnswer: "In Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand, households can fill in their own census details online from November 16 to 30, 2026. Enumerators then visit every home from December 1, 2026, to January 4, 2027, with a revisional round from January 5 to 9; the population is counted as it stood at midnight on January 5, 2027. In the house-listing phase, the self-enumeration portal (se.census.gov.in) took a mobile OTP, a map pin for your home and about 15 to 20 minutes, and gave an 11-character SE ID to show the enumerator. Self-enumeration is optional; answering the census truthfully is not."
 hero:
   need: "A census enumerator at work in India, or the Census of India office"
   suggested_source: "Census of India enumerator"
@@ -58,10 +58,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Dates (self-enumeration November 16 to 30, 2026; door-to-door December 1, 2026 to January 4, 2027; revisional round January 5 to 9; reference midnight January 5, 2027; rest of India March 1, 2027) from National Herald's report of the Registrar General's gazette notification, which is also cited in our existing census explainer."
+    - "Dates (self-enumeration November 16 to 30, 2026; door-to-door December 1, 2026, to January 4, 2027; revisional round January 5 to 9; reference midnight January 5, 2027; rest of India March 1, 2027) from National Herald's report of the Registrar General's gazette notification, which is also cited in our existing census explainer."
     - "Portal steps (se.census.gov.in, one mobile per household, 16 languages, map pin, 15 to 20 minutes, draft and Final Submit, 11-character SE ID starting with H, enumerator check) are from the house-listing phase as described by Business Today and the official FAQ; the copy says these were the steps in the house-listing phase. Whether the population-enumeration form follows exactly the same steps had not been confirmed at the time of writing."
     - "Census Act provisions (Section 8 duty to answer, Section 11(1)(d) fine up to ₹1,000, Section 15 confidentiality) from the official FAQ."
-    - "Manipur's deferral from our October 18, 2026 story on Chief Minister Khemchand Singh's remarks."
+    - "Manipur's deferral from our October 18, 2026, story on Chief Minister Khemchand Singh's remarks."
 ---
 
 **If you live in Uttar Pradesh, Punjab, Goa or Uttarakhand, the census is about to reach you.** These four states, which vote for new assemblies in early 2027, have had their population count moved forward so that it finishes before the elections. Before enumerators start knocking on doors, every household gets a chance to **count itself online, from November 16 to 30, 2026**.
@@ -71,7 +71,7 @@ verification:
 **Self-enumeration first, then the door-to-door count, then a check.** The Registrar General's notification sets this timetable for the four states:
 
 ```timeline
-{"title":"Census 2027 in UP, Punjab, Goa and Uttarakhand","items":[{"date":"Nov 16 to 30, 2026","text":"Self-enumeration: households fill in their own details online."},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Enumerators visit every household."},{"date":"Jan 5, 2027, midnight","text":"Reference moment: the population is counted as it stood then."},{"date":"Jan 5 to 9, 2027","text":"Revisional round, when records can be reviewed and updated."},{"date":"Mar 1, 2027","text":"Reference date for the rest of India."}]}
+{"title":"Census 2027 in UP, Punjab, Goa and Uttarakhand","items":[{"date":"Nov 16 to 30, 2026","text":"Self-enumeration: households fill in their own details online."},{"date":"Dec 1, 2026, to Jan 4, 2027","text":"Enumerators visit every household."},{"date":"Jan 5, 2027, midnight","text":"Reference moment: the population is counted as it stood then."},{"date":"Jan 5 to 9, 2027","text":"Revisional round, when records can be reviewed and updated."},{"date":"Mar 1, 2027","text":"Reference date for the rest of India."}]}
 ```
 
 In Uttarakhand, only the areas not cut off by snow are covered by these dates; Ladakh, the snowbound parts of Jammu and Kashmir, Himachal Pradesh and snowbound Uttarakhand were counted with a reference date of October 1, 2026. **Manipur is not included**: its census has been deferred.

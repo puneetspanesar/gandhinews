@@ -72,7 +72,7 @@ verification:
     - "2022 seats and vote shares from BOOM's Goa results page (BJP 20, 33.31%; Congress 11, 23.46%; independents 3; MGP 2, 7.60%; AAP 2, 6.77%; RGP 1, 9.81%; GFP 1, 1.84%), consistent with ThePrint's counting-day table for the parties it lists."
     - "Defections: ten Congress MLAs in 2019 and eight legislators in 2022, per Outlook (October 4, 2026), which does not say all eight were Congress MLAs; the copy says 'legislators'."
     - "Goa First alliance (September 13, 2026), Kejriwal quotes, Atishi's role, Chodankar quote and AAP's 2022 winners from The Week."
-    - "ST seat background and October 29 stay from our explainer and news story of November 3, 2026 and Verdictum's report of the order. Whether the state has since filed in the Supreme Court was not confirmed at the time of writing."
+    - "ST seat background and October 29 stay from our explainer and news story of November 3, 2026, and Verdictum's report of the order. Whether the state has since filed in the Supreme Court was not confirmed at the time of writing."
     - "Term end: our calendar gives March 14, 2027; BOOM gives February 14, 2027. The copy says 'early 2027'."
 ---
 

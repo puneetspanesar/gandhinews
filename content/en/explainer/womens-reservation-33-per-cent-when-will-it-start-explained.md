@@ -58,7 +58,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Provisions of the 106th Amendment (one-third of seats in Lok Sabha, state assemblies and the Delhi assembly; one-third of SC and ST seats; rotation; 15 years, extendable; starts after the first census after commencement and delimitation) from Outlook's explainer; commencement on April 16, 2026 from Free Press Journal (The Tribune says it was notified on the Thursday before the vote)."
+    - "Provisions of the 106th Amendment (one-third of seats in Lok Sabha, state assemblies and the Delhi assembly; one-third of SC and ST seats; rotation; 15 years, extendable; starts after the first census after commencement and delimitation) from Outlook's explainer; commencement on April 16, 2026, from Free Press Journal (The Tribune says it was notified on the Thursday before the vote)."
     - "131st Amendment: 298 to 230 on April 17, 2026, needing 352 of 528 present and voting; up to 850 seats (815 states, 35 UTs) per Free Press Journal, 859 per The Tribune; the copy says 'as many as 850'. Delimitation Bill and UT Laws (Amendment) Bill withdrawn. Quotes of Modi, Shah, Rahul Gandhi and Priyanka Gandhi Vadra from Free Press Journal."
     - "'Probably beyond the 2029 election' is the assessment of commentators as reported by Free Press Journal, not an official timeline; the copy attributes it."
     - "The Akali Dal's August 2026 call for the women's quota bill linked to delimitation from The Week; whether the government has introduced a fresh bill since was not confirmed."
@@ -79,7 +79,7 @@ Parliament passed the law in September 2023.
 
 ## Why has it not started yet?
 
-**Because the Constitution ties it to the next census and delimitation.** The amendment says the reservation will take effect only after the figures of the first census conducted after it comes into force are published and constituencies are redrawn on that basis. India's last census was in 2011; the next, Census 2027, is under way now, with a reference date of March 1, 2027 for most of the country. Delimitation, the redrawing of constituency boundaries and the sharing of seats among states, can only follow the census results.
+**Because the Constitution ties it to the next census and delimitation.** The amendment says the reservation will take effect only after the figures of the first census conducted after it comes into force are published and constituencies are redrawn on that basis. India's last census was in 2011; the next, Census 2027, is under way now, with a reference date of March 1, 2027, for most of the country. Delimitation, the redrawing of constituency boundaries and the sharing of seats among states, can only follow the census results.
 
 ```timeline
 {"title":"From law to seats","items":[{"date":"Sep 2023","text":"Parliament passes the 106th Amendment."},{"date":"Apr 16, 2026","text":"The law comes into force."},{"date":"Apr 17, 2026","text":"Lok Sabha defeats the 131st Amendment, which would have used the 2011 census."},{"date":"Nov 2026 to Mar 2027","text":"Census 2027 population count across India."},{"date":"After the census","text":"Delimitation of constituencies on the new figures."},{"date":"After delimitation","text":"Women's reservation takes effect at the next elections."}]}
@@ -108,10 +108,6 @@ On April 17, 2026, it won **298 votes to 230**. As a constitutional amendment it
 > Source: Rahul Gandhi, Leader of the Opposition in the Lok Sabha, April 2026
 
 Union Home Minister Amit Shah warned the opposition that "women of India will not forgive you". Congress MP Priyanka Gandhi Vadra said linking women's reservation to delimitation and an outdated census was "unacceptable".
-
-```photo
-{"n":1,"subject":"Old Parliament House New Delhi","caption":"Samvidhan Sadan, the old Parliament building, where earlier attempts at a women's quota were debated before the 2023 law.","alt":"Samvidhan Sadan, the old Parliament House in New Delhi (file photo)"}
-```
 
 ## So when will women get the reserved seats?
 

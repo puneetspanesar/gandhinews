@@ -8,7 +8,7 @@ topics: [elections-2027]
 title: "Manipur election 2027: the first vote since the violence, explained"
 standfirst: "Manipur votes in early 2027 after three years of ethnic conflict, a year of President's rule and a new government. What happened to the assembly elected in 2022, where the Kuki-Zo MLAs stand, and how a state with thousands still in relief camps will vote."
 published: 2026-11-10T12:30:00+05:30
-shortAnswer: "Manipur's 60-member assembly, which needs 31 for a majority, is due for election in early 2027; its term ends in March. In 2022 the BJP won 32 seats on its own. Ethnic violence between the Meitei and Kuki-Zo communities from May 3, 2023 has killed at least 306 people. Chief Minister N. Biren Singh resigned on February 9, 2025, President's rule was imposed on February 13, 2025, and it was revoked on February 4, 2026, when Y. Khemchand Singh became Chief Minister. The 10 Kuki-Zo MLAs, seven of them from the BJP, back a demand for a separate administration, which the Centre has rejected. The census has been deferred in Manipur."
+shortAnswer: "Manipur's 60-member assembly, which needs 31 for a majority, is due for election in early 2027; its term ends in March. In 2022 the BJP won 32 seats on its own. Ethnic violence between the Meitei and Kuki-Zo communities from May 3, 2023, has killed at least 306 people. Chief Minister N. Biren Singh resigned on February 9, 2025, President's rule was imposed on February 13, 2025, and it was revoked on February 4, 2026, when Y. Khemchand Singh became Chief Minister. The 10 Kuki-Zo MLAs, seven of them from the BJP, back a demand for a separate administration, which the Centre has rejected. The census has been deferred in Manipur."
 hero:
   need: "Manipur Chief Minister Y. Khemchand Singh, who took office in February 2026"
   suggested_source: "Yumnam Khemchand Singh"
@@ -69,9 +69,9 @@ verification:
   status: approved
   notes:
     - "2022 seats and vote shares from BOOM's Manipur page."
-    - "President's rule dates and Biren Singh's resignation from Deccan Herald (February 4, 2026); 357 days is the count from February 13, 2025 to February 4, 2026."
-    - "Death toll (at least 306), 49 missing, and the census deferral from our story of October 18, 2026 on Khemchand Singh's Imphal speech; 'about 24,000 still in relief camps' is Gaurav Gogoi's count from our story and is attributed to him."
-    - "Kuki-Zo seats (10 of 60, seven BJP), the January 13, 2026 Guwahati resolutions and the September 2, 2026 assembly attendance from Lokmat Times (ANI) and National Herald."
+    - "President's rule dates and Biren Singh's resignation from Deccan Herald (February 4, 2026); 357 days is the count from February 13, 2025, to February 4, 2026."
+    - "Death toll (at least 306), 49 missing, and the census deferral from our story of October 18, 2026, on Khemchand Singh's Imphal speech; 'about 24,000 still in relief camps' is Gaurav Gogoi's count from our story and is attributed to him."
+    - "Kuki-Zo seats (10 of 60, seven BJP), the January 13, 2026 Guwahati resolutions and the September 2, 2026, assembly attendance from Lokmat Times (ANI) and National Herald."
     - "2024 Lok Sabha arrangements for displaced voters (94 special polling stations, over 24,500 eligible) from the Chief Electoral Officer as reported by National Herald, April 7, 2024."
 ---
 
@@ -115,7 +115,7 @@ At a meeting in Guwahati on January 13, 2026, Kuki-Zo MLAs, the Kuki-Zo Council 
 
 ## Why is the census not happening in Manipur?
 
-**It has been deferred.** Four of the five poll-bound states, Uttar Pradesh, Punjab, Goa and Uttarakhand, have had their census count moved forward to December 2026 and January 2027 so that it finishes before the elections. Manipur is not among them. Chief Minister Khemchand Singh told a gathering in Imphal on October 17, 2026 that the census had been deferred in the state, after public concern over updating the National Register of Citizens first was conveyed to the Centre. No new timetable has been given.
+**It has been deferred.** Four of the five poll-bound states, Uttar Pradesh, Punjab, Goa and Uttarakhand, have had their census count moved forward to December 2026 and January 2027 so that it finishes before the elections. Manipur is not among them. Chief Minister Khemchand Singh told a gathering in Imphal on October 17, 2026, that the census had been deferred in the state, after public concern over updating the National Register of Citizens first was conveyed to the Centre. No new timetable has been given.
 
 ## What are the parties saying?
 

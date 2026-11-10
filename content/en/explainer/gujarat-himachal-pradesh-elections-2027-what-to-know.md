@@ -71,7 +71,7 @@ verification:
   notes:
     - "Gujarat: 156 seats and 52.5% (DH); Congress 17, AAP 5 with about 13%, others 4 (three independents, one SP), Bhupendra Patel's 1.9 lakh-plus margin in Ghatlodia from Free Press Journal (which rounds the BJP to 53%). Records (best since first contesting in 1990; above the BJP's 127 in 2002 and the Congress's 149 in 1985; seventh straight term) from DH."
     - "Himachal: Congress 40, BJP 25, independents 3, AAP 1.10% and no seats, a vote-share gap of 'around 1 per cent' and 'never elected an incumbent back to power since 1985' from India TV; 15 Congress wins by under 2,000 votes and the 60-vote Bhoranj result from The Wire's headline and summary."
-    - "2024: six Congress MLAs cross-voted for the BJP's Harsh Mahajan in the Rajya Sabha election on February 27, 2024 and were disqualified; Congress won six of nine by-elections and its strength returned to 40 (The Tribune, July 13, 2024)."
+    - "2024: six Congress MLAs cross-voted for the BJP's Harsh Mahajan in the Rajya Sabha election on February 27, 2024, and were disqualified; Congress won six of nine by-elections and its strength returned to 40 (The Tribune, July 13, 2024)."
     - "Term timing: both assemblies first met in December 2022 (our elections topic page), so terms end around December 2027; both states expected to vote in November or December 2027 (Free Press Journal)."
     - "The vote-share chart uses DH's 52.5% for the BJP and Free Press Journal's rounded 27% and 13% for the Congress and AAP."
 ---

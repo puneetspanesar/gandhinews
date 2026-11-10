@@ -69,7 +69,7 @@ verification:
   status: approved
   notes:
     - "Live-in provisions and penalties (up to 3 months or ₹10,000 for not registering within a month; up to 6 months or ₹25,000 after a registrar's notice; false statements up to ₹25,000 and 3 months) are from the Bill as reported by Onmanorama in February 2024. The January 2026 ordinance revised penal provisions to align them with the new criminal codes; All India Radio's report does not give the revised figures, so the copy says penalties were set by the 2024 law and have since been revised."
-    - "First-year numbers: 4,74,447 marriages by January 19, 2026 and the 67-to-1,400 daily rise from India TV and All India Radio; 162 live-in applications, 70 approved, about 8,000 pre-UCC marriages, over 4,000 wills, 11 polygamy and 54 triple talaq cases from drafting-committee member Manu Gaur as reported by IANS. India TV separately reported no halala or polygamy cases; the copy attributes the case counts to Gaur."
+    - "First-year numbers: 4,74,447 marriages by January 19, 2026, and the 67-to-1,400 daily rise from India TV and All India Radio; 162 live-in applications, 70 approved, about 8,000 pre-UCC marriages, over 4,000 wills, 11 polygamy and 54 triple talaq cases from drafting-committee member Manu Gaur as reported by IANS. India TV separately reported no halala or polygamy cases; the copy attributes the case counts to Gaur."
     - "Marriage age, the deadline for registering marriages and the drafting committee's chair are not stated: not confirmed from sources read."
     - "Congress objection that MLAs had too little time to read the Bill from The Wire's report description (February 7, 2024)."
 ---

@@ -8,7 +8,7 @@ topics: [agriculture-msp, economy]
 title: "PM Kisan 25th instalment: when it is due, how to check your status, and why payments get stuck"
 standfirst: "The 24th instalment of PM-KISAN reached about 9.34 crore farmers on October 30, 2026. When the next ₹2,000 is likely, who qualifies, how to complete e-KYC and the Farmer ID, and the most common reasons a payment does not arrive."
 published: 2026-11-10T12:45:00+05:30
-shortAnswer: "PM-KISAN pays eligible farmer families ₹6,000 a year in three instalments of ₹2,000, straight into their bank accounts. The 24th instalment was released on October 30, 2026 from Banaskantha in Gujarat to about 9.34 crore farmers, worth about ₹18,680 crore. The government has not announced a date for the 25th; going by the last four instalments, which came about four months apart, it would fall around February or March 2027. To get it, a farmer must have completed e-KYC, have Aadhaar seeded to the bank account and land records verified, and in several states hold a Farmer ID. Status can be checked under 'Know Your Status' on pmkisan.gov.in."
+shortAnswer: "PM-KISAN pays eligible farmer families ₹6,000 a year in three instalments of ₹2,000, straight into their bank accounts. The 24th instalment was released on October 30, 2026, from Banaskantha in Gujarat to about 9.34 crore farmers, worth about ₹18,680 crore. The government has not announced a date for the 25th; going by the last four instalments, which came about four months apart, it would fall around February or March 2027. To get it, a farmer must have completed e-KYC, have Aadhaar seeded to the bank account and land records verified, and in several states hold a Farmer ID. Status can be checked under 'Know Your Status' on pmkisan.gov.in."
 hero:
   need: "Union Agriculture Minister Shivraj Singh Chouhan, whose ministry runs PM-KISAN"
   suggested_source: "Shivraj Singh Chouhan"
@@ -33,7 +33,7 @@ infographic:
   source: "Ministry of Agriculture; All India Radio; reports"
 related: [economy-dashboard]
 seo:
-  description: "PM Kisan 25th installment date 2027: 24th released October 30, 2026 to 9.34 crore farmers; how to check PM Kisan status, e-KYC, Farmer ID and why payments are held."
+  description: "PM Kisan 25th installment date 2027: 24th released October 30, 2026, to 9.34 crore farmers; how to check PM Kisan status, e-KYC, Farmer ID and why payments are held."
 sources:
   - title: "PM Kisan instalment today: 22nd instalment over Rs 18,640 cr to reach 9.32 cr farmer families"
     publisher: "Business Today"
@@ -70,7 +70,7 @@ verification:
   notes:
     - "24th instalment date (October 30, 2026) from PM-KISAN's official X account (post date not confirmed; the source date shown is the release date); place (Bhildi, Banaskantha, Gujarat), 9.34 crore farmers and ₹18,680 crore from The Sunday Guardian's live coverage, which also cites ₹18,690 crore in one update; the copy says 'about ₹18,680 crore'."
     - "23rd: Tarakeswar, Hooghly, West Bengal; over 9.44 crore farmers including over 2.18 crore women; over ₹18,880 crore; cumulative over ₹4.46 lakh crore (All India Radio, June 18, 2026); date June 20 (Rural Voice)."
-    - "22nd: March 13, 2026, Guwahati, over 9.32 crore families, over ₹18,640 crore; 21st on November 19, 2025 from Coimbatore; scheme launched February 2019; eligibility exclusion for land acquired after February 1, 2019; e-KYC options and status tools, from Business Today."
+    - "22nd: March 13, 2026, Guwahati, over 9.32 crore families, over ₹18,640 crore; 21st on November 19, 2025, from Coimbatore; scheme launched February 2019; eligibility exclusion for land acquired after February 1, 2019; e-KYC options and status tools, from Business Today."
     - "The 25th instalment's timing is an inference from the interval between the last four instalments, labelled as such; no official date had been announced at the time of writing."
     - "Farmer ID list of 14 states from Free Press Journal, which does not cite an official notification; the copy says 'several states' and gives the list as reported."
     - "Cumulative after the 24th (about ₹4.65 lakh crore) is our addition of ₹18,680 crore to the 'over ₹4.46 lakh crore' figure, and is labelled approximate."
@@ -131,7 +131,7 @@ If something is wrong, the PM-KISAN helplines are 155261 and 1800115526, and the
 
 **Usually because of paperwork, sometimes because of eligibility checks.** The most common reasons are incomplete e-KYC, an Aadhaar number not seeded to the bank account, land records not verified, or a missing Farmer ID where it is required.
 
-There are also eligibility rules. Farmers who acquired land ownership after February 1, 2019 are not eligible. Where more than one member of the same family, such as a husband and wife, or a parent and adult or minor child, has been receiving the benefit, the payments are **held back until physical verification** is complete. The 24th instalment went to about 9.34 crore farmers, around 10 lakh fewer than the 23rd, according to reports on the day.
+There are also eligibility rules. Farmers who acquired land ownership after February 1, 2019, are not eligible. Where more than one member of the same family, such as a husband and wife, or a parent and adult or minor child, has been receiving the benefit, the payments are **held back until physical verification** is complete. The 24th instalment went to about 9.34 crore farmers, around 10 lakh fewer than the 23rd, according to reports on the day.
 
 ```facts
 {"title":"PM-KISAN in numbers","items":[{"value":"₹2,000","label":"each instalment"},{"value":"9.34 crore","label":"farmers paid on October 30, 2026"},{"value":"₹4.46 lakh crore+","label":"paid out by June 2026"},{"value":"155261","label":"PM-KISAN helpline"}]}

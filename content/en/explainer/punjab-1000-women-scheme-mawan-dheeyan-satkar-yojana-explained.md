@@ -79,12 +79,12 @@ verification:
     - "October 8 figures (₹3,722 crore total, ₹2,602.46 crore for July to September, ₹1,118.93 crore first instalment of the second phase to 32 lakh) are from UNI's summary of Social Security Minister Baljit Kaur's statement; the full article is paywalled."
     - "Debt figures (₹4.13 lakh crore liabilities in 2025-26, 46.4% of GSDP, third highest) are RBI data as reported by Outlook."
     - "Gursimran Kaur quote and other states' amounts (₹36,000 crore West Bengal budget; committed spending 85% of revenue receipts in 2024-25, 72% projected for 2026-27, the latter a PRS projection) from Outlook's July 2026 analysis."
-    - "The scheme was a 2022 AAP campaign promise first funded in the March 8, 2026 budget (our Punjab data file, All India Radio)."
+    - "The scheme was a 2022 AAP campaign promise first funded in the March 8, 2026, budget (our Punjab data file, All India Radio)."
 ---
 
 **Punjab now pays most adult women in the state a monthly cash allowance.** Under the Mukh Mantri Mawan Dheeyan Satkar Yojana, a woman who qualifies gets **₹1,000 every month, and a Scheduled Caste woman ₹1,500**, credited directly to her bank account.
 
-The scheme fulfils a promise the Aam Aadmi Party made before the 2022 assembly election. It was announced in the March 8, 2026 budget, launched on April 14, the birth anniversary of B.R. Ambedkar, and began paying out on July 1. With Punjab due to vote again in early 2027, it has become **one of the main issues of the campaign**.
+The scheme fulfils a promise the Aam Aadmi Party made before the 2022 assembly election. It was announced in the March 8, 2026, budget, launched on April 14, the birth anniversary of B.R. Ambedkar, and began paying out on July 1. With Punjab due to vote again in early 2027, it has become **one of the main issues of the campaign**.
 
 ## Who is eligible?
 

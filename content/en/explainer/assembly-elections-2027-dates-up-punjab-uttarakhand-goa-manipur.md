@@ -94,8 +94,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Term-end dates: Uttar Pradesh May 22, 2027 and 'different dates in March 2027' for the other four from The Hans India (October 5, 2026). Exact March dates (Manipur 13, Goa 14, Punjab 16, Uttarakhand 28) are from our election calendar, derived from first sittings; BOOM gives Goa as February 14. The copy says 'March' for the four and does not give exact days."
-    - "December 15 target and January 8, 2022 announcement date from Dainik Jagran English (October 13, 2026)."
+    - "Term-end dates: Uttar Pradesh May 22, 2027, and 'different dates in March 2027' for the other four from The Hans India (October 5, 2026). Exact March dates (Manipur 13, Goa 14, Punjab 16, Uttarakhand 28) are from our election calendar, derived from first sittings; BOOM gives Goa as February 14. The copy says 'March' for the four and does not give exact days."
+    - "December 15 target and January 8, 2022, announcement date from Dainik Jagran English (October 13, 2026)."
     - "2022 seat tallies: UP from PRS profile and our UP data file; Punjab from ECI party-wise page; Uttarakhand BJP 47 and Congress 19 from Lokmat Times (remaining four seats not broken down in the copy); Goa and Manipur from BOOM's results pages."
     - "Six-month rule: the copy says the law allows elections within the six months before a House's term ends (Representation of the People Act, 1951, Section 15); the Hans India report says the Commission can hold polls before term expiry."
     - "Majority marks are simple arithmetic (half the House plus one)."
@@ -115,7 +115,7 @@ For comparison, the last round of elections in the same five states was **announ
 The law gives the Commission some flexibility. Under the Representation of the People Act, 1951, a general election to an assembly can be held at any time in the six months before its term ends, so the Commission can club states whose terms end weeks apart into one polling season, as it did in 2022.
 
 ```timeline
-{"title":"The road to the 2027 polls","items":[{"date":"Oct 5, 2026","text":"Election Commission teams begin state visits, starting with Goa, then Uttarakhand, Punjab and Manipur."},{"date":"Nov 3, 2026","text":"Senior Deputy Election Commissioner Manish Garg reviews preparations in 18 districts of Uttar Pradesh at Meerut."},{"date":"Nov 16 to 30, 2026","text":"Census self-enumeration window in Uttar Pradesh, Punjab, Goa and Uttarakhand."},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Door-to-door census count in the four poll-bound states."},{"date":"Dec 15, 2026","text":"Target date for the Commission to finish its state reviews; schedule expected after this."},{"date":"Mar 2027","text":"Terms of the Manipur, Goa, Punjab and Uttarakhand assemblies end."},{"date":"May 22, 2027","text":"Term of the Uttar Pradesh assembly ends."}]}
+{"title":"The road to the 2027 polls","items":[{"date":"Oct 5, 2026","text":"Election Commission teams begin state visits, starting with Goa, then Uttarakhand, Punjab and Manipur."},{"date":"Nov 3, 2026","text":"Senior Deputy Election Commissioner Manish Garg reviews preparations in 18 districts of Uttar Pradesh at Meerut."},{"date":"Nov 16 to 30, 2026","text":"Census self-enumeration window in Uttar Pradesh, Punjab, Goa and Uttarakhand."},{"date":"Dec 1, 2026, to Jan 4, 2027","text":"Door-to-door census count in the four poll-bound states."},{"date":"Dec 15, 2026","text":"Target date for the Commission to finish its state reviews; schedule expected after this."},{"date":"Mar 2027","text":"Terms of the Manipur, Goa, Punjab and Uttarakhand assemblies end."},{"date":"May 22, 2027","text":"Term of the Uttar Pradesh assembly ends."}]}
 ```
 
 ## Which states vote, and how many seats does each have?

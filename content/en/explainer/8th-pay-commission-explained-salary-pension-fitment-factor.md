@@ -53,10 +53,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Constitution date (November 3, 2025), 18-month mandate, chair Justice Ranjana Prakash Desai, part-time member Pulak Ghosh and member-secretary Pankaj Jain, and coverage (about 35.77 lakh civilian employees as of March 1, 2026; about 33.76 lakh pensioners and family pensioners as of December 31, 2025, excluding defence) from the Finance Ministry's Lok Sabha reply of August 10, 2026 as reported by Free Press Journal and Business Today."
+    - "Constitution date (November 3, 2025), 18-month mandate, chair Justice Ranjana Prakash Desai, part-time member Pulak Ghosh and member-secretary Pankaj Jain, and coverage (about 35.77 lakh civilian employees as of March 1, 2026; about 33.76 lakh pensioners and family pensioners as of December 31, 2025, excluding defence) from the Finance Ministry's Lok Sabha reply of August 10, 2026, as reported by Free Press Journal and Business Today."
     - "DA from 60% to 63% from July 1, 2026, approved by the Cabinet on October 28, 2026, covering about 48.54 lakh employees and 68.71 lakh pensioners at ₹10,016.10 crore a year, from Business Today (November 3, 2026). The 48.54 lakh includes defence and others; the 35.77 lakh in the Commission's data is civilian only."
     - "Staff-side demands (₹69,000 minimum basic pay, 3.833 fitment factor) are reported as negotiating positions and attributed as such."
-    - "Fitment factors of the 6th (1.86) and 7th (2.57) commissions from Business Today. The 7th CPC's ₹18,000 minimum basic pay and January 1, 2016 effective date are matters of public record; the worked example in the copy is simple arithmetic and labelled as an illustration."
+    - "Fitment factors of the 6th (1.86) and 7th (2.57) commissions from Business Today. The 7th CPC's ₹18,000 minimum basic pay and January 1, 2016, effective date are matters of public record; the worked example in the copy is simple arithmetic and labelled as an illustration."
 ---
 
 **The 8th Pay Commission has not yet reported, and no pay rise has been decided.** That is the most important thing to know amid the flood of salary calculators and viral posts. The Commission was set up on November 3, 2025, and has 18 months, until about May 2027, to make its recommendations. Only after that will the government decide what to accept and from when.

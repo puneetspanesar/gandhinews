@@ -73,7 +73,7 @@ verification:
 
 ## What is a "tax year"?
 
-**A single name for the year in which you earn and are taxed.** Under the old law, income earned in the "previous year" was assessed in the following "assessment year", so income from April 2025 to March 2026 was "financial year 2025-26, assessment year 2026-27". The new Act drops that pairing. The year from April 1, 2026 to March 31, 2027 is simply **tax year 2026-27**.
+**A single name for the year in which you earn and are taxed.** Under the old law, income earned in the "previous year" was assessed in the following "assessment year", so income from April 2025 to March 2026 was "financial year 2025-26, assessment year 2026-27". The new Act drops that pairing. The year from April 1, 2026, to March 31, 2027, is simply **tax year 2026-27**.
 
 ```compare
 {"title":"Old Act and new Act","columns":["Income-tax Act, 1961","Income-tax Act, 2025"],"rows":[{"icon":"calendar-blank","label":"Year of income","cells":["Previous year and assessment year","One 'tax year'"]},{"icon":"file-text","label":"Size","cells":["Larger, with many cross-references","About half the text and sections"]},{"icon":"percent","label":"Tax rates and slabs","cells":["Set each year by the Finance Act","Still set each year by the Finance Act"]},{"icon":"clock","label":"Revised return","cells":["Up to 9 months","Up to 12 months; fee after 9 months"]},{"icon":"receipt","label":"TDS refund on a late return","cells":["Penal charges could apply","Claimable without penal charges"]}]}
@@ -81,7 +81,7 @@ verification:
 
 ## Did my tax slabs change?
 
-**No.** Rates and slabs are set every year by the Finance Act that accompanies the Budget, not by the Income-tax Act. The Budget presented on February 1, 2026 left them unchanged. So the new regime still works as the 2025 Budget set it:
+**No.** Rates and slabs are set every year by the Finance Act that accompanies the Budget, not by the Income-tax Act. The Budget presented on February 1, 2026, left them unchanged. So the new regime still works as the 2025 Budget set it:
 
 ```chart
 {"type":"hbar","title":"New tax regime slabs, tax year 2026-27","subtitle":"tax rate on income in each slab, %","unit":"%","data":[{"label":"Up to ₹4 lakh","value":0},{"label":"₹4 to 8 lakh","value":5},{"label":"₹8 to 12 lakh","value":10},{"label":"₹12 to 16 lakh","value":15},{"label":"₹16 to 20 lakh","value":20},{"label":"₹20 to 24 lakh","value":25},{"label":"Above ₹24 lakh","value":30,"highlight":true}],"source":"Union Budget 2025-26, unchanged in 2026-27"}

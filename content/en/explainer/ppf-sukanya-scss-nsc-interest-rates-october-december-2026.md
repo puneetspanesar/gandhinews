@@ -51,7 +51,7 @@ verification:
   notes:
     - "Business Today reports that rates were kept unchanged for October to December 2026 and prints the July to September table, which therefore applies; it also says rates have been unchanged for several quarters and that the last changes were in 2024 (3-year TD from 7% to 7.1% and Sukanya from 8% to 8.2%), with some inconsistency in the quarter count, so the copy does not give a number of quarters."
     - "Eligibility, deposit limits, tenures, payout frequency and KVP's 115-month doubling from Indian Overseas Bank's small savings page, which also notes the Mahila Samman Savings Certificate was discontinued from April 1, 2025."
-    - "Tax treatment: the bank page cites deductions under the 1961 Act's Section 80C; from April 1, 2026 the Income-tax Act, 2025 applies and such deductions are available only under the old regime. The copy describes this without section numbers."
+    - "Tax treatment: the bank page cites deductions under the 1961 Act's Section 80C; from April 1, 2026, the Income-tax Act, 2025 applies and such deductions are available only under the old regime. The copy describes this without section numbers."
 ---
 
 **Small savings rates are unchanged again.** On September 30, 2026, the Finance Ministry's Department of Economic Affairs kept interest rates on every post office small savings scheme the same for the quarter from **October 1 to December 31, 2026**. These rates apply whether you open the account at a post office or at a bank that offers the schemes.
