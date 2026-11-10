@@ -154,7 +154,7 @@ In Uttar Pradesh, Senior Deputy Election Commissioner Manish Garg chaired a revi
 
 ## Why does the census matter for the poll dates?
 
-**Because the same government staff run both.** The Registrar General of India has moved the door-to-door population count in Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand forward to **December 1, 2026, to January 4, 2027**, so that it is finished before the elections. Residents of these four states can fill in the census form themselves online from November 16 to 30, and a revisional round runs from January 5 to 9, 2027. The rest of the country is counted with a reference date of March 1, 2027.
+**Because both have to be done in the same months.** The Registrar General of India has moved the door-to-door population count in Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand forward to **December 1, 2026, to January 4, 2027**, so that it is finished before the elections. Residents of these four states can fill in the census form themselves online from November 16 to 30, and a revisional round runs from January 5 to 9, 2027. The rest of the country is counted with a reference date of March 1, 2027.
 
 ```photo
 {"n":2,"subject":"Uttar Pradesh Vidhan Bhavan","caption":"The Uttar Pradesh Vidhan Bhavan in Lucknow, seat of the 403-member assembly whose term ends on May 22, 2027.","alt":"Uttar Pradesh Vidhan Bhavan in Lucknow (file photo)"}
