@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "id": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
     "overlay": {
       "kicker": {
-        "en": "Policy / Courts",
-        "hi": "नीति / अदालत"
+        "en": "World / Ukraine",
+        "hi": "दुनिया / यूक्रेन"
       },
       "value": {
-        "en": "Silk cotton is not a forest right",
-        "hi": "सिल्क कॉटन वन अधिकार नहीं"
+        "en": "Zelenskyy: India ready to mediate food corridors",
+        "hi": "ज़ेलेंस्की: भारत खाद्य गलियारों को तैयार"
       },
       "text": {
         "en": "",
@@ -16,35 +16,20 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
-      "bail-granted-is-not-freedom-release-the-under-trials",
-      "suspension-of-sentence-explained-tejpal-supreme-court"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
+      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+      "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "Ukraine",
+        "hi": "यूक्रेन"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "lead": {
-          "en": "Ukraine:",
-          "hi": "यूक्रेन:"
-        },
-        "text": {
-          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
-          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
-        }
-      },
       {
         "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "lead": {
@@ -54,6 +39,17 @@
         "text": {
           "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
           "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
+        }
+      },
+      {
+        "link": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India win toss and bowl in a 40-over Hamilton ODI after long rain delay",
+          "hi": "लंबी बारिश के बाद हैमिल्टन में भारत ने टॉस जीतकर गेंदबाज़ी चुनी, मैच 40 ओवर का"
         }
       },
       {
@@ -68,58 +64,58 @@
         }
       },
       {
-        "link": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Gujarat:",
+          "hi": "गुजरात:"
         },
         "text": {
-          "en": "Mandhana to lead India women in all formats on December tour of South Africa",
-          "hi": "दिसंबर में दक्षिण अफ्रीका दौरे पर तीनों फॉर्मेट में स्मृति मंधाना होंगी भारतीय महिला टीम की कप्तान"
+          "en": "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
+          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
         }
       },
       {
-        "link": "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+        "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Markets:",
+          "hi": "बाज़ार:"
         },
         "text": {
-          "en": "Delhi releases missing Diwali-night air data: PM2.5 hit 3,744 at Mundka, AAP alleges fraud",
-          "hi": "दिवाली की रात का गायब डेटा जारी: मुंडका में PM2.5 3,744 तक, आप ने बताया फर्जीवाड़ा"
+          "en": "Sensex and Nifty end at their highest since February as PSU banks surge, with markets shut today",
+          "hi": "पीएसयू बैंकों की तेज़ी से सेंसेक्स-निफ्टी फरवरी के बाद के सबसे ऊंचे स्तर पर, आज बाज़ार बंद"
         }
       },
       {
-        "link": "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
+        "link": "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
         "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
+          "en": "Assam:",
+          "hi": "असम:"
         },
         "text": {
-          "en": "Shinde Sena's Ramdas Kadam seeks probe into Sunil Tatkare's role in Ajit Pawar's air crash",
-          "hi": "शिंदे सेना के रामदास कदम ने अजित पवार के विमान हादसे में सुनील तटकरे की भूमिका की जांच मांगी"
+          "en": "Assam evictions will go on and are not aimed at any religion, Himanta Sarma says",
+          "hi": "असम में बेदखली जारी रहेगी, किसी धर्म को निशाना नहीं: हिमंत सरमा"
         }
       },
       {
-        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
-          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
+          "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
+          "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
         }
       },
       {
-        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "link": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
-          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
+          "en": "Rahul Gandhi renews debate challenge to Modi after 'dimagi Naxals' remark in Bastar",
+          "hi": "बस्तर में 'दिमागी नक्सल' वाले बयान के बाद राहुल गांधी ने मोदी को फिर दी बहस की चुनौती"
         }
       }
     ]
@@ -191,15 +187,15 @@
       "also": []
     },
     "list": [
-      "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-      "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
-      "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+      "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+      "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
     ],
     "also": [
-      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-      "womens-reservation-33-per-cent-when-will-it-start-explained"
+      "modi-zelenskyy-phone-call-india-peace-efforts",
+      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed"
     ]
   },
   "startHere": [
@@ -381,7 +377,7 @@
     },
     {
       "section": "economy",
-      "lead": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "lead": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
       "module": {
         "type": "markets",
         "indicators": [
@@ -392,9 +388,9 @@
         ]
       },
       "list": [
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
       ]
     },
     {
@@ -429,9 +425,9 @@
       "section": "world",
       "lead": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
       "list": [
+        "modi-zelenskyy-phone-call-india-peace-efforts",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
       ]
     },
     {
@@ -447,10 +443,10 @@
       "section": "sports",
       "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
       "list": [
+        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
       ]
     }
   ],
@@ -529,22 +525,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T06:40:35+05:30",
-      "ids": [
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "who-owns-trinamool-election-commission-symbol-dispute-explained",
-        "andhra-local-polls-must-start-with-free-nominations",
-        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position",
-        "diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain"
-      ]
-    },
     {
       "at": "2026-11-10T07:14:41+05:30",
       "ids": [
@@ -647,6 +627,20 @@
         "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
         "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+      ]
+    },
+    {
+      "at": "2026-11-10T15:01:47+05:30",
+      "ids": [
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
       ]
     }
   ],
