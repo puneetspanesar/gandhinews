@@ -23,7 +23,7 @@ hero:
     value: "Silk cotton is not a forest right"
 related: [bandipur-tiger-reserve-63-per-cent-vacancies-ntca]
 seo:
-  description: "The Supreme Court ruled on November 6, 2026 that commercial crop cultivation in forest land is not a right under the Forest Rights Act, 2006, in the Megamalai case."
+  description: "The Supreme Court ruled on November 6, 2026, that commercial crop cultivation in forest land is not a right under the Forest Rights Act, 2006, in the Megamalai case."
 infographic:
   kicker: "Megamalai forest ruling"
   headline: "Commercial crops are no forest right"
@@ -59,7 +59,7 @@ verification:
     - "Category split in the order: 1,595 / 232 / 2,767 = 4,594. 232 + 2,767 = 2,999."
     - "Chairperson's honorarium wording is ambiguous across summaries, so it is left out."
     - "No reactions found from the state, tribal groups or conservationists; none quoted."
-    - "Ruling dated November 6, 2026 but reported November 7 to 9; run brief flagged it as a missing big story."
+    - "Ruling dated November 6, 2026, but reported November 7 to 9; run brief flagged it as a missing big story."
 ---
 
 The Supreme Court has ruled that **planned cultivation of a commercial crop is not a forest right** under the Forest Rights Act, 2006, and cannot be used to justify staying on forest land. In an order dated Friday, November 6, 2026, Justices Vikram Nath and Sandeep Mehta applied the principle to silk cotton farming in the Megamalai forests of Tamil Nadu, part of the Srivilliputhur-Megamalai Tiger Reserve.
@@ -76,7 +76,7 @@ On the larger question, the court said the sanctity of the critical tiger habita
 
 ## Who is excluded
 
-The state's affidavit of September 6, 2026 listed **4,594 occupants on 5,072.64 hectares**, of which 3,637.83 hectares are under silk cotton. It sorted them into three categories: permanent residents cultivating inside the forest (1,595 people), temporary residents (232) and people living outside the forest altogether (2,767).
+The state's affidavit of September 6, 2026, listed **4,594 occupants on 5,072.64 hectares**, of which 3,637.83 hectares are under silk cotton. It sorted them into three categories: permanent residents cultivating inside the forest (1,595 people), temporary residents (232) and people living outside the forest altogether (2,767).
 
 Under Sections 2(c) and 2(o), a Forest Dwelling Scheduled Tribe or Other Traditional Forest Dweller must actually reside in the forest and depend on it for livelihood; an Other Traditional Forest Dweller must also show three generations, or 75 years, of residence before December 13, 2005. The court held that people in the second and third categories **"cannot, on the basis of such cultivation alone, qualify"** and ordered them excluded from consideration under the Act. That removes 2,999 people from the process. The order does not exclude the 1,595 permanent residents in the first category.
 

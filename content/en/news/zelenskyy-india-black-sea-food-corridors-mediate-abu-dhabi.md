@@ -22,7 +22,7 @@ hero:
     value: "Zelenskyy: India ready to mediate food corridors"
 related: [modi-zelenskyy-phone-call-india-peace-efforts, romania-blames-russia-black-sea-merchant-ship-attacks, drone-attack-sinks-ship-off-bulgaria-black-sea, trump-xi-putin-apec-shenzhen-meeting-china-in-contact]
 seo:
-  description: "Zelenskyy said on November 9, 2026 that India is ready to mediate Black Sea food corridors after his call with Modi, a day before Abu Dhabi talks began."
+  description: "Zelenskyy said on November 9, 2026, that India is ready to mediate Black Sea food corridors after his call with Modi, a day before Abu Dhabi talks began."
 infographic:
   kicker: "Black Sea grain"
   headline: "Zelenskyy: India ready to mediate food corridors"
