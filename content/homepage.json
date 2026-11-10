@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+    "id": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
     "overlay": {
       "kicker": {
-        "en": "Policy / Urban Affairs",
-        "hi": "नीति / शहरी विकास"
+        "en": "Sports / Cricket",
+        "hi": "खेल / क्रिकेट"
       },
       "value": {
-        "en": "India's cleanest cities, named Wednesday",
-        "hi": "बुधवार को घोषित होंगे सबसे साफ शहर"
+        "en": "Rain wins at Hamilton, Iyer to lead",
+        "hi": "हैमिल्टन में बारिश जीती, अय्यर कप्तान"
       },
       "text": {
         "en": "",
@@ -18,27 +18,27 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
       "sensex-nifty-close-november-9-highest-since-february-psu-banks"
     ],
     "live": {
       "title": {
-        "en": "Urban Affairs",
-        "hi": "शहरी विकास"
+        "en": "Cricket",
+        "hi": "क्रिकेट"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Gujarat:",
+          "hi": "गुजरात:"
         },
         "text": {
-          "en": "India win toss and bowl in a 40-over Hamilton ODI after long rain delay",
-          "hi": "लंबी बारिश के बाद हैमिल्टन में भारत ने टॉस जीतकर गेंदबाज़ी चुनी, मैच 40 ओवर का"
+          "en": "Shah opens and launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
+          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
         }
       },
       {
@@ -64,58 +64,58 @@
         }
       },
       {
-        "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
-          "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
-        }
-      },
-      {
-        "link": "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Mumbai bans rockets and aerial firecrackers until November 25 after 137 of 142 fire calls on Diwali day traced to crackers",
-          "hi": "मुंबई में 25 नवंबर तक रॉकेट और आसमान में जाने वाले पटाखों पर रोक, दिवाली के दिन 142 में से 137 फायर कॉल की वजह पटाखे"
-        }
-      },
-      {
-        "link": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
+        "link": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "India can win the ODI series in Hamilton, but rain and a hurried pitch loom",
-          "hi": "हैमिल्टन में भारत सीरीज़ जीत सकता है, पर बारिश और जल्दबाजी में बनी पिच का साया"
+          "en": "Mandhana to lead India women in all formats on December tour of South Africa",
+          "hi": "दिसंबर में दक्षिण अफ्रीका दौरे पर तीनों फॉर्मेट में स्मृति मंधाना होंगी भारतीय महिला टीम की कप्तान"
         }
       },
       {
-        "link": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
+        "link": "modi-zelenskyy-phone-call-india-peace-efforts",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
         },
         "text": {
-          "en": "Rahul Gandhi renews debate challenge to Modi after 'dimagi Naxals' remark in Bastar",
-          "hi": "बस्तर में 'दिमागी नक्सल' वाले बयान के बाद राहुल गांधी ने मोदी को फिर दी बहस की चुनौती"
+          "en": "Modi speaks to Zelenskyy, says India ready to contribute to peace in Ukraine",
+          "hi": "मोदी ने ज़ेलेंस्की से की बात, कहा यूक्रेन में शांति के लिए भारत हर संभव योगदान को तैयार"
         }
       },
       {
-        "link": "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "lead": {
-          "en": "Russia:",
-          "hi": "रूस:"
+          "en": "Trade:",
+          "hi": "व्यापार:"
         },
         "text": {
-          "en": "Novaya Gazeta shuts its Moscow newsroom after 33 years; UK and Finland demand release of jailed journalists",
-          "hi": "नोवाया गज़ेटा ने 33 साल बाद मॉस्को का न्यूज़रूम बंद किया; ब्रिटेन-फ़िनलैंड की जेल में बंद पत्रकारों की रिहाई की माँग"
+          "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
+          "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
+        }
+      },
+      {
+        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
+          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
+        }
+      },
+      {
+        "link": "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "lead": {
+          "en": "Shooting:",
+          "hi": "निशानेबाज़ी:"
+        },
+        "text": {
+          "en": "Niveditha Nair wins 25m standard pistol bronze, India add team silver at Doha Worlds",
+          "hi": "निवेदिता नायर को 25 मीटर स्टैंडर्ड पिस्टल का कांस्य, दोहा में टीम रजत भी"
         }
       }
     ]
@@ -187,15 +187,15 @@
       "also": []
     },
     "list": [
-      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-      "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
-      "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+      "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+      "modi-zelenskyy-phone-call-india-peace-efforts",
+      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
     ],
     "also": [
-      "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-      "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+      "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+      "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured"
     ]
   },
   "startHere": [
@@ -355,11 +355,11 @@
     }
   ],
   "opinion": [
+    "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
     "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
     "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration",
     "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
-    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy",
-    "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data"
+    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy"
   ],
   "sections": [
     {
@@ -441,12 +441,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+      "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
       "list": [
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
         "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
+        "anuj-shrivatri-india-100th-grandmaster-asean-plus-open"
       ]
     }
   ],
@@ -525,20 +525,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-09T20:44:00+05:30",
-      "ids": [
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln",
-        "cop31-opens-antalya-turkey-australia-negotiations-india-position"
-      ]
-    },
     {
       "at": "2026-11-09T22:42:31+05:30",
       "ids": [
@@ -640,6 +626,20 @@
         "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
         "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
         "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+      ]
+    },
+    {
+      "at": "2026-11-10T12:39:27+05:30",
+      "ids": [
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
       ]
     }
   ],

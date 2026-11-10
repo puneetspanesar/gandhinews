@@ -1,0 +1,33 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-10T12:08:57+05:30",
+ "end": "2026-11-10T12:42:06+05:30",
+ "summary": "Hamilton ODI washout leads, Hosur editorial; SIR fact check held",
+ "new": [
+  "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
+  "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
+ ],
+ "held": [
+  "rahul-gandhi-13-crore-votes-deleted-sir-claim"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "rahul-gandhi-13-crore-votes-deleted-sir-claim",
+   "kind": "picture",
+   "why": "Main picture shows only CEC Gyanesh Kumar (the side answering the claim); the claimant Rahul Gandhi, who comes first in the story, is not shown (A attacking B shows only B). Also facts: the English and Hindi text name an outlet ('The Outlook count' / 'आउटलुक की गिनती'); the category breakdown (2.8/3/6.3/1 crore), 2.37 crore new voters and the June 24, 2025 start are not in the Outlook source and rest on unopened DNA/FPJ reports; the ECI primary and Rahul Gandhi's own words were never opened. list.txt also points to content/*/news/ but the files are in content/*/factcheck/, so the review sheet showed only the slug.",
+   "fix": "Use a clear photo of Rahul Gandhi as the main picture (Gyanesh Kumar may be second). Replace 'The Outlook count puts the total at 13.39 crore' with 'The Commission's count puts the total at 13.39 crore' in both languages; open and cite the ECI October 2 note or the DNA/FPJ reports for the category breakdown, 2.37 crore and June 24, 2025, or cut those figures; source Rahul Gandhi's 'stolen' wording directly. Fix the path in list.txt so the sheet renders headline and metadata."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
+   "why": "English sources list Siasat although the verification notes say Siasat was never opened. English standfirst says 'The Collector has acted against the engineer' but the reporting only says he ordered the DSP to take action. Hindi key point 2 says 'पर्याप्त खंभे' (adequate pillars) while English says 'no pillars'. (Infographic main picture and covers stand: NOPHOTO; numbers 3, 17, Rs 8 lakh match the news story; Hindi cover reads correctly.)",
+   "done": "Removed the unopened Siasat source; standfirst now says the Collector ordered action against the engineer; Hindi key point now reads 'खंभे या सही योजना नहीं'."
+  }
+ ],
+ "breaches": [
+  "a sports story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news): hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
+ ],
+ "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
+}

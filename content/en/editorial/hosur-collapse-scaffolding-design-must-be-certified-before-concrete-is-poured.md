@@ -6,7 +6,7 @@ section: states
 format_label: "Editorial"
 topics: []
 title: "Three workers died under wet concrete at Hosur. No pour should start without a signed scaffold design"
-standfirst: "At a SIPCOT factory site in Hosur, 17 workers were pouring an arched structure when the support gave way. The Collector has acted against the engineer after the deaths. The rule should apply before the work begins."
+standfirst: "At a SIPCOT factory site in Hosur, 17 workers were pouring an arched structure when the support gave way. The Collector has ordered action against the engineer after the deaths. The rule should apply before the work begins."
 published: 2026-11-10T12:17:28+05:30
 keyPoints:
   - "Three workers were **killed at Vedarapalli near Hosur on November 5** when scaffolding failed during a concrete pour."
@@ -43,11 +43,6 @@ sources:
     publisher: "ETV Bharat"
     date: 2026-11-05
     url: "https://www.etvbharat.com/en/state/3-crushed-to-death-as-factory-gate-collapses-in-hosur-enn26110507816"
-    primary: false
-  - title: "Safety lapses suspected after factory collapse kills three workers"
-    publisher: "Siasat"
-    date: 2026-11-06
-    url: "https://www.siasat.com/safety-lapses-suspected-after-factory-collapse-kills-three-workers-3570605/"
     primary: false
 verification:
   status: needs-editor-approval

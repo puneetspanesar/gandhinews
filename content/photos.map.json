@@ -46798,7 +46798,20 @@
   "licence": "CC0",
   "alt": "Shreyas Iyer (file photo)",
   "alt_hi": "श्रेयस अय्यर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Captain_Shreyas_Iyer_(Sarpanch_Sahab)_in_T20.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Captain_Shreyas_Iyer_(Sarpanch_Sahab)_in_T20.jpg",
+  "treated": {
+   "src": "/photos/t-hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-cap-1280.jpg",
+   "src800": "/photos/t-hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-cap-640.jpg",
+   "cutout": false,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "navdeep-saini-two-services-112-4-delhi-ranji-palam",
+    "renshaw-puts-australia-on-top-in-durban-test",
+    "east-bengal-thrash-churchill-brothers-isl-opener-bipin-singh"
+   ],
+   "kind": "scenes",
+   "credit": "Photos: Phillip Capper / Wikimedia Commons; Ciell / Wikimedia Commons; Marc Forrest / Wikimedia Commons; Arnabsaha2212 / Wikimedia Commons"
+  }
  },
  "rahul-gandhi-13-crore-votes-deleted-sir-claim": {
   "id": "o-rahul-gandhi-13-crore-votes-deleted-sir-claim",
