@@ -9,7 +9,6 @@ title: "India can win the ODI series in Hamilton, but rain and a hurried pitch l
 standfirst: "India lead 2-0 and need one more win at Seddon Park on Tuesday to take the five-match series. Forecasts give a heavy chance of rain at the 7:30 am IST start, and Shubman Gill plays his last ODI of the tour."
 published: 2026-11-09T22:20:00+05:30
 location: Hamilton
-upcoming: {date: 2026-11-10, en: "India v New Zealand, third ODI, Hamilton, 7:30 am IST", hi: "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, हैमिल्टन, सुबह 7:30 बजे"}
 keyPoints:
   - "A win at Seddon Park on Tuesday gives India **the series 3-0 with two matches left**."
   - "Forecasts put the chance of rain at **about 86% around the 3 pm local start**."

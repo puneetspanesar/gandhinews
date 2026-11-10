@@ -1,0 +1,30 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-10T08:05:47+05:30",
+ "end": "2026-11-10T08:36:47+05:30",
+ "summary": "Assam evictions lead, Sensex close; Wall Street story held",
+ "new": [
+  "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+  "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+ ],
+ "held": [
+  "wall-street-rally-s-and-p-7550-brent-below-93-november-9"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "wall-street-rally-s-and-p-7550-brent-below-93-november-9",
+   "kind": "facts",
+   "why": "Held by the run after the second editor check: it puts a second markets story in the template-driven Must Read beside the Sensex close (rule 14), no primary source could be read this run (rbi/sebi/exchange pages refused), and nine figures (Russell 2000, VIX, dollar index, gold, Bitcoin, Marvell, Arista, Trade Desk, WTI) rest on one source the editor could not open. Recheck against exchange data and republish only if still news."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "wall-street-rally-s-and-p-7550-brent-below-93-november-9",
+   "why": "Body says 'Cheaper fuel eased the pressure on bond markets too' and gives the 10-year yield at 4.87%, but the AP source says the yield rose to 4.87% from 4.86% on Friday, so bond pressure did not ease on Monday. The same sentence is in the Hindi twin.",
+   "done": "Yield sentence corrected in both languages: edged up to 4.87% from 4.86%; the bond-pressure claim removed."
+  }
+ ],
+ "breaches": [],
+ "lead": "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
+}

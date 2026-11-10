@@ -31,7 +31,7 @@ infographic:
     - {icon: trend-up, value: "25,044.65", label: "Nifty 50 close, up 58.25 points"}
     - {icon: trend-up, value: "+3.7%", label: "Nifty PSU Bank index"}
   source: "NSE and BSE close, November 9, 2026"
-related: [sensex-nifty-close-november-6-sensex-1718-nifty-25030, rupee-93-89-strongest-since-april-fii-record-buying, fii-buy-14975-crore-november-5-dii-sell-10445, retail-inflation-september-2026-5-54, rbi-4-day-repo-50000-crore-liquidity-flip-november-9, wall-street-rally-s-and-p-7550-brent-below-93-november-9]
+related: [sensex-nifty-close-november-6-sensex-1718-nifty-25030, rupee-93-89-strongest-since-april-fii-record-buying, fii-buy-14975-crore-november-5-dii-sell-10445, retail-inflation-september-2026-5-54, rbi-4-day-repo-50000-crore-liquidity-flip-november-9]
 seo:
   description: "Sensex up 107 points to 81,106.65 and Nifty up 58 to 25,044.65 on November 9, 2026, the highest since February; PSU banks surge, markets closed November 10, CPI data due Thursday."
 sources:
@@ -82,7 +82,7 @@ The move extends a recovery that has taken the Sensex up about 8.8% and the Nift
 
 The money behind it is foreign. **Overseas investors have bought more than $4.1 billion** of Indian shares so far in November, their strongest monthly inflow since September 2024. On November 5 alone they put in about [₹14,975 crore](/en/news/fii-buy-14975-crore-november-5-dii-sell-10445) while domestic funds sold.
 
-Oil helped. Brent crude was down about 1% to nearly 1.4% on the day at between $96.93 and $97.46 a barrel during Asian hours, and it fell further in New York, to below $93, after Monday's close in Mumbai, as we report in our [Wall Street story](/en/news/wall-street-rally-s-and-p-7550-brent-below-93-november-9). Lower crude eases India's import bill and inflation.
+Oil helped. Brent crude was down about 1% to nearly 1.4% on the day at between $96.93 and $97.46 a barrel during Asian hours, and it fell further in New York, to below $93, after Monday's close in Mumbai. Lower crude eases India's import bill and inflation.
 
 ## What analysts said
 

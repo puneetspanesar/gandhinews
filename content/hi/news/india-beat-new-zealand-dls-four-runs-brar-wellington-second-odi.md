@@ -14,7 +14,6 @@ keyPoints:
   - "भारत ने दूसरा वनडे **डीएलएस से चार रन से जीता** और पांच मैचों की सीरीज़ में 2-0 से आगे है।"
   - "**गुरनूर ब्रार ने 30 रन देकर 4 विकेट लिए**, वनडे में उनके सर्वश्रेष्ठ आंकड़े, न्यूज़ीलैंड 134 पर आउट।"
   - "तीसरा वनडे **10 नवंबर को हैमिल्टन के सेडन पार्क** में है।"
-upcoming: {date: 2026-11-10, en: "India v New Zealand, third ODI, Hamilton, 7:30 am IST", hi: "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, हैमिल्टन, सुबह 7:30 बजे"}
 hero:
   need: "India seamer Gurnoor Brar bowling, or the India team celebrating in Wellington"
   suggested_source: "Gurnoor Brar"

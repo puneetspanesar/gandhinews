@@ -67,3 +67,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Finder (photos_gh) worked this run. setup.sh hung on the pip install step (rembg); ran it separately.
 - Editor homepage FAIL not fixed (second check): Kapil Mishra stubble card still under the lead and RBI Rs 50,003 crore story in Must Read (template-driven lists, refresh_home --drop does not reach them); four World stories in the top; about 130px space under the centre column.
 - NEXT RUN, FIRST: Hamilton third ODI (7:30 am IST); Delhi CPCB AQI Tuesday morning; Turkey Habas blast official toll; a national story from a primary source.
+
+## November 10, 2026, 8:40 am (from the 08:00 run)
+- Published 2: assam-cm-evictions-religion-neutral-lahowal-lahorighat (LEAD, Himanta Sarma library file photo; rests on relayed reports, no primary text of the speech), sensex-nifty-close-november-9-highest-since-february-psu-banks (BSE file photo). Markets shut today; markets.json already has the November 9 close.
+- Held: wall-street-rally-s-and-p-7550-brent-below-93-november-9 (second markets story at the top; figures unchecked against one unreadable source).
+- National and sport-science desks wrote nothing: WebFetch refused on every primary site (PIB, NASA, RBI, SEBI).
+- Editor homepage FAIL not fixed (second check): lead should be Delhi air or the ODI result; Politics pair (Modi Bastar + Shah Naxalism) and Policy pair (two Rajnath Sherathang) side by side; four states stories in the top block; RBI liquidity explainer (blurred photo) still in Start Here; mobile bottom nav covers the headline list.
+- NEXT RUN, FIRST: India v NZ third ODI result (Hamilton); Delhi CPCB AQI latest bulletin; Turkey Aliaga blast toll as a new id.

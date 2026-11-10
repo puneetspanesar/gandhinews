@@ -32,7 +32,7 @@ infographic:
     - {icon: trend-up, value: "25,044.65", label: "निफ्टी 50 का बंद भाव, 58.25 अंक ऊपर"}
     - {icon: trend-up, value: "+3.7%", label: "निफ्टी पीएसयू बैंक सूचकांक"}
   source: "एनएसई और बीएसई का बंद, 9 नवंबर 2026"
-related: [sensex-nifty-close-november-6-sensex-1718-nifty-25030, rupee-93-89-strongest-since-april-fii-record-buying, fii-buy-14975-crore-november-5-dii-sell-10445, retail-inflation-september-2026-5-54, rbi-4-day-repo-50000-crore-liquidity-flip-november-9, wall-street-rally-s-and-p-7550-brent-below-93-november-9]
+related: [sensex-nifty-close-november-6-sensex-1718-nifty-25030, rupee-93-89-strongest-since-april-fii-record-buying, fii-buy-14975-crore-november-5-dii-sell-10445, retail-inflation-september-2026-5-54, rbi-4-day-repo-50000-crore-liquidity-flip-november-9]
 seo:
   description: "9 नवंबर 2026 को सेंसेक्स 107 अंक चढ़कर 81,106.65 और निफ्टी 58 अंक चढ़कर 25,044.65 पर, फरवरी के बाद सबसे ऊंचा; पीएसयू बैंकों में तेज़ी, 10 नवंबर को बाज़ार बंद, गुरुवार को महंगाई के आंकड़े।"
 sources:
@@ -81,7 +81,7 @@ verification:
 
 इस तेज़ी के पीछे विदेशी पैसा है। **विदेशी निवेशकों ने नवंबर में अब तक 4.1 अरब डॉलर से ज़्यादा** के भारतीय शेयर खरीदे हैं, जो सितंबर 2024 के बाद सबसे बड़ा मासिक निवेश है। अकेले 5 नवंबर को उन्होंने करीब [₹14,975 करोड़](/hi/news/fii-buy-14975-crore-november-5-dii-sell-10445) डाले, जबकि घरेलू फंड बेचते रहे।
 
-तेल ने भी मदद की। एशियाई कारोबारी घंटों में ब्रेंट कच्चा तेल दिन में करीब 1% से 1.4% गिरकर 96.93 से 97.46 डॉलर प्रति बैरल के बीच था। मुंबई में बाज़ार बंद होने के बाद न्यूयॉर्क में यह और गिरकर 93 डॉलर से नीचे आ गया, जिसकी जानकारी हमारी [वॉल स्ट्रीट रिपोर्ट](/hi/news/wall-street-rally-s-and-p-7550-brent-below-93-november-9) में है। सस्ता कच्चा तेल भारत का आयात बिल और महंगाई का दबाव घटाता है।
+तेल ने भी मदद की। एशियाई कारोबारी घंटों में ब्रेंट कच्चा तेल दिन में करीब 1% से 1.4% गिरकर 96.93 से 97.46 डॉलर प्रति बैरल के बीच था। मुंबई में बाज़ार बंद होने के बाद न्यूयॉर्क में यह और गिरकर 93 डॉलर से नीचे आ गया। सस्ता कच्चा तेल भारत का आयात बिल और महंगाई का दबाव घटाता है।
 
 ## विश्लेषकों की राय
 

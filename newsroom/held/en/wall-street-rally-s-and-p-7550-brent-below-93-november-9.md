@@ -14,10 +14,10 @@ keyPoints:
   - "Brent crude **fell about 5.5% to below $93 a barrel**, from more than $112 at the start of November."
   - "Nvidia **fell more than 4%** after its board opened an investigation into chief executive Jensen Huang."
 hero:
-  need: "Nasdaq MarketSite, Times Square, New York"
-  suggested_source: "Nasdaq MarketSite Times Square"
-  subjects: ["Nasdaq MarketSite"]
-  alt: "The Nasdaq MarketSite in Times Square, New York (file photo)"
+  need: "New York Stock Exchange, Wall Street"
+  suggested_source: "New York Stock Exchange"
+  subjects: ["New York Stock Exchange"]
+  alt: "The New York Stock Exchange building on Wall Street (file photo)"
   overlay:
     value: "S&P 500 +2.35%, Brent below $93"
 infographic:
@@ -65,11 +65,7 @@ The rally recovered most of the ground lost in the first week of November. The S
 
 The trigger was crude. **Brent fell about 5.5% to a little below $93 a barrel**, down from more than $112 at the start of the month, while US crude (WTI) dropped around 4% to roughly $87. President Donald Trump said in an interview on November 8 that a resumption of strikes on Iran was "highly unlikely" if negotiations progress, while Qatar has said its mediation between Washington and Tehran continues. Our reports on [Trump's remarks](/en/news/trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls) and on [the Qatari mediation](/en/news/qatar-says-us-iran-mediation-continues-trump-minor-strikes-qeshm) give the detail.
 
-Cheaper fuel eased the pressure on bond markets too. The yield on the 10-year US Treasury note was about 4.87%, well below last month's peak above 5.30%. The dollar index slipped 0.61% to 101.67, and the VIX gauge of expected volatility **fell nearly 22% to 20.02**, from 25.64 on Friday.
-
-```photo
-{"n":1,"subject":"Strait of Hormuz","caption":"The Strait of Hormuz, the shipping lane at the centre of the US-Iran confrontation that has moved oil prices through the month.","alt":"A view of the Strait of Hormuz"}
-```
+The yield on the 10-year US Treasury note edged up to 4.87% from 4.86% on Friday, still well below last month's peak above 5.30%. The dollar index slipped 0.61% to 101.67, and the VIX gauge of expected volatility **fell nearly 22% to 20.02**, from 25.64 on Friday.
 
 ## Chips rebound, Nvidia slips
 
@@ -78,10 +74,6 @@ Technology and AI-infrastructure shares led the gains after a rout last week, wh
 On Monday **AMD gained more than 9%**, Marvell Technology gained about 9%, Arista Networks about 8.9%, and The Trade Desk jumped 14.6%. Power producers that supply data centres also climbed: Constellation Energy rose 10.5% after strong earnings.
 
 Nvidia moved the other way, **falling more than 4%**. The company said its board is investigating chief executive Jensen Huang after he acknowledged an intimate relationship with a business executive. The board said it has "no reason to believe" national security or company secrets were compromised. China's Foreign Ministry called the allegations "nothing but smears against China". A congressional briefing is scheduled for November 18, as we reported in [our story on the inquiry](/en/news/nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18).
-
-```photo
-{"n":2,"subject":"Jensen Huang","caption":"Nvidia chief executive Jensen Huang, whose conduct the company's board is now investigating.","alt":"Nvidia chief executive Jensen Huang"}
-```
 
 ## The rest of the world
 

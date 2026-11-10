@@ -44001,19 +44001,27 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Himanta Biswa Sarma (file photo)",
   "alt_hi": "हिमंत बिस्वा सरमा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Himanta_Biswa_Sarma_briefing_media_at_his_office_dispur.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Himanta_Biswa_Sarma_briefing_media_at_his_office_dispur.jpg",
+  "treated": {
+   "src": "/photos/t-assam-cm-evictions-religion-neutral-lahowal-lahorighat-1280.jpg",
+   "src800": "/photos/t-assam-cm-evictions-religion-neutral-lahowal-lahorighat-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "credit": "Photo: Manabdeka / Wikimedia Commons"
+  }
  },
  "wall-street-rally-s-and-p-7550-brent-below-93-november-9": {
   "id": "r-wall-street-rally-s-and-p-7550-brent-below-93-november-9",
   "src": "/photos/r-wall-street-rally-s-and-p-7550-brent-below-93-november-9-1280.jpg",
   "src800": "/photos/r-wall-street-rally-s-and-p-7550-brent-below-93-november-9-640.jpg",
   "width": 1280,
-  "height": 1280,
-  "credit": "Photo: ajay_suresh / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "The Nasdaq MarketSite in Times Square, New York (file photo)",
-  "alt_hi": "न्यूयॉर्क के टाइम्स स्क्वायर में नैस्डैक मार्केटसाइट (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+  "height": 960,
+  "credit": "Photo: Carlos Delgado / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The New York Stock Exchange building on Wall Street (file photo)",
+  "alt_hi": "वॉल स्ट्रीट पर न्यूयॉर्क स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Wall_Street_-_New_York_Stock_Exchange.jpg"
  },
  "sensex-nifty-close-november-9-highest-since-february-psu-banks": {
   "id": "r-sensex-nifty-close-november-9-highest-since-february-psu-banks",
@@ -44025,6 +44033,18 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The BSE building on Dalal Street, Mumbai (file photo)",
   "alt_hi": "मुंबई के दलाल स्ट्रीट पर बीएसई की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:BSE_building_at_Dalal_Street.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:BSE_building_at_Dalal_Street.JPG",
+  "treated": {
+   "src": "/photos/t-sensex-nifty-close-november-9-highest-since-february-psu-ban-1280.jpg",
+   "src800": "/photos/t-sensex-nifty-close-november-9-highest-since-february-psu-ban-640.jpg",
+   "cutout": false,
+   "with": [
+    "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
+    "sensex-nifty-it-rally-weekly-gain-october-16",
+    "sensex-nifty-close-october-22-crude-110-west-asia"
+   ],
+   "kind": "photo",
+   "credit": "Photos: BSEINDIA / Wikimedia Commons; Pinakpani / Wikimedia Commons; Jnpet / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
+  }
  }
 }

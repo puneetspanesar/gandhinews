@@ -13,7 +13,6 @@ keyPoints:
   - "India won the second ODI by **four runs on DLS** and lead the five-match series 2-0."
   - "**Gurnoor Brar took 4 for 30**, his best figures in ODIs, as New Zealand were bowled out for 134."
   - "The third ODI is at **Seddon Park, Hamilton, on November 10**."
-upcoming: {date: 2026-11-10, en: "India v New Zealand, third ODI, Hamilton, 7:30 am IST", hi: "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, हैमिल्टन, सुबह 7:30 बजे"}
 hero:
   need: "India seamer Gurnoor Brar bowling, or the India team celebrating in Wellington"
   suggested_source: "Gurnoor Brar"

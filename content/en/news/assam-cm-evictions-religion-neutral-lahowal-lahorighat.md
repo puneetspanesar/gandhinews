@@ -86,10 +86,6 @@ Sarma also spoke of infrastructure. He said a proposed bridge at Lahorighat woul
 
 Sarma also criticised the Congress on Monday, saying the party is chiefly focused on winning minority votes and has not done enough for development in minority-dominated constituencies. An analysis cited in reports says the Congress won 19 seats in the 2026 Assembly election, 18 of them held by Muslim legislators, while the NDA won **102 of 126 seats** and the AIUDF fell to 2.
 
-```photo
-{"n":1,"subject":"Badruddin Ajmal","caption":"AIUDF chief Badruddin Ajmal, whose party was reduced to two seats in the 2026 Assembly election.","alt":"Badruddin Ajmal, AIUDF chief"}
-```
-
 The BJP also took the Nagaon Lok Sabha seat in the October 6 bypoll, which [we reported on October 11](/en/news/bypoll-results-ruling-parties-win-all-six-seats). Congress and the AIUDF were allies in the 2021 Assembly election; the Congress ended the alliance before the 2024 Lok Sabha polls.
 
 ## Criticism and what next
