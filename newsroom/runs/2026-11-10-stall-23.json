@@ -1,0 +1,19 @@
+{
+ "run": "stall-23",
+ "start": "2026-11-10T22:57:20+05:30",
+ "end": "2026-11-10T23:15:27+05:30",
+ "summary": "Expired two 48-hour holds; lead repeat left as breach",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "led or sat beside the lead at 22:40 as well: hasina-passport-request-dhaka-refuses-extradition-india",
+  "led or sat beside the lead at 20:41 as well: hasina-passport-request-dhaka-refuses-extradition-india",
+  "led or sat beside the lead at 19:28 as well: hasina-passport-request-dhaka-refuses-extradition-india",
+  "led or sat beside the lead at 18:51 as well: hasina-passport-request-dhaka-refuses-extradition-india",
+  "led or sat beside the lead at 18:44 as well: hasina-passport-request-dhaka-refuses-extradition-india"
+ ],
+ "lead": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
+}
