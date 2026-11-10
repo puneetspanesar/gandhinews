@@ -369,17 +369,13 @@
   ],
   "sectors_source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html (closing entries, 3:33 to 3:38 pm IST, November 9)",
   "flows": {
-    "date": "2026-11-06",
-    "fii": 13750.0,
-    "dii": -5969.0,
+    "date": "2026-11-09",
+    "fii": 7212.22,
+    "dii": -7172.53,
     "unit": "₹ crore",
-    "source": "https://www.niftytrader.in/fii-dii-data"
+    "source": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
   },
   "notes": [
-    "5 Nov 14:30 IST (hourly 14:00): no index, rupee, Brent or gold figure dated after 10:10 IST found in a source read this run (Business Standard fetch not answered; search returned only older pages); values kept from the 10:00 to 10:10 IST reads.",
-    "5 Nov 15:20 IST (hourly 15:00): Sensex 79,156.24 (+1,854.94) and Nifty 50 24,489.30 (+528.70) from ETV Bharat/PTI page last updated 13:30 IST (pct worked out against the Nov 4 close). Other indices, rupee, Brent and gold kept from the 10:00 to 10:10 IST reads (no newer dated figure found). Close not yet read.",
-    "5 Nov 16:05 IST (stall fix): Nov 5 close from ChiniMandi wrap published 15:41 IST: Sensex 79,310.01 (+2,008.61), Nifty 50 24,536.60 (+576.00), pct worked out against the Nov 4 close; matches Business Standard close headline (Sensex +2,009, Nifty 24,537). India VIX 15.62 (+2.83%, point change not given). Rupee close 94.47 vs 94.64. Closes appended to Sensex and Nifty 50 history. Nifty Bank (page says up about 3%, no level) and Midcap (up 1.8%, no level) keep their earlier reads; Brent, gold, silver, movers and sectors not refreshed (no percentages given); FII/DII flows still Nov 4.",
-    "Nov 5 close, read 16:25 IST: Nifty Midcap 100 (60,620.90, +1.87%), top Nifty gainers and the Auto and Financial Services sector moves from the DSIJ closing bell (4:00 pm). Losers' percentages not given (only index-point drags: Bharti Airtel, NTPC, Apollo Hospitals), so the losers list is empty. Nifty Bank level not given for the close (only 'up over 3%'), kept at the earlier reading. VIX, rupee close and Nov 5 FII/DII not confirmed; old values kept.",
     "5 Nov 17:15 IST (post-close check): Nov 5 Sensex and Nifty 50 closes confirmed present once each in history (22 and 23 sessions, under 30). India VIX Nov 4 history corrected 15.23 -> 15.19 (NSE close per Oquilia Market Pulse, Nov 2026 page; consistent with the 15.62 / +2.83% Nov 5 reading); Oquilia also confirms Nov 4 closes Nifty Bank 55,913.60 and Midcap 100 59,505.50. No Nov 5 closing figure found in a source read this run for Nifty Bank (level kept at earlier intraday read, Nov 5 not added to its history), India VIX (Nov 5 not added to history), Brent, MCX gold/silver, 10-year G-sec, Nifty losers or other sectors; old values kept. Rupee close 94.47 kept from the 16:05 read. Nov 5 FII/DII provisional not yet published (Trendlyne latest row 4 Nov), flows stay dated 4 Nov. ETV Bharat fetch not answered.",
     "Nov 5, checked 18:30 IST (18:00 hourly run): no newer dated figures read (Nov 5 FII/DII page not readable this run); closing values and flows kept as they were.",
     "FII/DII for Nov 5 not yet read (19:20 IST); Nov 4 flows shown.",
@@ -398,7 +394,8 @@
     "9 Nov 16:20 IST (hourly 16:00): Sensex 81,106.65 (+107.25, +0.13%) and Nifty 50 25,044.65 (+58.25, +0.23%) closes and PSU Bank +3.7%, Pharma +1.65% from the Business Standard live blog closing entries read this run; Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept from earlier reads (no closing figure found in a source read this run).",
     "10 Nov 06:25 IST (hourly 06): BSE and NSE closed Tuesday November 10 for Diwali Balipratipada (exchange holiday notice relayed by All India Radio, Nov 9 5:10 pm); Monday Nov 9 closing values kept, status closed.",
     "10 Nov 10:30 IST (hourly 10): exchange holiday for Diwali Balipratipada confirmed again (Goodreturns holiday note read this run); Nov 9 closing values kept, status closed.",
-    "10 Nov 14:35 IST (hourly 14): exchange holiday for Diwali Balipratipada (BusinessToday and Goodreturns holiday notes read this run); Nov 9 closing values kept, status closed."
+    "10 Nov 14:35 IST (hourly 14): exchange holiday for Diwali Balipratipada (BusinessToday and Goodreturns holiday notes read this run); Nov 9 closing values kept, status closed.",
+    "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run."
   ],
   "holidays": [
     "2026-11-10"

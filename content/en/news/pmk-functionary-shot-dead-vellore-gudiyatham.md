@@ -90,10 +90,6 @@ Police say **Poovarasan has 13 criminal cases** against him, including murder, a
 
 He was held shortly after the killing and is said to have told police where he had hidden the gun, in the foothills near Sengundram. Early on Tuesday, a police team took him there to recover it. According to the police account, he pulled out a concealed knife, attacked a sub-inspector and tried to run into the hilly ground. **The sub-inspector fired in self-defence** and hit him in the leg. Both men were taken to Gudiyatham Government Hospital and then moved to Vellore Government Medical College Hospital.
 
-```photo
-{"n":1,"subject":"Kanimozhi","caption":"DMK MP Kanimozhi, who attacked the state government over law and order after the killing.","alt":"DMK MP Kanimozhi"}
-```
-
 ## Reactions
 
 PMK president Anbumani Ramadoss said on Tuesday he was alarmed by the **deteriorating law and order situation** in Tamil Nadu. He condemned the murder and said the victim had been targeted by an illegal deer hunter whom he had earlier confronted. "I warned back then about the spread of a gun culture in the unified Vellore district," he said, adding: "The growth of gun culture is extremely dangerous." He urged the government and police to "take swift action to uproot this gun culture" before law and order worsens further.
@@ -105,10 +101,6 @@ DMK MP Kanimozhi used the killing to attack the TVK government. Addressing Chief
 ## A violent Deepavali week
 
 The Vellore killing was one of about ten murders reported across Tamil Nadu around Deepavali, including those of a Special Sub-Inspector in Theni, a 20-year-old IT employee in Chennai and two 17-year-old daily wage labourers. It follows a jailbreak in Theni district on October 26, when **seventeen undertrial prisoners escaped**.
-
-```photo
-{"n":2,"subject":"Vijay (actor)","caption":"Tamil Nadu Chief Minister Vijay, whom the opposition has asked to speak on law and order.","alt":"Chief Minister Vijay"}
-```
 
 ## What happens next
 

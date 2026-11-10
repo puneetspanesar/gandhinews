@@ -56,10 +56,6 @@ The rain that had stopped play on Monday carried into the final morning. Play wa
 
 For India A, the cost was less about the result than about the preparation. The match was meant to give the Test-bound bowlers overs in the red-ball format before the senior series. **Jasprit Bumrah and Prasidh Krishna bowled only 11 overs between them**, and Ravindra Jadeja did not bowl at all. Bumrah, who last played a Test in November 2025, sent down six wicketless overs on Sunday for 11 runs. Prasidh took both New Zealand A wickets, Rhys Mariu for a duck and Curtis Heaphy for 19, and ended with figures of 2 for 12.
 
-```photo
-{"n":1,"subject":"Bert Sutcliffe Oval","caption":"The Bert Sutcliffe Oval in Lincoln, where rain ended the third unofficial Test on Tuesday.","alt":"The Bert Sutcliffe Oval cricket ground in Lincoln, New Zealand"}
-```
-
 ## The runs from the series
 
 The batting is where India A left the most to talk about. **Devdutt Padikkal led all run-scorers with 326 runs at an average of 65.20**, and Yashasvi Jaiswal made 279 at 69.75 in five innings, including two centuries. The second of those, 102 at Lincoln, was the start of a 175-run opening stand with Sai Sudharsan, who made 88. Tilak Varma finished unbeaten on 81, Dhruv Jurel made 71 and Washington Sundar was not out on 50. Yash Rathod made 223 in two matches.

@@ -77,10 +77,6 @@ State and Union Territory police must report the FIRs registered in digital arre
 
 Attorney General R Venkataramani, for the Centre and other authorities, told the bench that substantial work had been done to detect suspicious transactions and strengthen preventive mechanisms.
 
-```photo
-{"n":1,"subject":"R. Venkataramani","caption":"Attorney General R Venkataramani appeared for the Centre and has assisted the court in the case since it began.","alt":"Attorney General R Venkataramani"}
-```
-
 ## Banks and the RBI
 
 The sharper directions are for banks. The bench said the RBI's rules must require financial institutions to **indemnify victims and pay compensation not less than the amount lost** wherever the institution failed in due diligence. The Chief Justice asked why banks did not step in when customers suddenly moved unusually large sums that did not match their transaction history, and called banks a "protective umbrella" for vulnerable customers.

@@ -74,10 +74,6 @@ State Minister for Foreign Affairs Humaiun Kobir was blunter. "Bangladesh does n
 
 Home Minister Salahuddin Ahmed said the government was reviewing the legal basis of the application, whether it followed due process and whether she has a right to apply at all. He said Dhaka had already written to India seeking her extradition. Md Aminul Islam, chief prosecutor in the death sentence case, called the application "nothing but political stunt" and said she would be executed if she returned.
 
-```photo
-{"n":1,"subject":"Tarique Rahman","caption":"Prime Minister Tarique Rahman, whose BNP government is handling the request.","alt":"Tarique Rahman, Prime Minister of Bangladesh"}
-```
-
 ## How her papers were taken away
 
 Her papers have been dismantled step by step. The interim government **revoked her diplomatic (red) passport on August 22, 2024**, and the immigration department carried out and announced the decision on January 7, 2025. She had surrendered her ordinary passport after becoming prime minister in 2009. On February 16, 2025, the Election Commission locked the ID cards of Hasina and nine members of her family, making them unusable for official purposes.
@@ -89,10 +85,6 @@ In November 2025 the International Crimes Tribunal in Dhaka sentenced her to dea
 Dhaka first asked for her extradition through a diplomatic note in December 2024 and renewed the request after the verdict. It says the request fits the **2013 India-Bangladesh extradition treaty**, which excludes certain political offences but covers serious crimes such as murder, which Dhaka argues cannot automatically be treated as political.
 
 New Delhi has said it is examining the requests. In April its foreign ministry said it wanted to engage constructively with the new government in Dhaka. Analysts expect India to keep sheltering her without helping her return or restoring her political standing.
-
-```photo
-{"n":2,"subject":"International Crimes Tribunal Bangladesh","caption":"The tribunal in Dhaka that sentenced Hasina to death in absentia in November 2025.","alt":"The International Crimes Tribunal building in Dhaka"}
-```
 
 ## Doubts about December
 
