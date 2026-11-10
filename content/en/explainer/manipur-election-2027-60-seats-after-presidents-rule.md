@@ -7,7 +7,7 @@ format_label: "Explained / Manipur election"
 topics: [elections-2027]
 title: "Manipur election 2027: the first vote since the violence, explained"
 standfirst: "Manipur votes in early 2027 after three years of ethnic conflict, a year of President's rule and a new government. What happened to the assembly elected in 2022, where the Kuki-Zo MLAs stand, and how a state with thousands still in relief camps will vote."
-published: 2026-11-10T15:15:00+05:30
+published: 2026-11-10T12:30:00+05:30
 shortAnswer: "Manipur's 60-member assembly, which needs 31 for a majority, is due for election in early 2027; its term ends in March. In 2022 the BJP won 32 seats on its own. Ethnic violence between the Meitei and Kuki-Zo communities from May 3, 2023 has killed at least 306 people. Chief Minister N. Biren Singh resigned on February 9, 2025, President's rule was imposed on February 13, 2025, and it was revoked on February 4, 2026, when Y. Khemchand Singh became Chief Minister. The 10 Kuki-Zo MLAs, seven of them from the BJP, back a demand for a separate administration, which the Centre has rejected. The census has been deferred in Manipur."
 hero:
   need: "Manipur Chief Minister Y. Khemchand Singh, who took office in February 2026"

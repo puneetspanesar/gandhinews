@@ -7,7 +7,7 @@ format_label: "Explained / Holidays 2027"
 topics: []
 title: "Holiday list 2027: all 17 central government holidays, the long weekends, and how optional holidays work"
 standfirst: "The Department of Personnel and Training has notified 2027's holidays for central government offices. Here is the full list with days of the week, the long weekends it creates, the rules on optional and restricted holidays, and why five of the 17 fall on weekends."
-published: 2026-11-10T17:45:00+05:30
+published: 2026-11-10T12:48:00+05:30
 shortAnswer: "Central government offices in Delhi and New Delhi will observe 17 gazetted holidays in 2027, under a Department of Personnel and Training order of July 16, 2026. They begin with Republic Day on Tuesday, January 26 and end with Christmas on Saturday, December 25; Diwali falls on Friday, October 29. Five of the 17 fall on a Saturday or Sunday, and Independence Day and Milad-un-Nabi are both on Sunday, August 15. Offices outside Delhi observe 14 compulsory holidays plus three chosen from a list of 12, and every employee can take two restricted holidays. Dates of Muslim festivals may shift with the moon."
 hero:
   need: "Diwali celebrations, the year's biggest festival holiday, falling on Friday, October 29, 2027"

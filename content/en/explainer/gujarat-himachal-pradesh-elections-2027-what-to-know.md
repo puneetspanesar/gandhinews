@@ -7,7 +7,7 @@ format_label: "Explained / Elections 2027"
 topics: [elections-2027]
 title: "Gujarat and Himachal Pradesh elections 2027: when they vote and what is at stake"
 standfirst: "After the five early-2027 polls, two more states vote at the end of the year: Gujarat, where the BJP won a record 156 seats in 2022, and Himachal Pradesh, which has not re-elected a government since 1985. What the numbers say a year out."
-published: 2026-11-10T16:05:00+05:30
+published: 2026-11-10T12:36:00+05:30
 shortAnswer: "Gujarat and Himachal Pradesh elected their current assemblies in December 2022, so both are due to vote around November and December 2027, after Uttar Pradesh, Punjab, Uttarakhand, Goa and Manipur. In Gujarat, the BJP won 156 of 182 seats in 2022, its best result, with about 52.5% of the vote, while the Congress won 17 and AAP 5. In Himachal, the Congress won 40 of 68 seats against the BJP's 25; the state has changed its government at every election since 1985. Bhupendra Patel (BJP) and Sukhvinder Singh Sukhu (Congress) are the Chief Ministers."
 hero:
   need: "Gujarat Chief Minister Bhupendra Patel and Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu"

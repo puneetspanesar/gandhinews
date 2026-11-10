@@ -7,7 +7,7 @@ format_label: "Explained / Punjab"
 topics: [elections-2027, states]
 title: "Punjab's ₹1,000 a month for women: who gets it, how to register and what it costs"
 standfirst: "The Mukh Mantri Mawan Dheeyan Satkar Yojana pays ₹1,000 a month to most adult women in Punjab and ₹1,500 to Dalit women. Who qualifies, the three documents you need, how much has been paid so far, and why the scheme is now at the centre of the 2027 campaign."
-published: 2026-11-10T12:40:00+05:30
+published: 2026-11-10T12:12:00+05:30
 shortAnswer: "Under the Mukh Mantri Mawan Dheeyan Satkar Yojana, women aged 18 and above who live in Punjab and are registered voters there get ₹1,000 a month, and Scheduled Caste women ₹1,500, paid straight into their bank accounts. Income-tax payers, regular and retired government employees, and sitting and former MLAs and MPs and their spouses are left out. Registration is free at anganwadi centres, Sewa Kendras and municipal offices, needs an Aadhaar card with a Punjab address, a Punjab voter ID and a bank passbook, and has no deadline. By October 8, 2026, more than 79 lakh women had registered and about ₹3,722 crore had been paid."
 hero:
   need: "Punjab Chief Minister Bhagwant Mann, whose government launched the scheme"

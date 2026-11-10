@@ -7,7 +7,7 @@ format_label: "Explained / Goa election"
 topics: [elections-2027]
 title: "Goa election 2027: 40 seats, a split opposition and the tribal quota fight"
 standfirst: "The BJP won 20 of Goa's 40 seats in 2022, one short of a majority, then grew through defections. Against it now stand the Congress and a new AAP and Goa Forward alliance. How Goa voted, who is fighting whom, and what could change the map."
-published: 2026-11-10T14:50:00+05:30
+published: 2026-11-10T12:27:00+05:30
 shortAnswer: "Goa's 40-member assembly needs 21 seats for a majority, and its election is due in early 2027. In 2022 the BJP won 20 seats with 33.31% of the vote, the Congress 11 with 23.46%, independents 3, the MGP and AAP 2 each, and the Revolutionary Goans Party and Goa Forward 1 each. Eight legislators later moved to the BJP, after ten Congress MLAs had done the same in 2019. For 2027, AAP and the Goa Forward Party announced a 'Goa First' alliance on September 13, 2026, while the Congress, the main opposition party, has run its own campaign. A plan to reserve about four seats for Scheduled Tribes is stuck after a High Court stay."
 hero:
   need: "Goa Chief Minister Pramod Sawant, whose BJP seeks a fourth straight term"

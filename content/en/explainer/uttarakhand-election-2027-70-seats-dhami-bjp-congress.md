@@ -7,7 +7,7 @@ format_label: "Explained / Uttarakhand election"
 topics: [elections-2027]
 title: "Uttarakhand election 2027: 70 seats, a BJP bid for a third term and the issues in play"
 standfirst: "In 2022 the BJP became the first party to win Uttarakhand twice in a row, even as its Chief Minister lost his own seat. How the hill state voted, what the BJP and the Congress are running on, and when it votes next."
-published: 2026-11-10T14:00:00+05:30
+published: 2026-11-10T12:21:00+05:30
 shortAnswer: "Uttarakhand's 70-member assembly needs 36 seats for a majority, and its term ends in March 2027, so the state is expected to vote in February or March. In 2022 the BJP won 47 seats with 44.33% of the vote and the Congress 19, making the BJP the first party to win consecutive terms there. Chief Minister Pushkar Singh Dhami lost Khatima by 6,579 votes but stayed in office and won the Champawat by-election in June 2022 with 92.94% of the vote. The BJP will contest under Dhami; the Congress, led in the state by Ganesh Godiyal, is campaigning on law and order, women's safety and the Ankita Bhandari case."
 hero:
   need: "Uttarakhand Chief Minister Pushkar Singh Dhami, whose BJP seeks a third straight term"

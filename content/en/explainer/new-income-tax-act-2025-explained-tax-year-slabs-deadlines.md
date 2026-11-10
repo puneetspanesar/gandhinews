@@ -7,13 +7,13 @@ format_label: "Explained / Income tax"
 topics: [economy, budget-2026-27]
 title: "New Income Tax Act 2025 explained: the 'tax year', your slabs and the new filing deadlines"
 standfirst: "Since April 1, 2026, India's income tax has run under a new law that replaced the 1961 Act. What changed for salaried and business taxpayers, what did not, the slabs under the new regime, and the deadlines for your first return under the new Act."
-published: 2026-11-10T16:55:00+05:30
+published: 2026-11-10T12:42:00+05:30
 shortAnswer: "The Income-tax Act, 2025 replaced the Income-tax Act, 1961 on April 1, 2026. It cuts the law's text and sections roughly in half and replaces the 'previous year' and 'assessment year' with a single 'tax year'. It does not change tax rates: those are set by the annual Finance Act, and the 2026-27 Budget left slabs unchanged, so income up to ₹12 lakh still pays no tax under the new regime, or ₹12.75 lakh for salaried people after the ₹75,000 standard deduction. From tax year 2026-27, simple returns are due by July 31, non-audit business returns by August 31 and audited returns by October 31, and revised returns can be filed for 12 months."
 hero:
-  need: "The Income Tax Department's headquarters or the Finance Ministry, which runs the new tax law"
-  suggested_source: "North Block New Delhi"
-  subjects: ["North Block New Delhi"]
-  alt: "North Block in New Delhi, home of the Finance Ministry (file photo)"
+  need: "Finance Minister Nirmala Sitharaman, whose Budget brought the new Act into force"
+  suggested_source: "Nirmala Sitharaman"
+  subjects: ["Nirmala Sitharaman"]
+  alt: "Finance Minister Nirmala Sitharaman (file photo)"
   overlay:
     value: "New law, same slabs"
 infographic:
@@ -106,7 +106,7 @@ The window to **file a revised return has grown from 9 months to 12**. A revisio
 On the other side, the Securities Transaction Tax went up on certain derivative trades, income from share buybacks is taxed as capital gains, and the tax benefits on Sovereign Gold Bonds apply only to bonds bought at the original issue price.
 
 ```photo
-{"n":1,"subject":"Nirmala Sitharaman","caption":"Finance Minister Nirmala Sitharaman, who presented the 2026-27 Budget that brought the new Act into force without changing slabs.","alt":"Finance Minister Nirmala Sitharaman (file photo)"}
+{"n":1,"subject":"Aayakar Bhawan","caption":"Aayakar Bhawan, an Income Tax Department office: returns for tax year 2026-27 are the first under the new Act.","alt":"Aayakar Bhawan, Income Tax Department office (file photo)"}
 ```
 
 ## What should taxpayers do now?

@@ -7,7 +7,7 @@ format_label: "Explained / Pay Commission"
 topics: [economy]
 title: "8th Pay Commission explained: when salaries and pensions will rise, and what the fitment factor means"
 standfirst: "Set up on November 3, 2025, the 8th Central Pay Commission has until about May 2027 to report. What it covers, who heads it, what has and has not been decided, how a fitment factor changes your pay, and how dearness allowance fits in."
-published: 2026-11-10T16:30:00+05:30
+published: 2026-11-10T12:39:00+05:30
 shortAnswer: "The 8th Central Pay Commission was constituted on November 3, 2025, under former Supreme Court judge Ranjana Prakash Desai, and has 18 months, until about May 2027, to recommend new pay, allowances and pensions for central government employees and pensioners. As of November 2026 it has not reported, no fitment factor or implementation date has been decided, and salaries and pensions have not been revised. Figures circulating online, such as a ₹25,000 pension becoming ₹87,500, are arithmetic on assumed factors, not decisions. Meanwhile, dearness allowance was raised from 60% to 63% from July 1, 2026."
 hero:
   need: "North Block in New Delhi, home of the Finance Ministry, which will decide on the Pay Commission's report"

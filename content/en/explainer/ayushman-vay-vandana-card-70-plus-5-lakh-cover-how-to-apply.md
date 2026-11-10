@@ -7,7 +7,7 @@ format_label: "Explained / Health"
 topics: []
 title: "Ayushman Vay Vandana card: free ₹5 lakh health cover for everyone over 70, and how to get it"
 standfirst: "Two years after it began, the scheme has paid for 23.46 lakh hospital admissions of people aged 70 and above. Who is eligible, how to enrol on the Ayushman app, how the cashless cover works, what it pays for most, and what it leaves out."
-published: 2026-11-10T19:25:00+05:30
+published: 2026-11-10T13:00:00+05:30
 shortAnswer: "Every Indian aged 70 or above can get free, cashless hospital cover of up to ₹5 lakh a year under Ayushman Bharat PM-JAY, through an Ayushman Vay Vandana card, whatever their income. Families already in PM-JAY get an extra ₹5 lakh top-up for members over 70. People in CGHS, ECHS or CAPF schemes must choose between those and PM-JAY; those with private insurance or ESI remain eligible. Enrolment is on the Ayushman app or the PM-JAY beneficiary portal with Aadhaar e-KYC. Since its launch on October 29, 2024, the scheme has authorised 23.46 lakh admissions worth ₹5,668.80 crore, led by cataract surgery and dialysis."
 hero:
   need: "Nirman Bhawan in New Delhi, home of the Union Health Ministry, which runs the scheme through the National Health Authority"

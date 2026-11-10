@@ -7,7 +7,7 @@ format_label: "Explained / Rooftop solar"
 topics: [economy]
 title: "PM Surya Ghar: how much subsidy you get for rooftop solar, and how to apply"
 standfirst: "More than 50 lakh homes have put up rooftop solar under PM Surya Ghar: Muft Bijli Yojana, and the government wants one crore by March 2027. The subsidy for 1, 2 and 3 kW systems, who can apply, the step-by-step process, loans, and what a household can save."
-published: 2026-11-10T19:00:00+05:30
+published: 2026-11-10T12:57:00+05:30
 shortAnswer: "PM Surya Ghar: Muft Bijli Yojana pays households a central subsidy to install rooftop solar: ₹30,000 per kW for the first 2 kW and ₹18,000 for the third, so ₹30,000 for a 1 kW system, ₹60,000 for 2 kW and a maximum of ₹78,000 for 3 kW or more. North-eastern and hill states and island territories get more. Households apply on the national portal, pick a registered vendor, and get the subsidy in their bank account, usually within 30 days of the inspection. The scheme, approved on February 29, 2024 with an outlay of ₹75,021 crore, aims at one crore homes by 2026-27; it had crossed 50 lakh installations by August 2026."
 hero:
   need: "Rooftop solar panels on houses in India"
@@ -82,10 +82,6 @@ The vendor can complete the application on your behalf if you choose. After the 
 ## Can I get a loan for the rest?
 
 **Yes, without collateral.** Banks offer low-interest, collateral-free loans for the part of the cost the subsidy does not cover, through the Jan Samarth portal. By August 2026, loans had been sanctioned to 21.87 lakh applicants, and 17.5 lakh installations had been completed with them.
-
-```photo
-{"n":1,"subject":"Rooftop solar panels India","caption":"Rooftop solar panels on homes: the subsidy covers systems of up to 3 kW per household.","alt":"Rooftop solar panels in India (file photo)"}
-```
 
 ## How much can I save?
 

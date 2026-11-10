@@ -7,7 +7,7 @@ format_label: "Explained / Punjab election"
 topics: [elections-2027]
 title: "Akali Dal and BJP: why a reunion could reshape Punjab's 2027 election"
 standfirst: "Allies for nearly 24 years, the two parties split over the farm laws in 2020 and were routed separately in 2022. In the 2024 Lok Sabha vote they polled more together than any other party. Where the talks stand, and what the numbers say."
-published: 2026-11-10T13:30:00+05:30
+published: 2026-11-10T12:18:00+05:30
 shortAnswer: "The Shiromani Akali Dal and the BJP fought Punjab elections together from 1997 to 2017 and left each other in September 2020 over the Centre's three farm laws. Separately, they won 3 and 2 of Punjab's 117 seats in 2022. In the 2024 Lok Sabha election, though, the BJP's 18.56% and the Akali Dal's 13.41% added up to 31.97%, more than the Congress (26.31%) or AAP (26.03%). As of November 10, 2026, neither party has announced an alliance, but reports in late October said talks were in their final stages, with the BJP seeking far more than the 23 seats it used to contest."
 hero:
   need: "Akali Dal president Sukhbir Singh Badal and Union Home Minister Amit Shah, the two sides of the alliance talks"

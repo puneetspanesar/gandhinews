@@ -7,7 +7,7 @@ format_label: "Explained / Uttar Pradesh"
 topics: [elections-2027, electoral-rolls-sir]
 title: "UP voter list 2026: how to check your name after the SIR, and what to do if it is missing"
 standfirst: "Uttar Pradesh's final electoral roll after the Special Intensive Revision has 13.39 crore voters, about two crore fewer than before. How to find your name, how to get on the roll before the 2027 election, and what the numbers show district by district."
-published: 2026-11-10T15:40:00+05:30
+published: 2026-11-10T12:33:00+05:30
 shortAnswer: "Uttar Pradesh published its final electoral roll after the Special Intensive Revision on April 10, 2026, with 13,39,84,792 voters, down from about 15.44 crore before the exercise began in October 2025; around 2.04 crore names were removed. You can check your name on the Election Commission's portal, voters.eci.gov.in, by EPIC number or by name, date of birth and district. If your name is missing, apply on Form 6 to be added; enrolment stays open until close to the election. Lucknow, Prayagraj, Kanpur Nagar, Agra and Ghaziabad saw the most deletions."
 hero:
   need: "Voters with their voter ID cards in queue at a polling station in Uttar Pradesh (file photo)"

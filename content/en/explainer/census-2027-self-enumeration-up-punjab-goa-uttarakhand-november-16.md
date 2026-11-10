@@ -7,7 +7,7 @@ format_label: "Explained / Census 2027"
 topics: [census-2027, elections-2027]
 title: "Census 2027 self-enumeration from November 16 in UP, Punjab, Goa and Uttarakhand: how to fill the form online"
 standfirst: "People in four poll-bound states can count themselves online from November 16 to 30, before enumerators knock from December 1. The dates, how the self-enumeration portal works, the SE ID you must keep, what you will be asked, and your rights and duties under the Census Act."
-published: 2026-11-10T19:50:00+05:30
+published: 2026-11-10T13:03:00+05:30
 shortAnswer: "In Uttar Pradesh, Punjab, Goa and the non-snowbound parts of Uttarakhand, households can fill in their own census details online from November 16 to 30, 2026. Enumerators then visit every home from December 1, 2026 to January 4, 2027, with a revisional round from January 5 to 9; the population is counted as it stood at midnight on January 5, 2027. In the house-listing phase, the self-enumeration portal (se.census.gov.in) took a mobile OTP, a map pin for your home and about 15 to 20 minutes, and gave an 11-character SE ID to show the enumerator. Self-enumeration is optional; answering the census truthfully is not."
 hero:
   need: "A census enumerator at work in India, or the Census of India office"

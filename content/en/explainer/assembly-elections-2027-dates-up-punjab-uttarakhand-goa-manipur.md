@@ -7,7 +7,7 @@ format_label: "Explained / Elections 2027"
 topics: [elections-2027, election-commission, electoral-rolls-sir, census-2027]
 title: "Assembly elections 2027: when Uttar Pradesh, Punjab, Uttarakhand, Goa and Manipur vote"
 standfirst: "Five states with 690 assembly seats between them go to the polls in early 2027. What we know about the dates, who governs each state now, how they voted last time, and what has to happen before the schedule is announced."
-published: 2026-11-10T12:15:00+05:30
+published: 2026-11-10T12:09:00+05:30
 shortAnswer: "Uttar Pradesh, Punjab, Uttarakhand, Goa and Manipur elect new assemblies in early 2027. As of November 10, 2026, the Election Commission has not announced dates. The terms of the Manipur, Goa, Punjab and Uttarakhand assemblies end in March 2027 and Uttar Pradesh's on May 22, 2027, so polling is expected in February and March. The Commission's teams are visiting the five states and plan to finish by December 15, and the schedule is expected after that. In 2022 the same five elections were announced on January 8 and counted together on March 10."
 hero:
   need: "Voters queuing at a polling station in Uttar Pradesh or Punjab (file photo)"

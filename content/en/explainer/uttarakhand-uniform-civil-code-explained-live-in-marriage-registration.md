@@ -7,7 +7,7 @@ format_label: "Explained / Uttarakhand"
 topics: [elections-2027, states]
 title: "Uttarakhand's Uniform Civil Code explained: live-in registration, marriage rules and what it bans"
 standfirst: "India's first state-level Uniform Civil Code has been in force since January 27, 2025. What it requires of couples, the jail terms and fines it sets, who is exempt, what its first year produced, and why it is now a 2027 campaign issue."
-published: 2026-11-10T14:25:00+05:30
+published: 2026-11-10T12:24:00+05:30
 shortAnswer: "Uttarakhand's Uniform Civil Code, in force since January 27, 2025, sets one set of rules on marriage, divorce, live-in relationships, inheritance and wills for all residents except Scheduled Tribes. It bans polygamy, halala and triple talaq, and requires live-in couples to register with a registrar within a month; the 2024 law set up to three months' jail or a ₹10,000 fine for not doing so. Marriage registration moved online and rose from an average of 67 a day to over 1,400. In its first year, 4,74,447 marriages were registered, while only 162 live-in applications were filed and 70 approved. An ordinance in January 2026 revised its procedures and penalties."
 hero:
   need: "Uttarakhand Chief Minister Pushkar Singh Dhami, who brought the Uniform Civil Code into force"

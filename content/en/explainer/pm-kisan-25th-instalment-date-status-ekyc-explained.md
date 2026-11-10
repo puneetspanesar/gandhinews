@@ -7,7 +7,7 @@ format_label: "Explained / Agriculture"
 topics: [agriculture-msp, economy]
 title: "PM Kisan 25th instalment: when it is due, how to check your status, and why payments get stuck"
 standfirst: "The 24th instalment of PM-KISAN reached about 9.34 crore farmers on October 30, 2026. When the next ₹2,000 is likely, who qualifies, how to complete e-KYC and the Farmer ID, and the most common reasons a payment does not arrive."
-published: 2026-11-10T17:20:00+05:30
+published: 2026-11-10T12:45:00+05:30
 shortAnswer: "PM-KISAN pays eligible farmer families ₹6,000 a year in three instalments of ₹2,000, straight into their bank accounts. The 24th instalment was released on October 30, 2026 from Banaskantha in Gujarat to about 9.34 crore farmers, worth about ₹18,680 crore. The government has not announced a date for the 25th; going by the last four instalments, which came about four months apart, it would fall around February or March 2027. To get it, a farmer must have completed e-KYC, have Aadhaar seeded to the bank account and land records verified, and in several states hold a Farmer ID. Status can be checked under 'Know Your Status' on pmkisan.gov.in."
 hero:
   need: "Union Agriculture Minister Shivraj Singh Chouhan, whose ministry runs PM-KISAN"
@@ -124,7 +124,7 @@ If something is wrong, the PM-KISAN helplines are 155261 and 1800115526, and the
 **A digital farmer identity being built under AgriStack, now required in several states.** It records a farmer's land, crop and other details so that benefits reach the right person. According to reports in May 2026, it had been made mandatory for PM-KISAN in 14 states: Andhra Pradesh, Assam, Bihar, Chhattisgarh, Gujarat, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tamil Nadu, Telangana and Uttar Pradesh. It is especially required for new farmers. You need your Aadhaar, an Aadhaar-linked mobile number and land documents such as khasra or jamabandi, and you can register on your state's agriculture portal or the AgriStack platform.
 
 ```photo
-{"n":1,"subject":"Shivraj Singh Chouhan","caption":"Union Agriculture Minister Shivraj Singh Chouhan, whose ministry runs PM-KISAN.","alt":"Union Agriculture Minister Shivraj Singh Chouhan (file photo)"}
+{"n":1,"subject":"Krishi Bhawan New Delhi","caption":"Krishi Bhawan in New Delhi, home of the Agriculture Ministry, which runs PM-KISAN.","alt":"Krishi Bhawan, New Delhi (file photo)"}
 ```
 
 ## Why do payments get held up?

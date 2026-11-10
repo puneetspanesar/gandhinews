@@ -7,7 +7,7 @@ format_label: "Explained / Railways"
 topics: []
 title: "Train ticket booking rules 2026: Aadhaar on opening day, Tatkal OTP, and when the chart is made"
 standfirst: "Indian Railways has changed how reserved tickets are booked several times since 2025. The 60-day booking window, why your IRCTC account needs Aadhaar, the Tatkal OTP rule, the new chart timings and the fare change, in one place."
-published: 2026-11-10T18:35:00+05:30
+published: 2026-11-10T12:54:00+05:30
 shortAnswer: "Reserved train tickets open 60 days before the journey, not counting the day of travel. Since January 12, 2026, only Aadhaar-authenticated IRCTC users can book general reserved tickets online on the first day of that window; counter bookings are unaffected. Tatkal tickets have needed Aadhaar-linked OTP verification since July 15, 2025, and agents cannot book Tatkal in the first 30 minutes (10 to 10:30 am for AC, 11 to 11:30 am for non-AC). The first reservation chart for trains leaving between 5:01 am and 2 pm is prepared by 8 pm the previous day, and for other trains about 10 hours before departure."
 hero:
   need: "A crowded railway station platform or reservation counter in India"

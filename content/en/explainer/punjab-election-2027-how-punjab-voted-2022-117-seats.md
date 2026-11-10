@@ -7,7 +7,7 @@ format_label: "Explained / Punjab election"
 topics: [elections-2027]
 title: "Punjab election 2027: how the state voted in 2022, and what it takes to win its 117 seats"
 standfirst: "AAP won 92 seats in 2022 on 42% of the vote. Two years later it came only second in the state's Lok Sabha vote. Region by region, party by party: where Punjab stands before the 2027 assembly election."
-published: 2026-11-10T13:05:00+05:30
+published: 2026-11-10T12:15:00+05:30
 shortAnswer: "Punjab's 117-member assembly needs 59 seats for a majority. In 2022 the Aam Aadmi Party won 92 seats with 42.01% of the vote, the Congress 18 with 22.98%, the Shiromani Akali Dal 3, the BJP 2 and the BSP 1. AAP swept Malwa, the southern region that has 69 of the 117 seats, winning 66 of them. In the 2024 Lok Sabha election, the Congress (26.31%) narrowly outpolled AAP (26.03%), with the BJP on 18.56% and the Akali Dal on 13.41%. The 2027 election is due by March, with no dates announced yet."
 hero:
   need: "Punjab Chief Minister Bhagwant Mann, whose AAP government seeks a second term"

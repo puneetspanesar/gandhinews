@@ -7,7 +7,7 @@ format_label: "Explained / Savings"
 topics: [economy, rbi-interest-rates]
 title: "PPF, Sukanya, SCSS, NSC interest rates for October to December 2026, and how each scheme works"
 standfirst: "The government has kept interest on all post office savings schemes unchanged for the quarter. The full rate table, deposit limits, lock-ins and tax treatment for each scheme, and when the next revision is due."
-published: 2026-11-10T18:10:00+05:30
+published: 2026-11-10T12:51:00+05:30
 shortAnswer: "For October to December 2026, the government left small savings rates unchanged: Sukanya Samriddhi and the Senior Citizens' Savings Scheme pay 8.2%, the National Savings Certificate 7.7%, Kisan Vikas Patra and the 5-year time deposit 7.5%, the Monthly Income Scheme 7.4%, PPF 7.1% and the post office savings account 4%. Rates are reviewed every quarter by the Finance Ministry's Department of Economic Affairs; the next decision, for January to March 2027, is due by the end of December. PPF and Sukanya accept up to ₹1.5 lakh a year, SCSS up to ₹30 lakh, and the Monthly Income Scheme up to ₹9 lakh single or ₹15 lakh joint."
 hero:
   need: "A post office counter in India, where small savings schemes are opened"
@@ -75,7 +75,7 @@ verification:
 The Senior Citizens' Savings Scheme pays interest every quarter and the Monthly Income Scheme every month, which makes them popular with retired people who need a regular income. NSC compounds its interest every year and pays it all at maturity. Kisan Vikas Patra simply doubles your money: at 7.5%, a deposit doubles in **115 months, or nine years and seven months**.
 
 ```photo
-{"n":1,"subject":"India Post office","caption":"A post office in India: small savings accounts can be opened at post offices and at banks that offer the schemes.","alt":"An India Post office (file photo)"}
+{"n":1,"subject":"Dak Bhawan New Delhi","caption":"Dak Bhawan in New Delhi, headquarters of India Post, which runs the small savings schemes through its post offices.","alt":"Dak Bhawan, India Post headquarters, New Delhi (file photo)"}
 ```
 
 ## How are these schemes taxed?
