@@ -1,0 +1,131 @@
+{
+  "k1": {
+    "query": "Mumbai fire brigade fire",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Dadar Fire Station, Mumbai.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Dadar_Fire_Station,_Mumbai.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Dadar_Fire_Station%2C_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4032,
+        "height": 2268,
+        "licence": "CC BY-SA 4.0",
+        "author": "AvaneeshKulkarni04",
+        "credit": "Own work",
+        "date": "2020-01-17 14:24",
+        "description": "Dadar Fire Station of the Mumbai Fire Brigade.",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dadar_Fire_Station%2C_Mumbai.jpg/1600px-Dadar_Fire_Station%2C_Mumbai.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Fire Tenders.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Fire_Tenders.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fire_Tenders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4608,
+        "height": 2304,
+        "licence": "CC0",
+        "author": "Punit Rajpal",
+        "credit": "Own work",
+        "date": "2018-05-17 13:42:48",
+        "description": "Three fire tenders parked at Dadar Fire Brigade, Mumbai",
+        "thumb": "k1-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fire_Tenders.jpg/1600px-Fire_Tenders.jpg"
+      },
+      {
+        "n": 2,
+        "title": "File:Mini fire tender if Mumbai Fire Brigade.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mini_fire_tender_if_Mumbai_Fire_Brigade.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mini_fire_tender_if_Mumbai_Fire_Brigade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4032,
+        "height": 2268,
+        "licence": "CC BY-SA 4.0",
+        "author": "AvaneeshKulkarni04",
+        "credit": "Own work",
+        "date": "2020-01-17",
+        "description": "This is a Force Traveller mini fire tender in service of Mumbai Fire Brigade.",
+        "thumb": "k1-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mini_fire_tender_if_Mumbai_Fire_Brigade.jpg/1600px-Mini_fire_tender_if_Mumbai_Fire_Brigade.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:Mumbai Fire Brigade Fire Engine Side View.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mumbai_Fire_Brigade_Fire_Engine_Side_View.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mumbai_Fire_Brigade_Fire_Engine_Side_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2592,
+        "height": 1944,
+        "licence": "CC BY-SA 3.0",
+        "author": "AroundTheGlobe",
+        "credit": "Own work",
+        "date": "",
+        "description": "TAKEN DURING WIKIPEDIA TAKES MUMBAI 1 PHOTOWALK",
+        "thumb": "k1-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mumbai_Fire_Brigade_Fire_Engine_Side_View.jpg/1600px-Mumbai_Fire_Brigade_Fire_Engine_Side_View.jpg"
+      },
+      {
+        "n": 4,
+        "title": "File:Mumbai Fire brigade Fire Engine Front View (with RBI building in background).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mumbai_Fire_brigade_Fire_Engine_Front_View_(with_RBI_building_in_background).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mumbai_Fire_brigade_Fire_Engine_Front_View_%28with_RBI_building_in_background%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1234,
+        "height": 1727,
+        "licence": "CC0",
+        "author": "AroundTheGlobe",
+        "credit": "Own work",
+        "date": "",
+        "description": "TAKEN DURING WIKIPEDIA TAKES MUMBAI 1 PHOTOWALK",
+        "thumb": "k1-4.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mumbai_Fire_brigade_Fire_Engine_Front_View_%28with_RBI_building_in_background%29.jpg"
+      },
+      {
+        "n": 5,
+        "title": "File:Mumbai Fire Brigade Headquarters.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mumbai_Fire_Brigade_Headquarters.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mumbai_Fire_Brigade_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2248,
+        "height": 1686,
+        "licence": "CC BY-SA 3.0",
+        "author": "Trinidade",
+        "credit": "Own work",
+        "date": "2012-09-23 14:35:09",
+        "description": "Mumbai Fire Brigade Headquarter Building in Byculla, Mumbai",
+        "thumb": "k1-5.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mumbai_Fire_Brigade_Headquarters.jpg/1600px-Mumbai_Fire_Brigade_Headquarters.jpg"
+      },
+      {
+        "n": 6,
+        "title": "File:Mumbai Fire Brigade.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mumbai_Fire_Brigade.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mumbai_Fire_Brigade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3888,
+        "height": 2592,
+        "licence": "CC BY 2.0",
+        "author": "Chris Hoare",
+        "credit": "originally posted to Flickr as Mumbai Fire Brigade",
+        "date": "2007-11-16 09:35:33",
+        "description": "A Mumbai Fire Brigade Van",
+        "thumb": "k1-6.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mumbai_Fire_Brigade.jpg/1600px-Mumbai_Fire_Brigade.jpg"
+      },
+      {
+        "n": 7,
+        "title": "File:Mumbai Fire Brigades new PPE uniforms.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mumbai_Fire_Brigades_new_PPE_uniforms.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mumbai_Fire_Brigades_new_PPE_uniforms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3000,
+        "height": 4000,
+        "licence": "CC BY-SA 3.0",
+        "author": "Suyogaerospace",
+        "credit": "Clicked during MFB's First Responders Training Program",
+        "date": "2012-05-27",
+        "description": "This are the new PPE Uniforms allotted to Mumbai Fire Brigade's staff. On left it is a officers uniform with orange reflective stripes and on right its firemen's uniform with white reflective stripes.",
+        "thumb": "k1-7.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mumbai_Fire_Brigades_new_PPE_uniforms.jpg/1600px-Mumbai_Fire_Brigades_new_PPE_uniforms.jpg"
+      }
+    ]
+  },
+  "k2": {
+    "query": "Mumbai firecrackers fire Diwali",
+    "candidates": []
+  }
+}
