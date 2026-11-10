@@ -18,7 +18,7 @@ hero:
   need: "Megamalai hills in the Srivilliputhur-Megamalai Tiger Reserve, Tamil Nadu"
   suggested_source: "Megamalai"
   subjects: ["Megamalai", "Srivilliputhur Grizzled Squirrel Wildlife Sanctuary"]
-  alt: "The Megamalai hills, Tamil Nadu (file photo)"
+  alt: "Supreme Court of India, New Delhi (file photo)"
   overlay:
     value: "Silk cotton is not a forest right"
 related: [bandipur-tiger-reserve-63-per-cent-vacancies-ntca]

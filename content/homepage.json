@@ -57,17 +57,6 @@
         }
       },
       {
-        "link": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India win toss and bowl in a 40-over Hamilton ODI after long rain delay",
-          "hi": "लंबी बारिश के बाद हैमिल्टन में भारत ने टॉस जीतकर गेंदबाज़ी चुनी, मैच 40 ओवर का"
-        }
-      },
-      {
         "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "lead": {
           "en": "Urban Affairs:",
@@ -76,6 +65,17 @@
         "text": {
           "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
           "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
+        }
+      },
+      {
+        "link": "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Mandhana to lead India women in all formats on December tour of South Africa",
+          "hi": "दिसंबर में दक्षिण अफ्रीका दौरे पर तीनों फॉर्मेट में स्मृति मंधाना होंगी भारतीय महिला टीम की कप्तान"
         }
       },
       {
@@ -101,17 +101,6 @@
         }
       },
       {
-        "link": "modi-zelenskyy-phone-call-india-peace-efforts",
-        "lead": {
-          "en": "Ukraine:",
-          "hi": "यूक्रेन:"
-        },
-        "text": {
-          "en": "Modi speaks to Zelenskyy, says India ready to contribute to peace in Ukraine",
-          "hi": "मोदी ने ज़ेलेंस्की से की बात, कहा यूक्रेन में शांति के लिए भारत हर संभव योगदान को तैयार"
-        }
-      },
-      {
         "link": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "lead": {
           "en": "Trade:",
@@ -120,6 +109,17 @@
         "text": {
           "en": "India and EU review trade pact in Delhi as Brussels signing looms in December",
           "hi": "दिल्ली में भारत और यूरोपीय संघ ने व्यापार समझौते की समीक्षा की, दिसंबर में ब्रसेल्स में हस्ताक्षर की तैयारी"
+        }
+      },
+      {
+        "link": "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Trump says renewed strikes on Iran 'highly unlikely' if a deal is signed, but names 38 bridges he could bring down in an hour",
+          "hi": "ट्रंप बोले, सौदा हुआ तो ईरान पर नए हमले 'बेहद असंभव', पर 38 पुल एक घंटे में गिराने की चेतावनी भी दी"
         }
       }
     ]
@@ -187,19 +187,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+      "id": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
       "also": []
     },
     "list": [
-      "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+      "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
       "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
       "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-      "modi-zelenskyy-phone-call-india-peace-efforts",
-      "india-eu-strategic-partnership-review-fta-signing-brussels-december"
+      "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
     ],
     "also": [
-      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-      "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu"
+      "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+      "womens-reservation-33-per-cent-when-will-it-start-explained"
     ]
   },
   "startHere": [
@@ -381,7 +381,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "lead": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
       "module": {
         "type": "markets",
         "indicators": [
@@ -392,9 +392,9 @@
         ]
       },
       "list": [
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
       ]
     },
     {
@@ -429,9 +429,9 @@
       "section": "world",
       "lead": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
       "list": [
-        "modi-zelenskyy-phone-call-india-peace-efforts",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement"
+        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
+        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
       ]
     },
     {
@@ -447,10 +447,10 @@
       "section": "sports",
       "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
       "list": [
-        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
+        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
       ]
     }
   ],
@@ -458,38 +458,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Under way",
+        "hi": "जारी"
       },
       "text": {
-        "en": "India A v New Zealand A, 3rd unofficial Test, final day, Lincoln",
-        "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
+        "en": "US, Russia and Ukraine talks in Abu Dhabi, November 10 and 11",
+        "hi": "अबू धाबी में अमेरिका, रूस और यूक्रेन की बातचीत, 10 और 11 नवंबर"
       },
-      "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "India vs New Zealand, third ODI, Seddon Park, Hamilton (40 overs a side)",
-        "hi": "भारत बनाम न्यूज़ीलैंड, तीसरा वनडे, सेडन पार्क, हैमिल्टन (40 ओवर प्रति पक्ष)"
-      },
-      "link": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
-        "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+      "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
     },
     {
       "icon": "calendar-blank",
@@ -633,7 +609,7 @@
       ]
     },
     {
-      "at": "2026-11-10T14:28:47+05:30",
+      "at": "2026-11-10T14:42:43+05:30",
       "ids": [
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
@@ -641,12 +617,12 @@
         "suspension-of-sentence-explained-tejpal-supreme-court",
         "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
         "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december"
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
     }
   ],

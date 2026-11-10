@@ -17,7 +17,7 @@ hero:
   need: "Volodymyr Zelenskyy and Narendra Modi"
   suggested_source: "Volodymyr Zelenskyy"
   subjects: ["Volodymyr Zelenskyy", "Narendra Modi"]
-  alt: "Ukrainian President Volodymyr Zelenskyy with Prime Minister Narendra Modi (file photo)"
+  alt: "Ukrainian President Volodymyr Zelenskyy (file photo)"
   overlay:
     value: "Zelenskyy: India ready to mediate food corridors"
 related: [modi-zelenskyy-phone-call-india-peace-efforts, romania-blames-russia-black-sea-merchant-ship-attacks, drone-attack-sinks-ship-off-bulgaria-black-sea, trump-xi-putin-apec-shenzhen-meeting-china-in-contact]
@@ -72,7 +72,7 @@ verification:
     - "Abu Dhabi first-day outcome not known at writing time."
 ---
 
-Ukrainian President Volodymyr Zelenskyy said on **Monday, November 9** that India is ready to help open food corridors through the Black Sea, after he spoke by telephone to Prime Minister Narendra Modi. The remark, made in posts on Telegram and X, put grain and shipping on the table a day before the United States, Russia and Ukraine opened two days of talks in Abu Dhabi.
+Ukrainian President Volodymyr Zelenskyy said on **Monday, November 9, 2026** that India is ready to help open food corridors through the Black Sea, after he spoke by telephone to Prime Minister Narendra Modi. The remark, made in posts on Telegram and X, put grain and shipping on the table a day before the United States, Russia and Ukraine opened two days of talks in Abu Dhabi.
 
 ## What Zelenskyy said
 
@@ -84,20 +84,20 @@ The statement goes further than what India itself said. Modi's post called the c
 
 ## Why the Black Sea
 
-Russia has rejected every proposal for a Black Sea grain arrangement, and Ukraine's agriculture minister, Taras Vysotskyi, said on September 29 that he saw no sign of a grain truce in the coming months. Reported estimates say about **30 million tonnes** of Ukrainian farm produce will go unexported this season, wheat prices have reached a three-year high, and importers are turning to costlier suppliers. Russia and Ukraine together supply roughly a quarter of the world's traded grain.
+Russia has rejected every proposal for a Black Sea grain arrangement, and Ukraine's agriculture minister, Taras Vysotskyi, said on September 29, 2026 that he saw no sign of a grain truce in the coming months. Reported estimates say about **30 million tonnes** of Ukrainian farm produce will go unexported this season, wheat prices have reached a three-year high, and importers are turning to costlier suppliers. Russia and Ukraine together supply roughly a quarter of the world's traded grain.
 
-Shipping has become dangerous. In October, at least seven cargo vessels were hit by drones off Romania and Bulgaria, leaving about 30 sailors dead or missing, and the cargo ship Khoryv was sunk off Constanta on October 23. Romania [blamed Russia](/en/news/romania-blames-russia-black-sea-merchant-ship-attacks) for attacks on four merchant ships, and a [drone strike sank another vessel](/en/news/drone-attack-sinks-ship-off-bulgaria-black-sea) off Bulgaria. NATO plans to send extra maritime patrol aircraft, radar and drones to the sea.
+Shipping has become dangerous. In October, at least seven cargo vessels were hit by drones off Romania and Bulgaria, leaving about 30 sailors dead or missing, and the cargo ship Khoryv was sunk off Constanta on October 23, 2026. Romania [blamed Russia](/en/news/romania-blames-russia-black-sea-merchant-ship-attacks) for attacks on four merchant ships, and a [drone strike sank another vessel](/en/news/drone-attack-sinks-ship-off-bulgaria-black-sea) off Bulgaria. NATO plans to send extra maritime patrol aircraft, radar and drones to the sea.
 
 ## India's earlier steps
 
-Food and shipping were already part of India's approach. On October 4 External Affairs Minister S Jaishankar said Delhi was in contact with both Moscow and Kyiv about restoring safe navigation, "starting with the Black Sea safety of shipping issue." Ukraine's foreign minister, Andrii Sybiha, had earlier called India's truce proposal the most comprehensive of those before Kyiv. Reports say its three parts are a halt to strikes on energy sites, uninterrupted grain and energy shipments from Black Sea ports and an end to attacks on commercial ships. India has not published the text.
+Food and shipping were already part of India's approach. On October 4, 2026 External Affairs Minister S Jaishankar said Delhi was in contact with both Moscow and Kyiv about restoring safe navigation, "starting with the Black Sea safety of shipping issue." Ukraine's foreign minister, Andrii Sybiha, had earlier called India's truce proposal the most comprehensive of those before Kyiv. Reports say its three parts are a halt to strikes on energy sites, uninterrupted grain and energy shipments from Black Sea ports and an end to attacks on commercial ships. India has not published the text.
 
-Zelenskyy also said Modi has repeatedly told Putin, including in person, that the time has come to end the war. Modi met Putin at the SCO summit in Bishkek on August 31 and again at the BRICS summit in New Delhi on September 12.
+Zelenskyy also said Modi has repeatedly told Putin, including in person, that the time has come to end the war. Modi met Putin at the SCO summit in Bishkek on August 31, 2026 and again at the BRICS summit in New Delhi on September 12, 2026.
 
 Delhi's contact with Moscow continued the same evening. Jaishankar said on X that he spoke to Russian Foreign Minister Sergey Lavrov about "the Ukraine conflict and ongoing diplomatic initiatives." India is also among the largest buyers of Russian crude, taking about 2.6 million barrels a day in June and July, more than half its crude imports, which gives it a hearing in Moscow that few others have.
 
 ```timeline
-{"title":"Black Sea shipping and India","items":[{"date":"September 29","text":"Ukraine's agriculture minister sees no grain truce in coming months"},{"date":"October 4","text":"Jaishankar says India is in touch with Moscow and Kyiv on safe Black Sea navigation"},{"date":"October 23","text":"Cargo ship Khoryv sunk by a drone off Constanta"},{"date":"November 9","text":"Zelenskyy says India is ready to mediate food corridors"},{"date":"November 10","text":"US, Russia and Ukraine open talks in Abu Dhabi"}]}
+{"title":"Black Sea shipping and India","items":[{"date":"September 29, 2026","text":"Ukraine's agriculture minister sees no grain truce in coming months"},{"date":"October 4, 2026","text":"Jaishankar says India is in touch with Moscow and Kyiv on safe Black Sea navigation"},{"date":"October 23, 2026","text":"Cargo ship Khoryv sunk by a drone off Constanta"},{"date":"November 9, 2026","text":"Zelenskyy says India is ready to mediate food corridors"},{"date":"November 10, 2026","text":"US, Russia and Ukraine open talks in Abu Dhabi"}]}
 ```
 
 ## Why it matters to readers
@@ -106,6 +106,6 @@ Wheat is at a **three-year high**, and Russia and Ukraine together supply about 
 
 ## What happens next
 
-The Abu Dhabi talks began on Tuesday, November 10, and run for two days. The US side is led by envoys Steve Witkoff and Jared Kushner, security guarantees are expected to be central, and a US official has proposed bringing European governments in on a parallel track afterwards. India is not represented. A breakthrough is uncertain: Russia is demanding large territorial concessions, which Kyiv has ruled out, and both sides continue to strike each other's energy sites.
+The Abu Dhabi talks began on Tuesday, November 10, 2026, and run for two days. The US side is led by envoys Steve Witkoff and Jared Kushner, security guarantees are expected to be central, and a US official has proposed bringing European governments in on a parallel track afterwards. India is not represented. A breakthrough is uncertain: Russia is demanding large territorial concessions, which Kyiv has ruled out, and both sides continue to strike each other's energy sites.
 
-Trump has said he expects to meet Xi Jinping and Putin at the APEC summit in Shenzhen on [November 18 and 19](/en/news/trump-xi-putin-apec-shenzhen-meeting-china-in-contact). Whether Delhi accepts a formal role on Black Sea food corridors is the question to watch from Modi's government.
+Trump has said he expects to meet Xi Jinping and Putin at the APEC summit in Shenzhen on [November 18, 2026 and 19](/en/news/trump-xi-putin-apec-shenzhen-meeting-china-in-contact). Whether Delhi accepts a formal role on Black Sea food corridors is the question to watch from Modi's government.

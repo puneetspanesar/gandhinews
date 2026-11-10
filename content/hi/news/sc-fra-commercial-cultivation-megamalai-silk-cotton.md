@@ -19,7 +19,7 @@ hero:
   need: "तमिलनाडु में श्रीविल्लिपुत्तूर-मेगामलाई टाइगर रिजर्व की मेगामलाई पहाड़ियां"
   suggested_source: "Megamalai"
   subjects: ["Megamalai", "Srivilliputhur Grizzled Squirrel Wildlife Sanctuary"]
-  alt: "तमिलनाडु की मेगामलाई पहाड़ियां (फाइल फोटो)"
+  alt: "सुप्रीम कोर्ट, नई दिल्ली (फाइल फोटो)"
   overlay:
     value: "सिल्क कॉटन वन अधिकार नहीं"
 related: [bandipur-tiger-reserve-63-per-cent-vacancies-ntca]

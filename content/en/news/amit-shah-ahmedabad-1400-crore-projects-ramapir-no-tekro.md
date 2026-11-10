@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Gujarat"
 topics: []
-title: "Shah opens and launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw"
+title: "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw"
 standfirst: "The Home Minister drew lots for more than 9,000 homes, among them 1,232 flats and 16 shops for Ramapir No Tekra residents, opened a water treatment plant and urged Gujarat to be drug-free by 2028 at a Gandhinagar constituency event on Monday."
 published: 2026-11-10T10:19:16+05:30
 location: Ahmedabad
