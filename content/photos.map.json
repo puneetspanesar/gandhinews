@@ -43989,5 +43989,42 @@
    }
   },
   "nophoto": "no unused free smog photo: quick_photo Delhi smog/air pollution/stubble, finder l10m k2 (correct ones blocked by 7-day rule)"
+ },
+ "assam-cm-evictions-religion-neutral-lahowal-lahorighat": {
+  "id": "o-assam-cm-evictions-religion-neutral-lahowal-lahorighat",
+  "src": "/photos/o-assam-cm-evictions-religion-neutral-lahowal-lahorighat-1280.jpg",
+  "src800": "/photos/o-assam-cm-evictions-religion-neutral-lahowal-lahorighat-640.jpg",
+  "width": 1280,
+  "height": 919,
+  "srcWidth": 613,
+  "credit": "Photo: Manabdeka / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Himanta Biswa Sarma (file photo)",
+  "alt_hi": "हिमंत बिस्वा सरमा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Himanta_Biswa_Sarma_briefing_media_at_his_office_dispur.jpg"
+ },
+ "wall-street-rally-s-and-p-7550-brent-below-93-november-9": {
+  "id": "r-wall-street-rally-s-and-p-7550-brent-below-93-november-9",
+  "src": "/photos/r-wall-street-rally-s-and-p-7550-brent-below-93-november-9-1280.jpg",
+  "src800": "/photos/r-wall-street-rally-s-and-p-7550-brent-below-93-november-9-640.jpg",
+  "width": 1280,
+  "height": 1280,
+  "credit": "Photo: ajay_suresh / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The Nasdaq MarketSite in Times Square, New York (file photo)",
+  "alt_hi": "न्यूयॉर्क के टाइम्स स्क्वायर में नैस्डैक मार्केटसाइट (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+ },
+ "sensex-nifty-close-november-9-highest-since-february-psu-banks": {
+  "id": "r-sensex-nifty-close-november-9-highest-since-february-psu-banks",
+  "src": "/photos/r-sensex-nifty-close-november-9-highest-since-february-psu-banks-1280.jpg",
+  "src800": "/photos/r-sensex-nifty-close-november-9-highest-since-february-psu-banks-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: BSEINDIA / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The BSE building on Dalal Street, Mumbai (file photo)",
+  "alt_hi": "मुंबई के दलाल स्ट्रीट पर बीएसई की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BSE_building_at_Dalal_Street.JPG"
  }
 }
