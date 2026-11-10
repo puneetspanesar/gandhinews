@@ -43813,5 +43813,87 @@
   "alt": "Prime Minister Narendra Modi (file photo)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg"
+ },
+ "us-chip-export-controls-explained-nvidia-megaspeed-congress-bills": {
+  "id": "o-us-chip-export-controls-explained-nvidia-megaspeed-congress-bills",
+  "src": "/photos/o-us-chip-export-controls-explained-nvidia-megaspeed-congress-bills-1280.jpg",
+  "src800": "/photos/o-us-chip-export-controls-explained-nvidia-megaspeed-congress-bills-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2375,
+  "credit": "Photo: Anderseidesvik / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Jensen Huang (file photo)",
+  "alt_hi": "जेन्सेन हुआंग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_010.jpg"
+ },
+ "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not": {
+  "id": "o-rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
+  "src": "/photos/o-rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not-1280.jpg",
+  "src800": "/photos/o-rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 6000,
+  "credit": "Photo: Saiphani02 / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Rights activist Nikhil Dey (file photo)",
+  "alt_hi": "अधिकार कार्यकर्ता निखिल डे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nikhil_Dey_in_2026.jpg"
+ },
+ "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration": {
+  "id": "o-teen-domestic-worker-delhi-homes-and-placement-agents-need-registration",
+  "src": "/photos/o-teen-domestic-worker-delhi-homes-and-placement-agents-need-registration-1280.jpg",
+  "src800": "/photos/o-teen-domestic-worker-delhi-homes-and-placement-agents-need-registration-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4160,
+  "credit": "Photo: Sumita Roy Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The campus of the All India Institute of Medical Sciences, New Delhi (file photo)",
+  "alt_hi": "अखिल भारतीय आयुर्विज्ञान संस्थान, नई दिल्ली का परिसर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:All_India_Institute_of_Medical_Science_New_Delhi_during_COVID-19_pandemic_in_Delhi_IMG_20210316_092102.jpg"
+ },
+ "delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data": {
+  "id": "i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data",
+  "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Why the index cannot show Diwali night",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सूचकांक दिवाली की रात क्यों नहीं दिखा पाता",
+  "page": null,
+  "ihash": "c43c61e41f1d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-640.jpg"
+   }
+  },
+  "nophoto": "no unused free smog photo: quick_photo Delhi smog/air pollution/stubble, finder l10m k2 (correct ones blocked by 7-day rule)"
  }
 }
