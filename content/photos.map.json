@@ -45494,12 +45494,38 @@
   "src": "/photos/o-ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi-1280.jpg",
   "src800": "/photos/o-ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 695,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Naveen Patnaik (file photo)",
-  "alt_hi": "नवीन पटनायक (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Naveen_Patnaik.jpg"
+  "height": 960,
+  "srcWidth": 3072,
+  "credit": "Photo: Raka / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Rescue and relief work during floods in Odisha, 2009 (file photo)",
+  "alt_hi": "2009 में ओडिशा में बाढ़ के दौरान बचाव और राहत कार्य (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Orissa_flood_2009.JPG",
+  "treated": {
+   "src": "/photos/t-ganjam-gidipabali-search-called-off-naveen-patnaik-letter-ma-1280.jpg",
+   "src800": "/photos/t-ganjam-gidipabali-search-called-off-naveen-patnaik-letter-ma-640.jpg",
+   "cutout": false,
+   "with": [
+    "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
+    "odisha-india-chem-2026-investment-intents",
+    "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart"
+   ],
+   "kind": "photo",
+   "subj": "33ffbf1e06848100",
+   "credit": "Photos: Raka / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons"
+  }
+ },
+ "ioa-som-election-usha-fifth-anju-bobby-george-tops-december-5": {
+  "id": "o-ioa-som-election-usha-fifth-anju-bobby-george-tops-december-5",
+  "src": "/photos/o-ioa-som-election-usha-fifth-anju-bobby-george-tops-december-5-1280.jpg",
+  "src800": "/photos/o-ioa-som-election-usha-fifth-anju-bobby-george-tops-december-5-640.jpg",
+  "width": 1280,
+  "height": 821,
+  "srcWidth": 1024,
+  "credit": "Photo: Odisha Games 2017 were cc by sa - Organised by Asian Athletics Assoc and Odisha government / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "P. T. Usha at the Asian Athletics Championships in Bhubaneswar, 2017 (file photo)",
+  "alt_hi": "2017 में भुवनेश्वर में एशियाई एथलेटिक्स चैंपियनशिप के दौरान पी. टी. उषा (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:PT_Usha,.jpg"
  }
 }

@@ -97,10 +97,6 @@ Two bodies were found first and five more later, which as of our last report on 
 
 The families also asked for help to rebuild. They said they cannot stay in temporary shelters for long and want **land for relocation**. Disaster Management Minister Suresh Pujari had said earlier that the government would build houses and rehabilitate the village's residents, a pledge we reported in our [earlier story](/en/news/ganjam-landslide-toll-seven-odisha-seeks-2526-crore). No new plan for the six missing or for relocation had been announced by Tuesday evening.
 
-```photo
-{"n":1,"subject":"Odisha flood rescue","caption":"Rescue teams working in flood-hit Odisha (file photo).","alt":"Rescue teams working in flood-hit Odisha (file photo)"}
-```
-
 ## What Patnaik wrote
 
 Patnaik toured flooded parts of Ganjam on November 7, visiting Hinjili, Sheragada, Aska and Sorada, and met farmers, women and small traders. His letter to the chief minister says: "I was pained to see the acute distress of the people of Ganjam."

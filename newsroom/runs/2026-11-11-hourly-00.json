@@ -1,0 +1,30 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-11T00:11:55+05:30",
+ "end": "2026-11-11T00:40:51+05:30",
+ "summary": "Ganjam Gidipabali search called off, Patnaik letter (lead); IOA story held for picture",
+ "new": [
+  "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi"
+ ],
+ "held": [
+  "ioa-som-election-usha-fifth-anju-bobby-george-tops-december-5"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "ioa-som-election-usha-fifth-anju-bobby-george-tops-december-5",
+   "kind": "picture",
+   "why": "Replacement main picture is a 2017 long shot of PT Usha walking across a track with a backpack; she fills a small part of the frame and her face is too small to recognise at card size (rule 3), and Anju Bobby George, who topped the poll and is in the headline, is not shown.",
+   "fix": "Crop tightly to PT Usha's face if the resolution holds, or better use a clear, close portrait of PT Usha (e.g. at an IOA event, not smiling with a trophy) or a two-panel of PT Usha and Anju Bobby George from the people library or quick_photo.py."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+   "why": "Event story (landslide search called off, six missing) whose main picture is still only two passport-style head-shots of Naveen Patnaik and Mohan Majhi; nothing shows a landslide, debris, flood or rescue, so it fails rule 2 and reads as a mug-shot pairing on a disaster story.",
+   "done": "Main picture replaced with a public-domain file photo of NDRF flood rescue and relief in Odisha (2009), labelled (file photo); checked by eye."
+  }
+ ],
+ "breaches": [],
+ "lead": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi"
+}

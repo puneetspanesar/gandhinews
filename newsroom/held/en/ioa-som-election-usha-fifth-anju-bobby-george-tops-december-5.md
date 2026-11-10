@@ -76,10 +76,6 @@ The men's seats were settled earlier. On Saturday, November 7, **Gagan Narang, V
 
 The vote was preceded by complaints to the Electoral Officer. Usha wrote that **Dola Banerjee broke the model code of conduct** by forwarding a WhatsApp message that backed a "New Bharat Panel" and listed four candidates with details of how to mark the ballot. Weightlifter Sathish Sivalingam separately alleged that "an organised effort is underway to influence members of the Electoral Roll" for a candidate who is also the IOA president, and that IOA resources were being used for it. He did not name Usha.
 
-```photo
-{"n":1,"subject":"Saina Nehwal","caption":"Saina Nehwal, the badminton Olympic medallist, was elected on 43 votes and has been mentioned in talk of a challenge for the presidency.","alt":"Saina Nehwal, badminton player"}
-```
-
 ## What Usha can do now
 
 Usha came to the presidency in December 2022, when she was **elected unopposed as the IOA's first woman president**, and she reached the post through the SOM route. That route has now closed. She can still stand on December 5 if a National Sports Federation nominates her to the General Assembly, but that looks unlikely: she is not expected to be one of the Athletics Federation of India's two representatives.
