@@ -1,8 +1,8 @@
 {
  "run": "stall-09",
  "start": "2026-11-10T08:55:17+05:30",
- "end": "2026-11-10T09:16:59+05:30",
- "summary": "Expired 48h hold, verify_live hold match fixed, homepage rotated",
+ "end": "2026-11-10T09:55:30+05:30",
+ "summary": "Expired 48h hold, verify_live hold match fixed; hourly 09 missing",
  "new": [],
  "held": [],
  "editor": null,
@@ -14,5 +14,5 @@
   "led or sat beside the lead at 06:45 as well: mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
   "led at 06:45 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
  ],
- "lead": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+ "lead": "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
 }
