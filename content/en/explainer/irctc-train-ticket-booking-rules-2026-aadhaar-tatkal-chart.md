@@ -13,7 +13,7 @@ hero:
   need: "A crowded railway station platform or reservation counter in India"
   suggested_source: "New Delhi railway station platform"
   subjects: ["New Delhi railway station"]
-  alt: "New Delhi railway station (file photo)"
+  alt: "A train at New Delhi railway station (file photo)"
   overlay:
     value: "Aadhaar now needed on opening day"
 infographic:
@@ -98,7 +98,7 @@ verification:
 ```
 
 ```photo
-{"n":1,"subject":"Railway reservation counter India","caption":"Bookings at railway reservation counters are not covered by the Aadhaar-only rule for the first day of online booking.","alt":"A railway reservation counter in India (file photo)"}
+{"n": 1, "subject": "Railway reservation counter India", "caption": "Ticket counters at Mysuru Junction. Bookings at railway reservation counters are not covered by the Aadhaar-only rule for the first day of online booking.", "alt": "Ticket and reservation counters at Mysuru Junction railway station (file photo)"}
 ```
 
 ## When is the reservation chart prepared?

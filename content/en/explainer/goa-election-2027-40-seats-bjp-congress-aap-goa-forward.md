@@ -112,19 +112,11 @@ The BJP, in power since 2012, will seek a fourth consecutive term under Sawant. 
 {"title":"The main contenders","columns":["2022 seats","Leaders","2027 line-up"],"rows":[{"icon":"flower-lotus","label":"BJP","cells":["20","Pramod Sawant","Ruling party"]},{"icon":"hand-palm","label":"Congress","cells":["11","Girish Chodankar","Own campaign"]},{"icon":"broom","label":"AAP","cells":["2","Valmiki Naik, Atishi","Goa First, with GFP"]},{"icon":"flag-banner","label":"Goa Forward","cells":["1","Vijai Sardesai","Goa First, with AAP"]}]}
 ```
 
-```photo
-{"n":1,"subject":"Vijai Sardesai","caption":"Goa Forward Party chief Vijai Sardesai, whose party chose AAP over the Congress for 2027.","alt":"Goa Forward Party president Vijai Sardesai (file photo)"}
-```
-
 ## What is the fight over tribal seats?
 
 **Whether four seats can be reserved for Scheduled Tribes before the vote.** Goa's main tribal communities, the Gawda, Kunbi and Velip, were added to the Scheduled Tribe list only in 2003, after the 2001 Census on which the current constituency map is based. As a result, **none of Goa's 40 seats is reserved for them**, even though they are about a tenth of the population.
 
 A 2025 Act of Parliament lets the Census Commissioner estimate their share of the population so that the Election Commission can reserve seats, likely four, before 2027. On October 29, 2026, the Bombay High Court at Goa restrained the Commissioner from notifying that estimate while it hears a challenge to the law, and the state government said it would appeal in the Supreme Court. If the stay holds, the 2027 election will be fought on the existing map.
-
-```photo
-{"n":2,"subject":"Bombay High Court Goa bench Porvorim","caption":"The Bombay High Court's Goa bench, which stayed the notification of Goa's tribal population estimate on October 29, 2026.","alt":"The Bombay High Court bench at Porvorim, Goa (file photo)"}
-```
 
 ## What is the campaign about so far?
 

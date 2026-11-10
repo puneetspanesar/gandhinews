@@ -13,7 +13,7 @@ hero:
   need: "A census enumerator at work in India, or the Census of India office"
   suggested_source: "Census of India enumerator"
   subjects: ["Census enumerator India"]
-  alt: "A census enumerator collects details at a home in India (file photo)"
+  alt: "Prime Minister Narendra Modi fills out the Census 2027 self-enumeration form in New Delhi, April 1, 2026"
   overlay:
     value: "Count yourself: Nov 16 to 30"
 infographic:
@@ -102,7 +102,7 @@ In Uttarakhand, only the areas not cut off by snow are covered by these dates; L
 After Final Submit you cannot edit the form yourself, but you can tell the enumerator about a mistake, and they can correct it before uploading.
 
 ```photo
-{"n":1,"subject":"Census of India office","caption":"The Office of the Registrar General and Census Commissioner, under the Union Home Ministry, runs Census 2027.","alt":"Office of the Registrar General and Census Commissioner of India (file photo)"}
+{"n": 1, "subject": "Census of India office", "caption": "Census staff record the details of then Prime Minister Manmohan Singh for Census 2011, in 2010. In Census 2027, households can enter their own details online before the enumerator visits.", "alt": "Census staff record the details of then Prime Minister Manmohan Singh for Census 2011 (file photo)"}
 ```
 
 ## What will I be asked?

@@ -99,10 +99,6 @@ The BJP chose Dhami as Chief Minister anyway. He then contested a by-election in
 
 The government also points to pilgrim numbers: more than **60 lakh people made the Char Dham Yatra** in 2026, which Dhami called a record. On October 22, he launched the BJP's "Loktantra Bachao, Arajakta Hatao" (save democracy, remove anarchy) campaign in all 13 districts, which accuses the Congress of undermining trust in the Special Intensive Revision of voter rolls. Union Home Minister Amit Shah was due to lead its biggest padyatra and rally, at Dehradun's Parade Ground, on November 6.
 
-```photo
-{"n":1,"subject":"Parade Ground Dehradun","caption":"Dehradun's Parade Ground, chosen by the BJP for its biggest rally of the campaign with Amit Shah in November 2026.","alt":"The Parade Ground in Dehradun (file photo)"}
-```
-
 ## What is the Congress running on?
 
 **Law and order, women's safety and jobs.** On November 2, party president Mallikarjun Kharge chaired a review of the state's preparations in Delhi with Rahul Gandhi, K.C. Venugopal, the general secretary in charge Kumari Selja and state Congress chief **Ganesh Godiyal**.
@@ -112,10 +108,6 @@ The government also points to pilgrim numbers: more than **60 lakh people made t
 > Source: Mallikarjun Kharge, Congress president, on X, November 2, 2026
 
 Venugopal pointed to leaked exam papers and what he called "a mockery of justice" in the Ankita Bhandari case. Ankita, a 19-year-old resort receptionist near Rishikesh, was murdered on September 18, 2022. The resort's owner, Pulkit Arya, the son of a former BJP leader, and two staff members were sentenced to life imprisonment in May 2025. Her family has long alleged that an unnamed "VIP" was linked to the crime; in October 2026 her parents protested in Delhi against BJP leader Dushyant Kumar Gautam's appointment as Governor of Sikkim. **Gautam denies any role**, and the allegations against him are unproven.
-
-```photo
-{"n":2,"subject":"Ganesh Godiyal","caption":"Uttarakhand Congress president Ganesh Godiyal, who leads the party's campaign in the state.","alt":"Uttarakhand Congress president Ganesh Godiyal (file photo)"}
-```
 
 ## What are the key dates?
 

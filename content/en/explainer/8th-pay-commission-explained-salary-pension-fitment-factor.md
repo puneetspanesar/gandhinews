@@ -13,7 +13,7 @@ hero:
   need: "North Block in New Delhi, home of the Finance Ministry, which will decide on the Pay Commission's report"
   suggested_source: "North Block New Delhi"
   subjects: ["North Block New Delhi"]
-  alt: "North Block in New Delhi, which houses the Finance Ministry (file photo)"
+  alt: "North Block, home of the Finance Ministry, New Delhi (file photo)"
   overlay:
     value: "Report due by about May 2027"
 infographic:
@@ -104,10 +104,6 @@ The employees' side has its own demands: it reportedly wants a **minimum basic p
 ## How does dearness allowance fit in?
 
 **DA keeps rising until the new pay structure arrives.** Dearness allowance for employees, and dearness relief for pensioners, is revised twice a year to offset inflation. On October 28, 2026, the Union Cabinet raised both **from 60% to 63% with effect from July 1, 2026**, a decision covering about 48.54 lakh employees and 68.71 lakh pensioners at an annual cost of ₹10,016.10 crore. When a new pay structure is introduced, accumulated DA is usually built into the new basic pay and the count starts again.
-
-```photo
-{"n":1,"subject":"Ranjana Prakash Desai","caption":"Former Supreme Court judge Ranjana Prakash Desai, who chairs the 8th Central Pay Commission.","alt":"Justice Ranjana Prakash Desai (file photo)"}
-```
 
 ## Who is covered?
 

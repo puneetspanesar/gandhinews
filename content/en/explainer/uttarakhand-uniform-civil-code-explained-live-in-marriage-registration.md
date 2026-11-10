@@ -13,7 +13,7 @@ hero:
   need: "Uttarakhand Chief Minister Pushkar Singh Dhami, who brought the Uniform Civil Code into force"
   suggested_source: "Pushkar Singh Dhami"
   subjects: ["Pushkar Singh Dhami"]
-  alt: "Uttarakhand Chief Minister Pushkar Singh Dhami (file photo)"
+  alt: "President Droupadi Murmu addresses the Uttarakhand Legislative Assembly in Dehradun, November 3, 2025 (file photo)"
   overlay:
     value: "One civil law for all, except tribes"
 infographic:
@@ -123,10 +123,6 @@ Live-in registration drew far fewer people. **Only 162 applications** were filed
 ## What changed in 2026?
 
 **Procedures, appeals and penalties.** On the code's first anniversary, the state brought in the Uniform Civil Code (Amendment) Ordinance, 2026, with the Governor's approval. It made procedural and administrative changes, strengthened registrars' powers and the appeals process, and aligned the penalties with the Bharatiya Nyaya Sanhita and the other new criminal codes. Marriage certificates are now issued in an average of five days.
-
-```photo
-{"n":1,"subject":"Uttarakhand Secretariat Dehradun","caption":"The Uttarakhand Secretariat in Dehradun, from where the state runs the code's online registration system.","alt":"Uttarakhand Secretariat building in Dehradun (file photo)"}
-```
 
 ## Why does it matter for the 2027 election?
 

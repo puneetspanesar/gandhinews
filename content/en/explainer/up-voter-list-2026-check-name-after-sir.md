@@ -13,7 +13,7 @@ hero:
   need: "Voters with their voter ID cards in queue at a polling station in Uttar Pradesh (file photo)"
   suggested_source: "Voters queue polling station Lucknow"
   subjects: ["Voters queue polling station Uttar Pradesh"]
-  alt: "Voters wait in a queue at a polling station in Uttar Pradesh (file photo)"
+  alt: "Crowds at the results board outside Nirvachan Sadan, the Election Commission's headquarters, in 2009 (file photo)"
   overlay:
     value: "13.39 crore voters after the SIR"
 infographic:
@@ -119,10 +119,6 @@ You can also search through the Commission's Voter Helpline app, or call the vot
 The formal appeal window against decisions taken during the revision has passed: a first appeal had to be filed with the district magistrate within 15 days of the final roll, and a second appeal with the Chief Electoral Officer within 30 days after that. A fresh Form 6 is now the way back onto the roll.
 
 In early November, the Election Commission told Uttar Pradesh officials to **re-examine rejected Form 6 applications** so that eligible people are not left out, to run enrolment drives in Classes 11 and 12 and in colleges, and to recheck all new entries made since the revision ended.
-
-```photo
-{"n":1,"subject":"Nirvachan Sadan","caption":"Nirvachan Sadan in New Delhi, the Election Commission's headquarters, which ran the Special Intensive Revision.","alt":"Nirvachan Sadan, headquarters of the Election Commission of India (file photo)"}
-```
 
 ## Which districts lost the most names?
 

@@ -13,7 +13,7 @@ hero:
   need: "Manipur Chief Minister Y. Khemchand Singh, who took office in February 2026"
   suggested_source: "Yumnam Khemchand Singh"
   subjects: ["Yumnam Khemchand Singh"]
-  alt: "Manipur Chief Minister Y. Khemchand Singh (file photo)"
+  alt: "Gandhi News graphic: Manipur votes after three years of conflict"
   overlay:
     value: "First vote since the violence"
 infographic:
@@ -105,10 +105,6 @@ At a meeting in Guwahati on January 13, 2026, Kuki-Zo MLAs, the Kuki-Zo Council 
 >
 > Source: Y. Khemchand Singh, Chief Minister of Manipur, September 2, 2026
 
-```photo
-{"n":1,"subject":"Manipur Legislative Assembly Imphal","caption":"The Manipur Legislative Assembly in Imphal, where two Kuki-Zo MLAs returned in person in September 2026 for the first time since the violence.","alt":"Manipur Legislative Assembly building in Imphal (file photo)"}
-```
-
 ## How will people in relief camps vote?
 
 **Probably at special polling stations, as in 2024.** For the 2024 Lok Sabha election, the state's Chief Electoral Officer identified more than 24,500 displaced people as eligible voters and set up **94 special polling stations** for them, out of 2,955 polling stations in the state, about half of which were rated sensitive, vulnerable or critical. Opposition leaders say about 24,000 people are still in relief camps. The arrangements for 2027 have not yet been announced.
@@ -124,10 +120,6 @@ At a meeting in Guwahati on January 13, 2026, Kuki-Zo MLAs, the Kuki-Zo Council 
 ## What are the parties saying?
 
 **The BJP is campaigning on peace and development; the opposition on accountability.** Khemchand Singh has said peace is the only way for Manipur to share in India's growth. The Congress says the state is still burning: Congress MP and Assam Congress president Gaurav Gogoi has asked why the report of the judicial commission of inquiry into the violence has been delayed, and Congress general secretary K.C. Venugopal has said the party expects to win a majority in Manipur.
-
-```photo
-{"n":2,"subject":"Gaurav Gogoi","caption":"Congress MP Gaurav Gogoi, who has questioned the delay in the judicial inquiry into the Manipur violence.","alt":"Congress MP Gaurav Gogoi (file photo)"}
-```
 
 ## What will decide the result?
 

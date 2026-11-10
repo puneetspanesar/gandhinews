@@ -13,7 +13,7 @@ hero:
   need: "Akali Dal president Sukhbir Singh Badal and Union Home Minister Amit Shah, the two sides of the alliance talks"
   suggested_source: "Sukhbir Singh Badal"
   subjects: ["Sukhbir Singh Badal", "Amit Shah"]
-  alt: "Shiromani Akali Dal president Sukhbir Singh Badal and Union Home Minister Amit Shah (file photos)"
+  alt: "Akali Dal president Sukhbir Singh Badal addressing a public meeting in Lambi (file photo)"
   overlay:
     value: "31.97% together in 2024"
 infographic:

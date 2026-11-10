@@ -14,7 +14,7 @@ hero:
   need: "दिवाली का उत्सव, साल की सबसे बड़ी त्योहारी छुट्टी, जो शुक्रवार, 29 अक्टूबर 2027 को है"
   suggested_source: "Diwali diyas lamps India"
   subjects: ["Diwali diyas"]
-  alt: "दिवाली पर जलाए गए दीये (फ़ाइल फ़ोटो)"
+  alt: "दिवाली पर जलते दीयों की कतार (फ़ाइल फ़ोटो)"
   overlay:
     value: "17 छुट्टियां, 5 वीकेंड पर"
 infographic:

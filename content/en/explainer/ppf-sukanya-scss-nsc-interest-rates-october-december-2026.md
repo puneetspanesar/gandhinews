@@ -13,7 +13,7 @@ hero:
   need: "A post office counter in India, where small savings schemes are opened"
   suggested_source: "India Post office counter"
   subjects: ["India Post office"]
-  alt: "A post office in India (file photo)"
+  alt: "A man at an India Post office counter (file photo)"
   overlay:
     value: "PPF 7.1%, Sukanya 8.2%"
 infographic:
@@ -75,7 +75,7 @@ verification:
 The Senior Citizens' Savings Scheme pays interest every quarter and the Monthly Income Scheme every month, which makes them popular with retired people who need a regular income. NSC compounds its interest every year and pays it all at maturity. Kisan Vikas Patra simply doubles your money: at 7.5%, a deposit doubles in **115 months, or nine years and seven months**.
 
 ```photo
-{"n":1,"subject":"Dak Bhawan New Delhi","caption":"Dak Bhawan in New Delhi, headquarters of India Post, which runs the small savings schemes through its post offices.","alt":"Dak Bhawan, India Post headquarters, New Delhi (file photo)"}
+{"n": 1, "subject": "Dak Bhawan New Delhi", "caption": "The National Philatelic Museum at Dak Bhawan in New Delhi, headquarters of India Post, which runs the small savings schemes through its post offices.", "alt": "The National Philatelic Museum at Dak Bhawan, New Delhi (file photo)"}
 ```
 
 ## How are these schemes taxed?

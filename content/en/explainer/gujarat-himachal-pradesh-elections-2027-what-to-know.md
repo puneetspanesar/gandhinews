@@ -115,7 +115,7 @@ The result kept a pattern alive. **Himachal has not re-elected a sitting governm
 The state's Congress now runs a "Mission Repeat" campaign under its new state chief Vinay Kumar and the AICC in-charge Rajani Patil. Its critics point to unmet poll promises and the handling of natural disasters; the BJP has recently won three of four municipal corporations in civic polls.
 
 ```photo
-{"n":1,"subject":"Himachal Pradesh Vidhan Sabha Shimla","caption":"The Himachal Pradesh Vidhan Sabha in Shimla, where the Congress holds 40 of 68 seats.","alt":"Himachal Pradesh Vidhan Sabha building in Shimla (file photo)"}
+{"n": 1, "subject": "Himachal Pradesh Vidhan Sabha Shimla", "caption": "President Pranab Mukherjee addressing the Himachal Pradesh Vidhan Sabha in Shimla in 2013. The Congress now holds 40 of its 68 seats.", "alt": "President Pranab Mukherjee addresses the Himachal Pradesh Vidhan Sabha in Shimla, 2013 (file photo)"}
 ```
 
 ## What is at stake in Gujarat?

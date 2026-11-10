@@ -13,7 +13,7 @@ hero:
   need: "Diwali celebrations, the year's biggest festival holiday, falling on Friday, October 29, 2027"
   suggested_source: "Diwali diyas lamps India"
   subjects: ["Diwali diyas"]
-  alt: "Diyas lit for Diwali (file photo)"
+  alt: "A row of lit diyas for Diwali (file photo)"
   overlay:
     value: "17 holidays, 5 on weekends"
 infographic:

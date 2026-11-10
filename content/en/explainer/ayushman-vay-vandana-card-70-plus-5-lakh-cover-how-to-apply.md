@@ -13,7 +13,7 @@ hero:
   need: "Nirman Bhawan in New Delhi, home of the Union Health Ministry, which runs the scheme through the National Health Authority"
   suggested_source: "Nirman Bhawan New Delhi"
   subjects: ["Nirman Bhawan New Delhi"]
-  alt: "Nirman Bhawan, home of the Union Health Ministry, New Delhi (file photo)"
+  alt: "All India Institute of Medical Sciences, New Delhi (file photo)"
   overlay:
     value: "₹5 lakh cover for all over 70"
 infographic:
@@ -77,10 +77,6 @@ If your family is already covered under PM-JAY, members aged 70 and above get an
 ## How does the cashless treatment work?
 
 **Show the card at an empanelled hospital and the hospital deals with the payment.** At a hospital that is part of PM-JAY, an Ayushman Mitra at the help desk checks the patient's identity and eligibility. The hospital seeks pre-authorisation for the treatment and then treats the patient **without any payment at the counter**, settling the bill later with the state health agency or insurer. More than 33,000 hospitals were empanelled under PM-JAY by the end of 2025, though coverage is thin in many hill and tribal districts.
-
-```photo
-{"n":1,"subject":"All India Institute of Medical Sciences New Delhi","caption":"AIIMS New Delhi: government and empanelled private hospitals provide cashless treatment under PM-JAY.","alt":"All India Institute of Medical Sciences, New Delhi (file photo)"}
-```
 
 ## What has the scheme paid for so far?
 

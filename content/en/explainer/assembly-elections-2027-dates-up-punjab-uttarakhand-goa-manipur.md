@@ -13,7 +13,7 @@ hero:
   need: "Voters queuing at a polling station in Uttar Pradesh or Punjab (file photo)"
   suggested_source: "Voters queue polling station Uttar Pradesh"
   subjects: ["Voters queue polling station Uttar Pradesh"]
-  alt: "Voters queue to cast their votes at a polling station (file photo)"
+  alt: "Voters queue at a polling station in Malihabad, Lucknow (file photo)"
   overlay:
     value: "Five states, 690 seats"
 infographic:
@@ -133,7 +133,7 @@ The law gives the Commission some flexibility. Under the Representation of the P
 In Uttarakhand, Pushkar Singh Dhami leads a BJP government, and Pramod Sawant leads Goa's. Manipur's story is different. Its BJP government under N. Biren Singh resigned on February 9, 2025, amid ethnic violence between the Meitei and Kuki communities that has killed at least 260 people since May 2023. **President's rule was imposed on February 13, 2025**, and revoked on February 4, 2026, when **Y. Khemchand Singh** was sworn in as Chief Minister of a BJP-led NDA government.
 
 ```photo
-{"n":1,"subject":"Nirvachan Sadan","caption":"Nirvachan Sadan in New Delhi, the Election Commission's headquarters, where the 2027 schedule will be announced.","alt":"Nirvachan Sadan, the Election Commission of India's headquarters in New Delhi (file photo)"}
+{"n": 1, "subject": "Nirvachan Sadan", "caption": "A results display board outside Nirvachan Sadan, the Election Commission's headquarters in New Delhi, in 2009. The Commission will announce the 2027 schedule.", "alt": "Results display board outside Nirvachan Sadan, the Election Commission's headquarters, in 2009 (file photo)"}
 ```
 
 ## How did these states vote in 2022?

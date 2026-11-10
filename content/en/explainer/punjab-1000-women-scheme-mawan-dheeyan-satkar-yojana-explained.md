@@ -118,10 +118,6 @@ About two lakh volunteers called Mahila Satkar Sakhis help women in every villag
 
 **You do not lose money either way.** Because there is no deadline, a woman who registers late is paid from July 2026, the month payments began, with the earlier months as arrears. A Scheduled Caste woman who does not yet have her caste certificate can register and receive ₹1,000 a month; once she submits the certificate, the extra ₹500 a month is paid back to July.
 
-```photo
-{"n":1,"subject":"Baljit Kaur","caption":"Punjab's Social Security, Women and Child Development Minister Baljit Kaur, whose department runs the scheme.","alt":"Punjab minister Baljit Kaur (file photo)"}
-```
-
 ## How much has been paid so far?
 
 **About ₹3,722 crore by early October.** The first payment, made on July 1, covered July, August and September in one go: ₹3,000 for most women and ₹4,500 for Scheduled Caste women. By July 12 the state had transferred ₹1,147 crore to nearly 33 lakh women who had registered by June 25.

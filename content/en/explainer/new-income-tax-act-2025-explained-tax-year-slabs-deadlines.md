@@ -106,7 +106,7 @@ The window to **file a revised return has grown from 9 months to 12**. A revisio
 On the other side, the Securities Transaction Tax went up on certain derivative trades, income from share buybacks is taxed as capital gains, and the tax benefits on Sovereign Gold Bonds apply only to bonds bought at the original issue price.
 
 ```photo
-{"n":1,"subject":"Aayakar Bhawan","caption":"Aayakar Bhawan, an Income Tax Department office: returns for tax year 2026-27 are the first under the new Act.","alt":"Aayakar Bhawan, Income Tax Department office (file photo)"}
+{"n": 1, "subject": "Aayakar Bhawan", "caption": "Aayakar Bhawan, an Income Tax Department office in Kolkata. Returns for tax year 2026-27 are the first under the new Act.", "alt": "Aayakar Bhawan, an Income Tax Department office in Kolkata (file photo)"}
 ```
 
 ## What should taxpayers do now?

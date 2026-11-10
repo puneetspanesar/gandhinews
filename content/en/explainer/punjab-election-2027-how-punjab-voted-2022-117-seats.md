@@ -119,10 +119,6 @@ In 2022 AAP won **66 of Malwa's 69 seats**, which by itself was more than a majo
 {"title":"Punjab's three regions in 2022","columns":["Seats","AAP won","Congress won","Others"],"rows":[{"icon":"map-pin","label":"Malwa","cells":["69","66","2","1"]},{"icon":"map-pin","label":"Majha","cells":["25","16","7","2"]},{"icon":"map-pin","label":"Doaba","cells":["23","10","9","4"]}]}
 ```
 
-```photo
-{"n":1,"subject":"Punjab Vidhan Sabha","caption":"The Punjab Vidhan Sabha in Chandigarh, where 59 of 117 MLAs make a majority.","alt":"Punjab Vidhan Sabha building in Chandigarh (file photo)"}
-```
-
 ## What changed in the 2024 Lok Sabha election?
 
 **AAP's lead disappeared.** In the 2024 general election the Congress took 26.31% of Punjab's vote and AAP 26.03%, a gap of less than a third of a percentage point. The BJP polled 18.56%, and the Akali Dal 13.41%.
@@ -150,7 +146,7 @@ It has also been hit by **resignations and arrests**. Health Minister Vijay Sing
 The Akali Dal is led by Sukhbir Singh Badal, who announced in December 2025 that he would contest from Gidderbaha, a seat long associated with his family. The BJP has said publicly that it is preparing to contest all 117 seats, while talks with the Akali Dal on a seat-sharing deal have been reported to be in their final stages.
 
 ```photo
-{"n":2,"subject":"Sukhbir Singh Badal","caption":"Akali Dal president Sukhbir Singh Badal, who will contest from Gidderbaha and has kept his party's alliance options open.","alt":"Shiromani Akali Dal president Sukhbir Singh Badal (file photo)"}
+{"n": 2, "subject": "Sukhbir Singh Badal", "caption": "Akali Dal president Sukhbir Singh Badal visiting storm-hit villages. He will contest from Gidderbaha and has kept his party's alliance options open.", "alt": "Sukhbir Singh Badal visiting storm-hit villages in Punjab (file photo)"}
 ```
 
 ## What issues will decide the vote?
