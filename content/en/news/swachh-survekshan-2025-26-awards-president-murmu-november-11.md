@@ -69,10 +69,6 @@ Each city was marked on **43 indicators across 10 areas**. These include waste s
 
 More than **3,000 trained assessors** checked conditions on the ground, with real-time GPS monitoring of their visits. The ministry says the new edition gives more weight to citizen feedback and adds indicators on preventing open defecation and open urination, keeping tourist and heritage sites clean, and changing behaviour in schools.
 
-```photo
-{"n":1,"subject":"Vigyan Bhawan","caption":"Vigyan Bhawan in New Delhi, where the awards will be presented on November 11.","alt":"Vigyan Bhawan, New Delhi"}
-```
-
 ## What the mentoring scheme shows
 
 The release also reports on Swachh Shehar Jodi, a programme that **paired 70 mentor cities with 191 mentee cities** across 33 states and Union Territories. Manohar Lal launched it on September 27, 2025. Top performers of the pairing will be honoured on Wednesday.

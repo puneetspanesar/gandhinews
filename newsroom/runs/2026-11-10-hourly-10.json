@@ -1,0 +1,32 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-10T10:12:24+05:30",
+ "end": "2026-11-10T10:47:11+05:30",
+ "summary": "Shah Ahmedabad lead, Swachh Survekshan, Hamilton toss; Egypt held; holiday markets",
+ "new": [
+  "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+  "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+  "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+ ],
+ "held": [
+  "egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system",
+   "kind": "facts",
+   "why": "Several figures are in none of the three listed sources (all three were checked): 72 ambulances; the Al-Wasta, Al-Ayyat and Atfih hospitals; the 2002 fire toll (more than 360, some figures above 370); Sohag 2021 (at least 20 dead, 199 injured, eight staff detained); Ramses 2019 (at least 22 dead); and 'severe rail accidents rose from 289 in 2020 to 752 in 2024', which is credited only to 'official statistics cited in the coverage'. The train numbers 134 and 2010 and the Tahya Misr service are also not in the sources fetched. The prosecution, toll (7 dead, 125 injured, 132/71/43/11) and parliament facts do match.",
+   "fix": "Add the source pages these figures came from to sources, or cut them. The 289/752 statistic in particular needs a named, linked source or must go. Make the same change in the Hindi twin."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+   "why": "The story says 'the ministry's account and later reports give a larger count of over 9,000 houses', but the Home Ministry release (the Kashmir Despatch copy) has no 9,000 figure. Only the ANI-based report has it. That report also says the computerised draw was for 1,232 permanent houses and 16 shops under Ramapir No Tekra slum rehabilitation, and the story leaves this out. So the headline-level claim 'drew lots for more than 9,000 homes and 16 shops' mixes two numbers. The release also names the plant 'Jalasapur', not Jaspur.",
+   "done": "9,000 credited to event reports (release gives no count); 1,232 flats and 16 shops for Ramapir No Tekra added to standfirst, key point and body in both languages. Plant name kept as Jaspur, the established name of the AMC plant (release spelling Jalasapur treated as a variant)."
+  }
+ ],
+ "breaches": [],
+ "lead": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+}

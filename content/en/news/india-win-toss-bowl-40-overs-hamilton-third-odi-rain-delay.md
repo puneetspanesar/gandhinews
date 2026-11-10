@@ -73,10 +73,6 @@ His counterpart Mitchell Santner, who has lost most of the tosses on this tour, 
 
 The pitch is the main question. Ground staff had only about half a day to prepare it before the rain, and the covers have been on for long spells since. India's batting coach Sitanshu Kotak was reported earlier in the tour to have spoken of wickets with a lot of grass, and both earlier games were low-scoring: New Zealand were bowled out for 134 in Wellington.
 
-```photo
-{"n":1,"subject":"Seddon Park","caption":"Seddon Park in Hamilton, where the third ODI is being played in damp conditions.","alt":"Seddon Park cricket ground in Hamilton"}
-```
-
 ## The shortened match
 
 The revised playing conditions allow each bowler a **maximum of 8 overs**. The first powerplay covers overs 1 to 8, the second overs 9 to 32 and the third overs 33 to 40. Gill chose to field under overcast skies, with a pitch that had spent long spells under covers.

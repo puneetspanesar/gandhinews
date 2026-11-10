@@ -44658,7 +44658,20 @@
   "licence": "GODL-India",
   "alt": "Droupadi Murmu (file photo)",
   "alt_hi": "द्रौपदी मुर्मू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg",
+  "treated": {
+   "src": "/photos/t-swachh-survekshan-2025-26-awards-president-murmu-november-11-1280.jpg",
+   "src800": "/photos/t-swachh-survekshan-2025-26-awards-president-murmu-november-11-640.jpg",
+   "cutout": true,
+   "with": [
+    "race-course-mosque-deserves-due-process-not-six-days",
+    "railtel-q2-profit-falls-10-per-cent-rs-1-dividend",
+    "sports-ministry-nsf-assistance-scheme-7386-crore"
+   ],
+   "kind": "portrait",
+   "subj": "44eefefefe",
+   "credit": "Photos: President's Secretariat / Wikimedia Commons, GODL-India; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; Likhith N.P / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro": {
   "id": "o-amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
@@ -44671,6 +44684,118 @@
   "licence": "PIB (free reproduction with credit)",
   "alt": "Union Home Minister Amit Shah greets residents at the inauguration of development works in Ahmedabad, Gujarat",
   "alt_hi": "केंद्रीय गृह मंत्री अमित शाह अहमदाबाद, गुजरात में विकास कार्यों के उद्घाटन के मौके पर लोगों का अभिवादन करते हुए",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334428"
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334428",
+  "treated": {
+   "src": "/photos/t-amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro-1280.jpg",
+   "src800": "/photos/t-amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro-640.jpg",
+   "cutout": false,
+   "with": [
+    "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
+    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+    "rdi-fund-picks-19-fund-managers-deeptech",
+    "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses"
+   ],
+   "kind": "scenes",
+   "credit": "Photos: Bernard Gagnon / Wikimedia Commons; Atul Tegar / Wikimedia Commons; A.Murali / Wikimedia Commons; Vijay Parmar / Wikimedia Commons"
+  }
+ },
+ "egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system": {
+  "id": "i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system",
+  "src": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-en-3x2-1280.jpg",
+  "src800": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Al-Ayyat collision: 7 dead, probe widens",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अल-अय्यात टक्कर: 7 की मौत, जाँच का दायरा बढ़ा",
+  "page": null,
+  "ihash": "c71158a3a5a7",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-hi-3x2-1280.jpg",
+    "src800": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-en-t-1280.jpg",
+    "src800": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-hi-t-1280.jpg",
+    "src800": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-en-1280.jpg",
+    "src800": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-hi-1280.jpg",
+    "src800": "/photos/i-egypt-ayyat-train-collision-prosecution-detains-railway-officials-disabled-control-system-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Al-Ayyat wreckage or an earlier Egyptian train crash; library, quick_photo, finder h1010 (only parked ENR trains, rejected by the editor)"
+ },
+ "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay": {
+  "id": "i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+  "src": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India bowl first in a shortened ODI",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: छोटे हुए मैच में भारत पहले गेंदबाज़ी करेगा",
+  "page": null,
+  "ihash": "469926f875ea",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-en-t-1280.jpg",
+    "src800": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-hi-t-1280.jpg",
+    "src800": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-en-1280.jpg",
+    "src800": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-hi-1280.jpg",
+    "src800": "/photos/i-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Gill, Santner or Seddon Park unused in 7 days; library, quick_photo, finder h1010",
+  "treated": {
+   "src": "/photos/t-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-1280.jpg",
+   "src800": "/photos/t-india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay-640.jpg",
+   "cutout": false,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "renshaw-puts-australia-on-top-in-durban-test",
+    "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview",
+    "east-bengal-thrash-churchill-brothers-isl-opener-bipin-singh"
+   ],
+   "kind": "scenes",
+   "credit": "Photos: Phillip Capper / Wikimedia Commons; Marc Forrest / Wikimedia Commons; Dibyajeet Dash / Wikimedia Commons; Arnabsaha2212 / Wikimedia Commons"
+  }
  }
 }

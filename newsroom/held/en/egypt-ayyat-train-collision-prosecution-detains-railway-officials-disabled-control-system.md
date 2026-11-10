@@ -69,10 +69,6 @@ No charges have been announced, and the length of the detentions has not been st
 
 The Health Ministry's latest count is **7 dead and 125 injured**, with 132 casualties taken to hospital. Of those, 71 had been discharged and 43 were still being treated by Monday, and 11 had been transferred to hospitals in Beni Suef. Seventy-two ambulances were sent to the scene and patients were spread across the Al-Wasta, Al-Ayyat and Atfih hospitals, where doctors treated fractures and head injuries. A train driver was among those killed. The Red Crescent sent volunteers with relief supplies and counselling. Early reports had put the injured at 112 and then 120, and the figure moved as hospitals compiled their lists.
 
-```photo
-{"n":1,"subject":"Kamel al-Wazir","caption":"Transport Minister Kamel al-Wazir, who has been invited to answer questions in parliament on Tuesday.","alt":"Kamel al-Wazir, Egypt's transport minister"}
-```
-
 ## Sisi orders accountability
 
 President Abdel Fattah al-Sisi said on Sunday that he was following the accident "with great concern". He ordered an urgent investigation to "hold accountable anyone found to have been negligent". The Egyptian Railway Authority sent emergency crews and heavy cranes to clear the wreckage and restore services between Giza and Upper Egypt, which had been halted. Saudi Arabia's foreign ministry was among those expressing solidarity with Egypt.

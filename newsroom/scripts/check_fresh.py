@@ -152,6 +152,7 @@ soft = list({(n, i): (n, i, x) for n, i, x in soft}.values())
 mk_open = now.weekday() < 5 and (9, 15) <= (now.hour, now.minute) <= (15, 30)
 try:
     _mk = json.load(open('content/data/markets.json'))
+    if str(now.date()) in set(_mk.get('holidays', [])): mk_open = False   # exchange holiday (same list audit.py reads)
     _asof = tz(dt.datetime.fromisoformat(str(_mk.get('as_of'))))
     if mk_open and (now - _asof).total_seconds() > 2 * 3600:
         flag('markets band figures are more than 2 hours old while the market is open', _mk.get('as_of'), (now - _asof).total_seconds() / 3600)

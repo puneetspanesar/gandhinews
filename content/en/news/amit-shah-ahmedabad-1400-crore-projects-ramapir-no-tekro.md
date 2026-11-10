@@ -6,12 +6,12 @@ section: states
 format_label: "States / Gujarat"
 topics: []
 title: "Shah opens and launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw"
-standfirst: "The Home Minister drew lots for more than 9,000 homes and 16 shops, opened a water treatment plant and urged Gujarat to be drug-free by 2028 at a Gandhinagar constituency event on Monday."
+standfirst: "The Home Minister drew lots for more than 9,000 homes, among them 1,232 flats and 16 shops for Ramapir No Tekra residents, opened a water treatment plant and urged Gujarat to be drug-free by 2028 at a Gandhinagar constituency event on Monday."
 published: 2026-11-10T10:19:16+05:30
 location: Ahmedabad
 keyPoints:
   - "Home Minister Amit Shah inaugurated and laid foundations for **projects worth about ₹1,400 crore** in Ahmedabad on Monday, November 9."
-  - "A computerised draw allotted **more than 9,000 houses and 16 shops**, including flats for Ramapir No Tekra slum residents."
+  - "A computerised draw allotted **more than 9,000 houses**, event reports say, including 1,232 flats and 16 shops for Ramapir No Tekra slum residents."
   - "Shah said a **drug control room and 1033 helpline start on December 1**, with action promised within three hours of a tip."
 hero:
   need: "Union Home Minister Amit Shah and Gujarat Chief Minister Bhupendra Patel, two-panel split"
@@ -65,7 +65,7 @@ Of the total, works worth around **₹1,024 crore belong to the Ahmedabad Munici
 
 ## Homes, water and a flyover
 
-The draw covered **more than 9,000 houses and 16 shops**, including permanent flats built under the Pradhan Mantri Awas Yojana for residents of the Ramapir No Tekra slum in Vadaj. Shah handed house keys to beneficiaries. Before the event, Barot said the AMC had built about 7,800 economically weaker section units at 11 locations and had received more than 97,000 applications. The ministry's account and later reports give a larger count of over 9,000 houses for the draw.
+The draw covered **more than 9,000 houses**, according to reports from the event, including 1,232 permanent flats and 16 shops built under the Pradhan Mantri Awas Yojana for residents of the Ramapir No Tekra slum in Vadaj. Shah handed house keys to beneficiaries. Before the event, Barot said the AMC had built about 7,800 economically weaker section units at 11 locations and had received more than 97,000 applications. The Home Ministry release gives no house count; the figure of over 9,000 comes from reports of the event.
 
 Shah said that once the Ramapir No Tekra project is fully implemented, **more than 55,000 people will have social security, recreation, education and health facilities** in a single complex. Two primary schools were opened the same day. He recalled that Prime Minister Narendra Modi launched a scheme in 2007 to rehouse slum residents with permanent homes, and said nearly one lakh slum dwellers in Ahmedabad are covered.
 
@@ -73,21 +73,13 @@ On water, he inaugurated a **200 million litres a day treatment plant at Jaspur*
 
 On roads, the ISKCON-Sanand elevated corridor on SG Highway, a six-lane project estimated at ₹464 crore, was part of the programme. Shah said the four-kilometre ISKCON overbridge work began on Monday and, when finished in three years, would let people travel from Sarkhej to Gandhinagar in far less than the two and a half hours it now takes. The chief minister described the corridor as newly completed and said it would ease traffic for lakhs of daily commuters. The two accounts differ on whether the structure is open or still to be built.
 
-```photo
-{"n":1,"subject":"Sabarmati Riverfront","caption":"The Sabarmati Riverfront, where a ₹62.31 crore tropical forest was among the projects whose foundation stone was laid.","alt":"Sabarmati Riverfront in Ahmedabad"}
-```
-
 Foundation stones were also laid for a **₹62.31 crore tropical forest on the Sabarmati Riverfront**, senior citizens' parks, yoga corners, drainage networks, bus depots and terminals, rising mains and stormwater pumping stations. A pump house for the Bopal-Ghuma area is meant to end waterlogging there. Shah said he had promised residents of the area a system before 2029.
 
 ## Drug-free Gujarat
 
-Shah used the platform to repeat the target he set at a Gujarat security review in Ahmedabad on November 7 (see our earlier report on the [drug-free India goal](/en/news/amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029)). He said the Modi government has set **December 31, 2029 as the deadline for a drug-free India** and asked Gujaratis to make the state drug-free before December 31, 2028.
+Shah used the platform to repeat the target he set at a Gujarat security review in Ahmedabad on November 7 (see our earlier report on the [drug-free India goal](/en/news/amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029)). He said the Modi government has set **December 31, 2029, as the deadline for a drug-free India** and asked Gujaratis to make the state drug-free before December 31, 2028.
 
 A control room and the toll-free **1033 helpline begin on December 1**, he said, with a mechanism to act within three hours of any tip about drugs. Callers' identities will be kept confidential. De-addiction centres are being set up, and he asked teachers to meet parents when a child's behaviour changes. He also administered a pledge to residents to help keep the area free of drugs.
-
-```photo
-{"n":2,"subject":"SG Highway Ahmedabad","caption":"SG Highway in western Ahmedabad, which falls in Shah's Gandhinagar constituency and gets the elevated corridor.","alt":"SG Highway in Ahmedabad"}
-```
 
 ## Politics of the day
 
