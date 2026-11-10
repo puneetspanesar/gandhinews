@@ -2,14 +2,14 @@
 two collages, so the people we cover most need many different photos).
 
 Usage (repo root): python3 newsroom/scripts/more_portraits.py <person-key> [<how many to add, default 8>] ...
-Takes only CC BY, CC BY-SA, CC0, public-domain and GODL-India files at least 900px wide whose title names the person and
+Searches "(cropped)" files, which on Commons are usually one person cut from a larger photo. Takes only CC BY, CC BY-SA, CC0, public-domain and GODL-India files at least 900px wide whose title names the person and
 nobody else (no "with", "and", "meets"). treat_photo.py still rejects any that will not cut out as one clean figure.
 """
 import json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 R = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + '/'
 UA = {'User-Agent': 'GandhiNewsDesk/1.0 (https://gandhinews.com)'}
 OK_LIC = re.compile(r'^(CC BY(-SA)? [0-9.]+|CC0|Public domain|GODL-India)', re.I)
-BAD_T = re.compile(r'\b(with|and|meets?|meeting|greets?|receives?|calls on|delegation|bilateral|family|group|signing|'
+BAD_T = re.compile(r'\b(with|and|meets?|meeting|greets?|receives?|calls on|calling on|delegation|interacting|inaugurat|launch|flag|felicitat|distribut|presents?|hands? over|bilateral|family|group|signing|'
                    r'cabinet|summit|statue|poster|cutout|hoarding|wax|mural|painting|cartoon|logo|map|signature)\b|&|\bvs\b', re.I)
 
 
@@ -35,12 +35,12 @@ def main():
         added = 0; cont = {}
         others = [x['en'] for k, x in P.items() if k != pk]
         while added < want:
-            d = api(dict(action='query', generator='search', gsrsearch=f'intitle:"{name}" filetype:bitmap', gsrnamespace=6,
+            d = api(dict(action='query', generator='search', gsrsearch=f'intitle:"{name}" intitle:cropped filetype:bitmap', gsrnamespace=6,
                          gsrlimit=50, prop='imageinfo', iiprop='url|size|extmetadata', **cont))
             for p in sorted((d.get('query') or {}).get('pages', {}).values(), key=lambda p: p.get('index', 0)):
                 t = p['title']; ii = p['imageinfo'][0]; em = ii.get('extmetadata', {})
                 lic = re.sub('<[^>]+>', '', (em.get('LicenseShortName') or {}).get('value', '')).strip()
-                if t in have or not OK_LIC.match(lic) or ii['width'] < 900 or BAD_T.search(t) or any(o in t for o in others): continue
+                if t in have or not OK_LIC.match(lic) or ii['width'] < 500 or ii['height'] < 600 or BAD_T.search(t) or any(o in t for o in others): continue
                 if not t.lower().endswith(('.jpg', '.jpeg')): continue
                 author = re.sub('<[^>]+>', '', (em.get('Artist') or {}).get('value', '')).strip()[:120] or 'Wikimedia Commons'
                 v.setdefault('photos', []).append({'url': ii['url'], 'page': ii.get('descriptionurl'), 'author': author, 'licence': lic,

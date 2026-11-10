@@ -310,13 +310,16 @@ def library_portrait(pk, i=0):
         m = re.match(r'https://upload\.wikimedia\.org/wikipedia/commons/(\w)/(\w\w)/([^/]+)$', u)
         if m and (ph.get('width') or 0) > 1280 and not u.lower().endswith(('.svg', '.tif', '.tiff')):
             u = f'https://upload.wikimedia.org/wikipedia/commons/thumb/{m[1]}/{m[2]}/{m[3]}/1280px-{m[3]}'
-        time.sleep(1.5)
-        try:
-            req = urllib.request.Request(u, headers={'User-Agent': 'GandhiNewsDesk/1.0 (https://gandhinews.com)'})
-            im = Image.open(io.BytesIO(urllib.request.urlopen(req, timeout=40).read())).convert('RGB')
-            im.thumbnail((1280, 1600)); im.save(path, quality=88)
-        except Exception as ex:
-            print(f'  library photo for {pk} not downloaded: {ex}'); return None
+        for wait in (1.5, 15, 45):
+            time.sleep(wait)
+            try:
+                req = urllib.request.Request(u, headers={'User-Agent': 'GandhiNewsDesk/1.0 (https://gandhinews.com)'})
+                im = Image.open(io.BytesIO(urllib.request.urlopen(req, timeout=40).read())).convert('RGB')
+                im.thumbnail((1280, 1600)); im.save(path, quality=88); break
+            except Exception as ex:
+                err = ex
+        else:
+            print(f'  library photo for {pk} not downloaded: {err}'); return None
     return path, f"{(ph.get('author') or 'Wikimedia Commons').strip()} / Wikimedia Commons, {ph.get('licence', '')}".strip(', ')
 
 
@@ -577,6 +580,7 @@ def treat(sid, M, scenes_only=False):
             if c and c not in credits: credits.append(c)
     e['treated'] = {'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'cutout': bool(ok), 'with': ([centre] if centre else []) + rel,
                     'kind': 'photo' if src_key == sid else 'portrait' if src_key else 'scenes',
+                    **({'subj': format(ahash(subj_path), 'x')} if subj_path else {}),
                     'credit': ('Photos: ' if len(credits) > 1 else 'Photo: ') + '; '.join(credits)}
     return pid, ok, rel
 
@@ -593,9 +597,12 @@ if __name__ == '__main__':
             sid = os.path.basename(f)[:-3]; e = M.get(sid)
             if not e or (e.get('treated') and os.path.exists('public' + e['treated']['src'])): continue
             m = re.search(r'^published: (\S+)', open(f).read(600), re.M)
-            if m and str(m.group(1)) >= cut: ids.append(sid)
+            if m and str(m.group(1)) >= cut: ids.append((str(m.group(1)), sid))
+        ids = [s for _, s in sorted(ids, reverse=True)]   # newest first: today's stories get the fresh portraits
     for x in M.values():
         for k in (x.get('treated') or {}).get('with', []): USED[k] = USED.get(k, 0) + 1
+        h = (x.get('treated') or {}).get('subj')
+        if h: SUBJ_USED[int(h, 16)] = SUBJ_USED.get(int(h, 16), 0) + 1   # pictures already fronting a collage
     for sid in ids:
         e = M.get(sid)
         if not e: print(f'{sid}: no photo entry, skipped'); continue
