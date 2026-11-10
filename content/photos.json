@@ -50323,12 +50323,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:All_India_Institute_of_Medical_Science_New_Delhi_during_COVID-19_pandemic_in_Delhi_IMG_20210316_092102.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_03.jpg/1600px-Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_03.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Reserve Bank of India tower in Mumbai (file photo)",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_03.jpg",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nagpur_Reserve_Bank.JPG/1600px-Nagpur_Reserve_Bank.JPG",
+  "credit": "Photo: Gppande / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Reserve Bank of India office in Nagpur (file photo)",
+  "alt_hi": "नागपुर में भारतीय रिज़र्व बैंक का दफ़्तर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG",
   "id": "r-rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
   "articleId": "rbi-liquidity-explained-variable-rate-repo-sdf-corridor"
  },
@@ -50363,12 +50363,12 @@
   "articleId": "sensex-nifty-close-november-9-highest-since-february-psu-banks"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1280px-Wall_Street_-_New_York_Stock_Exchange.jpg",
-  "credit": "Photo: Carlos Delgado / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "The New York Stock Exchange building on Wall Street (file photo)",
-  "alt_hi": "वॉल स्ट्रीट पर न्यूयॉर्क स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Wall_Street_-_New_York_Stock_Exchange.jpg",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: ajay_suresh / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The Nasdaq MarketSite in Times Square, New York (file photo)",
+  "alt_hi": "न्यूयॉर्क के टाइम्स स्क्वायर में नैस्डैक मार्केटसाइट (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg",
   "id": "r-wall-street-rally-s-and-p-7550-brent-below-93-november-9",
   "articleId": "wall-street-rally-s-and-p-7550-brent-below-93-november-9"
  },
@@ -50761,6 +50761,39 @@
   "alt": "Delhi Chief Minister Rekha Gupta in New Delhi, June 2025 (file photo)",
   "alt_hi": "दिल्ली की मुख्यमंत्री रेखा गुप्ता, नई दिल्ली, जून 2025 (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Delhi_CM_Rekha_Gupta_meets_PM_Modi.jpg"
+ },
+ {
+  "id": "o-hasina-passport-request-dhaka-refuses-extradition-india",
+  "articleId": "hasina-passport-request-dhaka-refuses-extradition-india",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sheikh_Hasina_Gopalganj_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: DelwarHossain / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Sheikh Hasina (file photo)",
+  "alt_hi": "शेख़ हसीना (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_Gopalganj_in_2023.jpg"
+ },
+ {
+  "id": "o-pmk-functionary-shot-dead-vellore-gudiyatham",
+  "articleId": "pmk-functionary-shot-dead-vellore-gudiyatham",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Anbumani_Ramadoss_at_A_Stroke_of_Disssonance_Short_Film_Launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Sriram Narasimhan, Silverscreen Media Inc. / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "PMK president Anbumani Ramadoss speaking at an event (file photo)",
+  "alt_hi": "पीएमके अध्यक्ष अंबुमणि रामदास एक कार्यक्रम में बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Anbumani_Ramadoss_at_A_Stroke_of_Disssonance_Short_Film_Launch.jpg"
+ },
+ {
+  "id": "x-sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+  "articleId": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+  "sourceUrl": "",
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Chief Justice of India Surya Kant and the Supreme Court of India (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  },
  {
   "id": "o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court",

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+    "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
     "overlay": {
       "kicker": {
-        "en": "World / Ukraine",
-        "hi": "दुनिया / यूक्रेन"
+        "en": "Policy / Supreme Court",
+        "hi": "नीति / सुप्रीम कोर्ट"
       },
       "value": {
-        "en": "Zelenskyy says India will mediate; Delhi silent",
-        "hi": "ज़ेलेंस्की: भारत खाद्य गलियारों पर मध्यस्थता को तैयार"
+        "en": "Digital arrest: banks, WhatsApp on notice",
+        "hi": "डिजिटल अरेस्ट: बैंक, वॉट्सऐप पर नोटिस"
       },
       "text": {
         "en": "",
@@ -17,33 +17,63 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "zelenskyy-india-mediate-black-sea-food-corridors-claim",
-      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-      "delhi-air-monitors-that-go-blank-on-the-worst-night",
-      "us-chip-export-controls-explained-nvidia-megaspeed-congress-bills"
+      "sc-fra-commercial-cultivation-megamalai-silk-cotton"
     ],
     "relatedBeside": [
-      "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-      "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+      "pmk-functionary-shot-dead-vellore-gudiyatham",
+      "hasina-passport-request-dhaka-refuses-extradition-india"
     ],
     "live": {
       "title": {
-        "en": "Ukraine",
-        "hi": "यूक्रेन"
+        "en": "Supreme Court",
+        "hi": "सुप्रीम कोर्ट"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
-          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
+          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
+          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
+        }
+      },
+      {
+        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
+        "lead": {
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
+        },
+        "text": {
+          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
+          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
+        }
+      },
+      {
+        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
+          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+        }
+      },
+      {
+        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "lead": {
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
+        },
+        "text": {
+          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
+          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
         }
       },
       {
@@ -80,17 +110,6 @@
         }
       },
       {
-        "link": "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "lead": {
-          "en": "Assam:",
-          "hi": "असम:"
-        },
-        "text": {
-          "en": "Assam evictions will go on and are not aimed at any religion, Himanta Sarma says",
-          "hi": "असम में बेदखली जारी रहेगी, किसी धर्म को निशाना नहीं: हिमंत सरमा"
-        }
-      },
-      {
         "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
         "lead": {
           "en": "West Bengal:",
@@ -99,28 +118,6 @@
         "text": {
           "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
           "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
-        }
-      },
-      {
-        "link": "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India can win the ODI series in Hamilton, but rain and a hurried pitch loom",
-          "hi": "हैमिल्टन में भारत सीरीज़ जीत सकता है, पर बारिश और जल्दबाजी में बनी पिच का साया"
-        }
-      },
-      {
-        "link": "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf",
-        "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
-        },
-        "text": {
-          "en": "Rahul Gandhi renews debate challenge to Modi after 'dimagi Naxals' remark in Bastar",
-          "hi": "बस्तर में 'दिमागी नक्सल' वाले बयान के बाद राहुल गांधी ने मोदी को फिर दी बहस की चुनौती"
         }
       }
     ]
@@ -188,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+      "id": "india-a-nz-a-lincoln-third-test-draw-series-level",
       "also": []
     },
     "list": [
+      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+      "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
       "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-      "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-      "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
+      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
     ],
     "also": [
-      "hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed",
-      "black-sea-food-corridors-explained-grain-deal-india-mediation"
+      "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+      "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
     ]
   },
   "startHere": [
-    "black-sea-food-corridors-explained-grain-deal-india-mediation",
-    "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
     "womens-reservation-33-per-cent-when-will-it-start-explained",
-    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
+    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+    "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply",
+    "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
   ],
   "trackers": [
     {
@@ -277,9 +274,9 @@
   },
   "factCheck": {
     "cards": [
-      "zelenskyy-india-mediate-black-sea-food-corridors-claim",
       "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
-      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim"
+      "kapil-mishra-diwali-pollution-1-33-percent-fall-aqi-1651-claim",
+      "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim"
     ]
   },
   "explained": [
@@ -360,11 +357,11 @@
     }
   ],
   "opinion": [
-    "delhi-air-monitors-that-go-blank-on-the-worst-night",
-    "megamalai-ruling-forest-rights-line-must-be-honest",
     "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
     "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
-    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration"
+    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration",
+    "novaya-gazeta-closure-starving-a-newspaper-is-still-censorship",
+    "diwali-night-fires-no-deaths-is-luck-not-a-fire-safety-policy"
   ],
   "sections": [
     {
@@ -400,20 +397,20 @@
     },
     {
       "section": "states",
-      "lead": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+      "lead": "pmk-functionary-shot-dead-vellore-gudiyatham",
       "list": [
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25"
+        "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
       ]
     },
     {
       "section": "policy",
-      "lead": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+      "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -428,11 +425,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+      "lead": "hasina-passport-request-dhaka-refuses-extradition-india",
       "list": [
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "novaya-gazeta-closes-moscow-office-november-9-uk-finland-statement",
-        "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
     },
     {
@@ -446,12 +443,12 @@
     },
     {
       "section": "sports",
-      "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+      "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
       "list": [
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha",
-        "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
       ]
     }
   ],
@@ -467,6 +464,18 @@
         "hi": "भारत ए बनाम न्यूज़ीलैंड ए, तीसरा अनौपचारिक टेस्ट, अंतिम दिन, लिंकन"
       },
       "link": "rain-washes-out-day-three-india-a-new-zealand-a-lincoln"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine reported to hold talks in Abu Dhabi on November 10 and 11",
+        "hi": "अमेरिका, रूस और यूक्रेन की अबू धाबी में 10 और 11 नवंबर को बातचीत की खबर"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -491,18 +500,6 @@
         "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
       },
       "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
-        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -634,18 +631,20 @@
       ]
     },
     {
-      "at": "2026-11-10T18:25:39+05:30",
+      "at": "2026-11-10T18:27:44+05:30",
       "ids": [
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "delhi-ncr-women-safety-centre-reply-must-be-a-model-not-a-draft",
+        "bail-granted-is-not-freedom-release-the-under-trials",
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
         "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
       ]
     }
   ],

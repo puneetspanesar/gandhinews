@@ -74,3 +74,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - National and sport-science desks wrote nothing: WebFetch refused on every primary site (PIB, NASA, RBI, SEBI).
 - Editor homepage FAIL not fixed (second check): lead should be Delhi air or the ODI result; Politics pair (Modi Bastar + Shah Naxalism) and Policy pair (two Rajnath Sherathang) side by side; four states stories in the top block; RBI liquidity explainer (blurred photo) still in Start Here; mobile bottom nav covers the headline list.
 - NEXT RUN, FIRST: India v NZ third ODI result (Hamilton); Delhi CPCB AQI latest bulletin; Turkey Aliaga blast toll as a new id.
+
+## November 10, 2026, 6:45 pm (from the 18:00 run)
+- Published 4: sc-digital-arrest-whatsapp-intermediaries-measures-november-23 (LEAD, CJI Surya Kant + Supreme Court two-panel cover; rests on three reports, the sci.gov.in order text not read), pmk-functionary-shot-dead-vellore-gudiyatham (Anbumani Ramadoss file photo), hasina-passport-request-dhaka-refuses-extradition-india (Hasina library photo), india-a-nz-a-lincoln-third-test-draw-series-level (infographic --nophoto; Jaiswal and Padikkal added to people.tsv).
+- Editor FAILs all fixed by the run (picture, Hindi age, Hasina standfirst attribution, Hindi cover date); second editor check skipped at the 45-minute deadline.
+- treat_photo.py built a collage centred on the Andhra High Court for the SC story: notreat set on its map entry. Tile choice for court stories needs a fix.
+- Markets holiday (Diwali Balipratipada); Nov 9 FII/DII flows added.
+- NEXT RUN, FIRST: ECI order extending poll-time restrictions to retired officials (eci.gov.in); Kharge "Vishwaguru" attack over Delhi air; President Murmu to IPS probationers on people-centric policing (PIB photo); drop the Nov 7 Diwali-eve items from the Politics band.
