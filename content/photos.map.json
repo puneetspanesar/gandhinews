@@ -45072,7 +45072,21 @@
     "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Y. Khemchand Singh; library, finder ex"
+  "nophoto": "no free photo of Y. Khemchand Singh; library, finder ex",
+  "treated": {
+   "src": "/photos/t-manipur-election-2027-60-seats-after-presidents-rule-1280.jpg",
+   "src800": "/photos/t-manipur-election-2027-60-seats-after-presidents-rule-640.jpg",
+   "cutout": false,
+   "with": [
+    "elections-2027",
+    "manipur-khemchand-peace-census-deferred-jan-sevak",
+    "womens-reservation-33-per-cent-when-will-it-start-explained",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1"
+   ],
+   "kind": "scenes",
+   "subj": "5f4f6f3f7f",
+   "credit": "Photos: Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Ramchandra9 / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi": {
   "id": "o-zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
@@ -45085,7 +45099,20 @@
   "licence": "CC0",
   "alt": "Volodymyr Zelenskyy (file photo)",
   "alt_hi": "वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi-1280.jpg",
+   "src800": "/photos/t-zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi-640.jpg",
+   "cutout": true,
+   "with": [
+    "romania-blames-russia-black-sea-merchant-ship-attacks",
+    "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+    "iom-warns-millions-ukrainians-displacement-winter"
+   ],
+   "kind": "photo",
+   "subj": "7fe0eeeee6c0c0c0",
+   "credit": "Photos: President Of Ukraine from Україна / Wikimedia Commons; Mass Communication Specialist 3rd Class Chris Roys / Wikimedia Commons; Alex Blokha / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons"
+  }
  },
  "sc-fra-commercial-cultivation-megamalai-silk-cotton": {
   "id": "r-sc-fra-commercial-cultivation-megamalai-silk-cotton",
@@ -45097,6 +45124,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Supreme Court of India, New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "treated": {
+   "src": "/photos/t-sc-fra-commercial-cultivation-megamalai-silk-cotton-1280.jpg",
+   "src800": "/photos/t-sc-fra-commercial-cultivation-megamalai-silk-cotton-640.jpg",
+   "cutout": false,
+   "with": [
+    "neet-pg-candidates-deserve-to-see-their-question-papers--p1",
+    "supreme-court-declines-plea-aiadmk-mlas-disqualification",
+    "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting"
+   ],
+   "kind": "photo",
+   "subj": "ffff677f67000000",
+   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Pinakpani / Wikimedia Commons; Jan Van Ryne (1712-60); Publisher: Robert Sayer / Wikimedia Commons; L.vivian.richard at en.wikipedia / Wikimedia Commons"
+  }
  }
 }

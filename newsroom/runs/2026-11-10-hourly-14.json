@@ -1,0 +1,32 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-10T14:13:48+05:30",
+ "end": "2026-11-10T14:46:24+05:30",
+ "summary": "SC forest-rights ruling leads; Zelenskyy Black Sea corridor offer; markets holiday",
+ "new": [
+  "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+  "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+   "why": "Main picture is the Supreme Court building in New Delhi, but the story's hero alt/caption reads 'The Megamalai hills, Tamil Nadu (file photo)' (Hindi: 'तमिलनाडु की मेगामलाई पहाड़ियां'), so the caption does not match what is shown.",
+   "done": "hero.alt now 'Supreme Court of India, New Delhi (file photo)' / 'सुप्रीम कोर्ट, नई दिल्ली (फाइल फोटो)' in both files"
+  },
+  {
+   "id": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+   "why": "Main picture shows Volodymyr Zelenskyy alone, but hero.alt/caption in EN and HI says 'Volodymyr Zelenskyy with Prime Minister Narendra Modi (file photo)'; Modi is not in the picture. Also the body gives most dates without the year ('Monday, November 9', 'September 29', 'October 4', 'August 31'), unlike the house style 'November 5, 2026'.",
+   "done": "hero.alt now 'Ukrainian President Volodymyr Zelenskyy (file photo)' and Hindi to match; 13 body dates in each language given the year 2026"
+  },
+  {
+   "id": "homepage",
+   "why": "editor homepage items 1, 2, 3, 5, 6",
+   "done": "refresh_home --drop of the toss story, the Modi-Zelenskyy call story and the Nov 9 Sensex close; This Week: ODI and Lincoln items removed, Abu Dhabi item now 'Under way' linking the new story; 'Shah opens and launches' now 'Shah launches'. Item 4: the drug-free Gujarat 2028 deadline is already in our Shah Ahmedabad story (frontpages flag was stale), pinned as states lead; E20 row covered November 7 (karnataka-31-2-per-cent-ethanol-claim...), no new development read; SC ruling kept as lead (photo, BIG STORY not on the site before today)."
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-fra-commercial-cultivation-megamalai-silk-cotton"
+}
