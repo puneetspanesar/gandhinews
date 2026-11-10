@@ -604,7 +604,11 @@ if __name__ == '__main__':
         for k in (x.get('treated') or {}).get('with', []): USED[k] = USED.get(k, 0) + 1
         h = (x.get('treated') or {}).get('subj')
         if h: SUBJ_USED[int(h, 16)] = SUBJ_USED.get(int(h, 16), 0) + 1   # pictures already fronting a collage
-    for sid in ids:
+    import time as _t
+    t0 = _t.time(); budget = float(os.environ.get('TREAT_BUDGET_MIN', '0')) * 60   # stop cleanly before the job times out
+    for i, sid in enumerate(ids):
+        if budget and _t.time() - t0 > budget: print(f'time budget reached, {len(ids) - i} stories left for the next run'); break
+        if i and i % 20 == 0: json.dump(M, open('content/photos.map.json', 'w'), ensure_ascii=False, indent=1)
         e = M.get(sid)
         if not e: print(f'{sid}: no photo entry, skipped'); continue
         pid, ok, rel = treat(sid, M)

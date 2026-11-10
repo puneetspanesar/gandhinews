@@ -25,6 +25,8 @@ jobs:
     if: ${{ !contains(github.event.head_commit.message, '[treat]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    env:
+      TREAT_BUDGET_MIN: '240'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -35,8 +37,21 @@ jobs:
       - name: Clear collages (redo)
         if: ${{ inputs.redo == 'yes' }}
         run: |
-          python3 -c "import json;M=json.load(open('content/photos.map.json'));[e.pop('treated',None) for e in M.values()];json.dump(M,open('content/photos.map.json','w'),ensure_ascii=False,indent=1)"
-          git rm -q --cached public/photos/t-* 2>/dev/null; rm -f public/photos/t-*
+          python3 - <<'PY'
+          import glob, json, os, re, datetime as D
+          M = json.load(open('content/photos.map.json'))
+          cut = (D.datetime.now(D.timezone.utc) - D.timedelta(hours=int('${{ inputs.hours }}' or 72))).isoformat()[:16]
+          n = 0
+          for f in glob.glob('content/en/news/*.md'):
+              sid = os.path.basename(f)[:-3]; e = M.get(sid)
+              m = re.search(r'^published: (\S+)', open(f).read(600), re.M)
+              if e and e.get('treated') and m and str(m.group(1)) >= cut:
+                  p = 'public' + e['treated']['src']
+                  if os.path.exists(p): os.remove(p)
+                  e.pop('treated'); n += 1
+          json.dump(M, open('content/photos.map.json', 'w'), ensure_ascii=False, indent=1)
+          print(n, 'collages cleared')
+          PY
       - name: Treat
         run: python3 newsroom/scripts/treat_photo.py --missing ${{ inputs.hours || '72' }}
       - name: Commit
@@ -50,7 +65,7 @@ jobs:
             git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0
             # a conflict in the photo map: take main's map and treat again on top of it
             git rebase --abort 2>/dev/null; git reset -q --hard origin/main; git pull -q origin main
-            python3 newsroom/scripts/treat_photo.py --missing ${{ inputs.hours || '72' }}
+            TREAT_BUDGET_MIN=20 python3 newsroom/scripts/treat_photo.py --missing ${{ inputs.hours || '72' }}
             git add public/photos content/photos.map.json; git commit -q -m "Treat photos [treat]" || exit 0
             sleep $((i * 10))
           done
