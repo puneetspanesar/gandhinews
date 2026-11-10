@@ -65,7 +65,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "No primary document: the notice itself and any Delhi Police statement were not published; all details rest on IANS-syndicated copy (ThePrint, Punjab Kesari, Hans India), India TV and ETV Bharat, which agree on service on Monday, witness status, Parliament Street PS, April 9, 2013 complaint, Section 160."
+    - "No primary document: the notice itself and any Delhi Police statement were not published; all details rest on IANS-syndicated copy (ThePrint, Punjab Kesari, Hans India), India TV and ETV Bharat, which agree on service on Monday, witness status, Parliament Street PS, April 9, 2013, complaint, Section 160."
     - "ETV Bharat says Section 160 of the 'IPC'; the others say CrPC. Written as CrPC (Section 160 is a CrPC section)."
     - "IPC sections 186, 353, 332, 147, 149, 34 are from India TV and ETV Bharat only."
     - "Sources differ on Ritabrata Banerjee's present role (Hans India: Leader of the Opposition in the Bengal Assembly; India TV: leads a Trinamool faction). Not stated in copy; only 'then SFI general secretary'. India TV says he was arrested in the case; single source, written as reported."
@@ -88,8 +88,7 @@ Police have not put out a statement on the record; the details come from officia
 
 The case was registered at **Parliament Street police station on April 9, 2013**. It arises from a protest that month by activists of the Students' Federation of India (SFI), the student wing of the CPI(M), after the death of an SFI activist, Sudipta Gupta, in Kolkata. SFI members demonstrated outside Banga Bhavan in Delhi. Amit Mitra, then West Bengal's finance minister, was heckled and allegedly assaulted.
 
-Banerjee had come to Delhi with Trinamool Congress ministers and MPs to protest the assault. Her delegation was near the former Planning Commission building on Sansad Marg, now home to NITI Aayog, when police tried to restrict its movement, citing security concerns and prohibitory orders. Investigators say she was in the capital with Mitra when the attack happened, which is why they want her account.
-
+Accounts of her role differ. Some reports say Banerjee came to Delhi with Trinamool Congress ministers and MPs to protest the assault, and that her delegation was near the former Planning Commission building on Sansad Marg, now home to NITI Aayog, when police tried to restrict its movement, citing security concerns and prohibitory orders. Others, citing Delhi Police, say she was in the capital with Mitra when the attack happened, which is why investigators want her account.
 
 The reported charges in the case are under the Indian Penal Code: **Sections 186, 353, 332, 147, 149 and 34**, covering obstructing a public servant, using criminal force to deter a public servant, causing hurt to deter a public servant, rioting, unlawful assembly and common intention. The SFI's then general secretary, Ritabrata Banerjee, led the agitation.
 
@@ -101,7 +100,7 @@ The reported charges in the case are under the Indian Penal Code: **Sections 186
 
 The notice reaches Banerjee at a tense time. Her party lost power in the 2026 assembly election, and Suvendu Adhikari is now Chief Minister. On November 7 she [demanded the resignation of Kolkata Police Commissioner Ajay Nanda](/news/mamata-demands-kolkata-police-commissioner-ajay-nanda-resign-abhishek-residence) after overnight clashes outside her nephew Abhishek Banerjee's home, and accused the police of siding with the BJP. In October, [a woman was detained outside her Kalighat house](/news/woman-tries-to-attack-mamata-banerjee-kalighat-tmc-says) after an alleged knife attempt.
 
-Banerjee has repeatedly accused the BJP of vendetta politics. Neither she nor the Trinamool Congress had responded to the notice by early Tuesday, and no reaction from the BJP or the CPI(M) has been recorded.
+Banerjee has repeatedly accused the BJP of vendetta politics. No formal reply from her or the Trinamool Congress to the notice had been published by early Tuesday. One report quotes her as saying she would travel to Delhi to give her statement, but that remark is undated. No reaction from the BJP or the CPI(M) has been recorded.
 
 ## What a witness notice means
 

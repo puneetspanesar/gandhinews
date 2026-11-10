@@ -17,9 +17,9 @@ hero:
   need: "Mumbai Fire Brigade crews fighting a fire in the city"
   suggested_source: "Mumbai Fire Brigade"
   subjects: ["Mumbai Fire Brigade", "Mumbai fire"]
-  alt: "Mumbai Fire Brigade crews at a fire in the city (file photo)"
+  alt: "Graphic: BMC bans rockets and aerial firecrackers in Mumbai till November 25"
   overlay:
-    value: "No rockets in Mumbai till Nov 25"
+    value: "No rockets in Mumbai till November 25"
 related: [bombay-high-court-street-firecracker-ban-all-festivals, siwan-firecracker-blast-five-dead-alampur-sho-suspended]
 infographic:
   kicker: "Mumbai Diwali fires"
@@ -69,10 +69,9 @@ The order cites the city's density: tightly packed buildings, high-rises and nar
 
 ## The night that led to it
 
-The Mumbai Fire Brigade received **142 fire calls on November 8**, the day of Laxmi Pujan. Of these, 137, or about 96 per cent, were blamed on firecrackers. Officials put the number of firecracker-related incidents at about 200 over the three days to Monday.
+The Mumbai Fire Brigade received **142 fire calls on November 8**, the day of Laxmi Pujan. Of these, 137, or about 96 per cent, were blamed on firecrackers. Officials put the number of firecracker-related incidents at about 200 of 282 fire incidents over the four days from November 6 to 9.
 
 Three fires were serious. A garage fire in Haji Kasam Chawl on Dr Maheshwari Road in Dongri began at about 10 pm and was brought under control at 7:23 am on Monday, **after nine hours**, and was upgraded from Level I to Level II. A garage fire on Marol Military Road in Andheri, near a school, started at 10:51 pm and was controlled at 3:50 am. A fire at Skyline Vida, a 10-storey commercial building near Jolly Gymkhana in Vidyavihar, began shortly before midnight and was put out at 5:55 am. Fire officials suspected rockets and aerial crackers in each case. No casualties were reported from the three fires, though two firemen were injured.
-
 
 ## Reactions
 
