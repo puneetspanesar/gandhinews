@@ -1,11 +1,9 @@
 {
  "run": "hourly-16",
  "start": "2026-11-10T16:09:24+05:30",
- "end": "2026-11-10T16:39:41+05:30",
- "summary": "Delhi Diwali LPG aid leads; 1 story, no holds",
- "new": [
-  "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
- ],
+ "end": "2026-11-10T16:47:14+05:30",
+ "summary": "expired two 48-hour holds",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
