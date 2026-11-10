@@ -42,7 +42,7 @@ jobs:
           M = json.load(open('content/photos.map.json'))
           cut = (D.datetime.now(D.timezone.utc) - D.timedelta(hours=int('${{ inputs.hours }}' or 72))).isoformat()[:16]
           n = 0
-          for f in glob.glob('content/en/news/*.md'):
+          for f in glob.glob('content/en/news/*.md') + glob.glob('content/en/explainer/*.md') + glob.glob('content/en/editorial/*.md') + glob.glob('content/en/factcheck/*.md'):
               sid = os.path.basename(f)[:-3]; e = M.get(sid)
               m = re.search(r'^published: (\S+)', open(f).read(600), re.M)
               if e and e.get('treated') and m and str(m.group(1)) >= cut:
