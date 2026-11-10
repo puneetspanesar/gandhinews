@@ -1,0 +1,13 @@
+{
+ "run": "stall-10",
+ "start": "2026-11-10T10:55:33+05:30",
+ "end": "2026-11-10T11:02:53+05:30",
+ "summary": "Expired 48-hour Delhi AQI hold",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+}
