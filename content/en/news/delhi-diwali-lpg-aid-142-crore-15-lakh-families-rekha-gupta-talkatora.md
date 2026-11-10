@@ -89,10 +89,6 @@ The amount depends on the card. **Families outside the Pradhan Mantri Ujjwala Yo
 
 Households that cook on piped natural gas rather than LPG are covered too, as long as they hold a ration card. The reports on the scheme name no income limit beyond holding a ration card.
 
-```photo
-{"n":1,"subject":"Manjinder Singh Sirsa","caption":"Delhi Food and Supplies Minister Manjinder Singh Sirsa, who runs the ration card system and is listed to attend the transfer.","alt":"Manjinder Singh Sirsa, Delhi Food and Supplies Minister"}
-```
-
 ## How the scheme came about
 
 The Delhi Cabinet cleared the scheme on February 3, 2026, as the fulfilment of a promise the BJP made before the February 2025 assembly election. It pays at two festivals a year, Holi and Diwali, so a covered family receives the price of **two cylinders over a year**. Describing the decision that day, Gupta called it an "important and people-centric decision to provide relief from inflation to economically weaker families." The next day's report of the same decision quoted her calling it "targeted, transparent and accountable welfare", and said the government had secured a budgetary commitment for it.
@@ -108,10 +104,6 @@ The transfer goes to the Aadhaar-linked bank account of the head of the family, 
 ## Why it matters
 
 For a family outside Ujjwala, the payment covers one full refill at Delhi's current ₹853 price. For an Ujjwala family, which already gets the central subsidy, it covers the remainder of the cost. Commercial cylinder rates in Delhi have risen three times in a row, as we reported on the [latest ₹10 hike](/en/news/commercial-lpg-up-rs-10-delhi-2820-third-straight-hike), but the scheme is pegged to the domestic cylinder.
-
-```photo
-{"n":2,"subject":"Talkatora Stadium","caption":"Talkatora Stadium in central Delhi, the venue for Tuesday's transfer.","alt":"Talkatora Stadium, New Delhi"}
-```
 
 ## What next
 
