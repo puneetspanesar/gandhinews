@@ -81,3 +81,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - treat_photo.py built a collage centred on the Andhra High Court for the SC story: notreat set on its map entry. Tile choice for court stories needs a fix.
 - Markets holiday (Diwali Balipratipada); Nov 9 FII/DII flows added.
 - NEXT RUN, FIRST: ECI order extending poll-time restrictions to retired officials (eci.gov.in); Kharge "Vishwaguru" attack over Delhi air; President Murmu to IPS probationers on people-centric policing (PIB photo); drop the Nov 7 Diwali-eve items from the Politics band.
+
+## November 10, 2026, 8:40 pm (from the 20:00 run)
+- Published 2: eci-extends-poll-code-curbs-retired-officials-five-states (LEAD, CEC Gyanesh Kumar 2025 file photo; rests on reports, the ECI letter itself not read), kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi (Kharge 2013 desk file photo; rests on a report of his X post, the post not opened).
+- States, world-business and sport-science desks wrote nothing: WebFetch refused on PIB, RBI, SEBI, NASA, presidentofindia.gov.in; CPCB bulletin PDF blocked by robots.txt.
+- Editor homepage FAIL partly fixed (second check): live band now non-election explainers; stale Sensex close still in the template Must Read; about 150px gap under the left column; no fresh CPCB AQI story.
+- NEXT RUN, FIRST: President Murmu to IPS probationers (PIB photo); Delhi CPCB AQI latest (try CAQM or SAFAR); a fresh Kharge portrait for the library (all three used inside 7 days).

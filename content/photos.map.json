@@ -45364,24 +45364,51 @@
   "src": "/photos/o-kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi-1280.jpg",
   "src800": "/photos/o-kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 1000,
-  "credit": "Photo: Ajay Kumar Koli / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "Mallikarjun Kharge (file photo)",
-  "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:MallikarjunKharge.png"
+  "height": 849,
+  "srcWidth": 2200,
+  "credit": "Photo: Ministry of Railways / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Mallikarjun Kharge at his office desk in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में अपने दफ्तर की मेज पर मल्लिकार्जुन खड़गे (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways,_in_New_Delhi_on_June_19,_2013.jpg",
+  "treated": {
+   "src": "/photos/t-kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi-1280.jpg",
+   "src800": "/photos/t-kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+    "cec-removal-belongs-in-parliament-call-the-special-session",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1"
+   ],
+   "kind": "photo",
+   "subj": "7e3e2f3f6264080c",
+   "credit": "Photos: Ministry of Railways / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Pinakpani / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "eci-extends-poll-code-curbs-retired-officials-five-states": {
-  "id": "r-eci-extends-poll-code-curbs-retired-officials-five-states",
-  "src": "/photos/r-eci-extends-poll-code-curbs-retired-officials-five-states-1280.jpg",
-  "src800": "/photos/r-eci-extends-poll-code-curbs-retired-officials-five-states-640.jpg",
+  "id": "o-eci-extends-poll-code-curbs-retired-officials-five-states",
+  "src": "/photos/o-eci-extends-poll-code-curbs-retired-officials-five-states-1280.jpg",
+  "src800": "/photos/o-eci-extends-poll-code-curbs-retired-officials-five-states-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Photo: Ramesh Lalwani / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Election Commission of India headquarters, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nation_Voter_Day_Posters_outside_Election_Commission.jpg"
+  "srcWidth": 1280,
+  "credit": "Photo: Sharma Dhawan / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Chief Election Commissioner Gyanesh Kumar (file photo)",
+  "alt_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg",
+  "treated": {
+   "src": "/photos/t-eci-extends-poll-code-curbs-retired-officials-five-states-1280.jpg",
+   "src800": "/photos/t-eci-extends-poll-code-curbs-retired-officials-five-states-640.jpg",
+   "cutout": true,
+   "with": [
+    "up-village-polls-cannot-wait-for-an-appeal",
+    "yogi-varanasi-mlc-teachers-poll-old-pension",
+    "up-voter-list-2026-check-name-after-sir"
+   ],
+   "kind": "photo",
+   "subj": "8080888cfcf8fcf8",
+   "credit": "Photos: Sharma Dhawan / Wikimedia Commons; Shoonyea / Wikimedia Commons; Vujn at en.wikipedia / Wikimedia Commons; Government of India / Wikimedia Commons"
+  }
  }
 }

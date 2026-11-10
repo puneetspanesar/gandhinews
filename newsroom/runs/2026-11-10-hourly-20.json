@@ -1,0 +1,32 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-10T20:06:52+05:30",
+ "end": "2026-11-10T20:39:31+05:30",
+ "summary": "ECI poll-code curbs on retired officials (lead), Kharge on Delhi air; 2 stories, no holds",
+ "new": [
+  "eci-extends-poll-code-curbs-retired-officials-five-states",
+  "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "eci-extends-poll-code-curbs-retired-officials-five-states",
+   "why": "Main picture (also the homepage lead) is a dated file shot of the Nirvachan Sadan office building with a '2016' National Voters' Day mural in front. It is a building stand-in, not the person who acted, and the story's own hero brief asked for Chief Election Commissioner Gyanesh Kumar.",
+   "done": "Main picture replaced with a 2025 Commons photo of CEC Gyanesh Kumar at a podium (finder h1020 k2-4, CC0)."
+  },
+  {
+   "id": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+   "why": "Main picture is a soft, low-resolution video grab of Mallikarjun Kharge. The top of his head is tight to the frame and a second man's face takes up nearly half the picture.",
+   "done": "Main picture replaced with a sharp GODL-India photo of Kharge at his desk (finder h1020 k1-5); all library portraits were inside the 7-day rule."
+  },
+  {
+   "id": "homepage",
+   "why": "Balance: the lead 'EC extends poll code curbs ... five poll-bound states' sits directly above the 'Manipur election 2027' explainer (same subject, side by side), and the 'Delhi's AQI explained' explainer sits directly above 'Kharge ... air pollution' (same subject, next to each other). Move the Mani",
+   "done": "Election and AQI explainers moved out of the lead block (now PM-Kisan, 8th Pay Commission, new Income Tax Act explainers); stale Sensex close dropped from the headlines (template Must Read still carries it); no fresh CPCB AQI story (CPCB unreachable); left-column gap not fixed."
+  }
+ ],
+ "breaches": [],
+ "lead": "eci-extends-poll-code-curbs-retired-officials-five-states"
+}
