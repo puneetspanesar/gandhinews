@@ -13,10 +13,10 @@ keyPoints:
   - "A placement agent or relative can hand over a child with **no record of who, where or for how much**."
   - "Delhi should **register placement agencies** and every household that employs a live-in worker, and check on them."
 hero:
-  need: "All India Institute of Medical Sciences, New Delhi, where the girl was admitted"
-  suggested_source: "All India Institute of Medical Sciences, Delhi"
-  subjects: ["All India Institute of Medical Sciences, Delhi"]
-  alt: "AIIMS, New Delhi (file photo)"
+  need: "No photo: the worker is a minor and the household is unnamed; the infographic carries the case"
+  suggested_source: "infographic"
+  subjects: []
+  alt: "Infographic: the case of the teenage domestic worker rescued in Delhi"
   overlay:
     kicker: "Our view"
     value: "Who is working in your house?"

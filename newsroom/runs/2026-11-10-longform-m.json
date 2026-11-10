@@ -1,0 +1,32 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-10T06:45:19+05:30",
+ "end": "2026-11-10T07:25:27+05:30",
+ "summary": "5 long-form pieces: AQI and chip-controls explainers, domestic-worker and Rajasthan-roll editorials, Modi CRPF claim fact check (Misleading)",
+ "new": [
+  "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
+  "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration",
+  "delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data",
+  "us-chip-export-controls-explained-nvidia-megaspeed-congress-bills",
+  "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
+   "why": "Main picture is still the old studio portrait of a smiling Narendra Modi on a plain white backdrop. It looks like stock, it does not show the Bastar address the hero asks for, and it puts a smiling leader on a fact check about CRPF jawans dying on duty, two of them by shooting or suicide (rules 3 and 4). Rule 8 is about infographics and does not save an unsuitable photo. The review sheet for this story still shows only the slug, with no section, headline, standfirst or EN/HI covers, so the covers could not be checked.",
+   "done": "Studio portrait dropped. Rule 11a: no correct usable Modi photo (library portraits used in last 7 days, quick_photo 0, PIB 0 of 40 releases, finder l10m2 all blocked by the 7-day rule or under 900 px), so the fact check publishes with its infographic (make_infographic --nophoto); Modi goes back to the library run via audit's 24-hour upgrade list. Verdict already Misleading."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Same subject side by side: the first card under the lead ('Delhi minister Kapil Mishra asks Mann to file FIRs over what he says were 1,200 Diwali stubble fires in Punjab') is the same Delhi-Punjab farm-fire row that the lead's standfirst describes. Move it out of the top grid (link it from the lead) and promote an unrelated story into that slot. This was flagged last run and is still not fixed. 2) The Explained row shows three near-identical dark icon infographics (Delhi AQI, COP31, RBI liquidity) next to one photo, which looks machine-made. The Delhi AQI card may stay (NOPHOTO). For COP31 (the Antalya venue or the COP president) and RBI liquidity (RBI headquarters or the Governor), run the library, quick_photo.py and the finder for a real photo. No broken images, grey boxes, empty slots or clipped text on desktop or mobile, and every top story is under 24 hours old.",
+   "done": "Kapil Mishra stubble card dropped from the top this hour (refresh_home --drop; the editor's screenshot predated it). RBI liquidity explainer now shows the RBI tower photo (quick_photo). COP31 explainer photo left for the next run (finder already used twice this run). AQI figures are different bulletins (4 pm hourly vs 9 am 24-hour) and each states its time."
+  }
+ ],
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot"
+ ],
+ "lead": "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot"
+}

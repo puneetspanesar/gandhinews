@@ -13,7 +13,7 @@ factcheck:
   claimant: "Narendra Modi, Prime Minister"
   seenOn: "Address to security forces at the CoBRA base, Karanpur, Bastar, Chhattisgarh (November 8, 2026; PIB text and video)"
   firstSeen: 2026-11-08
-  verdict: "Mostly true"
+  verdict: "Misleading"
   finding: "CRPF Director General G P Singh said on November 1 that the force had gone 12 months without an operational fatality, the last on October 30, 2025. That is a narrower claim than 'on duty': at least three CRPF personnel were reported to have died on duty in non-combat circumstances in 2026. The '47 years' comparison rests on the force's own statement; we found no published series to test it."
 hero:
   need: "Prime Minister Narendra Modi at the Bastar address"
@@ -71,15 +71,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "The CRPF DG's X post could not be opened (crpf.gov.in blocked automated reading in this run). Its content (12 months, last operational death October 30, 2025 in West Singhbhum, 47 years, previous stretch ending January 1979) comes from two secondary reports (Swarajya, SSBCrack); only 'a significant milestone' is quoted in them. Treated as unconfirmed detail and attributed to the DG."
+    - "The CRPF DG's X post could not be opened (crpf.gov.in blocked automated reading in this run). Its content (12 months, last operational death October 30, 2025, in West Singhbhum, 47 years, previous stretch ending January 1979) comes from two secondary reports (Swarajya, SSBCrack); only 'a significant milestone' is quoted in them. Treated as unconfirmed detail and attributed to the DG."
     - "The three on-duty deaths come from single news reports each (Tribune April 7, Deccan Chronicle May 6, Northeast Now November 6), citing police and unnamed officials. Cause in each case is under investigation or described as suicide or collapse; none was in an operation. The MHA Lok Sabha replies on force fatalities (LS03022026/58, LS16122025/2591) could not be fetched."
     - "Dec 3, 2025 Bijapur deaths were of three District Reserve Guard (state police) personnel, so they do not count against the CRPF record."
-    - "Verdict is Mostly true because the underlying CRPF claim stands as stated by the force; the PM's wording is wider than it. Revisit if the CRPF publishes its data."
+    - "Verdict changed to Misleading at the editor check: the CRPF milestone covers operational deaths only, the wider wording does not hold, and the 47-year comparison is untested. Revisit if the CRPF publishes its data."
 ---
 
 ## What we found
 
-The Prime Minister's claim is **mostly true, but worded more broadly than the record behind it**. At the CoBRA base in Karanpur, Bastar, on November 8, Narendra Modi said that "for the first time in 47 years, no CRPF jawan lost his life while on duty during the past year." The force's own milestone, announced a week earlier by Director General G P Singh, is that it went **12 months without an operational fatality**. Deaths on duty that were not in operations are a separate count, and several were reported.
+The Prime Minister's claim is **misleading: it is worded more broadly than the record behind it**. At the CoBRA base in Karanpur, Bastar, on November 8, Narendra Modi said that "for the first time in 47 years, no CRPF jawan lost his life while on duty during the past year." The force's own milestone, announced a week earlier by Director General G P Singh, is that it went **12 months without an operational fatality**. Deaths on duty that were not in operations are a separate count, and several were reported.
 
 ## The evidence
 
