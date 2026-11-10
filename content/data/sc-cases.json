@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-07",
+    "as_of": "2026-11-10",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -848,6 +848,32 @@
         }
       ],
       "notes": "6 Nov hearing rests on a single source (LawBeat). Case registered as a suo motu petition at the end of October 2026. Details from the news desk's story of 6 Nov 2026."
+    },
+    {
+      "id": "delhi-ncr-women-safety-suo-motu",
+      "case": "In Re: safety of women and children in Delhi-NCR (suo motu)",
+      "issue": "Whether authorities in Delhi-NCR have failed to keep public spaces and public transport safe for girls and women, and what lighting, surveillance, patrolling and driver-verification measures must follow.",
+      "bench_size": 2,
+      "bench": "Justices J.B. Pardiwala and Manmohan",
+      "status": "pending",
+      "status_text": "Union asked for a 'meaningful' reply by November 23",
+      "last_date": "2026-11-06",
+      "last_event": "The Supreme Court gave the Union until November 23 to file its reply after Solicitor General Tushar Mehta said the draft affidavits were ready but did not satisfy him. Justice Pardiwala said the reply should be meaningful, as otherwise the exercise would be futile. Amicus Liz Mathew asked for a week after filing to study it. The court began the case on its own on September 28, 2026, and on October 5 told Delhi Police to step up beat patrols and to allow only registered, verified drivers.",
+      "next_step": "Union's reply due November 23, 2026; listed on December 2, 2026.",
+      "sources": [
+        {
+          "title": "Supreme Court Grants Union Government Time To File Meaningful Reply (Delhi Women Safety)",
+          "publisher": "LiveLaw",
+          "date": "2026-11-06",
+          "url": "https://www.livelaw.in/news-updates/supreme-court-grants-union-government-file-meaningful-reply-557673"
+        },
+        {
+          "title": "Supreme Court Takes Suo Motu Cognizance of Crimes Against Women and Children; Directs 4-Week Safety Audit Across Delhi-NCR",
+          "publisher": "SCC Online",
+          "date": "2026-09-29",
+          "url": "https://www.scconline.com/blog/post/2026/09/29/supreme-court-delhi-ncr-women-children-safety-directions/"
+        }
+      ]
     }
   ]
 }

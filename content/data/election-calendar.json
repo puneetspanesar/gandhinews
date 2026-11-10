@@ -1,7 +1,7 @@
 {
   "id": "election-calendar",
   "title": "Election calendar, October 2026 to December 2027",
-  "updated": "2026-11-08T06:46:45+05:30",
+  "updated": "2026-11-10T07:05:00+05:30",
   "coverage": "Lok Sabha and assembly bypolls, Rajya Sabha elections, state assembly general elections and the presidential election, plus major state election commission rural local body polls, held, announced or expected between 1 October 2026 and 31 December 2027. Only items confirmed in at least one reputable source are listed.",
   "status_values": [
     "announced",
@@ -164,10 +164,10 @@
       "expected_window": null,
       "status": "held",
       "term_end": null,
-      "result": "Counting in progress, not final. As of about 12:38 am on November 8, 2026, the NDA had won 6,841 MPTC seats (TDP 5,879, Jana Sena 811, BJP 151), against 1,469 for YSRCP and 246 for others. In ZPTC, the TDP had won 337 seats and was leading in 47 more; YSRCP had won 36 and was leading in 11. TDP-led alliance far ahead.",
-      "source_url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/polling-for-zptc-mptc-begins-in-ap-amid-tight-security-2001867",
-      "source_publisher": "Deccan Chronicle, citing the State Election Commission",
-      "notes": "Local body poll run by the Andhra Pradesh State Election Commission (not the ECI), listed because it is the largest rural vote of the period. seats = 7,767 MPTC + 582 ZPTC seats contested; a further 2,051 MPTC and 77 ZPTC seats were decided unopposed, and three MPTC seats have no valid candidate (SEC figures via The Hans India). Polling was moved from 3 Nov to 5 Nov (South First, https://thesouthfirst.com/andhrapradesh/ap-mptc-zptc-poll-schedule-revised-polling-on-5-november-counting-on-7-november/) and held from 7 am to 5 pm on 5 Nov, with about 2.61 crore voters. Because of heavy rain from Cyclone Murasu, the SEC put off polling in four Eluru district mandals (Buttaigudem, Jeelugumilli, Velerupadu and Polavaram) to Friday 6 Nov. SEC turnout for 5 Nov: first figure 67.24% (1,50,84,014 of 2,24,32,460 voters; ETV Bharat), then a final district-wise figure of 70.72%, highest Visakhapatnam 82.51%, lowest Alluri Sitharama Raju 62.01% (Telugu360, https://www.telugu360.com/andhra-pradesh-records-70-72-turnout-in-mptc-zptc-elections-visakhapatnam-tops-at-82-51/; M9 News). On 6 Nov five cyclone-hit mandals (Gopalapuram in East Godavari; Velerupadu, Buttayagudem, Jeelugumilli and Polavaram in the Eluru area) voted for 5 ZPTC and 60 MPTC seats, and repolls were held at seven booths in five districts; no turnout figure for 6 Nov at this update. Mandal parishad president and zilla parishad chairperson elections follow on 11 and 12 Nov. YSRCP alleged booth capturing and obstruction of voters in places including Dhulipalla and Pulivendula. Counting from 8 am on Saturday 7 Nov. Figures from The Hans India, 8 Nov 2026, 12:38 am; State Election Commission final figures not yet read."
+      "result": "Final, as released by the State Election Commission on the night of November 8, 2026 (10:55 pm IST): ZPTC (582 contested seats) NDA 499 (TDP 406, Jana Sena 73, BJP 20), YSRCP 76, CPI(M) 1, independents 6. MPTC (7,768 contested seats) NDA 5,861 (TDP 4,806, Jana Sena 938, BJP 117), YSRCP 1,711, CPI(M) 15, independents 162. Congress won none. The TDP-led alliance took about 86% of ZPTC and 75% of MPTC seats contested.",
+      "source_url": "https://daijiworld.com/news/newsDisplay?newsID=1334780",
+      "source_publisher": "Daijiworld, citing the State Election Commission's final results",
+      "notes": "Local body poll run by the Andhra Pradesh State Election Commission (not the ECI), listed because it is the largest rural vote of the period. seats = 7,767 MPTC + 582 ZPTC seats contested; a further 2,051 MPTC and 77 ZPTC seats were decided unopposed, and three MPTC seats have no valid candidate (SEC figures via The Hans India). Polling was moved from 3 Nov to 5 Nov (South First, https://thesouthfirst.com/andhrapradesh/ap-mptc-zptc-poll-schedule-revised-polling-on-5-november-counting-on-7-november/) and held from 7 am to 5 pm on 5 Nov, with about 2.61 crore voters. Because of heavy rain from Cyclone Murasu, the SEC put off polling in four Eluru district mandals (Buttaigudem, Jeelugumilli, Velerupadu and Polavaram) to Friday 6 Nov. SEC turnout for 5 Nov: first figure 67.24% (1,50,84,014 of 2,24,32,460 voters; ETV Bharat), then a final district-wise figure of 70.72%, highest Visakhapatnam 82.51%, lowest Alluri Sitharama Raju 62.01% (Telugu360, https://www.telugu360.com/andhra-pradesh-records-70-72-turnout-in-mptc-zptc-elections-visakhapatnam-tops-at-82-51/; M9 News). On 6 Nov five cyclone-hit mandals (Gopalapuram in East Godavari; Velerupadu, Buttayagudem, Jeelugumilli and Polavaram in the Eluru area) voted for 5 ZPTC and 60 MPTC seats, and repolls were held at seven booths in five districts; no turnout figure for 6 Nov at this update. Mandal parishad president and zilla parishad chairperson elections follow on 11 and 12 Nov. YSRCP alleged booth capturing and obstruction of voters in places including Dhulipalla and Pulivendula. Counting from 8 am on Saturday 7 Nov. Figures from The Hans India, 8 Nov 2026, 12:38 am; State Election Commission final figures not yet read. Final results read on Daijiworld (November 8, 2026, 10:55 pm); its MPTC rows sum to 7,749 against the stated 7,768, so 19 seats are unaccounted for. Percentages are our arithmetic on contested seats."
     },
     {
       "id": "rajya-sabha-madhya-pradesh-bypoll-2026",
@@ -312,12 +312,43 @@
       "source_url": "https://elections.boomlive.in/elections/upcoming",
       "source_publisher": "BOOM",
       "notes": "Newly elected MLAs took oath on 19 December 2022 (Deccan Herald, https://www.deccanherald.com/india/newly-elected-mlas-of-gujarat-assembly-to-take-oath-on-december-19-1172911.html), so the term runs into December 2027. Exact expiry date not confirmed from ECI; left null."
+    },
+    {
+      "id": "rajasthan-panchayat-2026",
+      "name": "Rajasthan panchayat elections (panchayat samiti and zila parishad members, sarpanch and ward panch)",
+      "state": "Rajasthan",
+      "house": "Panchayati Raj institutions",
+      "seats": null,
+      "date": "2026-11-14",
+      "counting_date": "2026-11-20",
+      "expected_window": null,
+      "status": "announced",
+      "term_end": null,
+      "result": "Phases 1 to 3 held on October 23, October 29 and November 4. The fourth and last phase is on November 14; counting of zila parishad and panchayat samiti members is on November 20 at district headquarters.",
+      "source_url": "https://www.etvbharat.com/en/state/panchayat-elections-in-rajasthan-to-be-held-in-four-phases-from-october-23-enn26100304266",
+      "source_publisher": "ETV Bharat, citing State Election Commissioner Rajeshwar Singh",
+      "notes": "Announced by the State Election Commission on October 3, 2026. Covers 14,403 gram panchayats, 457 panchayat samitis and 41 zila parishads. Polling hours 7 am to 6 pm. Baran, Sri Ganganagar, Karauli and Kota districts vote after December 22, 2026. Nikhil Dey has questioned the voter rolls used (see our report of November 8, 2026); the commission says it used the pre-SIR roll of January 1, 2025. Phase 1 to 3 results not read."
+    },
+    {
+      "id": "kolkata-municipal-corporation-2026",
+      "name": "Kolkata Municipal Corporation election",
+      "state": "West Bengal",
+      "house": "Municipal Corporation",
+      "seats": null,
+      "date": null,
+      "counting_date": null,
+      "expected_window": null,
+      "status": "expected",
+      "term_end": null,
+      "result": null,
+      "source_url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-defers-kmc-elections-till-plea-challenging-ward-delimitation-from-144-to-209-is-decided-557582",
+      "source_publisher": "LiveLaw, reporting the Calcutta High Court order of November 6, 2026",
+      "notes": "No date. On November 6, 2026, a Calcutta High Court vacation bench barred the West Bengal State Election Commission from notifying the election until a challenge to the September 11 notification raising wards from 144 to 209 is decided by a single judge. The council has been dissolved since June 8, 2026."
     }
   ],
   "excluded_unverified": [
     "Rajya Sabha biennial elections in 2027: states and dates not found in any reputable source.",
     "Assembly or Lok Sabha bypolls in 2027: none announced as of 11 October 2026.",
-    "Rajasthan panchayat and civic polls (reported only via a headline cited on Wikipedia).",
     "Early Punjab assembly poll in November 2026 (suggested by Arvind Kejriwal in June 2026; no ECI action).",
     "Municipal polls with no announced dates (Bengaluru, Chandigarh and others)."
   ]
