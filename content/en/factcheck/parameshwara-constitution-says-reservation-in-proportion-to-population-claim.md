@@ -92,10 +92,6 @@ The Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Edu
 
 A bench of Chief Justice Vibhu Bakhru and Justice K S Hemalekha ruled on October 12, 2026. According to reports of the judgment, it struck down Section 3 to the extent it took reservation beyond 50%, and Section 4 on state services. It said the ceiling "has to be understood as circumscribing the power of the State". Karnataka had argued, citing the Nagamohan Das Commission and other reports, that SC and ST populations had grown and that over 90% of the state's people belonged to SC, ST or OBC groups. The court said accepting that "would be destructive of the principle of equality enshrined under the Constitution", and that the state could not use the exceptional-circumstances route merely on that basis. It added that the reports might support internal reservation, but not a higher total.
 
-```photo
-{"n":1,"subject":"Karnataka High Court","caption":"The Karnataka High Court in Bengaluru, whose bench struck down the 56% quota provisions on October 12, 2026.","alt":"The Karnataka High Court building in Bengaluru"}
-```
-
 ### 3. The Supreme Court's rule
 
 In Indra Sawhney, the Supreme Court's conclusions say reservation under Article 16(4) should be confined to a minority of seats and "not to exceed 50%". The judgment records that the Mandal Commission found OBCs were about 52% of the population and recommended only 27% reservation "in deference to legal limitation". The ruling itself shows that a population share was not treated as a measure of the quota.

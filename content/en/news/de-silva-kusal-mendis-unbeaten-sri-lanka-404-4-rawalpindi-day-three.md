@@ -78,10 +78,6 @@ De Silva resumed on 22 and finished on **167 not out from 241 balls**, with 20 f
 
 He was dropped on 38 when Saud Shakeel missed a chance at first slip, the only real opening the Pakistan bowlers got from either batter all day. He was still six short of his career best when the light went.
 
-```photo
-{"n":1,"subject":"Dhananjaya de Silva","caption":"Dhananjaya de Silva, unbeaten on 167 at the close of day three.","alt":"Dhananjaya de Silva batting"}
-```
-
 ## A century in the first Test as captain
 
 Kusal Mendis, leading Sri Lanka for the first time in a Test, finished on **117 not out from 188 balls**, with 10 fours and four sixes. It is his 11th Test century, and he reached it off 152 balls, hitting two straight sixes off debutant Arafat Minhas along the way.
@@ -95,10 +91,6 @@ The pair came together on the second evening with the score at 114 for 3, after 
 Pakistan's one success came early. Kamindu Mendis, resuming on 40, added 18 more for **58 from 131 balls** before Mohammad Abbas had him caught behind by Ghazi Ghori in the 42nd over. He and de Silva had added 90 for the fourth wicket,.
 
 After that the two set-in batters scored freely against an attack that had little experience. Razaullah, who has played one Test, went for 127 runs without a wicket from 23 overs, and Minhas conceded 92 without a wicket. Abbas ended with 2 for 64 and Saqib Khan 2 for 105, both of whose wickets came across days two and three.
-
-```photo
-{"n":2,"subject":"Mohammad Abbas","caption":"Mohammad Abbas took the day's only wicket, Kamindu Mendis, and has 2 for 64 in the innings.","alt":"Mohammad Abbas bowling"}
-```
 
 ## How the Test stands
 

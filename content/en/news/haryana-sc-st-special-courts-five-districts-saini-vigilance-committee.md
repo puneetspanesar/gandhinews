@@ -76,10 +76,6 @@ The government also plans to reward good records. The Panchayat Department has b
 
 
 
-```photo
-{"n":1,"subject":"Krishan Kumar Bedi","caption":"Social Justice and Empowerment Minister Krishan Kumar Bedi attended the review meeting.","alt":"Haryana minister Krishan Kumar Bedi"}
-```
-
 ## The numbers the state gave
 
 Director General of Police Ajay Singhal told the meeting that cases under the Act have **fallen by nearly 28%**. He said the 60-day chargesheet requirement is being applied, and that police are working to reach full compliance, which implies it has not yet been reached in every case. No report of the meeting gave the number of cases behind the 28% fall, the period it covers, or how many cases are pending in court.

@@ -70,10 +70,6 @@ Judges and lawyers will say, with reason, that this is a patch. Evening sittings
 
 That is exactly why the details matter. Nothing we could read says **what law lets retired judges preside, who pays them, how long they serve, or when the pilot begins**.
 
-```photo
-{"n":1,"subject":"Delhi High Court","caption":"The Delhi High Court, one of the three pilot places where retired judges are to preside over evening sittings.","alt":"The Delhi High Court building in New Delhi"}
-```
-
 ## What the pilot should publish
 
 First, **the legal basis and the terms**. Before a single evening list is issued, each High Court and the Law Ministry should publish the order that creates the sittings, the powers of the retired judges and their pay.

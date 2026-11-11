@@ -92,10 +92,6 @@ The Bench accepted that the state has the legislative competence to make such a 
 
 The second strand of the ruling was procedural. Articles 338(9) and 338A(9) require the state to consult the National Commissions for SCs and STs on major policy decisions affecting those communities. Karnataka wrote to the commissions on December 10, 2025 and January 20, 2026, nearly three years after the Act took effect on January 12, 2023, and after it had been challenged in court. In the court's words, "simply writing to the commissions after the law had already been enacted could not be considered meaningful consultation."
 
-```photo
-{"n":1,"subject":"Karnataka High Court","caption":"The Karnataka High Court in Bengaluru, where the Division Bench struck down the 2022 quota law.","alt":"The Karnataka High Court building in Bengaluru"}
-```
-
 ## How we got here
 
 The 2022 law followed the Nagamohan Das Commission, which recommended the increase in July 2020. According to the state's release, then Law Minister J C Madhuswamy said on October 7, 2022 that the enhanced quota would be placed in the Ninth Schedule, which shields laws from most judicial review. The BJP government of the time instead issued an ordinance and then passed the legislation before the 2023 Assembly elections.
@@ -111,10 +107,6 @@ The law was challenged in public interest petitions, including one by Raichur so
 The state is putting the blame on the previous government and the Centre. Its release says the Centre has not acted on the Ninth Schedule request. On March 21, 2023, then Union Minister of State A Narayanaswamy told Parliament that no proposal from Karnataka had reached the Centre, and the state wrote two days later. On July 25, 2026, the Centre told Parliament that **the request would be deferred because the matter was before the High Court**.
 
 The release points out that Karnataka has five Union ministers and 19 Lok Sabha MPs from the BJP and the JD(S), yet no constitutional amendment has been introduced. It calls the Ninth Schedule "the only permanent safeguard against future legal challenges". The state said it would pursue the legal fight in the Supreme Court while pressing the Centre on the amendment.
-
-```photo
-{"n":2,"subject":"Basavaraj Bommai","caption":"Former chief minister Basavaraj Bommai, who urged the state to appeal and said he would go to the Supreme Court himself if it did not.","alt":"Former Karnataka chief minister Basavaraj Bommai"}
-```
 
 After the verdict, former chief minister and BJP MP Basavaraj Bommai urged the government to appeal to the Supreme Court and said he would approach it himself if the government did not. No response from the Centre to the state's statement was available on Wednesday night.
 
