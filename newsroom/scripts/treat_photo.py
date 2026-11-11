@@ -213,10 +213,10 @@ def abroad_story(d):
             or bool(re.search(r'Wall Street|Nasdaq|\bDow\b|Washington|House chairmen|\bSenate\b|White House|Pentagon|Federal Reserve|Silicon Valley|world.s', text)))
 
 
-def own_scenes(sid, M):
-    """The story's own in-story photos, then the main photos of the stories it links to: scenes and places only."""
+def own_scenes(sid, M, own_only=False):
+    """The story's own in-story photos, then (for tiles) the main photos of the stories it links to: scenes and places only."""
     d = fm(sid); out = []
-    keys = [k for k in M if k.startswith(sid + '--')] + [k for k in (d.get('related') or []) if isinstance(k, str)]
+    keys = [k for k in M if k.startswith(sid + '--')] + ([] if own_only else [k for k in (d.get('related') or []) if isinstance(k, str)])
     for k in keys:
         x = M.get(k) or {}
         alt = x.get('alt') or ''
@@ -565,8 +565,9 @@ def treat(sid, M, scenes_only=False):
     own_ok = not e.get('graphic') and not single and not e.get('nocut')   # nocut: a face crop or screenshot, never the subject
     pre = None
     if own_ok:
-        pre = (_cuts_v if is_v else _cuts)(Image.open('public' + e['src']).convert('RGB')) if (is_v or named_people(alt0) or people(alt0) or PERSONISH.search(alt0)) else None
-        if pre and pre[1]: pre = None
+        if is_v or named_people(alt0) or people(alt0) or PERSONISH.search(alt0):
+            _im = Image.open('public' + e['src']).convert('RGB')
+            pre = _cuts_v(_im) if is_v else (_cuts(_im) or (len(named_people(alt0)) <= 1 and _cuts(_im, loose=True)) or None)
     # the story's own photo when it cuts out cleanly, or when it shows an event or a place; a plain file headshot that
     # will not cut out (head cropped at the top, white backdrop) is swapped for a clean solo photo of the same person
     generic_head = own_ok and bool(named_people(alt0)) and not SCENE.search(alt0) and re.search(r'\(file photo\)\s*$', alt0)
@@ -580,24 +581,31 @@ def treat(sid, M, scenes_only=False):
         whole_ok = not is_v and not ((named_people(alt0) or people(alt0) or PERSONISH.search(alt0)) and (im0.height > im0.width * .9 or not SCENE.search(alt0))) and not plain_backdrop(im0)
     # never the same picture on two collages (owner, November 10): the story's own photo if it is fresh and usable, else a
     # fresh solo photo of the headline person that cuts out cleanly, else a collage of the story's scenes
-    if own_ok and (pre or (not generic_head and whole_ok)) and subj_used(own_path) == 0:
+    # the story's own photo is always the subject when it cuts out (a close crop may run off the top) or shows a
+    # scene: it was already chosen as the story's picture, so it is on topic by definition (owner, November 11:
+    # never swap in an unrelated scene, never leave a photo untreated)
+    if own_ok and (pre or (not generic_head and whole_ok)):
         subj_path, subj_credit, src_key = own_path, own_cr, sid
     else:
+        tried = []
         for pth, c in portraits(sid, M):
-            if subj_used(pth) > 0: continue
             r = _cuts(Image.open(pth).convert('RGB'))
-            if r and not r[1]: subj_path, subj_credit, src_key = pth, c, 'portrait'; break
+            if r and not r[1]: tried.append((subj_used(pth), pth, c))
+            if tried and tried[-1][0] == 0: break
+        if tried:
+            _, pth, c = min(tried, key=lambda t: t[0]); subj_path, subj_credit, src_key = pth, c, 'portrait'
     if scenes_only: subj_path = subj_credit = src_key = None
     if subj_path: SUBJ_USED[ahash(subj_path)] = SUBJ_USED.get(ahash(subj_path), 0) + 1
     main_scene = None
     if src_key is None:
-        pool = own_scenes(sid, M)
-        pool += [k for k in related(sid, M, 4, strict=True) if k not in pool]
+        pool = own_scenes(sid, M, own_only=True)   # the centre comes only from the story's own pictures, never a related story's
         fresh = [k for k in pool if subj_used('public' + M[k]['src']) == 0 and not plain_backdrop(Image.open('public' + M[k]['src']).convert('RGB'))]
         if fresh:
             main_scene = [fresh[0]] + [k for k in pool if k != fresh[0]]
             SUBJ_USED[ahash('public' + M[fresh[0]]['src'])] = SUBJ_USED.get(ahash('public' + M[fresh[0]]['src']), 0) + 1
-        elif own_ok and whole_ok and not scenes_only:   # nothing on topic is free: the story's own photo, shown whole
+        elif pool:
+            main_scene = pool
+        elif own_ok:   # nothing else on topic: the story's own photo, framed whole in the collage
             subj_path, subj_credit, src_key = own_path, own_cr, sid
             SUBJ_USED[ahash(own_path)] = SUBJ_USED.get(ahash(own_path), 0) + 1
         else:
@@ -622,15 +630,12 @@ def treat(sid, M, scenes_only=False):
         is_person = False                                  # a group never cuts out cleanly: show the photo whole
     top = False
     if orig is not None and (is_person or (is_v and src_key == sid)):
-        r = (_cuts_v if (is_v and src_key == sid) else _cuts)(orig)
-        ok = bool(r) and not r[1]
+        r = _cuts_v(orig) if (is_v and src_key == sid) else (_cuts(orig) or (src_key == sid and len(named_people(a0)) <= 1 and _cuts(orig, loose=True)) or None)
+        ok = bool(r) and (src_key == sid or not r[1])
         if ok: cut, top = r
     else:
         ok = False
     if src_key == 'portrait' and not ok: return None, False, []
-    if src_key == sid and is_person and not ok and not whole_ok:
-        SUBJ_USED[ahash(subj_path)] -= 1
-        return treat_scenes(sid, M)
 
 
     can.alpha_composite(grid(220, 154), (X(36, 220), 40))

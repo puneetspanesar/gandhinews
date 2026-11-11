@@ -41219,7 +41219,19 @@
   "alt": "West Bengal Chief Minister Suvendu Adhikari and the fenced India-Bangladesh border (file photos)",
   "alt_hi": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी और भारत-बांग्लादेश सीमा पर बाड़ (फ़ाइल फ़ोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr-1280.jpg",
+   "src800": "/photos/t-suvendu-adhikari-first-diwali-cm-bsf-hakimpur-border-nandigr-640.jpg",
+   "cutout": false,
+   "with": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+    "gst-explained-slabs-council-revenue-sharing"
+   ],
+   "kind": "photo",
+   "subj": "9f9fdf86e0e0e0c0",
+   "credit": "Photos: মঞ্জুর আলম খান / Wikimedia Commons; Arupparia / Wikimedia Commons; U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons; P.K.Niyogi / Wikimedia Commons"
+  }
  },
  "adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday": {
   "id": "i-adkar-bhosale-chennai-open-doubles-final-karamoko-waltert-sunday",
@@ -41502,7 +41514,21 @@
     "src800": "/photos/i2-e20-ethanol-row-needs-joint-testing-and-published-results-hi-640.jpg"
    }
   },
-  "nophoto": "Hardeep Singh Puri blocked by the 7-day rule, Rizwan Arshad not in library, finder l08m could not run (GitHub Actions job not started: account billing)"
+  "nophoto": "Hardeep Singh Puri blocked by the 7-day rule, Rizwan Arshad not in library, finder l08m could not run (GitHub Actions job not started: account billing)",
+  "treated": {
+   "src": "/photos/t-e20-ethanol-row-needs-joint-testing-and-published-results-1280.jpg",
+   "src800": "/photos/t-e20-ethanol-row-needs-joint-testing-and-published-results-640.jpg",
+   "cutout": false,
+   "with": [
+    "e20-petrol-explained-ethanol-blend-karnataka-row",
+    "karnataka-mlc-polls-four-council-seats-voting",
+    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1",
+    "monday-open-brent-eases-us-futures-rise-infosys-test"
+   ],
+   "kind": "scenes",
+   "subj": "1f1f3f7fa7010000",
+   "credit": "Photos: Chanduclicks / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; SpeakingArch / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
+  }
  },
  "munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive": {
   "id": "i-munger-deepotsav-11-lakh-lamps-samrat-choudhary-marine-drive",
@@ -41557,7 +41583,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Law Minister Arjun Ram Meghwal (centre) (file photo)",
   "alt_hi": "कानून मंत्री अर्जुन राम मेघवाल (बीच में) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shilp_guru_gopal_prasad_sharma_with_central_minister_shree_Arjun_Ram_Meghwal_ji.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shilp_guru_gopal_prasad_sharma_with_central_minister_shree_Arjun_Ram_Meghwal_ji.jpg",
+  "treated": {
+   "src": "/photos/t-meghwal-diwali-bsf-bikaner-soldiers-family-1280.jpg",
+   "src800": "/photos/t-meghwal-diwali-bsf-bikaner-soldiers-family-640.jpg",
+   "cutout": false,
+   "with": [
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1"
+   ],
+   "kind": "photo",
+   "subj": "ffdfd70042430303",
+   "credit": "Photos: Abhi009kk / Wikimedia Commons; Copernicus Sentinel-2, ESA / Wikimedia Commons"
+  }
  },
  "modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named": {
   "id": "i-modi-diwali-morning-wishes-vice-president-meeting-soldiers-location-not-named",
@@ -41671,7 +41708,16 @@
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)",
   "page": null,
   "srcWidth": 676,
-  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage"
+  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage",
+  "treated": {
+   "src": "/photos/t-modi-heads-to-bastar-diwali-security-forces-1280.jpg",
+   "src800": "/photos/t-modi-heads-to-bastar-diwali-security-forces-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photo: Government of India / Wikimedia Commons, GODL-India"
+  }
  },
  "rajnath-singh-reaches-sherathang-diwali-nathu-la": {
   "id": "o-rajnath-singh-reaches-sherathang-diwali-nathu-la",
@@ -41933,7 +41979,16 @@
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)",
   "page": null,
   "srcWidth": 784,
-  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage"
+  "nohome": "two photos of the same person: needs a real event photo before it goes back on the homepage",
+  "treated": {
+   "src": "/photos/t-modi-bastar-cobra-karanpur-diwali-naxalism-won-1280.jpg",
+   "src800": "/photos/t-modi-bastar-cobra-karanpur-diwali-naxalism-won-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
  },
  "hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8": {
   "id": "i-hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8",
@@ -42900,7 +42955,20 @@
     "src800": "/photos/i-diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-ujjain-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of an Indian building fire; quick_photo (only an unrelated tanker fire), finder h0908 failed (GitHub Actions), Commons API rate-limited"
+  "nophoto": "no free photo of an Indian building fire; quick_photo (only an unrelated tanker fire), finder h0908 failed (GitHub Actions), Commons API rate-limited",
+  "treated": {
+   "src": "/photos/t-diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-uj-1280.jpg",
+   "src800": "/photos/t-diwali-night-fires-thane-raheja-delhi-narela-mohan-garden-uj-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
+    "sebi-proposes-sme-ipo-norms-market-cap-lower-application",
+    "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda"
+   ],
+   "kind": "scenes",
+   "subj": "fffffffc00000000",
+   "credit": "Photos: Prami.ap90 / Wikimedia Commons; Saadabdullah007 / Wikimedia Commons; Wikimedia commons / Wikimedia Commons"
+  }
  },
  "alcaraz-beats-shelton-paris-masters-final-first-title": {
   "id": "o-alcaraz-beats-shelton-paris-masters-final-first-title",
@@ -42926,7 +42994,16 @@
   "licence": "CC BY 4.0",
   "alt": "COP31 President Murat Kurum, Turkey's Environment Minister, at a meeting (file photo)",
   "alt_hi": "कॉप31 के अध्यक्ष और तुर्की के पर्यावरण मंत्री मुरात कुरुम एक बैठक में (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg",
+  "treated": {
+   "src": "/photos/t-cop31-opens-antalya-turkey-australia-negotiations-india-posi-1280.jpg",
+   "src800": "/photos/t-cop31-opens-antalya-turkey-australia-negotiations-india-posi-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "dfcf8787879fff",
+   "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons"
+  }
  },
  "anuj-shrivatri-india-100th-grandmaster-asean-plus-open": {
   "id": "i-anuj-shrivatri-india-100th-grandmaster-asean-plus-open",
@@ -43828,7 +43905,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Seddon Park, Hamilton, the venue for the third ODI (file photo)",
   "alt_hi": "हैमिल्टन का सेडन पार्क, तीसरे वनडे का मैदान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Seddon_Park.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Seddon_Park.jpg",
+  "treated": {
+   "src": "/photos/t-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-1280.jpg",
+   "src800": "/photos/t-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-640.jpg",
+   "cutout": false,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "keralam-orange-alert-five-districts-heavy-rain",
+    "krbl-q2-profit-50-per-cent-india-gate-basmati"
+   ],
+   "kind": "photo",
+   "subj": "ffffffff7f000000",
+   "credit": "Photos: JaumeBG / Wikimedia Commons; Phillip Capper / Wikimedia Commons; Prasad Pillai from Muscat, Oman / Wikimedia Commons; Veikko Mäkelä / Wikimedia Commons"
+  }
  },
  "turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing": {
   "id": "i-turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing",
@@ -44058,7 +44148,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Jensen Huang (file photo)",
   "alt_hi": "जेन्सेन हुआंग (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_010.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_010.jpg",
+  "treated": {
+   "src": "/photos/t-us-chip-export-controls-explained-nvidia-megaspeed-congress--1280.jpg",
+   "src800": "/photos/t-us-chip-export-controls-explained-nvidia-megaspeed-congress--640.jpg",
+   "cutout": true,
+   "with": [
+    "us-midterms-voting-under-way-house-senate-57-million-early",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "china-q3-gdp-data-due-today-asia-rates-week"
+   ],
+   "kind": "photo",
+   "subj": "9fbf9393a7838100",
+   "credit": "Photos: Anderseidesvik / Wikimedia Commons; Alex Johnson from Ft. Lauderdale FL, USA / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; N509FZ / Wikimedia Commons"
+  }
  },
  "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not": {
   "id": "o-rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
@@ -44490,7 +44593,20 @@
   "licence": "GODL-India",
   "alt": "Bhagwant Mann (file photo)",
   "alt_hi": "भगवंत मान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg",
+  "treated": {
+   "src": "/photos/t-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explain-1280.jpg",
+   "src800": "/photos/t-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explain-640.jpg",
+   "cutout": false,
+   "with": [
+    "election-calendar",
+    "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
+    "mansa-jhota-accused-held-rajasthan-punjab-bandh-today"
+   ],
+   "kind": "photo",
+   "subj": "ffff7e661e180000",
+   "credit": "Photos: Indian Embassy in Seoul, South Korea / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
  },
  "uttarakhand-election-2027-70-seats-dhami-bjp-congress": {
   "id": "o-uttarakhand-election-2027-70-seats-dhami-bjp-congress",
@@ -44503,7 +44619,20 @@
   "licence": "CC BY 4.0",
   "alt": "Uttarakhand Chief Minister Pushkar Singh Dhami (centre) receives a bouquet (file photo)",
   "alt_hi": "गुलदस्ता लेते उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी (बीच में) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Kartik_Paliwal_with_Pushkar_Singh_Dhami_and_Mohan_Singh_Mehra.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Kartik_Paliwal_with_Pushkar_Singh_Dhami_and_Mohan_Singh_Mehra.jpg",
+  "treated": {
+   "src": "/photos/t-uttarakhand-election-2027-70-seats-dhami-bjp-congress-1280.jpg",
+   "src800": "/photos/t-uttarakhand-election-2027-70-seats-dhami-bjp-congress-640.jpg",
+   "cutout": false,
+   "with": [
+    "udham-singh-nagar-farmer-shot-dead-sitarganj",
+    "dhal-singh-bisen-sworn-in-uttarakhand-governor",
+    "parliamentary-committees-jpc-standing-select-explained"
+   ],
+   "kind": "photo",
+   "subj": "cece6e7e7c7",
+   "credit": "Photos: Kartik Paliwal / Wikimedia Commons; RaviVerma2018 / Wikimedia Commons; Utkarsh saxena / Wikimedia Commons; Reply.rajrewal / Wikimedia Commons"
+  }
  },
  "goa-election-2027-40-seats-bjp-congress-aap-goa-forward": {
   "id": "o-goa-election-2027-40-seats-bjp-congress-aap-goa-forward",
@@ -44570,7 +44699,19 @@
   "alt": "Nirmala Sitharaman (file photo)",
   "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg",
-  "notreat": true
+  "treated": {
+   "src": "/photos/t-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-1280.jpg",
+   "src800": "/photos/t-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-640.jpg",
+   "cutout": true,
+   "with": [
+    "8th-pay-commission-explained-salary-pension-fitment-factor",
+    "rupee-slips-12-paise-94-93-brent-fii-selling-october-23",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "photo",
+   "subj": "101c1e3e7e7eff",
+   "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons"
+  }
  },
  "pm-kisan-25th-instalment-date-status-ekyc-explained": {
   "id": "o-pm-kisan-25th-instalment-date-status-ekyc-explained",
@@ -44584,7 +44725,19 @@
   "alt": "Shivraj Singh Chouhan (file photo)",
   "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg",
-  "notreat": true
+  "treated": {
+   "src": "/photos/t-pm-kisan-25th-instalment-date-status-ekyc-explained-1280.jpg",
+   "src800": "/photos/t-pm-kisan-25th-instalment-date-status-ekyc-explained-640.jpg",
+   "cutout": true,
+   "with": [
+    "pm-kisan-25th-instalment-date-status-ekyc-explained--p1",
+    "economy-dashboard",
+    "chouhan-women-farmers-recognition-sanchi"
+   ],
+   "kind": "photo",
+   "subj": "ff3310000c7cfffb",
+   "credit": "Photos: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons; Anil Kaushik / Wikimedia Commons; Rakesh from Bangalore / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons"
+  }
  },
  "8th-pay-commission-explained-salary-pension-fitment-factor": {
   "id": "o-8th-pay-commission-explained-salary-pension-fitment-factor",
@@ -44622,7 +44775,19 @@
   "alt": "Akali Dal president Sukhbir Singh Badal addressing a public meeting in Lambi (file photo)",
   "alt_hi": "लंबी में एक जनसभा को संबोधित करते अकाली दल अध्यक्ष सुखबीर सिंह बादल (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Sukhbir_Singh_Badal_2.jpg",
-  "notreat": true
+  "treated": {
+   "src": "/photos/t-akali-dal-bjp-alliance-punjab-2027-explained-1280.jpg",
+   "src800": "/photos/t-akali-dal-bjp-alliance-punjab-2027-explained-640.jpg",
+   "cutout": true,
+   "with": [
+    "rabi-msp-wheat-up-rs-25-per-quintal",
+    "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+    "womens-reservation-33-per-cent-when-will-it-start-explained"
+   ],
+   "kind": "photo",
+   "subj": "fffffc0c00000c3c",
+   "credit": "Photos: Kuldeep Singh Deep / Wikimedia Commons; Sarbjit Bahga / Wikimedia Commons; CIAT / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons"
+  }
  },
  "akali-dal-bjp-alliance-punjab-2027-explained--p1": {
   "id": "o-akali-dal-bjp-alliance-punjab-2027-explained--p1",
@@ -45005,13 +45170,24 @@
   "src800": "/photos/o-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 858,
+  "srcWidth": 583,
   "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
   "licence": "GODL-India",
-  "alt": "Union Health Minister J. P. Nadda (file photo)",
-  "alt_hi": "केंद्रीय स्वास्थ्य मंत्री जे. पी. नड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg",
-  "notreat": true
+  "alt": "Union Health Minister J. P. Nadda at a press conference (file photo)",
+  "alt_hi": "एक प्रेस कॉन्फ्रेंस में केंद्रीय स्वास्थ्य मंत्री जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_J.P._Nadda_addressing_a_press_conference_on_the_General_Budget_2018-19,_in_New_Delhi_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-1280.jpg",
+   "src800": "/photos/t-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-640.jpg",
+   "cutout": true,
+   "with": [
+    "sahajanand-medical-bonfiglioli-listing-debut",
+    "dghs-warns-hospitals-reuse-single-use-medical-devices"
+   ],
+   "kind": "photo",
+   "subj": "e7c39bffff3c1800",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons"
+  }
  },
  "manipur-election-2027-60-seats-after-presidents-rule": {
   "id": "i-manipur-election-2027-60-seats-after-presidents-rule",
@@ -45158,7 +45334,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Sheikh Hasina (file photo)",
   "alt_hi": "शेख़ हसीना (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_Gopalganj_in_2023.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_Gopalganj_in_2023.jpg",
+  "treated": {
+   "src": "/photos/t-hasina-passport-request-dhaka-refuses-extradition-india-1280.jpg",
+   "src800": "/photos/t-hasina-passport-request-dhaka-refuses-extradition-india-640.jpg",
+   "cutout": false,
+   "with": [
+    "bangladesh-per-capita-gdp-overtakes-india-imf-2026",
+    "himanta-sarma-30-infiltrators-stopped-assam-border",
+    "iran-designates-royal-navy-raf-terrorist-mi6-hostile--p1"
+   ],
+   "kind": "photo",
+   "subj": "fcfce4e4c46858fe",
+   "credit": "Photos: DelwarHossain / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons; Arupparia / Wikimedia Commons; Txllxt TxllxT / Wikimedia Commons"
+  }
  },
  "pmk-functionary-shot-dead-vellore-gudiyatham": {
   "id": "o-pmk-functionary-shot-dead-vellore-gudiyatham",
@@ -45171,7 +45360,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "PMK president Anbumani Ramadoss speaking at an event (file photo)",
   "alt_hi": "पीएमके अध्यक्ष अंबुमणि रामदास एक कार्यक्रम में बोलते हुए (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Anbumani_Ramadoss_at_A_Stroke_of_Disssonance_Short_Film_Launch.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Anbumani_Ramadoss_at_A_Stroke_of_Disssonance_Short_Film_Launch.jpg",
+  "treated": {
+   "src": "/photos/t-pmk-functionary-shot-dead-vellore-gudiyatham-1280.jpg",
+   "src800": "/photos/t-pmk-functionary-shot-dead-vellore-gudiyatham-640.jpg",
+   "cutout": false,
+   "with": [
+    "president-appoints-governors-six-states-keralam-tamil-nadu",
+    "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting"
+   ],
+   "kind": "photo",
+   "subj": "18387c7c7c7c7c3c",
+   "credit": "Photos: Sriram Narasimhan, Silverscreen Media Inc. / Wikimedia Commons; Bnarayan22 / Wikimedia Commons; L.vivian.richard at en.wikipedia / Wikimedia Commons"
+  }
  },
  "sc-digital-arrest-whatsapp-intermediaries-measures-november-23": {
   "id": "v-sc-digital-arrest-whatsapp-intermediaries-measures-november-",
@@ -45540,7 +45741,19 @@
   "alt": "US Secretary of State Marco Rubio, official portrait (file photo)",
   "alt_hi": "अमेरिकी विदेश मंत्री मार्को रुबियो, आधिकारिक चित्र (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg",
-  "notreat": true
+  "treated": {
+   "src": "/photos/t-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-1280.jpg",
+   "src800": "/photos/t-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-640.jpg",
+   "cutout": true,
+   "with": [
+    "iran-hands-us-nuclear-proposal-seven-demands--p1",
+    "pakistan-suspends-iran-trade-taftan-gabd-lpg",
+    "us-midterms-2026-explained-what-is-at-stake"
+   ],
+   "kind": "photo",
+   "subj": "181c1c1c5c1c18",
+   "credit": "Photos: U.S. Department of State / Wikimedia Commons; Amohammadid / Wikimedia Commons; Safa.daneshvar / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+  }
  },
  "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one": {
   "id": "o-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
@@ -45579,6 +45792,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Sri Lanka's Asitha Fernando bowling to Babar Azam in a Test in Colombo (file photo)",
   "alt_hi": "कोलंबो टेस्ट में बाबर आज़म को गेंदबाज़ी करते श्रीलंका के असिथा फर्नांडो (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Asitha_Fernando_vs_Babar_Azam,_Colombo_2023.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Asitha_Fernando_vs_Babar_Azam,_Colombo_2023.jpg",
+  "treated": {
+   "src": "/photos/t-sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test--1280.jpg",
+   "src800": "/photos/t-sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test--640.jpg",
+   "cutout": false,
+   "with": [
+    "gwadar-attack-foiled-three-militants-killed",
+    "karachi-polio-case-pakistan-tally-seven",
+    "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview"
+   ],
+   "kind": "photo",
+   "subj": "e0e0f0fe7e3e3e00",
+   "credit": "Photos: Nazly Ahmed / Wikimedia Commons; Insia.rakla / Wikimedia Commons; Steve Evans from Bangalore, India / Wikimedia Commons; Dibyajeet Dash / Wikimedia Commons"
+  }
  }
 }
