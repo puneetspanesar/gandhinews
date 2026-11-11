@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+    "id": "tn-mha-governor-report-law-and-order-deepavali-murders",
     "overlay": {
       "kicker": {
-        "en": "Politics / Election Commission",
-        "hi": "राजनीति / चुनाव आयोग"
+        "en": "States / Tamil Nadu",
+        "hi": "राज्य / तमिलनाडु"
       },
       "value": {
-        "en": "Keralam probe into CEC goes on",
-        "hi": "सीईसी के खिलाफ केरलम की जांच जारी"
+        "en": "Centre seeks Governor's law and order report",
+        "hi": "केंद्र ने मांगी राज्यपाल से रिपोर्ट"
       },
       "text": {
         "en": "",
@@ -18,17 +18,50 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "sangrur-prtc-bus-flyover-crash-three-killed"
+      "india-saudi-haj-2027-quota-175025-rijiju-jeddah"
     ],
     "live": {
       "title": {
-        "en": "Election Commission",
-        "hi": "चुनाव आयोग"
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+        "lead": {
+          "en": "Haj:",
+          "hi": "हज:"
+        },
+        "text": {
+          "en": "India keeps its Haj quota at 1,75,025 for 2027 after Rijiju signs pact in Jeddah",
+          "hi": "रिजिजू ने जेद्दा में किया समझौता, 2027 के लिए भारत का हज कोटा 1,75,025 पर बरकरार"
+        }
+      },
+      {
+        "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Suryakumar to captain Mumbai and Sooryavanshi, 15, Bihar as the Syed Mushtaq Ali Trophy opens Saturday",
+          "hi": "सूर्यकुमार मुंबई और 15 साल के सूर्यवंशी बिहार के कप्तान, सैयद मुश्ताक अली ट्रॉफी शनिवार से"
+        }
+      },
+      {
+        "link": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+        "lead": {
+          "en": "Books:",
+          "hi": "किताबें:"
+        },
+        "text": {
+          "en": "M John Harrison, 81, wins the Booker Prize for The End of Everything, the oldest winner yet",
+          "hi": "81 साल के एम जॉन हैरिसन को 'द एंड ऑफ एवरीथिंग' के लिए बुकर पुरस्कार, अब तक के सबसे उम्रदराज विजेता"
+        }
+      },
       {
         "link": "sangrur-prtc-bus-flyover-crash-three-killed",
         "lead": {
@@ -38,6 +71,17 @@
         "text": {
           "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
           "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
+        }
+      },
+      {
+        "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Abu Dhabi talks end with a large Russia-Ukraine prisoner swap agreed, but no deal on the war itself",
+          "hi": "अबू धाबी वार्ता खत्म: रूस-यूक्रेन के बीच बड़ी कैदी अदला-बदली पर सहमति, युद्ध पर कोई समझौता नहीं"
         }
       },
       {
@@ -52,69 +96,25 @@
         }
       },
       {
-        "link": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "Assam:",
+          "hi": "असम:"
         },
         "text": {
-          "en": "Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two",
-          "hi": "ज़ेलेंस्की का दावा: रूसी टीम ने यूक्रेन के कब्ज़े वाले आधे डोनबास पर नियंत्रण जताया, अबू धाबी में दूसरे दिन वार्ता फिर शुरू"
+          "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
+          "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
         }
       },
       {
-        "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "link": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Cybercrime:",
+          "hi": "साइबर अपराध:"
         },
         "text": {
-          "en": "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Rawalpindi",
-          "hi": "रावलपिंडी में पाकिस्तान ने 434 पर पारी घोषित की, श्रीलंका 114/3 पर, अब भी 320 रन पीछे"
-        }
-      },
-      {
-        "link": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today",
-          "hi": "अबू धाबी में रूस, यूक्रेन और अमेरिका की चार घंटे की बातचीत, फरवरी के बाद पहली, आज दूसरा दिन"
-        }
-      },
-      {
-        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-        "lead": {
-          "en": "SIR:",
-          "hi": "एसआईआर:"
-        },
-        "text": {
-          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
-          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
-        }
-      },
-      {
-        "link": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The poll code now binds retired officials. The Election Commission should publish the letter and name the penalty",
-          "hi": "आचार संहिता अब रिटायर अधिकारियों पर भी लागू। चुनाव आयोग पत्र सार्वजनिक करे और सज़ा बताए"
-        }
-      },
-      {
-        "link": "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Gidipabali's six missing deserve a death certificate, not a wait, and Ganjam deserves the dam log",
-          "hi": "गिदिपाबली के छह लापता लोगों को इंतज़ार नहीं, मृत्यु प्रमाणपत्र मिलना चाहिए, और गंजाम को बांध का रिकॉर्ड"
+          "en": "Digital arrest scams explained: how the fraud works and what the Supreme Court wants banks and WhatsApp to do",
+          "hi": "डिजिटल अरेस्ट ठगी क्या है, कैसे होती है, और सुप्रीम कोर्ट ने बैंकों और व्हाट्सऐप से क्या कहा"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+      "id": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
       "also": []
     },
     "list": [
-      "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-      "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
+      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+      "sangrur-prtc-bus-flyover-crash-three-killed",
+      "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+      "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
     ],
     "also": [
-      "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
-      "digital-arrest-victims-should-be-repaid-by-the-bank-first"
+      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+      "extradition-explained-hasina-india-bangladesh-treaty"
     ]
   },
   "startHere": [
@@ -394,20 +394,20 @@
     },
     {
       "section": "states",
-      "lead": "sangrur-prtc-bus-flyover-crash-three-killed",
+      "lead": "tn-mha-governor-report-law-and-order-deepavali-murders",
       "list": [
+        "sangrur-prtc-bus-flyover-crash-three-killed",
         "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "pmk-functionary-shot-dead-vellore-gudiyatham"
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi"
       ]
     },
     {
       "section": "policy",
-      "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "lead": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
       "list": [
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11"
       ]
     },
     {
@@ -422,10 +422,10 @@
   "desks": [
     {
       "section": "world",
-      "lead": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+      "lead": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
       "list": [
+        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
         "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
       ]
     },
@@ -440,12 +440,12 @@
     },
     {
       "section": "sports",
-      "lead": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+      "lead": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
       "list": [
+        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "india-a-nz-a-lincoln-third-test-draw-series-level",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
+        "india-women-squads-south-africa-tour-mandhana-captain-all-formats"
       ]
     }
   ],
@@ -523,20 +523,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T10:32:59+05:30",
-      "ids": [
-        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
-      ]
-    },
     {
       "at": "2026-11-11T12:58:04+05:30",
       "ids": [
@@ -638,6 +624,20 @@
         "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
         "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
         "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
+      ]
+    },
+    {
+      "at": "2026-11-11T21:40:26+05:30",
+      "ids": [
+        "tn-mha-governor-report-law-and-order-deepavali-murders",
+        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
       ]
     }
   ],

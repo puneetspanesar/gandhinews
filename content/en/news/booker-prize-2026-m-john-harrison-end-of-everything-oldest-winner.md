@@ -102,7 +102,7 @@ The Booker Foundation's own description of the book calls it "shimmering and obl
 
 Harrison has written for about 60 years, mostly science fiction, and has worked as a critic too. His 2006 novel *Nova Swing* won both the Arthur C. Clarke Award and the Philip K. Dick Award.
 
-Speaking to BBC Radio 4's *Front Row*, he said he was "very excited that a fiction of this type should be shortlisted, and that it should have been mine". He said he had been **"working for 40 to 50 years to shift the balance"**, as a novelist and as a critic. "Why shouldn't a well-written (work of science fiction) be considered to be literary fiction?" he asked.
+In a radio interview, he said he was "very excited that a fiction of this type should be shortlisted, and that it should have been mine". He said he had been **"working for 40 to 50 years to shift the balance"**, as a novelist and as a critic. "Why shouldn't a well-written (work of science fiction) be considered to be literary fiction?" he asked.
 
 His reaction on the night was more rueful. "I feel like a proper writer at last, totally lacking in confidence," Harrison said. He also said prizes such as the Booker matter a great deal in what he called a landscape of industrialised fiction.
 

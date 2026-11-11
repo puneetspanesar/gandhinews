@@ -106,7 +106,7 @@ The agreement text has not been published. The quota is the only term the consul
 
 Rijiju reached Jeddah on November 6 for the 6th Haj Conference and Exhibition 2027. In a post on X that evening he said he hoped the engagements would be productive, aimed at "ensuring a smooth, safe and comfortable Haj journey for all Indian pilgrims."
 
-On November 8 he attended the inauguration of the conference and took part in a ministerial conference chaired by Al-Rabiah. He also joined visiting ministers in talks with Prince Saud bin Mishaal bin Abdulaziz Al Saud, Deputy Governor of the Makkah Region. That evening he went to the Noor-e-Diwali celebration at India House in Jeddah, where he called the Indian community a "living bridge of friendship and goodwill," according to the release carried by DD India.
+On November 8 he attended the inauguration of the conference and took part in a ministerial conference chaired by Al-Rabiah. He also joined visiting ministers in talks with Prince Saud bin Mishaal bin Abdulaziz Al Saud, Deputy Governor of the Makkah Region. That evening he went to the Noor-e-Diwali celebration at India House in Jeddah, where he called the Indian community a "living bridge of friendship and goodwill," according to the government release.
 
 He also chaired a review meeting with officials of the Consulate General, the Ministry of Minority Affairs and the Haj Committee of India on Haj 2027 preparations.
 
@@ -130,6 +130,6 @@ Under the Haj Committee's guidelines, a selected pilgrim pays an advance of **â‚
 
 ## What comes next
 
-The guidelines put outbound Haj flights tentatively between **April 8 and May 9, 2027**, with return flights from May 21 to June 20. Pilgrims drawn by lot must send their documents to their State Haj Committee within a week of the draw. Cancellation costs â‚¹5,000 per pilgrim up to September 30, 2026, and there is no refund after January 31, 2027.
+The guidelines put outbound Haj flights tentatively between **April 8 and May 9, 2027**, with return flights from May 21 to June 20. Pilgrims drawn by lot must send their documents to their State Haj Committee within a week of the draw. There is no refund for a cancellation after January 31, 2027.
 
 Rijiju told his Saudi counterpart that India would cooperate fully for Haj 2027 and praised the conduct of Haj 2026. The guidelines left the date of the draw of lots to be announced by the Haj Committee.

@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Tamil Nadu"
 topics: []
-title: "Home Ministry seeks Governor Arlekar's report on Tamil Nadu law and order after Deepavali killings"
+title: "Home Ministry reportedly seeks Governor Arlekar's report on Tamil Nadu law and order after Deepavali killings"
 standfirst: "The Centre wants the Governor's assessment of recent violent crime and of the steps the Vijay government has taken. Opposition parties say more than 10 people were killed on Deepavali day; the state puts the number at eight."
 published: 2026-11-11T21:06:41+05:30
 location: Chennai
@@ -17,7 +17,7 @@ hero:
   need: "Union Home Minister Amit Shah and Tamil Nadu Chief Minister Vijay"
   suggested_source: "Amit Shah"
   subjects: ["Amit Shah", "Vijay"]
-  alt: "Governor Rajendra Arlekar, seen with Prime Minister Narendra Modi, and Leader of the Opposition Udhayanidhi Stalin (file photos)"
+  alt: "Tamil Nadu Governor Rajendra Vishwanath Arlekar (left) calls on Vice-President C. P. Radhakrishnan in New Delhi, November 6, 2026"
   overlay:
     value: "Centre seeks Governor's law and order report"
 infographic:

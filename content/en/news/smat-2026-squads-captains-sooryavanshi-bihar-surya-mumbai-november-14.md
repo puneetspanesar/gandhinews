@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Cricket"
 topics: []
-title: "Sooryavanshi, 15, to captain Bihar and Suryakumar Mumbai as the Syed Mushtaq Ali Trophy opens Saturday"
+title: "Suryakumar to captain Mumbai and Sooryavanshi, 15, Bihar as the Syed Mushtaq Ali Trophy opens Saturday"
 standfirst: "The 38-team T20 tournament starts on November 14 with Jharkhand defending. Shami, Ishant Sharma and Harshit Rana are in the squads named so far, and Bihar's teenage captain leads the first two matches."
 published: 2026-11-11T21:12:21+05:30
 location: Indore
@@ -113,10 +113,6 @@ The 16-man squad is Suryakumar, Angkrish Raghuvanshi, Hardik Tamore, Sarfaraz Kh
 **Delhi** are captained by Ayush Badoni, who has [scored a run of big Ranji hundreds](/en/news/badoni-217-sarfaraz-patidar-tons-ranji-day-two) this season. The squad has Priyansh Arya, Yash Dhull, Ishant Sharma, Harshit Rana, Mayank Yadav, Suyash Sharma and Digvesh Rathi. **Tamil Nadu** are led by R Sai Kishore, with T Natarajan, Varun Chakravarthy and N Jagadeesan, and **Baroda** by Krunal Pandya, with Deepak Hooda and Jitesh Sharma.
 
 Delhi and Tamil Nadu are both in Bihar's group, so Sooryavanshi's side will face two of these squads within the league stage.
-
-```photo
-{"n": 2, "subject": "Vaibhav Sooryavanshi", "caption": "Vaibhav Sooryavanshi, who captains Bihar, with Prime Minister Narendra Modi (file photo).", "alt": "Vaibhav Sooryavanshi meets Prime Minister Narendra Modi (file photo)"}
-```
 
 ## Why it matters
 
