@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+    "id": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Rubio: no need for major combat on Iran",
-        "hi": "रुबियो: ईरान पर बड़े हमले की जरूरत नहीं"
+        "en": "Abu Dhabi talks: 4 hours, day two today",
+        "hi": "अबू धाबी वार्ता: 4 घंटे, आज दूसरा दिन"
       },
       "text": {
         "en": "",
@@ -18,17 +18,28 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
+      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "lead": {
+          "en": "Assam:",
+          "hi": "असम:"
+        },
+        "text": {
+          "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
+          "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
+        }
+      },
       {
         "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "lead": {
@@ -41,80 +52,69 @@
         }
       },
       {
-        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
-          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
+          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
+          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
         }
       },
       {
-        "link": "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
         "lead": {
-          "en": "Election Commission:",
-          "hi": "चुनाव आयोग:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "EC extends poll code curbs to retired officials re-engaged by five poll-bound states",
-          "hi": "चुनाव आयोग ने पांच चुनावी राज्यों में फिर से नियुक्त सेवानिवृत्त अधिकारियों पर भी लागू की आचार संहिता"
+          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
+          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
         }
       },
       {
-        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
-        },
-        "text": {
-          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
-          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
-        }
-      },
-      {
-        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
-          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
-        }
-      },
-      {
-        "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
-          "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
+          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
+          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
         }
       },
       {
-        "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "lead": {
-          "en": "Urban Affairs:",
-          "hi": "शहरी विकास:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
-          "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
+          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
+          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
         }
       },
       {
-        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
         "lead": {
-          "en": "Gujarat:",
-          "hi": "गुजरात:"
+          "en": "SIR:",
+          "hi": "एसआईआर:"
         },
         "text": {
-          "en": "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
-          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
+          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
+          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
+        }
+      },
+      {
+        "link": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The poll code now binds retired officials. The Election Commission should publish the letter and name the penalty",
+          "hi": "आचार संहिता अब रिटायर अधिकारियों पर भी लागू। चुनाव आयोग पत्र सार्वजनिक करे और सज़ा बताए"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+      "id": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
       "also": []
     },
     "list": [
-      "eci-extends-poll-code-curbs-retired-officials-five-states",
-      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-      "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-      "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+      "pmk-functionary-shot-dead-vellore-gudiyatham",
+      "hasina-passport-request-dhaka-refuses-extradition-india",
+      "india-a-nz-a-lincoln-third-test-draw-series-level",
+      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
     ],
     "also": [
-      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+      "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
     ]
   },
   "startHere": [
@@ -376,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "lead": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +387,18 @@
         ]
       },
       "list": [
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
+        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
       ]
     },
     {
       "section": "states",
-      "lead": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+      "lead": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
       "list": [
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
       ]
     },
     {
@@ -424,9 +424,9 @@
       "section": "world",
       "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
       "list": [
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "hasina-passport-request-dhaka-refuses-extradition-india",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
     },
     {
@@ -522,23 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T20:36:18+05:30",
-      "ids": [
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "manipur-election-2027-60-seats-after-presidents-rule",
-        "delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data",
-        "8th-pay-commission-explained-salary-pension-fitment-factor",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
-      ]
-    },
     {
       "at": "2026-11-10T22:36:23+05:30",
       "ids": [
@@ -642,6 +625,20 @@
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+      ]
+    },
+    {
+      "at": "2026-11-11T10:32:59+05:30",
+      "ids": [
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
       ]
     }
   ],

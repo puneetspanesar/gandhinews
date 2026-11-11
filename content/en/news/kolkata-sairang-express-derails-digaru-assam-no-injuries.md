@@ -100,6 +100,6 @@ The derailment comes in **a week of rail incidents**. Four coaches of the Karmab
 
 As of 10:15 am, **no inquiry had been announced** in the statements available, and none gave a time for the line to reopen or named other trains held up. The railway has not said whether the loco pilot has been questioned or taken off duty.
 
-For passengers on 13125, the immediate question is the onward journey: **an alternate train** arranged by NFR is meant to carry them to their destinations., and the statement carried no helpline number.
+For passengers on 13125, the immediate question is the onward journey: **an alternate train** arranged by NFR is meant to carry them to their destinations, and the statement carried no helpline number.
 
 This report will be updated when NFR or the Railway Ministry issues a further statement on the cause, the inquiry or the restoration of services.

@@ -1,0 +1,29 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-11T10:06:20+05:30",
+ "end": "2026-11-11T10:35:15+05:30",
+ "summary": "Digaru derailment story, markets band opened, homepage refreshed",
+ "new": [
+  "kolkata-sairang-express-derails-digaru-assam-no-injuries"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+   "why": "English text, last paragraph but one, has broken punctuation: 'is meant to carry them to their destinations., and the statement carried no helpline number.' (the stray '.,' reads as a botched edit). Pictures pass: story is marked NOPHOTO, so the infographic stands; figures (6:54 am, 0 injured, loco + 5 coaches, Train 13125) match the NFR statement as cited, no em dash, no outlet named in the body, Hindi twin matches.",
+   "done": "Replaced 'destinations., and' with 'destinations, and' in the English file; Hindi already correct."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 08:55 as well: abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "led at 08:55 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "led or sat beside the lead at 08:46 as well: abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "led at 08:46 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "led or sat beside the lead at 08:44 as well: abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "led at 08:44 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "led or sat beside the lead at 06:40 as well: abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+ ],
+ "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+}
