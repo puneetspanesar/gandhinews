@@ -34,12 +34,10 @@ infographic:
     - {icon: users, value: "3% से 7%", label: "2022 के कानून से एसटी कोटा बढ़ा, अब रद्द"}
     - {icon: scales, value: "56%", label: "कुल आरक्षण, 50% की सीमा के मुकाबले"}
   timeline:
-    title: "मामला कैसे आगे बढ़ा"
-    items:
-      - {date: "12 जनवरी 2023", text: "2022 का कोटा कानून लागू", icon: calendar}
-      - {date: "12 अक्टूबर 2026", text: "हाईकोर्ट ने धारा 3 और 4 रद्द कीं", icon: gavel}
-      - {date: "15 अक्टूबर 2026", text: "कैबिनेट ने अपील का फैसला किया", icon: bank}
-      - {date: "11 नवंबर 2026", text: "सुप्रीम कोर्ट में अपील दायर होने की जानकारी", icon: scales}
+    - {date: "12 जनवरी 2023", text: "2022 का कोटा कानून लागू", icon: calendar}
+    - {date: "12 अक्टूबर 2026", text: "हाईकोर्ट ने धारा 3 और 4 रद्द कीं", icon: gavel}
+    - {date: "15 अक्टूबर 2026", text: "कैबिनेट ने अपील का फैसला किया", icon: bank}
+    - {date: "11 नवंबर 2026", text: "सुप्रीम कोर्ट में अपील दायर होने की जानकारी", icon: scales}
   source: "कर्नाटक हाईकोर्ट; मुख्यमंत्री कार्यालय की विज्ञप्ति, 11 नवंबर 2026"
 sources:
   - title: "Karnataka moves Supreme Court against HC verdict quashing SC/ST quota hike"

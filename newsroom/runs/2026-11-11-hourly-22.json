@@ -1,0 +1,26 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-11T22:04:20+05:30",
+ "end": "2026-11-11T22:36:36+05:30",
+ "summary": "Karnataka SC/ST quota appeal leads; seafarer, Haryana courts, Rawalpindi day three, evening-courts editorial, Parameshwara fact check",
+ "new": [
+  "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
+  "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+  "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+  "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+  "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+  "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+   "why": "Main picture is a distant night shot from an old Australia match: the batter is tiny, his face is not recognisable (helmet, side-on, far away), and he is in the act of being stumped (bails lit), which is the opposite of a story about an unbeaten 249 stand. Caption 'Kusal Mendis batting' cannot be verified from the image. Body text also has a typo: 'added 90 for the fourth wicket,.'",
+   "done": "Wrong night stumping photo replaced by the story's infographic (--nophoto: no free close photo of de Silva or Kusal Mendis in library, quick_photo or finder h1122); stray ',.' removed."
+  }
+ ],
+ "breaches": [],
+ "lead": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
+}

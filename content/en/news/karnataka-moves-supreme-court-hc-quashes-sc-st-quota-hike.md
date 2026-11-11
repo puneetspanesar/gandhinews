@@ -33,12 +33,10 @@ infographic:
     - {icon: users, value: "3% to 7%", label: "ST quota raised by the 2022 law, struck down"}
     - {icon: scales, value: "56%", label: "total reservation, against the 50% ceiling"}
   timeline:
-    title: "How the case has moved"
-    items:
-      - {date: "Jan 12, 2023", text: "The 2022 quota law takes effect", icon: calendar}
-      - {date: "Oct 12, 2026", text: "High Court strikes down Sections 3 and 4", icon: gavel}
-      - {date: "Oct 15, 2026", text: "Cabinet decides to appeal", icon: bank}
-      - {date: "Nov 11, 2026", text: "Appeal reported filed in the Supreme Court", icon: scales}
+    - {date: "Jan 12, 2023", text: "The 2022 quota law takes effect", icon: calendar}
+    - {date: "Oct 12, 2026", text: "High Court strikes down Sections 3 and 4", icon: gavel}
+    - {date: "Oct 15, 2026", text: "Cabinet decides to appeal", icon: bank}
+    - {date: "Nov 11, 2026", text: "Appeal reported filed in the Supreme Court", icon: scales}
   source: "Karnataka High Court; Chief Minister's Office release, November 11, 2026"
 sources:
   - title: "Karnataka moves Supreme Court against HC verdict quashing SC/ST quota hike"
@@ -90,17 +88,17 @@ The Bench accepted that the state has the legislative competence to make such a 
 
 ## The consultation gap
 
-The second strand of the ruling was procedural. Articles 338(9) and 338A(9) require the state to consult the National Commissions for SCs and STs on major policy decisions affecting those communities. Karnataka wrote to the commissions on December 10, 2025 and January 20, 2026, nearly three years after the Act took effect on January 12, 2023, and after it had been challenged in court. In the court's words, "simply writing to the commissions after the law had already been enacted could not be considered meaningful consultation."
+The second strand of the ruling was procedural. Articles 338(9) and 338A(9) require the state to consult the National Commissions for SCs and STs on major policy decisions affecting those communities. Karnataka wrote to the commissions on December 10, 2025, and January 20, 2026, nearly three years after the Act took effect on January 12, 2023, and after it had been challenged in court. In the court's words, "simply writing to the commissions after the law had already been enacted could not be considered meaningful consultation."
 
 ## How we got here
 
-The 2022 law followed the Nagamohan Das Commission, which recommended the increase in July 2020. According to the state's release, then Law Minister J C Madhuswamy said on October 7, 2022 that the enhanced quota would be placed in the Ninth Schedule, which shields laws from most judicial review. The BJP government of the time instead issued an ordinance and then passed the legislation before the 2023 Assembly elections.
+The 2022 law followed the Nagamohan Das Commission, which recommended the increase in July 2020. According to the state's release, then Law Minister J C Madhuswamy said on October 7, 2022, that the enhanced quota would be placed in the Ninth Schedule, which shields laws from most judicial review. The BJP government of the time instead issued an ordinance and then passed the legislation before the 2023 Assembly elections.
 
 ```timeline
 {"title":"The quota law and the challenge","items":[{"date":"July 2020","text":"Nagamohan Das Commission recommends the increase"},{"date":"January 12, 2023","text":"The 2022 law takes effect"},{"date":"November 27, 2025","text":"Interim order bars fresh recruitment under the law, except processes notified before November 19"},{"date":"December 18, 2025","text":"Assembly asks for Ninth Schedule inclusion"},{"date":"October 12, 2026","text":"High Court strikes down Sections 3 and 4"},{"date":"October 15, 2026","text":"Cabinet decides to appeal"},{"date":"November 11, 2026","text":"State says appeal has been filed"}]}
 ```
 
-The law was challenged in public interest petitions, including one by Raichur social worker Mahendra Kumar Mitra. On November 27, 2025 a Bench led by Chief Justice Bakhru kept the state's bar on fresh recruitment under the Act in force, allowed processes notified before November 19 to continue, and ordered that appointment and promotion letters must say they are subject to the final decision. On December 18, 2025 the Assembly passed a resolution asking the Centre to place the 56% quota in the Ninth Schedule.
+The law was challenged in public interest petitions, including one by Raichur social worker Mahendra Kumar Mitra. On November 27, 2025, a Bench led by Chief Justice Bakhru kept the state's bar on fresh recruitment under the Act in force, allowed processes notified before November 19 to continue, and ordered that appointment and promotion letters must say they are subject to the final decision. On December 18, 2025, the Assembly passed a resolution asking the Centre to place the 56% quota in the Ninth Schedule.
 
 ## The politics
 

@@ -88,7 +88,7 @@ The pair came together on the second evening with the score at 114 for 3, after 
 
 ## The morning session
 
-Pakistan's one success came early. Kamindu Mendis, resuming on 40, added 18 more for **58 from 131 balls** before Mohammad Abbas had him caught behind by Ghazi Ghori in the 42nd over. He and de Silva had added 90 for the fourth wicket,.
+Pakistan's one success came early. Kamindu Mendis, resuming on 40, added 18 more for **58 from 131 balls** before Mohammad Abbas had him caught behind by Ghazi Ghori in the 42nd over. He and de Silva had added 90 for the fourth wicket.
 
 After that the two set-in batters scored freely against an attack that had little experience. Razaullah, who has played one Test, went for 127 runs without a wicket from 23 overs, and Minhas conceded 92 without a wicket. Abbas ended with 2 for 64 and Saqib Khan 2 for 105, both of whose wickets came across days two and three.
 

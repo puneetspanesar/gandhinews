@@ -46215,16 +46215,47 @@
   "nophoto": "M. John Harrison: only a 425px Commons photo; not in library; quick_photo 0"
  },
  "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three": {
-  "id": "r-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
-  "src": "/photos/r-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-1280.jpg",
-  "src800": "/photos/r-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-640.jpg",
+  "id": "i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+  "src": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-en-3x2-1280.jpg",
+  "src800": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Neb / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Kusal Mendis batting (file photo)",
-  "alt_hi": "बल्लेबाज़ी करते कुसल मेंडिस (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Matthew_Wade_attempts_to_run_out_Kusal_Mendis.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sri Lanka within 30 of Pakistan",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: श्रीलंका पाकिस्तान से सिर्फ 30 पीछे",
+  "page": null,
+  "ihash": "50a28919dd0e",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-hi-3x2-1280.jpg",
+    "src800": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-en-t-1280.jpg",
+    "src800": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-hi-t-1280.jpg",
+    "src800": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-en-1280.jpg",
+    "src800": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-hi-1280.jpg",
+    "src800": "/photos/i-de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free close photo of Dhananjaya de Silva or Kusal Mendis; library, quick_photo, finder h1122 k8; Kusal Mendis night stumping shot rejected by the editor"
  },
  "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike": {
   "id": "o-karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
@@ -46237,7 +46268,20 @@
   "licence": "CC BY 3.0",
   "alt": "D. K. Shivakumar (file photo)",
   "alt_hi": "डी. के. शिवकुमार (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:DK_Shivakumar.png"
+  "page": "https://commons.wikimedia.org/wiki/File:DK_Shivakumar.png",
+  "treated": {
+   "src": "/photos/t-karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike-1280.jpg",
+   "src800": "/photos/t-karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike-640.jpg",
+   "cutout": true,
+   "with": [
+    "karnataka-hc-illegal-immigration-district-committees-three-months",
+    "flipkart-group-fy26-revenue-1-45-lakh-crore-loss-narrows",
+    "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+   ],
+   "kind": "photo",
+   "subj": "ef02000000757f7f",
+   "credit": "Photos: News World India / Wikimedia Commons; N. Vivekananthamoorthy / Wikimedia Commons; Gpkp / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "evening-courts-pilot-needs-published-targets-and-a-legal-basis": {
   "id": "o-evening-courts-pilot-needs-published-targets-and-a-legal-basis",
@@ -46250,7 +46294,20 @@
   "licence": "GODL-India",
   "alt": "Law Minister Arjun Ram Meghwal speaking at a Ministry of Law and Justice event (file photo)",
   "alt_hi": "कानून मंत्री अर्जुन राम मेघवाल विधि और न्याय मंत्रालय के एक कार्यक्रम में (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Arjun_Ram_Meghwal_2023.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Arjun_Ram_Meghwal_2023.jpg",
+  "treated": {
+   "src": "/photos/t-evening-courts-pilot-needs-published-targets-and-a-legal-bas-1280.jpg",
+   "src800": "/photos/t-evening-courts-pilot-needs-published-targets-and-a-legal-bas-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-local-polls-must-start-with-free-nominations",
+    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
+    "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+   ],
+   "kind": "photo",
+   "subj": "1f171f3c7c7c7c7f",
+   "credit": "Photos: Ministry of Law and Justice / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Saiphani02 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "parameshwara-constitution-says-reservation-in-proportion-to-population-claim": {
   "id": "o-parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
@@ -46263,7 +46320,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Karnataka Deputy Chief Minister G. Parameshwara (file photo)",
   "alt_hi": "कर्नाटक के उपमुख्यमंत्री जी. परमेश्वर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Dr_G_Parameshwara.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:Dr_G_Parameshwara.JPG",
+  "treated": {
+   "src": "/photos/t-parameshwara-constitution-says-reservation-in-proportion-to--1280.jpg",
+   "src800": "/photos/t-parameshwara-constitution-says-reservation-in-proportion-to--640.jpg",
+   "cutout": true,
+   "with": [
+    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1",
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back--p1",
+    "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+   ],
+   "kind": "photo",
+   "subj": "81810383113fbf3",
+   "credit": "Photos: Manjeshpv / Wikimedia Commons; SpeakingArch / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee": {
   "id": "i-haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",

@@ -55,7 +55,7 @@ verification:
   status: approved
   notes:
     - "Editorial view of the desk. Pilot details (Delhi, Bihar, Andhra Pradesh; retired judges; with respective High Courts; review then expansion; Lok Adalats and ADR) from Bar & Bench, Nov 11, which paraphrases an interview Meghwal gave; no direct quote used. UNI (paywalled, partly read) says he spoke to reporters in Barpar, Deoria, and mentions retired judges and AI."
-    - "5.64 crore total and 80,660 High Court cases over 30 years, from the written Rajya Sabha reply of July 23, 2026 as reported; the PIB/Rajya Sabha text and the NJDG portal could not be opened in this run, so the figures are reported, not primary, and carry no NJDG date."
+    - "5.64 crore total and 80,660 High Court cases over 30 years, from the written Rajya Sabha reply of July 23, 2026, as reported; the PIB/Rajya Sabha text and the NJDG portal could not be opened in this run, so the figures are reported, not primary, and carry no NJDG date."
     - "No funding, legal basis or start date found in any source. Statements about what the pilot lacks mean 'not stated in what we could read'."
     - "Recommendations are the desk's own."
 ---

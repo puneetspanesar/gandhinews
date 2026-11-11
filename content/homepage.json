@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+    "id": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "Politics / Karnataka",
+        "hi": "राजनीति / कर्नाटक"
       },
       "value": {
-        "en": "Abu Dhabi: big prisoner swap agreed",
-        "hi": "अबू धाबी: बड़ी कैदी अदला-बदली पर सहमति"
+        "en": "Karnataka takes SC/ST quota fight to the Supreme Court",
+        "hi": "एससी/एसटी कोटे की लड़ाई सुप्रीम कोर्ट में"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "two-child-norm-explained-javed-ruling-larger-bench",
+      "oral-mentioning-explained-supreme-court-senior-counsel-bar",
+      "who-owns-trinamool-election-commission-symbol-dispute-explained"
+    ],
     "relatedBeside": [
-      "india-saudi-haj-2027-quota-175025-rijiju-jeddah"
+      "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Karnataka",
+        "hi": "कर्नाटक"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Indian seafarer hurt as projectile hits supertanker in Persian Gulf; three more Indians safe on Saudi tanker",
+          "hi": "फ़ारस की खाड़ी में सुपरटैंकर पर प्रोजेक्टाइल गिरा, एक भारतीय नाविक घायल; सऊदी टैंकर पर तीनों भारतीय सुरक्षित"
+        }
+      },
+      {
+        "link": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "De Silva and Kusal Mendis add 249 unbeaten as Sri Lanka reach 404 for 4 in Rawalpindi",
+          "hi": "डी सिल्वा और कुसल मेंडिस की 249 रन की नाबाद साझेदारी, रावलपिंडी में श्रीलंका 404/4"
+        }
+      },
+      {
+        "link": "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+        "lead": {
+          "en": "Haryana:",
+          "hi": "हरियाणा:"
+        },
+        "text": {
+          "en": "Haryana to set up special SC/ST courts in five districts, wants every chargesheet in 60 days",
+          "hi": "हरियाणा के पांच जिलों में बनेंगी एससी/एसटी विशेष अदालतें, 60 दिन में चालान का लक्ष्य"
+        }
+      },
       {
         "link": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
         "lead": {
@@ -74,47 +111,14 @@
         }
       },
       {
-        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "link": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Election Commission:",
+          "hi": "चुनाव आयोग:"
         },
         "text": {
-          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
-          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
-        }
-      },
-      {
-        "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "lead": {
-          "en": "Assam:",
-          "hi": "असम:"
-        },
-        "text": {
-          "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
-          "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
-        }
-      },
-      {
-        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
-          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
-        }
-      },
-      {
-        "link": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-        "lead": {
-          "en": "Cybercrime:",
-          "hi": "साइबर अपराध:"
-        },
-        "text": {
-          "en": "Digital arrest scams explained: how the fraud works and what the Supreme Court wants banks and WhatsApp to do",
-          "hi": "डिजिटल अरेस्ट ठगी क्या है, कैसे होती है, और सुप्रीम कोर्ट ने बैंकों और व्हाट्सऐप से क्या कहा"
+          "en": "Keralam Vigilance probe into CEC Gyanesh Kumar goes on, Chennithala says new petitions are coming in",
+          "hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ केरलम की विजिलेंस जांच जारी, चेन्निथला बोले नई याचिकाएं आ रही हैं"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+      "id": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
       "also": []
     },
     "list": [
+      "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+      "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+      "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
       "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-      "sangrur-prtc-bus-flyover-crash-three-killed",
-      "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-      "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
+      "sangrur-prtc-bus-flyover-crash-three-killed"
     ],
     "also": [
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-      "extradition-explained-hasina-india-bangladesh-treaty"
+      "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
     ]
   },
   "startHere": [
@@ -271,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
       "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-      "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
-      "zelenskyy-india-mediate-black-sea-food-corridors-claim"
+      "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
     ]
   },
   "explained": [
@@ -354,11 +358,11 @@
     }
   ],
   "opinion": [
+    "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
     "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
     "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
     "digital-arrest-victims-should-be-repaid-by-the-bank-first",
-    "delhi-air-monitors-that-go-blank-on-the-worst-night",
-    "megamalai-ruling-forest-rights-line-must-be-honest"
+    "delhi-air-monitors-that-go-blank-on-the-worst-night"
   ],
   "sections": [
     {
@@ -368,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
         "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
       ],
-      "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+      "lead": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
     },
     {
       "section": "economy",
@@ -394,11 +398,11 @@
     },
     {
       "section": "states",
-      "lead": "sangrur-prtc-bus-flyover-crash-three-killed",
+      "lead": "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
       "list": [
+        "sangrur-prtc-bus-flyover-crash-three-killed",
         "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "pmk-functionary-shot-dead-vellore-gudiyatham"
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi"
       ]
     },
     {
@@ -407,7 +411,7 @@
       "list": [
         "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11"
       ]
     },
     {
@@ -422,10 +426,10 @@
   "desks": [
     {
       "section": "world",
-      "lead": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+      "lead": "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
       "list": [
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
-        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
         "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
       ]
     },
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+      "lead": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
       "list": [
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
         "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "india-women-squads-south-africa-tour-mandhana-captain-all-formats"
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain"
       ]
     }
   ],
@@ -505,41 +509,25 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
-        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
+        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi",
+        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन"
       },
-      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+      "link": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three"
     },
     {
-      "icon": "chart-line",
+      "icon": "calendar-blank",
       "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
       "text": {
-        "en": "Retail inflation (CPI) for October, 4 pm",
-        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
-      }
+        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
+        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
+      },
+      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T12:58:04+05:30",
-      "ids": [
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
-        "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
-        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-        "delhi-air-monitors-that-go-blank-on-the-worst-night"
-      ]
-    },
     {
       "at": "2026-11-11T13:33:27+05:30",
       "ids": [
@@ -638,6 +626,23 @@
         "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+      ]
+    },
+    {
+      "at": "2026-11-11T22:33:17+05:30",
+      "ids": [
+        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+        "two-child-norm-explained-javed-ruling-larger-bench",
+        "oral-mentioning-explained-supreme-court-senior-counsel-bar",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+        "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+        "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
       ]
     }
   ],
