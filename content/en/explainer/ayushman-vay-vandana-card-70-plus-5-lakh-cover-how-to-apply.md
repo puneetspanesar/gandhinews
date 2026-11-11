@@ -13,7 +13,7 @@ hero:
   need: "Nirman Bhawan in New Delhi, home of the Union Health Ministry, which runs the scheme through the National Health Authority"
   suggested_source: "Nirman Bhawan New Delhi"
   subjects: ["Nirman Bhawan New Delhi"]
-  alt: "Union Health Minister J. P. Nadda (file photo)"
+  alt: "Union Health Minister J. P. Nadda at a press conference (file photo)"
   overlay:
     value: "₹5 lakh cover for all over 70"
 infographic:
