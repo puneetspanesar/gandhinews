@@ -68,10 +68,6 @@ Ukraine's delegation is led by Rustem Umerov, who said "our people are waiting t
 
 Earlier on Tuesday, Ukraine's team met the US envoys and representatives of Britain, France, Germany, Italy, NATO and the European Commission. Russia objects to Europeans sitting in the three-way format, though it says EU representatives could join later.
 
-```photo
-{"n":1,"subject":"Jared Kushner","caption":"Jared Kushner, President Donald Trump's son-in-law, who is leading the US side of the talks with envoy Steve Witkoff.","alt":"US negotiator Jared Kushner"}
-```
-
 ## What was discussed
 
 The White House said the talks would centre on future security guarantees. Humanitarian questions also came up, including prisoner exchanges, the return of civilians held in captivity and children taken from Ukraine. A senior Ukrainian official said **a large-scale prisoner swap** was discussed, with details to follow "in the coming days".

@@ -91,10 +91,6 @@ After meeting Qatar's Prime Minister and Foreign Minister, Sheikh Mohammed bin A
 
 That status quo is the naval blockade of Iranian ports, which Trump called "the greatest naval blockade in the history of our country", together with **Task Force Iron Gate**, the command set up on November 7 to cut Iran's trade over its land borders and the Caspian Sea. Trump said he expects the conflict to end "fairly soon", that renewed strikes are "quite unlikely" and that the US is "locked and loaded" if things change. Preventing Iran from getting a nuclear weapon, he said, is non-negotiable.
 
-```photo
-{"n":1,"subject":"Mohammed bin Abdulrahman Al Thani","caption":"Qatar's Prime Minister and Foreign Minister, Sheikh Mohammed bin Abdulrahman Al Thani, who met Trump on Monday and then joined talks with European ministers in Paris.","alt":"Qatari Prime Minister Mohammed bin Abdulrahman Al Thani"}
-```
-
 ## Tehran's reply
 
 Iran's Supreme National Security Council secretary, Mohsen Rezaei, said Washington was "flailing like a desperate gambler" and should stop "making up news about imaginary negotiations". He said the US must accept Iran's [seven conditions](/en/news/iran-hands-us-nuclear-proposal-seven-demands) first. They include an end to the war on all fronts, lifting sanctions and the blockade, release of frozen assets and recognition of a new Hormuz shipping route developed with Oman.

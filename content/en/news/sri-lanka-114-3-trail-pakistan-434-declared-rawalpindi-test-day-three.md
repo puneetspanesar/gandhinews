@@ -80,10 +80,6 @@ The lower order then pushed the total past 430. Arafat Minhas reached a half-cen
 
 Asitha Fernando and Dilshan Madushanka took three wickets each for Sri Lanka, at a cost of 107 and 108 runs. Fernando's wicket of Shakeel was his 100th in Tests. Lahiru Kumara took one for 104, Milan Rathnayake one for 72 and Sonal Dinusha one for 23.
 
-```photo
-{"n":1,"subject":"Asitha Fernando","caption":"Asitha Fernando took three wickets and reached 100 Test wickets when he removed Saud Shakeel.","alt":"Asitha Fernando bowling"}
-```
-
 ## Sri Lanka lose three before the light goes
 
 The reply began badly. Pasindu Sooriyabandara, promoted to open in only his third Test, was out **without scoring**, bowled to by Mohammad Abbas, who finished with one for 23. Saqib Khan then took a wicket with his first ball in Test cricket for Pakistan, removing Dinesh Chandimal for one on debut. Saqib ended the day with two for 54.
@@ -95,10 +91,6 @@ Lahiru Udara, who fell for 42, offered the most resistance before he was dismiss
 The numbers frame the third morning. Under the Test rules a side that trails by 200 or more in a five-day match can be asked to follow on. Pakistan's 434 means Sri Lanka must reach **235 to be safe**, 121 more than they have. De Silva and Kamindu Mendis resume the chase.
 
 One report on the day described Pakistan's seamers as much more disciplined than Sri Lanka's, who had conceded between 104 and 108 runs each in the first innings.
-
-```photo
-{"n":2,"subject":"Rawalpindi Cricket Stadium","caption":"The Rawalpindi Cricket Stadium, where the first of two Tests is being played from November 9 to 13.","alt":"Rawalpindi Cricket Stadium"}
-```
 
 ## The series so far
 
