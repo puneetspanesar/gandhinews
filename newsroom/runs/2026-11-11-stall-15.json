@@ -1,0 +1,19 @@
+{
+ "run": "stall-15",
+ "start": "2026-11-11T14:53:42+05:30",
+ "end": "2026-11-11T15:33:46+05:30",
+ "summary": "New Keralam CEC probe lead, homepage rotated, markets to 1:25 pm",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "1) Section balance (rule 11): the lead block carries three politics stories: the Chennithala/Gyanesh Kumar lead, 'EC extends poll code curbs to retired officials' (also an Election Commission subject directly under an Election Commission lead) and 'Kharge asks why India is becoming a Vishwaguru in air pollution'. Move the EC poll-code card out of the top and fill the slot with a fresh non-politics story (for example the Kolkata-Sairang Express derailment). World is also over two at the top (Abu Dhabi talks, Zelenskyy Donbas, Rubio on Iran, Hasina passport, Hasina extradition explainer); cut to two. 2) Running story in two slots and a stale preview (rules 9b, 11, 12): column 2 leads with 'Russia, Ukraine and the US hold four hours of talks... with a second day due today' (published 06:20), while 'Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two' (13:06) sits in the lead block. Day two is already under way, so the 06:20 headline is a preview of something that has happened. Keep only the 13:06 day-two story, in the column 2 picture slot, and take the day-one story off the top. 3) Same subject twice at the top (rule 11): Sheikh Hasina appears in Must Read 2 ('Hasina seeks a new passport') and in column 2 ('Extradition explained: can India send Sheikh Hasina back'); digital arrest scams appear in Must Read 3 ('Supreme Court asks WhatsApp...') and in column 2 ('Digital arrest victims should not have to chase their money'). Keep one of each and replace the other with a different subject. 4) Stale figure (rule 9b): 'Sri Lanka 114 for 3, still 320 behind' is the close-of-day-two score from 06:20; day three is in play now (This Week says 'Today: Day three'). Update to the current day-three score or drop it from the top. 5) Older than 24 hours (rule 12): Must Read 5 'Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act' was published November 10 at 14:24, about 25 hours ago; replace it with a fresher story. The lead story itself passes: correct two-person picture (Chennithala first, Gyanesh Kumar), labelled file photos, facts match the cited sources (Rs 2 crore, four bills worth about Rs 14 crore, sanction under Section 17A on November 3, statement recorded November 9), no em dash, Hindi matches. No broken images or clipped text seen.",
+   "done": "refresh_home --drop: Sri Lanka day-two score, Abu Dhabi day-one, Zelenskyy mediation claim, Rubio, Hasina passport, both digital-arrest items, both Megamalai/FRA news items, Swachh preview, Kharge and the EC poll-code story taken out of the lead block and top headlines; top headlines now Kolkata derailment, Ganjam, EC editorial, extradition explainer, Black Sea explainer, Megamalai editorial"
+  }
+ ],
+ "breaches": [],
+ "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+}

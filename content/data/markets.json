@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-11T12:57:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-11T13:25:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-11",
   "chart": "nifty-50",
   "indices": [
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82126.54,
-      "change": 1019.89,
-      "pct": 1.26,
+      "value": 81991.98,
+      "change": 885.33,
+      "pct": 1.09,
       "history": [
         {
           "date": "2026-09-30",
@@ -113,15 +113,15 @@
           "close": 81106.65
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/nifty-50-above-24-250-sensex-gains-over-1-000-pts-iifl-fin-kalyan-jewellers-among-buzzing-stocks/article-203284/"
+      "source": "https://www.newsbytesapp.com/news/business/sensex-falls-550-points-as-nifty-slips-below-25300/tldr"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25311.05,
-      "change": 266.4,
-      "pct": 1.06,
+      "value": 25279.8,
+      "change": 235.15,
+      "pct": 0.94,
       "history": [
         {
           "date": "2026-09-30",
@@ -228,7 +228,7 @@
           "close": 25044.65
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/nifty-50-above-24-250-sensex-gains-over-1-000-pts-iifl-fin-kalyan-jewellers-among-buzzing-stocks/article-203284/"
+      "source": "https://www.newsbytesapp.com/news/business/sensex-falls-550-points-as-nifty-slips-below-25300/tldr"
     },
     {
       "id": "nifty-bank",
@@ -396,7 +396,8 @@
     "10 Nov 10:30 IST (hourly 10): exchange holiday for Diwali Balipratipada confirmed again (Goodreturns holiday note read this run); Nov 9 closing values kept, status closed.",
     "10 Nov 14:35 IST (hourly 14): exchange holiday for Diwali Balipratipada (BusinessToday and Goodreturns holiday notes read this run); Nov 9 closing values kept, status closed.",
     "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run.",
-    "11 Nov 09:25 IST (stall-09): Sensex 82,248 (+1,142, +1.41%) at 9:05 am and Nifty 50 25,337 (+293, +1.17%) at 9:13 am pre-open; rupee opened 93.72 (from Monday close 93.93) at 8:50 am; Brent January futures $91.88 (-0.18%) at 8:25 am; all from the Business Standard live blog read this run. Nifty Bank, Midcap, VIX, gold, silver, yield, movers, sectors and flows keep earlier values (not on the page)."
+    "11 Nov 09:25 IST (stall-09): Sensex 82,248 (+1,142, +1.41%) at 9:05 am and Nifty 50 25,337 (+293, +1.17%) at 9:13 am pre-open; rupee opened 93.72 (from Monday close 93.93) at 8:50 am; Brent January futures $91.88 (-0.18%) at 8:25 am; all from the Business Standard live blog read this run. Nifty Bank, Midcap, VIX, gold, silver, yield, movers, sectors and flows keep earlier values (not on the page).",
+    "11 Nov 15:00 IST (stall-14): Sensex 81,991.98 and Nifty 50 25,279.80 in early afternoon trade (NewsBytes, published 1:25 pm IST, read this run); change worked out against the Nov 9 closes. Business Standard live blog read this run stops at 10:20 am. Nifty Bank, Midcap, VIX, rates, movers, sectors and flows keep earlier values (no afternoon figure read). Status set to closed after the 3:30 pm close; the values shown are the early-afternoon reading, not the close (no closing figure read yet), and no close was added to history."
   ],
   "holidays": [
     "2026-11-10"

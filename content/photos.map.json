@@ -45911,5 +45911,31 @@
    "subj": "ffbf3606063c3020",
    "credit": "Photos: NabilSyed / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Government of India / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons"
   }
+ },
+ "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions": {
+  "id": "v-chennithala-vigilance-probe-gyanesh-kumar-continues-new-peti",
+  "src": "/photos/v-chennithala-vigilance-probe-gyanesh-kumar-continues-new-peti-1280.jpg",
+  "src800": "/photos/v-chennithala-vigilance-probe-gyanesh-kumar-continues-new-peti-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Ramanpanikar / Wikimedia Commons; Sharma Dhawan / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0; CC0",
+  "alt": "Keralam Home Minister Ramesh Chennithala and Chief Election Commissioner Gyanesh Kumar (file photos)",
+  "alt_hi": "केरलम के गृह मंत्री रमेश चेन्निथला और मुख्य चुनाव आयुक्त ज्ञानेश कुमार (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-chennithala-vigilance-probe-gyanesh-kumar-continues-new-peti-1280.jpg",
+   "src800": "/photos/t-chennithala-vigilance-probe-gyanesh-kumar-continues-new-peti-640.jpg",
+   "cutout": true,
+   "with": [
+    "kerala-hc-bitchat-blocking-centre-apple-google-affidavits",
+    "kerala-becomes-keralam-what-changes",
+    "special-intensive-revision-how-to-check-your-name"
+   ],
+   "kind": "photo",
+   "subj": "f0b0b0b2fefefefe",
+   "credit": "Photos: Ramanpanikar / Wikimedia Commons; Sharma Dhawan / Wikimedia Commons; Pinakpani / Wikimedia Commons; Vinayaraj / Wikimedia Commons; Fotokannan / Wikimedia Commons"
+  }
  }
 }

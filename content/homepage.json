@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+    "id": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "Politics / Election Commission",
+        "hi": "राजनीति / चुनाव आयोग"
       },
       "value": {
-        "en": "Zelenskyy: Russia claimed half of Donbas",
-        "hi": "ज़ेलेंस्की: रूस ने आधे डोनबास का दावा किया"
+        "en": "Keralam probe into CEC goes on",
+        "hi": "सीईसी के खिलाफ केरलम की जांच जारी"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Election Commission",
+        "hi": "चुनाव आयोग"
       }
     }
   },
@@ -41,80 +41,80 @@
         }
       },
       {
-        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
         },
         "text": {
-          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
-          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
+          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
+          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
         }
       },
       {
-        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
-        "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
-        },
-        "text": {
-          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
-          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
-        }
-      },
-      {
-        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
-          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
-        }
-      },
-      {
-        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
-          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
-        }
-      },
-      {
-        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-        "lead": {
-          "en": "SIR:",
-          "hi": "एसआईआर:"
-        },
-        "text": {
-          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
-          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
-        }
-      },
-      {
-        "link": "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
+        "link": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Gidipabali's six missing deserve a death certificate, not a wait, and Ganjam deserves the dam log",
-          "hi": "गिदिपाबली के छह लापता लोगों को इंतज़ार नहीं, मृत्यु प्रमाणपत्र मिलना चाहिए, और गंजाम को बांध का रिकॉर्ड"
+          "en": "The poll code now binds retired officials. The Election Commission should publish the letter and name the penalty",
+          "hi": "आचार संहिता अब रिटायर अधिकारियों पर भी लागू। चुनाव आयोग पत्र सार्वजनिक करे और सज़ा बताए"
         }
       },
       {
-        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+        "link": "extradition-explained-hasina-india-bangladesh-treaty",
         "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
-          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
+          "en": "Extradition explained: can India send Sheikh Hasina back under the 2013 treaty?",
+          "hi": "प्रत्यर्पण क्या है: क्या 2013 की संधि के तहत भारत शेख हसीना को लौटा सकता है?"
+        }
+      },
+      {
+        "link": "black-sea-food-corridors-explained-grain-deal-india-mediation",
+        "lead": {
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
+        },
+        "text": {
+          "en": "Black Sea food corridors explained: the 2022 grain deal, why it ended, and what India is being asked to do",
+          "hi": "काला सागर के खाद्य गलियारे क्या हैं: 2022 का अनाज समझौता, वह क्यों टूटा, और भारत से क्या कहा जा रहा है"
+        }
+      },
+      {
+        "link": "megamalai-ruling-forest-rights-line-must-be-honest",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The Megamalai ruling draws a line on forest rights. The process behind it must now be honest to those on the right side of it",
+          "hi": "मेगामलई फैसले ने वन अधिकार की रेखा खींच दी है। अब प्रक्रिया उन लोगों के साथ ईमानदार होनी चाहिए जो सही तरफ़ हैं"
+        }
+      },
+      {
+        "link": "womens-reservation-33-per-cent-when-will-it-start-explained",
+        "lead": {
+          "en": "Women's reservation:",
+          "hi": "महिला आरक्षण:"
+        },
+        "text": {
+          "en": "Women's reservation explained: the 33% law is in force, so when will women actually get the seats?",
+          "hi": "महिला आरक्षण: 33% का कानून लागू है, तो महिलाओं को सीटें असल में कब मिलेंगी?"
+        }
+      },
+      {
+        "link": "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+        "lead": {
+          "en": "Census 2027:",
+          "hi": "जनगणना 2027:"
+        },
+        "text": {
+          "en": "Census 2027 self-enumeration from November 16 in UP, Punjab, Goa and Uttarakhand: how to fill the form online",
+          "hi": "जनगणना 2027: यूपी, पंजाब, गोवा और उत्तराखंड में 16 नवंबर से स्व-गणना, ऑनलाइन फॉर्म कैसे भरें"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+      "id": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
       "also": []
     },
     "list": [
-      "hasina-passport-request-dhaka-refuses-extradition-india",
-      "india-a-nz-a-lincoln-third-test-draw-series-level",
-      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-      "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
+      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+      "extradition-explained-hasina-india-bangladesh-treaty",
+      "black-sea-food-corridors-explained-grain-deal-india-mediation",
+      "megamalai-ruling-forest-rights-line-must-be-honest",
+      "womens-reservation-33-per-cent-when-will-it-start-explained"
     ],
     "also": [
-      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
-      "delhi-air-monitors-that-go-blank-on-the-worst-night"
+      "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+      "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply"
     ]
   },
   "startHere": [
@@ -372,7 +372,7 @@
         "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
         "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
       ],
-      "lead": "eci-extends-poll-code-curbs-retired-officials-five-states"
+      "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
     },
     {
       "section": "economy",
@@ -397,17 +397,17 @@
       "lead": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
       "list": [
         "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
       ]
     },
     {
       "section": "policy",
       "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
+        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029"
       ]
     },
     {
@@ -424,9 +424,9 @@
       "section": "world",
       "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
       "list": [
-        "hasina-passport-request-dhaka-refuses-extradition-india",
         "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "modi-zelenskyy-phone-call-india-peace-efforts"
+        "modi-zelenskyy-phone-call-india-peace-efforts",
+        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
     },
     {
@@ -522,20 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T05:02:18+05:30",
-      "ids": [
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
-      ]
-    },
     {
       "at": "2026-11-11T06:37:35+05:30",
       "ids": [
@@ -637,6 +623,20 @@
         "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
         "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
         "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
+      ]
+    },
+    {
+      "at": "2026-11-11T15:20:17+05:30",
+      "ids": [
+        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "extradition-explained-hasina-india-bangladesh-treaty",
+        "black-sea-food-corridors-explained-grain-deal-india-mediation",
+        "megamalai-ruling-forest-rights-line-must-be-honest",
+        "womens-reservation-33-per-cent-when-will-it-start-explained",
+        "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
       ]
     }
   ],
