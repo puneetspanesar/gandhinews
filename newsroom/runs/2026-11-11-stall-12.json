@@ -1,0 +1,19 @@
+{
+ "run": "stall-12",
+ "start": "2026-11-11T12:57:53+05:30",
+ "end": "2026-11-11T13:44:29+05:30",
+ "summary": "Stall fix: Yogi pollution lead, Zelenskyy day two, markets 12:06 pm, homepage rotated",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters",
+   "why": "The story contradicts itself on Delhi's air. Paragraph 2 says Delhi's air 'has been in the very poor to severe range since' Diwali, but the body and the ANI/CPCB source give 299, in the 'poor' band, at 7 am on Wednesday. The 'Why it matters' sentence about residents reporting headaches, dry coughs and eye irritation, and doctors advising N95 masks, is in none of the listed sources. The Hindi twin has the same two problems.",
+   "done": "Paragraph 2 now says very poor to severe through Tuesday and very poor again by 8:40 am Wednesday (EN and HI); unsourced symptoms and N95 sentence removed from both."
+  }
+ ],
+ "breaches": [],
+ "lead": "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters"
+}

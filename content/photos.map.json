@@ -45859,5 +45859,57 @@
    }
   },
   "nophoto": "no free photo of a train derailment in Assam or the Northeast; library, quick_photo, finder h1110 and h1110b (only Mumbai 2013 and Coromandel 2023 scenes, other regions)"
+ },
+ "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two": {
+  "id": "o-zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+  "src": "/photos/o-zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two-1280.jpg",
+  "src800": "/photos/o-zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3488,
+  "credit": "Photo: Presidential Office of Ukraine / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Ukrainian President Volodymyr Zelenskyy (file photo)",
+  "alt_hi": "यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+  "treated": {
+   "src": "/photos/t-zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-1280.jpg",
+   "src800": "/photos/t-zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-640.jpg",
+   "cutout": true,
+   "with": [
+    "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+    "iom-warns-millions-ukrainians-displacement-winter",
+    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+   ],
+   "kind": "photo",
+   "subj": "e0f8f9f9f8f8d808",
+   "credit": "Photos: Presidential Office of Ukraine / Wikimedia Commons; Alex Blokha / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons; Rotafinus / Wikimedia Commons"
+  }
+ },
+ "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters": {
+  "id": "v-yogi-pollution-will-subside-diwali-crackers-lucknow-appointm",
+  "src": "/photos/v-yogi-pollution-will-subside-diwali-crackers-lucknow-appointm-1280.jpg",
+  "src800": "/photos/v-yogi-pollution-will-subside-diwali-crackers-lucknow-appointm-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: NabilSyed / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Uttar Pradesh Chief Minister Yogi Adityanath and smog in New Delhi (file photos)",
+  "alt_hi": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ और नई दिल्ली में स्मॉग (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-yogi-pollution-will-subside-diwali-crackers-lucknow-appointm-1280.jpg",
+   "src800": "/photos/t-yogi-pollution-will-subside-diwali-crackers-lucknow-appointm-640.jpg",
+   "cutout": true,
+   "with": [
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+    "up-voter-list-2026-check-name-after-sir",
+    "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffbf3606063c3020",
+   "credit": "Photos: NabilSyed / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Government of India / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons"
+  }
  }
 }
