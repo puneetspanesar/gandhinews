@@ -1,0 +1,109 @@
+{
+  "k1": {
+    "query": "Punjab bus accident",
+    "candidates": []
+  },
+  "k2": {
+    "query": "bus accident India highway",
+    "candidates": []
+  },
+  "k3": {
+    "query": "PRTC bus",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:PRTC-Mini-Bus-RGBS.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:PRTC-Mini-Bus-RGBS.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/PRTC-Mini-Bus-RGBS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2309,
+        "height": 1523,
+        "licence": "CC BY-SA 4.0",
+        "author": "Srikanth Ramakrishnan/BESTpedia",
+        "credit": "Own work",
+        "date": "2022-09-25 13:45:51",
+        "description": "PRTC mini-bus at Rajiv Gandhi Bus Station",
+        "thumb": "k3-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/PRTC-Mini-Bus-RGBS.jpg/1600px-PRTC-Mini-Bus-RGBS.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:PRTC-Mini-Bus.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:PRTC-Mini-Bus.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PRTC-Mini-Bus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2739,
+        "height": 1866,
+        "licence": "CC BY-SA 4.0",
+        "author": "Srikanth Ramakrishnan/BESTpedia",
+        "credit": "Own work",
+        "date": "2022-09-25 13:11:53",
+        "description": "PRTC mini-bus near Indira Gandhi statue",
+        "thumb": "k3-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRTC-Mini-Bus.jpg/1600px-PRTC-Mini-Bus.jpg"
+      },
+      {
+        "n": 2,
+        "title": "File:PRTC Bus Station at Budhlada, Mansa, Punjab.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:PRTC_Bus_Station_at_Budhlada,_Mansa,_Punjab.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/PRTC_Bus_Station_at_Budhlada%2C_Mansa%2C_Punjab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2896,
+        "height": 2172,
+        "licence": "CC BY-SA 4.0",
+        "author": "Dahiya22",
+        "credit": "Own work",
+        "date": "2016-06-01",
+        "description": "PRTC Bus Station at Budhlada, Mansa, Punjab",
+        "thumb": "k3-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PRTC_Bus_Station_at_Budhlada%2C_Mansa%2C_Punjab.jpg/1600px-PRTC_Bus_Station_at_Budhlada%2C_Mansa%2C_Punjab.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:PRTC-JnNURM-bus-white.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:PRTC-JnNURM-bus-white.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PRTC-JnNURM-bus-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1200,
+        "height": 699,
+        "licence": "CC BY-SA 3.0",
+        "author": "Rsrikanth05",
+        "credit": "Own work",
+        "date": "2012-09-11",
+        "description": "PRTC bus in Puducherry.",
+        "thumb": "k3-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PRTC-JnNURM-bus-white.jpg"
+      },
+      {
+        "n": 4,
+        "title": "File:PRTC-JnNURM-bus-blue.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:PRTC-JnNURM-bus-blue.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PRTC-JnNURM-bus-blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 965,
+        "height": 547,
+        "licence": "CC BY-SA 3.0",
+        "author": "Rsrikanth05",
+        "credit": "Own work",
+        "date": "2012-09-11",
+        "description": "PRTC bus in Puducherry.",
+        "thumb": "k3-4.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PRTC-JnNURM-bus-blue.jpg"
+      },
+      {
+        "n": 5,
+        "title": "File:PRTC Bus Terminus - Zirakpur - Mohali 2016-08-08 9153.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:PRTC_Bus_Terminus_-_Zirakpur_-_Mohali_2016-08-08_9153.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/PRTC_Bus_Terminus_-_Zirakpur_-_Mohali_2016-08-08_9153.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 6016,
+        "height": 4000,
+        "licence": "CC BY 3.0",
+        "author": "Biswarup Ganguly",
+        "credit": "Own work",
+        "date": "2016-08-08 11:57:24",
+        "description": "This photograph was taken at Mohali, Punjab.",
+        "thumb": "k3-5.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PRTC_Bus_Terminus_-_Zirakpur_-_Mohali_2016-08-08_9153.JPG/1600px-PRTC_Bus_Terminus_-_Zirakpur_-_Mohali_2016-08-08_9153.JPG"
+      }
+    ]
+  },
+  "k4": {
+    "query": "Haryana bus accident",
+    "candidates": []
+  }
+}
