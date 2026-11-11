@@ -45515,6 +45515,59 @@
   "alt_hi": "2017 में भुवनेश्वर में एशियाई एथलेटिक्स चैंपियनशिप के दौरान पी. टी. उषा (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:PT_Usha,.jpg"
  },
+ "rubio-g7-paris-no-need-major-combat-iran-economic-campaign": {
+  "id": "o-rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+  "src": "/photos/o-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-1280.jpg",
+  "src800": "/photos/o-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2182,
+  "credit": "Photo: U.S. Department of State / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Secretary of State Marco Rubio, official portrait (file photo)",
+  "alt_hi": "अमेरिकी विदेश मंत्री मार्को रुबियो, आधिकारिक चित्र (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg",
+  "notreat": true
+ },
+ "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one": {
+  "id": "o-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "src": "/photos/o-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one-1280.jpg",
+  "src800": "/photos/o-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1867,
+  "credit": "Photo: Антон Шевельов (facebook.com/1200dpi) / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rustem Umerov, Ukraine's chief negotiator (file photo)",
+  "alt_hi": "यूक्रेन के मुख्य वार्ताकार रुस्तम उमेरोव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rustem_Umerov_ANT_3834.jpg",
+  "treated": {
+   "src": "/photos/t-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-o-1280.jpg",
+   "src800": "/photos/t-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-o-640.jpg",
+   "cutout": true,
+   "with": [
+    "kyiv-draft-office-shooting-six-injured",
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+    "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm"
+   ],
+   "kind": "photo",
+   "subj": "71f1f0f0f0f0703",
+   "credit": "Photos: Антон Шевельов (facebook.com/1200dpi) / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
+  }
+ },
+ "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three": {
+  "id": "o-sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+  "src": "/photos/o-sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three-1280.jpg",
+  "src800": "/photos/o-sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5380,
+  "credit": "Photo: Nazly Ahmed / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Sri Lanka's Asitha Fernando bowling to Babar Azam in a Test in Colombo (file photo)",
+  "alt_hi": "कोलंबो टेस्ट में बाबर आज़म को गेंदबाज़ी करते श्रीलंका के असिथा फर्नांडो (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Asitha_Fernando_vs_Babar_Azam,_Colombo_2023.jpg"
+ },
  "digital-arrest-scam-explained-supreme-court-banks-whatsapp": {
   "id": "r-digital-arrest-scam-explained-supreme-court-banks-whatsapp",
   "src": "/photos/r-digital-arrest-scam-explained-supreme-court-banks-whatsapp-1280.jpg",

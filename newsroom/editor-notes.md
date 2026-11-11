@@ -93,3 +93,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Held by the run: president-murmu-ips-probationers-78-rr-people-centric-policing (the PIB release was read with curl after WebFetch was refused; re-read it through WebFetch and republish with --fixed). Held by the editor: pakistan-declare-434-9-three-debutant-fifties-sri-lanka-114-3-rawalpindi-test (stand was 49 not 50-plus; third debutant fifty unnamed; secondary sources only).
 - States and world desks wrote nothing: WebFetch refused on CPCB, CAQM, PIB and the world pages. setup.sh hung again on the rembg pip install.
 - NEXT RUN, FIRST: Murmu IPS probationers (PIB, through WebFetch); Delhi CPCB AQI; Pakistan v Sri Lanka day three; Russia-Ukraine Abu Dhabi talks for World.
+
+## November 11, 2026, 6:40 am (from the 06:00 run)
+- Published 3: rubio-g7-paris-no-need-major-combat-iran-economic-campaign (LEAD, State Department official portrait; covers Trump "effectively over"; quotes from wire copy, state.gov not read), abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one (Umerov file photo; day two today), sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three (Asitha Fernando file photo).
+- Editor FAILs all fixed by the run: Brent intraday figure moved off the lead's top; Umerov and Sri Lanka pictures swapped; Saqib Khan debut and Ghazi Ghori catch wording. Rubio Air Force Three Commons photo carries an AP Images mark: blocklisted.
+- National and states desks wrote nothing: WebFetch refused on upsc.gov.in, pib.gov.in and CPCB.
+- Homepage: Zelenskyy Abu Dhabi, Zelenskyy Black Sea, Black Sea explainer and Hasina dropped from the top (four World stories).
+- NEXT RUN, FIRST: UPSC Civil Services Mains 2026 result; Delhi CPCB AQI; Abu Dhabi talks day two outcome; Pakistan v Sri Lanka day three; Wednesday markets open (Brent close).

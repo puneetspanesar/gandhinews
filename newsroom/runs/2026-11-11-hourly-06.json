@@ -1,0 +1,38 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-11T06:09:08+05:30",
+ "end": "2026-11-11T06:40:09+05:30",
+ "summary": "Rubio G7 Iran lead, Abu Dhabi talks, Rawalpindi Test; homepage refreshed",
+ "new": [
+  "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+  "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+  "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+   "why": "The Brent figure in the standfirst, key points, body, timeline and infographic ($90.64, down about 2%, WTI $85.41) is an intraday price from 10:28 am ET on November 10. It is not the day's close, and the story went out at 06:12 IST, hours after settlement (the verification notes admit no close was read). This is an hours-old figure at the top of the lead. Picture, rule 4: the main picture is a beaming official studio portrait of Rubio on a war story.",
+   "done": "Brent and WTI moved off the top (standfirst, key point, glance stat, dek, SEO now carry Iran's seven conditions instead); in the body and timeline the figure now says Tuesday morning New York trade, both languages. Picture: kept the official State Department portrait; the only other free recent Rubio photo (Air Force Three) carries an AP Images mark and was blocklisted, the library portrait is inside the 7-day rule, and no free G7 Paris photo exists. Bad collage removed (notreat)."
+  },
+  {
+   "id": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+   "why": "The main picture of Rustem Umerov is a badly cropped extreme close-up. The top of his head and his chin are cut off, and the face fills the frame (rule 3).",
+   "done": "Main picture swapped to a properly framed Umerov portrait (Commons, CC BY-SA 4.0); collage rebuilt and checked."
+  },
+  {
+   "id": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+   "why": "The Hindi says Dinesh Chandimal was making his debut ('डेब्यू कर रहे दिनेश चांदीमल'). Chandimal is a veteran; the debutant is Saqib Khan. The English 'removing Dinesh Chandimal for one on debut' reads the same way. The source scorecard has Sooriyabandara caught by Ghazi Ghori off Mohammad Abbas, but the English says the garbled 'bowled to by Mohammad Abbas'. Picture: Shakeel is shown in a Yorkshire county shirt with his face behind the helmet grille, not in a Pakistan Test.",
+   "done": "'On debut' now refers to Saqib Khan and the dismissal reads caught by Ghazi Ghori off Mohammad Abbas, EN and HI. Main picture swapped to Asitha Fernando bowling to Babar Azam in a Colombo Test (Commons, CC BY-SA 4.0), face visible."
+  },
+  {
+   "id": "homepage",
+   "why": "Top headlines break rule 11: four of them are World (Rubio/Iran, Abu Dhabi talks, Hasina/Bangladesh, Zelenskyy/Black Sea), against a limit of two per section. The running Russia-Ukraine story fills two adjacent slots under the lead: the Abu Dhabi talks story sits directly above Zelenskyy 'as Abu Dha",
+   "done": "Dropped the Zelenskyy Abu Dhabi story, the Zelenskyy Black Sea fact check, the Black Sea explainer and the Hasina story from the top with refresh_home --drop: the top block now has two World stories (the lead and the Abu Dhabi talks). Lead's Brent figure moved off the top. UPSC and Delhi AQI not written: the UPSC, PIB and CPCB pages could not be read this run."
+  }
+ ],
+ "breaches": [],
+ "lead": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
+}
