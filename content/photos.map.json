@@ -45734,24 +45734,24 @@
   "src": "/photos/o-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-1280.jpg",
   "src800": "/photos/o-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 2182,
+  "height": 892,
+  "srcWidth": 2000,
   "credit": "Photo: U.S. Department of State / Wikimedia Commons",
   "licence": "Public domain",
-  "alt": "US Secretary of State Marco Rubio, official portrait (file photo)",
-  "alt_hi": "अमेरिकी विदेश मंत्री मार्को रुबियो, आधिकारिक चित्र (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg",
+  "alt": "US Secretary of State Marco Rubio speaks to reporters (file photo)",
+  "alt_hi": "अमेरिकी विदेश मंत्री मार्को रुबियो पत्रकारों से बात करते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Secretary_Rubio_Holds_Press_Availability_(54430437305).jpg",
   "treated": {
    "src": "/photos/t-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-1280.jpg",
    "src800": "/photos/t-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-640.jpg",
-   "cutout": true,
+   "cutout": false,
    "with": [
     "iran-hands-us-nuclear-proposal-seven-demands--p1",
     "pakistan-suspends-iran-trade-taftan-gabd-lpg",
     "us-midterms-2026-explained-what-is-at-stake"
    ],
    "kind": "photo",
-   "subj": "181c1c1c5c1c18",
+   "subj": "bfbfd89898180c1e",
    "credit": "Photos: U.S. Department of State / Wikimedia Commons; Amohammadid / Wikimedia Commons; Safa.daneshvar / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
   }
  },
