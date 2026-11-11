@@ -45974,6 +45974,19 @@
   "licence": "CC BY 2.0",
   "alt": "US envoy Jared Kushner (file photo)",
   "alt_hi": "अमेरिकी दूत जैरेड कुशनर (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jared_Kushner_in_Israel,_December_21_2020.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jared_Kushner_in_Israel,_December_21_2020.jpg",
+  "treated": {
+   "src": "/photos/t-abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsk-1280.jpg",
+   "src800": "/photos/t-abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsk-640.jpg",
+   "cutout": true,
+   "with": [
+    "kyiv-draft-office-shooting-six-injured",
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+    "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm"
+   ],
+   "kind": "photo",
+   "subj": "c3d3d39b93038b89",
+   "credit": "Photos: U.S. Embassy Jerusalem / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
+  }
  }
 }

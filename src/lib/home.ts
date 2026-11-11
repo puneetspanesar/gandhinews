@@ -649,10 +649,12 @@ export async function homeModel(lang: Lang) {
       return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
     };
     const hl = headlines.map((x: any) => x.id);
-    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool([lead.d.section], 24), ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)], 4);   // always two full rows under the lead
+    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool(['politics', 'policy', 'states', 'world', 'economy'].filter((s) => s !== lead.d.section), 24)], 4);   // no older pieces of the lead's own running story under it (editor, 18:00 run, November 11)   // always two full rows under the lead
     // the middle column always opens with a real photo: from the headlines, else the newest pictured news of the last 24 hours
     const second = take([...hl, ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)].filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
-    const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 6);   // six lines: five left a gap under the middle column when the Hindi lead headline runs to three lines (stall check, November 10)
+    const secN: Record<string, number> = { [lead.d.section]: 1 }; second.forEach((x: any) => { const sc = get(x.id).data.section; secN[sc] = (secN[sc] ?? 0) + 1; });
+    const capSec = (ids: string[]) => [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id)).filter((id) => { const sc = get(id).data.section; if ((secN[sc] ?? 0) >= 2 && (age(id) > 6 || sc === 'politics' || sc === lead.d.section)) return false; secN[sc] = (secN[sc] ?? 0) + 1; return true; });   // rule 14: at most two per section in the top eight (18:00 run, November 11)
+    const col2 = take(capSec([...hl, ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24), ...pool(null, 23)]).filter((id) => age(id) <= 23), lang === 'hi' ? 7 : 6);   // six lines: five left a gap under the middle column when the Hindi lead headline runs to three lines (stall check, November 10)
     const must = take([...pool(['politics', 'states', 'world', 'economy', 'policy'], 24), ...pool(['politics', 'states', 'world', 'economy', 'policy'], 48)], 5);   // a quiet morning tops up from the last 48 hours so the column never ends short (08:00 run, November 11)
     // ---- news-dense blocks (owner, November 8): headline lists grouped the way readers look for news
     const isCourt = (id: string) => /Courts|Supreme Court|High Court/.test(enLabel(id)) || /Supreme Court|High Court/.test(enTitle(id));

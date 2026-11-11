@@ -17,7 +17,7 @@ hero:
   need: "Jared Kushner and Vladimir Medinsky"
   suggested_source: "Jared Kushner"
   subjects: ["Jared Kushner", "Vladimir Medinsky"]
-  alt: "US envoy Jared Kushner and Russia's chief negotiator Vladimir Medinsky (file photos)"
+  alt: "US envoy Jared Kushner (file photo)"
   overlay:
     value: "Abu Dhabi: big prisoner swap agreed"
 related: [zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, putin-zelenskyy-back-three-way-talks-freeze-front-line]
@@ -73,7 +73,7 @@ The agenda reported by Ukrainian officials also included a possible meeting of t
 
 The first day, on Tuesday, November 10, ran about four hours. Ukrainian officials described it as constructive and substantive, with humanitarian steps and security guarantees at the centre; our [day-one report](/en/news/abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one) has who sat in the room. Zelenskyy had also said on Tuesday that Russian delegates claimed to hold about half of the Donbas land Kyiv controls, a claim Kyiv rejected, as we reported [earlier today](/en/news/zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two).
 
-On Wednesday the Russia-Ukraine session was followed by a round between the Ukrainians and European representatives. Delegates from Ukraine included Budanov, Kyslytsia, Arakhamia and Skibitsky. Topics across the two days also included security guarantees for Ukraine and Europe, Russia's own security demands, Ukraine's reconstruction and a new European security architecture.
+On Wednesday the Russia-Ukraine session was followed by a round between the Ukrainians and European representatives. Topics across the two days also included security guarantees for Ukraine and Europe, Russia's own security demands, Ukraine's reconstruction and a new European security architecture.
 
 ## The European seat
 
@@ -82,10 +82,6 @@ Medinsky dismissed Europe's part, saying its military support for Ukraine keeps 
 ## Why it matters
 
 For families of soldiers and civilians held on both sides, the swap is the one result that will change lives within days, and earlier rounds in Abu Dhabi also produced exchanges. For the wider world, including India, the lack of progress on energy attacks and the Black Sea means the risks to oil and food shipping stay. These were the first three-way talks since February, after the diplomatic track stalled for more than eight months, and expectations going in were low.
-
-```photo
-{"n":1,"subject":"Steve Witkoff","caption":"Steve Witkoff, the US envoy who co-led the mediation with Kushner and is due in Moscow on Thursday.","alt":"US envoy Steve Witkoff"}
-```
 
 ## What happens next
 

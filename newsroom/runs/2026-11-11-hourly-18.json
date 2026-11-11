@@ -1,0 +1,21 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-11T18:05:29+05:30",
+ "end": "2026-11-11T18:56:46+05:30",
+ "summary": "Abu Dhabi prisoner-exchange lead, homepage top column capped two per section",
+ "new": [
+  "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "1) The running story takes three slots. Directly under the Abu Dhabi lead sit two more Abu Dhabi stories, side by side: 'Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two' and 'Russia, Ukraine and the US hold four hours of talks in Abu Dhabi... with a second day due today'. Both are stale previews of a day that has ended. With the Rubio/Iran s",
+   "done": "Abu Dhabi day-one/day-two pieces no longer sit under the lead or in the top column (home.ts: lead links skip the lead's own section; top column capped at two per section counting the lead). Not done by the deadline: This Week preview rows, Must Read repeats, Ganjam collage tiles; Sensex, UPSC, AQI and Swachh stories not written (primary sources unreadable)."
+  }
+ ],
+ "breaches": [],
+ "lead": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+}
