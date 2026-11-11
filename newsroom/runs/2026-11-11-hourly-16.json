@@ -1,0 +1,34 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-11T16:04:14+05:30",
+ "end": "2026-11-11T16:49:28+05:30",
+ "summary": "Nadda at first BIMSTEC health meeting, Hamilton toss story held, homepage refreshed, markets to the Nov 11 close",
+ "new": [
+  "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+ ],
+ "held": [
+  "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+   "kind": "facts",
+   "why": "Stale and overtaken: published November 10 at 10:31 am IST (about 30 hours ago), it reports only the toss and says 'start of play and any score were not available'; its 'What happens next' section previews a match that has long since finished, so the reader is not told who won or whether India sealed the series. The English says the toss was pushed back 'by well over an hour' but the Hindi says 'more than one and a half hours' (डेढ़ घंटे से ज़्यादा), so the twins do not match.",
+   "fix": "Rewrite as the result story for the 40-over third ODI at Seddon Park (final scores, margin, method if DLS, top performers, whether India took a 3-0 series win or New Zealand cut it to 2-1), with the headline and both covers changed to the result. Use the same delay wording in English and Hindi. If the result cannot be sourced, take the story down instead of leaving a toss report up a day later. The Shubman Gill photo is fine if India won; if New Zealand won, lead with the match-winner."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Ukraine in several top slots; Swachh preview stale; Advani Nov 8 in Politics; lead not Indian",
+   "done": "Lead moved to the Amit Shah infiltrators story (Indian, photo); dropped Abu Dhabi day one, both Zelenskyy Black Sea items, the Swachh preview and the Advani story from the top. Not done: seafarers and Sangrur stories (no readable primary source this run; Sangrur draft dropped as under 600 words on reports only), Mamata cut-out crop and Sri Lanka day-three score (template and no fresh source)."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 14:39 as well: zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+  "led at 14:39 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+  "led or sat beside the lead at 13:46 as well: zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+ ],
+ "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+}

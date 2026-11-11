@@ -35,7 +35,7 @@ infographic:
     - {date: "10 नवंबर", text: "तीसरा वनडे बिना गेंद रद्द", icon: cloud-rain}
     - {date: "13 नवंबर", text: "चौथा वनडे, अय्यर कप्तान", icon: cricket}
   source: "मैच रिपोर्ट, 10 नवंबर 2026"
-related: [india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay, hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi, india-beat-new-zealand-five-wickets-dls-eden-park-first-odi]
+related: [hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi, india-beat-new-zealand-five-wickets-dls-eden-park-first-odi]
 seo:
   description: "हैमिल्टन के सेडन पार्क में भारत-न्यूज़ीलैंड तीसरा वनडे बारिश से बिना गेंद फेंके रद्द। भारत सीरीज़ में 2-0 से आगे, आखिरी दो वनडे में श्रेयस अय्यर कप्तान।"
 sources:
@@ -75,7 +75,7 @@ verification:
 
 ## दिन भर का इंतज़ार
 
-खेल भारतीय समय के अनुसार सुबह 7:30 बजे शुरू होना था। गीले आउटफील्ड और फिर बूंदाबांदी के कारण घंटों कवर लगे रहे और टॉस एक घंटे से ज़्यादा देर से हुआ। शुभमन गिल ने लगातार तीसरी बार टॉस जीतकर गेंदबाज़ी चुनी और भारत ने वही ग्यारह खिलाड़ी उतारे जो वेलिंगटन में खेले थे। यह सब [टॉस की हमारी रिपोर्ट](/hi/news/india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay) में है। मैच 40-40 ओवर का किया गया और हर गेंदबाज़ के लिए अधिकतम 8 ओवर तय हुए, पर मौसम ने शुरुआत नहीं होने दी।
+खेल भारतीय समय के अनुसार सुबह 7:30 बजे शुरू होना था। गीले आउटफील्ड और फिर बूंदाबांदी के कारण घंटों कवर लगे रहे और टॉस एक घंटे से ज़्यादा देर से हुआ। शुभमन गिल ने लगातार तीसरी बार टॉस जीतकर गेंदबाज़ी चुनी और भारत ने वही ग्यारह खिलाड़ी उतारे जो वेलिंगटन में खेले थे। मैच 40-40 ओवर का किया गया और हर गेंदबाज़ के लिए अधिकतम 8 ओवर तय हुए, पर मौसम ने शुरुआत नहीं होने दी।
 
 पिच को लेकर पहले से चिंता थी। जैसा [मैच की पूर्व संध्या पर हमने बताया था](/hi/news/hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match), बारिश शुरू होने से पहले ग्राउंड स्टाफ को पिच तैयार करने का बहुत कम समय मिला और वह लंबे समय तक कवर के नीचे रही।
 

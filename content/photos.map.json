@@ -45949,6 +45949,18 @@
   "licence": "GODL-India",
   "alt": "J. P. Nadda (file photo)",
   "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_J.P._Nadda_addressing_a_press_conference_on_the_General_Budget_2018-19,_in_New_Delhi_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_J.P._Nadda_addressing_a_press_conference_on_the_General_Budget_2018-19,_in_New_Delhi_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-nadda-colombo-bimstec-health-ministers-jamnagar-centre-1280.jpg",
+   "src800": "/photos/t-nadda-colombo-bimstec-health-ministers-jamnagar-centre-640.jpg",
+   "cutout": true,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "c7dbffffff980000",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
  }
 }

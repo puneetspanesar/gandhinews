@@ -47,3 +47,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Held by the editor: yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters (broken split cover; needs a clean solo Yogi photo at least 900 px, library portrait free again after Nov 14). Unsourced programme figures already cut.
 - Editor homepage notes not done (template-driven): lead column same-subject follow-ups link Abu Dhabi day one and Rubio; Must Read carries the Sri Lanka day-three-start item; mobile bottom nav covers the first card under the lead.
 - NEXT RUN, FIRST: UPSC Mains result and DAF-II (Nov 11 to 25); Delhi CPCB 4 pm AQI; Sensex close story (rally over 1%); Abu Dhabi talks outcome; Rawalpindi day three close; Swachh Survekshan results.
+
+## November 11, 2026, 4:50 pm (from the 16:00 run)
+- Published 1: nadda-colombo-bimstec-health-ministers-jamnagar-centre (Nadda library file photo; syndicated ministry posts, PIB unreadable). Sangrur bus crash draft dropped (under 600 words, no primary readable).
+- Held by the editor: india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay (stale toss report; the abandoned-match story covers it).
+- Lead stays Zelenskyy Abu Dhabi day two (breach: led before; no fresh lead-worthy Indian news with a photo).
+- Markets: Nov 11 close (Sensex 81,879.40, Nifty 25,255.05) appended; movers, sectors, flows still old.
+- NEXT RUN, FIRST: six Indian seafarers safe after Persian Gulf attack (Sonowal); Swachh Survekshan 2025-26 winners (PIB); Sangrur PRTC bus crash (Punjab govt); Jairam Ramesh Ram Temple donations attack; Nov 11 movers, sectors and FII/DII flows; Mamata cut-out crop in Politics.

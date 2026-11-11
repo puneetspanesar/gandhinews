@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+    "id": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
     "overlay": {
       "kicker": {
-        "en": "Politics / Election Commission",
-        "hi": "राजनीति / चुनाव आयोग"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Keralam probe into CEC goes on",
-        "hi": "सीईसी के खिलाफ केरलम की जांच जारी"
+        "en": "Zelenskyy: Russia claimed half of Donbas",
+        "hi": "ज़ेलेंस्की: रूस ने आधे डोनबास का दावा किया"
       },
       "text": {
         "en": "",
@@ -18,103 +18,103 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
+      "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
     ],
     "live": {
       "title": {
-        "en": "Election Commission",
-        "hi": "चुनाव आयोग"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "lead": {
-          "en": "Assam:",
-          "hi": "असम:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
-          "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
+          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
+          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
         }
       },
       {
-        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
-          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
+          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
+          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
         }
       },
       {
-        "link": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "The poll code now binds retired officials. The Election Commission should publish the letter and name the penalty",
-          "hi": "आचार संहिता अब रिटायर अधिकारियों पर भी लागू। चुनाव आयोग पत्र सार्वजनिक करे और सज़ा बताए"
+          "en": "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Rawalpindi",
+          "hi": "रावलपिंडी में पाकिस्तान ने 434 पर पारी घोषित की, श्रीलंका 114/3 पर, अब भी 320 रन पीछे"
         }
       },
       {
-        "link": "extradition-explained-hasina-india-bangladesh-treaty",
+        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
+          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
+        }
+      },
+      {
+        "link": "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "lead": {
+          "en": "Election Commission:",
+          "hi": "चुनाव आयोग:"
+        },
+        "text": {
+          "en": "EC extends poll code curbs to retired officials re-engaged by five poll-bound states",
+          "hi": "चुनाव आयोग ने पांच चुनावी राज्यों में फिर से नियुक्त सेवानिवृत्त अधिकारियों पर भी लागू की आचार संहिता"
+        }
+      },
+      {
+        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
+          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
+        }
+      },
+      {
+        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
+          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
+        }
+      },
+      {
+        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
         "lead": {
           "en": "Bangladesh:",
           "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Extradition explained: can India send Sheikh Hasina back under the 2013 treaty?",
-          "hi": "प्रत्यर्पण क्या है: क्या 2013 की संधि के तहत भारत शेख हसीना को लौटा सकता है?"
-        }
-      },
-      {
-        "link": "black-sea-food-corridors-explained-grain-deal-india-mediation",
-        "lead": {
-          "en": "Ukraine:",
-          "hi": "यूक्रेन:"
-        },
-        "text": {
-          "en": "Black Sea food corridors explained: the 2022 grain deal, why it ended, and what India is being asked to do",
-          "hi": "काला सागर के खाद्य गलियारे क्या हैं: 2022 का अनाज समझौता, वह क्यों टूटा, और भारत से क्या कहा जा रहा है"
-        }
-      },
-      {
-        "link": "megamalai-ruling-forest-rights-line-must-be-honest",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The Megamalai ruling draws a line on forest rights. The process behind it must now be honest to those on the right side of it",
-          "hi": "मेगामलई फैसले ने वन अधिकार की रेखा खींच दी है। अब प्रक्रिया उन लोगों के साथ ईमानदार होनी चाहिए जो सही तरफ़ हैं"
-        }
-      },
-      {
-        "link": "womens-reservation-33-per-cent-when-will-it-start-explained",
-        "lead": {
-          "en": "Women's reservation:",
-          "hi": "महिला आरक्षण:"
-        },
-        "text": {
-          "en": "Women's reservation explained: the 33% law is in force, so when will women actually get the seats?",
-          "hi": "महिला आरक्षण: 33% का कानून लागू है, तो महिलाओं को सीटें असल में कब मिलेंगी?"
-        }
-      },
-      {
-        "link": "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-        "lead": {
-          "en": "Census 2027:",
-          "hi": "जनगणना 2027:"
-        },
-        "text": {
-          "en": "Census 2027 self-enumeration from November 16 in UP, Punjab, Goa and Uttarakhand: how to fill the form online",
-          "hi": "जनगणना 2027: यूपी, पंजाब, गोवा और उत्तराखंड में 16 नवंबर से स्व-गणना, ऑनलाइन फॉर्म कैसे भरें"
+          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
+          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+      "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "also": []
     },
     "list": [
-      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-      "extradition-explained-hasina-india-bangladesh-treaty",
-      "black-sea-food-corridors-explained-grain-deal-india-mediation",
-      "megamalai-ruling-forest-rights-line-must-be-honest",
-      "womens-reservation-33-per-cent-when-will-it-start-explained"
+      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+      "eci-extends-poll-code-curbs-retired-officials-five-states",
+      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+      "pmk-functionary-shot-dead-vellore-gudiyatham"
     ],
     "also": [
-      "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-      "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply"
+      "hasina-passport-request-dhaka-refuses-extradition-india",
+      "india-a-nz-a-lincoln-third-test-draw-series-level"
     ]
   },
   "startHere": [
@@ -368,9 +368,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "eci-extends-poll-code-curbs-retired-officials-five-states",
         "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
       ],
       "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
     },
@@ -396,18 +396,18 @@
       "section": "states",
       "lead": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
       "list": [
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
       ]
     },
     {
       "section": "policy",
       "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la",
-        "amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029"
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
       ]
     },
     {
@@ -424,26 +424,26 @@
       "section": "world",
       "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
       "list": [
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "modi-zelenskyy-phone-call-india-peace-efforts"
       ]
     },
     {
       "section": "science",
-      "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "lead": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
       "list": [
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
         "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31"
+        "nadda-national-cancer-awareness-day-screening-appeal"
       ]
     },
     {
       "section": "sports",
-      "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
+      "lead": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
       "list": [
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
         "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
       ]
@@ -522,20 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T06:37:35+05:30",
-      "ids": [
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11"
-      ]
-    },
     {
       "at": "2026-11-11T08:53:28+05:30",
       "ids": [
@@ -637,6 +623,20 @@
         "megamalai-ruling-forest-rights-line-must-be-honest",
         "womens-reservation-33-per-cent-when-will-it-start-explained",
         "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
+      ]
+    },
+    {
+      "at": "2026-11-11T16:46:30+05:30",
+      "ids": [
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "hasina-passport-request-dhaka-refuses-extradition-india"
       ]
     }
   ],
