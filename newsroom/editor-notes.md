@@ -100,3 +100,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - National and states desks wrote nothing: WebFetch refused on upsc.gov.in, pib.gov.in and CPCB.
 - Homepage: Zelenskyy Abu Dhabi, Zelenskyy Black Sea, Black Sea explainer and Hasina dropped from the top (four World stories).
 - NEXT RUN, FIRST: UPSC Civil Services Mains 2026 result; Delhi CPCB AQI; Abu Dhabi talks day two outcome; Pakistan v Sri Lanka day three; Wednesday markets open (Brent close).
+
+## November 11, 2026, 8:45 am (from the 08:00 run)
+- Published 0 new stories: every desk was refused WebFetch on its primary sources (upsc.gov.in, CPCB, PIB, MEA, SEBI, ECI, SCI, IMD, WHO, Kremlin, president.gov.ua, WAM, White House). The one story written (NASA ESCAPADE flybys, Nov 7 and 9) was dropped as older than the window.
+- Held by the editor: rubio-g7-paris-no-need-major-combat-iran-economic-campaign (smiling studio portrait on an Iran war story; needs a news photo of Rubio at the Paris G7 meeting or a podium).
+- Homepage: Zelenskyy Black Sea card, Black Sea explainer, women's reservation explainer and the Kharge fact check dropped from the top. Must Read now tops up from the last 48 hours on a quiet morning (src/lib/home.ts), which cleared a 181px gap on the Hindi desktop page.
+- Editor homepage notes not done: lead should be Indian news (no fresh lead-worthy Indian story exists); Sri Lanka score is the day-two close; Bastar and Rajnath Sherathang repeats in Politics and Policy lists (template-driven).
+- NEXT RUN, FIRST: UPSC Mains result and DAF-II window (Nov 11 to 25); Delhi CPCB AQI; Abu Dhabi talks day two outcome; Pakistan v Sri Lanka day three close; markets open (first session since Nov 9); Rubio rewrite with a proper photo.
