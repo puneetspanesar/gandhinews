@@ -90,9 +90,6 @@ The state should name the site, the date by which houses will be handed over and
 
 The third duty is to answer a charge. Leader of the Opposition Naveen Patnaik wrote to Chief Minister Mohan Charan Majhi on Tuesday calling the Ganjam floods a "manmade crisis". He alleges that the India Meteorological Department gave its **earliest warning on October 23**, that dam levels should have been watched and water released before the heavy rain, and that the Water Resources Department instead released water after the rain had begun, without proper warning to people downstream.
 
-```photo
-{"n":1,"subject":"Naveen Patnaik","caption":"Naveen Patnaik, Leader of the Opposition in Odisha, who wrote to the chief minister on November 10 calling the Ganjam floods a manmade crisis.","alt":"Naveen Patnaik, Leader of the Opposition in Odisha"}
-```
 
 These are allegations, made by a party with its own politics, and the government is entitled to dispute them. The state has so far pointed to the scale of the rainfall and the relief work under way. But this is a dispute that records can settle in an afternoon. When were reservoir levels read? When were the gates opened, and by how much? What was sent to the villages downstream, and when?
 

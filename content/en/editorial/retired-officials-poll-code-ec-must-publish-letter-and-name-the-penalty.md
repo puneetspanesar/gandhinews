@@ -66,9 +66,6 @@ A senior official cited in reports said the Commission had received complaints o
 
 The letter therefore adds a second bar, aimed at the governments themselves: they may not summon election-related officers of a district where polls have been announced, or hold video conferences with them. Instructions on election work should come from the Commission and its officers, and from nobody else.
 
-```photo
-{"n":1,"subject":"Nirvachan Sadan","caption":"Nirvachan Sadan in New Delhi, the headquarters of the Election Commission, which issued the November 9 letter.","alt":"Nirvachan Sadan, the Election Commission headquarters in New Delhi"}
-```
 
 ## Three things the letter should have done
 

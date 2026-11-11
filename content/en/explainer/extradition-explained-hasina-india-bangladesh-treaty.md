@@ -87,9 +87,6 @@ Third, India's own law. Under the Extradition Act the Centre can stop proceeding
 
 **The treaty does not make it an automatic bar.** Capital punishment is not listed as a ground for refusal, and Bangladesh still has the death penalty. It could still feed the argument that surrender would be unjust or oppressive. India's Act provides for life imprisonment instead of death where the requesting country does not have the penalty for the offence, but that does not apply here.
 
-```photo
-{"n":1,"subject":"Tarique Rahman","caption":"Tarique Rahman's government in Dhaka says Hasina would get due legal process on return.","alt":"Bangladesh leader Tarique Rahman"}
-```
 
 ## What has India said?
 
@@ -97,9 +94,6 @@ Third, India's own law. Under the Extradition Act the Centre can stop proceeding
 
 This is where the law ends and politics begins. The treaty gives India grounds to refuse if it wishes and, on the better reading, little ground to refuse **merely because she is a political figure**. Which route New Delhi takes will be shaped by its wish for a working relationship with the elected government in Dhaka, which took power after February's election, and by its history with Hasina. That judgement is ours, not a legal finding.
 
-```photo
-{"n":2,"subject":"South Block","caption":"The Ministry of External Affairs, in South Block, is examining Dhaka's extradition requests.","alt":"South Block in New Delhi, home of the Ministry of External Affairs"}
-```
 
 ## What happens next
 

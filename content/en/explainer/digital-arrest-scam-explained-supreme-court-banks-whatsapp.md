@@ -81,9 +81,6 @@ Then comes the money. The victim is told to move savings into a "safe" or "verif
 
 Since then the court has asked every state and Union Territory for its case details and indicated it may hand cases with a pan-India or cross-border spread to the CBI. The Attorney General told the bench that gangs operate from outside India, including Myanmar and Thailand.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court in New Delhi, where the suo motu digital arrest case is being heard.","alt":"The Supreme Court of India building in New Delhi"}
-```
 
 ## What the court said on November 10
 

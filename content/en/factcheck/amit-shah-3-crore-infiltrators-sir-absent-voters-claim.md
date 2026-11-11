@@ -99,7 +99,7 @@ A written reply by Law Minister Arjun Ram Meghwal in the Lok Sabha, issued by PI
 
 ### 3. Where the 3 crore comes from
 
-A report of the Commission's statement on October 2, 2026 says the roughly 13 crore figure covers voters marked absent, shifted, dead or duplicate in the draft rolls, not names deleted from the final rolls. It gives about 2.8 crore dead, about 3 crore absent or untraceable, about 6.3 crore shifted and nearly 1 crore at more than one place. Shah's third figure sits in the same place as the "absent" group. The Commission has also said that only Indian citizens can be registered as voters and that the revision aims to remove foreigners among other ineligible entries, so foreign nationals are a possible reason for a removal. It has not, in what we could open, said how many were found.
+A report of the Commission's statement on October 2, 2026, says the roughly 13 crore figure covers voters marked absent, shifted, dead or duplicate in the draft rolls, not names deleted from the final rolls. It gives about 2.8 crore dead, about 3 crore absent or untraceable, about 6.3 crore shifted and nearly 1 crore at more than one place. Shah's third figure sits in the same place as the "absent" group. The Commission has also said that only Indian citizens can be registered as voters and that the revision aims to remove foreigners among other ineligible entries, so foreign nationals are a possible reason for a removal. It has not, in what we could open, said how many were found.
 
 ### 4. No published count of infiltrators
 
