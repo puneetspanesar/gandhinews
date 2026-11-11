@@ -70,10 +70,6 @@ The notification was issued by Lieutenant Governor Vinai Kumar Saxena, acting as
 
 An administration notification dated October 21 (S.O. 290) fixed the number of seats for each council. Together the councils have **100 elected constituencies**, against 52 elected seats under the earlier arrangement of two councils, Leh and Kargil. Leh has 22, Kargil 21, Sankoo 13, Changthang 10, and Nubra, Sham and Zanskar 9 each, while Drass has 7. The seats were built from panchayat halqas and municipal wards, adjusted for population and area.
 
-```photo
-{"n":1,"subject":"Kargil","caption":"Kargil town, seat of the council that was dissolved in October and now votes again on December 4.","alt":"Kargil town, Ladakh"}
-```
-
 The new law behind the numbers is the Ladakh Autonomous Hill Development Councils (Amendment) Regulation, 2026, which **took effect on October 19**. It replaced the fixed 26 seats per council with a range of 7 to 24 elected seats, allows up to four nominated members from women and unrepresented communities, and gives councils powers equivalent to those of district-level panchayats. The State Election Commission supervises the polls. Our earlier report on the regulation is [here](/en/news/ladakh-hill-council-regulation-amended-7-24-seats).
 
 ## How Ladakh got here

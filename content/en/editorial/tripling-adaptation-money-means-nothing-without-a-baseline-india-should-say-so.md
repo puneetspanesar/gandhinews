@@ -77,10 +77,6 @@ The loss and damage fund is a small preview. On October 22 it voted **$20 millio
 
 Nobody doubts that the fund is better than nothing. But it shows how an agreed principle becomes a sum far below the claim on it when no one has written down who owes what.
 
-```photo
-{"n":1,"subject":"Chris Bowen","caption":"Australia's Chris Bowen, President of Negotiations at COP31, chairs the talks that will decide the finance text.","alt":"Chris Bowen, President of Negotiations at COP31"}
-```
-
 ## What India has asked for, and what it should add
 
 India's Environment Minister, **Bhupender Yadav**, said at a briefing in New Delhi on November 3 that climate finance is India's first priority. India wants COP31 to launch a Climate Finance Work Programme and holds that finance is a developed-country obligation under Article 9.1 of the Paris framework. In Yadav's words, it "must be predictable, largely public and concessional".

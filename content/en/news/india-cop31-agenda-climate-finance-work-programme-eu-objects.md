@@ -93,10 +93,6 @@ Before the conference, EU Climate Commissioner Wopke Hoekstra called any new cli
 
 Greenpeace's delegation head, Jasper Inventor, called the work programme's place on the agenda "a good first step" but said it guarantees no agreement on how much money there will be, where it comes from or how it is shared. Avantika Goswami of the Centre for Science and Environment said: "We have to make sure that the pledges committed, despite being meagre, deliver real change."
 
-```photo
-{"n":1,"subject":"Wopke Hoekstra","caption":"EU Climate Commissioner Wopke Hoekstra, who has said new finance demands at COP31 are not on the agenda.","alt":"EU Climate Commissioner Wopke Hoekstra"}
-```
-
 ## Why the numbers matter
 
 The gap between money and need is the backdrop. The UN Environment Programme's Adaptation Gap Report 2026 puts international public adaptation finance at **$28.2 billion to $31.7 billion in 2024**, only about $1 billion more than a year earlier. Developing countries' yearly adaptation needs are estimated at **$305 billion by 2035**, or about $420 billion with inflation. Even tripling today's flows would cover only 20% to 29% of that need.

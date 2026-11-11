@@ -45860,18 +45860,6 @@
   },
   "nophoto": "no free photo of a train derailment in Assam or the Northeast; library, quick_photo, finder h1110 and h1110b (only Mumbai 2013 and Coromandel 2023 scenes, other regions)"
  },
- "sensex-nifty-post-diwali-rally-eight-month-high": {
-  "id": "r-sensex-nifty-post-diwali-rally-eight-month-high",
-  "src": "/photos/r-sensex-nifty-post-diwali-rally-eight-month-high-1280.jpg",
-  "src800": "/photos/r-sensex-nifty-post-diwali-rally-eight-month-high-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Niyantha Shekhar / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "The Bombay Stock Exchange building, Mumbai (file photo)",
-  "alt_hi": "मुंबई में बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg"
- },
  "india-cop31-agenda-climate-finance-work-programme-eu-objects": {
   "id": "o-india-cop31-agenda-climate-finance-work-programme-eu-objects",
   "src": "/photos/o-india-cop31-agenda-climate-finance-work-programme-eu-objects-1280.jpg",
@@ -45940,5 +45928,17 @@
   "alt": "Sergey Lavrov (file photo)",
   "alt_hi": "सर्गेई लावरोव (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Sergey_Lavrov_February_2016.jpg"
+ },
+ "ladakh-eight-hill-councils-poll-december-4-results-december-8": {
+  "id": "o-ladakh-eight-hill-councils-poll-december-4-results-december-8",
+  "src": "/photos/o-ladakh-eight-hill-councils-poll-december-4-results-december-8-1280.jpg",
+  "src800": "/photos/o-ladakh-eight-hill-councils-poll-december-4-results-december-8-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: McKay Savage from London, UK / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Leh town, Ladakh (file photo)",
+  "alt_hi": "लेह शहर, लद्दाख (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Ladakh_-_Leh_-_032_-_Old_Town_from_the_Palace_(3842494471).jpg"
  }
 }
