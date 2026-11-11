@@ -5,12 +5,12 @@ type: news
 section: policy
 format_label: "Policy / Urban Affairs"
 topics: []
-title: "Greater Visakhapatnam named cleanest big city as President Murmu confers 60 Swachh Survekshan awards"
+title: "Visakhapatnam, Jabalpur and Lucknow named top three big cities as President Murmu confers 60 Swachh Survekshan awards"
 standfirst: "The 10th edition of the cleanliness survey, which scored 4,751 cities, put Visakhapatnam, Jabalpur and Lucknow on top among cities of 10 lakh or more, with Navi Mumbai, Surat and Vijayawada leading the Super Swachh League."
 published: 2026-11-12T00:15:20+05:30
 location: New Delhi
 keyPoints:
-  - "**Greater Visakhapatnam** topped the million-plus category, ahead of Jabalpur and Lucknow."
+  - "**Greater Visakhapatnam, Jabalpur and Lucknow** were named the top three in the million-plus category."
   - "President Droupadi Murmu presented **60 national awards** at Vigyan Bhawan in New Delhi on Wednesday."
   - "Over **350 urban bodies climbed more than 500 ranks** this year, the housing ministry said."
 hero:
@@ -19,10 +19,10 @@ hero:
   subjects: ["Droupadi Murmu", "Manohar Lal Khattar"]
   alt: "President Droupadi Murmu presents a Swachh Survekshan 2025-26 award at Vigyan Bhawan, New Delhi"
   overlay:
-    value: "Visakhapatnam tops big cities"
+    value: "Top three big cities named"
 infographic:
   kicker: "Swachh Survekshan 2025-26"
-  headline: "Visakhapatnam cleanest among big cities"
+  headline: "Top three among big cities"
   dek: "60 national awards in the 10th edition of the survey"
   motif: trophy
   stats:
@@ -57,19 +57,15 @@ verification:
     - "Photo sheet shows Ujjain and Navi Mumbai placards; Ujjain not in any text source, so not used."
 ---
 
-Greater Visakhapatnam has been named the cleanest city in India among those with a population of 10 lakh or more, in the **10th Swachh Survekshan results announced on Wednesday**. Jabalpur and Lucknow follow it in the million-plus category, according to the Ministry of Housing and Urban Affairs.
+Greater Visakhapatnam, Jabalpur and Lucknow have been named India's top three cities among those with a population of 10 lakh or more, in the **10th Swachh Survekshan results announced on Wednesday**, according to the Ministry of Housing and Urban Affairs. The release does not rank the three against each other.
 
-President Droupadi Murmu presented the awards at Vigyan Bhawan in New Delhi on November 11. Union Housing and Urban Affairs Minister Manohar Lal and Minister of State Tokhan Sahu were present. The Department of Urban Development convened the ceremony, which handed out **60 national awards**.
+President Droupadi Murmu presented the awards at Vigyan Bhawan in New Delhi on November 11, 2026. Union Housing and Urban Affairs Minister Manohar Lal and Minister of State Tokhan Sahu were present. The Department of Urban Development convened the ceremony, which handed out **60 national awards**.
 
 ## Who won what
 
 The ministry's release lists winners in seven groups. In the **Super Swachh League**, which is reserved for cities that have already topped earlier rankings, **Navi Mumbai, Surat and Vijayawada** were named. The mentor and mentee pairing prize, Swachh Shehar Jodi, went to **Ahmedabad with Sanand, Indore with Depalpur, and Tirupati with Kuppam**.
 
 Among the specialised categories, Rudrapur in Uttarakhand, Jammu and Shopian in Jammu and Kashmir were named Clean Himalayan Cities. Rewa in Madhya Pradesh, Bilaspur in Chhattisgarh and Varanasi in Uttar Pradesh took the river front town awards, in that order. Puri in Odisha, Alappuzha in Kerala and Ratnagiri in Maharashtra were the **Swachh Coastal Towns**.
-
-```photo
-{"n":1,"subject":"Visakhapatnam","caption":"Visakhapatnam, whose municipal corporation topped the million-plus category.","alt":"Visakhapatnam city and the Bay of Bengal coast"}
-```
 
 The release does not name the winners in the survey's other four population categories, and it does not list the **30 cities given the State First Swachh City award**. Union Territories were grouped into two classes, those with up to five urban local bodies and those with more than five.
 
@@ -83,13 +79,9 @@ Satendra Singh, Secretary of the Department of Urban Development, called the day
 
 ## How the survey grew
 
-The survey, run by the ministry every year since 2016, began with 73 urban bodies. This edition assessed **4,751 cities** on 43 indicators across 10 areas, with more than 3,000 trained assessors whose visits were tracked by GPS. About **2.70 crore citizens** gave feedback, the ministry said. As we reported before the ceremony, the ministry had said the results would be announced on November 11.
+The survey, run by the ministry every year since 2016, began with 73 urban bodies. This edition assessed **4,751 cities** on 43 indicators across 10 areas, with more than 3,000 trained assessors whose visits were tracked by GPS. About **2.70 crore citizens** gave feedback, the ministry said. As we reported before the ceremony, the ministry had said the results would be announced on November 11, 2026.
 
 The ministry also pointed to movement in the lower and middle of the table. **More than 350 urban local bodies rose by over 500 ranks**, and more than 1,700 cities with populations under 50,000 improved on their 2024-25 positions.
-
-```photo
-{"n":2,"subject":"Manohar Lal Khattar","caption":"Union Housing and Urban Affairs Minister Manohar Lal, who announced the next phase of the programme.","alt":"Manohar Lal Khattar, Union Housing and Urban Affairs Minister"}
-```
 
 ## What comes next
 

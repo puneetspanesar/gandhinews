@@ -4,7 +4,7 @@ lang: hi
 translation_of: kulgam-crpf-naka-attack-three-injured-nov-11
 type: news
 section: states
-format_label: "राज्य / जम्मू-कश्मीर"
+format_label: "राज्य / जम्मू और कश्मीर"
 topics: [states]
 title: "कुलगाम में मोटरसाइकिल सवार हमलावरों की फायरिंग, सीआरपीएफ के तीन जवान घायल"
 standfirst: "बुधवार को करीब 2:15 बजे मीर बाजार के पास हमलावरों ने नाके पर गोलियां चलाईं और भाग निकले। तीनों घायल अनंतनाग मेडिकल कॉलेज में हैं और कई एजेंसियों की तलाश जारी है।"

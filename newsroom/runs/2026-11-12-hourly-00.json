@@ -1,0 +1,29 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-12T00:04:33+05:30",
+ "end": "2026-11-12T00:43:03+05:30",
+ "summary": "4 stories: Swachh Survekshan lead, Kulgam attack, RBI transfer rules, Rawalpindi day four",
+ "new": [
+  "kulgam-crpf-naka-attack-three-injured-nov-11",
+  "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+  "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+  "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+   "why": "Main picture is a wide group photo of about 80 award winners in which President Murmu, the person the headline names, is too small to recognise (rule 3). Both in-story photos (Visakhapatnam, Manohar Lal Khattar) came back NOT FOUND and will be dropped, though free photos of both certainly exist. The body also gives 'on November 11.' twice with no year (rule 14).",
+   "done": "Main picture swapped to the closer PIB photo of President Murmu presenting an award on stage (Ujjain, 3 to 10 lakh category; no conflict with the top-three headline); both missing in-story photo blocks deleted from EN and HI; \"November 11, 2026\" in the body."
+  },
+  {
+   "id": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+   "why": "English dates have no year: 'Thursday, November 12', 'Friday, November 13' (twice), 'Tuesday, November 10', 'November 17 to 21', 'from November 17' (rule 14).",
+   "done": "\", 2026\" added to every English date in the body and key point."
+  }
+ ],
+ "breaches": [],
+ "lead": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
+}

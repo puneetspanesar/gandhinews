@@ -46422,16 +46422,46 @@
   "nophoto": "no free photo of a crude tanker in the Persian Gulf; library, quick_photo, finder h1122"
  },
  "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit": {
-  "id": "r-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-  "src": "/photos/r-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-1280.jpg",
-  "src800": "/photos/r-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-640.jpg",
+  "id": "i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+  "src": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-en-3x2-1280.jpg",
+  "src800": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Reserve Bank of India tower in Mumbai (file photo)",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_03.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: RBI keeps cash transfer limits in one rulebook",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: आरबीआई का एक नियम-पुस्तक, सीमाएं वही",
+  "page": null,
+  "ihash": "735de514c9c0",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-en-t-1280.jpg",
+    "src800": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-hi-t-1280.jpg",
+    "src800": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-en-1280.jpg",
+    "src800": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-hi-1280.jpg",
+    "src800": "/photos/i-rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit-hi-640.jpg"
+   }
+  }
  },
  "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers": {
   "id": "o-swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
@@ -46442,8 +46472,106 @@
   "srcWidth": 6192,
   "credit": "Photo: PIB",
   "licence": "PIB (free reproduction with credit)",
-  "alt": "President Droupadi Murmu presents a Swachh Survekshan 2025-26 award to Navi Mumbai's team at Vigyan Bhawan, New Delhi",
-  "alt_hi": "राष्ट्रपति द्रौपदी मुर्मु नई दिल्ली के विज्ञान भवन में नवी मुंबई की टीम को स्वच्छ सर्वेक्षण 2025-26 का पुरस्कार प्रदान करते हुए",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2335230"
+  "alt": "President Droupadi Murmu presents a Swachh Survekshan 2025-26 award at Vigyan Bhawan, New Delhi, November 11, 2026",
+  "alt_hi": "11 नवंबर 2026 को विज्ञान भवन, नई दिल्ली में स्वच्छ सर्वेक्षण 2025-26 का पुरस्कार देतीं राष्ट्रपति द्रौपदी मुर्मु",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2335230",
+  "treated": {
+   "src": "/photos/t-swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-1280.jpg",
+   "src800": "/photos/t-swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-640.jpg",
+   "cutout": false,
+   "with": [
+    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally--p2",
+    "up-village-polls-cannot-wait-for-an-appeal"
+   ],
+   "kind": "photo",
+   "subj": "3fffbf9ef4300200",
+   "credit": "Photos: PIB; ArmouredCyborg / Wikimedia Commons; Shoonyea / Wikimedia Commons"
+  }
+ },
+ "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi": {
+  "id": "i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+  "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-3x2-1280.jpg",
+  "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Day four: 30 runs and the weather",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: चौथा दिन: 30 रन और मौसम",
+  "page": null,
+  "ihash": "f873a37870be",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-t-1280.jpg",
+    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-t-1280.jpg",
+    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-1280.jpg",
+    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-1280.jpg",
+    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Mohammad Abbas, Dhananjaya de Silva or Kusal Mendis; library, quick_photo, finder h1200"
+ },
+ "kulgam-crpf-naka-attack-three-injured-nov-11": {
+  "id": "i-kulgam-crpf-naka-attack-three-injured-nov-11",
+  "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-3x2-1280.jpg",
+  "src800": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Three CRPF men hurt at Kulgam checkpost",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कुलगाम नाके पर सीआरपीएफ के तीन जवान घायल",
+  "page": null,
+  "ihash": "9ea706a95f31",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-hi-3x2-1280.jpg",
+    "src800": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-t-1280.jpg",
+    "src800": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-hi-t-1280.jpg",
+    "src800": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-1280.jpg",
+    "src800": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-hi-1280.jpg",
+    "src800": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Kulgam attack or CRPF in south Kashmir; library, quick_photo, finder h1200"
  }
 }

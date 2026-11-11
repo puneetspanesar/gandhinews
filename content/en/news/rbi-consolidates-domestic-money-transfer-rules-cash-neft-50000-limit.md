@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "RBI's own text of the directions could not be opened this run; story rests on two published reports (Business Standard, Nov 11, 2026 and July 24, 2024)."
+    - "RBI's own text of the directions could not be opened this run; story rests on two published reports (Business Standard, Nov 11, 2026, and July 24, 2024)."
     - "Date of issue inferred as November 10 from the report; effective date, circular number and exact title not found. Copy says RBI has consolidated, without naming a date."
 ---
 
@@ -72,9 +72,9 @@ Banks and non-banks may levy reasonable charges and set up grievance systems. Co
 
 ## How we got here
 
-The framework for this segment was first introduced in 2021, according to the 2024 report on the RBI's earlier changes. On **July 24, 2024, the RBI tightened the KYC requirements**: remitting banks had to keep the beneficiary's name and address for cash payouts, validate each transaction with an additional factor of authentication, register remitters through a verified mobile number and an officially valid document, and follow the Income Tax Act on cash deposits.
+The framework for this segment dates to the RBI circular of October 5, 2011, which these directions repeal. On **July 24, 2024, the RBI tightened the KYC requirements**: remitting banks had to keep the beneficiary's name and address for cash payouts, validate each transaction with an additional factor of authentication, register remitters through a verified mobile number and an officially valid document, and follow the Income Tax Act on cash deposits.
 
-The RBI said then that banking outlets had expanded, payment systems had developed and KYC had become easier to meet. Much of that 2024 content now sits in the consolidated text. The new directions **repeal the October 5, 2011 circular** on relaxations in domestic money transfers and the July 24, 2024 circular that reviewed the framework.
+The RBI said then that banking outlets had expanded, payment systems had developed and KYC had become easier to meet. Much of that 2024 content now sits in the consolidated text. The new directions **repeal the October 5, 2011, circular** on relaxations in domestic money transfers and the July 24, 2024, circular that reviewed the framework.
 
 ## Why it matters to readers
 

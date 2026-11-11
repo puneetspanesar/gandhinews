@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+    "id": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
     "overlay": {
       "kicker": {
-        "en": "Policy / Haj",
-        "hi": "नीति / हज"
+        "en": "Policy / Urban Affairs",
+        "hi": "नीति / शहरी मामले"
       },
       "value": {
-        "en": "1,75,025 places for Haj 2027",
-        "hi": "हज 2027 के लिए 1,75,025 सीटें"
+        "en": "Visakhapatnam tops big cities",
+        "hi": "बड़े शहरों में विशाखापत्तनम अव्वल"
       },
       "text": {
         "en": "",
@@ -18,17 +18,61 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal"
+      "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
     ],
     "live": {
       "title": {
-        "en": "Haj",
-        "hi": "हज"
+        "en": "Urban Affairs",
+        "hi": "शहरी मामले"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Pakistan need early wickets in Rawalpindi but afternoon rain is forecast on day four",
+          "hi": "रावलपिंडी में पाकिस्तान को जल्द विकेट चाहिए, पर चौथे दिन दोपहर में बारिश का अनुमान"
+        }
+      },
+      {
+        "link": "sangrur-prtc-bus-flyover-crash-three-killed",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
+          "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
+        }
+      },
+      {
+        "link": "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI folds money transfer rules into one set of directions, keeps ₹50,000 cash NEFT limit",
+          "hi": "आरबीआई ने घरेलू धन अंतरण के नियम एक निर्देश में समेटे, नकद NEFT की ₹50,000 सीमा बरकरार"
+        }
+      },
+      {
+        "link": "kulgam-crpf-naka-attack-three-injured-nov-11",
+        "lead": {
+          "en": "Jammu and Kashmir:",
+          "hi": "जम्मू और कश्मीर:"
+        },
+        "text": {
+          "en": "Three CRPF personnel injured as motorcycle-borne gunmen fire at Kulgam checkpost",
+          "hi": "कुलगाम में मोटरसाइकिल सवार हमलावरों की फायरिंग, सीआरपीएफ के तीन जवान घायल"
+        }
+      },
       {
         "link": "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
         "lead": {
@@ -41,25 +85,14 @@
         }
       },
       {
-        "link": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+        "link": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "De Silva and Kusal Mendis add 249 unbeaten as Sri Lanka reach 404 for 4 in Rawalpindi",
-          "hi": "डी सिल्वा और कुसल मेंडिस की 249 रन की नाबाद साझेदारी, रावलपिंडी में श्रीलंका 404/4"
-        }
-      },
-      {
-        "link": "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-        "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
-        },
-        "text": {
-          "en": "Haryana to set up special SC/ST courts in five districts, wants every chargesheet in 60 days",
-          "hi": "हरियाणा के पांच जिलों में बनेंगी एससी/एसटी विशेष अदालतें, 60 दिन में चालान का लक्ष्य"
+          "en": "Karnataka moves Supreme Court against High Court order striking down SC/ST quota hike",
+          "hi": "एससी/एसटी कोटा बढ़ोतरी रद्द करने के हाईकोर्ट के फैसले के खिलाफ कर्नाटक सुप्रीम कोर्ट पहुंचा"
         }
       },
       {
@@ -82,39 +115,6 @@
         "text": {
           "en": "M John Harrison, 81, wins the Booker Prize for The End of Everything, the oldest winner yet",
           "hi": "81 साल के एम जॉन हैरिसन को 'द एंड ऑफ एवरीथिंग' के लिए बुकर पुरस्कार, अब तक के सबसे उम्रदराज विजेता"
-        }
-      },
-      {
-        "link": "sangrur-prtc-bus-flyover-crash-three-killed",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
-          "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
-        }
-      },
-      {
-        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
-          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
-        }
-      },
-      {
-        "link": "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
-        "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
-        },
-        "text": {
-          "en": "Parameshwara says the Constitution ties reservation to population. For jobs and admissions, the court record says otherwise",
-          "hi": "परमेश्वर: संविधान आरक्षण को आबादी से जोड़ता है। नौकरी और दाखिले के लिए अदालती रिकॉर्ड कुछ और कहता है"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+      "id": "sangrur-prtc-bus-flyover-crash-three-killed",
       "also": []
     },
     "list": [
-      "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-      "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-      "sangrur-prtc-bus-flyover-crash-three-killed",
-      "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+      "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+      "kulgam-crpf-naka-attack-three-injured-nov-11",
+      "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+      "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+      "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14"
     ],
     "also": [
-      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
-      "evening-courts-pilot-needs-published-targets-and-a-legal-basis"
+      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+      "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     ]
   },
   "startHere": [
@@ -376,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "lead": "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,27 +387,27 @@
         ]
       },
       "list": [
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
         "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
+        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
       ]
     },
     {
       "section": "states",
-      "lead": "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+      "lead": "kulgam-crpf-naka-attack-three-injured-nov-11",
       "list": [
+        "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
         "sangrur-prtc-bus-flyover-crash-three-killed",
-        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi"
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries"
       ]
     },
     {
       "section": "policy",
-      "lead": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+      "lead": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
       "list": [
         "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -426,7 +426,7 @@
       "list": [
         "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
-        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
       ]
     },
     {
@@ -440,7 +440,7 @@
     },
     {
       "section": "sports",
-      "lead": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+      "lead": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
       "list": [
         "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
         "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
@@ -457,42 +457,6 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Day three of Pakistan v Sri Lanka, first Test, Rawalpindi",
-        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: तीसरा दिन"
-      },
-      "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "President Murmu confers Swachh Survekshan 2025-26 awards at Vigyan Bhawan, New Delhi",
-        "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
-      },
-      "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
-        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
         "en": "India releases October retail inflation data; September was 5.54%",
         "hi": "अक्टूबर की खुदरा महंगाई के आंकड़े जारी होंगे; सितंबर में यह 5.54% थी"
       },
@@ -501,8 +465,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi",
@@ -513,31 +477,51 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
+        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
+      },
+      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
         "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
       },
       "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+    },
+    {
+      "icon": "chart-line",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Retail inflation (CPI) for October, 4 pm",
+        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
+    },
+    {
+      "icon": "bank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "RBI's weekly forex reserves figures",
+        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T14:29:47+05:30",
-      "ids": [
-        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-        "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
-        "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
-      ]
-    },
     {
       "at": "2026-11-11T15:20:17+05:30",
       "ids": [
@@ -637,6 +621,20 @@
         "sangrur-prtc-bus-flyover-crash-three-killed",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "parameshwara-constitution-says-reservation-in-proportion-to-population-claim"
+      ]
+    },
+    {
+      "at": "2026-11-12T00:31:47+05:30",
+      "ids": [
+        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+        "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+        "kulgam-crpf-naka-attack-three-injured-nov-11",
+        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner"
       ]
     }
   ],

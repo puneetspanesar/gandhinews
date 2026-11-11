@@ -54,3 +54,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Lead stays Zelenskyy Abu Dhabi day two (breach: led before; no fresh lead-worthy Indian news with a photo).
 - Markets: Nov 11 close (Sensex 81,879.40, Nifty 25,255.05) appended; movers, sectors, flows still old.
 - NEXT RUN, FIRST: six Indian seafarers safe after Persian Gulf attack (Sonowal); Swachh Survekshan 2025-26 winners (PIB); Sangrur PRTC bus crash (Punjab govt); Jairam Ramesh Ram Temple donations attack; Nov 11 movers, sectors and FII/DII flows; Mamata cut-out crop in Politics.
+
+## November 12, 2026, 12:45 am (from the 00:00 run)
+- Published 4: swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers (LEAD, PIB event photo; reworded to "top three", PIB gives no order), kulgam-crpf-naka-attack-three-injured-nov-11 (infographic --nophoto; rests on reports), rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit (infographic; RBI text not readable, rests on reports), rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi (infographic --nophoto; no free Abbas, de Silva or Kusal Mendis photo).
+- Editor homepage FAIL not fixed (two editor checks; template-driven): Must Read still carries the stale Abu Dhabi day one and day two items beside "talks end"; Haj quota card in a pictured slot; Swachh preview in the Policy list; seafarer card says three not six safe; fold gap under left and middle columns.
+- Markets: Nov 11 close kept; FII/DII flows for Nov 11 not read this run.
+- NEXT RUN, FIRST: MHA visa category simplification; PM Modi Karnataka and Gujarat visit Nov 13-14 preview; six seafarers safe update; Rawalpindi day four close; Nov 11 FII/DII flows; correct the "second Test in Lahore" line in the day-three story.

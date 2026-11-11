@@ -13,7 +13,7 @@ upcoming: {date: 2026-11-12, en: "Day four of Pakistan v Sri Lanka, first Test, 
 keyPoints:
   - "Sri Lanka resume on **404 for 4**, 30 runs behind Pakistan's 434 for 9 declared, with six wickets in hand."
   - "A forecast cited in reports gives a **92 per cent chance of rain** in the afternoon of day four, with about 14.6 mm possible."
-  - "The second Test, from November 17 to 21, has been **moved from Lahore to Rawalpindi** over smog."
+  - "The second Test, from November 17 to 21, 2026, has been **moved from Lahore to Rawalpindi** over smog."
 hero:
   need: "Pakistan fast bowler Mohammad Abbas and Sri Lanka batter Dhananjaya de Silva, the two sides of the day four contest at Rawalpindi"
   suggested_source: "Mohammad Abbas"
@@ -73,7 +73,7 @@ verification:
     - "Abbas and Ghori remarks are paraphrased in the sources, so no direct quotes are used."
     - "Our day-three story says the second Test is in Lahore; that is now outdated."
 ---
-Pakistan go into the fourth day of the first Test against Sri Lanka at Rawalpindi on Thursday, November 12, needing quick wickets and a dry morning. Sri Lanka resume on **404 for 4, only 30 runs behind** Pakistan's 434 for 9 declared, with six wickets in hand, and a forecast cited in reports puts a heavy chance of rain in the afternoon.
+Pakistan go into the fourth day of the first Test against Sri Lanka at Rawalpindi on Thursday, November 12, 2026, needing quick wickets and a dry morning. Sri Lanka resume on **404 for 4, only 30 runs behind** Pakistan's 434 for 9 declared, with six wickets in hand, and a forecast cited in reports puts a heavy chance of rain in the afternoon.
 
 The overnight pair, Dhananjaya de Silva on 167 not out and captain Kusal Mendis on 117 not out, have put on an unbroken 249 for the fifth wicket. Our [day three report](/en/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three) has the detail of how they took the game away from Pakistan's young attack.
 
@@ -89,20 +89,16 @@ The task is not small. Abbas has taken 2 for 64 and debutant Saqib Khan 2 for 10
 
 The bigger variable may be the sky. According to an AccuWeather forecast cited in reports, the morning should be cloudy at about 21 degrees Celsius with a **25 per cent chance of rain**, so play should begin on time. In the afternoon the chance rises to 92 per cent, with about 14.6 mm of rain possible over roughly two and a half hours and visibility falling to about 3 km.
 
-The same reports say a complete washout is not the most likely outcome, but the afternoon faces serious risk of disruption. The first Test is scheduled to finish on Friday, November 13, and already **23 overs were lost to bad light** on day three. If rain takes a large part of the fourth afternoon, Pakistan will have one day left to bowl out Sri Lanka and then chase or bat again.
+The same reports say a complete washout is not the most likely outcome, but the afternoon faces serious risk of disruption. The first Test is scheduled to finish on Friday, November 13, 2026, and already **23 overs were lost to bad light** on day three. If rain takes a large part of the fourth afternoon, Pakistan will have one day left to bowl out Sri Lanka and then chase or bat again.
 
 Sri Lanka are in the more comfortable position. They go ahead as soon as they add 31 runs, and a washed-out afternoon would also work in their favour, since it would take time away from Pakistan. They have not said when they plan to declare.
 
-```photo
-{"n":1,"subject":"Rawalpindi Cricket Stadium","caption":"Rawalpindi Cricket Stadium, which now hosts both Tests of the series.","alt":"Rawalpindi Cricket Stadium"}
-```
-
 ## Both Tests now in Rawalpindi
 
-Separately, the Pakistan Cricket Board has moved the second Test from Lahore to Rawalpindi because of smog. The decision was announced on Tuesday, November 10, by PCB spokesperson Amir Mir, who said the match was relocated **"due to prevailing weather conditions"** after rising smog levels and worsening air quality in Lahore.
+Separately, the Pakistan Cricket Board has moved the second Test from Lahore to Rawalpindi because of smog. The decision was announced on Tuesday, November 10, 2026, by PCB spokesperson Amir Mir, who said the match was relocated **"due to prevailing weather conditions"** after rising smog levels and worsening air quality in Lahore.
 
-Lahore's Air Quality Index has reportedly been touching 600 and the city has had severe smog for about 10 days. The second Test keeps its original dates, **November 17 to 21**, so both matches of the two-Test series will be played at the same ground. Our day three report said the second Test would be in Lahore, which is no longer the case.
+Lahore's Air Quality Index has reportedly been touching 600 and the city has had severe smog for about 10 days. The second Test keeps its original dates, **November 17 to 21, 2026**, so both matches of the two-Test series will be played at the same ground. Our day three report said the second Test would be in Lahore, which is no longer the case.
 
 ## What happens next
 
-Play on day four is due to start in the morning in Rawalpindi, and the forecast shows rain arriving after lunch. Sri Lanka are set to take the first-innings lead, and Pakistan's chance of forcing a result depends on how quickly they can take six wickets before the weather turns. The fifth and final scheduled day is Friday, November 13, and the second Test follows from November 17.
+Play on day four is due to start in the morning in Rawalpindi, and the forecast shows rain arriving after lunch. Sri Lanka are set to take the first-innings lead, and Pakistan's chance of forcing a result depends on how quickly they can take six wickets before the weather turns. The fifth and final scheduled day is Friday, November 13, 2026, and the second Test follows from November 17, 2026.
