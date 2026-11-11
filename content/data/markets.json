@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-09T15:38:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-09",
+  "as_of": "2026-11-11T09:13:00+05:30",
+  "status": "open",
+  "session_date": "2026-11-11",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81106.65,
-      "change": 107.25,
-      "pct": 0.13,
+      "value": 82248,
+      "change": 1142,
+      "pct": 1.41,
       "history": [
         {
           "date": "2026-09-30",
@@ -113,15 +113,15 @@
           "close": 81106.65
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25044.65,
-      "change": 58.25,
-      "pct": 0.23,
+      "value": 25337,
+      "change": 293,
+      "pct": 1.17,
       "history": [
         {
           "date": "2026-09-30",
@@ -228,7 +228,7 @@
           "close": 25044.65
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
     },
     {
       "id": "nifty-bank",
@@ -285,12 +285,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 93.89,
-      "change": -0.52,
-      "pct": -0.55,
+      "value": 93.72,
+      "change": -0.21,
+      "pct": -0.22,
       "decimals": 2,
       "unit": "",
-      "source": "https://hdfcsky.com/news/rupee-surges-52-points-to-close-at-93-89-against-us-dollar"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
     },
     {
       "id": "brent",
@@ -298,11 +298,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 98.16,
-      "change": -0.16,
-      "pct": -0.16,
+      "value": 91.88,
+      "change": -0.17,
+      "pct": -0.18,
       "decimals": 2,
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-9-2026-sensex-nifty50-crude-oil-prices-us-iran-enn26110900927"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
     },
     {
       "id": "gold",
@@ -395,7 +395,8 @@
     "10 Nov 06:25 IST (hourly 06): BSE and NSE closed Tuesday November 10 for Diwali Balipratipada (exchange holiday notice relayed by All India Radio, Nov 9 5:10 pm); Monday Nov 9 closing values kept, status closed.",
     "10 Nov 10:30 IST (hourly 10): exchange holiday for Diwali Balipratipada confirmed again (Goodreturns holiday note read this run); Nov 9 closing values kept, status closed.",
     "10 Nov 14:35 IST (hourly 14): exchange holiday for Diwali Balipratipada (BusinessToday and Goodreturns holiday notes read this run); Nov 9 closing values kept, status closed.",
-    "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run."
+    "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run.",
+    "11 Nov 09:25 IST (stall-09): Sensex 82,248 (+1,142, +1.41%) at 9:05 am and Nifty 50 25,337 (+293, +1.17%) at 9:13 am pre-open; rupee opened 93.72 (from Monday close 93.93) at 8:50 am; Brent January futures $91.88 (-0.18%) at 8:25 am; all from the Business Standard live blog read this run. Nifty Bank, Midcap, VIX, gold, silver, yield, movers, sectors and flows keep earlier values (not on the page)."
   ],
   "holidays": [
     "2026-11-10"
