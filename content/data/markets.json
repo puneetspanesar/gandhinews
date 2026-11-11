@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T09:13:00+05:30",
+  "as_of": "2026-11-11T10:01:00+05:30",
   "status": "open",
   "session_date": "2026-11-11",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82248,
-      "change": 1142,
-      "pct": 1.41,
+      "value": 82212,
+      "change": 1105.35,
+      "pct": 1.36,
       "history": [
         {
           "date": "2026-09-30",
@@ -113,15 +113,15 @@
           "close": 81106.65
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+      "source": "https://www.businesstoday.in/markets/stocks/story/sensex-zooms-1100-pts-nifty-crosses-25300-mark-on-positive-global-cues-566767-2026-11-11"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25337,
-      "change": 293,
-      "pct": 1.17,
+      "value": 25324,
+      "change": 279.35,
+      "pct": 1.12,
       "history": [
         {
           "date": "2026-09-30",
@@ -228,7 +228,7 @@
           "close": 25044.65
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+      "source": "https://www.businesstoday.in/markets/stocks/story/sensex-zooms-1100-pts-nifty-crosses-25300-mark-on-positive-global-cues-566767-2026-11-11"
     },
     {
       "id": "nifty-bank",
