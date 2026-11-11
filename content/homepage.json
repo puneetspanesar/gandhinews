@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+    "id": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
     "overlay": {
       "kicker": {
-        "en": "Politics / Karnataka",
-        "hi": "राजनीति / कर्नाटक"
+        "en": "Policy / Haj",
+        "hi": "नीति / हज"
       },
       "value": {
-        "en": "Karnataka takes SC/ST quota fight to the Supreme Court",
-        "hi": "एससी/एसटी कोटे की लड़ाई सुप्रीम कोर्ट में"
+        "en": "1,75,025 places for Haj 2027",
+        "hi": "हज 2027 के लिए 1,75,025 सीटें"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "two-child-norm-explained-javed-ruling-larger-bench",
-      "oral-mentioning-explained-supreme-court-senior-counsel-bar",
-      "who-owns-trinamool-election-commission-symbol-dispute-explained"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal"
     ],
     "live": {
       "title": {
-        "en": "Karnataka",
-        "hi": "कर्नाटक"
+        "en": "Haj",
+        "hi": "हज"
       }
     }
   },
@@ -67,17 +63,6 @@
         }
       },
       {
-        "link": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "lead": {
-          "en": "Haj:",
-          "hi": "हज:"
-        },
-        "text": {
-          "en": "India keeps its Haj quota at 1,75,025 for 2027 after Rijiju signs pact in Jeddah",
-          "hi": "रिजिजू ने जेद्दा में किया समझौता, 2027 के लिए भारत का हज कोटा 1,75,025 पर बरकरार"
-        }
-      },
-      {
         "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
         "lead": {
           "en": "Cricket:",
@@ -111,14 +96,25 @@
         }
       },
       {
-        "link": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "lead": {
-          "en": "Election Commission:",
-          "hi": "चुनाव आयोग:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Keralam Vigilance probe into CEC Gyanesh Kumar goes on, Chennithala says new petitions are coming in",
-          "hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ केरलम की विजिलेंस जांच जारी, चेन्निथला बोले नई याचिकाएं आ रही हैं"
+          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
+          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
+        }
+      },
+      {
+        "link": "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+        "lead": {
+          "en": "Reservation:",
+          "hi": "आरक्षण:"
+        },
+        "text": {
+          "en": "Parameshwara says the Constitution ties reservation to population. For jobs and admissions, the court record says otherwise",
+          "hi": "परमेश्वर: संविधान आरक्षण को आबादी से जोड़ता है। नौकरी और दाखिले के लिए अदालती रिकॉर्ड कुछ और कहता है"
         }
       }
     ]
@@ -191,14 +187,14 @@
     },
     "list": [
       "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-      "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
       "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
       "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-      "sangrur-prtc-bus-flyover-crash-three-killed"
+      "sangrur-prtc-bus-flyover-crash-three-killed",
+      "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
     ],
     "also": [
-      "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
-      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
+      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+      "evening-courts-pilot-needs-published-targets-and-a-legal-basis"
     ]
   },
   "startHere": [
@@ -430,7 +426,7 @@
       "list": [
         "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
       ]
     },
     {
@@ -528,22 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T13:33:27+05:30",
-      "ids": [
-        "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters",
-        "green-crackers-order-needs-enforcement-not-another-diwali-gamble",
-        "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
-        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "extradition-explained-hasina-india-bangladesh-treaty",
-        "digital-arrest-victims-should-be-repaid-by-the-bank-first",
-        "womens-reservation-33-per-cent-when-will-it-start-explained",
-        "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-        "gujarat-himachal-pradesh-elections-2027-what-to-know"
-      ]
-    },
     {
       "at": "2026-11-11T14:29:47+05:30",
       "ids": [
@@ -643,6 +623,20 @@
         "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "sangrur-prtc-bus-flyover-crash-three-killed",
         "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+      ]
+    },
+    {
+      "at": "2026-11-11T23:10:40+05:30",
+      "ids": [
+        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+        "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+        "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "parameshwara-constitution-says-reservation-in-proportion-to-population-claim"
       ]
     }
   ],

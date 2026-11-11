@@ -1,13 +1,15 @@
 {
  "run": "stall-22",
  "start": "2026-11-11T22:55:21+05:30",
- "end": "2026-11-11T23:02:23+05:30",
- "summary": "Expired three holds past 48 hours",
+ "end": "2026-11-11T23:15:31+05:30",
+ "summary": "Homepage rotated for the 23:00 hour",
  "new": [],
  "held": [],
  "editor": null,
  "editor_fail": null,
  "fixed_by_run": null,
- "breaches": [],
- "lead": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
+ "breaches": [
+  "led or sat beside the lead at 21:51 as well: india-saudi-haj-2027-quota-175025-rijiju-jeddah"
+ ],
+ "lead": "india-saudi-haj-2027-quota-175025-rijiju-jeddah"
 }
