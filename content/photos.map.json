@@ -46057,5 +46057,162 @@
    }
   },
   "nophoto": "no free photo of the Sangrur crash or a Punjab bus accident; quick_photo PRTC bus, Sangrur; finder h1120 (only bus-station shots)"
+ },
+ "tn-mha-governor-report-law-and-order-deepavali-murders": {
+  "id": "v-tn-mha-governor-report-law-and-order-deepavali-murders",
+  "src": "/photos/v-tn-mha-governor-report-law-and-order-deepavali-murders-1280.jpg",
+  "src800": "/photos/v-tn-mha-governor-report-law-and-order-deepavali-murders-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Vishwa Sundar / Wikimedia Commons",
+  "licence": "GODL-India; CC BY-SA 4.0",
+  "alt": "Governor Rajendra Arlekar, seen with Prime Minister Narendra Modi, and Leader of the Opposition Udhayanidhi Stalin (file photos)",
+  "alt_hi": "राज्यपाल राजेंद्र आर्लेकर प्रधानमंत्री नरेंद्र मोदी के साथ, और नेता प्रतिपक्ष उदयनिधि स्टालिन (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "notreat": true
+ },
+ "india-saudi-haj-2027-quota-175025-rijiju-jeddah": {
+  "id": "v-india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+  "src": "/photos/v-india-saudi-haj-2027-quota-175025-rijiju-jeddah-1280.jpg",
+  "src800": "/photos/v-india-saudi-haj-2027-quota-175025-rijiju-jeddah-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; World Trade Organization / Wikimedia Commons",
+  "licence": "GODL-India; CC BY-SA 2.0",
+  "alt": "Minority Affairs Minister Kiren Rijiju and Saudi Hajj and Umrah Minister Tawfiq Al-Rabiah (file photos)",
+  "alt_hi": "अल्पसंख्यक कार्य मंत्री किरेन रिजिजू और सऊदी हज और उमरा मंत्री तौफीक अल-रबिया (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-india-saudi-haj-2027-quota-175025-rijiju-jeddah-1280.jpg",
+   "src800": "/photos/t-india-saudi-haj-2027-quota-175025-rijiju-jeddah-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "e0e0e0c0e0e1e1ef",
+   "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons; World Trade Organization / Wikimedia Commons"
+  }
+ },
+ "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14": {
+  "id": "o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+  "src": "/photos/o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14-1280.jpg",
+  "src800": "/photos/o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14-640.jpg",
+  "width": 1280,
+  "height": 833,
+  "srcWidth": 665,
+  "credit": "Photo: Kolkata Knight Riders - Official / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Suryakumar Yadav (file photo)",
+  "alt_hi": "सूर्यकुमार यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Suryakumar_Yadav_(1).jpg",
+  "treated": {
+   "src": "/photos/t-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-no-1280.jpg",
+   "src800": "/photos/t-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-no-640.jpg",
+   "cutout": true,
+   "with": [
+    "ranji-round-two-final-day-mumbai-maharashtra-punjab-push",
+    "jharkhand-hc-quashes-jssc-cgl-exam-cancellation",
+    "navdeep-saini-two-services-112-4-delhi-ranji-palam"
+   ],
+   "kind": "photo",
+   "subj": "8010101034fbfbf6",
+   "credit": "Photos: Kolkata Knight Riders - Official / Wikimedia Commons; G patkar / Wikimedia Commons; Jharkhand High Court / Wikimedia Commons; Ciell / Wikimedia Commons"
+  }
+ },
+ "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p1": {
+  "id": "o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p1",
+  "src": "/photos/o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p1-1280.jpg",
+  "src800": "/photos/o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4252,
+  "credit": "Photo: Aidan Sammons / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Mohammed Shami (file photo)",
+  "alt_hi": "मोहम्मद शमी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Shami_bowling_against_England_at_Edgbaston.jpg"
+ },
+ "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p1": {
+  "id": "o-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p1",
+  "src": "/photos/o-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p1-1280.jpg",
+  "src800": "/photos/o-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p1-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 1570,
+  "credit": "Photo: Ank Kumar / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Old Billingsgate, London (file photo)",
+  "alt_hi": "लंदन में ओल्ड बिलिंग्सगेट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:2012_-_Old_Billingsgate,_London,_UK_(_Ank_Kumar_)_01.jpg"
+ },
+ "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p2": {
+  "id": "o-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p2",
+  "src": "/photos/o-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p2-1280.jpg",
+  "src800": "/photos/o-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner--p2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1356,
+  "credit": "Photo: Tristan Ferne / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Mary Beard filming in Rome (file photo)",
+  "alt_hi": "रोम में फ़िल्मांकन करतीं मैरी बियर्ड (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mary_Beard_filming_in_Rome.jpg"
+ },
+ "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p2": {
+  "id": "o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p2",
+  "src": "/photos/o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p2-1280.jpg",
+  "src800": "/photos/o-smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14--p2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2200,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Vaibhav Sooryavanshi meets Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी से मिलते वैभव सूर्यवंशी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_meets_Vaibhav_Suryavanshi%27s_family.jpg"
+ },
+ "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner": {
+  "id": "i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+  "src": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-en-3x2-1280.jpg",
+  "src800": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: M John Harrison, 81, wins the Booker",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 81 साल के एम जॉन हैरिसन को बुकर",
+  "page": null,
+  "ihash": "9134d7676f17",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-hi-3x2-1280.jpg",
+    "src800": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-en-t-1280.jpg",
+    "src800": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-hi-t-1280.jpg",
+    "src800": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-en-1280.jpg",
+    "src800": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-hi-1280.jpg",
+    "src800": "/photos/i-booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner-hi-640.jpg"
+   }
+  },
+  "nophoto": "M. John Harrison: only a 425px Commons photo; not in library; quick_photo 0"
  }
 }
