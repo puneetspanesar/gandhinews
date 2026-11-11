@@ -41,3 +41,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Markets: Sensex 82,212 and Nifty 25,324 at about 10 am (Business Today); Brent and the rest kept from the 09:13 read.
 - NEXT RUN, FIRST: Abu Dhabi talks day two outcome (new id, can lead); UPSC Mains result and DAF-II window from the upsc.gov.in notice; Rawalpindi day three; Digaru derailment cause or inquiry (update); Delhi CPCB AQI; markets close story if the 1%+ rally holds.
 
+
+## November 11, 2026, 2:40 pm (from the 14:00 run)
+- Published 0 new stories: WebFetch refused on upsc.gov.in, pib.gov.in, CPCB, president.gov.ua, interfax, pcb.com.pk.
+- Held by the editor: yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters (broken split cover; needs a clean solo Yogi photo at least 900 px, library portrait free again after Nov 14). Unsourced programme figures already cut.
+- Editor homepage notes not done (template-driven): lead column same-subject follow-ups link Abu Dhabi day one and Rubio; Must Read carries the Sri Lanka day-three-start item; mobile bottom nav covers the first card under the lead.
+- NEXT RUN, FIRST: UPSC Mains result and DAF-II (Nov 11 to 25); Delhi CPCB 4 pm AQI; Sensex close story (rally over 1%); Abu Dhabi talks outcome; Rawalpindi day three close; Swachh Survekshan results.

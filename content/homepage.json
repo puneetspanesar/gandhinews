@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters",
+    "id": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
     "overlay": {
       "kicker": {
-        "en": "Politics / Uttar Pradesh",
-        "hi": "राजनीति / उत्तर प्रदेश"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "\"It will subside as well\"",
-        "hi": "\"यह भी कम हो जाएगा\""
+        "en": "Zelenskyy: Russia claimed half of Donbas",
+        "hi": "ज़ेलेंस्की: रूस ने आधे डोनबास का दावा किया"
       },
       "text": {
         "en": "",
@@ -16,35 +16,19 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "eci-extends-poll-code-curbs-retired-officials-five-states",
-      "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-      "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
     ],
     "live": {
       "title": {
-        "en": "Uttar Pradesh",
-        "hi": "उत्तर प्रदेश"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two",
-          "hi": "ज़ेलेंस्की का दावा: रूसी टीम ने यूक्रेन के कब्ज़े वाले आधे डोनबास पर नियंत्रण जताया, अबू धाबी में दूसरे दिन वार्ता फिर शुरू"
-        }
-      },
       {
         "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "lead": {
@@ -57,69 +41,80 @@
         }
       },
       {
-        "link": "extradition-explained-hasina-india-bangladesh-treaty",
+        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
+          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
+        }
+      },
+      {
+        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
         "lead": {
           "en": "Bangladesh:",
           "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Extradition explained: can India send Sheikh Hasina back under the 2013 treaty?",
-          "hi": "प्रत्यर्पण क्या है: क्या 2013 की संधि के तहत भारत शेख हसीना को लौटा सकता है?"
+          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
+          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
         }
       },
       {
-        "link": "digital-arrest-victims-should-be-repaid-by-the-bank-first",
+        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
+          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+        }
+      },
+      {
+        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "lead": {
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
+        },
+        "text": {
+          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
+          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
+        }
+      },
+      {
+        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+        "lead": {
+          "en": "SIR:",
+          "hi": "एसआईआर:"
+        },
+        "text": {
+          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
+          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
+        }
+      },
+      {
+        "link": "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Digital arrest victims should not have to chase their money. Banks must repay first and recover later",
-          "hi": "डिजिटल अरेस्ट के पीड़ितों को अपना पैसा खुद क्यों खोजना पड़े: बैंक पहले भरपाई करें, बाद में वसूलें"
+          "en": "Gidipabali's six missing deserve a death certificate, not a wait, and Ganjam deserves the dam log",
+          "hi": "गिदिपाबली के छह लापता लोगों को इंतज़ार नहीं, मृत्यु प्रमाणपत्र मिलना चाहिए, और गंजाम को बांध का रिकॉर्ड"
         }
       },
       {
-        "link": "womens-reservation-33-per-cent-when-will-it-start-explained",
+        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
         "lead": {
-          "en": "Women's reservation:",
-          "hi": "महिला आरक्षण:"
+          "en": "Law:",
+          "hi": "कानून:"
         },
         "text": {
-          "en": "Women's reservation explained: the 33% law is in force, so when will women actually get the seats?",
-          "hi": "महिला आरक्षण: 33% का कानून लागू है, तो महिलाओं को सीटें असल में कब मिलेंगी?"
-        }
-      },
-      {
-        "link": "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-        "lead": {
-          "en": "Census 2027:",
-          "hi": "जनगणना 2027:"
-        },
-        "text": {
-          "en": "Census 2027 self-enumeration from November 16 in UP, Punjab, Goa and Uttarakhand: how to fill the form online",
-          "hi": "जनगणना 2027: यूपी, पंजाब, गोवा और उत्तराखंड में 16 नवंबर से स्व-गणना, ऑनलाइन फॉर्म कैसे भरें"
-        }
-      },
-      {
-        "link": "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-        "lead": {
-          "en": "Rooftop solar:",
-          "hi": "रूफटॉप सोलर:"
-        },
-        "text": {
-          "en": "PM Surya Ghar: how much subsidy you get for rooftop solar, and how to apply",
-          "hi": "पीएम सूर्य घर: रूफटॉप सोलर पर कितनी सब्सिडी मिलती है, और आवेदन कैसे करें"
-        }
-      },
-      {
-        "link": "gujarat-himachal-pradesh-elections-2027-what-to-know",
-        "lead": {
-          "en": "Elections 2027:",
-          "hi": "चुनाव 2027:"
-        },
-        "text": {
-          "en": "Gujarat and Himachal Pradesh elections 2027: when they vote and what is at stake",
-          "hi": "गुजरात और हिमाचल प्रदेश चुनाव 2027: कब होगा मतदान और क्या है दांव पर"
+          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
+          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
         }
       }
     ]
@@ -187,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+      "id": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
       "also": []
     },
     "list": [
-      "extradition-explained-hasina-india-bangladesh-treaty",
-      "digital-arrest-victims-should-be-repaid-by-the-bank-first",
-      "womens-reservation-33-per-cent-when-will-it-start-explained",
-      "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
-      "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
+      "hasina-passport-request-dhaka-refuses-extradition-india",
+      "india-a-nz-a-lincoln-third-test-draw-series-level",
+      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+      "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
     ],
     "also": [
-      "gujarat-himachal-pradesh-elections-2027-what-to-know",
-      "up-voter-list-2026-check-name-after-sir"
+      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+      "delhi-air-monitors-that-go-blank-on-the-worst-night"
     ]
   },
   "startHere": [
@@ -373,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
         "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
         "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
       ],
-      "lead": "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters"
+      "lead": "eci-extends-poll-code-curbs-retired-officials-five-states"
     },
     {
       "section": "economy",
@@ -408,11 +403,11 @@
     },
     {
       "section": "policy",
-      "lead": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+      "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -429,7 +424,7 @@
       "section": "world",
       "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
       "list": [
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
         "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
         "modi-zelenskyy-phone-call-india-peace-efforts"
       ]
@@ -445,12 +440,12 @@
     },
     {
       "section": "sports",
-      "lead": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+      "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
       "list": [
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
       ]
     }
   ],
@@ -480,6 +475,30 @@
       "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
     },
     {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
+        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "India releases October retail inflation data; September was 5.54%",
+        "hi": "अक्टूबर की खुदरा महंगाई के आंकड़े जारी होंगे; सितंबर में यह 5.54% थी"
+      },
+      "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+    },
+    {
       "icon": "chart-line",
       "date": {
         "en": "Tomorrow",
@@ -503,23 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T00:38:35+05:30",
-      "ids": [
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "sangareddy-pharma-deaths-need-inspections-not-compensation",
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
-        "delhi-air-monitors-that-go-blank-on-the-worst-night"
-      ]
-    },
     {
       "at": "2026-11-11T05:02:18+05:30",
       "ids": [
@@ -621,6 +623,20 @@
         "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
         "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
         "gujarat-himachal-pradesh-elections-2027-what-to-know"
+      ]
+    },
+    {
+      "at": "2026-11-11T14:29:47+05:30",
+      "ids": [
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+        "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
+        "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
       ]
     }
   ],

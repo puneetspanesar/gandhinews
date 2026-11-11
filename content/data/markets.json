@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T12:06:00+05:30",
+  "as_of": "2026-11-11T12:57:00+05:30",
   "status": "open",
   "session_date": "2026-11-11",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82370.35,
-      "change": 1263.7,
-      "pct": 1.56,
+      "value": 82126.54,
+      "change": 1019.89,
+      "pct": 1.26,
       "history": [
         {
           "date": "2026-09-30",
@@ -113,15 +113,15 @@
           "close": 81106.65
         }
       ],
-      "source": "https://www.indiainfoline.com/news/markets/sensex-gains-1200-points-nifty-above-25300-why-is-the-stock-market-going-up-today-explained"
+      "source": "https://upstox.com/news/market-news/stocks/nifty-50-above-24-250-sensex-gains-over-1-000-pts-iifl-fin-kalyan-jewellers-among-buzzing-stocks/article-203284/"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25382.2,
-      "change": 337.55,
-      "pct": 1.35,
+      "value": 25311.05,
+      "change": 266.4,
+      "pct": 1.06,
       "history": [
         {
           "date": "2026-09-30",
@@ -228,7 +228,7 @@
           "close": 25044.65
         }
       ],
-      "source": "https://www.indiainfoline.com/news/markets/sensex-gains-1200-points-nifty-above-25300-why-is-the-stock-market-going-up-today-explained"
+      "source": "https://upstox.com/news/market-news/stocks/nifty-50-above-24-250-sensex-gains-over-1-000-pts-iifl-fin-kalyan-jewellers-among-buzzing-stocks/article-203284/"
     },
     {
       "id": "nifty-bank",

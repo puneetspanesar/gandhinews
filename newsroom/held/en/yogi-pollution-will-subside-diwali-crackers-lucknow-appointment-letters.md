@@ -62,7 +62,7 @@ verification:
   status: approved
   notes:
     - "Primary: Yogi Adityanath's own words at the Lucknow appointment-letter programme, quoted verbatim in PTI (Siasat, 12:41 pm), ANI (12:00) and India TV (12:45 pm). The UP government and CPCB pages could not be opened in this run (no official transcript read); quotes are as reported in English translation of his Hindi remarks."
-    - "Programme details (1,146 junior assistants, Rs 215 crore to 4,300 beneficiaries under the Mukhyamantri Kisan Durghatna Kalyan Yojana): ANI only, not used in copy except the setting."
+    - "Programme details (1,146 junior assistants, Rs 215 crore to 4,300 beneficiaries under the Mukhyamantri Kisan Durghatna Kalyan Yojana): single source only, cut from the copy (editor check, 14:00 run); only the setting is used."
     - "Delhi AQI 299 at 7 am (CPCB via ANI 8:14 am); 308 at 8:40 am with 29 very poor, none severe (IANS 9:20 am). Two readings differ by time; copy gives both with times. ANI's own text calls all stations very poor while listing poor ones; copy uses only the headline figure."
     - "Chamber of Trade and Industry letter (Brijesh Goyal) and its Nov 5 to 7 AQI 350 to 400 claim: India TV only. Kharge post, SC green-cracker window and Punjab fire count: our own earlier stories."
     - "No opposition reaction to the remark was found by 1 pm; none claimed."
@@ -70,7 +70,7 @@ verification:
 
 Uttar Pradesh Chief Minister Yogi Adityanath on Wednesday brushed aside concerns about the smog that followed Diwali, telling a Lucknow audience: "**So what if it has increased? It will subside as well.** Why are you worried?"
 
-He was speaking at a government programme in the state capital where appointment letters were handed to 1,146 newly recruited junior assistants and ₹215 crore in accident aid was released to 4,300 farmers' families. Diwali was on Sunday, November 8, and Delhi's air was very poor to severe through Tuesday, and very poor again by 8:40 am on Wednesday.
+He was speaking at a government programme in the state capital where appointment letters were handed to newly recruited staff. Diwali was on Sunday, November 8, and Delhi's air was very poor to severe through Tuesday, and very poor again by 8:40 am on Wednesday.
 
 ## What he said
 

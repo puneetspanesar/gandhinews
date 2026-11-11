@@ -1,0 +1,17 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-11T14:10:02+05:30",
+ "end": "2026-11-11T14:38:32+05:30",
+ "summary": "No new stories (sources unreadable), Yogi story held on picture, homepage refreshed, markets to 12:57 pm",
+ "new": [],
+ "held": [
+  "yogi-pollution-will-subside-diwali-crackers-lucknow-appointment-letters"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "led or sat beside the lead at 13:46 as well: zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+ ],
+ "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+}
