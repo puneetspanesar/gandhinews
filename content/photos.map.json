@@ -45859,5 +45859,86 @@
    }
   },
   "nophoto": "no free photo of a train derailment in Assam or the Northeast; library, quick_photo, finder h1110 and h1110b (only Mumbai 2013 and Coromandel 2023 scenes, other regions)"
+ },
+ "sensex-nifty-post-diwali-rally-eight-month-high": {
+  "id": "r-sensex-nifty-post-diwali-rally-eight-month-high",
+  "src": "/photos/r-sensex-nifty-post-diwali-rally-eight-month-high-1280.jpg",
+  "src800": "/photos/r-sensex-nifty-post-diwali-rally-eight-month-high-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Niyantha Shekhar / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The Bombay Stock Exchange building, Mumbai (file photo)",
+  "alt_hi": "मुंबई में बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg"
+ },
+ "india-cop31-agenda-climate-finance-work-programme-eu-objects": {
+  "id": "o-india-cop31-agenda-climate-finance-work-programme-eu-objects",
+  "src": "/photos/o-india-cop31-agenda-climate-finance-work-programme-eu-objects-1280.jpg",
+  "src800": "/photos/o-india-cop31-agenda-climate-finance-work-programme-eu-objects-640.jpg",
+  "width": 1280,
+  "height": 876,
+  "srcWidth": 750,
+  "credit": "Photo: PIB / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupender Yadav (file photo)",
+  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav.jpg"
+ },
+ "tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so": {
+  "id": "i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so",
+  "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-en-3x2-1280.jpg",
+  "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Tripled adaptation money still falls short",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तीन गुना होकर भी अनुकूलन कोष कम",
+  "page": null,
+  "ihash": "63678b18619d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-3x2-1280.jpg",
+    "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-en-t-1280.jpg",
+    "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-t-1280.jpg",
+    "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-en-1280.jpg",
+    "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-1280.jpg",
+    "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free unused photo of Bhupender Yadav or COP31 finance; library, quick_photo"
+ },
+ "lavrov-india-oil-trading-partner-no-right-to-advise-video-claim": {
+  "id": "o-lavrov-india-oil-trading-partner-no-right-to-advise-video-claim",
+  "src": "/photos/o-lavrov-india-oil-trading-partner-no-right-to-advise-video-claim-1280.jpg",
+  "src800": "/photos/o-lavrov-india-oil-trading-partner-no-right-to-advise-video-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2073,
+  "credit": "Photo: U.S. Department of State / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Sergey Lavrov (file photo)",
+  "alt_hi": "सर्गेई लावरोव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sergey_Lavrov_February_2016.jpg"
  }
 }
