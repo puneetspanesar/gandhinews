@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -874,6 +874,33 @@
           "url": "https://www.scconline.com/blog/post/2026/09/29/supreme-court-delhi-ncr-women-children-safety-directions/"
         }
       ]
+    },
+    {
+      "id": "digital-arrest-suo-motu",
+      "case": "In Re: Victims of Digital Arrest Related to Forged Documents (suo motu)",
+      "issue": "What WhatsApp and other platforms, banks, the RBI and state police must do to prevent digital arrest scams and compensate victims.",
+      "bench_size": 3,
+      "bench": "CJI Surya Kant and Justices Joymalya Bagchi and V Mohana",
+      "status": "pending",
+      "status_text": "Directions issued; next hearing Nov 23",
+      "last_date": "2026-10-29",
+      "last_event": "Order made public on 10 Nov 2026: WhatsApp and other intermediaries to set out proposed preventive measures and share them with I4C; state and UT police to report FIRs and investigations; RBI rules to require institutions to compensate victims at least the amount lost where due diligence failed. WhatsApp told the court it had acted against 9,400 accounts. The bench noted victims have lost about Rs 800 crore this year.",
+      "next_step": "Listed on 23 Nov 2026; RBI to give a list of authorised financial institutions; proposed RBI KYC (Amendment) Directions, 2026 to be examined first, with notification proposed by 30 Nov and operation by 31 Dec 2026.",
+      "sources": [
+        {
+          "title": "SC asks WhatsApp to detail steps to prevent digital arrest scams",
+          "publisher": "Telangana Today",
+          "date": "2026-11-10",
+          "url": "https://telanganatoday.com/sc-asks-whatsapp-to-detail-steps-to-prevent-digital-arrest-scams"
+        },
+        {
+          "title": "SC asks WhatsApp to propose measures against digital arrest scams",
+          "publisher": "Deccan Chronicle",
+          "date": "2026-11-10",
+          "url": "https://www.deccanchronicle.com/nation/sc-asks-whatsapp-to-propose-measures-against-digital-arrest-scams-2003190"
+        }
+      ],
+      "notes": "Order date taken as the 29 Oct 2026 hearing per reports; reports became public on 10 Nov 2026."
     }
   ]
 }

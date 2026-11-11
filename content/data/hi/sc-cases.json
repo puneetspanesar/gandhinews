@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -943,6 +943,33 @@
           "url": "https://www.scconline.com/blog/post/2026/09/29/supreme-court-delhi-ncr-women-children-safety-directions/"
         }
       ]
+    },
+    {
+      "id": "digital-arrest-suo-motu",
+      "case": "इन रे: जाली दस्तावेज़ों से जुड़े डिजिटल अरेस्ट के पीड़ित (स्वतः संज्ञान)",
+      "issue": "डिजिटल अरेस्ट घोटालों को रोकने और पीड़ितों को मुआवज़ा देने के लिए व्हाट्सऐप और अन्य प्लेटफॉर्म, बैंकों, आरबीआई और राज्य पुलिस को क्या करना होगा।",
+      "bench_size": 3,
+      "bench": "सीजेआई सूर्यकांत, जस्टिस जॉयमाल्य बागची और जस्टिस वी मोहना",
+      "status": "pending",
+      "status_text": "निर्देश जारी; अगली सुनवाई 23 नवंबर",
+      "last_date": "2026-10-29",
+      "last_event": "आदेश 10 नवंबर 2026 को सार्वजनिक हुआ: व्हाट्सऐप और अन्य मध्यस्थ बचाव के प्रस्तावित उपाय बताएं और आई4सी को भी दें; राज्यों और केंद्र शासित प्रदेशों की पुलिस एफआईआर और जांच की रिपोर्ट दे; आरबीआई के नियमों में ज़रूरी हो कि उचित सावधानी में चूक होने पर संस्थान पीड़ित को कम से कम गंवाई गई रकम का मुआवज़ा दें। व्हाट्सऐप ने बताया कि उसने 9,400 खातों पर कार्रवाई की। पीठ ने कहा कि इस साल पीड़ितों ने करीब ₹800 करोड़ गंवाए।",
+      "next_step": "23 नवंबर 2026 को सुनवाई; आरबीआई अधिकृत वित्तीय संस्थानों की सूची दे; प्रस्तावित आरबीआई केवाईसी (संशोधन) निर्देश, 2026 पहले जांचे जाएंगे, जिनकी अधिसूचना 30 नवंबर तक और अमल 31 दिसंबर 2026 तक प्रस्तावित है।",
+      "sources": [
+        {
+          "title": "SC asks WhatsApp to detail steps to prevent digital arrest scams",
+          "publisher": "Telangana Today",
+          "date": "2026-11-10",
+          "url": "https://telanganatoday.com/sc-asks-whatsapp-to-detail-steps-to-prevent-digital-arrest-scams"
+        },
+        {
+          "title": "SC asks WhatsApp to propose measures against digital arrest scams",
+          "publisher": "Deccan Chronicle",
+          "date": "2026-11-10",
+          "url": "https://www.deccanchronicle.com/nation/sc-asks-whatsapp-to-propose-measures-against-digital-arrest-scams-2003190"
+        }
+      ],
+      "notes": "आदेश की तारीख रिपोर्टों के अनुसार 29 अक्टूबर 2026 की सुनवाई मानी गई; रिपोर्टें 10 नवंबर 2026 को सामने आईं।"
     }
   ]
 }
