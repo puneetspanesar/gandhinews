@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+    "id": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Rubio: no need for major combat on Iran",
-        "hi": "रुबियो: ईरान पर बड़े हमले की जरूरत नहीं"
+        "en": "Abu Dhabi talks: 4 hours, day two today",
+        "hi": "अबू धाबी वार्ता: 4 घंटे, आज दूसरा दिन"
       },
       "text": {
         "en": "",
@@ -18,13 +18,12 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-      "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
@@ -42,80 +41,80 @@
         }
       },
       {
-        "link": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today",
-          "hi": "अबू धाबी में रूस, यूक्रेन और अमेरिका की चार घंटे की बातचीत, फरवरी के बाद पहली, आज दूसरा दिन"
+          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
+          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
         }
       },
       {
-        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
-          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
+          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
+          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
         }
       },
       {
-        "link": "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "lead": {
-          "en": "Election Commission:",
-          "hi": "चुनाव आयोग:"
-        },
-        "text": {
-          "en": "EC extends poll code curbs to retired officials re-engaged by five poll-bound states",
-          "hi": "चुनाव आयोग ने पांच चुनावी राज्यों में फिर से नियुक्त सेवानिवृत्त अधिकारियों पर भी लागू की आचार संहिता"
-        }
-      },
-      {
-        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
-        },
-        "text": {
-          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
-          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
-        }
-      },
-      {
-        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
-          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
-        }
-      },
-      {
-        "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
-          "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
+          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
+          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
         }
       },
       {
-        "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "lead": {
-          "en": "Urban Affairs:",
-          "hi": "शहरी विकास:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
-          "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
+          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
+          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
+        }
+      },
+      {
+        "link": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi sent ₹142 crore Diwali LPG aid to over 15 lakh ration card families",
+          "hi": "दिल्ली सरकार ने 15 लाख से ज्यादा राशन कार्ड परिवारों को भेजी दिवाली की ₹142 करोड़ की एलपीजी सहायता"
+        }
+      },
+      {
+        "link": "zelenskyy-india-mediate-black-sea-food-corridors-claim",
+        "lead": {
+          "en": "Ukraine:",
+          "hi": "यूक्रेन:"
+        },
+        "text": {
+          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors; India's own statement does not say so",
+          "hi": "ज़ेलेंस्की का दावा, भारत काला सागर खाद्य गलियारों में मध्यस्थता को तैयार; भारत का अपना बयान ऐसा नहीं कहता"
+        }
+      },
+      {
+        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+        "lead": {
+          "en": "Law:",
+          "hi": "कानून:"
+        },
+        "text": {
+          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
+          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
         }
       }
     ]
@@ -183,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+      "id": "pmk-functionary-shot-dead-vellore-gudiyatham",
       "also": []
     },
     "list": [
-      "eci-extends-poll-code-curbs-retired-officials-five-states",
-      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-      "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-      "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+      "hasina-passport-request-dhaka-refuses-extradition-india",
+      "india-a-nz-a-lincoln-third-test-draw-series-level",
+      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+      "zelenskyy-india-mediate-black-sea-food-corridors-claim"
     ],
     "also": [
-      "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-      "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
+      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+      "delhi-air-monitors-that-go-blank-on-the-worst-night"
     ]
   },
   "startHere": [
@@ -425,7 +424,7 @@
       "section": "world",
       "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
       "list": [
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
         "modi-zelenskyy-phone-call-india-peace-efforts",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
@@ -523,21 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T18:51:12+05:30",
-      "ids": [
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
-      ]
-    },
     {
       "at": "2026-11-10T19:20:12+05:30",
       "ids": [
@@ -644,6 +628,20 @@
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+      ]
+    },
+    {
+      "at": "2026-11-11T08:46:24+05:30",
+      "ids": [
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
+        "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
       ]
     }
   ],

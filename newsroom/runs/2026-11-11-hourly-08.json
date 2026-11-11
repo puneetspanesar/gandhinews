@@ -1,0 +1,24 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-11T08:06:16+05:30",
+ "end": "2026-11-11T08:45:58+05:30",
+ "summary": "Homepage refresh, no new stories (sources unreadable), Rubio held",
+ "new": [],
+ "held": [
+  "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+   "kind": "picture",
+   "why": "Main picture is Marco Rubio's broadly smiling official studio portrait (stock-looking, flag backdrop) on a story about the Iran war, blockade and threats of a 'terrible price'; wrong tone and generic stand-in.",
+   "fix": "Use a photo of Rubio speaking to reporters at the G7 foreign ministers' meeting in Paris (November 10, 2026), or any neutral/serious photo of Rubio at a podium; failing that a non-smiling news photo of Rubio."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [
+  "led or sat beside the lead at 06:40 as well: abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+ ],
+ "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+}

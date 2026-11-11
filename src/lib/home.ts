@@ -653,7 +653,7 @@ export async function homeModel(lang: Lang) {
     // the middle column always opens with a real photo: from the headlines, else the newest pictured news of the last 24 hours
     const second = take([...hl, ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)].filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const col2 = take([...hl, ...pool(['politics', 'policy', 'states'], 24)], 6);   // six lines: five left a gap under the middle column when the Hindi lead headline runs to three lines (stall check, November 10)
-    const must = take(pool(['politics', 'states', 'world', 'economy', 'policy'], 24), 5);
+    const must = take([...pool(['politics', 'states', 'world', 'economy', 'policy'], 24), ...pool(['politics', 'states', 'world', 'economy', 'policy'], 48)], 5);   // a quiet morning tops up from the last 48 hours so the column never ends short (08:00 run, November 11)
     // ---- news-dense blocks (owner, November 8): headline lists grouped the way readers look for news
     const isCourt = (id: string) => /Courts|Supreme Court|High Court/.test(enLabel(id)) || /Supreme Court|High Court/.test(enTitle(id));
     const courts = take(pool(['politics', 'policy', 'states']).filter(isCourt), 5);
