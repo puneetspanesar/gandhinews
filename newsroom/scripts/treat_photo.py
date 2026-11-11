@@ -584,7 +584,9 @@ def treat(sid, M, scenes_only=False):
     # the story's own photo is always the subject when it cuts out (a close crop may run off the top) or shows a
     # scene: it was already chosen as the story's picture, so it is on topic by definition (owner, November 11:
     # never swap in an unrelated scene, never leave a photo untreated)
-    if own_ok and (pre or (not generic_head and whole_ok)):
+    # a close crop of the story's own photo (head running off the top) fills the cover with a face: a clean full
+    # portrait of the same person comes first when we hold one (owner, November 11)
+    if own_ok and ((pre and not pre[1]) or (not pre and not generic_head and whole_ok)):
         subj_path, subj_credit, src_key = own_path, own_cr, sid
     else:
         tried = []
@@ -594,6 +596,8 @@ def treat(sid, M, scenes_only=False):
             if tried and tried[-1][0] == 0: break
         if tried:
             _, pth, c = min(tried, key=lambda t: t[0]); subj_path, subj_credit, src_key = pth, c, 'portrait'
+        elif own_ok and pre:   # no clean portrait: the story's own close crop
+            subj_path, subj_credit, src_key = own_path, own_cr, sid
     if scenes_only: subj_path = subj_credit = src_key = None
     if subj_path: SUBJ_USED[ahash(subj_path)] = SUBJ_USED.get(ahash(subj_path), 0) + 1
     main_scene = None
