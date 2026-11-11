@@ -5,7 +5,7 @@ translation_of: section-17a-explained-keralam-vigilance-probe-cec-gyanesh-kumar
 type: explainer
 section: politics
 format_label: "समझिए / कानून"
-topics: [election-commission, corruption]
+topics: [election-commission, supreme-court]
 title: "धारा 17ए क्या है: केरलम को ज्ञानेश कुमार की जांच के लिए मंज़ूरी क्यों लेनी पड़ी, और सीईसी को क्या सुरक्षा मिलती है"
 standfirst: "केरलम के गृह मंत्री का कहना है कि मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ विजिलेंस जांच जारी है। इसके लिए राज्य को पहले भ्रष्टाचार निवारण कानून की धारा 17ए के तहत मंज़ूरी देनी पड़ी। यह धारा क्या कहती है, सुप्रीम कोर्ट इस पर बंटा क्यों है, और सीईसी की अपनी सुरक्षा कहां तक जाती है।"
 published: 2026-11-11T17:43:10+05:30

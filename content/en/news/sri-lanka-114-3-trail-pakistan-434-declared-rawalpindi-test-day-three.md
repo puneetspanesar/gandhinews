@@ -9,7 +9,6 @@ title: "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Raw
 standfirst: "Saud Shakeel fell for 93 and Pakistan closed their innings at 434 for 9 on the second day of the first Test, leaving Sri Lanka needing 121 more runs today to avoid the follow-on."
 published: 2026-11-11T06:20:00+05:30
 location: Rawalpindi
-upcoming: {date: 2026-11-11, en: "Day three of Pakistan v Sri Lanka, first Test, Rawalpindi", hi: "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: तीसरा दिन"}
 keyPoints:
   - "Pakistan declared at **434 for 9** after Saud Shakeel was dismissed for 93, seven short of a century."
   - "Sri Lanka ended the second day at **114 for 3**, trailing by 320 runs, after play stopped early in bad light."

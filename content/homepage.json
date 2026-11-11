@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+    "id": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
     "overlay": {
       "kicker": {
-        "en": "Science & Tech / Health",
-        "hi": "विज्ञान-तकनीक / स्वास्थ्य"
+        "en": "Politics / Election Commission",
+        "hi": "राजनीति / चुनाव आयोग"
       },
       "value": {
-        "en": "A Jamnagar centre for the Bay of Bengal",
-        "hi": "बंगाल की खाड़ी के लिए जामनगर केंद्र"
+        "en": "Keralam probe into CEC goes on",
+        "hi": "सीईसी के खिलाफ केरलम की जांच जारी"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Health",
-        "hi": "स्वास्थ्य"
+        "en": "Election Commission",
+        "hi": "चुनाव आयोग"
       }
     }
   },
@@ -41,80 +41,80 @@
         }
       },
       {
-        "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Assam:",
+          "hi": "असम:"
         },
         "text": {
-          "en": "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Rawalpindi",
-          "hi": "रावलपिंडी में पाकिस्तान ने 434 पर पारी घोषित की, श्रीलंका 114/3 पर, अब भी 320 रन पीछे"
+          "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
+          "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
         }
       },
       {
-        "link": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today",
-          "hi": "अबू धाबी में रूस, यूक्रेन और अमेरिका की चार घंटे की बातचीत, फरवरी के बाद पहली, आज दूसरा दिन"
+          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
+          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
         }
       },
       {
-        "link": "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "lead": {
-          "en": "Election Commission:",
-          "hi": "चुनाव आयोग:"
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
         },
         "text": {
-          "en": "EC extends poll code curbs to retired officials re-engaged by five poll-bound states",
-          "hi": "चुनाव आयोग ने पांच चुनावी राज्यों में फिर से नियुक्त सेवानिवृत्त अधिकारियों पर भी लागू की आचार संहिता"
+          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
+          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
         }
       },
       {
-        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Law:",
+          "hi": "कानून:"
         },
         "text": {
-          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
-          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
+          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
+          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
         }
       },
       {
-        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "link": "womens-reservation-33-per-cent-when-will-it-start-explained",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Women's reservation:",
+          "hi": "महिला आरक्षण:"
         },
         "text": {
-          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
-          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
+          "en": "Women's reservation explained: the 33% law is in force, so when will women actually get the seats?",
+          "hi": "महिला आरक्षण: 33% का कानून लागू है, तो महिलाओं को सीटें असल में कब मिलेंगी?"
         }
       },
       {
-        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "link": "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Census 2027:",
+          "hi": "जनगणना 2027:"
         },
         "text": {
-          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
-          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+          "en": "Census 2027 self-enumeration from November 16 in UP, Punjab, Goa and Uttarakhand: how to fill the form online",
+          "hi": "जनगणना 2027: यूपी, पंजाब, गोवा और उत्तराखंड में 16 नवंबर से स्व-गणना, ऑनलाइन फॉर्म कैसे भरें"
         }
       },
       {
-        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "link": "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
         "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
+          "en": "Rooftop solar:",
+          "hi": "रूफटॉप सोलर:"
         },
         "text": {
-          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
-          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
+          "en": "PM Surya Ghar: how much subsidy you get for rooftop solar, and how to apply",
+          "hi": "पीएम सूर्य घर: रूफटॉप सोलर पर कितनी सब्सिडी मिलती है, और आवेदन कैसे करें"
         }
       }
     ]
@@ -182,26 +182,26 @@
   },
   "topStories": {
     "big": {
-      "id": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+      "id": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
       "also": []
     },
     "list": [
-      "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-      "eci-extends-poll-code-curbs-retired-officials-five-states",
-      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-      "pmk-functionary-shot-dead-vellore-gudiyatham",
-      "india-a-nz-a-lincoln-third-test-draw-series-level"
+      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+      "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+      "womens-reservation-33-per-cent-when-will-it-start-explained",
+      "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
     ],
     "also": [
-      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
+      "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+      "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart"
     ]
   },
   "startHere": [
+    "section-17a-explained-keralam-vigilance-probe-cec-gyanesh-kumar",
+    "donbas-explained-why-abu-dhabi-talks-hinge-on-eastern-ukraine",
     "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-    "extradition-explained-hasina-india-bangladesh-treaty",
-    "black-sea-food-corridors-explained-grain-deal-india-mediation",
-    "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
+    "extradition-explained-hasina-india-bangladesh-treaty"
   ],
   "trackers": [
     {
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "abu-dhabi-talks-russia-and-ukraine-must-first-agree-the-map",
+    "digaru-derailment-railway-must-not-stop-at-the-loco-pilot",
     "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
     "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
-    "digital-arrest-victims-should-be-repaid-by-the-bank-first",
-    "delhi-air-monitors-that-go-blank-on-the-worst-night",
-    "megamalai-ruling-forest-rights-line-must-be-honest"
+    "digital-arrest-victims-should-be-repaid-by-the-bank-first"
   ],
   "sections": [
     {
@@ -368,9 +368,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
         "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
+        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
       ],
       "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
     },
@@ -406,8 +406,8 @@
       "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
       ]
     },
     {
@@ -424,9 +424,9 @@
       "section": "world",
       "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
       "list": [
-        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "hasina-passport-request-dhaka-refuses-extradition-india"
+        "hasina-passport-request-dhaka-refuses-extradition-india",
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
       ]
     },
     {
@@ -450,42 +450,6 @@
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Day three of Pakistan v Sri Lanka, first Test, Rawalpindi",
-        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: तीसरा दिन"
-      },
-      "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "President Murmu confers Swachh Survekshan 2025-26 awards at Vigyan Bhawan, New Delhi",
-        "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
-      },
-      "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
-        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -519,23 +483,20 @@
         "en": "RBI's weekly forex reserves figures",
         "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
       }
+    },
+    {
+      "icon": "calendar-check",
+      "date": {
+        "en": "Nov 14",
+        "hi": "14 नवंबर"
+      },
+      "text": {
+        "en": "Polling: Rajasthan panchayat elections (panchayat samiti and zila parishad members, sarpanch and ward panch)",
+        "hi": "मतदान: राजस्थान पंचायत चुनाव (पंचायत समिति और जिला परिषद सदस्य, सरपंच और वार्ड पंच)"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T08:53:28+05:30",
-      "ids": [
-        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
-      ]
-    },
     {
       "at": "2026-11-11T09:16:43+05:30",
       "ids": [
@@ -637,6 +598,20 @@
         "pmk-functionary-shot-dead-vellore-gudiyatham",
         "india-a-nz-a-lincoln-third-test-draw-series-level",
         "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
+      ]
+    },
+    {
+      "at": "2026-11-11T18:23:32+05:30",
+      "ids": [
+        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+        "womens-reservation-33-per-cent-when-will-it-start-explained",
+        "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
       ]
     }
   ],

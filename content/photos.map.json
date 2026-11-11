@@ -45962,5 +45962,87 @@
    "subj": "c7dbffffff980000",
    "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
   }
+ },
+ "abu-dhabi-talks-russia-and-ukraine-must-first-agree-the-map": {
+  "id": "o-abu-dhabi-talks-russia-and-ukraine-must-first-agree-the-map",
+  "src": "/photos/o-abu-dhabi-talks-russia-and-ukraine-must-first-agree-the-map-1280.jpg",
+  "src800": "/photos/o-abu-dhabi-talks-russia-and-ukraine-must-first-agree-the-map-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2667,
+  "credit": "Photo: Dati Bendo / European Union, 2025 / EC - Audiovisual Service / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Ukrainian President Volodymyr Zelenskyy (file photo)",
+  "alt_hi": "यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Volodymyr_Zelenskyy,_President_of_Ukraine,_to_the_European_Commission_-_2025.jpg"
+ },
+ "section-17a-explained-keralam-vigilance-probe-cec-gyanesh-kumar": {
+  "id": "o-section-17a-explained-keralam-vigilance-probe-cec-gyanesh-kumar",
+  "src": "/photos/o-section-17a-explained-keralam-vigilance-probe-cec-gyanesh-kumar-1280.jpg",
+  "src800": "/photos/o-section-17a-explained-keralam-vigilance-probe-cec-gyanesh-kumar-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3936,
+  "credit": "Photo: Ramanpanikar / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Keralam Home Minister Ramesh Chennithala (file photo)",
+  "alt_hi": "केरलम के गृह मंत्री रमेश चेन्निथला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ramesh_Chennithala_congress_leader.jpg"
+ },
+ "donbas-explained-why-abu-dhabi-talks-hinge-on-eastern-ukraine": {
+  "id": "o-donbas-explained-why-abu-dhabi-talks-hinge-on-eastern-ukraine",
+  "src": "/photos/o-donbas-explained-why-abu-dhabi-talks-hinge-on-eastern-ukraine-1280.jpg",
+  "src800": "/photos/o-donbas-explained-why-abu-dhabi-talks-hinge-on-eastern-ukraine-640.jpg",
+  "width": 1280,
+  "height": 790,
+  "srcWidth": 1880,
+  "credit": "Photo: Kremlin.ru / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Russian President Vladimir Putin (file photo)",
+  "alt_hi": "रूस के राष्ट्रपति व्लादिमीर पुतिन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2025-09-02).jpg"
+ },
+ "digaru-derailment-railway-must-not-stop-at-the-loco-pilot": {
+  "id": "i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot",
+  "src": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-en-3x2-1280.jpg",
+  "src800": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: A rail week that asks for answers",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रेल का एक हफ़्ता, जो जवाब मांगता है",
+  "page": null,
+  "ihash": "96f77ea708a5",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-hi-3x2-1280.jpg",
+    "src800": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-en-t-1280.jpg",
+    "src800": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-hi-t-1280.jpg",
+    "src800": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-en-1280.jpg",
+    "src800": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-hi-1280.jpg",
+    "src800": "/photos/i-digaru-derailment-railway-must-not-stop-at-the-loco-pilot-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of a train derailment in Assam or the Northeast; library, quick_photo 'Train derailment', finder l11e k3 returned none"
  }
 }

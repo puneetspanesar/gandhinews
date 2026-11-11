@@ -13,7 +13,7 @@ hero:
   need: "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy"
   suggested_source: "Volodymyr Zelenskyy"
   subjects: ["Volodymyr Zelenskyy", "Vladimir Putin"]
-  alt: "Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin (file photos)"
+  alt: "Russian President Vladimir Putin (file photo)"
   overlay:
     value: "The Donbas: the land at the heart of the talks"
 related: [zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi]

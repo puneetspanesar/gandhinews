@@ -14,7 +14,7 @@ hero:
   need: "यूक्रेन के राष्ट्रपति वलोदिमीर ज़ेलेंस्की और रूस के राष्ट्रपति व्लादिमीर पुतिन"
   suggested_source: "Volodymyr Zelenskyy"
   subjects: ["Volodymyr Zelenskyy", "Vladimir Putin"]
-  alt: "यूक्रेन के राष्ट्रपति वलोदिमीर ज़ेलेंस्की और रूस के राष्ट्रपति व्लादिमीर पुतिन (फाइल फोटो)"
+  alt: "रूस के राष्ट्रपति व्लादिमीर पुतिन (फ़ाइल फ़ोटो)"
   overlay:
     value: "डोनबास: वार्ता के केंद्र की ज़मीन"
 related: [zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi]

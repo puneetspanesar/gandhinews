@@ -9,7 +9,6 @@ title: "President Murmu to hand out Swachh Survekshan awards on Wednesday as sur
 standfirst: "The 10th edition of the cleanliness ranking, scored on 43 indicators and checked by more than 3,000 assessors, will be announced at Vigyan Bhawan in New Delhi on November 11."
 published: 2026-11-10T10:20:20+05:30
 location: New Delhi
-upcoming: {date: 2026-11-11, en: "President Murmu confers Swachh Survekshan 2025-26 awards at Vigyan Bhawan, New Delhi", hi: "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"}
 keyPoints:
   - "President Droupadi Murmu will confer the **10th Swachh Survekshan awards** at Vigyan Bhawan on November 11."
   - "The survey has grown from 73 urban bodies in 2016 to **more than 4,751 cities** this year."

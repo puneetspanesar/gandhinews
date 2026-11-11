@@ -4,7 +4,7 @@ lang: en
 type: explainer
 section: politics
 format_label: "Explained / Law"
-topics: [election-commission, corruption]
+topics: [election-commission, supreme-court]
 title: "Section 17A explained: why Keralam needed sanction to probe Gyanesh Kumar, and what protects a CEC"
 standfirst: "Keralam's Home Minister says the Vigilance inquiry into Chief Election Commissioner Gyanesh Kumar is going on. The state first had to grant sanction under Section 17A of the anti-corruption law. What that section does, why the Supreme Court is split on it, and how far the CEC's own protections reach."
 published: 2026-11-11T17:43:10+05:30
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Text of Section 17A (who approves, three months plus one, on-the-spot arrest exception) and the January 13, 2026 split (Justices Nagarathna and Viswanathan, reference to the CJI) from the LiveLaw report; the judgment itself was not opened. Year of insertion (2018) is from general knowledge of the amendment."
+    - "Text of Section 17A (who approves, three months plus one, on-the-spot arrest exception) and the January 13, 2026, split (Justices Nagarathna and Viswanathan, reference to the CJI) from the LiveLaw report; the judgment itself was not opened. Year of insertion (2018) is from general knowledge of the amendment."
     - "No source read says a larger bench has since decided the question; the copy says only that it was referred."
     - "Section 16 of the 2023 CEC Act wording and the Lok Prahari challenge (notice in January 2026, no stay) from the Outlook article; Justice Bagchi's remarks and the October 2026 petitions from CLATalogue. Neither original order was read."
     - "Article 324(5) and Section 11 removal process taken from the site's own November 1 explainer."
@@ -88,7 +88,7 @@ Who approves depends on who employed the person when the alleged offence took pl
 
 ## Why has the Supreme Court not settled Section 17A?
 
-**Because its two judges disagreed.** On January 13, 2026, in a case brought by the Centre for Public Interest Litigation, Justice B V Nagarathna held the section unconstitutional. She said it "protects the corrupt rather than seeking to protect the honest" and revives a safeguard the court struck down in earlier cases. Justice K V Viswanathan upheld it, but only if the decision on sanction is taken by the **Lokpal, or the Lokayukta in a state**, and not by the government. The matter went to the Chief Justice of India to form a larger bench. Until that bench rules, the section stands as written, which is why Keralam sought sanction.
+**Because its two judges disagreed.** On January 13, 2026, in a case brought by the Centre for Public Interest Litigation, Justice B V Nagarathna held the section unconstitutional. She said it "protects the corrupt rather than seeking to protect the honest" and revives a safeguard the court struck down in earlier cases. Justice K V Viswanathan upheld it, but only if the decision on sanction is taken by the **Lokpal, or the Lokayukta in a state**, and not by the government. The matter went to the Chief Justice of India to form a larger bench. Until that bench rules, the section stands as written, which is why Keralam had to grant sanction before the inquiry could begin.
 
 ```photo
 {"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court in New Delhi, where two judges split on January 13, 2026 over whether Section 17A is valid.","alt":"The Supreme Court of India building in New Delhi"}

@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / Europe"
 topics: []
-title: "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today"
+title: "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due on November 11"
 standfirst: "Jared Kushner and Steve Witkoff chaired the Tuesday session, which covered security guarantees and a large prisoner exchange. Russia still rules out a ceasefire and Kyiv still refuses to give up land."
 published: 2026-11-11T06:20:00+05:30
 location: Abu Dhabi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Rustem Umerov", "Vladimir Medinsky"]
   alt: "Ukraine's chief negotiator Rustem Umerov (file photo)"
   overlay:
-    value: "Abu Dhabi talks: 4 hours, day two today"
+    value: "Abu Dhabi talks: 4 hours, day two on November 11"
 related: [putin-zelenskyy-back-three-way-talks-freeze-front-line, lavrov-zelenskyy-fears-peace-deal-trump-pressure, kyiv-ballistic-missiles-after-talks-deal-zelenskyy-humanitarians]
 infographic:
   kicker: "Russia-Ukraine talks"
@@ -58,7 +58,7 @@ verification:
     - "Outlet names are kept out of the body per house rule."
 ---
 
-Negotiators from Russia, Ukraine and the United States met in Abu Dhabi on Tuesday, November 10, for **nearly four hours of talks**, the first such round since February. US envoys Jared Kushner and Steve Witkoff brokered the session, and a second is scheduled for today, Wednesday, November 11.
+Negotiators from Russia, Ukraine and the United States met in Abu Dhabi on Tuesday, November 10, for **nearly four hours of talks**, the first such round since February. US envoys Jared Kushner and Steve Witkoff brokered the session, and a second was scheduled for Wednesday, November 11.
 
 No breakthrough came out of day one. Kushner said recent contacts had "really identified, narrowed the gaps", but the main differences on any final deal remain wide. US Secretary of State Marco Rubio called the talks "very productive" and cautioned that a settlement is not imminent. Ukrainian President Volodymyr Zelenskyy, who was not in the room, called the session "constructive and quite substantive".
 
@@ -94,4 +94,4 @@ A deal would affect energy and food markets that India and other importers follo
 
 ## What happens next
 
-The second session in Abu Dhabi is due today. Details of the prisoner exchange are expected in the coming days, and Rubio has said the aim is eventually to widen the talks to include Europe. No date has been announced for a further round.
+The second session in Abu Dhabi was due on November 11. Details of the prisoner exchange are expected in the coming days, and Rubio has said the aim is eventually to widen the talks to include Europe. No date has been announced for a further round.

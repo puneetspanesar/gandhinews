@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "Our view"
   headline: "A rail week that asks for answers"
-  dek: "The Digaru derailment is the third rail incident reported in six days"
+  dek: "Digaru is not the only rail incident reported this week"
   motif: train
   timeline:
     - {date: "Nov 6", text: "Four Karmabhoomi Express coaches catch fire in Punjab", icon: fire}
