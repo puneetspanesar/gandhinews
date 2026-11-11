@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "pmk-functionary-shot-dead-vellore-gudiyatham",
+    "id": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
     "overlay": {
       "kicker": {
-        "en": "States / Tamil Nadu",
-        "hi": "राज्य / तमिलनाडु"
+        "en": "World / Middle East",
+        "hi": "दुनिया / पश्चिम एशिया"
       },
       "value": {
-        "en": "Shot dead at a village bus stop",
-        "hi": "गाँव के बस स्टॉप पर गोली मारी"
+        "en": "Rubio: no need for major combat on Iran",
+        "hi": "रुबियो: ईरान पर बड़े हमले की जरूरत नहीं"
       },
       "text": {
         "en": "",
@@ -18,104 +18,104 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "hasina-passport-request-dhaka-refuses-extradition-india",
-      "india-a-nz-a-lincoln-third-test-draw-series-level"
+      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+      "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
     ],
     "live": {
       "title": {
-        "en": "Tamil Nadu",
-        "hi": "तमिलनाडु"
+        "en": "Middle East",
+        "hi": "पश्चिम एशिया"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
-        "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
-        },
-        "text": {
-          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
-          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
-        }
-      },
-      {
-        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
-          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+          "en": "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Rawalpindi",
+          "hi": "रावलपिंडी में पाकिस्तान ने 434 पर पारी घोषित की, श्रीलंका 114/3 पर, अब भी 320 रन पीछे"
         }
       },
       {
-        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "link": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
-          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
+          "en": "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today",
+          "hi": "अबू धाबी में रूस, यूक्रेन और अमेरिका की चार घंटे की बातचीत, फरवरी के बाद पहली, आज दूसरा दिन"
         }
       },
       {
-        "link": "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
+        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
         },
         "text": {
-          "en": "Delhi sent ₹142 crore Diwali LPG aid to over 15 lakh ration card families",
-          "hi": "दिल्ली सरकार ने 15 लाख से ज्यादा राशन कार्ड परिवारों को भेजी दिवाली की ₹142 करोड़ की एलपीजी सहायता"
+          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
+          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
         }
       },
       {
-        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "link": "eci-extends-poll-code-curbs-retired-officials-five-states",
         "lead": {
-          "en": "Ukraine:",
-          "hi": "यूक्रेन:"
+          "en": "Election Commission:",
+          "hi": "चुनाव आयोग:"
         },
         "text": {
-          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
-          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
+          "en": "EC extends poll code curbs to retired officials re-engaged by five poll-bound states",
+          "hi": "चुनाव आयोग ने पांच चुनावी राज्यों में फिर से नियुक्त सेवानिवृत्त अधिकारियों पर भी लागू की आचार संहिता"
         }
       },
       {
-        "link": "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
+        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
+          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
+        }
+      },
+      {
+        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
+          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
+        }
+      },
+      {
+        "link": "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "India win toss and bowl in a 40-over Hamilton ODI after long rain delay",
-          "hi": "लंबी बारिश के बाद हैमिल्टन में भारत ने टॉस जीतकर गेंदबाज़ी चुनी, मैच 40 ओवर का"
+          "en": "Hamilton ODI abandoned without a ball bowled; India keep 2-0 lead, Iyer to captain",
+          "hi": "हैमिल्टन वनडे बिना गेंद फेंके रद्द, भारत 2-0 से आगे, अब श्रेयस अय्यर कप्तान"
         }
       },
       {
-        "link": "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
+        "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "lead": {
-          "en": "Gujarat:",
-          "hi": "गुजरात:"
+          "en": "Urban Affairs:",
+          "hi": "शहरी विकास:"
         },
         "text": {
-          "en": "Shah launches Ahmedabad projects worth about ₹1,400 crore, starts housing draw",
-          "hi": "शाह ने अहमदाबाद में करीब ₹1,400 करोड़ की परियोजनाओं का उद्घाटन और शिलान्यास किया, आवास ड्रॉ शुरू"
-        }
-      },
-      {
-        "link": "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Delhi Police serve Mamata Banerjee a notice to give a witness statement in a 2013 case",
-          "hi": "दिल्ली पुलिस ने ममता बनर्जी को 2013 के मामले में गवाह के तौर पर बयान देने का नोटिस दिया"
+          "en": "President Murmu to hand out Swachh Survekshan awards on Wednesday as survey covers 4,751 cities",
+          "hi": "राष्ट्रपति मुर्मु बुधवार को देंगी स्वच्छ सर्वेक्षण पुरस्कार, इस बार 4,751 से ज्यादा शहर शामिल"
         }
       }
     ]
@@ -183,19 +183,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "id": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
       "also": []
     },
     "list": [
-      "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
-      "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
-      "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
-      "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+      "eci-extends-poll-code-curbs-retired-officials-five-states",
+      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+      "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+      "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+      "swachh-survekshan-2025-26-awards-president-murmu-november-11"
     ],
     "also": [
-      "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-      "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
+      "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+      "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
     ]
   },
   "startHere": [
@@ -359,7 +359,7 @@
     "delhi-air-monitors-that-go-blank-on-the-worst-night",
     "megamalai-ruling-forest-rights-line-must-be-honest",
     "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
-    "teen-domestic-worker-delhi-homes-and-placement-agents-need-registration"
+    "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not"
   ],
   "sections": [
     {
@@ -369,11 +369,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
         "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
         "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
       ],
-      "lead": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
+      "lead": "eci-extends-poll-code-curbs-retired-officials-five-states"
     },
     {
       "section": "economy",
@@ -423,9 +423,9 @@
   "desks": [
     {
       "section": "world",
-      "lead": "hasina-passport-request-dhaka-refuses-extradition-india",
+      "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
       "list": [
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "modi-zelenskyy-phone-call-india-peace-efforts",
         "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
       ]
@@ -441,12 +441,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
+      "lead": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
       "list": [
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
-        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
+        "india-women-squads-south-africa-tour-mandhana-captain-all-formats"
       ]
     }
   ],
@@ -458,10 +458,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
-        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
+        "en": "Day three of Pakistan v Sri Lanka, first Test, Rawalpindi",
+        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: तीसरा दिन"
       },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+      "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three"
     },
     {
       "icon": "calendar-blank",
@@ -474,6 +474,18 @@
         "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
       },
       "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
+        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -508,37 +520,9 @@
         "en": "RBI's weekly forex reserves figures",
         "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
       }
-    },
-    {
-      "icon": "calendar-check",
-      "date": {
-        "en": "Nov 14",
-        "hi": "14 नवंबर"
-      },
-      "text": {
-        "en": "Polling: Rajasthan panchayat elections (panchayat samiti and zila parishad members, sarpanch and ward panch)",
-        "hi": "मतदान: राजस्थान पंचायत चुनाव (पंचायत समिति और जिला परिषद सदस्य, सरपंच और वार्ड पंच)"
-      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T16:37:23+05:30",
-      "ids": [
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "mumbai-bmc-bans-rockets-aerial-firecrackers-till-november-25",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "ramdas-kadam-tatkare-ajit-pawar-crash-probe-demand",
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls",
-        "womens-reservation-33-per-cent-when-will-it-start-explained"
-      ]
-    },
     {
       "at": "2026-11-10T18:51:12+05:30",
       "ids": [
@@ -646,6 +630,20 @@
         "india-win-toss-bowl-40-overs-hamilton-third-odi-rain-delay",
         "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro",
         "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
+      ]
+    },
+    {
+      "at": "2026-11-11T06:37:35+05:30",
+      "ids": [
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11"
       ]
     }
   ],

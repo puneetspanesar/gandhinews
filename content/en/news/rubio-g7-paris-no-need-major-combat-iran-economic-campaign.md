@@ -6,13 +6,13 @@ section: world
 format_label: "World / Middle East"
 topics: []
 title: "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'"
-standfirst: "Speaking in Paris on Tuesday, the US Secretary of State said the 'economic pain' on Iran is working. Tehran says no talks are under way, and Brent fell to a two-month low of $90.64."
+standfirst: "Speaking in Paris on Tuesday, the US Secretary of State said the 'economic pain' on Iran is working. Tehran says no talks are under way and has set seven conditions first."
 published: 2026-11-11T06:12:00+05:30
 location: Paris
 keyPoints:
   - "US Secretary of State Marco Rubio told reporters in Paris on November 10 that the economic campaign is so damaging that **there is no need for major combat operations** against Iran right now."
   - "It came a day after President Donald Trump said Iran is **\"militarily effectively over\"**, while Iran's security chief Mohsen Rezaei called talk of negotiations imaginary."
-  - "Brent crude fell about 2% on Tuesday to **$90.64 a barrel**, its lowest in two months."
+  - "Iran says the US must first accept **seven conditions**, including an end to sanctions and the blockade and the release of frozen assets."
 hero:
   need: "US Secretary of State Marco Rubio"
   suggested_source: "Marco Rubio"
@@ -24,14 +24,14 @@ related: [trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls, rubio
 infographic:
   kicker: "US-Iran war"
   headline: "Rubio: sanctions do the work, no major combat"
-  dek: "Brent falls to a two-month low as Washington plays down new strikes"
+  dek: "Washington plays down new strikes as Tehran denies any talks"
   motif: gas-pump
   stats:
-    - {icon: gas-pump, value: "$90.64", label: "Brent a barrel on Tuesday, a two-month low"}
+    - {icon: list-numbers, value: "7", label: "conditions Iran says the US must accept first"}
     - {icon: calendar-blank, value: "Feb 28", label: "the day the war began, nearly nine months ago"}
   source: "Rubio remarks in Paris, November 10, 2026; oil market data, November 10"
 seo:
-  description: "Rubio told G7 allies in Paris on November 10 that sanctions and the blockade make major combat against Iran unnecessary. Brent fell to $90.64."
+  description: "Rubio told G7 allies in Paris on November 10 that sanctions and the blockade make major combat against Iran unnecessary. Tehran denies any talks."
 sources:
   - title: "Rubio sees 'no need' for major combat operations against Iran"
     publisher: "The Korea Times"
@@ -73,7 +73,7 @@ verification:
     - "Outlet names are kept out of the body per house rule."
 ---
 
-US Secretary of State Marco Rubio told reporters in Paris on Tuesday, November 10, that the American economic campaign against Iran is "so devastating that right now there is no need for major combat operations". Speaking after two days of G7 foreign ministers' talks, he said President Donald Trump had concluded that his aims can be reached by sanctions and the naval blockade of Iranian ports. Brent crude fell about 2% on the day to **$90.64 a barrel, its lowest in two months**.
+US Secretary of State Marco Rubio told reporters in Paris on Tuesday, November 10, that the American economic campaign against Iran is "so devastating that right now there is no need for major combat operations". Speaking after two days of G7 foreign ministers' talks, he said President Donald Trump had concluded that his aims can be reached by sanctions and the naval blockade of Iranian ports. In New York trading on Tuesday morning, Brent crude was down about 2% at **$90.64 a barrel, its lowest in two months**.
 
 The remarks followed a surprise White House briefing on Monday, November 9, in which Trump said the war with Iran is "effectively over" militarily. Iran rejected both messages and says no negotiations are under way.
 
@@ -106,12 +106,12 @@ Qatar's prime minister went from the White House into talks on the sidelines of 
 Washington itself is less united than the public line suggests. Trump has acknowledged that the war was one reason Republicans lost last week's midterm elections, and Vance said: "The reason we lost is the war."
 
 ```timeline
-{"title":"From strikes to a stated pause","items":[{"date":"February 28, 2026","text":"The war begins with the killing of Supreme Leader Ali Khamenei."},{"date":"November 2, 2026","text":"The US acknowledges limited strikes on Qeshm island air defences."},{"date":"November 7, 2026","text":"CENTCOM launches Task Force Iron Gate."},{"date":"November 9, 2026","text":"Trump calls the war 'effectively over' after meeting Qatar's prime minister."},{"date":"November 10, 2026","text":"Rubio tells G7 ministers no major combat is needed; Brent falls to $90.64."}]}
+{"title":"From strikes to a stated pause","items":[{"date":"February 28, 2026","text":"The war begins with the killing of Supreme Leader Ali Khamenei."},{"date":"November 2, 2026","text":"The US acknowledges limited strikes on Qeshm island air defences."},{"date":"November 7, 2026","text":"CENTCOM launches Task Force Iron Gate."},{"date":"November 9, 2026","text":"Trump calls the war 'effectively over' after meeting Qatar's prime minister."},{"date":"November 10, 2026","text":"Rubio tells G7 ministers no major combat is needed; Brent trades at a two-month low."}]}
 ```
 
 ## What it means for oil and for India
 
-Oil markets took the US tone as a sign that the worst case is fading. Brent's drop to $90.64 and a fall in US crude to $85.41 came after [a 17% weekly decline](/en/news/trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls) and leave crude well under $100. Tim Waterer of KCM Trade said the market "continues to prioritize President Trump's more conciliatory tone toward Iran since the midterms". Higher-than-expected US consumer prices for October also raised the odds of a Federal Reserve rate rise in December, which can slow growth and cut oil demand.
+Oil markets took the US tone as a sign that the worst case is fading. Brent's drop to $90.64 and a fall in US crude to $85.41 by Tuesday morning in New York came after [a 17% weekly decline](/en/news/trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls) and leave crude well under $100. Tim Waterer of KCM Trade said the market "continues to prioritize President Trump's more conciliatory tone toward Iran since the midterms". Higher-than-expected US consumer prices for October also raised the odds of a Federal Reserve rate rise in December, which can slow growth and cut oil demand.
 
 For India, which buys about half its crude through Hormuz, the lower price helps state oil companies' margins and the rupee, although retail petrol and diesel prices are capped and move slowly. The risk is that attacks on ships continue: drone strikes on vessels in the strait have not stopped, and the US says it will keep defending shipping.
 

@@ -45547,25 +45547,25 @@
   "src": "/photos/o-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one-1280.jpg",
   "src800": "/photos/o-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 1000,
-  "credit": "Photo: Chairman of the Joint Chiefs of Staff / Wikimedia Commons",
-  "licence": "CC BY 2.0",
+  "height": 853,
+  "srcWidth": 1867,
+  "credit": "Photo: Антон Шевельов (facebook.com/1200dpi) / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
   "alt": "Rustem Umerov, Ukraine's chief negotiator (file photo)",
   "alt_hi": "यूक्रेन के मुख्य वार्ताकार रुस्तम उमेरोव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rustem_Umerov_in_2024_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rustem_Umerov_ANT_3834.jpg",
   "treated": {
    "src": "/photos/t-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-o-1280.jpg",
    "src800": "/photos/t-abu-dhabi-russia-ukraine-us-talks-first-since-february-day-o-640.jpg",
-   "cutout": false,
+   "cutout": true,
    "with": [
     "kyiv-draft-office-shooting-six-injured",
     "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
     "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm"
    ],
    "kind": "photo",
-   "subj": "3f3c3c3c3c1c1800",
-   "credit": "Photos: Chairman of the Joint Chiefs of Staff / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
+   "subj": "71f1f0f0f0f0703",
+   "credit": "Photos: Антон Шевельов (facebook.com/1200dpi) / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
   }
  },
  "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three": {
@@ -45574,11 +45574,11 @@
   "src800": "/photos/o-sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 2912,
-  "credit": "Photo: Dave Morton / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Pakistan batter Saud Shakeel walking out to bat (file photo)",
-  "alt_hi": "बल्लेबाज़ी के लिए उतरते पाकिस्तान के सऊद शकील (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:1_37_Saud_Shakeel.jpg"
+  "srcWidth": 5380,
+  "credit": "Photo: Nazly Ahmed / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Sri Lanka's Asitha Fernando bowling to Babar Azam in a Test in Colombo (file photo)",
+  "alt_hi": "कोलंबो टेस्ट में बाबर आज़म को गेंदबाज़ी करते श्रीलंका के असिथा फर्नांडो (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Asitha_Fernando_vs_Babar_Azam,_Colombo_2023.jpg"
  }
 }

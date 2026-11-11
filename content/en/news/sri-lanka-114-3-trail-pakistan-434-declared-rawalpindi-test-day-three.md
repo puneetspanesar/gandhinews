@@ -82,7 +82,7 @@ Asitha Fernando and Dilshan Madushanka took three wickets each for Sri Lanka, at
 
 ## Sri Lanka lose three before the light goes
 
-The reply began badly. Pasindu Sooriyabandara, promoted to open in only his third Test, was out **without scoring**, bowled to by Mohammad Abbas, who finished with one for 23. Saqib Khan then took a wicket with his first ball in Test cricket for Pakistan, removing Dinesh Chandimal for one on debut. Saqib ended the day with two for 54.
+The reply began badly. Pasindu Sooriyabandara, promoted to open in only his third Test, was out **without scoring**, caught by Ghazi Ghori off Mohammad Abbas, who finished with one for 23. Saqib Khan, on debut, then took a wicket with his first ball in Test cricket for Pakistan, removing Dinesh Chandimal for one. Saqib ended the day with two for 54.
 
 Lahiru Udara, who fell for 42, offered the most resistance before he was dismissed. Kamindu Mendis was unbeaten on 40 and Dhananjaya de Silva on 22 when the umpires took the players off after 27.1 overs, leaving **seven wickets in hand** and a deficit of 320.
 
