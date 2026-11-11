@@ -1,0 +1,15 @@
+{
+ "run": "stall-17",
+ "start": "2026-11-11T16:57:21+05:30",
+ "end": "2026-11-11T17:08:14+05:30",
+ "summary": "Lead rotated to Nadda at BIMSTEC health meeting; Zelenskyy story had led three times",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "a science story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news): nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+ ],
+ "lead": "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+}

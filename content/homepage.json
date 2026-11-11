@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+    "id": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "Science & Tech / Health",
+        "hi": "विज्ञान-तकनीक / स्वास्थ्य"
       },
       "value": {
-        "en": "Zelenskyy: Russia claimed half of Donbas",
-        "hi": "ज़ेलेंस्की: रूस ने आधे डोनबास का दावा किया"
+        "en": "A Jamnagar centre for the Bay of Bengal",
+        "hi": "बंगाल की खाड़ी के लिए जामनगर केंद्र"
       },
       "text": {
         "en": "",
@@ -18,37 +18,26 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+      "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Health",
+        "hi": "स्वास्थ्य"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "link": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
-          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
-        }
-      },
-      {
-        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
-          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
+          "en": "Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two",
+          "hi": "ज़ेलेंस्की का दावा: रूसी टीम ने यूक्रेन के कब्ज़े वाले आधे डोनबास पर नियंत्रण जताया, अबू धाबी में दूसरे दिन वार्ता फिर शुरू"
         }
       },
       {
@@ -63,14 +52,14 @@
         }
       },
       {
-        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "link": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
-          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
+          "en": "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today",
+          "hi": "अबू धाबी में रूस, यूक्रेन और अमेरिका की चार घंटे की बातचीत, फरवरी के बाद पहली, आज दूसरा दिन"
         }
       },
       {
@@ -107,14 +96,25 @@
         }
       },
       {
-        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
+        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
         "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
-          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
+          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
+          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+        }
+      },
+      {
+        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "lead": {
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
+        },
+        "text": {
+          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
+          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "id": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
       "also": []
     },
     "list": [
-      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+      "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
       "eci-extends-poll-code-curbs-retired-officials-five-states",
       "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-      "pmk-functionary-shot-dead-vellore-gudiyatham"
+      "pmk-functionary-shot-dead-vellore-gudiyatham",
+      "india-a-nz-a-lincoln-third-test-draw-series-level"
     ],
     "also": [
-      "hasina-passport-request-dhaka-refuses-extradition-india",
-      "india-a-nz-a-lincoln-third-test-draw-series-level"
+      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
     ]
   },
   "startHere": [
@@ -396,9 +396,9 @@
       "section": "states",
       "lead": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
       "list": [
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
+        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
       ]
     },
     {
@@ -406,8 +406,8 @@
       "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
-        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -424,9 +424,9 @@
       "section": "world",
       "lead": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
       "list": [
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "modi-zelenskyy-phone-call-india-peace-efforts"
+        "hasina-passport-request-dhaka-refuses-extradition-india"
       ]
     },
     {
@@ -626,17 +626,17 @@
       ]
     },
     {
-      "at": "2026-11-11T16:46:30+05:30",
+      "at": "2026-11-11T16:58:22+05:30",
       "ids": [
-        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
         "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "eci-extends-poll-code-curbs-retired-officials-five-states",
         "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
         "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "hasina-passport-request-dhaka-refuses-extradition-india"
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
       ]
     }
   ],
