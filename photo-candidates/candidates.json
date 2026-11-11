@@ -1,0 +1,106 @@
+{
+  "k1": {
+    "query": "derailed train India",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Derailment of Mumbai local.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Derailment_of_Mumbai_local.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Derailment_of_Mumbai_local.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2048,
+        "height": 1536,
+        "licence": "CC BY-SA 3.0",
+        "author": "Karthikndr",
+        "credit": "Own work",
+        "date": "2013-03-05 16:27:49",
+        "description": "Derailment of Chhatrapati Shivaji Terminus bound local train in Mumbai, near Wadala Road station of Harbour Line.",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Derailment_of_Mumbai_local.jpg/1600px-Derailment_of_Mumbai_local.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Pukhrayan accident.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Pukhrayan_accident.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Pukhrayan_accident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 913,
+        "height": 1104,
+        "licence": "CC BY-SA 4.0",
+        "author": "Vignyana",
+        "credit": "Own work",
+        "date": "2016-11-21",
+        "description": "Scheduled train route from Indore to Patna",
+        "thumb": "k1-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/0/09/Pukhrayan_accident.jpg"
+      },
+      {
+        "n": 2,
+        "title": "File:Derailment of Mumbai local in Wadala station.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Derailment_of_Mumbai_local_in_Wadala_station.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Derailment_of_Mumbai_local_in_Wadala_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2048,
+        "height": 1536,
+        "licence": "CC BY-SA 3.0",
+        "author": "Karthikndr",
+        "credit": "Own work",
+        "date": "2013-03-05 16:28:11",
+        "description": "Derailment of Chhatrapati Shivaji Terminus bound local train in Mumbai, near Wadala Road station of Harbour Line.",
+        "thumb": "k1-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Derailment_of_Mumbai_local_in_Wadala_station.jpg/1600px-Derailment_of_Mumbai_local_in_Wadala_station.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:1016 IndiaDarjeeling 19931231.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:1016_IndiaDarjeeling_19931231.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/1016_IndiaDarjeeling_19931231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3335,
+        "height": 2237,
+        "licence": "CC BY-SA 4.0",
+        "author": "MaltaGC (Nigel Tout)",
+        "credit": "Nigel Tout’s Website: Darjeeling Himalayan Railway, India, 31/12/1993",
+        "date": "1993-12-31",
+        "description": "Darjeeling Himalayan Railway class B 0-4-0ST no. 805 (North British 1925) rushes past on its journey up the mountain towards Darjeeling with the passenger train Points of interest: The man sitting on ",
+        "thumb": "k1-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/1016_IndiaDarjeeling_19931231.jpg/1600px-1016_IndiaDarjeeling_19931231.jpg"
+      }
+    ]
+  },
+  "k2": {
+    "query": "train accident derailment Northeast Frontier Railway",
+    "candidates": []
+  },
+  "k3": {
+    "query": "Odisha train collision coaches",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:A scene from interior part of inverted Coromandel coach after the tragic accident.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:A_scene_from_interior_part_of_inverted_Coromandel_coach_after_the_tragic_accident.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/A_scene_from_interior_part_of_inverted_Coromandel_coach_after_the_tragic_accident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 6240,
+        "height": 4160,
+        "licence": "CC BY-SA 4.0",
+        "author": "Swattik Jana",
+        "credit": "Own work",
+        "date": "2023-06-04 11:03:00",
+        "description": "A scene from interior part of inverted Coromandel coach after the tragic accident",
+        "thumb": "k3-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/A_scene_from_interior_part_of_inverted_Coromandel_coach_after_the_tragic_accident.jpg/1600px-A_scene_from_interior_part_of_inverted_Coromandel_coach_after_the_tragic_accident.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:A scene from interior part of a Coromandel coach after the tragic accident.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:A_scene_from_interior_part_of_a_Coromandel_coach_after_the_tragic_accident.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_scene_from_interior_part_of_a_Coromandel_coach_after_the_tragic_accident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 6146,
+        "height": 4097,
+        "licence": "CC BY-SA 4.0",
+        "author": "Swattik Jana",
+        "credit": "Own work",
+        "date": "2023-06-04 10:50:14",
+        "description": "A scene from interior part of a Coromandel coach after the tragic accident",
+        "thumb": "k3-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/A_scene_from_interior_part_of_a_Coromandel_coach_after_the_tragic_accident.jpg/1600px-A_scene_from_interior_part_of_a_Coromandel_coach_after_the_tragic_accident.jpg"
+      }
+    ]
+  }
+}
