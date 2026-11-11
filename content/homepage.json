@@ -96,25 +96,25 @@
         }
       },
       {
-        "link": "zelenskyy-india-mediate-black-sea-food-corridors-claim",
+        "link": "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
         "lead": {
           "en": "Ukraine:",
           "hi": "यूक्रेन:"
         },
         "text": {
-          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors; India's own statement does not say so",
-          "hi": "ज़ेलेंस्की का दावा, भारत काला सागर खाद्य गलियारों में मध्यस्थता को तैयार; भारत का अपना बयान ऐसा नहीं कहता"
+          "en": "Zelenskyy says India is ready to mediate Black Sea food corridors, as Abu Dhabi talks open",
+          "hi": "ज़ेलेंस्की का दावा: काला सागर में खाद्य गलियारों के लिए मध्यस्थता को तैयार भारत, अबू धाबी वार्ता शुरू"
         }
       },
       {
-        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
         "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
+          "en": "SIR:",
+          "hi": "एसआईआर:"
         },
         "text": {
-          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
-          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
+          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
+          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
         }
       }
     ]
@@ -190,18 +190,18 @@
       "india-a-nz-a-lincoln-third-test-draw-series-level",
       "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-      "zelenskyy-india-mediate-black-sea-food-corridors-claim"
+      "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
     ],
     "also": [
-      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
-      "delhi-air-monitors-that-go-blank-on-the-worst-night"
+      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
     ]
   },
   "startHere": [
+    "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+    "extradition-explained-hasina-india-bangladesh-treaty",
     "black-sea-food-corridors-explained-grain-deal-india-mediation",
-    "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
-    "womens-reservation-33-per-cent-when-will-it-start-explained",
-    "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16"
+    "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
   ],
   "trackers": [
     {
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
+      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
       "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
-      "zelenskyy-india-mediate-black-sea-food-corridors-claim",
-      "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim"
+      "zelenskyy-india-mediate-black-sea-food-corridors-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+    "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
     "digital-arrest-victims-should-be-repaid-by-the-bank-first",
     "delhi-air-monitors-that-go-blank-on-the-worst-night",
-    "megamalai-ruling-forest-rights-line-must-be-honest",
-    "hosur-collapse-scaffolding-design-must-be-certified-before-concrete-is-poured",
-    "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not"
+    "megamalai-ruling-forest-rights-line-must-be-honest"
   ],
   "sections": [
     {
@@ -425,8 +425,8 @@
       "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
       "list": [
         "hasina-passport-request-dhaka-refuses-extradition-india",
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "modi-zelenskyy-phone-call-india-peace-efforts"
       ]
     },
     {
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "at": "2026-11-11T08:46:24+05:30",
+      "at": "2026-11-11T08:53:28+05:30",
       "ids": [
         "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
@@ -640,8 +640,8 @@
         "india-a-nz-a-lincoln-third-test-draw-series-level",
         "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora",
-        "zelenskyy-india-mediate-black-sea-food-corridors-claim",
-        "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
+        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi",
+        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
       ]
     }
   ],

@@ -1,0 +1,42 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-11T06:36:15+05:30",
+ "end": "2026-11-11T08:55:53+05:30",
+ "summary": "5 long-form pieces: digital arrest and Hasina extradition explainers, Gidipabali and retired-officials poll-code editorials, Amit Shah 3 crore infiltrators fact check (Misleading)",
+ "new": [
+  "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
+  "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+  "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+  "extradition-explained-hasina-india-bangladesh-treaty",
+  "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+   "why": "Main picture is a plain file shot of the Election Commission office building, with a 2016 voter-awareness mural across its lower third. The hero brief asked for Chief Election Commissioner Gyanesh Kumar, and the site already carries his photo on the EC news card beside the lead. The actor in the headline is the Commission, which he heads.",
+   "done": "Main picture replaced with Chief Election Commissioner Gyanesh Kumar speaking at a lectern (finder l11m2 g1-2, CC0, not used in 7 days); the EC building photo is gone."
+  },
+  {
+   "id": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+   "why": "Main picture is the Supreme Court building. The person who spoke and acted was Chief Justice Surya Kant: his bench issued the order and he asked why banks do not step in. The hero brief named him. The same building also appears in the Explained strip.",
+   "done": "No usable photo of CJI Surya Kant exists: the library portrait and finder l11m2 g2-0 were used on November 5 (7-day rule), g2-1 is 606 px, quick_photo 0. The main picture stays the Supreme Court complex, the institution whose order the explainer explains (RUNBOOK-LONGFORM section 2: explainers show the place, institution or person the piece is about); Kapil Sibal in-story photo kept."
+  },
+  {
+   "id": "extradition-explained-hasina-india-bangladesh-treaty",
+   "why": "In-story photo 2 is badly cropped. The 'SOUTH BLOCK' sign is cut off at the top, and most of the frame is paving and a hedge. The building itself is not shown, so the caption ('South Block, New Delhi, home of the Ministry of External Affairs') does not match the picture.",
+   "done": "South Block in-story photo deleted from both language files (the second candidate cropped to the water channel as well); the explainer keeps its compare block and main Hasina photo."
+  },
+  {
+   "id": "homepage",
+   "why": "Three problems. (1) Rule 11: the lead (Ganjam landslide search called off) has the editorial on the same subject ('Gidipabali's six missing deserve a death certificate...') directly under it as the first related card, so the same subject sits twice side by side. Take the editorial out of relatedBelow and put a story on a different subject there. (2) Rules 1 and 13: the lead picture is a 2009 Odisha flood rescue file photo, used on a headline about a landslide search and Naveen Patnaik's letter. A flood is a different kind of event from the landslide, and the person who acted (Patnaik) is not shown, although the hero brief asked for a Patnaik and Majhi two-panel. Use Naveen Patnaik (or the Patnaik and Majhi two-panel) as the lead picture. (3) Rule 9: on desktop, the left lead column ends after the Punjab and PMK cards, leaving about 150px of empty white space while the middle column runs on. Add one more related card under the lead, or balance the columns.",
+   "done": "(1) and (2): main's 06:00 hourly replaced the Ganjam lead before this run published, so the Gidipabali editorial no longer sits under it; the Ganjam story's picture was also switched to a Naveen Patnaik library portrait. (3): the homepage was rebuilt by refresh_home on the merged main with a new lead and related cards; check_layout passes and the run checked a desktop screenshot."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 06:40 as well: abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+ ],
+ "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one"
+}
