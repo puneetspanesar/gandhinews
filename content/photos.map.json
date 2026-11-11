@@ -45861,17 +45861,47 @@
   "nophoto": "no free photo of a train derailment in Assam or the Northeast; library, quick_photo, finder h1110 and h1110b (only Mumbai 2013 and Coromandel 2023 scenes, other regions)"
  },
  "india-cop31-agenda-climate-finance-work-programme-eu-objects": {
-  "id": "o-india-cop31-agenda-climate-finance-work-programme-eu-objects",
-  "src": "/photos/o-india-cop31-agenda-climate-finance-work-programme-eu-objects-1280.jpg",
-  "src800": "/photos/o-india-cop31-agenda-climate-finance-work-programme-eu-objects-640.jpg",
+  "id": "i-india-cop31-agenda-climate-finance-work-programme-eu-objects",
+  "src": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-en-3x2-640.jpg",
   "width": 1280,
-  "height": 876,
-  "srcWidth": 750,
-  "credit": "Photo: PIB / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Bhupender Yadav (file photo)",
-  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Finance work programme gets its own agenda item",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वित्त कार्य कार्यक्रम को मिला अलग एजेंडा मद",
+  "page": null,
+  "ihash": "10ca683dc305",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-en-t-1280.jpg",
+    "src800": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-hi-t-1280.jpg",
+    "src800": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-en-1280.jpg",
+    "src800": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-hi-1280.jpg",
+    "src800": "/photos/i-india-cop31-agenda-climate-finance-work-programme-eu-objects-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Narendra Bhooshan; Bhupender Yadav library portrait shows a World Elephant Day backdrop; library, quick_photo, finder h1112"
  },
  "tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so": {
   "id": "i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so",
@@ -45885,7 +45915,7 @@
   "alt": "Gandhi News graphic: Tripled adaptation money still falls short",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तीन गुना होकर भी अनुकूलन कोष कम",
   "page": null,
-  "ihash": "63678b18619d",
+  "ihash": "ffb1857a19bd",
   "byLang": {
    "hi": {
     "src": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-3x2-1280.jpg",
@@ -45914,7 +45944,7 @@
     "src800": "/photos/i-tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so-hi-640.jpg"
    }
   },
-  "nophoto": "no free unused photo of Bhupender Yadav or COP31 finance; library, quick_photo"
+  "nophoto": "no free photo of Bhupender Yadav outside the 7-day rule; library, quick_photo, finder h1112"
  },
  "lavrov-india-oil-trading-partner-no-right-to-advise-video-claim": {
   "id": "o-lavrov-india-oil-trading-partner-no-right-to-advise-video-claim",

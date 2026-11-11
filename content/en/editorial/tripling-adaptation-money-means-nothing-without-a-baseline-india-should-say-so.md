@@ -26,7 +26,7 @@ infographic:
   dek: "A UN report puts the gap at $185 billion to $220 billion a year"
   motif: globe
   stats:
-    - {icon: currency-inr, value: "$305 bn", label: "estimated yearly adaptation need of developing countries"}
+    - {icon: currency-dollar, value: "$305 bn", label: "estimated yearly adaptation need of developing countries"}
     - {icon: chart-line, value: "$85-120 bn", label: "yearly flow if the tripling goal is met"}
   compare:
     left: {title: "Belém pledge", value: "Triple", text: "By 2035, no baseline and no payers named"}
@@ -87,7 +87,7 @@ That is the right argument, and the work programme is the right vehicle. It shou
 - **A yearly reporting schedule**, so that progress towards tripling is visible each November and not discovered in 2035.
 - **A separation of grants from loans** in every figure, since a loan that must be repaid is not the "largely public and concessional" money India has asked for.
 
-The counter-argument deserves a hearing. Developed-country budgets are tight, the United States is staying out of the negotiations and some donors have cut climate aid. A rigid baseline may push some to promise less. That is a fair worry, but it is an argument for honest figures, not for vague ones. A smaller number that is real helps a coastal district more than a larger one that is not.
+The counter-argument deserves a hearing. Developed-country budgets are tight and some donors have cut climate aid. A rigid baseline may push some to promise less. That is a fair worry, but it is an argument for honest figures, not for vague ones. A smaller number that is real helps a coastal district more than a larger one that is not.
 
 ## What to watch
 

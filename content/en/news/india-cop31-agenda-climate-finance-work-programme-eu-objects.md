@@ -67,13 +67,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB and UNFCCC pages gave no agenda outcome (PIB fetch not permitted this run; unfccc.int/cop31 read, no outcome listed). Agenda outcome, EU and India interventions rest on Down To Earth (Nov 10); India's opening statement by Narendra Bhooshan on Nov 10 rests on Down To Earth and ETV Bharat (two agree). Hoekstra 'dead in the water' and EU one-third of $136.7 bn from Business Standard (single source, stated as said by the EU)."
+    - "PIB and UNFCCC pages gave no agenda outcome (PIB fetch not permitted this run; unfccc.int/cop31 read, no outcome listed). Agenda outcome, EU and India interventions rest on Down To Earth (Nov 10); India's opening statement by Narendra Bhooshan on Nov 10 rests on Down To Earth alone (ETV Bharat does not carry it; delivery date not given, the government statement is dated Nov 10). Hoekstra 'dead in the water' and EU one-third of $136.7 bn from Business Standard (single source, stated as said by the EU)."
     - "Leaders' summit attendance is from a preview published 10:38 am IST Nov 11; no India speech at the summit was found, so none is claimed. Modi not attending per Business Standard."
 ---
 
 India used its opening statement at the COP31 climate conference in Antalya to tell developed countries that **they must fulfil their climate finance obligations** under the Paris Agreement, a day after negotiators settled a bruising agenda fight in which a stand-alone Climate Finance Work Programme survived but two other African and developing-country demands did not.
 
-Narendra Bhooshan, Secretary in the Union Environment Ministry, delivered India's statement on Tuesday, November 10. He pointed to **Article 9.1 of the Paris Agreement**, which obliges developed countries to provide financial resources to developing ones. Climate finance, India said, is "central to catalysing climate action in developing countries", and equity "has become particularly urgent" given the growing risk of crossing 1.5°C of warming. India welcomed the Turkish presidency's idea of a "COP of Implementation" and aligned itself with the G77 and China, the Like-Minded Developing Countries and the BASIC group.
+Narendra Bhooshan, Secretary in the Union Environment Ministry, delivered India's statement, which the government released on November 10. He pointed to **Article 9.1 of the Paris Agreement**, which obliges developed countries to provide financial resources to developing ones. Public finance, India said, remained central to supporting climate action in developing nations, and equity "has become particularly urgent" given the growing risk of crossing 1.5°C of warming. India welcomed the Turkish presidency's idea of a "COP of Implementation" and aligned itself with the G77 and China, the Like-Minded Developing Countries and the BASIC group.
 
 ## How the agenda was settled
 
@@ -91,7 +91,7 @@ India disagreed. It maintained that COP30 had agreed to a standalone item, and i
 
 Before the conference, EU Climate Commissioner Wopke Hoekstra called any new climate finance demands at COP31 "dead in the water". An EU official, citing OECD data, said the bloc supplied a third of the $136.7 billion in public climate finance given to developing countries last year, above the $100 billion a year target set in 2009.
 
-Greenpeace's delegation head, Jasper Inventor, called the work programme's place on the agenda "a good first step" but said it guarantees no agreement on how much money there will be, where it comes from or how it is shared. Avantika Goswami of the Centre for Science and Environment said: "We have to make sure that the pledges committed, despite being meagre, deliver real change."
+Avantika Goswami of the Centre for Science and Environment said the work programme should provide a space within the COP political process to scrutinise the quality and predictability of climate finance.
 
 ## Why the numbers matter
 

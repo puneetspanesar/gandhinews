@@ -41,3 +41,8 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Markets: Sensex 82,212 and Nifty 25,324 at about 10 am (Business Today); Brent and the rest kept from the 09:13 read.
 - NEXT RUN, FIRST: Abu Dhabi talks day two outcome (new id, can lead); UPSC Mains result and DAF-II window from the upsc.gov.in notice; Rawalpindi day three; Digaru derailment cause or inquiry (update); Delhi CPCB AQI; markets close story if the 1%+ rally holds.
 
+## November 11, 2026, 12:45 pm (from the 12:00 run, NOT PUBLISHED)
+- Written, fixed after the editor check, and saved on branch wip/hourly-12 (not on main): ladakh-eight-hill-councils-poll-december-4-results-december-8 (LEAD, Leh file photo), india-cop31-agenda-climate-finance-work-programme-eu-objects (infographic --nophoto), tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so (editorial, infographic), lavrov-india-oil-trading-partner-no-right-to-advise-video-claim (fact check, Lavrov photo). Story fixes not re-checked by a second editor.
+- Not published: gate.sh failed on check_fresh (markets band older than 2 hours). Latest readable figures were 10:38 am (Sensex 82,310.89, +1.48%; Nifty 25,363.25, +1.27%); BSE, NSE, Business Standard live blog, Google Finance and Investing refused or errored. The editor's homepage FAIL (Abu Dhabi three slots, Swachh preview twice, AQI and UPSC missing, desktop gap) was only partly fixed (two cards dropped); no second editor check.
+- Dropped by the run: sensex-nifty-post-diwali-rally-eight-month-high (9:30 am figures stale, no primary source).
+- NEXT RUN, FIRST: merge wip/hourly-12 through the gate with current markets figures; Abu Dhabi day two; Delhi AQI; UPSC Mains.

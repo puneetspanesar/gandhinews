@@ -31,13 +31,13 @@ infographic:
     - {title: "Original, October 31", text: "Lavrov says Zelenskyy must come to Moscow to meet Putin"}
     - {title: "Post, November 2", text: "Same footage, audio says India is only an oil partner"}
     - {title: "Denial, November 3", text: "Russian Embassy in India calls it an AI fake"}
-  source: "Original M World and DW uploads of October 31, 2026; Russian Embassy in India post, November 3, 2026"
+  source: "Original M World upload of October 31, 2026; Russian Embassy in India post, November 3, 2026"
 related: [lavrov-zelenskyy-fears-peace-deal-trump-pressure, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one]
 seo:
   description: "Fact check: the viral video of Lavrov saying India is only an oil-trading partner is an AI-generated fake made from an October 31 clip about Zelenskyy and Putin."
 sources:
   - title: "Original Lavrov remarks on a Putin-Zelenskyy meeting, video uploaded October 31, 2026"
-    publisher: "DW News and M World (YouTube)"
+    publisher: "M World (YouTube)"
     date: 2026-10-31
     url: "https://www.dw.com/en/top-stories/s-9097"
     primary: true
@@ -48,7 +48,7 @@ sources:
     primary: true
   - title: "Russian foreign minister Sergey Lavrov dismissed India's diplomatic standing? No, viral video is a deepfake"
     publisher: "Alt News"
-    date: 2026-11-05
+    date: 2026-11-06
     url: "https://www.altnews.in/russian-foreign-minister-sergey-lavrov-dismissed-indias-diplomatic-standing-no-viral-video-is-a-deepfake/"
     primary: false
 verification:
@@ -73,7 +73,7 @@ From November 2, 2026, a video carrying an M World logo was shared on X with the
 
 ### 1. The original video says something else
 
-The source clip was uploaded on October 31, 2026, by M World and appeared the same day in a DW News video. In it, Lavrov rejects Ukrainian claims that Putin refused to meet Zelenskyy. He says Zelenskyy must travel to Moscow if he wants a direct meeting. The subject is the Russia-Ukraine war. **India is not mentioned.** This matches the context of our own report on Lavrov's remarks about Zelenskyy and a possible peace deal.
+The source clip was uploaded on October 31, 2026, by M World. In it, Lavrov rejects Ukrainian claims that Putin refused to meet Zelenskyy. He says Zelenskyy must travel to Moscow if he wants a direct meeting. The subject is the Russia-Ukraine war. **India is not mentioned.** This matches the context of our own report on Lavrov's remarks about Zelenskyy and a possible peace deal.
 
 ### 2. The viral version matches the original frame for frame
 
@@ -84,7 +84,7 @@ Keyframes from the viral clip, put through a reverse image search, lead to the O
 The Embassy of Russia in India posted on X on November 3 that the clip was one of "silly AI fakes". The Ministry of External Affairs' fact-check handle is also reported to have flagged the video as fake on the same day. We could not open either post ourselves; they are listed in our sources.
 
 ```timeline
-{"title":"How the clip travelled","items":[{"date":"Oct 31, 2026","text":"Original Lavrov remarks on a Putin-Zelenskyy meeting uploaded by M World and carried by DW"},{"date":"Nov 2, 2026","text":"Earliest dated X post of the fake audio version"},{"date":"Nov 3, 2026","text":"Russian Embassy in India calls it an AI fake; MEA FactCheck flags it"}]}
+{"title":"How the clip travelled","items":[{"date":"Oct 31, 2026","text":"Original Lavrov remarks on a Putin-Zelenskyy meeting uploaded by M World"},{"date":"Nov 2, 2026","text":"Earliest dated X post of the fake audio version"},{"date":"Nov 3, 2026","text":"Russian Embassy in India calls it an AI fake; MEA FactCheck flags it"}]}
 ```
 
 ## Why this claim spread

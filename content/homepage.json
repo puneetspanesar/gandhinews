@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+    "id": "ladakh-eight-hill-councils-poll-december-4-results-december-8",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "States / Ladakh",
+        "hi": "राज्य / लद्दाख"
       },
       "value": {
-        "en": "Abu Dhabi talks: 4 hours, day two today",
-        "hi": "अबू धाबी वार्ता: 4 घंटे, आज दूसरा दिन"
+        "en": "Polls on December 4",
+        "hi": "4 दिसंबर को मतदान"
       },
       "text": {
         "en": "",
@@ -18,17 +18,28 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
+      "india-cop31-agenda-climate-finance-work-programme-eu-objects"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Ladakh",
+        "hi": "लद्दाख"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-cop31-agenda-climate-finance-work-programme-eu-objects",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "India presses rich nations on climate finance at COP31 after a standalone work programme survives the agenda fight",
+          "hi": "कॉप31 में भारत ने अमीर देशों से मांगी जलवायु वित्त की जवाबदेही, अलग वित्त कार्य कार्यक्रम एजेंडे में बचा"
+        }
+      },
       {
         "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "lead": {
@@ -41,80 +52,69 @@
         }
       },
       {
-        "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Rawalpindi",
-          "hi": "रावलपिंडी में पाकिस्तान ने 434 पर पारी घोषित की, श्रीलंका 114/3 पर, अब भी 320 रन पीछे"
+          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
+          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
         }
       },
       {
-        "link": "pmk-functionary-shot-dead-vellore-gudiyatham",
+        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
         },
         "text": {
-          "en": "PMK functionary shot dead near Gudiyatham in Vellore, accused shot in the leg by police",
-          "hi": "वेल्लोर के गुडियाट्टम के पास पीएमके पदाधिकारी की गोली मारकर हत्या, आरोपी के पैर में पुलिस की गोली"
+          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
+          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
         }
       },
       {
-        "link": "hasina-passport-request-dhaka-refuses-extradition-india",
+        "link": "eci-extends-poll-code-curbs-retired-officials-five-states",
         "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
+          "en": "Election Commission:",
+          "hi": "चुनाव आयोग:"
         },
         "text": {
-          "en": "Hasina seeks a new passport to go home in December; Dhaka says no and tells her to be extradited",
-          "hi": "दिसंबर में लौटने के लिए हसीना ने मांगा नया पासपोर्ट; ढाका बोला, नहीं, पहले प्रत्यर्पण"
+          "en": "EC extends poll code curbs to retired officials re-engaged by five poll-bound states",
+          "hi": "चुनाव आयोग ने पांच चुनावी राज्यों में फिर से नियुक्त सेवानिवृत्त अधिकारियों पर भी लागू की आचार संहिता"
         }
       },
       {
-        "link": "india-a-nz-a-lincoln-third-test-draw-series-level",
+        "link": "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "Rain ends third unofficial Test at Lincoln, India A series finishes level after three draws",
-          "hi": "लिंकन में बारिश ने तीसरा अनौपचारिक टेस्ट खत्म किया, तीन ड्रॉ के साथ भारत ए सीरीज़ बराबर"
+          "en": "Kharge asks why India is becoming a 'Vishwaguru' in air pollution, seeks 'Hawa Ka Hisaab' from Modi",
+          "hi": "खरगे का सवाल: वायु प्रदूषण में 'विश्वगुरु' क्यों बन रहे हैं, मोदी से मांगा 'हवा का हिसाब'"
         }
       },
       {
-        "link": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
+        "link": "sc-fra-commercial-cultivation-megamalai-silk-cotton",
         "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Supreme Court asks WhatsApp and other platforms to set out steps against digital arrest scams",
-          "hi": "डिजिटल अरेस्ट ठगी पर सुप्रीम कोर्ट ने वॉट्सऐप और अन्य प्लेटफॉर्म से मांगे उपाय"
+          "en": "Supreme Court: planting a commercial crop in a forest is not a right under the Forest Rights Act",
+          "hi": "सुप्रीम कोर्ट: जंगल में व्यावसायिक फसल उगाना वन अधिकार कानून के तहत अधिकार नहीं"
         }
       },
       {
-        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-        "lead": {
-          "en": "SIR:",
-          "hi": "एसआईआर:"
-        },
-        "text": {
-          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
-          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
-        }
-      },
-      {
-        "link": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "link": "tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "The poll code now binds retired officials. The Election Commission should publish the letter and name the penalty",
-          "hi": "आचार संहिता अब रिटायर अधिकारियों पर भी लागू। चुनाव आयोग पत्र सार्वजनिक करे और सज़ा बताए"
+          "en": "Tripling adaptation money means nothing without a baseline. India should demand one at COP31",
+          "hi": "अनुकूलन कोष तीन गुना करने का वादा बिना आधार वर्ष के बेमानी है। भारत को COP31 में आधार मांगना चाहिए"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+      "id": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
       "also": []
     },
     "list": [
-      "pmk-functionary-shot-dead-vellore-gudiyatham",
-      "hasina-passport-request-dhaka-refuses-extradition-india",
-      "india-a-nz-a-lincoln-third-test-draw-series-level",
-      "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
+      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+      "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+      "eci-extends-poll-code-curbs-retired-officials-five-states",
+      "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+      "sc-fra-commercial-cultivation-megamalai-silk-cotton"
     ],
     "also": [
-      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-      "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
+      "tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so",
+      "lavrov-india-oil-trading-partner-no-right-to-advise-video-claim"
     ]
   },
   "startHere": [
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
+      "lavrov-india-oil-trading-partner-no-right-to-advise-video-claim",
       "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
-      "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
-      "zelenskyy-india-mediate-black-sea-food-corridors-claim"
+      "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so",
     "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
     "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
     "digital-arrest-victims-should-be-repaid-by-the-bank-first",
-    "delhi-air-monitors-that-go-blank-on-the-worst-night",
-    "megamalai-ruling-forest-rights-line-must-be-honest"
+    "delhi-air-monitors-that-go-blank-on-the-worst-night"
   ],
   "sections": [
     {
@@ -376,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "india-eu-strategic-partnership-review-fta-signing-brussels-december",
+      "lead": "sensex-nifty-close-november-9-highest-since-february-psu-banks",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +387,18 @@
         ]
       },
       "list": [
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
         "rbi-4-day-repo-50000-crore-liquidity-flip-november-9",
-        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18",
-        "cait-diwali-trade-6-lakh-crore-delhi-1-lakh-crore"
+        "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18"
       ]
     },
     {
       "section": "states",
-      "lead": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+      "lead": "ladakh-eight-hill-councils-poll-december-4-results-december-8",
       "list": [
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
+        "pmk-functionary-shot-dead-vellore-gudiyatham"
       ]
     },
     {
@@ -406,8 +406,8 @@
       "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
+        "rajnath-singh-reaches-sherathang-diwali-nathu-la"
       ]
     },
     {
@@ -424,18 +424,18 @@
       "section": "world",
       "lead": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
       "list": [
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "hasina-passport-request-dhaka-refuses-extradition-india",
-        "modi-zelenskyy-phone-call-india-peace-efforts",
-        "trump-renewed-iran-strikes-highly-unlikely-38-bridges-oil-falls"
+        "modi-zelenskyy-phone-call-india-peace-efforts"
       ]
     },
     {
       "section": "science",
-      "lead": "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+      "lead": "india-cop31-agenda-climate-finance-work-programme-eu-objects",
       "list": [
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
         "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
-        "nadda-national-cancer-awareness-day-screening-appeal",
-        "who-six-climate-health-actions-1-6-million-lives-cop31"
+        "nadda-national-cancer-awareness-day-screening-appeal"
       ]
     },
     {
@@ -522,21 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-10T22:36:23+05:30",
-      "ids": [
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "assam-cm-evictions-religion-neutral-lahowal-lahorighat"
-      ]
-    },
     {
       "at": "2026-11-10T23:29:08+05:30",
       "ids": [
@@ -639,6 +624,20 @@
         "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
         "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
+      ]
+    },
+    {
+      "at": "2026-11-11T12:35:18+05:30",
+      "ids": [
+        "ladakh-eight-hill-councils-poll-december-4-results-december-8",
+        "india-cop31-agenda-climate-finance-work-programme-eu-objects",
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "tripling-adaptation-money-means-nothing-without-a-baseline-india-should-say-so"
       ]
     }
   ],
