@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+    "id": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "Politics / Election Commission",
+        "hi": "राजनीति / चुनाव आयोग"
       },
       "value": {
-        "en": "Abu Dhabi: big prisoner swap agreed",
-        "hi": "अबू धाबी: बड़ी कैदी अदला-बदली पर सहमति"
+        "en": "Keralam probe into CEC goes on",
+        "hi": "सीईसी के खिलाफ केरलम की जांच जारी"
       },
       "text": {
         "en": "",
@@ -18,103 +18,103 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+      "sangrur-prtc-bus-flyover-crash-three-killed"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Election Commission",
+        "hi": "चुनाव आयोग"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+        "link": "sangrur-prtc-bus-flyover-crash-three-killed",
         "lead": {
-          "en": "Election Commission:",
-          "hi": "चुनाव आयोग:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "Keralam Vigilance probe into CEC Gyanesh Kumar goes on, Chennithala says new petitions are coming in",
-          "hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ केरलम की विजिलेंस जांच जारी, चेन्निथला बोले नई याचिकाएं आ रही हैं"
+          "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
+          "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
         }
       },
       {
-        "link": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "lead": {
-          "en": "Assam:",
-          "hi": "असम:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
-          "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
+          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
+          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
         }
       },
       {
-        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "link": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
-          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
+          "en": "Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two",
+          "hi": "ज़ेलेंस्की का दावा: रूसी टीम ने यूक्रेन के कब्ज़े वाले आधे डोनबास पर नियंत्रण जताया, अबू धाबी में दूसरे दिन वार्ता फिर शुरू"
         }
       },
       {
-        "link": "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "link": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Ganjam landslide search called off with six missing, as Naveen Patnaik writes to Majhi",
-          "hi": "गंजाम भूस्खलन में छह लापता रहते तलाश बंद, नवीन पटनायक ने माझी को लिखा पत्र"
+          "en": "Sri Lanka 114 for 3, still 320 behind, as Pakistan declare on 434 in Rawalpindi",
+          "hi": "रावलपिंडी में पाकिस्तान ने 434 पर पारी घोषित की, श्रीलंका 114/3 पर, अब भी 320 रन पीछे"
         }
       },
       {
-        "link": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+        "link": "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "lead": {
-          "en": "Cybercrime:",
-          "hi": "साइबर अपराध:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Digital arrest scams explained: how the fraud works and what the Supreme Court wants banks and WhatsApp to do",
-          "hi": "डिजिटल अरेस्ट ठगी क्या है, कैसे होती है, और सुप्रीम कोर्ट ने बैंकों और व्हाट्सऐप से क्या कहा"
+          "en": "Russia, Ukraine and the US hold four hours of talks in Abu Dhabi, the first since February, with a second day due today",
+          "hi": "अबू धाबी में रूस, यूक्रेन और अमेरिका की चार घंटे की बातचीत, फरवरी के बाद पहली, आज दूसरा दिन"
         }
       },
       {
-        "link": "extradition-explained-hasina-india-bangladesh-treaty",
+        "link": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
         "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
+          "en": "SIR:",
+          "hi": "एसआईआर:"
         },
         "text": {
-          "en": "Extradition explained: can India send Sheikh Hasina back under the 2013 treaty?",
-          "hi": "प्रत्यर्पण क्या है: क्या 2013 की संधि के तहत भारत शेख हसीना को लौटा सकता है?"
+          "en": "Shah's '3 crore infiltrators': the number matches the rolls' 'absent' group, but no record we opened shows those voters are Bangladeshi",
+          "hi": "शाह के '3 करोड़ घुसपैठिए': आंकड़ा मतदाता सूची के 'अनुपस्थित' वर्ग से मेल खाता है, पर हमारे खोले किसी रिकॉर्ड में उन्हें बांग्लादेशी नहीं बताया गया"
         }
       },
       {
-        "link": "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+        "link": "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
         "lead": {
-          "en": "Air pollution:",
-          "hi": "वायु प्रदूषण:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Kharge's 'Hawa Ka Hisaab' figures: the numbers match the published records, but the death counts are model estimates the Centre disputes",
-          "hi": "खड़गे के 'हवा का हिसाब' वाले आंकड़े: प्रकाशित रिकॉर्ड से मेल खाते हैं, पर मौतों की संख्या अनुमान है जिस पर केंद्र सवाल उठाता है"
+          "en": "The poll code now binds retired officials. The Election Commission should publish the letter and name the penalty",
+          "hi": "आचार संहिता अब रिटायर अधिकारियों पर भी लागू। चुनाव आयोग पत्र सार्वजनिक करे और सज़ा बताए"
         }
       },
       {
-        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+        "link": "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
         "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
-          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
+          "en": "Gidipabali's six missing deserve a death certificate, not a wait, and Ganjam deserves the dam log",
+          "hi": "गिदिपाबली के छह लापता लोगों को इंतज़ार नहीं, मृत्यु प्रमाणपत्र मिलना चाहिए, और गंजाम को बांध का रिकॉर्ड"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+      "id": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
       "also": []
     },
     "list": [
-      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-      "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-      "extradition-explained-hasina-india-bangladesh-treaty",
-      "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
+      "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+      "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+      "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
     ],
     "also": [
-      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
-      "delhi-air-monitors-that-go-blank-on-the-worst-night"
+      "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log",
+      "digital-arrest-victims-should-be-repaid-by-the-bank-first"
     ]
   },
   "startHere": [
@@ -369,8 +369,8 @@
       },
       "list": [
         "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case",
-        "rahul-gandhi-renews-debate-challenge-modi-dimagi-naxal-crpf"
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
       ],
       "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
     },
@@ -394,11 +394,11 @@
     },
     {
       "section": "states",
-      "lead": "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+      "lead": "sangrur-prtc-bus-flyover-crash-three-killed",
       "list": [
+        "kolkata-sairang-express-derails-digaru-assam-no-injuries",
         "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "delhi-diwali-lpg-aid-142-crore-15-lakh-families-rekha-gupta-talkatora"
+        "pmk-functionary-shot-dead-vellore-gudiyatham"
       ]
     },
     {
@@ -424,9 +424,9 @@
       "section": "world",
       "lead": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
       "list": [
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "hasina-passport-request-dhaka-refuses-extradition-india",
-        "zelenskyy-india-black-sea-food-corridors-mediate-abu-dhabi"
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
       ]
     },
     {
@@ -440,12 +440,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-a-nz-a-lincoln-third-test-draw-series-level",
+      "lead": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
       "list": [
+        "india-a-nz-a-lincoln-third-test-draw-series-level",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
         "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
-        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-        "niveditha-nair-bronze-25m-standard-pistol-team-silver-doha"
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
       ]
     }
   ],
@@ -523,20 +523,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T09:16:43+05:30",
-      "ids": [
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
-        "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro"
-      ]
-    },
     {
       "at": "2026-11-11T10:32:59+05:30",
       "ids": [
@@ -638,6 +624,20 @@
         "extradition-explained-hasina-india-bangladesh-treaty",
         "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
         "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
+      ]
+    },
+    {
+      "at": "2026-11-11T20:42:46+05:30",
+      "ids": [
+        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
+        "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
       ]
     }
   ],

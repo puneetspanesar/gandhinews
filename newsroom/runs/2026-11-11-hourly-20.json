@@ -1,0 +1,34 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-11T20:05:34+05:30",
+ "end": "2026-11-11T20:45:19+05:30",
+ "summary": "Sangrur bus crash, seafarers story held for picture, homepage refreshed, Nov 11 flows",
+ "new": [
+  "sangrur-prtc-bus-flyover-crash-three-killed"
+ ],
+ "held": [
+  "six-indian-seafarers-safe-fujairah-energy-tanker-persian-gulf"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "six-indian-seafarers-safe-fujairah-energy-tanker-persian-gulf",
+   "kind": "picture",
+   "why": "Main picture is a tight, grinning close-up of Sarbananda Sonowal with the top of his head cut off by the frame; a broadly smiling minister is the wrong tone for an attack on a tanker in a story that also counts 15 dead Indian seafarers. (Text also says 'Directorate General of Shipping (DGMA)': the name and the abbreviation do not match.)",
+   "fix": "Use a properly framed, serious photo of Sarbananda Sonowal (whole head in frame, not smiling), e.g. speaking at a podium or a press event; failing that, a labelled file photo of an attacked tanker in the Gulf. Correct the directorate's name so it matches the abbreviation in both English and Hindi."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "india-a-nz-a-lincoln-third-test-draw-series-level",
+   "why": "Main picture is an old file photo of a teenage Yashasvi Jaiswal in a Mumbai junior kit, face behind a helmet grille. It is not India A, not New Zealand, not this series and not recent; it looks like a lazy stand-in.",
+   "done": "Junior Mumbai file photo removed and blocklisted; story back on its infographic (--nophoto), no recent free photo of Jaiswal or Padikkal in India A kit found (finder h1120)."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 18:58 as well: chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+  "led or sat beside the lead at 15:35 as well: chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+  "led at 15:35 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+ ],
+ "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+}

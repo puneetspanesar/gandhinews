@@ -91,11 +91,7 @@ At a briefing the previous week, External Affairs Ministry spokesperson Randhir 
 
 On November 10, a day before Sonowal's post, Jaiswal called for free and safe navigation through the Strait of Hormuz. He said India was in contact with all parties concerned to prevent attacks on civilian shipping and seafarers, including Indian-flagged vessels. India has consistently asked for the conflict, which began after US and Israeli attacks on Iran, to be settled through dialogue and diplomacy.
 
-Earlier, the Directorate General of Shipping (DGMA) circular 47 of 2026 advised Indian seafarers on precautions in view of the heightened security situation in the Gulf, and Indian seafarers were asked not to take Hormuz voyages.
-
-```photo
-{"n":1,"subject":"Strait of Hormuz","caption":"The Strait of Hormuz, the chokepoint at the centre of the attacks on merchant ships since February.","alt":"Ships in the Strait of Hormuz (file photo)"}
-```
+Earlier, the Directorate General of Shipping circular 47 of 2026 advised Indian seafarers on precautions in view of the heightened security situation in the Gulf, and Indian seafarers were asked not to take Hormuz voyages.
 
 ## Why it matters
 

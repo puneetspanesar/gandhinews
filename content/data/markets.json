@@ -377,9 +377,9 @@
   ],
   "sectors_source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html (closing entries, 3:33 to 3:38 pm IST, November 9)",
   "flows": {
-    "date": "2026-11-09",
-    "fii": 7212.22,
-    "dii": -7172.53,
+    "date": "2026-11-11",
+    "fii": 12563.33,
+    "dii": -8434.53,
     "unit": "₹ crore",
     "source": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
   },
@@ -406,7 +406,8 @@
     "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run.",
     "11 Nov 09:25 IST (stall-09): Sensex 82,248 (+1,142, +1.41%) at 9:05 am and Nifty 50 25,337 (+293, +1.17%) at 9:13 am pre-open; rupee opened 93.72 (from Monday close 93.93) at 8:50 am; Brent January futures $91.88 (-0.18%) at 8:25 am; all from the Business Standard live blog read this run. Nifty Bank, Midcap, VIX, gold, silver, yield, movers, sectors and flows keep earlier values (not on the page).",
     "11 Nov 15:00 IST (stall-14): Sensex 81,991.98 and Nifty 50 25,279.80 in early afternoon trade (NewsBytes, published 1:25 pm IST, read this run); change worked out against the Nov 9 closes. Business Standard live blog read this run stops at 10:20 am. Nifty Bank, Midcap, VIX, rates, movers, sectors and flows keep earlier values (no afternoon figure read). Status set to closed after the 3:30 pm close; the values shown are the early-afternoon reading, not the close (no closing figure read yet), and no close was added to history.",
-    "11 Nov 16:20 IST: Sensex 81,879.40 (+772.75) and Nifty 25,255.05 (+210.40) closes and rupee 93.69 from chinimandi close report; Nov 11 appended to history. Other indices, Brent, gold, sectors and flows kept from earlier reads (NSE, BSE blocked)."
+    "11 Nov 16:20 IST: Sensex 81,879.40 (+772.75) and Nifty 25,255.05 (+210.40) closes and rupee 93.69 from chinimandi close report; Nov 11 appended to history. Other indices, Brent, gold, sectors and flows kept from earlier reads (NSE, BSE blocked).",
+    "11 Nov 20:20 IST (hourly 20): Nov 11 provisional cash flows FII +12,563.33 crore, DII -8,434.53 crore from the Tapetide November flows table (updated Nov 11) read this run. Movers and sectors for Nov 11 not found in a dated source read this run; earlier values kept."
   ],
   "holidays": [
     "2026-11-10"

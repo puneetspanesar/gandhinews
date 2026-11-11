@@ -86,10 +86,6 @@ The injured were taken by ambulance to Sangrur Civil Hospital. Doctors there **r
 
 The number of injured has been counted differently through the day, from 18 in early reports to 24 in the police account and 26 in later ones, as passengers were registered at more than one hospital. Names and ages of the dead had not been released when this report was written.
 
-```photo
-{"n":1,"subject":"Rajindra Hospital, Patiala","caption":"Government Rajindra Hospital in Patiala, where 15 of the injured were referred.","alt":"Government Rajindra Hospital, Patiala"}
-```
-
 ## The cause: clear weather, early signs of speed
 
 The crash did not happen in fog. A police officer, Mehar Singh, said the weather was clear and there was no fog at the time. Preliminary information from police and passengers' accounts suggest the bus was **moving at high speed** and the driver lost control. Police have begun a detailed inquiry, and no official finding on the cause has been made. The driver's identity and condition had not been made public.

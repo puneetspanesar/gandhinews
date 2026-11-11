@@ -45269,7 +45269,7 @@
     "src800": "/photos/i-india-a-nz-a-lincoln-third-test-draw-series-level-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Yashasvi Jaiswal or Devdutt Padikkal; library, quick_photo, finder h1018 (candidates unidentifiable)"
+  "nophoto": "no free recent photo of Jaiswal or Padikkal in India A kit; library, finder h1120 (only junior Mumbai photos)"
  },
  "zelenskyy-india-mediate-black-sea-food-corridors-claim": {
   "id": "o-zelenskyy-india-mediate-black-sea-food-corridors-claim",
@@ -45994,12 +45994,68 @@
   "src": "/photos/o-six-indian-seafarers-safe-fujairah-energy-tanker-persian-gulf-1280.jpg",
   "src800": "/photos/o-six-indian-seafarers-safe-fujairah-energy-tanker-persian-gulf-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 700,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "height": 853,
+  "srcWidth": 608,
+  "credit": "Photo: Vice President Office, Government of India / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Sarbananda Sonowal (file photo)",
   "alt_hi": "सर्बानंद सोनोवाल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sarbananda_Sonowal_2023.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_of_Assam_Sarbananda_Sonowal.jpg",
+  "treated": {
+   "src": "/photos/t-six-indian-seafarers-safe-fujairah-energy-tanker-persian-gul-1280.jpg",
+   "src800": "/photos/t-six-indian-seafarers-safe-fujairah-energy-tanker-persian-gul-640.jpg",
+   "cutout": true,
+   "with": [
+    "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
+    "hcltech-q2-profit-rises-21-raises-revenue-guidance",
+    "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout--p1"
+   ],
+   "kind": "photo",
+   "subj": "c3890101236367f7",
+   "credit": "Photos: Vice President Office, Government of India / Wikimedia Commons; US Navy / Wikimedia Commons; Itsbilluid / Wikimedia Commons; 4300streetcar / Wikimedia Commons"
+  }
+ },
+ "sangrur-prtc-bus-flyover-crash-three-killed": {
+  "id": "i-sangrur-prtc-bus-flyover-crash-three-killed",
+  "src": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-en-3x2-1280.jpg",
+  "src800": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: PRTC bus hits flyover wall in Sangrur",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: संगरूर में पीआरटीसी बस फ्लाईओवर से टकराई",
+  "page": null,
+  "ihash": "988d218a0bcf",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-en-t-1280.jpg",
+    "src800": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-hi-t-1280.jpg",
+    "src800": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-en-1280.jpg",
+    "src800": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-hi-1280.jpg",
+    "src800": "/photos/i-sangrur-prtc-bus-flyover-crash-three-killed-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Sangrur crash or a Punjab bus accident; quick_photo PRTC bus, Sangrur; finder h1120 (only bus-station shots)"
  }
 }
