@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+    "id": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "World / Middle East",
+        "hi": "दुनिया / पश्चिम एशिया"
       },
       "value": {
-        "en": "Abu Dhabi: big prisoner swap agreed",
-        "hi": "अबू धाबी: बड़ी कैदी अदला-बदली पर सहमति"
+        "en": "Rubio: no need for major combat on Iran",
+        "hi": "रुबियो: ईरान पर बड़े हमले की जरूरत नहीं"
       },
       "text": {
         "en": "",
@@ -18,50 +18,17 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "india-saudi-haj-2027-quota-175025-rijiju-jeddah"
+      "sangrur-prtc-bus-flyover-crash-three-killed"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Middle East",
+        "hi": "पश्चिम एशिया"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "lead": {
-          "en": "Haj:",
-          "hi": "हज:"
-        },
-        "text": {
-          "en": "India keeps its Haj quota at 1,75,025 for 2027 after Rijiju signs pact in Jeddah",
-          "hi": "रिजिजू ने जेद्दा में किया समझौता, 2027 के लिए भारत का हज कोटा 1,75,025 पर बरकरार"
-        }
-      },
-      {
-        "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Suryakumar to captain Mumbai and Sooryavanshi, 15, Bihar as the Syed Mushtaq Ali Trophy opens Saturday",
-          "hi": "सूर्यकुमार मुंबई और 15 साल के सूर्यवंशी बिहार के कप्तान, सैयद मुश्ताक अली ट्रॉफी शनिवार से"
-        }
-      },
-      {
-        "link": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-        "lead": {
-          "en": "Books:",
-          "hi": "किताबें:"
-        },
-        "text": {
-          "en": "M John Harrison, 81, wins the Booker Prize for The End of Everything, the oldest winner yet",
-          "hi": "81 साल के एम जॉन हैरिसन को 'द एंड ऑफ एवरीथिंग' के लिए बुकर पुरस्कार, अब तक के सबसे उम्रदराज विजेता"
-        }
-      },
       {
         "link": "sangrur-prtc-bus-flyover-crash-three-killed",
         "lead": {
@@ -71,6 +38,17 @@
         "text": {
           "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
           "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
+        }
+      },
+      {
+        "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Abu Dhabi talks end with a large Russia-Ukraine prisoner swap agreed, but no deal on the war itself",
+          "hi": "अबू धाबी वार्ता खत्म: रूस-यूक्रेन के बीच बड़ी कैदी अदला-बदली पर सहमति, युद्ध पर कोई समझौता नहीं"
         }
       },
       {
@@ -96,17 +74,6 @@
         }
       },
       {
-        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
-          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
-        }
-      },
-      {
         "link": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
         "lead": {
           "en": "Cybercrime:",
@@ -115,6 +82,39 @@
         "text": {
           "en": "Digital arrest scams explained: how the fraud works and what the Supreme Court wants banks and WhatsApp to do",
           "hi": "डिजिटल अरेस्ट ठगी क्या है, कैसे होती है, और सुप्रीम कोर्ट ने बैंकों और व्हाट्सऐप से क्या कहा"
+        }
+      },
+      {
+        "link": "extradition-explained-hasina-india-bangladesh-treaty",
+        "lead": {
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
+        },
+        "text": {
+          "en": "Extradition explained: can India send Sheikh Hasina back under the 2013 treaty?",
+          "hi": "प्रत्यर्पण क्या है: क्या 2013 की संधि के तहत भारत शेख हसीना को लौटा सकता है?"
+        }
+      },
+      {
+        "link": "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+        "lead": {
+          "en": "Air pollution:",
+          "hi": "वायु प्रदूषण:"
+        },
+        "text": {
+          "en": "Kharge's 'Hawa Ka Hisaab' figures: the numbers match the published records, but the death counts are model estimates the Centre disputes",
+          "hi": "खड़गे के 'हवा का हिसाब' वाले आंकड़े: प्रकाशित रिकॉर्ड से मेल खाते हैं, पर मौतों की संख्या अनुमान है जिस पर केंद्र सवाल उठाता है"
+        }
+      },
+      {
+        "link": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+        "lead": {
+          "en": "Law:",
+          "hi": "कानून:"
+        },
+        "text": {
+          "en": "Forest Rights Act explained: who counts as a forest dweller after the Supreme Court's Megamalai ruling",
+          "hi": "वन अधिकार कानून क्या है: मेगामलाई पर सुप्रीम कोर्ट के फैसले के बाद वनवासी कौन माना जाएगा"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+      "id": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
       "also": []
     },
     "list": [
-      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-      "sangrur-prtc-bus-flyover-crash-three-killed",
       "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
       "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
+      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+      "extradition-explained-hasina-india-bangladesh-treaty",
+      "kharge-hawa-ka-hisaab-delhi-air-figures-claim"
     ],
     "also": [
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-      "extradition-explained-hasina-india-bangladesh-treaty"
+      "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+      "delhi-air-monitors-that-go-blank-on-the-worst-night"
     ]
   },
   "startHere": [
@@ -368,8 +368,8 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
         "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
+        "eci-extends-poll-code-curbs-retired-officials-five-states",
         "mamata-banerjee-delhi-police-notice-witness-2013-parliament-street-case"
       ],
       "lead": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
@@ -403,10 +403,10 @@
     },
     {
       "section": "policy",
-      "lead": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+      "lead": "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
       "list": [
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+        "swachh-survekshan-2025-26-awards-president-murmu-november-11",
         "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
@@ -422,10 +422,10 @@
   "desks": [
     {
       "section": "world",
-      "lead": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+      "lead": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
       "list": [
-        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
         "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
+        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
         "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
       ]
     },
@@ -440,16 +440,28 @@
     },
     {
       "section": "sports",
-      "lead": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+      "lead": "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
       "list": [
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
         "india-a-nz-a-lincoln-third-test-draw-series-level",
         "hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain",
-        "india-women-squads-south-africa-tour-mandhana-captain-all-formats"
+        "india-women-squads-south-africa-tour-mandhana-captain-all-formats",
+        "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match"
       ]
     }
   ],
   "weekAhead": [
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
+        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
+      },
+      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
+    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -473,18 +485,6 @@
         "hi": "राष्ट्रपति मुर्मु नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी"
       },
       "link": "swachh-survekshan-2025-26-awards-president-murmu-november-11"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "US, Russia and Ukraine talks in Abu Dhabi, under way since November 10, enter day two",
-        "hi": "अबू धाबी में 10 नवंबर से चल रही अमेरिका, रूस और यूक्रेन की बातचीत का दूसरा दिन"
-      },
-      "link": "trump-xi-putin-apec-shenzhen-meeting-china-in-contact"
     },
     {
       "icon": "calendar-blank",
@@ -627,17 +627,17 @@
       ]
     },
     {
-      "at": "2026-11-11T21:46:11+05:30",
+      "at": "2026-11-11T21:50:06+05:30",
       "ids": [
-        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
-        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "sangrur-prtc-bus-flyover-crash-three-killed",
+        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
-        "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+        "extradition-explained-hasina-india-bangladesh-treaty",
+        "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+        "forest-rights-act-explained-megamalai-silk-cotton-supreme-court"
       ]
     }
   ],
