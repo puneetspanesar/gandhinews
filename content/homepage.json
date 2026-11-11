@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "tn-mha-governor-report-law-and-order-deepavali-murders",
+    "id": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
     "overlay": {
       "kicker": {
-        "en": "States / Tamil Nadu",
-        "hi": "राज्य / तमिलनाडु"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Centre seeks Governor's law and order report",
-        "hi": "केंद्र ने मांगी राज्यपाल से रिपोर्ट"
+        "en": "Abu Dhabi: big prisoner swap agreed",
+        "hi": "अबू धाबी: बड़ी कैदी अदला-बदली पर सहमति"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Tamil Nadu",
-        "hi": "तमिलनाडु"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
@@ -74,17 +74,6 @@
         }
       },
       {
-        "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Abu Dhabi talks end with a large Russia-Ukraine prisoner swap agreed, but no deal on the war itself",
-          "hi": "अबू धाबी वार्ता खत्म: रूस-यूक्रेन के बीच बड़ी कैदी अदला-बदली पर सहमति, युद्ध पर कोई समझौता नहीं"
-        }
-      },
-      {
         "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "lead": {
           "en": "Health:",
@@ -104,6 +93,17 @@
         "text": {
           "en": "Kolkata-Sairang Express derails at Digaru near Guwahati; railway says all passengers safe",
           "hi": "गुवाहाटी के पास डिगारू में कोलकाता-सैरांग एक्सप्रेस पटरी से उतरी, रेलवे का दावा सभी यात्री सुरक्षित"
+        }
+      },
+      {
+        "link": "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Rubio tells G7 sanctions and blockade make major combat on Iran unnecessary, a day after Trump called the war 'effectively over'",
+          "hi": "रुबियो ने जी7 से कहा, प्रतिबंध और नाकेबंदी के बाद ईरान पर बड़े हमले की जरूरत नहीं, एक दिन पहले ट्रंप ने युद्ध को 'लगभग खत्म' कहा था"
         }
       },
       {
@@ -188,9 +188,9 @@
     "list": [
       "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
       "sangrur-prtc-bus-flyover-crash-three-killed",
-      "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
       "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
+      "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+      "rubio-g7-paris-no-need-major-combat-iran-economic-campaign"
     ],
     "also": [
       "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
@@ -394,11 +394,11 @@
     },
     {
       "section": "states",
-      "lead": "tn-mha-governor-report-law-and-order-deepavali-murders",
+      "lead": "sangrur-prtc-bus-flyover-crash-three-killed",
       "list": [
-        "sangrur-prtc-bus-flyover-crash-three-killed",
         "kolkata-sairang-express-derails-digaru-assam-no-injuries",
-        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi"
+        "ganjam-gidipabali-search-called-off-naveen-patnaik-letter-majhi",
+        "pmk-functionary-shot-dead-vellore-gudiyatham"
       ]
     },
     {
@@ -407,7 +407,7 @@
       "list": [
         "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
         "sc-fra-commercial-cultivation-megamalai-silk-cotton",
-        "swachh-survekshan-2025-26-awards-president-murmu-november-11"
+        "rajnath-singh-sherathang-soldiers-brightest-lights-diwali"
       ]
     },
     {
@@ -627,16 +627,16 @@
       ]
     },
     {
-      "at": "2026-11-11T21:40:26+05:30",
+      "at": "2026-11-11T21:46:11+05:30",
       "ids": [
-        "tn-mha-governor-report-law-and-order-deepavali-murders",
+        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
         "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
         "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
         "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "sangrur-prtc-bus-flyover-crash-three-killed",
-        "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "kolkata-sairang-express-derails-digaru-assam-no-injuries",
+        "rubio-g7-paris-no-need-major-combat-iran-economic-campaign",
         "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
       ]
     }

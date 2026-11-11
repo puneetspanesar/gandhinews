@@ -1,0 +1,40 @@
+{
+ "run": "hourly-21",
+ "start": "2026-11-11T21:03:28+05:30",
+ "end": "2026-11-11T21:48:58+05:30",
+ "summary": "Extra 21:00 run: Haj pact, Booker, SMAT squads; TN story held",
+ "new": [
+  "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+  "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+  "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14"
+ ],
+ "held": [
+  "tn-mha-governor-report-law-and-order-deepavali-murders"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "tn-mha-governor-report-law-and-order-deepavali-murders",
+   "kind": "picture",
+   "why": "Main picture is a smiling courtesy-call photo of Governor Arlekar handing a bouquet to Vice-President Radhakrishnan (November 6, before the killings). On a story about Deepavali murders, including a police officer, this breaks the tone rule, and the Vice-President has nothing to do with the story. The hero brief asked for Amit Shah and Vijay. Also, the Hindi alt spells the name 'आर्लेकर' while the Hindi title and body use 'अर्लेकर'.",
+   "fix": "Use a serious, unsmiling solo photo of Governor R. V. Arlekar, or of Union Home Minister Amit Shah or Chief Minister Vijay. Failing those, use a police or crime-scene photo from the Tamil Nadu killings (for example Theni or Vyasarpadi). No bouquet, no smiles, no Vice-President. Make the Hindi alt read 'अर्लेकर'."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+   "why": "The Hindi twin spells the Saudi minister two ways: 'अल-रबिया' in the alt and 'अल-रबीअह' in the body.",
+   "done": "Hindi alt spelling made consistent with the body"
+  },
+  {
+   "id": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+   "why": "The Hindi twin spells Mary Beard two ways: 'बियर्ड' in the in-story photo alt and 'बीयर्ड' in the caption and body.",
+   "done": "Hindi alt spelling made consistent with the body"
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 18:58 as well: abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky",
+  "led at 18:58 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+ ],
+ "lead": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+}
