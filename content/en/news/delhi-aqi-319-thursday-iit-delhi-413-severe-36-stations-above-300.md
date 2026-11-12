@@ -82,9 +82,6 @@ Primary classes up to Class 5 are on hybrid learning, offices are advised to all
 
 The India Meteorological Department forecasts **no rain in Delhi through November 15**. Maximum temperatures are expected at 27 to 30 degrees Celsius and minimums at 14 to 17 degrees, with Thursday at 27 to 29 and 15 to 17. A western disturbance is approaching, but it is not expected to change temperatures meaningfully.
 
-```photo
-{"n":1,"subject":"Mrutyunjay Mohapatra","caption":"IMD Director General Mrutyunjay Mohapatra, who says the clouds expected this week are unlikely to bring useful rain.","alt":"Mrutyunjay Mohapatra, Director General of the India Meteorological Department"}
-```
 
 IMD Director General Mrutyunjay Mohapatra has said Delhi may see partly cloudy skies on November 12 and 13 but that rain is unlikely. The clouds that come with the disturbance are **medium and high-level**, not the convective clouds that bring rain, so any rainfall would be small. Such cloud cover can sometimes hold pollution closer to the ground rather than clear it.
 

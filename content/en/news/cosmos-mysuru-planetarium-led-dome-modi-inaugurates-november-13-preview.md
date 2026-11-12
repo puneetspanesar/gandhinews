@@ -93,9 +93,6 @@ A conventional planetarium throws an image from projectors onto a white dome. CO
 
 The dome seats about 150 people at a time. The control software is called SkyExplorer, developed by France-based RSA Cosmos with Japan's Konica Minolta, according to local reports. The IIA says only two public installations of this type exist, both in Japan, and that Mysuru would be the first tilted one supplied to an independent customer. The organisers call it the world's first of its kind, a claim that rests on their own description of the technology.
 
-```photo
-{"n":1,"subject":"Chamundi Hills","caption":"Chamundi Hill, at whose foot the planetarium stands on the University of Mysore campus.","alt":"Chamundi Hill, Mysuru (file photo)"}
-```
 
 Yaduveer said two to three shows will run each day for students and tourists, with entry tickets for tourists, and that the centre expects about **five lakh visitors a year**, similar to the Bengaluru planetarium. He called it "a major addition to the city's educational, scientific and tourism infrastructure". Ticket prices have not been announced.
 
