@@ -1,14 +1,9 @@
 {
  "run": "hourly-08",
  "start": "2026-11-12T08:05:03+05:30",
- "end": "2026-11-12T08:38:19+05:30",
- "summary": "4 new stories, Delhi air quality leads",
- "new": [
-  "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-  "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-  "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
-  "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
- ],
+ "end": "2026-11-12T08:49:04+05:30",
+ "summary": "expire 48-hour-old held markets story",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
