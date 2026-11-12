@@ -22,7 +22,6 @@ hero:
   overlay:
     value: "पुतिन ने मॉस्को में अमेरिकी दूतों से की बात"
 related: [abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, witkoff-zelenskyy-oslo-before-putin-moscow, crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire]
-upcoming: {date: 2026-11-13, en: "Witkoff and Kushner brief Zelenskyy in Dublin after the Moscow talks", hi: "मॉस्को वार्ता के बाद विटकॉफ और कुशनर डबलिन में ज़ेलेंस्की को जानकारी देंगे"}
 infographic:
   kicker: "यूक्रेन वार्ता"
   headline: "अबू धाबी से मॉस्को तक तीन दिन"

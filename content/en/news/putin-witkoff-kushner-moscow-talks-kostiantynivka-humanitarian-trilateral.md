@@ -21,7 +21,6 @@ hero:
   overlay:
     value: "Putin hosts US envoys in Moscow"
 related: [abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, witkoff-zelenskyy-oslo-before-putin-moscow, crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire]
-upcoming: {date: 2026-11-13, en: "Witkoff and Kushner brief Zelenskyy in Dublin after the Moscow talks", hi: "मॉस्को वार्ता के बाद विटकॉफ और कुशनर डबलिन में ज़ेलेंस्की को जानकारी देंगे"}
 infographic:
   kicker: "Ukraine talks"
   headline: "From Abu Dhabi to Moscow in three days"
