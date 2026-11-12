@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+    "id": "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
     "overlay": {
       "kicker": {
-        "en": "States / Delhi",
-        "hi": "राज्य / दिल्ली"
+        "en": "States / Tamil Nadu",
+        "hi": "राज्य / तमिलनाडु"
       },
       "value": {
-        "en": "Delhi AQI 319, IIT Delhi 413",
-        "hi": "दिल्ली एक्यूआई 319, आईआईटी दिल्ली 413"
+        "en": "₹50 lakh now for each Sterlite firing death",
+        "hi": "स्टरलाइट गोलीकांड में हर मौत पर ₹50 लाख"
       },
       "text": {
         "en": "",
@@ -18,26 +18,26 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "infosys-prize-2026-six-researchers-under-40-100000-each"
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
     ],
     "live": {
       "title": {
-        "en": "Delhi",
-        "hi": "दिल्ली"
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "lead": {
-          "en": "Awards:",
-          "hi": "पुरस्कार:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
-          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
         }
       },
       {
@@ -52,14 +52,14 @@
         }
       },
       {
-        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
-          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
+          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
         }
       },
       {
@@ -96,25 +96,25 @@
         }
       },
       {
-        "link": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+        "link": "us-army-soldier-arrested-england-russia-national-security-act",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "World's fossil CO2 emissions set to dip 0.4% in 2026, but India's will rise 4.4%",
-          "hi": "2026 में दुनिया का जीवाश्म CO2 उत्सर्जन 0.4% घटेगा, पर भारत का 4.4% बढ़ेगा"
+          "en": "UK police arrest senior US Army soldier on suspicion of helping Russian intelligence",
+          "hi": "रूसी खुफिया एजेंसी की मदद के शक में ब्रिटेन में अमेरिकी सेना का वरिष्ठ सैनिक गिरफ्तार"
         }
       },
       {
-        "link": "india-bans-export-lithium-ion-battery-black-mass",
+        "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Centre bans export of lithium-ion battery black mass with immediate effect",
-          "hi": "केंद्र ने लिथियम-आयन बैटरी ब्लैक मास के निर्यात पर तत्काल रोक लगाई"
+          "en": "Hardik Pandya moves to Punjab Kings as Arshdeep Singh joins Mumbai Indians in IPL trade",
+          "hi": "आईपीएल ट्रेड: हार्दिक पंड्या पंजाब किंग्स में, अर्शदीप सिंह मुंबई इंडियंस में"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "infosys-prize-2026-six-researchers-under-40-100000-each",
       "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
       "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
+      "us-army-soldier-arrested-england-russia-national-security-act"
     ],
     "also": [
-      "india-bans-export-lithium-ion-battery-black-mass",
-      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+      "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+      "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     ]
   },
   "startHere": [
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
+      "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim",
       "rajnath-singh-low-morale-diwali-soldiers-video-claim",
-      "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
-      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim"
+      "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers",
+    "thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named",
     "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
     "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
-    "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur",
-    "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
-    "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
+    "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur"
   ],
   "sections": [
     {
@@ -387,16 +387,16 @@
         ]
       },
       "list": [
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
         "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december"
       ]
     },
     {
       "section": "states",
-      "lead": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+      "lead": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
       "list": [
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
         "kishtwar-two-missing-spos-bodies-recovered-weapons-missing"
       ]
@@ -443,25 +443,13 @@
       "lead": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "list": [
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
         "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
         "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
       ]
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "India releases October retail inflation data; September was 5.54%",
-        "hi": "अक्टूबर की खुदरा महंगाई के आंकड़े जारी होंगे; सितंबर में यह 5.54% थी"
-      },
-      "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -481,10 +469,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
-        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
+        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
+        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
       },
-      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
     },
     {
       "icon": "calendar-blank",
@@ -493,21 +481,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
-        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
+        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
+        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
       },
-      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
+      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     },
     {
-      "icon": "chart-line",
+      "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
-        "en": "Retail inflation (CPI) for October, 4 pm",
-        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
-      }
+        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
+        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
+      },
+      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
     },
     {
       "icon": "calendar-blank",
@@ -520,6 +509,18 @@
         "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
       "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "PM Modi in Bengaluru and Mysuru: Pink Line metro, Vande Bharat flag-off, ₹15,600 crore projects",
+        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में: पिंक लाइन मेट्रो, वंदे भारत को हरी झंडी, ₹15,600 करोड़ की परियोजनाएं"
+      },
+      "link": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
     }
   ],
   "headlineHistory": [
@@ -625,17 +626,17 @@
       ]
     },
     {
-      "at": "2026-11-12T18:06:23+05:30",
+      "at": "2026-11-12T18:34:16+05:30",
       "ids": [
-        "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
         "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "india-bans-export-lithium-ion-battery-black-mass"
+        "us-army-soldier-arrested-england-russia-national-security-act",
+        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
       ]
     }
   ],
