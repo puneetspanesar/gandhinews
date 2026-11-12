@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+    "id": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
     "overlay": {
       "kicker": {
-        "en": "World / Southeast Asia",
-        "hi": "दुनिया / दक्षिण-पूर्व एशिया"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Indonesia's vice president resigns",
-        "hi": "इंडोनेशिया के उपराष्ट्रपति का इस्तीफा"
+        "en": "Putin hosts US envoys in Moscow",
+        "hi": "पुतिन ने मॉस्को में अमेरिकी दूतों से की बात"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Southeast Asia",
-        "hi": "दक्षिण-पूर्व एशिया"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
@@ -41,6 +41,28 @@
         }
       },
       {
+        "link": "retail-inflation-october-2026-6-09-two-year-high",
+        "lead": {
+          "en": "Inflation:",
+          "hi": "महंगाई:"
+        },
+        "text": {
+          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
+          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
+        }
+      },
+      {
+        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
+          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
+        }
+      },
+      {
         "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "lead": {
           "en": "Cricket:",
@@ -52,6 +74,17 @@
         }
       },
       {
+        "link": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+        "lead": {
+          "en": "Southeast Asia:",
+          "hi": "दक्षिण-पूर्व एशिया:"
+        },
+        "text": {
+          "en": "Indonesia's vice president Gibran resigns hours before an impeachment hearing over his school diploma",
+          "hi": "महाभियोग की सुनवाई से कुछ घंटे पहले इंडोनेशिया के उपराष्ट्रपति गिब्रान ने इस्तीफा दिया"
+        }
+      },
+      {
         "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "lead": {
           "en": "Parliament:",
@@ -60,28 +93,6 @@
         "text": {
           "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
           "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
-        }
-      },
-      {
-        "link": "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies",
-          "hi": "भूपेंद्र यादव ने इस्पात, सीमेंट और परिवहन कंपनियों से कहा: भारत की जलवायु कार्रवाई सरकार, उद्योग और शिक्षा जगत के सहयोग पर टिकी, लीडआईटी में अब 19 देश और 33 कंपनियां"
-        }
-      },
-      {
-        "link": "modi-asean-india-summit-manila-november-16-18",
-        "lead": {
-          "en": "Southeast Asia:",
-          "hi": "दक्षिण-पूर्व एशिया:"
-        },
-        "text": {
-          "en": "Modi to attend ASEAN-India and East Asia Summits in Manila from November 16 to 18",
-          "hi": "मोदी 16 से 18 नवंबर तक मनीला में आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन में शामिल होंगे"
         }
       },
       {
@@ -104,17 +115,6 @@
         "text": {
           "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
           "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
-        }
-      },
-      {
-        "link": "retail-inflation-october-2026-6-09-two-year-high",
-        "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
-        },
-        "text": {
-          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
-          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-a-women-squads-england-a-shreyanka-patil-recalled",
+      "id": "retail-inflation-october-2026-6-09-two-year-high",
       "also": []
     },
     "list": [
+      "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+      "india-a-women-squads-england-a-shreyanka-patil-recalled",
+      "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
       "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-      "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-      "modi-asean-india-summit-manila-november-16-18",
-      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
+      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
     ],
     "also": [
-      "retail-inflation-october-2026-6-09-two-year-high",
-      "infosys-prize-2026-six-researchers-under-40-100000-each"
+      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
     ]
   },
   "startHere": [
@@ -396,8 +396,8 @@
       "section": "states",
       "lead": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
       "list": [
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
       ]
     },
@@ -422,11 +422,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+      "lead": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
       "list": [
+        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
         "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "modi-asean-india-summit-manila-november-16-18",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia"
+        "modi-asean-india-summit-manila-november-16-18"
       ]
     },
     {
@@ -445,7 +445,7 @@
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back"
+        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
       ]
     }
   ],
@@ -457,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
+        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
       },
-      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
-        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
+        "en": "PM Modi in Bengaluru and Mysuru; CM Shivakumar to raise drought relief and state demands",
+        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में; मुख्यमंत्री शिवकुमार उठाएंगे सूखा राहत और राज्य की मांगें"
       },
-      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+      "link": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
     },
     {
       "icon": "calendar-blank",
@@ -631,17 +631,17 @@
       ]
     },
     {
-      "at": "2026-11-12T23:16:45+05:30",
+      "at": "2026-11-12T23:40:51+05:30",
       "ids": [
-        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
+        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "modi-asean-india-summit-manila-november-16-18",
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high"
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
       ]
     }
   ],
