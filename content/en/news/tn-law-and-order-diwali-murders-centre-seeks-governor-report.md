@@ -65,7 +65,8 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "Primary release not available. Home Ministry request is unconfirmed officially (sources in Delhi). Death counts differ: state 8, opposition 10-11, Organiser headline 9. Stalin quote omitted (single source)."
+  notes:
+    - "Primary release not available. Home Ministry request is unconfirmed officially (sources in Delhi). Death counts differ: state 8, opposition 10-11, Organiser headline 9. Stalin quote omitted (single source)."
 ---
 
 **Tamil Nadu's law and order has become a matter for New Delhi.** The Union Home Ministry has asked Governor Rajendra Arlekar for **a detailed report on the state's public order**, according to reports on Tuesday and Wednesday, after a string of killings on Diwali that left the opposition accusing Chief Minister C. Joseph Vijay's government of losing control. The request has not been officially confirmed.

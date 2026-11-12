@@ -51235,26 +51235,6 @@
   "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2335230"
  },
  {
-  "id": "o-tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-  "articleId": "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vijay_at_Protest_of_the_Nadigar_Sangam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Dani Charles, Silverscreen Media / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Vijay (file photo)",
-  "alt_hi": "विजय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_Protest_of_the_Nadigar_Sangam.jpg"
- },
- {
-  "id": "o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-  "articleId": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Narendra_Modi_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg"
- },
- {
   "id": "o-iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
   "articleId": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Shreyas_Iyer_Captain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51303,5 +51283,25 @@
   "alt": "Pakistan fast bowler Mohammad Abbas (file photo)",
   "alt_hi": "पाकिस्तान के तेज़ गेंदबाज़ मोहम्मद अब्बास (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:1_39_Mo_Abbas_mugshot.jpg"
+ },
+ {
+  "id": "o-tn-law-and-order-diwali-murders-centre-seeks-governor-report",
+  "articleId": "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Amit_Shah_new.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Captgs / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Union Home Minister Amit Shah (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Amit_Shah_new.jpg"
+ },
+ {
+  "id": "o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+  "articleId": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Narendra_Modi_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg"
  }
 ]

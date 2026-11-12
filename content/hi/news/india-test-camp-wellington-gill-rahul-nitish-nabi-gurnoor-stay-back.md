@@ -38,7 +38,7 @@ infographic:
   source: "टीम घोषणाएं और मैच रिपोर्ट, 9 से 11 नवंबर 2026"
 related: [gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain, iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview]
 seo:
-  description: "11 नवंबर को वेलिंगटन में भारत का टेस्ट कैंप शुरू हुआ और गिल, राहुल व कंबोज वनडे टीम से जुड़ गए। न्यूज़ीलैंड के खिलाफ पहला टेस्ट 19 नवंबर को है।"
+  description: "11 नवंबर को वेलिंगटन में भारत का टेस्ट कैंप शुरू हुआ और गिल, राहुल व कंबोज वनडे टीम छोड़कर टेस्ट कैंप से जुड़ गए। न्यूज़ीलैंड के खिलाफ पहला टेस्ट 19 नवंबर को है।"
 sources:
   - title: "IND vs NZ 2026: After rain-hit 3rd ODI, Team India splits into two groups for ODI and Test series"
     publisher: "India.com"

@@ -4,7 +4,7 @@ lang: en
 type: news
 section: states
 format_label: "States / Jammu and Kashmir"
-topics: [states]
+topics: []
 title: "Three CRPF personnel injured as motorcycle-borne gunmen fire at Kulgam checkpost"
 standfirst: "The attackers opened fire at about 2:15 pm on Wednesday near Mir Bazar and fled. The three wounded men are at Anantnag medical college and a multi-agency hunt is on."
 published: 2026-11-12T00:11:04+05:30
