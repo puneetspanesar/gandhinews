@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+    "id": "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "₹12.14 lakh crore of deals lined up",
-        "hi": "₹12.14 लाख करोड़ के सौदे तैयार"
+        "en": "Delhi AQI 319, IIT Delhi 413",
+        "hi": "दिल्ली एक्यूआई 319, आईआईटी दिल्ली 413"
       },
       "text": {
         "en": "",
@@ -18,26 +18,26 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+      "infosys-prize-2026-six-researchers-under-40-100000-each"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
-          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
+          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
         }
       },
       {
@@ -52,14 +52,14 @@
         }
       },
       {
-        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "lead": {
-          "en": "Awards:",
-          "hi": "पुरस्कार:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
-          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
         }
       },
       {
@@ -186,7 +186,7 @@
       "also": []
     },
     "list": [
-      "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
       "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
       "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
@@ -394,9 +394,9 @@
     },
     {
       "section": "states",
-      "lead": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "lead": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
       "list": [
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
         "kishtwar-two-missing-spos-bodies-recovered-weapons-missing"
       ]
@@ -443,8 +443,8 @@
       "lead": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "list": [
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
         "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
         "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
       ]
     }
@@ -481,10 +481,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
-        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
+        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
+        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
       },
-      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
+      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     },
     {
       "icon": "calendar-blank",
@@ -493,10 +493,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
-        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
+        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
+        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
       },
-      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
     },
     {
       "icon": "chart-line",
@@ -516,30 +516,13 @@
         "hi": "कल"
       },
       "text": {
-        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
-        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T06:47:02+05:30",
-      "ids": [
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-        "sangrur-prtc-bus-flyover-crash-three-killed",
-        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
-        "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha",
-        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
-        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
-        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
-        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner"
-      ]
-    },
     {
       "at": "2026-11-12T07:31:12+05:30",
       "ids": [
@@ -634,6 +617,20 @@
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+        "india-bans-export-lithium-ion-battery-black-mass"
+      ]
+    },
+    {
+      "at": "2026-11-12T18:06:23+05:30",
+      "ids": [
+        "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
