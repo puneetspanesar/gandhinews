@@ -1,0 +1,34 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-12T06:06:33+05:30",
+ "end": "2026-11-12T06:49:39+05:30",
+ "summary": "5 stories, TN law and order leads, Nepal preview held",
+ "new": [
+  "india-cuts-visa-categories-13-to-9-form-fields-mha",
+  "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+  "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
+  "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+  "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
+ ],
+ "held": [
+  "nepal-pm-shah-india-visit-november-22-25-modi-talks-aid"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+   "why": "Main picture (also the homepage lead) is an extreme close-up file portrait of Narendra Modi with the top of his head cut off by the frame; it is a stern studio-style crop, not the public-event or metro picture the story asked for.",
+   "done": "Swapped to a different library portrait (PMO, GODL-India, flag backdrop, serious); it is still a tight head crop, so the story no longer leads: the lead is the Tamil Nadu law-and-order story with the Amit Shah photo."
+  },
+  {
+   "id": "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+   "why": "The Hindi seo.description says Gill, Rahul and Kamboj 'वनडे टीम से जुड़ गए' (joined the ODI team), the opposite of the English, which says they left the ODI squad for the Test camp.",
+   "done": "Hindi seo.description corrected to say they left the ODI team for the Test camp."
+  }
+ ],
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+ ],
+ "lead": "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
+}

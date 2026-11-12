@@ -1,0 +1,16 @@
+{
+ "run": "stall-06",
+ "start": "2026-11-12T06:54:32+05:30",
+ "end": "2026-11-12T07:03:06+05:30",
+ "summary": "homepage rotated off the 04:23 headlines; Swachh Survekshan leads",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+ ],
+ "lead": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
+}

@@ -46489,47 +46489,30 @@
   }
  },
  "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi": {
-  "id": "i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
-  "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-3x2-1280.jpg",
-  "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-3x2-640.jpg",
+  "id": "o-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+  "src": "/photos/o-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-1280.jpg",
+  "src800": "/photos/o-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Day four: 30 runs and the weather",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: चौथा दिन: 30 रन और मौसम",
-  "page": null,
-  "ihash": "f873a37870be",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-3x2-1280.jpg",
-    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-t-1280.jpg",
-    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-t-1280.jpg",
-    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-1280.jpg",
-    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-1280.jpg",
-    "src800": "/photos/i-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Mohammad Abbas, Dhananjaya de Silva or Kusal Mendis; library, quick_photo, finder h1200"
+  "srcWidth": 1496,
+  "credit": "Photo: Dave Morton / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Pakistan fast bowler Mohammad Abbas (file photo)",
+  "alt_hi": "पाकिस्तान के तेज़ गेंदबाज़ मोहम्मद अब्बास (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:1_39_Mo_Abbas_mugshot.jpg",
+  "treated": {
+   "src": "/photos/t-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-b-1280.jpg",
+   "src800": "/photos/t-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-b-640.jpg",
+   "cutout": true,
+   "with": [
+    "pakistan-afghanistan-trade-halt-exporters-torkham-losses",
+    "pakistan-cuts-petrol-price-rs-3-93-daily-pricing",
+    "renshaw-puts-australia-on-top-in-durban-test"
+   ],
+   "kind": "photo",
+   "subj": "100c08c1e3e1e1f",
+   "credit": "Photos: Dave Morton / Wikimedia Commons; Sgt. Margaret Taylor / Wikimedia Commons; Sunni Person / Wikimedia Commons; Marc Forrest / Wikimedia Commons"
+  }
  },
  "kulgam-crpf-naka-attack-three-injured-nov-11": {
   "id": "i-kulgam-crpf-naka-attack-three-injured-nov-11",
@@ -46573,6 +46556,144 @@
    }
   },
   "nophoto": "no free photo of Kulgam attack or CRPF in south Kashmir; library, quick_photo, finder h1200"
+ },
+ "tn-law-and-order-diwali-murders-centre-seeks-governor-report": {
+  "id": "o-tn-law-and-order-diwali-murders-centre-seeks-governor-report",
+  "src": "/photos/o-tn-law-and-order-diwali-murders-centre-seeks-governor-report-1280.jpg",
+  "src800": "/photos/o-tn-law-and-order-diwali-murders-centre-seeks-governor-report-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2279,
+  "credit": "Photo: Captgs / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Union Home Minister Amit Shah (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Amit_Shah_new.jpg",
+  "treated": {
+   "src": "/photos/t-tn-law-and-order-diwali-murders-centre-seeks-governor-report-1280.jpg",
+   "src800": "/photos/t-tn-law-and-order-diwali-murders-centre-seeks-governor-report-640.jpg",
+   "cutout": true,
+   "with": [
+    "madras-hc-bail-ai-videos-cm-vijay-scam",
+    "president-appoints-governors-six-states-keralam-tamil-nadu",
+    "special-session-of-parliament-explained-shah-offer-cec-removal"
+   ],
+   "kind": "photo",
+   "subj": "8181e9c9cbc3c3c",
+   "credit": "Photos: Captgs / Wikimedia Commons; Yercaud-elango / Wikimedia Commons; Bnarayan22 / Wikimedia Commons; Nikhilb239 / Wikimedia Commons"
+  }
+ },
+ "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview": {
+  "id": "o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+  "src": "/photos/o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview-1280.jpg",
+  "src800": "/photos/o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1161,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-karnataka-gujarat-visit-november-13-14-15600-crore-proj-1280.jpg",
+   "src800": "/photos/t-modi-karnataka-gujarat-visit-november-13-14-15600-crore-proj-640.jpg",
+   "cutout": true,
+   "with": [
+    "karnataka-mlc-polls-four-council-seats-voting",
+    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1",
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro"
+   ],
+   "kind": "portrait",
+   "subj": "18183878fcfdff",
+   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Moheen Reeyad / Wikimedia Commons; SpeakingArch / Wikimedia Commons; Qurren / Wikimedia Commons"
+  }
+ },
+ "nepal-pm-shah-india-visit-november-22-25-modi-talks-aid": {
+  "id": "o-nepal-pm-shah-india-visit-november-22-25-modi-talks-aid",
+  "src": "/photos/o-nepal-pm-shah-india-visit-november-22-25-modi-talks-aid-1280.jpg",
+  "src800": "/photos/o-nepal-pm-shah-india-visit-november-22-25-modi-talks-aid-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 1920,
+  "credit": "Photo: Metro News / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Nepal Prime Minister Balendra Shah (file photo)",
+  "alt_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_01.jpg"
+ },
+ "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview": {
+  "id": "o-iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
+  "src": "/photos/o-iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview-1280.jpg",
+  "src800": "/photos/o-iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview-640.jpg",
+  "width": 1280,
+  "height": 877,
+  "srcWidth": 882,
+  "credit": "Photo: The Tigers Squadron / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Shreyas Iyer (file photo)",
+  "alt_hi": "श्रेयस अय्यर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shreyas_Iyer_Captain.jpg",
+  "treated": {
+   "src": "/photos/t-iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview-1280.jpg",
+   "src800": "/photos/t-iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview-640.jpg",
+   "cutout": true,
+   "with": [
+    "villarreal-psg-atletico-bayern-champions-league-tuesday-preview--p2",
+    "india-women-zimbabwe-second-odi-vadodara-rawal-preview"
+   ],
+   "kind": "photo",
+   "subj": "207e3e383e3e3c",
+   "credit": "Photos: The Tigers Squadron / Wikimedia Commons; Arne Müseler / Wikimedia Commons; [2] / Wikimedia Commons"
+  }
+ },
+ "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back": {
+  "id": "o-india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+  "src": "/photos/o-india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back-1280.jpg",
+  "src800": "/photos/o-india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 702,
+  "credit": "Photo: The Tigers Squadron / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Shubman Gill (file photo)",
+  "alt_hi": "शुभमन गिल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prince_Shubman_Gill.jpg",
+  "treated": {
+   "src": "/photos/t-india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-st-1280.jpg",
+   "src800": "/photos/t-india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-st-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "liverpool-0-1-arsenal-havertz-alisson-error-anfield--p3",
+    "navdeep-saini-two-services-112-4-delhi-ranji-palam"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7676703181818",
+   "credit": "Photos: Bollywood Hungama / Wikimedia Commons; Phillip Capper / Wikimedia Commons; Arne Müseler / Wikimedia Commons; Ciell / Wikimedia Commons"
+  }
+ },
+ "india-cuts-visa-categories-13-to-9-form-fields-mha": {
+  "id": "o-india-cuts-visa-categories-13-to-9-form-fields-mha",
+  "src": "/photos/o-india-cuts-visa-categories-13-to-9-form-fields-mha-1280.jpg",
+  "src800": "/photos/o-india-cuts-visa-categories-13-to-9-form-fields-mha-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 4640,
+  "credit": "Photo: Bharatahs / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Check-in hall of Terminal 3, Indira Gandhi International Airport, New Delhi (file photo)",
+  "alt_hi": "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे, नई दिल्ली के टर्मिनल 3 का चेक-इन हॉल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sculpture_of_hasta_mudras_at_Indira_Gandhi_International_Airport.jpg",
+  "treated": {
+   "src": "/photos/t-india-cuts-visa-categories-13-to-9-form-fields-mha-1280.jpg",
+   "src800": "/photos/t-india-cuts-visa-categories-13-to-9-form-fields-mha-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "48680ec64702787f",
+   "credit": "Photo: Bharatahs / Wikimedia Commons"
+  }
  },
  "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards": {
   "id": "o-swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
