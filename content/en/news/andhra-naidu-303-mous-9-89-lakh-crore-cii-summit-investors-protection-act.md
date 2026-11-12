@@ -88,10 +88,6 @@ Naidu said the state will bring in an **Investors Protection Act** to give inves
 
 The state already offers escrow accounts for disbursing industrial incentives, which Goyal said would raise investor confidence and could be an example for other states. Andhra Pradesh hopes to be the first state with a dedicated legal framework for investment protection.
 
-```photo
-{"n":1,"subject":"Piyush Goyal","caption":"Union Commerce and Industry Minister Piyush Goyal chaired the inaugural session and backed the state's escrow system for incentives.","alt":"Union Commerce and Industry Minister Piyush Goyal"}
-```
-
 ## What the leaders said
 
 Goyal praised the host. "He is a master in instilling confidence in those coming to invest," he said of Naidu, adding that Andhra Pradesh is "becoming a platform for many opportunities just as one lamp lights many more lamps". He credited the state with recovering from two recent cyclones while hosting the summit, and said Visakhapatnam was moving from a steel city to a silicon city.
