@@ -80,10 +80,6 @@ The result carried more than a trophy. All India Chess Federation president Niti
 
 Shrivatri, who was born on July 21, 2004, earned his International Master title in 2020 and was then the youngest IM from his state. No Madhya Pradesh player had reached the Grandmaster level before him.
 
-```photo
-{"n":1,"subject":"Viswanathan Anand","caption":"Viswanathan Anand, India's first Grandmaster in 1988, congratulated Shrivatri on reaching the 100 mark.","alt":"Chess player Viswanathan Anand"}
-```
-
 ## From one to a hundred
 
 Viswanathan Anand became India's first Grandmaster in 1988, after earning his third norm in 1987. The country then moved slowly: it took **nine years to go from one Grandmaster to three**, with Praveen Thipsay's title in 1997.

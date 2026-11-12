@@ -68,10 +68,6 @@ Play has been interrupted by rain before. The first day was cut short with about
 
 The loss matters beyond the scoreline. The match is a warm-up for India's two-Test series in New Zealand, and two of the bowlers who were meant to use it, Jasprit Bumrah and Prasidh Krishna, were both returning from breaks. Bumrah bowled six wicketless overs on Sunday, conceding 11 runs. Prasidh took both New Zealand A wickets, Rhys Mariu for a duck and Curtis Heaphy for 19, and finished with figures of **2 for 12**. The washout kept both out of match action on Monday.
 
-```photo
-{"n":1,"subject":"Bert Sutcliffe Oval","caption":"The Bert Sutcliffe Oval in Lincoln, where the third unofficial Test is being played.","alt":"The Bert Sutcliffe Oval cricket ground in Lincoln, New Zealand"}
-```
-
 ## Where the match stands
 
 India A's 464 for 5 was built on Yashasvi Jaiswal's 102, his second century in as many innings on the tour, Sai Sudharsan's 88, Dhruv Jurel's 71, Tilak Varma's unbeaten 81 and Washington Sundar's unbeaten 50. Jaiswal and Sudharsan had put on 175 for the first wicket on day one. We reported the innings in our [day-two story](/en/news/india-a-464-declared-nz-a-36-2-lincoln-third-test-day-two).

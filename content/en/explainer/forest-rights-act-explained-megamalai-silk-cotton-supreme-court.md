@@ -68,10 +68,6 @@ The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Fores
 
 **Someone who actually lives in the forest and depends on it.** The Act names two groups. A Forest Dwelling Scheduled Tribe must primarily reside in forests and depend on them for a livelihood. An Other Traditional Forest Dweller must show **three generations, or 75 years, of residence** in the area before December 13, 2005. Owning a plot, or cultivating one from outside, is not the test.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court of India in New Delhi, which decided the Megamalai case on November 6, 2026.","alt":"The Supreme Court of India building in New Delhi (file photo)"}
-```
-
 ## How does a claim travel?
 
 **It starts with the village.** A gram sabha, the village assembly, receives and verifies the claim and passes a resolution. The claim then goes to a sub-divisional level committee, and finally to a district level committee, which takes the decision. The process matters because the court found Tamil Nadu primarily responsible for delay in forming the gram sabhas at Megamalai, where about 40 had been formed and about 1,600 claims received.
@@ -82,10 +78,6 @@ The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Fores
 
 The case sits inside a larger one. On May 29, 2026, the court had ordered time-bound eviction, rehabilitation and ecological restoration of the Agasthyamalai landscape.
 
-```photo
-{"n":2,"subject":"Agasthyamalai","caption":"The Agasthyamalai hills, whose landscape the Supreme Court ordered restored in its order of May 29, 2026.","alt":"The Agasthyamalai hills in southern India (file photo)"}
-```
-
 ## What did the court decide?
 
 **That a planted commercial crop is not minor forest produce.** Justices Vikram Nath and Sandeep Mehta held that the idea of planned cultivation of a commercial crop is "totally contrary to" the concept of minor forest produce in Section 3(1)(c), and that the state's own affidavit described silk cotton as a plantation introduced from the 1930s. Planned or promoted cultivation of a commercial crop in forest areas is, the bench said, **"completely impermissible"**, and the critical tiger habitat must be given primacy over claims that encroach on it.
@@ -95,10 +87,6 @@ It excluded the second and third groups, a total of **2,999 people**, from consi
 ## Who looks at the rest?
 
 **A Special Committee headed by former Chief Justice of India B R Gavai.** It will scrutinise the decisions on the remaining claims and report in a sealed cover, with monthly progress reports from the state.
-
-```photo
-{"n":3,"subject":"B. R. Gavai","caption":"Former Chief Justice of India B R Gavai, who will head the Special Committee scrutinising Megamalai's forest rights claims.","alt":"Former Chief Justice of India B R Gavai (file photo)"}
-```
 
 The court also asked the Central Empowered Committee for its opinion on whether silk cotton can be classed as minor forest produce at all, and doubted the state's statement that no commercial enterprise financed the farming, given 2,767 cultivators living outside the forest.
 

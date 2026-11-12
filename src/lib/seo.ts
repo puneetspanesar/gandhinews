@@ -216,3 +216,15 @@ export function navLd(lang: Lang) {
     })),
   };
 }
+
+/** The browser-tab and search-result title of a story (owner, November 12): Google shows about 60 characters, and our
+ *  headlines run to 100. A long headline is cut at a clause break (comma, colon, semicolon, " as ", " after "...) so it
+ *  is still a whole statement; never with dots. `seo.title` in the front matter wins when a story has one. */
+export function tabTitle(d: any): string {
+  const own = String(d?.seo?.title ?? '').trim(); if (own) return own;
+  const t = String(d?.title ?? '').trim(); const MAX = 65, MIN = 28;
+  if (t.length <= MAX) return t;
+  const cuts = [...t.matchAll(/[,:;]\s| (?=(?:as|after|while|but|with|amid|over|ahead of|days after|a day after)\s)|\s(?=(?:जबकि|लेकिन|के बाद)\s)/g)].map((m) => m.index!).filter((i) => i >= MIN && i <= MAX);
+  if (cuts.length) return t.slice(0, cuts[cuts.length - 1]).trim();
+  return t;   // no clean break: the whole headline, without the site name, reads better than a cut mid-phrase
+}

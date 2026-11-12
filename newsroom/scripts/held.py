@@ -3,7 +3,8 @@
   python3 newsroom/scripts/held.py hold <id> <picture|facts|other> "<why>"   take a story off the site (both languages)
   python3 newsroom/scripts/held.py republish <id>             put it back (only once the reason is fixed: a picture hold
                                                               needs its main picture in content/photos.map.json)
-  python3 newsroom/scripts/held.py expire                     delete holds older than 48 hours (picture holds are worth fixing for two days: the story still belongs in its section and archive)
+  python3 newsroom/scripts/held.py drop <id> "<why>"          delete a hold now (overtaken by events, or we have since published the same news)
+  python3 newsroom/scripts/held.py expire                     delete facts and other holds older than 24 hours and picture holds older than 48 hours (picture holds are worth fixing for two days: the story still belongs in its section and archive)
 Every run does `list` and `expire` at the start, and republishes picture holds whose picture now exists.
 """
 import json, os, sys, glob, shutil, subprocess, datetime as dt
@@ -71,8 +72,14 @@ elif cmd == 'republish':
 elif cmd == 'expire':
     for f in glob.glob(f'{H}/en/*.md'):
         i = os.path.basename(f)[:-3]; d = info(i)
-        if (now - dt.datetime.fromisoformat(d['held_at'])).total_seconds() > 48 * 3600:
+        # a facts or other hold is news going stale: a day. A picture hold is worth two (owner, November 12: holds were piling up)
+        if (now - dt.datetime.fromisoformat(d['held_at'])).total_seconds() > (48 if d.get('kind') == 'picture' else 24) * 3600:
             for p in [f'{H}/en/{i}.md', f'{H}/hi/{i}.md', f'{H}/{i}.json', f'{H}/{i}.type']:
                 if os.path.exists(p): subprocess.run(['git', 'rm', '-q', '-f', p], capture_output=True); os.path.exists(p) and os.remove(p)
             print(f'expired {i}')
+elif cmd == 'drop':
+    i = sys.argv[2]
+    for p in [f'{H}/en/{i}.md', f'{H}/hi/{i}.md', f'{H}/{i}.json', f'{H}/{i}.type']:
+        if os.path.exists(p): subprocess.run(['git', 'rm', '-q', '-f', p], capture_output=True); os.path.exists(p) and os.remove(p)
+    print(f'dropped {i}: {" ".join(sys.argv[3:])}')
 else: sys.exit(__doc__)

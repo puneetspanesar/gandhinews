@@ -67,10 +67,6 @@ Cleanliness is not an abstract virtue. It is how often garbage is collected from
 
 Minister Manohar Lal said **urban waste processing has risen from 16% to 80%** since 2014, and that door-to-door collection now covers more than 96% of households, up from 44%. If true, it is a real gain. But a national figure hides the difference between a city that processes most of what it collects and one that moves its waste to a larger dump. The ministry also says 11,000 acres once held by legacy dumpsites have been freed. Residents near a dump should be able to find out what happened to theirs.
 
-```photo
-{"n":1,"subject":"RK Beach, Visakhapatnam","caption":"RK Beach in Visakhapatnam, the seafront of Greater Visakhapatnam, one of the top three million-plus cities.","alt":"RK Beach on the seafront in Visakhapatnam"}
-```
-
 ## The fair objection
 
 Rankings drive improvement, and the survey's design has changed through ten editions. Releasing every indicator for every city invites misreading: a city may score poorly on one indicator for reasons that are not its fault, and officials may fear being blamed. Cities also differ in size, climate and money.

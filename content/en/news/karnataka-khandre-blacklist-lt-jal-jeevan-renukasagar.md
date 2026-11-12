@@ -73,10 +73,6 @@ According to reports, the contract was awarded on April 20, 2022, and was due fo
 
 Khandre said he would accept **no delay except one caused by pending forest clearance**. He pointed to the shortage of drinking water in villages after inadequate rainfall as the reason for the firmness.
 
-```photo
-{"n":1,"subject":"Larsen & Toubro","caption":"Larsen & Toubro, the contractor named in the minister's direction.","alt":"Larsen & Toubro"}
-```
-
 ## A warning two months old
 
 This is not the first time the minister has pressed contractors. On **September 11**, at an earlier review in Bengaluru, Khandre told officials and contractors to speed up pending works and send weekly progress reports. "All works must be completed within the stipulated deadlines," he said then. He also warned that failing to follow Union government standards could cost the state more money, and said about **₹67,000 crore** is being spent on single-village and multi-village drinking water schemes.

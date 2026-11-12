@@ -69,10 +69,6 @@ About **2.5 lakh applications are pending** in Nadia and neighbouring North 24 P
 
 He said district magistrates had been trained through the Home Department. Sub-divisional officers will supervise verification and hold the hearings. At Thakurnagar he had said hearings would be fast-tracked and that eligible Scheduled Caste members who receive citizenship would also be given Scheduled Caste certificates.
 
-```photo
-{"n":1,"subject":"Mamata Banerjee","caption":"Mamata Banerjee, whose Trinamool government Adhikari accuses of obstructing the CAA's implementation.","alt":"Mamata Banerjee"}
-```
-
 ## What the law covers
 
 Parliament passed the CAA in December 2019 and the Centre notified its rules in March 2024. It offers a route to citizenship for Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from Pakistan, Bangladesh and Afghanistan who entered India on or before December 31, 2014.
@@ -84,7 +80,3 @@ The issue matters particularly to sections of the **Matua community**, whose mem
 At Aranghata, Adhikari also accused the previous government of restricting permissions for Durga Puja and immersion processions. He said the state will spend **₹1,000 crore over two years** on renovating old maths and temples under a "Tirthakshetra Circuit" scheme. It will cover trust-managed, debottar and public institutions but not private ones.
 
 The Trinamool Congress has not responded in the reports available. How many of the 2.5 lakh will clear verification by the deadline has not been stated.
-
-```photo
-{"n":2,"subject":"Thakurnagar","caption":"Thakurnagar in North 24 Parganas, the Matua community's centre, where Adhikari first set the December 31 target on November 1.","alt":"Thakurnagar, North 24 Parganas"}
-```

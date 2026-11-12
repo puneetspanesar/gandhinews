@@ -85,10 +85,6 @@ He proposed a **Climate Justice Compact**, resting on shared responsibility, sha
 
 He said emerging economies outside China receive less than a fifth of global clean energy investment, that solar alone met nearly three quarters of the growth in electricity demand last year, and that clean power is now the cheapest new electricity across most of the world. He also asked for **no new coal, oil or gas infrastructure** and said global emissions hit a record in 2025.
 
-```photo
-{"n":1,"subject":"Luiz Inácio Lula da Silva","caption":"Brazilian President Luiz Inácio Lula da Silva, whose country hosted last year's conference, told the summit that climate has faded from leaders' speeches.","alt":"Brazilian President Luiz Inácio Lula da Silva"}
-```
-
 ## Who did not come
 
 **China, the United States and India sent no head of government**, though together they produce more than half of the world's carbon dioxide. China was represented by Vice-President Han Zheng. The United States has stayed away from the talks for a second year, and President Donald Trump has sent no officials to climate talks since 2024. Prime Minister Narendra Modi did not attend.
@@ -104,10 +100,6 @@ Brazil's Lula, re-elected last month, said climate change had faded from leaders
 Turkish President Recep Tayyip Erdoğan, the host, said "climate financing should be more accessible, predictable and cater to the needs" of countries, and that developed nations must take **greater responsibility for cutting emissions** and for paying for it. Australian Prime Minister Anthony Albanese, whose country leads the negotiations, said projected warming has fallen from about 4°C to around 2.6°C since the Paris Agreement, and pointed to the Pacific Resilience Facility, which holds a pledging event on Thursday.
 
 Both hosts drew criticism at home and abroad. Adam Bandt of the Australian Conservation Foundation said Australia "can't keep dodging this issue" and urged it to stop opening new coal and gas mines. Neither leader spoke about their own country's plans for fossil fuels, and both countries are expanding coal mines.
-
-```photo
-{"n":2,"subject":"Anthony Albanese","caption":"Australian Prime Minister Anthony Albanese, whose government leads the negotiations alongside host Turkey, called for more help for Pacific nations.","alt":"Australian Prime Minister Anthony Albanese"}
-```
 
 ## The electrification pledge
 

@@ -76,10 +76,6 @@ At the close in New York (2:30 am IST on Friday), the Nasdaq Composite was **dow
 
 The Philadelphia Semiconductor Index **plunged 12.25% to 9,011.14**. AMD sank 17.26% to $404.40 and Micron 17.46% to $656.39. Nvidia, the heaviest weight in the S&P 500, dropped 9.26% to $181.60, leaving it down for the year.
 
-```photo
-{"n":1,"subject":"Jensen Huang","caption":"Jensen Huang, chief executive of Nvidia, whose shares fell 9.26% on Thursday and weighed more than any other stock on the S&P 500.","alt":"Nvidia chief executive Jensen Huang (file photo)"}
-```
-
 Companies that build and power data centres were hit just as hard. IREN, Applied Digital and Nebius each lost more than 14%, CoreWeave fell 9.8% and GE Vernova 7.5%. **Elon Musk's companies slid too**: Tesla closed 10.77% lower and SpaceX 9.05% lower, as investors weighed what Democratic wins in Washington and Texas mean for their merger plans and for AI spending.
 
 "The obvious catalyst for the sharp selloff is that markets are pricing in the midterm results," said Jakub Rochlitz, an analyst at eToro. Jed Ellerbroek, a portfolio manager at Argent Capital, said: "This feels like the capitulation phase for the data center capex beneficiary stocks, especially the semiconductors."

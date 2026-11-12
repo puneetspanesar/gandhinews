@@ -90,10 +90,6 @@ Adityanath spoke at the BJP's state executive committee meeting on Friday, Octob
 
 The roll frozen on October 27, 2025, had about **15.44 crore** electors. The draft published on January 6, 2026, had 12,55,56,025, and the final roll of April 10 has **13,39,84,792**, which is 2.04 crore fewer than the frozen roll. Between the draft and the final roll, 84,28,767 names were added. The Chief Electoral Officer, Navdeep Rinwa, gave the final figures at a press conference in Lucknow.
 
-```photo
-{"n":1,"subject":"Akhilesh Yadav","caption":"Samajwadi Party chief Akhilesh Yadav, who asked on November 6 how the Chief Minister knows the missing voters are Hindus.","alt":"Samajwadi Party chief Akhilesh Yadav"}
-```
-
 ### 2. There is no count by religion
 
 None of the published roll figures is split by religion: neither the draft nor the final roll. The only breakdowns seen are by gender (834 women per 1,000 men in the final roll), by age and by district. The draft stage did give reasons for the **2.89 crore** names proposed for deletion against the pre-revision list: absent, shifted or missing 2.17 crore, dead 46.23 lakh and duplicate 25.46 lakh. None of these is a religious category, and none supports a figure of 1.27 crore Hindus.

@@ -72,10 +72,6 @@ Shelton, who lost the US Open final to Alexander Zverev, said he had been worn o
 
 He has **already qualified for the ATP Finals** in Turin, which run from November 15 to 22, and said he looked forward to sharing the week with his close friend Arthur Fils, who made the eight-man field for the first time on Wednesday.
 
-```photo
-{"n":1,"subject":"Tommy Paul","caption":"Tommy Paul, Shelton's quarter-final opponent, beat Quentin Halys earlier on Thursday.","alt":"Tommy Paul"}
-```
-
 ## An American quarter-final
 
 Shelton now meets **fellow American Tommy Paul on Friday**. The 12th seed ended Quentin Halys's run 7-6(3), 6-4 earlier in the day, a day after the Frenchman had saved four match points to beat Frances Tiafoe. Paul's result equals his best in Paris, from 2022.

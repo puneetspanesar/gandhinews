@@ -74,19 +74,11 @@ Tejpal was **acquitted by a Goa trial court in 2021**. The Bombay High Court's b
 
 Sibal attacked the prosecution case at its base. He argued that technical evidence showed the lift doors had **opened twice during the ride**, which he said did not fit the woman's account, and he questioned why the hotel's CCTV footage was never seized. He told the bench that she had given more than one version of events before the FIR was filed, and that Tejpal had stayed on bail for years without misusing it.
 
-```photo
-{"n":1,"subject":"Kapil Sibal","caption":"Senior advocate Kapil Sibal, who argued Tejpal's plea for suspension of his sentence.","alt":"Senior advocate Kapil Sibal"}
-```
-
 Mehta defended the High Court's findings. He pointed to the testimony of colleagues about **the woman's distress after the incident**, to messages Tejpal had sent and to an email of apology, and argued that this material supported the conviction. The bench's first look at the evidence, including the emails and messages, did not persuade it that the sentence should be put on hold.
 
 ## A case that has run for 13 years
 
 The complaint goes back to a Tehelka event in Goa in November 2013, when a junior journalist at the magazine accused Tejpal of sexually assaulting her in a lift at the hotel where the event was held. Tejpal denies the charge.
-
-```photo
-{"n":2,"subject":"Tushar Mehta","caption":"Solicitor General Tushar Mehta, who opposed the plea on behalf of the Goa government.","alt":"Solicitor General Tushar Mehta"}
-```
 
 For eight years after the incident Tejpal stood trial in Goa, and the acquittal of 2021 seemed to close the matter. The High Court's reversal in August turned it into a prison term. The Goa government is also reported to have asked the Supreme Court, in a separate plea, to **raise the sentence to life imprisonment**.
 

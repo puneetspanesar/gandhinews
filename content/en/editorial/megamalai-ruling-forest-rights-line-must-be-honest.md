@@ -60,10 +60,6 @@ The facts of the Megamalai case make the court's line easy to defend. The state'
 
 A law meant for the poorest and oldest forest communities should not be stretched to cover absentee growers. Every acre won by a non-resident cultivator through the Act makes it harder, politically, to defend the claims of people who do live there. The court was right to exclude 2,999 occupants who live outside the forest or only temporarily in it, and right to treat a critical tiger habitat as something that must come first.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court of India in New Delhi, where a bench of Justices Vikram Nath and Sandeep Mehta ruled on the Megamalai silk cotton case.","alt":"The Supreme Court of India building in New Delhi"}
-```
-
 ## Where the work begins
 
 The danger now lies in what follows. The order does not exclude the **1,595 permanent residents** who cultivate inside the forest. Their claims continue. They also sit in a case that began with a May 2026 order for time-bound eviction, rehabilitation and restoration of the whole landscape. A family that has farmed there for generations should not learn that the broader order has moved faster than its own claim.

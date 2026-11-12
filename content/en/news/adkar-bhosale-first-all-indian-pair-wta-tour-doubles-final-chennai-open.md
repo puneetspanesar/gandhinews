@@ -65,10 +65,6 @@ The second seeds came back in the second. The Indians missed chances to break in
 
 In the **super tie-break** Falkowska and Smith raced to 3-0, and the Indians slipped to 6-8 after a Bhosale double fault. She answered with a forehand winner past Smith. Adkar then produced a winning volley to earn match point and **sealed the win with a forehand down the line**.
 
-```photo
-{"n":1,"subject":"Sania Mirza","caption":"Sania Mirza won 43 doubles titles but none of them with an Indian partner.","alt":"Indian tennis great Sania Mirza (file photo)"}
-```
-
 ## What it means
 
 The level below the main tour has seen Indian pairs do well before. Ankita Raina and Karman Thandi won a **WTA 125 doubles title in 2018**, and Prarthna Thombare has reached three WTA 125 finals, all with the Dutch player Arianne Hartono.

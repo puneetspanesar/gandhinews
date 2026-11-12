@@ -99,7 +99,7 @@ verification:
 
 The Lok Sabha functioned for **15%** of its scheduled time in the Monsoon Session of 2026, and the Rajya Sabha for 33%, according to PRS Legislative Research. That is the lowest Lok Sabha figure in any session of the current, 18th Lok Sabha for which PRS figures were available to us. The previous low was the Monsoon Session of 2025, at 29%, which PRS then described as "the lowest functioning seen during the 18th Lok Sabha".
 
-The session ran from July 20 to August 13, 2026, and both Houses met on 19 days. Protests over the NEET-UG 2026 paper leak, and police action against student protesters, took up much of the session. Education Minister Dharmendra Pradhan resigned on July 25, Outlook reported. Opposition MPs repeatedly sought a discussion on the NEET-UG controversy and a statement from Home Minister Amit Shah, according to the same report.
+The session ran from July 20 to August 13, 2026, and both Houses met on 19 days. Protests over the NEET-UG 2026 paper leak, and police action against student protesters, took up much of the session. Education Minister Dharmendra Pradhan resigned on July 25. Opposition MPs repeatedly sought a discussion on the NEET-UG controversy and a statement from Home Minister Amit Shah, according to the same report.
 
 ```facts
 {"title":"Monsoon Session 2026 at a glance","items":[{"value":"19","label":"sittings in each House, July 20 to August 13","source":"PRS"},{"value":"15% / 33%","label":"Lok Sabha / Rajya Sabha productivity, share of scheduled time","source":"PRS"},{"value":"19% / 39%","label":"Lok Sabha / Rajya Sabha productivity, government figures","source":"Kiren Rijiju via Outlook; Rajya Sabha Chairman via PTI"},{"value":"9 min","label":"Question Hour in the Lok Sabha for the whole session","source":"PRS"}]}
@@ -107,7 +107,7 @@ The session ran from July 20 to August 13, 2026, and both Houses met on 19 days.
 
 ## Two sets of numbers
 
-The government's figures are higher. Parliamentary Affairs Minister Kiren Rijiju put **Lok Sabha productivity** at 19% and Rajya Sabha productivity at 39%, Outlook reported on August 13. Rajya Sabha Chairman C.P. Radhakrishnan gave the Upper House figure as 39.17%, or 37 hours and 49 minutes of sitting.
+The government's figures are higher. Parliamentary Affairs Minister Kiren Rijiju put **Lok Sabha productivity** at 19% and Rajya Sabha productivity at 39% on August 13. Rajya Sabha Chairman C.P. Radhakrishnan gave the Upper House figure as 39.17%, or 37 hours and 49 minutes of sitting.
 
 PRS measures the time each House actually worked against the time it was scheduled to sit. The reports we read do not say how the government's figures are calculated, so this report gives both.
 
@@ -129,7 +129,7 @@ Rijiju acknowledged the gap at the end of the session.
 >
 > Source: Kiren Rijiju, Union Minister of Parliamentary Affairs, August 13, 2026 (via Outlook)
 
-He also said that this was "not healthy for the parliamentary democracy", Outlook reported.
+He also said that this was "not healthy for the parliamentary democracy".
 
 Closing the Rajya Sabha, Radhakrishnan said: "As the 271st Session of the Rajya Sabha draws to a close, I reflect on its proceedings with deep concern." He added that "repeated disruptions ultimately affect the trust and aspirations of the people".
 

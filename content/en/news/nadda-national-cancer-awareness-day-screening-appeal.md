@@ -60,10 +60,6 @@ The minister's advice on daily habits was plain: **avoid tobacco and alcohol**, 
 
 For information on screening, he asked people to visit their nearest **Ayushman Arogya Mandir** or other health facility. The post gave no new figures or scheme announcements. The appeal is aimed at catching the three cancers named early, when treatment is most likely to work, and at getting people to a health facility before symptoms become serious.
 
-```photo
-{"n":1,"subject":"Tata Memorial Hospital","caption":"Tata Memorial Hospital in Mumbai, one of the country's best-known cancer centres.","alt":"Tata Memorial Hospital, Mumbai"}
-```
-
 ## Cost of treatment in the news
 
 The day comes weeks after the Centre told the Supreme Court it will cap trade margins on cancer medicines at 30% of the maximum retail price, a step the government expects to cut prices of these drugs by 20% to 70%. The court has asked why the cap is limited to cancer drugs.

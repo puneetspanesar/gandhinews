@@ -78,17 +78,9 @@ His place goes to **Nick Kelly, a left-handed top-order batter** who had been na
 
 Born in Melbourne, Kelly has played **six ODIs, scoring 198 runs** with a best of 83 against Bangladesh in April 2026, and he brings 14 first-class hundreds with him.
 
-```photo
-{"n":1,"subject":"Devon Conway","caption":"Devon Conway, New Zealand's opener, is out of the series after a concussion suffered in training at Eden Park.","alt":"New Zealand batter Devon Conway"}
-```
-
 There was better news about Henry. The fast bowler, who also took a blow in the collision, sat out the first ODI as a precaution. Further checks found **no concussion and no lingering injury**, and he is in contention to return to the attack at the Wellington Regional Stadium.
 
 Mitchell Santner's side need the lift. They were already without Rachin Ravindra and Mark Chapman, both out of the series, and were **bowled out for 185** at Eden Park, where Arshdeep Singh took four wickets and Gurnoor Brar three.
-
-```photo
-{"n":2,"subject":"Matt Henry","caption":"Fast bowler Matt Henry has been cleared after the training collision and could return in Wellington.","alt":"New Zealand fast bowler Matt Henry"}
-```
 
 ## India one win from a firm grip
 

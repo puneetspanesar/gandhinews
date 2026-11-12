@@ -76,10 +76,6 @@ Food and Civil Supplies Minister **Rizwan Arshad released the results on Friday*
 
 Arshad said nearly four in five samples were above 20%. He said the state began testing after motorists complained of poorer mileage and frequent repairs, and that the oil companies' own lab reports did not disclose ethanol content. Karnataka has asked the Centre to act against companies that supply petrol above 20% ethanol, to put the blend on a label at every pump and to set up a way to compensate affected vehicle owners. The state estimates the burden on consumers at about **₹1.01 lakh crore a year**, made up of roughly ₹62,000 crore in lost mileage and ₹39,000 crore in repairs.
 
-```photo
-{"n":1,"subject":"Rahul Gandhi","caption":"Rahul Gandhi, Leader of the Opposition in the Lok Sabha, took up Karnataka's findings on Saturday.","alt":"Rahul Gandhi"}
-```
-
 ## The companies' reply
 
 IOCL, HPCL and BPCL said none of their representatives took part in collecting the samples, that they had asked for retained samples, outlet-wise details and lab reports and not received them, and that the results came from a third-party laboratory and not one named in the fuel control order. They said the test certificates did not give the method, and they argued that the densities reported, 0.742 to 0.749 g/cc, do not fit ethanol levels as high as claimed.
@@ -89,9 +85,5 @@ Their own figures point the other way. Under monitoring by the Centre for High T
 ## Politics of the row
 
 Rahul Gandhi took the matter up in a Hindi post on X on Saturday morning. "E20 turned into 420 - stealing petrol from the public's cars!" he wrote, referring to the old Indian Penal Code section on cheating. He said **11 of 14 samples** exceeded 20% and asked Prime Minister Narendra Modi how much ethanol is actually in petrol and when action would follow against companies mixing more than 20%.
-
-```photo
-{"n":2,"subject":"Hardeep Singh Puri","caption":"Union Petroleum Minister Hardeep Singh Puri, whom Karnataka has asked to explain how petrol above 20% ethanol reached pumps.","alt":"Hardeep Singh Puri"}
-```
 
 Arshad has called on Union Ministers Hardeep Singh Puri and Nitin Gadkari to explain. In October Puri described concerns about E20 as a "contrived narrative", and the Centre has said 20% remains the target. No separate statement from the Petroleum Ministry on Karnataka's findings had been issued by early afternoon on Saturday.

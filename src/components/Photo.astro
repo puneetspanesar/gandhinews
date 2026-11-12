@@ -34,8 +34,9 @@ const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: tr ?
 const src = fetched?.src ?? Astro.props.src;
 // Two widths exist for every fetched photo (640 and 1280); the browser picks by slot width and screen density.
 const srcset = fetched?.src800 && fetched.src800 !== src ? `${fetched.src800} 640w, ${src} 1280w` : undefined;
+// Small slots on a phone (owner, November 12): ask for half the screen width, so a phone loads the 640 file and not the 1280 one for every card.
 // Large slots display at about 800 to 860px on desktop: ask for that, so the browser loads the 1280 file (not an upscaled 640).
-const sizes = size === 'lg' ? '(max-width: 700px) 100vw, 860px' : '(max-width: 600px) 100vw, 320px';
+const sizes = size === 'lg' ? '(max-width: 700px) 100vw, 860px' : '(max-width: 600px) 50vw, 320px';
 // A detailed infographic is unreadable on a phone: phones get its thumb version (one figure, large type) instead.
 const mob: any = size === 'lg' && base?.graphic && base?.thumb ? (base.thumb[lang] ?? base.thumb.en) : null;
 const credit = fetched ? [fetched.credit, fetched.licence].filter(Boolean).join(', ') : Astro.props.credit;

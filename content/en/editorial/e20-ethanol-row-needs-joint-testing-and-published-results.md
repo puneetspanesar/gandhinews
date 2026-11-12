@@ -97,7 +97,3 @@ A fuel programme that asks a billion people to trust the pump should be the firs
 ```facts
 {"title":"The reporting behind this view","items":[{"value":"63","label":"petrol samples tested by Karnataka, with ethanol from 13.5% to 31.2% (results released November 6, 2026)"},{"value":"893","label":"E20 samples from 27 states and UTs that the oil companies say fell between 19% and 21%"},{"value":"₹1.01 lakh crore","label":"yearly cost to consumers estimated by Karnataka, a figure the companies call speculative"}]}
 ```
-
-```photo
-{"n":1,"subject":"Indian Oil Corporation","caption":"Indian Oil, with HPCL and BPCL, rejected Karnataka's finding on November 7 and asked for joint testing of counterpart samples.","alt":"Indian Oil Corporation"}
-```

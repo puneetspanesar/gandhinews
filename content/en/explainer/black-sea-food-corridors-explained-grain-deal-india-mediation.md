@@ -68,19 +68,11 @@ verification:
 
 A Joint Coordination Centre in Istanbul, staffed by the UN, Ukraine, Russia and Turkey, tracked the loading and inspected inbound ships to check they carried no weapons. Under the deal, **about 32.9 million tonnes of food** moved out, with more than half going to developing countries.
 
-```photo
-{"n":1,"subject":"Dolmabahçe Palace","caption":"Istanbul's Dolmabahce Palace, where the grain deal was signed in July 2022.","alt":"The Dolmabahce Palace in Istanbul (file photo)"}
-```
-
 ## Why did it end?
 
 **Russia said its side of the bargain was never delivered.** In July 2023 Moscow refused to extend the deal. It listed conditions: an end to sanctions on its agricultural bank, supplies of farm machinery and parts, relief on insurance and the restart of an ammonia pipeline to Odesa. Kremlin spokesperson Dmitry Peskov said the deal's effect had ended because the parts concerning Russia had not been carried out.
 
 Ukraine did not stop shipping. From August 2023 it opened **its own temporary channels** along the coast, without Russia's consent, and kept some exports moving under the threat of attack.
-
-```photo
-{"n":2,"subject":"Chornomorsk","caption":"The port of Chornomorsk near Odesa, one of the three ports in the 2022 deal.","alt":"The Black Sea port of Chornomorsk in Ukraine (file photo)"}
-```
 
 ## Why is it back in the news?
 
@@ -91,10 +83,6 @@ Zelenskyy said after a call with Prime Minister Narendra Modi on Monday, Novembe
 ## What has India said?
 
 **Not that.** Modi's post called the call "productive" and spoke of India's commitment to "contributing in every possible way" to peace. Neither it nor the Prime Minister's Office statement mentioned food corridors. On October 4, 2026 External Affairs Minister S Jaishankar had said Delhi was in touch with both Moscow and Kyiv about restoring safe navigation, "starting with the Black Sea safety of shipping issue".
-
-```photo
-{"n":3,"subject":"S. Jaishankar","caption":"External Affairs Minister S Jaishankar, who said on October 4, 2026 that India was in touch with Moscow and Kyiv on Black Sea shipping.","alt":"External Affairs Minister S Jaishankar (file photo)"}
-```
 
 ## Why India, and what are the limits?
 

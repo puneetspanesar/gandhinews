@@ -64,10 +64,6 @@ The letter E and the number show the share of ethanol. E10 is 10% ethanol, E20 i
 
 **Through a government blending programme that began from a base of under 1.5%.** According to the Press Information Bureau's fact sheet of July 5, 2026, the blend rose from under 1.5% in 2013-14 to 20% in 2025-26, five years ahead of the original 2030 target. Ethanol procurement grew from about 38 crore litres to a projected figure of over 1,200 crore litres, and ethanol production capacity from 421 crore litres in 2014 to about 2,000 crore litres in 2026.
 
-```photo
-{"n":1,"subject":"Sugarcane harvesting India","caption":"Sugarcane is one of the farm crops from which India's ethanol is made.","alt":"Sugarcane being harvested in India"}
-```
-
 ## Why does the government want it?
 
 **To import less crude oil and pay farmers more.** India imports about 88.5% of its crude oil. The fact sheet says blending has saved over ₹1.90 lakh crore in foreign exchange since 2014-15, substituted more than 310 lakh tonnes of crude, and put over ₹1.60 lakh crore into farmers' hands. It also credits the programme with cutting about 930 lakh tonnes of carbon dioxide.
@@ -84,10 +80,6 @@ The sheet adds a caveat: ethanol was cheaper than petrol in 2020-21, but the pri
 
 Many drivers of older cars disagree. Karnataka's food and civil supplies minister, Rizwan Arshad, said the state began testing after motorists complained of poorer mileage and frequent repairs.
 
-```photo
-{"n":2,"subject":"Rizwan Arshad","caption":"Karnataka minister Rizwan Arshad released the state's test results on November 6.","alt":"Rizwan Arshad"}
-```
-
 ## What did Karnataka find?
 
 **Readings between 13.5% and 31.2%.** On November 6 the state said it had drawn 63 petrol samples in Bengaluru, Bengaluru Rural, Kolar, Chikkaballapura, Ramanagara, Tumakuru and Mangaluru and tested them at the Shriram Research Institute in Bengaluru. The highest, **31.2%, was an Indian Oil sample**, and an HPCL sample read 30.5%. The minister said nearly four in five samples were above 20%.
@@ -99,10 +91,6 @@ Karnataka has asked the Centre to act against suppliers of petrol above 20%, to 
 **That the state's samples were collected and tested without them.** Indian Oil, HPCL and BPCL say no representative took part, the laboratory is not one named in the fuel control order, and the test certificates do not state the method. They also say the densities the state reported do not fit ethanol levels so high.
 
 The companies point to their own monitoring: all **893 samples from 27 states and Union Territories fell between 19% and 21%**, including 56 from Karnataka averaging 19.30%. They have asked the state for complete sampling records and joint testing at an authorised laboratory. Opposition leader Rahul Gandhi has taken up Karnataka's claim and asked the Prime Minister how much ethanol is in petrol.
-
-```photo
-{"n":3,"subject":"Hardeep Singh Puri","caption":"Union Petroleum Minister Hardeep Singh Puri, whom Karnataka has asked to explain how petrol above 20% reached pumps.","alt":"Hardeep Singh Puri"}
-```
 
 ## What happens next?
 

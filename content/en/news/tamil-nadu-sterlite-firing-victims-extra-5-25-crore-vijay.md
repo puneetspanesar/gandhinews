@@ -88,10 +88,6 @@ The Aruna Jagadeesan Commission, appointed on May 23, 2018, **submitted its fina
 
 The new order brings the money in line with those two figures. It does not touch the question of action against officials.
 
-```photo
-{"n":1,"subject":"Sterlite Copper","caption":"The Sterlite Copper smelter at Thoothukudi, whose closure the 2018 protest demanded.","alt":"The Sterlite Copper smelter at Thoothukudi"}
-```
-
 ## What is still in court
 
 The accountability demand is before the Madurai Bench of the Madras High Court. Petitioners led by K. Kathiresan of PP Kulam, Madurai, want criminal cases against those responsible and payment of the balance compensation. In the hearing, **Advocate General told the bench** there was no statutory obligation on the government to implement the commission's recommendations in their entirety. The state's affidavit said disciplinary action against Mr. Venkatesh and two senior police officers had been dropped under the previous DMK government, and the present government declined to reconsider it. For the then Thoothukudi Superintendent of Police, P. Mahendran, the government told the inquiry authority to resubmit its report with findings on the charges.

@@ -91,7 +91,3 @@ Delhi has seen this before. The people who died on Thursday were under a roof th
 ```facts
 {"title":"The reporting behind this view","items":[{"value":"June 15","label":"date of the Hauz Qazi police letter to the MCD on unauthorised construction at the property"},{"value":"6","label":"people dead in the November 5, 2026, collapse in Gali Sitara"},{"value":"4","label":"arrested, including the owner, under BNS sections 105 and 290; two MCD engineers suspended"}]}
 ```
-
-```photo
-{"n":1,"subject":"Dr. Shyama Prasad Mukherjee Civic Centre","caption":"The MCD headquarters in New Delhi. The corporation says it received the June 15 police letter at its City-SP Zone.","alt":"The MCD headquarters, the Civic Centre, in New Delhi"}
-```

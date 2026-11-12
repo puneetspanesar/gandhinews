@@ -53,10 +53,6 @@ Speaking to reporters in Kolkata, Adhikari pointed to the vandalism of police ou
 
 Adhikari said the state has about **105 police personnel per 100,000 people**, which he called one of the lowest ratios in the country. He said 29,000 police appointments are under way, with 131 Sub-Inspector and Assistant Sub-Inspector posts to be filled in December and 4,000 constables in January. He credited the push to the clearing of legal hurdles over the OBC and EWS categories. The state has also asked the Centre for two more Indian Reserve Battalions, which await central approval.
 
-```photo
-{"n":1,"subject":"Asansol","caption":"Asansol in West Bengal, where police outposts were vandalised.","alt":"A view of Asansol city"}
-```
-
 ## Opposition charge
 
 The warning came on a day the Trinamool Congress accused the police of failing to stop an alleged attack on Abhishek Banerjee's Kolkata residence at around 2 am on Saturday. TMC MP Kirti Azad claimed the police escorted the attackers instead of arresting them. West Bengal minister Dilip Ghosh rejected the allegations. The claims have not been independently confirmed.

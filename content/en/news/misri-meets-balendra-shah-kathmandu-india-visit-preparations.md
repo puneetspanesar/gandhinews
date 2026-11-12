@@ -74,10 +74,6 @@ Misri conveyed Prime Minister Narendra Modi's greetings and **briefed Shah on In
 
 Misri also said that **preparations to run the Ayodhya-Janakpur train** in Nepal were complete; Nepal's Prime Minister's Office said a trial run had taken place that day.
 
-```photo
-{"n":1,"subject":"Singha Durbar","caption":"Singha Durbar in Kathmandu, seat of Nepal's government, where Misri called on Prime Minister Shah on November 5, 2026.","alt":"Singha Durbar, Kathmandu (file photo)"}
-```
-
 According to the Prime Minister's Office, Shah **thanked the Government of India for its prompt support** after the Rasuwa-Bhotekoshi floods, when India sent relief material and a rescue team, and praised Modi's solidarity. He also asked about working with India to develop Nepal's sports sector.
 
 On Wednesday, Misri held delegation-level talks with his counterpart Amrit Bahadur Rai and called on Foreign Minister Shisir Khanal, Finance Minister Swarnim Wagle, Energy Minister Biraj Bhakta Shrestha and Infrastructure Development Minister Sunil Lamsal. On Thursday he met members of Nepal's parliament, and was reported to have met Rastriya Swatantra Party president Rabi Lamichhane.

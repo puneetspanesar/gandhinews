@@ -62,10 +62,6 @@ The Air Quality Early Warning System for Delhi, run by the Indian Institute of T
 
 The India Meteorological Department expects mainly clear skies with shallow fog or mist in the morning and temperatures between 15 and 30 degrees Celsius. It has issued no weather warning for Delhi for the next seven days, so no rain or strong wind is forecast to clear the air.
 
-```photo
-{"n":1,"subject":"Anand Vihar","caption":"Anand Vihar, where the air quality station read 272 at 8 am on Saturday.","alt":"Anand Vihar bus terminal area in Delhi"}
-```
-
 ## Curbs in force
 
 GRAP Stage III came into force on Friday as a precaution, four days after Stage II. It restricts older, more polluting vehicles and bars construction and demolition work across the National Capital Region, including road construction, drilling, piling and excavation. Hybrid classes are recommended for junior students.

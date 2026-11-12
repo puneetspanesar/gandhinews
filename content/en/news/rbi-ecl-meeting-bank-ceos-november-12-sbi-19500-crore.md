@@ -84,10 +84,6 @@ Banks need not take the whole one-time charge against capital at once. The extra
 
 SBI will use the four-year option. It estimates the effect on its common equity tier 1 (CET1) capital at **40 to 50 basis points**. Its CET1 ratio stood at 13.34% and its capital adequacy ratio at 16.02% at the end of September.
 
-```photo
-{"n":1,"subject":"Challa Sreenivasulu Setty","caption":"SBI chairman C S Setty said the RBI wants feedback from bank CEOs on readiness.","alt":"C S Setty, chairman of State Bank of India"}
-```
-
 ## What other banks expect
 
 Other public sector lenders have given their own figures. Canara Bank has put the impact at ₹12,000 to 15,000 crore, and Bank of Baroda at about ₹12,500 crore. PNB expects about ₹8,000 crore, Union Bank of India ₹5,500 crore, Indian Bank about ₹3,500 crore and Indian Overseas Bank about ₹3,000 crore.

@@ -71,10 +71,6 @@ Smaller districts have a lighter load. Alluri district, for example, is counting
 
 Because the ballots are counted by hand and MPTC and ZPTC votes are kept apart, **seat-by-seat results will come through the day and into the night**. Officials have not fixed a single time for the first results: expectations range from around noon to the afternoon. The MPTC picture is expected by about 3 pm and the ZPTC picture by about 7 pm.
 
-```photo
-{"n":1,"subject":"Anil Chandra Punetha","caption":"State Election Commissioner Anil Chandra Punetha, who has said arrangements were made so that counting proceeds smoothly, transparently and peacefully.","alt":"Anil Chandra Punetha, Andhra Pradesh State Election Commissioner"}
-```
-
 ## What happens next
 
 Results will be posted on the commission's website, sec.ap.gov.in. Once the seats are decided, the posts of mandal parishad presidents and zilla parishad chairpersons will be filled in elections scheduled for November 11 and 12.

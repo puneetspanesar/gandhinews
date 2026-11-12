@@ -52,10 +52,6 @@ The best finish came in women's skeet, where **Ganemat Sekhon placed 13th** with
 
 The men's skeet squad fared worse. **Bhavtegh Singh Gill shot 119 to finish 24th**, the highest of the three Indians, with Anantjeet Singh Naruka just behind him in 25th. Mairaj Ahmed Khan finished 46th.
 
-```photo
-{"n":1,"subject":"Anantjeet Singh Naruka","caption":"Anantjeet Singh Naruka finished 25th in men's skeet, one place behind Bhavtegh Singh Gill.","alt":"Indian skeet shooter Anantjeet Singh Naruka"}
-```
-
 ## Pistol pairs fall away
 
 In the 10m air pistol mixed team event, India's two pairs never threatened the final. **Suruchi Singh and Jaypal Malviya were 21st** with 574 and 14 inner tens. Both had come into the event in form: Suruchi reached the individual women's final earlier in the week, and Jaypal won silver in the men's 10m air pistol.

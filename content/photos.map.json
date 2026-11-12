@@ -45226,7 +45226,19 @@
   "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
   "page": null,
   "srcWidth": 1280,
-  "notreat": "collage tiles pulled other courts (Andhra HC); two-panel CJI cover shown as taken"
+  "treated": {
+   "src": "/photos/t-sc-digital-arrest-whatsapp-intermediaries-measures-november--1280.jpg",
+   "src800": "/photos/t-sc-digital-arrest-whatsapp-intermediaries-measures-november--640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-cases-tracker",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+    "gst-return-forms-gstr-1-amended-consultation-november-1"
+   ],
+   "kind": "photo",
+   "subj": "bfffbfb3920c6020",
+   "credit": "Photos: Supreme Court of India; Subhashish Panigrahi / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "india-a-nz-a-lincoln-third-test-draw-series-level": {
   "id": "i-india-a-nz-a-lincoln-third-test-draw-series-level",

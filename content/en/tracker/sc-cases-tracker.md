@@ -40,7 +40,7 @@ verification:
     - "Sabarimala: LiveLaw (Aug 11) and Kerala Kaumudi (Aug 12) reported the verdict could come by Oct 6, 2026. No verdict was found in searches on Oct 11, 2026. Check the Supreme Court cause list before publishing."
     - "Mines: the states' challenge to the MMDR (Amendment) Act, 2026 was announced on Aug 20, 2026; we found no report that it was filed or listed."
     - "Bench sizes for the transgender amendment and Deputy Speaker matters are not stated in sources and are left blank."
-    - "Court orders were not opened directly; case details come from Supreme Court Observer, LiveLaw, Business Standard and PRS as listed in the data file."
+    - "Court orders were not opened directly; case details come from the published reports listed in the data file."
 ---
 
 The Supreme Court under Chief Justice Surya Kant has a full docket of cases that bear on how India is governed. This tracker follows 11 of them.
@@ -55,4 +55,4 @@ Bench size refers to the bench that last dealt with the case. Where a source doe
 
 ## Source note
 
-Details come from Supreme Court Observer, LiveLaw, Kerala Kaumudi, Business Standard, Khaitan & Co and PRS Legislative Research, each named in the data file with its date and link. We have not relied on court orders directly. We update this page after each major hearing or judgment.
+Details come from court trackers, legal and news reports and PRS Legislative Research; each source is listed in the data file with its date and link. We have not relied on court orders directly. We update this page after each major hearing or judgment.

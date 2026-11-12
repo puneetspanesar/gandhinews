@@ -73,10 +73,6 @@ The Bombay High Court on Thursday **cancelled the bail granted to Sachin Waze**,
 
 A division bench of **Justices Girish Kulkarni and Neela Gokhale** read out only the operative part of its verdict in open court. "Special court's order is quashed and set aside... Appeal by NIA is allowed," the bench said. The detailed judgment, which will set out the court's reasons, has not yet been released.
 
-```photo
-{"n":1,"subject":"Bombay High Court","caption":"The Bombay High Court, where a division bench allowed the NIA's appeal against Sachin Waze's bail on November 5, 2026.","alt":"The Bombay High Court building in Mumbai (file photo)"}
-```
-
 ## A bail that never took effect
 
 A special NIA court had granted Waze bail on **September 29**. The judge questioned whether terror charges under the Unlawful Activities (Prevention) Act could apply, noting that the Ambani family had carried on its normal routine, that nothing on record showed any member of the family had been terrorised and that no statements had been recorded from the family.
@@ -92,10 +88,6 @@ Senior Advocate V M Thorat, for Waze, said that even on the NIA's own case, stag
 ## The case
 
 On **February 25, 2021**, a Scorpio carrying gelatin sticks and a threat letter was found near Antilia, Mukesh Ambani's home in south Mumbai. Hiran, who had said the vehicle was stolen from him a week earlier, was found dead in a creek in Thane on March 5.
-
-```photo
-{"n":2,"subject":"Antilia (building)","caption":"Antilia, Mukesh Ambani's residence in south Mumbai, near which the explosives-laden Scorpio was found in February 2021.","alt":"Antilia, the Ambani residence in Mumbai (file photo)"}
-```
 
 Waze, then a Mumbai Police officer, at first led the investigation himself. The case moved to the state Anti-Terrorism Squad and then to the NIA, which **arrested Waze on March 13, 2021**. Former encounter specialist Pradeep Sharma, constable Vinayak Shinde, bookie Naresh Gore, assistant inspector Riyazuddin Qazi and Sunil Mane are among the others accused. All face murder charges and offences under the UAPA.
 

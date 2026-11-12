@@ -57,7 +57,7 @@ Vehicles carrying supporters to the INDIA bloc rally were **caught in a heavy ja
 The hold-ups gave opposition leaders a fresh charge. Shiv Sena (UBT) MP Sanjay Raut, arriving for what he called a "mega rally" shortly after noon, alleged that people were being stopped from reaching Delhi and that **trains and buses had been held up**. He said the opposition would keep up its agitation until Chief Election Commissioner Gyanesh Kumar resigned.
 
 ```photo
-{"n":1,"subject":"Delhi–Gurgaon Expressway","caption":"The Delhi-Gurugram highway, where rally-bound vehicles were stuck in a jam at the Sarhaul border.","alt":"Delhi-Gurgaon Expressway"}
+{"n":1,"subject":"Delhi-Gurgaon Expressway","caption":"The Delhi-Gurugram highway, where rally-bound vehicles were stuck in a jam at the Sarhaul border.","alt":"Delhi-Gurgaon Expressway"}
 ```
 
 Samajwadi Party MP **Rajeev Rai made a similar charge**. "Buses are being intercepted at state borders, checkpoints have been set up," he said. His party colleague Iqra Hasan said attending the rally was "our fundamental right" and added: "Today, we will show those in power that this issue is not limited to political parties."

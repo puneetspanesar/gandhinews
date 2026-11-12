@@ -78,10 +78,6 @@ The numbers do not have to match. In September 2022, more than 200 Ukrainian pri
 
 Volodymyr Zelenskyy had earlier floated **1,000 for 1,000, or 1,500 for 1,500**. Neither government has confirmed that range. The two sides were to settle the numbers on Thursday, November 12, 2026.
 
-```photo
-{"n":1,"subject":"Rustem Umerov","caption":"Rustem Umerov, who heads Ukraine's delegation in Abu Dhabi and said another swap had been agreed.","alt":"Ukrainian delegation head Rustem Umerov (file photo)"}
-```
-
 ## Who decides the numbers and who is on the list?
 
 **In practice, Ukraine's Coordination Headquarters and officials in Russia.** The Headquarters, set up in March 2022, is a body of Ukraine's Cabinet that coordinates the agencies involved. Russia has no single body: its side has typically included the Defence Ministry, the FSB and the prison service.
@@ -103,10 +99,6 @@ The flow has not been steady. Exchanges stopped from August 2023 until January 2
 **Because they cost neither side territory.** The Third Geneva Convention requires prisoners of war to be released and sent home once active hostilities end, but nothing in a ceasefire or border deal is needed to swap them while the fighting goes on. Each side gets its soldiers back, and the families of those held press their governments to agree.
 
 The swaps also run on a track separate from the political one. The February swap came with no joint political or security statement, and no narrowing of differences on territory or a ceasefire. Kushner said this week that **deep distrust** between the two sides remains the main obstacle to a wider deal.
-
-```photo
-{"n":2,"subject":"Volodymyr Zelenskyy","caption":"President Volodymyr Zelenskyy, who has said an exchange of 1,000 for 1,000 or 1,500 for 1,500 is under discussion.","alt":"Ukrainian President Volodymyr Zelenskyy (file photo)"}
-```
 
 ## Who is hardest to bring home?
 

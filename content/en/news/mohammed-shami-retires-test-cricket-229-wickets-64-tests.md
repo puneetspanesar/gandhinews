@@ -64,10 +64,6 @@ Shami's first Test was an immediate success. He took **4 for 71 and 5 for 47** a
 
 One of his best-known days with the bat came at Lord's in August 2021, when he made an unbeaten 56 off 70 balls and put on 89 for the ninth wicket with Jasprit Bumrah. India declared at 298 for 8, then bowled England out for 120 to win by 151 runs.
 
-```photo
-{"n":1,"subject":"Eden Gardens","caption":"Eden Gardens in Kolkata, where Shami made his Test debut on November 6, 2013.","alt":"Eden Gardens cricket stadium, Kolkata"}
-```
-
 ## The last Test and what next
 
 His final Test was the 2021-23 World Test Championship final against Australia at The Oval, where he took 2 for 122 and 2 for 39 in a 209-run defeat. Injuries kept him out of the Test side after that.

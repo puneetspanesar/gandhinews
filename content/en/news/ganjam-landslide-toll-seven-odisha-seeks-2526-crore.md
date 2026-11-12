@@ -77,10 +77,6 @@ The village has no road. It can be reached only on foot, through Kandhamal, whic
 
 "The entire administration stands in solidarity with the families of victims," Vedbhushan said. "We will ensure that the necessary compensation is provided to the next of kin of the victims."
 
-```photo
-{"n":1,"subject":"NDRF rescue Odisha","caption":"Teams of the National Disaster Response Force are among those searching the hill at Ghidipabali (file photo).","alt":"NDRF rescue team at work in Odisha (file photo)"}
-```
-
 Thirteen villagers escaped and are staying at a relief camp in Kilapanga Primary School in Kandhamal. Rinima Malik, 26, who lost her husband and other relatives, has two children and has asked the government to resettle the survivors. "I do not want to return to Ghidipabali where I lost my husband and other relatives," she said.
 
 Disaster Management Minister Suresh Pujari has said the government will **build houses and rehabilitate the village's residents**. That work will fall to the Ganjam administration. Counting the floods and the landslide, Cyclone Arnab has now claimed **11 lives** in Odisha.
@@ -90,10 +86,6 @@ Disaster Management Minister Suresh Pujari has said the government will **build 
 Earlier on Thursday, the state asked the Centre for **₹2,526 crore** in assistance for the damage from Arnab and the floods that followed in Ganjam, Gajapati and Kandhamal. It has also sought a further ₹10,000 crore as special assistance for long-term measures to stop floods doing the same damage year after year, Special Relief Commissioner Rajesh Prabhakar Patil said.
 
 The demands were placed before an eight-member central team led by Ravi Shankar, a joint secretary in the Union Home Ministry, after it toured flood-hit parts of Gajapati and Ganjam and met Chief Minister Mohan Charan Majhi. The team walked through paddy fields ruined close to harvest, breached embankments along the **Rushikulya river** and washed-away roads and bridges.
-
-```photo
-{"n":2,"subject":"Rushikulya River","caption":"The central team inspected breached embankments along the Rushikulya river in Ganjam, where floods left sand and silt on fields and homes.","alt":"The Rushikulya river in Ganjam district, Odisha"}
-```
 
 "Odisha frequently faces natural calamities such as floods, cyclones and heatwaves," Majhi told the team, pressing for cyclone- and flood-resistant infrastructure. Ravi Shankar said several houses had become structurally weak in the floods though they had not collapsed, and that most roads had been restored for traffic. The team suggested long-term desilting of the Rushikulya.
 

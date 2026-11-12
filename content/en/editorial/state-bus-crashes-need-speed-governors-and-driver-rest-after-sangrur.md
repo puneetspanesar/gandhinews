@@ -68,10 +68,6 @@ A person who takes a private car chooses the driver. A person who boards a state
 
 At present, nobody outside the corporation can answer those questions. That is the failure, whatever the inquiry finds.
 
-```photo
-{"n":1,"subject":"Rajindra Hospital, Patiala","caption":"Rajindra Hospital in Patiala, where 15 of the injured from the Sangrur crash were referred for specialist care.","alt":"Government Rajindra Hospital in Patiala, Punjab"}
-```
-
 ## The fair objection
 
 State transport undertakings run thin. Crews are short, routes are long, and early departures are what commuters ask for. Blaming a driver after the fact is easy, and a single crash does not prove a systemic fault. The police have not named a cause.

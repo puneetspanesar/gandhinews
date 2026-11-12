@@ -86,10 +86,6 @@ The PMO page for the call, dated November 9, says Zelenskyy briefed Modi on rece
 
 His post, as quoted, opens by saying he had briefed Modi on the latest diplomatic developments and that Kyiv was "actively preparing on every item on the agenda" for the talks in Abu Dhabi. The food corridor sentence follows. It is Zelenskyy's description of the call, and it is **not attributed to Modi** or to any Indian statement.
 
-```photo
-{"n":1,"subject":"Narendra Modi","caption":"Prime Minister Narendra Modi, whose office described the call as a readiness to contribute to peace efforts.","alt":"Prime Minister Narendra Modi"}
-```
-
 ### 3. Is it plausible?
 
 The claim is not baseless context. In early October, Ukraine's foreign minister, Andrii Sybiha, called India's truce proposal the most comprehensive of those before Kyiv, and reports describe its parts as including uninterrupted grain and energy shipments through Black Sea ports. India has not published that proposal. A general willingness to help on shipping may be what Zelenskyy means. But "mediate" is a specific role, and **India has not said it has taken it on**.

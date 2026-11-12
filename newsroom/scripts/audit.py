@@ -33,7 +33,11 @@ OUTLETS_EN = ['NDTV', 'PTI', 'ANI', 'IANS', 'UNI', 'Reuters', 'AFP', 'AP', 'Asso
               'Mint', 'LiveMint', 'Moneycontrol', 'News18', 'Republic', 'ETV Bharat', 'Deccan Herald', 'ThePrint', 'The Print', 'Scroll',
               'The Wire', 'LiveLaw', 'Bar and Bench', 'Financial Express', 'Firstpost', 'WION', 'Zee News', 'Aaj Tak', 'DSIJ', 'Upstox',
               'Kotak Neo', 'Goodreturns', 'Trendlyne', '5paisa', 'HDFC Sky', 'ChiniMandi', 'Washington Post', 'New York Times', 'Guardian',
-              'Financial Times', 'Wall Street Journal', 'Telegraph', 'Dawn', 'Xinhua', 'TASS', 'Kyodo', 'Yonhap']
+              'Financial Times', 'Wall Street Journal', 'Telegraph', 'Dawn', 'Xinhua', 'TASS', 'Kyodo', 'Yonhap', 'DD India', 'DD News', 'Doordarshan',
+              'BBC Radio 4', 'Sky News', 'Fox News', 'NBC News', 'CBS News', 'ABC News', 'CNBC', 'Politico', 'Axios', 'BusinessLine', 'The Tribune',
+              'Newslaundry', 'The Quint', 'Outlook', 'Free Press Journal', 'Times Now', 'India TV', 'ABP News', 'NewsOnAir', 'Akashvani News']
+# names that are also ordinary words: matched only with a reporting verb, never by a possessive or a programme name
+OUTLETS_AMBIG = {'PTI', 'AP', 'UNI', 'Mint', 'Republic', 'Scroll', 'Telegraph', 'Guardian', 'Dawn', 'Outlook', 'Upstox', 'Axios'}
 OUTLETS_HI = ['एनडीटीवी', 'पीटीआई', 'एएनआई', 'आईएएनएस', 'यूएनआई', 'रॉयटर्स', 'एएफपी', 'ब्लूमबर्ग', 'बीबीसी', 'अल जज़ीरा', 'अल जजीरा',
               'द हिंदू', 'हिंदुस्तान टाइम्स', 'टाइम्स ऑफ इंडिया', 'इंडियन एक्सप्रेस', 'इंडिया टुडे', 'बिजनेस स्टैंडर्ड', 'बिज़नेस स्टैंडर्ड',
               'इकोनॉमिक टाइम्स', 'मनीकंट्रोल', 'न्यूज़18', 'आज तक', 'दैनिक भास्कर', 'अमर उजाला', 'दैनिक जागरण', 'लाइव लॉ', 'ईटीवी भारत']
@@ -138,7 +142,10 @@ def numbers(text):
         if v >= 10 or mult > 1: out.add(f'{val:.6g}')
     return out
 
+# Rules of November 12, 2026 apply to stories written after the runs picked them up
+NEWRULES = dt.datetime(2026, 11, 12, 20, 0, tzinfo=dt.timezone(dt.timedelta(hours=5, minutes=30)))
 def lint_story(lang, sid, fm, twin):
+    newrules = bool(fm.get('_pub') and fm['_pub'] >= NEWRULES)
     rel, raw = fm['_rel'], fm['_raw']
     G = 'content'
     for k in ('id', 'lang', 'type', 'section', 'format_label', 'title', 'standfirst', 'published'):
@@ -177,15 +184,20 @@ def lint_story(lang, sid, fm, twin):
             if lang == 'hi' and HINDI_MONTH_FIRST:
                 for m in DAY_MONTH_HI.finditer(text):
                     fail(G, where, f'date "{m.group(0)}" in {field}: owner rule is month day year ("{m.group(2)} {m.group(1)}{", " + m.group(3) if m.group(3) else ""}")'); break
-        if TRACE_RE.search(text): fail(G, where, f'AI/tool trace "{TRACE_RE.search(text).group(0)}" in {field}')
+        # a story ABOUT the company or its models may name them (the audit of November 12 raised 61 false alarms)
+        about_ai = bool(re.search(r'anthropic|claude', sid + ' ' + ' '.join(str(x) for x in (fm.get('tags') or [])), re.I))
+        if TRACE_RE.search(text) and not (about_ai and re.fullmatch(r'Claude|Anthropic', TRACE_RE.search(text).group(0), re.I)): fail(G, where, f'AI/tool trace "{TRACE_RE.search(text).group(0)}" in {field}')
         if field in ('title', 'standfirst', 'body') or field.startswith('keyPoints'):
             names = OUTLETS_HI if lang == 'hi' else OUTLETS_EN
             for o in names:
                 if lang == 'en':
                     pat = rf'\b(?:according to|reported by|citing|told|said to|in an interview (?:with|to)|quoted by|as per|per a report (?:in|by))\s+(?:the\s+)?{re.escape(o)}\b|\b{re.escape(o)}\s+(?:reported|said|quoted|news agency)\b'
+                    # the editor's commonest catch (owner, November 12): an outlet's programme, interview or report named in passing
+                    pat2 = None if o in OUTLETS_AMBIG else rf"\b{re.escape(o)}(?:'s|’s)?\s+(?:interview|programme|program|show|podcast|report|channel)\b|\b{re.escape(o)}(?:'s|’s)\s+[A-Z]|\b(?:on|to|with|by)\s+(?:the\s+)?{re.escape(o)}\b(?! (?:Group|Ltd|Limited|Media|Network))"
                 else:
                     pat = rf'{re.escape(o)}\s*(?:के\s*(?:मुताबिक|अनुसार|हवाले)|ने\s*(?:बताया|रिपोर्ट|कहा)|से\s*बातचीत)|(?:मुताबिक|अनुसार)\s*{re.escape(o)}'
                 m = re.search(pat, text, re.I)
+                if not m and lang == 'en' and pat2: m = re.search(pat2, text)   # case matters here: 'a threat to India today' is not the magazine
                 if m: fail(G, where, f'outlet cited in the story text ({field}): "{m.group(0)}" (sources belong in the sources list)'); break
             if field == 'body' and re.search(r'^\s*(Sources?|स्रोत)\s*:\s*\[', text, re.M): fail(G, where, 'a "Source:" link line in the body shows outlet names to readers')
         for rx, label in AI_TELLS:
@@ -222,6 +234,24 @@ def lint_story(lang, sid, fm, twin):
         except ValueError as e: fail(G, f'{rel}:{line_of(raw, m.group(2)[:30])}', f'```{m.group(1)} block is not valid JSON: {e}')
         if FORBIDDEN_ICONS.search(m.group(2)): fail(G, rel, f'forbidden icon ({FORBIDDEN_ICONS.search(m.group(2)).group(0)}) in a ```{m.group(1)} block')
     if FORBIDDEN_ICONS.search(json.dumps(fm.get('infographic') or {})): fail(G, rel, 'forbidden icon (robot/sparkle) in the infographic block')
+    # Editor's rules moved to writing time (owner, November 12): a look-ahead that is already over, and one spelling per name in Hindi
+    up = (fm.get('upcoming') or {}).get('date') if isinstance(fm.get('upcoming'), dict) else None
+    if up and fm.get('_pub') and str(up)[:10] < str(fm['_pub'].date()): fail(G, rel, f'upcoming.date {str(up)[:10]} is before the story was published: the event or deadline has already passed')
+    if lang == 'hi' and newrules:
+        def _n(w):
+            w = w.replace('\u093c', '').replace('\u0901', '\u0902')
+            for a, b in (('\u093f', '\u0940'), ('\u0941', '\u0942'), ('\u0949', '\u093e'), ('\u0911', '\u0906')): w = w.replace(a, b)
+            return w
+        by = {}
+        for w in set(re.findall(r'[\u0900-\u0963\u0970-\u097F]{5,}', ' '.join(t for _, t in visible_fields(fm)))): by.setdefault(_n(w), set()).add(w)
+        for v in by.values():
+            if len(v) > 1: fail(G, rel, f'one word spelt two ways in the Hindi story: {" / ".join(sorted(v))} (pick one, as in hindi-glossary.md)'); break
+    # Search title (owner, November 12): headlines run to 100 characters and Google shows about 60
+    if newrules and fm.get('type') in ('news', 'explainer', 'factcheck', 'editorial'):
+        st = str((fm.get('seo') or {}).get('title') or '')
+        if not st: fail(G, rel, 'seo.title is missing: a search title of 60 characters or fewer with the words people would search (who, what, where)')
+        elif len(st) > 62: fail(G, rel, f'seo.title is {len(st)} characters (60 or fewer)')
+        elif st.rstrip().endswith(('...', '\u2026')): fail(G, rel, 'seo.title ends in dots')
     # Byline is a template constant; a story must not carry a personal byline
     if fm.get('author') or fm.get('byline'): fail(G, rel, 'stories carry no personal byline (From the editorial desk)')
 
@@ -251,6 +281,9 @@ def TOP_IDS():
         except (OSError, ValueError): _TOP = set()
     return _TOP
 
+NEW_IDS = set()      # stories this run wrote or changed (set in main for --new and --changed)
+try: LIB_NAMES = {v.get('en') for v in json.load(open(os.path.dirname(os.path.abspath(__file__)) + '/../library/people.json')).values()}
+except (OSError, ValueError): LIB_NAMES = set()
 def check_photos(root, S, scope):
     G = 'photos'
     try:
@@ -290,7 +323,10 @@ def check_photos(root, S, scope):
         if re.search(r'unknown author', cr, re.I): fail(G, f'photos.map.json[{sid}]', 'credit says "Unknown author" (CC BY needs a named author)')
         people = [x for x in ((fm.get('hero') or {}).get('subjects') or []) if re.fullmatch(r'[A-Z][a-z.]+(?: [A-Z][a-z.]+){1,3}', str(x)) and not PLACE_WORDS.search(str(x))]
         if e.get('graphic') and people:
-            warn(G, f'photos.map.json[{sid}]', f'infographic used although the story is about {people[:2]} (rule 9: a named person gets a photo)')
+            inlib = [p for p in people if p in LIB_NAMES]
+            if inlib and sid in NEW_IDS and (fm.get('_pub') and fm['_pub'] >= NEWRULES) and '7-day' not in str(e.get('nophoto') or ''):
+                fail(G, f'photos.map.json[{sid}]', f'infographic used although {inlib[0]} has portraits in the people library: python3 newsroom/scripts/one_photo.py {sid} --person "{inlib[0]}" (if every portrait was used in the last 7 days, build a cover with lead_cover.py or say "7-day rule" in --nophoto)')
+            else: warn(G, f'photos.map.json[{sid}]', f'infographic used although the story is about {people[:2]} (rule 9: a named person gets a photo)')
         if any(re.search(r'\b(logo|screenshot|stock photo|watermark)\b', str(e.get(k) or ''), re.I) for k in ('alt',)):
             warn(G, f'photos.map.json[{sid}]', f'alt mentions a logo/screenshot: "{e.get("alt")[:80]}"')
     # Reuse within 7 days: same source file, or a near-identical image, across ALL story types
@@ -645,6 +681,7 @@ def main():
         u = subprocess.run(['git', '-C', root, 'ls-files', '--others', '--exclude-standard', 'content/en', 'content/hi'], capture_output=True, text=True)
         if d.returncode != 0: print(f'audit: --changed needs git and origin/main: {d.stderr.strip()}'); sys.exit(2)
         recent = {os.path.basename(f)[:-3] for f in (d.stdout + u.stdout).split() if f.endswith('.md')}
+        NEW_IDS.update(recent)
     scope = recent if a.new else recent | on_home
     for lang in ('en', 'hi'):
         for sid in on_home:

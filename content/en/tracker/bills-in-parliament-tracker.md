@@ -55,4 +55,4 @@ A blank assent date means we have not confirmed it, not that assent was refused.
 
 ## Source note
 
-Stage dates are from PRS Legislative Research bill pages, accessed on October 11, 2026. PRS pages carry no publication date. Other sources are named in each row: LiveLaw for the delimitation vote, The News Minute and Onmanorama for Keralam, and News On AIR, ThePrint and the Sunday Guardian for committee deadlines. We update this page when a Bill moves.
+Stage dates are from PRS Legislative Research bill pages, accessed on October 11, 2026. PRS pages carry no publication date. Other sources are listed in each row of the data file. We update this page when a Bill moves.

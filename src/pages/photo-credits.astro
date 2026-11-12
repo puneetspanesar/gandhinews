@@ -14,7 +14,7 @@ const list = [...seen.values()];
       <ul class="pc-list">
         {list.map((p) => (
           <li id={p.id}>
-            <img src={p.src} alt={p.alt} loading="lazy" />
+            <img src={p.src800 ?? p.src} alt={p.alt} loading="lazy" decoding="async" width="160" height="107" />
             <div><b>{p.alt}</b>{p.credit.replace(/^Photo:\s*/, '')}. Licence: {p.licence}. <a href={p.page} rel="noopener" target="_blank">Original</a></div>
           </li>
         ))}

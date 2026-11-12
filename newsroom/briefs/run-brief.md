@@ -25,6 +25,20 @@ Use at most the WebSearch calls window.txt allows. Prefer WebFetch: section page
 - Pictures: Gandhi News pictures must show the actual PEOPLE or PLACE in the headline (NDTV style), as a two-panel split when the story has two named sides. hero.subjects[0] is ALWAYS the person who spoke or acted (the subject of the headline's verb); the person they attacked, answered or met is subjects[1]. Never list only the target. EVENT stories (weather, cyclone, flood, smog, fire, farm fires, landslide, quake, accident, collapse, strike, protest) get hero.subjects that show the event, as Wikimedia Commons searches: ["Chennai floods", "Chennai rain"], ["Delhi smog"], ["Stubble burning Punjab"], ["Cyclone Michaung"]. Never a landmark, temple, monument, building or city view for an event. Set hero.suggested_source to the main person's name exactly as on English Wikipedia (or the specific place), and add hero.subjects: a list of 1-2 names/places to show. Old rule follows for places only: hero.suggested_source: a short Wikimedia Commons search phrase specific to the story (a named person, building, stadium, city landmark, spacecraft, company HQ). Avoid generic phrases ("Indian parliament", "Connaught Place", "stock market") that were already used; check content/photos.map.json keys/ids isn't needed, just be specific.
 - Validate YAML of every file you write with the command in desk-addendum-v2.md. Never repeat a frontmatter key (e.g. two `verification:` blocks); that breaks the site build.
 
+## Picture first, then write (owner, November 12)
+Four in ten stories were going up on an infographic because the picture was looked for after the writing. Now the picture comes first:
+- Before you write a story, find its main picture with the steps under "Main picture" below (PIB, the people library, quick_photo). It takes a minute. Write the story only once you know what it will show.
+- Between two stories of equal weight, write the one with a real photo. A story about a person who is in the people library always gets that person's photo; the desk check fails it otherwise.
+- At most one story in four from your desk may go up on an infographic, and only when it has no person or place to show (index levels, a results table, a policy with numbers).
+
+## Before you hand back (owner, November 12)
+Run the desk check on your own files and fix everything it prints, so the editor is not the first to find it:
+`cd /home/claude/gandhinews && python3 newsroom/scripts/audit.py --new --skip home,site,style`
+It fails a story for: an outlet, its programme or its interview named in the text; an em dash; a date not written month day year; `upcoming.date` earlier than today; one name spelt two ways in the Hindi file; figures that differ between the English and Hindi; under 600 words; no bold key phrase; a missing or long `seo.title`; an infographic on a story about a library person.
+- `seo.title` (inside the `seo:` block, both languages): the search title, 60 characters or fewer, with the words a reader would type (who, what, where). A whole statement, never cut with dots. The headline itself can stay long.
+- Read your own Hindi file once for names: every person and place is spelt one way throughout, as in hindi-glossary.md.
+- Nothing in the story may already be over when it publishes: a deadline, hearing or match that has passed is written as what happened, or left out.
+
 ## Report back
 End with a compact list: `slug | section | lead/brief | one-line` for every story written (and any files updated). Nothing else.
 

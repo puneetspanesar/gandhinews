@@ -86,10 +86,6 @@ Fourth, make complaints easy. Resident welfare associations, doctors and neighbo
 
 None of this replaces the criminal case. If the allegations are proved, those responsible must face the full force of the Child and Adolescent Labour (Prohibition and Regulation) Act and the Juvenile Justice Act. But punishment arrives after the damage. The girl told the committee she wants to go back to school and become a teacher. Systems exist so that a child does not need to be rescued before she can say so.
 
-```photo
-{"n":1,"subject":"Shaheen Bagh","caption":"Shaheen Bagh in southeast Delhi, where the police station registered the case.","alt":"A street in Shaheen Bagh, Delhi"}
-```
-
 ```facts
 {"title":"The reporting behind this view","items":[{"value":"6 am to 2 am","label":"her daily working hours, as the girl told the Child Welfare Committee"},{"value":"₹18,000","label":"all she was paid in nearly a year, according to the NGO"},{"value":"0","label":"arrests reported so far, though a case is registered at Shaheen Bagh police station"}]}
 ```

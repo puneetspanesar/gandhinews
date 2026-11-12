@@ -85,10 +85,6 @@ US authorities suspect it helped China obtain advanced chips in breach of the re
 
 Three House chairmen asked Huang last week to brief Congress behind closed doors on **November 18**, and to reply by November 11.
 
-```photo
-{"n":1,"subject":"John Moolenaar","caption":"John Moolenaar chairs the House Select Committee on China and signed the letter asking Jensen Huang for a closed-door briefing on November 18.","alt":"US Representative John Moolenaar"}
-```
-
 ## Which bills are in Congress?
 
 **Four measures are in play, and none has become law.** The House Foreign Affairs Committee advanced three earlier this year, and all are candidates to ride on the annual defence authorization bill for fiscal 2027.
@@ -99,10 +95,6 @@ Three House chairmen asked Huang last week to brief Congress behind closed doors
 - The **Remote Access Security Act** would extend controls to cloud computing, stopping Chinese firms renting servers with advanced chips in third countries such as Malaysia. It passed the House in January and awaits the Senate.
 
 Senators Elizabeth Warren and Jim Banks have urged Congress to pass the AI Overwatch Act through the defence bill. "It is time for Congress to take decisive action," Warren said in a joint statement.
-
-```photo
-{"n":2,"subject":"Elizabeth Warren","caption":"Senator Elizabeth Warren has demanded answers from Nvidia and, with Senator Jim Banks, urged passage of the AI Overwatch Act.","alt":"US Senator Elizabeth Warren"}
-```
 
 ## Who is for and against?
 

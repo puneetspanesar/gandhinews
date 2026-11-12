@@ -59,10 +59,6 @@ The announcement came at the state-level **Rural Chowkidar Samman Samaroh** in P
 
 The government said the decisions take **effect immediately** and will add roughly ₹27 crore a year to the state's spending.
 
-```photo
-{"n":1,"subject":"Rahul Gandhi","caption":"Congress leader Rahul Gandhi, whose 'chowkidar chor hai' slogan Saini raised at the Panchkula event.","alt":"Congress leader Rahul Gandhi"}
-```
-
 Saini then brought back the **"chowkidar chor hai" slogan** that Gandhi used against Prime Minister Narendra Modi, and demanded that he apologise publicly for what he called an insult to the men who guard villages. Chowkidars protect villages and public property, he said, often working through the night in hard conditions, and the slogan showed disrespect for them.
 
 The Chief Minister also questioned whether Gandhi had the standing to make charges of corruption, pointing to the **big scandals of the Congress years** in power at the Centre.

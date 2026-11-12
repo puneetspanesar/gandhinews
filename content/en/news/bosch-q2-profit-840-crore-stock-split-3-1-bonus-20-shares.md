@@ -81,10 +81,6 @@ The stock touched a record ₹52,650 on the BSE on Friday, then slipped about 4%
 
 Before the announcement the stock had gained more than 20% in two weeks, from about ₹43,650. Its 52-week low was ₹28,541, reached in March 2026.
 
-```photo
-{"n":1,"subject":"Bombay Stock Exchange Building","caption":"Bosch is listed on the BSE, where its shares touched a record before easing on Friday.","alt":"The BSE building at Dalal Street, Mumbai"}
-```
-
 ## What happens next
 
 The postal ballot notice and record date are the next steps. Until shareholders approve, the split and bonus remain proposals, and the share price continues to trade on the current structure.

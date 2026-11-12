@@ -101,10 +101,6 @@ Lakshya Raichandani captains the 15-member side named by the BCCI on October 30,
 
 Raichandani, who led India's juniors against Australia in September, set out his approach when he was first given the job. "The team comes first. Everyone has to go along with the team, and the team will be ahead of the individual," he said on September 7.
 
-```photo
-{"n":1,"subject":"Al Amerat Cricket Ground","caption":"The Oman Cricket Academy grounds at Al Amerat are hosting every match of the tournament, with free entry for spectators.","alt":"Cricket ground at Al Amerat, Oman (file photo)"}
-```
-
 ## The opponents and the format
 
 Nepal, led by **Bipin Prasad Sharma**, also face the UAE and Pakistan in the group. Group B has Afghanistan, Bangladesh, Sri Lanka and Malaysia. The top two from each group reach the semi-finals on November 12.

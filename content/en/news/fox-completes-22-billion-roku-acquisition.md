@@ -73,7 +73,3 @@ Fox says Roku will keep running as an open platform for content partners, and th
 Fox expects about **$400 million in run-rate cost savings** within two years of closing, plus possible revenue gains, and says the deal should lift free cash flow per share by the second full year. Roku reaches more than 100 million households, which Fox wants to use to sharpen advertising and reduce its reliance on traditional TV distribution.
 
 The deal closed far sooner than planned. The companies had expected to finish in the first half of 2027, and the US Justice Department had issued a second request for information about two months before closing.
-
-```photo
-{"n":1,"subject":"Anthony Wood","caption":"Roku founder Anthony Wood joins the Fox board and co-chairs the new digital platforms division.","alt":"Anthony Wood, founder of Roku"}
-```

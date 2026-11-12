@@ -248,6 +248,7 @@ def fill_tiles(sid, M, have, n=3):
         for nm in sorted(list(ALIAS) + list(STATES), key=len, reverse=True):
             if nm not in ('New Delhi', 'Delhi') and re.search(rf'\b{re.escape(nm)}\b', text): state = ALIAS.get(nm, nm); break
     def state_ok(alt):   # a scene from a state the story never mentions does not belong (UP's Vidhan Bhawan behind Advani)
+        if re.search(r'High Court', alt) and not re.search(r'High Court', story): return False   # another court behind a Supreme Court story (owner, November 12)
         for nm in list(STATES) + list(ALIAS):
             if nm in ('New Delhi', 'Delhi') or not re.search(rf'\b{re.escape(nm)}\b', alt): continue
             stn = ALIAS.get(nm, nm)
