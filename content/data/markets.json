@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T12:17:00+05:30",
+  "as_of": "2026-11-12T13:31:00+05:30",
   "status": "open",
   "session_date": "2026-11-12",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81829.99,
-      "change": -49.41,
-      "pct": -0.06,
+      "value": 81867.32,
+      "change": -12.08,
+      "pct": -0.01,
       "history": [
         {
           "date": "2026-09-30",
@@ -117,15 +117,15 @@
           "close": 81879.4
         }
       ],
-      "source": "https://www.muthootsecurities.com/News/Detailed-News/Sensex-jumps-119-pts-metal-shares-advance/1658427"
+      "source": "https://upstox.com/news/market-news/stocks/sensex-off-the-day-s-high-nifty-trades-flat-in-noon-deals-bajaj-finance-cupid-ola-electric-among-buzzing-stocks/article-203358/"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25253.0,
-      "change": -2.05,
-      "pct": -0.01,
+      "value": 25246.15,
+      "change": -8.9,
+      "pct": -0.04,
       "history": [
         {
           "date": "2026-09-30",
@@ -236,7 +236,7 @@
           "close": 25255.05
         }
       ],
-      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-12-november-gift-nifty-signals-green-opening-nvidia-ai-stocks-and-us-inflation-in-focus-12802422"
+      "source": "https://upstox.com/news/market-news/stocks/sensex-off-the-day-s-high-nifty-trades-flat-in-noon-deals-bajaj-finance-cupid-ola-electric-among-buzzing-stocks/article-203358/"
     },
     {
       "id": "nifty-bank",
