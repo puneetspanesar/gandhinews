@@ -1,0 +1,30 @@
+{
+  "k1": {
+    "query": "Yogi Adityanath Chief Minister Uttar Pradesh speech",
+    "candidates": []
+  },
+  "k2": {
+    "query": "RBI building Mumbai Fort",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Indian Bank,fort branch,near RBI Monetary Museum.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Indian_Bank,fort_branch,near_RBI_Monetary_Museum.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Indian_Bank%2Cfort_branch%2Cnear_RBI_Monetary_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1844,
+        "height": 4096,
+        "licence": "CC BY-SA 4.0",
+        "author": "Sujithshivam511",
+        "credit": "Own work",
+        "date": "8 October 2026 (according to Exif data)",
+        "description": "Indian bank,near RBI Monetary Museum (Museum in India)",
+        "thumb": "k2-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Indian_Bank%2Cfort_branch%2Cnear_RBI_Monetary_Museum.jpg/1600px-Indian_Bank%2Cfort_branch%2Cnear_RBI_Monetary_Museum.jpg"
+      }
+    ]
+  },
+  "k3": {
+    "query": "Reserve Bank of India Mint Street",
+    "candidates": []
+  }
+}
