@@ -31,7 +31,7 @@ infographic:
     - {icon: users-three, value: "540", label: "members in the Lok Sabha with three seats vacant"}
     - {icon: scales, value: "360", label: "votes that equal two-thirds if all 540 vote"}
     - {icon: calculator, value: "352", label: "votes needed on April 17, with 528 voting; 298 were cast"}
-  source: "Article 368; Lok Sabha result of April 17, 2026 as broadcast; reports of November 12, 2026"
+  source: "Article 368; Lok Sabha result of April 17, 2026, as broadcast; reports of November 12, 2026"
 related: [special-session-delimitation-bill-shah-361-votes-jairam-bluster, delimitation-explained-why-131st-amendment-failed]
 seo:
   title: "Delimitation Bill: 360 votes needed, not 361, if all vote"
@@ -86,7 +86,7 @@ With 543 seats and three vacancies, the House has 540 members. Two-thirds of 540
 
 ### 3. How April 17 was counted
 
-On April 17, 2026, the Constitution (131st Amendment) Bill got **298 votes for and 230 against**, with 528 members voting, according to News On AIR's report of the result announced by Speaker Om Birla. The majority required was given as 352, which is exactly two-thirds of 528. The same method applied to a full House of 540 gives 360.
+On April 17, 2026, the Constitution (131st Amendment) Bill got **298 votes for and 230 against**, with 528 members voting, according to the result announced by Speaker Om Birla in the House. The majority required was given as 352, which is exactly two-thirds of 528. The same method applied to a full House of 540 gives 360.
 
 ### 4. Where the claim stands, and the Opposition's counter
 

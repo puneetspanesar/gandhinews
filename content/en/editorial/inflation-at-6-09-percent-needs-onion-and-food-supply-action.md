@@ -60,7 +60,7 @@ verification:
   notes:
     - "Editorial view of the desk; recommendations are the desk's own."
     - "The MoSPI October release could not be opened this run (mospi.gov.in press-release page not permitted). October figures (6.09%, food 8.94%, onion 116.22%, rural 6.63%, urban 5.41%) are from our own news story, which rests on three agreeing reports. The September release was opened and read (5.54%, food 7.74%, onion 108.09%)."
-    - "PIB release of Aug 26, 2026 opened: buffer target 2.00 LMT, about 1.21 LMT procured, 2025-26 production estimate 307.37 LMT, retail onion Rs 35/kg at outlets, all-India average Rs 37.87/kg on Aug 26, 'comfortable' availability statement. The under-1% figure is the desk's arithmetic (2.00 / 307.37 = 0.65%). The release is from August; the current buffer stock and releases are not known."
+    - "PIB release of Aug 26, 2026, opened: buffer target 2.00 LMT, about 1.21 LMT procured, 2025-26 production estimate 307.37 LMT, retail onion Rs 35/kg at outlets, all-India average Rs 37.87/kg on Aug 26, 'comfortable' availability statement. The under-1% figure is the desk's arithmetic (2.00 / 307.37 = 0.65%). The release is from August; the current buffer stock and releases are not known."
     - "Repo hike to 5.50% on Oct 7 and the 6% projection for Oct to Dec are from our own story; the RBI statement was not opened this run."
     - "Economists' quotes (Rao, Sabnavis, Nayar) are from our news story; no government or RBI reaction had been found by 18:30 IST."
 ---

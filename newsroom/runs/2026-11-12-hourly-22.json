@@ -1,0 +1,31 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-12T22:05:15+05:30",
+ "end": "2026-11-12T22:49:31+05:30",
+ "summary": "4 news stories, editorial and fact check; farm unions on Delhi smog lead",
+ "new": [
+  "inflation-at-6-09-percent-needs-onion-and-food-supply-action",
+  "delimitation-bill-361-votes-needed-two-thirds-claim",
+  "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+  "india-a-women-squads-england-a-shreyanka-patil-recalled",
+  "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+  "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "delimitation-bill-361-votes-needed-two-thirds-claim",
+   "why": "Main picture is an old relief map of 'India and Adjacent Countries', but the caption says it shows members in the Lok Sabha chamber. It is a generic stand-in and the caption does not match it. The previous fix said the picture was now the Lok Sabha chamber; it is not.",
+   "done": "Main picture swapped to the Lok Sabha Speaker Om Birla portrait (om-birla, last used October 25), alt and subjects updated; the three mislabelled map/mural files blocklisted"
+  },
+  {
+   "id": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+   "why": "The story is about a named, well-known person (D. K. Shivakumar) but runs an infographic with a metro-train icon. The NOPHOTO note cites only the 48-hour reuse rule for one library portrait. It does not show that no free photo exists anywhere. The in-story Shivakumar photo is also dropped.",
+   "done": "Kept on its infographic: RUNBOOK rule 11a counts 'the only correct one is blocked by the 48-hour rule' as no photo; the library and quick_photo hold only the one Shivakumar portrait, used November 11. Portrait free again from 22:16 IST November 13"
+  }
+ ],
+ "breaches": [],
+ "lead": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
+}

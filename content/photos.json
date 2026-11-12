@@ -51585,16 +51585,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg"
  },
  {
-  "id": "o-farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-  "articleId": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Justice_Surya_Kant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Surya Kant (file photo)",
-  "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
- },
- {
   "id": "o-inflation-at-6-09-percent-needs-onion-and-food-supply-action",
   "articleId": "inflation-at-6-09-percent-needs-onion-and-food-supply-action",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Minister_of_State_for_Commerce_%26_Industry_%28Independent_Charge%29%2C_Smt._Nirmala_Sitharaman_addressing_a_press_conference%2C_in_New_Delhi_on_October_14%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51643,5 +51633,35 @@
   "alt": "Farmers clearing crop residue in a field in Punjab (file photo)",
   "alt_hi": "पंजाब में खेत से फसल अवशेष हटाते किसान (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_46_(6314792401).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/India_and_adjacent_countries%2C_1917.jpg/1280px-India_and_adjacent_countries%2C_1917.jpg",
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Members in the Lok Sabha chamber of India's new Parliament building (file photo)",
+  "alt_hi": "भारत के नए संसद भवन के लोकसभा कक्ष में सदस्य (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg",
+  "id": "r-delimitation-bill-361-votes-needed-two-thirds-claim",
+  "articleId": "delimitation-bill-361-votes-needed-two-thirds-claim"
+ },
+ {
+  "id": "o-farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+  "articleId": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Agriculture_in_India_tractor_farming_Punjab_preparing_field_for_a_wheat_crop_without_burning_previous_crop_stalk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: CIAT / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A tractor preparing a field in Punjab (file photo)",
+  "alt_hi": "पंजाब में खेत तैयार करता ट्रैक्टर (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Agriculture_in_India_tractor_farming_Punjab_preparing_field_for_a_wheat_crop_without_burning_previous_crop_stalk.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Om_Birla_%282021%29_%28cropped%29.jpg",
+  "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Lok Sabha Speaker Om Birla (file photo)",
+  "alt_hi": "लोकसभा अध्यक्ष ओम बिरला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg",
+  "id": "r-delimitation-bill-361-votes-needed-two-thirds-claim",
+  "articleId": "delimitation-bill-361-votes-needed-two-thirds-claim"
  }
 ]

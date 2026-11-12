@@ -47976,17 +47976,59 @@
   }
  },
  "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting": {
-  "id": "o-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-  "src": "/photos/o-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-1280.jpg",
-  "src800": "/photos/o-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-640.jpg",
+  "id": "i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+  "src": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-en-3x2-1280.jpg",
+  "src800": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1276,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Shivakumar's asks before Modi's visit",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मोदी के दौरे से पहले शिवकुमार की मांगें",
+  "page": null,
+  "ihash": "8113b1184048",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-hi-3x2-1280.jpg",
+    "src800": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-en-t-1280.jpg",
+    "src800": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-hi-t-1280.jpg",
+    "src800": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-en-1280.jpg",
+    "src800": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-hi-1280.jpg",
+    "src800": "/photos/i-shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting-hi-640.jpg"
+   }
+  },
+  "nophoto": "48-hour rule: the D. K. Shivakumar library portrait was used on November 11 (karnataka-moves-supreme-court story); quick_photo none; finder h1222",
+  "treated": {
+   "src": "/photos/t-shivakumar-modi-visit-bengaluru-welcome-drought-relief-priva-1280.jpg",
+   "src800": "/photos/t-shivakumar-modi-visit-bengaluru-welcome-drought-relief-priva-640.jpg",
+   "cutout": true,
+   "with": [
+    "shivakumar-sugarcane-meetings-farmers-factories-belagavi",
+    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
+   ],
+   "kind": "portrait",
+   "subj": "ef02000000757f7f",
+   "credit": "Photos: News World India / Wikimedia Commons; This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m / Wikimedia Commons; Nanditha Gogate, WELL Labs / Wikimedia Commons"
+  }
  },
  "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo": {
   "id": "o-indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
@@ -47999,20 +48041,42 @@
   "licence": "Public domain",
   "alt": "Gibran Rakabuming Raka in his 2024 official portrait as Vice President of Indonesia (file photo)",
   "alt_hi": "उपराष्ट्रपति के रूप में 2024 के आधिकारिक चित्र में गिब्रान राकाबुमिंग राका (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Gibran_Rakabuming_2024_official_portrait.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Gibran_Rakabuming_2024_official_portrait.jpg",
+  "treated": {
+   "src": "/photos/t-indonesia-vp-gibran-resigns-impeachment-diploma-prabowo-1280.jpg",
+   "src800": "/photos/t-indonesia-vp-gibran-resigns-impeachment-diploma-prabowo-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "30383e3fbb99",
+   "credit": "Photo: Darwis Triadi & Ministry of State Secretariat / Wikimedia Commons"
+  }
  },
  "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions": {
   "id": "o-farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
   "src": "/photos/o-farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions-1280.jpg",
   "src800": "/photos/o-farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 4160,
-  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Surya Kant (file photo)",
-  "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
+  "height": 848,
+  "srcWidth": 1280,
+  "credit": "Photo: CIAT / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A tractor preparing a field in Punjab (file photo)",
+  "alt_hi": "पंजाब में खेत तैयार करता ट्रैक्टर (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Agriculture_in_India_tractor_farming_Punjab_preparing_field_for_a_wheat_crop_without_burning_previous_crop_stalk.jpg",
+  "treated": {
+   "src": "/photos/t-farmers-not-only-cause-delhi-pollution-supreme-court-vehicul-1280.jpg",
+   "src800": "/photos/t-farmers-not-only-cause-delhi-pollution-supreme-court-vehicul-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p2",
+    "up-voter-list-2026-check-name-after-sir"
+   ],
+   "kind": "photo",
+   "subj": "2181f1f2f7dffff",
+   "credit": "Photos: CIAT / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; Government of India / Wikimedia Commons"
+  }
  },
  "inflation-at-6-09-percent-needs-onion-and-food-supply-action": {
   "id": "o-inflation-at-6-09-percent-needs-onion-and-food-supply-action",
@@ -48025,20 +48089,45 @@
   "licence": "GODL-India",
   "alt": "Nirmala Sitharaman (file photo)",
   "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg",
+  "treated": {
+   "src": "/photos/t-inflation-at-6-09-percent-needs-onion-and-food-supply-action-1280.jpg",
+   "src800": "/photos/t-inflation-at-6-09-percent-needs-onion-and-food-supply-action-640.jpg",
+   "cutout": true,
+   "with": [
+    "retail-inflation-october-2026-6-09-two-year-high",
+    "rbi-right-to-move-fiscal-side-must-hold",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "photo",
+   "subj": "101c1e3e7e7eff",
+   "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "delimitation-bill-361-votes-needed-two-thirds-claim": {
-  "id": "o-delimitation-bill-361-votes-needed-two-thirds-claim",
-  "src": "/photos/o-delimitation-bill-361-votes-needed-two-thirds-claim-1280.jpg",
-  "src800": "/photos/o-delimitation-bill-361-votes-needed-two-thirds-claim-640.jpg",
+  "id": "r-delimitation-bill-361-votes-needed-two-thirds-claim",
+  "src": "/photos/r-delimitation-bill-361-votes-needed-two-thirds-claim-1280.jpg",
+  "src800": "/photos/r-delimitation-bill-361-votes-needed-two-thirds-claim-640.jpg",
   "width": 1280,
-  "height": 854,
-  "srcWidth": 1630,
-  "credit": "Photo: Ministry of Parliamentary Affairs / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Om Birla (file photo)",
-  "alt_hi": "ओम बिरला (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Om_Birla.jpg"
+  "height": 1068,
+  "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Lok Sabha Speaker Om Birla (file photo)",
+  "alt_hi": "लोकसभा अध्यक्ष ओम बिरला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-delimitation-bill-361-votes-needed-two-thirds-claim-1280.jpg",
+   "src800": "/photos/t-delimitation-bill-361-votes-needed-two-thirds-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "sambit-patra-varanasi-sir-deletion-not-theft-13-crore--p1",
+    "elections-2027",
+    "monsoon-session-2026-ends-with-lowest-output"
+   ],
+   "kind": "photo",
+   "subj": "ffffcb8981818181",
+   "credit": "Photos: IAEA Imagebank / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Nikhilb239 / Wikimedia Commons"
+  }
  },
  "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo--p1": {
   "id": "o-indonesia-vp-gibran-resigns-impeachment-diploma-prabowo--p1",

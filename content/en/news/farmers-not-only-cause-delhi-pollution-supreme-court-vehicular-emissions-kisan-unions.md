@@ -16,8 +16,8 @@ keyPoints:
 hero:
   need: "Chief Justice Surya Kant, whose bench is hearing the Delhi-NCR air pollution case"
   suggested_source: "Surya Kant"
-  subjects: ["Surya Kant"]
-  alt: "Chief Justice of India Surya Kant (file photo)"
+  subjects: ["Punjab farm field"]
+  alt: "A tractor preparing a field in Punjab (file photo)"
   overlay:
     value: "Farm unions: cars, not stubble"
 infographic:
@@ -100,7 +100,7 @@ According to the account of the hearing, the bench also questioned placing the w
 Both unions said solutions should be practical, incentive-based and fair, and that stubble burning should still be reduced.
 
 ```photo
-{"n":1,"subject":"Stubble burning Punjab","caption":"A farm fire in Punjab: the court says such fires have fallen sharply, though farm unions say they were never the main cause.","alt":"Crop residue burning in a field in Punjab (file photo)"}
+{"n":1,"subject":"Stubble burning Punjab","caption":"Farmers clearing crop residue in a Punjab field: the court says farm fires have fallen sharply, though farm unions say they were never the main cause.","alt":"Farmers clearing crop residue in a field in Punjab (file photo)"}
 ```
 
 ## What the numbers say
