@@ -47256,7 +47256,7 @@
   "width": 1280,
   "height": 853,
   "srcWidth": 938,
-  "credit": "Photo: Dani Charles Silverscreen Media Inc. (https://silverscreen.in) / Wikimedia Commons",
+  "credit": "Photo: Dani Charles Silverscreen Media Inc. / Wikimedia Commons",
   "licence": "CC BY-SA 3.0",
   "alt": "Vijay (file photo)",
   "alt_hi": "विजय (फ़ाइल फ़ोटो)",
@@ -47274,5 +47274,31 @@
   "alt": "António Guterres (file photo)",
   "alt_hi": "एंतोनियो गुतारेस (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_(cropped).jpg"
+ },
+ "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test": {
+  "id": "o-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+  "src": "/photos/o-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-1280.jpg",
+  "src800": "/photos/o-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-640.jpg",
+  "width": 1280,
+  "height": 553,
+  "srcWidth": 1800,
+  "credit": "Photo: Neweditorpk / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rawalpindi Cricket Stadium, venue of the Pakistan v Sri Lanka Test (file photo)",
+  "alt_hi": "रावलपिंडी क्रिकेट स्टेडियम, पाकिस्तान बनाम श्रीलंका टेस्ट का मैदान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:RWPCS3.jpg"
+ },
+ "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai": {
+  "id": "o-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+  "src": "/photos/o-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-1280.jpg",
+  "src800": "/photos/o-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 4272,
+  "credit": "Photo: Prateek Dubey / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Samajwadi Party president Akhilesh Yadav, whose remark Yogi Adityanath answered (file photo)",
+  "alt_hi": "समाजवादी पार्टी अध्यक्ष अखिलेश यादव, जिनकी टिप्पणी का योगी आदित्यनाथ ने जवाब दिया (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav.JPG"
  }
 }
