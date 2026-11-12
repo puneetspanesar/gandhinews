@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+    "id": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
     "overlay": {
       "kicker": {
-        "en": "Policy / Air pollution",
-        "hi": "नीति / वायु प्रदूषण"
+        "en": "World / Southeast Asia",
+        "hi": "दुनिया / दक्षिण-पूर्व एशिया"
       },
       "value": {
-        "en": "Farm unions: cars, not stubble",
-        "hi": "किसान संगठन: गाड़ियां, पराली नहीं"
+        "en": "Indonesia's vice president resigns",
+        "hi": "इंडोनेशिया के उपराष्ट्रपति का इस्तीफा"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Air pollution",
-        "hi": "वायु प्रदूषण"
+        "en": "Southeast Asia",
+        "hi": "दक्षिण-पूर्व एशिया"
       }
     }
   },
@@ -52,14 +52,14 @@
         }
       },
       {
-        "link": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "lead": {
-          "en": "Southeast Asia:",
-          "hi": "दक्षिण-पूर्व एशिया:"
+          "en": "Parliament:",
+          "hi": "संसद:"
         },
         "text": {
-          "en": "Indonesia's vice president Gibran resigns hours before an impeachment hearing over his school diploma",
-          "hi": "महाभियोग की सुनवाई से कुछ घंटे पहले इंडोनेशिया के उपराष्ट्रपति गिब्रान ने इस्तीफा दिया"
+          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
+          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
         }
       },
       {
@@ -71,6 +71,17 @@
         "text": {
           "en": "Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies",
           "hi": "भूपेंद्र यादव ने इस्पात, सीमेंट और परिवहन कंपनियों से कहा: भारत की जलवायु कार्रवाई सरकार, उद्योग और शिक्षा जगत के सहयोग पर टिकी, लीडआईटी में अब 19 देश और 33 कंपनियां"
+        }
+      },
+      {
+        "link": "modi-asean-india-summit-manila-november-16-18",
+        "lead": {
+          "en": "Southeast Asia:",
+          "hi": "दक्षिण-पूर्व एशिया:"
+        },
+        "text": {
+          "en": "Modi to attend ASEAN-India and East Asia Summits in Manila from November 16 to 18",
+          "hi": "मोदी 16 से 18 नवंबर तक मनीला में आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन में शामिल होंगे"
         }
       },
       {
@@ -104,17 +115,6 @@
         "text": {
           "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
           "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
-        }
-      },
-      {
-        "link": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow",
-          "hi": "उत्तराखंड महोत्सव में योगी का अखिलेश पर पलटवार, 'घुसपैठिए' वाले बयान को बताया विभाजनकारी सोच"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
-      "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
       "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+      "modi-asean-india-summit-manila-november-16-18",
       "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-      "retail-inflation-october-2026-6-09-two-year-high"
+      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
     ],
     "also": [
-      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
+      "retail-inflation-october-2026-6-09-two-year-high",
+      "infosys-prize-2026-six-researchers-under-40-100000-each"
     ]
   },
   "startHere": [
@@ -396,8 +396,8 @@
       "section": "states",
       "lead": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
       "list": [
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
       ]
     },
@@ -445,7 +445,7 @@
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back"
       ]
     }
   ],
@@ -457,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
-        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi in Bengaluru and Mysuru; CM Shivakumar to raise drought relief and state demands",
-        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में; मुख्यमंत्री शिवकुमार उठाएंगे सूखा राहत और राज्य की मांगें"
+        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
+        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
       },
-      "link": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
+      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
     },
     {
       "icon": "calendar-blank",
@@ -523,20 +523,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T13:17:46+05:30",
-      "ids": [
-        "us-army-soldier-arrested-england-russia-national-security-act",
-        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
-        "india-bans-export-lithium-ion-battery-black-mass",
-        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
-        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview"
-      ]
-    },
     {
       "at": "2026-11-12T14:26:10+05:30",
       "ids": [
@@ -642,6 +628,20 @@
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "retail-inflation-october-2026-6-09-two-year-high",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+      ]
+    },
+    {
+      "at": "2026-11-12T23:16:45+05:30",
+      "ids": [
+        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+        "india-a-women-squads-england-a-shreyanka-patil-recalled",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "modi-asean-india-summit-manila-november-16-18",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     }
   ],
