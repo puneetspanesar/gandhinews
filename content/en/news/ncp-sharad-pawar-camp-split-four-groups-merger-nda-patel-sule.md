@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Maharashtra"
 topics: []
-title: "Sharad Pawar's NCP (SP) camp splits into four groups over merger and joining the NDA"
+title: "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA"
 standfirst: "As both NCP factions deny fresh talks, reports from Mumbai say the senior MLAs around the 85-year-old founder are pulling in different directions, with the larger section leaning towards a reunion."
 published: 2026-11-12T20:14:14+05:30
 location: Mumbai
@@ -19,7 +19,7 @@ hero:
   subjects: ["Sharad Pawar"]
   alt: "NCP (SP) founder Sharad Pawar"
   overlay:
-    value: "NCP (SP) split four ways on merger"
+    value: "Reports: NCP (SP) split four ways"
 infographic:
   kicker: "NCP merger debate"
   headline: "Pawar camp split over NDA merger"
@@ -31,7 +31,7 @@ infographic:
   source: "Reports from Mumbai, November 12, 2026"
 related: [ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah, sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain]
 seo:
-  title: "Sharad Pawar camp split over NCP merger and NDA"
+  title: "Reports: Sharad Pawar camp split over NCP merger, NDA"
   description: "The Sharad Pawar-led NCP (SP) is reportedly divided into four groups over merging with Ajit Pawar's party and joining the NDA, as both factions deny talks."
 sources:
   - title: "NCP merger debate: Sharad Pawar camp divided"

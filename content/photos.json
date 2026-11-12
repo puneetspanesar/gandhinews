@@ -51535,16 +51535,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_Andhra_Pradesh,_Shri_Chandrababu_Naidu_meeting_the_Union_Minister_for_Human_Resource_Development,_Smt._Smriti_Zubin_Irani,_in_New_Delhi_on_June_26,_2014_(1).jpg"
  },
  {
-  "id": "o-bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-  "articleId": "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Bhupender Yadav (file photo)",
-  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg"
- },
- {
   "id": "o-ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
   "articleId": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sharad_Pawar_addressing_the_National_Conference_on_Cooperatives_for_the_celebration_of_International_Year_of_Cooperatives%2C_2012%2C_in_New_Delhi_on_May_15%2C_2012_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51563,5 +51553,15 @@
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+ },
+ {
+  "id": "o-bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+  "articleId": "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bhupender_Yadav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: PIB / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupender Yadav (file photo)",
+  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav.jpg"
  }
 ]

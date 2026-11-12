@@ -1,0 +1,23 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-12T20:10:45+05:30",
+ "end": "2026-11-12T20:38:19+05:30",
+ "summary": "Modi Manila ASEAN lead; NCP split reports; Yadav LeadIT",
+ "new": [
+  "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+  "modi-asean-india-summit-manila-november-16-18",
+  "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+   "why": "The headline (English and Hindi) and the hero overlay state the four-way split as fact: 'Sharad Pawar's NCP (SP) camp splits into four groups' / 'खेमा चार धड़ों में बंटा', overlay 'NCP (SP) split four ways on merger'. The only source (UNI, paywalled) says 'reportedly divided ... according to sources', and the story itself says 'None of the claims about the split has been confirmed on the record'. The headline claims more than the reporting supports.",
+   "done": "Headline, seo.title and overlay attributed in both languages ('reportedly', 'Reports:', 'खबरों के मुताबिक', 'खबरें:')."
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-asean-india-summit-manila-november-16-18"
+}

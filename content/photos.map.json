@@ -47884,13 +47884,22 @@
   "src": "/photos/o-bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31-1280.jpg",
   "src800": "/photos/o-bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 763,
-  "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
+  "height": 876,
+  "srcWidth": 750,
+  "credit": "Photo: PIB / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Bhupender Yadav (file photo)",
   "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav.jpg",
+  "treated": {
+   "src": "/photos/t-bhupender-yadav-leadit-industry-academia-interaction-delhi-c-1280.jpg",
+   "src800": "/photos/t-bhupender-yadav-leadit-industry-academia-interaction-delhi-c-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "80313071f5f7f",
+   "credit": "Photo: PIB / Wikimedia Commons"
+  }
  },
  "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule": {
   "id": "o-ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
@@ -47903,7 +47912,20 @@
   "licence": "GODL-India",
   "alt": "Sharad Pawar (file photo)",
   "alt_hi": "शरद पवार (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sharad_Pawar_addressing_the_National_Conference_on_Cooperatives_for_the_celebration_of_International_Year_of_Cooperatives,_2012,_in_New_Delhi_on_May_15,_2012_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sharad_Pawar_addressing_the_National_Conference_on_Cooperatives_for_the_celebration_of_International_Year_of_Cooperatives,_2012,_in_New_Delhi_on_May_15,_2012_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sul-1280.jpg",
+   "src800": "/photos/t-ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sul-640.jpg",
+   "cutout": true,
+   "with": [
+    "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
+    "farmer-distress-needs-relief-and-lending-rules-not-murder-threats",
+    "bills-in-parliament-tracker"
+   ],
+   "kind": "photo",
+   "subj": "181000000070fcff",
+   "credit": "Photos: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons; Wikimedia commons / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
+  }
  },
  "modi-asean-india-summit-manila-november-16-18": {
   "id": "o-modi-asean-india-summit-manila-november-16-18",
@@ -47916,6 +47938,15 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-modi-asean-india-summit-manila-november-16-18-1280.jpg",
+   "src800": "/photos/t-modi-asean-india-summit-manila-november-16-18-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
  }
 }

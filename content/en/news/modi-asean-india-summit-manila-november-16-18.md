@@ -105,7 +105,7 @@ The ASEAN-India Trade in Goods Agreement (AITIGA) came into force in 2011. Its r
 
 ## Myanmar and the Quad
 
-Tandon also spoke on Myanmar, which has been kept away at the leaders' level since the civil war began in February 2021. India should engage more, he said: isolating the country "is not the right approach", and "someone else will fill that vacuum". ASEAN agreed a five-point consensus on Myanmar in 2022. Min Aung Hlaing, now Myanmar's president, visited New Delhi earlier this year.
+Tandon also spoke on Myanmar, which has been kept away at the leaders' level since the civil war began in February 2021. India should engage more, he said: isolating the country "is not the right approach", and "someone else will fill that vacuum". ASEAN agreed a five-point consensus on Myanmar in April 2021. Min Aung Hlaing, now Myanmar's president, visited New Delhi earlier this year.
 
 Whether Modi will sit down with US President Donald Trump, Japanese Prime Minister Sanae Takaichi and Australian Prime Minister Anthony Albanese for a Quad leaders' summit in Manila is not settled. US Secretary of State Marco Rubio was reported to have said last month that the next Quad summit would be held on the sidelines of the ASEAN meetings in the Philippines. Asked about it on Thursday, Tandon said, "We don't have any information on this at the moment," and described Modi's bilateral and Quad engagements as not confirmed.
 
