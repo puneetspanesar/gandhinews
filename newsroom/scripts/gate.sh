@@ -13,6 +13,8 @@ step() { local name=$1; shift; local out; out=$("$@" 2>&1); local rc=$?
   else echo "FAIL  $name (exit $rc)"; echo "$out" | tail -40 | sed 's/^/      /'; fail=1; fi; }
 changed=$(git diff --name-only --diff-filter=AMR origin/main -- content/en | grep '\.md$')
 [ -n "$changed" ] && python3 newsroom/scripts/fix_dates.py $changed >/dev/null
+# the collage tool changes only with its tests passing (owner, November 12)
+git diff --quiet origin/main -- newsroom/scripts/treat_photo.py newsroom/tests/collage || step collage_tests python3 newsroom/scripts/test_collage.py
 step check_fresh python3 newsroom/scripts/check_fresh.py
 step check_photos npm run -s check:photos
 step build npm run -s build:fast

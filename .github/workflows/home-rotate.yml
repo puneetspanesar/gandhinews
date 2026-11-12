@@ -1,12 +1,14 @@
 # Hourly homepage rotation, no AI: the owner's rule is that every headline changes every hour. The writing runs
 # (Claude, every 2 hours) publish new stories and refresh the homepage themselves; in the hours between, this job runs
-# refresh_home.py at :50 IST so the headlines still change. It skips an hour whose homepage already changed after
-# the top of the hour, and never pushes a homepage that check_fresh.py rejects (exit 1). The stall check watches it.
+# refresh_home.py so the headlines still change. It skips an hour whose homepage already changed after the top of
+# the hour, and never pushes a homepage with more hard problems than the one already live. The stall check watches it.
 name: Homepage rotation
 run-name: Homepage rotation
 on:
   schedule:
-    - cron: '20 1-19 * * *'   # 6:50 am to 12:50 am IST
+    # GitHub drops most scheduled runs (it started about 3 of 19 a day in November), so the job is offered four times an
+    # hour; it does nothing in an hour whose homepage has already changed, so extra starts cost nothing.
+    - cron: '7,22,37,52 1-19 * * *'   # 6:37 am to 1:22 am IST
   workflow_dispatch:
 permissions:
   contents: write
@@ -30,9 +32,13 @@ jobs:
           hour_start=$(TZ=Asia/Kolkata date -d "$(TZ=Asia/Kolkata date +%Y-%m-%dT%H:00)" +%s)
           last=$(git log -1 --format=%ct -- content/homepage.json)
           if [ "$last" -ge "$hour_start" ]; then echo "homepage already changed this hour: nothing to do"; exit 0; fi
+          # Problems this job cannot fix (a late markets band, no new story to lead with) must not freeze the headlines:
+          # count the hard problems on the homepage as it stands, refresh, and push unless the new one is worse.
+          set +e; python3 newsroom/scripts/check_fresh.py > /dev/null; set -e; before=$(cat "$GN_WORK/hard.txt" 2>/dev/null || echo 0)
           python3 newsroom/scripts/refresh_home.py
-          set +e; python3 newsroom/scripts/check_fresh.py; rc=$?; set -e
-          if [ "$rc" = 1 ]; then echo "check_fresh rejects this homepage: not pushing (the stall check will see it)"; exit 1; fi
+          set +e; python3 newsroom/scripts/check_fresh.py; rc=$?; set -e; after=$(cat "$GN_WORK/hard.txt" 2>/dev/null || echo 99)
+          echo "hard problems: $before before, $after after"
+          if [ "$rc" = 1 ] && [ "$after" -gt "$before" ]; then echo "the refreshed homepage is worse than the live one: not pushing"; exit 1; fi
           git diff --quiet content/homepage.json && { echo "no change"; exit 0; }
           git config user.name "Gandhi News bot"; git config user.email "noreply@gandhinews.com"
           git add content/homepage.json

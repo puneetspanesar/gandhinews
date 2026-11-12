@@ -5,14 +5,14 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/schema-crops.mjs && astro build && pagefind --site dist && node scripts/check-links.mjs && node scripts/gate.mjs",
+    "build": "node scripts/schema-crops.mjs && astro build && node scripts/photo-versions.mjs && pagefind --site dist && node scripts/check-links.mjs && node scripts/gate.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "clean": "rm -rf .astro node_modules/.astro dist",
     "check:links": "node scripts/check-links.mjs",
     "check:photos": "node scripts/check-photos.mjs",
     "indexnow": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} node scripts/indexnow.mjs",
-    "build:fast": "node scripts/schema-crops.mjs && astro build && pagefind --site dist"
+    "build:fast": "node scripts/schema-crops.mjs && astro build && node scripts/photo-versions.mjs && pagefind --site dist"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.2",

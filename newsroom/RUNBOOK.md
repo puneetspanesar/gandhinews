@@ -70,3 +70,11 @@ Write /home/claude/gn-work/commit.txt: first line "Hourly HH:00 IST: ..." or "Lo
 bash newsroom/scripts/publish.sh <run-name> "<one-line summary>"
 ```
 publish.sh writes the run record (newsroom/runs/), commits, takes the lock only for the pull, build and push, re-applies this run's homepage picks if the pull merged another run's work (and stops if check_fresh then fails), runs the full build with its build gate, pushes, releases the lock, and waits until the live site runs the pushed commit (verify_live.py --expect). Exit 0: live. Exit 1: not pushed; fix what it printed and run it again. Exit 4: pushed but not live after 12 minutes; read verify_live's output, fix the cause (usually the build gate on Cloudflare) and publish again. Then `npm run -s indexnow -- 2`.
+
+## Rules added November 12, 2026 (owner: full site test)
+
+- **Collage tool:** `newsroom/scripts/treat_photo.py` changes only with `python3 newsroom/scripts/test_collage.py` passing (the gate runs it when the file differs from the live one). After any wrong collage on the site, copy that photo into `newsroom/tests/collage/` and add a line to `cases.json` saying what the tool should have said, then fix the tool.
+- **Every homepage band is checked, not only the top:** no story whose `upcoming.date` has passed, no today/tonight/tomorrow headline from an earlier day, no look-ahead headline older than 36 hours, one story per subject in a band, a state shows only with news from the last 48 hours. The builder (`src/lib/home.ts`, `expiredOnHome`) applies these and `audit.py` checks the built page independently.
+- **Rotation job:** pushes any refreshed homepage that has no more hard problems than the live one, so a late markets band cannot freeze the headlines. GitHub starts only a few of its scheduled runs; the job is offered four times an hour and skips an hour already rotated.
+- **Photo addresses** carry `?v=<content hash>` (added after the build by `scripts/photo-versions.mjs`), so a replaced picture shows at once. Nothing to do by hand.
+

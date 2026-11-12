@@ -1,0 +1,369 @@
+[
+ {
+  "file": "01-scene.jpg",
+  "from": "/photos/x-no-rajya-sabha-vote-today-all-12-seats-filled-unopposed-1280.jpg",
+  "shows": "Parliament House, New Delhi",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "02-scene.jpg",
+  "from": "/photos/x-fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore-1280.jpg",
+  "shows": "Fortis Hospital in Noida (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "03-scene.jpg",
+  "from": "/photos/x-jk-waqf-board-uniform-friday-sermons-omar-mehbooba-hd-1280.jpg",
+  "shows": "Jamia Masjid, Srinagar",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "04-scene.jpg",
+  "from": "/photos/o-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-1280.jpg",
+  "shows": "Seddon Park, Hamilton, the venue for the third ODI (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "05-face.jpg",
+  "from": "/photos/o-stephen-miller-replaces-susie-wiles-white-house-chief-of-staff-1280.jpg",
+  "shows": "Stephen Miller, named White House chief of staff (file photo)",
+  "want": [
+   "reject",
+   "cropped"
+  ],
+  "why": "a face filling the frame or a head cut off: never a clean subject"
+ },
+ {
+  "file": "06-scene.jpg",
+  "from": "/photos/x-jagsher-singh-khangurra-world-junior-badminton-medal-cairo-1280.jpg",
+  "shows": "Cairo International Stadium",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "07-scene.jpg",
+  "from": "/photos/x-israeli-teen-killed-hezbollah-munition-school-hike-1280.jpg",
+  "shows": "The Ramim Ridge in the Upper Galilee near the Lebanon border",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "08-scene.jpg",
+  "from": "/photos/bharat-mandapam-1280.jpg",
+  "shows": "Bharat Mandapam, New Delhi",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "09-scene.jpg",
+  "from": "/photos/x-peshawar-school-roof-collapse-kills-students-1280.jpg",
+  "shows": "Lady Reading Hospital, Peshawar",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "10-scene.jpg",
+  "from": "/photos/o-8th-pay-commission-explained-salary-pension-fitment-factor-1280.jpg",
+  "shows": "North Block, home of the Finance Ministry, New Delhi (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "11-group.jpg",
+  "from": "/photos/x-parliament-that-sits-but-does-not-debate-1280.jpg",
+  "shows": "Parliament House in New Delhi",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "12-ok.jpg",
+  "from": "/photos/rahul-gandhi-1280.jpg",
+  "shows": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+  "want": [
+   "clean"
+  ],
+  "why": "one person with shoulders: must cut out cleanly"
+ },
+ {
+  "file": "13-group.jpg",
+  "from": "/photos/o-amit-shah-presidents-police-colour-uttarakhand-police-1280.jpg",
+  "shows": "Amit Shah at the Uttarakhand Police President's Colour parade in Dehra",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "14-group.jpg",
+  "from": "/photos/x-sitharaman-world-bank-development-committee-bangkok-jobs-1280.jpg",
+  "shows": "Nirmala Sitharaman at a World Bank meeting (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "15-scene.jpg",
+  "from": "/photos/r-govt-relaxes-passport-visa-rules-foreign-nationals-india-1280.jpg",
+  "shows": "North Block, which houses the Ministry of Home Affairs, in New Delhi (",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "16-group.jpg",
+  "from": "/photos/o-kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi-1280.jpg",
+  "shows": "Mallikarjun Kharge at his office desk in New Delhi (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "17-scene.jpg",
+  "from": "/photos/x-hall-woodford-win-economics-nobel-stabilisation-models-1280.jpg",
+  "shows": "Michael Woodford, Columbia University economist and 2026 Nobel laureat",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "18-scene.jpg",
+  "from": "/photos/x-ins-samarthak-commissioning-karwar-hd-1280.jpg",
+  "shows": "Karwar's coast where the Kali river meets the sea",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "19-group.jpg",
+  "from": "/photos/trump-zelenskyy-1280.jpg",
+  "shows": "Donald Trump and Volodymyr Zelenskyy in the Oval Office in February 20",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "20-scene.jpg",
+  "from": "/photos/x-rbl-bank-q2-profit-jumps-170-per-cent-1280.jpg",
+  "shows": "An RBL Bank branch with the bank's signage",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "21-scene.jpg",
+  "from": "/photos/o-megamalai-ruling-forest-rights-line-must-be-honest-1280.jpg",
+  "shows": "Settlements and estates in the Megamalai hills, Tamil Nadu (file photo",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "22-group.jpg",
+  "from": "/photos/o-india-beat-japan-4-1-asian-champions-trophy-final-1280.jpg",
+  "shows": "An India men's hockey team after a medal win (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "23-group.jpg",
+  "from": "/photos/o-suvendu-adhikari-caa-citizenship-december-31-nadia-1280.jpg",
+  "shows": "Chief Minister Suvendu Adhikari with Prime Minister Narendra Modi at a",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "24-group.jpg",
+  "from": "/photos/x-lawyers-journalists-move-supreme-court-over-delhi-protest-hd-1280.jpg",
+  "shows": "Judges and lawyers at an event in New Delhi (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "two or more people: must not be cut out as one subject"
+ },
+ {
+  "file": "25-scene.jpg",
+  "from": "/photos/x-cabinet-approves-integrated-transport-logistics-authority-1280.jpg",
+  "shows": "Containers stacked at an Indian port with a freight train alongside",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "26-ok.jpg",
+  "from": "/photos/o-manu-bhaker-suruchi-sainyam-team-silver-doha-air-pistol-1280.jpg",
+  "shows": "Manu Bhaker with her two Paris 2024 Olympic bronze medals (file photo)",
+  "want": [
+   "clean"
+  ],
+  "why": "one person with shoulders: must cut out cleanly"
+ },
+ {
+  "file": "27-blocked.jpg",
+  "from": "/photos/o-rubio-g7-paris-no-need-major-combat-iran-economic-campaign-1280.jpg",
+  "shows": "US Secretary of State Marco Rubio speaks to reporters (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "the person is half hidden behind something in front: not a subject"
+ },
+ {
+  "file": "28-scene.jpg",
+  "from": "/photos/x-jamaica-accepts-first-us-third-country-deportation-flight-1280.jpg",
+  "shows": "Norman Manley International Airport, Kingston",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "29-scene.jpg",
+  "from": "/photos/kerala-assembly-1280.jpg",
+  "shows": "Kerala Legislative Assembly building, Thiruvananthapuram",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "30-scene.jpg",
+  "from": "/photos/riyadh-airport-1280.jpg",
+  "shows": "King Khalid International Airport, Riyadh",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "31-scene.jpg",
+  "from": "/photos/o-delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot-1280.jpg",
+  "shows": "Thick smog at the New Delhi railway station entry, December 2017 (file",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "32-scene.jpg",
+  "from": "/photos/o-global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31-1280.jpg",
+  "shows": "Raikheda coal-fired power station in Chhattisgarh (file photo)",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "33-face.jpg",
+  "from": "/photos/o-sc-delhi-ncr-women-safety-union-reply-november-23-1280.jpg",
+  "shows": "Justice JB Pardiwala of the Supreme Court (file photo)",
+  "want": [
+   "cropped",
+   "reject"
+  ],
+  "why": "a face filling the frame or a head cut off: never a clean subject"
+ },
+ {
+  "file": "34-scene.jpg",
+  "from": "/photos/x-saudi-arabia-vows-serious-response-riyadh-airport-stays-sh-1280.jpg",
+  "shows": "King Khalid International Airport in Riyadh, Saudi Arabia",
+  "want": [
+   "reject"
+  ],
+  "why": "a place, not a person: must never be cut out as the subject"
+ },
+ {
+  "file": "35-face.jpg",
+  "from": "/photos/x-nadda-kharge-ramesh-shah-trade-charges-over-sir-1280.jpg",
+  "shows": "AAP MP Sanjay Singh (file photo)",
+  "want": [
+   "reject",
+   "cropped"
+  ],
+  "why": "a face filling the frame or a head cut off: never a clean subject"
+ },
+ {
+  "file": "36-ok.jpg",
+  "from": "/photos/lib-narendra-modi-3-1280.jpg",
+  "shows": "library",
+  "want": [
+   "clean"
+  ],
+  "why": "one person with shoulders: must cut out cleanly",
+  "known_failure": "tool says reject on November 12, 2026"
+ },
+ {
+  "file": "37-face.jpg",
+  "from": "/photos/lib-narendra-modi-13-1280.jpg",
+  "shows": "library",
+  "want": [
+   "cropped",
+   "reject"
+  ],
+  "why": "a face filling the frame or a head cut off: never a clean subject"
+ },
+ {
+  "file": "38-face.jpg",
+  "from": "/photos/lib-uddhav-thackeray-1280.jpg",
+  "shows": "library",
+  "want": [
+   "cropped",
+   "reject"
+  ],
+  "why": "a face filling the frame or a head cut off: never a clean subject"
+ },
+ {
+  "file": "39-ok.jpg",
+  "from": "/photos/lib-narendra-modi-4-1280.jpg",
+  "shows": "library",
+  "want": [
+   "clean"
+  ],
+  "why": "one person with shoulders: must cut out cleanly"
+ },
+ {
+  "file": "40-ok.jpg",
+  "from": "/photos/lib-wang-yi-1280.jpg",
+  "shows": "library",
+  "want": [
+   "clean"
+  ],
+  "why": "one person with shoulders: must cut out cleanly",
+  "known_failure": "tool says reject on November 12, 2026"
+ }
+]
