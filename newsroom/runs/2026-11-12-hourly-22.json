@@ -1,16 +1,9 @@
 {
  "run": "hourly-22",
  "start": "2026-11-12T22:05:15+05:30",
- "end": "2026-11-12T22:49:31+05:30",
- "summary": "4 news stories, editorial and fact check; farm unions on Delhi smog lead",
- "new": [
-  "inflation-at-6-09-percent-needs-onion-and-food-supply-action",
-  "delimitation-bill-361-votes-needed-two-thirds-claim",
-  "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-  "india-a-women-squads-england-a-shreyanka-patil-recalled",
-  "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-  "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
- ],
+ "end": "2026-11-12T23:06:21+05:30",
+ "summary": "second publish: lead collage tiles fixed (poll/pollution tile bug)",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
