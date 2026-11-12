@@ -1,0 +1,21 @@
+{
+ "run": "hourly-23",
+ "start": "2026-11-12T23:07:03+05:30",
+ "end": "2026-11-12T23:40:43+05:30",
+ "summary": "Lead run: Putin hosts Witkoff and Kushner in Moscow",
+ "new": [
+  "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "The THIS WEEK box shows 'Tomorrow: Witkoff and Kushner brief Zelenskyy in Dublin after the Moscow talks' as a dated fact, but the lead story says no date has been announced for the Dublin meeting, and its own verification note calls November 13 approximate. A guessed date presented as fact on the fr",
+   "done": "Removed the upcoming entry (approximate Nov 13 Dublin date) from both EN and HI front matter; homepage rebuilt."
+  }
+ ],
+ "breaches": [],
+ "lead": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
+}
