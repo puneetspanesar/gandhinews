@@ -1,0 +1,16 @@
+{
+ "run": "stall-13",
+ "start": "2026-11-12T12:54:42+05:30",
+ "end": "2026-11-12T13:20:03+05:30",
+ "summary": "Rotated the homepage after the hold-expiry commit repeated the 12:46 headlines",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "led or sat beside the lead at 10:39 as well: us-army-soldier-arrested-england-russia-national-security-act",
+  "led or sat beside the lead at 10:22 as well: us-army-soldier-arrested-england-russia-national-security-act"
+ ],
+ "lead": "us-army-soldier-arrested-england-russia-national-security-act"
+}
