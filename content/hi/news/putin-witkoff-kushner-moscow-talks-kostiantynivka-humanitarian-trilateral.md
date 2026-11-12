@@ -17,8 +17,8 @@ keyPoints:
 hero:
   need: "President Vladimir Putin of Russia"
   suggested_source: "Vladimir Putin"
-  subjects: ["Vladimir Putin"]
-  alt: "रूस के राष्ट्रपति व्लादिमीर पुतिन (फाइल फोटो)"
+  subjects: ["Vladimir Putin", "Jared Kushner", "Steve Witkoff"]
+  alt: "क्रेमलिन में जेरेड कुशनर और स्टीव विटकॉफ के साथ व्लादिमीर पुतिन, सितंबर 2026 (फ़ाइल फ़ोटो)"
   overlay:
     value: "पुतिन ने मॉस्को में अमेरिकी दूतों से की बात"
 related: [abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, witkoff-zelenskyy-oslo-before-putin-moscow, crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire]
@@ -44,7 +44,7 @@ sources:
     url: "https://rt-english.com/news/648759-putin-us-talks-moscow-ukraine/"
     primary: false
   - title: "US envoys Witkoff and Kushner meet Putin in Moscow"
-    publisher: "Yahoo News (Interfax)"
+    publisher: "Yahoo News (Politico)"
     date: 2026-11-12
     url: "https://www.yahoo.com/news/politics/articles/us-envoys-witkoff-kushner-meet-160804212.html"
     primary: false
@@ -91,4 +91,4 @@ verification:
 
 ## आगे क्या
 
-विटकॉफ और कुशनर **डबलिन में ज़ेलेंस्की को जानकारी देंगे**; उस बैठक की तारीख घोषित नहीं हुई है। मॉस्को को उम्मीद है कि अमेरिकी वहाँ रूस के संकेत यूरोपीय और यूक्रेनी पक्ष तक पहुँचाएँगे। उशाकोव ने यह भी कहा कि चीन में प्रस्तावित बैठक में पुतिन और ट्रंप यूक्रेन समझौते के पूरे दायरे पर बात कर सकते हैं, और मॉस्को को उम्मीद है कि रूस-अमेरिका-चीन नेताओं की बैठक का व्यापक अंतरराष्ट्रीय स्थिति पर असर होगा। यूक्रेन के यूरोपीय समर्थकों का गठबंधन 19 नवंबर को जर्मनी में बैठेगा, जहाँ एक साझा यूरोपीय वार्ताकार का सवाल उठने की उम्मीद है।
+विटकॉफ और कुशनर **डबलिन में ज़ेलेंस्की को जानकारी देंगे**; उस बैठक की तारीख घोषित नहीं हुई है। मॉस्को को उम्मीद है कि अमेरिकी वहाँ रूस के संकेत यूरोपीय और यूक्रेनी पक्ष तक पहुँचाएँगे। उशाकोव ने यह भी कहा कि चीन में प्रस्तावित बैठक में पुतिन और ट्रंप यूक्रेन समझौते के पूरे दायरे पर बात कर सकते हैं, और मॉस्को को उम्मीद है कि रूस-अमेरिका-चीन नेताओं की बैठक का व्यापक अंतरराष्ट्रीय स्थिति पर असर होगा।

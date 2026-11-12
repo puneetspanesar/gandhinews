@@ -10,14 +10,14 @@ standfirst: "After two days of Russia-Ukraine-US talks in Abu Dhabi, the US envo
 published: 2026-11-12T23:14:25+05:30
 location: Moscow
 keyPoints:
-  - "Putin met US envoys Steve Witkoff and Jared Kushner in Moscow on Thursday, November 12; the Kremlin called it **substantive, constructive, candid and useful**."
+  - "Putin met US envoys Steve Witkoff and Jared Kushner in Moscow on Thursday, November 12; the Kremlin called it **substantive, constructive, frank and useful**."
   - "The two sides agreed to **begin contacts on a humanitarian mission in Kostiantynivka**, modelled on the Oleshky evacuation of October."
   - "The envoys go next to **Dublin to brief Volodymyr Zelenskyy**; Moscow also points to a possible Putin-Trump meeting in China."
 hero:
   need: "President Vladimir Putin of Russia"
   suggested_source: "Vladimir Putin"
-  subjects: ["Vladimir Putin"]
-  alt: "Russian President Vladimir Putin (file photo)"
+  subjects: ["Vladimir Putin", "Jared Kushner", "Steve Witkoff"]
+  alt: "Vladimir Putin with Jared Kushner and Steve Witkoff at the Kremlin, September 2026 (file photo)"
   overlay:
     value: "Putin hosts US envoys in Moscow"
 related: [abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky, abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one, zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two, witkoff-zelenskyy-oslo-before-putin-moscow, crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire]
@@ -43,7 +43,7 @@ sources:
     url: "https://rt-english.com/news/648759-putin-us-talks-moscow-ukraine/"
     primary: false
   - title: "US envoys Witkoff and Kushner meet Putin in Moscow"
-    publisher: "Yahoo News (Interfax)"
+    publisher: "Yahoo News (Politico)"
     date: 2026-11-12
     url: "https://www.yahoo.com/news/politics/articles/us-envoys-witkoff-kushner-meet-160804212.html"
     primary: false
@@ -61,7 +61,7 @@ verification:
   status: approved
   notes:
     - "kremlin.ru was not opened; Ushakov's briefing is read through three published reports that agree on the wording 'substantive, constructive, frank and useful'."
-    - "Putin's remarks on Europe come from one report (Interfax via a news aggregator); hedged as reported."
+    - "Putin's remarks on Europe come from one report (Tass via Politico, on a news aggregator); hedged as reported."
     - "No exact meeting end time was published in the reports read; the text says Thursday only."
     - "Dublin date is not given anywhere; the upcoming line is approximate (Friday, November 13) and the text says no date was announced."
     - "Outlet names kept out of the body per house rule."
@@ -99,4 +99,4 @@ For the wider world, including India, the war's risks to Black Sea food shipping
 
 ## What happens next
 
-Witkoff and Kushner are due in **Dublin to brief Zelenskyy**, and no date has been announced for that meeting. Moscow says it hopes the Americans will carry Russian signals to Europeans and Ukrainians there. Ushakov also said Putin and Trump may take up the full range of Ukraine settlement issues at their planned meeting in China, and that Moscow hopes a Russia-US-China leaders' meeting will affect the wider international situation. A coalition of European backers of Ukraine is due to meet in Germany on November 19, where the question of a single European negotiator is expected to come up.
+Witkoff and Kushner are due in **Dublin to brief Zelenskyy**, and no date has been announced for that meeting. Moscow says it hopes the Americans will carry Russian signals to Europeans and Ukrainians there. Ushakov also said Putin and Trump may take up the full range of Ukraine settlement issues at their planned meeting in China, and that Moscow hopes a Russia-US-China leaders' meeting will affect the wider international situation.

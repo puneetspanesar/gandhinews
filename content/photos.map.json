@@ -48203,12 +48203,25 @@
   "src": "/photos/o-putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral-1280.jpg",
   "src800": "/photos/o-putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 3420,
-  "credit": "Photo: Пресс-служба Президента России / Wikimedia Commons",
+  "height": 790,
+  "srcWidth": 1880,
+  "credit": "Photo: kremlin.ru / Wikimedia Commons",
   "licence": "CC BY 4.0",
-  "alt": "Vladimir Putin (file photo)",
-  "alt_hi": "व्लादिमीर पुतिन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_official_photo_08.jpg"
+  "alt": "Vladimir Putin with Jared Kushner and Steve Witkoff at the Kremlin, September 2026 (file photo)",
+  "alt_hi": "क्रेमलिन में जेरेड कुशनर और स्टीव विटकॉफ के साथ व्लादिमीर पुतिन, सितंबर 2026 (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Kushner_Witkoff_Putin.jpg",
+  "treated": {
+   "src": "/photos/t-putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitari-1280.jpg",
+   "src800": "/photos/t-putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitari-640.jpg",
+   "cutout": true,
+   "with": [
+    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "kyiv-draft-office-shooting-six-injured",
+    "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm"
+   ],
+   "kind": "photo",
+   "subj": "bfffff3f02000004",
+   "credit": "Photos: kremlin.ru / Wikimedia Commons; President Of Ukraine / Wikimedia Commons; Ввласенко / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
+  }
  }
 }
