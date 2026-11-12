@@ -22,7 +22,7 @@ hero:
   overlay:
     value: "Pakistan 57/1, lead 45"
 infographic:
-  kicker: "1st Test, Rawalpindi, day four"
+  kicker: "Rawalpindi, day four"
   headline: "Rain stops play, Pakistan lead by 45"
   dek: "Saqib's seven on debut, Pakistan 57 for 1 at close"
   motif: cloud-rain
@@ -89,12 +89,12 @@ Pakistan's first innings of 434 for 9 was built around Saud Shakeel's 93. On day
 Bad light and then rain ended the afternoon early. Before that, Pakistan's batters had steadied after Arif's early exit, with Awais and Taha taking the score from 15 for 1 to 39 for 1 at lunch and then to 57.
 
 ```photo
-{"n":2,"subject":"Asitha Fernando","caption":"Asitha Fernando, who bowled Tayyab Arif lbw for 11 for Sri Lanka's only wicket of the evening.","alt":"Asitha Fernando bowling"}
+{"n":2,"subject":"Asitha Fernando","caption":"Asitha Fernando, who bowled Tayyab Arif lbw for 11 for Sri Lanka's only wicket of the day.","alt":"Asitha Fernando bowling"}
 ```
 
 ## What it means for the result
 
-A lead of 45 with nine wickets standing is a comfortable position, but not one that wins a Test unless the weather allows a declaration and enough overs to bowl Sri Lanka out. Reports say more rain is forecast for Friday and describes the match as **heading for a draw**. The surface that gave Sri Lanka 404 for 4 on day three is the one Pakistan will bat on again, so quick runs are not guaranteed.
+A lead of 45 with nine wickets standing is a comfortable position, but not one that wins a Test unless the weather allows a declaration and enough overs to bowl Sri Lanka out. Reports say more rain is forecast for Friday and describe the match as **heading for a draw**. The surface that gave Sri Lanka 404 for 4 on day three is the one Pakistan will bat on again, so quick runs are not guaranteed.
 
 A draw would leave the two-Test series level at 0-0 going into the second match.
 

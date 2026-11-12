@@ -9,7 +9,6 @@ title: "De Silva and Kusal Mendis add 249 unbeaten as Sri Lanka reach 404 for 4 
 standfirst: "Dhananjaya de Silva made 167 not out and captain Kusal Mendis 117 not out on day three of the first Test, taking Sri Lanka to within 30 runs of Pakistan's 434 with six wickets in hand."
 published: 2026-11-11T22:20:00+05:30
 location: Rawalpindi
-upcoming: {date: 2026-11-12, en: "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi", hi: "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन"}
 keyPoints:
   - "Dhananjaya de Silva and Kusal Mendis shared an **unbroken 249 for the fifth wicket** on Wednesday."
   - "Sri Lanka ended day three on **404 for 4**, trailing Pakistan's 434 for 9 declared by 30 runs."

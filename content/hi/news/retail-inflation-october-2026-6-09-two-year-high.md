@@ -18,7 +18,7 @@ hero:
   need: "भारत के एक सब्ज़ी बाज़ार में प्याज़ के ढेर (फ़ाइल फ़ोटो)"
   suggested_source: "onion"
   subjects: ["onion"]
-  alt: "भारत के एक सब्ज़ी बाज़ार में प्याज़ की बोरियां (फ़ाइल फ़ोटो)"
+  alt: "भारत में बिक्री के लिए प्याज़ (फ़ाइल फ़ोटो)"
   overlay:
     value: "खुदरा महंगाई 6.09%, दो साल में सबसे ऊंची"
 related: [retail-inflation-september-2026-5-54, rbi-raises-repo-rate-to-5-50, retail-inflation-rises-to-4-82-in-august, how-india-measures-inflation-new-cpi-series, food-inflation-weak-monsoon-sugar-poultry-milk-prices, inflation]

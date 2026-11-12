@@ -9,7 +9,6 @@ title: "Pakistan need early wickets in Rawalpindi but afternoon rain is forecast
 standfirst: "Sri Lanka resume 30 runs behind with six wickets in hand in the first Test, and a forecast of heavy showers from the afternoon could decide how much time Pakistan have. The second Test has also been moved to Rawalpindi because of Lahore's smog."
 published: 2026-11-12T00:12:02+05:30
 location: Rawalpindi
-upcoming: {date: 2026-11-12, en: "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon", hi: "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"}
 keyPoints:
   - "Sri Lanka resume on **404 for 4**, 30 runs behind Pakistan's 434 for 9 declared, with six wickets in hand."
   - "A forecast cited in reports gives a **92 per cent chance of rain** in the afternoon of day four, with about 14.6 mm possible."

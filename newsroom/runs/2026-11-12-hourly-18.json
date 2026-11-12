@@ -1,0 +1,26 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-12T18:04:57+05:30",
+ "end": "2026-11-12T18:44:24+05:30",
+ "summary": "3 stories, October CPI 6.09% leads; Andhra CII story held for picture",
+ "new": [
+  "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+  "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+  "retail-inflation-october-2026-6-09-two-year-high"
+ ],
+ "held": [
+  "andhra-naidu-303-mous-9-89-lakh-crore-cii-summit-investors-protection-act"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "andhra-naidu-303-mous-9-89-lakh-crore-cii-summit-investors-protection-act",
+   "kind": "picture",
+   "why": "Main picture is an old file photo of Naidu signing papers with Smriti Irani at the HRD ministry in New Delhi: wrong setting and a second politician who has nothing to do with the CII summit story, with Naidu small and side-on",
+   "fix": "Use a clear photo of N. Chandrababu Naidu speaking (ideally at the CII Partnership Summit in Visakhapatnam, or a clean portrait of Naidu alone)"
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "retail-inflation-october-2026-6-09-two-year-high"
+}

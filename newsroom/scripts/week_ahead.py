@@ -41,7 +41,7 @@ def build(now=None, root='.'):
     d = today
     while d <= end:
         prev = (d.replace(day=1) - dt.timedelta(days=1))
-        if d.day == 12: add(d, 'chart-line', f'Retail inflation (CPI) for {FULL_EN[prev.month]}, 4 pm', f'{MON_HI[prev.month]} की खुदरा महंगाई (सीपीआई), शाम 4 बजे')
+        if d.day == 12 and not (d == today and (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).hour >= 16): add(d, 'chart-line', f'Retail inflation (CPI) for {FULL_EN[prev.month]}, 4 pm', f'{MON_HI[prev.month]} की खुदरा महंगाई (सीपीआई), शाम 4 बजे')
         if d.weekday() == 4: add(d, 'bank', "RBI's weekly forex reserves figures", 'आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े')
         if d.day == 1: add(d, 'receipt', f'GST collections for {FULL_EN[prev.month]}', f'{MON_HI[prev.month]} का जीएसटी संग्रह')
         d += dt.timedelta(days=1)

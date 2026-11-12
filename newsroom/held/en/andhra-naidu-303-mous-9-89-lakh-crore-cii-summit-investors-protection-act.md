@@ -6,7 +6,7 @@ section: states
 format_label: "States / Andhra Pradesh"
 topics: []
 title: "Naidu announces 303 MoUs worth ₹9.89 lakh crore at Visakhapatnam summit, plans investor protection law"
-standfirst: "At the inauguration of the 31st CII Partnership Summit, the Andhra Pradesh chief minister said the state's investment commitments since June 2024 now reach ₹32.49 lakh crore, and asked Piyush Goyal to back an Investors Protection Act."
+standfirst: "At the inauguration of the 31st CII Partnership Summit, the Andhra Pradesh chief minister said the state's investment commitments since June 2024 now reach ₹32.49 lakh crore, while IT Minister Nara Lokesh asked Piyush Goyal to back an Investors Protection Act."
 published: 2026-11-12T18:06:41+05:30
 location: Visakhapatnam
 keyPoints:

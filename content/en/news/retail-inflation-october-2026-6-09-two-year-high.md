@@ -17,7 +17,7 @@ hero:
   need: "Onions piled at a vegetable market stall in India (file photo)"
   suggested_source: "onion"
   subjects: ["onion"]
-  alt: "Sacks of onions at a vegetable market in India (file photo)"
+  alt: "Onions on sale in India (file photo)"
   overlay:
     value: "Retail inflation 6.09%, a 2-year high"
 related: [retail-inflation-september-2026-5-54, rbi-raises-repo-rate-to-5-50, retail-inflation-rises-to-4-82-in-august, how-india-measures-inflation-new-cpi-series, food-inflation-weak-monsoon-sugar-poultry-milk-prices, inflation]
