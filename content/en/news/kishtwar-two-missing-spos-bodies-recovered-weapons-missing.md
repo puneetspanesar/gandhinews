@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: warning, value: "2", label: "Special Police Officers, aged 57 and 45, found with bullet wounds"}
     - {icon: clock, value: "8 to 9 am", label: "time the bodies were recovered, November 12, 2026"}
-  chart: {type: columns, title: "Terror-related deaths in Kishtwar, by year", highlight: -1, items: [{label: "2024", value: 5, display: "5"}, {label: "2025", value: 4, display: "4"}, {label: "2026 so far", value: 5, display: "5"}]}
+  chart: {type: columns, title: "Terror-related deaths in Kishtwar, by year", highlight: -1, items: [{label: "2024", value: 5, display: "5"}, {label: "2025", value: 4, display: "4"}, {label: "2026, before November 12", value: 5, display: "5"}]}
   source: "Reports of November 12, 2026"
 related: [kulgam-crpf-naka-attack-three-injured-nov-11, kashmir-igp-sujit-kumar-security-review-winter]
 seo:
@@ -72,7 +72,7 @@ The dead are Babi Chand, 57, and Rashpal Kumar, 45. Both were attached to the J&
 
 The two men left their camp at Kiyar on Wednesday, November 11, on foot through forest. They were to **reach an Army post and relieve personnel** of the 17 Rashtriya Rifles at a temporary base. Reports differ on the exact base: some name Dharna-Marwah, one names Basnan in Inderwal. They never got there.
 
-Their phones were reachable at first and then switched off. Local residents were reported to have heard gunshots in the forest between Kiyar and Deharna shortly before contact was lost.
+Their phones were reachable at first and then switched off.
 
 Police, the Army and the CRPF began a joint search that night. Drones and sniffer dogs were used across forested, steep ground. The search ended the next morning when the bodies were found. A cordon has since been thrown around the area to trace the people responsible, and a manhunt has been launched.
 
@@ -80,7 +80,6 @@ Police, the Army and the CRPF began a joint search that night. Drones and sniffe
 
 Both men had **bullet wounds, including on the head**, according to the reports. Security officials confirmed that their service rifles were missing, and that absence is the main reason investigators are treating a militant angle as a line of inquiry. No authority has named an attacker or a group, and the circumstances of the killings have not been formally established.
 
-A police officer cautioned earlier on Wednesday that it would be premature to link the disappearance to militancy before the facts emerged. By Thursday morning, with two bodies and no rifles, that caution had given way to a manhunt.
 
 No official statement from J&K Police or the Army giving the cause of death or the state of the search was available at the time of writing.
 
@@ -93,7 +92,7 @@ Hers is the only on-record political reaction found so far.
 
 ## How the district has fared
 
-Kishtwar, in the Chenab valley, has dense forest and little mobile connectivity, which makes patrols slow and searches long. Counter-insurgency operations in recent years have weakened the militant networks there, but the district has not been free of violence. Reported deaths in terror-related incidents in Kishtwar were **five in 2026 so far**, four of them militants and one a soldier, against four in 2025 and five in 2024, when three security personnel and two civilians died.
+Kishtwar, in the Chenab valley, has dense forest and little mobile connectivity, which makes patrols slow and searches long. Counter-insurgency operations in recent years have weakened the militant networks there, but the district has not been free of violence. Reported deaths in terror-related incidents in Kishtwar were **five in 2026 before these killings**, four of them militants and one a soldier, against four in 2025 and five in 2024, when three security personnel and two civilians died.
 
 On October 4, Deputy Commissioner Pankaj Kumar Sharma asked residents of Marwah, Warwan and Dachhan to share information about the movement of suspected militants, saying militancy stood in the way of tourism and development in the area.
 

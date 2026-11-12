@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Release: Global Carbon Project page and Exeter release, November 10, 2026 (Exeter gives 01:01 UTC). ESSD preprint essd-2026-895; peer-reviewed version to follow. Just over 24 hours old at writing."
+    - "Release: Global Carbon Project page and Exeter release, November 10, 2026 (Exeter gives 01:01 UTC). ESSD preprint essd-2026-895; peer-reviewed version to follow. About 54 hours old at writing."
     - "India figures: only the 4.4% and 3.5% decade average are given by the primary release; no India fuel split, share or per capita figure found, so none is written."
     - "Quotes verbatim from the Global Carbon Budget page (Friedlingstein, Le Quere, Peters). Pongratz paraphrased from Exeter release."
     - "WMO figures (1.47C Jan to Sep, El Nino strongest on record by December) from the WMO release dated November 9."
@@ -71,7 +71,7 @@ The global dip is not the good news it appears. Total CO2 emissions, which add l
 
 The 21st annual assessment, released as a preprint in the journal Earth System Science Data on November 10, breaks the 2026 projection down by fuel and by country.
 
-By fuel, **oil emissions fall 1.9%** and gas 0.3%, while coal rises 0.6%. The authors link the oil drop largely to a short-term response to the energy shock from the Iran conflict and the disruption to flows through the Strait of Hormuz, rather than to lasting change.
+By fuel, **oil emissions fall 1.9%** and gas 0.3%, while coal rises 0.6%. The authors link the oil drop largely to a short-term response to the energy shock triggered by the Iran conflict, rather than to lasting change.
 
 By country, China, which produces 32% of the world's fossil emissions, is down 0.9%, with a sharp fall in oil and a 0.3% rise in coal. The United States is down 1.3%, mainly because coal emissions eased after last year's spike. The European Union is down 1.5% and Japan 1%. The rest of the world is down 0.7%, mostly from oil. International aviation and shipping are each down 1%.
 
@@ -100,7 +100,7 @@ Julia Pongratz of LMU Munich stressed that carbon removal must be scaled up alon
 
 ## How we got here
 
-The numbers arrive four days into COP31 in Antalya, Turkey, which began on November 9 ([our report](/en/news/cop31-opens-antalya-turkey-australia-negotiations-india-position)). The same day the World Meteorological Organization said January to September 2026 was about **1.47°C above** the 1850-1900 average, and that El Niño is expected to be the strongest on record by December. On November 4, WHO said six climate and health measures could prevent 1.6 million deaths a year ([our report](/en/news/who-six-climate-health-actions-1-6-million-lives-cop31)).
+The numbers came out on the second day of COP31 in Antalya, Turkey, which began on November 9 ([our report](/en/news/cop31-opens-antalya-turkey-australia-negotiations-india-position)). On November 9, the World Meteorological Organization said January to September 2026 was about **1.47°C above** the 1850-1900 average, and that El Niño is expected to be the strongest on record by December. On November 4, WHO said six climate and health measures could prevent 1.6 million deaths a year ([our report](/en/news/who-six-climate-health-actions-1-6-million-lives-cop31)).
 
 ## Why it matters
 

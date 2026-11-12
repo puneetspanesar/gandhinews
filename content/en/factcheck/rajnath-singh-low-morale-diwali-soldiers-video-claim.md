@@ -86,7 +86,7 @@ On Sunday, November 8, 2026, Singh celebrated Diwali with Army personnel at the 
 
 ### 2. The original video
 
-The video of the interaction was uploaded to his official YouTube channel on November 8 under the title "Interaction with Indian Army personnel in Sikkim on the occasion of Diwali". According to checks of the clip by others, it shows him paying tribute to the fallen and saying that the soldiers' smile, energy and courage are "the biggest lights of this Diwali". The words in the viral clip, including the line about "bad days", do not appear in it. We could not open the upload ourselves.
+The video of the interaction was uploaded to his official YouTube channel on November 8 under the title "Interaction with Indian Army personnel in Sikkim on the occasion of Diwali". According to checks of the clip by others, it shows him paying tribute to the fallen and saying that the soldiers' smile, energy and courage are "the biggest lights of this Diwali". The words in the viral clip do not appear in it. We could not open the upload ourselves.
 
 ### 3. What the Army said
 

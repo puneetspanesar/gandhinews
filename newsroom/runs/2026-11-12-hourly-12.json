@@ -1,0 +1,31 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-12T12:05:38+05:30",
+ "end": "2026-11-12T12:44:42+05:30",
+ "summary": "4 new stories, editorial and fact check; Cabinet fertiliser subsidy leads",
+ "new": [
+  "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
+  "rajnath-singh-low-morale-diwali-soldiers-video-claim",
+  "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+  "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+  "india-bans-export-lithium-ion-battery-black-mass",
+  "kishtwar-two-missing-spos-bodies-recovered-weapons-missing"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+   "why": "Two claims appear in none of the four listed sources (The Week, ANI, The Wire, The Tribune were each checked): that local residents heard gunshots in the forest between Kiyar and Deharna before contact was lost, and that a police officer cautioned on Wednesday against linking the disappearance to militancy. The Tribune's sources say the SPOs were 'killed by terrorists', so the caution paragraph also misstates the record. The same problem is in the Hindi twin.",
+   "done": "Deleted the gunshots sentence and the 'police officer cautioned' paragraph in English and Hindi"
+  },
+  {
+   "id": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+   "why": "The story says the authors link the oil drop to 'the disruption to flows through the Strait of Hormuz'. Neither the Global Carbon Budget page nor the Exeter release mentions Hormuz; both only say 'the energy shock triggered by the Iran conflict'. The verification note also calls the release 'just over 24 hours old', but it came out at 01:01 UTC on November 10, about 54 hours ago.",
+   "done": "Cut the Hormuz clause in both languages; verification note now says about 54 hours old"
+  }
+ ],
+ "breaches": [],
+ "lead": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+}
