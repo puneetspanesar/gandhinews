@@ -41,28 +41,6 @@
         }
       },
       {
-        "link": "retail-inflation-october-2026-6-09-two-year-high",
-        "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
-        },
-        "text": {
-          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
-          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
-        }
-      },
-      {
-        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
-          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
-        }
-      },
-      {
         "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "lead": {
           "en": "Cricket:",
@@ -96,6 +74,17 @@
         }
       },
       {
+        "link": "modi-asean-india-summit-manila-november-16-18",
+        "lead": {
+          "en": "Southeast Asia:",
+          "hi": "दक्षिण-पूर्व एशिया:"
+        },
+        "text": {
+          "en": "Modi to attend ASEAN-India and East Asia Summits in Manila from November 16 to 18",
+          "hi": "मोदी 16 से 18 नवंबर तक मनीला में आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन में शामिल होंगे"
+        }
+      },
+      {
         "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "lead": {
           "en": "Maharashtra:",
@@ -115,6 +104,17 @@
         "text": {
           "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
           "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
+        }
+      },
+      {
+        "link": "retail-inflation-october-2026-6-09-two-year-high",
+        "lead": {
+          "en": "Inflation:",
+          "hi": "महंगाई:"
+        },
+        "text": {
+          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
+          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
         }
       }
     ]
@@ -182,18 +182,18 @@
   },
   "topStories": {
     "big": {
-      "id": "retail-inflation-october-2026-6-09-two-year-high",
+      "id": "india-a-women-squads-england-a-shreyanka-patil-recalled",
       "also": []
     },
     "list": [
-      "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-      "india-a-women-squads-england-a-shreyanka-patil-recalled",
       "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
       "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+      "modi-asean-india-summit-manila-november-16-18",
+      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
     ],
     "also": [
-      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+      "retail-inflation-october-2026-6-09-two-year-high",
       "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
     ]
   },
@@ -425,8 +425,8 @@
       "lead": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
       "list": [
         "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "modi-asean-india-summit-manila-november-16-18"
+        "modi-asean-india-summit-manila-november-16-18",
+        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia"
       ]
     },
     {
@@ -631,17 +631,17 @@
       ]
     },
     {
-      "at": "2026-11-12T23:40:51+05:30",
+      "at": "2026-11-12T23:54:21+05:30",
       "ids": [
         "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "modi-asean-india-summit-manila-november-16-18",
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     }
   ],

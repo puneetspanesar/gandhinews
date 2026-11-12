@@ -1,11 +1,9 @@
 {
  "run": "hourly-23",
  "start": "2026-11-12T23:07:03+05:30",
- "end": "2026-11-12T23:40:43+05:30",
- "summary": "Lead run: Putin hosts Witkoff and Kushner in Moscow",
- "new": [
-  "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
- ],
+ "end": "2026-11-12T23:59:23+05:30",
+ "summary": "Homepage layout fix: seven headlines in the English middle column",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
