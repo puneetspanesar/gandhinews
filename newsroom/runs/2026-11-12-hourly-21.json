@@ -1,0 +1,15 @@
+{
+ "run": "hourly-21",
+ "start": "2026-11-12T21:05:08+05:30",
+ "end": "2026-11-12T21:28:02+05:30",
+ "summary": "Lead run: Centre weighs special Session for Delimitation Bill",
+ "new": [
+  "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+}

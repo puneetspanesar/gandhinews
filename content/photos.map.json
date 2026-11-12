@@ -47960,6 +47960,19 @@
   "licence": "GODL-India",
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg",
+  "treated": {
+   "src": "/photos/t-special-session-delimitation-bill-shah-361-votes-jairam-blus-1280.jpg",
+   "src800": "/photos/t-special-session-delimitation-bill-shah-361-votes-jairam-blus-640.jpg",
+   "cutout": true,
+   "with": [
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1",
+    "special-intensive-revision-how-to-check-your-name",
+    "cec-removal-belongs-in-parliament-call-the-special-session"
+   ],
+   "kind": "photo",
+   "subj": "383c667365677ee7",
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Fotokannan / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  }
 }
