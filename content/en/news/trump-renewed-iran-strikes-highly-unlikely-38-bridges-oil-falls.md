@@ -80,10 +80,6 @@ The conciliatory words sit awkwardly beside the diplomatic picture. Secretary of
 
 Iran's position has not changed. It says it passed a nuclear proposal to Washington through Qatar but will discuss it only after the US meets [seven demands](/en/news/iran-hands-us-nuclear-proposal-seven-demands), which include lifting sanctions, releasing frozen assets and paying war reparations. Washington wants nuclear questions in any first round.
 
-```photo
-{"n":1,"subject":"Abbas Araghchi","caption":"Iran's Foreign Minister Abbas Araghchi, who says mediators have stopped travelling since the US midterms.","alt":"Iranian Foreign Minister Abbas Araghchi"}
-```
-
 ## The sea and the sky
 
 The weekend gave little sign of calm. Both sides reported ships hit in or near the Strait of Hormuz. Iran said [two tankers hit mines](/en/news/hormuz-two-tankers-mines-fire-riyadh-blasts-houthi-missiles-november-8) and a third caught fire, while the US said it disabled a commercial vessel in the Gulf of Oman. Neither claim could be independently confirmed. A Saudi Aramco administrative building in Riyadh was reportedly damaged by falling debris after an attempted attack, with no injuries.

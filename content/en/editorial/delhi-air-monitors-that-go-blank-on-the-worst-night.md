@@ -73,10 +73,6 @@ The political row that followed has produced more heat than facts. The Aam Aadmi
 
 Both sides are arguing about motives. The public needs the evidence, and only a system built to be checked can supply it.
 
-```photo
-{"n":1,"subject":"Stubble burning Punjab","caption":"Paddy stubble burning in a Punjab field; Punjab logged 1,152 farm fires on Diwali day, the season's highest, and the count fed a row between Delhi and Punjab parties.","alt":"A farm fire burning paddy stubble in Punjab"}
-```
-
 ## The fair objection
 
 Monitors do fail. Dust, heat, power cuts and ageing sensors are routine problems anywhere, and an instrument that reads 3,744 may sometimes be wrong. Some will say that real-time publication of raw data would feed panic and rumour. It would also feed accountability, and the lesser risk is the second. Residents who see a flagged gap can ask a question. Residents who see nothing can only suspect.

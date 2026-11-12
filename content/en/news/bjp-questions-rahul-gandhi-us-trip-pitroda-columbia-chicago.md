@@ -72,10 +72,6 @@ At Columbia University on November 17 Mr. Gandhi will take part in a fireside ch
 
 Mr. Pitroda rejected the BJP's claim that Mr. Gandhi defames India when abroad, calling it a "bogus" argument. He said the point was "showing facts as you see it", not criticising anybody.
 
-```photo
-{"n":1,"subject":"Sam Pitroda","caption":"Sam Pitroda, chairman of the Indian Overseas Congress, who announced the schedule.","alt":"Sam Pitroda"}
-```
-
 ## How we got here
 
 The charge is not new. On October 23, Mr. Trivedi told a press conference in New Delhi that Mr. Gandhi meets "questionable individuals" abroad at undisclosed locations and returns to run down India. **Karnataka minister Priyank Kharge replied** by asking what the country's intelligence agencies were doing and challenging the BJP to "show documents" if Mr. Gandhi had done anything anti-national. We reported that exchange in [our earlier story](/en/news/trivedi-rahul-foreign-trips-priyank-kharge-raw-retort).
@@ -93,10 +89,6 @@ At a press conference at BJP headquarters the same Wednesday, Mr. Trivedi accuse
 ## Why it matters to readers
 
 Mr. Gandhi's talks are public events at universities, and the topics Mr. Pitroda listed, from student movements to the Iran war, will be on the record once held. Whatever he says on the Middle East or on the state of Indian democracy will be set against the BJP's argument that his trips are a pattern. For voters in the states where the Congress is campaigning, the BJP's attack is also about attendance: Mr. Trivedi's claim is that the party's leader is away from the ground.
-
-```photo
-{"n":2,"subject":"Columbia University","caption":"Columbia University in New York, where Mr. Gandhi is due to hold a fireside chat on November 17.","alt":"Columbia University campus"}
-```
 
 ## What happens next
 

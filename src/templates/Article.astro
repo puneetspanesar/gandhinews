@@ -13,7 +13,7 @@ import { content, urlOf, prefix, kicker, fmtDate, fmtDateTime, labelParts, heroO
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
 import PHOTO_MAP from '../../content/photos.map.json';
 import CORRECTIONS from '../../content/corrections.json';
-import { newsArticleLd, faqLd, claimReviewLd, storyImage, shareImage } from '../lib/seo';
+import { tabTitle, newsArticleLd, faqLd, claimReviewLd, storyImage, shareImage } from '../lib/seo';
 import { stateBox } from '../lib/home';
 import { duo } from '../lib/icons.mjs';
 import '../styles/article-c.css';
@@ -91,6 +91,7 @@ const heroOv = {
   lang={lang}
   noindex={d.verification?.status === 'needs-editor-approval'}
   title={d.title}
+  tabTitle={tabTitle(d)}
   description={d.seo.description}
   path={route}
   ogType="article"

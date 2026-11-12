@@ -83,10 +83,6 @@ The ceiling is not absolute. The Court allowed the state to go beyond it only in
 
 A Division Bench of Chief Justice Vibhu Bakhru and Justice K S Hema Lekha held that crossing 50% needs a compelling, evidence-based justification, and the state had not given one. The Bench accepted that the state can make such a law, but said that power does not free it from other limits in the Constitution. It also found that the state consulted the National Commissions for SCs and STs only after the law was in force, which it did not treat as real consultation.
 
-```photo
-{"n":1,"subject":"Vibhu Bakhru","caption":"Chief Justice Vibhu Bakhru, who led the Karnataka High Court Bench that struck down the 56% quota law.","alt":"Chief Justice of the Karnataka High Court Vibhu Bakhru (file photo)"}
-```
-
 ## Is the ceiling the same everywhere?
 
 **No, but the courts have mostly enforced it.** The Supreme Court confirmed the rule on May 5, 2021, when a five-judge Bench struck down Maharashtra's 2018 law that would have taken reservation from 52% to 68%. It found no extraordinary situation and **declined to send Indra Sawhney to a larger Bench**.
@@ -114,10 +110,6 @@ Challenges to Tamil Nadu's law have been held back in the Supreme Court pending 
 **Because the state says it is the only permanent fix.** Karnataka's Assembly passed a resolution on December 18, 2025, asking the Centre to place its quota in the Ninth Schedule. The Centre told Parliament on July 25, 2026, that the request would be deferred because the matter was before the High Court. After the verdict, the state said it would fight in the Supreme Court and keep pressing the Centre.
 
 The state's release also points out that Karnataka has five Union ministers and 19 Lok Sabha MPs from the BJP and the JD(S), and that no constitutional amendment has been introduced. No response from the Centre was available on Wednesday night.
-
-```photo
-{"n":2,"subject":"Supreme Court of India","caption":"The Supreme Court in New Delhi, where Karnataka filed its special leave petition on November 11, 2026.","alt":"The Supreme Court of India building in New Delhi"}
-```
 
 ## What happens next?
 

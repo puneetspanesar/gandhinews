@@ -61,10 +61,6 @@ Indian shares **ended Friday with a powerful rally**. The Sensex closed up 1,718
 
 Both indices **closed at the very top of the day's range**. The Sensex had dipped to 79,016.05 in early trade, as markets across Asia tumbled after an overnight rout in US technology shares, and the Nifty touched 24,388.05. From there the buying never let up: the Sensex was at 79,956.74 at 1 pm and 80,375.65 at 2 pm, and it added another 650 points in the last ninety minutes.
 
-```photo
-{"n":1,"subject":"ICICI Bank Towers Bandra Kurla Complex","caption":"ICICI Bank's offices in Mumbai; the bank was among the biggest gainers on Friday.","alt":"ICICI Bank Towers in Bandra Kurla Complex, Mumbai"}
-```
-
 ## Banks and M&M lead
 
 Banks carried the market. **Financial services and banking shares rose more than 2%**, with ICICI Bank, HDFC Bank, Axis Bank, Kotak Mahindra Bank and State Bank of India among the leading gainers. Mahindra & Mahindra topped both the Sensex and Nifty lists, rising more than 4% after its September-quarter results, and Titan, Adani Ports, Sun Pharma and Tata Steel also climbed.

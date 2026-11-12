@@ -73,10 +73,6 @@ Daryl Mitchell held the innings together with 55 off 104 balls and Mitchell Sant
 
 The target of 135 looked small, but India were 40 for 3 after ten overs and Gill was out for a duck. Kyle Jamieson and Jacob Duffy took three wickets each. Rohit Sharma made 23 off 28 and **Shreyas Iyer top-scored with 30** off 46 balls.
 
-```photo
-{"n":1,"subject":"Shreyas Iyer","caption":"Shreyas Iyer top-scored for India with 30 in the chase.","alt":"India batter Shreyas Iyer"}
-```
-
 KL Rahul was unbeaten on 26 when the rain returned. India were **113 for 7 after 26 overs**, 22 short of the target, and the DLS par score at that stage was 109. Players left the field after the last ball of the 26th over and play did not resume, so India were declared winners by four runs.
 
 Gill said afterwards that it was not easy out there and that the team kept losing wickets.

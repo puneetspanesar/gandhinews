@@ -70,10 +70,6 @@ Additional Chief Judicial Magistrate Vinod Joshi, who hears cases involving MPs 
 
 Tripathi alleges that her name appeared on the New Delhi constituency's roll in 1980, **three years before she became an Indian citizen** in April 1983, and that the entry could not have been made without forged papers.
 
-```photo
-{"n":1,"subject":"Rouse Avenue Court","caption":"The Rouse Avenue court complex in New Delhi, where a magistrate is hearing the complaint afresh.","alt":"Rouse Avenue court complex, New Delhi"}
-```
-
 A magistrate refused to order an FIR in 2025. On September 21, Special Judge Vishal Gogne **set that refusal aside**. "The order is a non-speaking order. It is liable to be set aside," he said, noting that it gave no reasons and leaned on an unverified photocopy. He sent the case back with directions to call for a status report from the police officer concerned and to pass a reasoned order after hearing that officer.
 
 No finding has been made on the merits of the complaint, and **no response from Sonia Gandhi** or her lawyers has been reported.

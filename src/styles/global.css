@@ -687,7 +687,7 @@ footer .legal a:hover{color:#fff}
 .hero .pcred:hover{color:var(--ink)}
 .pc-list{list-style:none;margin-top:20px}
 .pc-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:14px 0;border-top:1px solid var(--line);font-size:16px;color:var(--ink)}
-.pc-list img{height:80px;border-radius:3px}
+.pc-list img{width:120px;height:80px;object-fit:cover;border-radius:3px}
 .pc-list b{font-family:var(--f-serif);font-weight:600;color:var(--ink);display:block}
 .pc-list a{color:var(--ink);text-decoration:underline}
 

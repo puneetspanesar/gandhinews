@@ -72,10 +72,6 @@ The India business did most of the work. Its earnings before interest, tax, depr
 
 Across all its businesses, Hindalco's segment EBITDA was ₹13,869 crore, against ₹9,104 crore a year ago. The company said nearly half its earnings now come from businesses that do not track the London Metal Exchange price directly: Novelis, copper and downstream aluminium.
 
-```photo
-{"n":1,"subject":"Novelis","caption":"Novelis, Hindalco's US-based aluminium rolling subsidiary, lifted its earnings per tonne by 23% in the quarter.","alt":"A Novelis aluminium plant"}
-```
-
 ## Novelis recovers
 
 Novelis, the US-based maker of rolled aluminium for drinks cans and cars that Hindalco owns, **raised its adjusted EBITDA 20% to $508 million**, on net sales of $5.9 billion. It shipped slightly less metal, 919 kilotonnes against 941 a year earlier, but earned $553 for every tonne, up 23%. The quarter included $39 million in insurance recoveries for the 2025 fires at its Oswego plant in New York, taking the total recovered to $519 million.

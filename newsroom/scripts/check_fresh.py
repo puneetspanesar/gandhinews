@@ -125,7 +125,9 @@ if ph:
         if i not in P: continue
         u = P[i].get('updated')
         if i in crit and u and u > pt: continue
-        if i != (ph.get('lead') or {}).get('id') and P[i]['type'] == 'news' and age(i) < 6: continue   # fresh news stays and moves down (owner, November 8)
+        # fresh news stays and moves down (owner, November 8). Age is taken at the top of this hour, so a homepage that
+        # passed when it was made does not start failing forty minutes later (found November 12)
+        if i != (ph.get('lead') or {}).get('id') and P[i]['type'] == 'news' and age(i) - now.minute / 60 < 6: continue
         why = f'already in the headlines at {pt:%H:%M}: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical)'
         # the lead can only change to a new story: when none exists the run still publishes (breach recorded), never freezes
         (soft.append((why, i, 0)) if i == h['lead']['id'] else flag(why, i))

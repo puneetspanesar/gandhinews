@@ -41,15 +41,23 @@ def build(now=None, root='.'):
     d = today
     while d <= end:
         prev = (d.replace(day=1) - dt.timedelta(days=1))
-        if d.day == 12 and not (d == today and (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).hour >= 16): add(d, 'chart-line', f'Retail inflation (CPI) for {FULL_EN[prev.month]}, 4 pm', f'{MON_HI[prev.month]} की खुदरा महंगाई (सीपीआई), शाम 4 बजे')
+        if d.day == 12 and not (d == today and now.hour >= 16): add(d, 'chart-line', f'Retail inflation (CPI) for {FULL_EN[prev.month]}, 4 pm', f'{MON_HI[prev.month]} की खुदरा महंगाई (सीपीआई), शाम 4 बजे')
         if d.weekday() == 4: add(d, 'bank', "RBI's weekly forex reserves figures", 'आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े')
         if d.day == 1: add(d, 'receipt', f'GST collections for {FULL_EN[prev.month]}', f'{MON_HI[prev.month]} का जीएसटी संग्रह')
         d += dt.timedelta(days=1)
-    seen, out = set(), []
-    for d, icon, en, hi, link in sorted(items, key=lambda x: x[0]):
-        if en in seen: continue
-        seen.add(en)
+    # Owner, November 12: the band read "Today" five times at 6 pm, with the same event twice. One line per event,
+    # at most two a day so the band covers the week, and today's lines go once the day is nearly over.
+    import re
+    key = lambda en: {w for w in re.findall(r'[a-z]{5,}', en.lower())} - {'india', 'first', 'second', 'third', 'fourth', 'today'}
+    seen, out, per_day = [], [], {}
+    for d, icon, en, hi, link in sorted(items, key=lambda x: (x[0], x[4] is None)):
+        if d == today and now.hour >= 18: continue
+        k = key(en)
+        if any(d0 == d and len(k & k0) >= 2 for d0, k0 in seen) or per_day.get(d, 0) >= 2: continue
+        seen.append((d, k)); per_day[d] = per_day.get(d, 0) + 1
         out.append({'icon': icon, 'date': label(d, today), 'text': {'en': en, 'hi': hi}, **({'link': link} if link else {})})
+    if len(out) < 2:   # never an empty band: fall back to everything dated, today included
+        out = [{'icon': icon, 'date': label(d, today), 'text': {'en': en, 'hi': hi}, **({'link': link} if link else {})} for d, icon, en, hi, link in sorted(items, key=lambda x: x[0])]
     return out[:6]
 if __name__ == '__main__':
     for x in build(): print(x['date']['en'], '|', x['text']['en'], '|', x['text']['hi'])

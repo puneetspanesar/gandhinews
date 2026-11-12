@@ -1,12 +1,13 @@
-# Stall check (minute 52 of every writing-run hour: 6:52 am to 10:52 pm IST, every 2 hours)
+# Stall check (minute 12 of the hours between writing runs: 7:12 am to 11:12 pm IST, every 2 hours)
 
 The counter check on the hourly and long-form runs. It never trusts a run's own report: it checks the live site against the rules and fixes what is wrong. Read newsroom/RUNBOOK.md first; its rules (A), pictures (C), gate (D) and publish (E) apply. The owner hears from this run only about what it could not fix.
 
 ## 1. Check
-First, ONE command and nothing else (no setup, no build: this keeps a clean check to a minute):
+First, ONE command and nothing else (no setup, no build: this keeps a clean check to a few minutes):
 ```
-cd /home/claude/gandhinews && python3 newsroom/scripts/verify_live.py
+bash /home/claude/gandhinews/newsroom/scripts/stall_first.sh
 ```
+It starts the homepage rotation job for this hour (owner, November 12: GitHub skips most of that job's own scheduled starts, so the hours between writing runs went without a change), waits for it, then runs verify_live.py.
 It prints "OK at": finish silently, now. Only when it prints LIVE SITE PROBLEMS go on:
 ```
 source /home/claude/gandhinews/newsroom/scripts/setup.sh stall-HH

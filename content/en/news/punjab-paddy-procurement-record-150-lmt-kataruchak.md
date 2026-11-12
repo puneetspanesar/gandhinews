@@ -56,10 +56,6 @@ Kataruchak said **₹33,000 crore has been credited to farmers' accounts**. He c
 
 "Every grain of the farmers will be procured and payment will be made in a time-bound manner," the minister said.
 
-```photo
-{"n":1,"subject":"Bhagwant Mann","caption":"Chief Minister Bhagwant Singh Mann, whom the minister credited with overseeing the procurement.","alt":"Punjab Chief Minister Bhagwant Singh Mann"}
-```
-
 ## Coordination on the ground
 
 The minister said his department is working with the procurement agencies, the Mandi Board, transporters and labour to speed up lifting. The statement gave no mandi-wise or district-wise breakdown.

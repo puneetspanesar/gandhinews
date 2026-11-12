@@ -63,7 +63,7 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 
 ## November 12, 2026, 6:50 am (from the 06:00 run)
 - Published 5: tn-law-and-order-diwali-murders-centre-seeks-governor-report (LEAD, Amit Shah Commons file photo; rests on reports), modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview (PMO release read; Modi library portrait, tight crop, needs an event photo), india-cuts-visa-categories-13-to-9-form-fields-mha (IGI T3 file photo; rests on reports, MHA release not found), iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview, india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back.
-- Held: nepal-pm-shah-india-visit-november-22-25-modi-talks-aid (news two days old; republish when India announces the dates).
+- Nepal PM Shah's India visit (November 22 to 25): write it fresh when India announces the dates; the held draft was dropped on November 12.
 - WebFetch permission prompts went unanswered for news front pages (newsonair, thehindu, indianexpress): the front-page check ran on these notes only.
 - Fixed a build break: sangrur-prtc-bus-flyover-crash-three-killed linked /news/<id> (unresolvable); now /en|hi/news/<id>.
 - Editor homepage notes not done (template-driven or need research): seafarer card says three safe, six now reported (six-indian-seafarers-safe... is held for its picture); Russia-Ukraine twice in Must Read; Swachh preview in Policy list; three Bastar items in Politics.

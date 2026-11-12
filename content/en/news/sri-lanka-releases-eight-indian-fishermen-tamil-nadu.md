@@ -57,10 +57,6 @@ The men were part of a crew of nine who set out from Rameswaram on a mechanised 
 
 The nine were produced before a local court and sent to **prison in Jaffna**. The central and Tamil Nadu governments then took up their case with Sri Lankan officials.
 
-```photo
-{"n":1,"subject":"Delft Island","caption":"Neduntheevu, or Delft Island, off Jaffna, near which the Sri Lankan Navy stopped the Rameswaram boat on October 3.","alt":"The coast of Delft Island in northern Sri Lanka"}
-```
-
 On October 30 a Sri Lankan court **ordered eight of the nine released**. The boat's driver, who had been caught by the Sri Lankan Navy once before, was given a three-month prison sentence after this second arrest.
 
 The eight were handed to Indian diplomats in Sri Lanka and stayed at a camp run by the Indian mission while officials issued them **emergency travel certificates**. They left Colombo late on Thursday night on a passenger flight and landed in Chennai early on Friday.

@@ -81,10 +81,6 @@ Adityanath turned the argument to the state's contribution to the country. The G
 
 He also accused unnamed leaders of embracing "Bangladeshi and Pakistani infiltrators" while insulting the people of Devbhoomi, the name by which Uttarakhand is known. Calling that a **divisive mindset**, he told the organisers, the Uttarakhand Mahaparishad, that the festival would be held every year at the same venue.
 
-```photo
-{"n":1,"subject":"Govind Ballabh Pant","caption":"Govind Ballabh Pant, born in Almora, was the first Chief Minister of Uttar Pradesh, a fact Adityanath cited in his reply.","alt":"Govind Ballabh Pant, first Chief Minister of Uttar Pradesh"}
-```
-
 ## How the row began
 
 The exchange goes back to **October 24, 2026**, when Akhilesh Yadav spoke to reporters in Lucknow about infiltrators. He said they had entered the contracting business and, through investments, news channels. "And then, who are the biggest infiltrators in UP? Those from Uttarakhand," he said, as quoted in our earlier report. Another account says he also called Adityanath an "ideological infiltrator" who should be sent back to Uttarakhand, and accused the BJP of presenting fabricated figures on infiltrators.

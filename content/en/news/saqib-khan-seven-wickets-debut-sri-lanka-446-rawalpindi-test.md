@@ -76,10 +76,6 @@ Saqib finished with **7 for 130**. He is only the fourth Pakistani to take seven
 
 The spell was a turnaround for a young attack. On day three Saqib had gone for 105 runs for two wickets while de Silva and Mendis put on their 249, and our [day three report](/en/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three) described how Pakistan's seamers were punished. Abbas had said after stumps on day three that Pakistan would **push for early wickets**, and wicketkeeper Mohammad Ghazi Ghori had spoken of a positive result, as our [preview](/en/news/rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi) noted.
 
-```photo
-{"n":1,"subject":"Rawalpindi Cricket Stadium","caption":"Rawalpindi Cricket Stadium, where both Tests of the series will now be played.","alt":"Rawalpindi Cricket Stadium"}
-```
-
 ## Pakistan's second innings
 
 Sri Lanka's 446 gave them a first-innings lead of 12 over Pakistan's 434 for 9 declared. Pakistan lost an early wicket when **Tayyab Arif was out lbw for 11 to Asitha Fernando** in the third over. Azan Awais and Mohammad Taha then carried the score to 39 for 1 at the interval, Awais unbeaten on 16 and Taha on 12, with eight wickets in hand.
@@ -91,10 +87,6 @@ The lead of 27 is small, and what Pakistan do after lunch will decide whether th
 The game is scheduled to finish on Friday, November 13, 2026. A forecast cited before play had put the chance of rain at **92 per cent in the afternoon** of day four, with around 14.6 mm possible. We have not found a report of play being stopped, and the forecast was only a forecast, but any lost time now cuts into the little that Pakistan have left to build a lead and then bowl Sri Lanka out. On day three, 23 overs were already lost to bad light.
 
 The second Test, from November 17 to 21, 2026, has also been moved to Rawalpindi from Lahore because of smog, so the same ground will host both matches of the two-Test series.
-
-```photo
-{"n":2,"subject":"Mohammad Abbas","caption":"Mohammad Abbas, who took two wickets in the innings and had said Pakistan would push for early wickets.","alt":"Mohammad Abbas bowling"}
-```
 
 ## What happens next
 

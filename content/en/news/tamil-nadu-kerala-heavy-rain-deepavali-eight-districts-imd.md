@@ -66,10 +66,6 @@ The department says the rain could intensify on Sunday. **Thanjavur, Tiruvarur, 
 
 Moderate rain with thunderstorms is also expected in Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Villupuram, Cuddalore, Kallakurichi, Tiruchirappalli, Ariyalur, Perambalur, Erode, Madurai, Dindigul, Tenkasi, Tirunelveli and Puducherry. The showers may disrupt festival shopping, fireworks and travel on the day.
 
-```photo
-{"n":1,"subject":"Thanjavur","caption":"Thanjavur, one of the delta districts where the department expects heavy rain on Deepavali day.","alt":"A view of Thanjavur in the Cauvery delta"}
-```
-
 ## How long it lasts
 
 The department's seven-day outlook shows **heavy rain at isolated places on Monday, November 9 too**, mainly in the delta districts, Sivagangai, Ramanathapuram and Karaikal. On November 10 the warning narrows to Ramanathapuram and Thoothukudi, and from November 11 there is no heavy rain warning for Tamil Nadu.

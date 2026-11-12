@@ -80,10 +80,6 @@ The summit of leaders is on **November 11 and 12**, on the third and fourth days
 
 More than 100,000 people are expected in Antalya. A US congressional delegation will attend, but the Trump administration is not taking part in the negotiations. Erdogan, UN Secretary-General António Guterres and Australian Prime Minister Anthony Albanese are expected to give opening remarks.
 
-```photo
-{"n":2,"subject":"António Guterres","caption":"UN Secretary-General António Guterres, who is expected to give opening remarks.","alt":"UN Secretary-General António Guterres"}
-```
-
 ## Weaker plans, rising heat
 
 The numbers the delegates arrive with are not encouraging. National plans filed so far would cut emissions about **6% below 2019 levels by 2035**, or 9% if conditional pledges are met, according to the analysis in one pre-conference preview. A UNEP report in October found that even full delivery of current national pledges would still lead to about **2.6°C of warming** this century. The UN warned in September that the 1.5°C threshold was at risk, and a strong El Niño could make 2026 or 2027 the hottest year on record.
@@ -95,10 +91,6 @@ An energy crisis linked to the war in the Middle East is also weighing on the ta
 Finance is the most likely flashpoint. At Belém, countries agreed to "at least triple" adaptation finance by 2035 but set no starting figure and named no payers. African negotiators, chaired by Ghana, want a pledge on tripling on the COP31 agenda, while budget-strapped developed countries are reluctant. The overall Belém goal of $1.3 trillion a year by 2035 leans heavily on development banks, which, according to the preview, have pushed climate down their agendas under pressure from Washington.
 
 The loss and damage fund's first payout is $20 million for Nepal's floods, which caused estimated losses of about $2.69 billion.
-
-```photo
-{"n":1,"subject":"Bhupender Yadav","caption":"Union Environment Minister Bhupender Yadav, who briefed on India's COP31 position on November 3.","alt":"Union Environment Minister Bhupender Yadav"}
-```
 
 ## India's position
 

@@ -104,10 +104,6 @@ The Aam Aadmi Party alleges the stations were shut on purpose and that water is 
 
 **Mostly local sources on a night like this, with farm fires adding a share.** Punjab logged 1,152 fires on Diwali day, the season's highest single day, according to Commission for Air Quality Management (CAQM) figures. Even so, stubble burning was estimated at 3.5% of Delhi's PM2.5 on Sunday, against 19% from transport.
 
-```photo
-{"n":1,"subject":"Stubble burning Punjab","caption":"Punjab recorded 1,152 farm fires on Diwali day, the highest of the season, and Delhi's parties are arguing over how much of the city's smoke they explain.","alt":"A paddy field burning in Punjab (file photo)"}
-```
-
 ## What should a reader take from the number?
 
 **Read the hourly PM2.5 value, not only the AQI band, when the air is bad.** The band tells you the day's average category. The hourly figure, where it exists, shows the peak your lungs took. Children, the elderly and people with heart or lung disease are advised to stay indoors during Very Poor and Severe spells.

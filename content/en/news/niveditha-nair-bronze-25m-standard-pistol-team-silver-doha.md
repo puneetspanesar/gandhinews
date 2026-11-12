@@ -66,10 +66,6 @@ Nair shot **567-13x**, one point behind Hungary's Veronika Major (568-13x) and t
 
 Jain finished **eighth with 560-10x** and Brar tenth with 555-10x, so all three Indians made the top ten of an event that is not on the Olympic programme.
 
-```photo
-{"n":1,"subject":"Veronika Major","caption":"Hungary's Veronika Major, the silver medallist, finished one point ahead of Nair.","alt":"Hungarian shooter Veronika Major"}
-```
-
 ## The team medal
 
 The three scores add up to the team total: 567 from Nair, 560 from Jain and 555 from Brar make **1,682-33x**. That was good enough for silver, 16 points behind China, whose **1,698-43x was a new world record**. Hungary took bronze with 1,676-30x, six points behind India.

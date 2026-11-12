@@ -79,10 +79,6 @@ The colour, also known as the Nishaan, comes as Uttarakhand marks **25 years sin
 
 Figures shared at the ceremony traced that growth. The force had about 13,000 personnel when the state was formed and now has **more than 26,000**, with women making up about 14 per cent. Shah paid tribute to the 206 police personnel who have died on duty since 2000.
 
-```photo
-{"n":1,"subject":"Pushkar Singh Dhami","caption":"Chief Minister Pushkar Singh Dhami, who said the honour adds to the force's responsibilities, attended the parade in Dehradun.","alt":"Uttarakhand Chief Minister Pushkar Singh Dhami"}
-```
-
 The Home Minister singled out the policing of the state's big pilgrimages. He named the Char Dham Yatra to Gangotri, Yamunotri, Badrinath and Kedarnath, along with Hemkunt Sahib, Kainchi Dham and the Kumbh Mela, and said he had **never heard a complaint from pilgrims** about the Uttarakhand Police. He also spoke of the Vibrant Villages programme and the effort to stop people leaving border villages.
 
 Chief Minister **Pushkar Singh Dhami** called the colour national recognition of the force's service and discipline, and said it would raise both its responsibilities and its drive to do better. When the honour was first announced in April, he had described it as a "golden chapter" in the state's history.
@@ -90,10 +86,6 @@ Chief Minister **Pushkar Singh Dhami** called the colour national recognition of
 ## Drugs, cyber crime and medals
 
 The state's anti-drug campaign, Drug-Free Devbhoomi, has led to **more than 7,000 arrests** in four years and the seizure of narcotics worth over ₹307 crore, according to figures presented at the event. The state is setting up a State Cyber Crime Coordination Centre, and the police training college at Narendranagar is to become a Centre of Excellence.
-
-```photo
-{"n":2,"subject":"Uttarakhand Police","caption":"Uttarakhand Police personnel, whose force has doubled to more than 26,000 since the state was formed in 2000.","alt":"Uttarakhand Police personnel on duty"}
-```
 
 Shah released a special postal cover and a police magazine, and presented medals to five officers. Retired inspector general Narayan Singh Napalchyal and chief fire officer Vansh Bahadur Yadav received the President's Medal. The force's Operation Smile, which traces missing children, and Operation Mukti, which moves child beggars into school, were held up as models.
 

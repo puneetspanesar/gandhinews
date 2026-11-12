@@ -71,10 +71,6 @@ Maaya opened with a win over world No. 115 Katarzyna Kawa of Poland. On Wednesda
 
 "It definitely feels so good after the win," she said afterwards. "Coming in as a wild card, I felt I had nothing to lose. I just wanted to play my best tennis and give it my all."
 
-```photo
-{"n":1,"subject":"Robin Montgomery","caption":"American Robin Montgomery stands between Maaya Rajeshwaran and a place in the Chennai Open semi-finals.","alt":"American tennis player Robin Montgomery (file photo)"}
-```
-
 ## A fast rise
 
 The Chennai run follows a **breakthrough October**. Maaya won her first professional singles title at a W35 event in Lagos, Portugal, coming through qualifying without dropping a set, and also took the doubles title there with Ukraine's Yelyzaveta Kotliar.

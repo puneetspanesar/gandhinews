@@ -77,10 +77,6 @@ No group has claimed responsibility and the attackers have not been identified. 
 
 Lieutenant Governor Manoj Sinha was in Kulgam on the same day, though not near the site, according to reports.
 
-```photo
-{"n":1,"subject":"Manoj Sinha","caption":"Lieutenant Governor Manoj Sinha, who was in Kulgam on the day of the attack.","alt":"Manoj Sinha, Lieutenant Governor of Jammu and Kashmir"}
-```
-
 ## Earlier incidents in the district
 
 The attack follows a run of violence in south Kashmir this year. On July 31, 2026, attackers raided a brick kiln in Kulgam and killed two labourers from Chhattisgarh. In July, a policeman was shot dead in Anantnag town. Our earlier report on the security review ahead of winter is [here](/en/news/kashmir-igp-sujit-kumar-security-review-winter).

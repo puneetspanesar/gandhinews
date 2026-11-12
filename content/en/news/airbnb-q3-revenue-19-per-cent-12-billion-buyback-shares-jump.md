@@ -78,10 +78,6 @@ Revenue for the three months to September **rose 19% to $4.87 billion**, against
 
 "Airbnb is back in growth mode," said Brian Chesky, the company's co-founder and chief executive, on a call with analysts. He said **hotels are growing "markedly faster than our core business"** and added: "it's undoubtable that we will do multiple billions of dollars in revenue in hotels in the coming years." The company also plans to start offering guests an AI booking agent in the first half of 2027.
 
-```photo
-{"n":1,"subject":"Airbnb headquarters San Francisco","caption":"Airbnb's headquarters in San Francisco; the company released its September-quarter results after the market closed on Thursday.","alt":"Airbnb's headquarters in San Francisco (file photo)"}
-```
-
 Airbnb now expects revenue growth for 2026 **in the high teens**, up from at least the mid-teens. Chief financial officer Ellie Mertz said it expects revenue of $3.22 billion to $3.28 billion in the December quarter, growth of 16 to 18%.
 
 The results stand out against its rivals. Expedia's revenue grew 12% in the same quarter, while Booking Holdings' fell 1% after a $1 billion accounting charge linked to a possible settlement with the US Federal Trade Commission. They also came on a day when the Nasdaq fell 5.52% in a sell-off in chip and AI stocks.

@@ -73,7 +73,3 @@ Mannan has said he will cooperate and was summoned to the CCB for **10 am on Sat
 AIADMK general secretary Edappadi K Palaniswami called the arrest a "false case" fabricated by police under the TVK government. Former ministers Sellur K Raju and R P Udhayakumar and former MLA Rajan Chellappa met Mannan at the CCB office and said the party had no intention of buying TVK MLAs to topple the government.
 
 The TVK, led by Chief Minister Vijay, has alleged attempts to poach its legislators. The government won a trust vote in May.
-
-```photo
-{"n":1,"subject":"Vijay","caption":"Chief Minister Vijay, whose TVK government has alleged attempts to poach its MLAs.","alt":"Chief Minister Vijay"}
-```

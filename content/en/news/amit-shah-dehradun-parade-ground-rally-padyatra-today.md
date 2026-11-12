@@ -102,10 +102,6 @@ State BJP president Mahendra Bhatt has said **more than 25,000 workers** from De
 
 Manvir Singh Chauhan, the party's state media in-charge, said padyatras and public meetings were being held at five main centres in the state, with the Parade Ground as the biggest.
 
-```photo
-{"n":1,"subject":"Parade Ground Dehradun","caption":"Dehradun's Parade Ground, where Amit Shah is due to address the BJP's padyatra and public meeting on Friday.","alt":"The Parade Ground in Dehradun"}
-```
-
 ## Eyes on 2027
 
 The visit comes with Uttarakhand heading into **its 2027 Assembly election**. Party sources say the core committee could discuss organisational preparedness and how to sharpen the BJP's challenge to the opposition in the state. The Congress began its own review on November 2, when party president Mallikarjun Kharge and Rahul Gandhi met senior Uttarakhand leaders in Delhi and accused the BJP of betraying the state in its 10 years in power.
@@ -113,10 +109,6 @@ The visit comes with Uttarakhand heading into **its 2027 Assembly election**. Pa
 ## Security and traffic
 
 Dhami inspected the Parade Ground on Thursday with Bhatt, Chief Secretary Anand Bardhan and senior officials, reviewing the stage, seating, parking, transport and security. "There should be no negligence at any level in ensuring the smooth and successful conduct of the event," the Chief Minister told officials.
-
-```photo
-{"n":2,"subject":"Pushkar Singh Dhami","caption":"Chief Minister Pushkar Singh Dhami, who inspected the rally preparations at the Parade Ground on Thursday.","alt":"Uttarakhand Chief Minister Pushkar Singh Dhami"}
-```
 
 Police have put **multi-tier security** in place for the visit, and special traffic arrangements are due to apply from 11 am to 3 pm. Heavy traffic is expected on Rajpur Road, EC Road, Lansdowne Chowk and Darshanlal Chowk, and the BJP has told its workers not to hold up the public.
 

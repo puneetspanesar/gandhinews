@@ -73,10 +73,6 @@ The post went up on the handle of Congress Kerala on October 12, while the Supre
 
 It was later deleted. The Supreme Court Bar Association and the Supreme Court Advocates-on-Record Association condemned it, and advocate Vineet Jindal wrote to the Chief Justice on October 13 seeking contempt proceedings. His letter and one from Sreejesh SR were **registered together as a suo motu petition** at the end of October.
 
-```photo
-{"n":1,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant, to whom the October 12 post on the Kerala Congress handle was addressed.","alt":"Chief Justice of India Surya Kant"}
-```
-
 ## The party's defence
 
 Counsel for the Kerala Congress told the bench the post had been uploaded **without the approval of office-bearers**, was taken down, and was followed by an apology. The court recorded the submission that an "unconditional and unqualified apology would be tendered" for the material posted on the handle.

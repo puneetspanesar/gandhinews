@@ -122,7 +122,7 @@ Police reported stone-pelting near Akashvani Bhawan and Connaught Place, and mor
 
 ## The CJP leaders
 
-CJP founder Abhijeet Dipke and leaders Saurav Das and Ashutosh Ranka were detained on board their flight after it landed in Delhi from Mumbai. Delhi Police said on X: "Preventive arrest u/s 126/170 BNSS of Sh. Abhijeet Dipke, Sh. Ashutosh Ranka and Sh. Saurav Das was done on 10.10.2026."
+CJP founder Abhijeet Dipke and leaders Saurav Das and Ashutosh Ranka were detained on board their flight after it landed in Delhi from Mumbai. Delhi Police said on X: "Preventive arrest u/s 126/170 BNSS of Sh. Abhijeet Dipke, Sh. Ashutosh Ranka and Sh. Saurav Das was done on October 10, 2026."
 
 On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a **₹50,000** surety bond to keep the peace for one year, the police said. CJP legal head Ratna Singh wrote on X: "Condition: no breach of peace for one year."
 

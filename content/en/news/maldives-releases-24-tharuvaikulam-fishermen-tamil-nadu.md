@@ -81,10 +81,6 @@ The boats left the Tharuvaikulam coast on **October 1** for tuna, fishing with g
 
 Reports in October put the number held at 25, the crews split across the three boats and drawn from Tharuvaikulam, Thoothukudi, Ramanathapuram, Vembar and Puducherry. The return reports speak of 24. None of the sources read explains the difference, and the Tamil Nadu statement does not name the men.
 
-```photo
-{"n":1,"subject":"Thiruvananthapuram International Airport","caption":"Thiruvananthapuram airport, where Thoothukudi fisheries officials received the 24 men on November 8.","alt":"Thiruvananthapuram International Airport terminal"}
-```
-
 ## The fine and the appeals
 
 The Maldives Ministry of Fisheries, Marine Resources and Agriculture was reported on October 28 to have imposed **a total of Rs 4.80 crore** on the three boats, about Rs 1.60 crore each. The charges listed were entering Maldivian territorial waters without permission, fishing without a valid licence and using prohibited nets. That figure rests on a single report; neither government has published it, and nothing found says whether it was paid, reduced or waived.

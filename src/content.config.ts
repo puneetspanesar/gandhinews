@@ -51,7 +51,7 @@ const base = z.object({
     })
     .optional(),
   related: z.array(z.string()).default([]),
-  seo: z.object({ description: z.string() }),
+  seo: z.object({ description: z.string(), title: z.string().optional() }),
   sources: z.array(source).default([]),
   verification: z
     .object({ status: optStr, notes: z.array(z.string()).optional().nullable() })

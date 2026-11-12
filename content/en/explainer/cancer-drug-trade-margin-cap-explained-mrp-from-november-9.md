@@ -66,10 +66,6 @@ For drugs that already have a ceiling price under the 2013 order, the price incl
 
 The drugs are non-scheduled, meaning they do not have a fixed ceiling price under the order. An expert committee under the Directorate General of Health Services, with oncologists, hospital experts and officials, recommended the list, and it will be updated from time to time.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court heard the petition on medicine and device margins that led the Centre to announce the cap on October 12.","alt":"The Supreme Court of India building"}
-```
-
 ## How did it get here?
 
 **A pilot in 2019 and a court hearing in October.** In 2019 the NPPA capped margins at 30% on 42 anti-cancer medicines. According to the government this reduced the MRPs of 526 brands by up to 90%. In 2026 the Centre told the Supreme Court on October 12 that the NPPA had decided on October 8 to extend the idea to most approved cancer drugs, and the bench asked why it stopped at cancer.
@@ -83,10 +79,6 @@ The drugs are non-scheduled, meaning they do not have a fixed ceiling price unde
 **By up to 70%, says the Ministry of Chemicals and Fertilizers, but it varies by product.** The NPPA has since published lists of company-reported new MRPs: 543 entries, then **643 entries** as of October 28. These are brands, strengths and pack sizes, not 643 drugs.
 
 RPG Life Sciences' Palbopro (palbociclib 125 mg, 21 capsules) falls about 93%, from ₹40,421.33 to ₹2,720. Cipla's Armotraz (anastrozole 1 mg) goes from ₹784.71 to ₹146.78. Some well-known brands show no change: **Keytruda (pembrolizumab 100 mg) stays at ₹2,16,500**, with Tagrisso and Imfinzi also unchanged in the latest list.
-
-```photo
-{"n":2,"subject":"Tata Memorial Hospital","caption":"Tata Memorial Hospital in Mumbai, one of the large cancer centres where the new prices will apply.","alt":"Tata Memorial Hospital in Mumbai"}
-```
 
 ## Who must do what from Monday?
 

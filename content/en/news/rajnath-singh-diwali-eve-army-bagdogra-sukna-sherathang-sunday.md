@@ -54,10 +54,6 @@ Defence Minister **Rajnath Singh is spending the eve of Diwali with Army personn
 
 In a post on X, Singh said: "Today, on the eve of Diwali, I will meet and interact with Indian Army personnel at Bagdogra Airfield." He is also due to meet troops at **Sukna in Siliguri**. No timings for the interactions were announced.
 
-```photo
-{"n":1,"subject":"Bagdogra Airport","caption":"Bagdogra Airfield near Siliguri, where the Defence Minister is meeting Army personnel on Saturday.","alt":"Bagdogra airfield near Siliguri"}
-```
-
 ## Sunday in Sikkim
 
 On Sunday, Diwali itself, Singh said he will visit the **Sherathang War Memorial in Sikkim** to honour soldiers who died in service. He will also meet troops deployed in the area. 

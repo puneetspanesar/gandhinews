@@ -57,10 +57,6 @@ The Indian had qualified **third with 585** over six series, but his final did n
 
 The quota is the first India has won in shooting for the next Games. Malviya had already shown form this season, winning **gold in Trial 1 of the National Selection Trials** in New Delhi with a final score of 245.6.
 
-```photo
-{"n":1,"subject":"Manu Bhaker","caption":"Manu Bhaker, double bronze medallist at the Paris Olympics, finished fifth in the women's 10m air pistol final in Doha and did not win a quota place.","alt":"Indian shooter Manu Bhaker (file photo)"}
-```
-
 ## Mixed day for the women
 
 The women's 10m air pistol brought less cheer. Manu Bhaker, a double medallist in Paris, finished **fifth with 179.9**, and Suruchi Inder Singh was sixth with 158.3, so neither earned a place for Los Angeles. The pair, with Sainyam, had earlier taken **team silver** with 1,738 points, seven behind China. Team medals carry no Olympic quota.

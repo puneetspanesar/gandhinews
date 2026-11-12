@@ -72,15 +72,7 @@ Choudhary prayed to Goddess Lakshmi for the prosperity and happiness of every ho
 
 Choudhary said that on November 2 he reached an understanding with Union Road Transport and Highways Minister Nitin Gadkari to **use silt removed from the Ganga in road construction** in Bihar.
 
-```photo
-{"n":1,"subject":"Nitin Gadkari","caption":"Union Road Transport and Highways Minister Nitin Gadkari, with whom Choudhary reached the silt understanding on November 2.","alt":"Union Minister Nitin Gadkari"}
-```
-
 He also said a campaign has been run on the issue of the Farakka Barrage and silt build-up in the river, and that officials had been told to make sure **Ganga water reaches all dams** in the state.
-
-```photo
-{"n":2,"subject":"Farakka Barrage","caption":"The Farakka Barrage on the Ganga, whose silt problem the Chief Minister raised.","alt":"Farakka Barrage on the Ganga"}
-```
 
 ## Jobs and industry
 

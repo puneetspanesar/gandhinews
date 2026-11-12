@@ -69,10 +69,6 @@ The tallies need careful reading. The 77 ZPTC and 2,051 MPTC seats that were won
 
 Polling on November 5 drew a turnout of 70.72%, against 60.91% in 2021. In all, 2,169 candidates are in the fray for 582 ZPTC seats and 18,843 for 7,767 MPTC seats.
 
-```photo
-{"n":1,"subject":"Pulivendula","caption":"Pulivendula in Kadapa district, the home town of the Jagan Mohan Reddy family, where the TDP won the ZPTC seat.","alt":"A view of Pulivendula town in Kadapa district"}
-```
-
 ## A stronghold changes hands
 
 The result drawing most attention so far is from **Pulivendula**, the home town of YSRCP chief Y S Jagan Mohan Reddy. The TDP has taken the ZPTC seat there, with the winner named as Bharathi. The margin and the YSRCP candidate's tally were not yet available.
@@ -82,9 +78,5 @@ For the YSRCP, the early picture follows its poor showing in the 2024 Assembly e
 ## What to watch
 
 Two things will show whether the early lead is the full story. One is the share of contested seats the YSRCP manages to win once ballot-box counting gathers pace in districts such as Kadapa. The other is how the three alliance partners split the seats. Jana Sena fielded 109 ZPTC candidates and the BJP 34, against 452 for the TDP.
-
-```photo
-{"n":2,"subject":"Pawan Kalyan","caption":"Pawan Kalyan, president of the Jana Sena, whose party is the alliance's second-largest partner in these polls.","alt":"Pawan Kalyan, Jana Sena president"}
-```
 
 Counting continues through the evening and the State Election Commission will publish the final seat-wise results once verification is complete.

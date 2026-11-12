@@ -68,10 +68,6 @@ The week's numbers show how high the air has stayed. Delhi's daily AQI was 389 o
 
 Station readings on Friday showed how uneven the city is. Rohini and IIT Delhi were at 474, Punjabi Bagh at 465, RK Puram at 443, ITO at 422 and India Gate at 403, all in the **severe** band of 401 to 500. At 9 am, about 30 stations were in the severe range and the rest were very poor.
 
-```photo
-{"n":1,"subject":"India Gate","caption":"India Gate, where the air quality station read 403 on Friday, in the severe band.","alt":"India Gate in New Delhi"}
-```
-
 ## What is in force
 
 The Commission for Air Quality Management imposed **GRAP Stage III on Friday**, as a precaution, on top of Stage I and II measures. Non-essential construction and demolition are barred, stone crushers and mining are shut, BS-III petrol and BS-IV diesel cars face restrictions, and inter-state diesel buses other than BS-VI or cleaner-fuel ones are limited. Local administrations can move classes up to primary level online. Extra Metro trips and buses are being run.

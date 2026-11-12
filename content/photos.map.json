@@ -45226,7 +45226,19 @@
   "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
   "page": null,
   "srcWidth": 1280,
-  "notreat": "collage tiles pulled other courts (Andhra HC); two-panel CJI cover shown as taken"
+  "treated": {
+   "src": "/photos/t-sc-digital-arrest-whatsapp-intermediaries-measures-november--1280.jpg",
+   "src800": "/photos/t-sc-digital-arrest-whatsapp-intermediaries-measures-november--640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-cases-tracker",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+    "gst-return-forms-gstr-1-amended-consultation-november-1"
+   ],
+   "kind": "photo",
+   "subj": "bfffbfb3920c6020",
+   "credit": "Photos: Supreme Court of India; Subhashish Panigrahi / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "india-a-nz-a-lincoln-third-test-draw-series-level": {
   "id": "i-india-a-nz-a-lincoln-third-test-draw-series-level",
@@ -47527,6 +47539,221 @@
    }
   },
   "nophoto": "no free photo of Isha Jain, Karthik Sastry or the 2026 winners; library, quick_photo, finder h1216"
+ },
+ "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea": {
+  "id": "i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
+  "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-1280.jpg",
+  "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rabi fertiliser subsidy up 64%",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रबी की उर्वरक सब्सिडी 64% बढ़ी",
+  "page": null,
+  "ihash": "324c2103876d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of farmers with fertiliser bags (finder l12e k4: 0 candidates, quick_photo none); policy story with numbers"
+ },
+ "thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named": {
+  "id": "i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named",
+  "src": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-en-3x2-1280.jpg",
+  "src800": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Compensation raised, action on officers still pending",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मुआवजा बढ़ा, अफसरों पर कार्रवाई अटकी",
+  "page": null,
+  "ihash": "5de118def71b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-hi-3x2-1280.jpg",
+    "src800": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-en-t-1280.jpg",
+    "src800": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-hi-t-1280.jpg",
+    "src800": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-en-1280.jpg",
+    "src800": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-hi-1280.jpg",
+    "src800": "/photos/i-thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the 2018 Thoothukudi Sterlite protest; library, quick_photo, finder l12e"
+ },
+ "black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers": {
+  "id": "i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers",
+  "src": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-en-3x2-1280.jpg",
+  "src800": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India keeps its battery black mass at home",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत बैटरी ब्लैक मास को देश में रखेगा",
+  "page": null,
+  "ihash": "6d1aa8e7fb1c",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-hi-3x2-1280.jpg",
+    "src800": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-en-t-1280.jpg",
+    "src800": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-hi-t-1280.jpg",
+    "src800": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-en-1280.jpg",
+    "src800": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-hi-1280.jpg",
+    "src800": "/photos/i-black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of lithium-ion black mass recycling in India; quick_photo, finder l12e found only lead-acid and alkaline battery photos"
+ },
+ "ecl-explained-rbi-expected-credit-loss-banks-april-2027": {
+  "id": "i-ecl-explained-rbi-expected-credit-loss-banks-april-2027",
+  "src": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-en-3x2-1280.jpg",
+  "src800": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Banks must provide for bad loans early",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बैंकों को डूबते कर्ज का प्रावधान पहले करना होगा",
+  "page": null,
+  "ihash": "cac019cbb893",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-hi-3x2-1280.jpg",
+    "src800": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-en-t-1280.jpg",
+    "src800": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-hi-t-1280.jpg",
+    "src800": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-en-1280.jpg",
+    "src800": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-hi-1280.jpg",
+    "src800": "/photos/i-ecl-explained-rbi-expected-credit-loss-banks-april-2027-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of RBI headquarters at main-picture size (finder l12e, l12e2: only 506 px RBI tower); no free photo of C S Setty; quick_photo none"
+ },
+ "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim": {
+  "id": "i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim",
+  "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Four of Yogi's five rivers rise in Uttarakhand",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: योगी की पांच में से चार नदियां उत्तराखंड से",
+  "page": null,
+  "ihash": "be2a82c3fee8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-t-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Yogi Adityanath: library portraits used in last 7 days, quick_photo none, finder l12e and l12e2 only undersized or two-person photos"
  },
  "retail-inflation-october-2026-6-09-two-year-high": {
   "id": "r-retail-inflation-october-2026-6-09-two-year-high",

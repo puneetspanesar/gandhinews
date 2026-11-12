@@ -70,10 +70,6 @@ Sirsa also warned that the worst may be yet to come. **Wind speeds are expected 
 
 The Central Pollution Control Board's 4 pm bulletin put Delhi's 24-hour average air quality index at **382, in the very poor band**, based on readings from 57 stations, with fine PM2.5 particles the main pollutant. The index was 324 on November 2, when Stage II was invoked.
 
-```photo
-{"n":1,"subject":"Delhi smog","caption":"Smog over Delhi, where the air quality index stood at 382 on Friday afternoon and is forecast to worsen (file photo).","alt":"Smog over Delhi (file photo)"}
-```
-
 Beyond schools, Stage III halts most construction and demolition, shuts stone crushers and mining across the NCR, and **keeps BS-III petrol and BS-IV diesel cars off the roads** in Delhi and the four neighbouring districts, with exemptions for essential services. The Delhi and NCR governments must decide whether offices should run at half strength, with the rest of the staff working from home.
 
 If the index crosses 450, the commission can move to Stage IV, which brings a ban on truck entry and tougher curbs on vehicles.

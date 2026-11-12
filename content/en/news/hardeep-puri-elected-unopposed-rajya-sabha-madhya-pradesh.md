@@ -79,10 +79,6 @@ The seat fell vacant when L Murugan quit the Union ministry and the Upper House 
 
 State BJP president Hemant Khandelwal collected Puri's certificate of election from Returning Officer Umesh Kumar Sharma at the Madhya Pradesh Legislative Assembly in Bhopal, with Deputy Chief Minister Jagdish Devda and BJP MLAs Rameshwar Sharma and Bhagwandas Sabnani present.
 
-```photo
-{"n":1,"subject":"Madhya Pradesh Vidhan Sabha","caption":"Puri's certificate of election was handed over at the Madhya Pradesh Legislative Assembly in Bhopal.","alt":"The Madhya Pradesh Legislative Assembly building in Bhopal"}
-```
-
 ## How the contest ended
 
 The Congress had backed an independent, Rajkumar Lohani, a Bhopal shopkeeper, against Puri. At scrutiny on Tuesday his papers were **rejected because the mandatory Form 26 affidavit was missing** at the 3 pm deadline on November 2. Lohani was reported to have said he had submitted the papers in hard and soft copy but could not file the physical affidavit in time, and that the returning officer refused him more time. A second independent, Kante Sayanna, was turned down for not having enough MLAs as proposers.

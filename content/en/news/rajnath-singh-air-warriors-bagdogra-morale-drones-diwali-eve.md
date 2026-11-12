@@ -63,10 +63,6 @@ Addressing the personnel, Singh turned first to conduct and the army's relations
 
 Bagdogra sits near the Siliguri Corridor, the narrow strip of northern West Bengal that links the rest of India to the northeastern states, with China, Nepal, Bhutan and Bangladesh all close by.
 
-```photo
-{"n":1,"subject":"Siliguri Corridor","caption":"The Siliguri Corridor, the narrow link between mainland India and the northeast, lies close to Bagdogra.","alt":"The Siliguri Corridor in northern West Bengal"}
-```
-
 ## Morale and machines
 
 Singh said technology alone does not win. "No matter how advanced technology is, if our soldiers lack discipline and courage, it is useless," he said. "Among the challenges we face today, **morale is the greatest weapon**." It grows, he added, "when you know that your country is with you, your leadership is with you."

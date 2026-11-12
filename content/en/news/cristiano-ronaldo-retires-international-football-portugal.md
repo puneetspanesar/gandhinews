@@ -63,10 +63,6 @@ He goes with **234 caps and 146 goals**, both records. No man has scored more in
 
 The timing is not hard to read. Ronaldo walked out of the squad during the last international window after a **dispute with coach Jorge Jesus** over his playing time. Earlier he had been left on the bench for the whole of a 2-1 win in Norway on October 4, the first time in 18 years he was an unused substitute for his country. The Portuguese federation suspended him for 30 days, a ban he has only just finished.
 
-```photo
-{"n":1,"subject":"Jorge Jesus","caption":"Portugal coach Jorge Jesus, who also coached Ronaldo at Al-Nassr, fell out with his captain over playing time this autumn.","alt":"Portugal coach Jorge Jesus (file photo)"}
-```
-
 Ronaldo later said sorry to his teammates for leaving, but not to Jesus, whom he accused of breaking promises about how much he would play. The two know each other well: Jesus coached him at Al-Nassr in Saudi Arabia before taking the Portugal job. His last game for Portugal was a 1-0 win over Wales on September 24.
 
 The video made no mention of the row. Instead Ronaldo spoke of the people who had followed him. "Goals come and go, trophies end up in museums, and records are eventually broken," he said. "No captain walks alone and you're all part of my story." In a short post he added, in Portuguese, that Portugal will always be in him.
@@ -76,10 +72,6 @@ The video made no mention of the row. Instead Ronaldo spoke of the people who ha
 The Portuguese Football Federation said it would **hold a tribute** to its most famous player. "Cristiano Ronaldo has raised Portugal's profile and inspired generations of young people," it said. "For many of us, he is the greatest player of all time!" It signed off with a nod to his next target: "Let's go for goal number 1,000!!!"
 
 His old clubs Manchester United, Sporting and Juventus also paid tribute.
-
-```photo
-{"n":2,"subject":"Portugal Euro 2016 final","caption":"Portugal won the Euro 2016 final against France, still the country's only major tournament win (file photo).","alt":"Portugal players at the Euro 2016 final (file photo)"}
-```
 
 ## What comes next
 

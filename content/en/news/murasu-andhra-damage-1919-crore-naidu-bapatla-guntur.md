@@ -61,10 +61,6 @@ Agriculture bore the brunt. Field crops were damaged on **1.4 lakh hectares**, a
 
 The state has released **₹37 crore to the districts** for immediate relief. Naidu told officials to speed up the work on power, drinking water and roads so that farmers and residents face as little hardship as possible.
 
-```photo
-{"n":1,"subject":"Cyclone Murasu","caption":"Cyclone Murasu crossed the south Andhra Pradesh coast near Ongole on November 3, bringing heavy rain to Prakasam, Bapatla and Guntur.","alt":"Cyclone Murasu over the Andhra Pradesh coast"}
-```
-
 ## Power, roads and phones
 
 The storm brought down 3,946 electricity poles. The power distribution company had repaired 1,493 of them, and **871 of the 1,103 affected 11-kV feeders** were back in service. About 760 km of major district roads and state highways were damaged, and fallen trees have been cleared at all 206 spots where they blocked traffic. Another 74 rural roads, 204 km in all, need repairs estimated at ₹92 crore.

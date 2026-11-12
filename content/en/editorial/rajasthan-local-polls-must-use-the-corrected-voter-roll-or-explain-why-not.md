@@ -83,10 +83,6 @@ Fourth, the state should settle by law or rule which roll local elections use. T
 
 Elections held on a roll nobody can reconcile will be questioned whoever wins. Rajasthan's voters, and its candidates, deserve a list they can trust.
 
-```photo
-{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar heads the Election Commission, whose final SIR roll for Rajasthan was published on February 21.","alt":"Chief Election Commissioner Gyanesh Kumar (file photo)"}
-```
-
 ```facts
 {"title":"The reporting behind this view","items":[{"value":"5.15 crore vs 5.45 crore","label":"voters on the final SIR roll and on the State Election Commission's local body rolls"},{"value":"26.63 lakh","label":"voters deleted in the SIR who still appear on local rolls, according to the study cited by Nikhil Dey"},{"value":"15.52 lakh","label":"people on the final SIR roll who are missing from local body rolls, the same study says"}]}
 ```

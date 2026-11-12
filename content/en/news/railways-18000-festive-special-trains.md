@@ -68,10 +68,6 @@ Vaishnaw said the timetable for the specials was drawn up using an AI model that
 
 The data turned up a pattern that surprised many. "The rush is at its peak during 'Dhanteras' rather than on the day of the main Diwali festival," Vaishnaw said. Friday was Dhanteras. The second big surge comes **about three days before Chhath Puja**, and on both kinds of day the crowds start building after 5 pm and keep coming through the night, as factory and office workers finish their shifts and head for their villages. Extra trains have been timed for both peaks.
 
-```photo
-{"n":1,"subject":"New Delhi railway station","caption":"New Delhi Railway Station, where the minister reviewed the festive crowd arrangements on Friday.","alt":"New Delhi Railway Station"}
-```
-
 ## Holding areas and war rooms
 
 New Delhi station normally handles more than five lakh passengers a day, a number that climbs to **about eight lakh** in the festive weeks. The station used to have six entry gates, which Vaishnaw said caused confusion. Entry has now been brought together, with a **dedicated holding area for passengers with reserved tickets**, and luggage screening and other essential facilities have been moved outside the station building. Similar holding areas at other major stations were showing good results, he said.
