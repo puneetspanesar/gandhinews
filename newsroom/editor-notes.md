@@ -89,3 +89,11 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Editor homepage FAIL not fixed (two editor checks; template-driven Must Read): Delhi AQI morning card, RBI ECL preview, CII opening-day item, US soldier in the second picture slot. refresh_home --drop of those ids did not clear the Must Read module.
 - Markets: Sensex 81,867.32, Nifty 25,246.15 at 1:31 pm; Brent, rupee, movers not updated.
 - NEXT RUN, FIRST: CII summit MoUs signed and Amit Shah speech (new id); RBI ECL meeting outcome; Karnataka blacklists L&T over Jal Jeevan Mission; Delhi 4 pm AQI; October CPI at 4 pm; six seafarers republish with a serious photo; Yogi photo upgrade after November 14; Pakistan v Sri Lanka day four close.
+
+## November 12, 2026, 4:45 pm (from the 16:00 run)
+- Published 3: karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar (infographic --nophoto: the only Commons "Khandre" file was rejected by the editor as possibly the wrong man and blocklisted; rests on reports), ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles (infographic --nophoto: no Biswas photo; smiling Mamata dropped; rests on reports), infosys-prize-2026-six-researchers-under-40-100000-each (infographic --nophoto).
+- Lead is Guterres COP31 (breach: sat beside the lead at 14:44; Kishtwar SPOs cannot lead on an infographic and no fresh Indian story has a photo).
+- October CPI not written: the release was not out when the economy desk searched (about 4:07 pm) and MoSPI/PIB were not readable.
+- Editor homepage FAIL not fixed (two checks; template-driven): Must Read Delhi AQI morning figure and CII opening item; "This week" still previews today's CPI, Moscow talks and Rawalpindi day four; too many States items in the top block; mobile nav over the Haryana card.
+- Markets: Nov 12 close Sensex 81,911.01, Nifty 25,299.35 appended; Realty about +4%; Nifty Bank, rates, movers and flows kept.
+- NEXT RUN, FIRST: October CPI (MoSPI release, can lead with a cover); Kishtwar SPOs with a composite cover so it can lead; CII summit MoUs signed and Amit Shah speech; RBI ECL meeting outcome; Delhi 4 pm AQI; Eshwar Khandre verified portrait for the library; six seafarers republish with a serious photo.

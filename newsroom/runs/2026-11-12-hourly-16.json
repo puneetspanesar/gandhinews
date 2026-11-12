@@ -1,0 +1,30 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-12T16:05:39+05:30",
+ "end": "2026-11-12T16:43:59+05:30",
+ "summary": "3 stories (Karnataka L&T blacklist, Ujjal Biswas, Infosys Prize), Guterres COP31 lead, Nov 12 market close",
+ "new": [
+  "infosys-prize-2026-six-researchers-under-40-100000-each",
+  "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+  "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+   "why": "The last round's fix never reached the site. The built site (dist/states/karnataka-khandre-.../index.html and dist/index.html, built 10:59) still uses the rejected Commons crop 'Eshwar_Khandre_with_Basavaraju_Jettihundi.jpg' (public/photos/o- and t-karnataka-khandre-*.jpg; content/photos.json still has the entry o-karnataka-khandre-...). It shows a grey-haired, bearded man who is not Eshwar Khandre, set against a cricket stadium collage that has nothing to do with a water project. The story also still leads the homepage. The infographic on the review sheet is not what readers see.",
+   "done": "Rejected Commons photo removed from photos.json and public/photos (o- and t- files), blocklisted; NOPHOTO infographic is the main picture. The editor's screenshots came from a stale dist built before the fix; gate.sh rebuilt it. Lead is now the Guterres COP31 story, not Karnataka."
+  },
+  {
+   "id": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+   "why": "The last round's fix never reached the site. The built story page and homepage card still use the broadly smiling Mamata Banerjee Commons portrait (o-/t-ujjal-biswas-*.jpg; photos.json entry o-ujjal-biswas-...) on an obituary. That breaks rule 4 (smiling leader on a death story) and rule 1 (it shows only the person who condoled). The infographic's big heart motif also reads as 'love' on a death notice; he died of a stroke and multiple organ failure.",
+   "done": "Mamata photo removed from photos.json and public/photos; infographic motif changed from heart to calendar-dots in both languages and re-rendered."
+  }
+ ],
+ "breaches": [
+  "led or sat beside the lead at 14:44 as well: guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
+ ],
+ "lead": "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
+}

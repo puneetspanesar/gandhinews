@@ -11,7 +11,7 @@ published: 2026-11-12T16:10:00+05:30
 location: Bengaluru
 keyPoints:
   - "Minister Eshwar Khandre directed officials to **blacklist Larsen & Toubro** at a Jal Jeevan Mission review on Wednesday, November 11."
-  - "The Renukasagar scheme covers **388 rural habitations** in Dharwad district plus villages in Kalaghatagi and Savadatti."
+  - "The Renukasagar scheme covers **388 rural habitations** in Dharwad district plus villages in Kalghatgi taluk (Dharwad) and Saundatti taluk (Belagavi)."
   - "Officials said the company had not begun buying pipes, **even after a final notice**."
   - "**Final notices** go to every other contractor that has missed its deadline."
 hero:
@@ -63,13 +63,13 @@ infographic:
 
 Karnataka's Rural Development and Panchayat Raj Minister, Eshwar Khandre, has told officials to **blacklist Larsen & Toubro** over a Jal Jeevan Mission drinking water project that has made little progress, and to issue final notices to every other contractor that has missed its deadline.
 
-He gave the direction on Wednesday, November 11, at a review of the mission at Vikas Soudha in Bengaluru. The project in question is meant to bring water from the Renukasagar reservoir to **388 rural habitations** in Dharwad district and to villages in Kalaghatagi and Savadatti in Belagavi district.
+He gave the direction on Wednesday, November 11, at a review of the mission at Vikas Soudha in Bengaluru. The project in question is meant to bring water from the Renukasagar reservoir to **388 rural habitations** in Dharwad district and to villages in Kalghatgi taluk (Dharwad) and Saundatti taluk (Belagavi).
 
 ## What officials told the minister
 
 Officials said the company had not started buying the water pipelines, had not put enough workers on the site, was working very slowly and had not submitted progress reports. It had also made no headway after being served a final notice.
 
-According to reports, the contract was awarded on April 20, 2022 and was due for completion on October 19, 2024, more than two years ago. The same reports put pipe-laying progress at less than 500 metres a day and said poor rural power supply was a further hurdle. The contract value has not been made public in the accounts available.
+According to reports, the contract was awarded on April 20, 2022, and was due for completion on October 19, 2024, more than two years ago. The same reports put pipe-laying progress at less than 500 metres a day and said poor rural power supply was a further hurdle. The contract value has not been made public in the accounts available.
 
 Khandre said he would accept **no delay except one caused by pending forest clearance**. He pointed to the shortage of drinking water in villages after inadequate rainfall as the reason for the firmness.
 
@@ -81,7 +81,7 @@ Khandre said he would accept **no delay except one caused by pending forest clea
 
 This is not the first time the minister has pressed contractors. On **September 11**, at an earlier review in Bengaluru, Khandre told officials and contractors to speed up pending works and send weekly progress reports. "All works must be completed within the stipulated deadlines," he said then. He also warned that failing to follow Union government standards could cost the state more money, and said about **₹67,000 crore** is being spent on single-village and multi-village drinking water schemes.
 
-The Deccan Chronicle account of Wednesday's meeting says L&T did not improve its pace after that instruction. The minister was also unhappy about delays by other agencies on multi-village schemes and ordered final notices to all that had missed their dates.
+According to reports of Wednesday's meeting, L&T did not improve its pace after that instruction. The minister was also unhappy about delays by other agencies on multi-village schemes and ordered final notices to all that had missed their dates.
 
 Officials at the meeting included Principal Secretary Pankaj Kumar Pandey, Secretary D Randeep and Commissioner Fouzia Tarannum B.
 

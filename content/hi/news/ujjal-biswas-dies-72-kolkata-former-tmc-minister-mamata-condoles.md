@@ -25,7 +25,7 @@ infographic:
   kicker: "पश्चिम बंगाल"
   headline: "पूर्व मंत्री उज्ज्वल विश्वास का 72 की उम्र में निधन"
   dek: "15 साल कृष्णानगर दक्षिण के विधायक रहे, हफ्तों वेंटिलेटर पर थे"
-  motif: heart
+  motif: calendar-dots
   stats:
     - {icon: calendar-blank, value: "2011 से 2026", label: "कृष्णानगर दक्षिण से विधायक रहे"}
     - {icon: clock, value: "रात 9 बजे", label: "निधन का करीब समय, 11 नवंबर 2026"}

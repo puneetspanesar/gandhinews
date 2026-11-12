@@ -47387,17 +47387,47 @@
   "nophoto": "Yogi Adityanath: library portraits used inside 7 days, finder h1214 only a 450 px solo or photos with Modi; library, quick_photo, finder h1214"
  },
  "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles": {
-  "id": "o-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-  "src": "/photos/o-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-1280.jpg",
-  "src800": "/photos/o-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-640.jpg",
+  "id": "i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+  "src": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-en-3x2-1280.jpg",
+  "src800": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1581,
-  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "Mamata Banerjee (file photo)",
-  "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mamata_Banerjee_-_Kolkata_2011-12-08_7541_Cropped.JPG",
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Ujjal Biswas, former minister, dies at 72",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पूर्व मंत्री उज्ज्वल विश्वास का 72 की उम्र में निधन",
+  "page": null,
+  "ihash": "dd77c6e8db8a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-hi-3x2-1280.jpg",
+    "src800": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-en-t-1280.jpg",
+    "src800": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-hi-t-1280.jpg",
+    "src800": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-en-1280.jpg",
+    "src800": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-hi-1280.jpg",
+    "src800": "/photos/i-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Ujjal Biswas; library, quick_photo, finder h1216; Mamata portrait only shows the person who condoled",
   "treated": {
    "src": "/photos/t-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-cond-1280.jpg",
    "src800": "/photos/t-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-cond-640.jpg",
@@ -47413,30 +47443,47 @@
   }
  },
  "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar": {
-  "id": "o-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-  "src": "/photos/o-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-1280.jpg",
-  "src800": "/photos/o-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-640.jpg",
+  "id": "i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+  "src": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-en-3x2-1280.jpg",
+  "src800": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1030,
-  "credit": "Photo: SJanakiPSusheela / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Karnataka minister Eshwar Khandre (file photo)",
-  "alt_hi": "कर्नाटक के मंत्री ईश्वर खंड्रे (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Eshwar_Khandre_with_Basavaraju_Jettihundi.jpg",
-  "treated": {
-   "src": "/photos/t-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-1280.jpg",
-   "src800": "/photos/t-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-640.jpg",
-   "cutout": true,
-   "with": [
-    "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-    "wipro-guidance-december-quarter-large-deals-fall",
-    "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent--p3"
-   ],
-   "kind": "photo",
-   "subj": "707c7c7c3e3e3f7",
-   "credit": "Photos: SJanakiPSusheela / Wikimedia Commons; KshitizBathwal / Skyscape Photography / Wikimedia Commons; Rameshng / Wikimedia Commons; L'Astorina / Wikimedia Commons"
-  }
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Karnataka moves to blacklist L&T",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कर्नाटक का एल एंड टी पर कड़ा कदम",
+  "page": null,
+  "ihash": "8fa8ed8a2faa",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-hi-3x2-1280.jpg",
+    "src800": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-en-t-1280.jpg",
+    "src800": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-hi-t-1280.jpg",
+    "src800": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-en-1280.jpg",
+    "src800": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-hi-1280.jpg",
+    "src800": "/photos/i-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-hi-640.jpg"
+   }
+  },
+  "nophoto": "no verified free photo of Eshwar Khandre (Commons two-person file rejected by the editor as possibly the wrong man); library, quick_photo, finder h1216"
  },
  "infosys-prize-2026-six-researchers-under-40-100000-each": {
   "id": "i-infosys-prize-2026-six-researchers-under-40-100000-each",

@@ -24,7 +24,7 @@ infographic:
   kicker: "West Bengal"
   headline: "Ujjal Biswas, former minister, dies at 72"
   dek: "Krishnanagar Dakshin MLA for 15 years died after weeks on a ventilator"
-  motif: heart
+  motif: calendar-dots
   stats:
     - {icon: calendar-blank, value: "2011 to 2026", label: "years as MLA from Krishnanagar Dakshin"}
     - {icon: clock, value: "9 pm", label: "approximate time of death, November 11, 2026"}
@@ -64,7 +64,7 @@ verification:
     - "No family or party statement beyond Kunal Ghosh and Mamata Banerjee could be opened; funeral plans were not in any report."
     - "Time of death (about 9 pm) is from TMC MLA Kunal Ghosh via PTI. Hospital named as Fortis, Mukundapur, in one report only; the other says a private hospital in Kolkata."
     - "Arrest in June in Krishnanagar over relief materials and bail in July are from one PTI report; Mamata Banerjee's '49 days' and BJP charge are hers and attributed to her. One report says he was attacked earlier; not repeated."
-    - "Career dates (MLA May 13, 2011 to May 4, 2026, lost in 2026 to Sadhan Ghosh of BJP, science and technology minister from August 3, 2022) are from Wikipedia only."
+    - "Career dates (MLA May 13, 2011, to May 4, 2026, lost in 2026 to Sadhan Ghosh of BJP, science and technology minister from August 3, 2022) are from Wikipedia only."
 ---
 
 Ujjal Biswas, the Trinamool Congress leader who represented Krishnanagar Dakshin in the West Bengal Assembly for 15 years and served as a minister in the party's government, **died in Kolkata on Wednesday night at the age of 72**.
