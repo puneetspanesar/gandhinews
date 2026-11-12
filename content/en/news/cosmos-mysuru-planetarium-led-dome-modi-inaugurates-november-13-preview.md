@@ -12,7 +12,7 @@ location: Mysuru
 keyPoints:
   - "Prime Minister Narendra Modi is due to inaugurate the **COSMOS planetarium in Mysuru** on Friday, November 13, after 3 pm."
   - "Its **15-metre dome, tilted at 15 degrees**, is lined with LED panels instead of projectors and shows 8K images."
-  - "The cost is put at **₹91 crore to ₹115 crore**, depending on the source and what is counted."
+  - "The cost is put at **₹85 crore to ₹115 crore**, depending on the source and what is counted."
 upcoming:
   date: 2026-11-13
   en: "Mysuru's COSMOS LED-dome planetarium to be inaugurated by PM Modi after 3 pm"
@@ -32,7 +32,7 @@ infographic:
   stats:
     - {icon: ruler, value: "15 m", label: "dome diameter, tilted at 15 degrees"}
     - {icon: users, value: "150", label: "seats, about, in the dome"}
-    - {icon: currency-inr, value: "₹91-115 cr", label: "cost, as variously reported"}
+    - {icon: currency-inr, value: "₹85 to 115 cr", label: "cost, as variously reported"}
   source: "IIA, project reports, November 2026"
 related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, webb-wise-0855-water-clouds-change-brown-dwarf]
 seo:
@@ -78,7 +78,7 @@ verification:
   notes:
     - "Cost: Rs 85 crore (Star of Mysore, Jan 2026), Rs 91 crore (News Karnataka, Devdiscourse, Curly Tales), Rs 115 crore (Hans India, from MP Yaduveer Wadiyar's press conference Nov 9). Reported as a range."
     - "Time 'after 3 pm' and 10,000 venue capacity: Hans India only. Seats about 150 (News Karnataka) or 150 to 160 (Hans India). Hans India says 'two domes'; not used."
-    - "PMO release (Nov 11) could not be opened by the fetch tool; planetarium timing taken from Hans India and our PM preview story. Foundation stone March 6, 2022 and Sept 2025 and Feb 2026 targets: Star of Mysore, Curly Tales, Devdiscourse."
+    - "PMO release (Nov 11) could not be opened by the fetch tool; planetarium timing taken from Hans India and our PM preview story. Foundation stone March 6, 2022, and Sept 2025 and Feb 2026 targets: Star of Mysore, Curly Tales, Devdiscourse."
     - "News Karnataka and IIA give no dome-maker name; News Karnataka says SkyExplorer was developed by France-based RSA Cosmos with Konica Minolta. Curly Tales cites a TOI report for IIA as builder. The 'first tilted dome for an independent customer' and 'two installations in Japan' come from the IIA planetarium page (last updated March 28, 2024). 'World's first' is the organisers' claim."
     - "Ticket prices and public opening date after inauguration: not found."
 ---
@@ -103,7 +103,7 @@ The building has classrooms and training rooms as well as the dome. The IIA says
 Union Finance Minister Nirmala Sitharaman laid the foundation stone on March 6, 2022. She gave ₹5 crore from her MPLADS funds, and the Department of Science and Technology, the Department of Atomic Energy and the Department of Space also backed the project. The Principal Scientific Advisor to the Government of India steers it. The University of Mysore gave about three acres of land.
 
 ```timeline
-{"title":"COSMOS planetarium","items":[{"date":"March 6, 2022","text":"Sitharaman lays the foundation stone"},{"date":"November 2024","text":"Sitharaman reviews progress; completion expected in about 10 months"},{"date":"Sep 2025","text":"Opening target, as reported in 2025"},{"date":"January 13, 2026","text":"Civil works done; opening expected in February 2026"},{"date":"November 13, 2026","text":"Prime Minister due to inaugurate"}]}
+{"title":"COSMOS planetarium","items":[{"date":"March 6, 2022","text":"Sitharaman lays the foundation stone"},{"date":"November 2024","text":"Sitharaman reviews progress; completion expected in about 10 months"},{"date":"September 2025","text":"Opening target, as reported in December 2024"},{"date":"January 13, 2026","text":"Civil works done; opening expected in February 2026"},{"date":"November 13, 2026","text":"Prime Minister due to inaugurate"}]}
 ```
 
 The opening date moved more than once. Reports in December 2024 pointed to September 2025, and in January 2026 the University of Mysore's Vice-Chancellor, Prof N K Lokanath, said civil works were complete and the facility was expected to open "next month". Interior work and equipment installation were then going on "at full speed", he said. February passed without an inauguration.

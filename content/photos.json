@@ -51345,26 +51345,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Hugging_at_exchange_of_prisoners_of_war_event_in_Ukraine,_23_May_2025_(cropped).jpg"
  },
  {
-  "id": "o-bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-  "articleId": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Himanshu Arya Khowal / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Rahul Gandhi (file photo)",
-  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
- },
- {
-  "id": "o-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-  "articleId": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Crawford_Hall%2C_University_of_Mysore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Christopher J. Fynn / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Crawford Hall, University of Mysore (file photo)",
-  "alt_hi": "मैसूर विश्वविद्यालय का क्रॉफर्ड हॉल (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Crawford_Hall,_University_of_Mysore.jpg"
- },
- {
   "id": "o-delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
   "articleId": "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sri_Lanka_Buddhist_Pilgrim_Rest_House_hardly_visible_due_to_Smog_at_New_Delhi_on_31st_Dec_2017_DSCN8824_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51383,5 +51363,25 @@
   "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_03.jpg",
   "id": "r-rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
   "articleId": "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+ },
+ {
+  "id": "o-bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
+  "articleId": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sudhanshu_Trivedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Nitesh Modi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "BJP spokesperson Sudhanshu Trivedi (file photo)",
+  "alt_hi": "भाजपा प्रवक्ता सुधांशु त्रिवेदी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sudhanshu_Trivedi.jpg"
+ },
+ {
+  "id": "o-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+  "articleId": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Prime_Minister_of_India_Narendra_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg"
  }
 ]

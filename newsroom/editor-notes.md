@@ -68,3 +68,9 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Fixed a build break: sangrur-prtc-bus-flyover-crash-three-killed linked /news/<id> (unresolvable); now /en|hi/news/<id>.
 - Editor homepage notes not done (template-driven or need research): seafarer card says three safe, six now reported (six-indian-seafarers-safe... is held for its picture); Russia-Ukraine twice in Must Read; Swachh preview in Policy list; three Bastar items in Politics.
 - NEXT RUN, FIRST: Rawalpindi day four close (play from about 10 am IST); six seafarers safe with a proper photo (republish the held story with a serious Sonowal or ship photo); Modi Bengaluru event photo (PIB) on November 13; October CPI release today; markets open.
+
+## November 12, 2026, 8:40 am (from the 08:00 run)
+- Published 4: delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300 (LEAD, Delhi smog Commons file photo; rests on two reports, CPCB/CAQM not readable), bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago (Sudhanshu Trivedi Commons photo; rests on reports), rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore (infographic --nophoto: Malhotra portraits only 391 and 484 px, RBI tower used inside 7 days; Malhotra added to people.tsv), cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview (Modi PMO library photo).
+- Editor FAILs all fixed by the run. Editor asked for the Tamil Nadu story to lead again; not done: it led at 06:54 and a story leads only once.
+- Markets: closed pre-open; Nov 11 close kept; Nov 11 FII/DII flows still not read.
+- NEXT RUN, FIRST: RBI-bank CEOs ECL meeting outcome (new id); markets open; Rawalpindi day four; Delhi AQI 4 pm bulletin; October CPI at 4 pm (16:00 run); six seafarers republish with a serious photo.

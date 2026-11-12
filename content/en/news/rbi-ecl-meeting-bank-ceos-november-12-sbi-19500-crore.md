@@ -80,7 +80,7 @@ The RBI has also set minimum provisioning floors. As summarised in that analysis
 
 ## How the hit is spread
 
-Banks need not take the whole one-time charge against capital at once. The extra provision needed on April 1, 2027 over what they held on March 31, 2027 is charged to retained earnings, and **the capital impact is added back in four steps**: four-fifths in 2027-28, three-fifths in 2028-29, two-fifths in 2029-30 and one-fifth in 2030-31. Banks with enough capital may choose a shorter period. Banks must report on the old and new systems in parallel until December 31, 2027, and the first quarterly ECL report is due on June 30, 2027.
+Banks need not take the whole one-time charge against capital at once. The extra provision needed on April 1, 2027, over what they held on March 31, 2027, is charged to retained earnings, and **the capital impact is added back in four steps**: four-fifths in 2027-28, three-fifths in 2028-29, two-fifths in 2029-30 and one-fifth in 2030-31. Banks with enough capital may choose a shorter period. Banks must report on the old and new systems in parallel until December 31, 2027, and the first quarterly ECL report is due on June 30, 2027.
 
 SBI will use the four-year option. It estimates the effect on its common equity tier 1 (CET1) capital at **40 to 50 basis points**. Its CET1 ratio stood at 13.34% and its capital adequacy ratio at 16.02% at the end of September.
 

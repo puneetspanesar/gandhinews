@@ -55,7 +55,7 @@ verification:
     - "319 and 299 (Nov 11), 36 of 58 stations above 300 and the station list: Asianet, 6:30 am readings. 313 at 1 am, IIT Delhi 405, Burari 375, RK Puram 388, Jahangirpuri 334: India.com, attributed there to CAQM and IITM monitoring, hour of the 405 not given."
     - "GRAP Stage III since Nov 6 per India.com and our own Nov 6 story. Neither source says whether CAQM has met to review it today; copy says nothing on a Stage IV move."
     - "IMD chief quote paraphrased from India.com (partly cloudy Nov 12 and 13, medium and high clouds, small rainfall). Cloud seeding: Delhi government and IIT Kanpur, two trial runs near the airport in October (India.com)."
-    - "An Outlook page found in search with AQI 413 is dated Nov 12, 2025 and was not used."
+    - "An Outlook page found in search with AQI 413 is dated Nov 12, 2025, and was not used."
 ---
 
 Delhi's air quality turned worse again on Thursday morning, with the city's average AQI at **319 at 6:30 am**, in the very poor band, up from 299 on Wednesday. At IIT Delhi the reading was **413**, in the severe band, the highest of the stations quoted.

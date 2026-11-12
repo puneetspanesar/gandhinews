@@ -1,0 +1,34 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-12T08:05:03+05:30",
+ "end": "2026-11-12T08:38:19+05:30",
+ "summary": "4 new stories, Delhi air quality leads",
+ "new": [
+  "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
+  "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+  "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+  "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
+   "why": "Main picture is Rahul Gandhi alone. The story is the BJP (Sudhanshu Trivedi) attacking Rahul Gandhi, so the attacker must come first; showing only the target breaks rule 1. The brief's own hero.need asks for a Trivedi and Gandhi two-panel split.",
+   "done": "Main picture replaced with Sudhanshu Trivedi (finder h1208 triv-0, Commons CC BY-SA 4.0); Gandhi is not shown at the top."
+  },
+  {
+   "id": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+   "why": "Main picture is Crawford Hall, the University of Mysore administrative building. It is a generic stand-in, not the COSMOS planetarium the headline is about, and the caption (Crawford Hall) does not match the hero alt text (Chamundi Hills). Text also needs work: the key point gives the cost as Rs 91 to 115 crore, but the body also cites Rs 85 crore. The English timeline uses 'Sep 2025' instead of 'September 2025', and that entry says 'as reported in 2025' while the body says December 2024.",
+   "done": "Main picture replaced with a PMO library photo of Narendra Modi, who inaugurates it (no free photo of the planetarium exists); cost range now Rs 85 to 115 crore in key point and glance (EN and HI); timeline reads September 2025, as reported in December 2024 (EN and HI)."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Balance: two RBI/banking stories in the top headlines ('RBI meets bank chiefs today on new loan-loss rules' and 'RBI folds money transfer rules ... NEFT limit'). Keep one and move the other down to Economy. 2) The PM's Karnataka visit takes two top slots ('Modi to open Bengaluru Pink Line...' and 'Mysuru's tilted LED-dome planetarium... to open on November 13'). Keep one and move the other out of the top. 3) Two India-New Zealand cricket stories sit next to each other in the second column ('Iyer takes charge at Bay Oval' and 'India's Test camp opens in Wellington'). Separate them or drop one to Sports. 4) Lead: a routine 6:30 am Delhi AQI reading (319, very poor) leads while bigger national stories sit lower: the Centre seeking the Governor's report on the Tamil Nadu Diwali killings (marked as our lead in frontpages.txt) and an Indian seafarer hurt in the Persian Gulf tanker attack. Put the Tamil Nadu story back as lead and move Delhi air into the secondary slots. 5) Empty space: on desktop the left column ends about 120 px above the middle column, leaving a white gap under the four sub-headlines. Fill it with one more headline or balance the columns. 6) Stale: the Policy and government block still shows 'President Murmu to hand out Swachh Survekshan awards on Wednesday', a preview of yesterday's event whose result is already in the top list. Replace it with the result story or remove it.",
+   "done": "refresh_home --lead tn-law-and-order-diwali-murders-centre-seeks-governor-report (Delhi AQI moves beside it); --drop the NEFT RBI story, the Modi Karnataka preview, the Wellington Test camp story and the Swachh preview, so one banking story, one Karnataka-visit story and one India-NZ cricket story remain and the Policy list loses the stale preview. The 120 px column gap: check_layout passes after the refresh; not reproduced."
+  }
+ ],
+ "breaches": [],
+ "lead": "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300"
+}
