@@ -82,7 +82,7 @@ Afghanistan had won all their Group B matches and chose to bat after winning the
 
 ## How Afghanistan built 227
 
-Afghanistan were 143 for 4 after 35.6 overs, with **Noman Salarzai (51 off 78 balls)** and Shah Faisal Rahimi (51 off 72) the main scorers after an opening stand that ended at 29. Subhan Ali made 31 before he was bowled by Yashbardhan Singh Chauhan.
+Afghanistan were 143 for 4 after 36 overs, with **Noman Salarzai (51 off 78 balls)** and Shah Faisal Rahimi (51 off 72) the main scorers after an opening stand that ended at 29. Subhan Ali made 31 before he was bowled by Yashbardhan Singh Chauhan.
 
 India's bowlers then took three wickets in quick succession. Aryan Savsani dismissed Amir Hamza for a first-ball duck and Tahir Sarwary for 1 in the same stretch, and Afghanistan went from 143 for 4 to **146 for 6**. Ishan Sood, who finished with 3 for 43 in nine overs, took the wickets of Abidullah Nadarjan, Rahimi and Mohammad Ali.
 
