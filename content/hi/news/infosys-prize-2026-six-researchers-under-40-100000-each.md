@@ -28,8 +28,11 @@ infographic:
   motif: medal
   stats:
     - {icon: medal, value: "6", label: "विजेता, हर श्रेणी में एक"}
-    - {icon: currency-inr, value: "$1 लाख", label: "हर विजेता को, या बराबर रुपये"}
-  timeline: {title: "घटनाक्रम", items: [{date: "2009", text: "इन्फोसिस साइंस फाउंडेशन की स्थापना", icon: buildings}, {date: "2024", text: "पुरस्कार 40 से कम उम्र तक सीमित", icon: graduation-cap}, {date: "12 नवं 2026", text: "बेंगलुरु में छह विजेता घोषित", icon: medal}]}
+    - {icon: trophy, value: "$1 लाख", label: "हर विजेता को, या बराबर रुपये"}
+  timeline:
+    - {date: "2009", text: "इन्फोसिस साइंस फाउंडेशन की स्थापना", icon: buildings}
+    - {date: "2024", text: "पुरस्कार 40 से कम उम्र तक सीमित", icon: graduation-cap}
+    - {date: "12 नवं 2026", text: "बेंगलुरु में छह विजेता घोषित", icon: medal}
   source: "इन्फोसिस साइंस फाउंडेशन, 12 नवंबर 2026"
 related: []
 seo:

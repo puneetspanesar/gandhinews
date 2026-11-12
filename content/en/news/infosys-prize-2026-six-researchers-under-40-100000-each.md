@@ -27,8 +27,11 @@ infographic:
   motif: medal
   stats:
     - {icon: medal, value: "6", label: "laureates, one per category"}
-    - {icon: currency-inr, value: "$100,000", label: "purse for each, or the rupee equivalent"}
-  timeline: {title: "How it was announced", items: [{date: "2009", text: "Infosys Science Foundation established", icon: buildings}, {date: "2024", text: "Prize limited to researchers under 40", icon: graduation-cap}, {date: "Nov 12, 2026", text: "Six 2026 winners named in Bengaluru", icon: medal}]}
+    - {icon: trophy, value: "$100,000", label: "purse for each, or the rupee equivalent"}
+  timeline:
+    - {date: "2009", text: "Infosys Science Foundation established", icon: buildings}
+    - {date: "2024", text: "Prize limited to researchers under 40", icon: graduation-cap}
+    - {date: "Nov 12, 2026", text: "Six 2026 winners named in Bengaluru", icon: medal}
   source: "Infosys Science Foundation, November 12, 2026"
 related: []
 seo:

@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-12T13:31:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-12T15:54:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-12",
   "chart": "nifty-50",
   "indices": [
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81867.32,
-      "change": -12.08,
-      "pct": -0.01,
+      "value": 81911.01,
+      "change": 31.61,
+      "pct": 0.04,
       "history": [
         {
           "date": "2026-09-30",
@@ -115,17 +115,21 @@
         {
           "date": "2026-11-11",
           "close": 81879.4
+        },
+        {
+          "date": "2026-11-12",
+          "close": 81911.01
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/sensex-off-the-day-s-high-nifty-trades-flat-in-noon-deals-bajaj-finance-cupid-ola-electric-among-buzzing-stocks/article-203358/"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25246.15,
-      "change": -8.9,
-      "pct": -0.04,
+      "value": 25299.35,
+      "change": 44.3,
+      "pct": 0.18,
       "history": [
         {
           "date": "2026-09-30",
@@ -234,9 +238,13 @@
         {
           "date": "2026-11-11",
           "close": 25255.05
+        },
+        {
+          "date": "2026-11-12",
+          "close": 25299.35
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/sensex-off-the-day-s-high-nifty-trades-flat-in-noon-deals-bajaj-finance-cupid-ola-electric-among-buzzing-stocks/article-203358/"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
     },
     {
       "id": "nifty-bank",
@@ -365,6 +373,11 @@
   },
   "sectors": [
     {
+      "name": "Realty",
+      "name_hi": "रियल्टी",
+      "pct": 4.0
+    },
+    {
       "name": "PSU Bank",
       "name_hi": "सरकारी बैंक",
       "pct": 3.7
@@ -410,7 +423,8 @@
     "11 Nov 20:20 IST (hourly 20): Nov 11 provisional cash flows FII +12,563.33 crore, DII -8,434.53 crore from the Tapetide November flows table (updated Nov 11) read this run. Movers and sectors for Nov 11 not found in a dated source read this run; earlier values kept.",
     "11 Nov 22:25 IST (hourly 22): no dated November 11, 2026 movers or sector figures found in a source read this run (search returned 2025 pages); closing values, flows and earlier movers kept.",
     "12 Nov 10:20 IST (hourly 10): Sensex 81,642.29 (-237.11, -0.29%) and Nifty 50 25,180.15 (-74.90, -0.30%) at about 9:15 am from Kotak Neo market update (posted 9:49 am) read this run. Nifty Bank, Midcap, VIX, rates, movers, sectors keep earlier values (not on the page).",
-    "12 Nov hourly-12: Sensex 81,829.99 (-49.41) per a 12:17 pm IST ticker; Nifty 25,253 (-0.01%) and rupee about 93.73 per a live blog updated 12:21 pm IST; Brent 91.75 (-1.12%) per a 10:09 am report; other indices, movers and sectors kept."
+    "12 Nov hourly-12: Sensex 81,829.99 (-49.41) per a 12:17 pm IST ticker; Nifty 25,253 (-0.01%) and rupee about 93.73 per a live blog updated 12:21 pm IST; Brent 91.75 (-1.12%) per a 10:09 am report; other indices, movers and sectors kept.",
+    "12 Nov 16:30 IST (hourly-16): Sensex 81,911.01 (+31.61, +0.04%) and Nifty 50 25,299.35 (+44.30, +0.18%) closes and Nifty Realty up about 4% from the Business Standard live blog (3:54 pm) read this run; Nov 12 appended to history. Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept (not on the page)."
   ],
   "holidays": [
     "2026-11-10"

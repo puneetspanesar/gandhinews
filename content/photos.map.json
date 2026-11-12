@@ -47397,6 +47397,88 @@
   "licence": "CC BY 3.0",
   "alt": "Mamata Banerjee (file photo)",
   "alt_hi": "ममता बनर्जी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mamata_Banerjee_-_Kolkata_2011-12-08_7541_Cropped.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:Mamata_Banerjee_-_Kolkata_2011-12-08_7541_Cropped.JPG",
+  "treated": {
+   "src": "/photos/t-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-cond-1280.jpg",
+   "src800": "/photos/t-ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-cond-640.jpg",
+   "cutout": true,
+   "with": [
+    "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls--p1",
+    "suvendu-visits-chorbagan-victim-family-25-lakh",
+    "womens-reservation-33-per-cent-when-will-it-start-explained"
+   ],
+   "kind": "portrait",
+   "subj": "efc7c7c3c7c7e707",
+   "credit": "Photos: Chief Minister's Office, Government of West Bengal / Wikimedia Commons, CC BY 1.0; Biswarup Ganguly / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons"
+  }
+ },
+ "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar": {
+  "id": "o-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+  "src": "/photos/o-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-1280.jpg",
+  "src800": "/photos/o-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1030,
+  "credit": "Photo: SJanakiPSusheela / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Karnataka minister Eshwar Khandre (file photo)",
+  "alt_hi": "कर्नाटक के मंत्री ईश्वर खंड्रे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Eshwar_Khandre_with_Basavaraju_Jettihundi.jpg",
+  "treated": {
+   "src": "/photos/t-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-1280.jpg",
+   "src800": "/photos/t-karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar-640.jpg",
+   "cutout": true,
+   "with": [
+    "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+    "wipro-guidance-december-quarter-large-deals-fall",
+    "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent--p3"
+   ],
+   "kind": "photo",
+   "subj": "707c7c7c3e3e3f7",
+   "credit": "Photos: SJanakiPSusheela / Wikimedia Commons; KshitizBathwal / Skyscape Photography / Wikimedia Commons; Rameshng / Wikimedia Commons; L'Astorina / Wikimedia Commons"
+  }
+ },
+ "infosys-prize-2026-six-researchers-under-40-100000-each": {
+  "id": "i-infosys-prize-2026-six-researchers-under-40-100000-each",
+  "src": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-en-3x2-1280.jpg",
+  "src800": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Six researchers under 40 win",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: चालीस से कम उम्र के छह शोधकर्ता विजेता",
+  "page": null,
+  "ihash": "43d4825e570d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-hi-3x2-1280.jpg",
+    "src800": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-en-t-1280.jpg",
+    "src800": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-hi-t-1280.jpg",
+    "src800": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-en-1280.jpg",
+    "src800": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-hi-1280.jpg",
+    "src800": "/photos/i-infosys-prize-2026-six-researchers-under-40-100000-each-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Isha Jain, Karthik Sastry or the 2026 winners; library, quick_photo, finder h1216"
  }
 }
