@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+    "id": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
     "overlay": {
       "kicker": {
-        "en": "Politics / Maharashtra",
-        "hi": "राजनीति / महाराष्ट्र"
+        "en": "Politics / Parliament",
+        "hi": "राजनीति / संसद"
       },
       "value": {
-        "en": "Reports: NCP (SP) split four ways",
-        "hi": "खबरें: राकांपा (एसपी) चार धड़ों में"
+        "en": "Special Session for delimitation Bill",
+        "hi": "परिसीमन विधेयक पर विशेष सत्र"
       },
       "text": {
         "en": "",
@@ -16,14 +16,18 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "goa-st-seat-reservation-explained-supreme-court",
+      "special-session-of-parliament-explained-shah-offer-cec-removal",
+      "cec-removal-belongs-in-parliament-call-the-special-session"
+    ],
     "relatedBeside": [
       "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
     ],
     "live": {
       "title": {
-        "en": "Maharashtra",
-        "hi": "महाराष्ट्र"
+        "en": "Parliament",
+        "hi": "संसद"
       }
     }
   },
@@ -38,6 +42,17 @@
         "text": {
           "en": "Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies",
           "hi": "भूपेंद्र यादव ने इस्पात, सीमेंट और परिवहन कंपनियों से कहा: भारत की जलवायु कार्रवाई सरकार, उद्योग और शिक्षा जगत के सहयोग पर टिकी, लीडआईटी में अब 19 देश और 33 कंपनियां"
+        }
+      },
+      {
+        "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "lead": {
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
+        },
+        "text": {
+          "en": "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA",
+          "hi": "खबरों के मुताबिक विलय और एनडीए के सवाल पर शरद पवार का राकांपा (एसपी) खेमा चार धड़ों में बंटा"
         }
       },
       {
@@ -74,14 +89,14 @@
         }
       },
       {
-        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "lead": {
-          "en": "Awards:",
-          "hi": "पुरस्कार:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
-          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
         }
       },
       {
@@ -96,25 +111,14 @@
         }
       },
       {
-        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
-          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
-        }
-      },
-      {
-        "link": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Saqib Khan takes seven on debut as Sri Lanka lose six for 42 and finish on 446 in Rawalpindi",
-          "hi": "डेब्यू पर साकिब खान के सात विकेट, श्रीलंका ने आखिरी छह विकेट 42 रन में गंवाए और रावलपिंडी में 446 पर सिमटी"
+          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
+          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+      "id": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
       "also": []
     },
     "list": [
+      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
       "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
       "retail-inflation-october-2026-6-09-two-year-high",
-      "infosys-prize-2026-six-researchers-under-40-100000-each",
-      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
     ],
     "also": [
-      "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
-      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+      "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
     ]
   },
   "startHere": [
@@ -368,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
+        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
       ],
-      "lead": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+      "lead": "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
     },
     {
       "section": "economy",
@@ -394,9 +398,9 @@
     },
     {
       "section": "states",
-      "lead": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+      "lead": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
       "list": [
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
         "kishtwar-two-missing-spos-bodies-recovered-weapons-missing"
       ]
@@ -444,8 +448,8 @@
       "list": [
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back"
       ]
     }
   ],
@@ -457,10 +461,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
+        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
       },
-      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +473,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
-        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -631,17 +635,20 @@
       ]
     },
     {
-      "at": "2026-11-12T21:15:13+05:30",
+      "at": "2026-11-12T21:29:30+05:30",
       "ids": [
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "goa-st-seat-reservation-explained-supreme-court",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
+        "cec-removal-belongs-in-parliament-call-the-special-session",
         "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
         "retail-inflation-october-2026-6-09-two-year-high",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test"
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "infosys-prize-2026-six-researchers-under-40-100000-each"
       ]
     }
   ],
