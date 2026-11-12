@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-11",
+    "as_of": "2026-11-12",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -901,6 +901,33 @@
         }
       ],
       "notes": "Order date taken as the 29 Oct 2026 hearing per reports; reports became public on 10 Nov 2026."
+    },
+    {
+      "id": "karnataka-sc-st-quota-slp",
+      "case": "State of Karnataka v. challengers of the Karnataka SC/ST (Reservation) Act, 2022 (special leave petition against the High Court verdict of 12 Oct 2026)",
+      "issue": "Whether Karnataka's 2022 law raising SC reservation from 15% to 17% and ST reservation from 3% to 7% (56% in total) can stand against the 50% ceiling in Indra Sawhney.",
+      "bench_size": null,
+      "bench": "Not yet listed; High Court bench was Chief Justice Vibhu Bakhru and Justice K S Hema Lekha",
+      "status": "pending",
+      "status_text": "Petition reported filed; no hearing date",
+      "last_date": "2026-11-11",
+      "last_event": "The Chief Minister's Office said the state filed a special leave petition against the High Court's 12 Oct 2026 order striking down Sections 3 and 4 of the 2022 Act, which cut SC quota back to 15% and ST quota to 3%. The Cabinet decided to appeal on 15 Oct. The state says only inclusion in the Ninth Schedule is a permanent safeguard.",
+      "next_step": "Supreme Court to admit the petition and decide on a stay; no listing date reported. The Ninth Schedule route needs a constitutional amendment, which the Centre deferred on 25 Jul 2026.",
+      "sources": [
+        {
+          "title": "Karnataka moves Supreme Court against HC verdict quashing SC/ST quota hike",
+          "publisher": "ThePrint (PTI)",
+          "date": "2026-11-11",
+          "url": "https://theprint.in/india/karnataka-moves-supreme-court-against-hc-verdict-quashing-sc-st-quota-hike/3096426/"
+        },
+        {
+          "title": "Karnataka HC quashes SC/ST quota hike, upholds 50% reservation cap",
+          "publisher": "Daijiworld",
+          "date": "2026-10-13",
+          "url": "https://daijiworld.com/news/newsDisplay?newsID=1331424"
+        }
+      ],
+      "notes": "Filing date and Supreme Court case number are not given in the sources; status rests on the state's release."
     }
   ]
 }
