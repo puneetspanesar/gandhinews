@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Facts (60 awards, 4,751 cities, 43 indicators across 10 areas, 3,000 assessors tracked by GPS, 2.70 crore feedback, 350 bodies up over 500 ranks, waste processing 16% to 80%, door-to-door collection 96% against 44%, 17 lakh SafaiMitras in 33,000 camps, no names for four population categories or the 30 State First cities, PRAGATI-50 with no timeline) are from the PIB release of November 11, 2026 and the desk's own report."
+    - "Editorial view of the desk. Facts (60 awards, 4,751 cities, 43 indicators across 10 areas, 3,000 assessors tracked by GPS, 2.70 crore feedback, 350 bodies up over 500 ranks, waste processing 16% to 80%, door-to-door collection 96% against 44%, 17 lakh SafaiMitras in 33,000 camps, no names for four population categories or the 30 State First cities, PRAGATI-50 with no timeline) are from the PIB release of November 11, 2026, and the desk's own report."
     - "The ministry's figures are quoted as the minister's claims; not independently checked."
     - "No claim made about whether the full city-wise scores are already published on the survey's own site; not checked in this run. Copy asks that they be published in one searchable table."
     - "Recommendations are the desk's own."

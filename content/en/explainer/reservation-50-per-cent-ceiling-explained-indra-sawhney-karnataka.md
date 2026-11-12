@@ -8,7 +8,7 @@ topics: [supreme-court, states]
 title: "The 50% reservation ceiling explained: why Karnataka's quota hike fell and what the Ninth Schedule can do"
 standfirst: "Karnataka has gone to the Supreme Court after the High Court struck down its 56% SC/ST quota. Where the 50% limit comes from, who has crossed it, and why the Ninth Schedule keeps coming up."
 published: 2026-11-12T06:58:00+05:30
-shortAnswer: "The 50% ceiling is a rule laid down by the Supreme Court in Indra Sawhney (1992): reservation under Articles 15 and 16 should not normally pass half of all seats or posts, and can do so only in exceptional circumstances backed by evidence. The Karnataka High Court applied it on October 12, 2026, to strike down a 2022 law taking the state's total to 56%, and the state filed an appeal in the Supreme Court on November 11. Tamil Nadu's 69% survives because its law sits in the Ninth Schedule, a shield that courts have since made weaker."
+shortAnswer: "The 50% ceiling is a rule laid down by the Supreme Court in Indra Sawhney (1992): reservation under Articles 15 and 16 should not normally pass half of all seats or posts, and can do so only in exceptional circumstances backed by evidence. The Karnataka High Court applied it on October 12, 2026, to strike down a 2022 law taking the state's total to 56%, and the state filed an appeal in the Supreme Court on November 11, 2026. Tamil Nadu's 69% survives because its law sits in the Ninth Schedule, a shield that courts have since made weaker."
 hero:
   need: "Karnataka High Court building in Bengaluru, which struck down the 56% quota law"
   suggested_source: "Karnataka High Court"
@@ -64,7 +64,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Karnataka figures, bench, holdings and filing are from the desk's November 11 news story and its sources; judgment text not read."
+    - "Karnataka figures, bench, holdings and filing are from the desk's November 11, 2026, news story and its sources; judgment text not read."
     - "Indra Sawhney 50% rule and the exceptional-circumstances exception are stated as in the Maratha ruling summary (Bar & Bench); the 1992 judgment itself was not opened. The News Minute piece does not mention the exception."
     - "Maharashtra figures: the Act sought to raise reservation from 52% to 68% (Bar & Bench); the source gave the Maratha sub-quota inconsistently, so it is not used."
     - "Tamil Nadu 69% breakdown and the 1993 Ninth Schedule placement from The News Minute (2019 article); the pending Ninth Schedule challenge is as of that piece and may have moved."
@@ -105,18 +105,18 @@ Article 31B says laws in that Schedule are not void for conflicting with fundame
 
 ## Does the Ninth Schedule still give full protection?
 
-**Not any more.** On January 11, 2007, a nine-judge Bench in the I R Coelho case held that a law added to the Ninth Schedule after April 24, 1973 can be challenged if it violates the basic structure of the Constitution, tested against rights such as Articles 14, 19 and 21. A law the Court has already upheld cannot be challenged again.
+**Not any more.** On January 11, 2007, a nine-judge Bench in the I R Coelho case held that a law added to the Ninth Schedule after April 24, 1973, can be challenged if it violates the basic structure of the Constitution, tested against rights such as Articles 14, 19 and 21. A law the Court has already upheld cannot be challenged again.
 
 Challenges to Tamil Nadu's law have been held back in the Supreme Court pending the larger Mandal questions. So the Ninth Schedule is best read as a strong shield that courts can still examine, not a guarantee.
 
 ## Why does Karnataka talk about it now?
 
-**Because the state says it is the only permanent fix.** Karnataka's Assembly passed a resolution on December 18, 2025, asking the Centre to place its quota in the Ninth Schedule. The Centre told Parliament on July 25, 2026 that the request would be deferred because the matter was before the High Court. After the verdict, the state said it would fight in the Supreme Court and keep pressing the Centre.
+**Because the state says it is the only permanent fix.** Karnataka's Assembly passed a resolution on December 18, 2025, asking the Centre to place its quota in the Ninth Schedule. The Centre told Parliament on July 25, 2026, that the request would be deferred because the matter was before the High Court. After the verdict, the state said it would fight in the Supreme Court and keep pressing the Centre.
 
 The state's release also points out that Karnataka has five Union ministers and 19 Lok Sabha MPs from the BJP and the JD(S), and that no constitutional amendment has been introduced. No response from the Centre was available on Wednesday night.
 
 ```photo
-{"n":2,"subject":"Supreme Court of India","caption":"The Supreme Court in New Delhi, where Karnataka filed its special leave petition on November 11.","alt":"The Supreme Court of India building in New Delhi"}
+{"n":2,"subject":"Supreme Court of India","caption":"The Supreme Court in New Delhi, where Karnataka filed its special leave petition on November 11, 2026.","alt":"The Supreme Court of India building in New Delhi"}
 ```
 
 ## What happens next?

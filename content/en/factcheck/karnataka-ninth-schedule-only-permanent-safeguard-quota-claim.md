@@ -6,7 +6,7 @@ section: politics
 format_label: Fact check / Reservation
 topics: []
 title: "Karnataka calls the Ninth Schedule 'the only permanent safeguard' for its 56% quota. Since 2007 the Supreme Court can still strike such laws down"
-standfirst: "The state's Chief Minister's Office says inclusion in the Ninth Schedule would end legal challenges to the SC/ST quota hike. A nine-judge Supreme Court ruling holds that laws added after April 24, 1973 stay open to review."
+standfirst: "The state's Chief Minister's Office says inclusion in the Ninth Schedule would end legal challenges to the SC/ST quota hike. A nine-judge Supreme Court ruling holds that laws added after April 24, 1973, stay open to review."
 published: 2026-11-12T06:56:00+05:30
 factcheck:
   claim: "Inclusion of the 56% SC/ST quota law in the Ninth Schedule is 'the only permanent safeguard against future legal challenges'."
@@ -14,7 +14,7 @@ factcheck:
   seenOn: "Chief Minister's Office release, November 11, 2026, announcing the appeal in the Supreme Court"
   firstSeen: 2026-11-11
   verdict: "Misleading"
-  finding: "The Ninth Schedule is a real shield, but not a permanent one. In I R Coelho v State of Tamil Nadu (2007), a nine-judge Bench of the Supreme Court held that a law placed in the Schedule after April 24, 1973 can still be struck down if it violates fundamental rights that form part of the Constitution's basic structure. Karnataka's law would be added decades after that date, and would also need a constitutional amendment passed by Parliament, which the Centre has so far deferred."
+  finding: "The Ninth Schedule is a real shield, but not a permanent one. In I R Coelho v State of Tamil Nadu (2007), a nine-judge Bench of the Supreme Court held that a law placed in the Schedule after April 24, 1973, can still be struck down if it violates fundamental rights that form part of the Constitution's basic structure. Karnataka's law would be added decades after that date, and would also need a constitutional amendment passed by Parliament, which the Centre has so far deferred."
 hero:
   need: "Karnataka Chief Minister D K Shivakumar at a press event or in the Vidhana Soudha"
   suggested_source: "D. K. Shivakumar"
@@ -25,7 +25,7 @@ hero:
 infographic:
   kicker: "Fact check: quota"
   headline: "The Ninth Schedule shield has a limit"
-  dek: "A law added after April 24, 1973 can still be reviewed"
+  dek: "A law added after April 24, 1973, can still be reviewed"
   motif: scales
   stats:
     - {icon: scales, value: "9 judges", label: "bench in I R Coelho (2007) that kept the Schedule open to review"}
@@ -59,8 +59,8 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Claim is from the Chief Minister's Office release of Nov 11, 2026 as carried in news reports and in our own story; the release text itself was not opened. Attributed to the office, not to Shivakumar personally; his photo is used because he heads the office."
-    - "WebFetch was blocked in this run, so neither the Coelho judgment (api.sci.gov.in link found by search) nor the 76th Amendment text was opened. The holding stated here (nine judges, January 11, 2007, laws added after April 24, 1973 open to fundamental-rights and basic-structure review) is the settled, widely reported reading of the judgment. Editor to open the PDF before this goes beyond a draft."
+    - "Claim is from the Chief Minister's Office release of Nov 11, 2026, as carried in news reports and in our own story; the release text itself was not opened. Attributed to the office, not to Shivakumar personally; his photo is used because he heads the office."
+    - "WebFetch was blocked in this run, so neither the Coelho judgment (api.sci.gov.in link found by search) nor the 76th Amendment text was opened. The holding stated here (nine judges, January 11, 2007, laws added after April 24, 1973, open to fundamental-rights and basic-structure review) is the settled, widely reported reading of the judgment. Editor to open the PDF before this goes beyond a draft."
     - "Tamil Nadu 69% law (Act 45 of 1994) placed in the Ninth Schedule by the 76th Amendment: stated as such; the pending challenge to it is not stated as a current fact."
     - "Rating Misleading, not False: the Schedule does give protection from ordinary challenge, and the state says 'permanent safeguard', which overstates it."
 ---
@@ -69,7 +69,7 @@ verification:
 
 The claim is misleading. In its release of November 11, 2026, announcing the appeal in the Supreme Court, Karnataka's Chief Minister's Office called inclusion in the Ninth Schedule **"the only permanent safeguard against future legal challenges"** to the 56% SC/ST quota law.
 
-The Ninth Schedule does protect a law from most challenges. But in 2007 a nine-judge Bench of the Supreme Court held that **laws added to it after April 24, 1973 can still be struck down** if they violate fundamental rights that form part of the basic structure. So the protection is not permanent, and it is not automatic. Karnataka also has to get Parliament to pass a constitutional amendment first, and the Centre told Parliament on July 25, 2026 that it would defer the request while the matter was before the High Court.
+The Ninth Schedule does protect a law from most challenges. But in 2007 a nine-judge Bench of the Supreme Court held that **laws added to it after April 24, 1973, can still be struck down** if they violate fundamental rights that form part of the basic structure. So the protection is not permanent, and it is not automatic. Karnataka also has to get Parliament to pass a constitutional amendment first, and the Centre told Parliament on July 25, 2026, that it would defer the request while the matter was before the High Court.
 
 ```compare
 {"title":"What the state says, and what the Court has held","columns":["Karnataka's release","The Supreme Court's position"],"rows":[{"icon":"shield-check","label":"Protection","cells":["The Ninth Schedule is a permanent safeguard","Protection is not absolute; added laws can be reviewed"]},{"icon":"calendar","label":"Cut-off date","cells":["Not mentioned","April 24, 1973: laws added after it are tested on basic structure"]},{"icon":"bank","label":"How to get in","cells":["Centre should act through its MPs","Needs a constitutional amendment passed by Parliament"]}]}
@@ -79,7 +79,7 @@ The Ninth Schedule does protect a law from most challenges. But in 2007 a nine-j
 
 ### 1. What the state said
 
-The release, as carried in reports on November 11, said Karnataka had filed a special leave petition against the High Court verdict of October 12, 2026, which cut SC reservation from 17% to 15% and ST reservation from 7% to 3%. It described the Ninth Schedule as the only permanent safeguard and asked why the 19 Lok Sabha MPs from the BJP and the JD(S) have not moved an amendment.
+The release, as carried in reports on November 11, 2026, said Karnataka had filed a special leave petition against the High Court verdict of October 12, 2026, which cut SC reservation from 17% to 15% and ST reservation from 7% to 3%. It described the Ninth Schedule as the only permanent safeguard and asked why the 19 Lok Sabha MPs from the BJP and the JD(S) have not moved an amendment.
 
 ### 2. What the Supreme Court held in Coelho
 

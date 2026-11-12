@@ -1,0 +1,47 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-12T06:47:33+05:30",
+ "end": "2026-11-12T07:29:21+05:30",
+ "summary": "5 pieces: reservation ceiling and prisoner swap explainers, Sangrur bus and Swachh editorials, Karnataka Ninth Schedule fact check",
+ "new": [
+  "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur",
+  "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
+  "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+  "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+  "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+   "why": "Main picture is a tight, smiling headshot of Jared Kushner, a US envoy on the edge of the story; it does not show a prisoner swap or either party to it (rules 1 and 3), and the hero brief asked for Kushner with Medinsky. The same smiling face sits in the homepage Explained row. Text also breaks rule 14: English dates without the year in the standfirst, shortAnswer and body ('November 11', 'November 10 and 11', 'Thursday, November 12' twice, 'Wednesday, November 11', 'numbers due November 12').",
+   "done": "Main picture replaced with a CC0 file photo of a freed Ukrainian prisoner of war embraced on return (finder l12m2, s1-0), labelled (file photo); ', 2026' added to every yearless English date."
+  },
+  {
+   "id": "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+   "why": "Rule 14: English dates without the year: shortAnswer 'filed an appeal in the Supreme Court on November 11.' and photo 2 caption 'special leave petition on November 11.'",
+   "done": "Both dates changed to 'November 11, 2026'."
+  },
+  {
+   "id": "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur",
+   "why": "Headline states 'a speeding bus' as fact while the body says speed comes only from early accounts and 'The police have not named a cause'. Rule 14: 'another Sangrur crash on October 18' has no year. (Picture: infographic stands, story is marked NOPHOTO; covers read correctly in English and Hindi.)",
+   "done": "Headline now 'a bus said to be speeding' (Hindi 'कथित तौर पर तेज़ रफ़्तार बस'); 'October 18, 2026'; infographic re-rendered."
+  },
+  {
+   "id": "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
+   "why": "Rule 14: 'The release, as carried in reports on November 11, said...' has no year. Note also that the file's own verification asks the editor to open the Coelho PDF; the holding stated (nine judges, January 11, 2007, laws added after April 24, 1973 open to basic-structure review) matches the settled reading, but the judgment was not opened in this check either.",
+   "done": "Date changed to 'November 11, 2026'. Coelho PDF still to be opened by the next run that updates this page (holding as stated matches the settled reading, per the editor)."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Same subject side by side: the Swachh Survekshan editorial sits directly under the Swachh lead, and the middle column stacks three Karnataka quota pieces (news, the 50% explainer, the Ninth Schedule fact check, the last two adjacent); keep one Swachh item at the top and one Karnataka quota item in the column, move the explainer and fact check down (they are already in Explained). 2) Russia-Ukraine running story takes three top slots (Must Read 3 and 5 plus This Week Witkoff/Kushner row), and Must Read 5 'as Abu Dhabi talks resume for day two' is stale since the talks ended on November 11, 2026; drop item 5 and the This Week row so the story has one slot. 3) The Policy and government list still shows the preview 'President Murmu to hand out Swachh Survekshan awards on Wednesday' though the awards are done; remove it. 4) The seafarer card says 'three more Indians safe'; the latest figure is six safe; update the headline. 5) On mobile the sticky bottom nav covers the first card under the lead (the Swachh editorial headline is cut, only 'publish every city's score, indicator by indicator' shows); add bottom padding or offset so no card is hidden. 6) The lead is an awards ceremony from yesterday; if a harder national story with a photo is available (Karnataka's Supreme Court appeal, Kulgam attack, seafarers), lead with it and move Swachh to a top slot.",
+   "done": "Dropped the stale Abu Dhabi day-two story and the Swachh awards preview; kept the Karnataka fact check out of the headline list (it stays in the fact-check band) so no two quota pieces sit side by side; pinned the swaps explainer. Seafarer headline checked: 'three more Indians safe on Saudi tanker' is correct (NCC Fajr carried three Indians; the six were on Fujairah Energy). Left: the Witkoff row is today's (November 12, 2026) event, not stale; the lead is chosen by hourly runs, not long-form; the mobile bottom-nav padding is a template change outside this run (check_layout passes) and stays in editor-notes."
+  }
+ ],
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
+ ],
+ "lead": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
+}

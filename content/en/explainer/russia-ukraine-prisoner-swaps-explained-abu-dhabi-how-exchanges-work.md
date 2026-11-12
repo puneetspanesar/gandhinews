@@ -6,9 +6,9 @@ section: world
 format_label: "Explained / Russia-Ukraine"
 topics: []
 title: "Russia-Ukraine prisoner swaps explained: how they are agreed, who is freed and why they are the one thing that works"
-standfirst: "The Abu Dhabi talks ended on November 11 with a large exchange agreed and no deal on the war. How these swaps are negotiated, how many people have come home so far, and why the numbers are still being fixed."
+standfirst: "The Abu Dhabi talks ended on November 11, 2026, with a large exchange agreed and no deal on the war. How these swaps are negotiated, how many people have come home so far, and why the numbers are still being fixed."
 published: 2026-11-12T07:05:00+05:30
-shortAnswer: "A prisoner swap is a deal between Kyiv and Moscow to hand over detainees in equal or unequal numbers at a secret location near the border. Ukraine says more than 8,050 of its people had come home from Russian captivity by March 2026, in more than 70 exchanges since 2022. The Abu Dhabi talks on November 10 and 11 produced another agreed large swap, with the numbers due to be fixed on Thursday, November 12, but no ceasefire or territorial deal."
+shortAnswer: "A prisoner swap is a deal between Kyiv and Moscow to hand over detainees in equal or unequal numbers at a secret location near the border. Ukraine says more than 8,050 of its people had come home from Russian captivity by March 2026, in more than 70 exchanges since 2022. The Abu Dhabi talks on November 10 and 11, 2026 produced another agreed large swap, with the numbers due to be fixed on Thursday, November 12, but no ceasefire or territorial deal."
 hero:
   need: "Jared Kushner and Vladimir Medinsky, the US envoy and Russia's chief negotiator who confirmed the Abu Dhabi swap"
   suggested_source: "Jared Kushner"
@@ -60,10 +60,10 @@ verification:
   notes:
     - "Background on how swaps work (Coordination Headquarters, lists, Russian bodies involved, 200-for-one, 2023 pause, ICRC access, 'I Want to Go to My People') is from a Kyiv Independent explainer of June 2025, so Ukrainian-side and dated; Russia's view of it was not found."
     - "8,050 returned and more than 70 exchanges: Ukraine's Coordination Headquarters as carried on March 11, 2026; Russian figures were not found."
-    - "February 5, 2026 swap of 157 each, first large exchange in nearly five months, from one report; the Novaya Gazeta figure of 314 total could not be opened but matches."
+    - "February 5, 2026, swap of 157 each, first large exchange in nearly five months, from one report; the Novaya Gazeta figure of 314 total could not be opened but matches."
     - "Third Geneva Convention rule on release after hostilities (Article 118) is stated from general knowledge and was not opened this run."
     - "Mediator role of the UAE: the UAE calls itself a trusted mediator (Statesman, Feb 2026); the Kyiv Independent explainer does not describe it."
-    - "Nov 10 to 12 facts are from the desk's November 11 news stories; numbers for the new swap are not yet agreed."
+    - "Nov 10 to 12 facts are from the desk's November 11, 2026, news stories; numbers for the new swap are not yet agreed."
 ---
 
 ## What is a prisoner swap?
@@ -76,7 +76,7 @@ The numbers do not have to match. In September 2022, more than 200 Ukrainian pri
 
 **A large exchange, with the numbers still to be settled.** After the talks ended on Wednesday, November 11, US envoy Jared Kushner and Russia's chief negotiator Vladimir Medinsky both confirmed it. Rustem Umerov, who leads Ukraine's delegation, said another swap had been agreed, with the figure to follow.
 
-Volodymyr Zelenskyy had earlier floated **1,000 for 1,000, or 1,500 for 1,500**. Neither government has confirmed that range. The two sides were to settle the numbers on Thursday, November 12.
+Volodymyr Zelenskyy had earlier floated **1,000 for 1,000, or 1,500 for 1,500**. Neither government has confirmed that range. The two sides were to settle the numbers on Thursday, November 12, 2026.
 
 ```photo
 {"n":1,"subject":"Rustem Umerov","caption":"Rustem Umerov, who heads Ukraine's delegation in Abu Dhabi and said another swap had been agreed.","alt":"Ukrainian delegation head Rustem Umerov (file photo)"}
@@ -95,7 +95,7 @@ Ukraine has asked for an "all for all" exchange, which Russia has rejected. With
 The flow has not been steady. Exchanges stopped from August 2023 until January 2024, which Ukraine blamed on Russian delays. In May and June 2025 a 1,000-for-1,000 exchange was agreed at talks in Istanbul. The most recent large one before this week came on February 5, 2026, after an earlier Abu Dhabi round, when **157 detainees were returned by each side**, the first large exchange in nearly five months.
 
 ```timeline
-{"title":"Swaps since 2022","items":[{"date":"March 2022","text":"Ukraine sets up the Coordination Headquarters."},{"date":"September 2022","text":"More than 200 Ukrainian prisoners freed for Viktor Medvedchuk."},{"date":"August 2023 to January 2024","text":"No exchanges."},{"date":"May to June 2025","text":"1,000-for-1,000 swap agreed at Istanbul talks."},{"date":"February 5, 2026","text":"157 freed by each side after the Abu Dhabi round."},{"date":"November 11, 2026","text":"Large swap agreed in Abu Dhabi; numbers due November 12."}]}
+{"title":"Swaps since 2022","items":[{"date":"March 2022","text":"Ukraine sets up the Coordination Headquarters."},{"date":"September 2022","text":"More than 200 Ukrainian prisoners freed for Viktor Medvedchuk."},{"date":"August 2023 to January 2024","text":"No exchanges."},{"date":"May to June 2025","text":"1,000-for-1,000 swap agreed at Istanbul talks."},{"date":"February 5, 2026","text":"157 freed by each side after the Abu Dhabi round."},{"date":"November 11, 2026","text":"Large swap agreed in Abu Dhabi; numbers due November 12, 2026."}]}
 ```
 
 ## Why do swaps happen when nothing else does?
@@ -114,6 +114,6 @@ The swaps also run on a track separate from the political one. The February swap
 
 ## What happens next?
 
-**The numbers, then Moscow.** US envoys Steve Witkoff and Kushner are reported to be flying to Moscow on Thursday, November 12 to brief Vladimir Putin, then to meet Zelenskyy in Ireland. No date is set for another round of three-way talks.
+**The numbers, then Moscow.** US envoys Steve Witkoff and Kushner are reported to be flying to Moscow on Thursday, November 12, 2026, to brief Vladimir Putin, then to meet Zelenskyy in Ireland. No date is set for another round of three-way talks.
 
 For a reader in India, the swap changes little directly. What matters is whether the track that delivers prisoners can also reach the shipping and energy attacks that move oil and food prices, and so far it has not. As of November 12, 2026, only the exchange has been agreed.

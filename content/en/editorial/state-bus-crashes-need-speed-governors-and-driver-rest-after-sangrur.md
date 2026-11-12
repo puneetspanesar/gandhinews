@@ -5,7 +5,7 @@ type: editorial
 section: policy
 format_label: "Editorial"
 topics: []
-title: "A clear road, a speeding bus, three dead in Sangrur. State transport corporations must publish how their drivers are kept in check"
+title: "A clear road, a bus said to be speeding, three dead in Sangrur. State transport corporations must publish how their drivers are kept in check"
 standfirst: "A PRTC bus hit a flyover wall at about 4:30 am on Wednesday, in clear weather, and three passengers died. Public buses carry people who have no say in how fast they are driven; the state that runs them owes them proof that speed and fatigue are controlled."
 published: 2026-11-12T06:50:00+05:30
 keyPoints:
@@ -51,16 +51,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Crash facts (November 11, about 4:30 am, PRTC bus Dhuri to Chandigarh, three killed, 15 referred to Rajindra Hospital Patiala, clear weather per police officer Mehar Singh, high speed per preliminary information, Mann's free-treatment order, no ex-gratia announced) are from the desk's own November 11 report and the sources listed there."
+    - "Editorial view of the desk. Crash facts (November 11, about 4:30 am, PRTC bus Dhuri to Chandigarh, three killed, 15 referred to Rajindra Hospital Patiala, clear weather per police officer Mehar Singh, high speed per preliminary information, Mann's free-treatment order, no ex-gratia announced) are from the desk's own November 11, 2026, report and the sources listed there."
     - "Injured count varies by source (18 to 26); copy uses 'more than 20'."
-    - "October 18 Sangrur crash: ex-gratia of 2 lakh per family announced by the CM, per the desk's report."
+    - "October 18, 2026 Sangrur crash: ex-gratia of 2 lakh per family announced by the CM, per the desk's report."
     - "No claim made about what speed-limiting or tracking devices PRTC buses actually carry, or the driver's hours; not found. Copy asks for them to be published."
     - "Recommendations are the desk's own."
 ---
 
 At about 4:30 on Wednesday morning, a bus of the state-owned Pepsu Road Transport Corporation left the road at Sangrur, struck a pole under the flyover wall and then a tree. **Three passengers were killed** and more than 20 were hurt. It was not fog. A police officer at the scene said the weather was clear. Early accounts from police and passengers say the bus was **moving at high speed** and the driver lost control.
 
-The inquiry will say more, and we should wait for it. But the shape of the event is familiar, and so is what follows: a condolence message, free treatment for the injured, a promise to look into it. The Chief Minister's office did not announce any payment for the families of the dead, though after another Sangrur crash on October 18 it announced **₹2 lakh for each family**. The sum a family receives should not depend on the day.
+The inquiry will say more, and we should wait for it. But the shape of the event is familiar, and so is what follows: a condolence message, free treatment for the injured, a promise to look into it. The Chief Minister's office did not announce any payment for the families of the dead, though after another Sangrur crash on October 18, 2026, it announced **₹2 lakh for each family**. The sum a family receives should not depend on the day.
 
 ## The passenger has no say
 
