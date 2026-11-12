@@ -102,7 +102,7 @@ Punjab Congress president Pargat Singh also expressed grief. Vijay Inder Singla,
 
 ## How this compares with recent crashes
 
-Sangrur district saw another deadly road accident last month. On October 18, a speeding car ran into MGNREGA workers resting by the Lehragaga-Jakhal road near Alisher village. The Defence Minister, Rajnath Singh, expressed grief over the deaths, and Mann announced **₹2 lakh ex-gratia for each family** and full treatment for the injured. The driver in that case had fled. Our earlier report on [Rahul Gandhi's rally at Phaguwala](/news/rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs) covers the district's recent political events.
+Sangrur district saw another deadly road accident last month. On October 18, a speeding car ran into MGNREGA workers resting by the Lehragaga-Jakhal road near Alisher village. The Defence Minister, Rajnath Singh, expressed grief over the deaths, and Mann announced **₹2 lakh ex-gratia for each family** and full treatment for the injured. The driver in that case had fled. Our earlier report on [Rahul Gandhi's rally at Phaguwala](/en/news/rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs) covers the district's recent political events.
 
 ## What it means for the injured and the families
 

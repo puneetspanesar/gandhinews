@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+    "id": "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
     "overlay": {
       "kicker": {
-        "en": "Policy / Urban Affairs",
-        "hi": "नीति / शहरी मामले"
+        "en": "States / Tamil Nadu",
+        "hi": "राज्य / तमिलनाडु"
       },
       "value": {
-        "en": "Top three big cities named",
-        "hi": "बड़े शहरों के शीर्ष तीन घोषित"
+        "en": "Centre asks Governor for a law and order report",
+        "hi": "केंद्र ने मांगी राज्यपाल से रिपोर्ट"
       },
       "text": {
         "en": "",
@@ -16,19 +16,78 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "sangrur-prtc-bus-flyover-crash-three-killed",
+      "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
+      "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained"
+    ],
     "relatedBeside": [
-      "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal"
+      "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     ],
     "live": {
       "title": {
-        "en": "Urban Affairs",
-        "hi": "शहरी मामले"
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Iyer takes charge at Bay Oval as India go for a series-clinching win against a depleted New Zealand",
+          "hi": "बे ओवल में अय्यर की कप्तानी, कमज़ोर न्यूज़ीलैंड के खिलाफ सीरीज़ पक्की करने उतरेगा भारत"
+        }
+      },
+      {
+        "link": "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India's Test camp opens in Wellington as Gill and Rahul join, with a week to go before the first Test",
+          "hi": "वेलिंगटन में भारत का टेस्ट कैंप शुरू, गिल और राहुल जुड़े, पहले टेस्ट में एक हफ्ता बाकी"
+        }
+      },
+      {
+        "link": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi to open Bengaluru Pink Line and launch Rs 15,600 crore of projects on Friday, then visit Ambaji temple",
+          "hi": "मोदी शुक्रवार को बेंगलुरु की पिंक लाइन खोलेंगे, ₹15,600 करोड़ की परियोजनाएं शुरू करेंगे, फिर अंबाजी मंदिर जाएंगे"
+        }
+      },
+      {
+        "link": "india-cuts-visa-categories-13-to-9-form-fields-mha",
+        "lead": {
+          "en": "Home Ministry:",
+          "hi": "गृह मंत्रालय:"
+        },
+        "text": {
+          "en": "India cuts main visa categories from 13 to 9 and trims application forms by up to 70%",
+          "hi": "भारत ने मुख्य वीजा श्रेणियां 13 से घटाकर 9 कीं, आवेदन फॉर्म 70% तक छोटे"
+        }
+      },
+      {
+        "link": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+        "lead": {
+          "en": "Urban Affairs:",
+          "hi": "शहरी मामले:"
+        },
+        "text": {
+          "en": "Visakhapatnam, Jabalpur and Lucknow named top three big cities as President Murmu confers 60 Swachh Survekshan awards",
+          "hi": "विशाखापत्तनम, जबलपुर और लखनऊ बड़े शहरों में शीर्ष तीन, राष्ट्रपति मुर्मु ने दिए 60 स्वच्छ सर्वेक्षण पुरस्कार"
+        }
+      },
       {
         "link": "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
         "lead": {
@@ -52,17 +111,6 @@
         }
       },
       {
-        "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Suryakumar to captain Mumbai and Sooryavanshi, 15, Bihar as the Syed Mushtaq Ali Trophy opens Saturday",
-          "hi": "सूर्यकुमार मुंबई और 15 साल के सूर्यवंशी बिहार के कप्तान, सैयद मुश्ताक अली ट्रॉफी शनिवार से"
-        }
-      },
-      {
         "link": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "lead": {
           "en": "Books:",
@@ -71,50 +119,6 @@
         "text": {
           "en": "M John Harrison, 81, wins the Booker Prize for The End of Everything, the oldest winner yet",
           "hi": "81 साल के एम जॉन हैरिसन को 'द एंड ऑफ एवरीथिंग' के लिए बुकर पुरस्कार, अब तक के सबसे उम्रदराज विजेता"
-        }
-      },
-      {
-        "link": "sangrur-prtc-bus-flyover-crash-three-killed",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
-          "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
-        }
-      },
-      {
-        "link": "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
-        "lead": {
-          "en": "Reservation:",
-          "hi": "आरक्षण:"
-        },
-        "text": {
-          "en": "Parameshwara says the Constitution ties reservation to population. For jobs and admissions, the court record says otherwise",
-          "hi": "परमेश्वर: संविधान आरक्षण को आबादी से जोड़ता है। नौकरी और दाखिले के लिए अदालती रिकॉर्ड कुछ और कहता है"
-        }
-      },
-      {
-        "link": "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Evening courts are worth a try. The pilot needs published targets and a clear legal basis",
-          "hi": "शाम की अदालतें आज़माने लायक हैं। पायलट के लिए लक्ष्य सार्वजनिक हों और कानूनी आधार साफ़ हो"
-        }
-      },
-      {
-        "link": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-        "lead": {
-          "en": "Cybercrime:",
-          "hi": "साइबर अपराध:"
-        },
-        "text": {
-          "en": "Digital arrest scams explained: how the fraud works and what the Supreme Court wants banks and WhatsApp to do",
-          "hi": "डिजिटल अरेस्ट ठगी क्या है, कैसे होती है, और सुप्रीम कोर्ट ने बैंकों और व्हाट्सऐप से क्या कहा"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+      "id": "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
       "also": []
     },
     "list": [
-      "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-      "sangrur-prtc-bus-flyover-crash-three-killed",
-      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
-      "evening-courts-pilot-needs-published-targets-and-a-legal-basis"
+      "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+      "india-cuts-visa-categories-13-to-9-form-fields-mha",
+      "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+      "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+      "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
     ],
     "also": [
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-      "extradition-explained-hasina-india-bangladesh-treaty"
+      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+      "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     ]
   },
   "startHere": [
@@ -368,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
         "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
+        "eci-extends-poll-code-curbs-retired-officials-five-states"
       ],
-      "lead": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
+      "lead": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
     },
     {
       "section": "economy",
@@ -394,20 +398,20 @@
     },
     {
       "section": "states",
-      "lead": "kulgam-crpf-naka-attack-three-injured-nov-11",
+      "lead": "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
       "list": [
+        "kulgam-crpf-naka-attack-three-injured-nov-11",
         "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-        "sangrur-prtc-bus-flyover-crash-three-killed",
-        "kolkata-sairang-express-derails-digaru-assam-no-injuries"
+        "sangrur-prtc-bus-flyover-crash-three-killed"
       ]
     },
     {
       "section": "policy",
-      "lead": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+      "lead": "india-cuts-visa-categories-13-to-9-form-fields-mha",
       "list": [
+        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
         "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23",
-        "sc-fra-commercial-cultivation-megamalai-silk-cotton"
+        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
       ]
     },
     {
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+      "lead": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
       "list": [
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+        "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
         "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
-        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "india-a-nz-a-lincoln-third-test-draw-series-level"
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14"
       ]
     }
   ],
@@ -510,15 +514,16 @@
       }
     },
     {
-      "icon": "bank",
+      "icon": "calendar-blank",
       "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
       "text": {
-        "en": "RBI's weekly forex reserves figures",
-        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
-      }
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+      },
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     }
   ],
   "headlineHistory": [
@@ -624,17 +629,20 @@
       ]
     },
     {
-      "at": "2026-11-12T06:54:48+05:30",
+      "at": "2026-11-12T06:47:02+05:30",
       "ids": [
+        "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
+        "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
+        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+        "india-cuts-visa-categories-13-to-9-form-fields-mha",
         "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
         "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
         "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
-        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-        "sangrur-prtc-bus-flyover-crash-three-killed",
-        "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
-        "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
-        "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner"
       ]
     }
   ],

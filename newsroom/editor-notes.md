@@ -60,3 +60,11 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Editor homepage FAIL not fixed (two editor checks; template-driven): Must Read still carries the stale Abu Dhabi day one and day two items beside "talks end"; Haj quota card in a pictured slot; Swachh preview in the Policy list; seafarer card says three not six safe; fold gap under left and middle columns.
 - Markets: Nov 11 close kept; FII/DII flows for Nov 11 not read this run.
 - NEXT RUN, FIRST: MHA visa category simplification; PM Modi Karnataka and Gujarat visit Nov 13-14 preview; six seafarers safe update; Rawalpindi day four close; Nov 11 FII/DII flows; correct the "second Test in Lahore" line in the day-three story.
+
+## November 12, 2026, 6:50 am (from the 06:00 run)
+- Published 5: tn-law-and-order-diwali-murders-centre-seeks-governor-report (LEAD, Amit Shah Commons file photo; rests on reports), modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview (PMO release read; Modi library portrait, tight crop, needs an event photo), india-cuts-visa-categories-13-to-9-form-fields-mha (IGI T3 file photo; rests on reports, MHA release not found), iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview, india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back.
+- Held: nepal-pm-shah-india-visit-november-22-25-modi-talks-aid (news two days old; republish when India announces the dates).
+- WebFetch permission prompts went unanswered for news front pages (newsonair, thehindu, indianexpress): the front-page check ran on these notes only.
+- Fixed a build break: sangrur-prtc-bus-flyover-crash-three-killed linked /news/<id> (unresolvable); now /en|hi/news/<id>.
+- Editor homepage notes not done (template-driven or need research): seafarer card says three safe, six now reported (six-indian-seafarers-safe... is held for its picture); Russia-Ukraine twice in Must Read; Swachh preview in Policy list; three Bastar items in Politics.
+- NEXT RUN, FIRST: Rawalpindi day four close (play from about 10 am IST); six seafarers safe with a proper photo (republish the held story with a serious Sonowal or ship photo); Modi Bengaluru event photo (PIB) on November 13; October CPI release today; markets open.
