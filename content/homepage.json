@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-asean-india-summit-manila-november-16-18",
+    "id": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
     "overlay": {
       "kicker": {
-        "en": "World / Southeast Asia",
-        "hi": "दुनिया / दक्षिण-पूर्व एशिया"
+        "en": "Politics / Maharashtra",
+        "hi": "राजनीति / महाराष्ट्र"
       },
       "value": {
-        "en": "Manila, November 16 to 18",
-        "hi": "मनीला, 16 से 18 नवंबर"
+        "en": "Reports: NCP (SP) split four ways",
+        "hi": "खबरें: राकांपा (एसपी) चार धड़ों में"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Southeast Asia",
-        "hi": "दक्षिण-पूर्व एशिया"
+        "en": "Maharashtra",
+        "hi": "महाराष्ट्र"
       }
     }
   },
@@ -41,28 +41,6 @@
         }
       },
       {
-        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
-          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
-        }
-      },
-      {
-        "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA",
-          "hi": "खबरों के मुताबिक विलय और एनडीए के सवाल पर शरद पवार का राकांपा (एसपी) खेमा चार धड़ों में बंटा"
-        }
-      },
-      {
         "link": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "lead": {
           "en": "Cricket:",
@@ -74,25 +52,25 @@
         }
       },
       {
-        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
-          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
+          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
         }
       },
       {
-        "link": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "link": "retail-inflation-october-2026-6-09-two-year-high",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Inflation:",
+          "hi": "महंगाई:"
         },
         "text": {
-          "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
-          "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
+          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
+          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
         }
       },
       {
@@ -107,14 +85,36 @@
         }
       },
       {
-        "link": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "link": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "lead": {
-          "en": "Union Cabinet:",
-          "hi": "केंद्रीय मंत्रिमंडल:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Cabinet raises rabi fertiliser subsidy 64% to ₹62,370 crore, clears ₹3,230 crore museum",
-          "hi": "कैबिनेट ने रबी में उर्वरक सब्सिडी 64% बढ़ाकर ₹62,370 करोड़ की, ₹3,230 करोड़ के संग्रहालय को मंजूरी"
+          "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
+          "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
+        }
+      },
+      {
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+        }
+      },
+      {
+        "link": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Saqib Khan takes seven on debut as Sri Lanka lose six for 42 and finish on 446 in Rawalpindi",
+          "hi": "डेब्यू पर साकिब खान के सात विकेट, श्रीलंका ने आखिरी छह विकेट 42 रन में गंवाए और रावलपिंडी में 446 पर सिमटी"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+      "id": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
       "also": []
     },
     "list": [
-      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+      "retail-inflation-october-2026-6-09-two-year-high",
+      "infosys-prize-2026-six-researchers-under-40-100000-each",
       "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-      "infosys-prize-2026-six-researchers-under-40-100000-each"
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
     ],
     "also": [
-      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-      "us-army-soldier-arrested-england-russia-national-security-act"
+      "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
     ]
   },
   "startHere": [
@@ -387,16 +387,16 @@
         ]
       },
       "list": [
+        "india-bans-export-lithium-ion-battery-black-mass",
         "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
       ]
     },
     {
       "section": "states",
-      "lead": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "lead": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
       "list": [
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
         "kishtwar-two-missing-spos-bodies-recovered-weapons-missing"
       ]
@@ -426,16 +426,16 @@
       "list": [
         "modi-asean-india-summit-manila-november-16-18",
         "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "us-army-soldier-arrested-england-russia-national-security-act"
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
       ]
     },
     {
       "section": "science",
       "lead": "infosys-prize-2026-six-researchers-under-40-100000-each",
       "list": [
+        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
         "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
       ]
     },
     {
@@ -444,8 +444,8 @@
       "list": [
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back"
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
+        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
       ]
     }
   ],
@@ -457,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
-        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
+        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
       },
-      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
     },
     {
       "icon": "calendar-blank",
@@ -523,20 +523,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T10:33:35+05:30",
-      "ids": [
-        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
-        "us-army-soldier-arrested-england-russia-national-security-act",
-        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
-      ]
-    },
     {
       "at": "2026-11-12T12:42:06+05:30",
       "ids": [
@@ -642,6 +628,20 @@
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "infosys-prize-2026-six-researchers-under-40-100000-each",
         "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+      ]
+    },
+    {
+      "at": "2026-11-12T21:15:13+05:30",
+      "ids": [
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test"
       ]
     }
   ],
