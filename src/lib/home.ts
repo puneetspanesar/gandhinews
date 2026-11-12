@@ -112,6 +112,17 @@ const abbrMonths = (s: string, lang: Lang) => (lang === 'en' ? String(s).replace
 const noYear = (s: string) => stripParen(s).replace(/,?\s+\d{4}\b/g, '').trim();
 
 
+/** Stale on the front page, in every band (owner, November 12): a preview whose event day has passed, and any headline
+ *  that says today, tonight or tomorrow from an earlier day. `enTitle` is the English headline (the rule reads English). */
+export function expiredOnHome(d: any, enTitle: string, nowMs = Date.now()) {
+  const day = (t: number) => new Date(t + 330 * 60000).toISOString().slice(0, 10);
+  const today = day(nowMs), t = String(enTitle || d?.title || '');
+  if (day(+new Date(d?.published)) < today && /\b(today|tonight|tomorrow)\b/i.test(t)) return true;
+  const up = d?.upcoming?.date;
+  if (up && (up instanceof Date ? up.toISOString() : String(up)).slice(0, 10) < today) return true;   // its event day has passed
+  if (nowMs - +new Date(d?.published) > 36 * 3600000 && /\\b(?:to (?:spend|visit|open|launch|address|meet|hold|attend|inaugurate|begin|start|host|release|announce|unveil|flag|chair|travel|vote|hear|play|face|take|tour|lay|present|table|decide|rule)|set to|ahead of(?! schedule)|on the eve)\\b/i.test(t)) return true;   // a look-ahead headline, a day and a half on
+  return false;
+}
 /** A headline that pins a figure to a clock time ("30.5% by 1 pm") more than 2 hours ago is stale on the front page. */
 function staleClock(d: any) {
   const m = String(d?.title ?? '').match(/\b(?:by|at|till|until|as of)\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b/i);
@@ -510,7 +521,11 @@ export async function homeModel(lang: Lang) {
   });
 
   // ---- The week ahead (editor's diary in homepage.json)
-  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: has(x.link) ? urlOf(get(x.link).data) : null }));
+  const ENC = (await content()).en;
+  // a diary line links to a story only when that story is about the same thing and is not itself out of date (owner, November 12)
+  const weekLinkOk = (x: any) => { const d: any = (ENC.all.get(x.link) as any)?.data; if (!d || expiredOnHome(d, String(d.title ?? ''))) return false;
+    const tw = new Set(String(x.text?.en ?? '').toLowerCase().match(/[a-z]{5,}/g) ?? []); return String(x.link).split('-').some((w: string) => w.length >= 5 && tw.has(w)); };
+  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: has(x.link) && weekLinkOk(x) ? urlOf(get(x.link).data) : null }));
 
   // ---- 2026 front page (Gandhi News): headline grid, live band, India block, markets band, other-language links
   const used = new Set<string>([lead.id, ...lead.below.map((x: any) => x.id)]);
@@ -632,20 +647,23 @@ export async function homeModel(lang: Lang) {
 
   // ---- Dense front page (owner, November 7: the Indian Express style). Every block fills itself from the newest stories,
   // never shows one story twice, never news older than 48 hours, never a stale clock figure.
-  const ENC = (await content()).en;
   const enLabel = (id: string) => String((ENC.all.get(id) as any)?.data.format_label ?? '');
   const enTitle = (id: string) => String((ENC.all.get(id) as any)?.data.title ?? '');
   const dense = (() => {
     const seen = new Set<string>([lead.id]);
     const age = (id: string) => (Date.now() - +new Date((c.all.get(id) as any)?.data.published)) / 3.6e6;
     const real = (id: string) => hasPic(id) && !(PHOTO_MAP as any)[id]?.graphic;
+    const sameSubj = (a: string, b: string) => { const wb = new Set(words(b)); return words(a).filter((w) => wb.has(w)).length >= 2; };
     const pool = (secs: string[] | null, h = 168) => [...c.articles]   // sections: newest first, up to 7 days (owner, November 9)
-      .filter((x: any) => x.data.type === 'news' && (!secs || secs.includes(x.data.section)) && age(x.data.id) <= h && hasPic(x.data.id) && !staleClock(x.data))
+      .filter((x: any) => x.data.type === 'news' && (!secs || secs.includes(x.data.section)) && age(x.data.id) <= h && hasPic(x.data.id) && !staleClock(x.data) && !expiredOnHome(x.data, enTitle(x.data.id)))
       .sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).map((x: any) => x.data.id as string);
     const take = (ids: string[], n: number, photoFirst = false) => {
-      const ok = [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id) && age(id) <= 168);
+      const ok = [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id) && age(id) <= 168 && !expiredOnHome(get(id).data, enTitle(id)));
       if (photoFirst) { const i = ok.findIndex(real); if (i > 0) ok.unshift(ok.splice(i, 1)[0]); }
-      const out = ok.slice(0, n); out.forEach((id) => seen.add(id));
+      // one story per subject in a band (owner, November 12): the newest stays, so a preview never sits beside its result
+      const out: string[] = [];
+      for (const id of ok) { if (out.length >= n) break; if (!out.some((o) => sameSubj(o, id))) out.push(id); }
+      out.forEach((id) => seen.add(id));
       return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
     };
     const hl = headlines.map((x: any) => x.id);
@@ -670,15 +688,18 @@ export async function homeModel(lang: Lang) {
     // the Politics band always fills both columns (owner, November 9): top up from Parliament, then States, then Policy
     if (politics.length < 7) politics.push(...take(pool(['parliament', 'states', 'policy']), 7 - politics.length));
     // state by state: every state with fresh news, the busiest first, up to three headlines each
-    const stIds = pool(['states']).filter((id) => !seen.has(id));
+    const stIds = pool(['states']).filter((id) => !seen.has(id)).filter((id, i, all) => !all.slice(0, i).some((o) => sameSubj(o, id)));   // one story per subject across the whole grid
     const byState = new Map<string, string[]>();
     for (const id of stIds) { const k = labelParts(get(id).data.format_label).slice(-1)[0] ?? ''; const ek = enLabel(id).split('/').pop()!.trim(); if (!k || /Weather|Aviation|security/i.test(ek)) continue; if (!byState.has(k)) byState.set(k, []); byState.get(k)!.push(id); }
+    for (const [k, ids] of byState) { const f = ids.filter((id) => age(id) <= 96); if (!f.length || age(f[0]) > 48) byState.delete(k); else byState.set(k, f); }   // a state shows only with news from the last two days, and nothing older than four (owner, November 12)
     const stateGrid = [...byState.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 8)
       .map(([name, ids]) => ({ name, shape: stateBox(enLabel(ids[0]).split('/').pop()!.trim()), items: take(ids, 3), href: `${lang === 'hi' ? '/hi' : ''}/states/` })).filter((g) => g.items.length > 0);
     // world by region, from the English label
     const REG: [string, RegExp, string][] = [['me', /Middle East|Iran|Israel|Gaza|Saudi|Qatar|Yemen|Iraq|Syria|Lebanon|Gulf/, lang === 'hi' ? 'पश्चिम एशिया' : 'Middle East'], ['sa', /Pakistan|Bangladesh|Nepal|Sri Lanka|Afghanistan|Bhutan|Maldives|Myanmar|South Asia/, lang === 'hi' ? 'दक्षिण एशिया' : 'South Asia'], ['am', /United States|US|America|Canada|Brazil|Mexico/, lang === 'hi' ? 'अमेरिका' : 'Americas'], ['eu', /Europe|UK|Britain|Russia|Ukraine|France|Germany/, lang === 'hi' ? 'यूरोप' : 'Europe'], ['ap', /China|Japan|Korea|Australia|New Zealand|Asia|Pacific|Taiwan|Philippines|Indonesia/, lang === 'hi' ? 'एशिया-प्रशांत' : 'Asia-Pacific']];
     const wIds = pool(['world']).filter((id) => !seen.has(id));
-    const regions = REG.map(([key, rx, name]) => ({ key, name, items: take(wIds.filter((id) => rx.test(enLabel(id)) || rx.test(enTitle(id))), 3) })).filter((r) => r.items.length > 0);
+    const regOf = (id: string) => (REG.find(([, rx]) => rx.test(enLabel(id).split('/').pop() ?? '')) ?? REG.find(([, rx]) => rx.test(enTitle(id))) ?? [null])[0];
+    const regIds = (key: string) => wIds.filter((id) => regOf(id) === key);
+    const regions = REG.filter(([key]) => regIds(key).length >= 2).map(([key, , name]) => ({ key, name, items: take(regIds(key), 3) })).filter((r) => r.items.length > 0);
     const worldRest = take(wIds, 3);
     if (worldRest.length) regions.push({ key: 'ot', name: lang === 'hi' ? 'और दुनिया' : 'Elsewhere', items: worldRest });
     const states: any[] = [];

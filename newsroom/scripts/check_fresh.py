@@ -165,6 +165,9 @@ if news and 8 <= now.hour:
     if newest > 3: soft.append(('no new story in over 3 hours (the site must visibly change every hour)', '', newest))
 
 for w in warn: print('WARNING: ' + w)
+# the rotation job compares this count before and after its refresh: it pushes any homepage that is no worse than the one live
+try: open(os.environ.get('GN_WORK', '/home/claude/gn-work/') + 'hard.txt', 'w').write(str(len(bad)))
+except OSError: pass
 if bad:
     print('HOMEPAGE PROBLEMS (fix before publishing):')
     for n, i, a in bad + soft: print(f'  {n}: {i}' + (f' ({a:.1f})' if a else ''))

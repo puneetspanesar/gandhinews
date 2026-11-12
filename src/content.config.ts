@@ -26,6 +26,7 @@ const base = z.object({
   updated: date.optional(),
   location: optStr,
   keyPoints: z.array(z.string()).optional(),
+  upcoming: z.object({ date: z.union([date, z.string()]) }).passthrough().optional().nullable(),
   shortAnswer: optStr,
   factcheck: z
     .object({

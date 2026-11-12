@@ -387,6 +387,26 @@ def check_home(root, dist, S, M):
         imgs = [re.sub(r'-(640|1280)\.jpg$', '', m) for m in re.findall(r'<img\b[^>]*\bsrc\s*=\s*["\']([^"\']+)', head + live, re.I)]
         for src, n in Counter(imgs).items():
             if n > 1: fail(G, L, f'the same picture appears {n} times at the top: {src}')
+        # Every band, not only the top (owner, November 12): no preview after its day, no "today" headline from an earlier day,
+        # no two stories on one subject inside a band. Titles are read in English, whatever the page language.
+        en = S['en']; today = str(NOW.date())
+        def pday(f):
+            try: return str(to_ist(str(f.get('published'))).date())
+            except Exception: return today
+        for i in page_ids(htm, lang):
+            f = en.get(i) or {}; t = str(f.get('title') or '')
+            if f.get('type') != 'news': continue
+            if pday(f) < today and re.search(r'\b(today|tonight|tomorrow)\b', t, re.I):
+                fail(G, L, f'"{i}" says today/tonight/tomorrow in its headline but was published on {pday(f)}')
+            up = str((f.get('upcoming') or {}).get('date') or '')[:10] if isinstance(f.get('upcoming'), dict) else ''
+            if up and up < today: fail(G, L, f'"{i}" points to an event on {up}, which has passed')
+            a = age_h(f)
+            if a is not None and a > 36 and re.search(r'\b(?:to (?:spend|visit|open|launch|address|meet|hold|attend|inaugurate|begin|start|host|release|announce|unveil|flag|chair|travel|vote|hear|play|face|take|tour|lay|present|table|decide|rule)|set to|ahead of(?! schedule)|on the eve)\b', t, re.I): fail(G, L, f'"{i}" has a look-ahead headline and is {round(a)} hours old (limit 36)')
+        for blk in re.findall(r'<section\b.*?</section>', htm, re.S):
+            b = [i for i in page_ids(blk, lang) if (en.get(i) or {}).get('type') == 'news']
+            for x in range(len(b)):
+                for y in range(x + 1, len(b)):
+                    if len(GR.words(b[x]) & GR.words(b[y])) >= 3: fail(G, L, f'"{b[x]}" and "{b[y]}" are in the same band and on the same subject')
         # Grey camera boxes anywhere on the homepage
         n_ph = len(re.findall(r'class="ph[ "]', htm))
         if n_ph: fail(G, L, f'{n_ph} grey camera placeholder(s) on the homepage')
