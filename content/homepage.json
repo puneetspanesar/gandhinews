@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
+    "id": "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
     "overlay": {
       "kicker": {
-        "en": "Politics / Election Commission",
-        "hi": "राजनीति / चुनाव आयोग"
+        "en": "Policy / Urban Affairs",
+        "hi": "नीति / शहरी मामले"
       },
       "value": {
-        "en": "Keralam probe into CEC goes on",
-        "hi": "सीईसी के खिलाफ केरलम की जांच जारी"
+        "en": "Top three big cities named",
+        "hi": "बड़े शहरों के शीर्ष तीन घोषित"
       },
       "text": {
         "en": "",
@@ -18,103 +18,103 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
+      "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal"
     ],
     "live": {
       "title": {
-        "en": "Election Commission",
-        "hi": "चुनाव आयोग"
+        "en": "Urban Affairs",
+        "hi": "शहरी मामले"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
+        "link": "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Indian seafarer hurt as projectile hits supertanker in Persian Gulf; three more Indians safe on Saudi tanker",
+          "hi": "फ़ारस की खाड़ी में सुपरटैंकर पर प्रोजेक्टाइल गिरा, एक भारतीय नाविक घायल; सऊदी टैंकर पर तीनों भारतीय सुरक्षित"
+        }
+      },
+      {
+        "link": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Karnataka moves Supreme Court against High Court order striking down SC/ST quota hike",
+          "hi": "एससी/एसटी कोटा बढ़ोतरी रद्द करने के हाईकोर्ट के फैसले के खिलाफ कर्नाटक सुप्रीम कोर्ट पहुंचा"
+        }
+      },
+      {
+        "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Pakistan need early wickets in Rawalpindi but afternoon rain is forecast on day four",
-          "hi": "रावलपिंडी में पाकिस्तान को जल्द विकेट चाहिए, पर चौथे दिन दोपहर में बारिश का अनुमान"
+          "en": "Suryakumar to captain Mumbai and Sooryavanshi, 15, Bihar as the Syed Mushtaq Ali Trophy opens Saturday",
+          "hi": "सूर्यकुमार मुंबई और 15 साल के सूर्यवंशी बिहार के कप्तान, सैयद मुश्ताक अली ट्रॉफी शनिवार से"
         }
       },
       {
-        "link": "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+        "link": "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Books:",
+          "hi": "किताबें:"
         },
         "text": {
-          "en": "RBI folds money transfer rules into one set of directions, keeps ₹50,000 cash NEFT limit",
-          "hi": "आरबीआई ने घरेलू धन अंतरण के नियम एक निर्देश में समेटे, नकद NEFT की ₹50,000 सीमा बरकरार"
+          "en": "M John Harrison, 81, wins the Booker Prize for The End of Everything, the oldest winner yet",
+          "hi": "81 साल के एम जॉन हैरिसन को 'द एंड ऑफ एवरीथिंग' के लिए बुकर पुरस्कार, अब तक के सबसे उम्रदराज विजेता"
         }
       },
       {
-        "link": "kulgam-crpf-naka-attack-three-injured-nov-11",
+        "link": "sangrur-prtc-bus-flyover-crash-three-killed",
         "lead": {
-          "en": "Jammu and Kashmir:",
-          "hi": "जम्मू और कश्मीर:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "Three CRPF personnel injured as motorcycle-borne gunmen fire at Kulgam checkpost",
-          "hi": "कुलगाम में मोटरसाइकिल सवार हमलावरों की फायरिंग, सीआरपीएफ के तीन जवान घायल"
+          "en": "Three killed, more than 20 hurt as PRTC bus hits flyover wall in Sangrur",
+          "hi": "संगरूर में पीआरटीसी बस फ्लाईओवर की दीवार से टकराई, तीन की मौत, 20 से ज्यादा घायल"
         }
       },
       {
-        "link": "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
+        "link": "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Reservation:",
+          "hi": "आरक्षण:"
         },
         "text": {
-          "en": "De Silva and Kusal Mendis add 249 unbeaten as Sri Lanka reach 404 for 4 in Rawalpindi",
-          "hi": "डी सिल्वा और कुसल मेंडिस की 249 रन की नाबाद साझेदारी, रावलपिंडी में श्रीलंका 404/4"
+          "en": "Parameshwara says the Constitution ties reservation to population. For jobs and admissions, the court record says otherwise",
+          "hi": "परमेश्वर: संविधान आरक्षण को आबादी से जोड़ता है। नौकरी और दाखिले के लिए अदालती रिकॉर्ड कुछ और कहता है"
         }
       },
       {
-        "link": "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
+        "link": "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
         "lead": {
-          "en": "Haryana:",
-          "hi": "हरियाणा:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Haryana to set up special SC/ST courts in five districts, wants every chargesheet in 60 days",
-          "hi": "हरियाणा के पांच जिलों में बनेंगी एससी/एसटी विशेष अदालतें, 60 दिन में चालान का लक्ष्य"
+          "en": "Evening courts are worth a try. The pilot needs published targets and a clear legal basis",
+          "hi": "शाम की अदालतें आज़माने लायक हैं। पायलट के लिए लक्ष्य सार्वजनिक हों और कानूनी आधार साफ़ हो"
         }
       },
       {
-        "link": "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
+        "link": "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
         "lead": {
-          "en": "Haj:",
-          "hi": "हज:"
+          "en": "Cybercrime:",
+          "hi": "साइबर अपराध:"
         },
         "text": {
-          "en": "India keeps its Haj quota at 1,75,025 for 2027 after Rijiju signs pact in Jeddah",
-          "hi": "रिजिजू ने जेद्दा में किया समझौता, 2027 के लिए भारत का हज कोटा 1,75,025 पर बरकरार"
-        }
-      },
-      {
-        "link": "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Nadda tells first BIMSTEC health ministers' meeting India will host a traditional medicine centre in Jamnagar",
-          "hi": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में नड्डा: जामनगर में बनेगा पारंपरिक चिकित्सा केंद्र"
-        }
-      },
-      {
-        "link": "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Zelenskyy says Russia's team claimed half of Ukrainian-held Donbas as Abu Dhabi talks resume for day two",
-          "hi": "ज़ेलेंस्की का दावा: रूसी टीम ने यूक्रेन के कब्ज़े वाले आधे डोनबास पर नियंत्रण जताया, अबू धाबी में दूसरे दिन वार्ता फिर शुरू"
+          "en": "Digital arrest scams explained: how the fraud works and what the Supreme Court wants banks and WhatsApp to do",
+          "hi": "डिजिटल अरेस्ट ठगी क्या है, कैसे होती है, और सुप्रीम कोर्ट ने बैंकों और व्हाट्सऐप से क्या कहा"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+      "id": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
       "also": []
     },
     "list": [
-      "kulgam-crpf-naka-attack-three-injured-nov-11",
-      "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
-      "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-      "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-      "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+      "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+      "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+      "sangrur-prtc-bus-flyover-crash-three-killed",
+      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+      "evening-courts-pilot-needs-published-targets-and-a-legal-basis"
     ],
     "also": [
-      "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-      "kolkata-sairang-express-derails-digaru-assam-no-injuries"
+      "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+      "extradition-explained-hasina-india-bangladesh-treaty"
     ]
   },
   "startHere": [
@@ -369,8 +369,8 @@
       },
       "list": [
         "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "eci-extends-poll-code-curbs-retired-officials-five-states"
+        "eci-extends-poll-code-curbs-retired-officials-five-states",
+        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi"
       ],
       "lead": "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
     },
@@ -481,10 +481,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
-        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
+        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
+        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
       },
-      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
+      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
     },
     {
       "icon": "calendar-blank",
@@ -493,10 +493,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi, with rain forecast in the afternoon",
-        "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन, दोपहर में बारिश का अनुमान"
+        "en": "Witkoff and Kushner brief Putin in Moscow; prisoner-swap numbers to be agreed",
+        "hi": "विटकॉफ और कुशनर मॉस्को में पुतिन को जानकारी देंगे; कैदी अदला-बदली की संख्या तय होनी है"
       },
-      "link": "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
+      "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     },
     {
       "icon": "chart-line",
@@ -522,20 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T16:58:22+05:30",
-      "ids": [
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two",
-        "sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three",
-        "abu-dhabi-russia-ukraine-us-talks-first-since-february-day-one",
-        "eci-extends-poll-code-curbs-retired-officials-five-states",
-        "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi",
-        "pmk-functionary-shot-dead-vellore-gudiyatham",
-        "india-a-nz-a-lincoln-third-test-draw-series-level",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
-      ]
-    },
     {
       "at": "2026-11-11T18:47:10+05:30",
       "ids": [
@@ -635,6 +621,20 @@
         "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
         "zelenskyy-russia-claims-half-ukrainian-held-donbas-abu-dhabi-day-two"
+      ]
+    },
+    {
+      "at": "2026-11-12T06:54:48+05:30",
+      "ids": [
+        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
+        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
+        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
+        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
+        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
+        "sangrur-prtc-bus-flyover-crash-three-killed",
+        "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+        "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
+        "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
       ]
     }
   ],
