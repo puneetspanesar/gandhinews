@@ -74,7 +74,7 @@ Union Minister Ashwini Vaishnaw briefed the media on the decisions. The governme
 
 ## What the subsidy covers
 
-The revised rates apply from **October 1, 2026 to March 31, 2027**, which covers the rabi sowing season, when wheat, pulses and oilseeds are the main crops. The Cabinet note cited recent trends in the international prices of urea, di-ammonium phosphate (DAP), muriate of potash and sulphur. The nutrient-based subsidy scheme has been in place since April 1, 2010 and covers 28 grades of P&K fertilisers, including DAP and the NPKS complexes.
+The revised rates apply from **October 1, 2026, to March 31, 2027**, which covers the rabi sowing season, when wheat, pulses and oilseeds are the main crops. The Cabinet note cited recent trends in the international prices of urea, di-ammonium phosphate (DAP), muriate of potash and sulphur. The nutrient-based subsidy scheme has been in place since April 1, 2010, and covers 28 grades of P&K fertilisers, including DAP and the NPKS complexes.
 
 ```facts
 {"title":"Subsidy per kg of nutrient, rabi 2026-27","items":[{"value":"₹94.21","label":"nitrogen"},{"value":"₹66.11","label":"phosphorus"},{"value":"₹2.38","label":"potash"},{"value":"₹10.42","label":"sulphur"}]}

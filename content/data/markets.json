@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T10:09:00+05:30",
+  "as_of": "2026-11-12T12:17:00+05:30",
   "status": "open",
   "session_date": "2026-11-12",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82013.58,
-      "change": 166.44,
-      "pct": 0.2,
+      "value": 81829.99,
+      "change": -49.41,
+      "pct": -0.06,
       "history": [
         {
           "date": "2026-09-30",
@@ -117,15 +117,15 @@
           "close": 81879.4
         }
       ],
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012"
+      "source": "https://www.muthootsecurities.com/News/Detailed-News/Sensex-jumps-119-pts-metal-shares-advance/1658427"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25316.55,
-      "change": 55.65,
-      "pct": 0.22,
+      "value": 25253.0,
+      "change": -2.05,
+      "pct": -0.01,
       "history": [
         {
           "date": "2026-09-30",
@@ -236,7 +236,7 @@
           "close": 25255.05
         }
       ],
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012"
+      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-12-november-gift-nifty-signals-green-opening-nvidia-ai-stocks-and-us-inflation-in-focus-12802422"
     },
     {
       "id": "nifty-bank",
@@ -293,12 +293,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 93.77,
-      "change": 0.06,
-      "pct": 0.06,
+      "value": 93.73,
+      "change": 0.02,
+      "pct": 0.02,
       "decimals": 2,
       "unit": "",
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012"
+      "source": "https://tradebrains.in/indian-markets/sensex-nifty-50-stock-market-live-updates-today-12-november-gift-nifty-signals-green-opening-nvidia-ai-stocks-and-us-inflation-in-focus-12802422"
     },
     {
       "id": "brent",
@@ -410,7 +410,7 @@
     "11 Nov 20:20 IST (hourly 20): Nov 11 provisional cash flows FII +12,563.33 crore, DII -8,434.53 crore from the Tapetide November flows table (updated Nov 11) read this run. Movers and sectors for Nov 11 not found in a dated source read this run; earlier values kept.",
     "11 Nov 22:25 IST (hourly 22): no dated November 11, 2026 movers or sector figures found in a source read this run (search returned 2025 pages); closing values, flows and earlier movers kept.",
     "12 Nov 10:20 IST (hourly 10): Sensex 81,642.29 (-237.11, -0.29%) and Nifty 50 25,180.15 (-74.90, -0.30%) at about 9:15 am from Kotak Neo market update (posted 9:49 am) read this run. Nifty Bank, Midcap, VIX, rates, movers, sectors keep earlier values (not on the page).",
-    "12 Nov hourly-12: Sensex 82,013.58 (+166.44) and Nifty 25,316.55 (+55.65) in early trade, rupee 93.77, Brent 91.75 (-1.12%), per a 10:09 am IST wire report; other indices, movers and sectors kept."
+    "12 Nov hourly-12: Sensex 81,829.99 (-49.41) per a 12:17 pm IST ticker; Nifty 25,253 (-0.01%) and rupee about 93.73 per a live blog updated 12:21 pm IST; Brent 91.75 (-1.12%) per a 10:09 am report; other indices, movers and sectors kept."
   ],
   "holidays": [
     "2026-11-10"

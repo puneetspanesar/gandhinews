@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+    "id": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Policy / Union Cabinet",
+        "hi": "नीति / केंद्रीय मंत्रिमंडल"
       },
       "value": {
-        "en": "₹12.14 lakh crore of deals lined up",
-        "hi": "₹12.14 लाख करोड़ के सौदे तैयार"
+        "en": "Rabi fertiliser subsidy up 64%",
+        "hi": "रबी में उर्वरक सब्सिडी 64% ज्यादा"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
+      "farmer-id-explained-digital-agriculture-mission",
+      "kejriwal-e20-trump-pressure-ethanol-claim"
+    ],
     "relatedBeside": [
-      "us-army-soldier-arrested-england-russia-national-security-act"
+      "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Union Cabinet",
+        "hi": "केंद्रीय मंत्रिमंडल"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "World's fossil CO2 emissions set to dip 0.4% in 2026, but India's will rise 4.4%",
+          "hi": "2026 में दुनिया का जीवाश्म CO2 उत्सर्जन 0.4% घटेगा, पर भारत का 4.4% बढ़ेगा"
+        }
+      },
+      {
+        "link": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+        "lead": {
+          "en": "Jammu and Kashmir:",
+          "hi": "जम्मू और कश्मीर:"
+        },
+        "text": {
+          "en": "Two missing Special Police Officers found shot dead in Kishtwar, service rifles gone",
+          "hi": "किश्तवाड़ में लापता दो विशेष पुलिस अधिकारी मृत मिले, सर्विस राइफलें गायब"
+        }
+      },
+      {
+        "link": "india-bans-export-lithium-ion-battery-black-mass",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "Centre bans export of lithium-ion battery black mass with immediate effect",
+          "hi": "केंद्र ने लिथियम-आयन बैटरी ब्लैक मास के निर्यात पर तत्काल रोक लगाई"
+        }
+      },
       {
         "link": "us-army-soldier-arrested-england-russia-national-security-act",
         "lead": {
@@ -52,6 +89,17 @@
         }
       },
       {
+        "link": "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi's air slips back to 319 on Thursday morning, with IIT Delhi at a severe 413",
+          "hi": "गुरुवार सुबह दिल्ली की हवा फिर बिगड़ी, एक्यूआई 319, आईआईटी दिल्ली में 413 के साथ गंभीर"
+        }
+      },
+      {
         "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
         "lead": {
           "en": "BJP vs Congress:",
@@ -71,50 +119,6 @@
         "text": {
           "en": "RBI meets bank chiefs today on new loan-loss rules as SBI puts the hit at ₹19,500 crore",
           "hi": "आरबीआई आज बैंक प्रमुखों से मिलेगा, नए ऋण-हानि नियमों पर एसबीआई का अनुमान ₹19,500 करोड़ का झटका"
-        }
-      },
-      {
-        "link": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "lead": {
-          "en": "Astronomy:",
-          "hi": "खगोल विज्ञान:"
-        },
-        "text": {
-          "en": "Mysuru's tilted LED-dome planetarium, built over four years, to open on November 13",
-          "hi": "चार साल में बना मैसूरु का तिरछा एलईडी-डोम प्लैनेटेरियम 13 नवंबर को खुलेगा"
-        }
-      },
-      {
-        "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Iyer takes charge at Bay Oval as India go for a series-clinching win against a depleted New Zealand",
-          "hi": "बे ओवल में अय्यर की कप्तानी, कमज़ोर न्यूज़ीलैंड के खिलाफ सीरीज़ पक्की करने उतरेगा भारत"
-        }
-      },
-      {
-        "link": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi to open Bengaluru Pink Line and launch Rs 15,600 crore of projects on Friday, then visit Ambaji temple",
-          "hi": "मोदी शुक्रवार को बेंगलुरु की पिंक लाइन खोलेंगे, ₹15,600 करोड़ की परियोजनाएं शुरू करेंगे, फिर अंबाजी मंदिर जाएंगे"
-        }
-      },
-      {
-        "link": "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Centre seeks Governor's report on Tamil Nadu law and order after Diwali killings",
-          "hi": "दिवाली की हत्याओं के बाद केंद्र ने तमिलनाडु की कानून-व्यवस्था पर राज्यपाल से रिपोर्ट मांगी"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+      "id": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
       "also": []
     },
     "list": [
-      "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-      "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-      "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-      "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-      "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
+      "india-bans-export-lithium-ion-battery-black-mass",
+      "us-army-soldier-arrested-england-russia-national-security-act",
+      "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+      "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+      "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     ],
     "also": [
-      "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-      "india-cuts-visa-categories-13-to-9-form-fields-mha"
+      "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
+      "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview"
     ]
   },
   "startHere": [
@@ -271,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "rajnath-singh-low-morale-diwali-soldiers-video-claim",
       "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
-      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
-      "amit-shah-3-crore-infiltrators-sir-absent-voters-claim"
+      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim"
     ]
   },
   "explained": [
@@ -354,11 +358,11 @@
     }
   ],
   "opinion": [
+    "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
     "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
     "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur",
     "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
-    "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-    "gidipabali-search-ends-six-missing-families-need-closure-and-the-dam-log"
+    "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
   ],
   "sections": [
     {
@@ -376,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
+      "lead": "india-bans-export-lithium-ion-battery-black-mass",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,27 +391,27 @@
         ]
       },
       "list": [
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
-        "india-eu-strategic-partnership-review-fta-signing-brussels-december",
-        "rbi-4-day-repo-50000-crore-liquidity-flip-november-9"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
+        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks"
       ]
     },
     {
       "section": "states",
-      "lead": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+      "lead": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
       "list": [
+        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
         "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-        "kulgam-crpf-naka-attack-three-injured-nov-11"
+        "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
       ]
     },
     {
       "section": "policy",
-      "lead": "india-cuts-visa-categories-13-to-9-form-fields-mha",
+      "lead": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
       "list": [
+        "india-cuts-visa-categories-13-to-9-form-fields-mha",
         "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
-        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "sc-digital-arrest-whatsapp-intermediaries-measures-november-23"
+        "india-saudi-haj-2027-quota-175025-rijiju-jeddah"
       ]
     },
     {
@@ -431,11 +435,11 @@
     },
     {
       "section": "science",
-      "lead": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+      "lead": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
       "list": [
+        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
-        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
       ]
     },
     {
@@ -523,23 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-11T22:33:17+05:30",
-      "ids": [
-        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
-        "two-child-norm-explained-javed-ruling-larger-bench",
-        "oral-mentioning-explained-supreme-court-senior-counsel-bar",
-        "who-owns-trinamool-election-commission-symbol-dispute-explained",
-        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
-        "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three",
-        "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
-        "sangrur-prtc-bus-flyover-crash-three-killed",
-        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
-      ]
-    },
     {
       "at": "2026-11-11T23:10:40+05:30",
       "ids": [
@@ -639,6 +626,23 @@
         "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
         "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
         "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
+      ]
+    },
+    {
+      "at": "2026-11-12T12:23:00+05:30",
+      "ids": [
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
+        "farmer-id-explained-digital-agriculture-mission",
+        "kejriwal-e20-trump-pressure-ethanol-claim",
+        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+        "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+        "india-bans-export-lithium-ion-battery-black-mass",
+        "us-army-soldier-arrested-england-russia-national-security-act",
+        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+        "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     }
   ],

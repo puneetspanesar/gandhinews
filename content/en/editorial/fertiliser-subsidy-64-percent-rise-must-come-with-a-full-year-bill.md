@@ -58,14 +58,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Facts from the November 11 Cabinet decision as carried by Business Standard, Tribune and Pioneer (rabi 2026-27 ₹62,370.02 crore, rabi 2025-26 ₹37,952.29 crore, rates October 1, 2026 to March 31, 2027, DAP ₹1,350 per 50-kg bag, stocks 23.5 million tonnes against an estimated rabi need of 35 million per Vaishnaw). The PIB release was not found in search results, so no primary page was opened."
+    - "Editorial view of the desk. Facts from the November 11 Cabinet decision as carried by Business Standard, Tribune and Pioneer (rabi 2026-27 ₹62,370.02 crore, rabi 2025-26 ₹37,952.29 crore, rates October 1, 2026, to March 31, 2027, DAP ₹1,350 per 50-kg bag, stocks 23.5 million tonnes against an estimated rabi need of 35 million per Vaishnaw). The PIB release was not found in search results, so no primary page was opened."
     - "Kharif 2026 ₹41,534 crore, kharif 2025 ₹37,216 crore and the ₹1,70,799 crore urea plus NBS Budget figure from the April 8 reports (Free Press Journal; Tribune and Business Standard headlines for kharif 2025). The sums 41,534 + 62,370 = 1,03,904 and 1,03,904 / 1,70,799 = about 61% are the desk's arithmetic."
     - "Per-kg nitrogen rates: ₹94.21 rabi 2026-27 (Tribune, Pioneer); ₹47.32 kharif 2026 and ₹43.02 rabi 2025-26 (Free Press Journal). Copy says nitrogen's rate roughly doubled."
     - "Pioneer says about ₹51,500 crore of the Budget remains for the second half and that NBS was budgeted near ₹54,000 crore; single source, not used in copy."
     - "Recommendations are the desk's own."
 ---
 
-The Union Cabinet on Wednesday approved **₹62,370 crore** to subsidise phosphatic and potassic (P&K) fertilisers for the rabi season that runs from October 1, 2026 to March 31, 2027. That is ₹24,418 crore, or 64%, more than the ₹37,952 crore set aside for last year's rabi. Farmers are not asked to pay more: the retail price of DAP stays at ₹1,350 for a 50-kg bag.
+The Union Cabinet on Wednesday approved **₹62,370 crore** to subsidise phosphatic and potassic (P&K) fertilisers for the rabi season that runs from October 1, 2026, to March 31, 2027. That is ₹24,418 crore, or 64%, more than the ₹37,952 crore set aside for last year's rabi. Farmers are not asked to pay more: the retail price of DAP stays at ₹1,350 for a 50-kg bag.
 
 Protecting that price is right. Fertiliser is bought just before sowing, and a sudden jump in what a farmer pays at the shop cannot be reversed once wheat or mustard seed is in the ground. What reassures a farmer is the price on the bag, and the Cabinet has kept it where it was.
 
