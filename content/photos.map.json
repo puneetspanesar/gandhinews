@@ -48235,7 +48235,20 @@
   "licence": "GODL-India",
   "alt": "Bhagwant Mann (file photo)",
   "alt_hi": "भगवंत मान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg",
+  "treated": {
+   "src": "/photos/t-aap-second-list-31-punjab-mlas-dropped-two-mps-1280.jpg",
+   "src800": "/photos/t-aap-second-list-31-punjab-mlas-dropped-two-mps-640.jpg",
+   "cutout": false,
+   "with": [
+    "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+    "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions--p1",
+    "kapil-mishra-fir-demand-punjab-diwali-stubble-fires"
+   ],
+   "kind": "photo",
+   "subj": "ffff7e661e180000",
+   "credit": "Photos: Indian Embassy in Seoul, South Korea / Wikimedia Commons; CIAT / Wikimedia Commons"
+  }
  },
  "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral": {
   "id": "o-rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
@@ -48248,7 +48261,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Marco Rubio (file photo)",
   "alt_hi": "मार्को रुबियो (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_by_Gage_Skidmore_10.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_by_Gage_Skidmore_10.jpg",
+  "treated": {
+   "src": "/photos/t-rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilater-1280.jpg",
+   "src800": "/photos/t-rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilater-640.jpg",
+   "cutout": true,
+   "with": [
+    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "yelets-energia-plant-missile-strike-zelensky-weekly-tally",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms"
+   ],
+   "kind": "photo",
+   "subj": "38f8dcdeccde8703",
+   "credit": "Photos: Gage Skidmore / Wikimedia Commons; President Of Ukraine / Wikimedia Commons; Alaexis / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons"
+  }
  },
  "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited": {
   "id": "r-sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
@@ -48260,7 +48286,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The National Stock Exchange of India, Mumbai (file photo)",
   "alt_hi": "मुंबई में नेशनल स्टॉक एक्सचेंज (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG",
+  "treated": {
+   "src": "/photos/t-sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awa-1280.jpg",
+   "src800": "/photos/t-sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awa-640.jpg",
+   "cutout": false,
+   "with": [
+    "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+    "retail-inflation-october-2026-6-09-two-year-high",
+    "foreign-investors-return-explained-fii-dii-sensex-rally"
+   ],
+   "kind": "photo",
+   "subj": "fffce2e282820103",
+   "credit": "Photos: Jnpet / Wikimedia Commons; BSEINDIA / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons"
+  }
  },
  "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser": {
   "id": "o-modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
@@ -48273,7 +48312,19 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-bharat-agriculture-conference-natural-farming-mother-ea-1280.jpg",
+   "src800": "/photos/t-modi-bharat-agriculture-conference-natural-farming-mother-ea-640.jpg",
+   "cutout": true,
+   "with": [
+    "punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa",
+    "rising-co2-changes-wheat-proteins-baking-quality-study"
+   ],
+   "kind": "photo",
+   "subj": "ffe7c3c3e7e7d181",
+   "credit": "Photos: Government of India / Wikimedia Commons; CIAT / Wikimedia Commons; David Wright / Wikimedia Commons"
+  }
  },
  "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14": {
   "id": "i-india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
