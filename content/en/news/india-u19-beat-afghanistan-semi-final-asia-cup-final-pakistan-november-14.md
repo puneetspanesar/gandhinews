@@ -74,8 +74,42 @@ verification:
     - "Sehwag's balls faced is 57 on the scorecards and 56 in one report; 57 used. Raichandani's 93 off 90 is from CREX and two reports (an interim scorecard showed 88 off 81 mid-chase)."
     - "Player of the match (Raichandani) appears in one source only, so it is left out. Final date November 14, 10:30 am IST, Al Amerat, from CricInformer and The Sports Encounter; one older report said Sunday, which was a 2025 article. No player or coach quotes were found, so none are used."
     - "No free photo of Raichandani, Sehwag or the team in the library or quick_photo; picture finder needed (Lakshya Raichandani, Aaryavir Sehwag, India U19 team)."
----India's under-19 side beat unbeaten Afghanistan by **eight wickets with 79 balls to spare** in the Asia Cup semi-final at Al Amerat, Oman, on Thursday, and will play Pakistan in the final on November 14. Chasing 228, India reached 230 for 2 in 36.5 overs, led by captain Lakshya Raichandani's 93.Afghanistan had won all their Group B matches and chose to bat after winning the toss. India had finished second in Group A, behind Pakistan, who beat them by three wickets on November 8.## How Afghanistan built 227Afghanistan were 143 for 4 after 35.6 overs, with **Noman Salarzai (51 off 78 balls)** and Shah Faisal Rahimi (51 off 72) the main scorers after an opening stand that ended at 29. Subhan Ali made 31 before he was bowled by Yashbardhan Singh Chauhan.India's bowlers then took three wickets in quick succession. Aryan Savsani dismissed Amir Hamza for a first-ball duck and Tahir Sarwary for 1 in the same stretch, and Afghanistan went from 143 for 4 to **146 for 6**. Ishan Sood, who finished with 3 for 43 in nine overs, took the wickets of Abidullah Nadarjan, Rahimi and Mohammad Ali.Captain Sohail Khan kept Afghanistan moving with an unbeaten 36 off 44 balls and the innings closed at 227 for 8. Savsani took 2 for 29, and Kavya Patel, Chauhan and Arjun Rajput took one each.## The chaseIndia's openers settled the match early. Raichandani and Aaryavir Sehwag **put on 117 for the first wicket in 17 overs**, with Raichandani hitting 13 fours and Sehwag four fours and four sixes. Sehwag made 51 off 57 balls before he was caught off Noor Ali Niazi.Raichandani went on to 93 off 90 balls and fell seven short of a hundred, caught by Mohammad Ali off Sohail Khan. His 13 fours and a six gave the chase its pace, and Afghanistan's bowlers sent down 11 wides in the first 29 overs.VK Vineeth finished **unbeaten on 57 off 62 balls** and hit the winning six. Chauhan added 16 not out off 14 balls, with three fours, as India finished the job inside 37 overs.```compare
+---
+
+India's under-19 side beat unbeaten Afghanistan by **eight wickets with 79 balls to spare** in the Asia Cup semi-final at Al Amerat, Oman, on Thursday, and will play Pakistan in the final on November 14. Chasing 228, India reached 230 for 2 in 36.5 overs, led by captain Lakshya Raichandani's 93.
+
+Afghanistan had won all their Group B matches and chose to bat after winning the toss. India had finished second in Group A, behind Pakistan, who beat them by three wickets on November 8.
+
+## How Afghanistan built 227
+
+Afghanistan were 143 for 4 after 35.6 overs, with **Noman Salarzai (51 off 78 balls)** and Shah Faisal Rahimi (51 off 72) the main scorers after an opening stand that ended at 29. Subhan Ali made 31 before he was bowled by Yashbardhan Singh Chauhan.
+
+India's bowlers then took three wickets in quick succession. Aryan Savsani dismissed Amir Hamza for a first-ball duck and Tahir Sarwary for 1 in the same stretch, and Afghanistan went from 143 for 4 to **146 for 6**. Ishan Sood, who finished with 3 for 43 in nine overs, took the wickets of Abidullah Nadarjan, Rahimi and Mohammad Ali.
+
+Captain Sohail Khan kept Afghanistan moving with an unbeaten 36 off 44 balls and the innings closed at 227 for 8. Savsani took 2 for 29, and Kavya Patel, Chauhan and Arjun Rajput took one each.
+
+## The chase
+
+India's openers settled the match early. Raichandani and Aaryavir Sehwag **put on 117 for the first wicket in 17 overs**, with Raichandani hitting 13 fours and Sehwag four fours and four sixes. Sehwag made 51 off 57 balls before he was caught off Noor Ali Niazi.
+
+Raichandani went on to 93 off 90 balls and fell seven short of a hundred, caught by Mohammad Ali off Sohail Khan. His 13 fours and a six gave the chase its pace, and Afghanistan's bowlers sent down 11 wides in the first 29 overs.
+
+VK Vineeth finished **unbeaten on 57 off 62 balls** and hit the winning six. Chauhan added 16 not out off 14 balls, with three fours, as India finished the job inside 37 overs.
+
+```compare
 {"title":"Semi-final 2, November 12","columns":["Afghanistan U19","India U19"],"rows":[{"icon":"cricket","label":"Total","cells":["227 for 8","230 for 2"]},{"icon":"chart-line","label":"Overs","cells":["50","36.5"]},{"icon":"users","label":"Top scorers","cells":["Salarzai 51, Rahimi 51","Raichandani 93, Vineeth 57*, Sehwag 51"]}]}
-```## Pakistan wait in the finalPakistan, the defending champions, also reached the final without losing a match. They beat Bangladesh by nine wickets in the first semi-final at the same ground, bowling them out for 138 in 31.4 overs. **Rizwanullah took 5 for 30** from eight overs, and Pakistan reached 141 for 1 in 21.5 overs through Hayam Khan's 69 and Usman Khan's unbeaten 64, who put on 123 for the first wicket.```photo
-{"n":1,"subject":"Pakistan national under-19 cricket team","caption":"Pakistan's under-19 side, the defending champions and India's opponents in the final.","alt":"Pakistan under-19 cricket team players (file photo)"}
-```## What the final means for IndiaIndia's only loss in the tournament came against Pakistan on November 8, when **Hamza Zahoor's unbeaten 100** took Pakistan home by three wickets after Arjun Rajput's 107 had lifted India to 208. Pakistan were 61 for 5 in that chase before Zahoor and Hasnain Abbas Dar added 107 for the sixth wicket. Our [report on that match](/en/news/india-u19-pakistan-asia-cup-result-zahoor-century) has the full innings.The two sides also met in last year's final, which Pakistan won by 191 runs, and India will look to reverse both results. Vineeth, who made 8 in that group game, now has a half-century in a knockout chase.## What happens nextThe final is on **Saturday, November 14, at Al Amerat**, with the first ball at 10:30 am IST (9:00 am local time in Oman). Rizwanullah, who took 3 for 24 against India on November 8, will lead Pakistan's attack, and Raichandani and Sehwag will again open for India.
+```
+
+## Pakistan wait in the final
+
+Pakistan, the defending champions, also reached the final without losing a match. They beat Bangladesh by nine wickets in the first semi-final at the same ground, bowling them out for 138 in 31.4 overs. **Rizwanullah took 5 for 30** from eight overs, and Pakistan reached 141 for 1 in 21.5 overs through Hayam Khan's 69 and Usman Khan's unbeaten 64, who put on 123 for the first wicket.
+
+## What the final means for India
+
+India's only loss in the tournament came against Pakistan on November 8, when **Hamza Zahoor's unbeaten 100** took Pakistan home by three wickets after Arjun Rajput's 107 had lifted India to 208. Pakistan were 61 for 5 in that chase before Zahoor and Hasnain Abbas Dar added 107 for the sixth wicket. Our [report on that match](/en/news/india-u19-pakistan-asia-cup-result-zahoor-century) has the full innings.
+
+The two sides also met in last year's final, which Pakistan won by 191 runs, and India will look to reverse both results. Vineeth, who made 8 in that group game, now has a half-century in a knockout chase.
+
+## What happens next
+
+The final is on **Saturday, November 14, at Al Amerat**, with the first ball at 10:30 am IST (9:00 am local time in Oman). Rizwanullah, who took 3 for 24 against India on November 8, will lead Pakistan's attack, and Raichandani and Sehwag will again open for India.
