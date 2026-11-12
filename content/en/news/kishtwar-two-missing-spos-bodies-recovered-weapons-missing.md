@@ -84,9 +84,6 @@ A police officer cautioned earlier on Wednesday that it would be premature to li
 
 No official statement from J&K Police or the Army giving the cause of death or the state of the search was available at the time of writing.
 
-```photo
-{"n":1,"subject":"Shagun Parihar","caption":"Shagun Parihar, the MLA for Kishtwar, who gave the time the bodies were found and demanded action.","alt":"Shagun Parihar, MLA from Kishtwar"}
-```
 
 ## Reaction
 
@@ -106,9 +103,6 @@ The killings came hours after unidentified gunmen on a motorcycle fired at a CRP
 
 SPOs work with police units in remote areas and, as these two did, travel between camps and Army bases. Two men killed on a routine walk between posts, and **two service rifles now in unknown hands**, raise questions about how such movements are secured. Missing weapons also carry their own risk: they can be used again in later attacks.
 
-```photo
-{"n":2,"subject":"Amit Shah","caption":"Union Home Minister Amit Shah, whom Parihar urged to act against those responsible for the killings.","alt":"Amit Shah, Union Home Minister"}
-```
 
 ## What happens next
 

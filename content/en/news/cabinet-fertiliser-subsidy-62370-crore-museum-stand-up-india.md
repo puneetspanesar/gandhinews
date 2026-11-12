@@ -92,9 +92,6 @@ Stocks are therefore about a third higher than a year ago, though still short of
 
 The 64% jump raises the pressure on the fertiliser line of the 2026-27 budget and may require additional allocation. The ₹62,370 crore is a tentative budgetary requirement, so the final bill will depend on how much fertiliser is actually sold under the six-month rates.
 
-```photo
-{"n":1,"subject":"North Block","caption":"North Block in New Delhi, which with South Block will be turned into the Yuge Yugeen Bharat Museum.","alt":"North Block, New Delhi"}
-```
 
 ## Museum in North and South Block
 

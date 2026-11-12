@@ -85,9 +85,6 @@ The Budget for 2026-27 provided **₹1,70,799 crore** for urea and nutrient-base
 
 The Cabinet release does not say what urea will cost this year, or whether the Finance Ministry expects to come back to Parliament for more money. A subsidy that grows by half from one season to the next is the kind of item that changes the Budget's arithmetic, and Parliament should hear about it from the government.
 
-```photo
-{"n":1,"subject":"Strait of Hormuz","caption":"The Strait of Hormuz, the Gulf shipping route at the centre of the West Asia crisis that the minister linked to higher fertiliser prices.","alt":"Ships in the Strait of Hormuz"}
-```
 
 ## The fair objection
 

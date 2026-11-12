@@ -93,9 +93,6 @@ Pierre Friedlingstein of the University of Exeter, who led the study, said: "a r
 
 Glen Peters of the CICERO Center for International Climate Research said: "A drop in emissions in one year is not a peak unless it is driven by structural change."
 
-```photo
-{"n":1,"subject":"Corinne Le Quéré","caption":"Corinne Le Quéré of the University of East Anglia led the companion analysis on clean energy.","alt":"Corinne Le Quéré, climate scientist at the University of East Anglia"}
-```
 
 A companion paper in Nature Climate Change, led by Corinne Le Quéré of the University of East Anglia, finds that solar, wind and electric vehicles could offset **64% to 79%** of emissions from new energy demand through 2028. Solar and wind avoided 4.1 billion tonnes of emissions in 2025 and are projected to avoid 4.6 billion tonnes in 2026. About 10% of the world's car fleet was electrified in 2025, or 6% excluding hybrids. And 59 countries emitted less in 2025 than in 2019 while their economies grew. "Clean technologies are making a real difference in reducing global emissions," Le Quéré said.
 
