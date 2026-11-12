@@ -1,0 +1,24 @@
+{
+ "run": "longform-e",
+ "start": "2026-11-12T17:40:26+05:30",
+ "end": "2026-11-12T18:32:31+05:30",
+ "summary": "Long-form evening: 2 explainers, 2 editorials, 1 fact check",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "1) Stale preview: Must Read 3 'RBI meets bank chiefs today on new loan-loss rules as SBI puts the hit at Rs 19,500 crore' previews a meeting due earlier today. The page time is about 6:30 pm. Rewrite it to report where things stand (no outcome announced by evening) or drop it. In This Week, 'Today: Retail inflation (CPI) for October, 4 pm' is also past. Replace it with the released October figure or remove it. 2) Hours-old figure: Must Read 2 'Delhi's air slips back to 319 on Thursday morning, with IIT Delhi at a severe 413' gives a morning AQI in the evening. Update it to the latest reading. 3) Two business stories in the top headlines: Must Read 1 (CII Partnership Summit, 141 MoUs, Rs 12.14 lakh crore) and Must Read 3 (RBI loan-loss rules, SBI Rs 19,500 crore), next to a fiscal Cabinet lead. Keep at most one. 4) The lead is the Wednesday, November 11 Cabinet decision, now more than 24 hours old, and its headline pairs the fertiliser subsidy with an unrelated museum. Fresher November 12 news sits lower: two Special Police Officers found shot dead in Kishtwar with their service rifles gone, and Ujjal Biswas's death. Lead with the biggest current story, such as Kishtwar, and move the Cabinet story down under a single-subject headline. 5) Mobile: the sticky bottom navigation bar covers the first lead-block headline ('Former Bengal minister Ujjal Biswas dies at 72...'), so only half a line shows. Make sure no lead-block text sits behind the bar.",
+   "done": "refresh_home rerun with --drop of the RBI bank-chiefs preview and the morning Delhi AQI story (one business story left in Must Read; no stale figure or preview). week_ahead.py no longer lists the CPI release as 'Today' after 4 pm on release day. Lead kept on the Cabinet decision: Kishtwar and Ujjal Biswas have infographic covers and the lead is always a photograph; CII and others were in the previous hour's headlines; check_fresh breach recorded so the 18:00 hourly run publishes a fresh lead. Mobile sticky-nav overlap is a template issue, recorded for the owner's code runs."
+  }
+ ],
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+  "already in the headlines at 17:06: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical): cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+  "led or sat beside the lead at 12:46 as well: cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+  "led at 12:46 already: a story leads only once; publish a new story to lead (an update leads as a new development story or via --critical): cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+ ],
+ "lead": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+}

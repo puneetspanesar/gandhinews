@@ -13,7 +13,6 @@ keyPoints:
   - "The Sensex **rose 107.25 points to 81,106.65** and the Nifty 58.25 points to 25,044.65, both at their highest closing levels since February 27."
   - "The Nifty PSU Bank index **gained about 3.7%**, with State Bank of India up 2.56%."
   - "Foreign investors have **bought more than $4.1 billion** of Indian shares in November, the strongest month since September 2024."
-upcoming: {date: 2026-11-12, en: "India releases October retail inflation data; September was 5.54%", hi: "अक्टूबर की खुदरा महंगाई के आंकड़े जारी होंगे; सितंबर में यह 5.54% थी"}
 hero:
   need: "The BSE building on Dalal Street, Mumbai"
   suggested_source: "Bombay Stock Exchange Dalal Street"

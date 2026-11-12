@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+    "id": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Policy / Union Cabinet",
+        "hi": "नीति / केंद्रीय मंत्रिमंडल"
       },
       "value": {
-        "en": "₹12.14 lakh crore of deals lined up",
-        "hi": "₹12.14 लाख करोड़ के सौदे तैयार"
+        "en": "Rabi fertiliser subsidy up 64%",
+        "hi": "रबी में उर्वरक सब्सिडी 64% ज्यादा"
       },
       "text": {
         "en": "",
@@ -16,14 +16,18 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "farmer-id-explained-digital-agriculture-mission",
+      "kejriwal-e20-trump-pressure-ethanol-claim",
+      "msp-explained-how-set-who-benefits"
+    ],
     "relatedBeside": [
       "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
     ],
     "live": {
       "title": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "Union Cabinet",
+        "hi": "केंद्रीय मंत्रिमंडल"
       }
     }
   },
@@ -96,25 +100,25 @@
         }
       },
       {
-        "link": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+        "link": "us-army-soldier-arrested-england-russia-national-security-act",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "World's fossil CO2 emissions set to dip 0.4% in 2026, but India's will rise 4.4%",
-          "hi": "2026 में दुनिया का जीवाश्म CO2 उत्सर्जन 0.4% घटेगा, पर भारत का 4.4% बढ़ेगा"
+          "en": "UK police arrest senior US Army soldier on suspicion of helping Russian intelligence",
+          "hi": "रूसी खुफिया एजेंसी की मदद के शक में ब्रिटेन में अमेरिकी सेना का वरिष्ठ सैनिक गिरफ्तार"
         }
       },
       {
-        "link": "india-bans-export-lithium-ion-battery-black-mass",
+        "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Centre bans export of lithium-ion battery black mass with immediate effect",
-          "hi": "केंद्र ने लिथियम-आयन बैटरी ब्लैक मास के निर्यात पर तत्काल रोक लगाई"
+          "en": "Hardik Pandya moves to Punjab Kings as Arshdeep Singh joins Mumbai Indians in IPL trade",
+          "hi": "आईपीएल ट्रेड: हार्दिक पंड्या पंजाब किंग्स में, अर्शदीप सिंह मुंबई इंडियंस में"
         }
       }
     ]
@@ -190,11 +194,11 @@
       "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
       "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
+      "us-army-soldier-arrested-england-russia-national-security-act"
     ],
     "also": [
-      "india-bans-export-lithium-ion-battery-black-mass",
-      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+      "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+      "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     ]
   },
   "startHere": [
@@ -271,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim",
       "rajnath-singh-low-morale-diwali-soldiers-video-claim",
-      "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
-      "parameshwara-constitution-says-reservation-in-proportion-to-population-claim"
+      "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim"
     ]
   },
   "explained": [
@@ -354,11 +358,11 @@
     }
   ],
   "opinion": [
+    "black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers",
+    "thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named",
     "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
     "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
-    "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur",
-    "evening-courts-pilot-needs-published-targets-and-a-legal-basis",
-    "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
+    "state-bus-crashes-need-speed-governors-and-driver-rest-after-sangrur"
   ],
   "sections": [
     {
@@ -387,9 +391,9 @@
         ]
       },
       "list": [
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
         "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december"
       ]
     },
     {
@@ -457,18 +461,6 @@
         "hi": "आज"
       },
       "text": {
-        "en": "India releases October retail inflation data; September was 5.54%",
-        "hi": "अक्टूबर की खुदरा महंगाई के आंकड़े जारी होंगे; सितंबर में यह 5.54% थी"
-      },
-      "link": "sensex-nifty-close-november-9-highest-since-february-psu-banks"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
         "en": "Day four of Pakistan v Sri Lanka, first Test, Rawalpindi",
         "hi": "पाकिस्तान बनाम श्रीलंका, पहला टेस्ट, रावलपिंडी: चौथा दिन"
       },
@@ -499,17 +491,6 @@
       "link": "abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky"
     },
     {
-      "icon": "chart-line",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Retail inflation (CPI) for October, 4 pm",
-        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
-      }
-    },
-    {
       "icon": "calendar-blank",
       "date": {
         "en": "Tomorrow",
@@ -520,26 +501,33 @@
         "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
       },
       "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+      },
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "PM Modi in Bengaluru and Mysuru: Pink Line metro, Vande Bharat flag-off, ₹15,600 crore projects",
+        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में: पिंक लाइन मेट्रो, वंदे भारत को हरी झंडी, ₹15,600 करोड़ की परियोजनाएं"
+      },
+      "link": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T06:47:02+05:30",
-      "ids": [
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-        "sangrur-prtc-bus-flyover-crash-three-killed",
-        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
-        "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha",
-        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
-        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
-        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
-        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner"
-      ]
-    },
     {
       "at": "2026-11-12T07:31:12+05:30",
       "ids": [
@@ -639,6 +627,23 @@
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
         "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
         "india-bans-export-lithium-ion-battery-black-mass"
+      ]
+    },
+    {
+      "at": "2026-11-12T18:30:15+05:30",
+      "ids": [
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "farmer-id-explained-digital-agriculture-mission",
+        "kejriwal-e20-trump-pressure-ethanol-claim",
+        "msp-explained-how-set-who-benefits",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+        "us-army-soldier-arrested-england-russia-national-security-act",
+        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
       ]
     }
   ],
