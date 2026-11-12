@@ -125,6 +125,18 @@ fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() 
 NOLEAD = {'sports', 'science', 'tech'}
 lead_ok = lambda d: fresh_photo(d) and d.get('section') not in NOLEAD and (PIC.get(d['id'], {}).get('srcWidth') or 9999) >= 900  # a small photo never fills the lead
 bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 6 and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
+# OWNER'S RULE (November 12, absolute): the lead is never more than 2 hours old. It outranks "the lead changes every
+# hour" and "a story leads only once": a lead under 2 hours old stays until a newer lead-worthy story exists.
+LEAD_MAX = 2.0
+if not a.lead:
+    young = [i for i in newest(lead_ok) if age(i) < LEAD_MAX and i not in a.drop]
+    cur_young = ok(lead) and lead in young
+    if young and (bad or not cur_young):
+        pick = next((i for i in young if i != lead and allowed(i) and i not in led), None) or (lead if cur_young else young[0])
+        if pick != lead: print(f'lead {lead} replaced by {pick} (the lead is always under 2 hours old)'); set_lead(pick); lead = pick
+        bad = False
+    elif not young and not cur_young:
+        print(f'WARNING: no lead-worthy story with a real photo is under 2 hours old (lead {lead} is {age(lead):.1f} h): this run must publish one')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
     same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]

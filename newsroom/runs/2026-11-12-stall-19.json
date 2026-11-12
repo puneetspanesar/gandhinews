@@ -1,0 +1,13 @@
+{
+ "run": "stall-19",
+ "start": "2026-11-12T19:30:43+05:30",
+ "end": "2026-11-12T19:33:57+05:30",
+ "summary": "2-hour lead rule; CPI leads",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "retail-inflation-october-2026-6-09-two-year-high"
+}

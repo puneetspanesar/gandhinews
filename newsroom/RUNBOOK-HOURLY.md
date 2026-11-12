@@ -1,6 +1,8 @@
-# Writing run (every 2 hours: 6, 8, 10 am, noon, 2, 4, 6, 8, 10 pm and 12:03 am IST; the run name stays hourly-HH)
+# Writing run (every hour at :03, 6 am to 11 pm and 12:03 am IST; the run name stays hourly-HH)
 
-In the hours between, the GitHub job .github/workflows/home-rotate.yml rotates the homepage without AI (refresh_home.py and check_fresh.py), so every headline still changes every hour. GitHub skips many of its scheduled starts, so every writing run ends by starting that job itself for the next hour (section 5). Markets figures are updated by these runs, so every 2 hours.
+Even hours (6, 8, 10 am ... 10 pm) and 12:03 am: the FULL run below, 4 stories. Odd hours (7, 9, 11 am ... 11 pm): the LEAD RUN at the end of this file, 1 story. The owner's rule of November 12 is that the lead is never more than 2 hours old, so the site needs a new lead-worthy story with a real photo every hour.
+
+Between runs the stall check and the GitHub job .github/workflows/home-rotate.yml rotate the other headlines without AI. Markets figures are updated by every run.
 
 Read newsroom/RUNBOOK.md first: its rules (A), setup (B), pictures (C), gate (D) and publish (E) are part of this runbook. This file only adds what is particular to the hourly run.
 
@@ -66,3 +68,11 @@ Run name for the lock and the record: `hourly-HH`, HH the hour the run started. 
 - Never a cover of one person twice. Never a background tile from another place or subject (no White House behind an India-Ukraine story). treat_photo.py enforces both: a tile must match the story's topic and share a proper noun with the headline; a portrait must show that person alone; when nothing fits, the collage has no tiles.
 - Before publishing: open every new collage (public/photos/t-<id>-640.jpg) and look at it. Fix anything wrong before the push, not after.
 - (Owner, November 11) A photo shown plain, untreated, in a card is an error. Never set `notreat` to get rid of a bad collage: fix the cause (give the story a better main photo, or a solo photo that cuts out) and make the collage again. The collage's subject is always the story's own main photo or the headline person's portrait; it never takes a centre picture from a related story.
+
+## LEAD RUN (odd hours: 7, 9, 11 am, 1, 3, 5, 7, 9, 11 pm; owner, November 12)
+The lead is never more than 2 hours old, so the hours between full runs get one new lead. Everything in RUNBOOK.md applies; this run is the full run cut down to one story, and it publishes by minute 35.
+1. Setup as usual (`setup.sh hourly-HH`), held stories. A two-search front-page check: what is the biggest India story of the last 90 minutes that we do not have, or have only an older version of?
+2. ONE desk agent (Sonnet), ONE story: that story, national, state, world or economy news (never markets, sport, science or tech unless it is a BIG STORY), 600 to 900 words, on the same rules as a full run (primary source or two reports, Hindi twin, `seo.title`, `upcoming:` when a date is ahead). PICTURE FIRST: it is chosen only if it has a real photo wide enough to lead (PIB, the people library, quick_photo, 900 px or more), or you can build a cover of 2-3 real photos with lead_cover.py. A story that can only go up on an infographic is not this run's story.
+3. Markets figures during market hours (section 4), at most 3 searches.
+4. `refresh_home.py --lead <id>`, gate.sh, review_pack and the editor agent on the one story, apply_verdict, publish.sh, then the look at the live result (verify_live.py and the story's collage).
+5. If the story is held or fails: write a second one. This run does not end without a lead under 2 hours old on the live site. If truly nothing new has happened in India or the world in 2 hours, write the most important new development of the current lead's story as its own story (new id).

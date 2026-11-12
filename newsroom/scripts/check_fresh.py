@@ -53,8 +53,9 @@ if lead not in P: flag('lead is not a published story', lead); lead = None
 else:
     # over 8 hours only happens when no fresher national, state, world or economy story with a photo exists (refresh_home.py
     # always tries those first): recorded as a breach, so an important story never loses to a match result
-    if P[lead]['type'] == 'news' and age(lead) > 16: flag('lead is over 16 hours old', lead, age(lead))
-    elif P[lead]['type'] == 'news' and age(lead) > 6: soft.append(('lead is over 6 hours old: the next writing run must publish a fresh lead story', lead, age(lead)))
+    # OWNER'S RULE (November 12, absolute): the lead is never more than 2 hours old. A hard failure: a run that has no
+    # lead-worthy story under 2 hours old with a real photo writes one (or builds a cover with lead_cover.py) before it publishes.
+    if age(lead) > 2: flag('lead is over 2 hours old (the lead is never more than 2 hours old: publish a fresh lead story with a real photo)', lead, age(lead))
     if is_markets(lead, P[lead]): flag('markets story as the lead', lead)
     if P[lead].get('section') in ('sports', 'science', 'tech'): soft.append((f'a {P[lead].get("section")} story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news)', lead, 0))
     if (M.get(lead) or {}).get('graphic'): soft.append(('lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one', lead, 0))
@@ -130,6 +131,7 @@ if ph:
         if i != (ph.get('lead') or {}).get('id') and P[i]['type'] == 'news' and age(i) - now.minute / 60 < 6: continue
         why = f'already in the headlines at {pt:%H:%M}: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical)'
         # the lead can only change to a new story: when none exists the run still publishes (breach recorded), never freezes
+        if i == h['lead']['id'] and age(i) <= 2: continue   # a lead under 2 hours old stays until a newer one exists (owner, November 12)
         (soft.append((why, i, 0)) if i == h['lead']['id'] else flag(why, i))
 
 # every section updates by itself: the long-form slots show the newest pieces (refresh_home.py), and new ones keep coming
@@ -142,7 +144,7 @@ if len(h.get('weekAhead') or []) < 2: flag('the week ahead band has fewer than 2
 
 # A story that led never leads again; the previous hour's headlines never repeat (checked above).
 crit = set(h.get('critical') or [])
-for t, hp in recent_homepages(now, 6):
+for t, hp in ([] if (h['lead']['id'] in P and age(h['lead']['id']) <= 2) else recent_homepages(now, 6)):   # a lead under 2 hours old may stay (owner, November 12)
     for i in set(core_ids(h)) & set(core_ids(hp)):
         u = (P.get(i) or {}).get('updated')
         if i in crit and u and u > t: continue
@@ -181,4 +183,4 @@ if soft:
     for n, i, a in soft: print(f'  {n}: {i}' + (f' ({a:.1f})' if a else ''))
     open(os.environ.get('GN_WORK', '/home/claude/gn-work/') + 'breaches.txt', 'w').write('\n'.join(f'{n}: {i}' for n, i, a in soft) + '\n')
     sys.exit(2)
-print('OK: homepage rules all hold (lead under 8 hours, headlines fresh and balanced, no stale clock figures).')
+print('OK: homepage rules all hold (lead under 2 hours, headlines fresh and balanced, no stale clock figures).')

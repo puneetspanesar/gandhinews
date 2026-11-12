@@ -401,7 +401,7 @@ def check_home(root, dist, S, M):
         # Lead
         a = age_h(fmf(lead))
         if fmf(lead).get('type') != 'news': fail(G, L, f'lead "{lead}" is not a news story')
-        if a is None or a > 8: fail(G, L, f'lead "{lead}" is {a and round(a, 1)} hours old (limit 8)')
+        if a is None or a > 2: fail(G, L, f'lead "{lead}" is {a and round(a, 1)} hours old (limit 2: owner, November 12)')
         if GR.is_markets(lead, fmf(lead)): fail(G, L, f'lead "{lead}" is a markets story')
         # Freshness of everything at the top
         for i in tops + live_ids:
