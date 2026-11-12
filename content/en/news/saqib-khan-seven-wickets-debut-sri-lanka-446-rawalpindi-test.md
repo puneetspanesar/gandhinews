@@ -64,7 +64,7 @@ verification:
     - "Rain: earlier forecast (92 per cent in the afternoon) is from our preview; no report found yet of play stopped on day four."
     - "Sources whose pages could not be read (France24, Daily Times, Geo Super, ProPakistani) were not used."
 ---
-Debutant **Saqib Khan took seven wickets** on the fourth morning of the first Test in Rawalpindi on Thursday, November 12, 2026, and Pakistan bowled Sri Lanka out for 446, a lead of only 12. Pakistan were **39 for 1 at lunch**, 27 runs ahead, in their second innings.
+Debutant **Saqib Khan took five more wickets** on the fourth morning, finishing with 7 for 130, of the first Test in Rawalpindi on Thursday, November 12, 2026, and Pakistan bowled Sri Lanka out for 446, a lead of only 12. Pakistan were **39 for 1 at lunch**, 27 runs ahead, in their second innings.
 
 Sri Lanka had resumed on 404 for 4, 30 behind, with Dhananjaya de Silva on 167 and captain Kusal Mendis on 117 after an unbroken stand of 249. They then lost their last **six wickets for 42 runs**.
 

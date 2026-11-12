@@ -6,13 +6,13 @@ section: politics
 format_label: "Politics / Uttar Pradesh"
 topics: [elections-2027]
 title: "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow"
-standfirst: "The Uttar Pradesh Chief Minister called the Samajwadi Party chief's remark a divisive mindset and said he would be 'grazing buffaloes in Saifai' but for a daughter of Uttarakhand."
+standfirst: "The Uttar Pradesh Chief Minister called the Samajwadi Party chief's remark a divisive mindset and said Akhilesh would be 'grazing buffaloes in Saifai' but for a daughter of Uttarakhand."
 published: 2026-11-12T14:07:37+05:30
 location: Lucknow
 keyPoints:
   - "Yogi Adityanath said on Wednesday that Akhilesh Yadav's remark showed a **narrow and divisive mindset**."
   - "He recalled that Uttar Pradesh's **first Chief Minister, Govind Ballabh Pant**, came from Uttarakhand."
-  - "Akhilesh had said on October 24 that **the biggest infiltrators in Uttar Pradesh** came from Uttarakhand."
+  - "Akhilesh had said on October 24, 2026, that **the biggest infiltrators in Uttar Pradesh** came from Uttarakhand."
 hero:
   need: "Uttar Pradesh Chief Minister Yogi Adityanath and Samajwadi Party chief Akhilesh Yadav, two-panel split"
   suggested_source: "Yogi Adityanath"
@@ -35,7 +35,7 @@ infographic:
     - {date: "Oct 24", text: "Akhilesh: biggest infiltrators in UP are from Uttarakhand", icon: chats}
     - {date: "Oct 25", text: "Dhami calls it a grave insult, asks Congress to clarify", icon: megaphone}
     - {date: "Nov 11", text: "Yogi calls the remark divisive at Lucknow festival", icon: users}
-  source: "Statements by Yogi Adityanath, Akhilesh Yadav and Pushkar Singh Dhami, October 24 to November 11, 2026"
+  source: "Statements by Yogi Adityanath, Akhilesh Yadav and Pushkar Singh Dhami, October 24, 2026, to November 11, 2026"
 sources:
   - title: "Yogi slams Akhilesh over 'infiltrator' remark on Uttarakhand residents"
     publisher: "Indian Opinion"
@@ -63,8 +63,8 @@ verification:
     - "Event: Wednesday November 11, 2026, Uttarakhand Mahotsav-2026, Pandit Govind Ballabh Pant Upvan, Lucknow; no clock time in any report. Reports are dated November 11 to 12; written as a development not yet on the site."
     - "Primary source (full speech or UP government release) not found; written from four independent reports that agree on the substance. Yogi's Hindi buffalo line is quoted as given by Mediasaheb; ITDC reports it in indirect speech. He did not name Akhilesh; the target is as identified by the reports."
     - "Dimple Yadav link: ITDC says the line is seen as a reference to her Uttarakhand family ties; Indian Opinion names her in brackets. Treated as reported interpretation."
-    - "Akhilesh's October 24 words from our earlier story dhami-akhilesh-uttarakhand-infiltrators-remark-congress. Press News Agency says Akhilesh also called Yogi an 'ideological infiltrator' who should be sent back to Uttarakhand; single source, so stated with attribution only."
-    - "No SP or Akhilesh response found in any report as of 2:30 pm IST November 12."
+    - "Akhilesh's October 24, 2026, words from our earlier story dhami-akhilesh-uttarakhand-infiltrators-remark-congress. Press News Agency says Akhilesh also called Yogi an 'ideological infiltrator' who should be sent back to Uttarakhand; single source, so stated with attribution only."
+    - "No SP or Akhilesh response found in any report as of 2:30 pm IST November 12, 2026."
 ---
 
 Uttar Pradesh Chief Minister Yogi Adityanath on Wednesday **answered Samajwadi Party chief Akhilesh Yadav** over his remark that the biggest infiltrators in the state came from Uttarakhand, calling it the work of a "narrow and divisive" mind. He was speaking at the Uttarakhand Mahotsav-2026 in Lucknow.
@@ -87,11 +87,11 @@ He also accused unnamed leaders of embracing "Bangladeshi and Pakistani infiltra
 
 ## How the row began
 
-The exchange goes back to **October 24**, when Akhilesh Yadav spoke to reporters in Lucknow about infiltrators. He said they had entered the contracting business and, through investments, news channels. "And then, who are the biggest infiltrators in UP? Those from Uttarakhand," he said, as quoted in our earlier report. Another account says he also called Adityanath an "ideological infiltrator" who should be sent back to Uttarakhand, and accused the BJP of presenting fabricated figures on infiltrators.
+The exchange goes back to **October 24, 2026**, when Akhilesh Yadav spoke to reporters in Lucknow about infiltrators. He said they had entered the contracting business and, through investments, news channels. "And then, who are the biggest infiltrators in UP? Those from Uttarakhand," he said, as quoted in our earlier report. Another account says he also called Adityanath an "ideological infiltrator" who should be sent back to Uttarakhand, and accused the BJP of presenting fabricated figures on infiltrators.
 
-Uttarakhand Chief Minister Pushkar Singh Dhami replied the next day from Khatima. **Dhami called it a grave insult** on October 25. "Making such remarks about Uttarakhand or its people is a grave insult to them," he said, and asked the Congress, the Samajwadi Party's ally, to say whether it agreed. He recalled the police firings at Khatima, Mussoorie and Rampur Tiraha during the statehood agitation, when Akhilesh's father Mulayam Singh Yadav was Chief Minister.
+Uttarakhand Chief Minister Pushkar Singh Dhami replied the next day from Khatima. **Dhami called it a grave insult** on October 25, 2026. "Making such remarks about Uttarakhand or its people is a grave insult to them," he said, and asked the Congress, the Samajwadi Party's ally, to say whether it agreed. He recalled the police firings at Khatima, Mussoorie and Rampur Tiraha during the statehood agitation, when Akhilesh's father Mulayam Singh Yadav was Chief Minister.
 
-Adityanath's speech is the first direct answer from the Uttar Pradesh Chief Minister since then. The two men have traded charges all month. On November 8 we reported Akhilesh asking how the government knows that the 1.27 crore voters it calls missing are Hindus.
+Adityanath's speech is the first direct answer from the Uttar Pradesh Chief Minister since then. The two men have traded charges all month. On November 8, 2026, we reported Akhilesh asking how the government knows that the 1.27 crore voters it calls missing are Hindus.
 
 ## Why it matters
 

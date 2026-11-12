@@ -1,0 +1,29 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-12T14:04:28+05:30",
+ "end": "2026-11-12T14:41:17+05:30",
+ "summary": "4 stories: Tamil Nadu Sterlite relief lead, Guterres COP31, Yogi on Akhilesh, Saqib Khan seven",
+ "new": [
+  "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+  "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+  "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
+  "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+   "why": "The opening line in both English and Hindi says Saqib Khan 'took seven wickets on the fourth morning'. The story itself says he already had two wickets on day three (2 for 105), so he took five on day four, not seven.",
+   "done": "Opening line now says he took five more wickets on the fourth morning, finishing with 7 for 130 (EN and HI)."
+  },
+  {
+   "id": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+   "why": "Yogi Adityanath, one of the best-known politicians in India, gets an infographic (a megaphone over 'Oct 24, Akhilesh's remark'), and the main graphic leads with Akhilesh's date, not with Yogi, who is the one acting. The NOPHOTO note itself says free photos exist: library portraits that were only skipped because they ran in the last 7 days, and a 450 px solo shot. That does not mean no photo exists. Also, the standfirst 'said he would be grazing buffaloes in Saifai' reads as if Yogi is talking about himself (Hindi: 'वे').",
+   "done": "Standfirst now says Akhilesh would be grazing buffaloes (HI: अखिलेश). Picture kept as infographic under rule 11a: every free Yogi photo is either used inside 7 days (rule 10), under 900 px (450 px solo), or shows him with Modi; finder h1214."
+  }
+ ],
+ "breaches": [],
+ "lead": "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
+}

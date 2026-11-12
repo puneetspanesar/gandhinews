@@ -68,14 +68,14 @@ verification:
   status: approved
   notes:
     - "No UN transcript was opened; written from several independent reports that agree on the main points."
-    - "Reports differ on the day of Guterres's speech (Tuesday or Wednesday); most say Wednesday, November 11, the opening day of the leaders' summit."
+    - "Reports differ on the day of Guterres's speech (Tuesday or Wednesday); most say Wednesday, November 11, 2026, the opening day of the leaders' summit."
     - "Reports differ on the current electricity share of energy use (about a fifth, 23% or 24%); the text says 'about a fifth'."
     - "India's reported hesitation on the 35 by 35 pledge rests on one report."
 ---
 
-The head of the United Nations told world leaders at the COP31 climate summit in Antalya that **fossil fuels "must go the way of the dinosaurs"**, in what is his last climate conference before his term ends in December. Speaking at the leaders' segment that began on Wednesday, November 11, António Guterres added that the oil and gas industry has "a lobby the dinosaurs lacked" and that governments should tax its windfall profits.
+The head of the United Nations told world leaders at the COP31 climate summit in Antalya that **fossil fuels "must go the way of the dinosaurs"**, in what is his last climate conference before his term ends in December. Speaking at the leaders' segment that began on Wednesday, November 11, 2026, António Guterres added that the oil and gas industry has "a lobby the dinosaurs lacked" and that governments should tax its windfall profits.
 
-The leaders' summit runs through Thursday, November 12, inside a two-week conference that closes on November 20. It has opened with some of the largest economies missing.
+The leaders' summit runs through Thursday, November 12, 2026, inside a two-week conference that closes on November 20, 2026. It has opened with some of the largest economies missing.
 
 ## What Guterres asked for
 
@@ -119,4 +119,4 @@ Critics say the pledge does not require the new power to come from clean sources
 
 Developing countries are looking for clarity on the $300 billion a year that richer countries agreed at COP29 to deliver by 2035 and for progress towards a **$1.3 trillion a year goal**. The Tropical Forest Forever Facility has raised about $7.9 billion against a $10 billion target, and no government announced a new pledge at the summit. Norway's $3 billion is conditional on the full $10 billion being raised by the end of the year.
 
-Follow-up high-level meetings are set for November 17 and 18, and the conference is due to close on November 20. A UN report found the world is on course to exceed the 1.5°C limit. Former French Prime Minister Laurent Fabius said "the key word in Antalya is implementation."
+Follow-up high-level meetings are set for November 17 and 18, 2026, and the conference is due to close on November 20, 2026. A UN report found the world is on course to exceed the 1.5°C limit. Former French Prime Minister Laurent Fabius said "the key word in Antalya is implementation."

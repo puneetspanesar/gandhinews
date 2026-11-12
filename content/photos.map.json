@@ -47260,7 +47260,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Vijay (file photo)",
   "alt_hi": "विजय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_Protest_of_the_Nadigar_Sangam.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_Protest_of_the_Nadigar_Sangam.jpg",
+  "treated": {
+   "src": "/photos/t-tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay-1280.jpg",
+   "src800": "/photos/t-tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-declines-plea-aiadmk-mlas-disqualification",
+    "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting"
+   ],
+   "kind": "photo",
+   "subj": "81b1c1f9ebc3c3c3",
+   "credit": "Photos: Dani Charles Silverscreen Media Inc. / Wikimedia Commons; Jan Van Ryne (1712-60); Publisher: Robert Sayer / Wikimedia Commons; L.vivian.richard at en.wikipedia / Wikimedia Commons"
+  }
  },
  "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent": {
   "id": "o-guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
@@ -47268,37 +47280,110 @@
   "src800": "/photos/o-guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 675,
-  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "António Guterres (file photo)",
-  "alt_hi": "एंतोनियो गुतारेस (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_(cropped).jpg"
+  "srcWidth": 2667,
+  "credit": "Photo: European Commission (Christophe Licoppe) / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "UN Secretary-General António Guterres (file photo)",
+  "alt_hi": "संयुक्त राष्ट्र महासचिव एंतोनियो गुतारेस (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres,_23.03.23.jpg",
+  "treated": {
+   "src": "/photos/t-guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-u-1280.jpg",
+   "src800": "/photos/t-guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-u-640.jpg",
+   "cutout": true,
+   "with": [
+    "us-midterms-2026-explained-what-is-at-stake",
+    "us-midterms-voting-under-way-house-senate-57-million-early",
+    "china-q3-gdp-grows-4-5-per-cent-beats-forecast"
+   ],
+   "kind": "photo",
+   "subj": "f9f1c1f1e1e1f0f0",
+   "credit": "Photos: European Commission (Christophe Licoppe) / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; Alex Johnson from Ft. Lauderdale FL, USA / Wikimedia Commons; N509FZ / Wikimedia Commons"
+  }
  },
  "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test": {
-  "id": "o-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
-  "src": "/photos/o-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-1280.jpg",
-  "src800": "/photos/o-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-640.jpg",
-  "width": 1280,
-  "height": 553,
-  "srcWidth": 1800,
-  "credit": "Photo: Neweditorpk / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Rawalpindi Cricket Stadium, venue of the Pakistan v Sri Lanka Test (file photo)",
-  "alt_hi": "रावलपिंडी क्रिकेट स्टेडियम, पाकिस्तान बनाम श्रीलंका टेस्ट का मैदान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:RWPCS3.jpg"
- },
- "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai": {
-  "id": "o-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-  "src": "/photos/o-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-1280.jpg",
-  "src800": "/photos/o-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-640.jpg",
+  "id": "i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+  "src": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-en-3x2-1280.jpg",
+  "src800": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 4272,
-  "credit": "Photo: Prateek Dubey / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "Samajwadi Party president Akhilesh Yadav, whose remark Yogi Adityanath answered (file photo)",
-  "alt_hi": "समाजवादी पार्टी अध्यक्ष अखिलेश यादव, जिनकी टिप्पणी का योगी आदित्यनाथ ने जवाब दिया (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Akhilesh_Yadav.JPG"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Saqib takes seven, Sri Lanka lose six for 42",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: साकिब के सात, श्रीलंका के छह विकेट 42 पर",
+  "page": null,
+  "ihash": "4da33653315b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-hi-3x2-1280.jpg",
+    "src800": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-en-t-1280.jpg",
+    "src800": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-hi-t-1280.jpg",
+    "src800": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-en-1280.jpg",
+    "src800": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-hi-1280.jpg",
+    "src800": "/photos/i-saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Saqib Khan; library, quick_photo, finder h1214"
+ },
+ "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai": {
+  "id": "i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+  "src": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-en-3x2-1280.jpg",
+  "src800": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Yogi answers Akhilesh on Uttarakhand",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: उत्तराखंड पर अखिलेश को योगी का जवाब",
+  "page": null,
+  "ihash": "f202430cf2c3",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-hi-3x2-1280.jpg",
+    "src800": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-en-t-1280.jpg",
+    "src800": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-hi-t-1280.jpg",
+    "src800": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-en-1280.jpg",
+    "src800": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-hi-1280.jpg",
+    "src800": "/photos/i-yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai-hi-640.jpg"
+   }
+  },
+  "nophoto": "Yogi Adityanath: library portraits used inside 7 days, finder h1214 only a 450 px solo or photos with Modi; library, quick_photo, finder h1214"
  }
 }

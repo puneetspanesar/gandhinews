@@ -82,3 +82,10 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Editor homepage notes not done: Delhi AQI card still the 6:30 am figure; Swachh preview in Policy list; mobile tab bar over first card.
 - Markets: Sensex 81,642.29 and Nifty 25,180.15 at about 9:15 am (open, down 0.3%).
 - NEXT RUN, FIRST: CII summit MoUs signed and Amit Shah speech (update the lead with signed figures, new updated:); RBI ECL meeting outcome (new id); Rawalpindi day four; Delhi AQI latest; October CPI at 4 pm; six seafarers republish with a serious photo.
+
+## November 12, 2026, 2:45 pm (from the 14:00 run)
+- Published 4: tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay (LEAD, Vijay library file photo; rests on reports, TN release not opened), guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent (Guterres EC 2023 file photo, swapped from the US-flags portrait), yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai (infographic --nophoto: Yogi library portraits used inside 7 days, Commons solo only 450 px), saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test (infographic --nophoto; Saqib Khan added to people.tsv).
+- Editor story FAILs all fixed by the run (Sterlite SC date February 29, 2024; years on dates; Saqib five wickets on day four; Yogi standfirst).
+- Editor homepage FAIL not fixed (two editor checks; template-driven Must Read): Delhi AQI morning card, RBI ECL preview, CII opening-day item, US soldier in the second picture slot. refresh_home --drop of those ids did not clear the Must Read module.
+- Markets: Sensex 81,867.32, Nifty 25,246.15 at 1:31 pm; Brent, rupee, movers not updated.
+- NEXT RUN, FIRST: CII summit MoUs signed and Amit Shah speech (new id); RBI ECL meeting outcome; Karnataka blacklists L&T over Jal Jeevan Mission; Delhi 4 pm AQI; October CPI at 4 pm; six seafarers republish with a serious photo; Yogi photo upgrade after November 14; Pakistan v Sri Lanka day four close.

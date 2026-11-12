@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-army-soldier-arrested-england-russia-national-security-act",
+    "id": "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "States / Tamil Nadu",
+        "hi": "राज्य / तमिलनाडु"
       },
       "value": {
-        "en": "US soldier held over Russia spy claims",
-        "hi": "रूस के लिए जासूसी के शक में अमेरिकी सैनिक"
+        "en": "₹50 lakh now for each Sterlite firing death",
+        "hi": "स्टरलाइट गोलीकांड में हर मौत पर ₹50 लाख"
       },
       "text": {
         "en": "",
@@ -18,26 +18,48 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
+      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+        "link": "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
         "lead": {
           "en": "Climate:",
           "hi": "जलवायु:"
         },
         "text": {
-          "en": "World's fossil CO2 emissions set to dip 0.4% in 2026, but India's will rise 4.4%",
-          "hi": "2026 में दुनिया का जीवाश्म CO2 उत्सर्जन 0.4% घटेगा, पर भारत का 4.4% बढ़ेगा"
+          "en": "Guterres tells COP31 leaders fossil fuels must 'go the way of the dinosaurs' as top emitters stay away",
+          "hi": "सबसे बड़े उत्सर्जक देश नहीं आए, गुटेरेस बोले जीवाश्म ईंधन को डायनासोर की राह जाना होगा"
+        }
+      },
+      {
+        "link": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Saqib Khan takes seven on debut as Sri Lanka lose six for 42 and finish on 446 in Rawalpindi",
+          "hi": "डेब्यू पर साकिब खान के सात विकेट, श्रीलंका ने आखिरी छह विकेट 42 रन में गंवाए और रावलपिंडी में 446 पर सिमटी"
+        }
+      },
+      {
+        "link": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow",
+          "hi": "उत्तराखंड महोत्सव में योगी का अखिलेश पर पलटवार, 'घुसपैठिए' वाले बयान को बताया विभाजनकारी सोच"
         }
       },
       {
@@ -63,14 +85,14 @@
         }
       },
       {
-        "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+        "link": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Union Cabinet:",
+          "hi": "केंद्रीय मंत्रिमंडल:"
         },
         "text": {
-          "en": "Andhra Pradesh opens CII Partnership Summit with 141 MoUs and ₹12.14 lakh crore lined up",
-          "hi": "आंध्र प्रदेश में सीआईआई पार्टनरशिप समिट शुरू, 141 एमओयू और ₹12.14 लाख करोड़ के सौदे तैयार"
+          "en": "Cabinet raises rabi fertiliser subsidy 64% to ₹62,370 crore, clears ₹3,230 crore museum",
+          "hi": "कैबिनेट ने रबी में उर्वरक सब्सिडी 64% बढ़ाकर ₹62,370 करोड़ की, ₹3,230 करोड़ के संग्रहालय को मंजूरी"
         }
       },
       {
@@ -85,36 +107,14 @@
         }
       },
       {
-        "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
+        "link": "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
         "lead": {
-          "en": "BJP vs Congress:",
-          "hi": "भाजपा बनाम कांग्रेस:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "BJP asks whom Rahul Gandhi will meet in the US; Congress lists Columbia and Chicago talks",
-          "hi": "भाजपा का सवाल, अमेरिका में किससे मिलेंगे राहुल गांधी; कांग्रेस ने बताए कोलंबिया और शिकागो के कार्यक्रम"
-        }
-      },
-      {
-        "link": "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "lead": {
-          "en": "Banking:",
-          "hi": "बैंकिंग:"
-        },
-        "text": {
-          "en": "RBI meets bank chiefs today on new loan-loss rules as SBI puts the hit at ₹19,500 crore",
-          "hi": "आरबीआई आज बैंक प्रमुखों से मिलेगा, नए ऋण-हानि नियमों पर एसबीआई का अनुमान ₹19,500 करोड़ का झटका"
-        }
-      },
-      {
-        "link": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "lead": {
-          "en": "Astronomy:",
-          "hi": "खगोल विज्ञान:"
-        },
-        "text": {
-          "en": "Mysuru's tilted LED-dome planetarium, built over four years, to open on November 13",
-          "hi": "चार साल में बना मैसूरु का तिरछा एलईडी-डोम प्लैनेटेरियम 13 नवंबर को खुलेगा"
+          "en": "Modi to open Bengaluru Pink Line and launch Rs 15,600 crore of projects on Friday, then visit Ambaji temple",
+          "hi": "मोदी शुक्रवार को बेंगलुरु की पिंक लाइन खोलेंगे, ₹15,600 करोड़ की परियोजनाएं शुरू करेंगे, फिर अंबाजी मंदिर जाएंगे"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+      "id": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "also": []
     },
     "list": [
+      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+      "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
       "india-bans-export-lithium-ion-battery-black-mass",
-      "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
-      "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-      "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-      "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+      "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
     ],
     "also": [
-      "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-      "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+      "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
         "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
-        "chennithala-vigilance-probe-gyanesh-kumar-continues-new-petitions"
+        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike"
       ],
-      "lead": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+      "lead": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
     },
     {
       "section": "economy",
@@ -387,18 +387,18 @@
         ]
       },
       "list": [
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
         "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+        "sensex-nifty-close-november-9-highest-since-february-psu-banks",
+        "india-eu-strategic-partnership-review-fta-signing-brussels-december"
       ]
     },
     {
       "section": "states",
-      "lead": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+      "lead": "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
       "list": [
-        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
-        "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
+        "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+        "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
+        "kulgam-crpf-naka-attack-three-injured-nov-11"
       ]
     },
     {
@@ -422,7 +422,7 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-army-soldier-arrested-england-russia-national-security-act",
+      "lead": "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
       "list": [
         "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
         "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner",
@@ -431,21 +431,21 @@
     },
     {
       "section": "science",
-      "lead": "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
+      "lead": "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
       "list": [
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
         "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo",
+        "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31"
       ]
     },
     {
       "section": "sports",
-      "lead": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+      "lead": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "list": [
+        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
         "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
         "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
-        "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
-        "de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three"
+        "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
       ]
     }
   ],
@@ -523,20 +523,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T00:31:47+05:30",
-      "ids": [
-        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers",
-        "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
-        "sangrur-prtc-bus-flyover-crash-three-killed",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "kulgam-crpf-naka-attack-three-injured-nov-11",
-        "indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal",
-        "karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike",
-        "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14",
-        "booker-prize-2026-m-john-harrison-end-of-everything-oldest-winner"
-      ]
-    },
     {
       "at": "2026-11-12T04:22:39+05:30",
       "ids": [
@@ -639,6 +625,20 @@
         "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
         "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
         "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview"
+      ]
+    },
+    {
+      "at": "2026-11-12T14:26:10+05:30",
+      "ids": [
+        "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+        "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+        "india-bans-export-lithium-ion-battery-black-mass",
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
       ]
     }
   ],

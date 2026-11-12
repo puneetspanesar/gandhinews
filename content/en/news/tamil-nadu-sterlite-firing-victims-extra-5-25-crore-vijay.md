@@ -62,13 +62,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Official release not opened; figures agree across ThePrint/PTI, Deccan Chronicle and News Today. Release issued Wednesday November 11 evening; indexed November 12."
+    - "Official release not opened; figures agree across ThePrint/PTI, Deccan Chronicle and News Today. Release issued Wednesday November 11, 2026, evening; indexed November 12, 2026."
     - "Only News Today gives the totals of Rs 50 lakh and Rs 10 lakh and the collector instruction; both are arithmetic from the earlier payments in the other two."
     - "Commission's Rs 50 lakh / Rs 10 lakh proposal and report date (May 18, 2022) from The South First. DT Next article date not confirmed; the AG hearing and affidavit are described without a date. Death toll in South First varies (12 or 13); release says 13."
     - "No reaction from families or parties found yet."
 ---
 
-Tamil Nadu will pay **another ₹5.25 crore** to those hit by the 2018 Thoothukudi police firing. Chief Minister C. Joseph Vijay sanctioned the money in an order announced in a government release on Wednesday, November 11, for the families of 13 people killed and 40 people seriously injured when police opened fire on protesters against the Sterlite copper smelter on May 22 and 23, 2018.
+Tamil Nadu will pay **another ₹5.25 crore** to those hit by the 2018 Thoothukudi police firing. Chief Minister C. Joseph Vijay sanctioned the money in an order announced in a government release on Wednesday, November 11, 2026, for the families of 13 people killed and 40 people seriously injured when police opened fire on protesters against the Sterlite copper smelter on May 22 and 23, 2018.
 
 The release said the chief minister "compassionately examined" the appeals of affected families before approving the extra payment, which follows the recommendations of the Justice Aruna Jagadeesan Commission.
 
@@ -82,7 +82,7 @@ District authorities in Thoothukudi have been told to speed up verification and 
 
 ## How the firing happened
 
-Police fired on thousands of protesters marching towards the Thoothukudi Collector's office on May 22, 2018 in the agitation against the Sterlite Copper plant, and the violence continued the next day. The state **shut the plant permanently on May 28, 2018**. The Madras High Court upheld the closure in 2020 and the Supreme Court dismissed Vedanta's plea to reopen it in March 2024.
+Police fired on thousands of protesters marching towards the Thoothukudi Collector's office on May 22, 2018, in the agitation against the Sterlite Copper plant, and the violence continued the next day. The state **shut the plant permanently on May 28, 2018**. The Madras High Court upheld the closure in 2020 and the Supreme Court dismissed Vedanta's plea to reopen it on February 29, 2024.
 
 The Aruna Jagadeesan Commission, appointed on May 23, 2018, **submitted its final report on May 18, 2022**. It found that police used excessive force, named 17 police officers for accountability and faulted the then District Collector, N. Venkatesh, for failing to anticipate the protest. It recommended ₹50 lakh for each bereaved family and ₹10 lakh for each grievously injured person, along with departmental and, where applicable, criminal action.
 
