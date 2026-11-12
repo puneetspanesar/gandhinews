@@ -704,14 +704,14 @@ if __name__ == '__main__':
     for sid in ids:   # a story being made again does not count its own old collage
         if sid in M: M[sid].pop('treated', None)
     import datetime as _D
-    _week = (_D.datetime.now(_D.timezone.utc) - _D.timedelta(days=7)).isoformat()[:16]
+    _week = (_D.datetime.now(_D.timezone.utc) - _D.timedelta(hours=48)).isoformat()[:16]
     _pub = {}
     for f in glob.glob('content/en/*/*.md'):
         mm = re.search(r'^published: (\S+)', open(f).read(600), re.M)
         if mm: _pub[os.path.basename(f)[:-3]] = str(mm.group(1))
     for sk, x in M.items():
         for k in (x.get('treated') or {}).get('with', []): USED[k] = USED.get(k, 0) + 1
-        if _pub.get(sk, '') < _week: continue   # a picture may front another collage after 7 days
+        if _pub.get(sk, '') < _week: continue   # a picture may front another collage after 48 hours (owner, November 12)
         h = (x.get('treated') or {}).get('subj')
         if h: SUBJ_USED[int(h, 16)] = SUBJ_USED.get(int(h, 16), 0) + 1   # pictures already fronting a collage
     import time as _t

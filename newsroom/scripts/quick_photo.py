@@ -5,7 +5,7 @@ Usage (repo root):
 <subject> is a person, place or thing as photo captions name it ("Rahul Gandhi", "Bombay Stock Exchange", "Eden Park").
 --list   show the candidates (photo id, caption, last used) and stop. Look at them before picking.
 --pick   use that candidate. Without --pick, the best candidate is used: a photo of that subject alone,
-         not used by any story in the last 7 days (the owner's reuse rule), used least recently, largest.
+         not used by any story in the last 48 hours (the owner's reuse rule), used least recently, largest.
 The picture gets its own file (r-<story-id>-1280/640.jpg) and entries in content/photos.json and photos.map.json,
 so check:photos and the photo credits page treat it like any other photo.
 """
@@ -57,11 +57,11 @@ for p in P:
     if not os.path.exists(src): continue
     last = [pub[s] for s in set(uses.get(fileof(p.get('sourceUrl')), [])) if s in pub]
     lastu = max(last) if last else None
-    if lastu and (now - lastu).days < 7: continue
+    if lastu and (now - lastu).total_seconds() < 48 * 3600: continue
     cands.append((lastu or dt.datetime(2000, 1, 1, tzinfo=IST), -int(e.get('height') or 0), p, e))
 cands.sort(key=lambda c: (c[0], c[1]))
 if listing or not cands:
-    print(f'{len(cands)} usable photos of "{subject}" (not used in the last 7 days):')
+    print(f'{len(cands)} usable photos of "{subject}" (not used in the last 48 hours):')
     for lu, _, p, e in cands[:15]: print(f"  {p['id']}  last used {lu.date() if lu.year > 2000 else 'never'}  {p['alt'][:90]}  {e['src']}")
     if not cands: print('  none: use the photo finder, then an infographic.'); sys.exit(1)
     sys.exit(0)

@@ -17,7 +17,7 @@ for f in sorted(glob.glob(W + 'pcv*/photo-candidates/candidates.json')):
         pools.setdefault(q, []).append((d, k, v['candidates']))
 fileof = lambda u: urllib.parse.unquote(re.sub(r'/\d+px-[^/]+$', '', u.split('?')[0]).replace('/thumb/', '/')).split('/')[-1].lower()
 P = json.load(open(GN_ROOT + 'content/photos.json'))
-# Reuse rule: a photo is off limits only while another story that used it is less than 7 days old.
+# Reuse rule: a photo is off limits only while another story that used it is less than 48 hours old (owner, November 12).
 import datetime as _dt, glob as _g
 _pub = {}
 for _f in _g.glob(GN_ROOT + 'content/en/*/*.md'):
@@ -30,7 +30,7 @@ _story = lambda aid: re.sub(r'--(p\d+|bg|in|c)$', '', aid.split(':')[1] if aid.s
 def _recent(aid):
     t = _pub.get(_story(aid))
     if t is not None and t.tzinfo is None: t = t.replace(tzinfo=_now.tzinfo)
-    return t is None or (_now - t).days < 7
+    return t is None or (_now - t).total_seconds() < 48 * 3600
 taken = {fileof(p['sourceUrl']) for p in P if not p.get('composite') and p['articleId'].split(':')[1 if p['articleId'].startswith('part:') else 0] not in plan and _recent(p['articleId'])}
 used_before = {fileof(p['sourceUrl']) for p in P if not p.get('composite')}   # older uses: allowed, but a fresh photo is preferred
 BLOCK = {l.strip().lower() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) if l.strip() and not l.startswith('#')} if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) else set()

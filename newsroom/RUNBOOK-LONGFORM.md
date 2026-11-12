@@ -16,7 +16,7 @@ Write /home/claude/gn-work/window.txt: the date and time now, the window (since 
 Explainers carry 3 in-story visuals, editorials 1 or 2. Then `python3 newsroom/scripts/audit.py --new --skip photos,home,site,style` must pass, and commit locally.
 
 ## 2. Pictures
-RUNBOOK.md section C, tag `l<day><m|e>`. Explainers and editorials show the place, institution, object or person the piece is about; two pieces of the same run never share a picture, and none reuses a picture from the last 7 days. An infographic cover only under rule 11.
+RUNBOOK.md section C, tag `l<day><m|e>`. Explainers and editorials show the place, institution, object or person the piece is about; two pieces of the same run never share a picture, and none reuses a picture from the last 48 hours. An infographic cover only under rule 11.
 
 ## 3. Gate, editor, publish
 RUNBOOK.md sections D and E. Run name `longform-m` or `longform-e`. Commit message "Long-form morning|evening: N pieces ...". Message the owner only when a piece was held or the site could not be deployed.

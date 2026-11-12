@@ -2,12 +2,12 @@
 
   python3 newsroom/scripts/one_photo.py <story-id> <candidates-dir> <query-key> <n> "<English alt>" "<Hindi alt>"
   python3 newsroom/scripts/one_photo.py <story-id> --person "<name>"     from the people library (checked portraits;
-                                                                          the first one not used in the last 7 days)
+                                                                          the first one not used in the last 48 hours)
 
 <candidates-dir> is what `photos_gh.py find` printed (it holds photo-candidates/candidates.json); <query-key> and <n>
 pick the candidate you LOOKED AT. Alt text names what is in the picture; add "(file photo)" / "(फ़ाइल फ़ोटो)" when it is
 not from this event. Writes public/photos/<id>-1280.jpg and -640.jpg (original aspect ratio), then the entries.
-Refuses NC/ND licences, pictures under 900 px wide, and a source already used by a story in the last 7 days.
+Refuses NC/ND licences, pictures under 900 px wide, and a source already used by a story in the last 48 hours.
 """
 import json, os, re, sys, subprocess, datetime as dt, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -54,7 +54,7 @@ def why_not(c):
     for p in P:
         if fileof(p.get('sourceUrl')) == fileof(c['url']):
             s_ = re.sub(r'--(p\d+|bg|in|c)$', '', str(p.get('articleId', '')).replace('part:', '').split(':')[0])
-            if s_ in pub and s_ != sid and (now - pub[s_]).days < 7: return f'used by {s_} on {pub[s_]:%B %d} (the 7-day rule)'
+            if s_ in pub and s_ != sid and (now - pub[s_]).total_seconds() < 48 * 3600: return f'used by {s_} on {pub[s_]:%B %d} (the 48-hour rule)'
     return None
 reasons = [(c, why_not(c)) for c in cands]
 c = next((c for c, r in reasons if not r), None)

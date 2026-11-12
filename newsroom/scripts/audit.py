@@ -324,12 +324,12 @@ def check_photos(root, S, scope):
         people = [x for x in ((fm.get('hero') or {}).get('subjects') or []) if re.fullmatch(r'[A-Z][a-z.]+(?: [A-Z][a-z.]+){1,3}', str(x)) and not PLACE_WORDS.search(str(x))]
         if e.get('graphic') and people:
             inlib = [p for p in people if p in LIB_NAMES]
-            if inlib and sid in NEW_IDS and (fm.get('_pub') and fm['_pub'] >= NEWRULES) and '7-day' not in str(e.get('nophoto') or ''):
-                fail(G, f'photos.map.json[{sid}]', f'infographic used although {inlib[0]} has portraits in the people library: python3 newsroom/scripts/one_photo.py {sid} --person "{inlib[0]}" (if every portrait was used in the last 7 days, build a cover with lead_cover.py or say "7-day rule" in --nophoto)')
+            if inlib and sid in NEW_IDS and (fm.get('_pub') and fm['_pub'] >= NEWRULES) and not re.search(r'7-day|48-hour', str(e.get('nophoto') or '')):
+                fail(G, f'photos.map.json[{sid}]', f'infographic used although {inlib[0]} has portraits in the people library: python3 newsroom/scripts/one_photo.py {sid} --person "{inlib[0]}" (if every portrait was used in the last 48 hours, build a cover with lead_cover.py or say "48-hour rule" in --nophoto)')
             else: warn(G, f'photos.map.json[{sid}]', f'infographic used although the story is about {people[:2]} (rule 9: a named person gets a photo)')
         if any(re.search(r'\b(logo|screenshot|stock photo|watermark)\b', str(e.get(k) or ''), re.I) for k in ('alt',)):
             warn(G, f'photos.map.json[{sid}]', f'alt mentions a logo/screenshot: "{e.get("alt")[:80]}"')
-    # Reuse within 7 days: same source file, or a near-identical image, across ALL story types
+    # Reuse within 48 hours (owner, November 12): same source file, or a near-identical image, across ALL story types
     story_of = lambda aid: re.sub(r'--(p\d+|bg|in|c)$', '', str(aid).replace('part:', '').split(':')[0])
     by_src = defaultdict(set)
     for p in P:
@@ -339,11 +339,11 @@ def check_photos(root, S, scope):
         ss = sorted(s for s in stories if s in pub and (S['en'].get(s) or {}).get('type') in ('news', 'explainer', 'editorial', 'factcheck'))  # same story types as check-photos
         for i in range(len(ss)):
             for j in range(i + 1, len(ss)):
-                if (ss[i] in scope or ss[j] in scope) and abs((pub[ss[i]] - pub[ss[j]]).total_seconds()) < 7 * 86400:
-                    fail(G, src, f'same source photo in {ss[i]} and {ss[j]}, published less than 7 days apart')
+                if (ss[i] in scope or ss[j] in scope) and abs((pub[ss[i]] - pub[ss[j]]).total_seconds()) < 48 * 3600:
+                    fail(G, src, f'same source photo in {ss[i]} and {ss[j]}, published less than 48 hours apart')
     # Near-duplicate images (catches the same picture saved from a different URL or file name)
     hashes = {}
-    recent = [s for s in M if story_of(s) in pub and NOW - pub[story_of(s)] < dt.timedelta(days=7)]
+    recent = [s for s in M if story_of(s) in pub and NOW - pub[story_of(s)] < dt.timedelta(hours=48)]
     for s in recent:
         f = f'{root}/public{M[s].get("src800") or M[s].get("src")}'
         if M[s].get('graphic') or not os.path.exists(f): continue
@@ -351,7 +351,7 @@ def check_photos(root, S, scope):
         if h is None: continue
         for s2, h2 in hashes.items():
             if story_of(s2) != story_of(s) and bin(h ^ h2).count('1') <= 6 and (story_of(s) in scope or story_of(s2) in scope):
-                fail(G, f'photos.map.json[{s}]', f'looks like the same picture as {s2} (perceptual hash), within 7 days')
+                fail(G, f'photos.map.json[{s}]', f'looks like the same picture as {s2} (perceptual hash), within 48 hours')
         hashes[s] = h
     return M
 

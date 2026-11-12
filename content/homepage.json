@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "retail-inflation-october-2026-6-09-two-year-high",
+    "id": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
     "overlay": {
       "kicker": {
-        "en": "Economy / Inflation",
-        "hi": "अर्थव्यवस्था / महंगाई"
+        "en": "Policy / Union Cabinet",
+        "hi": "नीति / केंद्रीय मंत्रिमंडल"
       },
       "value": {
-        "en": "Retail inflation 6.09%, a 2-year high",
-        "hi": "खुदरा महंगाई 6.09%, दो साल में सबसे ऊंची"
+        "en": "Rabi fertiliser subsidy up 64%",
+        "hi": "रबी में उर्वरक सब्सिडी 64% ज्यादा"
       },
       "text": {
         "en": "",
@@ -17,17 +17,17 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
-      "daily-crr-rule-explained-banks-borrowers",
-      "imf-world-economic-outlook-explained-india-rbi"
+      "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
+      "farmer-id-explained-digital-agriculture-mission",
+      "kejriwal-e20-trump-pressure-ethanol-claim"
     ],
     "relatedBeside": [
       "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
     ],
     "live": {
       "title": {
-        "en": "Inflation",
-        "hi": "महंगाई"
+        "en": "Union Cabinet",
+        "hi": "केंद्रीय मंत्रिमंडल"
       }
     }
   },
@@ -56,6 +56,28 @@
         }
       },
       {
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+        }
+      },
+      {
+        "link": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "lead": {
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
+        },
+        "text": {
+          "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
+          "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
+        }
+      },
+      {
         "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
         "lead": {
           "en": "Awards:",
@@ -78,6 +100,17 @@
         }
       },
       {
+        "link": "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Saqib Khan takes seven on debut as Sri Lanka lose six for 42 and finish on 446 in Rawalpindi",
+          "hi": "डेब्यू पर साकिब खान के सात विकेट, श्रीलंका ने आखिरी छह विकेट 42 रन में गंवाए और रावलपिंडी में 446 पर सिमटी"
+        }
+      },
+      {
         "link": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
         "lead": {
           "en": "Uttar Pradesh:",
@@ -86,39 +119,6 @@
         "text": {
           "en": "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow",
           "hi": "उत्तराखंड महोत्सव में योगी का अखिलेश पर पलटवार, 'घुसपैठिए' वाले बयान को बताया विभाजनकारी सोच"
-        }
-      },
-      {
-        "link": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
-        "lead": {
-          "en": "Jammu and Kashmir:",
-          "hi": "जम्मू और कश्मीर:"
-        },
-        "text": {
-          "en": "Two missing Special Police Officers found shot dead in Kishtwar, service rifles gone",
-          "hi": "किश्तवाड़ में लापता दो विशेष पुलिस अधिकारी मृत मिले, सर्विस राइफलें गायब"
-        }
-      },
-      {
-        "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Hardik Pandya moves to Punjab Kings as Arshdeep Singh joins Mumbai Indians in IPL trade",
-          "hi": "आईपीएल ट्रेड: हार्दिक पंड्या पंजाब किंग्स में, अर्शदीप सिंह मुंबई इंडियंस में"
-        }
-      },
-      {
-        "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-        "lead": {
-          "en": "BJP vs Congress:",
-          "hi": "भाजपा बनाम कांग्रेस:"
-        },
-        "text": {
-          "en": "BJP asks whom Rahul Gandhi will meet in the US; Congress lists Columbia and Chicago talks",
-          "hi": "भाजपा का सवाल, अमेरिका में किससे मिलेंगे राहुल गांधी; कांग्रेस ने बताए कोलंबिया और शिकागो के कार्यक्रम"
         }
       }
     ]
@@ -190,15 +190,15 @@
       "also": []
     },
     "list": [
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
       "infosys-prize-2026-six-researchers-under-40-100000-each",
       "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
-      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
-      "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
+      "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test"
     ],
     "also": [
-      "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-      "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+      "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
     ]
   },
   "startHere": [
@@ -398,11 +398,11 @@
     },
     {
       "section": "states",
-      "lead": "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
+      "lead": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
       "list": [
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report",
-        "kulgam-crpf-naka-attack-three-injured-nov-11",
-        "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee"
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay",
+        "kishtwar-two-missing-spos-bodies-recovered-weapons-missing"
       ]
     },
     {
@@ -446,10 +446,10 @@
       "section": "sports",
       "lead": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
       "list": [
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
         "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
-        "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi"
+        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back"
       ]
     }
   ],
@@ -527,20 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T07:31:12+05:30",
-      "ids": [
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "india-test-camp-wellington-gill-rahul-nitish-nabi-gurnoor-stay-back",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "kulgam-crpf-naka-attack-three-injured-nov-11",
-        "haryana-sc-st-special-courts-five-districts-saini-vigilance-committee",
-        "india-saudi-haj-2027-quota-175025-rijiju-jeddah",
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
-      ]
-    },
     {
       "at": "2026-11-12T08:35:50+05:30",
       "ids": [
@@ -643,6 +629,23 @@
         "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
         "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
         "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+      ]
+    },
+    {
+      "at": "2026-11-12T19:18:40+05:30",
+      "ids": [
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
+        "farmer-id-explained-digital-agriculture-mission",
+        "kejriwal-e20-trump-pressure-ethanol-claim",
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
       ]
     }
   ],
