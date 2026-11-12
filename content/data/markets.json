@@ -1,416 +1,417 @@
 {
-  "as_of": "2026-11-11T16:20:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-11",
-  "chart": "nifty-50",
-  "indices": [
+ "as_of": "2026-11-12T09:15:00+05:30",
+ "status": "open",
+ "session_date": "2026-11-12",
+ "chart": "nifty-50",
+ "indices": [
+  {
+   "id": "sensex",
+   "name": "Sensex",
+   "name_hi": "सेंसेक्स",
+   "value": 81642.29,
+   "change": -237.11,
+   "pct": -0.29,
+   "history": [
     {
-      "id": "sensex",
-      "name": "Sensex",
-      "name_hi": "सेंसेक्स",
-      "value": 81879.4,
-      "change": 772.75,
-      "pct": 0.95,
-      "history": [
-        {
-          "date": "2026-09-30",
-          "close": 72480.29
-        },
-        {
-          "date": "2026-10-01",
-          "close": 71909.7
-        },
-        {
-          "date": "2026-10-05",
-          "close": 72382.47
-        },
-        {
-          "date": "2026-10-06",
-          "close": 73067.81
-        },
-        {
-          "date": "2026-10-07",
-          "close": 72638.7
-        },
-        {
-          "date": "2026-10-08",
-          "close": 71593.24
-        },
-        {
-          "date": "2026-10-09",
-          "close": 72472.33
-        },
-        {
-          "date": "2026-10-12",
-          "close": 71924.68
-        },
-        {
-          "date": "2026-10-13",
-          "close": 73003.78
-        },
-        {
-          "date": "2026-10-14",
-          "close": 72781.89
-        },
-        {
-          "date": "2026-10-15",
-          "close": 74315.61
-        },
-        {
-          "date": "2026-10-22",
-          "close": 73249.39
-        },
-        {
-          "date": "2026-10-23",
-          "close": 73123.83
-        },
-        {
-          "date": "2026-10-26",
-          "close": 73606.75
-        },
-        {
-          "date": "2026-10-27",
-          "close": 73598.67
-        },
-        {
-          "date": "2026-10-28",
-          "close": 73246.03
-        },
-        {
-          "date": "2026-10-29",
-          "close": 74151.04
-        },
-        {
-          "date": "2026-10-30",
-          "close": 74459.53
-        },
-        {
-          "date": "2026-11-02",
-          "close": 75692.78
-        },
-        {
-          "date": "2026-11-03",
-          "close": 76917.85
-        },
-        {
-          "date": "2026-11-04",
-          "close": 77301.4
-        },
-        {
-          "date": "2026-11-05",
-          "close": 79310.01
-        },
-        {
-          "date": "2026-11-06",
-          "close": 81028.02
-        },
-        {
-          "date": "2026-11-08",
-          "close": 80999.4
-        },
-        {
-          "date": "2026-11-09",
-          "close": 81106.65
-        },
-        {
-          "date": "2026-11-11",
-          "close": 81879.4
-        }
-      ],
-      "source": "https://www.chinimandi.com/sensex-up-770-points-nifty-above-25250/"
+     "date": "2026-09-30",
+     "close": 72480.29
     },
     {
-      "id": "nifty-50",
-      "name": "Nifty 50",
-      "name_hi": "निफ्टी 50",
-      "value": 25255.05,
-      "change": 210.4,
-      "pct": 0.84,
-      "history": [
-        {
-          "date": "2026-09-30",
-          "close": 22620.45
-        },
-        {
-          "date": "2026-10-01",
-          "close": 22421.95
-        },
-        {
-          "date": "2026-10-05",
-          "close": 22555.75
-        },
-        {
-          "date": "2026-10-06",
-          "close": 22776.1
-        },
-        {
-          "date": "2026-10-07",
-          "close": 22603.05
-        },
-        {
-          "date": "2026-10-08",
-          "close": 22231.8
-        },
-        {
-          "date": "2026-10-09",
-          "close": 22520.45
-        },
-        {
-          "date": "2026-10-12",
-          "close": 22363.35
-        },
-        {
-          "date": "2026-10-13",
-          "close": 22721.95
-        },
-        {
-          "date": "2026-10-14",
-          "close": 22622.7
-        },
-        {
-          "date": "2026-10-15",
-          "close": 22997.35
-        },
-        {
-          "date": "2026-10-16",
-          "close": 23146.15
-        },
-        {
-          "date": "2026-10-22",
-          "close": 22687.65
-        },
-        {
-          "date": "2026-10-23",
-          "close": 22600.0
-        },
-        {
-          "date": "2026-10-26",
-          "close": 22753.2
-        },
-        {
-          "date": "2026-10-27",
-          "close": 22749.75
-        },
-        {
-          "date": "2026-10-28",
-          "close": 22698.85
-        },
-        {
-          "date": "2026-10-29",
-          "close": 22936.75
-        },
-        {
-          "date": "2026-10-30",
-          "close": 23053.1
-        },
-        {
-          "date": "2026-11-02",
-          "close": 23440.8
-        },
-        {
-          "date": "2026-11-03",
-          "close": 23810.85
-        },
-        {
-          "date": "2026-11-04",
-          "close": 23960.6
-        },
-        {
-          "date": "2026-11-05",
-          "close": 24536.6
-        },
-        {
-          "date": "2026-11-06",
-          "close": 25030.35
-        },
-        {
-          "date": "2026-11-08",
-          "close": 24986.4
-        },
-        {
-          "date": "2026-11-09",
-          "close": 25044.65
-        },
-        {
-          "date": "2026-11-11",
-          "close": 25255.05
-        }
-      ],
-      "source": "https://www.chinimandi.com/sensex-up-770-points-nifty-above-25250/"
+     "date": "2026-10-01",
+     "close": 71909.7
     },
     {
-      "id": "nifty-bank",
-      "name": "Nifty Bank",
-      "name_hi": "निफ्टी बैंक",
-      "value": 56867.8,
-      "change": 954.2,
-      "pct": 1.71,
-      "history": [
-        {
-          "date": "2026-11-04",
-          "close": 55913.6
-        }
-      ],
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-5-2026-bse-sensex-nse-nifty-crude-oil-price-fii-enn26110501035"
+     "date": "2026-10-05",
+     "close": 72382.47
     },
     {
-      "id": "nifty-midcap-100",
-      "name": "Nifty Midcap 100",
-      "name_hi": "निफ्टी मिडकैप 100",
-      "value": 60620.9,
-      "change": null,
-      "pct": 1.87,
-      "history": [
-        {
-          "date": "2026-11-04",
-          "close": 59505.5
-        },
-        {
-          "date": "2026-11-05",
-          "close": 60620.9
-        }
-      ],
-      "source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324"
+     "date": "2026-10-06",
+     "close": 73067.81
     },
     {
-      "id": "india-vix",
-      "name": "India VIX",
-      "name_hi": "इंडिया VIX",
-      "value": 17.22,
-      "change": 1.64,
-      "pct": 10.53,
-      "history": [
-        {
-          "date": "2026-11-04",
-          "close": 15.19
-        }
-      ],
-      "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+     "date": "2026-10-07",
+     "close": 72638.7
+    },
+    {
+     "date": "2026-10-08",
+     "close": 71593.24
+    },
+    {
+     "date": "2026-10-09",
+     "close": 72472.33
+    },
+    {
+     "date": "2026-10-12",
+     "close": 71924.68
+    },
+    {
+     "date": "2026-10-13",
+     "close": 73003.78
+    },
+    {
+     "date": "2026-10-14",
+     "close": 72781.89
+    },
+    {
+     "date": "2026-10-15",
+     "close": 74315.61
+    },
+    {
+     "date": "2026-10-22",
+     "close": 73249.39
+    },
+    {
+     "date": "2026-10-23",
+     "close": 73123.83
+    },
+    {
+     "date": "2026-10-26",
+     "close": 73606.75
+    },
+    {
+     "date": "2026-10-27",
+     "close": 73598.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 73246.03
+    },
+    {
+     "date": "2026-10-29",
+     "close": 74151.04
+    },
+    {
+     "date": "2026-10-30",
+     "close": 74459.53
+    },
+    {
+     "date": "2026-11-02",
+     "close": 75692.78
+    },
+    {
+     "date": "2026-11-03",
+     "close": 76917.85
+    },
+    {
+     "date": "2026-11-04",
+     "close": 77301.4
+    },
+    {
+     "date": "2026-11-05",
+     "close": 79310.01
+    },
+    {
+     "date": "2026-11-06",
+     "close": 81028.02
+    },
+    {
+     "date": "2026-11-08",
+     "close": 80999.4
+    },
+    {
+     "date": "2026-11-09",
+     "close": 81106.65
+    },
+    {
+     "date": "2026-11-11",
+     "close": 81879.4
     }
-  ],
-  "rates": [
-    {
-      "id": "usd-inr",
-      "name": "Rupee per dollar",
-      "name_hi": "रुपया प्रति डॉलर",
-      "value": 93.69,
-      "change": -0.24,
-      "pct": -0.26,
-      "decimals": 2,
-      "unit": "",
-      "source": "https://www.chinimandi.com/sensex-up-770-points-nifty-above-25250/"
-    },
-    {
-      "id": "brent",
-      "name": "Brent crude",
-      "name_hi": "ब्रेंट क्रूड",
-      "unit": "$/barrel",
-      "unit_hi": "$/बैरल",
-      "value": 91.88,
-      "change": -0.17,
-      "pct": -0.18,
-      "decimals": 2,
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
-    },
-    {
-      "id": "gold",
-      "name": "Gold",
-      "name_hi": "सोना",
-      "unit": "₹/10 g, MCX",
-      "unit_hi": "₹/10 ग्राम, MCX",
-      "value": 142061,
-      "change": -2034,
-      "pct": -1.41,
-      "decimals": 0,
-      "source": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
-    },
-    {
-      "id": "silver",
-      "name": "Silver",
-      "name_hi": "चांदी",
-      "unit": "₹/kg, MCX",
-      "unit_hi": "₹/किलो, MCX",
-      "value": 184035,
-      "change": -3105,
-      "pct": -1.66,
-      "decimals": 0,
-      "source": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
-    },
-    {
-      "id": "gsec-10y",
-      "name": "10-year bond yield",
-      "name_hi": "10 साल के बॉन्ड पर यील्ड",
-      "unit": "%",
-      "unit_hi": "%",
-      "value": 7.401,
-      "change": 0.011,
-      "pct": null,
-      "decimals": 3,
-      "source": "https://tradingeconomics.com/india/government-bond-yield"
-    }
-  ],
-  "movers": {
-    "gainers": [
-      {
-        "name": "InterGlobe Aviation",
-        "pct": 5.43
-      },
-      {
-        "name": "Asian Paints",
-        "pct": 4.36
-      }
-    ],
-    "losers": [],
-    "source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324"
+   ],
+   "source": "https://www.kotakneo.com/news/market-news/stock-market-update-12-november-2026-sensex-nifty/"
   },
-  "sectors": [
+  {
+   "id": "nifty-50",
+   "name": "Nifty 50",
+   "name_hi": "निफ्टी 50",
+   "value": 25180.15,
+   "change": -74.9,
+   "pct": -0.3,
+   "history": [
     {
-      "name": "PSU Bank",
-      "name_hi": "सरकारी बैंक",
-      "pct": 3.7
+     "date": "2026-09-30",
+     "close": 22620.45
     },
     {
-      "name": "Pharma",
-      "name_hi": "फार्मा",
-      "pct": 1.65
+     "date": "2026-10-01",
+     "close": 22421.95
+    },
+    {
+     "date": "2026-10-05",
+     "close": 22555.75
+    },
+    {
+     "date": "2026-10-06",
+     "close": 22776.1
+    },
+    {
+     "date": "2026-10-07",
+     "close": 22603.05
+    },
+    {
+     "date": "2026-10-08",
+     "close": 22231.8
+    },
+    {
+     "date": "2026-10-09",
+     "close": 22520.45
+    },
+    {
+     "date": "2026-10-12",
+     "close": 22363.35
+    },
+    {
+     "date": "2026-10-13",
+     "close": 22721.95
+    },
+    {
+     "date": "2026-10-14",
+     "close": 22622.7
+    },
+    {
+     "date": "2026-10-15",
+     "close": 22997.35
+    },
+    {
+     "date": "2026-10-16",
+     "close": 23146.15
+    },
+    {
+     "date": "2026-10-22",
+     "close": 22687.65
+    },
+    {
+     "date": "2026-10-23",
+     "close": 22600.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 22753.2
+    },
+    {
+     "date": "2026-10-27",
+     "close": 22749.75
+    },
+    {
+     "date": "2026-10-28",
+     "close": 22698.85
+    },
+    {
+     "date": "2026-10-29",
+     "close": 22936.75
+    },
+    {
+     "date": "2026-10-30",
+     "close": 23053.1
+    },
+    {
+     "date": "2026-11-02",
+     "close": 23440.8
+    },
+    {
+     "date": "2026-11-03",
+     "close": 23810.85
+    },
+    {
+     "date": "2026-11-04",
+     "close": 23960.6
+    },
+    {
+     "date": "2026-11-05",
+     "close": 24536.6
+    },
+    {
+     "date": "2026-11-06",
+     "close": 25030.35
+    },
+    {
+     "date": "2026-11-08",
+     "close": 24986.4
+    },
+    {
+     "date": "2026-11-09",
+     "close": 25044.65
+    },
+    {
+     "date": "2026-11-11",
+     "close": 25255.05
     }
-  ],
-  "sectors_source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html (closing entries, 3:33 to 3:38 pm IST, November 9)",
-  "flows": {
-    "date": "2026-11-11",
-    "fii": 12563.33,
-    "dii": -8434.53,
-    "unit": "₹ crore",
-    "source": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
+   ],
+   "source": "https://www.kotakneo.com/news/market-news/stock-market-update-12-november-2026-sensex-nifty/"
   },
-  "notes": [
-    "5 Nov 17:15 IST (post-close check): Nov 5 Sensex and Nifty 50 closes confirmed present once each in history (22 and 23 sessions, under 30). India VIX Nov 4 history corrected 15.23 -> 15.19 (NSE close per Oquilia Market Pulse, Nov 2026 page; consistent with the 15.62 / +2.83% Nov 5 reading); Oquilia also confirms Nov 4 closes Nifty Bank 55,913.60 and Midcap 100 59,505.50. No Nov 5 closing figure found in a source read this run for Nifty Bank (level kept at earlier intraday read, Nov 5 not added to its history), India VIX (Nov 5 not added to history), Brent, MCX gold/silver, 10-year G-sec, Nifty losers or other sectors; old values kept. Rupee close 94.47 kept from the 16:05 read. Nov 5 FII/DII provisional not yet published (Trendlyne latest row 4 Nov), flows stay dated 4 Nov. ETV Bharat fetch not answered.",
-    "Nov 5, checked 18:30 IST (18:00 hourly run): no newer dated figures read (Nov 5 FII/DII page not readable this run); closing values and flows kept as they were.",
-    "FII/DII for Nov 5 not yet read (19:20 IST); Nov 4 flows shown.",
-    "6 Nov 09:25 IST (hourly 09:00): rupee 94.48 and Brent $99.41 from Tradebrains (09:16 IST); change against the previous stored readings. No post-open Sensex/Nifty level found in a readable source (Business Standard live blog failed to load), so indices keep the Nov 5 close and status closed.",
-    "hourly-10: Sensex and Nifty at about 10:00 am Nov 6 (Trade Brains live blog); Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (no dated source read this run).",
-    "hourly-11: Sensex, Nifty at 11:00 am (Business Standard live blog); MCX gold and silver at about 10:45 am (Business Today). Nifty Bank, Midcap, VIX, rupee, Brent, yield, movers, sectors keep earlier values (no dated source read this run).",
-    "Nov 6 12:00 IST (hourly-12): Sensex, Nifty 50 at 12 pm and rupee 94.066 at 12:10 pm from the Business Standard live blog; Nifty Bank, Midcap, VIX, Brent, gold, silver, yield, movers and sectors keep earlier values (no dated figure read).",
-    "15:00 run: no dated figure after the 2 pm levels read (live blog fetch refused); values unchanged.",
-    "6 Nov 16:20 IST (hourly 16:00): Sensex and Nifty 50 closing values from ANI via The Tribune (3:52 pm IST), confirmed by Free Press Journal; appended to history. Nifty Bank, other indices, rupee, rates, movers, sectors and Nov 6 FII/DII flows not found in a dated source this run; earlier values kept.",
-    "6 Nov 16:32 IST: Brent 96.99 from ANI at the Indian close (was 99.41 pre-open); change taken against the previous close implied by the pre-open entry (93.46).",
-    "6 Nov 18:25 IST (hourly-18): rupee close 93.89 (provisional, up 52 paise from 94.41; PTI via HDFC Sky). Nifty Bank up 2.27% to an eight-month high but no level read, kept. Nov 6 FII/DII not yet published; Nov 5 flows kept.",
-    "6 Nov 21:25 IST (hourly 21:00): closing values kept; no dated November 6 FII/DII flow figure found in a source read this run, flows keep November 5.",
-    "8 Nov 16:20 IST (hourly 16:00): Muhurat trading (Samvat 2083) close, Sensex 80,999.40 (-28.62, -0.04%) and Nifty 50 24,986.40 (-43.95, -0.18%) from Business Standard (3:33 pm) and India TV (4:00 pm), matching Upstox; appended to history. Other indices, rates, movers, sectors and flows keep earlier values (no dated Muhurat figure read).",
-    "9 Nov 10:25 IST (hourly 10): Sensex, Nifty 50 at 10:00 am and sectors at 9:24 am from Business Standard live blog; Brent from PTI copy 10:14 am. Nifty Bank, Midcap, VIX, rupee, gold, silver, yield and movers with % not found in a source read this run: old values kept.",
-    "9 Nov 14:40 IST (hourly 14): Sensex 80,858 (-141.40, -0.17%) and Nifty 50 24,945.55 at 2:00 pm from the Business Standard live blog (blog gives Nifty -54.80, inconsistent with the 24,986.40 Muhurat close, so change worked out against that close). Other indices, rates, movers, sectors and flows keep earlier values (no dated figure with levels read).",
-    "9 Nov 16:20 IST (hourly 16:00): Sensex 81,106.65 (+107.25, +0.13%) and Nifty 50 25,044.65 (+58.25, +0.23%) closes and PSU Bank +3.7%, Pharma +1.65% from the Business Standard live blog closing entries read this run; Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept from earlier reads (no closing figure found in a source read this run).",
-    "10 Nov 06:25 IST (hourly 06): BSE and NSE closed Tuesday November 10 for Diwali Balipratipada (exchange holiday notice relayed by All India Radio, Nov 9 5:10 pm); Monday Nov 9 closing values kept, status closed.",
-    "10 Nov 10:30 IST (hourly 10): exchange holiday for Diwali Balipratipada confirmed again (Goodreturns holiday note read this run); Nov 9 closing values kept, status closed.",
-    "10 Nov 14:35 IST (hourly 14): exchange holiday for Diwali Balipratipada (BusinessToday and Goodreturns holiday notes read this run); Nov 9 closing values kept, status closed.",
-    "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run.",
-    "11 Nov 09:25 IST (stall-09): Sensex 82,248 (+1,142, +1.41%) at 9:05 am and Nifty 50 25,337 (+293, +1.17%) at 9:13 am pre-open; rupee opened 93.72 (from Monday close 93.93) at 8:50 am; Brent January futures $91.88 (-0.18%) at 8:25 am; all from the Business Standard live blog read this run. Nifty Bank, Midcap, VIX, gold, silver, yield, movers, sectors and flows keep earlier values (not on the page).",
-    "11 Nov 15:00 IST (stall-14): Sensex 81,991.98 and Nifty 50 25,279.80 in early afternoon trade (NewsBytes, published 1:25 pm IST, read this run); change worked out against the Nov 9 closes. Business Standard live blog read this run stops at 10:20 am. Nifty Bank, Midcap, VIX, rates, movers, sectors and flows keep earlier values (no afternoon figure read). Status set to closed after the 3:30 pm close; the values shown are the early-afternoon reading, not the close (no closing figure read yet), and no close was added to history.",
-    "11 Nov 16:20 IST: Sensex 81,879.40 (+772.75) and Nifty 25,255.05 (+210.40) closes and rupee 93.69 from chinimandi close report; Nov 11 appended to history. Other indices, Brent, gold, sectors and flows kept from earlier reads (NSE, BSE blocked).",
-    "11 Nov 20:20 IST (hourly 20): Nov 11 provisional cash flows FII +12,563.33 crore, DII -8,434.53 crore from the Tapetide November flows table (updated Nov 11) read this run. Movers and sectors for Nov 11 not found in a dated source read this run; earlier values kept.",
-    "11 Nov 22:25 IST (hourly 22): no dated November 11, 2026 movers or sector figures found in a source read this run (search returned 2025 pages); closing values, flows and earlier movers kept."
+  {
+   "id": "nifty-bank",
+   "name": "Nifty Bank",
+   "name_hi": "निफ्टी बैंक",
+   "value": 56867.8,
+   "change": 954.2,
+   "pct": 1.71,
+   "history": [
+    {
+     "date": "2026-11-04",
+     "close": 55913.6
+    }
+   ],
+   "source": "https://www.etvbharat.com/en/business/stock-market-on-november-5-2026-bse-sensex-nse-nifty-crude-oil-price-fii-enn26110501035"
+  },
+  {
+   "id": "nifty-midcap-100",
+   "name": "Nifty Midcap 100",
+   "name_hi": "निफ्टी मिडकैप 100",
+   "value": 60620.9,
+   "change": null,
+   "pct": 1.87,
+   "history": [
+    {
+     "date": "2026-11-04",
+     "close": 59505.5
+    },
+    {
+     "date": "2026-11-05",
+     "close": 60620.9
+    }
+   ],
+   "source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324"
+  },
+  {
+   "id": "india-vix",
+   "name": "India VIX",
+   "name_hi": "इंडिया VIX",
+   "value": 17.22,
+   "change": 1.64,
+   "pct": 10.53,
+   "history": [
+    {
+     "date": "2026-11-04",
+     "close": 15.19
+    }
+   ],
+   "source": "https://business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+  }
+ ],
+ "rates": [
+  {
+   "id": "usd-inr",
+   "name": "Rupee per dollar",
+   "name_hi": "रुपया प्रति डॉलर",
+   "value": 93.69,
+   "change": -0.24,
+   "pct": -0.26,
+   "decimals": 2,
+   "unit": "",
+   "source": "https://www.chinimandi.com/sensex-up-770-points-nifty-above-25250/"
+  },
+  {
+   "id": "brent",
+   "name": "Brent crude",
+   "name_hi": "ब्रेंट क्रूड",
+   "unit": "$/barrel",
+   "unit_hi": "$/बैरल",
+   "value": 91.88,
+   "change": -0.17,
+   "pct": -0.18,
+   "decimals": 2,
+   "source": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+  },
+  {
+   "id": "gold",
+   "name": "Gold",
+   "name_hi": "सोना",
+   "unit": "₹/10 g, MCX",
+   "unit_hi": "₹/10 ग्राम, MCX",
+   "value": 142061,
+   "change": -2034,
+   "pct": -1.41,
+   "decimals": 0,
+   "source": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
+  },
+  {
+   "id": "silver",
+   "name": "Silver",
+   "name_hi": "चांदी",
+   "unit": "₹/kg, MCX",
+   "unit_hi": "₹/किलो, MCX",
+   "value": 184035,
+   "change": -3105,
+   "pct": -1.66,
+   "decimals": 0,
+   "source": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06"
+  },
+  {
+   "id": "gsec-10y",
+   "name": "10-year bond yield",
+   "name_hi": "10 साल के बॉन्ड पर यील्ड",
+   "unit": "%",
+   "unit_hi": "%",
+   "value": 7.401,
+   "change": 0.011,
+   "pct": null,
+   "decimals": 3,
+   "source": "https://tradingeconomics.com/india/government-bond-yield"
+  }
+ ],
+ "movers": {
+  "gainers": [
+   {
+    "name": "InterGlobe Aviation",
+    "pct": 5.43
+   },
+   {
+    "name": "Asian Paints",
+    "pct": 4.36
+   }
   ],
-  "holidays": [
-    "2026-11-10"
-  ]
+  "losers": [],
+  "source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324"
+ },
+ "sectors": [
+  {
+   "name": "PSU Bank",
+   "name_hi": "सरकारी बैंक",
+   "pct": 3.7
+  },
+  {
+   "name": "Pharma",
+   "name_hi": "फार्मा",
+   "pct": 1.65
+  }
+ ],
+ "sectors_source": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html (closing entries, 3:33 to 3:38 pm IST, November 9)",
+ "flows": {
+  "date": "2026-11-11",
+  "fii": 12563.33,
+  "dii": -8434.53,
+  "unit": "₹ crore",
+  "source": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
+ },
+ "notes": [
+  "5 Nov 17:15 IST (post-close check): Nov 5 Sensex and Nifty 50 closes confirmed present once each in history (22 and 23 sessions, under 30). India VIX Nov 4 history corrected 15.23 -> 15.19 (NSE close per Oquilia Market Pulse, Nov 2026 page; consistent with the 15.62 / +2.83% Nov 5 reading); Oquilia also confirms Nov 4 closes Nifty Bank 55,913.60 and Midcap 100 59,505.50. No Nov 5 closing figure found in a source read this run for Nifty Bank (level kept at earlier intraday read, Nov 5 not added to its history), India VIX (Nov 5 not added to history), Brent, MCX gold/silver, 10-year G-sec, Nifty losers or other sectors; old values kept. Rupee close 94.47 kept from the 16:05 read. Nov 5 FII/DII provisional not yet published (Trendlyne latest row 4 Nov), flows stay dated 4 Nov. ETV Bharat fetch not answered.",
+  "Nov 5, checked 18:30 IST (18:00 hourly run): no newer dated figures read (Nov 5 FII/DII page not readable this run); closing values and flows kept as they were.",
+  "FII/DII for Nov 5 not yet read (19:20 IST); Nov 4 flows shown.",
+  "6 Nov 09:25 IST (hourly 09:00): rupee 94.48 and Brent $99.41 from Tradebrains (09:16 IST); change against the previous stored readings. No post-open Sensex/Nifty level found in a readable source (Business Standard live blog failed to load), so indices keep the Nov 5 close and status closed.",
+  "hourly-10: Sensex and Nifty at about 10:00 am Nov 6 (Trade Brains live blog); Nifty Bank, Midcap, VIX, rates, movers and sectors keep earlier values (no dated source read this run).",
+  "hourly-11: Sensex, Nifty at 11:00 am (Business Standard live blog); MCX gold and silver at about 10:45 am (Business Today). Nifty Bank, Midcap, VIX, rupee, Brent, yield, movers, sectors keep earlier values (no dated source read this run).",
+  "Nov 6 12:00 IST (hourly-12): Sensex, Nifty 50 at 12 pm and rupee 94.066 at 12:10 pm from the Business Standard live blog; Nifty Bank, Midcap, VIX, Brent, gold, silver, yield, movers and sectors keep earlier values (no dated figure read).",
+  "15:00 run: no dated figure after the 2 pm levels read (live blog fetch refused); values unchanged.",
+  "6 Nov 16:20 IST (hourly 16:00): Sensex and Nifty 50 closing values from ANI via The Tribune (3:52 pm IST), confirmed by Free Press Journal; appended to history. Nifty Bank, other indices, rupee, rates, movers, sectors and Nov 6 FII/DII flows not found in a dated source this run; earlier values kept.",
+  "6 Nov 16:32 IST: Brent 96.99 from ANI at the Indian close (was 99.41 pre-open); change taken against the previous close implied by the pre-open entry (93.46).",
+  "6 Nov 18:25 IST (hourly-18): rupee close 93.89 (provisional, up 52 paise from 94.41; PTI via HDFC Sky). Nifty Bank up 2.27% to an eight-month high but no level read, kept. Nov 6 FII/DII not yet published; Nov 5 flows kept.",
+  "6 Nov 21:25 IST (hourly 21:00): closing values kept; no dated November 6 FII/DII flow figure found in a source read this run, flows keep November 5.",
+  "8 Nov 16:20 IST (hourly 16:00): Muhurat trading (Samvat 2083) close, Sensex 80,999.40 (-28.62, -0.04%) and Nifty 50 24,986.40 (-43.95, -0.18%) from Business Standard (3:33 pm) and India TV (4:00 pm), matching Upstox; appended to history. Other indices, rates, movers, sectors and flows keep earlier values (no dated Muhurat figure read).",
+  "9 Nov 10:25 IST (hourly 10): Sensex, Nifty 50 at 10:00 am and sectors at 9:24 am from Business Standard live blog; Brent from PTI copy 10:14 am. Nifty Bank, Midcap, VIX, rupee, gold, silver, yield and movers with % not found in a source read this run: old values kept.",
+  "9 Nov 14:40 IST (hourly 14): Sensex 80,858 (-141.40, -0.17%) and Nifty 50 24,945.55 at 2:00 pm from the Business Standard live blog (blog gives Nifty -54.80, inconsistent with the 24,986.40 Muhurat close, so change worked out against that close). Other indices, rates, movers, sectors and flows keep earlier values (no dated figure with levels read).",
+  "9 Nov 16:20 IST (hourly 16:00): Sensex 81,106.65 (+107.25, +0.13%) and Nifty 50 25,044.65 (+58.25, +0.23%) closes and PSU Bank +3.7%, Pharma +1.65% from the Business Standard live blog closing entries read this run; Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept from earlier reads (no closing figure found in a source read this run).",
+  "10 Nov 06:25 IST (hourly 06): BSE and NSE closed Tuesday November 10 for Diwali Balipratipada (exchange holiday notice relayed by All India Radio, Nov 9 5:10 pm); Monday Nov 9 closing values kept, status closed.",
+  "10 Nov 10:30 IST (hourly 10): exchange holiday for Diwali Balipratipada confirmed again (Goodreturns holiday note read this run); Nov 9 closing values kept, status closed.",
+  "10 Nov 14:35 IST (hourly 14): exchange holiday for Diwali Balipratipada (BusinessToday and Goodreturns holiday notes read this run); Nov 9 closing values kept, status closed.",
+  "10 Nov 18:20 IST (hourly 18): exchange holiday (Diwali Balipratipada); Nov 9 closing values kept, status closed. Nov 9 provisional cash flows FII +7,212.22 crore, DII -7,172.53 crore from the Tapetide November flows table (compiled from exchange disclosures, updated Nov 9) read this run.",
+  "11 Nov 09:25 IST (stall-09): Sensex 82,248 (+1,142, +1.41%) at 9:05 am and Nifty 50 25,337 (+293, +1.17%) at 9:13 am pre-open; rupee opened 93.72 (from Monday close 93.93) at 8:50 am; Brent January futures $91.88 (-0.18%) at 8:25 am; all from the Business Standard live blog read this run. Nifty Bank, Midcap, VIX, gold, silver, yield, movers, sectors and flows keep earlier values (not on the page).",
+  "11 Nov 15:00 IST (stall-14): Sensex 81,991.98 and Nifty 50 25,279.80 in early afternoon trade (NewsBytes, published 1:25 pm IST, read this run); change worked out against the Nov 9 closes. Business Standard live blog read this run stops at 10:20 am. Nifty Bank, Midcap, VIX, rates, movers, sectors and flows keep earlier values (no afternoon figure read). Status set to closed after the 3:30 pm close; the values shown are the early-afternoon reading, not the close (no closing figure read yet), and no close was added to history.",
+  "11 Nov 16:20 IST: Sensex 81,879.40 (+772.75) and Nifty 25,255.05 (+210.40) closes and rupee 93.69 from chinimandi close report; Nov 11 appended to history. Other indices, Brent, gold, sectors and flows kept from earlier reads (NSE, BSE blocked).",
+  "11 Nov 20:20 IST (hourly 20): Nov 11 provisional cash flows FII +12,563.33 crore, DII -8,434.53 crore from the Tapetide November flows table (updated Nov 11) read this run. Movers and sectors for Nov 11 not found in a dated source read this run; earlier values kept.",
+  "11 Nov 22:25 IST (hourly 22): no dated November 11, 2026 movers or sector figures found in a source read this run (search returned 2025 pages); closing values, flows and earlier movers kept.",
+  "12 Nov 10:30 IST (hourly 10): Sensex 81,642.29 (-237.11, -0.29%) and Nifty 50 25,180.15 (-74.90, -0.30%) at about 9:15 am from Kotak Neo market update (posted 9:49 am) read this run. Nifty Bank, Midcap, VIX, rates, movers, sectors keep earlier values (not on the page)."
+ ],
+ "holidays": [
+  "2026-11-10"
+ ]
 }
