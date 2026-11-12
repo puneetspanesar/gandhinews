@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+    "id": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
     "overlay": {
       "kicker": {
-        "en": "World / Climate",
-        "hi": "दुनिया / जलवायु"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "'Fossils must go the way of the dinosaurs'",
-        "hi": "'जीवाश्म ईंधन डायनासोर की राह जाएं'"
+        "en": "₹12.14 lakh crore of deals lined up",
+        "hi": "₹12.14 लाख करोड़ के सौदे तैयार"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Climate",
-        "hi": "जलवायु"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       }
     }
   },
@@ -60,6 +60,17 @@
         "text": {
           "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
           "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
+        }
+      },
+      {
+        "link": "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "Guterres tells COP31 leaders fossil fuels must 'go the way of the dinosaurs' as top emitters stay away",
+          "hi": "सबसे बड़े उत्सर्जक देश नहीं आए, गुटेरेस बोले जीवाश्म ईंधन को डायनासोर की राह जाना होगा"
         }
       },
       {
@@ -104,17 +115,6 @@
         "text": {
           "en": "Centre bans export of lithium-ion battery black mass with immediate effect",
           "hi": "केंद्र ने लिथियम-आयन बैटरी ब्लैक मास के निर्यात पर तत्काल रोक लगाई"
-        }
-      },
-      {
-        "link": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-        "lead": {
-          "en": "Union Cabinet:",
-          "hi": "केंद्रीय मंत्रिमंडल:"
-        },
-        "text": {
-          "en": "Cabinet raises rabi fertiliser subsidy 64% to ₹62,370 crore, clears ₹3,230 crore museum",
-          "hi": "कैबिनेट ने रबी में उर्वरक सब्सिडी 64% बढ़ाकर ₹62,370 करोड़ की, ₹3,230 करोड़ के संग्रहालय को मंजूरी"
         }
       }
     ]
@@ -187,14 +187,14 @@
     },
     "list": [
       "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
       "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
       "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-      "india-bans-export-lithium-ion-battery-black-mass"
+      "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
     ],
     "also": [
-      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-      "us-army-soldier-arrested-england-russia-national-security-act"
+      "india-bans-export-lithium-ion-battery-black-mass",
+      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
     ]
   },
   "startHere": [
@@ -628,17 +628,17 @@
       ]
     },
     {
-      "at": "2026-11-12T16:34:52+05:30",
+      "at": "2026-11-12T16:58:19+05:30",
       "ids": [
-        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
+        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
         "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
         "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "india-bans-export-lithium-ion-battery-black-mass",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+        "india-bans-export-lithium-ion-battery-black-mass"
       ]
     }
   ],

@@ -1,0 +1,15 @@
+{
+ "run": "stall-16",
+ "start": "2026-11-12T16:54:06+05:30",
+ "end": "2026-11-12T17:05:26+05:30",
+ "summary": "Lead rotated off Guterres COP31 (rule 13 repeat) to CII Partnership Summit",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "lead is over 6 hours old: the next writing run must publish a fresh lead story: cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+ ],
+ "lead": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+}
