@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+    "id": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
     "overlay": {
       "kicker": {
-        "en": "Policy / Agriculture",
-        "hi": "नीति / कृषि"
+        "en": "World / US-China",
+        "hi": "दुनिया / अमेरिका-चीन"
       },
       "value": {
-        "en": "'We are destroying Mother Earth'",
-        "hi": "'हम धरती माता को नष्ट कर रहे हैं'"
+        "en": "Rubio, Wang Yi talk before Shenzhen",
+        "hi": "शेनझेन से पहले रुबियो, वांग यी की बात"
       },
       "text": {
         "en": "",
@@ -16,33 +16,19 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "msp-explained-how-set-who-benefits"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
+      "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
     ],
     "live": {
       "title": {
-        "en": "Agriculture",
-        "hi": "कृषि"
+        "en": "US-China",
+        "hi": "अमेरिका-चीन"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "lead": {
-          "en": "US-China:",
-          "hi": "अमेरिका-चीन:"
-        },
-        "text": {
-          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
-          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
-        }
-      },
       {
         "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "lead": {
@@ -74,6 +60,17 @@
         "text": {
           "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
           "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
+        }
+      },
+      {
+        "link": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Putin hosts Witkoff and Kushner in Moscow; Kremlin calls talks 'constructive' and agrees to plan a Kostiantynivka humanitarian mission",
+          "hi": "पुतिन ने मॉस्को में विटकॉफ और कुशनर से की बातचीत; क्रेमलिन ने कहा 'रचनात्मक', कोस्तियंतिनिव्का में मानवीय मिशन पर संपर्क शुरू होंगे"
         }
       },
       {
@@ -110,14 +107,14 @@
         }
       },
       {
-        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "link": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
         "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
+          "en": "Southeast Asia:",
+          "hi": "दक्षिण-पूर्व एशिया:"
         },
         "text": {
-          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
-          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
+          "en": "Indonesia's vice president Gibran resigns hours before an impeachment hearing over his school diploma",
+          "hi": "महाभियोग की सुनवाई से कुछ घंटे पहले इंडोनेशिया के उपराष्ट्रपति गिब्रान ने इस्तीफा दिया"
         }
       }
     ]
@@ -185,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+      "id": "aap-second-list-31-punjab-mlas-dropped-two-mps",
       "also": []
     },
     "list": [
-      "aap-second-list-31-punjab-mlas-dropped-two-mps",
       "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+      "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
       "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
       "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
       "india-a-women-squads-england-a-shreyanka-patil-recalled"
     ],
     "also": [
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-      "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
+      "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+      "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
     ]
   },
   "startHere": [
@@ -400,8 +397,8 @@
       "lead": "aap-second-list-31-punjab-mlas-dropped-two-mps",
       "list": [
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
       ]
     },
     {
@@ -409,8 +406,8 @@
       "lead": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
       "list": [
         "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha",
-        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "india-cuts-visa-categories-13-to-9-form-fields-mha"
       ]
     },
     {
@@ -428,8 +425,8 @@
       "lead": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
       "list": [
         "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "modi-asean-india-summit-manila-november-16-18"
+        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
+        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
       ]
     },
     {
@@ -460,10 +457,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -527,20 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T16:58:19+05:30",
-      "ids": [
-        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
-        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "india-bans-export-lithium-ion-battery-black-mass"
-      ]
-    },
     {
       "at": "2026-11-12T18:54:40+05:30",
       "ids": [
@@ -648,6 +631,20 @@
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+      ]
+    },
+    {
+      "at": "2026-11-13T01:56:38+05:30",
+      "ids": [
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "aap-second-list-31-punjab-mlas-dropped-two-mps",
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
+        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+        "india-a-women-squads-england-a-shreyanka-patil-recalled",
+        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
       ]
     }
   ],
