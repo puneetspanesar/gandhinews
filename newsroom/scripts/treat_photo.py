@@ -168,7 +168,7 @@ INSTITUTION = [  # story words -> Indian institutions and settings that belong w
     (r'Naxal|Maoist|CRPF|CoBRA|security forces|insurg', r'CRPF|BSF|jawans|troops|soldiers|Bastar|Dantewada|Sukma'),
     (r'Election Commission|ECI|\bCEC\b|EVM|SIR\b|voter|electoral roll|delimitation|ballot|polling', r'Nirvachan|Election Commission|polling|voter|ballot|inked finger|Indelible'),
     (r'talks|summit|visit|bilateral|diplomat|ambassador|envoy|phone call|speaks to|Jaishankar|MEA|treaty|partnership', r'Hyderabad House|External Affairs|South Block|diplomat|summit'),
-    (r'BJP|Congress|party|election|poll|vote|Lok Sabha|Rajya Sabha|MP\b|MLA|opposition|rally|campaign', r'Parliament|Election Commission|Nirvachan|polling|Vidhan|Lok Sabha|Rajya Sabha'),
+    (r'BJP|Congress|party|election|polls?\b|vote|Lok Sabha|Rajya Sabha|MP\b|MLA|opposition|rally|campaign', r'Parliament|Election Commission|Nirvachan|polling|Vidhan|Lok Sabha|Rajya Sabha'),
     (r'court|judge|bench|bail|petition|verdict|hearing|Supreme Court|High Court', r'Supreme Court|High Court|court'),
     (r'Sensex|Nifty|shares|market|stock|SEBI|IPO|profit|revenue|quarter|Q[1-4]', r'Stock Exchange|BSE|NSE|Dalal|exchange'),
     (r'RBI|rupee|inflation|bank|GDP|Budget|tax|GST|fiscal', r'Reserve Bank|North Block|bank'),

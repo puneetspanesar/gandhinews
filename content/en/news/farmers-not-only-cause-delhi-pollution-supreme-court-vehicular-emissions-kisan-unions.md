@@ -100,7 +100,7 @@ According to the account of the hearing, the bench also questioned placing the w
 Both unions said solutions should be practical, incentive-based and fair, and that stubble burning should still be reduced.
 
 ```photo
-{"n":1,"subject":"Stubble burning Punjab","caption":"Farmers clearing crop residue in a Punjab field: the court says farm fires have fallen sharply, though farm unions say they were never the main cause.","alt":"Farmers clearing crop residue in a field in Punjab (file photo)"}
+{"n":1,"subject":"Stubble burning Punjab","caption":"Farmers clearing crop residue in a Punjab field: the court says farm fires have fallen sharply, though farm unions say they were never the main cause.","alt":"Crop residue being cleared from a field in Punjab (file photo)"}
 ```
 
 ## What the numbers say
