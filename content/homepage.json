@@ -41,6 +41,17 @@
         }
       },
       {
+        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
+          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
+        }
+      },
+      {
         "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "lead": {
           "en": "Maharashtra:",
@@ -60,17 +71,6 @@
         "text": {
           "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
           "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
-        }
-      },
-      {
-        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
-          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
         }
       },
       {
@@ -182,12 +182,12 @@
   },
   "topStories": {
     "big": {
-      "id": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+      "id": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
       "also": []
     },
     "list": [
+      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
       "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-      "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
       "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
       "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
       "infosys-prize-2026-six-researchers-under-40-100000-each"
@@ -631,13 +631,13 @@
       ]
     },
     {
-      "at": "2026-11-12T20:40:01+05:30",
+      "at": "2026-11-12T20:57:28+05:30",
       "ids": [
         "modi-asean-india-summit-manila-november-16-18",
         "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "infosys-prize-2026-six-researchers-under-40-100000-each",
