@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-asean-india-summit-manila-november-16-18",
+    "id": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
     "overlay": {
       "kicker": {
-        "en": "World / Southeast Asia",
-        "hi": "दुनिया / दक्षिण-पूर्व एशिया"
+        "en": "Politics / Parliament",
+        "hi": "राजनीति / संसद"
       },
       "value": {
-        "en": "Manila, November 16 to 18",
-        "hi": "मनीला, 16 से 18 नवंबर"
+        "en": "Special Session for delimitation Bill",
+        "hi": "परिसीमन विधेयक पर विशेष सत्र"
       },
       "text": {
         "en": "",
@@ -16,14 +16,18 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "goa-st-seat-reservation-explained-supreme-court",
+      "special-session-of-parliament-explained-shah-offer-cec-removal",
+      "cec-removal-belongs-in-parliament-call-the-special-session"
+    ],
     "relatedBeside": [
       "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
     ],
     "live": {
       "title": {
-        "en": "Southeast Asia",
-        "hi": "दक्षिण-पूर्व एशिया"
+        "en": "Parliament",
+        "hi": "संसद"
       }
     }
   },
@@ -38,17 +42,6 @@
         "text": {
           "en": "Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies",
           "hi": "भूपेंद्र यादव ने इस्पात, सीमेंट और परिवहन कंपनियों से कहा: भारत की जलवायु कार्रवाई सरकार, उद्योग और शिक्षा जगत के सहयोग पर टिकी, लीडआईटी में अब 19 देश और 33 कंपनियां"
-        }
-      },
-      {
-        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
-          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
         }
       },
       {
@@ -71,6 +64,28 @@
         "text": {
           "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
           "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
+        }
+      },
+      {
+        "link": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran says two supertankers with 4 million barrels are ablaze in Hormuz, as India's Gulf crude imports overtake Russia's",
+          "hi": "ईरान का दावा: होर्मुज में 40 लाख बैरल तेल वाले दो सुपरटैंकर जल रहे, उधर भारत के खाड़ी तेल आयात ने रूस को पीछे छोड़ा"
+        }
+      },
+      {
+        "link": "retail-inflation-october-2026-6-09-two-year-high",
+        "lead": {
+          "en": "Inflation:",
+          "hi": "महंगाई:"
+        },
+        "text": {
+          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
+          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
         }
       },
       {
@@ -104,17 +119,6 @@
         "text": {
           "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
           "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
-        }
-      },
-      {
-        "link": "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-        "lead": {
-          "en": "Union Cabinet:",
-          "hi": "केंद्रीय मंत्रिमंडल:"
-        },
-        "text": {
-          "en": "Cabinet raises rabi fertiliser subsidy 64% to ₹62,370 crore, clears ₹3,230 crore museum",
-          "hi": "कैबिनेट ने रबी में उर्वरक सब्सिडी 64% बढ़ाकर ₹62,370 करोड़ की, ₹3,230 करोड़ के संग्रहालय को मंजूरी"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+      "id": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
       "also": []
     },
     "list": [
-      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
       "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+      "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+      "retail-inflation-october-2026-6-09-two-year-high",
       "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-      "infosys-prize-2026-six-researchers-under-40-100000-each"
+      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
     ],
     "also": [
-      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-      "us-army-soldier-arrested-england-russia-national-security-act"
+      "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
     ]
   },
   "startHere": [
@@ -368,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview"
+        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
       ],
-      "lead": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+      "lead": "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
     },
     {
       "section": "economy",
@@ -387,9 +391,9 @@
         ]
       },
       "list": [
+        "india-bans-export-lithium-ion-battery-black-mass",
         "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit",
-        "sensex-nifty-close-november-9-highest-since-february-psu-banks"
+        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
       ]
     },
     {
@@ -426,16 +430,16 @@
       "list": [
         "modi-asean-india-summit-manila-november-16-18",
         "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "us-army-soldier-arrested-england-russia-national-security-act"
+        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
       ]
     },
     {
       "section": "science",
       "lead": "infosys-prize-2026-six-researchers-under-40-100000-each",
       "list": [
+        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
         "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
       ]
     },
     {
@@ -523,20 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T10:33:35+05:30",
-      "ids": [
-        "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
-        "us-army-soldier-arrested-england-russia-national-security-act",
-        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview",
-        "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-        "tn-law-and-order-diwali-murders-centre-seeks-governor-report"
-      ]
-    },
     {
       "at": "2026-11-12T12:42:06+05:30",
       "ids": [
@@ -642,6 +632,23 @@
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "infosys-prize-2026-six-researchers-under-40-100000-each",
         "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+      ]
+    },
+    {
+      "at": "2026-11-12T21:19:28+05:30",
+      "ids": [
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "goa-st-seat-reservation-explained-supreme-court",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
+        "cec-removal-belongs-in-parliament-call-the-special-session",
+        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "infosys-prize-2026-six-researchers-under-40-100000-each"
       ]
     }
   ],
