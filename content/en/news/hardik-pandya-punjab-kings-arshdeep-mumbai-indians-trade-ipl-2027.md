@@ -76,10 +76,6 @@ On the captaincy, Mumbai said only that they **will evaluate their options and a
 
 Punjab's chief executive Satish Menon said: "We are delighted to welcome Hardik to the Punjab Kings family." He said the franchise wants a team that can compete at the highest level and bring the trophy home to Punjab. Of Arshdeep he said: "We thank him for everything and wish him continued success."
 
-```photo
-{"n": 1, "subject": "Jasprit Bumrah", "caption": "Jasprit Bumrah, the Mumbai fast bowler Arshdeep Singh will now bowl alongside.", "alt": "Jasprit Bumrah with his family and Prime Minister Narendra Modi (file photo)"}
-```
-
 ## Two players, two records
 
 Punjab's statement puts Pandya's IPL record at **162 matches, 2,955 runs and 82 wickets** since his debut in 2015. He played for Mumbai until 2021, moved to Gujarat Titans for 2022 and won the title in the franchise's debut season, then led them to the 2023 final. He returned to Mumbai before the 2024 season as captain.
@@ -93,9 +89,9 @@ Arshdeep made his IPL debut for Punjab in 2019 and has played **96 matches for t
 Reports on November 3 spoke of advanced talks between the two franchises, and by November 6 neither had confirmed anything. Reports then said both teams had submitted paperwork to the BCCI with the players' consent. The confirmation on November 11 came six days before the retention deadline.
 
 ```photo
-{"n": 2, "subject": "Wankhede Stadium", "caption": "Wankhede Stadium in Mumbai, home ground of Mumbai Indians, where Pandya captained the side from 2024.", "alt": "Wankhede Stadium, Mumbai"}
+{"n": 1, "subject": "Wankhede Stadium", "caption": "Wankhede Stadium in Mumbai, home ground of Mumbai Indians, where Pandya captained the side from 2024.", "alt": "Wankhede Stadium, Mumbai"}
 ```
 
 ## What happens next
 
-The retention deadline, which the BCCI extended by two days, is **November 17, 2026**, and the IPL 2027 mini-auction is on **December 16, 2026 in Goa**. Both franchises still have to announce who they keep and release. Mumbai must also settle their captaincy, and Punjab have not said what role Pandya will have in their leadership group. Until the teams or the league say more, the question of who leads each side in 2027 stays open.
+The retention deadline, which the BCCI extended by two days, is **November 17, 2026**, and the IPL 2027 mini-auction is on **December 16, 2026, in Goa**. Both franchises still have to announce who they keep and release. Mumbai must also settle their captaincy, and Punjab have not said what role Pandya will have in their leadership group. Until the teams or the league say more, the question of who leads each side in 2027 stays open.

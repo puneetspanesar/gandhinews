@@ -91,7 +91,7 @@ From the Centre, Union Ministers Nitin Gadkari, Sarbananda Sonowal, Chirag Paswa
 
 The summit has been held every year since 1995. Last year's edition in Visakhapatnam was inaugurated by Vice-President C P Radhakrishnan and drew more than 3,000 delegates from 62 countries. Outlets differ on how much it produced, with totals above ₹10 lakh crore and ₹13 lakh crore both reported, so this report does not use a figure for comparison.
 
-Before this year's summit, six regional conferences in Visakhapatnam, Kakinada, Amaravati, Ananthapuramu and Tirupati signed **194 MoUs worth ₹86,522.07 crore**, with a promise of 1,47,951 jobs. On October 8, Goyal and Naidu invited global businesses to the summit, with Goyal calling Centre-State cooperation "TEAM INDIA".
+Before this year's summit, five regional conferences in Visakhapatnam, Kakinada, Amaravati, Ananthapuramu and Tirupati signed **194 MoUs worth ₹86,522.07 crore**, with a promise of 1,47,951 jobs. On October 8, Goyal and Naidu invited global businesses to the summit, with Goyal calling Centre-State cooperation "TEAM INDIA".
 
 ## The record so far
 

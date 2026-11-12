@@ -46973,7 +46973,20 @@
   "licence": "GODL-India",
   "alt": "Hardik Pandya (file photo)",
   "alt_hi": "हार्दिक पंड्या (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Hardik_Pandya_in_PMO_New_Delhi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Hardik_Pandya_in_PMO_New_Delhi.jpg",
+  "treated": {
+   "src": "/photos/t-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-1280.jpg",
+   "src800": "/photos/t-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-640.jpg",
+   "cutout": true,
+   "with": [
+    "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p1",
+    "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
+    "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december--p2"
+   ],
+   "kind": "photo",
+   "subj": "e1e1e3e3e3e3e7e7",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; G patkar / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons"
+  }
  },
  "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore": {
   "id": "o-cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
@@ -46986,33 +46999,45 @@
   "licence": "CC BY-SA 4.0",
   "alt": "N. Chandrababu Naidu (file photo)",
   "alt_hi": "एन. चंद्रबाबू नायडू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chandrababu_Naidu_2017.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Chandrababu_Naidu_2017.jpg",
+  "treated": {
+   "src": "/photos/t-cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh--1280.jpg",
+   "src800": "/photos/t-cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh--640.jpg",
+   "cutout": true,
+   "with": [
+    "naidu-cyclone-murasu-review-cancels-delhi-visit--p1",
+    "andhra-local-polls-must-start-with-free-nominations"
+   ],
+   "kind": "photo",
+   "subj": "c0c140c363636fff",
+   "credit": "Photos: Hemshah171095 / Wikimedia Commons; IM3847 / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons"
+  }
  },
  "us-army-soldier-arrested-england-russia-national-security-act": {
   "id": "o-us-army-soldier-arrested-england-russia-national-security-act",
   "src": "/photos/o-us-army-soldier-arrested-england-russia-national-security-act-1280.jpg",
   "src800": "/photos/o-us-army-soldier-arrested-england-russia-national-security-act-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 2051,
-  "credit": "Photo: Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Kash Patel (file photo)",
-  "alt_hi": "काश पटेल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Kash_Patel_(52588173144)_(cropped).jpg"
- },
- "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2": {
-  "id": "o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2",
-  "src": "/photos/o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2-1280.jpg",
-  "src800": "/photos/o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "srcWidth": 2048,
-  "credit": "Photo: G patkar / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Wankhede Stadium, Mumbai (file photo)",
-  "alt_hi": "वानखेड़े स्टेडियम, मुंबई (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Wankhede_ICC_WCF.jpg"
+  "height": 851,
+  "srcWidth": 6016,
+  "credit": "Photo: Matt Brown / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "New Scotland Yard, London, headquarters of the Metropolitan Police (file photo)",
+  "alt_hi": "न्यू स्कॉटलैंड यार्ड, लंदन, मेट्रोपॉलिटन पुलिस का मुख्यालय (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Scotland_Yard_sign.jpg",
+  "treated": {
+   "src": "/photos/t-us-army-soldier-arrested-england-russia-national-security-ac-1280.jpg",
+   "src800": "/photos/t-us-army-soldier-arrested-england-russia-national-security-ac-640.jpg",
+   "cutout": false,
+   "with": [
+    "uk-says-iran-highly-likely-behind-raf-fairford-plot",
+    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+   ],
+   "kind": "photo",
+   "subj": "ffff07010000ffff",
+   "credit": "Photos: Matt Brown / Wikimedia Commons; US Air Force / Wikimedia Commons; President Of Ukraine / Wikimedia Commons; Rotafinus / Wikimedia Commons"
+  }
  },
  "us-army-soldier-arrested-england-russia-national-security-act--p1": {
   "id": "o-us-army-soldier-arrested-england-russia-national-security-act--p1",
@@ -47027,30 +47052,17 @@
   "alt_hi": "इम्जिन बैरक्स का बोर्ड, इन्सवर्थ, ग्लॉस्टर के पास (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Headquarters_Allied_Rapid_Reaction_Corps_(10088406).jpg"
  },
- "us-army-soldier-arrested-england-russia-national-security-act--p2": {
-  "id": "o-us-army-soldier-arrested-england-russia-national-security-act--p2",
-  "src": "/photos/o-us-army-soldier-arrested-england-russia-national-security-act--p2-1280.jpg",
-  "src800": "/photos/o-us-army-soldier-arrested-england-russia-national-security-act--p2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 1039,
-  "credit": "Photo: Man vyi / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "New Scotland Yard sign, London (file photo)",
-  "alt_hi": "न्यू स्कॉटलैंड यार्ड का बोर्ड, लंदन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:New_Scotland_Yard_sign_3.jpg"
- },
  "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p1": {
-  "id": "o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p1",
-  "src": "/photos/o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p1-1280.jpg",
-  "src800": "/photos/o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p1-640.jpg",
+  "id": "o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2",
+  "src": "/photos/o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2-1280.jpg",
+  "src800": "/photos/o-hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027--p2-640.jpg",
   "width": 1280,
-  "height": 854,
-  "srcWidth": 2200,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Jasprit Bumrah (file photo)",
-  "alt_hi": "जसप्रीत बुमराह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Jasprit_Bumrah_%26_Sanjana_Ganesan.jpg"
+  "height": 960,
+  "srcWidth": 2048,
+  "credit": "Photo: G patkar / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Wankhede Stadium, Mumbai (file photo)",
+  "alt_hi": "वानखेड़े स्टेडियम, मुंबई (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Wankhede_ICC_WCF.jpg"
  }
 }

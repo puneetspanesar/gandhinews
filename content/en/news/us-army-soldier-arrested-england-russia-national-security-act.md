@@ -97,13 +97,9 @@ No response from the Kremlin or from British ministers had been found at the tim
 
 ## How we got here
 
-This is believed to be the first time a US soldier has been suspected of spying for a foreign government while serving in Britain. It follows a run of Russia-linked arrests under the same Act. In **September 2025** three people, two men and a woman, were arrested on suspicion of spying for Moscow, and in **October 2025** three men were held on suspicion of helping Russian intelligence under Section 3. The Associated Press has counted around 200 sabotage and other malign incidents across Europe that Western officials have blamed on Russia since 2022.
+This is believed to be the first time a US soldier has been suspected of spying for a foreign government while serving in Britain. It follows a run of Russia-linked arrests under the same Act. In **September 2025** three people, two men and a woman, were arrested on suspicion of spying for Moscow, and in **October 2025** three men were held on suspicion of helping Russian intelligence under Section 3. Western officials have blamed Russia for around 200 sabotage and other malign incidents across Europe since 2022, according to reports.
 
 Britain has been one of Ukraine's largest backers, and relations with Moscow are at their lowest point. The arrest comes as Russia, Ukraine and the US are in talks over a possible settlement. Our reports on the [Abu Dhabi talks](/en/news/abu-dhabi-talks-end-prisoner-exchange-agreed-kushner-medinsky) cover where those stand. The [re-arrest of two men on October 20 over the Fairford plot](/en/news/uk-police-rearrest-two-men-iran-intelligence) was a separate case.
-
-```photo
-{"n":2,"subject":"New Scotland Yard","caption":"The Metropolitan Police, whose Counter Terrorism Policing unit leads the investigation, is based at New Scotland Yard in London.","alt":"New Scotland Yard, London"}
-```
 
 ## Why it matters
 

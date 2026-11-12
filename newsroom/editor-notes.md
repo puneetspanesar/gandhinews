@@ -74,3 +74,11 @@ Read this at the front-page check (RUNBOOK-HOURLY.md step 1). Items older than 2
 - Editor FAILs all fixed by the run. Editor asked for the Tamil Nadu story to lead again; not done: it led at 06:54 and a story leads only once.
 - Markets: closed pre-open; Nov 11 close kept; Nov 11 FII/DII flows still not read.
 - NEXT RUN, FIRST: RBI-bank CEOs ECL meeting outcome (new id); markets open; Rawalpindi day four; Delhi AQI 4 pm bulletin; October CPI at 4 pm (16:00 run); six seafarers republish with a serious photo.
+
+## November 12, 2026, 10:40 am (from the 10:00 run)
+- Published 3: cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore (LEAD, Naidu library file photo; rests on reports of state figures, no PIB or AP release found; written before any MoU signing was reported), us-army-soldier-arrested-england-russia-national-security-act (New Scotland Yard file photo; Met Police release read), hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027 (Pandya library photo; MI and PBKS statements read; fees from reports).
+- National desk wrote nothing: RBI ECL meeting outcome not yet reported, rbi.org.in refused.
+- Editor FAILs all fixed by the run (Kash Patel main swapped, AP named in copy, Bumrah-with-Modi photo removed, five not six regional conferences). No usable Arshdeep Singh photo (all under 800 px): add to people.tsv.
+- Editor homepage notes not done: Delhi AQI card still the 6:30 am figure; Swachh preview in Policy list; mobile tab bar over first card.
+- Markets: Sensex 81,642.29 and Nifty 25,180.15 at about 9:15 am (open, down 0.3%).
+- NEXT RUN, FIRST: CII summit MoUs signed and Amit Shah speech (update the lead with signed figures, new updated:); RBI ECL meeting outcome (new id); Rawalpindi day four; Delhi AQI latest; October CPI at 4 pm; six seafarers republish with a serious photo.

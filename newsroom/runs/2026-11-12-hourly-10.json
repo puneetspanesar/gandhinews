@@ -1,0 +1,33 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-12T10:05:49+05:30",
+ "end": "2026-11-12T10:36:55+05:30",
+ "summary": "3 new stories, CII Partnership Summit leads; markets at open",
+ "new": [
+  "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+  "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+  "us-army-soldier-arrested-england-russia-national-security-act"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "us-army-soldier-arrested-england-russia-national-security-act",
+   "why": "Main picture is a tight close-up of FBI Director Kash Patel. He is only quoted in the 7th paragraph, so a reader will think he is the arrested soldier. That is the wrong person and misleading. Text also names an outlet: 'The Associated Press has counted around 200 sabotage...' (EN para 'How we got here', and 'एसोसिएटेड प्रेस' in the Hindi). Hindi errors: 'ग्लॉस्टरशर पर नाटो अड्डे' should be 'ग्लॉस्टरशर में'. 'very much ongoing' is rendered as 'अभी बहुत आगे चल रही है' (twice), which means 'far advanced'.",
+   "done": "Main picture now New Scotland Yard (Met Police HQ, file photo); Imjin Barracks stays in-story 1; NSY sign block removed. AP line reworded to 'Western officials have blamed Russia... according to reports' in both languages; Hindi 'में' and 'जांच अभी जारी है' (both places)."
+  },
+  {
+   "id": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
+   "why": "In-story 1 is captioned only 'Jasprit Bumrah'. The photo actually shows Bumrah with his wife and child next to Prime Minister Modi, who dominates the frame. The caption does not match what is shown. It is also off-subject, and Arshdeep Singh, half of the headline, appears nowhere in the story.",
+   "done": "Bumrah-with-Modi in-story photo removed from both languages. No Arshdeep Singh photo of usable size (finder candidates 552 to 796 px, others show PM Modi); Wankhede stays as the only in-story photo."
+  },
+  {
+   "id": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore",
+   "why": "The copy says 'six regional conferences in Visakhapatnam, Kakinada, Amaravati, Ananthapuramu and Tirupati' but names only five cities. The Hans India and Social News XYZ sources both say five regional conferences; Deccan Chronicle says six. The same error is in the Hindi ('छह क्षेत्रीय सम्मेलनों'). Also: EN calls Nara Lokesh 'IT Minister' but the Hindi says only 'मंत्री नारा लोकेश'.",
+   "done": "'five regional conferences' in both languages (five cities named); Hindi 'आईटी मंत्री नारा लोकेश'."
+  }
+ ],
+ "breaches": [],
+ "lead": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
+}
