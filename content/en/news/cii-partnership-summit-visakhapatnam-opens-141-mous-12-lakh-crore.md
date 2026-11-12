@@ -87,10 +87,6 @@ The organisers say delegates from **58 countries** are attending, including 16 o
 
 From the Centre, Union Ministers Nitin Gadkari, Sarbananda Sonowal, Chirag Paswan, Pralhad Joshi and Kinjarapu Ram Mohan Naidu are down to lead sessions. More than 400 business-to-business meetings are planned, along with country sessions on Japan, the UAE, Russia, Europe and Africa. A parallel AP Women and Growth Summit is on at a Visakhapatnam hotel, where Shah is also scheduled to speak in the afternoon.
 
-```photo
-{"n":1,"subject":"Amit Shah","caption":"Union Home Minister Amit Shah is due to inaugurate the summit and speak at the women's summit in the afternoon.","alt":"Amit Shah, Union Home Minister"}
-```
-
 ## How we got here
 
 The summit has been held every year since 1995. Last year's edition in Visakhapatnam was inaugurated by Vice-President C P Radhakrishnan and drew more than 3,000 delegates from 62 countries. Outlets differ on how much it produced, with totals above ₹10 lakh crore and ₹13 lakh crore both reported, so this report does not use a figure for comparison.

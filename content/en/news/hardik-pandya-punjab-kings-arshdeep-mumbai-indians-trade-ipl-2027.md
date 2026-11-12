@@ -77,7 +77,7 @@ On the captaincy, Mumbai said only that they **will evaluate their options and a
 Punjab's chief executive Satish Menon said: "We are delighted to welcome Hardik to the Punjab Kings family." He said the franchise wants a team that can compete at the highest level and bring the trophy home to Punjab. Of Arshdeep he said: "We thank him for everything and wish him continued success."
 
 ```photo
-{"n":1,"subject":"Jasprit Bumrah","caption":"Jasprit Bumrah, the Mumbai fast bowler Arshdeep Singh will now bowl alongside.","alt":"Jasprit Bumrah"}
+{"n": 1, "subject": "Jasprit Bumrah", "caption": "Jasprit Bumrah, the Mumbai fast bowler Arshdeep Singh will now bowl alongside.", "alt": "Jasprit Bumrah with his family and Prime Minister Narendra Modi (file photo)"}
 ```
 
 ## Two players, two records
@@ -93,7 +93,7 @@ Arshdeep made his IPL debut for Punjab in 2019 and has played **96 matches for t
 Reports on November 3 spoke of advanced talks between the two franchises, and by November 6 neither had confirmed anything. Reports then said both teams had submitted paperwork to the BCCI with the players' consent. The confirmation on November 11 came six days before the retention deadline.
 
 ```photo
-{"n":2,"subject":"Wankhede Stadium","caption":"Wankhede Stadium in Mumbai, home ground of Mumbai Indians, where Pandya captained the side from 2024.","alt":"Wankhede Stadium, Mumbai"}
+{"n": 2, "subject": "Wankhede Stadium", "caption": "Wankhede Stadium in Mumbai, home ground of Mumbai Indians, where Pandya captained the side from 2024.", "alt": "Wankhede Stadium, Mumbai"}
 ```
 
 ## What happens next
