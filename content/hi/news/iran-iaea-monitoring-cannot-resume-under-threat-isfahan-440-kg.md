@@ -16,8 +16,8 @@ keyPoints:
   - "जून 2025 के बाद जांचा गया एकमात्र ठिकाना **बुशहर बिजली संयंत्र** है, जहां 12 से 15 सितंबर को निरीक्षक गए।"
 hero:
   need: "डोनाल्ड ट्रंप"
-  suggested_source: "Donald Trump"
-  subjects: ["Donald Trump"]
+  suggested_source: "Abbas Araghchi"
+  subjects: ["Abbas Araghchi", "Donald Trump"]
   alt: "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (फाइल फोटो)"
   overlay:
     value: "'धमकी' के बीच निरीक्षण नहीं"

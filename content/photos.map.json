@@ -6242,7 +6242,8 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Sentinel-2, ESA / Wikimedia Commons"
-  }
+  },
+  "notile": true
  },
  "two-ships-sink-near-hormuz-pezeshkian-surrender": {
   "id": "v-two-ships-sink-near-hormuz-pezeshkian-surrender",
@@ -21474,7 +21475,8 @@
   "licence": "CC0",
   "alt": "The gardens of Hyderabad House, New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में हैदराबाद हाउस का बगीचा (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": true
  },
  "jk-cement-q2-profit-rises-6-per-cent-telangana-paint-plant": {
   "id": "v-jk-cement-q2-profit-rises-6-per-cent-telangana-paint-plant",
@@ -49371,21 +49373,21 @@
   "srcWidth": 4906,
   "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
   "licence": "CC BY 2.0",
-  "alt": "Iranian Foreign Minister Abbas Araghchi at IAEA talks in Vienna (file photo)",
-  "alt_hi": "वियना में आईएईए वार्ता में ईरान के विदेश मंत्री अब्बास अराघची (फ़ाइल फ़ोटो)",
+  "alt": "Iranian Foreign Minister Abbas Araghchi in talks at IAEA headquarters in Vienna (file photo)",
+  "alt_hi": "वियना में आईएईए मुख्यालय में वार्ता के दौरान ईरान के विदेश मंत्री अब्बास अराघची (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Meeting_Dr._Seyed_Abbas_Araghchi_(01911594)_(51160899872).jpg",
   "treated": {
    "src": "/photos/t-iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440--1280.jpg",
    "src800": "/photos/t-iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440--640.jpg",
-   "cutout": true,
+   "cutout": false,
    "with": [
     "iran-hands-us-nuclear-proposal-seven-demands--p1",
     "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
     "us-midterms-2026-explained-what-is-at-stake"
    ],
-   "kind": "portrait",
-   "subj": "3c38042f07a7b78f",
-   "credit": "Photos: The White House / Wikimedia Commons, Public domain; Amohammadid / Wikimedia Commons; Noclip / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+   "kind": "photo",
+   "subj": "5f2c0c80e0f8ffff",
+   "credit": "Photos: IAEA Imagebank / Wikimedia Commons; Amohammadid / Wikimedia Commons; Noclip / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
   }
  },
  "revanth-bharat-summit-visas-modi-hyderabad": {
@@ -49405,13 +49407,13 @@
    "src800": "/photos/t-revanth-bharat-summit-visas-modi-hyderabad-640.jpg",
    "cutout": true,
    "with": [
-    "telangana-el-nino-severe-chief-secretary-singur",
     "telangana-sir-electorate-may-shrink-26-per-cent",
-    "jaishankar-african-heads-of-mission-south-south-solidarity"
+    "amit-shah-revanth-telangana-atm-congress-evm-hyderabad--p1",
+    "telangana-roll-revision-must-not-erase-voters-quietly"
    ],
    "kind": "portrait",
    "subj": "7171b1b11387c79",
-   "credit": "Photos: Arjun Sarkar 7779 / Wikimedia Commons; Sentinel-2, ESA / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Aloofmanish / Wikimedia Commons"
+   "credit": "Photos: Arjun Sarkar 7779 / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Wasiul Bahar / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, Government of India / Wikimedia Commons"
   }
  },
  "delimitation-special-session-needs-the-bill-text-and-21-days-notice": {
@@ -49451,7 +49453,16 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Jairam Ramesh (file photo)",
   "alt_hi": "जयराम रमेश (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg",
+  "treated": {
+   "src": "/photos/t-monsoon-session-unprorogued-record-88-days-ramesh-claim-1280.jpg",
+   "src800": "/photos/t-monsoon-session-unprorogued-record-88-days-ramesh-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "183818002c6efe",
+   "credit": "Photo: Yann Forget from India / Wikimedia Commons"
+  }
  },
  "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti--p1": {
   "id": "o-amit-shah-pune-mumbai-visit-ncp-merger-mahayuti--p1",
