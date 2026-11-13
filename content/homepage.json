@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+    "id": "delhi-aqi-402-severe-iit-delhi-488-friday",
     "overlay": {
       "kicker": {
-        "en": "States / Ladakh",
-        "hi": "राज्य / लद्दाख"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "'I am under house arrest'",
-        "hi": "'मैं नजरबंद हूं'"
+        "en": "Delhi AQI 402, IIT Delhi 488",
+        "hi": "दिल्ली एक्यूआई 402, आईआईटी दिल्ली 488"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-      "aap-second-list-31-punjab-mlas-dropped-two-mps",
-      "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
     ],
     "live": {
       "title": {
-        "en": "Ladakh",
-        "hi": "लद्दाख"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
@@ -45,17 +41,6 @@
         }
       },
       {
-        "link": "delhi-aqi-402-severe-iit-delhi-488-friday",
-        "lead": {
-          "en": "Delhi:",
-          "hi": "दिल्ली:"
-        },
-        "text": {
-          "en": "Delhi's air turns severe at AQI 402 on Friday morning, IIT Delhi touches 488",
-          "hi": "शुक्रवार सुबह दिल्ली की हवा 'गंभीर' श्रेणी में, एक्यूआई 402, आईआईटी दिल्ली में 488"
-        }
-      },
-      {
         "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
         "lead": {
           "en": "United States:",
@@ -64,6 +49,28 @@
         "text": {
           "en": "Eight dead as Brooklyn building falls into excavation; city probes builder's stop-work history",
           "hi": "ब्रुकलिन में इमारत निर्माण गड्ढे में गिरी, आठ की मौत; बिल्डर के स्टॉप-वर्क रिकॉर्ड की जांच"
+        }
+      },
+      {
+        "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi in Bengaluru today: Pink Line ride, Vande Bharat flag-off and ₹15,600 crore of projects, then Mysuru planetarium",
+          "hi": "मोदी आज बेंगलुरु में: पिंक लाइन की सवारी, वंदे भारत को हरी झंडी और ₹15,600 करोड़ की परियोजनाएं, फिर मैसूरु में तारामंडल"
+        }
+      },
+      {
+        "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "lead": {
+          "en": "Madhya Pradesh:",
+          "hi": "मध्य प्रदेश:"
+        },
+        "text": {
+          "en": "Mohan Yadav to release 42nd Laadli Behna instalment from Pichhore today, ₹1,831 crore for 1.24 crore women",
+          "hi": "मोहन यादव आज पिछोर से जारी करेंगे लाड़ली बहना की 42वीं किस्त, 1.24 करोड़ महिलाओं को ₹1,831 करोड़"
         }
       },
       {
@@ -78,47 +85,36 @@
         }
       },
       {
-        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Agriculture:",
+          "hi": "कृषि:"
         },
         "text": {
-          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
-          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
+          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
+          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
         }
       },
       {
-        "link": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+        "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "lead": {
-          "en": "Air pollution:",
-          "hi": "वायु प्रदूषण:"
+          "en": "Markets:",
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Farm unions say cars, not stubble, drive Delhi's smog after Supreme Court asks four states for vehicle plans",
-          "hi": "किसान संगठन बोले, दिल्ली के स्मॉग की वजह गाड़ियां हैं, पराली नहीं; सुप्रीम कोर्ट ने चार राज्यों से मांगी वाहन योजना"
+          "en": "Sensex and Nifty edge up for a third day as realty jumps 4.5% and Godrej Industries gains on Temasek deal",
+          "hi": "सेंसेक्स और निफ्टी लगातार तीसरे दिन बढ़त पर, रियल्टी 4.5% चढ़ा और टेमासेक सौदे से गोदरेज इंडस्ट्रीज उछला"
         }
       },
       {
-        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "link": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
         "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
-          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
-        }
-      },
-      {
-        "link": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow",
-          "hi": "उत्तराखंड महोत्सव में योगी का अखिलेश पर पलटवार, 'घुसपैठिए' वाले बयान को बताया विभाजनकारी सोच"
+          "en": "Shivakumar says Karnataka will welcome Modi and press drought relief; PM told him to come to Delhi for a private meeting",
+          "hi": "शिवकुमार बोले, कर्नाटक मोदी का स्वागत करेगा और सूखा राहत मांगेगा; प्रधानमंत्री ने निजी मुलाकात के लिए दिल्ली बुलाया"
         }
       }
     ]
@@ -186,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-aqi-402-severe-iit-delhi-488-friday",
+      "id": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
       "also": []
     },
     "list": [
-      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+      "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
       "mastung-kanak-camp-truck-blast-police-toll-disputed",
-      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-      "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+      "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+      "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
     ],
     "also": [
-      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
+      "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+      "india-a-women-squads-england-a-shreyanka-patil-recalled"
     ]
   },
   "startHere": [
@@ -380,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "retail-inflation-october-2026-6-09-two-year-high",
+      "lead": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,9 +387,9 @@
         ]
       },
       "list": [
+        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     },
     {
@@ -461,10 +457,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
+        "en": "Mohan Yadav releases the 42nd Laadli Behna instalment from Pichhore, Shivpuri",
+        "hi": "मोहन यादव पिछोर, शिवपुरी से लाड़ली बहना की 42वीं किस्त जारी करेंगे"
       },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
     },
     {
       "icon": "calendar-blank",
@@ -473,10 +469,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi in Bengaluru and Mysuru, Pink Line, Vande Bharat and ₹15,600 crore of projects; Gujarat on November 14",
-        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में, पिंक लाइन, वंदे भारत और ₹15,600 करोड़ की परियोजनाएं; 14 नवंबर को गुजरात"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -528,20 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T22:46:40+05:30",
-      "ids": [
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
-      ]
-    },
     {
       "at": "2026-11-12T23:54:21+05:30",
       "ids": [
@@ -649,6 +631,20 @@
         "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+      ]
+    },
+    {
+      "at": "2026-11-13T11:15:44+05:30",
+      "ids": [
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
       ]
     }
   ],
