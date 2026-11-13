@@ -41,9 +41,32 @@ for f in sorted(glob.glob('newsroom/runs/*.json'))[-80:]:
     except Exception: continue
     if t >= since: recs.append(d)
 wr = [d for d in recs if str(d.get('run', '')).startswith('hourly')]
-thin = [d['run'] for d in wr if len(d.get('new') or []) < 3]
-line(len(wr) >= 9, f"{len(wr)} writing runs published (10 are scheduled)")
-line(not thin, f"{len(thin)} writing runs published fewer than 3 stories" + (': ' + ', '.join(thin) if thin else ''))
+# a lead run (odd hours) writes 1 story; a full run (even hours and midnight) at least 3
+need = lambda d: 1 if (str(d.get('run', ''))[-2:].isdigit() and int(str(d['run'])[-2:]) % 2 == 1) else 3
+PUBT = {}
+for f in glob.glob('content/en/*/*.md'):
+    m = re.search(r'^published:\s*["\']?([^"\'\n]+)', open(f).read(3000), re.M)
+    try: PUBT[os.path.basename(f)[:-3]] = dt.datetime.fromisoformat(m.group(1).strip())
+    except Exception: pass
+def nn(d):
+    """New stories a run added: stories published between its start and its end (a second publish rewrites the record's list)."""
+    try: a, b = dt.datetime.fromisoformat(d['start']), dt.datetime.fromisoformat(d['end'])
+    except Exception: return 0
+    return sum(1 for t in PUBT.values() if t.tzinfo and a - dt.timedelta(minutes=10) <= t <= b)
+thin = [f"{d['run']} ({nn(d)})" for d in wr if nn(d) < need(d)]
+sched = [h for h in range(24) if h == 0 or 6 <= h <= 23]
+done = {str(d.get('run', ''))[-2:] for d in wr}
+HOURLY_FROM = dt.datetime(2026, 11, 12, 20, 0, tzinfo=IST)   # odd-hour lead runs began at 9 pm on November 12
+due = []
+for h in sched:
+    t = now.replace(hour=h, minute=50, second=0, microsecond=0)
+    if t > now: t -= dt.timedelta(days=1)
+    if t > since and (h % 2 == 0 or t >= HOURLY_FROM): due.append(f'{h:02d}')
+silent = [h + ':03' for h in due if h not in done]
+line(not silent, f"{len(due) - len(silent)} of {len(due)} writing runs published" + (' (nothing from ' + ', '.join(silent) + ')' if silent else ''))
+lf = [d for d in recs if str(d.get('run', '')).startswith('longform')]
+line(len(lf) >= 2, f"{len(lf)} of 2 long-form runs published")
+line(not thin, f"{len(thin)} writing runs published fewer stories than they should (full runs 3, lead runs 1)" + (': ' + ', '.join(thin) if thin else ''))
 held = sum(len(d.get('held') or []) for d in recs); efail = sum(1 for d in recs if d.get('editor') == 'FAIL' or d.get('editor_fail'))
 line(efail * 3 <= max(len([d for d in recs if d.get('editor')]), 1), f"the editor's first check failed in {efail} of {len([d for d in recs if d.get('editor')])} runs; {held} stories held")
 stall = [d for d in recs if str(d.get('run', '')).startswith('stall')]
