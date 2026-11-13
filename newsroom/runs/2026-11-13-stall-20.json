@@ -1,0 +1,26 @@
+{
+ "run": "stall-20",
+ "start": "2026-11-13T20:13:07+05:30",
+ "end": "2026-11-13T20:36:15+05:30",
+ "summary": "New lead MEA on Mann Lahore trip; look-ahead rule fixed in builder; stale previews dropped",
+ "new": [
+  "mann-lahore-world-punjabi-conference-mea-national-policy"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "mann-lahore-world-punjabi-conference-mea-national-policy",
+   "why": "In-story photo 1 (Bhagwant Mann) came back NOT FOUND and the block will be dropped, so a story about Bhagwant Mann's Lahore trip publishes with no picture of Mann at all; only the MEA spokesperson is shown. Mann is one of the most photographed chief ministers in India, so 'not found' is not credible. Main picture (Randhir Jaiswal, file photo) and the text itself are fine: figures (4th International World Punjabi Conference, November 27 to 29, Jaiswal quotes, Revanth Reddy refusal, Arora invitation) check out against ANI and The Tribune; no outlet named in body, no em dash, Hindi matches.",
+   "done": "Main picture is now a two-panel lead cover (lead_cover.py): Bhagwant Mann (Jaypee, Commons, file photo) beside Randhir Jaiswal; the in-story Mann block that found no photo is removed from both files."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Lead choice: an MEA spokesman's routine answer on a clearance that has not even been requested is leading, while bigger national stories sit lower (the Centre's planned special Session to pass the delimitation Bill is buried in the Politics band; the Gulf war/Hormuz story is a small text card). Lead with the delimitation special Session story (or the biggest story on other front pages) and move the Mann story to a secondary slot. 2) Modi's Karnataka day takes four of six Must Read slots (items 1, 3, 4, 5, all Bengaluru/Mysuru, Pink Line, Rs 15,600 crore), stacked next to each other and beside the Modi LPG cavern second lead, plus 'Modi urges farmers' in the same column: keep one Modi Karnataka story (the LPG cavern one) and drop items 3, 4 and 5. 3) Stale previews of things that have already happened: Must Read 4 ('Pink Line ride and Rs 15,600 crore of projects next'), Must Read 5 ('Modi in Bengaluru today ... then Mysuru planetarium', while item 1 says he already opened it) and Must Read 6 ('Mohan Yadav to release ... today', it is now evening): remove them or replace with the done-event versions. 4) Hours-old figure at the top: 'Delhi's air turns severe at AQI 402 on Friday morning' at about 8:30 pm; update to the latest AQI reading or drop it. 5) 'Sensex and Nifty edge up for a third day' contradicts the ticker right above it (Sensex -0.39%, Nifty -0.61%); it is stale, replace with today's close or remove. 6) Empty white space under the left-hand grid and the middle column (about 100 to 150 px) before the Politics band on desktop, because the right column runs longer; fill with one more card or trim the right column.",
+   "done": "Dropped the Modi Karnataka previews, Pink Line story, Mohan Yadav 'today' preview, the morning AQI 402 story and the November 12 Sensex close (refresh_home --drop). Lead kept: RUNBOOK 13a, the lead is never over 2 hours old, and the Mann story is the only lead-worthy story under 2 hours with a real photo; the delimitation special Session story is older. Layout: check_layout passes."
+  }
+ ],
+ "breaches": [],
+ "lead": "mann-lahore-world-punjabi-conference-mea-national-policy"
+}

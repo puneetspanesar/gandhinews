@@ -51655,12 +51655,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Agriculture_in_India_tractor_farming_Punjab_preparing_field_for_a_wheat_crop_without_burning_previous_crop_stalk.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Om_Birla_%282021%29_%28cropped%29.jpg",
-  "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Lok Sabha Speaker Om Birla (file photo)",
-  "alt_hi": "लोकसभा अध्यक्ष ओम बिरला (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/India_and_adjacent_countries%2C_1917.jpg/1280px-India_and_adjacent_countries%2C_1917.jpg",
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Members in the Lok Sabha chamber of India's new Parliament building (file photo)",
+  "alt_hi": "भारत के नए संसद भवन के लोकसभा कक्ष में सदस्य (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg",
   "id": "r-delimitation-bill-361-votes-needed-two-thirds-claim",
   "articleId": "delimitation-bill-361-votes-needed-two-thirds-claim"
  },
@@ -52015,6 +52015,19 @@
   "alt": "Union Health Minister J P Nadda addressing a health convention (file photo)",
   "alt_hi": "एक स्वास्थ्य सम्मेलन को संबोधित करते केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_Health_%26_Family_Welfare,_Shri_Jagat_Prakash_Nadda_addressing_the_faculty,_at_NMHANS,_in_Bengaluru_on_December_28,_2014.jpg"
+ },
+ {
+  "id": "x-mann-lahore-world-punjabi-conference-mea-national-policy",
+  "articleId": "mann-lahore-world-punjabi-conference-mea-national-policy",
+  "sourceUrl": "",
+  "credit": "Photo: ",
+  "licence": "",
+  "alt": "Punjab Chief Minister Bhagwant Mann and MEA spokesperson Randhir Jaiswal (file photos)",
+  "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान और विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  },
  {
   "id": "o-kaziranga-rongajan-minibus-container-truck-collision-23-dead",

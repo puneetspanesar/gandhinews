@@ -120,7 +120,7 @@ export function expiredOnHome(d: any, enTitle: string, nowMs = Date.now()) {
   if (day(+new Date(d?.published)) < today && /\b(today|tonight|tomorrow)\b/i.test(t)) return true;
   const up = d?.upcoming?.date;
   if (up && (up instanceof Date ? up.toISOString() : String(up)).slice(0, 10) < today) return true;   // its event day has passed
-  if (nowMs - +new Date(d?.published) > 36 * 3600000 && /\\b(?:to (?:spend|visit|open|launch|address|meet|hold|attend|inaugurate|begin|start|host|release|announce|unveil|flag|chair|travel|vote|hear|play|face|take|tour|lay|present|table|decide|rule)|set to|ahead of(?! schedule)|on the eve)\\b/i.test(t)) return true;   // a look-ahead headline, a day and a half on
+  if (nowMs - +new Date(d?.published) > 36 * 3600000 && /\b(?:to (?:spend|visit|open|launch|address|meet|hold|attend|inaugurate|begin|start|host|release|announce|unveil|flag|chair|travel|vote|hear|play|face|take|tour|lay|present|table|decide|rule)|set to|ahead of(?! schedule)|on the eve)\b/i.test(t)) return true;   // a look-ahead headline, a day and a half on
   return false;
 }
 /** A headline that pins a figure to a clock time ("30.5% by 1 pm") more than 2 hours ago is stale on the front page. */
