@@ -16,10 +16,7 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "up-voter-list-2026-check-name-after-sir",
-      "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     ],
@@ -52,6 +49,17 @@
         "text": {
           "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
           "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
+        }
+      },
+      {
+        "link": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi at Prashanti Kutiram jubilee in Bengaluru with Hosabale and Shivakumar; Pink Line ride and ₹15,600 crore of projects next",
+          "hi": "बेंगलुरु में मोदी प्रशांति कुटीरम स्वर्ण जयंती समारोह में, होसबाले और शिवकुमार साथ; आगे पिंक लाइन की सवारी और ₹15,600 करोड़ की परियोजनाएं"
         }
       },
       {
@@ -107,17 +115,6 @@
         "text": {
           "en": "Modi in Bengaluru today: Pink Line ride, Vande Bharat flag-off and ₹15,600 crore of projects, then Mysuru planetarium",
           "hi": "मोदी आज बेंगलुरु में: पिंक लाइन की सवारी, वंदे भारत को हरी झंडी और ₹15,600 करोड़ की परियोजनाएं, फिर मैसूरु में तारामंडल"
-        }
-      },
-      {
-        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "lead": {
-          "en": "US-China:",
-          "hi": "अमेरिका-चीन:"
-        },
-        "text": {
-          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
-          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
         }
       }
     ]
@@ -189,15 +186,15 @@
       "also": []
     },
     "list": [
+      "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
       "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
       "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
       "delhi-aqi-402-severe-iit-delhi-488-friday",
-      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-      "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
+      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
     ],
     "also": [
-      "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-      "aap-second-list-31-punjab-mlas-dropped-two-mps"
+      "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
     ]
   },
   "startHere": [
@@ -528,22 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-13T00:38:04+05:30",
-      "ids": [
-        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "kejriwal-e20-trump-pressure-ethanol-claim",
-        "msp-explained-how-set-who-benefits",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
-      ]
-    },
-    {
       "at": "2026-11-13T01:56:38+05:30",
       "ids": [
         "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
@@ -650,6 +631,20 @@
         "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
         "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
         "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
+      ]
+    },
+    {
+      "at": "2026-11-13T13:04:57+05:30",
+      "ids": [
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
       ]
     }
   ],

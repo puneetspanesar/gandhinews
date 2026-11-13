@@ -1,17 +1,10 @@
 {
  "run": "hourly-12",
  "start": "2026-11-13T12:04:15+05:30",
- "end": "2026-11-13T12:52:35+05:30",
- "summary": "3 stories + editorial, lead Rajasthan draft roll; stubble fact check held",
- "new": [
-  "wangchuk-confinement-election-orders-must-be-shown-in-writing",
-  "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-  "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-  "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
- ],
- "held": [
-  "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim"
- ],
+ "end": "2026-11-13T13:07:59+05:30",
+ "summary": "second publish: 1 pm markets, collages, homepage rotation",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [
   {
