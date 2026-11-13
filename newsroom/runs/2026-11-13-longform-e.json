@@ -1,0 +1,19 @@
+{
+ "run": "longform-e",
+ "start": "2026-11-13T17:38:26+05:30",
+ "end": "2026-11-13T18:46:46+05:30",
+ "summary": "Long-form evening: 2 explainers, 2 editorials, 1 fact check",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "The top two hero images are both near-identical Modi cutout collages sitting side by side: the lead (Modi opens Mysuru planetarium) and the adjacent second story (Modi opens Mangaluru LPG cavern, ties energy to the Gulf war). Two almost-identical PM portraits filling the top two slots reads as repetitive and machine-made (rule 13). Give the LPG-cavern story a non-Modi hero (the Mangaluru underground cavern or storage terminal, or the Bengaluru ceremony) or move it out of the top row so two Modi portraits do not sit next to each other.",
+   "done": "Dropped the two completed Modi-Karnataka speech stories (LPG cavern, Pink Line) from the homepage so only the lead carries a Modi portrait; no two near-identical Modi collages sit side by side."
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+}

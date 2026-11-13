@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -928,6 +928,33 @@
         }
       ],
       "notes": "Filing date and Supreme Court case number are not given in the sources; status rests on the state's release."
+    },
+    {
+      "id": "delhi-ncr-vehicular-emissions",
+      "case": "Delhi-NCR air pollution (taken up by the court on its own motion; case number not stated in the sources read)",
+      "issue": "Whether Delhi, Haryana, Uttar Pradesh and Rajasthan have a workable plan to regulate polluting vehicles in the National Capital Region, as a continuing matter on air pollution.",
+      "bench_size": 3,
+      "bench": "Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice V Mohana",
+      "status": "pending",
+      "status_text": "States given two weeks to file vehicle plans; listed on 23 Nov 2026",
+      "last_date": "2026-11-06",
+      "last_event": "The bench said stubble burning had declined substantially while vehicular emissions had risen sharply, and gave Delhi, Haryana, Uttar Pradesh and Rajasthan two weeks to say how they will regulate polluting vehicles, with specific enforcement measures and a time-bound roadmap, and to reply to suggestions from the Commission for Air Quality Management and the amici.",
+      "next_step": "States' filings due about 20 Nov 2026; vehicular emissions listed on 23 Nov; crop residue and firecracker burning on 25 Nov; construction, power plants and industry on 26 Nov 2026.",
+      "sources": [
+        {
+          "title": "Delhi Air Pollution: Supreme Court flags sharp rise in vehicular emissions, seeks response on inter-state vehicle regulation",
+          "publisher": "Verdictum",
+          "date": "2026-11-09",
+          "url": "https://www.verdictum.in/supreme-court/delhi-air-pollution-flags-sharp-rise-vehicular-emissions-responses-states-inter-state-vehicle-regulation-1625453"
+        },
+        {
+          "title": "Supreme Court gives Delhi-NCR authorities two weeks to submit vehicle pollution action plan",
+          "publisher": "Daily Pioneer",
+          "date": "2026-11-10",
+          "url": "https://dailypioneer.com/law-justice/supreme-court-delhi-ncr-vehicle-pollution-action-plan"
+        }
+      ],
+      "notes": "The Supreme Court order itself (sci.gov.in) could not be opened; the 6 Nov date, bench and directions rest on two independent reports that agree. Hearing calendar as set out in our 12 Nov story. The case name and number are not given in the sources read."
     }
   ]
 }

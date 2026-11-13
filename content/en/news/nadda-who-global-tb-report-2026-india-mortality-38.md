@@ -5,7 +5,7 @@ type: news
 section: science
 format_label: "Science & Tech / Health"
 topics: []
-title: "India's TB deaths down 38% since 2015, ahead of the global 35%, WHO report says; Nadda hails result"
+title: "India's TB deaths down 38% since 2015, health ministry says, against WHO's global 35%; Nadda hails result"
 standfirst: "The WHO Global Tuberculosis Report 2026 puts India's TB death rate at 18 per lakh people in 2025, from 28 in 2015. Health Minister J P Nadda said on Friday the figures show the effort is working."
 published: 2026-11-13T16:14:00+05:30
 location: New Delhi
@@ -22,8 +22,8 @@ hero:
     value: "TB deaths down 38% since 2015"
 related: []
 seo:
-  title: "India TB deaths down 38% since 2015: WHO report, Nadda"
-  description: "WHO's Global TB Report 2026 says India's TB death rate fell 38% since 2015 against 35% globally. Health Minister J P Nadda hailed the result on November 13."
+  title: "India TB deaths down 38% since 2015, ministry says: Nadda"
+  description: "The health ministry says India's TB death rate fell 38% since 2015, against WHO's 35% globally. Health Minister J P Nadda hailed the result on November 13."
 sources:
   - title: "Tuberculosis deaths decline 38% in India since 2015: WHO report (health ministry statement)"
     publisher: "DT Next"

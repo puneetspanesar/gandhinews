@@ -41,6 +41,17 @@
         }
       },
       {
+        "link": "nadda-who-global-tb-report-2026-india-mortality-38",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "India's TB deaths down 38% since 2015, health ministry says, against WHO's global 35%; Nadda hails result",
+          "hi": "2015 से भारत में टीबी से मौतें 38% घटीं, स्वास्थ्य मंत्रालय का दावा; डब्ल्यूएचओ के अनुसार वैश्विक गिरावट 35%, नड्डा ने सराहा"
+        }
+      },
+      {
         "link": "arun-pocso-chargesheet-veeramani",
         "lead": {
           "en": "Tamil Nadu:",
@@ -96,25 +107,14 @@
         }
       },
       {
-        "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "link": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
+          "en": "Tech Policy:",
+          "hi": "तकनीक नीति:"
         },
         "text": {
-          "en": "Modi flags off Bengaluru's Pink Line and rides with Shivakumar; ₹15,600 crore package of power lines, LPG cavern, Vande Bharat",
-          "hi": "मोदी ने बेंगलुरु की पिंक लाइन को हरी झंडी दिखाई, शिवकुमार के साथ सफर; ₹15,600 करोड़ का पैकेज: बिजली लाइनें, एलपीजी गुफा, वंदे भारत"
-        }
-      },
-      {
-        "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
-          "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
+          "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
+          "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
         }
       }
     ]
@@ -182,26 +182,26 @@
   },
   "topStories": {
     "big": {
-      "id": "arun-pocso-chargesheet-veeramani",
+      "id": "nadda-who-global-tb-report-2026-india-mortality-38",
       "also": []
     },
     "list": [
+      "arun-pocso-chargesheet-veeramani",
       "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
       "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-      "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     ],
     "also": [
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-      "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
     ]
   },
   "startHere": [
+    "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc",
     "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-    "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
-    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
-    "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
+    "ecl-explained-rbi-expected-credit-loss-banks-april-2027"
   ],
   "trackers": [
     {
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
+      "nadda-tb-deaths-38-percent-who-report-claim",
       "delimitation-bill-361-votes-needed-two-thirds-claim",
-      "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim",
-      "rajnath-singh-low-morale-diwali-soldiers-video-claim"
+      "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey",
+    "tb-estimates-may-be-revised-publish-the-prevalence-survey-before-the-next-claim",
     "wangchuk-confinement-election-orders-must-be-shown-in-writing",
     "inflation-at-6-09-percent-needs-onion-and-food-supply-action",
-    "black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers",
-    "thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named",
-    "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill"
+    "black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers"
   ],
   "sections": [
     {
@@ -369,8 +369,8 @@
       },
       "list": [
         "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
       ],
       "lead": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
@@ -453,30 +453,6 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
-      },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "PM Modi opens the COSMOS-Mysuru planetarium at about 3:30 pm; Gujarat visit on November 14, 2026",
-        "hi": "प्रधानमंत्री मोदी करीब 3:30 बजे कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करेंगे; 14 नवंबर को गुजरात दौरा"
-      },
-      "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -521,26 +497,33 @@
         "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
       },
       "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
+      },
+      "text": {
+        "en": "IPL 2027 retention deadline, after Hardik Pandya and Arshdeep Singh swapped teams",
+        "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
+      },
+      "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 18",
+        "hi": "18 नवंबर"
+      },
+      "text": {
+        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
+        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
+      },
+      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T10:33:45+05:30",
-      "ids": [
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "delhi-aqi-402-severe-iit-delhi-488-friday",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
-      ]
-    },
     {
       "at": "2026-11-13T11:29:42+05:30",
       "ids": [
@@ -631,30 +614,45 @@
       ]
     },
     {
-      "at": "2026-11-13T17:29:34+05:30",
+      "at": "2026-11-13T17:51:46+05:30",
       "ids": [
         "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "arun-pocso-chargesheet-veeramani",
+        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      ]
+    },
+    {
+      "at": "2026-11-13T18:43:04+05:30",
+      "ids": [
+        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "nadda-who-global-tb-report-2026-india-mortality-38",
         "arun-pocso-chargesheet-veeramani",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
         "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
         "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
     "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
     "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
     "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
     "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
+    "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
   ]
 }
