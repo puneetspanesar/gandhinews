@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "id": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "States / Rajasthan",
+        "hi": "राज्य / राजस्थान"
       },
       "value": {
-        "en": "Modi in Bengaluru: Pink Line, ₹15,600 cr",
-        "hi": "बेंगलुरु में मोदी: पिंक लाइन, ₹15,600 करोड़"
+        "en": "Three rolls, three counts",
+        "hi": "तीन सूचियां, तीन आंकड़े"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
       }
     }
   },
@@ -52,6 +52,17 @@
         }
       },
       {
+        "link": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi at Prashanti Kutiram jubilee in Bengaluru with Hosabale and Shivakumar; Pink Line ride and ₹15,600 crore of projects next",
+          "hi": "बेंगलुरु में मोदी प्रशांति कुटीरम स्वर्ण जयंती समारोह में, होसबाले और शिवकुमार साथ; आगे पिंक लाइन की सवारी और ₹15,600 करोड़ की परियोजनाएं"
+        }
+      },
+      {
         "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "lead": {
           "en": "Ladakh:",
@@ -74,6 +85,17 @@
         }
       },
       {
+        "link": "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi's air turns severe at AQI 402 on Friday morning, IIT Delhi touches 488",
+          "hi": "शुक्रवार सुबह दिल्ली की हवा 'गंभीर' श्रेणी में, एक्यूआई 402, आईआईटी दिल्ली में 488"
+        }
+      },
+      {
         "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
         "lead": {
           "en": "United States:",
@@ -85,36 +107,14 @@
         }
       },
       {
-        "link": "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
         "lead": {
-          "en": "Pakistan:",
-          "hi": "पाकिस्तान:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Mastung truck bomb: police say two civilians died, local reports claim dozens of soldiers killed",
-          "hi": "मस्तुंग में ट्रक बम: पुलिस के मुताबिक दो नागरिक मरे, स्थानीय रिपोर्टों में दर्जनों सैनिकों की मौत का दावा"
-        }
-      },
-      {
-        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
-          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
-        }
-      },
-      {
-        "link": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "lead": {
-          "en": "Air pollution:",
-          "hi": "वायु प्रदूषण:"
-        },
-        "text": {
-          "en": "Farm unions say cars, not stubble, drive Delhi's smog after Supreme Court asks four states for vehicle plans",
-          "hi": "किसान संगठन बोले, दिल्ली के स्मॉग की वजह गाड़ियां हैं, पराली नहीं; सुप्रीम कोर्ट ने चार राज्यों से मांगी वाहन योजना"
+          "en": "Modi in Bengaluru today: Pink Line ride, Vande Bharat flag-off and ₹15,600 crore of projects, then Mysuru planetarium",
+          "hi": "मोदी आज बेंगलुरु में: पिंक लाइन की सवारी, वंदे भारत को हरी झंडी और ₹15,600 करोड़ की परियोजनाएं, फिर मैसूरु में तारामंडल"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
+      "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
       "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
       "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-      "mastung-kanak-camp-truck-blast-police-toll-disputed",
-      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+      "delhi-aqi-402-severe-iit-delhi-488-friday",
+      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
     ],
     "also": [
-      "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-      "india-a-women-squads-england-a-shreyanka-patil-recalled"
+      "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
     ]
   },
   "startHere": [
@@ -368,15 +368,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
       ],
-      "lead": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+      "lead": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
     },
     {
       "section": "economy",
-      "lead": "retail-inflation-october-2026-6-09-two-year-high",
+      "lead": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
+        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     },
     {
@@ -397,17 +397,17 @@
       "lead": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
       "list": [
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
       ]
     },
     {
       "section": "policy",
       "lead": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "list": [
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha"
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
       ]
     },
     {
@@ -457,10 +457,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi opens the COSMOS-Mysuru planetarium at about 3:30 pm; Gujarat visit on November 14",
-        "hi": "प्रधानमंत्री मोदी करीब 3:30 बजे कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करेंगे; 14 नवंबर को गुजरात दौरा"
+        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
+        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
       },
-      "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "PM Modi in Bengaluru and Mysuru, Pink Line, Vande Bharat and ₹15,600 crore of projects; Gujarat on November 14",
+        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में, पिंक लाइन, वंदे भारत और ₹15,600 करोड़ की परियोजनाएं; 14 नवंबर को गुजरात"
+      },
+      "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
     },
     {
       "icon": "calendar-blank",
@@ -622,29 +634,19 @@
       ]
     },
     {
-      "at": "2026-11-13T13:47:29+05:30",
+      "at": "2026-11-13T13:04:57+05:30",
       "ids": [
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
         "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
       ]
     }
   ],
-  "critical": [],
-  "drop": [
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-    "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser"
-  ]
+  "critical": []
 }
