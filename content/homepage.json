@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+    "id": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
     "overlay": {
       "kicker": {
-        "en": "Politics / Opposition",
-        "hi": "राजनीति / विपक्ष"
+        "en": "World / Middle East",
+        "hi": "दुनिया / पश्चिम एशिया"
       },
       "value": {
-        "en": "'The PM has my phone tapped'",
-        "hi": "'पीएम ने मेरा फोन टैप कराया'"
+        "en": "'Not sure I agree' with waiting",
+        "hi": "रुकने पर 'पक्का नहीं कि मैं सहमत हूं'"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-      "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
     ],
     "live": {
       "title": {
-        "en": "Opposition",
-        "hi": "विपक्ष"
+        "en": "Middle East",
+        "hi": "पश्चिम एशिया"
       }
     }
   },
@@ -56,14 +52,14 @@
         }
       },
       {
-        "link": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Trump says five Gulf states asked him to hold off on Iran strikes and he is 'not sure I agree', as Guards say a gas carrier hit a mine in Hormuz",
-          "hi": "ट्रंप बोले, पांच खाड़ी देशों ने ईरान पर हमले रोकने को कहा, 'पक्का नहीं कि मैं सहमत हूं'; गार्ड्स का दावा, होर्मुज में गैस टैंकर बारूदी सुरंग से टकराया"
+          "en": "Modi flags off Bengaluru's Pink Line and rides with Shivakumar; ₹15,600 crore package of power lines, LPG cavern, Vande Bharat",
+          "hi": "मोदी ने बेंगलुरु की पिंक लाइन को हरी झंडी दिखाई, शिवकुमार के साथ सफर; ₹15,600 करोड़ का पैकेज: बिजली लाइनें, एलपीजी गुफा, वंदे भारत"
         }
       },
       {
@@ -190,7 +186,7 @@
       "also": []
     },
     "list": [
-      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+      "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
       "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
       "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
@@ -374,7 +370,7 @@
       "list": [
         "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
         "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
       ],
       "lead": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     },
@@ -401,8 +397,8 @@
       "lead": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
       "list": [
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
       ]
     },
     {
@@ -461,10 +457,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
+        "en": "Mohan Yadav releases the 42nd Laadli Behna instalment from Pichhore, Shivpuri",
+        "hi": "मोहन यादव पिछोर, शिवपुरी से लाड़ली बहना की 42वीं किस्त जारी करेंगे"
       },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
     },
     {
       "icon": "calendar-blank",
@@ -473,22 +469,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi opens the COSMOS-Mysuru planetarium at about 3:30 pm; Gujarat visit on November 14, 2026",
-        "hi": "प्रधानमंत्री मोदी करीब 3:30 बजे कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करेंगे; 14 नवंबर को गुजरात दौरा"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
-        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
-      },
-      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -501,6 +485,18 @@
         "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
       },
       "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
+      },
+      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
     },
     {
       "icon": "calendar-blank",
@@ -528,23 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T06:42:31+05:30",
-      "ids": [
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-        "infosys-prize-2026-six-researchers-under-40-100000-each"
-      ]
-    },
     {
       "at": "2026-11-13T07:15:57+05:30",
       "ids": [
@@ -653,15 +632,22 @@
         "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
       ]
+    },
+    {
+      "at": "2026-11-13T15:14:41+05:30",
+      "ids": [
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-    "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-    "delimitation-bill-361-votes-needed-two-thirds-claim"
-  ]
+  "drop": []
 }
