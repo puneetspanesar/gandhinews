@@ -8104,7 +8104,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Flipkart's headquarters in Bengaluru (file photo)",
   "alt_hi": "बेंगलुरु में फ्लिपकार्ट का मुख्यालय (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "specific foreign or company place; showed behind the Modi Bengaluru LPG story (hourly-15)"
  },
  "gaza-rafah-shut-to-patients-second-week": {
   "id": "v-gaza-rafah-shut-to-patients-second-week",
@@ -12230,7 +12231,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Pakistan-Iran border crossing at Taftan in Balochistan (file photo)",
   "alt_hi": "बलूचिस्तान में तफ़्तान स्थित पाकिस्तान-ईरान सीमा चौकी (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "specific foreign or company place; showed behind the Modi Bengaluru LPG story (hourly-15)"
  },
  "pennsylvania-measles-outbreak-undercounted-offit": {
   "id": "v-pennsylvania-measles-outbreak-undercounted-offit",
@@ -29843,7 +29845,8 @@
   "licence": "Public domain",
   "alt": "Satellite view of the Strait of Hormuz (file photo)",
   "alt_hi": "होर्मुज़ जलडमरूमध्य का उपग्रह से लिया गया दृश्य (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "US scene; showed behind the Modi Bengaluru LPG story (hourly-15)"
  },
  "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp--p2": {
   "id": "v-alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-p2",
@@ -48916,12 +48919,12 @@
    "cutout": true,
    "with": [
     "sensex-nifty-week-october-30-pharma-fii-return--p2",
-    "pakistan-suspends-iran-trade-taftan-gabd-lpg",
-    "flipkart-group-fy26-revenue-1-45-lakh-crore-loss-narrows"
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "karnataka-heavy-rain-forecast-south-bengaluru-24-degrees"
    ],
    "kind": "photo",
    "subj": "fffffbfff3010010",
-   "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons; Richard Weil / Wikimedia Commons; Safa.daneshvar / Wikimedia Commons; Gpkp / Wikimedia Commons"
+   "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons; Richard Weil / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Gpkp / Wikimedia Commons"
   }
  }
 }
