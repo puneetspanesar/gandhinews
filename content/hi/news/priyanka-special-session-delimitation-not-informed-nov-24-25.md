@@ -18,9 +18,9 @@ hero:
   need: "प्रियंका गांधी वाड्रा, वायनाड से कांग्रेस सांसद, और अमित शाह, केंद्रीय गृह मंत्री"
   suggested_source: "Priyanka Gandhi Vadra"
   subjects: ["Priyanka Gandhi Vadra", "Amit Shah"]
-  alt: "कांग्रेस सांसद प्रियंका गांधी वाड्रा (फाइल फोटो)"
+  alt: "मई 2024 में हिमाचल प्रदेश के ऊना में प्रियंका गांधी वाड्रा का स्वागत (फ़ाइल फ़ोटो)"
   overlay:
-    value: "'हम बाकी लोगों को बताया नहीं गया'"
+    value: "'उन्होंने बाकी लोगों को सूचित नहीं किया'"
 related: [special-session-delimitation-bill-shah-361-votes-jairam-bluster, delimitation-explained-why-131st-amendment-failed, rijiju-writes-kharge-delimitation-bill-consultations, amit-shah-special-session-sir-dares-rahul-mock-parliament]
 infographic:
   kicker: "परिसीमन विधेयक"
@@ -29,7 +29,7 @@ infographic:
   motif: scales
   stats:
     - {icon: calendar-blank, value: "24 या 25 नवंबर", label: "अपेक्षित, अधिसूचित नहीं"}
-    - {icon: seat, value: "543 से 850", label: "लोकसभा सीटों की प्रस्तावित सीमा"}
+    - {icon: seat, value: "550 से 850", label: "लोकसभा सीटों की प्रस्तावित सीमा"}
     - {icon: users-three, value: "298 बनाम 230", label: "17 अप्रैल का वोट जिसमें संशोधन गिरा"}
   source: "सरकारी सूत्र और बयान, 13 नवंबर 2026; पीआरएस लेजिस्लेटिव रिसर्च"
 seo:

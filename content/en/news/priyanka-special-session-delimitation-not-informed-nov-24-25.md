@@ -28,7 +28,7 @@ infographic:
   motif: scales
   stats:
     - {icon: calendar-blank, value: "Nov 24 or 25", label: "expected, not notified"}
-    - {icon: seat, value: "543 to 850", label: "proposed ceiling on Lok Sabha seats"}
+    - {icon: seat, value: "550 to 850", label: "proposed ceiling on Lok Sabha seats"}
     - {icon: users-three, value: "298 to 230", label: "April 17 vote that sank the amendment"}
   source: "Government sources and statements, November 13, 2026; PRS Legislative Research"
 seo:

@@ -49231,7 +49231,7 @@
     "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of the Rongajan crash or any Northeast bus crash; library, quick_photo, finder h1320 (bus accident Assam, road accident India, Golaghat)"
+  "nophoto": "no free photo of the Rongajan crash or any Northeast bus crash; library, quick_photo, finder h1320"
  },
  "forex-reserves-rise-719-billion-november-6-gold": {
   "id": "r-forex-reserves-rise-719-billion-november-6-gold",
@@ -49243,7 +49243,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Reserve Bank of India building in Kolkata (file photo)",
   "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "treated": {
+   "src": "/photos/t-forex-reserves-rise-719-billion-november-6-gold-1280.jpg",
+   "src800": "/photos/t-forex-reserves-rise-719-billion-november-6-gold-640.jpg",
+   "cutout": false,
+   "with": [
+    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc",
+    "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
+    "fiscal-deficit-reaches-41-9-of-target-by-august"
+   ],
+   "kind": "photo",
+   "subj": "3838387e7f7c6464",
+   "credit": "Photos: सुबोध कुलकर्णी / Wikimedia Commons; Sailko / Wikimedia Commons; Wikimedia commons / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "mangroves-rebound-landsat-four-decades-nasa-science-study": {
   "id": "o-mangroves-rebound-landsat-four-decades-nasa-science-study",
@@ -49269,6 +49282,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Priyanka Gandhi Vadra being welcomed at Una, Himachal Pradesh, in May 2024 (file photo)",
   "alt_hi": "मई 2024 में हिमाचल प्रदेश के ऊना में प्रियंका गांधी वाड्रा का स्वागत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Dy_CM,_Himachal_Pradesh_Sh._Mukesh_Agnihotri_greeting_Mrs_Priyanka_Gandhi_at_Una_on_28th_May,_2024.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Dy_CM,_Himachal_Pradesh_Sh._Mukesh_Agnihotri_greeting_Mrs_Priyanka_Gandhi_at_Una_on_28th_May,_2024.jpg",
+  "treated": {
+   "src": "/photos/t-priyanka-special-session-delimitation-not-informed-nov-24-25-1280.jpg",
+   "src800": "/photos/t-priyanka-special-session-delimitation-not-informed-nov-24-25-640.jpg",
+   "cutout": false,
+   "with": [
+    "election-commission",
+    "special-intensive-revision-how-to-check-your-name",
+    "bills-in-parliament-tracker"
+   ],
+   "kind": "photo",
+   "subj": "ff99191f0b0f0703",
+   "credit": "Photos: Chetan dutt / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Fotokannan / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
+  }
  }
 }

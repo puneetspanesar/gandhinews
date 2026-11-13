@@ -6,7 +6,7 @@ section: states
 format_label: "States / Assam"
 topics: [states]
 title: "At least 23 killed as minibus and container truck collide head-on near Kaziranga in Assam"
-standfirst: "The crash at Rongajan in Golaghat district on National Highway 715 left more than 20 dead. Police say the minibus was speeding in a zone with restrictions, and Chief Minister Himanta Biswa Sarma has promised support to families."
+standfirst: "The crash at Rongajan in Golaghat district on National Highway 715 left at least 23 dead. Police say the minibus was speeding in a zone with restrictions, and Chief Minister Himanta Biswa Sarma has promised support to families."
 published: 2026-11-13T20:14:51+05:30
 location: Golaghat
 keyPoints:
@@ -76,13 +76,13 @@ Police and a state minister have said the early signs point to speed.
 
 The minibus was heading towards Nagaon when the container truck, coming from the opposite direction towards Upper Assam, hit it head-on near Hathikuli Tea Estate in the Kohora range. The first reports spoke of 7 and then 12 deaths. A Golaghat executive magistrate later said doctors had **confirmed 23 deaths**, and officials were still working on identifying the dead. Two of the dead were reported to be women, and several were said to be college students returning from classes.
 
-Injured passengers were first taken to Kohora Model Hospital. Those in a critical condition were referred to hospitals at Bokakhat and Golaghat, and most of the seriously hurt were moved to Jorhat Medical College and Hospital, where 12 passengers were admitted. Golaghat Superintendent of Police Swapnaneel Deka said senior civil and police officials rushed to the spot, and that the count could rise as rescuers recovered more bodies.
+Injured passengers were first taken to Kohora Model Hospital. Those in a critical condition were referred to hospitals at Bokakhat and Golaghat, and most of the seriously hurt were moved to Jorhat Medical College and Hospital. Golaghat Superintendent of Police Swapnaneel Deka said senior civil and police officials rushed to the spot, and that the count could rise as rescuers recovered more bodies.
 
 ## What police say caused it
 
 The cause has not been confirmed, but police have named speed. Deka said **the bus was running at very high speed** and was violating the restrictions imposed near the park. Police suspect the driver lost control of the minibus before the collision. According to reports, the vehicle already had 12 traffic challans against it, totalling ₹38,500, with a further ₹4,000 penalty outstanding.
 
-Cabinet minister Atul Bora, who is also the local MLA, reached the site while returning from Guwahati and helped monitor rescue work and the transport of the injured. He said the bus was speeding and flouting the restrictions imposed in the park area. The district administration is to examine possible violations of speed limits and passenger limits.
+Cabinet minister Atul Bora, who is also the local MLA, reached the site and helped monitor rescue work and the transport of the injured. He said the bus was speeding and flouting the restrictions imposed in the park area. The district administration is to examine possible violations of speed limits and passenger limits.
 
 The highway runs along the edge of the park, where strict speed limits apply because the road passes through animal corridors. Police say the minibus broke those restrictions.
 
@@ -102,7 +102,7 @@ Defence Minister Rajnath Singh also expressed anguish over the loss of lives, of
 
 ## Why it matters
 
-India's roads ministry has reported more than 183,000 road deaths in 2025, over 500 a day. Official data link many of these to poor road infrastructure, poorly maintained vehicles and driver fatigue. Friday's crash killed more than 20 people in one afternoon on a stretch where speed restrictions are already in force.
+India recorded more than 183,000 road deaths in 2025, over 500 a day, according to reports. Official data link many of these to poor road infrastructure, poorly maintained vehicles and driver fatigue. Friday's crash killed at least 23 people in one afternoon on a stretch where speed restrictions are already in force.
 
 For the families of the dead, the immediate questions are identification, treatment for the injured and compensation. Several of the dead were reported to be college students travelling home from classes.
 

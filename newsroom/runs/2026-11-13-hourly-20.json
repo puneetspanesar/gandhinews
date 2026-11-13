@@ -1,0 +1,37 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-13T20:10:38+05:30",
+ "end": "2026-11-13T20:44:28+05:30",
+ "summary": "Priyanka special Session lead, Kaziranga crash 23 dead, forex reserves; mangroves held",
+ "new": [
+  "forex-reserves-rise-719-billion-november-6-gold",
+  "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+  "priyanka-special-session-delimitation-not-informed-nov-24-25"
+ ],
+ "held": [
+  "mangroves-rebound-landsat-four-decades-nasa-science-study"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "mangroves-rebound-landsat-four-decades-nasa-science-study",
+   "kind": "picture",
+   "why": "The main picture is a 2017 ESA Sentinel-2 view of the Irrawaddy delta. The story and the NASA feature never mention that place. NASA's own images, the subject of the story, show Palaw Township in Myanmar's Myeik District in 2010 and 2026. Readers will take the delta image as the study's map. Also a fact error: the lede says mangroves lost almost 3,000 sq km 'in the late twentieth century' (HI 'बीसवीं सदी के आखिरी दशकों में'), but NASA puts the loss in 1984 to 2010.",
+   "fix": "Use NASA Earth Observatory's Landsat image of Palaw Township, Myeik District (public domain, from science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/), captioned 'Mangroves have replaced rice fields in parts of Myanmar's Myeik District (NASA Earth Observatory, Landsat)'. Change the lede to 'between 1984 and 2010' in EN and HI ('1984 से 2010 के बीच')."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+   "why": "Several details are not in any listed source. (1) '12 passengers were admitted' at Jorhat Medical College: none of the five sources gives a Jorhat count. The Federal's '12' is an early death figure. (2) Atul Bora 'returning from Guwahati': not in any source. (3) The 183,000 road deaths in 2025 are c",
+   "done": "Jorhat count and Guwahati detail deleted, 183,000 credited to reports, at least 23 in standfirst and Why it matters, Hindi grammar fixed (EN and HI); infographic re-rendered"
+  },
+  {
+   "id": "priyanka-special-session-delimitation-not-informed-nov-24-25",
+   "why": "Infographic stat '543 to 850, proposed ceiling on Lok Sabha seats' (HI '543 से 850') contradicts the body and Business Standard: the present ceiling is 550, and 543 is the current number of seats. The Hindi hero overlay \"'हम बाकी लोगों को बताया नहीं गया'\" is ungrammatical and does not match the quot",
+   "done": "Stat changed to 550 to 850 in EN and HI; Hindi overlay changed to the editor's wording; infographic re-rendered"
+  }
+ ],
+ "breaches": [],
+ "lead": "priyanka-special-session-delimitation-not-informed-nov-24-25"
+}
