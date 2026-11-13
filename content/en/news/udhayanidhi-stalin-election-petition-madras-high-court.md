@@ -70,7 +70,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Order itself (OA 861/2026 in ELP 18/2026) not opened; mhc site not read. Facts from LiveLaw, Bar and Bench, DT Next, Law Chakra, all Nov 13. Detailed order copy was awaited, so no reasoning quoted. Allegations: LiveLaw says corrupt practice/false affidavit; others say nomination papers and affidavit. Titles: LiveLaw says Leader of Opposition, DT Next says Deputy CM: avoided. Milany gender: reports say she/independent. Counter-affidavit 4 weeks from Nov 13 = about Dec 11 (computed)."
+    - "Order itself (OA 861/2026 in ELP 18/2026) not opened; mhc site not read. Facts from LiveLaw, Bar and Bench, DT Next, Law Chakra, all Nov 13. Detailed order copy was awaited, so no reasoning quoted. Allegations: LiveLaw says corrupt practice/false affidavit; others say nomination papers and affidavit. Titles: LiveLaw says Leader of Opposition, DT Next says Deputy CM: avoided. Milany: reports use he; June bench order date not in sources, written as early June. Counter-affidavit 4 weeks from Nov 13 = about Dec 11 (computed)."
 ---
 
 The Madras High Court on Friday **refused to throw out the election petition** challenging DMK leader Udhayanidhi Stalin's victory in the Chepauk-Thiruvallikeni constituency in Chennai. Justice G Arul Murugan dismissed the applications Stalin had filed to have the petition rejected at the threshold, and directed him to file his counter-affidavit **within four weeks** of the order dated November 13, 2026.
@@ -92,14 +92,14 @@ Milany, who also contested the seat and polled **30 votes**, filed the election 
 Stalin won the seat on May 4, 2026, polling **62,992 votes** against 55,852 for D Selvam of the TVK, a margin of 7,140 votes.
 
 ```timeline
-{"title":"How the petition reached trial","items":[{"date":"May 4, 2026","text":"Udhayanidhi Stalin declared elected from Chepauk-Thiruvallikeni"},{"date":"June 8, 2026","text":"A Division Bench orders election records supplied to Milany"},{"date":"June 18, 2026","text":"Milany files the election petition"},{"date":"October 22, 2026","text":"Arguments on Stalin's applications conclude"},{"date":"November 13, 2026","text":"Justice Arul Murugan dismisses the applications"}]}
+{"title":"How the petition reached trial","items":[{"date":"May 4, 2026","text":"Udhayanidhi Stalin declared elected from Chepauk-Thiruvallikeni"},{"date":"Early June 2026","text":"A Division Bench orders election records supplied to Milany"},{"date":"June 18, 2026","text":"Milany files the election petition"},{"date":"October 22, 2026","text":"Arguments on Stalin's applications conclude"},{"date":"November 13, 2026","text":"Justice Arul Murugan dismisses the applications"}]}
 ```
 
 ## How we got here
 
-The fight began over paperwork. Milany first went to court because the Election Commission would give her certified copies of the winner's nomination papers only after 45 days from the declaration of results. On June 8, a Division Bench of Justices G R Swaminathan and V Lakshminarayanan held that the 45-day limit **cannot apply to every request**, and told the District Election Officer to issue the certified copies within two weeks. The court observed that filing an election petition is a statutory right. Ten days later she filed the petition.
+The fight began over paperwork. Milany first went to court because the Election Commission would give certified copies of the winner's nomination papers only after 45 days from the declaration of results. In early June, a Division Bench of Justices G R Swaminathan and V Lakshminarayanan held that the 45-day limit **cannot apply to every request**, and told the District Election Officer to issue the certified copies within two weeks. The court observed that filing an election petition is a statutory right. The petition followed on June 18.
 
-Separately, on September 8, Milany filed a complaint before a Metropolitan Magistrate under Section 125A of the Representation of the People Act, which punishes false information in an election affidavit. She complained that it had been left pending without a number. The High Court closed that plea after the complaint was numbered and a notice before cognisance was issued.
+Separately, on September 8, Milany filed a complaint before a Metropolitan Magistrate under Section 125A of the Representation of the People Act, which punishes false information in an election affidavit. The complaint said it had been left pending without a number. The High Court closed that plea after the complaint was numbered and a notice before cognisance was issued.
 
 This is not the first time the Madras High Court has dealt with disputes over the Tamil Nadu election. Earlier it [upheld the Speaker's acceptance of AIADMK MLAs' resignations](/en/news/madras-high-court-upholds-speaker-aiadmk-mla-resignations) and heard a [petition over children in election reels](/en/news/madras-high-court-children-election-reels-salem-north-petition).
 

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+    "id": "udhayanidhi-stalin-election-petition-madras-high-court",
     "overlay": {
       "kicker": {
-        "en": "Politics / Maharashtra",
-        "hi": "राजनीति / महाराष्ट्र"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "Shah in Pune as NCP merger buzz builds",
-        "hi": "राकांपा विलय की चर्चा के बीच शाह पुणे में"
+        "en": "Election petition goes to trial",
+        "hi": "चुनाव याचिका पर चलेगा मुकदमा"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Maharashtra",
-        "hi": "महाराष्ट्र"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
@@ -38,17 +38,6 @@
         "text": {
           "en": "Revanth Reddy accuses Centre of blocking foreign guests as Bharat Summit opens in Hyderabad",
           "hi": "हैदराबाद में भारत समिट शुरू, रेवंत रेड्डी का आरोप: केंद्र ने विदेशी मेहमानों को रोका"
-        }
-      },
-      {
-        "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "lead": {
-          "en": "Ladakh:",
-          "hi": "लद्दाख:"
-        },
-        "text": {
-          "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
-          "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
         }
       },
       {
@@ -85,36 +74,47 @@
         }
       },
       {
-        "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "link": "forex-reserves-rise-719-billion-november-6-gold",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
-          "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
+          "en": "Forex reserves rise $2.49 billion to $719.55 billion, ending eight weeks of falls, as gold does the lifting",
+          "hi": "विदेशी मुद्रा भंडार 2.49 अरब डॉलर बढ़कर 719.55 अरब डॉलर, आठ हफ्तों की गिरावट थमी, सोने ने दिया सहारा"
         }
       },
       {
-        "link": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "link": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
         "lead": {
-          "en": "Tech Policy:",
-          "hi": "तकनीक नीति:"
+          "en": "Assam:",
+          "hi": "असम:"
         },
         "text": {
-          "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
-          "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
+          "en": "At least 23 killed as minibus and container truck collide head-on near Kaziranga in Assam",
+          "hi": "असम में काजीरंगा के पास मिनीबस और कंटेनर ट्रक की आमने-सामने टक्कर, कम से कम 23 की मौत"
         }
       },
       {
-        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "link": "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
+          "en": "Power:",
+          "hi": "बिजली:"
         },
         "text": {
-          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
-          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
+          "en": "CAG begins first integrated audit of 39 state power discoms, with a 10,000-consumer survey",
+          "hi": "कैग ने 39 राज्य बिजली वितरण कंपनियों का पहला समेकित ऑडिट शुरू किया, 10,000 उपभोक्ताओं का सर्वे भी"
+        }
+      },
+      {
+        "link": "nadda-who-global-tb-report-2026-india-mortality-38",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "India's TB deaths down 38% since 2015, health ministry says, against WHO's global 35%; Nadda hails result",
+          "hi": "2015 से भारत में टीबी से मौतें 38% घटीं, स्वास्थ्य मंत्रालय का दावा; डब्ल्यूएचओ के अनुसार वैश्विक गिरावट 35%, नड्डा ने सराहा"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "id": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
       "also": []
     },
     "list": [
-      "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
       "mann-lahore-world-punjabi-conference-mea-national-policy",
       "priyanka-special-session-delimitation-not-informed-nov-24-25",
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-      "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
+      "forex-reserves-rise-719-billion-november-6-gold",
+      "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+      "cag-first-integrated-audit-39-discoms-28-officers-survey"
     ],
     "also": [
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+      "nadda-who-global-tb-report-2026-india-mortality-38",
+      "arun-pocso-chargesheet-veeramani"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
         "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+        "priyanka-special-session-delimitation-not-informed-nov-24-25"
       ],
-      "lead": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+      "lead": "udhayanidhi-stalin-election-petition-madras-high-court"
     },
     {
       "section": "economy",
@@ -388,8 +388,8 @@
       },
       "list": [
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass"
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
@@ -525,23 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-13T14:42:23+05:30",
-      "ids": [
-        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
-        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
-      ]
-    },
-    {
       "at": "2026-11-13T15:32:37+05:30",
       "ids": [
         "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
@@ -641,15 +624,30 @@
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
       ]
+    },
+    {
+      "at": "2026-11-13T23:25:12+05:30",
+      "ids": [
+        "udhayanidhi-stalin-election-petition-madras-high-court",
+        "revanth-bharat-summit-visas-modi-hyderabad",
+        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+        "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "forex-reserves-rise-719-billion-november-6-gold",
+        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "nadda-who-global-tb-report-2026-india-mortality-38"
+      ]
     }
   ],
   "critical": [],
   "drop": [
     "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
     "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
     "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+    "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
   ]
 }

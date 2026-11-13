@@ -1,0 +1,21 @@
+{
+ "run": "hourly-23",
+ "start": "2026-11-13T23:05:50+05:30",
+ "end": "2026-11-13T23:28:10+05:30",
+ "summary": "Lead run: Madras HC keeps Udhayanidhi Stalin election petition alive",
+ "new": [
+  "udhayanidhi-stalin-election-petition-madras-high-court"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "udhayanidhi-stalin-election-petition-madras-high-court",
+   "why": "Milany given female pronouns; June 8 bench date not in sources",
+   "done": "Pronouns removed or made masculine in EN and HI (अदालत गए); June 8 changed to early June in text and timeline; petition date June 18 stated directly"
+  }
+ ],
+ "breaches": [],
+ "lead": "udhayanidhi-stalin-election-petition-madras-high-court"
+}

@@ -49516,6 +49516,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "DMK leader Udhayanidhi Stalin addressing a gathering (file photo)",
   "alt_hi": "डीएमके नेता उदयनिधि स्टालिन एक सभा को संबोधित करते हुए (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Udhayanidhi_Stalin_addressing_gathering.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Udhayanidhi_Stalin_addressing_gathering.jpg",
+  "treated": {
+   "src": "/photos/t-udhayanidhi-stalin-election-petition-madras-high-court-1280.jpg",
+   "src800": "/photos/t-udhayanidhi-stalin-election-petition-madras-high-court-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board--p2",
+    "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+    "supreme-court-contempt-notice-sanjay-raut-nikhil-wagle"
+   ],
+   "kind": "photo",
+   "subj": "ffffcfbf07000007",
+   "credit": "Photos: Vishwa Sundar / Wikimedia Commons; Yoga Balaji / Wikimedia Commons; Vroomtrapit / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  }
 }
