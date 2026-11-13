@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+    "id": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
     "overlay": {
       "kicker": {
-        "en": "Politics / Opposition",
-        "hi": "राजनीति / विपक्ष"
+        "en": "Politics / Energy",
+        "hi": "राजनीति / ऊर्जा"
       },
       "value": {
-        "en": "'The PM has my phone tapped'",
-        "hi": "'पीएम ने मेरा फोन टैप कराया'"
+        "en": "Gulf war and India's fuel storage",
+        "hi": "खाड़ी युद्ध और ईंधन भंडारण"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-      "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
     ],
     "live": {
       "title": {
-        "en": "Opposition",
-        "hi": "विपक्ष"
+        "en": "Energy",
+        "hi": "ऊर्जा"
       }
     }
   },
@@ -100,17 +96,6 @@
         }
       },
       {
-        "link": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi at Prashanti Kutiram jubilee in Bengaluru with Hosabale and Shivakumar; Pink Line ride and ₹15,600 crore of projects next",
-          "hi": "बेंगलुरु में मोदी प्रशांति कुटीरम स्वर्ण जयंती समारोह में, होसबाले और शिवकुमार साथ; आगे पिंक लाइन की सवारी और ₹15,600 करोड़ की परियोजनाएं"
-        }
-      },
-      {
         "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "lead": {
           "en": "Ladakh:",
@@ -119,6 +104,17 @@
         "text": {
           "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
           "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
+        }
+      },
+      {
+        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
+          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
         }
       }
     ]
@@ -194,11 +190,11 @@
       "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
       "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-      "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
     ],
     "also": [
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+      "delhi-aqi-402-severe-iit-delhi-488-friday"
     ]
   },
   "startHere": [
@@ -372,15 +368,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
       ],
-      "lead": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
+      "lead": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+      "lead": "retail-inflation-october-2026-6-09-two-year-high",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,9 +387,9 @@
         ]
       },
       "list": [
-        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
+        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
       ]
     },
     {
@@ -401,8 +397,8 @@
       "lead": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
       "list": [
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
       ]
     },
     {
@@ -529,23 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-13T06:42:31+05:30",
-      "ids": [
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-        "infosys-prize-2026-six-researchers-under-40-100000-each"
-      ]
-    },
-    {
       "at": "2026-11-13T07:15:57+05:30",
       "ids": [
         "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
@@ -653,15 +632,28 @@
         "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
       ]
+    },
+    {
+      "at": "2026-11-13T15:28:21+05:30",
+      "ids": [
+        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+      ]
     }
   ],
   "critical": [],
   "drop": [
     "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
     "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-    "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
-    "delimitation-bill-361-votes-needed-two-thirds-claim"
+    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
   ]
 }

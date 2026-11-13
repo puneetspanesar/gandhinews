@@ -1,0 +1,21 @@
+{
+ "run": "hourly-15",
+ "start": "2026-11-13T15:04:41+05:30",
+ "end": "2026-11-13T15:31:10+05:30",
+ "summary": "Lead run: Modi Bengaluru energy-security speech, LPG cavern",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+   "why": "Main picture is an extreme close-up of Narendra Modi's face cropped from mid-forehead to mouth: the top of his head and his chin are cut off, so it reads as a badly cropped face (rule 3). It is also a",
+   "done": "Replaced the hero with a lead_cover.py cover: the full 2020 official PMO portrait (head and shoulders in frame, close-up blocklisted) beside a Namma Metro train in Bengaluru."
+  }
+ ],
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+ ],
+ "lead": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+}
