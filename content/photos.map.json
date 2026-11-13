@@ -48741,7 +48741,20 @@
   "alt": "Prime Minister Narendra Modi and a Namma Metro train in Bengaluru (file photos)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और बेंगलुरु की नम्मा मेट्रो ट्रेन (फ़ाइल फ़ोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore--1280.jpg",
+   "src800": "/photos/t-modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore--640.jpg",
+   "cutout": true,
+   "with": [
+    "karnataka-heavy-rain-forecast-south-bengaluru-24-degrees",
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back--p1",
+    "railways-18000-festive-specials-trips-claim--p1"
+   ],
+   "kind": "photo",
+   "subj": "fffbf9dbc1808080",
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons; Gpkp / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Pulakit / Wikimedia Commons"
+  }
  },
  "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers": {
   "id": "o-rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
