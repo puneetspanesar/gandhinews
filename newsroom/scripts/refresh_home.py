@@ -252,6 +252,7 @@ if hist and _at(hist[-1]) >= _hour: hist[-1] = entry
 else: hist.append(entry)
 h['headlineHistory'] = hist[-8:]
 h['critical'] = [i for i in a.critical if allowed(i)]
+h['drop'] = list(a.drop)   # read by src/lib/home.ts: the dense blocks (Must Read, lists) skip these too
 if len(taken) < 8: print(f'WARNING: only {len(taken)} fresh headlines not shown last hour: publish more stories this run')
 
 json.dump(h, open('content/homepage.json', 'w'), ensure_ascii=False, indent=2)

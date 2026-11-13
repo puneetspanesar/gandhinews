@@ -656,6 +656,7 @@ export async function homeModel(lang: Lang) {
     const sameSubj = (a: string, b: string) => { const wb = new Set(words(b)); return words(a).filter((w) => wb.has(w)).length >= 2; };
     const pool = (secs: string[] | null, h = 168) => [...c.articles]   // sections: newest first, up to 7 days (owner, November 9)
       .filter((x: any) => x.data.type === 'news' && (!secs || secs.includes(x.data.section)) && age(x.data.id) <= h && hasPic(x.data.id) && !staleClock(x.data) && !expiredOnHome(x.data, enTitle(x.data.id)))
+      .filter((x: any) => !((HOME as any).drop ?? []).includes(x.data.id))   // refresh_home.py --drop also keeps these out of the dense blocks (editor, hourly-13, November 13: dropped previews still filled Must Read)
       .sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).map((x: any) => x.data.id as string);
     const take = (ids: string[], n: number, photoFirst = false) => {
       const ok = [...new Set(ids)].filter((id) => !seen.has(id) && c.all.get(id) && age(id) <= 168 && !expiredOnHome(get(id).data, enTitle(id)));

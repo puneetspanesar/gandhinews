@@ -1,0 +1,23 @@
+{
+ "run": "hourly-13",
+ "start": "2026-11-13T13:04:50+05:30",
+ "end": "2026-11-13T13:55:23+05:30",
+ "summary": "Lead run: Modi flags off Bengaluru Pink Line; homepage drop reaches dense blocks",
+ "new": [
+  "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+   "why": "I checked every figure against the PIB release (PRID 2335089) and the flag-off report, and they all match: 15,600; 3,470; 4,450 and 2 GW; 1,370 and 2.5 GW; 3,450; 1,100; total 10,370 (about two-thirds); 850, 80,000 t and 9.4 km; 330; 300 t and 12.6 t; 45 km; 55 km; the 3:30 pm planetarium with a 15 m dome and 6,150 panels; Governor Sudha Yadav; Krishna Byre Gowda; Tejasvi Surya; six stations from ",
+   "done": "Added 2026 to the three English dates; Hindi 1:15 pm items now attributed to the release in the 'was to' form (करनी थी / करना था / दिखानी थी), planetarium as scheduled, Gujarat trip in future; D.K. / डी.के. throughout. PIB still had no event photo, so the picture stays."
+  }
+ ],
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+ ],
+ "lead": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+}

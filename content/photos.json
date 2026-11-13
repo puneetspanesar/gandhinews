@@ -51848,13 +51848,16 @@
   "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg"
  },
  {
-  "id": "o-modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+  "id": "x-modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
   "articleId": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Prime_Minister_of_India_Narendra_Modi_%283x4_close_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Government of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi_(3x4_close_cropped).jpg"
+  "sourceUrl": "",
+  "credit": "Photos: Narendra Modi / Wikimedia Commons; Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons",
+  "licence": "CC BY 2.0 and GODL-India and CC BY 2.0",
+  "alt": "Prime Minister Narendra Modi and a Namma Metro train in Bengaluru (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और बेंगलुरु की नम्मा मेट्रो ट्रेन (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]
