@@ -7,7 +7,7 @@ format_label: "Explained / Banking"
 topics: [economy]
 title: "Expected credit loss explained: how the RBI's new rules will change the way banks provision for bad loans"
 standfirst: "The Reserve Bank is meeting bank chiefs on the expected credit loss framework that starts on April 1, 2027, and State Bank of India alone puts the one-time hit at ₹19,500 crore. What changes, why banks are worried, and what it means for borrowers."
-published: "2026-11-12T17:50:07+05:30"
+published: 2026-11-12T17:50:07+05:30
 shortAnswer: "Expected credit loss (ECL) is a way of setting aside money for loans before they go bad. Today Indian banks provide mainly after a borrower has stopped paying. From April 1, 2027, under the RBI's directions of April 27, 2026, they must estimate losses in advance, loan by loan, and provide for them from day one. The one-time cost is large, with public sector banks estimating ₹3,000 crore to ₹19,500 crore each, but the RBI lets banks spread the capital impact over four years."
 hero:
   need: "Reserve Bank of India headquarters in Mumbai, where the new provisioning directions were issued"

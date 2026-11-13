@@ -42,6 +42,9 @@ for lang in ('en', 'hi'):
     for f in glob.glob(f'content/{lang}/*/*.md'):
         d = yaml.safe_load(open(f).read().split('---')[1]) or {}
         t = d.get('published')
+        if isinstance(t, str):  # a quoted date ("2026-11-12T17:50:07+05:30") is still a date
+            try: t = dt.datetime.fromisoformat(t)
+            except ValueError: pass
         if not d.get('id') or not isinstance(t, dt.datetime): continue
         if lang == 'en':
             d['_t'] = t if t.tzinfo else t.replace(tzinfo=IST); A[d['id']] = d
