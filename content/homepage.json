@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+    "id": "nadda-who-global-tb-report-2026-india-mortality-38",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "Science & Tech / Health",
+        "hi": "विज्ञान-तकनीक / स्वास्थ्य"
       },
       "value": {
-        "en": "India's first LED-dome planetarium opens",
-        "hi": "देश का पहला एलईडी-डोम प्लैनेटेरियम खुला"
+        "en": "TB deaths down 38% since 2015",
+        "hi": "2015 से टीबी मौतें 38% कम"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Health",
+        "hi": "स्वास्थ्य"
       }
     }
   },
@@ -49,6 +49,17 @@
         "text": {
           "en": "Former Chennai police commissioner A Arun named accused in Veeramani POCSO case, with six other officers",
           "hi": "चेन्नई के पूर्व पुलिस आयुक्त ए अरुण वीरमणि पॉक्सो मामले में आरोपी, छह और अफसर भी नामजद"
+        }
+      },
+      {
+        "link": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Modi opens India's largest underground LPG cavern in Mangaluru and ties energy security to the Gulf war",
+          "hi": "मोदी ने मंगलुरु में देश की सबसे बड़ी भूमिगत एलपीजी गुफा खोली, खाड़ी युद्ध से जोड़ी ऊर्जा सुरक्षा"
         }
       },
       {
@@ -93,17 +104,6 @@
         "text": {
           "en": "Rahul Gandhi says PM Modi has his phone tapped, renews call for open debate on who is 'controlled by foreign powers'",
           "hi": "राहुल गांधी का आरोप, पीएम मोदी ने उनका फोन टैप करा रखा है; 'विदेशी ताकतों के काबू' पर खुली बहस की चुनौती दोहराई"
-        }
-      },
-      {
-        "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi flags off Bengaluru's Pink Line and rides with Shivakumar; ₹15,600 crore package of power lines, LPG cavern, Vande Bharat",
-          "hi": "मोदी ने बेंगलुरु की पिंक लाइन को हरी झंडी दिखाई, शिवकुमार के साथ सफर; ₹15,600 करोड़ का पैकेज: बिजली लाइनें, एलपीजी गुफा, वंदे भारत"
         }
       },
       {
@@ -186,11 +186,11 @@
       "also": []
     },
     "list": [
+      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
       "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
       "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-      "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     ],
     "also": [
       "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
@@ -370,9 +370,9 @@
       "list": [
         "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
         "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
       ],
-      "lead": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "lead": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
     },
     {
       "section": "economy",
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+        "india-bans-export-lithium-ion-battery-black-mass"
       ]
     },
     {
@@ -398,7 +398,7 @@
       "list": [
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps"
+        "delhi-aqi-402-severe-iit-delhi-488-friday"
       ]
     },
     {
@@ -453,14 +453,26 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
+        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "PM Modi opens the COSMOS-Mysuru planetarium at about 3:30 pm; Gujarat visit on November 14, 2026",
+        "hi": "प्रधानमंत्री मोदी करीब 3:30 बजे कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करेंगे; 14 नवंबर को गुजरात दौरा"
+      },
+      "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
     },
     {
       "icon": "calendar-blank",
@@ -473,6 +485,18 @@
         "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
       "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
+        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
+      },
+      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     },
     {
       "icon": "calendar-blank",
@@ -607,30 +631,20 @@
       ]
     },
     {
-      "at": "2026-11-13T17:25:52+05:30",
+      "at": "2026-11-13T17:17:49+05:30",
       "ids": [
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+        "nadda-who-global-tb-report-2026-india-mortality-38",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "arun-pocso-chargesheet-veeramani",
+        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
         "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
         "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
       ]
     }
   ],
   "critical": [],
-  "drop": [
-    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
-  ]
+  "drop": []
 }
