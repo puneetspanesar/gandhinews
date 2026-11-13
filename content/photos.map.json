@@ -17067,7 +17067,7 @@
   "src800": "/photos/v-grap-explained-delhi-air-stages-what-is-banned-640.jpg",
   "width": 1280,
   "height": 960,
-  "credit": "Photo: wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
   "licence": "CC BY 2.0",
   "alt": "Smog hangs over the Delhi skyline (file photo)",
   "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
@@ -27606,7 +27606,7 @@
     "delhi-rain-no-fix-pollution-experts-grap-stage-one"
    ],
    "kind": "scenes",
-   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons; Superfast1111 / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons"
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid / Wikimedia Commons; Superfast1111 / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons"
   }
  },
  "delhi-aqi-214-poor-sunday-morning-ncr-moderate": {
@@ -31057,7 +31057,7 @@
   "src800": "/photos/v-delhi-aqi-331-jahangirpuri-499-grap-stage-two-bg-640.jpg",
   "width": 1280,
   "height": 960,
-  "credit": "Photo: wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
   "licence": "CC BY 2.0",
   "alt": "Delhi smog (file photo)",
   "alt_hi": "Delhi smog (फ़ाइल फ़ोटो)",
@@ -38576,7 +38576,7 @@
    ],
    "kind": "scenes",
    "subj": "ffffff00808080",
-   "credit": "Photos: wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons"
+   "credit": "Photos: wili hybrid / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons"
   }
  },
  "conway-ruled-out-odi-series-kelly-henry-fit-wellington-eve": {
@@ -45409,7 +45409,7 @@
    ],
    "kind": "photo",
    "subj": "ffff3c1838380000",
-   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons; Sumitmpsd / Wikimedia Commons"
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid / Wikimedia Commons; Sumitmpsd / Wikimedia Commons"
   }
  },
  "kharge-vishwaguru-air-pollution-hawa-ka-hisaab-modi": {
@@ -46928,7 +46928,7 @@
    ],
    "kind": "photo",
    "subj": "f0f8fcfcfe9e0000",
-   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons"
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; wili hybrid / Wikimedia Commons"
   }
  },
  "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore": {
@@ -48472,5 +48472,124 @@
    "subj": "fffbb99b91f0e000",
    "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons; KshitizBathwal / Skyscape Photography / Wikimedia Commons; Rameshng / Wikimedia Commons; Manishontop02 / Wikimedia Commons"
   }
+ },
+ "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march": {
+  "id": "o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+  "src": "/photos/o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march-1280.jpg",
+  "src800": "/photos/o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5031,
+  "credit": "Photo: Sonam Wangchuk / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Ladakhi activist Sonam Wangchuk speaking at a 2017 event (file photo)",
+  "alt_hi": "2017 के एक कार्यक्रम में बोलते लद्दाख के कार्यकर्ता सोनम वांगचुक (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sonam_Wangchuk.jpg",
+  "treated": {
+   "src": "/photos/t-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-marc-1280.jpg",
+   "src800": "/photos/t-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-marc-640.jpg",
+   "cutout": false,
+   "with": [
+    "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed",
+    "parliament"
+   ],
+   "kind": "photo",
+   "subj": "3fff0000001f7f3f",
+   "credit": "Photos: Sonam Wangchuk / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons; Narendra Modi / Wikimedia Commons"
+  }
+ },
+ "delhi-aqi-402-severe-iit-delhi-488-friday": {
+  "id": "o-delhi-aqi-402-severe-iit-delhi-488-friday",
+  "src": "/photos/o-delhi-aqi-402-severe-iit-delhi-488-friday-1280.jpg",
+  "src800": "/photos/o-delhi-aqi-402-severe-iit-delhi-488-friday-640.jpg",
+  "width": 1280,
+  "height": 857,
+  "srcWidth": 3903,
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Smog over the Delhi skyline (file photo)",
+  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-aqi-402-severe-iit-delhi-488-friday-1280.jpg",
+   "src800": "/photos/t-delhi-aqi-402-severe-iit-delhi-488-friday-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300",
+    "delhi-grap-stage-three-aqi-382-caqm",
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot"
+   ],
+   "kind": "photo",
+   "subj": "7fff7f0000c080",
+   "credit": "Photos: wili hybrid / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons"
+  }
+ },
+ "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win": {
+  "id": "o-srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+  "src": "/photos/o-srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win-1280.jpg",
+  "src800": "/photos/o-srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1785,
+  "credit": "Photo: Pierre-Yves Beaudouin / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Kidambi Srikanth playing at the 2013 French Open (file photo)",
+  "alt_hi": "2013 फ्रेंच ओपन में खेलते किदांबी श्रीकांत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Yonex_IFB_2013_-_Eightfinal_-_Boonsak_Ponsana_%E2%80%94_K._Srikanth_01.jpg",
+  "treated": {
+   "src": "/photos/t-srikanth-watanabe-kumamoto-masters-quarter-final-exit-after--1280.jpg",
+   "src800": "/photos/t-srikanth-watanabe-kumamoto-masters-quarter-final-exit-after--640.jpg",
+   "cutout": true,
+   "with": [
+    "nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold",
+    "satwik-chirag-out-french-open-popov-brothers-tanvi-ashmita"
+   ],
+   "kind": "photo",
+   "subj": "e0e0387c7c3c3c",
+   "credit": "Photos: Pierre-Yves Beaudouin / Wikimedia Commons; Kelly Pariona Lagos / Wikimedia Commons; Badplayer"
+  }
+ },
+ "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends": {
+  "id": "i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+  "src": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-en-3x2-1280.jpg",
+  "src800": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Eight dead as Brooklyn building falls into pit",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ब्रुकलिन में इमारत गड्ढे में गिरी, आठ की मौत",
+  "page": null,
+  "ihash": "745a4fdd64ed",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-hi-3x2-1280.jpg",
+    "src800": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-en-t-1280.jpg",
+    "src800": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-hi-t-1280.jpg",
+    "src800": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-en-1280.jpg",
+    "src800": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-hi-1280.jpg",
+    "src800": "/photos/i-brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Brooklyn collapse or a New York building collapse rescue; library, quick_photo, finder h1310 (only 9/11 scenes)"
  }
 }

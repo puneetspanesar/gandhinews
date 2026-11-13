@@ -182,7 +182,7 @@ INSTITUTION = [  # story words -> Indian institutions and settings that belong w
     (r'smog|AQI|air quality|pollution|GRAP', r'smog|haze|pollution'),
 ]
 UNIVERSAL = [  # settings that fit a story anywhere in the world
-    (r'cricket|Test|ODI|T20|IPL', r'cricket|stadium'), (r'tennis|ATP|WTA|Masters|Open\b', r'tennis'), (r'hockey|football|athlet|Olympic|chess|badminton|shoot|Formula|F1\b|Grand Prix', r'stadium|arena|circuit'),
+    (r'cricket|Test|ODI|T20|IPL', r'cricket|stadium'), (r'tennis|ATP|WTA|Masters|Open\b', r'tennis'), (r'badminton|shuttler', r'badminton|shuttle'), (r'hockey|football|athlet|Olympic|chess|shoot|Formula|F1\b|Grand Prix', r'stadium|circuit|sports arena'),
     (r'ISRO|NASA|rocket|launch|satellite|space|orbit|moon|Mars', r'rocket|launch|satellite|space|ISRO|NASA'),
     (r'semiconductor|Nvidia|chipmaker|chip stocks|data centre|TSMC|ASML', r'semiconductor|chip|wafer|data cent|server'),
     (r'oil|crude|Brent|OPEC|refiner|gas\b|LNG', r'oil|refinery|tanker|OPEC|LNG'), (r'ship|vessel|port|shipping|Hormuz|Red Sea', r'port|ship|vessel|tanker'),
@@ -279,7 +279,8 @@ def fill_tiles(sid, M, have, n=3):
             if any(same_pic('public' + x['src'], 'public' + M[o]['src']) for o in list(out) + list(have) for x in [M[k]]): continue
             if any(simalt(M[o].get('alt'), M[k].get('alt')) for o in out): continue   # two views of one building
             out.append(k); took += 1
-    for c in countries: pick(COUNTRY[c][1], 2)                                      # Kyiv for a Zelenskyy story
+    sport = d.get('section') == 'sports'
+    for c in countries: pick(COUNTRY[c][1] if not sport else rf'(?=[^\n]*(?:{COUNTRY[c][1]}))(?=[^\n]*(?:stadium|arena|gymnasium|badminton|sport|ground|court|match))', 2)   # Kyiv for a Zelenskyy story; a sports story takes only that country's sports venues (no Tokyo stock board behind a badminton player)
     if state:   # civic landmarks of the dateline's state only
         st_rx = re.escape(state) + '|' + '|'.join(re.escape(c) for c, st in ALIAS.items() if st == state)
         civic = r'Vidhan|Bhavan|Bhawan|Secretariat|Writers|headquarters|High Court|assembly|skyline|city|Raj Bhavan|Nabanna|Lalbazar'

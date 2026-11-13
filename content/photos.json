@@ -22243,7 +22243,7 @@
   "id": "cx-grap-explained-delhi-air-stages-what-is-banned-0",
   "articleId": "part:grap-explained-delhi-air-stages-what-is-banned:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg/1600px-Smog_in_the_skies_of_Delhi%2C_India.jpg",
-  "credit": "wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik",
+  "credit": "wili hybrid",
   "licence": "CC BY 2.0",
   "alt": "",
   "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg"
@@ -22252,7 +22252,7 @@
   "id": "x-grap-explained-delhi-air-stages-what-is-banned",
   "articleId": "grap-explained-delhi-air-stages-what-is-banned",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg/1600px-Smog_in_the_skies_of_Delhi%2C_India.jpg",
-  "credit": "Photo: wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
   "licence": "CC BY 2.0",
   "alt": "Smog hangs over the Delhi skyline (file photo)",
   "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
@@ -43262,7 +43262,7 @@
   "id": "cx-delhi-aqi-331-jahangirpuri-499-grap-stage-two--bg-0",
   "articleId": "part:delhi-aqi-331-jahangirpuri-499-grap-stage-two--bg:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg/1600px-Smog_in_the_skies_of_Delhi%2C_India.jpg",
-  "credit": "wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik",
+  "credit": "wili hybrid",
   "licence": "CC BY 2.0",
   "alt": "",
   "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg"
@@ -43271,7 +43271,7 @@
   "id": "x-delhi-aqi-331-jahangirpuri-499-grap-stage-two--bg",
   "articleId": "delhi-aqi-331-jahangirpuri-499-grap-stage-two--bg",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg/1600px-Smog_in_the_skies_of_Delhi%2C_India.jpg",
-  "credit": "Photo: wili hybrid Original uploader was Lokantha at en.wikipedia. Later version(s) were uploaded by Nikkul, Thisglad at en.wik / Wikimedia Commons",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
   "licence": "CC BY 2.0",
   "alt": "Delhi smog (file photo)",
   "alt_hi": "Delhi smog (फ़ाइल फ़ोटो)",
@@ -51746,5 +51746,35 @@
   "composite": [
    "lead-cover"
   ]
+ },
+ {
+  "id": "o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+  "articleId": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sonam_Wangchuk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Sonam Wangchuk / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Ladakhi activist Sonam Wangchuk speaking at a 2017 event (file photo)",
+  "alt_hi": "2017 के एक कार्यक्रम में बोलते लद्दाख के कार्यकर्ता सोनम वांगचुक (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sonam_Wangchuk.jpg"
+ },
+ {
+  "id": "o-delhi-aqi-402-severe-iit-delhi-488-friday",
+  "articleId": "delhi-aqi-402-severe-iit-delhi-488-friday",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Smog over the Delhi skyline (file photo)",
+  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg"
+ },
+ {
+  "id": "o-srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+  "articleId": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yonex_IFB_2013_-_Eightfinal_-_Boonsak_Ponsana_%E2%80%94_K._Srikanth_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Pierre-Yves Beaudouin / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Kidambi Srikanth playing at the 2013 French Open (file photo)",
+  "alt_hi": "2013 फ्रेंच ओपन में खेलते किदांबी श्रीकांत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Yonex_IFB_2013_-_Eightfinal_-_Boonsak_Ponsana_%E2%80%94_K._Srikanth_01.jpg"
  }
 ]
