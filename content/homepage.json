@@ -52,6 +52,17 @@
         }
       },
       {
+        "link": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Modi opens India's largest underground LPG cavern in Mangaluru and ties energy security to the Gulf war",
+          "hi": "मोदी ने मंगलुरु में देश की सबसे बड़ी भूमिगत एलपीजी गुफा खोली, खाड़ी युद्ध से जोड़ी ऊर्जा सुरक्षा"
+        }
+      },
+      {
         "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "lead": {
           "en": "Awards:",
@@ -104,17 +115,6 @@
         "text": {
           "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
           "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
-        }
-      },
-      {
-        "link": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "lead": {
-          "en": "Tech Policy:",
-          "hi": "तकनीक नीति:"
-        },
-        "text": {
-          "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
-          "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
+      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
       "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
       "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     ],
     "also": [
-      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
     ]
   },
   "startHere": [
@@ -369,8 +369,8 @@
       },
       "list": [
         "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
       ],
       "lead": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
     },
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+        "india-bans-export-lithium-ion-battery-black-mass"
       ]
     },
     {
@@ -398,7 +398,7 @@
       "list": [
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps"
+        "delhi-aqi-402-severe-iit-delhi-488-friday"
       ]
     },
     {
@@ -425,8 +425,8 @@
       "lead": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "list": [
         "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed"
       ]
     },
     {
@@ -524,20 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T09:26:52+05:30",
-      "ids": [
-        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
-      ]
-    },
     {
       "at": "2026-11-13T10:33:45+05:30",
       "ids": [
@@ -643,19 +629,22 @@
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
       ]
+    },
+    {
+      "at": "2026-11-13T17:17:49+05:30",
+      "ids": [
+        "nadda-who-global-tb-report-2026-india-mortality-38",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "arun-pocso-chargesheet-veeramani",
+        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-    "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-    "mastung-kanak-camp-truck-blast-police-toll-disputed"
-  ]
+  "drop": []
 }

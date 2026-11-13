@@ -1,0 +1,16 @@
+{
+ "run": "stall-17",
+ "start": "2026-11-13T17:16:55+05:30",
+ "end": "2026-11-13T17:24:57+05:30",
+ "summary": "homepage rotated with the 1-hour-old TB lead kept; rotation job had refused",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "a science story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news): nadda-who-global-tb-report-2026-india-mortality-38",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+ ],
+ "lead": "nadda-who-global-tb-report-2026-india-mortality-38"
+}
