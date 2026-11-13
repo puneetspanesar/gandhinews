@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "priyanka-special-session-delimitation-not-informed-nov-24-25",
+    "id": "forex-reserves-rise-719-billion-november-6-gold",
     "overlay": {
       "kicker": {
-        "en": "Politics / Parliament",
-        "hi": "राजनीति / संसद"
+        "en": "Economy / RBI",
+        "hi": "अर्थव्यवस्था / आरबीआई"
       },
       "value": {
-        "en": "'They have not intimated the rest of us'",
-        "hi": "'उन्होंने बाकी लोगों को सूचित नहीं किया'"
+        "en": "Reserves up to $719.5 billion",
+        "hi": "भंडार बढ़कर 719.5 अरब डॉलर"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "delimitation-bill-361-votes-needed-two-thirds-claim",
-      "goa-st-seat-reservation-explained-supreme-court",
-      "special-session-of-parliament-explained-shah-offer-cec-removal"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "mann-lahore-world-punjabi-conference-mea-national-policy"
     ],
     "live": {
       "title": {
-        "en": "Parliament",
-        "hi": "संसद"
+        "en": "RBI",
+        "hi": "आरबीआई"
       }
     }
   },
@@ -45,17 +41,6 @@
         }
       },
       {
-        "link": "forex-reserves-rise-719-billion-november-6-gold",
-        "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
-        },
-        "text": {
-          "en": "Forex reserves rise $2.49 billion to $719.55 billion, ending eight weeks of falls, as gold does the lifting",
-          "hi": "विदेशी मुद्रा भंडार 2.49 अरब डॉलर बढ़कर 719.55 अरब डॉलर, आठ हफ्तों की गिरावट थमी, सोने ने दिया सहारा"
-        }
-      },
-      {
         "link": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
         "lead": {
           "en": "Assam:",
@@ -64,6 +49,17 @@
         "text": {
           "en": "At least 23 killed as minibus and container truck collide head-on near Kaziranga in Assam",
           "hi": "असम में काजीरंगा के पास मिनीबस और कंटेनर ट्रक की आमने-सामने टक्कर, कम से कम 23 की मौत"
+        }
+      },
+      {
+        "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi opens India's first LED-dome planetarium in Mysuru, tours the Sky Theatre with Sitharaman and Shivakumar",
+          "hi": "मोदी ने मैसूरु में देश के पहले एलईडी-डोम प्लैनेटेरियम का उद्घाटन किया, सीतारमण और शिवकुमार के साथ स्काई थिएटर देखा"
         }
       },
       {
@@ -100,25 +96,25 @@
         }
       },
       {
-        "link": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Modi opens India's largest underground LPG cavern in Mangaluru and ties energy security to the Gulf war",
-          "hi": "मोदी ने मंगलुरु में देश की सबसे बड़ी भूमिगत एलपीजी गुफा खोली, खाड़ी युद्ध से जोड़ी ऊर्जा सुरक्षा"
+          "en": "President Murmu presents National Sports Awards 2025, Divya Deshmukh and Tejaswin Shankar among Arjuna winners",
+          "hi": "राष्ट्रपति मुर्मू ने राष्ट्रीय खेल पुरस्कार 2025 प्रदान किए, अर्जुन पुरस्कार पाने वालों में दिव्या देशमुख और तेजस्विन शंकर"
         }
       },
       {
-        "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "link": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
-          "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
+          "en": "Three crude bombs explode at two court premises in Jashore, the latest blasts in a week of bomb and arson attacks across Bangladesh",
+          "hi": "जशोर में दो अदालत परिसरों में तीन देसी बम फटे, बांग्लादेश में हफ्ते भर से जारी बम और आगजनी के हमलों की ताजा कड़ी"
         }
       }
     ]
@@ -186,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "forex-reserves-rise-719-billion-november-6-gold",
+      "id": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
       "also": []
     },
     "list": [
-      "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+      "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
       "cag-first-integrated-audit-39-discoms-28-officers-survey",
       "nadda-who-global-tb-report-2026-india-mortality-38",
       "arun-pocso-chargesheet-veeramani",
-      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
     ],
     "also": [
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+      "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
     ]
   },
   "startHere": [
@@ -461,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
+        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     },
     {
       "icon": "calendar-blank",
@@ -473,10 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
-        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
+        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
+        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
       },
-      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
     {
       "icon": "calendar-blank",
@@ -528,22 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T12:49:06+05:30",
-      "ids": [
-        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "up-voter-list-2026-check-name-after-sir",
-        "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "delhi-aqi-402-severe-iit-delhi-488-friday",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
-      ]
-    },
     {
       "at": "2026-11-13T13:56:11+05:30",
       "ids": [
@@ -647,16 +627,22 @@
         "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
       ]
+    },
+    {
+      "at": "2026-11-13T21:20:03+05:30",
+      "ids": [
+        "forex-reserves-rise-719-billion-november-6-gold",
+        "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "nadda-who-global-tb-report-2026-india-mortality-38",
+        "arun-pocso-chargesheet-veeramani",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-    "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-    "delhi-aqi-402-severe-iit-delhi-488-friday"
-  ]
+  "drop": []
 }
