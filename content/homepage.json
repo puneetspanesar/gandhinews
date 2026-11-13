@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+    "id": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
     "overlay": {
       "kicker": {
-        "en": "World / US-China",
-        "hi": "दुनिया / अमेरिका-चीन"
+        "en": "States / Madhya Pradesh",
+        "hi": "राज्य / मध्य प्रदेश"
       },
       "value": {
-        "en": "Rubio, Wang Yi talk before Shenzhen",
-        "hi": "शेनझेन से पहले रुबियो, वांग यी की बात"
+        "en": "₹1,500 for 1.24 crore women",
+        "hi": "1.24 करोड़ महिलाओं को ₹1,500"
       },
       "text": {
         "en": "",
@@ -16,105 +16,109 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "bbmb-power-sharing-explained-himachal-share-supreme-court",
+      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
+    ],
     "relatedBeside": [
-      "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "mastung-kanak-camp-truck-blast-police-toll-disputed"
     ],
     "live": {
       "title": {
-        "en": "US-China",
-        "hi": "अमेरिका-चीन"
+        "en": "Madhya Pradesh",
+        "hi": "मध्य प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "link": "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Pakistan:",
+          "hi": "पाकिस्तान:"
         },
         "text": {
-          "en": "Sensex and Nifty edge up for a third day as realty jumps 4.5% and Godrej Industries gains on Temasek deal",
-          "hi": "सेंसेक्स और निफ्टी लगातार तीसरे दिन बढ़त पर, रियल्टी 4.5% चढ़ा और टेमासेक सौदे से गोदरेज इंडस्ट्रीज उछला"
+          "en": "Mastung truck bomb: police say two civilians died, local reports claim dozens of soldiers killed",
+          "hi": "मस्तुंग में ट्रक बम: पुलिस के मुताबिक दो नागरिक मरे, स्थानीय रिपोर्टों में दर्जनों सैनिकों की मौत का दावा"
         }
       },
       {
-        "link": "aap-second-list-31-punjab-mlas-dropped-two-mps",
+        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
+          "en": "Agriculture:",
+          "hi": "कृषि:"
         },
         "text": {
-          "en": "AAP drops agriculture minister Khuddian, fields two MPs in second list of 31 for Punjab",
-          "hi": "आप की दूसरी सूची में 31 नाम: कृषि मंत्री खुड्डियां का टिकट कटा, दो सांसदों को मैदान में उतारा"
+          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
+          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
         }
       },
       {
-        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "link": "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "Bhupender Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies",
+          "hi": "भूपेंद्र यादव ने इस्पात, सीमेंट और परिवहन कंपनियों से कहा: भारत की जलवायु कार्रवाई सरकार, उद्योग और शिक्षा जगत के सहयोग पर टिकी, लीडआईटी में अब 19 देश और 33 कंपनियां"
+        }
+      },
+      {
+        "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "lead": {
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
+        },
+        "text": {
+          "en": "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA",
+          "hi": "खबरों के मुताबिक विलय और एनडीए के सवाल पर शरद पवार का राकांपा (एसपी) खेमा चार धड़ों में बंटा"
+        }
+      },
+      {
+        "link": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
-          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
+          "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
+          "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
         }
       },
       {
-        "link": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
+        "link": "retail-inflation-october-2026-6-09-two-year-high",
         "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
+          "en": "Inflation:",
+          "hi": "महंगाई:"
         },
         "text": {
-          "en": "Putin hosts Witkoff and Kushner in Moscow; Kremlin calls talks 'constructive' and agrees to plan a Kostiantynivka humanitarian mission",
-          "hi": "पुतिन ने मॉस्को में विटकॉफ और कुशनर से की बातचीत; क्रेमलिन ने कहा 'रचनात्मक', कोस्तियंतिनिव्का में मानवीय मिशन पर संपर्क शुरू होंगे"
+          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
+          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
         }
       },
       {
-        "link": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+        "link": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "lead": {
-          "en": "Air pollution:",
-          "hi": "वायु प्रदूषण:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Farm unions say cars, not stubble, drive Delhi's smog after Supreme Court asks four states for vehicle plans",
-          "hi": "किसान संगठन बोले, दिल्ली के स्मॉग की वजह गाड़ियां हैं, पराली नहीं; सुप्रीम कोर्ट ने चार राज्यों से मांगी वाहन योजना"
+          "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
+          "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
         }
       },
       {
-        "link": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Shivakumar says Karnataka will welcome Modi and press drought relief; PM told him to come to Delhi for a private meeting",
-          "hi": "शिवकुमार बोले, कर्नाटक मोदी का स्वागत करेगा और सूखा राहत मांगेगा; प्रधानमंत्री ने निजी मुलाकात के लिए दिल्ली बुलाया"
-        }
-      },
-      {
-        "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Anushka Sharma to captain India A women against England A, with Shreyanka Patil in all three squads",
-          "hi": "इंग्लैंड ए के खिलाफ भारत ए महिला टीम की कप्तान अनुष्का शर्मा, श्रेयंका पाटिल तीनों टीमों में"
-        }
-      },
-      {
-        "link": "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-        "lead": {
-          "en": "Southeast Asia:",
-          "hi": "दक्षिण-पूर्व एशिया:"
-        },
-        "text": {
-          "en": "Indonesia's vice president Gibran resigns hours before an impeachment hearing over his school diploma",
-          "hi": "महाभियोग की सुनवाई से कुछ घंटे पहले इंडोनेशिया के उपराष्ट्रपति गिब्रान ने इस्तीफा दिया"
+          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
+          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "aap-second-list-31-punjab-mlas-dropped-two-mps",
+      "id": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
       "also": []
     },
     "list": [
-      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-      "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-      "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-      "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-      "india-a-women-squads-england-a-shreyanka-patil-recalled"
+      "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+      "retail-inflation-october-2026-6-09-two-year-high",
+      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
     ],
     "also": [
-      "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+      "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
     ]
   },
   "startHere": [
@@ -394,10 +398,10 @@
     },
     {
       "section": "states",
-      "lead": "aap-second-list-31-punjab-mlas-dropped-two-mps",
+      "lead": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
       "list": [
+        "aap-second-list-31-punjab-mlas-dropped-two-mps",
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
       ]
     },
@@ -422,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+      "lead": "mastung-kanak-camp-truck-blast-police-toll-disputed",
       "list": [
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
         "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
+        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
       ]
     },
     {
@@ -457,10 +461,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
+        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
       },
-      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
     },
     {
       "icon": "calendar-blank",
@@ -524,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T18:54:40+05:30",
-      "ids": [
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
-        "daily-crr-rule-explained-banks-borrowers",
-        "imf-world-economic-outlook-explained-india-rbi",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "kishtwar-two-missing-spos-bodies-recovered-weapons-missing",
-        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
-      ]
-    },
     {
       "at": "2026-11-12T19:30:47+05:30",
       "ids": [
@@ -645,6 +632,23 @@
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
+      ]
+    },
+    {
+      "at": "2026-11-13T06:42:31+05:30",
+      "ids": [
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "infosys-prize-2026-six-researchers-under-40-100000-each"
       ]
     }
   ],

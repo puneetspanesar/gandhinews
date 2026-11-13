@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "Science & Tech / Climate"
 topics: []
-title: "Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies"
+title: "Bhupender Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies"
 standfirst: "The Environment Minister met members of the India-Sweden Leadership Group for Industry Transition in New Delhi on Thursday, days into the COP31 talks in Antalya, where he is expected to join in the second week."
 published: 2026-11-12T20:22:00+05:30
 location: New Delhi

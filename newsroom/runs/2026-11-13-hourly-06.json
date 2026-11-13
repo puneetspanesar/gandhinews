@@ -1,0 +1,27 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-13T06:07:13+05:30",
+ "end": "2026-11-13T06:45:05+05:30",
+ "summary": "Laadli Behna 42nd instalment leads; Mastung blast; Rawalpindi day five held",
+ "new": [
+  "mastung-kanak-camp-truck-blast-police-toll-disputed",
+  "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+ ],
+ "held": [
+  "rawalpindi-test-day-five-wtc-points-draw-win-pakistan-sri-lanka"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "rawalpindi-test-day-five-wtc-points-draw-win-pakistan-sri-lanka",
+   "kind": "picture",
+   "why": "The new main picture is a distant wide shot of a Test at a Sri Lankan ground (palm-covered hills, Galle/Colombo-style pavilion), not Rawalpindi, and from an unknown earlier series. Every player is a tiny white figure, so no one is recognisable. It reads as a generic stock stand-in and does not show the match or venue the headline is about (rules 1 and 3). The hero alt in both EN and HI still says 'Babar Azam (file photo)', which no longer matches the picture.",
+   "fix": "Use a recognisable photo of a player in this match: Saqib Khan (7 for 130 on debut), Pakistan captain Salman Agha, or Dhananjaya de Silva, via the library, quick_photo.py and the finder. If no player photo works, use a photo of Rawalpindi Cricket Stadium itself, labelled as a file photo. Update the hero alt in EN and HI to match whatever is used."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work"
+ ],
+ "lead": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+}

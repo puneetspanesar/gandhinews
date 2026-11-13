@@ -69,7 +69,7 @@ Most reports expect a draw. Even so, the arithmetic of the World Test Championsh
 
 Sri Lanka, resuming on 404 for 4, were bowled out for 446 on Thursday, a first-innings lead of 12 over Pakistan's 434 for 9 declared. Debutant **Saqib Khan finished with 7 for 130** from 34 overs, taking five of the six wickets that fell for 42 runs. Dhananjaya de Silva made 167 and Kusal Mendis 119, and their stand of 249 for the fifth wicket is what took Sri Lanka past Pakistan's total. Our [day four report](/en/news/pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi) has the full innings.
 
-In the second innings, opener Tayyab Arif was lbw to Asitha Fernando for 11. **Azan Awais (22) and Mohammad Taha (24)** are unbeaten after adding 42 for the second wicket in 21.2 overs. Babar Azam, Saud Shakeel and captain Salman Agha are still to bat, which is the middle order Pakistan will lean on if they want to set a target quickly.
+In the second innings, opener Tayyab Arif was lbw to Asitha Fernando for 11. Pakistan reached 57 for 1 in 21.2 overs, with **Azan Awais (22) and Mohammad Taha (24)** unbeaten after adding 42 for the second wicket. Babar Azam, Saud Shakeel and captain Salman Agha are still to bat, which is the middle order Pakistan will lean on if they want to set a target quickly.
 
 ## What a result is worth
 

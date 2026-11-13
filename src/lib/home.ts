@@ -667,7 +667,7 @@ export async function homeModel(lang: Lang) {
       return out.map((id) => ({ ...short(card(id)), st: labelParts(get(id).data.format_label).slice(-1)[0] ?? '', real: real(id) }));
     };
     const hl = headlines.map((x: any) => x.id);
-    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool(['politics', 'policy', 'states', 'world', 'economy'].filter((s) => s !== lead.d.section), 24)], 4);   // no older pieces of the lead's own running story under it (editor, 18:00 run, November 11)   // always two full rows under the lead
+    const leadLinks = take([...lead.below.map((x: any) => x.id), ...pool(['politics', 'policy', 'states', 'world', 'economy'].filter((s) => s !== lead.d.section), 24)], 6);   // no older pieces of the lead's own running story under it (editor, 18:00 run, November 11)   // three rows under the lead (hourly-06, November 13: 213px gap under the lead at 1440px with two rows)
     // the middle column always opens with a real photo: from the headlines, else the newest pictured news of the last 24 hours
     const second = take([...hl, ...pool(['politics', 'policy', 'states', 'world', 'economy'], 24)].filter((id) => real(id) && !['sports', 'science', 'tech'].includes(get(id).data.section)), 1);
     const secN: Record<string, number> = { [lead.d.section]: 1 }; second.forEach((x: any) => { const sc = get(x.id).data.section; secN[sc] = (secN[sc] ?? 0) + 1; });
