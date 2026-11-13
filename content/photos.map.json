@@ -48453,11 +48453,24 @@
   "src800": "/photos/v-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-640.jpg",
   "width": 1280,
   "height": 800,
-  "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons",
+  "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons",
   "licence": "GODL-India and CC BY 2.0",
   "alt": "Narendra Modi and a Namma Metro train in Bengaluru (file photos)",
   "alt_hi": "नरेंद्र मोदी और बेंगलुरु की नम्मा मेट्रो ट्रेन (फ़ाइल फ़ोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-1280.jpg",
+   "src800": "/photos/t-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-640.jpg",
+   "cutout": true,
+   "with": [
+    "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+    "wipro-guidance-december-quarter-large-deals-fall",
+    "sensex-nifty-close-november-2--p3"
+   ],
+   "kind": "photo",
+   "subj": "fffbb99b91f0e000",
+   "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons; KshitizBathwal / Skyscape Photography / Wikimedia Commons; Rameshng / Wikimedia Commons; Manishontop02 / Wikimedia Commons"
+  }
  }
 }

@@ -7,7 +7,7 @@ format_label: "Explained / Agriculture"
 topics: [agriculture-msp, economy]
 title: "Fertiliser subsidy explained: how the nutrient-based subsidy works and why the rabi bill jumped 64%"
 standfirst: "The Cabinet has approved ₹62,370 crore for phosphatic and potassic fertilisers for October 2026 to March 2027, ₹24,418 crore more than last rabi, while a bag of DAP stays at ₹1,350. Who pays what, and why prices abroad matter so much."
-published: "2026-11-12T17:50:07+05:30"
+published: 2026-11-12T17:50:07+05:30
 shortAnswer: "India pays fertiliser makers and importers a fixed subsidy on every kilogram of nutrient in phosphatic and potassic (P&K) fertilisers such as DAP, so that farmers can buy them at a steady price. This is the nutrient-based subsidy (NBS). For the rabi season from October 1, 2026, to March 31, 2027, the Cabinet set it at ₹62,370 crore, up from ₹37,952 crore a year earlier, because global prices have risen. Urea is outside this scheme and has its own fixed farm price."
 hero:
   need: "Farmers buying fertiliser bags during the rabi sowing season"

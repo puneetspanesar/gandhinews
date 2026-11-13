@@ -99,10 +99,6 @@ The COSMOS-Mysuru Planetarium, built by the Indian Institute of Astrophysics on 
 
 The visit was announced in the release of November 11, and our [first report](/en/news/modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview) set out the full list. Karnataka's government has been preparing for it in public. On Thursday, Chief Minister D K Shivakumar told reporters in Bengaluru that the state would **welcome the Prime Minister respectfully**, and added: "We will certainly raise the issues." Asked whether he would seek drought relief and funds, he said "Definitely", but would not give details. He said Modi had asked him to come to Delhi for the private meeting he had sought; no date has been given. Our [report on those remarks](/en/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting) has the demands already sent to the Centre, from a Bengaluru package to irrigation clearances and the sugar minimum selling price.
 
-```photo
-{"n":2,"subject":"D. K. Shivakumar","caption":"Karnataka Chief Minister D K Shivakumar, who said the state will place its issues before the Prime Minister.","alt":"Karnataka Chief Minister D K Shivakumar"}
-```
-
 The day before, at the Bharat Agriculture Conference in Delhi on Thursday, Modi urged farmers to cut chemical use, as set out in our [report on natural farming](/en/news/modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser).
 
 ## Why it matters

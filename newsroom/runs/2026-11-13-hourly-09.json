@@ -1,0 +1,26 @@
+{
+ "run": "hourly-09",
+ "start": "2026-11-13T09:04:21+05:30",
+ "end": "2026-11-13T09:25:54+05:30",
+ "summary": "Modi's Karnataka day leads; markets open lower",
+ "new": [
+  "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+   "why": "Main picture's Modi half is an extreme, low-resolution (830 px) face crop: top of the head and the sides of the face are cut off, so on the homepage lead it fills the slot as a giant cropped face. That is a badly cropped face and a cut-off head (rule 3) and looks lazy on the lead. In-story photo 2 (D K Shivakumar, a well-known Chief Minister) was NOT FOUND and will be dropped.",
+   "done": "Cover rebuilt with a full head-and-shoulders Government of India portrait of Modi (3459 px source) plus the Namma Metro photo; credit carries both photographers. No Shivakumar photo exists unused in 48 hours (quick_photo none), so in-story photo 2 was deleted from both language files."
+  },
+  {
+   "id": "homepage",
+   "why": "Rule 11: the lead (Modi in Bengaluru today) is repeated in the top headlines by 'Shivakumar says Karnataka will welcome Modi and press drought relief', the same subject, and again in This Week ('Today: PM Modi in Bengaluru and Mysuru...'); a running story gets the lead or one slot. Move the Shivakum",
+   "done": "refresh_home --drop for the Shivakumar story and the Nov 12 preview (no longer on the homepage); duplicate This Week line removed."
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
+}

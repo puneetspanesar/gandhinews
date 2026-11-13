@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-12T15:54:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-12",
+  "as_of": "2026-11-13T09:18:00+05:30",
+  "status": "open",
+  "session_date": "2026-11-13",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81911.01,
-      "change": 31.61,
-      "pct": 0.04,
+      "value": 81498.0,
+      "change": -413.01,
+      "pct": -0.5,
       "history": [
         {
           "date": "2026-09-30",
@@ -121,15 +121,15 @@
           "close": 81911.01
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25299.35,
-      "change": 44.3,
-      "pct": 0.18,
+      "value": 25120.0,
+      "change": -179.35,
+      "pct": -0.71,
       "history": [
         {
           "date": "2026-09-30",
@@ -244,7 +244,7 @@
           "close": 25299.35
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
     },
     {
       "id": "nifty-bank",
@@ -301,12 +301,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.03,
-      "change": 0.34,
-      "pct": 0.36,
+      "value": 94.04,
+      "change": 0.01,
+      "pct": 0.01,
       "decimals": 2,
       "unit": "",
-      "source": "https://hdfcsky.com/news/market-close-report-today-november-12-2026-nifty-sensex-pause-the-party"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
     },
     {
       "id": "brent",
@@ -314,11 +314,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 91.75,
-      "change": -1.04,
-      "pct": -1.12,
+      "value": 91.93,
+      "change": 0.18,
+      "pct": 0.2,
       "decimals": 2,
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
     },
     {
       "id": "gold",
@@ -424,7 +424,8 @@
     "11 Nov 22:25 IST (hourly 22): no dated November 11, 2026 movers or sector figures found in a source read this run (search returned 2025 pages); closing values, flows and earlier movers kept.",
     "12 Nov 10:20 IST (hourly 10): Sensex 81,642.29 (-237.11, -0.29%) and Nifty 50 25,180.15 (-74.90, -0.30%) at about 9:15 am from Kotak Neo market update (posted 9:49 am) read this run. Nifty Bank, Midcap, VIX, rates, movers, sectors keep earlier values (not on the page).",
     "12 Nov hourly-12: Sensex 81,829.99 (-49.41) per a 12:17 pm IST ticker; Nifty 25,253 (-0.01%) and rupee about 93.73 per a live blog updated 12:21 pm IST; Brent 91.75 (-1.12%) per a 10:09 am report; other indices, movers and sectors kept.",
-    "12 Nov 16:30 IST (hourly-16): Sensex 81,911.01 (+31.61, +0.04%) and Nifty 50 25,299.35 (+44.30, +0.18%) closes and Nifty Realty up about 4% from the Business Standard live blog (3:54 pm) read this run; Nov 12 appended to history. Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept (not on the page)."
+    "12 Nov 16:30 IST (hourly-16): Sensex 81,911.01 (+31.61, +0.04%) and Nifty 50 25,299.35 (+44.30, +0.18%) closes and Nifty Realty up about 4% from the Business Standard live blog (3:54 pm) read this run; Nov 12 appended to history. Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept (not on the page).",
+    "Nov 13 09:18 IST (hourly-09): Sensex 81,498 (-413, -0.50%) and Nifty 50 25,120 (-179, -0.71%) in opening deals; rupee opened 94.04; Brent Jan futures 91.93 at 8:32 am. Other figures kept from Nov 12."
   ],
   "holidays": [
     "2026-11-10"
