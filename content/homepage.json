@@ -52,6 +52,17 @@
         }
       },
       {
+        "link": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+        "lead": {
+          "en": "Rajasthan:",
+          "hi": "राजस्थान:"
+        },
+        "text": {
+          "en": "Rajasthan's new draft voter roll has 11 lakh more names than the SIR roll, but 19 lakh fewer than the local poll list",
+          "hi": "राजस्थान की नई मसौदा मतदाता सूची में एसआईआर रोल से 11 लाख नाम ज्यादा, पर स्थानीय निकाय सूची से 19 लाख कम"
+        }
+      },
+      {
         "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "lead": {
           "en": "Ladakh:",
@@ -85,36 +96,25 @@
         }
       },
       {
-        "link": "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
         "lead": {
-          "en": "Pakistan:",
-          "hi": "पाकिस्तान:"
+          "en": "US-China:",
+          "hi": "अमेरिका-चीन:"
         },
         "text": {
-          "en": "Mastung truck bomb: police say two civilians died, local reports claim dozens of soldiers killed",
-          "hi": "मस्तुंग में ट्रक बम: पुलिस के मुताबिक दो नागरिक मरे, स्थानीय रिपोर्टों में दर्जनों सैनिकों की मौत का दावा"
+          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
+          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
         }
       },
       {
-        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Parliament:",
+          "hi": "संसद:"
         },
         "text": {
-          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
-          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
-        }
-      },
-      {
-        "link": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "lead": {
-          "en": "Air pollution:",
-          "hi": "वायु प्रदूषण:"
-        },
-        "text": {
-          "en": "Farm unions say cars, not stubble, drive Delhi's smog after Supreme Court asks four states for vehicle plans",
-          "hi": "किसान संगठन बोले, दिल्ली के स्मॉग की वजह गाड़ियां हैं, पराली नहीं; सुप्रीम कोर्ट ने चार राज्यों से मांगी वाहन योजना"
+          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
+          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
+      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
       "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
       "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
       "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-      "mastung-kanak-camp-truck-blast-police-toll-disputed",
-      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+      "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     ],
     "also": [
-      "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-      "india-a-women-squads-england-a-shreyanka-patil-recalled"
+      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+      "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
     ]
   },
   "startHere": [
@@ -525,20 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-13T01:56:38+05:30",
-      "ids": [
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
-      ]
-    },
-    {
       "at": "2026-11-13T06:42:31+05:30",
       "ids": [
         "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
@@ -645,6 +631,20 @@
         "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
         "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
+      ]
+    },
+    {
+      "at": "2026-11-13T14:04:25+05:30",
+      "ids": [
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
       ]
     }
   ],

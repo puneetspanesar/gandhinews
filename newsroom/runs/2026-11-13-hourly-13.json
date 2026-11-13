@@ -1,11 +1,9 @@
 {
  "run": "hourly-13",
  "start": "2026-11-13T13:04:50+05:30",
- "end": "2026-11-13T13:55:23+05:30",
- "summary": "Lead run: Modi flags off Bengaluru Pink Line; homepage drop reaches dense blocks",
- "new": [
-  "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
- ],
+ "end": "2026-11-13T14:07:26+05:30",
+ "summary": "Lead run second publish: headlines re-rotated after the 13:56 rotation",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
