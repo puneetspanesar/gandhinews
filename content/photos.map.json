@@ -49553,7 +49553,18 @@
   "licence": "GODL-India",
   "alt": "Sukhvinder Singh Sukhu (file photo)",
   "alt_hi": "सुखविंदर सिंह सुक्खू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg",
+  "treated": {
+   "src": "/photos/t-himachal-cabinet-1500-women-300-units-free-power-sukhu-1280.jpg",
+   "src800": "/photos/t-himachal-cabinet-1500-women-300-units-free-power-sukhu-640.jpg",
+   "cutout": true,
+   "with": [
+    "nadda-icmr-high-altitude-research-centre-keylong"
+   ],
+   "kind": "photo",
+   "subj": "1b1f0a0e06042677",
+   "credit": "Photos: Prime Minister's Office (India) / Wikimedia Commons; This Photo was taken by Timothy A. Gonsalves. / Wikimedia Commons"
+  }
  },
  "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus": {
   "id": "r-india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
@@ -49565,7 +49576,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The Reserve Bank of India office in Nagpur (file photo)",
   "alt_hi": "नागपुर में भारतीय रिज़र्व बैंक का दफ़्तर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG",
+  "treated": {
+   "src": "/photos/t-india-current-account-deficit-h1-fy27-25-8-billion-bop-surpl-1280.jpg",
+   "src800": "/photos/t-india-current-account-deficit-h1-fy27-25-8-billion-bop-surpl-640.jpg",
+   "cutout": false,
+   "with": [
+    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc",
+    "sebi-proposes-sme-ipo-norms-market-cap-lower-application",
+    "gst-return-forms-gstr-1-amended-consultation-november-1"
+   ],
+   "kind": "photo",
+   "subj": "ffffffff07040600",
+   "credit": "Photos: Gppande / Wikimedia Commons; Sailko / Wikimedia Commons; Saadabdullah007 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "india-nz-fifth-odi-bay-oval-preview-after-89-all-out": {
   "id": "o-india-nz-fifth-odi-bay-oval-preview-after-89-all-out",
@@ -49578,7 +49602,20 @@
   "licence": "CC0",
   "alt": "Shreyas Iyer (file photo)",
   "alt_hi": "श्रेयस अय्यर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Captain_Shreyas_Iyer_(Sarpanch_Sahab)_in_T20.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Captain_Shreyas_Iyer_(Sarpanch_Sahab)_in_T20.jpg",
+  "treated": {
+   "src": "/photos/t-india-nz-fifth-odi-bay-oval-preview-after-89-all-out-1280.jpg",
+   "src800": "/photos/t-india-nz-fifth-odi-bay-oval-preview-after-89-all-out-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview",
+    "villarreal-psg-atletico-bayern-champions-league-tuesday-preview--p2"
+   ],
+   "kind": "portrait",
+   "subj": "1830df8787c3",
+   "credit": "Photos: Bollywood Hungama / Wikimedia Commons; Phillip Capper / Wikimedia Commons; Dibyajeet Dash / Wikimedia Commons; Arne Müseler / Wikimedia Commons"
+  }
  },
  "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled": {
   "id": "o-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
@@ -49591,6 +49628,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Uprooted trees and damaged power lines on a road in Odisha after Cyclone Fani in 2019 (file photo)",
   "alt_hi": "2019 में चक्रवात फणि के बाद ओडिशा की एक सड़क पर उखड़े पेड़ और टूटे बिजली के खंभे (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_2.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_2.jpg",
+  "treated": {
+   "src": "/photos/t-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-1280.jpg",
+   "src800": "/photos/t-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-640.jpg",
+   "cutout": false,
+   "with": [
+    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2",
+    "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
+    "odisha-india-chem-2026-investment-intents"
+   ],
+   "kind": "photo",
+   "subj": "7f3f3f270000043f",
+   "credit": "Photos: Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons"
+  }
  }
 }
