@@ -1,18 +1,10 @@
 {
  "run": "hourly-22",
  "start": "2026-11-13T22:13:12+05:30",
- "end": "2026-11-13T22:51:17+05:30",
- "summary": "Shah/NCP lead, Revanth visa row, Iran IAEA, delimitation editorial, 88-days fact check; NZ ODI held",
- "new": [
-  "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-  "monsoon-session-unprorogued-record-88-days-ramesh-claim",
-  "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-  "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-  "revanth-bharat-summit-visas-modi-hyderabad"
- ],
- "held": [
-  "nz-win-fourth-odi-henry-six-young-125-india-89-bay-oval"
- ],
+ "end": "2026-11-13T23:18:45+05:30",
+ "summary": "Second publish: collages fixed for Revanth, Iran IAEA, Monsoon Session fact check; treat_photo reads Monsoon Session as Parliament",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [],
  "fixed_by_run": [

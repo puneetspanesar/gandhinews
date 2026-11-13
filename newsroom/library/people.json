@@ -4377,7 +4377,7 @@
     "crop": null
    },
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/15_January_2026%2C_President_Donald_Trump_is_gifted_the_Nobel_Peace_Prize_medal_awarded_to_Maria_Corina_Machado_at_the_White_House_Oval_Office_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "url": "",
     "page": "https://commons.wikimedia.org/wiki/File:15_January_2026,_President_Donald_Trump_is_gifted_the_Nobel_Peace_Prize_medal_awarded_to_Maria_Corina_Machado_at_the_White_House_Oval_Office_(cropped).jpg",
     "author": "The White House",
     "licence": "Public domain",
@@ -4385,7 +4385,8 @@
     "height": 1512,
     "title": "File:15 January 2026, President Donald Trump is gifted the Nobel Peace Prize medal awarded to Maria Corina Machado at the White House Oval Office (cropped).jpg",
     "date": "2026-01-15 15:12:06",
-    "crop": null
+    "crop": null,
+    "removed": "Not a solo portrait: Trump with Maria Corina Machado (removed by hourly-22, November 13, 2026)"
    },
    {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Donald_Trump_by_Gage_Skidmore_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",

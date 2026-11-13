@@ -15,8 +15,8 @@ keyPoints:
   - "The only site inspected since June 2025 is **the Bushehr power plant**, visited on September 12 to 15."
 hero:
   need: "Donald Trump"
-  suggested_source: "Donald Trump"
-  subjects: ["Donald Trump"]
+  suggested_source: "Abbas Araghchi"
+  subjects: ["Abbas Araghchi", "Donald Trump"]
   alt: "Donald Trump, the US President (file photo)"
   overlay:
     value: "No inspections 'under threat'"

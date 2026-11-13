@@ -100,7 +100,7 @@ BUCKETS = [
 def related(sid, M, n=3, strict=False):
     """The best 2-3 scene photos from our own library for this story: same topic, same place, never a portrait."""
     d = fm(sid); e = M[sid]
-    text = ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label'))
+    text = re.sub(r'\b(?:Monsoon|Winter|Budget) [Ss]ession', 'Parliament session', ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label')))   # the Monsoon Session is Parliament, not rain
     loc = str(d.get('location') or '')
     state = None
     for part in [x.strip() for x in loc.split(',')][::-1]:
@@ -207,7 +207,7 @@ INDIA_MARK = r'\bIndia|Indian|Delhi|Modi|Lok Sabha|Rajya Sabha|BJP|Supreme Court
 
 def abroad_story(d):
     """A story about another country with no Indian angle: no Indian institutions behind it."""
-    text = ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label'))
+    text = re.sub(r'\b(?:Monsoon|Winter|Budget) [Ss]ession', 'Parliament session', ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label')))   # the Monsoon Session is Parliament, not rain
     if re.search(INDIA_MARK, text) or any(re.search(rf'\b{re.escape(x)}\b', text) for x in list(STATES) + list(ALIAS)): return False
     return (d.get('section') in ('world', 'science', 'technology', 'sports') or bool(country_of(text)) or bool(FOREIGN.search(text))
             or bool(re.search(r'Wall Street|Nasdaq|\bDow\b|Washington|House chairmen|\bSenate\b|White House|Pentagon|Federal Reserve|Silicon Valley|world.s', text)))
@@ -236,7 +236,7 @@ def fill_tiles(sid, M, have, n=3):
     out += [k for k in related(sid, M, n) if k not in have and k not in out][:max(0, n - len(out))]
     d = fm(sid); fp = next((R + f'content/en/{t}/{sid}.md' for t in ('news', 'explainer', 'editorial', 'factcheck') if os.path.exists(R + f'content/en/{t}/{sid}.md')), '')
     body = (open(fp).read().split('---', 2)[-1][:1500] if os.path.exists(fp) else '')
-    text = ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label'))   # headline and standfirst only
+    text = re.sub(r'\b(?:Monsoon|Winter|Budget) [Ss]ession', 'Parliament session', ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label')))   # the Monsoon Session is Parliament, not rain   # headline and standfirst only
     countries = country_of(str(d.get('title') or '') + ' ' + str(d.get('standfirst') or ''))
     loc = str(d.get('location') or '')
     state = next((ALIAS.get(x.strip(), x.strip()) for x in loc.split(',')[::-1] if ALIAS.get(x.strip(), x.strip()) in STATES
