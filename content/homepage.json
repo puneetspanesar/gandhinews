@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "id": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "Policy / Agriculture",
+        "hi": "नीति / कृषि"
       },
       "value": {
-        "en": "₹15,600 crore of projects in Bengaluru",
-        "hi": "बेंगलुरु में ₹15,600 करोड़ की परियोजनाएं"
+        "en": "'We are destroying Mother Earth'",
+        "hi": "'हम धरती माता को नष्ट कर रहे हैं'"
       },
       "text": {
         "en": "",
@@ -16,14 +16,18 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+      "farmer-id-explained-digital-agriculture-mission",
+      "kejriwal-e20-trump-pressure-ethanol-claim"
+    ],
     "relatedBeside": [
       "mastung-kanak-camp-truck-blast-police-toll-disputed"
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Agriculture",
+        "hi": "कृषि"
       }
     }
   },
@@ -38,17 +42,6 @@
         "text": {
           "en": "Mastung truck bomb: police say two civilians died, local reports claim dozens of soldiers killed",
           "hi": "मस्तुंग में ट्रक बम: पुलिस के मुताबिक दो नागरिक मरे, स्थानीय रिपोर्टों में दर्जनों सैनिकों की मौत का दावा"
-        }
-      },
-      {
-        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "lead": {
-          "en": "Agriculture:",
-          "hi": "कृषि:"
-        },
-        "text": {
-          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
-          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
         }
       },
       {
@@ -96,14 +89,14 @@
         }
       },
       {
-        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
-          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
+          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
         }
       },
       {
@@ -115,6 +108,17 @@
         "text": {
           "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
           "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
+        }
+      },
+      {
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
         }
       }
     ]
@@ -182,26 +186,26 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+      "id": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
       "also": []
     },
     "list": [
-      "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
       "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
       "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
       "retail-inflation-october-2026-6-09-two-year-high",
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+      "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
     ],
     "also": [
-      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-      "infosys-prize-2026-six-researchers-under-40-100000-each"
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
     ]
   },
   "startHere": [
-    "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-    "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
     "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
-    "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
+    "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+    "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+    "extradition-explained-hasina-india-bangladesh-treaty"
   ],
   "trackers": [
     {
@@ -368,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
       ],
-      "lead": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
+      "lead": "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
     },
     {
       "section": "economy",
@@ -397,7 +401,7 @@
       "lead": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
       "list": [
         "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
       ]
     },
@@ -457,10 +461,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
+        "en": "Mohan Yadav releases the 42nd Laadli Behna instalment from Pichhore, Shivpuri",
+        "hi": "मोहन यादव पिछोर, शिवपुरी से लाड़ली बहना की 42वीं किस्त जारी करेंगे"
       },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+      },
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -622,17 +638,20 @@
       ]
     },
     {
-      "at": "2026-11-13T09:21:07+05:30",
+      "at": "2026-11-13T09:15:29+05:30",
       "ids": [
-        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
+        "farmer-id-explained-digital-agriculture-mission",
+        "kejriwal-e20-trump-pressure-ethanol-claim",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "retail-inflation-october-2026-6-09-two-year-high",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
       ]
     }
   ],
