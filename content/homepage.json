@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "id": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
     "overlay": {
       "kicker": {
-        "en": "States / Delhi",
-        "hi": "राज्य / दिल्ली"
+        "en": "Politics / Prime Minister",
+        "hi": "राजनीति / प्रधानमंत्री"
       },
       "value": {
-        "en": "Delhi AQI 402, IIT Delhi 488",
-        "hi": "दिल्ली एक्यूआई 402, आईआईटी दिल्ली 488"
+        "en": "Modi in Bengaluru: jubilee, then Pink Line",
+        "hi": "बेंगलुरु में मोदी: स्वर्ण जयंती समारोह, फिर पिंक लाइन"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Delhi",
-        "hi": "दिल्ली"
+        "en": "Prime Minister",
+        "hi": "प्रधानमंत्री"
       }
     }
   },
@@ -41,6 +41,17 @@
         }
       },
       {
+        "link": "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi's air turns severe at AQI 402 on Friday morning, IIT Delhi touches 488",
+          "hi": "शुक्रवार सुबह दिल्ली की हवा 'गंभीर' श्रेणी में, एक्यूआई 402, आईआईटी दिल्ली में 488"
+        }
+      },
+      {
         "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
         "lead": {
           "en": "United States:",
@@ -49,17 +60,6 @@
         "text": {
           "en": "Eight dead as Brooklyn building falls into excavation; city probes builder's stop-work history",
           "hi": "ब्रुकलिन में इमारत निर्माण गड्ढे में गिरी, आठ की मौत; बिल्डर के स्टॉप-वर्क रिकॉर्ड की जांच"
-        }
-      },
-      {
-        "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi in Bengaluru today: Pink Line ride, Vande Bharat flag-off and ₹15,600 crore of projects, then Mysuru planetarium",
-          "hi": "मोदी आज बेंगलुरु में: पिंक लाइन की सवारी, वंदे भारत को हरी झंडी और ₹15,600 करोड़ की परियोजनाएं, फिर मैसूरु में तारामंडल"
         }
       },
       {
@@ -107,14 +107,14 @@
         }
       },
       {
-        "link": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+        "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Shivakumar says Karnataka will welcome Modi and press drought relief; PM told him to come to Delhi for a private meeting",
-          "hi": "शिवकुमार बोले, कर्नाटक मोदी का स्वागत करेगा और सूखा राहत मांगेगा; प्रधानमंत्री ने निजी मुलाकात के लिए दिल्ली बुलाया"
+          "en": "Anushka Sharma to captain India A women against England A, with Shreyanka Patil in all three squads",
+          "hi": "इंग्लैंड ए के खिलाफ भारत ए महिला टीम की कप्तान अनुष्का शर्मा, श्रेयंका पाटिल तीनों टीमों में"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+      "id": "delhi-aqi-402-severe-iit-delhi-488-friday",
       "also": []
     },
     "list": [
-      "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
       "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
       "mastung-kanak-camp-truck-blast-police-toll-disputed",
       "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
       "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
     ],
     "also": [
-      "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-      "india-a-women-squads-england-a-shreyanka-patil-recalled"
+      "india-a-women-squads-england-a-shreyanka-patil-recalled",
+      "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
     ]
   },
   "startHere": [
@@ -372,7 +372,7 @@
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
       ],
-      "lead": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
+      "lead": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
     },
     {
       "section": "economy",
@@ -434,8 +434,8 @@
       "lead": "infosys-prize-2026-six-researchers-under-40-100000-each",
       "list": [
         "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
+        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
       ]
     },
     {
@@ -457,10 +457,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Mohan Yadav releases the 42nd Laadli Behna instalment from Pichhore, Shivpuri",
-        "hi": "मोहन यादव पिछोर, शिवपुरी से लाड़ली बहना की 42वीं किस्त जारी करेंगे"
+        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
+        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
       },
-      "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "PM Modi in Bengaluru and Mysuru, Pink Line, Vande Bharat and ₹15,600 crore of projects; Gujarat on November 14",
+        "hi": "प्रधानमंत्री मोदी बेंगलुरु और मैसूरु में, पिंक लाइन, वंदे भारत और ₹15,600 करोड़ की परियोजनाएं; 14 नवंबर को गुजरात"
       },
-      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
     },
     {
       "icon": "calendar-blank",
@@ -634,17 +634,17 @@
       ]
     },
     {
-      "at": "2026-11-13T11:15:44+05:30",
+      "at": "2026-11-13T11:29:42+05:30",
       "ids": [
-        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
         "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
         "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
         "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
+        "india-a-women-squads-england-a-shreyanka-patil-recalled"
       ]
     }
   ],
