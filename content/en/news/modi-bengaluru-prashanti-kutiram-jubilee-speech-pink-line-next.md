@@ -68,25 +68,22 @@ verification:
   status: approved
   notes:
     - "Written 11:15 to 11:25 am IST. Primary: PIB and PMO release of Nov 11 (schedule, project list, Pink Line cost). No PIB or PMO text of Modi's address or PIB event photo existed yet; no direct Modi quote from the event found, so the story says so."
-    - "Arrival, receivers, Hosabale, Nagendra and Bhandari remarks, limbs and New York centre: from event reports (ANI, News Mill, UNI). Fares, Nov 14 public opening, 21.26 km, 18 stations: single report (India TV), written as 'according to reports'."
+    - "Arrival, receivers, Hosabale, Nagendra and Bhandari remarks, limbs: from event reports (ANI, News Mill). Fares, Nov 14 public opening, 21.26 km, 18 stations: single report (India TV), written as 'according to reports'."
     - "Picture: library file photo of Modi, 1024 px wide (above 900). PIB had no photos of the event at 11:10."
 ---
 
-Prime Minister Narendra Modi reached Bengaluru on Friday morning, was received at HAL Airport by Governor Sudha Yadav and Chief Minister D K Shivakumar, and joined the **Golden Jubilee of Prashanti Kutiram**, the S-VYASA yoga campus, which began at 10 am. His next engagement is the ride on the new Namma Metro Pink Line at about 12:45 pm, followed by projects worth over ₹15,600 crore at about 1:15 pm. Our [morning preview](/en/news/modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead) has the full schedule. This report covers what has happened so far.
+Prime Minister Narendra Modi reached Bengaluru on Friday morning, was received at HAL Airport by Governor Sudha Yadav and Chief Minister D K Shivakumar, and joined the **Golden Jubilee of Prashanti Kutiram**, the S-VYASA yoga campus, scheduled by the Prime Minister's Office for 10:45 am. His next engagement is the ride on the new Namma Metro Pink Line at about 12:45 pm, followed by projects worth over ₹15,600 crore at about 1:15 pm. Our [morning preview](/en/news/modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead) has the full schedule. This report covers what has happened so far.
 
 ## Welcome at the airport
 
-Yadav, Shivakumar and other dignitaries, including former Chief Minister B S Yediyurappa, received Modi at HAL Airport. Shivakumar, who said on Thursday that Karnataka would [welcome the Prime Minister respectfully and raise its demands](/en/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting), posted afterwards: "Warmly welcomed the Hon'ble Prime Minister of India, Shri Narendra Modi avaru." Modi had written on X the evening before: "Namaskara Karnataka! Looking forward to being in Bengaluru and Mysuru tomorrow."
+Yadav, Shivakumar and other dignitaries received Modi at HAL Airport. Shivakumar, who said on Thursday that Karnataka would [welcome the Prime Minister respectfully and raise its demands](/en/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting), posted afterwards: "Warmly welcomed the Hon'ble Prime Minister of India, Shri Narendra Modi avaru." Modi had written on X the evening before: "Namaskara Karnataka! Looking forward to being in Bengaluru and Mysuru tomorrow."
 
-```photo
-{"n":1,"subject":"D. K. Shivakumar","caption":"Chief Minister D K Shivakumar, who received the Prime Minister at the airport and was a guest of honour at the jubilee.","alt":"Karnataka Chief Minister D K Shivakumar"}
-```
 
 ## The jubilee at S-VYASA
 
 The celebration marks **50 years of Prashanti Kutiram** and, in the same programme, the birth centenary of H V Sheshadri, born in Bengaluru in 1926, who was the RSS Sarkaryavah from 1987 to 2000. RSS general secretary Dattatreya Hosabale was the distinguished guest. Governor Yadav, Shivakumar and Ahn Byeong-Gu, Mayor of Miryang City in South Korea, were guests of honour. The S-VYASA Registered Society is the organiser.
 
-H R Nagendra, president of the society, said: "We are celebrating our Golden Jubilee celebration of the 50 years of our service in Prashanti Kutiram." He pointed to the institution's yoga research and a planned research laboratory called Ritambhara, and said a campus in Thiruvananthapuram was being launched to coincide with the Prime Minister's visit. Prem Bhandari, chief advisor for international affairs, announced that **1,000 world-class artificial limbs will be given free** in honour of Sheshadri's centenary, and that an S-VYASA centre is planned in New York.
+H R Nagendra, president of the society, said: "We are celebrating our Golden Jubilee celebration of the 50 years of our service in Prashanti Kutiram." He pointed to the institution's yoga research and a planned research laboratory called Ritambhara, and said a campus in Thiruvananthapuram was being launched to coincide with the Prime Minister's visit. Prem Bhandari, chief advisor for international affairs, announced that **1,000 world-class artificial limbs will be given free** in honour of Sheshadri's centenary.
 
 The Prime Minister's Office schedule had Modi laying the foundation stone of the Golden Jubilee Administrative Block and launching the Thiruvananthapuram off-campus. The celebrations run until November 23 under the theme "Towards Viksit Bharat 2047". When this report was written, no text of Modi's address had been released by the Prime Minister's Office or on his X account, so his remarks are not reported here. We will update when the text is out.
 
@@ -94,11 +91,8 @@ The Prime Minister's Office schedule had Modi laying the foundation stone of the
 
 The stretch Modi rides, from Tavarekere to IIM Bangalore station, is part of the section between **Kalena Agrahara and Tavarekere**, which the PMO release puts at about ₹3,470 crore. According to reports, the stretch is 7.2 km with six stations: Kalena Agrahara, Hulimavu, IIMB (Bilekahalli), J P Nagar 4th Phase, Jayadeva Hospital and Tavarekere. It takes the operational network **beyond 100 km for the first time**.
 
-```photo
-{"n":2,"subject":"Namma Metro","caption":"A Namma Metro train. The Pink Line's elevated stretch is the newest section to open.","alt":"A Namma Metro train in Bengaluru"}
-```
 
-The full Pink Line runs 21.26 km with 18 stations, 12 of them underground, from Kalena Agrahara to Nagawara. The underground part, from Dairy Circle to Nagawara, is targeted for 2027. The final inspection by the Commissioner of Metro Railway Safety was completed on October 8, and the safety clearance was announced on October 28. Reports say fares will run from ₹10 to ₹30 and that **passenger service starts on Saturday, November 14**, a day after the inauguration. The metro operator's own notice is the thing to check before travelling.
+The full Pink Line runs 21.26 km with 18 stations, 12 of them underground, from Kalena Agrahara to Nagawara. The full corridor to Nagawara is expected by 2027. Reports say fares will run from ₹10 to ₹30 and that **passenger service starts on Saturday, November 14**, a day after the inauguration. The metro operator's own notice is the thing to check before travelling.
 
 ## The ₹15,600 crore package
 

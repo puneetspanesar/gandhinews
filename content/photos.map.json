@@ -48602,6 +48602,19 @@
   "licence": "CC BY 2.0",
   "alt": "Prime Minister Narendra Modi (file photo)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-ne-1280.jpg",
+   "src800": "/photos/t-modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-ne-640.jpg",
+   "cutout": true,
+   "with": [
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back--p1",
+    "flipkart-group-fy26-revenue-1-45-lakh-crore-loss-narrows",
+    "air-india-suspends-riyadh-dammam-flights-november-7"
+   ],
+   "kind": "photo",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Gpkp / Wikimedia Commons; Manishontop02 / Wikimedia Commons"
+  }
  }
 }

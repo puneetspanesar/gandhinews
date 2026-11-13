@@ -1,0 +1,26 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-13T11:05:57+05:30",
+ "end": "2026-11-13T11:28:26+05:30",
+ "summary": "Lead run: Modi at Prashanti Kutiram jubilee, Bengaluru",
+ "new": [
+  "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+   "why": "The opening paragraph (EN and HI) says the jubilee 'began at 10 am', but the primary PMO/PIB release of November 11, 2026 puts the Prashanti Kutiram programme at 10:45 am, and our own homepage card says 10:45 am. Some claims are also not in any listed source: the CMRS inspection on October 8 and clearance on October 28 (India TV does not have them), the S-VYASA New York centre and Yediyurappa at the airport (in neither ANI nor News Mill; the notes cite UNI, which is not listed as a source). India TV also gives 2027 for the whole Tavarekere-Nagawara corridor, not only the underground part. In Hindi, the title and overlay say 'प्रशांति कुटीरम जयंती समारोह'; 'जयंती' alone reads as a birth anniversary.",
+   "done": "Time now 'scheduled by the PMO for 10:45 am' (EN, HI); cut CMRS Oct 8/28 dates, New York centre, Yediyurappa and the UNI note; 2027 line now 'the full corridor to Nagawara is expected by 2027'; Hindi title, overlay and seo title use 'स्वर्ण जयंती समारोह'; the two in-story photo blocks that never arrived were deleted from both files (no time for a second finder call in a lead run)."
+  },
+  {
+   "id": "homepage",
+   "why": "The Modi Karnataka visit fills too many top slots. It has the lead; the morning preview 'Modi in Bengaluru today' sits right beside it in column 2 with a second Modi face; 'Shivakumar says Karnataka will welcome Modi' is in the same column; and the Politics band has another preview, 'Modi to open Bengaluru Pink Line ... on Friday'. That makes two stories on the same subject next to each other, one running story in at least four slots, and previews of events that have already happened (the jubilee has taken place and the plane has landed). What to do: keep only the new lead. Take the morning preview and the Friday Pink Line preview off the top and the Politics band, and link them from inside the lead. Move the Shivakumar welcome item down. Fill column 2's top slot with a different, pictured story (for example Sonam Wangchuk's house arrest in Leh or the Brooklyn building collapse) so there are not two Modi pictures side by side. Rebuild the page after 12:45 pm so the lead carries the Pink Line ride instead of saying 'the metro ride is at 12:45 pm'.",
+   "done": "refresh_home.py --drop for the three Modi Karnataka previews (morning preview, Nov 11 preview, Mysuru planetarium preview) so only the lead covers the visit at the top; previews are linked from the lead. The 12:45 pm Pink Line ride goes to the 12:03 pm/1:03 pm runs."
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
+}
