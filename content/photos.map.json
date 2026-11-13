@@ -48446,5 +48446,87 @@
    }
   },
   "nophoto": "no free photo of Mastung or the blast site; library, quick_photo, finder h1306 and h1306b (maps and landscapes only)"
+ },
+ "bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14": {
+  "id": "o-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14",
+  "src": "/photos/o-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14-1280.jpg",
+  "src800": "/photos/o-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 826,
+  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "G. Kishan Reddy (file photo)",
+  "alt_hi": "जी. किशन रेड्डी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:G._Kishan_Reddy_in_2025.jpg"
+ },
+ "pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap": {
+  "id": "o-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap",
+  "src": "/photos/o-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-1280.jpg",
+  "src800": "/photos/o-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-640.jpg",
+  "width": 1280,
+  "height": 944,
+  "srcWidth": 1280,
+  "credit": "Photo: Liz Highleyman from San Francisco, USA / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The Ganga flowing at Haridwar; India has no PFAS limit for drinking water (file photo)",
+  "alt_hi": "हरिद्वार में बहती गंगा; भारत में पेयजल के लिए PFAS की कोई सीमा नहीं (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ganges_flowing_near_Har_ki_Pauri,_Haridwar.jpg"
+ },
+ "azam-khan-ed-four-day-custody-ghaziabad-426-crore-jauhar": {
+  "id": "o-azam-khan-ed-four-day-custody-ghaziabad-426-crore-jauhar",
+  "src": "/photos/o-azam-khan-ed-four-day-custody-ghaziabad-426-crore-jauhar-1280.jpg",
+  "src800": "/photos/o-azam-khan-ed-four-day-custody-ghaziabad-426-crore-jauhar-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 992,
+  "credit": "Photo: Md Umar Khan / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Samajwadi Party leader Azam Khan speaking at a public meeting (file photo)",
+  "alt_hi": "सपा नेता आज़म ख़ान एक जनसभा में बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammad_Azam_Khan_1.jpg"
+ },
+ "vodafone-idea-q2-loss-widens-5975-crore-arpu-198": {
+  "id": "i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198",
+  "src": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-en-3x2-1280.jpg",
+  "src800": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Vodafone Idea loss widens to ₹5,975 crore",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वोडाफोन आइडिया का घाटा बढ़कर ₹5,975 करोड़",
+  "page": null,
+  "ihash": "1efd63e57c96",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-hi-3x2-1280.jpg",
+    "src800": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-en-t-1280.jpg",
+    "src800": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-hi-t-1280.jpg",
+    "src800": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-en-1280.jpg",
+    "src800": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-hi-1280.jpg",
+    "src800": "/photos/i-vodafone-idea-q2-loss-widens-5975-crore-arpu-198-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Vodafone Idea or Abhijit Kishore; library, quick_photo, finder h1308 and h1308b"
  }
 }
