@@ -48582,6 +48582,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_0160_(cropped).JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_0160_(cropped).JPG",
+  "treated": {
+   "src": "/photos/t-modi-karnataka-today-pink-line-15600-crore-mysuru-cosmos-nov-1280.jpg",
+   "src800": "/photos/t-modi-karnataka-today-pink-line-15600-crore-mysuru-cosmos-nov-640.jpg",
+   "cutout": true,
+   "with": [
+    "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+    "shivakumar-sugarcane-meetings-farmers-factories-belagavi",
+    "weekly-rice-stock-returns-must-lead-to-cheaper-rice-in-the-south"
+   ],
+   "kind": "portrait",
+   "subj": "18183878fcfdff",
+   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; KshitizBathwal / Skyscape Photography / Wikimedia Commons; This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m / Wikimedia Commons; Nanditha Gogate, WELL Labs / Wikimedia Commons"
+  }
  }
 }
