@@ -5,25 +5,25 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: []
-title: "Delhi braces for a severe Friday as IITM forecasts AQI 428 by 9 am and the winds drop"
-standfirst: "The city's air was already very poor at 321 on Thursday morning, and forecasters expect a lower mixing layer and slack winds to push it past the 400 mark, with no rain before the weekend."
+title: "IITM forecast warns Delhi air may turn severe on Friday as winds drop"
+standfirst: "Delhi's air was very poor on Thursday. IITM warns the AQI may reach about 428 on Friday morning as the mixing layer and winds fall. Friday's 24-hour average comes in the CPCB bulletin at 4 pm."
 published: 2026-11-13T07:13:51+05:30
 location: New Delhi
 keyPoints:
-  - "IITM's forecast puts Delhi's AQI at about **428 by 9 am on Friday**, in the severe band, from 321 at 7 am on Thursday."
+  - "IITM's forecast warns Delhi's AQI **may reach about 428 on Friday morning**, in the severe band, after a very poor Thursday."
   - "The **mixing depth falls from 2,000 to 1,400 metres** and winds ease to 5 to 10 km/h, which traps smoke and dust near the ground."
   - "**GRAP Stage III has been in force since November 6**, and the IMD expects fog but no rain through November 15."
 hero:
   need: "Smog over Delhi, showing hazy air pollution in the city (file photo)"
-  suggested_source: "Smog over India Gate in New Delhi"
+  suggested_source: "Smog at the New Delhi entry gate"
   subjects: ["Delhi smog", "Air pollution in Delhi"]
-  alt: "Smog over India Gate in New Delhi (file photo)"
+  alt: "Smog at the New Delhi entry gate (file photo)"
   overlay:
-    value: "Delhi AQI forecast 428 on Friday"
+    value: "IITM: Delhi AQI may turn severe Friday"
 infographic:
   kicker: "Delhi air"
-  headline: "Delhi's AQI forecast to turn severe on Friday"
-  dek: "From 321 on Thursday to about 428 by 9 am, as winds drop"
+  headline: "IITM warns Delhi air may turn severe on Friday"
+  dek: "Very poor at 321 on Thursday morning, forecast about 428 on Friday as winds drop"
   motif: cloud-fog
   stats:
     - {icon: cloud-fog, value: "321", label: "Delhi's AQI at 7 am on Thursday, very poor"}
@@ -35,8 +35,8 @@ upcoming:
   en: "IMD expects clearer skies and cooler days in Delhi from Monday"
   hi: "मौसम विभाग को सोमवार से दिल्ली में साफ आसमान और ठंडे दिनों की उम्मीद"
 seo:
-  title: "Delhi AQI forecast 428 severe on Friday as winds drop, GRAP 3"
-  description: "IITM forecasts Delhi's AQI at about 428 by 9 am on November 13, 2026, from 321 on Thursday, as mixing depth and winds fall. GRAP Stage III stays in force."
+  title: "IITM warns Delhi AQI may turn severe on Friday as winds drop"
+  description: "IITM forecasts Delhi's AQI may reach about 428 on November 13, 2026, after a very poor 321 on Thursday morning, as mixing depth and winds fall. GRAP Stage III stays."
 sources:
   - title: "Delhi AQI Today: Air Pollution May Hit Severe Levels By Friday, IITM Forecasts"
     publisher: "Outlook India"
@@ -58,6 +58,16 @@ sources:
     date: 2026-11-12
     url: "https://www.dailyexcelsior.com/delhis-aqi-improves-to-299-but-several-areas-remain-in-very-poor-category-shallow-fog-likely-over-next-few-days"
     primary: false
+  - title: "Pollution worsens, AQI settles at 323"
+    publisher: "The Hans India"
+    date: 2026-11-12
+    url: "https://www.thehansindia.com/news/cities/new-delhi/pollution-worsens-aqi-settles-at-323-1141492"
+    primary: false
+  - title: "IMD weather update: Will rain bring relief for pollution-hit Delhi as AQI remains very poor?"
+    publisher: "The Week"
+    date: 2026-11-12
+    url: "https://www.theweek.in/news/india/2026/11/12/imd-weather-update-will-rain-bring-relief-for-pollution-hit-delhi-as-aqi-remains-very-poor.html"
+    primary: false
 verification:
   status: approved
   notes:
@@ -67,7 +77,7 @@ verification:
     - "GRAP III since Nov 6 per Outlook and our own earlier story. Nothing found on any Stage IV move."
 ---
 
-Delhi woke to very poor air on Thursday and the forecast for **Friday morning is worse**: the Indian Institute of Tropical Meteorology (IITM) projects the city's AQI at about **428 by 9 am on November 13, 2026**, which would be in the severe band, above the 400 mark. The hourly AQI was 314 at 3 am and **321 at 7 am on Thursday**, 22 points higher than at the same hour on Wednesday, and it touched 323 at 8 am.
+Delhi's air was **very poor on Thursday** and a forecast warns it may turn severe on Friday: the Indian Institute of Tropical Meteorology (IITM) projects the AQI at about **428 by 9 am on November 13, 2026**, above the 400 mark. The hourly AQI was 314 at 3 am on Thursday, **321 at 7 am**, 22 points higher than at the same hour on Wednesday, and it touched 323 at 8 am. Friday's 24-hour average comes in the 4 pm bulletin of the Central Pollution Control Board (CPCB).
 
 ## What the forecast says
 
@@ -76,7 +86,7 @@ The projection is a PM2.5-driven figure from IITM's air quality early warning sy
 Winds are forecast to turn weak as well. On Thursday they were north-westerly at up to 15 km/h. On Friday they are expected to be variable south-westerly and westerly at only **5 to 10 km/h**, too slow to carry pollution out of the city. The numbers above are forecasts; the actual Friday readings will show whether the projection holds, and the Central Pollution Control Board (CPCB) bulletin at 4 pm gives the day's 24-hour average.
 
 ```timeline
-{"title":"How the air has moved","items":[{"date":"November 6","text":"CAQM orders GRAP Stage III across Delhi-NCR"},{"date":"November 8","text":"Diwali day, average AQI 376, the highest in five years"},{"date":"November 9","text":"Firecrackers make up 71.1% of PM2.5 between 1 am and 9 am"},{"date":"November 12","text":"AQI 321 at 7 am, IIT Delhi above 410"},{"date":"November 13","text":"IITM forecasts about 428 by 9 am"}]}
+{"title":"How the air has moved","items":[{"date":"November 6","text":"CAQM orders GRAP Stage III across Delhi-NCR"},{"date":"November 9","text":"Firecrackers make up 71.1% of PM2.5 between 1 am and 9 am"},{"date":"November 12","text":"AQI 321 at 7 am, IIT Delhi above 410"},{"date":"November 13","text":"IITM forecasts about 428 by 9 am"}]}
 ```
 
 ## Where Thursday stood

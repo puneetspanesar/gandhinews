@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "id": "delhi-aqi-friday-iitm-428-severe-forecast-winds-drop",
     "overlay": {
       "kicker": {
-        "en": "States / Madhya Pradesh",
-        "hi": "राज्य / मध्य प्रदेश"
+        "en": "States / Delhi",
+        "hi": "राज्य / दिल्ली"
       },
       "value": {
-        "en": "₹1,500 for 1.24 crore women",
-        "hi": "1.24 करोड़ महिलाओं को ₹1,500"
+        "en": "Delhi AQI forecast 428 on Friday",
+        "hi": "शुक्रवार को दिल्ली एक्यूआई अनुमान 428"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-      "bbmb-power-sharing-explained-himachal-share-supreme-court",
-      "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "mastung-kanak-camp-truck-blast-police-toll-disputed"
     ],
     "live": {
       "title": {
-        "en": "Madhya Pradesh",
-        "hi": "मध्य प्रदेश"
+        "en": "Delhi",
+        "hi": "दिल्ली"
       }
     }
   },
@@ -45,80 +41,80 @@
         }
       },
       {
-        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
         "lead": {
-          "en": "Agriculture:",
-          "hi": "कृषि:"
+          "en": "US-China:",
+          "hi": "अमेरिका-चीन:"
         },
         "text": {
-          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
-          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
+          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
+          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
         }
       },
       {
-        "link": "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
+        "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Markets:",
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "Bhupender Yadav tells steel, cement and transport firms India's climate action rests on government, industry and academia, as LeadIT now counts 19 countries and 33 companies",
-          "hi": "भूपेंद्र यादव ने इस्पात, सीमेंट और परिवहन कंपनियों से कहा: भारत की जलवायु कार्रवाई सरकार, उद्योग और शिक्षा जगत के सहयोग पर टिकी, लीडआईटी में अब 19 देश और 33 कंपनियां"
+          "en": "Sensex and Nifty edge up for a third day as realty jumps 4.5% and Godrej Industries gains on Temasek deal",
+          "hi": "सेंसेक्स और निफ्टी लगातार तीसरे दिन बढ़त पर, रियल्टी 4.5% चढ़ा और टेमासेक सौदे से गोदरेज इंडस्ट्रीज उछला"
         }
       },
       {
-        "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "link": "aap-second-list-31-punjab-mlas-dropped-two-mps",
         "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA",
-          "hi": "खबरों के मुताबिक विलय और एनडीए के सवाल पर शरद पवार का राकांपा (एसपी) खेमा चार धड़ों में बंटा"
+          "en": "AAP drops agriculture minister Khuddian, fields two MPs in second list of 31 for Punjab",
+          "hi": "आप की दूसरी सूची में 31 नाम: कृषि मंत्री खुड्डियां का टिकट कटा, दो सांसदों को मैदान में उतारा"
         }
       },
       {
-        "link": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
-          "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
+          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
+          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
         }
       },
       {
-        "link": "retail-inflation-october-2026-6-09-two-year-high",
+        "link": "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
-          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
+          "en": "Shivakumar says Karnataka will welcome Modi and press drought relief; PM told him to come to Delhi for a private meeting",
+          "hi": "शिवकुमार बोले, कर्नाटक मोदी का स्वागत करेगा और सूखा राहत मांगेगा; प्रधानमंत्री ने निजी मुलाकात के लिए दिल्ली बुलाया"
         }
       },
       {
-        "link": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
-          "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
+          "en": "Anushka Sharma to captain India A women against England A, with Shreyanka Patil in all three squads",
+          "hi": "इंग्लैंड ए के खिलाफ भारत ए महिला टीम की कप्तान अनुष्का शर्मा, श्रेयंका पाटिल तीनों टीमों में"
         }
       },
       {
-        "link": "infosys-prize-2026-six-researchers-under-40-100000-each",
+        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "lead": {
-          "en": "Awards:",
-          "hi": "पुरस्कार:"
+          "en": "Parliament:",
+          "hi": "संसद:"
         },
         "text": {
-          "en": "Infosys Prize 2026 goes to six researchers under 40, each worth $100,000",
-          "hi": "इन्फोसिस पुरस्कार 2026 40 से कम उम्र के छह शोधकर्ताओं को, हर एक को 1 लाख डॉलर"
+          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
+          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
         }
       }
     ]
@@ -186,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+      "id": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
       "also": []
     },
     "list": [
-      "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-      "retail-inflation-october-2026-6-09-two-year-high",
-      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+      "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+      "aap-second-list-31-punjab-mlas-dropped-two-mps",
+      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+      "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+      "india-a-women-squads-england-a-shreyanka-patil-recalled"
     ],
     "also": [
-      "infosys-prize-2026-six-researchers-under-40-100000-each",
-      "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent"
+      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+      "modi-asean-india-summit-manila-november-16-18"
     ]
   },
   "startHere": [
@@ -398,20 +394,20 @@
     },
     {
       "section": "states",
-      "lead": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+      "lead": "delhi-aqi-friday-iitm-428-severe-forecast-winds-drop",
       "list": [
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
         "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
       ]
     },
     {
       "section": "policy",
       "lead": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
       "list": [
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
         "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha"
+        "india-cuts-visa-categories-13-to-9-form-fields-mha",
+        "swachh-survekshan-awards-visakhapatnam-cleanest-million-plus-murmu-confers"
       ]
     },
     {
@@ -517,34 +513,17 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
+        "en": "Nov 16",
+        "hi": "16 नवंबर"
       },
       "text": {
-        "en": "Rahul Gandhi's fireside chat at Columbia University",
-        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
+        "en": "IMD expects clearer skies and cooler days in Delhi from Monday",
+        "hi": "मौसम विभाग को सोमवार से दिल्ली में साफ आसमान और ठंडे दिनों की उम्मीद"
       },
-      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+      "link": "delhi-aqi-friday-iitm-428-severe-forecast-winds-drop"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T19:30:47+05:30",
-      "ids": [
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "ppf-sukanya-scss-nsc-interest-rates-october-december-2026",
-        "rbi-liquidity-explained-variable-rate-repo-sdf-corridor",
-        "what-hormuz-attacks-mean-for-indian-fuel-prices",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent",
-        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
-      ]
-    },
     {
       "at": "2026-11-12T20:57:28+05:30",
       "ids": [
@@ -649,6 +628,20 @@
         "retail-inflation-october-2026-6-09-two-year-high",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
         "infosys-prize-2026-six-researchers-under-40-100000-each"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:27:00+05:30",
+      "ids": [
+        "delhi-aqi-friday-iitm-428-severe-forecast-winds-drop",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "aap-second-list-31-punjab-mlas-dropped-two-mps",
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
+        "india-a-women-squads-england-a-shreyanka-patil-recalled",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
       ]
     }
   ],
