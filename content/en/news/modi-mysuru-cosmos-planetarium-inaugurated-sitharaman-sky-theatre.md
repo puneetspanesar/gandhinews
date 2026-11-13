@@ -6,11 +6,11 @@ section: politics
 format_label: "Politics / Prime Minister"
 topics: []
 title: "Modi opens India's first LED-dome planetarium in Mysuru, tours the Sky Theatre with Sitharaman and Shivakumar"
-standfirst: "The Prime Minister cut the ribbon at the COSMOS centre on the University of Mysore campus on Friday afternoon, the last stop of his Karnataka day, after a project that took four years and whose cost is variously put at ₹85 crore to ₹115 crore."
+standfirst: "The Prime Minister cut the ribbon at the COSMOS centre on the University of Mysore campus on Friday afternoon, the last stop of his Karnataka day, after a project that took more than four years and whose cost is variously put at ₹85 crore to ₹115 crore."
 published: 2026-11-13T17:07:51+05:30
 location: Mysuru
 keyPoints:
-  - "Prime Minister Narendra Modi **inaugurated the COSMOS-Mysuru Planetarium** on Friday, November 13, at about 4 pm."
+  - "Prime Minister Narendra Modi **inaugurated the COSMOS-Mysuru Planetarium** on Friday afternoon, November 13."
   - "Its **15-metre tilted dome carries about 6,150 LED panels** with 4.2 crore LEDs and no projector."
   - "Finance Minister Nirmala Sitharaman, who laid the foundation stone in 2022, **briefed him and took him round**."
 upcoming:
@@ -74,7 +74,7 @@ verification:
     - "Picture: library portrait of Modi, source width 1170 px, file photo."
 ---
 
-Prime Minister Narendra Modi inaugurated **India's first LED-dome planetarium** in Mysuru on Friday, November 13, cutting the ribbon at the entrance of the COSMOS-Mysuru Planetarium at about 4 pm and then walking through the building with Union Finance Minister Nirmala Sitharaman. It was the last programme of a Karnataka day that began in Bengaluru with the Pink Line metro and ₹15,600 crore of projects, and it closes a project that took more than four years from foundation stone to opening.
+Prime Minister Narendra Modi inaugurated **India's first LED-dome planetarium** in Mysuru on Friday, November 13, cutting the ribbon at the entrance of the COSMOS-Mysuru Planetarium on Friday afternoon and then walking through the building with Union Finance Minister Nirmala Sitharaman. It was the last programme of a Karnataka day that began in Bengaluru with the Pink Line metro and ₹15,600 crore of projects, and it closes a project that took more than four years from foundation stone to opening.
 
 The planetarium, built by the Indian Institute of Astrophysics (IIA), stands on the University of Mysore campus at the foothills of Chamundi Hills. Modi was received at the Lalitha Mahal helipad by Karnataka Chief Minister D K Shivakumar. Governor Sudha Yadav, Urban Development Minister Yathindra Siddaramaiah, who is the Mysuru district in-charge minister, and Mysuru-Kodagu MP Yaduveer Krishnadatta Chamaraja Wadiyar were among those present.
 

@@ -1,0 +1,28 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-13T17:05:00+05:30",
+ "end": "2026-11-13T17:29:29+05:30",
+ "summary": "Modi opens Mysuru LED-dome planetarium leads; homepage refreshed",
+ "new": [
+  "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+   "why": "Lede and first key point (English and Hindi) say Modi cut the ribbon 'at about 4 pm', but no listed source gives that time: the PIB release schedules the event at about 3:30 pm, and the IANS/Punjab Kesari and Bengaluru Live reports give no time. Picture: the main image is a tight white cut-out library portrait of Modi with the crown of his head clipped at the top edge (on the story sheet and on the homepage lead), which reads as a stock head shot, not a news photo of the event.",
+   "done": "'at about 4 pm' replaced by 'on Friday afternoon' in lede and key point, EN and HI. Tight white cut-out portrait blocklisted; main picture now the library's Modi at Vienna airport (Commons, CC BY 2.0, 922 px, whole head with headroom). No free photo of the planetarium event exists (PIB returned nothing)."
+  },
+  {
+   "id": "homepage",
+   "why": "1) Stale preview at the top: Must Read 5 'Shivakumar says Karnataka will welcome Modi and press drought relief' (published November 12, 10:09 pm) previews a visit that happened today; drop it from the top headlines. 2) Running story overloaded: Modi's Karnataka tour has the lead (planetarium), Must Read 1 (Pink Line) and Must Read 5 (Shivakumar); keep it to the lead plus at most one slot. 3) The lead is the softer item of Modi's day: the ₹15,600 crore Pink Line/projects story is the bigger Karnataka story, and Rahul Gandhi's phone-tapping charge is the bigger national political story; lead with one of those and move the planetarium down, or fold it into the Pink Line lead. 4) The lead standfirst on the homepage says 'took four years' while the story file says 'took more than four years'; rebuild so the homepage carries the current text.",
+   "done": "Shivakumar welcome preview and every other Karnataka-tour item (LPG speech, Prashanti Kutiram, both previews, planetarium preview) dropped from the top; Pink Line opening remains the one other tour item lower down. Homepage rebuilt so the lead summary shows 'more than four years'. Lead kept: rule 13a requires a lead under 2 hours old, and the Pink Line (13:41) and Rahul Gandhi (14:09) stories are both over 2 hours old, so the planetarium story is the only lead-worthy story under 2 hours."
+  }
+ ],
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+ ],
+ "lead": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+}

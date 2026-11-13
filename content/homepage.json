@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nadda-who-global-tb-report-2026-india-mortality-38",
+    "id": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
     "overlay": {
       "kicker": {
-        "en": "Science & Tech / Health",
-        "hi": "विज्ञान-तकनीक / स्वास्थ्य"
+        "en": "Politics / Prime Minister",
+        "hi": "राजनीति / प्रधानमंत्री"
       },
       "value": {
-        "en": "TB deaths down 38% since 2015",
-        "hi": "2015 से टीबी मौतें 38% कम"
+        "en": "India's first LED-dome planetarium opens",
+        "hi": "देश का पहला एलईडी-डोम प्लैनेटेरियम खुला"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Health",
-        "hi": "स्वास्थ्य"
+        "en": "Prime Minister",
+        "hi": "प्रधानमंत्री"
       }
     }
   },
@@ -96,6 +96,17 @@
         }
       },
       {
+        "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi flags off Bengaluru's Pink Line and rides with Shivakumar; ₹15,600 crore package of power lines, LPG cavern, Vande Bharat",
+          "hi": "मोदी ने बेंगलुरु की पिंक लाइन को हरी झंडी दिखाई, शिवकुमार के साथ सफर; ₹15,600 करोड़ का पैकेज: बिजली लाइनें, एलपीजी गुफा, वंदे भारत"
+        }
+      },
+      {
         "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "lead": {
           "en": "Diplomacy:",
@@ -104,17 +115,6 @@
         "text": {
           "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
           "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
-        }
-      },
-      {
-        "link": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "lead": {
-          "en": "Tech Policy:",
-          "hi": "तकनीक नीति:"
-        },
-        "text": {
-          "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
-          "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
         }
       }
     ]
@@ -190,11 +190,11 @@
       "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
       "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
     ],
     "also": [
-      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
     ]
   },
   "startHere": [
@@ -369,10 +369,10 @@
       },
       "list": [
         "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
       ],
-      "lead": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+      "lead": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
     {
       "section": "economy",
@@ -425,8 +425,8 @@
       "lead": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "list": [
         "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed"
       ]
     },
     {
@@ -453,26 +453,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
+        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
+        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
       },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "PM Modi opens the COSMOS-Mysuru planetarium at about 3:30 pm; Gujarat visit on November 14, 2026",
-        "hi": "प्रधानमंत्री मोदी करीब 3:30 बजे कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करेंगे; 14 नवंबर को गुजरात दौरा"
-      },
-      "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
     {
       "icon": "calendar-blank",
@@ -485,18 +473,6 @@
         "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
       "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
-        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
-      },
-      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     },
     {
       "icon": "calendar-blank",
@@ -524,20 +500,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T09:26:52+05:30",
-      "ids": [
-        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
-      ]
-    },
     {
       "at": "2026-11-13T10:33:45+05:30",
       "ids": [
@@ -643,19 +605,32 @@
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
       ]
+    },
+    {
+      "at": "2026-11-13T17:25:52+05:30",
+      "ids": [
+        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "arun-pocso-chargesheet-veeramani",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
     "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
     "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
     "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
     "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-    "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-    "mastung-kanak-camp-truck-blast-police-toll-disputed"
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
   ]
 }
