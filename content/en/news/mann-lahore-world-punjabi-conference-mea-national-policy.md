@@ -98,10 +98,6 @@ His reply on Friday was measured. "We will wait for what they say. Political cle
 
 Mann has also asked for the Kartarpur Sahib Corridor to be reopened so that legislators can visit Sikh shrines across the border. In Pakistan's Punjab Assembly, provincial minority affairs minister Ramesh Singh Arora, who also heads the Pakistan Sikh Gurdwara Prabandhak Committee, invited all members of the Indian Punjab Assembly to visit Kartarpur Sahib and other sites, calling it a chance to see "religious freedom and interfaith harmony" in Pakistan. Arora, too, said he doubted Mann would get clearance, but that he was willing to host him.
 
-```photo
-{"n":1,"subject":"Bhagwant Mann","caption":"Punjab Chief Minister Bhagwant Mann, who has been invited to Lahore as chief guest.","alt":"Punjab Chief Minister Bhagwant Mann"}
-```
-
 ## Why a clearance is needed
 
 Under rules followed by the Cabinet Secretariat and the MEA, chief ministers, state ministers and state officials must obtain **prior political clearance from the MEA** before an official or private foreign visit. For Pakistan the bar is higher in practice. After the Pahalgam attack, India and Pakistan froze diplomatic ties and suspended cross-border engagement, and New Delhi also suspended cross-border transit arrangements, including the Kartarpur Sahib Corridor.

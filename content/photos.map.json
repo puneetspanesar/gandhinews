@@ -49191,16 +49191,29 @@
   }
  },
  "mann-lahore-world-punjabi-conference-mea-national-policy": {
-  "id": "o-mann-lahore-world-punjabi-conference-mea-national-policy",
-  "src": "/photos/o-mann-lahore-world-punjabi-conference-mea-national-policy-1280.jpg",
-  "src800": "/photos/o-mann-lahore-world-punjabi-conference-mea-national-policy-640.jpg",
+  "id": "v-mann-lahore-world-punjabi-conference-mea-national-policy",
+  "src": "/photos/v-mann-lahore-world-punjabi-conference-mea-national-policy-1280.jpg",
+  "src800": "/photos/v-mann-lahore-world-punjabi-conference-mea-national-policy-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1023,
-  "credit": "Photo: Consulate General of India in New York USA, Government of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Randhir Jaiswal (file photo)",
-  "alt_hi": "रणधीर जायसवाल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Randhir_Jaiswal_Indian_Foreign_Service_Diplomat_(cropped).jpg"
+  "height": 800,
+  "credit": "Photos: Jaypee / Wikimedia Commons; Consulate General of India in New York USA, Government of India / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0; GODL-India",
+  "alt": "Punjab Chief Minister Bhagwant Mann and MEA spokesperson Randhir Jaiswal (file photos)",
+  "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान और विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg",
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-mann-lahore-world-punjabi-conference-mea-national-policy-1280.jpg",
+   "src800": "/photos/t-mann-lahore-world-punjabi-conference-mea-national-policy-640.jpg",
+   "cutout": false,
+   "with": [
+    "pakistan-cuts-petrol-rs-5-16-diesel-rs-7-69-october-20",
+    "pakistan-militant-attacks-fall-66-per-cent-picss-kurram-landmine",
+    "cbi-takes-over-jhota-murder-probe-mansa"
+   ],
+   "kind": "photo",
+   "subj": "b6b6f0f0f0494f4",
+   "credit": "Photos: Jaypee / Wikimedia Commons; Consulate General of India in New York USA, Government of India / Wikimedia Commons; Notmyrealnamesorry / Wikimedia Commons; Alizmohsin / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
  }
 }

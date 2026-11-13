@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "id": "mann-lahore-world-punjabi-conference-mea-national-policy",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "Politics / Foreign Affairs",
+        "hi": "राजनीति / विदेश मामले"
       },
       "value": {
-        "en": "Modi in Bengaluru: Pink Line, ₹15,600 cr",
-        "hi": "बेंगलुरु में मोदी: पिंक लाइन, ₹15,600 करोड़"
+        "en": "'Expect everybody to abide by it'",
+        "hi": "'सभी से नीति के पालन की उम्मीद'"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Foreign Affairs",
+        "hi": "विदेश मामले"
       }
     }
   },
@@ -74,39 +74,6 @@
         }
       },
       {
-        "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "lead": {
-          "en": "Awards:",
-          "hi": "पुरस्कार:"
-        },
-        "text": {
-          "en": "President Murmu presents National Sports Awards 2025, Divya Deshmukh and Tejaswin Shankar among Arjuna winners",
-          "hi": "राष्ट्रपति मुर्मू ने राष्ट्रीय खेल पुरस्कार 2025 प्रदान किए, अर्जुन पुरस्कार पाने वालों में दिव्या देशमुख और तेजस्विन शंकर"
-        }
-      },
-      {
-        "link": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
-        },
-        "text": {
-          "en": "Three crude bombs explode at two court premises in Jashore, the latest blasts in a week of bomb and arson attacks across Bangladesh",
-          "hi": "जशोर में दो अदालत परिसरों में तीन देसी बम फटे, बांग्लादेश में हफ्ते भर से जारी बम और आगजनी के हमलों की ताजा कड़ी"
-        }
-      },
-      {
-        "link": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Trump says five Gulf states asked him to hold off on Iran strikes and he is 'not sure I agree', as Guards say a gas carrier hit a mine in Hormuz",
-          "hi": "ट्रंप बोले, पांच खाड़ी देशों ने ईरान पर हमले रोकने को कहा, 'पक्का नहीं कि मैं सहमत हूं'; गार्ड्स का दावा, होर्मुज में गैस टैंकर बारूदी सुरंग से टकराया"
-        }
-      },
-      {
         "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "lead": {
           "en": "Diplomacy:",
@@ -115,6 +82,39 @@
         "text": {
           "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
           "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
+        }
+      },
+      {
+        "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "lead": {
+          "en": "Ladakh:",
+          "hi": "लद्दाख:"
+        },
+        "text": {
+          "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
+          "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
+        }
+      },
+      {
+        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
+          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
+        }
+      },
+      {
+        "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "Eight dead as Brooklyn building falls into excavation; city probes builder's stop-work history",
+          "hi": "ब्रुकलिन में इमारत निर्माण गड्ढे में गिरी, आठ की मौत; बिल्डर के स्टॉप-वर्क रिकॉर्ड की जांच"
         }
       }
     ]
@@ -188,13 +188,13 @@
     "list": [
       "arun-pocso-chargesheet-veeramani",
       "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-      "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
     ],
     "also": [
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+      "mastung-kanak-camp-truck-blast-police-toll-disputed"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
         "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
       ],
-      "lead": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "lead": "mann-lahore-world-punjabi-conference-mea-national-policy"
     },
     {
       "section": "economy",
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass"
+        "india-bans-export-lithium-ion-battery-black-mass",
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     },
     {
@@ -398,7 +398,7 @@
       "list": [
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "delhi-aqi-402-severe-iit-delhi-488-friday"
+        "aap-second-list-31-punjab-mlas-dropped-two-mps"
       ]
     },
     {
@@ -457,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
-        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
+        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
+        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
       },
-      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
     },
     {
       "icon": "calendar-blank",
@@ -628,20 +628,28 @@
       ]
     },
     {
-      "at": "2026-11-13T20:11:03+05:30",
+      "at": "2026-11-13T20:33:35+05:30",
       "ids": [
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "mann-lahore-world-punjabi-conference-mea-national-policy",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "nadda-who-global-tb-report-2026-india-mortality-38",
         "arun-pocso-chargesheet-veeramani",
         "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+  ]
 }
