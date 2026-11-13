@@ -31,7 +31,7 @@ infographic:
   motif: map-pin
   timeline:
     - {date: "Nov 15", text: "Talegaon Dabhade foundation stone at 2 pm", icon: map-pin}
-    - {date: "Nov 15", text: "Visit to Bharat Forge at Mundve", icon: buildings}
+    - {date: "Nov 15", text: "Visit to Bharat Forge at Mundhwa", icon: buildings}
     - {date: "Nov 15", text: "Meetings with BJP, NCP and Shiv Sena leaders", icon: users}
     - {date: "Nov 16", text: "Ajit Pawar statue unveiled at Pune Zilla Parishad", icon: map-pin}
   source: "Maharashtra state publicity department programme, as reported November 13, 2026"
@@ -84,7 +84,7 @@ According to reports, the Maharashtra government's publicity department has conf
 
 On Sunday at about 2 pm, Shah is to **lay the foundation stone of a cooperative-basis industrial unit at Talegaon Dabhade**, in Maval taluka. The project is the redevelopment of the site of National Heavy Engineering Cooperative Ltd. Union Minister of State Murlidhar Mohol and former Minister of State Bala Bhegade announced it at a press conference on Wednesday, November 11. Mohol said the central and state governments had consistently worked to strengthen the cooperative sector. Neither the cost nor the number of jobs has been given.
 
-Chief Minister Devendra Fadnavis, Deputy Chief Ministers Eknath Shinde and Sunetra Pawar, and BJP state president Ravindra Chavan are expected to attend. Shah will also visit the **Bharat Forge facility at Mundve**, stay overnight in Pune and is likely to flag off the Pune Marathon.
+Chief Minister Devendra Fadnavis, Deputy Chief Ministers Eknath Shinde and Sunetra Pawar, and BJP state president Ravindra Chavan are expected to attend. Shah will also visit the **Bharat Forge facility at Mundhwa**, stay overnight in Pune and is likely to flag off the Pune Marathon.
 
 On Monday, November 16, he is to **unveil a statue of Ajit Pawar** on the premises of the Pune Zilla Parishad. Ajit Pawar, the former Deputy Chief Minister and NCP president, died in a plane crash at Baramati on January 28. NCP sources say Sunetra Pawar, his widow, who now heads the party and is Deputy Chief Minister, formally asked Shah to perform the unveiling. NCP legislators, ministers and MPs have reportedly been told by phone to attend.
 

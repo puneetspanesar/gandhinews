@@ -85,7 +85,7 @@ New Zealand were 258 for 6 when Michael Bracewell was out, and Mitchell Santner 
 For India, Axar Patel took 2 for 39 from his 10 overs and Nabi 2 for 59, and Brar took two wickets for 69. Arshdeep Singh and Dhir took one each, and Kuldeep Yadav went wicketless for 73 in eight overs.
 
 ```timeline
-{"title":"The series so far","items":[{"date":"Nov 4, 2026","text":"Auckland: India win the first ODI by five wickets on DLS"},{"date":"Nov 7, 2026","text":"Wellington: India win the second ODI by four runs on DLS"},{"date":"Nov 10, 2026","text":"Hamilton: third ODI abandoned without a ball bowled"},{"date":"Nov 13, 2026","text":"Mount Maunganui: New Zealand win the fourth ODI by 244 runs"},{"date":"Nov 15, 2026","text":"Mount Maunganui: fifth and last ODI"}]}
+{"title":"The series so far","items":[{"date":"November 4, 2026","text":"Auckland: India win the first ODI by five wickets on DLS"},{"date":"November 7, 2026","text":"Wellington: India win the second ODI by four runs on DLS"},{"date":"November 10, 2026","text":"Hamilton: third ODI abandoned without a ball bowled"},{"date":"November 13, 2026","text":"Mount Maunganui: New Zealand win the fourth ODI by 244 runs"},{"date":"November 15, 2026","text":"Mount Maunganui: fifth and last ODI"}]}
 ```
 
 ## How the series got here

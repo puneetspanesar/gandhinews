@@ -1,0 +1,32 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-13T22:13:12+05:30",
+ "end": "2026-11-13T22:51:17+05:30",
+ "summary": "Shah/NCP lead, Revanth visa row, Iran IAEA, delimitation editorial, 88-days fact check; NZ ODI held",
+ "new": [
+  "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+  "monsoon-session-unprorogued-record-88-days-ramesh-claim",
+  "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+  "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+  "revanth-bharat-summit-visas-modi-hyderabad"
+ ],
+ "held": [
+  "nz-win-fourth-odi-henry-six-young-125-india-89-bay-oval"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+   "why": "The headline is about Iran telling the watchdog it will not resume inspections while Trump threatens it, but the main picture shows only IAEA chief Rafael Grossi, the party being addressed. This is a story about A, shown only with B. The hero brief asked for Donald Trump; the earlier smiling-Trump photo was rightly rejected for tone, but swapping in the watchdog chief does not fix it.",
+   "done": "main picture now Abbas Araghchi at IAEA talks in Vienna (finder h1322 a1 4, IAEA Imagebank CC BY 2.0); Grossi dropped"
+  },
+  {
+   "id": "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+   "why": "The in-story photo of Mallikarjun Kharge is a blurry, low-resolution video frame. The top of his head is cut off and a second man's face crowds the right edge.",
+   "done": "in-story Kharge photo block dropped from both language files"
+  }
+ ],
+ "breaches": [],
+ "lead": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+}

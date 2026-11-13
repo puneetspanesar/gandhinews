@@ -85,7 +85,7 @@ One of the named cases is Helle Lyng Svendsen, a Norwegian journalist invited to
 MEA spokesperson Randhir Jaiswal responded to the controversy by saying: "Visa matters are sovereign functions of any country or any government." The Home Ministry has not publicly explained the individual cases.
 
 ```facts
-{"title":"Bharat Summit at a glance","items":[{"value":"1,000","label":"delegates and experts attending"},{"value":"70","label":"countries represented"},{"value":"115 of 315","label":"speakers said by Shashi Tharoor to have been refused entry (unconfirmed)"},{"value":"Dec 7 to 9","label":"Invest Telangana Global Summit that follows"}]}
+{"title":"Bharat Summit at a glance","items":[{"value":"1,000","label":"delegates and experts attending"},{"value":"70","label":"countries represented"},{"value":"115 of 315","label":"speakers said by Shashi Tharoor to have been refused entry (unconfirmed)"},{"value":"December 7 to 9","label":"Invest Telangana Global Summit that follows"}]}
 ```
 
 ## Opposition attacks and the reply

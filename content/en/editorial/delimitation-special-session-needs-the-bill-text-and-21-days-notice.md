@@ -74,7 +74,7 @@ What nobody outside the government can see is the text. In April the government 
 
 ## The best case for speed
 
-The government has a fair argument. The Monsoon Session was adjourned on August 13 and never prorogued, so the House can be recalled at short notice, and Reports say an extended sitting of an existing Session needs only two days' notice. Parliamentary Affairs Minister Kiren Rijiju wrote on October 19 that the Congress did not give dates for talks and that seven other parties were consulted. A government that has the numbers may reasonably want to use them.
+The government has a fair argument. The Monsoon Session was adjourned on August 13 and never prorogued, so the House can be recalled at short notice, and reports say an extended sitting of an existing Session needs only two days' notice. Parliamentary Affairs Minister Kiren Rijiju wrote on October 19 that the Congress did not give dates for talks and that seven other parties were consulted. A government that has the numbers may reasonably want to use them.
 
 But speed is not the problem the Opposition raises. Its case is that a constitutional amendment on the weight of every state in the House cannot be consulted on in the corridor. Parliament's own handbook says summons should go out, as far as possible, at least **21 clear days before** a Session begins. A sitting on November 24 would be 11 days from today.
 
@@ -92,6 +92,3 @@ The Opposition has its own work. If it believes the Bill is wrong, it should say
 {"title":"The reporting behind this view","items":[{"value":"850","label":"maximum Lok Sabha seats in the April Bill, against a present ceiling of 550 (PRS Legislative Research, as reported)"},{"value":"298 to 230","label":"vote on April 17 that defeated the Constitution (131st Amendment) Bill (PRS, as reported)"},{"value":"21 days","label":"notice before a Session that Parliament's handbook treats as the aim, 'as far as possible' (Ministry of Parliamentary Affairs)"}]}
 ```
 
-```photo
-{"n":1,"subject":"Mallikarjun Kharge","caption":"Congress president Mallikarjun Kharge, who has written to the Prime Minister four times this year asking for an all-party meeting on delimitation.","alt":"Congress president Mallikarjun Kharge"}
-```
