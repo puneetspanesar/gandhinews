@@ -70,7 +70,7 @@ Chief Electoral Officer Naveen Mahajan gave the break-up: 2,75,24,780 men, 2,51,
 
 ## What the draft roll says
 
-The draft carries **January 1, 2027 as the qualifying date**. Anyone who turns 18 by October 1, 2027 can apply in advance. The roll is available on election.rajasthan.gov.in, and booth-wise hard copies are with booth level officers. Recognised parties in every assembly constituency have received one free soft copy without photographs and one hard copy at the electoral registration officer's office.
+The draft carries **January 1, 2027, as the qualifying date**. Anyone who turns 18 by October 1, 2027, can apply in advance. The roll is available on election.rajasthan.gov.in, and booth-wise hard copies are with booth level officers. Recognised parties in every assembly constituency have received one free soft copy without photographs and one hard copy at the electoral registration officer's office.
 
 Voters can file **claims and objections until December 11**, using Form 6 to add a name, Form 7 to object to or delete one, and Form 8 to correct details. They can apply online through the ECINet app or the Voters' Portal, or through booth level officers. Applications are to be disposed of by December 28, and the **final roll is due on January 4, 2027**.
 

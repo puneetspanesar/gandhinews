@@ -57,7 +57,7 @@ verification:
   notes:
     - "The PIB release for this visit could not be opened this run; the visit is written from several published reports (UNI, Indian Vartha, Daily Excelsior, Business Remedies, Observer Voice, Business News Week). The Bernini meeting outcomes come from one report (Business Remedies, November 13) and are stated in reported terms; no quotes from either minister were found."
     - "Daily Excelsior says four days, others say November 11 to 15 (five days); written as the November 11 to 15 schedule. Meeting with Adolfo Urso is listed as scheduled by one report; outcome not found, so written as scheduled."
-    - "PIB December 2, 2024 release used only for background on Elettra and the Executive Programme."
+    - "PIB December 2, 2024, release used only for background on Elettra and the Executive Programme."
 infographic:
   kicker: "India-Italy science dialogue"
   headline: "India and Italy plan a 2027 joint research call"
@@ -66,7 +66,7 @@ infographic:
   stats:
     - {icon: handshake, value: "2025", label: "research MoU signed April 11"}
     - {icon: flask, value: "2027", label: "joint call for research proposals planned"}
-  timeline: {title: "The visit", items: [{date: "Nov 12", text: "Bernini meeting, Rome", icon: handshake}, {date: "Nov 13", text: "Trieste labs", icon: flask}, {date: "Nov 14", text: "World Diabetes Day, Rome", icon: heartbeat}]}
+  timeline: [{date: "November 12", text: "Bernini meeting, Rome", icon: handshake}, {date: "November 13", text: "Trieste labs", icon: flask}, {date: "November 14", text: "World Diabetes Day, Rome", icon: heartbeat}]
   source: "Reports on the visit, November 11 to 13, 2026"
 ---
 
@@ -103,7 +103,7 @@ Elettra is the oldest strand of the partnership. When Italian minister Adolfo Ur
 The legal base is the Science and Technology Cooperation Agreement signed in New Delhi on November 28, 2003. The April 2025 research MoU added a fresh framework, and the May 2026 Modi visit raised the relationship to a Special Strategic Partnership.
 
 ```timeline
-{"title":"India-Italy science cooperation","items":[{"date":"Nov 28, 2003","text":"Science and Technology Cooperation Agreement signed in New Delhi"},{"date":"Dec 2, 2024","text":"Urso calls on Jitendra Singh in Delhi; Elettra, space and startups discussed"},{"date":"Apr 11, 2025","text":"Scientific Research Cooperation MoU signed"},{"date":"May 2026","text":"Special Strategic Partnership agreed during PM Modi's visit to Italy"},{"date":"Nov 12, 2026","text":"Second Science and Innovation Dialogue in Rome"}]}
+{"title":"India-Italy science cooperation","items":[{"date":"November 28, 2003","text":"Science and Technology Cooperation Agreement signed in New Delhi"},{"date":"December 2, 2024","text":"Urso calls on Jitendra Singh in Delhi; Elettra, space and startups discussed"},{"date":"April 11, 2025","text":"Scientific Research Cooperation MoU signed"},{"date":"May 2026","text":"Special Strategic Partnership agreed during PM Modi's visit to Italy"},{"date":"November 12, 2026","text":"Second Science and Innovation Dialogue in Rome"}]}
 ```
 
 ## Why it matters to researchers

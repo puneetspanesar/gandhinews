@@ -65,7 +65,7 @@ infographic:
   stats:
     - {icon: handshake, value: "2025", label: "11 अप्रैल को शोध समझौता ज्ञापन पर हस्ताक्षर"}
     - {icon: flask, value: "2027", label: "संयुक्त शोध प्रस्ताव आमंत्रण की योजना"}
-  timeline: {title: "यात्रा का कार्यक्रम", items: [{date: "12 नव", text: "रोम में बर्निनी से मुलाकात", icon: handshake}, {date: "13 नव", text: "त्रिएस्ते की प्रयोगशालाएं", icon: flask}, {date: "14 नव", text: "रोम में विश्व मधुमेह दिवस", icon: heartbeat}]}
+  timeline: [{date: "12 नवंबर", text: "रोम में बर्निनी से मुलाकात", icon: handshake}, {date: "13 नवंबर", text: "त्रिएस्ते की प्रयोगशालाएं", icon: flask}, {date: "14 नवंबर", text: "रोम में विश्व मधुमेह दिवस", icon: heartbeat}]
   source: "यात्रा पर रिपोर्टें, 11 से 13 नवंबर 2026"
 ---
 

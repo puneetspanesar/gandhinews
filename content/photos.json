@@ -51798,16 +51798,6 @@
   "articleId": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
  },
  {
-  "id": "o-india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-  "articleId": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jitendra_Singh_Rana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Jitendra Singh (file photo)",
-  "alt_hi": "जितेंद्र सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jitendra_Singh_Rana.jpg"
- },
- {
   "id": "o-rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
   "articleId": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Female_voters_standing_in_a_queue_and_waiting_for_their_turn_to_cast_vote_at_the_polling_booth_of_Bassi%2C_in_Jaipur%2C_during_the_Rajasthan_Assembly_Election%2C_on_December_01%2C_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51828,16 +51818,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Allahabad_high_court.jpg"
  },
  {
-  "id": "o-farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
-  "articleId": "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thick_Smog_Blankets_India%E2%80%99s_Capital_City_%28NESDIS_2019-11-01_delhi-image%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: NOAA / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Satellite view of smog over Delhi and the north Indian plains, November 1, 2019 (file photo)",
-  "alt_hi": "दिल्ली और उत्तर भारत के मैदानों पर स्मॉग का उपग्रह दृश्य, 1 नवंबर 2019 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Thick_Smog_Blankets_India%E2%80%99s_Capital_City_(NESDIS_2019-11-01_delhi-image).jpg"
- },
- {
   "id": "o-wangchuk-confinement-election-orders-must-be-shown-in-writing",
   "articleId": "wangchuk-confinement-election-orders-must-be-shown-in-writing",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Sonam_Wangchuk01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51846,5 +51826,25 @@
   "alt": "Sonam Wangchuk speaking at an event (file photo)",
   "alt_hi": "एक कार्यक्रम में बोलते सोनम वांगचुक (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Sonam_Wangchuk01.jpg"
+ },
+ {
+  "id": "o-india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+  "articleId": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Shri_Jitendra_Singh_Minister_of_for_Personnel%2C_Public_Grievances_%26_Pensions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Personnel, Public Grievances and Pensions / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Jitendra Singh (file photo)",
+  "alt_hi": "जितेंद्र सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Jitendra_Singh_Minister_of_for_Personnel,_Public_Grievances_%26_Pensions.jpg"
+ },
+ {
+  "id": "o-farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
+  "articleId": "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/NP_India_burning_48_%286315309342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: CIAT / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Farmers burn paddy stubble in a field in Punjab (file photo)",
+  "alt_hi": "पंजाब के एक खेत में पराली जलाते किसान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg"
  }
 ]

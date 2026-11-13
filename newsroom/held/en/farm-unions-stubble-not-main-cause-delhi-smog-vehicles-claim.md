@@ -18,8 +18,8 @@ factcheck:
 hero:
   need: "Smog over Delhi during the November pollution season"
   suggested_source: "Delhi smog"
-  subjects: ["Delhi smog"]
-  alt: "Smog over Delhi (file photo)"
+  subjects: ["Stubble burning Punjab"]
+  alt: "Farmers burn paddy stubble in a field in Punjab (file photo)"
   overlay:
     value: "Stubble is not the whole story, the record says"
 infographic:
@@ -56,7 +56,7 @@ verification:
   notes:
     - "The unions' words come from our own story of November 12, 2026, which rests on news reports; the speeches were not heard first hand."
     - "The order text was read in full from the PDF. It does not mention Covid-19 or a lockdown; the bench remark in the hearing account is not in the written order. No percentages appear in the order."
-    - "Counts are for September 15 to November 18 of each year as given in the November 25, 2024 reply; 2025 and 2026 counts were not found in a primary document in this run, so the text does not state them."
+    - "Counts are for September 15 to November 18 of each year as given in the November 25, 2024, reply; 2025 and 2026 counts were not found in a primary document in this run, so the text does not state them."
     - "No primary source ranking the share of stubble against vehicles for this season was found (IITM decision support system pages could not be opened). Down To Earth and CSE analyses exist but were not used for a verdict. Rated Mostly true, not True, for that reason."
 ---
 
@@ -72,7 +72,7 @@ The order, in the suo motu case on air pollution in the National Capital Region,
 
 ### 2. The fall in farm fires
 
-A written reply by the Environment Ministry in the Lok Sabha on November 25, 2024 gave paddy residue burning events from September 15 to November 18. Punjab had **48,489 in 2022, 33,719 in 2023 and 9,655 in 2024**. Haryana had 3,380, 2,052 and 1,118. Uttar Pradesh's NCR districts went the other way: 72, 108 and 192. In December 2025 the Commission for Air Quality Management reported roughly a 92% overall reduction in NCR against 2021 in this burning, without giving counts.
+A written reply by the Environment Ministry in the Lok Sabha on November 25, 2024, gave paddy residue burning events from September 15 to November 18. Punjab had **48,489 in 2022, 33,719 in 2023 and 9,655 in 2024**. Haryana had 3,380, 2,052 and 1,118. Uttar Pradesh's NCR districts went the other way: 72, 108 and 192. In December 2025 the Commission for Air Quality Management reported roughly a 92% overall reduction in NCR against 2021 in this burning, without giving counts.
 
 ### 3. What the record does not show
 

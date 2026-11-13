@@ -1,0 +1,33 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-13T12:04:15+05:30",
+ "end": "2026-11-13T12:52:35+05:30",
+ "summary": "3 stories + editorial, lead Rajasthan draft roll; stubble fact check held",
+ "new": [
+  "wangchuk-confinement-election-orders-must-be-shown-in-writing",
+  "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+  "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+  "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
+ ],
+ "held": [
+  "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
+   "kind": "facts",
+   "why": "The verdict 'Mostly true' contradicts the story's own finding. The text says the core claim (stubble is not the principal cause) is 'not yet proven', and that the order does not put vehicles at the centre or name them the main cause, so both halves of the claim as stated are unsupported. The 'finding' line also says burning counts in Punjab, Haryana and Uttar Pradesh 'fell sharply', but the story's own figures show Uttar Pradesh NCR rising (72, 108, 192). The Hindi standfirst has a grammar error ('दिल्ली के धुंध' should be 'दिल्ली की धुंध'), and the Hindi headline drops 'pollution' ('पराली दिल्ली की मुख्य वजह नहीं' reads as 'stubble is not Delhi's main reason').",
+   "fix": "Change the verdict in both languages to 'Unproven' or 'Partly true / Missing context', in line with 'What we found'. Rewrite the finding to say the counts fell in Punjab and Haryana but rose in Uttar Pradesh's NCR districts. In Hindi, change 'दिल्ली के धुंध' to 'दिल्ली की धुंध' and the headline to 'पराली दिल्ली के प्रदूषण की मुख्य वजह नहीं'."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "1) Lead (rule 10): the Rajasthan draft voter roll is a single-state story and not the biggest story in India now. frontpages.txt puts Modi's Karnataka and Gujarat visit first, with Wangchuk and Delhi's severe air next. Lead with the latest Modi development, or with Delhi air once it carries a fresh figure, and move Rajasthan into the grid. 2) Running story over-represented, same subject side by side (rule 11): Modi's Bengaluru trip fills two adjacent PRIME MINISTER slots in the left grid ('Modi at Prashanti Kutiram jubilee...' and 'Modi in Bengaluru today...'), plus 'Modi urges farmers...' under them, 'Modi to open Bengaluru Pink Line... on Friday' in Politics and a This Week entry. Keep one Modi Bengaluru slot, the 11:14 jubilee story or a newer one. 3) Stale previews (rule 12): 'Modi in Bengaluru today: Pink Line ride, Vande Bharat flag-off... then Mysuru planetarium' (09:07) and 'Modi to open Bengaluru Pink Line... on Friday' preview events that have now begun or happened. Drop them or replace them with what happened. In This Week, 'Today: Markets open after October retail inflation...' previews a market opening that happened hours ago. Remove it. 4) Old figure at the top (rule 9b): Must Read #1 'Delhi's air turns severe at AQI 402 on Friday morning, IIT Delhi touches 488' (10:08) carries the morning figure at about 12:40 pm. Update it with the latest CPCB or station reading, or with any GRAP change. 5) Stale, contradictory markets item (rules 9b/13): 'Sensex and Nifty edge up for a third day...' is Thursday's November 12 close, while the ticker beside it shows Sensex -0.20% and Nifty -0.39% today. Replace it with a Friday market story or drop it from the top headlines.",
+   "done": "Dropped from the top: the Modi today preview and the Nov 13-14 visit preview, the morning AQI 402 card, the Mohan Yadav preview, the UP voter-list explainer, the Rajasthan roll editorial and the Nov 12 Sensex close. Lead kept on the Rajasthan draft roll (state news of weight, published this run; the Modi jubilee story already led at 11:14 and Wangchuk at 10:12, and the lead must change and stay under 2 hours old). No fresher AQI figure was read this run."
+  }
+ ],
+ "breaches": [],
+ "lead": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
+}

@@ -81,5 +81,5 @@ Fourth, the Centre should look again at December 4. If students and migrant work
 Ladakh does not need another autumn of mistrust. A paper that can be read in public would be a small start.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"20 to 25","label":"police and paramilitary personnel Wangchuk says have been outside his home since Wednesday night"},{"value":"60 days","label":"the reported bar on unauthorised rallies in the November 11 magisterial order"},{"value":"Dec 4","label":"date of polls to all eight Ladakh hill councils, announced November 10"}]}
+{"title":"The reporting behind this view","items":[{"value":"20 to 25","label":"police and paramilitary personnel Wangchuk says have been outside his home since Wednesday night"},{"value":"60 days","label":"the reported bar on unauthorised rallies in the November 11 magisterial order"},{"value":"December 4","label":"date of polls to all eight Ladakh hill councils, announced November 10"}]}
 ```

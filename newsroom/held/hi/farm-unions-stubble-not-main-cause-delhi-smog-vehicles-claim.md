@@ -20,8 +20,8 @@ factcheck:
 hero:
   need: "नवंबर के प्रदूषण मौसम में दिल्ली पर छाई धुंध"
   suggested_source: "Delhi smog"
-  subjects: ["Delhi smog"]
-  alt: "दिल्ली पर छाई धुंध (फाइल फोटो)"
+  subjects: ["Stubble burning Punjab"]
+  alt: "पंजाब के एक खेत में पराली जलाते किसान (फाइल फोटो)"
   overlay:
     value: "रिकॉर्ड के अनुसार पराली पूरी कहानी नहीं"
 infographic:

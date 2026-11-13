@@ -48628,20 +48628,42 @@
   "licence": "GODL-India",
   "alt": "Women voters queue at a polling booth in Bassi, Jaipur district, Rajasthan (file photo)",
   "alt_hi": "राजस्थान के जयपुर जिले के बस्सी में मतदान केंद्र पर कतार में महिला मतदाता (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Female_voters_standing_in_a_queue_and_waiting_for_their_turn_to_cast_vote_at_the_polling_booth_of_Bassi,_in_Jaipur,_during_the_Rajasthan_Assembly_Election,_on_December_01,_2013.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Female_voters_standing_in_a_queue_and_waiting_for_their_turn_to_cast_vote_at_the_polling_booth_of_Bassi,_in_Jaipur,_during_the_Rajasthan_Assembly_Election,_on_December_01,_2013.jpg",
+  "treated": {
+   "src": "/photos/t-rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir-1280.jpg",
+   "src800": "/photos/t-rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir-640.jpg",
+   "cutout": false,
+   "with": [
+    "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1"
+   ],
+   "kind": "photo",
+   "subj": "fefec2020a0f0700",
+   "credit": "Photos: Election Commission of India / Wikimedia Commons; Nilanjan Chowdhury / Wikimedia Commons; Copernicus Sentinel-2, ESA / Wikimedia Commons"
+  }
  },
  "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste": {
   "id": "o-india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
   "src": "/photos/o-india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste-1280.jpg",
   "src800": "/photos/o-india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 897,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "height": 739,
+  "srcWidth": 1390,
+  "credit": "Photo: Ministry of Personnel, Public Grievances and Pensions / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Jitendra Singh (file photo)",
   "alt_hi": "जितेंद्र सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jitendra_Singh_Rana.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Jitendra_Singh_Minister_of_for_Personnel,_Public_Grievances_%26_Pensions.jpg",
+  "treated": {
+   "src": "/photos/t-india-italy-science-dialogue-jitendra-singh-rome-bernini-tri-1280.jpg",
+   "src800": "/photos/t-india-italy-science-dialogue-jitendra-singh-rome-bernini-tri-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "1018fc6c7c7c3f",
+   "credit": "Photo: Ministry of Personnel, Public Grievances and Pensions / Wikimedia Commons"
+  }
  },
  "govt-probes-website-blocks-forged-court-orders-129-betting-sites": {
   "id": "o-govt-probes-website-blocks-forged-court-orders-129-betting-sites",
@@ -48654,20 +48676,33 @@
   "licence": "CC0",
   "alt": "Allahabad High Court, Prayagraj (file photo)",
   "alt_hi": "इलाहाबाद हाईकोर्ट, प्रयागराज (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Allahabad_high_court.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Allahabad_high_court.jpg",
+  "treated": {
+   "src": "/photos/t-govt-probes-website-blocks-forged-court-orders-129-betting-s-1280.jpg",
+   "src800": "/photos/t-govt-probes-website-blocks-forged-court-orders-129-betting-s-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-adjourns-delhi-protest-pleas-summons-police-officer",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p2",
+    "how-uttar-pradesh-voted-2022-what-it-takes-to-win"
+   ],
+   "kind": "photo",
+   "subj": "ffff7f3020030000",
+   "credit": "Photos: Vroomtrapit / Wikimedia Commons; Pinakpani / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; Shoonyea / Wikimedia Commons"
+  }
  },
  "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim": {
   "id": "o-farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
   "src": "/photos/o-farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim-1280.jpg",
   "src800": "/photos/o-farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim-640.jpg",
   "width": 1280,
-  "height": 720,
-  "srcWidth": 1920,
-  "credit": "Photo: NOAA / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Satellite view of smog over Delhi and the north Indian plains, November 1, 2019 (file photo)",
-  "alt_hi": "दिल्ली और उत्तर भारत के मैदानों पर स्मॉग का उपग्रह दृश्य, 1 नवंबर 2019 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Thick_Smog_Blankets_India%E2%80%99s_Capital_City_(NESDIS_2019-11-01_delhi-image).jpg"
+  "height": 850,
+  "srcWidth": 1280,
+  "credit": "Photo: CIAT / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Farmers burn paddy stubble in a field in Punjab (file photo)",
+  "alt_hi": "पंजाब के एक खेत में पराली जलाते किसान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg"
  },
  "wangchuk-confinement-election-orders-must-be-shown-in-writing": {
   "id": "o-wangchuk-confinement-election-orders-must-be-shown-in-writing",
@@ -48680,6 +48715,19 @@
   "licence": "CC BY 2.0",
   "alt": "Sonam Wangchuk speaking at an event (file photo)",
   "alt_hi": "एक कार्यक्रम में बोलते सोनम वांगचुक (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sonam_Wangchuk01.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sonam_Wangchuk01.jpg",
+  "treated": {
+   "src": "/photos/t-wangchuk-confinement-election-orders-must-be-shown-in-writin-1280.jpg",
+   "src800": "/photos/t-wangchuk-confinement-election-orders-must-be-shown-in-writin-640.jpg",
+   "cutout": true,
+   "with": [
+    "parliamentary-committees-jpc-standing-select-explained",
+    "womens-reservation-33-per-cent-when-will-it-start-explained",
+    "global-hunger-index-2026-india-serious-south-asia"
+   ],
+   "kind": "photo",
+   "subj": "103131f1f073f",
+   "credit": "Photos: Sonam Wangchuk / Wikimedia Commons; Reply.rajrewal / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons; Mulkh Singh / Wikimedia Commons"
+  }
  }
 }

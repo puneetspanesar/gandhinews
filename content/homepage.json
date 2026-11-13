@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+    "id": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "States / Rajasthan",
+        "hi": "राज्य / राजस्थान"
       },
       "value": {
-        "en": "Modi in Bengaluru: jubilee, then Pink Line",
-        "hi": "बेंगलुरु में मोदी: स्वर्ण जयंती समारोह, फिर पिंक लाइन"
+        "en": "Three rolls, three counts",
+        "hi": "तीन सूचियां, तीन आंकड़े"
       },
       "text": {
         "en": "",
@@ -16,19 +16,55 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "up-voter-list-2026-check-name-after-sir",
+      "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not"
+    ],
     "relatedBeside": [
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
+          "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
+        }
+      },
+      {
+        "link": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "lead": {
+          "en": "Tech Policy:",
+          "hi": "तकनीक नीति:"
+        },
+        "text": {
+          "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
+          "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
+        }
+      },
+      {
+        "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "lead": {
+          "en": "Ladakh:",
+          "hi": "लद्दाख:"
+        },
+        "text": {
+          "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
+          "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
+        }
+      },
       {
         "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
         "lead": {
@@ -63,58 +99,25 @@
         }
       },
       {
-        "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "link": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
         "lead": {
-          "en": "Madhya Pradesh:",
-          "hi": "मध्य प्रदेश:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Mohan Yadav to release 42nd Laadli Behna instalment from Pichhore today, ₹1,831 crore for 1.24 crore women",
-          "hi": "मोहन यादव आज पिछोर से जारी करेंगे लाड़ली बहना की 42वीं किस्त, 1.24 करोड़ महिलाओं को ₹1,831 करोड़"
+          "en": "Modi in Bengaluru today: Pink Line ride, Vande Bharat flag-off and ₹15,600 crore of projects, then Mysuru planetarium",
+          "hi": "मोदी आज बेंगलुरु में: पिंक लाइन की सवारी, वंदे भारत को हरी झंडी और ₹15,600 करोड़ की परियोजनाएं, फिर मैसूरु में तारामंडल"
         }
       },
       {
-        "link": "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
         "lead": {
-          "en": "Pakistan:",
-          "hi": "पाकिस्तान:"
+          "en": "US-China:",
+          "hi": "अमेरिका-चीन:"
         },
         "text": {
-          "en": "Mastung truck bomb: police say two civilians died, local reports claim dozens of soldiers killed",
-          "hi": "मस्तुंग में ट्रक बम: पुलिस के मुताबिक दो नागरिक मरे, स्थानीय रिपोर्टों में दर्जनों सैनिकों की मौत का दावा"
-        }
-      },
-      {
-        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "lead": {
-          "en": "Agriculture:",
-          "hi": "कृषि:"
-        },
-        "text": {
-          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
-          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
-        }
-      },
-      {
-        "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
-        },
-        "text": {
-          "en": "Sensex and Nifty edge up for a third day as realty jumps 4.5% and Godrej Industries gains on Temasek deal",
-          "hi": "सेंसेक्स और निफ्टी लगातार तीसरे दिन बढ़त पर, रियल्टी 4.5% चढ़ा और टेमासेक सौदे से गोदरेज इंडस्ट्रीज उछला"
-        }
-      },
-      {
-        "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Anushka Sharma to captain India A women against England A, with Shreyanka Patil in all three squads",
-          "hi": "इंग्लैंड ए के खिलाफ भारत ए महिला टीम की कप्तान अनुष्का शर्मा, श्रेयंका पाटिल तीनों टीमों में"
+          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
+          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
         }
       }
     ]
@@ -182,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-aqi-402-severe-iit-delhi-488-friday",
+      "id": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "also": []
     },
     "list": [
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+      "delhi-aqi-402-severe-iit-delhi-488-friday",
       "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-      "mastung-kanak-camp-truck-blast-police-toll-disputed",
-      "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-      "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
     ],
     "also": [
-      "india-a-women-squads-england-a-shreyanka-patil-recalled",
-      "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
+      "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+      "aap-second-list-31-punjab-mlas-dropped-two-mps"
     ]
   },
   "startHere": [
@@ -354,11 +357,11 @@
     }
   ],
   "opinion": [
+    "wangchuk-confinement-election-orders-must-be-shown-in-writing",
     "inflation-at-6-09-percent-needs-onion-and-food-supply-action",
     "black-mass-export-ban-is-sound-but-india-needs-one-waste-rule-and-capacity-numbers",
     "thoothukudi-relief-is-not-accountability-act-on-the-officers-the-commission-named",
-    "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
-    "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards"
+    "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill"
   ],
   "sections": [
     {
@@ -368,9 +371,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
       ],
       "lead": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
     },
@@ -394,20 +397,20 @@
     },
     {
       "section": "states",
-      "lead": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "lead": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
       "list": [
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "delhi-aqi-402-severe-iit-delhi-488-friday",
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps"
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
       ]
     },
     {
       "section": "policy",
-      "lead": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+      "lead": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "list": [
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha"
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
       ]
     },
     {
@@ -431,11 +434,11 @@
     },
     {
       "section": "science",
-      "lead": "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "lead": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
       "list": [
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
         "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre",
-        "nasa-cygnus-xl-crs-25-falcon-9-november-29-station-cargo"
+        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview"
       ]
     },
     {
@@ -493,10 +496,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Syed Mushtaq Ali Trophy opens: Bihar v Saurashtra in Indore, Mumbai v Hyderabad",
-        "hi": "सैयद मुश्ताक अली ट्रॉफी शुरू: इंदौर में बिहार बनाम सौराष्ट्र, मुंबई बनाम हैदराबाद"
+        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
+        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
       },
-      "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14"
+      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     },
     {
       "icon": "calendar-blank",
@@ -524,20 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T23:54:21+05:30",
-      "ids": [
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "modi-asean-india-summit-manila-november-16-18",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "retail-inflation-october-2026-6-09-two-year-high"
-      ]
-    },
     {
       "at": "2026-11-13T00:38:04+05:30",
       "ids": [
@@ -645,6 +634,22 @@
         "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
         "india-a-women-squads-england-a-shreyanka-patil-recalled"
+      ]
+    },
+    {
+      "at": "2026-11-13T12:49:06+05:30",
+      "ids": [
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+        "up-voter-list-2026-check-name-after-sir",
+        "rajasthan-local-polls-must-use-the-corrected-voter-roll-or-explain-why-not",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
       ]
     }
   ],
