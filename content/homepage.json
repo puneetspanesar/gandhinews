@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "id": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "Modi in Bengaluru: Pink Line, ₹15,600 cr",
-        "hi": "बेंगलुरु में मोदी: पिंक लाइन, ₹15,600 करोड़"
+        "en": "'The PM has my phone tapped'",
+        "hi": "'पीएम ने मेरा फोन टैप कराया'"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+      "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
+    ],
     "relatedBeside": [
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "lead": {
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
+        },
+        "text": {
+          "en": "President Murmu presents National Sports Awards 2025, Divya Deshmukh and Tejaswin Shankar among Arjuna winners",
+          "hi": "राष्ट्रपति मुर्मू ने राष्ट्रीय खेल पुरस्कार 2025 प्रदान किए, अर्जुन पुरस्कार पाने वालों में दिव्या देशमुख और तेजस्विन शंकर"
+        }
+      },
+      {
+        "link": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "lead": {
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
+        },
+        "text": {
+          "en": "Three crude bombs explode at two court premises in Jashore, the latest blasts in a week of bomb and arson attacks across Bangladesh",
+          "hi": "जशोर में दो अदालत परिसरों में तीन देसी बम फटे, बांग्लादेश में हफ्ते भर से जारी बम और आगजनी के हमलों की ताजा कड़ी"
+        }
+      },
+      {
+        "link": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Trump says five Gulf states asked him to hold off on Iran strikes and he is 'not sure I agree', as Guards say a gas carrier hit a mine in Hormuz",
+          "hi": "ट्रंप बोले, पांच खाड़ी देशों ने ईरान पर हमले रोकने को कहा, 'पक्का नहीं कि मैं सहमत हूं'; गार्ड्स का दावा, होर्मुज में गैस टैंकर बारूदी सुरंग से टकराया"
+        }
+      },
       {
         "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "lead": {
@@ -63,6 +100,17 @@
         }
       },
       {
+        "link": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi at Prashanti Kutiram jubilee in Bengaluru with Hosabale and Shivakumar; Pink Line ride and ₹15,600 crore of projects next",
+          "hi": "बेंगलुरु में मोदी प्रशांति कुटीरम स्वर्ण जयंती समारोह में, होसबाले और शिवकुमार साथ; आगे पिंक लाइन की सवारी और ₹15,600 करोड़ की परियोजनाएं"
+        }
+      },
+      {
         "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "lead": {
           "en": "Ladakh:",
@@ -71,50 +119,6 @@
         "text": {
           "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
           "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
-        }
-      },
-      {
-        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
-          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
-        }
-      },
-      {
-        "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Eight dead as Brooklyn building falls into excavation; city probes builder's stop-work history",
-          "hi": "ब्रुकलिन में इमारत निर्माण गड्ढे में गिरी, आठ की मौत; बिल्डर के स्टॉप-वर्क रिकॉर्ड की जांच"
-        }
-      },
-      {
-        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "lead": {
-          "en": "US-China:",
-          "hi": "अमेरिका-चीन:"
-        },
-        "text": {
-          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
-          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
-        }
-      },
-      {
-        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
-        },
-        "text": {
-          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
-          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+      "id": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "also": []
     },
     "list": [
+      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-      "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
+      "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
     ],
     "also": [
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-      "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31"
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
     ]
   },
   "startHere": [
@@ -368,15 +372,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
       ],
-      "lead": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+      "lead": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     },
     {
       "section": "economy",
-      "lead": "retail-inflation-october-2026-6-09-two-year-high",
+      "lead": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,9 +391,9 @@
         ]
       },
       "list": [
+        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     },
     {
@@ -398,16 +402,16 @@
       "list": [
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting"
       ]
     },
     {
       "section": "policy",
       "lead": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "list": [
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india",
-        "india-cuts-visa-categories-13-to-9-form-fields-mha"
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
       ]
     },
     {
@@ -422,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+      "lead": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "list": [
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed"
       ]
     },
     {
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+      "lead": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
       "list": [
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
         "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test"
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
       ]
     }
   ],
@@ -634,29 +638,30 @@
       ]
     },
     {
-      "at": "2026-11-13T14:04:25+05:30",
+      "at": "2026-11-13T14:42:23+05:30",
       "ids": [
-        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
     "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
     "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
     "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-    "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser"
+    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "gaurav-gogoi-ten-point-modi-shah-eci-package-sir-delimitation-evms",
+    "delimitation-bill-361-votes-needed-two-thirds-claim"
   ]
 }
