@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+    "id": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
     "overlay": {
       "kicker": {
-        "en": "Politics / Energy",
-        "hi": "राजनीति / ऊर्जा"
+        "en": "World / Middle East",
+        "hi": "दुनिया / पश्चिम एशिया"
       },
       "value": {
-        "en": "Gulf war and India's fuel storage",
-        "hi": "खाड़ी युद्ध और ईंधन भंडारण"
+        "en": "'Not sure I agree' with waiting",
+        "hi": "रुकने पर 'पक्का नहीं कि मैं सहमत हूं'"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Energy",
-        "hi": "ऊर्जा"
+        "en": "Middle East",
+        "hi": "पश्चिम एशिया"
       }
     }
   },
@@ -52,14 +52,14 @@
         }
       },
       {
-        "link": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Trump says five Gulf states asked him to hold off on Iran strikes and he is 'not sure I agree', as Guards say a gas carrier hit a mine in Hormuz",
-          "hi": "ट्रंप बोले, पांच खाड़ी देशों ने ईरान पर हमले रोकने को कहा, 'पक्का नहीं कि मैं सहमत हूं'; गार्ड्स का दावा, होर्मुज में गैस टैंकर बारूदी सुरंग से टकराया"
+          "en": "Modi flags off Bengaluru's Pink Line and rides with Shivakumar; ₹15,600 crore package of power lines, LPG cavern, Vande Bharat",
+          "hi": "मोदी ने बेंगलुरु की पिंक लाइन को हरी झंडी दिखाई, शिवकुमार के साथ सफर; ₹15,600 करोड़ का पैकेज: बिजली लाइनें, एलपीजी गुफा, वंदे भारत"
         }
       },
       {
@@ -96,6 +96,17 @@
         }
       },
       {
+        "link": "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi at Prashanti Kutiram jubilee in Bengaluru with Hosabale and Shivakumar; Pink Line ride and ₹15,600 crore of projects next",
+          "hi": "बेंगलुरु में मोदी प्रशांति कुटीरम स्वर्ण जयंती समारोह में, होसबाले और शिवकुमार साथ; आगे पिंक लाइन की सवारी और ₹15,600 करोड़ की परियोजनाएं"
+        }
+      },
+      {
         "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "lead": {
           "en": "Ladakh:",
@@ -104,17 +115,6 @@
         "text": {
           "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
           "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
-        }
-      },
-      {
-        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
-          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
-      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+      "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
       "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
       "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+      "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next"
     ],
     "also": [
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-      "delhi-aqi-402-severe-iit-delhi-488-friday"
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
     ]
   },
   "startHere": [
@@ -368,15 +368,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead"
       ],
-      "lead": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+      "lead": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     },
     {
       "section": "economy",
-      "lead": "retail-inflation-october-2026-6-09-two-year-high",
+      "lead": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
+        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     },
     {
@@ -457,10 +457,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
-        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
+        "en": "Mohan Yadav releases the 42nd Laadli Behna instalment from Pichhore, Shivpuri",
+        "hi": "मोहन यादव पिछोर, शिवपुरी से लाड़ली बहना की 42वीं किस्त जारी करेंगे"
       },
-      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+      "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
     },
     {
       "icon": "calendar-blank",
@@ -469,22 +469,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi opens the COSMOS-Mysuru planetarium at about 3:30 pm; Gujarat visit on November 14, 2026",
-        "hi": "प्रधानमंत्री मोदी करीब 3:30 बजे कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करेंगे; 14 नवंबर को गुजरात दौरा"
+        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
+        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
       },
-      "link": "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
-        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
-      },
-      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
     },
     {
       "icon": "calendar-blank",
@@ -497,6 +485,18 @@
         "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
       },
       "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
+      },
+      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
     },
     {
       "icon": "calendar-blank",
@@ -634,26 +634,20 @@
       ]
     },
     {
-      "at": "2026-11-13T15:28:21+05:30",
+      "at": "2026-11-13T15:14:41+05:30",
       "ids": [
-        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+        "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
       ]
     }
   ],
   "critical": [],
-  "drop": [
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
-  ]
+  "drop": []
 }
