@@ -6,7 +6,7 @@ section: states
 format_label: "States / Weather"
 topics: [states]
 title: "Bay of Bengal low may become Cyclone Akvan on November 16, Odisha holds emergency meeting"
-standfirst: "The IMD expects a low-pressure area over the Andaman Sea to grow into a cyclonic storm by Monday evening. Odisha has alerted collectors, and Ganjam has cancelled staff leave for the weekend."
+standfirst: "The IMD expects a low-pressure area over the Andaman Sea to grow into a cyclonic storm by Monday evening. Odisha has alerted collectors; separately, Ganjam has cancelled weekend staff leave for Cyclone Arnab restoration work."
 published: 2026-11-14T00:15:00+05:30
 location: Bhubaneswar
 keyPoints:

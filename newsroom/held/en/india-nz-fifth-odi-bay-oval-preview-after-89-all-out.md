@@ -6,7 +6,7 @@ section: sports
 format_label: "Sports / Cricket"
 topics: []
 title: "India cannot lose the series, but Iyer's side must answer 89 all out in the fifth ODI at Bay Oval on Sunday"
-standfirst: "India lead 2-1 after the 244-run defeat on Friday, their second-heaviest ODI loss by runs. The decider at Mount Maunganui is at 7:30 am IST on November 15, with Gill and Rahul away at the Test camp."
+standfirst: "India lead 2-1 after the 244-run defeat on Friday, their second-heaviest ODI loss by runs. The fifth ODI at Mount Maunganui is at 7:30 am IST on November 15, with Gill and Rahul away at the Test camp."
 published: 2026-11-14T00:12:00+05:30
 location: Mount Maunganui
 upcoming: {date: 2026-11-15, en: "Fifth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST", hi: "पांचवां वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"}

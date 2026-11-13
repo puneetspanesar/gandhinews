@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "udhayanidhi-stalin-election-petition-madras-high-court",
+    "id": "himachal-cabinet-1500-women-300-units-free-power-sukhu",
     "overlay": {
       "kicker": {
-        "en": "Politics / Courts",
-        "hi": "राजनीति / अदालत"
+        "en": "States / Himachal Pradesh",
+        "hi": "राज्य / हिमाचल प्रदेश"
       },
       "value": {
-        "en": "Election petition goes to trial",
-        "hi": "चुनाव याचिका पर चलेगा मुकदमा"
+        "en": "₹1,500 a month, 300 free units",
+        "hi": "₹1,500 महीना, 300 यूनिट मुफ्त"
       },
       "text": {
         "en": "",
@@ -16,28 +16,32 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+    ],
     "relatedBeside": [
-      "revanth-bharat-summit-visas-modi-hyderabad"
+      "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "Himachal Pradesh",
+        "hi": "हिमाचल प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "revanth-bharat-summit-visas-modi-hyderabad",
+        "link": "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
         "lead": {
-          "en": "Telangana:",
-          "hi": "तेलंगाना:"
+          "en": "External sector:",
+          "hi": "विदेश व्यापार:"
         },
         "text": {
-          "en": "Revanth Reddy accuses Centre of blocking foreign guests as Bharat Summit opens in Hyderabad",
-          "hi": "हैदराबाद में भारत समिट शुरू, रेवंत रेड्डी का आरोप: केंद्र ने विदेशी मेहमानों को रोका"
+          "en": "India's current account deficit widens to $25.8 billion in April-September as bank deposits from abroad lift the balance of payments to a $66.8 billion surplus",
+          "hi": "अप्रैल-सितंबर में चालू खाता घाटा बढ़कर 25.8 अरब डॉलर, विदेश से बैंक जमा के दम पर भुगतान संतुलन 66.8 अरब डॉलर के अधिशेष में"
         }
       },
       {
@@ -52,14 +56,14 @@
         }
       },
       {
-        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
         "lead": {
-          "en": "Foreign Affairs:",
-          "hi": "विदेश मामले:"
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
         },
         "text": {
-          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
-          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
+          "en": "Amit Shah to unveil Ajit Pawar statue in Pune as NCP merger talk builds",
+          "hi": "राकांपा विलय की चर्चा के बीच अमित शाह पुणे में अजित पवार की प्रतिमा का अनावरण करेंगे"
         }
       },
       {
@@ -74,47 +78,47 @@
         }
       },
       {
-        "link": "forex-reserves-rise-719-billion-november-6-gold",
+        "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "Forex reserves rise $2.49 billion to $719.55 billion, ending eight weeks of falls, as gold does the lifting",
-          "hi": "विदेशी मुद्रा भंडार 2.49 अरब डॉलर बढ़कर 719.55 अरब डॉलर, आठ हफ्तों की गिरावट थमी, सोने ने दिया सहारा"
+          "en": "President Murmu presents National Sports Awards 2025, Divya Deshmukh and Tejaswin Shankar among Arjuna winners",
+          "hi": "राष्ट्रपति मुर्मू ने राष्ट्रीय खेल पुरस्कार 2025 प्रदान किए, अर्जुन पुरस्कार पाने वालों में दिव्या देशमुख और तेजस्विन शंकर"
         }
       },
       {
-        "link": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+        "link": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
         "lead": {
-          "en": "Assam:",
-          "hi": "असम:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "At least 23 killed as minibus and container truck collide head-on near Kaziranga in Assam",
-          "hi": "असम में काजीरंगा के पास मिनीबस और कंटेनर ट्रक की आमने-सामने टक्कर, कम से कम 23 की मौत"
+          "en": "Three crude bombs explode at two court premises in Jashore, the latest blasts in a week of bomb and arson attacks across Bangladesh",
+          "hi": "जशोर में दो अदालत परिसरों में तीन देसी बम फटे, बांग्लादेश में हफ्ते भर से जारी बम और आगजनी के हमलों की ताजा कड़ी"
         }
       },
       {
-        "link": "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "lead": {
-          "en": "Power:",
-          "hi": "बिजली:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "CAG begins first integrated audit of 39 state power discoms, with a 10,000-consumer survey",
-          "hi": "कैग ने 39 राज्य बिजली वितरण कंपनियों का पहला समेकित ऑडिट शुरू किया, 10,000 उपभोक्ताओं का सर्वे भी"
+          "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
+          "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
         }
       },
       {
-        "link": "nadda-who-global-tb-report-2026-india-mortality-38",
+        "link": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Tech Policy:",
+          "hi": "तकनीक नीति:"
         },
         "text": {
-          "en": "India's TB deaths down 38% since 2015, health ministry says, against WHO's global 35%; Nadda hails result",
-          "hi": "2015 से भारत में टीबी से मौतें 38% घटीं, स्वास्थ्य मंत्रालय का दावा; डब्ल्यूएचओ के अनुसार वैश्विक गिरावट 35%, नड्डा ने सराहा"
+          "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
+          "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
         }
       }
     ]
@@ -186,15 +190,15 @@
       "also": []
     },
     "list": [
-      "mann-lahore-world-punjabi-conference-mea-national-policy",
+      "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
       "priyanka-special-session-delimitation-not-informed-nov-24-25",
-      "forex-reserves-rise-719-billion-november-6-gold",
-      "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-      "cag-first-integrated-audit-39-discoms-28-officers-survey"
+      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+      "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     ],
     "also": [
-      "nadda-who-global-tb-report-2026-india-mortality-38",
-      "arun-pocso-chargesheet-veeramani"
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
     ]
   },
   "startHere": [
@@ -369,14 +373,14 @@
       },
       "list": [
         "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25"
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
       ],
       "lead": "udhayanidhi-stalin-election-petition-madras-high-court"
     },
     {
       "section": "economy",
-      "lead": "forex-reserves-rise-719-billion-november-6-gold",
+      "lead": "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
       "module": {
         "type": "markets",
         "indicators": [
@@ -394,9 +398,9 @@
     },
     {
       "section": "states",
-      "lead": "revanth-bharat-summit-visas-modi-hyderabad",
+      "lead": "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
       "list": [
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
         "arun-pocso-chargesheet-veeramani",
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
       ]
@@ -453,8 +457,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
@@ -465,8 +469,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
@@ -477,8 +481,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 15",
-        "hi": "15 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders",
@@ -524,20 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T15:32:37+05:30",
-      "ids": [
-        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
-      ]
-    },
     {
       "at": "2026-11-13T16:42:04+05:30",
       "ids": [
@@ -638,16 +628,32 @@
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "nadda-who-global-tb-report-2026-india-mortality-38"
       ]
+    },
+    {
+      "at": "2026-11-14T00:37:41+05:30",
+      "ids": [
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+        "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-    "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+    "forex-reserves-rise-719-billion-november-6-gold",
+    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+    "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+    "revanth-bharat-summit-visas-modi-hyderabad",
+    "mann-lahore-world-punjabi-conference-mea-national-policy",
+    "delhi-aqi-402-severe-iit-delhi-488-friday"
   ]
 }

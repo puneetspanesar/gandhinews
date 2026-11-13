@@ -73,7 +73,7 @@ Services again cushioned the blow. Net services exports were **$105 billion**, u
 
 For September, the current account deficit was **$7.4 billion**, against $5.2 billion a year earlier. The goods trade deficit narrowed to $30 billion from $33.4 billion. The overall balance of payments was an $8.8 billion surplus, compared with a $5.6 billion deficit in September 2025, but far below the $45.4 billion surplus of August, which [we reported last month](/en/news/india-current-account-deficit-august-5-2-billion).
 
-The September month also had a weaker side. Foreign portfolio investors were net sellers of **$6.7 billion**, against $0.6 billion a year ago, and net foreign direct investment turned into an outflow of $4.9 billion from $2.3 billion.
+The September month also had a weaker side. Foreign portfolio investors were net sellers of **$6.7 billion**, against $0.6 billion a year ago, and net foreign direct investment outflows widened to $4.9 billion from $2.3 billion.
 
 ## A flood of bank deposits
 
