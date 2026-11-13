@@ -48368,5 +48368,74 @@
    }
   },
   "nophoto": "no free photo of Lakshya Raichandani, Aaryavir Sehwag or the India U19 team; library, quick_photo, finder h1300"
+ },
+ "rawalpindi-test-day-five-wtc-points-draw-win-pakistan-sri-lanka": {
+  "id": "o-rawalpindi-test-day-five-wtc-points-draw-win-pakistan-sri-lanka",
+  "src": "/photos/o-rawalpindi-test-day-five-wtc-points-draw-win-pakistan-sri-lanka-1280.jpg",
+  "src800": "/photos/o-rawalpindi-test-day-five-wtc-points-draw-win-pakistan-sri-lanka-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 607,
+  "credit": "Photo: BBC Urdu / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Babar Azam (file photo)",
+  "alt_hi": "बाबर आज़म (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Babar_Azam_in_2020.png"
+ },
+ "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri": {
+  "id": "v-mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+  "src": "/photos/v-mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri-1280.jpg",
+  "src800": "/photos/v-mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Pawan Singh Baish / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 4.0",
+  "alt": "Madhya Pradesh Chief Minister Mohan Yadav, and Chaupda Talab at Narwar in Shivpuri district (file photos)",
+  "alt_hi": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव, और शिवपुरी ज़िले के नरवर में चौपड़ा तालाब (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280
+ },
+ "mastung-kanak-camp-truck-blast-police-toll-disputed": {
+  "id": "i-mastung-kanak-camp-truck-blast-police-toll-disputed",
+  "src": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-en-3x2-1280.jpg",
+  "src800": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: One attack, three very different tolls",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एक हमला, तीन अलग आंकड़े",
+  "page": null,
+  "ihash": "f42ad8eae143",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-hi-3x2-1280.jpg",
+    "src800": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-en-t-1280.jpg",
+    "src800": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-hi-t-1280.jpg",
+    "src800": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-en-1280.jpg",
+    "src800": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-hi-1280.jpg",
+    "src800": "/photos/i-mastung-kanak-camp-truck-blast-police-toll-disputed-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Mastung or the blast site; library, quick_photo, finder h1306 and h1306b (maps and landscapes only)"
  }
 }
