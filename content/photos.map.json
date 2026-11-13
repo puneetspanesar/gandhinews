@@ -49189,5 +49189,86 @@
    "subj": "ffff1f0c000001c7",
    "credit": "Photos: Nkb 21 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
   }
+ },
+ "kaziranga-rongajan-minibus-container-truck-collision-23-dead": {
+  "id": "i-kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+  "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-3x2-1280.jpg",
+  "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 23 killed in head-on crash near Kaziranga",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: काजीरंगा के पास आमने-सामने टक्कर, 23 की मौत",
+  "page": null,
+  "ihash": "e64cd20fb7fd",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-3x2-1280.jpg",
+    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-t-1280.jpg",
+    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-t-1280.jpg",
+    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-1280.jpg",
+    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-1280.jpg",
+    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Rongajan crash or any Northeast bus crash; library, quick_photo, finder h1320 (bus accident Assam, road accident India, Golaghat)"
+ },
+ "forex-reserves-rise-719-billion-november-6-gold": {
+  "id": "r-forex-reserves-rise-719-billion-november-6-gold",
+  "src": "/photos/r-forex-reserves-rise-719-billion-november-6-gold-1280.jpg",
+  "src800": "/photos/r-forex-reserves-rise-719-billion-november-6-gold-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Reserve Bank of India building in Kolkata (file photo)",
+  "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg"
+ },
+ "mangroves-rebound-landsat-four-decades-nasa-science-study": {
+  "id": "o-mangroves-rebound-landsat-four-decades-nasa-science-study",
+  "src": "/photos/o-mangroves-rebound-landsat-four-decades-nasa-science-study-1280.jpg",
+  "src800": "/photos/o-mangroves-rebound-landsat-four-decades-nasa-science-study-640.jpg",
+  "width": 1280,
+  "height": 1019,
+  "srcWidth": 3000,
+  "credit": "Photo: European Space Agency / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0 igo",
+  "alt": "Satellite view of the Irrawaddy delta coast in Myanmar (file photo)",
+  "alt_hi": "म्यांमार में इरावदी डेल्टा के तट का उपग्रह दृश्य (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Irrawaddy_Delta,_Myanmar_ESA381810.jpg"
+ },
+ "priyanka-special-session-delimitation-not-informed-nov-24-25": {
+  "id": "o-priyanka-special-session-delimitation-not-informed-nov-24-25",
+  "src": "/photos/o-priyanka-special-session-delimitation-not-informed-nov-24-25-1280.jpg",
+  "src800": "/photos/o-priyanka-special-session-delimitation-not-informed-nov-24-25-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 1024,
+  "credit": "Photo: Chetan dutt / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Priyanka Gandhi Vadra being welcomed at Una, Himachal Pradesh, in May 2024 (file photo)",
+  "alt_hi": "मई 2024 में हिमाचल प्रदेश के ऊना में प्रियंका गांधी वाड्रा का स्वागत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dy_CM,_Himachal_Pradesh_Sh._Mukesh_Agnihotri_greeting_Mrs_Priyanka_Gandhi_at_Una_on_28th_May,_2024.jpg"
  }
 }
