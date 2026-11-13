@@ -1,0 +1,102 @@
+{
+  "r1": {
+    "query": "Rawalpindi Cricket Stadium",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:RWPCS3.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:RWPCS3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/RWPCS3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1800,
+        "height": 778,
+        "licence": "CC BY-SA 4.0",
+        "author": "Neweditorpk",
+        "credit": "Own work",
+        "date": "2020-03-04",
+        "description": "Pindi Cricket Stadium in PSL V",
+        "thumb": "r1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/RWPCS3.jpg/1600px-RWPCS3.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:KRL cricket stadium Rawalpindi.png",
+        "page": "https://commons.wikimedia.org/wiki/File:KRL_cricket_stadium_Rawalpindi.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/KRL_cricket_stadium_Rawalpindi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 720,
+        "height": 900,
+        "licence": "CC BY-SA 4.0",
+        "author": "Fahads1982",
+        "credit": "Own work",
+        "date": "2023-07-29",
+        "description": "KRL cricket stadium Rawalpindi",
+        "thumb": "r1-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/7/76/KRL_cricket_stadium_Rawalpindi.png"
+      }
+    ]
+  },
+  "r2": {
+    "query": "Pakistan Sri Lanka Test cricket",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Upul-Tharanga, Sri Lanka vs Pakistan, 1st ODI, 2017.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Upul-Tharanga,_Sri_Lanka_vs_Pakistan,_1st_ODI,_2017.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Upul-Tharanga%2C_Sri_Lanka_vs_Pakistan%2C_1st_ODI%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 360,
+        "height": 451,
+        "licence": "CC BY 3.0",
+        "author": "Pakistan Cricket Board",
+        "credit": "This image has been extracted from another file",
+        "date": "2017-10-28",
+        "description": "Upul Tharanga batting during the cricket match, Sri Lanka vs Pakistan, October 2017",
+        "thumb": "r2-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Upul-Tharanga%2C_Sri_Lanka_vs_Pakistan%2C_1st_ODI%2C_2017.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Sri Lanka vs Pakistan test match.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_vs_Pakistan_test_match.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sri_Lanka_vs_Pakistan_test_match.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2423,
+        "height": 1463,
+        "licence": "CC BY-SA 3.0",
+        "author": "Shehanw",
+        "credit": "Own work",
+        "date": "2012-06-25",
+        "description": "Sri Lanka playing against Pakistan in a test cricket match at Galle Cricket Ground, 25th june 2012.",
+        "thumb": "r2-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sri_Lanka_vs_Pakistan_test_match.JPG/1600px-Sri_Lanka_vs_Pakistan_test_match.JPG"
+      },
+      {
+        "n": 2,
+        "title": "File:Asitha Fernando vs Babar Azam, Colombo 2023.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Asitha_Fernando_vs_Babar_Azam,_Colombo_2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Asitha_Fernando_vs_Babar_Azam%2C_Colombo_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 5380,
+        "height": 3587,
+        "licence": "CC BY-SA 4.0",
+        "author": "Nazly Ahmed",
+        "credit": "https://www.flickr.com/photos/nazly/53081044125/",
+        "date": "2023-07-25 10:29:56",
+        "description": "Asitha Fernando bowling to Babar Azam during the 2nd Test of Pakistan tour of Sri Lanka, Colombo SSC July 2023",
+        "thumb": "r2-2.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Asitha_Fernando_vs_Babar_Azam%2C_Colombo_2023.jpg/1600px-Asitha_Fernando_vs_Babar_Azam%2C_Colombo_2023.jpg"
+      },
+      {
+        "n": 3,
+        "title": "File:Asitha Fernando vs Babar Azam, Colombo 2023 (cropped).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Asitha_Fernando_vs_Babar_Azam,_Colombo_2023_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Asitha_Fernando_vs_Babar_Azam%2C_Colombo_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1177,
+        "height": 2066,
+        "licence": "CC BY-SA 4.0",
+        "author": "Nazly Ahmed",
+        "credit": "https://www.flickr.com/photos/nazly/53081044125/",
+        "date": "2023-07-25 10:29:56",
+        "description": "Asitha Fernando bowling to Babar Azam during the 2nd Test of Pakistan tour of Sri Lanka, Colombo SSC July 2023",
+        "thumb": "r2-3.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Asitha_Fernando_vs_Babar_Azam%2C_Colombo_2023_%28cropped%29.jpg"
+      }
+    ]
+  }
+}
