@@ -33,7 +33,10 @@ infographic:
     - {icon: currency-inr, value: "₹3.41 lakh cr", label: "accumulated discom losses, March 2025"}
     - {icon: bank, value: "₹7.26 lakh cr", label: "outstanding borrowings, March 2025"}
     - {icon: users, value: "10,000", label: "consumers to be surveyed on service"}
-  timeline: {title: "How the audit unfolds", items: [{date: "Now", text: "Audit of 39 discoms starts", icon: magnifying-glass}, {date: "2027", text: "State-wise reports due", icon: clipboard-text}, {date: "After", text: "Transmission, generation, renewables", icon: lightning}]}
+  timeline:
+    - {date: "Nov 12", text: "CAG announces audit of 39 discoms and 5 power departments", icon: magnifying-glass}
+    - {date: "2027", text: "State-wise reports due", icon: clipboard-text}
+    - {date: "Later", text: "Transmission, generation and renewables to follow", icon: lightning}
   source: "CAG briefing, November 12, 2026"
 sources:
   - title: "CAG begins first national power sector audit; discom losses at ₹3.4 trn"

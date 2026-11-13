@@ -48928,42 +48928,114 @@
   }
  },
  "nadda-who-global-tb-report-2026-india-mortality-38": {
-  "id": "o-nadda-who-global-tb-report-2026-india-mortality-38",
-  "src": "/photos/o-nadda-who-global-tb-report-2026-india-mortality-38-1280.jpg",
-  "src800": "/photos/o-nadda-who-global-tb-report-2026-india-mortality-38-640.jpg",
+  "id": "v-nadda-who-global-tb-report-2026-india-mortality-38",
+  "src": "/photos/v-nadda-who-global-tb-report-2026-india-mortality-38-1280.jpg",
+  "src800": "/photos/v-nadda-who-global-tb-report-2026-india-mortality-38-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 858,
-  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "J. P. Nadda (file photo)",
-  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg"
+  "height": 800,
+  "credit": "Photos: Ministry of Health and Family Welfare (GODL-India); MONUSCO Photos / Wikimedia Commons",
+  "licence": "GODL-India; CC BY-SA 2.0",
+  "alt": "Health Minister J P Nadda and WHO Director-General Tedros Adhanom Ghebreyesus (file photos)",
+  "alt_hi": "स्वास्थ्य मंत्री जेपी नड्डा और डब्ल्यूएचओ महानिदेशक टेड्रोस अदनोम घेब्रेयेसस (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg",
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-nadda-who-global-tb-report-2026-india-mortality-38-1280.jpg",
+   "src800": "/photos/t-nadda-who-global-tb-report-2026-india-mortality-38-640.jpg",
+   "cutout": true,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "f2e4404003b3f3fa",
+   "credit": "Photos: Ministry of Health and Family Welfare (GODL-India); MONUSCO Photos / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
  },
  "arun-pocso-chargesheet-veeramani": {
-  "id": "o-arun-pocso-chargesheet-veeramani",
-  "src": "/photos/o-arun-pocso-chargesheet-veeramani-1280.jpg",
-  "src800": "/photos/o-arun-pocso-chargesheet-veeramani-640.jpg",
-  "width": 1280,
-  "height": 857,
-  "srcWidth": 3872,
-  "credit": "Photo: Yoga Balaji / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "The Madras High Court in Chennai (file photo)",
-  "alt_hi": "चेन्नई में मद्रास हाईकोर्ट (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chennai_High_Court.jpg"
- },
- "cag-first-integrated-audit-39-discoms-28-officers-survey": {
-  "id": "o-cag-first-integrated-audit-39-discoms-28-officers-survey",
-  "src": "/photos/o-cag-first-integrated-audit-39-discoms-28-officers-survey-1280.jpg",
-  "src800": "/photos/o-cag-first-integrated-audit-39-discoms-28-officers-survey-640.jpg",
+  "id": "i-arun-pocso-chargesheet-veeramani",
+  "src": "/photos/i-arun-pocso-chargesheet-veeramani-en-3x2-1280.jpg",
+  "src800": "/photos/i-arun-pocso-chargesheet-veeramani-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 5861,
-  "credit": "Photo: Timothy A. Gonsalves / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A distribution transformer on a state electricity board pole in Tamil Nadu (file photo)",
-  "alt_hi": "तमिलनाडु में राज्य बिजली बोर्ड के खंभे पर लगा वितरण ट्रांसफॉर्मर (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:TNEB_Transformer_Kulisholai_Sep25_A7CR_07592.jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: From a 2024 complaint to a 720-page chargesheet",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 2024 की शिकायत से 720 पन्नों के आरोपपत्र तक",
+  "page": null,
+  "ihash": "5a7b4aaf382f",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-arun-pocso-chargesheet-veeramani-hi-3x2-1280.jpg",
+    "src800": "/photos/i-arun-pocso-chargesheet-veeramani-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-arun-pocso-chargesheet-veeramani-en-t-1280.jpg",
+    "src800": "/photos/i-arun-pocso-chargesheet-veeramani-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-arun-pocso-chargesheet-veeramani-hi-t-1280.jpg",
+    "src800": "/photos/i-arun-pocso-chargesheet-veeramani-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-arun-pocso-chargesheet-veeramani-en-1280.jpg",
+    "src800": "/photos/i-arun-pocso-chargesheet-veeramani-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-arun-pocso-chargesheet-veeramani-hi-1280.jpg",
+    "src800": "/photos/i-arun-pocso-chargesheet-veeramani-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of A Arun, former Chennai police commissioner; library, quick_photo 'A. Arun', finder h1316 (court building only, rejected by editor as stand-in)"
+ },
+ "cag-first-integrated-audit-39-discoms-28-officers-survey": {
+  "id": "i-cag-first-integrated-audit-39-discoms-28-officers-survey",
+  "src": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-en-3x2-1280.jpg",
+  "src800": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: CAG audits 39 state discoms for the first time",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कैग पहली बार 39 राज्य डिस्कॉम का ऑडिट करेगा",
+  "page": null,
+  "ihash": "f4530aedfc33",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-hi-3x2-1280.jpg",
+    "src800": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-en-t-1280.jpg",
+    "src800": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-hi-t-1280.jpg",
+    "src800": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-en-1280.jpg",
+    "src800": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-hi-1280.jpg",
+    "src800": "/photos/i-cag-first-integrated-audit-39-discoms-28-officers-survey-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of CAG K Sanjay Murthy or a discom; library, quick_photo, finder h1316 (bare pole rejected by editor as generic)"
  }
 }

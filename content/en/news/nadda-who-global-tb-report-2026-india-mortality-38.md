@@ -17,7 +17,7 @@ hero:
   need: "Union Health Minister J P Nadda"
   suggested_source: "J. P. Nadda"
   subjects: ["J. P. Nadda"]
-  alt: "Union Health Minister J P Nadda (file photo)"
+  alt: "Health Minister J P Nadda and WHO Director-General Tedros Adhanom Ghebreyesus (file photos)"
   overlay:
     value: "TB deaths down 38% since 2015"
 related: []
@@ -83,7 +83,7 @@ He pointed to **AI-enabled diagnostics**, nutritional support under the Ni-kshay
 
 The ministry credits the TB Mukt Bharat Abhiyaan, whose first **100-day campaign began on December 7, 2024**, in 347 high-priority districts across 33 states and Union Territories before going nationwide. A second 100-day campaign began on March 24, 2026, aimed at 1.58 lakh high-risk villages and wards.
 
-From December 7, 2024 to November 8, 2026, **more than 25 crore people were screened**. More than 11 crore chest X-rays and 3 crore molecular tests were done. The drive found **48.64 lakh TB cases**, among them 14.97 lakh people who had no symptoms. A total of 67,933 panchayats were declared TB-free in 2025.
+From December 7, 2024, to November 8, 2026, **more than 25 crore people were screened**. More than 11 crore chest X-rays and 3 crore molecular tests were done. The drive found **48.64 lakh TB cases**, among them 14.97 lakh people who had no symptoms. A total of 67,933 panchayats were declared TB-free in 2025.
 
 The ministry is also building JOSH teams at block and ward level, led by Class-I officers and supported by five National Cadet Corps cadets and five MY Bharat volunteers each.
 

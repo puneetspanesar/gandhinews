@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+    "id": "nadda-who-global-tb-report-2026-india-mortality-38",
     "overlay": {
       "kicker": {
-        "en": "Politics / Energy",
-        "hi": "राजनीति / ऊर्जा"
+        "en": "Science & Tech / Health",
+        "hi": "विज्ञान-तकनीक / स्वास्थ्य"
       },
       "value": {
-        "en": "Gulf war and India's fuel storage",
-        "hi": "खाड़ी युद्ध और ईंधन भंडारण"
+        "en": "TB deaths down 38% since 2015",
+        "hi": "2015 से टीबी मौतें 38% कम"
       },
       "text": {
         "en": "",
@@ -18,17 +18,39 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
+      "cag-first-integrated-audit-39-discoms-28-officers-survey"
     ],
     "live": {
       "title": {
-        "en": "Energy",
-        "hi": "ऊर्जा"
+        "en": "Health",
+        "hi": "स्वास्थ्य"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "lead": {
+          "en": "Power:",
+          "hi": "बिजली:"
+        },
+        "text": {
+          "en": "CAG begins first integrated audit of 39 state power discoms, with a 10,000-consumer survey",
+          "hi": "कैग ने 39 राज्य बिजली वितरण कंपनियों का पहला समेकित ऑडिट शुरू किया, 10,000 उपभोक्ताओं का सर्वे भी"
+        }
+      },
+      {
+        "link": "arun-pocso-chargesheet-veeramani",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Former Chennai police commissioner A Arun named accused in Veeramani POCSO case, with six other officers",
+          "hi": "चेन्नई के पूर्व पुलिस आयुक्त ए अरुण वीरमणि पॉक्सो मामले में आरोपी, छह और अफसर भी नामजद"
+        }
+      },
       {
         "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "lead": {
@@ -63,6 +85,17 @@
         }
       },
       {
+        "link": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Rahul Gandhi says PM Modi has his phone tapped, renews call for open debate on who is 'controlled by foreign powers'",
+          "hi": "राहुल गांधी का आरोप, पीएम मोदी ने उनका फोन टैप करा रखा है; 'विदेशी ताकतों के काबू' पर खुली बहस की चुनौती दोहराई"
+        }
+      },
+      {
         "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "lead": {
           "en": "Diplomacy:",
@@ -82,39 +115,6 @@
         "text": {
           "en": "Telecom department ordered 129 betting sites blocked on forged High Court orders; inquiry and police case begin",
           "hi": "दूरसंचार विभाग ने फर्जी हाईकोर्ट आदेशों पर 129 सट्टेबाजी साइटें ब्लॉक कराईं; जांच और पुलिस केस शुरू"
-        }
-      },
-      {
-        "link": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
-        },
-        "text": {
-          "en": "Rajasthan's new draft voter roll has 11 lakh more names than the SIR roll, but 19 lakh fewer than the local poll list",
-          "hi": "राजस्थान की नई मसौदा मतदाता सूची में एसआईआर रोल से 11 लाख नाम ज्यादा, पर स्थानीय निकाय सूची से 19 लाख कम"
-        }
-      },
-      {
-        "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "lead": {
-          "en": "Ladakh:",
-          "hi": "लद्दाख:"
-        },
-        "text": {
-          "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
-          "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
-        }
-      },
-      {
-        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
-          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+      "id": "arun-pocso-chargesheet-veeramani",
       "also": []
     },
     "list": [
+      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+      "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     ],
     "also": [
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-      "delhi-aqi-402-severe-iit-delhi-488-friday"
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+      "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
     ]
   },
   "startHere": [
@@ -376,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "retail-inflation-october-2026-6-09-two-year-high",
+      "lead": "cag-first-integrated-audit-39-discoms-28-officers-survey",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +387,18 @@
         ]
       },
       "list": [
+        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
-        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
       ]
     },
     {
       "section": "states",
-      "lead": "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
+      "lead": "arun-pocso-chargesheet-veeramani",
       "list": [
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "delhi-aqi-402-severe-iit-delhi-488-friday",
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+        "aap-second-list-31-punjab-mlas-dropped-two-mps"
       ]
     },
     {
@@ -425,17 +425,17 @@
       "lead": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "list": [
         "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed"
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
       ]
     },
     {
       "section": "science",
-      "lead": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "lead": "nadda-who-global-tb-report-2026-india-mortality-38",
       "list": [
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview"
+        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
       ]
     },
     {
@@ -524,23 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T07:15:57+05:30",
-      "ids": [
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed",
-        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
-      ]
-    },
     {
       "at": "2026-11-13T09:26:52+05:30",
       "ids": [
@@ -646,14 +629,33 @@
         "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
       ]
+    },
+    {
+      "at": "2026-11-13T16:42:04+05:30",
+      "ids": [
+        "nadda-who-global-tb-report-2026-india-mortality-38",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "arun-pocso-chargesheet-veeramani",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
+      ]
     }
   ],
   "critical": [],
   "drop": [
     "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
     "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
     "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+    "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+    "mastung-kanak-camp-truck-blast-police-toll-disputed"
   ]
 }

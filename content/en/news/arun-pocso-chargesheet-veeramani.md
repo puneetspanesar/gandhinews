@@ -118,4 +118,4 @@ The allegations against all the accused are those in the chargesheet and the SIT
 
 ## What happens next
 
-The Madras High Court hears Archana Veeramani's plea on November 17 and the main matter on November 30. The SIT is due to file two more chargesheets by about November 21 and to continue its inquiry into the seven police personnel.
+The Madras High Court hears Archana Veeramani's plea on November 17 and the main matter on November 30. The SIT is due to file two more chargesheets within 10 days and to continue its inquiry into the seven police personnel.

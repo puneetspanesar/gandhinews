@@ -34,7 +34,10 @@ infographic:
     - {icon: currency-inr, value: "₹3.41 लाख करोड़", label: "मार्च 2025 तक संचित घाटा"}
     - {icon: bank, value: "₹7.26 लाख करोड़", label: "मार्च 2025 तक बकाया उधार"}
     - {icon: users, value: "10,000", label: "उपभोक्ताओं से सेवा पर सर्वे"}
-  timeline: {title: "ऑडिट आगे कैसे बढ़ेगा", items: [{date: "अब", text: "39 डिस्कॉम का ऑडिट शुरू", icon: magnifying-glass}, {date: "2027", text: "राज्यवार रिपोर्ट अपेक्षित", icon: clipboard-text}, {date: "इसके बाद", text: "ट्रांसमिशन, उत्पादन, नवीकरणीय", icon: lightning}]}
+  timeline:
+    - {date: "12 नवंबर", text: "कैग ने 39 डिस्कॉम और 5 बिजली विभागों के ऑडिट की घोषणा की", icon: magnifying-glass}
+    - {date: "2027", text: "राज्यवार रिपोर्ट अपेक्षित", icon: clipboard-text}
+    - {date: "इसके बाद", text: "ट्रांसमिशन, उत्पादन और नवीकरणीय ऊर्जा", icon: lightning}
   source: "कैग ब्रीफिंग, 12 नवंबर 2026"
 sources:
   - title: "CAG begins first national power sector audit; discom losses at ₹3.4 trn"

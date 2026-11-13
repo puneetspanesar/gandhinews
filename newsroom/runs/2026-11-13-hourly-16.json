@@ -1,0 +1,26 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-13T16:05:13+05:30",
+ "end": "2026-11-13T16:45:10+05:30",
+ "summary": "3 stories: WHO TB report lead, A Arun POCSO chargesheet, CAG discoms audit; markets close",
+ "new": [
+  "arun-pocso-chargesheet-veeramani",
+  "cag-first-integrated-audit-39-discoms-28-officers-survey",
+  "nadda-who-global-tb-report-2026-india-mortality-38"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "cag-first-integrated-audit-39-discoms-28-officers-survey",
+   "why": "Main picture is a stock-looking shot of a bare electricity pole against a grey sky, from Tamil Nadu, for a national story about the CAG auditing 39 discoms in all states. It is a generic stand-in (rule 3) and does not show who acts in the headline: the CAG (rule 1).",
+   "done": "No photo of CAG K Sanjay Murthy exists in the library or finder; the pole photo is dropped and the story publishes on its infographic (--nophoto); Murthy added to people.tsv."
+  }
+ ],
+ "breaches": [
+  "a science story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news): nadda-who-global-tb-report-2026-india-mortality-38",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+ ],
+ "lead": "nadda-who-global-tb-report-2026-india-mortality-38"
+}
