@@ -2,7 +2,7 @@
 id: vaishnaw-coastal-karnataka-master-plan-ghat-electrification-vande-bharat-madgaon
 lang: en
 type: news
-section: india
+section: states
 format_label: "India / Railways"
 topics: []
 title: "Vaishnaw promises an integrated master plan for coastal Karnataka and a doubled Mangaluru-Bengaluru line as Modi flags off the Madgaon Vande Bharat"
@@ -77,13 +77,9 @@ Vaishnaw described the region as one with "great economic potential" and called 
 
 ## What the Prime Minister dedicated
 
-The Press Information Bureau's release for the Karnataka visit, issued on November 11, lists the railway items. The **55 km Sakleshpur-Subrahmanya Road Ghat section** was dedicated, and the release says "the entire Bengaluru-Mangaluru rail route is now fully electrified".  The Ghat stretch runs through the Western Ghats between Sakleshpur and Subrahmanya Road.
+The Press Information Bureau's release for the Karnataka visit, issued on November 11, lists the railway items. The **55 km Sakleshpur-Subrahmanya Road Ghat section** was dedicated, and the release says "the entire Bengaluru-Mangaluru rail route is now fully electrified". The Ghat stretch runs through the Western Ghats between Sakleshpur and Subrahmanya Road.
 
 Four redeveloped Amrit Bharat stations were also inaugurated: Chamarajanagar, Chikkamagaluru, Sakleshpur and Subrahmanya Road. The Prime Minister dedicated the **45 km Bagalkot-Wandal doubling section**, part of the 284 km Gadag-Hotgi doubling project, which also supports coal supply to the NTPC plant at Kudgi.
-
-```photo
-{"n":1,"subject":"Mangalore Junction railway station","caption":"Mangaluru Junction, one of the principal stops on the new Vande Bharat service and the centre of the coastal rail network.","alt":"Mangaluru Junction railway station"}
-```
 
 ## The new Vande Bharat
 
@@ -93,11 +89,7 @@ The stops are Shravanabelagola, Hassan, Sakleshpur, Subrahmanya Road, Kabaka Put
 
 ## How we got here
 
-The announcement was the railway leg of a two-day Karnataka and Gujarat visit by the Prime Minister. In Bengaluru he opened the Namma Metro Pink Line stretch with Chief Minister D K Shivakumar present, as covered in our report on the [Pink Line and the ₹15,600 crore of projects](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects). In Mangaluru, the same package dedicated what the PIB calls India's largest underground LPG storage cavern, a 80,000 tonne facility that cost over ₹850 crore, which we covered in [the energy security speech](/en/news/modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech). Coastal Karnataka's port and freight prospects were also in the news earlier, in the [coastal freight target for 2047](/en/news/sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal).
-
-```photo
-{"n":2,"subject":"D. K. Shivakumar","caption":"Karnataka Chief Minister D K Shivakumar, who was present as the Prime Minister flagged off the services and inaugurated the Pink Line.","alt":"Karnataka Chief Minister D K Shivakumar"}
-```
+The announcement was the railway leg of a two-day Karnataka and Gujarat visit by the Prime Minister. In Bengaluru he opened the Namma Metro Pink Line stretch with Chief Minister D K Shivakumar present, as covered in our report on the [Pink Line and the ₹15,600 crore of projects](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects). In Mangaluru, the same package dedicated what the PIB calls India's largest underground LPG storage cavern, an 80,000 tonne facility that cost over ₹850 crore, which we covered in [the energy security speech](/en/news/modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech). Coastal Karnataka's port and freight prospects were also in the news earlier, in the [coastal freight target for 2047](/en/news/sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal).
 
 ## Why it matters
 

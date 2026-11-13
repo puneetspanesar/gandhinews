@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "forex-reserves-rise-719-billion-november-6-gold",
+    "id": "vaishnaw-coastal-karnataka-master-plan-ghat-electrification-vande-bharat-madgaon",
     "overlay": {
       "kicker": {
-        "en": "Economy / RBI",
-        "hi": "अर्थव्यवस्था / आरबीआई"
+        "en": "India / Railways",
+        "hi": "भारत / रेलवे"
       },
       "value": {
-        "en": "Reserves up to $719.5 billion",
-        "hi": "भंडार बढ़कर 719.5 अरब डॉलर"
+        "en": "Master plan for coastal Karnataka",
+        "hi": "तटीय कर्नाटक के लिए मास्टर प्लान"
       },
       "text": {
         "en": "",
@@ -18,26 +18,26 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "mann-lahore-world-punjabi-conference-mea-national-policy"
+      "forex-reserves-rise-719-billion-november-6-gold"
     ],
     "live": {
       "title": {
-        "en": "RBI",
-        "hi": "आरबीआई"
+        "en": "Railways",
+        "hi": "रेलवे"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "link": "forex-reserves-rise-719-billion-november-6-gold",
         "lead": {
-          "en": "Foreign Affairs:",
-          "hi": "विदेश मामले:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
-          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
+          "en": "Forex reserves rise $2.49 billion to $719.55 billion, ending eight weeks of falls, as gold does the lifting",
+          "hi": "विदेशी मुद्रा भंडार 2.49 अरब डॉलर बढ़कर 719.55 अरब डॉलर, आठ हफ्तों की गिरावट थमी, सोने ने दिया सहारा"
         }
       },
       {
@@ -49,17 +49,6 @@
         "text": {
           "en": "At least 23 killed as minibus and container truck collide head-on near Kaziranga in Assam",
           "hi": "असम में काजीरंगा के पास मिनीबस और कंटेनर ट्रक की आमने-सामने टक्कर, कम से कम 23 की मौत"
-        }
-      },
-      {
-        "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi opens India's first LED-dome planetarium in Mysuru, tours the Sky Theatre with Sitharaman and Shivakumar",
-          "hi": "मोदी ने मैसूरु में देश के पहले एलईडी-डोम प्लैनेटेरियम का उद्घाटन किया, सीतारमण और शिवकुमार के साथ स्काई थिएटर देखा"
         }
       },
       {
@@ -115,6 +104,17 @@
         "text": {
           "en": "Three crude bombs explode at two court premises in Jashore, the latest blasts in a week of bomb and arson attacks across Bangladesh",
           "hi": "जशोर में दो अदालत परिसरों में तीन देसी बम फटे, बांग्लादेश में हफ्ते भर से जारी बम और आगजनी के हमलों की ताजा कड़ी"
+        }
+      },
+      {
+        "link": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Trump says five Gulf states asked him to hold off on Iran strikes and he is 'not sure I agree', as Guards say a gas carrier hit a mine in Hormuz",
+          "hi": "ट्रंप बोले, पांच खाड़ी देशों ने ईरान पर हमले रोकने को कहा, 'पक्का नहीं कि मैं सहमत हूं'; गार्ड्स का दावा, होर्मुज में गैस टैंकर बारूदी सुरंग से टकराया"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
-      "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
       "cag-first-integrated-audit-39-discoms-28-officers-survey",
       "nadda-who-global-tb-report-2026-india-mortality-38",
       "arun-pocso-chargesheet-veeramani",
-      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
+      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+      "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
     ],
     "also": [
-      "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+      "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+      "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule"
       ],
-      "lead": "mann-lahore-world-punjabi-conference-mea-national-policy"
+      "lead": "priyanka-special-session-delimitation-not-informed-nov-24-25"
     },
     {
       "section": "economy",
@@ -388,17 +388,17 @@
       },
       "list": [
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high"
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "india-bans-export-lithium-ion-battery-black-mass"
       ]
     },
     {
       "section": "states",
-      "lead": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+      "lead": "vaishnaw-coastal-karnataka-master-plan-ghat-electrification-vande-bharat-madgaon",
       "list": [
+        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
         "arun-pocso-chargesheet-veeramani",
-        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
       ]
     },
     {
@@ -425,8 +425,8 @@
       "lead": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
       "list": [
         "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "mastung-kanak-camp-truck-blast-police-toll-disputed"
+        "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
       ]
     },
     {
@@ -457,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
-        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
+        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
+        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
       },
-      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,22 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 15",
+        "hi": "15 नवंबर"
+      },
+      "text": {
+        "en": "Yesvantpur-Madgaon Vande Bharat (26655/26656) begins regular service",
+        "hi": "यशवंतपुर-मडगांव वंदे भारत (26655/26656) की नियमित सेवा शुरू"
+      },
+      "link": "vaishnaw-coastal-karnataka-master-plan-ghat-electrification-vande-bharat-madgaon"
     },
     {
       "icon": "calendar-blank",
@@ -509,18 +521,6 @@
         "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
       },
       "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
-      },
-      "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
-      },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
@@ -629,20 +629,32 @@
       ]
     },
     {
-      "at": "2026-11-13T21:20:03+05:30",
+      "at": "2026-11-13T21:40:52+05:30",
       "ids": [
+        "vaishnaw-coastal-karnataka-master-plan-ghat-electrification-vande-bharat-madgaon",
         "forex-reserves-rise-719-billion-november-6-gold",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
         "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "nadda-who-global-tb-report-2026-india-mortality-38",
         "arun-pocso-chargesheet-veeramani",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+    "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+    "mastung-kanak-camp-truck-blast-police-toll-disputed",
+    "mann-lahore-world-punjabi-conference-mea-national-policy"
+  ]
 }
