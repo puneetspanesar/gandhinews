@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "revanth-bharat-summit-visas-modi-hyderabad",
+    "id": "udhayanidhi-stalin-election-petition-madras-high-court",
     "overlay": {
       "kicker": {
-        "en": "States / Telangana",
-        "hi": "राज्य / तेलंगाना"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "Visas cancelled, says Revanth",
-        "hi": "रेवंत का आरोप: वीजा रद्द किए गए"
+        "en": "Election petition goes to trial",
+        "hi": "चुनाव याचिका पर चलेगा मुकदमा"
       },
       "text": {
         "en": "",
@@ -18,17 +18,28 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg"
+      "revanth-bharat-summit-visas-modi-hyderabad"
     ],
     "live": {
       "title": {
-        "en": "Telangana",
-        "hi": "तेलंगाना"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "revanth-bharat-summit-visas-modi-hyderabad",
+        "lead": {
+          "en": "Telangana:",
+          "hi": "तेलंगाना:"
+        },
+        "text": {
+          "en": "Revanth Reddy accuses Centre of blocking foreign guests as Bharat Summit opens in Hyderabad",
+          "hi": "हैदराबाद में भारत समिट शुरू, रेवंत रेड्डी का आरोप: केंद्र ने विदेशी मेहमानों को रोका"
+        }
+      },
       {
         "link": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
         "lead": {
@@ -105,17 +116,6 @@
           "en": "India's TB deaths down 38% since 2015, health ministry says, against WHO's global 35%; Nadda hails result",
           "hi": "2015 से भारत में टीबी से मौतें 38% घटीं, स्वास्थ्य मंत्रालय का दावा; डब्ल्यूएचओ के अनुसार वैश्विक गिरावट 35%, नड्डा ने सराहा"
         }
-      },
-      {
-        "link": "arun-pocso-chargesheet-veeramani",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Former Chennai police commissioner A Arun named accused in Veeramani POCSO case, with six other officers",
-          "hi": "चेन्नई के पूर्व पुलिस आयुक्त ए अरुण वीरमणि पॉक्सो मामले में आरोपी, छह और अफसर भी नामजद"
-        }
       }
     ]
   },
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "mann-lahore-world-punjabi-conference-mea-national-policy",
+      "id": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
       "also": []
     },
     "list": [
+      "mann-lahore-world-punjabi-conference-mea-national-policy",
       "priyanka-special-session-delimitation-not-informed-nov-24-25",
       "forex-reserves-rise-719-billion-november-6-gold",
       "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-      "cag-first-integrated-audit-39-discoms-28-officers-survey",
-      "nadda-who-global-tb-report-2026-india-mortality-38"
+      "cag-first-integrated-audit-39-discoms-28-officers-survey"
     ],
     "also": [
-      "arun-pocso-chargesheet-veeramani",
-      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+      "nadda-who-global-tb-report-2026-india-mortality-38",
+      "arun-pocso-chargesheet-veeramani"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
         "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+        "priyanka-special-session-delimitation-not-informed-nov-24-25"
       ],
-      "lead": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+      "lead": "udhayanidhi-stalin-election-petition-madras-high-court"
     },
     {
       "section": "economy",
@@ -425,8 +425,8 @@
       "lead": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
       "list": [
         "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed"
       ]
     },
     {
@@ -457,10 +457,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
-        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
+        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
+        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
       },
-      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     },
     {
       "icon": "calendar-blank",
@@ -469,10 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
     },
     {
       "icon": "calendar-blank",
@@ -626,8 +626,9 @@
       ]
     },
     {
-      "at": "2026-11-13T23:14:06+05:30",
+      "at": "2026-11-13T23:29:32+05:30",
       "ids": [
+        "udhayanidhi-stalin-election-petition-madras-high-court",
         "revanth-bharat-summit-visas-modi-hyderabad",
         "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
         "mann-lahore-world-punjabi-conference-mea-national-policy",
@@ -635,11 +636,18 @@
         "forex-reserves-rise-719-billion-november-6-gold",
         "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "arun-pocso-chargesheet-veeramani"
+        "nadda-who-global-tb-report-2026-india-mortality-38"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
+    "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+  ]
 }
