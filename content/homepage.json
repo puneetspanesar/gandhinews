@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "id": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "States / Ladakh",
+        "hi": "राज्य / लद्दाख"
       },
       "value": {
-        "en": "₹15,600 crore of projects in Bengaluru",
-        "hi": "बेंगलुरु में ₹15,600 करोड़ की परियोजनाएं"
+        "en": "'I am under house arrest'",
+        "hi": "'मैं नजरबंद हूं'"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+      "aap-second-list-31-punjab-mlas-dropped-two-mps",
+      "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration"
+    ],
     "relatedBeside": [
-      "mastung-kanak-camp-truck-blast-police-toll-disputed"
+      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Ladakh",
+        "hi": "लद्दाख"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
+          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
+        }
+      },
+      {
+        "link": "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "lead": {
+          "en": "Delhi:",
+          "hi": "दिल्ली:"
+        },
+        "text": {
+          "en": "Delhi's air turns severe at AQI 402 on Friday morning, IIT Delhi touches 488",
+          "hi": "शुक्रवार सुबह दिल्ली की हवा 'गंभीर' श्रेणी में, एक्यूआई 402, आईआईटी दिल्ली में 488"
+        }
+      },
+      {
+        "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "Eight dead as Brooklyn building falls into excavation; city probes builder's stop-work history",
+          "hi": "ब्रुकलिन में इमारत निर्माण गड्ढे में गिरी, आठ की मौत; बिल्डर के स्टॉप-वर्क रिकॉर्ड की जांच"
+        }
+      },
       {
         "link": "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "lead": {
@@ -41,80 +78,47 @@
         }
       },
       {
-        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "lead": {
-          "en": "Agriculture:",
-          "hi": "कृषि:"
-        },
-        "text": {
-          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
-          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
-        }
-      },
-      {
-        "link": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Putin hosts Witkoff and Kushner in Moscow; Kremlin calls talks 'constructive' and agrees to plan a Kostiantynivka humanitarian mission",
-          "hi": "पुतिन ने मॉस्को में विटकॉफ और कुशनर से की बातचीत; क्रेमलिन ने कहा 'रचनात्मक', कोस्तियंतिनिव्का में मानवीय मिशन पर संपर्क शुरू होंगे"
-        }
-      },
-      {
-        "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA",
-          "hi": "खबरों के मुताबिक विलय और एनडीए के सवाल पर शरद पवार का राकांपा (एसपी) खेमा चार धड़ों में बंटा"
-        }
-      },
-      {
-        "link": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
-          "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
+          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
+          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
         }
       },
       {
-        "link": "retail-inflation-october-2026-6-09-two-year-high",
+        "link": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "Air pollution:",
+          "hi": "वायु प्रदूषण:"
         },
         "text": {
-          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
-          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
+          "en": "Farm unions say cars, not stubble, drive Delhi's smog after Supreme Court asks four states for vehicle plans",
+          "hi": "किसान संगठन बोले, दिल्ली के स्मॉग की वजह गाड़ियां हैं, पराली नहीं; सुप्रीम कोर्ट ने चार राज्यों से मांगी वाहन योजना"
         }
       },
       {
-        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Parliament:",
+          "hi": "संसद:"
         },
         "text": {
-          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
-          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
+          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
+          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
         }
       },
       {
-        "link": "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
+        "link": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
         "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
         },
         "text": {
-          "en": "Former Bengal minister Ujjal Biswas dies at 72 after weeks on ventilator; Mamata Banerjee blames BJP for his 49 days in custody",
-          "hi": "बंगाल के पूर्व मंत्री उज्ज्वल विश्वास का 72 साल की उम्र में निधन, ममता बनर्जी ने 49 दिन की हिरासत के लिए भाजपा को ठहराया जिम्मेदार"
+          "en": "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow",
+          "hi": "उत्तराखंड महोत्सव में योगी का अखिलेश पर पलटवार, 'घुसपैठिए' वाले बयान को बताया विभाजनकारी सोच"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+      "id": "delhi-aqi-402-severe-iit-delhi-488-friday",
       "also": []
     },
     "list": [
-      "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-      "retail-inflation-october-2026-6-09-two-year-high",
-      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
+      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+      "mastung-kanak-camp-truck-blast-police-toll-disputed",
+      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+      "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+      "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
     ],
     "also": [
-      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-      "infosys-prize-2026-six-researchers-under-40-100000-each"
+      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
+      "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
     ]
   },
   "startHere": [
@@ -376,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+      "lead": "retail-inflation-october-2026-6-09-two-year-high",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +391,18 @@
         ]
       },
       "list": [
-        "retail-inflation-october-2026-6-09-two-year-high",
         "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore",
+        "rbi-consolidates-domestic-money-transfer-rules-cash-neft-50000-limit"
       ]
     },
     {
       "section": "states",
-      "lead": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+      "lead": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
       "list": [
-        "aap-second-list-31-punjab-mlas-dropped-two-mps",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "aap-second-list-31-punjab-mlas-dropped-two-mps"
       ]
     },
     {
@@ -422,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "mastung-kanak-camp-truck-blast-police-toll-disputed",
+      "lead": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
       "list": [
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
-        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
-        "indonesia-vp-gibran-resigns-impeachment-diploma-prabowo"
+        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral"
       ]
     },
     {
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+      "lead": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
       "list": [
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test",
-        "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
+        "saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test"
       ]
     }
   ],
@@ -524,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T21:29:30+05:30",
-      "ids": [
-        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "goa-st-seat-reservation-explained-supreme-court",
-        "special-session-of-parliament-explained-shah-offer-cec-removal",
-        "cec-removal-belongs-in-parliament-call-the-special-session",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-        "infosys-prize-2026-six-researchers-under-40-100000-each"
-      ]
-    },
     {
       "at": "2026-11-12T22:46:40+05:30",
       "ids": [
@@ -645,6 +632,23 @@
         "retail-inflation-october-2026-6-09-two-year-high",
         "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+      ]
+    },
+    {
+      "at": "2026-11-13T10:33:45+05:30",
+      "ids": [
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+        "aap-second-list-31-punjab-mlas-dropped-two-mps",
+        "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "delhi-aqi-402-severe-iit-delhi-488-friday",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
       ]
     }
   ],

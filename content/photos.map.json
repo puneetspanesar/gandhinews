@@ -48479,7 +48479,7 @@
   "src800": "/photos/o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 5031,
+  "srcWidth": 1282,
   "credit": "Photo: Sonam Wangchuk / Wikimedia Commons",
   "licence": "CC BY 2.0",
   "alt": "Ladakhi activist Sonam Wangchuk speaking at a 2017 event (file photo)",
@@ -48488,13 +48488,13 @@
   "treated": {
    "src": "/photos/t-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-marc-1280.jpg",
    "src800": "/photos/t-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-marc-640.jpg",
-   "cutout": false,
+   "cutout": true,
    "with": [
     "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed",
     "parliament"
    ],
    "kind": "photo",
-   "subj": "3fff0000001f7f3f",
+   "subj": "ffffff2720380800",
    "credit": "Photos: Sonam Wangchuk / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons; Narendra Modi / Wikimedia Commons"
   }
  },

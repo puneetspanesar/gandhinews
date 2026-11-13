@@ -1,0 +1,18 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-13T10:05:06+05:30",
+ "end": "2026-11-13T10:39:47+05:30",
+ "summary": "Wangchuk house arrest leads; Delhi AQI 402 severe; Brooklyn collapse; Srikanth Kumamoto exit",
+ "new": [
+  "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+  "delhi-aqi-402-severe-iit-delhi-488-friday",
+  "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+  "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
+}
