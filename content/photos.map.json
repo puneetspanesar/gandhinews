@@ -48754,7 +48754,19 @@
   "licence": "CC BY 4.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powe-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powe-640.jpg",
+   "cutout": true,
+   "with": [
+    "special-session-of-parliament-explained-shah-offer-cec-removal",
+    "pac-examines-sc-scholarship-schemes-cag-report"
+   ],
+   "kind": "portrait",
+   "subj": "e7e3e3e3c0c2c4cc",
+   "credit": "Photos: Original: Indian National Congress. / Wikimedia Commons, CC BY-SA 3.0; Nikhilb239 / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
+  }
  },
  "nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21": {
   "id": "o-nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21",
@@ -48780,7 +48792,20 @@
   "licence": "Public domain",
   "alt": "Donald Trump (file photo)",
   "alt_hi": "डोनाल्ड ट्रंप (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+  "treated": {
+   "src": "/photos/t-trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hor-1280.jpg",
+   "src800": "/photos/t-trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hor-640.jpg",
+   "cutout": true,
+   "with": [
+    "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill--p2",
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "iran-hands-us-nuclear-proposal-seven-demands--p1"
+   ],
+   "kind": "portrait",
+   "subj": "c0c0c1c1c1c0808",
+   "credit": "Photos: Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons, CC BY-SA 2.0; European Space Agency (ESA) / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Amohammadid / Wikimedia Commons"
+  }
  },
  "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan": {
   "id": "o-national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
@@ -48793,7 +48818,16 @@
   "licence": "GODL-India",
   "alt": "Droupadi Murmu (file photo)",
   "alt_hi": "द्रौपदी मुर्मू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg",
+  "treated": {
+   "src": "/photos/t-national-sports-awards-2025-murmu-presents-arjuna-dronachary-1280.jpg",
+   "src800": "/photos/t-national-sports-awards-2025-murmu-presents-arjuna-dronachary-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "44eefefefe",
+   "credit": "Photo: President's Secretariat / Wikimedia Commons, GODL-India"
+  }
  },
  "babar-azam-34-42nd-innings-no-test-century-pakistan-151-5-lunch-rawalpindi": {
   "id": "o-babar-azam-34-42nd-innings-no-test-century-pakistan-151-5-lunch-rawalpindi",
@@ -48849,6 +48883,6 @@
     "src800": "/photos/i-bangladesh-jashore-court-bombs-three-blasts-wave-of-violence-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Jashore bombs or Bangladesh unrest; library, quick_photo, finder h1314 (only nurseries, mosque, IT park)"
+  "nophoto": "no free photo of Jashore bombs; library, quick_photo, finder h1314"
  }
 }

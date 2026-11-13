@@ -6,7 +6,7 @@ section: world
 format_label: "World / Middle East"
 topics: []
 title: "Trump says five Gulf states asked him to hold off on Iran strikes and he is 'not sure I agree', as Guards say a gas carrier hit a mine in Hormuz"
-standfirst: "In a White House interview on Thursday the US President said he could end the war quickly but is waiting at Saudi request. On Friday Iran's navy said a gas tanker struck a mine on the southern route it calls unauthorised."
+standfirst: "In a White House interview on Thursday the US President said he could end the war quickly but is waiting at Saudi request. On Friday Iran's Revolutionary Guards said a gas tanker struck a mine on the southern route it calls unauthorised."
 published: 2026-11-13T14:16:42+05:30
 location: Washington
 keyPoints:

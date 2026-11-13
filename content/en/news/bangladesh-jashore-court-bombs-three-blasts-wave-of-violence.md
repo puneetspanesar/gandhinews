@@ -97,7 +97,7 @@ The Jashore blasts are the latest in a series that began on Sunday, November 8. 
 
 On Monday, November 9, a bomb exploded at about 5:50 pm on the road in front of the Chief Metropolitan Magistrate's Court in Dhaka's Kotwali area. People at the scene held two 25-year-old men, Sukumar Halder and Faisal, and handed them and their motorcycle to the court's prosecution police. A second live bomb was found there.
 
-On Tuesday, November 10, **a bus driver was burned to death**: Md Kalachan Sheikh, 55, was asleep in his parked bus when attackers set it on fire, and he died of smoke inhalation, according to local police. More than 100 explosions were reported near the Padma Bridge toll plaza in Shariatpur during an overnight blockade, and police headquarters counted **22 vehicles set on fire nationwide** in the 24 hours to Tuesday morning. Police said 33 people were arrested in Dhaka on Monday, seven bombs were recovered and two motorcycles used in the attacks were seized.
+On Tuesday, November 10, **a bus driver died when attackers set his bus on fire**: Md Kalachan Sheikh, 55, was asleep in his parked bus, according to local police. More than 100 explosions were reported near the Padma Bridge toll plaza in Shariatpur during an overnight blockade, and police headquarters counted **22 vehicles set on fire nationwide** in the 24 hours to Tuesday morning. Police said 33 people were arrested in Dhaka on Monday, seven bombs were recovered and two motorcycles used in the attacks were seized.
 
 ```timeline
 {"title":"Attacks on courts and roads","items":[{"date":"November 8 to 9, 2026","text":"Bombs near Dhaka University and the District Judge Court; a bus set on fire at Farmgate."},{"date":"November 9, 2026","text":"Bomb at Dhaka's CMM Court; two men held with a motorcycle."},{"date":"November 10, 2026","text":"A bus driver dies in a bus fire; over 100 blasts at the Padma Bridge toll plaza; police name no group."},{"date":"November 12, 2026","text":"Three bombs hit two court premises in Jashore."}]}
@@ -111,7 +111,7 @@ The BNP, which governs under Prime Minister Tarique Rahman, has accused follower
 
 ## Why it matters
 
-Courts have now been hit three times in four days, in the capital on November 9 and 10 and in Jashore on November 12, which raises the question of how well public buildings are guarded. For ordinary people the cost has been practical: buses burned, a toll plaza on the Padma Bridge blockaded overnight and a bus driver dead. Security has been stepped up across Dhaka and intelligence operations intensified nationwide.
+Courts have now been hit three times in five days, in the capital on November 8 and 9 and in Jashore on November 12, which raises the question of how well public buildings are guarded. For ordinary people the cost has been practical: buses burned, a toll plaza on the Padma Bridge blockaded overnight and a bus driver dead. Security has been stepped up across Dhaka and intelligence operations intensified nationwide.
 
 ## What happens next
 

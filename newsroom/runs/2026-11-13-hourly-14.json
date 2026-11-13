@@ -1,0 +1,47 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-13T14:04:43+05:30",
+ "end": "2026-11-13T14:40:14+05:30",
+ "summary": "4 stories, Rahul Gandhi phone-tapping lead; 2 held by editor",
+ "new": [
+  "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+  "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+  "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
+  "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+ ],
+ "held": [
+  "babar-azam-34-42nd-innings-no-test-century-pakistan-151-5-lunch-rawalpindi",
+  "nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21",
+   "kind": "picture",
+   "why": "Main picture of Nitish Kumar is badly cropped: the top of his head is cut off at the frame edge and half of another man's face sits at the right edge. Separately, the Hindi headline has a grammar error: 'कच्ची दरगाह की नए गंगा पुल' should read 'के नए'.",
+   "fix": "Use a clean, properly framed photo of Nitish Kumar with his full head and no stray faces (try the library, then quick_photo.py 'Nitish Kumar'), or crop out the second man and keep the head whole. Change the Hindi title to 'बिहार ने कच्ची दरगाह के नए गंगा पुल का नाम 'नीतीश सेतु' रखा, 21 नवंबर को मोदी करेंगे उद्घाटन'."
+  },
+  {
+   "id": "babar-azam-34-42nd-innings-no-test-century-pakistan-151-5-lunch-rawalpindi",
+   "kind": "facts",
+   "why": "The headline, overlay and story carry the lunch score (151 for 5), which is now about two hours old in a live final day. The run's own notes record a later figure of 166 for 5 after 52 overs, and the match will have moved on further.",
+   "fix": "Update to the latest score (tea or the current score/result) in the title, standfirst, key points, overlay and infographic, in both English and Hindi. Keep the Babar 34 angle in the body."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+   "why": "The Hindi twin changes Trump's words. He said 'I'm not sure I agree with it', but the Hindi title, overlay, key point 2 and body render it as 'मैं (इससे) सहमत नहीं (हूं)', which means 'I do not agree'. Also, the English standfirst says 'Iran's navy' when the claim came from the IRGC Navy (the Revolutionary Guards), which is a different force; the Hindi standfirst has the same error ('ईरानी नौसेना').",
+   "done": "Hindi quote now 'पक्का नहीं कि मैं इससे सहमत हूं' in title, overlay, key point and body; both standfirsts say Revolutionary Guards"
+  },
+  {
+   "id": "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+   "why": "The 'Why it matters' section (English and Hindi) says courts were hit 'in the capital on November 9 and 10'. The story's own account puts the Dhaka court attacks on November 8 (District Judge Court) and November 9 (CMM Court), and gives no court attack on November 10. The text also says the bus driver was 'burned to death' but then says he 'died of smoke inhalation'; the two contradict each other.",
+   "done": "Dhaka court dates now November 8 and 9, 'three times in five days' (EN and HI); driver 'died when attackers set his bus on fire'; infographic re-rendered"
+  }
+ ],
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+ ],
+ "lead": "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
+}

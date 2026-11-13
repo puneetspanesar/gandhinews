@@ -51871,16 +51871,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
  },
  {
-  "id": "o-nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21",
-  "articleId": "nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Shri_Nitish_Kumar_in_Begusarai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Nitish Kumar (file photo)",
-  "alt_hi": "नीतीश कुमार (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Nitish_Kumar_in_Begusarai.jpg"
- },
- {
   "id": "o-trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
   "articleId": "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -51909,5 +51899,15 @@
   "alt": "Babar Azam (file photo)",
   "alt_hi": "बाबर आज़म (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Babar_Azam_in_2020.png"
+ },
+ {
+  "id": "o-nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21",
+  "articleId": "nitish-setu-kachchi-dargah-bidupur-bridge-named-modi-november-21",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Shri_Nitish_Kumar_in_Begusarai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Nitish Kumar (file photo)",
+  "alt_hi": "नीतीश कुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Nitish_Kumar_in_Begusarai.jpg"
  }
 ]

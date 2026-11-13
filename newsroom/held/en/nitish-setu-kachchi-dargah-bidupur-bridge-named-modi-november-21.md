@@ -48,7 +48,7 @@ verification:
   status: approved
   notes:
     - "No government release or order found. Announcement rests on one report dated November 13 (Patna Press, 14:07 IST, paraphrase only, no direct quote); the November 21 date and Vaishali programme rest on a second report dated November 10 (Urban Acres) citing Bihar BJP president Sanjay Saraogi."
-    - "Length, cost, builder and loan figures come from a July 15, 2026 report. The November 10 report gives a shorter 19 km total with a 9 km main bridge, so the 9.76 km and 22.76 km figures are written as reported in July."
+    - "Length, cost, builder and loan figures come from a July 15, 2026, report. The November 10 report gives a shorter 19 km total with a 9 km main bridge, so the 9.76 km and 22.76 km figures are written as reported in July."
     - "The July report said 99.6% of physical work was done; no later progress figure was found, so none is given."
     - "No reaction from Nitish Kumar, JD(U), RJD or the Congress found. Exact time of the announcement not reported."
 infographic:
