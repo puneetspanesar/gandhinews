@@ -56,7 +56,7 @@ verification:
   status: approved
   notes:
     - "Study figures from the NIH release as carried on ScienceDaily, November 12, 2026; journal paper (DOI 10.1200/JCO-26-00318) not opened directly. Editor may want to check."
-    - "India regulatory points (IS 10500:2012, BIS working group, no ban on manufacture, IARC 2025 classification) come from a secondary explainer; not confirmed against BIS or the Environment Ministry this run."
+    - "India regulatory points (IS 10500:2012, BIS working group, no ban on manufacture, IARC 2023 classification) come from a secondary explainer; not confirmed against BIS or the Environment Ministry this run."
     - "Ganga sediment study (Environment International, 2026) read via a news feature, not the paper."
     - "Published time is the time of writing."
 ---
@@ -79,7 +79,7 @@ The authors are careful about what the work cannot show. It finds an association
 
 ## Where India stands
 
-PFAS are a family of man-made chemicals used in non-stick coatings, firefighting foams and water-resistant fabrics. They break down very slowly and travel through water. In 2025 the International Agency for Research on Cancer classed PFOA as carcinogenic to humans and PFOS as possibly carcinogenic to humans.
+PFAS are a family of man-made chemicals used in non-stick coatings, firefighting foams and water-resistant fabrics. They break down very slowly and travel through water. In November 2023 the International Agency for Research on Cancer classed PFOA as carcinogenic to humans and PFOS as possibly carcinogenic to humans.
 
 India has **no PFAS limit in its drinking-water standard**, IS 10500:2012, which is under revision. The Bureau of Indian Standards has set up a working group on emerging contaminants and forever chemicals, but the compounds to be regulated and the testing methods are not yet settled. The Environment Ministry has confirmed that no specific rule bans PFAS manufacture. CSIR-IITR in Lucknow is part of a UNEP-funded plan to build baseline data and can detect 50 PFAS molecules.
 

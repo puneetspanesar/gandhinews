@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
+    "id": "bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14",
     "overlay": {
       "kicker": {
-        "en": "States / Madhya Pradesh",
-        "hi": "राज्य / मध्य प्रदेश"
+        "en": "Politics / Telangana",
+        "hi": "राजनीति / तेलंगाना"
       },
       "value": {
-        "en": "₹1,500 for 1.24 crore women",
-        "hi": "1.24 करोड़ महिलाओं को ₹1,500"
+        "en": "Who pays for the Bharat Summit?",
+        "hi": "भारत समिट का खर्च कौन उठा रहा है?"
       },
       "text": {
         "en": "",
@@ -17,22 +17,32 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "aap-second-list-31-punjab-mlas-dropped-two-mps",
-      "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-      "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration"
+      "who-owns-trinamool-election-commission-symbol-dispute-explained",
+      "andhra-local-polls-must-start-with-free-nominations"
     ],
     "relatedBeside": [
-      "mastung-kanak-camp-truck-blast-police-toll-disputed"
+      "pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap"
     ],
     "live": {
       "title": {
-        "en": "Madhya Pradesh",
-        "hi": "मध्य प्रदेश"
+        "en": "Telangana",
+        "hi": "तेलंगाना"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "Two 'forever chemicals' tied to nearly double the rate of aggressive breast cancer, as India still has no PFAS limit for drinking water",
+          "hi": "दो 'फॉरएवर केमिकल' से आक्रामक स्तन कैंसर की दर लगभग दोगुनी, भारत में पीने के पानी के लिए अब भी कोई पीएफएएस सीमा नहीं"
+        }
+      },
       {
         "link": "mastung-kanak-camp-truck-blast-police-toll-disputed",
         "lead": {
@@ -45,80 +55,69 @@
         }
       },
       {
-        "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+        "link": "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
         "lead": {
-          "en": "US-China:",
-          "hi": "अमेरिका-चीन:"
+          "en": "Agriculture:",
+          "hi": "कृषि:"
         },
         "text": {
-          "en": "Rubio and Wang Yi speak ahead of Trump's China trip, with a three-way meeting with Putin in play",
-          "hi": "ट्रंप की चीन यात्रा से पहले रुबियो और वांग यी की बात, पुतिन के साथ तीनतरफा मुलाकात की चर्चा"
+          "en": "Modi urges farmers to cut chemicals and turn to natural farming: 'We are destroying Mother Earth'",
+          "hi": "मोदी की किसानों से अपील: रसायन घटाएं, प्राकृतिक खेती अपनाएं, 'हम धरती माता को नष्ट कर रहे हैं'"
         }
       },
       {
-        "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "link": "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Europe:",
+          "hi": "यूरोप:"
         },
         "text": {
-          "en": "Sensex and Nifty edge up for a third day as realty jumps 4.5% and Godrej Industries gains on Temasek deal",
-          "hi": "सेंसेक्स और निफ्टी लगातार तीसरे दिन बढ़त पर, रियल्टी 4.5% चढ़ा और टेमासेक सौदे से गोदरेज इंडस्ट्रीज उछला"
+          "en": "Putin hosts Witkoff and Kushner in Moscow; Kremlin calls talks 'constructive' and agrees to plan a Kostiantynivka humanitarian mission",
+          "hi": "पुतिन ने मॉस्को में विटकॉफ और कुशनर से की बातचीत; क्रेमलिन ने कहा 'रचनात्मक', कोस्तियंतिनिव्का में मानवीय मिशन पर संपर्क शुरू होंगे"
         }
       },
       {
-        "link": "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "link": "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "lead": {
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
+        },
+        "text": {
+          "en": "Sharad Pawar's NCP (SP) camp reportedly split four ways over merger and joining the NDA",
+          "hi": "खबरों के मुताबिक विलय और एनडीए के सवाल पर शरद पवार का राकांपा (एसपी) खेमा चार धड़ों में बंटा"
+        }
+      },
+      {
+        "link": "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Raichandani's 93 and Sehwag's 51 take India U19 into Asia Cup final against Pakistan",
-          "hi": "रायचंदानी के 93 और सहवाग के 51 रन से भारत अंडर-19 एशिया कप फाइनल में, पाकिस्तान से होगा मुकाबला"
+          "en": "Rain and bad light end day four at Rawalpindi with Pakistan 57 for 1, 45 ahead",
+          "hi": "रावलपिंडी में बारिश और खराब रोशनी से चौथा दिन खत्म, पाकिस्तान 57/1, 45 रन आगे"
         }
       },
       {
-        "link": "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+        "link": "retail-inflation-october-2026-6-09-two-year-high",
         "lead": {
-          "en": "Air pollution:",
-          "hi": "वायु प्रदूषण:"
+          "en": "Inflation:",
+          "hi": "महंगाई:"
         },
         "text": {
-          "en": "Farm unions say cars, not stubble, drive Delhi's smog after Supreme Court asks four states for vehicle plans",
-          "hi": "किसान संगठन बोले, दिल्ली के स्मॉग की वजह गाड़ियां हैं, पराली नहीं; सुप्रीम कोर्ट ने चार राज्यों से मांगी वाहन योजना"
+          "en": "Retail inflation hits 6.09% in October, breaching the RBI's 6% ceiling for the first time in two years",
+          "hi": "अक्टूबर में खुदरा महंगाई 6.09%, दो साल में पहली बार आरबीआई की 6% की सीमा के पार"
         }
       },
       {
-        "link": "india-a-women-squads-england-a-shreyanka-patil-recalled",
+        "link": "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Anushka Sharma to captain India A women against England A, with Shreyanka Patil in all three squads",
-          "hi": "इंग्लैंड ए के खिलाफ भारत ए महिला टीम की कप्तान अनुष्का शर्मा, श्रेयंका पाटिल तीनों टीमों में"
-        }
-      },
-      {
-        "link": "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
-        "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
-        },
-        "text": {
-          "en": "Centre plans special Session to pass delimitation Bill, says it has votes to spare; Congress calls it bluster",
-          "hi": "परिसीमन विधेयक के लिए संसद का विशेष सत्र बुलाने की तैयारी, केंद्र को भरोसा; कांग्रेस ने बताया डींग"
-        }
-      },
-      {
-        "link": "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
-        },
-        "text": {
-          "en": "Yogi hits back at Akhilesh over 'infiltrators' jibe at Uttarakhand Mahotsav in Lucknow",
-          "hi": "उत्तराखंड महोत्सव में योगी का अखिलेश पर पलटवार, 'घुसपैठिए' वाले बयान को बताया विभाजनकारी सोच"
+          "en": "Karnataka orders L&T blacklisted over stalled Jal Jeevan Mission water project",
+          "hi": "कर्नाटक ने जल जीवन मिशन की अटकी परियोजना पर एल एंड टी को ब्लैकलिस्ट करने का आदेश दिया"
         }
       }
     ]
@@ -186,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral",
+      "id": "mastung-kanak-camp-truck-blast-police-toll-disputed",
       "also": []
     },
     "list": [
-      "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-      "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-      "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-      "india-a-women-squads-england-a-shreyanka-patil-recalled",
-      "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+      "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+      "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
+      "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+      "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+      "retail-inflation-october-2026-6-09-two-year-high"
     ],
     "also": [
-      "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-      "tamil-nadu-sterlite-firing-victims-extra-5-25-crore-vijay"
+      "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
+      "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
     ]
   },
   "startHere": [
@@ -372,11 +371,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai",
-        "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+        "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
       ],
-      "lead": "special-session-delimitation-bill-shah-361-votes-jairam-bluster"
+      "lead": "bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14"
     },
     {
       "section": "economy",
@@ -402,7 +401,7 @@
       "list": [
         "aap-second-list-31-punjab-mlas-dropped-two-mps",
         "shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles"
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
       ]
     },
     {
@@ -435,11 +434,11 @@
     },
     {
       "section": "science",
-      "lead": "infosys-prize-2026-six-researchers-under-40-100000-each",
+      "lead": "pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap",
       "list": [
+        "infosys-prize-2026-six-researchers-under-40-100000-each",
         "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31",
-        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-        "nadda-colombo-bimstec-health-ministers-jamnagar-centre"
+        "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview"
       ]
     },
     {
@@ -461,10 +460,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Mohan Yadav releases the 42nd Laadli Behna instalment from Pichhore, Shivpuri",
-        "hi": "मोहन यादव पिछोर, शिवपुरी से लाड़ली बहना की 42वीं किस्त जारी करेंगे"
+        "en": "Markets open after October retail inflation rose to 6.09%, above the RBI's 6% limit",
+        "hi": "अक्टूबर की खुदरा महंगाई के आरबीआई की 6% की सीमा से ऊपर 6.09% होने के बाद बाजार खुलेंगे"
       },
-      "link": "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri"
+      "link": "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
     },
     {
       "icon": "calendar-blank",
@@ -473,10 +472,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Fourth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "चौथा वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "CII Partnership Summit closes in Visakhapatnam, Vice-President at 4 pm",
+        "hi": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट का समापन, उपराष्ट्रपति शाम 4 बजे"
       },
-      "link": "iyer-first-odi-captaincy-mount-maunganui-fourth-odi-preview"
+      "link": "cii-partnership-summit-visakhapatnam-opens-141-mous-12-lakh-crore"
     },
     {
       "icon": "calendar-blank",
@@ -497,10 +496,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Syed Mushtaq Ali Trophy opens: Bihar v Saurashtra in Indore, Mumbai v Hyderabad",
-        "hi": "सैयद मुश्ताक अली ट्रॉफी शुरू: इंदौर में बिहार बनाम सौराष्ट्र, मुंबई बनाम हैदराबाद"
+        "en": "Rahul Gandhi delivers the valedictory keynote at the Bharat Summit in Hyderabad",
+        "hi": "हैदराबाद के भारत समिट में राहुल गांधी का समापन भाषण"
       },
-      "link": "smat-2026-squads-captains-sooryavanshi-bihar-surya-mumbai-november-14"
+      "link": "bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14"
     },
     {
       "icon": "calendar-blank",
@@ -528,20 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-12T20:57:28+05:30",
-      "ids": [
-        "modi-asean-india-summit-manila-november-16-18",
-        "bhupender-yadav-leadit-industry-academia-interaction-delhi-cop31",
-        "hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia",
-        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
-        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar",
-        "ujjal-biswas-dies-72-kolkata-former-tmc-minister-mamata-condoles",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
-      ]
-    },
     {
       "at": "2026-11-12T21:29:30+05:30",
       "ids": [
@@ -649,6 +634,22 @@
         "india-a-women-squads-england-a-shreyanka-patil-recalled",
         "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
         "yogi-uttarakhand-mahotsav-lucknow-akhilesh-infiltrators-dimple-saifai"
+      ]
+    },
+    {
+      "at": "2026-11-13T08:42:35+05:30",
+      "ids": [
+        "bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "andhra-local-polls-must-start-with-free-nominations",
+        "pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed",
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+        "putin-witkoff-kushner-moscow-talks-kostiantynivka-humanitarian-trilateral",
+        "ncp-sharad-pawar-camp-split-four-groups-merger-nda-patel-sule",
+        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi",
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "karnataka-khandre-blacklist-lt-jal-jeevan-renukasagar"
       ]
     }
   ],

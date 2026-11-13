@@ -48448,30 +48448,72 @@
   "nophoto": "no free photo of Mastung or the blast site; library, quick_photo, finder h1306 and h1306b (maps and landscapes only)"
  },
  "bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14": {
-  "id": "o-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14",
-  "src": "/photos/o-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14-1280.jpg",
-  "src800": "/photos/o-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14-640.jpg",
+  "id": "v-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-",
+  "src": "/photos/v-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november--1280.jpg",
+  "src800": "/photos/v-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november--640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 826,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "G. Kishan Reddy (file photo)",
-  "alt_hi": "जी. किशन रेड्डी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:G._Kishan_Reddy_in_2025.jpg"
+  "height": 800,
+  "credit": "Photos: President's Secretariat (GODL-India); Arjun Sarkar 7779 / Wikimedia Commons",
+  "licence": "GODL-India; CC0",
+  "alt": "Union Minister G. Kishan Reddy (left) and Telangana Chief Minister Revanth Reddy (file photos)",
+  "alt_hi": "केंद्रीय मंत्री जी. किशन रेड्डी (बाएं) और तेलंगाना के मुख्यमंत्री रेवंत रेड्डी (फ़ाइल फ़ोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november--1280.jpg",
+   "src800": "/photos/t-bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november--640.jpg",
+   "cutout": false,
+   "with": [
+    "telangana-el-nino-severe-chief-secretary-singur",
+    "telangana-sir-electorate-may-shrink-26-per-cent",
+    "jaishankar-african-heads-of-mission-south-south-solidarity"
+   ],
+   "kind": "photo",
+   "subj": "e1a1e5e4c080ecec",
+   "credit": "Photos: President's Secretariat (GODL-India); Arjun Sarkar 7779 / Wikimedia Commons; Sentinel-2, ESA / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Aloofmanish / Wikimedia Commons"
+  }
  },
  "pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap": {
-  "id": "o-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap",
-  "src": "/photos/o-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-1280.jpg",
-  "src800": "/photos/o-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-640.jpg",
+  "id": "i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap",
+  "src": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-en-3x2-1280.jpg",
+  "src800": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-en-3x2-640.jpg",
   "width": 1280,
-  "height": 944,
-  "srcWidth": 1280,
-  "credit": "Photo: Liz Highleyman from San Francisco, USA / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "The Ganga flowing at Haridwar; India has no PFAS limit for drinking water (file photo)",
-  "alt_hi": "हरिद्वार में बहती गंगा; भारत में पेयजल के लिए PFAS की कोई सीमा नहीं (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ganges_flowing_near_Har_ki_Pauri,_Haridwar.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: PFOS and PFOA tied to aggressive breast cancer",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पीएफओएस, पीएफओए और आक्रामक स्तन कैंसर",
+  "page": null,
+  "ihash": "59b53cd1633b",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-hi-3x2-1280.jpg",
+    "src800": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-en-t-1280.jpg",
+    "src800": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-hi-t-1280.jpg",
+    "src800": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-en-1280.jpg",
+    "src800": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-hi-1280.jpg",
+    "src800": "/photos/i-pfas-forever-chemicals-er-negative-breast-cancer-nih-india-gap-hi-640.jpg"
+   }
+  }
  },
  "azam-khan-ed-four-day-custody-ghaziabad-426-crore-jauhar": {
   "id": "o-azam-khan-ed-four-day-custody-ghaziabad-426-crore-jauhar",
@@ -48528,5 +48570,18 @@
    }
   },
   "nophoto": "no free photo of Vodafone Idea or Abhijit Kishore; library, quick_photo, finder h1308 and h1308b"
+ },
+ "modi-karnataka-today-pink-line-15600-crore-mysuru-cosmos-november-13": {
+  "id": "o-modi-karnataka-today-pink-line-15600-crore-mysuru-cosmos-november-13",
+  "src": "/photos/o-modi-karnataka-today-pink-line-15600-crore-mysuru-cosmos-november-13-1280.jpg",
+  "src800": "/photos/o-modi-karnataka-today-pink-line-15600-crore-mysuru-cosmos-november-13-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 830,
+  "credit": "Photo: Mayur Bhatt, Ahmedabad / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_0160_(cropped).JPG"
  }
 }

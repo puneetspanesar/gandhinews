@@ -4,7 +4,7 @@ lang: en
 type: news
 section: politics
 format_label: "Politics / Telangana"
-topics: [states, congress, bjp]
+topics: [states]
 title: "Kishan Reddy asks who pays for Congress's Bharat Summit as Hyderabad hosts 1,000 delegates"
 standfirst: "The Union minister called the Telangana government's global gathering a Congress programme run at public expense. The summit runs on Friday and Saturday, with Rahul Gandhi due to give the closing keynote."
 published: 2026-11-13T08:07:20+05:30

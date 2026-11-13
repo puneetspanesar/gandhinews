@@ -5,7 +5,7 @@ translation_of: bharat-summit-hyderabad-revanth-kishan-reddy-rahul-november-14
 type: news
 section: politics
 format_label: "राजनीति / तेलंगाना"
-topics: [states, congress, bjp]
+topics: [states]
 title: "हैदराबाद में 1,000 प्रतिनिधियों का भारत समिट, किशन रेड्डी ने पूछा: कांग्रेस के आयोजन का खर्च कौन उठा रहा है"
 standfirst: "केंद्रीय मंत्री ने तेलंगाना सरकार के इस वैश्विक सम्मेलन को सार्वजनिक पैसे से चल रहा कांग्रेस का कार्यक्रम बताया। समिट शुक्रवार और शनिवार को है, समापन भाषण राहुल गांधी देंगे।"
 published: 2026-11-13T08:07:20+05:30
