@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "mann-lahore-world-punjabi-conference-mea-national-policy",
+    "id": "priyanka-special-session-delimitation-not-informed-nov-24-25",
     "overlay": {
       "kicker": {
-        "en": "Politics / Foreign Affairs",
-        "hi": "राजनीति / विदेश मामले"
+        "en": "Politics / Parliament",
+        "hi": "राजनीति / संसद"
       },
       "value": {
-        "en": "'Expect everybody to abide by it'",
-        "hi": "'सभी से नीति के पालन की उम्मीद'"
+        "en": "'They have not intimated the rest of us'",
+        "hi": "'उन्होंने बाकी लोगों को सूचित नहीं किया'"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "delimitation-bill-361-votes-needed-two-thirds-claim",
+      "goa-st-seat-reservation-explained-supreme-court",
+      "special-session-of-parliament-explained-shah-offer-cec-removal"
+    ],
     "relatedBeside": [
-      "cag-first-integrated-audit-39-discoms-28-officers-survey"
+      "mann-lahore-world-punjabi-conference-mea-national-policy"
     ],
     "live": {
       "title": {
-        "en": "Foreign Affairs",
-        "hi": "विदेश मामले"
+        "en": "Parliament",
+        "hi": "संसद"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "lead": {
+          "en": "Foreign Affairs:",
+          "hi": "विदेश मामले:"
+        },
+        "text": {
+          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
+          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
+        }
+      },
+      {
+        "link": "forex-reserves-rise-719-billion-november-6-gold",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "Forex reserves rise $2.49 billion to $719.55 billion, ending eight weeks of falls, as gold does the lifting",
+          "hi": "विदेशी मुद्रा भंडार 2.49 अरब डॉलर बढ़कर 719.55 अरब डॉलर, आठ हफ्तों की गिरावट थमी, सोने ने दिया सहारा"
+        }
+      },
+      {
+        "link": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+        "lead": {
+          "en": "Assam:",
+          "hi": "असम:"
+        },
+        "text": {
+          "en": "At least 23 killed as minibus and container truck collide head-on near Kaziranga in Assam",
+          "hi": "असम में काजीरंगा के पास मिनीबस और कंटेनर ट्रक की आमने-सामने टक्कर, कम से कम 23 की मौत"
+        }
+      },
       {
         "link": "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "lead": {
@@ -82,39 +119,6 @@
         "text": {
           "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
           "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
-        }
-      },
-      {
-        "link": "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "lead": {
-          "en": "Ladakh:",
-          "hi": "लद्दाख:"
-        },
-        "text": {
-          "en": "Sonam Wangchuk says he is under house arrest in Leh as Ladakh protests the December 4 hill council polls",
-          "hi": "सोनम वांगचुक का दावा, लेह में नजरबंद हैं; लद्दाख में 4 दिसंबर के पहाड़ी परिषद चुनाव का विरोध"
-        }
-      },
-      {
-        "link": "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Srikanth's Kumamoto run ends as Watanabe wins quarter-final after a 12-5 lead is lost",
-          "hi": "वातानाबे ने 12-5 की बढ़त के बाद पलटा मैच, कुमामोतो मास्टर्स में श्रीकांत का सफर खत्म"
-        }
-      },
-      {
-        "link": "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Eight dead as Brooklyn building falls into excavation; city probes builder's stop-work history",
-          "hi": "ब्रुकलिन में इमारत निर्माण गड्ढे में गिरी, आठ की मौत; बिल्डर के स्टॉप-वर्क रिकॉर्ड की जांच"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "nadda-who-global-tb-report-2026-india-mortality-38",
+      "id": "forex-reserves-rise-719-billion-november-6-gold",
       "also": []
     },
     "list": [
+      "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+      "cag-first-integrated-audit-39-discoms-28-officers-survey",
+      "nadda-who-global-tb-report-2026-india-mortality-38",
       "arun-pocso-chargesheet-veeramani",
-      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-      "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
     ],
     "also": [
-      "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
-      "mastung-kanak-camp-truck-blast-police-toll-disputed"
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
     ]
   },
   "startHere": [
@@ -368,15 +372,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
         "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers"
+        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
       ],
       "lead": "mann-lahore-world-punjabi-conference-mea-national-policy"
     },
     {
       "section": "economy",
-      "lead": "cag-first-integrated-audit-39-discoms-28-officers-survey",
+      "lead": "forex-reserves-rise-719-billion-november-6-gold",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +391,18 @@
         ]
       },
       "list": [
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass",
-        "rbi-ecl-meeting-bank-ceos-november-12-sbi-19500-crore"
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
       "section": "states",
-      "lead": "arun-pocso-chargesheet-veeramani",
+      "lead": "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
       "list": [
+        "arun-pocso-chargesheet-veeramani",
         "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "aap-second-list-31-punjab-mlas-dropped-two-mps"
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march"
       ]
     },
     {
@@ -628,28 +632,31 @@
       ]
     },
     {
-      "at": "2026-11-13T20:33:35+05:30",
+      "at": "2026-11-13T20:46:13+05:30",
       "ids": [
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "delimitation-bill-361-votes-needed-two-thirds-claim",
+        "goa-st-seat-reservation-explained-supreme-court",
+        "special-session-of-parliament-explained-shah-offer-cec-removal",
         "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "forex-reserves-rise-719-billion-november-6-gold",
+        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "nadda-who-global-tb-report-2026-india-mortality-38",
         "arun-pocso-chargesheet-veeramani",
         "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
     "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-    "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-    "delhi-aqi-402-severe-iit-delhi-488-friday",
-    "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects"
+    "special-session-delimitation-bill-shah-361-votes-jairam-bluster",
+    "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
+    "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
+    "modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next",
+    "modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects",
+    "delhi-aqi-402-severe-iit-delhi-488-friday"
   ]
 }
