@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T10:00:00+05:30",
+  "as_of": "2026-11-13T11:00:00+05:30",
   "status": "open",
   "session_date": "2026-11-13",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81457.74,
-      "change": -453.27,
-      "pct": -0.55,
+      "value": 81749.09,
+      "change": -161.92,
+      "pct": -0.2,
       "history": [
         {
           "date": "2026-09-30",
@@ -121,15 +121,15 @@
           "close": 81911.01
         }
       ],
-      "source": "https://telanganatoday.com/sensex-falls-450-points-nifty-drops-182-as-weak-global-cues-weigh-on-markets"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25117.0,
-      "change": -182.35,
-      "pct": -0.72,
+      "value": 25201.4,
+      "change": -97.95,
+      "pct": -0.39,
       "history": [
         {
           "date": "2026-09-30",
@@ -244,7 +244,7 @@
           "close": 25299.35
         }
       ],
-      "source": "https://telanganatoday.com/sensex-falls-450-points-nifty-drops-182-as-weak-global-cues-weigh-on-markets"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
     },
     {
       "id": "nifty-bank",
@@ -284,9 +284,9 @@
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 17.22,
-      "change": 1.64,
-      "pct": 10.53,
+      "value": 15.3,
+      "change": -1.2,
+      "pct": -7.3,
       "history": [
         {
           "date": "2026-11-04",
