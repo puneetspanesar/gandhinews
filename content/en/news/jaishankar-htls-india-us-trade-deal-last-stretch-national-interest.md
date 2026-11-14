@@ -32,7 +32,11 @@ infographic:
   stats:
     - {icon: handshake, value: "Last stretch", label: "Jaishankar on the India-US trade deal, November 14, 2026"}
     - {icon: calendar, value: "Dec 14-15", label: "G20 summit in Miami, where Modi and Trump may meet"}
-  timeline: {title: "How the talks got here", items: [{date: "Early 2025", text: "Trade talks begin", icon: handshake}, {date: "Oct 20, 2026", text: "Rubio says 'about as close as you can be'", icon: globe}, {date: "Nov 14, 2026", text: "Jaishankar says the deal is in its last stretch", icon: compass}, {date: "Dec 14-15, 2026", text: "G20 summit in Miami", icon: calendar}]}
+  timeline:
+    - {date: "Early 2025", text: "Trade talks begin", icon: handshake}
+    - {date: "Oct 20, 2026", text: "Rubio says 'about as close as you can be'", icon: globe}
+    - {date: "Nov 14, 2026", text: "Jaishankar says the deal is in its last stretch", icon: compass}
+    - {date: "Dec 14-15, 2026", text: "G20 summit in Miami", icon: calendar}
   source: "External Affairs Minister's remarks, November 14, 2026"
 sources:
   - title: "EAM Dr. S. Jaishankar Remarks at HTLS 2026 (Transcript)"
@@ -73,10 +77,6 @@ Jaishankar said the talks had moved through the hardest part, the tariffs. "If y
 
 India, he said, wants an agreement that is beneficial and balanced, and that **gives it a comparative advantage over comparable economies** selling into the US, which remains India's largest market. He argued that earlier free trade agreements with competitive Asian economies had not delivered the expected gains, and that recent pacts have been assessed more carefully. He pointed to the agreements India has signed with EFTA, the United Kingdom, the European Union, the UAE, Oman and Mauritius, and said Indian exports are rising.
 
-```photo
-{"n":1,"subject":"Marco Rubio","caption":"US Secretary of State Marco Rubio said in Mumbai on October 20 that the trade deal was very close.","alt":"US Secretary of State Marco Rubio"}
-```
-
 ## How the talks got here
 
 The negotiations began in early 2025. Since then, relations have been strained by US punitive tariffs, American objections to Indian purchases of Russian crude, and changes to US immigration and H1B visa rules. Our earlier report on the [talks reaching a plateau](/en/news/india-us-trade-talks-plateau-russia-oil-tariff-law) set out which US duties are in force and which are not, and our report on the [Mumbai meeting with Rubio](/en/news/rubio-jaishankar-mumbai-talks-close-to-trade-deal) recorded the US side saying only a small number of items remained.
@@ -88,10 +88,6 @@ Jaishankar also said Trump is pursuing many bilateral deals at once, so the chal
 On Ukraine and the Gulf, Jaishankar said **national interest will guide India's response**. "The compass for navigating it is our national interest," he said. He noted that the war in Ukraine has run into its fifth year and that disruption of Black Sea food exports affects global food prices. Of the Gulf, he said it was "inconceivable that what you see in the Gulf happened", describing countries firing missiles at one another's cities and leaderships. He did not name Iran.
 
 He described an emerging world order that is more multipolar, with more centres of autonomous decision-making. In his words, alliances will be "less cohesive because of national interests and more transactional because they feed into each other". Competition will be sharper and national assertion stronger, and the world will be more complex and less predictable, though he did not call it anarchy.
-
-```photo
-{"n":2,"subject":"Donald Trump","caption":"President Donald Trump, who hosts the G20 summit in Miami where a meeting with Modi is expected.","alt":"US President Donald Trump"}
-```
 
 ## China, capacity and the road ahead
 

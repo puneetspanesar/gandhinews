@@ -70,7 +70,7 @@ The exchange adds a new front to a week in which Washington has signalled restra
 
 Central Command posted a point-by-point reply on X. Under the heading "CLAIM", it quoted the Guards as saying they attacked a "U.S. early-warning radar" in Bahrain. Under "FACT", it wrote: "The IRGC launched two one-way attack drones toward Bahrain and both were shot down by U.S. forces." It added: "There were no injuries or damage."
 
-The Guards' Aerospace Force, in a statement carried by the Fars news agency, called the strike "a serious warning to the aggressor enemy to end its aerial provocations and oil smuggling in the Strait of Hormuz". It said that if the enemy repeated "its violations and acts of aggression", its forces were "on full alert to respond without limits". It also warned companies against what it called enemy deception, saying those involved would face harsher consequences.
+The Guards' Aerospace Force, in a statement carried by Iranian state media, called the strike "a serious warning to the aggressor enemy to end its aerial provocations and oil smuggling in the Strait of Hormuz". It said that if the enemy repeated "its violations and acts of aggression", its forces were "on full alert to respond without limits". It also warned companies against what it called enemy deception, saying those involved would face harsher consequences.
 
 Neither account has been independently confirmed. The US statement did not mention the Sirik strike at all.
 
@@ -85,10 +85,6 @@ Sirik hosts part of the radar and communications network Iran uses to watch the 
 The claim came a day after President Donald Trump said that [five Gulf states had asked him to hold off further heavy strikes](/en/news/trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz), adding "I'm not sure I agree with it". On November 12 he posted that the US no longer needed a deal with Iran, citing the Strait and Iranian funds. Reports say he has moved Vice President JD Vance, who had led work on a ceasefire and revived nuclear talks, towards domestic issues, leaving the war file with Secretary of State Marco Rubio and Defense Secretary Pete Hegseth. Rubio said at the G7 that there was [no need for major combat](/en/news/rubio-g7-paris-no-need-major-combat-iran-economic-campaign).
 
 Tehran's own line is mixed. Foreign Minister Abbas Araghchi has said Iran would negotiate, while security chief Mohsen Rezaei has said there will be no talks until the US accepts seven conditions, among them an end to the US naval blockade, release of frozen assets and a halt to fighting on all fronts.
-
-```photo
-{"n":1,"subject":"Mohsen Rezaei","caption":"Mohsen Rezaei, who says Iran will not talk until the US meets seven conditions.","alt":"Mohsen Rezaei, pictured in 2020"}
-```
 
 On Saturday Iran told the United Nations that renewed attacks would trigger retaliation and that [nuclear monitoring cannot resume under military threats](/en/news/iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg). Iran's Assembly of Experts has called withdrawal from the Nuclear Non-Proliferation Treaty an "unavoidable necessity". Trump says preventing an Iranian bomb is his main war aim, and has said he would have "no hesitation" in using force to protect US allies and shipping.
 

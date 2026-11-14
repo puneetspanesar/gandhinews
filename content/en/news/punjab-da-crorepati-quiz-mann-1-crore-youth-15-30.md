@@ -11,7 +11,7 @@ published: 2026-11-14T18:07:27+05:30
 location: Chandigarh
 keyPoints:
   - "Punjab's quiz offers **₹1 crore to the winner** and ₹10 lakh each to four runners-up."
-  - "Anyone aged **15 to 30** can enter; **11 rounds**, nine online and the last in person."
+  - "Anyone aged **15 to 30** can enter; **11 rounds**, nine online and the last two in person."
   - "A pool of **50,000 questions** follows patwari, constable and PCS exam style."
 hero:
   need: "Punjab Chief Minister Bhagwant Mann at a government event in Chandigarh"
@@ -87,10 +87,6 @@ Registration is free, according to the government's announcement as reported, an
 Mann said the quiz lets students **earn money while preparing for competitive exams**, and increases their knowledge of Punjab. He asked parents and teachers in schools and colleges to encourage students to register in large numbers, and said the competition would be transparent. In a post on X he framed education as central to Punjab's progress.
 
 The Aam Aadmi Party's Punjab unit promoted the launch with the line "Celebrate Punjab, Punjabi and Punjabiyat while winning big!"
-
-```photo
-{"n":1,"subject":"Punjab Vidhan Sabha","caption":"The Punjab Vidhan Sabha in Chandigarh, where the state Assembly elected in 2022 completes its term early next year.","alt":"The Punjab Vidhan Sabha building in Chandigarh"}
-```
 
 ## The election backdrop
 
