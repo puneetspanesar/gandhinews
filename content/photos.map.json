@@ -49876,6 +49876,18 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-nehru-birth-anniversary-children-day-modi-rajnath-stalin-tri-1280.jpg",
+   "src800": "/photos/t-nehru-birth-anniversary-children-day-modi-rajnath-stalin-tri-640.jpg",
+   "cutout": true,
+   "with": [
+    "chennai-rain-schools-shut-four-districts-low-pressure",
+    "president-appoints-governors-six-states-keralam-tamil-nadu"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7c3c3e7e7d181",
+   "credit": "Photos: Government of India / Wikimedia Commons; L.vivian.richard; Bnarayan22 / Wikimedia Commons"
+  }
  }
 }
