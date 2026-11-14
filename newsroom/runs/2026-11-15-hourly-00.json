@@ -1,0 +1,24 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-15T00:04:42+05:30",
+ "end": "2026-11-15T00:32:59+05:30",
+ "summary": "4 stories: Modi Gadchiroli lead, Manipur ambush, Paytm RBI nod, India v NZ fifth ODI",
+ "new": [
+  "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+  "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+  "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+  "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "too many business stories at the top; Akvan buried",
+   "done": "refresh_home --drop Mobikwik, Patanjali, Mahanadi IPO and its explainer, October exports; Akvan pinned to slot 2; one business story (Paytm) left at the top"
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
+}

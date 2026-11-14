@@ -65,10 +65,10 @@ verification:
   status: approved
   notes:
     - "The One 97 Communications Regulation 30 filing on BSE could not be opened (client error); the RBI letter's content rests on the filing as described by Business Standard, Free Press Journal and Angel One, which agree on the date, scope and conditions."
-    - "Six-month audit deadline and lapse clause: Angel One, Free Press Journal and Indian Eye; Business Standard does not mention it. Application date of December 31, 2025 from Angel One only."
+    - "Six-month audit deadline and lapse clause: Angel One, Free Press Journal and Indian Eye; Business Standard does not mention it. Application date of December 31, 2025, from Angel One only."
     - "PPBL cancellation April 24, 2026 (Business Standard); Delhi High Court winding up in July 2026 (Free Press Journal only), left out of the text."
     - "Q2 FY27 revenue Rs 2,648 crore and profit about Rs 225 crore from Business Today only; share close Rs 1,939.90 at 3:30 pm on November 13 from Angel One, while Business Today gives a different intraday figure."
-    - "Cyber directions dated November 5, 2026 are as described by Free Press Journal; RBI text not opened."
+    - "Cyber directions dated November 5, 2026, are as described by Free Press Journal; RBI text not opened."
 ---
 
 The Reserve Bank of India on **November 13, 2026** granted Paytm Payments Services Limited an in-principle authorisation to set up and run a payment system for issuing prepaid payment instruments, the category that includes mobile wallets. The company, a wholly owned subsidiary of One 97 Communications, the parent of Paytm, disclosed the letter to the stock exchanges the same day.

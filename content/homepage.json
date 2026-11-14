@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+    "id": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
     "overlay": {
       "kicker": {
-        "en": "Politics / Opposition",
-        "hi": "राजनीति / विपक्ष"
+        "en": "Politics / Prime Minister",
+        "hi": "राजनीति / प्रधानमंत्री"
       },
       "value": {
-        "en": "'Already a done deal'",
-        "hi": "'पहले से तय है'"
+        "en": "246 tribal projects, ₹3,000 crore, on Birsa Munda day",
+        "hi": "बिरसा मुंडा दिवस पर 246 परियोजनाएं, ₹3,000 करोड़"
       },
       "text": {
         "en": "",
@@ -16,32 +16,61 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "delimitation-bill-361-votes-needed-two-thirds-claim",
-      "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
+      "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
     ],
     "live": {
       "title": {
-        "en": "Opposition",
-        "hi": "विपक्ष"
+        "en": "Prime Minister",
+        "hi": "प्रधानमंत्री"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+        "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
         "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
+          "en": "Manipur:",
+          "hi": "मणिपुर:"
         },
         "text": {
-          "en": "Haryana CM Saini says Punjab has decided on a BJP government as party readies Dalit outreach yatra",
-          "hi": "हरियाणा के मुख्यमंत्री सैनी बोले, पंजाब ने भाजपा सरकार चुनने का मन बना लिया; 18 नवंबर से दलित संपर्क यात्रा"
+          "en": "Manipur's Khemchand reviews security after four Nagas killed on Ukhrul highway and a Kuki woman shot in Kangpokpi",
+          "hi": "उखरुल हाईवे पर चार नागा और कांगपोकपी में कुकी महिला की हत्या के बाद मणिपुर के मुख्यमंत्री खेमचंद ने की सुरक्षा समीक्षा"
+        }
+      },
+      {
+        "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "IMD now sees Akvan as a severe cyclone by November 18; Odisha gets orange warnings for November 19 to 21",
+          "hi": "मौसम विभाग: अकवान 18 नवंबर तक भीषण चक्रवात बन सकता है; ओडिशा में 19 से 21 नवंबर के लिए ऑरेंज चेतावनी"
+        }
+      },
+      {
+        "link": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "lead": {
+          "en": "Fintech:",
+          "hi": "फिनटेक:"
+        },
+        "text": {
+          "en": "RBI gives Paytm's payments arm in-principle nod to issue wallets again, final approval still awaited",
+          "hi": "आरबीआई ने पेटीएम की पेमेंट्स इकाई को वॉलेट के लिए सैद्धांतिक मंजूरी दी, अंतिम अनुमति बाकी"
+        }
+      },
+      {
+        "link": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Iyer's India, all out for 89, face a New Zealand side without Matt Henry in Sunday's series finale",
+          "hi": "89 पर ऑलआउट अय्यर की टीम इंडिया रविवार के फ़ाइनल में मैट हेनरी के बिना न्यूज़ीलैंड से भिड़ेगी"
         }
       },
       {
@@ -78,17 +107,6 @@
         }
       },
       {
-        "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "IMD now sees Akvan as a severe cyclone by November 18; Odisha gets orange warnings for November 19 to 21",
-          "hi": "मौसम विभाग: अकवान 18 नवंबर तक भीषण चक्रवात बन सकता है; ओडिशा में 19 से 21 नवंबर के लिए ऑरेंज चेतावनी"
-        }
-      },
-      {
         "link": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "lead": {
           "en": "Karnataka:",
@@ -97,28 +115,6 @@
         "text": {
           "en": "Shivakumar writes to Modi: put Karnataka's 56% SC/ST quota in the Ninth Schedule",
           "hi": "शिवकुमार ने मोदी को लिखा: कर्नाटक के 56% एससी/एसटी कोटे को नौवीं अनुसूची में डालें"
-        }
-      },
-      {
-        "link": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "lead": {
-          "en": "Foreign affairs:",
-          "hi": "विदेश नीति:"
-        },
-        "text": {
-          "en": "Jaishankar says India-US trade deal is in its 'last stretch', with remaining changes 'more at the American end'",
-          "hi": "जयशंकर: अमेरिका से व्यापार समझौता 'आख़िरी चरण' में"
-        }
-      },
-      {
-        "link": "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran's Guards say they destroyed a US radar in Bahrain after Sirik strike; CENTCOM says two drones were shot down",
-          "hi": "ईरान के गार्ड्स का दावा, सिरिक हमले के बाद बहरीन में अमेरिकी रडार तबाह किया; सेंटकॉम बोला, दो ड्रोन मार गिराए"
         }
       }
     ]
@@ -186,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+      "id": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
       "also": []
     },
     "list": [
+      "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+      "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+      "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
       "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-      "nasa-opens-astronaut-applications-december-3-deadline",
-      "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-      "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
+      "nasa-opens-astronaut-applications-december-3-deadline"
     ],
     "also": [
-      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
+      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+      "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
     ]
   },
   "startHere": [
@@ -372,15 +368,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
         "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ],
-      "lead": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
+      "lead": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
     },
     {
       "section": "economy",
-      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
+      "lead": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
       "module": {
         "type": "markets",
         "indicators": [
@@ -398,11 +394,11 @@
     },
     {
       "section": "states",
-      "lead": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+      "lead": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
       "list": [
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
         "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann"
+        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
       ]
     },
     {
@@ -437,19 +433,19 @@
       "section": "science",
       "lead": "nasa-opens-astronaut-applications-december-3-deadline",
       "list": [
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "nadda-who-global-tb-report-2026-india-mortality-38"
       ]
     },
     {
       "section": "sports",
-      "lead": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+      "lead": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
       "list": [
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
         "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+        "u19-asia-cup-final-india-pakistan-preview-november-14"
       ]
     }
   ],
@@ -457,8 +453,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday",
@@ -469,8 +465,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders",
@@ -481,8 +477,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 16",
-        "hi": "16 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
@@ -493,8 +489,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 16",
-        "hi": "16 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
@@ -528,22 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T16:45:27+05:30",
-      "ids": [
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "who-owns-trinamool-election-commission-symbol-dispute-explained",
-        "andhra-local-polls-must-start-with-free-nominations",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
-      ]
-    },
     {
       "at": "2026-11-14T17:14:19+05:30",
       "ids": [
@@ -660,17 +640,28 @@
         "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
       ]
+    },
+    {
+      "at": "2026-11-15T00:29:55+05:30",
+      "ids": [
+        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
     "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-    "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-    "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
+    "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
+    "india-october-exports-record-iitf-goyal-1-trillion-target"
   ]
 }

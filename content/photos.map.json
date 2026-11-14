@@ -51014,7 +51014,19 @@
   "licence": "CC0",
   "alt": "Shreyas Iyer (file photo)",
   "alt_hi": "श्रेयस अय्यर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shreyas_Iyer_Captain.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shreyas_Iyer_Captain.jpg",
+  "treated": {
+   "src": "/photos/t-india-nz-fifth-odi-henry-released-india-89-all-out-series-fi-1280.jpg",
+   "src800": "/photos/t-india-nz-fifth-odi-henry-released-india-89-all-out-series-fi-640.jpg",
+   "cutout": true,
+   "with": [
+    "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview",
+    "villarreal-psg-atletico-bayern-champions-league-tuesday-preview--p2"
+   ],
+   "kind": "photo",
+   "subj": "207e3e383e3e3c",
+   "credit": "Photos: The Tigers Squadron / Wikimedia Commons; Dibyajeet Dash / Wikimedia Commons; Arne Müseler / Wikimedia Commons"
+  }
  },
  "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation": {
   "id": "o-paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
@@ -51027,7 +51039,20 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Vijay Shekhar Sharma (file photo)",
   "alt_hi": "विजय शेखर शर्मा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vijay_Shekhar_Sharma_(2019).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Vijay_Shekhar_Sharma_(2019).jpg",
+  "treated": {
+   "src": "/photos/t-paytm-payments-services-rbi-in-principle-prepaid-wallet-auth-1280.jpg",
+   "src800": "/photos/t-paytm-payments-services-rbi-in-principle-prepaid-wallet-auth-640.jpg",
+   "cutout": false,
+   "with": [
+    "mobikwik-rbi-penalty-9-lakh-ppi-fraud-reporting",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets",
+    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus"
+   ],
+   "kind": "photo",
+   "subj": "1800c3e3e3e3e3",
+   "credit": "Photos: Richter Frank-Jurgen / Wikimedia Commons; Pinakpani / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Gppande / Wikimedia Commons"
+  }
  },
  "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore": {
   "id": "o-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
@@ -51040,7 +51065,20 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3-1280.jpg",
+   "src800": "/photos/t-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3-640.jpg",
+   "cutout": true,
+   "with": [
+    "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
+    "sensex-nifty-close-october-22-crude-110-west-asia",
+    "hcltech-q2-profit-rises-21-raises-revenue-guidance"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7c3c3e7e7d181",
+   "credit": "Photos: Government of India / Wikimedia Commons; Jishnu12684 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Itsbilluid / Wikimedia Commons"
+  }
  },
  "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review": {
   "id": "i-manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
