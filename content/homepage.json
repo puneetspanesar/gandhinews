@@ -18,8 +18,8 @@
     "dataBox": [],
     "relatedBelow": [
       "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-      "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-      "himachal-cabinet-1500-women-300-units-free-power-sukhu"
+      "akvan-track-uncertain-andhra-odisha-imd-saturday",
+      "kaziranga-rongajan-minibus-container-truck-collision-23-dead"
     ],
     "relatedBeside": [
       "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
@@ -53,6 +53,17 @@
         "text": {
           "en": "EU says some countries are trying to undermine the IPCC as a fight over the next climate science report spills into COP31",
           "hi": "यूरोपीय संघ का आरोप, कुछ देश आईपीसीसी को कमज़ोर करना चाहते हैं; अगली जलवायु विज्ञान रिपोर्ट की तारीख़ पर विवाद COP31 तक पहुँचा"
+        }
+      },
+      {
+        "link": "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "India's goods exports hit a record $49.47 billion in October as Goyal opens trade fair",
+          "hi": "अक्टूबर में भारत का वस्तु निर्यात रिकॉर्ड 49.47 अरब डॉलर, गोयल ने खोला व्यापार मेला"
         }
       },
       {
@@ -108,17 +119,6 @@
         "text": {
           "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family",
           "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, हर परिवार को 2 लाख रुपये"
-        }
-      },
-      {
-        "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
-        },
-        "text": {
-          "en": "India and Bangladesh put off consular talks due in Dhaka on November 17 and 18",
-          "hi": "ढाका में 17 और 18 नवंबर को होने वाली भारत-बांग्लादेश कांसुलर वार्ता टली"
         }
       }
     ]
@@ -190,15 +190,15 @@
       "also": []
     },
     "list": [
+      "india-october-exports-record-iitf-goyal-1-trillion-target",
       "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
       "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
       "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
-      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
+      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
     ],
     "also": [
-      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-      "udhayanidhi-stalin-election-petition-madras-high-court"
+      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+      "bank-credit-growth-19-26-fortnight-october-31-deposits-gap"
     ]
   },
   "startHere": [
@@ -392,8 +392,8 @@
       },
       "list": [
         "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey"
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus"
       ]
     },
     {
@@ -402,7 +402,7 @@
       "list": [
         "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
         "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-        "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled"
+        "akvan-track-uncertain-andhra-odisha-imd-saturday"
       ]
     },
     {
@@ -461,22 +461,22 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "u19-asia-cup-final-india-pakistan-preview-november-14"
     },
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
-        "en": "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders",
-        "hi": "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, एनसीपी और शिवसेना नेताओं से मुलाकात"
+        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
+        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
       },
-      "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
     },
     {
       "icon": "calendar-blank",
@@ -489,6 +489,18 @@
         "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
       },
       "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders",
+        "hi": "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, एनसीपी और शिवसेना नेताओं से मुलाकात"
+      },
+      "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
     },
     {
       "icon": "calendar-blank",
@@ -516,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T00:37:41+05:30",
-      "ids": [
-        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
-        "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "mohan-yadav-ladli-behna-42nd-instalment-pichhore-shivpuri",
-        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
-      ]
-    },
     {
       "at": "2026-11-14T03:12:23+05:30",
       "ids": [
@@ -642,14 +637,25 @@
         "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
         "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
       ]
+    },
+    {
+      "at": "2026-11-14T13:04:04+05:30",
+      "ids": [
+        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
+        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-    "rupee-sixth-gain-forex-reserves-fall-726-billion",
-    "akvan-track-uncertain-andhra-odisha-imd-saturday"
-  ]
+  "drop": []
 }
