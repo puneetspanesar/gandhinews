@@ -36,8 +36,8 @@
           "hi": "असम:"
         },
         "text": {
-          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, Modi announces ₹2 lakh each",
-          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, मोदी ने 2-2 लाख रुपये की मदद घोषित की"
+          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family",
+          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, हर परिवार को 2 लाख रुपये"
         }
       },
       {
@@ -49,6 +49,17 @@
         "text": {
           "en": "Bank credit growth quickens to 19.26% in the fortnight to October 31 as deposits lag by 2.5 points",
           "hi": "31 अक्टूबर को खत्म पखवाड़े में बैंक ऋण वृद्धि बढ़कर 19.26%, जमा वृद्धि 2.5 अंक पीछे"
+        }
+      },
+      {
+        "link": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+        "lead": {
+          "en": "Law:",
+          "hi": "कानून:"
+        },
+        "text": {
+          "en": "Himachal Police register FIR against BJP MP Kangana Ranaut over her posts on the Gandhi family",
+          "hi": "गांधी परिवार पर पोस्ट के मामले में भाजपा सांसद कंगना रनौत के खिलाफ हिमाचल पुलिस ने दर्ज की एफआईआर"
         }
       },
       {
@@ -96,25 +107,14 @@
         }
       },
       {
-        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "link": "udhayanidhi-stalin-election-petition-madras-high-court",
         "lead": {
-          "en": "Foreign Affairs:",
-          "hi": "विदेश मामले:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
-          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
-        }
-      },
-      {
-        "link": "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
-        },
-        "text": {
-          "en": "Priyanka Gandhi says Opposition not told of special Session as Centre eyes November 24 or 25 for delimitation Bill",
-          "hi": "प्रियंका गांधी बोलीं, विशेष सत्र की विपक्ष को खबर नहीं; परिसीमन विधेयक के लिए 24 या 25 नवंबर पर नजर"
+          "en": "Madras High Court refuses to throw out election petition against Udhayanidhi Stalin",
+          "hi": "मद्रास हाईकोर्ट ने उदयनिधि स्टालिन के खिलाफ चुनाव याचिका खारिज करने से इनकार किया"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
+      "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
       "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
       "u19-asia-cup-final-india-pakistan-preview-november-14",
       "akvan-track-uncertain-andhra-odisha-imd-saturday",
-      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-      "mann-lahore-world-punjabi-conference-mea-national-policy"
+      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
     ],
     "also": [
-      "priyanka-special-session-delimitation-not-informed-nov-24-25",
-      "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "udhayanidhi-stalin-election-petition-madras-high-court",
+      "revanth-bharat-summit-visas-modi-hyderabad"
     ]
   },
   "startHere": [
@@ -525,20 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-13T21:20:03+05:30",
-      "ids": [
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "arun-pocso-chargesheet-veeramani",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
-      ]
-    },
-    {
       "at": "2026-11-13T22:48:55+05:30",
       "ids": [
         "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
@@ -643,6 +629,20 @@
         "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "mann-lahore-world-punjabi-conference-mea-national-policy",
         "priyanka-special-session-delimitation-not-informed-nov-24-25"
+      ]
+    },
+    {
+      "at": "2026-11-14T09:01:39+05:30",
+      "ids": [
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+        "udhayanidhi-stalin-election-petition-madras-high-court"
       ]
     }
   ],
