@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+    "id": "akvan-track-uncertain-andhra-odisha-imd-saturday",
     "overlay": {
       "kicker": {
         "en": "States / Weather",
         "hi": "राज्य / मौसम"
       },
       "value": {
-        "en": "Cyclone due Nov 16, Odisha on alert",
-        "hi": "16 नवंबर को चक्रवात, ओडिशा अलर्ट पर"
+        "en": "Akvan track open, Odisha on alert",
+        "hi": "अकवान की दिशा तय नहीं, ओडिशा अलर्ट पर"
       },
       "text": {
         "en": "",
@@ -17,12 +17,12 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-      "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
-      "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained"
+      "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+      "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+      "two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace"
     ],
     "relatedBeside": [
-      "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus"
+      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
     ],
     "live": {
       "title": {
@@ -34,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+        "link": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
         "lead": {
-          "en": "External sector:",
-          "hi": "विदेश व्यापार:"
+          "en": "Culture:",
+          "hi": "संस्कृति:"
         },
         "text": {
-          "en": "India's current account deficit widens to $25.8 billion in April-September as bank deposits from abroad lift the balance of payments to a $66.8 billion surplus",
-          "hi": "अप्रैल-सितंबर में चालू खाता घाटा बढ़कर 25.8 अरब डॉलर, विदेश से बैंक जमा के दम पर भुगतान संतुलन 66.8 अरब डॉलर के अधिशेष में"
+          "en": "Janpath's National Museum will stay open, Shekhawat says, as the new Yuge Yugeen museum plan takes shape",
+          "hi": "जनपथ का राष्ट्रीय संग्रहालय बना रहेगा, शेखावत ने कहा; नए 'युगे युगीन भारत' संग्रहालय की रूपरेखा साफ"
         }
       },
       {
-        "link": "udhayanidhi-stalin-election-petition-madras-high-court",
+        "link": "u19-asia-cup-final-india-pakistan-preview-november-14",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Madras High Court refuses to throw out election petition against Udhayanidhi Stalin",
-          "hi": "मद्रास हाईकोर्ट ने उदयनिधि स्टालिन के खिलाफ चुनाव याचिका खारिज करने से इनकार किया"
+          "en": "India v Pakistan U19 Asia Cup final: Sehwag's 303 runs against Pakistan's unbeaten run",
+          "hi": "भारत बनाम पाकिस्तान अंडर-19 एशिया कप फाइनल: सहवाग के 303 रन और पाकिस्तान का अजेय सफर"
         }
       },
       {
-        "link": "revanth-bharat-summit-visas-modi-hyderabad",
+        "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "lead": {
-          "en": "Telangana:",
-          "hi": "तेलंगाना:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Revanth Reddy accuses Centre of blocking foreign guests as Bharat Summit opens in Hyderabad",
-          "hi": "हैदराबाद में भारत समिट शुरू, रेवंत रेड्डी का आरोप: केंद्र ने विदेशी मेहमानों को रोका"
+          "en": "India and Bangladesh put off consular talks due in Dhaka on November 17 and 18",
+          "hi": "ढाका में 17 और 18 नवंबर को होने वाली भारत-बांग्लादेश कांसुलर वार्ता टली"
         }
       },
       {
-        "link": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Foreign Affairs:",
+          "hi": "विदेश मामले:"
         },
         "text": {
-          "en": "Iran tells UN nuclear watchdog inspections cannot resume while Trump threatens it, as the agency says it cannot find the Isfahan enrichment plant",
-          "hi": "ईरान ने संयुक्त राष्ट्र परमाणु एजेंसी से कहा, ट्रंप की धमकियों के बीच निरीक्षण बहाल नहीं हो सकता; एजेंसी इस्फहान संवर्धन संयंत्र का ठिकाना भी नहीं जानती"
+          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
+          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
         }
       },
       {
-        "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+        "link": "priyanka-special-session-delimitation-not-informed-nov-24-25",
         "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
+          "en": "Parliament:",
+          "hi": "संसद:"
         },
         "text": {
-          "en": "Amit Shah to unveil Ajit Pawar statue in Pune as NCP merger talk builds",
-          "hi": "राकांपा विलय की चर्चा के बीच अमित शाह पुणे में अजित पवार की प्रतिमा का अनावरण करेंगे"
+          "en": "Priyanka Gandhi says Opposition not told of special Session as Centre eyes November 24 or 25 for delimitation Bill",
+          "hi": "प्रियंका गांधी बोलीं, विशेष सत्र की विपक्ष को खबर नहीं; परिसीमन विधेयक के लिए 24 या 25 नवंबर पर नजर"
         }
       },
       {
-        "link": "forex-reserves-rise-719-billion-november-6-gold",
+        "link": "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Power:",
+          "hi": "बिजली:"
         },
         "text": {
-          "en": "Forex reserves rise $2.49 billion to $719.55 billion, ending eight weeks of falls, as gold does the lifting",
-          "hi": "विदेशी मुद्रा भंडार 2.49 अरब डॉलर बढ़कर 719.55 अरब डॉलर, आठ हफ्तों की गिरावट थमी, सोने ने दिया सहारा"
+          "en": "CAG begins first integrated audit of 39 state power discoms, with a 10,000-consumer survey",
+          "hi": "कैग ने 39 राज्य बिजली वितरण कंपनियों का पहला समेकित ऑडिट शुरू किया, 10,000 उपभोक्ताओं का सर्वे भी"
         }
       },
       {
-        "link": "nadda-who-global-tb-report-2026-india-mortality-38",
+        "link": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Awards:",
+          "hi": "पुरस्कार:"
         },
         "text": {
-          "en": "India's TB deaths down 38% since 2015, health ministry says, against WHO's global 35%; Nadda hails result",
-          "hi": "2015 से भारत में टीबी से मौतें 38% घटीं, स्वास्थ्य मंत्रालय का दावा; डब्ल्यूएचओ के अनुसार वैश्विक गिरावट 35%, नड्डा ने सराहा"
+          "en": "President Murmu presents National Sports Awards 2025, Divya Deshmukh and Tejaswin Shankar among Arjuna winners",
+          "hi": "राष्ट्रपति मुर्मू ने राष्ट्रीय खेल पुरस्कार 2025 प्रदान किए, अर्जुन पुरस्कार पाने वालों में दिव्या देशमुख और तेजस्विन शंकर"
         }
       },
       {
-        "link": "arun-pocso-chargesheet-veeramani",
+        "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Former Chennai police commissioner A Arun named accused in Veeramani POCSO case, with six other officers",
-          "hi": "चेन्नई के पूर्व पुलिस आयुक्त ए अरुण वीरमणि पॉक्सो मामले में आरोपी, छह और अफसर भी नामजद"
+          "en": "Jitendra Singh meets Italy's research minister in Rome, Trieste labs next",
+          "hi": "जितेंद्र सिंह की रोम में इटली की शोध मंत्री से मुलाकात, अब त्रिएस्ते की प्रयोगशालाएं"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "udhayanidhi-stalin-election-petition-madras-high-court",
+      "id": "u19-asia-cup-final-india-pakistan-preview-november-14",
       "also": []
     },
     "list": [
-      "revanth-bharat-summit-visas-modi-hyderabad",
-      "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-      "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-      "forex-reserves-rise-719-billion-november-6-gold",
-      "nadda-who-global-tb-report-2026-india-mortality-38"
+      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+      "mann-lahore-world-punjabi-conference-mea-national-policy",
+      "priyanka-special-session-delimitation-not-informed-nov-24-25",
+      "cag-first-integrated-audit-39-discoms-28-officers-survey",
+      "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
     ],
     "also": [
-      "arun-pocso-chargesheet-veeramani",
-      "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+      "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+      "govt-probes-website-blocks-forged-court-orders-129-betting-sites"
     ]
   },
   "startHere": [
@@ -391,14 +391,14 @@
         ]
       },
       "list": [
-        "forex-reserves-rise-719-billion-november-6-gold",
         "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited"
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
       "section": "states",
-      "lead": "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+      "lead": "akvan-track-uncertain-andhra-odisha-imd-saturday",
       "list": [
         "himachal-cabinet-1500-women-300-units-free-power-sukhu",
         "revanth-bharat-summit-visas-modi-hyderabad",
@@ -407,11 +407,11 @@
     },
     {
       "section": "policy",
-      "lead": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+      "lead": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
       "list": [
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
       ]
     },
     {
@@ -426,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+      "lead": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
       "list": [
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends",
+        "mastung-kanak-camp-truck-blast-police-toll-disputed"
       ]
     },
     {
@@ -444,28 +444,16 @@
     },
     {
       "section": "sports",
-      "lead": "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+      "lead": "u19-asia-cup-final-india-pakistan-preview-november-14",
       "list": [
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
         "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled",
-        "pakistan-57-for-1-lead-45-rain-bad-light-end-day-four-rawalpindi"
+        "india-a-women-squads-england-a-shreyanka-patil-recalled"
       ]
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
-        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
-      },
-      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -481,6 +469,18 @@
     {
       "icon": "calendar-blank",
       "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
+        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
+      },
+      "link": "u19-asia-cup-final-india-pakistan-preview-november-14"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -489,6 +489,18 @@
         "hi": "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, एनसीपी और शिवसेना नेताओं से मुलाकात"
       },
       "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 16",
+        "hi": "16 नवंबर"
+      },
+      "text": {
+        "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
+      },
+      "link": "akvan-track-uncertain-andhra-odisha-imd-saturday"
     },
     {
       "icon": "calendar-blank",
@@ -513,35 +525,9 @@
         "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
       },
       "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
-      },
-      "text": {
-        "en": "IPL 2027 retention deadline, after Hardik Pandya and Arshdeep Singh swapped teams",
-        "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
-      },
-      "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T17:51:46+05:30",
-      "ids": [
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "arun-pocso-chargesheet-veeramani",
-        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "rahul-gandhi-phone-tapped-modi-debate-challenge-foreign-powers",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
-      ]
-    },
     {
       "at": "2026-11-13T18:43:04+05:30",
       "ids": [
@@ -648,8 +634,33 @@
         "nadda-who-global-tb-report-2026-india-mortality-38",
         "arun-pocso-chargesheet-veeramani"
       ]
+    },
+    {
+      "at": "2026-11-14T06:45:16+05:30",
+      "ids": [
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
+        "two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace",
+        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+        "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+    "forex-reserves-rise-719-billion-november-6-gold",
+    "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
+    "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
+    "bbmb-power-sharing-explained-himachal-share-supreme-court",
+    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+    "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
+  ]
 }

@@ -1,0 +1,18 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-14T06:04:33+05:30",
+ "end": "2026-11-14T06:48:24+05:30",
+ "summary": "Likely Cyclone Akvan lead, Bangladesh consular talks, Janpath museum, U19 final preview",
+ "new": [
+  "akvan-track-uncertain-andhra-odisha-imd-saturday",
+  "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+  "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+  "u19-asia-cup-final-india-pakistan-preview-november-14"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "akvan-track-uncertain-andhra-odisha-imd-saturday"
+}

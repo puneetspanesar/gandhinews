@@ -49641,20 +49641,45 @@
   "licence": "GODL-India",
   "alt": "Randhir Jaiswal (file photo)",
   "alt_hi": "रणधीर जायसवाल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Randhir_Jaiswal_Indian_Foreign_Service_Diplomat_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Randhir_Jaiswal_Indian_Foreign_Service_Diplomat_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-bangladesh-india-consular-dialogue-postponed-jaiswal-structu-1280.jpg",
+   "src800": "/photos/t-bangladesh-india-consular-dialogue-postponed-jaiswal-structu-640.jpg",
+   "cutout": true,
+   "with": [
+    "himanta-sarma-30-infiltrators-stopped-assam-border",
+    "bangladesh-per-capita-gdp-overtakes-india-imf-2026"
+   ],
+   "kind": "photo",
+   "subj": "e7c7cffefe811100",
+   "credit": "Photos: Consulate General of India in New York USA, Government of India / Wikimedia Commons; Arupparia / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons"
+  }
  },
  "akvan-track-uncertain-andhra-odisha-imd-saturday": {
   "id": "o-akvan-track-uncertain-andhra-odisha-imd-saturday",
   "src": "/photos/o-akvan-track-uncertain-andhra-odisha-imd-saturday-1280.jpg",
   "src800": "/photos/o-akvan-track-uncertain-andhra-odisha-imd-saturday-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1080,
-  "credit": "Photo: Odisha State Legislative Assembly / Wikimedia Commons",
+  "height": 854,
+  "srcWidth": 4496,
+  "credit": "Photo: Bikash Ojha / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "Mohan Charan Majhi (file photo)",
-  "alt_hi": "मोहन चरण माझी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(new_image).jpg"
+  "alt": "Trees and power poles brought down by Cyclone Fani in Odisha, May 2019 (file photo)",
+  "alt_hi": "ओडिशा में चक्रवात फानी से गिरे पेड़ और बिजली के खंभे, मई 2019 (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_3.jpg",
+  "treated": {
+   "src": "/photos/t-akvan-track-uncertain-andhra-odisha-imd-saturday-1280.jpg",
+   "src800": "/photos/t-akvan-track-uncertain-andhra-odisha-imd-saturday-640.jpg",
+   "cutout": false,
+   "with": [
+    "iom-south-asia-40-million-climate-displacement",
+    "bangladesh-per-capita-gdp-overtakes-india-imf-2026",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffffff7a00001820",
+   "credit": "Photos: Bikash Ojha / Wikimedia Commons; Nahid.rajbd / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
+  }
  },
  "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027": {
   "id": "o-shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
@@ -49667,7 +49692,16 @@
   "licence": "GODL-India",
   "alt": "Gajendra Singh Shekhawat (file photo)",
   "alt_hi": "गजेंद्र सिंह शेखावत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Gajendra_Singh_Shekhawat.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Gajendra_Singh_Shekhawat.jpg",
+  "treated": {
+   "src": "/photos/t-shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-f-1280.jpg",
+   "src800": "/photos/t-shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-f-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffffe3c3e7e78000",
+   "credit": "Photo: Ministry of Tourism / Wikimedia Commons"
+  }
  },
  "u19-asia-cup-final-india-pakistan-preview-november-14": {
   "id": "i-u19-asia-cup-final-india-pakistan-preview-november-14",
@@ -49678,10 +49712,10 @@
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
-  "alt": "Gandhi News graphic: India meet unbeaten Pakistan at Al Amerat",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अजेय पाकिस्तान से अल अमेरात में भारत की भिड़ंत",
+  "alt": "Gandhi News graphic: Sehwag's 303 runs carry India into the final against unbeaten Pakistan",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सहवाग के 303 रन के दम पर फाइनल में भारत, सामने अजेय पाकिस्तान",
   "page": null,
-  "ihash": "caf3153ad845",
+  "ihash": "9c64e26d8da7",
   "byLang": {
    "hi": {
     "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-3x2-1280.jpg",

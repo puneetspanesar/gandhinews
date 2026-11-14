@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Cyclone Akvan's track still open: Andhra rain possible on November 19, Odisha on alert"
+title: "Likely Cyclone Akvan's track still open: Andhra rain possible on November 19, Odisha on alert"
 standfirst: "The Bay of Bengal low is due to become a well-marked low on Saturday and a depression on Sunday. The IMD has named no landfall, forecasters see Andhra rain on November 19, and Bangladesh remains a possible target."
 published: 2026-11-14T06:08:51+05:30
 location: Bhubaneswar

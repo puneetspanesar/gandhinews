@@ -96,9 +96,9 @@ Neither government has said which side first asked for the delay. Our earlier re
 
 ## A strained year
 
-Hasina, 78, fled Dhaka on August 5, 2024 after a student-led uprising and has lived in India since. A Dhaka tribunal sentenced her to death in absentia in November 2025. Dhaka has asked India to extradite her repeatedly since December 2024.
+Hasina, 79, fled Dhaka on August 5, 2024, after a student-led uprising and has lived in India since. A Dhaka tribunal sentenced her to death in absentia in November 2025. Dhaka has asked India to extradite her repeatedly since December 2024.
 
-Ties tightened further after a virtual media interaction she gave in New Delhi on August 5 this year. India said it neither played a part in the event nor endorsed her comments; Bangladesh's foreign ministry said it was **"outraged"** that it was allowed despite Dhaka's concerns.
+Ties were strained further after a virtual media interaction she gave in New Delhi on August 5 this year. India said it neither played a part in the event nor endorsed her comments; Bangladesh's foreign ministry said it was **"outraged"** that it was allowed despite Dhaka's concerns.
 
 Prime Minister Tarique Rahman, whose BNP won the February elections, was invited to make a bilateral visit to India and to join the outreach session of the BRICS summit in New Delhi in September. He did not attend the summit, and there is no word on when he might come.
 

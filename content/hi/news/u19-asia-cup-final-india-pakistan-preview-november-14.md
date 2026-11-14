@@ -32,7 +32,7 @@ seo:
   description: "भारत अंडर-19 और पाकिस्तान अंडर-19 का एशिया कप फाइनल 14 नवंबर 2026 को सुबह 10:30 बजे अल अमेरात, ओमान में। फॉर्म, प्रमुख खिलाड़ी और दोनों टीमों का रिकॉर्ड।"
 infographic:
   kicker: "अंडर-19 एशिया कप फाइनल"
-  headline: "अजेय पाकिस्तान से अल अमेरात में भारत की भिड़ंत"
+  headline: "सहवाग के 303 रन के दम पर फाइनल में भारत, सामने अजेय पाकिस्तान"
   dek: "पहली गेंद 14 नवंबर को सुबह 10:30 बजे; ग्रुप मैच पाकिस्तान ने तीन विकेट से जीता था"
   motif: cricket
   stats:
@@ -76,16 +76,11 @@ verification:
     - "The India XI is a predicted one from one preview and is written as such. Pakistan's group result against Nepal was not found; the story says only that they are unbeaten. Broadcast details were not available in any opened source, so none are given. Toss time for the final not found."
     - "Head-to-head: 13 Asia Cup meetings (India 9, Pakistan 3, one no result) before November 8 per our earlier preview; the story adds the November 8 result by our own count, 14 meetings, India 9, Pakistan 4. Sehwag's quote is from the CricTracker report after the UAE game; Raichandani's quote from September 7 is from our earlier story."
     - "Picture needed: Aaryavir Sehwag and Lakshya Raichandani, no photo in the library or quick_photo; infographic is the fallback."
-verification:
-  status: approved
-  notes:
-    - "See the English file: no ACC or BCCI primary page could be opened; written from ANI, Khel Now and News Mill previews, the CricTracker report and our own match stories."
-    - "Picture needed: Aaryavir Sehwag and Lakshya Raichandani; infographic is the fallback."
 ---
 
 भारत और पाकिस्तान के बीच पुरुष अंडर-19 एशिया कप का फाइनल ओमान के अल अमेरात में **शनिवार 14 नवंबर को भारतीय समय के अनुसार सुबह 10:30 बजे** शुरू होगा (स्थानीय समय सुबह 9:00 बजे)। एक हफ्ते में दोनों टीमों का यह दूसरा मुकाबला है, क्योंकि 8 नवंबर को ग्रुप ए में पाकिस्तान ने भारत को तीन विकेट से हराया था, और यह पिछले साल के फाइनल की भी वापसी है।
 
-पाकिस्तान गत चैंपियन है और टूर्नामेंट में **एक भी मैच नहीं हारा** है। भारत सिर्फ एक बार हारा, पाकिस्तान से, और उसके बाद अपने बाकी तीनों मैच जीते: 6 नवंबर को नेपाल पर 10 विकेट से, 10 नवंबर को यूएई पर 70 रन से और 12 नवंबर को सेमीफाइनल में अफगानिस्तान पर आठ विकेट से।
+पाकिस्तान गत चैंपियन है और टूर्नामेंट में **एक भी मैच नहीं हारा** है। भारत सिर्फ एक बार हारा, पाकिस्तान से, और अपने बाकी तीनों मैच जीते: 6 नवंबर को नेपाल पर 10 विकेट से, 10 नवंबर को यूएई पर 70 रन से और 12 नवंबर को सेमीफाइनल में अफगानिस्तान पर आठ विकेट से।
 
 ## दो सलामी बल्लेबाज, दो गेंदबाज
 

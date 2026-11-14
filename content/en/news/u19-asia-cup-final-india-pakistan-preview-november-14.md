@@ -31,7 +31,7 @@ seo:
   description: "India U19 meet Pakistan U19 in the Asia Cup final at Al Amerat, Oman, at 10:30 am IST on November 14, 2026. Form, key players and the record between the sides."
 infographic:
   kicker: "U19 Asia Cup final"
-  headline: "India meet unbeaten Pakistan at Al Amerat"
+  headline: "Sehwag's 303 runs carry India into the final against unbeaten Pakistan"
   dek: "First ball 10:30 am IST on November 14; Pakistan won the group meeting by three wickets"
   motif: cricket
   stats:
@@ -79,7 +79,7 @@ verification:
 
 India and Pakistan meet in the final of the Men's Under-19 Asia Cup at Al Amerat, Oman, on **Saturday, November 14, with the first ball at 10:30 am IST** (9:00 am local time). It is the second meeting of the two sides in a week, after Pakistan beat India by three wickets in Group A on November 8, and a rematch of last year's final.
 
-Pakistan are the defending champions and have **not lost a match** in the tournament. India have lost once, to Pakistan, and have won each of their three other matches since: by 10 wickets against Nepal on November 6, by 70 runs against the UAE on November 10 and by eight wickets against Afghanistan in the semi-final on November 12.
+Pakistan are the defending champions and have **not lost a match** in the tournament. India have lost once, to Pakistan, and won their other three matches: by 10 wickets against Nepal on November 6, by 70 runs against the UAE on November 10 and by eight wickets against Afghanistan in the semi-final on November 12.
 
 ## Two openers, two bowlers
 

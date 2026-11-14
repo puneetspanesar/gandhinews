@@ -37,7 +37,7 @@ infographic:
   source: "Culture Ministry and Cabinet decisions, 2023 to 2026"
 seo:
   title: "Shekhawat says Janpath National Museum will continue"
-  description: "Culture Minister Shekhawat said on November 13 the National Museum on Janpath will stay as the Rs 3,230 crore Yuge Yugeen Bharat Museum is built from 2027."
+  description: "Culture Minister Shekhawat said on November 13 the National Museum on Janpath will stay as the Rs 3,230 crore Yuge Yugeen Bharat Museum is built in phases from 2026-27, first gallery in 2027."
 sources:
   - title: "Govt's Yuge Yugeen Bharat Museum plan won't affect Janpath's National Museum: Minister Shekhawat"
     publisher: "ThePrint (PTI)"
