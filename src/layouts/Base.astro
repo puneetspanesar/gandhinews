@@ -165,12 +165,26 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       } catch (e) {}
       if (navigator.webdriver || /HeadlessChrome|Playwright|Puppeteer|Claude|Anthropic|GPTBot|bot\b|crawler|spider/i.test(ua) || staff) live = false;
       var choice = null; try { choice = localStorage.getItem('lv-cookies'); } catch (e) {}
+      // Keep where this visit came from (e.g. Google) for the length of the tab session, so a reader who accepts
+      // cookies on their second or third page is still credited to the right source instead of "Direct".
+      // Held only in this browser tab's own session storage; nothing is sent anywhere until the reader accepts.
+      var ref = document.referrer || '', firstRef = '';
+      try {
+        var external = ref && new URL(ref).hostname.replace(/^www\./, '') !== location.hostname.replace(/^www\./, '');
+        if (external && !sessionStorage.getItem('gn-src')) sessionStorage.setItem('gn-src', ref);
+        firstRef = sessionStorage.getItem('gn-src') || '';
+      } catch (e) {}
       window.lvLoadGA = function () {
         if (!live || window.lvGA) return; window.lvGA = true;
         var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
         window.dataLayer = window.dataLayer || [];
         window.gtag = function () { dataLayer.push(arguments); };
-        gtag('js', new Date()); gtag('config', 'G-RX4QDCN88Y');
+        var cfg = {};
+        try {
+          if (!sessionStorage.getItem('gn-ga') && firstRef && firstRef !== ref) cfg.page_referrer = firstRef;
+          sessionStorage.setItem('gn-ga', '1');
+        } catch (e) {}
+        gtag('js', new Date()); gtag('config', 'G-RX4QDCN88Y', cfg);
       };
       if (choice === 'yes') window.lvLoadGA();
     })();
