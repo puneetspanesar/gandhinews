@@ -49629,5 +49629,87 @@
    "subj": "7f3f3f270000043f",
    "credit": "Photos: Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons"
   }
+ },
+ "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms": {
+  "id": "o-bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+  "src": "/photos/o-bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms-1280.jpg",
+  "src800": "/photos/o-bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1023,
+  "credit": "Photo: Consulate General of India in New York USA, Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Randhir Jaiswal (file photo)",
+  "alt_hi": "रणधीर जायसवाल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Randhir_Jaiswal_Indian_Foreign_Service_Diplomat_(cropped).jpg"
+ },
+ "akvan-track-uncertain-andhra-odisha-imd-saturday": {
+  "id": "o-akvan-track-uncertain-andhra-odisha-imd-saturday",
+  "src": "/photos/o-akvan-track-uncertain-andhra-odisha-imd-saturday-1280.jpg",
+  "src800": "/photos/o-akvan-track-uncertain-andhra-odisha-imd-saturday-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1080,
+  "credit": "Photo: Odisha State Legislative Assembly / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Mohan Charan Majhi (file photo)",
+  "alt_hi": "मोहन चरण माझी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(new_image).jpg"
+ },
+ "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027": {
+  "id": "o-shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+  "src": "/photos/o-shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027-1280.jpg",
+  "src800": "/photos/o-shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1144,
+  "credit": "Photo: Ministry of Tourism / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Gajendra Singh Shekhawat (file photo)",
+  "alt_hi": "गजेंद्र सिंह शेखावत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Gajendra_Singh_Shekhawat.jpg"
+ },
+ "u19-asia-cup-final-india-pakistan-preview-november-14": {
+  "id": "i-u19-asia-cup-final-india-pakistan-preview-november-14",
+  "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-en-3x2-1280.jpg",
+  "src800": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India meet unbeaten Pakistan at Al Amerat",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अजेय पाकिस्तान से अल अमेरात में भारत की भिड़ंत",
+  "page": null,
+  "ihash": "caf3153ad845",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-3x2-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-en-t-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-t-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-en-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-india-pakistan-preview-november-14-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Aaryavir Sehwag or India U19 squad; library, quick_photo, finder h1406"
  }
 }
