@@ -1,0 +1,28 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-14T08:04:52+05:30",
+ "end": "2026-11-14T08:48:53+05:30",
+ "summary": "VP CII summit lead, Golaghat crash 26 dead, bank credit 19.26%",
+ "new": [
+  "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+  "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+  "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+   "why": "Main picture is a generic regional office building (RBI Bhubaneswar, Odia signage, overhead wires across the frame) for national RBI data. The previous round recorded this picture as swapped to the RBI tower in Mumbai, but the story sheet still shows the Bhubaneswar office, so that fix did not land.",
+   "done": "in-story Malhotra block deleted (not found); Mumbai RBI tower is blocked by the 48-hour rule (used Nov 12 twice), Malhotra not in the library and the finder's only portraits are 391 px, so the RBI Bhubaneswar office file photo stays as a correct, labelled RBI picture"
+  },
+  {
+   "id": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+   "why": "The Hindi twin does not say the same as the English in the dashcam paragraph. English says the clip shows the minibus 'speeding towards the truck, losing control and skidding into the opposite lane'; Hindi only says it skids into the opposite lane (मिनीबस विपरीत लेन में फिसल जाती है), dropping the s",
+   "done": "Hindi dashcam line now carries the speeding and loss of control, as the editor wrote it; English verification note updated to the NOPHOTO infographic"
+  }
+ ],
+ "breaches": [],
+ "lead": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+}

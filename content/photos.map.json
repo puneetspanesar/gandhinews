@@ -49782,20 +49782,75 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Reserve Bank of India office in Bhubaneswar (file photo)",
   "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg",
+  "treated": {
+   "src": "/photos/t-bank-credit-growth-19-26-fortnight-october-31-deposits-gap-1280.jpg",
+   "src800": "/photos/t-bank-credit-growth-19-26-fortnight-october-31-deposits-gap-640.jpg",
+   "cutout": false,
+   "with": [
+    "retail-inflation-october-2026-6-09-two-year-high",
+    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+    "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4"
+   ],
+   "kind": "photo",
+   "subj": "ffffc30100000000",
+   "credit": "Photos: Subhrasingh / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons; Gppande / Wikimedia Commons; Elroy Serrao / Wikimedia Commons"
+  }
  },
  "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia": {
-  "id": "o-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-  "src": "/photos/o-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-1280.jpg",
-  "src800": "/photos/o-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-640.jpg",
+  "id": "i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+  "src": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-en-3x2-1280.jpg",
+  "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1048,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Himanta Biswa Sarma (file photo)",
-  "alt_hi": "हिमंत बिस्वा सरमा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Himanta_Biswa_Sarma_in_2026.jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 26 dead in NH-715 collision near Kaziranga",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: काजीरंगा के पास एनएच-715 पर टक्कर, 26 की मौत",
+  "page": null,
+  "ihash": "73a75e313bda",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-3x2-1280.jpg",
+    "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-en-t-1280.jpg",
+    "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-t-1280.jpg",
+    "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-en-1280.jpg",
+    "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-1280.jpg",
+    "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Rangajan NH-715 crash or any Assam highway crash; library, quick_photo, finder h1408",
+  "treated": {
+   "src": "/photos/t-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-grati-1280.jpg",
+   "src800": "/photos/t-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-grati-640.jpg",
+   "cutout": true,
+   "with": [
+    "assam-congress-vote-rakshaks-polling-booths-roll-revision",
+    "assam-evictions-638-hectares-golaghat-hojai-nagaon"
+   ],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; Mozzworld / Wikimedia Commons; OmerMarcel / Wikimedia Commons"
+  }
  },
  "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore": {
   "id": "o-vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",

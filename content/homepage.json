@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+    "id": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
     "overlay": {
       "kicker": {
-        "en": "Politics / Law",
-        "hi": "राजनीति / कानून"
+        "en": "Politics / Vice President",
+        "hi": "राजनीति / उपराष्ट्रपति"
       },
       "value": {
-        "en": "FIR over posts on the Gandhi family",
-        "hi": "गांधी परिवार पर पोस्ट, एफआईआर दर्ज"
+        "en": "VP at CII summit: turn pledges into outcomes",
+        "hi": "उपराष्ट्रपति: निवेश के वादे नतीजों में बदलें"
       },
       "text": {
         "en": "",
@@ -18,17 +18,39 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
+      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
     ],
     "live": {
       "title": {
-        "en": "Law",
-        "hi": "कानून"
+        "en": "Vice President",
+        "hi": "उपराष्ट्रपति"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "lead": {
+          "en": "Assam:",
+          "hi": "असम:"
+        },
+        "text": {
+          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, Modi announces ₹2 lakh each",
+          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, मोदी ने 2-2 लाख रुपये की मदद घोषित की"
+        }
+      },
+      {
+        "link": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "lead": {
+          "en": "Banking:",
+          "hi": "बैंकिंग:"
+        },
+        "text": {
+          "en": "Bank credit growth quickens to 19.26% in the fortnight to October 31 as deposits lag by 2.5 points",
+          "hi": "31 अक्टूबर को खत्म पखवाड़े में बैंक ऋण वृद्धि बढ़कर 19.26%, जमा वृद्धि 2.5 अंक पीछे"
+        }
+      },
       {
         "link": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
         "lead": {
@@ -52,6 +74,17 @@
         }
       },
       {
+        "link": "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Likely Cyclone Akvan's track still open: Andhra rain possible on November 19, Odisha on alert",
+          "hi": "संभावित चक्रवात अकवान की दिशा अभी तय नहीं: 19 नवंबर को आंध्र में बारिश संभव, ओडिशा अलर्ट पर"
+        }
+      },
+      {
         "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "lead": {
           "en": "Bangladesh:",
@@ -63,58 +96,25 @@
         }
       },
       {
-        "link": "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
         "lead": {
-          "en": "External sector:",
-          "hi": "विदेश व्यापार:"
+          "en": "Foreign Affairs:",
+          "hi": "विदेश मामले:"
         },
         "text": {
-          "en": "India's current account deficit widens to $25.8 billion in April-September as bank deposits from abroad lift the balance of payments to a $66.8 billion surplus",
-          "hi": "अप्रैल-सितंबर में चालू खाता घाटा बढ़कर 25.8 अरब डॉलर, विदेश से बैंक जमा के दम पर भुगतान संतुलन 66.8 अरब डॉलर के अधिशेष में"
+          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
+          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
         }
       },
       {
-        "link": "udhayanidhi-stalin-election-petition-madras-high-court",
+        "link": "priyanka-special-session-delimitation-not-informed-nov-24-25",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Parliament:",
+          "hi": "संसद:"
         },
         "text": {
-          "en": "Madras High Court refuses to throw out election petition against Udhayanidhi Stalin",
-          "hi": "मद्रास हाईकोर्ट ने उदयनिधि स्टालिन के खिलाफ चुनाव याचिका खारिज करने से इनकार किया"
-        }
-      },
-      {
-        "link": "revanth-bharat-summit-visas-modi-hyderabad",
-        "lead": {
-          "en": "Telangana:",
-          "hi": "तेलंगाना:"
-        },
-        "text": {
-          "en": "Revanth Reddy accuses Centre of blocking foreign guests as Bharat Summit opens in Hyderabad",
-          "hi": "हैदराबाद में भारत समिट शुरू, रेवंत रेड्डी का आरोप: केंद्र ने विदेशी मेहमानों को रोका"
-        }
-      },
-      {
-        "link": "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran tells UN nuclear watchdog inspections cannot resume while Trump threatens it, as the agency says it cannot find the Isfahan enrichment plant",
-          "hi": "ईरान ने संयुक्त राष्ट्र परमाणु एजेंसी से कहा, ट्रंप की धमकियों के बीच निरीक्षण बहाल नहीं हो सकता; एजेंसी इस्फहान संवर्धन संयंत्र का ठिकाना भी नहीं जानती"
-        }
-      },
-      {
-        "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Amit Shah to unveil Ajit Pawar statue in Pune as NCP merger talk builds",
-          "hi": "राकांपा विलय की चर्चा के बीच अमित शाह पुणे में अजित पवार की प्रतिमा का अनावरण करेंगे"
+          "en": "Priyanka Gandhi says Opposition not told of special Session as Centre eyes November 24 or 25 for delimitation Bill",
+          "hi": "प्रियंका गांधी बोलीं, विशेष सत्र की विपक्ष को खबर नहीं; परिसीमन विधेयक के लिए 24 या 25 नवंबर पर नजर"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "u19-asia-cup-final-india-pakistan-preview-november-14",
+      "id": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
       "also": []
     },
     "list": [
+      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+      "u19-asia-cup-final-india-pakistan-preview-november-14",
+      "akvan-track-uncertain-andhra-odisha-imd-saturday",
       "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-      "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-      "udhayanidhi-stalin-election-petition-madras-high-court",
-      "revanth-bharat-summit-visas-modi-hyderabad",
-      "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg"
+      "mann-lahore-world-punjabi-conference-mea-national-policy"
     ],
     "also": [
-      "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-      "kaziranga-rongajan-minibus-container-truck-collision-23-dead"
+      "priyanka-special-session-delimitation-not-informed-nov-24-25",
+      "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
     ]
   },
   "startHere": [
@@ -368,15 +368,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
         "udhayanidhi-stalin-election-petition-madras-high-court",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "mann-lahore-world-punjabi-conference-mea-national-policy"
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
       ],
-      "lead": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint"
+      "lead": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
     },
     {
       "section": "economy",
-      "lead": "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+      "lead": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
       "module": {
         "type": "markets",
         "indicators": [
@@ -394,11 +394,11 @@
     },
     {
       "section": "states",
-      "lead": "akvan-track-uncertain-andhra-odisha-imd-saturday",
+      "lead": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
       "list": [
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
         "himachal-cabinet-1500-women-300-units-free-power-sukhu",
-        "revanth-bharat-summit-visas-modi-hyderabad",
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead"
+        "revanth-bharat-summit-visas-modi-hyderabad"
       ]
     },
     {
@@ -426,7 +426,7 @@
       "list": [
         "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
         "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
       ]
     },
     {
@@ -524,23 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T20:46:13+05:30",
-      "ids": [
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "delimitation-bill-361-votes-needed-two-thirds-claim",
-        "goa-st-seat-reservation-explained-supreme-court",
-        "special-session-of-parliament-explained-shah-offer-cec-removal",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "arun-pocso-chargesheet-veeramani",
-        "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
-      ]
-    },
     {
       "at": "2026-11-13T21:20:03+05:30",
       "ids": [
@@ -647,13 +630,27 @@
         "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
         "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
       ]
+    },
+    {
+      "at": "2026-11-14T08:44:15+05:30",
+      "ids": [
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+        "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "priyanka-special-session-delimitation-not-informed-nov-24-25"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+    "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
     "forex-reserves-rise-719-billion-november-6-gold",
-    "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech",
-    "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled"
   ]
 }

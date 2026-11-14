@@ -57,7 +57,8 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "PIB release posted 6:13 pm on November 13. Final tally (303 MoUs, 9,88,957 crore, 3,48,309 jobs) from the CM per UNI/IANS; day-one tally 88 agreements 5.84 lakh crore from The Week. Opening-day target (141 MoUs and 30 GOs, 12.14 lakh crore) is from our earlier story, which is held, so not linked. Counts not like-for-like. No PIB photo of the event found; library portrait used."
+  notes:
+    - "PIB release posted 6:13 pm on November 13. Final tally (303 MoUs, 9,88,957 crore, 3,48,309 jobs) from the CM per UNI/IANS; day-one tally 88 agreements 5.84 lakh crore from The Week. Opening-day target (141 MoUs and 30 GOs, 12.14 lakh crore) is from our earlier story, which is held, so not linked. Counts not like-for-like. No PIB photo of the event found; library portrait used."
 ---
 
 Vice President **C P Radhakrishnan** on Friday, November 13, told industry and government to **turn investment commitments into concrete results**, as he addressed the closing session of the 31st CII Partnership Summit in Visakhapatnam. He praised Andhra Pradesh's growth under Chief Minister N Chandrababu Naidu and said India wants to shape the emerging global economic order, not only take part in it.
@@ -78,10 +79,6 @@ On Atmanirbhar Bharat, he said the idea should not be read as turning inward. It
 
 Building a developed India, he said, cannot be left to the government alone. It needs industry, academia, entrepreneurs, young people and international partners, in line with the Prime Minister's call for "Sabka Prayas". He ended by asking all stakeholders to **go beyond dialogue to action**, turn opportunities into achievements and partnership into shared prosperity, and thanked the participating countries, international delegates and industry leaders.
 
-```photo
-{"n":1,"subject":"N. Chandrababu Naidu","caption":"Andhra Pradesh Chief Minister N Chandrababu Naidu, host of the summit, who announced the final tally.","alt":"Andhra Pradesh Chief Minister N Chandrababu Naidu"}
-```
-
 ## The numbers from the two days
 
 The tally has moved as the summit went on. At the close of the first day, the state said it had secured **88 agreements worth ₹5.84 lakh crore**, potentially creating 1,07,693 jobs: 73 MoUs worth ₹5.35 lakh crore and 15 government orders worth ₹49,242 crore. The biggest single pledge was Reliance Industries' ₹2.73 lakh crore project in East Godavari, with about 5,000 jobs. Greenko Energies committed ₹45,000 crore, Clean Max Enviro Energy Solutions ₹41,000 crore and Megha Engineering and Infrastructure ₹36,000 crore in Krishna district. Kia India announced ₹18,878 crore at Penukonda in Sri Sathya Sai district, adding 2 lakh vehicles of annual capacity.
@@ -93,10 +90,6 @@ Mr Naidu said the state will bring in **real-time industrial clearances through 
 ## Who was there
 
 Governor S Abdul Nazeer, Mr Naidu, Union Ministers Pralhad Joshi and Kinjarapu Ram Mohan Naidu, state ministers Nara Lokesh and T G Bharat, CII Director General Chandrajit Banerjee and CII President-designate Dr Suchitra Ella attended the closing session.
-
-```photo
-{"n":2,"subject":"Pralhad Joshi","caption":"Union Minister Pralhad Joshi, who was present at the valedictory session.","alt":"Union Minister Pralhad Joshi"}
-```
 
 ## Why it matters
 

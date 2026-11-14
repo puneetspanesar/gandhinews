@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Assam"
 topics: []
-title: "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; Modi announces ₹2 lakh each, Himanta to visit site"
+title: "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, Modi announces ₹2 lakh each"
 standfirst: "The minibus, carrying about 45 people from Golaghat towards Nagaon, jumped its lane at Rangajan on Friday afternoon and hit the truck head-on. Twenty others are injured, officials suspect overspeeding, and the district has ordered an inquiry."
 published: 2026-11-14T08:13:29+05:30
 location: Golaghat
@@ -14,10 +14,10 @@ keyPoints:
   - "Officials say the minibus was **speeding in violation of restrictions near Kaziranga National Park** and that its driver lost control."
   - "Prime Minister Narendra Modi announced **₹2 lakh from the PMNRF for each family** of the dead and ₹50,000 for each injured person."
 hero:
-  need: "Assam Chief Minister Himanta Biswa Sarma, who is to visit the crash site on Saturday morning"
-  suggested_source: "Himanta Biswa Sarma"
-  subjects: ["Himanta Biswa Sarma"]
-  alt: "Assam Chief Minister Himanta Biswa Sarma"
+  need: "The crash scene on NH-715 at Rangajan, Golaghat"
+  suggested_source: "road crash NH-715 Golaghat"
+  subjects: ["NH-715 crash, Golaghat"]
+  alt: "Gandhi News graphic: 26 dead in NH-715 collision near Kaziranga"
   overlay:
     value: "26 killed in Kaziranga highway crash"
 infographic:
@@ -57,7 +57,8 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "Toll is 26 per the Kohora Model Hospital doctor late on November 13; earlier reports said 23 and 24. Time of the crash given only as Friday afternoon. Passenger count (about 45) is the SP's estimate. Picture: no event photo found, CM library photo used."
+  notes:
+    - "Toll is 26 per the Kohora Model Hospital doctor late on November 13; earlier reports said 23 and 24. Time of the crash given only as Friday afternoon. Passenger count (about 45) is the SP's estimate. Picture: no event photo found anywhere (finder h1408 empty), NOPHOTO infographic used."
 ---
 
 At least **26 people were killed and 20 injured** on Friday afternoon, November 13, when a minibus travelling from Golaghat to Nagaon collided head-on with a container truck on National Highway 715 at Rangajan, near the Hathikuli Tea Estate and Kaziranga National Park in Assam's Golaghat district. The dead include women and minors, and many of those on board were college students returning from classes.
@@ -72,10 +73,6 @@ A dashcam clip of about two seconds shows the minibus **speeding towards the tru
 
 The toll climbed through the evening. Early accounts spoke of 23 and then 24 dead. Dr Dipam Kumar Barman of Kohora Model Hospital later confirmed that **the number of dead had risen to 26**. A Golaghat executive magistrate had earlier said the toll was "rising very fast", and officials warned it could go up further.
 
-```photo
-{"n":1,"subject":"Narendra Modi","caption":"Prime Minister Narendra Modi announced the PMNRF ex gratia for the families of those killed.","alt":"Prime Minister Narendra Modi"}
-```
-
 ## The injured and the identified dead
 
 Nine ambulances ferried the injured. They were first taken to Kohora Model Hospital, and those in critical condition were referred to the civil hospitals at Bokakhat and Golaghat and to **Jorhat Medical College and Hospital**, where twenty patients were sent for advanced treatment. Assam minister Atul Bora, who is also the Bokakhat MLA, and minister Ranoj Pegu went to the spot to oversee rescue and relief.
@@ -87,10 +84,6 @@ By late Friday night **14 of the dead had been identified**. They include Jyoti 
 Officials say the cause was overspeeding. A senior official said **the bus was running at very high speed, violating restrictions imposed near the park**, and that the driver is believed to have lost control.
 
 The vehicle's record is already part of the inquiry. According to officials, the minibus is registered to a Nagaon owner, was **fined in Jorhat in March for doing 102 kmph**, and has several overspeeding fines in the Kaziranga area, some of them still unpaid. The Golaghat district administration has ordered an inquiry into the speed and into whether the minibus carried more passengers than its permitted seating capacity.
-
-```photo
-{"n":2,"subject":"Kaziranga National Park","caption":"Kaziranga National Park, near which the crash happened; officials say speed restrictions apply on the highway stretch by the park.","alt":"Kaziranga National Park in Assam"}
-```
 
 ## Reactions
 

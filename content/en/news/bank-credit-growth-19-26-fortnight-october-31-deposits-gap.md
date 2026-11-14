@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / Banking"
 topics: [rbi-interest-rates, economy]
 title: "Bank credit growth quickens to 19.26% in the fortnight to October 31 as deposits lag by 2.5 points"
-standfirst: "Loans outstanding reached ₹237.03 lakh crore on the eve of Diwali, the Reserve Bank's data showed, while deposit growth stayed at 16.76%. The widening gap comes as the central bank tightens money."
+standfirst: "Loans outstanding reached ₹237.03 lakh crore in the run-up to Diwali, the Reserve Bank's data showed, while deposit growth stayed at 16.76%. The widening gap comes as the central bank tightens money."
 published: 2026-11-14T08:11:48+05:30
 location: Mumbai
 keyPoints:
@@ -70,10 +70,6 @@ Deposits did not keep pace. They grew **16.76% year on year**, a shade above the
 ## A second reading of the month-end
 
 A separate set of RBI figures, reported the same day for the month-end, put credit growth at **19.54%**, the **fourth straight month-end above 19%**. In that series outstanding credit was ₹231.82 lakh crore, up ₹37.89 lakh crore over the year, while deposits were ₹282.51 lakh crore, up ₹40.75 lakh crore, a growth of 16.86%, slower than the 17.83% of September. The two sets differ in level, and we use the fortnight series for the headline. Both point the same way: lending is growing about 2.5 to 2.7 points faster than deposits.
-
-```photo
-{"n":1,"subject":"Sanjay Malhotra","caption":"RBI Governor Sanjay Malhotra, whose central bank raised the repo rate on October 7 and has been draining surplus cash from the banking system.","alt":"Sanjay Malhotra, Governor of the Reserve Bank of India"}
-```
 
 ## What is driving the borrowing
 
