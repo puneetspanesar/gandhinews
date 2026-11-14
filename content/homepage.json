@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+    "id": "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "States / Tamil Nadu",
+        "hi": "राज्य / तमिलनाडु"
       },
       "value": {
-        "en": "Gujarat: three projects reviewed",
-        "hi": "गुजरात: तीन परियोजनाओं की समीक्षा"
+        "en": "Stalin: all-party meeting on Mekedatu",
+        "hi": "स्टालिन: मेकेदातु पर सर्वदलीय बैठक"
       },
       "text": {
         "en": "",
@@ -16,14 +16,18 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
+      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+      "akvan-track-uncertain-andhra-odisha-imd-saturday"
+    ],
     "relatedBeside": [
       "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
       }
     }
   },
@@ -49,17 +53,6 @@
         "text": {
           "en": "Starship reaches orbit with 26 Starlinks after booster catch is called off, ship catch due early Sunday IST",
           "hi": "स्टारशिप 26 स्टारलिंक के साथ कक्षा में, बूस्टर की कैचिंग रद्द; शिप की कैचिंग रविवार तड़के"
-        }
-      },
-      {
-        "link": "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Stalin asks Vijay for all-party meeting on Mekedatu as Tamil Nadu government vows to stop the dam",
-          "hi": "मेकेदातु: स्टालिन ने विजय से सर्वदलीय बैठक मांगी, तमिलनाडु बोला बांध नहीं बनेगा"
         }
       },
       {
@@ -96,6 +89,28 @@
         }
       },
       {
+        "link": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Pakistan U19 post 336 in Asia Cup final as Kavya Patel takes four; India need 337",
+          "hi": "एशिया कप फाइनल में पाकिस्तान अंडर-19 के 336 रन, काव्य पटेल को चार विकेट; भारत को चाहिए 337"
+        }
+      },
+      {
+        "link": "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Coal India files final papers for Mahanadi Coalfields IPO, a 10% sale of 66.18 crore shares",
+          "hi": "कोल इंडिया ने महानदी कोलफील्ड्स आईपीओ के अंतिम कागज़ात जमा किए, 66.18 करोड़ शेयर यानी 10% की बिक्री"
+        }
+      },
+      {
         "link": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
         "lead": {
           "en": "Climate:",
@@ -104,17 +119,6 @@
         "text": {
           "en": "EU says some countries are trying to undermine the IPCC as a fight over the next climate science report spills into COP31",
           "hi": "यूरोपीय संघ का आरोप, कुछ देश आईपीसीसी को कमज़ोर करना चाहते हैं; अगली जलवायु विज्ञान रिपोर्ट की तारीख़ पर विवाद COP31 तक पहुँचा"
-        }
-      },
-      {
-        "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
-        },
-        "text": {
-          "en": "Lakshya Sen beats Alwi Farhan in three games to reach the Kumamoto Masters final",
-          "hi": "लक्ष्य सेन ने तीन गेम में अलवी फरहान को हराया, कुमामोतो मास्टर्स के फाइनल में"
         }
       }
     ]
@@ -186,15 +190,15 @@
       "also": []
     },
     "list": [
-      "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
       "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
       "microsoft-365-outage-ends-india-indigo-akasa-air-india",
       "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-      "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
+      "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+      "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
     ],
     "also": [
-      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
+      "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+      "india-october-exports-record-iitf-goyal-1-trillion-target"
     ]
   },
   "startHere": [
@@ -387,9 +391,9 @@
         ]
       },
       "list": [
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high"
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap"
       ]
     },
     {
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+      "lead": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
       "list": [
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled"
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
       ]
     }
   ],
@@ -481,10 +485,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday",
-        "hi": "स्टारशिप का शिप 42 रविवार को लगभग 2:47 बजे (भारतीय समय) स्टारबेस लौटेगा, पहली बार शिप को टावर से पकड़ने की कोशिश"
+        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
+        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
       },
-      "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
     },
     {
       "icon": "calendar-blank",
@@ -634,29 +638,23 @@
       ]
     },
     {
-      "at": "2026-11-14T17:14:02+05:30",
+      "at": "2026-11-14T17:14:19+05:30",
       "ids": [
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
+        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
         "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
         "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
         "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
         "microsoft-365-outage-ends-india-indigo-akasa-air-india",
         "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
       ]
     }
   ],
   "critical": [],
-  "drop": [
-    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-    "u19-asia-cup-final-india-pakistan-preview-november-14",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-    "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "india-october-exports-record-iitf-goyal-1-trillion-target",
-    "forex-reserves-rise-719-billion-november-6-gold"
-  ]
+  "drop": []
 }
