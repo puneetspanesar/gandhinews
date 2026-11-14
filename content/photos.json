@@ -52396,16 +52396,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
  },
  {
-  "id": "o-ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-  "articleId": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Prof._Jim_Skea%2C_Chair_of_the_Intergovernmental_Panel_on_Climate_Change_%28IPCC%29%2C_addresses_the_Autumn_Meeting%2C_Dublin%2C_3_October_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: oscepa / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "IPCC chair Jim Skea addresses a meeting in Dublin, October 2024 (file photo)",
-  "alt_hi": "आईपीसीसी अध्यक्ष जिम स्की डबलिन में एक बैठक को संबोधित करते हुए, अक्टूबर 2024 (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prof._Jim_Skea,_Chair_of_the_Intergovernmental_Panel_on_Climate_Change_(IPCC),_addresses_the_Autumn_Meeting,_Dublin,_3_October_2024.jpg"
- },
- {
   "id": "o-kaziranga-nh715-road-rules-editorial",
   "articleId": "kaziranga-nh715-road-rules-editorial",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Xorai_welcome_to_Kaziranga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -52414,5 +52404,25 @@
   "alt": "The road through Kaziranga National Park in Golaghat, Assam (file photo)",
   "alt_hi": "असम के गोलाघाट में काज़ीरंगा राष्ट्रीय उद्यान से गुज़रती सड़क (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Xorai_welcome_to_Kaziranga.jpg"
+ },
+ {
+  "id": "o-ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+  "articleId": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Professor_Jim_Skea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Orso3553 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "IPCC chair Jim Skea (file photo)",
+  "alt_hi": "आईपीसीसी अध्यक्ष जिम स्की (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Professor_Jim_Skea.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/U.S._Trade_Representative_Jamieson_Greer_with_Indian_Minister_of_Commerce_and_Industry_Piyush_Goyal.jpg",
+  "credit": "Photo: Office of the United States Trade Representative / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Trade Representative Jamieson Greer meets Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "अमेरिकी व्यापार प्रतिनिधि जेमीसन ग्रीर और वाणिज्य मंत्री पीयूष गोयल की मुलाकात (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:U.S._Trade_Representative_Jamieson_Greer_with_Indian_Minister_of_Commerce_and_Industry_Piyush_Goyal.jpg",
+  "id": "r-goyal-record-october-exports-90-billion-claim",
+  "articleId": "goyal-record-october-exports-90-billion-claim"
  }
 ]

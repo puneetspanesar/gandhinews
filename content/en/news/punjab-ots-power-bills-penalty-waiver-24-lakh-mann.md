@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "The government notification and PSPCL circular were not found online; story rests on four reports that agree on 24.86 lakh, ₹518 crore, ₹2,516 crore, 25% upfront, 45 days and the March 31, 2026 cut-off."
+    - "The government notification and PSPCL circular were not found online; story rests on four reports that agree on 24.86 lakh, ₹518 crore, ₹2,516 crore, 25% upfront, 45 days and the March 31, 2026, cut-off."
     - "Instalment terms differ: Tribune says up to six equal monthly instalments plus six more months in hardship; ANI says two instalments over a year; Hans India says two six-monthly instalments. Copy says only 'instalments over up to a year' and that the notification fixes the schedule."
     - "Hans India says a notification follows on Saturday; the 45-day window is counted from November 14 by one report, so the end date December 28 is our count and is hedged ('about')."
     - "Principal ₹1,998 crore and average dues about ₹10,100 per household are our arithmetic from ₹2,516 crore and 24.86 lakh, labelled as such."

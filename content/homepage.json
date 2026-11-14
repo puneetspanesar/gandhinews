@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-october-exports-record-iitf-goyal-1-trillion-target",
+    "id": "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
     "overlay": {
       "kicker": {
-        "en": "Economy / Trade",
-        "hi": "अर्थव्यवस्था / व्यापार"
+        "en": "States / Punjab",
+        "hi": "राज्य / पंजाब"
       },
       "value": {
-        "en": "Record $49.47 bn goods exports",
-        "hi": "रिकॉर्ड 49.47 अरब डॉलर निर्यात"
+        "en": "₹518 crore power-bill waiver",
+        "hi": "518 करोड़ का बिजली बिल जुर्माना माफ"
       },
       "text": {
         "en": "",
@@ -17,22 +17,44 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-      "ppf-sukanya-scss-nsc-interest-rates-october-december-2026",
-      "pm-kisan-25th-instalment-date-status-ekyc-explained"
+      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+      "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+      "himachal-cabinet-1500-women-300-units-free-power-sukhu"
     ],
     "relatedBeside": [
-      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
     ],
     "live": {
       "title": {
-        "en": "Trade",
-        "hi": "व्यापार"
+        "en": "Punjab",
+        "hi": "पंजाब"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Coal India files final papers for Mahanadi Coalfields IPO, a 10% sale of 66.18 crore shares",
+          "hi": "कोल इंडिया ने महानदी कोलफील्ड्स आईपीओ के अंतिम कागज़ात जमा किए, 66.18 करोड़ शेयर यानी 10% की बिक्री"
+        }
+      },
+      {
+        "link": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "EU says some countries are trying to undermine the IPCC as a fight over the next climate science report spills into COP31",
+          "hi": "यूरोपीय संघ का आरोप, कुछ देश आईपीसीसी को कमज़ोर करना चाहते हैं; अगली जलवायु विज्ञान रिपोर्ट की तारीख़ पर विवाद COP31 तक पहुँचा"
+        }
+      },
       {
         "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
         "lead": {
@@ -42,28 +64,6 @@
         "text": {
           "en": "Lakshya Sen beats Alwi Farhan in three games to reach the Kumamoto Masters final",
           "hi": "लक्ष्य सेन ने तीन गेम में अलवी फरहान को हराया, कुमामोतो मास्टर्स के फाइनल में"
-        }
-      },
-      {
-        "link": "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
-        },
-        "text": {
-          "en": "Priyanka Gandhi says Opposition not told of special Session as Centre eyes November 24 or 25 for delimitation Bill",
-          "hi": "प्रियंका गांधी बोलीं, विशेष सत्र की विपक्ष को खबर नहीं; परिसीमन विधेयक के लिए 24 या 25 नवंबर पर नजर"
-        }
-      },
-      {
-        "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Amit Shah to unveil Ajit Pawar statue in Pune as NCP merger talk builds",
-          "hi": "राकांपा विलय की चर्चा के बीच अमित शाह पुणे में अजित पवार की प्रतिमा का अनावरण करेंगे"
         }
       },
       {
@@ -78,14 +78,25 @@
         }
       },
       {
-        "link": "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
         "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
+          "en": "Tributes:",
+          "hi": "श्रद्धांजलि:"
         },
         "text": {
-          "en": "Rajasthan announces ₹9,321 crore special package for 87 drought-hit tehsils in 15 districts",
-          "hi": "राजस्थान ने 15 जिलों की 87 सूखा प्रभावित तहसीलों के लिए ₹9,321 करोड़ के विशेष पैकेज की घोषणा की"
+          "en": "Modi, Rajnath Singh and Stalin remember Nehru on his 137th birth anniversary, as India marks Children's Day",
+          "hi": "नेहरू की 137वीं जयंती पर मोदी, राजनाथ सिंह और स्टालिन ने किया स्मरण, देश ने मनाया बाल दिवस"
+        }
+      },
+      {
+        "link": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+        "lead": {
+          "en": "Vice President:",
+          "hi": "उपराष्ट्रपति:"
+        },
+        "text": {
+          "en": "Vice President Radhakrishnan closes CII Partnership Summit in Visakhapatnam: turn pledges into outcomes, India must shape the new order",
+          "hi": "उपराष्ट्रपति राधाकृष्णन ने विशाखापत्तनम में सीआईआई साझेदारी शिखर सम्मेलन का समापन किया: वादों को नतीजों में बदलें, भारत नई व्यवस्था को आकार दे"
         }
       },
       {
@@ -100,25 +111,14 @@
         }
       },
       {
-        "link": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+        "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "lead": {
-          "en": "Culture:",
-          "hi": "संस्कृति:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Janpath's National Museum will stay open, Shekhawat says, as the new Yuge Yugeen museum plan takes shape",
-          "hi": "जनपथ का राष्ट्रीय संग्रहालय बना रहेगा, शेखावत ने कहा; नए 'युगे युगीन भारत' संग्रहालय की रूपरेखा साफ"
-        }
-      },
-      {
-        "link": "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India v Pakistan U19 Asia Cup final: Sehwag's 303 runs against Pakistan's unbeaten run",
-          "hi": "भारत बनाम पाकिस्तान अंडर-19 एशिया कप फाइनल: सहवाग के 303 रन और पाकिस्तान का अजेय सफर"
+          "en": "India and Bangladesh put off consular talks due in Dhaka on November 17 and 18",
+          "hi": "ढाका में 17 और 18 नवंबर को होने वाली भारत-बांग्लादेश कांसुलर वार्ता टली"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "priyanka-special-session-delimitation-not-informed-nov-24-25",
+      "id": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
       "also": []
     },
     "list": [
-      "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
       "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
+      "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
     ],
     "also": [
-      "u19-asia-cup-final-india-pakistan-preview-november-14",
-      "akvan-track-uncertain-andhra-odisha-imd-saturday"
+      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+      "udhayanidhi-stalin-election-petition-madras-high-court"
     ]
   },
   "startHere": [
@@ -275,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "goyal-record-october-exports-90-billion-claim",
       "monsoon-session-unprorogued-record-88-days-ramesh-claim",
-      "nadda-tb-deaths-38-percent-who-report-claim",
-      "delimitation-bill-361-votes-needed-two-thirds-claim"
+      "nadda-tb-deaths-38-percent-who-report-claim"
     ]
   },
   "explained": [
@@ -380,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
+      "lead": "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,18 +391,18 @@
         ]
       },
       "list": [
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
         "forex-reserves-rise-719-billion-november-6-gold",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high"
+        "cag-first-integrated-audit-39-discoms-28-officers-survey"
       ]
     },
     {
       "section": "states",
-      "lead": "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+      "lead": "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
       "list": [
+        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
         "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-        "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "himachal-cabinet-1500-women-300-units-free-power-sukhu"
+        "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled"
       ]
     },
     {
@@ -435,11 +435,11 @@
     },
     {
       "section": "science",
-      "lead": "nadda-who-global-tb-report-2026-india-mortality-38",
+      "lead": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
       "list": [
+        "nadda-who-global-tb-report-2026-india-mortality-38",
         "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "infosys-prize-2026-six-researchers-under-40-100000-each",
-        "global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31"
+        "infosys-prize-2026-six-researchers-under-40-100000-each"
       ]
     },
     {
@@ -465,18 +465,6 @@
         "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
       },
       "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST",
-        "hi": "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
-      },
-      "link": "u19-asia-cup-final-india-pakistan-preview-november-14"
     },
     {
       "icon": "calendar-blank",
@@ -528,20 +516,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T23:29:32+05:30",
-      "ids": [
-        "udhayanidhi-stalin-election-petition-madras-high-court",
-        "revanth-bharat-summit-visas-modi-hyderabad",
-        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "nadda-who-global-tb-report-2026-india-mortality-38"
-      ]
-    },
     {
       "at": "2026-11-14T00:37:41+05:30",
       "ids": [
@@ -651,15 +625,31 @@
         "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
         "u19-asia-cup-final-india-pakistan-preview-november-14"
       ]
+    },
+    {
+      "at": "2026-11-14T12:43:23+05:30",
+      "ids": [
+        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
+        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
+      ]
     }
   ],
   "critical": [],
   "drop": [
     "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
     "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "cag-first-integrated-audit-39-discoms-28-officers-survey",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-    "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
-    "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
+    "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+    "rupee-sixth-gain-forex-reserves-fall-726-billion",
+    "akvan-track-uncertain-andhra-odisha-imd-saturday"
   ]
 }

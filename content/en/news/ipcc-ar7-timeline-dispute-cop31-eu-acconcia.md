@@ -77,10 +77,6 @@ Some negotiators fear that updated findings would put a sharper number on the di
 
 Pierre Friedlingstein, a University of Exeter scientist who has worked on IPCC reports, said policy should rest on the latest science and that certain countries prefer the status quo. UN Secretary-General António Guterres praised the IPCC's "remarkable" work and said he wants the next report published before the next stocktake.
 
-```photo
-{"n":1,"subject":"António Guterres","caption":"UN Secretary-General António Guterres, who wants the IPCC's next report out before the 2028 stocktake.","alt":"UN Secretary-General António Guterres"}
-```
-
 ## How the deadlock built up
 
 The argument is not new. At the IPCC's 61st session in Sofia, which ended on August 2, 2024, delegates were offered an accelerated schedule that would finish all three working group reports by June 2028, a proposal from the panel's leadership that put the working group reports between May and August 2028 with the synthesis in May 2029, and a longer option. **No agreement was reached** and chair Jim Skea moved the decision to later meetings. Saudi Arabia, India and China had objected strongly to the accelerated timetable.

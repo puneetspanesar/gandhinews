@@ -50000,33 +50000,65 @@
   "alt": "Punjab Chief Minister Bhagwant Mann and the Capitol Complex in Chandigarh (file photos)",
   "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान और चंडीगढ़ का कैपिटल कॉम्प्लेक्स (फाइल फोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-punjab-ots-power-bills-penalty-waiver-24-lakh-mann-1280.jpg",
+   "src800": "/photos/t-punjab-ots-power-bills-penalty-waiver-24-lakh-mann-640.jpg",
+   "cutout": false,
+   "with": [
+    "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
+    "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
+    "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed"
+   ],
+   "kind": "photo",
+   "subj": "fff9f0f0f8f0e070",
+   "credit": "Photos: Indian Embassy in Seoul, South Korea / Wikimedia Commons; duncid / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons"
+  }
  },
  "goyal-record-october-exports-90-billion-claim": {
-  "id": "o-goyal-record-october-exports-90-billion-claim",
-  "src": "/photos/o-goyal-record-october-exports-90-billion-claim-1280.jpg",
-  "src800": "/photos/o-goyal-record-october-exports-90-billion-claim-640.jpg",
+  "id": "r-goyal-record-october-exports-90-billion-claim",
+  "src": "/photos/r-goyal-record-october-exports-90-billion-claim-1280.jpg",
+  "src800": "/photos/r-goyal-record-october-exports-90-billion-claim-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 622,
-  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "height": 853,
+  "credit": "Photo: Office of the United States Trade Representative / Wikimedia Commons",
   "licence": "Public domain",
-  "alt": "Piyush Goyal (file photo)",
-  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+  "alt": "US Trade Representative Jamieson Greer meets Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "अमेरिकी व्यापार प्रतिनिधि जेमीसन ग्रीर और वाणिज्य मंत्री पीयूष गोयल की मुलाकात (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:U.S._Trade_Representative_Jamieson_Greer_with_Indian_Minister_of_Commerce_and_Industry_Piyush_Goyal.jpg",
+  "treated": {
+   "src": "/photos/t-goyal-record-october-exports-90-billion-claim-1280.jpg",
+   "src800": "/photos/t-goyal-record-october-exports-90-billion-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffffbefe88888080",
+   "credit": "Photo: Office of the United States Trade Representative / Wikimedia Commons"
+  }
  },
  "ipcc-ar7-timeline-dispute-cop31-eu-acconcia": {
   "id": "o-ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
   "src": "/photos/o-ipcc-ar7-timeline-dispute-cop31-eu-acconcia-1280.jpg",
   "src800": "/photos/o-ipcc-ar7-timeline-dispute-cop31-eu-acconcia-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 5472,
-  "credit": "Photo: oscepa / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "IPCC chair Jim Skea addresses a meeting in Dublin, October 2024 (file photo)",
-  "alt_hi": "आईपीसीसी अध्यक्ष जिम स्की डबलिन में एक बैठक को संबोधित करते हुए, अक्टूबर 2024 (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prof._Jim_Skea,_Chair_of_the_Intergovernmental_Panel_on_Climate_Change_(IPCC),_addresses_the_Autumn_Meeting,_Dublin,_3_October_2024.jpg"
+  "height": 914,
+  "srcWidth": 3900,
+  "credit": "Photo: Orso3553 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "IPCC chair Jim Skea (file photo)",
+  "alt_hi": "आईपीसीसी अध्यक्ष जिम स्की (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Professor_Jim_Skea.jpg",
+  "treated": {
+   "src": "/photos/t-ipcc-ar7-timeline-dispute-cop31-eu-acconcia-1280.jpg",
+   "src800": "/photos/t-ipcc-ar7-timeline-dispute-cop31-eu-acconcia-640.jpg",
+   "cutout": true,
+   "with": [
+    "eu-sanctions-circumvention-firms-india-uae-shadow-fleet"
+   ],
+   "kind": "photo",
+   "subj": "3f7f6f666f0f0500",
+   "credit": "Photos: Orso3553 / Wikimedia Commons; EmDee / Wikimedia Commons"
+  }
  },
  "kaziranga-nh715-road-rules-editorial": {
   "id": "o-kaziranga-nh715-road-rules-editorial",

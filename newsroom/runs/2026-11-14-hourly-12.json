@@ -1,0 +1,20 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-14T12:05:11+05:30",
+ "end": "2026-11-14T12:46:49+05:30",
+ "summary": "Punjab power-bill waiver leads; IPCC AR7 row; Mahanadi IPO; Goyal exports fact check",
+ "new": [
+  "goyal-record-october-exports-90-billion-claim",
+  "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+  "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+  "punjab-ots-power-bills-penalty-waiver-24-lakh-mann"
+ ],
+ "held": [
+  "kaziranga-nh715-road-rules-editorial"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "punjab-ots-power-bills-penalty-waiver-24-lakh-mann"
+}
