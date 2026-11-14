@@ -20,6 +20,16 @@ hero:
   overlay:
     kicker: "Our view"
     value: "A waiver needs a payer"
+infographic:
+  kicker: "Punjab"
+  headline: "₹518 crore of power-bill penalties waived"
+  dek: "A 45-day one-time settlement for domestic consumers with dues up to March 31, 2026"
+  motif: lightning
+  stats:
+    - {icon: users, value: "24.86 lakh", label: "domestic consumers eligible"}
+    - {icon: currency-inr, value: "₹518 cr", label: "penalties and interest waived"}
+    - {icon: calendar, value: "45 days", label: "the scheme stays open"}
+  source: "Punjab government, November 13, 2026"
 related: [punjab-ots-power-bills-penalty-waiver-24-lakh-mann, cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey]
 seo:
   title: "Punjab power bill waiver: who pays the ₹518 crore penalties"
@@ -50,7 +60,7 @@ verification:
     - "Earlier waiver (domestic dues up to December 31, 2021) per the desk's story. Recommendations are the desk's own."
 ---
 
-On Friday, Chief Minister Bhagwant Mann announced a one-time settlement for unpaid household electricity bills in Punjab. Penalties and interest on dues up to March 31, 2026 are waived; a family pays **only the principal**, a quarter of it upfront and the rest in instalments over up to a year. About **24.86 lakh domestic consumers** are eligible, and the state puts the waiver at **₹518 crore**. The window opened Saturday and stays open for 45 days.
+On Friday, Chief Minister Bhagwant Mann announced a one-time settlement for unpaid household electricity bills in Punjab. Penalties and interest on dues up to March 31, 2026, are waived; a family pays **only the principal**, a quarter of it upfront and the rest in instalments over up to a year. About **24.86 lakh domestic consumers** are eligible, and the state puts the waiver at **₹518 crore**. The window opened Saturday and stays open for 45 days.
 
 For a household that stopped paying because the penalty had grown bigger than the bill, this is real relief. By our arithmetic from the government's figures, the average family owes about ₹10,100 and the waiver removes roughly ₹2,080 of it. A connection cut years ago can be restored once the principal is paid. Few would argue that a family should carry a penalty forever.
 

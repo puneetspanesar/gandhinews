@@ -50560,29 +50560,47 @@
   }
  },
  "punjab-power-bill-waiver-must-say-who-pays-the-518-crore": {
-  "id": "r-punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-  "src": "/photos/r-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-1280.jpg",
-  "src800": "/photos/r-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-640.jpg",
+  "id": "i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+  "src": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-en-3x2-1280.jpg",
+  "src800": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Jaypee / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Punjab Chief Minister Bhagwant Mann (file photo)",
-  "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg",
-  "treated": {
-   "src": "/photos/t-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-1280.jpg",
-   "src800": "/photos/t-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-640.jpg",
-   "cutout": true,
-   "with": [
-    "cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey",
-    "cbi-takes-over-jhota-murder-probe-mansa",
-    "mansa-anti-drug-activist-parvinder-jhota-shot-dead"
-   ],
-   "kind": "photo",
-   "subj": "1818181c2cfeff",
-   "credit": "Photos: Jaypee / Wikimedia Commons; Nkb 21 / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
-  }
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: ₹518 crore of power-bill penalties waived",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बिजली बिलों पर 518 करोड़ का जुर्माना माफ",
+  "page": null,
+  "ihash": "a5b29eed8e3f",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-hi-3x2-1280.jpg",
+    "src800": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-en-t-1280.jpg",
+    "src800": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-hi-t-1280.jpg",
+    "src800": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-en-1280.jpg",
+    "src800": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-hi-1280.jpg",
+    "src800": "/photos/i-punjab-power-bill-waiver-must-say-who-pays-the-518-crore-hi-640.jpg"
+   }
+  },
+  "nophoto": "every Bhagwant Mann library portrait used in the last 48 hours (48-hour rule); quick_photo found no PSPCL, meter or Vidhan Sabha photo"
  },
  "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash": {
   "id": "i-kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
@@ -50666,16 +50684,47 @@
   "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_03.jpg"
  },
  "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting": {
-  "id": "r-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-  "src": "/photos/r-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-1280.jpg",
-  "src800": "/photos/r-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-640.jpg",
+  "id": "i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+  "src": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-en-3x2-1280.jpg",
+  "src800": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Reserve Bank of India tower in Mumbai (file photo)",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_03.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: RBI fines Mobikwik ₹9 lakh over PPI rules",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पीपीआई नियमों पर मोबिक्विक को ₹9 लाख का जुर्माना",
+  "page": null,
+  "ihash": "6f785be490a3",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-hi-3x2-1280.jpg",
+    "src800": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-en-t-1280.jpg",
+    "src800": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-hi-t-1280.jpg",
+    "src800": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-en-1280.jpg",
+    "src800": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-hi-1280.jpg",
+    "src800": "/photos/i-mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Mobikwik, its office or founders; library, quick_photo (MobiKwik, Bipin Preet Singh); the only RBI photo free under the 48-hour rule is a sideways shot, blocklisted"
  },
  "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21": {
   "id": "o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
@@ -50688,7 +50737,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Rough sea at Thotlakonda beach near Visakhapatnam as Cyclone Fani passed the coast in May 2019 (file photo)",
   "alt_hi": "मई 2019 में चक्रवात फानी के गुजरने के समय विशाखापत्तनम के पास थोटलाकोंडा तट पर उफनता समुद्र (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Thotlakonda_beach_when_Cyclone_Fani_passes_near_Vizag_coast_7.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Thotlakonda_beach_when_Cyclone_Fani_passes_near_Vizag_coast_7.jpg",
+  "treated": {
+   "src": "/photos/t-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings--1280.jpg",
+   "src800": "/photos/t-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings--640.jpg",
+   "cutout": false,
+   "with": [
+    "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
+    "odisha-india-chem-2026-investment-intents",
+    "krbl-q2-profit-50-per-cent-india-gate-basmati"
+   ],
+   "kind": "photo",
+   "subj": "ffffffff7f800000",
+   "credit": "Photos: IM3847 / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Veikko Mäkelä / Wikimedia Commons"
+  }
  },
  "nasa-opens-astronaut-applications-december-3-deadline": {
   "id": "o-nasa-opens-astronaut-applications-december-3-deadline",
@@ -50701,6 +50763,19 @@
   "licence": "Public domain",
   "alt": "NASA's 2025 class of astronaut candidates at Johnson Space Center, Houston (file photo)",
   "alt_hi": "ह्यूस्टन के जॉनसन स्पेस सेंटर में नासा के 2025 के अंतरिक्ष यात्री उम्मीदवार (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:2025_Astronaut_Candidates_Formal.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Astronaut_Candidates_Formal.jpg",
+  "treated": {
+   "src": "/photos/t-nasa-opens-astronaut-applications-december-3-deadline-1280.jpg",
+   "src800": "/photos/t-nasa-opens-astronaut-applications-december-3-deadline-640.jpg",
+   "cutout": false,
+   "with": [
+    "us-midterms-2026-explained-what-is-at-stake",
+    "us-midterms-voting-under-way-house-senate-57-million-early",
+    "swadeshi-jagran-manch-asks-centre-to-block-starlink"
+   ],
+   "kind": "photo",
+   "subj": "fdfdc181018181ff",
+   "credit": "Photos: NASA/Josh Valcarcel / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; Alex Johnson from Ft. Lauderdale FL, USA / Wikimedia Commons; SWinxy / Wikimedia Commons"
+  }
  }
 }

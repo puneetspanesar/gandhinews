@@ -21,6 +21,16 @@ hero:
   overlay:
     kicker: "हमारा मत"
     value: "माफी का भुगतान कौन करे"
+infographic:
+  kicker: "पंजाब"
+  headline: "बिजली बिलों पर 518 करोड़ का जुर्माना माफ"
+  dek: "31 मार्च 2026 तक के बकाये वाले घरेलू उपभोक्ताओं के लिए 45 दिन की योजना"
+  motif: lightning
+  stats:
+    - {icon: users, value: "24.86 लाख", label: "घरेलू उपभोक्ता पात्र"}
+    - {icon: currency-inr, value: "₹518 करोड़", label: "जुर्माना और ब्याज माफ"}
+    - {icon: calendar, value: "45 दिन", label: "योजना खुली रहेगी"}
+  source: "पंजाब सरकार, 13 नवंबर 2026"
 related: [punjab-ots-power-bills-penalty-waiver-24-lakh-mann, cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey]
 seo:
   title: "पंजाब बिजली बिल माफी: 518 करोड़ का जुर्माना कौन चुकाएगा"
