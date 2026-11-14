@@ -52250,13 +52250,16 @@
   "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_3.jpg"
  },
  {
-  "id": "o-kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+  "id": "x-kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
   "articleId": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kangana_Ranaut_at_2019_Cannes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: https://www.flickr.com/photos/146461623@N05 / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Kangana Ranaut (file photo)",
-  "alt_hi": "कंगना रनौत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Kangana_Ranaut_at_2019_Cannes.jpg"
+  "sourceUrl": "",
+  "credit": "Photos: Flickr user 146461623@N05 / Wikimedia Commons; Ricardo Stuckert/PR / Wikimedia Commons",
+  "licence": "CC BY 2.0 and CC BY 3.0 br",
+  "alt": "BJP MP Kangana Ranaut and Congress leader Sonia Gandhi (file photos)",
+  "alt_hi": "भाजपा सांसद कंगना रनौत और कांग्रेस नेता सोनिया गांधी (फाइल फोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]

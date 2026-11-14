@@ -35,7 +35,7 @@ infographic:
 related: []
 seo:
   title: "FIR against Kangana Ranaut over Gandhi family posts"
-  description: "Himachal Pradesh Police registered an FIR on November 13, 2026 against BJP MP Kangana Ranaut over her posts on Sonia Gandhi and the Gandhi family."
+  description: "Himachal Pradesh Police registered an FIR on November 13, 2026, against BJP MP Kangana Ranaut over her posts on Sonia Gandhi and the Gandhi family."
 sources:
   - title: "Himachal Police register FIR against Kangana Ranaut over alleged objectionable posts on Gandhi family"
     publisher: "ANI"
@@ -91,9 +91,6 @@ In her November 10 posts, as reported that day, Ranaut wrote that "one mysteriou
 
 She said her views came from research she did for her 2025 film *Emergency*, in which she directed and played Indira Gandhi. The posts opened with a reference to a viral controversy abroad, and also accused Sonia Gandhi of promoting foreign agendas.
 
-```photo
-{"n":1,"subject":"Sonia Gandhi","caption":"Sonia Gandhi, the Congress leader named in the posts that are the subject of the complaint.","alt":"Congress leader Sonia Gandhi"}
-```
 
 ## Silence so far
 
