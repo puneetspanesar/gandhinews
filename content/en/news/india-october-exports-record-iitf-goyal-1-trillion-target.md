@@ -4,7 +4,7 @@ lang: en
 type: news
 section: economy
 format_label: "Economy / Trade"
-topics: [economy, trade]
+topics: [economy]
 title: "India's goods exports hit a record $49.47 billion in October as Goyal opens trade fair"
 standfirst: "Merchandise exports rose 45% in a year and total exports reached $89.99 billion, and the commerce minister said India is on course for $1 trillion this financial year."
 published: 2026-11-14T10:18:02+05:30

@@ -1,0 +1,24 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-14T10:05:13+05:30",
+ "end": "2026-11-14T10:44:50+05:30",
+ "summary": "4 stories: record October exports lead, Rajasthan drought relief, US flight halt, Lakshya Sen",
+ "new": [
+  "india-october-exports-record-iitf-goyal-1-trillion-target",
+  "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+  "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+  "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+   "why": "In the 'Back-to-back titles on offer' section the English says PV Sindhu won the Hylo Open women's title 'hours before Sen's final' (not in the sources or verification notes) and 'Sen's win over Christie ended a wait for a World Tour title in 2026' (contradicts the next lines, which say his previous title was the Australian Open a year earlier). The Hindi twin lacks the 'ended a wait' sentence, so EN and HI differ.",
+   "done": "Cut the Sindhu Hylo Open sentence and the 'ended a wait' sentence from English and the Sindhu sentence from Hindi; the Hylo Open title and Christie 21-17, 21-10 kept; the two languages now match."
+  }
+ ],
+ "breaches": [],
+ "lead": "india-october-exports-record-iitf-goyal-1-trillion-target"
+}

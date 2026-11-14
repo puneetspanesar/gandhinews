@@ -18,7 +18,7 @@ hero:
   need: "अमेरिका का कोई हवाई अड्डा (नेवार्क या जेएफके) या एयर इंडिया का विमान, फाइल फोटो"
   suggested_source: "Newark Liberty International Airport"
   subjects: ["Newark Liberty International Airport", "Air India Boeing 777"]
-  alt: "नेवार्क लिबर्टी इंटरनेशनल एयरपोर्ट और एयर इंडिया का विमान (फाइल फोटो)"
+  alt: "हवाई अड्डे पर खड़ा एयर इंडिया का बोइंग 777 विमान (फाइल फोटो)"
   overlay:
     value: "चार घंटे बंद रहा अमेरिकी आसमान"
 seo:

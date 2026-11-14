@@ -27,7 +27,7 @@ hero:
 related: [lakshya-sen-hylo-open-title-indian-double-saarbrucken, srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win]
 seo:
   title: "Lakshya Sen beats Alwi Farhan, reaches Kumamoto Masters final"
-  description: "Lakshya Sen beat Alwi Farhan 21-12, 15-21, 21-11 in the Kumamoto Masters semi-final on November 14, 2026 and plays the final on Sunday, November 15."
+  description: "Lakshya Sen beat Alwi Farhan 21-12, 15-21, 21-11 in the Kumamoto Masters semi-final on November 14, 2026, and plays the final on Sunday, November 15."
 infographic:
   kicker: "Kumamoto Masters"
   headline: "Sen overturns two defeats to reach the final"
@@ -73,7 +73,7 @@ verification:
   notes:
     - "BWF tournament pages (bwfworldtour news page and tournament site) refused automated reading, so the primary record could not be opened. Score 21-12, 15-21, 21-11 agrees across three independent reports (ANI/Tribune, Argus, TribunWow, which gives game 2 from Farhan's side as 21-15)."
     - "69 minutes is from Argus only; start time 6:50 am IST derived from TribunWow's 08:50 WIB."
-    - "Previous meetings: Macau Open semi-final August 1, 2025 (21-16, 21-9) and Indonesia Open round of 32 June 2, 2026 (21-19, 21-16), both from India Sports Hub."
+    - "Previous meetings: Macau Open semi-final August 1, 2025 (21-16, 21-9) and Indonesia Open round of June 32 2, 2026 (21-19, 21-16), both from India Sports Hub."
     - "Ranking: Sen world No. 13 per Tribune and India Sports Hub; 12th in World Tour Finals race with 64,980 points per Tribune and Sunday Guardian. Tanaka's ranking differs between reports, so it is left out."
     - "Other semi-final (Watanabe v Vitidsarn) result not found when written."
     - "No direct quotes from players in any source."
@@ -101,7 +101,7 @@ In the first game Tanaka fought back with cross-court smashes, but Sen held his 
 
 ## Back-to-back titles on offer
 
-The Hylo Open in Saarbrücken was also the tournament where **PV Sindhu won the women's title** hours before Sen's final, an Indian double at the same Super 500 event. Sen's win over Christie ended a wait for a World Tour title in 2026. Sen arrived in Kumamoto as the **Hylo Open champion**. He beat Jonatan Christie 21-17, 21-10 in Saarbrücken on November 1, his first BWF World Tour title since the Australian Open a year earlier, as we [reported at the time](/en/news/lakshya-sen-hylo-open-title-indian-double-saarbrucken). A win on Sunday would give him a second Super 500 title in two weeks.
+Sen arrived in Kumamoto as the **Hylo Open champion**. He beat Jonatan Christie 21-17, 21-10 in Saarbrücken on November 1, his first BWF World Tour title since the Australian Open a year earlier, as we [reported at the time](/en/news/lakshya-sen-hylo-open-title-indian-double-saarbrucken). A win on Sunday would give him a second Super 500 title in two weeks.
 
 ## What it means for Hangzhou
 

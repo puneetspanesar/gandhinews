@@ -49900,7 +49900,20 @@
   "licence": "CC0",
   "alt": "Rajasthan Chief Minister Bhajan Lal Sharma (file photo)",
   "alt_hi": "राजस्थान के मुख्यमंत्री भजनलाल शर्मा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bhajan_Lal_Sharma_Official_Photo_by_Satyam_Kumar_IPRDO.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Bhajan_Lal_Sharma_Official_Photo_by_Satyam_Kumar_IPRDO.png",
+  "treated": {
+   "src": "/photos/t-rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils-1280.jpg",
+   "src800": "/photos/t-rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils-640.jpg",
+   "cutout": true,
+   "with": [
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1",
+    "upl-escorts-kubota-q2-profit-falls-november-2--p1",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
+   ],
+   "kind": "photo",
+   "subj": "8181c1c1e3f7f7f",
+   "credit": "Photos: WriterRajeshPandey / Wikimedia Commons; Copernicus Sentinel-2, ESA / Wikimedia Commons; Silar / Wikimedia Commons; Tobi Kellner / Wikimedia Commons"
+  }
  },
  "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday": {
   "id": "o-lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
@@ -49913,7 +49926,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Lakshya Sen (file photo)",
   "alt_hi": "लक्ष्य सेन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Lakshya_Sen_in_2018.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Lakshya_Sen_in_2018.jpg",
+  "treated": {
+   "src": "/photos/t-lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sun-1280.jpg",
+   "src800": "/photos/t-lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sun-640.jpg",
+   "cutout": true,
+   "with": [
+    "sindhu-beats-akechi-french-open-final-an-se-young",
+    "nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold"
+   ],
+   "kind": "photo",
+   "subj": "3c3c3c3c1c3c3c",
+   "credit": "Photos: Sandro Halank, Wikimedia Commons / Wikimedia Commons; Tim Reckmann from Hamm, Deutschland / Wikimedia Commons; Kelly Pariona Lagos / Wikimedia Commons"
+  }
  },
  "india-october-exports-record-iitf-goyal-1-trillion-target": {
   "id": "r-india-october-exports-record-iitf-goyal-1-trillion-target",
@@ -49925,7 +49950,16 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Bharat Mandapam, New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत मंडपम (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bharat_Mandapam_view_from_East.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Bharat_Mandapam_view_from_East.jpg",
+  "treated": {
+   "src": "/photos/t-india-october-exports-record-iitf-goyal-1-trillion-target-1280.jpg",
+   "src800": "/photos/t-india-october-exports-record-iitf-goyal-1-trillion-target-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffeffefe9d101010",
+   "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Xa / Wikimedia Commons"
+  }
  },
  "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory": {
   "id": "o-us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
@@ -49933,11 +49967,24 @@
   "src800": "/photos/o-us-atc-telecom-failure-ground-stop-lifted-air-india-advisory-640.jpg",
   "width": 1280,
   "height": 960,
-  "srcWidth": 1600,
-  "credit": "Photo: Fan Railer (talk) / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Newark Liberty International Airport seen from the air (file photo)",
-  "alt_hi": "हवा से दिखता नेवार्क लिबर्टी अंतरराष्ट्रीय हवाई अड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Newark_Liberty_International_Airport_from_the_Air.jpg"
+  "srcWidth": 4000,
+  "credit": "Photo: happy days photos and art / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "An Air India Boeing 777 at an airport stand (file photo)",
+  "alt_hi": "हवाई अड्डे पर खड़ा एयर इंडिया का बोइंग 777 विमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing_777_VT-ALO_Air_India_(7315805402).jpg",
+  "treated": {
+   "src": "/photos/t-us-atc-telecom-failure-ground-stop-lifted-air-india-advisory-1280.jpg",
+   "src800": "/photos/t-us-atc-telecom-failure-ground-stop-lifted-air-india-advisory-640.jpg",
+   "cutout": false,
+   "with": [
+    "us-midterms-voting-under-way-house-senate-57-million-early",
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "mea-3000-umrah-pilgrims-return-medicines-iran-flights"
+   ],
+   "kind": "photo",
+   "subj": "ffffffff07010000",
+   "credit": "Photos: happy days photos and art / Wikimedia Commons; Alex Johnson from Ft. Lauderdale FL, USA / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons; Shah134pk / Wikimedia Commons"
+  }
  }
 }

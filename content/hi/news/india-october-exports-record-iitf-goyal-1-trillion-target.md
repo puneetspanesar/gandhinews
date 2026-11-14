@@ -5,7 +5,7 @@ translation_of: india-october-exports-record-iitf-goyal-1-trillion-target
 type: news
 section: economy
 format_label: "अर्थव्यवस्था / व्यापार"
-topics: [economy, trade]
+topics: [economy]
 title: "अक्टूबर में भारत का वस्तु निर्यात रिकॉर्ड 49.47 अरब डॉलर, गोयल ने खोला व्यापार मेला"
 standfirst: "एक साल में वस्तु निर्यात 45% बढ़ा और कुल निर्यात 89.99 अरब डॉलर पर पहुंचा। वाणिज्य मंत्री ने कहा कि भारत इस वित्त वर्ष में 1 ट्रिलियन डॉलर के रास्ते पर है।"
 published: 2026-11-14T10:18:02+05:30

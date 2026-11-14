@@ -52353,16 +52353,6 @@
   "articleId": "india-october-exports-record-iitf-goyal-1-trillion-target"
  },
  {
-  "id": "o-us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-  "articleId": "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Newark_Liberty_International_Airport_from_the_Air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Fan Railer (talk) / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Newark Liberty International Airport seen from the air (file photo)",
-  "alt_hi": "हवा से दिखता नेवार्क लिबर्टी अंतरराष्ट्रीय हवाई अड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Newark_Liberty_International_Airport_from_the_Air.jpg"
- },
- {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bhajan_Lal_Sharma_Official_Photo_by_Satyam_Kumar_IPRDO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "credit": "Photo: WriterRajeshPandey / Wikimedia Commons",
   "licence": "CC0",
@@ -52371,5 +52361,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Bhajan_Lal_Sharma_Official_Photo_by_Satyam_Kumar_IPRDO.png",
   "id": "r-rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
   "articleId": "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
+ },
+ {
+  "id": "o-us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+  "articleId": "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Boeing_777_VT-ALO_Air_India_%287315805402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: happy days photos and art / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "An Air India Boeing 777 at an airport stand (file photo)",
+  "alt_hi": "हवाई अड्डे पर खड़ा एयर इंडिया का बोइंग 777 विमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing_777_VT-ALO_Air_India_(7315805402).jpg"
  }
 ]

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+    "id": "india-october-exports-record-iitf-goyal-1-trillion-target",
     "overlay": {
       "kicker": {
-        "en": "Politics / Tributes",
-        "hi": "राजनीति / श्रद्धांजलि"
+        "en": "Economy / Trade",
+        "hi": "अर्थव्यवस्था / व्यापार"
       },
       "value": {
-        "en": "Nehru remembered on 137th birth anniversary",
-        "hi": "नेहरू की 137वीं जयंती पर स्मरण"
+        "en": "Record $49.47 bn goods exports",
+        "hi": "रिकॉर्ड 49.47 अरब डॉलर निर्यात"
       },
       "text": {
         "en": "",
@@ -16,19 +16,78 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+      "ppf-sukanya-scss-nsc-interest-rates-october-december-2026",
+      "pm-kisan-25th-instalment-date-status-ekyc-explained"
+    ],
     "relatedBeside": [
-      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
+      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
     ],
     "live": {
       "title": {
-        "en": "Tributes",
-        "hi": "श्रद्धांजलि"
+        "en": "Trade",
+        "hi": "व्यापार"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Lakshya Sen beats Alwi Farhan in three games to reach the Kumamoto Masters final",
+          "hi": "लक्ष्य सेन ने तीन गेम में अलवी फरहान को हराया, कुमामोतो मास्टर्स के फाइनल में"
+        }
+      },
+      {
+        "link": "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "lead": {
+          "en": "Parliament:",
+          "hi": "संसद:"
+        },
+        "text": {
+          "en": "Priyanka Gandhi says Opposition not told of special Session as Centre eyes November 24 or 25 for delimitation Bill",
+          "hi": "प्रियंका गांधी बोलीं, विशेष सत्र की विपक्ष को खबर नहीं; परिसीमन विधेयक के लिए 24 या 25 नवंबर पर नजर"
+        }
+      },
+      {
+        "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+        "lead": {
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
+        },
+        "text": {
+          "en": "Amit Shah to unveil Ajit Pawar statue in Pune as NCP merger talk builds",
+          "hi": "राकांपा विलय की चर्चा के बीच अमित शाह पुणे में अजित पवार की प्रतिमा का अनावरण करेंगे"
+        }
+      },
+      {
+        "link": "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "US lifts nationwide flight halt after telecom failure; Air India warns of disruption on US routes",
+          "hi": "टेलीकॉम गड़बड़ी के बाद अमेरिका में उड़ानों पर रोक हटी, एयर इंडिया की यात्रियों को चेतावनी"
+        }
+      },
+      {
+        "link": "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "lead": {
+          "en": "Rajasthan:",
+          "hi": "राजस्थान:"
+        },
+        "text": {
+          "en": "Rajasthan announces ₹9,321 crore special package for 87 drought-hit tehsils in 15 districts",
+          "hi": "राजस्थान ने 15 जिलों की 87 सूखा प्रभावित तहसीलों के लिए ₹9,321 करोड़ के विशेष पैकेज की घोषणा की"
+        }
+      },
       {
         "link": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
         "lead": {
@@ -38,28 +97,6 @@
         "text": {
           "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family",
           "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, हर परिवार को 2 लाख रुपये"
-        }
-      },
-      {
-        "link": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-        "lead": {
-          "en": "Banking:",
-          "hi": "बैंकिंग:"
-        },
-        "text": {
-          "en": "Bank credit growth quickens to 19.26% in the fortnight to October 31 as deposits lag by 2.5 points",
-          "hi": "31 अक्टूबर को खत्म पखवाड़े में बैंक ऋण वृद्धि बढ़कर 19.26%, जमा वृद्धि 2.5 अंक पीछे"
-        }
-      },
-      {
-        "link": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-        "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
-        },
-        "text": {
-          "en": "Himachal Police register FIR against BJP MP Kangana Ranaut over her posts on the Gandhi family",
-          "hi": "गांधी परिवार पर पोस्ट के मामले में भाजपा सांसद कंगना रनौत के खिलाफ हिमाचल पुलिस ने दर्ज की एफआईआर"
         }
       },
       {
@@ -82,39 +119,6 @@
         "text": {
           "en": "India v Pakistan U19 Asia Cup final: Sehwag's 303 runs against Pakistan's unbeaten run",
           "hi": "भारत बनाम पाकिस्तान अंडर-19 एशिया कप फाइनल: सहवाग के 303 रन और पाकिस्तान का अजेय सफर"
-        }
-      },
-      {
-        "link": "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Likely Cyclone Akvan's track still open: Andhra rain possible on November 19, Odisha on alert",
-          "hi": "संभावित चक्रवात अकवान की दिशा अभी तय नहीं: 19 नवंबर को आंध्र में बारिश संभव, ओडिशा अलर्ट पर"
-        }
-      },
-      {
-        "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
-        },
-        "text": {
-          "en": "India and Bangladesh put off consular talks due in Dhaka on November 17 and 18",
-          "hi": "ढाका में 17 और 18 नवंबर को होने वाली भारत-बांग्लादेश कांसुलर वार्ता टली"
-        }
-      },
-      {
-        "link": "udhayanidhi-stalin-election-petition-madras-high-court",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Madras High Court refuses to throw out election petition against Udhayanidhi Stalin",
-          "hi": "मद्रास हाईकोर्ट ने उदयनिधि स्टालिन के खिलाफ चुनाव याचिका खारिज करने से इनकार किया"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+      "id": "priyanka-special-session-delimitation-not-informed-nov-24-25",
       "also": []
     },
     "list": [
-      "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
-      "u19-asia-cup-final-india-pakistan-preview-november-14",
-      "akvan-track-uncertain-andhra-odisha-imd-saturday",
-      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
+      "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+      "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+      "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
     ],
     "also": [
-      "udhayanidhi-stalin-election-petition-madras-high-court",
-      "revanth-bharat-summit-visas-modi-hyderabad"
+      "u19-asia-cup-final-india-pakistan-preview-november-14",
+      "akvan-track-uncertain-andhra-odisha-imd-saturday"
     ]
   },
   "startHere": [
@@ -376,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +391,18 @@
         ]
       },
       "list": [
+        "forex-reserves-rise-719-billion-november-6-gold",
         "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass"
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
       "section": "states",
-      "lead": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+      "lead": "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
       "list": [
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
         "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "revanth-bharat-summit-visas-modi-hyderabad",
-        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu"
       ]
     },
     {
@@ -422,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+      "lead": "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
       "list": [
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
       ]
     },
     {
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "u19-asia-cup-final-india-pakistan-preview-november-14",
+      "lead": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
       "list": [
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled"
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
       ]
     }
   ],
@@ -489,6 +493,18 @@
     {
       "icon": "calendar-blank",
       "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
+        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
+      },
+      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
         "en": "Nov 16",
         "hi": "16 नवंबर"
       },
@@ -509,35 +525,9 @@
         "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
       },
       "link": "modi-asean-india-summit-manila-november-16-18"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
-      },
-      "text": {
-        "en": "Rahul Gandhi's fireside chat at Columbia University",
-        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
-      },
-      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T22:48:55+05:30",
-      "ids": [
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "revanth-bharat-summit-visas-modi-hyderabad",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
-      ]
-    },
     {
       "at": "2026-11-13T23:29:32+05:30",
       "ids": [
@@ -644,17 +634,32 @@
         "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "udhayanidhi-stalin-election-petition-madras-high-court"
       ]
+    },
+    {
+      "at": "2026-11-14T10:41:47+05:30",
+      "ids": [
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+        "ppf-sukanya-scss-nsc-interest-rates-october-december-2026",
+        "pm-kisan-25th-instalment-date-status-ekyc-explained",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "priyanka-special-session-delimitation-not-informed-nov-24-25",
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+        "u19-asia-cup-final-india-pakistan-preview-november-14"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-    "forex-reserves-rise-719-billion-november-6-gold",
+    "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
     "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "himachal-cabinet-1500-women-300-units-free-power-sukhu",
-    "arun-pocso-chargesheet-veeramani",
-    "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-    "cag-first-integrated-audit-39-discoms-28-officers-survey"
+    "cag-first-integrated-audit-39-discoms-28-officers-survey",
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+    "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
+    "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea"
   ]
 }

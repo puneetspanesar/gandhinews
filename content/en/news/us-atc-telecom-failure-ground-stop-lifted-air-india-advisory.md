@@ -17,7 +17,7 @@ hero:
   need: "A US airport (Newark or JFK) or an Air India aircraft, labelled file photo"
   suggested_source: "Newark Liberty International Airport"
   subjects: ["Newark Liberty International Airport", "Air India Boeing 777"]
-  alt: "Newark Liberty International Airport and an Air India aircraft (file photo)"
+  alt: "An Air India Boeing 777 at an airport stand (file photo)"
   overlay:
     value: "US skies shut for four hours"
 seo:
@@ -98,7 +98,7 @@ Reopening did not mean normal service. Duffy said it was "going to take some tim
 
 American Airlines said some flights had begun to receive clearance but warned of unavoidable cancellations. United opened its emergency operations centre.
 
-It was the first nationwide ground stop since January 2023, when the FAA's pilot-notice system failed, and, according to reports, the second since the September 11, 2001 attacks. The outage also came a day after a widespread Microsoft service disruption, which Mullin said was not linked.
+It was the first nationwide ground stop since January 2023, when the FAA's pilot-notice system failed, and, according to reports, the second since the September 11, 2001, attacks. The outage also came a day after a widespread Microsoft service disruption, which Mullin said was not linked.
 
 ## What Air India told passengers
 
