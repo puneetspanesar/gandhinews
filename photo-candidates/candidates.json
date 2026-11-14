@@ -1,0 +1,54 @@
+{
+  "p1": {
+    "query": "Guru Gobind Singh Super Thermal Plant",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:View of guru gobind singh super thermal power plant from gurudwara Parivar Vichora.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:View_of_guru_gobind_singh_super_thermal_power_plant_from_gurudwara_Parivar_Vichora.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/View_of_guru_gobind_singh_super_thermal_power_plant_from_gurudwara_Parivar_Vichora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4080,
+        "height": 3060,
+        "licence": "CC0",
+        "author": "Yashmaanas",
+        "credit": "Own work",
+        "date": "2025-11-16 16:38:00",
+        "description": "View of guru gobind singh super thermal power plant from gurudwara Parivar Vichora",
+        "thumb": "p1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/View_of_guru_gobind_singh_super_thermal_power_plant_from_gurudwara_Parivar_Vichora.jpg/1600px-View_of_guru_gobind_singh_super_thermal_power_plant_from_gurudwara_Parivar_Vichora.jpg"
+      }
+    ]
+  },
+  "p2": {
+    "query": "Ropar thermal power station",
+    "candidates": []
+  },
+  "p3": {
+    "query": "Guru Hargobind Thermal Plant Lehra Mohabbat",
+    "candidates": []
+  },
+  "p4": {
+    "query": "Punjab State Power Corporation Patiala",
+    "candidates": []
+  },
+  "p5": {
+    "query": "Bhakra Dam power house",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Jawaharlal Nehru at the Power House (Gangowel) at the Nangal Hydel Canal, 8 November 1953.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_at_the_Power_House_(Gangowel)_at_the_Nangal_Hydel_Canal,_8_November_1953.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jawaharlal_Nehru_at_the_Power_House_%28Gangowel%29_at_the_Nangal_Hydel_Canal%2C_8_November_1953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 480,
+        "height": 566,
+        "licence": "Public domain",
+        "author": "Unknown authorUnknown author",
+        "credit": "http://www.nehrumemorial.nic.in/en/galleries/photo-gallery/category/44-jawaharlal-nehru-photos-general.html",
+        "date": "before 1956date QS:P,+1956-00-00T00:00:0",
+        "description": "Jawaharlal Nehru at the Power House (Gangowel) at the Nangal Hydel Canal, 8 November 1953",
+        "thumb": "p5-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jawaharlal_Nehru_at_the_Power_House_%28Gangowel%29_at_the_Nangal_Hydel_Canal%2C_8_November_1953.jpg"
+      }
+    ]
+  }
+}
