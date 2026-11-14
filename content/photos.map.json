@@ -50387,6 +50387,100 @@
   "alt_hi": "अहमदाबाद के साबरमती आश्रम में हृदय कुंज (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg"
  },
+ "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30": {
+  "id": "r-punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
+  "src": "/photos/r-punjab-da-crorepati-quiz-mann-1-crore-youth-15-30-1280.jpg",
+  "src800": "/photos/r-punjab-da-crorepati-quiz-mann-1-crore-youth-15-30-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Jaypee / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Punjab Chief Minister Bhagwant Mann (file photo)",
+  "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg",
+  "treated": {
+   "src": "/photos/t-punjab-da-crorepati-quiz-mann-1-crore-youth-15-30-1280.jpg",
+   "src800": "/photos/t-punjab-da-crorepati-quiz-mann-1-crore-youth-15-30-640.jpg",
+   "cutout": true,
+   "with": [
+    "cbi-takes-over-jhota-murder-probe-mansa",
+    "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
+    "womens-reservation-33-per-cent-when-will-it-start-explained"
+   ],
+   "kind": "photo",
+   "subj": "1818181c2cfeff",
+   "credit": "Photos: Jaypee / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons"
+  }
+ },
+ "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest": {
+  "id": "o-jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+  "src": "/photos/o-jaishankar-htls-india-us-trade-deal-last-stretch-national-interest-1280.jpg",
+  "src800": "/photos/o-jaishankar-htls-india-us-trade-deal-last-stretch-national-interest-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1129,
+  "credit": "Photo: Indian Foreign Minister Jaishankar in New Delhi / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "S. Jaishankar (file photo)",
+  "alt_hi": "एस. जयशंकर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Subrahmanyam_Jaishankar_Portrait.jpg",
+  "treated": {
+   "src": "/photos/t-jaishankar-htls-india-us-trade-deal-last-stretch-national-in-1280.jpg",
+   "src800": "/photos/t-jaishankar-htls-india-us-trade-deal-last-stretch-national-in-640.jpg",
+   "cutout": true,
+   "with": [
+    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+    "markets-week-ahead-us-midterms-itc-sbi-results-november-2"
+   ],
+   "kind": "photo",
+   "subj": "c7c7c7c7c7c7c3d1",
+   "credit": "Photos: Indian Foreign Minister Jaishankar in New Delhi / Wikimedia Commons; President Of Ukraine / Wikimedia Commons; Shyam peelery / Wikimedia Commons; Noclip / Wikimedia Commons"
+  }
+ },
+ "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones": {
+  "id": "i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+  "src": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-en-3x2-1280.jpg",
+  "src800": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Iran claims a radar hit, US says no",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ईरान का रडार दावा, अमेरिका का इनकार",
+  "page": null,
+  "ihash": "d33d5718a03a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-hi-3x2-1280.jpg",
+    "src800": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-en-t-1280.jpg",
+    "src800": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-hi-t-1280.jpg",
+    "src800": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-en-1280.jpg",
+    "src800": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-hi-1280.jpg",
+    "src800": "/photos/i-iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free watermark-free photo of the IRGC strike, Sirik or the Bahrain radar; library, quick_photo, finder h1418"
+ },
  "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid": {
   "id": "o-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
   "src": "/photos/o-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-1280.jpg",

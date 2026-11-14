@@ -1,0 +1,20 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-14T18:04:38+05:30",
+ "end": "2026-11-14T19:03:40+05:30",
+ "summary": "Jaishankar trade deal lead, Punjab quiz, IRGC Bahrain claim",
+ "new": [
+  "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+  "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+  "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): website-blocking-explained-section-69a-forged-court-orders-129-betting-sites"
+ ],
+ "lead": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
+}
