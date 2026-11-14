@@ -50794,7 +50794,19 @@
   "licence": "CC BY 2.0",
   "alt": "S. Jaishankar (file photo)",
   "alt_hi": "एस. जयशंकर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29,_2023_-_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29,_2023_-_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-jaishankar-pashinyan-delhi-stopover-gulf-ukraine-1280.jpg",
+   "src800": "/photos/t-jaishankar-pashinyan-delhi-stopover-gulf-ukraine-640.jpg",
+   "cutout": true,
+   "with": [
+    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire"
+   ],
+   "kind": "photo",
+   "subj": "7e7efcfc7c2c3014",
+   "credit": "Photos: U.S. Secretary of Defense / Wikimedia Commons; President Of Ukraine / Wikimedia Commons; Alex Blokha / Wikimedia Commons"
+  }
  },
  "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra": {
   "id": "o-saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
@@ -50807,7 +50819,20 @@
   "licence": "GODL-India",
   "alt": "Nayab Singh Saini (file photo)",
   "alt_hi": "नायब सिंह सैनी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Nayab_Singh_Saini.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Nayab_Singh_Saini.jpg",
+  "treated": {
+   "src": "/photos/t-saini-punjab-double-engine-bjp-samrasta-sankalp-yatra-1280.jpg",
+   "src800": "/photos/t-saini-punjab-double-engine-bjp-samrasta-sankalp-yatra-640.jpg",
+   "cutout": true,
+   "with": [
+    "five-states-head-for-2027-assembly-polls",
+    "delhi-aqi-214-poor-sunday-morning-ncr-moderate--p1",
+    "eternal-q2-profit-doubles-125-crore-blinkit-3500-stores"
+   ],
+   "kind": "photo",
+   "subj": "c0f7fcc4c0c6ce",
+   "credit": "Photos: Ministry of Labour and Employment / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; RISHABHNAGPAL20 / Wikimedia Commons; Uttsaav / Wikimedia Commons"
+  }
  },
  "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters": {
   "id": "o-rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
@@ -50833,7 +50858,16 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim-1280.jpg",
+   "src800": "/photos/t-mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photo: Government of India / Wikimedia Commons, GODL-India"
+  }
  },
  "golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road": {
   "id": "r-golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road",
@@ -50900,7 +50934,7 @@
   "credit": "Photo: Raimond Spekking / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
   "alt": "Armenian Prime Minister Nikol Pashinyan (file photo)",
-  "alt_hi": "आर्मेनिया के प्रधानमंत्री निकोल पशिन्यान (फाइल फोटो)",
+  "alt_hi": "आर्मेनिया के प्रधानमंत्री निकोल पाशिनयान (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Besuch_des_Ministerpr%C3%A4sidenten_von_Armenien,_Nikol_Pashinyan,_im_K%C3%B6lner_Rathaus-2162.jpg"
  },
  "jaishankar-pashinyan-delhi-stopover-gulf-ukraine--p2": {

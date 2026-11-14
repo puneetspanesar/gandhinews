@@ -62,7 +62,7 @@ verification:
   status: approved
   notes:
     - "Editorial view of the desk. Golaghat facts (26 dead, driver died, Rangajan on NH-715, March fine in Jorhat for 102 km/h, several overspeeding fines near Kaziranga some unpaid, district inquiry into speed and overloading) from the desk's story of November 14, which rests on officials quoted in reports. The vehicle's fine record is as stated by officials and is not yet in a published inquiry report."
-    - "Supreme Court order of September 28, 2026 read in full from api.sci.gov.in: bench Pardiwala and Viswanathan, Rs 49,194.05 crore recoverable and Rs 26,175.05 crore recovered, directions on freezing RC renewal, fitness, PUC, blacklisting, transfer, licence suspension and random checks with impounding, Rule 21(25) CMVR, MoRTH affidavit, next hearing November 25, 2026. The unpaid figure (about Rs 23,019 crore) is our subtraction. The Court set no deadline for the freeze and impound steps."
+    - "Supreme Court order of September 28, 2026, read in full from api.sci.gov.in: bench Pardiwala and Viswanathan, Rs 49,194.05 crore recoverable and Rs 26,175.05 crore recovered, directions on freezing RC renewal, fitness, PUC, blacklisting, transfer, licence suspension and random checks with impounding, Rule 21(25) CMVR, MoRTH affidavit, next hearing November 25, 2026. The unpaid figure (about Rs 23,019 crore) is our subtraction. The Court set no deadline for the freeze and impound steps."
     - "The national road-deaths figures (1,72,890 deaths in 2023, 68.1% over-speeding, 63,112 deaths on national highways) are from the DT Next report of the MoRTH 2023 report; the MoRTH PDF itself was not opened in this run."
     - "Whether Assam has begun applying the order, and whether the minibus's fines were on the e-challan system or paid by other means, were not found. Copy says so."
     - "Recommendations are the desk's own."
@@ -96,7 +96,7 @@ Owners will say that challans are issued by cameras without a hearing, that some
 
 First, Assam, and every state, should **publish each month the number of vehicles stopped, impounded or denied services** under the September 28 order, district by district. The Court has asked the ministry for a public dashboard on electronic enforcement; states should not wait for it.
 
-Second, repeat speeding by a passenger vehicle should trigger a **check on its permit and driver** within days, not at the next renewal. Under the amended Rule 21(25) cited by the Court, five or more offences in a year from January 1, 2026 already mark a driver as a danger to the public.
+Second, repeat speeding by a passenger vehicle should trigger a **check on its permit and driver** within days, not at the next renewal. Under the amended Rule 21(25) cited by the Court, five or more offences in a year from January 1, 2026, already mark a driver as a danger to the public.
 
 Third, the Golaghat inquiry should state in public how many challans the minibus had, what they were for, when they were issued and why nothing followed. If the answer is that the system could not act, that is the finding that matters.
 

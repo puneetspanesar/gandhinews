@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "id": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
     "overlay": {
       "kicker": {
-        "en": "States / Weather",
-        "hi": "राज्य / मौसम"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "Akvan: severe storm by Nov 18",
-        "hi": "अकवान: 18 नवंबर तक भीषण तूफान"
+        "en": "'Already a done deal'",
+        "hi": "'पहले से तय है'"
       },
       "text": {
         "en": "",
@@ -17,31 +17,53 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-      "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-      "akvan-track-uncertain-andhra-odisha-imd-saturday"
+      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+      "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
     ],
     "relatedBeside": [
-      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
     ],
     "live": {
       "title": {
-        "en": "Weather",
-        "hi": "मौसम"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+        "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "RBI fines Mobikwik ₹9 lakh for wallet transfer limits and late fraud reports",
-          "hi": "आरबीआई ने मोबिक्विक पर ₹9 लाख का जुर्माना लगाया, वॉलेट ट्रांसफर सीमा और देर से फ्रॉड रिपोर्टिंग पर"
+          "en": "Haryana CM Saini says Punjab has decided on a BJP government as party readies Dalit outreach yatra",
+          "hi": "हरियाणा के मुख्यमंत्री सैनी बोले, पंजाब ने भाजपा सरकार चुनने का मन बना लिया; 18 नवंबर से दलित संपर्क यात्रा"
+        }
+      },
+      {
+        "link": "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Jaishankar meets Armenian PM Pashinyan in Delhi, talks Gulf and Ukraine wars",
+          "hi": "दिल्ली में आर्मेनिया के प्रधानमंत्री पाशिनयान से मिले जयशंकर, खाड़ी और यूक्रेन युद्ध पर चर्चा"
+        }
+      },
+      {
+        "link": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India U19 beat Pakistan by one wicket off the last ball to win the Asia Cup, chasing 338, as Mohit Ulva hits the winning four",
+          "hi": "भारत अंडर-19 ने आखिरी गेंद पर एक विकेट से पाकिस्तान को हराकर एशिया कप जीता, 338 का पीछा; मोहित उल्वा ने जड़ा विजयी चौका"
         }
       },
       {
@@ -89,36 +111,14 @@
         }
       },
       {
-        "link": "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "link": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "Patanjali Foods profit falls 19% to ₹420 crore even as sales rise 15.5% to ₹11,323 crore",
-          "hi": "बिक्री 15.5% बढ़कर ₹11,323 करोड़ पर पहुंची, फिर भी पतंजलि फूड्स का मुनाफा 19% गिरकर ₹420 करोड़"
-        }
-      },
-      {
-        "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "Starship reaches orbit with 26 Starlinks after booster catch is called off, ship catch due early Sunday IST",
-          "hi": "स्टारशिप 26 स्टारलिंक के साथ कक्षा में, बूस्टर की कैचिंग रद्द; शिप की कैचिंग रविवार तड़के"
-        }
-      },
-      {
-        "link": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "After a night at Lok Bhavan, Modi reviews Dholera, Sabarmati Ashram and 2030 Games work with Gujarat's CM and Deputy CM",
-          "hi": "मोदी ने गुजरात में धोलेरा, साबरमती आश्रम और 2030 खेलों की तैयारी की समीक्षा की"
+          "en": "Madurai Tanishq burglary: loss cut to 10 kg gold and 1 kg diamonds as police question showroom staff",
+          "hi": "मदुरै तनिष्क चोरी: 10 किलो सोना और 1 किलो हीरे गए, स्टाफ से पूछताछ"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "nasa-opens-astronaut-applications-december-3-deadline",
+      "id": "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
       "also": []
     },
     "list": [
+      "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+      "nasa-opens-astronaut-applications-december-3-deadline",
       "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
       "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-      "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-      "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
     ],
     "also": [
-      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-      "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam"
+      "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+      "microsoft-365-outage-ends-india-indigo-akasa-air-india"
     ]
   },
   "startHere": [
@@ -275,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim",
       "rahul-gandhi-bjp-assets-elevenfold-decade-claim",
-      "goyal-record-october-exports-90-billion-claim",
-      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
+      "goyal-record-october-exports-90-billion-claim"
     ]
   },
   "explained": [
@@ -372,15 +372,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
         "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
       ],
-      "lead": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
+      "lead": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
     },
     {
       "section": "economy",
-      "lead": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,16 +391,16 @@
         ]
       },
       "list": [
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-        "india-october-exports-record-iitf-goyal-1-trillion-target"
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+        "forex-reserves-rise-719-billion-november-6-gold"
       ]
     },
     {
       "section": "states",
-      "lead": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+      "lead": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
       "list": [
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
         "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
         "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
       ]
@@ -426,30 +426,30 @@
   "desks": [
     {
       "section": "world",
-      "lead": "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+      "lead": "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
       "list": [
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
+        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
       ]
     },
     {
       "section": "science",
       "lead": "nasa-opens-astronaut-applications-december-3-deadline",
       "list": [
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nadda-who-global-tb-report-2026-india-mortality-38"
+        "nadda-who-global-tb-report-2026-india-mortality-38",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
       ]
     },
     {
       "section": "sports",
-      "lead": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+      "lead": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
       "list": [
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
         "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
         "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
       ]
     }
   ],
@@ -461,10 +461,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
-        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
+        "en": "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday",
+        "hi": "स्टारशिप का शिप 42 रविवार को लगभग 2:47 बजे (भारतीय समय) स्टारबेस लौटेगा, पहली बार शिप को टावर से पकड़ने की कोशिश"
       },
-      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
     },
     {
       "icon": "calendar-blank",
@@ -485,10 +485,10 @@
         "hi": "16 नवंबर"
       },
       "text": {
-        "en": "IMD expects the Bay of Bengal system to become Cyclone Akvan by evening",
-        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बन जाएगा"
+        "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
       },
-      "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
+      "link": "akvan-track-uncertain-andhra-odisha-imd-saturday"
     },
     {
       "icon": "calendar-blank",
@@ -528,20 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T14:44:25+05:30",
-      "ids": [
-        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-        "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint"
-      ]
-    },
     {
       "at": "2026-11-14T15:02:56+05:30",
       "ids": [
@@ -654,8 +640,32 @@
         "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ]
+    },
+    {
+      "at": "2026-11-14T22:36:37+05:30",
+      "ids": [
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+        "monsoon-session-unprorogued-record-88-days-ramesh-claim",
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+    "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
+    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+    "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+  ]
 }

@@ -33,7 +33,7 @@ infographic:
   stats:
     - {icon: handshake, value: "14 नवंबर", label: "ट्रांज़िट पड़ाव के दौरान नई दिल्ली में मुलाकात"}
     - {icon: globe-hemisphere-east, value: "31 अगस्त", label: "बिश्केक में एससीओ शिखर सम्मेलन पर मोदी-पाशिनयान की पिछली मुलाकात"}
-  timeline: {title: "2026 में भारत और आर्मेनिया", items: [{date: "जून", text: "पाशिनयान की पार्टी की संसदीय चुनाव में जीत, मोदी ने फ़ोन पर बधाई दी", icon: handshake}, {date: "31 अगस्त", text: "बिश्केक में एससीओ शिखर सम्मेलन पर मोदी की पाशिनयान से मुलाकात", icon: handshake}, {date: "14 नवंबर", text: "दिल्ली में जयशंकर की पाशिनयान से मुलाकात", icon: map-pin}]}
+  timeline: [{date: "जून", text: "पाशिनयान की पार्टी की संसदीय चुनाव में जीत, मोदी ने फ़ोन पर बधाई दी", icon: handshake}, {date: "31 अगस्त", text: "बिश्केक में एससीओ शिखर सम्मेलन पर मोदी की पाशिनयान से मुलाकात", icon: handshake}, {date: "14 नवंबर", text: "दिल्ली में जयशंकर की पाशिनयान से मुलाकात", icon: map-pin}]
   source: "विदेश मंत्री की एक्स पोस्ट, 14 नवंबर 2026"
 sources:
   - title: "Jaishankar post on X on the meeting with PM Pashinyan"

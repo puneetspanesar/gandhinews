@@ -32,7 +32,7 @@ infographic:
   stats:
     - {icon: handshake, value: "Nov 14", label: "meeting in New Delhi during a transit stopover"}
     - {icon: globe-hemisphere-east, value: "Aug 31", label: "last Modi-Pashinyan meeting, at the SCO summit in Bishkek"}
-  timeline: {title: "India and Armenia in 2026", items: [{date: "June", text: "Pashinyan's party wins parliamentary elections; Modi phones to congratulate", icon: handshake}, {date: "Aug 31", text: "Modi meets Pashinyan at the SCO summit in Bishkek", icon: handshake}, {date: "Nov 14", text: "Jaishankar meets Pashinyan in Delhi", icon: map-pin}]}
+  timeline: [{date: "June", text: "Pashinyan's party wins parliamentary elections; Modi phones to congratulate", icon: handshake}, {date: "Aug 31", text: "Modi meets Pashinyan at the SCO summit in Bishkek", icon: handshake}, {date: "Nov 14", text: "Jaishankar meets Pashinyan in Delhi", icon: map-pin}]
   source: "External Affairs Minister's post on X, November 14, 2026"
 sources:
   - title: "Jaishankar post on X on the meeting with PM Pashinyan"

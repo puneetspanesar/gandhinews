@@ -9,9 +9,9 @@ title: "Modi's 'largest underground LPG cavern' in Mangaluru is correct at 80,00
 standfirst: "The Prime Minister dedicated the Mangaluru cavern on November 13 as India's largest underground LPG store and tied it to energy security in the Gulf war. The size claim holds. Set against national demand, the cavern covers about a day."
 published: 2026-11-14T22:14:00+05:30
 factcheck:
-  claim: "The Mangaluru cavern dedicated on November 13, 2026 is India's largest underground LPG storage cavern, with a capacity of 80,000 metric tonnes, built for over ₹850 crore."
+  claim: "The Mangaluru cavern dedicated on November 13, 2026, is India's largest underground LPG storage cavern, with a capacity of 80,000 metric tonnes, built for over ₹850 crore."
   claimant: "Prime Minister's Office and Narendra Modi"
-  seenOn: "PMO release of November 11, 2026 and the Bengaluru ceremony of November 13"
+  seenOn: "PMO release of November 11, 2026, and the Bengaluru ceremony of November 13"
   firstSeen: 2026-11-11
   verdict: "True"
   finding: "The Prime Minister's Office release gives 80,000 metric tonnes and over ₹850 crore, and the only other underground LPG cavern reported in India, at Visakhapatnam, is 60,000 tonnes. So the 'largest' claim holds. What the claim leaves out is scale: India used 33.2 million tonnes of LPG in 2025-26, about 91,000 tonnes a day, so the cavern is roughly one day of national use."
@@ -63,7 +63,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Opinion-and-fact-check desk, November 14, 2026 night run. Claim read from the PMO release (80,000 MT, over ₹850 crore, 9.4 km pipeline, 'largest underground LPG storage cavern'), fetched this run."
+    - "Opinion-and-fact-check desk, November 14, 2026, night run. Claim read from the PMO release (80,000 MT, over ₹850 crore, 9.4 km pipeline, 'largest underground LPG storage cavern'), fetched this run."
     - "Primary data limits: the PPAC site was blocked to the tools in this run. National LPG consumption (33.212 million tonnes in 2025-26; 2.379 million tonnes in March 2026; about 60% imported) is from a Free Press Journal report citing PPAC. The daily figure (about 91,000 t) is our division of 33.212 million by 365; at March 2026's lower rate it is about 77,000 t a day, so the cavern is between 0.9 and 1.0 days of use either way."
     - "Visakhapatnam cavern (60,000 t, HPCL with TotalEnergies) is from the Tank Terminals report; not opened from an HPCL or ministry source. No cavern larger than 80,000 t was found, and the construction trade report calls Mangaluru the second underground LPG cavern in the country."
     - "Strictly the claim is about underground LPG caverns. India's strategic crude caverns hold far more oil but are a different product; the PMO claim does not compare to them."

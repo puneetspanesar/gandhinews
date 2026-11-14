@@ -1,0 +1,27 @@
+{
+ "run": "hourly-22",
+ "start": "2026-11-14T22:04:56+05:30",
+ "end": "2026-11-14T22:39:43+05:30",
+ "summary": "Rahul Gandhi Bharat Summit lead; U19 Asia Cup win; Saini Punjab; Jaishankar-Pashinyan; LPG cavern fact check; Golaghat editorial held",
+ "new": [
+  "mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim",
+  "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+  "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+  "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+  "u19-asia-cup-final-india-win-last-ball-mohit-ulva"
+ ],
+ "held": [
+  "golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "lead, balance, Starship duplicate, left-column gap",
+   "done": "refresh_home --lead Rahul Gandhi Bharat Summit (the Jaishankar lead came from apply_verdict's earlier refresh); dropped Punjab Da Crorepati quiz, the older Rahul Gandhi gig-workers story, the Starship abort story, Patanjali, Mobikwik and Mahanadi IPO. Golaghat editorial is held for its picture. Left-column gap is template-driven, not fixed."
+  }
+ ],
+ "breaches": [],
+ "lead": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
+}
