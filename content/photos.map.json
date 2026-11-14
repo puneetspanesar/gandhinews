@@ -28864,7 +28864,8 @@
     "src": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-hi-1280.jpg",
     "src800": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-hi-640.jpg"
    }
-  }
+  },
+  "notile": true
  },
  "krbl-q2-profit-50-per-cent-india-gate-basmati--bg": {
   "id": "v-krbl-q2-profit-50-per-cent-india-gate-basmati-bg",
@@ -50482,29 +50483,28 @@
   "nophoto": "no free watermark-free photo of the IRGC strike, Sirik or the Bahrain radar; library, quick_photo, finder h1418"
  },
  "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid": {
-  "id": "o-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
-  "src": "/photos/o-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-1280.jpg",
-  "src800": "/photos/o-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-640.jpg",
+  "id": "r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
+  "src": "/photos/r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-1280.jpg",
+  "src800": "/photos/r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 869,
-  "credit": "Photo: Original: Indian National Congress / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Rahul Gandhi (file photo)",
-  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(portrait_crop).jpg",
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+  "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg",
   "treated": {
    "src": "/photos/t-telangana-gig-workers-law-will-be-judged-by-the-first-claim--1280.jpg",
    "src800": "/photos/t-telangana-gig-workers-law-will-be-judged-by-the-first-claim--640.jpg",
-   "cutout": false,
+   "cutout": true,
    "with": [
     "sangareddy-pharma-deaths-need-inspections-not-compensation",
     "telangana-sir-electorate-may-shrink-26-per-cent",
     "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation"
    ],
    "kind": "photo",
-   "subj": "c3d3c3c3e3e3e3e1",
-   "credit": "Photos: Original: Indian National Congress / Wikimedia Commons; Yakshitha / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+   "subj": "f7e3e3e3c3878787",
+   "credit": "Photos: Sidheeq / Wikimedia Commons; Yakshitha / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
   }
  },
  "rahul-gandhi-bjp-assets-elevenfold-decade-claim": {
@@ -50731,13 +50731,13 @@
   "src": "/photos/o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21-1280.jpg",
   "src800": "/photos/o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21-640.jpg",
   "width": 1280,
-  "height": 719,
+  "height": 960,
   "srcWidth": 4032,
-  "credit": "Photo: IM3847 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Rough sea at Thotlakonda beach near Visakhapatnam as Cyclone Fani passed the coast in May 2019 (file photo)",
-  "alt_hi": "मई 2019 में चक्रवात फानी के गुजरने के समय विशाखापत्तनम के पास थोटलाकोंडा तट पर उफनता समुद्र (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Thotlakonda_beach_when_Cyclone_Fani_passes_near_Vizag_coast_7.jpg",
+  "credit": "Photo: Th3Snehasish / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Trees uprooted by Cyclone Fani near Narendra Pushkarini in Puri, Odisha, May 2019 (file photo)",
+  "alt_hi": "पुरी, ओडिशा में नरेंद्र पुष्करिणी के पास चक्रवात फणि से उखड़े पेड़, मई 2019 (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Uprooted_Trees_due_to_Cyclone_Fani_near_Narendra_Puskarini,_Puri..jpg",
   "treated": {
    "src": "/photos/t-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings--1280.jpg",
    "src800": "/photos/t-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings--640.jpg",
@@ -50745,11 +50745,11 @@
    "with": [
     "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
     "odisha-india-chem-2026-investment-intents",
-    "krbl-q2-profit-50-per-cent-india-gate-basmati"
+    "nepali-congress-cancels-kojagrat-purnima-tea-floods"
    ],
    "kind": "photo",
-   "subj": "ffffffff7f800000",
-   "credit": "Photos: IM3847 / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Veikko Mäkelä / Wikimedia Commons"
+   "subj": "fbfdf8f8e00000e0",
+   "credit": "Photos: Th3Snehasish / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Gaurav Dhwaj Khadka / Wikimedia Commons"
   }
  },
  "nasa-opens-astronaut-applications-december-3-deadline": {

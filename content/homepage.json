@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [
       "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-      "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
-      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
+      "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+      "himachal-cabinet-1500-women-300-units-free-power-sukhu"
     ],
     "relatedBeside": [
-      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+      "nasa-opens-astronaut-applications-december-3-deadline"
     ],
     "live": {
       "title": {
@@ -34,17 +34,6 @@
   "briefing": {
     "items": [
       {
-        "link": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
-        },
-        "text": {
-          "en": "RBI fines Mobikwik ₹9 lakh for wallet transfer limits and late fraud reports",
-          "hi": "आरबीआई ने मोबिक्विक पर ₹9 लाख का जुर्माना लगाया, वॉलेट ट्रांसफर सीमा और देर से फ्रॉड रिपोर्टिंग पर"
-        }
-      },
-      {
         "link": "nasa-opens-astronaut-applications-december-3-deadline",
         "lead": {
           "en": "Space:",
@@ -53,6 +42,17 @@
         "text": {
           "en": "NASA opens astronaut applications for Moon missions, with a December 3 deadline",
           "hi": "नासा ने चंद्र अभियानों के लिए अंतरिक्ष यात्री आवेदन खोले, अंतिम तारीख 3 दिसंबर"
+        }
+      },
+      {
+        "link": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Shivakumar writes to Modi: put Karnataka's 56% SC/ST quota in the Ninth Schedule",
+          "hi": "शिवकुमार ने मोदी को लिखा: कर्नाटक के 56% एससी/एसटी कोटे को नौवीं अनुसूची में डालें"
         }
       },
       {
@@ -100,25 +100,25 @@
         }
       },
       {
-        "link": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "link": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
         "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
         },
         "text": {
-          "en": "EU says some countries are trying to undermine the IPCC as a fight over the next climate science report spills into COP31",
-          "hi": "यूरोपीय संघ का आरोप, कुछ देश आईपीसीसी को कमज़ोर करना चाहते हैं; अगली जलवायु विज्ञान रिपोर्ट की तारीख़ पर विवाद COP31 तक पहुँचा"
+          "en": "Madurai Tanishq burglary: loss cut to 10 kg gold and 1 kg diamonds as police question showroom staff",
+          "hi": "मदुरै तनिष्क चोरी: 10 किलो सोना और 1 किलो हीरे गए, स्टाफ से पूछताछ"
         }
       },
       {
-        "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+        "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
         "lead": {
-          "en": "Tributes:",
-          "hi": "श्रद्धांजलि:"
+          "en": "Technology:",
+          "hi": "तकनीक:"
         },
         "text": {
-          "en": "Modi, Rajnath Singh and Stalin remember Nehru on his 137th birth anniversary, as India marks Children's Day",
-          "hi": "नेहरू की 137वीं जयंती पर मोदी, राजनाथ सिंह और स्टालिन ने किया स्मरण, देश ने मनाया बाल दिवस"
+          "en": "Microsoft says global Outlook and Teams outage is over after more than a day; IndiGo, Akasa Air and Indian IT firms were hit",
+          "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन बाद ख़त्म; इंडिगो, आकासा पर भी असर"
         }
       }
     ]
@@ -186,7 +186,7 @@
   },
   "topStories": {
     "big": {
-      "id": "nasa-opens-astronaut-applications-december-3-deadline",
+      "id": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
       "also": []
     },
     "list": [
@@ -194,11 +194,11 @@
       "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
       "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
       "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-      "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
+      "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
     ],
     "also": [
-      "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+      "rahul-gandhi-hyderabad-gig-workers-act-insurance"
     ]
   },
   "startHere": [
@@ -380,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
-        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey"
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
@@ -446,10 +446,10 @@
       "section": "sports",
       "lead": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
       "list": [
-        "u19-asia-cup-final-india-pakistan-preview-november-14",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "india-a-women-squads-england-a-shreyanka-patil-recalled"
       ]
     }
   ],
@@ -528,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T13:04:04+05:30",
-      "ids": [
-        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
-        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-        "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
-        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
-      ]
-    },
     {
       "at": "2026-11-14T14:44:25+05:30",
       "ids": [
@@ -639,32 +622,52 @@
       ]
     },
     {
-      "at": "2026-11-14T20:36:25+05:30",
+      "at": "2026-11-14T20:58:11+05:30",
       "ids": [
         "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
         "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
         "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
         "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "nasa-opens-astronaut-applications-december-3-deadline",
+        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+      ]
+    },
+    {
+      "at": "2026-11-14T21:04:52+05:30",
+      "ids": [
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
+        "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
         "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "india-october-exports-record-iitf-goyal-1-trillion-target",
-    "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
     "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
     "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
     "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+    "u19-asia-cup-final-india-pakistan-preview-november-14",
+    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+    "forex-reserves-rise-719-billion-november-6-gold",
     "akvan-track-uncertain-andhra-odisha-imd-saturday",
-    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
   ]
 }

@@ -16,7 +16,7 @@ hero:
   need: "Rahul Gandhi, who launched the Telangana gig workers Act in Hyderabad"
   suggested_source: "Rahul Gandhi"
   subjects: ["Rahul Gandhi"]
-  alt: "Rahul Gandhi, Leader of the Opposition in the Lok Sabha (file photo)"
+  alt: "Rahul Gandhi speaking at an event (file photo)"
   overlay:
     kicker: "Our view"
     value: "Pay the first claim, then publish the numbers"

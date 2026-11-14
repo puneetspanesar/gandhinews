@@ -52556,16 +52556,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Mahanadi_Coalfields_Limited,_Sambalpur.jpg"
  },
  {
-  "id": "o-punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-  "articleId": "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Electricity_meters_in_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Balaji Kasirajan / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Household electricity meters (file photo)",
-  "alt_hi": "घरेलू बिजली मीटर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Electricity_meters_in_India.JPG"
- },
- {
   "id": "o-shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
   "articleId": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DK_Shivakumar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -52574,6 +52564,16 @@
   "alt": "D. K. Shivakumar (file photo)",
   "alt_hi": "डी. के. शिवकुमार (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:DK_Shivakumar.png"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rahul_Gandhi_speaking.jpg/1280px-Rahul_Gandhi_speaking.jpg",
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+  "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg",
+  "id": "r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
+  "articleId": "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid"
  },
  {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_03.jpg/1600px-Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_03.jpg",
@@ -52596,16 +52596,6 @@
   "articleId": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
  },
  {
-  "id": "o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-  "articleId": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Thotlakonda_beach_when_Cyclone_Fani_passes_near_Vizag_coast_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: IM3847 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Rough sea at Thotlakonda beach near Visakhapatnam as Cyclone Fani passed the coast in May 2019 (file photo)",
-  "alt_hi": "मई 2019 में चक्रवात फानी के गुजरने के समय विशाखापत्तनम के पास थोटलाकोंडा तट पर उफनता समुद्र (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Thotlakonda_beach_when_Cyclone_Fani_passes_near_Vizag_coast_7.jpg"
- },
- {
   "id": "o-nasa-opens-astronaut-applications-december-3-deadline",
   "articleId": "nasa-opens-astronaut-applications-december-3-deadline",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2025_Astronaut_Candidates_Formal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -52614,5 +52604,15 @@
   "alt": "NASA's 2025 class of astronaut candidates at Johnson Space Center, Houston (file photo)",
   "alt_hi": "ह्यूस्टन के जॉनसन स्पेस सेंटर में नासा के 2025 के अंतरिक्ष यात्री उम्मीदवार (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:2025_Astronaut_Candidates_Formal.jpg"
+ },
+ {
+  "id": "o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+  "articleId": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Uprooted_Trees_due_to_Cyclone_Fani_near_Narendra_Puskarini%2C_Puri..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Th3Snehasish / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Trees uprooted by Cyclone Fani near Narendra Pushkarini in Puri, Odisha, May 2019 (file photo)",
+  "alt_hi": "पुरी, ओडिशा में नरेंद्र पुष्करिणी के पास चक्रवात फणि से उखड़े पेड़, मई 2019 (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Uprooted_Trees_due_to_Cyclone_Fani_near_Narendra_Puskarini,_Puri..jpg"
  }
 ]
