@@ -17,9 +17,9 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
-      "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
+      "delimitation-bill-361-votes-needed-two-thirds-claim",
+      "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim"
     ],
     "relatedBeside": [
       "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
@@ -78,6 +78,17 @@
         }
       },
       {
+        "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "IMD now sees Akvan as a severe cyclone by November 18; Odisha gets orange warnings for November 19 to 21",
+          "hi": "मौसम विभाग: अकवान 18 नवंबर तक भीषण चक्रवात बन सकता है; ओडिशा में 19 से 21 नवंबर के लिए ऑरेंज चेतावनी"
+        }
+      },
+      {
         "link": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "lead": {
           "en": "Karnataka:",
@@ -108,17 +119,6 @@
         "text": {
           "en": "Iran's Guards say they destroyed a US radar in Bahrain after Sirik strike; CENTCOM says two drones were shot down",
           "hi": "ईरान के गार्ड्स का दावा, सिरिक हमले के बाद बहरीन में अमेरिकी रडार तबाह किया; सेंटकॉम बोला, दो ड्रोन मार गिराए"
-        }
-      },
-      {
-        "link": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Madurai Tanishq burglary: loss cut to 10 kg gold and 1 kg diamonds as police question showroom staff",
-          "hi": "मदुरै तनिष्क चोरी: 10 किलो सोना और 1 किलो हीरे गए, स्टाफ से पूछताछ"
         }
       }
     ]
@@ -192,13 +192,13 @@
     "list": [
       "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
       "nasa-opens-astronaut-applications-december-3-deadline",
+      "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
       "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-      "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
+      "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
     ],
     "also": [
-      "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-      "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
     ]
   },
   "startHere": [
@@ -402,7 +402,7 @@
       "list": [
         "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
         "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
+        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann"
       ]
     },
     {
@@ -446,10 +446,10 @@
       "section": "sports",
       "lead": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
       "list": [
-        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
         "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
         "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
       ]
     }
   ],
@@ -528,20 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T15:02:56+05:30",
-      "ids": [
-        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
-      ]
-    },
     {
       "at": "2026-11-14T16:45:27+05:30",
       "ids": [
@@ -642,7 +628,7 @@
       ]
     },
     {
-      "at": "2026-11-14T22:36:37+05:30",
+      "at": "2026-11-14T22:58:42+05:30",
       "ids": [
         "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
         "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
@@ -657,6 +643,23 @@
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
       ]
+    },
+    {
+      "at": "2026-11-14T23:01:35+05:30",
+      "ids": [
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "delimitation-bill-361-votes-needed-two-thirds-claim",
+        "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
+      ]
     }
   ],
   "critical": [],
@@ -666,6 +669,8 @@
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
     "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
     "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-    "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+    "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+    "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
   ]
 }

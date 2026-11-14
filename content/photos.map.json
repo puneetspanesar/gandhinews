@@ -27853,7 +27853,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Houses without power during a blackout in Ukraine (file photo)",
   "alt_hi": "यूक्रेन में ब्लैकआउट के दौरान बिना बिजली के मकान (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "generic scene, picked as an unrelated tile (hourly-22)"
  },
  "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah": {
   "id": "v-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
@@ -46769,7 +46770,8 @@
    "kind": "photo",
    "subj": "838f8b83878fc7e",
    "credit": "Photos: President Of Ukraine / Wikimedia Commons; Alex Blokha / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons; Alaexis / Wikimedia Commons"
-  }
+  },
+  "notile": "generic scene, picked as an unrelated tile (hourly-22)"
  },
  "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka": {
   "id": "o-reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
@@ -50788,24 +50790,24 @@
   "src": "/photos/o-jaishankar-pashinyan-delhi-stopover-gulf-ukraine-1280.jpg",
   "src800": "/photos/o-jaishankar-pashinyan-delhi-stopover-gulf-ukraine-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1081,
-  "credit": "Photo: U.S. Secretary of Defense / Wikimedia Commons",
-  "licence": "CC BY 2.0",
+  "height": 960,
+  "srcWidth": 864,
+  "credit": "Photo: Ministry of External Affairs, Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
   "alt": "S. Jaishankar (file photo)",
   "alt_hi": "एस. जयशंकर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29,_2023_-_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Subrahmanyam_Jaishankar_2019.jpg",
   "treated": {
    "src": "/photos/t-jaishankar-pashinyan-delhi-stopover-gulf-ukraine-1280.jpg",
    "src800": "/photos/t-jaishankar-pashinyan-delhi-stopover-gulf-ukraine-640.jpg",
    "cutout": true,
    "with": [
-    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
-    "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire"
+    "iom-warns-millions-ukrainians-displacement-winter",
+    "kyiv-draft-office-shooting-six-injured"
    ],
    "kind": "photo",
-   "subj": "7e7efcfc7c2c3014",
-   "credit": "Photos: U.S. Secretary of Defense / Wikimedia Commons; President Of Ukraine / Wikimedia Commons; Alex Blokha / Wikimedia Commons"
+   "subj": "1c3c141c042c3e3f",
+   "credit": "Photos: Ministry of External Affairs, Government of India / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons; Ввласенко / Wikimedia Commons"
   }
  },
  "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra": {
@@ -50845,7 +50847,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-vot-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-vot-640.jpg",
+   "cutout": true,
+   "with": [
+    "telangana-roll-revision-must-not-erase-voters-quietly",
+    "telangana-ai-minister-avatar-sridhar-babu-devfest-hyderabad",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1"
+   ],
+   "kind": "portrait",
+   "subj": "f7e3e3e3c3c1c1c1",
+   "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; Photo Division, Ministry of Information & Broadcasting, Government of India / Wikimedia Commons; Yakshitha / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  }
  },
  "mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim": {
   "id": "o-mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim",
