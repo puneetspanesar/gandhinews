@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+    "id": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
     "overlay": {
       "kicker": {
-        "en": "Politics / Tributes",
-        "hi": "राजनीति / श्रद्धांजलि"
+        "en": "Politics / Vice President",
+        "hi": "राजनीति / उपराष्ट्रपति"
       },
       "value": {
-        "en": "Nehru remembered on 137th birth anniversary",
-        "hi": "नेहरू की 137वीं जयंती पर स्मरण"
+        "en": "VP at CII summit: turn pledges into outcomes",
+        "hi": "उपराष्ट्रपति: निवेश के वादे नतीजों में बदलें"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Tributes",
-        "hi": "श्रद्धांजलि"
+        "en": "Vice President",
+        "hi": "उपराष्ट्रपति"
       }
     }
   },
@@ -36,8 +36,8 @@
           "hi": "असम:"
         },
         "text": {
-          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, Modi announces ₹2 lakh each",
-          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, मोदी ने 2-2 लाख रुपये की मदद घोषित की"
+          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family",
+          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, हर परिवार को 2 लाख रुपये"
         }
       },
       {
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
         "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-        "udhayanidhi-stalin-election-petition-madras-high-court"
+        "udhayanidhi-stalin-election-petition-madras-high-court",
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
       ],
-      "lead": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+      "lead": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
     },
     {
       "section": "economy",
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high",
-        "india-bans-export-lithium-ion-battery-black-mass"
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "lead": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
       "list": [
         "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "revanth-bharat-summit-visas-modi-hyderabad",
-        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+        "revanth-bharat-summit-visas-modi-hyderabad"
       ]
     },
     {
@@ -425,8 +425,8 @@
       "lead": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
       "list": [
         "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
-        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
+        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
       ]
     },
     {
@@ -632,9 +632,9 @@
       ]
     },
     {
-      "at": "2026-11-14T09:28:11+05:30",
+      "at": "2026-11-14T09:01:39+05:30",
       "ids": [
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
         "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
         "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
         "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
@@ -649,12 +649,8 @@
   "critical": [],
   "drop": [
     "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
     "forex-reserves-rise-719-billion-november-6-gold",
     "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "himachal-cabinet-1500-women-300-units-free-power-sukhu",
-    "arun-pocso-chargesheet-veeramani",
-    "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-    "cag-first-integrated-audit-39-discoms-28-officers-survey"
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled"
   ]
 }

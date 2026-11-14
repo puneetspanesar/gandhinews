@@ -49838,19 +49838,7 @@
     "src800": "/photos/i-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of the Rangajan NH-715 crash or any Assam highway crash; library, quick_photo, finder h1408",
-  "treated": {
-   "src": "/photos/t-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-grati-1280.jpg",
-   "src800": "/photos/t-assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-grati-640.jpg",
-   "cutout": true,
-   "with": [
-    "assam-congress-vote-rakshaks-polling-booths-roll-revision",
-    "assam-evictions-638-hectares-golaghat-hojai-nagaon"
-   ],
-   "kind": "portrait",
-   "subj": "ffffe7e7fb818282",
-   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; Mozzworld / Wikimedia Commons; OmerMarcel / Wikimedia Commons"
-  }
+  "nophoto": "no free photo of the Rangajan NH-715 crash or any Assam highway crash; library, quick_photo, finder h1408"
  },
  "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore": {
   "id": "o-vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
@@ -49863,7 +49851,19 @@
   "licence": "GODL-India",
   "alt": "C. P. Radhakrishnan (file photo)",
   "alt_hi": "सी. पी. राधाकृष्णन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg",
+  "treated": {
+   "src": "/photos/t-vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mo-1280.jpg",
+   "src800": "/photos/t-vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mo-640.jpg",
+   "cutout": true,
+   "with": [
+    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
+    "naidu-cyclone-murasu-review-cancels-delhi-visit--p1"
+   ],
+   "kind": "photo",
+   "subj": "e7c3c3c3c3c78301",
+   "credit": "Photos: Vice President's Secretariat / Wikimedia Commons; Saiphani02 / Wikimedia Commons; IM3847 / Wikimedia Commons"
+  }
  },
  "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes": {
   "id": "o-nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",

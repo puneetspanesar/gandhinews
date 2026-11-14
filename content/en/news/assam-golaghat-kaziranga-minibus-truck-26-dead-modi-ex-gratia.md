@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Assam"
 topics: []
-title: "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, Modi announces ₹2 lakh each"
+title: "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family"
 standfirst: "The minibus, carrying about 45 people from Golaghat towards Nagaon, jumped its lane at Rangajan on Friday afternoon and hit the truck head-on. Twenty others are injured, officials suspect overspeeding, and the district has ordered an inquiry."
 published: 2026-11-14T08:13:29+05:30
 location: Golaghat
