@@ -5,7 +5,7 @@ translation_of: mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam
 type: news
 section: states
 format_label: "राज्य / तमिलनाडु"
-topics: [states]
+topics: []
 title: "मेकेदातु: स्टालिन ने विजय से सर्वदलीय बैठक मांगी, तमिलनाडु बोला बांध नहीं बनेगा"
 standfirst: "शिवकुमार के यह कहने के बाद कि बांध को कोई नहीं रोक सकता, डीएमके प्रमुख ने मुख्यमंत्री विजय को पत्र लिखा। कानून मंत्री और कांग्रेस ने भी विरोध दोहराया।"
 published: 2026-11-14T16:09:52+05:30

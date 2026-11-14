@@ -4,7 +4,7 @@ lang: en
 type: news
 section: states
 format_label: "States / Tamil Nadu"
-topics: [states]
+topics: []
 title: "Stalin asks Vijay for all-party meeting on Mekedatu as Tamil Nadu government vows to stop the dam"
 standfirst: "After Karnataka's Chief Minister said no one can stop the dam, the DMK chief wrote to Tamil Nadu's Chief Minister, and the state's Law Minister and Congress unit said the project will not be allowed."
 published: 2026-11-14T16:09:52+05:30
