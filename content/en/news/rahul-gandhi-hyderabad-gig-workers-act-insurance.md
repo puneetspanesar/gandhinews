@@ -73,7 +73,7 @@ verification:
     - "Conflict: the Act text (s. 20) leaves the welfare fee rate to government notification; the March 30 Assembly report says a 1 to 2% levy. The 1% figure is as announced at the event."
     - "Gig worker numbers differ: about 4 lakh (April 2025 report) and about 6 lakh (Labour Minister, per a November 14 report). Both attributed."
     - "Pension was mentioned in one report without an amount; another report does not mention it. Copy says pension is part of the promised cover without a figure, attributed to the announcement."
-    - "Insurance of ₹5 lakh accident and ₹10 lakh health was first announced by Revanth Reddy in December 2023 (health cover under Rajiv Arogyasri, per a December 23, 2023 report)."
+    - "Insurance of ₹5 lakh accident and ₹10 lakh health was first announced by Revanth Reddy in December 2023 (health cover under Rajiv Arogyasri, per a December 23, 2023, report)."
 ---
 
 Congress leader **Rahul Gandhi on Saturday launched the working of Telangana's gig workers law** in Hyderabad, promising every registered platform worker ₹5 lakh in accident insurance and ₹10 lakh in health insurance. He did it alongside Chief Minister A Revanth Reddy at Jayabheri Grounds near the Hyderabad International Convention Centre, after a bike rally in which both men rode pillion on delivery workers' two-wheelers.

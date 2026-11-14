@@ -1,0 +1,26 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-14T14:04:40+05:30",
+ "end": "2026-11-14T14:53:58+05:30",
+ "summary": "Rahul Gandhi gig workers law leads; Microsoft outage ends; Madurai burglary; Pakistan U19 336",
+ "new": [
+  "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+  "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+  "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+  "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+   "why": "Hindi twin misspells the bowler's name as 'कावय पटेल' throughout (title, keyPoints, hero need/alt, seo description: 9 places), while the Hindi cover spells it 'काव्य पटेल'. The text also says Usman Khan 'reached 100 off 106 balls and fell soon after' yet gives '107 off 106 balls' (text and timeline); both cannot be right.",
+   "done": "Hindi: कावय changed to काव्य throughout; Usman Khan line now says out for 107 from 106 balls (EN and HI); timeline already 107 off 106."
+  }
+ ],
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): website-blocking-explained-section-69a-forged-court-orders-129-betting-sites"
+ ],
+ "lead": "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+}

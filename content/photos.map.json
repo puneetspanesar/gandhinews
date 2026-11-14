@@ -50127,7 +50127,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_in_Shillong_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_in_Shillong_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-hyderabad-gig-workers-act-insurance-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-hyderabad-gig-workers-act-insurance-640.jpg",
+   "cutout": true,
+   "with": [
+    "sangareddy-pharma-deaths-need-inspections-not-compensation",
+    "telangana-sir-electorate-may-shrink-26-per-cent",
+    "parliamentary-committees-jpc-standing-select-explained"
+   ],
+   "kind": "photo",
+   "subj": "f7e3e3e3e3e3c383",
+   "credit": "Photos: Sidheeq / Wikimedia Commons; Yakshitha / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Reply.rajrewal / Wikimedia Commons"
+  }
  },
  "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel": {
   "id": "i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
@@ -50141,7 +50154,7 @@
   "alt": "Gandhi News graphic: Pakistan post 336, India need 337 to win",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पाकिस्तान के 336 रन, भारत को जीत के लिए 337",
   "page": null,
-  "ihash": "03d5a7aa101a",
+  "ihash": "3034578dbf7d",
   "byLang": {
    "hi": {
     "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-3x2-1280.jpg",
@@ -50170,19 +50183,50 @@
     "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-640.jpg"
    }
   },
-  "nophoto": "no free photo of Usman Khan, Kavya Patel or Al Amerat; library, quick_photo found none"
+  "nophoto": "no free photo of Usman Khan, Kavya Patel or Al Amerat; library, quick_photo"
  },
  "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams": {
-  "id": "r-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-  "src": "/photos/r-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-1280.jpg",
-  "src800": "/photos/r-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-640.jpg",
+  "id": "i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+  "src": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-en-3x2-1280.jpg",
+  "src800": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-en-3x2-640.jpg",
   "width": 1280,
-  "height": 1414,
-  "credit": "Photo: Billjones94 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A Tanishq showroom of Titan Company in Kolkata (file photo)",
-  "alt_hi": "कोलकाता में टाइटन कंपनी का तनिष्क शोरूम (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tanishq_showroom_at_83_Bipin_BB_Ganguly_Street,_Bowbazar,_in_Kolkata.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Madurai Tanishq loss revised downward",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मदुरै तनिष्क का नुकसान घटाकर आंका गया",
+  "page": null,
+  "ihash": "cec5eefb5ec2",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-hi-3x2-1280.jpg",
+    "src800": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-en-t-1280.jpg",
+    "src800": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-hi-t-1280.jpg",
+    "src800": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-en-1280.jpg",
+    "src800": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-hi-1280.jpg",
+    "src800": "/photos/i-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Madurai Tanishq showroom or the police investigation; library, quick_photo Madurai/Tamil Nadu Police, finder h1414 (only ceremonies)"
  },
  "microsoft-365-outage-ends-india-indigo-akasa-air-india": {
   "id": "o-microsoft-365-outage-ends-india-indigo-akasa-air-india",
@@ -50195,6 +50239,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Satya Nadella (file photo)",
   "alt_hi": "सत्या नडेला (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-microsoft-365-outage-ends-india-indigo-akasa-air-india-1280.jpg",
+   "src800": "/photos/t-microsoft-365-outage-ends-india-indigo-akasa-air-india-640.jpg",
+   "cutout": true,
+   "with": [
+    "sensex-nifty-close-november-5-rally--p2",
+    "modi-ladakh-3350-crore-projects",
+    "oil-slump-deepens-brent-105-airlines-rally-iran-talks--p1"
+   ],
+   "kind": "photo",
+   "subj": "e3f3c3c3c3e3e3c3",
+   "credit": "Photos: Brian Smale and Microsoft / Wikimedia Commons; Md Shaifuzzaman Ayon / Wikimedia Commons; Saippuakauppias / Wikimedia Commons; Bill Abbott / Wikimedia Commons"
+  }
  }
 }

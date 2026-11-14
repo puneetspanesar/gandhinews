@@ -79,7 +79,7 @@ Hayam Khan, who opened with Usman Khan, was the first to go. Patel bowled him fo
 
 That was where the innings turned. Qadir reached his fifty in 39 balls and Usman Khan in 46, and the pair **added 135 for the second wicket**. Pakistan were 203 for 2 after 29 overs, a rate of seven an over. Arjun Rajput ended the stand when he had Qadir caught behind by Dravid, with the score at 197 for 2.
 
-Usman Khan reached 100 off 106 balls and fell soon after, to Patel, at 240 for 3, which left Pakistan with seven wickets in hand and the final overs to come.
+Usman Khan went past his hundred and was out for 107, from 106 balls, to Patel, at 240 for 3, which left Pakistan with seven wickets in hand and the final overs to come.
 
 ## The late order and the figures
 
