@@ -41,6 +41,17 @@
         }
       },
       {
+        "link": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "lead": {
+          "en": "Assam:",
+          "hi": "असम:"
+        },
+        "text": {
+          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family",
+          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, हर परिवार को 2 लाख रुपये"
+        }
+      },
+      {
         "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
         "lead": {
           "en": "Technology:",
@@ -96,25 +107,14 @@
         }
       },
       {
-        "link": "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
         "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
+          "en": "Bangladesh:",
+          "hi": "बांग्लादेश:"
         },
         "text": {
-          "en": "Rajasthan announces ₹9,321 crore special package for 87 drought-hit tehsils in 15 districts",
-          "hi": "राजस्थान ने 15 जिलों की 87 सूखा प्रभावित तहसीलों के लिए ₹9,321 करोड़ के विशेष पैकेज की घोषणा की"
-        }
-      },
-      {
-        "link": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-        "lead": {
-          "en": "Law:",
-          "hi": "कानून:"
-        },
-        "text": {
-          "en": "Himachal Police register FIR against BJP MP Kangana Ranaut over her posts on the Gandhi family",
-          "hi": "गांधी परिवार पर पोस्ट के मामले में भाजपा सांसद कंगना रनौत के खिलाफ हिमाचल पुलिस ने दर्ज की एफआईआर"
+          "en": "India and Bangladesh put off consular talks due in Dhaka on November 17 and 18",
+          "hi": "ढाका में 17 और 18 नवंबर को होने वाली भारत-बांग्लादेश कांसुलर वार्ता टली"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+      "id": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
       "also": []
     },
     "list": [
+      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
       "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
       "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
       "india-october-exports-record-iitf-goyal-1-trillion-target",
-      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
+      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
     ],
     "also": [
-      "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-      "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
+      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+      "himachal-cabinet-1500-women-300-units-free-power-sukhu"
     ]
   },
   "startHere": [
@@ -368,9 +368,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
         "udhayanidhi-stalin-election-petition-madras-high-court",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
+        "mann-lahore-world-punjabi-conference-mea-national-policy"
       ],
       "lead": "rahul-gandhi-hyderabad-gig-workers-act-insurance"
     },
@@ -403,11 +403,11 @@
     },
     {
       "section": "policy",
-      "lead": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+      "lead": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
       "list": [
-        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
+        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
       ]
     },
     {
@@ -512,23 +512,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T06:45:16+05:30",
-      "ids": [
-        "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
-        "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
-        "two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace",
-        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
-        "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
-      ]
-    },
     {
       "at": "2026-11-14T07:34:56+05:30",
       "ids": [
@@ -635,6 +618,20 @@
         "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
         "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint"
       ]
+    },
+    {
+      "at": "2026-11-14T15:02:56+05:30",
+      "ids": [
+        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
+      ]
     }
   ],
   "critical": [],
@@ -647,6 +644,8 @@
     "u19-asia-cup-final-india-pakistan-preview-november-14",
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
     "forex-reserves-rise-719-billion-november-6-gold",
-    "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+    "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+    "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+    "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
   ]
 }
