@@ -50297,12 +50297,12 @@
    "src800": "/photos/t-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-640.jpg",
    "cutout": true,
    "with": [
-    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-    "how-india-measures-inflation-new-cpi-series"
+    "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review--p1",
+    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3"
    ],
    "kind": "portrait",
    "subj": "18183878fcfdff",
-   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Atul Tegar / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons"
+   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Snehrashmi / Wikimedia Commons; Atul Tegar / Wikimedia Commons"
   }
  },
  "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight": {
@@ -50373,5 +50373,18 @@
    }
   },
   "nophoto": "no free photo of Patanjali Foods products or plant; library, quick_photo, finder h1416"
+ },
+ "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review--p1": {
+  "id": "o-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review--p1",
+  "src": "/photos/o-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review--p1-1280.jpg",
+  "src800": "/photos/o-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review--p1-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5184,
+  "credit": "Photo: Snehrashmi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Gandhi's ashram on the Sabarmati in Ahmedabad (file photo)",
+  "alt_hi": "अहमदाबाद के साबरमती आश्रम में हृदय कुंज (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg"
  }
 }

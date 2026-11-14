@@ -29,7 +29,7 @@ infographic:
     - {icon: currency-inr, value: "₹1,200 cr", label: "estimated cost of the Sabarmati Ashram redevelopment, as reported"}
     - {icon: currency-inr, value: "₹301 cr", label: "set aside by Gujarat for the 2030 Games, as reported"}
   source: "Reports of November 13 and 14, 2026"
-related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029, harsh-sanghavi-seoul-korean-firms-gujarat-investment]
+related: [amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029, harsh-sanghavi-seoul-korean-firms-gujarat-investment]
 seo:
   title: "Modi reviews Dholera, Sabarmati Ashram, 2030 Games in Gujarat"
   description: "After a night at Lok Bhavan, PM Modi met Gujarat CM Bhupendra Patel and Deputy CM Harsh Sanghavi on November 14 and reviewed Dholera, Sabarmati Ashram and the 2030 Games."

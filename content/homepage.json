@@ -16,10 +16,7 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "who-owns-trinamool-election-commission-symbol-dispute-explained",
-      "andhra-local-polls-must-start-with-free-nominations"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
     ],
@@ -88,6 +85,17 @@
         }
       },
       {
+        "link": "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+        "lead": {
+          "en": "Gig workers:",
+          "hi": "गिग वर्कर:"
+        },
+        "text": {
+          "en": "Rahul Gandhi launches Telangana gig workers law in Hyderabad, announces ₹5 lakh accident and ₹10 lakh health cover",
+          "hi": "राहुल गांधी ने हैदराबाद में गिग वर्कर कानून का अमल शुरू किया, 5 लाख का दुर्घटना और 10 लाख का स्वास्थ्य बीमा"
+        }
+      },
+      {
         "link": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
         "lead": {
           "en": "Climate:",
@@ -99,25 +107,14 @@
         }
       },
       {
-        "link": "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+        "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
         "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
         },
         "text": {
-          "en": "US lifts nationwide flight halt after telecom failure; Air India warns of disruption on US routes",
-          "hi": "टेलीकॉम गड़बड़ी के बाद अमेरिका में उड़ानों पर रोक हटी, एयर इंडिया की यात्रियों को चेतावनी"
-        }
-      },
-      {
-        "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-        "lead": {
-          "en": "Tributes:",
-          "hi": "श्रद्धांजलि:"
-        },
-        "text": {
-          "en": "Modi, Rajnath Singh and Stalin remember Nehru on his 137th birth anniversary, as India marks Children's Day",
-          "hi": "नेहरू की 137वीं जयंती पर मोदी, राजनाथ सिंह और स्टालिन ने किया स्मरण, देश ने मनाया बाल दिवस"
+          "en": "Lakshya Sen beats Alwi Farhan in three games to reach the Kumamoto Masters final",
+          "hi": "लक्ष्य सेन ने तीन गेम में अलवी फरहान को हराया, कुमामोतो मास्टर्स के फाइनल में"
         }
       }
     ]
@@ -192,12 +189,12 @@
       "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
       "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
       "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-      "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-      "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
+      "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+      "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
     ],
     "also": [
-      "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+      "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
     ]
   },
   "startHere": [
@@ -528,20 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-14T08:44:15+05:30",
-      "ids": [
-        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
-        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
-        "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25"
-      ]
-    },
-    {
       "at": "2026-11-14T09:33:34+05:30",
       "ids": [
         "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
@@ -648,6 +631,20 @@
         "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
         "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
         "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+      ]
+    },
+    {
+      "at": "2026-11-14T17:14:02+05:30",
+      "ids": [
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
       ]
     }
   ],

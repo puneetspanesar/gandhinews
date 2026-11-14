@@ -30,7 +30,7 @@ infographic:
     - {icon: currency-inr, value: "₹1,200 करोड़", label: "साबरमती आश्रम पुनर्विकास की अनुमानित लागत, रिपोर्टों के अनुसार"}
     - {icon: currency-inr, value: "₹301 करोड़", label: "2030 खेलों की तैयारी के लिए गुजरात का प्रावधान, रिपोर्टों के अनुसार"}
   source: "13 और 14 नवंबर 2026 की रिपोर्टें"
-related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029, harsh-sanghavi-seoul-korean-firms-gujarat-investment]
+related: [amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029, harsh-sanghavi-seoul-korean-firms-gujarat-investment]
 seo:
   title: "मोदी ने गुजरात में धोलेरा, साबरमती आश्रम, 2030 खेलों को परखा"
   description: "लोक भवन में रात बिताकर 14 नवंबर को पीएम मोदी ने गुजरात के सीएम भूपेंद्र पटेल और डिप्टी सीएम हर्ष संघवी से मिलकर धोलेरा, साबरमती आश्रम और 2030 खेलों की समीक्षा की।"
