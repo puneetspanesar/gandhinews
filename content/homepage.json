@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+    "id": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
     "overlay": {
       "kicker": {
-        "en": "Policy / Foreign affairs",
-        "hi": "नीति / विदेश नीति"
+        "en": "Politics / Karnataka",
+        "hi": "राजनीति / कर्नाटक"
       },
       "value": {
-        "en": "'Last stretch' on the US trade deal",
-        "hi": "व्यापार समझौते पर 'आख़िरी चरण'"
+        "en": "Shivakumar asks PM to shield SC/ST quota",
+        "hi": "शिवकुमार ने पीएम से मांगी कोटे की सुरक्षा"
       },
       "text": {
         "en": "",
@@ -17,15 +17,17 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "kejriwal-e20-trump-pressure-ethanol-claim"
+      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+      "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
+      "obc-creamy-layer-explained-parents-salary-supreme-court"
     ],
     "relatedBeside": [
       "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
     ],
     "live": {
       "title": {
-        "en": "Foreign affairs",
-        "hi": "विदेश नीति"
+        "en": "Karnataka",
+        "hi": "कर्नाटक"
       }
     }
   },
@@ -76,17 +78,6 @@
         }
       },
       {
-        "link": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "After a night at Lok Bhavan, Modi reviews Dholera, Sabarmati Ashram and 2030 Games work with Gujarat's CM and Deputy CM",
-          "hi": "मोदी ने गुजरात में धोलेरा, साबरमती आश्रम और 2030 खेलों की तैयारी की समीक्षा की"
-        }
-      },
-      {
         "link": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
         "lead": {
           "en": "Tamil Nadu:",
@@ -117,6 +108,17 @@
         "text": {
           "en": "Rahul Gandhi launches Telangana gig workers law in Hyderabad, announces ₹5 lakh accident and ₹10 lakh health cover",
           "hi": "राहुल ने हैदराबाद में गिग वर्कर कानून लागू किया, 5 और 10 लाख का बीमा"
+        }
+      },
+      {
+        "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Lakshya Sen beats Alwi Farhan in three games to reach the Kumamoto Masters final",
+          "hi": "लक्ष्य सेन ने तीन गेम में अलवी फरहान को हराया, कुमामोतो मास्टर्स के फाइनल में"
         }
       }
     ]
@@ -190,20 +192,20 @@
     "list": [
       "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
       "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
       "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-      "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+      "rahul-gandhi-hyderabad-gig-workers-act-insurance"
     ],
     "also": [
-      "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-      "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel"
+      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+      "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
     ]
   },
   "startHere": [
+    "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
+    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
     "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc",
-    "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-    "ecl-explained-rbi-expected-credit-loss-banks-april-2027"
+    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc"
   ],
   "trackers": [
     {
@@ -273,9 +275,9 @@
   },
   "factCheck": {
     "cards": [
+      "rahul-gandhi-bjp-assets-elevenfold-decade-claim",
       "goyal-record-october-exports-90-billion-claim",
-      "monsoon-session-unprorogued-record-88-days-ramesh-claim",
-      "nadda-tb-deaths-38-percent-who-report-claim"
+      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
     ]
   },
   "explained": [
@@ -356,11 +358,11 @@
     }
   ],
   "opinion": [
+    "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+    "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
     "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
     "cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey",
-    "tb-estimates-may-be-revised-publish-the-prevalence-survey-before-the-next-claim",
-    "wangchuk-confinement-election-orders-must-be-shown-in-writing",
-    "inflation-at-6-09-percent-needs-onion-and-food-supply-action"
+    "tb-estimates-may-be-revised-publish-the-prevalence-survey-before-the-next-claim"
   ],
   "sections": [
     {
@@ -370,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
         "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
       ],
-      "lead": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
+      "lead": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
     },
     {
       "section": "economy",
@@ -389,18 +391,18 @@
         ]
       },
       "list": [
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey"
+        "cag-first-integrated-audit-39-discoms-28-officers-survey",
+        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
+        "retail-inflation-october-2026-6-09-two-year-high"
       ]
     },
     {
       "section": "states",
       "lead": "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
       "list": [
-        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
         "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "himachal-cabinet-1500-women-300-units-free-power-sukhu"
       ]
     },
     {
@@ -435,19 +437,19 @@
       "section": "science",
       "lead": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
       "list": [
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
         "nadda-who-global-tb-report-2026-india-mortality-38",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
+        "infosys-prize-2026-six-researchers-under-40-100000-each"
       ]
     },
     {
       "section": "sports",
-      "lead": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+      "lead": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
       "list": [
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "u19-asia-cup-final-india-pakistan-preview-november-14",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "india-a-women-squads-england-a-shreyanka-patil-recalled"
       ]
     }
   ],
@@ -460,7 +462,7 @@
       },
       "text": {
         "en": "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday",
-        "hi": "स्टारशिप का शिप 42 रविवार तड़के स्टारबेस लौटेगा"
+        "hi": "स्टारशिप का शिप 42 रविवार को लगभग 2:47 बजे (भारतीय समय) स्टारबेस लौटेगा, पहली बार शिप को टावर से पकड़ने की कोशिश"
       },
       "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
     },
@@ -472,7 +474,7 @@
       },
       "text": {
         "en": "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders",
-        "hi": "अमित शाह पुणे में, भाजपा और सहयोगियों से मुलाकात"
+        "hi": "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, एनसीपी और शिवसेना नेताओं से मुलाकात"
       },
       "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
     },
@@ -484,7 +486,7 @@
       },
       "text": {
         "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
-        "hi": "बंगाल की खाड़ी का निम्न दबाव चक्रवात अकवान बन सकता है"
+        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
       },
       "link": "akvan-track-uncertain-andhra-odisha-imd-saturday"
     },
@@ -496,7 +498,7 @@
       },
       "text": {
         "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
-        "hi": "मोदी मनीला में आसियान-भारत शिखर सम्मेलन में (16 से 18 नवंबर)"
+        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
       },
       "link": "modi-asean-india-summit-manila-november-16-18"
     },
@@ -526,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T10:41:47+05:30",
-      "ids": [
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-        "ppf-sukanya-scss-nsc-interest-rates-october-december-2026",
-        "pm-kisan-25th-instalment-date-status-ekyc-explained",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
-        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
-        "u19-asia-cup-final-india-pakistan-preview-november-14"
-      ]
-    },
     {
       "at": "2026-11-14T12:43:23+05:30",
       "ids": [
@@ -652,14 +637,39 @@
         "microsoft-365-outage-ends-india-indigo-akasa-air-india",
         "rahul-gandhi-hyderabad-gig-workers-act-insurance"
       ]
+    },
+    {
+      "at": "2026-11-14T19:42:05+05:30",
+      "ids": [
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+        "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
+        "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      ]
     }
   ],
   "critical": [],
   "drop": [
+    "india-october-exports-record-iitf-goyal-1-trillion-target",
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
     "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+    "akvan-track-uncertain-andhra-odisha-imd-saturday",
+    "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+    "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+    "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
+    "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
+    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
     "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled"
+    "forex-reserves-rise-719-billion-november-6-gold",
+    "u19-asia-cup-final-india-pakistan-preview-november-14"
   ]
 }
