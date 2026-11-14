@@ -1,14 +1,9 @@
 {
  "run": "hourly-10",
  "start": "2026-11-14T10:05:13+05:30",
- "end": "2026-11-14T10:44:50+05:30",
- "summary": "4 stories: record October exports lead, Rajasthan drought relief, US flight halt, Lakshya Sen",
- "new": [
-  "india-october-exports-record-iitf-goyal-1-trillion-target",
-  "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-  "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-  "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
- ],
+ "end": "2026-11-14T10:58:56+05:30",
+ "summary": "second publish: exports lead collage fixed",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

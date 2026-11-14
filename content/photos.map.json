@@ -2751,7 +2751,8 @@
   "licence": "CC BY 4.0",
   "alt": "Commerce Minister Piyush Goyal (file photo)",
   "alt_hi": "वाणिज्य मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "nocut": "alt says Goyal alone but the photo is mostly another man (EU official / Rajeev Chandrasekhar); never a Goyal cut-out"
  },
  "iran-guards-say-they-hit-supertanker-in-hormuz": {
   "id": "x-iran-guards-say-they-hit-supertanker-in-hormuz",
@@ -15513,7 +15514,8 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, EC - Audiovisual Service, Dati Bendo / Wikimedia Commons"
-  }
+  },
+  "nocut": "alt says Goyal alone but the photo is mostly another man (EU official / Rajeev Chandrasekhar); never a Goyal cut-out"
  },
  "hot-springs-1959-police-commemoration-day-explained": {
   "id": "v-hot-springs-1959-police-commemoration-day-explained",
@@ -49954,11 +49956,11 @@
   "treated": {
    "src": "/photos/t-india-october-exports-record-iitf-goyal-1-trillion-target-1280.jpg",
    "src800": "/photos/t-india-october-exports-record-iitf-goyal-1-trillion-target-640.jpg",
-   "cutout": true,
+   "cutout": false,
    "with": [],
-   "kind": "portrait",
-   "subj": "ffeffefe9d101010",
-   "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Xa / Wikimedia Commons"
+   "kind": "photo",
+   "subj": "fffff180e0e03010",
+   "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons"
   }
  },
  "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory": {
