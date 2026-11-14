@@ -1,0 +1,15 @@
+{
+ "run": "stall-15",
+ "start": "2026-11-14T15:14:58+05:30",
+ "end": "2026-11-14T15:30:26+05:30",
+ "summary": "Hindi homepage middle column balanced; layout gap fixed",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): website-blocking-explained-section-69a-forged-court-orders-129-betting-sites"
+ ],
+ "lead": "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+}
