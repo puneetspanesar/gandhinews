@@ -13,10 +13,6 @@ keyPoints:
   - "About **1,000 delegates from 70 countries** are at the two-day Bharat Summit in Hyderabad on November 13 and 14."
   - "Chief Minister Revanth Reddy says the Centre **cancelled visas at the last minute**; the MEA says visa matters are sovereign functions."
   - "Rahul Gandhi is due to **launch the Telangana Gig Workers Policy** on Saturday, November 14."
-upcoming:
-  date: 2026-11-14
-  en: "Bharat Summit concludes in Hyderabad: Rahul Gandhi to launch Telangana Gig Workers Policy"
-  hi: "हैदराबाद में भारत समिट का समापन: राहुल गांधी तेलंगाना गिग वर्कर्स नीति जारी करेंगे"
 hero:
   need: "Telangana Chief Minister Revanth Reddy, with Prime Minister Narendra Modi as the second panel"
   suggested_source: "Revanth Reddy"

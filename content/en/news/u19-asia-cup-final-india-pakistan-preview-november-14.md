@@ -14,10 +14,6 @@ keyPoints:
   - "The final is at Al Amerat on **Saturday, November 14, with play at 10:30 am IST**, 9:00 am local time in Oman."
   - "India's Aaryavir Sehwag leads the tournament with **303 runs in four innings**; Pakistan's Usman Khan has 238 at an average of 119."
   - "Pakistan are **unbeaten in the tournament** and beat India by three wickets on November 8; India lost the 2025 final by 191 runs."
-upcoming:
-  date: 2026-11-14
-  en: "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST"
-  hi: "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
 hero:
   need: "India under-19 opener Aaryavir Sehwag and captain Lakshya Raichandani batting at the Asia Cup"
   suggested_source: "Aaryavir Sehwag"

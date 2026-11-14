@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+    "id": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
     "overlay": {
       "kicker": {
-        "en": "Politics / Gig workers",
-        "hi": "राजनीति / गिग वर्कर"
+        "en": "Politics / Prime Minister",
+        "hi": "राजनीति / प्रधानमंत्री"
       },
       "value": {
-        "en": "\"We are fulfilling the promise\"",
-        "hi": "\"वादा निभा रहे हैं\""
+        "en": "Gujarat: three projects reviewed",
+        "hi": "गुजरात: तीन परियोजनाओं की समीक्षा"
       },
       "text": {
         "en": "",
@@ -16,19 +16,55 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "who-owns-trinamool-election-commission-symbol-dispute-explained",
+      "andhra-local-polls-must-start-with-free-nominations"
+    ],
     "relatedBeside": [
-      "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+      "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
     ],
     "live": {
       "title": {
-        "en": "Gig workers",
-        "hi": "गिग वर्कर"
+        "en": "Prime Minister",
+        "hi": "प्रधानमंत्री"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Patanjali Foods profit falls 19% to ₹420 crore even as sales rise 15.5% to ₹11,323 crore",
+          "hi": "बिक्री 15.5% बढ़कर ₹11,323 करोड़ पर पहुंची, फिर भी पतंजलि फूड्स का मुनाफा 19% गिरकर ₹420 करोड़"
+        }
+      },
+      {
+        "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "Starship reaches orbit with 26 Starlinks after booster catch is called off, ship catch due early Sunday IST",
+          "hi": "स्टारशिप 26 स्टारलिंक के साथ कक्षा में, बूस्टर की कैचिंग रद्द; शिप की कैचिंग रविवार तड़के"
+        }
+      },
+      {
+        "link": "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Stalin asks Vijay for all-party meeting on Mekedatu as Tamil Nadu government vows to stop the dam",
+          "hi": "मेकेदातु: स्टालिन ने विजय से सर्वदलीय बैठक मांगी, तमिलनाडु बोला बांध नहीं बनेगा"
+        }
+      },
       {
         "link": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
         "lead": {
@@ -41,17 +77,6 @@
         }
       },
       {
-        "link": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
-        "lead": {
-          "en": "Assam:",
-          "hi": "असम:"
-        },
-        "text": {
-          "en": "26 killed as speeding minibus hits container truck on NH-715 near Kaziranga; inquiry ordered, ₹2 lakh for each family",
-          "hi": "काजीरंगा के पास एनएच-715 पर तेज़ रफ़्तार मिनीबस कंटेनर ट्रक से टकराई, 26 की मौत; जांच के आदेश, हर परिवार को 2 लाख रुपये"
-        }
-      },
-      {
         "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
         "lead": {
           "en": "Technology:",
@@ -59,18 +84,7 @@
         },
         "text": {
           "en": "Microsoft says global Outlook and Teams outage is over after more than a day; IndiGo, Akasa Air and Indian IT firms were hit",
-          "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन से ज़्यादा बाद ख़त्म; इंडिगो, आकासा एयर और भारतीय आईटी कंपनियाँ हुईं प्रभावित"
-        }
-      },
-      {
-        "link": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Pakistan U19 post 336 in Asia Cup final as Kavya Patel takes four; India need 337",
-          "hi": "एशिया कप फाइनल में पाकिस्तान अंडर-19 के 336 रन, काव्य पटेल को चार विकेट; भारत को चाहिए 337"
+          "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन बाद ख़त्म; इंडिगो, आकासा पर भी असर"
         }
       },
       {
@@ -85,36 +99,25 @@
         }
       },
       {
-        "link": "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "link": "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "United States:",
+          "hi": "अमेरिका:"
         },
         "text": {
-          "en": "India's goods exports hit a record $49.47 billion in October as Goyal opens trade fair",
-          "hi": "अक्टूबर में भारत का वस्तु निर्यात रिकॉर्ड 49.47 अरब डॉलर, गोयल ने खोला व्यापार मेला"
+          "en": "US lifts nationwide flight halt after telecom failure; Air India warns of disruption on US routes",
+          "hi": "टेलीकॉम गड़बड़ी के बाद अमेरिका में उड़ानों पर रोक हटी, एयर इंडिया की यात्रियों को चेतावनी"
         }
       },
       {
-        "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
         "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
+          "en": "Tributes:",
+          "hi": "श्रद्धांजलि:"
         },
         "text": {
-          "en": "Lakshya Sen beats Alwi Farhan in three games to reach the Kumamoto Masters final",
-          "hi": "लक्ष्य सेन ने तीन गेम में अलवी फरहान को हराया, कुमामोतो मास्टर्स के फाइनल में"
-        }
-      },
-      {
-        "link": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "lead": {
-          "en": "Bangladesh:",
-          "hi": "बांग्लादेश:"
-        },
-        "text": {
-          "en": "India and Bangladesh put off consular talks due in Dhaka on November 17 and 18",
-          "hi": "ढाका में 17 और 18 नवंबर को होने वाली भारत-बांग्लादेश कांसुलर वार्ता टली"
+          "en": "Modi, Rajnath Singh and Stalin remember Nehru on his 137th birth anniversary, as India marks Children's Day",
+          "hi": "नेहरू की 137वीं जयंती पर मोदी, राजनाथ सिंह और स्टालिन ने किया स्मरण, देश ने मनाया बाल दिवस"
         }
       }
     ]
@@ -182,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+      "id": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
       "also": []
     },
     "list": [
+      "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+      "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
       "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-      "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
       "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-      "india-october-exports-record-iitf-goyal-1-trillion-target",
-      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
     ],
     "also": [
-      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-      "himachal-cabinet-1500-women-300-units-free-power-sukhu"
+      "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+      "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
     ]
   },
   "startHere": [
@@ -368,15 +371,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "udhayanidhi-stalin-election-petition-madras-high-court",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti",
-        "mann-lahore-world-punjabi-conference-mea-national-policy"
+        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
       ],
-      "lead": "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+      "lead": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
     },
     {
       "section": "economy",
-      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
+      "lead": "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
       "module": {
         "type": "markets",
         "indicators": [
@@ -394,20 +397,20 @@
     },
     {
       "section": "states",
-      "lead": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+      "lead": "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
       "list": [
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
         "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
-        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia"
+        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils"
       ]
     },
     {
       "section": "policy",
-      "lead": "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+      "lead": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
       "list": [
+        "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
         "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
-        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
-        "cabinet-fertiliser-subsidy-62370-crore-museum-stand-up-india"
+        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
       ]
     },
     {
@@ -424,28 +427,28 @@
       "section": "world",
       "lead": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
       "list": [
+        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
         "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
+        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg"
       ]
     },
     {
       "section": "science",
-      "lead": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+      "lead": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
       "list": [
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
         "nadda-who-global-tb-report-2026-india-mortality-38",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste",
-        "infosys-prize-2026-six-researchers-under-40-100000-each"
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
       ]
     },
     {
       "section": "sports",
-      "lead": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+      "lead": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
       "list": [
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
         "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14"
+        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
+        "india-a-women-squads-england-a-shreyanka-patil-recalled"
       ]
     }
   ],
@@ -457,10 +460,34 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour",
-        "hi": "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
+        "en": "World Diabetes Day event at the Indian Embassy in Rome, with Jitendra Singh",
+        "hi": "रोम में भारतीय दूतावास में विश्व मधुमेह दिवस कार्यक्रम, जितेंद्र सिंह मौजूद"
       },
-      "link": "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "link": "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Pink Line elevated section opens to passengers in Bengaluru; the PM travels to Gujarat",
+        "hi": "बेंगलुरु में पिंक लाइन का एलिवेटेड खंड यात्रियों के लिए खुलेगा; प्रधानमंत्री गुजरात जाएंगे"
+      },
+      "link": "modi-bengaluru-energy-security-gulf-lpg-cavern-15600-crore-speech"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday",
+        "hi": "स्टारशिप का शिप 42 रविवार को लगभग 2:47 बजे (भारतीय समय) स्टारबेस लौटेगा, पहली बार शिप को टावर से पकड़ने की कोशिश"
+      },
+      "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
     },
     {
       "icon": "calendar-blank",
@@ -473,18 +500,6 @@
         "hi": "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, एनसीपी और शिवसेना नेताओं से मुलाकात"
       },
       "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
-        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
-      },
-      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
     },
     {
       "icon": "calendar-blank",
@@ -512,20 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T07:34:56+05:30",
-      "ids": [
-        "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
-        "u19-asia-cup-final-india-pakistan-preview-november-14",
-        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-        "udhayanidhi-stalin-election-petition-madras-high-court",
-        "revanth-bharat-summit-visas-modi-hyderabad",
-        "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
-      ]
-    },
     {
       "at": "2026-11-14T08:44:15+05:30",
       "ids": [
@@ -632,20 +633,33 @@
         "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
         "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
       ]
+    },
+    {
+      "at": "2026-11-14T16:45:27+05:30",
+      "ids": [
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+        "who-owns-trinamool-election-commission-symbol-dispute-explained",
+        "andhra-local-polls-must-start-with-free-nominations",
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
+        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
-    "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+    "u19-asia-cup-final-india-pakistan-preview-november-14",
     "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
     "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
     "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "u19-asia-cup-final-india-pakistan-preview-november-14",
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "forex-reserves-rise-719-billion-november-6-gold",
-    "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
-    "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-    "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
+    "india-october-exports-record-iitf-goyal-1-trillion-target",
+    "forex-reserves-rise-719-billion-november-6-gold"
   ]
 }

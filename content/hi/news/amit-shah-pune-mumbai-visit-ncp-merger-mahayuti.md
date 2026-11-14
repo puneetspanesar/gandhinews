@@ -17,7 +17,7 @@ keyPoints:
 upcoming:
   date: 2026-11-15
   en: "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders"
-  hi: "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, राकांपा और शिवसेना नेताओं से मुलाकात"
+  hi: "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास"
 hero:
   need: "Amit Shah, Union Home and Cooperation Minister, with Deputy Chief Minister Sunetra Pawar as the second panel"
   suggested_source: "Amit Shah"

@@ -14,10 +14,6 @@ keyPoints:
   - "India U19 won the semi-final by **eight wickets with 79 balls to spare**, reaching 230 for 2 in 36.5 overs."
   - "Captain Lakshya Raichandani made **93 off 90 balls** and shared a 117-run opening stand with Aaryavir Sehwag, who scored 51."
   - "India meet Pakistan in the final on **November 14 at 10:30 am IST**, after losing to them by three wickets on November 8."
-upcoming:
-  date: 2026-11-14
-  en: "Under-19 Asia Cup final: India v Pakistan, Al Amerat, 10:30 am IST"
-  hi: "अंडर-19 एशिया कप फाइनल: भारत बनाम पाकिस्तान, अल अमेरात, सुबह 10:30 बजे"
 hero:
   need: "India under-19 captain Lakshya Raichandani or opener Aaryavir Sehwag batting at the Asia Cup"
   suggested_source: "Lakshya Raichandani"

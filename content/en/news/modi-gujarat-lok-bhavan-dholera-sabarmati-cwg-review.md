@@ -4,7 +4,7 @@ lang: en
 type: news
 section: politics
 format_label: "Politics / Prime Minister"
-topics: [gujarat]
+topics: [states]
 title: "After a night at Lok Bhavan, Modi reviews Dholera, Sabarmati Ashram and 2030 Games work with Gujarat's CM and Deputy CM"
 standfirst: "The Prime Minister ended his two-day Karnataka and Gujarat tour on Saturday with a meeting in Gandhinagar, after dropping a planned prayer visit at Ambaji so as not to burden an expected crowd of about 5 lakh devotees."
 published: 2026-11-14T16:11:54+05:30

@@ -50259,13 +50259,26 @@
   "src": "/photos/o-mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam-1280.jpg",
   "src800": "/photos/o-mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1200,
-  "credit": "Photo: Dani Charles Silverscreen Media Inc. / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Vijay (file photo)",
-  "alt_hi": "विजय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_the_Nadigar_Sangam_Protest.jpg"
+  "height": 851,
+  "srcWidth": 3008,
+  "credit": "Photo: Kumarrajendran (talk) (Uploads) / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "DMK president M. K. Stalin at a public function in Tamil Nadu (file photo)",
+  "alt_hi": "डीएमके अध्यक्ष एम. के. स्टालिन तमिलनाडु में एक कार्यक्रम में (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Stalin_at_a_function.jpg",
+  "treated": {
+   "src": "/photos/t-mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam-1280.jpg",
+   "src800": "/photos/t-mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam-640.jpg",
+   "cutout": true,
+   "with": [
+    "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting",
+    "chennai-rain-schools-shut-four-districts-low-pressure",
+    "special-session-of-parliament-explained-shah-offer-cec-removal"
+   ],
+   "kind": "photo",
+   "subj": "40e2e2ffe3e3",
+   "credit": "Photos: Kumarrajendran (talk) (Uploads) / Wikimedia Commons; L.vivian.richard at en.wikipedia / Wikimedia Commons; L.vivian.richard; Nikhilb239 / Wikimedia Commons"
+  }
  },
  "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review": {
   "id": "o-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
@@ -50278,7 +50291,19 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-1280.jpg",
+   "src800": "/photos/t-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-640.jpg",
+   "cutout": true,
+   "with": [
+    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+    "how-india-measures-inflation-new-cpi-series"
+   ],
+   "kind": "portrait",
+   "subj": "18183878fcfdff",
+   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Atul Tegar / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons"
+  }
  },
  "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight": {
   "id": "o-starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
@@ -50291,7 +50316,20 @@
   "licence": "CC BY-SA 2.0",
   "alt": "SpaceX Starship and Super Heavy booster stacked at the Starbase launch tower, Texas (file photo)",
   "alt_hi": "टेक्सास के स्टारबेस लॉन्च टावर पर खड़ा स्पेसएक्स स्टारशिप और सुपर हेवी बूस्टर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Starship_full_stack_with_Jeep.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Starship_full_stack_with_Jeep.jpg",
+  "treated": {
+   "src": "/photos/t-starship-flight-15-booster-catch-aborted-ship-orbit-catch-du-1280.jpg",
+   "src800": "/photos/t-starship-flight-15-booster-catch-aborted-ship-orbit-catch-du-640.jpg",
+   "cutout": true,
+   "with": [
+    "starlink-waits-on-security-clearance-as-musk-row-escalates",
+    "bennu-samples-hybrid-inner-outer-solar-system-eth-zurich",
+    "india-to-join-siofa-high-seas-fisheries"
+   ],
+   "kind": "photo",
+   "subj": "38f8f8fcfdfc3c",
+   "credit": "Photos: Hotel Pika / Wikimedia Commons; Ka23 13 / Wikimedia Commons; NASA/Goddard/University of Arizona / Wikimedia Commons; U.S. Navy photo / Wikimedia Commons"
+  }
  },
  "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore": {
   "id": "i-patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",

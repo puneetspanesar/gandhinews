@@ -17,7 +17,7 @@ keyPoints:
 upcoming:
   date: 2026-11-16
   en: "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)"
-  hi: "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
+  hi: "मोदी मनीला में आसियान-भारत शिखर सम्मेलन में (16 से 18 नवंबर)"
 hero:
   need: "आसियान शिखर सम्मेलन में प्रधानमंत्री नरेंद्र मोदी"
   suggested_source: "Narendra Modi"

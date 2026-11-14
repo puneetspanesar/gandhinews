@@ -54,7 +54,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event: results for quarter ended Sept 30, 2026 published Saturday Nov 14; earliest item found stamped 15:34 IST (IANS). Exchange filing itself not opened (WebFetch of exchange sites not attempted for this item); figures cross-checked across Hans India, Indian Television and Univest, which agree on revenue 11,322.58 cr, PAT about 419.8 cr vs 516.7 cr."
+    - "Event: results for quarter ended Sept 30, 2026, published Saturday Nov 14; earliest item found stamped 15:34 IST (IANS). Exchange filing itself not opened (WebFetch of exchange sites not attempted for this item); figures cross-checked across Hans India, Indian Television and Univest, which agree on revenue 11,322.58 cr, PAT about 419.8 cr vs 516.7 cr."
     - "Hans India calls PAT 'consolidated'; Indian Television describes the segment table as standalone. Copy says only 'profit after tax' and 'revenue from operations'."
     - "Share price Rs 421 down over 2% (Hans India, no date given): written as Friday's close because Nov 14 is a Saturday with no regular session; inferred. Down about 30% in a year also Hans India."
     - "Segment revenues are as reported before eliminations and do not sum to total revenue; copy does not add them."

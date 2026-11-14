@@ -13,10 +13,6 @@ keyPoints:
   - "Prime Minister Narendra Modi **inaugurated the COSMOS-Mysuru Planetarium** on Friday afternoon, November 13."
   - "Its **15-metre tilted dome carries about 6,150 LED panels** with 4.2 crore LEDs and no projector."
   - "Finance Minister Nirmala Sitharaman, who laid the foundation stone in 2022, **briefed him and took him round**."
-upcoming:
-  date: 2026-11-14
-  en: "PM Modi at the Ambaji Temple in Banaskantha, Gujarat, the second day of his Karnataka-Gujarat tour"
-  hi: "प्रधानमंत्री मोदी गुजरात के बनासकांठा में अंबाजी मंदिर में, कर्नाटक-गुजरात दौरे का दूसरा दिन"
 hero:
   need: "Prime Minister Narendra Modi"
   suggested_source: "Narendra Modi"

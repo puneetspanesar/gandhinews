@@ -1,0 +1,20 @@
+{
+ "run": "hourly-16",
+ "start": "2026-11-14T16:04:40+05:30",
+ "end": "2026-11-14T16:50:52+05:30",
+ "summary": "Modi Gujarat review leads; Mekedatu Stalin letter; Starship Flight 15; Patanjali Q2",
+ "new": [
+  "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
+  "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+  "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+  "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): website-blocking-explained-section-69a-forged-court-orders-129-betting-sites"
+ ],
+ "lead": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
+}
