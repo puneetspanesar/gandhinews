@@ -1,11 +1,9 @@
 {
  "run": "hourly-09",
  "start": "2026-11-14T09:04:42+05:30",
- "end": "2026-11-14T09:30:35+05:30",
- "summary": "Lead run: Nehru anniversary tributes lead",
- "new": [
-  "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
- ],
+ "end": "2026-11-14T09:48:26+05:30",
+ "summary": "Collage fix: no person tile behind the Nehru lead",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
