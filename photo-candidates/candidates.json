@@ -1,0 +1,37 @@
+{
+  "k1": {
+    "query": "Sanjay Malhotra RBI Governor",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Sanjay Malhotra, Governor of RBI.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sanjay_Malhotra,_Governor_of_RBI.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sanjay_Malhotra%2C_Governor_of_RBI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 391,
+        "height": 521,
+        "licence": "GODL-India",
+        "author": "Ministry of Finance of India",
+        "credit": "https://pib.gov.in/ShowAlbum.aspx?albumid=183347&amp;reg=3&amp;lang=1",
+        "date": "2024-12-04",
+        "description": "The Secretary, Department of Revenue, Ministry of Finance, Shri Sanjay Malhotra addressing at the 67th Founding Day of the Directorate of Revenue Intelligence (DRI), in New Delhi on December 04, 2024.",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sanjay_Malhotra%2C_Governor_of_RBI.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Sanjay Malhotra RBI.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sanjay_Malhotra_RBI.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sanjay_Malhotra_RBI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 484,
+        "height": 538,
+        "licence": "GODL-India",
+        "author": "Reserve Bank of India",
+        "credit": "The image is of governor of Reserve Bank of India and is obtained from the official website of RBI. https://m.rbi.org.in",
+        "date": "Unknown date",
+        "description": "The image is of RBI governor Shri Sanjay Malhotra",
+        "thumb": "k1-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sanjay_Malhotra_RBI.jpg"
+      }
+    ]
+  }
+}
