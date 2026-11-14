@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
+    "id": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
     "overlay": {
       "kicker": {
-        "en": "Politics / Vice President",
-        "hi": "राजनीति / उपराष्ट्रपति"
+        "en": "Politics / Tributes",
+        "hi": "राजनीति / श्रद्धांजलि"
       },
       "value": {
-        "en": "VP at CII summit: turn pledges into outcomes",
-        "hi": "उपराष्ट्रपति: निवेश के वादे नतीजों में बदलें"
+        "en": "Nehru remembered on 137th birth anniversary",
+        "hi": "नेहरू की 137वीं जयंती पर स्मरण"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Vice President",
-        "hi": "उपराष्ट्रपति"
+        "en": "Tributes",
+        "hi": "श्रद्धांजलि"
       }
     }
   },
@@ -49,6 +49,17 @@
         "text": {
           "en": "Bank credit growth quickens to 19.26% in the fortnight to October 31 as deposits lag by 2.5 points",
           "hi": "31 अक्टूबर को खत्म पखवाड़े में बैंक ऋण वृद्धि बढ़कर 19.26%, जमा वृद्धि 2.5 अंक पीछे"
+        }
+      },
+      {
+        "link": "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+        "lead": {
+          "en": "Law:",
+          "hi": "कानून:"
+        },
+        "text": {
+          "en": "Himachal Police register FIR against BJP MP Kangana Ranaut over her posts on the Gandhi family",
+          "hi": "गांधी परिवार पर पोस्ट के मामले में भाजपा सांसद कंगना रनौत के खिलाफ हिमाचल पुलिस ने दर्ज की एफआईआर"
         }
       },
       {
@@ -96,25 +107,14 @@
         }
       },
       {
-        "link": "mann-lahore-world-punjabi-conference-mea-national-policy",
+        "link": "udhayanidhi-stalin-election-petition-madras-high-court",
         "lead": {
-          "en": "Foreign Affairs:",
-          "hi": "विदेश मामले:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "MEA says 'national policy' will decide Bhagwant Mann's Lahore trip, as Punjab CM awaits clearance",
-          "hi": "भगवंत मान की लाहौर यात्रा पर विदेश मंत्रालय बोला, 'राष्ट्रीय नीति' तय करेगी; पंजाब के मुख्यमंत्री मंज़ूरी के इंतज़ार में"
-        }
-      },
-      {
-        "link": "priyanka-special-session-delimitation-not-informed-nov-24-25",
-        "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
-        },
-        "text": {
-          "en": "Priyanka Gandhi says Opposition not told of special Session as Centre eyes November 24 or 25 for delimitation Bill",
-          "hi": "प्रियंका गांधी बोलीं, विशेष सत्र की विपक्ष को खबर नहीं; परिसीमन विधेयक के लिए 24 या 25 नवंबर पर नजर"
+          "en": "Madras High Court refuses to throw out election petition against Udhayanidhi Stalin",
+          "hi": "मद्रास हाईकोर्ट ने उदयनिधि स्टालिन के खिलाफ चुनाव याचिका खारिज करने से इनकार किया"
         }
       }
     ]
@@ -186,15 +186,15 @@
       "also": []
     },
     "list": [
+      "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
       "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
       "u19-asia-cup-final-india-pakistan-preview-november-14",
       "akvan-track-uncertain-andhra-odisha-imd-saturday",
-      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
-      "mann-lahore-world-punjabi-conference-mea-national-policy"
+      "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms"
     ],
     "also": [
-      "priyanka-special-session-delimitation-not-informed-nov-24-25",
-      "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre"
+      "udhayanidhi-stalin-election-petition-madras-high-court",
+      "revanth-bharat-summit-visas-modi-hyderabad"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
         "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
-        "udhayanidhi-stalin-election-petition-madras-high-court",
-        "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
+        "udhayanidhi-stalin-election-petition-madras-high-court"
       ],
-      "lead": "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
+      "lead": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
     },
     {
       "section": "economy",
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
         "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high"
+        "retail-inflation-october-2026-6-09-two-year-high",
+        "india-bans-export-lithium-ion-battery-black-mass"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "lead": "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
       "list": [
         "akvan-track-uncertain-andhra-odisha-imd-saturday",
-        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
-        "revanth-bharat-summit-visas-modi-hyderabad"
+        "revanth-bharat-summit-visas-modi-hyderabad",
+        "rajasthan-ssr-draft-roll-5-26-crore-11-lakh-above-sir"
       ]
     },
     {
@@ -425,8 +425,8 @@
       "lead": "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
       "list": [
         "iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
-        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz"
+        "trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz",
+        "brooklyn-flatbush-avenue-building-collapse-eight-dead-search-ends"
       ]
     },
     {
@@ -524,20 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-13T21:20:03+05:30",
-      "ids": [
-        "forex-reserves-rise-719-billion-november-6-gold",
-        "mann-lahore-world-punjabi-conference-mea-national-policy",
-        "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-        "modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre",
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "arun-pocso-chargesheet-veeramani",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence"
-      ]
-    },
     {
       "at": "2026-11-13T22:48:55+05:30",
       "ids": [
@@ -644,13 +630,31 @@
         "mann-lahore-world-punjabi-conference-mea-national-policy",
         "priyanka-special-session-delimitation-not-informed-nov-24-25"
       ]
+    },
+    {
+      "at": "2026-11-14T09:28:11+05:30",
+      "ids": [
+        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+        "assam-golaghat-kaziranga-minibus-truck-26-dead-modi-ex-gratia",
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "kangana-ranaut-fir-himachal-police-gandhi-family-posts-shimla-complaint",
+        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
+        "udhayanidhi-stalin-election-petition-madras-high-court"
+      ]
     }
   ],
   "critical": [],
   "drop": [
     "kaziranga-rongajan-minibus-container-truck-collision-23-dead",
+    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
     "forex-reserves-rise-719-billion-november-6-gold",
     "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled"
+    "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+    "arun-pocso-chargesheet-veeramani",
+    "bangladesh-jashore-court-bombs-three-blasts-wave-of-violence",
+    "cag-first-integrated-audit-39-discoms-28-officers-survey"
   ]
 }
