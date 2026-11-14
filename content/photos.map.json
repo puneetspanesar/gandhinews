@@ -50115,5 +50115,86 @@
    }
   },
   "nophoto": "no free photo of Talcher coalfield or Mahanadi Coalfields; quick_photo, finder h1412"
+ },
+ "rahul-gandhi-hyderabad-gig-workers-act-insurance": {
+  "id": "o-rahul-gandhi-hyderabad-gig-workers-act-insurance",
+  "src": "/photos/o-rahul-gandhi-hyderabad-gig-workers-act-insurance-1280.jpg",
+  "src800": "/photos/o-rahul-gandhi-hyderabad-gig-workers-act-insurance-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1858,
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_in_Shillong_(cropped).jpg"
+ },
+ "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel": {
+  "id": "i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+  "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-en-3x2-1280.jpg",
+  "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Pakistan post 336, India need 337 to win",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पाकिस्तान के 336 रन, भारत को जीत के लिए 337",
+  "page": null,
+  "ihash": "03d5a7aa101a",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-3x2-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-en-t-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-t-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-en-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-1280.jpg",
+    "src800": "/photos/i-u19-asia-cup-final-pakistan-336-india-chase-kavya-patel-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Usman Khan, Kavya Patel or Al Amerat; library, quick_photo found none"
+ },
+ "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams": {
+  "id": "r-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
+  "src": "/photos/r-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-1280.jpg",
+  "src800": "/photos/r-madurai-tanishq-showroom-burglary-10-kg-gold-police-teams-640.jpg",
+  "width": 1280,
+  "height": 1414,
+  "credit": "Photo: Billjones94 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A Tanishq showroom of Titan Company in Kolkata (file photo)",
+  "alt_hi": "कोलकाता में टाइटन कंपनी का तनिष्क शोरूम (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tanishq_showroom_at_83_Bipin_BB_Ganguly_Street,_Bowbazar,_in_Kolkata.jpg"
+ },
+ "microsoft-365-outage-ends-india-indigo-akasa-air-india": {
+  "id": "o-microsoft-365-outage-ends-india-indigo-akasa-air-india",
+  "src": "/photos/o-microsoft-365-outage-ends-india-indigo-akasa-air-india-1280.jpg",
+  "src800": "/photos/o-microsoft-365-outage-ends-india-indigo-akasa-air-india-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 2119,
+  "credit": "Photo: Brian Smale and Microsoft / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Satya Nadella (file photo)",
+  "alt_hi": "सत्या नडेला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg"
  }
 }
