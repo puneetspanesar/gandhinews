@@ -312,7 +312,7 @@ def generic(sid, M, have, n):
 
 
 PEOPLE = json.load(open(R + 'newsroom/library/people.json'))
-PERSONISH = re.compile(r'\b(leaders|delegates|ministers|officials|group photo|family photo|Justice|Dr|Mr|Mrs|Ms|Shri|Smt|minister|leader|chief|CM|MP|MLA|chairman|chairperson|CEO|president|woman|man|girl|boy|portrait|speaks|speaking|addresses|addressing|actor|player|batter|bowler|captain|coach)\b', re.I)
+PERSONISH = re.compile(r'\b(leaders|delegates|ministers|officials|group photo|family photo|Justice|Dr|Mr|Mrs|Ms|Shri|Smt|minister|leader|chief|CM|MP|MLA|chairman|chairperson|CEO|president|woman|man|girl|boy|portrait|speaks|speaking|addresses|addressing|actor|player|batter|bowler|captain|coach)\b|\bGovernor(?= [A-Z][a-z]+ [A-Z][a-z]+)', re.I)
 USED = {}   # how often each library photo already sits in a collage (filled in main)
 
 
