@@ -19,10 +19,10 @@
     "relatedBelow": [
       "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
       "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-      "himachal-cabinet-1500-women-300-units-free-power-sukhu"
+      "akvan-track-uncertain-andhra-odisha-imd-saturday"
     ],
     "relatedBeside": [
-      "nasa-opens-astronaut-applications-december-3-deadline"
+      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
     ],
     "live": {
       "title": {
@@ -33,6 +33,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI fines Mobikwik ₹9 lakh for wallet transfer limits and late fraud reports",
+          "hi": "आरबीआई ने मोबिक्विक पर ₹9 लाख का जुर्माना लगाया, वॉलेट ट्रांसफर सीमा और देर से फ्रॉड रिपोर्टिंग पर"
+        }
+      },
       {
         "link": "nasa-opens-astronaut-applications-december-3-deadline",
         "lead": {
@@ -78,6 +89,28 @@
         }
       },
       {
+        "link": "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Patanjali Foods profit falls 19% to ₹420 crore even as sales rise 15.5% to ₹11,323 crore",
+          "hi": "बिक्री 15.5% बढ़कर ₹11,323 करोड़ पर पहुंची, फिर भी पतंजलि फूड्स का मुनाफा 19% गिरकर ₹420 करोड़"
+        }
+      },
+      {
+        "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "Starship reaches orbit with 26 Starlinks after booster catch is called off, ship catch due early Sunday IST",
+          "hi": "स्टारशिप 26 स्टारलिंक के साथ कक्षा में, बूस्टर की कैचिंग रद्द; शिप की कैचिंग रविवार तड़के"
+        }
+      },
+      {
         "link": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
         "lead": {
           "en": "Prime Minister:",
@@ -86,39 +119,6 @@
         "text": {
           "en": "After a night at Lok Bhavan, Modi reviews Dholera, Sabarmati Ashram and 2030 Games work with Gujarat's CM and Deputy CM",
           "hi": "मोदी ने गुजरात में धोलेरा, साबरमती आश्रम और 2030 खेलों की तैयारी की समीक्षा की"
-        }
-      },
-      {
-        "link": "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Stalin asks Vijay for all-party meeting on Mekedatu as Tamil Nadu government vows to stop the dam",
-          "hi": "मेकेदातु: स्टालिन ने विजय से सर्वदलीय बैठक मांगी, तमिलनाडु बोला बांध नहीं बनेगा"
-        }
-      },
-      {
-        "link": "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Madurai Tanishq burglary: loss cut to 10 kg gold and 1 kg diamonds as police question showroom staff",
-          "hi": "मदुरै तनिष्क चोरी: 10 किलो सोना और 1 किलो हीरे गए, स्टाफ से पूछताछ"
-        }
-      },
-      {
-        "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "lead": {
-          "en": "Technology:",
-          "hi": "तकनीक:"
-        },
-        "text": {
-          "en": "Microsoft says global Outlook and Teams outage is over after more than a day; IndiGo, Akasa Air and Indian IT firms were hit",
-          "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन बाद ख़त्म; इंडिगो, आकासा पर भी असर"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+      "id": "nasa-opens-astronaut-applications-december-3-deadline",
       "also": []
     },
     "list": [
+      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
       "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
       "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-      "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-      "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
+      "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+      "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
     ],
     "also": [
-      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-      "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+      "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam"
     ]
   },
   "startHere": [
@@ -380,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "india-october-exports-record-iitf-goyal-1-trillion-target",
+      "lead": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
-        "cag-first-integrated-audit-39-discoms-28-officers-survey",
-        "sensex-nifty-close-november-12-realty-godrej-temasek-cpi-awaited",
-        "retail-inflation-october-2026-6-09-two-year-high"
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "india-october-exports-record-iitf-goyal-1-trillion-target"
       ]
     },
     {
@@ -437,19 +437,19 @@
       "section": "science",
       "lead": "nasa-opens-astronaut-applications-december-3-deadline",
       "list": [
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "nadda-who-global-tb-report-2026-india-mortality-38"
       ]
     },
     {
       "section": "sports",
-      "lead": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+      "lead": "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
       "list": [
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
+        "u19-asia-cup-final-india-pakistan-preview-november-14",
         "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win",
-        "india-u19-beat-afghanistan-semi-final-asia-cup-final-pakistan-november-14",
-        "india-a-women-squads-england-a-shreyanka-patil-recalled"
+        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
       ]
     }
   ],
@@ -461,10 +461,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday",
-        "hi": "स्टारशिप का शिप 42 रविवार को लगभग 2:47 बजे (भारतीय समय) स्टारबेस लौटेगा, पहली बार शिप को टावर से पकड़ने की कोशिश"
+        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
+        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
       },
-      "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
     },
     {
       "icon": "calendar-blank",
@@ -485,10 +485,10 @@
         "hi": "16 नवंबर"
       },
       "text": {
-        "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
-        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
+        "en": "IMD expects the Bay of Bengal system to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बन जाएगा"
       },
-      "link": "akvan-track-uncertain-andhra-odisha-imd-saturday"
+      "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
     },
     {
       "icon": "calendar-blank",
@@ -622,52 +622,40 @@
       ]
     },
     {
-      "at": "2026-11-14T20:58:11+05:30",
+      "at": "2026-11-14T20:36:25+05:30",
       "ids": [
         "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
         "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
         "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
         "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "nasa-opens-astronaut-applications-december-3-deadline",
         "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
         "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
         "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
       ]
     },
     {
-      "at": "2026-11-14T21:04:52+05:30",
+      "at": "2026-11-14T21:14:18+05:30",
       "ids": [
         "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
         "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
         "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-        "himachal-cabinet-1500-women-300-units-free-power-sukhu",
+        "akvan-track-uncertain-andhra-odisha-imd-saturday",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "nasa-opens-astronaut-applications-december-3-deadline",
         "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ]
     }
   ],
   "critical": [],
-  "drop": [
-    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-    "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-    "u19-asia-cup-final-india-pakistan-preview-november-14",
-    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-    "forex-reserves-rise-719-billion-november-6-gold",
-    "akvan-track-uncertain-andhra-odisha-imd-saturday",
-    "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
-  ]
+  "drop": []
 }
