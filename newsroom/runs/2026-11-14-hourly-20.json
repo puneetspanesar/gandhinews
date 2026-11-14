@@ -1,13 +1,9 @@
 {
  "run": "hourly-20",
  "start": "2026-11-14T20:04:59+05:30",
- "end": "2026-11-14T20:42:45+05:30",
- "summary": "Akvan severe-cyclone forecast leads; Mobikwik RBI fine; NASA astronaut call",
- "new": [
-  "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-  "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-  "nasa-opens-astronaut-applications-december-3-deadline"
- ],
+ "end": "2026-11-14T20:59:07+05:30",
+ "summary": "Collage fixes for Akvan and NASA stories",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

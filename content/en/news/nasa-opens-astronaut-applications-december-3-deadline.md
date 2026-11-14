@@ -24,7 +24,7 @@ hero:
   alt: "NASA astronaut candidates at Johnson Space Center, Houston"
   overlay:
     value: "Apply by December 3"
-related: [nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028, spacex-crs-35-dragon-docks-space-station]
+related: [nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028, spacex-crs-35-dragon-docks-space-station, spacex-crs-35-cargo-launch-iss-brain-organoids, starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight]
 seo:
   title: "NASA astronaut applications open, deadline December 3"
   description: "NASA is hiring astronaut candidates for Moon and Mars missions. Applications close December 3, 2026; the pay is about $164,395 and only US citizens can apply."

@@ -12221,7 +12221,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Bagmati river in flood (file photo)",
   "alt_hi": "उफनती बागमती नदी (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": true
  },
  "pakistan-suspends-iran-trade-taftan-gabd-lpg": {
   "id": "v-pakistan-suspends-iran-trade-taftan-gabd-lpg",
@@ -25802,7 +25803,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
-  }
+  },
+  "notile": true
  },
  "markets-week-ahead-us-midterms-itc-sbi-results-november-2--p3": {
   "id": "v-markets-week-ahead-us-midterms-itc-sbi-results-november-p3",
@@ -28864,7 +28866,8 @@
     "src": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-hi-1280.jpg",
     "src800": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-hi-640.jpg"
    }
-  }
+  },
+  "notile": true
  },
  "krbl-q2-profit-50-per-cent-india-gate-basmati--bg": {
   "id": "v-krbl-q2-profit-50-per-cent-india-gate-basmati-bg",
@@ -31226,7 +31229,8 @@
   "licence": "CC BY-SA 3.0 de",
   "alt": "A Patriot missile launcher (file photo)",
   "alt_hi": "पैट्रियट मिसाइल लॉन्चर (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": true
  },
  "rba-hikes-cash-rate-4-85-per-cent-fifth-rise-2026": {
   "id": "v-rba-hikes-cash-rate-4-85-per-cent-fifth-rise-2026",
@@ -34440,7 +34444,8 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Voters at a polling place in the United States (file photo)",
   "alt_hi": "अमेरिका के एक मतदान केंद्र पर मतदाता (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": true
  },
  "democratic-congress-india-should-close-trade-deal-on-its-own-terms": {
   "id": "v-democratic-congress-india-should-close-trade-deal-on-its-own",
@@ -34452,7 +34457,8 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The United States Capitol in Washington (file photo)",
   "alt_hi": "वॉशिंगटन में अमेरिकी कैपिटल (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": true
  },
  "democratic-congress-india-should-close-trade-deal-on-its-own-terms--p1": {
   "id": "v-democratic-congress-india-should-close-trade-deal-on-it-p1",
@@ -50745,11 +50751,11 @@
    "with": [
     "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
     "odisha-india-chem-2026-investment-intents",
-    "krbl-q2-profit-50-per-cent-india-gate-basmati"
+    "cabinet-approves-integrated-transport-logistics-authority"
    ],
    "kind": "photo",
    "subj": "ffffffff7f800000",
-   "credit": "Photos: IM3847 / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Veikko Mäkelä / Wikimedia Commons"
+   "credit": "Photos: IM3847 / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Saankav / Wikimedia Commons"
   }
  },
  "nasa-opens-astronaut-applications-december-3-deadline": {
@@ -50770,12 +50776,12 @@
    "cutout": false,
    "with": [
     "us-midterms-2026-explained-what-is-at-stake",
-    "us-midterms-voting-under-way-house-senate-57-million-early",
-    "swadeshi-jagran-manch-asks-centre-to-block-starlink"
+    "swadeshi-jagran-manch-asks-centre-to-block-starlink",
+    "starlink-says-india-infrastructure-ready-govt-approvals"
    ],
    "kind": "photo",
    "subj": "fdfdc181018181ff",
-   "credit": "Photos: NASA/Josh Valcarcel / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; Alex Johnson from Ft. Lauderdale FL, USA / Wikimedia Commons; SWinxy / Wikimedia Commons"
+   "credit": "Photos: NASA/Josh Valcarcel / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; SWinxy / Wikimedia Commons; Official SpaceX Photos / Wikimedia Commons"
   }
  }
 }

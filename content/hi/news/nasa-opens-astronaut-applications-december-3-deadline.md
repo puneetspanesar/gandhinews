@@ -25,7 +25,7 @@ hero:
   alt: "ह्यूस्टन के जॉनसन स्पेस सेंटर में नासा के अंतरिक्ष यात्री प्रत्याशी"
   overlay:
     value: "3 दिसंबर तक आवेदन"
-related: [nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028, spacex-crs-35-dragon-docks-space-station]
+related: [nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028, spacex-crs-35-dragon-docks-space-station, spacex-crs-35-cargo-launch-iss-brain-organoids, starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight]
 seo:
   title: "नासा अंतरिक्ष यात्री आवेदन शुरू, अंतिम तारीख 3 दिसंबर"
   description: "नासा चंद्रमा और मंगल अभियानों के लिए अंतरिक्ष यात्री प्रत्याशी चुन रही है। आवेदन 3 दिसंबर 2026 तक, वेतन लगभग 164,395 डॉलर, केवल अमेरिकी नागरिक पात्र।"
