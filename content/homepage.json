@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+    "id": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
     "overlay": {
       "kicker": {
-        "en": "Politics / Uttar Pradesh",
-        "hi": "राजनीति / उत्तर प्रदेश"
+        "en": "World / Climate",
+        "hi": "दुनिया / जलवायु"
       },
       "value": {
-        "en": "25 lakh tablets for students",
-        "hi": "विद्यार्थियों को 25 लाख टैबलेट"
+        "en": "COP31 at the midpoint",
+        "hi": "कॉप31 आधे पड़ाव पर"
       },
       "text": {
         "en": "",
@@ -16,34 +16,19 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-      "gujarat-himachal-pradesh-elections-2027-what-to-know",
-      "manipur-election-2027-60-seats-after-presidents-rule"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision"
+      "winter-session-first-week-december-delimitation-womens-quota-bill"
     ],
     "live": {
       "title": {
-        "en": "Uttar Pradesh",
-        "hi": "उत्तर प्रदेश"
+        "en": "Climate",
+        "hi": "जलवायु"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "COP31 reaches its midpoint in Antalya with adaptation finance and a single political outcome still undecided",
-          "hi": "अंताल्या में कॉप31 आधे पड़ाव पर: अनुकूलन वित्त और साझा राजनीतिक फैसले पर अब भी सहमति नहीं"
-        }
-      },
       {
         "link": "winter-session-first-week-december-delimitation-womens-quota-bill",
         "lead": {
@@ -64,6 +49,17 @@
         "text": {
           "en": "Arshdeep's 3 for 30 helps India defend 209 and win the New Zealand ODI series 3-1",
           "hi": "अर्शदीप के 3 विकेट पर 30 रन, भारत ने 209 बचाकर न्यूज़ीलैंड से वनडे सीरीज़ 3-1 से जीती"
+        }
+      },
+      {
+        "link": "goyal-cairo-us-preferential-access-egypt-jtc",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "Goyal says US has agreed to give India lower duties than rival exporters, from Cairo",
+          "hi": "गोयल ने काहिरा से कहा, अमेरिका प्रतिस्पर्धी निर्यातकों से कम शुल्क देने पर सहमत"
         }
       },
       {
@@ -89,17 +85,6 @@
         }
       },
       {
-        "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "lead": {
-          "en": "Keralam:",
-          "hi": "केरलम:"
-        },
-        "text": {
-          "en": "CPI(M) demands judicial probe into Keralam's 200 MW power purchase, says CM Satheesan was involved",
-          "hi": "केरलम में 200 मेगावाट बिजली खरीद की न्यायिक जांच मांगी, सीपीआई(एम) का आरोप, मुख्यमंत्री सतीशन शामिल"
-        }
-      },
-      {
         "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
         "lead": {
           "en": "Badminton:",
@@ -111,14 +96,25 @@
         }
       },
       {
-        "link": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
         "lead": {
-          "en": "Delhi smog:",
-          "hi": "दिल्ली स्मॉग:"
+          "en": "Keralam:",
+          "hi": "केरलम:"
         },
         "text": {
-          "en": "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold",
-          "hi": "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"
+          "en": "CPI(M) demands judicial probe into Keralam's 200 MW power purchase, says CM Satheesan was involved",
+          "hi": "केरलम में 200 मेगावाट बिजली खरीद की न्यायिक जांच मांगी, सीपीआई(एम) का आरोप, मुख्यमंत्री सतीशन शामिल"
+        }
+      },
+      {
+        "link": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi opens 173 tribal projects on Birsa Munda's 151st anniversary and says tribals now have full rights over bamboo",
+          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी ने 173 जनजातीय परियोजनाएं खोलीं, कहा: बांस पर अब जनजातियों का पूरा अधिकार"
         }
       }
     ]
@@ -186,24 +182,24 @@
   },
   "topStories": {
     "big": {
-      "id": "winter-session-first-week-december-delimitation-womens-quota-bill",
+      "id": "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
       "also": []
     },
     "list": [
-      "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+      "goyal-cairo-us-preferential-access-egypt-jtc",
       "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
       "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-      "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
+      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+      "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan"
     ],
     "also": [
-      "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+      "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
     ]
   },
   "startHere": [
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
     "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
     "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
   ],
@@ -374,7 +370,7 @@
       "list": [
         "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
+        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
       ],
       "lead": "winter-session-first-week-december-delimitation-womens-quota-bill"
     },
@@ -401,8 +397,8 @@
       "lead": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
       "list": [
         "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return"
+        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
       ]
     },
     {
@@ -473,22 +469,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
-        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
+        "en": "Piyush Goyal's visit to Egypt ends",
+        "hi": "पीयूष गोयल की मिस्र यात्रा पूरी"
       },
-      "link": "modi-asean-india-summit-manila-november-16-18"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
-      },
-      "text": {
-        "en": "Rahul Gandhi's fireside chat at Columbia University",
-        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
-      },
-      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+      "link": "goyal-cairo-us-preferential-access-egypt-jtc"
     },
     {
       "icon": "calendar-blank",
@@ -505,14 +489,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
       },
       "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
+        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
+        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
       },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
+      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
     },
     {
       "icon": "calendar-blank",
@@ -525,26 +509,21 @@
         "hi": "भाजपा की समरस्ता संकल्प यात्रा को नितिन नबीन जालंधर से हरी झंडी दिखाएंगे"
       },
       "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 18",
+        "hi": "18 नवंबर"
+      },
+      "text": {
+        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
+        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
+      },
+      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T08:57:13+05:30",
-      "ids": [
-        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-        "odisha-five-instream-storage-projects-625-crore",
-        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
-        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
-        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
-      ]
-    },
     {
       "at": "2026-11-15T09:06:20+05:30",
       "ids": [
@@ -657,14 +636,22 @@
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
         "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
       ]
+    },
+    {
+      "at": "2026-11-15T19:14:10+05:30",
+      "ids": [
+        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+        "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
-    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
-  ]
+  "drop": []
 }
