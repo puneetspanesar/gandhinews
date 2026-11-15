@@ -52766,16 +52766,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg"
  },
  {
-  "id": "o-odisha-five-instream-storage-projects-625-crore",
-  "articleId": "odisha-five-instream-storage-projects-625-crore",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mohan_Charan_Majhi_%28new_image%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Odisha State Legislative Assembly / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Mohan Charan Majhi (file photo)",
-  "alt_hi": "मोहन चरण माझी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(new_image).jpg"
- },
- {
   "id": "o-india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
   "articleId": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Rishabh_Pant_in_PMO_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -52794,5 +52784,25 @@
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Union_Minister_for_Home_Affairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah speaking (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg",
+  "id": "r-zakir-naik-irf-uapa-ban-extended-five-years",
+  "articleId": "zakir-naik-irf-uapa-ban-extended-five-years"
+ },
+ {
+  "id": "o-odisha-five-instream-storage-projects-625-crore",
+  "articleId": "odisha-five-instream-storage-projects-625-crore",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mohan_Charan_Majhi_at_Keonjhar_in_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Odisha Chief Minister Mohan Charan Majhi speaking at Keonjhar (file photo)",
+  "alt_hi": "ओडिशा के मुख्यमंत्री मोहन चरण माझी क्योंझर में बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_at_Keonjhar_in_June_2024.jpg"
  }
 ]

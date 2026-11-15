@@ -51134,7 +51134,20 @@
   "licence": "CC0",
   "alt": "Volodymyr Zelenskyy (file photo)",
   "alt_hi": "वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner--1280.jpg",
+   "src800": "/photos/t-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner--640.jpg",
+   "cutout": true,
+   "with": [
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+    "iom-warns-millions-ukrainians-displacement-winter",
+    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+   ],
+   "kind": "photo",
+   "subj": "7fe0eeeee6c0c0c0",
+   "credit": "Photos: President Of Ukraine from Україна / Wikimedia Commons; Shyam peelery / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons; Rotafinus / Wikimedia Commons"
+  }
  },
  "odisha-five-instream-storage-projects-625-crore": {
   "id": "o-odisha-five-instream-storage-projects-625-crore",
@@ -51142,12 +51155,25 @@
   "src800": "/photos/o-odisha-five-instream-storage-projects-625-crore-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1080,
-  "credit": "Photo: Odisha State Legislative Assembly / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Mohan Charan Majhi (file photo)",
-  "alt_hi": "मोहन चरण माझी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(new_image).jpg"
+  "srcWidth": 1200,
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Odisha Chief Minister Mohan Charan Majhi speaking at Keonjhar (file photo)",
+  "alt_hi": "ओडिशा के मुख्यमंत्री मोहन चरण माझी क्योंझर में बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_at_Keonjhar_in_June_2024.jpg",
+  "treated": {
+   "src": "/photos/t-odisha-five-instream-storage-projects-625-crore-1280.jpg",
+   "src800": "/photos/t-odisha-five-instream-storage-projects-625-crore-640.jpg",
+   "cutout": true,
+   "with": [
+    "majhi-appointment-letters-2067-tribal-language-teachers--p2",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2",
+    "navdeep-saini-two-services-112-4-delhi-ranji-palam"
+   ],
+   "kind": "photo",
+   "subj": "6060723333d3f3e",
+   "credit": "Photos: Government of Odisha / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons; Ciell / Wikimedia Commons"
+  }
  },
  "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added": {
   "id": "o-india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
@@ -51160,19 +51186,31 @@
   "licence": "GODL-India",
   "alt": "Rishabh Pant (file photo)",
   "alt_hi": "ऋषभ पंत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rishabh_Pant_in_PMO_New_Delhi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rishabh_Pant_in_PMO_New_Delhi.jpg",
+  "treated": {
+   "src": "/photos/t-india-test-squad-new-zealand-pant-joins-kuldeep-released-bra-1280.jpg",
+   "src800": "/photos/t-india-test-squad-new-zealand-pant-joins-kuldeep-released-bra-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "india-women-zimbabwe-second-odi-vadodara-rawal-preview",
+    "liverpool-0-1-arsenal-havertz-alisson-error-anfield--p3"
+   ],
+   "kind": "portrait",
+   "subj": "c7c3e3e3e3e0c0c0",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons, GODL-India; Phillip Capper / Wikimedia Commons; [2] / Wikimedia Commons; Arne Müseler / Wikimedia Commons"
+  }
  },
  "zakir-naik-irf-uapa-ban-extended-five-years": {
-  "id": "o-zakir-naik-irf-uapa-ban-extended-five-years",
-  "src": "/photos/o-zakir-naik-irf-uapa-ban-extended-five-years-1280.jpg",
-  "src800": "/photos/o-zakir-naik-irf-uapa-ban-extended-five-years-640.jpg",
+  "id": "r-zakir-naik-irf-uapa-ban-extended-five-years",
+  "src": "/photos/r-zakir-naik-irf-uapa-ban-extended-five-years-1280.jpg",
+  "src800": "/photos/r-zakir-naik-irf-uapa-ban-extended-five-years-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1500,
-  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
   "licence": "GODL-India",
-  "alt": "Amit Shah (file photo)",
-  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+  "alt": "Union Home Minister Amit Shah speaking (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg"
  }
 }

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+    "id": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
     "overlay": {
       "kicker": {
-        "en": "Economy / Fintech",
-        "hi": "अर्थव्यवस्था / फिनटेक"
+        "en": "World / Russia-Ukraine",
+        "hi": "दुनिया / रूस-यूक्रेन"
       },
       "value": {
-        "en": "Paytm wallet: RBI in-principle nod",
-        "hi": "पेटीएम वॉलेट: आरबीआई की सैद्धांतिक मंजूरी"
+        "en": "Biggest prisoner swap of the war ahead",
+        "hi": "युद्ध का सबसे बड़ा कैदी आदान-प्रदान"
       },
       "text": {
         "en": "",
@@ -16,109 +16,105 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-      "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-      "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
     ],
     "live": {
       "title": {
-        "en": "Fintech",
-        "hi": "फिनटेक"
+        "en": "Russia-Ukraine",
+        "hi": "रूस-यूक्रेन"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "lead": {
-          "en": "Manipur:",
-          "hi": "मणिपुर:"
-        },
-        "text": {
-          "en": "Manipur's Khemchand reviews security after four Nagas killed on Ukhrul highway and a Kuki woman shot in Kangpokpi",
-          "hi": "उखरुल हाईवे पर चार नागा और कांगपोकपी में कुकी महिला की हत्या के बाद मणिपुर के मुख्यमंत्री खेमचंद ने की सुरक्षा समीक्षा"
-        }
-      },
-      {
-        "link": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+        "link": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Iyer's India, all out for 89, face a New Zealand side without Matt Henry in Sunday's series finale",
-          "hi": "89 पर ऑलआउट अय्यर की टीम इंडिया रविवार के फ़ाइनल में मैट हेनरी के बिना न्यूज़ीलैंड से भिड़ेगी"
+          "en": "Pant joins India's Test camp in Wellington, Brar added and Kuldeep Yadav released",
+          "hi": "पंत वेलिंगटन में भारतीय टेस्ट टीम से जुड़े, बराड़ शामिल और कुलदीप यादव रिलीज़"
         }
       },
       {
-        "link": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "link": "odisha-five-instream-storage-projects-625-crore",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
         },
         "text": {
-          "en": "Rahul Gandhi tells Bharat Summit 'we are going to get rid of PM Modi', cites Adani and Maharashtra voter rolls",
-          "hi": "राहुल गांधी ने भारत समिट में कहा, 'हम पीएम मोदी को हटाने जा रहे हैं'; अडानी और महाराष्ट्र की मतदाता सूची का जिक्र"
+          "en": "Odisha clears five in-stream storage projects worth ₹625.47 crore for 74 villages",
+          "hi": "ओडिशा ने 74 गांवों के लिए ₹625.47 करोड़ की पांच नदी जल-भंडारण परियोजनाओं को मंजूरी दी"
         }
       },
       {
-        "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Haryana CM Saini says Punjab has decided on a BJP government as party readies Dalit outreach yatra",
-          "hi": "हरियाणा के मुख्यमंत्री सैनी बोले, पंजाब ने भाजपा सरकार चुनने का मन बना लिया; 18 नवंबर से दलित संपर्क यात्रा"
-        }
-      },
-      {
-        "link": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "lead": {
-          "en": "Foreign affairs:",
-          "hi": "विदेश नीति:"
-        },
-        "text": {
-          "en": "Jaishankar says India-US trade deal is in its 'last stretch', with remaining changes 'more at the American end'",
-          "hi": "जयशंकर: अमेरिका से व्यापार समझौता 'आख़िरी चरण' में"
-        }
-      },
-      {
-        "link": "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran's Guards say they destroyed a US radar in Bahrain after Sirik strike; CENTCOM says two drones were shot down",
-          "hi": "ईरान के गार्ड्स का दावा, सिरिक हमले के बाद बहरीन में अमेरिकी रडार तबाह किया; सेंटकॉम बोला, दो ड्रोन मार गिराए"
-        }
-      },
-      {
-        "link": "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "Starship reaches orbit with 26 Starlinks after booster catch is called off, ship catch due early Sunday IST",
-          "hi": "स्टारशिप 26 स्टारलिंक के साथ कक्षा में, बूस्टर की कैचिंग रद्द; शिप की कैचिंग रविवार तड़के"
-        }
-      },
-      {
-        "link": "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+        "link": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
         "lead": {
           "en": "Prime Minister:",
           "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "After a night at Lok Bhavan, Modi reviews Dholera, Sabarmati Ashram and 2030 Games work with Gujarat's CM and Deputy CM",
-          "hi": "मोदी ने गुजरात में धोलेरा, साबरमती आश्रम और 2030 खेलों की तैयारी की समीक्षा की"
+          "en": "Modi to open 38 Eklavya schools and 100 multi-purpose centres on Birsa Munda's 151st birth anniversary, in a ₹3,000 crore tribal package",
+          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी 38 एकलव्य स्कूल और 100 बहुउद्देशीय केंद्र खोलेंगे, ₹3,000 करोड़ का जनजातीय पैकेज"
+        }
+      },
+      {
+        "link": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India U19 beat Pakistan by one wicket off the last ball to win the Asia Cup, chasing 338, as Mohit Ulva hits the winning four",
+          "hi": "भारत अंडर-19 ने आखिरी गेंद पर एक विकेट से पाकिस्तान को हराकर एशिया कप जीता, 338 का पीछा; मोहित उल्वा ने जड़ा विजयी चौका"
+        }
+      },
+      {
+        "link": "nasa-opens-astronaut-applications-december-3-deadline",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "NASA opens astronaut applications for Moon missions, with a December 3 deadline",
+          "hi": "नासा ने चंद्र अभियानों के लिए अंतरिक्ष यात्री आवेदन खोले, अंतिम तारीख 3 दिसंबर"
+        }
+      },
+      {
+        "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "IMD now sees Akvan as a severe cyclone by November 18; Odisha gets orange warnings for November 19 to 21",
+          "hi": "मौसम विभाग: अकवान 18 नवंबर तक भीषण चक्रवात बन सकता है; ओडिशा में 19 से 21 नवंबर के लिए ऑरेंज चेतावनी"
+        }
+      },
+      {
+        "link": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Shivakumar writes to Modi: put Karnataka's 56% SC/ST quota in the Ninth Schedule",
+          "hi": "शिवकुमार ने मोदी को लिखा: कर्नाटक के 56% एससी/एसटी कोटे को नौवीं अनुसूची में डालें"
+        }
+      },
+      {
+        "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+        "lead": {
+          "en": "Technology:",
+          "hi": "तकनीक:"
+        },
+        "text": {
+          "en": "Microsoft says global Outlook and Teams outage is over after more than a day; IndiGo, Akasa Air and Indian IT firms were hit",
+          "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन बाद ख़त्म; इंडिगो, आकासा पर भी असर"
         }
       }
     ]
@@ -186,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+      "id": "odisha-five-instream-storage-projects-625-crore",
       "also": []
     },
     "list": [
-      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-      "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-      "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+      "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+      "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+      "nasa-opens-astronaut-applications-december-3-deadline",
+      "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
     ],
     "also": [
-      "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-      "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam"
+      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+      "rahul-gandhi-hyderabad-gig-workers-act-insurance"
     ]
   },
   "startHere": [
@@ -391,18 +387,18 @@
         ]
       },
       "list": [
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+        "forex-reserves-rise-719-billion-november-6-gold"
       ]
     },
     {
       "section": "states",
-      "lead": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+      "lead": "odisha-five-instream-storage-projects-625-crore",
       "list": [
+        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
         "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
       ]
     },
     {
@@ -426,7 +422,7 @@
   "desks": [
     {
       "section": "world",
-      "lead": "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+      "lead": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
       "list": [
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "microsoft-365-outage-ends-india-indigo-akasa-air-india",
@@ -437,14 +433,14 @@
       "section": "science",
       "lead": "nasa-opens-astronaut-applications-december-3-deadline",
       "list": [
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nadda-who-global-tb-report-2026-india-mortality-38"
+        "nadda-who-global-tb-report-2026-india-mortality-38",
+        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
       ]
     },
     {
       "section": "sports",
-      "lead": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+      "lead": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
       "list": [
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
         "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
@@ -473,22 +469,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "PM Modi addresses Janjatiya Gaurav Diwas at Gadchiroli by video at 11 am, with 246 tribal projects",
-        "hi": "प्रधानमंत्री मोदी सुबह 11 बजे गढ़चिरौली के जनजातीय गौरव दिवस कार्यक्रम को वीडियो से संबोधित करेंगे, 246 जनजातीय परियोजनाएं"
+        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
+        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
       },
-      "link": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
-      },
-      "text": {
-        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
-        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
-      },
-      "link": "modi-asean-india-summit-manila-november-16-18"
+      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
     },
     {
       "icon": "calendar-blank",
@@ -505,14 +489,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
-        "en": "IPL 2027 retention deadline, after Hardik Pandya and Arshdeep Singh swapped teams",
-        "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
+        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
+        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
       },
-      "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
+      "link": "modi-asean-india-summit-manila-november-16-18"
     },
     {
       "icon": "calendar-blank",
@@ -521,28 +505,25 @@
         "hi": "17 नवंबर"
       },
       "text": {
-        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
-        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
+        "en": "Rahul Gandhi's fireside chat at Columbia University",
+        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
       },
-      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
+      },
+      "text": {
+        "en": "IPL 2027 retention deadline, after Hardik Pandya and Arshdeep Singh swapped teams",
+        "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
+      },
+      "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T18:57:13+05:30",
-      "ids": [
-        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "kejriwal-e20-trump-pressure-ethanol-claim",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "rahul-gandhi-hyderabad-gig-workers-act-insurance"
-      ]
-    },
     {
       "at": "2026-11-14T19:42:05+05:30",
       "ids": [
@@ -658,8 +639,30 @@
         "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ]
+    },
+    {
+      "at": "2026-11-15T06:37:24+05:30",
+      "ids": [
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "odisha-five-instream-storage-projects-625-crore",
+        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+    "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+    "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+    "india-october-exports-record-iitf-goyal-1-trillion-target"
+  ]
 }

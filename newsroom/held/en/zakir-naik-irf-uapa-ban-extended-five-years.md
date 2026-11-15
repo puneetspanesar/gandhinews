@@ -56,7 +56,7 @@ infographic:
 verification:
   status: approved
   notes:
-    - "Primary notification (Gazette) not opened; details from ANI report of Nov 13 quoting the notification and Shah's X post, Outlook Nov 13. Notification dated Nov 13, 2026; earlier ban due to end Nov 14, 2026 per ANI. Sections 3(1), 3(3) per ANI."
+    - "Primary notification (Gazette) not opened; details from ANI report of Nov 13 quoting the notification and Shah's X post, Outlook Nov 13. Notification dated Nov 13, 2026; earlier ban due to end Nov 14, 2026, per ANI. Sections 3(1), 3(3) per ANI."
     - "Outlook calls this a second extension in the text but third in the headline; copy says third declaration (2016, 2021, 2026)."
     - "Tribune piece is from 2021, used only for background (Dhaka attack on July 1, 2016; Naik denies role; Kerala youths). Naik in Malaysia per Outlook."
     - "No reaction from IRF or Naik found as of 6 am Nov 15."
@@ -78,13 +78,13 @@ Home Minister Amit Shah announced the extension on X. He said it reflected the g
 
 ## How we got here
 
-The IRF was set up in Mumbai in February 1991. The Centre first banned it under the UAPA on **November 17, 2016**, a few months after a cafe attack in Dhaka on July 1, 2016 that killed more than 20 people, including 17 foreigners. One of the attackers had said he was inspired by Naik's speeches. Naik, who denies any role in violence, left India that year.
+The IRF was set up in Mumbai in February 1991. The Centre first banned it under the UAPA on **November 17, 2016**, a few months after a cafe attack in Dhaka on July 1, 2016, that killed more than 20 people, including 17 foreigners. One of the attackers had said he was inspired by Naik's speeches. Naik, who denies any role in violence, left India that year.
 
 ```photo
 {"n":1,"subject":"Holey Artisan Bakery","caption":"The Dhaka cafe where the July 2016 attack took place; one of the attackers said he was inspired by Naik's speeches.","alt":"The Holey Artisan Bakery in Dhaka"}
 ```
 
-The ban was renewed on **November 15, 2021**. In each case the Unlawful Activities (Prevention) Tribunal examined the government's grounds and confirmed the declaration, in orders dated May 22, 2017 and March 30, 2022. The 2026 order follows the same path: under the Act, the Centre must now refer the declaration to the tribunal, which decides whether there is sufficient cause for it.
+The ban was renewed on **November 15, 2021**. In each case the Unlawful Activities (Prevention) Tribunal examined the government's grounds and confirmed the declaration, in orders dated May 22, 2017, and March 30, 2022. The 2026 order follows the same path: under the Act, the Centre must now refer the declaration to the tribunal, which decides whether there is sufficient cause for it.
 
 Naik now lives in Malaysia, where he was granted permanent residency while Mahathir Mohamad was prime minister. India has repeatedly sought his extradition on money laundering and incitement charges. He visited Pakistan twice, meeting Prime Minister Shehbaz Sharif in Islamabad in October 2024 and travelling there again in February 2025.
 
