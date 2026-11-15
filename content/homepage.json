@@ -16,11 +16,7 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
-      "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
     ],
@@ -78,6 +74,17 @@
         }
       },
       {
+        "link": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "SEBI clears Sembcorp Green Infra's ₹3,750 crore IPO, all fresh shares, with the money going to repay debt",
+          "hi": "सेबी ने सेम्बकॉर्प ग्रीन इंफ्रा के ₹3,750 करोड़ के आईपीओ को दी मंजूरी, पूरा नया निर्गम, पैसा कर्ज चुकाने में लगेगा"
+        }
+      },
+      {
         "link": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
         "lead": {
           "en": "Space:",
@@ -89,36 +96,25 @@
         }
       },
       {
-        "link": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
-        "lead": {
-          "en": "Europe:",
-          "hi": "यूरोप:"
-        },
-        "text": {
-          "en": "Kushner says US will now push for direct Russia-Europe talks on Ukraine, as Zelenskyy calls a new security framework 'dangerous'",
-          "hi": "कुशनर बोले, अब रूस-यूरोप सीधी बातचीत पर जोर देगा अमेरिका; ज़ेलेंस्की ने नए सुरक्षा ढांचे को 'खतरनाक' कहा"
-        }
-      },
-      {
-        "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "lead": {
-          "en": "Manipur:",
-          "hi": "मणिपुर:"
-        },
-        "text": {
-          "en": "Manipur's Khemchand reviews security after four Nagas killed on Ukhrul highway and a Kuki woman shot in Kangpokpi",
-          "hi": "उखरुल हाईवे पर चार नागा और कांगपोकपी में कुकी महिला की हत्या के बाद मणिपुर के मुख्यमंत्री खेमचंद ने की सुरक्षा समीक्षा"
-        }
-      },
-      {
-        "link": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+        "link": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Iyer's India, all out for 89, face a New Zealand side without Matt Henry in Sunday's series finale",
-          "hi": "89 पर ऑलआउट अय्यर की टीम इंडिया रविवार के फ़ाइनल में मैट हेनरी के बिना न्यूज़ीलैंड से भिड़ेगी"
+          "en": "Pant joins India's Test camp in Wellington, Brar added and Kuldeep Yadav released",
+          "hi": "पंत वेलिंगटन में भारतीय टेस्ट टीम से जुड़े, बराड़ शामिल और कुलदीप यादव रिलीज़"
+        }
+      },
+      {
+        "link": "odisha-five-instream-storage-projects-625-crore",
+        "lead": {
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
+        },
+        "text": {
+          "en": "Odisha clears five in-stream storage projects worth ₹625.47 crore for 74 villages",
+          "hi": "ओडिशा ने 74 गांवों के लिए ₹625.47 करोड़ की पांच नदी जल-भंडारण परियोजनाओं को मंजूरी दी"
         }
       }
     ]
@@ -192,13 +188,13 @@
     "list": [
       "hormuz-three-tankers-mines-predator-qeshm-brent-india",
       "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
       "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-      "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
-      "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
     ],
     "also": [
-      "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
-      "u19-asia-cup-final-india-win-last-ball-mohit-ulva"
+      "odisha-five-instream-storage-projects-625-crore",
+      "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange"
     ]
   },
   "startHere": [
@@ -391,9 +387,9 @@
         ]
       },
       "list": [
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
         "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-        "india-october-exports-record-iitf-goyal-1-trillion-target",
-        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap"
+        "india-october-exports-record-iitf-goyal-1-trillion-target"
       ]
     },
     {
@@ -529,20 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-15T00:29:55+05:30",
-      "ids": [
-        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
-        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "nasa-opens-astronaut-applications-december-3-deadline",
-        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
-      ]
-    },
-    {
       "at": "2026-11-15T04:51:39+05:30",
       "ids": [
         "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
@@ -651,25 +633,35 @@
         "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
         "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale"
       ]
+    },
+    {
+      "at": "2026-11-15T13:11:27+05:30",
+      "ids": [
+        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "odisha-five-instream-storage-projects-625-crore"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
     "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+    "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
     "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
     "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
     "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
     "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
     "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
     "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
     "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
     "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-    "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
-    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
     "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
     "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
   ]
