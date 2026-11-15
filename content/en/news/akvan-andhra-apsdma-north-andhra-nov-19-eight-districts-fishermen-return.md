@@ -38,10 +38,6 @@ related: [akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21,
 seo:
   title: "Cyclone Akvan: north Andhra coast on alert for Nov 19"
   description: "Andhra's disaster authority expects Akvan to near the north coast by November 19. Eight districts face heavy rain on November 18 and 19; fishermen told to return."
-upcoming:
-  date: 2026-11-16
-  en: "Bay of Bengal system expected to become Cyclone Akvan by evening"
-  hi: "बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बनने की उम्मीद"
 sources:
   - title: "Cyclone 'Akvan' likely to hit AP coast on Nov 18"
     publisher: "The Hans India"

@@ -13,10 +13,6 @@ keyPoints:
   - "Lakshya Sen beat sixth seed Alwi Farhan **21-12, 15-21, 21-11** in the Kumamoto Masters semi-final on November 14."
   - "It was Sen's **first win over Farhan** after losses at the 2025 Macau Open and the 2026 Indonesia Open."
   - "He plays the final on Sunday, November 15, and is **12th in the race for the World Tour Finals** in Hangzhou, where only the top eight qualify."
-upcoming:
-  date: 2026-11-15
-  en: "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn"
-  hi: "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
 hero:
   need: "Indian shuttler Lakshya Sen in action"
   suggested_source: "Lakshya Sen"

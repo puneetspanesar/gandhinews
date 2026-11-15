@@ -23,8 +23,8 @@ hero:
 related: [jaishankar-htls-india-us-trade-deal-last-stretch-national-interest, rubio-jaishankar-mumbai-talks-close-to-trade-deal, india-us-trade-talks-plateau-russia-oil-tariff-law, trump-waives-russia-sanctions-law-india-tariff-threat, india-october-exports-record-iitf-goyal-1-trillion-target]
 upcoming:
   date: 2026-11-16
-  en: "Goyal's second day in Egypt: business forum, start-up forum and ministerial meetings"
-  hi: "गोयल का मिस्र में दूसरा दिन: बिज़नेस फोरम, स्टार्ट-अप फोरम और मंत्रियों से बैठकें"
+  en: "Piyush Goyal's visit to Egypt ends"
+  hi: "पीयूष गोयल की मिस्र यात्रा पूरी"
 infographic:
   kicker: "India-US trade deal"
   headline: "Goyal: US to give India lower duties than rivals"
@@ -78,9 +78,9 @@ Goyal said the point needed no fresh negotiation. "This was already agreed betwe
 
 ## What the minister said, and what he did not
 
-The remark is the most specific public claim yet from the Indian government on what a trade agreement would give exporters. Until now the line from New Delhi has been that India wants a final rate comparable with competitors such as Vietnam. Goyal put it as a **comparative advantage over rivals**, which is what the senior official who spoke days earlier had also described, saying the US had assured India of a comparative tariff advantage.
+The remark is the most specific public claim yet from the Indian government on what a trade agreement would give exporters. Goyal put it as a **comparative advantage over rivals**, which is what a senior official had also described, saying the US had assured India of a comparative tariff advantage.
 
-That official added a caution that Goyal's remarks did not remove: the size of the advantage depends on how the American tariff framework finally takes shape. "We will have to see how the tariff framework unfolds," the official said. India's stated aim is to close the first tranche of the agreement by the end of the current financial year, that is, by March 31, 2027.
+That official added a caution that Goyal's remarks did not remove: the size of the advantage depends on how the American tariff framework finally takes shape. India's stated aim is to close the first tranche of the agreement by the end of the current financial year, that is, by March 31, 2027.
 
 
 ## Why the tariff structure is still open
@@ -97,7 +97,7 @@ The recent run of statements has come quickly. On October 17 Trump [waived the R
 
 ## Why it matters to exporters
 
-The US is India's largest export market, and the duty paid at the American border decides how Indian goods price against those of rivals such as Vietnam, the comparison New Delhi has itself drawn. A lower rate than rivals is the point on which the government has now spoken most plainly. Goods exports hit a [record $49.47 billion in October](/en/news/india-october-exports-record-iitf-goyal-1-trillion-target), and Goyal said at the trade fair that India is on course for $1 trillion in exports this financial year.
+The US is India's largest export market, and the duty paid at the American border decides how Indian goods price against those of competing exporting countries. A lower rate than rivals is the point on which the government has now spoken most plainly. Goods exports hit a [record $49.47 billion in October](/en/news/india-october-exports-record-iitf-goyal-1-trillion-target), and Goyal said at the trade fair that India is on course for $1 trillion in exports this financial year.
 
 Until the rates are published, the claim cannot be tested, and no American statement matching Goyal's description had been found by the evening of November 15.
 
@@ -116,4 +116,4 @@ Goyal said the two countries have complementary strengths and little direct comp
 
 ## What happens next
 
-On Monday, November 16, Goyal's schedule includes the India-Egypt Business Forum, the Start-up Forum and meetings with senior Egyptian ministers, along with engagement with the African Export-Import Bank. On the American side, the date to watch is the G20 summit in Miami on December 14 and 15, where Modi and Trump may meet, a trip the Ministry of External Affairs had not confirmed when we last reported on it. Until the US publishes the duties that apply to Indian goods, Goyal's statement is the Indian government's account of an understanding, not a published tariff schedule.
+Goyal's visit to Egypt ends on Monday, November 16. On the American side, the date to watch is the G20 summit in Miami on December 14 and 15, where Modi and Trump may meet, a trip the Ministry of External Affairs had not confirmed when we last reported on it. Until the US publishes the duties that apply to Indian goods, Goyal's statement is the Indian government's account of an understanding, not a published tariff schedule.

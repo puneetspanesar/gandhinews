@@ -39,10 +39,6 @@ related: [akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21,
 seo:
   title: "चक्रवात अकवान: 19 नवंबर तक उत्तरी आंध्र तट पर अलर्ट"
   description: "आंध्र की आपदा प्राधिकरण को अकवान के 19 नवंबर तक उत्तरी तट के पास पहुंचने का अनुमान है। आठ जिलों में भारी बारिश, मछुआरों को लौटने की सलाह।"
-upcoming:
-  date: 2026-11-16
-  en: "Bay of Bengal system expected to become Cyclone Akvan by evening"
-  hi: "बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बनने की उम्मीद"
 sources:
   - title: "Cyclone 'Akvan' likely to hit AP coast on Nov 18"
     publisher: "The Hans India"

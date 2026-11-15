@@ -9,7 +9,6 @@ title: "Sooryavanshi, 15, scores 18 on captaincy debut as Bihar lose to Saurasht
 standfirst: "Saurashtra chased 138 with 21 balls to spare in Indore on Saturday, while Gujarat and Odisha put 479 runs on the board between them at Eden Gardens on the first day of the Syed Mushtaq Ali Trophy."
 published: 2026-11-15T10:07:00+05:30
 location: Indore
-upcoming: {date: 2026-11-16, en: "Syed Mushtaq Ali Trophy: Bihar, captained by Vaibhav Sooryavanshi, play Railways, according to reports", hi: "सैयद मुश्ताक अली ट्रॉफी: खबरों के मुताबिक वैभव सूर्यवंशी की कप्तानी में बिहार का सामना रेलवे से"}
 keyPoints:
   - "Saurashtra beat Bihar by **five wickets with 21 balls left**, chasing 138 in 16.3 overs at the Holkar Stadium in Indore."
   - "Vaibhav Sooryavanshi, **15 years and 232 days old**, scored 18 off 12 balls in his first match as captain, according to reports the youngest captain in men's T20 cricket."
