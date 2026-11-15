@@ -38,10 +38,6 @@ related: [odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled
 seo:
   title: "Cyclone Akvan track unclear: Andhra, Odisha watch IMD"
   description: "The IMD expects Cyclone Akvan by November 16 but names no landfall. Andhra may see heavy rain on November 19; Odisha has alerted collectors and fishermen."
-upcoming:
-  date: 2026-11-16
-  en: "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening"
-  hi: "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
 sources:
   - title: "Low-Pressure Area May Intensify Into Cyclone Akvan By November 16: IMD"
     publisher: "Deccan Chronicle"

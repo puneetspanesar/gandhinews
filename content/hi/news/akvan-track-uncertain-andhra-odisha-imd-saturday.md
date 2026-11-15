@@ -39,7 +39,6 @@ related: [odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled
 seo:
   title: "चक्रवात अकवान की दिशा अस्पष्ट: आंध्र, ओडिशा की नजर"
   description: "मौसम विभाग को 16 नवंबर तक चक्रवात अकवान बनने की उम्मीद है, पर तट तय नहीं। आंध्र में 19 नवंबर को भारी बारिश संभव; ओडिशा ने कलेक्टरों और मछुआरों को सतर्क किया।"
-upcoming: {date: 2026-11-16, en: "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening", hi: "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"}
 sources:
   - title: "Low-Pressure Area May Intensify Into Cyclone Akvan By November 16: IMD"
     publisher: "Deccan Chronicle"

@@ -13,10 +13,6 @@ keyPoints:
   - "The Ministry of Tribal Affairs has put **₹25.59 crore into the Ropuiliani Tribal Freedom Fighters Museum** at Kelsih, in Aizawl district."
   - "Modi will inaugurate it **by video on Sunday, November 15**, with the Gadchiroli programme at 11 am."
   - "It is one of **11 such museums sanctioned in 10 states**, and the Ministry had said in February it would open by mid-2026."
-upcoming:
-  date: 2026-11-15
-  en: "PM Modi inaugurates the Ropuiliani Tribal Freedom Fighters Museum in Mizoram by video, with the Gadchiroli event at 11 am"
-  hi: "प्रधानमंत्री मोदी वीडियो के जरिये मिजोरम में रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन करेंगे, गढ़चिरौली कार्यक्रम सुबह 11 बजे"
 hero:
   need: "Prime Minister Narendra Modi, who will inaugurate the Ropuiliani museum by video"
   suggested_source: "Narendra Modi"

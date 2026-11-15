@@ -82,9 +82,6 @@ The remark is the most specific public claim yet from the Indian government on w
 
 That official added a caution that Goyal's remarks did not remove: the size of the advantage depends on how the American tariff framework finally takes shape. "We will have to see how the tariff framework unfolds," the official said. India's stated aim is to close the first tranche of the agreement by the end of the current financial year, that is, by March 31, 2027.
 
-```photo
-{"n":1,"subject":"Mohamed Farid Saleh","caption":"Egypt's Minister of Investment and Foreign Trade, Mohamed Farid Saleh, co-chairs the India-Egypt Joint Trade Committee with Goyal in Cairo.","alt":"Mohamed Farid Saleh, Egypt's Minister of Investment and Foreign Trade"}
-```
 
 ## Why the tariff structure is still open
 
@@ -116,9 +113,6 @@ India sells Egypt meat and poultry products, petroleum products, organic chemica
 
 Goyal said the two countries have complementary strengths and little direct competition, and that "we can be each other's support". He said several Egyptian business houses were interested in investing in India, particularly in education and food processing, and called Egypt a gateway to Africa: "Egypt will become the gateway to Africa." He said several announcements were expected during the visit.
 
-```photo
-{"n":2,"subject":"Suez Canal Economic Zone","caption":"The Suez Canal Economic Zone, one of the named areas of India-Egypt cooperation on the visit's agenda.","alt":"The Suez Canal Economic Zone in Egypt"}
-```
 
 ## What happens next
 

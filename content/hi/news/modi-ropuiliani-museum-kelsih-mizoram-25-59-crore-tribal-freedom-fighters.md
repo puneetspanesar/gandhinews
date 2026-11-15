@@ -14,10 +14,6 @@ keyPoints:
   - "जनजातीय कार्य मंत्रालय ने आइजोल जिले के केलसिह में बने रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय पर **₹25.59 करोड़ दिए हैं**।"
   - "मोदी रविवार, 15 नवंबर को इसका **वीडियो के जरिये उद्घाटन करेंगे**, गढ़चिरौली कार्यक्रम सुबह 11 बजे है।"
   - "यह **10 राज्यों में स्वीकृत 11 ऐसे संग्रहालयों** में से एक है, और मंत्रालय ने फरवरी में कहा था कि यह 2026 के मध्य तक खुल जाएगा।"
-upcoming:
-  date: 2026-11-15
-  en: "PM Modi inaugurates the Ropuiliani Tribal Freedom Fighters Museum in Mizoram by video, with the Gadchiroli event at 11 am"
-  hi: "प्रधानमंत्री मोदी वीडियो के जरिये मिजोरम में रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन करेंगे, गढ़चिरौली कार्यक्रम सुबह 11 बजे"
 hero:
   need: "Prime Minister Narendra Modi, who will inaugurate the Ropuiliani museum by video"
   suggested_source: "Narendra Modi"
