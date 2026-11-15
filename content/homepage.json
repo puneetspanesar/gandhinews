@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+    "id": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "States / Weather",
+        "hi": "राज्य / मौसम"
       },
       "value": {
-        "en": "Kushner: now a Russia-Europe track",
-        "hi": "कुशनर: अब रूस-यूरोप संवाद की राह"
+        "en": "Akvan: north Andhra on alert",
+        "hi": "अकवान: उत्तरी आंध्र पर अलर्ट"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "odisha-five-instream-storage-projects-625-crore",
+      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+      "punjab-power-bill-waiver-must-say-who-pays-the-518-crore"
+    ],
     "relatedBeside": [
-      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
+      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Weather",
+        "hi": "मौसम"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "SEBI clears Sembcorp Green Infra's ₹3,750 crore IPO, all fresh shares, with the money going to repay debt",
+          "hi": "सेबी ने सेम्बकॉर्प ग्रीन इंफ्रा के ₹3,750 करोड़ के आईपीओ को दी मंजूरी, पूरा नया निर्गम, पैसा कर्ज चुकाने में लगेगा"
+        }
+      },
+      {
+        "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi to open ₹25.59 crore Ropuiliani museum in Mizoram on Birsa Munda's birth anniversary, the fifth tribal freedom fighters' museum",
+          "hi": "बिरसा मुंडा की जयंती पर मोदी मिजोरम में ₹25.59 करोड़ का रोपुइलियानी संग्रहालय खोलेंगे, पांचवां जनजातीय स्वतंत्रता सेनानी संग्रहालय"
+        }
+      },
+      {
+        "link": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "SpaceX catches Starship's Ship 42 with its launch tower after 22.5 hours in orbit, a first",
+          "hi": "स्पेसएक्स ने 22.5 घंटे कक्षा में रहे स्टारशिप के शिप 42 को टावर से पकड़ा, पहली बार"
+        }
+      },
       {
         "link": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
         "lead": {
@@ -41,80 +78,47 @@
         }
       },
       {
-        "link": "odisha-five-instream-storage-projects-625-crore",
+        "link": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Russia and Ukraine:",
+          "hi": "रूस-यूक्रेन:"
         },
         "text": {
-          "en": "Odisha clears five in-stream storage projects worth ₹625.47 crore for 74 villages",
-          "hi": "ओडिशा ने 74 गांवों के लिए ₹625.47 करोड़ की पांच नदी जल-भंडारण परियोजनाओं को मंजूरी दी"
+          "en": "Zelenskyy meets Witkoff and Kushner near Dublin and says the largest prisoner exchange of the war is coming",
+          "hi": "डबलिन के पास ज़ेलेंस्की की विटकॉफ और कुशनर से मुलाकात, कहा युद्ध का सबसे बड़ा कैदी आदान-प्रदान आ रहा है"
         }
       },
       {
-        "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+        "link": "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
         "lead": {
-          "en": "Manipur:",
-          "hi": "मणिपुर:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Manipur's Khemchand reviews security after four Nagas killed on Ukhrul highway and a Kuki woman shot in Kangpokpi",
-          "hi": "उखरुल हाईवे पर चार नागा और कांगपोकपी में कुकी महिला की हत्या के बाद मणिपुर के मुख्यमंत्री खेमचंद ने की सुरक्षा समीक्षा"
+          "en": "Jaishankar meets Armenian PM Pashinyan in Delhi, talks Gulf and Ukraine wars",
+          "hi": "दिल्ली में आर्मेनिया के प्रधानमंत्री पाशिनयान से मिले जयशंकर, खाड़ी और यूक्रेन युद्ध पर चर्चा"
         }
       },
       {
-        "link": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "lead": {
-          "en": "Fintech:",
-          "hi": "फिनटेक:"
-        },
-        "text": {
-          "en": "RBI gives Paytm's payments arm in-principle nod to issue wallets again, final approval still awaited",
-          "hi": "आरबीआई ने पेटीएम की पेमेंट्स इकाई को वॉलेट के लिए सैद्धांतिक मंजूरी दी, अंतिम अनुमति बाकी"
-        }
-      },
-      {
-        "link": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+        "link": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Iyer's India, all out for 89, face a New Zealand side without Matt Henry in Sunday's series finale",
-          "hi": "89 पर ऑलआउट अय्यर की टीम इंडिया रविवार के फ़ाइनल में मैट हेनरी के बिना न्यूज़ीलैंड से भिड़ेगी"
+          "en": "India U19 beat Pakistan by one wicket off the last ball to win the Asia Cup, chasing 338, as Mohit Ulva hits the winning four",
+          "hi": "भारत अंडर-19 ने आखिरी गेंद पर एक विकेट से पाकिस्तान को हराकर एशिया कप जीता, 338 का पीछा; मोहित उल्वा ने जड़ा विजयी चौका"
         }
       },
       {
-        "link": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "link": "nasa-opens-astronaut-applications-december-3-deadline",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
         },
         "text": {
-          "en": "Rahul Gandhi tells Bharat Summit 'we are going to get rid of PM Modi', cites Adani and Maharashtra voter rolls",
-          "hi": "राहुल गांधी ने भारत समिट में कहा, 'हम पीएम मोदी को हटाने जा रहे हैं'; अडानी और महाराष्ट्र की मतदाता सूची का जिक्र"
-        }
-      },
-      {
-        "link": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "lead": {
-          "en": "Foreign affairs:",
-          "hi": "विदेश नीति:"
-        },
-        "text": {
-          "en": "Jaishankar says India-US trade deal is in its 'last stretch', with remaining changes 'more at the American end'",
-          "hi": "जयशंकर: अमेरिका से व्यापार समझौता 'आख़िरी चरण' में"
-        }
-      },
-      {
-        "link": "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Iran's Guards say they destroyed a US radar in Bahrain after Sirik strike; CENTCOM says two drones were shot down",
-          "hi": "ईरान के गार्ड्स का दावा, सिरिक हमले के बाद बहरीन में अमेरिकी रडार तबाह किया; सेंटकॉम बोला, दो ड्रोन मार गिराए"
+          "en": "NASA opens astronaut applications for Moon missions, with a December 3 deadline",
+          "hi": "नासा ने चंद्र अभियानों के लिए अंतरिक्ष यात्री आवेदन खोले, अंतिम तारीख 3 दिसंबर"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "odisha-five-instream-storage-projects-625-crore",
+      "id": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
       "also": []
     },
     "list": [
-      "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-      "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-      "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
-      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-      "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
+      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+      "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+      "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+      "u19-asia-cup-final-india-win-last-ball-mohit-ulva"
     ],
     "also": [
-      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-      "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
+      "nasa-opens-astronaut-applications-december-3-deadline",
+      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
     ]
   },
   "startHere": [
@@ -372,11 +376,11 @@
         "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ],
-      "lead": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
+      "lead": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
     },
     {
       "section": "economy",
-      "lead": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+      "lead": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +391,18 @@
         ]
       },
       "list": [
-        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
-        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
-        "forex-reserves-rise-719-billion-november-6-gold"
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "india-october-exports-record-iitf-goyal-1-trillion-target"
       ]
     },
     {
       "section": "states",
-      "lead": "odisha-five-instream-storage-projects-625-crore",
+      "lead": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
       "list": [
+        "odisha-five-instream-storage-projects-625-crore",
         "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
       ]
     },
     {
@@ -424,18 +428,18 @@
       "section": "world",
       "lead": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
       "list": [
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory"
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
       ]
     },
     {
       "section": "science",
-      "lead": "nasa-opens-astronaut-applications-december-3-deadline",
+      "lead": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
       "list": [
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
       ]
     },
     {
@@ -444,8 +448,8 @@
       "list": [
         "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
       ]
     }
   ],
@@ -469,10 +473,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
-        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
+        "en": "PM Modi inaugurates the Ropuiliani Tribal Freedom Fighters Museum in Mizoram by video, with the Gadchiroli event at 11 am",
+        "hi": "प्रधानमंत्री मोदी वीडियो के जरिये मिजोरम में रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन करेंगे, गढ़चिरौली कार्यक्रम सुबह 11 बजे"
       },
-      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
     },
     {
       "icon": "calendar-blank",
@@ -524,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T20:36:25+05:30",
-      "ids": [
-        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-        "punjab-ots-power-bills-penalty-waiver-24-lakh-mann",
-        "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "nasa-opens-astronaut-applications-december-3-deadline",
-        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
-      ]
-    },
     {
       "at": "2026-11-14T21:14:18+05:30",
       "ids": [
@@ -650,19 +637,30 @@
         "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
       ]
+    },
+    {
+      "at": "2026-11-15T08:36:15+05:30",
+      "ids": [
+        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+        "odisha-five-instream-storage-projects-625-crore",
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+        "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "nasa-opens-astronaut-applications-december-3-deadline"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-    "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
-    "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
-    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-    "u19-asia-cup-final-india-pakistan-preview-november-14",
-    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "india-october-exports-record-iitf-goyal-1-trillion-target",
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
   ]
 }

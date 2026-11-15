@@ -3,7 +3,7 @@ id: zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange
 lang: en
 type: news
 section: world
-format_label: "World / Russia-Ukraine"
+format_label: "World / Russia and Ukraine"
 topics: []
 title: "Zelenskyy meets Witkoff and Kushner near Dublin and says the largest prisoner exchange of the war is coming"
 standfirst: "The US envoys flew to Ireland from the Kremlin on Thursday night. Kyiv talks of 1,000 for 1,000, perhaps 1,500 each; Moscow says terms are still being agreed, and no date has been fixed."

@@ -3,7 +3,7 @@ id: sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment
 lang: hi
 translation_of: sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment
 type: news
-section: business
+section: economy
 format_label: "कारोबार / कंपनियां"
 topics: []
 title: "सेबी ने सेम्बकॉर्प ग्रीन इंफ्रा के ₹3,750 करोड़ के आईपीओ को दी मंजूरी, पूरा नया निर्गम, पैसा कर्ज चुकाने में लगेगा"

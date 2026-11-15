@@ -51458,13 +51458,26 @@
   "src": "/photos/o-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters-1280.jpg",
   "src800": "/photos/o-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1084,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister,_Shri_Narendra_Modi_addressing_at_the_webinar_for_effective_implementation_of_Union_Budget_in_Defence_Sector_(cropped).jpg"
+  "height": 960,
+  "srcWidth": 4096,
+  "credit": "Photo: Robjersey / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "A view of Aizawl, the Mizoram capital, in whose district the Ropuiliani museum stands at Kelsih (file photo)",
+  "alt_hi": "आइजोल का दृश्य, जिस जिले के केलसिह में रोपुइलियानी संग्रहालय बना है (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Aizawl_City_in_2023.jpg",
+  "treated": {
+   "src": "/photos/t-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-fre-1280.jpg",
+   "src800": "/photos/t-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-fre-640.jpg",
+   "cutout": false,
+   "with": [
+    "cameroon-mrc-elects-tiriane-noah-first-woman-leader",
+    "cbi-arrests-ed-officials-lucknow-5-lakh-bribe",
+    "iran-summons-uk-envoy-fairford-false-flag"
+   ],
+   "kind": "photo",
+   "subj": "1f7f1f1e001e0c28",
+   "credit": "Photos: Robjersey / Wikimedia Commons; Ryanvanhuyssteen / Wikimedia Commons; Pulakit Singh / Wikimedia Commons; Colin Cooke Photo / Wikimedia Commons"
+  }
  },
  "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return": {
   "id": "o-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
@@ -51477,20 +51490,63 @@
   "licence": "GODL-India",
   "alt": "Trees and power lines brought down in Visakhapatnam on the north Andhra coast by Cyclone Hudhud in October 2014 (file photo)",
   "alt_hi": "अक्टूबर 2014 में चक्रवात हुदहुद से उत्तर आंध्र तट पर विशाखापत्तनम में गिरे पेड़ और बिजली के खंभे (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_destruction_in_Visakhapatnam.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_destruction_in_Visakhapatnam.jpg",
+  "treated": {
+   "src": "/photos/t-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fish-1280.jpg",
+   "src800": "/photos/t-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fish-640.jpg",
+   "cutout": false,
+   "with": [
+    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "andhra-local-polls-must-start-with-free-nominations",
+    "cabinet-approves-integrated-transport-logistics-authority"
+   ],
+   "kind": "photo",
+   "subj": "3c3c3c3c3c3c3c3c",
+   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Saankav / Wikimedia Commons"
+  }
  },
  "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment": {
-  "id": "o-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-  "src": "/photos/o-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-1280.jpg",
-  "src800": "/photos/o-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-640.jpg",
+  "id": "i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+  "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-3x2-1280.jpg",
+  "src800": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-3x2-640.jpg",
   "width": 1280,
-  "height": 848,
-  "srcWidth": 4928,
-  "credit": "Photo: PJeganathan / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Wind turbines above a chickpea field in Tamil Nadu, one of the states where India's renewable energy producers run their largest wind portfolios (file photo)",
-  "alt_hi": "तमिलनाडु में चने के खेत के ऊपर लगे पवन टरबाइन, जहाँ भारत की नवीकरणीय ऊर्जा कंपनियों के सबसे बड़े पवन संयंत्र हैं (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Wind_turbines_and_chickpea_field_in_Tamil_Nadu_JEG6274.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sembcorp Green Infra gets SEBI nod for ₹3,750 crore IPO",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सेम्बकॉर्प ग्रीन इंफ्रा के ₹3,750 करोड़ के आईपीओ को सेबी की मंजूरी",
+  "page": null,
+  "ihash": "1df81330df85",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-t-1280.jpg",
+    "src800": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-hi-t-1280.jpg",
+    "src800": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-1280.jpg",
+    "src800": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-hi-1280.jpg",
+    "src800": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of a Sembcorp Green Infra plant; library, quick_photo, finder h1508 (generic Tamil Nadu wind farm rejected by the editor)"
  },
  "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch": {
   "id": "o-starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
@@ -51503,6 +51559,19 @@
   "licence": "CC BY-SA 2.0",
   "alt": "A Starship upper stage stacked on its Super Heavy booster at SpaceX's Starbase site in Texas during testing (file photo)",
   "alt_hi": "टेक्सास स्थित स्पेसएक्स के स्टारबेस केंद्र पर परीक्षण के दौरान सुपर हेवी बूस्टर पर चढ़ा स्टारशिप का ऊपरी चरण (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:SpaceX_Starship_Superheavy_Testing_February_2023_(cropped_horizontal).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:SpaceX_Starship_Superheavy_Testing_February_2023_(cropped_horizontal).jpg",
+  "treated": {
+   "src": "/photos/t-starship-flight-15-ship-42-caught-tower-first-upper-stage-ca-1280.jpg",
+   "src800": "/photos/t-starship-flight-15-ship-42-caught-tower-first-upper-stage-ca-640.jpg",
+   "cutout": false,
+   "with": [
+    "starlink-waits-on-security-clearance-as-musk-row-escalates",
+    "bennu-samples-hybrid-inner-outer-solar-system-eth-zurich",
+    "migrant-boat-capsizes-off-djibouti-killing-at-least-139"
+   ],
+   "kind": "photo",
+   "subj": "27672777f7f73707",
+   "credit": "Photos: Mobilus In Mobili / Wikimedia Commons; Ka23 13 / Wikimedia Commons; NASA/Goddard/University of Arizona / Wikimedia Commons; US Navy / Wikimedia Commons"
+  }
  }
 }

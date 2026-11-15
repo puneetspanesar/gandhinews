@@ -1,0 +1,29 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-15T08:05:55+05:30",
+ "end": "2026-11-15T08:38:41+05:30",
+ "summary": "Cyclone Akvan north Andhra lead, Ropuiliani museum, Sembcorp IPO nod, Starship upper-stage catch",
+ "new": [
+  "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+  "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+  "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+  "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+   "why": "Main picture is an extreme close-up of Modi's face with the top of the head cut off and the sides of the beard cropped; it is a badly cropped face and shows nothing of the event.",
+   "done": "Main picture swapped: the close-up Modi portrait is out, replaced with a wide view of Aizawl, the Mizoram capital in whose district the museum stands, labelled (file photo). No wider free Modi portrait was free of the 48-hour rule."
+  },
+  {
+   "id": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+   "why": "Main picture is a hazy shot of wind turbines above a chickpea field in Tamil Nadu: a generic stock-looking stand-in, not Sembcorp Green Infra or any of its plants, and it looks poor on the page.",
+   "done": "Generic wind farm photo dropped; the story now runs on its infographic cover (make_infographic.py --nophoto), so it stays out of the top five."
+  }
+ ],
+ "breaches": [],
+ "lead": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return"
+}

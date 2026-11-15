@@ -2,7 +2,7 @@
 id: sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment
 lang: en
 type: news
-section: business
+section: economy
 format_label: "Business / Companies"
 topics: []
 title: "SEBI clears Sembcorp Green Infra's ₹3,750 crore IPO, all fresh shares, with the money going to repay debt"
