@@ -51843,5 +51843,87 @@
    "subj": "f0f8fcfcfe9e0000",
    "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Pinakpani / Wikimedia Commons"
   }
+ },
+ "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14": {
+  "id": "o-lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+  "src": "/photos/o-lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14-1280.jpg",
+  "src800": "/photos/o-lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1821,
+  "credit": "Photo: BugWarp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Lakshya Sen (file photo)",
+  "alt_hi": "लक्ष्य सेन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Lakshya_Sen_(cropped).jpg"
+ },
+ "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10": {
+  "id": "o-senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+  "src": "/photos/o-senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10-1280.jpg",
+  "src800": "/photos/o-senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3888,
+  "credit": "Photo: Anderseidesvik / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Jensen Huang (file photo)",
+  "alt_hi": "जेन्सेन हुआंग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg"
+ },
+ "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan": {
+  "id": "o-kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+  "src": "/photos/o-kerala-cpim-judicial-probe-200-mw-power-purchase-govindan-1280.jpg",
+  "src800": "/photos/o-kerala-cpim-judicial-probe-200-mw-power-purchase-govindan-640.jpg",
+  "width": 1280,
+  "height": 715,
+  "srcWidth": 3052,
+  "credit": "Photo: Lsgd media / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "CPI(M) Keralam state secretary M V Govindan speaking at a party event (file photo)",
+  "alt_hi": "माकपा केरलम राज्य सचिव एम वी गोविंदन एक पार्टी कार्यक्रम में बोलते हुए (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:M_V_GOVINDAN_MASTER_1.jpg"
+ },
+ "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam": {
+  "id": "i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+  "src": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-en-3x2-1280.jpg",
+  "src800": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 30 guilty after 21 years in court",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 21 साल बाद 30 लोग दोषी",
+  "page": null,
+  "ihash": "3df27893f3d5",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-hi-3x2-1280.jpg",
+    "src800": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-en-t-1280.jpg",
+    "src800": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-hi-t-1280.jpg",
+    "src800": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-en-1280.jpg",
+    "src800": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-hi-1280.jpg",
+    "src800": "/photos/i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of FCI Punjab godowns or the Sangrur mills; quick_photo 9 queries, finder h1514 (only UP CWC godowns)"
  }
 }
