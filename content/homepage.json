@@ -202,8 +202,8 @@
     ]
   },
   "startHere": [
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
     "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
   ],
@@ -473,10 +473,22 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Piyush Goyal's visit to Egypt ends",
-        "hi": "पीयूष गोयल की मिस्र यात्रा पूरी"
+        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
+        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
       },
-      "link": "goyal-cairo-us-preferential-access-egypt-jtc"
+      "link": "modi-asean-india-summit-manila-november-16-18"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
+      },
+      "text": {
+        "en": "Rahul Gandhi's fireside chat at Columbia University",
+        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
+      },
+      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     },
     {
       "icon": "calendar-blank",
@@ -493,14 +505,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
+        "en": "Nov 18",
+        "hi": "18 नवंबर"
       },
       "text": {
-        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
-        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
+        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
+        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
       },
-      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     },
     {
       "icon": "calendar-blank",
@@ -513,18 +525,6 @@
         "hi": "भाजपा की समरस्ता संकल्प यात्रा को नितिन नबीन जालंधर से हरी झंडी दिखाएंगे"
       },
       "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
-      },
-      "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
-      },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "at": "2026-11-15T23:14:09+05:30",
+      "at": "2026-11-15T23:16:04+05:30",
       "ids": [
         "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
         "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
