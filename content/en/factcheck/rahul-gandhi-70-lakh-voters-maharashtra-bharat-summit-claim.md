@@ -67,7 +67,7 @@ verification:
   notes:
     - "Written November 15, 2026, 6:43 am IST. The two elector totals and the 40,81,229 difference were read in the one-page figures sheet attributed to the Election Commission and Maharashtra CEO (hosted by Alt News; the ECI page itself was not opened). The 9,70,25,119 Assembly total is also in the Free Press Journal's search snippet of the October 2024 ECI release. Lok Sabha roll shown as 92,943,890 in the sheet."
     - "Votes polled (5,71,79,131 Lok Sabha; 6,40,88,195 Assembly) are as quoted by Alt News from the Maharashtra CEO's results handbook and turnout file; those files were not opened. Difference 69,09,064."
-    - "The ECI's December 24, 2024 rebuttal (six constituencies above 50,000 added electors; no bulk deletions) was read via Scroll's report; the ECI press note itself not opened."
+    - "The ECI's December 24, 2024, rebuttal (six constituencies above 50,000 added electors; no bulk deletions) was read via Scroll's report; the ECI press note itself not opened."
     - "Gandhi's words are from our own report of the speech; no transcript or video was opened this run. The speech also said about 14 crore 2024 voters were later declared non-existent: no primary data found, so it is not rated."
     - "He made a near-identical 70 lakh claim on February 3, 2025 (Deccan Herald)."
 ---

@@ -8,7 +8,7 @@ topics: [states, supreme-court]
 title: "The Ninth Schedule explained: what Shivakumar is asking Modi for, and how much shelter it gives"
 standfirst: "Karnataka's Chief Minister has written to the Prime Minister to put the state's 56% SC/ST quota law into the Ninth Schedule. What the list is, how a law gets on it, and why courts can still look inside it."
 published: 2026-11-15T06:47:29+05:30
-shortAnswer: "The Ninth Schedule is a list attached to the Constitution whose laws were meant to be safe from challenge for violating Fundamental Rights. It began in 1951 to protect land reform laws and now holds about 284 entries. Since a nine-judge bench ruled in I R Coelho (2007), a law added after April 24, 1973 can still be struck down if it breaks the basic structure of the Constitution. A law gets on the list only through a Constitutional Amendment, so Karnataka's request needs Parliament's special majority."
+shortAnswer: "The Ninth Schedule is a list attached to the Constitution whose laws were meant to be safe from challenge for violating Fundamental Rights. It began in 1951 to protect land reform laws and now holds about 284 entries. Since a nine-judge bench ruled in I R Coelho (2007), a law added after April 24, 1973, can still be struck down if it breaks the basic structure of the Constitution. A law gets on the list only through a Constitutional Amendment, so Karnataka's request needs Parliament's special majority."
 hero:
   need: "Prime Minister Narendra Modi, to whom Chief Minister D K Shivakumar wrote on November 14"
   suggested_source: "Narendra Modi"
@@ -24,7 +24,7 @@ infographic:
   timeline:
     - {date: "1951", text: "First Amendment adds the Ninth Schedule and Article 31B", icon: scroll}
     - {date: "1973", text: "Kesavananda Bharati: basic structure doctrine", icon: scales}
-    - {date: "2007", text: "Coelho: laws added after April 24, 1973 can be reviewed", icon: gavel}
+    - {date: "2007", text: "Coelho: laws added after April 24, 1973, can be reviewed", icon: gavel}
     - {date: "Nov 14, 2026", text: "Karnataka asks for its SC/ST quota law to be added", icon: envelope}
   source: "Constitution of India; Supreme Court judgments; Karnataka Chief Minister's letter"
 related: [reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka, shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent, karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike]
@@ -45,7 +45,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Origin (First Amendment 1951, Article 31B, 13 laws at the start), size (about 284 entries; sources say 'over 280'), Kesavananda 1973, Waman Rao and the April 24, 1973 cut-off, Coelho (nine judges, January 11, 2007) and the 76th Amendment (1994, Entry 257A) are from one explainer page and match the desk's earlier quota pieces; judgments not read."
+    - "Origin (First Amendment 1951, Article 31B, 13 laws at the start), size (about 284 entries; sources say 'over 280'), Kesavananda 1973, Waman Rao and the April 24, 1973, cut-off, Coelho (nine judges, January 11, 2007) and the 76th Amendment (1994, Entry 257A) are from one explainer page and match the desk's earlier quota pieces; judgments not read."
     - "The Constitutional Amendment route (Article 368 special majority) is standard constitutional law, not taken from a source read for this piece."
     - "Karnataka facts (letter of November 14, 56% total, 17% SC and 7% ST, July 25 Lok Sabha reply, October 12 High Court ruling, appeal filed November 11) are from the desk's own November 11 and 14 stories."
 ---
@@ -77,12 +77,12 @@ That is why the decision is political, not judicial. The state can ask, the Asse
 **No, and it has not been for a long time.** The courts first accepted the schedule's protection, then narrowed it in three steps.
 
 ```timeline
-{"title":"How the courts narrowed the Ninth Schedule","items":[{"date":"1951","text":"First Amendment adds the schedule with 13 land reform laws"},{"date":"1973","text":"Kesavananda Bharati: Parliament cannot alter the basic structure of the Constitution"},{"date":"1980","text":"Waman Rao: laws added before April 24, 1973 stay immune; later ones can be reviewed"},{"date":"January 11, 2007","text":"I R Coelho: a nine-judge bench confirms that later additions are open to challenge"},{"date":"1994","text":"Tamil Nadu's 69% reservation law added as Entry 257A"}]}
+{"title":"How the courts narrowed the Ninth Schedule","items":[{"date":"1951","text":"First Amendment adds the schedule with 13 land reform laws"},{"date":"1973","text":"Kesavananda Bharati: Parliament cannot alter the basic structure of the Constitution"},{"date":"1980","text":"Waman Rao: laws added before April 24, 1973, stay immune; later ones can be reviewed"},{"date":"January 11, 2007","text":"I R Coelho: a nine-judge bench confirms that later additions are open to challenge"},{"date":"1994","text":"Tamil Nadu's 69% reservation law added as Entry 257A"}]}
 ```
 
 In Kesavananda Bharati in 1973 the Supreme Court held 7 to 6 that Parliament can amend the Constitution but cannot destroy its basic structure, and that judicial review is part of that structure. Waman Rao later drew the line at **April 24, 1973**: laws put in the schedule before that date keep their immunity, while those added later are open to review.
 
-The last word is the I R Coelho case. On January 11, 2007, a nine-judge Constitution Bench held that a law added after April 24, 1973 can be challenged if it violates the basic structure, tested against rights such as equality under Article 14, the freedoms under Article 19 and life and liberty under Article 21. A law the Court has already upheld in such a test cannot be challenged again.
+The last word is the I R Coelho case. On January 11, 2007, a nine-judge Constitution Bench held that a law added after April 24, 1973, can be challenged if it violates the basic structure, tested against rights such as equality under Article 14, the freedoms under Article 19 and life and liberty under Article 21. A law the Court has already upheld in such a test cannot be challenged again.
 
 ```photo
 {"n":2,"subject":"Supreme Court of India","caption":"The Supreme Court of India in New Delhi, which decides whether a law in the Ninth Schedule breaks the basic structure.","alt":"The Supreme Court of India building in New Delhi"}

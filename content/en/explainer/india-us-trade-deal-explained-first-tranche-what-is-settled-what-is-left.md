@@ -55,7 +55,7 @@ verification:
   status: approved
   notes:
     - "Comparative tariff advantage assurance is from unnamed Indian government sources (ThePrint, Daily Jagran), not on the record; the copy says so."
-    - "Section 301 facts (two probes opened March 2026, forced labour concluded at 10% for India, excess capacity pending) from ThePrint; the 10% effective date of July 24, 2026 from the desk's October 11 story. USTR notices not opened."
+    - "Section 301 facts (two probes opened March 2026, forced labour concluded at 10% for India, excess capacity pending) from ThePrint; the 10% effective date of July 24, 2026, from the desk's October 11 story. USTR notices not opened."
     - "Exports figure ($59.52 bn April to October against $51.99 bn, 14.48%) from ThePrint, attributed to commerce data; not opened at source."
     - "Named Indian concessions (tree nuts, fruit, soybean oil, wine, spirits) and dairy as a hurdle are from IND Today only; framework date: sources give February 7 (joint statement) and February 10 (US fact sheet), so the text says early February."
     - "G20 Miami December 14 and 15 and a possible announcement are speculation in the sources, not confirmed by the Ministry of External Affairs."

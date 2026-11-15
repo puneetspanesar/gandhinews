@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+    "id": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
     "overlay": {
       "kicker": {
-        "en": "World / Russia-Ukraine",
-        "hi": "दुनिया / रूस-यूक्रेन"
+        "en": "World / Europe",
+        "hi": "दुनिया / यूरोप"
       },
       "value": {
-        "en": "Biggest prisoner swap of the war ahead",
-        "hi": "युद्ध का सबसे बड़ा कैदी आदान-प्रदान"
+        "en": "Kushner: now a Russia-Europe track",
+        "hi": "कुशनर: अब रूस-यूरोप संवाद की राह"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Russia-Ukraine",
-        "hi": "रूस-यूक्रेन"
+        "en": "Europe",
+        "hi": "यूरोप"
       }
     }
   },
@@ -52,69 +52,69 @@
         }
       },
       {
-        "link": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+        "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
         "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
+          "en": "Manipur:",
+          "hi": "मणिपुर:"
         },
         "text": {
-          "en": "Modi to open 38 Eklavya schools and 100 multi-purpose centres on Birsa Munda's 151st birth anniversary, in a ₹3,000 crore tribal package",
-          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी 38 एकलव्य स्कूल और 100 बहुउद्देशीय केंद्र खोलेंगे, ₹3,000 करोड़ का जनजातीय पैकेज"
+          "en": "Manipur's Khemchand reviews security after four Nagas killed on Ukhrul highway and a Kuki woman shot in Kangpokpi",
+          "hi": "उखरुल हाईवे पर चार नागा और कांगपोकपी में कुकी महिला की हत्या के बाद मणिपुर के मुख्यमंत्री खेमचंद ने की सुरक्षा समीक्षा"
         }
       },
       {
-        "link": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "link": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "lead": {
+          "en": "Fintech:",
+          "hi": "फिनटेक:"
+        },
+        "text": {
+          "en": "RBI gives Paytm's payments arm in-principle nod to issue wallets again, final approval still awaited",
+          "hi": "आरबीआई ने पेटीएम की पेमेंट्स इकाई को वॉलेट के लिए सैद्धांतिक मंजूरी दी, अंतिम अनुमति बाकी"
+        }
+      },
+      {
+        "link": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "India U19 beat Pakistan by one wicket off the last ball to win the Asia Cup, chasing 338, as Mohit Ulva hits the winning four",
-          "hi": "भारत अंडर-19 ने आखिरी गेंद पर एक विकेट से पाकिस्तान को हराकर एशिया कप जीता, 338 का पीछा; मोहित उल्वा ने जड़ा विजयी चौका"
+          "en": "Iyer's India, all out for 89, face a New Zealand side without Matt Henry in Sunday's series finale",
+          "hi": "89 पर ऑलआउट अय्यर की टीम इंडिया रविवार के फ़ाइनल में मैट हेनरी के बिना न्यूज़ीलैंड से भिड़ेगी"
         }
       },
       {
-        "link": "nasa-opens-astronaut-applications-december-3-deadline",
+        "link": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
         "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "NASA opens astronaut applications for Moon missions, with a December 3 deadline",
-          "hi": "नासा ने चंद्र अभियानों के लिए अंतरिक्ष यात्री आवेदन खोले, अंतिम तारीख 3 दिसंबर"
+          "en": "Rahul Gandhi tells Bharat Summit 'we are going to get rid of PM Modi', cites Adani and Maharashtra voter rolls",
+          "hi": "राहुल गांधी ने भारत समिट में कहा, 'हम पीएम मोदी को हटाने जा रहे हैं'; अडानी और महाराष्ट्र की मतदाता सूची का जिक्र"
         }
       },
       {
-        "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+        "link": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
         "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
+          "en": "Foreign affairs:",
+          "hi": "विदेश नीति:"
         },
         "text": {
-          "en": "IMD now sees Akvan as a severe cyclone by November 18; Odisha gets orange warnings for November 19 to 21",
-          "hi": "मौसम विभाग: अकवान 18 नवंबर तक भीषण चक्रवात बन सकता है; ओडिशा में 19 से 21 नवंबर के लिए ऑरेंज चेतावनी"
+          "en": "Jaishankar says India-US trade deal is in its 'last stretch', with remaining changes 'more at the American end'",
+          "hi": "जयशंकर: अमेरिका से व्यापार समझौता 'आख़िरी चरण' में"
         }
       },
       {
-        "link": "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "link": "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Shivakumar writes to Modi: put Karnataka's 56% SC/ST quota in the Ninth Schedule",
-          "hi": "शिवकुमार ने मोदी को लिखा: कर्नाटक के 56% एससी/एसटी कोटे को नौवीं अनुसूची में डालें"
-        }
-      },
-      {
-        "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "lead": {
-          "en": "Technology:",
-          "hi": "तकनीक:"
-        },
-        "text": {
-          "en": "Microsoft says global Outlook and Teams outage is over after more than a day; IndiGo, Akasa Air and Indian IT firms were hit",
-          "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन बाद ख़त्म; इंडिगो, आकासा पर भी असर"
+          "en": "Iran's Guards say they destroyed a US radar in Bahrain after Sirik strike; CENTCOM says two drones were shot down",
+          "hi": "ईरान के गार्ड्स का दावा, सिरिक हमले के बाद बहरीन में अमेरिकी रडार तबाह किया; सेंटकॉम बोला, दो ड्रोन मार गिराए"
         }
       }
     ]
@@ -186,22 +186,22 @@
       "also": []
     },
     "list": [
-      "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-      "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-      "nasa-opens-astronaut-applications-december-3-deadline",
-      "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
+      "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+      "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+      "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+      "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
     ],
     "also": [
-      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-      "rahul-gandhi-hyderabad-gig-workers-act-insurance"
+      "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+      "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
     ]
   },
   "startHere": [
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
-    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
-    "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc"
+    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
   ],
   "trackers": [
     {
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
+      "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
       "mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim",
-      "rahul-gandhi-bjp-assets-elevenfold-decade-claim",
-      "goyal-record-october-exports-90-billion-claim"
+      "rahul-gandhi-bjp-assets-elevenfold-decade-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates",
+    "manipur-highway-ambush-ukhrul-needs-nia-decision-and-road-security",
     "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
     "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
-    "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-    "cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey",
-    "tb-estimates-may-be-revised-publish-the-prevalence-survey-before-the-next-claim"
+    "delimitation-special-session-needs-the-bill-text-and-21-days-notice"
   ],
   "sections": [
     {
@@ -422,7 +422,7 @@
   "desks": [
     {
       "section": "world",
-      "lead": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+      "lead": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
       "list": [
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "microsoft-365-outage-ends-india-indigo-akasa-air-india",
@@ -442,10 +442,10 @@
       "section": "sports",
       "lead": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
       "list": [
+        "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
         "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "u19-asia-cup-final-india-pakistan-preview-november-14"
+        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
       ]
     }
   ],
@@ -524,23 +524,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T19:42:05+05:30",
-      "ids": [
-        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
-        "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "rahul-gandhi-hyderabad-gig-workers-act-insurance",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
-      ]
-    },
     {
       "at": "2026-11-14T20:36:25+05:30",
       "ids": [
@@ -653,16 +636,33 @@
         "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "microsoft-365-outage-ends-india-indigo-akasa-air-india"
       ]
+    },
+    {
+      "at": "2026-11-15T07:55:46+05:30",
+      "ids": [
+        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "odisha-five-instream-storage-projects-625-crore",
+        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
     "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+    "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
+    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+    "u19-asia-cup-final-india-pakistan-preview-november-14",
     "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-    "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-    "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
-    "india-october-exports-record-iitf-goyal-1-trillion-target"
+    "india-october-exports-record-iitf-goyal-1-trillion-target",
+    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
   ]
 }
