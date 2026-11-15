@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+    "id": "winter-session-first-week-december-delimitation-womens-quota-bill",
     "overlay": {
       "kicker": {
-        "en": "World / Climate",
-        "hi": "दुनिया / जलवायु"
+        "en": "Politics / Parliament",
+        "hi": "राजनीति / संसद"
       },
       "value": {
-        "en": "COP31 at the midpoint",
-        "hi": "कॉप31 आधे पड़ाव पर"
+        "en": "Session dates, quota Bill, 361 votes",
+        "hi": "सत्र की तारीख, महिला आरक्षण, 361 वोट"
       },
       "text": {
         "en": "",
@@ -16,28 +16,32 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+      "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
+    ],
     "relatedBeside": [
-      "winter-session-first-week-december-delimitation-womens-quota-bill"
+      "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
     ],
     "live": {
       "title": {
-        "en": "Climate",
-        "hi": "जलवायु"
+        "en": "Parliament",
+        "hi": "संसद"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "link": "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
         },
         "text": {
-          "en": "Winter Session likely in first week of December, with delimitation-linked women's quota Bill the government's top item",
-          "hi": "शीतकालीन सत्र दिसंबर के पहले सप्ताह में संभव, परिसीमन से जुड़ा महिला आरक्षण विधेयक सरकार की सबसे ऊपर की प्राथमिकता"
+          "en": "Yogi launches distribution of 25 lakh free tablets to Uttar Pradesh students from Lucknow",
+          "hi": "योगी ने लखनऊ से उत्तर प्रदेश के विद्यार्थियों को 25 लाख मुफ्त टैबलेट बांटने की शुरुआत की"
         }
       },
       {
@@ -63,58 +67,58 @@
         }
       },
       {
-        "link": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+        "link": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
         "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
+          "en": "Delhi smog:",
+          "hi": "दिल्ली स्मॉग:"
         },
         "text": {
-          "en": "Senate Banking Committee asks Jensen Huang and Commerce Secretary Lutnick to testify on Nvidia chip exports",
-          "hi": "अमेरिकी सीनेट की बैंकिंग समिति ने जेन्सन हुआंग और वाणिज्य मंत्री लटनिक से एनवीडिया चिप निर्यात पर गवाही मांगी"
+          "en": "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold",
+          "hi": "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"
         }
       },
       {
-        "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+        "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Jharkhand:",
+          "hi": "झारखंड:"
         },
         "text": {
-          "en": "CBI court convicts 14 FCI officials and 16 millers in Punjab rice scam, 21 years after the checks",
-          "hi": "पंजाब चावल घोटाले में सीबीआई अदालत ने 14 एफसीआई अधिकारियों और 16 मिलर्स को दोषी ठहराया, जांच के 21 साल बाद"
+          "en": "Jharkhand turns 26 on a quiet note: Hemant Soren government shifts the main Foundation Day event to November 28",
+          "hi": "झारखंड 26 साल का हुआ, पर हेमंत सोरेन सरकार ने मुख्य स्थापना दिवस समारोह 28 नवंबर को रखा"
         }
       },
       {
-        "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+        "link": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
         "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Lakshya Sen beats Koki Watanabe to win the Kumamoto Masters title",
-          "hi": "लक्ष्य सेन ने कोकी वातानाबे को हराकर जीता कुमामोतो मास्टर्स खिताब"
+          "en": "Iran says three more tankers hit mines in Hormuz and it shot down a second US drone in two days",
+          "hi": "ईरान का दावा: होर्मुज में तीन और टैंकर बारूदी सुरंग से टकराए, दो दिन में दूसरा अमेरिकी ड्रोन गिराया"
         }
       },
       {
-        "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "link": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
         "lead": {
-          "en": "Keralam:",
-          "hi": "केरलम:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "CPI(M) demands judicial probe into Keralam's 200 MW power purchase, says CM Satheesan was involved",
-          "hi": "केरलम में 200 मेगावाट बिजली खरीद की न्यायिक जांच मांगी, सीपीआई(एम) का आरोप, मुख्यमंत्री सतीशन शामिल"
+          "en": "Sooryavanshi, 15, scores 18 on captaincy debut as Bihar lose to Saurashtra on SMAT's opening day",
+          "hi": "सूर्यवंशी ने कप्तानी के पहले मैच में बनाए 18 रन, SMAT के पहले दिन सौराष्ट्र से हारा बिहार"
         }
       },
       {
-        "link": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+        "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
         "lead": {
           "en": "Prime Minister:",
           "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Modi opens 173 tribal projects on Birsa Munda's 151st anniversary and says tribals now have full rights over bamboo",
-          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी ने 173 जनजातीय परियोजनाएं खोलीं, कहा: बांस पर अब जनजातियों का पूरा अधिकार"
+          "en": "Modi to open ₹25.59 crore Ropuiliani museum in Mizoram on Birsa Munda's birth anniversary, the fifth tribal freedom fighters' museum",
+          "hi": "बिरसा मुंडा की जयंती पर मोदी मिजोरम में ₹25.59 करोड़ का रोपुइलियानी संग्रहालय खोलेंगे, पांचवां जनजातीय स्वतंत्रता सेनानी संग्रहालय"
         }
       }
     ]
@@ -187,14 +191,14 @@
     },
     "list": [
       "goyal-cairo-us-preferential-access-egypt-jtc",
-      "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-      "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan"
+      "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+      "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
     ],
     "also": [
-      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-      "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
+      "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+      "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return"
     ]
   },
   "startHere": [
@@ -525,20 +529,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-15T09:06:20+05:30",
-      "ids": [
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
-        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
-        "odisha-five-instream-storage-projects-625-crore",
-        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
-        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
-      ]
-    },
-    {
       "at": "2026-11-15T10:54:42+05:30",
       "ids": [
         "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
@@ -649,6 +639,23 @@
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
         "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
         "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+      ]
+    },
+    {
+      "at": "2026-11-15T20:32:23+05:30",
+      "ids": [
+        "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+        "monsoon-session-unprorogued-record-88-days-ramesh-claim",
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
       ]
     }
   ],
