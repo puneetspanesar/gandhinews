@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+    "id": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "States / Weather",
+        "hi": "राज्य / मौसम"
       },
       "value": {
-        "en": "Kushner: now a Russia-Europe track",
-        "hi": "कुशनर: अब रूस-यूरोप संवाद की राह"
+        "en": "Akvan: north Andhra on alert",
+        "hi": "अकवान: उत्तरी आंध्र पर अलर्ट"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "odisha-five-instream-storage-projects-625-crore",
+      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+      "punjab-power-bill-waiver-must-say-who-pays-the-518-crore"
+    ],
     "relatedBeside": [
-      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
+      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Weather",
+        "hi": "मौसम"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "SEBI clears Sembcorp Green Infra's ₹3,750 crore IPO, all fresh shares, with the money going to repay debt",
+          "hi": "सेबी ने सेम्बकॉर्प ग्रीन इंफ्रा के ₹3,750 करोड़ के आईपीओ को दी मंजूरी, पूरा नया निर्गम, पैसा कर्ज चुकाने में लगेगा"
+        }
+      },
+      {
+        "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+        "lead": {
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
+        },
+        "text": {
+          "en": "Modi to open ₹25.59 crore Ropuiliani museum in Mizoram on Birsa Munda's birth anniversary, the fifth tribal freedom fighters' museum",
+          "hi": "बिरसा मुंडा की जयंती पर मोदी मिजोरम में ₹25.59 करोड़ का रोपुइलियानी संग्रहालय खोलेंगे, पांचवां जनजातीय स्वतंत्रता सेनानी संग्रहालय"
+        }
+      },
+      {
+        "link": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "SpaceX catches Starship's Ship 42 with its launch tower after 22.5 hours in orbit, a first",
+          "hi": "स्पेसएक्स ने 22.5 घंटे कक्षा में रहे स्टारशिप के शिप 42 को टावर से पकड़ा, पहली बार"
+        }
+      },
       {
         "link": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
         "lead": {
@@ -41,36 +78,14 @@
         }
       },
       {
-        "link": "odisha-five-instream-storage-projects-625-crore",
+        "link": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Russia and Ukraine:",
+          "hi": "रूस-यूक्रेन:"
         },
         "text": {
-          "en": "Odisha clears five in-stream storage projects worth ₹625.47 crore for 74 villages",
-          "hi": "ओडिशा ने 74 गांवों के लिए ₹625.47 करोड़ की पांच नदी जल-भंडारण परियोजनाओं को मंजूरी दी"
-        }
-      },
-      {
-        "link": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi to open 38 Eklavya schools and 100 multi-purpose centres on Birsa Munda's 151st birth anniversary, in a ₹3,000 crore tribal package",
-          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी 38 एकलव्य स्कूल और 100 बहुउद्देशीय केंद्र खोलेंगे, ₹3,000 करोड़ का जनजातीय पैकेज"
-        }
-      },
-      {
-        "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Haryana CM Saini says Punjab has decided on a BJP government as party readies Dalit outreach yatra",
-          "hi": "हरियाणा के मुख्यमंत्री सैनी बोले, पंजाब ने भाजपा सरकार चुनने का मन बना लिया; 18 नवंबर से दलित संपर्क यात्रा"
+          "en": "Zelenskyy meets Witkoff and Kushner near Dublin and says the largest prisoner exchange of the war is coming",
+          "hi": "डबलिन के पास ज़ेलेंस्की की विटकॉफ और कुशनर से मुलाकात, कहा युद्ध का सबसे बड़ा कैदी आदान-प्रदान आ रहा है"
         }
       },
       {
@@ -93,17 +108,6 @@
         "text": {
           "en": "India U19 beat Pakistan by one wicket off the last ball to win the Asia Cup, chasing 338, as Mohit Ulva hits the winning four",
           "hi": "भारत अंडर-19 ने आखिरी गेंद पर एक विकेट से पाकिस्तान को हराकर एशिया कप जीता, 338 का पीछा; मोहित उल्वा ने जड़ा विजयी चौका"
-        }
-      },
-      {
-        "link": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
-        },
-        "text": {
-          "en": "RBI fines Mobikwik ₹9 lakh for wallet transfer limits and late fraud reports",
-          "hi": "आरबीआई ने मोबिक्विक पर ₹9 लाख का जुर्माना लगाया, वॉलेट ट्रांसफर सीमा और देर से फ्रॉड रिपोर्टिंग पर"
         }
       },
       {
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "odisha-five-instream-storage-projects-625-crore",
+      "id": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
       "also": []
     },
     "list": [
-      "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+      "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
       "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-      "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+      "u19-asia-cup-final-india-win-last-ball-mohit-ulva"
     ],
     "also": [
       "nasa-opens-astronaut-applications-december-3-deadline",
-      "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
+      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
     ]
   },
   "startHere": [
@@ -372,11 +376,11 @@
         "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
         "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ],
-      "lead": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
+      "lead": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
     },
     {
       "section": "economy",
-      "lead": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+      "lead": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +391,18 @@
         ]
       },
       "list": [
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "india-october-exports-record-iitf-goyal-1-trillion-target"
       ]
     },
     {
       "section": "states",
-      "lead": "odisha-five-instream-storage-projects-625-crore",
+      "lead": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
       "list": [
+        "odisha-five-instream-storage-projects-625-crore",
         "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
       ]
     },
     {
@@ -424,18 +428,18 @@
       "section": "world",
       "lead": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
       "list": [
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
         "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
       ]
     },
     {
       "section": "science",
-      "lead": "nasa-opens-astronaut-applications-december-3-deadline",
+      "lead": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
       "list": [
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "nadda-who-global-tb-report-2026-india-mortality-38",
-        "india-italy-science-dialogue-jitendra-singh-rome-bernini-trieste"
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
       ]
     },
     {
@@ -444,8 +448,8 @@
       "list": [
         "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan"
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
+        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
       ]
     }
   ],
@@ -469,10 +473,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
-        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
+        "en": "PM Modi inaugurates the Ropuiliani Tribal Freedom Fighters Museum in Mizoram by video, with the Gadchiroli event at 11 am",
+        "hi": "प्रधानमंत्री मोदी वीडियो के जरिये मिजोरम में रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन करेंगे, गढ़चिरौली कार्यक्रम सुबह 11 बजे"
       },
-      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
     },
     {
       "icon": "calendar-blank",
@@ -635,26 +639,28 @@
       ]
     },
     {
-      "at": "2026-11-15T08:10:49+05:30",
+      "at": "2026-11-15T08:40:18+05:30",
       "ids": [
-        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
-        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
         "odisha-five-instream-storage-projects-625-crore",
-        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
         "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+        "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
         "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "nasa-opens-astronaut-applications-december-3-deadline"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
-    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
-    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-    "u19-asia-cup-final-india-pakistan-preview-november-14",
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
   ]
 }
