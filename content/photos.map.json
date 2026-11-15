@@ -51998,7 +51998,20 @@
   "licence": "GODL-India",
   "alt": "Yogi Adityanath (file photo)",
   "alt_hi": "योगी आदित्यनाथ (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Uttar_Pradesh_Chief_Minister,_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10,_2018_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Uttar_Pradesh_Chief_Minister,_Shri_Yogi_Adityanath_in_New_Delhi_on_February_10,_2018_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal-1280.jpg",
+   "src800": "/photos/t-yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal-640.jpg",
+   "cutout": true,
+   "with": [
+    "cdot-sixth-centre-of-excellence-iit-bhu-6g",
+    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally--p2",
+    "gst-retail-e-invoicing-pilot-april-2027-b2c--p2"
+   ],
+   "kind": "photo",
+   "subj": "bc3c1c3e3e1e1e3e",
+   "credit": "Photos: President's Secretariat / Wikimedia Commons; Rosehubwiki / Wikimedia Commons; ArmouredCyborg / Wikimedia Commons; Soumya S Das / Wikimedia Commons"
+  }
  },
  "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval": {
   "id": "o-india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
@@ -52011,7 +52024,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Arshdeep Singh (file photo)",
   "alt_hi": "अर्शदीप सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Arshdeep_Singh_2022.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Arshdeep_Singh_2022.jpg",
+  "treated": {
+   "src": "/photos/t-india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-ova-1280.jpg",
+   "src800": "/photos/t-india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-ova-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "renshaw-puts-australia-on-top-in-durban-test",
+    "villarreal-psg-atletico-bayern-champions-league-tuesday-preview--p2"
+   ],
+   "kind": "photo",
+   "subj": "f0e0e0e7c7d3988f",
+   "credit": "Photos: Storm machine / Wikimedia Commons; Phillip Capper / Wikimedia Commons; Marc Forrest / Wikimedia Commons; Arne Müseler / Wikimedia Commons"
+  }
  },
  "winter-session-first-week-december-delimitation-womens-quota-bill": {
   "id": "o-winter-session-first-week-december-delimitation-womens-quota-bill",
@@ -52024,7 +52050,20 @@
   "licence": "GODL-India",
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg",
+  "treated": {
+   "src": "/photos/t-winter-session-first-week-december-delimitation-womens-quota-1280.jpg",
+   "src800": "/photos/t-winter-session-first-week-december-delimitation-womens-quota-640.jpg",
+   "cutout": true,
+   "with": [
+    "monsoon-session-2026-ends-with-lowest-output",
+    "election-commission",
+    "special-intensive-revision-how-to-check-your-name"
+   ],
+   "kind": "photo",
+   "subj": "383c667365677ee7",
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Fotokannan / Wikimedia Commons"
+  }
  },
  "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision": {
   "id": "r-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
@@ -52036,6 +52075,15 @@
   "licence": "CC BY 4.0",
   "alt": "COP31 President Murat Kurum, Turkey's Environment Minister, at a meeting (file photo)",
   "alt_hi": "कॉप31 के अध्यक्ष और तुर्की के पर्यावरण मंत्री मुरात कुरुम एक बैठक में (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg",
+  "treated": {
+   "src": "/photos/t-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-de-1280.jpg",
+   "src800": "/photos/t-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-de-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "dfcf8787879fff",
+   "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons"
+  }
  }
 }
