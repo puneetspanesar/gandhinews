@@ -264,7 +264,7 @@ def fill_tiles(sid, M, have, n=3):
         if state and any(st in alt for st in STATES if st not in (state, 'Delhi')) and state not in alt: return False
         if state and any(c in alt for c, st in ALIAS.items() if st != state and c != 'New Delhi') and state not in alt: return False
         if not state_ok(alt): return False
-        for rx in (r'bear|tiger|leopard|elephant|National Park|wildlife|bird', r'stadium|cricket|ground', r'coal|power station|thermal|mine\b'):
+        for rx in (r'bear|tiger|leopard|elephant|National Park|wildlife|bird', r'stadium|cricket|\bground\b', r'coal|power station|thermal|mine\b'):
             if re.search(rx, alt, re.I) and not re.search(rx, story, re.I): return False   # off-topic: a sloth bear behind a political story
         if re.search(r'-bg-\d+\.jpg$', x['src']) or re.search(r'chart|graphic|diagram|seat', alt, re.I): return False
         if abroad and re.search(INDIAN_RX, alt): return False   # Indian Parliament behind Jensen Huang or a US Senate race
