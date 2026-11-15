@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+    "id": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
     "overlay": {
       "kicker": {
-        "en": "States / Keralam",
-        "hi": "राज्य / केरलम"
+        "en": "Politics / Opposition",
+        "hi": "राजनीति / विपक्ष"
       },
       "value": {
-        "en": "CPI(M) wants a judge to probe power buy",
-        "hi": "बिजली खरीद की जांच जज से कराने की मांग"
+        "en": "'Visit villages, not abroad'",
+        "hi": "'गांव जाएं, विदेश नहीं'"
       },
       "text": {
         "en": "",
@@ -17,17 +17,17 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval"
+      "winter-session-first-week-december-delimitation-womens-quota-bill",
+      "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+      "delimitation-bill-361-votes-needed-two-thirds-claim"
     ],
     "relatedBeside": [
       "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday"
     ],
     "live": {
       "title": {
-        "en": "Keralam",
-        "hi": "केरलम"
+        "en": "Opposition",
+        "hi": "विपक्ष"
       }
     }
   },
@@ -56,6 +56,17 @@
         }
       },
       {
+        "link": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "Mann announces ₹5 lakh each for families of five killed in Tarn Taran pilgrim bus crash",
+          "hi": "तरनतारन में तीर्थ यात्रा बसों की टक्कर, मान ने पांच मृतकों के परिवारों को 5-5 लाख रुपये देने की घोषणा की"
+        }
+      },
+      {
         "link": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
         "lead": {
           "en": "Climate:",
@@ -64,17 +75,6 @@
         "text": {
           "en": "COP31 reaches its midpoint in Antalya with adaptation finance and a single political outcome still undecided",
           "hi": "अंताल्या में कॉप31 आधे पड़ाव पर: अनुकूलन वित्त और साझा राजनीतिक फैसले पर अब भी सहमति नहीं"
-        }
-      },
-      {
-        "link": "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "lead": {
-          "en": "Parliament:",
-          "hi": "संसद:"
-        },
-        "text": {
-          "en": "Winter Session likely in first week of December, with delimitation-linked women's quota Bill the government's top item",
-          "hi": "शीतकालीन सत्र दिसंबर के पहले सप्ताह में संभव, परिसीमन से जुड़ा महिला आरक्षण विधेयक सरकार की सबसे ऊपर की प्राथमिकता"
         }
       },
       {
@@ -100,17 +100,6 @@
         }
       },
       {
-        "link": "goyal-cairo-us-preferential-access-egypt-jtc",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "Goyal says US has agreed to give India lower duties than rival exporters, from Cairo",
-          "hi": "गोयल ने काहिरा से कहा, अमेरिका प्रतिस्पर्धी निर्यातकों से कम शुल्क देने पर सहमत"
-        }
-      },
-      {
         "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
         "lead": {
           "en": "Courts:",
@@ -119,6 +108,17 @@
         "text": {
           "en": "CBI court convicts 14 FCI officials and 16 millers in Punjab rice scam, 21 years after the checks",
           "hi": "पंजाब चावल घोटाले में सीबीआई अदालत ने 14 एफसीआई अधिकारियों और 16 मिलर्स को दोषी ठहराया, जांच के 21 साल बाद"
+        }
+      },
+      {
+        "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Lakshya Sen beats Koki Watanabe to win the Kumamoto Masters title",
+          "hi": "लक्ष्य सेन ने कोकी वातानाबे को हराकर जीता कुमामोतो मास्टर्स खिताब"
         }
       }
     ]
@@ -190,15 +190,15 @@
       "also": []
     },
     "list": [
+      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
       "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-      "winter-session-first-week-december-delimitation-womens-quota-bill",
       "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
       "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-      "goyal-cairo-us-preferential-access-egypt-jtc"
+      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
     ],
     "also": [
-      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
+      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
     ]
   },
   "startHere": [
@@ -372,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
         "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
       ],
-      "lead": "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
+      "lead": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
     },
     {
       "section": "economy",
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
       ]
     },
     {
@@ -401,8 +401,8 @@
       "lead": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
       "list": [
         "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
+        "odisha-five-instream-storage-projects-625-crore",
+        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
       ]
     },
     {
@@ -430,7 +430,7 @@
       "list": [
         "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
         "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "hormuz-three-tankers-mines-predator-qeshm-brent-india"
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange"
       ]
     },
     {
@@ -645,23 +645,37 @@
       ]
     },
     {
-      "at": "2026-11-15T23:16:04+05:30",
+      "at": "2026-11-15T23:52:00+05:30",
       "ids": [
-        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
+        "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+        "delimitation-bill-361-votes-needed-two-thirds-claim",
         "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
         "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
         "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
         "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
+        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+    "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+    "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+    "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+    "monsoon-session-unprorogued-record-88-days-ramesh-claim",
+    "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+    "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+    "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+  ]
 }
