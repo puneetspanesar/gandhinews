@@ -1,0 +1,19 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-15T20:05:01+05:30",
+ "end": "2026-11-15T20:45:24+05:30",
+ "summary": "Mann Tarn Taran bus crash lead, Bahrain drones, Vulcan; Suvendu held for picture",
+ "new": [
+  "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+  "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+  "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday"
+ ],
+ "held": [
+  "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures"
+ ],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia"
+}

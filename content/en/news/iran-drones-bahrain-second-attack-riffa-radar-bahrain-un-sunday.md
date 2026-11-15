@@ -65,7 +65,7 @@ The strike widens a confrontation that had seemed to be cooling. Only on Thursda
 
 ## What happened before dawn
 
-An AFP journalist in Manama heard explosions at about 4 am local time, and residents reported a second series of blasts around 6:30 am. Sirens sounded and the Interior Ministry sent two alerts within about three hours, the first near 4:30 am. It told residents to **"remain calm"** and to go to the nearest safe place. These were the first such warnings in Bahrain since September, and the first nationwide alert in months.
+A journalist in Manama heard explosions at about 4 am local time, and residents reported a second series of blasts around 6:30 am. Sirens sounded and the Interior Ministry sent two alerts within about three hours, the first near 4:30 am. It told residents to **"remain calm"** and to go to the nearest safe place. These were the first such warnings in Bahrain since September, and the first nationwide alert in months.
 
 The Guards said the drones went after a US air-defence radar at the Riffa base, which they described as a response to hostile American actions. In the same statement they declared that **"the Strait of Hormuz is closed"** and warned that any further US aggression would meet a harsher reply. The US military had not commented on Sunday's claim when the reports were filed.
 

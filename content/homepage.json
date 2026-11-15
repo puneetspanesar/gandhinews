@@ -56,17 +56,6 @@
         }
       },
       {
-        "link": "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Suvendu Adhikari hands 770 tribal families land titles in Jhargram, promises a tribal university",
-          "hi": "सुवेंदु अधिकारी ने झाड़ग्राम में 770 आदिवासियों को दिए ज़मीन के पट्टे, जनजातीय विश्वविद्यालय का वादा"
-        }
-      },
-      {
         "link": "winter-session-first-week-december-delimitation-womens-quota-bill",
         "lead": {
           "en": "Parliament:",
@@ -75,6 +64,17 @@
         "text": {
           "en": "Winter Session likely in first week of December, with delimitation-linked women's quota Bill the government's top item",
           "hi": "शीतकालीन सत्र दिसंबर के पहले सप्ताह में संभव, परिसीमन से जुड़ा महिला आरक्षण विधेयक सरकार की सबसे ऊपर की प्राथमिकता"
+        }
+      },
+      {
+        "link": "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "lead": {
+          "en": "Uttar Pradesh:",
+          "hi": "उत्तर प्रदेश:"
+        },
+        "text": {
+          "en": "Yogi launches distribution of 25 lakh free tablets to Uttar Pradesh students from Lucknow",
+          "hi": "योगी ने लखनऊ से उत्तर प्रदेश के विद्यार्थियों को 25 लाख मुफ्त टैबलेट बांटने की शुरुआत की"
         }
       },
       {
@@ -100,17 +100,6 @@
         }
       },
       {
-        "link": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "lead": {
-          "en": "Delhi smog:",
-          "hi": "दिल्ली स्मॉग:"
-        },
-        "text": {
-          "en": "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold",
-          "hi": "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"
-        }
-      },
-      {
         "link": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
         "lead": {
           "en": "Middle East:",
@@ -119,6 +108,17 @@
         "text": {
           "en": "Iran says three more tankers hit mines in Hormuz and it shot down a second US drone in two days",
           "hi": "ईरान का दावा: होर्मुज में तीन और टैंकर बारूदी सुरंग से टकराए, दो दिन में दूसरा अमेरिकी ड्रोन गिराया"
+        }
+      },
+      {
+        "link": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Sooryavanshi, 15, scores 18 on captaincy debut as Bihar lose to Saurashtra on SMAT's opening day",
+          "hi": "सूर्यवंशी ने कप्तानी के पहले मैच में बनाए 18 रन, SMAT के पहले दिन सौराष्ट्र से हारा बिहार"
         }
       }
     ]
@@ -190,15 +190,15 @@
       "also": []
     },
     "list": [
-      "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures",
       "winter-session-first-week-december-delimitation-womens-quota-bill",
+      "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
       "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
       "goyal-cairo-us-preferential-access-egypt-jtc",
-      "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
+      "hormuz-three-tankers-mines-predator-qeshm-brent-india"
     ],
     "also": [
-      "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
     ]
   },
   "startHere": [
@@ -372,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
         "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
       ],
-      "lead": "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures"
+      "lead": "winter-session-first-week-december-delimitation-womens-quota-bill"
     },
     {
       "section": "economy",
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
       ]
     },
     {
@@ -642,7 +642,7 @@
       ]
     },
     {
-      "at": "2026-11-15T20:26:40+05:30",
+      "at": "2026-11-15T20:42:16+05:30",
       "ids": [
         "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
         "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
@@ -650,15 +650,21 @@
         "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
         "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
         "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-        "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures",
         "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
         "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "hormuz-three-tankers-mines-predator-qeshm-brent-india"
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
+  ]
 }
