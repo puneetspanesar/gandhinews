@@ -74,7 +74,7 @@ verification:
   notes:
     - "Written 12:10 to 12:30 pm IST November 15. The PMO/PIB text of the address could not be opened; speech content rests on two independent published reports (Punjab Kesari English, Telangana Today, the latter stamped 11:50 am IST) that agree on the figures, the bamboo remarks and the three beneficiaries. The quoted words are as those reports give them."
     - "The reports differ slightly on the bamboo remark: one attributes the criticism to 'previous governments', the other quotes 'some individuals in the government'; the story uses the first wording only as a paraphrase and the quoted phrase carefully. No named person or party was attacked in either report."
-    - "Bamboo law background is from the PIB release of November 23, 2017 and the PRS bill summary. The PRS summary says the Bill was introduced on December 18, 2017; the passage date is not stated in what was read and is not given."
+    - "Bamboo law background is from the PIB release of November 23, 2017, and the PRS bill summary. The PRS summary says the Bill was introduced on December 18, 2017; the passage date is not stated in what was read and is not given."
     - "Not given in any report: who was physically present at Gadchiroli. Not written."
     - "Picture: people-library photo of Modi, file photo. No event photo found."
 ---
@@ -89,9 +89,6 @@ The 173 inaugurations include **38 Eklavya Model Residential Schools** for triba
 
 The 73 foundation stones are for **19 new Eklavya schools**, 12 Tribal Multi-purpose Marketing Centres and 42 other projects under the two schemes. The projects span education, health, livelihoods and community infrastructure.
 
-```photo
-{"n":1,"subject":"Birsa Munda","caption":"Birsa Munda, the tribal freedom fighter whose 151st birth anniversary Janjatiya Gaurav Diwas marks.","alt":"Statue or portrait of Birsa Munda"}
-```
 
 ## The bamboo remark
 

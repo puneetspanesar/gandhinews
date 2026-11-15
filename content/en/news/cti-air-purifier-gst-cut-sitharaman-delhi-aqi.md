@@ -2,7 +2,7 @@
 id: cti-air-purifier-gst-cut-sitharaman-delhi-aqi
 lang: en
 type: news
-section: business
+section: economy
 format_label: "Business / Delhi smog"
 topics: []
 title: "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold"
@@ -33,7 +33,7 @@ infographic:
 related: [delhi-aqi-402-severe-iit-delhi-488-friday, delhi-grap-stage-three-aqi-382-caqm, grap-explained-delhi-air-stages-what-is-banned, gst-explained-slabs-council-revenue-sharing]
 seo:
   title: "Delhi traders seek 5% GST on air purifiers"
-  description: "The Chamber of Trade and Industry asked Finance Minister Nirmala Sitharaman on November 15, 2026 to cut GST on air purifiers from 18% to 5% as Delhi's AQI stays very poor."
+  description: "The Chamber of Trade and Industry asked Finance Minister Nirmala Sitharaman on November 15, 2026, to cut GST on air purifiers from 18% to 5% as Delhi's AQI stays very poor."
 sources:
   - title: "CTI writes to FM Sitharaman, seeks GST cut on air purifiers amid demand surge in Delhi"
     publisher: "IANS via The Hans India"

@@ -5,7 +5,7 @@ translation_of: akvan-depression-forms-severe-cyclone-nov-17-imd-sunday
 type: news
 section: states
 format_label: "राज्य / मौसम"
-topics: [states]
+topics: []
 title: "बंगाल की खाड़ी का तंत्र अवदाब बना, मौसम विभाग को 17 नवंबर तक भीषण चक्रवात अकवान का अनुमान"
 standfirst: "मौसम विभाग के रविवार सुबह 5:30 बजे के बुलेटिन में अवदाब विशाखापत्तनम से करीब 1,040 किमी दक्षिण-दक्षिण-पूर्व में है। भीषण चरण का अनुमान एक दिन पहले कर दिया गया है। तट अभी तय नहीं है।"
 published: 2026-11-15T12:09:16+05:30

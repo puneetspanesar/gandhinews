@@ -1,0 +1,35 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-15T12:06:12+05:30",
+ "end": "2026-11-15T12:52:18+05:30",
+ "summary": "Akvan depression lead, Modi Gadchiroli, air purifier GST, Mekedatu editorial and fact check",
+ "new": [
+  "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+  "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+  "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+  "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+  "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+   "why": "Main picture is an extreme close-up of Modi's face with the top of the head and hair cut off at the frame edge and the ear clipped; it reads as a badly cropped, zoomed-in face (rule 3). The 'Birsa Munda' in-story photo was also not found.",
+   "done": "Main picture swapped to the full head-and-shoulders library portrait of Modi (file photo, checked by eye); Birsa Munda in-story photo block deleted from both files"
+  },
+  {
+   "id": "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+   "why": "Main picture caption calls D. K. Shivakumar 'Karnataka Deputy Chief Minister', but the editorial itself and the fact check say he is Karnataka Chief Minister (the fact check says he spoke to Modi as Chief Minister at Mysuru). The caption contradicts the text.",
+   "done": "Caption changed to Karnataka Chief Minister D. K. Shivakumar in English and Hindi, matching the texts"
+  },
+  {
+   "id": "homepage",
+   "why": "Balance fails in the top headlines. (1) Mekedatu/Shivakumar fills four slots: the Editorial card, 'Stalin asks Vijay for all-party meeting on Mekedatu', 'Shivakumar writes to Modi: Ninth Schedule', plus the Explained card on the Ninth Schedule; a running story gets one slot, keep one (the editorial or the Stalin item) and remove the rest from the top block. (2) Two business stories in the top headlines: 'Delhi traders ask Sitharaman to cut GST on air purifiers' and 'Patanjali Foods profit falls 19%'; keep one, replace the other with a non-business story. (3) Two Iran stories in the middle block ('Iran says three more tankers hit mines' and 'Iran's Guards say they destroyed a US radar'); keep one. (4) Two Rahul Gandhi stories in the top block (Telangana gig workers law, and Bharat Summit 'get rid of PM Modi'); keep one. (5) Explained row, fourth card ('Kaziranga highway crash explained') is a text infographic while the other cards have pictures; it is a crash event and a named place, so replace the infographic with a photo of the Golaghat/Kaziranga highway or a file photo of a similar bus crash, unless the run's finder truly found nothing. Lead (Akvan depression with a labelled Visakhapatnam Hudhud file photo) is right and matches frontpages.txt; no grey boxes or clipped text seen.",
+   "done": "refresh_home --drop: extra Mekedatu items (Stalin, Shivakumar letter, Ninth Schedule explainer), Patanjali, Iran Sirik radar, Telangana gig editorial, Rahul Bharat Summit, Kaziranga explainer; earlier drops of extra Akvan, Birsa previews, Sembcorp, Paytm, Mobikwik, Nehru kept"
+  }
+ ],
+ "breaches": [],
+ "lead": "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
+}

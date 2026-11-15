@@ -51703,30 +51703,51 @@
   "nophoto": "no solo free photo of Vaibhav Sooryavanshi; library none, quick_photo none, finder h1510 only shots with PM Modi (editor rejected)"
  },
  "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address": {
-  "id": "o-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-  "src": "/photos/o-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address-1280.jpg",
-  "src800": "/photos/o-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address-640.jpg",
+  "id": "r-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+  "src": "/photos/r-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address-1280.jpg",
+  "src800": "/photos/r-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 830,
-  "credit": "Photo: Mayur Bhatt, Ahmedabad / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_0160_(cropped).JPG"
+  "height": 960,
+  "credit": "Photo: Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projec-1280.jpg",
+   "src800": "/photos/t-modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projec-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
  },
  "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval": {
-  "id": "o-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-  "src": "/photos/o-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval-1280.jpg",
-  "src800": "/photos/o-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval-640.jpg",
+  "id": "v-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-ap",
+  "src": "/photos/v-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-ap-1280.jpg",
+  "src800": "/photos/v-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-ap-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1200,
-  "credit": "Photo: Dani Charles / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Vijay (file photo)",
-  "alt_hi": "विजय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_the_Nadigar_Sangam_Protest.jpg"
+  "height": 800,
+  "credit": "Photos: News World India / Wikimedia Commons; Dani Charles / Wikimedia Commons",
+  "licence": "CC BY 3.0 and CC BY-SA 3.0",
+  "alt": "Karnataka Chief Minister D. K. Shivakumar and Tamil Nadu Chief Minister Vijay (file photos)",
+  "alt_hi": "कर्नाटक के मुख्यमंत्री डी. के. शिवकुमार और तमिलनाडु के मुख्यमंत्री विजय (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-ap-1280.jpg",
+   "src800": "/photos/t-mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-ap-640.jpg",
+   "cutout": true,
+   "with": [
+    "golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+    "supreme-court-declines-plea-aiadmk-mlas-disqualification"
+   ],
+   "kind": "photo",
+   "subj": "f0040c0e9af8f8f0",
+   "credit": "Photos: News World India / Wikimedia Commons; Dani Charles / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Vijayingarsal / Wikimedia Commons; Jan Van Ryne (1712-60); Publisher: Robert Sayer / Wikimedia Commons"
+  }
  },
  "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval": {
   "id": "i-shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
@@ -51740,7 +51761,7 @@
   "alt": "Gandhi News graphic: Mekedatu: court said premature, not approved",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मेकेदातु: अदालत ने कहा समय से पहले, मंजूरी नहीं",
   "page": null,
-  "ihash": "002027a3fb59",
+  "ihash": "ccacc9761355",
   "byLang": {
    "hi": {
     "src": "/photos/i-shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval-hi-3x2-1280.jpg",
@@ -51769,7 +51790,7 @@
     "src800": "/photos/i-shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval-hi-640.jpg"
    }
   },
-  "nophoto": "48-hour rule: every library portrait of D K Shivakumar was used within 48 hours; quick_photo found none"
+  "nophoto": "48-hour rule: every D. K. Shivakumar library portrait used in the last 48 hours; library, quick_photo"
  },
  "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday": {
   "id": "o-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
@@ -51782,7 +51803,20 @@
   "licence": "GODL-India",
   "alt": "Rough sea at Visakhapatnam during Cyclone Hudhud, 2014 (file photo)",
   "alt_hi": "2014 में चक्रवात हुदहुद के दौरान विशाखापत्तनम में उफनता समुद्र (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(2).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(2).jpg",
+  "treated": {
+   "src": "/photos/t-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday-1280.jpg",
+   "src800": "/photos/t-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday-640.jpg",
+   "cutout": false,
+   "with": [
+    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+    "majhi-appointment-letters-2067-tribal-language-teachers--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffffffff21000000",
+   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
  },
  "cti-air-purifier-gst-cut-sitharaman-delhi-aqi": {
   "id": "o-cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
@@ -51795,6 +51829,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A New Delhi street in thick smog (file photo)",
   "alt_hi": "घने स्मॉग में डूबी नई दिल्ली की एक सड़क (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_Buddhist_Pilgrim_Rest_House_hardly_visible_due_to_Smog_at_New_Delhi_on_31st_Dec_2017_DSCN8824_1.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_Buddhist_Pilgrim_Rest_House_hardly_visible_due_to_Smog_at_New_Delhi_on_31st_Dec_2017_DSCN8824_1.jpg",
+  "treated": {
+   "src": "/photos/t-cti-air-purifier-gst-cut-sitharaman-delhi-aqi-1280.jpg",
+   "src800": "/photos/t-cti-air-purifier-gst-cut-sitharaman-delhi-aqi-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-402-severe-iit-delhi-488-friday",
+    "delhi-grap-stage-three-aqi-382-caqm",
+    "rbi-right-to-move-fiscal-side-must-hold"
+   ],
+   "kind": "photo",
+   "subj": "f0f8fcfcfe9e0000",
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  }
 }

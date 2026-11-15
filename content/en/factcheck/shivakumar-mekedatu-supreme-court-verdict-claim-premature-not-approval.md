@@ -6,7 +6,7 @@ section: states
 format_label: "Fact check / Cauvery"
 topics: [states]
 title: "Shivakumar says the Supreme Court has ruled that Mekedatu must be built: the court called Tamil Nadu's challenge premature and approved nothing"
-standfirst: "Karnataka's Chief Minister told Modi in Mysuru on November 13 that a clear Supreme Court verdict means no one can stop the dam. The order reported from November 13, 2025 dismissed Tamil Nadu's plea as premature and left approval to the Cauvery authorities."
+standfirst: "Karnataka's Chief Minister told Modi in Mysuru on November 13 that a clear Supreme Court verdict means no one can stop the dam. The order reported from November 13, 2025, dismissed Tamil Nadu's plea as premature and left approval to the Cauvery authorities."
 published: 2026-11-15T12:18:03+05:30
 factcheck:
   claim: "\"The Supreme Court has delivered a clear verdict to all of us that Mekedatu has to be built in Karnataka, and no one can stop it.\""
@@ -31,7 +31,7 @@ infographic:
     - {icon: gavel, value: "Nov 13, 2025", label: "Supreme Court calls Tamil Nadu's challenge premature"}
     - {icon: drop, value: "4.75 tmcft", label: "water the reservoir would use, mainly for Bengaluru's drinking supply"}
     - {icon: lightning, value: "400 MW", label: "power the project is meant to generate"}
-  source: "Supreme Court order of November 13, 2025 as reported; Central Water Commission direction on the detailed project report"
+  source: "Supreme Court order of November 13, 2025, as reported; Central Water Commission direction on the detailed project report"
 related: [mekedatu-stalin-all-party-meeting-vijay-tamil-nadu-dam, shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent]
 seo:
   title: "Mekedatu: did the Supreme Court say the dam must be built?"
@@ -94,4 +94,4 @@ Mekedatu has been argued in terms of "the court" for years, and a premature-plea
 
 ## What would settle it
 
-The text of the **November 13, 2025 order**, which should be placed beside the claim; Karnataka's revised project report and its compensatory land proposal; and any listing of Mekedatu on the agenda of the **Cauvery Water Management Authority**. Until the authority and its committee have approved a report, the supportable statement is that the court allowed the process to start and that the dam has not been approved.
+The text of the **November 13, 2025, order**, which should be placed beside the claim; Karnataka's revised project report and its compensatory land proposal; and any listing of Mekedatu on the agenda of the **Cauvery Water Management Authority**. Until the authority and its committee have approved a report, the supportable statement is that the court allowed the process to start and that the dam has not been approved.

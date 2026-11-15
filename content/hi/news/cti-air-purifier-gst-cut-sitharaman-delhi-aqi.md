@@ -3,7 +3,7 @@ id: cti-air-purifier-gst-cut-sitharaman-delhi-aqi
 lang: hi
 translation_of: cti-air-purifier-gst-cut-sitharaman-delhi-aqi
 type: news
-section: business
+section: economy
 format_label: "कारोबार / दिल्ली स्मॉग"
 topics: []
 title: "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"

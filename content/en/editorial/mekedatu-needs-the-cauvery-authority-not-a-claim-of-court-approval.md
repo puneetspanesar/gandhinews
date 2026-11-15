@@ -44,7 +44,7 @@ verification:
   status: approved
   notes:
     - "Editorial view of the desk. Statements by Shivakumar, Stalin, the Tamil Nadu Law Minister and Manickam Tagore are from the desk's November 14 report."
-    - "The Supreme Court order of November 13, 2025 was not opened; its description (premature, CWC direction, CWMA and CWRC prior approval, Union's February 2025 statement) is from LawBeat's report. Project figures (4.75 tmcft, 400 MW, more than 5,000 hectares, Cauvery Wildlife Sanctuary) are from ThePrint, November 21, 2025."
+    - "The Supreme Court order of November 13, 2025, was not opened; its description (premature, CWC direction, CWMA and CWRC prior approval, Union's February 2025 statement) is from LawBeat's report. Project figures (4.75 tmcft, 400 MW, more than 5,000 hectares, Cauvery Wildlife Sanctuary) are from ThePrint, November 21, 2025."
     - "Whether anything has happened before the Cauvery authority since November 2025 was not checked in this run."
     - "Recommendations are the desk's own."
 ---

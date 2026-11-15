@@ -4,7 +4,7 @@ lang: en
 type: news
 section: states
 format_label: "States / Weather"
-topics: [states]
+topics: []
 title: "Bay of Bengal system becomes a depression; IMD now expects a severe cyclone Akvan by November 17"
 standfirst: "The IMD's 5:30 am bulletin on Sunday placed the depression about 1,040 km south-southeast of Visakhapatnam and brought the severe stage forward by a day. No landfall point has been named."
 published: 2026-11-15T12:09:16+05:30
