@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+    "id": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
     "overlay": {
       "kicker": {
-        "en": "Politics / Electoral rolls",
-        "hi": "राजनीति / मतदाता सूची"
+        "en": "States / Keralam",
+        "hi": "राज्य / केरलम"
       },
       "value": {
-        "en": "Excluded voters can return, EC tells SC",
-        "hi": "छूटे मतदाता लौट सकेंगे: आयोग"
+        "en": "CPI(M) wants a judge to probe power buy",
+        "hi": "बिजली खरीद की जांच जज से कराने की मांग"
       },
       "text": {
         "en": "",
@@ -17,17 +17,17 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-      "obc-creamy-layer-explained-parents-salary-supreme-court",
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account"
+      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval"
     ],
     "relatedBeside": [
       "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday"
     ],
     "live": {
       "title": {
-        "en": "Electoral rolls",
-        "hi": "मतदाता सूची"
+        "en": "Keralam",
+        "hi": "केरलम"
       }
     }
   },
@@ -111,14 +111,14 @@
         }
       },
       {
-        "link": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
         "lead": {
-          "en": "Delhi smog:",
-          "hi": "दिल्ली स्मॉग:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold",
-          "hi": "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"
+          "en": "CBI court convicts 14 FCI officials and 16 millers in Punjab rice scam, 21 years after the checks",
+          "hi": "पंजाब चावल घोटाले में सीबीआई अदालत ने 14 एफसीआई अधिकारियों और 16 मिलर्स को दोषी ठहराया, जांच के 21 साल बाद"
         }
       }
     ]
@@ -197,13 +197,13 @@
       "goyal-cairo-us-preferential-access-egypt-jtc"
     ],
     "also": [
-      "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
     ]
   },
   "startHere": [
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
     "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
     "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
   ],
@@ -392,8 +392,8 @@
       },
       "list": [
         "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
       ]
     },
     {
@@ -473,22 +473,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
-        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
+        "en": "Piyush Goyal's visit to Egypt ends",
+        "hi": "पीयूष गोयल की मिस्र यात्रा पूरी"
       },
-      "link": "modi-asean-india-summit-manila-november-16-18"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
-      },
-      "text": {
-        "en": "Rahul Gandhi's fireside chat at Columbia University",
-        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
-      },
-      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+      "link": "goyal-cairo-us-preferential-access-egypt-jtc"
     },
     {
       "icon": "calendar-blank",
@@ -505,14 +493,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
       },
       "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
+        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
+        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
       },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
+      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
     },
     {
       "icon": "calendar-blank",
@@ -525,23 +513,21 @@
         "hi": "भाजपा की समरस्ता संकल्प यात्रा को नितिन नबीन जालंधर से हरी झंडी दिखाएंगे"
       },
       "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 18",
+        "hi": "18 नवंबर"
+      },
+      "text": {
+        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
+        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
+      },
+      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T13:14:16+05:30",
-      "ids": [
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
-      ]
-    },
     {
       "at": "2026-11-15T14:35:46+05:30",
       "ids": [
@@ -657,20 +643,25 @@
         "goyal-cairo-us-preferential-access-egypt-jtc",
         "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
       ]
+    },
+    {
+      "at": "2026-11-15T23:14:09+05:30",
+      "ids": [
+        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+        "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-    "akvan-track-uncertain-andhra-odisha-imd-saturday",
-    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-    "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
-    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
-    "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
-    "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
-  ]
+  "drop": []
 }
