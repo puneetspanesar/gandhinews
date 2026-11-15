@@ -1,0 +1,20 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-15T06:04:24+05:30",
+ "end": "2026-11-15T06:58:43+05:30",
+ "summary": "Second publish: collages for new stories, groundwater tile filter fix",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "odisha-five-instream-storage-projects-625-crore",
+   "kind": "picture",
+   "why": "Main picture is an extreme tight close-up of Mohan Charan Majhi on a flat blue passport-style background, with the top of his head and hair clipped at the frame edge and the shoulders cut off. It reads as a badly cropped, machine-made portrait, and shows nothing of the water or river projects the story is about.",
+   "fix": "Re-run the library, quick_photo.py and the finder for a properly framed photo of Chief Minister Mohan Charan Majhi (full head with headroom, ideally at an official event or a water-resources or river site), or an actual in-stream storage structure or river-channel check dam in Odisha. Do not use the tight blue-background crop."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange"
+}

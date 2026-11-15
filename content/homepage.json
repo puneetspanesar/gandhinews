@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+    "id": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "World / Russia-Ukraine",
+        "hi": "दुनिया / रूस-यूक्रेन"
       },
       "value": {
-        "en": "Kushner: now a Russia-Europe track",
-        "hi": "कुशनर: अब रूस-यूरोप संवाद की राह"
+        "en": "Biggest prisoner swap of the war ahead",
+        "hi": "युद्ध का सबसे बड़ा कैदी आदान-प्रदान"
       },
       "text": {
         "en": "",
@@ -18,17 +18,39 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
+      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Russia-Ukraine",
+        "hi": "रूस-यूक्रेन"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Pant joins India's Test camp in Wellington, Brar added and Kuldeep Yadav released",
+          "hi": "पंत वेलिंगटन में भारतीय टेस्ट टीम से जुड़े, बराड़ शामिल और कुलदीप यादव रिलीज़"
+        }
+      },
+      {
+        "link": "odisha-five-instream-storage-projects-625-crore",
+        "lead": {
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
+        },
+        "text": {
+          "en": "Odisha clears five in-stream storage projects worth ₹625.47 crore for 74 villages",
+          "hi": "ओडिशा ने 74 गांवों के लिए ₹625.47 करोड़ की पांच नदी जल-भंडारण परियोजनाओं को मंजूरी दी"
+        }
+      },
       {
         "link": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
         "lead": {
@@ -85,17 +107,6 @@
         }
       },
       {
-        "link": "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Punjab launches 'Punjab Da Crorepati' quiz for 15 to 30-year-olds, ₹1 crore for the winner and cash for 10,000 players",
-          "hi": "पंजाब में युवाओं के लिए 'पंजाब दा करोड़पति' क्विज, विजेता को 1 करोड़ रुपये"
-        }
-      },
-      {
         "link": "microsoft-365-outage-ends-india-indigo-akasa-air-india",
         "lead": {
           "en": "Technology:",
@@ -104,17 +115,6 @@
         "text": {
           "en": "Microsoft says global Outlook and Teams outage is over after more than a day; IndiGo, Akasa Air and Indian IT firms were hit",
           "hi": "माइक्रोसॉफ्ट का आउटलुक-टीम्स आउटेज एक दिन बाद ख़त्म; इंडिगो, आकासा पर भी असर"
-        }
-      },
-      {
-        "link": "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "EU says some countries are trying to undermine the IPCC as a fight over the next climate science report spills into COP31",
-          "hi": "यूरोपीय संघ का आरोप, कुछ देश आईपीसीसी को कमज़ोर करना चाहते हैं; अगली जलवायु विज्ञान रिपोर्ट की तारीख़ पर विवाद COP31 तक पहुँचा"
         }
       }
     ]
@@ -182,26 +182,26 @@
   },
   "topStories": {
     "big": {
-      "id": "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+      "id": "odisha-five-instream-storage-projects-625-crore",
       "also": []
     },
     "list": [
+      "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+      "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
       "nasa-opens-astronaut-applications-december-3-deadline",
       "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-      "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-      "microsoft-365-outage-ends-india-indigo-akasa-air-india"
+      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
     ],
     "also": [
-      "ipcc-ar7-timeline-dispute-cop31-eu-acconcia",
-      "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "microsoft-365-outage-ends-india-indigo-akasa-air-india",
+      "rahul-gandhi-hyderabad-gig-workers-act-insurance"
     ]
   },
   "startHere": [
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
-    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
+    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
+    "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+    "rbi-inflation-target-band-explained-6-per-cent-ceiling-mpc"
   ],
   "trackers": [
     {
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
-      "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
       "mangaluru-lpg-cavern-largest-underground-80000-tonnes-claim",
-      "rahul-gandhi-bjp-assets-elevenfold-decade-claim"
+      "rahul-gandhi-bjp-assets-elevenfold-decade-claim",
+      "goyal-record-october-exports-90-billion-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
-    "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates",
-    "manipur-highway-ambush-ukhrul-needs-nia-decision-and-road-security",
     "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
     "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
-    "delimitation-special-session-needs-the-bill-text-and-21-days-notice"
+    "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+    "cag-discom-audit-must-count-state-bailouts-and-publish-the-consumer-survey",
+    "tb-estimates-may-be-revised-publish-the-prevalence-survey-before-the-next-claim"
   ],
   "sections": [
     {
@@ -394,11 +394,11 @@
     },
     {
       "section": "states",
-      "lead": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
+      "lead": "odisha-five-instream-storage-projects-625-crore",
       "list": [
+        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
         "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30"
+        "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
       ]
     },
     {
@@ -422,7 +422,7 @@
   "desks": [
     {
       "section": "world",
-      "lead": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+      "lead": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
       "list": [
         "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
         "microsoft-365-outage-ends-india-indigo-akasa-air-india",
@@ -440,12 +440,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+      "lead": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
       "list": [
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
         "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday",
-        "national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan",
-        "srikanth-watanabe-kumamoto-masters-quarter-final-exit-after-naraoka-win"
+        "u19-asia-cup-final-india-pakistan-preview-november-14"
       ]
     }
   ],
@@ -641,30 +641,28 @@
       ]
     },
     {
-      "at": "2026-11-15T07:31:28+05:30",
+      "at": "2026-11-15T06:37:24+05:30",
       "ids": [
-        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "odisha-five-instream-storage-projects-625-crore",
         "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
         "nasa-opens-astronaut-applications-december-3-deadline",
         "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
         "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-        "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
-        "microsoft-365-outage-ends-india-indigo-akasa-air-india",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-    "u19-asia-cup-final-india-pakistan-preview-november-14",
-    "russia-ukraine-prisoner-swaps-explained-abu-dhabi-how-exchanges-work",
+    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
     "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
     "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
     "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
     "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-    "india-october-exports-record-iitf-goyal-1-trillion-target",
-    "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+    "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
+    "india-october-exports-record-iitf-goyal-1-trillion-target"
   ]
 }

@@ -25767,7 +25767,8 @@
   "licence": "CC BY-SA 3.0 de",
   "alt": "Aerial view of Anfield stadium in Liverpool (file photo)",
   "alt_hi": "लिवरपूल के एनफील्ड स्टेडियम का हवाई दृश्य (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "stadium unrelated to most stories it was tiled behind (hourly-06)"
  },
  "markets-week-ahead-us-midterms-itc-sbi-results-november-2": {
   "id": "v-markets-week-ahead-us-midterms-itc-sbi-results-november-2",
@@ -27446,7 +27447,8 @@
     "src": "/photos/c-navdeep-saini-two-services-112-4-delhi-ranji-palam-hi-1280.jpg",
     "src800": "/photos/c-navdeep-saini-two-services-112-4-delhi-ranji-palam-hi-640.jpg"
    }
-  }
+  },
+  "notile": "stadium unrelated to most stories it was tiled behind (hourly-06)"
  },
  "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet": {
   "id": "v-supreme-court-closes-ram-mandir-donation-theft-pleas-charges",
@@ -51122,6 +51124,95 @@
    }
   },
   "nophoto": "no free photo of Y Khemchand Singh or the New Haven ambush; library, quick_photo, finder h1500 (only calm Ukhrul town views and maps)"
+ },
+ "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange": {
+  "id": "o-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+  "src": "/photos/o-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange-1280.jpg",
+  "src800": "/photos/o-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1252,
+  "credit": "Photo: President Of Ukraine from Україна / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Volodymyr Zelenskyy (file photo)",
+  "alt_hi": "वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Easter_Greeting_by_the_President_of_Ukraine_Volodymyr_Zelenskyy_on_20_April_2025_in_Ukraine_-_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner--1280.jpg",
+   "src800": "/photos/t-zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner--640.jpg",
+   "cutout": true,
+   "with": [
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+    "iom-warns-millions-ukrainians-displacement-winter",
+    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+   ],
+   "kind": "photo",
+   "subj": "7fe0eeeee6c0c0c0",
+   "credit": "Photos: President Of Ukraine from Україна / Wikimedia Commons; Shyam peelery / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons; Rotafinus / Wikimedia Commons"
+  }
+ },
+ "odisha-five-instream-storage-projects-625-crore": {
+  "id": "o-odisha-five-instream-storage-projects-625-crore",
+  "src": "/photos/o-odisha-five-instream-storage-projects-625-crore-1280.jpg",
+  "src800": "/photos/o-odisha-five-instream-storage-projects-625-crore-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1200,
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Odisha Chief Minister Mohan Charan Majhi speaking at Keonjhar (file photo)",
+  "alt_hi": "ओडिशा के मुख्यमंत्री मोहन चरण माझी क्योंझर में बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_at_Keonjhar_in_June_2024.jpg",
+  "treated": {
+   "src": "/photos/t-odisha-five-instream-storage-projects-625-crore-1280.jpg",
+   "src800": "/photos/t-odisha-five-instream-storage-projects-625-crore-640.jpg",
+   "cutout": true,
+   "with": [
+    "majhi-appointment-letters-2067-tribal-language-teachers--p2",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2"
+   ],
+   "kind": "photo",
+   "subj": "6060723333d3f3e",
+   "credit": "Photos: Government of Odisha / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
+  }
+ },
+ "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added": {
+  "id": "o-india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+  "src": "/photos/o-india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added-1280.jpg",
+  "src800": "/photos/o-india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 657,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rishabh Pant (file photo)",
+  "alt_hi": "ऋषभ पंत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rishabh_Pant_in_PMO_New_Delhi.jpg",
+  "treated": {
+   "src": "/photos/t-india-test-squad-new-zealand-pant-joins-kuldeep-released-bra-1280.jpg",
+   "src800": "/photos/t-india-test-squad-new-zealand-pant-joins-kuldeep-released-bra-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "india-women-zimbabwe-second-odi-vadodara-rawal-preview",
+    "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview"
+   ],
+   "kind": "portrait",
+   "subj": "c7c3e3e3e3e0c0c0",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons, GODL-India; Phillip Capper / Wikimedia Commons; [2] / Wikimedia Commons; Dibyajeet Dash / Wikimedia Commons"
+  }
+ },
+ "zakir-naik-irf-uapa-ban-extended-five-years": {
+  "id": "r-zakir-naik-irf-uapa-ban-extended-five-years",
+  "src": "/photos/r-zakir-naik-irf-uapa-ban-extended-five-years-1280.jpg",
+  "src800": "/photos/r-zakir-naik-irf-uapa-ban-extended-five-years-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah speaking (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg"
  },
  "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim": {
   "id": "o-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
