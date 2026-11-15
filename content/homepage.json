@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [
       "winter-session-first-week-december-delimitation-womens-quota-bill",
-      "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-      "delimitation-bill-361-votes-needed-two-thirds-claim"
+      "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
     ],
     "relatedBeside": [
-      "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday"
+      "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
     ],
     "live": {
       "title": {
@@ -34,6 +34,17 @@
   "briefing": {
     "items": [
       {
+        "link": "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+        "lead": {
+          "en": "Electoral rolls:",
+          "hi": "मतदाता सूची:"
+        },
+        "text": {
+          "en": "EC tells Supreme Court excluded SIR voters can be restored with same EPIC numbers, no Form 8 for movers within a state",
+          "hi": "चुनाव आयोग ने सुप्रीम कोर्ट से कहा: एसआईआर में छूटे मतदाताओं को वही ईपीआईसी नंबर मिलेगा, राज्य के भीतर बसने वालों को फॉर्म 8 नहीं"
+        }
+      },
+      {
         "link": "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
         "lead": {
           "en": "Middle East:",
@@ -42,17 +53,6 @@
         "text": {
           "en": "Iran fires six drones at a US radar in Bahrain in a second attack in three days; Manama asks the UN Security Council to act",
           "hi": "ईरान ने बहरीन में अमेरिकी रडार पर छह ड्रोन दागे, तीन दिन में दूसरा हमला; मनामा ने सुरक्षा परिषद से कार्रवाई मांगी"
-        }
-      },
-      {
-        "link": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "Vulcan rocket returns to flight tonight with 40 Amazon Leo satellites after two delays",
-          "hi": "दो बार टलने के बाद वल्कन रॉकेट आज रात 40 अमेज़न लियो उपग्रहों के साथ उड़ान पर लौटेगा"
         }
       },
       {
@@ -78,47 +78,47 @@
         }
       },
       {
-        "link": "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "link": "goyal-cairo-us-preferential-access-egypt-jtc",
         "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
+          "en": "Trade:",
+          "hi": "व्यापार:"
         },
         "text": {
-          "en": "Yogi launches distribution of 25 lakh free tablets to Uttar Pradesh students from Lucknow",
-          "hi": "योगी ने लखनऊ से उत्तर प्रदेश के विद्यार्थियों को 25 लाख मुफ्त टैबलेट बांटने की शुरुआत की"
+          "en": "Goyal says US has agreed to give India lower duties than rival exporters, from Cairo",
+          "hi": "गोयल ने काहिरा से कहा, अमेरिका प्रतिस्पर्धी निर्यातकों से कम शुल्क देने पर सहमत"
         }
       },
       {
-        "link": "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+        "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Keralam:",
+          "hi": "केरलम:"
         },
         "text": {
-          "en": "Arshdeep's 3 for 30 helps India defend 209 and win the New Zealand ODI series 3-1",
-          "hi": "अर्शदीप के 3 विकेट पर 30 रन, भारत ने 209 बचाकर न्यूज़ीलैंड से वनडे सीरीज़ 3-1 से जीती"
+          "en": "CPI(M) demands judicial probe into Keralam's 200 MW power purchase, says CM Satheesan was involved",
+          "hi": "केरलम में 200 मेगावाट बिजली खरीद की न्यायिक जांच मांगी, सीपीआई(एम) का आरोप, मुख्यमंत्री सतीशन शामिल"
         }
       },
       {
-        "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+        "link": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Delhi smog:",
+          "hi": "दिल्ली स्मॉग:"
         },
         "text": {
-          "en": "CBI court convicts 14 FCI officials and 16 millers in Punjab rice scam, 21 years after the checks",
-          "hi": "पंजाब चावल घोटाले में सीबीआई अदालत ने 14 एफसीआई अधिकारियों और 16 मिलर्स को दोषी ठहराया, जांच के 21 साल बाद"
+          "en": "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold",
+          "hi": "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"
         }
       },
       {
-        "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+        "link": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
         "lead": {
-          "en": "Badminton:",
-          "hi": "बैडमिंटन:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Lakshya Sen beats Koki Watanabe to win the Kumamoto Masters title",
-          "hi": "लक्ष्य सेन ने कोकी वातानाबे को हराकर जीता कुमामोतो मास्टर्स खिताब"
+          "en": "Modi opens 173 tribal projects on Birsa Munda's 151st anniversary and says tribals now have full rights over bamboo",
+          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी ने 173 जनजातीय परियोजनाएं खोलीं, कहा: बांस पर अब जनजातियों का पूरा अधिकार"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+      "id": "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
       "also": []
     },
     "list": [
       "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
       "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-      "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-      "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
+      "goyal-cairo-us-preferential-access-egypt-jtc",
+      "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+      "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
     ],
     "also": [
-      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+      "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
     ]
   },
   "startHere": [
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
       ]
     },
     {
@@ -401,8 +401,8 @@
       "lead": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
       "list": [
         "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-        "odisha-five-instream-storage-projects-625-crore",
-        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
       ]
     },
     {
@@ -430,16 +430,16 @@
       "list": [
         "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
         "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange"
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india"
       ]
     },
     {
       "section": "science",
-      "lead": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+      "lead": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
       "list": [
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
         "nasa-opens-astronaut-applications-december-3-deadline",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
+        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
       ]
     },
     {
@@ -457,8 +457,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "IMD expects the Bay of Bengal system to become Cyclone Akvan by evening",
@@ -469,8 +469,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
@@ -481,8 +481,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Rahul Gandhi's fireside chat at Columbia University",
@@ -493,8 +493,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Hong Kong Open begins, the last qualifying event for the BWF World Tour Finals",
@@ -528,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T14:35:46+05:30",
-      "ids": [
-        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
-        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
-        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
-      ]
-    },
     {
       "at": "2026-11-15T17:42:51+05:30",
       "ids": [
@@ -660,22 +643,27 @@
         "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
       ]
+    },
+    {
+      "at": "2026-11-16T00:10:00+05:30",
+      "ids": [
+        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
+        "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+        "monsoon-session-unprorogued-record-88-days-ramesh-claim",
+        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-    "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-    "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-    "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
-    "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-    "monsoon-session-unprorogued-record-88-days-ramesh-claim",
-    "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
-    "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-    "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+    "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday"
   ]
 }
