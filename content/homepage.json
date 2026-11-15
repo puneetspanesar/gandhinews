@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "winter-session-first-week-december-delimitation-womens-quota-bill",
+    "id": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
     "overlay": {
       "kicker": {
-        "en": "Politics / Parliament",
-        "hi": "राजनीति / संसद"
+        "en": "States / Punjab",
+        "hi": "राज्य / पंजाब"
       },
       "value": {
-        "en": "Session dates, quota Bill, 361 votes",
-        "hi": "सत्र की तारीख, महिला आरक्षण, 361 वोट"
+        "en": "₹5 lakh each for 5 dead, ₹1 lakh injured",
+        "hi": "5 मृतकों को 5-5 लाख, घायलों को 1-1 लाख"
       },
       "text": {
         "en": "",
@@ -17,22 +17,55 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-      "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-      "monsoon-session-unprorogued-record-88-days-ramesh-claim"
+      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
     ],
     "relatedBeside": [
-      "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
+      "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday"
     ],
     "live": {
       "title": {
-        "en": "Parliament",
-        "hi": "संसद"
+        "en": "Punjab",
+        "hi": "पंजाब"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran fires six drones at a US radar in Bahrain in a second attack in three days; Manama asks the UN Security Council to act",
+          "hi": "ईरान ने बहरीन में अमेरिकी रडार पर छह ड्रोन दागे, तीन दिन में दूसरा हमला; मनामा ने सुरक्षा परिषद से कार्रवाई मांगी"
+        }
+      },
+      {
+        "link": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "Vulcan rocket returns to flight tonight with 40 Amazon Leo satellites after two delays",
+          "hi": "दो बार टलने के बाद वल्कन रॉकेट आज रात 40 अमेज़न लियो उपग्रहों के साथ उड़ान पर लौटेगा"
+        }
+      },
+      {
+        "link": "winter-session-first-week-december-delimitation-womens-quota-bill",
+        "lead": {
+          "en": "Parliament:",
+          "hi": "संसद:"
+        },
+        "text": {
+          "en": "Winter Session likely in first week of December, with delimitation-linked women's quota Bill the government's top item",
+          "hi": "शीतकालीन सत्र दिसंबर के पहले सप्ताह में संभव, परिसीमन से जुड़ा महिला आरक्षण विधेयक सरकार की सबसे ऊपर की प्राथमिकता"
+        }
+      },
       {
         "link": "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "lead": {
@@ -67,28 +100,6 @@
         }
       },
       {
-        "link": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "lead": {
-          "en": "Delhi smog:",
-          "hi": "दिल्ली स्मॉग:"
-        },
-        "text": {
-          "en": "Delhi traders ask Sitharaman to cut GST on air purifiers from 18% to 5% as sales jump fivefold",
-          "hi": "दिल्ली के व्यापारियों ने सीतारमण से एयर प्यूरीफायर पर जीएसटी 18% से घटाकर 5% करने को कहा, बिक्री पांच गुना बढ़ी"
-        }
-      },
-      {
-        "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-        "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
-        },
-        "text": {
-          "en": "Jharkhand turns 26 on a quiet note: Hemant Soren government shifts the main Foundation Day event to November 28",
-          "hi": "झारखंड 26 साल का हुआ, पर हेमंत सोरेन सरकार ने मुख्य स्थापना दिवस समारोह 28 नवंबर को रखा"
-        }
-      },
-      {
         "link": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
         "lead": {
           "en": "Middle East:",
@@ -108,17 +119,6 @@
         "text": {
           "en": "Sooryavanshi, 15, scores 18 on captaincy debut as Bihar lose to Saurashtra on SMAT's opening day",
           "hi": "सूर्यवंशी ने कप्तानी के पहले मैच में बनाए 18 रन, SMAT के पहले दिन सौराष्ट्र से हारा बिहार"
-        }
-      },
-      {
-        "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi to open ₹25.59 crore Ropuiliani museum in Mizoram on Birsa Munda's birth anniversary, the fifth tribal freedom fighters' museum",
-          "hi": "बिरसा मुंडा की जयंती पर मोदी मिजोरम में ₹25.59 करोड़ का रोपुइलियानी संग्रहालय खोलेंगे, पांचवां जनजातीय स्वतंत्रता सेनानी संग्रहालय"
         }
       }
     ]
@@ -186,24 +186,24 @@
   },
   "topStories": {
     "big": {
-      "id": "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+      "id": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
       "also": []
     },
     "list": [
+      "winter-session-first-week-december-delimitation-womens-quota-bill",
+      "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+      "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
       "goyal-cairo-us-preferential-access-egypt-jtc",
-      "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-      "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+      "hormuz-three-tankers-mines-predator-qeshm-brent-india"
     ],
     "also": [
-      "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-      "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return"
+      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
     ]
   },
   "startHere": [
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
     "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
   ],
@@ -374,7 +374,7 @@
       "list": [
         "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
       ],
       "lead": "winter-session-first-week-december-delimitation-womens-quota-bill"
     },
@@ -391,18 +391,18 @@
         ]
       },
       "list": [
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
       ]
     },
     {
       "section": "states",
-      "lead": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+      "lead": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
       "list": [
+        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
         "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
       ]
     },
     {
@@ -426,20 +426,20 @@
   "desks": [
     {
       "section": "world",
-      "lead": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+      "lead": "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
       "list": [
+        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
         "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda"
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india"
       ]
     },
     {
       "section": "science",
-      "lead": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+      "lead": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
       "list": [
+        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
         "nasa-opens-astronaut-applications-december-3-deadline",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
       ]
     },
     {
@@ -473,10 +473,22 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Piyush Goyal's visit to Egypt ends",
-        "hi": "पीयूष गोयल की मिस्र यात्रा पूरी"
+        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
+        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
       },
-      "link": "goyal-cairo-us-preferential-access-egypt-jtc"
+      "link": "modi-asean-india-summit-manila-november-16-18"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
+      },
+      "text": {
+        "en": "Rahul Gandhi's fireside chat at Columbia University",
+        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
+      },
+      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     },
     {
       "icon": "calendar-blank",
@@ -493,14 +505,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
+        "en": "Nov 18",
+        "hi": "18 नवंबर"
       },
       "text": {
-        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
-        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
+        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
+        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
       },
-      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     },
     {
       "icon": "calendar-blank",
@@ -513,18 +525,6 @@
         "hi": "भाजपा की समरस्ता संकल्प यात्रा को नितिन नबीन जालंधर से हरी झंडी दिखाएंगे"
       },
       "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
-      },
-      "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
-      },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
@@ -642,23 +642,29 @@
       ]
     },
     {
-      "at": "2026-11-15T20:32:23+05:30",
+      "at": "2026-11-15T20:45:29+05:30",
       "ids": [
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
         "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-        "monsoon-session-unprorogued-record-88-days-ramesh-claim",
         "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
         "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
         "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
+  ]
 }
