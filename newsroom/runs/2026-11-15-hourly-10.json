@@ -1,0 +1,19 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-15T10:05:01+05:30",
+ "end": "2026-11-15T11:01:10+05:30",
+ "summary": "Jharkhand Foundation Day lead, Hormuz tankers, Sooryavanshi SMAT; Modi tribute held",
+ "new": [
+  "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+  "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+  "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+ ],
+ "held": [
+  "modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+}

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "id": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
     "overlay": {
       "kicker": {
-        "en": "Politics / Prime Minister",
-        "hi": "राजनीति / प्रधानमंत्री"
+        "en": "States / Jharkhand",
+        "hi": "राज्य / झारखंड"
       },
       "value": {
-        "en": "₹25.59 crore museum for Mizo freedom fighters",
-        "hi": "मिजो स्वतंत्रता सेनानियों का ₹25.59 करोड़ का संग्रहालय"
+        "en": "Jharkhand at 26: big day moved to Nov 28",
+        "hi": "झारखंड 26 का: बड़ा दिन 28 नवंबर को"
       },
       "text": {
         "en": "",
@@ -16,19 +16,45 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+      "odisha-five-instream-storage-projects-625-crore",
+      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
+    ],
     "relatedBeside": [
-      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
+      "hormuz-three-tankers-mines-predator-qeshm-brent-india"
     ],
     "live": {
       "title": {
-        "en": "Prime Minister",
-        "hi": "प्रधानमंत्री"
+        "en": "Jharkhand",
+        "hi": "झारखंड"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Iran says three more tankers hit mines in Hormuz and it shot down a second US drone in two days",
+          "hi": "ईरान का दावा: होर्मुज में तीन और टैंकर बारूदी सुरंग से टकराए, दो दिन में दूसरा अमेरिकी ड्रोन गिराया"
+        }
+      },
+      {
+        "link": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Sooryavanshi, 15, scores 18 on captaincy debut as Bihar lose to Saurashtra on SMAT's opening day",
+          "hi": "सूर्यवंशी ने कप्तानी के पहले मैच में बनाए 18 रन, SMAT के पहले दिन सौराष्ट्र से हारा बिहार"
+        }
+      },
       {
         "link": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
         "lead": {
@@ -74,47 +100,25 @@
         }
       },
       {
-        "link": "odisha-five-instream-storage-projects-625-crore",
+        "link": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Prime Minister:",
+          "hi": "प्रधानमंत्री:"
         },
         "text": {
-          "en": "Odisha clears five in-stream storage projects worth ₹625.47 crore for 74 villages",
-          "hi": "ओडिशा ने 74 गांवों के लिए ₹625.47 करोड़ की पांच नदी जल-भंडारण परियोजनाओं को मंजूरी दी"
+          "en": "Modi to open 38 Eklavya schools and 100 multi-purpose centres on Birsa Munda's 151st birth anniversary, in a ₹3,000 crore tribal package",
+          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी 38 एकलव्य स्कूल और 100 बहुउद्देशीय केंद्र खोलेंगे, ₹3,000 करोड़ का जनजातीय पैकेज"
         }
       },
       {
-        "link": "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+        "link": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
         "lead": {
-          "en": "Russia and Ukraine:",
-          "hi": "रूस-यूक्रेन:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "Zelenskyy meets Witkoff and Kushner near Dublin and says the largest prisoner exchange of the war is coming",
-          "hi": "डबलिन के पास ज़ेलेंस्की की विटकॉफ और कुशनर से मुलाकात, कहा युद्ध का सबसे बड़ा कैदी आदान-प्रदान आ रहा है"
-        }
-      },
-      {
-        "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "lead": {
-          "en": "Manipur:",
-          "hi": "मणिपुर:"
-        },
-        "text": {
-          "en": "Manipur's Khemchand reviews security after four Nagas killed on Ukhrul highway and a Kuki woman shot in Kangpokpi",
-          "hi": "उखरुल हाईवे पर चार नागा और कांगपोकपी में कुकी महिला की हत्या के बाद मणिपुर के मुख्यमंत्री खेमचंद ने की सुरक्षा समीक्षा"
-        }
-      },
-      {
-        "link": "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "lead": {
-          "en": "Fintech:",
-          "hi": "फिनटेक:"
-        },
-        "text": {
-          "en": "RBI gives Paytm's payments arm in-principle nod to issue wallets again, final approval still awaited",
-          "hi": "आरबीआई ने पेटीएम की पेमेंट्स इकाई को वॉलेट के लिए सैद्धांतिक मंजूरी दी, अंतिम अनुमति बाकी"
+          "en": "Rahul Gandhi tells Bharat Summit 'we are going to get rid of PM Modi', cites Adani and Maharashtra voter rolls",
+          "hi": "राहुल गांधी ने भारत समिट में कहा, 'हम पीएम मोदी को हटाने जा रहे हैं'; अडानी और महाराष्ट्र की मतदाता सूची का जिक्र"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+      "id": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
       "also": []
     },
     "list": [
+      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
       "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
       "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
-      "odisha-five-instream-storage-projects-625-crore",
-      "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
-      "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
     ],
     "also": [
-      "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-      "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale"
+      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+      "jaishankar-pashinyan-delhi-stopover-gulf-ukraine"
     ]
   },
   "startHere": [
@@ -368,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
         "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore"
       ],
-      "lead": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
+      "lead": "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore"
     },
     {
       "section": "economy",
@@ -387,27 +391,27 @@
         ]
       },
       "list": [
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap",
+        "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus",
+        "forex-reserves-rise-719-billion-november-6-gold"
       ]
     },
     {
       "section": "states",
-      "lead": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+      "lead": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
       "list": [
+        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
         "odisha-five-instream-storage-projects-625-crore",
-        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
+        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
       ]
     },
     {
       "section": "policy",
-      "lead": "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+      "lead": "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
       "list": [
-        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027",
         "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
-        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser"
+        "modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser",
+        "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions"
       ]
     },
     {
@@ -422,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+      "lead": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
       "list": [
-        "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
         "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
+        "microsoft-365-outage-ends-india-indigo-akasa-air-india"
       ]
     },
     {
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+      "lead": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
       "list": [
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
         "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel",
-        "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel"
       ]
     }
   ],
@@ -493,10 +497,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
-        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
+        "en": "Syed Mushtaq Ali Trophy: Bihar, captained by Vaibhav Sooryavanshi, play Railways, according to reports",
+        "hi": "सैयद मुश्ताक अली ट्रॉफी: खबरों के मुताबिक वैभव सूर्यवंशी की कप्तानी में बिहार का सामना रेलवे से"
       },
-      "link": "modi-asean-india-summit-manila-november-16-18"
+      "link": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
     },
     {
       "icon": "calendar-blank",
@@ -524,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-14T22:58:42+05:30",
-      "ids": [
-        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-        "vp-radhakrishnan-cii-summit-visakhapatnam-valedictory-303-mous-9-89-lakh-crore",
-        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
-        "monsoon-session-unprorogued-record-88-days-ramesh-claim",
-        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
-        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "nasa-opens-astronaut-applications-december-3-deadline",
-        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
-        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "madurai-tanishq-showroom-burglary-10-kg-gold-police-teams"
-      ]
-    },
     {
       "at": "2026-11-14T23:01:35+05:30",
       "ids": [
@@ -647,8 +634,41 @@
         "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
         "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
       ]
+    },
+    {
+      "at": "2026-11-15T10:54:42+05:30",
+      "ids": [
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+        "odisha-five-instream-storage-projects-625-crore",
+        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+    "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+    "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+    "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
+    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+    "punjab-da-crorepati-quiz-mann-1-crore-youth-15-30",
+    "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
+    "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+    "rahul-gandhi-hyderabad-gig-workers-act-insurance",
+    "india-october-exports-record-iitf-goyal-1-trillion-target",
+    "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review",
+    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
+  ]
 }

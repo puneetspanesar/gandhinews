@@ -76,7 +76,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "No statement by Hemant Soren timed November 15, 2026 was found; the story quotes only Modi and Murmu. The Soren greeting found was from 2025 and is not used."
+    - "No statement by Hemant Soren timed November 15, 2026, was found; the story quotes only Modi and Murmu. The Soren greeting found was from 2025 and is not used."
     - "The student-award date: a November 7 report said awards on November 15; the November 15 report places them in the November 28 programme. Text follows the later one."
     - "The cabinet meeting on November 18 is described as proposed in one report; written as proposed."
 ---
@@ -99,7 +99,7 @@ Prime Minister Narendra Modi wrote on X that the state is "a unique blend of tri
 
 President Droupadi Murmu, who served as Jharkhand's Governor from 2015 to 2021, also posted on both occasions. "This land, home to divine figures such as Dharti Aba Bhagwan Birsa Munda and great heroes such as Sidho-Kanhu," she wrote, would, with the people's effort, "take the state to new heights of development and prosperity".
 
-Modi launched **246 tribal development projects worth about ₹3,000 crore** today from Gadchiroli in Maharashtra, as our earlier report details. Gadchiroli was the host venue for the national Janjatiya Gaurav Diwas event, and **no separate package was announced for Jharkhand**; the state's benefits come through national schemes such as Eklavya Model Residential Schools and the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan, which was launched from Hazaribagh in October 2024. Jharkhand is home to several Particularly Vulnerable Tribal Groups, among them the Birhor, Asur and Korwa, whose villages are covered by the package's multi-purpose centres.
+Modi is due to launch **246 tribal development projects worth about ₹3,000 crore** from Gadchiroli in Maharashtra at 11 am today, as our earlier report details. Gadchiroli is the host venue for the national Janjatiya Gaurav Diwas event, and the announced package has **no separate allocation for Jharkhand**; the state's benefits come through national schemes such as Eklavya Model Residential Schools and the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan, which was launched from Hazaribagh in October 2024. Jharkhand is home to several Particularly Vulnerable Tribal Groups, among them the Birhor, Asur and Korwa, whose villages are covered by the package's multi-purpose centres.
 
 ## The fortnight and the November 28 ceremony
 

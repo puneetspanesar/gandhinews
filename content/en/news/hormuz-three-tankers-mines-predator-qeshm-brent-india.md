@@ -30,7 +30,10 @@ infographic:
     - {icon: boat, value: "3", label: "oil tankers Iran says hit mines on Saturday"}
     - {icon: airplane, value: "17", label: "US drones Iran says it has downed in the war"}
     - {icon: drop, value: "$95.89", label: "Brent a barrel at Friday's close"}
-  timeline: {title: "The week in Hormuz", items: [{date: "Nov 12", text: "Guards say two supertankers burned", icon: warning}, {date: "Nov 13", text: "Guards say a gas carrier hit a mine", icon: boat}, {date: "Nov 14", text: "Three tankers reported on fire", icon: fire}]}
+  timeline:
+    - {date: "Nov 12", text: "Guards say two supertankers burned", icon: warning}
+    - {date: "Nov 13", text: "Guards say a gas carrier hit a mine", icon: boat}
+    - {date: "Nov 14", text: "Three tankers reported on fire", icon: fire}
   source: "Iran's navy and Revolutionary Guards, November 14, 2026"
 related: [hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz, centcom-cooper-hormuz-3000-ships-mines-cleared, iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones, indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal, iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg]
 seo:

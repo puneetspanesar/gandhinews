@@ -52956,16 +52956,6 @@
   "articleId": "hormuz-three-tankers-mines-predator-qeshm-brent-india"
  },
  {
-  "id": "o-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26",
-  "articleId": "modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Prime_Minister%2C_Shri_Narendra_Modi_addressing_at_the_webinar_for_effective_implementation_of_Union_Budget_in_Defence_Sector_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister,_Shri_Narendra_Modi_addressing_at_the_webinar_for_effective_implementation_of_Union_Budget_in_Defence_Sector_(cropped).jpg"
- },
- {
   "id": "o-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
   "articleId": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Prime_Minister_of_Bharat%2C_Shri_Narendra_Damodardas_Modi_meets_young_cricketing_sensation_Vaibhav_Suryavanshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -52974,5 +52964,18 @@
   "alt": "Vaibhav Sooryavanshi with Prime Minister Narendra Modi at Patna airport, May 2025 (file photo)",
   "alt_hi": "पटना हवाई अड्डे पर प्रधानमंत्री नरेंद्र मोदी के साथ वैभव सूर्यवंशी, मई 2025 (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_meets_young_cricketing_sensation_Vaibhav_Suryavanshi.jpg"
+ },
+ {
+  "id": "x-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26",
+  "articleId": "modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26",
+  "sourceUrl": "",
+  "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 2.0",
+  "alt": "Prime Minister Narendra Modi and Parliament House in New Delhi, where the tribute to Birsa Munda was paid (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और नई दिल्ली का संसद भवन, जहां बिरसा मुंडा को श्रद्धांजलि दी गई (फाइल फोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]

@@ -51610,7 +51610,16 @@
   "licence": "GODL-India",
   "alt": "Hemant Soren (file photo)",
   "alt_hi": "हेमंत सोरेन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_of_Jharkhand_Shri_Hemant_Soren.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_of_Jharkhand_Shri_Hemant_Soren.jpg",
+  "treated": {
+   "src": "/photos/t-jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-1280.jpg",
+   "src800": "/photos/t-jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffc7c787878686c3",
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons"
+  }
  },
  "hormuz-three-tankers-mines-predator-qeshm-brent-india": {
   "id": "r-hormuz-three-tankers-mines-predator-qeshm-brent-india",
@@ -51622,32 +51631,75 @@
   "licence": "Public domain",
   "alt": "File photo: a crude oil tanker on fire at sea (2004) (file photo)",
   "alt_hi": "फ़ाइल फ़ोटो: समुद्र में आग की चपेट में एक कच्चे तेल का टैंकर (2004)",
-  "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG"
+  "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG",
+  "treated": {
+   "src": "/photos/t-hormuz-three-tankers-mines-predator-qeshm-brent-india-1280.jpg",
+   "src800": "/photos/t-hormuz-three-tankers-mines-predator-qeshm-brent-india-640.jpg",
+   "cutout": false,
+   "with": [
+    "iran-hormuz-shut-until-terms-met-irgc-threatens-cables",
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "iran-hands-us-nuclear-proposal-seven-demands--p1"
+   ],
+   "kind": "photo",
+   "subj": "ffff8f8706070fff",
+   "credit": "Photos: US Navy / Wikimedia Commons; Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Amohammadid / Wikimedia Commons"
+  }
  },
  "modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26": {
-  "id": "o-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26",
-  "src": "/photos/o-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26-1280.jpg",
-  "src800": "/photos/o-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundation-day-26-640.jpg",
+  "id": "v-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundat",
+  "src": "/photos/v-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundat-1280.jpg",
+  "src800": "/photos/v-modi-murmu-birsa-munda-tributes-parliament-jharkhand-foundat-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1084,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister,_Shri_Narendra_Modi_addressing_at_the_webinar_for_effective_implementation_of_Union_Budget_in_Defence_Sector_(cropped).jpg"
+  "height": 800,
+  "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 2.0",
+  "alt": "Prime Minister Narendra Modi and Parliament House in New Delhi, where the tribute to Birsa Munda was paid (file photos)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी और नई दिल्ली का संसद भवन, जहां बिरसा मुंडा को श्रद्धांजलि दी गई (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280
  },
  "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one": {
-  "id": "o-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
-  "src": "/photos/o-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-1280.jpg",
-  "src800": "/photos/o-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-640.jpg",
+  "id": "i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+  "src": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-en-3x2-1280.jpg",
+  "src800": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 2156,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Vaibhav Sooryavanshi with Prime Minister Narendra Modi at Patna airport, May 2025 (file photo)",
-  "alt_hi": "पटना हवाई अड्डे पर प्रधानमंत्री नरेंद्र मोदी के साथ वैभव सूर्यवंशी, मई 2025 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_meets_young_cricketing_sensation_Vaibhav_Suryavanshi.jpg"
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Bihar's teenage captain loses his first match",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बिहार के किशोर कप्तान को पहले मैच में हार",
+  "page": null,
+  "ihash": "cb74e93b3664",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-en-t-1280.jpg",
+    "src800": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-hi-t-1280.jpg",
+    "src800": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-en-1280.jpg",
+    "src800": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-hi-1280.jpg",
+    "src800": "/photos/i-sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one-hi-640.jpg"
+   }
+  },
+  "nophoto": "no solo free photo of Vaibhav Sooryavanshi; library none, quick_photo none, finder h1510 only shots with PM Modi (editor rejected)"
  }
 }

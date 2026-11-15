@@ -31,7 +31,10 @@ infographic:
     - {icon: boat, value: "3", label: "तेल टैंकर, जिनके शनिवार को सुरंग से टकराने का ईरान का दावा"}
     - {icon: airplane, value: "17", label: "अमेरिकी ड्रोन, जिन्हें गिराने का ईरान का दावा"}
     - {icon: drop, value: "$95.89", label: "प्रति बैरल ब्रेंट, शुक्रवार के बंद भाव पर"}
-  timeline: {title: "होर्मुज में यह सप्ताह", items: [{date: "12 नवंबर", text: "गार्ड्स के मुताबिक दो सुपरटैंकर जले", icon: warning}, {date: "13 नवंबर", text: "गार्ड्स के मुताबिक गैस वाहक सुरंग से टकराया", icon: boat}, {date: "14 नवंबर", text: "तीन टैंकरों में आग की सूचना", icon: fire}]}
+  timeline:
+    - {date: "12 नवंबर", text: "गार्ड्स के मुताबिक दो सुपरटैंकर जले", icon: warning}
+    - {date: "13 नवंबर", text: "गार्ड्स के मुताबिक गैस वाहक सुरंग से टकराया", icon: boat}
+    - {date: "14 नवंबर", text: "तीन टैंकरों में आग की सूचना", icon: fire}
   source: "ईरान की नौसेना और रिवॉल्यूशनरी गार्ड्स, 14 नवंबर 2026"
 related: [hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz, centcom-cooper-hormuz-3000-ships-mines-cleared, iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones, indian-seafarer-hurt-fujairah-energy-tanker-hit-persian-gulf-sonowal, iran-iaea-monitoring-cannot-resume-under-threat-isfahan-440-kg]
 seo:
