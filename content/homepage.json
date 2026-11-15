@@ -111,14 +111,14 @@
         }
       },
       {
-        "link": "nasa-opens-astronaut-applications-december-3-deadline",
+        "link": "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
+          "en": "RBI:",
+          "hi": "आरबीआई:"
         },
         "text": {
-          "en": "NASA opens astronaut applications for Moon missions, with a December 3 deadline",
-          "hi": "नासा ने चंद्र अभियानों के लिए अंतरिक्ष यात्री आवेदन खोले, अंतिम तारीख 3 दिसंबर"
+          "en": "RBI fines Mobikwik ₹9 lakh for wallet transfer limits and late fraud reports",
+          "hi": "आरबीआई ने मोबिक्विक पर ₹9 लाख का जुर्माना लगाया, वॉलेट ट्रांसफर सीमा और देर से फ्रॉड रिपोर्टिंग पर"
         }
       }
     ]
@@ -197,8 +197,8 @@
       "u19-asia-cup-final-india-win-last-ball-mohit-ulva"
     ],
     "also": [
-      "nasa-opens-astronaut-applications-december-3-deadline",
-      "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent"
+      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+      "nasa-opens-astronaut-applications-december-3-deadline"
     ]
   },
   "startHere": [
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-        "india-october-exports-record-iitf-goyal-1-trillion-target"
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale"
       ]
     },
     {
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "at": "2026-11-15T08:40:18+05:30",
+      "at": "2026-11-15T08:54:45+05:30",
       "ids": [
         "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
         "odisha-five-instream-storage-projects-625-crore",
@@ -652,7 +652,7 @@
         "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
         "jaishankar-pashinyan-delhi-stopover-gulf-ukraine",
         "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "nasa-opens-astronaut-applications-december-3-deadline"
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
       ]
     }
   ],
@@ -660,7 +660,6 @@
   "drop": [
     "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
     "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-    "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+    "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
   ]
 }
