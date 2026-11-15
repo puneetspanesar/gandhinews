@@ -26797,7 +26797,8 @@
   "licence": "CC BY 4.0",
   "alt": "SK Hynix's semiconductor campus in Icheon (file photo)",
   "alt_hi": "इचियोन में एसके हाइनिक्स का सेमीकंडक्टर परिसर (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "chip campus in Korea: it landed on a Bengal story collage (Nov 15)"
  },
  "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout--p2": {
   "id": "v-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-p2",
@@ -50992,7 +50993,8 @@
   "licence": "GODL-India",
   "alt": "Punjab Chief Minister Bhagwant Mann, right (file photo)",
   "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान, दाएं (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_Agriculture_%26_Farmers_Welfare_and_Rural_Development,_Shri_Shivraj_Singh_Chouhan_meeting_with_the_Chief_Minister_of_Punjab,_Shri_Bhagwant_Singh_Mann,_in_New_Delhi_on_May_13,_2026.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_Agriculture_%26_Farmers_Welfare_and_Rural_Development,_Shri_Shivraj_Singh_Chouhan_meeting_with_the_Chief_Minister_of_Punjab,_Shri_Bhagwant_Singh_Mann,_in_New_Delhi_on_May_13,_2026.jpg",
+  "nocut": "two people (Shivraj Chouhan and Mann): never a solo subject"
  },
  "golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road--p1": {
   "id": "o-golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road--",
@@ -52097,7 +52099,19 @@
   "licence": "GODL-India",
   "alt": "Bhagwant Mann (file photo)",
   "alt_hi": "भगवंत मान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg",
+  "treated": {
+   "src": "/photos/t-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia-1280.jpg",
+   "src800": "/photos/t-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia-640.jpg",
+   "cutout": false,
+   "with": [
+    "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
+    "cbi-takes-over-jhota-murder-probe-mansa"
+   ],
+   "kind": "photo",
+   "subj": "ffff7e661e180000",
+   "credit": "Photos: Indian Embassy in Seoul, South Korea / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
  },
  "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures": {
   "id": "o-suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures",
@@ -52110,7 +52124,20 @@
   "licence": "GODL-India",
   "alt": "Suvendu Adhikari (file photo)",
   "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Suvendu_Adhikariji.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Suvendu_Adhikariji.jpg",
+  "treated": {
+   "src": "/photos/t-suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measure-1280.jpg",
+   "src800": "/photos/t-suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measure-640.jpg",
+   "cutout": true,
+   "with": [
+    "west-bengal-makes-bengali-compulsory-government-work",
+    "gst-explained-slabs-council-revenue-sharing",
+    "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
+   ],
+   "kind": "photo",
+   "subj": "3c3c203e3e3c3c38",
+   "credit": "Photos: PRS India / Wikimedia Commons; Pinakpani / Wikimedia Commons; P.K.Niyogi / Wikimedia Commons; User:Tanksingh / Wikimedia Commons"
+  }
  },
  "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday": {
   "id": "o-vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
@@ -52123,7 +52150,19 @@
   "licence": "Public domain",
   "alt": "ULA Vulcan Centaur rocket on the launch pad at Cape Canaveral (file photo)",
   "alt_hi": "केप कैनावेरल में लॉन्च पैड पर यूएलए का वल्कन सेंटॉर रॉकेट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vulcan_Centaur_rollout_(Peregrine)_(cropped_2).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Vulcan_Centaur_rollout_(Peregrine)_(cropped_2).jpg",
+  "treated": {
+   "src": "/photos/t-vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sun-1280.jpg",
+   "src800": "/photos/t-vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sun-640.jpg",
+   "cutout": false,
+   "with": [
+    "swadeshi-jagran-manch-asks-centre-to-block-starlink",
+    "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffffffffef070000",
+   "credit": "Photos: NASA/Ben Smegelsky / Wikimedia Commons; SWinxy / Wikimedia Commons; European Space Agency (ESA) / Wikimedia Commons"
+  }
  },
  "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday": {
   "id": "i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
