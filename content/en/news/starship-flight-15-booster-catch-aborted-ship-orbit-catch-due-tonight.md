@@ -9,10 +9,6 @@ title: "Starship reaches orbit with 26 Starlinks after booster catch is called o
 standfirst: "SpaceX's Flight 15 put Ship 42 into orbit and released all 26 satellites, but the Super Heavy booster was sent into the Gulf of Mexico instead of the tower. The ship is due back at Starbase at 2:47 am IST on Sunday."
 published: 2026-11-14T16:20:00+05:30
 location: Starbase, Texas
-upcoming:
-  date: 2026-11-15
-  en: "Starship Ship 42 due back at Starbase for the first-ever ship tower catch, about 2:47 am IST on Sunday"
-  hi: "स्टारशिप का शिप 42 रविवार को लगभग 2:47 बजे (भारतीय समय) स्टारबेस लौटेगा, पहली बार शिप को टावर से पकड़ने की कोशिश"
 keyPoints:
   - "Flight 15 lifted off at **4:17 am IST on Saturday** and the ship reached orbit about 275 km up."
   - "SpaceX **called off the booster tower catch** and let Super Heavy splash down in the Gulf of Mexico."
