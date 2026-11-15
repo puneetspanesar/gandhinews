@@ -1,0 +1,22 @@
+{
+  "k1": {
+    "query": "Tom Banton cricketer",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Tops for Yorkshire- Keshav Maharaj.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tops_for_Yorkshire-_Keshav_Maharaj.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tops_for_Yorkshire-_Keshav_Maharaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2000,
+        "height": 1129,
+        "licence": "Public domain",
+        "author": "Dave Morton",
+        "credit": "https://www.flickr.com/photos/forwarddefensive/48792430741/",
+        "date": "2019-07-14 13:29:00",
+        "description": "In addition to his bowling, Maharaj was an exciting batsman, pictured here putting one out of the ground against Somerset at Headingley.",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tops_for_Yorkshire-_Keshav_Maharaj.jpg/1600px-Tops_for_Yorkshire-_Keshav_Maharaj.jpg"
+      }
+    ]
+  }
+}
