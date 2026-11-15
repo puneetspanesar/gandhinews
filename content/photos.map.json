@@ -51855,7 +51855,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Lakshya Sen (file photo)",
   "alt_hi": "लक्ष्य सेन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Lakshya_Sen_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Lakshya_Sen_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-1280.jpg",
+   "src800": "/photos/t-lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-640.jpg",
+   "cutout": true,
+   "with": [
+    "satwik-chirag-out-french-open-popov-brothers-tanvi-ashmita",
+    "nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold"
+   ],
+   "kind": "photo",
+   "subj": "c1c1c1b3fff",
+   "credit": "Photos: BugWarp / Wikimedia Commons; Badplayer; Kelly Pariona Lagos / Wikimedia Commons"
+  }
  },
  "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10": {
   "id": "o-senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
@@ -51868,7 +51880,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Jensen Huang (file photo)",
   "alt_hi": "जेन्सेन हुआंग (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg",
+  "treated": {
+   "src": "/photos/t-senate-banking-lutnick-huang-testimony-nvidia-megaspeed-dece-1280.jpg",
+   "src800": "/photos/t-senate-banking-lutnick-huang-testimony-nvidia-megaspeed-dece-640.jpg",
+   "cutout": true,
+   "with": [
+    "us-lawmakers-urge-rubio-raise-cjp-protests-india",
+    "us-midterms-2026-explained-what-is-at-stake",
+    "cert-in-warns-ai-agents-accessed-indian-systems"
+   ],
+   "kind": "photo",
+   "subj": "bfbf9f8f87838181",
+   "credit": "Photos: Anderseidesvik / Wikimedia Commons; U.S. Department of State / Wikimedia Commons; Andra C Taylor Jr / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; Indrajit Das / Wikimedia Commons"
+  }
  },
  "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan": {
   "id": "o-kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
@@ -51881,7 +51906,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "CPI(M) Keralam state secretary M V Govindan speaking at a party event (file photo)",
   "alt_hi": "माकपा केरलम राज्य सचिव एम वी गोविंदन एक पार्टी कार्यक्रम में बोलते हुए (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:M_V_GOVINDAN_MASTER_1.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:M_V_GOVINDAN_MASTER_1.jpg",
+  "treated": {
+   "src": "/photos/t-kerala-cpim-judicial-probe-200-mw-power-purchase-govindan-1280.jpg",
+   "src800": "/photos/t-kerala-cpim-judicial-probe-200-mw-power-purchase-govindan-640.jpg",
+   "cutout": true,
+   "with": [
+    "kerala-becomes-keralam-what-changes",
+    "keralam-assembly-resolution-seeks-removal-of-cec"
+   ],
+   "kind": "photo",
+   "subj": "850767e7353f1f3e",
+   "credit": "Photos: Lsgd media / Wikimedia Commons; Vinayaraj / Wikimedia Commons; Sabu Mampallil / Wikimedia Commons"
+  }
  },
  "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam": {
   "id": "i-cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",

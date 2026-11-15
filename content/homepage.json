@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+    "id": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
     "overlay": {
       "kicker": {
-        "en": "Business / Delhi smog",
-        "hi": "कारोबार / दिल्ली स्मॉग"
+        "en": "States / Keralam",
+        "hi": "राज्य / केरलम"
       },
       "value": {
-        "en": "GST on air purifiers: 18% to 5%?",
-        "hi": "प्यूरीफायर पर जीएसटी 18% से 5%?"
+        "en": "CPI(M) wants a judge to probe power buy",
+        "hi": "बिजली खरीद की जांच जज से कराने की मांग"
       },
       "text": {
         "en": "",
@@ -16,19 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+    ],
     "relatedBeside": [
-      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+      "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
     ],
     "live": {
       "title": {
-        "en": "Delhi smog",
-        "hi": "दिल्ली स्मॉग"
+        "en": "Keralam",
+        "hi": "केरलम"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "Senate Banking Committee asks Jensen Huang and Commerce Secretary Lutnick to testify on Nvidia chip exports",
+          "hi": "अमेरिकी सीनेट की बैंकिंग समिति ने जेन्सन हुआंग और वाणिज्य मंत्री लटनिक से एनवीडिया चिप निर्यात पर गवाही मांगी"
+        }
+      },
+      {
+        "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "CBI court convicts 14 FCI officials and 16 millers in Punjab rice scam, 21 years after the checks",
+          "hi": "पंजाब चावल घोटाले में सीबीआई अदालत ने 14 एफसीआई अधिकारियों और 16 मिलर्स को दोषी ठहराया, जांच के 21 साल बाद"
+        }
+      },
+      {
+        "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+        "lead": {
+          "en": "Badminton:",
+          "hi": "बैडमिंटन:"
+        },
+        "text": {
+          "en": "Lakshya Sen beats Koki Watanabe to win the Kumamoto Masters title",
+          "hi": "लक्ष्य सेन ने कोकी वातानाबे को हराकर जीता कुमामोतो मास्टर्स खिताब"
+        }
+      },
       {
         "link": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
         "lead": {
@@ -41,14 +78,14 @@
         }
       },
       {
-        "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+        "link": "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
         "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
+          "en": "Weather:",
+          "hi": "मौसम:"
         },
         "text": {
-          "en": "Jharkhand turns 26 on a quiet note: Hemant Soren government shifts the main Foundation Day event to November 28",
-          "hi": "झारखंड 26 साल का हुआ, पर हेमंत सोरेन सरकार ने मुख्य स्थापना दिवस समारोह 28 नवंबर को रखा"
+          "en": "Bay of Bengal system becomes a depression; IMD now expects a severe cyclone Akvan by November 17",
+          "hi": "बंगाल की खाड़ी का तंत्र अवदाब बना, मौसम विभाग को 17 नवंबर तक भीषण चक्रवात अकवान का अनुमान"
         }
       },
       {
@@ -74,47 +111,14 @@
         }
       },
       {
-        "link": "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+        "link": "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
         },
         "text": {
-          "en": "SEBI clears Sembcorp Green Infra's ₹3,750 crore IPO, all fresh shares, with the money going to repay debt",
-          "hi": "सेबी ने सेम्बकॉर्प ग्रीन इंफ्रा के ₹3,750 करोड़ के आईपीओ को दी मंजूरी, पूरा नया निर्गम, पैसा कर्ज चुकाने में लगेगा"
-        }
-      },
-      {
-        "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi to open ₹25.59 crore Ropuiliani museum in Mizoram on Birsa Munda's birth anniversary, the fifth tribal freedom fighters' museum",
-          "hi": "बिरसा मुंडा की जयंती पर मोदी मिजोरम में ₹25.59 करोड़ का रोपुइलियानी संग्रहालय खोलेंगे, पांचवां जनजातीय स्वतंत्रता सेनानी संग्रहालय"
-        }
-      },
-      {
-        "link": "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Andhra's disaster authority sees Akvan heading for the north coast by November 19, with eight districts on rain alert",
-          "hi": "आंध्र की आपदा प्राधिकरण को अकवान के 19 नवंबर तक उत्तरी तट की ओर बढ़ने का अनुमान, आठ जिलों में बारिश का अलर्ट"
-        }
-      },
-      {
-        "link": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "SpaceX catches Starship's Ship 42 with its launch tower after 22.5 hours in orbit, a first",
-          "hi": "स्पेसएक्स ने 22.5 घंटे कक्षा में रहे स्टारशिप के शिप 42 को टावर से पकड़ा, पहली बार"
+          "en": "Rahul Gandhi tells Bharat Summit 'we are going to get rid of PM Modi', cites Adani and Maharashtra voter rolls",
+          "hi": "राहुल गांधी ने भारत समिट में कहा, 'हम पीएम मोदी को हटाने जा रहे हैं'; अडानी और महाराष्ट्र की मतदाता सूची का जिक्र"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+      "id": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
       "also": []
     },
     "list": [
+      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+      "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
       "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
-      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-      "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-      "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return"
+      "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
     ],
     "also": [
-      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-      "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
+      "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+      "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
     ]
   },
   "startHere": [
@@ -355,8 +359,8 @@
   ],
   "opinion": [
     "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-    "manipur-highway-ambush-ukhrul-needs-nia-decision-and-road-security",
     "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates",
+    "manipur-highway-ambush-ukhrul-needs-nia-decision-and-road-security",
     "punjab-power-bill-waiver-must-say-who-pays-the-518-crore",
     "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid"
   ],
@@ -368,9 +372,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+        "shivakumar-letter-modi-ninth-schedule-karnataka-sc-st-quota-56-per-cent",
+        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
       ],
       "lead": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
     },
@@ -387,18 +391,18 @@
         ]
       },
       "list": [
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
+        "india-october-exports-record-iitf-goyal-1-trillion-target",
+        "bank-credit-growth-19-26-fortnight-october-31-deposits-gap"
       ]
     },
     {
       "section": "states",
-      "lead": "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+      "lead": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
       "list": [
-        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-        "odisha-five-instream-storage-projects-625-crore"
+        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
       ]
     },
     {
@@ -422,9 +426,9 @@
   "desks": [
     {
       "section": "world",
-      "lead": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+      "lead": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
       "list": [
-        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
         "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
         "jaishankar-pashinyan-delhi-stopover-gulf-ukraine"
       ]
@@ -440,12 +444,12 @@
     },
     {
       "section": "sports",
-      "lead": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+      "lead": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
       "list": [
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
         "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
         "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
-        "u19-asia-cup-final-india-win-last-ball-mohit-ulva",
-        "u19-asia-cup-final-pakistan-336-india-chase-kavya-patel"
+        "u19-asia-cup-final-india-win-last-ball-mohit-ulva"
       ]
     }
   ],
@@ -481,10 +485,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
-        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
+        "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
       },
-      "link": "modi-asean-india-summit-manila-november-16-18"
+      "link": "akvan-track-uncertain-andhra-odisha-imd-saturday"
     },
     {
       "icon": "calendar-blank",
@@ -493,10 +497,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "IMD expects the depression to become Cyclone Akvan by evening",
-        "hi": "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
+        "en": "Syed Mushtaq Ali Trophy: Bihar, captained by Vaibhav Sooryavanshi, play Railways, according to reports",
+        "hi": "सैयद मुश्ताक अली ट्रॉफी: खबरों के मुताबिक वैभव सूर्यवंशी की कप्तानी में बिहार का सामना रेलवे से"
       },
-      "link": "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
+      "link": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
     },
     {
       "icon": "calendar-blank",
@@ -505,10 +509,10 @@
         "hi": "17 नवंबर"
       },
       "text": {
-        "en": "IPL 2027 retention deadline, after Hardik Pandya and Arshdeep Singh swapped teams",
-        "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
+        "en": "Rahul Gandhi's fireside chat at Columbia University",
+        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
       },
-      "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
+      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     },
     {
       "icon": "calendar-blank",
@@ -517,30 +521,13 @@
         "hi": "17 नवंबर"
       },
       "text": {
-        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
-        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
+        "en": "Hong Kong Open begins, the last qualifying event for the BWF World Tour Finals",
+        "hi": "हांगकांग ओपन शुरू, बीडब्ल्यूएफ वर्ल्ड टूर फाइनल्स का आखिरी क्वालिफाइंग टूर्नामेंट"
       },
-      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
+      "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T04:51:39+05:30",
-      "ids": [
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
-        "mahanadi-coalfields-ipo-rhp-filed-coal-india-10-per-cent-offer-for-sale",
-        "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review",
-        "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale",
-        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
-        "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra",
-        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review"
-      ]
-    },
     {
       "at": "2026-11-15T06:37:24+05:30",
       "ids": [
@@ -647,8 +634,37 @@
         "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
         "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
       ]
+    },
+    {
+      "at": "2026-11-15T14:35:46+05:30",
+      "ids": [
+        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+        "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "akvan-track-uncertain-andhra-odisha-imd-saturday",
+    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
+    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+    "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
+    "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
+    "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+    "iran-sirik-strike-irgc-bahrain-radar-claim-centcom-denies-two-drones"
+  ]
 }

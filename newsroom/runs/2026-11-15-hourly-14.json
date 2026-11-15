@@ -1,0 +1,18 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-15T14:05:24+05:30",
+ "end": "2026-11-15T14:39:14+05:30",
+ "summary": "Keralam power-purchase probe lead, Punjab rice scam verdict, Senate Banking Huang and Lutnick, Lakshya Sen Kumamoto title",
+ "new": [
+  "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
+  "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
+  "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+  "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan"
+}

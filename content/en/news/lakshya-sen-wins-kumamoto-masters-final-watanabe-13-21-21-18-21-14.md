@@ -6,12 +6,12 @@ section: sports
 format_label: "Sports / Badminton"
 topics: []
 title: "Lakshya Sen beats Koki Watanabe to win the Kumamoto Masters title"
-standfirst: "Sen came from a game down to win the final 13-21, 21-18, 21-14 on Sunday, a second straight Super 500 title, and should now be inside the top eight for the World Tour Finals."
+standfirst: "Sen came from a game down to win the final 13-21, 21-18, 21-14 on Sunday, his second title in two weeks, and should now be inside the top eight for the World Tour Finals."
 published: 2026-11-15T14:12:00+05:30
 location: Kumamoto
 keyPoints:
   - "Lakshya Sen beat Japan's Koki Watanabe **13-21, 21-18, 21-14** in the Kumamoto Masters final on November 15."
-  - "He is the **first Indian man to win the Super 500 event**, two weeks after the Hylo Open title."
+  - "It is his **second title in two weeks**, after the Super 300 Hylo Open in Saarbrücken on November 1."
   - "The title is worth 9,200 points and should lift him to **about sixth in the Finals race**; the Hong Kong Open, November 17 to 22, is the last qualifier."
 upcoming:
   date: 2026-11-17
@@ -27,7 +27,7 @@ hero:
 related: [lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday, lakshya-sen-hylo-open-title-indian-double-saarbrucken]
 seo:
   title: "Lakshya Sen wins Kumamoto Masters, beats Koki Watanabe"
-  description: "Lakshya Sen beat Koki Watanabe 13-21, 21-18, 21-14 in the Kumamoto Masters final on November 15, 2026, his second straight Super 500 title."
+  description: "Lakshya Sen beat Koki Watanabe 13-21, 21-18, 21-14 in the Kumamoto Masters final on November 15, 2026, his second title in two weeks."
 infographic:
   kicker: "Kumamoto Masters"
   headline: "Sen fights back to win the title"
@@ -65,7 +65,7 @@ verification:
     - "First Indian man to win the event per two reports; sixth World Tour title and first two titles in one season per one report."
 ---
 
-**Lakshya Sen has won the Kumamoto Masters Japan.** The eighth seed came from a game down to beat Japan's Koki Watanabe **13-21, 21-18, 21-14** in the men's singles final at the Kumamoto Prefectural Gymnasium on Sunday, November 15, in one hour and four minutes. He is the first Indian man to win the Super 500 event, and the title comes two weeks after his win at the Hylo Open in Saarbrücken.
+**Lakshya Sen has won the Kumamoto Masters Japan.** The eighth seed came from a game down to beat Japan's Koki Watanabe **13-21, 21-18, 21-14** in the men's singles final at the Kumamoto Prefectural Gymnasium on Sunday, November 15, in one hour and four minutes. According to reports, he is the first Indian man to win the event, and the title comes two weeks after his win at the Hylo Open in Saarbrücken.
 
 ## How the final turned
 
@@ -79,7 +79,7 @@ Sen steadied in the second game. He led 13-10 and then **held off a late Watanab
 
 ## A second title in a fortnight
 
-Sen arrived in Kumamoto as the **Hylo Open champion**. He beat Jonatan Christie 21-17, 21-10 in Saarbrücken on November 1, his first BWF World Tour title since the Australian Open a year earlier, as we [reported at the time](/en/news/lakshya-sen-hylo-open-title-indian-double-saarbrucken). Kumamoto is his second straight Super 500 title.
+Sen arrived in Kumamoto as the **Hylo Open champion**. He beat Jonatan Christie 21-17, 21-10 in Saarbrücken on November 1, his first BWF World Tour title since the Australian Open a year earlier, as we [reported at the time](/en/news/lakshya-sen-hylo-open-title-indian-double-saarbrucken). Kumamoto is his second title in two weeks.
 
 Reports on the final describe it as **his sixth World Tour title** and the first time he has won two World Tour titles in the same season. Against Watanabe he now leads the career head-to-head 4-2.
 
