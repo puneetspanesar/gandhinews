@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+    "id": "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
     "overlay": {
       "kicker": {
-        "en": "States / Weather",
-        "hi": "राज्य / मौसम"
+        "en": "Policy / Cooperation",
+        "hi": "नीति / सहकारिता"
       },
       "value": {
-        "en": "Akvan: very severe by Nov 19",
-        "hi": "अकवान: 19 नवंबर तक अति भीषण"
+        "en": "NHEC revival: production by Dec 2027",
+        "hi": "एनएचईसी: दिसंबर 2027 से पहले उत्पादन"
       },
       "text": {
         "en": "",
@@ -17,33 +17,21 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-      "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval"
+      "farmer-id-explained-digital-agriculture-mission",
+      "msp-explained-how-set-who-benefits"
     ],
     "relatedBeside": [
-      "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry"
+      "wpi-inflation-october-data-due-monday-rbi-december"
     ],
     "live": {
       "title": {
-        "en": "Weather",
-        "hi": "मौसम"
+        "en": "Cooperation",
+        "hi": "सहकारिता"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
-        "lead": {
-          "en": "Cooperation:",
-          "hi": "सहकारिता:"
-        },
-        "text": {
-          "en": "Shah breaks ground to revive NHEC, the sugar-machinery cooperative shut for years, and launches Bharat Taxi in Pune",
-          "hi": "शाह ने चीनी मशीनरी बनाने वाली बंद पड़ी सहकारी संस्था एनएचईसी के पुनरुद्धार का भूमि पूजन किया, पुणे में भारत टैक्सी शुरू"
-        }
-      },
       {
         "link": "wpi-inflation-october-data-due-monday-rbi-december",
         "lead": {
@@ -67,6 +55,17 @@
         }
       },
       {
+        "link": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "Amit Shah says Rahul Gandhi is 'defaming India' abroad, tells him to visit villages if he wants power",
+          "hi": "अमित शाह का राहुल गांधी पर वार: विदेश में 'भारत को बदनाम' कर रहे, सत्ता चाहिए तो गांव जाएं"
+        }
+      },
+      {
         "link": "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
         "lead": {
           "en": "Electoral rolls:",
@@ -78,47 +77,47 @@
         }
       },
       {
-        "link": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Senate Banking Committee asks Jensen Huang and Commerce Secretary Lutnick to testify on Nvidia chip exports",
-          "hi": "अमेरिकी सीनेट की बैंकिंग समिति ने जेन्सन हुआंग और वाणिज्य मंत्री लटनिक से एनवीडिया चिप निर्यात पर गवाही मांगी"
-        }
-      },
-      {
-        "link": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-        "lead": {
-          "en": "Prime Minister:",
-          "hi": "प्रधानमंत्री:"
-        },
-        "text": {
-          "en": "Modi opens 173 tribal projects on Birsa Munda's 151st anniversary and says tribals now have full rights over bamboo",
-          "hi": "बिरसा मुंडा की 151वीं जयंती पर मोदी ने 173 जनजातीय परियोजनाएं खोलीं, कहा: बांस पर अब जनजातियों का पूरा अधिकार"
-        }
-      },
-      {
-        "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
-        "lead": {
-          "en": "Jharkhand:",
-          "hi": "झारखंड:"
-        },
-        "text": {
-          "en": "Jharkhand turns 26 on a quiet note: Hemant Soren government shifts the main Foundation Day event to November 28",
-          "hi": "झारखंड 26 साल का हुआ, पर हेमंत सोरेन सरकार ने मुख्य स्थापना दिवस समारोह 28 नवंबर को रखा"
-        }
-      },
-      {
-        "link": "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+        "link": "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
         "lead": {
           "en": "Middle East:",
           "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Iran says three more tankers hit mines in Hormuz and it shot down a second US drone in two days",
-          "hi": "ईरान का दावा: होर्मुज में तीन और टैंकर बारूदी सुरंग से टकराए, दो दिन में दूसरा अमेरिकी ड्रोन गिराया"
+          "en": "Iran fires six drones at a US radar in Bahrain in a second attack in three days; Manama asks the UN Security Council to act",
+          "hi": "ईरान ने बहरीन में अमेरिकी रडार पर छह ड्रोन दागे, तीन दिन में दूसरा हमला; मनामा ने सुरक्षा परिषद से कार्रवाई मांगी"
+        }
+      },
+      {
+        "link": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "Vulcan rocket returns to flight tonight with 40 Amazon Leo satellites after two delays",
+          "hi": "दो बार टलने के बाद वल्कन रॉकेट आज रात 40 अमेज़न लियो उपग्रहों के साथ उड़ान पर लौटेगा"
+        }
+      },
+      {
+        "link": "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "Mann announces ₹5 lakh each for families of five killed in Tarn Taran pilgrim bus crash",
+          "hi": "तरनतारन में तीर्थ यात्रा बसों की टक्कर, मान ने पांच मृतकों के परिवारों को 5-5 लाख रुपये देने की घोषणा की"
+        }
+      },
+      {
+        "link": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "COP31 reaches its midpoint in Antalya with adaptation finance and a single political outcome still undecided",
+          "hi": "अंताल्या में कॉप31 आधे पड़ाव पर: अनुकूलन वित्त और साझा राजनीतिक फैसले पर अब भी सहमति नहीं"
         }
       }
     ]
@@ -186,19 +185,19 @@
   },
   "topStories": {
     "big": {
-      "id": "wpi-inflation-october-data-due-monday-rbi-december",
+      "id": "england-banton-century-adelaide-second-odi-series-level",
       "also": []
     },
     "list": [
-      "england-banton-century-adelaide-second-odi-series-level",
+      "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
       "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
-      "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-      "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+      "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+      "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia"
     ],
     "also": [
-      "hormuz-three-tankers-mines-predator-qeshm-brent-india",
-      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
+      "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+      "winter-session-first-week-december-delimitation-womens-quota-bill"
     ]
   },
   "startHere": [
@@ -360,8 +359,8 @@
   "opinion": [
     "tamil-nadu-governor-report-on-law-and-order-must-be-made-public",
     "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-    "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates",
     "manipur-highway-ambush-ukhrul-needs-nia-decision-and-road-security",
+    "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates",
     "punjab-power-bill-waiver-must-say-who-pays-the-518-crore"
   ],
   "sections": [
@@ -372,11 +371,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
         "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
       ],
-      "lead": "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
+      "lead": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
     },
     {
       "section": "economy",
@@ -391,9 +390,9 @@
         ]
       },
       "list": [
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
-        "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore"
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
       ]
     },
     {
@@ -435,11 +434,11 @@
     },
     {
       "section": "science",
-      "lead": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
+      "lead": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
       "list": [
+        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
         "nasa-opens-astronaut-applications-december-3-deadline",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-        "ipcc-ar7-timeline-dispute-cop31-eu-acconcia"
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
       ]
     },
     {
@@ -461,10 +460,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "IMD expects the depression to become Cyclone Akvan by evening",
-        "hi": "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
+        "en": "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)",
+        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
       },
-      "link": "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening"
+      "link": "modi-asean-india-summit-manila-november-16-18"
     },
     {
       "icon": "calendar-blank",
@@ -473,10 +472,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "October wholesale price inflation (WPI) data due from the commerce ministry",
-        "hi": "वाणिज्य मंत्रालय से अक्टूबर के थोक मूल्य सूचकांक (डब्ल्यूपीआई) महंगाई के आंकड़े आने हैं"
+        "en": "IMD expects the depression to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
       },
-      "link": "wpi-inflation-october-data-due-monday-rbi-december"
+      "link": "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday"
     },
     {
       "icon": "calendar-blank",
@@ -485,10 +484,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Rahul Gandhi's fireside chat at Columbia University",
-        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
+        "en": "IPL 2027 retention deadline, after Hardik Pandya and Arshdeep Singh swapped teams",
+        "hi": "आईपीएल 2027 के लिए रिटेंशन की आखिरी तारीख, हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली के बाद"
       },
-      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
+      "link": "hardik-pandya-punjab-kings-arshdeep-mumbai-indians-trade-ipl-2027"
     },
     {
       "icon": "calendar-blank",
@@ -497,10 +496,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Hong Kong Open begins, the last qualifying event for the BWF World Tour Finals",
-        "hi": "हांगकांग ओपन शुरू, बीडब्ल्यूएफ वर्ल्ड टूर फाइनल्स का आखिरी क्वालिफाइंग टूर्नामेंट"
+        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
+        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
       },
-      "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
+      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
     },
     {
       "icon": "calendar-blank",
@@ -528,23 +527,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T17:42:51+05:30",
-      "ids": [
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-        "ppf-sukanya-scss-nsc-interest-rates-october-december-2026",
-        "pm-kisan-25th-instalment-date-status-ekyc-explained",
-        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
-        "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda",
-        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
-      ]
-    },
     {
       "at": "2026-11-15T18:38:35+05:30",
       "ids": [
@@ -660,19 +642,24 @@
         "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
         "hormuz-three-tankers-mines-predator-qeshm-brent-india"
       ]
+    },
+    {
+      "at": "2026-11-16T01:51:55+05:30",
+      "ids": [
+        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
+        "farmer-id-explained-digital-agriculture-mission",
+        "msp-explained-how-set-who-benefits",
+        "wpi-inflation-october-data-due-monday-rbi-december",
+        "england-banton-century-adelaide-second-odi-series-level",
+        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
+        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-    "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-    "akvan-track-uncertain-andhra-odisha-imd-saturday",
-    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-    "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-    "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash",
-    "goyal-cairo-us-preferential-access-egypt-jtc",
-    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
-  ]
+  "drop": []
 }
