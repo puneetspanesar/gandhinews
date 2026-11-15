@@ -1,0 +1,24 @@
+{
+ "run": "hourly-00",
+ "start": "2026-11-16T00:04:44+05:30",
+ "end": "2026-11-16T00:44:00+05:30",
+ "summary": "Cyclone Akvan very severe forecast leads; 4 new stories",
+ "new": [
+  "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+  "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
+  "england-banton-century-adelaide-second-odi-series-level",
+  "wpi-inflation-october-data-due-monday-rbi-december"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Ropuiliani past-event preview, two Ukraine talks stories in Must Read, Kaziranga infographic card in Explained",
+   "done": "refresh_home --drop modi-ropuiliani. Not done: Kushner kept (dropping it left a 181px gap in Hindi Must Read); Kaziranga card kept (refresh_home rebuilds startHere and no crash photo exists)."
+  }
+ ],
+ "breaches": [],
+ "lead": "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening"
+}

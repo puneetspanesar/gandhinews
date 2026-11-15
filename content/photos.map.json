@@ -52334,7 +52334,20 @@
   "licence": "CC BY 2.0",
   "alt": "Joe Root (file photo)",
   "alt_hi": "जो रूट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Joe_Root_HIP1487.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Joe_Root_HIP1487.jpg",
+  "treated": {
+   "src": "/photos/t-england-banton-century-adelaide-second-odi-series-level-1280.jpg",
+   "src800": "/photos/t-england-banton-century-adelaide-second-odi-series-level-640.jpg",
+   "cutout": true,
+   "with": [
+    "england-name-squads-australia-white-ball-tour-rew-bethell",
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "renshaw-puts-australia-on-top-in-durban-test"
+   ],
+   "kind": "photo",
+   "subj": "ffefcfefefc38383",
+   "credit": "Photos: University of Wolverhampton / Wikimedia Commons; Ben Marsh / Wikimedia Commons; Phillip Capper / Wikimedia Commons; Marc Forrest / Wikimedia Commons"
+  }
  },
  "wpi-inflation-october-data-due-monday-rbi-december": {
   "id": "r-wpi-inflation-october-data-due-monday-rbi-december",
@@ -52346,7 +52359,20 @@
   "licence": "CC BY 3.0",
   "alt": "The Reserve Bank of India building on Mint Road, Mumbai (file photo)",
   "alt_hi": "मुंबई के मिंट रोड पर भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_reserve_bank_of_india_02.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_reserve_bank_of_india_02.jpg",
+  "treated": {
+   "src": "/photos/t-wpi-inflation-october-data-due-monday-rbi-december-1280.jpg",
+   "src800": "/photos/t-wpi-inflation-october-data-due-monday-rbi-december-640.jpg",
+   "cutout": false,
+   "with": [
+    "retail-inflation-october-2026-6-09-two-year-high",
+    "finance-ministry-idbi-2003-parliament-assurance-not-binding",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "photo",
+   "subj": "ffffffc686040404",
+   "credit": "Photos: Sailko / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry": {
   "id": "o-amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
@@ -52359,7 +52385,20 @@
   "licence": "GODL-India",
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs,_in_New_Delhi_on_June_01,_2019.jpg",
+  "treated": {
+   "src": "/photos/t-amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-1280.jpg",
+   "src800": "/photos/t-amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-640.jpg",
+   "cutout": true,
+   "with": [
+    "8th-pay-commission-explained-salary-pension-fitment-factor",
+    "rupee-slips-12-paise-94-93-brent-fii-selling-october-23",
+    "isro-four-launch-pads-2029-narayanan-not-privatised"
+   ],
+   "kind": "photo",
+   "subj": "18180f0f3f7f7f",
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons; Hawkeye190305 / Wikimedia Commons"
+  }
  },
  "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening": {
   "id": "r-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
@@ -52371,6 +52410,19 @@
   "licence": "CC BY 4.0",
   "alt": "A house in Andhra Pradesh destroyed by an earlier cyclone (file photo)",
   "alt_hi": "आंध्र प्रदेश में पिछले चक्रवात से ढहा एक घर (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png",
+  "treated": {
+   "src": "/photos/t-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening-1280.jpg",
+   "src800": "/photos/t-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening-640.jpg",
+   "cutout": false,
+   "with": [
+    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
+    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
+    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2"
+   ],
+   "kind": "photo",
+   "subj": "f2e0e0c08180387d",
+   "credit": "Photos: Channel Aid (channelaid89) / Wikimedia Commons; Saiphani02 / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons"
+  }
  }
 }

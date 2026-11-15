@@ -53192,16 +53192,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:The_Union_Home_Minister,_Shri_Amit_Shah,_in_New_Delhi_on_August_19,_2019_(cropped).jpg"
  },
  {
-  "id": "o-england-banton-century-adelaide-second-odi-series-level",
-  "articleId": "england-banton-century-adelaide-second-odi-series-level",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Joe_Root_HIP1487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: University of Wolverhampton / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Joe Root (file photo)",
-  "alt_hi": "जो रूट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Joe_Root_HIP1487.jpg"
- },
- {
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mumbai%2C_reserve_bank_of_india_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "credit": "Photo: Sailko / Wikimedia Commons",
   "licence": "CC BY 3.0",
@@ -53230,5 +53220,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png",
   "id": "r-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
   "articleId": "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening"
+ },
+ {
+  "id": "o-england-banton-century-adelaide-second-odi-series-level",
+  "articleId": "england-banton-century-adelaide-second-odi-series-level",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Joe_Root_HIP1487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: University of Wolverhampton / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Joe Root (file photo)",
+  "alt_hi": "जो रूट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Joe_Root_HIP1487.jpg"
  }
 ]
