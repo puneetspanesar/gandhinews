@@ -1,0 +1,65 @@
+{
+  "r1": {
+    "query": "drought Rajasthan village water",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Chand Baori one of the largest stepwells.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Chand_Baori_one_of_the_largest_stepwells.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chand_Baori_one_of_the_largest_stepwells.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4176,
+        "height": 2784,
+        "licence": "CC BY-SA 4.0",
+        "author": "Siddharth tiwari",
+        "credit": "Own work",
+        "date": "2017-03-28 05:03:36",
+        "description": "one of the largest stepwell Chandbaori of old times name after ruler chand near harshat mata temple at abhaneri village dausa rajasthan . used for storage of water which is very valuable during drough",
+        "thumb": "r1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chand_Baori_one_of_the_largest_stepwells.jpg/1600px-Chand_Baori_one_of_the_largest_stepwells.jpg"
+      }
+    ]
+  },
+  "r2": {
+    "query": "Thar desert dry pond cattle",
+    "candidates": []
+  },
+  "r3": {
+    "query": "Rajasthan famine relief work",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Sethani Ka Johara.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sethani_Ka_Johara.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sethani_Ka_Johara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 5400,
+        "height": 3600,
+        "licence": "CC BY-SA 4.0",
+        "author": "Sharvarism",
+        "credit": "Own work",
+        "date": "2023-02-16 13:15:02",
+        "description": "Sethani Ka Johara, is a reservoir made by the widow of Bhagwan Das Bagla at the time of a terrible famine that hit the region in the year 1899, it was one of the most successful famine-relief projects",
+        "thumb": "r3-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sethani_Ka_Johara.jpg/1600px-Sethani_Ka_Johara.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Spectacular Sethani Ka Johara.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Spectacular_Sethani_Ka_Johara.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Spectacular_Sethani_Ka_Johara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 5400,
+        "height": 3600,
+        "licence": "CC BY-SA 4.0",
+        "author": "Sharvarism",
+        "credit": "Own work",
+        "date": "2023-02-16 13:08:29",
+        "description": "Sethani Ka Johara, is a reservoir made by the widow of Bhagwan Das Bagla at the time of a terrible famine that hit the region in the year 1899, it was one of the most successful famine-relief projects",
+        "thumb": "r3-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Spectacular_Sethani_Ka_Johara.jpg/1600px-Spectacular_Sethani_Ka_Johara.jpg"
+      }
+    ]
+  },
+  "k1": {
+    "query": "Khemchand Singh Manipur",
+    "candidates": []
+  }
+}
