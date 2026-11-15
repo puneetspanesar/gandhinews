@@ -31110,7 +31110,8 @@
     "src": "/photos/c-hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties-hi-1280.jpg",
     "src800": "/photos/c-hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties-hi-640.jpg"
    }
-  }
+  },
+  "notile": true
  },
  "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties--bg": {
   "id": "v-hpcl-visakhapatnam-refinery-blast-fire-doused-no-casual-bg",
@@ -51225,7 +51226,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped_squarely).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped_squarely).jpg",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "telangana-roll-revision-must-not-erase-voters-quietly",
+    "amit-shah-revanth-telangana-atm-congress-evm-hyderabad--p1",
+    "eci-form-6-press-note-taken-down-claim"
+   ],
+   "kind": "portrait",
+   "subj": "f7e3e3e3c3c1c1c1",
+   "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; Photo Division, Ministry of Information & Broadcasting, Government of India / Wikimedia Commons; Wasiul Bahar / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons"
+  }
  },
  "ninth-schedule-explained-karnataka-sc-st-quota-article-31b": {
   "id": "o-ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
@@ -51444,13 +51458,13 @@
    "src800": "/photos/t-kushner-direct-russia-europe-talks-ukraine-next-trilateral-a-640.jpg",
    "cutout": true,
    "with": [
+    "kyiv-draft-office-shooting-six-injured",
     "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
-    "iom-warns-millions-ukrainians-displacement-winter",
-    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+    "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm"
    ],
    "kind": "photo",
    "subj": "c3d3d39b93038b89",
-   "credit": "Photos: U.S. Embassy Jerusalem / Wikimedia Commons; Shyam peelery / Wikimedia Commons; Oleg Seliverstov / Wikimedia Commons; Rotafinus / Wikimedia Commons"
+   "credit": "Photos: U.S. Embassy Jerusalem / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
   }
  },
  "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters": {

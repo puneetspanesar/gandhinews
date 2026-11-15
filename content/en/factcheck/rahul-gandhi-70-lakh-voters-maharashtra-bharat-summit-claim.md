@@ -5,6 +5,7 @@ type: factcheck
 section: politics
 format_label: Fact check / Electoral rolls
 topics: [electoral-rolls-sir, election-commission]
+location: Hyderabad, Telangana
 title: "Rahul Gandhi's '70 lakh new voters in Maharashtra' is misleading: the rolls grew by 41 lakh, and 69 lakh is the rise in votes cast"
 standfirst: "At the Bharat Summit in Hyderabad the Congress leader said about 70 lakh voters were added in Maharashtra between the Lok Sabha and Assembly polls of 2024. The Election Commission's own roll figures give a gap of about 41 lakh."
 published: 2026-11-15T06:43:30+05:30
