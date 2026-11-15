@@ -1,14 +1,9 @@
 {
  "run": "hourly-00",
  "start": "2026-11-16T00:04:44+05:30",
- "end": "2026-11-16T00:44:00+05:30",
- "summary": "Cyclone Akvan very severe forecast leads; 4 new stories",
- "new": [
-  "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-  "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
-  "england-banton-century-adelaide-second-odi-series-level",
-  "wpi-inflation-october-data-due-monday-rbi-december"
- ],
+ "end": "2026-11-16T00:58:35+05:30",
+ "summary": "editor notes for the next run",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
