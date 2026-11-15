@@ -1,0 +1,21 @@
+{
+ "run": "stall-17",
+ "start": "2026-11-15T17:15:13+05:30",
+ "end": "2026-11-15T17:45:38+05:30",
+ "summary": "New lead: Goyal in Cairo on US preferential access; homepage cleaned after missed 15:00 and 16:00 runs",
+ "new": [
+  "goyal-cairo-us-preferential-access-egypt-jtc"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "goyal-cairo-us-preferential-access-egypt-jtc",
+   "why": "The figures match the sources ($5.04 bn up 64%, $3.87 bn, $2.60 bn, 130+, 7th JTC, Mohamed Farid Saleh, Goyal's quotes). But the story prints a direct quote from the senior official, \"We will have to see how the tariff framework unfolds\", that none of the listed sources contains. ETV Bharat and The Hans India only paraphrase it (the advantage depends on the framework eventually agreed). The story also says that official 'spoke days earlier', but ETV Bharat carries the remark in its November 15 report. The Vietnam comparison ('a final rate comparable with competitors such as Vietnam', repeated in 'Why it matters') appears in no listed source. The same applies in Hindi.",
+   "done": "Official's quote turned into a paraphrase, 'days earlier' dropped, both Vietnam lines removed, unsourced November 16 schedule cut to 'visit ends on November 16' (EN and HI, upcoming line too)."
+  }
+ ],
+ "breaches": [],
+ "lead": "goyal-cairo-us-preferential-access-egypt-jtc"
+}

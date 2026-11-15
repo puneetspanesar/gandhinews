@@ -51974,6 +51974,17 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Commerce and Industry Minister Piyush Goyal speaks at a G20 Startup20 meeting in Gurugram, 2023 (file photo)",
   "alt_hi": "गुरुग्राम में 2023 की जी20 स्टार्टअप20 बैठक में बोलते वाणिज्य एवं उद्योग मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:G20_Summit,_Gurugram_2023_-_Piyush_Goyal_(Union_Minister,_India).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:G20_Summit,_Gurugram_2023_-_Piyush_Goyal_(Union_Minister,_India).jpg",
+  "treated": {
+   "src": "/photos/t-goyal-cairo-us-preferential-access-egypt-jtc-1280.jpg",
+   "src800": "/photos/t-goyal-cairo-us-preferential-access-egypt-jtc-640.jpg",
+   "cutout": true,
+   "with": [
+    "us-midterms-2026-explained-what-is-at-stake"
+   ],
+   "kind": "photo",
+   "subj": "f1f1f991f1f9e9e",
+   "credit": "Photos: Shariquejamalworld / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+  }
  }
 }
