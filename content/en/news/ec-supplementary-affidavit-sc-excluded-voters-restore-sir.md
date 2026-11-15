@@ -34,7 +34,7 @@ infographic:
 related: [ec-fresh-window-electors-missing-sir-draft-rolls-seven-states, supreme-court-delhi-sir-form-6-ec-clarification-cji-mention, delhi-high-court-form-6-sir-deleted-voters-ec, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
   title: "EC tells Supreme Court how SIR-excluded voters can return"
-  description: "The Election Commission's November 14, 2026 supplementary affidavit lets voters dropped in the SIR return with the same EPIC numbers; movers within a state need no Form 8."
+  description: "The Election Commission's November 14, 2026, supplementary affidavit lets voters dropped in the SIR return with the same EPIC numbers; movers within a state need no Form 8."
 sources:
   - title: "In New Affidavit, Election Commission Assures SC of Measures to Re-Enrol Wrongly Excluded Voters"
     publisher: "The Wire"

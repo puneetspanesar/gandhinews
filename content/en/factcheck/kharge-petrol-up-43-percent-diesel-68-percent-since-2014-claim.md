@@ -62,14 +62,14 @@ verification:
   notes:
     - "PPAC 2014 Delhi table opened and read (rows 16.04.14 petrol 71.41, 07.06.14 petrol 71.51, 16.05.14 diesel 56.71, 01.06.14 diesel 57.28, 16.12.14 petrol 61.33 diesel 50.51). No petrol row for May 2014 in the table; the nearest are April 16 and June 7."
     - "PPAC's current metro-price page opened but its 2026 price is in a PDF that could not be read. The current Delhi price (petrol Rs 102.12, diesel Rs 95.20) is from a Nov 15 daily listing, not from PPAC; treat as secondary."
-    - "Kharge's 43% and 68% are from a May 26, 2026 report of the Congress statement; the exact date and venue of the statement were not given. The claim was made after the May hikes, so the percentages today differ from the day he spoke; we checked the claim against today's price."
+    - "Kharge's 43% and 68% are from a May 26, 2026, report of the Congress statement; the exact date and venue of the statement were not given. The claim was made after the May hikes, so the percentages today differ from the day he spoke; we checked the claim against today's price."
     - "Arithmetic: 102.12/71.41 = 1.430; 102.12/71.51 = 1.428; 95.20/56.71 = 1.679; 95.20/57.28 = 1.662. Rating Mostly true because the numbers hold but the choice of base month matters."
     - "Not checked: how much of the rise is central or state tax and how much is crude oil. No tax or crude data were opened."
 ---
 
 ## What we found
 
-Mallikarjun Kharge's figures are **mostly true**. The official Delhi price series from the Petroleum Planning and Analysis Cell (PPAC) shows petrol at Rs 71.41 a litre on April 16, 2014 and Rs 71.51 on June 7, 2014, with diesel at Rs 56.71 on May 16, 2014. A Delhi listing for November 15, 2026 gives **Rs 102.12 for petrol and Rs 95.20 for diesel**. That is a rise of about 43% for petrol and about 68% for diesel.
+Mallikarjun Kharge's figures are **mostly true**. The official Delhi price series from the Petroleum Planning and Analysis Cell (PPAC) shows petrol at Rs 71.41 a litre on April 16, 2014, and Rs 71.51 on June 7, 2014, with diesel at Rs 56.71 on May 16, 2014. A Delhi listing for November 15, 2026, gives **Rs 102.12 for petrol and Rs 95.20 for diesel**. That is a rise of about 43% for petrol and about 68% for diesel.
 
 The claim hides a choice, though. The same PPAC table has petrol at Rs 61.33 and diesel at Rs 50.51 by December 16, 2014, after prices fell in the second half of that year. From that low, petrol is up about 67% and diesel about 88%.
 
@@ -89,7 +89,7 @@ PPAC's table of Delhi retail prices lists revisions through 2014. Petrol was Rs 
 
 ### 2. Today's prices
 
-A daily listing dated November 15, 2026 gives Rs 102.12 for petrol and Rs 95.20 for diesel in Delhi. PPAC's own page for current prices points to a PDF we could not read, so this figure is not from the official sheet and should be treated as such.
+A daily listing dated November 15, 2026, gives Rs 102.12 for petrol and Rs 95.20 for diesel in Delhi. PPAC's own page for current prices points to a PDF we could not read, so this figure is not from the official sheet and should be treated as such.
 
 ### 3. The arithmetic
 

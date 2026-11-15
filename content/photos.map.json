@@ -52245,7 +52245,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Vijay (file photo)",
   "alt_hi": "विजय (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_the_Nadigar_Sangam_Protest.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Vijay_at_the_Nadigar_Sangam_Protest.jpg",
+  "treated": {
+   "src": "/photos/t-tamil-nadu-governor-report-on-law-and-order-must-be-made-pub-1280.jpg",
+   "src800": "/photos/t-tamil-nadu-governor-report-on-law-and-order-must-be-made-pub-640.jpg",
+   "cutout": true,
+   "with": [
+    "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+    "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting",
+    "cec-removal-belongs-in-parliament-call-the-special-session"
+   ],
+   "kind": "photo",
+   "subj": "c3d1d1fbe3e3e3c3",
+   "credit": "Photos: Dani Charles, Silverscreen Media / Wikimedia Commons, CC BY-SA 3.0; McKay Savage from London, UK / Wikimedia Commons; L.vivian.richard at en.wikipedia / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  },
  "kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim": {
   "id": "o-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim",
@@ -52258,6 +52271,18 @@
   "licence": "GODL-India",
   "alt": "Mallikarjun Kharge (file photo)",
   "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways,_in_New_Delhi_on_June_19,_2013_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways,_in_New_Delhi_on_June_19,_2013_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-cla-1280.jpg",
+   "src800": "/photos/t-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-cla-640.jpg",
+   "cutout": true,
+   "with": [
+    "bills-in-parliament-tracker",
+    "pac-examines-sc-scholarship-schemes-cag-report"
+   ],
+   "kind": "photo",
+   "subj": "207672f3f7f7e",
+   "credit": "Photos: Ministry of Railways / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
+  }
  }
 }
