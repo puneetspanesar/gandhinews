@@ -33,7 +33,7 @@ infographic:
   stats:
     - {icon: handshake, value: "Feb 2026", label: "framework for the first phase of the trade agreement finalised"}
     - {icon: globe, value: "Mar 2027", label: "end of the financial year, the target to close the first tranche"}
-  timeline: {title: "How the deal got here", items: [{date: "Aug 2025", text: "US tariffs of up to 50% on most Indian goods", icon: warning}, {date: "Feb 2026", text: "Framework agreed, rate cut to 18%", icon: handshake}, {date: "Oct 20, 2026", text: "Rubio says deal is 'about as close as you can be'", icon: globe}, {date: "Nov 14, 2026", text: "Jaishankar says talks are in the 'last stretch'", icon: scales}, {date: "Nov 15, 2026", text: "Goyal says preferential access already agreed", icon: bank}]}
+  timeline: [{date: "Aug 2025", text: "US tariffs of up to 50% on most Indian goods", icon: warning}, {date: "Feb 2026", text: "Framework agreed, rate cut to 18%", icon: handshake}, {date: "Oct 20, 2026", text: "Rubio says deal is 'about as close as you can be'", icon: globe}, {date: "Nov 14, 2026", text: "Jaishankar says talks are in the 'last stretch'", icon: scales}, {date: "Nov 15, 2026", text: "Goyal says preferential access already agreed", icon: bank}]
   source: "Commerce Ministry and ministers' statements, November 15, 2026"
 seo:
   title: "Goyal: US to give India lower duties than rivals"

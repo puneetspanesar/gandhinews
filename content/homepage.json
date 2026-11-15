@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+    "id": "goyal-cairo-us-preferential-access-egypt-jtc",
     "overlay": {
       "kicker": {
-        "en": "World / United States",
-        "hi": "दुनिया / अमेरिका"
+        "en": "Economy / Trade",
+        "hi": "अर्थव्यवस्था / व्यापार"
       },
       "value": {
-        "en": "Senate wants Huang and Lutnick",
-        "hi": "सीनेट को चाहिए हुआंग, लटनिक"
+        "en": "Lower US duties than rivals, says Goyal",
+        "hi": "प्रतिस्पर्धियों से कम शुल्क: गोयल"
       },
       "text": {
         "en": "",
@@ -17,20 +17,33 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "us-chip-export-controls-explained-nvidia-megaspeed-congress-bills"
+      "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+      "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+      "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
     ],
     "relatedBeside": [
-      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
+      "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
     ],
     "live": {
       "title": {
-        "en": "United States",
-        "hi": "अमेरिका"
+        "en": "Trade",
+        "hi": "व्यापार"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "Senate Banking Committee asks Jensen Huang and Commerce Secretary Lutnick to testify on Nvidia chip exports",
+          "hi": "अमेरिकी सीनेट की बैंकिंग समिति ने जेन्सन हुआंग और वाणिज्य मंत्री लटनिक से एनवीडिया चिप निर्यात पर गवाही मांगी"
+        }
+      },
       {
         "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
         "lead": {
@@ -107,17 +120,6 @@
           "en": "Modi to open ₹25.59 crore Ropuiliani museum in Mizoram on Birsa Munda's birth anniversary, the fifth tribal freedom fighters' museum",
           "hi": "बिरसा मुंडा की जयंती पर मोदी मिजोरम में ₹25.59 करोड़ का रोपुइलियानी संग्रहालय खोलेंगे, पांचवां जनजातीय स्वतंत्रता सेनानी संग्रहालय"
         }
-      },
-      {
-        "link": "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "SpaceX catches Starship's Ship 42 with its launch tower after 22.5 hours in orbit, a first",
-          "hi": "स्पेसएक्स ने 22.5 घंटे कक्षा में रहे स्टारशिप के शिप 42 को टावर से पकड़ा, पहली बार"
-        }
       }
     ]
   },
@@ -184,24 +186,24 @@
   },
   "topStories": {
     "big": {
-      "id": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
+      "id": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
       "also": []
     },
     "list": [
+      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
       "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
       "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
       "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-      "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
+      "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
     ],
     "also": [
-      "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-      "kushner-direct-russia-europe-talks-ukraine-next-trilateral-agenda"
+      "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+      "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return"
     ]
   },
   "startHere": [
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "offer-for-sale-explained-mahanadi-coalfields-ipo-coal-india-no-money-for-company",
     "kaziranga-nh715-speed-limit-overloading-explained-golaghat-crash"
   ],
@@ -378,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+      "lead": "goyal-cairo-us-preferential-access-egypt-jtc",
       "module": {
         "type": "markets",
         "indicators": [
@@ -389,9 +391,9 @@
         ]
       },
       "list": [
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
         "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation"
       ]
     },
     {
@@ -459,10 +461,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Fifth ODI, New Zealand v India, Bay Oval, Mount Maunganui, 7:30 am IST",
-        "hi": "पांचवां वनडे, न्यूज़ीलैंड बनाम भारत, बे ओवल, माउंट मौंगानुई, सुबह 7:30 बजे IST"
+        "en": "Amit Shah in Pune: Talegaon Dabhade foundation stone, meetings with BJP, NCP and Shiv Sena leaders",
+        "hi": "अमित शाह पुणे में: तलेगांव दाभाडे में शिलान्यास, भाजपा, एनसीपी और शिवसेना नेताओं से मुलाकात"
       },
-      "link": "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale"
+      "link": "amit-shah-pune-mumbai-visit-ncp-merger-mahayuti"
     },
     {
       "icon": "calendar-blank",
@@ -471,10 +473,10 @@
         "hi": "आज"
       },
       "text": {
-        "en": "Kumamoto Masters men's singles final: Lakshya Sen v Koki Watanabe or Kunlavut Vitidsarn",
-        "hi": "कुमामोतो मास्टर्स पुरुष एकल फाइनल: लक्ष्य सेन बनाम कोकी वातानाबे या कुनलावुत विटिदसर्न"
+        "en": "PM Modi inaugurates the Ropuiliani Tribal Freedom Fighters Museum in Mizoram by video, with the Gadchiroli event at 11 am",
+        "hi": "प्रधानमंत्री मोदी वीडियो के जरिये मिजोरम में रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन करेंगे, गढ़चिरौली कार्यक्रम सुबह 11 बजे"
       },
-      "link": "lakshya-sen-alwi-farhan-kumamoto-masters-semifinal-final-sunday"
+      "link": "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
     },
     {
       "icon": "calendar-blank",
@@ -483,10 +485,10 @@
         "hi": "कल"
       },
       "text": {
-        "en": "IMD expects the Bay of Bengal system to become Cyclone Akvan by evening",
-        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बन जाएगा"
+        "en": "IMD expects the Bay of Bengal low to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का निम्न दबाव शाम तक चक्रवात अकवान बन जाएगा"
       },
-      "link": "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21"
+      "link": "akvan-track-uncertain-andhra-odisha-imd-saturday"
     },
     {
       "icon": "calendar-blank",
@@ -495,10 +497,22 @@
         "hi": "कल"
       },
       "text": {
-        "en": "PM Modi leaves for the ASEAN-India summit in Manila (November 16 to 18)",
-        "hi": "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन के लिए रवाना (16 से 18 नवंबर)"
+        "en": "Syed Mushtaq Ali Trophy: Bihar, captained by Vaibhav Sooryavanshi, play Railways, according to reports",
+        "hi": "सैयद मुश्ताक अली ट्रॉफी: खबरों के मुताबिक वैभव सूर्यवंशी की कप्तानी में बिहार का सामना रेलवे से"
       },
-      "link": "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
+      "link": "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 17",
+        "hi": "17 नवंबर"
+      },
+      "text": {
+        "en": "Rahul Gandhi's fireside chat at Columbia University",
+        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
+      },
+      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     },
     {
       "icon": "calendar-blank",
@@ -511,18 +525,6 @@
         "hi": "हांगकांग ओपन शुरू, बीडब्ल्यूएफ वर्ल्ड टूर फाइनल्स का आखिरी क्वालिफाइंग टूर्नामेंट"
       },
       "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 17",
-        "hi": "17 नवंबर"
-      },
-      "text": {
-        "en": "Tangkhul Naga Long's three-day ultimatum to the Centre and Manipur ends",
-        "hi": "तांगखुल नागा लोंग का केंद्र और मणिपुर सरकार को दिया तीन दिन का अल्टीमेटम खत्म"
-      },
-      "link": "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review"
     }
   ],
   "headlineHistory": [
@@ -637,18 +639,20 @@
       ]
     },
     {
-      "at": "2026-11-15T17:13:58+05:30",
+      "at": "2026-11-15T17:24:12+05:30",
       "ids": [
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting",
         "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "us-chip-export-controls-explained-nvidia-megaspeed-congress-bills",
         "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
         "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
         "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
         "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
         "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
+        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
       ]
     }
   ],
