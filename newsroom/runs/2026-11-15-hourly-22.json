@@ -1,16 +1,10 @@
 {
  "run": "hourly-22",
  "start": "2026-11-15T22:05:52+05:30",
- "end": "2026-11-15T22:46:07+05:30",
- "summary": "EC SIR affidavit lead, TN Governor editorial, Kharge fuel fact check; Suvendu encounter story held",
- "new": [
-  "tamil-nadu-governor-report-on-law-and-order-must-be-made-public",
-  "kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim",
-  "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
- ],
- "held": [
-  "suvendu-ratan-sheikh-encounter-birbhum-nanoor-fifth-six-months"
- ],
+ "end": "2026-11-15T22:59:01+05:30",
+ "summary": "collages for the 22:00 pieces",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [],
  "fixed_by_run": null,

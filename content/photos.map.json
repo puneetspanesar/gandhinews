@@ -52232,7 +52232,20 @@
   "licence": "GODL-India",
   "alt": "Gyanesh Kumar (file photo)",
   "alt_hi": "ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg",
+  "treated": {
+   "src": "/photos/t-ec-supplementary-affidavit-sc-excluded-voters-restore-sir-1280.jpg",
+   "src800": "/photos/t-ec-supplementary-affidavit-sc-excluded-voters-restore-sir-640.jpg",
+   "cutout": true,
+   "with": [
+    "ec-fresh-window-electors-missing-sir-draft-rolls-seven-states",
+    "golaghat-minibus-had-unpaid-speeding-fines-the-supreme-court-order-must-reach-the-road",
+    "sambit-patra-varanasi-sir-deletion-not-theft-13-crore--p1"
+   ],
+   "kind": "photo",
+   "subj": "808081c3e7f7f",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Nilanjan Chowdhury / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons"
+  }
  },
  "tamil-nadu-governor-report-on-law-and-order-must-be-made-public": {
   "id": "o-tamil-nadu-governor-report-on-law-and-order-must-be-made-public",
