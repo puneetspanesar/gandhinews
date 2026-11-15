@@ -52085,5 +52085,87 @@
    "subj": "dfcf8787879fff",
    "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons"
   }
+ },
+ "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia": {
+  "id": "o-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+  "src": "/photos/o-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia-1280.jpg",
+  "src800": "/photos/o-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1041,
+  "credit": "Photo: Indian Embassy in Seoul, South Korea / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhagwant Mann (file photo)",
+  "alt_hi": "भगवंत मान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg"
+ },
+ "suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures": {
+  "id": "o-suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures",
+  "src": "/photos/o-suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures-1280.jpg",
+  "src800": "/photos/o-suvendu-adhikari-jhargram-birsa-munda-jayanti-tribal-measures-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 824,
+  "credit": "Photo: PRS India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Suvendu Adhikari (file photo)",
+  "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Suvendu_Adhikariji.jpg"
+ },
+ "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday": {
+  "id": "o-vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+  "src": "/photos/o-vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday-1280.jpg",
+  "src800": "/photos/o-vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday-640.jpg",
+  "width": 1280,
+  "height": 961,
+  "srcWidth": 2823,
+  "credit": "Photo: NASA/Ben Smegelsky / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "ULA Vulcan Centaur rocket on the launch pad at Cape Canaveral (file photo)",
+  "alt_hi": "केप कैनावेरल में लॉन्च पैड पर यूएलए का वल्कन सेंटॉर रॉकेट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Vulcan_Centaur_rollout_(Peregrine)_(cropped_2).jpg"
+ },
+ "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday": {
+  "id": "i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+  "src": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-en-3x2-1280.jpg",
+  "src800": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Second drone attack on Bahrain in three days",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तीन दिन में बहरीन पर दूसरा ड्रोन हमला",
+  "page": null,
+  "ihash": "69128c7bd042",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-hi-3x2-1280.jpg",
+    "src800": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-en-t-1280.jpg",
+    "src800": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-hi-t-1280.jpg",
+    "src800": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-en-1280.jpg",
+    "src800": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-hi-1280.jpg",
+    "src800": "/photos/i-iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free licensed photo of the Riffa attack or IRGC drones (only an Iranian news-agency photo); library, quick_photo, finder h1520"
  }
 }
