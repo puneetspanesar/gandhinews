@@ -4,7 +4,16 @@ Every scheduled run (hourly, long-form, stall check) follows this file plus its 
 
 The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare deploys every push to main, but only if `npm run build` passes: the build ends with scripts/check-links.mjs and scripts/gate.mjs, so a build that breaks a hard rule is never deployed and the last good site stays live.
 
-## A. The owner's rules (never break)
+## OWNER'S RULES, NOVEMBER 16, 2026 (search recovery). These come first and override every other rule in every runbook.
+Google stopped showing the site on November 12 and dropped pages that had ranked: a new domain publishing about 50 AI-assisted stories a day looks like scaled content. The fix is fewer, stronger, original stories.
+- VOLUME: about 12 English pieces a day, never more than 18. Three writing runs a day (8:03 am, 1:03 pm, 6:03 pm IST), 3 news stories each (at least 2), and one long-form run (6:35 am: 1 explainer, 1 editorial, 1 fact check). The odd-hour lead runs, the evening long-form run and the opinion desk inside writing runs are stopped.
+- QUALITY OVER COUNT: choose the stories where we add something a reader cannot get elsewhere (what the primary record actually says, the figure in context, the history, what happens next). Explainers and original angles are what ranked; quick rewrites of a single report are not written at all. A run that finds only 2 stories worth writing publishes 2.
+- ONE PAGE PER STORY: before writing, check content/en (all sections, last 7 days) for a story on the same subject. A new development of a story we already have UPDATES that story (new facts high up, the headline and standfirst if the news changed, `updated:` set to now, in both languages); it is not a new page. A new id only for a genuinely separate event (a different decision, a new incident, a court ruling after a hearing story) whose headline would stand on its own. Never two pages that a reader would see as the same story.
+- THE LEAD is the newest lead-worthy story with a real photo and may be up to 16 hours old (the overnight gap); it stays until a newer one exists. This replaces the 2-hour rule of November 12.
+- HEADLINES NO LONGER CHANGE EVERY HOUR: the homepage changes when a run publishes. This replaces rules 13, 13a and 15 below and the hourly rotation; the rotation job is off.
+- BYLINE: stories keep "From the editorial desk" with "Edited by Puneet Panesar" linking to /editor/ (already in Byline.astro and the structured data); keep both.
+
+## A. The owner's rules (never break; the November 16 rules above win where they differ)
 Writing
 1. Byline "From the editorial desk". Our own voice. Never name or credit a media outlet to readers; sources live in the front matter `sources:` only.
 2. No em dashes anywhere, English or Hindi (the gate fails new stories that have one). En dashes only in number ranges written as "to".
@@ -25,10 +34,10 @@ Pictures
 12. Credits come from the photo's page, cleaned (gnrules.clean_credit). No "{{", "&amp;", licence boilerplate or uploader phrases.
 
 Homepage (refresh_home.py does the mechanics, check_fresh.py is the counter check)
-13. EVERY HEADLINE CHANGES EVERY HOUR: the lead, the live band, the stories beside the lead, the top stories and the briefing are all different stories from the previous hour's homepage. Only nation- or world-changing news may stay, and only as an update: either a new development story (its own id), or the same story with new facts and a new `updated:` time, passed as `refresh_home.py --critical <id>`. refresh_home.py rotates the headlines itself; check_fresh.py checks it against main's homepage of the previous hour in git.
-13a. THE LEAD IS NEVER MORE THAN 2 HOURS OLD, UNDER ANY CIRCUMSTANCE (owner, November 12; counted from the story's `published:` time). It is the biggest story in India of the last 2 hours, never a markets story, with a real photo. This outranks "the lead changes every hour" and "a story leads only once": a lead under 2 hours old stays until a newer lead-worthy story exists. refresh_home.py picks it; check_fresh.py and audit.py fail a homepage whose lead is over 2 hours old, so every run publishes a lead-worthy story with a real photo (or a lead_cover.py cover of 2-3 real photos). To keep this true the writing run is hourly: full runs at even hours, lead runs at odd hours (RUNBOOK-HOURLY.md).
+13. (REPLACED November 16: headlines change when a run publishes; see the top of this file.) EVERY HEADLINE CHANGES EVERY HOUR: the lead, the live band, the stories beside the lead, the top stories and the briefing are all different stories from the previous hour's homepage. Only nation- or world-changing news may stay, and only as an update: either a new development story (its own id), or the same story with new facts and a new `updated:` time, passed as `refresh_home.py --critical <id>`. refresh_home.py rotates the headlines itself; check_fresh.py checks it against main's homepage of the previous hour in git.
+13a. (REPLACED November 16: the lead may be up to 16 hours old; see the top of this file.) THE LEAD IS NEVER MORE THAN 2 HOURS OLD, UNDER ANY CIRCUMSTANCE (owner, November 12; counted from the story's `published:` time). It is the biggest story in India of the last 2 hours, never a markets story, with a real photo. This outranks "the lead changes every hour" and "a story leads only once": a lead under 2 hours old stays until a newer lead-worthy story exists. refresh_home.py picks it; check_fresh.py and audit.py fail a homepage whose lead is over 2 hours old, so every run publishes a lead-worthy story with a real photo (or a lead_cover.py cover of 2-3 real photos). To keep this true the writing run is hourly: full runs at even hours, lead runs at odd hours (RUNBOOK-HOURLY.md).
 14. Top headlines: news from the last 24 hours, at most ONE markets story, at most TWO per section in the top eight, never two stories on the same subject side by side, no photo twice.
-15. The site visibly changes every hour: new stories, a refreshed homepage, current markets figures during market hours.
+15. (REPLACED November 16.) The site visibly changes every hour: new stories, a refreshed homepage, current markets figures during market hours.
 16. No empty space, empty slot, camera placeholder, grey text, pill, gradient or shadow anywhere (check_layout.cjs).
 
 Run discipline

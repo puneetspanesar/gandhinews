@@ -25,7 +25,7 @@ for f in glob.glob('content/en/*/*.md'):
     if t.tzinfo and t >= since and '/tracker/' not in f: new.append((os.path.basename(f)[:-3], f.split('/')[2]))
 kinds = {}
 for _, k in new: kinds[k] = kinds.get(k, 0) + 1
-line(len(new) >= 30, f"{len(new)} new stories in 24 hours (limit: at least 30): " + ', '.join(f'{v} {k}' for k, v in sorted(kinds.items())))
+line(8 <= len(new) <= 18, f"{len(new)} new stories in 24 hours (target about 12, between 8 and 18; owner, November 16: fewer, stronger stories): " + ', '.join(f'{v} {k}' for k, v in sorted(kinds.items())))
 news = [i for i, k in new if k == 'news']
 graphic = [i for i in news if (M.get(i) or {}).get('graphic')]
 line(len(graphic) * 4 <= max(len(news), 1), f"{len(graphic)} of {len(news)} news stories went up on an infographic (limit: 1 in 4)" + (': ' + ', '.join(graphic[:6]) if graphic else ''))
@@ -41,8 +41,8 @@ for f in sorted(glob.glob('newsroom/runs/*.json'))[-80:]:
     except Exception: continue
     if t >= since: recs.append(d)
 wr = [d for d in recs if str(d.get('run', '')).startswith('hourly')]
-# a lead run (odd hours) writes 1 story; a full run (even hours and midnight) at least 3
-need = lambda d: 1 if (str(d.get('run', ''))[-2:].isdigit() and int(str(d['run'])[-2:]) % 2 == 1) else 3
+# owner, November 16: three writing runs a day (8 am, 1 pm, 6 pm), 3 stories each, at least 2
+need = lambda d: 2
 PUBT = {}
 for f in glob.glob('content/en/*/*.md'):
     m = re.search(r'^published:\s*["\']?([^"\'\n]+)', open(f).read(3000), re.M)
@@ -54,39 +54,24 @@ def nn(d):
     except Exception: return 0
     return sum(1 for t in PUBT.values() if t.tzinfo and a - dt.timedelta(minutes=10) <= t <= b)
 thin = [f"{d['run']} ({nn(d)})" for d in wr if nn(d) < need(d)]
-sched = [h for h in range(24) if h == 0 or 6 <= h <= 23]
+sched = [8, 13, 18]
 done = {str(d.get('run', ''))[-2:] for d in wr}
-HOURLY_FROM = dt.datetime(2026, 11, 12, 20, 0, tzinfo=IST)   # odd-hour lead runs began at 9 pm on November 12
 due = []
 for h in sched:
     t = now.replace(hour=h, minute=50, second=0, microsecond=0)
     if t > now: t -= dt.timedelta(days=1)
-    if t > since and (h % 2 == 0 or t >= HOURLY_FROM): due.append(f'{h:02d}')
+    if t > since: due.append(f'{h:02d}')
 silent = [h + ':03' for h in due if h not in done]
 line(not silent, f"{len(due) - len(silent)} of {len(due)} writing runs published" + (' (nothing from ' + ', '.join(silent) + ')' if silent else ''))
 lf = [d for d in recs if str(d.get('run', '')).startswith('longform')]
-line(len(lf) >= 2, f"{len(lf)} of 2 long-form runs published")
-line(not thin, f"{len(thin)} writing runs published fewer stories than they should (full runs 3, lead runs 1)" + (': ' + ', '.join(thin) if thin else ''))
+line(len(lf) >= 1, f"{len(lf)} of 1 long-form run published")
+line(not thin, f"{len(thin)} writing runs published fewer than 2 stories" + (': ' + ', '.join(thin) if thin else ''))
 held = sum(len(d.get('held') or []) for d in recs); efail = sum(1 for d in recs if d.get('editor') == 'FAIL' or d.get('editor_fail'))
 line(efail * 3 <= max(len([d for d in recs if d.get('editor')]), 1), f"the editor's first check failed in {efail} of {len([d for d in recs if d.get('editor')])} runs; {held} stories held")
 stall = [d for d in recs if str(d.get('run', '')).startswith('stall')]
 line(len(stall) <= 3, f"the stall check had to step in {len(stall)} times (limit 3)")
 
-# the homepage changed every hour, 7 am to 11 pm
-log = sh('git', 'log', '--since=24 hours ago', '--format=%ct', 'origin/main', '--', 'content/homepage.json').stdout.split()
-hours = {dt.datetime.fromtimestamp(int(t), IST).strftime('%d %H') for t in log}
-want = []; t = since.replace(minute=0, second=0, microsecond=0) + dt.timedelta(hours=1)
-while t < now.replace(minute=0, second=0, microsecond=0):
-    if 7 <= t.hour <= 23: want.append(t.strftime('%d %H'))
-    t += dt.timedelta(hours=1)
-miss = [h.split()[1] + ':00' for h in want if h not in hours]
-line(len(miss) <= 1, f"the homepage changed in {len(want) - len(miss)} of {len(want)} hours between 7 am and 11 pm" + (' (no change at ' + ', '.join(miss) + ')' if miss else ''))
-g = sh('gh', 'run', 'list', '--workflow', 'home-rotate.yml', '-L', '100', '--json', 'createdAt,conclusion,event')
-try:
-    runs = [r for r in json.loads(g.stdout) if dt.datetime.fromisoformat(r['createdAt'].replace('Z', '+00:00')) >= since]
-    f = sum(1 for r in runs if r['conclusion'] == 'failure')
-    line(f <= 1, f"GitHub ran the rotation job {len(runs)} times, {f} failed")
-except Exception: ok.append('GitHub rotation job: could not be read from here')
+# (owner, November 16) the homepage no longer has to change every hour; the hourly rotation job is off.
 
 # holds and the live site
 H = [json.load(open(f)) for f in glob.glob('newsroom/held/*.json')]

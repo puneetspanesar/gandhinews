@@ -44,10 +44,10 @@ if live.get('sha') and live['sha'] != main:
             b = sh('npm', 'run', '-s', 'build')
             bad.append('deploy: the build fails here too:\n    ' + '\n    '.join((b.stdout + b.stderr).strip().splitlines()[-15:]))
 
-if 7 <= now.hour:
+if 9 <= now.hour:   # owner, November 16: writing runs at 8 am, 1 pm and 6 pm, so a gap over 6 hours means a missed run
     log = sh('git', 'log', '-30', '--format=%ct %s', 'origin/main').stdout.splitlines()
     last = max([int(l.split()[0]) for l in log if re.search(r'^\d+ (Hourly|Long-form|Stall|Homepage rotation)', l)] or [0])
-    if (now.timestamp() - last) > 75 * 60:
+    if (now.timestamp() - last) > 6 * 3600:
         bad.append(f'runs: no run commit since {dt.datetime.fromtimestamp(last, IST):%B %d %H:%M} (a run was missed or failed before pushing)')
 
 f = sh(sys.executable, 'newsroom/scripts/check_fresh.py')

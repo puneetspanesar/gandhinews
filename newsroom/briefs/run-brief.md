@@ -16,7 +16,7 @@ Use at most the WebSearch calls window.txt allows. Prefer WebFetch: section page
 
 ## Volume rules
 - Before each story: check /home/claude/gn-work/claims.txt and `ls content/en/news content/en/explainer`. Skip anything claimed or already published (unless your desk is told to update it). Then claim it: `echo "slug | DESK | topic" >> /home/claude/gn-work/claims.txt`.
-- Only events inside the window in window.txt (judged by the source's own time stamp). Check `ls -t content/en/news | head -150` so you never repeat a story; a real new development of an older story is a new story with a new id.
+- Only events inside the window in window.txt (judged by the source's own time stamp). Check `ls -t content/en/news | head -150` and grep content/en for the subject so you never repeat a story. Owner, November 16: a new development of a story we already have UPDATES that story in both languages (new facts high up, headline and standfirst if the news changed, `updated:` now); a new id only for a genuinely separate event whose headline stands on its own.
 - A story about something that happens in the next 7 days (a match, a vote, a hearing, a release, a counting day) carries `upcoming: {date: YYYY-MM-DD, en: "<one line>", hi: "<one line in Hindi>"}` in both language files; the homepage's week ahead is built from these.
 - `published:` is the time you write it (`TZ=Asia/Kolkata date -Iseconds`), never a time in the past or the future.
 - Lengths and number of stories: as window.txt and your DESK line say.
