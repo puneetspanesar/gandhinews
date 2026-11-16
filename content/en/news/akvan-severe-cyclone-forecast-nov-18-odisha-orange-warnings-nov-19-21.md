@@ -38,10 +38,6 @@ related: [akvan-track-uncertain-andhra-odisha-imd-saturday, odisha-bay-of-bengal
 seo:
   title: "Cyclone Akvan may turn severe by Nov 18, Odisha on alert"
   description: "The IMD's Saturday update says Akvan could be a severe cyclonic storm around November 18. Odisha has orange warnings for November 19 to 21; landfall is not named."
-upcoming:
-  date: 2026-11-16
-  en: "IMD expects the Bay of Bengal system to become Cyclone Akvan by evening"
-  hi: "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बन जाएगा"
 sources:
   - title: "Odisha braces for heavy to very heavy rain as Cyclone Akvan develops"
     publisher: "Sambad English"

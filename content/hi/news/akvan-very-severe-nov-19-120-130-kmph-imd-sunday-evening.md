@@ -39,10 +39,6 @@ related: [akvan-depression-forms-severe-cyclone-nov-17-imd-sunday, akvan-severe-
 seo:
   title: "चक्रवात अकवान 19 नवंबर तक अति भीषण हो सकता है"
   description: "मौसम विभाग के रविवार के बुलेटिन के अनुसार अकवान 19 नवंबर की सुबह तक 120 से 130 किमी की हवा तक पहुंच सकता है। तट का नाम तय नहीं।"
-upcoming:
-  date: 2026-11-16
-  en: "IMD expects the depression to become Cyclone Akvan by evening"
-  hi: "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
 sources:
   - title: "Possible Cyclone Akvan May Become Very Severe With 145 Kmph Gusts On Nov 19; Heavy Rain To Pound Odisha"
     publisher: "OdishaBytes"

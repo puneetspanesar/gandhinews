@@ -1,0 +1,19 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-16T06:37:02+05:30",
+ "end": "2026-11-16T08:45:01+05:30",
+ "summary": "Long-form morning: 2 explainers, 2 editorials, bamboo fact check, 4 news stories, Modi Manila lead",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+   "why": "Hindi cover timeline ends its last step with 'अध्यक्षता सिंगापुर को', an incomplete sentence with no verb (it reads as cut off); the English cover says 'Singapore takes the chair'. The Hindi infographic does not read correctly.",
+   "done": "Hindi cover step now reads \"अध्यक्षता सिंगापुर को मिलेगी\" and the Hindi cover was re-rendered; it fits the box"
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
+}
