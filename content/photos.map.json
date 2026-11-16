@@ -52436,7 +52436,16 @@
   "licence": "CC BY 2.0",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_at_Vienna_International_Airport_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_at_Vienna_International_Airport_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-tribals-full-rights-over-bamboo-claim-1280.jpg",
+   "src800": "/photos/t-modi-tribals-full-rights-over-bamboo-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
  },
  "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance": {
   "id": "o-hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
@@ -52457,11 +52466,11 @@
    "with": [
     "hormuz-three-tankers-mines-predator-qeshm-brent-india",
     "irgc-supertanker-mine-fire-hormuz-closed",
-    "us-midterms-2026-explained-what-is-at-stake"
+    "iran-hormuz-shut-until-terms-met-irgc-threatens-cables"
    ],
    "kind": "photo",
    "subj": "ffffff1818000000",
-   "credit": "Photos: Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 / Wikimedia Commons; US Navy / Wikimedia Commons; Ali khodabakhsh / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+   "credit": "Photos: Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 / Wikimedia Commons; US Navy / Wikimedia Commons; Ali khodabakhsh / Wikimedia Commons; Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center / Wikimedia Commons"
   }
  },
  "punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-quality-check": {
@@ -52475,7 +52484,16 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A foodgrain godown at Bamanheri, Uttar Pradesh, used by the Food Corporation of India (file photo)",
   "alt_hi": "उत्तर प्रदेश के बामनहेड़ी में भारतीय खाद्य निगम द्वारा इस्तेमाल अनाज गोदाम (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:CWC_Godown,_Bamanheri_operated_by_Food_Corporation_of_India_for_stocking_foodgrains.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:CWC_Godown,_Bamanheri_operated_by_Food_Corporation_of_India_for_stocking_foodgrains.jpg",
+  "treated": {
+   "src": "/photos/t-punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-qua-1280.jpg",
+   "src800": "/photos/t-punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-qua-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "fcf00004feff80f8",
+   "credit": "Photo: Prabhat1729 / Wikimedia Commons"
+  }
  },
  "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings": {
   "id": "o-akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings",
@@ -52495,12 +52513,12 @@
    "cutout": false,
    "with": [
     "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-    "andhra-local-polls-must-start-with-free-nominations",
-    "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart"
+    "naidu-cyclone-murasu-review-cancels-delhi-visit--p1",
+    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2"
    ],
    "kind": "photo",
    "subj": "ffff000000c0d0f8",
-   "credit": "Photos: Adityamadhav83 / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons"
+   "credit": "Photos: Adityamadhav83 / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; IM3847 / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons"
   }
  },
  "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase": {
@@ -52649,12 +52667,10 @@
    "src": "/photos/t-modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves-1280.jpg",
    "src800": "/photos/t-modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves-640.jpg",
    "cutout": false,
-   "with": [
-    "us-midterms-2026-explained-what-is-at-stake"
-   ],
+   "with": [],
    "kind": "photo",
    "subj": "101333132030beff",
-   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons"
   }
  },
  "murasu-andhra-damage-revised-2484-crore-central-team-naidu": {

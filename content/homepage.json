@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+    "id": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
     "overlay": {
       "kicker": {
-        "en": "States / Cyclone Akvan",
-        "hi": "राज्य / चक्रवात अकवान"
+        "en": "Policy / Fuel prices",
+        "hi": "नीति / ईंधन के दाम"
       },
       "value": {
-        "en": "Akvan: rain warnings in six states",
-        "hi": "अकवान: छह राज्यों में बारिश की चेतावनी"
+        "en": "Fuel prices: no cut soon",
+        "hi": "ईंधन के दाम: जल्द कटौती नहीं"
       },
       "text": {
         "en": "",
@@ -17,17 +17,15 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-      "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
-      "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+      "kejriwal-e20-trump-pressure-ethanol-claim"
     ],
     "relatedBeside": [
       "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
     ],
     "live": {
       "title": {
-        "en": "Cyclone Akvan",
-        "hi": "चक्रवात अकवान"
+        "en": "Fuel prices",
+        "hi": "ईंधन के दाम"
       }
     }
   },
@@ -45,17 +43,6 @@
         }
       },
       {
-        "link": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-        "lead": {
-          "en": "Fuel prices:",
-          "hi": "ईंधन के दाम:"
-        },
-        "text": {
-          "en": "No quick cut in petrol and diesel prices: Union minister Suresh Gopi cites ₹42,000 crore oil company losses",
-          "hi": "पेट्रोल-डीजल के दाम तुरंत नहीं घटेंगे: केंद्रीय मंत्री सुरेश गोपी ने तेल कंपनियों के 42,000 करोड़ रुपये के घाटे का हवाला दिया"
-        }
-      },
-      {
         "link": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
         "lead": {
           "en": "Climate:",
@@ -67,6 +54,17 @@
         }
       },
       {
+        "link": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+        "lead": {
+          "en": "Cyclone Akvan:",
+          "hi": "चक्रवात अकवान:"
+        },
+        "text": {
+          "en": "Akvan due to be named today: IMD's rain warnings now reach Tamil Nadu, Bengal and Jharkhand as well as Andhra and Odisha",
+          "hi": "आज बनेगा चक्रवात अकवान: मौसम विभाग की बारिश की चेतावनी अब तमिलनाडु, बंगाल और झारखंड तक, आंध्र और ओडिशा के साथ"
+        }
+      },
+      {
         "link": "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
         "lead": {
           "en": "Southeast Asia:",
@@ -75,6 +73,17 @@
         "text": {
           "en": "ASEAN's 49th summit opens in Manila with Marcos calling for unity as the Gulf war and storms test the Philippine chairship",
           "hi": "मनीला में आसियान का 49वां शिखर सम्मेलन शुरू, मार्कोस ने एकजुटता की अपील की; खाड़ी युद्ध और तूफानों से घिरी रही फिलीपींस की अध्यक्षता"
+        }
+      },
+      {
+        "link": "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Akvan 960 km from Visakhapatnam, Andhra now plans for landfall around November 20 with winds up to 120 km/h",
+          "hi": "अकवान विशाखापत्तनम से 960 किमी दूर, आंध्र को 20 नवंबर के आसपास 120 किमी प्रति घंटा तक की हवा के साथ तट पार करने की तैयारी"
         }
       },
       {
@@ -108,17 +117,6 @@
         "text": {
           "en": "Yemen's government forces pull out of the Bab el-Mandeb area, leaving the Houthis in charge of the Red Sea's southern gate",
           "hi": "यमन की सरकारी सेनाएं बाब-अल-मंदेब इलाके से हटीं, लाल सागर के दक्षिणी द्वार पर हूतियों का दबदबा"
-        }
-      },
-      {
-        "link": "wpi-inflation-october-data-due-monday-rbi-december",
-        "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
-        },
-        "text": {
-          "en": "Wholesale inflation for October due Monday, after September's series high of 11.39%",
-          "hi": "सितंबर के 11.39% के रिकॉर्ड के बाद सोमवार को आएंगे अक्टूबर के थोक महंगाई के आंकड़े"
         }
       }
     ]
@@ -186,19 +184,19 @@
   },
   "topStories": {
     "big": {
-      "id": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+      "id": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
       "also": []
     },
     "list": [
-      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+      "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
       "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+      "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
       "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-      "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
+      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
     ],
     "also": [
-      "wpi-inflation-october-data-due-monday-rbi-december",
-      "england-banton-century-adelaide-second-odi-series-level"
+      "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+      "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
     ]
   },
   "startHere": [
@@ -391,18 +389,18 @@
         ]
       },
       "list": [
-        "wpi-inflation-october-data-due-monday-rbi-december",
         "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
+        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
+        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
       ]
     },
     {
       "section": "states",
       "lead": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
       "list": [
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
         "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia"
       ]
     },
     {
@@ -437,19 +435,19 @@
       "section": "science",
       "lead": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
       "list": [
-        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
         "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "nasa-opens-astronaut-applications-december-3-deadline"
+        "nasa-opens-astronaut-applications-december-3-deadline",
+        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
       ]
     },
     {
       "section": "sports",
       "lead": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
       "list": [
-        "england-banton-century-adelaide-second-odi-series-level",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added",
+        "india-nz-fifth-odi-henry-released-india-89-all-out-series-finale"
       ]
     }
   ],
@@ -644,23 +642,41 @@
       ]
     },
     {
-      "at": "2026-11-16T09:08:36+05:30",
+      "at": "2026-11-16T09:06:20+05:30",
       "ids": [
-        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
         "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "kejriwal-e20-trump-pressure-ethanol-claim",
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
         "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
         "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+        "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
         "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
         "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-        "wpi-inflation-october-data-due-monday-rbi-december"
+        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
       ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+    "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
+    "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
+    "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
+    "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
+    "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+    "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes",
+    "wpi-inflation-october-data-due-monday-rbi-december",
+    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
+    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+    "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+    "zelenskyy-dublin-baldonnel-witkoff-kushner-largest-prisoner-exchange",
+    "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
+    "england-banton-century-adelaide-second-odi-series-level",
+    "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
+    "rahul-gandhi-bharat-summit-valedictory-modi-defeat-adani-voters",
+    "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
+    "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+    "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday"
+  ]
 }
