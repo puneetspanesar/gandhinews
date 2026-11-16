@@ -5,10 +5,8 @@
 name: Homepage rotation
 run-name: Homepage rotation
 on:
-  schedule:
-    # GitHub drops most scheduled runs (it started about 3 of 19 a day in November), so the job is offered four times an
-    # hour; it does nothing in an hour whose homepage has already changed, so extra starts cost nothing.
-    - cron: '7,22,37,52 1-19 * * *'   # 6:37 am to 1:22 am IST
+  # Owner, November 16: headlines no longer change every hour (three writing runs a day), so the schedule is off.
+  # The job can still be started by hand.
   workflow_dispatch:
 permissions:
   contents: write

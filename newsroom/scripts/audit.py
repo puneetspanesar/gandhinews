@@ -401,12 +401,12 @@ def check_home(root, dist, S, M):
         # Lead
         a = age_h(fmf(lead))
         if fmf(lead).get('type') != 'news': fail(G, L, f'lead "{lead}" is not a news story')
-        if a is None or a > 2: fail(G, L, f'lead "{lead}" is {a and round(a, 1)} hours old (limit 2: owner, November 12)')
+        if a is None or a > 16: fail(G, L, f'lead "{lead}" is {a and round(a, 1)} hours old (limit 16: owner, November 16, three writing runs a day)')
         if GR.is_markets(lead, fmf(lead)): fail(G, L, f'lead "{lead}" is a markets story')
         # Freshness of everything at the top
         for i in tops + live_ids:
             a = age_h(fmf(i))
-            if fmf(i).get('type') == 'news' and (a is None or a > 24): fail(G, L, f'"{i}" at the top is {a and round(a)} hours old (limit 24)')
+            if fmf(i).get('type') == 'news' and (a is None or a > 36): fail(G, L, f'"{i}" at the top is {a and round(a)} hours old (limit 36)')
         # Balance
         mk = [i for i in [lead] + tops if GR.is_markets(i, fmf(i))]
         if len(mk) > 1: fail(G, L, f'{len(mk)} markets stories in the top headlines (max 1): {", ".join(mk)}')
@@ -470,7 +470,7 @@ def check_home(root, dist, S, M):
         open_ = trading and dt.time(9, 15) <= NOW.time() <= dt.time(15, 30)
         if open_:
             if mk.get('status') != 'open': warn(G, 'markets.json', f'market hours but status is "{mk.get("status")}"')
-            if NOW - asof > dt.timedelta(hours=2): fail(G, 'markets.json', f'market is open and the band is {round((NOW - asof).total_seconds() / 3600, 1)} hours old (limit 2)')
+            if NOW - asof > dt.timedelta(hours=6): warn(G, 'markets.json', f'market is open and the band is {round((NOW - asof).total_seconds() / 3600, 1)} hours old (three writing runs a day update it; owner, November 16)')
         elif trading and NOW.time() > dt.time(16, 30):
             if mk.get('session_date') != str(NOW.date()) or asof.time() < dt.time(15, 30) or mk.get('status') != 'closed':
                 fail(G, 'markets.json', f'after the close the band must carry today\'s closing figures (session_date {mk.get("session_date")}, as_of {asof:%H:%M}, status {mk.get("status")})')
@@ -483,7 +483,7 @@ def check_home(root, dist, S, M):
             # A run that changes no content publishes nothing (a clean stall check on main as it is): nothing to compare.
             touched = subprocess.run(['git', '-C', root, 'status', '--porcelain', '--', 'content'], capture_output=True, text=True, timeout=20).stdout.strip() \
                 or subprocess.run(['git', '-C', root, 'diff', '--name-only', 'origin/main', '--', 'content'], capture_output=True, text=True, timeout=20).stdout.strip()
-            if touched and key(cur) == key(prev) and 6 <= NOW.hour <= 23: fail(G, 'content/homepage.json', 'top of the homepage is identical to the live one (the site must visibly change every run)')
+            if touched and key(cur) == key(prev) and 6 <= NOW.hour <= 23: warn(G, 'content/homepage.json', 'top of the homepage is identical to the live one (fine when a run added no lead-worthy news; owner, November 16)')
     except Exception as e:
         warn(G, 'content/homepage.json', f'could not compare with origin/main: {e}')
 

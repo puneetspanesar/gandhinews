@@ -20,6 +20,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage, recent_homepages, core_ids
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
+LEAD_MAX = 16   # owner, November 16: three writing runs a day (8 am, 1 pm, 6 pm)
+TOP_MAX = 36
 now = dt.datetime.now(IST)
 tz = lambda t: (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
 P, H = {}, {}
@@ -53,9 +55,8 @@ if lead not in P: flag('lead is not a published story', lead); lead = None
 else:
     # over 8 hours only happens when no fresher national, state, world or economy story with a photo exists (refresh_home.py
     # always tries those first): recorded as a breach, so an important story never loses to a match result
-    # OWNER'S RULE (November 12, absolute): the lead is never more than 2 hours old. A hard failure: a run that has no
-    # lead-worthy story under 2 hours old with a real photo writes one (or builds a cover with lead_cover.py) before it publishes.
-    if age(lead) > 2: flag('lead is over 2 hours old (the lead is never more than 2 hours old: publish a fresh lead story with a real photo)', lead, age(lead))
+    # Owner, November 16 (replaces the 2-hour rule): three writing runs a day, so the lead may be up to 16 hours old.
+    if age(lead) > LEAD_MAX: flag(f'lead is over {LEAD_MAX} hours old (publish a fresh lead story with a real photo)', lead, age(lead))
     if is_markets(lead, P[lead]): flag('markets story as the lead', lead)
     if P[lead].get('section') in ('sports', 'science', 'tech'): soft.append((f'a {P[lead].get("section")} story leads: only a BIG STORY pinned by the front-page check may (refresh_home.py picks national, state, world or economy news)', lead, 0))
     if (M.get(lead) or {}).get('graphic'): soft.append(('lead shows an infographic, not a photo: find a photo of the event, or lead with a fresh story that has one', lead, 0))
@@ -68,13 +69,13 @@ for i in dict.fromkeys(everything):
 for name, part in [('live band', h['lead'].get('relatedBelow')), ('beside lead', h['lead'].get('relatedBeside')),
                    ('briefing', h.get('briefing')), ('top stories', h.get('topStories'))]:
     for i in ids(part):
-        if P[i]['type'] == 'news' and age(i) > 24: flag(f'{name}: over 24 hours old', i, age(i))
+        if P[i]['type'] == 'news' and age(i) > TOP_MAX: flag(f'{name}: over {TOP_MAX} hours old', i, age(i))
 
 # Owner's rule (November 8): beside the lead is the newest news. Nothing over 12 hours old, no editorial or explainer there
 # while fresher news exists (refresh_home.py orders them newest first).
 for i in ids(h['lead'].get('relatedBeside')):
     if P[i]['type'] != 'news': flag('beside the lead: not a news story (the top of the page is the newest news)', i)
-    elif age(i) > 12: flag('beside the lead: over 12 hours old (the top of the page is the newest news)', i, age(i))
+    elif age(i) > 24: flag('beside the lead: over 24 hours old (the top of the page is the newest news)', i, age(i))
 
 for blk in (h.get('sections') or []) + (h.get('desks') or []):
     for i in ids([blk.get('lead'), blk.get('list')]):
@@ -120,7 +121,8 @@ if lead:
 # hour (from git, not from anything this run wrote). A story marked critical in homepage.json may stay only if it was
 # updated after that homepage went up; a new development story (its own id) is a new headline.
 pt, ph = prev_hour_homepage(now)
-if ph:
+# Owner, November 16: headlines no longer have to change every hour (three writing runs a day); this check is off.
+if False and ph:
     crit = set(h.get('critical') or [])
     for i in set(headline_ids(h)) & set(headline_ids(ph)):
         if i not in P: continue
@@ -144,7 +146,7 @@ if len(h.get('weekAhead') or []) < 2: flag('the week ahead band has fewer than 2
 
 # A story that led never leads again; the previous hour's headlines never repeat (checked above).
 crit = set(h.get('critical') or [])
-for t, hp in ([] if (h['lead']['id'] in P and age(h['lead']['id']) <= 2) else recent_homepages(now, 6)):   # a lead under 2 hours old may stay (owner, November 12)
+for t, hp in []:   # off since November 16: a lead stays until a newer lead-worthy story exists   # a lead under 2 hours old may stay (owner, November 12)
     for i in set(core_ids(h)) & set(core_ids(hp)):
         u = (P.get(i) or {}).get('updated')
         if i in crit and u and u > t: continue
@@ -158,15 +160,15 @@ try:
     _mk = json.load(open('content/data/markets.json'))
     if str(now.date()) in set(_mk.get('holidays', [])): mk_open = False   # exchange holiday (same list audit.py reads)
     _asof = tz(dt.datetime.fromisoformat(str(_mk.get('as_of'))))
-    if mk_open and (now - _asof).total_seconds() > 2 * 3600:
-        flag('markets band figures are more than 2 hours old while the market is open', _mk.get('as_of'), (now - _asof).total_seconds() / 3600)
+    if mk_open and (now - _asof).total_seconds() > 6 * 3600:   # owner, November 16: three writing runs a day update it; a breach, not a stop
+        soft.append(('markets band figures are more than 6 hours old while the market is open', _mk.get('as_of'), (now - _asof).total_seconds() / 3600))
 except (OSError, ValueError, TypeError) as e:
     if mk_open: flag('markets band data unreadable', str(e))
 
 news = [i for i in P if P[i]['type'] == 'news']
 if news and 8 <= now.hour:
     newest = min(age(i) for i in news)
-    if newest > 3: soft.append(('no new story in over 3 hours (the site must visibly change every hour)', '', newest))
+    if newest > 8: soft.append(('no new story in over 8 hours (a writing run is late or wrote nothing)', '', newest))
 
 for w in warn: print('WARNING: ' + w)
 # the rotation job compares this count before and after its refresh: it pushes any homepage that is no worse than the one live
@@ -183,4 +185,4 @@ if soft:
     for n, i, a in soft: print(f'  {n}: {i}' + (f' ({a:.1f})' if a else ''))
     open(os.environ.get('GN_WORK', '/home/claude/gn-work/') + 'breaches.txt', 'w').write('\n'.join(f'{n}: {i}' for n, i, a in soft) + '\n')
     sys.exit(2)
-print('OK: homepage rules all hold (lead under 2 hours, headlines fresh and balanced, no stale clock figures).')
+print(f'OK: homepage rules all hold (lead under {LEAD_MAX} hours, headlines fresh and balanced, no stale clock figures).')

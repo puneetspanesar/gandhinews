@@ -6,7 +6,7 @@
 cd /home/claude/gandhinews || exit 1
 R=repos/puneetspanesar/gandhinews/actions/workflows/home-rotate.yml
 before=$(gh api "$R/runs?per_page=1" --jq '.workflow_runs[0].id' 2>/dev/null)
-if gh api -X POST "$R/dispatches" -f ref=main >/dev/null 2>&1; then
+if false; then   # owner, November 16: the hourly rotation is off; the stall check only checks the live site
   for i in $(seq 1 30); do   # up to 5 minutes: the job takes about one
     sleep 10
     read -r id st < <(gh api "$R/runs?per_page=1" --jq '.workflow_runs[0]|"\(.id) \(.status)"' 2>/dev/null)
@@ -14,7 +14,7 @@ if gh api -X POST "$R/dispatches" -f ref=main >/dev/null 2>&1; then
   done
   echo "rotation job: $(gh api "$R/runs?per_page=1" --jq '.workflow_runs[0]|"\(.status) \(.conclusion)"' 2>/dev/null)"
 else
-  echo "rotation job: could not be started from here (the fix step rotates by hand if the check below asks for it)"
+  echo "rotation job: off (owner, November 16)"
 fi
 git pull -q --rebase origin main 2>/dev/null
 python3 newsroom/scripts/verify_live.py

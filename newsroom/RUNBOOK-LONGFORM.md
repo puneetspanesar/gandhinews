@@ -1,4 +1,6 @@
-# Long-form run (6:35 am and 5:35 pm IST; the 12:03 pm and 10:03 pm writing runs add an editorial and a fact check)
+# Long-form run (6:35 am IST only, owner November 16: the evening run and the editorials inside writing runs are stopped)
+
+Owner, November 16: ONE explainer, ONE editorial and ONE fact check per run, each the strongest available (see the top of RUNBOOK.md). Never explain or argue a subject we explained or argued in the last 7 days; update that piece instead if the news moved.
 
 Read newsroom/RUNBOOK.md first: its rules (A), setup (B), pictures (C), gate (D) and publish (E) are part of this runbook. This run writes explainers, editorials and fact checks, and updates the trackers. It does not write news and does not choose the homepage lead; refresh_home.py picks its pieces up for the explainer and opinion slots.
 
@@ -10,9 +12,9 @@ Read newsroom/RUNBOOK.md first: its rules (A), setup (B), pictures (C), gate (D)
 
 ## 1. Desks (three agents in ONE message, each with `model: "sonnet"`; the editor agent stays on the default model)
 Write /home/claude/gn-work/window.txt: the date and time now, the window (since the last "Long-form" commit), and these limits, which override every brief: "LONG-FORM run. Explainers 700 to 1,100 words with 3 in-story visuals; editorials 500 to 800 words with 1 or 2." Each prompt starts `Read /home/claude/gn-work/run-brief.md and follow it. DESK = <desk>.`:
-1. explained: 2 explainers on the biggest news of the window not yet explained (check content/en/explainer first; shape of content/en/explainer/at1-bonds-explained-yes-bank-supreme-court-ruling.md). At most 10 WebSearch calls.
-2. opinion: 2 editorials on issues of the window with no editorial yet (check content/en/editorial; shape of content/en/editorial/school-buildings-need-safety-audits-before-the-next-roof-falls.md). At most 8 WebSearch calls.
-3. data-and-fact-check: one fact check EVERY run (the homepage fact-check band shows the three newest, and the owner wants it fresh): the most widely shared checkable claim of the last 24 hours by a politician, official or viral post, checked against primary sources only (official documents, data releases, court orders, the original video); two when two good claims exist; update the trackers (content/data/bills.json, sc-cases.json, budget-promises.json, election-calendar.json, parliament-sessions.json and their Hindi twins) where the window changed them. At most 10 WebSearch calls.
+1. explained: 1 explainer on the biggest news of the window not yet explained (check content/en/explainer first; shape of content/en/explainer/at1-bonds-explained-yes-bank-supreme-court-ruling.md). At most 10 WebSearch calls.
+2. opinion: 1 editorial on the biggest issue of the window with no editorial yet (check content/en/editorial; shape of content/en/editorial/school-buildings-need-safety-audits-before-the-next-roof-falls.md). At most 8 WebSearch calls.
+3. data-and-fact-check: one fact check EVERY run: the most widely shared checkable claim of the last 24 hours by a politician, official or viral post, checked against primary sources only (official documents, data releases, court orders, the original video); never two; update the trackers (content/data/bills.json, sc-cases.json, budget-promises.json, election-calendar.json, parliament-sessions.json and their Hindi twins) where the window changed them. At most 10 WebSearch calls.
 Explainers carry 3 in-story visuals, editorials 1 or 2. Then `python3 newsroom/scripts/audit.py --new --skip photos,home,site,style` must pass, and commit locally.
 
 ## 2. Pictures

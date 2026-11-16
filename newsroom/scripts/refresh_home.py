@@ -30,6 +30,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage, recent_homepages, core_ids
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
+LEAD_MAX = 16.0   # owner, November 16: three writing runs a day, so the lead may be up to 16 hours old (overnight)
+TOP_MAX = 36      # top stories, briefing and live band: news from the last 36 hours (fewer, stronger stories)
 now = dt.datetime.now(IST)
 ap = argparse.ArgumentParser(); ap.add_argument('--lead'); ap.add_argument('--pin', nargs='*', default=[]); ap.add_argument('--critical', nargs='*', default=[]); ap.add_argument('--drop', nargs='*', default=[])
 a = ap.parse_args()
@@ -89,7 +91,10 @@ def upd(i):
     return (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
 prev_lead = (prev or {}).get('ids', [None])[0] if prev else None
 def allowed(i):
+    # Owner, November 16 (search recovery): fewer, stronger stories, three writing runs a day. Headlines no longer have
+    # to change every hour; a story stays on the homepage until newer news replaces it.
     if i in a.drop: return False
+    return True
     if i not in blocked: return True
     # Owner's rule (November 8, replaces "every headline changes every hour" for fresh news): news under 6 hours old
     # stays in the headlines and moves down as newer stories arrive. The lead still changes every hour.
@@ -119,24 +124,23 @@ if _pending_lead:
     set_lead(a.lead)
 lead = L['id']
 # under 5 hours, so it is still under 6 an hour later (owner, November 8: no old story at the top); never markets, never an infographic, never a stale clock figure
-fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 5 * 3600 and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
+fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < LEAD_MAX * 3600 and not is_markets(d['id'], d) and not PIC.get(d['id'], {}).get('graphic') and not clocked(d['id'])
 # Owner's rule (November 7): a match result or a science story never leads by itself; only the run's front-page check
 # can put one up there (--lead, a BIG STORY such as an India World Cup win). The lead is national, state, world or economy news.
 NOLEAD = {'sports', 'science', 'tech'}
 lead_ok = lambda d: fresh_photo(d) and d.get('section') not in NOLEAD and (PIC.get(d['id'], {}).get('srcWidth') or 9999) >= 900  # a small photo never fills the lead
-bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (lead in led and lead not in a.critical and not a.lead and 'it has led before (a story leads only once)') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 6 and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
-# OWNER'S RULE (November 12, absolute): the lead is never more than 2 hours old. It outranks "the lead changes every
-# hour" and "a story leads only once": a lead under 2 hours old stays until a newer lead-worthy story exists.
-LEAD_MAX = 2.0
+bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (False and 'it has led before') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > LEAD_MAX and f'{age(lead):.0f} hours old') or (not a.lead and A[lead].get('section') in NOLEAD and f'a {A[lead].get("section")} story (never the lead unless the front-page check pins it)')
+# Owner, November 16 (replaces the 2-hour rule of November 12): three writing runs a day (8 am, 1 pm, 6 pm), so the
+# lead is the newest lead-worthy story and may be up to 16 hours old (the overnight gap). It stays until a newer one exists.
 if not a.lead:
     young = [i for i in newest(lead_ok) if age(i) < LEAD_MAX and i not in a.drop]
     cur_young = ok(lead) and lead in young
     if young and (bad or not cur_young):
         pick = next((i for i in young if i != lead and allowed(i) and i not in led), None) or (lead if cur_young else young[0])
-        if pick != lead: print(f'lead {lead} replaced by {pick} (the lead is always under 2 hours old)'); set_lead(pick); lead = pick
+        if pick != lead: print(f'lead {lead} replaced by {pick} (a newer lead-worthy story)'); set_lead(pick); lead = pick
         bad = False
     elif not young and not cur_young:
-        print(f'WARNING: no lead-worthy story with a real photo is under 2 hours old (lead {lead} is {age(lead):.1f} h): this run must publish one')
+        print(f'WARNING: no lead-worthy story with a real photo is under {LEAD_MAX:.0f} hours old (lead {lead} is {age(lead):.1f} h): this run must publish one')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
     same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
@@ -162,7 +166,7 @@ if bad and not a.lead:
 
 # ---- live band: still-fresh items, topped up with the newest stories sharing a topic or subject words with the lead
 lt, lw = set(A[lead].get('topics') or []), words(lead)
-rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and allowed(i) and not is_markets(i, A.get(i)) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
+rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and allowed(i) and not is_markets(i, A.get(i)) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= TOP_MAX)]
 for i in newest(lambda d: d['id'] != lead and (d['type'] != 'news' or (now - d['_t']).total_seconds() < 86400)):
     if len(rel) >= 3: break
     if i in rel or is_markets(i, A.get(i)) or clocked(i) or not allowed(i): continue
@@ -170,7 +174,7 @@ for i in newest(lambda d: d['id'] != lead and (d['type'] != 'news' or (now - d['
 L['relatedBelow'] = rel[:3]
 
 # ---- headlines
-pool = [i for i in a.pin if ok(i) and age(i) < 24] + newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 86400)
+pool = [i for i in a.pin if ok(i) and age(i) < TOP_MAX] + newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < TOP_MAX * 3600)
 # Explainers, editorials and fact checks of the last 48 hours fill what news cannot, so every headline slot changes every hour
 pool += newest(lambda d: d['type'] in ('explainer', 'editorial', 'factcheck') and (now - d['_t']).total_seconds() < 48 * 3600)
 pins = [i for i in a.pin if ok(i)]
@@ -190,8 +194,8 @@ for i in pool:
 nb = len(L.get('relatedBeside') or []) or 4
 # Owner's rule (November 8): beside the lead goes the NEWEST news, under 12 hours old, newest first (not shown the previous
 # hour). Never an older pictured story ahead of a fresher one, never an editorial or explainer while fresh news exists.
-fresh_core = sorted([i for i in taken if A[i]['type'] == 'news' and age(i) < 12], key=lambda i: A[i]['_t'], reverse=True)
-fresh_core += sorted([i for i in taken if i not in fresh_core and A[i]['type'] == 'news' and age(i) < 24], key=lambda i: A[i]['_t'], reverse=True)
+fresh_core = sorted([i for i in taken if A[i]['type'] == 'news' and age(i) < 24], key=lambda i: A[i]['_t'], reverse=True)
+fresh_core += sorted([i for i in taken if i not in fresh_core and A[i]['type'] == 'news' and age(i) < TOP_MAX], key=lambda i: A[i]['_t'], reverse=True)
 # the stories beside the lead are all in the top eight: never three of one section among them
 beside, bsec = [], {}
 for i in fresh_core:
