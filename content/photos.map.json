@@ -52525,5 +52525,57 @@
    "subj": "f000054bcfe7e06",
    "credit": "Photos: Goutam1962 / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
   }
+ },
+ "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21": {
+  "id": "v-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov",
+  "src": "/photos/v-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-1280.jpg",
+  "src800": "/photos/v-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Indian Navy / Wikimedia Commons; Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 4.0 and Public domain",
+  "alt": "Rough sea at Visakhapatnam, fallen trees in Odisha and a satellite view of a Bay of Bengal cyclone (file photos)",
+  "alt_hi": "विशाखापत्तनम में उफनता समंदर, ओडिशा में गिरे पेड़ और बंगाल की खाड़ी के चक्रवात की उपग्रह तस्वीर (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280
+ },
+ "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses": {
+  "id": "o-suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+  "src": "/photos/o-suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses-1280.jpg",
+  "src800": "/photos/o-suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1599,
+  "credit": "Photo: Haribhagirath / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Union Minister of State Suresh Gopi with supporters in Kerala (file photo, 2025)",
+  "alt_hi": "केंद्रीय राज्य मंत्री सुरेश गोपी केरल में समर्थकों के साथ (फ़ाइल फ़ोटो, 2025)",
+  "page": "https://commons.wikimedia.org/wiki/File:Suresh_Gopi_2025.jpg"
+ },
+ "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter": {
+  "id": "o-nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+  "src": "/photos/o-nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter-1280.jpg",
+  "src800": "/photos/o-nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 3840,
+  "credit": "Photo: NASA's Scientific Visualization Studio - Science and Technology Corporation/Kel Elkins, JPL/Josh Willis, NASA/GSFC/Peter / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "NASA sea surface height maps of the Pacific, October 3, 2026 against October 3, 2025, showing the El Niño warm bulge",
+  "alt_hi": "प्रशांत महासागर की समुद्र सतह ऊंचाई के नासा नक्शे, 3 अक्टूबर 2026 बनाम 3 अक्टूबर 2025, अल नीनो का गर्म उभार दिखाते हुए",
+  "page": "https://commons.wikimedia.org/wiki/File:Signs_of_El_Ni%C3%B1o_in_2026_(SVS5683_-_ssha_cb_1003_02200).jpg"
+ },
+ "noel-tata-tata-sons-listing-change-tata-way-philanthropy": {
+  "id": "o-noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+  "src": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-1280.jpg",
+  "src800": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-640.jpg",
+  "width": 1280,
+  "height": 788,
+  "srcWidth": 2200,
+  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Noel Tata (right) at a meeting with the Commerce Minister in New Delhi (file photo, 2013)",
+  "alt_hi": "नई दिल्ली में वाणिज्य मंत्री के साथ बैठक में नोएल टाटा (दाएं) (फ़ाइल फ़ोटो, 2013)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mr._Noel_Tata_and_Mr._Philip_Clarke,_CEO,_Tesco_meeting_the_Union_Minister_for_Commerce_%26_Industry_and_Textiles,_Shri_Anand_Sharma,_in_New_Delhi_on_May_10,_2013.jpg"
  }
 }
