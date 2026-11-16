@@ -53215,5 +53215,87 @@
    "kind": "photo",
    "credit": "Photo: TamizhanEditor / Wikimedia Commons"
   }
+ },
+ "himachal-winter-session-opens-tapovan-414-questions-six-sittings": {
+  "id": "o-himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+  "src": "/photos/o-himachal-winter-session-opens-tapovan-414-questions-six-sittings-1280.jpg",
+  "src800": "/photos/o-himachal-winter-session-opens-tapovan-414-questions-six-sittings-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 946,
+  "credit": "Photo: Prime Minister's Office (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Sukhvinder Singh Sukhu (file photo)",
+  "alt_hi": "सुखविंदर सिंह सुक्खू (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg"
+ },
+ "belarus-fm-ryzhenkov-delhi-intergovernmental-commission": {
+  "id": "o-belarus-fm-ryzhenkov-delhi-intergovernmental-commission",
+  "src": "/photos/o-belarus-fm-ryzhenkov-delhi-intergovernmental-commission-1280.jpg",
+  "src800": "/photos/o-belarus-fm-ryzhenkov-delhi-intergovernmental-commission-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1601,
+  "credit": "Photo: Ministry of Petroleum and Natural Gas / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Jitin Prasada (file photo)",
+  "alt_hi": "जितिन प्रसाद (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Jitin_Prasada_took_over_the_charge_of_the_Minister_of_State_for_Road_Transport_%26_Highways,_in_New_Delhi_on_January_21,_2011.jpg"
+ },
+ "goyal-egypt-jtc-terms-of-reference-local-currency-trade": {
+  "id": "o-goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+  "src": "/photos/o-goyal-egypt-jtc-terms-of-reference-local-currency-trade-1280.jpg",
+  "src800": "/photos/o-goyal-egypt-jtc-terms-of-reference-local-currency-trade-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 622,
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal (file photo)",
+  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+ },
+ "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore": {
+  "id": "i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+  "src": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-en-3x2-1280.jpg",
+  "src800": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Bihar win first match, beat Railways",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बिहार की पहली जीत, रेलवे को हराया",
+  "page": null,
+  "ihash": "f1fdd0315086",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-hi-3x2-1280.jpg",
+    "src800": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-en-t-1280.jpg",
+    "src800": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-hi-t-1280.jpg",
+    "src800": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-en-1280.jpg",
+    "src800": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-hi-1280.jpg",
+    "src800": "/photos/i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Bihar-Railways match, Suraj Kashyap or a usable Holkar Stadium photo (only 800 px); library, quick_photo, finder h1614 and h1614b"
  }
 }
