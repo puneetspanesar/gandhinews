@@ -46957,21 +46957,12 @@
   "src800": "/photos/o-national-sports-awards-2025-murmu-presents-arjuna-dronacharya-rashtrapati-bhavan-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 3678,
+  "srcWidth": 3712,
   "credit": "Photo: President's Secretariat / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Droupadi Murmu (file photo)",
   "alt_hi": "द्रौपदी मुर्मू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg",
-  "treated": {
-   "src": "/photos/t-national-sports-awards-2025-murmu-presents-arjuna-dronachary-1280.jpg",
-   "src800": "/photos/t-national-sports-awards-2025-murmu-presents-arjuna-dronachary-640.jpg",
-   "cutout": true,
-   "with": [],
-   "kind": "portrait",
-   "subj": "44eefefefe",
-   "credit": "Photo: President's Secretariat / Wikimedia Commons, GODL-India"
-  }
+  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait.jpg"
  },
  "babar-azam-34-42nd-innings-no-test-century-pakistan-151-5-lunch-rawalpindi": {
   "id": "o-babar-azam-34-42nd-innings-no-test-century-pakistan-151-5-lunch-rawalpindi",
@@ -47902,24 +47893,12 @@
   "src800": "/photos/o-nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1161,
+  "srcWidth": 936,
   "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg",
-  "treated": {
-   "src": "/photos/t-nehru-birth-anniversary-children-day-modi-rajnath-stalin-tri-1280.jpg",
-   "src800": "/photos/t-nehru-birth-anniversary-children-day-modi-rajnath-stalin-tri-640.jpg",
-   "cutout": true,
-   "with": [
-    "chennai-rain-schools-shut-four-districts-low-pressure",
-    "supreme-court-declines-plea-aiadmk-mlas-disqualification"
-   ],
-   "kind": "portrait",
-   "subj": "18183878fcfdff",
-   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; L.vivian.richard; Jan Van Ryne (1712-60); Publisher: Robert Sayer / Wikimedia Commons"
-  }
+  "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister,_Shri_Narendra_Modi_addressing_at_the_webinar_for_effective_implementation_of_Union_Budget_in_Defence_Sector_(cropped)_1.jpg"
  },
  "rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils": {
   "id": "r-rajasthan-drought-relief-9321-crore-bhajan-lal-87-tehsils",
@@ -48314,25 +48293,13 @@
   "src": "/photos/o-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-1280.jpg",
   "src800": "/photos/o-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 1018,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
+  "height": 853,
+  "srcWidth": 1027,
+  "credit": "Photo: Office of the Speaker of the House / Wikimedia Commons",
+  "licence": "Public domain",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg",
-  "treated": {
-   "src": "/photos/t-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-1280.jpg",
-   "src800": "/photos/t-modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review-640.jpg",
-   "cutout": true,
-   "with": [
-    "modi-gujarat-lok-bhavan-dholera-sabarmati-cwg-review--p1",
-    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3"
-   ],
-   "kind": "portrait",
-   "subj": "18183878fcfdff",
-   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Snehrashmi / Wikimedia Commons; Atul Tegar / Wikimedia Commons"
-  }
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Narendra_Modi_on_30_September_2014_detail,_from-_Speaker_John_Boehner_welcomes_Prime_Minister_Narendra_Modi_to_the_U.S._Capitol_(cropped).jpg"
  },
  "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore": {
   "id": "i-patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
@@ -50933,16 +50900,30 @@
   }
  },
  "akvan-deep-depression-monday-imd-landfall-night-nov-19": {
-  "id": "r-akvan-deep-depression-monday-imd-landfall-night-nov-19",
-  "src": "/photos/r-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
-  "src800": "/photos/r-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
+  "id": "o-akvan-deep-depression-monday-imd-landfall-night-nov-19",
+  "src": "/photos/o-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
+  "src800": "/photos/o-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
   "width": 1280,
   "height": 960,
-  "credit": "Photo: Adityamadhav83 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)",
-  "alt_hi": "चक्रवात हुदहुद के दौरान विशाखापत्तनम की बीच रोड पर तूफ़ानी आसमान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_effect_of_Cyclone_Hudhud_at_Visakhapatnam_04.jpg"
+  "srcWidth": 1200,
+  "credit": "Photo: Indian Navy / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rough sea and high waves on the Visakhapatnam coast as Cyclone Hudhud approached in 2014 (file photo)",
+  "alt_hi": "2014 में चक्रवात हुदहुद के आने पर विशाखापत्तनम तट पर ऊंची लहरें और उफनता समुद्र (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(2).jpg",
+  "treated": {
+   "src": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
+   "src800": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
+   "cutout": false,
+   "with": [
+    "andhra-local-polls-must-start-with-free-nominations",
+    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
+    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffffffff21000000",
+   "credit": "Photos: Indian Navy / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Saiphani02 / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons"
+  }
  },
  "wpi-inflation-october-2026": {
   "id": "i-wpi-inflation-october-2026",

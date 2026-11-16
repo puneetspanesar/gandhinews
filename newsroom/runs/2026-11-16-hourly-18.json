@@ -1,0 +1,22 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-16T18:04:37+05:30",
+ "end": "2026-11-16T19:00:03+05:30",
+ "summary": "Akvan landfall lead updated, Quad Manila update, SC NDPS story held",
+ "new": [],
+ "held": [
+  "supreme-court-449-ndps-courts-status-reports-little-progress"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "supreme-court-449-ndps-courts-status-reports-little-progress",
+   "kind": "other",
+   "why": "Hindi twin has broken grammar from the last fix: 'अदालतें बेहतर होगा छह हफ्ते में बनाने को कहा गया था' (keyPoints line 15), 'अदालत ने बेहतर होगा छह हफ्ते में अदालतें बनाने को कहा' (infographic timeline, line 33) and 'बाकी एनडीपीएस अदालतें बेहतर होगा छह हफ्ते में बनाने को कहा' (timeline block, line 76). It reads as machine-made and the infographic text would show it on the cover.",
+   "fix": "In the Hindi file replace 'बेहतर होगा छह हफ्ते में' with natural wording meaning 'preferably within six weeks', e.g. 'अधिमानतः छह हफ्ते में' (or 'छह हफ्ते के भीतर, यथासंभव'), in keyPoints, infographic.timeline and the timeline block. English is correct. Regenerate the Hindi infographic if it was already built."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "akvan-deep-depression-monday-imd-landfall-night-nov-19"
+}

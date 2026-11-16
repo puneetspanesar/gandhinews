@@ -54,7 +54,7 @@ def why_not(c):
     for p in P:
         if fileof(p.get('sourceUrl')) == fileof(c['url']):
             s_ = re.sub(r'--(p\d+|bg|in|c)$', '', str(p.get('articleId', '')).replace('part:', '').split(':')[0])
-            if s_ in pub and s_ != sid and (now - pub[s_]).total_seconds() < 48 * 3600: return f'used by {s_} on {pub[s_]:%B %d} (the 48-hour rule)'
+            if s_ in pub and s_ != sid and abs((pub.get(sid, now) - pub[s_]).total_seconds()) < 48 * 3600: return f'used by {s_} on {pub[s_]:%B %d} (the 48-hour rule)'
     return None
 reasons = [(c, why_not(c)) for c in cands]
 c = next((c for c, r in reasons if not r), None)

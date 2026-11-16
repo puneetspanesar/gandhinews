@@ -36,7 +36,7 @@ infographic:
 related: [supreme-court-24-hour-production-runs-from-detention-not-arrest, fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years, punjab-drug-crisis-needs-data-not-denial]
 seo:
   title: "Supreme Court seeks reports on 449 special NDPS courts"
-  description: "On November 16, 2026 the Supreme Court asked the Centre and states for fresh status reports on 449 exclusive NDPS courts, as the Centre said little progress was made."
+  description: "On November 16, 2026, the Supreme Court asked the Centre and states for fresh status reports on 449 exclusive NDPS courts, as the Centre said little progress was made."
 sources:
   - title: "SC Asks Centre, States To File Status Reports On Setting Up Of Special Courts To Hear NDPS Act Cases"
     publisher: "Daily Excelsior"

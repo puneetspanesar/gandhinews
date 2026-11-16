@@ -6,7 +6,7 @@ section: states
 format_label: "States / Weather"
 topics: [states]
 title: "Akvan: IMD names a 400 km landfall stretch from Nellore to Tuni, around noon on November 20"
-standfirst: "The cyclone-to-be is still a deep depression over the Bay of Bengal, but the IMD's outlook now gives a coast and a time: a very severe storm crossing Andhra Pradesh and Yanam around noon on Friday."
+standfirst: "Monday morning's IMD bulletin had the system as a deep depression over the Bay of Bengal, expected to become a cyclonic storm by evening, and the IMD's outlook now gives a coast and a time: a very severe storm crossing Andhra Pradesh and Yanam around noon on Friday."
 published: 2026-11-16T12:12:30+05:30
 updated: 2026-11-16T18:10:00+05:30
 location: Visakhapatnam
@@ -20,7 +20,7 @@ hero:
   subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
   alt: "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)"
   overlay:
-    value: "Akvan landfall: Nellore to Tuni, Nov 20 noon"
+    value: "Akvan landfall: Nellore to Tuni, November 20 noon"
 infographic:
   kicker: "Cyclone Akvan watch"
   headline: "Akvan: landfall between Nellore and Tuni"
@@ -30,14 +30,14 @@ infographic:
     - {icon: map-pin, value: "800 km", label: "south-southeast of Visakhapatnam at 8:30 am on Monday"}
     - {icon: wind, value: "120 to 130 km/h", label: "winds forecast at landfall, gusting to 145 km/h"}
   timeline:
-    - {date: "Nov 16", text: "Cyclonic storm by evening", icon: cloud-rain}
-    - {date: "Nov 17", text: "Severe cyclonic storm, west-central Bay", icon: warning}
-    - {date: "Nov 19", text: "Very severe stage near the Andhra coast, night", icon: warning}
-    - {date: "Nov 20", text: "Landfall between Nellore and Tuni, around noon", icon: warning}
+    - {date: "November 16", text: "Cyclonic storm by evening", icon: cloud-rain}
+    - {date: "November 17", text: "Severe cyclonic storm, west-central Bay", icon: warning}
+    - {date: "November 19", text: "Very severe stage near the Andhra coast, night", icon: warning}
+    - {date: "November 20", text: "Landfall between Nellore and Tuni, around noon", icon: warning}
   source: "IMD bulletins, November 16, 2026"
 related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu, akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings]
 seo:
-  title: "Cyclone Akvan landfall Nellore to Tuni, Nov 20 noon"
+  title: "Cyclone Akvan landfall Nellore to Tuni, November 20 noon"
   description: "The IMD's Monday outlook puts Cyclone Akvan's landfall between Nellore and Tuni around noon on November 20 as a very severe storm; Odisha starts evacuations."
 sources:
   - title: "Cyclone Akvan set for Andhra landfall as 'very severe' storm; Odisha, TN brace for rain"
@@ -50,7 +50,7 @@ sources:
     date: 2026-11-16
     url: "https://www.etvbharat.com/en/bharat/cyclone-akvan-imd-update-very-severe-storm-to-reach-andhra-pradesh-coast-on-november-19-heavy-rain-in-odisha-andhra-tamil-nadu-puducherry-enn26111601377"
     primary: false
-  - title: "Very severe cyclonic storm likely to cross Andhra Pradesh coast on Nov 19"
+  - title: "Very severe cyclonic storm likely to cross Andhra Pradesh coast on November 19"
     publisher: "Punjab Kesari (IANS)"
     date: 2026-11-16
     url: "https://english.punjabkesari.com/india/very-severe-cyclonic-storm-likely-to-cross-andhra-pradesh-coast-on-nov-19"
@@ -96,9 +96,6 @@ In Odisha, district administrations in the south have been told to begin **early
 
 Ganjam Collector V. Keerthi Vasan said landslide-prone and low-lying spots have been identified and that personnel and machinery are ready. He told officers: "If required, people will be taken to safe locations and cyclone shelters." He asked them to check drinking water, food, lighting and toilets at every shelter. The IMD's Odisha outlook is for light to moderate rain from the evening of November 17, heavy rain on November 18, heavy to very heavy rain from November 19 to 21, and **thundersqualls of 50 to 60 km/h** on November 19 and 20. Orange warnings are out for Puri, Ganjam and Gajapati on November 19.
 
-```photo
-{"n":1,"subject":"Cyclone Phailin Ganjam","caption":"A cyclone shelter and wind-damaged houses on the Ganjam coast in an earlier cyclone (file photo); Ganjam is under an orange warning on November 19 and 20.","alt":"Wind damage on the Ganjam coast of Odisha after an earlier cyclone (file photo)"}
-```
 
 ## Tamil Nadu, Bengal and the fishing ban
 
