@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय बल्लेबाज तिलक वर्मा"
   overlay:
     value: "तिलक वर्मा संभालेंगे भारत ए की कमान"
-related: [harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur, angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci]
+related: [harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur, mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz]
 seo:
   description: "बीसीसीआई ने 19 से 29 नवंबर 2026 तक दोहा में होने वाले एसीसी मेंस राइजिंग स्टार्स एशिया कप के लिए 15 सदस्यीय भारत ए टीम घोषित की। तिलक वर्मा कप्तान, रजत पाटीदार उपकप्तान।"
 sources:

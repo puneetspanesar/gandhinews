@@ -21,7 +21,7 @@ hero:
   alt: "ओडिशा के पुरी तट पर मछली पकड़ने की नावें (फाइल फोटो)"
   overlay:
     value: "25 अक्टूबर तक डिप्रेशन के आसार"
-related: [bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain, chennai-rain-schools-shut-four-districts-low-pressure]
+related: [chennai-rain-schools-shut-four-districts-low-pressure]
 seo:
   description: "आईएमडी के अनुसार बंगाल की खाड़ी में 23 अक्टूबर को कम दबाव और 25 अक्टूबर तक डिप्रेशन, 26 से तेज हवाएं; मछुआरों को चेतावनी, ओडिशा में 27 से बारिश।"
 sources:

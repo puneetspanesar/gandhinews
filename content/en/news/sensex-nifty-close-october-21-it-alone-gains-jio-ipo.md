@@ -20,7 +20,7 @@ hero:
   alt: "The BSE building on Dalal Street in Mumbai"
   overlay:
     value: "Sensex ends 143 points down"
-related: [markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21, sensex-nifty-close-october-19-private-banks-axis, jio-platforms-ipo-opens-today-what-bidders-need-to-know, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
+related: [markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21, sensex-nifty-close-october-19-private-banks-axis, jio-platforms-ipo-subscribed-22-times-listing-october-28, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
 seo:
   description: "Market close October 21, 2026: Sensex falls 143.21 points to 73,709.69, Nifty down 77.60 at about 22,811. IT the only gainer; small caps drop 2.37%; Eternal slips before results."
 sources:

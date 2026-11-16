@@ -30,7 +30,7 @@ infographic:
     - {icon: cpu, value: "6,150", label: "LED panels, with 4.2 crore LEDs"}
     - {icon: currency-inr, value: "₹85 to 115 cr", label: "cost, as variously reported"}
   source: "Press Information Bureau, November 11, 2026"
-related: [cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview, modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next]
 seo:
   title: "Modi inaugurates Mysuru COSMOS LED-dome planetarium"
   description: "PM Modi inaugurated the COSMOS-Mysuru Planetarium, India's first LED-dome planetarium, on November 13, 2026, with Sitharaman and Shivakumar present."
@@ -86,7 +86,7 @@ The Sky Theatre will run astronomy programmes in Kannada, English and Hindi, alo
 
 ## How it got here
 
-Sitharaman laid the foundation stone on March 6, 2022, and gave ₹5 crore from her MPLADS funds. The Department of Science and Technology, the Department of Atomic Energy and the Department of Space also backed the project, and the University of Mysore gave about three acres. The opening date slipped from September 2025 to February 2026 and then to this week. Our [preview of the planetarium](/en/news/cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview) has the full history.
+Sitharaman laid the foundation stone on March 6, 2022, and gave ₹5 crore from her MPLADS funds. The Department of Science and Technology, the Department of Atomic Energy and the Department of Space also backed the project, and the University of Mysore gave about three acres. The opening date slipped from September 2025 to February 2026 and then to this week. Our [preview of the planetarium](/en/news/modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre) has the full history.
 
 ```timeline
 {"title":"COSMOS planetarium","items":[{"date":"March 6, 2022","text":"Sitharaman lays the foundation stone"},{"date":"September 2025","text":"Opening target, as reported in December 2024"},{"date":"January 13, 2026","text":"Civil works done; opening expected in February 2026"},{"date":"November 11, 2026","text":"PIB announces the inauguration"},{"date":"November 13, 2026","text":"Prime Minister inaugurates it"}]}

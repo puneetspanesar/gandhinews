@@ -20,7 +20,7 @@ hero:
   alt: "India hockey forward Dilpreet Singh"
   overlay:
     value: "India 8-0 South Korea"
-related: [india-south-korea-asian-champions-trophy-last-league-jalandhar-preview, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
+related: [harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
 seo:
   description: "India beat South Korea 8-0 in Jalandhar on November 2, 2026, to finish the men's Asian Champions Trophy league stage unbeaten. Dilpreet Singh scored twice, and India meet South Korea again in the semi-final in Mohali on November 4."
 sources:

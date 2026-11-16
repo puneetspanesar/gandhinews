@@ -21,7 +21,7 @@ hero:
   alt: "मैसूरु में इन्फोसिस का कैंपस"
   overlay:
     value: "बाज़ार बंद होने के बाद इन्फोसिस"
-related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, jio-ipo-5-51-times-day-two-close-final-day, results-today-hpcl-swiggy-havells-colgate-october-22]
+related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, jio-platforms-ipo-subscribed-22-times-listing-october-28, results-today-hpcl-swiggy-havells-colgate-october-22]
 seo:
   description: "Q2 नतीजे, 23 अक्टूबर 2026: इन्फोसिस दोपहर 3:45 बजे, बीपीसीएल, इंडसइंड बैंक, जेएसडब्ल्यू स्टील, डॉ. रेड्डीज़, अदाणी पावर, कोफोर्ज, टोरेंट फार्मा। जियो आईपीओ का आखिरी दिन; आरबीआई विदेशी मुद्रा भंडार।"
 sources:

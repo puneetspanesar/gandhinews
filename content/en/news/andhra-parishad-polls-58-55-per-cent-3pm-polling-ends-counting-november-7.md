@@ -31,7 +31,7 @@ infographic:
     - {icon: calendar-check, value: "Nov 7", label: "counting of votes"}
   chart: {type: columns, title: "Statewide turnout through the day, %", highlight: -1, items: [{label: "1 pm", value: 30.50, display: "30.50"}, {label: "3 pm", value: 58.55, display: "58.55"}]}
   source: "Election officials, Andhra Pradesh, November 5, 2026"
-related: [andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, jagan-parishad-polls-selections-naidu-hijacked, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, jagan-parishad-polls-selections-naidu-hijacked, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "Andhra Pradesh MPTC and ZPTC polls ended at 5 pm on November 5, 2026, with 58.55% turnout recorded by 3 pm; officials estimate 65-68% at close. Counting on November 7."
 sources:

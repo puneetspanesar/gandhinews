@@ -16,7 +16,7 @@ hero:
   alt: "Mars's moon Phobos, seen by NASA's Mars Reconnaissance Orbiter (file image)"
   overlay:
     value: "Ten grams from a Martian moon"
-related: [mmx-launch-h3-phobos-outcome, japan-h3-mmx-phobos-sample-return-launch, mmx-phobos-probe-h3-launch-tonight-tanegashima]
+related: [mmx-launch-h3-phobos-outcome]
 seo:
   description: "What is Japan's MMX mission to Phobos? How it will land, collect at least 10 grams of soil and return it in 2031, NASA's role, and why the origin of Mars's moons matters."
 sources:

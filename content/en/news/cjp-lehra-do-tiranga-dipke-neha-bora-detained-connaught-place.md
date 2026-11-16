@@ -20,7 +20,7 @@ hero:
   alt: "Cockroach Janta Party founder Abhijeet Dipke and Connaught Place, New Delhi (file photos)"
   overlay:
     value: "150 held, Central Park locked"
-related: [cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, dipke-calls-lehra-do-tiranga-protest-connaught-place, cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party, section-163-bnss-prohibitory-orders-explained]
+related: [delhi-police-tells-high-court-will-act-against-dipke-cp-protest, dipke-calls-lehra-do-tiranga-protest-connaught-place, cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party, section-163-bnss-prohibitory-orders-explained]
 seo:
   description: "Delhi Police detained Abhijeet Dipke, Neha Bora and about 150 others on October 16 as the CJP's 'Lehra Do Tiranga' protest at Connaught Place was blocked under Section 163."
 sources:

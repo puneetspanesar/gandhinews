@@ -20,7 +20,7 @@ hero:
   alt: "Indian para table tennis player Bhavina Patel"
   overlay:
     value: "Four matches, four wins at the table"
-related: [asian-para-games-india-begin-badminton-table-tennis-blind-football, india-name-168-athletes-asian-para-games-aichi-nagoya, asian-para-games-classification-explained]
+related: [india-name-168-athletes-asian-para-games-aichi-nagoya, asian-para-games-classification-explained]
 seo:
   description: "Asian Para Games 2026 day one: Bhavina Patel, Baby Sahana Ravi, Shubham Wadhwa and Jehan Madan win in para table tennis; Suhas Yathiraj and Krishna Nagar win badminton openers."
 sources:

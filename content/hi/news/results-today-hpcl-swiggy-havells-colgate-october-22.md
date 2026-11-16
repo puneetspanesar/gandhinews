@@ -21,7 +21,7 @@ hero:
   alt: "हिंदुस्तान पेट्रोलियम का एक पेट्रोल पंप"
   overlay:
     value: "एचपीसीएल, स्विगी, हैवेल्स के नतीजे"
-related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-three-times-subscribed-day-one-qib, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
+related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-subscribed-22-times-listing-october-28, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
 seo:
   description: "Q2 नतीजे, 22 अक्टूबर 2026: एचपीसीएल, स्विगी, हैवेल्स, कोलगेट-पामोलिव, सायंट, अदाणी टोटल गैस, चेन्नई पेट्रोलियम; जियो प्लेटफॉर्म्स आईपीओ का दूसरा दिन।"
 sources:

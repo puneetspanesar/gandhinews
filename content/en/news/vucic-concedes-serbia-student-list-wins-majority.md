@@ -20,7 +20,7 @@ hero:
   alt: "Aleksandar Vučić, leader of the Serbian Progressive Party (file photo)"
   overlay:
     value: "\"It is clear that we have lost\""
-related: [serbia-votes-snap-election-vucic-student-list]
+related: []
 seo:
   description: "Aleksandar Vučić conceded Serbia's October 25 snap election as projections gave the student-led list about 52% and 139 of 250 seats on a record turnout."
 sources:

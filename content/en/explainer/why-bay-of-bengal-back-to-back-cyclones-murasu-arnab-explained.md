@@ -16,7 +16,7 @@ hero:
   alt: "Cyclone Murasu over the Bay of Bengal near the Andhra Pradesh coast"
   overlay:
     value: "Two cyclones, one week"
-related: [cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
+related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   description: "Why the Bay of Bengal produces back-to-back cyclones like Arnab and Murasu: warm sea, fresh river water, low wind shear, Pacific remnants and the Madden-Julian Oscillation, explained."
 sources:

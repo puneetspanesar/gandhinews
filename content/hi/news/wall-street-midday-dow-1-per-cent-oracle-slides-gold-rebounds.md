@@ -21,7 +21,7 @@ hero:
   alt: "ओरेकल का मुख्यालय (फाइल फोटो)"
   overlay:
     value: "डाउ 1% ऊपर, तेल 7% नीचे"
-related: [wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slump-deepens-brent-105-airlines-rally-iran-talks, gold-below-4000-first-time-since-july-asia-monday, fed-holds-rates-3-75-4-two-dissent-hike, sensex-nifty-close-november-2]
+related: [wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, oil-slump-deepens-brent-105-airlines-rally-iran-talks, gold-below-4000-first-time-since-july-asia-monday, fed-holds-rates-3-75-4-two-dissent-hike, sensex-nifty-close-november-2]
 seo:
   description: "2 नवंबर 2026 को वॉल स्ट्रीट दोपहर तक: डाउ करीब 1% चढ़कर 52,300 के पास, 20 अरब डॉलर की शेयर व बॉन्ड योजना से ओरेकल करीब 6% नीचे, अमेज़न 4% ऊपर, सोना 3,971 डॉलर के पास और अमेरिकी कच्चा तेल 7% से ज़्यादा टूटा।"
 cover:

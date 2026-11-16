@@ -19,7 +19,7 @@ hero:
   alt: "India T20I captain Shreyas Iyer"
   overlay:
     value: "Iyer up to No. 4 in T20Is"
-related: [india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, renshaw-puts-australia-on-top-in-durban-test]
+related: [india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "ICC rankings: Shreyas Iyer rises to a career-best fourth in T20I batting, Ishan Kishan and Abhishek Sharma top the list, Matt Renshaw jumps 147 places in Tests."
 sources:

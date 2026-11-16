@@ -21,7 +21,7 @@ hero:
   overlay:
     kicker: "हमारा मत"
     value: "बहस असली सदन में हो"
-related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-ramlila-maidan-rally-today-preview, election-commission-should-publish-its-dissent, supreme-court-notice-adr-plea-cec-immunity-section-16, election-commission-dissent-report-move-to-remove-cec]
+related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, election-commission-should-publish-its-dissent, supreme-court-notice-adr-plea-cec-immunity-section-16, election-commission-dissent-report-move-to-remove-cec]
 seo:
   description: "गांधी न्यूज़ संपादकीय: इंडिया गठबंधन के मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर नकली महाभियोग और अमित शाह की विशेष सत्र की पेशकश के बाद संसद एसआईआर के आरोपों पर बहस करे और चुनाव आयोग नाम हटाने के आंकड़े जारी करे।"
 sources:

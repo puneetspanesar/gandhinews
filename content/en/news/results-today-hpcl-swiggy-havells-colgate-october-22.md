@@ -20,7 +20,7 @@ hero:
   alt: "A Hindustan Petroleum fuel station"
   overlay:
     value: "HPCL, Swiggy, Havells report"
-related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-three-times-subscribed-day-one-qib, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
+related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-subscribed-22-times-listing-october-28, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
 seo:
   description: "Q2 results on October 22, 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
 sources:

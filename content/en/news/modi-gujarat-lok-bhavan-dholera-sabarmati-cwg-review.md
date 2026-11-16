@@ -102,7 +102,7 @@ On Friday night Modi attended a dinner marking the Gujarati New Year at Lok Bhav
 
 ## How we got here
 
-The Prime Minister's Office announced the tour on November 11. On Friday in Karnataka Modi opened the Pink Line stretch of the Bengaluru Metro and launched projects worth **over ₹15,600 crore**, as set out in our [report on the package](/en/news/modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead), and took part in programmes in Mysuru. Gujarat's leadership has been busy with the same themes: Union Home Minister Amit Shah held a [security review in Ahmedabad](/en/news/amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029), and Sanghavi has been courting investors, as in our [report from Seoul](/en/news/harsh-sanghavi-seoul-korean-firms-gujarat-investment).
+The Prime Minister's Office announced the tour on November 11. On Friday in Karnataka Modi opened the Pink Line stretch of the Bengaluru Metro and launched projects worth **over ₹15,600 crore**, as set out in our [report on the package](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects), and took part in programmes in Mysuru. Gujarat's leadership has been busy with the same themes: Union Home Minister Amit Shah held a [security review in Ahmedabad](/en/news/amit-shah-ahmedabad-gujarat-security-review-drug-free-india-2029), and Sanghavi has been courting investors, as in our [report from Seoul](/en/news/harsh-sanghavi-seoul-korean-firms-gujarat-investment).
 
 ## Why it matters
 

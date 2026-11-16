@@ -20,7 +20,7 @@ hero:
   overlay:
     kicker: "Our view"
     value: "Let people protest where they are heard"
-related: [protest-is-not-a-threat-to-public-order, cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, cjp-members-scale-jantar-mantar-gate-detained, section-163-bnss-prohibitory-orders-explained]
+related: [protest-is-not-a-threat-to-public-order, cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, cjp-members-scale-jantar-mantar-gate-detained, section-163-bnss-prohibitory-orders-explained]
 seo:
   description: "Gandhi News editorial: after Jantar Mantar was de-notified and Central Park shut before the CJP's Connaught Place protest, Delhi needs fixed, central protest sites and clear rules."
 sources:

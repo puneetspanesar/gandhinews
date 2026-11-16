@@ -21,7 +21,7 @@ hero:
   alt: "राष्ट्रपति लुइज़ इनासियो लूला दा सिल्वा और सीनेटर फ्लावियो बोलसोनारो (फाइल फोटो)"
   overlay:
     value: "लूला का चौथा कार्यकाल"
-related: [brazil-runoff-sunday-lula-flavio-final-globo-debate, lula-flavio-final-globo-debate-clash-runoff-eve, lula-flavio-bolsonaro-trade-insults-first-runoff-debate]
+related: [lula-flavio-final-globo-debate-clash-runoff-eve, lula-flavio-bolsonaro-trade-insults-first-runoff-debate]
 seo:
   description: "ब्राज़ील के 25 अक्टूबर के दूसरे दौर में लूला ने फ्लावियो बोलसोनारो को हराया। करीब 90% गिनती पर वे 51.56% बनाम 48.44% से आगे थे।"
 sources:

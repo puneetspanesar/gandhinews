@@ -20,7 +20,7 @@ hero:
   alt: "The Infosys campus in Mysuru"
   overlay:
     value: "Infosys after the bell"
-related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, jio-ipo-5-51-times-day-two-close-final-day, results-today-hpcl-swiggy-havells-colgate-october-22]
+related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, jio-platforms-ipo-subscribed-22-times-listing-october-28, results-today-hpcl-swiggy-havells-colgate-october-22]
 seo:
   description: "Q2 results on October 23, 2026: Infosys at 3:45 pm, BPCL, IndusInd Bank, JSW Steel, Dr Reddy's, Adani Power, Coforge, Torrent Pharma. Jio IPO final day; RBI forex reserves data."
 sources:

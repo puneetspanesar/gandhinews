@@ -33,7 +33,7 @@ infographic:
     - {icon: users, value: "62.01%", label: "अल्लूरी सीताराम राजू, सबसे कम"}
   chart: {type: columns, title: "जिलेवार मतदान, %", highlight: 0, items: [{label: "विशाखापत्तनम", value: 82.51, display: "82.51"}, {label: "चित्तूर", value: 76.30, display: "76.30"}, {label: "विजयनगरम", value: 76.21, display: "76.21"}, {label: "पोलावरम", value: 65.48, display: "65.48"}, {label: "अल्लूरी एस राजू", value: 62.01, display: "62.01"}]}
   source: "आंध्र प्रदेश राज्य चुनाव आयोग, 6 नवंबर 2026"
-related: [andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent, andhra-parishad-polls-four-voters-two-poll-staff-die, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
+related: [andhra-parishad-polls-four-voters-two-poll-staff-die, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
 seo:
   description: "आंध्र प्रदेश राज्य चुनाव आयोग के अनुसार 5 नवंबर के एमपीटीसी और जेडपीटीसी चुनावों में अंतिम मतदान 70.72% रहा, विशाखापत्तनम में सबसे ज्यादा 82.51%। गिनती 7 नवंबर 2026 को।"
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "Reliance Industries chairman Mukesh Ambani (file photo)"
   overlay:
     value: "Reliance up 6% on Q2 surge"
-related: [sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, jio-platforms-lists-21-per-cent-premium-1358]
+related: [sensex-nifty-close-november-2, gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, jio-platforms-lists-21-per-cent-premium-1358]
 seo:
   description: "Reliance Industries shares rose 6.22% to ₹1,237.30 on November 2, 2026, after Q2 FY27 profit attributable to shareholders rose 41% to ₹25,548 crore on a 68% jump in O2C EBITDA."
 cover:

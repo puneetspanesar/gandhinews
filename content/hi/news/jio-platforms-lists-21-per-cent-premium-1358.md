@@ -21,7 +21,7 @@ hero:
   alt: "जियो प्लेटफॉर्म्स के प्रबंध निदेशक आकाश अंबानी"
   overlay:
     value: "इश्यू प्राइस से 21% ऊपर जियो"
-related: [jio-platforms-ipo-subscribed-22-times-listing-october-28, jio-platforms-ipo-closes-subscription-final-day, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, sensex-nifty-week-october-30-pharma-fii-return]
+related: [jio-platforms-ipo-subscribed-22-times-listing-october-28, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, sensex-nifty-week-october-30-pharma-fii-return]
 seo:
   description: "जियो प्लेटफॉर्म्स 28 अक्टूबर 2026 को ₹1,119 के आईपीओ प्राइस पर 21.36% प्रीमियम के साथ ₹1,358 पर लिस्ट हुई, करीब ₹1,418 पर बंद होकर देश की दूसरी सबसे मूल्यवान कंपनी बनी।"
 sources:

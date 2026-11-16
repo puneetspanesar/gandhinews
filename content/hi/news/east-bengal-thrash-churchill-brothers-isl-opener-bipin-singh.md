@@ -21,7 +21,7 @@ hero:
   alt: "ईस्ट बंगाल के फॉरवर्ड बिपिन सिंह"
   overlay:
     value: "चैंपियन की 4-0 से शुरुआत"
-related: [east-bengal-churchill-brothers-isl-title-defence-preview, east-bengal-lose-to-al-shorta-acl-two-kolkata, mohun-bagan-beat-sc-delhi-figueira-isl, punjab-fc-beat-odisha-fc-stoppage-time-isl]
+related: [east-bengal-lose-to-al-shorta-acl-two-kolkata, mohun-bagan-beat-sc-delhi-figueira-isl, punjab-fc-beat-odisha-fc-stoppage-time-isl]
 seo:
   description: "फातोर्दा में ईस्ट बंगाल ने चर्चिल ब्रदर्स को 4-0 से हराकर आईएसएल खिताब बचाने की शुरुआत की, दानी रामिरेज, एडमंड लालरिंडिका और बिपिन सिंह (2) ने गोल किए।"
 sources:

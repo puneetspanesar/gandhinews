@@ -20,7 +20,7 @@ hero:
   alt: "अभिनेता प्रकाश राज"
   overlay:
     value: "'सत्ता परिवर्तन हर नागरिक का हक'"
-related: [bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, cjp-lehra-do-tiranga-connaught-place-protest-preview, supreme-court-women-journalists-sealed-cover-delhi-protests, sir-phase-three-draft-rolls-names-dropped-by-state]
+related: [bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, supreme-court-women-journalists-sealed-cover-delhi-protests, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
   description: "प्रेस क्लब ऑफ इंडिया में सीजेपी के अभिजीत दिपके के साथ प्रशांत भूषण ने सत्ता परिवर्तन को संवैधानिक अधिकार बताया, प्रकाश राज ने फॉर्म 7 के दुरुपयोग का आरोप लगाया।"
 sources:

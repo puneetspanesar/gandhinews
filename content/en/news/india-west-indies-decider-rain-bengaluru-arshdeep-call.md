@@ -20,7 +20,7 @@ hero:
   alt: "India bowling coach Morne Morkel (file photo)"
   overlay:
     value: "One match, two sets of covers"
-related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru, india-west-indies-fourth-t20i-hyderabad-result, india-west-indies-bengaluru-decider-arshdeep-doubt]
+related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru, india-west-indies-fourth-t20i-hyderabad-result]
 seo:
   description: "India v West Indies fifth T20I, Bengaluru: rain cancels India's nets, Arshdeep Singh's fitness call still pending and Bhuvneshwar Kumar set for a T20I return."
 sources:

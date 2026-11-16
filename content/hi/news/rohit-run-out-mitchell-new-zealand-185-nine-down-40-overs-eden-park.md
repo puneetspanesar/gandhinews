@@ -31,7 +31,7 @@ infographic:
     - {icon: person-simple-run, value: "28", label: "डैरिल मिचेल, रोहित शर्मा ने किया रन-आउट"}
     - {icon: target, value: "137/8", label: "35वें ओवर तक न्यूज़ीलैंड"}
   source: "मैच स्कोरिंग, 4 नवंबर 2026"
-related: [brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi, arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
+related: [india-beat-new-zealand-five-wickets-dls-eden-park-first-odi, arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi]
 seo:
   description: "ईडन पार्क में न्यूज़ीलैंड बनाम भारत पहला वनडे: रोहित शर्मा के डाइविंग रन-आउट से डैरिल मिचेल 28 पर आउट, न्यूज़ीलैंड 40.2 ओवर में 185 पर ऑल आउट।"
 sources:

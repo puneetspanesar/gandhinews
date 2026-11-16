@@ -21,7 +21,7 @@ hero:
   alt: "भाजपा अध्यक्ष नितिन नबीन और रोहतक शहर"
   overlay:
     value: "रोहतक में भाजपा का जवाबी मार्च"
-related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, haryana-60-murmu-kurukshetra-haryana-day]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, haryana-60-murmu-kurukshetra-haryana-day]
 seo:
   description: "1 नवंबर 2026: भाजपा अध्यक्ष नितिन नबीन रोहतक में 'लोकतंत्र बचाओ, अराजकता हटाओ' पदयात्रा निकाल रहे हैं, एसआईआर पर इंडिया गठबंधन की रामलीला मैदान रैली का जवाब।"
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय तेज गेंदबाज भुवनेश्वर कुमार"
   overlay:
     value: "निर्णायक मैच में भुवी की वापसी"
-related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, india-west-indies-bengaluru-decider-arshdeep-doubt, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i]
+related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i]
 seo:
   description: "अर्शदीप सिंह के गेंदबाजी वाले कंधे में चोट के बाद बेंगलुरु में वेस्टइंडीज के खिलाफ पांचवें टी20 के लिए भुवनेश्वर कुमार भारतीय टीम में शामिल।"
 sources:

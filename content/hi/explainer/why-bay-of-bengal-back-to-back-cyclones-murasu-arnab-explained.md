@@ -17,7 +17,7 @@ hero:
   alt: "आंध्र प्रदेश तट के पास बंगाल की खाड़ी में चक्रवात मुरासु"
   overlay:
     value: "एक हफ्ता, दो चक्रवात"
-related: [cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
+related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   description: "बंगाल की खाड़ी में अर्णब और मुरासु जैसे लगातार चक्रवात क्यों बनते हैं: गर्म समुद्र, नदियों का मीठा पानी, कम विंड शियर, प्रशांत से आए सिस्टम और मैडेन-जूलियन ऑसिलेशन, आसान भाषा में।"
 sources:

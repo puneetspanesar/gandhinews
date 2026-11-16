@@ -30,7 +30,7 @@ infographic:
     - {icon: first-aid-kit, value: "20", label: "injured, all sent on to Jorhat Medical College and Hospital"}
     - {icon: currency-inr, value: "₹2 lakh", label: "from the PMNRF for each family of the dead"}
   source: "Golaghat district officials and the Prime Minister's Office, November 13, 2026"
-related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, kolkata-sairang-express-derails-digaru-assam-no-injuries]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, kolkata-sairang-express-derails-digaru-assam-no-injuries]
 seo:
   title: "26 killed in Kaziranga minibus-truck crash, Assam"
   description: "At least 26 people died when a minibus hit a container truck on NH-715 near Kaziranga in Golaghat, Assam, on November 13, 2026. PM Modi announced ₹2 lakh each."

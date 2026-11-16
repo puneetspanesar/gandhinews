@@ -21,7 +21,7 @@ hero:
   alt: "आंध्र के गेंदबाज कावुरी साईतेजा"
   overlay:
     value: "लंच तक पंजाब 84/5"
-related: [bengal-collapse-maharashtra-ranji-eden-dadhe, railways-bowl-mumbai-ranji-round-four-cci-start, ranji-round-two-final-day-mumbai-maharashtra-punjab-push]
+related: [bengal-collapse-maharashtra-ranji-eden-dadhe, mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz, ranji-round-two-final-day-mumbai-maharashtra-punjab-push]
 seo:
   description: "2 नवंबर 2026 को मोहाली में रणजी ट्रॉफी मैच के पहले दिन आंध्र के खिलाफ लंच तक पंजाब 5 विकेट पर 84 रन बना सका। कावुरी साईतेजा ने एक ओवर में तीन विकेट लिए।"
 sources:

@@ -30,7 +30,7 @@ infographic:
     left: {title: "आडकर / भोसले", value: "भारत", text: "दूसरी वरीयता वाली जोड़ी को 6-2, 2-6, 10-8 से हराया"}
     right: {title: "कारामोको / वाल्टर्ट", value: "स्विट्ज़रलैंड", text: "हावरलाग / उदवर्डी को 6-4, 6-4 से हराया"}
   source: "चेन्नई ओपन सेमीफाइनल, 7 नवंबर 2026"
-related: [adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open, maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery]
+related: [maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery]
 seo:
   description: "वैष्णवी आडकर और ऋतुजा भोसले 8 नवंबर 2026 को चेन्नई ओपन डबल्स फाइनल में नाइमा कारामोको और सिमोना वाल्टर्ट से भिड़ेंगी।"
 sources:

@@ -20,7 +20,7 @@ hero:
   overlay:
     kicker: "Our view"
     value: "One coast, two storms, one claim"
-related: [cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit, naidu-cyclone-arnab-review-zero-casualties-fishermen, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
+related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, naidu-cyclone-murasu-review-cancels-delhi-visit, naidu-cyclone-arnab-review-zero-casualties-fishermen, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   description: "Gandhi News editorial: as Cyclone Murasu nears Ongole days after Cyclone Arnab, Andhra Pradesh and the Centre should assess both storms together, pay farmers an advance and keep evacuations early."
 sources:

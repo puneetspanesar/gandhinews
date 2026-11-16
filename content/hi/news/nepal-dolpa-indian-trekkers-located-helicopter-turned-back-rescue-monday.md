@@ -27,7 +27,7 @@ cover:
   headline: "'हम नहीं कह सकते कि वे लापता हैं'"
   bg: "Dho Tarap"
   inset: "Shey Phoksundo National Park"
-related: [indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo, nepal-gorkha-floods-strand-foreign-trekkers-manaslu]
+related: [nepal-gorkha-floods-strand-foreign-trekkers-manaslu]
 seo:
   description: "नेपाल के अधिकारियों ने डोल्पा के शे फोक्सुंडो इलाके में भारी बर्फ में फंसे छह भारतीय पर्यटकों का पता लगा लिया है, पर सेना का हेलिकॉप्टर लौट गया और बचाव अब सोमवार को होगा।"
 sources:

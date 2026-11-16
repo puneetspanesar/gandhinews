@@ -36,7 +36,7 @@ infographic:
     - {date: "5 नवंबर", text: "एक परिवार के पांच शव निकाले गए", icon: users}
     - {date: "5 नवंबर", text: "ओडिशा ने केंद्र से ₹2,526 करोड़ मांगे", icon: currency-inr}
   source: "कंधमाल जिला प्रशासन; ओडिशा विशेष राहत आयुक्त, 5 नवंबर 2026"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained]
+related: [cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained]
 seo:
   description: "ओडिशा के गंजाम में भूस्खलन वाले गांव घिडिपबाली से 5 नवंबर को एक परिवार के पांच शव मिले, मृतक सात हुए। राज्य ने केंद्र से ₹2,526 करोड़ मांगे।"
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "अमेरिकी विदेश मंत्री मार्को रुबियो और विदेश मंत्री एस जयशंकर"
   overlay:
     value: "बस दस्तखत बाकी, बोले रुबियो"
-related: [jaishankar-rubio-mumbai-talks, jaishankar-rubio-talks-mumbai-october-20-mea, jaishankar-abdullah-bin-zayed-mumbai-talks-uae, diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe]
+related: [jaishankar-rubio-talks-mumbai-october-20-mea, jaishankar-abdullah-bin-zayed-mumbai-talks-uae, diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe]
 seo:
   description: "20 अक्टूबर को मुंबई में एस जयशंकर से बातचीत के बाद मार्को रुबियो ने कहा कि भारत-अमेरिका व्यापार समझौता बहुत करीब है। इसके बाद यूएई के साथ त्रिपक्षीय बैठक हुई।"
 sources:

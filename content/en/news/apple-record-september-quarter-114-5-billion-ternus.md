@@ -20,7 +20,7 @@ hero:
   alt: "Apple chief executive John Ternus (file photo)"
   overlay:
     value: "Record $114.5 billion quarter"
-related: [apple-results-ternus-first-call-113-billion-preview, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle]
+related: [wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle]
 seo:
   description: "Apple Q4 FY2026 results: revenue up 12% to a September-quarter record $114.5 billion, iPhone about $57.6 billion, EPS $2.10, dividend $0.27, in John Ternus's first quarter as CEO."
 cover:

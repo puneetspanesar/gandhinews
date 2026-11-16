@@ -20,7 +20,7 @@ hero:
   alt: "Maruti Suzuki's car plant at Manesar, Haryana (file photo)"
   overlay:
     value: "Factory PMI eases to 54.7"
-related: [india-manufacturing-pmi-october-final-due-flash-54-9, gst-collections-october-2026-2-31-lakh-crore-imports, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2]
+related: [gst-collections-october-2026-2-31-lakh-crore-imports, sensex-nifty-close-november-2]
 seo:
   description: "India manufacturing PMI October 2026: the final HSBC reading eased to 54.7 from 55.1, below the 54.9 flash estimate, as export orders rose at a six-month high and input cost inflation hit its lowest since February."
 cover:

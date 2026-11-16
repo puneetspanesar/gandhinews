@@ -31,7 +31,7 @@ infographic:
     - {icon: map-pin, value: "15", label: "54 स्टेशनों में से 400 के ऊपर गंभीर श्रेणी में"}
     - {icon: shield-warning, value: "441", label: "सबसे ऊंचा आंकड़ा, बुराड़ी क्रॉसिंग और सोनिया विहार पर"}
   source: "सीपीसीबी के आंकड़े, 9 नवंबर 2026"
-related: [delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, delhi-aqi-369-diwali-eve-16-stations-severe-grap-three, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday]
+related: [delhi-aqi-369-diwali-eve-16-stations-severe-grap-three, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday]
 seo:
   description: "9 नवंबर 2026 को सुबह 7 बजे दिल्ली का एक्यूआई 368 रहा, 54 में से 15 स्टेशन गंभीर, बुराड़ी क्रॉसिंग 441 और ग्रैप स्टेज 3 लागू।"
 sources:

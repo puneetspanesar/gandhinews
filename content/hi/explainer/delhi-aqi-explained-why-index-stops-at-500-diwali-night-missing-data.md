@@ -27,7 +27,7 @@ infographic:
     - {icon: cloud-fog, value: "3,744", label: "दिवाली की रात 2 बजे मुंडका में पीएम2.5 का शिखर"}
     - {icon: map-pin, value: "59 में 36", label: "रात भर खाली रहे दिल्ली के सीपीसीबी स्टेशन"}
   source: "सीपीसीबी सूचकांक, 9 नवंबर 2026 को सामने आए डीपीसीसी आंकड़े"
-related: [delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot, delhi-grap-stage-three-aqi-382-caqm, delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, grap-explained-delhi-air-stages-what-is-banned, why-stubble-fires-rise-in-october-explained]
+related: [delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot, delhi-grap-stage-three-aqi-382-caqm, delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, grap-explained-delhi-air-stages-what-is-banned, why-stubble-fires-rise-in-october-explained]
 seo:
   description: "भारत का एक्यूआई कैसे बनता है, 500 पर क्यों रुकता है, दिल्ली में दिवाली की रात पीएम2.5 के 3,744 का सूचकांक में क्यों पता नहीं चला, और मॉनिटरों के आंकड़े गायब होने का मतलब।"
 sources:

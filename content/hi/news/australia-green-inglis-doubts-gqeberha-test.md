@@ -20,7 +20,7 @@ hero:
   alt: "ऑस्ट्रेलियाई ऑलराउंडर कैमरन ग्रीन"
   overlay:
     value: "1-0 आगे, फिर भी टीम तय नहीं"
-related: [south-africa-drop-stubbs-recall-breetzke-gqeberha-test, rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test, renshaw-puts-australia-on-top-in-durban-test]
+related: [south-africa-drop-stubbs-recall-breetzke-gqeberha-test, rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "कोच एंड्रयू मैकडॉनल्ड के मुताबिक़ 18 अक्टूबर से ग्केबेरा में दक्षिण अफ़्रीका के खिलाफ़ दूसरे टेस्ट के लिए कैमरन ग्रीन और जोश इंगलिस की फ़िटनेस तय नहीं।"
 sources:

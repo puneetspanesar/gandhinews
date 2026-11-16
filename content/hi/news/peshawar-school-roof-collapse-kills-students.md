@@ -20,7 +20,7 @@ hero:
   alt: "पेशावर का लेडी रीडिंग अस्पताल"
   overlay:
     value: "28 बच्चे, एक शिक्षिका, एक छत"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa]
+related: [pakistan-joint-sitting-approves-kp-governors-rule, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa]
 seo:
   description: "पेशावर के अफरीदी आबाद में अल-खैर स्कूल की छत गिरने से गुरुवार सुबह 7 से 16 साल के 28 छात्रों समेत कम से कम 29 लोगों की मौत हो गई।"
 sources:

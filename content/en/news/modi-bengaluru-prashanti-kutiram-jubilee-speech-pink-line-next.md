@@ -34,7 +34,7 @@ infographic:
     - {icon: map-pin, value: "18", label: "stations on the full line, 12 of them underground"}
     - {icon: currency-inr, value: "₹3,470 cr", label: "cost of the opening section, per the PMO release"}
   source: "Press Information Bureau, November 11, 2026; BMRCL details as reported"
-related: [modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting]
 seo:
   title: "Modi in Bengaluru: Prashanti Kutiram jubilee, Pink Line next"
   description: "PM Modi landed in Bengaluru on November 13, joined the Prashanti Kutiram Golden Jubilee with Hosabale and Shivakumar, and rides the Pink Line at 12:45 pm."
@@ -72,7 +72,7 @@ verification:
     - "Picture: library file photo of Modi, 1024 px wide (above 900). PIB had no photos of the event at 11:10."
 ---
 
-Prime Minister Narendra Modi reached Bengaluru on Friday morning, was received at HAL Airport by Governor Sudha Yadav and Chief Minister D K Shivakumar, and joined the **Golden Jubilee of Prashanti Kutiram**, the S-VYASA yoga campus, scheduled by the Prime Minister's Office for 10:45 am. His next engagement is the ride on the new Namma Metro Pink Line at about 12:45 pm, followed by projects worth over ₹15,600 crore at about 1:15 pm. Our [morning preview](/en/news/modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead) has the full schedule. This report covers what has happened so far.
+Prime Minister Narendra Modi reached Bengaluru on Friday morning, was received at HAL Airport by Governor Sudha Yadav and Chief Minister D K Shivakumar, and joined the **Golden Jubilee of Prashanti Kutiram**, the S-VYASA yoga campus, scheduled by the Prime Minister's Office for 10:45 am. His next engagement is the ride on the new Namma Metro Pink Line at about 12:45 pm, followed by projects worth over ₹15,600 crore at about 1:15 pm. Our [morning preview](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects) has the full schedule. This report covers what has happened so far.
 
 ## Welcome at the airport
 

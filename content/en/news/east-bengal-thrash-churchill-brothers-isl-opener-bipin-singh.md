@@ -20,7 +20,7 @@ hero:
   alt: "East Bengal forward Bipin Singh"
   overlay:
     value: "Champions open with a 4-0"
-related: [east-bengal-churchill-brothers-isl-title-defence-preview, east-bengal-lose-to-al-shorta-acl-two-kolkata, mohun-bagan-beat-sc-delhi-figueira-isl, punjab-fc-beat-odisha-fc-stoppage-time-isl]
+related: [east-bengal-lose-to-al-shorta-acl-two-kolkata, mohun-bagan-beat-sc-delhi-figueira-isl, punjab-fc-beat-odisha-fc-stoppage-time-isl]
 seo:
   description: "East Bengal opened their ISL title defence with a 4-0 win over Churchill Brothers at Fatorda, with Dani Ramirez, Edmund Lalrindika and a late Bipin Singh double."
 sources:

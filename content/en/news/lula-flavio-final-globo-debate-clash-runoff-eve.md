@@ -20,7 +20,7 @@ hero:
   alt: "President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro (file photos)"
   overlay:
     value: "Last word before Sunday's vote"
-related: [brazil-runoff-sunday-lula-flavio-final-globo-debate, lula-flavio-bolsonaro-trade-insults-first-runoff-debate, brazil-runoff-polls-flavio-edge-lula-first-debate]
+related: [lula-flavio-bolsonaro-trade-insults-first-runoff-debate, brazil-runoff-polls-flavio-edge-lula-first-debate]
 seo:
   description: "Lula and Flávio Bolsonaro clashed over wages, infrastructure and corruption in Brazil's final TV Globo debate on October 23, two days before the presidential runoff."
 sources:

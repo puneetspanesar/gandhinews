@@ -31,7 +31,7 @@ infographic:
     - {icon: users-three, value: "2.70 करोड़", label: "नागरिकों ने दी राय"}
     - {icon: trophy, value: "60", label: "राष्ट्रीय पुरस्कार प्रदान"}
   source: "आवास और शहरी कार्य मंत्रालय, 11 नवंबर 2026"
-related: [swachh-survekshan-2025-26-awards-president-murmu-november-11]
+related: []
 seo:
   description: "स्वच्छ सर्वेक्षण 2025-26 में 10 लाख से अधिक आबादी वाली श्रेणी में ग्रेटर विशाखापत्तनम, जबलपुर और लखनऊ शीर्ष पर। राष्ट्रपति मुर्मु ने 11 नवंबर 2026 को 60 पुरस्कार दिए।"
 sources:

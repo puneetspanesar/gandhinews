@@ -20,7 +20,7 @@ hero:
   alt: "Justice Joymalya Bagchi of the Supreme Court (file photo)"
   overlay:
     value: "Chargesheet filed, Supreme Court steps back"
-related: [supreme-court-ram-temple-trust-funds-probe-hearing-today]
+related: []
 seo:
   description: "On November 2, 2026, the Supreme Court closed pleas seeking a CBI probe into theft of Ayodhya Ram Mandir donations after police filed a chargesheet against eight accused."
 sources:
@@ -39,7 +39,7 @@ verification:
   notes:
     - "event: Nov 2 ~12:40 IST, SC bench (CJI Surya Kant, Justices Bagchi, Mohana) closes Ram Mandir donation theft pleas. LiveLaw alert at 10:49 am said the case was yet to be heard; Bar & Bench report stamped 7:13 am, read as UTC (12:43 pm IST)."
     - "Mehta's ₹15 lakh / ₹50 lakh property example and 105 instances from Bar & Bench summary; no verbatim quotes available, so none used. Petitioners' names and trial court location not given in today's report; left out."
-    - "New development on earlier preview story supreme-court-ram-temple-trust-funds-probe-hearing-today (outcome, new slug)."
+    - "New development on earlier preview story supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet (outcome, new slug)."
 cover:
   template: breaking
   label: "Temple funds"

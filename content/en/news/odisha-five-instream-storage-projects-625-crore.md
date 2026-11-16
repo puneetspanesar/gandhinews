@@ -30,7 +30,7 @@ infographic:
     - {icon: map-pin, value: "74", label: "villages"}
     - {icon: currency-inr, value: "₹625.47 cr", label: "cost of the five projects"}
   source: "Odisha government statement, November 13, 2026"
-related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   title: "Odisha clears 5 river storage projects, ₹625 crore"
   description: "Odisha approves five in-stream storage projects worth ₹625.47 crore in Rayagada, Kalahandi, Ganjam, Balangir and Subarnapur for 74 villages."

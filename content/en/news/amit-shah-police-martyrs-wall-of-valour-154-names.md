@@ -20,7 +20,7 @@ hero:
   alt: "Union Home Minister Amit Shah"
   overlay:
     value: "36,852 names on the Wall of Valour"
-related: [police-commemoration-day-amit-shah-national-police-memorial, national-unity-day-ekta-nagar-25000-lwe-districts-govind-mohan]
+related: [national-unity-day-ekta-nagar-25000-lwe-districts-govind-mohan]
 seo:
   description: "Amit Shah honoured 36,852 police martyrs at the National Police Memorial on Police Commemoration Day, October 21, 2026, as 154 new names were added."
 sources:

@@ -35,7 +35,7 @@ infographic:
     - {date: "5 नवंबर", text: "प्रधानमंत्री बालेंद्र शाह से मुलाकात", icon: map-pin}
     - {date: "नवंबर में", text: "शाह के नई दिल्ली आने की उम्मीद", icon: airplane}
   source: "संयुक्त प्रेस विज्ञप्ति और नेपाल पीएमओ, 5 नवंबर 2026"
-related: [misri-lands-kathmandu-today-three-post-diwali-dates-shah, vikram-misri-kathmandu-visit-november-4-5-balendra-shah, sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal]
+related: [sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal]
 seo:
   description: "विदेश सचिव विक्रम मिस्री ने 5 नवंबर 2026 को काठमांडू में नेपाल के प्रधानमंत्री बालेंद्र शाह से मुलाकात कर इस महीने के आखिर में होने वाली उनकी भारत यात्रा की तैयारियों की जानकारी दी।"
 sources:

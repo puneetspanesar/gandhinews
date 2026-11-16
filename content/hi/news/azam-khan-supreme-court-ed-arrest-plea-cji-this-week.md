@@ -26,7 +26,7 @@ cover:
   label: "सुप्रीम कोर्ट"
   headline: "ईडी की गिरफ्तारी को आजम खान की चुनौती"
   bg: "Supreme Court of India"
-related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-ram-temple-trust-funds-probe-hearing-today]
+related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet]
 seo:
   description: "2 नवंबर 2026 को सपा नेता आजम खान की ईडी गिरफ्तारी के खिलाफ याचिका का सीजेआई सूर्यकांत के सामने उल्लेख हुआ; जौहर यूनिवर्सिटी मनी लॉन्ड्रिंग मामले में इसी हफ्ते सुनवाई होगी।"
 sources:

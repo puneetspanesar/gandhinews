@@ -31,7 +31,7 @@ infographic:
     - {date: "Jul 24, 2026", text: "Section 301 duty of 10% replaces stopgap", icon: factory}
     - {date: "Nov 3, 2026", text: "Midterms decide who holds Congress", icon: flag-banner}
   source: "US Supreme Court; USTR; Jefferies; Chatham House; US fact sheet, February 10, 2026"
-related: [us-midterms-2026-explained-what-is-at-stake, us-midterms-ossoff-holds-georgia-first-results, india-us-trade-talks-plateau-russia-oil-tariff-law, trump-waives-russia-sanctions-law-india-tariff-threat]
+related: [us-midterms-2026-explained-what-is-at-stake, us-midterms-results-cooper-flips-north-carolina-senate, india-us-trade-talks-plateau-russia-oil-tariff-law, trump-waives-russia-sanctions-law-india-tariff-threat]
 seo:
   description: "US midterms 2026 and tariffs: can a Democratic House undo Trump's 10% Section 301 duty on India? Congress's tariff powers, the veto, the trade deal and H-1B explained."
 sources:

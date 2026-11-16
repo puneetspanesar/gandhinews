@@ -38,7 +38,7 @@ infographic:
     - {icon: currency-inr, value: "₹3,470 cr", label: "Pink Line section"}
     - {icon: train, value: "45 km", label: "Bagalkot-Wandal doubling dedicated"}
   source: "Prime Minister's Office release, November 11, 2026"
-related: [modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting]
+related: [modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting]
 seo:
   title: "Modi in Bengaluru: Pink Line, ₹15,600 crore projects"
   description: "PM Modi's Bengaluru programme on November 13, 2026: Pink Line metro, ₹10,370 crore of power lines, Mangaluru LPG cavern, Vande Bharat to Goa and a biogas plant."
@@ -94,7 +94,7 @@ On the railways, the release has him inaugurating four redeveloped Amrit Bharat 
 
 ## How we got here
 
-The visit was announced on November 11, 2026, as a two-day tour of Karnataka and Gujarat. On Thursday Chief Minister D.K. Shivakumar said the state would [welcome the Prime Minister and raise its demands](/en/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting), including drought relief. Modi landed at HAL Airport on Friday morning and first attended the Prashanti Kutiram jubilee. Our [morning preview](/en/news/modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead) lists the full schedule.
+The visit was announced on November 11, 2026, as a two-day tour of Karnataka and Gujarat. On Thursday Chief Minister D.K. Shivakumar said the state would [welcome the Prime Minister and raise its demands](/en/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting), including drought relief. Modi landed at HAL Airport on Friday morning and first attended the Prashanti Kutiram jubilee. Our [morning preview](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects) lists the full schedule.
 
 ## Why it matters
 

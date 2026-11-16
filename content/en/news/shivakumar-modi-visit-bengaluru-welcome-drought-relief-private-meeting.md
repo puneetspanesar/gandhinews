@@ -36,7 +36,7 @@ infographic:
     - {date: "Nov 12, 2026", text: "CM says state will raise issues", icon: microphone}
     - {date: "Nov 13, 2026", text: "PM opens Pink Line in Bengaluru", icon: train}
   source: "Reports from Bengaluru, November 5 and 12, 2026"
-related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike, shivakumar-sugarcane-meetings-farmers-factories-belagavi]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, karnataka-moves-supreme-court-hc-quashes-sc-st-quota-hike, shivakumar-sugarcane-meetings-farmers-factories-belagavi]
 seo:
   title: "Shivakumar to raise drought relief with PM Modi in Bengaluru"
   description: "Karnataka CM D K Shivakumar says the state will welcome PM Modi on November 13 and raise drought relief and funds; Modi asked him to meet in Delhi."
@@ -91,7 +91,7 @@ Shivakumar also pitched cooperation as a two-way matter. The state's problems, h
 
 ## What the Prime Minister is opening
 
-The visit is built around the Namma Metro Pink Line, which Shivakumar called "Karnataka's pride". The section to be opened is a 7.5-km elevated stretch between Kalena Agrahara and Tavarekere, built at a cost of about **₹3,470 crore**. Modi is to ride the metro from Tavarekere to IIM Bangalore station at about 12:45 pm, according to the Prime Minister's Office release of November 11, and then address a gathering where projects worth over ₹15,600 crore will be launched. Earlier, at about 10:45 am, he will attend the Golden Jubilee celebrations of Prashanti Kutiram. In Mysuru, he will inaugurate the COSMOS-Mysuru Planetarium at about 4 pm. Our [earlier report on the visit](/en/news/modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview) has the full schedule.
+The visit is built around the Namma Metro Pink Line, which Shivakumar called "Karnataka's pride". The section to be opened is a 7.5-km elevated stretch between Kalena Agrahara and Tavarekere, built at a cost of about **₹3,470 crore**. Modi is to ride the metro from Tavarekere to IIM Bangalore station at about 12:45 pm, according to the Prime Minister's Office release of November 11, and then address a gathering where projects worth over ₹15,600 crore will be launched. Earlier, at about 10:45 am, he will attend the Golden Jubilee celebrations of Prashanti Kutiram. In Mysuru, he will inaugurate the COSMOS-Mysuru Planetarium at about 4 pm. Our [earlier report on the visit](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects) has the full schedule.
 
 The Chief Minister said the state has made significant progress on infrastructure but "a lot more needs to be done", and that much remains pending. He did not name projects on Thursday.
 

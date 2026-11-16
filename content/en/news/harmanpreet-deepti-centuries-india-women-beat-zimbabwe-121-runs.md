@@ -20,7 +20,7 @@ hero:
   alt: "India batters Harmanpreet Kaur and Deepti Sharma"
   overlay:
     value: "Two hundreds, a 2-0 series lead"
-related: [harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi, india-women-zimbabwe-second-odi-vadodara-rawal-preview, harmanpreet-91-india-women-sweep-zimbabwe-92-runs]
+related: [india-women-zimbabwe-second-odi-vadodara-rawal-preview, harmanpreet-91-india-women-sweep-zimbabwe-92-runs]
 seo:
   description: "Harmanpreet Kaur's 126 and Deepti Sharma's unbeaten 106 led India women to a 121-run win over Zimbabwe in Vadodara and an unbeatable 2-0 ODI series lead."
 sources:

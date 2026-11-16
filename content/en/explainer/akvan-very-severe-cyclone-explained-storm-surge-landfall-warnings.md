@@ -16,7 +16,7 @@ hero:
   alt: "Damage left by a cyclone on the Visakhapatnam coast (file photo)"
   overlay:
     value: "What 'very severe' means"
-related: [akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms, akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return]
+related: [akvan-deep-depression-monday-imd-landfall-night-nov-19, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   title: "Very severe cyclone explained: winds, storm surge, landfall"
   description: "What a very severe cyclonic storm means as Cyclone Akvan nears Andhra Pradesh: 118 to 166 km/h winds, storm surge, landfall and IMD colour alerts explained."

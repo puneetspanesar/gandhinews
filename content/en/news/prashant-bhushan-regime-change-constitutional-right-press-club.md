@@ -19,7 +19,7 @@ hero:
   alt: "Actor Prakash Raj"
   overlay:
     value: "'Regime change is every citizen's right'"
-related: [bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, cjp-lehra-do-tiranga-connaught-place-protest-preview, supreme-court-women-journalists-sealed-cover-delhi-protests, sir-phase-three-draft-rolls-names-dropped-by-state]
+related: [bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, supreme-court-women-journalists-sealed-cover-delhi-protests, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
   description: "At a Press Club of India meeting with CJP's Abhijeet Dipke, Prashant Bhushan said regime change is a constitutional right and Prakash Raj alleged misuse of Form 7."
 sources:

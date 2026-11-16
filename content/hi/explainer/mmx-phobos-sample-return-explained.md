@@ -17,7 +17,7 @@ hero:
   alt: "नासा के मार्स रिकॉनिसेंस ऑर्बिटर से दिखा मंगल का चांद फोबोस (फाइल तस्वीर)"
   overlay:
     value: "मंगल के चांद से 10 ग्राम मिट्टी"
-related: [mmx-launch-h3-phobos-outcome, japan-h3-mmx-phobos-sample-return-launch, mmx-phobos-probe-h3-launch-tonight-tanegashima]
+related: [mmx-launch-h3-phobos-outcome]
 seo:
   description: "जापान का एमएमएक्स मिशन क्या है? फोबोस पर कैसे उतरेगा, कम से कम 10 ग्राम मिट्टी लेकर 2031 में कैसे लौटेगा, नासा की भूमिका और मंगल के चांदों की उत्पत्ति का सवाल।"
 sources:

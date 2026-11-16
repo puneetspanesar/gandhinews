@@ -20,7 +20,7 @@ hero:
   alt: "Andhra bowler Kavuri Saiteja"
   overlay:
     value: "Punjab 84/5 at lunch"
-related: [bengal-collapse-maharashtra-ranji-eden-dadhe, railways-bowl-mumbai-ranji-round-four-cci-start, ranji-round-two-final-day-mumbai-maharashtra-punjab-push]
+related: [bengal-collapse-maharashtra-ranji-eden-dadhe, mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz, ranji-round-two-final-day-mumbai-maharashtra-punjab-push]
 seo:
   description: "Punjab were 84 for 5 at lunch on day one of their Ranji Trophy match against Andhra at Mohali on November 2, 2026, with Kavuri Saiteja taking three wickets in an over."
 sources:

@@ -30,7 +30,7 @@ infographic:
     - {icon: map-pin, value: "36 of 59", label: "CPCB stations blank in Delhi overnight"}
     - {icon: fire, value: "1,152", label: "Punjab farm fires on November 8, the season's highest"}
   source: "DPCC, CPCB and CAQM data reported November 9, 2026"
-related: [delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, kapil-mishra-fir-demand-punjab-diwali-stubble-fires, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three]
+related: [delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, kapil-mishra-fir-demand-punjab-diwali-stubble-fires, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
 seo:
   description: "Delhi's missing Diwali-night air data shows PM2.5 up to 3,744 at Mundka. AAP alleges fraud, BJP blames Punjab farm fires, and CAQM counts 4,459 fires."
 sources:

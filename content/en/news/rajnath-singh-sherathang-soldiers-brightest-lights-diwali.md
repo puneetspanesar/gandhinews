@@ -31,7 +31,7 @@ infographic:
     - {title: "Sunday, Nov 8", text: "Troops of 33 Corps at Sherathang"}
     - {title: "Sunday, Nov 8", text: "Sherathang War Memorial tribute"}
   source: "Ministry of Defence release, November 8, 2026"
-related: [rajnath-singh-reaches-sherathang-diwali-nathu-la, rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve, rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday, modi-bastar-cobra-karanpur-diwali-naxalism-won]
+related: [rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve, rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday, modi-bastar-cobra-karanpur-diwali-naxalism-won]
 seo:
   description: "Defence Minister Rajnath Singh celebrated Diwali with Trishakti Corps troops at Sherathang, Sikkim, on November 8, 2026, calling soldiers the brightest lights of Diwali and honouring the fallen at the Sherathang War Memorial."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "Vaibhav Sooryavanshi, who is expected to open for India in the second T20I"
   overlay:
     value: "1-0 up, one opener down"
-related: [ishan-kishan-ruled-out-second-t20i-christchurch, india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch, india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
+related: [india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch, india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
 seo:
   description: "India face New Zealand in the second T20I at Hagley Oval on October 24, 12:30 pm IST, with Vaibhav Sooryavanshi set to replace the injured Ishan Kishan."
 sources:

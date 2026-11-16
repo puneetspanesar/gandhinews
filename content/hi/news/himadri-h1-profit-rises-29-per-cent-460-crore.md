@@ -21,7 +21,7 @@ hero:
   alt: "हिमाद्री स्पेशियलिटी केमिकल का परिसर"
   overlay:
     value: "हिमाद्री का मुनाफा 31% बढ़ा"
-related: [bajaj-finance-results-today-29-per-cent-profit-estimate, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo]
+related: [bajaj-finance-q2-results-october-19, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo]
 seo:
   description: "हिमाद्री स्पेशियलिटी केमिकल के दूसरी तिमाही के नतीजे: शुद्ध मुनाफा 31% बढ़कर ₹231 करोड़, आय 58% बढ़कर ₹1,691 करोड़; छमाही मुनाफा 29% बढ़कर ₹460 करोड़।"
 sources:

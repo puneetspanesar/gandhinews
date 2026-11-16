@@ -20,7 +20,7 @@ hero:
   alt: "Congress leaders Salman Khurshid and Rajeev Shukla"
   overlay:
     value: "'Part of an ongoing movement'"
-related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, nadda-anarchy-model-india-bloc-rally-sood-chaos, deepender-hooda-barricades-pilot-rally-goers-stopped, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, nadda-anarchy-model-india-bloc-rally-sood-chaos, deepender-hooda-barricades-pilot-rally-goers-stopped, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "INDIA bloc rally, November 1, 2026: Salman Khurshid says the fight over voter list deletions will not end with one rally; Rajeev Shukla asks why CEC Gyanesh Kumar is not resigning."
 sources:

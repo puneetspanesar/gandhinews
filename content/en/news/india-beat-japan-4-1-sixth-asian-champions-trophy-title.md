@@ -20,7 +20,7 @@ hero:
   alt: "India men's hockey team (file photo)"
   overlay:
     value: "Sixth Asian title, third in a row"
-related: [india-japan-asian-champions-trophy-final-mohali-preview, india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali, india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar]
+related: [india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali, india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar]
 seo:
   description: "India beat Japan 4-1 in the men's Asian Champions Trophy hockey final in Mohali on November 5, 2026, for a record sixth title and a third straight crown."
 sources:

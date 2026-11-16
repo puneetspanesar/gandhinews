@@ -19,7 +19,7 @@ hero:
   alt: "West Indies fast bowler Shamar Joseph"
   overlay:
     value: "One game, one series, Saturday 7 pm"
-related: [india-west-indies-bengaluru-decider-arshdeep-doubt, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, modi-hosts-asian-games-champions-iyer-harmanpreet-delhi]
+related: [india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, modi-hosts-asian-games-champions-iyer-harmanpreet-delhi]
 seo:
   description: "India v West Indies fifth T20I preview: Arshdeep Singh's fitness, dew and a small Chinnaswamy ground as the series is decided in Bengaluru on Saturday, October 17."
 sources:

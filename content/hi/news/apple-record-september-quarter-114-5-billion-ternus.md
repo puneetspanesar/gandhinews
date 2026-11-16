@@ -21,7 +21,7 @@ hero:
   alt: "एप्पल के मुख्य कार्यकारी जॉन टर्नस (फाइल फोटो)"
   overlay:
     value: "रिकॉर्ड 114.5 अरब डॉलर की तिमाही"
-related: [apple-results-ternus-first-call-113-billion-preview, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle]
+related: [wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle]
 seo:
   description: "एप्पल चौथी तिमाही 2026 नतीजे: आय 12% बढ़कर सितंबर तिमाही के रिकॉर्ड 114.5 अरब डॉलर पर, आईफोन करीब 57.6 अरब डॉलर, ईपीएस 2.10 डॉलर, 0.27 डॉलर लाभांश, सीईओ जॉन टर्नस की पहली तिमाही।"
 cover:

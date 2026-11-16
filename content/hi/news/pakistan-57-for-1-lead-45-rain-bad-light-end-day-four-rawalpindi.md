@@ -38,7 +38,7 @@ infographic:
     - {date: "12 नव", text: "श्रीलंका 446; पाकिस्तान 57/1, बारिश से खेल रुका", icon: cloud-rain}
     - {date: "13 नव", text: "निर्धारित अंतिम दिन", icon: calendar-blank}
   source: "मैच रिपोर्ट, 12 नवंबर 2026"
-related: [saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test, rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi, de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three]
+related: [saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test, de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three]
 seo:
   description: "रावलपिंडी टेस्ट का चौथा दिन बारिश और खराब रोशनी से जल्दी खत्म, पाकिस्तान 57/1 और श्रीलंका से 45 रन आगे; साकिब खान ने डेब्यू पर सात विकेट लिए।"
 sources:
@@ -80,7 +80,7 @@ verification:
 
 ## मैच यहां तक कैसे पहुंचा
 
-पाकिस्तान की पहली पारी के 434/9 में सऊद शकील के 93 रन सबसे बड़े योगदान थे। तीसरे दिन, जैसा [हमने बताया था](/hi/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three), डी सिल्वा और मेंडिस ने पांचवें विकेट के लिए 249 रन जोड़े, जो पाकिस्तान के खिलाफ श्रीलंका की किसी भी विकेट के लिए सबसे बड़ी साझेदारी है। उस दिन साकिब ने 105 रन देकर दो विकेट लिए थे। खेल शुरू होने से पहले [चौथे दिन के हमारे पूर्वावलोकन](/hi/news/rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi) में दोपहर में बारिश की 90% से ज्यादा संभावना का जिक्र था।
+पाकिस्तान की पहली पारी के 434/9 में सऊद शकील के 93 रन सबसे बड़े योगदान थे। तीसरे दिन, जैसा [हमने बताया था](/hi/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three), डी सिल्वा और मेंडिस ने पांचवें विकेट के लिए 249 रन जोड़े, जो पाकिस्तान के खिलाफ श्रीलंका की किसी भी विकेट के लिए सबसे बड़ी साझेदारी है। उस दिन साकिब ने 105 रन देकर दो विकेट लिए थे। खेल शुरू होने से पहले [चौथे दिन के हमारे पूर्वावलोकन](/hi/news/saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test) में दोपहर में बारिश की 90% से ज्यादा संभावना का जिक्र था।
 
 खराब रोशनी और फिर बारिश से दोपहर का खेल जल्दी खत्म हुआ। इससे पहले आरिफ के जल्दी आउट होने के बाद अवैस और ताहा ने पारी संभाली थी और स्कोर 15/1 से लंच तक 39/1 और फिर 57 तक पहुंचाया।
 

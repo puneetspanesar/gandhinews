@@ -20,7 +20,7 @@ hero:
   alt: "Former Keralam chief minister Pinarayi Vijayan (file photo)"
   overlay:
     value: "Seven days' breathing space"
-related: [supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan, chandy-oommen-pinarayi-vijayan-not-hounded-cmrl, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench]
+related: [pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan, chandy-oommen-pinarayi-vijayan-not-hounded-cmrl, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench]
 seo:
   description: "On October 21 the Supreme Court stayed for seven days the vigilance probe against Pinarayi Vijayan, Veena T and P A Mohamed Riyas in the CMRL-Exalogic case and let them appeal in the High Court."
 sources:

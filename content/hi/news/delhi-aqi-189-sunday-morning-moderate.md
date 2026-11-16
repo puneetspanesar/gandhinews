@@ -21,7 +21,7 @@ hero:
   alt: "नई दिल्ली में धुंध भरी सुबह"
   overlay:
     value: "18 अक्टूबर को एक्यूआई 189"
-related: [delhi-aqi-159-moderate-cpcb-saturday-grap, delhi-air-turns-poor-again-anand-vihar-dry-week]
+related: [delhi-air-turns-poor-again-anand-vihar-dry-week]
 seo:
   description: "रविवार 18 अक्टूबर सुबह 9 बजे दिल्ली का एक्यूआई 189 रहा, 'मध्यम' श्रेणी की ऊपरी सीमा पर; शनिवार शाम यह 159 था। सीपीसीबी के समीर ऐप के आंकड़े।"
 sources:

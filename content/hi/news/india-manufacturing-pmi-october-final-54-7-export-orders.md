@@ -21,7 +21,7 @@ hero:
   alt: "हरियाणा के मानेसर में मारुति सुज़ुकी का कार संयंत्र (फाइल फोटो)"
   overlay:
     value: "फैक्ट्री पीएमआई घटकर 54.7"
-related: [india-manufacturing-pmi-october-final-due-flash-54-9, gst-collections-october-2026-2-31-lakh-crore-imports, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2]
+related: [gst-collections-october-2026-2-31-lakh-crore-imports, sensex-nifty-close-november-2]
 seo:
   description: "मैन्युफैक्चरिंग पीएमआई अक्टूबर 2026: एचएसबीसी का अंतिम आंकड़ा 55.1 से घटकर 54.7 पर, फ्लैश अनुमान 54.9 से भी कम। निर्यात ऑर्डर छह महीने के ऊंचे स्तर पर, लागत महंगाई फरवरी के बाद सबसे कम।"
 cover:

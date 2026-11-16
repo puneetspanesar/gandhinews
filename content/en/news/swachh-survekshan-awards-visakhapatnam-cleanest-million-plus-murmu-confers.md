@@ -30,7 +30,7 @@ infographic:
     - {icon: users-three, value: "2.70 crore", label: "citizens gave feedback"}
     - {icon: trophy, value: "60", label: "national awards presented"}
   source: "Ministry of Housing and Urban Affairs, November 11, 2026"
-related: [swachh-survekshan-2025-26-awards-president-murmu-november-11]
+related: []
 seo:
   description: "Greater Visakhapatnam, Jabalpur and Lucknow top the million-plus category in Swachh Survekshan 2025-26. President Murmu presented 60 awards in New Delhi on November 11, 2026."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "The Delhi Ridge, where the city's lowest minimum temperature was recorded on Sunday"
   overlay:
     value: "AQI 184, low of 18.6°C"
-related: [delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
+related: [delhi-aqi-189-sunday-morning-moderate]
 seo:
   description: "Delhi's AQI was 184 ('moderate') at 6 pm on October 18, per CPCB's Sameer app, as the minimum temperature dropped to 18.6 degrees Celsius, the month's lowest."
 sources:

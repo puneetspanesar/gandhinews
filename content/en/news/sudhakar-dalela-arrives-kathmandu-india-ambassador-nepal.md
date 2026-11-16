@@ -25,7 +25,7 @@ cover:
   label: "India-Nepal"
   headline: "New Indian envoy arrives in Kathmandu"
   bg: "Tribhuvan International Airport"
-related: [vikram-misri-kathmandu-visit-november-4-5-balendra-shah]
+related: [misri-meets-balendra-shah-kathmandu-india-visit-preparations]
 seo:
   description: "Sudhakar Dalela, India's new ambassador to Nepal and former envoy to Bhutan, arrived in Kathmandu on November 3, 2026, a day before Foreign Secretary Vikram Misri's two-day visit."
 sources:
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Nov 3, arrival at Tribhuvan International Airport, exact time not given in the evening briefing; reported in the Tuesday evening briefing. Fresh development of a running story (Misri visit already covered in vikram-misri-kathmandu-visit-november-4-5-balendra-shah)."
+    - "event: Nov 3, arrival at Tribhuvan International Airport, exact time not given in the evening briefing; reported in the Tuesday evening briefing. Fresh development of a running story (Misri visit already covered in misri-meets-balendra-shah-kathmandu-india-visit-preparations)."
     - "Single source. Career details (secretary economic relations at MEA, Bhutan ambassador for three years, IFS 1993) as given there. No quotes available; no claim made about credentials presentation date."
 infographic:
   kicker: "India-Nepal ties"

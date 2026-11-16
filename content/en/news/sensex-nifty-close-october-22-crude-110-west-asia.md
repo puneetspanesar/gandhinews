@@ -20,7 +20,7 @@ hero:
   alt: "The BSE building on Dalal Street in Mumbai"
   overlay:
     value: "Third day in the red"
-related: [sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-ipo-retail-quota-full-day-two-3-47-times, results-today-hpcl-swiggy-havells-colgate-october-22, global-cues-wall-street-gains-brent-109-yields-october-22, rupee-six-week-high-94-38-jio-inflows-rbi]
+related: [sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-subscribed-22-times-listing-october-28, results-today-hpcl-swiggy-havells-colgate-october-22, global-cues-wall-street-gains-brent-109-yields-october-22, rupee-six-week-high-94-38-jio-inflows-rbi]
 seo:
   description: "Stock market close October 22, 2026: Sensex falls about 460 points, Nifty ends near 22,688 as Brent tops $110 and Asian markets slide. Power Grid, M&M, Nestle among losers; rupee at 94.50 early."
 sources:

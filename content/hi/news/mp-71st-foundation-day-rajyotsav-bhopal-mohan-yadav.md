@@ -21,7 +21,7 @@ hero:
   alt: "मध्य प्रदेश के मुख्यमंत्री मोहन यादव और भोपाल का लाल परेड मैदान"
   overlay:
     value: "71 साल का मध्य प्रदेश"
-related: [karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, kerala-turns-70-festival-kerala-satheesan-nishagandhi]
+related: [karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur, kerala-turns-70-festival-kerala-satheesan-nishagandhi]
 seo:
   description: "मध्य प्रदेश स्थापना दिवस 2026: राज्य 71 साल का हुआ। भोपाल के लाल परेड मैदान में मुख्यमंत्री मोहन यादव तीन दिन के राज्योत्सव का शुभारंभ करेंगे; प्रदर्शनियां, मोनाली ठाकुर की प्रस्तुति, छात्रवृत्ति और किसानों को ट्रैक्टर।"
 sources:

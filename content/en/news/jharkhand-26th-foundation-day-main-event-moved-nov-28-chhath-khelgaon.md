@@ -34,7 +34,7 @@ infographic:
     - {date: "Nov 26 to 28", text: "Fair at Khelgaon", icon: map-pin}
     - {date: "Nov 28", text: "Main state ceremony", icon: calendar-check}
   source: "Jharkhand government schedule as reported, November 14 and 15, 2026"
-related: [modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore, hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed, cji-surya-kant-deoghar-baidyanath-legal-services-camp-today]
+related: [modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address, hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed, cji-surya-kant-deoghar-baidyanath-legal-services-camp-today]
 seo:
   title: "Jharkhand Foundation Day 2026: main event moved to Nov 28"
   description: "Jharkhand marks its 26th Foundation Day on November 15 with Chhath on, as the Soren government holds the main event at Khelgaon, Ranchi, on November 28."

@@ -25,7 +25,7 @@ cover:
   label: "Cyclone Murasu"
   headline: "Nine trains off, families moved to camps"
   bg: "Vijayawada rain"
-related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, naidu-cyclone-murasu-review-cancels-delhi-visit]
+related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
   description: "South Coast Railway cancelled nine trains on Vijayawada, Guntur and Tenali routes for Cyclone Murasu, and NTR district moved Mogalrajapuram families to relief camps over landslide fears on November 3."
 sources:

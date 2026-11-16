@@ -21,7 +21,7 @@ hero:
   alt: "समाजवादी पार्टी सांसद राजीव राय और शिवसेना (यूबीटी) सांसद संजय राउत"
   overlay:
     value: "'सीमाओं पर बसें रोकी जा रहीं'"
-related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-convoy-connaught-place-tejashwi-crush-democracy]
 seo:
   description: "इंडिया गठबंधन रैली, 1 नवंबर 2026: दिल्ली-गुरुग्राम सरहौल बॉर्डर पर रैली की गाड़ियां जाम में फंसीं; संजय राउत और सपा सांसदों का आरोप, बसें और ट्रेनें रोकी गईं।"
 sources:

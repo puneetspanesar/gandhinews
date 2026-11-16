@@ -36,7 +36,7 @@ infographic:
     - {icon: map-pin, value: "576", label: "polling stations in 11 Palnadu mandals"}
   chart: {type: columns, title: "Turnout by 9 am, selected Palnadu mandals, %", highlight: 0, items: [{label: "Piduguralla", value: 18.55, display: "18.55"}, {label: "Gurazala", value: 16.77, display: "16.77"}, {label: "Sattenapalli", value: 16.76, display: "16.76"}, {label: "Krosuru", value: 6.31, display: "6.31"}, {label: "Chilakaluripet", value: 4.63, display: "4.63"}]}
   source: "Palnadu district election authorities; YSRCP statement, November 5, 2026"
-related: [andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "YSRCP alleged obstruction of polling agents and voters in Pulivendula, Ramagiri and Hindupur during Andhra MPTC-ZPTC polls on November 5, 2026; Palnadu recorded 12.06% turnout by 9 am."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "SpaceX Starship at the launch tower at Starbase, Texas"
   overlay:
     value: "First ship catch from orbit"
-related: [starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight, nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028, spacex-q3-revenue-14-6-billion-ai-half-income]
+related: [nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028, spacex-q3-revenue-14-6-billion-ai-half-income]
 seo:
   title: "SpaceX catches Starship Ship 42 at tower after Flight 15"
   description: "SpaceX caught Starship's Ship 42 with its Starbase tower arms at about 2:50 am IST on November 15 after 22.5 hours and 14 orbits, the first upper stage recovered."
@@ -85,7 +85,7 @@ Ship 42 carried a "Don't Panic" marking, a nod to The Hitchhiker's Guide to the 
 
 ## The booster that did not make it
 
-The day before, the Super Heavy booster, Booster 22, did not reach the tower. As we reported on [Saturday](/en/news/starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight), SpaceX called off its catch and sent it toward the Gulf of Mexico. Later accounts say it relit **32 of its 33 Raptor engines** for the boostback burn, which ended early because it was low on propellant. The booster's guidance system then detected that it was out of position and triggered the abort. It hovered over the water before its flight termination system fired and it fell into the sea.
+The day before, the Super Heavy booster, Booster 22, did not reach the tower. As we reported on [Saturday](/en/news/starship-flight-15-ship-42-caught-tower-first-upper-stage-catch), SpaceX called off its catch and sent it toward the Gulf of Mexico. Later accounts say it relit **32 of its 33 Raptor engines** for the boostback burn, which ended early because it was low on propellant. The booster's guidance system then detected that it was out of position and triggered the abort. It hovered over the water before its flight termination system fired and it fell into the sea.
 
 Musk said the engines had slightly underperformed, leaving the booster short of propellant. He named two fixes: more consistent Raptor V3.2 engines and a software change that shuts the engines down about a second earlier to save fuel for the return. "This booster loss does not change our timeline to reach high volume, fully reusable Starship flights," he said. SpaceX engineer Kate Tice said the team was still looking into the root cause.
 

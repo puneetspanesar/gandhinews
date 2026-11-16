@@ -20,7 +20,7 @@ hero:
   alt: "The Promenade Beach in Puducherry"
   overlay:
     value: "Signal No. 1 at Puducherry port"
-related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "Schools and colleges in Puducherry and Karaikal and schools in Dindigul are closed on Monday, October 26; Cyclone Warning Signal No. 1 is up at Puducherry port."
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "मध्य नई दिल्ली का कनॉट प्लेस, जहां से रामलीला मैदान तक विपक्ष का मार्च शुरू होना था"
   overlay:
     value: "मोदी-शाह को 'कड़ी चेतावनी'"
-related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
   description: "इंडिया गठबंधन की रैली, 1 नवंबर 2026: कांग्रेस महासचिव के सी वेणुगोपाल ने कहा, सीईसी ज्ञानेश कुमार के खिलाफ रामलीला मैदान का विरोध प्रधानमंत्री मोदी और अमित शाह के लिए कड़ी चेतावनी है।"
 sources:

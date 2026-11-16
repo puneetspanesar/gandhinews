@@ -21,7 +21,7 @@ hero:
   alt: "भारत के गेंदबाज़ी कोच मोर्ने मोर्कल (फ़ाइल फ़ोटो)"
   overlay:
     value: "एक मैच, और मैदान पर कवर"
-related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru, india-west-indies-fourth-t20i-hyderabad-result, india-west-indies-bengaluru-decider-arshdeep-doubt]
+related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru, india-west-indies-fourth-t20i-hyderabad-result]
 seo:
   description: "भारत बनाम वेस्टइंडीज़ पांचवां टी20, बेंगलुरु: बारिश से भारत का नेट सत्र रद्द, अर्शदीप सिंह की फिटनेस पर फैसला बाकी, भुवनेश्वर कुमार की वापसी तय।"
 sources:

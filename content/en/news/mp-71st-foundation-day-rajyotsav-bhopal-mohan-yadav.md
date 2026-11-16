@@ -20,7 +20,7 @@ hero:
   alt: "Madhya Pradesh Chief Minister Mohan Yadav and Lal Parade Ground, Bhopal"
   overlay:
     value: "Madhya Pradesh at 71"
-related: [karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, kerala-turns-70-festival-kerala-satheesan-nishagandhi]
+related: [karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur, kerala-turns-70-festival-kerala-satheesan-nishagandhi]
 seo:
   description: "Madhya Pradesh Foundation Day 2026: the state turns 71. CM Mohan Yadav opens a three-day Rajyotsav at Lal Parade Ground, Bhopal, with exhibitions, Monali Thakur's show, student scholarships and tractors for farmers."
 sources:

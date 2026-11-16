@@ -21,7 +21,7 @@ hero:
   alt: "केरल के कोच्चि में मुथूट फाइनेंस की इमारत (फाइल फोटो)"
   overlay:
     value: "52 हफ्ते के निचले स्तर से 9% ऊपर"
-related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2]
+related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-nifty-close-november-2]
 seo:
   description: "मुथूट फाइनेंस शेयर 2 नवंबर 2026: शेयर 52 हफ्ते के निचले स्तर ₹2,305 पर गिरा, फिर करीब 9% उछलकर ₹2,508 पर। दूसरी तिमाही में मुनाफा 27% बढ़कर ₹2,977 करोड़, गोल्ड लोन एयूएम 46% बढ़ा।"
 cover:

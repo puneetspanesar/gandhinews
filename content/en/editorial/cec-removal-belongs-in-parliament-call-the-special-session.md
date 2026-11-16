@@ -20,7 +20,7 @@ hero:
   overlay:
     kicker: "Our view"
     value: "Take the debate to the real House"
-related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-ramlila-maidan-rally-today-preview, election-commission-should-publish-its-dissent, supreme-court-notice-adr-plea-cec-immunity-section-16, election-commission-dissent-report-move-to-remove-cec]
+related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, election-commission-should-publish-its-dissent, supreme-court-notice-adr-plea-cec-immunity-section-16, election-commission-dissent-report-move-to-remove-cec]
 seo:
   description: "Gandhi News editorial: after the INDIA bloc's mock impeachment of CEC Gyanesh Kumar and Amit Shah's offer of a special session, Parliament should debate the SIR charges and the Election Commission should publish its deletion data."
 sources:

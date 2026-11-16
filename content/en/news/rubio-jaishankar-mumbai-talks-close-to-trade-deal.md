@@ -20,7 +20,7 @@ hero:
   alt: "US Secretary of State Marco Rubio and External Affairs Minister S Jaishankar"
   overlay:
     value: "One signature away, says Rubio"
-related: [jaishankar-rubio-mumbai-talks, jaishankar-rubio-talks-mumbai-october-20-mea, jaishankar-abdullah-bin-zayed-mumbai-talks-uae, diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe]
+related: [jaishankar-rubio-talks-mumbai-october-20-mea, jaishankar-abdullah-bin-zayed-mumbai-talks-uae, diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe]
 seo:
   description: "After talks with S Jaishankar in Mumbai on October 20, Marco Rubio said the India-US trade deal is very close, with a few items left. A trilateral with the UAE followed."
 sources:

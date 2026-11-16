@@ -34,7 +34,7 @@ infographic:
     - {icon: users, value: "84 + 2,109", label: "ZPTC and MPTC seats where he says rivals were kept out"}
     - {icon: video-camera, value: "16,064", label: "of 31,460 polling stations with CCTV, by his count"}
   source: "Jagan Mohan Reddy, media briefing, November 5, 2026"
-related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula]
+related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula]
 seo:
   description: "YSRCP chief Jagan Mohan Reddy said Andhra Pradesh's November 5 MPTC and ZPTC polls were neither free nor fair, alleging blocked nominations, rigging and missing CCTV."
 sources:

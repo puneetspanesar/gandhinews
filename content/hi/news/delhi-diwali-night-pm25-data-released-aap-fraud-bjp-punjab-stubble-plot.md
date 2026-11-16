@@ -31,7 +31,7 @@ infographic:
     - {icon: map-pin, value: "59 में 36", label: "रात में खाली रहे सीपीसीबी स्टेशन"}
     - {icon: fire, value: "1,152", label: "8 नवंबर को पंजाब में पराली की घटनाएं, सीजन में सबसे ज्यादा"}
   source: "9 नवंबर 2026 को रिपोर्ट हुए डीपीसीसी, सीपीसीबी और सीएक्यूएम के आंकड़े"
-related: [delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, kapil-mishra-fir-demand-punjab-diwali-stubble-fires, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three]
+related: [delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, kapil-mishra-fir-demand-punjab-diwali-stubble-fires, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
 seo:
   description: "दिल्ली में दिवाली की रात का गायब डेटा जारी: मुंडका में PM2.5 3,744। आप का फर्जीवाड़े का आरोप, भाजपा का पंजाब पर निशाना, सीएक्यूएम के मुताबिक 4,459 घटनाएं।"
 sources:

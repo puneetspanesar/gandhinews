@@ -37,7 +37,7 @@ infographic:
     - {icon: users, value: "2.61 करोड़", label: "पात्र मतदाता"}
   chart: {type: columns, title: "सुबह 9 बजे तक मतदान, चुनिंदा जिले, %", highlight: 0, items: [{label: "अनंतपुर", value: 9.44, display: "9.44"}, {label: "कृष्णा", value: 8.21, display: "8.21"}, {label: "चित्तूर", value: 7.30, display: "7.30"}, {label: "कुरनूल", value: 7.23, display: "7.23"}, {label: "एलुरु", value: 2.14, display: "2.14"}, {label: "बापटला", value: 1.38, display: "1.38"}]}
   source: "जिलेवार मतदान के आंकड़े, 5 नवंबर 2026"
-related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "आंध्र प्रदेश एमपीटीसी-जेडपीटीसी चुनाव, 5 नवंबर 2026: सुबह 9 बजे तक राज्य में 4.8% मतदान, अनंतपुर 9.44%, बाद में एनटीआर 14% और कृष्णा 15% के पार।"
 sources:

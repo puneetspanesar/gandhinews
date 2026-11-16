@@ -21,7 +21,7 @@ hero:
   alt: "पाकिस्तान के विपक्ष के नेता महमूद खान अचकज़ई (फाइल फोटो)"
   overlay:
     value: "'दुनिया में कहीं नहीं'"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-rejects-rajnath-remarks-afghan-talks-conditions]
+related: [pakistan-joint-sitting-approves-kp-governors-rule, pakistan-rejects-rajnath-remarks-afghan-talks-conditions]
 seo:
   description: "पाकिस्तान के विपक्षी गठबंधन टीटीएपी ने खैबर पख्तूनख्वा में आपातकाल और राज्यपाल शासन को पेशावर हाईकोर्ट में चुनौती दी, अचकज़ई ने इमरान पर सौदे के दबाव का आरोप लगाया।"
 sources:

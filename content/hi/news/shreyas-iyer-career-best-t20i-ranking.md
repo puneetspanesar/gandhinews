@@ -20,7 +20,7 @@ hero:
   alt: "भारत के टी20 कप्तान श्रेयस अय्यर"
   overlay:
     value: "टी20 में अय्यर चौथे नंबर पर"
-related: [india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, renshaw-puts-australia-on-top-in-durban-test]
+related: [india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "आईसीसी रैंकिंग: श्रेयस अय्यर टी20 बल्लेबाज़ी में करियर की सर्वश्रेष्ठ चौथी रैंक पर, ईशान किशन और अभिषेक शर्मा शीर्ष पर, टेस्ट में मैट रेनशॉ 147 स्थान ऊपर।"
 sources:

@@ -19,7 +19,7 @@ hero:
   alt: "Korla city in Xinjiang, China"
   overlay:
     value: "High-altitude drills, Chinese soil"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan, china-rejects-india-ladakh-28-place-names-mea-responds]
+related: [pakistan-joint-sitting-approves-kp-governors-rule, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan, china-rejects-india-ladakh-28-place-names-mea-responds]
 seo:
   description: "Pakistani and Chinese troops began the Karakoram 2026 exercise in Korla, Xinjiang, on October 14, practising high-altitude counter-terrorism operations."
 sources:

@@ -19,7 +19,7 @@ hero:
   alt: "Australia all-rounder Cameron Green"
   overlay:
     value: "1-0 up, and still picking a side"
-related: [south-africa-drop-stubbs-recall-breetzke-gqeberha-test, rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test, renshaw-puts-australia-on-top-in-durban-test]
+related: [south-africa-drop-stubbs-recall-breetzke-gqeberha-test, rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "Australia are unsure whether Cameron Green and Josh Inglis will be fit for the second Test against South Africa in Gqeberha from October 18, says coach Andrew McDonald."
 sources:

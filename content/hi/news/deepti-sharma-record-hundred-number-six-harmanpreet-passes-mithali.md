@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय ऑलराउंडर दीप्ति शर्मा"
   overlay:
     value: "छठे नंबर से पहला शतक"
-related: [harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs, harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi]
+related: [harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs]
 seo:
   description: "ज़िम्बाब्वे के खिलाफ दीप्ति शर्मा के नाबाद 106 रन छठे या निचले क्रम पर किसी भारतीय महिला का पहला वनडे शतक हैं। हरमनप्रीत कौर ने मिताली राज के सात शतकों को पीछे छोड़ा।"
 sources:

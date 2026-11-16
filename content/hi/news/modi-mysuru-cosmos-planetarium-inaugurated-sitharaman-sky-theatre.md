@@ -31,7 +31,7 @@ infographic:
     - {icon: cpu, value: "6,150", label: "एलईडी पैनल, 4.2 करोड़ एलईडी"}
     - {icon: currency-inr, value: "₹85 से 115 करोड़", label: "लागत, अलग-अलग रिपोर्टों के अनुसार"}
   source: "पत्र सूचना कार्यालय, 11 नवंबर 2026"
-related: [cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview, modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next]
 seo:
   title: "मोदी ने मैसूरु के कॉसमॉस एलईडी प्लैनेटेरियम का उद्घाटन किया"
   description: "प्रधानमंत्री मोदी ने 13 नवंबर 2026 को देश के पहले एलईडी-डोम प्लैनेटेरियम कॉसमॉस-मैसूरु का उद्घाटन किया, सीतारमण और शिवकुमार मौजूद रहे।"
@@ -87,7 +87,7 @@ verification:
 
 ## यहां तक कैसे पहुंचे
 
-सीतारमण ने 6 मार्च 2022 को नींव का पत्थर रखा और अपनी सांसद निधि (एमपीलैड्स) से ₹5 करोड़ दिए। विज्ञान और प्रौद्योगिकी विभाग, परमाणु ऊर्जा विभाग और अंतरिक्ष विभाग ने भी परियोजना का साथ दिया, और मैसूर विश्वविद्यालय ने करीब तीन एकड़ ज़मीन दी। उद्घाटन की तारीख सितंबर 2025 से खिसककर फरवरी 2026 और फिर इस हफ्ते तक आई। हमारी [प्लैनेटेरियम की पूर्व रिपोर्ट](/hi/news/cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview) में पूरा ब्योरा है।
+सीतारमण ने 6 मार्च 2022 को नींव का पत्थर रखा और अपनी सांसद निधि (एमपीलैड्स) से ₹5 करोड़ दिए। विज्ञान और प्रौद्योगिकी विभाग, परमाणु ऊर्जा विभाग और अंतरिक्ष विभाग ने भी परियोजना का साथ दिया, और मैसूर विश्वविद्यालय ने करीब तीन एकड़ ज़मीन दी। उद्घाटन की तारीख सितंबर 2025 से खिसककर फरवरी 2026 और फिर इस हफ्ते तक आई। हमारी [प्लैनेटेरियम की पूर्व रिपोर्ट](/hi/news/modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre) में पूरा ब्योरा है।
 
 ```timeline
 {"title":"कॉसमॉस प्लैनेटेरियम","items":[{"date":"6 मार्च 2022","text":"सीतारमण ने नींव का पत्थर रखा"},{"date":"सितंबर 2025","text":"उद्घाटन का लक्ष्य, दिसंबर 2024 की रिपोर्ट के अनुसार"},{"date":"13 जनवरी 2026","text":"निर्माण कार्य पूरा, फरवरी 2026 में उद्घाटन की उम्मीद"},{"date":"11 नवंबर 2026","text":"पत्र सूचना कार्यालय ने उद्घाटन की घोषणा की"},{"date":"13 नवंबर 2026","text":"प्रधानमंत्री ने उद्घाटन किया"}]}

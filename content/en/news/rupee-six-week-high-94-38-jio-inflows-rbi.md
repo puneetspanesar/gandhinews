@@ -20,7 +20,7 @@ hero:
   alt: "Indian ₹500 banknotes"
   overlay:
     value: "Rupee at 94.38, up 53 paise"
-related: [rupee-flat-94-92-importer-dollar-demand-october-19, sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-fully-subscribed-day-one-record]
+related: [rupee-flat-94-92-importer-dollar-demand-october-19, sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
   description: "Rupee closes at 94.38 against the US dollar on October 21, 2026, up 53 paise and a six-week high, on Jio Platforms IPO inflows and RBI intervention; Brent above $110."
 sources:

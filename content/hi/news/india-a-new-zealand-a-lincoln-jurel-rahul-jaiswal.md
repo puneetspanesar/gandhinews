@@ -21,7 +21,7 @@ hero:
   alt: "भारत के केएल राहुल"
   overlay:
     value: "लिंकन में लाल गेंद की तैयारी"
-related: [ishan-kishan-ruled-out-second-t20i-christchurch, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
+related: [india-new-zealand-second-t20i-sooryavanshi-kishan-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
   description: "ध्रुव जुरेल की कप्तानी में केएल राहुल और यशस्वी जायसवाल वाली भारत ए टीम 24 अक्टूबर से लिंकन में न्यूज़ीलैंड ए के खिलाफ चार दिन का मैच खेलेगी।"
 sources:

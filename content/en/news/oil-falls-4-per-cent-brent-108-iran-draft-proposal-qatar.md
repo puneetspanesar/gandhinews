@@ -20,7 +20,7 @@ hero:
   alt: "Oil tankers off the Port of Fujairah, UAE (file photo)"
   overlay:
     value: "Brent down 4.2% at $108.64"
-related: [oil-slips-monday-brent-111-iran-qatar-talks-november-2, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, india-crude-import-bill-90-6-billion-april-september, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, sensex-nifty-close-november-2]
+related: [oil-slips-monday-brent-111-iran-qatar-talks-november-2, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, india-crude-import-bill-90-6-billion-april-september, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, sensex-nifty-close-november-2]
 seo:
   description: "Oil prices on November 2, 2026: Brent falls 4.2% to $108.64 and WTI drops below $100 as Iran's talks with Qatar produce a draft proposal; Goldman sees $140 risk in 2027."
 cover:

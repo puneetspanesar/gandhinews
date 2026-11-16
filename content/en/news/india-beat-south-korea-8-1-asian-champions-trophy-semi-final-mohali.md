@@ -20,7 +20,7 @@ hero:
   alt: "India hockey forward Shilanand Lakra"
   overlay:
     value: "India 8-1 South Korea, into the final"
-related: [india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar, india-south-korea-asian-champions-trophy-last-league-jalandhar-preview, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy]
+related: [india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy]
 seo:
   description: "India beat South Korea 8-1 in the men's Asian Champions Trophy semi-final in Mohali on November 4, 2026, and will play Japan in the final on November 5."
 sources:

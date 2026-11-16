@@ -25,7 +25,7 @@ cover:
   label: "Supreme Court"
   headline: "'Don't travel by air. Next case.'"
   bg: "Supreme Court of India"
-related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-ram-temple-trust-funds-probe-hearing-today]
+related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet]
 seo:
   description: "On November 2, 2026, a lawyer mentioned a plea before Justice Vikram Nath saying airfares had risen 700%; the judge said 'Don't travel by air. Next case.'"
 sources:

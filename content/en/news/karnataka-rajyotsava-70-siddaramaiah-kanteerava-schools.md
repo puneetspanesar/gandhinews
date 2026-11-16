@@ -20,7 +20,7 @@ hero:
   alt: "Karnataka Chief Minister Siddaramaiah and Sree Kanteerava Stadium, Bengaluru"
   overlay:
     value: "Karnataka at 70"
-related: [kerala-turns-70-festival-kerala-satheesan-nishagandhi, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing]
+related: [kerala-turns-70-festival-kerala-satheesan-nishagandhi, mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur]
 seo:
   description: "Kannada Rajyotsava 2026: Karnataka marks its 70th formation day. CM Siddaramaiah is chief guest at Kanteerava Stadium with 20,000 schoolchildren; Bengaluru traffic diversions and the Sunday school order."
 sources:

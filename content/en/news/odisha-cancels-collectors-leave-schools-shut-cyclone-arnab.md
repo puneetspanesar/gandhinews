@@ -20,7 +20,7 @@ hero:
   alt: "Odisha Chief Minister Mohan Charan Majhi (file photo)"
   overlay:
     value: "Target: zero casualties"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, bay-of-bengal-depression-october-25-odisha-fishermen-warning]
+related: [cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, bay-of-bengal-depression-october-25-odisha-fishermen-warning]
 seo:
   description: "Odisha cancelled leave of all district collectors and ordered schools and anganwadis in Ganjam, Gajapati, Rayagada, Koraput and Malkangiri shut on October 28-29."
 sources:

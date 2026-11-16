@@ -34,7 +34,7 @@ infographic:
     - {date: "Nov 10", text: "Third ODI abandoned, no ball bowled", icon: cloud-rain}
     - {date: "Nov 13", text: "Fourth ODI, Iyer captains India", icon: cricket}
   source: "Match reports, November 10, 2026"
-related: [hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi, india-beat-new-zealand-five-wickets-dls-eden-park-first-odi]
+related: [gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, india-beat-new-zealand-dls-four-runs-brar-wellington-second-odi, india-beat-new-zealand-five-wickets-dls-eden-park-first-odi]
 seo:
   description: "The third India v New Zealand ODI at Seddon Park, Hamilton, was abandoned because of rain without a ball bowled. India lead 2-0 and Shreyas Iyer captains the last two ODIs."
 sources:
@@ -76,7 +76,7 @@ The umpires called the match off late in the local afternoon, with at least 70 m
 
 Play had been due to begin at 7:30 am IST. A wet outfield and then drizzle kept the covers on for hours, and the toss was pushed back by well over an hour. Shubman Gill won it for the third match running and chose to bowl, with India naming the same eleven that played in Wellington. The overs were cut to 40 a side, with a maximum of 8 for each bowler, but the weather never allowed a start.
 
-The surface had been a worry from the start. As [we reported on the eve of the game](/en/news/hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match), the groundstaff had little time to prepare the pitch before the rain set in, and it spent long spells under covers.
+The surface had been a worry from the start. As [we reported on the eve of the game](/en/news/hamilton-third-odi-abandoned-rain-india-lead-2-0-iyer-to-captain), the groundstaff had little time to prepare the pitch before the rain set in, and it spent long spells under covers.
 
 
 ## How the series stands

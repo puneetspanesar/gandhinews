@@ -20,7 +20,7 @@ hero:
   alt: "RJD leader Tejashwi Yadav and CPI general secretary D Raja"
   overlay:
     value: "Opposition convoy reaches Connaught Place"
-related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-rally-venugopal-stern-warning-modi-shah, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally]
 seo:
   description: "INDIA bloc rally, November 1, 2026: Rahul Gandhi, Mamata Banerjee, Akhilesh and Tejashwi ride an open bus from Minto Bridge to Connaught Place; BJP calls it anarchic."
 sources:

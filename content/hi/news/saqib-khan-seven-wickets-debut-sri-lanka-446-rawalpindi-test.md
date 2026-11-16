@@ -38,7 +38,7 @@ infographic:
     - {date: "12 नव", text: "श्रीलंका 446 पर आउट; लंच तक पाकिस्तान 39/1", icon: cricket}
     - {date: "13 नव", text: "निर्धारित अंतिम दिन", icon: calendar-blank}
   source: "मैच रिपोर्ट, 12 नवंबर 2026"
-related: [rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi, de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three, sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three]
+related: [de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three, sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three]
 seo:
   description: "रावलपिंडी टेस्ट के चौथे दिन डेब्यूटेंट साकिब खान ने 7/130 लिए, श्रीलंका 446 पर आउट; लंच तक पाकिस्तान 39/1।"
 sources:
@@ -72,7 +72,7 @@ verification:
 
 साकिब ने **7/130** के आंकड़े के साथ पारी खत्म की। डेब्यू टेस्ट की एक पारी में सात विकेट लेने वाले वे सिर्फ चौथे पाकिस्तानी हैं; उनसे पहले मोहम्मद जाहिद, मोहम्मद नजीर और अबरार अहमद ऐसा कर चुके हैं। मोहम्मद अब्बास को दो और रजाउल्लाह को एक विकेट मिला।
 
-युवा आक्रमण के लिए यह बड़ा बदलाव था। तीसरे दिन डी सिल्वा और मेंडिस की 249 रन की साझेदारी के दौरान साकिब ने 105 रन देकर दो विकेट लिए थे; हमारी [तीसरे दिन की रिपोर्ट](/hi/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three) में बताया गया था कि पाकिस्तान के तेज गेंदबाज कैसे पिटे। अब्बास ने तीसरे दिन के खेल के बाद कहा था कि पाकिस्तान **जल्दी विकेट लेने का दबाव** बनाएगा, और विकेटकीपर मोहम्मद गजी घोरी ने सकारात्मक नतीजे की बात कही थी, जैसा हमारे [प्रीव्यू](/hi/news/rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi) में दर्ज है।
+युवा आक्रमण के लिए यह बड़ा बदलाव था। तीसरे दिन डी सिल्वा और मेंडिस की 249 रन की साझेदारी के दौरान साकिब ने 105 रन देकर दो विकेट लिए थे; हमारी [तीसरे दिन की रिपोर्ट](/hi/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three) में बताया गया था कि पाकिस्तान के तेज गेंदबाज कैसे पिटे। अब्बास ने तीसरे दिन के खेल के बाद कहा था कि पाकिस्तान **जल्दी विकेट लेने का दबाव** बनाएगा, और विकेटकीपर मोहम्मद गजी घोरी ने सकारात्मक नतीजे की बात कही थी, जैसा हमारे [प्रीव्यू](/hi/news/saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test) में दर्ज है।
 
 ## पाकिस्तान की दूसरी पारी
 

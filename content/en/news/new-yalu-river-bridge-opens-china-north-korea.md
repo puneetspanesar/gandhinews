@@ -19,7 +19,7 @@ hero:
   alt: "Chinese Premier Li Qiang"
   overlay:
     value: "Twelve years later, the trucks roll"
-related: [china-north-korea-open-new-yalu-river-bridge, north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test]
+related: [north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test]
 seo:
   description: "The New Yalu River Bridge linking Dandong and Sinuiju opened to traffic on October 15, 12 years after China finished it. Li Qiang joined by video link."
 sources:
@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Advances the 7:30 am preview (china-north-korea-open-new-yalu-river-bridge)."
+    - "Advances the 7:30 am preview (new-yalu-river-bridge-opens-china-north-korea)."
     - "Li Qiang by video link and both quotes: Euronews citing Xinhua. 'Late in the morning' trucks: Euronews; local time, about 9 am IST."
     - "Dandong resident Yu Shuyan quote: Euronews (AFP). No North Korean officials named."
     - "Capacity (China's estimate) and H1 2026 trade $1.51 bn up 19.6%: Seoul Economic Daily (machine-translated from Korean)."

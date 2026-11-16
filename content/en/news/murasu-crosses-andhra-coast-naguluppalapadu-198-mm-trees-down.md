@@ -24,7 +24,7 @@ cover:
   template: event
   label: "Cyclone Murasu"
   headline: "Murasu crosses Andhra coast near Ongole"
-related: [cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit, chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation]
+related: [naidu-cyclone-murasu-review-cancels-delhi-visit, chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation]
 seo:
   description: "Severe Cyclonic Storm Murasu crossed the Andhra Pradesh coast near Ongole between 3:30 and 5:30 am on November 3. Naguluppalapadu got 198 mm of rain and trees fell across Prakasam roads."
 sources:

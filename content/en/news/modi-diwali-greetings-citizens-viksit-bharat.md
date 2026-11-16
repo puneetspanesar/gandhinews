@@ -30,7 +30,7 @@ infographic:
     - {title: "Goodness", text: "Good over evil"}
     - {title: "Hope", text: "Hope over despair"}
   source: "Prime Minister's message, November 7, 2026"
-related: [vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti]
+related: [ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti]
 seo:
   description: "Prime Minister Narendra Modi's Diwali message on November 7, 2026: light over darkness, happiness, harmony and prosperity for every home, and a call for a Viksit Bharat."
 sources:

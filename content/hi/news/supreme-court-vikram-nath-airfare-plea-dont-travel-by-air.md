@@ -26,7 +26,7 @@ cover:
   label: "सुप्रीम कोर्ट"
   headline: "'हवाई सफर मत कीजिए। अगला मामला।'"
   bg: "Supreme Court of India"
-related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-ram-temple-trust-funds-probe-hearing-today]
+related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet]
 seo:
   description: "2 नवंबर 2026 को एक वकील ने जस्टिस विक्रम नाथ के सामने कहा कि हवाई किराये 700% बढ़ गए हैं; जज ने कहा, 'हवाई सफर मत कीजिए। अगला मामला।'"
 sources:

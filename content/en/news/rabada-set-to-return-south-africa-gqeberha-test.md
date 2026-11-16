@@ -19,7 +19,7 @@ hero:
   alt: "South Africa fast bowler Kagiso Rabada"
   overlay:
     value: "Rabada back for the second Test"
-related: [hazlewood-six-seals-australia-win-in-durban-test, renshaw-puts-australia-on-top-in-durban-test]
+related: [hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "South Africa v Australia 2nd Test, Gqeberha: Kagiso Rabada likely to return after hamstring injury; Shukri Conrad says Proteas must 'get bloody better'; Green back for Australia."
 sources:

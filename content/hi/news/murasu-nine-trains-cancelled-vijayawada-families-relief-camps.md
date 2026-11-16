@@ -26,7 +26,7 @@ cover:
   label: "चक्रवात मुरासु"
   headline: "नौ ट्रेनें रद्द, परिवार राहत शिविरों में"
   bg: "Vijayawada rain"
-related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, naidu-cyclone-murasu-review-cancels-delhi-visit]
+related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
   description: "चक्रवात मुरासु के चलते साउथ कोस्ट रेलवे ने 3 नवंबर को विजयवाड़ा, गुंटूर और तेनाली रूट पर नौ ट्रेनें रद्द कीं, और एनटीआर जिले ने भूस्खलन के डर से मोगलराजपुरम के परिवारों को राहत शिविरों में भेजा।"
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "Prime Minister Narendra Modi and Polish Prime Minister Donald Tusk"
   overlay:
     value: "Defence, space, nuclear: Delhi and Warsaw"
-related: [tusk-arrives-delhi-modi-talks-thursday, tusk-india-visit-october-21-modi-bengaluru]
+related: [tusk-arrives-delhi-modi-talks-thursday]
 seo:
   description: "Narendra Modi and Polish PM Donald Tusk agreed on October 22 to deepen ties in defence, space and nuclear energy, and launched an India-Poland Startup Bridge."
 sources:

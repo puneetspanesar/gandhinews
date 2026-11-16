@@ -26,7 +26,7 @@ cover:
   label: "रणजी ट्रॉफी"
   headline: "'भारत के लिए टेस्ट खेलना चाहता हूं'"
   bg: "Reliance Stadium, Vadodara"
-related: [chinmay-sutar-400-mizoram-nagaland-ranji-record, mumbai-railways-ranji-round-four-brabourne-preview]
+related: [chinmay-sutar-400-mizoram-nagaland-ranji-record, mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz]
 seo:
   description: "बड़ौदा के 21 वर्षीय प्रियांशु मोलिया ने जम्मू-कश्मीर के खिलाफ नाबाद 321 रन बनाए, जो रणजी ट्रॉफी में बड़ौदा के किसी बल्लेबाज का सबसे बड़ा स्कोर है। वे भारत के लिए टेस्ट खेलना चाहते हैं।"
 sources:

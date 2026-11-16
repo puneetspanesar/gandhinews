@@ -35,7 +35,7 @@ infographic:
     - {date: "26 से 28 नवंबर", text: "खेलगांव में मेला", icon: map-pin}
     - {date: "28 नवंबर", text: "मुख्य राज्य समारोह", icon: calendar-check}
   source: "झारखंड सरकार का कार्यक्रम, 14 और 15 नवंबर 2026 की रिपोर्टों के अनुसार"
-related: [modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore, hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed, cji-surya-kant-deoghar-baidyanath-legal-services-camp-today]
+related: [modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address, hazaribagh-danua-valley-trailer-hits-pickup-mourners-seven-killed, cji-surya-kant-deoghar-baidyanath-legal-services-camp-today]
 seo:
   title: "झारखंड स्थापना दिवस 2026: मुख्य समारोह 28 नवंबर को"
   description: "छठ के कारण झारखंड 26वां स्थापना दिवस 15 नवंबर को सादगी से मना रहा है; सोरेन सरकार का मुख्य समारोह 28 नवंबर को रांची के खेलगांव में होगा।"

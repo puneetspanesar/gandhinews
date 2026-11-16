@@ -40,7 +40,7 @@ infographic:
     - {date: "7:00 am IST", text: "Roy Cooper flips North Carolina Senate seat", icon: flag-banner}
     - {date: "7:43 am IST", text: "Keisha Lance Bottoms flips Georgia governorship", icon: flag-banner}
   source: "Network projections and vote counts, November 3-4, 2026"
-related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results, us-midterms-voting-under-way-house-senate-57-million-early]
+related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-voting-under-way-house-senate-57-million-early]
 seo:
   description: "Democrat Keisha Lance Bottoms wins Georgia's governor race, flipping the state after 24 years; control of the US Senate and House is still undecided in the 2026 midterms."
 sources:

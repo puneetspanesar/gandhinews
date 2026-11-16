@@ -20,7 +20,7 @@ hero:
   alt: "Maharashtra seam bowler Pradeep Dadhe"
   overlay:
     value: "Bengal 72/7, Dadhe 3 for 18"
-related: [railways-bowl-mumbai-ranji-round-four-cci-start, mohammed-shami-sits-out-bengal-ranji-services, bengal-shahbaz-ahmed-return-ranji-services-palam, bengal-beat-services-ranji-up-vidarbha-tamil-nadu-win]
+related: [mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz, mohammed-shami-sits-out-bengal-ranji-services, bengal-shahbaz-ahmed-return-ranji-services-palam, bengal-beat-services-ranji-up-vidarbha-tamil-nadu-win]
 seo:
   description: "Bengal slumped to 72 for 7 in 22 overs against Maharashtra at Eden Gardens on day one of Ranji Trophy round four on November 2, 2026, with Pradeep Dadhe taking 3 for 18."
 sources:

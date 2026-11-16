@@ -31,7 +31,7 @@ infographic:
     - {icon: warning, value: "2", label: "polling officials who died on duty"}
     - {icon: check-square, value: "67.24%", label: "Thursday turnout, 1.5 crore voters"}
   source: "Andhra Pradesh State Election Commission and district reports, November 6, 2026"
-related: [andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
 seo:
   description: "Four voters and two polling officials, including teacher Haritha Goud, died during Andhra Pradesh's MPTC and ZPTC elections on November 5, 2026. Turnout was 67.24%."
 sources:

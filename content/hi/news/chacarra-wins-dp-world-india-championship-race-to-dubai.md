@@ -21,7 +21,7 @@ hero:
   alt: "स्पेन के गोल्फर यूजेनियो चकारा"
   overlay:
     value: "2026 का तीसरा खिताब"
-related: [chacarra-63-five-shot-lead-india-championship-final-round, chacarra-leads-india-championship-chouhan-top-indian, india-championship-darkness-halts-round-two-meronk-hidalgo-luiten, norgaard-leads-rain-hit-india-championship-chouhan-fifth]
+related: [india-championship-darkness-halts-round-two-meronk-hidalgo-luiten, norgaard-leads-rain-hit-india-championship-chouhan-fifth]
 seo:
   description: "दिल्ली गोल्फ क्लब में यूजेनियो चकारा ने डेनियल हिलियर को दो शॉट से हराकर डीपी वर्ल्ड इंडिया चैंपियनशिप जीती, रेस टू दुबई में शीर्ष पर; लाहिड़ी सर्वश्रेष्ठ भारतीय।"
 sources:

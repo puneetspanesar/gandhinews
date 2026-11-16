@@ -20,7 +20,7 @@ hero:
   alt: "Fishing boats on the beach at Puri, Odisha (file photo)"
   overlay:
     value: "Depression likely by October 25"
-related: [bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain, chennai-rain-schools-shut-four-districts-low-pressure]
+related: [chennai-rain-schools-shut-four-districts-low-pressure]
 seo:
   description: "IMD expects a low-pressure area in the Bay of Bengal on October 23 and a depression by October 25, with gales from October 26; fishermen warned, Odisha rain from October 27."
 sources:

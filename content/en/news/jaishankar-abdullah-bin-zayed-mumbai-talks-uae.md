@@ -20,7 +20,7 @@ hero:
   alt: "External Affairs Minister S Jaishankar and UAE Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan"
   overlay:
     value: "Over $100 billion since CEPA"
-related: [diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe, jaishankar-uae-raisina-middle-east-forum-abu-dhabi, jaishankar-rubio-mumbai-talks]
+related: [diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe, jaishankar-uae-raisina-middle-east-forum-abu-dhabi, rubio-jaishankar-mumbai-talks-close-to-trade-deal]
 seo:
   description: "S Jaishankar told UAE Deputy PM Sheikh Abdullah bin Zayed in Mumbai on October 20 that India-UAE ties are living up to their promise, with trade above $100 billion."
 sources:

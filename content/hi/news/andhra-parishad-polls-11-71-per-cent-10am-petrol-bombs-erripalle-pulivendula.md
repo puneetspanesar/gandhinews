@@ -33,7 +33,7 @@ infographic:
     - {icon: users-three, value: "2.61 करोड़", label: "मतदाता, 7,767 एमपीटीसी और 582 जेडपीटीसी सीटें"}
   chart: {type: columns, title: "सुबह भर राज्य में मतदान, %", highlight: -1, items: [{label: "9 बजे", value: 4.8, display: "4.8%"}, {label: "10 बजे", value: 11.71, display: "11.71%"}, {label: "11 बजे", value: 21.12, display: "21.12%"}]}
   source: "आंध्र प्रदेश परिषद चुनाव मतदान, 5 नवंबर 2026"
-related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "आंध्र प्रदेश के एमपीटीसी-जेडपीटीसी चुनाव में 5 नवंबर 2026 को सुबह 11 बजे तक 21.12% मतदान, 10 बजे यह 11.71% था; पुलिवेंदुला के एर्रिपल्ले में बूथ के पास पेट्रोल बम फेंके जाने का आरोप, गुरजाला में वाईएसआरसीपी कार्यकर्ताओं की पुलिस से झड़प।"
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "महाराष्ट्र के तेज गेंदबाज प्रदीप दाढे"
   overlay:
     value: "बंगाल 72/7, दाढे के 3 विकेट"
-related: [railways-bowl-mumbai-ranji-round-four-cci-start, mohammed-shami-sits-out-bengal-ranji-services, bengal-shahbaz-ahmed-return-ranji-services-palam, bengal-beat-services-ranji-up-vidarbha-tamil-nadu-win]
+related: [mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz, mohammed-shami-sits-out-bengal-ranji-services, bengal-shahbaz-ahmed-return-ranji-services-palam, bengal-beat-services-ranji-up-vidarbha-tamil-nadu-win]
 seo:
   description: "2 नवंबर 2026 को रणजी ट्रॉफी के चौथे दौर के पहले दिन ईडन गार्डन्स में महाराष्ट्र के खिलाफ बंगाल 22 ओवर में 7 विकेट पर 72 रन पर सिमटता दिखा। प्रदीप दाढे ने 18 रन देकर 3 विकेट लिए।"
 sources:

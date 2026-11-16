@@ -20,7 +20,7 @@ hero:
   alt: "YSRCP chief Y S Jagan Mohan Reddy and the Supreme Court of India"
   overlay:
     value: "Civic poll nominations reach the top court"
-related: [jagan-accuses-naidu-blocking-opposition-nominations, andhra-local-body-nominations-violence-punganur-mithun-reddy, jagan-meets-governor-central-forces-cctv-local-body-polls, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday]
+related: [jagan-accuses-naidu-blocking-opposition-nominations, andhra-local-body-nominations-violence-punganur-mithun-reddy, jagan-meets-governor-central-forces-cctv-local-body-polls, supreme-court-stays-vijayan-cmrl-probe-seven-days]
 seo:
   description: "A Supreme Court vacation bench will hear on October 21 the YSRCP's plea for more time to file nominations in Andhra Pradesh urban local body polls."
 sources:

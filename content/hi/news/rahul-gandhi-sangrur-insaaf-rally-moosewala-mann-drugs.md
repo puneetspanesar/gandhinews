@@ -40,7 +40,7 @@ infographic:
     - {label: "कांग्रेस", value: 18, display: "18"}
     - {label: "अन्य", value: 7, display: "7"}
   source: "इंसाफ़ रैली, संगरूर, 4 नवंबर 2026; 2022 विधानसभा नतीजे"
-related: [rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign, three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap]
+related: [three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap]
 seo:
   description: "संगरूर की कांग्रेस इंसाफ़ रैली में राहुल गांधी ने सिद्धू मूसेवाला के पिता को मंच पर बुलाया और नशे व गैंग हिंसा पर भगवंत मान सरकार को घेरा।"
 sources:

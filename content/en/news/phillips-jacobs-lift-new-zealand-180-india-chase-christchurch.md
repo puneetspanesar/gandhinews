@@ -21,7 +21,7 @@ hero:
   alt: "New Zealand batter Glenn Phillips"
   overlay:
     value: "41 for 3 to 180 for 5"
-related: [india-new-zealand-second-t20i-sooryavanshi-kishan-preview, ishan-kishan-ruled-out-second-t20i-christchurch]
+related: [india-new-zealand-second-t20i-sooryavanshi-kishan-preview]
 seo:
   description: "Glenn Phillips (70) and Bevon Jacobs (58) took New Zealand from 41/3 to 180/5 in the 2nd T20I at Christchurch; India were chasing 181 for a 2-0 series lead."
 sources:

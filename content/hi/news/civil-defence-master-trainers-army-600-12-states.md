@@ -21,7 +21,7 @@ hero:
   alt: "आपात ड्रिल में हिस्सा लेते सिविल डिफेंस वॉलन्टियर्स"
   overlay:
     value: "600 ट्रेनर, 60,000 वॉलन्टियर"
-related: [police-commemoration-day-amit-shah-national-police-memorial]
+related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
   description: "गृह मंत्रालय और भारतीय सेना नवंबर 2026 के मध्य तक 12 राज्यों में 600 सिविल डिफेंस मास्टर ट्रेनर्स को प्रशिक्षित करेंगे, जिससे 60,000 वॉलन्टियर्स तक पहुंच होगी।"
 sources:

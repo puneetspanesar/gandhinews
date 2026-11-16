@@ -21,7 +21,7 @@ hero:
   alt: "राष्ट्रपति द्रौपदी मुर्मू और कुरुक्षेत्र विश्वविद्यालय"
   overlay:
     value: "हरियाणा@60, कुरुक्षेत्र में राष्ट्रपति"
-related: [haryana-saini-seven-point-plan-drug-free-sankalp, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, kerala-turns-70-festival-kerala-satheesan-nishagandhi, mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav]
+related: [haryana-saini-seven-point-plan-drug-free-sankalp, mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur, karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, kerala-turns-70-festival-kerala-satheesan-nishagandhi, mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav]
 seo:
   description: "हरियाणा दिवस 2026: राज्य के 60 साल पूरे। कुरुक्षेत्र विश्वविद्यालय में राज्य स्तरीय समारोह की मुख्य अतिथि राष्ट्रपति द्रौपदी मुर्मू, रत्नावली महोत्सव का उद्घाटन भी।"
 sources:

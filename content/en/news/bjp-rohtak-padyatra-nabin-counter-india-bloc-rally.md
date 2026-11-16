@@ -20,7 +20,7 @@ hero:
   alt: "BJP president Nitin Nabin and the city of Rohtak"
   overlay:
     value: "BJP's counter-march in Rohtak"
-related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, haryana-60-murmu-kurukshetra-haryana-day]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, haryana-60-murmu-kurukshetra-haryana-day]
 seo:
   description: "BJP president Nitin Nabin leads a 'Loktantra Bachao, Arajakta Hatao' padyatra in Rohtak on November 1, 2026, the party's answer to the INDIA bloc's Ramlila Maidan rally over the SIR."
 sources:

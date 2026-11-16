@@ -21,7 +21,7 @@ hero:
   alt: "विदेश मंत्री एस जयशंकर और यूएई के विदेश मंत्री शेख अब्दुल्ला बिन ज़ायद अल नाहयान"
   overlay:
     value: "सीईपीए के बाद 100 अरब डॉलर पार"
-related: [diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe, jaishankar-uae-raisina-middle-east-forum-abu-dhabi, jaishankar-rubio-mumbai-talks]
+related: [diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe, jaishankar-uae-raisina-middle-east-forum-abu-dhabi, rubio-jaishankar-mumbai-talks-close-to-trade-deal]
 seo:
   description: "मुंबई में 20 अक्टूबर को एस जयशंकर ने यूएई के उप प्रधानमंत्री शेख अब्दुल्ला बिन ज़ायद से कहा कि भारत-यूएई संबंध वादे पर खरे उतर रहे हैं, व्यापार 100 अरब डॉलर पार।"
 sources:

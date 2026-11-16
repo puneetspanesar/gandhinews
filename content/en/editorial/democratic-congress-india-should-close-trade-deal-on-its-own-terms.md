@@ -34,7 +34,7 @@ infographic:
     - {date: "Sep 18", text: "Russia sanctions law allows tariffs up to 100%", icon: scroll}
     - {date: "Nov 4", text: "Democrats win both chambers of Congress", icon: bank}
   source: "US Supreme Court; USTR; White House; US network projections, 2026"
-related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-explained-congress-tariffs-what-it-means-for-india, india-us-trade-talks-plateau-russia-oil-tariff-law, jaishankar-rubio-mumbai-talks]
+related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-explained-congress-tariffs-what-it-means-for-india, india-us-trade-talks-plateau-russia-oil-tariff-law, rubio-jaishankar-mumbai-talks-close-to-trade-deal]
 seo:
   description: "Gandhi News editorial: Democrats have won both houses of the US Congress, but the 10% Section 301 tariff on India needs no vote to stay. India should close its trade deal on its own terms and engage both parties."
 sources:

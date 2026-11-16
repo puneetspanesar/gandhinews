@@ -26,7 +26,7 @@ infographic:
     - {icon: cloud-fog, value: "3,744", label: "peak PM2.5 at Mundka, 2 am on Diwali night"}
     - {icon: map-pin, value: "36 of 59", label: "CPCB stations in Delhi blank overnight"}
   source: "CPCB index, DPCC readings reported November 9, 2026"
-related: [delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot, delhi-grap-stage-three-aqi-382-caqm, delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, grap-explained-delhi-air-stages-what-is-banned, why-stubble-fires-rise-in-october-explained]
+related: [delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot, delhi-grap-stage-three-aqi-382-caqm, delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, grap-explained-delhi-air-stages-what-is-banned, why-stubble-fires-rise-in-october-explained]
 seo:
   description: "How India's AQI is calculated, why it stops at 500, why Delhi's Diwali-night PM2.5 of 3,744 did not show on the index, and why missing monitor data matters."
 sources:

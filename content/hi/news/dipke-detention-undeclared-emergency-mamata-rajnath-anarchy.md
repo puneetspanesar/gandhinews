@@ -21,7 +21,7 @@ hero:
   alt: "तृणमूल कांग्रेस प्रमुख ममता बनर्जी और रक्षा मंत्री राजनाथ सिंह (फाइल फोटो)"
   overlay:
     value: "एक झंडा, एक हिरासत, तीखी जुबानी जंग"
-related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, cjp-lehra-do-tiranga-connaught-place-protest-preview, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, opposition-leaders-back-jailed-cjp-leaders-tricolour, what-is-the-cockroach-janta-party]
+related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, opposition-leaders-back-jailed-cjp-leaders-tricolour, what-is-the-cockroach-janta-party]
 seo:
   description: "16 अक्टूबर को अभिजीत दिपके की हिरासत पर ममता बनर्जी, अरविंद केजरीवाल और अखिलेश यादव ने सरकार को घेरा; राजनाथ सिंह बोले, विपक्ष युवाओं से अराजकता फैलवा रहा है।"
 sources:

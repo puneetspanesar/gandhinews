@@ -20,7 +20,7 @@ hero:
   alt: "पाकिस्तान के पेशावर में रेस्क्यू 1122 आपातकालीन सेवा के कर्मी"
   overlay:
     value: "31 मौतों के बाद मालिक गिरफ़्तार"
-related: [peshawar-school-roof-collapse-kills-students, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-kp-governors-rule-follow-up]
+related: [peshawar-school-roof-collapse-kills-students, pakistan-joint-sitting-approves-kp-governors-rule]
 seo:
   description: "पेशावर स्कूल हादसा: मौतें बढ़कर कम से कम 31, स्कूल मालिक गिरफ़्तार, 10 लाख रुपये मुआवज़ा, जांच समिति और पूरे प्रांत में सुरक्षा ऑडिट का आदेश।"
 sources:

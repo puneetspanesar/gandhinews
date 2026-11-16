@@ -21,7 +21,7 @@ hero:
   alt: "कर्नाटक के मुख्यमंत्री सिद्धारमैया और बेंगलुरु का श्री कांतीरवा स्टेडियम"
   overlay:
     value: "70 साल का कर्नाटक"
-related: [kerala-turns-70-festival-kerala-satheesan-nishagandhi, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing]
+related: [kerala-turns-70-festival-kerala-satheesan-nishagandhi, mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur]
 seo:
   description: "कन्नड़ राज्योत्सव 2026: कर्नाटक का 70वां स्थापना दिवस। कांतीरवा स्टेडियम में 20,000 स्कूली बच्चों के साथ मुख्यमंत्री सिद्धारमैया, बेंगलुरु में ट्रैफिक डायवर्जन और रविवार को स्कूलों का आदेश।"
 sources:

@@ -36,7 +36,7 @@ infographic:
     - {icon: flag-banner, value: "4 में से 2", label: "सीनेट में ज़रूरी शुद्ध बढ़त, अब तक मिली"}
     - {icon: bank, value: "53-47", label: "चुनाव से पहले सीनेट में रिपब्लिकन बहुमत"}
   source: "नेटवर्क अनुमान और वोटों की गिनती, 3-4 नवंबर 2026"
-related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results, us-midterms-bottoms-flips-georgia-governor-congress-undecided]
+related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-bottoms-flips-georgia-governor-congress-undecided]
 seo:
   description: "2026 अमेरिकी मध्यावधि चुनाव में हाउस डेमोक्रेट्स के हाथ जाने का अनुमान; साउथ कैरोलाइना और नॉर्थ कैरोलाइना में सीनेट सीटें पलटीं।"
 sources:

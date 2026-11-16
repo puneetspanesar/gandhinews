@@ -20,7 +20,7 @@ hero:
   alt: "The BSE building on Dalal Street in Mumbai"
   overlay:
     value: "Four days in the red"
-related: [sensex-nifty-close-october-22-crude-110-west-asia, midcap-smallcap-indices-slide-4-per-cent-margin-calls, jio-platforms-ipo-closes-subscription-final-day, q2-movers-hatsun-sterlite-bluestone-shree-cement-october-23, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
+related: [sensex-nifty-close-october-22-crude-110-west-asia, midcap-smallcap-indices-slide-4-per-cent-margin-calls, jio-platforms-ipo-subscribed-22-times-listing-october-28, q2-movers-hatsun-sterlite-bluestone-shree-cement-october-23, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
 seo:
   description: "Stock market close October 23, 2026: Sensex falls 125.56 points to 73,123.83 for a fourth straight day, Nifty at 22,600; small caps down 2.94%, metals and realty slide, IT gains; VIX up 8%, Brent near $114."
 sources:

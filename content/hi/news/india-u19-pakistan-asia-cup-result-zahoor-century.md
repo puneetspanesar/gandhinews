@@ -22,7 +22,7 @@ hero:
   alt: "पाकिस्तान और भारत के अंडर-19 क्रिकेटर (फाइल फोटो)"
   overlay:
     value: "पाकिस्तान अंडर-19 की 3 विकेट से जीत"
-related: [india-u19-pakistan-208-arjun-rajput-century-asia-cup, india-u19-pakistan-asia-cup-group-a-decider-preview-november-8, india-u19-beat-nepal-asia-cup-al-amerat]
+related: [india-u19-pakistan-asia-cup-group-a-decider-preview-november-8, india-u19-beat-nepal-asia-cup-al-amerat]
 seo:
   description: "8 नवंबर 2026 को अल अमेरात में एशिया कप ग्रुप ए के मैच में हमजा ज़हूर के नाबाद 100 से पाकिस्तान अंडर-19 ने भारत अंडर-19 को तीन विकेट से हराया।"
 infographic:

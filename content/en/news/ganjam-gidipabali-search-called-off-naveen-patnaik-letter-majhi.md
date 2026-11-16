@@ -34,7 +34,7 @@ infographic:
     - {date: "Nov 7", text: "Patnaik tours flooded Ganjam blocks", icon: map-pin}
     - {date: "Nov 10", text: "Search ends; Patnaik writes to the CM", icon: newspaper}
   source: "Ganjam and Kandhamal administrations; Naveen Patnaik letter, November 10, 2026"
-related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "The search at Gidipabali in Ganjam ended on November 10 with seven bodies found and six missing; Naveen Patnaik wrote to CM Majhi alleging negligence."
 sources:

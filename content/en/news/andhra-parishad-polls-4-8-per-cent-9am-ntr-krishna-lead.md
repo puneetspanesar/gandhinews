@@ -36,7 +36,7 @@ infographic:
     - {icon: users, value: "2.61 crore", label: "eligible voters"}
   chart: {type: columns, title: "Turnout by 9 am, selected districts, %", highlight: 0, items: [{label: "Anantapur", value: 9.44, display: "9.44"}, {label: "Krishna", value: 8.21, display: "8.21"}, {label: "Chittoor", value: 7.30, display: "7.30"}, {label: "Kurnool", value: 7.23, display: "7.23"}, {label: "Eluru", value: 2.14, display: "2.14"}, {label: "Bapatla", value: 1.38, display: "1.38"}]}
   source: "District-wise turnout as reported, November 5, 2026"
-related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "Andhra Pradesh MPTC-ZPTC polls on November 5, 2026: 4.8% statewide turnout by 9 am, Anantapur at 9.44%, NTR over 14% and Krishna over 15% later in the morning."
 sources:

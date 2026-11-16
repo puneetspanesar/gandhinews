@@ -16,7 +16,7 @@ hero:
   alt: "Union Home Minister Amit Shah and Chief Election Commissioner Gyanesh Kumar"
   overlay:
     value: "A session offered, a CEC in the dock"
-related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, how-chief-election-commissioner-is-appointed-removed, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, how-chief-election-commissioner-is-appointed-removed, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "What is a special session of Parliament, who can call one under Article 85, why Amit Shah's offer matters after the INDIA bloc's mock impeachment of CEC Gyanesh Kumar, and how a CEC can actually be removed."
 sources:

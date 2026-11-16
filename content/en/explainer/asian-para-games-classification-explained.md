@@ -16,7 +16,7 @@ hero:
   alt: "Indian para badminton player Manasi Joshi, who competes in the SL3 class"
   overlay:
     value: "Same sport, different classes"
-related: [asian-para-games-india-begin-badminton-table-tennis-blind-football, india-name-168-athletes-asian-para-games-aichi-nagoya]
+related: [asian-para-games-bhavina-suhas-krishna-nagar-winning-start, india-name-168-athletes-asian-para-games-aichi-nagoya]
 seo:
   description: "How para sport classification works at the Asian Para Games 2026: the ten eligible impairments, para badminton classes WH1 to SH6, table tennis classes 1 to 11, and athletics T and F codes."
 sources:

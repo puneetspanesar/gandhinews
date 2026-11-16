@@ -34,7 +34,7 @@ infographic:
     - {date: "Nov 5", text: "Meets Prime Minister Balendra Shah", icon: map-pin}
     - {date: "Later in Nov", text: "Shah expected in New Delhi", icon: airplane}
   source: "Joint press release and Nepal PMO, November 5, 2026"
-related: [misri-lands-kathmandu-today-three-post-diwali-dates-shah, vikram-misri-kathmandu-visit-november-4-5-balendra-shah, sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal]
+related: [sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal]
 seo:
   description: "Foreign Secretary Vikram Misri met Nepal Prime Minister Balendra Shah in Kathmandu on November 5, 2026, and briefed him on preparations for his visit to India later this month."
 sources:

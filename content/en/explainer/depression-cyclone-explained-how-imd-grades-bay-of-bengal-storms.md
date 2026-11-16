@@ -16,7 +16,7 @@ hero:
   alt: "Mausam Bhavan, the headquarters of the India Meteorological Department in New Delhi"
   overlay:
     value: "62 km/h makes a cyclone"
-related: [bay-of-bengal-depression-october-25-odisha-fishermen-warning, bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain, chennai-rain-schools-shut-four-districts-low-pressure]
+related: [bay-of-bengal-depression-october-25-odisha-fishermen-warning, chennai-rain-schools-shut-four-districts-low-pressure]
 seo:
   description: "What a low-pressure area, depression and deep depression are, the wind speeds at which the IMD calls a system a cyclone, and how cyclone watches and warnings work."
 sources:

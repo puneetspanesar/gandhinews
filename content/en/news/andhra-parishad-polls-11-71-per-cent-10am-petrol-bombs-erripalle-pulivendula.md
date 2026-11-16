@@ -32,7 +32,7 @@ infographic:
     - {icon: users-three, value: "2.61 crore", label: "voters, 7,767 MPTC and 582 ZPTC seats"}
   chart: {type: columns, title: "Statewide turnout through the morning, %", highlight: -1, items: [{label: "9 am", value: 4.8, display: "4.8%"}, {label: "10 am", value: 11.71, display: "11.71%"}, {label: "11 am", value: 21.12, display: "21.12%"}]}
   source: "Andhra Pradesh parishad poll turnout, November 5, 2026"
-related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "Andhra Pradesh MPTC-ZPTC polls recorded 21.12% turnout by 11 am on November 5, 2026, up from 11.71% at 10 am; petrol bombs were allegedly hurled near a booth in Erripalle, Pulivendula, and YSRCP workers clashed with police in Gurajala."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "Oracle's headquarters (file photo)"
   overlay:
     value: "Dow up 1%, oil down 7%"
-related: [wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slump-deepens-brent-105-airlines-rally-iran-talks, gold-below-4000-first-time-since-july-asia-monday, fed-holds-rates-3-75-4-two-dissent-hike, sensex-nifty-close-november-2]
+related: [wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, oil-slump-deepens-brent-105-airlines-rally-iran-talks, gold-below-4000-first-time-since-july-asia-monday, fed-holds-rates-3-75-4-two-dissent-hike, sensex-nifty-close-november-2]
 seo:
   description: "Wall Street midday on November 2, 2026: Dow up about 1% near 52,300, Oracle down about 6% on a $20 billion stock and bond plan, Amazon up 4%, gold near $3,971 and US crude down over 7%."
 cover:

@@ -25,7 +25,7 @@ cover:
   template: event
   label: "चक्रवात मुरासु"
   headline: "मुरासु ने ओंगोल के पास आंध्र तट पार किया"
-related: [cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit, chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation]
+related: [naidu-cyclone-murasu-review-cancels-delhi-visit, chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation]
 seo:
   description: "गंभीर चक्रवाती तूफान मुरासु ने 3 नवंबर को सुबह 3:30 से 5:30 बजे के बीच ओंगोल के पास आंध्र प्रदेश का तट पार किया। नागुलुप्पलपाडु में 198 मिमी बारिश हुई और प्रकाशम में सड़कों पर पेड़ गिरे।"
 sources:

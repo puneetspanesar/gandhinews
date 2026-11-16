@@ -21,7 +21,7 @@ hero:
   alt: "वाईएसआरसीपी प्रमुख वाई एस जगन मोहन रेड्डी और भारत का सुप्रीम कोर्ट"
   overlay:
     value: "निकाय चुनाव का नामांकन सुप्रीम कोर्ट में"
-related: [jagan-accuses-naidu-blocking-opposition-nominations, andhra-local-body-nominations-violence-punganur-mithun-reddy, jagan-meets-governor-central-forces-cctv-local-body-polls, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday]
+related: [jagan-accuses-naidu-blocking-opposition-nominations, andhra-local-body-nominations-violence-punganur-mithun-reddy, jagan-meets-governor-central-forces-cctv-local-body-polls, supreme-court-stays-vijayan-cmrl-probe-seven-days]
 seo:
   description: "सुप्रीम कोर्ट की अवकाश पीठ 21 अक्टूबर को आंध्र प्रदेश के शहरी निकाय चुनावों में नामांकन के लिए और समय मांगने वाली वाईएसआरसीपी की अर्जी पर सुनवाई करेगी।"
 sources:

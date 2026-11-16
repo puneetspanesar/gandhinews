@@ -21,7 +21,7 @@ hero:
   alt: "सुप्रीम कोर्ट के जस्टिस जॉयमाल्य बागची (फाइल फोटो)"
   overlay:
     value: "अदालतों में व्यस्त दिन"
-related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
+related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-stays-vijayan-cmrl-probe-seven-days, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
 seo:
   description: "21 अक्टूबर को सीजेपी नेता सौरव दास और आशुतोष रांका दिल्ली में मजिस्ट्रेट के सामने पेश होंगे, सुप्रीम कोर्ट की अवकाश पीठ वाईएसआरसीपी और पिनराई विजयन की याचिकाएं सुनेगी।"
 sources:

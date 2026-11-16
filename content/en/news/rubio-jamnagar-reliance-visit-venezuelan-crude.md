@@ -20,7 +20,7 @@ hero:
   alt: "The Reliance Industries refinery complex at Jamnagar, Gujarat"
   overlay:
     value: "Venezuelan crude, Gujarat refinery"
-related: [rubio-jaishankar-mumbai-talks-close-to-trade-deal, jaishankar-rubio-mumbai-talks]
+related: [rubio-jaishankar-mumbai-talks-close-to-trade-deal]
 seo:
   description: "Marco Rubio visits Reliance's Jamnagar refinery on October 21. He says the US will discuss refining Venezuelan crude and producing oil in Venezuela with Reliance."
 sources:

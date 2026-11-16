@@ -20,7 +20,7 @@ hero:
   alt: "दक्षिण अफ्रीका के तेज़ गेंदबाज़ कगिसो रबाडा"
   overlay:
     value: "दूसरे टेस्ट में लौटेंगे रबाडा"
-related: [hazlewood-six-seals-australia-win-in-durban-test, renshaw-puts-australia-on-top-in-durban-test]
+related: [hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "दक्षिण अफ्रीका बनाम ऑस्ट्रेलिया दूसरा टेस्ट, गकेबरहा: हैमस्ट्रिंग चोट के बाद कगिसो रबाडा की वापसी संभव, कोच कॉनराड बोले टीम को बेहतर होना होगा, ऑस्ट्रेलिया में ग्रीन लौटेंगे।"
 sources:

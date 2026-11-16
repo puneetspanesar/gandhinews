@@ -20,7 +20,7 @@ hero:
   alt: "Union Health Minister J P Nadda and Congress leader Rahul Gandhi"
   overlay:
     value: "Nadda: rally is an 'anarchy model'"
-related: [india-bloc-convoy-connaught-place-tejashwi-crush-democracy, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-convoy-connaught-place-tejashwi-crush-democracy, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "INDIA bloc rally, November 1, 2026: Union minister J P Nadda calls the Ramlila Maidan protest an 'anarchy model' and links the date to the 1984 riots; Delhi minister Ashish Sood says Congress wants chaos."
 sources:

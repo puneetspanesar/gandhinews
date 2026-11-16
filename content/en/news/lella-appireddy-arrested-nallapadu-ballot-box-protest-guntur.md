@@ -34,7 +34,7 @@ infographic:
     - {date: "After midnight", text: "Appireddy arrested", icon: police-car}
     - {date: "Nov 6", text: "Due to be produced in court", icon: gavel}
   source: "Reports from Guntur, November 6, 2026"
-related: [andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent]
+related: [andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
 seo:
   description: "YSRCP MLC Lella Appireddy was arrested in Guntur after a road protest at Nallapadu over a ballot box from the November 5 parishad polls. Police booked him for obstructing duty."
 sources:

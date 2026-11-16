@@ -20,7 +20,7 @@ hero:
   alt: "Polish Prime Minister Donald Tusk and Prime Minister Narendra Modi"
   overlay:
     value: "Tusk in Delhi for talks with Modi"
-related: [tusk-india-visit-october-21-modi-bengaluru]
+related: []
 seo:
   description: "Polish PM Donald Tusk arrived in New Delhi on October 21. He meets Jaishankar, visits Rajghat and holds talks with Narendra Modi at Hyderabad House on Thursday."
 sources:

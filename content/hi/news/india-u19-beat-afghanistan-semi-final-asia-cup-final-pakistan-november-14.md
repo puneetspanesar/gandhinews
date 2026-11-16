@@ -22,7 +22,7 @@ hero:
   alt: "भारत के अंडर-19 क्रिकेटर लक्ष्य रायचंदानी और आर्यवीर सहवाग (फाइल फोटो)"
   overlay:
     value: "भारत आठ विकेट से जीता"
-related: [india-u19-pakistan-asia-cup-result-zahoor-century, india-u19-pakistan-208-arjun-rajput-century-asia-cup, india-u19-beat-nepal-asia-cup-al-amerat]
+related: [india-u19-pakistan-asia-cup-result-zahoor-century, india-u19-beat-nepal-asia-cup-al-amerat]
 seo:
   title: "भारत अंडर-19 ने अफगानिस्तान को हराया, फाइनल में पाकिस्तान"
   description: "12 नवंबर 2026 को अल अमेरात में भारत अंडर-19 ने 228 रन का लक्ष्य 36.5 ओवर में पाकर अफगानिस्तान को आठ विकेट से हराया। 14 नवंबर को फाइनल में पाकिस्तान से भिड़ंत।"

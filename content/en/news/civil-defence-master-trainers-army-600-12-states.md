@@ -20,7 +20,7 @@ hero:
   alt: "Civil defence volunteers take part in an emergency drill"
   overlay:
     value: "600 trainers, 60,000 volunteers"
-related: [police-commemoration-day-amit-shah-national-police-memorial]
+related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
   description: "The MHA and the Indian Army will train 600 civil defence master trainers in 12 states by mid-November 2026, with a reach of 60,000 volunteers in the first phase."
 sources:

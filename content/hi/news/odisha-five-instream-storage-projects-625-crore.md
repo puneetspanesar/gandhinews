@@ -31,7 +31,7 @@ infographic:
     - {icon: map-pin, value: "74", label: "गांव"}
     - {icon: currency-inr, value: "₹625.47 करोड़", label: "पांच परियोजनाओं की लागत"}
   source: "ओडिशा सरकार का बयान, 13 नवंबर 2026"
-related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   title: "ओडिशा में ₹625 करोड़ की 5 नदी भंडारण परियोजनाएं"
   description: "ओडिशा ने रायगड़ा, कालाहांडी, गंजाम, बलांगीर और सुबर्णपुर में ₹625.47 करोड़ की पांच नदी भंडारण परियोजनाओं को मंजूरी दी, 74 गांवों को लाभ।"

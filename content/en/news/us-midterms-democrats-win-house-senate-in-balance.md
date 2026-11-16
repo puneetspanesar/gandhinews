@@ -35,7 +35,7 @@ infographic:
     - {icon: flag-banner, value: "2 of 4", label: "net Senate gains Democrats need, won so far"}
     - {icon: bank, value: "53-47", label: "Republican Senate majority going into the vote"}
   source: "Network projections and vote counts, November 3-4, 2026"
-related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results, us-midterms-bottoms-flips-georgia-governor-congress-undecided]
+related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-bottoms-flips-georgia-governor-congress-undecided]
 seo:
   description: "Democrats are projected to win the US House in the 2026 midterms; Annie Andrews flips South Carolina and Roy Cooper North Carolina as the Senate hangs on six races."
 sources:

@@ -37,7 +37,7 @@ infographic:
     - {date: "Nov 12", text: "Sri Lanka all out 446; Pakistan 39 for 1 at lunch", icon: cricket}
     - {date: "Nov 13", text: "Scheduled final day", icon: calendar-blank}
   source: "Match reports, November 12, 2026"
-related: [rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi, de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three, sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three]
+related: [de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three, sri-lanka-114-3-trail-pakistan-434-declared-rawalpindi-test-day-three]
 seo:
   description: "Debutant Saqib Khan took 7 for 130 as Pakistan bowled Sri Lanka out for 446 on day four of the Rawalpindi Test; Pakistan were 39 for 1 at lunch."
 sources:
@@ -74,7 +74,7 @@ Saqib removed de Silva in the first over of the day. De Silva was out for the **
 
 Saqib finished with **7 for 130**. He is only the fourth Pakistani to take seven wickets in an innings on Test debut, after Mohammad Zahid, Mohammad Nazir and Abrar Ahmed. Mohammad Abbas took two wickets and Razaullah one.
 
-The spell was a turnaround for a young attack. On day three Saqib had gone for 105 runs for two wickets while de Silva and Mendis put on their 249, and our [day three report](/en/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three) described how Pakistan's seamers were punished. Abbas had said after stumps on day three that Pakistan would **push for early wickets**, and wicketkeeper Mohammad Ghazi Ghori had spoken of a positive result, as our [preview](/en/news/rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi) noted.
+The spell was a turnaround for a young attack. On day three Saqib had gone for 105 runs for two wickets while de Silva and Mendis put on their 249, and our [day three report](/en/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three) described how Pakistan's seamers were punished. Abbas had said after stumps on day three that Pakistan would **push for early wickets**, and wicketkeeper Mohammad Ghazi Ghori had spoken of a positive result, as our [preview](/en/news/saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test) noted.
 
 ## Pakistan's second innings
 

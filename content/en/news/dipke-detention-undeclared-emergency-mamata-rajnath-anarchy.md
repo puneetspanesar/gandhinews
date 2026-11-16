@@ -20,7 +20,7 @@ hero:
   alt: "Trinamool Congress chief Mamata Banerjee and Defence Minister Rajnath Singh (file photos)"
   overlay:
     value: "A flag, a detention, a war of words"
-related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, cjp-lehra-do-tiranga-connaught-place-protest-preview, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, opposition-leaders-back-jailed-cjp-leaders-tricolour, what-is-the-cockroach-janta-party]
+related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, opposition-leaders-back-jailed-cjp-leaders-tricolour, what-is-the-cockroach-janta-party]
 seo:
   description: "Mamata Banerjee, Arvind Kejriwal and Akhilesh Yadav condemned Abhijeet Dipke's detention on October 16; Rajnath Singh said the opposition was using youth to spread anarchy."
 sources:

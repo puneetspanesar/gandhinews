@@ -31,7 +31,7 @@ infographic:
     - {icon: trend-up, value: "+1.58%", label: "एसएंडपी 500, 7,688.6 पर"}
     - {icon: trend-up, value: "+1.44%", label: "नैस्डैक कंपोज़िट, 25,736.5 पर"}
   source: "अमेरिकी बाज़ार का बंद, 4 नवंबर 2026"
-related: [wall-street-jumps-dow-1131-democrats-win-congress, us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-schumer-lower-costs-with-or-without-trump, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
+related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-schumer-lower-costs-with-or-without-trump, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
 seo:
   description: "4 नवंबर 2026 को वॉल स्ट्रीट का बंद: डेमोक्रेट्स के कांग्रेस जीतने के बाद डाउ 1,569 अंक (3.03%) चढ़कर 53,356 पर, एसएंडपी 500 में 1.58% और नैस्डैक में 1.44% बढ़त; अमेरिकी कच्चा तेल और ब्रेंट 8% से ज़्यादा गिरे।"
 sources:

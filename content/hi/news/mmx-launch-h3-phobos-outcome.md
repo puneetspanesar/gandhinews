@@ -23,8 +23,8 @@ hero:
   overlay:
     value: 'अगला पड़ाव: मंगल के चंद्रमा'
 related:
-- mmx-phobos-probe-h3-launch-tonight-tanegashima
-- japan-h3-mmx-phobos-sample-return-launch
+- mmx-launch-h3-phobos-outcome
+- mmx-launch-h3-phobos-outcome
 - bandwagon-5-mmx-launch-week-falcon-9-h3-electron
 seo:
   description: जाक्सा का एमएमएक्स यान 20 अक्टूबर को तानेगाशिमा से एच3 रॉकेट पर रवाना हुआ और ऊपरी चरण से अलग हो गया। लक्ष्य फोबोस के नमूने धरती पर लाना है।

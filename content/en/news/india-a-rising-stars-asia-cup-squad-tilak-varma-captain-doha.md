@@ -20,7 +20,7 @@ hero:
   alt: "India batter Tilak Varma"
   overlay:
     value: "Tilak Varma to lead India A"
-related: [harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur, angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci]
+related: [harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur, mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz]
 seo:
   description: "BCCI named Tilak Varma captain of a 15-man India A squad for the ACC Men's Rising Stars Asia Cup in Doha from November 19 to 29, 2026, with Rajat Patidar as vice-captain."
 sources:

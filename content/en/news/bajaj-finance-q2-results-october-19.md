@@ -20,7 +20,7 @@ hero:
   alt: "Rajeev Jain, vice chairman and managing director of Bajaj Finance"
   overlay:
     value: "Profit up 29%, growth target raised"
-related: [bajaj-finance-results-today-29-per-cent-profit-estimate, bajaj-housing-finance-q2-profit-rises-18-per-cent, bajaj-finance-ultratech-hindustan-zinc-results-monday, rbi-raises-repo-rate-to-5-50, sensex-nifty-close-october-19-private-banks-axis]
+related: [bajaj-housing-finance-q2-profit-rises-18-per-cent, bajaj-finance-ultratech-hindustan-zinc-results-monday, rbi-raises-repo-rate-to-5-50, sensex-nifty-close-october-19-private-banks-axis]
 seo:
   description: "Bajaj Finance's Q2 FY27 net profit rose 28.7% to ₹6,366.57 crore and AUM grew 26% to ₹5.85 lakh crore; it raised its FY27 AUM growth guidance to 26-27%."
 sources:

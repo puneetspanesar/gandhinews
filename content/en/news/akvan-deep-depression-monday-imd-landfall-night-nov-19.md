@@ -34,7 +34,7 @@ infographic:
     - {date: "Nov 19", text: "Near the Andhra coast, very severe, around night", icon: warning}
     - {date: "Nov 19 to 20", text: "Heavy to very heavy rain on the coast", icon: cloud-rain}
   source: "IMD bulletin, November 16, 2026"
-related: [akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening, akvan-depression-forms-severe-cyclone-nov-17-imd-sunday, akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21, akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return, murasu-andhra-damage-revised-2484-crore-central-team-naidu]
+related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu]
 seo:
   title: "Cyclone Akvan near Andhra coast on Nov 19 night, IMD"
   description: "The IMD's Monday bulletin puts the Akvan deep depression 820 km from Visakhapatnam and expects it near the Andhra coast around the night of November 19."
@@ -83,7 +83,7 @@ The depression is due to become a **cyclonic storm this evening**, when it will 
 
 At 5:30 am the system lay over the southeast and adjoining southwest Bay of Bengal. It was about 720 km east-southeast of Chennai, 940 km south of Gopalpur in Odisha, 680 km west of Sri Vijaya Puram in the Andaman and Nicobar Islands and 630 to 640 km east-northeast of Trincomalee in Sri Lanka.
 
-On Sunday the system was 1,010 km south-southeast of Visakhapatnam, so it has **closed about 190 km in a day**. Our [Sunday report](/en/news/akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening) carried the department's table that takes it to a very severe cyclonic storm by early November 19, with winds of 120 to 130 km/h and gusts to 145 km/h. Monday's bulletin does not change that peak. It adds the timing of the approach, and the department has still not named a landfall point.
+On Sunday the system was 1,010 km south-southeast of Visakhapatnam, so it has **closed about 190 km in a day**. Our [Sunday report](/en/news/akvan-deep-depression-monday-imd-landfall-night-nov-19) carried the department's table that takes it to a very severe cyclonic storm by early November 19, with winds of 120 to 130 km/h and gusts to 145 km/h. Monday's bulletin does not change that peak. It adds the timing of the approach, and the department has still not named a landfall point.
 
 The Andhra Pradesh State Disaster Management Authority (APSDMA) said strong winds of **40 to 60 km/h** are expected along the coastal belt from Monday evening. Heavy to very heavy rain with strong winds is forecast along coastal Andhra on Thursday and Friday, November 19 and 20, with isolated extremely heavy falls in Kakinada, Konaseema, Krishna and Yanam.
 
@@ -107,7 +107,7 @@ The Odisha government has cancelled leave, opened 24-hour control rooms in the d
 
 ## How we got here
 
-The IMD first flagged the system on Friday, November 13, as a low that would become a cyclonic storm by Monday, as our [first report](/en/news/akvan-track-uncertain-andhra-odisha-imd-saturday) set out. On Saturday it raised the outlook to a [severe storm](/en/news/akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21) and on Sunday it added the [very severe stage](/en/news/akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening) on November 19. Andhra's disaster authority had earlier said the system could reach the north Andhra coast by that date, as our [Andhra report](/en/news/akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return) records.
+The IMD first flagged the system on Friday, November 13, as a low that would become a cyclonic storm by Monday, as our [first report](/en/news/akvan-deep-depression-monday-imd-landfall-night-nov-19) set out. On Saturday it raised the outlook to a [severe storm](/en/news/akvan-deep-depression-monday-imd-landfall-night-nov-19) and on Sunday it added the [very severe stage](/en/news/akvan-deep-depression-monday-imd-landfall-night-nov-19) on November 19. Andhra's disaster authority had earlier said the system could reach the north Andhra coast by that date, as our [Andhra report](/en/news/akvan-deep-depression-monday-imd-landfall-night-nov-19) records.
 
 Cyclone Arnab struck the Andhra coast in late October, and an official statement said at least 1.8 lakh people were evacuated. Cyclone Murasu crossed between Nellore and Narasapur on November 3 as a severe cyclonic storm, and Andhra's damage estimate for it has since been [revised to ₹2,484 crore](/en/news/murasu-andhra-damage-revised-2484-crore-central-team-naidu). The two storms are reported to have killed 15 people between them.
 

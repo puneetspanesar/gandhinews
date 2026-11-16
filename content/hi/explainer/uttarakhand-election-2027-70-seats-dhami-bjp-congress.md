@@ -28,7 +28,7 @@ infographic:
     - {icon: percent, value: "44.33%", label: "2022 में भाजपा का वोट शेयर"}
   chart: {type: columns, title: "2022 में जीती सीटें", highlight: 0, items: [{label: "भाजपा", value: 47, display: "47"}, {label: "कांग्रेस", value: 19, display: "19"}, {label: "अन्य", value: 4, display: "4"}]}
   source: "भारत निर्वाचन आयोग, 2022, जैसा प्रकाशित"
-related: [assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur, uttarakhand-uniform-civil-code-explained-live-in-marriage-registration, kharge-uttarakhand-review-bjp-betrayed-venugopal-2027, amit-shah-dehradun-parade-ground-rally-padyatra-today, dhami-bjp-save-democracy-campaign-sir-congress]
+related: [assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur, uttarakhand-uniform-civil-code-explained-live-in-marriage-registration, kharge-uttarakhand-review-bjp-betrayed-venugopal-2027, amit-shah-dehradun-rally-speech-1475-crore-projects, dhami-bjp-save-democracy-campaign-sir-congress]
 seo:
   description: "उत्तराखंड चुनाव 2027: 70 सीटें, बहुमत 36, 2022 के नतीजे और वोट शेयर, धामी की खटीमा हार और चंपावत जीत, भाजपा-कांग्रेस का प्रचार, यूसीसी और बड़े मुद्दे।"
 sources:

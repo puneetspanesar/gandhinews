@@ -31,7 +31,7 @@ infographic:
     - {icon: users, value: "2,169", label: "582 सीटों के लिए जेडपीटीसी उम्मीदवार"}
     - {icon: buildings, value: "365", label: "28 जिलों में मतगणना केंद्र"}
   source: "आंध्र प्रदेश मतगणना व्यवस्था, 7 नवंबर 2026"
-related: [andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
 seo:
   description: "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी वोटों की गिनती 7 नवंबर 2026 को सुबह 8 बजे शुरू हुई। अभी कोई रुझान नहीं; 2,169 जेडपीटीसी और 18,843 एमपीटीसी उम्मीदवार मैदान में।"
 sources:

@@ -22,7 +22,7 @@ hero:
   alt: "केंद्रीय गृह मंत्री अमित शाह"
   overlay:
     value: "उत्तराखंड को ₹1,475 करोड़"
-related: [amit-shah-dehradun-parade-ground-rally-padyatra-today, dhami-bjp-save-democracy-campaign-sir-congress, dhami-defends-police-ankita-bhandari-congress]
+related: [dhami-bjp-save-democracy-campaign-sir-congress, dhami-defends-police-ankita-bhandari-congress]
 seo:
   description: "अमित शाह ने 6 नवंबर 2026 को देहरादून के परेड ग्राउंड में ₹1,475.31 करोड़ की योजनाओं का लोकार्पण-शिलान्यास किया; धामी ने कांग्रेस पर हमला बोला, प्रदर्शनकारी हिरासत में।"
 infographic:

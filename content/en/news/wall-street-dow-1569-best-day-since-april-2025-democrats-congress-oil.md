@@ -30,7 +30,7 @@ infographic:
     - {icon: trend-up, value: "+1.58%", label: "S&P 500, at 7,688.6"}
     - {icon: trend-up, value: "+1.44%", label: "Nasdaq Composite, at 25,736.5"}
   source: "US market close, November 4, 2026"
-related: [wall-street-jumps-dow-1131-democrats-win-congress, us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-schumer-lower-costs-with-or-without-trump, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
+related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-schumer-lower-costs-with-or-without-trump, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4]
 seo:
   description: "Wall Street close on November 4, 2026: Dow up 1,569 points (3.03%) to 53,356, S&P 500 up 1.58%, Nasdaq up 1.44% after Democrats win Congress; US and Brent crude fall more than 8%."
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "सुप्रीम कोर्ट के जज जॉयमाल्य बागची और कनॉट प्लेस का सेंट्रल पार्क (फाइल फोटो)"
   overlay:
     value: "सीपी बंद का मामला अदालत पहुंचा"
-related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, sc-cases-tracker]
+related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, sc-cases-tracker]
 seo:
   description: "16 अक्टूबर को सुप्रीम कोर्ट ने सीजेपी प्रदर्शनों से नुकसान और सेंट्रल पार्क बंदी पर कनॉट प्लेस के व्यापारियों की बात सुनी; न्यायमूर्ति बागची बोले, आदेश अनुपातहीन हुआ तो अदालत दखल देगी।"
 sources:

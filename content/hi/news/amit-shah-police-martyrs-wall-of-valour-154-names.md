@@ -21,7 +21,7 @@ hero:
   alt: "केंद्रीय गृह मंत्री अमित शाह"
   overlay:
     value: "शौर्य दीवार पर 36,852 नाम"
-related: [police-commemoration-day-amit-shah-national-police-memorial, national-unity-day-ekta-nagar-25000-lwe-districts-govind-mohan]
+related: [national-unity-day-ekta-nagar-25000-lwe-districts-govind-mohan]
 seo:
   description: "पुलिस स्मृति दिवस, 21 अक्टूबर 2026 को अमित शाह ने राष्ट्रीय पुलिस स्मारक पर 36,852 शहीद पुलिसकर्मियों को श्रद्धांजलि दी, इस साल 154 नए नाम जुड़े।"
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "गुजरात के जामनगर में रिलायंस इंडस्ट्रीज़ का रिफाइनरी परिसर"
   overlay:
     value: "वेनेज़ुएला का तेल, गुजरात की रिफाइनरी"
-related: [rubio-jaishankar-mumbai-talks-close-to-trade-deal, jaishankar-rubio-mumbai-talks]
+related: [rubio-jaishankar-mumbai-talks-close-to-trade-deal]
 seo:
   description: "मार्को रुबियो 21 अक्टूबर को रिलायंस की जामनगर रिफाइनरी का दौरा कर रहे हैं। उनका कहना है कि अमेरिका रिलायंस से वेनेज़ुएला के तेल की रिफाइनिंग और उत्पादन पर बात करेगा।"
 sources:

@@ -29,7 +29,7 @@ infographic:
     - {icon: flame, value: "30 lakh+", label: "diyas lit across 56 ghats"}
     - {icon: users, value: "2,100+", label: "priests in the Saryu Maha Aarti"}
   source: "UP government and reports, November 7, 2026"
-related: [vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti]
+related: []
 seo:
   description: "Over 30 lakh diyas were lit on the Saryu banks in Ayodhya on November 7, 2026, for the 10th Deepotsav, with Yogi Adityanath and the Vice-President at the aarti."
 sources:

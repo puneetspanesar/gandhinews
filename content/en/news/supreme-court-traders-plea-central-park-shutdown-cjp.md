@@ -20,7 +20,7 @@ hero:
   alt: "Supreme Court judge Joymalya Bagchi and Central Park, Connaught Place (file photos)"
   overlay:
     value: "Traders take the CP shutdown to court"
-related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, sc-cases-tracker]
+related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, sc-cases-tracker]
 seo:
   description: "On October 16 the Supreme Court heard a mention by Connaught Place traders over losses from CJP protests and the NDMC's Central Park shutdown; Justice Bagchi said it could act if the order was disproportionate."
 sources:

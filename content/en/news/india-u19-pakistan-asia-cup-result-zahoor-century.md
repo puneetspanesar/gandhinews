@@ -21,7 +21,7 @@ hero:
   alt: "Pakistan and India under-19 cricketers (file photo)"
   overlay:
     value: "Pakistan U19 beat India by 3 wickets"
-related: [india-u19-pakistan-208-arjun-rajput-century-asia-cup, india-u19-pakistan-asia-cup-group-a-decider-preview-november-8, india-u19-beat-nepal-asia-cup-al-amerat]
+related: [india-u19-pakistan-asia-cup-group-a-decider-preview-november-8, india-u19-beat-nepal-asia-cup-al-amerat]
 seo:
   description: "Hamza Zahoor's unbeaten 100 gave Pakistan U19 a three-wicket win over India U19 in the Asia Cup Group A match at Al Amerat on November 8, 2026."
 infographic:

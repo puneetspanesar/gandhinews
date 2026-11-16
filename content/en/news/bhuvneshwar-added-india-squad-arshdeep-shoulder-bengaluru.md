@@ -20,7 +20,7 @@ hero:
   alt: "India fast bowler Bhuvneshwar Kumar"
   overlay:
     value: "Bhuvi back for the decider"
-related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, india-west-indies-bengaluru-decider-arshdeep-doubt, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i]
+related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i]
 seo:
   description: "Bhuvneshwar Kumar added to India's squad for the fifth T20I against West Indies in Bengaluru after Arshdeep Singh took a blow to his bowling shoulder."
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "कांग्रेस नेता सलमान खुर्शीद और राजीव शुक्ला"
   overlay:
     value: "'यह एक चलते आंदोलन का हिस्सा है'"
-related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, nadda-anarchy-model-india-bloc-rally-sood-chaos, deepender-hooda-barricades-pilot-rally-goers-stopped, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, nadda-anarchy-model-india-bloc-rally-sood-chaos, deepender-hooda-barricades-pilot-rally-goers-stopped, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "इंडिया गठबंधन रैली, 1 नवंबर 2026: सलमान खुर्शीद बोले, मतदाता सूची से नाम कटने की लड़ाई एक रैली से खत्म नहीं होगी; राजीव शुक्ला ने पूछा, सीईसी ज्ञानेश कुमार इस्तीफा क्यों नहीं दे रहे।"
 sources:

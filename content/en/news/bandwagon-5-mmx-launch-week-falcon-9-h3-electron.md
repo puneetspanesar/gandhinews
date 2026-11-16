@@ -20,7 +20,7 @@ hero:
   alt: "Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida"
   overlay:
     value: "Four launches, four days"
-related: [japan-h3-mmx-phobos-sample-return-launch, spacex-crs-35-dragon-docks-space-station]
+related: [mmx-launch-h3-phobos-outcome, spacex-crs-35-dragon-docks-space-station]
 seo:
   description: "SpaceX's Bandwagon-5 rideshare with 31 payloads is due to launch at 4 pm IST on Monday, ahead of Japan's MMX launch, a Starlink flight and a Rocket Lab Electron mission."
 sources:

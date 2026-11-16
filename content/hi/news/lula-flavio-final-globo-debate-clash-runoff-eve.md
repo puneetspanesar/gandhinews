@@ -21,7 +21,7 @@ hero:
   alt: "राष्ट्रपति लूला दा सिल्वा और सीनेटर फ़्लावियो बोल्सोनारो (फ़ाइल फ़ोटो)"
   overlay:
     value: "रविवार के वोट से पहले आखिरी बहस"
-related: [brazil-runoff-sunday-lula-flavio-final-globo-debate, lula-flavio-bolsonaro-trade-insults-first-runoff-debate, brazil-runoff-polls-flavio-edge-lula-first-debate]
+related: [lula-flavio-bolsonaro-trade-insults-first-runoff-debate, brazil-runoff-polls-flavio-edge-lula-first-debate]
 seo:
   description: "ब्राज़ील के राष्ट्रपति चुनाव के दूसरे दौर से पहले 23 अक्टूबर को टीवी ग्लोबो की आखिरी बहस में लूला और फ़्लावियो बोल्सोनारो वेतन, ढांचे और भ्रष्टाचार पर भिड़े।"
 sources:

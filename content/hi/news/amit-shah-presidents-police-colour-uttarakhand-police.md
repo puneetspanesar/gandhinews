@@ -31,7 +31,7 @@ infographic:
     - {icon: users-three, value: "26,000+", label: "पुलिसकर्मी आज, 2000 में करीब 13,000 थे"}
     - {icon: gavel, value: "3 साल", label: "मई 2027 के बाद की एफआईआर में सजा का लक्ष्य"}
   source: "गृह मंत्रालय और उत्तराखंड पुलिस, 6 नवंबर 2026"
-related: [amit-shah-dehradun-rally-speech-1475-crore-projects, amit-shah-dehradun-parade-ground-rally-padyatra-today]
+related: [amit-shah-dehradun-rally-speech-1475-crore-projects]
 seo:
   description: "केंद्रीय गृह मंत्री अमित शाह ने 6 नवंबर 2026 को देहरादून में उत्तराखंड पुलिस को राष्ट्रपति पुलिस निशान प्रदान किया और कहा कि मई 2027 के बाद दर्ज एफआईआर में तीन साल के भीतर सजा होगी।"
 sources:

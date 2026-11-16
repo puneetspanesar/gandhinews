@@ -35,7 +35,7 @@ infographic:
     - {icon: users, value: "84 + 2,109", label: "जेडपीटीसी और एमपीटीसी सीटें, जहां विपक्ष को रोकने का आरोप"}
     - {icon: video-camera, value: "16,064", label: "31,460 में से इतने केंद्रों पर सीसीटीवी, उनके मुताबिक"}
   source: "जगन मोहन रेड्डी, मीडिया ब्रीफिंग, 5 नवंबर 2026"
-related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula]
+related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula]
 seo:
   description: "वाईएसआरसीपी प्रमुख जगन मोहन रेड्डी ने आंध्र प्रदेश के 5 नवंबर के एमपीटीसी-जेडपीटीसी चुनाव को न स्वतंत्र न निष्पक्ष बताया और नामांकन रोकने, धांधली व सीसीटीवी की कमी के आरोप लगाए।"
 sources:

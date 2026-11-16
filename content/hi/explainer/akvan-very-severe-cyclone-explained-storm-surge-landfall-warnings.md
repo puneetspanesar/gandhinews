@@ -17,7 +17,7 @@ hero:
   alt: "विशाखापत्तनम तट पर एक चक्रवात से हुआ नुकसान (फाइल फोटो)"
   overlay:
     value: "'अति भीषण' का मतलब"
-related: [akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms, akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return]
+related: [akvan-deep-depression-monday-imd-landfall-night-nov-19, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   title: "अति भीषण चक्रवात का मतलब: हवा, तूफानी लहर, लैंडफॉल"
   description: "चक्रवात अकवान के आंध्र प्रदेश की ओर बढ़ने पर अति भीषण चक्रवाती तूफान का मतलब: 118 से 166 किमी की हवा, तूफानी लहर, लैंडफॉल और रंग वाले अलर्ट।"

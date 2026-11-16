@@ -35,7 +35,7 @@ infographic:
     - {date: "Nov 5", text: "Parishad polling amid clashes and complaints", icon: users}
     - {date: "Nov 7", text: "Votes to be counted", icon: calendar-check}
   source: "State Election Commission and police statements, November 1 to 5, 2026"
-related: [andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, andhra-local-polls-must-start-with-free-nominations]
+related: [andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-local-polls-must-start-with-free-nominations]
 seo:
   description: "Gandhi News editorial: after petrol bomb, booth capturing and ballot box incidents in Andhra Pradesh's parishad polls, the State Election Commission must order repolls on evidence, release CCTV footage and publish a full incident report."
 sources:

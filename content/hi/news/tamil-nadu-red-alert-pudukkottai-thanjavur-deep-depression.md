@@ -21,7 +21,7 @@ hero:
   alt: "तमिलनाडु का तंजावुर"
   overlay:
     value: "डेल्टा में रेड अलर्ट"
-related: [nilgiris-landslide-bus-driver-killed-passengers-escape, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [nilgiris-landslide-bus-driver-killed-passengers-escape, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "चेन्नई मौसम केंद्र ने 25 अक्टूबर 2026 को पुदुक्कोट्टई, तंजावुर, अरियालुर, पेरम्बलुर और तिरुचिरापल्ली के लिए रेड अलर्ट जारी किया; चेन्नई में येलो अलर्ट।"
 sources:

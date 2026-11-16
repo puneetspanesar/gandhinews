@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय हॉकी फॉरवर्ड शिलानंद लाकड़ा"
   overlay:
     value: "भारत 8-1 दक्षिण कोरिया, फाइनल में"
-related: [india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar, india-south-korea-asian-champions-trophy-last-league-jalandhar-preview, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy]
+related: [india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy]
 seo:
   description: "भारत ने 4 नवंबर 2026 को मोहाली में पुरुष एशियन चैंपियंस ट्रॉफी के सेमीफाइनल में दक्षिण कोरिया को 8-1 से हराया। 5 नवंबर को फाइनल में भारत का मुकाबला जापान से होगा।"
 sources:

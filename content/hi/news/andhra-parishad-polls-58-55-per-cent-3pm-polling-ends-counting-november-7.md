@@ -32,7 +32,7 @@ infographic:
     - {icon: calendar-check, value: "7 नवंबर", label: "वोटों की गिनती"}
   chart: {type: columns, title: "दिन भर में राज्य का मतदान, %", highlight: -1, items: [{label: "1 बजे", value: 30.50, display: "30.50"}, {label: "3 बजे", value: 58.55, display: "58.55"}]}
   source: "चुनाव अधिकारी, आंध्र प्रदेश, 5 नवंबर 2026"
-related: [andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, jagan-parishad-polls-selections-naidu-hijacked, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, jagan-parishad-polls-selections-naidu-hijacked, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "आंध्र प्रदेश एमपीटीसी-जेडपीटीसी चुनाव 5 नवंबर 2026 को शाम 5 बजे खत्म, दोपहर 3 बजे तक 58.55% मतदान; अधिकारियों का अनुमान 65-68%। गिनती 7 नवंबर को।"
 sources:

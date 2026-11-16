@@ -36,7 +36,7 @@ infographic:
     - {date: "5 नवंबर", text: "झड़पों और शिकायतों के बीच परिषद मतदान", icon: users}
     - {date: "7 नवंबर", text: "मतों की गिनती", icon: calendar-check}
   source: "राज्य चुनाव आयोग और पुलिस के बयान, 1 से 5 नवंबर 2026"
-related: [andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, andhra-local-polls-must-start-with-free-nominations]
+related: [andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-local-polls-must-start-with-free-nominations]
 seo:
   description: "गांधी न्यूज़ संपादकीय: आंध्र प्रदेश के मंडल और जिला परिषद चुनाव में पेट्रोल बम, बूथ कब्जे और मतपेटियां फेंकने की घटनाओं के बाद राज्य चुनाव आयोग सबूत पर दोबारा मतदान कराए, सीसीटीवी फुटेज जारी करे और पूरी घटना रिपोर्ट दे।"
 sources:

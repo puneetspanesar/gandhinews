@@ -25,7 +25,7 @@ cover:
   template: speaker
   label: "चक्रवात मुरासु"
   headline: "मुरासु करीब, नायडू ने दिल्ली दौरा टाला"
-related: [naidu-cyclone-arnab-review-zero-casualties-fishermen, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
+related: [naidu-cyclone-arnab-review-zero-casualties-fishermen, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   description: "आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू ने सोमवार का दिल्ली दौरा रद्द कर चक्रवात मुरासु की तैयारियों की समीक्षा की। तूफान नेल्लोर और नरसापुर के बीच तट पार कर सकता है।"
 sources:

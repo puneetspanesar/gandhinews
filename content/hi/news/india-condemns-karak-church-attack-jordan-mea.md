@@ -21,7 +21,7 @@ hero:
   alt: "विदेश मंत्री एस. जयशंकर"
   overlay:
     value: "जॉर्डन के साथ खड़ा है भारत"
-related: [jordan-karak-church-attack-toll-rises-to-eight, jordan-karak-church-funeral-shooting-seven-killed]
+related: [jordan-karak-church-attack-toll-rises-to-eight]
 seo:
   description: "भारत के विदेश मंत्रालय ने जॉर्डन के करक में चर्च पर हुए हमले की निंदा की, शोक संवेदना जताई और कहा कि भारत जॉर्डन की सरकार और जनता के साथ खड़ा है।"
 sources:

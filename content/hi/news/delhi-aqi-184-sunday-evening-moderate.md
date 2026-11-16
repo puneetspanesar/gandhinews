@@ -21,7 +21,7 @@ hero:
   alt: "दिल्ली रिज, जहां रविवार को शहर का सबसे कम न्यूनतम तापमान दर्ज हुआ"
   overlay:
     value: "एक्यूआई 184, न्यूनतम 18.6°C"
-related: [delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
+related: [delhi-aqi-189-sunday-morning-moderate]
 seo:
   description: "सीपीसीबी के समीर ऐप के मुताबिक 18 अक्टूबर शाम 6 बजे दिल्ली का एक्यूआई 184 ('मध्यम') रहा। न्यूनतम तापमान 18.6 डिग्री सेल्सियस, महीने का सबसे कम।"
 sources:

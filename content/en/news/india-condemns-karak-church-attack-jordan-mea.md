@@ -20,7 +20,7 @@ hero:
   alt: "External Affairs Minister S. Jaishankar"
   overlay:
     value: "India stands with Jordan"
-related: [jordan-karak-church-attack-toll-rises-to-eight, jordan-karak-church-funeral-shooting-seven-killed]
+related: [jordan-karak-church-attack-toll-rises-to-eight]
 seo:
   description: "India's Ministry of External Affairs condemned the attack on a church in Karak, Jordan, offered condolences and said India stands firmly with the Jordanian government and people."
 sources:

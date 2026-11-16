@@ -20,7 +20,7 @@ hero:
   alt: "Traders on the floor of the New York Stock Exchange (file photo)"
   overlay:
     value: "Dow up 0.4%, Nasdaq down 1.1%"
-related: [wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slump-deepens-brent-105-airlines-rally-iran-talks, apple-results-ternus-first-call-113-billion-preview, sensex-nifty-close-november-2]
+related: [wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, oil-slump-deepens-brent-105-airlines-rally-iran-talks, apple-record-september-quarter-114-5-billion-ternus, sensex-nifty-close-november-2]
 seo:
   description: "Wall Street close on November 2, 2026: Dow up 213.67 at 51,983.98, S&P 500 down 0.51% at 7,541.40, Nasdaq down 1.07% at 25,164.32. Marvell, Oracle slide; Brent at $104.77."
 cover:

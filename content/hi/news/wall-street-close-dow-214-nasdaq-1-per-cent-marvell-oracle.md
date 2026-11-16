@@ -21,7 +21,7 @@ hero:
   alt: "न्यूयॉर्क स्टॉक एक्सचेंज के फ्लोर पर कारोबारी (फाइल फोटो)"
   overlay:
     value: "डाउ 0.4% ऊपर, नैस्डैक 1.1% नीचे"
-related: [wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slump-deepens-brent-105-airlines-rally-iran-talks, apple-results-ternus-first-call-113-billion-preview, sensex-nifty-close-november-2]
+related: [wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, oil-slump-deepens-brent-105-airlines-rally-iran-talks, apple-record-september-quarter-114-5-billion-ternus, sensex-nifty-close-november-2]
 seo:
   description: "2 नवंबर 2026 को वॉल स्ट्रीट: डाउ 213.67 अंक चढ़कर 51,983.98, एसएंडपी 500 0.51% गिरकर 7,541.40, नैस्डैक 1.07% टूटकर 25,164.32 पर बंद। मार्वेल, ओरेकल फिसले, ब्रेंट 104.77 डॉलर।"
 cover:

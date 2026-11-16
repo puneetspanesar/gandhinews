@@ -20,7 +20,7 @@ hero:
   alt: "चीन के शिनजियांग में कोरला शहर"
   overlay:
     value: "चीनी ज़मीन पर ऊंचाई वाली ड्रिल"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan, china-rejects-india-ladakh-28-place-names-mea-responds]
+related: [pakistan-joint-sitting-approves-kp-governors-rule, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan, china-rejects-india-ladakh-28-place-names-mea-responds]
 seo:
   description: "पाकिस्तानी और चीनी सैनिकों ने 14 अक्टूबर को शिनजियांग के कोरला में काराकोरम 2026 अभ्यास शुरू किया, जिसमें ऊंचाई पर आतंकवाद-रोधी अभियानों का अभ्यास होगा।"
 sources:

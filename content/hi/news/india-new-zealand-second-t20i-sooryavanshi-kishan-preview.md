@@ -21,7 +21,7 @@ hero:
   alt: "वैभव सूर्यवंशी, जिनके दूसरे टी20 में भारत के लिए ओपनिंग करने की उम्मीद है"
   overlay:
     value: "1-0 की बढ़त, एक ओपनर बाहर"
-related: [ishan-kishan-ruled-out-second-t20i-christchurch, india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch, india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
+related: [india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch, india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
 seo:
   description: "भारत बनाम न्यूज़ीलैंड दूसरा टी20 24 अक्टूबर को हेगली ओवल में दोपहर 12:30 बजे से। चोटिल ईशान किशन की जगह वैभव सूर्यवंशी को मौका मिलने की उम्मीद।"
 sources:

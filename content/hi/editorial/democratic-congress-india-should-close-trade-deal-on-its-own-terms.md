@@ -35,7 +35,7 @@ infographic:
     - {date: "18 सितंबर", text: "रूस प्रतिबंध कानून से 100% तक टैरिफ की छूट", icon: scroll}
     - {date: "4 नवंबर", text: "डेमोक्रेट्स ने कांग्रेस के दोनों सदन जीते", icon: bank}
   source: "अमेरिकी सुप्रीम कोर्ट; यूएसटीआर; व्हाइट हाउस; अमेरिकी नेटवर्कों के अनुमान, 2026"
-related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-explained-congress-tariffs-what-it-means-for-india, india-us-trade-talks-plateau-russia-oil-tariff-law, jaishankar-rubio-mumbai-talks]
+related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-explained-congress-tariffs-what-it-means-for-india, india-us-trade-talks-plateau-russia-oil-tariff-law, rubio-jaishankar-mumbai-talks-close-to-trade-deal]
 seo:
   description: "गांधी न्यूज़ संपादकीय: डेमोक्रेट्स ने अमेरिकी कांग्रेस के दोनों सदन जीते, पर भारत पर धारा 301 का 10% टैरिफ बिना वोट के बना रहेगा। भारत अपनी शर्तों पर व्यापार समझौता पूरा करे और दोनों दलों से बात करे।"
 sources:

@@ -33,7 +33,7 @@ infographic:
     - {date: "Nov 6, 2026", text: "Complainant allowed more documents"}
     - {date: "Nov 18, 2026", text: "Next hearing"}
   source: "Rouse Avenue court proceedings, 2025 to 2026"
-related: [sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today]
+related: []
 seo:
   description: "A Rouse Avenue court on November 6, 2026, let the complainant file more documents in the plea for an FIR against Sonia Gandhi over the 1980 voter list. Next hearing November 18."
 sources:

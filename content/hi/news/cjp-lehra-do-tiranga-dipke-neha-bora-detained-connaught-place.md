@@ -21,7 +21,7 @@ hero:
   alt: "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके और नई दिल्ली का कनॉट प्लेस (फाइल फोटो)"
   overlay:
     value: "150 हिरासत में, सेंट्रल पार्क पर ताला"
-related: [cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, dipke-calls-lehra-do-tiranga-protest-connaught-place, cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party, section-163-bnss-prohibitory-orders-explained]
+related: [delhi-police-tells-high-court-will-act-against-dipke-cp-protest, dipke-calls-lehra-do-tiranga-protest-connaught-place, cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party, section-163-bnss-prohibitory-orders-explained]
 seo:
   description: "16 अक्टूबर को कनॉट प्लेस में सीजेपी का 'लहरा दो तिरंगा' प्रदर्शन धारा 163 के तहत रोका गया; अभिजीत दिपके, नेहा बोरा समेत करीब 150 लोग हिरासत में।"
 sources:

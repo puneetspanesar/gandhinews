@@ -27,7 +27,7 @@ infographic:
     - {icon: percent, value: "44.33%", label: "the BJP's vote share in 2022"}
   chart: {type: columns, title: "Seats won in 2022", highlight: 0, items: [{label: "BJP", value: 47, display: "47"}, {label: "Congress", value: 19, display: "19"}, {label: "Others", value: 4, display: "4"}]}
   source: "Election Commission of India, 2022, as reported"
-related: [assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur, uttarakhand-uniform-civil-code-explained-live-in-marriage-registration, kharge-uttarakhand-review-bjp-betrayed-venugopal-2027, amit-shah-dehradun-parade-ground-rally-padyatra-today, dhami-bjp-save-democracy-campaign-sir-congress]
+related: [assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur, uttarakhand-uniform-civil-code-explained-live-in-marriage-registration, kharge-uttarakhand-review-bjp-betrayed-venugopal-2027, amit-shah-dehradun-rally-speech-1475-crore-projects, dhami-bjp-save-democracy-campaign-sir-congress]
 seo:
   description: "Uttarakhand election 2027: 70 seats, majority 36, 2022 results and vote share, Dhami's Khatima loss and Champawat win, BJP and Congress campaigns, UCC and key issues."
 sources:

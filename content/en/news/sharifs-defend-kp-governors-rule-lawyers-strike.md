@@ -20,7 +20,7 @@ hero:
   alt: "Pakistan Prime Minister Shehbaz Sharif and PML-N president Nawaz Sharif (file photos)"
   overlay:
     value: "'No other option,' says Shehbaz"
-related: [pakistan-opposition-alliance-phc-kp-governors-rule-achakzai, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule]
+related: [pakistan-opposition-alliance-phc-kp-governors-rule-achakzai, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule]
 seo:
   description: "Shehbaz Sharif said it would have been criminal to let Khyber Pakhtunkhwa burn, Nawaz Sharif backed governor's rule, and KP lawyers called a strike for October 19."
 sources:

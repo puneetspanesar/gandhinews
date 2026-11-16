@@ -21,7 +21,7 @@ hero:
   alt: "तेलंगाना के मुख्यमंत्री ए. रेवंत रेड्डी (फाइल फोटो)"
   overlay:
     value: "शहीद एसआई, इंस्पेक्टर को ₹1.25 करोड़"
-related: [amit-shah-police-martyrs-wall-of-valour-154-names, police-commemoration-day-amit-shah-national-police-memorial]
+related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
   description: "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने 21 अक्टूबर 2026 को ड्यूटी पर जान गंवाने वाले पुलिसकर्मियों की अनुग्रह राशि बढ़ाई, आईपीएस अफसरों के लिए ₹2 करोड़ तक। 5,000 पद भरे जा रहे हैं।"
 sources:

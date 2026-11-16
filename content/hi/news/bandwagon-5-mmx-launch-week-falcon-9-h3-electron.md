@@ -21,7 +21,7 @@ hero:
   alt: "फ्लोरिडा के केप कैनावेरल स्पेस फोर्स स्टेशन का स्पेस लॉन्च कॉम्प्लेक्स 40"
   overlay:
     value: "चार दिन, चार लॉन्च"
-related: [japan-h3-mmx-phobos-sample-return-launch, spacex-crs-35-dragon-docks-space-station]
+related: [mmx-launch-h3-phobos-outcome, spacex-crs-35-dragon-docks-space-station]
 seo:
   description: "31 पेलोड वाला स्पेसएक्स का बैंडवैगन-5 सोमवार शाम 4 बजे लॉन्च होगा। इसके बाद जापान का एमएमएक्स, एक स्टारलिंक उड़ान और रॉकेट लैब का इलेक्ट्रॉन मिशन कतार में हैं।"
 sources:

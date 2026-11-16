@@ -21,7 +21,7 @@ hero:
   alt: "छत्तीसगढ़ के मुख्यमंत्री विष्णु देव साय (फाइल फोटो)"
   overlay:
     value: "छत्तीसगढ़ के 26वें जन्मदिन का जश्न शुरू"
-related: [chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
+related: [modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
 seo:
   description: "केंद्रीय मंत्री मनसुख मंडाविया और मुख्यमंत्री विष्णु देव साय ने 1 नवंबर को नवा रायपुर में छत्तीसगढ़ राज्योत्सव 2026 का शुभारंभ किया; 3 नवंबर को समापन में अमित शाह आएंगे।"
 sources:

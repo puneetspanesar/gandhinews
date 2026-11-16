@@ -37,7 +37,7 @@ infographic:
     - {icon: map-pin, value: "576", label: "पलनाडु के 11 मंडलों में मतदान केंद्र"}
   chart: {type: columns, title: "सुबह 9 बजे तक मतदान, पलनाडु के चुनिंदा मंडल, %", highlight: 0, items: [{label: "पिडुगुराल्ला", value: 18.55, display: "18.55"}, {label: "गुरजाला", value: 16.77, display: "16.77"}, {label: "सत्तेनापल्ली", value: 16.76, display: "16.76"}, {label: "क्रोसुरु", value: 6.31, display: "6.31"}, {label: "चिलकलूरिपेट", value: 4.63, display: "4.63"}]}
   source: "पलनाडु जिला चुनाव अधिकारी; वाईएसआरसीपी का बयान, 5 नवंबर 2026"
-related: [andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "आंध्र प्रदेश में 5 नवंबर 2026 को एमपीटीसी-जेडपीटीसी मतदान के दौरान वाईएसआरसीपी ने पुलिवेंदुला, रामगिरि और हिंदूपुर में एजेंटों और मतदाताओं को रोकने का आरोप लगाया; पलनाडु में 9 बजे तक 12.06% मतदान।"
 sources:

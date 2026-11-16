@@ -21,7 +21,7 @@ hero:
   alt: "केंद्रीय स्वास्थ्य मंत्री जे पी नड्डा और कांग्रेस नेता राहुल गांधी"
   overlay:
     value: "नड्डा: रैली 'अराजकता मॉडल'"
-related: [india-bloc-convoy-connaught-place-tejashwi-crush-democracy, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-convoy-connaught-place-tejashwi-crush-democracy, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "इंडिया गठबंधन की रैली, 1 नवंबर 2026: केंद्रीय मंत्री जे पी नड्डा ने रामलीला मैदान के विरोध को 'अराजकता मॉडल' बताया और तारीख को 1984 के दंगों से जोड़ा; दिल्ली के मंत्री आशीष सूद बोले, कांग्रेस अराजकता चाहती है।"
 sources:

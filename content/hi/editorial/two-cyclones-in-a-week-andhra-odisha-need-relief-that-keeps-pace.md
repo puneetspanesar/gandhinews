@@ -21,7 +21,7 @@ hero:
   overlay:
     kicker: "हमारा मत"
     value: "एक तट, दो तूफान, एक दावा"
-related: [cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit, naidu-cyclone-arnab-review-zero-casualties-fishermen, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
+related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, naidu-cyclone-murasu-review-cancels-delhi-visit, naidu-cyclone-arnab-review-zero-casualties-fishermen, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   description: "गांधी न्यूज़ संपादकीय: चक्रवात अर्नब के कुछ ही दिन बाद मुरासु ओंगोल की ओर बढ़ रहा है; आंध्र प्रदेश और केंद्र दोनों तूफानों का एक साथ आकलन करें, किसानों को अग्रिम राशि दें और निकासी जल्दी करें।"
 sources:

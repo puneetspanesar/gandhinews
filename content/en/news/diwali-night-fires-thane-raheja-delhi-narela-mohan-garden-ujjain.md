@@ -30,7 +30,7 @@ infographic:
     - {icon: users, value: "7", label: "people rescued from a Mohan Garden building in Delhi (4 roped down)"}
     - {icon: fire-truck, value: "7", label: "fire tenders sent to the Narela rubber factory"}
   source: "Delhi Fire Services, Maharashtra Deputy CM, Ujjain Collector, November 8 and 9, 2026"
-related: [delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza, bombay-high-court-street-firecracker-ban-all-festivals]
+related: [delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza, bombay-high-court-street-firecracker-ban-all-festivals]
 seo:
   description: "Fires on Diwali night, November 8, 2026: about 50 rescued in Thane, seven in Delhi's Mohan Garden, a rubber factory blaze in Narela and fires in Ujjain and Nagpur."
 sources:

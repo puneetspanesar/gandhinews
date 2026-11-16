@@ -20,7 +20,7 @@ hero:
   alt: "India's KL Rahul"
   overlay:
     value: "Red-ball rehearsal in Lincoln"
-related: [ishan-kishan-ruled-out-second-t20i-christchurch, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
+related: [india-new-zealand-second-t20i-sooryavanshi-kishan-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
   description: "India A, led by Dhruv Jurel with KL Rahul and Yashasvi Jaiswal, play New Zealand A in a four-day match at Lincoln from October 24 before the senior Tests."
 sources:

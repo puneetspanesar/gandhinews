@@ -17,7 +17,7 @@ hero:
   alt: "केंद्रीय गृह मंत्री अमित शाह और मुख्य चुनाव आयुक्त ज्ञानेश कुमार"
   overlay:
     value: "सत्र की पेशकश, कठघरे में सीईसी"
-related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, how-chief-election-commissioner-is-appointed-removed, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, how-chief-election-commissioner-is-appointed-removed, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "संसद का विशेष सत्र क्या है, अनुच्छेद 85 के तहत इसे कौन बुला सकता है, इंडिया गठबंधन के नकली महाभियोग के बाद अमित शाह की पेशकश क्यों अहम है, और मुख्य चुनाव आयुक्त को असल में कैसे हटाया जा सकता है।"
 sources:

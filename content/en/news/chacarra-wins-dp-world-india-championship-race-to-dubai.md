@@ -20,7 +20,7 @@ hero:
   alt: "Spanish golfer Eugenio Chacarra"
   overlay:
     value: "Third title of 2026"
-related: [chacarra-63-five-shot-lead-india-championship-final-round, chacarra-leads-india-championship-chouhan-top-indian, india-championship-darkness-halts-round-two-meronk-hidalgo-luiten, norgaard-leads-rain-hit-india-championship-chouhan-fifth]
+related: [india-championship-darkness-halts-round-two-meronk-hidalgo-luiten, norgaard-leads-rain-hit-india-championship-chouhan-fifth]
 seo:
   description: "Eugenio Chacarra won the DP World India Championship at Delhi Golf Club by two shots from Daniel Hillier and moved top of the Race to Dubai; Lahiri was best Indian."
 sources:

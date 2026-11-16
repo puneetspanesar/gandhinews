@@ -35,7 +35,7 @@ infographic:
     - {date: "Nov 5", text: "Five bodies of one family recovered", icon: users}
     - {date: "Nov 5", text: "Odisha seeks ₹2,526 crore from Centre", icon: currency-inr}
   source: "Kandhamal district administration; Odisha Special Relief Commissioner, November 5, 2026"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained]
+related: [cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace, why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained]
 seo:
   description: "Five members of one family were found dead at landslide-hit Ghidipabali in Odisha's Ganjam on November 5, taking the toll to seven; Odisha seeks ₹2,526 crore aid."
 sources:

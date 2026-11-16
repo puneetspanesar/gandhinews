@@ -20,7 +20,7 @@ hero:
   alt: "Mumbai batter Angkrish Raghuvanshi"
   overlay:
     value: "Mumbai 247/6 on day one"
-related: [angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci, railways-bowl-mumbai-ranji-round-four-cci-start, mumbai-railways-ranji-round-four-brabourne-preview, india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha]
+related: [india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha]
 seo:
   description: "Mumbai ended day one of their Ranji Trophy match against Railways on 247 for six on November 2, 2026, with Angkrish Raghuvanshi making 78 and Himanshu Sangwan taking 3 for 32."
 sources:

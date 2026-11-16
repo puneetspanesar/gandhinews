@@ -20,7 +20,7 @@ hero:
   alt: "वेस्टइंडीज़ के तेज़ गेंदबाज़ शमार जोसेफ़"
   overlay:
     value: "एक मैच, एक सीरीज़, शनिवार शाम 7 बजे"
-related: [india-west-indies-bengaluru-decider-arshdeep-doubt, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, modi-hosts-asian-games-champions-iyer-harmanpreet-delhi]
+related: [india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, modi-hosts-asian-games-champions-iyer-harmanpreet-delhi]
 seo:
   description: "भारत बनाम वेस्टइंडीज़ पांचवां टी20: अर्शदीप सिंह की फ़िटनेस, ओस और छोटा चिन्नास्वामी मैदान, 17 अक्टूबर को बेंगलुरु में सीरीज़ का फ़ैसला।"
 sources:

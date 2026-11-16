@@ -20,7 +20,7 @@ hero:
   alt: "Andhra Pradesh Chief Minister N Chandrababu Naidu"
   overlay:
     value: "Boats back, crews ready, zero casualties"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
+related: [cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
 seo:
   description: "Andhra Pradesh CM Chandrababu Naidu ordered fishermen off the sea and repair crews into place as Cyclone Arnab heads for landfall between Bapatla and Visakhapatnam."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "The Vikram Sarabhai Space Centre in Thiruvananthapuram (file photo)"
   overlay:
     value: "The split before re-entry, tested"
-related: [japan-h3-mmx-phobos-sample-return-launch, spacex-crs-35-dragon-docks-space-station]
+related: [mmx-launch-h3-phobos-outcome, spacex-crs-35-dragon-docks-space-station]
 seo:
   description: "ISRO completed Gaganyaan crew module and service module separation tests at VSSC, a key step before the uncrewed G1 mission with Vyommitra, targeted for 2026."
 sources:

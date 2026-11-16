@@ -20,7 +20,7 @@ hero:
   alt: "A hazy morning over New Delhi"
   overlay:
     value: "AQI 189 on October 18"
-related: [delhi-aqi-159-moderate-cpcb-saturday-grap, delhi-air-turns-poor-again-anand-vihar-dry-week]
+related: [delhi-air-turns-poor-again-anand-vihar-dry-week]
 seo:
   description: "Delhi's AQI was 189 at 9 am on Sunday, October 18, in the upper end of the 'moderate' band and up from 159 on Saturday afternoon, per CPCB's Sameer app."
 sources:
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "9 am AQI 189 from Sameer app via PTI (ThePrint, 10:48 am). Station-level figures not reported. CPCB 4 pm bulletin for Sunday not yet out at time of writing."
-    - "Saturday 159 figure from our earlier story delhi-aqi-159-moderate-cpcb-saturday-grap (CPCB 4 pm bulletin)."
+    - "Saturday 159 figure from our earlier story delhi-aqi-189-sunday-morning-moderate (CPCB 4 pm bulletin)."
 ---
 
 Delhi's air quality index stood at 189 at 9 am on Sunday, in the 'moderate' category but close to its upper limit, according to the Central Pollution Control Board's Sameer app.

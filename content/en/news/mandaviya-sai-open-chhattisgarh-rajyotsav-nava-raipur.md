@@ -20,7 +20,7 @@ hero:
   alt: "Chhattisgarh Chief Minister Vishnu Deo Sai (file photo)"
   overlay:
     value: "Chhattisgarh's 26th birthday party begins"
-related: [chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
+related: [modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
 seo:
   description: "Union Minister Mansukh Mandaviya and CM Vishnu Deo Sai opened Chhattisgarh Rajyotsav 2026 in Nava Raipur on November 1; Amit Shah attends the close on November 3."
 sources:

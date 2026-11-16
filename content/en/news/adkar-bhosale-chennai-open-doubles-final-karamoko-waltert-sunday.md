@@ -29,7 +29,7 @@ infographic:
     left: {title: "Adkar / Bhosale", value: "India", text: "Beat the second seeds 6-2, 2-6, 10-8"}
     right: {title: "Karamoko / Waltert", value: "Switzerland", text: "Beat Haverlag / Udvardy 6-4, 6-4"}
   source: "Chennai Open semi-finals, November 7, 2026"
-related: [adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open, maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery]
+related: [maaya-rajeshwaran-chennai-open-quarter-final-robin-montgomery]
 seo:
   description: "Vaishnavi Adkar and Rutuja Bhosale play Naima Karamoko and Simona Waltert in the Chennai Open doubles final on November 8, 2026, a first for an all-Indian pair."
 sources:

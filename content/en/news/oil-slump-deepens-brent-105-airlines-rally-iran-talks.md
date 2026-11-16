@@ -20,7 +20,7 @@ hero:
   alt: "US Secretary of State Marco Rubio (file photo)"
   overlay:
     value: "Brent down over 6%, near $105"
-related: [oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-close-november-2]
+related: [oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-close-november-2]
 seo:
   description: "Oil prices on November 2, 2026: Brent falls more than 6% to near $105 and WTI below $97 on US-Iran diplomacy hopes; United, American, Delta and JetBlue shares rally."
 cover:

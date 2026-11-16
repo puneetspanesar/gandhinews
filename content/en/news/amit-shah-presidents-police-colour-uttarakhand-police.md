@@ -30,7 +30,7 @@ infographic:
     - {icon: users-three, value: "26,000+", label: "police personnel today, up from about 13,000 in 2000"}
     - {icon: gavel, value: "3 years", label: "Shah's target for a sentence in FIRs after May 2027"}
   source: "Ministry of Home Affairs and Uttarakhand Police, November 6, 2026"
-related: [amit-shah-dehradun-rally-speech-1475-crore-projects, amit-shah-dehradun-parade-ground-rally-padyatra-today]
+related: [amit-shah-dehradun-rally-speech-1475-crore-projects]
 seo:
   description: "Union Home Minister Amit Shah presented the President's Police Colour to the Uttarakhand Police in Dehradun on November 6, 2026, and said accused in FIRs filed after May 2027 would be sentenced within three years."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "Hills around Chikkamagaluru in Karnataka"
   overlay:
     value: "Heavy rain for 3 to 4 days"
-related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "Heavy rain is forecast across Karnataka for three to four days from October 25, 2026, heaviest in the south; Bengaluru to see a high of 24C and low of 19C."
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय ₹500 के नोट"
   overlay:
     value: "रुपया 94.38 पर, 53 पैसे मज़बूत"
-related: [rupee-flat-94-92-importer-dollar-demand-october-19, sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-fully-subscribed-day-one-record]
+related: [rupee-flat-94-92-importer-dollar-demand-october-19, sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
   description: "21 अक्टूबर 2026 को डॉलर के मुकाबले रुपया 53 पैसे मज़बूत होकर 94.38 पर बंद, छह हफ्ते का ऊंचा स्तर; जियो प्लेटफॉर्म्स आईपीओ के निवेश और आरबीआई के दखल से तेज़ी।"
 sources:

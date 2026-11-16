@@ -20,7 +20,7 @@ hero:
   alt: "टीटीएपी विपक्षी गठबंधन के अध्यक्ष महमूद खान अचकज़ई"
   overlay:
     value: "पक्ष में 240, विरोध में 46"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule, peshawar-school-roof-collapse-kills-students]
+related: [pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule, peshawar-school-roof-collapse-kills-students]
 seo:
   description: "पाकिस्तान की संसद की संयुक्त बैठक ने 15 अक्टूबर को खैबर पख्तूनख्वा में गवर्नर शासन को 240-46 से मंज़ूरी दी। विपक्षी गठबंधन टीटीएपी ने बातचीत रोकी।"
 sources:

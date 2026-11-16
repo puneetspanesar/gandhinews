@@ -20,7 +20,7 @@ hero:
   alt: "Reliance Corporate Park, the Reliance Industries campus in Navi Mumbai (file photo)"
   overlay:
     value: "Sensex up 1,030 points at day's high"
-related: [sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-week-october-30-pharma-fii-return, india-manufacturing-pmi-october-final-54-7-export-orders, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
+related: [sensex-nifty-close-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-week-october-30-pharma-fii-return, india-manufacturing-pmi-october-final-54-7-export-orders, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
   description: "Stock market on November 2, 2026: Sensex jumps 1,030 points to an intraday high of 75,489.70 and Nifty to 23,330.70, with Reliance Industries contributing about 400 points, metals leading and pharma the only sector in the red."
 cover:

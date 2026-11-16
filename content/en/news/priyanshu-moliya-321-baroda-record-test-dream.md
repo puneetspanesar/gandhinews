@@ -25,7 +25,7 @@ cover:
   label: "Ranji Trophy"
   headline: "'I want to play Test cricket for India'"
   bg: "Reliance Stadium, Vadodara"
-related: [chinmay-sutar-400-mizoram-nagaland-ranji-record, mumbai-railways-ranji-round-four-brabourne-preview]
+related: [chinmay-sutar-400-mizoram-nagaland-ranji-record, mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz]
 seo:
   description: "Baroda's Priyanshu Moliya, 21, talks about his unbeaten 321 against Jammu and Kashmir, the highest Ranji Trophy score by a Baroda batter, and his dream of playing Test cricket for India."
 sources:

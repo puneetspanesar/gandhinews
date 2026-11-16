@@ -30,7 +30,7 @@ infographic:
     - {icon: map-pin, value: "16 of 59", label: "stations reporting severe air"}
     - {icon: shield-warning, value: "452", label: "highest station reading, near IIT Delhi"}
   source: "CPCB data as reported, November 7, 2026"
-related: [delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
+related: [delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
 seo:
   description: "Delhi's average AQI was 369 (very poor) on Diwali eve, November 7, 2026, down from 382, with 16 of 59 stations severe, GRAP III in force and severe air forecast for November 8 and 9."
 sources:

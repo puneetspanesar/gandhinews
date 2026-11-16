@@ -23,7 +23,7 @@ hero:
     value: "सेंसेक्स 143 अंक नीचे बंद"
 seo:
   description: "21 अक्टूबर 2026 को सेंसेक्स 143.21 अंक गिरकर 73,709.69 पर और निफ्टी 77.60 अंक गिरकर करीब 22,811 पर बंद हुआ। सिर्फ आईटी में बढ़त, स्मॉलकैप 2.37% टूटे।"
-related: [markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21, sensex-nifty-close-october-19-private-banks-axis, jio-platforms-ipo-opens-today-what-bidders-need-to-know, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
+related: [markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21, sensex-nifty-close-october-19-private-banks-axis, jio-platforms-ipo-subscribed-22-times-listing-october-28, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
 sources:
   - title: "Stock Market LIVE, October 21: Sensex, Nifty, Jio Platforms IPO, Eternal Q2"
     publisher: "Business Standard"

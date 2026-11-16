@@ -19,7 +19,7 @@ hero:
   alt: "Rescue 1122 emergency service workers in Peshawar, Pakistan"
   overlay:
     value: "Owner held after 31 die in Peshawar"
-related: [peshawar-school-roof-collapse-kills-students, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-kp-governors-rule-follow-up]
+related: [peshawar-school-roof-collapse-kills-students, pakistan-joint-sitting-approves-kp-governors-rule]
 seo:
   description: "Peshawar school roof collapse: toll rises to at least 31, owner arrested, Rs1 million compensation, fact-finding committee and provincewide safety audit ordered."
 sources:

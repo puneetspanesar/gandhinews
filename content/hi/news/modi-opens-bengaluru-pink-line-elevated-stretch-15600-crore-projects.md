@@ -39,7 +39,7 @@ infographic:
     - {icon: currency-inr, value: "₹3,470 करोड़", label: "पिंक लाइन खंड"}
     - {icon: train, value: "45 किमी", label: "बागलकोट-वंडल दोहरीकरण समर्पित"}
   source: "प्रधानमंत्री कार्यालय की विज्ञप्ति, 11 नवंबर 2026"
-related: [modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting]
+related: [modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting]
 seo:
   title: "बेंगलुरु में मोदी: पिंक लाइन, ₹15,600 करोड़ की परियोजनाएं"
   description: "13 नवंबर को बेंगलुरु में पीएम मोदी: पिंक लाइन मेट्रो, ₹10,370 करोड़ की बिजली लाइनें, मंगलुरु एलपीजी गुफा, गोवा की वंदे भारत और बायोगैस संयंत्र।"
@@ -89,7 +89,7 @@ verification:
 
 ## यहां तक कैसे पहुंचे
 
-यात्रा की घोषणा 11 नवंबर को कर्नाटक और गुजरात के दो दिन के दौरे के रूप में हुई थी। गुरुवार को मुख्यमंत्री डी.के. शिवकुमार ने कहा था कि राज्य [प्रधानमंत्री का स्वागत करेगा और अपनी मांगें रखेगा](/hi/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting), जिनमें सूखा राहत भी है। मोदी शुक्रवार सुबह एचएएल हवाई अड्डे पर उतरे और पहले प्रशांति कुटीरम समारोह में गए। पूरा कार्यक्रम हमारे [सुबह के पूर्वावलोकन](/hi/news/modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead) में है।
+यात्रा की घोषणा 11 नवंबर को कर्नाटक और गुजरात के दो दिन के दौरे के रूप में हुई थी। गुरुवार को मुख्यमंत्री डी.के. शिवकुमार ने कहा था कि राज्य [प्रधानमंत्री का स्वागत करेगा और अपनी मांगें रखेगा](/hi/news/shivakumar-modi-visit-bengaluru-welcome-drought-relief-private-meeting), जिनमें सूखा राहत भी है। मोदी शुक्रवार सुबह एचएएल हवाई अड्डे पर उतरे और पहले प्रशांति कुटीरम समारोह में गए। पूरा कार्यक्रम हमारे [सुबह के पूर्वावलोकन](/hi/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects) में है।
 
 ## यह क्यों मायने रखता है
 

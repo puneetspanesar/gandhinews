@@ -20,7 +20,7 @@ hero:
   alt: "Connaught Place in central New Delhi, where the opposition march to Ramlila Maidan was due to begin"
   overlay:
     value: "'A stern warning' to Modi, Shah"
-related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
   description: "INDIA bloc rally, November 1, 2026: Congress general secretary K C Venugopal says the Ramlila Maidan protest against CEC Gyanesh Kumar is a stern warning to PM Modi and Amit Shah."
 sources:

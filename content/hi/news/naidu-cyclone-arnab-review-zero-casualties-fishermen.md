@@ -21,7 +21,7 @@ hero:
   alt: "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू"
   overlay:
     value: "नावें किनारे, टीमें तैयार"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
+related: [cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
 seo:
   description: "चक्रवात अर्नब से पहले आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू ने मछुआरों को समुद्र से लौटने और मरम्मत टीमें तैनात करने का आदेश दिया। तट से टक्कर बापटला-विशाखापत्तनम के बीच संभव।"
 sources:

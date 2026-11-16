@@ -39,7 +39,7 @@ infographic:
     - {label: "Congress", value: 18, display: "18"}
     - {label: "Others", value: 7, display: "7"}
   source: "Insaaf Rally, Sangrur, November 4, 2026; 2022 Assembly results"
-related: [rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign, three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap]
+related: [three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap]
 seo:
   description: "At the Congress Insaaf Rally in Sangrur, Rahul Gandhi called Sidhu Moosewala's father on stage and attacked the Bhagwant Mann government over drugs and gang violence."
 sources:

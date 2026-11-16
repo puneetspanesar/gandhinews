@@ -31,7 +31,7 @@ infographic:
     - {title: "Public meeting", text: "Rally with Yogi Adityanath expected"}
     - {title: "Intellectuals", text: "Meeting with local opinion leaders"}
   source: "BJP programme for November 4, 2026"
-related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe, rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign]
+related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe, rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs]
 seo:
   description: "BJP president Nitin Nabin leads the party's 'Loktantra Bachao, Arajakta Hatao' padyatra and public meeting in Gorakhpur on November 4, with Yogi Adityanath expected."
 sources:

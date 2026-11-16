@@ -35,7 +35,7 @@ infographic:
     - {date: "आधी रात के बाद", text: "अप्पिरेड्डी गिरफ्तार", icon: police-car}
     - {date: "6 नवंबर", text: "अदालत में पेशी", icon: gavel}
   source: "गुंटूर से रिपोर्टें, 6 नवंबर 2026"
-related: [andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent]
+related: [andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7, andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest, ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
 seo:
   description: "परिषद चुनाव के बैलेट बॉक्स को लेकर नल्लापाडु में सड़क पर धरने के बाद वाईएसआरसीपी एमएलसी लेल्ला अप्पिरेड्डी गुंटूर में गिरफ्तार, सरकारी काम में बाधा का केस।"
 sources:

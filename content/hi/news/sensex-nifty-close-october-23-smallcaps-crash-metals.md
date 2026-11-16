@@ -21,7 +21,7 @@ hero:
   alt: "मुंबई के दलाल स्ट्रीट पर बीएसई की इमारत"
   overlay:
     value: "लगातार चौथे दिन लाल निशान"
-related: [sensex-nifty-close-october-22-crude-110-west-asia, midcap-smallcap-indices-slide-4-per-cent-margin-calls, jio-platforms-ipo-closes-subscription-final-day, q2-movers-hatsun-sterlite-bluestone-shree-cement-october-23, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
+related: [sensex-nifty-close-october-22-crude-110-west-asia, midcap-smallcap-indices-slide-4-per-cent-margin-calls, jio-platforms-ipo-subscribed-22-times-listing-october-28, q2-movers-hatsun-sterlite-bluestone-shree-cement-october-23, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
 seo:
   description: "शेयर बाज़ार 23 अक्टूबर 2026: सेंसेक्स लगातार चौथे दिन 125.56 अंक गिरकर 73,123.83 पर, निफ्टी 22,600 पर; स्मॉलकैप 2.94% नीचे, धातु और रियल्टी में गिरावट, आईटी में बढ़त; वीआईएक्स 8% ऊपर, ब्रेंट करीब 114 डॉलर।"
 sources:

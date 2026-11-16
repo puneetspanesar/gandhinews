@@ -19,7 +19,7 @@ hero:
   alt: "Australia fast bowler Josh Hazlewood"
   overlay:
     value: "Last four wickets for five runs"
-related: [renshaw-puts-australia-on-top-in-durban-test]
+related: []
 seo:
   description: "South Africa v Australia, first Test, day 5 at Kingsmead: Josh Hazlewood takes 6 for 49 as Australia win by 214 runs and lead the series 1-0."
 sources:

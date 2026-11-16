@@ -21,7 +21,7 @@ hero:
   alt: "प्रधानमंत्री नरेंद्र मोदी और पोलैंड के प्रधानमंत्री डोनाल्ड टस्क"
   overlay:
     value: "रक्षा, अंतरिक्ष, परमाणु: दिल्ली-वारसॉ साथ"
-related: [tusk-arrives-delhi-modi-talks-thursday, tusk-india-visit-october-21-modi-bengaluru]
+related: [tusk-arrives-delhi-modi-talks-thursday]
 seo:
   description: "प्रधानमंत्री मोदी और पोलैंड के पीएम डोनाल्ड टस्क 22 अक्टूबर को रक्षा, अंतरिक्ष और परमाणु ऊर्जा में सहयोग बढ़ाने पर सहमत हुए, भारत-पोलैंड स्टार्टअप ब्रिज शुरू।"
 sources:

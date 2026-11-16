@@ -36,7 +36,7 @@ infographic:
     - {date: "Restart", text: "Chase cut to 32 overs", icon: timer}
     - {date: "22.4 ov", text: "India reach 143 for 5 and win", icon: trophy}
   source: "Match scorecard, November 4, 2026"
-related: [india-65-one-down-32-over-chase-eden-park-odi, india-54-one-down-rain-stops-play-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
+related: [rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park]
 seo:
   description: "New Zealand v India first ODI, Eden Park, November 4, 2026: India beat New Zealand by five wickets on the DLS method, making 143 for 5 in 22.4 overs of a 32-over chase after NZ were out for 185."
 sources:

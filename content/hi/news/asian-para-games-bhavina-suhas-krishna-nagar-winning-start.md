@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय पैरा टेबल टेनिस खिलाड़ी भाविना पटेल"
   overlay:
     value: "टेबल पर चार मैच, चारों में जीत"
-related: [asian-para-games-india-begin-badminton-table-tennis-blind-football, india-name-168-athletes-asian-para-games-aichi-nagoya, asian-para-games-classification-explained]
+related: [india-name-168-athletes-asian-para-games-aichi-nagoya, asian-para-games-classification-explained]
 seo:
   description: "एशियाई पैरा खेल 2026 पहला दिन: टेबल टेनिस में भाविना पटेल, बेबी सहाना रवि, शुभम वाधवा और जहान मदान जीते; बैडमिंटन में सुहास यतिराज और कृष्णा नागर की जीत से शुरुआत।"
 sources:

@@ -35,7 +35,7 @@ infographic:
     - {date: "7 नवंबर", text: "पटनायक ने गंजाम के बाढ़ग्रस्त ब्लॉकों का दौरा किया", icon: map-pin}
     - {date: "10 नवंबर", text: "तलाश बंद, पटनायक का मुख्यमंत्री को पत्र", icon: newspaper}
   source: "गंजाम और कंधमाल प्रशासन; नवीन पटनायक का पत्र, 10 नवंबर 2026"
-related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "गंजाम के घिडिपबाली में 10 नवंबर को तलाश बंद हुई, सात शव मिले, छह लापता; नवीन पटनायक ने मुख्यमंत्री माझी को लापरवाही का आरोप लगाते हुए पत्र लिखा।"
 sources:

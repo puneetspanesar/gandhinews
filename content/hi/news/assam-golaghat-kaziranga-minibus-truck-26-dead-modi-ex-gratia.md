@@ -31,7 +31,7 @@ infographic:
     - {icon: first-aid-kit, value: "20", label: "घायल, सभी जोरहाट मेडिकल कॉलेज एवं अस्पताल भेजे गए"}
     - {icon: currency-inr, value: "₹2 लाख", label: "पीएमएनआरएफ से मृतकों के हर परिवार को"}
   source: "गोलाघाट ज़िला प्रशासन और प्रधानमंत्री कार्यालय, 13 नवंबर 2026"
-related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, kolkata-sairang-express-derails-digaru-assam-no-injuries]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, kolkata-sairang-express-derails-digaru-assam-no-injuries]
 seo:
   title: "काजीरंगा के पास मिनीबस-ट्रक टक्कर, 26 की मौत"
   description: "13 नवंबर 2026 को असम के गोलाघाट में काजीरंगा के पास एनएच-715 पर मिनीबस और कंटेनर ट्रक की टक्कर में कम से कम 26 लोगों की मौत हुई। मोदी ने 2 लाख रुपये की घोषणा की।"

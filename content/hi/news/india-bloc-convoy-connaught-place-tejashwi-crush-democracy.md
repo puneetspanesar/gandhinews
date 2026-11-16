@@ -21,7 +21,7 @@ hero:
   alt: "राजद नेता तेजस्वी यादव और भाकपा महासचिव डी राजा"
   overlay:
     value: "कनॉट प्लेस पहुंचा विपक्ष का काफिला"
-related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-rally-venugopal-stern-warning-modi-shah, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally]
 seo:
   description: "इंडिया गठबंधन रैली, 1 नवंबर 2026: राहुल गांधी, ममता बनर्जी, अखिलेश और तेजस्वी खुली बस में मिंटो ब्रिज से कनॉट प्लेस पहुंचे; भाजपा ने मार्च को अराजक बताया।"
 sources:

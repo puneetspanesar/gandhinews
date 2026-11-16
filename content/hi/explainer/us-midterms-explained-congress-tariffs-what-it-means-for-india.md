@@ -32,7 +32,7 @@ infographic:
     - {date: "24 जुलाई 2026", text: "अस्थायी शुल्क की जगह धारा 301 का 10% शुल्क", icon: factory}
     - {date: "3 नवंबर 2026", text: "मध्यावधि चुनाव तय करेंगे अमेरिकी कांग्रेस किसके पास", icon: flag-banner}
   source: "अमेरिकी सुप्रीम कोर्ट; यूएसटीआर; जेफरीज़; चैथम हाउस; अमेरिकी फैक्ट शीट, 10 फरवरी 2026"
-related: [us-midterms-2026-explained-what-is-at-stake, us-midterms-ossoff-holds-georgia-first-results, india-us-trade-talks-plateau-russia-oil-tariff-law, trump-waives-russia-sanctions-law-india-tariff-threat]
+related: [us-midterms-2026-explained-what-is-at-stake, us-midterms-results-cooper-flips-north-carolina-senate, india-us-trade-talks-plateau-russia-oil-tariff-law, trump-waives-russia-sanctions-law-india-tariff-threat]
 seo:
   description: "अमेरिकी मध्यावधि चुनाव 2026 और टैरिफ: क्या डेमोक्रेटिक हाउस भारत पर ट्रंप का 10% धारा 301 शुल्क हटा सकता है? कांग्रेस के अधिकार, वीटो, व्यापार समझौता और एच-1बी, आसान भाषा में।"
 sources:

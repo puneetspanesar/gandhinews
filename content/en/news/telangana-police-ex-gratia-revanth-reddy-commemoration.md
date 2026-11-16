@@ -20,7 +20,7 @@ hero:
   alt: "Telangana Chief Minister A. Revanth Reddy (file photo)"
   overlay:
     value: "₹1.25 crore for fallen SIs, inspectors"
-related: [amit-shah-police-martyrs-wall-of-valour-154-names, police-commemoration-day-amit-shah-national-police-memorial]
+related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
   description: "Telangana CM Revanth Reddy on October 21, 2026, raised ex-gratia for police killed on duty, up to ₹2 crore for IPS officers, and said 5,000 police posts are being filled."
 sources:

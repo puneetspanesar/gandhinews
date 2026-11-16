@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय बल्लेबाज़ हरमनप्रीत कौर और दीप्ति शर्मा"
   overlay:
     value: "दो शतक, सीरीज़ में 2-0 की बढ़त"
-related: [harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi, india-women-zimbabwe-second-odi-vadodara-rawal-preview, harmanpreet-91-india-women-sweep-zimbabwe-92-runs]
+related: [india-women-zimbabwe-second-odi-vadodara-rawal-preview, harmanpreet-91-india-women-sweep-zimbabwe-92-runs]
 seo:
   description: "हरमनप्रीत कौर के 126 और दीप्ति शर्मा के नाबाद 106 रन की बदौलत भारतीय महिला टीम ने वडोदरा में ज़िम्बाब्वे को 121 रन से हराकर वनडे सीरीज़ में 2-0 की अजेय बढ़त ली।"
 sources:

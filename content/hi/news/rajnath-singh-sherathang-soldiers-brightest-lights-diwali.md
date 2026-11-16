@@ -32,7 +32,7 @@ infographic:
     - {title: "रविवार, 8 नवंबर", text: "शेरथांग में 33 कोर के जवान"}
     - {title: "रविवार, 8 नवंबर", text: "शेरथांग युद्ध स्मारक पर श्रद्धांजलि"}
   source: "रक्षा मंत्रालय की विज्ञप्ति, 8 नवंबर 2026"
-related: [rajnath-singh-reaches-sherathang-diwali-nathu-la, rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve, rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday, modi-bastar-cobra-karanpur-diwali-naxalism-won]
+related: [rajnath-singh-air-warriors-bagdogra-morale-drones-diwali-eve, rajnath-singh-diwali-eve-army-bagdogra-sukna-sherathang-sunday, modi-bastar-cobra-karanpur-diwali-naxalism-won]
 seo:
   description: "रक्षा मंत्री राजनाथ सिंह ने 8 नवंबर 2026 को सिक्किम के शेरथांग में त्रिशक्ति कोर के जवानों के साथ दिवाली मनाई, सैनिकों को दिवाली का सबसे उज्ज्वल प्रकाश बताया और शेरथांग युद्ध स्मारक पर शहीदों को श्रद्धांजलि दी।"
 sources:

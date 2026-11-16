@@ -20,7 +20,7 @@ hero:
   alt: "The GIFT One tower in GIFT City, Gandhinagar (file photo)"
   overlay:
     value: "GIFT Nifty up 205 points, Brent down 2.7%"
-related: [asia-open-nikkei-seen-down-oil-dalal-street-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, markets-week-ahead-us-midterms-itc-sbi-results-november-2, india-manufacturing-pmi-october-final-due-flash-54-9, kospi-turns-higher-samsung-sk-hynix-recover-chip-rout]
+related: [asia-open-nikkei-seen-down-oil-dalal-street-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, markets-week-ahead-us-midterms-itc-sbi-results-november-2, india-manufacturing-pmi-october-final-54-7-export-orders, kospi-turns-higher-samsung-sk-hynix-recover-chip-rout]
 seo:
   description: "Market cues for November 2, 2026: GIFT Nifty up 205 points at 23,291, Brent down 2.7% at $110.4, Nikkei pares losses, US futures up; Reliance, IOC, Sun Pharma, BEL in focus."
 cover:

@@ -20,7 +20,7 @@ hero:
   alt: "Thanjavur in Tamil Nadu"
   overlay:
     value: "Red alert in the delta"
-related: [nilgiris-landslide-bus-driver-killed-passengers-escape, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [nilgiris-landslide-bus-driver-killed-passengers-escape, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "IMD Chennai issued a red alert for Pudukkottai, Thanjavur, Ariyalur, Perambalur and Tiruchirappalli on October 25, 2026; Chennai is on yellow alert."
 sources:

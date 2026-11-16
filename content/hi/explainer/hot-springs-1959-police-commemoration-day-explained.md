@@ -17,7 +17,7 @@ hero:
   alt: "लद्दाख में हॉट स्प्रिंग्स के पास चांग चेनमो घाटी का ऊंचा, वीरान इलाका"
   overlay:
     value: "हॉट स्प्रिंग्स के दस शहीद"
-related: [police-commemoration-day-amit-shah-national-police-memorial]
+related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
   description: "21 अक्टूबर 1959 को लद्दाख के हॉट स्प्रिंग्स में क्या हुआ, यह दिन पुलिस स्मृति दिवस क्यों बना, और दिल्ली का राष्ट्रीय पुलिस स्मारक किसकी याद में है।"
 sources:
@@ -29,7 +29,7 @@ sources:
   - title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today (Gandhi News, sources: MHA announcement via DD India, Kalinga TV)"
     publisher: "Gandhi News"
     date: 2026-10-21
-    url: "https://gandhinews.com/news/police-commemoration-day-amit-shah-national-police-memorial"
+    url: "https://gandhinews.com/news/amit-shah-police-martyrs-wall-of-valour-154-names"
     primary: false
 verification:
   status: approved

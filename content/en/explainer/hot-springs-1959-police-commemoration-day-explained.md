@@ -16,7 +16,7 @@ hero:
   alt: "The high, bare landscape of the Chang Chenmo valley near Hot Springs in Ladakh"
   overlay:
     value: "Ten fell at Hot Springs"
-related: [police-commemoration-day-amit-shah-national-police-memorial]
+related: [amit-shah-police-martyrs-wall-of-valour-154-names]
 seo:
   description: "What happened at Hot Springs, Ladakh, on October 21, 1959, why the date became Police Commemoration Day, and what the National Police Memorial in Delhi marks."
 sources:
@@ -28,7 +28,7 @@ sources:
   - title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today (Gandhi News, sources: MHA announcement via DD India, Kalinga TV)"
     publisher: "Gandhi News"
     date: 2026-10-21
-    url: "https://gandhinews.com/news/police-commemoration-day-amit-shah-national-police-memorial"
+    url: "https://gandhinews.com/news/amit-shah-police-martyrs-wall-of-valour-154-names"
     primary: false
 verification:
   status: approved

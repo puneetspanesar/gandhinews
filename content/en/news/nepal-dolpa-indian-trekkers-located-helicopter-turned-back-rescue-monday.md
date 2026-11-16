@@ -26,7 +26,7 @@ cover:
   headline: "'We cannot say they are missing'"
   bg: "Dho Tarap"
   inset: "Shey Phoksundo National Park"
-related: [indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo, nepal-gorkha-floods-strand-foreign-trekkers-manaslu]
+related: [nepal-gorkha-floods-strand-foreign-trekkers-manaslu]
 seo:
   description: "Nepal officials have located six Indian tourists stranded by heavy snow in Dolpa's Shey Phoksundo area, but a Nepal Army helicopter turned back and rescue is now due on Monday."
 sources:

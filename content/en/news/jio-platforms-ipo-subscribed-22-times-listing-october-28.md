@@ -20,7 +20,7 @@ hero:
   alt: "Akash Ambani, chairman of Reliance Jio Infocomm"
   overlay:
     value: "22 times subscribed"
-related: [jio-platforms-ipo-closes-subscription-final-day, jio-ipo-5-51-times-day-two-close-final-day, jio-platforms-anchor-book-8110-crore-30-times-demand, anchor-investors-explained-jio-platforms-ipo]
+related: [jio-platforms-anchor-book-8110-crore-30-times-demand, anchor-investors-explained-jio-platforms-ipo]
 seo:
   description: "Jio Platforms IPO final subscription: 22.19 times overall, QIB 70.55x, NII 14x, retail 2.72x. Allotment on October 26, listing on BSE and NSE on October 28, 2026."
 sources:

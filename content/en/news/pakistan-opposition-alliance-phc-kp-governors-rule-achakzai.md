@@ -20,7 +20,7 @@ hero:
   alt: "Pakistan's opposition leader Mahmood Khan Achakzai (file photo)"
   overlay:
     value: "'Nowhere in the world'"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-rejects-rajnath-remarks-afghan-talks-conditions]
+related: [pakistan-joint-sitting-approves-kp-governors-rule, pakistan-rejects-rajnath-remarks-afghan-talks-conditions]
 seo:
   description: "Pakistan's opposition alliance TTAP has challenged the emergency and governor's rule in Khyber Pakhtunkhwa in the Peshawar High Court; Achakzai alleges an Imran Khan deal push."
 sources:

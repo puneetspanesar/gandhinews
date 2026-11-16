@@ -21,7 +21,7 @@ hero:
   alt: "ओडिशा के मुख्यमंत्री मोहन चरण माझी (फाइल फोटो)"
   overlay:
     value: "लक्ष्य: शून्य जनहानि"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, bay-of-bengal-depression-october-25-odisha-fishermen-warning]
+related: [cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, bay-of-bengal-depression-october-25-odisha-fishermen-warning]
 seo:
   description: "चक्रवात 'अरनब' को देखते हुए ओडिशा ने सभी कलेक्टरों की छुट्टियां रद्द कीं; गंजाम, गजपति, रायगढ़ा, कोरापुट, मलकानगिरि में 28-29 अक्टूबर को स्कूल-आंगनवाड़ी बंद।"
 sources:

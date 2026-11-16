@@ -20,7 +20,7 @@ hero:
   alt: "Rajya Sabha MP Kapil Sibal"
   overlay:
     value: "'There will be more trade'"
-related: [khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, india-bloc-rally-venugopal-stern-warning-modi-shah, nadda-anarchy-model-india-bloc-rally-sood-chaos, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-ramlila-maidan-rally-today-preview]
+related: [khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, india-bloc-rally-venugopal-stern-warning-modi-shah, nadda-anarchy-model-india-bloc-rally-sood-chaos, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "INDIA bloc rally, November 1, 2026: Kapil Sibal says the Ramlila Maidan rally will bring Delhi traders more business and the opposition will keep 'vote chori' before the nation; Deepa Dasmunsi calls it a message to CEC Gyanesh Kumar."
 sources:

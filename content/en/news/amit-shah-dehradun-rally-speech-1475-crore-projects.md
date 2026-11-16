@@ -21,7 +21,7 @@ hero:
   alt: "Union Home Minister Amit Shah"
   overlay:
     value: "₹1,475 crore for Uttarakhand"
-related: [amit-shah-dehradun-parade-ground-rally-padyatra-today, dhami-bjp-save-democracy-campaign-sir-congress, dhami-defends-police-ankita-bhandari-congress]
+related: [dhami-bjp-save-democracy-campaign-sir-congress, dhami-defends-police-ankita-bhandari-congress]
 seo:
   description: "Amit Shah opened and laid stones for ₹1,475.31 crore of projects at Dehradun's Parade Ground on November 6, 2026, as Dhami attacked Congress and protesters were detained."
 infographic:

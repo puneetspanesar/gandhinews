@@ -21,7 +21,7 @@ hero:
   alt: "मुंबई के बल्लेबाज अंगकृष रघुवंशी"
   overlay:
     value: "पहले दिन मुंबई 247/6"
-related: [angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci, railways-bowl-mumbai-ranji-round-four-cci-start, mumbai-railways-ranji-round-four-brabourne-preview, india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha]
+related: [india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha]
 seo:
   description: "2 नवंबर 2026 को रणजी ट्रॉफी में रेलवे के खिलाफ पहले दिन मुंबई ने 6 विकेट पर 247 रन बनाए। अंगकृष रघुवंशी ने 78 रन बनाए और हिमांशु सांगवान ने 3 विकेट लिए।"
 sources:

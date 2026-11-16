@@ -21,7 +21,7 @@ hero:
   alt: "कर्नाटक में चिक्कमगलुरु के आसपास की पहाड़ियां"
   overlay:
     value: "तीन-चार दिन भारी बारिश"
-related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "25 अक्टूबर 2026 से कर्नाटक में तीन-चार दिन भारी बारिश का अनुमान, दक्षिण में सबसे ज़्यादा; बेंगलुरु में अधिकतम 24 और न्यूनतम 19 डिग्री।"
 sources:

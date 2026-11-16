@@ -20,7 +20,7 @@ hero:
   alt: "India all-rounder Deepti Sharma"
   overlay:
     value: "A first from No. 6"
-related: [harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs, harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi]
+related: [harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs]
 seo:
   description: "Deepti Sharma's 106 not out against Zimbabwe was the first ODI hundred by an Indian woman from No. 6 or lower; Harmanpreet Kaur passed Mithali Raj's seven tons."
 sources:

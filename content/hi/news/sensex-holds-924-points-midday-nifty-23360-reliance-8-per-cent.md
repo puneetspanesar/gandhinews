@@ -21,7 +21,7 @@ hero:
   alt: "कोलकाता के न्यू टाउन में कोल इंडिया का मुख्यालय कोल भवन (फाइल फोटो)"
   overlay:
     value: "दोपहर में सेंसेक्स 924 अंक ऊपर"
-related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
+related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-nifty-close-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
   description: "शेयर बाज़ार दोपहर में, 2 नवंबर 2026: सेंसेक्स 924 अंक ऊपर 75,383.98 पर, निफ्टी 23,360.50 का नया ऊंचा स्तर छूकर 23,319.55 पर। रिलायंस करीब 8% ऊपर, इंडिया VIX चढ़ा, रुपया 94.97 प्रति डॉलर।"
 cover:

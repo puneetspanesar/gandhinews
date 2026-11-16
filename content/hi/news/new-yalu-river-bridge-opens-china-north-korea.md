@@ -20,7 +20,7 @@ hero:
   alt: "चीन के प्रधानमंत्री ली छियांग"
   overlay:
     value: "बारह साल बाद दौड़े ट्रक"
-related: [china-north-korea-open-new-yalu-river-bridge, north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test]
+related: [north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test]
 seo:
   description: "दानदोंग और सिनुइजू को जोड़ने वाला न्यू यालू रिवर ब्रिज बनने के 12 साल बाद 15 अक्टूबर को यातायात के लिए खुला। ली छियांग वीडियो लिंक से जुड़े।"
 sources:

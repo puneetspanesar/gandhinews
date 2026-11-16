@@ -30,7 +30,7 @@ infographic:
     - {icon: map-pin, value: "15", label: "of 54 stations in the severe band above 400"}
     - {icon: shield-warning, value: "441", label: "highest reading, at Burari Crossing and Sonia Vihar"}
   source: "CPCB data, November 9, 2026"
-related: [delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, delhi-aqi-369-diwali-eve-16-stations-severe-grap-three, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday]
+related: [delhi-aqi-369-diwali-eve-16-stations-severe-grap-three, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-schools-hybrid-class-5-grap-three-sirsa-winds-saturday]
 seo:
   description: "Delhi's AQI was 368 at 7 am on November 9, 2026, with 15 of 54 stations severe, Burari Crossing at 441 and GRAP Stage III still in force."
 sources:

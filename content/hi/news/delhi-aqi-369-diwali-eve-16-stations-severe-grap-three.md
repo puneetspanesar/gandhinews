@@ -31,7 +31,7 @@ infographic:
     - {icon: map-pin, value: "59 में 16", label: "स्टेशनों पर गंभीर हवा"}
     - {icon: shield-warning, value: "452", label: "सबसे ऊंचा स्टेशन आंकड़ा, आईआईटी दिल्ली के पास"}
   source: "सीपीसीबी के आंकड़े, 7 नवंबर 2026"
-related: [delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three, delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
+related: [delhi-grap-stage-three-aqi-382-caqm, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8]
 seo:
   description: "दिवाली की पूर्व संध्या, 7 नवंबर 2026 को दिल्ली का औसत एक्यूआई 369 (बेहद खराब) रहा, 59 में से 16 स्टेशनों पर गंभीर हवा, ग्रैप 3 लागू और 8-9 नवंबर को गंभीर हवा का अनुमान।"
 sources:

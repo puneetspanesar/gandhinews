@@ -21,7 +21,7 @@ hero:
   alt: "पाकिस्तान के प्रधानमंत्री शहबाज़ शरीफ़ और पीएमएल-एन अध्यक्ष नवाज़ शरीफ़ (फाइल फोटो)"
   overlay:
     value: "'कोई और विकल्प नहीं था': शहबाज़"
-related: [pakistan-opposition-alliance-phc-kp-governors-rule-achakzai, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule]
+related: [pakistan-opposition-alliance-phc-kp-governors-rule-achakzai, pakistan-joint-sitting-approves-kp-governors-rule, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule]
 seo:
   description: "शहबाज़ शरीफ़ ने कहा कि ख़ैबर पख़्तूनख़्वा को जलने देना आपराधिक होता, नवाज़ शरीफ़ ने गवर्नर शासन का समर्थन किया और वकीलों ने 19 अक्टूबर को हड़ताल बुलाई।"
 sources:

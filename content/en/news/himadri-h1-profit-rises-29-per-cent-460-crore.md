@@ -20,7 +20,7 @@ hero:
   alt: "Himadri Speciality Chemical facility"
   overlay:
     value: "Himadri profit up 31%"
-related: [bajaj-finance-results-today-29-per-cent-profit-estimate, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo]
+related: [bajaj-finance-q2-results-october-19, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo]
 seo:
   description: "Himadri Speciality Chemical Q2 FY27 results: net profit rises 31% to ₹231 crore, revenue up 58% to ₹1,691 crore; H1 profit up 29% to ₹460 crore."
 sources:

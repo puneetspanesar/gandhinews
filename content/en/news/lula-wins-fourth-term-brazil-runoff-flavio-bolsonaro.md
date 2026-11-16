@@ -20,7 +20,7 @@ hero:
   alt: "President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro (file photos)"
   overlay:
     value: "Fourth term for Lula"
-related: [brazil-runoff-sunday-lula-flavio-final-globo-debate, lula-flavio-final-globo-debate-clash-runoff-eve, lula-flavio-bolsonaro-trade-insults-first-runoff-debate]
+related: [lula-flavio-final-globo-debate-clash-runoff-eve, lula-flavio-bolsonaro-trade-insults-first-runoff-debate]
 seo:
   description: "Lula beat Flávio Bolsonaro in Brazil's October 25 runoff, leading 51.56% to 48.44% with almost 90% counted, after a tense count and a voting extension row."
 sources:

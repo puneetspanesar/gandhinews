@@ -21,7 +21,7 @@ hero:
   alt: "यूएई के फुजैरा बंदरगाह के पास तेल टैंकर (फाइल फोटो)"
   overlay:
     value: "ब्रेंट 4.2% गिरकर 108.64 डॉलर पर"
-related: [oil-slips-monday-brent-111-iran-qatar-talks-november-2, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, india-crude-import-bill-90-6-billion-april-september, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, sensex-nifty-close-november-2]
+related: [oil-slips-monday-brent-111-iran-qatar-talks-november-2, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, india-crude-import-bill-90-6-billion-april-september, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, sensex-nifty-close-november-2]
 seo:
   description: "2 नवंबर 2026 को कच्चे तेल का भाव: ईरान-कतर बातचीत से मसौदा प्रस्ताव आने पर ब्रेंट 4.2% गिरकर 108.64 डॉलर पर, डब्ल्यूटीआई 100 डॉलर से नीचे; गोल्डमैन ने 2027 में 140 डॉलर का जोखिम बताया।"
 cover:

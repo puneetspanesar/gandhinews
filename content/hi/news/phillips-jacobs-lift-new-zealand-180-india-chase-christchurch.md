@@ -22,7 +22,7 @@ hero:
   alt: "न्यूजीलैंड के बल्लेबाज ग्लेन फिलिप्स"
   overlay:
     value: "41 पर 3 से 180 पर 5 तक"
-related: [india-new-zealand-second-t20i-sooryavanshi-kishan-preview, ishan-kishan-ruled-out-second-t20i-christchurch]
+related: [india-new-zealand-second-t20i-sooryavanshi-kishan-preview]
 seo:
   description: "क्राइस्टचर्च में दूसरे टी20 में ग्लेन फिलिप्स (70) और बेवन जैकब्स (58) ने न्यूजीलैंड को 41/3 से 180/5 तक पहुंचाया, भारत 2-0 की बढ़त के लिए 181 का पीछा कर रहा था।"
 sources:

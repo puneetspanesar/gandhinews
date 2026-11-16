@@ -21,7 +21,7 @@ hero:
   alt: "रिलायंस इंडस्ट्रीज़ के चेयरमैन मुकेश अंबानी (फाइल फोटो)"
   overlay:
     value: "दूसरी तिमाही के दम पर रिलायंस 6% ऊपर"
-related: [sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, jio-platforms-lists-21-per-cent-premium-1358]
+related: [sensex-nifty-close-november-2, gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, jio-platforms-lists-21-per-cent-premium-1358]
 seo:
   description: "रिलायंस इंडस्ट्रीज़ के शेयर 2 नवंबर 2026 को 6.22% चढ़कर ₹1,237.30 पर पहुंचे। दूसरी तिमाही में शेयरधारकों का मुनाफा 41% बढ़कर ₹25,548 करोड़ रहा, ओ2सी एबिटा 68% उछला।"
 cover:

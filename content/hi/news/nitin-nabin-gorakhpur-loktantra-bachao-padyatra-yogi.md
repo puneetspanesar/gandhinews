@@ -32,7 +32,7 @@ infographic:
     - {title: "जनसभा", text: "योगी आदित्यनाथ के आने की उम्मीद"}
     - {title: "प्रबुद्ध वर्ग", text: "बुद्धिजीवियों से मुलाक़ात"}
   source: "भाजपा का 4 नवंबर 2026 का कार्यक्रम"
-related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe, rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign]
+related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit, yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe, rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs]
 seo:
   description: "भाजपा अध्यक्ष नितिन नबीन 4 नवंबर को गोरखपुर में 'लोकतंत्र बचाओ, अराजकता हटाओ' पदयात्रा और जनसभा करेंगे; योगी आदित्यनाथ के शामिल होने की उम्मीद।"
 sources:

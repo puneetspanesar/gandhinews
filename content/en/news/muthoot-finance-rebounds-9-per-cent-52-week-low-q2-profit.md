@@ -20,7 +20,7 @@ hero:
   alt: "A Muthoot Finance building in Kochi, Kerala (file photo)"
   overlay:
     value: "Up 9% from a 52-week low"
-related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2]
+related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-nifty-close-november-2]
 seo:
   description: "Muthoot Finance share price November 2, 2026: stock hits 52-week low of ₹2,305, then rebounds nearly 9% to ₹2,508 after Q2 FY27 profit rose 27% to ₹2,977 crore and gold loan AUM grew 46%."
 cover:

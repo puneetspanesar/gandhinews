@@ -20,7 +20,7 @@ hero:
   alt: "दक्षिण अफ्रीका के मुख्य कोच शुक्री कॉनराड"
   overlay:
     value: "एक बदलाव, और नया विकेटकीपर"
-related: [rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test, renshaw-puts-australia-on-top-in-durban-test]
+related: [rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "ऑस्ट्रेलिया के खिलाफ गकेबरहा टेस्ट के लिए दक्षिण अफ्रीका की 17 सदस्यीय टीम घोषित। स्टब्स की जगह मैथ्यू ब्रीट्ज़के, रबाडा की वापसी तय।"
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "पार्लियामेंट स्ट्रीट, नई दिल्ली"
   overlay:
     value: "एफआईआर मांगने गए, हिरासत में पहुंचे"
-related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, cjp-lehra-do-tiranga-connaught-place-protest-preview, supreme-court-women-journalists-sealed-cover-delhi-protests]
+related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, supreme-court-women-journalists-sealed-cover-delhi-protests]
 seo:
   description: "दिल्ली पुलिस ने 15 अक्टूबर को पार्लियामेंट स्ट्रीट थाने पर एफआईआर की मांग कर रहे एनएसयूआई अध्यक्ष विनोद जाखड़ और सदस्यों को हिरासत में लिया।"
 sources:

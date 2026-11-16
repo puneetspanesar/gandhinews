@@ -39,7 +39,7 @@ infographic:
     - {icon: gas-pump, value: "80,000 टन", label: "मंगलुरु की एलपीजी गुफा"}
     - {icon: lightning, value: "₹10,370 करोड़", label: "बिजली ट्रांसमिशन की चार योजनाएं"}
   source: "प्रधानमंत्री कार्यालय की विज्ञप्ति, 11 नवंबर 2026"
-related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz, hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, commercial-lpg-up-rs-10-delhi-2820-third-straight-hike, cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz, hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, commercial-lpg-up-rs-10-delhi-2820-third-straight-hike, modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre]
 seo:
   title: "मोदी ने खोली सबसे बड़ी एलपीजी गुफा, खाड़ी युद्ध का जिक्र"
   description: "बेंगलुरु के ₹15,600 करोड़ के कार्यक्रम में पीएम मोदी ने 80,000 टन की भूमिगत एलपीजी गुफा समर्पित की और खाड़ी संघर्ष को ऊर्जा सुरक्षा से जोड़ा।"
@@ -116,4 +116,4 @@ verification:
 
 ## आगे क्या
 
-पिंक लाइन के पहले छह एलिवेटेड स्टेशन, कलेना अग्रहारा से एस.जी. पाल्या तक, खबरों के अनुसार **शनिवार, 14 नवंबर 2026** को यात्रियों के लिए खुलेंगे। इसके बाद मोदी गुजरात जाएंगे। शुक्रवार को करीब 3:30 बजे उन्हें कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करना था; ब्योरा हमारे [पूर्वावलोकन](/hi/news/cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview) में है। गोवा के लिए वंदे भारत की नियमित सेवा 15 नवंबर से शुरू होगी। लिखे जाने तक प्रधानमंत्री के संबोधन का पाठ जारी नहीं हुआ था; कार्यालय आमतौर पर उसे उसी दिन डालता है।
+पिंक लाइन के पहले छह एलिवेटेड स्टेशन, कलेना अग्रहारा से एस.जी. पाल्या तक, खबरों के अनुसार **शनिवार, 14 नवंबर 2026** को यात्रियों के लिए खुलेंगे। इसके बाद मोदी गुजरात जाएंगे। शुक्रवार को करीब 3:30 बजे उन्हें कॉसमॉस-मैसूरु तारामंडल का उद्घाटन करना था; ब्योरा हमारे [पूर्वावलोकन](/hi/news/modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre) में है। गोवा के लिए वंदे भारत की नियमित सेवा 15 नवंबर से शुरू होगी। लिखे जाने तक प्रधानमंत्री के संबोधन का पाठ जारी नहीं हुआ था; कार्यालय आमतौर पर उसे उसी दिन डालता है।

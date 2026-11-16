@@ -19,7 +19,7 @@ hero:
   alt: "Lady Reading Hospital, Peshawar"
   overlay:
     value: "28 children, one teacher, one roof"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa]
+related: [pakistan-joint-sitting-approves-kp-governors-rule, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa]
 seo:
   description: "At least 29 people, including 28 students aged 7 to 16, died when the roof of Al-Khair School in Peshawar's Afridi Abad collapsed on Thursday morning."
 sources:

@@ -19,7 +19,7 @@ hero:
   alt: "Mehmood Khan Achakzai, chairman of the TTAP opposition alliance"
   overlay:
     value: "240 for, 46 against"
-related: [pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule, peshawar-school-roof-collapse-kills-students]
+related: [pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule, peshawar-school-roof-collapse-kills-students]
 seo:
   description: "Pakistan's joint sitting of Parliament approved governor's rule in Khyber Pakhtunkhwa 240-46 on October 15. The TTAP opposition alliance suspended talks."
 sources:
@@ -39,7 +39,7 @@ verification:
     - "Joint sitting: Dawn, 12:29 pm PKT, marked 'more to follow'. Vote 240-46, moved by Parliamentary Affairs Minister Tariq Fazal Chaudhry. No speeches quoted in the copy available. Walkouts not reported."
     - "Article 234 two-month rule and six-month cap per Dawn; extension needs a further joint-sitting approval."
     - "TTAP quotes are from the alliance's statement, not a named person (Dawn, 1:14 pm PKT)."
-    - "Advances pakistan-kp-governors-rule-follow-up, which said the joint sitting was still pending."
+    - "Advances pakistan-joint-sitting-approves-kp-governors-rule, which said the joint sitting was still pending."
 ---
 
 A joint sitting of Pakistan's Parliament on Thursday approved governor's rule in Khyber Pakhtunkhwa, completing the constitutional sign-off for the federal takeover of the province run until Sunday by Imran Khan's Pakistan Tehreek-e-Insaf (PTI).

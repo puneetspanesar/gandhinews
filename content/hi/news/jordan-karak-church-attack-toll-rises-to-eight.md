@@ -21,7 +21,7 @@ hero:
   alt: "दक्षिणी जॉर्डन का करक शहर (फाइल फोटो)"
   overlay:
     value: "एक जनाजा, फिर एक और"
-related: [jordan-karak-church-funeral-shooting-seven-killed, hebron-closures-al-jalda-families-displaced]
+related: [hebron-closures-al-jalda-families-displaced]
 seo:
   description: "जॉर्डन के करक में ग्रीक ऑर्थोडॉक्स चर्च में अंतिम संस्कार के दौरान हुई गोलीबारी में मृतकों की संख्या 24 अक्टूबर को आठ हो गई, स्वास्थ्य मंत्री ने बताया।"
 sources:

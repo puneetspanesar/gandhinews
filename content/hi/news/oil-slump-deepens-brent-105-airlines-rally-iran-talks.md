@@ -21,7 +21,7 @@ hero:
   alt: "अमेरिकी विदेश मंत्री मार्को रुबियो (फाइल फोटो)"
   overlay:
     value: "ब्रेंट 6% से ज़्यादा टूटा, 105 डॉलर के करीब"
-related: [oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-close-november-2]
+related: [oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-close-november-2]
 seo:
   description: "2 नवंबर 2026 को कच्चे तेल के दाम: अमेरिका-ईरान कूटनीति की उम्मीद में ब्रेंट 6% से ज़्यादा गिरकर 105 डॉलर के करीब, डब्ल्यूटीआई 97 डॉलर से नीचे; यूनाइटेड, अमेरिकन, डेल्टा और जेटब्लू के शेयरों में तेज़ी।"
 cover:

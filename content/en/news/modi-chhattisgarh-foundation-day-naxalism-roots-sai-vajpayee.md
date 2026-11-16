@@ -20,7 +20,7 @@ hero:
   alt: "Prime Minister Narendra Modi and Chhattisgarh Chief Minister Vishnu Deo Sai"
   overlay:
     value: "Chhattisgarh at 26, Naxalism in retreat"
-related: [chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
+related: [mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
 seo:
   description: "Chhattisgarh Foundation Day 2026: PM Modi says the state is advancing faster while eradicating the roots of Naxalism. CM Vishnu Deo Sai pays tribute to Atal Bihari Vajpayee."
 sources:

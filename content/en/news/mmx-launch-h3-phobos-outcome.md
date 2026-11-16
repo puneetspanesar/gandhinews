@@ -20,7 +20,7 @@ hero:
   alt: "An artist's impression of Japan's Martian Moons eXploration spacecraft (file image)"
   overlay:
     value: "Next stop: the moons of Mars"
-related: [mmx-phobos-probe-h3-launch-tonight-tanegashima, japan-h3-mmx-phobos-sample-return-launch, bandwagon-5-mmx-launch-week-falcon-9-h3-electron]
+related: [bandwagon-5-mmx-launch-week-falcon-9-h3-electron]
 seo:
   description: "JAXA's MMX probe launched on an H3 rocket from Tanegashima on October 20 and separated from the upper stage, starting a round trip to bring back samples from Phobos."
 sources:

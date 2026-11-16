@@ -20,7 +20,7 @@ hero:
   alt: "Coal Bhawan, the Coal India headquarters in New Town, Kolkata (file photo)"
   overlay:
     value: "Sensex up 924 points at midday"
-related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
+related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-nifty-close-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
   description: "Stock market at midday, November 2, 2026: Sensex up 924 points at 75,383.98 and Nifty at 23,319.55 after a new high of 23,360.50, with Reliance up nearly 8%, India VIX higher and the rupee near 94.97 per dollar."
 cover:

@@ -32,7 +32,7 @@ infographic:
     - {icon: warning, value: "2", label: "ड्यूटी पर तैनात मतदान अधिकारी"}
     - {icon: check-square, value: "67.24%", label: "गुरुवार का मतदान, 1.5 करोड़ मतदाता"}
   source: "आंध्र प्रदेश राज्य निर्वाचन आयोग और जिलों की रिपोर्ट, 6 नवंबर 2026"
-related: [andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
 seo:
   description: "5 नवंबर 2026 को आंध्र प्रदेश के एमपीटीसी और जेडपीटीसी चुनाव के दौरान शिक्षिका हरिता गौड़ समेत चार मतदाताओं और दो मतदान अधिकारियों की मौत हुई। मतदान 67.24% रहा।"
 sources:

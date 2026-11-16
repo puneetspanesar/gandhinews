@@ -20,7 +20,7 @@ hero:
   alt: "The Pusa campus in New Delhi, home to the monitoring station that logged the city's highest AQI on Monday"
   overlay:
     value: "AQI 139, 'poor' due by October 21"
-related: [delhi-aqi-184-sunday-evening-moderate, delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
+related: [delhi-aqi-184-sunday-evening-moderate, delhi-aqi-189-sunday-morning-moderate]
 seo:
   description: "Delhi's 24-hour AQI was 139 ('moderate') at 4 pm on October 19 per CPCB; the minimum fell to 17.1°C, and the air is forecast to turn 'poor' from October 21."
 sources:

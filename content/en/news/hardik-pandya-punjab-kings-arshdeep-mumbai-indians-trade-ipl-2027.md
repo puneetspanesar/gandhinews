@@ -33,7 +33,7 @@ infographic:
     left: {title: "To Punjab Kings", value: "Hardik Pandya", text: "Mumbai captain since 2024"}
     right: {title: "To Mumbai Indians", value: "Arshdeep Singh", text: "Punjab's left-arm seamer since 2019"}
   source: "Mumbai Indians and Punjab Kings statements, November 11, 2026"
-related: [rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi]
+related: [saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test]
 seo:
   description: "Mumbai Indians and Punjab Kings confirm the trade that sends Hardik Pandya to Punjab and Arshdeep Singh to Mumbai ahead of IPL 2027; Mumbai's captaincy is open."
 sources:

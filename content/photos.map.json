@@ -2523,26 +2523,6 @@
   },
   "notile": "a bank branch belongs only to its own story"
  },
- "renshaw-puts-australia-on-top-in-durban-test": {
-  "id": "x-renshaw-puts-australia-on-top-in-durban-test",
-  "src": "/photos/x-renshaw-puts-australia-on-top-in-durban-test-1280.jpg",
-  "src800": "/photos/x-renshaw-puts-australia-on-top-in-durban-test-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Marc Forrest / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "The Kingsmead cricket ground in Durban",
-  "alt_hi": "डरबन का किंग्समीड क्रिकेट मैदान",
-  "page": "https://commons.wikimedia.org/wiki/File:Kingsmead_Panorama.JPG",
-  "treated": {
-   "src": "/photos/t-renshaw-puts-australia-on-top-in-durban-test-1280.jpg",
-   "src800": "/photos/t-renshaw-puts-australia-on-top-in-durban-test-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: Marc Forrest / Wikimedia Commons"
-  }
- },
  "former-mla-atar-singh-bhadana-dies-after-attack-bharatpur": {
   "id": "x-former-mla-atar-singh-bhadana-dies-after-attack-bharatpur",
   "src": "/photos/x-former-mla-atar-singh-bhadana-dies-after-attack-bharatpur-1280.jpg",
@@ -4679,26 +4659,6 @@
    "credit": "Photo: Totallynotarandomalt69 / Wikimedia Commons"
   }
  },
- "china-north-korea-open-new-yalu-river-bridge": {
-  "id": "v-china-north-korea-open-new-yalu-river-bridge",
-  "src": "/photos/v-china-north-korea-open-new-yalu-river-bridge-1280.jpg",
-  "src800": "/photos/v-china-north-korea-open-new-yalu-river-bridge-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Yoshi Canopus / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "New Yalu River Bridge between Dandong and Sinuiju",
-  "alt_hi": "दानदोंग और सिनुइजू के बीच नया यालू नदी पुल",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-china-north-korea-open-new-yalu-river-bridge-1280.jpg",
-   "src800": "/photos/t-china-north-korea-open-new-yalu-river-bridge-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: Yoshi Canopus / Wikimedia Commons"
-  }
- },
  "colombia-protests-de-la-espriella-cuts-jerusalem-embassy": {
   "id": "v-colombia-protests-de-la-espriella-cuts-jerusalem-embassy",
   "src": "/photos/v-colombia-protests-de-la-espriella-cuts-jerusalem-embassy-1280.jpg",
@@ -5312,28 +5272,6 @@
    "credit": "Photo: 罗布泊 / Wikimedia Commons"
   }
  },
- "pakistan-kp-governors-rule-follow-up": {
-  "id": "v-pakistan-kp-governors-rule-follow-up",
-  "src": "/photos/v-pakistan-kp-governors-rule-follow-up-1280.jpg",
-  "src800": "/photos/v-pakistan-kp-governors-rule-follow-up-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: Pakistan Tehreek-e-Insaf / Wikimedia Commons; Pakistan Tehrek-e-Insaf / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "PTI chairman Gohar Ali Khan and Former KP Chief Minister Sohail Afridi (file photos)",
-  "alt_hi": "पीटीआई अध्यक्ष गौहर अली ख़ान और ख़ैबर पख़्तूनख़्वा के पूर्व मुख्यमंत्री सोहेल अफ़रीदी (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-pakistan-kp-governors-rule-follow-up-1280.jpg",
-   "src800": "/photos/t-pakistan-kp-governors-rule-follow-up-640.jpg",
-   "cutout": false,
-   "with": [
-    "delimitation"
-   ],
-   "kind": "photo",
-   "credit": "Photos: Pakistan Tehreek-e-Insaf / Wikimedia Commons; Pakistan Tehrek-e-Insaf / Wikimedia Commons; Survey of India / Wikimedia Commons"
-  }
- },
  "pope-leo-recovering-well-after-cancer-surgery": {
   "id": "v-pope-leo-recovering-well-after-cancer-surgery",
   "src": "/photos/v-pope-leo-recovering-well-after-cancer-surgery-1280.jpg",
@@ -5928,28 +5866,6 @@
   "alt": "Deep-sea fishing vessel",
   "alt_hi": "गहरे समुद्र में मछली पकड़ने वाला जहाज़",
   "page": null
- },
- "india-west-indies-bengaluru-decider-arshdeep-doubt": {
-  "id": "x-india-west-indies-bengaluru-decider-arshdeep-doubt",
-  "src": "/photos/x-india-west-indies-bengaluru-decider-arshdeep-doubt-1280.jpg",
-  "src800": "/photos/x-india-west-indies-bengaluru-decider-arshdeep-doubt-640.jpg",
-  "width": 1185,
-  "height": 888,
-  "credit": "Photo: Rajasthan Royals / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "Sanju Samson batting in the nets (file photo)",
-  "alt_hi": "नेट्स में बल्लेबाज़ी करते संजू सैमसन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sanju_Samson_batting_on_nets_3.jpg",
-  "treated": {
-   "src": "/photos/t-india-west-indies-bengaluru-decider-arshdeep-doubt-1280.jpg",
-   "src800": "/photos/t-india-west-indies-bengaluru-decider-arshdeep-doubt-640.jpg",
-   "cutout": true,
-   "with": [
-    "india-west-indies-bengaluru-decider-dew-arshdeep-preview"
-   ],
-   "kind": "photo",
-   "credit": "Photos: Rajasthan Royals / Wikimedia Commons; Ashwin Kumar / Wikimedia Commons"
-  }
  },
  "jaishankar-no-agreed-border-china-stable-boundary": {
   "id": "v-jaishankar-no-agreed-border-china-stable-boundary",
@@ -6706,18 +6622,6 @@
   "alt_hi": "अर्जेंटीना के राष्ट्रपति हावियर मिलेई (फ़ाइल फ़ोटो)",
   "page": null
  },
- "asian-para-games-india-begin-badminton-table-tennis-blind-football": {
-  "id": "v-asian-para-games-india-begin-badminton-table-tennis-blind-fo",
-  "src": "/photos/v-asian-para-games-india-begin-badminton-table-tennis-blind-fo-1280.jpg",
-  "src800": "/photos/v-asian-para-games-india-begin-badminton-table-tennis-blind-fo-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: DTM / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Para badminton player Suhas Yathiraj (file photo)",
-  "alt_hi": "पैरा बैडमिंटन खिलाड़ी सुहास यतिराज (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "assam-drive-945-arrests-amit-shah-narcotics": {
   "id": "v-assam-drive-945-arrests-amit-shah-narcotics",
   "src": "/photos/v-assam-drive-945-arrests-amit-shah-narcotics-1280.jpg",
@@ -6832,18 +6736,6 @@
   "licence": "CC BY 3.0 br",
   "alt": "Brazilian President Lula (file photo)",
   "alt_hi": "ब्राज़ील के राष्ट्रपति लूला (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "cjp-lehra-do-tiranga-connaught-place-protest-preview": {
-  "id": "v-cjp-lehra-do-tiranga-connaught-place-protest-preview",
-  "src": "/photos/v-cjp-lehra-do-tiranga-connaught-place-protest-preview-1280.jpg",
-  "src800": "/photos/v-cjp-lehra-do-tiranga-connaught-place-protest-preview-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Slyronit / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Connaught Place, New Delhi",
-  "alt_hi": "कनॉट प्लेस, नई दिल्ली",
   "page": null
  },
  "customs-seize-148-kg-hydroponic-weed-igi-air-cargo": {
@@ -9163,18 +9055,6 @@
    "credit": "Photos: Amohammadid / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; NASA / Wikimedia Commons"
   }
  },
- "japan-h3-mmx-phobos-sample-return-launch": {
-  "id": "v-japan-h3-mmx-phobos-sample-return-launch",
-  "src": "/photos/v-japan-h3-mmx-phobos-sample-return-launch-1280.jpg",
-  "src800": "/photos/v-japan-h3-mmx-phobos-sample-return-launch-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: ウニウニ / Wikimedia Commons; Composited by: NASA / Dr. Edwin V. Bell, II (NSSDC/Raytheon ITSS) Original images: NASA / Viking 1 Orbiter / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0, Public domain",
-  "alt": "Japan's H3 rocket at the Tanegashima Space Center (file photo)",
-  "alt_hi": "तानेगाशिमा अंतरिक्ष केंद्र में जापान का एच3 रॉकेट (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "jayawardene-steps-down-mumbai-indians-coach": {
   "id": "v-jayawardene-steps-down-mumbai-indians-coach",
   "src": "/photos/v-jayawardene-steps-down-mumbai-indians-coach-1280.jpg",
@@ -10175,18 +10055,6 @@
   "page": null,
   "nocut": true
  },
- "chacarra-leads-india-championship-chouhan-top-indian": {
-  "id": "v-chacarra-leads-india-championship-chouhan-top-indian",
-  "src": "/photos/v-chacarra-leads-india-championship-chouhan-top-indian-1280.jpg",
-  "src800": "/photos/v-chacarra-leads-india-championship-chouhan-top-indian-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Stefanschenkon / Wikimedia Commons",
-  "licence": "CC0",
-  "alt": "A golf ball on a tee (file photo)",
-  "alt_hi": "टी पर रखी गोल्फ़ गेंद (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "chip-stocks-longest-slide-since-2008-coreweave-ai-debt": {
   "id": "v-chip-stocks-longest-slide-since-2008-coreweave-ai-debt",
   "src": "/photos/v-chip-stocks-longest-slide-since-2008-coreweave-ai-debt-1280.jpg",
@@ -10233,18 +10101,6 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Arun Jaitley Stadium, Delhi (file photo)",
   "alt_hi": "अरुण जेटली स्टेडियम, दिल्ली (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "east-bengal-churchill-brothers-isl-title-defence-preview": {
-  "id": "v-east-bengal-churchill-brothers-isl-title-defence-preview",
-  "src": "/photos/v-east-bengal-churchill-brothers-isl-title-defence-preview-1280.jpg",
-  "src800": "/photos/v-east-bengal-churchill-brothers-isl-title-defence-preview-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Vrlobo888 / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "The Pandit Jawaharlal Nehru Stadium at Fatorda, Goa (file photo)",
-  "alt_hi": "गोवा के फातोर्डा का पंडित जवाहरलाल नेहरू स्टेडियम (फ़ाइल फ़ोटो)",
   "page": null
  },
  "east-northeast-india-driest-monsoon-since-1901": {
@@ -11028,18 +10884,6 @@
    "credit": "Photos: Gangaasoonu / Wikimedia Commons; Albert_Deccan / Wikimedia Commons; יעקב / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
   }
  },
- "chacarra-63-five-shot-lead-india-championship-final-round": {
-  "id": "v-chacarra-63-five-shot-lead-india-championship-final-round",
-  "src": "/photos/v-chacarra-63-five-shot-lead-india-championship-final-round-1280.jpg",
-  "src800": "/photos/v-chacarra-63-five-shot-lead-india-championship-final-round-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Balwinder Singh Sandhu / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Indian golfer Yuvraj Sandhu, who is also in the India Championship field (file photo)",
-  "alt_hi": "भारतीय गोल्फ़र युवराज संधू, जो इंडिया चैंपियनशिप में खेल रहे हैं (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "cisf-functional-reorganisation-november-1": {
   "id": "v-cisf-functional-reorganisation-november-1",
   "src": "/photos/v-cisf-functional-reorganisation-november-1-1280.jpg",
@@ -11659,18 +11503,6 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Sofia Airport in Bulgaria (file photo)",
   "alt_hi": "बुल्गारिया का सोफ़िया हवाई अड्डा (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "bajaj-finance-results-today-29-per-cent-profit-estimate": {
-  "id": "v-bajaj-finance-results-today-29-per-cent-profit-estimate",
-  "src": "/photos/v-bajaj-finance-results-today-29-per-cent-profit-estimate-1280.jpg",
-  "src800": "/photos/v-bajaj-finance-results-today-29-per-cent-profit-estimate-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: zadeus / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "The National Stock Exchange building in Mumbai (file photo)",
-  "alt_hi": "मुंबई में नेशनल स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
   "page": null
  },
  "bandwagon-5-mmx-launch-week-falcon-9-h3-electron": {
@@ -12702,18 +12534,6 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Meta Platforms logo (file photo)",
   "alt_hi": "मेटा प्लेटफ़ॉर्म्स का लोगो (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "mmx-phobos-probe-h3-launch-tonight-tanegashima": {
-  "id": "v-mmx-phobos-probe-h3-launch-tonight-tanegashima",
-  "src": "/photos/v-mmx-phobos-probe-h3-launch-tonight-tanegashima-1280.jpg",
-  "src800": "/photos/v-mmx-phobos-probe-h3-launch-tonight-tanegashima-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: AF991 / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "An H3 rocket lifts off from Tanegashima (file photo)",
-  "alt_hi": "तानेगाशिमा से उड़ान भरता एच3 रॉकेट (फ़ाइल फ़ोटो)",
   "page": null
  },
  "moes-acsir-phd-earth-system-sciences-ten-institutes": {
@@ -13811,30 +13631,6 @@
    "credit": "Photos: Joe Ravi / Wikimedia Commons; DOD photo by U.S. Air Force Staff Sgt. Jette Carr / Wikimedia Commons; Jarek Tuszyński / Wikimedia Commons; Seoul Institute / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
   }
  },
- "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday": {
-  "id": "v-supreme-court-pinarayi-vijayan-cmrl-plea-wednesday",
-  "src": "/photos/v-supreme-court-pinarayi-vijayan-cmrl-plea-wednesday-1280.jpg",
-  "src800": "/photos/v-supreme-court-pinarayi-vijayan-cmrl-plea-wednesday-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Sanu N / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Former Keralam chief minister Pinarayi Vijayan (file photo)",
-  "alt_hi": "केरलम के पूर्व मुख्यमंत्री पिनराई विजयन (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-supreme-court-pinarayi-vijayan-cmrl-plea-wednesday-1280.jpg",
-   "src800": "/photos/t-supreme-court-pinarayi-vijayan-cmrl-plea-wednesday-640.jpg",
-   "cutout": true,
-   "with": [
-    "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today--p2",
-    "andhra-high-court-strikes-down-bc-quota-local-bodies",
-    "bombay-hc-bmc-restore-dia-mirza-video-secular-country--bg"
-   ],
-   "kind": "photo",
-   "credit": "Photos: Sanu N / Wikimedia Commons; Pinakpani / Wikimedia Commons; IM3847 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons"
-  }
- },
  "telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka": {
   "id": "v-telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka",
   "src": "/photos/v-telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka-1280.jpg",
@@ -14246,26 +14042,6 @@
    "credit": "Photo: Bundesministerium für europäische und internationale Angelegenheiten / Wikimedia Commons; Cancillería Argentina / Wikimedia Commons"
   }
  },
- "jaishankar-rubio-mumbai-talks": {
-  "id": "v-jaishankar-rubio-mumbai-talks",
-  "src": "/photos/v-jaishankar-rubio-mumbai-talks-1280.jpg",
-  "src800": "/photos/v-jaishankar-rubio-mumbai-talks-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons; IAEA Imagebank / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0, CC BY 2.0",
-  "alt": "US Secretary of State Marco Rubio and External Affairs Minister S Jaishankar (file photo)",
-  "alt_hi": "अमेरिकी विदेश मंत्री मार्को रुबियो और विदेश मंत्री एस जयशंकर (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jaishankar-rubio-mumbai-talks-1280.jpg",
-   "src800": "/photos/t-jaishankar-rubio-mumbai-talks-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons; IAEA Imagebank / Wikimedia Commons"
-  }
- },
  "jhota-murder-case-cbi-transfer-bhagwant-mann": {
   "id": "v-jhota-murder-case-cbi-transfer-bhagwant-mann",
   "src": "/photos/v-jhota-murder-case-cbi-transfer-bhagwant-mann-1280.jpg",
@@ -14553,28 +14329,6 @@
   "alt": "Bangladesh Prime Minister Tarique Rahman (file photo)",
   "alt_hi": "बांग्लादेश के प्रधानमंत्री तारिक रहमान (फ़ाइल फ़ोटो)",
   "page": null
- },
- "tusk-india-visit-october-21-modi-bengaluru": {
-  "id": "v-tusk-india-visit-october-21-modi-bengaluru",
-  "src": "/photos/v-tusk-india-visit-october-21-modi-bengaluru-1280.jpg",
-  "src800": "/photos/v-tusk-india-visit-october-21-modi-bengaluru-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: nieznany/unknown / Wikimedia Commons; Terri Sewell or staff / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Polish Prime Minister Donald Tusk and Prime Minister Narendra Modi (file photo)",
-  "alt_hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क और प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-tusk-india-visit-october-21-modi-bengaluru-1280.jpg",
-   "src800": "/photos/t-tusk-india-visit-october-21-modi-bengaluru-640.jpg",
-   "cutout": false,
-   "with": [
-    "india-west-indies-bengaluru-decider-dew-arshdeep-preview"
-   ],
-   "kind": "photo",
-   "credit": "Photos: nieznany/unknown / Wikimedia Commons; Terri Sewell or staff / Wikimedia Commons; Ashwin Kumar / Wikimedia Commons"
-  }
  },
  "witkoff-zelenskyy-oslo-before-putin-moscow": {
   "id": "v-witkoff-zelenskyy-oslo-before-putin-moscow",
@@ -14895,30 +14649,6 @@
    "credit": "Photo: Information and public relations department Government of Bihar / Wikimedia Commons"
   }
  },
- "jio-platforms-ipo-opens-today-what-bidders-need-to-know": {
-  "id": "v-jio-platforms-ipo-opens-today-what-bidders-need-to-know",
-  "src": "/photos/v-jio-platforms-ipo-opens-today-what-bidders-need-to-know-1280.jpg",
-  "src800": "/photos/v-jio-platforms-ipo-opens-today-what-bidders-need-to-know-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Arun Muralidhar / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Reliance Corporate Park in Navi Mumbai (file photo)",
-  "alt_hi": "नवी मुंबई में रिलायंस कॉर्पोरेट पार्क (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jio-platforms-ipo-opens-today-what-bidders-need-to-know-1280.jpg",
-   "src800": "/photos/t-jio-platforms-ipo-opens-today-what-bidders-need-to-know-640.jpg",
-   "cutout": false,
-   "with": [
-    "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21",
-    "fpi-outflows-record-3-trillion-2026",
-    "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
-  }
- },
  "kospi-slumps-chip-selloff-asia-tuesday-close": {
   "id": "v-kospi-slumps-chip-selloff-asia-tuesday-close",
   "src": "/photos/v-kospi-slumps-chip-selloff-asia-tuesday-close-1280.jpg",
@@ -15104,18 +14834,6 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Detroit Pistons guard Cade Cunningham (file photo)",
   "alt_hi": "डेट्रॉइट पिस्टन्स के गार्ड केड कनिंघम (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "police-commemoration-day-amit-shah-national-police-memorial": {
-  "id": "v-police-commemoration-day-amit-shah-national-police-memorial",
-  "src": "/photos/v-police-commemoration-day-amit-shah-national-police-memorial-1280.jpg",
-  "src800": "/photos/v-police-commemoration-day-amit-shah-national-police-memorial-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The National Police Memorial in New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली का राष्ट्रीय पुलिस स्मारक (फ़ाइल फ़ोटो)",
   "page": null
  },
  "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench": {
@@ -15535,30 +15253,6 @@
   "alt_hi": "न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय (फ़ाइल फ़ोटो)",
   "page": null
  },
- "jio-platforms-ipo-fully-subscribed-day-one-record": {
-  "id": "v-jio-platforms-ipo-fully-subscribed-day-one-record",
-  "src": "/photos/v-jio-platforms-ipo-fully-subscribed-day-one-record-1280.jpg",
-  "src800": "/photos/v-jio-platforms-ipo-fully-subscribed-day-one-record-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Nairspecht / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A Jio office building with the Jio logo (file photo)",
-  "alt_hi": "जियो लोगो वाली जियो की एक दफ्तर इमारत (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jio-platforms-ipo-fully-subscribed-day-one-record-1280.jpg",
-   "src800": "/photos/t-jio-platforms-ipo-fully-subscribed-day-one-record-640.jpg",
-   "cutout": false,
-   "with": [
-    "midcap-smallcap-indices-slide-4-per-cent-margin-calls",
-    "fpi-outflows-record-3-trillion-2026",
-    "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
-   ],
-   "kind": "photo",
-   "credit": "Photos: Nairspecht / Wikimedia Commons; zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
-  }
- },
  "kimmich-out-bayern-arsenal-kompany-doubtful": {
   "id": "v-kimmich-out-bayern-arsenal-kompany-doubtful",
   "src": "/photos/v-kimmich-out-bayern-arsenal-kompany-doubtful-1280.jpg",
@@ -15949,31 +15643,6 @@
    "credit": "Photos: M sh شراونة محمد / Wikimedia Commons; Subhrasingh / Wikimedia Commons; Meet.arpit99 / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
   }
  },
- "bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain": {
-  "id": "v-bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-r",
-  "src": "/photos/v-bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-r-1280.jpg",
-  "src800": "/photos/v-bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-r-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: SanthoshKhan Annadhurai / Wikimedia Commons; Missb7 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Rain clouds over Marina Beach in Chennai (file photo)",
-  "alt_hi": "चेन्नई के मरीना बीच पर बारिश के बादल (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-r-1280.jpg",
-   "src800": "/photos/t-bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-r-640.jpg",
-   "cutout": false,
-   "with": [
-    "maldives-releases-24-tharuvaikulam-fishermen-tamil-nadu",
-    "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
-    "tamil-nadu-vetri-150-extra-25-days-rural-jobs",
-    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: Mohanatnow / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons; N. Vivekananthamoorthy / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons"
-  }
- },
  "brad-lander-detained-west-bank-olive-harvest": {
   "id": "v-brad-lander-detained-west-bank-olive-harvest",
   "src": "/photos/v-brad-lander-detained-west-bank-olive-harvest-1280.jpg",
@@ -16254,31 +15923,6 @@
   "alt": "Australia's Travis Head (file photo)",
   "alt_hi": "ऑस्ट्रेलिया के ट्रैविस हेड (फ़ाइल फ़ोटो)",
   "page": null
- },
- "jio-platforms-ipo-three-times-subscribed-day-one-qib": {
-  "id": "v-jio-platforms-ipo-three-times-subscribed-day-one-qib",
-  "src": "/photos/v-jio-platforms-ipo-three-times-subscribed-day-one-qib-1280.jpg",
-  "src800": "/photos/v-jio-platforms-ipo-three-times-subscribed-day-one-qib-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Rahul Sharma / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "A JioPhone handset (file photo)",
-  "alt_hi": "जियोफ़ोन हैंडसेट (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jio-platforms-ipo-three-times-subscribed-day-one-qib-1280.jpg",
-   "src800": "/photos/t-jio-platforms-ipo-three-times-subscribed-day-one-qib-640.jpg",
-   "cutout": false,
-   "with": [
-    "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21",
-    "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december--p2",
-    "fpi-outflows-record-3-trillion-2026",
-    "gdp-grows-7-8-in-april-june-quarter"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: zadeus / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Ccmarathe / Wikimedia Commons"
-  }
  },
  "kim-yo-jong-loudspeakers-border-seoul-intolerable": {
   "id": "v-kim-yo-jong-loudspeakers-border-seoul-intolerable",
@@ -17189,31 +16833,6 @@
   "alt_hi": "तलवंडी साबो में तख्त श्री दमदमा साहिब (फ़ाइल फ़ोटो)",
   "page": null
  },
- "jio-ipo-retail-quota-full-day-two-3-47-times": {
-  "id": "v-jio-ipo-retail-quota-full-day-two-3-47-times",
-  "src": "/photos/v-jio-ipo-retail-quota-full-day-two-3-47-times-1280.jpg",
-  "src800": "/photos/v-jio-ipo-retail-quota-full-day-two-3-47-times-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Adeenshahir / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Jio World Convention Centre, Mumbai (file photo)",
-  "alt_hi": "जियो वर्ल्ड कन्वेंशन सेंटर, मुंबई (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jio-ipo-retail-quota-full-day-two-3-47-times-1280.jpg",
-   "src800": "/photos/t-jio-ipo-retail-quota-full-day-two-3-47-times-640.jpg",
-   "cutout": false,
-   "with": [
-    "ipos-next-week-eaaa-sfc-bls-polymers-jio-listing",
-    "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december--p2",
-    "fpi-outflows-record-3-trillion-2026",
-    "gdp-grows-7-8-in-april-june-quarter"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: zadeus / Wikimedia Commons; Vyacheslav Argenberg / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Ccmarathe / Wikimedia Commons"
-  }
- },
  "kakinada-kattipudi-scorpio-hits-bhavani-devotees-four-dead": {
   "id": "v-kakinada-kattipudi-scorpio-hits-bhavani-devotees-four-dead",
   "src": "/photos/v-kakinada-kattipudi-scorpio-hits-bhavani-devotees-four-dead-1280.jpg",
@@ -17848,30 +17467,6 @@
   "alt": "An Apple Store (file photo)",
   "alt_hi": "एक ऐपल स्टोर (फ़ाइल फ़ोटो)",
   "page": null
- },
- "jio-ipo-5-51-times-day-two-close-final-day": {
-  "id": "v-jio-ipo-5-51-times-day-two-close-final-day",
-  "src": "/photos/v-jio-ipo-5-51-times-day-two-close-final-day-1280.jpg",
-  "src800": "/photos/v-jio-ipo-5-51-times-day-two-close-final-day-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: NiiteshPattiil / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Reliance Corporate Park in Navi Mumbai (file photo)",
-  "alt_hi": "नवी मुंबई में रिलायंस कॉरपोरेट पार्क (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jio-ipo-5-51-times-day-two-close-final-day-1280.jpg",
-   "src800": "/photos/t-jio-ipo-5-51-times-day-two-close-final-day-640.jpg",
-   "cutout": false,
-   "with": [
-    "zetwerk-ipo-fully-subscribed-final-day",
-    "fpi-outflows-record-3-trillion-2026",
-    "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: Ganesh Dhamodkar / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
-  }
  },
  "judge-blocks-dhs-voter-citizenship-checks-nine-states": {
   "id": "v-judge-blocks-dhs-voter-citizenship-checks-nine-states",
@@ -18632,18 +18227,6 @@
   "alt_hi": "भारतीय बल्लेबाज़ केएल राहुल (फ़ाइल फ़ोटो)",
   "page": null
  },
- "ishan-kishan-ruled-out-second-t20i-christchurch": {
-  "id": "v-ishan-kishan-ruled-out-second-t20i-christchurch",
-  "src": "/photos/v-ishan-kishan-ruled-out-second-t20i-christchurch-1280.jpg",
-  "src800": "/photos/v-ishan-kishan-ruled-out-second-t20i-christchurch-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Dave Morton / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "India's Ishan Kishan (file photo)",
-  "alt_hi": "भारत के ईशान किशन (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "istanbul-ministers-hormuz-talks-trump-iran-strikes": {
   "id": "v-istanbul-ministers-hormuz-talks-trump-iran-strikes",
   "src": "/photos/v-istanbul-ministers-hormuz-talks-trump-iran-strikes-1280.jpg",
@@ -18674,30 +18257,6 @@
    "with": [],
    "kind": "photo",
    "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Claudio Centonze, Yügen, CE - Service audiovisuel, EC - Audiovisual Serv / Wikimedia Commons; Press Service of the President Azerbaijan / Wikimedia Commons"
-  }
- },
- "jio-platforms-ipo-closes-subscription-final-day": {
-  "id": "v-jio-platforms-ipo-closes-subscription-final-day",
-  "src": "/photos/v-jio-platforms-ipo-closes-subscription-final-day-1280.jpg",
-  "src800": "/photos/v-jio-platforms-ipo-closes-subscription-final-day-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Rahul Bhadane / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A Reliance retail complex in Surat (file photo)",
-  "alt_hi": "सूरत में रिलायंस का एक रिटेल परिसर (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jio-platforms-ipo-closes-subscription-final-day-1280.jpg",
-   "src800": "/photos/t-jio-platforms-ipo-closes-subscription-final-day-640.jpg",
-   "cutout": false,
-   "with": [
-    "midcap-smallcap-indices-slide-4-per-cent-margin-calls",
-    "fpi-outflows-record-3-trillion-2026",
-    "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: zadeus / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons; Jimmy vikas / Wikimedia Commons"
   }
  },
  "karnataka-hc-illegal-immigration-district-committees-three-months": {
@@ -19809,26 +19368,6 @@
   "alt_hi": "इथियोपिया के तिग्रे का एक दृश्य (फ़ाइल फ़ोटो)",
   "page": null
  },
- "jordan-karak-church-funeral-shooting-seven-killed": {
-  "id": "v-jordan-karak-church-funeral-shooting-seven-killed",
-  "src": "/photos/v-jordan-karak-church-funeral-shooting-seven-killed-1280.jpg",
-  "src800": "/photos/v-jordan-karak-church-funeral-shooting-seven-killed-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: European Union 2020 - European Parliament from EU / Wikimedia Commons; JoTB / Wikimedia Commons",
-  "licence": "CC BY 2.0, CC BY-SA 3.0",
-  "alt": "King Abdullah II of Jordan and Karak Castle (file photo)",
-  "alt_hi": "जॉर्डन के किंग अब्दुल्ला द्वितीय और करक किला (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-jordan-karak-church-funeral-shooting-seven-killed-1280.jpg",
-   "src800": "/photos/t-jordan-karak-church-funeral-shooting-seven-killed-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: European Union 2020 - European Parliament from EU / Wikimedia Commons; JoTB / Wikimedia Commons"
-  }
- },
  "week-ahead-results-data-calendar-october-26-30": {
   "id": "v-week-ahead-results-data-calendar-october-26-30",
   "src": "/photos/v-week-ahead-results-data-calendar-october-26-30-1280.jpg",
@@ -19940,26 +19479,6 @@
   "alt": "The CBI headquarters in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में सीबीआई मुख्यालय (फ़ाइल फ़ोटो)",
   "page": null
- },
- "brazil-runoff-sunday-lula-flavio-final-globo-debate": {
-  "id": "v-brazil-runoff-sunday-lula-flavio-final-globo-debate",
-  "src": "/photos/v-brazil-runoff-sunday-lula-flavio-final-globo-debate-1280.jpg",
-  "src800": "/photos/v-brazil-runoff-sunday-lula-flavio-final-globo-debate-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: Agência Senado / Wikimedia Commons; Ricardo Stuckert/Presidência da República / Wikimedia Commons",
-  "licence": "Attribution, CC BY 3.0 br",
-  "alt": "Senator Flávio Bolsonaro and President Luiz Inácio Lula da Silva (file photos)",
-  "alt_hi": "सीनेटर फ्लावियो बोल्सोनारो और राष्ट्रपति लुइज़ इनासियो लूला दा सिल्वा (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-brazil-runoff-sunday-lula-flavio-final-globo-debate-1280.jpg",
-   "src800": "/photos/t-brazil-runoff-sunday-lula-flavio-final-globo-debate-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: Agência Senado / Wikimedia Commons; Ricardo Stuckert/Presidência da República / Wikimedia Commons"
-  }
  },
  "ukraine-finland-nokia-iceye-satellite-system-starshield": {
   "id": "v-ukraine-finland-nokia-iceye-satellite-system-starshield",
@@ -21714,18 +21233,6 @@
    "credit": "Photo: Basheer Olakara / Wikimedia Commons; Wikimedia Commons contributor"
   }
  },
- "serbia-votes-snap-election-vucic-student-list": {
-  "id": "v-serbia-votes-snap-election-vucic-student-list",
-  "src": "/photos/v-serbia-votes-snap-election-vucic-student-list-1280.jpg",
-  "src800": "/photos/v-serbia-votes-snap-election-vucic-student-list-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: duma.gov.ru / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Aleksandar Vučić, leader of the Serbian Progressive Party (file photo)",
-  "alt_hi": "सर्बियन प्रोग्रेसिव पार्टी के नेता अलेक्सांदर वुचिच (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "siddaramaiah-sting-video-accused-ritesh-pandey-bail": {
   "id": "v-siddaramaiah-sting-video-accused-ritesh-pandey-bail",
   "src": "/photos/v-siddaramaiah-sting-video-accused-ritesh-pandey-bail-1280.jpg",
@@ -22004,18 +21511,6 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A Gaganyaan crew module used in ISRO's Pad Abort Test (file photo)",
   "alt_hi": "इसरो के पैड एबॉर्ट टेस्ट में इस्तेमाल हुआ गगनयान क्रू मॉड्यूल (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi": {
-  "id": "v-harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi",
-  "src": "/photos/v-harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi-1280.jpg",
-  "src800": "/photos/v-harmanpreet-rawal-fifties-india-women-zimbabwe-second-odi-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Bahnfrend / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "India captain Harmanpreet Kaur batting (file photo)",
-  "alt_hi": "बल्लेबाज़ी करतीं भारतीय कप्तान हरमनप्रीत कौर (फ़ाइल फ़ोटो)",
   "page": null
  },
  "iran-drones-komala-base-iraqi-kurdistan-balisan": {
@@ -23402,26 +22897,6 @@
   "alt_hi": "दिल्ली का राजीव चौक मेट्रो स्टेशन (फ़ाइल फ़ोटो)",
   "page": null
  },
- "india-bloc-ramlila-maidan-rally-today-preview": {
-  "id": "v-india-bloc-ramlila-maidan-rally-today-preview",
-  "src": "/photos/v-india-bloc-ramlila-maidan-rally-today-preview-1280.jpg",
-  "src800": "/photos/v-india-bloc-ramlila-maidan-rally-today-preview-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: Hibi Eden. / Wikimedia Commons; Ekta Parishad / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Leader of the Opposition Rahul Gandhi and Ramlila Maidan in New Delhi (file photo)",
-  "alt_hi": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी और नई दिल्ली का रामलीला मैदान (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-india-bloc-ramlila-maidan-rally-today-preview-1280.jpg",
-   "src800": "/photos/t-india-bloc-ramlila-maidan-rally-today-preview-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: Hibi Eden. / Wikimedia Commons; Ekta Parishad / Wikimedia Commons"
-  }
- },
  "india-bloc-ramlila-maidan-rally-today-preview--p1": {
   "id": "v-india-bloc-ramlila-maidan-rally-today-preview-p1",
   "src": "/photos/v-india-bloc-ramlila-maidan-rally-today-preview-p1-1280.jpg",
@@ -23456,18 +22931,6 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Keralam Health Minister K Muraleedharan (file photo)",
   "alt_hi": "केरलम के स्वास्थ्य मंत्री के मुरलीधरन (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth": {
-  "id": "v-mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-  "src": "/photos/v-mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth-1280.jpg",
-  "src800": "/photos/v-mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Morio / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Ferrari driver Lewis Hamilton (file photo)",
-  "alt_hi": "फेरारी ड्राइवर लुईस हैमिल्टन (फ़ाइल फ़ोटो)",
   "page": null
  },
  "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth--p1": {
@@ -23589,28 +23052,6 @@
   "alt": "Former Lok Sabha Speaker Meira Kumar (file photo)",
   "alt_hi": "लोकसभा की पूर्व अध्यक्ष मीरा कुमार (फ़ाइल फ़ोटो)",
   "page": null
- },
- "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing": {
-  "id": "v-chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
-  "src": "/photos/v-chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing-1280.jpg",
-  "src800": "/photos/v-chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: Karnav Dave / Wikimedia Commons; Wikiuser829 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Union Minister Mansukh Mandaviya and Nava Raipur Atal Nagar (file photo)",
-  "alt_hi": "केंद्रीय मंत्री मनसुख मांडविया और नवा रायपुर अटल नगर (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing-1280.jpg",
-   "src800": "/photos/t-chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing-640.jpg",
-   "cutout": false,
-   "with": [
-    "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview"
-   ],
-   "kind": "photo",
-   "credit": "Photos: Karnav Dave / Wikimedia Commons; Wikiuser829 / Wikimedia Commons; Theasg sap / Wikimedia Commons"
-  }
  },
  "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing--p1": {
   "id": "v-chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closin-p1",
@@ -23994,18 +23435,6 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A Hyundai Bayon crossover (file photo)",
   "alt_hi": "ह्युंडई बेयॉन क्रॉसओवर (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march": {
-  "id": "v-india-bloc-rally-morning-crowds-10000-security-bjp-1984-marc",
-  "src": "/photos/v-india-bloc-rally-morning-crowds-10000-security-bjp-1984-marc-1280.jpg",
-  "src800": "/photos/v-india-bloc-rally-morning-crowds-10000-security-bjp-1984-marc-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Captgs / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Congress leader Udit Raj (file photo)",
-  "alt_hi": "कांग्रेस नेता उदित राज (फ़ाइल फ़ोटो)",
   "page": null
  },
  "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march--p2": {
@@ -25800,30 +25229,6 @@
   "alt_hi": "टाइटन कंपनी का तनिष्क आभूषण शोरूम (फ़ाइल फ़ोटो)",
   "page": null
  },
- "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole": {
-  "id": "v-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol",
-  "src": "/photos/v-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol-1280.jpg",
-  "src800": "/photos/v-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Liauzh / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Mercedes driver Kimi Antonelli (file photo)",
-  "alt_hi": "मर्सिडीज़ ड्राइवर किमी एंटोनेली (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol-en-1280.jpg",
-    "src800": "/photos/c-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol-hi-1280.jpg",
-    "src800": "/photos/c-mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pol-hi-640.jpg"
-   }
-  }
- },
  "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole--p1": {
   "id": "v-mexico-grand-prix-preview-antonelli-ninth-title-hamilto-p1",
   "src": "/photos/v-mexico-grand-prix-preview-antonelli-ninth-title-hamilto-p1-1280.jpg",
@@ -26380,30 +25785,6 @@
   "alt_hi": "अमेरिकी प्रतिनिधि सभा में डेमोक्रेटिक नेता हकीम जेफ्रीज़ (फ़ाइल फ़ोटो)",
   "page": null
  },
- "india-manufacturing-pmi-october-final-due-flash-54-9": {
-  "id": "v-india-manufacturing-pmi-october-final-due-flash-54-9",
-  "src": "/photos/v-india-manufacturing-pmi-october-final-due-flash-54-9-1280.jpg",
-  "src800": "/photos/v-india-manufacturing-pmi-october-final-due-flash-54-9-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Felix Dance / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Containers and cranes at Mundra Port, Gujarat (file photo)",
-  "alt_hi": "गुजरात के मुंद्रा बंदरगाह पर कंटेनर और क्रेन (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-en-1280.jpg",
-    "src800": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-hi-1280.jpg",
-    "src800": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-hi-640.jpg"
-   }
-  }
- },
  "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm": {
   "id": "v-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
   "src": "/photos/v-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm-1280.jpg",
@@ -26452,30 +25833,6 @@
   "alt": "The Preamble to the Constitution of India (file photo)",
   "alt_hi": "भारत के संविधान की प्रस्तावना (फ़ाइल फ़ोटो)",
   "page": null
- },
- "mumbai-railways-ranji-round-four-brabourne-preview": {
-  "id": "v-mumbai-railways-ranji-round-four-brabourne-preview",
-  "src": "/photos/v-mumbai-railways-ranji-round-four-brabourne-preview-1280.jpg",
-  "src800": "/photos/v-mumbai-railways-ranji-round-four-brabourne-preview-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Herry Lawford / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Brabourne Stadium, home of the Cricket Club of India, Mumbai (file photo)",
-  "alt_hi": "क्रिकेट क्लब ऑफ इंडिया का ब्रेबोर्न स्टेडियम, मुंबई (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-en-1280.jpg",
-    "src800": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-hi-1280.jpg",
-    "src800": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-hi-640.jpg"
-   }
-  }
  },
  "mumbai-railways-ranji-round-four-brabourne-preview--bg": {
   "id": "v-mumbai-railways-ranji-round-four-brabourne-preview-bg",
@@ -26537,43 +25894,6 @@
   "alt": "The OPEC headquarters building in Vienna (file photo)",
   "alt_hi": "विएना में ओपेक मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
   "page": null
- },
- "supreme-court-ram-temple-trust-funds-probe-hearing-today": {
-  "id": "v-supreme-court-ram-temple-trust-funds-probe-hearing-today",
-  "src": "/photos/v-supreme-court-ram-temple-trust-funds-probe-hearing-today-1280.jpg",
-  "src800": "/photos/v-supreme-court-ram-temple-trust-funds-probe-hearing-today-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Narendra Modi / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "The Ram Mandir in Ayodhya (file photo)",
-  "alt_hi": "अयोध्या का राम मंदिर (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-en-1280.jpg",
-    "src800": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-hi-1280.jpg",
-    "src800": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-hi-640.jpg"
-   }
-  },
-  "treated": {
-   "src": "/photos/t-supreme-court-ram-temple-trust-funds-probe-hearing-today-1280.jpg",
-   "src800": "/photos/t-supreme-court-ram-temple-trust-funds-probe-hearing-today-640.jpg",
-   "cutout": false,
-   "with": [
-    "supreme-court-ram-temple-trust-funds-probe-hearing-today--in",
-    "andhra-high-court-strikes-down-bc-quota-local-bodies",
-    "bombay-hc-5-lakh-compensation-illegal-arrest",
-    "high-court-allows-punjab-plea-bhagwant-mann-france-visit-clearance"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: Legaleagle86 / Wikimedia Commons; IM3847 / Wikimedia Commons; Radosław Botev / Wikimedia Commons; Harvinder Chandigarh / Wikimedia Commons"
-  }
  },
  "supreme-court-ram-temple-trust-funds-probe-hearing-today--in": {
   "id": "v-supreme-court-ram-temple-trust-funds-probe-hearing-toda-in",
@@ -26865,30 +26185,6 @@
   "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट की इमारत (फ़ाइल फ़ोटो)",
   "page": null
  },
- "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview": {
-  "id": "v-india-south-korea-asian-champions-trophy-last-league-jalandh",
-  "src": "/photos/v-india-south-korea-asian-champions-trophy-last-league-jalandh-1280.jpg",
-  "src800": "/photos/v-india-south-korea-asian-champions-trophy-last-league-jalandh-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Axxter99 / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "India men's hockey players during a match (file photo)",
-  "alt_hi": "मैच के दौरान भारतीय पुरुष हॉकी खिलाड़ी (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-india-south-korea-asian-champions-trophy-last-league-jalandh-en-1280.jpg",
-    "src800": "/photos/c-india-south-korea-asian-champions-trophy-last-league-jalandh-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-india-south-korea-asian-champions-trophy-last-league-jalandh-hi-1280.jpg",
-    "src800": "/photos/c-india-south-korea-asian-champions-trophy-last-league-jalandh-hi-640.jpg"
-   }
-  }
- },
  "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview--bg": {
   "id": "v-india-south-korea-asian-champions-trophy-last-league-ja-bg",
   "src": "/photos/v-india-south-korea-asian-champions-trophy-last-league-ja-bg-1280.jpg",
@@ -26900,30 +26196,6 @@
   "alt": "India men's hockey team in action (file photo)",
   "alt_hi": "India men's hockey team in action (फ़ाइल फ़ोटो)",
   "page": null
- },
- "railways-bowl-mumbai-ranji-round-four-cci-start": {
-  "id": "v-railways-bowl-mumbai-ranji-round-four-cci-start",
-  "src": "/photos/v-railways-bowl-mumbai-ranji-round-four-cci-start-1280.jpg",
-  "src800": "/photos/v-railways-bowl-mumbai-ranji-round-four-cci-start-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: ojas c at flickr / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Brabourne Stadium of the Cricket Club of India, Mumbai (file photo)",
-  "alt_hi": "मुंबई में क्रिकेट क्लब ऑफ इंडिया का ब्रेबोर्न स्टेडियम (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-railways-bowl-mumbai-ranji-round-four-cci-start-en-1280.jpg",
-    "src800": "/photos/c-railways-bowl-mumbai-ranji-round-four-cci-start-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-railways-bowl-mumbai-ranji-round-four-cci-start-hi-1280.jpg",
-    "src800": "/photos/c-railways-bowl-mumbai-ranji-round-four-cci-start-hi-640.jpg"
-   }
-  }
  },
  "railways-bowl-mumbai-ranji-round-four-cci-start--bg": {
   "id": "v-railways-bowl-mumbai-ranji-round-four-cci-start-bg",
@@ -26972,30 +26244,6 @@
   "alt": "Jio World Centre, Bandra Kurla Complex, Mumbai (file photo)",
   "alt_hi": "मुंबई के बांद्रा कुर्ला कॉम्प्लेक्स में जियो वर्ल्ड सेंटर (फ़ाइल फ़ोटो)",
   "page": null
- },
- "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2": {
-  "id": "v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
-  "src": "/photos/v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2-1280.jpg",
-  "src800": "/photos/v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Rakesh from Bangalore / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Phiroze Jeejeebhoy Towers, the BSE building on Dalal Street, Mumbai (file photo)",
-  "alt_hi": "मुंबई के दलाल स्ट्रीट पर बीएसई की इमारत फिरोज़ जीजीभॉय टावर्स (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2-en-1280.jpg",
-    "src800": "/photos/c-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2-hi-1280.jpg",
-    "src800": "/photos/c-sensex-jumps-970-nifty-23313-oil-reliance-open-november-2-hi-640.jpg"
-   }
-  }
  },
  "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2--p1": {
   "id": "v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-p1",
@@ -27176,30 +26424,6 @@
   "alt": "Activist Aruna Roy (file photo)",
   "alt_hi": "कार्यकर्ता अरुणा रॉय (फ़ाइल फ़ोटो)",
   "page": null
- },
- "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci": {
-  "id": "v-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji",
-  "src": "/photos/v-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-1280.jpg",
-  "src800": "/photos/v-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Ajay Goyal / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Brabourne Stadium, home of the Cricket Club of India, Mumbai (file photo)",
-  "alt_hi": "मुंबई में क्रिकेट क्लब ऑफ इंडिया का ब्रेबोर्न स्टेडियम (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-en-1280.jpg",
-    "src800": "/photos/c-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-hi-1280.jpg",
-    "src800": "/photos/c-angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-hi-640.jpg"
-   }
-  }
  },
  "mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun": {
   "id": "v-mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-deh",
@@ -27513,54 +26737,6 @@
    "hi": {
     "src": "/photos/c-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-hi-1280.jpg",
     "src800": "/photos/c-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-hi-640.jpg"
-   }
-  }
- },
- "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight": {
-  "id": "v-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
-  "src": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-1280.jpg",
-  "src800": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Vijayingarsal / Wikimedia Commons",
-  "licence": "CC0",
-  "alt": "People wade through a waterlogged street in Chennai during heavy rain (file photo)",
-  "alt_hi": "भारी बारिश के दौरान चेन्नई की जलमग्न सड़क से गुजरते लोग (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-en-1280.jpg",
-    "src800": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-hi-1280.jpg",
-    "src800": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-hi-640.jpg"
-   }
-  }
- },
- "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd": {
-  "id": "v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-  "src": "/photos/v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-1280.jpg",
-  "src800": "/photos/v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Adityamadhav83 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A house wrecked by Cyclone Hudhud in Andhra Pradesh (file photo)",
-  "alt_hi": "आंध्र प्रदेश में चक्रवात हुदहुद से तबाह एक मकान (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-en-1280.jpg",
-    "src800": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-hi-1280.jpg",
-    "src800": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-hi-640.jpg"
    }
   }
  },
@@ -27888,30 +27064,6 @@
   "alt_hi": "ओडिशा में चक्रवात फणि से उखड़े पेड़ (फ़ाइल फ़ोटो)",
   "page": null
  },
- "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall": {
-  "id": "v-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra",
-  "src": "/photos/v-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-1280.jpg",
-  "src800": "/photos/v-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Government of Odisha / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Puri's Malatipatpur bus stand wrecked by Cyclone Fani (file photo)",
-  "alt_hi": "चक्रवात फणि से तबाह पुरी का मालतीपटपुर बस अड्डा (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-1280.jpg",
-   "src800": "/photos/t-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-640.jpg",
-   "cutout": false,
-   "with": [
-    "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
-    "odisha-india-chem-2026-investment-intents",
-    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons"
-  }
- },
  "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent": {
   "id": "v-sensex-holds-924-points-midday-nifty-23360-reliance-8-per-ce",
   "src": "/photos/v-sensex-holds-924-points-midday-nifty-23360-reliance-8-per-ce-1280.jpg",
@@ -27994,18 +27146,6 @@
   "licence": "CC BY 3.0",
   "alt": "Prime Minister Narendra Modi (file photo)",
   "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo": {
-  "id": "v-indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksun",
-  "src": "/photos/v-indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksun-1280.jpg",
-  "src800": "/photos/v-indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksun-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: U.S. Marine Corps photo by Lance Cpl. John Hall / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "A Nepal Army helicopter in flight (file photo)",
-  "alt_hi": "उड़ान भरता नेपाल सेना का हेलिकॉप्टर (फ़ाइल फ़ोटो)",
   "page": null
  },
  "hyundai-record-october-sales-82299-venue": {
@@ -29503,30 +28643,6 @@
   "alt_hi": "पुणे का रूबी हॉल क्लिनिक (फ़ाइल फ़ोटो)",
   "page": null
  },
- "vikram-misri-kathmandu-visit-november-4-5-balendra-shah": {
-  "id": "v-vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
-  "src": "/photos/v-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-1280.jpg",
-  "src800": "/photos/v-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: U.S. Deputy Secretary of Defense Kathleen H. Hicks / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Foreign Secretary Vikram Misri (file photo)",
-  "alt_hi": "विदेश सचिव विक्रम मिस्री (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-en-1280.jpg",
-    "src800": "/photos/c-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-hi-1280.jpg",
-    "src800": "/photos/c-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-hi-640.jpg"
-   }
-  }
- },
  "vikram-misri-kathmandu-visit-november-4-5-balendra-shah--bg": {
   "id": "v-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-bg",
   "src": "/photos/v-vikram-misri-kathmandu-visit-november-4-5-balendra-shah-bg-1280.jpg",
@@ -29802,30 +28918,6 @@
   "alt": "Esplanade in central Kolkata (file photo)",
   "alt_hi": "मध्य कोलकाता का एस्प्लेनेड (फ़ाइल फ़ोटो)",
   "page": null
- },
- "wall-street-opens-higher-dow-403-oil-slides-midterms-eve": {
-  "id": "v-wall-street-opens-higher-dow-403-oil-slides-midterms-eve",
-  "src": "/photos/v-wall-street-opens-higher-dow-403-oil-slides-midterms-eve-1280.jpg",
-  "src800": "/photos/v-wall-street-opens-higher-dow-403-oil-slides-midterms-eve-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Kidfly182 / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "The New York Stock Exchange on Wall Street (file photo)",
-  "alt_hi": "वॉल स्ट्रीट पर न्यूयॉर्क स्टॉक एक्सचेंज (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-wall-street-opens-higher-dow-403-oil-slides-midterms-eve-en-1280.jpg",
-    "src800": "/photos/c-wall-street-opens-higher-dow-403-oil-slides-midterms-eve-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-wall-street-opens-higher-dow-403-oil-slides-midterms-eve-hi-1280.jpg",
-    "src800": "/photos/c-wall-street-opens-higher-dow-403-oil-slides-midterms-eve-hi-640.jpg"
-   }
-  }
  },
  "wall-street-opens-higher-dow-403-oil-slides-midterms-eve--p1": {
   "id": "v-wall-street-opens-higher-dow-403-oil-slides-midterms-ev-p1",
@@ -30115,30 +29207,6 @@
   "alt": "Bihar Legislative Council (file photo)",
   "alt_hi": "Bihar Legislative Council (फ़ाइल फ़ोटो)",
   "page": null
- },
- "apple-results-ternus-first-call-113-billion-preview": {
-  "id": "v-apple-results-ternus-first-call-113-billion-preview",
-  "src": "/photos/v-apple-results-ternus-first-call-113-billion-preview-1280.jpg",
-  "src800": "/photos/v-apple-results-ternus-first-call-113-billion-preview-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Tessa Bury / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Apple chief executive John Ternus (file photo)",
-  "alt_hi": "एप्पल के मुख्य कार्यकारी जॉन टर्नस (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-apple-results-ternus-first-call-113-billion-preview-en-1280.jpg",
-    "src800": "/photos/c-apple-results-ternus-first-call-113-billion-preview-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-apple-results-ternus-first-call-113-billion-preview-hi-1280.jpg",
-    "src800": "/photos/c-apple-results-ternus-first-call-113-billion-preview-hi-640.jpg"
-   }
-  }
  },
  "apple-results-ternus-first-call-113-billion-preview--p1": {
   "id": "v-apple-results-ternus-first-call-113-billion-preview-p1",
@@ -30558,30 +29626,6 @@
   "alt": "A United Airlines aircraft (file photo)",
   "alt_hi": "यूनाइटेड एयरलाइंस का विमान (फ़ाइल फ़ोटो)",
   "page": null
- },
- "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert": {
-  "id": "v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-  "src": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-1280.jpg",
-  "src800": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Joint Typhoon Warning Center / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Satellite image of Cyclone Murasu over the Bay of Bengal (file photo)",
-  "alt_hi": "बंगाल की खाड़ी के ऊपर चक्रवात मुरासु की उपग्रह तस्वीर (फ़ाइल फ़ोटो)",
-  "page": null,
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-en-1280.jpg",
-    "src800": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-hi-1280.jpg",
-    "src800": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-hi-640.jpg"
-   }
-  }
  },
  "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill": {
   "id": "v-iran-qatar-draft-proposal-explained-oil-prices-india-import-",
@@ -32347,18 +31391,6 @@
   "alt_hi": "केंद्रीय बंदरगाह, जहाज़रानी और जलमार्ग मंत्री सर्बानंद सोनोवाल (फ़ाइल फ़ोटो)",
   "page": null
  },
- "misri-lands-kathmandu-today-three-post-diwali-dates-shah": {
-  "id": "v-misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-  "src": "/photos/v-misri-lands-kathmandu-today-three-post-diwali-dates-shah-1280.jpg",
-  "src800": "/photos/v-misri-lands-kathmandu-today-three-post-diwali-dates-shah-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: U.S. Deputy Secretary of Defense Kathleen H. Hicks / Wikimedia Commons; Metro News / Wikimedia Commons",
-  "licence": "Public domain, CC BY 3.0",
-  "alt": "Foreign Secretary Vikram Misri (file photo)",
-  "alt_hi": "विदेश सचिव विक्रम मिस्री (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "psg-six-villarreal-record-bayern-win-madrid-cunha-united": {
   "id": "v-psg-six-villarreal-record-bayern-win-madrid-cunha-united",
   "src": "/photos/v-psg-six-villarreal-record-bayern-win-madrid-cunha-united-1280.jpg",
@@ -32383,18 +31415,6 @@
    "subj": "c000900000fffff3",
    "credit": "Photos: Mojnsen / Wikimedia Commons; Mister rf / Wikimedia Commons; Oaktree b / Wikimedia Commons"
   }
- },
- "us-midterms-ossoff-holds-georgia-first-results": {
-  "id": "v-us-midterms-ossoff-holds-georgia-first-results",
-  "src": "/photos/v-us-midterms-ossoff-holds-georgia-first-results-1280.jpg",
-  "src800": "/photos/v-us-midterms-ossoff-holds-georgia-first-results-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: UNC - CFC - USFK / Wikimedia Commons; Shealeah Craighead / Wikimedia Commons",
-  "licence": "CC BY 2.5, Public domain",
-  "alt": "US Senator Jon Ossoff of Georgia (file photo)",
-  "alt_hi": "जॉर्जिया के अमेरिकी सीनेटर जॉन ऑसॉफ (फ़ाइल फ़ोटो)",
-  "page": null
  },
  "goa-st-seat-reservation-explained-supreme-court--p1": {
   "id": "v-goa-st-seat-reservation-explained-supreme-court-p1",
@@ -32545,32 +31565,6 @@
   "alt": "Maine Democrat Troy Jackson and Republican Senator Susan Collins (file photo)",
   "alt_hi": "मेन के डेमोक्रेट ट्रॉय जैक्सन और रिपब्लिकन सीनेटर सूज़न कॉलिन्स (फ़ाइल फ़ोटो)",
   "page": null
- },
- "india-65-one-down-32-over-chase-eden-park-odi": {
-  "id": "v-india-65-one-down-32-over-chase-eden-park-odi",
-  "src": "/photos/v-india-65-one-down-32-over-chase-eden-park-odi-1280.jpg",
-  "src800": "/photos/v-india-65-one-down-32-over-chase-eden-park-odi-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Anand Anil / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Virat Kohli, India batter (file photo)",
-  "alt_hi": "भारतीय बल्लेबाज़ विराट कोहली (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-india-65-one-down-32-over-chase-eden-park-odi-1280.jpg",
-   "src800": "/photos/t-india-65-one-down-32-over-chase-eden-park-odi-640.jpg",
-   "cutout": false,
-   "with": [
-    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1",
-    "rinku-singh-century-rescues-up-ranji-round-two-day-one",
-    "nepali-congress-cancels-kojagrat-purnima-tea-floods",
-    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2"
-   ],
-   "kind": "scenes",
-   "subj": "9f3367c1e0f8ff",
-   "credit": "Photos: Copernicus Sentinel-2, ESA / Wikimedia Commons; Ovalhighlander / Wikimedia Commons; Gaurav Dhwaj Khadka / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons"
-  }
  },
  "us-midterms-democrats-230-house-seats-economy-hegseth-blame": {
   "id": "v-us-midterms-democrats-230-house-seats-economy-hegseth-blame",
@@ -32978,18 +31972,6 @@
   "alt_hi": "ओडिशा के कोरापुट जिले की पहाड़ियां (फ़ाइल फ़ोटो)",
   "page": null
  },
- "wall-street-jumps-dow-1131-democrats-win-congress": {
-  "id": "v-wall-street-jumps-dow-1131-democrats-win-congress",
-  "src": "/photos/v-wall-street-jumps-dow-1131-democrats-win-congress-1280.jpg",
-  "src800": "/photos/v-wall-street-jumps-dow-1131-democrats-win-congress-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Carol M. Highsmith / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Traders on the floor of the New York Stock Exchange (file photo)",
-  "alt_hi": "न्यूयॉर्क स्टॉक एक्सचेंज के फ्लोर पर कारोबारी (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "hijikata-stuns-djokovic-paris-masters-turin-hopes-end": {
   "id": "v-hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
   "src": "/photos/v-hijikata-stuns-djokovic-paris-masters-turin-hopes-end-1280.jpg",
@@ -33350,48 +32332,6 @@
    "hi": {
     "src": "/photos/i2-gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5-hi-1280.jpg",
     "src800": "/photos/i2-gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5-hi-640.jpg"
-   }
-  }
- },
- "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6": {
-  "id": "i-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
-  "src": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-en-3x2-1280.jpg",
-  "src800": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Rural Andhra votes, four mandals wait a day",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ग्रामीण आंध्र में मतदान, चार मंडल एक दिन बाद",
-  "page": null,
-  "ihash": "40cbaa78549a",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-en-t-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-t-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-en-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-640.jpg"
    }
   }
  },
@@ -33813,48 +32753,6 @@
    "credit": "Photos: AroundTheGlobe / Wikimedia Commons; Rakesh from Bangalore / Wikimedia Commons; DesiBoy101 / Wikimedia Commons; Nsewebmaster / Wikimedia Commons"
   }
  },
- "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest": {
-  "id": "i-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
-  "src": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-en-3x2-1280.jpg",
-  "src800": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Turnout at 30.5% in six hours across 28 districts",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 28 जिलों में छह घंटों में 30.5% मतदान",
-  "page": null,
-  "ihash": "da61b10e84d1",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-en-t-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-hi-t-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-en-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-hi-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest-hi-640.jpg"
-   }
-  }
- },
  "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra--p2": {
   "id": "v-supreme-court-refuses-shift-tirupati-laddu-ghee-trial-o-p2",
   "src": "/photos/v-supreme-court-refuses-shift-tirupati-laddu-ghee-trial-o-p2-1280.jpg",
@@ -34048,32 +32946,6 @@
   "alt_hi": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा (फ़ाइल फ़ोटो)",
   "page": null
  },
- "rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign": {
-  "id": "v-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign",
-  "src": "/photos/v-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-1280.jpg",
-  "src800": "/photos/v-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Sidheeq / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Leader of the Opposition Rahul Gandhi (file photo)",
-  "alt_hi": "नेता प्रतिपक्ष राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-1280.jpg",
-   "src800": "/photos/t-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-640.jpg",
-   "cutout": false,
-   "with": [
-    "saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali--bg",
-    "cbi-takes-over-jhota-murder-probe-mansa",
-    "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
-    "bills-in-parliament-tracker"
-   ],
-   "kind": "scenes",
-   "subj": "fcfc00fcffff0000",
-   "credit": "Photos: DeepArjunSingh / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
-  }
- },
  "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila": {
   "id": "v-rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila",
   "src": "/photos/v-rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila-1280.jpg",
@@ -34236,55 +33108,6 @@
   "alt_hi": "भारत के ₹100 और ₹2,000 के नोट (फ़ाइल फ़ोटो)",
   "page": null,
   "notile": "caption does not match the picture, shows people, or repeats another tile"
- },
- "india-41-one-down-kohli-chase-186-eden-park-odi": {
-  "id": "v-india-41-one-down-kohli-chase-186-eden-park-odi",
-  "src": "/photos/v-india-41-one-down-kohli-chase-186-eden-park-odi-1280.jpg",
-  "src800": "/photos/v-india-41-one-down-kohli-chase-186-eden-park-odi-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Prime Minister's Office, Government of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "India batter Virat Kohli (file photo)",
-  "alt_hi": "भारतीय बल्लेबाज़ विराट कोहली (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-india-41-one-down-kohli-chase-186-eden-park-odi-1280.jpg",
-   "src800": "/photos/t-india-41-one-down-kohli-chase-186-eden-park-odi-640.jpg",
-   "cutout": true,
-   "with": [
-    "rinku-singh-century-rescues-up-ranji-round-two-day-one",
-    "india-women-zimbabwe-second-odi-vadodara-rawal-preview",
-    "navdeep-saini-two-services-112-4-delhi-ranji-palam"
-   ],
-   "kind": "portrait",
-   "subj": "dc001a9ebe0202ff",
-   "credit": "Photos: Anand Anil / Wikimedia Commons, CC BY-SA 4.0; Ovalhighlander / Wikimedia Commons; [2] / Wikimedia Commons; Ciell / Wikimedia Commons"
-  }
- },
- "india-54-one-down-rain-stops-play-eden-park-odi": {
-  "id": "v-india-54-one-down-rain-stops-play-eden-park-odi",
-  "src": "/photos/v-india-54-one-down-rain-stops-play-eden-park-odi-1280.jpg",
-  "src800": "/photos/v-india-54-one-down-rain-stops-play-eden-park-odi-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "India batter Virat Kohli (file photo)",
-  "alt_hi": "भारतीय बल्लेबाज़ विराट कोहली (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi": {
-  "id": "v-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park",
-  "src": "/photos/v-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-1280.jpg",
-  "src800": "/photos/v-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "India batter Virat Kohli (file photo)",
-  "alt_hi": "भारतीय बल्लेबाज़ विराट कोहली (फ़ाइल फ़ोटो)",
-  "page": null
  },
  "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park": {
   "id": "v-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-ed",
@@ -34899,31 +33722,6 @@
    "credit": "Photos: AnkClix / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Annie Thomas / Wikimedia Commons"
   }
  },
- "delhi-aqi-159-moderate-cpcb-saturday-grap": {
-  "id": "v-delhi-aqi-159-moderate-cpcb-saturday-grap",
-  "src": "/photos/v-delhi-aqi-159-moderate-cpcb-saturday-grap-1280.jpg",
-  "src800": "/photos/v-delhi-aqi-159-moderate-cpcb-saturday-grap-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: TargetAimShoot / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Haze over Delhi in November (file photo)",
-  "alt_hi": "नवंबर में दिल्ली पर छाई धुंध (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-delhi-aqi-159-moderate-cpcb-saturday-grap-1280.jpg",
-   "src800": "/photos/t-delhi-aqi-159-moderate-cpcb-saturday-grap-640.jpg",
-   "cutout": false,
-   "with": [
-    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8--p2",
-    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-    "election-commission",
-    "green-crackers-order-needs-enforcement-not-another-diwali-gamble"
-   ],
-   "kind": "scenes",
-   "credit": "Photos: Ruturajpol / Wikimedia Commons; Sumitmpsd / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons"
-  }
- },
  "chennai-rain-schools-shut-four-districts-low-pressure": {
   "id": "v-chennai-rain-schools-shut-four-districts-low-pressure",
   "src": "/photos/v-chennai-rain-schools-shut-four-districts-low-pressure-1280.jpg",
@@ -35372,18 +34170,6 @@
    }
   }
  },
- "modi-meet-asian-para-games-contingent-thursday": {
-  "id": "o-modi-meet-asian-para-games-contingent-thursday",
-  "src": "/photos/o-modi-meet-asian-para-games-contingent-thursday-1280.jpg",
-  "src800": "/photos/o-modi-meet-asian-para-games-contingent-thursday-640.jpg",
-  "width": 1280,
-  "height": 1738,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Prime Minister Narendra Modi with Paralympic high jump champion Praveen Kumar in 2024 (file photo)",
-  "alt_hi": "2024 में पैरालंपिक ऊंची कूद चैंपियन प्रवीण कुमार के साथ प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Praveen_Kumar_with_PM_Modi_in_September_2024.jpg"
- },
  "goa-st-seat-reservation-explained-supreme-court": {
   "id": "v-goa-st-seat-reservation-explained-supreme-court",
   "src": "/photos/v-goa-st-seat-reservation-explained-supreme-court-1280.jpg",
@@ -35396,32 +34182,6 @@
   "alt_hi": "पोरवोरिम में गोवा विधानसभा परिसर (फ़ाइल फ़ोटो)",
   "page": null
  },
- "india-japan-asian-champions-trophy-final-mohali-preview": {
-  "id": "v-india-japan-asian-champions-trophy-final-mohali-preview",
-  "src": "/photos/v-india-japan-asian-champions-trophy-final-mohali-preview-1280.jpg",
-  "src800": "/photos/v-india-japan-asian-champions-trophy-final-mohali-preview-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "India hockey captain Harmanpreet Singh at a national sports awards ceremony (file photo)",
-  "alt_hi": "राष्ट्रीय खेल पुरस्कार समारोह में भारतीय हॉकी कप्तान हरमनप्रीत सिंह (फ़ाइल फ़ोटो)",
-  "page": null,
-  "treated": {
-   "src": "/photos/t-india-japan-asian-champions-trophy-final-mohali-preview-1280.jpg",
-   "src800": "/photos/t-india-japan-asian-champions-trophy-final-mohali-preview-640.jpg",
-   "cutout": false,
-   "with": [
-    "saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali",
-    "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
-    "typhoon-champi-taiwan-one-dead-350-injured",
-    "banks-must-tell-customers-about-data-breaches-now"
-   ],
-   "kind": "scenes",
-   "subj": "3e1c1c7f7f7f1c04",
-   "credit": "Photos: The strokes / Wikimedia Commons; Syced / Wikimedia Commons; CEphoto, Uwe Aranas / Wikimedia Commons; Mister rf / Wikimedia Commons"
-  }
- },
  "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali": {
   "id": "v-india-beat-south-korea-8-1-asian-champions-trophy-semi-final",
   "src": "/photos/v-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-1280.jpg",
@@ -35432,18 +34192,6 @@
   "licence": "GODL-India",
   "alt": "India's men's hockey team with Prime Minister Narendra Modi after the 2022 Commonwealth Games (file photo)",
   "alt_hi": "2022 राष्ट्रमंडल खेलों के बाद प्रधानमंत्री नरेंद्र मोदी के साथ भारतीय पुरुष हॉकी टीम (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "india-elect-to-field-new-zealand-one-down-eden-park-first-odi": {
-  "id": "v-india-elect-to-field-new-zealand-one-down-eden-park-first-od",
-  "src": "/photos/v-india-elect-to-field-new-zealand-one-down-eden-park-first-od-1280.jpg",
-  "src800": "/photos/v-india-elect-to-field-new-zealand-one-down-eden-park-first-od-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: TimBray / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The South Stand at Eden Park, Auckland (file photo)",
-  "alt_hi": "ऑकलैंड के ईडन पार्क का साउथ स्टैंड (फ़ाइल फ़ोटो)",
   "page": null
  },
  "qeshm-island-explained-why-us-strike-hormuz-matters-india": {
@@ -36175,56 +34923,6 @@
   "alt_hi": "न्यूयॉर्क के टाइम्स स्क्वायर में नैस्डैक मार्केटसाइट (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
  },
- "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths": {
-  "id": "o-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-  "src": "/photos/o-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths-1280.jpg",
-  "src800": "/photos/o-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths-640.jpg",
-  "width": 1280,
-  "height": 891,
-  "credit": "Photo: Election Commission of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Voters queue at a polling booth near Visakhapatnam, Andhra Pradesh (file photo)",
-  "alt_hi": "आंध्र प्रदेश में विशाखापत्तनम के पास एक मतदान केंद्र पर कतार में खड़े मतदाता (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Voters_standing_in_a_queue_to_cast_their_votes,_at_a_polling_booth,_during_the_8th_Phase_of_General_Elections-2014,_at_Enadi,_in_Visakhapatnam,_Andhra_Pradesh_on_May_07,_2014.jpg",
-  "treated": {
-   "src": "/photos/t-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-bo-1280.jpg",
-   "src800": "/photos/t-andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-bo-640.jpg",
-   "cutout": false,
-   "with": [
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-    "andhra-parishad-polls-four-voters-two-poll-staff-die"
-   ],
-   "kind": "photo",
-   "subj": "fdfdf9e800063e3f",
-   "credit": "Photos: Election Commission of India / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons"
-  }
- },
- "amit-shah-dehradun-parade-ground-rally-padyatra-today": {
-  "id": "o-amit-shah-dehradun-parade-ground-rally-padyatra-today",
-  "src": "/photos/o-amit-shah-dehradun-parade-ground-rally-padyatra-today-1280.jpg",
-  "src800": "/photos/o-amit-shah-dehradun-parade-ground-rally-padyatra-today-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Union Home Minister Amit Shah (file photo)",
-  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg",
-  "treated": {
-   "src": "/photos/t-amit-shah-dehradun-parade-ground-rally-padyatra-today-1280.jpg",
-   "src800": "/photos/t-amit-shah-dehradun-parade-ground-rally-padyatra-today-640.jpg",
-   "cutout": true,
-   "with": [
-    "dhami-bjp-save-democracy-campaign-sir-congress",
-    "udham-singh-nagar-farmer-shot-dead-sitarganj",
-    "bills-in-parliament-tracker"
-   ],
-   "kind": "portrait",
-   "subj": "fffff3e3e3e30307",
-   "credit": "Photos: Prdp777 / Wikimedia Commons; Debasish Dey / Wikimedia Commons; RaviVerma2018 / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
-  }
- },
  "airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump": {
   "id": "o-airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump",
   "src": "/photos/o-airbnb-q3-revenue-19-per-cent-12-billion-buyback-shares-jump-1280.jpg",
@@ -36403,32 +35101,6 @@
   "alt_hi": "बंदरगाह के पास वेलिंगटन रीजनल स्टेडियम, दूसरे वनडे का मैदान (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Wellington_Westpac_Stadium,_23_April_2005.jpg"
  },
- "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent": {
-  "id": "o-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-  "src": "/photos/o-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent-1280.jpg",
-  "src800": "/photos/o-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent-640.jpg",
-  "width": 1280,
-  "height": 865,
-  "credit": "Photo: Election Commission of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Women voters show their identity slips at a polling booth in Mylavaram, Vijayawada, Andhra Pradesh (file photo)",
-  "alt_hi": "आंध्र प्रदेश के विजयवाड़ा के मायलावरम में एक मतदान केंद्र पर पहचान पर्चियां दिखाती महिला मतदाता (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Muslim_women_voters_showing_their_voters_identity_card_at_a_polling_booth_at_Mylavaram,_in_Vijayawada,_Andhra_Pradesh,_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg",
-  "treated": {
-   "src": "/photos/t-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-1280.jpg",
-   "src800": "/photos/t-andhra-five-mandals-polling-under-way-seven-booth-repolls-67-640.jpg",
-   "cutout": false,
-   "with": [
-    "andhra-five-mandals-vote-friday-repoll-kurnool-srikakulam-booths",
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "andhra-local-polls-must-start-with-free-nominations",
-    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes"
-   ],
-   "kind": "scenes",
-   "subj": "fdfdf9e800063e3f",
-   "credit": "Photos: Election Commission of India / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Saiphani02 / Wikimedia Commons"
-  }
- },
  "nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower": {
   "id": "i-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower",
   "src": "/photos/i2-nikkei-6-per-cent-kospi-circuit-breaker-below-5000-gift-nifty-lower-en-3x2-1280.jpg",
@@ -36506,32 +35178,6 @@
   "alt": "Yogakshema, the Life Insurance Corporation of India headquarters at Nariman Point, Mumbai (file photo)",
   "alt_hi": "मुंबई के नरीमन पॉइंट पर भारतीय जीवन बीमा निगम का मुख्यालय योगक्षेम (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:LIC_Central_Office.jpg"
- },
- "sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today": {
-  "id": "o-sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today",
-  "src": "/photos/o-sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today-1280.jpg",
-  "src800": "/photos/o-sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today-640.jpg",
-  "width": 1280,
-  "height": 851,
-  "credit": "Photo: World Economic Forum from Cologny, Switzerland / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Congress leader Sonia Gandhi (file photo)",
-  "alt_hi": "कांग्रेस नेता सोनिया गांधी (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sonia_Gandhi_-_India_Economic_Summit_2006.jpg",
-  "treated": {
-   "src": "/photos/t-sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today-1280.jpg",
-   "src800": "/photos/t-sonia-gandhi-1980-voter-list-case-rouse-avenue-hearing-today-640.jpg",
-   "cutout": false,
-   "with": [
-    "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation--p2",
-    "special-session-of-parliament-explained-shah-offer-cec-removal",
-    "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing",
-    "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir"
-   ],
-   "kind": "scenes",
-   "subj": "3c3c18183cfe7c",
-   "credit": "Photos: Delhi High Court / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons; Yercaud-elango / Wikimedia Commons"
-  }
  },
  "sensex-nifty-fall-early-trade-november-6": {
   "id": "i-sensex-nifty-fall-early-trade-november-6",
@@ -39182,63 +37828,6 @@
   },
   "nophoto": "no free photo of Surya Kant outside the 7-day rule; library, quick_photo, finder h0706"
  },
- "andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first": {
-  "id": "i-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first",
-  "src": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-en-3x2-1280.jpg",
-  "src800": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Counting day for 8,349 seats",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 8,349 सीटों की मतगणना आज",
-  "page": null,
-  "ihash": "1292e53aa0ee",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-en-t-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-hi-t-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-en-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-hi-1280.jpg",
-    "src800": "/photos/i2-andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Andhra Pradesh vote counting; quick_photo, finder h0706 (only a 1950s black and white counting photo)",
-  "treated": {
-   "src": "/photos/t-andhra-parishad-counting-day-november-7-365-centres-postal-b-1280.jpg",
-   "src800": "/photos/t-andhra-parishad-counting-day-november-7-365-centres-postal-b-640.jpg",
-   "cutout": false,
-   "with": [
-    "andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent",
-    "andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam",
-    "andhra-parishad-polls-four-voters-two-poll-staff-die",
-    "andhra-local-polls-must-start-with-free-nominations"
-   ],
-   "kind": "scenes",
-   "subj": "fffce07069000600",
-   "credit": "Photos: Election Commission of India / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons"
-  }
- },
  "europe-bomb-threat-wave-flights-broadcasters-third-day": {
   "id": "i-europe-bomb-threat-wave-flights-broadcasters-third-day",
   "src": "/photos/i2-europe-bomb-threat-wave-flights-broadcasters-third-day-en-3x2-1280.jpg",
@@ -39516,63 +38105,6 @@
   },
   "nophoto": "no free photo of Bosch Limited; quick_photo, finder h0708 found none"
  },
- "delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three": {
-  "id": "i-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three",
-  "src": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-en-3x2-1280.jpg",
-  "src800": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Four days of very poor or severe air",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: चार दिन बेहद खराब या गंभीर हवा",
-  "page": null,
-  "ihash": "f0d3bccb86b4",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-en-t-1280.jpg",
-    "src800": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-hi-t-1280.jpg",
-    "src800": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-en-1280.jpg",
-    "src800": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-hi-1280.jpg",
-    "src800": "/photos/i2-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-three-hi-640.jpg"
-   }
-  },
-  "nophoto": "every Delhi smog photo used within 7 days; quick_photo, finder h0708 delhismog-0 to -7",
-  "treated": {
-   "src": "/photos/t-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-thr-1280.jpg",
-   "src800": "/photos/t-delhi-diwali-eve-air-very-poor-green-cracker-window-grap-thr-640.jpg",
-   "cutout": false,
-   "with": [
-    "delhi-aqi-223-thursday-jahangirpuri-very-poor",
-    "delhi-grap-stage-three-aqi-382-caqm",
-    "supreme-court-firecrackers-religion-caqm-suggestions",
-    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023"
-   ],
-   "kind": "scenes",
-   "subj": "ffffffff1e000000",
-   "credit": "Photos: Prami.ap90 / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Sumitmpsd / Wikimedia Commons"
-  }
- },
  "nz-election-polling-day-luxon-hipkins-polls-close-7pm": {
   "id": "o-nz-election-polling-day-luxon-hipkins-polls-close-7pm",
   "src": "/photos/o-nz-election-polling-day-luxon-hipkins-polls-close-7pm-1280.jpg",
@@ -39585,19 +38117,6 @@
   "alt": "Christopher Luxon (file photo)",
   "alt_hi": "क्रिस्टोफ़र लक्सन (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:LUXON,_Christopher_-_Botany_(cropped).jpg"
- },
- "vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti": {
-  "id": "o-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti",
-  "src": "/photos/o-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti-1280.jpg",
-  "src800": "/photos/o-vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 1332,
-  "credit": "Photo: Vice President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "C. P. Radhakrishnan (file photo)",
-  "alt_hi": "सी. पी. राधाकृष्णन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_C_P_Radhakrishnan,_Honourable_Vice_President_of_India.jpg"
  },
  "sebi-settlement-regulations-2026-in-force-online-facility-fees": {
   "id": "o-sebi-settlement-regulations-2026-in-force-online-facility-fees",
@@ -39686,63 +38205,6 @@
   "alt": "Chris Hipkins, leader of New Zealand's Labour Party (file photo)",
   "alt_hi": "न्यूजीलैंड की लेबर पार्टी के नेता क्रिस हिपकिंस (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Chris_Hipkins_2026_original.jpg"
- },
- "delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast": {
-  "id": "i-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast",
-  "src": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-3x2-1280.jpg",
-  "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Delhi air eases a little, still very poor",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दिल्ली की हवा थोड़ी सुधरी, अब भी बहुत खराब",
-  "page": null,
-  "ihash": "2de48fe5a62c",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-t-1280.jpg",
-    "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-t-1280.jpg",
-    "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-1280.jpg",
-    "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-1280.jpg",
-    "src800": "/photos/i2-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-hi-640.jpg"
-   }
-  },
-  "nophoto": "no correct unused ground-level Delhi smog photo: every Delhi smog photo in finder h0710 used within 7 days; satellite image rejected by the editor",
-  "treated": {
-   "src": "/photos/t-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-1280.jpg",
-   "src800": "/photos/t-delhi-aqi-364-8am-diwali-eve-iitm-severe-forecast-640.jpg",
-   "cutout": false,
-   "with": [
-    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-    "delhi-grap-stage-three-aqi-382-caqm",
-    "supreme-court-delhi-pollution-hearing-peoples-movement-cji",
-    "delhi-aqi-161-dussehra-morning-moderate"
-   ],
-   "kind": "scenes",
-   "subj": "ffffffdf87030000",
-   "credit": "Photos: Sumitmpsd / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Ville Miettinen from Helsinki, Finland / Wikimedia Commons"
-  }
  },
  "punjab-paddy-procurement-record-150-lmt-kataruchak": {
   "id": "i-punjab-paddy-procurement-record-150-lmt-kataruchak",
@@ -40560,49 +39022,6 @@
   },
   "nophoto": "Hipkins quick_photo rejected (cropped, trailing leader); Luxon library photo inside 7 days; finder unavailable (GitHub Actions jobs failing)"
  },
- "adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open": {
-  "id": "i-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open",
-  "src": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-en-3x2-1280.jpg",
-  "src800": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: First all-Indian pair in a WTA Tour doubles final",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: डब्ल्यूटीए टूर डबल्स फाइनल में पहली भारतीय जोड़ी",
-  "page": null,
-  "ihash": "ab0ef86c8bcf",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-en-t-1280.jpg",
-    "src800": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-hi-t-1280.jpg",
-    "src800": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-en-1280.jpg",
-    "src800": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-hi-1280.jpg",
-    "src800": "/photos/i2-adkar-bhosale-first-all-indian-pair-wta-tour-doubles-final-chennai-open-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Vaishnavi Adkar or Rutuja Bhosale; library, quick_photo found none; photo finder unavailable (GitHub Actions down)"
- },
  "istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31": {
   "id": "i-istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31",
   "src": "/photos/i2-istanbul-seymen-landfill-methane-7-4-tonnes-hour-satellites-cop31-en-3x2-1280.jpg",
@@ -41276,49 +39695,6 @@
   },
   "nophoto": "no free photo of Vaishnavi Adkar and Rutuja Bhosale; library, quick_photo, finder h0806 (GitHub Actions failing)"
  },
- "yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan": {
-  "id": "i-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan",
-  "src": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-en-3x2-1280.jpg",
-  "src800": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Yogi's Diwali morning plan",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: योगी की दिवाली की सुबह का कार्यक्रम",
-  "page": null,
-  "ihash": "59a94f6843a1",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-hi-3x2-1280.jpg",
-    "src800": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-en-t-1280.jpg",
-    "src800": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-hi-t-1280.jpg",
-    "src800": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-en-1280.jpg",
-    "src800": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-hi-1280.jpg",
-    "src800": "/photos/i2-yogi-adityanath-diwali-ayodhya-hanumangarhi-janmabhoomi-nishad-basti-milan-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Yogi Adityanath (library portraits inside 7 days); library, quick_photo, finder h0806 (GitHub Actions failing)"
- },
  "e20-petrol-explained-ethanol-blend-karnataka-row": {
   "id": "r-e20-petrol-explained-ethanol-blend-karnataka-row",
   "src": "/photos/r-e20-petrol-explained-ethanol-blend-karnataka-row-1280.jpg",
@@ -41689,31 +40065,6 @@
    "kind": "portrait",
    "subj": "18183878fcfdff",
    "credit": "Photo: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0"
-  }
- },
- "rajnath-singh-reaches-sherathang-diwali-nathu-la": {
-  "id": "o-rajnath-singh-reaches-sherathang-diwali-nathu-la",
-  "src": "/photos/o-rajnath-singh-reaches-sherathang-diwali-nathu-la-1280.jpg",
-  "src800": "/photos/o-rajnath-singh-reaches-sherathang-diwali-nathu-la-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 2200,
-  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Defence Minister Rajnath Singh in March 2026 (file photo)",
-  "alt_hi": "रक्षा मंत्री राजनाथ सिंह, मार्च 2026 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_Defence,_Shri_Rajnath_Singh_in_March_2026.jpg",
-  "treated": {
-   "src": "/photos/t-rajnath-singh-reaches-sherathang-diwali-nathu-la-1280.jpg",
-   "src800": "/photos/t-rajnath-singh-reaches-sherathang-diwali-nathu-la-640.jpg",
-   "cutout": true,
-   "with": [
-    "china-q3-gdp-grows-4-5-per-cent-beats-forecast",
-    "china-q3-gdp-data-due-today-asia-rates-week"
-   ],
-   "kind": "photo",
-   "subj": "fffff1f1e0e2e2e2",
-   "credit": "Photos: Ministry of Defence / Wikimedia Commons; N509FZ / Wikimedia Commons"
   }
  },
  "yogi-diwali-nishad-settlement-ayodhya-bullets-remark": {
@@ -42219,49 +40570,6 @@
   },
   "nophoto": "no AIIMS New Delhi photo in quick_photo; finder h0816 failed"
  },
- "india-u19-pakistan-208-arjun-rajput-century-asia-cup": {
-  "id": "i-india-u19-pakistan-208-arjun-rajput-century-asia-cup",
-  "src": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-en-3x2-1280.jpg",
-  "src800": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Rajput's 107 rescues India",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: राजपूत के 107 ने भारत को संभाला",
-  "page": null,
-  "ihash": "36a5878ba948",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-hi-3x2-1280.jpg",
-    "src800": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-en-t-1280.jpg",
-    "src800": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-hi-t-1280.jpg",
-    "src800": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-en-1280.jpg",
-    "src800": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-hi-1280.jpg",
-    "src800": "/photos/i-india-u19-pakistan-208-arjun-rajput-century-asia-cup-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Arjun Rajput or India U19; library, quick_photo, finder h0816 failed"
- },
  "rajnath-singh-sherathang-soldiers-brightest-lights-diwali": {
   "id": "o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali",
   "src": "/photos/o-rajnath-singh-sherathang-soldiers-brightest-lights-diwali-1280.jpg",
@@ -42717,32 +41025,6 @@
    "kind": "photo",
    "subj": "38f8dcdeccde8703",
    "credit": "Photos: Gage Skidmore / Wikimedia Commons; Amohammadid / Wikimedia Commons; Safa.daneshvar / Wikimedia Commons; Martin Falbisoner / Wikimedia Commons"
-  }
- },
- "delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three": {
-  "id": "o-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three",
-  "src": "/photos/o-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-1280.jpg",
-  "src800": "/photos/o-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-640.jpg",
-  "width": 1280,
-  "height": 560,
-  "srcWidth": 1280,
-  "credit": "Photo: Prami.ap90 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Smog over Delhi's skyline (file photo)",
-  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Delhi_air_pollution_2019.jpg",
-  "treated": {
-   "src": "/photos/t-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-1280.jpg",
-   "src800": "/photos/t-delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three-640.jpg",
-   "cutout": false,
-   "with": [
-    "delhi-grap-stage-three-aqi-382-caqm",
-    "delhi-air-monitors-that-go-blank-on-the-worst-night",
-    "railtel-q2-profit-falls-10-per-cent-rs-1-dividend"
-   ],
-   "kind": "photo",
-   "subj": "fffffffc00000000",
-   "credit": "Photos: Prami.ap90 / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Likhith N.P / Wikimedia Commons"
   }
  },
  "nvidia-board-investigation-jensen-huang-megaspeed-congress-briefing-november-18": {
@@ -43781,32 +42063,6 @@
    "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; Nikhilb239 / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
   }
  },
- "hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match": {
-  "id": "o-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match",
-  "src": "/photos/o-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-1280.jpg",
-  "src800": "/photos/o-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-640.jpg",
-  "width": 1280,
-  "height": 576,
-  "srcWidth": 4000,
-  "credit": "Photo: JaumeBG / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Seddon Park, Hamilton, the venue for the third ODI (file photo)",
-  "alt_hi": "हैमिल्टन का सेडन पार्क, तीसरे वनडे का मैदान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Seddon_Park.jpg",
-  "treated": {
-   "src": "/photos/t-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-1280.jpg",
-   "src800": "/photos/t-hamilton-third-odi-india-nz-rain-seam-pitch-gill-last-match-640.jpg",
-   "cutout": false,
-   "with": [
-    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
-    "nepali-congress-cancels-kojagrat-purnima-tea-floods",
-    "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart"
-   ],
-   "kind": "photo",
-   "subj": "ffffffff7f000000",
-   "credit": "Photos: JaumeBG / Wikimedia Commons; Phillip Capper / Wikimedia Commons; Gaurav Dhwaj Khadka / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons"
-  }
- },
  "turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing": {
   "id": "i-turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing",
   "src": "/photos/i-turkey-habas-steel-plant-aliaga-explosion-10-dead-4-missing-en-3x2-1280.jpg",
@@ -44220,28 +42476,6 @@
    "kind": "photo",
    "subj": "7f7ffff0c0000000",
    "credit": "Photos: BSEINDIA / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons; Nick Gray / Wikimedia Commons; Wikimedia commons / Wikimedia Commons"
-  }
- },
- "swachh-survekshan-2025-26-awards-president-murmu-november-11": {
-  "id": "o-swachh-survekshan-2025-26-awards-president-murmu-november-11",
-  "src": "/photos/o-swachh-survekshan-2025-26-awards-president-murmu-november-11-1280.jpg",
-  "src800": "/photos/o-swachh-survekshan-2025-26-awards-president-murmu-november-11-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 3678,
-  "credit": "Photo: President's Secretariat / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Droupadi Murmu (file photo)",
-  "alt_hi": "द्रौपदी मुर्मू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Droupadi_Murmu_official_portrait,_2022.jpg",
-  "treated": {
-   "src": "/photos/t-swachh-survekshan-2025-26-awards-president-murmu-november-11-1280.jpg",
-   "src800": "/photos/t-swachh-survekshan-2025-26-awards-president-murmu-november-11-640.jpg",
-   "cutout": true,
-   "with": [],
-   "kind": "photo",
-   "subj": "c7c7c7c7c7c7c7e7",
-   "credit": "Photo: President's Secretariat / Wikimedia Commons"
   }
  },
  "amit-shah-ahmedabad-1400-crore-projects-ramapir-no-tekro": {
@@ -46500,32 +44734,6 @@
    "credit": "Photos: PIB; ArmouredCyborg / Wikimedia Commons; Shoonyea / Wikimedia Commons"
   }
  },
- "rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi": {
-  "id": "o-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi",
-  "src": "/photos/o-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-1280.jpg",
-  "src800": "/photos/o-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 1496,
-  "credit": "Photo: Dave Morton / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Pakistan fast bowler Mohammad Abbas (file photo)",
-  "alt_hi": "पाकिस्तान के तेज़ गेंदबाज़ मोहम्मद अब्बास (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:1_39_Mo_Abbas_mugshot.jpg",
-  "treated": {
-   "src": "/photos/t-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-b-1280.jpg",
-   "src800": "/photos/t-rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-b-640.jpg",
-   "cutout": true,
-   "with": [
-    "pakistan-afghanistan-trade-halt-exporters-torkham-losses",
-    "pakistan-cuts-petrol-price-rs-3-93-daily-pricing",
-    "renshaw-puts-australia-on-top-in-durban-test"
-   ],
-   "kind": "photo",
-   "subj": "100c08c1e3e1e1f",
-   "credit": "Photos: Dave Morton / Wikimedia Commons; Sgt. Margaret Taylor / Wikimedia Commons; Sunni Person / Wikimedia Commons; Marc Forrest / Wikimedia Commons"
-  }
- },
  "kulgam-crpf-naka-attack-three-injured-nov-11": {
   "id": "i-kulgam-crpf-naka-attack-three-injured-nov-11",
   "src": "/photos/i-kulgam-crpf-naka-attack-three-injured-nov-11-en-3x2-1280.jpg",
@@ -46593,32 +44801,6 @@
    "kind": "photo",
    "subj": "8181e9c9cbc3c3c",
    "credit": "Photos: Captgs / Wikimedia Commons; Yercaud-elango / Wikimedia Commons; Bnarayan22 / Wikimedia Commons; Nikhilb239 / Wikimedia Commons"
-  }
- },
- "modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview": {
-  "id": "o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview",
-  "src": "/photos/o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview-1280.jpg",
-  "src800": "/photos/o-modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 1161,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg",
-  "treated": {
-   "src": "/photos/t-modi-karnataka-gujarat-visit-november-13-14-15600-crore-proj-1280.jpg",
-   "src800": "/photos/t-modi-karnataka-gujarat-visit-november-13-14-15600-crore-proj-640.jpg",
-   "cutout": true,
-   "with": [
-    "karnataka-mlc-polls-four-council-seats-voting",
-    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1",
-    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro"
-   ],
-   "kind": "portrait",
-   "subj": "18183878fcfdff",
-   "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Moheen Reeyad / Wikimedia Commons; SpeakingArch / Wikimedia Commons; Qurren / Wikimedia Commons"
   }
  },
  "nepal-pm-shah-india-visit-november-22-25-modi-talks-aid": {
@@ -46878,32 +45060,6 @@
    "kind": "portrait",
    "subj": "f7e3e3e3c3c1c1c1",
    "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; duncid / Wikimedia Commons; Noclip / Wikimedia Commons; Vujn at en.wikipedia / Wikimedia Commons"
-  }
- },
- "cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview": {
-  "id": "o-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview",
-  "src": "/photos/o-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview-1280.jpg",
-  "src800": "/photos/o-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview-640.jpg",
-  "width": 1280,
-  "height": 852,
-  "srcWidth": 1018,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg",
-  "treated": {
-   "src": "/photos/t-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-1280.jpg",
-   "src800": "/photos/t-cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-640.jpg",
-   "cutout": true,
-   "with": [
-    "results-today-infosys-bpcl-indusind-jsw-steel-october-23",
-    "school-buildings-need-safety-audits-before-the-next-roof-falls",
-    "bhashini-10-billion-inferences-etd-2026-iit-delhi"
-   ],
-   "kind": "photo",
-   "subj": "c7c3c3c3c3c38707",
-   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Manishontop02 / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons; Azanti / Wikimedia Commons"
   }
  },
  "delhi-aqi-319-thursday-iit-delhi-413-severe-36-stations-above-300": {
@@ -48448,32 +46604,6 @@
   },
   "nophoto": "no free photo of Mastung or the blast site; library, quick_photo, finder h1306 and h1306b (maps and landscapes only)"
  },
- "modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead": {
-  "id": "v-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead",
-  "src": "/photos/v-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-1280.jpg",
-  "src800": "/photos/v-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-640.jpg",
-  "width": 1280,
-  "height": 800,
-  "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons",
-  "licence": "GODL-India and CC BY 2.0",
-  "alt": "Narendra Modi and a Namma Metro train in Bengaluru (file photos)",
-  "alt_hi": "नरेंद्र मोदी और बेंगलुरु की नम्मा मेट्रो ट्रेन (फ़ाइल फ़ोटो)",
-  "page": null,
-  "srcWidth": 1280,
-  "treated": {
-   "src": "/photos/t-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-1280.jpg",
-   "src800": "/photos/t-modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead-640.jpg",
-   "cutout": true,
-   "with": [
-    "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-    "wipro-guidance-december-quarter-large-deals-fall",
-    "sensex-nifty-close-november-2--p3"
-   ],
-   "kind": "photo",
-   "subj": "fffbb99b91f0e000",
-   "credit": "Photos: Government of India / Wikimedia Commons; Abhilash Ramachandran from Bengaluru, India / Wikimedia Commons; KshitizBathwal / Skyscape Photography / Wikimedia Commons; Rameshng / Wikimedia Commons; Manishontop02 / Wikimedia Commons"
-  }
- },
  "wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march": {
   "id": "o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march",
   "src": "/photos/o-wangchuk-house-arrest-leh-hill-council-polls-kda-candle-march-1280.jpg",
@@ -49214,49 +47344,6 @@
    "credit": "Photos: Jaypee / Wikimedia Commons; Consulate General of India in New York USA, Government of India / Wikimedia Commons; Notmyrealnamesorry / Wikimedia Commons; Alizmohsin / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
   }
  },
- "kaziranga-rongajan-minibus-container-truck-collision-23-dead": {
-  "id": "i-kaziranga-rongajan-minibus-container-truck-collision-23-dead",
-  "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-3x2-1280.jpg",
-  "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: 23 killed in head-on crash near Kaziranga",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: काजीरंगा के पास आमने-सामने टक्कर, 23 की मौत",
-  "page": null,
-  "ihash": "e64cd20fb7fd",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-3x2-1280.jpg",
-    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-t-1280.jpg",
-    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-t-1280.jpg",
-    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-1280.jpg",
-    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-1280.jpg",
-    "src800": "/photos/i-kaziranga-rongajan-minibus-container-truck-collision-23-dead-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of the Rongajan crash or any Northeast bus crash; library, quick_photo, finder h1320"
- },
  "forex-reserves-rise-719-billion-november-6-gold": {
   "id": "r-forex-reserves-rise-719-billion-november-6-gold",
   "src": "/photos/r-forex-reserves-rise-719-billion-november-6-gold-1280.jpg",
@@ -49600,32 +47687,6 @@
   "alt_hi": "श्रेयस अय्यर (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Captain_Shreyas_Iyer_(Sarpanch_Sahab)_in_T20.jpg"
  },
- "odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled": {
-  "id": "o-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled",
-  "src": "/photos/o-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled-1280.jpg",
-  "src800": "/photos/o-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-cancelled-640.jpg",
-  "width": 1280,
-  "height": 854,
-  "srcWidth": 4496,
-  "credit": "Photo: Bikash Ojha / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Uprooted trees and damaged power lines on a road in Odisha after Cyclone Fani in 2019 (file photo)",
-  "alt_hi": "2019 में चक्रवात फणि के बाद ओडिशा की एक सड़क पर उखड़े पेड़ और टूटे बिजली के खंभे (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_2.jpg",
-  "treated": {
-   "src": "/photos/t-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-1280.jpg",
-   "src800": "/photos/t-odisha-bay-of-bengal-low-pressure-cyclone-akvan-ganjam-leave-640.jpg",
-   "cutout": false,
-   "with": [
-    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2",
-    "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
-    "odisha-india-chem-2026-investment-intents"
-   ],
-   "kind": "photo",
-   "subj": "7f3f3f270000043f",
-   "credit": "Photos: Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons"
-  }
- },
  "bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms": {
   "id": "o-bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms",
   "src": "/photos/o-bangladesh-india-consular-dialogue-postponed-jaiswal-structured-mechanisms-1280.jpg",
@@ -49649,32 +47710,6 @@
    "kind": "photo",
    "subj": "e7c7cffefe811100",
    "credit": "Photos: Consulate General of India in New York USA, Government of India / Wikimedia Commons; Arupparia / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons"
-  }
- },
- "akvan-track-uncertain-andhra-odisha-imd-saturday": {
-  "id": "o-akvan-track-uncertain-andhra-odisha-imd-saturday",
-  "src": "/photos/o-akvan-track-uncertain-andhra-odisha-imd-saturday-1280.jpg",
-  "src800": "/photos/o-akvan-track-uncertain-andhra-odisha-imd-saturday-640.jpg",
-  "width": 1280,
-  "height": 854,
-  "srcWidth": 4496,
-  "credit": "Photo: Bikash Ojha / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Trees and power poles brought down by Cyclone Fani in Odisha, May 2019 (file photo)",
-  "alt_hi": "ओडिशा में चक्रवात फानी से गिरे पेड़ और बिजली के खंभे, मई 2019 (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_3.jpg",
-  "treated": {
-   "src": "/photos/t-akvan-track-uncertain-andhra-odisha-imd-saturday-1280.jpg",
-   "src800": "/photos/t-akvan-track-uncertain-andhra-odisha-imd-saturday-640.jpg",
-   "cutout": false,
-   "with": [
-    "iom-south-asia-40-million-climate-displacement",
-    "bangladesh-per-capita-gdp-overtakes-india-imf-2026",
-    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2"
-   ],
-   "kind": "photo",
-   "subj": "ffffff7a00001820",
-   "credit": "Photos: Bikash Ojha / Wikimedia Commons; Nahid.rajbd / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
   }
  },
  "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027": {
@@ -50299,32 +48334,6 @@
    "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Snehrashmi / Wikimedia Commons; Atul Tegar / Wikimedia Commons"
   }
  },
- "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight": {
-  "id": "o-starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight",
-  "src": "/photos/o-starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight-1280.jpg",
-  "src800": "/photos/o-starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 3072,
-  "credit": "Photo: Hotel Pika / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "SpaceX Starship and Super Heavy booster stacked at the Starbase launch tower, Texas (file photo)",
-  "alt_hi": "टेक्सास के स्टारबेस लॉन्च टावर पर खड़ा स्पेसएक्स स्टारशिप और सुपर हेवी बूस्टर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Starship_full_stack_with_Jeep.jpg",
-  "treated": {
-   "src": "/photos/t-starship-flight-15-booster-catch-aborted-ship-orbit-catch-du-1280.jpg",
-   "src800": "/photos/t-starship-flight-15-booster-catch-aborted-ship-orbit-catch-du-640.jpg",
-   "cutout": true,
-   "with": [
-    "starlink-waits-on-security-clearance-as-musk-row-escalates",
-    "bennu-samples-hybrid-inner-outer-solar-system-eth-zurich",
-    "india-to-join-siofa-high-seas-fisheries"
-   ],
-   "kind": "photo",
-   "subj": "38f8f8fcfdfc3c",
-   "credit": "Photos: Hotel Pika / Wikimedia Commons; Ka23 13 / Wikimedia Commons; NASA/Goddard/University of Arizona / Wikimedia Commons; U.S. Navy photo / Wikimedia Commons"
-  }
- },
  "patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore": {
   "id": "i-patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore",
   "src": "/photos/i-patanjali-foods-q2-profit-falls-19-per-cent-revenue-11323-crore-en-3x2-1280.jpg",
@@ -50719,32 +48728,6 @@
   },
   "nophoto": "no free photo of Mobikwik, its office or founders; library, quick_photo (MobiKwik, Bipin Preet Singh); the only RBI photo free under the 48-hour rule is a sideways shot, blocklisted"
  },
- "akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21": {
-  "id": "o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21",
-  "src": "/photos/o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21-1280.jpg",
-  "src800": "/photos/o-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings-nov-19-21-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "srcWidth": 4032,
-  "credit": "Photo: Th3Snehasish / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Trees uprooted by Cyclone Fani near Narendra Pushkarini in Puri, Odisha, May 2019 (file photo)",
-  "alt_hi": "पुरी, ओडिशा में नरेंद्र पुष्करिणी के पास चक्रवात फणि से उखड़े पेड़, मई 2019 (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Uprooted_Trees_due_to_Cyclone_Fani_near_Narendra_Puskarini,_Puri..jpg",
-  "treated": {
-   "src": "/photos/t-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings--1280.jpg",
-   "src800": "/photos/t-akvan-severe-cyclone-forecast-nov-18-odisha-orange-warnings--640.jpg",
-   "cutout": false,
-   "with": [
-    "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
-    "odisha-india-chem-2026-investment-intents",
-    "nepali-congress-cancels-kojagrat-purnima-tea-floods"
-   ],
-   "kind": "photo",
-   "subj": "fbfdf8f8e00000e0",
-   "credit": "Photos: Th3Snehasish / Wikimedia Commons; Kritzolina / Wikimedia Commons; OdishaLive / Wikimedia Commons; Gaurav Dhwaj Khadka / Wikimedia Commons"
-  }
- },
  "nasa-opens-astronaut-applications-december-3-deadline": {
   "id": "o-nasa-opens-astronaut-applications-december-3-deadline",
   "src": "/photos/o-nasa-opens-astronaut-applications-december-3-deadline-1280.jpg",
@@ -51039,32 +49022,6 @@
    "kind": "photo",
    "subj": "1800c3e3e3e3e3",
    "credit": "Photos: Richter Frank-Jurgen / Wikimedia Commons; Pinakpani / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Gppande / Wikimedia Commons"
-  }
- },
- "modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore": {
-  "id": "o-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore",
-  "src": "/photos/o-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore-1280.jpg",
-  "src800": "/photos/o-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 1276,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg",
-  "treated": {
-   "src": "/photos/t-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3-1280.jpg",
-   "src800": "/photos/t-modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3-640.jpg",
-   "cutout": true,
-   "with": [
-    "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
-    "sensex-nifty-close-october-22-crude-110-west-asia",
-    "hcltech-q2-profit-rises-21-raises-revenue-guidance"
-   ],
-   "kind": "portrait",
-   "subj": "ffe7c3c3e7e7d181",
-   "credit": "Photos: Government of India / Wikimedia Commons; Jishnu12684 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Itsbilluid / Wikimedia Commons"
   }
  },
  "manipur-new-heaven-ukhrul-ambush-four-killed-khemchand-security-review": {
@@ -51451,57 +49408,6 @@
    "credit": "Photos: U.S. Embassy Jerusalem / Wikimedia Commons; Ввласенко / Wikimedia Commons; Shyam peelery / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons"
   }
  },
- "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters": {
-  "id": "r-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters",
-  "src": "/photos/r-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters-1280.jpg",
-  "src800": "/photos/r-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters-640.jpg",
-  "width": 1280,
-  "height": 984,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Prime Minister Narendra Modi with officials (file photo)",
-  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी अधिकारियों के साथ (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_fills_out_the_self-enumeration_for_Census_2027.jpg",
-  "treated": {
-   "src": "/photos/t-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-fre-1280.jpg",
-   "src800": "/photos/t-modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-fre-640.jpg",
-   "cutout": false,
-   "with": [
-    "cameroon-mrc-elects-tiriane-noah-first-woman-leader",
-    "cbi-arrests-ed-officials-lucknow-5-lakh-bribe",
-    "iran-summons-uk-envoy-fairford-false-flag"
-   ],
-   "kind": "photo",
-   "subj": "fefefae7c3e0f0e0",
-   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Ryanvanhuyssteen / Wikimedia Commons; Pulakit Singh / Wikimedia Commons; Colin Cooke Photo / Wikimedia Commons"
-  }
- },
- "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return": {
-  "id": "o-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-  "src": "/photos/o-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return-1280.jpg",
-  "src800": "/photos/o-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return-640.jpg",
-  "width": 1280,
-  "height": 850,
-  "srcWidth": 1200,
-  "credit": "Photo: Indian Navy / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Trees and power lines brought down in Visakhapatnam on the north Andhra coast by Cyclone Hudhud in October 2014 (file photo)",
-  "alt_hi": "अक्टूबर 2014 में चक्रवात हुदहुद से उत्तर आंध्र तट पर विशाखापत्तनम में गिरे पेड़ और बिजली के खंभे (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_destruction_in_Visakhapatnam.jpg",
-  "treated": {
-   "src": "/photos/t-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fish-1280.jpg",
-   "src800": "/photos/t-akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fish-640.jpg",
-   "cutout": false,
-   "with": [
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "andhra-local-polls-must-start-with-free-nominations",
-    "cabinet-approves-integrated-transport-logistics-authority"
-   ],
-   "kind": "photo",
-   "subj": "3c3c3c3c3c3c3c3c",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Saankav / Wikimedia Commons"
-  }
- },
  "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment": {
   "id": "i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
   "src": "/photos/i-sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment-en-3x2-1280.jpg",
@@ -51775,32 +49681,6 @@
    }
   },
   "nophoto": "48-hour rule: every D. K. Shivakumar library portrait used in the last 48 hours; library, quick_photo"
- },
- "akvan-depression-forms-severe-cyclone-nov-17-imd-sunday": {
-  "id": "o-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday",
-  "src": "/photos/o-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday-1280.jpg",
-  "src800": "/photos/o-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "srcWidth": 1200,
-  "credit": "Photo: Indian Navy / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Rough sea at Visakhapatnam during Cyclone Hudhud, 2014 (file photo)",
-  "alt_hi": "2014 में चक्रवात हुदहुद के दौरान विशाखापत्तनम में उफनता समुद्र (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(2).jpg",
-  "treated": {
-   "src": "/photos/t-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday-1280.jpg",
-   "src800": "/photos/t-akvan-depression-forms-severe-cyclone-nov-17-imd-sunday-640.jpg",
-   "cutout": false,
-   "with": [
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
-    "majhi-appointment-letters-2067-tribal-language-teachers--p2"
-   ],
-   "kind": "photo",
-   "subj": "ffffffff21000000",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
-  }
  },
  "cti-air-purifier-gst-cut-sitharaman-delhi-aqi": {
   "id": "o-cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
@@ -52381,31 +50261,6 @@
    "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons; Hawkeye190305 / Wikimedia Commons"
   }
  },
- "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening": {
-  "id": "r-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-  "src": "/photos/r-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening-1280.jpg",
-  "src800": "/photos/r-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening-640.jpg",
-  "width": 1280,
-  "height": 719,
-  "credit": "Photo: Channel Aid (channelaid89) / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "A house in Andhra Pradesh destroyed by an earlier cyclone (file photo)",
-  "alt_hi": "आंध्र प्रदेश में पिछले चक्रवात से ढहा एक घर (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Montha_house_damage.png",
-  "treated": {
-   "src": "/photos/t-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening-1280.jpg",
-   "src800": "/photos/t-akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening-640.jpg",
-   "cutout": false,
-   "with": [
-    "murasu-andhra-damage-1919-crore-naidu-bapatla-guntur",
-    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
-    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2"
-   ],
-   "kind": "photo",
-   "subj": "f2e0e0c08180387d",
-   "credit": "Photos: Channel Aid (channelaid89) / Wikimedia Commons; Saiphani02 / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons"
-  }
- },
  "modi-tribals-full-rights-over-bamboo-claim": {
   "id": "o-modi-tribals-full-rights-over-bamboo-claim",
   "src": "/photos/o-modi-tribals-full-rights-over-bamboo-claim-1280.jpg",
@@ -52592,32 +50447,6 @@
   "alt": "Nirmala Sitharaman (file photo)",
   "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg"
- },
- "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports": {
-  "id": "o-akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
-  "src": "/photos/o-akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports-1280.jpg",
-  "src800": "/photos/o-akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "srcWidth": 900,
-  "credit": "Photo: Indian Navy / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Ships in a storm-lashed harbour near Visakhapatnam during Cyclone Hudhud (file photo)",
-  "alt_hi": "चक्रवात हुदहुद के दौरान विशाखापत्तनम के पास तूफ़ान से घिरे बंदरगाह में जहाज़ (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(1).jpg",
-  "treated": {
-   "src": "/photos/t-akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-1280.jpg",
-   "src800": "/photos/t-akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-640.jpg",
-   "cutout": false,
-   "with": [
-    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-    "naidu-cyclone-murasu-review-cancels-delhi-visit--p1",
-    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance"
-   ],
-   "kind": "photo",
-   "subj": "ffffffff33000000",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; IM3847 / Wikimedia Commons; Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 / Wikimedia Commons"
-  }
  },
  "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports--p1": {
   "id": "o-akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports--p1",
@@ -52822,32 +50651,6 @@
    "kind": "photo",
    "subj": "f000054bcfe7e06",
    "credit": "Photos: Goutam1962 / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
-  }
- },
- "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21": {
-  "id": "v-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov",
-  "src": "/photos/v-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-1280.jpg",
-  "src800": "/photos/v-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-640.jpg",
-  "width": 1280,
-  "height": 800,
-  "credit": "Photos: Indian Navy / Wikimedia Commons; Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
-  "licence": "GODL-India and CC BY-SA 4.0 and Public domain",
-  "alt": "Rough sea at Visakhapatnam, fallen trees in Odisha and a satellite view of a Bay of Bengal cyclone (file photos)",
-  "alt_hi": "विशाखापत्तनम में उफनता समंदर, ओडिशा में गिरे पेड़ और बंगाल की खाड़ी के चक्रवात की उपग्रह तस्वीर (फाइल फोटो)",
-  "page": null,
-  "srcWidth": 1280,
-  "treated": {
-   "src": "/photos/t-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-1280.jpg",
-   "src800": "/photos/t-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-640.jpg",
-   "cutout": false,
-   "with": [
-    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2",
-    "puducherry-karaikal-dindigul-schools-shut-cyclone-signal"
-   ],
-   "kind": "photo",
-   "subj": "fbffffc707070001",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons"
   }
  },
  "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses": {

@@ -38,7 +38,7 @@ infographic:
     - {icon: gas-pump, value: "80,000 t", label: "LPG cavern at Mangaluru"}
     - {icon: lightning, value: "₹10,370 cr", label: "four power transmission schemes"}
   source: "Prime Minister's Office release, November 11, 2026"
-related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, modi-karnataka-gujarat-visit-today-bengaluru-mysuru-lead, trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz, hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, commercial-lpg-up-rs-10-delhi-2820-third-straight-hike, cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, modi-bengaluru-prashanti-kutiram-jubilee-speech-pink-line-next, trump-gulf-allies-hold-off-iran-strikes-gas-carrier-mine-hormuz, hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, commercial-lpg-up-rs-10-delhi-2820-third-straight-hike, modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre]
 seo:
   title: "Modi opens India's largest LPG cavern, cites Gulf war"
   description: "At the ₹15,600 crore Bengaluru event on November 13, PM Modi dedicated an 80,000-tonne underground LPG cavern and linked the Gulf conflict to energy security."
@@ -127,4 +127,4 @@ For Karnataka's renewable sector, the **4.5 GW of evacuation capacity** inaugura
 
 ## What happens next
 
-The first six elevated Pink Line stations, from Kalena Agrahara to S.G. Palya, open to passengers on **Saturday, November 14, 2026**, according to reports. Modi then travels to Gujarat. At about 3:30 pm on Friday he was scheduled to inaugurate the COSMOS-Mysuru planetarium; our [preview](/en/news/cosmos-mysuru-planetarium-led-dome-modi-inaugurates-november-13-preview) has the details. Regular Vande Bharat service to Goa starts on November 15. The text of the Prime Minister's address had not been released when this was written; the Office usually posts it on the day.
+The first six elevated Pink Line stations, from Kalena Agrahara to S.G. Palya, open to passengers on **Saturday, November 14, 2026**, according to reports. Modi then travels to Gujarat. At about 3:30 pm on Friday he was scheduled to inaugurate the COSMOS-Mysuru planetarium; our [preview](/en/news/modi-mysuru-cosmos-planetarium-inaugurated-sitharaman-sky-theatre) has the details. Regular Vande Bharat service to Goa starts on November 15. The text of the Prime Minister's address had not been released when this was written; the Office usually posts it on the day.

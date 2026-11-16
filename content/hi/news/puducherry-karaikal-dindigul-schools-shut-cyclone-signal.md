@@ -21,7 +21,7 @@ hero:
   alt: "पुडुचेरी का प्रोमेनेड बीच"
   overlay:
     value: "पुडुचेरी बंदरगाह पर सिग्नल नंबर 1"
-related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
+related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "पुडुचेरी और कराईकल में स्कूल-कॉलेज और डिंडीगुल में स्कूल सोमवार 26 अक्टूबर को बंद हैं। पुडुचेरी बंदरगाह पर चक्रवात चेतावनी सिग्नल नंबर 1 लगाया गया है।"
 sources:

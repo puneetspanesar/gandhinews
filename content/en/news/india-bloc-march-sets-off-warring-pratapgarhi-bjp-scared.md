@@ -20,7 +20,7 @@ hero:
   alt: "Congress MPs Imran Pratapgarhi and Amarinder Singh Raja Warring"
   overlay:
     value: "'The entire BJP is scared'"
-related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
+related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
   description: "INDIA bloc rally, November 1, 2026: opposition leaders join the march to Ramlila Maidan as Congress MPs Imran Pratapgarhi and Raja Warring attack the BJP over CEC Gyanesh Kumar and its 1984 riots march."
 sources:

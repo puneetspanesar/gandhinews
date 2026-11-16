@@ -17,7 +17,7 @@ hero:
   alt: "नई दिल्ली में भारत मौसम विज्ञान विभाग का मुख्यालय मौसम भवन"
   overlay:
     value: "62 किमी/घंटा पर चक्रवात"
-related: [bay-of-bengal-depression-october-25-odisha-fishermen-warning, bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain, chennai-rain-schools-shut-four-districts-low-pressure]
+related: [bay-of-bengal-depression-october-25-odisha-fishermen-warning, chennai-rain-schools-shut-four-districts-low-pressure]
 seo:
   description: "निम्न दबाव, अवदाब और गहरा अवदाब क्या है, किस हवा की रफ्तार पर आईएमडी किसी सिस्टम को चक्रवात कहता है, और चक्रवात की निगरानी व चेतावनी कैसे काम करती है।"
 sources:

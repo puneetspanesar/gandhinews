@@ -30,7 +30,7 @@ infographic:
     - {icon: person-simple-run, value: "28", label: "Daryl Mitchell, run out by Rohit Sharma"}
     - {icon: target, value: "137/8", label: "New Zealand by the 35th over"}
   source: "Match scoring, November 4, 2026"
-related: [brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi, arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
+related: [india-beat-new-zealand-five-wickets-dls-eden-park-first-odi, arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi]
 seo:
   description: "New Zealand v India first ODI at Eden Park: Rohit Sharma's diving run-out removes Daryl Mitchell for 28 and New Zealand are all out for 185 in 40.2 overs on November 4, 2026."
 sources:

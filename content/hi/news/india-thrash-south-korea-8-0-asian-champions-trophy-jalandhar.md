@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय हॉकी फॉरवर्ड दिलप्रीत सिंह"
   overlay:
     value: "भारत 8-0 दक्षिण कोरिया"
-related: [india-south-korea-asian-champions-trophy-last-league-jalandhar-preview, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
+related: [harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
 seo:
   description: "2 नवंबर 2026 को जालंधर में भारत ने दक्षिण कोरिया को 8-0 से हराकर पुरुष एशियन चैंपियंस ट्रॉफी का लीग चरण अजेय रहते हुए खत्म किया। दिलप्रीत सिंह ने दो गोल किए। 4 नवंबर को मोहाली में सेमीफाइनल में फिर दक्षिण कोरिया से मुकाबला होगा।"
 sources:

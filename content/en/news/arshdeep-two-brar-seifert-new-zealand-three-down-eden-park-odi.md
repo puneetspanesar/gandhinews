@@ -35,7 +35,7 @@ infographic:
     - {icon: target, value: "2", label: "Arshdeep Singh wickets: Young, Nicholls"}
     - {icon: hand, value: "1/19", label: "Gurnoor Brar, Seifert c Gaikwad"}
   source: "Match scorecard, November 4, 2026"
-related: [india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
+related: [india-beat-new-zealand-five-wickets-dls-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
   description: "New Zealand v India first ODI live at Eden Park: Arshdeep Singh takes two powerplay wickets and Gurnoor Brar removes Tim Seifert, caught by Ruturaj Gaikwad, on November 4, 2026."
 sources:

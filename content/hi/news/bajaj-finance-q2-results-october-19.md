@@ -21,7 +21,7 @@ hero:
   alt: "बजाज फाइनेंस के वाइस चेयरमैन और प्रबंध निदेशक राजीव जैन"
   overlay:
     value: "मुनाफा 29% ऊपर, लक्ष्य भी बढ़ा"
-related: [bajaj-finance-results-today-29-per-cent-profit-estimate, bajaj-housing-finance-q2-profit-rises-18-per-cent, bajaj-finance-ultratech-hindustan-zinc-results-monday, rbi-raises-repo-rate-to-5-50, sensex-nifty-close-october-19-private-banks-axis]
+related: [bajaj-housing-finance-q2-profit-rises-18-per-cent, bajaj-finance-ultratech-hindustan-zinc-results-monday, rbi-raises-repo-rate-to-5-50, sensex-nifty-close-october-19-private-banks-axis]
 seo:
   description: "बजाज फाइनेंस का दूसरी तिमाही का शुद्ध मुनाफा 28.7% बढ़कर ₹6,366.57 करोड़ रहा, एयूएम 26% बढ़कर ₹5.85 लाख करोड़ हुआ और कंपनी ने 2026-27 का वृद्धि अनुमान 26-27% किया।"
 sources:

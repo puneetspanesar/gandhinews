@@ -21,7 +21,7 @@ hero:
   alt: "केरलम के पूर्व मुख्यमंत्री पिनराई विजयन (फाइल फोटो)"
   overlay:
     value: "सात दिन की राहत"
-related: [supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan, chandy-oommen-pinarayi-vijayan-not-hounded-cmrl, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench]
+related: [pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan, chandy-oommen-pinarayi-vijayan-not-hounded-cmrl, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench]
 seo:
   description: "सुप्रीम कोर्ट ने 21 अक्टूबर को सीएमआरएल-एक्सालॉजिक मामले में पिनराई विजयन, वीणा टी और पी ए मोहम्मद रियास के खिलाफ सतर्कता जांच सात दिन के लिए रोकी और उन्हें हाईकोर्ट में अपील की अनुमति दी।"
 sources:

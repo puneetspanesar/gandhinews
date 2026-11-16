@@ -39,7 +39,7 @@ infographic:
     - {icon: graduation-cap, value: "38", label: "Eklavya schools inaugurated"}
     - {icon: buildings, value: "100", label: "Multi-Purpose Centres inaugurated"}
   source: "Janjatiya Gaurav Diwas event, November 15, 2026"
-related: [modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore, modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters, modi-asean-india-summit-manila-november-16-18]
+related: [modi-asean-india-summit-manila-november-16-18]
 seo:
   title: "Modi at Janjatiya Gaurav Diwas: 246 tribal projects, bamboo"
   description: "PM Modi, by video from Gadchiroli on November 15, 2026, inaugurated 173 and launched 73 tribal projects worth about ₹3,000 crore and spoke on bamboo rights."
@@ -81,11 +81,11 @@ verification:
 
 Prime Minister Narendra Modi **inaugurated 173 projects and laid foundation stones for 73 more** on Sunday, November 15, 2026, in a tribal-welfare package worth about ₹3,000 crore, joining the Janjatiya Gaurav Diwas programme at Gadchiroli in Maharashtra by video link on the 151st birth anniversary of Bhagwan Birsa Munda. The event closed the Janjatiya Gaurav Pakhwada, a fortnight of tribal outreach held from November 1 to 15.
 
-In his address Modi said **tribals now have full rights over bamboo**, and that earlier governments had neither understood tribal communities nor cared about them. We had reported on Saturday the [list of projects the Prime Minister's Office announced](/en/news/modi-janjatiya-gaurav-diwas-gadchiroli-246-tribal-projects-3000-crore); the event itself added the Prime Minister's own words and the accounts of three beneficiaries he spoke to.
+In his address Modi said **tribals now have full rights over bamboo**, and that earlier governments had neither understood tribal communities nor cared about them. We had reported on Saturday the [list of projects the Prime Minister's Office announced](/en/news/modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address); the event itself added the Prime Minister's own words and the accounts of three beneficiaries he spoke to.
 
 ## What was opened
 
-The 173 inaugurations include **38 Eklavya Model Residential Schools** for tribal students and **100 Multi-Purpose Centres** under PM-JANMAN, along with other works under PM-JANMAN and the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan. He also inaugurated the Tribal Research Institute building in Itanagar, Arunachal Pradesh, and the Ropuiliani Tribal Freedom Fighter Museum in Aizawl, Mizoram, which we covered [when the museum project was announced](/en/news/modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters).
+The 173 inaugurations include **38 Eklavya Model Residential Schools** for tribal students and **100 Multi-Purpose Centres** under PM-JANMAN, along with other works under PM-JANMAN and the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan. He also inaugurated the Tribal Research Institute building in Itanagar, Arunachal Pradesh, and the Ropuiliani Tribal Freedom Fighter Museum in Aizawl, Mizoram, which we covered [when the museum project was announced](/en/news/modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address).
 
 The 73 foundation stones are for **19 new Eklavya schools**, 12 Tribal Multi-purpose Marketing Centres and 42 other projects under the two schemes. The projects span education, health, livelihoods and community infrastructure.
 

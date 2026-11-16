@@ -31,7 +31,7 @@ infographic:
     - {icon: users, value: "7", label: "दिल्ली के मोहन गार्डन की इमारत से बचाए गए लोग (4 रस्सी से उतारे गए)"}
     - {icon: fire-truck, value: "7", label: "नरेला की रबर फैक्ट्री में भेजी गई दमकल गाड़ियां"}
   source: "दिल्ली अग्निशमन सेवा, महाराष्ट्र के उपमुख्यमंत्री, उज्जैन कलेक्टर, 8 और 9 नवंबर 2026"
-related: [delhi-aqi-366-morning-after-diwali-ito-406-severe-grap-three, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza, bombay-high-court-street-firecracker-ban-all-festivals]
+related: [delhi-aqi-368-7am-monday-15-stations-severe-burari-sonia-vihar-441, supreme-court-green-crackers-delhi-ncr-diwali-november-7-8, delhi-karol-bagh-gaffar-market-fire-45-shops-puri-plaza, bombay-high-court-street-firecracker-ban-all-festivals]
 seo:
   description: "8 नवंबर 2026 की दिवाली रात ठाणे में करीब 50, दिल्ली के मोहन गार्डन में सात लोग बचाए गए; नरेला में रबर फैक्ट्री, उज्जैन और नागपुर में भी आग लगी।"
 sources:

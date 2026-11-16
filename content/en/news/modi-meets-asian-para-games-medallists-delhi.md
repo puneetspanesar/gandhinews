@@ -35,7 +35,7 @@ infographic:
     - {icon: trophy, value: "30", label: "gold, with 35 silver and 49 bronze"}
     - {icon: users-three, value: "168", label: "athletes in India's squad"}
   source: "Prime Minister's Office, November 5, 2026"
-related: [modi-meet-asian-para-games-contingent-thursday, india-record-114-medals-asian-para-games-antil-sweep, india-para-games-114-medals-compared-hangzhou-2023]
+related: [india-record-114-medals-asian-para-games-antil-sweep, india-para-games-114-medals-compared-hangzhou-2023]
 seo:
   description: "PM Narendra Modi met India's Asian Para Games 2026 contingent, winners of a record 114 medals, at the Indira Gandhi Sports Complex in New Delhi on November 5, 2026."
 sources:

@@ -20,7 +20,7 @@ hero:
   alt: "The sea front at Uppada near Kakinada on the Andhra Pradesh coast"
   overlay:
     value: "A cyclone in the making"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, murmu-mayurbhanj-visit-postponed-cyclone-november-4, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
+related: [odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, murmu-mayurbhanj-visit-postponed-cyclone-november-4, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
 seo:
   description: "The Bay of Bengal deep depression is set to become Cyclone Arnab on Monday and cross the Andhra coast between Bapatla and Visakhapatnam on October 28."
 sources:

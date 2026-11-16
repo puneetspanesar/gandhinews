@@ -21,7 +21,7 @@ hero:
   alt: "मुंबई के दलाल स्ट्रीट पर बीएसई की इमारत"
   overlay:
     value: "लगातार तीसरे दिन लाल निशान"
-related: [sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-ipo-retail-quota-full-day-two-3-47-times, results-today-hpcl-swiggy-havells-colgate-october-22, global-cues-wall-street-gains-brent-109-yields-october-22, rupee-six-week-high-94-38-jio-inflows-rbi]
+related: [sensex-nifty-close-october-21-it-alone-gains-jio-ipo, jio-platforms-ipo-subscribed-22-times-listing-october-28, results-today-hpcl-swiggy-havells-colgate-october-22, global-cues-wall-street-gains-brent-109-yields-october-22, rupee-six-week-high-94-38-jio-inflows-rbi]
 seo:
   description: "शेयर बाज़ार 22 अक्टूबर 2026: ब्रेंट 110 डॉलर के पार और एशियाई बाज़ारों में गिरावट से सेंसेक्स करीब 460 अंक गिरा, निफ्टी करीब 22,688 पर बंद। रुपया सुबह 94.50 पर।"
 sources:

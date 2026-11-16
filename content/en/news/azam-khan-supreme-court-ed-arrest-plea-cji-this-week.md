@@ -25,7 +25,7 @@ cover:
   label: "Supreme Court"
   headline: "Azam Khan challenges ED arrest"
   bg: "Supreme Court of India"
-related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-ram-temple-trust-funds-probe-hearing-today]
+related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet]
 seo:
   description: "On November 2, 2026 SP leader Azam Khan's plea against his ED arrest in the Jauhar University money laundering case was mentioned before CJI Surya Kant, who said it would be heard this week."
 sources:

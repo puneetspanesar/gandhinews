@@ -21,7 +21,7 @@ hero:
   alt: "भारतीय पुरुष हॉकी टीम (फाइल फोटो)"
   overlay:
     value: "छठा एशियाई खिताब, लगातार तीसरा"
-related: [india-japan-asian-champions-trophy-final-mohali-preview, india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali, india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar]
+related: [india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali, india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar]
 seo:
   description: "एशियाई चैंपियंस ट्रॉफी हॉकी फाइनल: भारत ने 5 नवंबर 2026 को मोहाली में जापान को 4-1 से हराकर रिकॉर्ड छठा और लगातार तीसरा खिताब जीता।"
 sources:

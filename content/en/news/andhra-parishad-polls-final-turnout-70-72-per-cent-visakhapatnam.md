@@ -32,7 +32,7 @@ infographic:
     - {icon: users, value: "62.01%", label: "Alluri Sitharama Raju, the lowest"}
   chart: {type: columns, title: "Turnout by district, %", highlight: 0, items: [{label: "Visakhapatnam", value: 82.51, display: "82.51"}, {label: "Chittoor", value: 76.30, display: "76.30"}, {label: "Vizianagaram", value: 76.21, display: "76.21"}, {label: "Polavaram", value: 65.48, display: "65.48"}, {label: "Alluri S Raju", value: 62.01, display: "62.01"}]}
   source: "Andhra Pradesh State Election Commission, November 6, 2026"
-related: [andhra-five-mandals-polling-under-way-seven-booth-repolls-67-per-cent, andhra-parishad-polls-four-voters-two-poll-staff-die, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
+related: [andhra-parishad-polls-four-voters-two-poll-staff-die, andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7]
 seo:
   description: "Andhra Pradesh State Election Commission puts final turnout in the November 5 MPTC and ZPTC polls at 70.72%, with Visakhapatnam highest at 82.51%. Counting is on November 7, 2026."
 sources:

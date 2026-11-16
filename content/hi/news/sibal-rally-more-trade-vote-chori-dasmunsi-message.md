@@ -21,7 +21,7 @@ hero:
   alt: "राज्यसभा सांसद कपिल सिब्बल"
   overlay:
     value: "'कारोबार और बढ़ेगा'"
-related: [khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, india-bloc-rally-venugopal-stern-warning-modi-shah, nadda-anarchy-model-india-bloc-rally-sood-chaos, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-ramlila-maidan-rally-today-preview]
+related: [khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, india-bloc-rally-venugopal-stern-warning-modi-shah, nadda-anarchy-model-india-bloc-rally-sood-chaos, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared]
 seo:
   description: "इंडिया गठबंधन रैली, 1 नवंबर 2026: कपिल सिब्बल बोले, रामलीला मैदान की रैली से दिल्ली के व्यापारियों का कारोबार बढ़ेगा और विपक्ष 'वोट चोरी' को देश के सामने रखेगा; दीपा दासमुंशी ने इसे सीईसी ज्ञानेश कुमार के लिए संदेश बताया।"
 sources:

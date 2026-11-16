@@ -21,7 +21,7 @@ hero:
   alt: "आंध्र प्रदेश तट पर काकीनाडा के पास उप्पाडा का समुद्र तट"
   overlay:
     value: "बनता हुआ चक्रवात"
-related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, murmu-mayurbhanj-visit-postponed-cyclone-november-4, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
+related: [odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, murmu-mayurbhanj-visit-postponed-cyclone-november-4, tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression]
 seo:
   description: "बंगाल की खाड़ी का गहरा दबाव सोमवार को चक्रवात अर्नब बनकर 28 अक्टूबर को बापटला और विशाखापत्तनम के बीच आंध्र तट पार कर सकता है।"
 sources:

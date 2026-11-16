@@ -21,7 +21,7 @@ hero:
   alt: "गांधीनगर की गिफ्ट सिटी में गिफ्ट वन टावर (फाइल फोटो)"
   overlay:
     value: "गिफ्ट निफ्टी 205 अंक ऊपर, ब्रेंट 2.7% नीचे"
-related: [asia-open-nikkei-seen-down-oil-dalal-street-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, markets-week-ahead-us-midterms-itc-sbi-results-november-2, india-manufacturing-pmi-october-final-due-flash-54-9, kospi-turns-higher-samsung-sk-hynix-recover-chip-rout]
+related: [asia-open-nikkei-seen-down-oil-dalal-street-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, markets-week-ahead-us-midterms-itc-sbi-results-november-2, india-manufacturing-pmi-october-final-54-7-export-orders, kospi-turns-higher-samsung-sk-hynix-recover-chip-rout]
 seo:
   description: "2 नवंबर 2026 के बाज़ार संकेत: गिफ्ट निफ्टी 205 अंक चढ़कर 23,291 पर, ब्रेंट 2.7% गिरकर 110.4 डॉलर, निक्केई ने घाटा घटाया, अमेरिकी फ्यूचर्स ऊपर; रिलायंस, आईओसी, सन फार्मा, बीईएल पर नज़र।"
 cover:

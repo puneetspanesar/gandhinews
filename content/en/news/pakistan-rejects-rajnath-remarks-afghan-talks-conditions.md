@@ -20,7 +20,7 @@ hero:
   alt: "Defence Minister Rajnath Singh (file photo)"
   overlay:
     value: "One demand, says Islamabad"
-related: [pakistan-china-karakoram-2026-army-exercise-xinjiang, pakistan-kp-governors-rule-follow-up, afghanistan-acute-hunger-record-15-9-million, hrcp-report-pakistan-minorities-sanctuary-denied]
+related: [pakistan-china-karakoram-2026-army-exercise-xinjiang, pakistan-joint-sitting-approves-kp-governors-rule, afghanistan-acute-hunger-record-15-9-million, hrcp-report-pakistan-minorities-sanctuary-denied]
 seo:
   description: "Pakistan's foreign office condemned Rajnath Singh's Operation Sindoor warning and said talks with Afghanistan cannot be unconditional, ruling out formal Russian mediation."
 sources:

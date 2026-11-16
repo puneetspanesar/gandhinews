@@ -30,7 +30,7 @@ infographic:
     - {icon: flame, value: "30 लाख+", label: "56 घाटों पर जले दीये"}
     - {icon: users, value: "2,100+", label: "सरयू महाआरती में पुजारी"}
   source: "उत्तर प्रदेश सरकार और रिपोर्टें, 7 नवंबर 2026"
-related: [vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti]
+related: []
 seo:
   description: "7 नवंबर 2026 को अयोध्या में 10वें दीपोत्सव पर सरयू तट पर 30 लाख से ज्यादा दीये जले; योगी आदित्यनाथ और उपराष्ट्रपति आरती में शामिल हुए।"
 sources:

@@ -17,7 +17,7 @@ hero:
   alt: "भारतीय पैरा बैडमिंटन खिलाड़ी मानसी जोशी, जो SL3 वर्ग में खेलती हैं"
   overlay:
     value: "खेल एक, वर्ग अलग-अलग"
-related: [asian-para-games-india-begin-badminton-table-tennis-blind-football, india-name-168-athletes-asian-para-games-aichi-nagoya]
+related: [asian-para-games-bhavina-suhas-krishna-nagar-winning-start, india-name-168-athletes-asian-para-games-aichi-nagoya]
 seo:
   description: "एशियाई पैरा खेल 2026 में वर्गीकरण कैसे काम करता है: दस मान्य अक्षमताएं, पैरा बैडमिंटन के WH1 से SH6 तक वर्ग, टेबल टेनिस के 1 से 11 वर्ग और एथलेटिक्स के T और F कोड।"
 sources:

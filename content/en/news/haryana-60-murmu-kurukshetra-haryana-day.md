@@ -20,7 +20,7 @@ hero:
   alt: "President Droupadi Murmu and Kurukshetra University"
   overlay:
     value: "Haryana at 60, the President in Kurukshetra"
-related: [haryana-saini-seven-point-plan-drug-free-sankalp, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, kerala-turns-70-festival-kerala-satheesan-nishagandhi, mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav]
+related: [haryana-saini-seven-point-plan-drug-free-sankalp, mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur, karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, kerala-turns-70-festival-kerala-satheesan-nishagandhi, mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav]
 seo:
   description: "Haryana marks 60 years on November 1, 2026. President Droupadi Murmu is chief guest at the state function at Kurukshetra University and opens the Ratnavali festival."
 sources:

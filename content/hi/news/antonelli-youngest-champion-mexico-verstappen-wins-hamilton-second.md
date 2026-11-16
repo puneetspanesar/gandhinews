@@ -26,7 +26,7 @@ cover:
   label: "एफ1 खिताब"
   headline: "20 साल के एंटोनेली विश्व चैंपियन"
   bg: "Autódromo Hermanos Rodríguez"
-related: [mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth, mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole, antonelli-wins-austin-grand-prix-brink-of-title-mexico]
+related: [antonelli-wins-austin-grand-prix-brink-of-title-mexico]
 seo:
   description: "किमी एंटोनेली 2026 मेक्सिको सिटी ग्रां प्री में तीसरे स्थान पर रहकर 20 साल की उम्र में फॉर्मूला वन के सबसे युवा विश्व चैंपियन बने। रेस मैक्स वर्स्टैपेन ने लुईस हैमिल्टन से आगे रहकर जीती।"
 sources:

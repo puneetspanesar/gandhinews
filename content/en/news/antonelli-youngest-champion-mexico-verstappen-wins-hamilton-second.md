@@ -25,7 +25,7 @@ cover:
   label: "F1 title"
   headline: "Antonelli is world champion at 20"
   bg: "Autódromo Hermanos Rodríguez"
-related: [mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth, mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole, antonelli-wins-austin-grand-prix-brink-of-title-mexico]
+related: [antonelli-wins-austin-grand-prix-brink-of-title-mexico]
 seo:
   description: "Kimi Antonelli finished third at the 2026 Mexico City Grand Prix to become Formula One's youngest world champion at 20. Max Verstappen won ahead of Lewis Hamilton."
 sources:

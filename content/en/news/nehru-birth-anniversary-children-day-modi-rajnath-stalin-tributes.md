@@ -31,7 +31,7 @@ infographic:
     - {date: "Nov 14, 2026", text: "The 137th birth anniversary", icon: flag}
     - {date: "Nov 20", text: "UN World Children's Day", icon: globe}
   source: "Press and wire reports, November 14, 2026"
-related: [modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview, supreme-court-internet-access-fundamental-right-children, vaishali-boat-capsize-ganga-raghopur-children-killed]
+related: [modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects, supreme-court-internet-access-fundamental-right-children, vaishali-boat-capsize-ganga-raghopur-children-killed]
 seo:
   title: "Nehru 137th birth anniversary: Modi, Rajnath, Stalin tributes"
   description: "Modi and Rajnath Singh paid tribute to Jawaharlal Nehru on his 137th birth anniversary, November 14, 2026; Stalin marked Children's Day with a message on children."
@@ -69,7 +69,7 @@ Modi's message was short. He wrote that he was paying tribute to Pandit Jawaharl
 
 ## What the leaders said
 
-Nehru was born in Prayagraj, Uttar Pradesh, on November 14, 1889. Modi is in the middle of a two-day tour of Karnataka and Gujarat, which began on Friday with the Pink Line metro stretch and ₹15,600 crore of projects in Bengaluru; our [report on that visit](/en/news/modi-karnataka-gujarat-visit-november-13-14-15600-crore-projects-preview) has the full programme.
+Nehru was born in Prayagraj, Uttar Pradesh, on November 14, 1889. Modi is in the middle of a two-day tour of Karnataka and Gujarat, which began on Friday with the Pink Line metro stretch and ₹15,600 crore of projects in Bengaluru; our [report on that visit](/en/news/modi-opens-bengaluru-pink-line-elevated-stretch-15600-crore-projects) has the full programme.
 
 Stalin's message was the longest of the three. Writing on Children's Day, he said that **a better future starts with a happy present**: "the first step towards creating a better future for children is ensuring that they have a happy present." He pointed to welfare and education measures from earlier DMK governments, among them vaccination drives, eggs in the nutritious meal scheme and free bus travel for students, and said the later Dravidian Model governments had widened them.
 

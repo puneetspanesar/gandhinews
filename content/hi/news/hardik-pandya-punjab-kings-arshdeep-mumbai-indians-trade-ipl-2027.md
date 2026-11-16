@@ -34,7 +34,7 @@ infographic:
     left: {title: "पंजाब किंग्स में", value: "हार्दिक पंड्या", text: "2024 से मुंबई के कप्तान"}
     right: {title: "मुंबई इंडियंस में", value: "अर्शदीप सिंह", text: "2019 से पंजाब के बाएं हाथ के तेज गेंदबाज"}
   source: "मुंबई इंडियंस और पंजाब किंग्स के बयान, 11 नवंबर 2026"
-related: [rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi]
+related: [saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test]
 seo:
   description: "मुंबई इंडियंस और पंजाब किंग्स ने हार्दिक पंड्या को पंजाब और अर्शदीप सिंह को मुंबई भेजने के ट्रेड की पुष्टि की; मुंबई की कप्तानी अब खुली है।"
 sources:

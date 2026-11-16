@@ -21,7 +21,7 @@ hero:
   alt: "India under-19 cricketers Lakshya Raichandani and Aaryavir Sehwag (file photo)"
   overlay:
     value: "India beat Afghanistan by 8 wickets"
-related: [india-u19-pakistan-asia-cup-result-zahoor-century, india-u19-pakistan-208-arjun-rajput-century-asia-cup, india-u19-beat-nepal-asia-cup-al-amerat]
+related: [india-u19-pakistan-asia-cup-result-zahoor-century, india-u19-beat-nepal-asia-cup-al-amerat]
 seo:
   title: "India U19 beat Afghanistan, meet Pakistan in Asia Cup final"
   description: "India U19 chased 228 in 36.5 overs to beat Afghanistan by eight wickets in the Asia Cup semi-final at Al Amerat on November 12, 2026. Final v Pakistan on November 14."

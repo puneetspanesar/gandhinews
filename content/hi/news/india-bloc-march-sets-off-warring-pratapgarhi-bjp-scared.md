@@ -21,7 +21,7 @@ hero:
   alt: "कांग्रेस सांसद इमरान प्रतापगढ़ी और अमरिंदर सिंह राजा वड़िंग"
   overlay:
     value: "'पूरी भाजपा डरी हुई है'"
-related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
+related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
   description: "इंडिया गठबंधन रैली, 1 नवंबर 2026: विपक्षी नेता रामलीला मैदान मार्च में शामिल, कांग्रेस सांसद इमरान प्रतापगढ़ी और राजा वड़िंग ने सीईसी ज्ञानेश कुमार और 1984 दंगों के मार्च पर भाजपा को घेरा।"
 sources:

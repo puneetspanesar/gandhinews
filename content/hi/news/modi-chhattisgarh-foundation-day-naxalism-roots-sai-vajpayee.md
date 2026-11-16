@@ -21,7 +21,7 @@ hero:
   alt: "प्रधानमंत्री नरेंद्र मोदी और छत्तीसगढ़ के मुख्यमंत्री विष्णु देव साय"
   overlay:
     value: "छत्तीसगढ़@26, पीछे हटता नक्सलवाद"
-related: [chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
+related: [mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
 seo:
   description: "छत्तीसगढ़ स्थापना दिवस 2026: पीएम मोदी ने कहा, नक्सलवाद की जड़ें उखाड़ते हुए राज्य और तेजी से आगे बढ़ रहा है। मुख्यमंत्री विष्णु देव साय ने अटल बिहारी वाजपेयी को श्रद्धांजलि दी।"
 sources:

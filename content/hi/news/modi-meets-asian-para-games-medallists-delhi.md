@@ -36,7 +36,7 @@ infographic:
     - {icon: trophy, value: "30", label: "स्वर्ण, साथ में 35 रजत और 49 कांस्य"}
     - {icon: users-three, value: "168", label: "खिलाड़ी भारतीय दल में"}
   source: "प्रधानमंत्री कार्यालय, 5 नवंबर 2026"
-related: [modi-meet-asian-para-games-contingent-thursday, india-record-114-medals-asian-para-games-antil-sweep, india-para-games-114-medals-compared-hangzhou-2023]
+related: [india-record-114-medals-asian-para-games-antil-sweep, india-para-games-114-medals-compared-hangzhou-2023]
 seo:
   description: "प्रधानमंत्री नरेंद्र मोदी 5 नवंबर 2026 को नई दिल्ली के इंदिरा गांधी खेल परिसर में एशियाई पैरा खेल 2026 में रिकॉर्ड 114 पदक जीतने वाले भारतीय दल से मिले।"
 sources:

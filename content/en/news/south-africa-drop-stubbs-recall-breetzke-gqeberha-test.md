@@ -19,7 +19,7 @@ hero:
   alt: "South Africa head coach Shukri Conrad"
   overlay:
     value: "One change, and a new keeper"
-related: [rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test, renshaw-puts-australia-on-top-in-durban-test]
+related: [rabada-set-to-return-south-africa-gqeberha-test, hazlewood-six-seals-australia-win-in-durban-test]
 seo:
   description: "South Africa named a 17-man squad for the second Test against Australia in Gqeberha, dropping Tristan Stubbs for Matthew Breetzke, with Rabada fit to return."
 sources:

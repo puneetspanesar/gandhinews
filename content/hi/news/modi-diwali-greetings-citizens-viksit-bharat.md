@@ -31,7 +31,7 @@ infographic:
     - {title: "अच्छाई", text: "बुराई पर अच्छाई की जीत"}
     - {title: "आशा", text: "निराशा पर आशा की जीत"}
   source: "प्रधानमंत्री का संदेश, 7 नवंबर 2026"
-related: [vice-president-radhakrishnan-ayodhya-deepotsav-ram-janmabhoomi-aarti]
+related: [ayodhya-deepotsav-30-lakh-diyas-yogi-radhakrishnan-saryu-aarti]
 seo:
   description: "प्रधानमंत्री नरेंद्र मोदी का 7 नवंबर 2026 का दिवाली संदेश: अंधेरे पर रोशनी की जीत, हर घर में सुख, सद्भाव और समृद्धि, और विकसित भारत का आह्वान।"
 sources:

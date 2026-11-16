@@ -20,7 +20,7 @@ hero:
   alt: "Samajwadi Party MP Rajeev Rai and Shiv Sena (UBT) MP Sanjay Raut"
   overlay:
     value: "'Buses are being intercepted'"
-related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, india-bloc-ramlila-maidan-rally-today-preview]
+related: [india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-convoy-connaught-place-tejashwi-crush-democracy]
 seo:
   description: "INDIA bloc rally, November 1, 2026: rally-bound vehicles stuck at Delhi-Gurugram Sarhaul border; Sanjay Raut and SP MPs allege buses and trains held up."
 sources:

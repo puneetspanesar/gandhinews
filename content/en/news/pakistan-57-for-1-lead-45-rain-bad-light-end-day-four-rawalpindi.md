@@ -37,7 +37,7 @@ infographic:
     - {date: "Nov 12", text: "Sri Lanka 446; Pakistan 57 for 1, rain stops play", icon: cloud-rain}
     - {date: "Nov 13", text: "Scheduled final day", icon: calendar-blank}
   source: "Match reports, November 12, 2026"
-related: [saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test, rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi, de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three]
+related: [saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test, de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three]
 seo:
   description: "Rain and bad light ended day four of the Rawalpindi Test with Pakistan 57 for 1, 45 ahead of Sri Lanka, after Saqib Khan took seven on debut."
 sources:
@@ -84,7 +84,7 @@ Saqib finished with **7 for 130 from 34 overs**. He is the fourth Pakistani to t
 
 ## How the match got here
 
-Pakistan's first innings of 434 for 9 was built around Saud Shakeel's 93. On day three, as [we reported](/en/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three), de Silva and Mendis added 249 for the fifth wicket, Sri Lanka's highest stand for any wicket against Pakistan, and Saqib ended the day with 2 for 105. Before play, [our preview of day four](/en/news/rawalpindi-test-day-four-rain-forecast-sri-lanka-30-behind-both-tests-pindi) noted a forecast chance of afternoon rain above 90%.
+Pakistan's first innings of 434 for 9 was built around Saud Shakeel's 93. On day three, as [we reported](/en/news/de-silva-kusal-mendis-unbeaten-sri-lanka-404-4-rawalpindi-day-three), de Silva and Mendis added 249 for the fifth wicket, Sri Lanka's highest stand for any wicket against Pakistan, and Saqib ended the day with 2 for 105. Before play, [our preview of day four](/en/news/saqib-khan-seven-wickets-debut-sri-lanka-446-rawalpindi-test) noted a forecast chance of afternoon rain above 90%.
 
 Bad light and then rain ended the afternoon early. Before that, Pakistan's batters had steadied after Arif's early exit, with Awais and Taha taking the score from 15 for 1 to 39 for 1 at lunch and then to 57.
 

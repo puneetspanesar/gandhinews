@@ -26,7 +26,7 @@ cover:
   label: "भारत-नेपाल"
   headline: "नए भारतीय राजदूत काठमांडू पहुंचे"
   bg: "Tribhuvan International Airport"
-related: [vikram-misri-kathmandu-visit-november-4-5-balendra-shah]
+related: [misri-meets-balendra-shah-kathmandu-india-visit-preparations]
 seo:
   description: "नेपाल में भारत के नए राजदूत और भूटान में पूर्व राजदूत सुधाकर दलेला 3 नवंबर 2026 को काठमांडू पहुंचे, विदेश सचिव विक्रम मिसरी के दो दिवसीय दौरे से एक दिन पहले।"
 sources:

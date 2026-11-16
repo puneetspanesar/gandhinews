@@ -21,7 +21,7 @@ hero:
   alt: "नई दिल्ली का पूसा परिसर, जहां के निगरानी केंद्र पर सोमवार को शहर का सबसे ऊंचा एक्यूआई दर्ज हुआ"
   overlay:
     value: "एक्यूआई 139, 21 अक्टूबर तक 'खराब' के आसार"
-related: [delhi-aqi-184-sunday-evening-moderate, delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
+related: [delhi-aqi-184-sunday-evening-moderate, delhi-aqi-189-sunday-morning-moderate]
 seo:
   description: "सीपीसीबी के अनुसार 19 अक्टूबर शाम 4 बजे दिल्ली का एक्यूआई 139 ('मध्यम') रहा, न्यूनतम तापमान 17.1°C पर आया और 21 अक्टूबर से हवा 'खराब' होने का अनुमान है।"
 sources:

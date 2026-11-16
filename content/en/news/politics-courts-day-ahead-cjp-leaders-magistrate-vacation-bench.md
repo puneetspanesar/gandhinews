@@ -20,7 +20,7 @@ hero:
   alt: "Justice Joymalya Bagchi of the Supreme Court of India (file photo)"
   overlay:
     value: "A busy day in court"
-related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
+related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-stays-vijayan-cmrl-probe-seven-days, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
 seo:
   description: "On October 21, CJP leaders Saurav Das and Ashutosh Ranka return before a Delhi magistrate, and a Supreme Court vacation bench hears the YSRCP and Pinarayi Vijayan pleas."
 sources:

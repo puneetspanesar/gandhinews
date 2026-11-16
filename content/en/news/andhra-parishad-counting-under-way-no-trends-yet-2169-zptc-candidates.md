@@ -30,7 +30,7 @@ infographic:
     - {icon: users, value: "2,169", label: "ZPTC candidates for 582 seats"}
     - {icon: buildings, value: "365", label: "counting centres in 28 districts"}
   source: "Andhra Pradesh counting arrangements, November 7, 2026"
-related: [andhra-parishad-counting-day-november-7-365-centres-postal-ballots-first, andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
+related: [andhra-parishad-polls-final-turnout-70-72-per-cent-visakhapatnam]
 seo:
   description: "Counting of Andhra Pradesh MPTC and ZPTC votes began at 8 am on November 7, 2026, at 365 centres. No trends yet; 2,169 ZPTC and 18,843 MPTC candidates are in the fray."
 sources:

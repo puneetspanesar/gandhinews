@@ -19,7 +19,7 @@ hero:
   alt: "Parliament Street, New Delhi"
   overlay:
     value: "Came for an FIR, ended up detained"
-related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, cjp-lehra-do-tiranga-connaught-place-protest-preview, supreme-court-women-journalists-sealed-cover-delhi-protests]
+related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, supreme-court-women-journalists-sealed-cover-delhi-protests]
 seo:
   description: "Delhi Police detained NSUI president Vinod Jakhar and members at Parliament Street police station on October 15 as they sought an FIR over an alleged assault."
 sources:

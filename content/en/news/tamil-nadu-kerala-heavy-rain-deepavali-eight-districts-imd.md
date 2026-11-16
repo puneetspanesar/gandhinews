@@ -29,7 +29,7 @@ infographic:
     - {icon: cloud-rain, value: "8", label: "districts on alert for heavy rain on Sunday"}
     - {icon: map-pin, value: "3", label: "districts with heavy rain forecast today"}
   source: "IMD Regional Meteorological Centre, Chennai, November 6-7, 2026"
-related: [bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain, keralam-orange-alert-five-districts-heavy-rain]
+related: [bay-of-bengal-depression-october-25-odisha-fishermen-warning, keralam-orange-alert-five-districts-heavy-rain]
 seo:
   description: "IMD forecasts heavy rain in eight Tamil Nadu districts on Deepavali, November 8, 2026, after heavy falls in Madurai, Theni and Dindigul on Saturday."
 sources:

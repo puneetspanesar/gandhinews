@@ -21,7 +21,7 @@ hero:
   alt: "तिरुवनंतपुरम का विक्रम साराभाई अंतरिक्ष केंद्र (फाइल फोटो)"
   overlay:
     value: "दोबारा प्रवेश से पहले का अलगाव परखा"
-related: [japan-h3-mmx-phobos-sample-return-launch, spacex-crs-35-dragon-docks-space-station]
+related: [mmx-launch-h3-phobos-outcome, spacex-crs-35-dragon-docks-space-station]
 seo:
   description: "इसरो ने वीएसएससी में गगनयान के क्रू मॉड्यूल और सर्विस मॉड्यूल के अलग होने के परीक्षण पूरे किए। व्योममित्र के साथ मानवरहित जी1 मिशन का लक्ष्य 2026 है।"
 sources:

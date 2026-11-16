@@ -20,7 +20,7 @@ hero:
   alt: "ऑस्ट्रेलिया के तेज़ गेंदबाज़ जोश हेज़लवुड"
   overlay:
     value: "आखिरी चार विकेट, सिर्फ पांच रन"
-related: [renshaw-puts-australia-on-top-in-durban-test]
+related: []
 seo:
   description: "डरबन टेस्ट का पांचवां दिन: जोश हेज़लवुड के 6/49 से ऑस्ट्रेलिया ने दक्षिण अफ्रीका को 214 रन से हराया, सीरीज़ में 1-0 की बढ़त।"
 sources:

@@ -21,7 +21,7 @@ hero:
   alt: "रिलायंस जियो इन्फोकॉम के चेयरमैन आकाश अंबानी"
   overlay:
     value: "22 गुना सब्सक्रिप्शन"
-related: [jio-platforms-ipo-closes-subscription-final-day, jio-ipo-5-51-times-day-two-close-final-day, jio-platforms-anchor-book-8110-crore-30-times-demand, anchor-investors-explained-jio-platforms-ipo]
+related: [jio-platforms-anchor-book-8110-crore-30-times-demand, anchor-investors-explained-jio-platforms-ipo]
 seo:
   description: "जियो प्लेटफॉर्म्स आईपीओ का अंतिम सब्सक्रिप्शन: कुल 22.19 गुना, क्यूआईबी 70.55 गुना, एनआईआई 14 गुना, खुदरा 2.72 गुना। आवंटन 26 अक्टूबर, लिस्टिंग 28 अक्टूबर 2026।"
 sources:
