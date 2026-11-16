@@ -4,7 +4,7 @@ lang: en
 type: news
 section: states
 format_label: "States / Himachal Pradesh"
-topics: [states]
+topics: []
 title: "Himachal Assembly's winter session opens at Tapovan with 414 questions and six sittings to November 21"
 standfirst: "The 13th session of the 14th Assembly meets in Dharamshala days after the Sukhu cabinet cleared its ₹1,500 scheme for women. Speaker Kuldeep Singh Pathania has barred former MLAs from addressing the media on the premises."
 published: 2026-11-16T14:08:01+05:30
@@ -12,7 +12,7 @@ location: Dharamshala
 keyPoints:
   - "The session opened on Monday at Tapovan and runs **six sittings to November 21**, with 414 questions on the list."
   - "Speaker Kuldeep Singh Pathania has ruled that **only sitting MLAs** may hold press conferences or give bites inside the Assembly complex."
-  - "The cabinet's ₹1,500 a month scheme for women and the Supreme Court's BBMB power ruling are likely to **dominate the questions**."
+  - "The House meets with two fresh decisions on the record: the cabinet's **₹1,500 a month scheme for women** and the Supreme Court's BBMB power ruling."
 hero:
   need: "Chief Minister Sukhvinder Singh Sukhu, whose government faces the winter session in Dharamshala"
   suggested_source: "Sukhvinder Singh Sukhu"

@@ -53227,7 +53227,20 @@
   "licence": "GODL-India",
   "alt": "Sukhvinder Singh Sukhu (file photo)",
   "alt_hi": "सुखविंदर सिंह सुक्खू (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhvinder_Singh_Sukhu.jpg",
+  "treated": {
+   "src": "/photos/t-himachal-winter-session-opens-tapovan-414-questions-six-sitt-1280.jpg",
+   "src800": "/photos/t-himachal-winter-session-opens-tapovan-414-questions-six-sitt-640.jpg",
+   "cutout": true,
+   "with": [
+    "nadda-icmr-high-altitude-research-centre-keylong",
+    "parliamentary-committees-jpc-standing-select-explained",
+    "womens-reservation-33-per-cent-when-will-it-start-explained"
+   ],
+   "kind": "photo",
+   "subj": "1b1f0a0e06042677",
+   "credit": "Photos: Prime Minister's Office (India) / Wikimedia Commons; This Photo was taken by Timothy A. Gonsalves. / Wikimedia Commons; Reply.rajrewal / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons"
+  }
  },
  "belarus-fm-ryzhenkov-delhi-intergovernmental-commission": {
   "id": "o-belarus-fm-ryzhenkov-delhi-intergovernmental-commission",
@@ -53247,13 +53260,25 @@
   "src": "/photos/o-goyal-egypt-jtc-terms-of-reference-local-currency-trade-1280.jpg",
   "src800": "/photos/o-goyal-egypt-jtc-terms-of-reference-local-currency-trade-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 622,
-  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Piyush Goyal (file photo)",
-  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+  "height": 853,
+  "srcWidth": 1023,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Piyush Goyal, Union Minister for Commerce and Industry, at an agreement signing in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में एक समझौते पर हस्ताक्षर के मौके पर वाणिज्य और उद्योग मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Minister_of_Commerce_and_Industry,_Shri_Piyush_Goyal_exchanges_MoU_with_the_Director_General_of_Free_Trade_Negotiations,_Mr._Yeo_Han-koo.jpg",
+  "treated": {
+   "src": "/photos/t-goyal-egypt-jtc-terms-of-reference-local-currency-trade-1280.jpg",
+   "src800": "/photos/t-goyal-egypt-jtc-terms-of-reference-local-currency-trade-640.jpg",
+   "cutout": true,
+   "with": [
+    "gst-return-forms-gstr-1-amended-consultation-november-1",
+    "rbl-bank-q2-profit-jumps-170-per-cent"
+   ],
+   "kind": "photo",
+   "subj": "3f1f0f0f1f8f8381",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Pinakpani / Wikimedia Commons; Albert_Deccan / Wikimedia Commons"
+  }
  },
  "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore": {
   "id": "i-bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",

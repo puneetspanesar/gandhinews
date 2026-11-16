@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+    "id": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
     "overlay": {
       "kicker": {
-        "en": "States / Weather",
-        "hi": "राज्य / मौसम"
+        "en": "States / Himachal Pradesh",
+        "hi": "राज्य / हिमाचल प्रदेश"
       },
       "value": {
-        "en": "Akvan near Andhra coast by Nov 19 night",
-        "hi": "अकवान 19 नवंबर रात आंध्र तट के पास"
+        "en": "Himachal Assembly meets at Tapovan",
+        "hi": "तपोवन में जुटी हिमाचल विधानसभा"
       },
       "text": {
         "en": "",
@@ -18,21 +18,42 @@
     "dataBox": [],
     "relatedBelow": [
       "rajasthan-ganganagar-railway-track-blast-arrests",
-      "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-      "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21"
+      "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
     ],
     "relatedBeside": [
-      "wpi-inflation-october-2026"
+      "goyal-egypt-jtc-terms-of-reference-local-currency-trade"
     ],
     "live": {
       "title": {
-        "en": "Weather",
-        "hi": "मौसम"
+        "en": "Himachal Pradesh",
+        "hi": "हिमाचल प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "India and Egypt agree to write terms for a trade pact, as Goyal says central banks are working on trade in local currencies",
+          "hi": "भारत और मिस्र व्यापार समझौते की शर्तें तय करने पर सहमत, गोयल बोले दोनों देशों के केंद्रीय बैंक स्थानीय मुद्रा में व्यापार पर काम कर रहे हैं"
+        }
+      },
+      {
+        "link": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Suraj Kashyap's three wickets and Loharuka's 58 take Bihar past Railways by four wickets in Indore, with Sooryavanshi away with India A",
+          "hi": "सूरज कश्यप के तीन विकेट और लोहारुका के 58 से बिहार ने इंदौर में रेलवे को चार विकेट से हराया, सूर्यवंशी इंडिया ए के साथ होने से नहीं खेले"
+        }
+      },
       {
         "link": "wpi-inflation-october-2026",
         "lead": {
@@ -78,47 +99,25 @@
         }
       },
       {
-        "link": "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "link": "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Southeast Asia:",
+          "hi": "दक्षिण-पूर्व एशिया:"
         },
         "text": {
-          "en": "Noel Tata says Tata Sons listing 'will change the Tata way', Trusts to engage RBI",
-          "hi": "नोएल टाटा बोले, टाटा संस की लिस्टिंग से 'बदल जाएगा टाटा का तरीका', ट्रस्ट करेंगे आरबीआई से बात"
+          "en": "ASEAN's 49th summit opens in Manila with Marcos calling for unity as the Gulf war and storms test the Philippine chairship",
+          "hi": "मनीला में आसियान का 49वां शिखर सम्मेलन शुरू, मार्कोस ने एकजुटता की अपील की; खाड़ी युद्ध और तूफानों से घिरी रही फिलीपींस की अध्यक्षता"
         }
       },
       {
-        "link": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "link": "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
         "lead": {
-          "en": "Fuel prices:",
-          "hi": "ईंधन के दाम:"
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
         },
         "text": {
-          "en": "No quick cut in petrol and diesel prices: Union minister Suresh Gopi cites ₹42,000 crore oil company losses",
-          "hi": "पेट्रोल-डीजल के दाम तुरंत नहीं घटेंगे: केंद्रीय मंत्री सुरेश गोपी ने तेल कंपनियों के 42,000 करोड़ रुपये के घाटे का हवाला दिया"
-        }
-      },
-      {
-        "link": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "NASA satellites show this El Niño tracking the 1997 giant, and it may grow bigger",
-          "hi": "नासा के उपग्रहों में अल नीनो 1997 जैसा, इससे भी बड़ा हो सकता है"
-        }
-      },
-      {
-        "link": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "lead": {
-          "en": "Quad:",
-          "hi": "क्वाड:"
-        },
-        "text": {
-          "en": "Washington says it is working to formalise a Quad leaders' summit in Manila as Modi leaves for the ASEAN meetings",
-          "hi": "मोदी आसियान बैठकों के लिए रवाना, अमेरिका का कहना है कि मनीला में क्वाड नेताओं का शिखर सम्मेलन तय करने की कोशिश जारी"
+          "en": "Government health spending reaches ₹4.14 lakh crore in 2023-24, households' share of the bill falls to 42.7%",
+          "hi": "2023-24 में सरकारी स्वास्थ्य खर्च ₹4.14 लाख करोड़ पहुंचा, मरीजों की जेब से खर्च का हिस्सा घटकर 42.7%"
         }
       }
     ]
@@ -186,26 +185,26 @@
   },
   "topStories": {
     "big": {
-      "id": "perseverance-mars-complex-organic-carbon-bright-angel",
+      "id": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
       "also": []
     },
     "list": [
+      "wpi-inflation-october-2026",
+      "perseverance-mars-complex-organic-carbon-bright-angel",
       "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
       "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-      "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-      "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
+      "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair"
     ],
     "also": [
-      "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-      "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports"
+      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
     ]
   },
   "startHere": [
-    "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings",
     "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b"
+    "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings",
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left"
   ],
   "trackers": [
     {
@@ -373,14 +372,14 @@
       },
       "list": [
         "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
       ],
       "lead": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
     },
     {
       "section": "economy",
-      "lead": "wpi-inflation-october-2026",
+      "lead": "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,17 +390,17 @@
         ]
       },
       "list": [
+        "wpi-inflation-october-2026",
         "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-        "wpi-inflation-october-data-due-monday-rbi-december",
         "goyal-cairo-us-preferential-access-egypt-jtc"
       ]
     },
     {
       "section": "states",
-      "lead": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+      "lead": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
       "list": [
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
         "rajasthan-ganganagar-railway-track-blast-arrests",
-        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
         "murasu-andhra-damage-revised-2484-crore-central-team-naidu"
       ]
     },
@@ -444,12 +443,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+      "lead": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
       "list": [
+        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
         "england-banton-century-adelaide-second-odi-series-level",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
       ]
     }
   ],
@@ -469,14 +468,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
-        "en": "Piyush Goyal's visit to Egypt ends",
-        "hi": "पीयूष गोयल की मिस्र यात्रा पूरी"
+        "en": "Rahul Gandhi's fireside chat at Columbia University",
+        "hi": "राहुल गांधी की कोलंबिया यूनिवर्सिटी में बातचीत"
       },
-      "link": "goyal-cairo-us-preferential-access-egypt-jtc"
+      "link": "bjp-questions-rahul-gandhi-us-trip-pitroda-columbia-chicago"
     },
     {
       "icon": "calendar-blank",
@@ -493,14 +492,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Nov 18",
+        "hi": "18 नवंबर"
       },
       "text": {
-        "en": "ASEAN-India Summit and East Asia Summit in Manila; Quad leaders' meeting being worked on",
-        "hi": "मनीला में आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन; क्वाड नेताओं की बैठक की कोशिश जारी"
+        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
+        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
       },
-      "link": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
+      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     },
     {
       "icon": "calendar-blank",
@@ -513,37 +512,9 @@
         "hi": "भाजपा की समरस्ता संकल्प यात्रा को नितिन नबीन जालंधर से हरी झंडी दिखाएंगे"
       },
       "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
-      },
-      "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
-      },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T01:51:55+05:30",
-      "ids": [
-        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
-        "farmer-id-explained-digital-agriculture-mission",
-        "msp-explained-how-set-who-benefits",
-        "wpi-inflation-october-data-due-monday-rbi-december",
-        "england-banton-century-adelaide-second-odi-series-level",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
-        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
-        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision"
-      ]
-    },
     {
       "at": "2026-11-16T06:42:14+05:30",
       "ids": [
@@ -653,8 +624,30 @@
         "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
         "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
       ]
+    },
+    {
+      "at": "2026-11-16T14:44:51+05:30",
+      "ids": [
+        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+        "rajasthan-ganganagar-railway-track-blast-arrests",
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "wpi-inflation-october-2026",
+        "perseverance-mars-complex-organic-carbon-bright-angel",
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "wpi-inflation-october-data-due-monday-rbi-december",
+    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+    "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+    "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
+    "winter-session-first-week-december-delimitation-womens-quota-bill"
+  ]
 }

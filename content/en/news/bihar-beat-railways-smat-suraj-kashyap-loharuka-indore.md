@@ -68,7 +68,7 @@ Bihar **beat Railways by four wickets with 10 balls to spare** in the Syed Musht
 
 ## Bihar's bowlers set it up
 
-Railways, in Elite Group B with Bihar, made **137 for 9 in their 20 overs**. Jayant Lakhan top-scored with 47 off 44 balls, and Zubair Ali (26 off 18) and Ravi Singh (21 off 11) gave the innings its late push, but no other batter went past 21 and the total stayed short of what a T20 side expects on a good surface.
+Railways, in Elite Group B with Bihar, made **137 for 9 in their 20 overs**. Jayant Lakhan top-scored with 47 off 44 balls, and Zubair Ali (26 off 18) and Ravi Singh (21 off 11) gave the innings its late push, but the rest of the order added little and the total stayed short of what a T20 side expects on a good surface.
 
 The wickets were shared. **Prashant Singh and Suraj Kashyap took three each**, both for 28 runs in four overs. Mohammad Saif was the most economical of the bowlers, taking two for 17 in his four, and Toufik Uddin Mondal had one for seven in a single over. Kashyap, who also captained the side, was named **player of the match** for his spell.
 

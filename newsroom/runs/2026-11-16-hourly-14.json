@@ -1,0 +1,32 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-16T14:04:37+05:30",
+ "end": "2026-11-16T14:51:38+05:30",
+ "summary": "3 new, Himachal session lead, Belarus held, homepage editor FAIL on lead (2-hour rule)",
+ "new": [
+  "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+  "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+  "himachal-winter-session-opens-tapovan-414-questions-six-sittings"
+ ],
+ "held": [
+  "belarus-fm-ryzhenkov-delhi-intergovernmental-commission"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "belarus-fm-ryzhenkov-delhi-intergovernmental-commission",
+   "kind": "picture",
+   "why": "Headline and story are about Belarus Foreign Minister Ryzhenkov, the visitor and main actor. The main picture is a different person, Jitin Prasada, in an old-looking file photo in front of a wooden cabinet. The person who acted does not come first, and the picture reads as a stand-in.",
+   "fix": "No free Ryzhenkov photo exists (NOPHOTO). Drop the Prasada portrait and use the Gandhi News infographic cover (India-Belarus, $1 bn+ trade, 846 students, visit timeline) already in the file. Check the Hindi cover too."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+   "why": "key point said the two decisions would dominate the questions",
+   "done": "reworded in English and Hindi to: the House meets with two fresh decisions on the record"
+  }
+ ],
+ "breaches": [],
+ "lead": "himachal-winter-session-opens-tapovan-414-questions-six-sittings"
+}
