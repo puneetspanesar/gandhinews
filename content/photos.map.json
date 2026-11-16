@@ -50933,30 +50933,16 @@
   }
  },
  "akvan-deep-depression-monday-imd-landfall-night-nov-19": {
-  "id": "o-akvan-deep-depression-monday-imd-landfall-night-nov-19",
-  "src": "/photos/o-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
-  "src800": "/photos/o-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
+  "id": "r-akvan-deep-depression-monday-imd-landfall-night-nov-19",
+  "src": "/photos/r-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
+  "src800": "/photos/r-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
   "width": 1280,
-  "height": 961,
-  "srcWidth": 962,
-  "credit": "Photo: Indian Navy / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Trees uprooted by Cyclone Hudhud in a residential area of Visakhapatnam in 2014 (file photo)",
-  "alt_hi": "2014 में चक्रवात हुदहुद से विशाखापत्तनम की एक रिहायशी बस्ती में उखड़े पेड़ (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Trees_uprooted_by_Cyclone_Hudhud_in_a_residential_area_of_Visakhapatnam.jpg",
-  "treated": {
-   "src": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
-   "src800": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
-   "cutout": false,
-   "with": [
-    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-    "keralam-orange-alert-five-districts-heavy-rain",
-    "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression"
-   ],
-   "kind": "photo",
-   "subj": "fcfcfc9080000c3c",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Prasad Pillai from Muscat, Oman / Wikimedia Commons; MPVK / Wikimedia Commons"
-  }
+  "height": 960,
+  "credit": "Photo: Adityamadhav83 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)",
+  "alt_hi": "चक्रवात हुदहुद के दौरान विशाखापत्तनम की बीच रोड पर तूफ़ानी आसमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_effect_of_Cyclone_Hudhud_at_Visakhapatnam_04.jpg"
  },
  "wpi-inflation-october-2026": {
   "id": "i-wpi-inflation-october-2026",
@@ -51126,5 +51112,17 @@
    }
   },
   "nophoto": "no free photo of the Bihar-Railways match, Suraj Kashyap or a usable Holkar Stadium photo (only 800 px); library, quick_photo, finder h1614 and h1614b"
+ },
+ "supreme-court-449-ndps-courts-status-reports-little-progress": {
+  "id": "r-supreme-court-449-ndps-courts-status-reports-little-progress",
+  "src": "/photos/r-supreme-court-449-ndps-courts-status-reports-little-progress-1280.jpg",
+  "src800": "/photos/r-supreme-court-449-ndps-courts-status-reports-little-progress-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India (file photo)",
+  "alt_hi": "भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg"
  }
 }
