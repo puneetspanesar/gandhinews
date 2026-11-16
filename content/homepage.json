@@ -74,6 +74,17 @@
         }
       },
       {
+        "link": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+        "lead": {
+          "en": "Cyclone Akvan:",
+          "hi": "चक्रवात अकवान:"
+        },
+        "text": {
+          "en": "Akvan due to be named today: IMD's rain warnings now reach Tamil Nadu, Bengal and Jharkhand as well as Andhra and Odisha",
+          "hi": "आज बनेगा चक्रवात अकवान: मौसम विभाग की बारिश की चेतावनी अब तमिलनाडु, बंगाल और झारखंड तक, आंध्र और ओडिशा के साथ"
+        }
+      },
+      {
         "link": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
         "lead": {
           "en": "Quad:",
@@ -104,17 +115,6 @@
         "text": {
           "en": "Gill's India open the New Zealand Test series in Wellington on Thursday with World Test Championship points at stake",
           "hi": "गिल की टीम इंडिया गुरुवार को वेलिंगटन में न्यूज़ीलैंड के खिलाफ टेस्ट सीरीज़ शुरू करेगी, विश्व टेस्ट चैंपियनशिप के अंक दांव पर"
-        }
-      },
-      {
-        "link": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
-        },
-        "text": {
-          "en": "Amit Shah says Rahul Gandhi is 'defaming India' abroad, tells him to visit villages if he wants power",
-          "hi": "अमित शाह का राहुल गांधी पर वार: विदेश में 'भारत को बदनाम' कर रहे, सत्ता चाहिए तो गांव जाएं"
         }
       }
     ]
@@ -188,13 +188,13 @@
     "list": [
       "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
       "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+      "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
       "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
+      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
     ],
     "also": [
-      "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-      "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
+      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+      "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
+        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address",
+        "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
       ],
-      "lead": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
+      "lead": "winter-session-first-week-december-delimitation-womens-quota-bill"
     },
     {
       "section": "economy",
@@ -525,23 +525,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-15T22:43:39+05:30",
-      "ids": [
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
-        "yogi-adityanath-1-27-crore-hindu-voters-missing-claim",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
-        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
-      ]
-    },
-    {
       "at": "2026-11-15T23:52:00+05:30",
       "ids": [
         "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
@@ -652,6 +635,20 @@
         "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
         "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
       ]
+    },
+    {
+      "at": "2026-11-16T11:05:07+05:30",
+      "ids": [
+        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+        "rajasthan-ganganagar-railway-track-blast-arrests",
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
+      ]
     }
   ],
   "critical": [],
@@ -667,6 +664,8 @@
     "goyal-cairo-us-preferential-access-egypt-jtc",
     "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
     "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-    "england-banton-century-adelaide-second-odi-series-level"
+    "england-banton-century-adelaide-second-odi-series-level",
+    "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+    "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
   ]
 }

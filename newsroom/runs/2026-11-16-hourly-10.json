@@ -1,16 +1,10 @@
 {
  "run": "hourly-10",
  "start": "2026-11-16T10:04:49+05:30",
- "end": "2026-11-16T10:55:11+05:30",
- "summary": "3 stories, Iran third-carrier lead, SMAT recap held",
- "new": [
-  "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-  "rajasthan-ganganagar-railway-track-blast-arrests",
-  "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
- ],
- "held": [
-  "smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one"
- ],
+ "end": "2026-11-16T11:08:05+05:30",
+ "summary": "second publish: homepage rotated for 11:00",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [
   {
