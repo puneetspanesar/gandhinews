@@ -52995,13 +52995,13 @@
   "src": "/photos/o-smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one-1280.jpg",
   "src800": "/photos/o-smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one-640.jpg",
   "width": 1280,
-  "height": 833,
-  "srcWidth": 665,
-  "credit": "Photo: Kolkata Knight Riders - Official / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "Suryakumar Yadav (file photo)",
-  "alt_hi": "सूर्यकुमार यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Suryakumar_Yadav_(1).jpg",
+  "height": 882,
+  "srcWidth": 2200,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Suryakumar Yadav in India kit with Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "भारतीय टीम की जर्सी में सूर्यकुमार यादव, प्रधानमंत्री नरेंद्र मोदी के साथ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:PM_Shri_Narendra_Modi_with_Suryakumar_Yadav_and_his_wife_Devika_Shetty.jpg",
   "treated": {
    "src": "/photos/t-smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one-1280.jpg",
    "src800": "/photos/t-smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one-640.jpg",
@@ -53012,34 +53012,33 @@
     "priyansh-arya-199-badoni-century-delhi-gujarat-ranji"
    ],
    "kind": "photo",
-   "subj": "8010101034fbfbf6",
-   "credit": "Photos: Kolkata Knight Riders - Official / Wikimedia Commons; Vinayaraj / Wikimedia Commons; Sunnya343 / Wikimedia Commons; Paramgoel / Wikimedia Commons"
+   "subj": "ffffff8f01838100",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Vinayaraj / Wikimedia Commons; Sunnya343 / Wikimedia Commons; Paramgoel / Wikimedia Commons"
   }
  },
  "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30": {
-  "id": "o-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-  "src": "/photos/o-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30-1280.jpg",
-  "src800": "/photos/o-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30-640.jpg",
+  "id": "r-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+  "src": "/photos/r-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30-1280.jpg",
+  "src800": "/photos/r-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30-640.jpg",
   "width": 1280,
-  "height": 717,
-  "srcWidth": 2200,
-  "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
+  "height": 876,
+  "credit": "Photo: PIB / Wikimedia Commons",
   "licence": "GODL-India",
-  "alt": "Union Environment Minister Bhupender Yadav at his desk in the ministry (file photo)",
-  "alt_hi": "पर्यावरण मंत्रालय में अपनी मेज़ पर केंद्रीय पर्यावरण मंत्री भूपेंद्र यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav_assumed_charge_as_the_Minister_of_Environment,_Forest_and_Climate_Change.jpg",
+  "alt": "Bhupender Yadav (file photo)",
+  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav.jpg",
   "treated": {
    "src": "/photos/t-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30-1280.jpg",
    "src800": "/photos/t-bhupender-yadav-ncr-191-units-sealing-anpr-nov-30-640.jpg",
-   "cutout": false,
+   "cutout": true,
    "with": [
     "delhi-grap-stage-three-aqi-382-caqm",
     "up-village-polls-cannot-wait-for-an-appeal",
     "yogi-varanasi-mlc-teachers-poll-old-pension"
    ],
    "kind": "photo",
-   "subj": "3f38793939391118",
-   "credit": "Photos: Ministry of Environment, Forest and Climate Change / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Shoonyea / Wikimedia Commons; Vujn at en.wikipedia / Wikimedia Commons"
+   "subj": "80313071f5f7f",
+   "credit": "Photos: PIB / Wikimedia Commons; Saurabh Kumar / Wikimedia Commons; Shoonyea / Wikimedia Commons; Vujn at en.wikipedia / Wikimedia Commons"
   }
  },
  "rajasthan-ganganagar-railway-track-blast-arrests": {

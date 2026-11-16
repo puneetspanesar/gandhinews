@@ -1,0 +1,32 @@
+{
+ "run": "hourly-10",
+ "start": "2026-11-16T10:04:49+05:30",
+ "end": "2026-11-16T10:53:49+05:30",
+ "summary": "3 stories, Iran third-carrier lead, SMAT recap held",
+ "new": [
+  "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+  "rajasthan-ganganagar-railway-track-blast-arrests",
+  "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
+ ],
+ "held": [
+  "smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "smat-suryakumar-mumbai-hyderabad-mayank-delhi-round-one",
+   "kind": "picture",
+   "why": "Main picture is a posed family/photo-op shot of Suryakumar Yadav standing between his wife and Prime Minister Modi in front of flags. It is not a cricket picture, shares the frame equally with two other people, and has nothing to do with a Mumbai chase or Mayank Yadav's 5 for 14. It looks like a stand-in. Also the story is a Saturday November 14 match report (about 44 hours old) and ends 'Mumbai and Delhi go into round two as winners' when round two may already have been played; the run found no round-two results.",
+   "fix": "Name Suryakumar Yadav (solo, batting or in Mumbai/India kit) and rerun the library, quick_photo.py and the finder for a single-person cricket photo of him; do not use the photo with Modi. Mayank Yadav (Delhi bowler) for the in-story slot if found. Check whether round two has been played; if it has, update the story with the latest results or rewrite the closing line, and drop it from the top headlines if it stays Saturday-only."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+   "why": "Rule 14: an outlet is named in the story. The English body says Gharibabadi 'told the state news agency IRNA' (Hindi twin: 'इरना'), and the infographic source line reads 'IRNA statement' (Hindi: 'इरना का बयान'). Picture (USS Theodore Roosevelt file photo, labelled) and figures (2.1 million barrels a day, 247,000, $95.89, 20+ vessels) check out against the Hindi twin.",
+   "done": "IRNA replaced with 'Iranian state media' in the English and Hindi text and in the infographic source line (verification notes keep it, as metadata)."
+  }
+ ],
+ "breaches": [],
+ "lead": "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
+}

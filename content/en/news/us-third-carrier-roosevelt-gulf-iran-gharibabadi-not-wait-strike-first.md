@@ -31,7 +31,7 @@ infographic:
     - {date: "Apr 13", text: "US blockade of Iranian ports starts after nuclear talks collapse", icon: anchor}
     - {date: "Nov 15", text: "USS Theodore Roosevelt enters US Central Command's area", icon: airplane}
     - {date: "Nov 15 night", text: "Gharibabadi: Iran will not wait for the US to attack first", icon: megaphone}
-  source: "US official as relayed by reports; IRNA statement, November 15-16, 2026"
+  source: "US official as relayed by reports; Iranian state media, November 15-16, 2026"
 seo:
   title: "Third US carrier in Gulf; Iran will not wait to be attacked"
   description: "The USS Theodore Roosevelt entered the Middle East on November 15, a third US carrier off Iran. Tehran says it will not wait for the US to strike first."
@@ -70,7 +70,7 @@ verification:
     - "Sunday-night tanker mine fire: Iranian navy claim only, unconfirmed, no name or flag. Brent $95.89 Friday close and the 2.1 mb/d figure are from our own November 15 story."
     - "Hero is a file portrait of Trump (library), labelled; Gharibabadi and the carrier are for the picture finder."
 ---
-A third US aircraft carrier has reached the waters off Iran, and Tehran has said it **will not wait for the United States to attack first**. The USS Theodore Roosevelt strike group entered the area run by US Central Command on Sunday, November 15, according to a US official quoted by reports, joining the USS George H.W. Bush and the USS George Washington, both believed to be in the Arabian Sea. Within hours Iran's deputy foreign minister, Kazem Gharibabadi, told the state news agency IRNA that Iran would not sit back while Washington prepared another assault.
+A third US aircraft carrier has reached the waters off Iran, and Tehran has said it **will not wait for the United States to attack first**. The USS Theodore Roosevelt strike group entered the area run by US Central Command on Sunday, November 15, according to a US official quoted by reports, joining the USS George H.W. Bush and the USS George Washington, both believed to be in the Arabian Sea. Within hours Iran's deputy foreign minister, Kazem Gharibabadi, told Iranian state media that Iran would not sit back while Washington prepared another assault.
 
 ## What each side said
 
