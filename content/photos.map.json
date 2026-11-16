@@ -52426,16 +52426,29 @@
   }
  },
  "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade": {
-  "id": "r-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-  "src": "/photos/r-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade-1280.jpg",
-  "src800": "/photos/r-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade-640.jpg",
+  "id": "o-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+  "src": "/photos/o-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade-1280.jpg",
+  "src800": "/photos/o-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: T3n60 / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "The waterfront at Aden, Yemen (file photo)",
-  "alt_hi": "यमन के अदन का समुद्री किनारा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Aden,_Yemen_Port.jpg"
+  "height": 720,
+  "srcWidth": 1920,
+  "credit": "Photo: Amin Dabwan / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Yemeni government fighters in Jabal Habashi district, Taiz (file photo)",
+  "alt_hi": "ताइज़ के जबल हबाशी जिले में यमनी सरकारी लड़ाके (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Yemeni_government_fighters_in_Jabal_Habashi_district,_Taiz_(1).png",
+  "treated": {
+   "src": "/photos/t-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade-1280.jpg",
+   "src800": "/photos/t-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade-640.jpg",
+   "cutout": false,
+   "with": [
+    "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+    "monday-open-brent-eases-us-futures-rise-infosys-test"
+   ],
+   "kind": "photo",
+   "subj": "ff7f3f0f07070000",
+   "credit": "Photos: Amin Dabwan / Wikimedia Commons; US Navy / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
+  }
  },
  "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham": {
   "id": "o-india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
@@ -52448,7 +52461,20 @@
   "licence": "CC0",
   "alt": "Shubman Gill (file photo)",
   "alt_hi": "शुभमन गिल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prince_Shubman_Gill.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Prince_Shubman_Gill.jpg",
+  "treated": {
+   "src": "/photos/t-india-new-zealand-first-test-wellington-thursday-wtc-stakes--1280.jpg",
+   "src800": "/photos/t-india-new-zealand-first-test-wellington-thursday-wtc-stakes--640.jpg",
+   "cutout": true,
+   "with": [
+    "india-new-zealand-second-odi-wellington-rain-forecast-preview",
+    "india-women-zimbabwe-second-odi-vadodara-rawal-preview",
+    "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7676703181818",
+   "credit": "Photos: Bollywood Hungama / Wikimedia Commons; Phillip Capper / Wikimedia Commons; [2] / Wikimedia Commons; Dibyajeet Dash / Wikimedia Commons"
+  }
  },
  "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7": {
   "id": "o-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
@@ -52461,7 +52487,19 @@
   "licence": "GODL-India",
   "alt": "J. P. Nadda (file photo)",
   "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg",
+  "treated": {
+   "src": "/photos/t-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7-1280.jpg",
+   "src800": "/photos/t-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7-640.jpg",
+   "cutout": false,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "b9b9113d2d21ffe7",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
  },
  "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta": {
   "id": "o-delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
@@ -52474,6 +52512,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Women observing the Chhath vrat in the Yamuna in Delhi (file photo)",
   "alt_hi": "दिल्ली में यमुना में छठ व्रत करती महिलाएं (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Women_Observing_Chhath_Vrat_at_Yamuna_Delhi.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Women_Observing_Chhath_Vrat_at_Yamuna_Delhi.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gup-1280.jpg",
+   "src800": "/photos/t-delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gup-640.jpg",
+   "cutout": false,
+   "with": [
+    "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed",
+    "pac-examines-sc-scholarship-schemes-cag-report"
+   ],
+   "kind": "photo",
+   "subj": "f000054bcfe7e06",
+   "credit": "Photos: Goutam1962 / Wikimedia Commons; Jaseem Hamza / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
+  }
  }
 }

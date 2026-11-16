@@ -1,0 +1,20 @@
+{
+ "run": "hourly-06",
+ "start": "2026-11-16T06:04:40+05:30",
+ "end": "2026-11-16T06:44:48+05:30",
+ "summary": "4 stories: Chhath ghats lead, NHA 2023-24, Yemen Bab el-Mandeb, India v NZ Test preview",
+ "new": [
+  "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+  "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+  "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+  "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): ninth-schedule-explained-karnataka-sc-st-quota-article-31b"
+ ],
+ "lead": "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+}

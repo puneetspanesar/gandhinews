@@ -4,7 +4,7 @@ lang: en
 type: news
 section: policy
 format_label: "Policy / Health"
-topics: [health]
+topics: []
 title: "Government health spending reaches ₹4.14 lakh crore in 2023-24, households' share of the bill falls to 42.7%"
 standfirst: "The Union Health Ministry's National Health Accounts for 2023-24 show the Centre and states together spending about three times what they did in 2013-14, while the share paid directly by patients has dropped 21.5 percentage points."
 published: 2026-11-16T06:24:02+05:30

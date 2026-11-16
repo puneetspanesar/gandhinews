@@ -72,7 +72,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "ICC page read in full (squad, Walter quotes, standings). BCCI match page opened but lists no squads or news; its dates are inconsistent (19 or 18 to 23 Nov), so we use November 19 from the ICC, CricketNews and the page heading. ICC text says 19-24 Nov; we write 'scheduled to run to November 23' per BCCI heading, hedged."
+    - "ICC page read in full (squad, Walter quotes, standings). BCCI match page opened but lists no squads or news; its dates are inconsistent (19 or Nov 18 to 23), so we use November 19 from the ICC, CricketNews and the page heading. ICC text says Nov 19-24; we write 'scheduled to run to November 23' per BCCI heading, hedged."
     - "Start time 11 am NZDT = 3:30 am IST from CricketNews. Second Test Hagley Oval from November 27 on ICC, CricketNews, NZ Sports Wire."
     - "WTC points (68 points, 51.52 per cent, about 59 per cent with two wins, four points for a draw) from the Open article only; hedged. Positions (South Africa first, New Zealand second, Australia third, India fourth) from the ICC page."
     - "Bumrah's career figures and his six wicketless overs at Lincoln come from an excerpt of the NZ City piece (the full text was not readable), so the figures are attributed to reports. Search budget was exceeded in this run; no pitch or weather report was found, so none is claimed."

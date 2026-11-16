@@ -53232,16 +53232,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Joe_Root_HIP1487.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aden%2C_Yemen_Port.jpg/1600px-Aden%2C_Yemen_Port.jpg",
-  "credit": "Photo: T3n60 / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "The waterfront at Aden, Yemen (file photo)",
-  "alt_hi": "यमन के अदन का समुद्री किनारा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Aden,_Yemen_Port.jpg",
-  "id": "r-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-  "articleId": "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
- },
- {
   "id": "o-india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
   "articleId": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Prince_Shubman_Gill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53270,5 +53260,15 @@
   "alt": "Women observing the Chhath vrat in the Yamuna in Delhi (file photo)",
   "alt_hi": "दिल्ली में यमुना में छठ व्रत करती महिलाएं (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Women_Observing_Chhath_Vrat_at_Yamuna_Delhi.jpg"
+ },
+ {
+  "id": "o-yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+  "articleId": "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Yemeni_government_fighters_in_Jabal_Habashi_district%2C_Taiz_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Amin Dabwan / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Yemeni government fighters in Jabal Habashi district, Taiz (file photo)",
+  "alt_hi": "ताइज़ के जबल हबाशी जिले में यमनी सरकारी लड़ाके (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Yemeni_government_fighters_in_Jabal_Habashi_district,_Taiz_(1).png"
  }
 ]
