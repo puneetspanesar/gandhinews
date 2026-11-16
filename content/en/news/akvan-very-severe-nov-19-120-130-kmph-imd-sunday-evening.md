@@ -38,10 +38,6 @@ related: [akvan-depression-forms-severe-cyclone-nov-17-imd-sunday, akvan-severe-
 seo:
   title: "Cyclone Akvan may be very severe by Nov 19, IMD says"
   description: "The IMD's Sunday bulletin says Akvan could reach 120 to 130 km/h by early November 19 and head for north Andhra Pradesh. No landfall point is named yet."
-upcoming:
-  date: 2026-11-16
-  en: "IMD expects the depression to become Cyclone Akvan by evening"
-  hi: "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
 sources:
   - title: "Possible Cyclone Akvan May Become Very Severe With 145 Kmph Gusts On Nov 19; Heavy Rain To Pound Odisha"
     publisher: "OdishaBytes"

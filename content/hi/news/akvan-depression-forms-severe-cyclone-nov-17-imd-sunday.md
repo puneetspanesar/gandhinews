@@ -39,10 +39,6 @@ related: [akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-retu
 seo:
   title: "चक्रवात अकवान: अवदाब बना, 17 नवंबर तक भीषण तूफान"
   description: "मौसम विभाग के अनुसार बंगाल की खाड़ी का तंत्र 15 नवंबर को सुबह 5:30 बजे अवदाब बना और 17 नवंबर तक भीषण चक्रवाती तूफान बन सकता है। तट तय नहीं।"
-upcoming:
-  date: 2026-11-16
-  en: "IMD expects the depression to become Cyclone Akvan by evening"
-  hi: "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
 sources:
   - title: "Bay of Bengal Low Pressure Intensifies Into Depression; Likely to Become Severe Cyclonic Storm by November 17, Says IMD"
     publisher: "Pragativadi"

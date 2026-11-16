@@ -38,10 +38,6 @@ related: [akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-retu
 seo:
   title: "Cyclone Akvan: depression forms, severe storm by Nov 17"
   description: "The IMD says the Bay of Bengal system became a depression at 5:30 am on November 15 and may be a severe cyclonic storm by November 17. No landfall is named yet."
-upcoming:
-  date: 2026-11-16
-  en: "IMD expects the depression to become Cyclone Akvan by evening"
-  hi: "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
 sources:
   - title: "Bay of Bengal Low Pressure Intensifies Into Depression; Likely to Become Severe Cyclonic Storm by November 17, Says IMD"
     publisher: "Pragativadi"

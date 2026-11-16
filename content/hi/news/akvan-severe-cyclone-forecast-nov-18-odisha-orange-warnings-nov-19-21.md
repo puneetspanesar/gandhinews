@@ -39,7 +39,6 @@ related: [akvan-track-uncertain-andhra-odisha-imd-saturday, odisha-bay-of-bengal
 seo:
   title: "चक्रवात अकवान 18 नवंबर तक भीषण, ओडिशा में ऑरेंज अलर्ट"
   description: "मौसम विभाग के शनिवार के अपडेट में अकवान 18 नवंबर के आसपास भीषण चक्रवाती तूफान बन सकता है। ओडिशा में 19 से 21 नवंबर को ऑरेंज चेतावनी; तट तय नहीं।"
-upcoming: {date: 2026-11-16, en: "IMD expects the Bay of Bengal system to become Cyclone Akvan by evening", hi: "मौसम विभाग को उम्मीद है कि बंगाल की खाड़ी का तंत्र शाम तक चक्रवात अकवान बन जाएगा"}
 sources:
   - title: "Odisha braces for heavy to very heavy rain as Cyclone Akvan develops"
     publisher: "Sambad English"
