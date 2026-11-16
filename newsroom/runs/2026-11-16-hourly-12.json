@@ -1,17 +1,10 @@
 {
  "run": "hourly-12",
  "start": "2026-11-16T12:05:00+05:30",
- "end": "2026-11-16T12:49:08+05:30",
- "summary": "3 news + 1 fact check, Akvan Monday bulletin lead, WPI 12.29%, editorial held",
- "new": [
-  "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
-  "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-  "perseverance-mars-complex-organic-carbon-bright-angel",
-  "wpi-inflation-october-2026"
- ],
- "held": [
-  "kerala-congress-post-on-cji-court-should-weigh-the-apology-and-draw-a-clear-contempt-line"
- ],
+ "end": "2026-11-16T13:03:14+05:30",
+ "summary": "second publish: collage fixes",
+ "new": [],
+ "held": [],
  "editor": "FAIL",
  "editor_fail": [
   {

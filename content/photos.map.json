@@ -1067,26 +1067,6 @@
    "credit": "Photo: Vanquish0 / Wikimedia Commons"
   }
  },
- "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds": {
-  "id": "chennai-metro",
-  "src": "/photos/chennai-metro-1280.jpg",
-  "src800": "/photos/chennai-metro-640.jpg",
-  "width": 1280,
-  "height": 841,
-  "credit": "Photo: TamizhanEditor / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A Chennai Metro Phase 2 train",
-  "alt_hi": "चेन्नई मेट्रो फेज़ 2 की एक ट्रेन",
-  "page": "https://commons.wikimedia.org/wiki/File:Chennai_Metro_Phase2_trainset.jpg",
-  "treated": {
-   "src": "/photos/t-modi-opens-chennai-metro-stretch-vijay-seeks-school-funds-1280.jpg",
-   "src800": "/photos/t-modi-opens-chennai-metro-stretch-vijay-seeks-school-funds-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "credit": "Photo: TamizhanEditor / Wikimedia Commons"
-  }
- },
  "protest-is-not-a-threat-to-public-order": {
   "id": "jm-students",
   "src": "/photos/jm-students-1280.jpg",
@@ -53108,7 +53088,19 @@
   "licence": "GODL-India",
   "alt": "Suvendu Adhikari (file photo)",
   "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-suvendu-adhikari-caa-all-eligible-applications-disposed-by-d-1280.jpg",
+   "src800": "/photos/t-suvendu-adhikari-caa-all-eligible-applications-disposed-by-d-640.jpg",
+   "cutout": true,
+   "with": [
+    "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls--p1",
+    "suvendu-visits-chorbagan-victim-family-25-lakh"
+   ],
+   "kind": "photo",
+   "subj": "f7e3e3e3e3e3e7e3",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons"
+  }
  },
  "perseverance-mars-complex-organic-carbon-bright-angel": {
   "id": "o-perseverance-mars-complex-organic-carbon-bright-angel",
@@ -53154,12 +53146,12 @@
    "cutout": false,
    "with": [
     "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-    "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
-    "keralam-orange-alert-five-districts-heavy-rain"
+    "keralam-orange-alert-five-districts-heavy-rain",
+    "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression"
    ],
    "kind": "photo",
    "subj": "fcfcfc9080000c3c",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; TamizhanEditor / Wikimedia Commons; Prasad Pillai from Muscat, Oman / Wikimedia Commons"
+   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; Prasad Pillai from Muscat, Oman / Wikimedia Commons; MPVK / Wikimedia Commons"
   }
  },
  "wpi-inflation-october-2026": {
@@ -53202,6 +53194,26 @@
     "src": "/photos/i-wpi-inflation-october-2026-hi-1280.jpg",
     "src800": "/photos/i-wpi-inflation-october-2026-hi-640.jpg"
    }
+  }
+ },
+ "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds": {
+  "id": "chennai-metro",
+  "src": "/photos/chennai-metro-1280.jpg",
+  "src800": "/photos/chennai-metro-640.jpg",
+  "width": 1280,
+  "height": 841,
+  "credit": "Photo: TamizhanEditor / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A Chennai Metro Phase 2 train",
+  "alt_hi": "चेन्नई मेट्रो फेज़ 2 की एक ट्रेन",
+  "page": "https://commons.wikimedia.org/wiki/File:Chennai_Metro_Phase2_trainset.jpg",
+  "treated": {
+   "src": "/photos/t-modi-opens-chennai-metro-stretch-vijay-seeks-school-funds-1280.jpg",
+   "src800": "/photos/t-modi-opens-chennai-metro-stretch-vijay-seeks-school-funds-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "credit": "Photo: TamizhanEditor / Wikimedia Commons"
   }
  }
 }
