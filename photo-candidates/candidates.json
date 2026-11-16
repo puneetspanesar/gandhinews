@@ -1,0 +1,46 @@
+{
+  "k1": {
+    "query": "Holkar Stadium Indore",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Maharani Usha Raje Cricket Stadium Indore - panoramio.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Maharani_Usha_Raje_Cricket_Stadium_Indore_-_panoramio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Maharani_Usha_Raje_Cricket_Stadium_Indore_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 800,
+        "height": 532,
+        "licence": "CC BY 3.0",
+        "author": "Gyanendrasinghchauha…",
+        "credit": "https://web.archive.org/web/20161014221034/http://www.panoramio.com/photo/33460084",
+        "date": "21 March 2010 (original upload date)",
+        "description": "Maharani Usha Raje Cricket Stadium Indore",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/2/29/Maharani_Usha_Raje_Cricket_Stadium_Indore_-_panoramio.jpg"
+      }
+    ]
+  },
+  "k2": {
+    "query": "Indore cricket match",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Lt Gen DP Pandey.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Lt_Gen_DP_Pandey.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lt_Gen_DP_Pandey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1074,
+        "height": 1280,
+        "licence": "CC BY-SA 4.0",
+        "author": "Lt Gen DP Pandey",
+        "credit": "Own work",
+        "date": "2022-08-01",
+        "description": "photo of Lt Gen DP Pandey",
+        "thumb": "k2-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lt_Gen_DP_Pandey.jpg"
+      }
+    ]
+  },
+  "k3": {
+    "query": "Ranji Trophy Bihar cricket",
+    "candidates": []
+  }
+}
