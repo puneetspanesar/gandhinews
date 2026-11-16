@@ -1,14 +1,9 @@
 {
  "run": "hourly-08",
  "start": "2026-11-16T08:04:30+05:30",
- "end": "2026-11-16T08:52:53+05:30",
- "summary": "Akvan IMD warnings lead, Gopi fuel prices, Noel Tata listing, NASA El Nino",
- "new": [
-  "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
-  "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-  "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-  "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
- ],
+ "end": "2026-11-16T09:23:05+05:30",
+ "summary": "homepage rotated after the long-form merge, markets open figures",
+ "new": [],
  "held": [],
  "editor": "PASS",
  "editor_fail": [],
@@ -19,8 +14,6 @@
    "done": "Chandrasekaran removed from hero.subjects and the main picture; story on its infographic with --nophoto (Noel Tata not in the library; finder h1608 found only a 2013 three-person shot). Noel Tata added to people.tsv. Dead in-story photo blocks removed from this and the Gopi story."
   }
  ],
- "breaches": [
-  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): ninth-schedule-explained-karnataka-sc-st-quota-article-31b"
- ],
- "lead": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
+ "breaches": [],
+ "lead": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21"
 }
