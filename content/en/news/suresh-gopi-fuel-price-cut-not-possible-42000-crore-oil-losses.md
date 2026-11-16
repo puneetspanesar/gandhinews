@@ -30,7 +30,7 @@ infographic:
     - {icon: gas-pump, value: "₹7", label: "diesel rise at $120 crude; ₹43 absorbed"}
     - {icon: warning, value: "$95.89", label: "Brent on November 13, against $72 before the war"}
   source: "Union minister Suresh Gopi, November 16, 2026; PMO, November 12, 2026"
-related: [karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis, modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser, wpi-inflation-october-data-due-monday-rbi-december, retail-inflation-october-2026-6-09-two-year-high, bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, hormuz-three-tankers-mines-predator-qeshm-brent-india]
+related: [hormuz-three-tankers-mines-predator-qeshm-brent-india, bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis, wpi-inflation-october-data-due-monday-rbi-december]
 seo:
   title: "Suresh Gopi: petrol, diesel price cut not possible now"
   description: "Union minister Suresh Gopi said on November 16 that petrol and diesel prices cannot be cut right away, citing ₹42,000 crore in oil company losses and supply chaos."

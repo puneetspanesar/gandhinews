@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+    "id": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
     "overlay": {
       "kicker": {
-        "en": "World / Middle East",
-        "hi": "दुनिया / पश्चिम एशिया"
+        "en": "States / Cyclone Akvan",
+        "hi": "राज्य / चक्रवात अकवान"
       },
       "value": {
-        "en": "Third US carrier; Iran won't wait",
-        "hi": "तीसरा अमेरिकी पोत; ईरान नहीं रुकेगा"
+        "en": "Akvan: rain warnings in six states",
+        "hi": "अकवान: छह राज्यों में बारिश की चेतावनी"
       },
       "text": {
         "en": "",
@@ -16,41 +16,23 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+      "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
+      "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+    ],
     "relatedBeside": [
-      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
+      "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
     ],
     "live": {
       "title": {
-        "en": "Middle East",
-        "hi": "पश्चिम एशिया"
+        "en": "Cyclone Akvan",
+        "hi": "चक्रवात अकवान"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "lead": {
-          "en": "Environment:",
-          "hi": "पर्यावरण:"
-        },
-        "text": {
-          "en": "Centre orders 191 polluting units sealed in NCR and sets November 30 deadline for number-plate cameras",
-          "hi": "केंद्र का आदेश: एनसीआर की 191 प्रदूषणकारी इकाइयां सील हों, नंबर-प्लेट कैमरे 30 नवंबर तक लगें"
-        }
-      },
-      {
-        "link": "rajasthan-ganganagar-railway-track-blast-arrests",
-        "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
-        },
-        "text": {
-          "en": "Two Gurdaspur residents arrested for Anupgarh-Suratgarh rail track blast; Rajasthan ATS says a Pakistan-based handler supplied the bomb",
-          "hi": "अनूपगढ़-सूरतगढ़ रेल पटरी विस्फोट में गुरदासपुर के दो लोग गिरफ्तार, राजस्थान एटीएस का दावा, बम पाकिस्तान के हैंडलर ने दिया"
-        }
-      },
       {
         "link": "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
         "lead": {
@@ -60,6 +42,17 @@
         "text": {
           "en": "Noel Tata says Tata Sons listing 'will change the Tata way', Trusts to engage RBI",
           "hi": "नोएल टाटा बोले, टाटा संस की लिस्टिंग से 'बदल जाएगा टाटा का तरीका', ट्रस्ट करेंगे आरबीआई से बात"
+        }
+      },
+      {
+        "link": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "lead": {
+          "en": "Fuel prices:",
+          "hi": "ईंधन के दाम:"
+        },
+        "text": {
+          "en": "No quick cut in petrol and diesel prices: Union minister Suresh Gopi cites ₹42,000 crore oil company losses",
+          "hi": "पेट्रोल-डीजल के दाम तुरंत नहीं घटेंगे: केंद्रीय मंत्री सुरेश गोपी ने तेल कंपनियों के 42,000 करोड़ रुपये के घाटे का हवाला दिया"
         }
       },
       {
@@ -107,14 +100,25 @@
         }
       },
       {
-        "link": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
+        "link": "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
         "lead": {
-          "en": "Opposition:",
-          "hi": "विपक्ष:"
+          "en": "West Asia:",
+          "hi": "पश्चिम एशिया:"
         },
         "text": {
-          "en": "Amit Shah says Rahul Gandhi is 'defaming India' abroad, tells him to visit villages if he wants power",
-          "hi": "अमित शाह का राहुल गांधी पर वार: विदेश में 'भारत को बदनाम' कर रहे, सत्ता चाहिए तो गांव जाएं"
+          "en": "Yemen's government forces pull out of the Bab el-Mandeb area, leaving the Houthis in charge of the Red Sea's southern gate",
+          "hi": "यमन की सरकारी सेनाएं बाब-अल-मंदेब इलाके से हटीं, लाल सागर के दक्षिणी द्वार पर हूतियों का दबदबा"
+        }
+      },
+      {
+        "link": "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "IMD now sees Akvan as a very severe cyclone by early November 19, with winds of 120 to 130 km/h",
+          "hi": "मौसम विभाग को अब 19 नवंबर की सुबह तक अकवान के अति भीषण चक्रवात बनने का अनुमान, हवा 120 से 130 किमी प्रति घंटा"
         }
       }
     ]
@@ -182,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rajasthan-ganganagar-railway-track-blast-arrests",
+      "id": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
       "also": []
     },
     "list": [
-      "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
       "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
       "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
       "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
+      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+      "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
     ],
     "also": [
-      "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-      "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
+      "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+      "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
     ]
   },
   "startHere": [
@@ -387,23 +391,23 @@
         ]
       },
       "list": [
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment",
-        "paytm-payments-services-rbi-in-principle-prepaid-wallet-authorisation",
-        "mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting"
+        "wpi-inflation-october-data-due-monday-rbi-december",
+        "goyal-cairo-us-preferential-access-egypt-jtc",
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
       ]
     },
     {
       "section": "states",
-      "lead": "rajasthan-ganganagar-railway-track-blast-arrests",
+      "lead": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
       "list": [
-        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
-        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
+        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+        "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
       ]
     },
     {
       "section": "policy",
-      "lead": "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+      "lead": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
       "list": [
         "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
         "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
@@ -422,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+      "lead": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
       "list": [
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
+        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday"
       ]
     },
     {
@@ -442,10 +446,10 @@
       "section": "sports",
       "lead": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
       "list": [
-        "england-banton-century-adelaide-second-odi-series-level",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
       ]
     }
   ],
@@ -623,7 +627,7 @@
       ]
     },
     {
-      "at": "2026-11-16T09:23:22+05:30",
+      "at": "2026-11-16T09:35:57+05:30",
       "ids": [
         "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
         "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
@@ -640,32 +644,25 @@
       ]
     },
     {
-      "at": "2026-11-16T10:51:10+05:30",
+      "at": "2026-11-16T10:02:04+05:30",
       "ids": [
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
+        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+        "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
         "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
         "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
         "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
         "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
         "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
+        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+        "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
-    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-    "wpi-inflation-october-data-due-monday-rbi-december",
-    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-    "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-    "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
-    "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
-    "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-    "goyal-cairo-us-preferential-access-egypt-jtc",
-    "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-    "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+    "england-banton-century-adelaide-second-odi-series-level"
   ]
 }
