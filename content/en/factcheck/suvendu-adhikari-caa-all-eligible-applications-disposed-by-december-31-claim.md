@@ -71,7 +71,7 @@ verification:
   status: approved
   notes:
     - "Data and fact-check desk, November 16, 2026. The claim wording is from our own November 7 story, based on the PTI report of the November 6 speech (ThePrint); the ThePrint page itself was not opened in this run. The speech was not heard or seen in full."
-    - "Primary source limit: the Gazette notification and the Ministry of Home Affairs pages could not be opened (blocked in this run). Rules 11A and 13A were read as reproduced on Legitquest, which quotes the gazette text; that page does not define the Empowered Committee or the designated officer. Who heads them comes from Bar & Bench's explainer of the rules (state Empowered Committee headed by the Director, Census Operations; designated officer a Senior Superintendent or Superintendent of Post Offices) and the Tribune's May 29, 2024 report (Bengal's first grants came from the state Empowered Committee). Both are secondary."
+    - "Primary source limit: the Gazette notification and the Ministry of Home Affairs pages could not be opened (blocked in this run). Rules 11A and 13A were read as reproduced on Legitquest, which quotes the gazette text; that page does not define the Empowered Committee or the designated officer. Who heads them comes from Bar & Bench's explainer of the rules (state Empowered Committee headed by the Director, Census Operations; designated officer a Senior Superintendent or Superintendent of Post Offices) and the Tribune's May 29, 2024, report (Bengal's first grants came from the state Empowered Committee). Both are secondary."
     - "The chief minister said on August 24 that the Government of India had entrusted the responsibility to him and that district magistrates run the hearings; on November 6 that sub-divisional officers hold hearings. A later central order or delegation could change who decides; none was found, so the finding says the 2024 rules as read."
     - "Figures: 23,000 certificates, 2.30 lakh applications and 2.07 lakh pending on August 24, and the six-month promise of August 1, from the Federal (PTI). 25,000 given citizenship and 2.5 lakh pending in Nadia and North 24 Parganas, November 1 and 6, from our November 7 story. The August statewide pending figure and the November two-district figure do not reconcile and may include new applications; the piece does not reconcile them."
     - "Arithmetic is ours: 25,000 minus 23,000 is about 2,000 over the 69 days from August 24 to November 1; 2.5 lakh over the 55 days from November 6 to December 31 is about 4,500 a day. The two certificate counts come from different speeches and may not be counted the same way."
@@ -102,7 +102,7 @@ On August 24 he said about **23,000 certificates** had been issued, out of 2.30 
 
 ### 4. What "disposed of" means
 
-Disposal covers rejections as well as grants. The promise was reported as citizenship for every eligible applicant, which is a stronger statement. A candidate whose papers fail the December 31, 2014 entry test is not eligible, and a decision against them is still a disposal.
+Disposal covers rejections as well as grants. The promise was reported as citizenship for every eligible applicant, which is a stronger statement. A candidate whose papers fail the December 31, 2014, entry test is not eligible, and a decision against them is still a disposal.
 
 ### 5. What would settle it
 

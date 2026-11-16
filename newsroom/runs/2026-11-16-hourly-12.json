@@ -1,0 +1,33 @@
+{
+ "run": "hourly-12",
+ "start": "2026-11-16T12:05:00+05:30",
+ "end": "2026-11-16T12:49:08+05:30",
+ "summary": "3 news + 1 fact check, Akvan Monday bulletin lead, WPI 12.29%, editorial held",
+ "new": [
+  "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
+  "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+  "perseverance-mars-complex-organic-carbon-bright-angel",
+  "wpi-inflation-october-2026"
+ ],
+ "held": [
+  "kerala-congress-post-on-cji-court-should-weigh-the-apology-and-draw-a-clear-contempt-line"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "kerala-congress-post-on-cji-court-should-weigh-the-apology-and-draw-a-clear-contempt-line",
+   "kind": "picture",
+   "why": "The editorial is about a party's post attacking the Chief Justice and the court's response, but the main picture shows only the target (a CJI Surya Kant portrait). Rule 1: a story about A attacking B never shows only B. The Supreme Court building in-story photo was also not found.",
+   "fix": "Lead with a photo of the Supreme Court of India building in New Delhi (the court is the actor weighing the apology) or the Kerala Congress side (KPCC president Sunny Joseph), and try the library, quick_photo.py and the finder again for the in-story photo. Keep the CJI portrait only as a second picture if one is found."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "perseverance-mars-complex-organic-carbon-bright-angel",
+   "why": "The Hindi twin leaves Chris Lintott's quote in English ('if you see something life does, you can conclude life did it.') and has a garbled phrase 'मिट्टी और लोहे से भरपूर मिट्टी' (clays or iron-rich soil, with 'मिट्टी' twice).",
+   "done": "Hindi quote translated; phrase changed to 'चिकनी मिट्टी (क्ले) और लोहे से भरपूर मृदा'. Moved off the top headlines."
+  }
+ ],
+ "breaches": [],
+ "lead": "akvan-deep-depression-monday-imd-landfall-night-nov-19"
+}

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16T10:00:00+05:30",
+  "as_of": "2026-11-16T12:00:00+05:30",
   "status": "open",
   "session_date": "2026-11-16",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82292.86,
-      "change": 700.41,
-      "pct": 0.86,
+      "value": 81963.46,
+      "change": 371.01,
+      "pct": 0.45,
       "history": [
         {
           "date": "2026-09-30",
@@ -125,15 +125,15 @@
           "close": 81592.45
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25334.2,
-      "change": 189.9,
-      "pct": 0.76,
+      "value": 25232.85,
+      "change": 88.55,
+      "pct": 0.35,
       "history": [
         {
           "date": "2026-09-30",
@@ -252,7 +252,7 @@
           "close": 25144.3
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
     },
     {
       "id": "nifty-bank",
@@ -273,9 +273,9 @@
       "id": "nifty-midcap-100",
       "name": "Nifty Midcap 100",
       "name_hi": "निफ्टी मिडकैप 100",
-      "value": 61889.5,
-      "change": -148.89,
-      "pct": -0.24,
+      "value": 61784.03,
+      "change": -254.36,
+      "pct": -0.41,
       "history": [
         {
           "date": "2026-11-04",
@@ -290,7 +290,7 @@
           "close": 61889.5
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-13-indices-snap-winning-streak-sensex-falls-319-pts-nifty-50-ends-at-25-144-shriram-fin-top-loser/article-203442/"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
     },
     {
       "id": "india-vix",

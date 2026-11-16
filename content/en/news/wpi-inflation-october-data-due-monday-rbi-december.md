@@ -9,10 +9,6 @@ title: "Wholesale inflation for October due Monday, after September's series hig
 standfirst: "The numbers land four days after retail inflation broke the RBI's 6% ceiling. Crude has eased from its October peak, but the rupee and fuel costs still weigh on the reading."
 published: 2026-11-16T00:15:00+05:30
 location: New Delhi
-upcoming:
-  date: 2026-11-16
-  en: "October wholesale price inflation (WPI) data due from the commerce ministry"
-  hi: "वाणिज्य मंत्रालय से अक्टूबर के थोक मूल्य सूचकांक (डब्ल्यूपीआई) महंगाई के आंकड़े आने हैं"
 keyPoints:
   - "India's **October wholesale price inflation** is due on Monday, November 16."
   - "September's reading of **11.39%** was the highest in the current series, with fuel and power up 25.85%."

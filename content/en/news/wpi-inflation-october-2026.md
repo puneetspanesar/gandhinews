@@ -84,7 +84,7 @@ The reports did not mention any revision to the September figure. The final Augu
 
 Wholesale inflation has been building since the summer. It was 9.92% in August and then [jumped to 11.39% in September](/en/news/wpi-inflation-september-2026), the highest since the index moved to its 2022-23 base, when crude and gas prices at the wholesale level were 57% higher than a year before. The October reading is a further 0.9 percentage points above that.
 
-Our [preview of the release](/en/news/wpi-inflation-october-data-due-monday-rbi-december) noted that crude had eased from its October peak, but the figures show that the pass-through to wholesale fuel prices continued. The newer producer price index, published alongside the WPI, was 113.3 in October against 112.5 in September, and a trial input price index for manufacturing was 108.2.
+Our [preview of the release](/en/news/wpi-inflation-october-data-due-monday-rbi-december) noted that crude had eased from its October peak, but the figures show that the pass-through to wholesale fuel prices continued.
 
 ## Why it matters
 

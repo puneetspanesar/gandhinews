@@ -36,7 +36,7 @@ infographic:
     - {title: "Scan", text: "SHERLOC laser maps rock surfaces"}
     - {title: "Detect", text: "Macromolecular carbon with carbonate and sulfate minerals"}
     - {title: "Test", text: "Origin can only be settled with samples on Earth"}
-  source: "Science Advances, 2026, via a November 12, 2026 report"
+  source: "Science Advances, 2026, via a November 12, 2026, report"
 sources:
   - title: "Spatially distributed complex organic matter detected in an ancient river valley in Jezero crater, Mars"
     publisher: "Science Advances"

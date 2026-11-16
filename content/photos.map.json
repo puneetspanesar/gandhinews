@@ -53121,7 +53121,20 @@
   "licence": "Public domain",
   "alt": "NASA's Perseverance rover being lowered to Jezero crater by its sky crane in 2021",
   "alt_hi": "2021 में स्काई क्रेन से जेज़ेरो क्रेटर पर उतारा जाता नासा का पर्सिवियरेंस रोवर",
-  "page": "https://commons.wikimedia.org/wiki/File:Perseverance_Landing_Skycrane.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Perseverance_Landing_Skycrane.jpg",
+  "treated": {
+   "src": "/photos/t-perseverance-mars-complex-organic-carbon-bright-angel-1280.jpg",
+   "src800": "/photos/t-perseverance-mars-complex-organic-carbon-bright-angel-640.jpg",
+   "cutout": false,
+   "with": [
+    "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+    "sensex-nifty-week-october-30-pharma-fii-return--p2",
+    "starlink-says-india-infrastructure-ready-govt-approvals"
+   ],
+   "kind": "photo",
+   "subj": "3c6c7c5cf8d8d060",
+   "credit": "Photos: NASA / Wikimedia Commons; NASA's Scientific Visualization Studio - Science and Technology Corporation/Kel Elkins, JPL/Josh Willis, NASA/GSFC/Peter / Wikimedia Commons; Richard Weil / Wikimedia Commons; Official SpaceX Photos / Wikimedia Commons"
+  }
  },
  "akvan-deep-depression-monday-imd-landfall-night-nov-19": {
   "id": "o-akvan-deep-depression-monday-imd-landfall-night-nov-19",
@@ -53134,7 +53147,20 @@
   "licence": "GODL-India",
   "alt": "Trees uprooted by Cyclone Hudhud in a residential area of Visakhapatnam in 2014 (file photo)",
   "alt_hi": "2014 में चक्रवात हुदहुद से विशाखापत्तनम की एक रिहायशी बस्ती में उखड़े पेड़ (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Trees_uprooted_by_Cyclone_Hudhud_in_a_residential_area_of_Visakhapatnam.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Trees_uprooted_by_Cyclone_Hudhud_in_a_residential_area_of_Visakhapatnam.jpg",
+  "treated": {
+   "src": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
+   "src800": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
+   "cutout": false,
+   "with": [
+    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+    "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+    "keralam-orange-alert-five-districts-heavy-rain"
+   ],
+   "kind": "photo",
+   "subj": "fcfcfc9080000c3c",
+   "credit": "Photos: Indian Navy / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; TamizhanEditor / Wikimedia Commons; Prasad Pillai from Muscat, Oman / Wikimedia Commons"
+  }
  },
  "wpi-inflation-october-2026": {
   "id": "i-wpi-inflation-october-2026",
