@@ -67,14 +67,14 @@
         }
       },
       {
-        "link": "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+        "link": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
         "lead": {
-          "en": "Southeast Asia:",
-          "hi": "दक्षिण-पूर्व एशिया:"
+          "en": "Quad:",
+          "hi": "क्वाड:"
         },
         "text": {
-          "en": "ASEAN's 49th summit opens in Manila with Marcos calling for unity as the Gulf war and storms test the Philippine chairship",
-          "hi": "मनीला में आसियान का 49वां शिखर सम्मेलन शुरू, मार्कोस ने एकजुटता की अपील की; खाड़ी युद्ध और तूफानों से घिरी रही फिलीपींस की अध्यक्षता"
+          "en": "Washington says it is working to formalise a Quad leaders' summit in Manila as Modi leaves for the ASEAN meetings",
+          "hi": "मोदी आसियान बैठकों के लिए रवाना, अमेरिका का कहना है कि मनीला में क्वाड नेताओं का शिखर सम्मेलन तय करने की कोशिश जारी"
         }
       },
       {
@@ -111,14 +111,14 @@
         }
       },
       {
-        "link": "wpi-inflation-october-data-due-monday-rbi-december",
+        "link": "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "Weather:",
+          "hi": "मौसम:"
         },
         "text": {
-          "en": "Wholesale inflation for October due Monday, after September's series high of 11.39%",
-          "hi": "सितंबर के 11.39% के रिकॉर्ड के बाद सोमवार को आएंगे अक्टूबर के थोक महंगाई के आंकड़े"
+          "en": "IMD now sees Akvan as a very severe cyclone by early November 19, with winds of 120 to 130 km/h",
+          "hi": "मौसम विभाग को अब 19 नवंबर की सुबह तक अकवान के अति भीषण चक्रवात बनने का अनुमान, हवा 120 से 130 किमी प्रति घंटा"
         }
       }
     ]
@@ -191,14 +191,14 @@
     },
     "list": [
       "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-      "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+      "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
       "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
       "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
       "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
     ],
     "also": [
-      "wpi-inflation-october-data-due-monday-rbi-december",
-      "england-banton-century-adelaide-second-odi-series-level"
+      "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+      "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
     ]
   },
   "startHere": [
@@ -446,10 +446,10 @@
       "section": "sports",
       "lead": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
       "list": [
-        "england-banton-century-adelaide-second-odi-series-level",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
+        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
       ]
     }
   ],
@@ -528,23 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T21:14:03+05:30",
-      "ids": [
-        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return",
-        "odisha-five-instream-storage-projects-625-crore",
-        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
-        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
-      ]
-    },
     {
       "at": "2026-11-15T22:43:39+05:30",
       "ids": [
@@ -644,7 +627,7 @@
       ]
     },
     {
-      "at": "2026-11-16T09:23:22+05:30",
+      "at": "2026-11-16T09:35:57+05:30",
       "ids": [
         "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
         "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
@@ -659,8 +642,27 @@
         "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
         "wpi-inflation-october-data-due-monday-rbi-december"
       ]
+    },
+    {
+      "at": "2026-11-16T10:02:04+05:30",
+      "ids": [
+        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+        "akvan-960-km-visakhapatnam-landfall-nov-20-cautionary-signal-one-ports",
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+        "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening"
+      ]
     }
   ],
   "critical": [],
-  "drop": []
+  "drop": [
+    "england-banton-century-adelaide-second-odi-series-level"
+  ]
 }

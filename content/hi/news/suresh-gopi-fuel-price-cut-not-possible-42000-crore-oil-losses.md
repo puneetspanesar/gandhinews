@@ -31,7 +31,7 @@ infographic:
     - {icon: gas-pump, value: "₹7", label: "120 डॉलर के तेल पर डीजल में बढ़ोतरी; ₹43 केंद्र ने सहे"}
     - {icon: warning, value: "$95.89", label: "13 नवंबर को ब्रेंट, युद्ध से पहले करीब 72 डॉलर"}
   source: "केंद्रीय मंत्री सुरेश गोपी, 16 नवंबर 2026; पीएमओ, 12 नवंबर 2026"
-related: [karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis, modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser, wpi-inflation-october-data-due-monday-rbi-december, retail-inflation-october-2026-6-09-two-year-high, bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, hormuz-three-tankers-mines-predator-qeshm-brent-india]
+related: [hormuz-three-tankers-mines-predator-qeshm-brent-india, bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis, wpi-inflation-october-data-due-monday-rbi-december]
 seo:
   title: "सुरेश गोपी: पेट्रोल-डीजल के दाम अभी नहीं घट सकते"
   description: "केंद्रीय मंत्री सुरेश गोपी ने 16 नवंबर को कहा कि तेल कंपनियों के 42,000 करोड़ रुपये के घाटे और आपूर्ति की अफरातफरी के कारण पेट्रोल-डीजल के दाम तुरंत नहीं घट सकते।"
