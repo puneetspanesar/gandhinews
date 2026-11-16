@@ -89,10 +89,6 @@ Crude has since eased. Brent settled at **$95.89 a barrel on Friday, November 13
 
 The supply remarks come in the middle of a separate argument over what is in the petrol being sold. Karnataka said on November 6 that samples from seven districts had **up to 31.2% ethanol** against a 20% limit; Indian Oil, HPCL and BPCL rejected the finding, citing 893 E20 samples across 27 states and Union Territories that fell between 19% and 21%. On November 8, Karnataka Industries Minister MB Patil said the Centre's own lapses had caused the crisis in the ethanol sector and asked for an inquiry into alleged irregularities in blending. Petroleum Minister Hardeep Singh Puri has earlier called concerns about E20 a "contrived narrative". Our account is in the [ethanol story](/en/news/karnataka-31-2-per-cent-ethanol-claim-oil-companies-reject-e20-bis).
 
-```photo
-{"n":1,"subject":"Hardeep Singh Puri","caption":"Petroleum Minister Hardeep Singh Puri, who has dismissed concerns over E20 petrol as a contrived narrative.","alt":"Union Petroleum Minister Hardeep Singh Puri"}
-```
-
 ## Why it matters
 
 Fuel is the one input that touches every price. Wholesale fuel and power prices were **25.85% higher in September** than a year earlier, and retail inflation reached 6.09% in October, above the RBI's 6% upper limit. Diesel moves trucks, tractors and pumps, so a pump price that stays high keeps freight and food costs high, while a cut would ease them. The Centre has so far held back most of the diesel rise, which is the cost Gopi says oil companies are still carrying. A fall in state taxes is the quicker route for motorists, but it would cost state budgets revenue.

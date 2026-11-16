@@ -52537,7 +52537,20 @@
   "alt": "Rough sea at Visakhapatnam, fallen trees in Odisha and a satellite view of a Bay of Bengal cyclone (file photos)",
   "alt_hi": "विशाखापत्तनम में उफनता समंदर, ओडिशा में गिरे पेड़ और बंगाल की खाड़ी के चक्रवात की उपग्रह तस्वीर (फाइल फोटो)",
   "page": null,
-  "srcWidth": 1280
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-1280.jpg",
+   "src800": "/photos/t-akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-640.jpg",
+   "cutout": false,
+   "with": [
+    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2",
+    "puducherry-karaikal-dindigul-schools-shut-cyclone-signal"
+   ],
+   "kind": "photo",
+   "subj": "fbffffc707070001",
+   "credit": "Photos: Indian Navy / Wikimedia Commons; Bikash Ojha / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Channel Aid (channelaid89) / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons"
+  }
  },
  "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses": {
   "id": "o-suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
@@ -52550,7 +52563,20 @@
   "licence": "CC0",
   "alt": "Union Minister of State Suresh Gopi with supporters in Kerala (file photo, 2025)",
   "alt_hi": "केंद्रीय राज्य मंत्री सुरेश गोपी केरल में समर्थकों के साथ (फ़ाइल फ़ोटो, 2025)",
-  "page": "https://commons.wikimedia.org/wiki/File:Suresh_Gopi_2025.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Suresh_Gopi_2025.jpg",
+  "treated": {
+   "src": "/photos/t-suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-loss-1280.jpg",
+   "src800": "/photos/t-suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-loss-640.jpg",
+   "cutout": false,
+   "with": [
+    "retail-inflation-october-2026-6-09-two-year-high",
+    "hormuz-three-tankers-mines-predator-qeshm-brent-india",
+    "chennai-rain-schools-shut-four-districts-low-pressure"
+   ],
+   "kind": "photo",
+   "subj": "30000061e9e1e0e",
+   "credit": "Photos: Haribhagirath / Wikimedia Commons; McKay Savage from London, UK / Wikimedia Commons; US Navy / Wikimedia Commons; L.vivian.richard"
+  }
  },
  "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter": {
   "id": "o-nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
@@ -52563,19 +52589,62 @@
   "licence": "Public domain",
   "alt": "NASA sea surface height maps of the Pacific, October 3, 2026 against October 3, 2025, showing the El Niño warm bulge",
   "alt_hi": "प्रशांत महासागर की समुद्र सतह ऊंचाई के नासा नक्शे, 3 अक्टूबर 2026 बनाम 3 अक्टूबर 2025, अल नीनो का गर्म उभार दिखाते हुए",
-  "page": "https://commons.wikimedia.org/wiki/File:Signs_of_El_Ni%C3%B1o_in_2026_(SVS5683_-_ssha_cb_1003_02200).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Signs_of_El_Ni%C3%B1o_in_2026_(SVS5683_-_ssha_cb_1003_02200).jpg",
+  "treated": {
+   "src": "/photos/t-nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-indi-1280.jpg",
+   "src800": "/photos/t-nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-indi-640.jpg",
+   "cutout": false,
+   "with": [
+    "keralam-orange-alert-five-districts-heavy-rain",
+    "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart",
+    "aditya-l1-velc-asymmetric-cme-expansion-iia"
+   ],
+   "kind": "photo",
+   "subj": "6801003c3b7f7c3e",
+   "credit": "Photos: NASA's Scientific Visualization Studio - Science and Technology Corporation/Kel Elkins, JPL/Josh Willis, NASA/GSFC/Peter / Wikimedia Commons; Prasad Pillai from Muscat, Oman / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons; Indian Space Research Organisation / Wikimedia Commons"
+  }
  },
  "noel-tata-tata-sons-listing-change-tata-way-philanthropy": {
-  "id": "o-noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-  "src": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-1280.jpg",
-  "src800": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-640.jpg",
+  "id": "i-noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+  "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-3x2-1280.jpg",
+  "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-3x2-640.jpg",
   "width": 1280,
-  "height": 788,
-  "srcWidth": 2200,
-  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Noel Tata (right) at a meeting with the Commerce Minister in New Delhi (file photo, 2013)",
-  "alt_hi": "नई दिल्ली में वाणिज्य मंत्री के साथ बैठक में नोएल टाटा (दाएं) (फ़ाइल फ़ोटो, 2013)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mr._Noel_Tata_and_Mr._Philip_Clarke,_CEO,_Tesco_meeting_the_Union_Minister_for_Commerce_%26_Industry_and_Textiles,_Shri_Anand_Sharma,_in_New_Delhi_on_May_10,_2013.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Tata Trusts hold two-thirds of Tata Sons",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: टाटा संस में दो-तिहाई हिस्सा ट्रस्टों का",
+  "page": null,
+  "ihash": "769c2677ef50",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-3x2-1280.jpg",
+    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-t-1280.jpg",
+    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-t-1280.jpg",
+    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-1280.jpg",
+    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-1280.jpg",
+    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Noel Tata 900 px or more showing him clearly; library (not in it), quick_photo, finder h1608 (only a 2013 three-person meeting shot)"
  }
 }

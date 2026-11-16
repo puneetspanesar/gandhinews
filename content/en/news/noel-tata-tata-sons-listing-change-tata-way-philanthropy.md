@@ -16,14 +16,14 @@ keyPoints:
 hero:
   need: "Noel Tata, chairman of Tata Trusts, speaking at an event; or Tata Sons chairman N Chandrasekaran"
   suggested_source: "Noel Tata"
-  subjects: ["Noel Tata", "N. Chandrasekaran"]
+  subjects: ["Noel Tata"]
   alt: "Tata Trusts chairman Noel Tata and Tata Sons chairman N Chandrasekaran"
   overlay:
     value: "Listing 'will change the Tata way'"
 related: [sitharaman-tata-critical-component-settle-amicably-investors, tata-steel-q2-profit-up-18-per-cent-3666-crore-noel-tata-retires]
 seo:
   title: "Noel Tata: Tata Sons listing will change the Tata way"
-  description: "Tata Trusts chairman Noel Tata said on November 14, 2026 that listing Tata Sons could put profit before philanthropy and that the Trusts will engage RBI and regulators."
+  description: "Tata Trusts chairman Noel Tata said on November 14, 2026, that listing Tata Sons could put profit before philanthropy and that the Trusts will engage RBI and regulators."
 infographic:
   kicker: "Tata Sons listing"
   headline: "Tata Trusts hold two-thirds of Tata Sons"
@@ -82,10 +82,6 @@ He did not argue against the group's strategy. "I do not question the direction 
 Tata Sons holds the shares of the roughly $165 billion Tata Group. According to reports, the Reserve Bank classified it as an upper-layer non-banking finance company in September 2022, a category that is expected to list. The company reportedly repaid about ₹21,813 crore of debt and in March 2024 applied to give up its registration as a core investment company, a route that would have kept it outside that rule.
 
 In September 2026 **the RBI rejected that application**. That left the board with fewer options, and at a meeting on September 17 it decided to begin steps towards a listing in line with RBI regulations. The same meeting approved a fresh five-year term for chairman N Chandrasekaran, reversing his August decision not to seek reappointment after February 2027. The board approved it by a 4:1 vote, and Noel Tata dissented on both decisions.
-
-```photo
-{"n":1,"subject":"N. Chandrasekaran","caption":"N Chandrasekaran, the Tata Sons chairman whose reappointment Noel Tata opposed on September 17.","alt":"Tata Sons chairman N Chandrasekaran"}
-```
 
 ## The two camps
 

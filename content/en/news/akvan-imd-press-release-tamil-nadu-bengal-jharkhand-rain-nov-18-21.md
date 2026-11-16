@@ -93,10 +93,6 @@ The change from earlier reports is in the south. Tamil Nadu, Puducherry and Kara
 
 The IMD lists the likely impact as broken branches, damage to kutcha houses and roads, waterlogging, flooding, landslides in low-lying areas and disruption to road, rail and helicopter services. Farmers in coastal Andhra, Odisha and Tamil Nadu are advised to **harvest mature paddy, cotton, groundnut and vegetables** and drain excess water from fields.
 
-```photo
-{"n":1,"subject":"Cyclone Hudhud Visakhapatnam","caption":"Wind damage in Visakhapatnam after Cyclone Hudhud (file photo); north Andhra is the coast the IMD expects Akvan to approach.","alt":"Wind damage in Visakhapatnam after a cyclone (file photo)"}
-```
-
 ## How the states are preparing
 
 Andhra Pradesh has been on alert since Arnab and Murasu. Prakhar Jain, managing director of the State Disaster Management Authority, said on Sunday: "Under its influence, North Andhra may experience heavy rain accompanied by strong winds on Thursday and Friday." Heavy rain is forecast from November 18 in Srikakulam, Vizianagaram, Visakhapatnam, Anakapalli and Alluri Sitarama Raju districts. Our [Andhra report](/en/news/akvan-andhra-apsdma-north-andhra-nov-19-eight-districts-fishermen-return) lists the eight districts on rain alert.

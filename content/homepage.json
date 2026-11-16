@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+    "id": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
     "overlay": {
       "kicker": {
-        "en": "States / Delhi",
-        "hi": "राज्य / दिल्ली"
+        "en": "States / Cyclone Akvan",
+        "hi": "राज्य / चक्रवात अकवान"
       },
       "value": {
-        "en": "Delhi: 1,482 Chhath ghats",
-        "hi": "दिल्ली: 1,482 छठ घाट"
+        "en": "Akvan: rain warnings in six states",
+        "hi": "अकवान: छह राज्यों में बारिश की चेतावनी"
       },
       "text": {
         "en": "",
@@ -17,22 +17,55 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
-      "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval"
+      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+      "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
     ],
     "relatedBeside": [
-      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
+      "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
     ],
     "live": {
       "title": {
-        "en": "Delhi",
-        "hi": "दिल्ली"
+        "en": "Cyclone Akvan",
+        "hi": "चक्रवात अकवान"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Noel Tata says Tata Sons listing 'will change the Tata way', Trusts to engage RBI",
+          "hi": "नोएल टाटा बोले, टाटा संस की लिस्टिंग से 'बदल जाएगा टाटा का तरीका', ट्रस्ट करेंगे आरबीआई से बात"
+        }
+      },
+      {
+        "link": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "lead": {
+          "en": "Fuel prices:",
+          "hi": "ईंधन के दाम:"
+        },
+        "text": {
+          "en": "No quick cut in petrol and diesel prices: Union minister Suresh Gopi cites ₹42,000 crore oil company losses",
+          "hi": "पेट्रोल-डीजल के दाम तुरंत नहीं घटेंगे: केंद्रीय मंत्री सुरेश गोपी ने तेल कंपनियों के 42,000 करोड़ रुपये के घाटे का हवाला दिया"
+        }
+      },
+      {
+        "link": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+        "lead": {
+          "en": "Climate:",
+          "hi": "जलवायु:"
+        },
+        "text": {
+          "en": "NASA satellites show this El Niño tracking the 1997 giant, and it may grow bigger",
+          "hi": "नासा के उपग्रहों में अल नीनो 1997 जैसा, इससे भी बड़ा हो सकता है"
+        }
+      },
       {
         "link": "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
         "lead": {
@@ -67,58 +100,25 @@
         }
       },
       {
-        "link": "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
+        "link": "wpi-inflation-october-data-due-monday-rbi-december",
         "lead": {
-          "en": "Uttar Pradesh:",
-          "hi": "उत्तर प्रदेश:"
+          "en": "Inflation:",
+          "hi": "महंगाई:"
         },
         "text": {
-          "en": "Yogi launches distribution of 25 lakh free tablets to Uttar Pradesh students from Lucknow",
-          "hi": "योगी ने लखनऊ से उत्तर प्रदेश के विद्यार्थियों को 25 लाख मुफ्त टैबलेट बांटने की शुरुआत की"
+          "en": "Wholesale inflation for October due Monday, after September's series high of 11.39%",
+          "hi": "सितंबर के 11.39% के रिकॉर्ड के बाद सोमवार को आएंगे अक्टूबर के थोक महंगाई के आंकड़े"
         }
       },
       {
-        "link": "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
+        "link": "england-banton-century-adelaide-second-odi-series-level",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Arshdeep's 3 for 30 helps India defend 209 and win the New Zealand ODI series 3-1",
-          "hi": "अर्शदीप के 3 विकेट पर 30 रन, भारत ने 209 बचाकर न्यूज़ीलैंड से वनडे सीरीज़ 3-1 से जीती"
-        }
-      },
-      {
-        "link": "goyal-cairo-us-preferential-access-egypt-jtc",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "Goyal says US has agreed to give India lower duties than rival exporters, from Cairo",
-          "hi": "गोयल ने काहिरा से कहा, अमेरिका प्रतिस्पर्धी निर्यातकों से कम शुल्क देने पर सहमत"
-        }
-      },
-      {
-        "link": "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Senate Banking Committee asks Jensen Huang and Commerce Secretary Lutnick to testify on Nvidia chip exports",
-          "hi": "अमेरिकी सीनेट की बैंकिंग समिति ने जेन्सन हुआंग और वाणिज्य मंत्री लटनिक से एनवीडिया चिप निर्यात पर गवाही मांगी"
-        }
-      },
-      {
-        "link": "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "CBI court convicts 14 FCI officials and 16 millers in Punjab rice scam, 21 years after the checks",
-          "hi": "पंजाब चावल घोटाले में सीबीआई अदालत ने 14 एफसीआई अधिकारियों और 16 मिलर्स को दोषी ठहराया, जांच के 21 साल बाद"
+          "en": "Banton's 121 and Root's 137-run stand, then Atkinson's 4 for 28, level the ODI series in Adelaide",
+          "hi": "बैंटन के 121, रूट के साथ 137 की साझेदारी और एटकिंसन के 4/28 से इंग्लैंड ने एडिलेड में सीरीज़ बराबर की"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+      "id": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
       "also": []
     },
     "list": [
+      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
       "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-      "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal",
-      "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-      "goyal-cairo-us-preferential-access-egypt-jtc",
-      "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
+      "wpi-inflation-october-data-due-monday-rbi-december"
     ],
     "also": [
-      "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-      "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
+      "england-banton-century-adelaide-second-odi-series-level",
+      "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
     ]
   },
   "startHere": [
@@ -380,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "wpi-inflation-october-data-due-monday-rbi-december",
+      "lead": "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,27 +391,27 @@
         ]
       },
       "list": [
+        "wpi-inflation-october-data-due-monday-rbi-december",
         "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
       ]
     },
     {
       "section": "states",
-      "lead": "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+      "lead": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
       "list": [
-        "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
         "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
         "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
       ]
     },
     {
       "section": "policy",
-      "lead": "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+      "lead": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
       "list": [
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
         "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
-        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest",
-        "shekhawat-national-museum-janpath-stays-yuge-yugeen-museum-first-gallery-2027"
+        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
       ]
     },
     {
@@ -428,28 +428,28 @@
       "section": "world",
       "lead": "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
       "list": [
+        "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
         "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "hormuz-three-tankers-mines-predator-qeshm-brent-india"
+        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
       ]
     },
     {
       "section": "science",
-      "lead": "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
+      "lead": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
       "list": [
+        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
         "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch",
-        "nasa-opens-astronaut-applications-december-3-deadline",
-        "starship-flight-15-booster-catch-aborted-ship-orbit-catch-due-tonight"
+        "nasa-opens-astronaut-applications-december-3-deadline"
       ]
     },
     {
       "section": "sports",
       "lead": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
       "list": [
+        "england-banton-century-adelaide-second-odi-series-level",
         "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
         "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one",
-        "india-test-squad-new-zealand-pant-joins-kuldeep-released-brar-added"
+        "sooryavanshi-bihar-lose-saurashtra-youngest-captain-smat-day-one"
       ]
     }
   ],
@@ -528,20 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-15T19:14:10+05:30",
-      "ids": [
-        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
-        "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam",
-        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14",
-        "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan",
-        "modi-gadchiroli-janjatiya-gaurav-diwas-bamboo-law-246-projects-address"
-      ]
-    },
     {
       "at": "2026-11-15T20:45:29+05:30",
       "ids": [
@@ -659,12 +645,28 @@
         "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10",
         "cbi-court-mohali-14-fci-officials-16-millers-guilty-punjab-rice-scam"
       ]
+    },
+    {
+      "at": "2026-11-16T08:43:37+05:30",
+      "ids": [
+        "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon",
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
+        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+        "wpi-inflation-october-data-due-monday-rbi-december",
+        "england-banton-century-adelaide-second-odi-series-level"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "england-banton-century-adelaide-second-odi-series-level",
-    "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
+    "akvan-very-severe-nov-19-120-130-kmph-imd-sunday-evening",
     "modi-ropuiliani-museum-kelsih-mizoram-25-59-crore-tribal-freedom-fighters"
   ]
 }
