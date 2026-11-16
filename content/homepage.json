@@ -77,6 +77,17 @@
         }
       },
       {
+        "link": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Akvan: IMD now puts the cyclone near the Andhra coast around the night of November 19",
+          "hi": "अकवान: मौसम विभाग को अब 19 नवंबर की रात के आसपास आंध्र तट के पास पहुंचने का अनुमान"
+        }
+      },
+      {
         "link": "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
         "lead": {
           "en": "Environment:",
@@ -99,25 +110,14 @@
         }
       },
       {
-        "link": "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+        "link": "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
         "lead": {
-          "en": "Southeast Asia:",
-          "hi": "दक्षिण-पूर्व एशिया:"
+          "en": "Fuel prices:",
+          "hi": "ईंधन के दाम:"
         },
         "text": {
-          "en": "ASEAN's 49th summit opens in Manila with Marcos calling for unity as the Gulf war and storms test the Philippine chairship",
-          "hi": "मनीला में आसियान का 49वां शिखर सम्मेलन शुरू, मार्कोस ने एकजुटता की अपील की; खाड़ी युद्ध और तूफानों से घिरी रही फिलीपींस की अध्यक्षता"
-        }
-      },
-      {
-        "link": "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
-        },
-        "text": {
-          "en": "Government health spending reaches ₹4.14 lakh crore in 2023-24, households' share of the bill falls to 42.7%",
-          "hi": "2023-24 में सरकारी स्वास्थ्य खर्च ₹4.14 लाख करोड़ पहुंचा, मरीजों की जेब से खर्च का हिस्सा घटकर 42.7%"
+          "en": "No quick cut in petrol and diesel prices: Union minister Suresh Gopi cites ₹42,000 crore oil company losses",
+          "hi": "पेट्रोल-डीजल के दाम तुरंत नहीं घटेंगे: केंद्रीय मंत्री सुरेश गोपी ने तेल कंपनियों के 42,000 करोड़ रुपये के घाटे का हवाला दिया"
         }
       }
     ]
@@ -191,13 +191,13 @@
     "list": [
       "wpi-inflation-october-2026",
       "perseverance-mars-complex-organic-carbon-bright-angel",
+      "akvan-deep-depression-monday-imd-landfall-night-nov-19",
       "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-      "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-      "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair"
+      "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
     ],
     "also": [
-      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-      "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
+      "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
     ]
   },
   "startHere": [
@@ -460,6 +460,18 @@
         "hi": "आज"
       },
       "text": {
+        "en": "IMD expects the depression to become Cyclone Akvan by evening",
+        "hi": "मौसम विभाग को उम्मीद है कि अवदाब शाम तक चक्रवात अकवान बन जाएगा"
+      },
+      "link": "akvan-imd-press-release-tamil-nadu-bengal-jharkhand-rain-nov-18-21"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
         "en": "Chhath Puja ends with morning Arghya; Delhi public holiday",
         "hi": "छठ पूजा का समापन सुबह के अर्घ्य से; दिल्ली में सार्वजनिक अवकाश"
       },
@@ -626,7 +638,7 @@
       ]
     },
     {
-      "at": "2026-11-16T14:44:51+05:30",
+      "at": "2026-11-16T14:53:42+05:30",
       "ids": [
         "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
         "rajasthan-ganganagar-railway-track-blast-arrests",
@@ -635,10 +647,10 @@
         "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
         "wpi-inflation-october-2026",
         "perseverance-mars-complex-organic-carbon-bright-angel",
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
         "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
         "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
       ]
     }
   ],
