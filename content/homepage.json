@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+    "id": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
     "overlay": {
       "kicker": {
-        "en": "States / Weather",
-        "hi": "राज्य / मौसम"
+        "en": "Courts / Supreme Court",
+        "hi": "अदालत / सुप्रीम कोर्ट"
       },
       "value": {
-        "en": "Akvan landfall: Nellore to Tuni, Nov 20 noon",
-        "hi": "अकवान: 20 नवंबर दोपहर नेल्लोर से तुनी"
+        "en": "Two Bilkis Bano convicts get bail",
+        "hi": "बिलकीस मामले के दो दोषियों को ज़मानत"
       },
       "text": {
         "en": "",
@@ -17,22 +17,55 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "rajasthan-ganganagar-railway-track-blast-arrests",
-      "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-      "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia"
+      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+      "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
     ],
     "relatedBeside": [
-      "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore"
+      "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains"
     ],
     "live": {
       "title": {
-        "en": "Weather",
-        "hi": "मौसम"
+        "en": "Supreme Court",
+        "hi": "सुप्रीम कोर्ट"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "lead": {
+          "en": "Technology:",
+          "hi": "तकनीक:"
+        },
+        "text": {
+          "en": "India signs US-led San Francisco Declaration to guard AI chip and infrastructure supply chains, days before Trump meets Xi",
+          "hi": "भारत ने एआई चिप और बुनियादी ढांचे की आपूर्ति श्रृंखला बचाने वाली अमेरिकी अगुवाई की सैन फ्रांसिस्को घोषणा पर किए दस्तखत, ट्रंप-शी बैठक से पहले"
+        }
+      },
+      {
+        "link": "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "lead": {
+          "en": "Election Commission:",
+          "hi": "चुनाव आयोग:"
+        },
+        "text": {
+          "en": "INDIA bloc asks Supreme Court to let it put 48 questions to the Election Commission on SIR",
+          "hi": "इंडिया गठबंधन ने सुप्रीम कोर्ट से मांगी इजाज़त: एसआईआर पर चुनाव आयोग से पूछना चाहता है 48 सवाल"
+        }
+      },
+      {
+        "link": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Cyclone Akvan to cross the Andhra coast between Nellore and Tuni around noon on November 20, IMD expects a very severe storm by Thursday",
+          "hi": "चक्रवात अकवान 20 नवंबर दोपहर के आसपास नेल्लोर और तुनी के बीच आंध्र तट पार करेगा, मौसम विभाग को गुरुवार तक अति भीषण तूफान की उम्मीद"
+        }
+      },
       {
         "link": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
         "lead": {
@@ -42,17 +75,6 @@
         "text": {
           "en": "Suraj Kashyap's three wickets and Loharuka's 58 take Bihar past Railways by four wickets in Indore, with Sooryavanshi away with India A",
           "hi": "सूरज कश्यप के तीन विकेट और लोहारुका के 58 से बिहार ने इंदौर में रेलवे को चार विकेट से हराया, सूर्यवंशी इंडिया ए के साथ होने से नहीं खेले"
-        }
-      },
-      {
-        "link": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "lead": {
-          "en": "Himachal Pradesh:",
-          "hi": "हिमाचल प्रदेश:"
-        },
-        "text": {
-          "en": "Himachal Assembly's winter session opens at Tapovan with 414 questions and six sittings to November 21",
-          "hi": "हिमाचल विधानसभा का शीतकालीन सत्र तपोवन में शुरू, 414 प्रश्न और 21 नवंबर तक छह बैठकें"
         }
       },
       {
@@ -89,36 +111,14 @@
         }
       },
       {
-        "link": "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+        "link": "rajasthan-ganganagar-railway-track-blast-arrests",
         "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Rajasthan:",
+          "hi": "राजस्थान:"
         },
         "text": {
-          "en": "Iran says it will not wait to be attacked as a third US aircraft carrier reaches the Gulf region",
-          "hi": "अमेरिका का तीसरा विमानवाहक पोत खाड़ी क्षेत्र पहुंचा, ईरान बोला: हमला होने का इंतज़ार नहीं करेंगे"
-        }
-      },
-      {
-        "link": "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "lead": {
-          "en": "Climate:",
-          "hi": "जलवायु:"
-        },
-        "text": {
-          "en": "NASA satellites show this El Niño tracking the 1997 giant, and it may grow bigger",
-          "hi": "नासा के उपग्रहों में अल नीनो 1997 जैसा, इससे भी बड़ा हो सकता है"
-        }
-      },
-      {
-        "link": "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "lead": {
-          "en": "Quad:",
-          "hi": "क्वाड:"
-        },
-        "text": {
-          "en": "White House confirms Quad leaders will meet in Manila on Tuesday, the first in two years, as Modi lands",
-          "hi": "व्हाइट हाउस की पुष्टि: मनीला में मंगलवार को क्वाड नेताओं की बैठक, दो साल में पहली, मोदी मनीला पहुंचे"
+          "en": "Two Gurdaspur residents arrested for Anupgarh-Suratgarh rail track blast; Rajasthan ATS says a Pakistan-based handler supplied the bomb",
+          "hi": "अनूपगढ़-सूरतगढ़ रेल पटरी विस्फोट में गुरदासपुर के दो लोग गिरफ्तार, राजस्थान एटीएस का दावा, बम पाकिस्तान के हैंडलर ने दिया"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+      "id": "india-bloc-48-questions-election-commission-supreme-court-sir",
       "also": []
     },
     "list": [
+      "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+      "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
       "wpi-inflation-october-2026",
       "perseverance-mars-complex-organic-carbon-bright-angel",
-      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-      "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
+      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
     ],
     "also": [
-      "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-      "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
+      "rajasthan-ganganagar-railway-track-blast-arrests",
+      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
     ]
   },
   "startHere": [
@@ -372,11 +372,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
         "winter-session-first-week-december-delimitation-womens-quota-bill",
         "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
       ],
-      "lead": "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
+      "lead": "india-bloc-48-questions-election-commission-supreme-court-sir"
     },
     {
       "section": "economy",
@@ -398,20 +398,20 @@
     },
     {
       "section": "states",
-      "lead": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+      "lead": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
       "list": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
         "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
+        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia"
       ]
     },
     {
       "section": "policy",
-      "lead": "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+      "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "list": [
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
         "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
-        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
+        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry"
       ]
     },
     {
@@ -426,11 +426,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
+      "lead": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "list": [
         "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-        "senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10"
+        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
+        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
       ]
     },
     {
@@ -457,8 +457,20 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "Supreme Court hears the SIR petitions, including the INDIA bloc's plea to serve 48 questions on the Election Commission",
+        "hi": "सुप्रीम कोर्ट में एसआईआर याचिकाओं की सुनवाई, इंडिया गठबंधन की चुनाव आयोग से 48 सवाल पूछने की अर्जी भी"
+      },
+      "link": "india-bloc-48-questions-election-commission-supreme-court-sir"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Rahul Gandhi's fireside chat at Columbia University",
@@ -473,18 +485,6 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Hong Kong Open begins, the last qualifying event for the BWF World Tour Finals",
-        "hi": "हांगकांग ओपन शुरू, बीडब्ल्यूएफ वर्ल्ड टूर फाइनल्स का आखिरी क्वालिफाइंग टूर्नामेंट"
-      },
-      "link": "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
-      },
-      "text": {
         "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
         "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
       },
@@ -493,8 +493,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 18",
-        "hi": "18 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "BJP's Samrasta Sankalp Yatra is flagged off from Jalandhar by Nitin Nabin",
@@ -517,48 +517,17 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 20",
-        "hi": "20 नवंबर"
+        "en": "Nov 19",
+        "hi": "19 नवंबर"
       },
       "text": {
-        "en": "UN World Children's Day, the date India observed Children's Day before 1964",
-        "hi": "संयुक्त राष्ट्र का विश्व बाल दिवस, जिस दिन 1964 से पहले भारत बाल दिवस मनाता था"
+        "en": "Trump and Xi expected to meet in Shenzhen at APEC; US-China trade truce and critical minerals on the table",
+        "hi": "शेनझेन में एपेक के दौरान ट्रंप और शी की बैठक अपेक्षित; अमेरिका-चीन व्यापार संघर्षविराम और महत्वपूर्ण खनिज एजेंडे पर"
       },
-      "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+      "link": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T09:35:57+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-        "wpi-inflation-october-data-due-monday-rbi-december"
-      ]
-    },
-    {
-      "at": "2026-11-16T10:54:40+05:30",
-      "ids": [
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
-      ]
-    },
     {
       "at": "2026-11-16T11:05:07+05:30",
       "ids": [
@@ -656,19 +625,54 @@
         "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
         "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
       ]
+    },
+    {
+      "at": "2026-11-17T08:57:33+05:30",
+      "ids": [
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "wpi-inflation-october-2026",
+        "perseverance-mars-complex-organic-carbon-bright-angel",
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
+      ]
+    },
+    {
+      "at": "2026-11-17T09:17:24+05:30",
+      "ids": [
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "wpi-inflation-october-2026",
+        "perseverance-mars-complex-organic-carbon-bright-angel",
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
+        "rajasthan-ganganagar-railway-track-blast-arrests"
+      ]
     }
   ],
-  "critical": [],
+  "critical": [
+    "akvan-deep-depression-monday-imd-landfall-night-nov-19"
+  ],
   "drop": [
-    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-    "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings",
+    "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
     "wpi-inflation-october-data-due-monday-rbi-december",
-    "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
-    "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+    "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
     "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-    "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday",
-    "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
-    "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
-  ]
+    "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+    "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+    "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
+  ],
+  "mustReadEn": 6
 }

@@ -53492,26 +53492,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(2).jpg"
  },
  {
-  "id": "o-india-bloc-48-questions-election-commission-supreme-court-sir",
-  "articleId": "india-bloc-48-questions-election-commission-supreme-court-sir",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Himanshu Arya Khowal / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Rahul Gandhi (file photo)",
-  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
- },
- {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Supreme_Court_of_India%2C_inside_buildings_01.jpg/1280px-Supreme_Court_of_India%2C_inside_buildings_01.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Inside the Supreme Court of India complex, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट परिसर के भीतर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_01.jpg",
-  "id": "r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-  "articleId": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
- },
- {
   "id": "o-pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
   "articleId": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jacob-Helberg-photo_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53520,5 +53500,25 @@
   "alt": "Jacob Helberg, US Under Secretary of State for Economic Affairs (file photo)",
   "alt_hi": "अमेरिका के आर्थिक मामलों के अवर विदेश सचिव जैकब हेलबर्ग (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Jacob-Helberg-photo_2025.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "id": "r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+  "articleId": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rahul_Gandhi_speaking.jpg/1280px-Rahul_Gandhi_speaking.jpg",
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+  "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg",
+  "id": "r-india-bloc-48-questions-election-commission-supreme-court-sir",
+  "articleId": "india-bloc-48-questions-election-commission-supreme-court-sir"
  }
 ]

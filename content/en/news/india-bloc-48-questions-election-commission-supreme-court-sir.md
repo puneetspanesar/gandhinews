@@ -86,19 +86,19 @@ The application was filed through advocate-on-record Prasanna S and rests on **O
 According to reports, the 48 questions fall into about ten groups. Among them:
 
 - **How the affidavit was approved.** Whether Kumar, Sandhu and Joshi approved the Commission's counter-affidavit, whether at a meeting, on a circulated file or electronically, and on what dates.
-- **Objections.** How many written objections, dissents or reservations the two other commissioners recorded between February 19, 2025 and October 26, 2026 on SIR, ECINET, Form 6 and the filing of appeals, and whether decisions were unanimous or by majority.
-- **The orders themselves.** File numbers, dates and the manner of approval for the June 24, 2025 order that said the Commission had decided to begin SIR "in the entire country".
+- **Objections.** How many written objections, dissents or reservations the two other commissioners recorded between February 19, 2025, and October 26, 2026, on SIR, ECINET, Form 6 and the filing of appeals, and whether decisions were unanimous or by majority.
+- **The orders themselves.** File numbers, dates and the manner of approval for the June 24, 2025, order that said the Commission had decided to begin SIR "in the entire country".
 - **Form 6.** Who introduced a new declaration on the online Form 6 page, and how many applications were rejected, kept pending or left unprocessed because of it.
 - **ECINET and ERONET.** Whether anyone could change an electoral-roll entry other than on an Electoral Registration Officer's order, and, in the petitioners' words, "whether private contractors or vendors had write access to the electoral-roll database".
 - **Approvals by phone.** "Whether urgent ECI approvals were obtained via WhatsApp or personal email."
 
-The petitioners also point to an apparent conflict between the Commission's affidavit and an order of its own First Appellate Authority under the RTI Act, which reportedly said no decision to begin a nationwide SIR had been taken. They ask whether a decision file existed when the Commission's public information officer said on August 27, 2025 that no such information was available.
+The petitioners also point to an apparent conflict between the Commission's affidavit and an order of its own First Appellate Authority under the RTI Act, which reportedly said no decision to begin a nationwide SIR had been taken. They ask whether a decision file existed when the Commission's public information officer said on August 27, 2025, that no such information was available.
 
 The Deputy Election Commissioner, Bhanu Prakash Yeturu, who filed the Commission's affidavits, would give factual answers to all 48 questions. If the Commission claims privilege over any record, the petitioners ask that it give specific grounds for each one.
 
 ## What the Commission has said
 
-In its counter-affidavit of October 26, the Commission said its three SIR orders, dated **June 24, 2025, October 27, 2025 and May 14, 2026**, were approved unanimously by all three members, and that the Chief Election Commissioner did not act alone. It said a commissioner's note on a file is not itself a Commission decision, that urgent matters are approved electronically and recorded on file later, and that the extra declaration used during SIR is a separate document, not an amendment to Form 6. A supplementary affidavit followed on November 14 (see our report on [how excluded voters can return](/en/news/ec-supplementary-affidavit-sc-excluded-voters-restore-sir)). The Commission has not yet responded to the application, and the court has expressed no view on the merits.
+In its counter-affidavit of October 26, the Commission said its three SIR orders, dated **June 24, 2025, October 27, 2025, and May 14, 2026**, were approved unanimously by all three members, and that the Chief Election Commissioner did not act alone. It said a commissioner's note on a file is not itself a Commission decision, that urgent matters are approved electronically and recorded on file later, and that the extra declaration used during SIR is a separate document, not an amendment to Form 6. A supplementary affidavit followed on November 14 (see our report on [how excluded voters can return](/en/news/ec-supplementary-affidavit-sc-excluded-voters-restore-sir)). The Commission has not yet responded to the application, and the court has expressed no view on the merits.
 
 ```photo
 {"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose Commission says every SIR order was approved by all three members.","alt":"Chief Election Commissioner Gyanesh Kumar"}

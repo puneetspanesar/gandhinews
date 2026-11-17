@@ -1,0 +1,27 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-17T08:04:43+05:30",
+ "end": "2026-11-17T09:20:06+05:30",
+ "summary": "Bilkis Bano bail lead, INDIA bloc SIR questions, Pax Silica, Akvan updated",
+ "new": [
+  "india-bloc-48-questions-election-commission-supreme-court-sir",
+  "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+  "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+   "why": "Headline and text give landfall around noon on Friday November 20, but frontpages.txt shows other Indian sites leading with landfall on the night of November 19, and the story's own sources (ETV Bharat, Punjab Kesari/IANS) say the coast is reached on November 19. The story rests on secondary reports from Monday; no IMD primary bulletin and no Tuesday bulletin was found, and it is dated November 16 with its Tuesday-evening severe stage already due. The slug also still says night-nov-19, contradicting the headline.",
+   "done": "Checked: current reports of the IMD track (searched this run) still give landfall between Nellore and Tuni by November 20; no Tuesday bulletin found (IMD site blocked to the run). Added a sentence in EN and HI saying earlier reports put landfall on the night of November 19 and the Monday evening IMD track places it around noon on November 20; updated: is 09:00 IST November 17. Slug left unchanged (ids never change)."
+  }
+ ],
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
+  "markets band figures are more than 6 hours old while the market is open: 2026-11-16T16:37:00+05:30"
+ ],
+ "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+}

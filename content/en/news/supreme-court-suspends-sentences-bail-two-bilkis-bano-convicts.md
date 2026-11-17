@@ -29,7 +29,7 @@ glance:
 infographic:
   kicker: "Bilkis Bano case"
   headline: "From 2002 to bail for two convicts"
-  dek: "The order of October 28, 2026 follows 24 years of litigation"
+  dek: "The order of October 28, 2026, follows 24 years of litigation"
   motif: gavel
   timeline:
     - {date: "Mar 2002", text: "Attack on Bilkis Bano and her family during the Gujarat riots", icon: warning}
@@ -79,7 +79,7 @@ verification:
     - "The order PDF (livelaw.in pdf_upload link) could not be opened in this run (fetch permission not granted). Quoted words come from reports that quote the order: LiveLaw, ThePrint, The Wire, The Quint, all agreeing. Text says 'according to reports' for details that rest on them."
     - "Public date: the brief says the order became public on November 16; The Wire and ThePrint say it was uploaded on the court website on Sunday, November 15. Text says it became public on November 16 and was reportedly uploaded the day before."
     - "Bail conditions not stated in any report: left to the trial court. Status of the other nine convicts not reported; The Quint says the order covers only the two."
-    - "August 15, 2022 release, January 8, 2024 ruling and January 21, 2024 surrender are from the editor's brief and consistent with the reports (which say August 2022 and January 2024). The Wire gives the remission order as August 10, 2022, which the text does not use."
+    - "August 15, 2022, release, January 8, 2024, ruling and January 21, 2024, surrender are from the editor's brief and consistent with the reports (which say August 2022 and January 2024). The Wire gives the remission order as August 10, 2022, which the text does not use."
     - "Legal test: Section 430 BNSS summary and the liberal-for-fixed-terms, stricter-for-life principle follow our own explainer suspension-of-sentence-explained-tejpal-supreme-court; the Kashmira Singh rule is not cited."
     - "Bilkis Bano statement via senior advocate Shobha Gupta, November 16, as reported by The Wire. No political reactions found in three searches. No photo of Bilkis Bano used."
 ---

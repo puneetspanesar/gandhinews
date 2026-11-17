@@ -67,7 +67,7 @@ verification:
 
 India and nine other governments have signed a US-led pledge to protect the technologies and infrastructure that artificial intelligence depends on. The **San Francisco Declaration on the Secure Foundations of Enduring Prosperity** was signed on Sunday, November 15, at the Pax Silica Founders Retreat in San Francisco. The signatories are the United States, Australia, India, Israel, Japan, South Korea, Qatar, Singapore, the United Arab Emirates and the United Kingdom. South Korea's foreign ministry announced its own signature on Tuesday, November 17.
 
-The meeting was convened by Jacob Helberg, the US Under Secretary of State for Economic Affairs. It came two days before President Donald Trump is due to meet Chinese President Xi Jinping in Shenzhen, and on the day Quad leaders, Prime Minister Narendra Modi among them, are due to meet in Manila.
+The meeting was convened by Jacob Helberg, the US Under Secretary of State for Economic Affairs. It came four days before President Donald Trump is due to meet Chinese President Xi Jinping in Shenzhen on November 19, and two days before Quad leaders, Prime Minister Narendra Modi among them, meet in Manila on Tuesday, November 17.
 
 ## What the declaration says
 
@@ -83,10 +83,6 @@ Washington launched Pax Silica in December 2025 to secure the supply chains for 
 
 Some governments were less sure. Europe's governments had worried about broad definitions, their own regulatory autonomy and the "super intelligence" wording, according to reports on November 12. Germany, Sweden, the Netherlands and the European Commission are **expected to sign in the week of November 23**, according to reports, though that is not confirmed.
 
-```photo
-{"n":1,"subject":"Narendra Modi","caption":"Prime Minister Narendra Modi, who is in Manila for the ASEAN summits and a Quad leaders' meeting on Tuesday evening.","alt":"Prime Minister Narendra Modi"}
-```
-
 ## What each side says
 
 Helberg framed the declaration as a matter of trust among partners. The coalition, the State Department said, "cements its shared principles into a working partnership with a common baseline", and "the security of each participant is strengthened by the vigilance of all". Helberg told a newspaper that partners have agreed to treat the security of those technologies and the infrastructure behind them as a shared responsibility.
@@ -100,10 +96,6 @@ No Chinese government response to the declaration had been published at the time
 The pact is part of a wider American effort to reduce dependence on China in areas it dominates, above all rare earths and other critical minerals. Washington has pressed Beijing to raise rare earth exports to the US and its allies. In October, China set out draft rules that would put [23 AI technologies on an export control list](/en/news/deepseek-minimax-clear-china-ai-export-registration), and in Washington a Senate committee has asked Nvidia's Jensen Huang and Commerce Secretary Howard Lutnick to [testify on chip exports](/en/news/senate-banking-lutnick-huang-testimony-nvidia-megaspeed-december-10).
 
 Trump and Xi are expected to meet on **November 19 in Shenzhen**, on the sidelines of the APEC summit, to discuss extending a trade truce, including a suspension of export controls on some critical minerals. The [Rubio and Wang Yi call last week](/en/news/rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral) was the preparation for that meeting.
-
-```photo
-{"n":2,"subject":"Xi Jinping","caption":"Chinese President Xi Jinping, whom Trump is expected to meet in Shenzhen on November 19.","alt":"Chinese President Xi Jinping"}
-```
 
 ## Why it matters to India
 

@@ -5,10 +5,10 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Akvan becomes a cyclonic storm 670 km from Visakhapatnam; IMD holds landfall between Nellore and Tuni around noon on November 20"
+title: "Cyclone Akvan to cross the Andhra coast between Nellore and Tuni around noon on November 20, IMD expects a very severe storm by Thursday"
 standfirst: "The deep depression intensified into Cyclonic Storm Akvan in the IMD's 5:30 pm bulletin on Monday. It expects a severe storm by Tuesday evening and a very severe one by Thursday morning, crossing the Andhra Pradesh and Yanam coasts around noon on Friday."
 published: 2026-11-16T12:12:30+05:30
-updated: 2026-11-17T08:12:00+05:30
+updated: 2026-11-17T09:00:00+05:30
 location: Visakhapatnam
 keyPoints:
   - "The deep depression became **Cyclonic Storm Akvan at 5:30 pm on Monday**, centred 610 km east of Chennai and 670 km south-southeast of Visakhapatnam."
@@ -89,7 +89,7 @@ verification:
 
 The deep depression over the Bay of Bengal intensified into **Cyclonic Storm Akvan at 5:30 pm on Monday**, November 16, and the India Meteorological Department (IMD) still expects it to cross the Andhra Pradesh and Yanam coasts **between Nellore and Tuni around noon on Friday**, November 20, as a very severe cyclonic storm with winds of 120 to 130 km/h gusting to 145 km/h. The stretch is about 400 km of coast. Akvan, a name contributed by Iran, is the third storm of the season to head for the Andhra coast.
 
-At 5:30 pm the storm was centred near 12.2°N, 85.7°E, about 610 km east of Chennai, 660 km southeast of Machilipatnam, **670 km south-southeast of Visakhapatnam** and 790 km south of Gopalpur in Odisha, moving northwest towards the Andhra coast. That is closer than the 800 km south-southeast of Visakhapatnam reported at 8:30 am. The IMD expects a severe cyclonic storm by Tuesday evening, November 17, and a very severe cyclonic storm by the morning of Thursday, November 19, a few hours earlier than the night of November 19 it had indicated in its earlier bulletin.
+At 5:30 pm the storm was centred near 12.2°N, 85.7°E, about 610 km east of Chennai, 660 km southeast of Machilipatnam, **670 km south-southeast of Visakhapatnam** and 790 km south of Gopalpur in Odisha, moving northwest towards the Andhra coast. That is closer than the 800 km south-southeast of Visakhapatnam reported at 8:30 am. The IMD expects a severe cyclonic storm by Tuesday evening, November 17, and a very severe cyclonic storm by the morning of Thursday, November 19, a few hours earlier than the night of November 19 it had indicated in its earlier bulletin. Some earlier reports put landfall itself on the night of November 19; in the Monday evening track the IMD places the crossing between Nellore and Tuni **around noon on Friday, November 20**, and no Tuesday bulletin had changed that when this was updated.
 
 ## What the outlook says
 
@@ -98,7 +98,7 @@ The very severe stage is now due by the morning of Thursday, November 19, and th
 Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 20, with isolated extremely heavy falls of 21 cm or more in the north. The Andhra Pradesh and south Odisha coasts are under a **pre-cyclone watch**, the first of the IMD's four warning stages, issued as a yellow message.
 
 ```facts
-{"title":"Akvan at a glance, November 16","items":[{"value":"800 km","label":"south-southeast of Visakhapatnam at 8:30 am"},{"value":"400 km","label":"of coast in the landfall zone, Nellore to Tuni"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
+{"title":"Akvan at a glance","items":[{"value":"670 km","label":"south-southeast of Visakhapatnam at 5:30 pm on Monday"},{"value":"400 km","label":"of coast in the landfall zone, Nellore to Tuni"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
 ```
 
 ## Odisha starts early evacuations
