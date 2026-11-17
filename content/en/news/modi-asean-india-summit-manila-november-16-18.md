@@ -5,47 +5,40 @@ type: news
 section: world
 format_label: "World / Southeast Asia"
 topics: []
-title: "Modi at ASEAN-India Summit: \"future shaped not by competition but by cooperation\", Act East now covers digital, defence and space"
-standfirst: "Speaking in Manila on Tuesday, the Prime Minister said this was his third visit to an ASEAN country this year, tied India's development to ASEAN's prosperity and pledged to take the strategic partnership to new heights. The trade review and the Quad meeting remain to be settled."
+title: "Modi to attend ASEAN-India and East Asia Summits in Manila from November 16 to 18"
+standfirst: "The MEA announced the Prime Minister's three-day trip to the Philippines on Thursday. Maritime security, trade and Myanmar are on the table, while a Quad leaders' meeting on the sidelines is not confirmed."
 published: 2026-11-12T20:19:00+05:30
-updated: 2026-11-17T13:30:00+05:30
-location: Manila
+location: New Delhi
 keyPoints:
-  - "\"Our future should be shaped **not by competition but by cooperation**,\" Modi told the 23rd ASEAN-India Summit in Manila on Tuesday, November 17."
-  - "He said Act East has grown into **digital technology, defence and space**, and linked ASEAN's Community Vision 2045 to India's Viksit Bharat 2047."
-  - "India has taken **over 100 people-to-people initiatives** since 2014, including 250-plus quick impact projects and direct flights to nine ASEAN countries."
+  - "Modi will be in Manila from **November 16 to 18** for the 23rd ASEAN-India Summit and the 21st East Asia Summit."
+  - "India's trade with ASEAN is about **$122 billion**, roughly 10% of its global trade, and a review of the 2011 goods agreement is still unfinished."
+  - "A **Quad leaders' meeting** on the sidelines is reported as likely but the MEA says it is not confirmed."
+upcoming:
+  date: 2026-11-16
+  en: "PM Modi in Manila for the ASEAN-India Summit and East Asia Summit (November 16 to 18)"
+  hi: "प्रधानमंत्री मोदी मनीला में आसियान-भारत शिखर सम्मेलन और पूर्वी एशिया शिखर सम्मेलन में (16 से 18 नवंबर)"
 hero:
   need: "Prime Minister Narendra Modi at an ASEAN summit"
   suggested_source: "Narendra Modi"
   subjects: ["Narendra Modi", "Ferdinand Marcos Jr."]
   alt: "Prime Minister Narendra Modi"
   overlay:
-    value: "Manila, November 17"
+    value: "Manila, November 16 to 18"
 infographic:
   kicker: "ASEAN-India Summit, Manila"
-  headline: "Modi: cooperation, not competition"
-  dek: "Act East now spans digital, defence and space"
+  headline: "Modi to Manila for two summits"
+  dek: "Three days, 11 ASEAN members and a trade review still open"
   motif: globe
   stats:
-    - {icon: handshake, value: "100+", label: "people-to-people initiatives since 2014"}
-    - {icon: airplane-tilt, value: "9", label: "ASEAN countries with direct flights to India"}
-    - {icon: graduation-cap, value: "10,000+", label: "skill-building scholarships provided"}
-  source: "Reports of Modi's remarks, November 17, 2026"
+    - {icon: handshake, value: "$122 bn", label: "India-ASEAN trade"}
+    - {icon: globe, value: "~10%", label: "of India's global trade is with ASEAN"}
+    - {icon: scales, value: "$44 bn", label: "India's trade deficit with ASEAN in 2023"}
+  source: "MEA briefing, November 12, 2026"
 related: [asean-india-defence-think-tank-forum-delhi, india-us-trade-talks-plateau-russia-oil-tariff-law, modi-canada-visit-december-g20-florida-trip]
 seo:
-  title: "Modi at ASEAN-India Summit: cooperation not competition"
-  description: "At the 23rd ASEAN-India Summit in Manila on November 17, PM Modi said India's future with ASEAN should be shaped by cooperation, and listed digital, defence and space ties."
+  title: "Modi to attend ASEAN-India Summit in Manila, Nov 16-18"
+  description: "PM Modi will attend the 23rd ASEAN-India Summit and the 21st East Asia Summit in Manila from November 16 to 18, the MEA said. Trade and maritime security lead the agenda."
 sources:
-  - title: "PM Modi at ASEAN-India Summit: ASEAN ties at heart of Act East"
-    publisher: "ETV Bharat"
-    date: 2026-11-17
-    url: "https://www.etvbharat.com/en/international/prime-minister-narendra-modi-at-asean-india-summit-updates-enn26111700514"
-    primary: false
-  - title: "Visit of PM to Manila, Philippines"
-    publisher: "Prime Minister's Office"
-    date: 2026-11-12
-    url: "https://www.pmindia.gov.in/?p=16976564"
-    primary: true
   - title: "PM Modi to visit Philippines next week for ASEAN-India Summit"
     publisher: "The Hans India"
     date: 2026-11-12
@@ -79,7 +72,6 @@ sources:
 verification:
   status: approved
   notes:
-    - "Update, Nov 17: Modi's own text of remarks not found on PIB/MEA/PMO pages opened (the narendramodi.in address page that appeared in search is from 2017). Speech content rests on one fetched report (ETV Bharat); a second (Manila Bulletin) could not be fetched; News On AIR page carried a headline on the same speech. Figures and quotes are as that report gives them; no outlet named in text."
     - "MEA press release page could not be opened (permission not granted). Written from four reports of the MEA special briefing by Secretary (East) Rudrendra Tandon on Nov 12 (Hans India, ThePrint x2, Nation Path), which agree on dates, summit numbers and the dinner. Quotes are word for word from the Hans India and ThePrint pieces."
     - "Reports differ on timing: one says the summits follow the dinner 'the next day', ThePrint says Modi attends the summits on Nov 17. Written as Nov 17 per ThePrint, dinner before it. Exact dinner date not given."
     - "Quad meeting: ThePrint sources only, plus a Rubio remark from last month as reported by ThePrint; MEA says not confirmed. Written as reported and unconfirmed."
@@ -87,25 +79,19 @@ verification:
     - "Trade figure $122 billion and about 10% share and $7.5 bn (2011) to $44 bn (2023) deficit are from ThePrint's account of the briefing and its own background; currency of the 122 figure is dollars per ThePrint."
 ---
 
-Prime Minister Narendra Modi told the 23rd ASEAN-India Summit in Manila on Tuesday, November 17, that the region's future must be built on teamwork. "It is therefore essential to ensure that our future is **shaped not by competition but by cooperation**," he said, according to reports of his remarks, as he called for peace, stability and predictability amid global uncertainty.
+Prime Minister Narendra Modi will travel to Manila from November 16 to 18 to attend the **23rd ASEAN-India Summit and the 21st East Asia Summit**, the Ministry of External Affairs announced at a special briefing in New Delhi on Thursday, November 12.
 
-Mr Modi said it was his **third visit to an ASEAN country this year**. "This demonstrates the special importance that ASEAN has for India," he said, adding: "Our belief is that India's development and ASEAN's prosperity are very closely linked to each other." He congratulated Philippine President Ferdinand Marcos Jr. on chairing ASEAN this year and acknowledged the Philippines' role as India's country coordinator. He described it as his 13th engagement with ASEAN leaders in this format.
+Secretary (East) Rudrendra Tandon told reporters that the Philippines, which chairs the 11-nation ASEAN this year, will host both meetings. President Ferdinand Marcos Jr. will give a dinner for visiting leaders, and the summits themselves follow, with Modi due to attend them on **Tuesday, November 17**, according to reports of the briefing. Modi returns to India on Wednesday, November 18.
 
-## What Modi said
+Maritime security and trade and investment are the main items on India's list, and the Ministry has left open whether Modi will meet other leaders one-on-one. Tandon said bilateral meetings are planned on the sidelines but did not name the leaders.
 
-Reports of the speech say Mr Modi pointed out that India and ASEAN together are home to about **a quarter of the world's population**, and that India's Act East policy has widened into **digital technology, defence and space**. He tied ASEAN's Community Vision 2045 to India's own Viksit Bharat 2047 goal, and reaffirmed support for ASEAN unity and centrality and for a secure, inclusive and prosperous Indo-Pacific. The summit, he said, would take the Comprehensive Strategic Partnership to new heights.
+## What the Ministry said
 
-On people-to-people ties he listed **more than 100 initiatives since 2014**, over 250 Quick Impact Projects, more than 10,000 skill-building scholarships and direct flights between India and nine ASEAN countries. The summit theme this year is "Navigating Our Future Together". No new agreement, trade announcement or joint statement had appeared in the reports available when this was updated, and the Ministry of External Affairs text of the remarks had not been published on the pages we could open.
+Tandon described ASEAN as "a key element or building block of our Act East policy" and said India's ties with all 11 member states are very active. The grouping, set up in 1967, now includes Timor-Leste as its eleventh member. The summit theme this year is "Navigating the Future", and leaders are expected to talk about becoming more resilient to rapid change.
 
-```photo
-{"n":1,"subject":"Ferdinand Marcos Jr.","caption":"Philippine President Ferdinand Marcos Jr., who hosts the summits as this year's ASEAN chair and whom Mr Modi congratulated on the chairmanship.","alt":"Philippine President Ferdinand Marcos Jr."}
-```
+The agenda he listed for India-ASEAN cooperation runs from **maritime domain awareness and maritime surveillance** to digital public infrastructure and trade. India is expected to push for deeper maritime cooperation among like-minded Indo-Pacific countries.
 
-## Before the summit: what the Ministry had said
-
-Maritime security and trade and investment were the main items on India's list. At a briefing in New Delhi on Thursday, November 12, Secretary (East) Rudrendra Tandon said bilateral meetings were planned on the sidelines but did not name the leaders. He described ASEAN as "a key element or building block of our Act East policy" and said India's ties with all 11 member states are very active. The grouping, set up in 1967, now includes Timor-Leste as its eleventh member.
-
-The agenda he listed for India-ASEAN cooperation ran from **maritime domain awareness and maritime surveillance** to digital public infrastructure and trade. The East Asia Summit, which began in 2005, is the ASEAN-led forum where India, China, Japan, South Korea, Australia, New Zealand, the United States and Russia sit with the ASEAN states.
+The East Asia Summit, which began in 2005, is the ASEAN-led forum where India, China, Japan, South Korea, Australia, New Zealand, the United States and Russia sit with the ASEAN states to discuss security and shared concerns. The Ministry also said there is "a very strong demand from the Indian community to meet the Prime Minister", and officials are trying to fit a community event into the schedule.
 
 ## The trade review
 
@@ -114,7 +100,7 @@ Trade with the bloc is about **$122 billion**, roughly 10% of India's global tra
 The ASEAN-India Trade in Goods Agreement (AITIGA) came into force in 2011. Its review has been under way since 2020 and is not finished. New Delhi wants it completed as soon as possible and wants better market access, particularly in Vietnam and Indonesia, where some tariff cuts envisaged in 2011 have not been made. Tandon called the review "complex" and said the work is about building consensus. "That conversation is ongoing," he said.
 
 ```timeline
-{"title":"India and ASEAN: recent steps","items":[{"date":"2011","text":"ASEAN-India Trade in Goods Agreement comes into force"},{"date":"2020","text":"Review of the goods agreement begins and is still open"},{"date":"August 5, 2025","text":"Modi holds talks with Marcos Jr. in New Delhi during his state visit"},{"date":"October 26, 2025","text":"Modi joins the 22nd ASEAN-India Summit virtually"},{"date":"November 17, 2026","text":"Modi addresses the 23rd ASEAN-India Summit in Manila"}]}
+{"title":"India and ASEAN: recent steps","items":[{"date":"2011","text":"ASEAN-India Trade in Goods Agreement comes into force"},{"date":"2020","text":"Review of the goods agreement begins and is still open"},{"date":"August 5, 2025","text":"Modi holds talks with Marcos Jr. in New Delhi during his state visit"},{"date":"October 26, 2025","text":"Modi joins the 22nd ASEAN-India Summit virtually"},{"date":"November 17, 2026","text":"Modi due at the 23rd ASEAN-India Summit in Manila"}]}
 ```
 
 ## Myanmar and the Quad
@@ -125,10 +111,13 @@ Whether Modi will sit down with US President Donald Trump, Japanese Prime Minist
 
 India was due to host the Quad leaders' summit last year, but it did not take place because of a lack of clarity from Washington about Trump's travel. If it is held, it would be the grouping's first summit of leaders in two years, and reports say a formal Modi-Trump bilateral on the sidelines is unlikely. Our report on the state of [India-US trade talks](/en/news/india-us-trade-talks-plateau-russia-oil-tariff-law) covers the other track between the two governments.
 
+```photo
+{"n":1,"subject":"Ferdinand Marcos Jr.","caption":"Philippine President Ferdinand Marcos Jr., who hosts the summits as this year's ASEAN chair and will give a dinner for visiting leaders.","alt":"Philippine President Ferdinand Marcos Jr."}
+```
 
 ## How we got here
 
-Before this, Modi last took part in an ASEAN-India Summit on **October 26, 2025, virtually**, when the 22nd edition reviewed the Comprehensive Strategic Partnership. External Affairs Minister S. Jaishankar represented him at the 20th East Asia Summit in Kuala Lumpur the next day. This year's trip puts the Prime Minister in the room for both meetings.
+Modi last took part in an ASEAN-India Summit on **October 26, 2025, virtually**, when the 22nd edition reviewed the Comprehensive Strategic Partnership. External Affairs Minister S. Jaishankar represented him at the 20th East Asia Summit in Kuala Lumpur the next day. This year's trip puts the Prime Minister in the room for both meetings.
 
 Bilateral ties with the host are also recent. Marcos was in India on a five-day state visit in August 2025, and the two leaders held delegation-level talks in New Delhi on August 5, 2025, reviewing trade, defence, maritime cooperation, agriculture, health and digital technology. Bilateral trade was $3.5 billion in 2023-24.
 
@@ -140,4 +129,4 @@ The maritime items bear on the sea lanes through which much of that trade moves.
 
 ## What happens next
 
-The East Asia Summit follows in Manila, and the open items are the long-running **review of the 2011 goods agreement**, whose next round is reported to be due in January, and the bilateral and Quad meetings that the Ministry had not confirmed. Any joint statement from the ASEAN-India Summit will show whether the partnership's 2026-30 plan of action and the Year of Maritime Cooperation have moved beyond speeches. Modi is due back in India on Wednesday, November 18.
+Modi leaves for Manila on Monday, November 16. The Marcos dinner and the summits follow, with the ASEAN-India Summit and the East Asia Summit expected on November 17, and he is due back on November 18. The bilateral meetings and any Quad meeting remain unconfirmed as of Thursday evening.

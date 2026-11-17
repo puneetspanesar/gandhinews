@@ -4,7 +4,7 @@ lang: en
 type: news
 section: economy
 format_label: "Economy / Jobs"
-topics: [economy, jobs]
+topics: []
 title: "Unemployment falls to 4.9% in October, an eight-month low, as female participation rises to 35%"
 standfirst: "The PLFS monthly bulletin shows urban joblessness easing to 6.7% while more women in villages looked for and found work."
 published: 2026-11-17T13:13:33+05:30
@@ -55,7 +55,7 @@ sources:
     publisher: "Ministry of Statistics and Programme Implementation"
     date: 2026-11-16
     url: "https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?product=PLFS"
-    primary: true
+    primary: false
 verification:
   status: approved
   notes:

@@ -22,7 +22,7 @@
       "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
     ],
     "relatedBeside": [
-      "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains"
+      "plfs-october-2026-unemployment-4-9-female-participation-35"
     ],
     "live": {
       "title": {
@@ -33,6 +33,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "plfs-october-2026-unemployment-4-9-female-participation-35",
+        "lead": {
+          "en": "Jobs:",
+          "hi": "रोज़गार:"
+        },
+        "text": {
+          "en": "Unemployment falls to 4.9% in October, an eight-month low, as female participation rises to 35%",
+          "hi": "अक्टूबर में बेरोज़गारी दर घटकर 4.9%, आठ महीने में सबसे कम, महिला भागीदारी बढ़कर 35%"
+        }
+      },
+      {
+        "link": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "Cyclone Akvan heads for Andhra coast: very severe storm by Thursday evening, landfall around noon on November 20, extremely heavy rain warned",
+          "hi": "चक्रवात अकवान आंध्र तट की ओर: गुरुवार शाम तक अति भीषण, 20 नवंबर दोपहर के आसपास तट पर, अत्यंत भारी बारिश की चेतावनी"
+        }
+      },
       {
         "link": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
         "lead": {
@@ -56,17 +78,6 @@
         }
       },
       {
-        "link": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "Cyclone Akvan to cross the Andhra coast between Nellore and Tuni around noon on November 20, IMD expects a very severe storm by Thursday",
-          "hi": "चक्रवात अकवान 20 नवंबर दोपहर के आसपास नेल्लोर और तुनी के बीच आंध्र तट पार करेगा, मौसम विभाग को गुरुवार तक अति भीषण तूफान की उम्मीद"
-        }
-      },
-      {
         "link": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
         "lead": {
           "en": "Cricket:",
@@ -75,6 +86,17 @@
         "text": {
           "en": "Suraj Kashyap's three wickets and Loharuka's 58 take Bihar past Railways by four wickets in Indore, with Sooryavanshi away with India A",
           "hi": "सूरज कश्यप के तीन विकेट और लोहारुका के 58 से बिहार ने इंदौर में रेलवे को चार विकेट से हराया, सूर्यवंशी इंडिया ए के साथ होने से नहीं खेले"
+        }
+      },
+      {
+        "link": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+        "lead": {
+          "en": "Himachal Pradesh:",
+          "hi": "हिमाचल प्रदेश:"
+        },
+        "text": {
+          "en": "Himachal Assembly's winter session opens at Tapovan with 414 questions and six sittings to November 21",
+          "hi": "हिमाचल विधानसभा का शीतकालीन सत्र तपोवन में शुरू, 414 प्रश्न और 21 नवंबर तक छह बैठकें"
         }
       },
       {
@@ -97,28 +119,6 @@
         "text": {
           "en": "Perseverance confirms complex organic carbon in two ancient Mars river rocks",
           "hi": "पर्सिवरेंस को मंगल की दो प्राचीन नदी चट्टानों में जटिल कार्बनिक कार्बन मिला"
-        }
-      },
-      {
-        "link": "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "lead": {
-          "en": "Environment:",
-          "hi": "पर्यावरण:"
-        },
-        "text": {
-          "en": "Centre orders 191 polluting units sealed in NCR and sets November 30 deadline for number-plate cameras",
-          "hi": "केंद्र का आदेश: एनसीआर की 191 प्रदूषणकारी इकाइयां सील हों, नंबर-प्लेट कैमरे 30 नवंबर तक लगें"
-        }
-      },
-      {
-        "link": "rajasthan-ganganagar-railway-track-blast-arrests",
-        "lead": {
-          "en": "Rajasthan:",
-          "hi": "राजस्थान:"
-        },
-        "text": {
-          "en": "Two Gurdaspur residents arrested for Anupgarh-Suratgarh rail track blast; Rajasthan ATS says a Pakistan-based handler supplied the bomb",
-          "hi": "अनूपगढ़-सूरतगढ़ रेल पटरी विस्फोट में गुरदासपुर के दो लोग गिरफ्तार, राजस्थान एटीएस का दावा, बम पाकिस्तान के हैंडलर ने दिया"
         }
       }
     ]
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "india-bloc-48-questions-election-commission-supreme-court-sir",
+      "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
       "also": []
     },
     "list": [
-      "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+      "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+      "india-bloc-48-questions-election-commission-supreme-court-sir",
       "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-      "wpi-inflation-october-2026",
-      "perseverance-mars-complex-organic-carbon-bright-angel",
-      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
+      "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+      "wpi-inflation-october-2026"
     ],
     "also": [
-      "rajasthan-ganganagar-railway-track-blast-arrests",
-      "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
+      "perseverance-mars-complex-organic-carbon-bright-angel",
+      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
     ]
   },
   "startHere": [
@@ -373,14 +373,14 @@
       },
       "list": [
         "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "yogi-up-25-lakh-tablets-svysy-rashtra-prerna-sthal"
+        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
+        "winter-session-first-week-december-delimitation-womens-quota-bill"
       ],
       "lead": "india-bloc-48-questions-election-commission-supreme-court-sir"
     },
     {
       "section": "economy",
-      "lead": "wpi-inflation-october-2026",
+      "lead": "plfs-october-2026-unemployment-4-9-female-participation-35",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,18 +391,18 @@
         ]
       },
       "list": [
+        "wpi-inflation-october-2026",
         "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi",
-        "sembcorp-green-infra-sebi-nod-3750-crore-ipo-fresh-issue-debt-repayment"
+        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
       ]
     },
     {
       "section": "states",
-      "lead": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+      "lead": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
       "list": [
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
         "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia"
+        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
       ]
     },
     {
@@ -410,8 +410,8 @@
       "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "list": [
         "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry"
+        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry",
+        "jaishankar-htls-india-us-trade-deal-last-stretch-national-interest"
       ]
     },
     {
@@ -428,9 +428,9 @@
       "section": "world",
       "lead": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "list": [
+        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
         "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair",
-        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade"
+        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair"
       ]
     },
     {
@@ -528,37 +528,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T11:05:07+05:30",
-      "ids": [
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
-      ]
-    },
-    {
-      "at": "2026-11-16T12:46:24+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "wpi-inflation-october-2026",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-        "england-banton-century-adelaide-second-odi-series-level",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
-      ]
-    },
     {
       "at": "2026-11-16T13:14:37+05:30",
       "ids": [
@@ -659,20 +628,53 @@
         "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
         "rajasthan-ganganagar-railway-track-blast-arrests"
       ]
+    },
+    {
+      "at": "2026-11-17T13:56:07+05:30",
+      "ids": [
+        "plfs-october-2026-unemployment-4-9-female-participation-35",
+        "wpi-inflation-october-2026",
+        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+        "fertiliser-subsidy-64-percent-rise-must-come-with-a-full-year-bill",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+        "perseverance-mars-complex-organic-carbon-bright-angel",
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
+      ]
+    },
+    {
+      "at": "2026-11-17T14:23:30+05:30",
+      "ids": [
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+        "plfs-october-2026-unemployment-4-9-female-participation-35",
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+        "wpi-inflation-october-2026",
+        "perseverance-mars-complex-organic-carbon-bright-angel"
+      ]
     }
   ],
-  "critical": [
-    "akvan-deep-depression-monday-imd-landfall-night-nov-19"
-  ],
+  "critical": [],
   "drop": [
-    "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
     "wpi-inflation-october-data-due-monday-rbi-december",
-    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-    "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
     "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-    "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
     "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-    "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
+    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
+    "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+    "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
+    "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
+    "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+    "iran-drones-bahrain-second-attack-riffa-radar-bahrain-un-sunday"
   ],
   "mustReadEn": 6
 }

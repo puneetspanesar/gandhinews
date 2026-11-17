@@ -5,7 +5,7 @@ translation_of: plfs-october-2026-unemployment-4-9-female-participation-35
 type: news
 section: economy
 format_label: "अर्थव्यवस्था / रोज़गार"
-topics: [economy, jobs]
+topics: []
 title: "अक्टूबर में बेरोज़गारी दर घटकर 4.9%, आठ महीने में सबसे कम, महिला भागीदारी बढ़कर 35%"
 standfirst: "पीएलएफएस के मासिक बुलेटिन के मुताबिक शहरों में बेरोज़गारी घटकर 6.7% रह गई, जबकि गांवों में ज़्यादा महिलाओं ने काम खोजा और पाया।"
 published: 2026-11-17T13:13:33+05:30
@@ -56,7 +56,7 @@ sources:
     publisher: "Ministry of Statistics and Programme Implementation"
     date: 2026-11-16
     url: "https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?product=PLFS"
-    primary: true
+    primary: false
 verification:
   status: approved
   notes:

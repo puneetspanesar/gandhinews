@@ -51246,16 +51246,45 @@
   }
  },
  "plfs-october-2026-unemployment-4-9-female-participation-35": {
-  "id": "o-plfs-october-2026-unemployment-4-9-female-participation-35",
-  "src": "/photos/o-plfs-october-2026-unemployment-4-9-female-participation-35-1280.jpg",
-  "src800": "/photos/o-plfs-october-2026-unemployment-4-9-female-participation-35-640.jpg",
+  "id": "i-plfs-october-2026-unemployment-4-9-female-participation-35",
+  "src": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-en-3x2-1280.jpg",
+  "src800": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "srcWidth": 3648,
-  "credit": "Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Women construction workers carrying bricks in Amritsar, Punjab (file photo)",
-  "alt_hi": "अमृतसर, पंजाब में ईंटें ढोती महिला निर्माण मज़दूर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Women_Construction_Workers_-_Outside_Golden_Temple_-_Amritsar_-_Punjab_-_India_(12675218333).jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Unemployment falls to 4.9%, women's participation up",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बेरोज़गारी घटकर 4.9%, महिला भागीदारी बढ़ी",
+  "page": null,
+  "ihash": "16f8ce30abb8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-hi-3x2-1280.jpg",
+    "src800": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-en-t-1280.jpg",
+    "src800": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-hi-t-1280.jpg",
+    "src800": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-en-1280.jpg",
+    "src800": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-hi-1280.jpg",
+    "src800": "/photos/i-plfs-october-2026-unemployment-4-9-female-participation-35-hi-640.jpg"
+   }
+  }
  }
 }
