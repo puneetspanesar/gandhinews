@@ -1,11 +1,9 @@
 {
  "run": "hourly-18",
  "start": "2026-11-17T18:04:34+05:30",
- "end": "2026-11-17T18:42:11+05:30",
- "summary": "Akvan orange warning and SC on INDIA bloc SIR questions updated; Goyal 1,000 aircraft new; markets close",
- "new": [
-  "goyal-india-1000-more-aircraft-order-2000-needed"
- ],
+ "end": "2026-11-17T18:57:40+05:30",
+ "summary": "Goyal aircraft story collage",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

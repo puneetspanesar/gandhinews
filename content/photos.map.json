@@ -51256,6 +51256,18 @@
   "licence": "GODL-India",
   "alt": "Commerce Minister Piyush Goyal (file photo)",
   "alt_hi": "वाणिज्य मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Piyush_Goyal_Minister_of_Commerce_and_Industry_addressing_a_press_conference_(4).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Piyush_Goyal_Minister_of_Commerce_and_Industry_addressing_a_press_conference_(4).jpg",
+  "treated": {
+   "src": "/photos/t-goyal-india-1000-more-aircraft-order-2000-needed-1280.jpg",
+   "src800": "/photos/t-goyal-india-1000-more-aircraft-order-2000-needed-640.jpg",
+   "cutout": true,
+   "with": [
+    "us-atc-telecom-failure-ground-stop-lifted-air-india-advisory",
+    "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle--p3"
+   ],
+   "kind": "photo",
+   "subj": "7001018196ff7ff",
+   "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; happy days photos and art / Wikimedia Commons; Bill Abbott / Wikimedia Commons"
+  }
  }
 }
