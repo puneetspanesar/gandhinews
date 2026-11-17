@@ -1,0 +1,19 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-17T18:04:34+05:30",
+ "end": "2026-11-17T18:42:11+05:30",
+ "summary": "Akvan orange warning and SC on INDIA bloc SIR questions updated; Goyal 1,000 aircraft new; markets close",
+ "new": [
+  "goyal-india-1000-more-aircraft-order-2000-needed"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
+  "fact check: no new fact check in over 30 hours (the long-form runs must write one each): "
+ ],
+ "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+}

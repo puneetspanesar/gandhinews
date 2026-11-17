@@ -32,7 +32,7 @@ infographic:
   timeline:
     - {date: "November 17", text: "Orange cyclone warning; severe storm by evening", icon: warning}
     - {date: "November 19", text: "Very severe stage by morning", icon: warning}
-    - {date: "November 20", text: "Landfall between Nellore and Tuni, around noon", icon: warning}
+    - {date: "November 20", text: "Landfall on the Andhra coast, between Nellore and Tuni around noon, or Nellore and Visakhapatnam in the afternoon in one report", icon: warning}
   source: "IMD National Bulletin No. 15, November 17, 2026 (11:30 am)"
 related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu, akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings]
 seo:
@@ -118,7 +118,7 @@ The very severe stage is now due by the morning of Thursday, November 19, and th
 Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 20, with isolated extremely heavy falls of 21 cm or more in the north. The IMD has moved the Andhra Pradesh and south Odisha coasts from a yellow **pre-cyclone watch** to an **orange cyclone warning**. It adds that heavy to extremely heavy rain can fall over Tamil Nadu, Puducherry, coastal Andhra Pradesh and Odisha from November 17 to 21.
 
 ```facts
-{"title":"Akvan at a glance","items":[{"value":"670 km","label":"south-southeast of Visakhapatnam at 5:30 pm on Monday"},{"value":"400 km","label":"of coast in the landfall zone, Nellore to Tuni"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
+{"title":"Akvan at a glance","items":[{"value":"660 km","label":"south-southeast of Visakhapatnam at 11:30 am on Tuesday"},{"value":"3 km/h","label":"speed of the storm over six hours to Tuesday morning"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
 ```
 
 ## Odisha starts early evacuations

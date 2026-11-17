@@ -51150,7 +51150,20 @@
   "licence": "CC BY 4.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png",
+  "treated": {
+   "src": "/photos/t-india-bloc-48-questions-election-commission-supreme-court-si-1280.jpg",
+   "src800": "/photos/t-india-bloc-48-questions-election-commission-supreme-court-si-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+    "election-commission",
+    "elections-2027"
+   ],
+   "kind": "photo",
+   "subj": "c7c3c3c7c7c7e7e7",
+   "credit": "Photos: Himanshu Arya Khowal / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons"
+  }
  },
  "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts": {
   "id": "r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
@@ -51234,16 +51247,15 @@
   }
  },
  "goyal-india-1000-more-aircraft-order-2000-needed": {
-  "id": "o-goyal-india-1000-more-aircraft-order-2000-needed",
-  "src": "/photos/o-goyal-india-1000-more-aircraft-order-2000-needed-1280.jpg",
-  "src800": "/photos/o-goyal-india-1000-more-aircraft-order-2000-needed-640.jpg",
+  "id": "r-goyal-india-1000-more-aircraft-order-2000-needed",
+  "src": "/photos/r-goyal-india-1000-more-aircraft-order-2000-needed-1280.jpg",
+  "src800": "/photos/r-goyal-india-1000-more-aircraft-order-2000-needed-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 622,
-  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Piyush Goyal (file photo)",
-  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+  "height": 853,
+  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "वाणिज्य मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Piyush_Goyal_Minister_of_Commerce_and_Industry_addressing_a_press_conference_(4).jpg"
  }
 }

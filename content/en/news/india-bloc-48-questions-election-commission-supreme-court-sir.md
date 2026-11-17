@@ -37,7 +37,7 @@ infographic:
 related: [supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct, election-commission-dissent-report-move-to-remove-cec, ec-supplementary-affidavit-sc-excluded-voters-restore-sir, priyanka-chaturvedi-ec-silence-commissioners-dissent-cec-removal, supreme-court-delhi-sir-form-6-ec-clarification-cji-mention]
 seo:
   title: "SC seeks EC reply on INDIA bloc 48 questions on SIR"
-  description: "On November 17, 2026 the Supreme Court asked the Election Commission to reply to the INDIA bloc's plea to put 48 questions on SIR; hearing on December 9."
+  description: "On November 17, 2026, the Supreme Court asked the Election Commission to reply to the INDIA bloc's plea to put 48 questions on SIR; hearing on December 9."
 sources:
   - title: "Supreme Court Seeks ECI's Response To INDIA Bloc's Plea To Serve 48 Interrogatories On SIR Decisions"
     publisher: "LiveLaw"

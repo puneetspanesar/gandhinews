@@ -81,10 +81,6 @@ Goyal did not name the manufacturers he is talking to, put a value on the propos
 
 He tied the point to air links with Egypt, which are today operated directly by EgyptAir. "We need to see more connectivity," he said. "As we get more aircraft, we are sure we will be able to have more flights to Egypt." He also met Egypt's Transport Minister, Lt Gen Kamel al-Wazir, to discuss transport and logistics cooperation, including airport development. Goyal's [Cairo trade talks](/en/news/goyal-egypt-jtc-terms-of-reference-local-currency-trade) on Sunday produced an agreement to write the terms of a possible trade pact.
 
-```photo
-{"n":1,"subject":"IndiGo Airbus A320neo","caption":"An IndiGo Airbus A320neo. IndiGo has the largest order book among Indian airlines.","alt":"IndiGo Airbus A320neo aircraft (file photo)"}
-```
-
 ## The orders already placed
 
 The 1,200 figure is the sum of the big deals of the last three years. According to civil aviation figures cited in reports, **IndiGo ordered 500 Airbus A320-family jets in 2023** and 30 A350s in 2024, and had 901 aircraft still awaiting delivery as of March 2026. The Air India Group ordered 470 aircraft from Airbus and Boeing in 2023. Akasa Air has ordered 226 Boeing 737 MAX jets. Those four orders alone add up to about 1,226 aircraft.
@@ -96,10 +92,6 @@ The fleet they are meant to add to is much smaller. Scheduled Indian carriers op
 The shortage Goyal describes is about how fast planes arrive. Orders are delivered over several years, and Airbus and Boeing have both struggled with **production delays, component shortages and engine supply**, so a new order takes years to turn into aircraft in service. Goyal's own wording was about "faster supplies" from the established makers.
 
 It is not a story of runaway demand. Domestic air traffic in India has been soft this year. In August the airlines carried about 1.21 crore passengers, **6.34% fewer than a year earlier**, according to DGCA data. In September they carried 1.18 crore. For January to September 2026 the total of 12.24 crore passengers was 0.82% lower than in the same period of 2025.
-
-```photo
-{"n":2,"subject":"Kamel al-Wazir","caption":"Egypt's Transport Minister Kamel al-Wazir, whom Goyal met in Cairo to discuss airports and logistics.","alt":"Kamel al-Wazir, Egypt's Transport Minister"}
-```
 
 ## A market held by two groups
 

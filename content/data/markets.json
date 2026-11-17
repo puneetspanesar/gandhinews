@@ -1,6 +1,6 @@
 {
- "as_of": "2026-11-17T14:10:00+05:30",
- "status": "open",
+ "as_of": "2026-11-17T18:25:00+05:30",
+ "status": "closed",
  "session_date": "2026-11-17",
  "chart": "nifty-50",
  "indices": [
@@ -8,9 +8,9 @@
    "id": "sensex",
    "name": "Sensex",
    "name_hi": "सेंसेक्स",
-   "value": 82832.31,
-   "change": 729.46,
-   "pct": 0.89,
+   "value": 82532.19,
+   "change": 427.4,
+   "pct": 0.52,
    "history": [
     {
      "date": "2026-09-30",
@@ -127,22 +127,22 @@
     {
      "date": "2026-11-16",
      "close": 82102.85
+    },
+    {
+     "date": "2026-11-17",
+     "close": 82532.19
     }
    ],
-   "source": "https://www.marketscreener.com/news/indian-shares-rise-on-record-foreign-inflows-crude-price-drop-ce785edede88ff21"
+   "source": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india"
   },
   {
    "id": "nifty-50",
    "name": "Nifty 50",
    "name_hi": "निफ्टी 50",
-   "value": 25456.65,
-   "change": 165.55,
-   "pct": 0.65,
+   "value": 25387.4,
+   "change": 96.3,
+   "pct": 0.38,
    "history": [
-    {
-     "date": "2026-09-30",
-     "close": 22620.45
-    },
     {
      "date": "2026-10-01",
      "close": 22421.95
@@ -258,9 +258,13 @@
     {
      "date": "2026-11-16",
      "close": 25291.1
+    },
+    {
+     "date": "2026-11-17",
+     "close": 25387.4
     }
    ],
-   "source": "https://www.marketscreener.com/news/indian-shares-rise-on-record-foreign-inflows-crude-price-drop-ce785edede88ff21"
+   "source": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india"
   },
   {
    "id": "nifty-bank",
@@ -384,49 +388,49 @@
  "movers": {
   "gainers": [
    {
+    "name": "Adani Enterprises",
+    "pct": 3.24
+   },
+   {
+    "name": "Eicher Motors",
+    "pct": 3.01
+   },
+   {
     "name": "Max Healthcare",
-    "pct": 6.63
+    "pct": 2.08
    },
    {
-    "name": "Tata Consumer",
-    "pct": 3.57
+    "name": "Asian Paints",
+    "pct": 2.02
    },
    {
-    "name": "ITC",
-    "pct": 3.54
-   },
-   {
-    "name": "Apollo Hospitals",
-    "pct": 2.87
-   },
-   {
-    "name": "Nestle India",
-    "pct": 2.68
+    "name": "Axis Bank",
+    "pct": 1.98
    }
   ],
   "losers": [
    {
-    "name": "Tata Motors PV",
-    "pct": -8.7
+    "name": "HCL Technologies",
+    "pct": -2.09
    },
    {
-    "name": "Tata Steel",
-    "pct": -2.37
+    "name": "Power Grid",
+    "pct": -1.6
    },
    {
-    "name": "Maruti Suzuki",
-    "pct": -2.2
+    "name": "HDFC Life",
+    "pct": -1.56
    },
    {
-    "name": "Hindalco",
-    "pct": -2.15
+    "name": "ONGC",
+    "pct": -1.53
    },
    {
     "name": "Coal India",
-    "pct": -1.49
+    "pct": -1.5
    }
   ],
-  "source": "https://hdfcsky.com/news/market-close-report-today-november-16-2026-nifty-sensex-shine-as-global-ai-jitters-redirect-trade-towards-india"
+  "source": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india"
  },
  "sectors": [
   {
@@ -499,7 +503,8 @@
   "12 Nov 16:30 IST (hourly-16): Sensex 81,911.01 (+31.61, +0.04%) and Nifty 50 25,299.35 (+44.30, +0.18%) closes and Nifty Realty up about 4% from the Business Standard live blog (3:54 pm) read this run; Nov 12 appended to history. Nifty Bank, Midcap, VIX, rates, movers and FII/DII flows kept (not on the page).",
   "Nov 13 09:18 IST (hourly-09): Sensex 81,498 (-413, -0.50%) and Nifty 50 25,120 (-179, -0.71%) in opening deals; rupee opened 94.04; Brent Jan futures 91.93 at 8:32 am. Other figures kept from Nov 12.",
   "16 Nov 14:25 IST (hourly-14): Sensex 81,906.59 (+314.14, +0.39%) and Nifty 50 25,217.00 (+72.70, +0.29%) as of 2:00 pm from the live market blog; other figures keep earlier values.",
-  "17 Nov 14:25 IST (stall-14): Sensex 82,832.31 (+0.89%, delayed BSE quote 2:10 pm IST) and Nifty 50 25,456.65 (+0.65%) from the MarketScreener quote header read this run; change worked out against the Nov 16 closes. Brent 91.65 (-0.88%) in early trade (Dainik Jagran English, 12:48 pm). Nifty Bank, Midcap, VIX, rupee, gold, silver, yield, movers, sectors and flows keep earlier values (no dated Nov 17 figure read; Business Standard and Kotak Neo pages failed to load)."
+  "17 Nov 14:25 IST (stall-14): Sensex 82,832.31 (+0.89%, delayed BSE quote 2:10 pm IST) and Nifty 50 25,456.65 (+0.65%) from the MarketScreener quote header read this run; change worked out against the Nov 16 closes. Brent 91.65 (-0.88%) in early trade (Dainik Jagran English, 12:48 pm). Nifty Bank, Midcap, VIX, rupee, gold, silver, yield, movers, sectors and flows keep earlier values (no dated Nov 17 figure read; Business Standard and Kotak Neo pages failed to load).",
+  "17 Nov 18:25 IST (hourly-18): Sensex close 82,532.19 (+427.40, +0.52%) and Nifty 50 close 25,387.40 (+96.30, +0.38%), Nifty 50 top gainers and losers, from the HDFC Sky closing report (4:11 pm) cross-checked with Kotak Neo (4:09 pm); closes appended to history. Nifty Bank, Midcap 100 level, VIX, rupee and sectors not found in sources read this run: kept at earlier values."
  ],
  "holidays": [
   "2026-11-10"
