@@ -5,41 +5,60 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Cyclone Akvan to cross the Andhra coast between Nellore and Tuni around noon on November 20, IMD expects a very severe storm by Thursday"
-standfirst: "The deep depression intensified into Cyclonic Storm Akvan in the IMD's 5:30 pm bulletin on Monday. It expects a severe storm by Tuesday evening and a very severe one by Thursday morning, crossing the Andhra Pradesh and Yanam coasts around noon on Friday."
+title: "IMD issues orange cyclone warning for Andhra and south Odisha as Akvan crawls at 3 km/h, Ganjam begins evacuations ahead of a very severe storm"
+standfirst: "The IMD's 11:30 am bulletin on Tuesday kept Akvan on course to become a very severe cyclonic storm by Thursday morning and put out an orange cyclone warning for the Andhra Pradesh and south Odisha coasts. It still expects landfall on Friday, November 20, and Odisha has deployed 74 rescue teams."
 published: 2026-11-16T12:12:30+05:30
-updated: 2026-11-17T09:00:00+05:30
+updated: 2026-11-17T18:20:00+05:30
 location: Visakhapatnam
 keyPoints:
-  - "The deep depression became **Cyclonic Storm Akvan at 5:30 pm on Monday**, centred 610 km east of Chennai and 670 km south-southeast of Visakhapatnam."
-  - "The IMD still expects landfall **between Nellore and Tuni around noon on November 20**, as a very severe storm with winds of 120 to 130 km/h."
-  - "It expects a severe storm by Tuesday evening and a **very severe storm by the morning of November 19**; Odisha's southern districts have been told to start early evacuations."
+  - "The IMD's 11:30 am bulletin on Tuesday carries an **orange cyclone warning for the Andhra Pradesh and south Odisha coasts**; Akvan was moving at only 3 km/h, 660 km south-southeast of Visakhapatnam."
+  - "It still expects a severe storm by Tuesday evening, a **very severe storm by the morning of November 19** and landfall on Friday, November 20, with winds of 120 to 130 km/h."
+  - "Odisha has deployed **74 rescue teams** and Ganjam began moving people out of landslide-prone areas on Tuesday; dams on four rivers have released water."
 hero:
   need: "A cyclone on the Andhra or Odisha coast: wind damage and rough sea (file photo)"
   suggested_source: "Cyclone Hudhud"
   subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
   alt: "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)"
   overlay:
-    value: "Cyclone Akvan formed; landfall November 20 noon"
+    value: "Orange warning issued; landfall November 20"
 infographic:
   kicker: "Cyclone Akvan watch"
-  headline: "Akvan forms, landfall still Nellore to Tuni"
-  dek: "A cyclonic storm since Monday evening, a very severe storm at the coast on Friday"
+  headline: "Orange warning as Akvan crawls towards Andhra"
+  dek: "A very severe storm due on Thursday, landfall on Friday"
   motif: wind
   stats:
-    - {icon: map-pin, value: "670 km", label: "south-southeast of Visakhapatnam at 5:30 pm on Monday"}
-    - {icon: wind, value: "120 to 130 km/h", label: "winds forecast at landfall, gusting to 145 km/h"}
+    - {icon: map-pin, value: "660 km", label: "south-southeast of Visakhapatnam at 11:30 am on Tuesday"}
+    - {icon: wind, value: "3 km/h", label: "speed of the storm, nearly stationary over the past six hours"}
   timeline:
-    - {date: "November 16", text: "Became Cyclonic Storm Akvan at 5:30 pm", icon: cloud-rain}
-    - {date: "November 17", text: "Severe cyclonic storm by evening", icon: warning}
+    - {date: "November 17", text: "Orange cyclone warning; severe storm by evening", icon: warning}
     - {date: "November 19", text: "Very severe stage by morning", icon: warning}
     - {date: "November 20", text: "Landfall between Nellore and Tuni, around noon", icon: warning}
-  source: "IMD bulletins, November 16, 2026 (5:30 pm)"
+  source: "IMD National Bulletin No. 15, November 17, 2026 (11:30 am)"
 related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu, akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings]
 seo:
-  title: "Cyclone Akvan forms, landfall Nellore to Tuni November 20"
-  description: "Akvan became a cyclonic storm at 5:30 pm on Monday, 670 km from Visakhapatnam; the IMD holds landfall between Nellore and Tuni around noon on November 20."
+  title: "Akvan: orange warning for Andhra, landfall November 20"
+  description: "The IMD put out an orange cyclone warning for Andhra Pradesh and south Odisha on Tuesday; Akvan is 660 km from Visakhapatnam and due to cross the coast on November 20."
 sources:
+  - title: "Cyclone Akvan: IMD National Bulletin No. 15, 11:30 am, November 17 (orange message for Andhra Pradesh and south Odisha)"
+    publisher: "NewsX"
+    date: 2026-11-17
+    url: "https://www.newsx.com/regionals/cyclone-akvan-likely-to-intensify-into-very-severe-storm-landfall-along-andhra-pradesh-coast-on-november-20-293015/"
+    primary: false
+  - title: "Cyclone Akvan to cross Andhra coast on 20 Nov, 145 kmph gusts"
+    publisher: "The Open Press"
+    date: 2026-11-17
+    url: "https://theopenpress.in/article/cyclone-akvan-andhra-coast-landfall-20-november-17-november"
+    primary: false
+  - title: "Odisha deploys 74 rescue teams, starts evacuation as Cyclone Akvan set to hit neighbouring Andhra"
+    publisher: "ThePrint (PTI)"
+    date: 2026-11-16
+    url: "https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496/"
+    primary: false
+  - title: "Ganjam orders evacuation from landslide-prone areas ahead of Cyclone Akvan"
+    publisher: "OMMCOM News"
+    date: 2026-11-16
+    url: "https://ommcomnews.com/odisha-news/ganjam-orders-evacuation-from-landslide-prone-areas-ahead-of-cyclone-akvan/"
+    primary: false
   - title: "Cyclonic Storm Akvan forms over Bay of Bengal, 610 km east of Chennai; IMD says it may cross Andhra coast between Nellore and Tuni on November 20"
     publisher: "Delhi News Live"
     date: 2026-11-16
@@ -78,6 +97,8 @@ sources:
 verification:
   status: approved
   notes:
+    - "Updated November 17, 6:20 pm: IMD National Bulletin No. 15 (11:30 am, 12.3N 85.7E, 650 km SE of Machilipatnam, 660 km SSE of Visakhapatnam, 3 km/h) and the orange message are from NewsX (6:05 pm) and The Open Press (the 2:30 am bulletin); the IMD site and its bulletin PDF could not be opened. The narrowed landfall stretch (Nellore to Visakhapatnam, afternoon of November 20) appears in the NewsX report only and is written as reported; the 2:30 am text and other reports still say Nellore to Tuni around noon."
+    - "Odisha: 74 teams (60 ODRAF, 14 NDRF), dam releases on the Rushikulya, Nagabali, Bahuda and Vansadhara, 107 pregnant women moved in Ganjam and the Tuesday evacuation order are from PTI via ThePrint and OMMCOM News (both Monday evening). Naidu's Tuesday morning review is from The Open Press, no details given."
     - "Updated November 17, 8:13 am: the IMD 5:30 pm bulletin of November 16 (named storm at 12.2N 85.7E, 610 km east of Chennai) is read from two published reports quoting IMD posts; the IMD site could not be opened. No Tuesday bulletin was found. Very severe stage now the morning of November 19 per that bulletin."
     - "IMD site not readable by the desk; story rests on published reports of the IMD bulletins of November 16 (2:30 am, 5:30 am, 8:30 am). Primary source not opened this run."
     - "Landfall zone (Nellore to Tuni, around noon on November 20) is in The Federal (1:31 pm IST) and a live blog (4 pm). The 400 km width and the storm surge of 1 to 1.5 m for Prakasam, Bapatla, Krishna, West Godavari, Konaseema and Kakinada come from the live blog only (transclew.com); stated as the IMD outlook as reported."
@@ -86,16 +107,15 @@ verification:
     - "Death toll of 15 from Arnab and Murasu is reported by one wire report; marked as reported. Evacuation figure of 180,000 for Arnab is from one IANS report."
     - "Hero: Hudhud file photo from the picture library (Visakhapatnam beach road)."
 ---
+The India Meteorological Department (IMD) kept Cyclonic Storm Akvan on course to become a **very severe cyclonic storm by the morning of Thursday**, November 19, in its 11:30 am bulletin on Tuesday, November 17, and by then an **orange cyclone warning** was out for the Andhra Pradesh and adjoining south Odisha coasts, asking authorities to stay alert and take precautions. Landfall is still forecast on Friday, November 20, with winds of 120 to 130 km/h gusting to 145 km/h. Akvan, a name contributed by Iran, is the third storm of the season to head for the Andhra coast.
 
-The deep depression over the Bay of Bengal intensified into **Cyclonic Storm Akvan at 5:30 pm on Monday**, November 16, and the India Meteorological Department (IMD) still expects it to cross the Andhra Pradesh and Yanam coasts **between Nellore and Tuni around noon on Friday**, November 20, as a very severe cyclonic storm with winds of 120 to 130 km/h gusting to 145 km/h. The stretch is about 400 km of coast. Akvan, a name contributed by Iran, is the third storm of the season to head for the Andhra coast.
-
-At 5:30 pm the storm was centred near 12.2°N, 85.7°E, about 610 km east of Chennai, 660 km southeast of Machilipatnam, **670 km south-southeast of Visakhapatnam** and 790 km south of Gopalpur in Odisha, moving northwest towards the Andhra coast. That is closer than the 800 km south-southeast of Visakhapatnam reported at 8:30 am. The IMD expects a severe cyclonic storm by Tuesday evening, November 17, and a very severe cyclonic storm by the morning of Thursday, November 19, a few hours earlier than the night of November 19 it had indicated in its earlier bulletin. Some earlier reports put landfall itself on the night of November 19; in the Monday evening track the IMD places the crossing between Nellore and Tuni **around noon on Friday, November 20**, and no Tuesday bulletin had changed that when this was updated.
+The bulletin put the storm near 12.3°N, 85.7°E, **660 km south-southeast of Visakhapatnam** and 650 km southeast of Machilipatnam, and said it had moved north at only **3 km/h over the previous six hours**. The 2:30 am bulletin had called it nearly stationary for nine hours. The IMD expects it to become a severe cyclonic storm by Tuesday evening, then move slowly north-northwest and northwest. One report of the 11:30 am bulletin says the crossing is now expected on the afternoon of November 20 between Nellore and Visakhapatnam, a narrower stretch than the Nellore to Tuni coast, about 400 to 540 km, named earlier in the day; the 2:30 am bulletin still said **around noon, between Nellore and Tuni**. The slow drift means the rain bands can sit over the same districts for longer, which raises the flood risk.
 
 ## What the outlook says
 
 The very severe stage is now due by the morning of Thursday, November 19, and the coast and hour are unchanged: landfall around noon the next day. The IMD also advises a **total suspension of fishing operations** in the affected sea areas, where it expects very rough to phenomenal seas as the winds build. Reports of the outlook add that **storm surge of 1 to 1.5 metres above the tide** could flood low-lying areas of Prakasam, Bapatla, Krishna, West Godavari, Konaseema and Kakinada districts.
 
-Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 20, with isolated extremely heavy falls of 21 cm or more in the north. The Andhra Pradesh and south Odisha coasts are under a **pre-cyclone watch**, the first of the IMD's four warning stages, issued as a yellow message.
+Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 20, with isolated extremely heavy falls of 21 cm or more in the north. The IMD has moved the Andhra Pradesh and south Odisha coasts from a yellow **pre-cyclone watch** to an **orange cyclone warning**. It adds that heavy to extremely heavy rain can fall over Tamil Nadu, Puducherry, coastal Andhra Pradesh and Odisha from November 17 to 21.
 
 ```facts
 {"title":"Akvan at a glance","items":[{"value":"670 km","label":"south-southeast of Visakhapatnam at 5:30 pm on Monday"},{"value":"400 km","label":"of coast in the landfall zone, Nellore to Tuni"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
@@ -103,9 +123,9 @@ Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 2
 
 ## Odisha starts early evacuations
 
-In Odisha, district administrations in the south have been told to begin **early evacuations from vulnerable areas**. All 30 districts are on alert, round-the-clock control rooms are running, and the National Disaster Response Force, the Odisha Disaster Rapid Action Force and fire services are on standby. Farmers have been urged to harvest standing crops before the rain of November 18 and 19, and fishermen were told to be back on shore by Monday.
+Odisha has deployed **74 rescue teams**, 60 of the Odisha Disaster Rapid Action Force and 14 of the National Disaster Response Force, concentrated in Ganjam, Gajapati, Kandhamal, Rayagada, Koraput, Malkangiri and Puri. Disaster Management Minister Suresh Pujari said the government had made "full arrangements to secure lives and property". Water has been released from dams on the Rushikulya, Nagabali, Bahuda and Vansadhara rivers to make room for the rain, and fishermen are barred from the sea from November 18 to 20. The IMD does not expect rain as extreme as Cyclone Arnab brought on October 28, and no red warning has been issued for Odisha. Arnab killed 11 people there, six are still missing, and most deaths were from landslides in Ganjam and Kandhamal. District administrations in the south have been told to begin **early evacuations from vulnerable areas**. All 30 districts are on alert, round-the-clock control rooms are running, and the National Disaster Response Force, the Odisha Disaster Rapid Action Force and fire services are on standby. Farmers have been urged to harvest standing crops before the rain of November 18 and 19, and fishermen were told to be back on shore by Monday.
 
-Ganjam Collector V. Keerthi Vasan said landslide-prone and low-lying spots have been identified and that personnel and machinery are ready. He told officers: "If required, people will be taken to safe locations and cyclone shelters." He asked them to check drinking water, food, lighting and toilets at every shelter. The IMD's Odisha outlook is for light to moderate rain from the evening of November 17, heavy rain on November 18, heavy to very heavy rain from November 19 to 21, and **thundersqualls of 50 to 60 km/h** on November 19 and 20. Orange warnings are out for Puri, Ganjam and Gajapati on November 19.
+Ganjam Collector V. Keerthi Vasan said landslide-prone and low-lying spots have been identified and that personnel and machinery are ready. On Monday he ordered the evacuation of people from hilly and landslide-prone areas to start on **Tuesday morning**, and 107 pregnant women in Ganjam have already been moved to safer places. He told officers: "If required, people will be taken to safe locations and cyclone shelters." He asked them to check drinking water, food, lighting and toilets at every shelter. The IMD's Odisha outlook is for light to moderate rain from the evening of November 17, heavy rain on November 18, heavy to very heavy rain from November 19 to 21, and **thundersqualls of 50 to 60 km/h** on November 19 and 20. Orange warnings are out for Puri, Ganjam and Gajapati on November 19.
 
 
 ## Tamil Nadu, Bengal and the fishing ban
@@ -124,8 +144,8 @@ Cyclone Arnab struck the Andhra coast in late October, and an official statement
 
 Akvan would be the **third cyclone to reach the Andhra coast in about three weeks**, and the landfall zone takes in Nellore, the district where Murasu crossed, as well as the Godavari delta. Coastal districts still repairing roads, power lines and fields have a few days between the first rain on Tuesday and landfall on Friday. A storm with winds of 120 to 130 km/h brings down trees and power lines and damages kutcha houses, and a surge of up to 1.5 metres puts low-lying villages in the delta at risk of flooding.
 
-A 400 km landfall zone is wide, and the IMD has not narrowed it. Residents from Nellore to Kakinada, and in Yanam, are therefore all within the area for which preparations are being made. The department says the track will become clearer as the system develops over the Bay.
+Chief Minister N. Chandrababu Naidu held a review meeting on Tuesday morning, and coastal districts between Nellore and Tuni, the most exposed, are preparing to move people from vulnerable areas before landfall. The landfall stretch is wide, and the IMD has not formally narrowed it beyond the reports of the 11:30 am bulletin. Residents from Nellore to Kakinada, and in Yanam, are therefore all within the area for which preparations are being made.
 
 ## What happens next
 
-The first marker is **Tuesday evening**, November 17, when the IMD expects Akvan to become a severe cyclonic storm. The very severe stage is due by the morning of Thursday, November 19, and landfall around noon on Friday, November 20. The IMD's next bulletins, through Tuesday and Wednesday, are the ones in which the landfall zone could be narrowed and the pre-cyclone watch raised to a cyclone alert.
+The first marker is **Tuesday evening**, November 17, when the IMD expects Akvan to become a severe cyclonic storm. The very severe stage is due by the morning of Thursday, November 19, and landfall around noon on Friday, November 20. The IMD has said it expects more clarity on the storm's intensity by Tuesday evening, and its bulletins through Wednesday are the ones in which the landfall stretch and hour could be fixed.
