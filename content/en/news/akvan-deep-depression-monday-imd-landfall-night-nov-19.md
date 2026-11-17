@@ -5,41 +5,51 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Akvan: IMD names a 400 km landfall stretch from Nellore to Tuni, around noon on November 20"
-standfirst: "Monday morning's IMD bulletin had the system as a deep depression over the Bay of Bengal, expected to become a cyclonic storm by evening, and the IMD's outlook now gives a coast and a time: a very severe storm crossing Andhra Pradesh and Yanam around noon on Friday."
+title: "Akvan becomes a cyclonic storm 670 km from Visakhapatnam; IMD holds landfall between Nellore and Tuni around noon on November 20"
+standfirst: "The deep depression intensified into Cyclonic Storm Akvan in the IMD's 5:30 pm bulletin on Monday. It expects a severe storm by Tuesday evening and a very severe one by Thursday morning, crossing the Andhra Pradesh and Yanam coasts around noon on Friday."
 published: 2026-11-16T12:12:30+05:30
-updated: 2026-11-16T18:10:00+05:30
+updated: 2026-11-17T08:12:00+05:30
 location: Visakhapatnam
 keyPoints:
-  - "The IMD expects Akvan to cross the Andhra Pradesh and Yanam coasts **between Nellore and Tuni around noon on November 20**, with winds of 120 to 130 km/h."
-  - "The system was **800 km south-southeast of Visakhapatnam** in the 8:30 am bulletin and is due to become a cyclonic storm this evening."
-  - "Andhra and south Odisha are under a **pre-cyclone watch**; Odisha's southern districts have been told to start early evacuations."
+  - "The deep depression became **Cyclonic Storm Akvan at 5:30 pm on Monday**, centred 610 km east of Chennai and 670 km south-southeast of Visakhapatnam."
+  - "The IMD still expects landfall **between Nellore and Tuni around noon on November 20**, as a very severe storm with winds of 120 to 130 km/h."
+  - "It expects a severe storm by Tuesday evening and a **very severe storm by the morning of November 19**; Odisha's southern districts have been told to start early evacuations."
 hero:
   need: "A cyclone on the Andhra or Odisha coast: wind damage and rough sea (file photo)"
   suggested_source: "Cyclone Hudhud"
   subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
   alt: "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)"
   overlay:
-    value: "Akvan landfall: Nellore to Tuni, November 20 noon"
+    value: "Cyclone Akvan formed; landfall November 20 noon"
 infographic:
   kicker: "Cyclone Akvan watch"
-  headline: "Akvan: landfall between Nellore and Tuni"
-  dek: "A deep depression today, a very severe storm at the coast on Friday"
+  headline: "Akvan forms, landfall still Nellore to Tuni"
+  dek: "A cyclonic storm since Monday evening, a very severe storm at the coast on Friday"
   motif: wind
   stats:
-    - {icon: map-pin, value: "800 km", label: "south-southeast of Visakhapatnam at 8:30 am on Monday"}
+    - {icon: map-pin, value: "670 km", label: "south-southeast of Visakhapatnam at 5:30 pm on Monday"}
     - {icon: wind, value: "120 to 130 km/h", label: "winds forecast at landfall, gusting to 145 km/h"}
   timeline:
-    - {date: "November 16", text: "Cyclonic storm by evening", icon: cloud-rain}
-    - {date: "November 17", text: "Severe cyclonic storm, west-central Bay", icon: warning}
-    - {date: "November 19", text: "Very severe stage near the Andhra coast, night", icon: warning}
+    - {date: "November 16", text: "Became Cyclonic Storm Akvan at 5:30 pm", icon: cloud-rain}
+    - {date: "November 17", text: "Severe cyclonic storm by evening", icon: warning}
+    - {date: "November 19", text: "Very severe stage by morning", icon: warning}
     - {date: "November 20", text: "Landfall between Nellore and Tuni, around noon", icon: warning}
-  source: "IMD bulletins, November 16, 2026"
+  source: "IMD bulletins, November 16, 2026 (5:30 pm)"
 related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu, akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings]
 seo:
-  title: "Cyclone Akvan landfall Nellore to Tuni, November 20 noon"
-  description: "The IMD's Monday outlook puts Cyclone Akvan's landfall between Nellore and Tuni around noon on November 20 as a very severe storm; Odisha starts evacuations."
+  title: "Cyclone Akvan forms, landfall Nellore to Tuni November 20"
+  description: "Akvan became a cyclonic storm at 5:30 pm on Monday, 670 km from Visakhapatnam; the IMD holds landfall between Nellore and Tuni around noon on November 20."
 sources:
+  - title: "Cyclonic Storm Akvan forms over Bay of Bengal, 610 km east of Chennai; IMD says it may cross Andhra coast between Nellore and Tuni on November 20"
+    publisher: "Delhi News Live"
+    date: 2026-11-16
+    url: "https://www.delhinewslive.com/national/cyclonic-storm-akvan-forms-over-bay-of-bengal-610-km-east-of-chennai-imd-says-it-may-cross-andhra-coast-between-nellore-and-tuni-on-november-20/"
+    primary: false
+  - title: "Cyclone Akvan to intensify into severe cyclonic storm today; 5 states on alert, Andhra Pradesh prepares for landfall"
+    publisher: "India.com"
+    date: 2026-11-17
+    url: "https://www.india.com/news/india/cyclone-akvan-live-latest-update-to-intensify-into-severe-cyclonic-storm-today-5-states-on-alert-andhra-pradesh-prepares-for-landfall-nov-20-odisha-bay-of-bengal-news-8545460/"
+    primary: false
   - title: "Cyclone Akvan set for Andhra landfall as 'very severe' storm; Odisha, TN brace for rain"
     publisher: "The Federal"
     date: 2026-11-16
@@ -68,6 +78,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Updated November 17, 8:13 am: the IMD 5:30 pm bulletin of November 16 (named storm at 12.2N 85.7E, 610 km east of Chennai) is read from two published reports quoting IMD posts; the IMD site could not be opened. No Tuesday bulletin was found. Very severe stage now the morning of November 19 per that bulletin."
     - "IMD site not readable by the desk; story rests on published reports of the IMD bulletins of November 16 (2:30 am, 5:30 am, 8:30 am). Primary source not opened this run."
     - "Landfall zone (Nellore to Tuni, around noon on November 20) is in The Federal (1:31 pm IST) and a live blog (4 pm). The 400 km width and the storm surge of 1 to 1.5 m for Prakasam, Bapatla, Krishna, West Godavari, Konaseema and Kakinada come from the live blog only (transclew.com); stated as the IMD outlook as reported."
     - "Position: 8:30 am bulletin gives 800 km SSE of Visakhapatnam and 6 km/h (The Federal). The live blog's 4 pm figure of 730 km at 17 km/h conflicts with it and is not used. Earlier text (820 km at 5:30 am, 8 km/h) retained as the 5:30 am position."
@@ -76,13 +87,13 @@ verification:
     - "Hero: Hudhud file photo from the picture library (Visakhapatnam beach road)."
 ---
 
-The India Meteorological Department (IMD) now expects Cyclone Akvan to cross the Andhra Pradesh and Yanam coasts **between Nellore and Tuni around noon on Friday**, November 20, as a very severe cyclonic storm with winds of 120 to 130 km/h gusting to 145 km/h. The stretch is about 400 km of coast. It is the first time the department has named a landfall zone and an hour for the system, which was still a deep depression over the Bay of Bengal on Monday, November 16.
+The deep depression over the Bay of Bengal intensified into **Cyclonic Storm Akvan at 5:30 pm on Monday**, November 16, and the India Meteorological Department (IMD) still expects it to cross the Andhra Pradesh and Yanam coasts **between Nellore and Tuni around noon on Friday**, November 20, as a very severe cyclonic storm with winds of 120 to 130 km/h gusting to 145 km/h. The stretch is about 400 km of coast. Akvan, a name contributed by Iran, is the third storm of the season to head for the Andhra coast.
 
-At 8:30 am the system was centred near 11.2°N, 86.4°E, **about 800 km south-southeast of Visakhapatnam**, 700 km east-southeast of Chennai and 910 km south of Gopalpur in Odisha. It was moving north-northwest at about 6 km/h. The IMD expects it to become a cyclonic storm this evening, when it will be named Akvan, a name contributed by Iran, and a severe cyclonic storm on the evening of Tuesday, November 17.
+At 5:30 pm the storm was centred near 12.2°N, 85.7°E, about 610 km east of Chennai, 660 km southeast of Machilipatnam, **670 km south-southeast of Visakhapatnam** and 790 km south of Gopalpur in Odisha, moving northwest towards the Andhra coast. That is closer than the 800 km south-southeast of Visakhapatnam reported at 8:30 am. The IMD expects a severe cyclonic storm by Tuesday evening, November 17, and a very severe cyclonic storm by the morning of Thursday, November 19, a few hours earlier than the night of November 19 it had indicated in its earlier bulletin.
 
 ## What the outlook says
 
-The very severe stage is due near the Andhra coast around the night of Thursday, November 19, which is the timing the department gave in its 5:30 am bulletin. The newer outlook adds the coast and the hour: landfall around noon the next day. Reports of the outlook add that **storm surge of 1 to 1.5 metres above the tide** could flood low-lying areas of Prakasam, Bapatla, Krishna, West Godavari, Konaseema and Kakinada districts.
+The very severe stage is now due by the morning of Thursday, November 19, and the coast and hour are unchanged: landfall around noon the next day. The IMD also advises a **total suspension of fishing operations** in the affected sea areas, where it expects very rough to phenomenal seas as the winds build. Reports of the outlook add that **storm surge of 1 to 1.5 metres above the tide** could flood low-lying areas of Prakasam, Bapatla, Krishna, West Godavari, Konaseema and Kakinada districts.
 
 Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 20, with isolated extremely heavy falls of 21 cm or more in the north. The Andhra Pradesh and south Odisha coasts are under a **pre-cyclone watch**, the first of the IMD's four warning stages, issued as a yellow message.
 
@@ -117,4 +128,4 @@ A 400 km landfall zone is wide, and the IMD has not narrowed it. Residents from 
 
 ## What happens next
 
-The first marker is **this evening**, when the IMD expects the deep depression to become a cyclonic storm and take the name Akvan. The severe stage is due on the evening of Tuesday, November 17, the very severe stage around the night of Thursday, November 19, and landfall around noon on Friday, November 20. The IMD's next bulletins, through Monday night and Tuesday, are the ones in which the landfall zone could be narrowed and the pre-cyclone watch raised to a cyclone alert.
+The first marker is **Tuesday evening**, November 17, when the IMD expects Akvan to become a severe cyclonic storm. The very severe stage is due by the morning of Thursday, November 19, and landfall around noon on Friday, November 20. The IMD's next bulletins, through Tuesday and Wednesday, are the ones in which the landfall zone could be narrowed and the pre-cyclone watch raised to a cyclone alert.
