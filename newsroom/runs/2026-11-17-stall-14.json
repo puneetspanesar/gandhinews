@@ -1,0 +1,16 @@
+{
+ "run": "stall-14",
+ "start": "2026-11-17T14:15:03+05:30",
+ "end": "2026-11-17T14:37:55+05:30",
+ "summary": "Markets band to Nov 17 2:10 pm, lead column gap closed, expired Modi-Murmu hold",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): hormuz-sea-mines-explained-how-they-work-how-cleared-insurance"
+ ],
+ "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+}
