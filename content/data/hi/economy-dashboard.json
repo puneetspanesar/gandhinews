@@ -204,14 +204,14 @@
     {
       "id": "unemployment",
       "name": "बेरोज़गारी दर (पीएलएफएस, वर्तमान साप्ताहिक स्थिति, 15+ आयु)",
-      "latest_value": 5.0,
+      "latest_value": 4.9,
       "unit": "%",
-      "period": "अगस्त 2026",
-      "release_date": "2026-09-15",
+      "period": "अक्टूबर 2026",
+      "release_date": "2026-11-16",
       "change_vs_previous": {
         "basis": "पिछला महीना",
-        "previous_value": 5.1,
-        "previous_period": "जुलाई 2026",
+        "previous_value": 5.0,
+        "previous_period": "सितंबर 2026",
         "change": -0.1,
         "change_unit": "प्रतिशत अंक"
       },
@@ -267,15 +267,23 @@
         {
           "period": "अगस्त 2026",
           "value": 5.0
+        },
+        {
+          "period": "सितंबर 2026",
+          "value": 5.0
+        },
+        {
+          "period": "अक्टूबर 2026",
+          "value": 4.9
         }
       ],
       "source": {
         "publisher": "Ministry of Statistics and Programme Implementation (PLFS monthly bulletin)",
-        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1789465219488_2c7319c0-05c4-4d44-9eac-a99be911de26_Monthly_Press_note_Aug_2026.pdf",
-        "date": "2026-09-15"
+        "url": "https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?product=PLFS",
+        "date": "2026-11-16"
       },
-      "verified_primary": true,
-      "note": "अगस्त 2026 में शहरी 6.8%, ग्रामीण 4.1%। सितंबर 2025 से जून 2026 तक के आंकड़े बुलेटिन के चार्ट के डेटा लेबल से पढ़े गए हैं; अगस्त 2025, जुलाई 2026 और अगस्त 2026 के आंकड़े उसके पाठ में भी दिए गए हैं।"
+      "verified_primary": false,
+      "note": "अक्टूबर 2026 में शहरी 6.7%, ग्रामीण 4.2%। अक्टूबर और सितंबर 2026 के आंकड़े तीन समाचार रिपोर्टों से हैं, एमओएसपीआई बुलेटिन से मिलान बाकी है; सितंबर 2025 से अगस्त 2026 के आंकड़े पिछले बुलेटिनों से।"
     },
     {
       "id": "iip-growth",

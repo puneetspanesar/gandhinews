@@ -204,14 +204,14 @@
     {
       "id": "unemployment",
       "name": "Unemployment rate (PLFS, current weekly status, age 15+)",
-      "latest_value": 5.0,
+      "latest_value": 4.9,
       "unit": "%",
-      "period": "Aug 2026",
-      "release_date": "2026-09-15",
+      "period": "Oct 2026",
+      "release_date": "2026-11-16",
       "change_vs_previous": {
         "basis": "previous month",
-        "previous_value": 5.1,
-        "previous_period": "Jul 2026",
+        "previous_value": 5.0,
+        "previous_period": "Sep 2026",
         "change": -0.1,
         "change_unit": "percentage points"
       },
@@ -267,15 +267,23 @@
         {
           "period": "Aug 2026",
           "value": 5.0
+        },
+        {
+          "period": "Sep 2026",
+          "value": 5.0
+        },
+        {
+          "period": "Oct 2026",
+          "value": 4.9
         }
       ],
       "source": {
         "publisher": "Ministry of Statistics and Programme Implementation (PLFS monthly bulletin)",
-        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1789465219488_2c7319c0-05c4-4d44-9eac-a99be911de26_Monthly_Press_note_Aug_2026.pdf",
-        "date": "2026-09-15"
+        "url": "https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?product=PLFS",
+        "date": "2026-11-16"
       },
-      "verified_primary": true,
-      "note": "Urban 6.8%, rural 4.1% in Aug 2026. Values for Sep 2025 to Jun 2026 are read from the bulletin's chart data labels; Aug 2025, Jul 2026 and Aug 2026 are also stated in its text."
+      "verified_primary": false,
+      "note": "Urban 6.7%, rural 4.2% in Oct 2026. Oct and Sep 2026 values rest on three agreeing news reports; re-check against the MoSPI bulletin. Earlier months from previous bulletins."
     },
     {
       "id": "iip-growth",
