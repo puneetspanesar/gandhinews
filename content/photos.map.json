@@ -51272,7 +51272,19 @@
   "licence": "Public domain",
   "alt": "Defence Minister Rajnath Singh (file photo)",
   "alt_hi": "रक्षा मंत्री राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:2025_Rajnath_Singh_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Rajnath_Singh_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-1280.jpg",
+   "src800": "/photos/t-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-640.jpg",
+   "cutout": true,
+   "with": [
+    "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+    "typhoon-champi-taiwan-one-dead-350-injured"
+   ],
+   "kind": "portrait",
+   "subj": "fff9e0c0c0c28288",
+   "credit": "Photos: Photos: Prdp777 / Wikimedia Commons; Nikolamikovic82 / Wikimedia Commons; Syced / Wikimedia Commons; CEphoto, Uwe Aranas / Wikimedia Commons"
+  }
  },
  "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone": {
   "id": "o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
@@ -51285,7 +51297,20 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Devendra Fadnavis (file photo)",
   "alt_hi": "देवेंद्र फडणवीस (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg",
+  "treated": {
+   "src": "/photos/t-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-cour-1280.jpg",
+   "src800": "/photos/t-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-cour-640.jpg",
+   "cutout": true,
+   "with": [
+    "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
+    "sensex-nifty-close-october-22-crude-110-west-asia",
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b--p2"
+   ],
+   "kind": "photo",
+   "subj": "3038387c7c3c3830",
+   "credit": "Photos: Correctinfo86 / Wikimedia Commons; Jishnu12684 / Wikimedia Commons; Udaykumar PR / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
  },
  "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8": {
   "id": "i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
