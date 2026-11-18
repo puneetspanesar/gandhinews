@@ -677,7 +677,7 @@ def treat(sid, M, scenes_only=False):
     pid = 't-' + sid[:60]
     out.save(f'public/photos/{pid}-1280.jpg', quality=86, optimize=True)
     out.resize((640, 400), Image.LANCZOS).save(f'public/photos/{pid}-640.jpg', quality=84, optimize=True)
-    credits = [subj_credit] if subj_credit else []
+    credits = [c for c in re.sub(r'^(Photos?:\s*)+', '', subj_credit or '').split('; ') if c]   # a library portrait's credit may carry its own prefix (November 18: 'Photos: Photos:')
     for k in ([centre] if centre else []) + rel:
         for c in M[k].get('credit', '').replace('Photos: ', '').replace('Photo: ', '').split('; '):
             if c and c not in credits: credits.append(c)
