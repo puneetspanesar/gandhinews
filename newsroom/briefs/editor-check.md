@@ -21,12 +21,12 @@ Pictures (each story sheet):
 7. "NO PICTURE" anywhere is a FAIL.
 8. An infographic cover (dark Gandhi News graphic with stats and a chart, timeline, steps or comparison) is accepted ONLY for a story with no person or place to show, or when the run's photo finder truly found nothing. A story about a named, well-known person (a politician, player, CEO) or a known place with an infographic instead of their photo is a FIX (never a hold): name the person so the run tries the library, quick_photo.py and the finder once more; if list.txt marks the story NOPHOTO (no free photo exists anywhere), the infographic stands and is a PASS. Never ask for a story to be held because no photo exists. An infographic as the lead or beside it while a pictured story was available is a FAIL of the homepage, not of the story. Check it like a photo: headline true to the story, numbers match the story, no text cut off or wrapping badly, Hindi reads correctly.
 
-The homepage (screenshots):
+The homepage (screenshots). Owner's rules of November 16: the site publishes about 12 pieces a day in three writing runs (8 am, 1 pm, 6 pm), so the lead may be up to 16 hours old and headlines no longer change every hour. Never fail the homepage for the age of the lead or for headlines that did not change.
 9. No grey camera boxes, no broken images, no empty slots, and no big empty space under any card or column (a column of white or red with nothing in it is a FAIL). Any text cut off with dots ("..." or "…") on a card, headline, standfirst or overlay is a FAIL: the owner never accepts clipped text.
 9b. Nothing at the top shows a figure that is hours old: a headline or graphic saying "by 10 am" at 2 pm is a FAIL; the story must carry the latest figure.
-10. The lead is the biggest story in India right now (compare frontpages.txt if present). A minor or hours-old story leading while a bigger one sits lower is a FAIL.
+10. The lead is the biggest story on the site right now (compare frontpages.txt if present). A minor story leading while a clearly bigger story from the site sits lower is a FAIL: name the story that should lead. The lead's age alone is never a FAIL (up to 16 hours is allowed).
 11. Balance: at most one markets or business story in the top headlines, at most two from any one section, never two stories on the same subject next to each other. A running story (cyclone, war) gets the lead or one slot, not three.
-12. Nothing stale at the top: nothing older than about 24 hours in the top headlines, no previews of things that already happened.
+12. Nothing stale at the top: nothing older than about 36 hours in the top headlines, no previews of things that already happened.
 13. It looks like a serious national news site: no repeated pictures side by side, no obviously mismatched picture and headline, nothing that looks machine-made or lazy.
 
 14. Text: no outlet named in a story, no em dash, English dates as "November 5, 2026", key phrases bolded, the Hindi twin says the same thing as the English (same figures, same names).

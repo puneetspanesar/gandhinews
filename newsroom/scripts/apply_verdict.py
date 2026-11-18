@@ -2,7 +2,7 @@
   {"verdict": "PASS" | "FAIL", "fail": [{"id": "<story id>", "why": "<reason>", "kind": "picture" | "facts" | "other"}], "homepage": "ok" | "<what is wrong>"}
 Every failed story is moved to newsroom/held/{en,hi}/ with a reason file newsroom/held/<id>.json
 ({"why", "kind": "picture" | "facts" | "other", "held_at"}), and refresh_home.py is re-run so the homepage
-never points at a held story. Exit 0 when everything left is publishable; 1 when the homepage itself failed or a FAIL listed nothing
+never points at a held story. Exit 0 when everything left is publishable (a homepage note is printed, never blocking: owner, November 18); 1 when a FAIL listed nothing
 (fix it and ask a NEW editor); 2 when editor.json is missing, malformed or its nonce is not this review pack's;
 3 when a hold could not be made (a script error: fix the id and run again).
 Only "picture" holds may ever be republished automatically (once a correct picture exists); "facts" and
@@ -35,6 +35,7 @@ if moved:
 for f in v.get('fixed') or []: print(f"fixed by the run, not re-checked by the editor: {f.get('id')}: {f.get('why')} -> {f.get('done')}")
 hp = str(v.get('homepage') or '').strip()
 if hp.lower().rstrip('.') not in ('ok', ''):
-    print(f'homepage failed the editor check: {hp}'); sys.exit(1)
+    # owner, November 18: a homepage note never holds the stories; the run fixes the homepage and publishes
+    print(f'homepage note from the editor (fix it with refresh_home.py, --lead <id> if a bigger story was named, then publish; never hold the stories for it): {hp}')
 if v['verdict'] == 'FAIL' and not moved and not v.get('fixed'): print('editor said FAIL but listed nothing to hold or fix: ask a NEW editor agent'); sys.exit(1)
 print('verdict applied: ' + ('PASS' if not moved else f'{len(moved)} held, the rest publishable'))

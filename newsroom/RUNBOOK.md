@@ -11,6 +11,8 @@ Google stopped showing the site on November 12 and dropped pages that had ranked
 - ONE PAGE PER STORY: before writing, check content/en (all sections, last 7 days) for a story on the same subject. A new development of a story we already have UPDATES that story (new facts high up, the headline and standfirst if the news changed, `updated:` set to now, in both languages); it is not a new page. A new id only for a genuinely separate event (a different decision, a new incident, a court ruling after a hearing story) whose headline would stand on its own. Never two pages that a reader would see as the same story.
 - THE LEAD is the newest lead-worthy story with a real photo and may be up to 16 hours old (the overnight gap); it stays until a newer one exists. This replaces the 2-hour rule of November 12.
 - HEADLINES NO LONGER CHANGE EVERY HOUR: the homepage changes when a run publishes. This replaces rules 13, 13a and 15 below and the hourly rotation; the rotation job is off.
+- A HOMEPAGE NOTE NEVER HOLDS THE STORIES (owner, November 18: the 8 am run of November 18 held three finished stories over a homepage note). When apply_verdict.py reports only a homepage problem, fix it with refresh_home.py (`--lead <id>` when the editor named a bigger story) and publish the stories. Only a story the editor failed by name is held.
+- THE 1:03 PM RUN IS A FULL WRITING RUN. Its run name is hourly-13 (an odd hour); it is never a lead run.
 - BYLINE: stories keep "From the editorial desk" with "Edited by Puneet Panesar" linking to /editor/ (already in Byline.astro and the structured data); keep both.
 
 ## A. The owner's rules (never break; the November 16 rules above win where they differ)

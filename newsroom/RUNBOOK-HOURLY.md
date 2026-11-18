@@ -2,7 +2,7 @@
 
 OWNER, NOVEMBER 16 (overrides everything below that disagrees; see the top of RUNBOOK.md): three runs a day, 3 news stories each (at least 2), about 12 pieces a day with the long-form run. Fewer, stronger, original stories. A new development of a story we already have updates that story; it is not a new page. The lead may be up to 16 hours old and there is no hourly rotation and no lead run. The window of a run is since the previous writing run (the 8 am run covers from 6 pm the day before).
 
-Markets figures are updated by every run that falls in market hours.
+Markets figures are updated by every run that falls in market hours. The 1:03 pm run (hourly-13) is a FULL run like the others. A homepage note from the editor never holds the stories: fix the homepage with refresh_home.py and publish (owner, November 18).
 
 Read newsroom/RUNBOOK.md first: its rules (A), setup (B), pictures (C), gate (D) and publish (E) are part of this runbook. This file only adds what is particular to the hourly run.
 
