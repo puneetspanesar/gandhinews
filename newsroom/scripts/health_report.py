@@ -42,7 +42,7 @@ for f in sorted(glob.glob('newsroom/runs/*.json'))[-80:]:
     if t >= since: recs.append(d)
 wr = [d for d in recs if str(d.get('run', '')).startswith('hourly')]
 # owner, November 16: three writing runs a day (8 am, 1 pm, 6 pm), 3 stories each, at least 2
-need = lambda d: 2
+need = lambda d: 2   # owner, November 18: 2 stories a run
 PUBT = {}
 for f in glob.glob('content/en/*/*.md'):
     m = re.search(r'^published:\s*["\']?([^"\'\n]+)', open(f).read(3000), re.M)
@@ -54,7 +54,7 @@ def nn(d):
     except Exception: return 0
     return sum(1 for t in PUBT.values() if t.tzinfo and a - dt.timedelta(minutes=10) <= t <= b)
 thin = [f"{d['run']} ({nn(d)})" for d in wr if nn(d) < need(d)]
-sched = [8, 13, 18]
+sched = [8, 11, 14, 17, 20]   # owner, November 18
 done = {str(d.get('run', ''))[-2:] for d in wr}
 due = []
 for h in sched:
