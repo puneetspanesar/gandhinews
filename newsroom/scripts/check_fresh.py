@@ -43,7 +43,7 @@ def ids(x, strict=False):
     if isinstance(x, str):
         if x in P: return [x]
         if x in T: return []
-        if strict and '-' in x and ' ' not in x and len(x) > 12 and not x.startswith(('/', 'http')): flag('homepage points at a story that is not published (held, deleted or misspelt)', x)
+        if strict and x.isascii() and '-' in x and ' ' not in x and len(x) > 12 and not x.startswith(('/', 'http')): flag('homepage points at a story that is not published (held, deleted or misspelt)', x)
         return []
     if isinstance(x, list): return [i for y in x for i in ids(y, strict)]
     if isinstance(x, dict): return [i for k, v in x.items() if k not in SKIP for i in ids(v, strict)]

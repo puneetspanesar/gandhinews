@@ -24,7 +24,7 @@ upcoming: {date: 2026-11-19, en: "Amit Shah inaugurates the two-day Anti-Terrori
 infographic:
   kicker: "Kulgam operation"
   headline: "From the Akhran attack to Bhat's death"
-  dek: "Nine days from a CRPF checkpoint attack to the end of the hunt"
+  dek: "Eight days from the first sighting on November 10 to the end of the hunt"
   motif: shield-check
   timeline:
     - {date: "November 10", text: "Bhat and Umar Nisar Dar scout Kulgam locations", icon: crosshair}
@@ -83,7 +83,7 @@ Senior Superintendent of Police Kulgam Anayat Ali Chowdhary said the forces trie
 
 Officials said Bhat refused and opened fire, and was killed. The Chinar Corps named the operation Op Zangalpura and said he was forced out of the mosque before he was shot and that the building was not damaged. Police said his body and a weapon were recovered.
 
-## The hunt of the past nine days
+## The hunt of the past eight days
 
 Bhat had been wanted since the middle of the month. CCTV footage released by the Jammu and Kashmir Police shows him and **Umar Nisar Dar visiting Mir Bazar, Akhran, Hablish and Kilam on November 10**, which police say was reconnaissance. On November 11, gunmen on a motorcycle fired at a CRPF checkpoint at Akhran and wounded three personnel of the 46th Battalion, as [we reported](/en/news/kulgam-crpf-naka-attack-three-injured-nov-11).
 

@@ -1,0 +1,36 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-18T20:03:50+05:30",
+ "end": "2026-11-18T20:41:40+05:30",
+ "summary": "Latif Bhat killed in Kulgam (lead), tanker hits near Hormuz with Indian seafarers",
+ "new": [
+  "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+  "tara-gas-navig8-messi-indian-seafarers-hormuz"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+   "why": "Main picture (and the homepage lead) is a close-up of a broadly smiling Amit Shah in front of flowers, on a story about a terrorist being killed and a counter-terror conference. Rule 4: no smiling leader on a story about deaths. Also the Hindi overlay 'शाह: घाटी में लश्कर का आखिरी स्थानीय ढेर' reads garbled.",
+   "done": "Replaced the hero with the neutral MHA 2019 portrait of Amit Shah (namaste, plain background); Hindi overlay reworded as suggested"
+  },
+  {
+   "id": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+   "why": "Infographic dek (English and Hindi) says 'Nine days from a CRPF checkpoint attack to the end of the hunt', but the checkpoint attack was on November 11, seven days before November 18; November 10 was the CCTV reconnaissance.",
+   "done": "Dek changed to \"Eight days from the first sighting on November 10\" in both languages; body heading now \"eight days\"; infographic re-rendered"
+  },
+  {
+   "id": "tara-gas-navig8-messi-indian-seafarers-hormuz",
+   "why": "Main picture is a calm, stock-looking file photo of a crude tanker with tugs and a US-type warship in the background. It shows no attack, damage, smoke or fire (rule 2, rule 3), and the warship implies a naval presence the story never mentions. Neither Tara Gas nor Navig8 Messi is pictured.",
+   "done": "Replaced the hero with a file photo of a crude oil tanker on fire at sea after an attack (no warship); collage rebuilt and checked"
+  }
+ ],
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
+  "fact check: no new fact check in over 30 hours (the long-form runs must write one each): "
+ ],
+ "lead": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference"
+}

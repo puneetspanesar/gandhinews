@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+    "id": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
     "overlay": {
       "kicker": {
-        "en": "World / Japan",
-        "hi": "दुनिया / जापान"
+        "en": "States / Jammu and Kashmir",
+        "hi": "राज्य / जम्मू-कश्मीर"
       },
       "value": {
-        "en": "India-Japan 2+2 in Tokyo",
-        "hi": "टोक्यो में भारत-जापान 2+2"
+        "en": "Shah: Lashkar's last local in Valley killed",
+        "hi": "शाह: घाटी में लश्कर का आखिरी स्थानीय ढेर"
       },
       "text": {
         "en": "",
@@ -18,17 +18,28 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "pre-budget-consultations-sitharaman-five-rounds-capital-market-today"
+      "tara-gas-navig8-messi-indian-seafarers-hormuz"
     ],
     "live": {
       "title": {
-        "en": "Japan",
-        "hi": "जापान"
+        "en": "Jammu and Kashmir",
+        "hi": "जम्मू-कश्मीर"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Indian seafarer missing after Tara Gas hit twice off Hormuz; crude tanker Navig8 Messi struck, three Indians safe",
+          "hi": "होर्मुज के पास तारा गैस पर दो हमले, एक भारतीय नाविक लापता; कच्चे तेल के टैंकर नैविग8 मेसी पर हमला, तीनों भारतीय सुरक्षित"
+        }
+      },
       {
         "link": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
         "lead": {
@@ -63,6 +74,17 @@
         }
       },
       {
+        "link": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "lead": {
+          "en": "Japan:",
+          "hi": "जापान:"
+        },
+        "text": {
+          "en": "Rajnath Singh and Jaishankar land in Tokyo for the fourth India-Japan 2+2, with defence kit and exercises on the table",
+          "hi": "राजनाथ सिंह और जयशंकर चौथे भारत-जापान 2+2 के लिए टोक्यो पहुंचे, रक्षा उपकरण और अभ्यास एजेंडे में"
+        }
+      },
+      {
         "link": "goyal-india-1000-more-aircraft-order-2000-needed",
         "lead": {
           "en": "Aviation:",
@@ -71,39 +93,6 @@
         "text": {
           "en": "India is ready to order 1,000 more aircraft on top of 1,200 already booked, says Goyal, as the country needs more than 2,000 planes",
           "hi": "1,200 से ज्यादा विमानों के ऑर्डर के बाद भारत 1,000 और विमान मंगाने को तैयार, गोयल बोले देश को 2,000 से ज्यादा विमान चाहिए"
-        }
-      },
-      {
-        "link": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "Supreme Court suspends life sentences, grants bail to two Bilkis Bano case convicts",
-          "hi": "सुप्रीम कोर्ट ने बिलकीस बानो मामले के दो दोषियों की उम्रकैद निलंबित की, ज़मानत दी"
-        }
-      },
-      {
-        "link": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "lead": {
-          "en": "Technology:",
-          "hi": "तकनीक:"
-        },
-        "text": {
-          "en": "India signs US-led San Francisco Declaration to guard AI chip and infrastructure supply chains, days before Trump meets Xi",
-          "hi": "भारत ने एआई चिप और बुनियादी ढांचे की आपूर्ति श्रृंखला बचाने वाली अमेरिकी अगुवाई की सैन फ्रांसिस्को घोषणा पर किए दस्तखत, ट्रंप-शी बैठक से पहले"
-        }
-      },
-      {
-        "link": "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "lead": {
-          "en": "Election Commission:",
-          "hi": "चुनाव आयोग:"
-        },
-        "text": {
-          "en": "Supreme Court asks Election Commission to reply to INDIA bloc's 48 questions on SIR, hearing on December 9",
-          "hi": "सुप्रीम कोर्ट ने चुनाव आयोग से इंडिया गठबंधन के 48 सवालों पर जवाब मांगा, 9 दिसंबर को सुनवाई"
         }
       }
     ]
@@ -171,15 +160,14 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+      "id": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
       "also": []
     },
     "list": [
+      "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
       "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-      "goyal-india-1000-more-aircraft-order-2000-needed",
-      "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-      "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-      "india-bloc-48-questions-election-commission-supreme-court-sir"
+      "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+      "goyal-india-1000-more-aircraft-order-2000-needed"
     ],
     "also": []
   },
@@ -380,11 +368,11 @@
     },
     {
       "section": "states",
-      "lead": "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+      "lead": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
       "list": [
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
         "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests"
+        "akvan-deep-depression-monday-imd-landfall-night-nov-19"
       ]
     },
     {
@@ -408,11 +396,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+      "lead": "tara-gas-navig8-messi-indian-seafarers-hormuz",
       "list": [
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
         "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
+        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
       ]
     },
     {
@@ -485,23 +473,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T18:56:59+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
-        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
-      ]
-    },
     {
       "at": "2026-11-17T08:57:33+05:30",
       "ids": [
@@ -600,6 +571,18 @@
         "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
         "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
         "india-bloc-48-questions-election-commission-supreme-court-sir"
+      ]
+    },
+    {
+      "at": "2026-11-18T20:39:14+05:30",
+      "ids": [
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "goyal-india-1000-more-aircraft-order-2000-needed"
       ]
     }
   ],

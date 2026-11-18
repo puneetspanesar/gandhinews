@@ -53585,16 +53585,6 @@
   ]
  },
  {
-  "id": "o-latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-  "articleId": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Shri_Amit_Shah_in_Raigad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Amit Shah (file photo)",
-  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
- },
- {
   "id": "o-tara-gas-navig8-messi-indian-seafarers-hormuz",
   "articleId": "tara-gas-navig8-messi-indian-seafarers-hormuz",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/US_Navy_041028-N-1348L-128_The_guided_missile_cruiser_USS_Mobile_Bay_%28CG_53%29_patrols_the_waters_surrounding_the_Al_Basrah_Oil_Terminal_%28ABOT%29%2C_as_two_Iraqi_tug_boats_guide_a_super_oil_tanker_into_place.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53603,5 +53593,25 @@
   "alt": "A crude oil tanker guided by tugs in the northern Gulf (file photo)",
   "alt_hi": "उत्तरी खाड़ी में टगबोट की मदद से आगे बढ़ता कच्चे तेल का टैंकर (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_041028-N-1348L-128_The_guided_missile_cruiser_USS_Mobile_Bay_(CG_53)_patrols_the_waters_surrounding_the_Al_Basrah_Oil_Terminal_(ABOT),_as_two_Iraqi_tug_boats_guide_a_super_oil_tanker_into_place.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Burning_MV_EVERTON_in_2004.JPEG",
+  "credit": "Photo: US Navy / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "File photo: a crude oil tanker on fire at sea (2004) (file photo)",
+  "alt_hi": "फ़ाइल फ़ोटो: समुद्र में आग की चपेट में एक कच्चे तेल का टैंकर (2004)",
+  "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG",
+  "id": "r-tara-gas-navig8-messi-indian-seafarers-hormuz",
+  "articleId": "tara-gas-navig8-messi-indian-seafarers-hormuz"
+ },
+ {
+  "id": "o-latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+  "articleId": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Union_Home_Minister%2C_Shri_Amit_Shah%2C_in_New_Delhi_on_August_19%2C_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Home_Minister,_Shri_Amit_Shah,_in_New_Delhi_on_August_19,_2019_(cropped).jpg"
  }
 ]
