@@ -51353,17 +51353,29 @@
   "nophoto": "no free photo of Sanjay Raut 900px+; library, quick_photo, finder h1808"
  },
  "sc-contempt-notice-advocate-pravin-singhal-cji-remark": {
-  "id": "o-sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-  "src": "/photos/o-sc-contempt-notice-advocate-pravin-singhal-cji-remark-1280.jpg",
-  "src800": "/photos/o-sc-contempt-notice-advocate-pravin-singhal-cji-remark-640.jpg",
+  "id": "v-sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+  "src": "/photos/v-sc-contempt-notice-advocate-pravin-singhal-cji-remark-1280.jpg",
+  "src800": "/photos/v-sc-contempt-notice-advocate-pravin-singhal-cji-remark-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 4160,
-  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Surya Kant (file photo)",
-  "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
+  "height": 800,
+  "credit": "Photos: Supreme Court of India / Wikimedia Commons; Pinakpani / Wikimedia Commons",
+  "licence": "GODL-India; CC BY-SA 4.0",
+  "alt": "Chief Justice of India Surya Kant and the Supreme Court of India in New Delhi (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और नई दिल्ली में सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg",
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-sc-contempt-notice-advocate-pravin-singhal-cji-remark-1280.jpg",
+   "src800": "/photos/t-sc-contempt-notice-advocate-pravin-singhal-cji-remark-640.jpg",
+   "cutout": false,
+   "with": [
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b--p2",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "bfffbebc98906060",
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; Pinakpani / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
  },
  "pre-budget-consultations-sitharaman-five-rounds-capital-market-today": {
   "id": "o-pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
@@ -51376,6 +51388,19 @@
   "licence": "GODL-India",
   "alt": "Nirmala Sitharaman (file photo)",
   "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg",
+  "treated": {
+   "src": "/photos/t-pre-budget-consultations-sitharaman-five-rounds-capital-mark-1280.jpg",
+   "src800": "/photos/t-pre-budget-consultations-sitharaman-five-rounds-capital-mark-640.jpg",
+   "cutout": true,
+   "with": [
+    "sensex-nifty-close-october-19-private-banks-axis",
+    "rbi-right-to-move-fiscal-side-must-hold",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "portrait",
+   "subj": "80c7c7cdccdff",
+   "credit": "Photos: Russian Ministry of Defence / Wikimedia Commons; Appaiah / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
  }
 }

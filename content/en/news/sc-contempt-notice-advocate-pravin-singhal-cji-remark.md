@@ -53,7 +53,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "The order itself could not be opened. Bench, notice, prima facie satisfaction, SCBA and SG submissions, Attorney General's consent and the January 8 reply date are from LiveLaw. LawBeat gives the same bench and notice but does not name the advocate, and gives January 20, 2027 as the returnable date; LiveLaw says only 'posted to January'. Both dates are stated as reported."
+    - "The order itself could not be opened. Bench, notice, prima facie satisfaction, SCBA and SG submissions, Attorney General's consent and the January 8 reply date are from LiveLaw. LawBeat gives the same bench and notice but does not name the advocate, and gives January 20, 2027, as the returnable date; LiveLaw says only 'posted to January'. Both dates are stated as reported."
     - "Quotes of the November 16 outburst and the Instagram reel allegation are as given by LiveLaw (from SCBA's submissions) and LawBeat's transcript; the CJI's recollection of earlier abuse during the anti-CEC agitations is reported by LiveLaw as stated by lawyers present."
     - "Mr Singhal's response and whether he appeared on November 18 were not found."
 ---
@@ -66,9 +66,6 @@ The bench recorded that it was **prima facie satisfied** that the SCBA's motion 
 
 Attorney General R. Venkataramani had given his consent for the action, which the Contempt of Courts Act requires before a private body can move the court. In his letter he described Mr Singhal's conduct as "extremely scandalous and unpardonable" and said it called for action under Section 15(1)(b) of the Act. The bench took the consent into account in recording its prima facie view.
 
-```photo
-{"n":1,"subject":"R. Venkataramani","caption":"Attorney General R. Venkataramani gave consent to start contempt action against Mr Singhal.","alt":"Attorney General R. Venkataramani"}
-```
 
 ## What happened on November 16
 
@@ -82,9 +79,6 @@ SCBA president Pradeep Rai, a senior advocate, told the bench that the conduct h
 
 Solicitor General Tushar Mehta, appearing virtually, said he **fully supported the petition** and that the dignity of the Court must be maintained.
 
-```photo
-{"n":2,"subject":"Tushar Mehta","caption":"Solicitor General Tushar Mehta told the bench the Court's dignity must be maintained.","alt":"Solicitor General Tushar Mehta"}
-```
 
 ## How we got here
 

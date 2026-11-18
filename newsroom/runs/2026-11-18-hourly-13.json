@@ -1,0 +1,36 @@
+{
+ "run": "hourly-13",
+ "start": "2026-11-18T13:04:10+05:30",
+ "end": "2026-11-18T13:37:50+05:30",
+ "summary": "SC contempt notice over CJI remark, Sitharaman pre-Budget rounds, Akvan update, midday markets",
+ "new": [
+  "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+  "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+   "why": "Main picture is only CJI Surya Kant (the person insulted). The story is about advocate Pravin Singhal, who spoke and acted; the one who acted must come first and a story about A attacking B must not show only B. No in-story photos either (Venkataramani and Tushar Mehta both NOT FOUND).",
+   "done": "No photo of advocate Pravin Singhal exists (library, quick_photo; added to people.tsv). The infographic fallback is refused by the desk check because CJI Surya Kant is in the people library, so the main picture is now a two-panel cover (lead_cover.py): the CJI Surya Kant library portrait and the Supreme Court of India courtyard (Pinakpani, Commons), both labelled file photos, not Kant alone. The two in-story photo blocks that did not arrive were removed in both languages."
+  },
+  {
+   "id": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+   "why": "Infographic headline 'Five pre-Budget rounds in three days' and SEO title 'five rounds so far' contradict the text, standfirst and key points, which say four rounds held and the fifth (capital market) only scheduled today; verification notes say no report that the Nov 18 meeting has happened. Overlay 'round five today' is ok but the infographic and SEO title state it as done. The in-story photo of V. Anantha Nageswaran was NOT FOUND (block dropped, acceptable).",
+   "done": "Infographic headline now 'Four pre-Budget rounds held, a fifth today' and seo title 'Sitharaman pre-Budget talks: four rounds held, fifth today', Hindi twin likewise; graphic re-rendered, Sitharaman photo kept as main picture."
+  },
+  {
+   "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+   "why": "Distance figure is inconsistent: headline, key point, seo description and overlay use 610 km from Visakhapatnam (5:30 am bulletin) while the infographic stat, glance box and Hindi twin glance say 620 km for the same early Wednesday bulletin. The notes also say Bulletin No. 20 (620 km SSE) is the later figure. Also the overlay says 'Orange warning issued' while the text says very severe landfall; headline says 'narrows to Nellore and Visakhapatnam' but one source says Nellore and Tuni. Headline carries a stale-looking first-publication date of Nov 16 in the byline line (the sheet shows 2026-11-16).",
+   "done": "One figure everywhere: the 5:30 am Wednesday position, 610 km SSE of Visakhapatnam, now in the stat and glance box in English and Hindi (620 km was the earlier 2:30 am data, kept only in notes). Landfall range is the IMD forecast text as reported (Nellore to Visakhapatnam)."
+  }
+ ],
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
+  "fact check: no new fact check in over 30 hours (the long-form runs must write one each): "
+ ],
+ "lead": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi"
+}

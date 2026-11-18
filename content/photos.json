@@ -53562,16 +53562,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:2025_Rajnath_Singh_(cropped).jpg"
  },
  {
-  "id": "o-sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-  "articleId": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Justice_Surya_Kant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Surya Kant (file photo)",
-  "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
- },
- {
   "id": "o-pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
   "articleId": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Minister_of_State_for_Commerce_%26_Industry_%28Independent_Charge%29%2C_Smt._Nirmala_Sitharaman_addressing_a_press_conference%2C_in_New_Delhi_on_October_14%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53580,5 +53570,18 @@
   "alt": "Nirmala Sitharaman (file photo)",
   "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg"
+ },
+ {
+  "id": "x-sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+  "articleId": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+  "sourceUrl": "",
+  "credit": "Photo: ",
+  "licence": "",
+  "alt": "Chief Justice of India Surya Kant and the Supreme Court of India in New Delhi (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और नई दिल्ली में सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]

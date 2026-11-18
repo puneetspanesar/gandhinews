@@ -23,7 +23,7 @@ hero:
     value: "Budget 2027-28 talks: round five today"
 related: [sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks, gdp-grows-7-8-in-april-june-quarter]
 seo:
-  title: "Sitharaman pre-Budget talks 2027-28: five rounds so far"
+  title: "Sitharaman pre-Budget talks: four rounds held, fifth today"
   description: "Nirmala Sitharaman has held four pre-Budget consultations since November 16 and meets capital market, banking and insurance groups on November 18 for Budget 2027-28."
 sources:
   - title: "FM Sitharaman to meet capital market, banking, insurance sectors on November 18 for pre Budget consultations"
@@ -60,20 +60,18 @@ verification:
     - "Youth consultation 'next week' is from one report."
 infographic:
   kicker: "Budget 2027-28"
-  headline: "Five pre-Budget rounds in three days"
+  headline: "Four pre-Budget rounds held, a fifth today"
   dek: "Talks began November 16 and the Budget is expected on February 1, 2027"
   motif: calendar-check
   stats:
     - {icon: calendar-check, value: "4", label: "consultations held by November 17"}
     - {icon: bank, value: "Nov 18", label: "capital market, banking and insurance round"}
   timeline:
-    title: "Pre-Budget rounds so far"
-    items:
-      - {date: "Nov 16", text: "Economists", icon: users}
-      - {date: "Nov 16", text: "Agriculture and rural development", icon: users}
-      - {date: "Nov 17", text: "Manufacturing", icon: users}
-      - {date: "Nov 17", text: "MSMEs and startups", icon: users}
-      - {date: "Nov 18", text: "Capital market, banking, insurance", icon: bank}
+    - {date: "Nov 16", text: "Economists", icon: users}
+    - {date: "Nov 16", text: "Agriculture and rural development", icon: users}
+    - {date: "Nov 17", text: "Manufacturing", icon: users}
+    - {date: "Nov 17", text: "MSMEs and startups", icon: users}
+    - {date: "Nov 18", text: "Capital market, banking, insurance", icon: bank}
   source: "Finance Ministry statements, November 16 to 18, 2026"
 ---
 

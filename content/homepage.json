@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+      "pre-budget-consultations-sitharaman-five-rounds-capital-market-today"
     ],
     "live": {
       "title": {
@@ -30,14 +30,25 @@
   "briefing": {
     "items": [
       {
-        "link": "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "link": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
         "lead": {
-          "en": "Contempt:",
-          "hi": "अवमानना:"
+          "en": "Budget:",
+          "hi": "बजट:"
         },
         "text": {
-          "en": "Supreme Court tells Sanjay Raut an apology must come 'from the heart', asks him to explain later posts on affidavit",
-          "hi": "सुप्रीम कोर्ट ने संजय राउत से कहा, माफी 'दिल से' आनी चाहिए; बाद की पोस्ट पर अतिरिक्त हलफनामा मांगा"
+          "en": "Sitharaman meets capital market, banks and insurers today as Budget 2027-28 talks enter a third day",
+          "hi": "बजट 2027-28: सीतारमण आज पूंजी बाजार, बैंक और बीमा क्षेत्र से मिलेंगी, बजट-पूर्व बातचीत का तीसरा दिन"
+        }
+      },
+      {
+        "link": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court issues contempt notice to advocate Pravin Singhal over 'you don't deserve that chair' remark to CJI",
+          "hi": "सीजेआई से \"आप उस कुर्सी के लायक नहीं\" कहने पर सुप्रीम कोर्ट ने वकील प्रवीण सिंघल को अवमानना का नोटिस दिया"
         }
       },
       {
@@ -49,17 +60,6 @@
         "text": {
           "en": "Maharashtra offers up to ₹1.5 lakh for tips on weapons looted by Naxals, and clears a Palghar court and textile relief",
           "hi": "महाराष्ट्र: नक्सलियों के लूटे हथियारों की सूचना पर ₹1.5 लाख तक इनाम, पालघर को जिला अदालत और कपड़ा नीति में राहत"
-        }
-      },
-      {
-        "link": "goyal-india-1000-more-aircraft-order-2000-needed",
-        "lead": {
-          "en": "Aviation:",
-          "hi": "विमानन:"
-        },
-        "text": {
-          "en": "India is ready to order 1,000 more aircraft on top of 1,200 already booked, says Goyal, as the country needs more than 2,000 planes",
-          "hi": "1,200 से ज्यादा विमानों के ऑर्डर के बाद भारत 1,000 और विमान मंगाने को तैयार, गोयल बोले देश को 2,000 से ज्यादा विमान चाहिए"
         }
       },
       {
@@ -160,11 +160,11 @@
   },
   "topStories": {
     "big": {
-      "id": "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+      "id": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
       "also": []
     },
     "list": [
-      "goyal-india-1000-more-aircraft-order-2000-needed",
+      "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
       "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "india-bloc-48-questions-election-commission-supreme-court-sir"
@@ -342,15 +342,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
         "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
+        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
       ],
-      "lead": "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+      "lead": "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
     },
     {
       "section": "economy",
-      "lead": "goyal-india-1000-more-aircraft-order-2000-needed",
+      "lead": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
       "module": {
         "type": "markets",
         "indicators": [
@@ -498,22 +498,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-16T14:53:42+05:30",
-      "ids": [
-        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
-      ]
-    },
-    {
       "at": "2026-11-16T15:21:22+05:30",
       "ids": [
         "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
@@ -621,9 +605,23 @@
         "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
         "india-bloc-48-questions-election-commission-supreme-court-sir"
       ]
+    },
+    {
+      "at": "2026-11-18T13:31:45+05:30",
+      "ids": [
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir"
+      ]
     }
   ],
   "critical": [],
-  "drop": [],
-  "mustReadEn": 6
+  "drop": [
+    "goyal-india-1000-more-aircraft-order-2000-needed"
+  ],
+  "mustReadEn": 8
 }

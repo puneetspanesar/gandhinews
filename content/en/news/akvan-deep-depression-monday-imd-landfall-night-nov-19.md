@@ -27,7 +27,7 @@ infographic:
   dek: "Very severe stage on Thursday, Odisha plans for 2 lakh people"
   motif: wind
   stats:
-    - {icon: map-pin, value: "620 km", label: "south-southeast of Visakhapatnam in the early Wednesday bulletin"}
+    - {icon: map-pin, value: "610 km", label: "south-southeast of Visakhapatnam at 5:30 am Wednesday"}
     - {icon: wind, value: "3 km/h", label: "speed of the storm, nearly stationary over the past six hours"}
   timeline:
     - {date: "November 17", text: "Orange cyclone warning; severe storm by evening", icon: warning}
@@ -159,7 +159,7 @@ The very severe stage is due by the morning of Thursday, November 19, and landfa
 Heavy to very heavy rain is forecast along the Andhra coast on November 19 and 20, with isolated extremely heavy falls of 21 cm or more in the north. The IMD has moved the Andhra Pradesh and south Odisha coasts from a yellow **pre-cyclone watch** to an **orange cyclone warning**. It adds that heavy to extremely heavy rain can fall over Tamil Nadu, Puducherry, coastal Andhra Pradesh and Odisha from November 17 to 21.
 
 ```facts
-{"title":"Akvan at a glance","items":[{"value":"620 km","label":"south-southeast of Visakhapatnam, early Wednesday"},{"value":"3 km/h","label":"speed of the storm"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
+{"title":"Akvan at a glance","items":[{"value":"610 km","label":"south-southeast of Visakhapatnam, 5:30 am Wednesday"},{"value":"3 km/h","label":"speed of the storm"},{"value":"120 to 130 km/h","label":"expected winds at landfall, gusts to 145 km/h"}]}
 ```
 
 ## Odisha starts early evacuations

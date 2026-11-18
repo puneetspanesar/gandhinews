@@ -24,7 +24,7 @@ hero:
     value: "बजट 2027-28: आज पांचवां दौर"
 related: [sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks, gdp-grows-7-8-in-april-june-quarter]
 seo:
-  title: "सीतारमण की बजट-पूर्व बैठकें 2027-28: अब तक पांच दौर"
+  title: "सीतारमण की बजट-पूर्व बैठकें: चार दौर पूरे, पांचवां आज"
   description: "निर्मला सीतारमण 16 नवंबर से अब तक चार बजट-पूर्व बैठकें कर चुकी हैं और 18 नवंबर को पूंजी बाजार, बैंकिंग और बीमा क्षेत्र से मिलेंगी।"
 sources:
   - title: "FM Sitharaman to meet capital market, banking, insurance sectors on November 18 for pre Budget consultations"
@@ -58,20 +58,18 @@ verification:
     - "Facts as in English version."
 infographic:
   kicker: "बजट 2027-28"
-  headline: "तीन दिन में पांच बजट-पूर्व दौर"
+  headline: "चार बजट-पूर्व दौर पूरे, पांचवां आज"
   dek: "बातचीत 16 नवंबर से शुरू, बजट 1 फरवरी 2027 को अपेक्षित"
   motif: calendar-check
   stats:
     - {icon: calendar-check, value: "4", label: "17 नवंबर तक हुई बैठकें"}
     - {icon: bank, value: "18 नवंबर", label: "पूंजी बाजार, बैंकिंग, बीमा का दौर"}
   timeline:
-    title: "अब तक के बजट-पूर्व दौर"
-    items:
-      - {date: "16 नवंबर", text: "अर्थशास्त्री", icon: users}
-      - {date: "16 नवंबर", text: "कृषि और ग्रामीण विकास", icon: users}
-      - {date: "17 नवंबर", text: "विनिर्माण", icon: users}
-      - {date: "17 नवंबर", text: "एमएसएमई और स्टार्टअप", icon: users}
-      - {date: "18 नवंबर", text: "पूंजी बाजार, बैंकिंग, बीमा", icon: bank}
+    - {date: "16 नवंबर", text: "अर्थशास्त्री", icon: users}
+    - {date: "16 नवंबर", text: "कृषि और ग्रामीण विकास", icon: users}
+    - {date: "17 नवंबर", text: "विनिर्माण", icon: users}
+    - {date: "17 नवंबर", text: "एमएसएमई और स्टार्टअप", icon: users}
+    - {date: "18 नवंबर", text: "पूंजी बाजार, बैंकिंग, बीमा", icon: bank}
   source: "वित्त मंत्रालय के बयान, 16 से 18 नवंबर 2026"
 ---
 
