@@ -51273,5 +51273,61 @@
   "alt": "Rajnath Singh (file photo)",
   "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg"
+ },
+ "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone": {
+  "id": "o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+  "src": "/photos/o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone-1280.jpg",
+  "src800": "/photos/o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 4344,
+  "credit": "Photo: Correctinfo86 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Devendra Fadnavis (file photo)",
+  "alt_hi": "देवेंद्र फडणवीस (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
+ },
+ "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8": {
+  "id": "i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+  "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-3x2-1280.jpg",
+  "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Raut told to explain later posts",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: राउत से बाद की पोस्ट पर जवाब मांगा",
+  "page": null,
+  "ihash": "6f0320c574ee",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-t-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-t-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Sanjay Raut 900px+; library, quick_photo, finder h1808"
  }
 }

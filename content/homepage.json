@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+    "id": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
     "overlay": {
       "kicker": {
-        "en": "Courts / Supreme Court",
-        "hi": "अदालत / सुप्रीम कोर्ट"
+        "en": "World / Japan",
+        "hi": "दुनिया / जापान"
       },
       "value": {
-        "en": "Two Bilkis Bano convicts get bail",
-        "hi": "बिलकीस मामले के दो दोषियों को ज़मानत"
+        "en": "India-Japan 2+2 in Tokyo",
+        "hi": "टोक्यो में भारत-जापान 2+2"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "goyal-india-1000-more-aircraft-order-2000-needed"
     ],
     "live": {
       "title": {
-        "en": "Supreme Court",
-        "hi": "सुप्रीम कोर्ट"
+        "en": "Japan",
+        "hi": "जापान"
       }
     }
   },
@@ -45,14 +41,14 @@
         }
       },
       {
-        "link": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+        "link": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
         "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "IMD issues orange cyclone warning for Andhra and south Odisha as Akvan crawls at 3 km/h, Ganjam begins evacuations ahead of a very severe storm",
-          "hi": "मौसम विभाग ने आंध्र और दक्षिण ओडिशा के लिए ऑरेंज चक्रवात चेतावनी जारी की, अकवान 3 किमी/घंटा की रफ्तार से रेंगा, गंजाम में निकासी शुरू"
+          "en": "Supreme Court suspends life sentences, grants bail to two Bilkis Bano case convicts",
+          "hi": "सुप्रीम कोर्ट ने बिलकीस बानो मामले के दो दोषियों की उम्रकैद निलंबित की, ज़मानत दी"
         }
       },
       {
@@ -78,47 +74,14 @@
         }
       },
       {
-        "link": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "link": "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Suraj Kashyap's three wickets and Loharuka's 58 take Bihar past Railways by four wickets in Indore, with Sooryavanshi away with India A",
-          "hi": "सूरज कश्यप के तीन विकेट और लोहारुका के 58 से बिहार ने इंदौर में रेलवे को चार विकेट से हराया, सूर्यवंशी इंडिया ए के साथ होने से नहीं खेले"
-        }
-      },
-      {
-        "link": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "lead": {
-          "en": "Himachal Pradesh:",
-          "hi": "हिमाचल प्रदेश:"
-        },
-        "text": {
-          "en": "Himachal Assembly's winter session opens at Tapovan with 414 questions and six sittings to November 21",
-          "hi": "हिमाचल विधानसभा का शीतकालीन सत्र तपोवन में शुरू, 414 प्रश्न और 21 नवंबर तक छह बैठकें"
-        }
-      },
-      {
-        "link": "wpi-inflation-october-2026",
-        "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
-        },
-        "text": {
-          "en": "Wholesale inflation rises to 12.29% in October as fuel prices surge 32.84%",
-          "hi": "अक्टूबर में थोक महंगाई बढ़कर 12.29%, ईंधन के दाम 32.84% उछले"
-        }
-      },
-      {
-        "link": "perseverance-mars-complex-organic-carbon-bright-angel",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "Perseverance confirms complex organic carbon in two ancient Mars river rocks",
-          "hi": "पर्सिवरेंस को मंगल की दो प्राचीन नदी चट्टानों में जटिल कार्बनिक कार्बन मिला"
+          "en": "Suvendu Adhikari says every eligible CAA application will be disposed of by December 31; the rules set no such deadline and the pace so far does not point there",
+          "hi": "सुवेंदु अधिकारी का दावा, हर पात्र सीएए आवेदन का 31 दिसंबर तक निपटारा; नियमों में ऐसी कोई समय-सीमा नहीं और अब तक की रफ्तार भी उस ओर नहीं"
         }
       }
     ]
@@ -186,20 +149,15 @@
   },
   "topStories": {
     "big": {
-      "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+      "id": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "also": []
     },
     "list": [
       "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "india-bloc-48-questions-election-commission-supreme-court-sir",
-      "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-      "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-      "wpi-inflation-october-2026"
+      "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
     ],
-    "also": [
-      "perseverance-mars-complex-organic-carbon-bright-angel",
-      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
-    ]
+    "also": []
   },
   "startHere": [
     "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
@@ -391,9 +349,9 @@
         ]
       },
       "list": [
+        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
         "wpi-inflation-october-2026",
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
       ]
     },
     {
@@ -402,7 +360,7 @@
       "list": [
         "akvan-deep-depression-monday-imd-landfall-night-nov-19",
         "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+        "murasu-andhra-damage-revised-2484-crore-central-team-naidu"
       ]
     },
     {
@@ -410,8 +368,8 @@
       "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "list": [
         "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry"
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
       ]
     },
     {
@@ -426,11 +384,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+      "lead": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
       "list": [
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
         "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair"
+        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
       ]
     },
     {
@@ -457,8 +415,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
@@ -469,8 +427,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "BJP's Samrasta Sankalp Yatra is flagged off from Jalandhar by Nitin Nabin",
@@ -481,8 +439,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 19",
-        "hi": "19 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "First Test, New Zealand v India, Basin Reserve, Wellington, 3:30 am IST",
@@ -493,8 +451,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 19",
-        "hi": "19 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Trump and Xi expected to meet in Shenzhen at APEC; US-China trade truce and critical minerals on the table",
@@ -527,23 +485,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T12:46:24+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "wpi-inflation-october-2026",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-        "england-banton-century-adelaide-second-odi-series-level",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
-      ]
-    },
     {
       "at": "2026-11-16T13:14:37+05:30",
       "ids": [
@@ -661,17 +602,20 @@
         "wpi-inflation-october-2026",
         "perseverance-mars-complex-organic-carbon-bright-angel"
       ]
+    },
+    {
+      "at": "2026-11-18T08:33:47+05:30",
+      "ids": [
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "goyal-india-1000-more-aircraft-order-2000-needed",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
+      ]
     }
   ],
-  "critical": [
-    "akvan-deep-depression-monday-imd-landfall-night-nov-19"
-  ],
-  "drop": [
-    "wpi-inflation-october-data-due-monday-rbi-december",
-    "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-    "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-    "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
-  ],
+  "critical": [],
+  "drop": [],
   "mustReadEn": 6
 }
