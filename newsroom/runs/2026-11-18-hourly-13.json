@@ -1,12 +1,9 @@
 {
  "run": "hourly-13",
  "start": "2026-11-18T13:04:10+05:30",
- "end": "2026-11-18T13:37:50+05:30",
- "summary": "SC contempt notice over CJI remark, Sitharaman pre-Budget rounds, Akvan update, midday markets",
- "new": [
-  "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-  "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
- ],
+ "end": "2026-11-18T13:51:38+05:30",
+ "summary": "Second publish: clean Sitharaman collage",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

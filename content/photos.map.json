@@ -4082,7 +4082,8 @@
    ],
    "kind": "scenes",
    "credit": "Photos: zadeus / Wikimedia Commons; Unknown / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Rangan Datta Wiki / Wikimedia Commons"
-  }
+  },
+  "nocut": true
  },
  "shafali-verma-icc-player-of-the-month-september": {
   "id": "x-shafali-verma-icc-player-of-the-month-september",
@@ -30357,7 +30358,8 @@
     "src": "/photos/c-sitharaman-tata-critical-component-settle-amicably-investors-hi-1280.jpg",
     "src800": "/photos/c-sitharaman-tata-critical-component-settle-amicably-investors-hi-640.jpg"
    }
-  }
+  },
+  "nocut": true
  },
  "sitharaman-tata-critical-component-settle-amicably-investors--p2": {
   "id": "v-sitharaman-tata-critical-component-settle-amicably-inve-p2",
@@ -51398,9 +51400,9 @@
     "rbi-right-to-move-fiscal-side-must-hold",
     "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
    ],
-   "kind": "portrait",
-   "subj": "80c7c7cdccdff",
-   "credit": "Photos: Russian Ministry of Defence / Wikimedia Commons; Appaiah / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+   "kind": "photo",
+   "subj": "101c1e3e7e7eff",
+   "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; Appaiah / Wikimedia Commons; Pinakpani / Wikimedia Commons"
   }
  }
 }
