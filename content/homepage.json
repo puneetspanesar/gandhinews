@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+    "id": "goyal-india-1000-more-aircraft-order-2000-needed",
     "overlay": {
       "kicker": {
-        "en": "Courts / Supreme Court",
-        "hi": "अदालत / सुप्रीम कोर्ट"
+        "en": "Economy / Aviation",
+        "hi": "अर्थव्यवस्था / विमानन"
       },
       "value": {
-        "en": "Two Bilkis Bano convicts get bail",
-        "hi": "बिलकीस मामले के दो दोषियों को ज़मानत"
+        "en": "India ready to order 1,000 more planes",
+        "hi": "भारत 1,000 और विमान मंगाने को तैयार"
       },
       "text": {
         "en": "",
@@ -17,42 +17,31 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-      "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+      "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
+      "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
+      "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
     ],
     "relatedBeside": [
-      "goyal-india-1000-more-aircraft-order-2000-needed"
+      "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
     ],
     "live": {
       "title": {
-        "en": "Supreme Court",
-        "hi": "सुप्रीम कोर्ट"
+        "en": "Aviation",
+        "hi": "विमानन"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "goyal-india-1000-more-aircraft-order-2000-needed",
+        "link": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
         "lead": {
-          "en": "Aviation:",
-          "hi": "विमानन:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "India is ready to order 1,000 more aircraft on top of 1,200 already booked, says Goyal, as the country needs more than 2,000 planes",
-          "hi": "1,200 से ज्यादा विमानों के ऑर्डर के बाद भारत 1,000 और विमान मंगाने को तैयार, गोयल बोले देश को 2,000 से ज्यादा विमान चाहिए"
-        }
-      },
-      {
-        "link": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "lead": {
-          "en": "Weather:",
-          "hi": "मौसम:"
-        },
-        "text": {
-          "en": "IMD issues orange cyclone warning for Andhra and south Odisha as Akvan crawls at 3 km/h, Ganjam begins evacuations ahead of a very severe storm",
-          "hi": "मौसम विभाग ने आंध्र और दक्षिण ओडिशा के लिए ऑरेंज चक्रवात चेतावनी जारी की, अकवान 3 किमी/घंटा की रफ्तार से रेंगा, गंजाम में निकासी शुरू"
+          "en": "Supreme Court suspends life sentences, grants bail to two Bilkis Bano case convicts",
+          "hi": "सुप्रीम कोर्ट ने बिलकीस बानो मामले के दो दोषियों की उम्रकैद निलंबित की, ज़मानत दी"
         }
       },
       {
@@ -78,47 +67,36 @@
         }
       },
       {
-        "link": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
+        "link": "goyal-more-than-1200-aircraft-ordered-1000-more-claim",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Aviation:",
+          "hi": "विमानन:"
         },
         "text": {
-          "en": "Suraj Kashyap's three wickets and Loharuka's 58 take Bihar past Railways by four wickets in Indore, with Sooryavanshi away with India A",
-          "hi": "सूरज कश्यप के तीन विकेट और लोहारुका के 58 से बिहार ने इंदौर में रेलवे को चार विकेट से हराया, सूर्यवंशी इंडिया ए के साथ होने से नहीं खेले"
+          "en": "Goyal's 'more than 1,200 aircraft ordered': the total holds up, and the aviation minister's own count is higher",
+          "hi": "गोयल का '1,200 से ज्यादा विमानों के ऑर्डर': आंकड़ा टिकता है, और नागरिक उड्डयन मंत्री की अपनी गिनती इससे ज्यादा है"
         }
       },
       {
-        "link": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+        "link": "bilkis-bano-was-not-heard-before-her-attackers-got-bail-victims-must-be-in-the-room",
         "lead": {
-          "en": "Himachal Pradesh:",
-          "hi": "हिमाचल प्रदेश:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Himachal Assembly's winter session opens at Tapovan with 414 questions and six sittings to November 21",
-          "hi": "हिमाचल विधानसभा का शीतकालीन सत्र तपोवन में शुरू, 414 प्रश्न और 21 नवंबर तक छह बैठकें"
+          "en": "Bilkis Bano learned of her attackers' bail from the news. The Supreme Court has said victims must be heard, and should say it again",
+          "hi": "बिलकीस बानो को अपने दोषियों की ज़मानत की खबर मीडिया से मिली। सुप्रीम कोर्ट कह चुका है कि पीड़ित को सुना जाए, उसे फिर कहना चाहिए"
         }
       },
       {
-        "link": "wpi-inflation-october-2026",
+        "link": "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
         },
         "text": {
-          "en": "Wholesale inflation rises to 12.29% in October as fuel prices surge 32.84%",
-          "hi": "अक्टूबर में थोक महंगाई बढ़कर 12.29%, ईंधन के दाम 32.84% उछले"
-        }
-      },
-      {
-        "link": "perseverance-mars-complex-organic-carbon-bright-angel",
-        "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
-        },
-        "text": {
-          "en": "Perseverance confirms complex organic carbon in two ancient Mars river rocks",
-          "hi": "पर्सिवरेंस को मंगल की दो प्राचीन नदी चट्टानों में जटिल कार्बनिक कार्बन मिला"
+          "en": "Suvendu Adhikari says every eligible CAA application will be disposed of by December 31; the rules set no such deadline and the pace so far does not point there",
+          "hi": "सुवेंदु अधिकारी का दावा, हर पात्र सीएए आवेदन का 31 दिसंबर तक निपटारा; नियमों में ऐसी कोई समय-सीमा नहीं और अब तक की रफ्तार भी उस ओर नहीं"
         }
       }
     ]
@@ -186,26 +164,22 @@
   },
   "topStories": {
     "big": {
-      "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+      "id": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "also": []
     },
     "list": [
-      "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "india-bloc-48-questions-election-commission-supreme-court-sir",
-      "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-      "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-      "wpi-inflation-october-2026"
+      "goyal-more-than-1200-aircraft-ordered-1000-more-claim",
+      "bilkis-bano-was-not-heard-before-her-attackers-got-bail-victims-must-be-in-the-room",
+      "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
     ],
-    "also": [
-      "perseverance-mars-complex-organic-carbon-bright-angel",
-      "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
-    ]
+    "also": []
   },
   "startHere": [
+    "pax-silica-explained-san-francisco-declaration-what-india-signed",
     "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
     "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings",
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left"
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b"
   ],
   "trackers": [
     {
@@ -275,9 +249,9 @@
   },
   "factCheck": {
     "cards": [
+      "goyal-more-than-1200-aircraft-ordered-1000-more-claim",
       "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
-      "modi-tribals-full-rights-over-bamboo-claim",
-      "kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim"
+      "modi-tribals-full-rights-over-bamboo-claim"
     ]
   },
   "explained": [
@@ -358,11 +332,11 @@
     }
   ],
   "opinion": [
+    "bilkis-bano-was-not-heard-before-her-attackers-got-bail-victims-must-be-in-the-room",
     "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
     "punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-quality-check",
     "tamil-nadu-governor-report-on-law-and-order-must-be-made-public",
-    "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-    "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates"
+    "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval"
   ],
   "sections": [
     {
@@ -391,9 +365,9 @@
         ]
       },
       "list": [
-        "wpi-inflation-october-2026",
-        "goyal-cairo-us-preferential-access-egypt-jtc",
-        "cti-air-purifier-gst-cut-sitharaman-delhi-aqi"
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+        "wpi-inflation-october-data-due-monday-rbi-december",
+        "goyal-cairo-us-preferential-access-egypt-jtc"
       ]
     },
     {
@@ -402,7 +376,7 @@
       "list": [
         "akvan-deep-depression-monday-imd-landfall-night-nov-19",
         "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta"
+        "murasu-andhra-damage-revised-2484-crore-central-team-naidu"
       ]
     },
     {
@@ -410,8 +384,8 @@
       "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "list": [
         "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
-        "amit-shah-nhec-talegaon-revival-bharat-taxi-pune-cooperation-ministry"
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
+        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
       ]
     },
     {
@@ -457,8 +431,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
@@ -469,8 +443,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "BJP's Samrasta Sankalp Yatra is flagged off from Jalandhar by Nitin Nabin",
@@ -481,8 +455,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 19",
-        "hi": "19 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "First Test, New Zealand v India, Basin Reserve, Wellington, 3:30 am IST",
@@ -493,8 +467,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 19",
-        "hi": "19 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Trump and Xi expected to meet in Shenzhen at APEC; US-China trade truce and critical minerals on the table",
@@ -527,40 +501,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T12:46:24+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "wpi-inflation-october-2026",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves",
-        "yemen-forces-withdraw-bab-el-mandeb-houthis-india-trade",
-        "england-banton-century-adelaide-second-odi-series-level",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
-      ]
-    },
-    {
-      "at": "2026-11-16T13:14:37+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
-      ]
-    },
     {
       "at": "2026-11-16T14:53:42+05:30",
       "ids": [
@@ -661,17 +601,43 @@
         "wpi-inflation-october-2026",
         "perseverance-mars-complex-organic-carbon-bright-angel"
       ]
+    },
+    {
+      "at": "2026-11-18T06:58:34+05:30",
+      "ids": [
+        "goyal-india-1000-more-aircraft-order-2000-needed",
+        "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
+        "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
+        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "goyal-more-than-1200-aircraft-ordered-1000-more-claim",
+        "bilkis-bano-was-not-heard-before-her-attackers-got-bail-victims-must-be-in-the-room",
+        "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
+      ]
+    },
+    {
+      "at": "2026-11-18T07:18:04+05:30",
+      "ids": [
+        "goyal-india-1000-more-aircraft-order-2000-needed",
+        "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
+        "ecl-explained-rbi-expected-credit-loss-banks-april-2027",
+        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
+        "goyal-more-than-1200-aircraft-ordered-1000-more-claim",
+        "bilkis-bano-was-not-heard-before-her-attackers-got-bail-victims-must-be-in-the-room",
+        "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
+      ]
     }
   ],
-  "critical": [
-    "akvan-deep-depression-monday-imd-landfall-night-nov-19"
-  ],
+  "critical": [],
   "drop": [
-    "wpi-inflation-october-data-due-monday-rbi-december",
+    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
     "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-    "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-    "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-    "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
+    "wpi-inflation-october-2026"
   ],
-  "mustReadEn": 6
+  "mustReadEn": 5
 }

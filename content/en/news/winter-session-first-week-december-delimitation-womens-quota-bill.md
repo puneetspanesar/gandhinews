@@ -6,7 +6,7 @@ section: politics
 format_label: "Politics / Parliament"
 topics: [delimitation, parliament]
 title: "Winter Session likely in first week of December, with delimitation-linked women's quota Bill the government's top item"
-standfirst: "Government sources now point to a regular Session rather than the special sitting of November 24 or 25 that officials had floated, with the Constitution amendment the main business. The NDA's 320 MPs are 41 short of two-thirds."
+standfirst: "Government sources now point to a regular Session rather than the special sitting of November 24 or 25 that officials had floated, and the Constitution amendment would be its main business. The NDA's 320 MPs are 41 short of two-thirds."
 published: 2026-11-15T18:12:50+05:30
 location: New Delhi
 keyPoints:
