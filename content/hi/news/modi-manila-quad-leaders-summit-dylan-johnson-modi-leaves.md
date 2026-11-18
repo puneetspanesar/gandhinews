@@ -6,119 +6,116 @@ type: news
 section: world
 format_label: "दुनिया / क्वाड"
 topics: []
-title: "व्हाइट हाउस की पुष्टि: मनीला में मंगलवार को क्वाड नेताओं की बैठक, दो साल में पहली, मोदी मनीला पहुंचे"
-standfirst: "व्हाइट हाउस के अनुसार राष्ट्रपति ट्रंप मंगलवार शाम आसियान बैठकों के दौरान मोदी, अल्बनीज़ और ताकाइची से मिलेंगे। मोदी सोमवार को मनीला पहुंचे; नई दिल्ली ने बैठक पर अभी कुछ नहीं कहा है।"
+title: "दो साल में पहली बार मनीला में मिले क्वाड नेता, 2027 में पी-8 और पी-3सी का साझा अभ्यास तय"
+standfirst: "मोदी, ट्रंप, अल्बनीज़ और ताकाइची मंगलवार को आसियान बैठकों के किनारे मिले। साझा बयान हिंद-प्रशांत की यथास्थिति बल या दबाव से बदलने का विरोध करता है, और भारत 2027 की शुरुआत में क्वाड बिज़नेस लीडर्स फोरम की मेजबानी करेगा।"
 published: 2026-11-16T07:24:56+05:30
-updated: 2026-11-16T18:20:00+05:30
+updated: 2026-11-18T08:20:00+05:30
 location: मनीला
 keyPoints:
-  - "व्हाइट हाउस के अनुसार राष्ट्रपति ट्रंप मंगलवार शाम, 17 नवंबर को मनीला में **क्वाड नेताओं की बहुपक्षीय बैठक** में शामिल होंगे।"
-  - "यह **दो साल में क्वाड नेताओं की पहली बैठक** होगी और ट्रंप के मौजूदा कार्यकाल की पहली; पिछली बैठक 21 सितंबर 2024 को डेलावेयर में हुई थी।"
-  - "मोदी **सोमवार को मनीला पहुंचे** और राष्ट्रपति मार्कोस के रात्रिभोज में शामिल हुए; आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन मंगलवार को हैं।"
-upcoming:
-  date: 2026-11-17
-  en: "Quad leaders' meeting in Manila on Tuesday evening, with the ASEAN-India and East Asia Summits earlier in the day"
-  hi: "मनीला में मंगलवार शाम क्वाड नेताओं की बैठक; दिन में आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन"
+  - "क्वाड नेता मंगलवार, 17 नवंबर को मनीला में मिले, **दो साल में पहली बैठक** और ट्रंप के मौजूदा कार्यकाल की पहली।"
+  - "उन्होंने चारों देशों के पी-8 और पी-3सी गश्ती विमानों का **2027 में साझा अभ्यास** तय किया, जो क्वाड में अपनी तरह का पहला होगा।"
+  - "भारत 2027 की शुरुआत में पहले **क्वाड बिज़नेस लीडर्स फोरम** की मेजबानी करेगा; बयान आर्थिक दबाव और मनमाने निर्यात प्रतिबंधों के खिलाफ चेताता है।"
 hero:
   need: "Prime Minister Narendra Modi (file photo)"
   suggested_source: "Narendra Modi"
-  subjects: ["Narendra Modi"]
+  subjects: ["Narendra Modi", "Donald Trump"]
   alt: "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)"
   overlay:
-    value: "मंगलवार को मनीला में क्वाड नेता"
-related: [modi-asean-india-summit-manila-november-16-18, rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral, india-us-trade-talks-plateau-russia-oil-tariff-law, asean-49th-summit-opens-manila-marcos-unity-middle-east-singapore-chair]
+    value: "मनीला में क्वाड नेताओं की बैठक"
+related: [modi-asean-india-summit-manila-november-16-18, rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral, india-us-trade-talks-plateau-russia-oil-tariff-law, pax-silica-san-francisco-declaration-india-signs-ai-supply-chains]
 infographic:
-  kicker: "मनीला शिखर सम्मेलन"
-  headline: "मंगलवार को मनीला में क्वाड नेता"
-  dek: "व्हाइट हाउस ने दो साल में पहली नेताओं की बैठक की पुष्टि की"
+  kicker: "क्वाड, मनीला"
+  headline: "क्वाड नेताओं की 2027 के साझा अभ्यास पर सहमति"
+  dek: "दो साल में नेताओं की पहली बैठक"
   motif: handshake
   timeline:
-    - {date: "16 नवंबर", text: "मोदी मनीला पहुंचे; मार्कोस का रात्रिभोज", icon: airplane-tilt}
-    - {date: "17 नवंबर", text: "23वां आसियान-भारत और 21वां पूर्वी एशिया शिखर सम्मेलन", icon: users-three}
-    - {date: "17 नवंबर, शाम", text: "मनीला में ट्रंप की क्वाड नेताओं से बैठक", icon: handshake}
-    - {date: "18 नवंबर", text: "ट्रंप एपेक बैठकों के लिए चीन रवाना", icon: globe-hemisphere-east}
-  source: "व्हाइट हाउस का बयान (रिपोर्टों के अनुसार), विदेश मंत्रालय और पीआईबी, 12 से 16 नवंबर 2026"
+    - {date: "21 सितंबर 2024", text: "डेलावेयर में आखिरी क्वाड नेताओं की बैठक", icon: calendar}
+    - {date: "17 नवंबर 2026", text: "मनीला में नेताओं की बैठक", icon: handshake}
+    - {date: "2027 की शुरुआत", text: "भारत में क्वाड बिज़नेस लीडर्स फोरम", icon: users-three}
+    - {date: "2027", text: "पी-8 और पी-3सी का साझा अभ्यास", icon: airplane-tilt}
+  source: "साझा बयान की रिपोर्टें, 17 नवंबर 2026"
 seo:
-  title: "मनीला में 17 नवंबर को क्वाड नेताओं की बैठक: व्हाइट हाउस"
-  description: "व्हाइट हाउस ने पुष्टि की कि ट्रंप मंगलवार शाम मनीला में क्वाड नेताओं से मिलेंगे, दो साल में पहली बैठक; प्रधानमंत्री मोदी आसियान बैठकों के लिए मनीला पहुंचे।"
+  title: "मनीला में क्वाड नेता मिले, 2027 में साझा अभ्यास तय"
+  description: "17 नवंबर को मनीला में दो साल में पहली बार मिले क्वाड नेताओं ने 2027 का साझा गश्ती-विमान अभ्यास और भारत में बिज़नेस फोरम तय किया।"
 sources:
-  - title: "Visit of Prime Minister to Manila, Philippines"
-    publisher: "Press Information Bureau"
+  - title: "PM participates in the 23rd India-ASEAN Summit in Manila"
+    publisher: "PMO India"
+    date: 2026-11-17
+    url: "https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-23rd-india-asean-summit-in-manila/"
+    primary: true
+  - title: "PM addresses the 21st East Asia Summit in Manila"
+    publisher: "PMO India"
+    date: 2026-11-17
+    url: "https://www.pmindia.gov.in/en/news_updates/pm-addresses-the-21st-east-asia-summit-in-manila/"
+    primary: true
+  - title: "PM meets with the President of the Republic of the Philippines on the sidelines of ASEAN Summit in Manila"
+    publisher: "PMO India"
+    date: 2026-11-17
+    url: "https://www.pmindia.gov.in/en/news_updates/pm-meets-with-the-president-of-the-republic-of-the-philippines-on-the-sidelines-of-asean-summit-in-manila/"
+    primary: true
+  - title: "PM meets with the Prime Minister of Singapore on the sidelines of the ASEAN Summit in Manila"
+    publisher: "PMO India"
+    date: 2026-11-17
+    url: "https://www.pmindia.gov.in/en/news_updates/pm-meets-with-the-prime-minister-of-singapore-on-the-sidelines-of-the-asean-summit-in-manila/"
+    primary: true
+  - title: "PM meets with the Prime Minister of the Kingdom of Thailand on the sidelines the ASEAN Summit in Manila"
+    publisher: "PMO India"
+    date: 2026-11-17
+    url: "https://www.pmindia.gov.in/en/news_updates/pm-meets-with-the-prime-minister-of-the-kingdom-of-thailand-on-the-sidelines-the-asean-summit-in-manila/"
+    primary: true
+  - title: "Quad summit in Manila: India, US, Japan and Australia push back against economic coercion"
+    publisher: "Open"
+    date: 2026-11-17
+    url: "https://openthemagazine.com/world/quad-summit-in-manila-india-us-japan-and-australia-push-back-against-economic-coercion"
+    primary: false
+  - title: "Modi, Trump share stage in Quad leaders' meeting in Manila"
+    publisher: "ETV Bharat"
+    date: 2026-11-17
+    url: "https://www.etvbharat.com/en/international/modi-trump-share-stage-in-quad-leaders-meeting-in-manila-us-prez-calls-pm-very-tough-man-enn26111704973"
+    primary: false
+  - title: "Modi heads to Manila next week for ASEAN Summit; maritime security, trade on agenda"
+    publisher: "ThePrint"
     date: 2026-11-12
-    url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335665&reg=48&lang=2"
-    primary: true
-  - title: "PM Modi to embark on two-day visit to Philippines tomorrow"
-    publisher: "News On AIR"
-    date: 2026-11-15
-    url: "https://newsonair.gov.in/pm-modi-to-embark-on-two-day-visit-to-philippines-tomorrow-to-attend-asean-india-summit-and-east-asia-summit/"
-    primary: true
-  - title: "White House confirms Quad leaders' meeting in Manila on sidelines of ASEAN Summit"
-    publisher: "The Tribune"
-    date: 2026-11-16
-    url: "https://www.tribuneindia.com/news/usa-news/white-house-confirms-quad-leaders-meeting-in-manila-on-sidelines-of-asean-summit"
-    primary: false
-  - title: "Quad returns to leaders' table: Modi, Trump, Albanese, Takaichi to meet on Nov 17"
-    publisher: "The Federal"
-    date: 2026-11-16
-    url: "https://thefederal.com/category/news/quad-returns-to-leaders-table-modi-trump-albanese-takaichi-to-meet-on-nov-17-263038"
-    primary: false
-  - title: "Quad leaders to meet in Manila on Tuesday"
-    publisher: "Siasat"
-    date: 2026-11-16
-    url: "https://www.siasat.com/quad-leaders-to-meet-in-manila-on-tuesday-3578397/"
-    primary: false
-  - title: "Balancing allies and adversaries: Inside Trump's back-to-back Summits with Quad, Xi, and Putin"
-    publisher: "The Tribune"
-    date: 2026-11-16
-    url: "https://www.tribuneindia.com/news/asean/balancing-allies-and-adversaries-inside-trumps-back-to-back-summits-with-quad-xi-and-putin"
-    primary: false
-  - title: "PM Modi arrives for Gala Dinner hosted by Philippines President Ferdinand Marcos in Manila"
-    publisher: "The Tribune"
-    date: 2026-11-16
-    url: "https://www.tribuneindia.com/news/asean-summit/pm-modi-arrives-for-gala-dinner-hosted-by-philippines-president-ferdinand-marcos-in-manila"
+    url: "https://theprint.in/india/modi-heads-to-manila-next-week-for-asean-summit-maritime-security-trade-on-agenda/3097288/"
     primary: false
 verification:
   status: approved
   notes:
-    - "Hindi adaptation of the English story; same facts and figures."
+    - "Rewritten at 8:20 am IST on November 18 after the meeting. The joint statement and MEA release were not opened; outcomes and remarks are as carried by two reports (Open, ETV Bharat). No clock time for the meeting is given in them, so it is written as Tuesday."
+    - "Earlier notes on the White House pre-meeting statement (Olivia Wales, via Tribune, Siasat, The Federal) still apply to the background paragraph."
 ---
 
-व्हाइट हाउस ने पुष्टि की है कि राष्ट्रपति डोनाल्ड ट्रंप मंगलवार शाम मनीला में भारत, जापान और ऑस्ट्रेलिया के नेताओं से मिलेंगे। यह **दो साल में क्वाड नेताओं की पहली बैठक** होगी। प्रधानमंत्री नरेंद्र मोदी सोमवार को आसियान शिखर सम्मेलनों के लिए फिलीपींस की राजधानी पहुंचे, जिनके दौरान यह बैठक होगी। आज सुबह अमेरिका ने केवल इतना कहा था कि वह इसे तय करने की कोशिश कर रहा है।
+क्वाड के नेता मंगलवार, 17 नवंबर 2026 को मनीला में मिले, जो **दो साल में क्वाड नेताओं की पहली बैठक** थी, और चारों देशों ने पी-8 और पी-3सी गश्ती विमानों के साथ **2027 में साझा समुद्री अभ्यास** करने पर सहमति जताई। प्रधानमंत्री नरेंद्र मोदी, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप, ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ और जापान की प्रधानमंत्री साने ताकाइची आसियान-भारत और पूर्वी एशिया शिखर सम्मेलनों के किनारे मिले, बैठक और साझा बयान की रिपोर्टों के अनुसार। साझा बयान इस अभ्यास को क्वाड संदर्भ में अपनी तरह का पहला बताता है।
 
-सोमवार को जारी बयान में व्हाइट हाउस की सहायक प्रेस सचिव ओलिविया वेल्स ने कहा: "मनीला में मंगलवार शाम... राष्ट्रपति क्वाड नेताओं की बहुपक्षीय बैठक में हिस्सा लेंगे।" उन्होंने कहा कि नेता हिंद-प्रशांत में शांति, समृद्धि और सुरक्षा के साझा लक्ष्यों पर बात करेंगे, और क्वाड को "कार्रवाई की साझेदारी" बनाने का श्रेय ट्रंप के नेतृत्व को दिया। बैठक में मोदी के साथ ट्रंप, ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ और जापान की प्रधानमंत्री सनाए ताकाइची होंगे।
+## क्या कहा गया
 
-## कार्यक्रम क्या कहता है
+बातचीत शुरू होने से पहले ट्रंप ने मोदी को "बहुत सख्त आदमी" कहा और जापानी नेता को "उनसे भी सख्त" बताया, जिस पर हंसी हुई। मोदी ने क्वाड को भारत के लिए "एक रचनात्मक और भरोसेमंद साझेदारी" कहा और बोले कि बैठक को क्वाड के अगले चरण के ठोस लक्ष्य तय करने चाहिए। "मनीला और क्वाड का एक पुराना और खास रिश्ता है," उन्होंने कहा, और याद दिलाया कि चारों देशों के अधिकारी 2007 में पहली बार मनीला में मिले थे और 2017 में संवाद यहीं फिर शुरू हुआ। जनवरी 2025 से विदेश मंत्री पांच बार मिल चुके हैं।
 
-वॉशिंगटन से आई खबरों में बताए कार्यक्रम के अनुसार ट्रंप सोमवार को रवाना होते हैं और मंगलवार को मनीला पहुंचते हैं। उतरने के बाद वे क्वाड नेताओं का स्वागत कर आधिकारिक तस्वीर खिंचवाएंगे, और उसके तुरंत बाद बहुपक्षीय बैठक होगी। इसके बाद उनके थाईलैंड के साथ व्यापार समझौते पर हस्ताक्षर करने, विशेष अमेरिका-आसियान शिखर सम्मेलन में शामिल होने और आसियान व क्षेत्रीय नेताओं के रात्रिभोज में जाने की उम्मीद है।
+## साझा बयान में क्या है
 
-```timeline
-{"title":"मनीला और उसके बाद: खबरों के अनुसार कार्यक्रम","items":[{"date":"16 नवंबर","text":"मोदी मनीला पहुंचे; राष्ट्रपति मार्कोस का रात्रिभोज"},{"date":"17 नवंबर, दिन में","text":"23वां आसियान-भारत और 21वां पूर्वी एशिया शिखर सम्मेलन"},{"date":"17 नवंबर, शाम","text":"ट्रंप का आगमन; क्वाड नेताओं के साथ तस्वीर और बैठक; अमेरिका-आसियान शिखर सम्मेलन"},{"date":"18 नवंबर","text":"मार्कोस से ट्रंप की बातचीत और राजकीय स्वागत, फिर एपेक के लिए शेनझेन"},{"date":"19 नवंबर","text":"चीन में शी जिनपिंग से ट्रंप की बातचीत"}]}
-```
+रिपोर्टों के अनुसार नेताओं ने **बल या दबाव से हिंद-प्रशांत की यथास्थिति बदलने की हर कोशिश का विरोध किया** और चेताया कि इससे तनाव बढ़ सकता है और क्षेत्रीय शांति कमज़ोर हो सकती है। उन्होंने आर्थिक दबाव, खासकर "मनमाने निर्यात प्रतिबंधों" पर चिंता जताई और सेमीकंडक्टर, इलेक्ट्रिक वाहन, बैटरी और रक्षा तकनीक में इस्तेमाल होने वाले महत्वपूर्ण खनिजों के लिए एक ही आपूर्तिकर्ता पर निर्भरता घटाने का संकल्प लिया। उन्होंने नौवहन की स्वतंत्रता और सुरक्षित समुद्री गलियारों का समर्थन किया, आसियान की एकता और केंद्रीयता दोहराई, और सीमा-पार आतंकवाद समेत हर तरह के आतंकवाद और हिंसक उग्रवाद की निंदा की।
 
-सुबह की खबरों में ट्रंप के करीब 5:30 बजे पहुंचने और पूर्वी एशिया शिखर सम्मेलन छूटने की आशंका थी। पुष्ट योजना में क्वाड बैठक मंगलवार शाम उनके पहुंचने के बाद है, इसलिए यह मोदी के दिन के शिखर सम्मेलनों से नहीं टकराती। खबरों में बैठक का कोई निश्चित समय नहीं बताया गया है।
 
-## पहली बार क्यों
+## घोषित पहलें
 
-चारों नेताओं की पिछली बैठक तत्कालीन राष्ट्रपति जो बाइडेन की मेज़बानी में **21 सितंबर 2024** को डेलावेयर में हुई थी। ट्रंप के 20 जनवरी 2025 से शुरू मौजूदा कार्यकाल में वे नेताओं की किसी बैठक में शामिल नहीं हुए हैं, और 2017 में समूह को फिर सक्रिय करने के बाद उनके पहले कार्यकाल में भी कोई बैठक नहीं हुई। जनवरी 2025 से क्वाड विदेश मंत्री पांच बार मिल चुके हैं।
+नेताओं ने ये घोषणाएं कीं या इनका स्वागत किया:
 
-नेताओं का शिखर सम्मेलन पिछले साल भारत में होना था, लेकिन ट्रंप की यात्रा को लेकर अनिश्चितता के कारण नहीं हो सका। जैसा [यात्रा के हमारे पूर्वावलोकन](/hi/news/modi-asean-india-summit-manila-november-16-18) में दर्ज है, 12 नवंबर को विदेश मंत्रालय ने बैठक को अपुष्ट बताया था। विदेश मंत्री मार्को रुबियो ने पिछले महीने कहा था कि नेता आसियान बैठकों के दौरान मिल सकते हैं।
+- 2027 की शुरुआत में पहला **क्वाड बिज़नेस लीडर्स फोरम**, जिसकी मेजबानी भारत करेगा, ताकि व्यावसायिक साझेदारियां बढ़ें;
+- **क्वाड एआई एक्सेलेरेटर** में प्रगति, जो भरोसेमंद एआई प्रणालियों तक पहुंच, तकनीकी सहायता और उनकी तैनाती में मदद करता है;
+- सूचना साझा करने और समुद्री क्षेत्र जागरूकता बेहतर करने के लिए हिंद-प्रशांत समुद्री निगरानी सहयोग;
+- 2027 में पी-8 और पी-3सी का साझा अभ्यास;
+- साइबर सुरक्षा और अहम ढांचे की सुरक्षा में गहरा सहयोग;
+- क्वाड केबल कनेक्टिविटी और लचीलापन साझेदारी, जिसमें ऑस्ट्रेलिया का बढ़ा योगदान बिजली केबल तक जाता है, और हिंद महासागर में प्रस्तावित समुद्र-तल केबल परियोजनाएं भी हैं।
 
-```photo
-{"n":1,"subject":"Donald Trump","caption":"राष्ट्रपति डोनाल्ड ट्रंप, जो मंगलवार शाम मनीला पहुंचकर क्वाड नेताओं से मिलेंगे।","alt":"अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप"}
-```
+## यहां तक कैसे पहुंचे
 
-## अमेरिका का बताया एजेंडा
+चारों नेताओं की आखिरी बैठक तत्कालीन राष्ट्रपति जो बाइडेन ने **21 सितंबर 2024** को डेलावेयर में की थी। अगला शिखर सम्मेलन भारत में होना था, पर ट्रंप की यात्रा को लेकर अनिश्चितता में वह नहीं हुआ। सोमवार को व्हाइट हाउस ने पुष्टि की थी कि ट्रंप शामिल होंगे; सहायक प्रेस सचिव ओलिविया वेल्स ने कहा था कि वे मंगलवार शाम "क्वाड नेताओं की बहुपक्षीय बैठक" में हिस्सा लेंगे। इसकी ज़मीन एआई और अहम तकनीक की आपूर्ति श्रृंखलाओं की सुरक्षा पर सैन फ्रांसिस्को घोषणा ने तैयार की, जिसमें भारत शामिल हुआ; ब्योरा [पैक्स सिलिका घोषणा पर हमारी रिपोर्ट](/hi/news/pax-silica-san-francisco-declaration-india-signs-ai-supply-chains) में है। मंगलवार को ही पहले मोदी ने आसियान-भारत और पूर्वी एशिया शिखर सम्मेलनों को संबोधित किया, जिस पर [मनीला से हमारी रिपोर्ट](/hi/news/modi-asean-india-summit-manila-november-16-18) है।
 
-खबरों के अनुसार बैठक का कामकाजी हिस्सा आपूर्ति शृंखला और तकनीक है। इनमें एआई और महत्वपूर्ण तकनीकों की आपूर्ति शृंखला की सुरक्षा पर सैन फ्रांसिस्को घोषणा का ज़िक्र है, जिसमें भारत शामिल हुआ, और भरोसेमंद एआई ढांचे के लिए 8.5 करोड़ डॉलर से अधिक तथा महत्वपूर्ण खनिजों की रीसाइक्लिंग के लिए 1 करोड़ डॉलर की क्वाड विदेश मंत्रियों की पिछली प्रतिबद्धताओं का भी। अमेरिकी सहायक विदेश मंत्री डिलन जॉनसन ने सुबह कहा था कि क्वाड के वरिष्ठ अधिकारी अब हर महीने मिलते हैं और रुबियो दो साल में विदेश मंत्रियों से पांच बार मिल चुके हैं, जिनमें तीन बैठकें पिछले छह महीनों की हैं।
 
-नई दिल्ली के लिए यह मेज़ एक और वजह से मायने रखती है। भारत और अमेरिका अब भी व्यापार के मतभेद सुलझा रहे हैं, जिसे हमने [व्यापार वार्ता की रिपोर्ट](/hi/news/india-us-trade-talks-plateau-russia-oil-tariff-law) में बताया था, और अब तक की खबरों के अनुसार मनीला में मोदी और ट्रंप की अलग द्विपक्षीय बैठक की संभावना कम है। क्वाड बैठक इस हफ्ते दोनों नेताओं के आमने-सामने बात करने का अकेला मौका हो सकती है।
+## यह क्यों मायने रखता है
 
-## मनीला में मोदी की पहली शाम
-
-मोदी सोमवार को मनीला के अंतरराष्ट्रीय हवाई अड्डे पर पहुंचे, जहां सांस्कृतिक प्रस्तुति के साथ उनका स्वागत हुआ। उन्होंने भारतीय समुदाय के लोगों से मुलाकात की और इलिगन शहर के एक कला समूह की रामायण की फिलीपीनी प्रस्तुति *सीता: द रामायण रिविज़िटेड* देखी। इसके बाद वे बारोंग टगालोग पोशाक में फिलीपींस के राष्ट्रपति फर्डिनेंड मार्कोस जूनियर के **फिलीपीन इंटरनेशनल कन्वेंशन सेंटर में दिए गए रात्रिभोज** में शामिल हुए, जिसका विषय "नेविगेटिंग द फ्यूचर" है। फिलीपींस सरकार के अनुसार मनीला में कम से कम 19 नेता हैं, जिनमें चीन के प्रधानमंत्री ली छियांग, ब्राज़ील के राष्ट्रपति लुइज़ इनासियो लूला दा सिल्वा, कनाडा के प्रधानमंत्री मार्क कार्नी और संयुक्त राष्ट्र महासचिव अंतोनियो गुटेरेस शामिल हैं।
-
-रवानगी के बयान में मोदी ने आसियान को भारत की एक्ट ईस्ट नीति और महासागर दृष्टिकोण का केंद्र बताया और कहा कि ये शिखर सम्मेलन संपर्क, समुद्री सुरक्षा और साझा समृद्धि पर सहयोग मज़बूत करेंगे। भारत आसियान-भारत वस्तु व्यापार समझौते की समीक्षा जल्द पूरी कराना चाहता है, जिसके दायरे में लगभग 122 अरब डॉलर का सालाना व्यापार है, जैसा उसी पूर्वावलोकन में बताया गया है।
+भारत के लिए व्यावहारिक बातें हैं: उसकी मेजबानी में होने वाला बिज़नेस फोरम, इलेक्ट्रॉनिक्स और बैटरी आपूर्ति श्रृंखलाओं से जुड़ी महत्वपूर्ण खनिजों की भाषा, और एक और बयान के बजाय तय समय वाली संचालन संबंधी प्रतिबद्धता। रिपोर्टों के अनुसार इससे नई दिल्ली को अपनी रणनीतिक स्वायत्तता बनाए रखते हुए तकनीक, विनिर्माण और संसाधन सुरक्षा में रिश्ते गहरे करने की गुंजाइश मिलती है। मोदी-ट्रंप की अलग द्विपक्षीय बैठक की खबर नहीं है, और दोनों सरकारों के व्यापारिक मतभेद अलग रास्ते पर हैं, जिन्हें [व्यापार वार्ता पर हमारी रिपोर्ट](/hi/news/india-us-trade-talks-plateau-russia-oil-tariff-law) में समझाया गया है।
 
 ## आगे क्या
 
-मोदी मंगलवार को **23वें आसियान-भारत और 21वें पूर्वी एशिया शिखर सम्मेलन** में शामिल होंगे, जिनके आसपास मार्कोस से बातचीत समेत द्विपक्षीय बैठकों की उम्मीद है। क्वाड बैठक शाम को होगी। यात्रा की सरकारी घोषणा में इसका ज़िक्र नहीं है, और शाम 6 बजे तक विदेश मंत्रालय का कोई बयान बैठक पर नहीं आया था। बैठक के बाद का संयुक्त बयान या ब्योरा बताएगा कि चारों सरकारें एक तस्वीर से आगे भी सहमत हैं या नहीं।
+बिज़नेस लीडर्स फोरम 2027 की शुरुआत में भारत में होना है और साझा अभ्यास 2027 में; दोनों की तारीखों की घोषणा नहीं हुई है। ट्रंप इसी हफ्ते चीन में एपेक बैठकों के लिए जाएंगे, और मोदी को बुधवार, 18 नवंबर को भारत लौटना था।

@@ -46095,16 +46095,7 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
-  "treated": {
-   "src": "/photos/t-modi-asean-india-summit-manila-november-16-18-1280.jpg",
-   "src800": "/photos/t-modi-asean-india-summit-manila-november-16-18-640.jpg",
-   "cutout": true,
-   "with": [],
-   "kind": "portrait",
-   "subj": "ffe7e7e7e1e1c0c0",
-   "credit": "Photo: Narendra Modi / Wikimedia Commons"
-  }
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
  },
  "special-session-delimitation-bill-shah-361-votes-jairam-bluster": {
   "id": "o-special-session-delimitation-bill-shah-361-votes-jairam-bluster",
@@ -51269,5 +51260,74 @@
    "subj": "7001018196ff7ff",
    "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; happy days photos and art / Wikimedia Commons; Bill Abbott / Wikimedia Commons"
   }
+ },
+ "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi": {
+  "id": "o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+  "src": "/photos/o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-1280.jpg",
+  "src800": "/photos/o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1035,
+  "credit": "Photo: U.S. Secretary of War / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Defence Minister Rajnath Singh (file photo)",
+  "alt_hi": "रक्षा मंत्री राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Rajnath_Singh_(cropped).jpg"
+ },
+ "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone": {
+  "id": "o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+  "src": "/photos/o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone-1280.jpg",
+  "src800": "/photos/o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 4344,
+  "credit": "Photo: Correctinfo86 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Devendra Fadnavis (file photo)",
+  "alt_hi": "देवेंद्र फडणवीस (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
+ },
+ "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8": {
+  "id": "i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+  "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-3x2-1280.jpg",
+  "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Raut told to explain later posts",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: राउत से बाद की पोस्ट पर जवाब मांगा",
+  "page": null,
+  "ihash": "6f0320c574ee",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-t-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-t-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-1280.jpg",
+    "src800": "/photos/i-sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Sanjay Raut 900px+; library, quick_photo, finder h1808"
  }
 }
