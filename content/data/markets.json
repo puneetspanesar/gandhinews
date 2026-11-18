@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-18T13:00:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-18T16:35:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-18",
   "chart": "nifty-50",
   "indices": [
@@ -8,14 +8,10 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 81945.1,
-      "change": -587.09,
-      "pct": -0.71,
+      "value": 82031.81,
+      "change": -500.38,
+      "pct": -0.61,
       "history": [
-        {
-          "date": "2026-09-30",
-          "close": 72480.29
-        },
         {
           "date": "2026-10-01",
           "close": 71909.7
@@ -131,22 +127,22 @@
         {
           "date": "2026-11-17",
           "close": 82532.19
+        },
+        {
+          "date": "2026-11-18",
+          "close": 82031.81
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html"
+      "source": "https://hdfcsky.com/news/market-close-report-today-november-18-2026-nifty-sensex-decline-after-recent-rally-as-profit-booking-sets-in"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25200.8,
-      "change": -186.4,
-      "pct": -0.73,
+      "value": 25227.95,
+      "change": -159.45,
+      "pct": -0.63,
       "history": [
-        {
-          "date": "2026-10-01",
-          "close": 22421.95
-        },
         {
           "date": "2026-10-05",
           "close": 22555.75
@@ -262,9 +258,13 @@
         {
           "date": "2026-11-17",
           "close": 25387.4
+        },
+        {
+          "date": "2026-11-18",
+          "close": 25227.95
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html"
+      "source": "https://hdfcsky.com/news/market-close-report-today-november-18-2026-nifty-sensex-decline-after-recent-rally-as-profit-booking-sets-in"
     },
     {
       "id": "nifty-bank",
@@ -285,9 +285,9 @@
       "id": "nifty-midcap-100",
       "name": "Nifty Midcap 100",
       "name_hi": "निफ्टी मिडकैप 100",
-      "value": 61784.03,
-      "change": -254.36,
-      "pct": -0.41,
+      "value": 60979.35,
+      "change": -753.14,
+      "pct": -1.22,
       "history": [
         {
           "date": "2026-11-04",
@@ -300,17 +300,21 @@
         {
           "date": "2026-11-13",
           "close": 61889.5
+        },
+        {
+          "date": "2026-11-18",
+          "close": 60979.35
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/"
     },
     {
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 15.55,
-      "change": -1.07,
-      "pct": -6.45,
+      "value": 15.56,
+      "change": 0.04,
+      "pct": 0.27,
       "history": [
         {
           "date": "2026-11-04",
@@ -319,9 +323,13 @@
         {
           "date": "2026-11-13",
           "close": 15.55
+        },
+        {
+          "date": "2026-11-18",
+          "close": 15.56
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-13-indices-snap-winning-streak-sensex-falls-319-pts-nifty-50-ends-at-25-144-shriram-fin-top-loser/article-203442/"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/"
     }
   ],
   "rates": [
@@ -388,83 +396,93 @@
   "movers": {
     "gainers": [
       {
-        "name": "Adani Enterprises",
-        "pct": 3.24
+        "name": "SBI",
+        "pct": 2.38
       },
       {
-        "name": "Eicher Motors",
-        "pct": 3.01
+        "name": "Cipla",
+        "pct": 2.09
       },
       {
-        "name": "Max Healthcare",
-        "pct": 2.08
+        "name": "Tata Consumer Products",
+        "pct": 1.66
       },
       {
-        "name": "Asian Paints",
-        "pct": 2.02
+        "name": "Apollo Hospitals",
+        "pct": 1.25
       },
       {
-        "name": "Axis Bank",
-        "pct": 1.98
+        "name": "ITC",
+        "pct": 1.13
       }
     ],
     "losers": [
       {
-        "name": "HCL Technologies",
-        "pct": -2.09
-      },
-      {
-        "name": "Power Grid",
-        "pct": -1.6
+        "name": "Titan Company",
+        "pct": -5.3
       },
       {
         "name": "HDFC Life",
-        "pct": -1.56
+        "pct": -3.29
       },
       {
-        "name": "ONGC",
-        "pct": -1.53
+        "name": "Hindalco",
+        "pct": -2.99
       },
       {
-        "name": "Coal India",
-        "pct": -1.5
+        "name": "BSE",
+        "pct": -2.83
+      },
+      {
+        "name": "Tata Motors PV",
+        "pct": -2.57
       }
     ],
-    "source": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india"
+    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/"
   },
   "sectors": [
     {
-      "name": "FMCG",
-      "name_hi": "एफएमसीजी",
-      "pct": 1.87
+      "name": "PSU Bank",
+      "name_hi": "पीएसयू बैंक",
+      "pct": 0.59
     },
     {
-      "name": "Energy",
-      "name_hi": "एनर्जी",
-      "pct": -0.3
-    },
-    {
-      "name": "Auto",
-      "name_hi": "ऑटो",
-      "pct": -1.3
-    },
-    {
-      "name": "Realty",
-      "name_hi": "रियल्टी",
-      "pct": -1.34
+      "name": "Media",
+      "name_hi": "मीडिया",
+      "pct": 0.46
     },
     {
       "name": "Pharma",
       "name_hi": "फार्मा",
-      "pct": -1.5
+      "pct": 0.15
+    },
+    {
+      "name": "Realty",
+      "name_hi": "रियल्टी",
+      "pct": -0.85
+    },
+    {
+      "name": "IT",
+      "name_hi": "आईटी",
+      "pct": -1.24
+    },
+    {
+      "name": "Auto",
+      "name_hi": "ऑटो",
+      "pct": -1.35
     },
     {
       "name": "Metal",
       "name_hi": "मेटल",
-      "pct": -1.5
+      "pct": -2.46
+    },
+    {
+      "name": "Consumer Durables",
+      "name_hi": "कंज्यूमर ड्यूरेबल्स",
+      "pct": -3.13
     }
   ],
-  "sectors_source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-13-indices-snap-winning-streak-sensex-falls-319-pts-nifty-50-ends-at-25-144-shriram-fin-top-loser/article-203442/",
+  "sectors_source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/",
   "flows": {
     "date": "2026-11-11",
     "fii": 12563.33,
@@ -504,7 +522,8 @@
     "Nov 13 09:18 IST (hourly-09): Sensex 81,498 (-413, -0.50%) and Nifty 50 25,120 (-179, -0.71%) in opening deals; rupee opened 94.04; Brent Jan futures 91.93 at 8:32 am. Other figures kept from Nov 12.",
     "16 Nov 14:25 IST (hourly-14): Sensex 81,906.59 (+314.14, +0.39%) and Nifty 50 25,217.00 (+72.70, +0.29%) as of 2:00 pm from the live market blog; other figures keep earlier values.",
     "17 Nov 14:25 IST (stall-14): Sensex 82,832.31 (+0.89%, delayed BSE quote 2:10 pm IST) and Nifty 50 25,456.65 (+0.65%) from the MarketScreener quote header read this run; change worked out against the Nov 16 closes. Brent 91.65 (-0.88%) in early trade (Dainik Jagran English, 12:48 pm). Nifty Bank, Midcap, VIX, rupee, gold, silver, yield, movers, sectors and flows keep earlier values (no dated Nov 17 figure read; Business Standard and Kotak Neo pages failed to load).",
-    "17 Nov 18:25 IST (hourly-18): Sensex close 82,532.19 (+427.40, +0.52%) and Nifty 50 close 25,387.40 (+96.30, +0.38%), Nifty 50 top gainers and losers, from the HDFC Sky closing report (4:11 pm) cross-checked with Kotak Neo (4:09 pm); closes appended to history. Nifty Bank, Midcap 100 level, VIX, rupee and sectors not found in sources read this run: kept at earlier values."
+    "17 Nov 18:25 IST (hourly-18): Sensex close 82,532.19 (+427.40, +0.52%) and Nifty 50 close 25,387.40 (+96.30, +0.38%), Nifty 50 top gainers and losers, from the HDFC Sky closing report (4:11 pm) cross-checked with Kotak Neo (4:09 pm); closes appended to history. Nifty Bank, Midcap 100 level, VIX, rupee and sectors not found in sources read this run: kept at earlier values.",
+    "18 Nov 18:30 IST (stall-18): Sensex close 82,031.81 (-500.38, -0.61%), Nifty 50 25,227.95 (-159.45, -0.63%), Nifty 50 gainers and losers from the HDFC Sky closing report (4:35 pm), matching Upstox (4:02 pm); Midcap 100 60,979.35 (-1.22%), India VIX 15.56 (+0.27%) and sectors from Upstox; changes for Midcap and VIX worked out from the printed % ; closes appended to history. Nifty Bank, rupee, Brent, gold, silver, yield and flows not in sources read this run: kept."
   ],
   "holidays": [
     "2026-11-10"

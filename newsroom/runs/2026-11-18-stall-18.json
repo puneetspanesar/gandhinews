@@ -1,0 +1,17 @@
+{
+ "run": "stall-18",
+ "start": "2026-11-18T18:13:49+05:30",
+ "end": "2026-11-18T18:27:01+05:30",
+ "summary": "November 18 market close in the markets band; homepage refreshed",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [
+  "opinion: the newest editorial on the homepage is over 20 hours old (the long-form runs are late or wrote none): air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+  "startHere: the newest explainer on the homepage is over 20 hours old (the long-form runs are late or wrote none): hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
+  "fact check: no new fact check in over 30 hours (the long-form runs must write one each): "
+ ],
+ "lead": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi"
+}

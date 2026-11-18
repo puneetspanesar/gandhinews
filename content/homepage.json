@@ -63,6 +63,17 @@
         }
       },
       {
+        "link": "goyal-india-1000-more-aircraft-order-2000-needed",
+        "lead": {
+          "en": "Aviation:",
+          "hi": "विमानन:"
+        },
+        "text": {
+          "en": "India is ready to order 1,000 more aircraft on top of 1,200 already booked, says Goyal, as the country needs more than 2,000 planes",
+          "hi": "1,200 से ज्यादा विमानों के ऑर्डर के बाद भारत 1,000 और विमान मंगाने को तैयार, गोयल बोले देश को 2,000 से ज्यादा विमान चाहिए"
+        }
+      },
+      {
         "link": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
         "lead": {
           "en": "Supreme Court:",
@@ -165,6 +176,7 @@
     },
     "list": [
       "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+      "goyal-india-1000-more-aircraft-order-2000-needed",
       "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
       "india-bloc-48-questions-election-commission-supreme-court-sir"
@@ -361,9 +373,9 @@
         ]
       },
       "list": [
+        "goyal-india-1000-more-aircraft-order-2000-needed",
         "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-        "wpi-inflation-october-2026",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
+        "wpi-inflation-october-2026"
       ]
     },
     {
@@ -427,30 +439,6 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "APEC leaders' summit opens in Shenzhen; Trump, Xi and possibly Putin could meet",
-        "hi": "शेनझेन में एपेक शिखर सम्मेलन शुरू; ट्रंप, शी और संभवतः पुतिन की मुलाकात संभव"
-      },
-      "link": "rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "BJP's Samrasta Sankalp Yatra is flagged off from Jalandhar by Nitin Nabin",
-        "hi": "भाजपा की समरस्ता संकल्प यात्रा को नितिन नबीन जालंधर से हरी झंडी दिखाएंगे"
-      },
-      "link": "saini-punjab-double-engine-bjp-samrasta-sankalp-yatra"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -497,23 +485,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-16T15:21:22+05:30",
-      "ids": [
-        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "delhi-chhath-1482-ghats-usha-arghya-holiday-monday-rekha-gupta",
-        "winter-session-first-week-december-delimitation-womens-quota-bill",
-        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
-      ]
-    },
     {
       "at": "2026-11-16T18:56:59+05:30",
       "ids": [
@@ -617,11 +588,22 @@
         "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
         "india-bloc-48-questions-election-commission-supreme-court-sir"
       ]
+    },
+    {
+      "at": "2026-11-18T18:24:35+05:30",
+      "ids": [
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "goyal-india-1000-more-aircraft-order-2000-needed",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "goyal-india-1000-more-aircraft-order-2000-needed"
-  ],
+  "drop": [],
   "mustReadEn": 8
 }
