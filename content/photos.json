@@ -53532,16 +53532,6 @@
   "articleId": "goyal-india-1000-more-aircraft-order-2000-needed"
  },
  {
-  "id": "o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-  "articleId": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shri_Rajnath_Singh%2C_Union_Minister_of_Defence_at_a_webinar_on_August_04%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Rajnath Singh (file photo)",
-  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg"
- },
- {
   "id": "o-modi-asean-india-summit-manila-november-16-18",
   "articleId": "modi-asean-india-summit-manila-november-16-18",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53560,5 +53550,15 @@
   "alt": "Devendra Fadnavis (file photo)",
   "alt_hi": "देवेंद्र फडणवीस (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Devendra_Fadnavis_@Vidhan_Sabha_04-03-2021.jpg"
+ },
+ {
+  "id": "o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+  "articleId": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/2025_Rajnath_Singh_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: U.S. Secretary of War / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Defence Minister Rajnath Singh (file photo)",
+  "alt_hi": "रक्षा मंत्री राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Rajnath_Singh_(cropped).jpg"
  }
 ]

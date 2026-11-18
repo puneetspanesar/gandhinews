@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "goyal-india-1000-more-aircraft-order-2000-needed"
+      "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
     ],
     "live": {
       "title": {
@@ -29,6 +29,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "lead": {
+          "en": "Contempt:",
+          "hi": "अवमानना:"
+        },
+        "text": {
+          "en": "Supreme Court tells Sanjay Raut an apology must come 'from the heart', asks him to explain later posts on affidavit",
+          "hi": "सुप्रीम कोर्ट ने संजय राउत से कहा, माफी 'दिल से' आनी चाहिए; बाद की पोस्ट पर अतिरिक्त हलफनामा मांगा"
+        }
+      },
+      {
+        "link": "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "lead": {
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
+        },
+        "text": {
+          "en": "Maharashtra offers up to ₹1.5 lakh for tips on weapons looted by Naxals, and clears a Palghar court and textile relief",
+          "hi": "महाराष्ट्र: नक्सलियों के लूटे हथियारों की सूचना पर ₹1.5 लाख तक इनाम, पालघर को जिला अदालत और कपड़ा नीति में राहत"
+        }
+      },
       {
         "link": "goyal-india-1000-more-aircraft-order-2000-needed",
         "lead": {
@@ -71,17 +93,6 @@
         "text": {
           "en": "Supreme Court asks Election Commission to reply to INDIA bloc's 48 questions on SIR, hearing on December 9",
           "hi": "सुप्रीम कोर्ट ने चुनाव आयोग से इंडिया गठबंधन के 48 सवालों पर जवाब मांगा, 9 दिसंबर को सुनवाई"
-        }
-      },
-      {
-        "link": "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
-        "lead": {
-          "en": "West Bengal:",
-          "hi": "पश्चिम बंगाल:"
-        },
-        "text": {
-          "en": "Suvendu Adhikari says every eligible CAA application will be disposed of by December 31; the rules set no such deadline and the pace so far does not point there",
-          "hi": "सुवेंदु अधिकारी का दावा, हर पात्र सीएए आवेदन का 31 दिसंबर तक निपटारा; नियमों में ऐसी कोई समय-सीमा नहीं और अब तक की रफ्तार भी उस ओर नहीं"
         }
       }
     ]
@@ -149,13 +160,14 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+      "id": "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
       "also": []
     },
     "list": [
+      "goyal-india-1000-more-aircraft-order-2000-needed",
+      "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
       "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-      "india-bloc-48-questions-election-commission-supreme-court-sir",
-      "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
+      "india-bloc-48-questions-election-commission-supreme-court-sir"
     ],
     "also": []
   },
@@ -330,11 +342,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "india-bloc-48-questions-election-commission-supreme-court-sir",
         "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india",
-        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir",
-        "winter-session-first-week-december-delimitation-womens-quota-bill"
+        "ec-supplementary-affidavit-sc-excluded-voters-restore-sir"
       ],
-      "lead": "india-bloc-48-questions-election-commission-supreme-court-sir"
+      "lead": "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
     },
     {
       "section": "economy",
@@ -356,11 +368,11 @@
     },
     {
       "section": "states",
-      "lead": "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
+      "lead": "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
       "list": [
+        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
         "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu"
+        "rajasthan-ganganagar-railway-track-blast-arrests"
       ]
     },
     {
@@ -486,23 +498,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-16T13:14:37+05:30",
-      "ids": [
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "rajasthan-ganganagar-railway-track-blast-arrests",
-        "murasu-andhra-damage-revised-2484-crore-central-team-naidu",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
-        "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves"
-      ]
-    },
-    {
       "at": "2026-11-16T14:53:42+05:30",
       "ids": [
         "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
@@ -604,14 +599,27 @@
       ]
     },
     {
-      "at": "2026-11-18T08:33:47+05:30",
+      "at": "2026-11-18T08:41:23+05:30",
       "ids": [
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
         "goyal-india-1000-more-aircraft-order-2000-needed",
         "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
         "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
+        "india-bloc-48-questions-election-commission-supreme-court-sir"
+      ]
+    },
+    {
+      "at": "2026-11-18T09:20:09+05:30",
+      "ids": [
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "goyal-india-1000-more-aircraft-order-2000-needed",
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
+        "india-bloc-48-questions-election-commission-supreme-court-sir"
       ]
     }
   ],

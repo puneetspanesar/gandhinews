@@ -94,9 +94,6 @@ Before the talks began Mr Trump called Mr Modi "a very tough man" and said the J
 
 As reported, the leaders **opposed any effort to alter the Indo-Pacific status quo by force or coercion**, warning that it could raise tensions and weaken regional peace. They voiced concern about economic coercion, in particular "arbitrary export restrictions", and committed to reduce dependence on single suppliers of critical minerals used in semiconductors, electric vehicles, batteries and defence technology. They backed freedom of navigation and safe maritime transit corridors, reaffirmed ASEAN unity and centrality, and condemned terrorism and violent extremism in all forms, including cross-border terrorism.
 
-```photo
-{"n":1,"subject":"Donald Trump","caption":"President Donald Trump attended his first Quad leaders' meeting of his current term in Manila.","alt":"US President Donald Trump"}
-```
 
 ## The initiatives
 
@@ -113,9 +110,6 @@ The leaders announced or welcomed:
 
 The last meeting of the four leaders was hosted by then President Joe Biden in Delaware on **September 21, 2024**. India was due to host the next summit but it did not take place, amid uncertainty over Mr Trump's travel. On Monday the White House confirmed Mr Trump would take part, with Assistant Press Secretary Olivia Wales saying he would join "a multilateral meeting with Quad leaders" on Tuesday evening. The groundwork included the San Francisco Declaration on protecting AI and critical-technology supply chains, which India joined; our report on the [Pax Silica declaration](/en/news/pax-silica-san-francisco-declaration-india-signs-ai-supply-chains) has the detail. Earlier on Tuesday Mr Modi addressed the ASEAN-India and East Asia Summits, covered in [our report from Manila](/en/news/modi-asean-india-summit-manila-november-16-18).
 
-```photo
-{"n":2,"subject":"Anthony Albanese","caption":"Australian Prime Minister Anthony Albanese, whose government is expanding its contribution to the Quad cable partnership.","alt":"Australian Prime Minister Anthony Albanese"}
-```
 
 ## Why it matters
 

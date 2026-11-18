@@ -87,9 +87,6 @@ The release does not name any project, purchase or agreement to be signed. Nothi
 
 Singh, in a post on X before leaving, said India and Japan "share a Special Strategic and Global Partnership rooted in mutual trust" and that he looked forward to "productive discussions".
 
-```photo
-{"n":1,"subject":"S. Jaishankar","caption":"External Affairs Minister S. Jaishankar, who co-chairs the 2+2 for India and will also hold the 19th Foreign Ministers' Strategic Dialogue during the visit.","alt":"External Affairs Minister S. Jaishankar"}
-```
 
 ## Third meeting of the year
 
