@@ -80,6 +80,10 @@ Four themed sessions are planned: religious and philosophical traditions, art an
 
 Union Culture and Tourism Minister Gajendra Singh Shekhawat briefed the media in Delhi on November 13. He called it more than an international gathering and said he was confident it would strengthen cultural exchange and mutual understanding among the participants.
 
+```photo
+{"n": 1, "subject": "Purana Qila", "caption": "The Qila-i-Kuhna mosque inside Purana Qila, the 16th-century fort in Delhi that hosts the forum from November 20 to 22.", "alt": "Qila-i-Kuhna mosque, Old Fort, Delhi (file photo)"}
+```
+
 ## Who is coming
 
 India invited the culture ministers of **all 10 SCO member states**, among them China, Russia, Iran and Belarus, along with representatives of observer and dialogue partner countries. Each country may bring its culture minister and up to four other delegates. Reports put expected attendance at **more than 25 countries**.
@@ -95,6 +99,10 @@ Modi proposed the idea at the SCO leaders' summit in Tianjin, China, in Septembe
 The date has moved. On June 12, Minister of State for External Affairs Kirti Vardhan Singh said at an SCO conference in Dushanbe that the forum would be held in **Kolkata from July 17 to 19**. Later reports place it in Delhi in November. None of the reports we read explains the change.
 
 The invitation to Pakistan comes about 18 months after Operation Sindoor, and relations remain strained after the April 2025 Pahalgam attack. At Dushanbe, Singh urged members to act against those who finance, support or shelter terrorist groups, with Pakistan's Deputy Prime Minister Ishaq Dar present. India has also not said at what level it will take part in the 2027 summit in Islamabad. In August, External Affairs Ministry Secretary Sibi George said India deals with the SCO "as an entity, as an important organisation" and that engagement with individual countries would be decided later.
+
+```photo
+{"n": 2, "subject": "Sher Mandal", "caption": "Sher Mandal, the octagonal tower inside Purana Qila.", "alt": "The octagonal tower inside Old Fort, Delhi (file photo)"}
+```
 
 ## What happens next
 

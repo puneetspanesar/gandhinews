@@ -51722,12 +51722,65 @@
    "src800": "/photos/t-modi-sco-civilisational-dialogue-forum-purana-qila-640.jpg",
    "cutout": true,
    "with": [
-    "pakistan-afghanistan-trade-halt-exporters-torkham-losses",
-    "pakistan-cuts-petrol-price-rs-3-93-daily-pricing"
+    "modi-sco-civilisational-dialogue-forum-purana-qila--p1",
+    "modi-sco-civilisational-dialogue-forum-purana-qila--p3",
+    "modi-sco-civilisational-dialogue-forum-purana-qila--p4"
    ],
    "kind": "photo",
    "subj": "ffe7c3c3e7e7d181",
-   "credit": "Photos: Government of India / Wikimedia Commons; Sgt. Margaret Taylor / Wikimedia Commons; Sunni Person / Wikimedia Commons"
+   "credit": "Photos: Government of India / Wikimedia Commons; Slyronit / Wikimedia Commons"
   }
+ },
+ "modi-sco-civilisational-dialogue-forum-purana-qila--p1": {
+  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila--p1",
+  "src": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p1-1280.jpg",
+  "src800": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p1-640.jpg",
+  "width": 1280,
+  "height": 849,
+  "srcWidth": 6026,
+  "credit": "Photo: Slyronit / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Qila-i-Kuhna mosque, Old Fort, Delhi (file photo)",
+  "alt_hi": "दिल्ली के पुराना किला में किला-ए-कुहना मस्जिद (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Purana_Qila,_Delhi_3.jpg"
+ },
+ "modi-sco-civilisational-dialogue-forum-purana-qila--p2": {
+  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila--p2",
+  "src": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p2-1280.jpg",
+  "src800": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p2-640.jpg",
+  "width": 1280,
+  "height": 850,
+  "srcWidth": 6012,
+  "credit": "Photo: Slyronit / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The octagonal tower inside Old Fort, Delhi (file photo)",
+  "alt_hi": "दिल्ली के पुराना किला में शेर मंडल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Purana_Qila,_Delhi_2.jpg"
+ },
+ "modi-sco-civilisational-dialogue-forum-purana-qila--p3": {
+  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila--p3",
+  "src": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p3-1280.jpg",
+  "src800": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p3-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 6000,
+  "credit": "Photo: Slyronit / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Avenue to the gate of Old Fort, Delhi (file photo)",
+  "alt_hi": "दिल्ली के पुराना किला का प्रवेश मार्ग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Streets_of_Purana_Qila,_Delhi.jpg"
+ },
+ "modi-sco-civilisational-dialogue-forum-purana-qila--p4": {
+  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila--p4",
+  "src": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p4-1280.jpg",
+  "src800": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila--p4-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 4000,
+  "credit": "Photo: Slyronit / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Gateway of Old Fort, Delhi (file photo)",
+  "alt_hi": "दिल्ली के पुराना किला का द्वार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Purana_Qila,_Delhi_8.jpg"
  }
 }
