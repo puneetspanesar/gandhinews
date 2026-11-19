@@ -51257,7 +51257,20 @@
   "licence": "GODL-India",
   "alt": "Rajnath Singh (file photo)",
   "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Union_Defence_Minister,_Shri_Rajnath_Singh,_in_New_Delhi_on_February_11,_2015_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Defence_Minister,_Shri_Rajnath_Singh,_in_New_Delhi_on_February_11,_2015_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-1280.jpg",
+   "src800": "/photos/t-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers--p2",
+    "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance"
+   ],
+   "kind": "photo",
+   "subj": "fffff3f3f1e32222",
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; https://www.mod.go.jp/msdf/index.html 海上自衛隊 / Wikimedia Commons; Syced / Wikimedia Commons; Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 / Wikimedia Commons"
+  }
  },
  "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone": {
   "id": "o-maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
