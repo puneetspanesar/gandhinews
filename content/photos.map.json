@@ -50699,47 +50699,17 @@
   }
  },
  "noel-tata-tata-sons-listing-change-tata-way-philanthropy": {
-  "id": "i-noel-tata-tata-sons-listing-change-tata-way-philanthropy",
-  "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-3x2-1280.jpg",
-  "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-3x2-640.jpg",
+  "id": "o-noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+  "src": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-1280.jpg",
+  "src800": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Tata Trusts hold two-thirds of Tata Sons",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: टाटा संस में दो-तिहाई हिस्सा ट्रस्टों का",
-  "page": null,
-  "ihash": "769c2677ef50",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-3x2-1280.jpg",
-    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-t-1280.jpg",
-    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-t-1280.jpg",
-    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-1280.jpg",
-    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-1280.jpg",
-    "src800": "/photos/i-noel-tata-tata-sons-listing-change-tata-way-philanthropy-hi-640.jpg"
-   }
-  },
-  "nophoto": "no free photo of Noel Tata 900 px or more showing him clearly; library (not in it), quick_photo, finder h1608 (only a 2013 three-person meeting shot)"
+  "srcWidth": 1101,
+  "credit": "Photo: World Economic Forum / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "N. Chandrasekaran (file photo)",
+  "alt_hi": "एन. चंद्रशेखरन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Natarajan_Chandrasekaran_at_WEF,_2011.jpg"
  },
  "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first": {
   "id": "o-us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",
