@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+    "id": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
     "overlay": {
       "kicker": {
-        "en": "Economy / Industry",
-        "hi": "अर्थव्यवस्था / उद्योग"
+        "en": "World / Diplomacy",
+        "hi": "दुनिया / कूटनीति"
       },
       "value": {
-        "en": "'You cannot treat India as an assured market'",
-        "hi": "'140 करोड़ को अश्योर्ड मार्केट न मानें'"
+        "en": "Trump, Xi and Putin sit down in Shenzhen",
+        "hi": "शेनझेन में ट्रंप, शी और पुतिन आमने-सामने"
       },
       "text": {
         "en": "",
@@ -16,32 +16,39 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
-      "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-      "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory"
+      "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
     ],
     "live": {
       "title": {
-        "en": "Industry",
-        "hi": "उद्योग"
+        "en": "Diplomacy",
+        "hi": "कूटनीति"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "link": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Environment:",
+          "hi": "पर्यावरण:"
         },
         "text": {
-          "en": "Trump meets Putin and Xi in Shenzhen as first three-way talks of the nuclear powers begin",
-          "hi": "शेनझेन में ट्रंप की पुतिन और शी से मुलाकात, परमाणु शक्तियों की पहली तीन-तरफा बातचीत शुरू"
+          "en": "Yadav tells Delhi-NCR civic bodies to treat open burning with zero tolerance this winter",
+          "hi": "यादव ने दिल्ली-एनसीआर के नगर निकायों से कहा, इस सर्दी खुले में जलाने पर शून्य सहनशीलता"
+        }
+      },
+      {
+        "link": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "lead": {
+          "en": "Industry:",
+          "hi": "उद्योग:"
+        },
+        "text": {
+          "en": "Modi to India Inc at FICCI: 'Do not treat 140 crore Indians as an assured market'",
+          "hi": "फिक्की में मोदी का उद्योग जगत से सवाल: '140 करोड़ देशवासियों को अश्योर्ड मार्केट मत मानिए'"
         }
       },
       {
@@ -67,6 +74,17 @@
         }
       },
       {
+        "link": "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "lead": {
+          "en": "Middle East:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "Indian seafarer missing after Tara Gas hit twice off Hormuz; crude tanker Navig8 Messi struck, three Indians safe",
+          "hi": "होर्मुज के पास तारा गैस पर दो हमले, एक भारतीय नाविक लापता; कच्चे तेल के टैंकर नैविग8 मेसी पर हमला, तीनों भारतीय सुरक्षित"
+        }
+      },
+      {
         "link": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
         "lead": {
           "en": "Courts:",
@@ -89,25 +107,14 @@
         }
       },
       {
-        "link": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "link": "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
         "lead": {
-          "en": "Japan:",
-          "hi": "जापान:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Singh tours a Japanese frigate at Yokosuka with Koizumi as India and Japan ready the fourth 2+2 in Tokyo",
-          "hi": "भारत-जापान चौथी 2+2 की तैयारी: सिंह ने कोइजुमी के साथ योकोसुका में जापानी युद्धपोत देखा"
-        }
-      },
-      {
-        "link": "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The Akvan track has moved north, so evacuation must follow the hillsides and the flood plain, not the forecast line",
-          "hi": "अकवान का रास्ता उत्तर की ओर खिसका है, इसलिए निकासी पूर्वानुमान की रेखा से नहीं, पहाड़ी ढलानों और निचले इलाकों से तय हो"
+          "en": "The India-Japan 2+2 explained: what four ministers in one room can actually decide, and what to watch in Tokyo",
+          "hi": "भारत-जापान 2+2 क्या है: एक मेज़ पर चार मंत्री क्या तय कर सकते हैं, और टोक्यो में किस पर नज़र रखें"
         }
       }
     ]
@@ -175,17 +182,20 @@
   },
   "topStories": {
     "big": {
-      "id": "air-india-crash-probe-final-stages-supreme-court",
+      "id": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
       "also": []
     },
     "list": [
+      "air-india-crash-probe-final-stages-supreme-court",
       "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+      "tara-gas-navig8-messi-indian-seafarers-hormuz",
       "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-      "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-      "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-      "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone"
     ],
-    "also": []
+    "also": [
+      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+      "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+    ]
   },
   "startHere": [
     "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
@@ -393,11 +403,11 @@
     },
     {
       "section": "policy",
-      "lead": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+      "lead": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "list": [
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
         "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses",
-        "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7"
+        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
       ]
     },
     {
@@ -414,9 +424,9 @@
       "section": "world",
       "lead": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
       "list": [
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first"
+        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains"
       ]
     },
     {
@@ -443,30 +453,6 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "First Test, New Zealand v India, Basin Reserve, Wellington, 3:30 am IST",
-        "hi": "पहला टेस्ट, न्यूज़ीलैंड बनाम भारत, बेसिन रिज़र्व, वेलिंगटन, भारतीय समय के अनुसार सुबह 3:30 बजे"
-      },
-      "link": "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Trump and Xi expected to meet in Shenzhen at APEC; US-China trade truce and critical minerals on the table",
-        "hi": "शेनझेन में एपेक के दौरान ट्रंप और शी की बैठक अपेक्षित; अमेरिका-चीन व्यापार संघर्षविराम और महत्वपूर्ण खनिज एजेंडे पर"
-      },
-      "link": "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
@@ -489,19 +475,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-18T18:24:35+05:30",
-      "ids": [
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "goyal-india-1000-more-aircraft-order-2000-needed",
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "india-bloc-48-questions-election-commission-supreme-court-sir"
-      ]
-    },
     {
       "at": "2026-11-18T20:39:14+05:30",
       "ids": [
@@ -599,12 +572,25 @@
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
         "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
       ]
+    },
+    {
+      "at": "2026-11-19T20:35:48+05:30",
+      "ids": [
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "air-india-crash-probe-final-stages-supreme-court",
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-    "tara-gas-navig8-messi-indian-seafarers-hormuz"
+    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today"
   ],
   "mustReadEn": 8
 }

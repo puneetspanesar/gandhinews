@@ -135,7 +135,7 @@ On the UN Security Council, each side pledged support for the other's candidacy 
 
 Singh arrived in Tokyo on November 18 and visited the Yokosuka naval base with Koizumi, as we reported before the talks. This is the **third Singh-Koizumi meeting of the year**, after New Delhi in August and Cebu on October 28. Japan's use of Indian ranges matters to Tokyo because it has limited room for missile tests at home; it already has a similar arrangement with Australia, according to reports.
 
-The 2+2 began in November 2019, and the second round in Tokyo on September 8, 2022 started Joint Service Staff Talks and the first bilateral fighter exercise plan. The joint statement also welcomes last week's Quad leaders' summit in Manila; our report is at [Modi in Manila](/en/news/modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves/).
+The 2+2 began in November 2019, and the second round in Tokyo on September 8, 2022, started Joint Service Staff Talks and the first bilateral fighter exercise plan. The joint statement also welcomes last week's Quad leaders' summit in Manila; our report is at [Modi in Manila](/en/news/modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves/).
 
 ## Why it matters
 
