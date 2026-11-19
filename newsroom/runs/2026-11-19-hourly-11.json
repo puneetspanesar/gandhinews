@@ -1,0 +1,21 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-19T11:04:54+05:30",
+ "end": "2026-11-19T11:34:38+05:30",
+ "summary": "Akvan and YES Bank AT-1 updated; markets band stale (no figures readable)",
+ "new": [],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+   "why": "English body text has a broken bold marker in the Andhra alert paragraph: 'Alluri Sitharama Raju** districts' leaves literal asterisks on the page (the opening bold before 'red alert on November 20' is also unbalanced against it).",
+   "done": "Removed the stray ** after Alluri Sitharama Raju in the English file; also removed the in-story Odisha photo block (photo not found) from both languages."
+  }
+ ],
+ "breaches": [
+  "markets band figures are more than 6 hours old while the market is open: 2026-11-18T16:35:00+05:30"
+ ],
+ "lead": "air-india-crash-probe-final-stages-supreme-court"
+}

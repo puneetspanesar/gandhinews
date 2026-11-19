@@ -203,7 +203,7 @@ Odisha has moved **46,701 people to safer places** by the morning of Thursday, N
 
 The landfall stretch has shifted north from the Nellore to Visakhapatnam range quoted earlier this week to **Narsapur to Puri**, with the crossing expected by noon on Friday; one broadcaster's report on Thursday morning said the afternoon. Sea conditions are forecast to be very high, with waves of 9 to 14 metres, to phenomenal, above 14 metres, along the projected path. A storm surge of 0.5 to 1 metre above the astronomical tide could flood low-lying parts of Ganjam and Puri, according to reports of the IMD outlook. IMD Director General Mrutyunjay Mohapatra said parts of Odisha could see extremely heavy rain on November 19 and 20.
 
-For Andhra Pradesh, the day-wise warnings reported on Thursday morning put a **yellow alert across the state on November 19** and a **red alert on November 20** for Srikakulam, Vizianagaram, Anakapalli, Visakhapatnam, Kakinada and Alluri Sitharama Raju** districts, with an orange alert for East Godavari, Konaseema, West Godavari and Parvathipuram Manyam. Extremely heavy rain is forecast at isolated places in these districts on November 19 and 20. On Thursday itself, the IMD expects scattered heavy rain in north Andhra, moderate to heavy rain in parts of Srikakulam, and winds of 60 to 70 km/h on the north Andhra coast, gusting to 80 km/h. Fishermen have been told to stay off the sea.
+For Andhra Pradesh, the day-wise warnings reported on Thursday morning put a **yellow alert across the state on November 19** and a **red alert on November 20** for Srikakulam, Vizianagaram, Anakapalli, Visakhapatnam, Kakinada and Alluri Sitharama Raju districts, with an orange alert for East Godavari, Konaseema, West Godavari and Parvathipuram Manyam. Extremely heavy rain is forecast at isolated places in these districts on November 19 and 20. On Thursday itself, the IMD expects scattered heavy rain in north Andhra, moderate to heavy rain in parts of Srikakulam, and winds of 60 to 70 km/h on the north Andhra coast, gusting to 80 km/h. Fishermen have been told to stay off the sea.
 
 ## What Andhra Pradesh has done
 
@@ -214,10 +214,6 @@ The railways have moved departure times, not cancelled trains, so far: the Charl
 ## What Odisha has done
 
 Odisha has a **red warning for 11 districts** for heavy to extremely heavy rain on November 19 and 20: Malkangiri, Koraput, Rayagada, Kalahandi, Gajapati, Ganjam, Kandhamal, Boudh, Puri, Nayagarh and Khordha. Chief Minister Mohan Charan Majhi put the number at 13 districts on Thursday morning, and a separate day-wise list reported for Friday puts red on Kandhamal, Gajapati, Ganjam, Puri, Jagatsinghpur and Kendrapara, so the district lists differ between reports. Majhi said the state is "fully prepared" and that the goal is "zero casualty". He ordered strict evacuation, especially of people living in the foothills.
-
-```photo
-{"n":1,"subject":"Cyclone Phailin Odisha","caption":"A cyclone shelter and flooded coast in Odisha during an earlier storm (file photo); the state has 448 shelters open for Akvan.","alt":"Cyclone damage on the Odisha coast (file photo)"}
-```
 
 The numbers reported by the state by Thursday morning:
 

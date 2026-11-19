@@ -17,7 +17,7 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+      "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
       "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
       "obc-creamy-layer-explained-parents-salary-supreme-court"
     ],
@@ -56,14 +56,14 @@
         }
       },
       {
-        "link": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "link": "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Contempt:",
+          "hi": "अवमानना:"
         },
         "text": {
-          "en": "Supreme Court issues contempt notice to advocate Pravin Singhal over 'you don't deserve that chair' remark to CJI",
-          "hi": "सीजेआई से \"आप उस कुर्सी के लायक नहीं\" कहने पर सुप्रीम कोर्ट ने वकील प्रवीण सिंघल को अवमानना का नोटिस दिया"
+          "en": "Supreme Court tells Sanjay Raut an apology must come 'from the heart', asks him to explain later posts on affidavit",
+          "hi": "सुप्रीम कोर्ट ने संजय राउत से कहा, माफी 'दिल से' आनी चाहिए; बाद की पोस्ट पर अतिरिक्त हलफनामा मांगा"
         }
       },
       {
@@ -168,7 +168,7 @@
       "also": []
     },
     "list": [
-      "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+      "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
       "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
       "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
       "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
@@ -478,18 +478,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-18T08:41:23+05:30",
-      "ids": [
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "goyal-india-1000-more-aircraft-order-2000-needed",
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "india-bloc-48-questions-election-commission-supreme-court-sir"
-      ]
-    },
-    {
       "at": "2026-11-18T09:31:24+05:30",
       "ids": [
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
@@ -576,13 +564,26 @@
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
         "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
       ]
+    },
+    {
+      "at": "2026-11-19T11:32:20+05:30",
+      "ids": [
+        "air-india-crash-probe-final-stages-supreme-court",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+        "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-    "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
-    "winter-session-first-week-december-delimitation-womens-quota-bill"
+    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today"
   ],
   "mustReadEn": 8
 }
