@@ -1,0 +1,16 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-19T20:04:40+05:30",
+ "end": "2026-11-19T21:00:04+05:30",
+ "summary": "SCO forum preview and NCR open-burning story new; India-Japan 2+2 updated",
+ "new": [
+  "modi-sco-civilisational-dialogue-forum-purana-qila",
+  "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory"
+}

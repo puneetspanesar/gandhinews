@@ -88,10 +88,6 @@ By November 13, **15 countries had confirmed**. Those named include China, Kazak
 
 Pakistan's Minister for National Heritage and Culture, Aurangzeb Khan Khichi, was among those invited. In the reports we read, Islamabad had **not said who would lead its delegation**. If a Pakistani minister attends, it would be the first visit to India by one since the SCO foreign ministers' meeting in Goa in May 2023, and the first since the four-day conflict of May 2025. Pakistan took over the SCO's rotating chair on September 1, 2026, and is due to host the leaders' summit in Islamabad in August 2027.
 
-```photo
-{"n":1,"subject":"Purana Qila","caption":"Purana Qila in Delhi, the 16th-century fort that hosts the three-day forum.","alt":"Purana Qila, New Delhi"}
-```
-
 ## Why India is hosting it
 
 Modi proposed the idea at the SCO leaders' summit in Tianjin, China, in September 2025, and the grouping adopted it. India calls it a flagship initiative of its own. On **October 20**, Defence Minister Rajnath Singh told the SCO Council of Heads of Government in Dushanbe that India would host the first forum by the end of the year. We reported that meeting [here](/en/news/rajnath-sco-dushanbe-no-double-standards-terrorism).

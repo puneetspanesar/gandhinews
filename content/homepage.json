@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
+      "modi-sco-civilisational-dialogue-forum-purana-qila"
     ],
     "live": {
       "title": {
@@ -29,6 +29,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Modi to open first SCO Civilisational Dialogue Forum at Purana Qila on Friday",
+          "hi": "मोदी शुक्रवार को पुराना किला में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे"
+        }
+      },
       {
         "link": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "lead": {
@@ -85,28 +96,6 @@
         }
       },
       {
-        "link": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court issues contempt notice to advocate Pravin Singhal over 'you don't deserve that chair' remark to CJI",
-          "hi": "सीजेआई से \"आप उस कुर्सी के लायक नहीं\" कहने पर सुप्रीम कोर्ट ने वकील प्रवीण सिंघल को अवमानना का नोटिस दिया"
-        }
-      },
-      {
-        "link": "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "Maharashtra offers up to ₹1.5 lakh for tips on weapons looted by Naxals, and clears a Palghar court and textile relief",
-          "hi": "महाराष्ट्र: नक्सलियों के लूटे हथियारों की सूचना पर ₹1.5 लाख तक इनाम, पालघर को जिला अदालत और कपड़ा नीति में राहत"
-        }
-      },
-      {
         "link": "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
         "lead": {
           "en": "Defence:",
@@ -115,6 +104,17 @@
         "text": {
           "en": "The India-Japan 2+2 explained: what four ministers in one room can actually decide, and what to watch in Tokyo",
           "hi": "भारत-जापान 2+2 क्या है: एक मेज़ पर चार मंत्री क्या तय कर सकते हैं, और टोक्यो में किस पर नज़र रखें"
+        }
+      },
+      {
+        "link": "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "The Akvan track has moved north, so evacuation must follow the hillsides and the flood plain, not the forecast line",
+          "hi": "अकवान का रास्ता उत्तर की ओर खिसका है, इसलिए निकासी पूर्वानुमान की रेखा से नहीं, पहाड़ी ढलानों और निचले इलाकों से तय हो"
         }
       }
     ]
@@ -182,18 +182,17 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+      "id": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "also": []
     },
     "list": [
+      "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
       "air-india-crash-probe-final-stages-supreme-court",
       "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
       "tara-gas-navig8-messi-indian-seafarers-hormuz",
-      "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-      "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone"
+      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
     ],
     "also": [
-      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
       "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
     ]
   },
@@ -368,11 +367,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "air-india-crash-probe-final-stages-supreme-court",
         "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
-        "india-bloc-48-questions-election-commission-supreme-court-sir"
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
       ],
-      "lead": "air-india-crash-probe-final-stages-supreme-court"
+      "lead": "modi-sco-civilisational-dialogue-forum-purana-qila"
     },
     {
       "section": "economy",
@@ -463,15 +462,16 @@
       "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
     },
     {
-      "icon": "calendar-check",
+      "icon": "calendar-blank",
       "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
       "text": {
-        "en": "Counting: Rajasthan panchayat elections (panchayat samiti and zila parishad members, sarpanch and ward panch)",
-        "hi": "मतगणना: राजस्थान पंचायत चुनाव (पंचायत समिति और जिला परिषद सदस्य, सरपंच और वार्ड पंच)"
-      }
+        "en": "Modi inaugurates the first SCO Civilisational Dialogue Forum at Purana Qila, Delhi (to November 22)",
+        "hi": "मोदी पुराना किला, दिल्ली में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे (22 नवंबर तक)"
+      },
+      "link": "modi-sco-civilisational-dialogue-forum-purana-qila"
     }
   ],
   "headlineHistory": [
@@ -574,23 +574,24 @@
       ]
     },
     {
-      "at": "2026-11-19T20:35:48+05:30",
+      "at": "2026-11-19T20:52:15+05:30",
       "ids": [
         "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
         "air-india-crash-probe-final-stages-supreme-court",
         "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
         "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today"
+    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+    "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
   ],
   "mustReadEn": 8
 }

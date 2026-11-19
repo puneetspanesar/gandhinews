@@ -103,10 +103,6 @@ Japan's Self-Defense Forces will use an Indian firing range for the first time i
 
 Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar sat down with Japan's Defense Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi. Japan's foreign ministry says **the meeting ran 90 minutes, from 2:40 pm to 4:10 pm**, and that a joint statement was issued afterwards. Koizumi wrote on X that "we agreed that next year, the Self-Defense Forces will use an Indian firing range for the first time."
 
-```photo
-{"n":1,"subject":"Shinjiro Koizumi","caption":"Japan's Defense Minister Shinjiro Koizumi, who co-chaired the 2+2 for Tokyo and called the firing-range plan a major step.","alt":"Japan's Defense Minister Shinjiro Koizumi"}
-```
-
 ## What the joint statement says
 
 The statement, published by Japan's foreign ministry, runs to 20 paragraphs. Its defence and industry commitments are the most concrete part.
@@ -122,10 +118,6 @@ Singh, in his bilateral meeting with Koizumi earlier in the day, asked for "join
 ## Economic security and terrorism
 
 The statement voices "grave concern" over **economic coercion, including arbitrary export restrictions** and non-market practices that cause overcapacity. It names no country. Jaishankar spoke of the "weaponisation" of resources, connectivity and supply chains. The two governments commit to project-based cooperation in semiconductors, critical minerals, ICT, clean energy and pharmaceuticals, following the Joint Declaration on Economic Security Cooperation adopted at the 16th Annual Summit in July.
-
-```photo
-{"n":2,"subject":"S. Jaishankar","caption":"External Affairs Minister S. Jaishankar, who raised the weaponisation of supply chains at the Tokyo meeting.","alt":"External Affairs Minister S. Jaishankar"}
-```
 
 On terrorism, the ministers **strongly condemned terrorism in all forms, including cross-border terrorism**, and called for action against UN-listed groups, naming Al Qaeda, ISIS/Daesh, Lashkar-e-Tayyiba and Jaish-e-Mohammad and their proxies. They asked for safe havens to be removed, terror financing cut and cross-border movement of terrorists stopped.
 
