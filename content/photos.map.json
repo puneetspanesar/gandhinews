@@ -30138,7 +30138,7 @@
     "src800": "/photos/c-hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties-hi-640.jpg"
    }
   },
-  "notile": true
+  "notile": "Moscow refinery fire: not a scene tile for other stories"
  },
  "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties--bg": {
   "id": "v-hpcl-visakhapatnam-refinery-blast-fire-doused-no-casual-bg",
@@ -51625,13 +51625,13 @@
    "src800": "/photos/t-trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-prepa-640.jpg",
    "cutout": true,
    "with": [
-    "yelets-energia-plant-missile-strike-zelensky-weekly-tally",
-    "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm",
-    "us-midterms-2026-explained-what-is-at-stake"
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s1",
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s2",
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s3"
    ],
    "kind": "portrait",
    "subj": "c0c0c1c1c1c0808",
-   "credit": "Photos: Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons, CC BY-SA 2.0; Alaexis / Wikimedia Commons; State Emergency Service of Ukraine / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+   "credit": "Photos: Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons, CC BY-SA 2.0; N509FZ / Wikimedia Commons; Noclip / Wikimedia Commons"
   }
  },
  "modi-ficci-agm-india-first-quality-gandhi-swadeshi": {
@@ -51659,5 +51659,41 @@
    "subj": "18183878fcfdff",
    "credit": "Photos: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0; Appaiah / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons"
   }
+ },
+ "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s1": {
+  "id": "sc-beijing-cbd",
+  "src": "/photos/sc-beijing-cbd-1280.jpg",
+  "src800": "/photos/sc-beijing-cbd-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: N509FZ / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Beijing central business district skyline (file photo)",
+  "alt_hi": "बीजिंग के केंद्रीय व्यापारिक ज़िले का नज़ारा (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s2": {
+  "id": "sc-us-capitol",
+  "src": "/photos/sc-us-capitol-1280.jpg",
+  "src800": "/photos/sc-us-capitol-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Noclip / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "The US Capitol building (file photo)",
+  "alt_hi": "वॉशिंगटन में अमेरिकी कैपिटल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s3": {
+  "id": "sc-beijing-nbs",
+  "src": "/photos/sc-beijing-nbs-1280.jpg",
+  "src800": "/photos/sc-beijing-nbs-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: N509FZ / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The National Bureau of Statistics of China in Beijing (file photo)",
+  "alt_hi": "बीजिंग में चीन का राष्ट्रीय सांख्यिकी ब्यूरो (फ़ाइल फ़ोटो)",
+  "page": null
  }
 }

@@ -1,12 +1,9 @@
 {
  "run": "hourly-14",
  "start": "2026-11-19T14:04:25+05:30",
- "end": "2026-11-19T14:33:44+05:30",
- "summary": "Modi at FICCI AGM (lead), Trump-Xi-Putin Shenzhen talks",
- "new": [
-  "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-  "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory"
- ],
+ "end": "2026-11-19T14:51:58+05:30",
+ "summary": "Trump-Xi-Putin collage remade",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
