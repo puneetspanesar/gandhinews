@@ -53675,16 +53675,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Tushar_Mehta.jpg"
  },
  {
-  "id": "o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-  "articleId": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Union_Defence_Minister%2C_Shri_Rajnath_Singh%2C_in_New_Delhi_on_February_11%2C_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Rajnath Singh (file photo)",
-  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Union_Defence_Minister,_Shri_Rajnath_Singh,_in_New_Delhi_on_February_11,_2015_(cropped).jpg"
- },
- {
   "id": "o-trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
   "articleId": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53713,5 +53703,25 @@
   "alt": "N. Chandrasekaran (file photo)",
   "alt_hi": "एन. चंद्रशेखरन (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Natarajan_Chandrasekaran_at_WEF,_2011.jpg"
+ },
+ {
+  "id": "o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+  "articleId": "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Union_Defence_Minister%2C_Shri_Rajnath_Singh%2C_in_New_Delhi_on_February_11%2C_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rajnath Singh (file photo)",
+  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Defence_Minister,_Shri_Rajnath_Singh,_in_New_Delhi_on_February_11,_2015_(cropped).jpg"
+ },
+ {
+  "id": "o-yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+  "articleId": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupender Yadav (file photo)",
+  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg"
  }
 ]
