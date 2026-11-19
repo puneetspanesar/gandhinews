@@ -5,14 +5,16 @@ type: news
 section: world
 format_label: "World / Japan"
 topics: []
-title: "Rajnath Singh and Jaishankar land in Tokyo for the fourth India-Japan 2+2, with defence kit and exercises on the table"
-standfirst: "The defence and foreign ministers of both countries meet in Tokyo this week to set a roadmap for deeper defence cooperation. It is Rajnath Singh's third meeting with Japan's defence minister this year."
+title: "Singh tours a Japanese frigate at Yokosuka with Koizumi as India and Japan ready the fourth 2+2 in Tokyo"
+standfirst: "Defence Minister Rajnath Singh was received with a guard of honour in Tokyo and visited the Yokosuka naval base with Shinjiro Koizumi on Wednesday. The 2+2 with both foreign ministers is due on Thursday, and no joint statement is out yet."
 published: 2026-11-18T08:15:39+05:30
+updated: 2026-11-19T08:20:00+05:30
 location: Tokyo
 keyPoints:
+  - "On Wednesday Singh was given a **guard of honour at Japan's Defence Ministry** and toured the **Mogami-class frigate JS Natori** at the Yokosuka naval base with Koizumi."
   - "Rajnath Singh and S. Jaishankar arrived in Tokyo on **Wednesday, November 18**, for the fourth India-Japan 2+2 dialogue."
+  - "No outcome has been published yet: **the 2+2 is due on Thursday, November 19**, and the joint statement will follow it."
   - "The agenda covers **defence equipment and technology, maritime security** and larger joint exercises across all three services."
-  - "Singh and Japan's Shinjiro Koizumi meet for the **third time this year**, after New Delhi in August and Cebu in October."
 hero:
   need: "Rajnath Singh, with the Tokyo venue or Shinjiro Koizumi"
   suggested_source: "Rajnath Singh"
@@ -33,8 +35,9 @@ infographic:
   stats:
     - {icon: users-three, value: "4", label: "ministers around the table"}
     - {icon: calendar-blank, value: "Nov 18-19", label: "Rajnath Singh's visit to Tokyo"}
+    - {icon: boat, value: "JS Natori", label: "Mogami-class frigate Singh toured at Yokosuka"}
   timeline: [{date: "Nov 2019", text: "First 2+2 meeting", icon: calendar-blank}, {date: "Sep 8, 2022", text: "Second 2+2 held in Tokyo", icon: calendar-blank}, {date: "Aug 2026", text: "Singh and Koizumi meet in New Delhi", icon: calendar-blank}, {date: "Oct 28, 2026", text: "They meet again in Cebu", icon: calendar-blank}, {date: "Nov 18-19, 2026", text: "Fourth 2+2 in Tokyo", icon: calendar-blank}]
-  source: "Ministry of Defence release, November 17, 2026; Japan's foreign ministry"
+  source: "Ministry of Defence release, November 17, 2026; Japan's foreign ministry; reports of November 18"
 sources:
   - title: "Raksha Mantri to attend 4th India-Japan 2+2 Ministerial Dialogue and hold bilateral talks with his Japanese counterpart in Tokyo"
     publisher: "Press Information Bureau, Ministry of Defence"
@@ -61,16 +64,24 @@ sources:
     date: 2026-11-17
     url: "https://www.nationpathindia.com/defence/india-japan-22-defence-dialogue-tokyo-rajnath-jaishankar-november-2026"
     primary: false
+  - title: "Defence Minister Rajnath Singh visits Japan's Yokosuka naval base, tours Mogami-class frigate JS Natori"
+    publisher: "The Tribune"
+    date: 2026-11-18
+    url: "https://www.tribuneindia.com/news/japan-visit/defence-minister-rajnath-singh-visits-japans-yokosuka-naval-base-tours-mogami-class-frigate-js-natori"
+    primary: false
 verification:
   status: approved
   notes:
+    - "Updated 8:20 am IST Nov 19: Yokosuka visit and guard of honour from The Tribune/ANI Nov 18 (read). No joint statement or MEA/MOFA/PIB outcome found as of 8:20 am IST; the 2+2 is still ahead, so this is an update of the pre-meeting story, not an outcome story."
     - "Written 8:15 am IST Nov 18 before any talks were reported. PIB release Nov 17 read in full (no quotes in it). Quotes from Singh's X post via Tribune/ANI and IANS."
     - "Date of the 2+2 itself (Nov 19) from one report (Nation Path); PIB gives only the Nov 18-19 visit. Singh-Koizumi bilateral on Wednesday per Tribune. Written as reported."
     - "2019 and 2022 2+2 facts from Japan's MOFA 2022 statement (read). Third 2+2 date not read; not stated. Japan's PM meeting not reported."
     - "Jaishankar's 19th Foreign Ministers' Strategic Dialogue: Tribune, no date given."
 ---
 
-Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar reached Tokyo on Wednesday, November 18, for the **fourth India-Japan 2+2 ministerial dialogue**, where they will sit down with Japan's Defence Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi to draw up a plan for closer defence cooperation.
+On Wednesday Defence Minister Rajnath Singh was given a **ceremonial guard of honour** at Japan's Defence Ministry in Tokyo, where Shinjiro Koizumi received him, and later went with Koizumi to the **Japan Maritime Self-Defense Force base at Yokosuka** to tour the Mogami-class multi-mission frigate JS Natori. The fourth 2+2 itself, with the foreign ministers, is due on Thursday and **no joint statement has been published**.
+
+Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar had reached Tokyo on Wednesday, November 18, for the **fourth India-Japan 2+2 ministerial dialogue**, where they will sit down with Japan's Defence Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi to draw up a plan for closer defence cooperation.
 
 India's ambassador to Japan, Nagma Mallick, received both ministers. Singh was also met by Lt Gen Norimichi Shirakawa, vice chief of Japan's Joint Staff. The Ministry of Defence says the visit, on **November 18 and 19**, "aims to further deepen bilateral defence ties". The dialogue itself is due on Thursday, November 19, according to reports, and Singh holds a separate bilateral meeting with Koizumi.
 
@@ -85,7 +96,7 @@ The Ministry of Defence's release of November 17 lists a full review of strategi
 
 The release does not name any project, purchase or agreement to be signed. Nothing of that kind should be assumed until the two governments announce it.
 
-Singh, in a post on X before leaving, said India and Japan "share a Special Strategic and Global Partnership rooted in mutual trust" and that he looked forward to "productive discussions".
+At Yokosuka, in a post on X, Singh pointed to the "deep trust and shared commitment of India and Japan" and said growing maritime cooperation supports a free, open and rules-based Indo-Pacific. On the way to the base he wrote that Koizumi was "playing the perfect host!". Before leaving Delhi, Singh, said India and Japan "share a Special Strategic and Global Partnership rooted in mutual trust" and that he looked forward to "productive discussions".
 
 
 ## Third meeting of the year
@@ -108,4 +119,4 @@ India and Japan now talk at both foreign and defence minister level, and the top
 
 ## What happens next
 
-Singh and Koizumi meet on Wednesday and the 2+2 follows on Thursday. The ministers' joint statement, and any announcement on new exercises or equipment projects, will show whether the "roadmap" in the Ministry of Defence's release carries dates and named programmes. Gandhi News will update this report once the statement is out.
+Singh and Koizumi have met on Wednesday, and no readout of their bilateral talks has been published; the 2+2 follows on Thursday, November 19. Singh and Jaishankar co-chair it for India, and Koizumi and Motegi for Japan. The ministers' joint statement, and any announcement on new exercises or equipment projects, will show whether the "roadmap" in the Ministry of Defence's release carries dates and named programmes. Gandhi News will update this report once the statement is out.
