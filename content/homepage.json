@@ -16,7 +16,9 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+    ],
     "relatedBeside": [
       "tara-gas-navig8-messi-indian-seafarers-hormuz"
     ],
@@ -38,17 +40,6 @@
         "text": {
           "en": "Indian seafarer missing after Tara Gas hit twice off Hormuz; crude tanker Navig8 Messi struck, three Indians safe",
           "hi": "होर्मुज के पास तारा गैस पर दो हमले, एक भारतीय नाविक लापता; कच्चे तेल के टैंकर नैविग8 मेसी पर हमला, तीनों भारतीय सुरक्षित"
-        }
-      },
-      {
-        "link": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-        "lead": {
-          "en": "Budget:",
-          "hi": "बजट:"
-        },
-        "text": {
-          "en": "Sitharaman meets capital market, banks and insurers today as Budget 2027-28 talks enter a third day",
-          "hi": "बजट 2027-28: सीतारमण आज पूंजी बाजार, बैंक और बीमा क्षेत्र से मिलेंगी, बजट-पूर्व बातचीत का तीसरा दिन"
         }
       },
       {
@@ -85,14 +76,14 @@
         }
       },
       {
-        "link": "goyal-india-1000-more-aircraft-order-2000-needed",
+        "link": "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
         "lead": {
-          "en": "Aviation:",
-          "hi": "विमानन:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "India is ready to order 1,000 more aircraft on top of 1,200 already booked, says Goyal, as the country needs more than 2,000 planes",
-          "hi": "1,200 से ज्यादा विमानों के ऑर्डर के बाद भारत 1,000 और विमान मंगाने को तैयार, गोयल बोले देश को 2,000 से ज्यादा विमान चाहिए"
+          "en": "The Akvan track has moved north, so evacuation must follow the hillsides and the flood plain, not the forecast line",
+          "hi": "अकवान का रास्ता उत्तर की ओर खिसका है, इसलिए निकासी पूर्वानुमान की रेखा से नहीं, पहाड़ी ढलानों और निचले इलाकों से तय हो"
         }
       }
     ]
@@ -160,22 +151,21 @@
   },
   "topStories": {
     "big": {
-      "id": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+      "id": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
       "also": []
     },
     "list": [
-      "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
       "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
       "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-      "goyal-india-1000-more-aircraft-order-2000-needed"
+      "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
     ],
     "also": []
   },
   "startHere": [
+    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
     "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
     "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings",
-    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-    "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left"
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b"
   ],
   "trackers": [
     {
@@ -245,9 +235,9 @@
   },
   "factCheck": {
     "cards": [
+      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
       "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
-      "modi-tribals-full-rights-over-bamboo-claim",
-      "kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim"
+      "modi-tribals-full-rights-over-bamboo-claim"
     ]
   },
   "explained": [
@@ -328,11 +318,11 @@
     }
   ],
   "opinion": [
+    "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
     "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
     "punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-quality-check",
     "tamil-nadu-governor-report-on-law-and-order-must-be-made-public",
-    "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-    "rajasthan-9321-crore-drought-package-needs-breakdown-and-payment-dates"
+    "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval"
   ],
   "sections": [
     {
@@ -350,7 +340,7 @@
     },
     {
       "section": "economy",
-      "lead": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+      "lead": "goyal-india-1000-more-aircraft-order-2000-needed",
       "module": {
         "type": "markets",
         "indicators": [
@@ -361,9 +351,9 @@
         ]
       },
       "list": [
-        "goyal-india-1000-more-aircraft-order-2000-needed",
         "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-        "wpi-inflation-october-2026"
+        "wpi-inflation-october-2026",
+        "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
       ]
     },
     {
@@ -427,8 +417,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "First Test, New Zealand v India, Basin Reserve, Wellington, 3:30 am IST",
@@ -439,8 +429,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Trump and Xi expected to meet in Shenzhen at APEC; US-China trade truce and critical minerals on the table",
@@ -451,8 +441,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 20",
-        "hi": "20 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "UN World Children's Day, the date India observed Children's Day before 1964",
@@ -463,8 +453,8 @@
     {
       "icon": "calendar-check",
       "date": {
-        "en": "Nov 20",
-        "hi": "20 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Counting: Rajasthan panchayat elections (panchayat samiti and zila parishad members, sarpanch and ward panch)",
@@ -473,40 +463,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-17T08:57:33+05:30",
-      "ids": [
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
-      ]
-    },
-    {
-      "at": "2026-11-17T09:17:24+05:30",
-      "ids": [
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "rajasthan-ganganagar-railway-track-blast-arrests"
-      ]
-    },
     {
       "at": "2026-11-17T18:38:52+05:30",
       "ids": [
@@ -584,9 +540,37 @@
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
         "goyal-india-1000-more-aircraft-order-2000-needed"
       ]
+    },
+    {
+      "at": "2026-11-19T06:56:04+05:30",
+      "ids": [
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+        "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      ]
+    },
+    {
+      "at": "2026-11-19T07:14:09+05:30",
+      "ids": [
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      ]
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+    "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
+    "winter-session-first-week-december-delimitation-womens-quota-bill"
+  ],
   "mustReadEn": 8
 }
