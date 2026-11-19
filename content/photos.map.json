@@ -50703,13 +50703,26 @@
   "src": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-1280.jpg",
   "src800": "/photos/o-noel-tata-tata-sons-listing-change-tata-way-philanthropy-640.jpg",
   "width": 1280,
-  "height": 853,
+  "height": 1163,
   "srcWidth": 1101,
   "credit": "Photo: World Economic Forum / Wikimedia Commons",
   "licence": "CC BY-SA 2.0",
   "alt": "N. Chandrasekaran (file photo)",
   "alt_hi": "एन. चंद्रशेखरन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Natarajan_Chandrasekaran_at_WEF,_2011.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Natarajan_Chandrasekaran_at_WEF,_2011.jpg",
+  "treated": {
+   "src": "/photos/t-noel-tata-tata-sons-listing-change-tata-way-philanthropy-1280.jpg",
+   "src800": "/photos/t-noel-tata-tata-sons-listing-change-tata-way-philanthropy-640.jpg",
+   "cutout": true,
+   "with": [
+    "wpi-inflation-october-data-due-monday-rbi-december",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets",
+    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus"
+   ],
+   "kind": "photo",
+   "subj": "30787e7e7c7c3c",
+   "credit": "Photos: World Economic Forum / Wikimedia Commons; Sailko / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Gppande / Wikimedia Commons"
+  }
  },
  "us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first": {
   "id": "o-us-third-carrier-roosevelt-gulf-iran-gharibabadi-not-wait-strike-first",

@@ -25,7 +25,7 @@ related: [sitharaman-tata-critical-component-settle-amicably-investors, tata-ste
 upcoming: {date: 2026-11-26, en: "Tata Sons board meets with the RBI listing requirement on the table", hi: "टाटा संस बोर्ड की बैठक, आरबीआई की लिस्टिंग शर्त एजेंडे पर"}
 seo:
   title: "RBI tells Tata Sons to list; board meets November 26"
-  description: "The RBI told Tata Sons on November 16, 2026 to comply with upper-layer NBFC rules, including listing. The board takes up a compliance plan on November 26 as Tata Trusts resist."
+  description: "The RBI told Tata Sons on November 16, 2026, to comply with upper-layer NBFC rules, including listing. The board takes up a compliance plan on November 26 as Tata Trusts resist."
 infographic:
   kicker: "Tata Sons listing"
   headline: "RBI puts the listing rule in writing"
@@ -109,10 +109,6 @@ Tata Sons' management reportedly holds that listing can no longer be delayed bec
 That plan would **merge Tata Electronics Systems Solutions and Tata Consulting Engineers into Tata Sons**, bringing operating businesses into the holding company and changing its regulatory profile so that it stays unlisted. It needs the approval of the Tata Sons board and an RBI no-objection. Noel Tata is reportedly backed by trustees Neville Tata and Bhaskar Bhat in wanting the board to challenge the RBI's September order. Tata Trusts are reportedly due to meet on November 20 to revisit their stand.
 
 On November 14, Noel Tata said at a leadership summit in New Delhi that "listing, which is what some people are proposing, will change the Tata way". He warned that **with 30,000 to 40,000 shareholders**, "profit may take precedence over philanthropy", and said the Trusts would "play a constructive role with regulators and others".
-
-```photo
-{"n":1,"subject":"Noel Tata","caption":"Noel Tata, chairman of Tata Trusts, which holds about 66% of Tata Sons and opposes a listing.","alt":"Tata Trusts chairman Noel Tata"}
-```
 
 ## The Shapoorji Pallonji question
 

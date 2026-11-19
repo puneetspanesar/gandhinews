@@ -1,0 +1,28 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-19T17:03:51+05:30",
+ "end": "2026-11-19T17:38:49+05:30",
+ "summary": "Akvan updated, markets close, Tata update held",
+ "new": [],
+ "held": [
+  "noel-tata-tata-sons-listing-change-tata-way-philanthropy"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+   "kind": "picture",
+   "why": "Main picture of N. Chandrasekaran is an extreme close-up: the face fills the frame, the chin is cut off and he is caught mid-word with his mouth open. Reads as a badly cropped face, not a clean portrait.",
+   "fix": "Use a wider, properly framed portrait of Chandrasekaran (or Noel Tata) with the whole head and shoulders in view and a neutral expression; try the library, quick_photo.py and the finder again."
+  },
+  {
+   "id": "noel-tata-tata-sons-listing-change-tata-way-philanthropy",
+   "kind": "other",
+   "why": "The timeline block uses abbreviated dates ('Sept 2022', 'Mar 2024', 'Sept 11, 2026', 'Nov 14, 2026', 'Nov 16, 2026', 'Nov 26, 2026') against the rule that English dates are written in full, as 'November 5, 2026'. The Hindi twin is fine.",
+   "fix": "Write the timeline dates in full: September 2022, March 2024, September 11, 2026, September 17, 2026, November 14, 2026, November 16, 2026, November 26, 2026."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "modi-ficci-agm-india-first-quality-gandhi-swadeshi"
+}

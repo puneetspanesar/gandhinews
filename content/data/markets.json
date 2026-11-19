@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-19T12:00:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-19T17:20:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-19",
   "chart": "nifty-50",
   "indices": [
@@ -8,14 +8,10 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82453.6,
-      "change": 421.79,
-      "pct": 0.51,
+      "value": 83021.75,
+      "change": 989.94,
+      "pct": 1.21,
       "history": [
-        {
-          "date": "2026-10-01",
-          "close": 71909.7
-        },
         {
           "date": "2026-10-05",
           "close": 72382.47
@@ -131,22 +127,22 @@
         {
           "date": "2026-11-18",
           "close": 82031.81
+        },
+        {
+          "date": "2026-11-19",
+          "close": 83021.75
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25354.65,
-      "change": 126.7,
-      "pct": 0.5,
+      "value": 25514.3,
+      "change": 286.35,
+      "pct": 1.14,
       "history": [
-        {
-          "date": "2026-10-05",
-          "close": 22555.75
-        },
         {
           "date": "2026-10-06",
           "close": 22776.1
@@ -262,32 +258,40 @@
         {
           "date": "2026-11-18",
           "close": 25227.95
+        },
+        {
+          "date": "2026-11-19",
+          "close": 25514.3
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
     },
     {
       "id": "nifty-bank",
       "name": "Nifty Bank",
       "name_hi": "निफ्टी बैंक",
-      "value": 56867.8,
-      "change": 954.2,
-      "pct": 1.71,
+      "value": 63063.0,
+      "change": 1023.65,
+      "pct": 1.65,
       "history": [
         {
           "date": "2026-11-04",
           "close": 55913.6
+        },
+        {
+          "date": "2026-11-19",
+          "close": 63063.0
         }
       ],
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-5-2026-bse-sensex-nse-nifty-crude-oil-price-fii-enn26110501035"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
     },
     {
       "id": "nifty-midcap-100",
       "name": "Nifty Midcap 100",
       "name_hi": "निफ्टी मिडकैप 100",
-      "value": 61265.95,
-      "change": 286.6,
-      "pct": 0.47,
+      "value": 61620.0,
+      "change": 640.65,
+      "pct": 1.05,
       "history": [
         {
           "date": "2026-11-04",
@@ -304,17 +308,21 @@
         {
           "date": "2026-11-18",
           "close": 60979.35
+        },
+        {
+          "date": "2026-11-19",
+          "close": 61620.0
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
     },
     {
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 15.56,
-      "change": 0.04,
-      "pct": 0.27,
+      "value": 15.9,
+      "change": 0.34,
+      "pct": 2.12,
       "history": [
         {
           "date": "2026-11-04",
@@ -327,9 +335,13 @@
         {
           "date": "2026-11-18",
           "close": 15.56
+        },
+        {
+          "date": "2026-11-19",
+          "close": 15.9
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
     }
   ],
   "rates": [
@@ -350,11 +362,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 91.91,
-      "change": -0.04,
-      "pct": -0.04,
+      "value": 89.76,
+      "change": -2.19,
+      "pct": -2.38,
       "decimals": 2,
-      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-19-sensex-nifty50-crude-oil-prices-fii-buying-enn26111901178"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
     },
     {
       "id": "gold",
@@ -396,93 +408,103 @@
   "movers": {
     "gainers": [
       {
-        "name": "SBI",
-        "pct": 2.38
+        "name": "Maruti Suzuki",
+        "pct": 7.3
       },
       {
-        "name": "Cipla",
-        "pct": 2.09
+        "name": "Mahindra & Mahindra",
+        "pct": 4.66
       },
       {
-        "name": "Tata Consumer Products",
-        "pct": 1.66
+        "name": "Eicher Motors",
+        "pct": 4.62
       },
       {
-        "name": "Apollo Hospitals",
-        "pct": 1.25
+        "name": "Hindustan Unilever",
+        "pct": 3.75
       },
       {
-        "name": "ITC",
-        "pct": 1.13
+        "name": "Tata Motors PV",
+        "pct": 3.74
       }
     ],
     "losers": [
       {
-        "name": "Titan Company",
-        "pct": -5.3
+        "name": "Infosys",
+        "pct": -1.52
       },
       {
-        "name": "HDFC Life",
-        "pct": -3.29
+        "name": "Tech Mahindra",
+        "pct": -1.43
       },
       {
-        "name": "Hindalco",
-        "pct": -2.99
+        "name": "TCS",
+        "pct": -1.42
       },
       {
-        "name": "BSE",
-        "pct": -2.83
+        "name": "HCLTech",
+        "pct": -1.21
       },
       {
-        "name": "Tata Motors PV",
-        "pct": -2.57
+        "name": "Apollo Hospitals",
+        "pct": -1.03
       }
     ],
-    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/"
+    "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
   },
   "sectors": [
     {
-      "name": "PSU Bank",
-      "name_hi": "पीएसयू बैंक",
-      "pct": 0.59
-    },
-    {
-      "name": "Media",
-      "name_hi": "मीडिया",
-      "pct": 0.46
-    },
-    {
-      "name": "Pharma",
-      "name_hi": "फार्मा",
-      "pct": 0.15
-    },
-    {
-      "name": "Realty",
-      "name_hi": "रियल्टी",
-      "pct": -0.85
-    },
-    {
-      "name": "IT",
-      "name_hi": "आईटी",
-      "pct": -1.24
-    },
-    {
       "name": "Auto",
       "name_hi": "ऑटो",
-      "pct": -1.35
+      "pct": 4.4
+    },
+    {
+      "name": "PSU Bank",
+      "name_hi": "पीएसयू बैंक",
+      "pct": 2.28
+    },
+    {
+      "name": "FMCG",
+      "name_hi": "एफएमसीजी",
+      "pct": 2.08
+    },
+    {
+      "name": "Private Bank",
+      "name_hi": "प्राइवेट बैंक",
+      "pct": 1.39
+    },
+    {
+      "name": "Energy",
+      "name_hi": "एनर्जी",
+      "pct": 1.14
     },
     {
       "name": "Metal",
       "name_hi": "मेटल",
-      "pct": -2.46
+      "pct": 0.64
     },
     {
-      "name": "Consumer Durables",
-      "name_hi": "कंज्यूमर ड्यूरेबल्स",
-      "pct": -3.13
+      "name": "Pharma",
+      "name_hi": "फार्मा",
+      "pct": 0.62
+    },
+    {
+      "name": "Realty",
+      "name_hi": "रियल्टी",
+      "pct": 0.45
+    },
+    {
+      "name": "Media",
+      "name_hi": "मीडिया",
+      "pct": -0.06
+    },
+    {
+      "name": "IT",
+      "name_hi": "आईटी",
+      "pct": -1.1
     }
   ],
-  "sectors_source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/",
+  "sectors_source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html",
   "flows": {
     "date": "2026-11-11",
     "fii": 12563.33,
@@ -524,7 +546,8 @@
     "17 Nov 14:25 IST (stall-14): Sensex 82,832.31 (+0.89%, delayed BSE quote 2:10 pm IST) and Nifty 50 25,456.65 (+0.65%) from the MarketScreener quote header read this run; change worked out against the Nov 16 closes. Brent 91.65 (-0.88%) in early trade (Dainik Jagran English, 12:48 pm). Nifty Bank, Midcap, VIX, rupee, gold, silver, yield, movers, sectors and flows keep earlier values (no dated Nov 17 figure read; Business Standard and Kotak Neo pages failed to load).",
     "17 Nov 18:25 IST (hourly-18): Sensex close 82,532.19 (+427.40, +0.52%) and Nifty 50 close 25,387.40 (+96.30, +0.38%), Nifty 50 top gainers and losers, from the HDFC Sky closing report (4:11 pm) cross-checked with Kotak Neo (4:09 pm); closes appended to history. Nifty Bank, Midcap 100 level, VIX, rupee and sectors not found in sources read this run: kept at earlier values.",
     "18 Nov 18:30 IST (stall-18): Sensex close 82,031.81 (-500.38, -0.61%), Nifty 50 25,227.95 (-159.45, -0.63%), Nifty 50 gainers and losers from the HDFC Sky closing report (4:35 pm), matching Upstox (4:02 pm); Midcap 100 60,979.35 (-1.22%), India VIX 15.56 (+0.27%) and sectors from Upstox; changes for Midcap and VIX worked out from the printed % ; closes appended to history. Nifty Bank, rupee, Brent, gold, silver, yield and flows not in sources read this run: kept.",
-    "19 Nov 12:20 IST (stall-12): Sensex 82,453.60 (+421.79, +0.51%) and Nifty 50 25,354.65 (+126.70, +0.5%) at 12:00 pm, Nifty Midcap 100 +0.47% at 11:11 am (level worked out from the Nov 18 close) from the Business Standard live blog; Brent $91.91 (-0.04%) from ETV Bharat (10:15 am). Nifty Bank hit a new high of 62,626.45 at 11:51 am but no previous close read, so kept. VIX, rupee, gold, silver, yield, movers with %, sectors kept from Nov 18 (not in sources read). Nov 18 FII buying Rs 5,866.78 crore read but no DII figure, so flows keep Nov 11."
+    "19 Nov 12:20 IST (stall-12): Sensex 82,453.60 (+421.79, +0.51%) and Nifty 50 25,354.65 (+126.70, +0.5%) at 12:00 pm, Nifty Midcap 100 +0.47% at 11:11 am (level worked out from the Nov 18 close) from the Business Standard live blog; Brent $91.91 (-0.04%) from ETV Bharat (10:15 am). Nifty Bank hit a new high of 62,626.45 at 11:51 am but no previous close read, so kept. VIX, rupee, gold, silver, yield, movers with %, sectors kept from Nov 18 (not in sources read). Nov 18 FII buying Rs 5,866.78 crore read but no DII figure, so flows keep Nov 11.",
+    "19 Nov 17:20 IST: closing values from the post-market report (Sensex 83,021.75, Nifty 25,514.30); Bank Nifty history had no closes Nov 5 to Nov 18. Rupee, gold, silver, 10-year yield and FII/DII flows kept (no matching figure read this run)."
   ],
   "holidays": [
     "2026-11-10"
