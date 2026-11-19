@@ -96,7 +96,7 @@ The Ministry of Defence's release of November 17 lists a full review of strategi
 
 The release does not name any project, purchase or agreement to be signed. Nothing of that kind should be assumed until the two governments announce it.
 
-At Yokosuka, in a post on X, Singh pointed to the "deep trust and shared commitment of India and Japan" and said growing maritime cooperation supports a free, open and rules-based Indo-Pacific. On the way to the base he wrote that Koizumi was "playing the perfect host!". Before leaving Delhi, Singh, said India and Japan "share a Special Strategic and Global Partnership rooted in mutual trust" and that he looked forward to "productive discussions".
+At Yokosuka, in a post on X, Singh pointed to the "deep trust and shared commitment of India and Japan" and said growing maritime cooperation supports a free, open and rules-based Indo-Pacific. On the way to the base he wrote that Koizumi was "playing the perfect host!". Before leaving Delhi, Singh said India and Japan "share a Special Strategic and Global Partnership rooted in mutual trust" and that he looked forward to "productive discussions".
 
 
 ## Third meeting of the year

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+    "id": "air-india-crash-probe-final-stages-supreme-court",
     "overlay": {
       "kicker": {
-        "en": "States / Jammu and Kashmir",
-        "hi": "राज्य / जम्मू-कश्मीर"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "Shah: Lashkar's last local in Valley killed",
-        "hi": "शाह: घाटी में लश्कर का आखिरी स्थानीय ढेर"
+        "en": "'Fag end of the investigation'",
+        "hi": "'जांच अंतिम चरण में'"
       },
       "text": {
         "en": "",
@@ -17,20 +17,33 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+      "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+      "obc-creamy-layer-explained-parents-salary-supreme-court"
     ],
     "relatedBeside": [
-      "tara-gas-navig8-messi-indian-seafarers-hormuz"
+      "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference"
     ],
     "live": {
       "title": {
-        "en": "Jammu and Kashmir",
-        "hi": "जम्मू-कश्मीर"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+        "lead": {
+          "en": "Jammu and Kashmir:",
+          "hi": "जम्मू-कश्मीर:"
+        },
+        "text": {
+          "en": "Lashkar's Latif Bhat killed in Kulgam; Amit Shah calls him the group's last known active local terrorist in the Valley",
+          "hi": "कुलगाम में लश्कर का लतीफ भट ढेर; अमित शाह बोले, घाटी में संगठन का आखिरी सक्रिय स्थानीय आतंकी"
+        }
+      },
       {
         "link": "tara-gas-navig8-messi-indian-seafarers-hormuz",
         "lead": {
@@ -71,8 +84,8 @@
           "hi": "जापान:"
         },
         "text": {
-          "en": "Rajnath Singh and Jaishankar land in Tokyo for the fourth India-Japan 2+2, with defence kit and exercises on the table",
-          "hi": "राजनाथ सिंह और जयशंकर चौथे भारत-जापान 2+2 के लिए टोक्यो पहुंचे, रक्षा उपकरण और अभ्यास एजेंडे में"
+          "en": "Singh tours a Japanese frigate at Yokosuka with Koizumi as India and Japan ready the fourth 2+2 in Tokyo",
+          "hi": "भारत-जापान चौथी 2+2 की तैयारी: सिंह ने कोइजुमी के साथ योकोसुका में जापानी युद्धपोत देखा"
         }
       },
       {
@@ -151,10 +164,11 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+      "id": "tara-gas-navig8-messi-indian-seafarers-hormuz",
       "also": []
     },
     "list": [
+      "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
       "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
       "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
       "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
@@ -332,11 +346,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
         "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
-        "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "amit-shah-pune-rahul-gandhi-bharat-summit-defaming-india"
+        "india-bloc-48-questions-election-commission-supreme-court-sir"
       ],
-      "lead": "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
+      "lead": "air-india-crash-probe-final-stages-supreme-court"
     },
     {
       "section": "economy",
@@ -464,23 +478,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-17T18:38:52+05:30",
-      "ids": [
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-        "digital-arrest-scam-explained-supreme-court-banks-whatsapp",
-        "goyal-india-1000-more-aircraft-order-2000-needed",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains",
-        "india-bloc-48-questions-election-commission-supreme-court-sir",
-        "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "wpi-inflation-october-2026",
-        "perseverance-mars-complex-organic-carbon-bright-angel"
-      ]
-    },
-    {
       "at": "2026-11-18T08:41:23+05:30",
       "ids": [
         "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
@@ -558,6 +555,21 @@
       "ids": [
         "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+        "tara-gas-navig8-messi-indian-seafarers-hormuz",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
+        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      ]
+    },
+    {
+      "at": "2026-11-19T08:39:48+05:30",
+      "ids": [
+        "air-india-crash-probe-final-stages-supreme-court",
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+        "obc-creamy-layer-explained-parents-salary-supreme-court",
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
         "tara-gas-navig8-messi-indian-seafarers-hormuz",
         "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
         "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",

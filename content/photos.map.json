@@ -51268,23 +51268,25 @@
   "src": "/photos/o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-1280.jpg",
   "src800": "/photos/o-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 1035,
-  "credit": "Photo: U.S. Secretary of War / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Defence Minister Rajnath Singh (file photo)",
-  "alt_hi": "रक्षा मंत्री राजनाथ सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:2025_Rajnath_Singh_(cropped).jpg",
+  "height": 852,
+  "srcWidth": 832,
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rajnath Singh (file photo)",
+  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Defence_Minister,_Shri_Rajnath_Singh,_in_New_Delhi_on_February_11,_2015_(cropped).jpg",
   "treated": {
    "src": "/photos/t-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-1280.jpg",
    "src800": "/photos/t-india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi-640.jpg",
    "cutout": true,
    "with": [
-    "typhoon-champi-taiwan-one-dead-350-injured"
+    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers--p2",
+    "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance"
    ],
-   "kind": "portrait",
+   "kind": "photo",
    "subj": "fffff3f3f1e32222",
-   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; CEphoto, Uwe Aranas / Wikimedia Commons"
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; https://www.mod.go.jp/msdf/index.html 海上自衛隊 / Wikimedia Commons; Syced / Wikimedia Commons; Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 / Wikimedia Commons"
   }
  },
  "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone": {
@@ -51591,6 +51593,19 @@
   "licence": "GODL-India",
   "alt": "Tushar Mehta (file photo)",
   "alt_hi": "तुषार मेहता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tushar_Mehta.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Tushar_Mehta.jpg",
+  "treated": {
+   "src": "/photos/t-air-india-crash-probe-final-stages-supreme-court-1280.jpg",
+   "src800": "/photos/t-air-india-crash-probe-final-stages-supreme-court-640.jpg",
+   "cutout": true,
+   "with": [
+    "sc-cases-tracker",
+    "air-india-suspends-riyadh-dammam-flights-november-7",
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--p2"
+   ],
+   "kind": "photo",
+   "subj": "c7e7c7c3e7e3c381",
+   "credit": "Photos: Inter-Pacific Bar Association (IPBA) / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Manishontop02 / Wikimedia Commons; Colin Cooke Photo / Wikimedia Commons"
+  }
  }
 }

@@ -26,7 +26,7 @@ infographic:
   dek: "The Centre asks the Supreme Court for two to three more weeks"
   motif: airplane-tilt
   stats:
-    - {icon: airplane-tilt, value: "260", label: "people died in the June 12, 2025 crash"}
+    - {icon: airplane-tilt, value: "260", label: "people died in the June 12, 2025, crash"}
     - {icon: calendar-blank, value: "2 to 3 weeks", label: "more time sought on November 18"}
   timeline:
     - {date: "Jun 12, 2025", text: "AI171 crashes after take-off from Ahmedabad", icon: airplane-tilt}
