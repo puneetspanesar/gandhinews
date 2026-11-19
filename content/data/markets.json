@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-18T16:35:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-18",
+  "as_of": "2026-11-19T12:00:00+05:30",
+  "status": "open",
+  "session_date": "2026-11-19",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82031.81,
-      "change": -500.38,
-      "pct": -0.61,
+      "value": 82453.6,
+      "change": 421.79,
+      "pct": 0.51,
       "history": [
         {
           "date": "2026-10-01",
@@ -133,15 +133,15 @@
           "close": 82031.81
         }
       ],
-      "source": "https://hdfcsky.com/news/market-close-report-today-november-18-2026-nifty-sensex-decline-after-recent-rally-as-profit-booking-sets-in"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25227.95,
-      "change": -159.45,
-      "pct": -0.63,
+      "value": 25354.65,
+      "change": 126.7,
+      "pct": 0.5,
       "history": [
         {
           "date": "2026-10-05",
@@ -264,7 +264,7 @@
           "close": 25227.95
         }
       ],
-      "source": "https://hdfcsky.com/news/market-close-report-today-november-18-2026-nifty-sensex-decline-after-recent-rally-as-profit-booking-sets-in"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
     },
     {
       "id": "nifty-bank",
@@ -285,9 +285,9 @@
       "id": "nifty-midcap-100",
       "name": "Nifty Midcap 100",
       "name_hi": "निफ्टी मिडकैप 100",
-      "value": 60979.35,
-      "change": -753.14,
-      "pct": -1.22,
+      "value": 61265.95,
+      "change": 286.6,
+      "pct": 0.47,
       "history": [
         {
           "date": "2026-11-04",
@@ -306,7 +306,7 @@
           "close": 60979.35
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
     },
     {
       "id": "india-vix",
@@ -350,11 +350,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 91.65,
-      "change": -0.81,
-      "pct": -0.88,
+      "value": 91.91,
+      "change": -0.04,
+      "pct": -0.04,
       "decimals": 2,
-      "source": "https://english.dainikjagranmpcg.com/business/sensex-gains-over-200-points-nifty-crosses-25340-as-oil/article-44663"
+      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-19-sensex-nifty50-crude-oil-prices-fii-buying-enn26111901178"
     },
     {
       "id": "gold",
@@ -523,7 +523,8 @@
     "16 Nov 14:25 IST (hourly-14): Sensex 81,906.59 (+314.14, +0.39%) and Nifty 50 25,217.00 (+72.70, +0.29%) as of 2:00 pm from the live market blog; other figures keep earlier values.",
     "17 Nov 14:25 IST (stall-14): Sensex 82,832.31 (+0.89%, delayed BSE quote 2:10 pm IST) and Nifty 50 25,456.65 (+0.65%) from the MarketScreener quote header read this run; change worked out against the Nov 16 closes. Brent 91.65 (-0.88%) in early trade (Dainik Jagran English, 12:48 pm). Nifty Bank, Midcap, VIX, rupee, gold, silver, yield, movers, sectors and flows keep earlier values (no dated Nov 17 figure read; Business Standard and Kotak Neo pages failed to load).",
     "17 Nov 18:25 IST (hourly-18): Sensex close 82,532.19 (+427.40, +0.52%) and Nifty 50 close 25,387.40 (+96.30, +0.38%), Nifty 50 top gainers and losers, from the HDFC Sky closing report (4:11 pm) cross-checked with Kotak Neo (4:09 pm); closes appended to history. Nifty Bank, Midcap 100 level, VIX, rupee and sectors not found in sources read this run: kept at earlier values.",
-    "18 Nov 18:30 IST (stall-18): Sensex close 82,031.81 (-500.38, -0.61%), Nifty 50 25,227.95 (-159.45, -0.63%), Nifty 50 gainers and losers from the HDFC Sky closing report (4:35 pm), matching Upstox (4:02 pm); Midcap 100 60,979.35 (-1.22%), India VIX 15.56 (+0.27%) and sectors from Upstox; changes for Midcap and VIX worked out from the printed % ; closes appended to history. Nifty Bank, rupee, Brent, gold, silver, yield and flows not in sources read this run: kept."
+    "18 Nov 18:30 IST (stall-18): Sensex close 82,031.81 (-500.38, -0.61%), Nifty 50 25,227.95 (-159.45, -0.63%), Nifty 50 gainers and losers from the HDFC Sky closing report (4:35 pm), matching Upstox (4:02 pm); Midcap 100 60,979.35 (-1.22%), India VIX 15.56 (+0.27%) and sectors from Upstox; changes for Midcap and VIX worked out from the printed % ; closes appended to history. Nifty Bank, rupee, Brent, gold, silver, yield and flows not in sources read this run: kept.",
+    "19 Nov 12:20 IST (stall-12): Sensex 82,453.60 (+421.79, +0.51%) and Nifty 50 25,354.65 (+126.70, +0.5%) at 12:00 pm, Nifty Midcap 100 +0.47% at 11:11 am (level worked out from the Nov 18 close) from the Business Standard live blog; Brent $91.91 (-0.04%) from ETV Bharat (10:15 am). Nifty Bank hit a new high of 62,626.45 at 11:51 am but no previous close read, so kept. VIX, rupee, gold, silver, yield, movers with %, sectors kept from Nov 18 (not in sources read). Nov 18 FII buying Rs 5,866.78 crore read but no DII figure, so flows keep Nov 11."
   ],
   "holidays": [
     "2026-11-10"
