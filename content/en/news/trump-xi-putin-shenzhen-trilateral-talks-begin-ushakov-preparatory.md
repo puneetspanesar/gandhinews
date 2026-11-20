@@ -5,35 +5,61 @@ type: news
 section: world
 format_label: "World / Diplomacy"
 topics: []
-title: "Trump meets Putin and Xi in Shenzhen as first three-way talks of the nuclear powers begin"
-standfirst: "After separate meetings of about an hour with each leader, the US, Chinese and Russian presidents sat down together at APEC. No agreement has been announced; the Kremlin calls its own session with Trump preparatory."
+title: "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine"
+standfirst: "After about 90 minutes together, the three presidents agreed that a nuclear war cannot be won and promised a dialogue on nuclear risks, UN reform and more refined fuel supply. There is no timetable, no treaty and no Ukraine breakthrough."
 published: 2026-11-19T14:08:00+05:30
+updated: 2026-11-20T08:12:00+05:30
 location: Shenzhen
 keyPoints:
-  - "Trump met Putin for **35 to 40 minutes** and Xi for about an hour before the three leaders began talks together."
-  - "Kremlin aide Yuri Ushakov said the Putin meeting was **preparatory** and made no significant statements."
-  - "Washington wants **China in future arms control talks**; Beijing has shown little interest, and no outcome had been announced by 2 pm IST."
+  - "The three presidents issued a **Declaration Towards Peace**: a nuclear war cannot be won, and the US, China and Russia will hold a dialogue on nuclear risks."
+  - "The text also backs **UN reform** and more refined petroleum supply, and says the ICC must not abuse its jurisdiction; it sets **no date, format or treaty**."
+  - "Putin ruled out direct talks with Ukraine after the Kerch bridge strike, so **no Ukraine breakthrough** came out of Shenzhen."
 hero:
   need: "Donald Trump, Xi Jinping and Vladimir Putin"
   suggested_source: "Donald Trump"
   subjects: ["Donald Trump", "Xi Jinping", "Vladimir Putin"]
   alt: "US President Donald Trump (file photo)"
   overlay:
-    value: "Trump, Xi and Putin sit down in Shenzhen"
+    value: "Shenzhen declaration: no winners in nuclear war"
 infographic:
   kicker: "APEC Shenzhen"
-  headline: "Trump, Xi and Putin hold first three-way talks"
-  dek: "Separate meetings first; no agreement announced yet"
+  headline: "Trump, Xi and Putin issue a peace declaration"
+  dek: "A pledge on nuclear risk and UN reform; no treaty, no Ukraine deal"
   motif: handshake
   stats:
-    - {icon: clock, value: "35-40 min", label: "Trump and Putin, per Kremlin aide Ushakov"}
+    - {icon: clock, value: "About 90 min", label: "first three-way talks of the three leaders"}
     - {icon: calendar, value: "Jan 10, 2027", label: "US-China tariff truce expires"}
-  source: "Kremlin and Chinese state TV accounts, November 19, 2026"
-related: [trump-xi-putin-apec-shenzhen-meeting-china-in-contact, rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral, trump-waives-russia-sanctions-law-india-tariff-threat, iran-hands-us-nuclear-proposal-seven-demands, modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves]
+  source: "Joint declaration as reported, November 19, 2026"
+related: [new-start-explained-trilateral-arms-control-shenzhen-declaration, trump-xi-putin-apec-shenzhen-meeting-china-in-contact, rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral, trump-waives-russia-sanctions-law-india-tariff-threat, iran-hands-us-nuclear-proposal-seven-demands, modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves]
 seo:
-  title: "Trump, Xi and Putin hold first three-way talks in Shenzhen"
-  description: "Trump met Putin and Xi separately at APEC in Shenzhen on November 19 before the first three-way talks of the nuclear powers. No deal announced; India's stakes explained."
+  title: "Trump, Xi, Putin Shenzhen declaration: nuclear risk talks"
+  description: "Trump, Xi and Putin issued a Declaration Towards Peace in Shenzhen on November 19: nuclear risk dialogue, UN reform, no Ukraine deal. What it means for India."
 sources:
+  - title: "Trump, Xi, Putin issue 'Declaration Towards Peace'; call for UN reforms, talks to reduce nuclear risks"
+    publisher: "ThePrint (PTI)"
+    date: 2026-11-19
+    url: "https://theprint.in/world/trump-xi-putin-issue-declaration-towards-peace-call-for-un-reforms-talks-to-reduce-nuclear-risks/3103575/"
+    primary: false
+  - title: "Trump, Xi and Putin sit down for a rare 3-way meeting in China, but appear to achieve little"
+    publisher: "CBS News"
+    date: 2026-11-19
+    url: "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+    primary: false
+  - title: "'No winners in nuclear war': Trump, Xi, Putin pledge dialogue after Shenzhen summit"
+    publisher: "Gulf News"
+    date: 2026-11-19
+    url: "https://gulfnews.com/world/no-winners-in-nuclear-war-trump-xi-putin-pledge-dialogue-after-shenzhen-summit-1.500754333"
+    primary: false
+  - title: "Russia, China, US to hold dialogue on reducing nuclear risks: declaration"
+    publisher: "Sputnik"
+    date: 2026-11-19
+    url: "https://sputnikglobe.com/20261119/russia-china-us-to-hold-dialogue-on-reducing-nuclear-risks---declaration-1125109846.html"
+    primary: false
+  - title: "Ukrainians are not in the room: Dhruva Jaishankar on the Shenzhen trilateral"
+    publisher: "The Tribune (ANI)"
+    date: 2026-11-19
+    url: "https://www.tribuneindia.com/news/world/ukrainians-are-not-in-room-dhruva-jaishankar-casts-doubt-on-outcomes-of-trump-xi-putin-trilateral-talks-in-shenzhen"
+    primary: false
   - title: "Kremlin aide Ushakov delivers remarks on topics, outcomes of meeting between Putin, Trump"
     publisher: "TASS"
     date: 2026-11-19
@@ -44,81 +70,50 @@ sources:
     date: 2026-11-19
     url: "https://tass.com/world/2221029"
     primary: false
-  - title: "Trump meets Putin and Xi as trilateral US, Russia, China talks begin"
-    publisher: "Al Jazeera"
-    date: 2026-11-19
-    url: "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks"
-    primary: false
-  - title: "What do Trump, Putin and Xi want from their Shenzhen meeting?"
-    publisher: "Al Jazeera"
-    date: 2026-11-19
-    url: "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
-    primary: false
-  - title: "Putin leaves meeting with Trump in 'excellent mood' ahead of trilateral with Xi"
-    publisher: "TRT World"
-    date: 2026-11-19
-    url: "https://www.trtworld.com/article/0a24b6c1ac77"
-    primary: false
-  - title: "Trump meets with Xi after sit-down with Putin"
-    publisher: "The Epoch Times"
-    date: 2026-11-19
-    url: "https://www.theepochtimes.com/china/trump-meets-with-xi-after-sit-down-with-putin-6125906"
-    primary: false
-  - title: "Trump-Xi-Putin summit live"
-    publisher: "The Federal"
-    date: 2026-11-19
-    url: "https://thefederal.com/category/international/trump-xi-putin-shenzhen-trilateral-meeting-263369"
-    primary: false
 verification:
   status: approved
   notes:
-    - "Written 2:08 pm IST Nov 19. Ushakov's remarks via TASS (Kremlin aide, primary in effect). Xi-Trump start time (about 5:30 GMT, Qilin Shanzhuang) from Chinese state TV via TASS; TASS has a conflicting 6:30 GMT scheduled start. Trump-Putin end 12:57 pm local from White House pool via TRT World. Epoch Times calls Xi-Trump the fourth bilateral of the second term, TASS and Al Jazeera say third this year; we use third this year. Trilateral start 2:30 pm local (12 noon IST) from the live blog schedule and Al Jazeera saying talks began. No readout of the trilateral found. ICJ Rohingya judgment due 10 am Hague time (2:30 pm IST) was not yet delivered at writing, so APEC chosen. India figures are from the desk's earlier stories (PPAC, Kpler). No Indian government reaction found."
+    - "Updated 8:12 am IST Nov 20. The Kremlin/White House text of the joint declaration could not be opened (kremlin.ru fetch blocked), so the declaration is described from several independent reports quoting the same text (PTI via ThePrint, CBS, Gulf News, Sputnik); phrases are quoted only where two reports agree. Duration: 90 minutes in CBS, PTI and Sputnik; Gulf News says about 70, so we write about 90 minutes. The title 'Declaration Towards Peace' is from PTI. Putin's Kerch bridge remark from CBS. Trump's Friday noon press conference had not happened at writing. Earlier details (Ushakov, 35-40 minute Trump-Putin meeting) from the original Nov 19 report."
 ---
 
-US President Donald Trump met Russian President Vladimir Putin and Chinese President Xi Jinping on Thursday, November 19, in the southern Chinese city of Shenzhen, where **the first three-way talks among the three nuclear powers** began on the sidelines of the APEC summit. By 2 pm IST no agreement or joint statement had been announced, and Kremlin aide Yuri Ushakov described his own leader's session with Trump as a preparatory step.
+US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin ended their first three-way meeting in Shenzhen on Thursday, November 19, with a joint **"Declaration Towards Peace"** saying that a nuclear war cannot be won and must never be fought, and promising a dialogue on reducing nuclear risks. The talks, on the sidelines of the APEC summit, ran about 90 minutes. The text sets no date, format or treaty, and nothing came out of the room on Ukraine or the Iran war.
 
-## Two meetings before the third
+## What the declaration says
 
-Trump saw Putin first. The two spoke for **35 to 40 minutes**, according to Ushakov, who said they covered preparations for the trilateral summit, some aspects of US-Russia relations and the settlement of the Ukraine war, which he agreed was the main subject. The White House press pool put the end of the meeting at 12:57 pm local time (10:27 am IST) and said it ran under an hour. Ushakov called it "a good meeting" and said Putin left in an "excellent" mood, but that neither side made "particularly significant statements".
+According to the text released by the Kremlin and the White House and carried in several reports, the three leaders **reaffirmed "strategic stability and international security"** after what they called a thorough exchange of views. The nuclear paragraph has two parts: that there can be no winners in a nuclear war, and that the three countries "will conduct a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons". The statement does not say when, where or at what level that dialogue will start, and it commits to no new arms treaty. [New START lapsed in February](/en/news/new-start-explained-trilateral-arms-control-shenzhen-declaration), and no successor covers China.
 
-Greeting Putin in front of reporters, Trump said: "I think a lot of wonderful things can come out of this, or at least start." Asked about the Russian leader, he said: "He is my friend." Putin made no comment while the cameras were in the room.
-
-Trump then met Xi at the Qilin Shanzhuang state residence. Chinese state television reported that the talks began at about 5:30 am GMT (11 am IST) and ended after roughly an hour. Opening the session, Trump said: "I'll be asking you to do some more for our farmers," and added that "China has an insatiable appetite." On Iran he said the two countries share an interest in "ensuring that energy flows through the Strait of Hormuz", and on Ukraine, "We're looking to both help with respect to the war with Russia and Ukraine." Xi called relations stable and improving and said he remained committed to keeping them on the correct course.
-
-The trilateral was scheduled for 2:30 pm local time (**12 noon IST**), and the Kremlin expected it to run under an hour. Ushakov called it the most important event ahead. No account of what was said in the room had been released when this report was filed.
+The other lines are less expected. As permanent members of the UN Security Council, the three **committed to reform the UN** "so that it can respond more effectively to global challenges". They said they intend to raise the production and supply of refined petroleum products "for the benefit of all nations". And they stressed state consent and the immunity of state officials, adding that the International Criminal Court and similar bodies "must not abuse their jurisdiction". The ICC issued an arrest warrant for Putin in 2023. The US, China, Russia and India are not members of the court. Reports say the declaration did not mention artificial intelligence, which had been on the agenda.
 
 ```photo
-{"n":1,"subject":"Xi Jinping","caption":"Chinese President Xi Jinping, host of the APEC summit, met Trump for about an hour before the three-way talks.","alt":"Chinese President Xi Jinping"}
+{"n":1,"subject":"Xi Jinping","caption":"Chinese President Xi Jinping, host of the APEC summit, called the meeting a milestone and urged nuclear weapons to be banned and destroyed over time.","alt":"Chinese President Xi Jinping"}
 ```
 
-## What each side brought
+## How the day went
 
-The talks follow a month of signals. The Kremlin said on November 3 that signals about a [three-way meeting](/en/news/trump-xi-putin-apec-shenzhen-meeting-china-in-contact) were being exchanged, Trump said on November 8 that he expected it, and [Secretary of State Marco Rubio and Foreign Minister Wang Yi spoke on November 11](/en/news/rubio-wang-yi-call-trump-china-visit-xi-florida-g20-trilateral) to prepare Trump's visit. Trump landed in Shenzhen on Wednesday, was greeted at the airport by Xi in an unusual gesture, and met Putin at Xi's welcome banquet that evening.
-
-The agenda is crowded. Washington wants **China included in a future arms control framework**, since New START between the US and Russia lapsed in February and Trump declined Russia's offer to extend it. Beijing, whose arsenal is far smaller, has repeatedly resisted nuclear talks with the two larger powers. Proposals for human control over nuclear launch systems and over the use of artificial intelligence in military decisions are also on the table. Ukraine is the Kremlin's priority, with the US-Russia-Ukraine talks in Abu Dhabi on November 10 and 11 as the latest round. Trump also wants Iran discussed; US-Iran talks are deadlocked over the Strait of Hormuz.
-
-Trade runs alongside. US tariffs on Chinese goods peaked at 145% before the truce reached in Busan in October 2025, which has been extended to **January 10, 2027**. US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer met Vice Premier He Lifeng before the summit. Washington is pressing Beijing on farm purchases and rare earth supplies, and chip export curbs are in play, along with allegations of chip diversion involving Nvidia that Beijing rejects.
+The trilateral followed two bilateral meetings, which we reported earlier on November 19. Trump and Putin met for [35 to 40 minutes](/en/news/trump-xi-putin-apec-shenzhen-meeting-china-in-contact), with Kremlin aide Yuri Ushakov calling the session preparatory, and Trump then met Xi for about an hour. Trump had told reporters before the talks: "I think a lot of wonderful things can come out of this, or at least start." He later defended the format, arguing that earlier presidents were wrong to avoid talking to countries they disagree with, and left China without taking questions, saying he would brief the press for noon on Friday.
 
 ```timeline
-{"title":"Shenzhen, November 19","items":[{"date":"Wednesday evening","text":"Xi hosts the welcome banquet; Trump and Putin greet each other"},{"date":"About 10:27 am IST","text":"Trump-Putin meeting ends, after 35 to 40 minutes by the Kremlin's count"},{"date":"About 11 am IST","text":"Trump and Xi begin talks at the Qilin Shanzhuang residence"},{"date":"12 noon IST","text":"Three-way talks scheduled to start; no outcome announced by 2 pm"}]}
+{"title":"Shenzhen, November 19","items":[{"date":"10:27 am IST","text":"Trump-Putin meeting ends, 35 to 40 minutes by the Kremlin's count"},{"date":"About 11 am IST","text":"Trump and Xi begin talks at the Qilin Shanzhuang residence"},{"date":"12 noon IST","text":"Three-way talks begin; about 90 minutes in all"},{"date":"Afternoon","text":"Declaration Towards Peace released by the Kremlin and the White House"}]}
 ```
 
-## Words from the rooms
+## What each leader said
 
-Putin used his APEC speech to say that "constructive partnership with APEC economies is Russia's strategic course" and urged members to use Russia's logistics infrastructure. Russia sent two nuclear-capable Tu-95 bombers to Vietnam before the talks, and Russian state media showed an officer carrying the nuclear command briefcase as Putin landed. Xi announced that China will contribute $20 million to APEC's practical cooperation and said a centre for Asia-Pacific community study will be set up in Shenzhen.
+Xi called the meeting a **"milestone event"**. He asked the three countries, as main victors of the Second World War, to encourage peaceful talks in conflicts and to avoid the Thucydides Trap, and he repeated China's call for nuclear weapons to be fully prohibited and destroyed. Chinese state media described his message on relations with Washington as stable and constructive. Putin called the meeting a historic step and "a new page in the history of diplomacy", but said the aims were not overly ambitious and that no agreement was made to meet regularly. Trump said the three countries are in a unique position to reduce nuclear stockpiles.
 
-Analysts quoted before the talks expected **no major agreements**, given the depth of the differences. Smaller economies have watched the format with unease, worried that their interests could be set aside by the three largest powers. Trump has said the Board of Trade agreed at the May Beijing summit has brought balance to the relationship and that the two countries split tariffs in a "fair way".
+Ukraine was the hardest subject. Putin said the three countries share an interest in ending the war, but afterwards **ruled out direct negotiations with Ukraine**, pointing to a recent Ukrainian strike on the Kerch Strait bridge in Crimea, and said Kyiv and Europe were not yet ready to compromise. Ukrainian President Volodymyr Zelenskyy had warned beforehand against a "new Yalta" in which powers decide security questions without Ukraine. Dhruva Jaishankar of ORF America said the talks were mainly about ending that war and that **"the Ukrainians are not in the room"**, adding that the three leaders are not forming a new bloc, given deep differences between Washington and both Beijing and Moscow. Senator Tim Kaine of the US said he was troubled by the image of Trump standing with Xi and Putin and calling Putin a friend.
+
+No trade deal was announced. Trump asked Xi to do more for American farmers, and the US-China tariff truce runs to **January 10, 2027**. Reports mention proposed tariff cuts on about $30 billion of goods from each side, which neither government has confirmed.
 
 ```photo
-{"n":2,"subject":"Vladimir Putin","caption":"Russian President Vladimir Putin, whose aide called his meeting with Trump a preparatory session.","alt":"Russian President Vladimir Putin"}
+{"n":2,"subject":"Vladimir Putin","caption":"Russian President Vladimir Putin called the meeting a historic step but ruled out direct talks with Ukraine afterwards.","alt":"Russian President Vladimir Putin"}
 ```
 
 ## Why it matters for India
 
-India is not an APEC member and has no seat, but the issues on the table bear on its bills and its security. India spent **$90.6 billion on crude imports** in April to September, 46.3% more than a year earlier, according to the oil ministry's PPAC data. A settlement that [eases the Iran war and reopens Gulf shipping](/en/news/iran-hands-us-nuclear-proposal-seven-demands) would bear directly on that figure.
+India was not in the room, but three lines of the text touch it. The first is **UN Security Council reform**, which India has pushed for years. All three countries now say in writing that they back reform, though the text gives no detail on enlargement or new permanent seats.
 
-Russia is the second thread. India bought about 2.08 million barrels a day of Russian crude in August, roughly 45% of its imports, according to Kpler. A US law allows tariffs of up to 100% on the biggest buyers of Russian oil, and [Trump waived it on October 16](/en/news/trump-waives-russia-sanctions-law-india-tariff-threat) for now. Any Ukraine arrangement reached between Washington and Moscow could settle whether that waiver stays. The Quad, which Prime Minister Narendra Modi attended in [Manila on November 18](/en/news/modi-manila-quad-leaders-summit-dylan-johnson-modi-leaves), is a grouping Beijing wants to limit in the region. No Indian government reaction to the Shenzhen talks had been issued by early afternoon.
+The second is oil. India spent **$90.6 billion on crude imports** in April to September, 46.3% more than a year earlier, according to the oil ministry's PPAC data, and bought roughly 45% of its crude from Russia in August, according to Kpler. A shared pledge to raise petroleum supply is relief for bulk importers such as India, which have faced US tariff threats over Russian oil, though no volumes or timeline are given. A US law allows tariffs of up to 100% on the biggest buyers of Russian oil, and [Trump waived it on October 16](/en/news/trump-waives-russia-sanctions-law-india-tariff-threat) for now. The third is the ICC clause: India is outside the court, like the three signatories. No Indian government reaction to the declaration had been issued when this was written.
 
 ## What happens next
 
-The first thing to watch is whatever the three governments say after the trilateral: a joint text, separate readouts, or none. Ushakov gave no date for a follow-up. Beyond Shenzhen, the dates that matter are **January 10, 2027**, when the US-China tariff truce expires, and the next round of US-Russia-Ukraine contacts after the Abu Dhabi talks. This report will be updated when the three leaders' accounts of the trilateral are available.
+The dialogue on nuclear risk has no start date, so the first thing to watch is whether Washington, Beijing and Moscow name a venue and level. Trump's press briefing on Friday, November 20, is the next chance to hear him say what he agreed on Ukraine and trade. Beyond that, the dates that matter are January 10, 2027, when the US-China tariff truce ends, and the next round of US-Russia-Ukraine contacts after the Abu Dhabi talks of November 10 and 11.
