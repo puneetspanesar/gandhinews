@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+    "id": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
     "overlay": {
       "kicker": {
-        "en": "Policy / Agriculture",
-        "hi": "नीति / कृषि"
+        "en": "Policy / Courts",
+        "hi": "नीति / अदालत"
       },
       "value": {
-        "en": "First home-made H5N1 chicken vaccine",
-        "hi": "पहली स्वदेशी एच5एन1 चिकन वैक्सीन"
+        "en": "No Gram Sabha consent, no acquisition",
+        "hi": "ग्राम सभा की सहमति नहीं, तो अधिग्रहण नहीं"
       },
       "text": {
         "en": "",
@@ -17,21 +17,44 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "farmer-id-explained-digital-agriculture-mission",
-      "msp-explained-how-set-who-benefits"
+      "air-india-ai171-final-report-must-be-public",
+      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
     ],
     "relatedBeside": [
-      "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+      "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
     ],
     "live": {
       "title": {
-        "en": "Agriculture",
-        "hi": "कृषि"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "India's crude imports hit a record in October as the oil bill jumps 88% to $19.5 billion",
+          "hi": "अक्टूबर में भारत का कच्चा तेल आयात रिकॉर्ड स्तर पर, आयात बिल 88% उछलकर 19.5 अरब डॉलर"
+        }
+      },
+      {
+        "link": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "lead": {
+          "en": "Agriculture:",
+          "hi": "कृषि:"
+        },
+        "text": {
+          "en": "India's first home-made bird flu vaccine for chickens is dedicated to the nation, but farms still cannot use it",
+          "hi": "मुर्गियों के लिए देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन राष्ट्र को समर्पित, पर फार्मों में अभी इस्तेमाल नहीं"
+        }
+      },
       {
         "link": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
         "lead": {
@@ -41,17 +64,6 @@
         "text": {
           "en": "Indian firms put $4.65 billion into overseas ventures in October, 17% more than a year ago",
           "hi": "अक्टूबर में भारतीय कंपनियों ने विदेश में लगाए $4.65 अरब, एक साल पहले से 17% ज़्यादा"
-        }
-      },
-      {
-        "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
-          "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
         }
       },
       {
@@ -66,17 +78,6 @@
         }
       },
       {
-        "link": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
-          "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
-        }
-      },
-      {
         "link": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "lead": {
           "en": "Environment:",
@@ -88,25 +89,25 @@
         }
       },
       {
-        "link": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
         "lead": {
-          "en": "Industry:",
-          "hi": "उद्योग:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Modi to India Inc at FICCI: 'Do not treat 140 crore Indians as an assured market'",
-          "hi": "फिक्की में मोदी का उद्योग जगत से सवाल: '140 करोड़ देशवासियों को अश्योर्ड मार्केट मत मानिए'"
+          "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
+          "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
         }
       },
       {
-        "link": "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
+        "link": "air-india-crash-probe-final-stages-supreme-court",
         "lead": {
-          "en": "Kashmir:",
-          "hi": "कश्मीर:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Shah's 'last known active local' Lashkar terrorist in the Valley: the hedge holds, but no published count backs it",
-          "hi": "शाह का 'घाटी का आखिरी ज्ञात सक्रिय स्थानीय' लश्कर आतंकवादी: शब्दों की सीमा सही है, पर कोई प्रकाशित गिनती इसका आधार नहीं"
+          "en": "Air India AI171 crash probe is at its 'fag end', Centre tells Supreme Court, asks for two to three more weeks",
+          "hi": "एयर इंडिया एआई171 हादसे की जांच 'अंतिम चरण' में, केंद्र ने सुप्रीम कोर्ट से मांगे दो से तीन हफ्ते"
         }
       },
       {
@@ -185,15 +186,15 @@
   },
   "topStories": {
     "big": {
-      "id": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+      "id": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "also": []
     },
     "list": [
+      "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
       "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
       "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-      "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim"
+      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+      "air-india-crash-probe-final-stages-supreme-court"
     ],
     "also": [
       "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
@@ -371,15 +372,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "air-india-crash-probe-final-stages-supreme-court",
         "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
-        "india-bloc-48-questions-election-commission-supreme-court-sir"
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
       ],
       "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
     {
       "section": "economy",
-      "lead": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+      "lead": "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,7 +391,7 @@
         ]
       },
       "list": [
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
         "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
         "goyal-india-1000-more-aircraft-order-2000-needed"
       ]
@@ -503,22 +504,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-19T14:49:47+05:30",
-      "ids": [
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
-        "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "air-india-crash-probe-final-stages-supreme-court",
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
-      ]
-    },
-    {
       "at": "2026-11-19T17:36:27+05:30",
       "ids": [
         "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
@@ -620,13 +605,29 @@
         "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
       ]
+    },
+    {
+      "at": "2026-11-20T17:43:42+05:30",
+      "ids": [
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "air-india-ai171-final-report-must-be-public",
+        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "air-india-crash-probe-final-stages-supreme-court",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-sco-civilisational-dialogue-forum-purana-qila",
-    "air-india-crash-probe-final-stages-supreme-court",
-    "new-start-explained-trilateral-arms-control-shenzhen-declaration"
+    "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+    "modi-sco-civilisational-dialogue-forum-purana-qila"
   ],
-  "mustReadEn": 10
+  "mustReadEn": 7
 }
