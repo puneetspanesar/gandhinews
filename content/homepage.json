@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+    "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
     "overlay": {
       "kicker": {
-        "en": "Policy / Courts",
-        "hi": "नीति / अदालत"
+        "en": "World / India-Nepal",
+        "hi": "दुनिया / भारत-नेपाल"
       },
       "value": {
-        "en": "No Gram Sabha consent, no acquisition",
-        "hi": "ग्राम सभा की सहमति नहीं, तो अधिग्रहण नहीं"
+        "en": "Shah in Delhi, talks with Modi Nov 23",
+        "hi": "दिल्ली में शाह, 23 को मोदी से वार्ता"
       },
       "text": {
         "en": "",
@@ -16,32 +16,28 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "air-india-ai171-final-report-must-be-public",
-      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
+      "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "India-Nepal",
+        "hi": "भारत-नेपाल"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+        "link": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
         "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
+          "en": "Industry:",
+          "hi": "उद्योग:"
         },
         "text": {
-          "en": "India's crude imports hit a record in October as the oil bill jumps 88% to $19.5 billion",
-          "hi": "अक्टूबर में भारत का कच्चा तेल आयात रिकॉर्ड स्तर पर, आयात बिल 88% उछलकर 19.5 अरब डॉलर"
+          "en": "Core industries grow 10.9% in October, a 13-month high, as iron ore, coal and power surge",
+          "hi": "अक्टूबर में कोर उद्योगों की वृद्धि 10.9%, 13 महीने का उच्चतम स्तर, लौह अयस्क, कोयला और बिजली ने खींची रफ़्तार"
         }
       },
       {
@@ -78,14 +74,25 @@
         }
       },
       {
-        "link": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "link": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "lead": {
-          "en": "Environment:",
-          "hi": "पर्यावरण:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Yadav tells Delhi-NCR civic bodies to treat open burning with zero tolerance this winter",
-          "hi": "यादव ने दिल्ली-एनसीआर के नगर निकायों से कहा, इस सर्दी खुले में जलाने पर शून्य सहनशीलता"
+          "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
+          "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
+        }
+      },
+      {
+        "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Modi to open first SCO Civilisational Dialogue Forum at Purana Qila on Friday",
+          "hi": "मोदी शुक्रवार को पुराना किला में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे"
         }
       },
       {
@@ -97,17 +104,6 @@
         "text": {
           "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
           "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
-        }
-      },
-      {
-        "link": "air-india-crash-probe-final-stages-supreme-court",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Air India AI171 crash probe is at its 'fag end', Centre tells Supreme Court, asks for two to three more weeks",
-          "hi": "एयर इंडिया एआई171 हादसे की जांच 'अंतिम चरण' में, केंद्र ने सुप्रीम कोर्ट से मांगे दो से तीन हफ्ते"
         }
       },
       {
@@ -192,9 +188,9 @@
     "list": [
       "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
       "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-      "air-india-crash-probe-final-stages-supreme-court"
+      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+      "modi-sco-civilisational-dialogue-forum-purana-qila",
+      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory"
     ],
     "also": [
       "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
@@ -372,15 +368,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "air-india-crash-probe-final-stages-supreme-court",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
       ],
       "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
     {
       "section": "economy",
-      "lead": "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+      "lead": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
       "module": {
         "type": "markets",
         "indicators": [
@@ -391,9 +387,9 @@
         ]
       },
       "list": [
+        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
         "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-        "goyal-india-1000-more-aircraft-order-2000-needed"
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi"
       ]
     },
     {
@@ -426,11 +422,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+      "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "list": [
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
         "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "pax-silica-san-francisco-declaration-india-signs-ai-supply-chains"
+        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi"
       ]
     },
     {
@@ -457,26 +453,14 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Today",
-        "hi": "आज"
+        "en": "Nov 23",
+        "hi": "23 नवंबर"
       },
       "text": {
-        "en": "UN World Children's Day, the date India observed Children's Day before 1964",
-        "hi": "संयुक्त राष्ट्र का विश्व बाल दिवस, जिस दिन 1964 से पहले भारत बाल दिवस मनाता था"
+        "en": "Nepal PM Balendra Shah holds talks with PM Modi in New Delhi",
+        "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह की नई दिल्ली में प्रधानमंत्री मोदी से वार्ता"
       },
-      "link": "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Modi inaugurates the first SCO Civilisational Dialogue Forum at Purana Qila, Delhi (to November 22)",
-        "hi": "मोदी पुराना किला, दिल्ली में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे (22 नवंबर तक)"
-      },
-      "link": "modi-sco-civilisational-dialogue-forum-purana-qila"
+      "link": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
     },
     {
       "icon": "calendar-blank",
@@ -503,22 +487,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-19T17:36:27+05:30",
-      "ids": [
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
-        "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-        "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "air-india-crash-probe-final-stages-supreme-court",
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
-      ]
-    },
     {
       "at": "2026-11-19T20:52:15+05:30",
       "ids": [
@@ -622,12 +590,25 @@
         "air-india-crash-probe-final-stages-supreme-court",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
       ]
+    },
+    {
+      "at": "2026-11-20T20:42:01+05:30",
+      "ids": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-    "modi-sco-civilisational-dialogue-forum-purana-qila"
+    "new-start-explained-trilateral-arms-control-shenzhen-declaration"
   ],
   "mustReadEn": 7
 }

@@ -103,7 +103,7 @@ verification:
     - "Dates conflict: Kathmandu Post and Spotlight say about 30 hours, Nov 22 afternoon to Nov 23; News24 says three days; Navbharat Live said Nov 23-25. Written as originally planned for three days (Kathmandu Post) and trimmed. Neither government's formal programme seen."
     - "MEA quotes from spokesperson Randhir Jaiswal at a briefing (date not given in the report, around Nov 10); written as 'at a briefing this month'."
     - "Nepal's wish list (about $2 billion, LPG pipeline, IIM/IIT branches) is reported by Kathmandu Post as unconfirmed; attributed accordingly."
-    - "Swearing-in March 27: Al Jazeera dated March 27 and Kathmandu Post (Mar 28) says Friday; Mar 27, 2026 is a Friday. Mayor tenure May 2022 to January 2026 from Kathmandu Post. Gen Z protest year (September 2025) inferred from sources saying the interim government of Sushila Karki preceded the election; 76 deaths per Al Jazeera."
+    - "Swearing-in March 27: Al Jazeera dated March 27 and Kathmandu Post (Mar 28) says Friday; Mar 27, 2026, is a Friday. Mayor tenure May 2022 to January 2026 from Kathmandu Post. Gen Z protest year (September 2025) inferred from sources saying the interim government of Sushila Karki preceded the election; 76 deaths per Al Jazeera."
     - "Mangsir 6 = Nov 22 per Spotlight Nepal. 'First Madhesi premier' attributed to Al Jazeera. An unrelated headline claim of NEA approval for 594 MW was not in the article body and is not used."
 ---
 
@@ -121,7 +121,7 @@ Nepal's Foreign Ministry says agreements will be signed and several projects lau
 {"n":1,"subject":"Narendra Modi","caption":"Prime Minister Narendra Modi, who invited Shah and will host the talks on November 23.","alt":"Prime Minister Narendra Modi"}
 ```
 
-India is also expected to announce an economic package. Kathmandu Post reports that Nepal's wish list, which is not confirmed, runs to about $2 billion in grants and credit lines, a cross-border LPG pipeline, religious and tourism circuits, branches of Indian institutes and help with cricket. Reconstruction after this year's floods is a major item: Shah thanked India on November 18 for help after the Rasuwa-Bhotekoshi floods when Ambassador Sudhakar Dalela called on him in Singha Durbar. Dalela said the meeting with Modi would be "historic and significant" and that the agenda was final.
+India is also expected to announce an economic package. According to reports in Kathmandu, Nepal's wish list, which is not confirmed, runs to about $2 billion in grants and credit lines, a cross-border LPG pipeline, religious and tourism circuits, branches of Indian institutes and help with cricket. Reconstruction after this year's floods is a major item: Shah thanked India on November 18 for help after the Rasuwa-Bhotekoshi floods when Ambassador Sudhakar Dalela called on him in Singha Durbar. Dalela said the meeting with Modi would be "historic and significant" and that the agenda was final.
 
 ## Air routes and power
 
@@ -141,7 +141,7 @@ Until now he had declined diplomatic meetings citing protocol, and RSP leaders h
 
 ## What is unlikely to move
 
-The Kathmandu Post reports that substantive progress is not expected on the **boundary dispute**, Nepal's widening trade deficit and transit arrangements, the recruitment of Nepali citizens into the Indian Army (suspended since 2020), or the stalled Pancheshwar Multipurpose Project, where water-sharing differences remain. On October 25 Nepal's foreign ministry told Parliament that encroachment exists along the border beyond Kalapani and Susta and that joint mapping continues; it gave no list.
+According to reports in Kathmandu, substantive progress is not expected on the **boundary dispute**, Nepal's widening trade deficit and transit arrangements, the recruitment of Nepali citizens into the Indian Army (suspended since 2020), or the stalled Pancheshwar Multipurpose Project, where water-sharing differences remain. On October 25 Nepal's foreign ministry told Parliament that encroachment exists along the border beyond Kalapani and Susta and that joint mapping continues; it gave no list.
 
 The railway also has loose ends. The existing Janakpur-Jaynagar line is 51 km; the proposed Indian train would have 18 coaches against five on the Nepali side and run once a week at first. Agreement on security checks and on who bears operating and maintenance costs had not been reached, according to Nepali reports. Nepal Railway's Parajuli said: "Whoever operates the train will earn the revenue."
 

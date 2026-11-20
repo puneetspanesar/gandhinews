@@ -52065,7 +52065,20 @@
   "licence": "CC BY 3.0",
   "alt": "Nepal Prime Minister Balendra Shah (file photo)",
   "alt_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_01.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_01.jpg",
+  "treated": {
+   "src": "/photos/t-nepal-pm-balendra-shah-india-visit-november-22-modi-talks-no-1280.jpg",
+   "src800": "/photos/t-nepal-pm-balendra-shah-india-visit-november-22-modi-talks-no-640.jpg",
+   "cutout": true,
+   "with": [
+    "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo--p1",
+    "nepal-dashain-exodus-flood-victims-rent-aid",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p2"
+   ],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; बिप्लब आनन्द / Wikimedia Commons; Sergey Ashmarin / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons"
+  }
  },
  "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity": {
   "id": "r-core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
@@ -52077,6 +52090,15 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The Gevra opencast coal mine of South Eastern Coalfields in Korba district, Chhattisgarh (file photo)",
   "alt_hi": "छत्तीसगढ़ के कोरबा ज़िले में साउथ ईस्टर्न कोलफील्ड्स की गेवरा खुली खदान (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "treated": {
+   "src": "/photos/t-core-sector-growth-10-9-per-cent-october-iron-ore-coal-elect-1280.jpg",
+   "src800": "/photos/t-core-sector-growth-10-9-per-cent-october-iron-ore-coal-elect-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffff0f010001ffff",
+   "credit": "Photo: Meemoprasad / Wikimedia Commons"
+  }
  }
 }
