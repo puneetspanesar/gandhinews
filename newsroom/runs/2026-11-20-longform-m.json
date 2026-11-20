@@ -1,0 +1,29 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-20T06:35:54+05:30",
+ "end": "2026-11-20T06:58:24+05:30",
+ "summary": "Long-form morning: New START explainer, AI171 editorial, Modi poverty fact check",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "three Modi stories in top block (FICCI and 50 crore fact check are the same speech)",
+   "done": "refresh_home.py --drop modi-ficci-agm-india-first-quality-gandhi-swadeshi; the newer fact check stays"
+  },
+  {
+   "id": "homepage",
+   "why": "Nehru birth anniversary story (Nov 14) still in Politics",
+   "done": "dropped with refresh_home.py --drop nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
+  },
+  {
+   "id": "homepage",
+   "why": "make the Shenzhen summit the lead",
+   "done": "not applied: the Shenzhen news story is 17 hours old (over the 16-hour lead limit) and predates the declaration; the up-to-date New START explainer carries it in the explainer slot; the next hourly run should update the news story"
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-sco-civilisational-dialogue-forum-purana-qila"
+}

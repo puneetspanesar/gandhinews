@@ -21,7 +21,6 @@ hero:
   alt: "केंद्रीय गृह मंत्री अमित शाह (फाइल फोटो)"
   overlay:
     value: "शाह: घाटी में लश्कर का आखिरी स्थानीय आतंकी ढेर"
-upcoming: {date: 2026-11-19, en: "Amit Shah inaugurates the two-day Anti-Terrorism Conference on cross-border terrorism in New Delhi", hi: "अमित शाह नई दिल्ली में सीमा पार आतंकवाद पर दो दिवसीय आतंकवाद-रोधी सम्मेलन का उद्घाटन करेंगे"}
 infographic:
   kicker: "कुलगाम अभियान"
   headline: "अखरन हमले से भट के अंत तक"

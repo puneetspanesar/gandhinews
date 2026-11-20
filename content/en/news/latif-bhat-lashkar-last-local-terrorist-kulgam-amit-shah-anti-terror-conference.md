@@ -20,7 +20,6 @@ hero:
   alt: "Union Home Minister Amit Shah (file photo)"
   overlay:
     value: "Shah: Lashkar's last local in Valley killed"
-upcoming: {date: 2026-11-19, en: "Amit Shah inaugurates the two-day Anti-Terrorism Conference on cross-border terrorism in New Delhi", hi: "अमित शाह नई दिल्ली में सीमा पार आतंकवाद पर दो दिवसीय आतंकवाद-रोधी सम्मेलन का उद्घाटन करेंगे"}
 infographic:
   kicker: "Kulgam operation"
   headline: "From the Akhran attack to Bhat's death"
