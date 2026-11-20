@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-20T13:06:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-20T16:28:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-20",
   "chart": "nifty-50",
   "indices": [
@@ -8,14 +8,10 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 83796.78,
-      "change": 775.03,
-      "pct": 0.93,
+      "value": 83919.71,
+      "change": 897.96,
+      "pct": 1.08,
       "history": [
-        {
-          "date": "2026-10-05",
-          "close": 72382.47
-        },
         {
           "date": "2026-10-06",
           "close": 73067.81
@@ -131,6 +127,10 @@
         {
           "date": "2026-11-19",
           "close": 83021.75
+        },
+        {
+          "date": "2026-11-20",
+          "close": 83919.71
         }
       ],
       "source": "https://www.etvbharat.com/en/business/stock-market-on-november-20-sensex-nifty50-top-stocks-and-laggards-crude-oil-prices-fii-buying-enn26112001201"
@@ -139,14 +139,10 @@
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25739.15,
-      "change": 224.85,
-      "pct": 0.88,
+      "value": 25800.6,
+      "change": 286.3,
+      "pct": 1.12,
       "history": [
-        {
-          "date": "2026-10-06",
-          "close": 22776.1
-        },
         {
           "date": "2026-10-07",
           "close": 22603.05
@@ -262,6 +258,10 @@
         {
           "date": "2026-11-19",
           "close": 25514.3
+        },
+        {
+          "date": "2026-11-20",
+          "close": 25800.6
         }
       ],
       "source": "https://www.etvbharat.com/en/business/stock-market-on-november-20-sensex-nifty50-top-stocks-and-laggards-crude-oil-prices-fii-buying-enn26112001201"
@@ -270,9 +270,9 @@
       "id": "nifty-bank",
       "name": "Nifty Bank",
       "name_hi": "निफ्टी बैंक",
-      "value": 63063.0,
-      "change": 1023.65,
-      "pct": 1.65,
+      "value": 64633.27,
+      "change": 1570.27,
+      "pct": 2.49,
       "history": [
         {
           "date": "2026-11-04",
@@ -281,6 +281,10 @@
         {
           "date": "2026-11-19",
           "close": 63063.0
+        },
+        {
+          "date": "2026-11-20",
+          "close": 64633.27
         }
       ],
       "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
@@ -289,9 +293,9 @@
       "id": "nifty-midcap-100",
       "name": "Nifty Midcap 100",
       "name_hi": "निफ्टी मिडकैप 100",
-      "value": 61620.0,
-      "change": 640.65,
-      "pct": 1.05,
+      "value": 62026.69,
+      "change": 406.69,
+      "pct": 0.66,
       "history": [
         {
           "date": "2026-11-04",
@@ -312,6 +316,10 @@
         {
           "date": "2026-11-19",
           "close": 61620.0
+        },
+        {
+          "date": "2026-11-20",
+          "close": 62026.69
         }
       ],
       "source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
