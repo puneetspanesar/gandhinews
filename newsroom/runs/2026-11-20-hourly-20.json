@@ -1,12 +1,9 @@
 {
  "run": "hourly-20",
  "start": "2026-11-20T20:03:53+05:30",
- "end": "2026-11-20T20:47:28+05:30",
- "summary": "Nepal PM visit (lead), core industries October 10.9%",
- "new": [
-  "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-  "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
- ],
+ "end": "2026-11-20T21:07:55+05:30",
+ "summary": "second publish: Nepal PM collage remade",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

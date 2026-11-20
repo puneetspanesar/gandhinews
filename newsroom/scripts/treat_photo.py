@@ -400,6 +400,10 @@ def portraits(sid, M):
     for pk in named_people(title)[:1]:
         # a surname alone is not enough: the full name must appear in the story (Tata Steel is not Ratan Tata)
         if not any(nm in full for nm in [PEOPLE[pk]['en']] + list(PEOPLE[pk].get('aliases') or [])): return []
+        # the story's own photo shows someone else (a person not in the library, e.g. a visiting leader): never put the
+        # headline's second-named library person in front instead (hourly-20, November 20: Modi on the Nepal PM's visit story)
+        own = M.get(sid, {}); oalt = str(own.get('alt') or '')
+        if own.get('src') and not own.get('graphic') and PERSONISH.search(oalt) and not any(nm in oalt for nm in [PEOPLE[pk]['en']] + list(PEOPLE[pk].get('aliases') or [])): return []
         name = PEOPLE[pk]['en']; c = []
         for mk, x in M.items():
             alt = x.get('alt') or ''
