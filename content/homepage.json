@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-sco-civilisational-dialogue-forum-purana-qila",
+    "id": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
     "overlay": {
       "kicker": {
-        "en": "Politics / Diplomacy",
-        "hi": "राजनीति / कूटनीति"
+        "en": "Policy / Courts",
+        "hi": "नीति / अदालत"
       },
       "value": {
-        "en": "SCO civilisational forum opens",
-        "hi": "एससीओ सभ्यतागत मंच शुरू"
+        "en": "No Gram Sabha consent, no acquisition",
+        "hi": "ग्राम सभा की सहमति नहीं, तो अधिग्रहण नहीं"
       },
       "text": {
         "en": "",
@@ -16,19 +16,34 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "air-india-ai171-final-report-must-be-public",
+      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
+    ],
     "relatedBeside": [
-      "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
+      "modi-sco-civilisational-dialogue-forum-purana-qila"
     ],
     "live": {
       "title": {
-        "en": "Diplomacy",
-        "hi": "कूटनीति"
+        "en": "Courts",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Modi to open first SCO Civilisational Dialogue Forum at Purana Qila on Friday",
+          "hi": "मोदी शुक्रवार को पुराना किला में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे"
+        }
+      },
       {
         "link": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "lead": {
@@ -41,14 +56,25 @@
         }
       },
       {
+        "link": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "lead": {
+          "en": "Industry:",
+          "hi": "उद्योग:"
+        },
+        "text": {
+          "en": "Modi to India Inc at FICCI: 'Do not treat 140 crore Indians as an assured market'",
+          "hi": "फिक्की में मोदी का उद्योग जगत से सवाल: '140 करोड़ देशवासियों को अश्योर्ड मार्केट मत मानिए'"
+        }
+      },
+      {
         "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
         "lead": {
           "en": "Diplomacy:",
           "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Trump meets Putin and Xi in Shenzhen as first three-way talks of the nuclear powers begin",
-          "hi": "शेनझेन में ट्रंप की पुतिन और शी से मुलाकात, परमाणु शक्तियों की पहली तीन-तरफा बातचीत शुरू"
+          "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
+          "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
         }
       },
       {
@@ -63,28 +89,6 @@
         }
       },
       {
-        "link": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "lead": {
-          "en": "Jammu and Kashmir:",
-          "hi": "जम्मू-कश्मीर:"
-        },
-        "text": {
-          "en": "Lashkar's Latif Bhat killed in Kulgam; Amit Shah calls him the group's last known active local terrorist in the Valley",
-          "hi": "कुलगाम में लश्कर का लतीफ भट ढेर; अमित शाह बोले, घाटी में संगठन का आखिरी सक्रिय स्थानीय आतंकी"
-        }
-      },
-      {
-        "link": "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "lead": {
-          "en": "Middle East:",
-          "hi": "पश्चिम एशिया:"
-        },
-        "text": {
-          "en": "Indian seafarer missing after Tara Gas hit twice off Hormuz; crude tanker Navig8 Messi struck, three Indians safe",
-          "hi": "होर्मुज के पास तारा गैस पर दो हमले, एक भारतीय नाविक लापता; कच्चे तेल के टैंकर नैविग8 मेसी पर हमला, तीनों भारतीय सुरक्षित"
-        }
-      },
-      {
         "link": "modi-world-bank-50-crore-poverty-claim",
         "lead": {
           "en": "Poverty:",
@@ -96,14 +100,25 @@
         }
       },
       {
-        "link": "air-india-ai171-final-report-must-be-public",
+        "link": "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+        "lead": {
+          "en": "Defence:",
+          "hi": "रक्षा:"
+        },
+        "text": {
+          "en": "The India-Japan 2+2 explained: what four ministers in one room can actually decide, and what to watch in Tokyo",
+          "hi": "भारत-जापान 2+2 क्या है: एक मेज़ पर चार मंत्री क्या तय कर सकते हैं, और टोक्यो में किस पर नज़र रखें"
+        }
+      },
+      {
+        "link": "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
         "lead": {
           "en": "Editorial:",
           "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Seventeen months after AI171, the final report must be published, and safety fixes should not wait for it",
-          "hi": "एआई171 हादसे के 17 महीने बाद अंतिम रिपोर्ट सार्वजनिक हो, और सुरक्षा सुधार उसका इंतजार न करें"
+          "en": "The Akvan track has moved north, so evacuation must follow the hillsides and the flood plain, not the forecast line",
+          "hi": "अकवान का रास्ता उत्तर की ओर खिसका है, इसलिए निकासी पूर्वानुमान की रेखा से नहीं, पहाड़ी ढलानों और निचले इलाकों से तय हो"
         }
       }
     ]
@@ -171,17 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+      "id": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "also": []
     },
     "list": [
+      "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
       "air-india-crash-probe-final-stages-supreme-court",
-      "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-      "tara-gas-navig8-messi-indian-seafarers-hormuz",
       "modi-world-bank-50-crore-poverty-claim",
-      "air-india-ai171-final-report-must-be-public"
+      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
     ],
-    "also": []
+    "also": [
+      "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+    ]
   },
   "startHere": [
     "new-start-explained-trilateral-arms-control-shenzhen-declaration",
@@ -362,7 +379,7 @@
     },
     {
       "section": "economy",
-      "lead": "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+      "lead": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
       "module": {
         "type": "markets",
         "indicators": [
@@ -373,9 +390,9 @@
         ]
       },
       "list": [
+        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
         "goyal-india-1000-more-aircraft-order-2000-needed",
-        "goyal-egypt-jtc-terms-of-reference-local-currency-trade",
-        "wpi-inflation-october-2026"
+        "goyal-egypt-jtc-terms-of-reference-local-currency-trade"
       ]
     },
     {
@@ -389,11 +406,11 @@
     },
     {
       "section": "policy",
-      "lead": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+      "lead": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
       "list": [
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30",
-        "suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses"
+        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
       ]
     },
     {
@@ -473,18 +490,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-19T07:14:09+05:30",
-      "ids": [
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
-        "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
-      ]
-    },
     {
       "at": "2026-11-19T08:39:48+05:30",
       "ids": [
@@ -586,12 +591,26 @@
         "modi-world-bank-50-crore-poverty-claim",
         "air-india-ai171-final-report-must-be-public"
       ]
+    },
+    {
+      "at": "2026-11-20T08:34:20+05:30",
+      "ids": [
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "air-india-ai171-final-report-must-be-public",
+        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "air-india-crash-probe-final-stages-supreme-court",
+        "modi-world-bank-50-crore-poverty-claim",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-    "nehru-birth-anniversary-children-day-modi-rajnath-stalin-tributes"
-  ],
+  "drop": [],
   "mustReadEn": 8
 }

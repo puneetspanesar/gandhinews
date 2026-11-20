@@ -50,11 +50,6 @@ sources:
     date: 2026-11-19
     url: "https://gulfnews.com/world/no-winners-in-nuclear-war-trump-xi-putin-pledge-dialogue-after-shenzhen-summit-1.500754333"
     primary: false
-  - title: "Russia, China, US to hold dialogue on reducing nuclear risks: declaration"
-    publisher: "Sputnik"
-    date: 2026-11-19
-    url: "https://sputnikglobe.com/20261119/russia-china-us-to-hold-dialogue-on-reducing-nuclear-risks---declaration-1125109846.html"
-    primary: false
   - title: "Ukrainians are not in the room: Dhruva Jaishankar on the Shenzhen trilateral"
     publisher: "The Tribune (ANI)"
     date: 2026-11-19

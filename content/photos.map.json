@@ -51923,6 +51923,45 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Supreme Court of India, New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "treated": {
+   "src": "/photos/t-sc-dalmia-sundargarh-gram-sabha-consent-quashed-1280.jpg",
+   "src800": "/photos/t-sc-dalmia-sundargarh-gram-sabha-consent-quashed-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "supreme-court-449-ndps-courts-status-reports-little-progress",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffff677f67000000",
+   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
+  }
+ },
+ "sc-delhi-sir-form7-mustafabad-eci-verify": {
+  "id": "o-sc-delhi-sir-form7-mustafabad-eci-verify",
+  "src": "/photos/o-sc-delhi-sir-form7-mustafabad-eci-verify-1280.jpg",
+  "src800": "/photos/o-sc-delhi-sir-form7-mustafabad-eci-verify-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 869,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Gyanesh Kumar (file photo)",
+  "alt_hi": "ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg",
+  "treated": {
+   "src": "/photos/t-sc-delhi-sir-form7-mustafabad-eci-verify-1280.jpg",
+   "src800": "/photos/t-sc-delhi-sir-form7-mustafabad-eci-verify-640.jpg",
+   "cutout": true,
+   "with": [
+    "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1",
+    "eci-form-6-press-note-taken-down-claim"
+   ],
+   "kind": "photo",
+   "subj": "808081c3e7f7f",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons"
+  }
  }
 }

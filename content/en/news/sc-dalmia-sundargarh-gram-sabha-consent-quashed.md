@@ -5,8 +5,8 @@ type: news
 section: policy
 format_label: "Policy / Courts"
 topics: [supreme-court]
-title: "Supreme Court quashes Odisha land acquisition for Dalmia mining, says Gram Sabha consent is mandatory"
-standfirst: "Ruling on three Sundargarh villages in a Scheduled Area, a bench of Justices Dipankar Datta and Satish Chandra Sharma held that prior consent of the Gram Sabha cannot be treated as a formality, and set aside the Orissa High Court's judgment."
+title: "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must"
+standfirst: "Prior consent of the Gram Sabha in a Scheduled Area is no formality, the court held, setting aside the Orissa High Court's judgment on three Sundargarh villages."
 published: 2026-11-20T08:07:32+05:30
 location: New Delhi
 keyPoints:
@@ -23,7 +23,7 @@ hero:
 related: [sc-fra-commercial-cultivation-megamalai-silk-cotton, forest-rights-act-explained-megamalai-silk-cotton-supreme-court, odisha-five-instream-storage-projects-625-crore]
 seo:
   title: "SC quashes Odisha mining land acquisition, Gram Sabha consent"
-  description: "The Supreme Court on November 18, 2026 quashed Odisha's land acquisition for Dalmia Cement's mining project in Sundargarh and held Gram Sabha consent mandatory."
+  description: "The Supreme Court on November 18, 2026, quashed Odisha's land acquisition for Dalmia Cement's mining project in Sundargarh and held Gram Sabha consent mandatory."
 infographic:
   kicker: "Bibol Toppo v. State of Odisha"
   headline: "Gram Sabha consent is not optional"
@@ -88,23 +88,17 @@ The record, it found, did not show consent even on paper. "Far from a meaningful
 
 Third, on the safeguards around the social impact assessment. The court found no evidence that the public hearing on the draft assessment, listed for April 16, 2021, took place, and said the final report did not reflect the views of affected people. It also found that the Expert Group which reviewed the assessment included **the company's own Advisor for Land Acquisition**, which compromised the group's independence under Section 7. The bench said this rendered the group's deliberation "a fixed match".
 
-```photo
-{"n":1,"subject":"Orissa High Court","caption":"The Orissa High Court at Cuttack, whose September 2024 judgment upholding the acquisition was set aside.","alt":"The Orissa High Court building in Cuttack"}
-```
 
 The court also rejected an argument that the mining lease changes the picture. The lease, it held, governs the relationship between the State and the company; once Odisha chose to acquire land under the 2013 Act, it had to meet that Act's safeguards. The two laws, the Mines and Minerals (Development and Regulation) Act, 1957 and the 2013 land law, operate in distinct spheres.
 
 ## How the case got here
 
-Dalmia Cements submitted its proposal for acquisition on December 9, 2015, and the State gave administrative approval on August 23, 2017, subject to the consent requirement. On January 26, 2020, **the Gram Panchayats and Gram Sabhas unanimously rejected the proposal**. The State nevertheless issued a fresh notification on February 24, 2020, and went on to issue preliminary notifications under Section 11 on July 6, 2021 and the final declaration under Section 19 on November 3, 2021, after the Collector rejected objections.
+Dalmia Cements submitted its proposal for acquisition on December 9, 2015, and the State gave administrative approval on August 23, 2017, subject to the consent requirement. On January 26, 2020, **the Gram Panchayats and Gram Sabhas unanimously rejected the proposal**. The State nevertheless issued a fresh notification on February 24, 2020, and went on to issue preliminary notifications under Section 11 on July 6, 2021, and the final declaration under Section 19 on November 3, 2021, after the Collector rejected objections.
 
 Twelve residents challenged the process. The Orissa High Court dismissed their petition on September 6, 2024, reasoning that the 80 per cent consent condition did not apply because title would vest in the State and that consent could in any case be collected at different stages. The Supreme Court's judgment, delivered more than two years later, reverses each of those conclusions.
 
 The ruling sits alongside the court's recent work on forest and tribal land. On November 6 the court held in the Megamalai case that [planned cultivation of a commercial crop is not a forest right](/en/news/sc-fra-commercial-cultivation-megamalai-silk-cotton) under the Forest Rights Act, a decision that turned on residents' actual relationship with the land. Our [explainer on the Forest Rights Act](/en/explainer/forest-rights-act-explained-megamalai-silk-cotton-supreme-court) sets out how Gram Sabhas fit into that law. The Sundargarh judgment rests on a different statute, but it too treats the Gram Sabha as a body whose role cannot be skipped.
 
-```photo
-{"n":2,"subject":"Sundargarh district","caption":"Sundargarh district in northern Odisha, where the three villages whose land was to be acquired are located.","alt":"A view of Sundargarh district, Odisha"}
-```
 
 ## What it means for villagers and companies
 
