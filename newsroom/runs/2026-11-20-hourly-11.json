@@ -1,0 +1,26 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-20T11:04:17+05:30",
+ "end": "2026-11-20T11:34:49+05:30",
+ "summary": "RBI outward FDI October (lead), Cyclone Akvan landfall update",
+ "new": [
+  "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+   "why": "in-story Adani photo not registered",
+   "done": "photo block removed in both languages"
+  },
+  {
+   "id": "homepage",
+   "why": "balance, duplicates, stale Nehru item, SCO forum low, Akvan not lead",
+   "done": "refresh_home --pin SCO forum, --drop FICCI, two court contempt stories, AI171 news (editorial kept), Nehru; Akvan landfall cannot lead: it is an in-place update of a page published November 16 (95 h), over the 16-hour lead limit the gate enforces"
+  }
+ ],
+ "breaches": [],
+ "lead": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+}

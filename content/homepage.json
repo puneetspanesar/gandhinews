@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+    "id": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
     "overlay": {
       "kicker": {
-        "en": "Policy / Courts",
-        "hi": "नीति / अदालत"
+        "en": "Economy / RBI",
+        "hi": "अर्थव्यवस्था / आरबीआई"
       },
       "value": {
-        "en": "No Gram Sabha consent, no acquisition",
-        "hi": "ग्राम सभा की सहमति नहीं, तो अधिग्रहण नहीं"
+        "en": "Outward FDI $4.65 bn in October",
+        "hi": "अक्टूबर में विदेशी निवेश $4.65 अरब"
       },
       "text": {
         "en": "",
@@ -16,18 +16,14 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "air-india-ai171-final-report-must-be-public",
-      "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-      "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
       "sc-delhi-sir-form7-mustafabad-eci-verify"
     ],
     "live": {
       "title": {
-        "en": "Courts",
-        "hi": "अदालत"
+        "en": "RBI",
+        "hi": "आरबीआई"
       }
     }
   },
@@ -42,6 +38,17 @@
         "text": {
           "en": "Supreme Court asks Election Commission to verify claim of false Form 7 forms to delete Mustafabad voters",
           "hi": "सुप्रीम कोर्ट ने चुनाव आयोग से कहा, मुस्तफाबाद के मतदाताओं को हटाने के लिए फर्जी फॉर्म 7 की शिकायत की जांच करे"
+        }
+      },
+      {
+        "link": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
+          "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
         }
       },
       {
@@ -109,17 +116,6 @@
           "en": "The India-Japan 2+2 explained: what four ministers in one room can actually decide, and what to watch in Tokyo",
           "hi": "भारत-जापान 2+2 क्या है: एक मेज़ पर चार मंत्री क्या तय कर सकते हैं, और टोक्यो में किस पर नज़र रखें"
         }
-      },
-      {
-        "link": "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "The Akvan track has moved north, so evacuation must follow the hillsides and the flood plain, not the forecast line",
-          "hi": "अकवान का रास्ता उत्तर की ओर खिसका है, इसलिए निकासी पूर्वानुमान की रेखा से नहीं, पहाड़ी ढलानों और निचले इलाकों से तय हो"
-        }
       }
     ]
   },
@@ -186,17 +182,18 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-sco-civilisational-dialogue-forum-purana-qila",
+      "id": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
       "also": []
     },
     "list": [
+      "modi-sco-civilisational-dialogue-forum-purana-qila",
       "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
       "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-      "modi-world-bank-50-crore-poverty-claim",
-      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      "modi-world-bank-50-crore-poverty-claim"
     ],
     "also": [
+      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
       "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
     ]
   },
@@ -372,14 +369,14 @@
       },
       "list": [
         "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+        "air-india-crash-probe-final-stages-supreme-court",
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
       ],
       "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
     {
       "section": "economy",
-      "lead": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+      "lead": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,9 +387,9 @@
         ]
       },
       "list": [
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
         "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-        "goyal-india-1000-more-aircraft-order-2000-needed",
-        "goyal-egypt-jtc-terms-of-reference-local-currency-trade"
+        "goyal-india-1000-more-aircraft-order-2000-needed"
       ]
     },
     {
@@ -503,21 +500,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-19T08:39:48+05:30",
-      "ids": [
-        "air-india-crash-probe-final-stages-supreme-court",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
-        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
-      ]
-    },
-    {
       "at": "2026-11-19T11:32:20+05:30",
       "ids": [
         "air-india-crash-probe-final-stages-supreme-court",
@@ -620,11 +602,23 @@
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
         "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
       ]
+    },
+    {
+      "at": "2026-11-20T11:32:28+05:30",
+      "ids": [
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "modi-world-bank-50-crore-poverty-claim",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "air-india-crash-probe-final-stages-supreme-court"
-  ],
-  "mustReadEn": 8
+  "drop": [],
+  "mustReadEn": 10
 }

@@ -51974,6 +51974,19 @@
   "licence": "CC BY 3.0",
   "alt": "The Reserve Bank of India building on Mint Road, Mumbai (file photo)",
   "alt_hi": "मुंबई के मिंट रोड पर भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_reserve_bank_of_india_02.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_reserve_bank_of_india_02.jpg",
+  "treated": {
+   "src": "/photos/t-odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma-1280.jpg",
+   "src800": "/photos/t-odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma-640.jpg",
+   "cutout": false,
+   "with": [
+    "mobikwik-rbi-penalty-9-lakh-ppi-fraud-reporting",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets",
+    "india-current-account-deficit-h1-fy27-25-8-billion-bop-surplus"
+   ],
+   "kind": "photo",
+   "subj": "ffffffc686040404",
+   "credit": "Photos: Sailko / Wikimedia Commons; Pinakpani / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Gppande / Wikimedia Commons"
+  }
  }
 }

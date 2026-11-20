@@ -85,10 +85,6 @@ The month was dominated by a handful of transactions. The largest was a **$1 bil
 
 The next three were smaller: a $361.8 million guarantee by Zydus Medtech for a venture in France, a $346.3 million guarantee by Inventurus Knowledge Solutions for its US subsidiary, and a $340 million equity investment by Tata Steel in a holding company in Singapore. The top five deals together make up about two-thirds of the month.
 
-```photo
-{"n":1,"subject":"Gautam Adani","caption":"The Adani group's infrastructure arm made the month's largest single entry, a $1 billion loan to a Mauritius subsidiary.","alt":"Gautam Adani, chairman of the Adani group"}
-```
-
 ## Where the money went
 
 By destination, **the Netherlands took $1.16 billion, Mauritius $1.14 billion and Singapore $713 million**, according to the same analysis. The three together hold nearly 65% of the month. All are common locations for holding companies, so the file does not show where the money was finally deployed. The United States followed with 150 entries worth $581 million, and the UAE with 131 entries worth $254 million.
