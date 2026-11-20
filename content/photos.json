@@ -53675,16 +53675,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Tushar_Mehta.jpg"
  },
  {
-  "id": "o-trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-  "articleId": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Daniel Torok / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Donald Trump (file photo)",
-  "alt_hi": "डोनाल्ड ट्रंप (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg"
- },
- {
   "id": "o-modi-ficci-agm-india-first-quality-gandhi-swadeshi",
   "articleId": "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53863,5 +53853,18 @@
   "alt": "Gyanesh Kumar (file photo)",
   "alt_hi": "ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg"
+ },
+ {
+  "id": "x-trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+  "articleId": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+  "sourceUrl": "",
+  "credit": "Photo: Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Donald Trump, Xi Jinping and Vladimir Putin (file photos)",
+  "alt_hi": "डोनाल्ड ट्रंप, शी जिनपिंग और व्लादिमीर पुतिन (फ़ाइल फ़ोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]

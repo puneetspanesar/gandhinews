@@ -79,9 +79,6 @@ According to the text released by the Kremlin and the White House and carried in
 
 The other lines are less expected. As permanent members of the UN Security Council, the three **committed to reform the UN** "so that it can respond more effectively to global challenges". They said they intend to raise the production and supply of refined petroleum products "for the benefit of all nations". And they stressed state consent and the immunity of state officials, adding that the International Criminal Court and similar bodies "must not abuse their jurisdiction". The ICC issued an arrest warrant for Putin in 2023. The US, China, Russia and India are not members of the court. Reports say the declaration did not mention artificial intelligence, which had been on the agenda.
 
-```photo
-{"n":1,"subject":"Xi Jinping","caption":"Chinese President Xi Jinping, host of the APEC summit, called the meeting a milestone and urged nuclear weapons to be banned and destroyed over time.","alt":"Chinese President Xi Jinping"}
-```
 
 ## How the day went
 
@@ -99,9 +96,6 @@ Ukraine was the hardest subject. Putin said the three countries share an interes
 
 No trade deal was announced. Trump asked Xi to do more for American farmers, and the US-China tariff truce runs to **January 10, 2027**. Reports mention proposed tariff cuts on about $30 billion of goods from each side, which neither government has confirmed.
 
-```photo
-{"n":2,"subject":"Vladimir Putin","caption":"Russian President Vladimir Putin called the meeting a historic step but ruled out direct talks with Ukraine afterwards.","alt":"Russian President Vladimir Putin"}
-```
 
 ## Why it matters for India
 

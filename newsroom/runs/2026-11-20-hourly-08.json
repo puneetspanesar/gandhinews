@@ -1,0 +1,22 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-20T08:03:52+05:30",
+ "end": "2026-11-20T08:53:24+05:30",
+ "summary": "SC Dalmia Gram Sabha ruling, SC Mustafabad Form 7 order, Shenzhen declaration update",
+ "new": [
+  "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+  "sc-delhi-sir-form7-mustafabad-eci-verify"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+   "why": "The headline is about three leaders but the story shows only Trump, in a very tight, glaring close-up with the top of the hair cut off by the crop, a hostile look on a peace-declaration story. The in-story photos of Xi Jinping and Vladimir Putin were NOT FOUND and the blocks will be dropped, so the story ends up with one of the three leaders pictured.",
+   "done": "Main picture replaced with a three-panel cover of Trump, Xi Jinping and Putin (calm library portraits, full heads, lead_cover.py); the two in-story photo blocks that never arrived were dropped from both languages; collage remade and checked."
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+}

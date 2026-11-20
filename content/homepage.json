@@ -22,7 +22,7 @@
       "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka"
     ],
     "relatedBeside": [
-      "modi-sco-civilisational-dialogue-forum-purana-qila"
+      "sc-delhi-sir-form7-mustafabad-eci-verify"
     ],
     "live": {
       "title": {
@@ -33,6 +33,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court asks Election Commission to verify claim of false Form 7 forms to delete Mustafabad voters",
+          "hi": "सुप्रीम कोर्ट ने चुनाव आयोग से कहा, मुस्तफाबाद के मतदाताओं को हटाने के लिए फर्जी फॉर्म 7 की शिकायत की जांच करे"
+        }
+      },
       {
         "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
         "lead": {
@@ -75,17 +86,6 @@
         "text": {
           "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
           "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
-        }
-      },
-      {
-        "link": "air-india-crash-probe-final-stages-supreme-court",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Air India AI171 crash probe is at its 'fag end', Centre tells Supreme Court, asks for two to three more weeks",
-          "hi": "एयर इंडिया एआई171 हादसे की जांच 'अंतिम चरण' में, केंद्र ने सुप्रीम कोर्ट से मांगे दो से तीन हफ्ते"
         }
       },
       {
@@ -186,13 +186,13 @@
   },
   "topStories": {
     "big": {
-      "id": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+      "id": "modi-sco-civilisational-dialogue-forum-purana-qila",
       "also": []
     },
     "list": [
+      "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
       "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-      "air-india-crash-probe-final-stages-supreme-court",
       "modi-world-bank-50-crore-poverty-claim",
       "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
     ],
@@ -371,11 +371,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "air-india-crash-probe-final-stages-supreme-court",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
         "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
       ],
-      "lead": "modi-sco-civilisational-dialogue-forum-purana-qila"
+      "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
     {
       "section": "economy",
@@ -476,6 +476,18 @@
         "hi": "मोदी पुराना किला, दिल्ली में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे (22 नवंबर तक)"
       },
       "link": "modi-sco-civilisational-dialogue-forum-purana-qila"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 25",
+        "hi": "25 नवंबर"
+      },
+      "text": {
+        "en": "Last day for claims and objections in Delhi's SIR draft roll",
+        "hi": "दिल्ली की एसआईआर मसौदा सूची पर दावे और आपत्तियों की अंतिम तारीख"
+      },
+      "link": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
     {
       "icon": "bank",
@@ -593,17 +605,17 @@
       ]
     },
     {
-      "at": "2026-11-20T08:34:20+05:30",
+      "at": "2026-11-20T08:51:06+05:30",
       "ids": [
         "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "air-india-ai171-final-report-must-be-public",
         "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
         "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
         "modi-sco-civilisational-dialogue-forum-purana-qila",
         "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
         "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "air-india-crash-probe-final-stages-supreme-court",
         "modi-world-bank-50-crore-poverty-claim",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
         "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
@@ -611,6 +623,8 @@
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "air-india-crash-probe-final-stages-supreme-court"
+  ],
   "mustReadEn": 8
 }

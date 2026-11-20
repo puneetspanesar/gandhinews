@@ -68,7 +68,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Supreme Court order of Thursday November 19, 2026 in Ali Mehdi v ECI (W.P.(C) 1493 of 2026), per LawChakra; Verdictum and The Federal agree on bench, direction and disposal."
+    - "event: Supreme Court order of Thursday November 19, 2026, in Ali Mehdi v ECI (W.P.(C) 1493 of 2026), per LawChakra; Verdictum and The Federal agree on bench, direction and disposal."
     - "Order text on sci.gov.in not opened; story rests on three published reports, written as 'according to reports'. 36 of 37 and 28 electors are counsel's claims per LawChakra only; attributed to counsel and the petition."
     - "Petitioner described as a Congress leader by LawChakra only. The Federal did not name him; Verdictum did not name him."
     - "Justice Bagchi quote is from LawChakra only."
