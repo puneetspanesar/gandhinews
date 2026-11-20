@@ -28351,7 +28351,8 @@
   "licence": "CC0",
   "alt": "A container train in India (file photo)",
   "alt_hi": "भारत में एक कंटेनर ट्रेन (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "container train, unrelated behind other stories (hourly-17, November 20)"
  },
  "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027--bg": {
   "id": "v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-bg",
@@ -50920,7 +50921,20 @@
   "licence": "CC BY 4.0",
   "alt": "Damage at the Malatipatpur bus stand in Puri, Odisha, after Cyclone Fani in 2019 (file photo)",
   "alt_hi": "2019 में चक्रवात फानी के बाद ओडिशा के पुरी में मालतीपाटपुर बस स्टैंड पर नुकसान (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Maltipatpur_Bus_stand_after_cyclone_Fani.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Maltipatpur_Bus_stand_after_cyclone_Fani.jpg",
+  "treated": {
+   "src": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
+   "src800": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
+   "cutout": false,
+   "with": [
+    "majhi-appointment-letters-2067-tribal-language-teachers--p2",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2",
+    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps--p2"
+   ],
+   "kind": "photo",
+   "subj": "dfc08060308f1f1f",
+   "credit": "Photos: Government of Odisha / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons"
+  }
  },
  "wpi-inflation-october-2026": {
   "id": "i-wpi-inflation-october-2026",

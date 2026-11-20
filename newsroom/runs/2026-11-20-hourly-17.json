@@ -1,11 +1,9 @@
 {
  "run": "hourly-17",
  "start": "2026-11-20T17:04:10+05:30",
- "end": "2026-11-20T17:53:09+05:30",
- "summary": "Record October crude imports (new), Akvan aftermath update",
- "new": [
-  "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
- ],
+ "end": "2026-11-20T18:05:23+05:30",
+ "summary": "Second publish: Akvan collage remade",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
