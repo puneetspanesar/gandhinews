@@ -29,6 +29,7 @@ export const PUBLISHER = {
   noBylinesPolicy: `${SITE_URL}/ai-policy/`,
   actionableFeedbackPolicy: `${SITE_URL}/contact/`,
   founder: { '@type': 'Person', name: 'Puneet Panesar', url: `${SITE_URL}/editor/` },
+  parentOrganization: { '@type': 'Organization', name: 'Thar Media and Publications', url: 'https://wearethar.com/' },
   ...(SAME_AS.length ? { sameAs: SAME_AS } : {}),
 };
 export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/about/`, parentOrganization: { '@id': `${SITE_URL}/#organization` } };

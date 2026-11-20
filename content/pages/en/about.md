@@ -29,7 +29,7 @@ Our [editorial standards](/standards/) set out the rules we follow. When we get 
 
 ## Who we are
 
-Gandhi News is owned and published by Puneet Panesar.
+Gandhi News is published by Thar Media and Publications, which also publishes the finance news site FinanceBharat. Thar Media and Publications is owned by Puneet Panesar.
 
 Editor-in-Chief: [Puneet Panesar](/editor/).
 
