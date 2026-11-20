@@ -49927,13 +49927,13 @@
   "src": "/photos/o-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision-1280.jpg",
   "src800": "/photos/o-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 763,
+  "height": 853,
+  "srcWidth": 1525,
   "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Bhupender Yadav (file photo)",
   "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_Bhupender_Yadav.jpg"
  },
  "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia": {
   "id": "o-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
@@ -51992,6 +51992,18 @@
   "licence": "GODL-India",
   "alt": "Shivraj Singh Chouhan (file photo)",
   "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg",
+  "treated": {
+   "src": "/photos/t-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-1280.jpg",
+   "src800": "/photos/t-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-640.jpg",
+   "cutout": true,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "ffff2010000c7cff",
+   "credit": "Photos: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
  }
 }

@@ -6,14 +6,14 @@ section: world
 format_label: "World / Climate"
 topics: []
 title: "India tells COP31 that making the Global South pay for past emissions is 'unjustified' as Antalya talks reach their last day"
-standfirst: "Environment Minister Bhupender Yadav put equity and climate finance at the centre of India's national statement on November 18, while the cover decision and adaptation money stayed open on the scheduled closing day."
+standfirst: "Environment Minister Bhupender Yadav put equity and climate finance at the centre of India's national statement on November 18. The conference was due to close on November 20 with the cover decision and adaptation money still open on the last published record."
 published: 2026-11-15T18:16:00+05:30
-updated: 2026-11-20T14:20:00+05:30
+updated: 2026-11-20T14:40:00+05:30
 location: Antalya
 keyPoints:
   - "Bhupender Yadav said **equitable access to the remaining carbon budget is non-negotiable** and that burdening the Global South for past emissions is unjustified."
   - "India is among the countries pressing to **move the next IPCC assessments to 2029**, against dozens that want them before the 2028 global review."
-  - "The conference is due to close **today, November 20**, with 21 agenda items still unresolved on November 18."
+  - "The conference is scheduled to close **today, November 20**; **21 agenda items were still open on November 18**."
 hero:
   need: "Bhupender Yadav, India's Environment Minister, at climate talks"
   suggested_source: "Bhupender Yadav"
@@ -72,7 +72,7 @@ verification:
     - "Updated 2:20 pm IST Nov 20 from the Nov 15 midpoint story. Primary: News On AIR report of India's national statement (Nov 18) and opening statement (Nov 10); only a summary, not the full text, was on the page. The 'unjustified' quote and IPCC 2029 position rest on Gulf News; Nov 16 draft details on Turkiye Today and To Vima (outlets not named in text)."
     - "The outcome of the final day was not available when written; the revised text expected early Thursday was not confirmed. To Vima has a sidebar saying fossil fuels were dropped from a draft; its body describes paragraph 66 phase-out language, so the fossil fuel wording is attributed to the November 16 draft only."
 ---
-India used its national statement at the UN climate conference in Antalya, Türkiye, on Wednesday, November 18, 2026, to demand that the final deal rest on **equity, climate justice and finance from rich countries**, as negotiators ran into the scheduled last day, Friday, November 20, with the main political text still unsettled. Environment Minister **Bhupender Yadav**, who leads India's delegation at COP31, said asking the Global South to carry the consequences of past emissions in the name of higher ambition "is unjustified", according to accounts of his remarks to ministers.
+India used its national statement at the UN climate conference in Antalya, Türkiye, on Wednesday, November 18, 2026, to demand that the final deal rest on **equity, climate justice and finance from rich countries**, with the main political text still unsettled. The conference is scheduled to close today, Friday, November 20, and no final-day outcome had been published by 2 pm IST. Environment Minister **Bhupender Yadav**, who leads India's delegation at COP31, said asking the Global South to carry the consequences of past emissions in the name of higher ambition "is unjustified", according to accounts of his remarks to ministers.
 
 ## What India said
 
@@ -90,10 +90,6 @@ The presidency circulated an 18-page draft of the overall political decision, wi
 
 According to reports, paragraph 65 reaffirms the COP28 commitment to transition away from fossil fuels, and paragraph 66 proposes stronger wording calling for "accelerated action to phase out fossil fuels" without a binding deadline. The draft also sets a collective, non-binding goal of raising electricity to **35% of global final energy consumption by 2035**, a Turkish initiative, up from about 23% now. On adaptation money it sets a baseline and a monitored pathway to triple finance by 2035. Developing countries want at least $120 billion a year. It expresses "deep concern" about the looming breach of the 1.5°C limit.
 
-```photo
-{"n":1,"subject":"Chris Bowen","caption":"Australia's climate minister Chris Bowen, who chairs the COP31 negotiations and released the draft cover decision on November 16.","alt":"Australian climate minister Chris Bowen"}
-```
-
 ## Where India's position is contested
 
 India's stance on fossil fuels and electrification was not spelt out in the accounts reviewed, but its position on **science timing** was. India, with Saudi Arabia, China, Russia and Kenya, has pressed for more time to prepare the next set of IPCC assessments. Dozens of countries want them ready before the 2028 global stocktake of emissions cuts; a smaller group including India and Saudi Arabia wants them postponed to 2029. Denmark's Samira Nawa said "there is no compromise when it comes to science". Saudi Arabia argues developing countries need more time to take part. We reported on the [IPCC timeline dispute](/en/news/ipcc-ar7-timeline-dispute-cop31-eu-acconcia) earlier in the conference.
@@ -102,7 +98,7 @@ India also dropped out of the race to host a future conference. South Korea's mi
 
 ## Positions on the floor
 
-On November 18 the presidency reported that **21 mandated agenda items were still unresolved**. Ministers met in a closed-door council the same day. COP31 President **Murat Kurum**, Türkiye's environment minister, said they spoke "openly and frankly in the room" and that "significant gains" were made. France's Monique Barbut said the session may not have advanced the talks but helped countries understand one another.
+On Wednesday, November 18, the presidency reported that **21 mandated agenda items were still unresolved**. Ministers met in a closed-door council the same day. COP31 President **Murat Kurum**, Türkiye's environment minister, said they spoke "openly and frankly in the room" and that "significant gains" were made. France's Monique Barbut said the session may not have advanced the talks but helped countries understand one another.
 
 Fossil fuels split the room. Portugal and Ireland unveiled national phase-out roadmaps, joining France, Germany, Finland, Denmark and the Netherlands. Tuvalu's Maina Talia urged a move from planning to delivery. Fiji's Lynda Tabuya said: "Our countries are sinking and it's a matter of survival for our people." Panama's Juan Carlos Navarro attacked the "petroleum mafia" and asked China and oil producers to contribute funds. China's delegation head Li Gao said the biggest obstacle is hard to identify. Reports say Saudi Arabia has worked against fossil fuel, electrification and climate science language, which it denies in part, saying publication schedules must allow proper review.
 
@@ -120,4 +116,4 @@ For India, the finance and carbon-budget language decides how much public money 
 
 ## What happens next
 
-Australia was expected to release a revised text early on Thursday, November 19. The conference is scheduled to close today, but COP28, COP29 and COP30 all ran past their deadlines, and every decision needs consensus. Any final text will have to settle fossil fuel wording, the adaptation finance baseline, the electrification goal and the IPCC calendar before delegates leave Antalya. The next conference is expected in the middle of next year in Tuvalu, with a pre-event in Dublin.
+As of 2 pm IST on Friday, November 20, no final-day outcome, revised cover text after November 18 or extension of the talks had been published on the sources we could open. On November 18 Australia's delegation was expected to release a revised text on Thursday, November 19. The conference is scheduled to close today, but COP28, COP29 and COP30 all ran past their deadlines, and every decision needs consensus. Any final text will have to settle fossil fuel wording, the adaptation finance baseline, the electrification goal and the IPCC calendar before delegates leave Antalya. The next conference is expected in the middle of next year in Tuvalu, with a pre-event in Dublin.

@@ -1,0 +1,31 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-20T14:04:39+05:30",
+ "end": "2026-11-20T14:43:59+05:30",
+ "summary": "Bird flu vaccine (new, lead), COP31 India statement update, markets 1:06 pm",
+ "new": [
+  "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+   "why": "Main picture of Bhupender Yadav is an extreme close-up with the top of the head cut off and a soft, over-enlarged face; in-story photo 1 (Chris Bowen) was NOT FOUND, so the story has no second picture.",
+   "done": "main picture replaced with the full Commons portrait File:Union_Minister_Bhupender_Yadav.jpg (GODL-India), whole head and shoulders shown; Chris Bowen block deleted in both languages"
+  },
+  {
+   "id": "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+   "why": "Updated 2:20 pm on November 20 but still carries November 18 figures (21 items open) and a stale preview: 'Australia was expected to release a revised text early on Thursday, November 19' and 'The conference is scheduled to close today' with no word on what the November 19 text said. 'Published' date is still November 15. Hindi has the same problem.",
+   "done": "one more search found nothing newer than November 18; stale lines rewritten as dated past facts (21 items open on November 18) and the story now says no final-day outcome, revised text or extension had been published by 2 pm IST November 20, EN and HI; figures unchanged so the infographic stands"
+  },
+  {
+   "id": "homepage",
+   "why": "lead, empty space, balance",
+   "done": "lead kept on the bird flu vaccine: the Shenzhen news story is 24 hours old and the Akvan news story was first published November 16, both over the 16-hour lead limit; New START explainer and the AI171 probe story dropped from the top (one Shenzhen item, two courts items); check_layout passes at 1440 and 390 px"
+  }
+ ],
+ "breaches": [],
+ "lead": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
+}

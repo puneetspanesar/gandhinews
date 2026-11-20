@@ -99,14 +99,14 @@
         }
       },
       {
-        "link": "air-india-crash-probe-final-stages-supreme-court",
+        "link": "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Kashmir:",
+          "hi": "कश्मीर:"
         },
         "text": {
-          "en": "Air India AI171 crash probe is at its 'fag end', Centre tells Supreme Court, asks for two to three more weeks",
-          "hi": "एयर इंडिया एआई171 हादसे की जांच 'अंतिम चरण' में, केंद्र ने सुप्रीम कोर्ट से मांगे दो से तीन हफ्ते"
+          "en": "Shah's 'last known active local' Lashkar terrorist in the Valley: the hedge holds, but no published count backs it",
+          "hi": "शाह का 'घाटी का आखिरी ज्ञात सक्रिय स्थानीय' लश्कर आतंकवादी: शब्दों की सीमा सही है, पर कोई प्रकाशित गिनती इसका आधार नहीं"
         }
       },
       {
@@ -193,7 +193,7 @@
       "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
       "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-      "air-india-crash-probe-final-stages-supreme-court"
+      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim"
     ],
     "also": [
       "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
@@ -371,9 +371,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "air-india-crash-probe-final-stages-supreme-court",
         "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
+        "india-bloc-48-questions-election-commission-supreme-court-sir"
       ],
       "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "at": "2026-11-20T14:30:23+05:30",
+      "at": "2026-11-20T14:39:20+05:30",
       "ids": [
         "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
         "farmer-id-explained-digital-agriculture-mission",
@@ -617,14 +617,16 @@
         "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
         "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "air-india-crash-probe-final-stages-supreme-court",
+        "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
       ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-sco-civilisational-dialogue-forum-purana-qila"
+    "modi-sco-civilisational-dialogue-forum-purana-qila",
+    "air-india-crash-probe-final-stages-supreme-court",
+    "new-start-explained-trilateral-arms-control-shenzhen-declaration"
   ],
   "mustReadEn": 10
 }
