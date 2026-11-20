@@ -49923,25 +49923,17 @@
   }
  },
  "cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision": {
-  "id": "r-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
-  "src": "/photos/r-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision-1280.jpg",
-  "src800": "/photos/r-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision-640.jpg",
+  "id": "o-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision",
+  "src": "/photos/o-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision-1280.jpg",
+  "src800": "/photos/o-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-decision-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "COP31 President Murat Kurum, Turkey's Environment Minister, at a meeting (file photo)",
-  "alt_hi": "कॉप31 के अध्यक्ष और तुर्की के पर्यावरण मंत्री मुरात कुरुम एक बैठक में (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-06).jpg",
-  "treated": {
-   "src": "/photos/t-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-de-1280.jpg",
-   "src800": "/photos/t-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-de-640.jpg",
-   "cutout": false,
-   "with": [],
-   "kind": "photo",
-   "subj": "dfcf8787879fff",
-   "credit": "Photo: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Service audiovisuel, EC - Audiovisual Service / Wikimedia Commons"
-  }
+  "height": 852,
+  "srcWidth": 763,
+  "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupender Yadav (file photo)",
+  "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Union_Minister_Bhupender_Yadav.jpg"
  },
  "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia": {
   "id": "o-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
@@ -51988,5 +51980,18 @@
    "subj": "ffffffc686040404",
    "credit": "Photos: Sailko / Wikimedia Commons; Pinakpani / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons; Gppande / Wikimedia Commons"
   }
+ },
+ "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal": {
+  "id": "o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+  "src": "/photos/o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-1280.jpg",
+  "src800": "/photos/o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 890,
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg"
  }
 }

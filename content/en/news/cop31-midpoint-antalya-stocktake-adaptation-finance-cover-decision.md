@@ -5,108 +5,119 @@ type: news
 section: world
 format_label: "World / Climate"
 topics: []
-title: "COP31 reaches its midpoint in Antalya with adaptation finance and a single political outcome still undecided"
-standfirst: "Nearly 200 countries passed the halfway mark of the Antalya climate talks on Saturday with the hardest questions pushed to ministers, and a first draft of the overall decision due early this week."
+title: "India tells COP31 that making the Global South pay for past emissions is 'unjustified' as Antalya talks reach their last day"
+standfirst: "Environment Minister Bhupender Yadav put equity and climate finance at the centre of India's national statement on November 18, while the cover decision and adaptation money stayed open on the scheduled closing day."
 published: 2026-11-15T18:16:00+05:30
+updated: 2026-11-20T14:20:00+05:30
 location: Antalya
 keyPoints:
-  - "Talks reached the halfway point on November 14 with **a first draft of the overall decision due early this week**."
-  - "Africa wants adaptation finance **tripled to at least $120 billion a year by 2035**, while another option would review the COP30 finance target."
-  - "Thousands marched in Antalya, and **the summit closes on Friday, November 20**."
+  - "Bhupender Yadav said **equitable access to the remaining carbon budget is non-negotiable** and that burdening the Global South for past emissions is unjustified."
+  - "India is among the countries pressing to **move the next IPCC assessments to 2029**, against dozens that want them before the 2028 global review."
+  - "The conference is due to close **today, November 20**, with 21 agenda items still unresolved on November 18."
 hero:
-  need: "COP31 president Murat Kurum and Australia's Chris Bowen"
-  suggested_source: "Murat Kurum"
-  subjects: ["Murat Kurum", "Chris Bowen"]
-  alt: "COP31 President Murat Kurum, Turkey's Environment Minister, at a meeting (file photo)"
+  need: "Bhupender Yadav, India's Environment Minister, at climate talks"
+  suggested_source: "Bhupender Yadav"
+  subjects: ["Bhupender Yadav", "Murat Kurum"]
+  alt: "Bhupender Yadav (file photo)"
   overlay:
-    value: "COP31 at the midpoint"
-related: [cop31-opens-antalya-turkey-australia-negotiations-india-position, guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent, global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31]
+    value: "India at COP31: equity first"
+related: [cop31-opens-antalya-turkey-australia-negotiations-india-position, guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent, ipcc-ar7-timeline-dispute-cop31-eu-acconcia, global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31]
 seo:
-  title: "COP31 Antalya midpoint: adaptation finance, cover decision"
-  description: "COP31 talks in Antalya hit the halfway mark on November 14, 2026. Adaptation finance, a just transition mechanism and the cover decision go to ministers."
+  title: "India at COP31: Yadav says Global South burden unjustified"
+  description: "At COP31 in Antalya, India's Bhupender Yadav demanded equity, climate finance and a fair carbon budget as talks near the November 20 close."
 infographic:
-  kicker: "COP31 week two"
-  headline: "COP31 enters its final week in Antalya"
-  dek: "Ministers take over the hardest issues before the summit closes on November 20"
+  kicker: "COP31 final day"
+  headline: "India's line at COP31: equity and finance"
+  dek: "Yadav's national statement came as 21 agenda items were still open"
   motif: globe
   stats:
     - {icon: calendar, value: "Nov 20", label: "scheduled close of the conference"}
-    - {icon: coins, value: "$120 bn", label: "a year by 2035, Africa's adaptation finance demand"}
-    - {icon: users, value: "7,000+", label: "marchers in Antalya, police estimate"}
-  source: "COP31 presidency, Climate Home News, Dawn, IANS, November 14-15, 2026"
+    - {icon: list-checks, value: "21", label: "mandated agenda items unresolved on November 18"}
+    - {icon: coins, value: "$120 bn", label: "a year by 2035, the adaptation finance developing countries want"}
+  source: "News On AIR, Gulf News, ThePrint, November 15-18, 2026"
 sources:
-  - title: "COP31 Türkiye Antalya 2026 UN Climate Change Conference: news and week-two schedule"
-    publisher: "COP31 Presidency"
-    date: 2026-11-15
-    url: "https://cop31.tr/"
+  - title: "India calls for equity, climate justice and fulfilment of climate finance obligations at UN climate conference COP31"
+    publisher: "News On AIR (All India Radio)"
+    date: 2026-11-18
+    url: "https://newsonair.gov.in/india-calls-for-equity-climate-justice-and-fulfilment-of-climate-finance-obligations-at-un-climate-conference-cop31/"
     primary: true
-  - title: "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress"
-    publisher: "Climate Home News"
-    date: 2026-11-14
-    url: "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+  - title: "India reaffirms commitment to climate multilateralism and fair, ambitious outcome at UNFCCC COP31 in Antalya"
+    publisher: "News On AIR (All India Radio)"
+    date: 2026-11-10
+    url: "https://newsonair.gov.in/india-reaffirms-commitment-to-climate-multilateralism-and-fair-ambitious-outcome-at-unfccc-cop31-in-antalya/"
+    primary: true
+  - title: "Countries air grievances in search of COP31 climate deal"
+    publisher: "Gulf News"
+    date: 2026-11-18
+    url: "https://gulfnews.com/world/countries-air-grievances-in-search-of-cop31-climate-deal-1.500752218"
     primary: false
-  - title: "Thousands rally in Antalya to demand climate justice as COP31 talks hit midpoint"
-    publisher: "Dawn"
-    date: 2026-11-14
-    url: "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint"
+  - title: "COP31: deep divisions remain as Friday deadline nears"
+    publisher: "To Vima"
+    date: 2026-11-18
+    url: "https://www.tovima.com/climate/cop31-deep-divisions-remain-as-friday-deadline-nears/"
     primary: false
-  - title: "UN talks enter decisive phase amid deep divisions over climate resilience"
-    publisher: "IANS via Morung Express"
-    date: 2026-11-15
-    url: "https://www.morungexpress.com/un-talks-enter-decisive-phase-amid-deep-divisions-over-climate-resilience"
+  - title: "COP 31 discussions: what to expect from the final week"
+    publisher: "ThePrint"
+    date: 2026-11-16
+    url: "https://theprint.in/environment/cop-31-discussions-what-to-expect-from-final-week/3101277/"
+    primary: false
+  - title: "Draft COP31 deal calls for faster fossil fuel phase-out"
+    publisher: "Turkiye Today"
+    date: 2026-11-16
+    url: "https://www.turkiyetoday.com/lifestyle/draft-cop31-deal-calls-for-faster-fossil-fuel-phaseout-3232561"
     primary: false
 verification:
   status: approved
   notes:
-    - "Written 6:30 pm IST Nov 15. Primary: cop31.tr (news items of Nov 12 and 14, week-two thematic days). No presidency statement of Nov 14-15 was on the page; the stocktaking plenary outcome was not available when written."
-    - "Quotes and negotiating detail rest on three independent published reports. Climate Home gives 'at least 14' and 'at least 15' countries for the electrification pledge, so the count is left out."
+    - "Updated 2:20 pm IST Nov 20 from the Nov 15 midpoint story. Primary: News On AIR report of India's national statement (Nov 18) and opening statement (Nov 10); only a summary, not the full text, was on the page. The 'unjustified' quote and IPCC 2029 position rest on Gulf News; Nov 16 draft details on Turkiye Today and To Vima (outlets not named in text)."
+    - "The outcome of the final day was not available when written; the revised text expected early Thursday was not confirmed. To Vima has a sidebar saying fossil fuels were dropped from a draft; its body describes paragraph 66 phase-out language, so the fossil fuel wording is attributed to the November 16 draft only."
 ---
-The United Nations climate conference in Antalya, Türkiye, reached its halfway point on Saturday, November 14, 2026, with **nearly 200 countries still far apart on adaptation finance**, a just transition mechanism and whether to produce a single overarching political decision. The summit is scheduled to close on **Friday, November 20**, and most of the hardest choices now pass from negotiators to ministers, who began arriving over the weekend.
+India used its national statement at the UN climate conference in Antalya, Türkiye, on Wednesday, November 18, 2026, to demand that the final deal rest on **equity, climate justice and finance from rich countries**, as negotiators ran into the scheduled last day, Friday, November 20, with the main political text still unsettled. Environment Minister **Bhupender Yadav**, who leads India's delegation at COP31, said asking the Global South to carry the consequences of past emissions in the name of higher ambition "is unjustified", according to accounts of his remarks to ministers.
 
-A midway stocktaking plenary on Saturday night, co-presided by Türkiye and Australia, was expected to bring countries' first red lines into the open. Observers do not expect a major breakthrough, according to reports from Antalya.
+## What India said
 
-## What is on the table
+Speaking at the conference, Yadav said "honest dialogue, equity-based consensus and urgent action must guide global climate efforts". He grounded India's case in the principle of common but differentiated responsibilities and respective capabilities, and in history: global warming, he said, is the result of **two centuries of industrialisation** and growth in some countries driven by unabated greenhouse gas emissions.
 
-The central open question is the "cover decision", a single political outcome for the whole conference. Reports from the venue say **some large developing countries have resisted it all week**, along with sectoral targets such as a voluntary pledge to raise electrification to 35% of energy use by 2035. The current text is a wishlist of every proposal tabled and must be turned into a draft, **expected early this week**.
+Developing countries, he said, should not have to choose between climate action and their right to development, decent living standards, health and education. **Equitable access to the remaining carbon budget is "non-negotiable"**, he said. He tied India's national climate plans to the goal of a developed India by 2047, pursued in a sustainable way, and said the success of COP31 must be judged by tangible implementation.
 
-On adaptation, a draft released overnight is the main battleground. African countries want **adaptation finance tripled to at least $120 billion a year** by 2035. A rival option would start a review of the COP30 finance target, covering its baseline, total amount and scope, and report to a later summit. African negotiators are likely to resist that route.
+India had set the same tone at the start of the conference. On November 10, Environment Ministry Secretary **Narendra Bhooshan** opened for India by calling on developed countries to meet their Paris Agreement obligations on finance, citing Article 9.1, which makes rich countries responsible for providing money to developing ones. He said public finance from developed nations remains central to adaptation flows, welcomed the presidency's idea of a "COP of Implementation" and voiced concern about warming crossing 1.5°C.
 
-The Just Transition Mechanism, promised at last year's Belém summit, is also contested. An informal note released late on Friday proposes two arms: one driven by governments and one for implementation, including civil society, hosted or supported by the UN climate secretariat. Its outputs would be a knowledge hub, reports, an annual exchange meeting and "matchmaking" of requests with existing support. It has **no explicit mechanism to mobilise finance**, which developing countries had demanded.
+Yadav arrived in Antalya on November 15. He urged countries to move from dialogue to practical, country-driven action, saying "there can be no one-size-fits-all approach", and pressed for a whole-of-economy just transition with adequate finance, technology transfer and capacity building. He also cited India's heat action and disaster management plans and its renewable energy expansion. He co-leads the mitigation consultations with Germany's Climate and Environment Minister Carsten Schneider.
 
-Other fights are narrower but sharp. The EU wants to extend the Mitigation Work Programme, with options running to 2030, 2031 or 2040, and the main dispute is whether to widen its scope so it feeds the 2028 Global Stocktake. Arab countries, Mexico, Korea and Switzerland have proposed holding COPs every two years rather than annually. The EU, the UK, Japan and Canada sought stronger links to Global Stocktake outcomes, while India, China and the Arab and African Groups stressed nationally determined action and finance for implementation.
+## What the draft says
 
-## Voices from the talks
+The presidency circulated an 18-page draft of the overall political decision, with 144 numbered paragraphs, on Monday, November 16. Australia's climate minister **Chris Bowen**, who chairs the negotiations, said it came out earlier than usual to give countries more time and that it was "not intended to reflect consensus".
 
-UN climate chief **Simon Stiell** called progress "constructive" and urged governments to "move swiftly" to the hardest issues and avoid tactical delays. "There's no climate quick fix," he said. "No single COP can magic this crisis away, but each must drive progress."
-
-Australia's climate minister **Chris Bowen**, who chairs the formal negotiations, said the co-presidency works "exceedingly well" and described "really good and positive conversations", while adding that some issues need more time. He said the electrification pledge is not part of the formal talks but that Australia wants to reflect its momentum in the cover decision, and he called the Just Transition text "comprehensive".
-
-EU climate commissioner Wopke Hoekstra suggested dropping the word "clean" from the electrification demand for pragmatic reasons, arguing that grey electricity still beats fossil fuels. Andreas Sieber of 350.org called that a "spineless tradeoff".
-
-Campaigners were blunter on money. Harjeet Singh of the Fill the Fund campaign said no new pledges have been made to the Loss and Damage Fund and that "workers and communities cannot eat reports". An unnamed observer described "a definite sense of drift" a week in. Solomon Islands Prime Minister Matthew Wale announced his country is making the first pledge to the Green Climate Fund's next replenishment.
+According to reports, paragraph 65 reaffirms the COP28 commitment to transition away from fossil fuels, and paragraph 66 proposes stronger wording calling for "accelerated action to phase out fossil fuels" without a binding deadline. The draft also sets a collective, non-binding goal of raising electricity to **35% of global final energy consumption by 2035**, a Turkish initiative, up from about 23% now. On adaptation money it sets a baseline and a monitored pathway to triple finance by 2035. Developing countries want at least $120 billion a year. It expresses "deep concern" about the looming breach of the 1.5°C limit.
 
 ```photo
-{"n":1,"subject":"Luiz Inácio Lula da Silva","caption":"Brazilian President Luiz Inácio Lula da Silva, whose country presided over COP30 and wants to host a future conference on moving away from fossil fuels.","alt":"Brazilian President Lula"}
+{"n":1,"subject":"Chris Bowen","caption":"Australia's climate minister Chris Bowen, who chairs the COP31 negotiations and released the draft cover decision on November 16.","alt":"Australian climate minister Chris Bowen"}
 ```
 
-## Streets and fossil fuels
+## Where India's position is contested
 
-Thousands marched through Antalya in the rain on Saturday. **Police estimated more than 7,000 people**, from environmental groups, trade unions and rights organisations, and the march passed without major incidents. Halime Saman of the People's Climate Summit platform said "our voices are never heard at the COP". Greta Thunberg joined a smaller demonstration inside the venue.
+India's stance on fossil fuels and electrification was not spelt out in the accounts reviewed, but its position on **science timing** was. India, with Saudi Arabia, China, Russia and Kenya, has pressed for more time to prepare the next set of IPCC assessments. Dozens of countries want them ready before the 2028 global stocktake of emissions cuts; a smaller group including India and Saudi Arabia wants them postponed to 2029. Denmark's Samira Nawa said "there is no compromise when it comes to science". Saudi Arabia argues developing countries need more time to take part. We reported on the [IPCC timeline dispute](/en/news/ipcc-ar7-timeline-dispute-cop31-eu-acconcia) earlier in the conference.
 
-On fossil fuels, Brazilian President Luiz Inácio Lula da Silva said Brazil should host a future conference on the transition away from them. The next is expected in the middle of next year in Tuvalu, with a pre-event in Dublin. Brazil's COP30 presidency has launched a voluntary roadmap that would phase out coal, oil and gas production and use after 2031, and the draft cover decision includes a proposal to welcome it.
+India also dropped out of the race to host a future conference. South Korea's minister Kim Sung-whan said his country is "deeply thinking" about bidding for COP33 after India and China withdrew their interest.
+
+## Positions on the floor
+
+On November 18 the presidency reported that **21 mandated agenda items were still unresolved**. Ministers met in a closed-door council the same day. COP31 President **Murat Kurum**, Türkiye's environment minister, said they spoke "openly and frankly in the room" and that "significant gains" were made. France's Monique Barbut said the session may not have advanced the talks but helped countries understand one another.
+
+Fossil fuels split the room. Portugal and Ireland unveiled national phase-out roadmaps, joining France, Germany, Finland, Denmark and the Netherlands. Tuvalu's Maina Talia urged a move from planning to delivery. Fiji's Lynda Tabuya said: "Our countries are sinking and it's a matter of survival for our people." Panama's Juan Carlos Navarro attacked the "petroleum mafia" and asked China and oil producers to contribute funds. China's delegation head Li Gao said the biggest obstacle is hard to identify. Reports say Saudi Arabia has worked against fossil fuel, electrification and climate science language, which it denies in part, saying publication schedules must allow proper review.
 
 ## How we got here
 
-The conference opened on November 9 under a Turkish presidency, with Australia running the negotiations, as [we reported](/en/news/cop31-opens-antalya-turkey-australia-negotiations-india-position). A leaders' summit followed on November 11 and 12, which [UN Secretary-General António Guterres addressed](/en/news/guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent) without the leaders of China, the United States or India present. On Saturday the presidency's programme turned to a Finance and Trade Day, bringing governments, financial institutions and businesses together on getting money to projects.
+The conference opened on November 9 under a Turkish presidency with Australia running negotiations, as [we reported](/en/news/cop31-opens-antalya-turkey-australia-negotiations-india-position). The leaders' summit on November 11 and 12 was [addressed by UN Secretary-General António Guterres](/en/news/guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent) without the leaders of China, the United States or India present. At the midpoint on November 14, more than 7,000 people marched in Antalya, police estimated, and adaptation finance, the just transition mechanism and the cover decision were all open.
+
+```timeline
+{"title":"India at COP31","items":[{"date":"Nov 10","text":"Secretary Narendra Bhooshan opens for India, citing Article 9.1 finance duties"},{"date":"Nov 15","text":"Bhupender Yadav arrives to lead the delegation"},{"date":"Nov 16","text":"Presidency circulates the 18-page draft cover decision"},{"date":"Nov 18","text":"Yadav's national statement; 21 agenda items still open"},{"date":"Nov 20","text":"Scheduled close of the conference"}]}
+```
 
 ## Why it matters
 
-For developing countries, the adaptation text decides how much money for sea walls, drought-proof farming and early warnings is promised after 2030. For India, which has pressed for predictable, largely public and concessional climate money, the finance language will set what it can expect to draw on. The Just Transition outcome matters to coal and oil workers in every producing country, which is why campaigners are asking for a formal body with a finance taskforce.
+For India, the finance and carbon-budget language decides how much public money it can count on for heat action, flood defences and the shift away from coal, and how much room its growth plans have under the remaining global limit. Delaying the IPCC reports to 2029 would push back the scientific input to the 2028 stocktake, the review that sets how fast countries must raise their targets. Last week's global carbon accounting showed [India's fossil emissions rising 4.4% while the world's dipped](/en/news/global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31), which is the pressure behind New Delhi's insistence on development space.
 
 ## What happens next
 
-The presidency's week-two programme runs by theme: science, industry and technology on Monday, November 16; ocean, nature and land use on Tuesday; human and social development and gender on Wednesday; implementation on Thursday; and final negotiations on Friday, November 20. A first draft of the cover decision is due early in the week, and ministers will take over the most controversial issues. Climate conferences routinely run past their scheduled close, so the final text may not arrive on Friday.
-
-```timeline
-{"title":"COP31 week two","items":[{"date":"Nov 14","text":"Midpoint stocktaking plenary and march in Antalya"},{"date":"Nov 16","text":"Science, industry and technology day; first cover decision draft expected"},{"date":"Nov 17-19","text":"Ocean and land use; social development and gender; implementation"},{"date":"Nov 20","text":"Final negotiations and scheduled close"}]}
-```
+Australia was expected to release a revised text early on Thursday, November 19. The conference is scheduled to close today, but COP28, COP29 and COP30 all ran past their deadlines, and every decision needs consensus. Any final text will have to settle fossil fuel wording, the adaptation finance baseline, the electrification goal and the IPCC calendar before delegates leave Antalya. The next conference is expected in the middle of next year in Tuvalu, with a pre-event in Dublin.
