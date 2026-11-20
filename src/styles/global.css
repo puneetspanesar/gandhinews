@@ -1067,3 +1067,6 @@ button,.ckb button,.subf button,.fbtn,.mh-sub{font-weight:700}
 .mnav li+li a::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:1px;background:linear-gradient(to bottom,rgba(17,17,17,0),rgba(17,17,17,.55) 50%,rgba(17,17,17,0))}
 .meta .ed{display:block}.meta .ed a{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .corr{margin:22px 0;padding:14px 16px;border:1px solid var(--ink);border-radius:3px;font-size:16px;line-height:1.5}.corr b{color:var(--red)}.corr a{color:var(--ink);text-decoration:underline;text-underline-offset:3px;margin-left:4px}
+
+/* Owner, November 20, 2026 (audit): a shorter mobile header so the lead headline sits higher on the first screen */
+@media(max-width:560px){.mh-wm{height:32px}.mh-brand{padding-top:4px;padding-bottom:8px}.tstrip{display:none}}

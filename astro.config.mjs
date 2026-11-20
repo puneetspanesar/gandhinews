@@ -31,6 +31,8 @@ for (const lang of ['en', 'hi']) {
   }
 }
 const BUILD_TIME = new Date();
+// Owner, November 20, 2026: weaker older stories carry noindex, follow and stay out of the sitemap (content/noindex.json).
+const NOINDEX = new Set(JSON.parse(fs.readFileSync('./content/noindex.json', 'utf8')).ids);
 import { unified } from '@astrojs/markdown-remark';
 import remarkGandhi from './src/lib/remark-gn.mjs';
 
@@ -66,7 +68,7 @@ export default defineConfig({
         }
         return item;
       },
-      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed)\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)),
+      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed|photo-credits|elections)\/$/.test(page) && !/\/page\/\d+\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)) && !NOINDEX.has(page.split('/').filter(Boolean).pop() ?? ''),
     }),
   ],
 });

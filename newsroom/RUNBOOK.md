@@ -4,6 +4,14 @@ Every scheduled run (hourly, long-form, stall check) follows this file plus its 
 
 The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare deploys every push to main, but only if `npm run build` passes: the build ends with scripts/check-links.mjs and scripts/gate.mjs, so a build that breaks a hard rule is never deployed and the last good site stays live.
 
+## OWNER'S RULES, NOVEMBER 20, 2026 (audit). These sit on top of the November 16 rules and win where they differ.
+Google's November core update (from November 10) cut the site's search impressions from about 200 a day to under 5. The site now shows Google only its strongest pages: content/noindex.json lists 1,730 older stories that stay readable but carry noindex, follow and are out of the sitemap. Never remove an id from that list unless the story has been rewritten on an official source; never add new stories to it.
+- OFFICIAL SOURCE OR NO STORY: every news story published from November 21 must link at least one official document, order, release, dataset or on-the-record statement and mark it `primary: true` in `sources:`. The gate fails a story without one. A story that only restates PTI, ANI or another outlet is not written.
+- NO ROUTINE RESULTS OR SCORES: quarterly results, match results, rankings and retirements are written only when we add context nobody else has (the filing's detail, the trend, what it means). Otherwise skip them.
+- STATES AND POLICY FIRST: prefer state, policy, court and official-data stories over foreign news. A World story needs a direct India angle.
+- SEO TITLE: every story sets `seo.title`, at most 60 characters (the gate fails over 65).
+- COLLAGES: when you read each new collage, also check the main photo has no out-of-focus heads or hands in front of the subject and no cut-off or doubled people. If it does, pick a cleaner photo or remake it before publishing again.
+
 ## OWNER'S RULES, NOVEMBER 16, 2026 (search recovery). These come first and override every other rule in every runbook.
 Google stopped showing the site on November 12 and dropped pages that had ranked: a new domain publishing about 50 AI-assisted stories a day looks like scaled content. The fix is fewer, stronger, original stories.
 - VOLUME: about 13 English pieces a day, never more than 18. Five writing runs a day (8:03 am, 11:03 am, 2:03 pm, 5:03 pm, 8:03 pm IST; owner, November 18: the site must visibly change through the day), 2 news stories each (a third only when it is clearly strong), and one long-form run (6:35 am: 1 explainer, 1 editorial, 1 fact check). The odd-hour lead runs, the evening long-form run and the opinion desk inside writing runs are stopped.

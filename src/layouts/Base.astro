@@ -29,7 +29,7 @@ interface Props {
   /** Share image for the page (a story's own photo); defaults to the site card. */
   image?: { url: string; width: number; height: number; alt: string } | null;
   /** Keep this page out of search engines even after launch (404). */
-  noindex?: boolean;
+  noindex?: boolean | 'follow';
 }
 const { lang, title, description, path, ogType = 'website', jsonld = [], crumbs = [], active = '', article, noindex = false, image = null, tabTitle } = Astro.props;
 const altPath = Astro.props.altPath === undefined ? swapLangPath(path, lang === 'en' ? 'hi' : 'en') : Astro.props.altPath;
@@ -105,6 +105,8 @@ const breadcrumbLd = crumbs.length
     }
   : null;
 const ld = [...jsonld, breadcrumbLd].filter(Boolean);
+// Owner, November 20, 2026: listing pages after page 1, the photo credits list and the empty elections front stay readable but out of Google's index.
+const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
 ---
 <!doctype html>
 <html lang={lang === 'hi' ? 'hi' : 'en'} dir="ltr">
@@ -118,8 +120,9 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {altPath && enPath && <link rel="alternate" hreflang="en-IN" href={abs(enPath)} />}
   {altPath && hiPath && <link rel="alternate" hreflang="hi-IN" href={abs(hiPath)} />}
   {altPath && enPath && <link rel="alternate" hreflang="x-default" href={abs(enPath)} />}
-  {(!SITE_LIVE || noindex) && <meta name="robots" content="noindex,nofollow" />}
-  {SITE_LIVE && !noindex && <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
+  {(!SITE_LIVE || noindex === true) && <meta name="robots" content="noindex,nofollow" />}
+  {SITE_LIVE && (noindex === 'follow' || (!noindex && THIN_PAGE)) && <meta name="robots" content="noindex,follow" />}
+  {SITE_LIVE && !noindex && !THIN_PAGE && <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
   <meta name="theme-color" content="#0d0d0d" />
   <link rel="icon" href="/icons/gn-icon.ico" sizes="48x48" />
   <link rel="icon" href="/icons/gn-icon.svg" type="image/svg+xml" />
@@ -150,7 +153,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImage} />
   {ld.map((d) => <JsonLd data={d} />)}
-  {/* Google Analytics 4: loads only on the live domain, only for real readers (never automated or staff browsers), and only after the reader accepts cookies. */}
+  {/* Google Analytics 4: live domain and real readers only (never automated or staff browsers); cookieless until the reader accepts cookies. */}
   <script is:inline>
     (function () {
       var live = location.hostname === 'gandhinews.com' || location.hostname === 'www.gandhinews.com';
@@ -174,11 +177,15 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         if (external && !sessionStorage.getItem('gn-src')) sessionStorage.setItem('gn-src', ref);
         firstRef = sessionStorage.getItem('gn-src') || '';
       } catch (e) {}
+      // Owner, November 20, 2026: Google consent mode. Until a reader chooses Accept, Analytics runs without cookies
+      // (analytics_storage denied: no cookie, no identifier on the device, only a cookieless page-view signal), so
+      // readership is counted. Accept turns cookies on. Advertising storage is always denied.
       window.lvLoadGA = function () {
         if (!live || window.lvGA) return; window.lvGA = true;
-        var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
         window.dataLayer = window.dataLayer || [];
         window.gtag = function () { dataLayer.push(arguments); };
+        gtag('consent', 'default', { analytics_storage: choice === 'yes' ? 'granted' : 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
+        var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
         var cfg = {};
         try {
           if (!sessionStorage.getItem('gn-ga') && firstRef && firstRef !== ref) cfg.page_referrer = firstRef;
@@ -186,7 +193,8 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         } catch (e) {}
         gtag('js', new Date()); gtag('config', 'G-RX4QDCN88Y', cfg);
       };
-      if (choice === 'yes') window.lvLoadGA();
+      window.lvLoadGA();
+      window.lvConsent = function (yes) { if (window.gtag) gtag('consent', 'update', { analytics_storage: yes ? 'granted' : 'denied' }); };
     })();
   </script>
 </head>
@@ -204,7 +212,8 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       </div>
       <div class="mh-act">
         <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
-        <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>
+        {/* Owner, November 20, 2026: the header button returns when the Morning Brief actually sends */}
+        {false && <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>}
       </div>
     </div>
     <div class="w mh-brand">
@@ -391,8 +400,8 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   </script>
   <div class="ck" id="ck" role="region" aria-label={lang === 'hi' ? 'कुकीज़' : 'Cookies'} hidden>
     <p>{lang === 'hi'
-      ? <>हम यह समझने के लिए कुकीज़ इस्तेमाल करते हैं कि कौन-सी खबरें पढ़ी जाती हैं। विज्ञापन वाली कुकीज़ नहीं। <a href={`${p}/privacy/#cookies`}>और जानें</a></>
-      : <>We use cookies to understand which stories are read. No advertising cookies. <a href={`${p}/privacy/#cookies`}>Learn more</a></>}</p>
+      ? <>कुकीज़ से हम जानते हैं कि कौन-सी खबरें पढ़ी जाती हैं। विज्ञापन नहीं। <a href={`${p}/privacy/#cookies`}>और जानें</a></>
+      : <>Cookies help us see which stories are read. No ads. <a href={`${p}/privacy/#cookies`}>More</a></>}</p>
     <div class="ckb"><button type="button" data-ck="no">{lang === 'hi' ? 'मना करें' : 'Decline'}</button><button type="button" class="ok" data-ck="yes">{lang === 'hi' ? 'स्वीकार करें' : 'Accept'}</button></div>
   </div>
   <script is:inline>
@@ -404,7 +413,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       box.addEventListener('click', function (e) {
         var b = e.target.closest('[data-ck]'); if (!b) return;
         set(b.getAttribute('data-ck')); box.hidden = true;
-        if (b.getAttribute('data-ck') === 'yes' && window.lvLoadGA) window.lvLoadGA();
+        if (window.lvConsent) window.lvConsent(b.getAttribute('data-ck') === 'yes');
       });
       document.querySelectorAll('[data-cookie-settings]').forEach(function (a) {
         a.addEventListener('click', function (e) { e.preventDefault(); box.hidden = false; });

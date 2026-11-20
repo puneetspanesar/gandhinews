@@ -1,4 +1,6 @@
 ---
+import NOINDEX_LIST from '../../content/noindex.json';
+const NOINDEX = new Set<string>(NOINDEX_LIST.ids);
 import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 import Photo from '../components/Photo.astro';
@@ -89,7 +91,7 @@ const heroOv = {
 ---
 <Base
   lang={lang}
-  noindex={d.verification?.status === 'needs-editor-approval'}
+  noindex={d.verification?.status === 'needs-editor-approval' ? true : NOINDEX.has(d.id) ? 'follow' : false}
   title={d.title}
   tabTitle={tabTitle(d)}
   description={d.seo.description}

@@ -158,6 +158,13 @@ def lint_story(lang, sid, fm, twin):
     if fm['_upd'] and fm['_pub'] and fm['_upd'] < fm['_pub']: fail(G, rel, 'updated is earlier than published')
     if not (fm.get('seo') or {}).get('description'): fail(G, rel, 'seo.description is missing')
     vs = (fm.get('verification') or {}).get('status')
+    # Owner, November 20, 2026 (audit): a news story published from today must rest on an official source it links,
+    # marked primary: true (a filing, order, release, dataset or on-the-record statement), and its SEO title must fit.
+    if lang == 'en' and fm.get('type') == 'news' and fm['_pub'] and fm['_pub'] >= dt.datetime(2026, 11, 21, tzinfo=IST):
+        if not any(isinstance(x, dict) and x.get('primary') for x in (fm.get('sources') or [])):
+            fail(G, rel, 'no source marked primary: true; build the story on an official document, order, release or dataset, or do not publish it')
+        st = (fm.get('seo') or {}).get('title') or fm.get('title') or ''
+        if len(st) > 65: fail(G, rel, f'seo.title is {len(st)} characters; keep it to 60 so Google does not cut it off')
     # Hindi twin
     if fm.get('type') in ('news', 'explainer', 'factcheck', 'editorial'):
         if twin is None: fail(G, rel, f'no {"Hindi" if lang == "en" else "English"} twin (content/{"hi" if lang == "en" else "en"}/{fm.get("_folder")}/{sid}.md)')

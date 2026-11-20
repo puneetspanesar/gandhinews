@@ -4,7 +4,7 @@ lang: en
 path: ai-policy
 title: "How we use AI"
 description: "Gandhi News uses AI tools in its newsroom for research, drafting and translation. Here is where they help, and the standards that apply to everything we publish."
-updated: 2026-10-31
+updated: 2026-11-20
 ---
 
 Like many newsrooms, we use AI tools to help with research, drafting and translation. They let us follow more of the news, and publish it in English and Hindi as it happens.
@@ -21,7 +21,7 @@ Like many newsrooms, we use AI tools to help with research, drafting and transla
 - Every story is held to our [editorial standards](/standards/), and the official documents behind it are linked where they exist.
 - Facts, figures and quotes come from those sources. We do not use AI to invent quotes, sources or people.
 - We do not present AI-generated images as photographs.
-- Our [Editor-in-Chief](/editor/) is responsible for everything we publish and reviews our coverage.
+- Our [Editor-in-Chief](/editor/) sets the rules every story must meet, approves our editorials, and is responsible for everything we publish, including corrections.
 
 ## When we get it wrong
 
