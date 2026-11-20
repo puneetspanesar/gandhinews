@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T09:38:00+05:30",
+  "as_of": "2026-11-20T13:06:00+05:30",
   "status": "open",
   "session_date": "2026-11-20",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 82797.27,
-      "change": -211.32,
-      "pct": -0.25,
+      "value": 83796.78,
+      "change": 775.03,
+      "pct": 0.93,
       "history": [
         {
           "date": "2026-10-05",
@@ -139,9 +139,9 @@
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25439.4,
-      "change": -80.65,
-      "pct": -0.32,
+      "value": 25739.15,
+      "change": 224.85,
+      "pct": 0.88,
       "history": [
         {
           "date": "2026-10-06",
@@ -506,11 +506,11 @@
   ],
   "sectors_source": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html",
   "flows": {
-    "date": "2026-11-11",
-    "fii": 12563.33,
-    "dii": -8434.53,
+    "date": "2026-11-19",
+    "fii": 7411.41,
+    "dii": -3863.96,
     "unit": "₹ crore",
-    "source": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
+    "source": "https://upstox.com/news/market-news/stocks/nifty-50-trades-above-25-700-sensex-gains-over-750-pts-dilip-buildcon-paytm-nhpc-among-buzzing-stocks/article-203765/"
   },
   "notes": [
     "5 Nov 17:15 IST (post-close check): Nov 5 Sensex and Nifty 50 closes confirmed present once each in history (22 and 23 sessions, under 30). India VIX Nov 4 history corrected 15.23 -> 15.19 (NSE close per Oquilia Market Pulse, Nov 2026 page; consistent with the 15.62 / +2.83% Nov 5 reading); Oquilia also confirms Nov 4 closes Nifty Bank 55,913.60 and Midcap 100 59,505.50. No Nov 5 closing figure found in a source read this run for Nifty Bank (level kept at earlier intraday read, Nov 5 not added to its history), India VIX (Nov 5 not added to history), Brent, MCX gold/silver, 10-year G-sec, Nifty losers or other sectors; old values kept. Rupee close 94.47 kept from the 16:05 read. Nov 5 FII/DII provisional not yet published (Trendlyne latest row 4 Nov), flows stay dated 4 Nov. ETV Bharat fetch not answered.",
@@ -548,7 +548,8 @@
     "18 Nov 18:30 IST (stall-18): Sensex close 82,031.81 (-500.38, -0.61%), Nifty 50 25,227.95 (-159.45, -0.63%), Nifty 50 gainers and losers from the HDFC Sky closing report (4:35 pm), matching Upstox (4:02 pm); Midcap 100 60,979.35 (-1.22%), India VIX 15.56 (+0.27%) and sectors from Upstox; changes for Midcap and VIX worked out from the printed % ; closes appended to history. Nifty Bank, rupee, Brent, gold, silver, yield and flows not in sources read this run: kept.",
     "19 Nov 12:20 IST (stall-12): Sensex 82,453.60 (+421.79, +0.51%) and Nifty 50 25,354.65 (+126.70, +0.5%) at 12:00 pm, Nifty Midcap 100 +0.47% at 11:11 am (level worked out from the Nov 18 close) from the Business Standard live blog; Brent $91.91 (-0.04%) from ETV Bharat (10:15 am). Nifty Bank hit a new high of 62,626.45 at 11:51 am but no previous close read, so kept. VIX, rupee, gold, silver, yield, movers with %, sectors kept from Nov 18 (not in sources read). Nov 18 FII buying Rs 5,866.78 crore read but no DII figure, so flows keep Nov 11.",
     "19 Nov 17:20 IST: closing values from the post-market report (Sensex 83,021.75, Nifty 25,514.30); Bank Nifty history had no closes Nov 5 to Nov 18. Rupee, gold, silver, 10-year yield and FII/DII flows kept (no matching figure read this run).",
-    "20 Nov 11:20 IST (hourly-11): Sensex, Nifty 50 and rupee from early-trade report of 9:38 am IST (Sensex -211.32 to 82,797.27; Nifty -80.65 to 25,439.40; rupee 93.15, up 17 paise). The live blog with later figures could not be fetched. Other indices, movers, sectors and flows keep their November 19 values."
+    "20 Nov 11:20 IST (hourly-11): Sensex, Nifty 50 and rupee from early-trade report of 9:38 am IST (Sensex -211.32 to 82,797.27; Nifty -80.65 to 25,439.40; rupee 93.15, up 17 paise). The live blog with later figures could not be fetched. Other indices, movers, sectors and flows keep their November 19 values.",
+    "20 Nov 14:20 IST (hourly-14): Sensex 83,796.78 (+775.03, +0.93%) and Nifty 50 25,739.15 (+224.85, +0.88%) at 1:06 pm, and Nov 19 FII +7,411.41 crore, DII -3,863.96 crore, from the Upstox market report (updated 1:20 pm) read this run. Nifty Bank, Midcap, VIX, rupee, Brent, gold, silver, yield, movers with %, sectors keep earlier values (no dated figure with levels read)."
   ],
   "holidays": [
     "2026-11-10"
