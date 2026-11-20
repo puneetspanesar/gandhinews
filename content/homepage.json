@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+    "id": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
     "overlay": {
       "kicker": {
-        "en": "Economy / RBI",
-        "hi": "अर्थव्यवस्था / आरबीआई"
+        "en": "Policy / Agriculture",
+        "hi": "नीति / कृषि"
       },
       "value": {
-        "en": "Outward FDI $4.65 bn in October",
-        "hi": "अक्टूबर में विदेशी निवेश $4.65 अरब"
+        "en": "First home-made H5N1 chicken vaccine",
+        "hi": "पहली स्वदेशी एच5एन1 चिकन वैक्सीन"
       },
       "text": {
         "en": "",
@@ -16,19 +16,44 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "farmer-id-explained-digital-agriculture-mission",
+      "msp-explained-how-set-who-benefits"
+    ],
     "relatedBeside": [
-      "sc-delhi-sir-form7-mustafabad-eci-verify"
+      "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
     ],
     "live": {
       "title": {
-        "en": "RBI",
-        "hi": "आरबीआई"
+        "en": "Agriculture",
+        "hi": "कृषि"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "Indian firms put $4.65 billion into overseas ventures in October, 17% more than a year ago",
+          "hi": "अक्टूबर में भारतीय कंपनियों ने विदेश में लगाए $4.65 अरब, एक साल पहले से 17% ज़्यादा"
+        }
+      },
+      {
+        "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
+          "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
+        }
+      },
       {
         "link": "sc-delhi-sir-form7-mustafabad-eci-verify",
         "lead": {
@@ -49,17 +74,6 @@
         "text": {
           "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
           "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
-        }
-      },
-      {
-        "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Modi to open first SCO Civilisational Dialogue Forum at Purana Qila on Friday",
-          "hi": "मोदी शुक्रवार को पुराना किला में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे"
         }
       },
       {
@@ -85,25 +99,14 @@
         }
       },
       {
-        "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "link": "air-india-crash-probe-final-stages-supreme-court",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
-          "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
-        }
-      },
-      {
-        "link": "modi-world-bank-50-crore-poverty-claim",
-        "lead": {
-          "en": "Poverty:",
-          "hi": "गरीबी:"
-        },
-        "text": {
-          "en": "Modi's '50 crore out of poverty in 12 to 13 years': the World Bank numbers fit, but only on one poverty line",
-          "hi": "मोदी का '12-13 साल में 50 करोड़ गरीबी से बाहर': विश्व बैंक के आंकड़े बैठते हैं, पर सिर्फ एक गरीबी रेखा पर"
+          "en": "Air India AI171 crash probe is at its 'fag end', Centre tells Supreme Court, asks for two to three more weeks",
+          "hi": "एयर इंडिया एआई171 हादसे की जांच 'अंतिम चरण' में, केंद्र ने सुप्रीम कोर्ट से मांगे दो से तीन हफ्ते"
         }
       },
       {
@@ -182,15 +185,15 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+      "id": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
       "also": []
     },
     "list": [
-      "modi-sco-civilisational-dialogue-forum-purana-qila",
+      "sc-delhi-sir-form7-mustafabad-eci-verify",
+      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
       "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
       "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-      "modi-world-bank-50-crore-poverty-claim"
+      "air-india-crash-probe-final-stages-supreme-court"
     ],
     "also": [
       "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
@@ -368,9 +371,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "air-india-crash-probe-final-stages-supreme-court",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
       ],
       "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
@@ -403,11 +406,11 @@
     },
     {
       "section": "policy",
-      "lead": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+      "lead": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "list": [
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
       ]
     },
     {
@@ -499,21 +502,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-19T11:32:20+05:30",
-      "ids": [
-        "air-india-crash-probe-final-stages-supreme-court",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-        "obc-creamy-layer-explained-parents-salary-supreme-court",
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi",
-        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
-      ]
-    },
     {
       "at": "2026-11-19T14:49:47+05:30",
       "ids": [
@@ -616,9 +604,27 @@
         "modi-world-bank-50-crore-poverty-claim",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
       ]
+    },
+    {
+      "at": "2026-11-20T14:30:23+05:30",
+      "ids": [
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "farmer-id-explained-digital-agriculture-mission",
+        "msp-explained-how-set-who-benefits",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "air-india-crash-probe-final-stages-supreme-court",
+        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+      ]
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "modi-sco-civilisational-dialogue-forum-purana-qila"
+  ],
   "mustReadEn": 10
 }
