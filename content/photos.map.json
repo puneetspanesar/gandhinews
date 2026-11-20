@@ -51826,13 +51826,13 @@
    "src800": "/photos/t-air-india-ai171-final-report-must-be-public-640.jpg",
    "cutout": false,
    "with": [
+    "air-india-ai171-final-report-must-be-public--p2",
     "how-india-measures-inflation-new-cpi-series",
-    "moil-q2-profit-falls-12-per-cent-interim-dividend--p2",
-    "supreme-court-449-ndps-courts-status-reports-little-progress"
+    "moil-q2-profit-falls-12-per-cent-interim-dividend--p2"
    ],
    "kind": "photo",
    "subj": "4f0707070307c6f4",
-   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons; Gujaratin / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Premkudva / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons; Gujaratin / Wikimedia Commons"
   }
  },
  "modi-world-bank-50-crore-poverty-claim": {
@@ -51899,5 +51899,18 @@
   "alt": "Surya Kant (file photo)",
   "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
+ },
+ "air-india-ai171-final-report-must-be-public--p2": {
+  "id": "o-air-india-ai171-final-report-must-be-public--p2",
+  "src": "/photos/o-air-india-ai171-final-report-must-be-public--p2-1280.jpg",
+  "src800": "/photos/o-air-india-ai171-final-report-must-be-public--p2-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 4000,
+  "credit": "Photo: Premkudva / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "An Air India Boeing 787 Dreamliner, the aircraft type of Flight 171 (file photo)",
+  "alt_hi": "एयर इंडिया का बोइंग 787 ड्रीमलाइनर, उड़ान 171 जैसा ही विमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Air_Indian_Boeing_787-8_Dreamliner_VT-ANY_20221121-1.jpg"
  }
 }
