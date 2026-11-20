@@ -5,41 +5,56 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Cyclone Akvan crosses the coast near Gopalpur as a weakened cyclonic storm with winds of 70 to 80 km/h; over 3 lakh moved, 40-plus trains cancelled"
-standfirst: "Akvan crossed the north Andhra Pradesh and south Odisha coast near Gopalpur in Ganjam between 7:30 and 8:30 am on Friday, weaker than forecast, and is due to fall to a deep depression within hours. Odisha had moved more than 3 lakh people; no damage figures were out by late morning."
+title: "Cyclone Akvan finishes crossing at Gopalpur; Odisha reports no deaths or major damage, 3.72 lakh moved to safety"
+standfirst: "Akvan completed its crossing in Ganjam by about 11:20 am on Friday. Odisha says no district reported major difficulty and no deaths were reported, after 3.72 lakh people were moved to shelters."
 published: 2026-11-16T12:12:30+05:30
-updated: 2026-11-20T11:12:15+05:30
+updated: 2026-11-20T17:08:08+05:30
 location: Visakhapatnam
 keyPoints:
-  - "Akvan **crossed the coast near Gopalpur between 7:30 and 8:30 am on November 20** as a cyclonic storm with winds of 70 to 80 km/h, gusting to 90 km/h, weaker than the 90 to 100 km/h the IMD had forecast; landfall was to run for about two more hours."
-  - "Odisha had **moved 2,98,676 people to 2,523 relief camps** by Thursday evening, with 423 rescue teams deployed and schools shut in 15 districts; Gopalpur recorded 190 mm of rain in 24 hours."
-  - "East Coast Railway **cancelled 41 trains and rescheduled 29**; the IMD expects the system to weaken to a deep depression within three hours. No damage, casualty or flight-cancellation figures had been reported by late morning."
+  - "Odisha **moved more than 3.72 lakh people to safety**, 1,54,290 of them in Ganjam, and says no major difficulty was reported from any district; no deaths had been reported by about 1 pm."
+  - "Akvan **finished crossing near Gopalpur by about 11:20 am on November 20**, with winds of 70 to 80 km/h gusting to 90, weaker than the 90 to 100 km/h the IMD had forecast."
+  - "East Coast Railway **cancelled 41 trains and rescheduled 29**; heavy to very heavy rain is still forecast for Odisha, coastal Andhra Pradesh and Gangetic West Bengal."
 hero:
   need: "A cyclone on the Andhra or Odisha coast: wind damage and rough sea (file photo)"
   suggested_source: "Cyclone Hudhud"
   subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
   alt: "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)"
   overlay:
-    value: "Landfall near Gopalpur, 7:30 to 8:30 am, November 20"
+    value: "No deaths reported; 3.72 lakh moved in Odisha"
 infographic:
   kicker: "Cyclone Akvan landfall"
   headline: "Akvan crosses near Gopalpur, weaker than forecast"
-  dek: "Winds of 70 to 80 km/h; over 3 lakh moved in Odisha"
+  dek: "No deaths or major damage reported; 3.72 lakh moved in Odisha"
   motif: wind
   stats:
     - {icon: map-pin, value: "7:30 to 8:30 am", label: "crossing time near Gopalpur, Ganjam, on November 20"}
     - {icon: wind, value: "70 to 80 km/h", label: "winds, gusting to 90 km/h; forecast had been 90 to 100"}
-    - {icon: users, value: "2,98,676", label: "moved to 2,523 relief camps in Odisha by Thursday evening"}
+    - {icon: users, value: "3.72 lakh", label: "people moved to safety in Odisha, 1,54,290 of them in Ganjam"}
   timeline:
     - {date: "November 20, 2:30 am", text: "Weakens from severe cyclonic storm to cyclonic storm, 170 km south of Gopalpur", icon: warning}
     - {date: "November 20, 7:30 to 8:30 am", text: "Crosses coast near Gopalpur at about 19.1N 84.8E", icon: map-pin}
-    - {date: "November 20, by about 10:30 am", text: "Landfall process due to finish; deep depression within three hours", icon: warning}
+    - {date: "November 20, by about 11:20 am", text: "Crossing completed; Odisha reports no major difficulty in any district", icon: warning}
   source: "IMD bulletin of November 20, 2026, as reported by the national broadcaster and agency reports, and Odisha government figures"
 related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu, akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings]
 seo:
-  title: "Cyclone Akvan crosses coast near Gopalpur, Odisha, Nov 20"
-  description: "Akvan crossed the Andhra and Odisha coast near Gopalpur between 7:30 and 8:30 am on November 20 with winds of 70 to 80 km/h; over 3 lakh moved, 41 trains cancelled."
+  title: "Cyclone Akvan: Odisha no deaths, 3.72 lakh moved, Nov 20"
+  description: "Akvan finished crossing near Gopalpur by about 11:20 am on November 20; Odisha reports no deaths or major damage, 3.72 lakh moved, 41 trains cancelled."
 sources:
+  - title: "Odisha shifts 3.72L to safety as Cyclone Akvan makes landfall, situation under control, says govt (Chief Secretary Anu Garg's statement after the review at the State Emergency Operation Centre; district-wise evacuation, rain to 8:30 am)"
+    publisher: "OdishaBytes"
+    date: 2026-11-20
+    url: "https://odishabytes.com/odisha-shifts-3-72l-to-safety-as-cyclone-akvan-makes-landfall-situation-under-control-says-govt/"
+    primary: false
+  - title: "Odisha escapes major damage as Cyclone Akvan makes landfall (landfall completed 11:20 am, Chief Minister at the State Emergency Operation Centre 11:45 am, Paradip port)"
+    publisher: "Down To Earth"
+    date: 2026-11-20
+    url: "https://www.downtoearth.org.in/natural-disasters/odisha-escapes-major-damage-as-cyclone-akvan-makes-landfall"
+    primary: false
+  - title: "CM reviews Akvan response (Minister Suresh Pujari at the State Emergency Operation Centre, 420-plus teams, no major damage or loss of life, 1:02 pm)"
+    publisher: "Tathya"
+    date: 2026-11-20
+    url: "https://tathya.in/cm-reviews-akvan-response/"
+    primary: false
   - title: "Severe Cyclonic Storm Akvan begins landfall along North Andhra Pradesh and South Odisha coasts, close to Gopalpur (IMD Director General Mrutyunjay Mohapatra and Bhubaneswar director Manorama Mohanty)"
     publisher: "News On AIR (All India Radio)"
     date: 2026-11-20
@@ -228,6 +243,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Updated November 20, 5:20 pm: the IMD site, the Odisha government site, and the Deccan Herald, Statesman and Newstrack pages could not be opened. Post-landfall figures rest on the state government's statement (Chief Secretary Anu Garg after the SEOC review) as carried by OdishaBytes, on Down To Earth (landfall completed 11:20 am, deep depression 11:30 am, Majhi at the SEOC 11:45 am; its page timestamp of 9:30 am is inconsistent with its content) and on Tathya (1:02 pm: no major damage or loss of life; says the deep depression is expected by evening, which conflicts with Down To Earth's 11:30 am, so the copy gives 11:20 am for landfall and says reports differ on the weakening hour). Evacuation 3.72 lakh and district split from the state statement; 4,470 of 12,294 pregnant women and 1,450 births from the same. State rain figures are district averages to 8:30 am (Ganjam 114.6 mm) and differ from the IMD station figures already in the story (Patrapur 209 mm). A Deccan Herald headline (not opened) says a minister said no major damage or loss of life; not quoted. No official death or damage figure for Andhra Pradesh or West Bengal found."
     - "Updated November 20, 11:10 am: the IMD site could not be opened (permission not granted) and the ANI report would not load; the landfall rests on the national broadcaster's 8:40 am report quoting the IMD Director General and the Bhubaneswar director, and on four agency or regional reports carrying the IMD bulletin text (crossing 7:30 to 8:30 am near Gopalpur, 70 to 80 km/h gusting 90, deep depression within three hours). Reports differ on the 5:30 am position (110 km south of Gopalpur; 70 km east of Kalingapatnam), on the speed (21, 23 and 26 km/h at different bulletin times) and on whether the weakening came at 2:30 am (IndToday) or earlier; the Federal attributes it to vertical wind shear. Trains: East Coast Railway 41 cancelled and 29 rescheduled (IndToday, Open Press), about 45 and 28 in the Federal; Odisha evacuation 2,98,676 to 2,523 camps by Thursday evening (Special Relief Commissioner), over 3 lakh in later reports. Rainfall 8:30 am November 19 to 8:30 am November 20 from Sambad (OMMCOM gives Gopalpur 186 mm in 23 hours to 7:30 am). Two reports carry a wrong date line (November 21) and are not used for dates. No damage, casualty, flight or Andhra evacuation figure found; the pre-landfall Odisha detail is from Thursday reports."
     - "Updated November 19, 5:20 pm: the IMD sites and two live pages could not be opened. New this run: more than 80,000 moved in Odisha against a 2 lakh target, Ganjam 36,398 by 6 am, 308 shelters operational and 1,098 pregnant women moved (PTI via ThePrint and OrissaPOST, 1:35 pm), against 448 shelters and 1,313 women in the earlier Majhi figures; about 72,000 evacuated, 7,900 shelters identified, 9,100 pregnant women identified, 19,057 boats back, 8:30 am bulletin speed 15 km/h (Yahoo, 7:31 am UTC); two Visakhapatnam to Koraput trains cancelled (PTI). Position at 5:30 am: 440 km ESE of Narsapur, 530 km S of Gopalpur, 590 km S of Puri, 12 km/h (PTI); speed reports differ (5, 12, 15 km/h), all given as reported. No later bulletin or Andhra evacuation figure found; News On AIR (8:13 am) still says afternoon landfall, noon kept per the IMD text."
     - "Updated November 19, 11:15 am: the IMD sites could not be opened (permission not granted), so everything rests on published reports of the IMD bulletin of 11:30 pm November 18 (13.9N 85.3E, 480 km SE of Narsapur, 5 km/h; Deccan Chronicle, Daily Jagran) and day-wise warnings (Daily Jagran). Landfall between Narsapur and Puri by noon November 20 at severe strength, winds 90 to 100 gusting 110 (several reports); the earlier very severe forecast (120 to 130) is dropped. The News On AIR report says afternoon; noon used. Odisha red list: 11 districts (Open Press, OMMCOM) against 13 (Majhi, Deccan Chronicle) and a different Friday red list in Daily Jagran; all stated as reported. 46,701 evacuated, 448 shelters, 1,313 pregnant women, 14 NDRF and 60 ODRAF, Rs 20.5 crore (Open Press, OMMCOM). School closures: Open Press, Business Upturn, Daily Jagran. Trains: Siasat and Deccan Chronicle (third train from Deccan Chronicle only). Storm surge, waves and Naveen Patnaik from The Week. A Hans India headline that the threat eases as the storm may weaken (November 18, 4:54 pm) was not read. No Andhra school closure, train cancellation or flight cancellation found; the Deccan Chronicle closure line does not name its six districts and matches Odisha's list."
@@ -243,12 +259,20 @@ verification:
     - "Death toll of 15 from Arnab and Murasu is reported by one wire report; marked as reported. Evacuation figure of 180,000 for Arnab is from one IANS report."
     - "Hero: Hudhud file photo from the picture library (Visakhapatnam beach road)."
 ---
-Cyclone Akvan **crossed the north Andhra Pradesh and south Odisha coast near Gopalpur** in Ganjam district **between 7:30 and 8:30 am on Friday, November 20**, as a cyclonic storm with sustained winds of 70 to 80 km/h, gusting to 90 km/h, according to the India Meteorological Department (IMD). That is weaker than the severe cyclonic storm with winds of 90 to 100 km/h that the IMD had forecast through Thursday. The landfall process was still under way at 10:21 am and was expected to take about two more hours, with the centre at about 19.1 degrees north, 84.8 degrees east.
+Cyclone Akvan **finished crossing the coast near Gopalpur** in Ganjam district by about 11:20 am on Friday, November 20, and Odisha says no district has reported major difficulty. Chief Secretary Anu Garg, after reviewing the situation at the State Emergency Operation Centre in Bhubaneswar, said the landfall process was "under control". No deaths and no major structural damage had been reported in the state by about 1 pm, according to reports from the emergency centre.
 
-The IMD expects the system to move north-northeast across Odisha, **weakening into a deep depression within three hours** of the crossing and into a depression over the following six. By late morning no damage, casualty or flight-cancellation figures had been reported. Odisha had **moved 2,98,676 people to 2,523 relief camps** by Thursday evening, with 423 rescue teams deployed, and East Coast Railway had **cancelled 41 trains and rescheduled 29**.
+The state moved **more than 3.72 lakh people to safer places**: 1,54,290 in Ganjam, 51,956 in Kendrapada, 40,295 in Puri, 28,693 in Gajapati and 23,061 in Khordha. More than 10,010 were in cyclone shelters at the time of the state's update. Of 12,294 pregnant women identified, 4,470 were moved to hospitals and Maa Gruhas, and 1,450 babies were born during the period; the government said all the mothers and newborns were safe.
+
+The cyclone crossed as a cyclonic storm with winds of 70 to 80 km/h, gusting to 90 km/h, according to the India Meteorological Department (IMD), **weaker than the 90 to 100 km/h** it had forecast through Thursday. The IMD had said the system would move north-northeast across Odisha and weaken into a deep depression within three hours of the crossing and into a depression over the following six; reports differ on the hour of the first step, with one putting it at about 11:30 am and another still expecting it by evening.
+
+## What Odisha is doing now
+
+Chief Minister Mohan Charan Majhi went to the State Emergency Operation Centre at about 11:45 am to review the storm's movement and the response. Revenue and Disaster Management Minister Suresh Pujari was on round-the-clock duty there and issued directions for rapid response and public safety. **More than 420 rescue and restoration teams** from the Odisha Disaster Rapid Action Force, the NDRF, fire services and tree-cutting units were deployed, clearing fallen trees and pumping water off roads in Berhampur and Digapahandi in Ganjam.
+
+By 8:30 am the state's district-wise rainfall was highest in Ganjam at 114.6 mm, followed by Kendrapada 64.6 mm, Puri 61.1 mm, Jagatsinghpur 51.3 mm, Bhadrak 50.9 mm, Mayurbhanj 43.9 mm, Balasore 43.7 mm and Cuttack 40.4 mm. At Paradip port, **56 fishing boats carrying 498 fishermen** were sheltered at the EQ-1 and EQ-2 berths, and the port's chairperson, Susanta Kumar Purohit, said the administration was monitoring developments with resources ready.
 
 ```facts
-{"title":"Akvan landfall at a glance","items":[{"value":"7:30 to 8:30 am","label":"crossing near Gopalpur, Ganjam, on November 20"},{"value":"70 to 80 km/h","label":"winds, gusting to 90 km/h, against a forecast of 90 to 100"},{"value":"2,98,676","label":"people moved to 2,523 relief camps in Odisha by Thursday evening"}]}
+{"title":"Akvan in Odisha at a glance","items":[{"value":"3.72 lakh","label":"people moved to safety, 1,54,290 of them in Ganjam"},{"value":"70 to 80 km/h","label":"winds at the crossing, gusting to 90 km/h, against a forecast of 90 to 100"},{"value":"420+","label":"rescue and restoration teams deployed; no deaths reported by about 1 pm"}]}
 ```
 
 ## What the IMD says
@@ -267,7 +291,7 @@ The cyclone's centre crossed in Odisha, and Andhra Pradesh was on the weaker sid
 
 ## Odisha
 
-Odisha's Special Relief Commissioner, Rajesh P. Patil, gave the evacuation figure of **2,98,676 people moved to 2,523 relief camps** by Thursday evening; reports on Friday morning put the total at over 3 lakh, with Ganjam accounting for nearly half. More than 4,000 pregnant women were shifted to health facilities and 1,017 babies had been delivered at cyclone shelters. The state activated 9,341 cyclone shelters and deployed 423 rescue teams, including 60 Odisha Disaster Rapid Action Force (ODRAF) and 14 NDRF teams, with 131 fire and emergency teams and 28 more fire teams on standby. The Coast Guard was asked to keep helicopters and vessels ready. Disaster Management Minister Suresh Pujari spoke about monitoring 941 landslide-prone locations in five districts, Gajapati having the most at 211.
+Odisha's Special Relief Commissioner, Rajesh P. Patil, gave the evacuation figure of **2,98,676 people moved to 2,523 relief camps** by Thursday evening; the state's later count, given above, is 3.72 lakh, with Ganjam accounting for more than 40%. The state activated 9,341 cyclone shelters and deployed 423 rescue teams, including 60 Odisha Disaster Rapid Action Force (ODRAF) and 14 NDRF teams, with 131 fire and emergency teams and 28 more fire teams on standby. The Coast Guard was asked to keep helicopters and vessels ready. Disaster Management Minister Suresh Pujari spoke about monitoring 941 landslide-prone locations in five districts, Gajapati having the most at 211.
 
 Schools and Anganwadi centres are closed in 15 districts, tourists are barred from coastal areas and fishermen have been told not to go to sea. The Konark Sun Temple and Archaeological Museum are shut until November 21, as are the Gundicha Temple in Puri and Bhitarkanika; Nandankanan and Similipal are shut on Friday. Chief Minister Mohan Charan Majhi reviewed preparedness and told officials to put public safety first and keep casualties to a minimum, repeating the state's target of "zero casualty".
 
@@ -287,4 +311,4 @@ Even as a weakened storm, Akvan arrives on ground already soaked by two earlier 
 
 ## What happens next
 
-The IMD's next bulletins will track the deep depression and the depression as they move across Odisha towards West Bengal and Jharkhand, and heavy rain is expected to continue for about two days in Odisha. Damage assessments, and any casualty figures, will follow once the landfall process ends around 10 or 11 am and the state's teams reach the coastal blocks.
+The IMD's next bulletins will track the system as it moves north-northeast across Odisha towards West Bengal and Jharkhand, and heavy rain is expected to continue for about two days in Odisha. The state's teams are still clearing roads and draining waterlogged areas, and district-level assessments of housing, crop and power losses have not been released. The Konark Sun Temple and Archaeological Museum stay shut until November 21.
