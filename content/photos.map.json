@@ -49933,7 +49933,16 @@
   "licence": "GODL-India",
   "alt": "Bhupender Yadav (file photo)",
   "alt_hi": "भूपेंद्र यादव (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_Bhupender_Yadav.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_Bhupender_Yadav.jpg",
+  "treated": {
+   "src": "/photos/t-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-de-1280.jpg",
+   "src800": "/photos/t-cop31-midpoint-antalya-stocktake-adaptation-finance-cover-de-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "183c383838180000",
+   "credit": "Photo: Ministry of Environment, Forest and Climate Change / Wikimedia Commons"
+  }
  },
  "mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia": {
   "id": "o-mann-tirath-yatra-bus-collision-tarn-taran-ex-gratia",
@@ -51997,13 +52006,10 @@
    "src": "/photos/t-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-1280.jpg",
    "src800": "/photos/t-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-640.jpg",
    "cutout": true,
-   "with": [
-    "dghs-warns-hospitals-reuse-single-use-medical-devices",
-    "sahajanand-medical-bonfiglioli-listing-debut"
-   ],
+   "with": [],
    "kind": "photo",
    "subj": "ffff2010000c7cff",
-   "credit": "Photos: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+   "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons"
   }
  }
 }

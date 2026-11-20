@@ -294,6 +294,7 @@ def fill_tiles(sid, M, have, n=3):
             out.append(k)
     for srx, arx in ([] if abroad else INSTITUTION) + UNIVERSAL:
         if len(out) >= n: break
+        if re.search(r'hospital|AIIMS', arx) and re.search(r'poultry|chicken|livestock|veterinar|bird flu|avian|cattle', story, re.I): continue   # an animal vaccine is not a hospital story (hourly-14, November 20: operating theatre and Nirman Bhawan behind a poultry vaccine)
         if re.search(rf'\b(?:{srx})', text, re.I): pick(arx, 2)
     return out[:n]
 

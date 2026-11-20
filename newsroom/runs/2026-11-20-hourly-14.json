@@ -1,11 +1,9 @@
 {
  "run": "hourly-14",
  "start": "2026-11-20T14:04:39+05:30",
- "end": "2026-11-20T14:43:59+05:30",
- "summary": "Bird flu vaccine (new, lead), COP31 India statement update, markets 1:06 pm",
- "new": [
-  "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
- ],
+ "end": "2026-11-20T14:59:15+05:30",
+ "summary": "Second publish: bird flu and COP31 collages remade",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
