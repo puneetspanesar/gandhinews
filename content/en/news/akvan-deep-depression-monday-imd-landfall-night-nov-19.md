@@ -5,41 +5,76 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Akvan to cross the Andhra and Odisha coast by noon on November 20 as a severe storm; Odisha moves over 80,000 people and trains are cancelled"
-standfirst: "Akvan was 440 km east-southeast of Narsapur at 5:30 am on Thursday, with landfall between Narsapur and Puri due by noon on Friday and winds of 90 to 100 km/h. Odisha has moved more than 80,000 people against a target of 2 lakh and two trains are cancelled."
+title: "Cyclone Akvan crosses the coast near Gopalpur as a weakened cyclonic storm with winds of 70 to 80 km/h; over 3 lakh moved, 40-plus trains cancelled"
+standfirst: "Akvan crossed the north Andhra Pradesh and south Odisha coast near Gopalpur in Ganjam between 7:30 and 8:30 am on Friday, weaker than forecast, and is due to fall to a deep depression within hours. Odisha had moved more than 3 lakh people; no damage figures were out by late morning."
 published: 2026-11-16T12:12:30+05:30
-updated: 2026-11-19T17:10:48+05:30
+updated: 2026-11-20T11:12:15+05:30
 location: Visakhapatnam
 keyPoints:
-  - "The IMD forecasts landfall **between Narsapur and Puri by noon on November 20**, as a severe storm with winds of 90 to 100 km/h; at 5:30 am on Thursday it was 440 km east-southeast of Narsapur."
-  - "Odisha has **moved more than 80,000 people** against a target of 2 lakh, shut schools in the red, orange and yellow warning districts and deployed 74 rescue teams."
-  - "Andhra Pradesh has **13 NDRF and 11 SDRF teams** on standby and a red alert for six north coastal districts on November 20; **two trains are cancelled** and three rescheduled."
+  - "Akvan **crossed the coast near Gopalpur between 7:30 and 8:30 am on November 20** as a cyclonic storm with winds of 70 to 80 km/h, gusting to 90 km/h, weaker than the 90 to 100 km/h the IMD had forecast; landfall was to run for about two more hours."
+  - "Odisha had **moved 2,98,676 people to 2,523 relief camps** by Thursday evening, with 423 rescue teams deployed and schools shut in 15 districts; Gopalpur recorded 190 mm of rain in 24 hours."
+  - "East Coast Railway **cancelled 41 trains and rescheduled 29**; the IMD expects the system to weaken to a deep depression within three hours. No damage, casualty or flight-cancellation figures had been reported by late morning."
 hero:
   need: "A cyclone on the Andhra or Odisha coast: wind damage and rough sea (file photo)"
   suggested_source: "Cyclone Hudhud"
   subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
   alt: "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)"
   overlay:
-    value: "Landfall due by noon, November 20"
+    value: "Landfall near Gopalpur, 7:30 to 8:30 am, November 20"
 infographic:
-  kicker: "Cyclone Akvan watch"
-  headline: "Akvan due ashore by noon on Friday as severe storm"
-  dek: "Landfall between Narsapur and Puri; Odisha has moved over 80,000 people"
+  kicker: "Cyclone Akvan landfall"
+  headline: "Akvan crosses near Gopalpur, weaker than forecast"
+  dek: "Winds of 70 to 80 km/h; over 3 lakh moved in Odisha"
   motif: wind
   stats:
-    - {icon: map-pin, value: "440 km", label: "east-southeast of Narsapur at 5:30 am on Thursday"}
-    - {icon: wind, value: "90 to 100 km/h", label: "winds forecast at landfall, gusts to 110 km/h"}
-    - {icon: users, value: "80,000+", label: "people moved to safety in Odisha, against a target of 2 lakh"}
+    - {icon: map-pin, value: "7:30 to 8:30 am", label: "crossing time near Gopalpur, Ganjam, on November 20"}
+    - {icon: wind, value: "70 to 80 km/h", label: "winds, gusting to 90 km/h; forecast had been 90 to 100"}
+    - {icon: users, value: "2,98,676", label: "moved to 2,523 relief camps in Odisha by Thursday evening"}
   timeline:
-    - {date: "November 19, 5:30 am", text: "440 km east-southeast of Narsapur, moving north", icon: map-pin}
-    - {date: "November 19", text: "Rain begins; Odisha moves over 80,000; two trains cancelled", icon: warning}
-    - {date: "November 20", text: "Landfall between Narsapur and Puri by noon; red alerts", icon: warning}
-  source: "IMD bulletins of November 19, 2026, and Odisha government figures, as published on November 19"
+    - {date: "November 20, 2:30 am", text: "Weakens from severe cyclonic storm to cyclonic storm, 170 km south of Gopalpur", icon: warning}
+    - {date: "November 20, 7:30 to 8:30 am", text: "Crosses coast near Gopalpur at about 19.1N 84.8E", icon: map-pin}
+    - {date: "November 20, by about 10:30 am", text: "Landfall process due to finish; deep depression within three hours", icon: warning}
+  source: "IMD bulletin of November 20, 2026, as reported by the national broadcaster and agency reports, and Odisha government figures"
 related: [murasu-andhra-damage-revised-2484-crore-central-team-naidu, akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings]
 seo:
-  title: "Cyclone Akvan landfall by noon November 20, Andhra and Odisha"
-  description: "Akvan is forecast to cross between Narsapur and Puri by noon on November 20 as a severe storm; Odisha has moved over 80,000 people and two trains are cancelled."
+  title: "Cyclone Akvan crosses coast near Gopalpur, Odisha, Nov 20"
+  description: "Akvan crossed the Andhra and Odisha coast near Gopalpur between 7:30 and 8:30 am on November 20 with winds of 70 to 80 km/h; over 3 lakh moved, 41 trains cancelled."
 sources:
+  - title: "Severe Cyclonic Storm Akvan begins landfall along North Andhra Pradesh and South Odisha coasts, close to Gopalpur (IMD Director General Mrutyunjay Mohapatra and Bhubaneswar director Manorama Mohanty)"
+    publisher: "News On AIR (All India Radio)"
+    date: 2026-11-20
+    url: "https://newsonair.gov.in/severe-cyclonic-storm-akvan-begins-landfall-along-north-andhra-pradesh-and-south-odisha-coasts-close-to-gopalpur/"
+    primary: true
+  - title: "Cyclone Akvan crosses Andhra-Odisha coasts near Gopalpur (IMD bulletin text: crossing 0730 to 0830 IST, positions, outlook)"
+    publisher: "Punjab Kesari (IANS)"
+    date: 2026-11-20
+    url: "https://english.punjabkesari.com/india/cyclone-akvan-crosses-andhra-odisha-coasts"
+    primary: false
+  - title: "Cyclone Akvan crosses coast near Gopalpur, landfall to continue for next 2 hours (19.1N 84.8E, rainfall at Gopalpur and Chandbali)"
+    publisher: "OMMCOM News"
+    date: 2026-11-20
+    url: "https://ommcomnews.com/odisha-news/cyclone-akvan-crosses-coast-near-gopalpur-landfall-to-continue-for-next-2-hours/"
+    primary: false
+  - title: "Cyclone Akvan makes landfall near Odisha's Gopalpur (10:21 am update: warnings, surge, flash-flood risk, 3 lakh evacuated)"
+    publisher: "The Open Press"
+    date: 2026-11-20
+    url: "https://theopenpress.in/article/cyclone-akvan-odisha-landfall-live-weather-alert"
+    primary: false
+  - title: "Cyclone Akvan likely to weaken into depression over Odisha today: IMD (24-hour rainfall by station)"
+    publisher: "Sambad English"
+    date: 2026-11-20
+    url: "https://sambadenglish.com/latest-news/cyclone-akvan-likely-to-weaken-into-depression-over-odisha-today-imd-12825405"
+    primary: false
+  - title: "Cyclone Akvan weakens, crosses Odisha coast near Gopalpur (relief camps, shelters, landslide-prone locations, trains; Special Relief Commissioner Rajesh P. Patil)"
+    publisher: "IndToday"
+    date: 2026-11-20
+    url: "https://indtoday.com/cyclone-akvan-weakens-crosses-odisha-coast-near-gopalpur/"
+    primary: false
+  - title: "Cyclone Akvan begins landfall near Odisha coast, over 3 lakh people evacuated (Ganjam share, pregnant women, trains; East Coast Railway spokesperson)"
+    publisher: "The Federal"
+    date: 2026-11-20
+    url: "https://thefederal.com/category/news/cyclone-akvan-begins-landfall-near-odisha-coast-over-3-lakh-people-evacuated-263485"
+    primary: false
   - title: "Odisha govt evacuates over 80,000 people, deploys 74 rescue teams in view of Cyclone Akvan (5:30 am position, Ganjam figures, trains)"
     publisher: "ThePrint (PTI)"
     date: 2026-11-19
@@ -193,6 +228,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Updated November 20, 11:10 am: the IMD site could not be opened (permission not granted) and the ANI report would not load; the landfall rests on the national broadcaster's 8:40 am report quoting the IMD Director General and the Bhubaneswar director, and on four agency or regional reports carrying the IMD bulletin text (crossing 7:30 to 8:30 am near Gopalpur, 70 to 80 km/h gusting 90, deep depression within three hours). Reports differ on the 5:30 am position (110 km south of Gopalpur; 70 km east of Kalingapatnam), on the speed (21, 23 and 26 km/h at different bulletin times) and on whether the weakening came at 2:30 am (IndToday) or earlier; the Federal attributes it to vertical wind shear. Trains: East Coast Railway 41 cancelled and 29 rescheduled (IndToday, Open Press), about 45 and 28 in the Federal; Odisha evacuation 2,98,676 to 2,523 camps by Thursday evening (Special Relief Commissioner), over 3 lakh in later reports. Rainfall 8:30 am November 19 to 8:30 am November 20 from Sambad (OMMCOM gives Gopalpur 186 mm in 23 hours to 7:30 am). Two reports carry a wrong date line (November 21) and are not used for dates. No damage, casualty, flight or Andhra evacuation figure found; the pre-landfall Odisha detail is from Thursday reports."
     - "Updated November 19, 5:20 pm: the IMD sites and two live pages could not be opened. New this run: more than 80,000 moved in Odisha against a 2 lakh target, Ganjam 36,398 by 6 am, 308 shelters operational and 1,098 pregnant women moved (PTI via ThePrint and OrissaPOST, 1:35 pm), against 448 shelters and 1,313 women in the earlier Majhi figures; about 72,000 evacuated, 7,900 shelters identified, 9,100 pregnant women identified, 19,057 boats back, 8:30 am bulletin speed 15 km/h (Yahoo, 7:31 am UTC); two Visakhapatnam to Koraput trains cancelled (PTI). Position at 5:30 am: 440 km ESE of Narsapur, 530 km S of Gopalpur, 590 km S of Puri, 12 km/h (PTI); speed reports differ (5, 12, 15 km/h), all given as reported. No later bulletin or Andhra evacuation figure found; News On AIR (8:13 am) still says afternoon landfall, noon kept per the IMD text."
     - "Updated November 19, 11:15 am: the IMD sites could not be opened (permission not granted), so everything rests on published reports of the IMD bulletin of 11:30 pm November 18 (13.9N 85.3E, 480 km SE of Narsapur, 5 km/h; Deccan Chronicle, Daily Jagran) and day-wise warnings (Daily Jagran). Landfall between Narsapur and Puri by noon November 20 at severe strength, winds 90 to 100 gusting 110 (several reports); the earlier very severe forecast (120 to 130) is dropped. The News On AIR report says afternoon; noon used. Odisha red list: 11 districts (Open Press, OMMCOM) against 13 (Majhi, Deccan Chronicle) and a different Friday red list in Daily Jagran; all stated as reported. 46,701 evacuated, 448 shelters, 1,313 pregnant women, 14 NDRF and 60 ODRAF, Rs 20.5 crore (Open Press, OMMCOM). School closures: Open Press, Business Upturn, Daily Jagran. Trains: Siasat and Deccan Chronicle (third train from Deccan Chronicle only). Storm surge, waves and Naveen Patnaik from The Week. A Hans India headline that the threat eases as the storm may weaken (November 18, 4:54 pm) was not read. No Andhra school closure, train cancellation or flight cancellation found; the Deccan Chronicle closure line does not name its six districts and matches Odisha's list."
     - "Updated November 18, 1:25 pm: the IMD site could not be opened. Bulletin No. 20 (4:00 am, 2:30 am data: 12.6N 85.6E, 590 km east of Chennai, 620 km SSE of Visakhapatnam, winds 85 to 95 km/h, surge 0.4 to 1.2 m, models diverge, ECMWF weaker) is from The Watchers; the 5:30 am position (severe cyclonic storm, 610 km SSE of Visakhapatnam, 580 km east of Chennai, 730 km south of Gopalpur) and APSDMA's Prakhar Jain remark are from Gallinews; Anitha's 11:11 am review, 13 NDRF and 11 SDRF teams, helplines are from The Hans India. No 8:30 am or 11:30 am bulletin text found. Reports differ between a noon and an afternoon landfall; the IMD forecast text (noon) is used. The Hans India says winds of 100 to 120 km/h at landfall, against the IMD 120 to 130; the IMD figure is used."
@@ -207,50 +243,48 @@ verification:
     - "Death toll of 15 from Arnab and Murasu is reported by one wire report; marked as reported. Evacuation figure of 180,000 for Arnab is from one IANS report."
     - "Hero: Hudhud file photo from the picture library (Visakhapatnam beach road)."
 ---
-Cyclone Akvan is forecast to cross the north Andhra Pradesh, Yanam and south Odisha coasts **between Narsapur and Puri by noon on Friday, November 20**, as a severe cyclonic storm with sustained winds of 90 to 100 km/h, gusting to 110 km/h, according to reports of the India Meteorological Department's (IMD) bulletins of Thursday, November 19. At 5:30 am on Thursday the storm was over the west-central Bay of Bengal, about **440 km east-southeast of Narsapur**, 530 km south of Gopalpur and 590 km south of Puri, moving north at about 12 km/h; reports of the 8:30 am bulletin put its speed at 15 km/h.
+Cyclone Akvan **crossed the north Andhra Pradesh and south Odisha coast near Gopalpur** in Ganjam district **between 7:30 and 8:30 am on Friday, November 20**, as a cyclonic storm with sustained winds of 70 to 80 km/h, gusting to 90 km/h, according to the India Meteorological Department (IMD). That is weaker than the severe cyclonic storm with winds of 90 to 100 km/h that the IMD had forecast through Thursday. The landfall process was still under way at 10:21 am and was expected to take about two more hours, with the centre at about 19.1 degrees north, 84.8 degrees east.
 
-Odisha has now **moved more than 80,000 people to safety**, against a target of 2 lakh, according to figures reported on Thursday afternoon, up from the 46,701 reported by the morning. In Ganjam, the district most likely to be worst hit, 36,398 people had been moved to shelters by 6 am. Andhra Pradesh has 13 National Disaster Response Force (NDRF) teams and 11 State Disaster Response Force (SDRF) teams on standby, and the railways have **cancelled two trains between Visakhapatnam and Koraput** for Thursday and Friday, besides rescheduling three more.
+The IMD expects the system to move north-northeast across Odisha, **weakening into a deep depression within three hours** of the crossing and into a depression over the following six. By late morning no damage, casualty or flight-cancellation figures had been reported. Odisha had **moved 2,98,676 people to 2,523 relief camps** by Thursday evening, with 423 rescue teams deployed, and East Coast Railway had **cancelled 41 trains and rescheduled 29**.
 
 ```facts
-{"title":"Akvan at a glance","items":[{"value":"440 km","label":"east-southeast of Narsapur at 5:30 am, Thursday"},{"value":"90 to 100 km/h","label":"winds forecast at landfall, gusting to 110 km/h"},{"value":"80,000+","label":"people moved to safety in Odisha, against a target of 2 lakh"}]}
+{"title":"Akvan landfall at a glance","items":[{"value":"7:30 to 8:30 am","label":"crossing near Gopalpur, Ganjam, on November 20"},{"value":"70 to 80 km/h","label":"winds, gusting to 90 km/h, against a forecast of 90 to 100"},{"value":"2,98,676","label":"people moved to 2,523 relief camps in Odisha by Thursday evening"}]}
 ```
 
 ## What the IMD says
 
-The landfall stretch has shifted north from the Nellore to Visakhapatnam range quoted earlier this week to **Narsapur to Puri**, with the crossing expected by noon on Friday; one broadcaster's report on Thursday morning said the afternoon. Sea conditions are forecast to be very high, with waves of 9 to 14 metres, to phenomenal, above 14 metres, along the projected path. A storm surge of 0.5 to 1 metre above the astronomical tide could flood low-lying parts of Ganjam and Puri, according to reports of the IMD outlook. IMD Director General Mrutyunjay Mohapatra said parts of Odisha could see extremely heavy rain on November 19 and 20.
+IMD Director General Mrutyunjay Mohapatra said the storm had started making landfall near Gopalpur, and Manorama Mohanty, director of the Bhubaneswar Met Office, said the crossing would be complete between 10 and 11 am, with similar winds of 70 to 90 km/h for the next several hours. At 5:30 am the centre was over the west-central Bay of Bengal, about 110 km south of Gopalpur and 200 km south-southwest of Puri, moving north-northwest at about 23 km/h; reports of the bulletins put the speed at between 21 and 26 km/h at different hours. The storm had **weakened from a severe cyclonic storm to a cyclonic storm at about 2:30 am**, when it lay about 170 km south of Gopalpur, which one regional report attributed to vertical wind shear.
 
-For Andhra Pradesh, the day-wise warnings reported on Thursday morning put a **yellow alert across the state on November 19** and a **red alert on November 20** for Srikakulam, Vizianagaram, Anakapalli, Visakhapatnam, Kakinada and Alluri Sitharama Raju districts, with an orange alert for East Godavari, Konaseema, West Godavari and Parvathipuram Manyam. Extremely heavy rain is forecast at isolated places in these districts on November 19 and 20. On Thursday itself, the IMD expects scattered heavy rain in north Andhra, moderate to heavy rain in parts of Srikakulam, and winds of 60 to 70 km/h on the north Andhra coast, gusting to 80 km/h. Fishermen have been told to stay off the sea.
+The IMD's warnings for the day remain wide. Odisha can expect heavy to very heavy rain with isolated extremely heavy falls, and coastal Andhra Pradesh and Gangetic West Bengal heavy to very heavy rain at isolated places. A **storm surge of about 0.5 to 1 metre** above the astronomical tide is possible in low-lying parts of Ganjam and Puri in Odisha and Kakinada, Vizianagaram, Srikakulam and Visakhapatnam in Andhra Pradesh. The IMD flagged a moderate flash-flood risk in Ganjam, Puri, Gajapati and Mayurbhanj in Odisha and in parts of West Bengal, and warned of damage to thatched houses, tin roofs, power and communication poles, trees and standing crops, besides waterlogging and disruption of road and rail traffic. Rain is also forecast in Jharkhand, including Ranchi, Dhanbad and Bokaro.
 
-## What Andhra Pradesh has done
+## Rain recorded so far
 
-Home Minister Vangalapudi Anitha has ordered all departments to **stay on high alert for 48 hours**. Along with the 13 NDRF and 11 SDRF teams, district and mandal control rooms are working round the clock. Prakhar Jain, managing director of the Andhra Pradesh State Disaster Management Authority, has warned fishermen not to go to sea. Civil Aviation Minister K. Ram Mohan Naidu urged people in north Andhra to stay alert and take precautions. Farmers in Srikakulam have been advised to cover harvested paddy with tarpaulins. No school closures in Andhra Pradesh had been reported by 11 am; the closures found are in Odisha.
+In the 24 hours to 8:30 am on Friday, the heaviest rain fell in Ganjam: **Patrapur 209 mm, Hinjili 207 mm, Chikiti 199 mm and Gopalpur 190 mm**, with 139 mm at Chhatrapur. Chandbali in Bhadrak recorded 119 mm, Paradip 93 mm and Puri 79 mm. Ganjam, Balasore, Bhadrak, Jagatsinghpur, Kendrapara and Puri were the districts most affected. Another report put Gopalpur's rain at 186 mm in the 23 hours to 7:30 am.
 
-The railways have **cancelled two trains between Visakhapatnam and Koraput** on Thursday and Friday, according to reports, and moved departure times of three others: the Charlapalli to Shalimar East Coast Express (18046) now leaves at 3:40 pm instead of 8:40 am on Thursday, the Secunderabad to Howrah Falaknuma Express (12704) at 5:55 pm instead of 3:55 pm, and the Bengaluru to Muzaffarpur Express (15227) at 8:30 am instead of 12:30 am on Friday. No flight cancellations had been reported by the time of writing.
+## Andhra Pradesh
 
-## What Odisha has done
+The cyclone's centre crossed in Odisha, and Andhra Pradesh was on the weaker side. A **red alert stayed in force for Srikakulam and Vizianagaram**, with orange for Parvathipuram Manyam, Alluri Sitarama Raju and Anakapalli and yellow for Kakinada, according to the day's warnings. The Andhra Pradesh State Disaster Management Authority forecast light to moderate rain in the north of the state and told Srikakulam officials to stay alert even after the crossing. Home Minister Vangalapudi Anitha had ordered all departments on 48-hour high alert on Thursday, with 13 NDRF and 11 SDRF teams on standby. No Andhra school closure, flight cancellation or evacuation total had been reported by late morning.
 
-Odisha has a **red warning for 11 districts** for heavy to extremely heavy rain on November 19 and 20: Malkangiri, Koraput, Rayagada, Kalahandi, Gajapati, Ganjam, Kandhamal, Boudh, Puri, Nayagarh and Khordha. Chief Minister Mohan Charan Majhi put the number at 13 districts on Thursday morning, and a separate day-wise list reported for Friday puts red on Kandhamal, Gajapati, Ganjam, Puri, Jagatsinghpur and Kendrapara, so the district lists differ between reports. Majhi said the state is "fully prepared" and that the goal is "zero casualty". He ordered strict evacuation, especially of people living in the foothills.
+## Odisha
 
-The numbers reported by the state on Thursday, with some figures differing between reports:
+Odisha's Special Relief Commissioner, Rajesh P. Patil, gave the evacuation figure of **2,98,676 people moved to 2,523 relief camps** by Thursday evening; reports on Friday morning put the total at over 3 lakh, with Ganjam accounting for nearly half. More than 4,000 pregnant women were shifted to health facilities and 1,017 babies had been delivered at cyclone shelters. The state activated 9,341 cyclone shelters and deployed 423 rescue teams, including 60 Odisha Disaster Rapid Action Force (ODRAF) and 14 NDRF teams, with 131 fire and emergency teams and 28 more fire teams on standby. The Coast Guard was asked to keep helicopters and vessels ready. Disaster Management Minister Suresh Pujari spoke about monitoring 941 landslide-prone locations in five districts, Gajapati having the most at 211.
 
-- **More than 80,000 people moved**, against a target of 2 lakh, up from 46,701 by the morning and about 72,000 earlier in the day, according to Chief Secretary Anu Garg. In Ganjam 36,398 had been moved by 6 am, and 11,000 more in Jagatsinghpur were identified for evacuation on Wednesday night.
-- **448 cyclone shelters open** according to Chief Minister Majhi, out of 3,000 identified, while a later report counts 308 operational with free kitchens; 19,057 fishing boats are back in port.
-- **1,098 to 1,313 pregnant women** moved to health facilities, the figure varying by report, out of about 9,100 identified.
-- **74 rescue teams** in 11 districts, including 14 NDRF and 60 Odisha Disaster Rapid Action Force (ODRAF) teams; Ganjam alone has 3 NDRF, 4 ODRAF, 24 fire service and 10 forest corporation teams.
-- **Rs 20.5 crore in advance funds** released: Rs 5 crore to Ganjam, Rs 1 crore each to 15 other districts and Rs 50 lakh to Malkangiri.
+Schools and Anganwadi centres are closed in 15 districts, tourists are barred from coastal areas and fishermen have been told not to go to sea. The Konark Sun Temple and Archaeological Museum are shut until November 21, as are the Gundicha Temple in Puri and Bhitarkanika; Nandankanan and Similipal are shut on Friday. Chief Minister Mohan Charan Majhi reviewed preparedness and told officials to put public safety first and keep casualties to a minimum, repeating the state's target of "zero casualty".
 
-Educational institutions are closed in the red, orange and yellow warning districts: government, aided and private schools and Anganwadi centres are shut from November 19 to 21 in Ganjam, Gajapati, Puri, Jagatsinghpur, Kendrapara and Kandhamal, and for November 19 and 20 in Khordha and Malkangiri. The State Selection Board has postponed its Junior Assistant and Junior Clerk exams of November 21 and 23, staff leave has been suspended and seven senior IAS officers are overseeing seven districts.
+## Trains
+
+East Coast Railway cancelled **41 trains and rescheduled 29**, according to reports of its notice, and South Eastern Railway cancelled at least 28 express trains, mainly those running to or through Puri; another report put the East Coast figures at about 45 and 28. A railway spokesperson, Deepak Rout, said the cancellations were for passenger and railway safety. No flight cancellations had been reported by late morning.
 
 ## How we got here
 
-The IMD first flagged the system on Friday, November 13, as a low that would become a cyclonic storm by Monday, and Akvan was named on November 16. It reached severe strength on Wednesday, November 18, after crawling for days, and the IMD's bulletins noted that models differed on its final strength. Our [explainer on the storm surge and warnings](/en/explainer/akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings) sets out how to read the alerts.
+The IMD first flagged the system on Friday, November 13, as a low that would become a cyclonic storm by Monday, and Akvan was named on November 16. It reached severe strength on Wednesday, November 18, after crawling for days, and the IMD's bulletins noted that models differed on its final strength; the very severe stage forecast earlier in the week never came. Our [explainer on the storm surge and warnings](/en/explainer/akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings) sets out how to read the alerts.
 
-Cyclone Arnab struck the Andhra coast in late October and an official statement said at least 1.8 lakh people were evacuated. Cyclone Murasu crossed between Nellore and Narasapur on November 3, and Andhra's damage estimate for it has been [revised to ₹2,484 crore](/en/news/murasu-andhra-damage-revised-2484-crore-central-team-naidu). Arnab and Murasu together left Andhra Pradesh with losses estimated at nearly ₹7,000 crore, according to reports. In Odisha, Arnab and the floods that followed killed at least 11 people, six are missing, and Biju Janata Dal president Naveen Patnaik has urged people to stay alert after the damage in Ganjam, Gajapati and Kandhamal.
+Akvan is the **third cyclone to reach the Andhra and Odisha coast in about three weeks**. Cyclone Arnab struck the Andhra coast in late October and an official statement said at least 1.8 lakh people were evacuated. Cyclone Murasu crossed between Nellore and Narasapur on November 3, and Andhra's damage estimate for it has been [revised to ₹2,484 crore](/en/news/murasu-andhra-damage-revised-2484-crore-central-team-naidu). Arnab and Murasu together killed 15 people and left Andhra Pradesh with losses estimated at nearly ₹7,000 crore, according to reports. In Odisha, Arnab and the floods that followed killed at least 11 people and six are missing, and ten people died in landslides in Arnab's rain.
 
 ## Why it matters
 
-Akvan would be the **third cyclone to reach the Andhra coast in about three weeks**. Even at severe strength, winds of 90 to 100 km/h bring down trees and power lines and damage kutcha houses, and the hills of south Odisha, where Arnab's rain caused landslides, are among the red-warning districts.
+Even as a weakened storm, Akvan arrives on ground already soaked by two earlier cyclones. The hills of Gajapati, Ganjam and Kandhamal, where Arnab's rain caused landslides, are among the districts under warning, and the IMD's flash-flood and waterlogging alerts, along with the 41 cancelled trains, mean road and rail disruption on the Puri and Visakhapatnam routes through Friday and into the weekend.
 
 ## What happens next
 
-The IMD's later bulletins will fix the speed, the track and the landfall hour more closely. Landfall is due by noon on Friday, November 20, between Narsapur and Puri, and the red warnings in Andhra Pradesh and Odisha run through that day; Odisha is working towards its target of moving 2 lakh people before then.
+The IMD's next bulletins will track the deep depression and the depression as they move across Odisha towards West Bengal and Jharkhand, and heavy rain is expected to continue for about two days in Odisha. Damage assessments, and any casualty figures, will follow once the landfall process ends around 10 or 11 am and the state's teams reach the coastal blocks.
