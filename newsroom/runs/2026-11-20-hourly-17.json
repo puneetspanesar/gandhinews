@@ -1,0 +1,26 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-20T17:04:10+05:30",
+ "end": "2026-11-20T17:53:09+05:30",
+ "summary": "Record October crude imports (new), Akvan aftermath update",
+ "new": [
+  "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+   "why": "Main picture is a naval frigate with a small tanker in the distance, captioned as a warship after transiting Hormuz. The story is about India's crude import bill and suppliers, not a warship. The same photo is also used on the Hormuz sea-mines explainer card lower on the homepage. English infographic headline also reads 'Record crude, an $19.5 billion bill' (wrong article: 'a $19.5 billion').",
+   "done": "Warship photo removed; no refinery or tanker photo of 900 px or more found (finder h2017: Jamnagar 800 px, Paradip 874 px, Essar blocklisted), so the story now uses its data infographic (rule 11: a policy with numbers); infographic headline fixed to 'a $19.5 billion bill'; hero alt updated in both languages."
+  },
+  {
+   "id": "akvan-deep-depression-monday-imd-landfall-night-nov-19",
+   "why": "Story is about Akvan crossing at Gopalpur in Ganjam, Odisha, with Odisha's evacuation and no-deaths figures. Main picture is a file photo of Cyclone Hudhud at Visakhapatnam (Andhra Pradesh, 2014), a different state from the event. The photo is also washed out and grey.",
+   "done": "Hudhud photo replaced with an Odisha file photo: damage at the Malatipatpur bus stand, Puri, after Cyclone Fani 2019 (Government of Odisha, CC BY 4.0); hero subjects, alt and verification note updated in both languages."
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+}

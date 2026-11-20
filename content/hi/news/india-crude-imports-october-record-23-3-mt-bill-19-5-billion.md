@@ -18,7 +18,7 @@ hero:
   need: "समुद्र में तेल टैंकर, फाइल फोटो"
   suggested_source: "Oil tanker"
   subjects: ["Oil tanker"]
-  alt: "होर्मुज जलडमरूमध्य पार करने के बाद एक तेल टैंकर के पास से गुज़रता युद्धपोत (फाइल फोटो)"
+  alt: "गांधी न्यूज़ ग्राफिक: अक्टूबर में भारत का 19.5 अरब डॉलर का कच्चे तेल आयात बिल"
   overlay:
     value: "रिकॉर्ड तेल, 19.5 अरब डॉलर का बिल"
 related: [india-crude-import-bill-90-6-billion-april-september, us-oil-gas-supplies-to-india-fall-west-asia-imports-rebound, hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, rupee-near-97-as-crude-stays-above-100, suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses, bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december, oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices]

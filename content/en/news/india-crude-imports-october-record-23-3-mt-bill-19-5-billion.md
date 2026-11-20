@@ -17,7 +17,7 @@ hero:
   need: "An oil tanker at sea, file photo"
   suggested_source: "Oil tanker"
   subjects: ["Oil tanker"]
-  alt: "A warship passes an oil tanker after transiting the Strait of Hormuz (file photo)"
+  alt: "Gandhi News graphic: India's October crude import bill of $19.5 billion"
   overlay:
     value: "Record oil, $19.5 billion bill"
 related: [india-crude-import-bill-90-6-billion-april-september, us-oil-gas-supplies-to-india-fall-west-asia-imports-rebound, hormuz-two-supertankers-ablaze-irgc-4-million-barrels-india-gulf-crude-overtakes-russia, rupee-near-97-as-crude-stays-above-100, suresh-gopi-fuel-price-cut-not-possible-42000-crore-oil-losses, bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december, oil-is-cheaper-on-hope-india-should-say-who-pays-for-frozen-fuel-prices]
@@ -26,7 +26,7 @@ seo:
   description: "India imported a record 23.3 million tonnes of crude in October 2026, and the import bill rose 87.5% to $19.5 billion, PPAC data show. Russia led suppliers."
 infographic:
   kicker: "October oil imports"
-  headline: "Record crude, an $19.5 billion bill"
+  headline: "Record crude, a $19.5 billion bill"
   dek: "Volume rose 11% in a year, but the bill rose almost eight times as fast"
   motif: drop
   stats:

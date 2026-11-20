@@ -50914,26 +50914,13 @@
   "src": "/photos/o-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
   "src800": "/photos/o-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
   "width": 1280,
-  "height": 960,
-  "srcWidth": 1200,
-  "credit": "Photo: Indian Navy / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Rough sea and high waves on the Visakhapatnam coast as Cyclone Hudhud approached in 2014 (file photo)",
-  "alt_hi": "2014 में चक्रवात हुदहुद के आने पर विशाखापत्तनम तट पर ऊंची लहरें और उफनता समुद्र (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Hudhud_near_Visakhapatnam_(2).jpg",
-  "treated": {
-   "src": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-1280.jpg",
-   "src800": "/photos/t-akvan-deep-depression-monday-imd-landfall-night-nov-19-640.jpg",
-   "cutout": false,
-   "with": [
-    "andhra-local-polls-must-start-with-free-nominations",
-    "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
-    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2"
-   ],
-   "kind": "photo",
-   "subj": "ffffffff21000000",
-   "credit": "Photos: Indian Navy / Wikimedia Commons; Moulalisaheb.g / Wikimedia Commons; Saiphani02 / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons"
-  }
+  "height": 852,
+  "srcWidth": 1024,
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Damage at the Malatipatpur bus stand in Puri, Odisha, after Cyclone Fani in 2019 (file photo)",
+  "alt_hi": "2019 में चक्रवात फानी के बाद ओडिशा के पुरी में मालतीपाटपुर बस स्टैंड पर नुकसान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Maltipatpur_Bus_stand_after_cyclone_Fani.jpg"
  },
  "wpi-inflation-october-2026": {
   "id": "i-wpi-inflation-october-2026",
@@ -52013,15 +52000,45 @@
   }
  },
  "india-crude-imports-october-record-23-3-mt-bill-19-5-billion": {
-  "id": "r-india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-  "src": "/photos/r-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-1280.jpg",
-  "src800": "/photos/r-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-640.jpg",
+  "id": "i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+  "src": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-en-3x2-640.jpg",
   "width": 1280,
-  "height": 850,
-  "credit": "Photo: Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "A warship passes an oil tanker after transiting the Strait of Hormuz (file photo)",
-  "alt_hi": "होर्मुज़ जलडमरूमध्य पार करने के बाद एक तेल टैंकर के पास से गुज़रता युद्धपोत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Record crude, a $19.5 billion bill",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रिकॉर्ड तेल, 19.5 अरब डॉलर का बिल",
+  "page": null,
+  "ihash": "6b4877ec994f",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-en-t-1280.jpg",
+    "src800": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-hi-t-1280.jpg",
+    "src800": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-en-1280.jpg",
+    "src800": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-hi-1280.jpg",
+    "src800": "/photos/i-india-crude-imports-october-record-23-3-mt-bill-19-5-billion-hi-640.jpg"
+   }
+  }
  }
 }

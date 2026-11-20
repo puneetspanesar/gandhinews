@@ -16,9 +16,9 @@ keyPoints:
   - "East Coast Railway **cancelled 41 trains and rescheduled 29**; heavy to very heavy rain is still forecast for Odisha, coastal Andhra Pradesh and Gangetic West Bengal."
 hero:
   need: "A cyclone on the Andhra or Odisha coast: wind damage and rough sea (file photo)"
-  suggested_source: "Cyclone Hudhud"
-  subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
-  alt: "Stormy skies over the Visakhapatnam beach road during Cyclone Hudhud (file photo)"
+  suggested_source: "Cyclone Fani Odisha damage"
+  subjects: ["Cyclone Fani Odisha damage", "Cyclone Phailin Odisha"]
+  alt: "Damage at the Malatipatpur bus stand in Puri, Odisha, after Cyclone Fani in 2019 (file photo)"
   overlay:
     value: "No deaths reported; 3.72 lakh moved in Odisha"
 infographic:
@@ -257,7 +257,7 @@ verification:
     - "Position: 8:30 am bulletin gives 800 km SSE of Visakhapatnam and 6 km/h (The Federal). The live blog's 4 pm figure of 730 km at 17 km/h conflicts with it and is not used. Earlier text (820 km at 5:30 am, 8 km/h) retained as the 5:30 am position."
     - "Evacuation instruction for south Odisha districts and the Ganjam collector's remark are from The Federal; Odisha's 30 districts on alert and 11:14 am control rooms from NewsBytes. Earlier Odisha detail (16 districts yellow, orange dates) from OdishaTV and IANS."
     - "Death toll of 15 from Arnab and Murasu is reported by one wire report; marked as reported. Evacuation figure of 180,000 for Arnab is from one IANS report."
-    - "Hero: Hudhud file photo from the picture library (Visakhapatnam beach road)."
+    - "Hero: Cyclone Fani 2019 file photo of damage at the Malatipatpur bus stand, Puri, Odisha (Government of Odisha, CC BY 4.0)."
 ---
 Cyclone Akvan **finished crossing the coast near Gopalpur** in Ganjam district by about 11:20 am on Friday, November 20, and Odisha says no district has reported major difficulty. Chief Secretary Anu Garg, after reviewing the situation at the State Emergency Operation Centre in Bhubaneswar, said the landfall process was "under control". No deaths and no major structural damage had been reported in the state by about 1 pm, according to reports from the emergency centre.
 

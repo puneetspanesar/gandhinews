@@ -17,9 +17,9 @@ keyPoints:
   - "ईस्ट कोस्ट रेलवे ने **41 ट्रेनें रद्द और 29 का समय बदला**; ओडिशा, तटीय आंध्र प्रदेश और गंगा के मैदानी पश्चिम बंगाल में भारी से बहुत भारी बारिश का अनुमान अब भी है।"
 hero:
   need: "आंध्र या ओडिशा तट पर चक्रवात: हवा से नुकसान और उफनता समुद्र (फाइल फोटो)"
-  suggested_source: "Cyclone Hudhud"
-  subjects: ["Cyclone Hudhud", "Cyclone Hudhud Visakhapatnam"]
-  alt: "चक्रवात हुदहुद के दौरान विशाखापत्तनम बीच रोड पर तूफानी आसमान (फाइल फोटो)"
+  suggested_source: "Cyclone Fani Odisha damage"
+  subjects: ["Cyclone Fani Odisha damage", "Cyclone Phailin Odisha"]
+  alt: "2019 में चक्रवात फानी के बाद ओडिशा के पुरी में मालतीपाटपुर बस स्टैंड पर नुकसान (फाइल फोटो)"
   overlay:
     value: "कोई मौत नहीं; ओडिशा में 3.72 लाख सुरक्षित"
 infographic:
