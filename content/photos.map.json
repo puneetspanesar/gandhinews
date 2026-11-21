@@ -52431,6 +52431,19 @@
   "licence": "GODL-India",
   "alt": "Amit Shah (file photo)",
   "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg",
+  "treated": {
+   "src": "/photos/t-ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablet-1280.jpg",
+   "src800": "/photos/t-ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablet-640.jpg",
+   "cutout": true,
+   "with": [
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s2",
+    "us-midterms-2026-explained-what-is-at-stake",
+    "cabinet-approves-integrated-transport-logistics-authority"
+   ],
+   "kind": "photo",
+   "subj": "383c667365677ee7",
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Noclip / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; Saankav / Wikimedia Commons"
+  }
  }
 }

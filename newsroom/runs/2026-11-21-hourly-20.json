@@ -1,0 +1,26 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-21T20:04:04+05:30",
+ "end": "2026-11-21T20:22:53+05:30",
+ "summary": "NCB-DEA Operation Monsoon Thunder lead; Nepal PM visit updated",
+ "new": [
+  "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "four business stories in top headlines; two Amit Shah pictures at the top",
+   "done": "refresh_home.py --drop the Arunachal Shah story, core sector, ODI and crude imports: one business story (FAST-DS) left, one Shah picture at the top. Manipur cannot lead: it is on an infographic (lead must be a photo). Layout check passes on columns and clipping."
+  },
+  {
+   "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+   "why": "in-story Modi photo not found",
+   "done": "dropped the photo block from both language files"
+  }
+ ],
+ "breaches": [],
+ "lead": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
+}

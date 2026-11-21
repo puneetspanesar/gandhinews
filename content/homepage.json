@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+    "id": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
     "overlay": {
       "kicker": {
-        "en": "States / Arunachal Pradesh",
-        "hi": "राज्य / अरुणाचल प्रदेश"
+        "en": "Policy / Home Affairs",
+        "hi": "नीति / गृह मंत्रालय"
       },
       "value": {
-        "en": "Shah to Siang: 'only with your trust'",
-        "hi": "शाह: सियांग के भरोसे से ही आगे"
+        "en": "Monsoon Thunder: 6 held, 5 lakh pills",
+        "hi": "मॉनसून थंडर: 6 गिरफ्तार, 5 लाख गोलियां"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Arunachal Pradesh",
-        "hi": "अरुणाचल प्रदेश"
+        "en": "Home Affairs",
+        "hi": "गृह मंत्रालय"
       }
     }
   },
@@ -69,8 +69,8 @@
           "hi": "भारत-नेपाल:"
         },
         "text": {
-          "en": "Nepal PM Balendra Shah to visit India from November 22, talks with Modi on November 23",
-          "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह 22 नवंबर से भारत दौरे पर, 23 नवंबर को मोदी से वार्ता"
+          "en": "Nepal PM Balendra Shah on state visit to India from November 22, full honours and talks with Modi on November 23",
+          "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह 22 नवंबर से राजकीय यात्रा पर भारत में, पूरे सम्मान के साथ 23 को मोदी से वार्ता"
         }
       },
       {
@@ -96,17 +96,6 @@
         }
       },
       {
-        "link": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
-          "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
-        }
-      },
-      {
         "link": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "lead": {
           "en": "International law:",
@@ -115,6 +104,17 @@
         "text": {
           "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
           "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
+        }
+      },
+      {
+        "link": "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Sundargarh shows why Gram Sabha consent must be sought before the land is taken, not after",
+          "hi": "सुंदरगढ़ बताता है कि ग्राम सभा की सहमति जमीन लेने से पहले ली जाए, बाद में नहीं"
         }
       }
     ]
@@ -190,10 +190,10 @@
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
     ],
     "also": [
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+      "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
       "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
     ]
   },
@@ -396,18 +396,18 @@
       "section": "states",
       "lead": "manipur-chandel-spurious-liquor-deaths",
       "list": [
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
         "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
-        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
+        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
+        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
       ]
     },
     {
       "section": "policy",
-      "lead": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+      "lead": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
       "list": [
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
         "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
       ]
     },
     {
@@ -524,20 +524,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-20T20:42:01+05:30",
-      "ids": [
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
-      ]
-    },
-    {
       "at": "2026-11-20T21:04:06+05:30",
       "ids": [
         "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
@@ -639,14 +625,28 @@
         "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
       ]
+    },
+    {
+      "at": "2026-11-21T20:20:22+05:30",
+      "ids": [
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+    "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+    "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
     "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-    "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-    "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
+    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
   ],
   "mustReadEn": 7
 }

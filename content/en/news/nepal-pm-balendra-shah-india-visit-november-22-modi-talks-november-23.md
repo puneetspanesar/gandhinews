@@ -141,10 +141,6 @@ The visit was first reported as three days, November 22 to 24, and was cut back 
 
 Nepal's Foreign Ministry says agreements will be signed and several projects launched. Reports of the MEA programme name the Lower Arun hydropower project and a petroleum pipeline from Siliguri to Charali in Jhapa among the energy items, and integrated check posts at Bhairahawa and Dodhara Chandani. The most visible is the **Ayodhya-Janakpur train**, a 604-km route promoted as part of the Ramayana circuit, which the two leaders are expected to inaugurate. A trial run was held on November 5. Other projects named are the Nepal Police Academy building at Panauti, a bridge in Darchula and the Integrated Check Post at Bhairahawa.
 
-```photo
-{"n":1,"subject":"Narendra Modi","caption":"Prime Minister Narendra Modi, who invited Shah and will host the talks on November 23.","alt":"Prime Minister Narendra Modi"}
-```
-
 India is also expected to announce an economic package. Nepal has formally proposed about $2 billion, according to reports: $1 billion in credit lines, $500 million in grants and $500 million for reconstruction after the August 26 floods in the Rasuwa-Bhotekoshi corridor, and India has said it will consider the reconstruction proposals. Other items on Nepal's wish list, which are not confirmed, include a cross-border LPG pipeline, religious and tourism circuits, branches of Indian institutes and help with cricket. Reconstruction after this year's floods is a major item: Shah thanked India on November 18 for help after the Rasuwa-Bhotekoshi floods when Ambassador Sudhakar Dalela called on him in Singha Durbar. Dalela said the meeting with Modi would be "historic and significant" and that the agenda was final.
 
 ## Reaction in Nepal
