@@ -52113,7 +52113,20 @@
   "licence": "CC BY 4.0",
   "alt": "Rahul Gandhi (file photo)",
   "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-india-given-up-manufacturing-chicago-claim-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-india-given-up-manufacturing-chicago-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "special-session-of-parliament-explained-shah-offer-cec-removal",
+    "election-commission",
+    "school-buildings-need-safety-audits-before-the-next-roof-falls"
+   ],
+   "kind": "portrait",
+   "subj": "f7e3e3e3c3c1c1c1",
+   "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; Nikhilb239 / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
  },
  "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh": {
   "id": "o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
