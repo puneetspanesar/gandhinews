@@ -53695,16 +53695,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Bhupender_Yadav.jpg"
  },
  {
-  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila",
-  "articleId": "modi-sco-civilisational-dialogue-forum-purana-qila",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Official_portrait_of_the_Prime_Minister_Narendra_Modi%2C_November_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "credit": "Photo: Government of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Narendra Modi (file photo)",
-  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg"
- },
- {
   "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila--p1",
   "articleId": "modi-sco-civilisational-dialogue-forum-purana-qila--p1",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Purana_Qila%2C_Delhi_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -53990,5 +53980,25 @@
   "alt": "Nepal Prime Minister Balendra Shah (file photo)",
   "alt_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_01_(cropped).jpg"
+ },
+ {
+  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila",
+  "articleId": "modi-sco-civilisational-dialogue-forum-purana-qila",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Prime_Minister_of_India_Narendra_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg"
+ },
+ {
+  "id": "o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+  "articleId": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Panorama_of_Thiruparankundram_Madurai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Pratyeka / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Thiruparankundram town and the hill with the Subramaniya Swamy temple, Madurai (file photo)",
+  "alt_hi": "मदुरै में तिरुप्परनकुंड्रम कस्बा और सुब्रमण्य स्वामी मंदिर वाली पहाड़ी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Thiruparankundram_Madurai.jpg"
  }
 ]

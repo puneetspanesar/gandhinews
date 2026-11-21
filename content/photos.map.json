@@ -51712,13 +51712,13 @@
   "src": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila-1280.jpg",
   "src800": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila-640.jpg",
   "width": 1280,
-  "height": 853,
-  "srcWidth": 3459,
-  "credit": "Photo: Government of India / Wikimedia Commons",
+  "height": 852,
+  "srcWidth": 1018,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg",
   "treated": {
    "src": "/photos/t-modi-sco-civilisational-dialogue-forum-purana-qila-1280.jpg",
    "src800": "/photos/t-modi-sco-civilisational-dialogue-forum-purana-qila-640.jpg",
@@ -51728,7 +51728,7 @@
     "modi-sco-civilisational-dialogue-forum-purana-qila--p3",
     "modi-sco-civilisational-dialogue-forum-purana-qila--p4"
    ],
-   "kind": "photo",
+   "kind": "portrait",
    "subj": "ffe7c3c3e7e7d181",
    "credit": "Photos: Government of India / Wikimedia Commons; Slyronit / Wikimedia Commons"
   }
@@ -52227,5 +52227,31 @@
   "alt": "A Rohingya refugee camp in Cox's Bazar, Bangladesh (file photo)",
   "alt_hi": "बांग्लादेश के कॉक्स बाज़ार में रोहिंग्या शरणार्थी शिविर (फाइल फोटो)",
   "page": null
+ },
+ "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp": {
+  "id": "o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+  "src": "/photos/o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-1280.jpg",
+  "src800": "/photos/o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-640.jpg",
+  "width": 1280,
+  "height": 364,
+  "srcWidth": 7881,
+  "credit": "Photo: Pratyeka / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Thiruparankundram town and the hill with the Subramaniya Swamy temple, Madurai (file photo)",
+  "alt_hi": "मदुरै में थिरुपरनकुंद्रम कस्बा और सुब्रमण्य स्वामी मंदिर वाली पहाड़ी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Thiruparankundram_Madurai.jpg",
+  "treated": {
+   "src": "/photos/t-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-1280.jpg",
+   "src800": "/photos/t-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-ram-temple-trust-funds-probe-hearing-today--in",
+    "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
+    "madras-hc-bail-ai-videos-cm-vijay-scam"
+   ],
+   "kind": "photo",
+   "subj": "ffff200818080000",
+   "credit": "Photos: Pratyeka / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Yercaud-elango / Wikimedia Commons"
+  }
  }
 }

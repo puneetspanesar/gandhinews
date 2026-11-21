@@ -5,23 +5,23 @@ type: news
 section: politics
 format_label: "Politics / Diplomacy"
 topics: []
-title: "Modi to open first SCO Civilisational Dialogue Forum at Purana Qila on Friday"
-standfirst: "Delegations from the Shanghai Cooperation Organisation will gather in Delhi on November 20 for three days of talks, exhibitions and performances on shared heritage. Whether Pakistan sends its culture minister is still not public."
+title: "Modi opens SCO Civilisational Dialogue Forum, proposes AI translation of ancient texts and Silk Route heritage circuits"
+standfirst: "At Purana Qila on November 20, the Prime Minister proposed joint digitisation of manuscripts, museum exhibitions, scholar exchanges and heritage circuits to SCO members. No agreement was announced, and Pakistan's presence has not been stated."
 published: 2026-11-19T20:40:00+05:30
+updated: 2026-11-21T08:13:16+05:30
 location: New Delhi
 keyPoints:
-  - "Prime Minister Modi will **inaugurate the forum on November 20** at Purana Qila; it runs to November 22."
-  - "Four sessions cover religion and philosophy, art and architecture, languages and literature, and **living cultural traditions**."
-  - "India invited all 10 SCO members, **Pakistan included**; more than 25 countries are expected."
+  - "Modi inaugurated the forum on November 20 and **proposed joint digitisation and AI translation** of ancient texts."
+  - "He also suggested museum exhibitions, scholar exchanges and **heritage circuits along the Silk Routes**."
+  - "**No agreement or outcome document** was announced; sessions continue on November 21 and 22."
 hero:
   need: "Narendra Modi, Prime Minister"
   suggested_source: "Narendra Modi"
   subjects: ["Narendra Modi"]
   alt: "Prime Minister Narendra Modi"
   overlay:
-    value: "SCO civilisational forum opens"
+    value: "Modi opens SCO cultural forum"
 related: [rajnath-sco-dushanbe-no-double-standards-terrorism, rajnath-singh-sco-heads-of-government-dushanbe]
-upcoming: {date: 2026-11-20, en: "Modi inaugurates the first SCO Civilisational Dialogue Forum at Purana Qila, Delhi (to November 22)", hi: "मोदी पुराना किला, दिल्ली में पहले एससीओ सभ्यतागत संवाद मंच का उद्घाटन करेंगे (22 नवंबर तक)"}
 infographic:
   kicker: "SCO forum"
   headline: "Three days of civilisational dialogue in Delhi"
@@ -29,76 +29,81 @@ infographic:
   motif: bank
   timeline:
     - {date: "Sep 2025", text: "Modi proposes the forum at the Tianjin summit", icon: calendar-check}
-    - {date: "Oct 20", text: "Rajnath Singh announces India will host it", icon: calendar-check}
-    - {date: "Nov 20", text: "Inauguration at Purana Qila", icon: calendar-dots}
+    - {date: "Oct 20", text: "Rajnath Singh says India will host it", icon: calendar-check}
+    - {date: "Nov 20", text: "Modi inaugurates it at Purana Qila", icon: calendar-dots}
     - {date: "Nov 22", text: "Forum ends", icon: calendar-dots}
-  source: "Ministry of Culture and Ministry of External Affairs plans as reported, November 2026"
+  source: "Prime Minister's Office, November 20, 2026"
 seo:
-  title: "Modi to open first SCO Civilisational Dialogue Forum in Delhi"
-  description: "PM Modi inaugurates the first SCO Civilisational Dialogue Forum at Purana Qila, Delhi, on November 20. Who attends, the programme and what comes next."
+  title: "Modi opens SCO Civilisational Dialogue Forum in Delhi"
+  description: "PM Modi inaugurated the first SCO Civilisational Dialogue Forum at Purana Qila on November 20 and proposed AI translation, digitisation of texts and heritage circuits."
 sources:
+  - title: "PM's address at the inauguration of First Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum in Delhi"
+    publisher: "Prime Minister's Office"
+    date: 2026-11-20
+    url: "https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-inauguration-of-first-shanghai-cooperation-organisation-sco-civilisational-dialogue-forum-in-delhi/"
+    primary: true
+  - title: "PM inaugurates First SCO Civilisational Dialogue Forum"
+    publisher: "Prime Minister's Office"
+    date: 2026-11-20
+    url: "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-first-sco-civilisational-dialogue-forum/"
+    primary: true
   - title: "India will host first SCO Civilisational Dialogue Forum on November 20 in New Delhi"
     publisher: "News On AIR"
     date: 2026-11-13
     url: "https://newsonair.gov.in/india-will-host-first-sco-civilisational-dialogue-forum-on-november-20-in-new-delhi/"
     primary: true
-  - title: "India invites Pakistan, nine other SCO members to first Civilisational Dialogue Forum in New Delhi"
-    publisher: "IBTimes India"
-    date: 2026-10-28
-    url: "https://www.ibtimes.co.in/india-invites-pakistan-nine-other-sco-members-first-civilisational-dialogue-forum-new-delhi-907908"
+  - title: "At a time when world is dominated by wars, India engages in civilisational dialogue: PM Modi at SCO Civilisational Dialogue Forum"
+    publisher: "The Tribune"
+    date: 2026-11-20
+    url: "https://www.tribuneindia.com/news/world/at-a-time-when-world-is-dominated-by-wars-india-engages-in-civilisational-dialogue-pm-modi-at-sco-civilisational-dialogue-forum"
     primary: false
   - title: "India invites Pakistan culture minister to first SCO Civilisational Dialogue in Delhi"
     publisher: "Swarajya"
     date: 2026-10-27
     url: "https://swarajyamag.com/news-brief/india-invites-pakistan-culture-minister-to-first-sco-civilisational-dialogue-in-delhi"
     primary: false
-  - title: "India invites Pakistan to SCO forum 18 months after Operation Sindoor"
-    publisher: "Outlook"
-    date: 2026-10-28
-    url: "https://www.outlookindia.com/national/india-invites-pakistan-to-sco-forum-18-months-after-operation-sindoor"
-    primary: false
-  - title: "India reaffirms SCO ties, to host Civilisation Dialogue Forum in Kolkata"
-    publisher: "Asianet Newsable"
-    date: 2026-06-12
-    url: "https://newsable.asianetnews.com/amp/world/india-reaffirms-sco-ties-to-host-civilisation-dialogue-forum-in-kolkata-articleshow-dm6u68m"
-    primary: false
 verification:
   status: approved
   notes:
-    - "No PIB, MEA or Culture ministry page opened in search results. Inauguration by Modi and the venue rest on two independent reports (Swarajya Oct 27, Outlook Oct 28); the official broadcaster's Nov 13 report gives dates, programme and the 15 confirmations but names no inaugurator or building."
-    - "The Nov 19 announcement itself (about 5:31 pm) was not found; story is written as a preview."
-    - "Pakistan attendance unconfirmed in every report read."
-    - "Kolkata, July 17 to 19 is from a June 12 report quoting MoS Kirti Vardhan Singh; reason for the change not reported."
+    - "Speech text read on the PMO site (pmindia.gov.in); PIB's own page for it was not found in search. No PIB event photo found; main picture is a PMO file photo of Modi."
+    - "Attendance by country, Pakistan's presence and any outcome document not stated in any source read. Session themes, the Nov 20 cultural show and exhibitions come from one news report."
+    - "Hindi quotes are our translation of the English text."
 ---
-Prime Minister Narendra Modi will on **Friday, November 20, inaugurate the first Civilisational Dialogue Forum** of the Shanghai Cooperation Organisation at Purana Qila in New Delhi, according to reports. The three-day gathering, organised by the Ministry of Culture together with the Ministry of External Affairs, runs to Sunday, November 22.
+Prime Minister Narendra Modi on Friday, November 20, 2026, **inaugurated the first Civilisational Dialogue Forum** of the Shanghai Cooperation Organisation at Purana Qila in New Delhi, and used the opening address to **propose a set of joint cultural projects** to SCO members: digitising ancient texts, AI-assisted translation, museum exhibitions, scholar exchanges and heritage circuits along the Silk Routes. No agreement or outcome document was announced on the day.
 
-## What the forum is
+The forum, organised by the Ministry of Culture with the Ministry of External Affairs, runs to Sunday, November 22.
 
-The forum is a cultural meeting rather than a security or trade one. Its stated aim is to promote dialogue through the **shared civilisational heritage** of SCO countries and to open new avenues of cultural engagement. Besides academic discussions, the schedule includes exhibitions and cultural performances showing the heritage of the participating countries.
+## What Modi said
 
-Four themed sessions are planned: religious and philosophical traditions, art and architecture, languages and literary traditions, and cultural expressions and living traditions. Reports say the talks will also touch cultural diplomacy, heritage preservation, education and traditional knowledge systems.
+Modi began by placing the forum against the news of the day. "Discussions around the world are dominated by war and unrest," he said, arguing that cultural connection is the surest basis for peace. He noted that "only a few months ago, the Shanghai Cooperation Organisation completed 25 years of its establishment", and that the grouping has built cooperation in security, the economy and connectivity. Cultural cooperation, he said, would **strengthen ties among member countries**.
 
-Union Culture and Tourism Minister Gajendra Singh Shekhawat briefed the media in Delhi on November 13. He called it more than an international gathering and said he was confident it would strengthen cultural exchange and mutual understanding among the participants.
+He then traced the routes along which ideas travelled. The trade between the Indus Valley and Mesopotamia about 5,000 years ago, the Chinese monks Faxian, Xuanzang and Yijing, the scholar Kumarajiva, the mathematics of Brahmagupta and Al-Khwarizmi, and the centres of Nalanda, Gandhara, Kucha, Dunhuang, Samarkand, Herat and Baghdad all featured in his account. He cited the Panchatantra reaching Persian and Arabic as *Kalila wa Dimna*, the Ramayana travelling to Southeast Asia as the *Reamker* in Cambodia, the links between Central Asian Maqam and Indian Raga, Sufi influence on Qawwali, and the Charbagh garden style.
+
+Mutual trust, he said, grows from shared experiences, and he invoked the principle of *Vasudhaiva Kutumbakam*, the world as one family. He closed with the Vedic verse "Sangachchhadhwam Samvadadhwam Sam Vo Manamsi Janatam", which he rendered as "let us walk together, let us engage in dialogue, and let there be harmony in our thoughts".
 
 ```photo
 {"n": 1, "subject": "Purana Qila", "caption": "The Qila-i-Kuhna mosque inside Purana Qila, the 16th-century fort in Delhi that hosts the forum from November 20 to 22.", "alt": "Qila-i-Kuhna mosque, Old Fort, Delhi (file photo)"}
 ```
 
-## Who is coming
+## The proposals
 
-India invited the culture ministers of **all 10 SCO member states**, among them China, Russia, Iran and Belarus, along with representatives of observer and dialogue partner countries. Each country may bring its culture minister and up to four other delegates. Reports put expected attendance at **more than 25 countries**.
+The practical part of the speech was a list of areas where members could work together. Modi said: "We can cooperate in the digitisation and translation of ancient texts", and proposed **joint research projects on shared history**. He said many literary works exist in only a few languages and that "with the help of AI, the translation of these works can be accelerated significantly."
 
-By November 13, **15 countries had confirmed**. Those named include China, Kazakhstan, Uzbekistan, Iran, Belarus, Nepal, Armenia, Saudi Arabia, Cambodia and Tajikistan. The other five were not listed.
+He also suggested joint exhibitions by museums, exchange programmes for scholars and researchers, and joint cultural festivals and artist exchanges. On tourism, he said "many historical sites linked to the Silk Routes and Buddhist heritage exist across our countries" and that members "can explore possibilities for connecting them through heritage circuits and cultural routes."
 
-Pakistan's Minister for National Heritage and Culture, Aurangzeb Khan Khichi, was among those invited. In the reports we read, Islamabad had **not said who would lead its delegation**. If a Pakistani minister attends, it would be the first visit to India by one since the SCO foreign ministers' meeting in Goa in May 2023, and the first since the four-day conflict of May 2025. Pakistan took over the SCO's rotating chair on September 1, 2026, and is due to host the leaders' summit in Islamabad in August 2027.
+The last group of proposals concerned young people. "Today's younger generation is connected through technology and wants to understand the world better," he said, and he called for local artists and artisans to be brought in through digital media and creative platforms. None of these came with a budget, a timeline or a named lead agency, and the official text records no agreement.
 
-## Why India is hosting it
+## Who was there
 
-Modi proposed the idea at the SCO leaders' summit in Tianjin, China, in September 2025, and the grouping adopted it. India calls it a flagship initiative of its own. On **October 20**, Defence Minister Rajnath Singh told the SCO Council of Heads of Government in Dushanbe that India would host the first forum by the end of the year. We reported that meeting [here](/en/news/rajnath-sco-dushanbe-no-double-standards-terrorism).
+Modi addressed the hall with a salutation to the **Secretary General of the SCO**, India's Culture Minister Gajendra Singh Shekhawat, other ministers of the Government of India, ministers and ambassadors from SCO countries, high commissioners, scholars and artists. The official record does not list which countries sent ministers. India had invited the culture ministers of all 10 member states, including Pakistan, and by November 13 had counted 15 confirmations. In the sources we read, **Pakistan's attendance was not stated**, and no outcome document has been published.
 
-The date has moved. On June 12, Minister of State for External Affairs Kirti Vardhan Singh said at an SCO conference in Dushanbe that the forum would be held in **Kolkata from July 17 to 19**. Later reports place it in Delhi in November. None of the reports we read explains the change.
+## The opening day
 
-The invitation to Pakistan comes about 18 months after Operation Sindoor, and relations remain strained after the April 2025 Pahalgam attack. At Dushanbe, Singh urged members to act against those who finance, support or shelter terrorist groups, with Pakistan's Deputy Prime Minister Ishaq Dar present. India has also not said at what level it will take part in the 2027 summit in Islamabad. In August, External Affairs Ministry Secretary Sibi George said India deals with the SCO "as an entity, as an important organisation" and that engagement with individual countries would be decided later.
+After the inauguration the evening programme opened with a cultural show titled "Civilisations in Conversation", which combined music, dance, visual storytelling and narration under the theme of *Vasudhaiva Kutumbakam*, tracing links between India and Eurasia. Two exhibitions opened at the venue: "ASTITVA, The Essence of Our Existence", which presents archaeological evidence of Delhi's history from 1200 BCE to 1200 CE, and the "Mahabharat Scroll Pavilion", which displays an 18th-century illustrated Mahabharata scroll.
+
+## How the forum came about
+
+Modi proposed a civilisational dialogue platform at the SCO leaders' summit in Tianjin in September 2025, and the idea was welcomed in the Bishkek Declaration. On October 20, Defence Minister Rajnath Singh told the SCO Council of Heads of Government in Dushanbe that India would host the first forum by the end of the year; we reported that meeting [here](/en/news/rajnath-sco-dushanbe-no-double-standards-terrorism). It had earlier been billed for Kolkata in July, and later reports placed it in Delhi in November. The reason for the change has not been given.
 
 ```photo
 {"n": 2, "subject": "Sher Mandal", "caption": "Sher Mandal, the octagonal tower inside Purana Qila.", "alt": "The octagonal tower inside Old Fort, Delhi (file photo)"}
@@ -106,4 +111,4 @@ The invitation to Pakistan comes about 18 months after Operation Sindoor, and re
 
 ## What happens next
 
-Modi opens the forum on Friday and the four sessions follow over the weekend, ending on November 22. The official line-up of speakers and the final list of countries are expected once the delegations arrive. Whether Pakistan is represented, and by whom, will be the first sign of how the invitation was received. The next fixed date on the SCO calendar is the Islamabad summit in August 2027.
+Four thematic sessions follow on **November 21 and 22**: arts, textiles, cuisine and traditional games; shared art and architecture; languages, scripts and manuscripts; and monastic trails and philosophical traditions. Whether any joint statement or follow-up working group comes out of them has not been announced. The next fixed date on the SCO calendar is the leaders' summit in Islamabad in August 2027, which Pakistan, the current chair, will host.
