@@ -56,7 +56,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Facts (judgment of November 18, 2026 by Justices Dipankar Datta and Satish Chandra Sharma; 273.57 acres in Kukuda, Bihabandha and Lanjiberna; Gram Sabhas and Gram Panchayats rejected the proposal on January 26, 2020; Section 19 declaration November 3, 2021; High Court judgment September 6, 2024; Section 41(3) held mandatory; expert group included the company's land acquisition adviser; court said a fresh acquisition is not barred) taken from the desk's November 20 news story, which was read against the judgment text via the Indian Kanoon mirror."
+    - "Editorial view of the desk. Facts (judgment of November 18, 2026, by Justices Dipankar Datta and Satish Chandra Sharma; 273.57 acres in Kukuda, Bihabandha and Lanjiberna; Gram Sabhas and Gram Panchayats rejected the proposal on January 26, 2020; Section 19 declaration November 3, 2021; High Court judgment September 6, 2024; Section 41(3) held mandatory; expert group included the company's land acquisition adviser; court said a fresh acquisition is not barred) taken from the desk's November 20 news story, which was read against the judgment text via the Indian Kanoon mirror."
     - "No reaction from the Odisha government, Dalmia Cements or villagers was found; none is quoted or claimed."
     - "No claim made about what other States do today or about how many acquisitions in Scheduled Areas have lacked consent."
     - "Recommendations are the desk's own."
@@ -68,7 +68,7 @@ On November 18, the Supreme Court set it aside. The land stays with the villager
 
 ## What the court said
 
-The bench of Justices Dipankar Datta and Satish Chandra Sharma held that the requirement of Gram Sabha consent in Section 41(3) of the 2013 land acquisition law is **mandatory**. The High Court had read it as a courtesy that could be collected later, as part of a "continuing process". The Supreme Court called that "reducing a mandatory statutory requirement into a paper formality", and found that the record did not show consent even on paper. It added that the public hearing listed for April 16, 2021 was not shown to have taken place, and that the expert group reviewing the social impact assessment included the company's own adviser for land acquisition.
+The bench of Justices Dipankar Datta and Satish Chandra Sharma held that the requirement of Gram Sabha consent in Section 41(3) of the 2013 land acquisition law is **mandatory**. The High Court had read it as a courtesy that could be collected later, as part of a "continuing process". The Supreme Court called that "reducing a mandatory statutory requirement into a paper formality", and found that the record did not show consent even on paper. It added that the public hearing listed for April 16, 2021, was not shown to have taken place, and that the expert group reviewing the social impact assessment included the company's own adviser for land acquisition.
 
 That last detail is the one officials should lose sleep over. A process in which the beneficiary helps judge the project is not a safeguard. It is a formality with a letterhead.
 

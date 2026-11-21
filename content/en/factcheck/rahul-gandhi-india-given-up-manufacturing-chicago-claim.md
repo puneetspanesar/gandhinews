@@ -85,7 +85,7 @@ In an address at the University of Chicago, circulated in a video on November 18
 
 ### 1. Output is rising, not abandoned
 
-The statistics ministry told the Lok Sabha on August 12, 2026 that manufacturing gross value added (GVA), the sector's contribution to output, grew at a **compound rate of 10.88% a year** from 2022-23 to 2025-26 in the revised series with base year 2022-23. Year on year it grew 12.7% in 2023-24, 9.3% in 2024-25 and 10.7% in 2025-26.
+The statistics ministry told the Lok Sabha on August 12, 2026, that manufacturing gross value added (GVA), the sector's contribution to output, grew at a **compound rate of 10.88% a year** from 2022-23 to 2025-26 in the revised series with base year 2022-23. Year on year it grew 12.7% in 2023-24, 9.3% in 2024-25 and 10.7% in 2025-26.
 
 ### 2. The latest quarter
 

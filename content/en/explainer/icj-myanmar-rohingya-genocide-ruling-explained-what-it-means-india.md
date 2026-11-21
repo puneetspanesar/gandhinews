@@ -4,7 +4,7 @@ lang: en
 type: explainer
 section: world
 format_label: "Explained / International law"
-topics: [rohingya, international-court-of-justice]
+topics: []
 title: "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India"
 standfirst: "On November 19 the International Court of Justice held, by 9 votes to 6, that Myanmar committed genocide against the Rohingya. What the judgment orders, what it cannot enforce, and why India's own Rohingya policy is now in question."
 published: 2026-11-21T06:46:30+05:30

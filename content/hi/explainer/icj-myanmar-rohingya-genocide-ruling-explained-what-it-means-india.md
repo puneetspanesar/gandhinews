@@ -5,7 +5,7 @@ translation_of: icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-ind
 type: explainer
 section: world
 format_label: "समझिए / अंतरराष्ट्रीय कानून"
-topics: [rohingya, international-court-of-justice]
+topics: []
 title: "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
 standfirst: "19 नवंबर को अंतरराष्ट्रीय न्यायालय ने 9 के मुकाबले 6 मतों से कहा कि म्यांमार ने रोहिंग्या के खिलाफ नरसंहार किया। फैसला क्या आदेश देता है, किसे लागू नहीं करा सकता, और भारत की अपनी रोहिंग्या नीति पर सवाल क्यों उठ रहे हैं।"
 published: 2026-11-21T06:46:30+05:30

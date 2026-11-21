@@ -96,25 +96,25 @@
         }
       },
       {
-        "link": "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
+        "link": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
+          "en": "International law:",
+          "hi": "अंतरराष्ट्रीय कानून:"
         },
         "text": {
-          "en": "Trump, Xi and Putin end Shenzhen talks with a 'Declaration Towards Peace': dialogue on nuclear risk, UN reform, but no deal on Ukraine",
-          "hi": "शेनझेन में ट्रंप, शी और पुतिन का 'शांति की ओर घोषणापत्र': परमाणु जोखिम पर संवाद, संयुक्त राष्ट्र सुधार, पर यूक्रेन पर कोई सौदा नहीं"
+          "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
+          "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
         }
       },
       {
-        "link": "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+        "link": "new-start-explained-trilateral-arms-control-shenzhen-declaration",
         "lead": {
-          "en": "Defence:",
-          "hi": "रक्षा:"
+          "en": "Nuclear arms control:",
+          "hi": "परमाणु हथियार नियंत्रण:"
         },
         "text": {
-          "en": "The India-Japan 2+2 explained: what four ministers in one room can actually decide, and what to watch in Tokyo",
-          "hi": "भारत-जापान 2+2 क्या है: एक मेज़ पर चार मंत्री क्या तय कर सकते हैं, और टोक्यो में किस पर नज़र रखें"
+          "en": "New START explained: what the Shenzhen declaration says about nuclear weapons, and what it leaves out",
+          "hi": "न्यू स्टार्ट संधि क्या थी: शेनझेन घोषणा परमाणु हथियारों पर क्या कहती है और क्या छोड़ देती है"
         }
       }
     ]
@@ -190,18 +190,18 @@
       "sc-delhi-sir-form7-mustafabad-eci-verify",
       "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
       "modi-sco-civilisational-dialogue-forum-purana-qila",
-      "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
     ],
     "also": [
-      "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
-      "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+      "new-start-explained-trilateral-arms-control-shenzhen-declaration",
+      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim"
     ]
   },
   "startHere": [
+    "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
     "new-start-explained-trilateral-arms-control-shenzhen-declaration",
     "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
-    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance",
-    "akvan-very-severe-cyclone-explained-storm-surge-landfall-warnings"
+    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance"
   ],
   "trackers": [
     {
@@ -271,9 +271,9 @@
   },
   "factCheck": {
     "cards": [
+      "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
       "modi-world-bank-50-crore-poverty-claim",
-      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
-      "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim"
+      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim"
     ]
   },
   "explained": [
@@ -354,11 +354,11 @@
     }
   ],
   "opinion": [
+    "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
     "air-india-ai171-final-report-must-be-public",
     "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
     "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
-    "punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-quality-check",
-    "tamil-nadu-governor-report-on-law-and-order-must-be-made-public"
+    "punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-quality-check"
   ],
   "sections": [
     {
@@ -484,22 +484,21 @@
         "en": "RBI's weekly forex reserves figures",
         "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
       }
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 28",
+        "hi": "28 नवंबर"
+      },
+      "text": {
+        "en": "Jharkhand's main Foundation Day ceremony at Khelgaon, Ranchi",
+        "hi": "रांची के खेलगांव में झारखंड का मुख्य स्थापना दिवस समारोह"
+      },
+      "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-20T06:55:49+05:30",
-      "ids": [
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "air-india-crash-probe-final-stages-supreme-court",
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "modi-world-bank-50-crore-poverty-claim",
-        "air-india-ai171-final-report-must-be-public"
-      ]
-    },
     {
       "at": "2026-11-20T07:12:49+05:30",
       "ids": [
@@ -604,11 +603,23 @@
         "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
         "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
       ]
+    },
+    {
+      "at": "2026-11-21T06:49:17+05:30",
+      "ids": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "new-start-explained-trilateral-arms-control-shenzhen-declaration"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "new-start-explained-trilateral-arms-control-shenzhen-declaration"
-  ],
+  "drop": [],
   "mustReadEn": 7
 }
