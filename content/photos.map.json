@@ -52333,11 +52333,54 @@
   "src800": "/photos/o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters-640.jpg",
   "width": 1280,
   "height": 853,
-  "srcWidth": 1500,
-  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Amit Shah (file photo)",
-  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
+  "srcWidth": 624,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Amit Shah presents the President's Colour to Arunachal Pradesh Police in Itanagar on November 21, 2026",
+  "alt_hi": "21 नवंबर 2026 को इटानगर में अरुणाचल प्रदेश पुलिस को राष्ट्रपति का पुलिस ध्वज सौंपते अमित शाह",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2339539"
+ },
+ "manipur-chandel-spurious-liquor-deaths": {
+  "id": "i-manipur-chandel-spurious-liquor-deaths",
+  "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-3x2-1280.jpg",
+  "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 16 dead, over 370 in hospital in Manipur",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मणिपुर में 16 की मौत, 370 से ज्यादा अस्पताल में",
+  "page": null,
+  "ihash": "f82388b7b552",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-3x2-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-t-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-t-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Chandel liquor poisoning or CM Khemchand Singh; library, quick_photo, PIB, finder h2117"
  }
 }
