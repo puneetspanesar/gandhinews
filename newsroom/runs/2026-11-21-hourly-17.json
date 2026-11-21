@@ -1,11 +1,9 @@
 {
  "run": "hourly-17",
  "start": "2026-11-21T17:04:15+05:30",
- "end": "2026-11-21T17:39:17+05:30",
- "summary": "Manipur liquor deaths; Shah Arunachal story fixed with PIB release, lead",
- "new": [
-  "manipur-chandel-spurious-liquor-deaths"
- ],
+ "end": "2026-11-21T17:55:34+05:30",
+ "summary": "collage fix for the Shah Arunachal lead",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

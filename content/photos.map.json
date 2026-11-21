@@ -11552,7 +11552,8 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Yaounde, the capital of Cameroon (file photo)",
   "alt_hi": "कैमरून की राजधानी याउंडे (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": true
  },
  "chacarra-wins-dp-world-india-championship-race-to-dubai": {
   "id": "v-chacarra-wins-dp-world-india-championship-race-to-dubai",
@@ -52344,12 +52345,12 @@
    "src800": "/photos/t-amit-shah-arunachal-police-colour-banderdewa-siang-dam-prote-640.jpg",
    "cutout": true,
    "with": [
-    "cameroon-mrc-elects-tiriane-noah-first-woman-leader",
-    "cbi-arrests-ed-officials-lucknow-5-lakh-bribe"
+    "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters--p1",
+    "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters--p2"
    ],
    "kind": "photo",
    "subj": "fff7f7f2b0101033",
-   "credit": "Photos: PIB; Ryanvanhuyssteen / Wikimedia Commons; Pulakit Singh / Wikimedia Commons"
+   "credit": "Photos: PIB; ঈশান জ্যোতি বৰা / Wikimedia Commons"
   }
  },
  "manipur-chandel-spurious-liquor-deaths": {
@@ -52394,5 +52395,29 @@
    }
   },
   "nophoto": "no free photo of the Chandel liquor poisoning or CM Khemchand Singh; library, quick_photo, PIB, finder h2117"
+ },
+ "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters--p1": {
+  "id": "o-amit-shah-arunachal-siang--p1",
+  "src": "/photos/o-amit-shah-arunachal-siang--p1-1280.jpg",
+  "src800": "/photos/o-amit-shah-arunachal-siang--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: ঈশান জ্যোতি বৰা / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Siang river flowing through the hills of Upper Siang district, Arunachal Pradesh (file photo)",
+  "alt_hi": "अरुणाचल प्रदेश के अपर सियांग जिले की पहाड़ियों से बहती सियांग नदी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters--p2": {
+  "id": "o-amit-shah-arunachal-parade--p2",
+  "src": "/photos/o-amit-shah-arunachal-parade--p2-1280.jpg",
+  "src800": "/photos/o-amit-shah-arunachal-parade--p2-640.jpg",
+  "width": 624,
+  "height": 369,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Arunachal Pradesh Police on parade in Itanagar",
+  "alt_hi": "इटानगर में परेड करती अरुणाचल प्रदेश पुलिस",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2339539"
  }
 }
