@@ -1,0 +1,19 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-21T14:03:53+05:30",
+ "end": "2026-11-21T14:44:13+05:30",
+ "summary": "Nitish Setu lead; Shah Arunachal story held for no official source",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+   "why": "Hindi and English differ: English says four-laning of 'Sahebganj to Areraj to Bettiah' (NH-139W, East Champaran) but Hindi says 'साहेबगंज से अररिया होते हुए बेतिया' (Araria, a different district). Also the hero overlay, the SEO description and the English SEO title call the bridge '19.7 km' while the headline, key points and body say the bridge is 9.7 km (19.7 km is bridge plus approach roads).",
+   "done": "Hindi अररिया changed to अरेराज; overlay and SEO description now say 9.7 km bridge in both languages; unfound in-story photo blocks removed."
+  }
+ ],
+ "breaches": [],
+ "lead": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row"
+}

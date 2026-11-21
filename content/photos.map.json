@@ -52301,5 +52301,44 @@
    "subj": "fffffffb00000000",
    "credit": "Photos: Ministry of Defence / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
   }
+ },
+ "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row": {
+  "id": "o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+  "src": "/photos/o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row-1280.jpg",
+  "src800": "/photos/o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 672,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-cre-1280.jpg",
+   "src800": "/photos/t-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-cre-640.jpg",
+   "cutout": true,
+   "with": [
+    "siwan-firecracker-blast-five-dead-alampur-sho-suspended",
+    "vaishali-retired-soldier-shoots-brother-land-dispute",
+    "perseverance-mars-complex-organic-carbon-bright-angel"
+   ],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; Rahulkrsah / Wikimedia Commons; SmTkMrVrA / Wikimedia Commons; NASA / Wikimedia Commons"
+  }
+ },
+ "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters": {
+  "id": "o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+  "src": "/photos/o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters-1280.jpg",
+  "src800": "/photos/o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1500,
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Amit Shah (file photo)",
+  "alt_hi": "अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Amit_Shah_in_Raigad.jpg"
  }
 }
