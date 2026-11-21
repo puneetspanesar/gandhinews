@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+    "id": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
     "overlay": {
       "kicker": {
-        "en": "States / Bihar",
-        "hi": "राज्य / बिहार"
+        "en": "States / Arunachal Pradesh",
+        "hi": "राज्य / अरुणाचल प्रदेश"
       },
       "value": {
-        "en": "Nitish Setu: 9.7 km bridge, ₹4,280 crore",
-        "hi": "नीतीश सेतु: 9.7 किमी पुल, ₹4,280 करोड़"
+        "en": "Shah to Siang: 'only with your trust'",
+        "hi": "शाह: सियांग के भरोसे से ही आगे"
       },
       "text": {
         "en": "",
@@ -16,23 +16,30 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
-      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
+      "manipur-chandel-spurious-liquor-deaths"
     ],
     "live": {
       "title": {
-        "en": "Bihar",
-        "hi": "बिहार"
+        "en": "Arunachal Pradesh",
+        "hi": "अरुणाचल प्रदेश"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "manipur-chandel-spurious-liquor-deaths",
+        "lead": {
+          "en": "Manipur:",
+          "hi": "मणिपुर:"
+        },
+        "text": {
+          "en": "Manipur spurious liquor deaths climb to 16 as hundreds fill Imphal hospitals; CM orders inquiry",
+          "hi": "मणिपुर में जहरीली शराब से मौतें बढ़कर 16, इंफाल के अस्पतालों में सैकड़ों मरीज; मुख्यमंत्री ने जांच के आदेश दिए"
+        }
+      },
       {
         "link": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "lead": {
@@ -109,17 +116,6 @@
           "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
           "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
         }
-      },
-      {
-        "link": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "lead": {
-          "en": "International law:",
-          "hi": "अंतरराष्ट्रीय कानून:"
-        },
-        "text": {
-          "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
-          "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
-        }
       }
     ]
   },
@@ -186,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+      "id": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
       "also": []
     },
     "list": [
+      "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
       "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-      "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+      "sc-delhi-sir-form7-mustafabad-eci-verify"
     ],
     "also": [
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
     ]
   },
   "startHere": [
@@ -398,11 +394,11 @@
     },
     {
       "section": "states",
-      "lead": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+      "lead": "manipur-chandel-spurious-liquor-deaths",
       "list": [
-        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference"
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
       ]
     },
     {
@@ -469,6 +465,18 @@
     {
       "icon": "calendar-blank",
       "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Amit Shah unveils the Arunachal Cooperation Vision Document 2047 in Itanagar and opens the NDRF 12th Battalion campus at Hollongi",
+        "hi": "अमित शाह इटानगर में अरुणाचल सहकारिता विज़न दस्तावेज़ 2047 जारी करेंगे और होलोंगी में एनडीआरएफ की 12वीं बटालियन का परिसर खोलेंगे"
+      },
+      "link": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
         "en": "Nov 23",
         "hi": "23 नवंबर"
       },
@@ -512,38 +520,9 @@
         "en": "RBI's weekly forex reserves figures",
         "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
       }
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Nov 28",
-        "hi": "28 नवंबर"
-      },
-      "text": {
-        "en": "Jharkhand's main Foundation Day ceremony at Khelgaon, Ranchi",
-        "hi": "रांची के खेलगांव में झारखंड का मुख्य स्थापना दिवस समारोह"
-      },
-      "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-20T17:50:46+05:30",
-      "ids": [
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "air-india-ai171-final-report-must-be-public",
-        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "air-india-crash-probe-final-stages-supreme-court",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
-      ]
-    },
     {
       "at": "2026-11-20T20:42:01+05:30",
       "ids": [
@@ -645,6 +624,20 @@
         "sc-delhi-sir-form7-mustafabad-eci-verify",
         "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      ]
+    },
+    {
+      "at": "2026-11-21T17:28:27+05:30",
+      "ids": [
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "manipur-chandel-spurious-liquor-deaths",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
       ]
     }
   ],
