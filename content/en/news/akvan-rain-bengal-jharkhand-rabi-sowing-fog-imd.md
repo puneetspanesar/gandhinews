@@ -63,7 +63,7 @@ Akvan crossed the coast near Gopalpur, in Odisha's Ganjam district, between 7:30
 
 In the 24 hours to 8:30 am on Friday, **Odisha received extremely heavy rain**, above 21 cm in places. Patrapur recorded 21 cm, the highest total in the country, followed by Srikakulam in coastal Andhra Pradesh at 19 cm. Coastal Andhra Pradesh saw very heavy falls of 12 to 20 cm. Gangetic West Bengal and Tripura had heavy rain of 7 to 11 cm, with Kalyani in West Bengal recording 9 cm and Sonamura in Tripura 8 cm.
 
-State figures from Odisha are higher at the station level. According to the Press Trust of India, Patrapur in Ganjam logged 209 mm, Hinjili 207 mm, Chikiti 199 mm and Gopalpur 190 mm, while Puri had 61.1 mm. Odisha's Disaster Management Minister Suresh Pujari said there was no major damage or loss of life, and Chief Secretary Anu Garg said "the situation remains under control". About 3.72 lakh people had been moved to shelters.
+State figures from Odisha are higher at the station level. According to reports citing Odisha's figures, Patrapur in Ganjam logged 209 mm, Hinjili 207 mm, Chikiti 199 mm and Gopalpur 190 mm, while Puri had 61.1 mm. Odisha's Disaster Management Minister Suresh Pujari said there was no major damage or loss of life, and Chief Secretary Anu Garg said "the situation remains under control". About 3.72 lakh people had been moved to shelters.
 
 ## What the bulletin warns of next
 

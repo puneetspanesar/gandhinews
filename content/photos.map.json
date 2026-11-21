@@ -52263,7 +52263,19 @@
   "licence": "CC BY 3.0",
   "alt": "Aayakar Bhawan, an Income Tax Department office in Kolkata (file photo)",
   "alt_hi": "कोलकाता में आयकर विभाग का दफ्तर आयकर भवन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Aayakar_Bhawan_-_Kolkata_2011-12-18_0067.JPG"
+  "page": "https://commons.wikimedia.org/wiki/File:Aayakar_Bhawan_-_Kolkata_2011-12-18_0067.JPG",
+  "treated": {
+   "src": "/photos/t-fast-ds-joint-holders-foreign-bank-accounts-separately-decem-1280.jpg",
+   "src800": "/photos/t-fast-ds-joint-holders-foreign-bank-accounts-separately-decem-640.jpg",
+   "cutout": true,
+   "with": [
+    "fiscal-deficit-reaches-41-9-of-target-by-august",
+    "rupee-slips-12-paise-94-93-brent-fii-selling-october-23"
+   ],
+   "kind": "photo",
+   "subj": "efe7e3c1c1c18101",
+   "credit": "Photos: Biswarup Ganguly / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons"
+  }
  },
  "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd": {
   "id": "r-akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
@@ -52275,6 +52287,19 @@
   "licence": "GODL-India",
   "alt": "Security personnel walk past wind-felled trees on the Odisha coast after Cyclone Phailin (file photo)",
   "alt_hi": "चक्रवात फैलिन के बाद ओडिशा तट पर गिरे पेड़ों के पास से गुज़रते सुरक्षाकर्मी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Army_Jawans_coming_back_after_doing_massive_rescue_operations_in_Gopalpur_area_of_Odisha_by_clearing_road_damaged_after_Phailin_cyclone.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Army_Jawans_coming_back_after_doing_massive_rescue_operations_in_Gopalpur_area_of_Odisha_by_clearing_road_damaged_after_Phailin_cyclone.jpg",
+  "treated": {
+   "src": "/photos/t-akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd-1280.jpg",
+   "src800": "/photos/t-akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd-640.jpg",
+   "cutout": false,
+   "with": [
+    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+    "five-states-head-for-2027-assembly-polls",
+    "how-uttar-pradesh-voted-2022-what-it-takes-to-win"
+   ],
+   "kind": "photo",
+   "subj": "fffffffb00000000",
+   "credit": "Photos: Ministry of Defence / Wikimedia Commons; MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; Shoonyea / Wikimedia Commons"
+  }
  }
 }

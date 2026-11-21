@@ -20,7 +20,7 @@
       "bbmb-power-sharing-explained-himachal-share-supreme-court"
     ],
     "relatedBeside": [
-      "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
+      "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
     ],
     "live": {
       "title": {
@@ -32,6 +32,28 @@
   "briefing": {
     "items": [
       {
+        "link": "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
+        "lead": {
+          "en": "Weather:",
+          "hi": "मौसम:"
+        },
+        "text": {
+          "en": "IMD tells farmers in Odisha, Bengal and Jharkhand to drain fields and hold rabi sowing; dense fog forecast in north India to November 23",
+          "hi": "आईएमडी ने ओडिशा, बंगाल और झारखंड के किसानों से कहा, खेत से पानी निकालें और रबी की बुवाई रोकें; उत्तर भारत में 23 नवंबर तक घना कोहरा"
+        }
+      },
+      {
+        "link": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "lead": {
+          "en": "Tax:",
+          "hi": "कर:"
+        },
+        "text": {
+          "en": "FAST-DS foreign asset window shuts on December 31: 60% tax or a flat ₹1 lakh for immunity, 40 days left",
+          "hi": "फास्ट-डीएस की विदेशी संपत्ति खिड़की 31 दिसंबर को बंद: छूट के लिए 60% कर या एकमुश्त ₹1 लाख, 40 दिन बाकी"
+        }
+      },
+      {
         "link": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
         "lead": {
           "en": "Industry:",
@@ -40,17 +62,6 @@
         "text": {
           "en": "Core industries grow 10.9% in October, a 13-month high, as iron ore, coal and power surge",
           "hi": "अक्टूबर में कोर उद्योगों की वृद्धि 10.9%, 13 महीने का उच्चतम स्तर, लौह अयस्क, कोयला और बिजली ने खींची रफ़्तार"
-        }
-      },
-      {
-        "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Modi opens SCO Civilisational Dialogue Forum, proposes AI translation of ancient texts and Silk Route heritage circuits",
-          "hi": "मोदी ने एससीओ सभ्यतागत संवाद मंच का उद्घाटन किया, प्राचीन ग्रंथों के एआई अनुवाद और रेशम मार्ग विरासत परिपथों का प्रस्ताव रखा"
         }
       },
       {
@@ -106,17 +117,6 @@
         "text": {
           "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
           "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
-        }
-      },
-      {
-        "link": "modi-world-bank-50-crore-poverty-claim",
-        "lead": {
-          "en": "Poverty:",
-          "hi": "गरीबी:"
-        },
-        "text": {
-          "en": "Modi's '50 crore out of poverty in 12 to 13 years': the World Bank numbers fit, but only on one poverty line",
-          "hi": "मोदी का '12-13 साल में 50 करोड़ गरीबी से बाहर': विश्व बैंक के आंकड़े बैठते हैं, पर सिर्फ एक गरीबी रेखा पर"
         }
       }
     ]
@@ -184,19 +184,19 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-sco-civilisational-dialogue-forum-purana-qila",
+      "id": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
       "also": []
     },
     "list": [
+      "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
     ],
     "also": [
-      "modi-world-bank-50-crore-poverty-claim",
-      "air-india-ai171-final-report-must-be-public"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
     ]
   },
   "startHere": [
@@ -378,7 +378,7 @@
     },
     {
       "section": "economy",
-      "lead": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+      "lead": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
       "module": {
         "type": "markets",
         "indicators": [
@@ -389,18 +389,18 @@
         ]
       },
       "list": [
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-        "goyal-india-1000-more-aircraft-order-2000-needed"
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
       ]
     },
     {
       "section": "states",
-      "lead": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+      "lead": "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
       "list": [
+        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
         "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
-        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "himachal-winter-session-opens-tapovan-414-questions-six-sittings"
+        "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone"
       ]
     },
     {
@@ -452,6 +452,18 @@
     }
   ],
   "weekAhead": [
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "Dense fog expected over Uttar Pradesh on November 22 and 23, IMD says",
+        "hi": "आईएमडी के अनुसार 22 और 23 नवंबर को उत्तर प्रदेश में घना कोहरा"
+      },
+      "link": "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
+    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -513,20 +525,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-20T11:32:28+05:30",
-      "ids": [
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "modi-world-bank-50-crore-poverty-claim",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
-      ]
-    },
     {
       "at": "2026-11-20T14:39:20+05:30",
       "ids": [
@@ -630,12 +628,24 @@
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "modi-world-bank-50-crore-poverty-claim"
       ]
+    },
+    {
+      "at": "2026-11-21T11:32:39+05:30",
+      "ids": [
+        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-    "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
-  ],
+  "drop": [],
   "mustReadEn": 7
 }

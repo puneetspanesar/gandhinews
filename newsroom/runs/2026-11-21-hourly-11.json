@@ -1,0 +1,27 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-21T11:04:38+05:30",
+ "end": "2026-11-21T11:34:58+05:30",
+ "summary": "Akvan farm and fog advisory; FAST-DS window closes Dec 31",
+ "new": [
+  "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
+  "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
+   "why": "Rule 14: an outlet is named in the body text of both the English and Hindi files (\"According to the Press Trust of India, Patrapur in Ganjam logged 209 mm...\" / \"प्रेस ट्रस्ट ऑफ इंडिया के अनुसार ...\"). Picture itself is fine (Cyclone Phailin file photo, Odisha coast, labelled).",
+   "done": "Agency name removed in EN and HI; figures attributed to reports citing Odisha's figures."
+  },
+  {
+   "id": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+   "why": "In-story photo 1 (Nirmala Sitharaman, a named, well-known person) shows 'NOT FOUND' on the sheet, so the story has no second picture while a free photo of the Finance Minister is easily available. Main picture (Aayakar Bhawan, file photo) is acceptable.",
+   "done": "Sitharaman in-story photo block dropped from EN and HI (main picture kept)."
+  }
+ ],
+ "breaches": [],
+ "lead": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
+}

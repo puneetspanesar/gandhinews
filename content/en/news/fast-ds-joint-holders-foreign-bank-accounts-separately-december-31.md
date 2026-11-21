@@ -69,10 +69,6 @@ The price depends on the category. In **Category A**, for assets bought with und
 
 In **Category B**, for assets bought out of income already taxed in India but left out of the return schedule, or acquired while the person was a non-resident, the fee is a flat ₹1 lakh, provided the total value of the assets does not exceed ₹5 crore. Above those limits the scheme is not available.
 
-```photo
-{"n":1,"subject":"Nirmala Sitharaman","caption":"Finance Minister Nirmala Sitharaman, whose Budget 2026-27 announced the one-time disclosure scheme.","alt":"Finance Minister Nirmala Sitharaman"}
-```
-
 ## What a declaration buys
 
 FAST-DS is a voluntary scheme created by Chapter IV of the Finance Act, 2026. A valid declaration with payment gives protection from further tax, penalty and prosecution under the Black Money Act, 2015, for the income or asset declared. The scheme does not cover proceeds of crime where proceedings under the Prevention of Money Laundering Act are pending or have begun. **Immunity covers only what is declared**, so an asset left out stays exposed.
