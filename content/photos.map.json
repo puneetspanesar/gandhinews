@@ -52338,7 +52338,19 @@
   "licence": "PIB (free reproduction with credit)",
   "alt": "Amit Shah presents the President's Colour to Arunachal Pradesh Police in Itanagar on November 21, 2026",
   "alt_hi": "21 नवंबर 2026 को इटानगर में अरुणाचल प्रदेश पुलिस को राष्ट्रपति का पुलिस ध्वज सौंपते अमित शाह",
-  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2339539"
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2339539",
+  "treated": {
+   "src": "/photos/t-amit-shah-arunachal-police-colour-banderdewa-siang-dam-prote-1280.jpg",
+   "src800": "/photos/t-amit-shah-arunachal-police-colour-banderdewa-siang-dam-prote-640.jpg",
+   "cutout": true,
+   "with": [
+    "cameroon-mrc-elects-tiriane-noah-first-woman-leader",
+    "cbi-arrests-ed-officials-lucknow-5-lakh-bribe"
+   ],
+   "kind": "photo",
+   "subj": "fff7f7f2b0101033",
+   "credit": "Photos: PIB; Ryanvanhuyssteen / Wikimedia Commons; Pulakit Singh / Wikimedia Commons"
+  }
  },
  "manipur-chandel-spurious-liquor-deaths": {
   "id": "i-manipur-chandel-spurious-liquor-deaths",

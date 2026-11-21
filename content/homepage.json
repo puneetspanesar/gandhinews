@@ -63,17 +63,6 @@
         }
       },
       {
-        "link": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "lead": {
-          "en": "Industry:",
-          "hi": "उद्योग:"
-        },
-        "text": {
-          "en": "Core industries grow 10.9% in October, a 13-month high, as iron ore, coal and power surge",
-          "hi": "अक्टूबर में कोर उद्योगों की वृद्धि 10.9%, 13 महीने का उच्चतम स्तर, लौह अयस्क, कोयला और बिजली ने खींची रफ़्तार"
-        }
-      },
-      {
         "link": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
         "lead": {
           "en": "India-Nepal:",
@@ -115,6 +104,17 @@
         "text": {
           "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
           "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
+        }
+      },
+      {
+        "link": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "lead": {
+          "en": "International law:",
+          "hi": "अंतरराष्ट्रीय कानून:"
+        },
+        "text": {
+          "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
+          "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
         }
       }
     ]
@@ -187,14 +187,14 @@
     },
     "list": [
       "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-      "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-      "sc-delhi-sir-form7-mustafabad-eci-verify"
+      "sc-delhi-sir-form7-mustafabad-eci-verify",
+      "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
     ],
     "also": [
-      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
     ]
   },
   "startHere": [
@@ -387,9 +387,9 @@
         ]
       },
       "list": [
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
+        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+        "goyal-india-1000-more-aircraft-order-2000-needed"
       ]
     },
     {
@@ -627,21 +627,26 @@
       ]
     },
     {
-      "at": "2026-11-21T17:28:55+05:30",
+      "at": "2026-11-21T17:37:00+05:30",
       "ids": [
         "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
         "manipur-chandel-spurious-liquor-deaths",
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
         "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
         "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
         "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
       ]
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+    "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+    "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+    "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
+  ],
   "mustReadEn": 7
 }
