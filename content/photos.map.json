@@ -52437,13 +52437,37 @@
    "src800": "/photos/t-ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablet-640.jpg",
    "cutout": true,
    "with": [
-    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s2",
-    "us-midterms-2026-explained-what-is-at-stake",
-    "cabinet-approves-integrated-transport-logistics-authority"
+    "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us--p1",
+    "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us--p2",
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s2"
    ],
    "kind": "photo",
    "subj": "383c667365677ee7",
-   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Noclip / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; Saankav / Wikimedia Commons"
+   "credit": "Photos: Ministry of Home Affairs / Wikimedia Commons; Pinakpani / Wikimedia Commons; Wasiul Bahar / Wikimedia Commons; Noclip / Wikimedia Commons"
   }
+ },
+ "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us--p1": {
+  "id": "o-ncb-dea-north-block--p1",
+  "src": "/photos/o-ncb-dea-north-block--p1-1280.jpg",
+  "src800": "/photos/o-ncb-dea-north-block--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, the Home Ministry building, in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली का नॉर्थ ब्लॉक, गृह मंत्रालय की इमारत (फाइल फोटो)",
+  "page": null
+ },
+ "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us--p2": {
+  "id": "o-ncb-dea-delhi-airport--p2",
+  "src": "/photos/o-ncb-dea-delhi-airport--p2-1280.jpg",
+  "src800": "/photos/o-ncb-dea-delhi-airport--p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Wasiul Bahar / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The arrivals hall at Delhi airport (file photo)",
+  "alt_hi": "दिल्ली हवाई अड्डे का आगमन हॉल (फाइल फोटो)",
+  "page": null
  }
 }

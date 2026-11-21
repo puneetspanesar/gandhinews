@@ -89,11 +89,21 @@ The two agencies have also swapped data. The records list **more than 59,000 cus
 
 The NCB also identified **live consignments of more than 1,500 tablets** that were on their way to destinations in the United States. Acting on that intelligence, the DEA intercepted and seized two shipments. The US agency is following leads from the NCB, including details of the drop-shippers who received the parcels.
 
+```photo
+{"n": 2, "subject": "Delhi airport", "caption": "Drugs crossing borders by post and air are a running fight: in an earlier case, customs at Delhi airport's cargo complex found 148 kg of cannabis from Bangkok (file photo).", "alt": "The arrivals hall at Delhi airport (file photo)"}
+```
+
+
 ## What Shah and Washington said
 
 Mr Shah wrote on X that he offered "heartiest congratulations to the NCB and the US DEA on the exemplary success of Operation Monsoon Thunder". He said the arrests and seizures in both countries showed the strength of the India-US partnership against drugs, and repeated the government's **zero-tolerance policy**: under Prime Minister Narendra Modi, he said, India is working to ensure that no narcotics enter the country or leave it for others.
 
 The Home Ministry's own release, issued through PIB on November 21, carries the same message of congratulation to the two agencies.
+
+```photo
+{"n": 1, "subject": "North Block", "caption": "North Block, home of the Ministry of Home Affairs, which issued the release on the operation (file photo).", "alt": "North Block, the Home Ministry building, in New Delhi (file photo)"}
+```
+
 
 ## Why it matters
 

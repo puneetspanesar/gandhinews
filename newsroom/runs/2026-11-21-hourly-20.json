@@ -1,11 +1,9 @@
 {
  "run": "hourly-20",
  "start": "2026-11-21T20:04:04+05:30",
- "end": "2026-11-21T20:22:53+05:30",
- "summary": "NCB-DEA Operation Monsoon Thunder lead; Nepal PM visit updated",
- "new": [
-  "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
- ],
+ "end": "2026-11-21T20:38:43+05:30",
+ "summary": "Collage fix for the NCB-DEA lead",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
