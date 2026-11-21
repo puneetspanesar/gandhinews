@@ -183,7 +183,7 @@ INSTITUTION = [  # story words -> Indian institutions and settings that belong w
 ]
 UNIVERSAL = [  # settings that fit a story anywhere in the world
     (r'cricket|Test|ODI|T20|IPL', r'cricket|stadium'), (r'tennis|ATP|WTA|Masters|Open\b', r'tennis'), (r'badminton|shuttler', r'badminton|shuttle'), (r'hockey|football|athlet|Olympic|chess|shoot|Formula|F1\b|Grand Prix', r'stadium|circuit|sports arena'),
-    (r'ISRO|NASA|rocket|launch|satellite|space|orbit|moon|Mars', r'rocket|launch|satellite|space|ISRO|NASA'),
+    (r'ISRO|NASA|rocket|satellite|space|orbit|moon|Mars', r'rocket|launch|satellite|space|ISRO|NASA'),   # no bare 'launch' in the story words: 'launches Bihar projects' put a Mars rover behind Modi (hourly-14, November 21)
     (r'semiconductor|Nvidia|chipmaker|chip stocks|data centre|TSMC|ASML', r'semiconductor|chip|wafer|data cent|server'),
     (r'oil|crude|Brent|OPEC|refiner|gas\b|LNG', r'oil|refinery|tanker|OPEC|LNG'), (r'ship|vessel|port|shipping|Hormuz|Red Sea', r'port|ship|vessel|tanker'),
 ]
