@@ -1,0 +1,21 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-21T08:04:37+05:30",
+ "end": "2026-11-21T08:30:43+05:30",
+ "summary": "Thiruparankundram SC stay leads; SCO forum story updated",
+ "new": [
+  "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "modi-sco-civilisational-dialogue-forum-purana-qila",
+   "why": "Main picture is an extreme close-up file photo of Modi: top of the head and left ear are cropped at the frame edge and the image looks soft and upscaled. The run's own note says it should check we have the event itself (Modi opening the forum at Purana Qila), and the story shows only a stock-style smiling face.",
+   "done": "Swapped the main picture for a wider, sharp PMO file portrait with the full head in frame (quick_photo pick o-modi-bharat-agriculture-conference-natural-farming-mother-earth-fertiliser, not used in 48 hours); no PIB photo of the Purana Qila event exists (pib_photo.py, 3 searches); collage remade and checked."
+  }
+ ],
+ "breaches": [],
+ "lead": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
+}

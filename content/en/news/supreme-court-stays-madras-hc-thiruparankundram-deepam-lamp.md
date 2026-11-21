@@ -94,7 +94,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "PRIMARY NOT OPENED: the November 20 order PDF on sci.gov.in could not be located or fetched. Order terms come from five consistent reports (Supreme Court Observer, LiveLaw, Bar & Bench, LawBeat, The News Minute). The primary source linked is the Madras High Court judgment of January 6, 2026 that the order stays (read this run: cause title, bench, date, paras 2 to 6); the Supreme Court's own order was not yet on its website."
+    - "PRIMARY NOT OPENED: the November 20 order PDF on sci.gov.in could not be located or fetched. Order terms come from five consistent reports (Supreme Court Observer, LiveLaw, Bar & Bench, LawBeat, The News Minute). The primary source linked is the Madras High Court judgment of January 6, 2026, that the order stays (read this run: cause title, bench, date, paras 2 to 6); the Supreme Court's own order was not yet on its website."
     - "Central force: LiveLaw, The News Minute and Outlook say CISF may be deployed; Supreme Court Observer and LawBeat say CRPF. Copy says central paramilitary help without naming the force."
     - "Quotes from the order are as reported by Bar & Bench, LawBeat and The News Minute; they may be close paraphrase of the order text."
     - "Dates: the State's SLP was filed June 11 (LawBeat, LiveLaw); notice issued August 3 without a stay (LiveLaw, Bar & Bench); hearing the week of November 16 (The News Minute gives November 17 and 18). Compliance report due 'within three days after the festival' so by about November 27."

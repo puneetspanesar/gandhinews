@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+    "id": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
     "overlay": {
       "kicker": {
-        "en": "World / India-Nepal",
-        "hi": "दुनिया / भारत-नेपाल"
+        "en": "States / Tamil Nadu",
+        "hi": "राज्य / तमिलनाडु"
       },
       "value": {
-        "en": "Shah in Delhi, talks with Modi Nov 23",
-        "hi": "दिल्ली में शाह, 23 को मोदी से वार्ता"
+        "en": "One lamp, one day, no crowd",
+        "hi": "एक दीप, एक दिन, कोई भीड़ नहीं"
       },
       "text": {
         "en": "",
@@ -16,14 +16,16 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "bbmb-power-sharing-explained-himachal-share-supreme-court"
+    ],
     "relatedBeside": [
       "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
     ],
     "live": {
       "title": {
-        "en": "India-Nepal",
-        "hi": "भारत-नेपाल"
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
       }
     }
   },
@@ -38,6 +40,28 @@
         "text": {
           "en": "Core industries grow 10.9% in October, a 13-month high, as iron ore, coal and power surge",
           "hi": "अक्टूबर में कोर उद्योगों की वृद्धि 10.9%, 13 महीने का उच्चतम स्तर, लौह अयस्क, कोयला और बिजली ने खींची रफ़्तार"
+        }
+      },
+      {
+        "link": "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Modi opens SCO Civilisational Dialogue Forum, proposes AI translation of ancient texts and Silk Route heritage circuits",
+          "hi": "मोदी ने एससीओ सभ्यतागत संवाद मंच का उद्घाटन किया, प्राचीन ग्रंथों के एआई अनुवाद और रेशम मार्ग विरासत परिपथों का प्रस्ताव रखा"
+        }
+      },
+      {
+        "link": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "lead": {
+          "en": "India-Nepal:",
+          "hi": "भारत-नेपाल:"
+        },
+        "text": {
+          "en": "Nepal PM Balendra Shah to visit India from November 22, talks with Modi on November 23",
+          "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह 22 नवंबर से भारत दौरे पर, 23 नवंबर को मोदी से वार्ता"
         }
       },
       {
@@ -63,14 +87,14 @@
         }
       },
       {
-        "link": "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
+        "link": "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "lead": {
-          "en": "Environment:",
-          "hi": "पर्यावरण:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Yadav tells Delhi-NCR civic bodies to treat open burning with zero tolerance this winter",
-          "hi": "यादव ने दिल्ली-एनसीआर के नगर निकायों से कहा, इस सर्दी खुले में जलाने पर शून्य सहनशीलता"
+          "en": "Supreme Court quashes Dalmia land acquisition in Odisha, says Gram Sabha consent is a must",
+          "hi": "सुप्रीम कोर्ट ने डालमिया खनन के लिए ओडिशा का भूमि अधिग्रहण रद्द किया, ग्राम सभा की सहमति अनिवार्य"
         }
       },
       {
@@ -85,17 +109,6 @@
         }
       },
       {
-        "link": "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-        "lead": {
-          "en": "Manufacturing:",
-          "hi": "विनिर्माण:"
-        },
-        "text": {
-          "en": "Rahul Gandhi says India has given up on manufacturing: official data show output growing about 11% a year, but its share of the economy has not moved",
-          "hi": "राहुल गांधी का दावा कि भारत ने मैन्युफैक्चरिंग छोड़ दी: सरकारी आंकड़ों में उत्पादन सालाना करीब 11% बढ़ा, पर अर्थव्यवस्था में उसका हिस्सा नहीं बढ़ा"
-        }
-      },
-      {
         "link": "modi-world-bank-50-crore-poverty-claim",
         "lead": {
           "en": "Poverty:",
@@ -104,17 +117,6 @@
         "text": {
           "en": "Modi's '50 crore out of poverty in 12 to 13 years': the World Bank numbers fit, but only on one poverty line",
           "hi": "मोदी का '12-13 साल में 50 करोड़ गरीबी से बाहर': विश्व बैंक के आंकड़े बैठते हैं, पर सिर्फ एक गरीबी रेखा पर"
-        }
-      },
-      {
-        "link": "new-start-explained-trilateral-arms-control-shenzhen-declaration",
-        "lead": {
-          "en": "Nuclear arms control:",
-          "hi": "परमाणु हथियार नियंत्रण:"
-        },
-        "text": {
-          "en": "New START explained: what the Shenzhen declaration says about nuclear weapons, and what it leaves out",
-          "hi": "न्यू स्टार्ट संधि क्या थी: शेनझेन घोषणा परमाणु हथियारों पर क्या कहती है और क्या छोड़ देती है"
         }
       }
     ]
@@ -182,18 +184,19 @@
   },
   "topStories": {
     "big": {
-      "id": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+      "id": "modi-sco-civilisational-dialogue-forum-purana-qila",
       "also": []
     },
     "list": [
+      "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+      "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-      "modi-world-bank-50-crore-poverty-claim"
+      "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
     ],
     "also": [
-      "new-start-explained-trilateral-arms-control-shenzhen-declaration"
+      "modi-world-bank-50-crore-poverty-claim",
+      "air-india-ai171-final-report-must-be-public"
     ]
   },
   "startHere": [
@@ -367,9 +370,9 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "air-india-crash-probe-final-stages-supreme-court",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
       ],
       "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
@@ -386,27 +389,27 @@
         ]
       },
       "list": [
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
         "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today"
+        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
+        "goyal-india-1000-more-aircraft-order-2000-needed"
       ]
     },
     {
       "section": "states",
-      "lead": "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
+      "lead": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
       "list": [
+        "latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference",
         "maharashtra-cabinet-reward-naxal-looted-weapons-palghar-court-textile-zone",
-        "himachal-winter-session-opens-tapovan-414-questions-six-sittings",
-        "akvan-deep-depression-monday-imd-landfall-night-nov-19"
+        "himachal-winter-session-opens-tapovan-414-questions-six-sittings"
       ]
     },
     {
       "section": "policy",
       "lead": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "list": [
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
         "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
-        "bhupender-yadav-ncr-191-units-sealing-anpr-nov-30"
+        "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
       ]
     },
     {
@@ -464,6 +467,18 @@
     {
       "icon": "calendar-blank",
       "date": {
+        "en": "Nov 24",
+        "hi": "24 नवंबर"
+      },
+      "text": {
+        "en": "Karthigai Deepam lamp to be lit at the Thiruparankundram Deepathoon by a restricted team",
+        "hi": "थिरुपरनकुंद्रम के दीपथून पर सीमित दल द्वारा कार्तिगई दीपम जलाया जाएगा"
+      },
+      "link": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
         "en": "Nov 25",
         "hi": "25 नवंबर"
       },
@@ -498,23 +513,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-20T08:51:06+05:30",
-      "ids": [
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "air-india-ai171-final-report-must-be-public",
-        "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
-        "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "modi-world-bank-50-crore-poverty-claim",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
-        "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
-      ]
-    },
     {
       "at": "2026-11-20T11:32:28+05:30",
       "ids": [
@@ -617,12 +615,26 @@
         "modi-world-bank-50-crore-poverty-claim",
         "new-start-explained-trilateral-arms-control-shenzhen-declaration"
       ]
+    },
+    {
+      "at": "2026-11-21T08:28:32+05:30",
+      "ids": [
+        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+        "bbmb-power-sharing-explained-himachal-share-supreme-court",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "modi-world-bank-50-crore-poverty-claim"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-sco-civilisational-dialogue-forum-purana-qila",
-    "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
     "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
   ],
   "mustReadEn": 7

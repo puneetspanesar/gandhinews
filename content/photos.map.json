@@ -51708,17 +51708,16 @@
   }
  },
  "modi-sco-civilisational-dialogue-forum-purana-qila": {
-  "id": "o-modi-sco-civilisational-dialogue-forum-purana-qila",
-  "src": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila-1280.jpg",
-  "src800": "/photos/o-modi-sco-civilisational-dialogue-forum-purana-qila-640.jpg",
+  "id": "r-modi-sco-civilisational-dialogue-forum-purana-qila",
+  "src": "/photos/r-modi-sco-civilisational-dialogue-forum-purana-qila-1280.jpg",
+  "src800": "/photos/r-modi-sco-civilisational-dialogue-forum-purana-qila-640.jpg",
   "width": 1280,
-  "height": 852,
-  "srcWidth": 1018,
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "height": 853,
+  "credit": "Photo: Government of India / Wikimedia Commons",
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_India_Narendra_Modi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg",
   "treated": {
    "src": "/photos/t-modi-sco-civilisational-dialogue-forum-purana-qila-1280.jpg",
    "src800": "/photos/t-modi-sco-civilisational-dialogue-forum-purana-qila-640.jpg",
@@ -51728,7 +51727,7 @@
     "modi-sco-civilisational-dialogue-forum-purana-qila--p3",
     "modi-sco-civilisational-dialogue-forum-purana-qila--p4"
    ],
-   "kind": "portrait",
+   "kind": "photo",
    "subj": "ffe7c3c3e7e7d181",
    "credit": "Photos: Government of India / Wikimedia Commons; Slyronit / Wikimedia Commons"
   }
