@@ -32,7 +32,7 @@ infographic:
     - {date: "Oct 24", text: "Pema Khandu offers talks to opponents", icon: chats}
     - {date: "Nov 20", text: "ABKU and SIFF email memorandum to Shah", icon: envelope}
     - {date: "Nov 21", text: "Shah promises to proceed only with Siang's trust", icon: handshake}
-  source: "PIB release of November 21, 2026 and reports from Itanagar"
+  source: "PIB release of November 21, 2026, and reports from Itanagar"
 related: [pasighat-vandalism-siang-dam-bandh-khandu-khera, siang-dam-explained-what-sump-is-why-adi-protest, latif-bhat-lashkar-last-local-terrorist-kulgam-amit-shah-anti-terror-conference, amit-shah-presidents-police-colour-uttarakhand-police]
 seo:
   title: "Shah to Siang dam protesters: only with your trust"
