@@ -52100,5 +52100,31 @@
    "subj": "ffff0f010001ffff",
    "credit": "Photo: Meemoprasad / Wikimedia Commons"
   }
+ },
+ "rahul-gandhi-india-given-up-manufacturing-chicago-claim": {
+  "id": "o-rahul-gandhi-india-given-up-manufacturing-chicago-claim",
+  "src": "/photos/o-rahul-gandhi-india-given-up-manufacturing-chicago-claim-1280.jpg",
+  "src800": "/photos/o-rahul-gandhi-india-given-up-manufacturing-chicago-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 963,
+  "credit": "Photo: Himanshu Arya Khowal / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
+ },
+ "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh": {
+  "id": "o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+  "src": "/photos/o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh-1280.jpg",
+  "src800": "/photos/o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 3648,
+  "credit": "Photo: Bikash Lakra / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A village road near Rauldega in Sundargarh district, Odisha (file photo)",
+  "alt_hi": "ओडिशा के सुंदरगढ़ जिले में राउलडेगा के पास गांव की सड़क (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rauldega,_Odisha,_India_-_panoramio_(5).jpg"
  }
 }
