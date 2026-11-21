@@ -1,7 +1,7 @@
 {
   "id": "election-calendar",
   "title": "Election calendar, October 2026 to December 2027",
-  "updated": "2026-11-10T07:05:00+05:30",
+  "updated": "2026-11-21T06:50:00+05:30",
   "coverage": "Lok Sabha and assembly bypolls, Rajya Sabha elections, state assembly general elections and the presidential election, plus major state election commission rural local body polls, held, announced or expected between 1 October 2026 and 31 December 2027. Only items confirmed in at least one reputable source are listed.",
   "status_values": [
     "announced",
@@ -322,12 +322,12 @@
       "date": "2026-11-14",
       "counting_date": "2026-11-20",
       "expected_window": null,
-      "status": "announced",
+      "status": "held",
       "term_end": null,
-      "result": "Phases 1 to 3 held on October 23, October 29 and November 4. The fourth and last phase is on November 14; counting of zila parishad and panchayat samiti members is on November 20 at district headquarters.",
+      "result": "All four phases are held (October 23, October 29, November 4 and November 14). Counting of zila parishad and panchayat samiti members began on November 20 across 1,275 zila parishad and 7,543 panchayat samiti seats; party-wise totals not read from the State Election Commission.",
       "source_url": "https://www.etvbharat.com/en/state/panchayat-elections-in-rajasthan-to-be-held-in-four-phases-from-october-23-enn26100304266",
       "source_publisher": "ETV Bharat, citing State Election Commissioner Rajeshwar Singh",
-      "notes": "Announced by the State Election Commission on October 3, 2026. Covers 14,403 gram panchayats, 457 panchayat samitis and 41 zila parishads. Polling hours 7 am to 6 pm. Baran, Sri Ganganagar, Karauli and Kota districts vote after December 22, 2026. Nikhil Dey has questioned the voter rolls used (see our report of November 8, 2026); the commission says it used the pre-SIR roll of January 1, 2025. Phase 1 to 3 results not read."
+      "notes": "Announced by the State Election Commission on October 3, 2026. Covers 14,403 gram panchayats, 457 panchayat samitis and 41 zila parishads. Polling hours 7 am to 6 pm. Baran, Sri Ganganagar, Karauli and Kota districts vote after December 22, 2026. Nikhil Dey has questioned the voter rolls used (see our report of November 8, 2026); the commission says it used the pre-SIR roll of January 1, 2025. Phase 1 to 3 results not read. Update November 21, 2026: counting reported under way on November 20 (early trends only in the report read, from a news site, not the commission); final totals not yet read. One report also says some districts were deferred; dates for those not confirmed."
     },
     {
       "id": "kolkata-municipal-corporation-2026",
