@@ -30,7 +30,7 @@ infographic:
   motif: scales
   stats:
     - {icon: map-pin, value: "273.57", label: "acres in three Sundargarh villages"}
-    - {icon: users-three, value: "80%", label: "of affected families must consent first"}
+    - {icon: users-three, value: "80%", label: "of affected families must consent for a private company project (2013 Act, s. 2(2))"}
   timeline:
     - {date: "Jan 2020", text: "Villages reject the proposal", icon: users-three}
     - {date: "Nov 2021", text: "Final declaration issued", icon: file-text}
@@ -38,6 +38,11 @@ infographic:
     - {date: "Nov 18, 2026", text: "Supreme Court quashes it", icon: gavel}
   source: "Supreme Court judgment, November 18, 2026"
 sources:
+  - title: "The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (Act No. 30 of 2013), section 2(2)"
+    publisher: "Government of India (India Code)"
+    date: 2013-09-26
+    url: "https://www.indiacode.nic.in/handle/123456789/2121"
+    primary: true
   - title: "Bibol Toppo and Others v. State of Odisha and Others, Civil Appeal No. 8294 of 2026 (2026 INSC 1244), judgment of November 18, 2026"
     publisher: "Supreme Court of India"
     date: 2026-11-18
@@ -60,6 +65,7 @@ verification:
     - "No reaction from the Odisha government, Dalmia Cements or villagers was found; none is quoted or claimed."
     - "No claim made about what other States do today or about how many acquisitions in Scheduled Areas have lacked consent."
     - "Recommendations are the desk's own."
+    - "The 80% consent figure in the infographic is section 2(2)(b) of the 2013 land acquisition Act: prior consent of at least 80% of affected families when land is acquired for private companies (70% for public-private partnership projects)."
 ---
 
 Villagers in three Sundargarh villages said no. On **January 26, 2020**, the Gram Sabhas and Gram Panchayats of Kukuda, Bihabandha and Lanjiberna unanimously rejected a proposal to hand their farmland to a cement company for mining. The State issued a fresh notification a month later and carried on. A final declaration followed in November 2021, and the Orissa High Court upheld the whole exercise in September 2024.

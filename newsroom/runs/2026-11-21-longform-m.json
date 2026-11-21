@@ -1,0 +1,23 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-21T06:36:04+05:30",
+ "end": "2026-11-21T07:05:40+05:30",
+ "summary": "3 pieces: ICJ Rohingya explainer, Sundargarh Gram Sabha editorial, Rahul Gandhi manufacturing fact check",
+ "new": [
+  "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+  "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+  "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+   "why": "The infographic stat '80% of affected families must consent first' (and its Hindi twin) appears nowhere in the editorial text or the verification notes, and none of the listed sources is cited for it. The editorial says the State claimed consent from 482 families but never states an 80% rule.",
+   "done": "Sourced the 80% stat to section 2(2)(b) of the 2013 land acquisition Act (Act 30 of 2013, India Code, primary: true), relabelled it as applying to private company projects in both languages, and added a verification note."
+  }
+ ],
+ "breaches": [],
+ "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
+}

@@ -31,7 +31,7 @@ infographic:
   motif: scales
   stats:
     - {icon: map-pin, value: "273.57", label: "सुंदरगढ़ के तीन गांवों की एकड़ जमीन"}
-    - {icon: users-three, value: "80%", label: "प्रभावित परिवारों की पूर्व सहमति जरूरी"}
+    - {icon: users-three, value: "80%", label: "प्रभावित परिवारों की सहमति जरूरी, निजी कंपनी की परियोजना में (2013 का कानून, धारा 2(2))"}
   timeline:
     - {date: "जनवरी 2020", text: "गांवों ने प्रस्ताव ठुकराया", icon: users-three}
     - {date: "नवंबर 2021", text: "अंतिम घोषणा जारी", icon: file-text}
@@ -39,6 +39,11 @@ infographic:
     - {date: "18 नवंबर 2026", text: "सुप्रीम कोर्ट ने रद्द किया", icon: gavel}
   source: "सुप्रीम कोर्ट का फैसला, 18 नवंबर 2026"
 sources:
+  - title: "The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (Act No. 30 of 2013), section 2(2)"
+    publisher: "Government of India (India Code)"
+    date: 2013-09-26
+    url: "https://www.indiacode.nic.in/handle/123456789/2121"
+    primary: true
   - title: "Bibol Toppo and Others v. State of Odisha and Others, Civil Appeal No. 8294 of 2026 (2026 INSC 1244), judgment of November 18, 2026"
     publisher: "Supreme Court of India"
     date: 2026-11-18
