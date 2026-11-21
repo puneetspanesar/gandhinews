@@ -8,7 +8,7 @@ topics: [states]
 title: "IMD tells farmers in Odisha, Bengal and Jharkhand to drain fields and hold rabi sowing; dense fog forecast in north India to November 23"
 standfirst: "Waterlogged fields after Cyclone Akvan are the concern in the eastern states, and the weather office's Friday bulletin forecasts dense fog over Delhi, Punjab, Haryana and Chandigarh through Sunday and over Uttar Pradesh on Sunday and Monday."
 published: 2026-11-21T11:24:28+05:30
-location: New Delhi
+location: "Bhubaneswar, Odisha"
 keyPoints:
   - "IMD asked farmers in Odisha, Gangetic West Bengal and Jharkhand to **drain waterlogged fields and postpone rabi sowing**."
   - "Patrapur in Odisha recorded **21 cm of rain** in 24 hours, the highest total, ahead of Srikakulam (19 cm)."

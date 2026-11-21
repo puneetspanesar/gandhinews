@@ -1,12 +1,9 @@
 {
  "run": "hourly-11",
  "start": "2026-11-21T11:04:38+05:30",
- "end": "2026-11-21T11:34:58+05:30",
- "summary": "Akvan farm and fog advisory; FAST-DS window closes Dec 31",
- "new": [
-  "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
-  "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
- ],
+ "end": "2026-11-21T11:46:01+05:30",
+ "summary": "Collage fix: Akvan advisory story",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
