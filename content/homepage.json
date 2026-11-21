@@ -85,17 +85,6 @@
         }
       },
       {
-        "link": "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court asks Election Commission to verify claim of false Form 7 forms to delete Mustafabad voters",
-          "hi": "सुप्रीम कोर्ट ने चुनाव आयोग से कहा, मुस्तफाबाद के मतदाताओं को हटाने के लिए फर्जी फॉर्म 7 की शिकायत की जांच करे"
-        }
-      },
-      {
         "link": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "lead": {
           "en": "International law:",
@@ -115,6 +104,17 @@
         "text": {
           "en": "Sundargarh shows why Gram Sabha consent must be sought before the land is taken, not after",
           "hi": "सुंदरगढ़ बताता है कि ग्राम सभा की सहमति जमीन लेने से पहले ली जाए, बाद में नहीं"
+        }
+      },
+      {
+        "link": "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
+        "lead": {
+          "en": "Manufacturing:",
+          "hi": "विनिर्माण:"
+        },
+        "text": {
+          "en": "Rahul Gandhi says India has given up on manufacturing: official data show output growing about 11% a year, but its share of the economy has not moved",
+          "hi": "राहुल गांधी का दावा कि भारत ने मैन्युफैक्चरिंग छोड़ दी: सरकारी आंकड़ों में उत्पादन सालाना करीब 11% बढ़ा, पर अर्थव्यवस्था में उसका हिस्सा नहीं बढ़ा"
         }
       }
     ]
@@ -189,12 +189,12 @@
       "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-      "sc-delhi-sir-form7-mustafabad-eci-verify",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+      "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
     ],
     "also": [
-      "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
+      "modi-world-bank-50-crore-poverty-claim"
     ]
   },
   "startHere": [
@@ -368,11 +368,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "air-india-crash-probe-final-stages-supreme-court",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
+        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
       ],
-      "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
+      "lead": "modi-sco-civilisational-dialogue-forum-purana-qila"
     },
     {
       "section": "economy",
@@ -627,7 +627,7 @@
       ]
     },
     {
-      "at": "2026-11-21T20:20:22+05:30",
+      "at": "2026-11-21T20:45:46+05:30",
       "ids": [
         "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
         "manipur-chandel-spurious-liquor-deaths",
@@ -635,9 +635,9 @@
         "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
         "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
         "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
       ]
     }
   ],
@@ -646,7 +646,8 @@
     "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
     "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
     "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
+    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+    "sc-delhi-sir-form7-mustafabad-eci-verify"
   ],
   "mustReadEn": 7
 }
