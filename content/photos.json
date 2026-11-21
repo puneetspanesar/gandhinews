@@ -53946,5 +53946,49 @@
   "alt": "The Peace Palace in The Hague, seat of the International Court of Justice",
   "alt_hi": "हेग का पीस पैलेस, अंतरराष्ट्रीय न्यायालय (आईसीजे) का मुख्यालय",
   "page": "https://commons.wikimedia.org/wiki/File:La_haye_palais_paix_jardin_face.JPG"
+ },
+ {
+  "id": "cx-icj-myanmar-rohingya-genocide-ruling-explained-what-it-me-0",
+  "articleId": "part:icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Y%C5%ABji_Iwasawa_20180827_%28cropped%29.jpg/1600px-Y%C5%ABji_Iwasawa_20180827_%28cropped%29.jpg",
+  "credit": "Ministry of Foreign Affairs of Japan",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Y%C5%ABji_Iwasawa_20180827_(cropped).jpg"
+ },
+ {
+  "id": "x-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means",
+  "articleId": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Y%C5%ABji_Iwasawa_20180827_%28cropped%29.jpg/1600px-Y%C5%ABji_Iwasawa_20180827_%28cropped%29.jpg",
+  "credit": "Photo: Ministry of Foreign Affairs of Japan / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Judge Yuji Iwasawa, President of the International Court of Justice (file photo)",
+  "alt_hi": "अंतरराष्ट्रीय न्यायालय के अध्यक्ष जज युजी इवासावा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Y%C5%ABji_Iwasawa_20180827_(cropped).jpg",
+  "composite": [
+   "cx-icj-myanmar-rohingya-genocide-ruling-explained-what-it-me-0"
+  ]
+ },
+ {
+  "id": "cx-icj-myanmar-rohingya-genocide-ruling-explained-what-it-me-0b",
+  "articleId": "part:icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india--p2:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rohingya_Refugee_Camp_26.jpg/1600px-Rohingya_Refugee_Camp_26.jpg",
+  "credit": "Rocky Masum",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rohingya_Refugee_Camp_26.jpg"
+ },
+ {
+  "id": "x-icj-myanmar-rohingya-genocide-ruling-explained-what-it-meansb",
+  "articleId": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india--p2",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rohingya_Refugee_Camp_26.jpg/1600px-Rohingya_Refugee_Camp_26.jpg",
+  "credit": "Photo: Rocky Masum / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A Rohingya refugee camp in Cox's Bazar, Bangladesh (file photo)",
+  "alt_hi": "बांग्लादेश के कॉक्स बाज़ार में रोहिंग्या शरणार्थी शिविर (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rohingya_Refugee_Camp_26.jpg",
+  "composite": [
+   "cx-icj-myanmar-rohingya-genocide-ruling-explained-what-it-me-0b"
+  ]
  }
 ]
