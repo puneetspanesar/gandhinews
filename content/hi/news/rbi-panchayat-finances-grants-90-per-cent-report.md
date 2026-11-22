@@ -21,7 +21,7 @@ hero:
   alt: "पश्चिम बंगाल के नंदीग्राम का एक गांव (फ़ाइल फ़ोटो)"
   overlay:
     value: "पंचायतों का 90% पैसा हस्तांतरण से"
-related: [bank-camps-2-7-lakh-panchayats-financial-inclusion-drive, odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma]
+related: [maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data, chouhan-women-farmers-recognition-sanchi, bank-camps-2-7-lakh-panchayats-financial-inclusion-drive]
 glance:
   - {icon: bank, value: "~90%", label: "ग्राम पंचायतों की प्राप्तियां अंतर-सरकारी हस्तांतरण से"}
   - {icon: house, value: "~10%", label: "अपनी आय, ज़्यादातर गैर-कर प्राप्तियां"}

@@ -20,7 +20,7 @@ hero:
   alt: "A village in Nandigram, West Bengal (file photo)"
   overlay:
     value: "Panchayats: 90% of funds are transfers"
-related: [bank-camps-2-7-lakh-panchayats-financial-inclusion-drive, odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma]
+related: [maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data, chouhan-women-farmers-recognition-sanchi, bank-camps-2-7-lakh-panchayats-financial-inclusion-drive]
 glance:
   - {icon: bank, value: "~90%", label: "of gram panchayat receipts are intergovernmental transfers"}
   - {icon: house, value: "~10%", label: "is own-source revenue, mostly non-tax receipts"}
