@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "rbi-panchayat-finances-grants-90-per-cent-report"
+      "odisha-akvan-damage-assessment-100-year-flood-plan"
     ],
     "live": {
       "title": {
@@ -29,6 +29,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "lead": {
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
+        },
+        "text": {
+          "en": "Odisha starts Cyclone Akvan damage assessment and plans a 100-year flood roadmap",
+          "hi": "ओडिशा में चक्रवात अकवान से नुकसान का आकलन शुरू, 100 साल की बाढ़ प्रबंधन योजना की तैयारी"
+        }
+      },
       {
         "link": "rbi-panchayat-finances-grants-90-per-cent-report",
         "lead": {
@@ -71,17 +82,6 @@
         "text": {
           "en": "Manipur spurious liquor deaths climb to 16 as hundreds fill Imphal hospitals; CM orders inquiry",
           "hi": "मणिपुर में जहरीली शराब से मौतें बढ़कर 16, इंफाल के अस्पतालों में सैकड़ों मरीज; मुख्यमंत्री ने जांच के आदेश दिए"
-        }
-      },
-      {
-        "link": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "lead": {
-          "en": "Arunachal Pradesh:",
-          "hi": "अरुणाचल प्रदेश:"
-        },
-        "text": {
-          "en": "Shah tells Siang dam protesters the project goes ahead only 'with your trust', and says no local terrorist is left in the Valley",
-          "hi": "सियांग बांध पर शाह का भरोसा: परियोजना 'आपके विश्वास से ही' आगे बढ़ेगी, घाटी में एक भी स्थानीय आतंकी नहीं बचा"
         }
       },
       {
@@ -182,13 +182,13 @@
   },
   "topStories": {
     "big": {
-      "id": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+      "id": "rbi-panchayat-finances-grants-90-per-cent-report",
       "also": []
     },
     "list": [
+      "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
       "manipur-chandel-spurious-liquor-deaths",
-      "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
       "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
       "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
     ],
@@ -393,11 +393,11 @@
     },
     {
       "section": "states",
-      "lead": "manipur-chandel-spurious-liquor-deaths",
+      "lead": "odisha-akvan-damage-assessment-100-year-flood-plan",
       "list": [
+        "manipur-chandel-spurious-liquor-deaths",
         "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
-        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
+        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row"
       ]
     },
     {
@@ -521,23 +521,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-21T14:41:51+05:30",
-      "ids": [
-        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
-        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
-        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
-      ]
-    },
-    {
       "at": "2026-11-21T17:53:18+05:30",
       "ids": [
         "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
@@ -630,6 +613,20 @@
         "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
         "manipur-chandel-spurious-liquor-deaths",
         "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-22T17:24:03+05:30",
+      "ids": [
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"

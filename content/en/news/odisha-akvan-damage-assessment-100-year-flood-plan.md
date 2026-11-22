@@ -91,9 +91,6 @@ Farmers whose standing crops were damaged will receive an **input subsidy under 
 
 "Enough is enough," Pujari said, according to reports. "Now, the State should have a proper flood management plan to mitigate calamities." He said recurring floods and cyclones damage public and private infrastructure, close schools and colleges, delay development projects and leave administrators spending much of the year on relief instead of development. He said the **loss of government working hours and of students' study time** should also be counted.
 
-```photo
-{"n":1,"subject":"Suresh Pujari","caption":"Odisha Revenue and Disaster Management Minister Suresh Pujari, who announced the assessment and the flood roadmap.","alt":"Odisha minister Suresh Pujari"}
-```
 
 ## The 100-year roadmap
 
@@ -109,9 +106,6 @@ Akvan changed its projected path on November 18. It had first been forecast to c
 
 The plan follows three successive cyclones, according to reports of the briefing. Cyclone Arnab hit on October 28; its rain set off the Ghidipabali landslide in Ganjam and floods on the Rushikulya, and killed 11 people in Odisha. On November 5 the state asked a central team for **₹2,526 crore** for Arnab and flood damage and a further ₹10,000 crore for long-term flood measures, as we reported in [Ganjam landslide toll rises to seven](/en/news/ganjam-landslide-toll-seven-odisha-seeks-2526-crore). The 100-year roadmap is the longer version of that second request.
 
-```photo
-{"n":2,"subject":"Rushikulya River","caption":"The Rushikulya river in Ganjam, which flooded after Cyclone Arnab and has no major flood-control works.","alt":"The Rushikulya river in Odisha"}
-```
 
 ## What it means for farmers and for the budget
 
