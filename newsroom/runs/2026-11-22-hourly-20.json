@@ -1,0 +1,22 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-22T20:03:59+05:30",
+ "end": "2026-11-22T20:38:47+05:30",
+ "summary": "Thiruparankundram review plea update; USCIRF story held for picture",
+ "new": [],
+ "held": [
+  "uscirf-india-voter-rolls-muslims-mea-biased"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "uscirf-india-voter-rolls-muslims-mea-biased",
+   "kind": "picture",
+   "why": "Main picture is Randhir Jaiswal, who only replied. The story is led by USCIRF's accusation, and the person who spoke first (USCIRF chair Asif Mahmood) is not shown. The man in the photo also stands in front of a US flag, which is odd for an MEA spokesperson file photo, so the identity is not certain.",
+   "fix": "Use a clearly identified photo of USCIRF chair Asif Mahmood (accuser first), or a verified Jaiswal briefing photo with an MEA backdrop. Check identity against the source page before using it."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
+}
