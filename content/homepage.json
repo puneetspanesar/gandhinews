@@ -441,36 +441,11 @@
       "lead": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
       "list": [
         "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-        "england-banton-century-adelaide-second-odi-series-level",
-        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval"
+        "england-banton-century-adelaide-second-odi-series-level"
       ]
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Dense fog expected over Uttar Pradesh on November 22 and 23, IMD says",
-        "hi": "आईएमडी के अनुसार 22 और 23 नवंबर को उत्तर प्रदेश में घना कोहरा"
-      },
-      "link": "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
-    },
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Amit Shah unveils the Arunachal Cooperation Vision Document 2047 in Itanagar and opens the NDRF 12th Battalion campus at Hollongi",
-        "hi": "अमित शाह इटानगर में अरुणाचल सहकारिता विज़न दस्तावेज़ 2047 जारी करेंगे और होलोंगी में एनडीआरएफ की 12वीं बटालियन का परिसर खोलेंगे"
-      },
-      "link": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -517,23 +492,21 @@
         "en": "RBI's weekly forex reserves figures",
         "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
       }
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 28",
+        "hi": "28 नवंबर"
+      },
+      "text": {
+        "en": "Jharkhand's main Foundation Day ceremony at Khelgaon, Ranchi",
+        "hi": "रांची के खेलगांव में झारखंड का मुख्य स्थापना दिवस समारोह"
+      },
+      "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-21T17:53:18+05:30",
-      "ids": [
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "manipur-chandel-spurious-liquor-deaths",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
-      ]
-    },
     {
       "at": "2026-11-21T20:45:46+05:30",
       "ids": [
@@ -620,6 +593,20 @@
     },
     {
       "at": "2026-11-22T17:24:03+05:30",
+      "ids": [
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-22T18:13:34+05:30",
       "ids": [
         "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "odisha-akvan-damage-assessment-100-year-flood-plan",
