@@ -1,11 +1,9 @@
 {
  "run": "hourly-17",
  "start": "2026-11-22T17:04:37+05:30",
- "end": "2026-11-22T17:26:20+05:30",
- "summary": "Odisha Akvan damage assessment and 100-year flood roadmap (new); economy desk found no readable primary source",
- "new": [
-  "odisha-akvan-damage-assessment-100-year-flood-plan"
- ],
+ "end": "2026-11-22T17:40:23+05:30",
+ "summary": "collage fix for the Odisha Akvan story",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

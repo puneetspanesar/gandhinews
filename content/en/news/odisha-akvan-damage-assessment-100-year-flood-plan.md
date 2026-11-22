@@ -35,7 +35,7 @@ infographic:
     - {date: "Nov 22", text: "Damage assessment begins", icon: calendar}
     - {date: "Nov 23", text: "Uttarakhand study team due back", icon: users}
   source: "Statements of Odisha Minister Suresh Pujari and Special Relief Commissioner Rajesh P Patil, November 21, 2026"
-related: [akvan-deep-depression-monday-imd-landfall-night-nov-19, ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-five-instream-storage-projects-625-crore, akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd]
+related: [akvan-deep-depression-monday-imd-landfall-night-nov-19, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, bay-of-bengal-depression-october-25-odisha-fishermen-warning, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-five-instream-storage-projects-625-crore, akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd]
 seo:
   title: "Odisha begins Akvan damage assessment, 100-year flood plan"
   description: "Odisha begins assessing Cyclone Akvan damage on November 22 and is preparing a 100-year flood roadmap for eight river systems with IIT Roorkee's help."

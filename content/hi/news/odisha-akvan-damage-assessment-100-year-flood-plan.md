@@ -36,7 +36,7 @@ infographic:
     - {date: "22 नवंबर", text: "नुकसान का आकलन शुरू", icon: calendar}
     - {date: "23 नवंबर", text: "उत्तराखंड गई अध्ययन टीम की वापसी", icon: users}
   source: "मंत्री सुरेश पुजारी और विशेष राहत आयुक्त राजेश पी पाटिल के 21 नवंबर 2026 के बयान"
-related: [akvan-deep-depression-monday-imd-landfall-night-nov-19, ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-five-instream-storage-projects-625-crore, akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd]
+related: [akvan-deep-depression-monday-imd-landfall-night-nov-19, odisha-cancels-collectors-leave-schools-shut-cyclone-arnab, bay-of-bengal-depression-october-25-odisha-fishermen-warning, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, ganjam-landslide-toll-seven-odisha-seeks-2526-crore, odisha-five-instream-storage-projects-625-crore, akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd]
 seo:
   title: "ओडिशा में अकवान से नुकसान का आकलन शुरू, 100 साल की बाढ़ योजना"
   description: "ओडिशा में 22 नवंबर से चक्रवात अकवान के नुकसान का आकलन शुरू होगा; आईआईटी रुड़की की मदद से आठ नदी प्रणालियों के लिए 100 साल की बाढ़ योजना बन रही है।"
