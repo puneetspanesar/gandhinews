@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-11-13",
+    "as_of": "2026-11-22",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -1026,6 +1026,93 @@
       "notes": "सुप्रीम कोर्ट का आदेश (sci.gov.in) खुल नहीं सका; 6 नवंबर की तारीख, पीठ और निर्देश दो स्वतंत्र रिपोर्टों पर टिके हैं जो आपस में मेल खाती हैं। सुनवाई का कैलेंडर हमारी 12 नवंबर की खबर के अनुसार। मामले का नाम और संख्या पढ़े गए स्रोतों में नहीं है।",
       "case_hi": "दिल्ली-एनसीआर वायु प्रदूषण (वाहन उत्सर्जन)",
       "status_hi": "लंबित"
+    },
+    {
+      "id": "bibol-toppo-gram-sabha-consent-sundargarh",
+      "case": "बिबोल तोप्पो एवं अन्य बनाम ओडिशा राज्य एवं अन्य (सिविल अपील संख्या 8294/2026, 2026 आईएनएससी 1244)",
+      "issue": "क्या ओडिशा अनुसूचित क्षेत्र की कृषि भूमि एक निजी सीमेंट कंपनी की खनन परियोजना के लिए ग्राम सभा और प्रभावित परिवारों के 80% की पूर्व सहमति के बिना अधिग्रहीत कर सकता था, जैसा 2013 के भूमि अधिग्रहण कानून में है।",
+      "bench_size": 2,
+      "bench": "जस्टिस दीपांकर दत्ता और जस्टिस सतीश चंद्र शर्मा",
+      "status": "decided",
+      "status_text": "18 नवंबर 2026 को अधिग्रहण रद्द; धारा 41(3) के तहत ग्राम सभा की सहमति अनिवार्य ठहराई गई",
+      "last_date": "2026-11-18",
+      "last_event": "पीठ ने डालमिया सीमेंट्स भारत लिमिटेड के लिए सुंदरगढ़ के कुकुड़ा, बिहाबंधा और लांजिबेरना में करीब 273.57 एकड़ का अधिग्रहण रद्द किया, और ओडिशा हाईकोर्ट के सितंबर 2024 के उस फैसले को भी, जिसने इसे सही ठहराया था।",
+      "next_step": "पढ़े गए फैसले में कुछ सूचीबद्ध नहीं; राज्य पुनर्विचार मांग सकता है।",
+      "sources": [
+        {
+          "title": "Bibol Toppo and Others v. State of Odisha and Others, Civil Appeal No. 8294 of 2026 (2026 INSC 1244), judgment of November 18, 2026",
+          "publisher": "Supreme Court of India (judgment text)",
+          "date": "2026-11-18",
+          "url": "https://indiankanoon.org/doc/74858079/"
+        },
+        {
+          "title": "Supreme Court Quashes Odisha's 2021 Land Acquisition for Dalmia Cement Mining Project",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-19",
+          "url": "https://www.barandbench.com/news/litigation/supreme-court-quashes-odishas-2021-land-acquisition-for-dalmia-cement-mining-project"
+        }
+      ],
+      "notes": "तारीख, पीठ, मामला संख्या और निष्कर्ष फैसले के पाठ से हैं। अगला कदम डेस्क की टिप्पणी है, अदालत का आदेश नहीं।"
+    },
+    {
+      "id": "raut-wagle-criminal-contempt-scba",
+      "case": "सुप्रीम कोर्ट बार एसोसिएशन की संजय राउत और निखिल वागले के खिलाफ आपराधिक अवमानना याचिका (पढ़े गए स्रोतों में मामला संख्या नहीं)",
+      "issue": "क्या भारत के मुख्य न्यायाधीश और न्यायपालिका पर सोशल मीडिया टिप्पणियां आपराधिक अवमानना हैं, और क्या दी गई माफी काफी है।",
+      "bench_size": 2,
+      "bench": "जस्टिस अरविंद कुमार और जस्टिस विपुल एम पंचोली",
+      "status": "pending",
+      "status_text": "17 नवंबर 2026 को अतिरिक्त हलफनामे का आदेश; 8 दिसंबर 2026 को सुनवाई",
+      "last_date": "2026-11-17",
+      "last_event": "पीठ ने श्री राउत से कहा कि माफी दिल से आनी चाहिए, दिमाग से नहीं, और उनकी पहली माफी के बाद की सोशल मीडिया पोस्टों पर अतिरिक्त हलफनामे का आदेश दिया। बिना शर्त माफी की पेशकश कर चुके श्री वागले से भी अतिरिक्त हलफनामा मांगा गया, ऐसी खबर है।",
+      "next_step": "खबरों के अनुसार 8 दिसंबर 2026 को फिर सुनवाई।",
+      "sources": [
+        {
+          "title": "Supreme Court Daily Round-Up: November 17, 2026",
+          "publisher": "LiveLaw",
+          "date": "2026-11-17",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-17-2026-558827"
+        },
+        {
+          "title": "A seasoned politician should know what restraint in language means: SC to Sanjay Raut",
+          "publisher": "ThePrint",
+          "date": "2026-11-17",
+          "url": "https://theprint.in/india/a-seasoned-politician-should-know-what-restraint-in-language-means-sc-to-sanjay-raut/3101039/"
+        },
+        {
+          "title": "Supreme Court issues contempt notice to Sanjay Raut, Nikhil Wagle over remarks targeting CJI Kant, judiciary",
+          "publisher": "Bar & Bench",
+          "date": "2026-10-16",
+          "url": "https://www.barandbench.com/news/supreme-court-issues-contempt-notice-to-sanjay-raut-nikhil-wagle-over-remarks-targeting-cji-kant-judiciary"
+        }
+      ],
+      "notes": "अदालत का आदेश खोला नहीं जा सका; तारीख और 8 दिसंबर की सुनवाई एक-दूसरे से मेल खाती खबरों पर टिकी है। कारण बताओ नोटिस 16 अक्टूबर 2026 को जारी हुआ था।"
+    },
+    {
+      "id": "yes-bank-at1-review-petitions",
+      "case": "यस बैंक के ₹8,415 करोड़ के एटी-1 बॉन्ड राइट-डाउन पर सुप्रीम कोर्ट के 15 अक्टूबर 2026 के फैसले की समीक्षा (आरबीआई और यस बैंक की पुनर्विचार याचिकाएं; बॉन्डधारकों के ट्रस्टी की अवमानना याचिका)",
+      "issue": "क्या अदालत को अपना वह फैसला दोबारा देखना चाहिए जिसमें बॉम्बे हाईकोर्ट के जनवरी 2023 के उस निर्णय को सही ठहराया गया कि मार्च 2020 में एटी-1 बॉन्ड का राइट-डाउन शून्य था।",
+      "bench_size": 2,
+      "bench": "जस्टिस दीपांकर दत्ता और जस्टिस ऑगस्टीन जॉर्ज मसीह (15 अक्टूबर 2026 का फैसला)",
+      "status": "pending",
+      "status_text": "13 नवंबर 2026 को पुनर्विचार याचिकाएं दाखिल; 19 नवंबर तक सुनवाई की तारीख की खबर नहीं",
+      "last_date": "2026-11-13",
+      "last_event": "आरबीआई ने पुनर्विचार याचिका दाखिल कर रोक और खुली अदालत में सुनवाई मांगी; यस बैंक ने अपनी याचिका दाखिल कर शेयर बाजारों को बताया। बॉन्डधारकों के ट्रस्टी ने 6 नवंबर को अवमानना याचिका ई-फाइल की थी।",
+      "next_step": "19 नवंबर 2026 तक सुनवाई की कोई तारीख नहीं बताई गई। पुनर्विचार याचिकाएं आम तौर पर वही पीठ चेंबर में तय करती है।",
+      "sources": [
+        {
+          "title": "Yes Bank, RBI seek review of Supreme Court verdict quashing ₹8,415 crore AT1 bond write-down",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-16",
+          "url": "https://www.barandbench.com/news/litigation/yes-bank-rbi-seek-review-of-supreme-court-verdict-quashing-8415-crore-at1-bond-write-down"
+        },
+        {
+          "title": "Supreme Court raps RBI; says it stood as a bystander while YES Bank operated clandestinely",
+          "publisher": "Bar & Bench",
+          "date": "2026-10-15",
+          "url": "https://www.barandbench.com/news/litigation/supreme-court-raps-rbi-says-it-stood-as-a-bystander-while-yes-bank-operated-clandestinely"
+        }
+      ],
+      "notes": "दाखिल करने की तारीख अदालत की वेबसाइट के हवाले से हमारी 19 नवंबर की खबर में है; याचिकाओं का पाठ सार्वजनिक नहीं। 15 अक्टूबर का फैसला डेस्क ने खुद नहीं खोला।"
     }
   ]
 }

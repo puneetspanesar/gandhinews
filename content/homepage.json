@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "manipur-chandel-spurious-liquor-deaths"
+      "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters"
     ],
     "live": {
       "title": {
@@ -30,14 +30,25 @@
   "briefing": {
     "items": [
       {
-        "link": "manipur-chandel-spurious-liquor-deaths",
+        "link": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
         "lead": {
-          "en": "Manipur:",
-          "hi": "मणिपुर:"
+          "en": "Arunachal Pradesh:",
+          "hi": "अरुणाचल प्रदेश:"
         },
         "text": {
-          "en": "Manipur spurious liquor deaths climb to 16 as hundreds fill Imphal hospitals; CM orders inquiry",
-          "hi": "मणिपुर में जहरीली शराब से मौतें बढ़कर 16, इंफाल के अस्पतालों में सैकड़ों मरीज; मुख्यमंत्री ने जांच के आदेश दिए"
+          "en": "Shah tells Siang dam protesters the project goes ahead only 'with your trust', and says no local terrorist is left in the Valley",
+          "hi": "सियांग बांध पर शाह का भरोसा: परियोजना 'आपके विश्वास से ही' आगे बढ़ेगी, घाटी में एक भी स्थानीय आतंकी नहीं बचा"
+        }
+      },
+      {
+        "link": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+        "lead": {
+          "en": "Bihar:",
+          "hi": "बिहार:"
+        },
+        "text": {
+          "en": "Modi dedicates the 9.7 km Nitish Setu over the Ganga and launches Bihar projects worth ₹34,470 crore",
+          "hi": "मोदी ने गंगा पर 9.7 किमी लंबा नीतीश सेतु राष्ट्र को सौंपा, बिहार में ₹34,470 करोड़ की परियोजनाएं शुरू"
         }
       },
       {
@@ -52,14 +63,14 @@
         }
       },
       {
-        "link": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+        "link": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
         "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
+          "en": "Industry:",
+          "hi": "उद्योग:"
         },
         "text": {
-          "en": "Supreme Court allows one-time Karthigai Deepam at Thiruparankundram Deepathoon on November 24",
-          "hi": "सुप्रीम कोर्ट ने थिरुपरनकुंद्रम के दीपथून पर 24 नवंबर को एक बार कार्तिगई दीपम जलाने की अनुमति दी"
+          "en": "Core industries grow 10.9% in October, a 13-month high, as iron ore, coal and power surge",
+          "hi": "अक्टूबर में कोर उद्योगों की वृद्धि 10.9%, 13 महीने का उच्चतम स्तर, लौह अयस्क, कोयला और बिजली ने खींची रफ़्तार"
         }
       },
       {
@@ -71,17 +82,6 @@
         "text": {
           "en": "Nepal PM Balendra Shah on state visit to India from November 22, full honours and talks with Modi on November 23",
           "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह 22 नवंबर से राजकीय यात्रा पर भारत में, पूरे सम्मान के साथ 23 को मोदी से वार्ता"
-        }
-      },
-      {
-        "link": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "lead": {
-          "en": "Agriculture:",
-          "hi": "कृषि:"
-        },
-        "text": {
-          "en": "India's first home-made bird flu vaccine for chickens is dedicated to the nation, but farms still cannot use it",
-          "hi": "मुर्गियों के लिए देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन राष्ट्र को समर्पित, पर फार्मों में अभी इस्तेमाल नहीं"
         }
       },
       {
@@ -182,26 +182,25 @@
   },
   "topStories": {
     "big": {
-      "id": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+      "id": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
       "also": []
     },
     "list": [
-      "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+      "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+      "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-      "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
       "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
       "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
     ],
     "also": [
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-      "modi-world-bank-50-crore-poverty-claim"
+      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
     ]
   },
   "startHere": [
+    "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
     "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
     "new-start-explained-trilateral-arms-control-shenzhen-declaration",
-    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
-    "hormuz-sea-mines-explained-how-they-work-how-cleared-insurance"
+    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
   ],
   "trackers": [
     {
@@ -271,9 +270,9 @@
   },
   "factCheck": {
     "cards": [
+      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
       "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-      "modi-world-bank-50-crore-poverty-claim",
-      "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim"
+      "modi-world-bank-50-crore-poverty-claim"
     ]
   },
   "explained": [
@@ -354,11 +353,11 @@
     }
   ],
   "opinion": [
+    "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
     "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
     "air-india-ai171-final-report-must-be-public",
     "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
-    "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
-    "punjab-rice-scam-verdict-after-21-years-fci-must-fix-the-quality-check"
+    "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase"
   ],
   "sections": [
     {
@@ -368,11 +367,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-sco-civilisational-dialogue-forum-purana-qila",
         "air-india-crash-probe-final-stages-supreme-court",
-        "sc-contempt-notice-advocate-pravin-singhal-cji-remark",
-        "sanjay-raut-contempt-supreme-court-affidavit-wagle-december-8"
+        "sc-contempt-notice-advocate-pravin-singhal-cji-remark"
       ],
-      "lead": "modi-sco-civilisational-dialogue-forum-purana-qila"
+      "lead": "sc-delhi-sir-form7-mustafabad-eci-verify"
     },
     {
       "section": "economy",
@@ -387,14 +386,14 @@
         ]
       },
       "list": [
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi",
-        "pre-budget-consultations-sitharaman-five-rounds-capital-market-today",
-        "goyal-india-1000-more-aircraft-order-2000-needed"
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
+        "modi-ficci-agm-india-first-quality-gandhi-swadeshi"
       ]
     },
     {
       "section": "states",
-      "lead": "manipur-chandel-spurious-liquor-deaths",
+      "lead": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
       "list": [
         "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
         "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
@@ -453,8 +452,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Dense fog expected over Uttar Pradesh on November 22 and 23, IMD says",
@@ -465,8 +464,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Amit Shah unveils the Arunachal Cooperation Vision Document 2047 in Itanagar and opens the NDRF 12th Battalion campus at Hollongi",
@@ -477,8 +476,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 23",
-        "hi": "23 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Nepal PM Balendra Shah holds talks with PM Modi in New Delhi",
@@ -523,34 +522,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-20T21:04:06+05:30",
-      "ids": [
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
-      ]
-    },
-    {
-      "at": "2026-11-21T06:59:57+05:30",
-      "ids": [
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-        "modi-world-bank-50-crore-poverty-claim",
-        "new-start-explained-trilateral-arms-control-shenzhen-declaration"
-      ]
-    },
     {
       "at": "2026-11-21T07:03:17+05:30",
       "ids": [
@@ -639,15 +610,40 @@
         "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
       ]
+    },
+    {
+      "at": "2026-11-22T06:57:10+05:30",
+      "ids": [
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-22T07:04:11+05:30",
+      "ids": [
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-    "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-    "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
     "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-    "sc-delhi-sir-form7-mustafabad-eci-verify"
+    "manipur-chandel-spurious-liquor-deaths"
   ],
   "mustReadEn": 7
 }

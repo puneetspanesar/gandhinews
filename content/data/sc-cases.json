@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-13",
+    "as_of": "2026-11-22",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -955,6 +955,93 @@
         }
       ],
       "notes": "The Supreme Court order itself (sci.gov.in) could not be opened; the 6 Nov date, bench and directions rest on two independent reports that agree. Hearing calendar as set out in our 12 Nov story. The case name and number are not given in the sources read."
+    },
+    {
+      "id": "bibol-toppo-gram-sabha-consent-sundargarh",
+      "case": "Bibol Toppo and Others v. State of Odisha and Others (Civil Appeal No. 8294 of 2026, 2026 INSC 1244)",
+      "issue": "Whether Odisha could acquire farmland in a Scheduled Area for a private cement company's mining project without the prior consent of the Gram Sabha and of 80% of affected families under the 2013 land acquisition law.",
+      "bench_size": 2,
+      "bench": "Justice Dipankar Datta and Justice Satish Chandra Sharma",
+      "status": "decided",
+      "status_text": "Acquisition quashed on November 18, 2026; Gram Sabha consent under Section 41(3) held mandatory",
+      "last_date": "2026-11-18",
+      "last_event": "The bench set aside the acquisition of about 273.57 acres in Kukuda, Bihabandha and Lanjiberna in Sundargarh for Dalmia Cements Bharat Limited, and the Orissa High Court's September 2024 judgment that had upheld it.",
+      "next_step": "None listed in the judgment read; the State may seek review.",
+      "sources": [
+        {
+          "title": "Bibol Toppo and Others v. State of Odisha and Others, Civil Appeal No. 8294 of 2026 (2026 INSC 1244), judgment of November 18, 2026",
+          "publisher": "Supreme Court of India (judgment text)",
+          "date": "2026-11-18",
+          "url": "https://indiankanoon.org/doc/74858079/"
+        },
+        {
+          "title": "Supreme Court Quashes Odisha's 2021 Land Acquisition for Dalmia Cement Mining Project",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-19",
+          "url": "https://www.barandbench.com/news/litigation/supreme-court-quashes-odishas-2021-land-acquisition-for-dalmia-cement-mining-project"
+        }
+      ],
+      "notes": "Date, bench, case number and holdings are from the judgment text. The next step is the desk's note, not an order."
+    },
+    {
+      "id": "raut-wagle-criminal-contempt-scba",
+      "case": "Supreme Court Bar Association criminal contempt petition against Sanjay Raut and Nikhil Wagle (case number not stated in the sources read)",
+      "issue": "Whether social media remarks about the Chief Justice of India and the judiciary amount to criminal contempt, and whether the apologies offered are enough.",
+      "bench_size": 2,
+      "bench": "Justice Aravind Kumar and Justice Vipul M Pancholi",
+      "status": "pending",
+      "status_text": "Additional affidavits ordered on November 17, 2026; listed December 8, 2026",
+      "last_date": "2026-11-17",
+      "last_event": "The bench told Mr Raut an apology must come from the heart and not the mind, and ordered an additional affidavit on social media posts made after his first apology. Mr Wagle, who had offered an unconditional apology, was also reported to have been asked for an additional affidavit.",
+      "next_step": "Listed again on 8 Dec 2026, as reported.",
+      "sources": [
+        {
+          "title": "Supreme Court Daily Round-Up: November 17, 2026",
+          "publisher": "LiveLaw",
+          "date": "2026-11-17",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-17-2026-558827"
+        },
+        {
+          "title": "A seasoned politician should know what restraint in language means: SC to Sanjay Raut",
+          "publisher": "ThePrint",
+          "date": "2026-11-17",
+          "url": "https://theprint.in/india/a-seasoned-politician-should-know-what-restraint-in-language-means-sc-to-sanjay-raut/3101039/"
+        },
+        {
+          "title": "Supreme Court issues contempt notice to Sanjay Raut, Nikhil Wagle over remarks targeting CJI Kant, judiciary",
+          "publisher": "Bar & Bench",
+          "date": "2026-10-16",
+          "url": "https://www.barandbench.com/news/supreme-court-issues-contempt-notice-to-sanjay-raut-nikhil-wagle-over-remarks-targeting-cji-kant-judiciary"
+        }
+      ],
+      "notes": "The court order could not be opened; the date and the December 8 listing rest on reports that agree. The show-cause notice was issued on October 16, 2026."
+    },
+    {
+      "id": "yes-bank-at1-review-petitions",
+      "case": "Review of the Supreme Court's October 15, 2026 judgment on YES Bank's ₹8,415 crore AT-1 bond write-down (RBI and YES Bank review petitions; bondholders' trustee contempt petition)",
+      "issue": "Whether the Court should review its judgment upholding the Bombay High Court's January 2023 ruling that the March 2020 write-down of AT-1 bonds was void.",
+      "bench_size": 2,
+      "bench": "Justice Dipankar Datta and Justice Augustine George Masih (judgment of October 15, 2026)",
+      "status": "pending",
+      "status_text": "Review petitions filed November 13, 2026; no hearing date reported as of November 19",
+      "last_date": "2026-11-13",
+      "last_event": "The RBI filed a review petition and sought a stay and an open-court hearing; YES Bank filed its own and disclosed it to the stock exchanges. The bondholders' trustee e-filed a contempt petition on November 6.",
+      "next_step": "No hearing date reported as of November 19, 2026. Review petitions are usually decided in chambers by the same bench.",
+      "sources": [
+        {
+          "title": "Yes Bank, RBI seek review of Supreme Court verdict quashing ₹8,415 crore AT1 bond write-down",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-16",
+          "url": "https://www.barandbench.com/news/litigation/yes-bank-rbi-seek-review-of-supreme-court-verdict-quashing-8415-crore-at1-bond-write-down"
+        },
+        {
+          "title": "Supreme Court raps RBI; says it stood as a bystander while YES Bank operated clandestinely",
+          "publisher": "Bar & Bench",
+          "date": "2026-10-15",
+          "url": "https://www.barandbench.com/news/litigation/supreme-court-raps-rbi-says-it-stood-as-a-bystander-while-yes-bank-operated-clandestinely"
+        }
+      ],
+      "notes": "Filing date is as shown on the Court's website per our November 19 story; the petitions' text is not public. The October 15 judgment itself was not opened by the desk."
     }
   ]
 }
