@@ -4,7 +4,7 @@ lang: en
 type: news
 section: world
 format_label: "World / India-US"
-topics: [electoral-rolls-sir, india-us]
+topics: [electoral-rolls-sir]
 title: "US religious freedom panel says India is stripping Muslims of votes; MEA calls it biased with a 'blatantly political agenda'"
 standfirst: "The US Commission on International Religious Freedom accused India on November 19 of targeting Muslim citizens through voter-roll revision and deportations. The Ministry of External Affairs answered the next day that the body is not to be taken seriously."
 published: 2026-11-22T20:12:20+05:30
