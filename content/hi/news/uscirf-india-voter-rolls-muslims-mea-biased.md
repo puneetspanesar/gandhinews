@@ -95,13 +95,6 @@ verification:
     - "USCIRF statement date: Thursday, November 19 (US Thursday), per Deccan Herald and Scroll. MEA reply Friday, November 20. The reports are dated November 20 to 22, so the story is a development already two days old at publication; no newer official step found."
     - "Ambassador's November 14 remarks and the 'no locus standi' wording come from Scroll (unnamed ambassador) and one other report naming Vinay Mohan Kwatra; the name is single-sourced. The November 10 MEA wording comes from India West citing IANS. The March 16 MEA rebuttal comes from All India Radio."
     - "The 13 crore figure is the opposition's allegation; Shah's 3 crore claim is dated November 2 by Scroll. Neither was checked independently. A Rubio 'domestic political matter' remark appears in only one report and is left out."
-verification:
-  status: approved
-  notes:
-    - "Written 8 pm IST November 22 from reports of the November 19 USCIRF statement and the November 20 MEA briefing. uscirf.gov release page and the mea.gov.in briefing page could not be opened this run (permission refused and script-loaded page), so both are cited as the primary records but were not read directly; the quotes of Asif Mahmood, Gene Mills and Randhir Jaiswal come from Deccan Herald, Scroll and Daily Waadaa, which agree. A fourth report spells the chair 'Mahmood Ahmed'; written as Asif Mahmood per the three others."
-    - "USCIRF statement date: Thursday, November 19 (US Thursday), per Deccan Herald and Scroll. MEA reply Friday, November 20. The reports are dated November 20 to 22, so the story is a development already two days old at publication; no newer official step found."
-    - "Ambassador's November 14 remarks and the 'no locus standi' wording come from Scroll (unnamed ambassador) and one other report naming Vinay Mohan Kwatra; the name is single-sourced. The November 10 MEA wording comes from India West citing IANS. The March 16 MEA rebuttal comes from All India Radio."
-    - "The 13 crore figure is the opposition's allegation; Shah's 3 crore claim is dated November 2 by Scroll. Neither was checked independently. A Rubio 'domestic political matter' remark appears in only one report and is left out."
 ---
 
 अमेरिकी अंतरराष्ट्रीय धार्मिक स्वतंत्रता आयोग (यूएससीआईआरएफ) ने गुरुवार, 19 नवंबर को कहा कि **भारत मुस्लिम नागरिकों को निशाना बना रहा है**: उन्हें मतदाता सूची से हटाया जा रहा है, विदेशी बताया जा रहा है और अब अवैध रूप से देश से निकाला जा रहा है। विदेश मंत्रालय ने शुक्रवार, 20 नवंबर को साप्ताहिक ब्रीफिंग में आयोग को **पक्षपाती और खुले राजनीतिक एजेंडे वाला संगठन** बताया और कहा कि उसकी बातों को गंभीरता से लेने की जरूरत नहीं।

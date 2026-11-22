@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "odisha-akvan-damage-assessment-100-year-flood-plan"
+      "uscirf-india-voter-rolls-muslims-mea-biased"
     ],
     "live": {
       "title": {
@@ -29,6 +29,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "uscirf-india-voter-rolls-muslims-mea-biased",
+        "lead": {
+          "en": "India-US:",
+          "hi": "भारत-अमेरिका:"
+        },
+        "text": {
+          "en": "US religious freedom panel says India is stripping Muslims of votes; MEA calls it biased with a 'blatantly political agenda'",
+          "hi": "अमेरिकी धार्मिक स्वतंत्रता आयोग का आरोप: भारत मुसलमानों के वोट छीन रहा है; विदेश मंत्रालय ने कहा, आयोग पक्षपाती और राजनीतिक एजेंडे वाला"
+        }
+      },
       {
         "link": "odisha-akvan-damage-assessment-100-year-flood-plan",
         "lead": {
@@ -105,17 +116,6 @@
           "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
           "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
         }
-      },
-      {
-        "link": "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-        "lead": {
-          "en": "Manufacturing:",
-          "hi": "विनिर्माण:"
-        },
-        "text": {
-          "en": "Rahul Gandhi says India has given up on manufacturing: official data show output growing about 11% a year, but its share of the economy has not moved",
-          "hi": "राहुल गांधी का दावा कि भारत ने मैन्युफैक्चरिंग छोड़ दी: सरकारी आंकड़ों में उत्पादन सालाना करीब 11% बढ़ा, पर अर्थव्यवस्था में उसका हिस्सा नहीं बढ़ा"
-        }
       }
     ]
   },
@@ -182,18 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rbi-panchayat-finances-grants-90-per-cent-report",
+      "id": "odisha-akvan-damage-assessment-100-year-flood-plan",
       "also": []
     },
     "list": [
+      "rbi-panchayat-finances-grants-90-per-cent-report",
       "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
       "manipur-chandel-spurious-liquor-deaths",
-      "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
     ],
     "also": [
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+      "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
     ]
   },
   "startHere": [
@@ -421,19 +422,18 @@
   "desks": [
     {
       "section": "world",
-      "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+      "lead": "uscirf-india-voter-rolls-muslims-mea-biased",
       "list": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
         "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi"
+        "tara-gas-navig8-messi-indian-seafarers-hormuz"
       ]
     },
     {
       "section": "science",
       "lead": "perseverance-mars-complex-organic-carbon-bright-angel",
       "list": [
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday"
+        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
       ]
     },
     {
@@ -507,20 +507,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-21T20:45:46+05:30",
-      "ids": [
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-22T06:57:10+05:30",
       "ids": [
@@ -617,6 +603,20 @@
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-22T20:13:47+05:30",
+      "ids": [
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "uscirf-india-voter-rolls-muslims-mea-biased",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
       ]
     }
   ],
