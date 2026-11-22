@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+    "id": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
     "overlay": {
       "kicker": {
-        "en": "Policy / Home Affairs",
-        "hi": "नीति / गृह मंत्रालय"
+        "en": "Policy / Trade",
+        "hi": "नीति / व्यापार"
       },
       "value": {
-        "en": "Monsoon Thunder: 6 held, 5 lakh pills",
-        "hi": "मॉनसून थंडर: 6 गिरफ्तार, 5 लाख गोलियां"
+        "en": "Sixth CEPA round ends in Delhi",
+        "hi": "दिल्ली में सीईपीए का छठा दौर पूरा"
       },
       "text": {
         "en": "",
@@ -18,17 +18,39 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters"
+      "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
     ],
     "live": {
       "title": {
-        "en": "Home Affairs",
-        "hi": "गृह मंत्रालय"
+        "en": "Trade",
+        "hi": "व्यापार"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "lead": {
+          "en": "Home Affairs:",
+          "hi": "गृह मंत्रालय:"
+        },
+        "text": {
+          "en": "Six held in four cities as NCB and US DEA break a network that shipped nearly 5 lakh pills to American buyers",
+          "hi": "चार शहरों में छह गिरफ्तार: एनसीबी और अमेरिकी डीईए ने अमेरिकी खरीदारों को करीब 5 लाख गोलियां भेजने वाला नेटवर्क तोड़ा"
+        }
+      },
+      {
+        "link": "manipur-chandel-spurious-liquor-deaths",
+        "lead": {
+          "en": "Manipur:",
+          "hi": "मणिपुर:"
+        },
+        "text": {
+          "en": "Manipur spurious liquor deaths climb to 16 as hundreds fill Imphal hospitals; CM orders inquiry",
+          "hi": "मणिपुर में जहरीली शराब से मौतें बढ़कर 16, इंफाल के अस्पतालों में सैकड़ों मरीज; मुख्यमंत्री ने जांच के आदेश दिए"
+        }
+      },
       {
         "link": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
         "lead": {
@@ -38,17 +60,6 @@
         "text": {
           "en": "Shah tells Siang dam protesters the project goes ahead only 'with your trust', and says no local terrorist is left in the Valley",
           "hi": "सियांग बांध पर शाह का भरोसा: परियोजना 'आपके विश्वास से ही' आगे बढ़ेगी, घाटी में एक भी स्थानीय आतंकी नहीं बचा"
-        }
-      },
-      {
-        "link": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
-        "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
-        },
-        "text": {
-          "en": "Modi dedicates the 9.7 km Nitish Setu over the Ganga and launches Bihar projects worth ₹34,470 crore",
-          "hi": "मोदी ने गंगा पर 9.7 किमी लंबा नीतीश सेतु राष्ट्र को सौंपा, बिहार में ₹34,470 करोड़ की परियोजनाएं शुरू"
         }
       },
       {
@@ -63,25 +74,14 @@
         }
       },
       {
-        "link": "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "link": "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
         "lead": {
-          "en": "Industry:",
-          "hi": "उद्योग:"
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "Core industries grow 10.9% in October, a 13-month high, as iron ore, coal and power surge",
-          "hi": "अक्टूबर में कोर उद्योगों की वृद्धि 10.9%, 13 महीने का उच्चतम स्तर, लौह अयस्क, कोयला और बिजली ने खींची रफ़्तार"
-        }
-      },
-      {
-        "link": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "lead": {
-          "en": "India-Nepal:",
-          "hi": "भारत-नेपाल:"
-        },
-        "text": {
-          "en": "Nepal PM Balendra Shah on state visit to India from November 22, full honours and talks with Modi on November 23",
-          "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह 22 नवंबर से राजकीय यात्रा पर भारत में, पूरे सम्मान के साथ 23 को मोदी से वार्ता"
+          "en": "India's oil import bill explained: why a record month cost $19.5 billion and who pays for it",
+          "hi": "भारत का तेल आयात बिल: रिकॉर्ड महीने में $19.5 अरब का खर्च क्यों, और इसकी कीमत कौन चुकाता है"
         }
       },
       {
@@ -182,13 +182,13 @@
   },
   "topStories": {
     "big": {
-      "id": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+      "id": "manipur-chandel-spurious-liquor-deaths",
       "also": []
     },
     "list": [
+      "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
       "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-      "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-      "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+      "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
       "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
       "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
     ],
@@ -387,26 +387,26 @@
       },
       "list": [
         "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma",
-        "modi-ficci-agm-india-first-quality-gandhi-swadeshi"
+        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
+        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
       ]
     },
     {
       "section": "states",
-      "lead": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+      "lead": "manipur-chandel-spurious-liquor-deaths",
       "list": [
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
         "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
-        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
+        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd"
       ]
     },
     {
       "section": "policy",
-      "lead": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+      "lead": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "list": [
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
         "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
       ]
     },
     {
@@ -433,8 +433,7 @@
       "lead": "perseverance-mars-complex-organic-carbon-bright-angel",
       "list": [
         "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter",
-        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday",
-        "starship-flight-15-ship-42-caught-tower-first-upper-stage-catch"
+        "vulcan-centaur-return-to-flight-amazon-leo-40-satellites-sunday"
       ]
     },
     {
@@ -522,20 +521,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-21T07:03:17+05:30",
-      "ids": [
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-        "modi-world-bank-50-crore-poverty-claim",
-        "new-start-explained-trilateral-arms-control-shenzhen-declaration"
-      ]
-    },
     {
       "at": "2026-11-21T08:28:32+05:30",
       "ids": [
@@ -638,12 +623,23 @@
         "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
       ]
+    },
+    {
+      "at": "2026-11-22T08:34:08+05:30",
+      "ids": [
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-    "manipur-chandel-spurious-liquor-deaths"
-  ],
+  "drop": [],
   "mustReadEn": 7
 }

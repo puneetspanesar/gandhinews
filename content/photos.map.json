@@ -52572,6 +52572,15 @@
   "licence": "Public domain",
   "alt": "Piyush Goyal (file photo)",
   "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-canada-cepa-sixth-round-concludes-goyal-sidhu-1280.jpg",
+   "src800": "/photos/t-india-canada-cepa-sixth-round-concludes-goyal-sidhu-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "98383c3e3e3c3c78",
+   "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons"
+  }
  }
 }

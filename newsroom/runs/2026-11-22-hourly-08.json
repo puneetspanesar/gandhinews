@@ -1,0 +1,15 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-22T08:04:14+05:30",
+ "end": "2026-11-22T08:37:25+05:30",
+ "summary": "CEPA sixth round lead, COP31 overtime update",
+ "new": [
+  "india-canada-cepa-sixth-round-concludes-goyal-sidhu"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "india-canada-cepa-sixth-round-concludes-goyal-sidhu"
+}
