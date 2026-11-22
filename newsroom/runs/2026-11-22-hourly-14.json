@@ -1,0 +1,21 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-22T14:04:02+05:30",
+ "end": "2026-11-22T14:36:15+05:30",
+ "summary": "Modi Lucknow ITI convocation (lead), Nepal PM visit updated",
+ "new": [
+  "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+   "why": "Rule 14: an outlet is named in the story text. English: 'According to the Kathmandu Post, New Delhi has responded positively...' (section 'Aid and air route, the open items'); Hindi twin: 'काठमांडू पोस्ट के अनुसार'. Also the Hindi body says 'शाम 3:45 बजे' (3:45 is afternoon, 'दोपहर' or plain '3:45 बजे'; the English says 3:45 pm).",
+   "done": "Outlet replaced with 'According to Nepali reports' / 'नेपाली रिपोर्टों के अनुसार'; Hindi 'शाम 3:45 बजे' changed to 'दोपहर 3:45 बजे'."
+  }
+ ],
+ "breaches": [],
+ "lead": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
+}

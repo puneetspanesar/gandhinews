@@ -82,10 +82,6 @@ The Prime Minister also gave the issue a long historical frame. He said foreign 
 
 Near the end he turned to his earlier appeal to citizens to avoid buying gold. He had first asked people in May 2026 not to buy gold for a year unless strictly necessary, and repeated the request in September as part of his swadeshi push. In Lucknow he credited people for **cutting non-essential gold purchases**, linked that to cooling bullion rates, and compared the response with Lal Bahadur Shastri's 1960s call to skip one meal a day. He said citizens had told him they saved money by following his advice, and he expects a similar response to his call for respect for skills.
 
-```photo
-{"n":1,"subject":"Yogi Adityanath","caption":"Uttar Pradesh Chief Minister Yogi Adityanath, who felicitated the Prime Minister at the Lucknow ceremony.","alt":"Yogi Adityanath, Chief Minister of Uttar Pradesh"}
-```
-
 ## The ceremony and the scheme behind it
 
 The Directorate General of Training under the Union Ministry of Skill Development and Entrepreneurship instituted the Kaushal Deekshant Samaroh in the 2021-22 academic session. It recognises skill-development excellence and the move of trained youth into work. The toppers come from the Craftsmen Training Scheme and the Crafts Instructor Training Scheme. Uttar Pradesh Chief Minister Yogi Adityanath felicitated Modi at the event, and senior Union ministers attended, according to reports.

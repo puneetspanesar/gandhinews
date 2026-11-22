@@ -198,7 +198,7 @@ Nepali officials say the delegation-level talks with Modi will be followed by **
 
 ## Aid and air route, the open items
 
-A senior Nepali foreign ministry official called the aid request and the air route the two main priorities. According to the Kathmandu Post, New Delhi has responded **positively to Nepal's $2 billion proposal** of grants and lines of credit, and the two sides were in the final round of negotiation. Government sources in Delhi describe a "substantive" package of almost $2 billion, which would make it one of the largest India has given any country in its neighbourhood, though its final shape is not settled.
+A senior Nepali foreign ministry official called the aid request and the air route the two main priorities. According to Nepali reports, New Delhi has responded **positively to Nepal's $2 billion proposal** of grants and lines of credit, and the two sides were in the final round of negotiation. Government sources in Delhi describe a "substantive" package of almost $2 billion, which would make it one of the largest India has given any country in its neighbourhood, though its final shape is not settled.
 
 The air route is harder. India has proposed that its military aircraft be allowed to use the Bagdogra entry point; a Nepali official said: "We have made it clear that we can allow civilian flights, not military ones." The two sides also differ on altitude, with India proposing 39,000 feet and Nepal about 29,000 feet. Nepal also wants the L626 Kathmandu-Mahendranagar route made two-way, since it now lets international aircraft leave Nepal by the western border but not enter that way.
 

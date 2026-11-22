@@ -52618,6 +52618,19 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers-1280.jpg",
+   "src800": "/photos/t-modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers-640.jpg",
+   "cutout": true,
+   "with": [
+    "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains--p2",
+    "cdot-sixth-centre-of-excellence-iit-bhu-6g",
+    "up-voter-list-2026-check-name-after-sir"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7c3c3e7e7d181",
+   "credit": "Photos: Government of India / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons; Rosehubwiki / Wikimedia Commons"
+  }
  }
 }

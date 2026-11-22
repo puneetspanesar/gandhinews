@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+    "id": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
     "overlay": {
       "kicker": {
-        "en": "Policy / Trade",
-        "hi": "नीति / व्यापार"
+        "en": "Policy / Skills",
+        "hi": "नीति / कौशल"
       },
       "value": {
-        "en": "Sixth CEPA round ends in Delhi",
-        "hi": "दिल्ली में सीईपीए का छठा दौर पूरा"
+        "en": "'ITI is no less than IIT'",
+        "hi": "'आईटीआई, आईआईटी से कम नहीं'"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Trade",
-        "hi": "व्यापार"
+        "en": "Skills",
+        "hi": "कौशल"
       }
     }
   },
@@ -38,6 +38,17 @@
         "text": {
           "en": "RBI report: village panchayats get about 90% of their money in transfers, own revenue about 10%",
           "hi": "आरबीआई रिपोर्ट: ग्राम पंचायतों को करीब 90% पैसा हस्तांतरण से मिलता है, अपनी आय करीब 10%"
+        }
+      },
+      {
+        "link": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "India and Canada end a ten-day sixth round of CEPA talks, with no deal yet and the end-2026 target intact",
+          "hi": "भारत और कनाडा के बीच सीईपीए की छठी दौर की दस दिन की बातचीत खत्म, समझौता अभी नहीं, 2026 के अंत का लक्ष्य कायम"
         }
       },
       {
@@ -93,17 +104,6 @@
         "text": {
           "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
           "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
-        }
-      },
-      {
-        "link": "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Sundargarh shows why Gram Sabha consent must be sought before the land is taken, not after",
-          "hi": "सुंदरगढ़ बताता है कि ग्राम सभा की सहमति जमीन लेने से पहले ली जाए, बाद में नहीं"
         }
       },
       {
@@ -182,15 +182,15 @@
   },
   "topStories": {
     "big": {
-      "id": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+      "id": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "also": []
     },
     "list": [
+      "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
       "manipur-chandel-spurious-liquor-deaths",
       "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
       "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-      "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
+      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
     ],
     "also": [
       "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
@@ -402,11 +402,11 @@
     },
     {
       "section": "policy",
-      "lead": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+      "lead": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
       "list": [
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
         "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
       ]
     },
     {
@@ -442,8 +442,7 @@
       "list": [
         "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
         "england-banton-century-adelaide-second-odi-series-level",
-        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval",
-        "lakshya-sen-wins-kumamoto-masters-final-watanabe-13-21-21-18-21-14"
+        "india-beat-new-zealand-fifth-odi-arshdeep-series-3-1-bay-oval"
       ]
     }
   ],
@@ -521,21 +520,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-21T11:32:39+05:30",
-      "ids": [
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "akvan-rain-bengal-jharkhand-rabi-sowing-fog-imd",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
-      ]
-    },
     {
       "at": "2026-11-21T14:41:51+05:30",
       "ids": [
@@ -634,6 +618,20 @@
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-22T14:33:54+05:30",
+      "ids": [
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
       ]
     }
