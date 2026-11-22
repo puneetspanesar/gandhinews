@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
+      "rbi-panchayat-finances-grants-90-per-cent-report"
     ],
     "live": {
       "title": {
@@ -29,6 +29,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "rbi-panchayat-finances-grants-90-per-cent-report",
+        "lead": {
+          "en": "Rural finance:",
+          "hi": "ग्रामीण वित्त:"
+        },
+        "text": {
+          "en": "RBI report: village panchayats get about 90% of their money in transfers, own revenue about 10%",
+          "hi": "आरबीआई रिपोर्ट: ग्राम पंचायतों को करीब 90% पैसा हस्तांतरण से मिलता है, अपनी आय करीब 10%"
+        }
+      },
       {
         "link": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
         "lead": {
@@ -71,17 +82,6 @@
         "text": {
           "en": "FAST-DS foreign asset window shuts on December 31: 60% tax or a flat ₹1 lakh for immunity, 40 days left",
           "hi": "फास्ट-डीएस की विदेशी संपत्ति खिड़की 31 दिसंबर को बंद: छूट के लिए 60% कर या एकमुश्त ₹1 लाख, 40 दिन बाकी"
-        }
-      },
-      {
-        "link": "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "India's oil import bill explained: why a record month cost $19.5 billion and who pays for it",
-          "hi": "भारत का तेल आयात बिल: रिकॉर्ड महीने में $19.5 अरब का खर्च क्यों, और इसकी कीमत कौन चुकाता है"
         }
       },
       {
@@ -182,13 +182,13 @@
   },
   "topStories": {
     "big": {
-      "id": "manipur-chandel-spurious-liquor-deaths",
+      "id": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
       "also": []
     },
     "list": [
+      "manipur-chandel-spurious-liquor-deaths",
       "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
       "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-      "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
       "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
       "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
     ],
@@ -375,7 +375,7 @@
     },
     {
       "section": "economy",
-      "lead": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+      "lead": "rbi-panchayat-finances-grants-90-per-cent-report",
       "module": {
         "type": "markets",
         "indicators": [
@@ -386,9 +386,9 @@
         ]
       },
       "list": [
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion",
-        "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
       ]
     },
     {
@@ -522,21 +522,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-21T08:28:32+05:30",
-      "ids": [
-        "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
-        "bbmb-power-sharing-explained-himachal-share-supreme-court",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "modi-sco-civilisational-dialogue-forum-purana-qila",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-delhi-sir-form7-mustafabad-eci-verify",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "modi-world-bank-50-crore-poverty-claim"
-      ]
-    },
-    {
       "at": "2026-11-21T11:32:39+05:30",
       "ids": [
         "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
@@ -633,6 +618,20 @@
         "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
+        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-22T11:25:45+05:30",
+      "ids": [
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "manipur-chandel-spurious-liquor-deaths",
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"

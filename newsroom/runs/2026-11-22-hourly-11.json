@@ -1,0 +1,15 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-22T11:04:36+05:30",
+ "end": "2026-11-22T11:28:07+05:30",
+ "summary": "1 economy story (RBI panchayat finances), CEPA lead",
+ "new": [
+  "rbi-panchayat-finances-grants-90-per-cent-report"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "india-canada-cepa-sixth-round-concludes-goyal-sidhu"
+}
