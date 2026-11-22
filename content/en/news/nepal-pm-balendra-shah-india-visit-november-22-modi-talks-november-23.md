@@ -5,14 +5,14 @@ type: news
 section: world
 format_label: "World / India-Nepal"
 topics: []
-title: "Nepal PM Balendra Shah on state visit to India from November 22, full honours and talks with Modi on November 23"
-standfirst: "India has confirmed a state visit with all honours, a call on President Murmu, talks with Modi and a joint press conference. Energy projects will be inaugurated; rail, air routes and flood aid are on the table."
+title: "Nepal PM Shah flies to Delhi for state visit, Jaishankar calls tonight, Modi talks Nov 23"
+standfirst: "Balendra Shah is due to land in New Delhi at 3:45 pm, to be received by Jitin Prasada, with Jaishankar calling on him in the evening. Talks with Modi, a $2 billion aid request and an air route dispute follow on Monday."
 published: 2026-11-20T20:08:05+05:30
-updated: 2026-11-21T20:11:12+05:30
+updated: 2026-11-22T14:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Ministry of External Affairs has called it a **state visit with all state honours**, on November 22 and 23, with talks with Prime Minister Narendra Modi on November 23."
-  - "Shah will call on President Droupadi Murmu, visit Rajghat and take part in a business forum; the **leaders will hold a joint press conference**."
+  - "Shah left Kathmandu at 1:45 pm and is due to **land in Delhi at 3:45 pm**, where Minister of State Jitin Prasada will receive him; Jaishankar calls on him in the evening."
+  - "On Monday, November 23, he calls on President Droupadi Murmu and holds **talks with Prime Minister Narendra Modi**, followed by MoUs, project launches and a joint communiqué."
   - "Nepal wants to sell **more than 1,650 MW a year** of power to India; the boundary dispute is not expected to see progress."
 glance:
   - {icon: calendar-blank, value: "Nov 22-23", label: "Shah in Delhi, talks on the 23rd"}
@@ -47,6 +47,26 @@ seo:
   title: "Nepal PM Balendra Shah India visit: talks with Modi Nov 23"
   description: "Nepal Prime Minister Balendra Shah visits New Delhi from November 22, 2026, with talks with Modi on November 23. Rail, air routes, power trade and pending issues."
 sources:
+  - title: "Visit of Prime Minister of Nepal to India, November 22-23, 2026 (incoming visits)"
+    publisher: "Ministry of External Affairs"
+    date: 2026-11-22
+    url: "https://www.mea.gov.in/incoming-visits"
+    primary: false
+  - title: "Delhi positive on $2 billion Nepal aid proposal, new air route yet to be agreed"
+    publisher: "The Kathmandu Post"
+    date: 2026-11-22
+    url: "https://kathmandupost.com/national/2026/11/22/delhi-positive-on-2-billion-nepal-aid-proposal-new-air-route-yet-to-be-agreed"
+    primary: false
+  - title: "Indian state minister to receive Shah in Delhi"
+    publisher: "Nepal News"
+    date: 2026-11-22
+    url: "https://english.nepalnews.com/s/diplomacy/indian-state-minister-to-receive-shah-in-delhi/"
+    primary: false
+  - title: "Balen Shah to begin two-day India visit Sunday, 'substantive' economic package for Nepal on the cards"
+    publisher: "ThePrint"
+    date: 2026-11-22
+    url: "https://theprint.in/diplomacy/balen-shah-to-begin-two-day-india-visit-sunday-substantive-economic-package-for-nepal-on-the-cards/3104146/"
+    primary: false
   - title: "Visit of Prime Minister of Nepal to India (April 01-03, 2022)"
     publisher: "Ministry of External Affairs"
     date: 2022-04-03
@@ -120,6 +140,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Updated November 22, 2:30 pm IST: Shah had not landed when written (scheduled 3:45 pm per Kathmandu Post); written as due. Departure 1:45 pm from Nepal News. Reception by Jitin Prasada, Jaishankar's evening courtesy call, Monday Murmu call, MoU areas, air-route dispute (39,000 ft against 29,000 ft, Bagdogra) from Kathmandu Post, Nepal News and ThePrint, which quotes the MEA statement. The mea.gov.in incoming-visits page and PIB could not be opened this run (site refused automated reading), so MEA is cited as primary on the strength of those quotations and the MEA briefing already cited. No PIB arrival photo exists yet; main picture stays Shah's file photo. Return time: ThePrint and Ratopati say Monday evening, which replaces the earlier same-day report."
     - "Updated November 21 evening: MEA briefing of November 20 (state visit, all state honours, Murmu call, Modi talks November 23, agenda, cricket, Neighbourhood First) taken from Hans India, webindia123 (quotes Jaiswal directly) and Tribune; programme details (Rajghat, business forum, joint press conference, Lower Arun, Siliguri-Charali pipeline, $2 billion breakdown, 52-member business delegation) from Organiser and Tribune; Nepali Congress reaction from a Nov 21 report. The MEA press release and briefing transcript page could not be opened this run (site refused automated reading), so it is cited as the primary record but was not read directly. Reports conflict on whether the Murmu call is November 22 or 23; written as unsettled, per Jaiswal."
     - "No MEA press release or joint announcement for this visit could be opened (mea.gov.in press-release index is a script-loaded page; searches returned only the 2022 and 2023 visit releases). Written from Nepal Foreign Ministry sources via Kathmandu Post and Spotlight Nepal (Nov 16 and 18) and MEA spokesperson remarks via Asia News Network. Re-check MEA release when it appears."
     - "Dates conflict: Kathmandu Post and Spotlight say about 30 hours, Nov 22 afternoon to Nov 23; News24 says three days; Navbharat Live said Nov 23-25. Written as originally planned for three days (Kathmandu Post) and trimmed. Neither government's formal programme seen."
@@ -129,9 +150,11 @@ verification:
     - "Mangsir 6 = Nov 22 per Spotlight Nepal. 'First Madhesi premier' attributed to Al Jazeera. An unrelated headline claim of NEA approval for 594 MW was not in the article body and is not used."
 ---
 
-Nepal's Prime Minister Balendra Shah will arrive in New Delhi on Sunday, November 22, on **a state visit**, India's Ministry of External Affairs announced at its briefing on Friday, November 20. Spokesperson Randhir Jaiswal said: "This is a state visit. He'll be offered all state honours." Shah, on his first visit to India since taking office in March, will call on President Droupadi Murmu and hold delegation-level talks with Prime Minister Narendra Modi on Monday, November 23. Jaiswal said the order of those two events was not fixed.
+Nepal's Prime Minister Balendra Shah left Kathmandu on a Nepal Airlines flight at 1:45 pm on Sunday, November 22, and is due to **land in New Delhi at 3:45 pm** at the start of a two-day state visit. Minister of State for Commerce and Industry Jitin Prasada will receive him at Indira Gandhi International Airport; unlike in Kathmandu, where he got no guard of honour, he is to be given state honours in Delhi, the Ministry of External Affairs has said. External Affairs Minister S Jaishankar will **call on Shah at his hotel in the evening**, and talks with Prime Minister Narendra Modi follow on Monday, November 23.
 
-The programme, as reported from the MEA announcement and Nepal's Foreign Ministry, also includes **floral tributes at Rajghat**, the Nepal-India Business Forum, the inauguration of energy projects and an exchange of agreements. The two leaders will address a **joint press conference** after the talks. Shah is travelling on a Nepal Airlines flight with Finance Minister Swarnim Wagle, Foreign Minister Shishir Khanal and Chief Adviser Kumar Byanjankar. Nepal Foreign Secretary Amrit Bahadur Rai said 34 government delegation members will go, and a separate 52-member business delegation is also travelling. Shah's only earlier foreign trip as Prime Minister was to the UN General Assembly in New York in September.
+At its briefing on Friday, November 20, the MEA called it a state visit. Spokesperson Randhir Jaiswal said: "This is a state visit. He'll be offered all state honours." The ministry says Modi will hold bilateral talks with the Prime Minister of Nepal on November 23 and that Shah will call on **President Droupadi Murmu on Monday**, which settles the order of the two events that Jaiswal had left open. Shah is on his first visit to India since taking office in March.
+
+The programme, as reported from the MEA announcement and Nepal's Foreign Ministry, also includes a lunch hosted by Modi, in some reports **floral tributes at Rajghat**, the Nepal-India Business Forum, the inauguration of energy projects and an exchange of agreements. The two leaders will address a **joint press conference** after the talks. Shah is travelling on a Nepal Airlines flight with Finance Minister Swarnim Wagle, Foreign Minister Shishir Khanal and Chief Adviser Kumar Byanjankar. Nepal Foreign Secretary Amrit Bahadur Rai said 34 government delegation members will go, and a separate 52-member business delegation is also travelling. Shah's only earlier foreign trip as Prime Minister was to the UN General Assembly in New York in September.
 
 The MEA has said the talks will be wide. At an earlier briefing this month, Jaiswal said: "The entire range of bilateral relations that we have with Nepal will be discussed." He called it "a very special partnership". Foreign Secretary Vikram Misri, who carried Modi's invitation to Kathmandu on November 4 and 5, has said a detailed agenda is ready.
 
@@ -169,6 +192,16 @@ According to reports in Kathmandu, substantive progress is not expected on the *
 
 The railway also has loose ends. The existing Janakpur-Jaynagar line is 51 km; the proposed Indian train would have 18 coaches against five on the Nepali side and run once a week at first. Agreement on security checks and on who bears operating and maintenance costs had not been reached, according to Nepali reports. Nepal Railway's Parajuli said: "Whoever operates the train will earn the revenue."
 
+## What Monday holds
+
+Nepali officials say the delegation-level talks with Modi will be followed by **memorandums of understanding on education, health, agriculture, sports and disaster management**, and by the inauguration of projects including the direct Janakpur-Ayodhya rail service. A joint vision for development and prosperity is to be released with a joint communiqué; its wording was still being negotiated on Sunday. Shah leaves Delhi on Monday evening, according to reports.
+
+## Aid and air route, the open items
+
+A senior Nepali foreign ministry official called the aid request and the air route the two main priorities. According to the Kathmandu Post, New Delhi has responded **positively to Nepal's $2 billion proposal** of grants and lines of credit, and the two sides were in the final round of negotiation. Government sources in Delhi describe a "substantive" package of almost $2 billion, which would make it one of the largest India has given any country in its neighbourhood, though its final shape is not settled.
+
+The air route is harder. India has proposed that its military aircraft be allowed to use the Bagdogra entry point; a Nepali official said: "We have made it clear that we can allow civilian flights, not military ones." The two sides also differ on altitude, with India proposing 39,000 feet and Nepal about 29,000 feet. Nepal also wants the L626 Kathmandu-Mahendranagar route made two-way, since it now lets international aircraft leave Nepal by the western border but not enter that way.
+
 ## Day by day
 
-**Sunday, November 22:** Shah leaves Kathmandu in the afternoon (Mangsir 6 in the Nepali calendar) and reaches Delhi, where he receives state honours. **Monday, November 23:** he calls on President Murmu, pays tribute at Rajghat, takes part in the business forum and holds talks with Modi, followed by the exchange of agreements, project inaugurations and a joint press conference. Nepali sources say he returns to Kathmandu the same day. Reports differ on whether the call on the President falls on the first or second day, and what is signed will be known only on the day.
+**Sunday, November 22:** Shah leaves Kathmandu at 1:45 pm (Mangsir 6 in the Nepali calendar), lands in Delhi at 3:45 pm, is received by Jitin Prasada and meets Jaishankar in the evening. **Monday, November 23:** he calls on President Murmu, attends the business forum and holds talks with Modi, followed by the exchange of agreements, project inaugurations and a joint press conference, and returns to Kathmandu in the evening. What is signed will be known only on the day.
