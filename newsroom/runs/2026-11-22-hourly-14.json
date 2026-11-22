@@ -1,11 +1,9 @@
 {
  "run": "hourly-14",
  "start": "2026-11-22T14:04:02+05:30",
- "end": "2026-11-22T14:36:15+05:30",
- "summary": "Modi Lucknow ITI convocation (lead), Nepal PM visit updated",
- "new": [
-  "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
- ],
+ "end": "2026-11-22T14:49:10+05:30",
+ "summary": "collage fix for the Modi ITI lead",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

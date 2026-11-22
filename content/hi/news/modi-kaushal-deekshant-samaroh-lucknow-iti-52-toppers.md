@@ -21,7 +21,7 @@ hero:
   alt: "प्रधानमंत्री नरेंद्र मोदी (फाइल फोटो)"
   overlay:
     value: "'आईटीआई, आईआईटी से कम नहीं'"
-related: [pm-setu-1195-crore-five-iti-clusters, modi-ficci-agm-india-first-quality-gandhi-swadeshi, nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row]
+related: [pm-setu-1195-crore-five-iti-clusters, modi-ficci-agm-india-first-quality-gandhi-swadeshi]
 infographic:
   kicker: "कौशल दीक्षांत समारोह, लखनऊ"
   headline: "मोदी: आईटीआई प्रशिक्षुओं का सम्मान कीजिए"

@@ -20,7 +20,7 @@ hero:
   alt: "Prime Minister Narendra Modi (file photo)"
   overlay:
     value: "'ITI is no less than IIT'"
-related: [pm-setu-1195-crore-five-iti-clusters, modi-ficci-agm-india-first-quality-gandhi-swadeshi, nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row]
+related: [pm-setu-1195-crore-five-iti-clusters, modi-ficci-agm-india-first-quality-gandhi-swadeshi]
 infographic:
   kicker: "Skill convocation, Lucknow"
   headline: "Modi asks India to respect ITI trainees"

@@ -26377,7 +26377,8 @@
   "licence": "CC BY 3.0",
   "alt": "NTPC Dadri thermal power station, Uttar Pradesh (file photo)",
   "alt_hi": "उत्तर प्रदेश में एनटीपीसी का दादरी ताप बिजलीघर (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "notile": "tile matched an unrelated story (hourly-14, Nov 22)"
  },
  "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air": {
   "id": "v-supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
@@ -43215,7 +43216,8 @@
    "kind": "photo",
    "subj": "febe2a20b09088ac",
    "credit": "Photos: Government of India / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; ArmouredCyborg / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
-  }
+  },
+  "notile": "tile matched an unrelated story (hourly-14, Nov 22)"
  },
  "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration": {
   "id": "o-uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
@@ -52624,13 +52626,13 @@
    "src800": "/photos/t-modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers-640.jpg",
    "cutout": true,
    "with": [
-    "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains--p2",
     "cdot-sixth-centre-of-excellence-iit-bhu-6g",
-    "up-voter-list-2026-check-name-after-sir"
+    "five-states-head-for-2027-assembly-polls",
+    "sensex-nifty-close-november-2--p3"
    ],
    "kind": "portrait",
-   "subj": "ffe7c3c3e7e7d181",
-   "credit": "Photos: Government of India / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons; Rosehubwiki / Wikimedia Commons"
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; Rosehubwiki / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; Manishontop02 / Wikimedia Commons"
   }
  }
 }
