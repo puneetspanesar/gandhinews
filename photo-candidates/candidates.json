@@ -1,0 +1,26 @@
+{
+  "k1": {
+    "query": "flooded paddy field West Bengal",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Trees and Farmland Under Monsoon Sky.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Trees_and_Farmland_Under_Monsoon_Sky.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Trees_and_Farmland_Under_Monsoon_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4080,
+        "height": 3060,
+        "licence": "CC0",
+        "author": "Fjdjkb",
+        "credit": "Own work",
+        "date": "2025-07-25 05:50:49",
+        "description": "A vibrant tree in the foreground with flooded paddy fields stretching into the distance under a cloudy monsoon sky in rural Bankura, West Bengal, India. The image captures the coexistence of natural a",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trees_and_Farmland_Under_Monsoon_Sky.jpg/1600px-Trees_and_Farmland_Under_Monsoon_Sky.jpg"
+      }
+    ]
+  },
+  "k2": {
+    "query": "waterlogged rice field India rain",
+    "candidates": []
+  }
+}
