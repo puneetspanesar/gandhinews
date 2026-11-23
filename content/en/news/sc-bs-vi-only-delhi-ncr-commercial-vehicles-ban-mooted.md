@@ -96,7 +96,7 @@ The order noted that Delhi and the NCR carry traffic that originates not only wi
 The states were given two weeks to file submissions on the steps taken, their responses to suggestions from the Commission for Air Quality Management and the amici, and any action they propose on their own.
 
 ```timeline
-{"title":"The case so far","items":[{"date":"Mar 12, 2026","text":"Judgment turns the old pollution case into five suo motu petitions"},{"date":"Nov 6, 2026","text":"Order seeks enforcement data and a roadmap on vehicles; two weeks to the states"},{"date":"Nov 23, 2026","text":"Bench says it will allow only BS-VI vehicles in Delhi, if not NCR"},{"date":"Nov 25, 26 and 30","text":"Hearings on waste and crop residue, construction and industry, and green cover"}]}
+{"title":"The case so far","items":[{"date":"March 12, 2026","text":"Judgment turns the old pollution case into five suo motu petitions"},{"date":"November 6, 2026","text":"Order seeks enforcement data and a roadmap on vehicles; two weeks to the states"},{"date":"November 23, 2026","text":"Bench says it will allow only BS-VI vehicles in Delhi, if not NCR"},{"date":"November 25, 26 and 30, 2026","text":"Hearings on waste and crop residue, construction and industry, and green cover"}]}
 ```
 
 ## Why it matters

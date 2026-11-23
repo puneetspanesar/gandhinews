@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "rbi-gupta-new-gdp-series-data-users-conference"
+      "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted"
     ],
     "live": {
       "title": {
@@ -29,6 +29,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+        "lead": {
+          "en": "Supreme Court:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court says it will allow only BS-VI vehicles in Delhi, floats ban on commercial vehicles",
+          "hi": "सुप्रीम कोर्ट बोला दिल्ली में सिर्फ बीएस-VI वाहन चलने देंगे, कमर्शियल वाहनों पर रोक का सुझाव"
+        }
+      },
+      {
+        "link": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+        "lead": {
+          "en": "SEBI:",
+          "hi": "सेबी:"
+        },
+        "text": {
+          "en": "SEBI proposes scrapping the extra ownership disclosure rule for foreign funds; Congress says it reopens a loophole",
+          "hi": "सेबी ने विदेशी फंडों के अतिरिक्त स्वामित्व-प्रकटीकरण नियम को हटाने का प्रस्ताव रखा, कांग्रेस बोली: पुरानी खामी फिर खुलेगी"
+        }
+      },
       {
         "link": "rbi-gupta-new-gdp-series-data-users-conference",
         "lead": {
@@ -49,17 +71,6 @@
         "text": {
           "en": "Bengal cabinet clears proposal to rename the state Paschim Banga, to go to the Assembly on December 9",
           "hi": "बंगाल कैबिनेट ने राज्य का नाम पश्चिम बंगा करने का प्रस्ताव मंजूर किया, 9 दिसंबर को विधानसभा में"
-        }
-      },
-      {
-        "link": "supertech-cji-surya-kant-recuses-special-bench",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "CJI Surya Kant recuses from Supertech homebuyers' matter, says a special bench will hear it",
-          "hi": "सीजेआई सूर्यकांत सुपरटेक होमबायर्स मामले से हटे, विशेष पीठ करेगी सुनवाई"
         }
       },
       {
@@ -104,17 +115,6 @@
         "text": {
           "en": "India's 'active Rafale fleet is down to 32 of 36': an outside estimate, not an official count, and not proof of four losses",
           "hi": "भारत का 'सक्रिय राफेल बेड़ा 36 से घटकर 32': बाहरी अनुमान है, सरकारी गिनती नहीं, और चार के खोने का सबूत भी नहीं"
-        }
-      },
-      {
-        "link": "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "India's oil import bill explained: why a record month cost $19.5 billion and who pays for it",
-          "hi": "भारत का तेल आयात बिल: रिकॉर्ड महीने में $19.5 अरब का खर्च क्यों, और इसकी कीमत कौन चुकाता है"
         }
       }
     ]
@@ -182,18 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "west-bengal-cabinet-paschim-banga-rename-december-9",
+      "id": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
       "also": []
     },
     "list": [
-      "supertech-cji-surya-kant-recuses-special-bench",
+      "rbi-gupta-new-gdp-series-data-users-conference",
+      "west-bengal-cabinet-paschim-banga-rename-december-9",
       "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
       "odisha-akvan-damage-assessment-100-year-flood-plan",
-      "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-      "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
     ],
     "also": [
-      "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
+      "rafale-india-active-fleet-32-of-36-four-lost-claim",
+      "siang-dam-trust-must-be-written-down-before-the-survey-resumes"
     ]
   },
   "startHere": [
@@ -375,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "rbi-gupta-new-gdp-series-data-users-conference",
+      "lead": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
       "module": {
         "type": "markets",
         "indicators": [
@@ -386,9 +387,9 @@
         ]
       },
       "list": [
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
+        "rbi-gupta-new-gdp-series-data-users-conference",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "rbi-panchayat-finances-grants-90-per-cent-report"
       ]
     },
     {
@@ -402,7 +403,7 @@
     },
     {
       "section": "policy",
-      "lead": "supertech-cji-surya-kant-recuses-special-bench",
+      "lead": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
       "list": [
         "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
@@ -499,20 +500,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-22T20:36:32+05:30",
-      "ids": [
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-23T06:57:49+05:30",
       "ids": [
@@ -616,13 +603,27 @@
         "rafale-india-active-fleet-32-of-36-four-lost-claim",
         "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
       ]
+    },
+    {
+      "at": "2026-11-23T20:30:00+05:30",
+      "ids": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+        "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+        "rbi-gupta-new-gdp-series-data-users-conference",
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "rbi-panchayat-finances-grants-90-per-cent-report",
-    "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-    "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+    "air-india-ai171-final-report-must-be-public",
+    "supertech-cji-surya-kant-recuses-special-bench",
+    "nepal-india-ties-explained-shah-modi-talks-border-power-trade"
   ],
   "mustReadEn": 7
 }

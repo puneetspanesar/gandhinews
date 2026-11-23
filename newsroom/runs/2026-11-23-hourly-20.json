@@ -1,0 +1,22 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-23T20:03:58+05:30",
+ "end": "2026-11-23T20:32:27+05:30",
+ "summary": "SC BS-VI Delhi vehicles story and SEBI FPI disclosure paper; Nepal visit leads",
+ "new": [
+  "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+  "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+   "why": "English body timeline block uses abbreviated dates (\"Mar 12, 2026\", \"Nov 6, 2026\", \"Nov 23, 2026\", \"Nov 25, 26 and 30\"), breaking rule 14 (English dates as \"November 5, 2026\"). The SEBI story's timeline uses full month names, so this one is inconsistent.",
+   "done": "Body timeline dates written in full: March 12, 2026; November 6, 2026; November 23, 2026; November 25, 26 and 30, 2026."
+  }
+ ],
+ "breaches": [],
+ "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
+}
