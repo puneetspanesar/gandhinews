@@ -52,6 +52,17 @@
         }
       },
       {
+        "link": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "lead": {
+          "en": "Skills:",
+          "hi": "कौशल:"
+        },
+        "text": {
+          "en": "Modi in Lucknow: ITI trainees are 'no less than' IIT students, and parents should stop hiding it",
+          "hi": "लखनऊ में मोदी: आईटीआई के छात्र आईआईटी से 'कम नहीं', माता-पिता इसे छिपाना बंद करें"
+        }
+      },
+      {
         "link": "rbi-panchayat-finances-grants-90-per-cent-report",
         "lead": {
           "en": "Rural finance:",
@@ -60,6 +71,17 @@
         "text": {
           "en": "RBI report: village panchayats get about 90% of their money in transfers, own revenue about 10%",
           "hi": "आरबीआई रिपोर्ट: ग्राम पंचायतों को करीब 90% पैसा हस्तांतरण से मिलता है, अपनी आय करीब 10%"
+        }
+      },
+      {
+        "link": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "India and Canada end a ten-day sixth round of CEPA talks, with no deal yet and the end-2026 target intact",
+          "hi": "भारत और कनाडा के बीच सीईपीए की छठी दौर की दस दिन की बातचीत खत्म, समझौता अभी नहीं, 2026 के अंत का लक्ष्य कायम"
         }
       },
       {
@@ -82,17 +104,6 @@
         "text": {
           "en": "India's 'active Rafale fleet is down to 32 of 36': an outside estimate, not an official count, and not proof of four losses",
           "hi": "भारत का 'सक्रिय राफेल बेड़ा 36 से घटकर 32': बाहरी अनुमान है, सरकारी गिनती नहीं, और चार के खोने का सबूत भी नहीं"
-        }
-      },
-      {
-        "link": "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Amit Shah promised the Siang dam will move 'only with your trust'. Trust needs a written pause on the survey first",
-          "hi": "अमित शाह ने कहा सियांग बांध 'आपके विश्वास से ही' आगे बढ़ेगा। विश्वास के लिए पहले सर्वे पर लिखित रोक चाहिए"
         }
       },
       {
@@ -175,13 +186,16 @@
       "also": []
     },
     "list": [
+      "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
       "rbi-panchayat-finances-grants-90-per-cent-report",
+      "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-      "rafale-india-active-fleet-32-of-36-four-lost-claim",
-      "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
-      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
+      "rafale-india-active-fleet-32-of-36-four-lost-claim"
     ],
-    "also": []
+    "also": [
+      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+      "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care"
+    ]
   },
   "startHere": [
     "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
@@ -389,11 +403,11 @@
     },
     {
       "section": "policy",
-      "lead": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+      "lead": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
       "list": [
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
-        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
-        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
       ]
     },
     {
@@ -417,7 +431,6 @@
     },
     {
       "section": "science",
-      "lead": "perseverance-mars-complex-organic-carbon-bright-angel",
       "list": []
     },
     {
@@ -500,20 +513,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-22T14:46:57+05:30",
-      "ids": [
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-22T17:24:03+05:30",
       "ids": [
@@ -617,13 +616,24 @@
         "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
         "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
       ]
+    },
+    {
+      "at": "2026-11-23T12:21:16+05:30",
+      "ids": [
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-    "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-    "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
     "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
   ],
   "mustReadEn": 7
