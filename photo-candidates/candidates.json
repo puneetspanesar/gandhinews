@@ -1,0 +1,30 @@
+{
+  "factory": {
+    "query": "Maruti Suzuki Manesar plant",
+    "candidates": []
+  },
+  "rbi": {
+    "query": "Reserve Bank of India headquarters Mumbai",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:RBI-Tower.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:RBI-Tower.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RBI-Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 506,
+        "height": 683,
+        "licence": "CC BY-SA 3.0",
+        "author": "",
+        "credit": "",
+        "date": "",
+        "description": "",
+        "thumb": "rbi-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RBI-Tower.jpg"
+      }
+    ]
+  },
+  "assembly": {
+    "query": "Indian automobile factory assembly line",
+    "candidates": []
+  }
+}
