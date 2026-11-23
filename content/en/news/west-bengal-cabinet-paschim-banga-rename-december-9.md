@@ -98,7 +98,7 @@ The state has tried to change its name before, and each time the effort ended wi
 * **2011:** after the Trinamool Congress under Mamata Banerjee came to power, it proposed Bangla in Bengali, Bengal in English and Bangal in Hindi.
 * **2018:** the Assembly **unanimously passed a resolution** accepting Bangla in all languages. The Union government did not approve it.
 
-This time the proposal comes from a state government and a Centre led by the same party, and political observers expect the Union to clear it. No reaction from the Trinamool Congress, the Congress or the CPI(M) had been reported by the evening. Trinamool, which backed Bangla in 2018, is now in opposition.
+This time the proposal comes from a state government led by the same party that runs the Centre. No reaction from the Trinamool Congress, the Congress or the CPI(M) had been reported by the evening. Trinamool, which backed Bangla in 2018, is now in opposition.
 
 ## The route to a new name
 

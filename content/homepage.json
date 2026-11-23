@@ -18,7 +18,7 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "supertech-cji-surya-kant-recuses-special-bench"
+      "rbi-gupta-new-gdp-series-data-users-conference"
     ],
     "live": {
       "title": {
@@ -30,6 +30,28 @@
   "briefing": {
     "items": [
       {
+        "link": "rbi-gupta-new-gdp-series-data-users-conference",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI's Poonam Gupta says new GDP series closes the demand-supply gap and will steady rate decisions",
+          "hi": "आरबीआई की पूनम गुप्ता: नई जीडीपी सीरीज़ ने मांग और आपूर्ति का अंतर घटाया, ब्याज दर के फैसले होंगे स्थिर"
+        }
+      },
+      {
+        "link": "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "lead": {
+          "en": "West Bengal:",
+          "hi": "पश्चिम बंगाल:"
+        },
+        "text": {
+          "en": "Bengal cabinet clears proposal to rename the state Paschim Banga, to go to the Assembly on December 9",
+          "hi": "बंगाल कैबिनेट ने राज्य का नाम पश्चिम बंगा करने का प्रस्ताव मंजूर किया, 9 दिसंबर को विधानसभा में"
+        }
+      },
+      {
         "link": "supertech-cji-surya-kant-recuses-special-bench",
         "lead": {
           "en": "Courts:",
@@ -38,17 +60,6 @@
         "text": {
           "en": "CJI Surya Kant recuses from Supertech homebuyers' matter, says a special bench will hear it",
           "hi": "सीजेआई सूर्यकांत सुपरटेक होमबायर्स मामले से हटे, विशेष पीठ करेगी सुनवाई"
-        }
-      },
-      {
-        "link": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "lead": {
-          "en": "Industry:",
-          "hi": "उद्योग:"
-        },
-        "text": {
-          "en": "Factories carry India's flash PMI to 56.3 in November as manufacturing hits a nine-month high",
-          "hi": "नवंबर में भारत का फ्लैश पीएमआई 56.3, कारखानों की रफ़्तार से विनिर्माण नौ महीने के उच्चतम स्तर पर"
         }
       },
       {
@@ -85,28 +96,6 @@
         }
       },
       {
-        "link": "rbi-panchayat-finances-grants-90-per-cent-report",
-        "lead": {
-          "en": "Rural finance:",
-          "hi": "ग्रामीण वित्त:"
-        },
-        "text": {
-          "en": "RBI report: village panchayats get about 90% of their money in transfers, own revenue about 10%",
-          "hi": "आरबीआई रिपोर्ट: ग्राम पंचायतों को करीब 90% पैसा हस्तांतरण से मिलता है, अपनी आय करीब 10%"
-        }
-      },
-      {
-        "link": "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-        "lead": {
-          "en": "India-Nepal:",
-          "hi": "भारत-नेपाल:"
-        },
-        "text": {
-          "en": "India-Nepal ties explained: what Balendra Shah and Modi can settle, and what they cannot",
-          "hi": "भारत-नेपाल रिश्ते समझिए: बालेंद्र शाह और मोदी क्या सुलझा सकते हैं, और क्या नहीं"
-        }
-      },
-      {
         "link": "rafale-india-active-fleet-32-of-36-four-lost-claim",
         "lead": {
           "en": "Defence:",
@@ -115,6 +104,17 @@
         "text": {
           "en": "India's 'active Rafale fleet is down to 32 of 36': an outside estimate, not an official count, and not proof of four losses",
           "hi": "भारत का 'सक्रिय राफेल बेड़ा 36 से घटकर 32': बाहरी अनुमान है, सरकारी गिनती नहीं, और चार के खोने का सबूत भी नहीं"
+        }
+      },
+      {
+        "link": "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "India's oil import bill explained: why a record month cost $19.5 billion and who pays for it",
+          "hi": "भारत का तेल आयात बिल: रिकॉर्ड महीने में $19.5 अरब का खर्च क्यों, और इसकी कीमत कौन चुकाता है"
         }
       }
     ]
@@ -182,19 +182,18 @@
   },
   "topStories": {
     "big": {
-      "id": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+      "id": "west-bengal-cabinet-paschim-banga-rename-december-9",
       "also": []
     },
     "list": [
+      "supertech-cji-surya-kant-recuses-special-bench",
       "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
       "odisha-akvan-damage-assessment-100-year-flood-plan",
       "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-      "rbi-panchayat-finances-grants-90-per-cent-report",
-      "nepal-india-ties-explained-shah-modi-talks-border-power-trade"
+      "rafale-india-active-fleet-32-of-36-four-lost-claim"
     ],
     "also": [
-      "rafale-india-active-fleet-32-of-36-four-lost-claim",
-      "siang-dam-trust-must-be-written-down-before-the-survey-resumes"
+      "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
     ]
   },
   "startHere": [
@@ -376,7 +375,7 @@
     },
     {
       "section": "economy",
-      "lead": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+      "lead": "rbi-gupta-new-gdp-series-data-users-conference",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,18 +386,18 @@
         ]
       },
       "list": [
-        "rbi-panchayat-finances-grants-90-per-cent-report",
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
+        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
       ]
     },
     {
       "section": "states",
-      "lead": "odisha-akvan-damage-assessment-100-year-flood-plan",
+      "lead": "west-bengal-cabinet-paschim-banga-rename-december-9",
       "list": [
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
         "manipur-chandel-spurious-liquor-deaths",
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row"
+        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters"
       ]
     },
     {
@@ -500,20 +499,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-22T18:13:34+05:30",
-      "ids": [
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-22T20:36:32+05:30",
       "ids": [
@@ -617,9 +602,27 @@
         "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
         "rafale-india-active-fleet-32-of-36-four-lost-claim"
       ]
+    },
+    {
+      "at": "2026-11-23T17:29:15+05:30",
+      "ids": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "rbi-gupta-new-gdp-series-data-users-conference",
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "supertech-cji-surya-kant-recuses-special-bench",
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
+      ]
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "rbi-panchayat-finances-grants-90-per-cent-report",
+    "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+    "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+  ],
   "mustReadEn": 7
 }

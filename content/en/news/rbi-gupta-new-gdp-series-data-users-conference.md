@@ -33,7 +33,7 @@ infographic:
   source: "MoSPI, February 27, 2026; RBI Deputy Governor's remarks, November 23, 2026"
 seo:
   title: "RBI's Poonam Gupta on new GDP series and rate policy"
-  description: "RBI Deputy Governor Poonam Gupta said on November 23, 2026 that India's new GDP series narrows the demand-supply gap and will help monetary policy."
+  description: "RBI Deputy Governor Poonam Gupta said on November 23, 2026, that India's new GDP series narrows the demand-supply gap and will help monetary policy."
 sources:
   - title: "Rebasing the Key Macro Series: From Better Measurement to Better Policy (inaugural address by Dr. Poonam Gupta, Deputy Governor, at the Data Users Conference on the new series of GDP, CPI and IIP, organised by MoSPI in Mumbai on November 23, 2026)"
     publisher: "Reserve Bank of India"

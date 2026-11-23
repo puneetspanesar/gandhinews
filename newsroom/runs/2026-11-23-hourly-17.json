@@ -1,0 +1,22 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-23T17:04:06+05:30",
+ "end": "2026-11-23T17:31:37+05:30",
+ "summary": "Bengal Paschim Banga rename; RBI Gupta on new GDP series; markets close",
+ "new": [
+  "rbi-gupta-new-gdp-series-data-users-conference",
+  "west-bengal-cabinet-paschim-banga-rename-december-9"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "west-bengal-cabinet-paschim-banga-rename-december-9",
+   "why": "Hindi twin, second paragraph: 'कैबिनेट बैठक की अध्यक्षता करने वाले अधिकारी ने पत्रकारों से कहा' uses the surname 'अधिकारी' alone, which reads as 'the official'. The English says 'Adhikari, who chaired the cabinet meeting'. The Hindi does not say the same thing (name lost). Also the English line 'political observers expect the Union to clear it' has no source or note in the verification block.",
+   "done": "Hindi now names 'मुख्यमंत्री सुवेंदु अधिकारी'; the unsourced 'political observers expect the Union to clear it' line dropped in both languages."
+  }
+ ],
+ "breaches": [],
+ "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
+}

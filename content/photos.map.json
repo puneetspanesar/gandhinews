@@ -52899,7 +52899,19 @@
   "licence": "GODL-India",
   "alt": "Suvendu Adhikari (file photo)",
   "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-west-bengal-cabinet-paschim-banga-rename-december-9-1280.jpg",
+   "src800": "/photos/t-west-bengal-cabinet-paschim-banga-rename-december-9-640.jpg",
+   "cutout": true,
+   "with": [
+    "west-bengal-makes-bengali-compulsory-government-work",
+    "gst-explained-slabs-council-revenue-sharing"
+   ],
+   "kind": "photo",
+   "subj": "f7e3e3e3e3e3e7e3",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Pinakpani / Wikimedia Commons; P.K.Niyogi / Wikimedia Commons"
+  }
  },
  "rbi-gupta-new-gdp-series-data-users-conference": {
   "id": "o-rbi-gupta-new-gdp-series-data-users-conference",
@@ -52912,6 +52924,19 @@
   "licence": "GODL-India",
   "alt": "RBI Deputy Governor Poonam Gupta (file photo)",
   "alt_hi": "आरबीआई की डिप्टी गवर्नर पूनम गुप्ता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Poonam_Gupta_RBI.png"
+  "page": "https://commons.wikimedia.org/wiki/File:Poonam_Gupta_RBI.png",
+  "treated": {
+   "src": "/photos/t-rbi-gupta-new-gdp-series-data-users-conference-1280.jpg",
+   "src800": "/photos/t-rbi-gupta-new-gdp-series-data-users-conference-640.jpg",
+   "cutout": true,
+   "with": [
+    "gdp-grows-7-8-in-april-june-quarter",
+    "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
+    "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+   ],
+   "kind": "photo",
+   "subj": "ffa7979393838181",
+   "credit": "Photos: Government of India / Wikimedia Commons; Ccmarathe / Wikimedia Commons; Jishnu12684 / Wikimedia Commons; Sailko / Wikimedia Commons"
+  }
  }
 }
