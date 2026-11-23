@@ -1,0 +1,19 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-23T06:37:04+05:30",
+ "end": "2026-11-23T07:08:58+05:30",
+ "summary": "3 pieces: India-Nepal explainer, Siang dam editorial, Rafale fact check",
+ "new": [],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
+   "why": "The headline is about what Amit Shah said, but the main picture is a file photo of the Siang river. The person who spoke should come first, and the in-story photo of Amit Shah is marked NOT FOUND even though he is one of the most photographed people in the country.",
+   "done": "Main picture is now Amit Shah from the people library (hero subjects Amit Shah first); the Siang river file photo moved to the in-story photo with its file-photo caption, both languages."
+  }
+ ],
+ "breaches": [],
+ "lead": "odisha-akvan-damage-assessment-100-year-flood-plan"
+}

@@ -525,7 +525,7 @@ export async function homeModel(lang: Lang) {
   // a diary line links to a story only when that story is about the same thing and is not itself out of date (owner, November 12)
   const weekLinkOk = (x: any) => { const d: any = (ENC.all.get(x.link) as any)?.data; if (!d || expiredOnHome(d, String(d.title ?? ''))) return false;
     const tw = new Set(String(x.text?.en ?? '').toLowerCase().match(/[a-z]{5,}/g) ?? []); return String(x.link).split('-').some((w: string) => w.length >= 5 && tw.has(w)); };
-  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: has(x.link) && weekLinkOk(x) ? urlOf(get(x.link).data) : null }));
+  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: has(x.link) && weekLinkOk(x) && Date.now() - +new Date((get(x.link) as any).data.published) < 160 * 3.6e6 ? urlOf(get(x.link).data) : null }));
 
   // ---- 2026 front page (Gandhi News): headline grid, live band, India block, markets band, other-language links
   const used = new Set<string>([lead.id, ...lead.below.map((x: any) => x.id)]);
@@ -739,7 +739,7 @@ export async function homeModel(lang: Lang) {
     // one line per event: two diary lines about the same event (same date, three shared long words) count once
     const wset = (s: string) => new Set(String(s).toLowerCase().match(/[\p{L}\p{M}]{5,}/gu) ?? []);
     const sameEv = (a: any, b: any) => a.date === b.date && [...wset(a.text)].filter((w) => wset(b.text).has(w)).length >= 3;
-    const weekD = week.filter((x: any, i: number, all: any[]) => all.findIndex((y: any) => y.text === x.text || (y.href && y.href === x.href) || sameEv(x, y)) === i).slice(0, 4);
+    const weekD = week.filter((x: any, i: number, all: any[]) => all.findIndex((y: any) => y.text === x.text || (y.href && y.href === x.href) || sameEv(x, y)) === i).slice(0, must.length < 5 ? 4 + (5 - must.length) : 4);   // a short Must Read (longform-m, November 23: three rows left 220px at 1440px, 259px on /hi/, with the 48-hour pool spent) gives its space to more This week lines
     return {
       leadLinks, second, col2, must, states, econ, cols, weekD, courts, policy, politics, stateGrid, regions,
       explained: start.slice(0, 4), opinion: opinion.slice(0, 7), fc: fcCards.slice(0, 2),

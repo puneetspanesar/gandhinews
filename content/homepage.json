@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+    "id": "odisha-akvan-damage-assessment-100-year-flood-plan",
     "overlay": {
       "kicker": {
-        "en": "Policy / Skills",
-        "hi": "नीति / कौशल"
+        "en": "States / Odisha",
+        "hi": "राज्य / ओडिशा"
       },
       "value": {
-        "en": "'ITI is no less than IIT'",
-        "hi": "'आईटीआई, आईआईटी से कम नहीं'"
+        "en": "Odisha counts Akvan's damage, plans for 100 years",
+        "hi": "ओडिशा गिनेगा अकवान का नुकसान, 100 साल की योजना"
       },
       "text": {
         "en": "",
@@ -16,28 +16,32 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
+      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval"
+    ],
     "relatedBeside": [
-      "odisha-akvan-damage-assessment-100-year-flood-plan"
+      "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
     ],
     "live": {
       "title": {
-        "en": "Skills",
-        "hi": "कौशल"
+        "en": "Odisha",
+        "hi": "ओडिशा"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "link": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
+          "en": "Skills:",
+          "hi": "कौशल:"
         },
         "text": {
-          "en": "Odisha starts Cyclone Akvan damage assessment and plans a 100-year flood roadmap",
-          "hi": "ओडिशा में चक्रवात अकवान से नुकसान का आकलन शुरू, 100 साल की बाढ़ प्रबंधन योजना की तैयारी"
+          "en": "Modi in Lucknow: ITI trainees are 'no less than' IIT students, and parents should stop hiding it",
+          "hi": "लखनऊ में मोदी: आईटीआई के छात्र आईआईटी से 'कम नहीं', माता-पिता इसे छिपाना बंद करें"
         }
       },
       {
@@ -63,58 +67,47 @@
         }
       },
       {
-        "link": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
+        "link": "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
         "lead": {
-          "en": "Home Affairs:",
-          "hi": "गृह मंत्रालय:"
+          "en": "India-Nepal:",
+          "hi": "भारत-नेपाल:"
         },
         "text": {
-          "en": "Six held in four cities as NCB and US DEA break a network that shipped nearly 5 lakh pills to American buyers",
-          "hi": "चार शहरों में छह गिरफ्तार: एनसीबी और अमेरिकी डीईए ने अमेरिकी खरीदारों को करीब 5 लाख गोलियां भेजने वाला नेटवर्क तोड़ा"
+          "en": "India-Nepal ties explained: what Balendra Shah and Modi can settle, and what they cannot",
+          "hi": "भारत-नेपाल रिश्ते समझिए: बालेंद्र शाह और मोदी क्या सुलझा सकते हैं, और क्या नहीं"
         }
       },
       {
-        "link": "manipur-chandel-spurious-liquor-deaths",
+        "link": "rafale-india-active-fleet-32-of-36-four-lost-claim",
         "lead": {
-          "en": "Manipur:",
-          "hi": "मणिपुर:"
+          "en": "Defence:",
+          "hi": "रक्षा:"
         },
         "text": {
-          "en": "Manipur spurious liquor deaths climb to 16 as hundreds fill Imphal hospitals; CM orders inquiry",
-          "hi": "मणिपुर में जहरीली शराब से मौतें बढ़कर 16, इंफाल के अस्पतालों में सैकड़ों मरीज; मुख्यमंत्री ने जांच के आदेश दिए"
+          "en": "India's 'active Rafale fleet is down to 32 of 36': an outside estimate, not an official count, and not proof of four losses",
+          "hi": "भारत का 'सक्रिय राफेल बेड़ा 36 से घटकर 32': बाहरी अनुमान है, सरकारी गिनती नहीं, और चार के खोने का सबूत भी नहीं"
         }
       },
       {
-        "link": "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
+        "link": "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
         "lead": {
-          "en": "Tax:",
-          "hi": "कर:"
+          "en": "Bihar:",
+          "hi": "बिहार:"
         },
         "text": {
-          "en": "FAST-DS foreign asset window shuts on December 31: 60% tax or a flat ₹1 lakh for immunity, 40 days left",
-          "hi": "फास्ट-डीएस की विदेशी संपत्ति खिड़की 31 दिसंबर को बंद: छूट के लिए 60% कर या एकमुश्त ₹1 लाख, 40 दिन बाकी"
+          "en": "Tejashwi Yadav on the Nitish Setu: no central money fits the financing plan, but 'already open' and the ₹5,500 crore cost do not",
+          "hi": "नीतीश सेतु पर तेजस्वी यादव: 'केंद्र का पैसा नहीं' वित्त योजना से मेल खाता है, पर 'पहले ही खुल चुका' और ₹5,500 करोड़ की लागत नहीं"
         }
       },
       {
-        "link": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+        "link": "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
         "lead": {
-          "en": "International law:",
-          "hi": "अंतरराष्ट्रीय कानून:"
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
         },
         "text": {
-          "en": "ICJ's Rohingya genocide ruling explained: what the court found and what it means for India",
-          "hi": "आईसीजे का रोहिंग्या नरसंहार फैसला: अदालत ने क्या पाया और भारत के लिए इसका क्या मतलब है"
-        }
-      },
-      {
-        "link": "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-        "lead": {
-          "en": "Manufacturing:",
-          "hi": "विनिर्माण:"
-        },
-        "text": {
-          "en": "Rahul Gandhi says India has given up on manufacturing: official data show output growing about 11% a year, but its share of the economy has not moved",
-          "hi": "राहुल गांधी का दावा कि भारत ने मैन्युफैक्चरिंग छोड़ दी: सरकारी आंकड़ों में उत्पादन सालाना करीब 11% बढ़ा, पर अर्थव्यवस्था में उसका हिस्सा नहीं बढ़ा"
+          "en": "India's oil import bill explained: why a record month cost $19.5 billion and who pays for it",
+          "hi": "भारत का तेल आयात बिल: रिकॉर्ड महीने में $19.5 अरब का खर्च क्यों, और इसकी कीमत कौन चुकाता है"
         }
       }
     ]
@@ -187,20 +180,18 @@
     },
     "list": [
       "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-      "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-      "manipur-chandel-spurious-liquor-deaths",
-      "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-      "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
+      "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+      "rafale-india-active-fleet-32-of-36-four-lost-claim",
+      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+      "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
     ],
-    "also": [
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-    ]
+    "also": []
   },
   "startHere": [
+    "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
     "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
     "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-    "new-start-explained-trilateral-arms-control-shenzhen-declaration",
-    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+    "new-start-explained-trilateral-arms-control-shenzhen-declaration"
   ],
   "trackers": [
     {
@@ -270,9 +261,9 @@
   },
   "factCheck": {
     "cards": [
+      "rafale-india-active-fleet-32-of-36-four-lost-claim",
       "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
-      "modi-world-bank-50-crore-poverty-claim"
+      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
     ]
   },
   "explained": [
@@ -353,11 +344,11 @@
     }
   ],
   "opinion": [
+    "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
     "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
     "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
     "air-india-ai171-final-report-must-be-public",
-    "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday",
-    "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase"
+    "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
   ],
   "sections": [
     {
@@ -438,18 +429,15 @@
     {
       "section": "sports",
       "lead": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
-      "list": [
-        "india-new-zealand-first-test-wellington-thursday-wtc-stakes-gill-latham",
-        "england-banton-century-adelaide-second-odi-series-level"
-      ]
+      "list": []
     }
   ],
   "weekAhead": [
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Nepal PM Balendra Shah holds talks with PM Modi in New Delhi",
@@ -460,8 +448,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 24",
-        "hi": "24 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Karthigai Deepam lamp to be lit at the Thiruparankundram Deepathoon by a restricted team",
@@ -503,37 +491,21 @@
         "hi": "रांची के खेलगांव में झारखंड का मुख्य स्थापना दिवस समारोह"
       },
       "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 30",
+        "hi": "30 नवंबर"
+      },
+      "text": {
+        "en": "Keralam government promises a permanent power-purchase plan by the end of the month",
+        "hi": "केरलम सरकार ने महीने के अंत तक बिजली खरीद की स्थायी योजना पेश करने का वादा किया है"
+      },
+      "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan"
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-22T06:57:10+05:30",
-      "ids": [
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
-    {
-      "at": "2026-11-22T07:04:11+05:30",
-      "ids": [
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-22T08:34:08+05:30",
       "ids": [
@@ -616,6 +588,38 @@
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
         "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
         "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      ]
+    },
+    {
+      "at": "2026-11-23T06:57:49+05:30",
+      "ids": [
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
+        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+        "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
+      ]
+    },
+    {
+      "at": "2026-11-23T07:06:43+05:30",
+      "ids": [
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
+        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+        "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
       ]
     }
   ],
