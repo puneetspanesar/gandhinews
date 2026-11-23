@@ -237,6 +237,7 @@ def fill_tiles(sid, M, have, n=3):
     d = fm(sid); fp = next((R + f'content/en/{t}/{sid}.md' for t in ('news', 'explainer', 'editorial', 'factcheck') if os.path.exists(R + f'content/en/{t}/{sid}.md')), '')
     body = (open(fp).read().split('---', 2)[-1][:1500] if os.path.exists(fp) else '')
     text = re.sub(r'\b(?:Monsoon|Winter|Budget) [Ss]ession', 'Parliament session', ' '.join(str(d.get(k) or '') for k in ('title', 'standfirst', 'format_label')))   # the Monsoon Session is Parliament, not rain   # headline and standfirst only
+    text = text.replace('Hyderabad House', 'Delhi venue'); body = body.replace('Hyderabad House', 'Delhi venue')   # Delhi's Hyderabad House is not Telangana (hourly-14, November 23: Telangana Secretariat behind the India-Nepal talks)
     countries = country_of(str(d.get('title') or '') + ' ' + str(d.get('standfirst') or ''))
     loc = str(d.get('location') or '')
     state = next((ALIAS.get(x.strip(), x.strip()) for x in loc.split(',')[::-1] if ALIAS.get(x.strip(), x.strip()) in STATES
@@ -247,6 +248,7 @@ def fill_tiles(sid, M, have, n=3):
     if not state:   # a Delhi dateline: the state the headline is about, if any (Bastar -> Chhattisgarh)
         for nm in sorted(list(ALIAS) + list(STATES), key=len, reverse=True):
             if nm not in ('New Delhi', 'Delhi') and re.search(rf'\b{re.escape(nm)}\b', text): state = ALIAS.get(nm, nm); break
+    if state and countries and loc.strip() in ('New Delhi', 'Delhi'): state = None   # a foreign leader's Delhi talks are not a state story (hourly-14, November 23: UP Vidhan Bhavan behind the India-Nepal talks via 'Ayodhya-Janakpur train')
     def state_ok(alt):   # a scene from a state the story never mentions does not belong (UP's Vidhan Bhawan behind Advani)
         if re.search(r'High Court', alt) and not re.search(r'High Court', story): return False   # another court behind a Supreme Court story (owner, November 12)
         for nm in list(STATES) + list(ALIAS):

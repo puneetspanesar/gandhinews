@@ -1,11 +1,9 @@
 {
  "run": "hourly-14",
  "start": "2026-11-23T14:04:03+05:30",
- "end": "2026-11-23T14:38:21+05:30",
- "summary": "Nepal talks outcome leads; Supertech recusal; deepam update",
- "new": [
-  "supertech-cji-surya-kant-recuses-special-bench"
- ],
+ "end": "2026-11-23T14:58:31+05:30",
+ "summary": "Nepal talks collage remade",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
