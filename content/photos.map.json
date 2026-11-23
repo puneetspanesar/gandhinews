@@ -52068,7 +52068,20 @@
   "licence": "GODL-India",
   "alt": "Narendra Modi (file photo)",
   "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_2_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-nepal-pm-balendra-shah-india-visit-november-22-modi-talks-no-1280.jpg",
+   "src800": "/photos/t-nepal-pm-balendra-shah-india-visit-november-22-modi-talks-no-640.jpg",
+   "cutout": true,
+   "with": [
+    "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo--p1",
+    "nepal-dashain-exodus-flood-victims-rent-aid",
+    "sangareddy-pharma-deaths-need-inspections-not-compensation"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7c3c3e7e7d181",
+   "credit": "Photos: Government of India / Wikimedia Commons; बिप्लब आनन्द / Wikimedia Commons; Sergey Ashmarin / Wikimedia Commons; Yakshitha / Wikimedia Commons"
+  }
  },
  "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity": {
   "id": "r-core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
@@ -52861,6 +52874,18 @@
   "licence": "GODL-India",
   "alt": "Surya Kant (file photo)",
   "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg",
+  "treated": {
+   "src": "/photos/t-supertech-cji-surya-kant-recuses-special-bench-1280.jpg",
+   "src800": "/photos/t-supertech-cji-surya-kant-recuses-special-bench-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "efcfc7c7c7c78118",
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
  }
 }

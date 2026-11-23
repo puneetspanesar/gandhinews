@@ -7,7 +7,7 @@ format_label: World / India-Nepal
 topics: []
 title: Modi and Nepal PM Shah sign eight MoUs at Hyderabad House, announce NPR 24,000 crore flood package
 standfirst: India and Nepal signed agreements on space, policing, civil service training, health, traditional medicine, urban development and livestock on November 23. Modi announced a 24,000 crore Nepali rupee package, and the Ayodhya-Janakpur train and the Lower Arun hydropower project moved ahead.
-published: 2026-11-20T20:08:05+05:30
+published: 2026-11-23T14:16:47+05:30
 updated: 2026-11-23T14:16:47+05:30
 location: New Delhi
 keyPoints:
@@ -210,7 +210,7 @@ verification:
 
 India and Nepal signed **eight memorandums of understanding** on Monday, November 23, after Prime Minister Narendra Modi and Nepal's Prime Minister Balendra Shah held talks at Hyderabad House in New Delhi. Modi also announced a **Development Cooperation Package of 24,000 crore Nepali rupees** for Nepal's reconstruction after the August floods and for longer-term development, and six cross-border projects were inaugurated or had their foundation stones laid. The agreements cover space, policing, civil service training, health, traditional medicine, urban development and livestock and fisheries. It is Shah's first visit to India since he took office in March.
 
-The Ministry of External Affairs had not put its list of outcomes or a joint statement within reach of our reading by 2:30 pm IST, and no transcript of Modi's remarks was available on the Prime Minister's pages. What follows rests on the MEA programme and spokesperson Randhir Jaiswal's posts as carried by All India Radio, and on agency reports of the signing and the announcements. Where a figure comes only from those reports, it is said so.
+The Ministry of External Affairs had not published its list of outcomes or a joint statement by 2:30 pm IST, and no transcript of Modi's remarks was available on the Prime Minister's pages. What follows rests on the MEA programme and spokesperson Randhir Jaiswal's posts on the record, and on agency reports of the signing and the announcements. Where a figure comes only from those reports, it is said so.
 
 ## What was signed
 

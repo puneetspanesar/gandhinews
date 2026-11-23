@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Today's recusal rests on three independent reports of the hearing; the Court's own November 23 order or cause list was not opened (sci.gov.in blocked). The February 5, 2026 order was read in full from api.sci.gov.in."
+    - "Today's recusal rests on three independent reports of the hearing; the Court's own November 23 order or cause list was not opened (sci.gov.in blocked). The February 5, 2026, order was read in full from api.sci.gov.in."
     - "Reports differ on the case title; one gives C.A. No. 2626/2025 (Apex Heights v. Ram Kishor Arora), another calls it In Re Supertech homebuyers' matter. Case title is stated as reported."
     - "One report says a bench reserved an order on November 16; another does not mention it. Left out."
     - "Unit counts differ in the February order: about 40,000 per management, over 51,000 per homebuyers' counsel. Both given."
@@ -92,7 +92,7 @@ The NCLAT's own terms, summarised in the order, included a project management fe
 
 ## How the case got here
 
-Union Bank of India's insolvency plea under Section 7 of the IBC against Supertech was admitted by the NCLT on March 25, 2022. The NCLAT's December 12, 2024 judgment set NBCC to start awarding work before March 31, 2025 and begin construction from May 1, 2025. The Supreme Court **stayed that judgment on February 21, 2025**, and then upheld it with the modifications above a year later.
+Union Bank of India's insolvency plea under Section 7 of the IBC against Supertech was admitted by the NCLT on March 25, 2022. The NCLAT's December 12, 2024, judgment set NBCC to start awarding work before March 31, 2025, and begin construction from May 1, 2025. The Supreme Court **stayed that judgment on February 21, 2025**, and then upheld it with the modifications above a year later.
 
 The 16 projects are in Uttar Pradesh, Uttarakhand, Haryana and Karnataka and include Sports Village, Hilltown, Romano, Rivercrest in Rudrapur, Meerut Sports City, Eco Village 1, 2 and 3, Micasa in Bengaluru, Czar Suites, Eco-Citi, Capetown and North Eye. The February order records that the unit count is disputed: about **40,000 according to Supertech's management** and over 51,000 according to homebuyers' counsel. Reports of the later hearings put the number of buyers still waiting at about 27,000, and the appellants told the Court that about 25,000 units had been handed over and about 20,000 remained.
 

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+    "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
     "overlay": {
       "kicker": {
-        "en": "World / Netherlands",
-        "hi": "दुनिया / नीदरलैंड"
+        "en": "World / India-Nepal",
+        "hi": "दुनिया / भारत-नेपाल"
       },
       "value": {
-        "en": "India-Netherlands: first FM dialogue",
-        "hi": "भारत-नीदरलैंड: पहली विदेश मंत्री बैठक"
+        "en": "8 MoUs signed with Nepal, Nov 23",
+        "hi": "नेपाल के साथ 8 एमओयू, 23 नवंबर"
       },
       "text": {
         "en": "",
@@ -18,17 +18,28 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+      "supertech-cji-surya-kant-recuses-special-bench"
     ],
     "live": {
       "title": {
-        "en": "Netherlands",
-        "hi": "नीदरलैंड"
+        "en": "India-Nepal",
+        "hi": "भारत-नेपाल"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "supertech-cji-surya-kant-recuses-special-bench",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "CJI Surya Kant recuses from Supertech homebuyers' matter, says a special bench will hear it",
+          "hi": "सीजेआई सूर्यकांत सुपरटेक होमबायर्स मामले से हटे, विशेष पीठ करेगी सुनवाई"
+        }
+      },
       {
         "link": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
         "lead": {
@@ -38,6 +49,17 @@
         "text": {
           "en": "Factories carry India's flash PMI to 56.3 in November as manufacturing hits a nine-month high",
           "hi": "नवंबर में भारत का फ्लैश पीएमआई 56.3, कारखानों की रफ़्तार से विनिर्माण नौ महीने के उच्चतम स्तर पर"
+        }
+      },
+      {
+        "link": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "lead": {
+          "en": "Netherlands:",
+          "hi": "नीदरलैंड:"
+        },
+        "text": {
+          "en": "India and the Netherlands hold their first Foreign Ministers' Meeting to review the new strategic partnership",
+          "hi": "भारत और नीदरलैंड की पहली विदेश मंत्री बैठक, नई रणनीतिक साझेदारी की समीक्षा"
         }
       },
       {
@@ -74,17 +96,6 @@
         }
       },
       {
-        "link": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "India and Canada end a ten-day sixth round of CEPA talks, with no deal yet and the end-2026 target intact",
-          "hi": "भारत और कनाडा के बीच सीईपीए की छठी दौर की दस दिन की बातचीत खत्म, समझौता अभी नहीं, 2026 के अंत का लक्ष्य कायम"
-        }
-      },
-      {
         "link": "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
         "lead": {
           "en": "India-Nepal:",
@@ -104,17 +115,6 @@
         "text": {
           "en": "India's 'active Rafale fleet is down to 32 of 36': an outside estimate, not an official count, and not proof of four losses",
           "hi": "भारत का 'सक्रिय राफेल बेड़ा 36 से घटकर 32': बाहरी अनुमान है, सरकारी गिनती नहीं, और चार के खोने का सबूत भी नहीं"
-        }
-      },
-      {
-        "link": "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-        "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
-        },
-        "text": {
-          "en": "Tejashwi Yadav on the Nitish Setu: no central money fits the financing plan, but 'already open' and the ₹5,500 crore cost do not",
-          "hi": "नीतीश सेतु पर तेजस्वी यादव: 'केंद्र का पैसा नहीं' वित्त योजना से मेल खाता है, पर 'पहले ही खुल चुका' और ₹5,500 करोड़ की लागत नहीं"
         }
       }
     ]
@@ -182,19 +182,19 @@
   },
   "topStories": {
     "big": {
-      "id": "odisha-akvan-damage-assessment-100-year-flood-plan",
+      "id": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
       "also": []
     },
     "list": [
+      "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+      "odisha-akvan-damage-assessment-100-year-flood-plan",
       "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
       "rbi-panchayat-finances-grants-90-per-cent-report",
-      "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-      "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-      "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      "nepal-india-ties-explained-shah-modi-talks-border-power-trade"
     ],
     "also": [
-      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-      "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care"
+      "rafale-india-active-fleet-32-of-36-four-lost-claim",
+      "siang-dam-trust-must-be-written-down-before-the-survey-resumes"
     ]
   },
   "startHere": [
@@ -403,11 +403,11 @@
     },
     {
       "section": "policy",
-      "lead": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+      "lead": "supertech-cji-surya-kant-recuses-special-bench",
       "list": [
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
+        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
       ]
     },
     {
@@ -422,9 +422,9 @@
   "desks": [
     {
       "section": "world",
-      "lead": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+      "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
       "list": [
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
         "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
         "tara-gas-navig8-messi-indian-seafarers-hormuz"
       ]
@@ -435,23 +435,10 @@
     },
     {
       "section": "sports",
-      "lead": "bihar-beat-railways-smat-suraj-kashyap-loharuka-indore",
       "list": []
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Nepal PM Balendra Shah holds talks with PM Modi in New Delhi",
-        "hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह की नई दिल्ली में प्रधानमंत्री मोदी से वार्ता"
-      },
-      "link": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -513,20 +500,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-22T17:24:03+05:30",
-      "ids": [
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-22T18:13:34+05:30",
       "ids": [
@@ -630,11 +603,23 @@
         "rafale-india-active-fleet-32-of-36-four-lost-claim",
         "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
       ]
+    },
+    {
+      "at": "2026-11-23T14:32:45+05:30",
+      "ids": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "supertech-cji-surya-kant-recuses-special-bench",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      ]
     }
   ],
   "critical": [],
-  "drop": [
-    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
-  ],
+  "drop": [],
   "mustReadEn": 7
 }

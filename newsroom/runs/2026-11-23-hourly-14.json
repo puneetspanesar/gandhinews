@@ -1,0 +1,21 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-23T14:04:03+05:30",
+ "end": "2026-11-23T14:38:21+05:30",
+ "summary": "Nepal talks outcome leads; Supertech recusal; deepam update",
+ "new": [
+  "supertech-cji-surya-kant-recuses-special-bench"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+   "why": "Rule 14: the English body (opening note, around line 213) names an outlet, 'as carried by All India Radio'; the Hindi twin names it too (Akashvani / All India Radio).",
+   "done": "Removed the outlet name from the English and Hindi body (now 'posts on the record' / 'आधिकारिक पोस्ट'); sources front matter unchanged."
+  }
+ ],
+ "breaches": [],
+ "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
+}
