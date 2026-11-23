@@ -110,9 +110,6 @@ The manufacturing PMI had slipped to 54.7 in October, as [we reported on Novembe
 
 The Reserve Bank of India's Monetary Policy Committee raised the repo rate by 25 basis points to 5.50% on October 7, its first increase since February 2023. In the [minutes](/en/news/rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening), Governor Sanjay Malhotra said the next move could only be a hike or a pause, and cited "increasing signs of generalisation of inflation".
 
-```photo
-{"n":1,"subject":"Sanjay Malhotra","caption":"RBI Governor Sanjay Malhotra chairs the Monetary Policy Committee, which meets from December 2 to 4.","alt":"Reserve Bank of India Governor Sanjay Malhotra"}
-```
 
 Official price data are already hot. [Retail inflation was 6.09% in October](/en/news/retail-inflation-october-2026-6-09-two-year-high), a two-year high, and [wholesale inflation 12.29%](/en/news/wpi-inflation-october-2026). The PMI adds two points the committee can use. Demand is strong in factories, which argues against easing. But firms report only slight increases in input costs and modest selling-price rises, so the survey does not show a fresh acceleration in prices. Services, the larger part of the economy, are growing more slowly and shedding jobs at the margin.
 

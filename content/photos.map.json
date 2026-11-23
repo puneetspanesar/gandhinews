@@ -52809,17 +52809,46 @@
   }
  },
  "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high": {
-  "id": "o-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-  "src": "/photos/o-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-1280.jpg",
-  "src800": "/photos/o-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-640.jpg",
+  "id": "i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+  "src": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "srcWidth": 3072,
-  "credit": "Photo: L.vivian.richard / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Hyundai's car plant near Chennai, Tamil Nadu, one of the factories in India's manufacturing sector (file photo)",
-  "alt_hi": "चेन्नई के पास तमिलनाडु में ह्यूंदै का कार संयंत्र, भारत के विनिर्माण क्षेत्र की एक फैक्टरी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:HyundaiChennai.JPG"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Factories lead India's flash PMI",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: फ्लैश पीएमआई में कारखाने आगे",
+  "page": null,
+  "ihash": "100213fb76e3",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-en-t-1280.jpg",
+    "src800": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-hi-t-1280.jpg",
+    "src800": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-en-1280.jpg",
+    "src800": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-hi-1280.jpg",
+    "src800": "/photos/i-india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high-hi-640.jpg"
+   }
+  }
  },
  "wb-akvan-farmers-relief-212-crore-suvendu-drain-fields": {
   "id": "o-wb-akvan-farmers-relief-212-crore-suvendu-drain-fields",

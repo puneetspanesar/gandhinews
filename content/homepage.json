@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "odisha-akvan-damage-assessment-100-year-flood-plan",
+    "id": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
     "overlay": {
       "kicker": {
-        "en": "States / Odisha",
-        "hi": "राज्य / ओडिशा"
+        "en": "World / Netherlands",
+        "hi": "दुनिया / नीदरलैंड"
       },
       "value": {
-        "en": "Odisha counts Akvan's damage, plans for 100 years",
-        "hi": "ओडिशा गिनेगा अकवान का नुकसान, 100 साल की योजना"
+        "en": "India-Netherlands: first FM dialogue",
+        "hi": "भारत-नीदरलैंड: पहली विदेश मंत्री बैठक"
       },
       "text": {
         "en": "",
@@ -16,43 +16,39 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
-      "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-      "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen"
+      "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
     ],
     "live": {
       "title": {
-        "en": "Odisha",
-        "hi": "ओडिशा"
+        "en": "Netherlands",
+        "hi": "नीदरलैंड"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "link": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
         "lead": {
-          "en": "Netherlands:",
-          "hi": "नीदरलैंड:"
+          "en": "Industry:",
+          "hi": "उद्योग:"
         },
         "text": {
-          "en": "India and the Netherlands hold their first Foreign Ministers' Meeting to review the new strategic partnership",
-          "hi": "भारत और नीदरलैंड की पहली विदेश मंत्री बैठक, नई रणनीतिक साझेदारी की समीक्षा"
+          "en": "Factories carry India's flash PMI to 56.3 in November as manufacturing hits a nine-month high",
+          "hi": "नवंबर में भारत का फ्लैश पीएमआई 56.3, कारखानों की रफ़्तार से विनिर्माण नौ महीने के उच्चतम स्तर पर"
         }
       },
       {
-        "link": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "link": "odisha-akvan-damage-assessment-100-year-flood-plan",
         "lead": {
-          "en": "Skills:",
-          "hi": "कौशल:"
+          "en": "Odisha:",
+          "hi": "ओडिशा:"
         },
         "text": {
-          "en": "Modi in Lucknow: ITI trainees are 'no less than' IIT students, and parents should stop hiding it",
-          "hi": "लखनऊ में मोदी: आईटीआई के छात्र आईआईटी से 'कम नहीं', माता-पिता इसे छिपाना बंद करें"
+          "en": "Odisha starts Cyclone Akvan damage assessment and plans a 100-year flood roadmap",
+          "hi": "ओडिशा में चक्रवात अकवान से नुकसान का आकलन शुरू, 100 साल की बाढ़ प्रबंधन योजना की तैयारी"
         }
       },
       {
@@ -64,17 +60,6 @@
         "text": {
           "en": "RBI report: village panchayats get about 90% of their money in transfers, own revenue about 10%",
           "hi": "आरबीआई रिपोर्ट: ग्राम पंचायतों को करीब 90% पैसा हस्तांतरण से मिलता है, अपनी आय करीब 10%"
-        }
-      },
-      {
-        "link": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "India and Canada end a ten-day sixth round of CEPA talks, with no deal yet and the end-2026 target intact",
-          "hi": "भारत और कनाडा के बीच सीईपीए की छठी दौर की दस दिन की बातचीत खत्म, समझौता अभी नहीं, 2026 के अंत का लक्ष्य कायम"
         }
       },
       {
@@ -100,6 +85,17 @@
         }
       },
       {
+        "link": "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Amit Shah promised the Siang dam will move 'only with your trust'. Trust needs a written pause on the survey first",
+          "hi": "अमित शाह ने कहा सियांग बांध 'आपके विश्वास से ही' आगे बढ़ेगा। विश्वास के लिए पहले सर्वे पर लिखित रोक चाहिए"
+        }
+      },
+      {
         "link": "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
         "lead": {
           "en": "Bihar:",
@@ -108,17 +104,6 @@
         "text": {
           "en": "Tejashwi Yadav on the Nitish Setu: no central money fits the financing plan, but 'already open' and the ₹5,500 crore cost do not",
           "hi": "नीतीश सेतु पर तेजस्वी यादव: 'केंद्र का पैसा नहीं' वित्त योजना से मेल खाता है, पर 'पहले ही खुल चुका' और ₹5,500 करोड़ की लागत नहीं"
-        }
-      },
-      {
-        "link": "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "India's oil import bill explained: why a record month cost $19.5 billion and who pays for it",
-          "hi": "भारत का तेल आयात बिल: रिकॉर्ड महीने में $19.5 अरब का खर्च क्यों, और इसकी कीमत कौन चुकाता है"
         }
       }
     ]
@@ -186,19 +171,17 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+      "id": "odisha-akvan-damage-assessment-100-year-flood-plan",
       "also": []
     },
     "list": [
       "rbi-panchayat-finances-grants-90-per-cent-report",
-      "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
       "rafale-india-active-fleet-32-of-36-four-lost-claim",
+      "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
       "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
     ],
-    "also": [
-      "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
-    ]
+    "also": []
   },
   "startHere": [
     "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
@@ -379,7 +362,7 @@
     },
     {
       "section": "economy",
-      "lead": "rbi-panchayat-finances-grants-90-per-cent-report",
+      "lead": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
       "module": {
         "type": "markets",
         "indicators": [
@@ -390,9 +373,9 @@
         ]
       },
       "list": [
+        "rbi-panchayat-finances-grants-90-per-cent-report",
         "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
+        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity"
       ]
     },
     {
@@ -406,11 +389,11 @@
     },
     {
       "section": "policy",
-      "lead": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+      "lead": "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
       "list": [
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal"
+        "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+        "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+        "yadav-civic-bodies-zero-tolerance-open-burning-delhi-ncr-winter"
       ]
     },
     {
@@ -518,20 +501,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-22T11:25:45+05:30",
-      "ids": [
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
-    {
       "at": "2026-11-22T14:46:57+05:30",
       "ids": [
         "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
@@ -635,9 +604,27 @@
         "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
         "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
       ]
+    },
+    {
+      "at": "2026-11-23T11:37:43+05:30",
+      "ids": [
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
+        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
+      ]
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+    "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+    "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
+    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers"
+  ],
   "mustReadEn": 7
 }

@@ -1,0 +1,19 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-23T11:04:11+05:30",
+ "end": "2026-11-23T11:43:10+05:30",
+ "summary": "Flash PMI story, Nepal visit update; Bengal Akvan relief held for picture",
+ "new": [
+  "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+ ],
+ "held": [
+  "wb-akvan-farmers-relief-212-crore-suvendu-drain-fields"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "markets band figures are more than 6 hours old while the market is open: 2026-11-20T16:28:00+05:30"
+ ],
+ "lead": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen"
+}
