@@ -22,7 +22,7 @@
       "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval"
     ],
     "relatedBeside": [
-      "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
+      "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen"
     ],
     "live": {
       "title": {
@@ -33,6 +33,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "lead": {
+          "en": "Netherlands:",
+          "hi": "नीदरलैंड:"
+        },
+        "text": {
+          "en": "India and the Netherlands hold their first Foreign Ministers' Meeting to review the new strategic partnership",
+          "hi": "भारत और नीदरलैंड की पहली विदेश मंत्री बैठक, नई रणनीतिक साझेदारी की समीक्षा"
+        }
+      },
       {
         "link": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "lead": {
@@ -175,17 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rbi-panchayat-finances-grants-90-per-cent-report",
+      "id": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
       "also": []
     },
     "list": [
+      "rbi-panchayat-finances-grants-90-per-cent-report",
       "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
       "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
       "rafale-india-active-fleet-32-of-36-four-lost-claim",
-      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-      "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
+      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
     ],
-    "also": []
+    "also": [
+      "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
+    ]
   },
   "startHere": [
     "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
@@ -412,19 +425,17 @@
   "desks": [
     {
       "section": "world",
-      "lead": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+      "lead": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
       "list": [
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
         "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory",
-        "tara-gas-navig8-messi-indian-seafarers-hormuz",
-        "india-japan-2plus2-tokyo-rajnath-jaishankar-koizumi-motegi"
+        "tara-gas-navig8-messi-indian-seafarers-hormuz"
       ]
     },
     {
       "section": "science",
       "lead": "perseverance-mars-complex-organic-carbon-bright-angel",
-      "list": [
-        "nasa-el-nino-2026-bigger-than-1997-sea-level-sentinel-6-india-winter"
-      ]
+      "list": []
     },
     {
       "section": "sports",
@@ -506,20 +517,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-22T08:34:08+05:30",
-      "ids": [
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us",
-        "manipur-chandel-spurious-liquor-deaths",
-        "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
-        "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-        "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
-      ]
-    },
     {
       "at": "2026-11-22T11:25:45+05:30",
       "ids": [
@@ -613,6 +610,23 @@
         "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
         "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
         "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+        "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
+      ]
+    },
+    {
+      "at": "2026-11-23T08:24:00+05:30",
+      "ids": [
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
+        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
+        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
         "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "rbi-panchayat-finances-grants-90-per-cent-report",
         "india-canada-cepa-sixth-round-concludes-goyal-sidhu",

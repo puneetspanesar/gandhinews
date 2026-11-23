@@ -1,0 +1,21 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-23T08:03:53+05:30",
+ "end": "2026-11-23T08:26:16+05:30",
+ "summary": "1 story: India-Netherlands first foreign ministers' meeting; thin overnight window",
+ "new": [
+  "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+   "why": "Main picture of S. Jaishankar is an extreme close crop: the top of the head and hair are cut off and the left side of the face is clipped (rule 3, cut-off head, badly cropped face). Shown at full size on the homepage as the second lead.",
+   "done": "Main photo replaced with a properly framed Jaishankar portrait (head and shoulders, flag behind) via quick_photo.py; undelivered Vaishnaw in-story photo block removed from both languages."
+  }
+ ],
+ "breaches": [],
+ "lead": "odisha-akvan-damage-assessment-100-year-flood-plan"
+}

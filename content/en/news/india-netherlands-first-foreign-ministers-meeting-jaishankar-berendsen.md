@@ -122,10 +122,6 @@ The May roadmap, a seven-page document for 2026 to 2030, sets out cooperation in
 
 Several of those pieces were signed in The Hague. They include a memorandum on semiconductors, a **letter of intent on defence cooperation**, a memorandum on critical minerals, a migration and mobility memorandum and a green hydrogen roadmap. A Joint Trade and Investment Committee and a Fast Track Mechanism were set up for business. The Netherlands said it would join the Indo-Pacific Oceans Initiative and supports India's bid for a permanent UN Security Council seat.
 
-```photo
-{"n":1,"subject":"Ashwini Vaishnaw","caption":"Union Minister Ashwini Vaishnaw, whom Berendsen is due to meet on Monday.","alt":"Union Minister Ashwini Vaishnaw"}
-```
-
 ## The trade and investment base
 
 The Netherlands is a larger economic partner than its size suggests. Merchandise trade came to **$27.8 billion in 2024-25**, about 2.4% of India's total, according to the Ministry of External Affairs. India sold $22.7 billion of goods there, which makes the Netherlands India's third largest export destination worldwide and its largest in Europe, helped by the Port of Rotterdam as a gateway into the continent.
