@@ -1,0 +1,69 @@
+{
+  "a": {
+    "query": "Sanjay Malhotra RBI governor",
+    "candidates": []
+  },
+  "b": {
+    "query": "Tata Motors factory Pune",
+    "candidates": []
+  },
+  "c": {
+    "query": "Hyundai Chennai plant",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:HyundaiChennai.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:HyundaiChennai.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/HyundaiChennai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 3072,
+        "height": 2304,
+        "licence": "Public domain",
+        "author": "L.vivian.richard at English Wikipedia",
+        "credit": "Transferred from en.wikipedia to Commons by BishkekRocks using CommonsHelper.",
+        "date": "18 October 2007 (original upload date)",
+        "description": "Hyundai's manufacturing plant near Chennai",
+        "thumb": "c-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HyundaiChennai.JPG/1600px-HyundaiChennai.JPG"
+      }
+    ]
+  },
+  "d": {
+    "query": "Foxconn Sriperumbudur",
+    "candidates": []
+  },
+  "e": {
+    "query": "Manufacturing India factory workers",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:An armored car near the end of the assembly line in one of India’s war factories.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:An_armored_car_near_the_end_of_the_assembly_line_in_one_of_India%E2%80%99s_war_factories.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/An_armored_car_near_the_end_of_the_assembly_line_in_one_of_India%E2%80%99s_war_factories.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1841,
+        "height": 2551,
+        "licence": "Public domain",
+        "author": "National Museum of the U.S. Navy",
+        "credit": "Lot 9439-3",
+        "date": "February-March 1942",
+        "description": "Lot 9439-3: India’s Other Front. Fighting India has another front, the battle of the assembly lines. Aided by the mass production methods for which America is famed, its industrial workers are speedin",
+        "thumb": "e-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/An_armored_car_near_the_end_of_the_assembly_line_in_one_of_India%E2%80%99s_war_factories.jpg/1600px-An_armored_car_near_the_end_of_the_assembly_line_in_one_of_India%E2%80%99s_war_factories.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:The War in Pictures Art.IWMPST15680.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:The_War_in_Pictures_Art.IWMPST15680.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_War_in_Pictures_Art.IWMPST15680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 664,
+        "height": 800,
+        "licence": "Public domain",
+        "author": "Unknown (artist), Information Office (publisher/sponsor)",
+        "credit": "http://media.iwm.org.uk/iwm/mediaLib//157/media-157379/large.jpg This photograph Art.IWM PST 15680 comes from the collec",
+        "date": "25 March 1942 (Second World War)",
+        "description": "The War in Pictures whole: the 14 images occupy the majority. The title is separate and positioned across the top edge, in green. The text is separate and placed in the upper centre and beneath each i",
+        "thumb": "e-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_War_in_Pictures_Art.IWMPST15680.jpg"
+      }
+    ]
+  }
+}
