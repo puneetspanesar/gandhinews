@@ -6,15 +6,15 @@ type: news
 section: states
 format_label: "राज्य / तमिलनाडु"
 topics: [supreme-court]
-title: "तमिलनाडु ने थिरुपरनकुंद्रम दीप आदेश की समीक्षा मांगी; भाजपा ने राज्य सरकार पर साधा निशाना"
-standfirst: "राज्य के एचआर एंड सीई आयुक्त ने शनिवार को 24 नवंबर के लिए एक बार कार्तिगई दीपम की अनुमति के खिलाफ पुनर्विचार याचिका दाखिल की। भाजपा ने इसे हिंदू-विरोधी कहा; सरकार कानूनी विशेषज्ञों से सलाह ले रही है।"
+title: "तमिलनाडु ने त्योहार से एक दिन पहले थिरुपरनकुंद्रम दीप आदेश पर रोक मांगी"
+standfirst: "समीक्षा याचिका के साथ राज्य ने अंतरिम रोक और 24 नवंबर से पहले सुनवाई की मांग की है, ऐसी रिपोर्ट है। सुनवाई की कोई तारीख तय नहीं है; भाजपा ने इस कदम को हिंदू-विरोधी कहा है।"
 published: 2026-11-21T08:07:49+05:30
-updated: 2026-11-22T20:10:00+05:30
+updated: 2026-11-23T14:20:00+05:30
 location: नई दिल्ली
 keyPoints:
-  - "तमिलनाडु के एचआर एंड सीई आयुक्त ने सुप्रीम कोर्ट के एक बार दीप जलाने के आदेश के खिलाफ **21 नवंबर को पुनर्विचार याचिका दाखिल की**।"
+  - "21 नवंबर की राज्य की पुनर्विचार याचिका में एक बार दीप जलाने के आदेश पर **अंतरिम रोक** मांगी गई है, ऐसी रिपोर्ट है।"
   - "भाजपा प्रवक्ता सुधांशु त्रिवेदी ने कहा कि राज्य सरकार आदेश को **लागू न करने पर अड़ी** है।"
-  - "दीप अब भी **24 नवंबर** को जलना है; पुनर्विचार की सुनवाई की कोई तारीख ज्ञात नहीं है।"
+  - "दीप अब भी **24 नवंबर** को जलना है; समीक्षा या रोक की अर्जी पर **सुनवाई की कोई तारीख** सामने नहीं आई है।"
 hero:
   need: "मदुरै में थिरुपरनकुंद्रम पहाड़ी और सुब्रमण्य स्वामी मंदिर, बेहतर हो तो पहाड़ी की चोटी और मंदिर का गोपुरम"
   suggested_source: "Thiruparankundram Subramanya Swamy temple"
@@ -38,6 +38,16 @@ seo:
   description: "सुप्रीम कोर्ट ने मद्रास हाईकोर्ट के फैसले पर रोक लगाई और थिरुपरनकुंद्रम के दीपथून पर 24 नवंबर को सख्त शर्तों के साथ एक बार कार्तिगई दीपम की अनुमति दी।"
 related: [supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board]
 sources:
+  - title: "Thiruparankundram Deepathoon: TN seeks stay on SC order"
+    publisher: "NewsBricks"
+    date: 2026-11-23
+    url: "https://www.newsbricks.com/tamil-nadu/thiruparankundram-deepathoon-tamil-nadu-sc-order"
+    primary: false
+  - title: "Karthigai Deepam Row: TN seeks SC review of lamp order"
+    publisher: "The Open Press"
+    date: 2026-11-23
+    url: "https://theopenpress.in/article/tamil-nadu-supreme-court-karthigai-deepam-review"
+    primary: false
   - title: "Tamil Nadu seeks review of Supreme Court's one-time Karthigai Deepam order for Thiruparankundram Deepathoon"
     publisher: "LawBeat"
     date: 2026-11-22
@@ -111,6 +121,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update of November 23, 2:20 pm IST: see English file."
     - "PRIMARY NOT OPENED: the November 20 order PDF on sci.gov.in could not be located or fetched. Order terms come from five consistent reports (Supreme Court Observer, LiveLaw, Bar & Bench, LawBeat, The News Minute). The primary source linked is the Madras High Court judgment of January 6, 2026 that the order stays (read this run: cause title, bench, date, paras 2 to 6); the Supreme Court's own order was not yet on its website."
     - "Central force: LiveLaw, The News Minute and Outlook say CISF may be deployed; Supreme Court Observer and LawBeat say CRPF. Copy says central paramilitary help without naming the force."
     - "Quotes from the order are as reported by Bar & Bench, LawBeat and The News Minute; they may be close paraphrase of the order text."
@@ -118,6 +129,8 @@ verification:
     - "No statement from the Tamil Nadu (TVK) government after the order found; its position is taken from counsel's arguments in court. Annamalai is described in one report as a former BJP leader; copy gives only his name."
     - "SLP petitioner: LawBeat headline case title lists Commissioner HR&CE first; Bar & Bench says the State's appeal. Copy says the State and the HR&CE Commissioner."
 ---
+
+**अपडेट, 23 नवंबर, दोपहर 2:20 बजे:** तमिलनाडु सरकार की पुनर्विचार याचिका में **सुप्रीम कोर्ट के 20 नवंबर के निर्देशों पर अंतरिम रोक** और समारोह से पहले खुली अदालत में सुनवाई की मांग भी बताई गई है। सोमवार को छपी रिपोर्टों के अनुसार राज्य का तर्क है कि मुख्य विवाद तय होने से पहले दीप जलाने के नतीजे वापस नहीं लिए जा सकेंगे: एक बार दीप जल गया तो बाद का कोई आदेश उसे अनहुआ नहीं कर सकता, और मौजूदा व्यवस्था प्रतिस्पर्धी दावों की जांच तक जस की तस रहनी चाहिए। याचिका में यह भी कहा गया बताया जाता है कि दावा किए गए रिवाज पर प्रथम दृष्टया निष्कर्ष के बिना अनुमति दी गई, और समारोह हो जाने पर समीक्षा निरर्थक हो जाएगी, इसलिए तत्काल विचार मांगा गया है। रोक की अर्जी पर सुनवाई की तारीख या पीठ किसी रिपोर्ट में नहीं मिली, और याचिका का कोर्ट का अपना रिकॉर्ड उपलब्ध नहीं था।
 
 तमिलनाडु सरकार ने सुप्रीम कोर्ट से **थिरुपरनकुंद्रम दीप पर अपने आदेश की समीक्षा** मांगी है। राज्य के हिंदू धार्मिक एवं पूर्त विभाग (एचआर एंड सीई) के आयुक्त ने शनिवार, 21 नवंबर को पुनर्विचार याचिका दाखिल की, यानी जस्टिस अरविंद कुमार और जस्टिस विपुल एम पंचोली की पीठ के उस आदेश के एक दिन बाद, जिसमें मदुरै के ऊपर पत्थर के स्तंभ दीपथून पर 24 नवंबर को एक बार कार्तिगई दीपम जलाने की अनुमति दी गई थी। भाजपा ने रविवार, 22 नवंबर को राज्य सरकार पर हमला बोला।
 
@@ -177,7 +190,7 @@ verification:
 
 ## 24 नवंबर को क्या होगा, और आगे
 
-पुनर्विचार याचिका अपने आप में आदेश पर रोक नहीं लगाती, और अब तक की किसी रिपोर्ट में नहीं है कि कोर्ट इसे त्योहार से पहले सुनेगा। कोर्ट कुछ और न कहे तो 24 नवंबर की व्यवस्था कायम रहेगी।
+पुनर्विचार याचिका अपने आप में आदेश पर रोक नहीं लगाती, और अब तक की किसी रिपोर्ट में नहीं है कि कोर्ट समीक्षा या कथित रोक की अर्जी त्योहार से पहले सुनेगा। कोर्ट कुछ और न कहे तो 24 नवंबर की व्यवस्था कायम रहेगी। चूंकि राज्य खुद कहता है कि दीप जलाना वापस नहीं हो सकता, इसलिए सोमवार या मंगलवार को कोर्ट का रुख तय करेगा कि समीक्षा सुनी भी जाएगी या नहीं।
 
 दीप **मंगलवार, 24 नवंबर** को कलेक्टर द्वारा तय दल जलाएगा, प्रशासन के तय समय पर। हिंदू मुन्नानी की श्रद्धालुओं से जुटने की अपील आदेश से मेल नहीं खाती, क्योंकि आदेश आम लोगों को स्थल पर जाने से रोकता है, इसलिए जिला प्रशासन के इंतजाम अहम होंगे। कलेक्टर की रिपोर्ट त्योहार के तीन दिन के भीतर देनी है।
 

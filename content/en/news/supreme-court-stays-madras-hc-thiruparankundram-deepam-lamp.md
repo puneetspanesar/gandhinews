@@ -5,15 +5,15 @@ type: news
 section: states
 format_label: "States / Tamil Nadu"
 topics: [supreme-court]
-title: "Tamil Nadu seeks review of Supreme Court order on Thiruparankundram lamp; BJP attacks state"
-standfirst: "The state's HR&CE Commissioner filed a review petition on Saturday against the one-time Karthigai Deepam permission for November 24. The BJP called the move anti-Hindu; the government says it is consulting legal experts."
+title: "Tamil Nadu seeks stay of Supreme Court order on Thiruparankundram lamp a day before the festival"
+standfirst: "Along with its review petition against the one-time Karthigai Deepam permission, the state is reported to be seeking an interim stay and a hearing before November 24. No date has been fixed; the BJP calls the move anti-Hindu."
 published: 2026-11-21T08:07:49+05:30
-updated: 2026-11-22T20:10:00+05:30
+updated: 2026-11-23T14:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Tamil Nadu HR&CE Commissioner **filed a review petition on November 21** against the Supreme Court's one-time lamp order."
+  - "The state's review petition of November 21 is reported to **seek an interim stay** of the one-time lamp order."
   - "BJP spokesperson Sudhanshu Trivedi said the state is **'hell-bent on not implementing'** the order."
-  - "The lamp is still due on **November 24**; no hearing date for the review is known."
+  - "The lamp is still due on **November 24**; **no hearing date** has been reported for the review or the stay plea."
 hero:
   need: "Thiruparankundram hill and the Subramaniya Swamy temple, Madurai, ideally with the hill top and the temple gopuram"
   suggested_source: "Thiruparankundram Subramanya Swamy temple"
@@ -37,6 +37,16 @@ seo:
   description: "The Supreme Court stayed the Madras High Court judgment and allowed a one-time Karthigai Deepam at the Thiruparankundram Deepathoon on November 24 under strict limits."
 related: [supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board]
 sources:
+  - title: "Thiruparankundram Deepathoon: TN seeks stay on SC order"
+    publisher: "NewsBricks"
+    date: 2026-11-23
+    url: "https://www.newsbricks.com/tamil-nadu/thiruparankundram-deepathoon-tamil-nadu-sc-order"
+    primary: false
+  - title: "Karthigai Deepam Row: TN seeks SC review of lamp order"
+    publisher: "The Open Press"
+    date: 2026-11-23
+    url: "https://theopenpress.in/article/tamil-nadu-supreme-court-karthigai-deepam-review"
+    primary: false
   - title: "Tamil Nadu seeks review of Supreme Court's one-time Karthigai Deepam order for Thiruparankundram Deepathoon"
     publisher: "LawBeat"
     date: 2026-11-22
@@ -110,6 +120,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update of November 23, 2:20 pm IST: stay plea and grounds from NewsBricks (1:19 pm) and The Open Press (8:04 am); News Today and Oneindia (same morning) confirm the review but give no grounds or stay plea, so the stay plea is hedged as reported. Filing date of the stay plea not given. No hearing date, bench or listing found. Today's SC proceedings (LiveLaw alerts, Nov 23) have no Thiruparankundram item. PIB and the sci.gov.in order were not reachable. Order page unchanged: primary remains the Madras HC judgment."
     - "Update of November 22, 8 pm IST: review petition filed November 21 by the HR&CE Commissioner (ThePrint/PTI, The Week, LawBeat). Grounds not reported anywhere read. Trivedi quotes from ThePrint/PTI. Ministers' quotes (Nirmal Kumar, Vanni Arasu) from The Week only, hedged as reported; the same report also names M K Stalin as Chief Minister, which conflicts with ThePrint/PTI (C Joseph Vijay) and with our earlier copy, so that line was left out. ANI page could not be fetched."
     - "PRIMARY NOT OPENED: the November 20 order PDF on sci.gov.in could not be located or fetched. Order terms come from five consistent reports (Supreme Court Observer, LiveLaw, Bar & Bench, LawBeat, The News Minute). The primary source linked is the Madras High Court judgment of January 6, 2026, that the order stays (read this run: cause title, bench, date, paras 2 to 6); the Supreme Court's own order was not yet on its website."
     - "Central force: LiveLaw, The News Minute and Outlook say CISF may be deployed; Supreme Court Observer and LawBeat say CRPF. Copy says central paramilitary help without naming the force."
@@ -119,9 +130,11 @@ verification:
     - "SLP petitioner: LawBeat headline case title lists Commissioner HR&CE first; Bar & Bench says the State's appeal. Copy says the State and the HR&CE Commissioner."
 ---
 
+**Update, November 23, 2:20 pm IST:** The Tamil Nadu government's review petition is also reported to ask for an **interim stay of the Supreme Court's November 20 directions** and for a hearing in open court before the ceremony. According to reports published on Monday, the state's case is that lighting the lamp before the main dispute is decided could have irreversible consequences: once it is lit, a later order cannot undo it, and the existing arrangement should stay undisturbed until the competing claims are examined. The petition is also reported to question the permission being given without a prima facie finding on the claimed custom, and to say the review would become infructuous once the ceremony is held, which is why urgent consideration is sought. No report read by this desk gives a hearing date or a bench for the stay plea, and the court's own record of the petition was not available.
+
 The Tamil Nadu government has asked the Supreme Court to **review its order on the Thiruparankundram lamp**. The Commissioner of the state's Hindu Religious and Charitable Endowments (HR&CE) Department filed the review petition on Saturday, November 21, a day after a bench of Justices Aravind Kumar and Vipul M Pancholi allowed the Karthigai Deepam to be lit at the Deepathoon, a stone pillar above Madurai, as a one-time measure on November 24. The BJP attacked the state on Sunday, November 22.
 
-The case is titled Commissioner HR & CE v Rama Ravikumar and connected matters. The grounds of the petition were not available when this report was written, and no date has been given for hearing it. The main appeals are set for the second week of January 2027, and the lighting is still due on Tuesday, November 24.
+The case is titled Commissioner HR & CE v Rama Ravikumar and connected matters. No date has been given for hearing it. The main appeals are set for the second week of January 2027, and the lighting is still due on Tuesday, November 24.
 
 ## The BJP's attack
 
@@ -177,7 +190,7 @@ The state's stand before the order is on record from its counsel in court; its p
 
 ## What happens on November 24, and next
 
-The review petition does not by itself stay the order, and nothing reported so far says the court will hear it before the festival. Unless the court says otherwise, the arrangement for November 24 stands.
+A review petition does not by itself stay the order, and nothing reported so far says the court will hear the review or the reported stay plea before the festival. Unless the court says otherwise, the arrangement for November 24 stands. Because the state itself argues that the lighting cannot be undone, the court's response on Monday or Tuesday decides whether the review is heard at all.
 
 The lamp is to be lit on **Tuesday, November 24**, by the team the Collector names, at a time the administration fixes. The Hindu Munnani's call to devotees to gather is at odds with the order, which bars the public from the spot, so the district administration's arrangements will matter. The Collector's report is due within three days of the festival.
 
