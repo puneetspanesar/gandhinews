@@ -53226,7 +53226,20 @@
   "licence": "CC BY 2.0",
   "alt": "A flooded street in Chennai after heavy monsoon rain (file photo)",
   "alt_hi": "भारी मानसूनी बारिश के बाद चेन्नई की पानी भरी सड़क (फाइल फोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_01_(3058208937).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_01_(3058208937).jpg",
+  "treated": {
+   "src": "/photos/t-tamil-nadu-yellow-alert-21-districts-easterly-waves-november-1280.jpg",
+   "src800": "/photos/t-tamil-nadu-yellow-alert-21-districts-easterly-waves-november-640.jpg",
+   "cutout": false,
+   "with": [
+    "tamil-nadu-kerala-heavy-rain-deepavali-eight-districts-imd",
+    "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
+    "puducherry-karaikal-dindigul-schools-shut-cyclone-signal"
+   ],
+   "kind": "photo",
+   "subj": "3c050107071ffcf8",
+   "credit": "Photos: McKay Savage from London, UK / Wikimedia Commons; MPVK / Wikimedia Commons"
+  }
  },
  "rbi-stop-switch-trusted-person-draft-digital-fraud": {
   "id": "r-rbi-stop-switch-trusted-person-draft-digital-fraud",
@@ -53238,6 +53251,19 @@
   "licence": "CC BY 3.0",
   "alt": "The Reserve Bank of India building on Mint Road, Mumbai (file photo)",
   "alt_hi": "मुंबई के मिंट रोड पर भारतीय रिज़र्व बैंक की इमारत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_reserve_bank_of_india_02.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_reserve_bank_of_india_02.jpg",
+  "treated": {
+   "src": "/photos/t-rbi-stop-switch-trusted-person-draft-digital-fraud-1280.jpg",
+   "src800": "/photos/t-rbi-stop-switch-trusted-person-draft-digital-fraud-640.jpg",
+   "cutout": false,
+   "with": [
+    "digital-arrest-victims-should-be-repaid-by-the-bank-first",
+    "wpi-inflation-october-data-due-monday-rbi-december",
+    "fcnr-deposits-swell-hdfc-icici-axis-balance-sheets"
+   ],
+   "kind": "photo",
+   "subj": "ffffffc686040404",
+   "credit": "Photos: Sailko / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; 2300032369 G Priya Varshitha / Wikimedia Commons; Manukrishnan80 / Wikimedia Commons"
+  }
  }
 }

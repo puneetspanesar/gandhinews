@@ -63,7 +63,7 @@ verification:
   status: approved
   notes:
     - "RBI draft listing and press release id 64026 (Nov 23) opened; the page showed only title and links, and the PDF of the draft (rbidocs.rbi.org.in) was blocked in this run. Operative details are from Business Standard, The Pioneer, Business Today, News On AIR, Upstox and Siasat, which agree with one another."
-    - "Effective dates (January 1, 2027 for the wider negligence definition, July 1, 2027 for most other directions) are from The Pioneer only; written as 'a report said'."
+    - "Effective dates (January 1, 2027, for the wider negligence definition, July 1, 2027, for most other directions) are from The Pioneer only; written as 'a report said'."
     - "Negligence examples (no multi-factor check for new account links, no mandatory alerts, no 24x7 reporting channel) are from Siasat only; they are existing items in the June 24 directions as described, not the new additions."
     - "No rupee thresholds are given in any report: trusted-person limit is set by the customer, the first-24-hours cap by each bank."
 ---
@@ -96,7 +96,7 @@ The trusted person cannot operate the account, see balances or hold any financia
 
 ## How we got here
 
-The draft builds on the RBI's June 24, 2026 directions, which dealt with **who pays when a customer is defrauded**. The regulator says that framework was largely about liability after the event and that "a need is felt to strengthen the same from a preventive perspective", with customers getting "greater control over the manner and extent to which digital payment channels may be used". Reports say two ideas in the April 9 discussion paper, a one-hour delay on some high-value transfers and an annual credit ceiling, have been dropped.
+The draft builds on the RBI's June 24, 2026, directions, which dealt with **who pays when a customer is defrauded**. The regulator says that framework was largely about liability after the event and that "a need is felt to strengthen the same from a preventive perspective", with customers getting "greater control over the manner and extent to which digital payment channels may be used". Reports say two ideas in the April 9 discussion paper, a one-hour delay on some high-value transfers and an annual credit ceiling, have been dropped.
 
 The draft also proposes to widen the definition of "negligence by a bank" in the June directions, so that practices are uniform across lenders. One report said the wider definition would cover a bank's own system failure or security breach that enables fraud, and collusion by a bank employee or a third party the bank has engaged.
 
@@ -104,4 +104,4 @@ The Supreme Court has been pressing the same issue. On [November 10 it told the 
 
 ## What happens next
 
-Banks, customers and other stakeholders can send comments through the "Connect 2 Regulate" section of the RBI website or by email until December 14. One report said the negligence definition would take effect from January 1, 2027 and most other directions from July 1, 2027, but the dates should be read against the final text. Banks would need to offer the controls through branches, ATMs, internet and mobile banking and phone banking, alert customers at once to any change, and keep tamper-proof logs.
+Banks, customers and other stakeholders can send comments through the "Connect 2 Regulate" section of the RBI website or by email until December 14. One report said the negligence definition would take effect from January 1, 2027, and most other directions from July 1, 2027, but the dates should be read against the final text. Banks would need to offer the controls through branches, ATMs, internet and mobile banking and phone banking, alert customers at once to any change, and keep tamper-proof logs.
