@@ -1,0 +1,45 @@
+{
+  "k1": {
+    "query": "Trucks on Delhi highway",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Road NH 48 to the Shekhawati-Decorated truck-20131007.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Road_NH_48_to_the_Shekhawati-Decorated_truck-20131007.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Road_NH_48_to_the_Shekhawati-Decorated_truck-20131007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4805,
+        "height": 3203,
+        "licence": "CC BY-SA 3.0",
+        "author": "Daniel VILLAFRUELA",
+        "credit": "Own work",
+        "date": "Taken on 7 October 2013",
+        "description": "Decorated truck on the road NH 48 B .",
+        "thumb": "k1-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Road_NH_48_to_the_Shekhawati-Decorated_truck-20131007.jpg/1600px-Road_NH_48_to_the_Shekhawati-Decorated_truck-20131007.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Road NH 48 to the Shekhawati-Waste collect-20131007.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Road_NH_48_to_the_Shekhawati-Waste_collect-20131007.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Road_NH_48_to_the_Shekhawati-Waste_collect-20131007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 5164,
+        "height": 3442,
+        "licence": "CC BY-SA 3.0",
+        "author": "Daniel VILLAFRUELA",
+        "credit": "Own work",
+        "date": "Taken on 7 October 2013",
+        "description": "Garbage collect in Narnaul. As in the rest of the trip feeling like dirt is reinforced by the proliferation of plastic packaging, which will not be destroyed by incineration due to pollution.",
+        "thumb": "k1-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Road_NH_48_to_the_Shekhawati-Waste_collect-20131007.jpg/1600px-Road_NH_48_to_the_Shekhawati-Waste_collect-20131007.jpg"
+      }
+    ]
+  },
+  "k2": {
+    "query": "Delhi border toll plaza trucks",
+    "candidates": []
+  },
+  "k3": {
+    "query": "Kundli border Delhi",
+    "candidates": []
+  }
+}
