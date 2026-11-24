@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-24",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -936,10 +936,10 @@
       "bench_size": 3,
       "bench": "Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice V Mohana",
       "status": "pending",
-      "status_text": "States given two weeks to file vehicle plans; listed on 23 Nov 2026",
-      "last_date": "2026-11-06",
-      "last_event": "The bench said stubble burning had declined substantially while vehicular emissions had risen sharply, and gave Delhi, Haryana, Uttar Pradesh and Rajasthan two weeks to say how they will regulate polluting vehicles, with specific enforcement measures and a time-bound roadmap, and to reply to suggestions from the Commission for Air Quality Management and the amici.",
-      "next_step": "States' filings due about 20 Nov 2026; vehicular emissions listed on 23 Nov; crop residue and firecracker burning on 25 Nov; construction, power plants and industry on 26 Nov 2026.",
+      "status_text": "Heard on 23 Nov 2026; oral remarks only, written order awaited",
+      "last_date": "2026-11-23",
+      "last_event": "At the 23 Nov hearing the bench said orally that it was clear it would allow only BS-VI vehicles in Delhi, if not the NCR, and floated keeping commercial vehicles out of Delhi within about five years. No direction was passed; a written order is to follow.",
+      "next_step": "Written order of 23 Nov awaited; crop residue and firecracker burning listed on 25 Nov; construction, power plants and industry on 26 Nov 2026.",
       "sources": [
         {
           "title": "Delhi Air Pollution: Supreme Court flags sharp rise in vehicular emissions, seeks response on inter-state vehicle regulation",
@@ -952,6 +952,12 @@
           "publisher": "Daily Pioneer",
           "date": "2026-11-10",
           "url": "https://dailypioneer.com/law-justice/supreme-court-delhi-ncr-vehicle-pollution-action-plan"
+        },
+        {
+          "title": "Supreme Court says will consider allowing only BS-VI vehicles in Delhi-NCR",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-23",
+          "url": "https://www.barandbench.com/news/supreme-court-says-will-consider-allowing-only-bs-vi-vehicles-in-delhi-ncr"
         }
       ],
       "notes": "The Supreme Court order itself (sci.gov.in) could not be opened; the 6 Nov date, bench and directions rest on two independent reports that agree. Hearing calendar as set out in our 12 Nov story. The case name and number are not given in the sources read."

@@ -1,0 +1,173 @@
+---
+id: fpi-additional-disclosure-framework-explained-sebi-proposal
+lang: hi
+translation_of: fpi-additional-disclosure-framework-explained-sebi-proposal
+type: explainer
+section: economy
+format_label: "समझिए / बाज़ार"
+topics: [economy]
+title: "एफपीआई प्रकटीकरण नियम क्या है: सेबी इसे क्यों हटाना चाहता है और कांग्रेस को क्या आपत्ति है"
+standfirst: "सेबी ने सबसे बड़े विदेशी फंडों से उनके हर मालिक का नाम मांगने वाला अतिरिक्त नियम खत्म करने का प्रस्ताव रखा है। यह नियम क्या है, अडानी विवाद के बाद क्यों बना, और दोनों पक्ष क्या कहते हैं।"
+published: 2026-11-24T06:50:00+05:30
+shortAnswer: "अतिरिक्त प्रकटीकरण ढांचा उन विदेशी पोर्टफोलियो निवेशकों (एफपीआई) से, जिनके पास भारतीय शेयरों में ₹50,000 करोड़ से ज़्यादा है या जिनकी आधी से ज़्यादा भारतीय हिस्सेदारी एक ही कॉर्पोरेट समूह में है, उन्हें नियंत्रित करने वाले हर व्यक्ति का नाम मांगता है। यह 24 अगस्त 2023 को अडानी विवाद के बाद आया। 20 नवंबर 2026 को सेबी ने इसे खत्म करने का प्रस्ताव रखा, यह कहते हुए कि यह विदेशी नियमों से ज़्यादा सख्त है और निवेशकों को दूर करता है। कांग्रेस का कहना है कि इससे खामी फिर खुलेगी। टिप्पणियां 11 दिसंबर तक।"
+hero:
+  need: "मुंबई में सेबी भवन, उस नियामक का मुख्यालय जिसने नियम हटाने का प्रस्ताव रखा"
+  suggested_source: "SEBI Bhavan"
+  alt: "मुंबई में सेबी भवन, भारतीय प्रतिभूति और विनिमय बोर्ड का मुख्यालय (फ़ाइल फ़ोटो)"
+  overlay:
+    value: "वो नियम जो सेबी हटाना चाहता है"
+related: [sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress, foreign-investors-return-explained-fii-dii-sensex-rally, fpi-outflows-record-3-trillion-2026]
+infographic:
+  kicker: "एफपीआई प्रकटीकरण नियम"
+  headline: "सेबी जो लुक-थ्रू नियम हटाना चाहता है"
+  dek: "₹50,000 करोड़ से बड़े या आधी भारतीय रकम एक समूह में रखने वाले फंडों पर लागू"
+  motif: scales
+  stats:
+    - {icon: currency-inr, value: "₹50,000 करोड़", label: "आकार की सीमा, अप्रैल 2025 में ₹25,000 करोड़ से बढ़ी"}
+    - {icon: calendar, value: "11 दिसंबर", label: "जनता की टिप्पणियों की अंतिम तारीख"}
+  timeline:
+    - {date: "24 अगस्त 2023", text: "ढांचा लागू हुआ", icon: file-text}
+    - {date: "9 अप्रैल 2025", text: "आकार की सीमा दोगुनी", icon: currency-inr}
+    - {date: "15 मार्च 2026", text: "प्रेस नोट 2 ने लाभार्थी स्वामी को नए सिरे से परिभाषित किया", icon: scales}
+    - {date: "20 नवंबर 2026", text: "सेबी का हटाने का प्रस्ताव", icon: megaphone}
+  source: "सेबी परामर्श पत्र, 20 नवंबर 2026"
+seo:
+  title: "सेबी का एफपीआई प्रकटीकरण नियम क्यों हटे, कौन विरोध में"
+  description: "विदेशी फंडों का अतिरिक्त प्रकटीकरण ढांचा क्या है, 2023 में क्यों बना, सेबी ने 20 नवंबर 2026 को इसे हटाने का प्रस्ताव क्यों रखा और कांग्रेस क्या कहती है।"
+sources:
+  - title: "Consultation Paper on proposal to review the Additional Disclosure Framework for Foreign Portfolio Investors (public comments, due December 11, 2026)"
+    publisher: "Securities and Exchange Board of India"
+    date: 2026-11-20
+    url: "https://www.sebi.gov.in/sebiweb/publiccommentv2/PublicCommentAction.do?doPublicComments=yes"
+    primary: true
+  - title: "Sebi mandates granular disclosure for certain FPIs, prescribes timeline"
+    publisher: "Business Standard"
+    date: 2023-08-24
+    url: "https://www.business-standard.com/markets/news/sebi-mandates-granular-disclosure-for-certain-fpis-prescribes-timeline-123082401487_1.html"
+    primary: false
+  - title: "SEBI Proposes Removal of Additional Disclosure Framework for FPIs; Public Comments invited till December 11, 2026"
+    publisher: "TaxGuru"
+    date: 2026-11-21
+    url: "https://taxguru.in/sebi/sebi-proposes-removal-additional-disclosure-framework-fpis-public-comments-invited-11-december-2026.html"
+    primary: false
+  - title: "SEBI proposals will open window to foreign funds with opaque offshore ownership structures: Congress"
+    publisher: "ThePrint (PTI)"
+    date: 2026-11-22
+    url: "https://theprint.in/india/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-cong/3105548/"
+    primary: false
+verification:
+  status: approved
+  notes:
+    - "The SEBI paper itself could not be opened by the fetch tool. Its contents come from the desk's November 23 news story (a detailed summary of the paper and a PTI report that agree on the November 20 date, the three proposals, the 50% and ₹50,000 crore tests and the December 11 deadline). The primary link is SEBI's public-comment portal. Editor: check against the paper."
+    - "Origin of the framework (August 24, 2023 circular, after the January 2023 Adani revelations) rests on a Business Standard report of the circular and Jairam Ramesh's statement; circular not opened. No compliance timeline is stated."
+    - "Jairam Ramesh's remarks (November 22) and his reading of SEBI's September 2026 Adani order are his own, attributed, not verified. No SEBI, government or industry response found."
+    - "FPI November inflow totals differ by source and cut-off (₹1.12 to ₹1.22 lakh crore); given as a range as of November 22."
+---
+
+## What is an FPI, and why does ownership matter?
+
+**A foreign portfolio investor is a fund based abroad that buys Indian shares and bonds without taking control of a company.** Pension funds, hedge funds, sovereign wealth funds and mutual funds all invest this way. Their money moves in and out fast, which is why a record monthly inflow or outflow makes headlines.
+
+Many of these funds are themselves owned by other funds, trusts or companies, often registered in far-off jurisdictions. A reader of the share register sees only the fund's name. Who actually owns it, and who gives it orders, can stay hidden behind layers. That is the question the rule at the centre of the current debate was written to answer.
+
+## What is the Additional Disclosure Framework?
+
+**It is a rule that makes the largest or most concentrated FPIs name every person behind them.** It comes from Regulations 22(6) and 22(7) of the SEBI (FPI) Regulations, 2019, and an August 24, 2023 circular, later folded into the regulator's Master Circular of May 30, 2024.
+
+An FPI is caught by either of two tests: **more than 50% of its Indian equity assets in a single corporate group**, or **more than ₹50,000 crore of equity assets** in India, alone or together with its investor group. The size limit was ₹25,000 crore until a circular of April 9, 2025 doubled it. A fund that trips a test must disclose everyone who holds ownership, economic interest or control in it, with no minimum ownership share, down to the natural persons. Broad-based pooled funds and government-related investors are exempt on conditions.
+
+```photo
+{"n":1,"subject":"Tuhin Kanta Pandey","caption":"SEBI chairman Tuhin Kanta Pandey, who had said the regulator would bring a paper on simplifying FPI rules.","alt":"SEBI chairman Tuhin Kanta Pandey (file photo)"}
+```
+
+## Why was it brought in?
+
+**Because of the Adani controversy of January 2023.** After a short-seller's report on the Adani group, regulators and critics asked how a few offshore funds came to hold large stakes in group companies, and whether the real owners could be traced. The Congress says the framework was "closed under pressure" after those revelations. SEBI's circular of August 24, 2023 was the answer: funds that were very large, or that had put half their India money in one group, had to look through to their owners.
+
+SEBI's own order of September 2026 closed the Minimum Public Shareholding case against the Adani group. Ramesh quotes it as saying "the material on record does not establish" that Vinod Adani controlled the funds, while acknowledging circumstances that "may legitimately give rise to suspicion". Those are his quotations and his reading, and SEBI has not commented on the link he draws.
+
+## What exactly has SEBI proposed?
+
+**To scrap the framework, in three parts.** The consultation paper of November 20, 2026 proposes removing it for FPIs, for subscribers of offshore derivative instruments, and for FPI segregated portfolios. It asks one question: do commenters agree with removing it for FPIs? It is a proposal only. Nothing changes until SEBI's board has read the comments and decided.
+
+```compare
+{"title":"Who must name the people behind a fund","columns":["Today (framework in force)","If SEBI's proposal is adopted"],"rows":[{"icon":"scales","label":"Large or concentrated FPIs","cells":["Name every person with ownership, economic interest or control, no threshold","Ordinary beneficial-owner rules only"]},{"icon":"percent","label":"Ownership test","cells":["None for these funds","10% or 15% under money-laundering rules, by type of client"]},{"icon":"buildings","label":"Cap on one FPI in one company","cells":["10% of shares","10% of shares"]}]}
+```
+
+## What is SEBI's argument?
+
+**That India asks for more than anyone else, and the investors are leaving.** The paper says that under the Prevention of Money Laundering rules, India already identifies beneficial owners at 10% or 15%, depending on the client. The United States, the United Kingdom, Singapore, Japan and Hong Kong generally use 25%. The look-through rule has no threshold at all.
+
+The paper also says FPIs withdrew **more than ₹5.61 lakh crore between October 2024 and October 2026**, and counts the disclosure rules as one factor among others. It lists practical difficulties: tracing the investors in fund-of-funds, updating details often for hedge funds, and running separate India funds. It calls the concentration test an entry barrier, and notes that one FPI's holding in a listed company is already capped at 10%.
+
+On the size test, SEBI says it was meant to stop the FPI route being used to get around Press Note 3, the rule on investment from countries that share a land border with India. Press Note 2 of March 15, 2026 redefined "beneficial owner" under that rule to match the money-laundering thresholds, so the paper argues the extra step may no longer be needed.
+
+## What do the critics say?
+
+**Congress general secretary Jairam Ramesh says the proposal moves "in the wrong direction".** In a statement on X on November 22, he said India needs foreign investors "but not those with opaque and convoluted offshore ownership structures". He argued that the framework never applied to sovereign wealth or pension funds, so scrapping it would not reverse outflows, and that SEBI's paper itself concedes they have other causes. SEBI, the government and industry bodies had not responded at the time of writing.
+
+```photo
+{"n":2,"subject":"Jairam Ramesh","caption":"Congress general secretary Jairam Ramesh, who has called the proposal a step in the wrong direction.","alt":"Congress leader Jairam Ramesh (file photo)"}
+```
+
+## Why now?
+
+**Foreign money is already returning.** Depository data show foreign investors put a net **₹1.22 lakh crore into Indian shares in the first 22 days of November**, the largest monthly inflow on record; other tallies put it between ₹1.12 lakh crore and ₹1.22 lakh crore. It follows net selling of ₹35,861 crore in September and ₹34,843 crore in October. Supporters of the change read the paper as a way to keep the money coming; opponents read it as loosening a safeguard just when funds are plentiful.
+
+## What happens next?
+
+**Comments are open until December 11, 2026.** Anyone can write in through SEBI's public comments portal. The board will then adopt, amend or drop the proposal. A final rule needs a circular, and the part tied to Press Note 3 would have to be read with the government's own rules. Figures here are as of November 24, 2026.
+
+## एफपीआई क्या है और उसका मालिक कौन है, यह क्यों मायने रखता है?
+
+**विदेशी पोर्टफोलियो निवेशक (एफपीआई) विदेश में बसा वह फंड है जो किसी कंपनी पर नियंत्रण लिए बिना भारतीय शेयर और बॉन्ड खरीदता है।** पेंशन फंड, हेज फंड, सॉवरेन वेल्थ फंड और म्यूचुअल फंड इसी तरह निवेश करते हैं। इनका पैसा तेज़ी से आता-जाता है, इसीलिए किसी महीने का रिकॉर्ड निवेश या निकासी सुर्खियां बनती है।
+
+इनमें से कई फंड खुद दूसरे फंडों, ट्रस्टों या कंपनियों के मालिकाने में होते हैं, अक्सर दूर-दराज़ के देशों में पंजीकृत। शेयर रजिस्टर देखने वाले को सिर्फ फंड का नाम दिखता है। असल में उसका मालिक कौन है और आदेश किसका चलता है, यह परतों के पीछे छिपा रह सकता है। मौजूदा बहस के केंद्र का नियम इसी सवाल का जवाब देने के लिए बना था।
+
+## अतिरिक्त प्रकटीकरण ढांचा क्या है?
+
+**यह ऐसा नियम है जो सबसे बड़े या सबसे केंद्रित एफपीआई से उनके पीछे के हर व्यक्ति का नाम मांगता है।** यह सेबी (एफपीआई) विनियम, 2019 के विनियम 22(6) और 22(7) और 24 अगस्त 2023 के परिपत्र से आया, जिसे बाद में नियामक के 30 मई 2024 के मास्टर परिपत्र में शामिल कर लिया गया।
+
+कोई एफपीआई दो में से किसी एक कसौटी पर आता है: **भारतीय इक्विटी संपत्ति का 50% से ज़्यादा किसी एक कॉर्पोरेट समूह में**, या भारत में **₹50,000 करोड़ से ज़्यादा की इक्विटी संपत्ति**, अकेले या अपने निवेशक समूह के साथ। आकार की सीमा 9 अप्रैल 2025 के परिपत्र तक ₹25,000 करोड़ थी, जिसे दोगुना किया गया। कसौटी पर आने वाले फंड को हर उस व्यक्ति का खुलासा करना होता है जिसके पास स्वामित्व, आर्थिक हित या नियंत्रण है, बिना किसी न्यूनतम हिस्सेदारी के, प्राकृतिक व्यक्तियों तक। व्यापक आधार वाले पूल्ड फंड और सरकार से जुड़े निवेशक शर्तों के साथ छूट में हैं।
+
+```photo
+{"n":1,"subject":"Tuhin Kanta Pandey","caption":"सेबी अध्यक्ष तुहिन कांत पांडेय, जिन्होंने कहा था कि नियामक एफपीआई नियम सरल करने पर पेपर लाएगा।","alt":"सेबी अध्यक्ष तुहिन कांत पांडेय (फ़ाइल फ़ोटो)"}
+```
+
+## यह नियम क्यों लाया गया?
+
+**जनवरी 2023 के अडानी विवाद की वजह से।** अडानी समूह पर एक शॉर्ट-सेलर की रिपोर्ट के बाद नियामकों और आलोचकों ने पूछा कि कुछ विदेशी फंडों के पास समूह की कंपनियों में बड़ी हिस्सेदारी कैसे आई और क्या असली मालिकों का पता लगाया जा सकता है। कांग्रेस का कहना है कि यह ढांचा उन खुलासों के बाद "दबाव में बंद की गई खामी" को भरने के लिए बना। सेबी का 24 अगस्त 2023 का परिपत्र इसका जवाब था: बहुत बड़े फंड, या जिन्होंने भारत की आधी रकम एक समूह में लगाई, उन्हें अपने मालिकों तक की जानकारी देनी थी।
+
+सितंबर 2026 में सेबी के अपने आदेश ने अडानी समूह के खिलाफ न्यूनतम सार्वजनिक शेयरधारिता का मामला बंद किया। रमेश उसे उद्धृत करते हुए कहते हैं कि "रिकॉर्ड की सामग्री यह साबित नहीं करती" कि विनोद अडानी ने फंडों को नियंत्रित किया, जबकि आदेश मानता है कि परिस्थितियां "जायज़ तौर पर संदेह पैदा कर सकती हैं।" ये उनके उद्धरण और उनकी व्याख्या हैं। उन्होंने जो संबंध जोड़ा है, उस पर सेबी ने कुछ नहीं कहा है।
+
+## सेबी ने ठीक-ठीक क्या प्रस्ताव रखा है?
+
+**ढांचे को तीन हिस्सों में खत्म करने का।** 20 नवंबर 2026 का परामर्श पत्र इसे एफपीआई के लिए, ऑफशोर डेरिवेटिव इंस्ट्रूमेंट के ग्राहकों के लिए और एफपीआई के अलग पोर्टफोलियो के लिए हटाने का प्रस्ताव देता है। वह एक सवाल पूछता है: क्या टिप्पणीकार एफपीआई के लिए इसे हटाने से सहमत हैं? यह सिर्फ प्रस्ताव है। सेबी का बोर्ड टिप्पणियां पढ़कर फैसला करे, तब तक कुछ नहीं बदलता।
+
+```compare
+{"title":"फंड के पीछे के लोगों के नाम कौन बताएगा","columns":["आज (ढांचा लागू)","सेबी का प्रस्ताव माना गया तो"],"rows":[{"icon":"scales","label":"बड़े या केंद्रित एफपीआई","cells":["स्वामित्व, आर्थिक हित या नियंत्रण रखने वाले हर व्यक्ति का नाम, कोई सीमा नहीं","सिर्फ सामान्य लाभार्थी-स्वामी नियम"]},{"icon":"percent","label":"स्वामित्व की कसौटी","cells":["इन फंडों के लिए कोई नहीं","मनी लॉन्ड्रिंग नियमों के तहत 10% या 15%, ग्राहक के प्रकार के अनुसार"]},{"icon":"buildings","label":"एक एफपीआई की एक कंपनी में सीमा","cells":["शेयरों का 10%","शेयरों का 10%"]}]}
+```
+
+## सेबी की दलील क्या है?
+
+**कि भारत सबसे ज़्यादा मांगता है और निवेशक जा रहे हैं।** पेपर के अनुसार धन शोधन निवारण नियमों के तहत भारत पहले से ही ग्राहक के प्रकार के आधार पर 10% या 15% पर लाभार्थी स्वामी की पहचान करता है। अमेरिका, ब्रिटेन, सिंगापुर, जापान और हांगकांग आम तौर पर 25% रखते हैं। लुक-थ्रू नियम में कोई सीमा है ही नहीं।
+
+पेपर यह भी कहता है कि एफपीआई ने **अक्टूबर 2024 से अक्टूबर 2026 के बीच 5.61 लाख करोड़ रुपये से ज़्यादा** निकाले, और प्रकटीकरण नियमों को कई कारणों में से एक गिनता है। वह व्यावहारिक मुश्किलें गिनाता है: फंड-ऑफ-फंड में निवेशकों का पता लगाना, हेज फंडों के लिए बार-बार ब्योरा अपडेट करना और भारत के लिए अलग फंड चलाना। वह केंद्रित हिस्सेदारी की कसौटी को प्रवेश में बाधा कहता है और याद दिलाता है कि किसी सूचीबद्ध कंपनी में एक एफपीआई की हिस्सेदारी पहले से 10% पर सीमित है।
+
+आकार की कसौटी के बारे में सेबी कहता है कि वह प्रेस नोट 3, यानी भारत से ज़मीनी सीमा साझा करने वाले देशों से निवेश के नियम, को एफपीआई रास्ते से बायपास करने से रोकने के लिए थी। 15 मार्च 2026 के प्रेस नोट 2 ने इस नियम में "लाभार्थी स्वामी" की परिभाषा मनी लॉन्ड्रिंग की सीमाओं के बराबर कर दी, इसलिए पेपर का तर्क है कि अब अतिरिक्त कदम ज़रूरी नहीं रह सकता।
+
+## आलोचक क्या कहते हैं?
+
+**कांग्रेस महासचिव जयराम रमेश का कहना है कि प्रस्ताव "गलत दिशा में" जाता है।** 22 नवंबर को एक्स पर बयान में उन्होंने कहा कि भारत को विदेशी निवेशक चाहिए, "लेकिन अपारदर्शी और उलझे ऑफशोर स्वामित्व ढांचे वाले नहीं।" उनकी दलील है कि यह ढांचा सॉवरेन वेल्थ या पेंशन फंडों पर कभी लागू ही नहीं था, इसलिए इसे हटाने से निकासी नहीं रुकेगी, और सेबी का पेपर खुद मानता है कि निकासी के और कारण हैं। लिखे जाने तक सेबी, सरकार या उद्योग संगठनों की प्रतिक्रिया नहीं आई थी। बंद हुई खामी फिर खोलने के [उनके दावे की हमने सेबी के बोर्ड दस्तावेज़ों से जांच की](/hi/factcheck/sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim)।
+
+```photo
+{"n":2,"subject":"Bombay Stock Exchange","caption":"मुंबई के दलाल स्ट्रीट पर बॉम्बे स्टॉक एक्सचेंज। यह ढांचा भारतीय सूचीबद्ध शेयर रखने वाले विदेशी फ़ंड पर लागू होता है।","alt":"मुंबई में बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)"}
+```
+
+## यह अभी क्यों?
+
+**विदेशी पैसा पहले से लौट रहा है।** डिपॉजिटरी आंकड़ों के अनुसार विदेशी निवेशकों ने नवंबर के पहले 22 दिनों में **भारतीय शेयरों में शुद्ध ₹1.22 लाख करोड़ डाले**, जो किसी एक महीने का रिकॉर्ड है। अन्य गणनाएं इसे ₹1.12 लाख करोड़ से ₹1.22 लाख करोड़ के बीच रखती हैं। इससे पहले सितंबर में ₹35,861 करोड़ और अक्टूबर में ₹34,843 करोड़ की शुद्ध बिकवाली हुई थी। बदलाव के समर्थक पेपर को पैसा आते रहने का तरीका मानते हैं, जबकि विरोधी इसे ऐसे समय सुरक्षा कमज़ोर करना मानते हैं जब फंड भरपूर हैं।
+
+## आगे क्या होगा?
+
+**टिप्पणियां 11 दिसंबर 2026 तक खुली हैं।** कोई भी सेबी के सार्वजनिक टिप्पणी पोर्टल के ज़रिए लिख सकता है। इसके बाद बोर्ड प्रस्ताव को मंज़ूर करेगा, बदलेगा या छोड़ देगा। अंतिम नियम के लिए परिपत्र चाहिए, और प्रेस नोट 3 से जुड़े हिस्से को सरकार के अपने नियमों के साथ पढ़ना होगा। यहां आंकड़े 24 नवंबर 2026 तक के हैं।
