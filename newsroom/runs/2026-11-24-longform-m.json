@@ -1,0 +1,23 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-24T06:38:20+05:30",
+ "end": "2026-11-24T07:03:59+05:30",
+ "summary": "3 pieces: FPI disclosure explainer, BS-VI Delhi editorial, Jairam Ramesh SEBI claim fact check",
+ "new": [
+  "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+  "fpi-additional-disclosure-framework-explained-sebi-proposal",
+  "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "fpi-additional-disclosure-framework-explained-sebi-proposal",
+   "why": "The Hindi file contains the entire English article body followed by the Hindi body, so Hindi readers get English text and a duplicated article. The Hindi twin's second in-story photo (n:2) is Jairam Ramesh while the English twin uses the Bombay Stock Exchange, so the twins do not match. The English text has a garbled phrase in the SEBI argument section: 'Press Note March 2 15, 2026 redefined' (Hindi and the infographic say Press Note 2 of March 15, 2026). The English critics section carries the link to the Ramesh fact check, which the Hindi file has only in its Hindi half.",
+   "done": "Removed the English body (old lines 67 to 120) from the Hindi file, so it holds only the Hindi sections with the Bombay Stock Exchange photo 2 and the fact check link; fixed the English phrase to 'Press Note 2 of March 15, 2026'."
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted"
+}

@@ -53001,7 +53001,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "A Haryana-registered truck in traffic on the road between Delhi and Agra (file photo)",
   "alt_hi": "दिल्ली और आगरा के बीच सड़क पर यातायात में हरियाणा पंजीकरण का ट्रक (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Delhi_To_Agra_(108013677).jpeg"
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_To_Agra_(108013677).jpeg",
+  "treated": {
+   "src": "/photos/t-bs-vi-only-delhi-supreme-court-needs-written-order-and-phase-1280.jpg",
+   "src800": "/photos/t-bs-vi-only-delhi-supreme-court-needs-written-order-and-phase-640.jpg",
+   "cutout": false,
+   "with": [
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1",
+    "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "f9e3e3d181800001",
+   "credit": "Photos: Andreweland / Wikimedia Commons; Pinakpani / Wikimedia Commons; wili hybrid / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
  },
  "fpi-additional-disclosure-framework-explained-sebi-proposal": {
   "id": "r-fpi-additional-disclosure-framework-explained-sebi-proposal",
@@ -53013,7 +53026,20 @@
   "licence": "CC BY-SA 3.0",
   "alt": "SEBI Bhavan, the headquarters of the Securities and Exchange Board of India in Mumbai (file photo)",
   "alt_hi": "मुंबई में भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) का मुख्यालय, सेबी भवन (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:SEBI_Bhavan.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:SEBI_Bhavan.jpg",
+  "treated": {
+   "src": "/photos/t-fpi-additional-disclosure-framework-explained-sebi-proposal-1280.jpg",
+   "src800": "/photos/t-fpi-additional-disclosure-framework-explained-sebi-proposal-640.jpg",
+   "cutout": false,
+   "with": [
+    "bills-in-parliament-tracker",
+    "pac-examines-sc-scholarship-schemes-cag-report",
+    "sensex-nifty-close-october-19-private-banks-axis"
+   ],
+   "kind": "photo",
+   "subj": "df9f9f1f1f0c0c00",
+   "credit": "Photos: Jimmy vikas / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons; Appaiah / Wikimedia Commons"
+  }
  },
  "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim": {
   "id": "o-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
@@ -53026,6 +53052,56 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Jairam Ramesh (file photo)",
   "alt_hi": "जयराम रमेश (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg",
+  "treated": {
+   "src": "/photos/t-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophol-1280.jpg",
+   "src800": "/photos/t-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophol-640.jpg",
+   "cutout": true,
+   "with": [
+    "special-session-of-parliament-explained-shah-offer-cec-removal",
+    "parliament",
+    "sensex-nifty-close-october-19-private-banks-axis"
+   ],
+   "kind": "photo",
+   "subj": "183818002c6efe",
+   "credit": "Photos: Yann Forget from India / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Narendra Modi / Wikimedia Commons; Appaiah / Wikimedia Commons"
+  }
+ },
+ "fpi-additional-disclosure-framework-explained-sebi-proposal--p1": {
+  "id": "o-fpi-additional-disclosure-framework-explained-sebi-proposal--p1",
+  "src": "/photos/o-fpi-additional-disclosure-framework-explained-sebi-proposal--p1-1280.jpg",
+  "src800": "/photos/o-fpi-additional-disclosure-framework-explained-sebi-proposal--p1-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1080,
+  "credit": "Photo: Securities and Exchange Board of India (SEBI), Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Tuhin Kanta Pandey (file photo)",
+  "alt_hi": "तुहिन कांत पांडे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tuhin_Kanta_Pandey.jpg"
+ },
+ "fpi-additional-disclosure-framework-explained-sebi-proposal--p2": {
+  "id": "r-fpi-additional-disclosure-framework-explained-sebi-proposal--p2",
+  "src": "/photos/r-fpi-additional-disclosure-framework-explained-sebi-proposal--p2-1280.jpg",
+  "src800": "/photos/r-fpi-additional-disclosure-framework-explained-sebi-proposal--p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Niyantha Shekhar / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The Bombay Stock Exchange building, Mumbai (file photo)",
+  "alt_hi": "मुंबई में बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg"
+ },
+ "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1": {
+  "id": "r-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1",
+  "src": "/photos/r-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1-1280.jpg",
+  "src800": "/photos/r-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1-640.jpg",
+  "width": 1280,
+  "height": 641,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_01_(cropped).jpg"
  }
 }

@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+    "id": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
     "overlay": {
       "kicker": {
-        "en": "World / India-Nepal",
-        "hi": "दुनिया / भारत-नेपाल"
+        "en": "Courts / Supreme Court",
+        "hi": "नीति / अदालत"
       },
       "value": {
-        "en": "8 MoUs signed with Nepal, Nov 23",
-        "hi": "नेपाल के साथ 8 एमओयू, 23 नवंबर"
+        "en": "SC: only BS-VI vehicles in Delhi",
+        "hi": "सुप्रीम कोर्ट: दिल्ली में सिर्फ बीएस-VI"
       },
       "text": {
         "en": "",
@@ -16,41 +16,22 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "supertech-cji-surya-kant-recuses-special-bench",
+      "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh"
+    ],
     "relatedBeside": [
-      "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted"
+      "rbi-gupta-new-gdp-series-data-users-conference"
     ],
     "live": {
       "title": {
-        "en": "India-Nepal",
-        "hi": "भारत-नेपाल"
+        "en": "Supreme Court",
+        "hi": "अदालत"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court says it will allow only BS-VI vehicles in Delhi, floats ban on commercial vehicles",
-          "hi": "सुप्रीम कोर्ट बोला दिल्ली में सिर्फ बीएस-VI वाहन चलने देंगे, कमर्शियल वाहनों पर रोक का सुझाव"
-        }
-      },
-      {
-        "link": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
-        "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
-        },
-        "text": {
-          "en": "SEBI proposes scrapping the extra ownership disclosure rule for foreign funds; Congress says it reopens a loophole",
-          "hi": "सेबी ने विदेशी फंडों के अतिरिक्त स्वामित्व-प्रकटीकरण नियम को हटाने का प्रस्ताव रखा, कांग्रेस बोली: पुरानी खामी फिर खुलेगी"
-        }
-      },
       {
         "link": "rbi-gupta-new-gdp-series-data-users-conference",
         "lead": {
@@ -74,6 +55,28 @@
         }
       },
       {
+        "link": "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "lead": {
+          "en": "India-Nepal:",
+          "hi": "भारत-नेपाल:"
+        },
+        "text": {
+          "en": "Modi and Nepal PM Shah sign eight MoUs at Hyderabad House, announce NPR 24,000 crore flood package",
+          "hi": "मोदी और नेपाल के पीएम शाह ने हैदराबाद हाउस में आठ एमओयू किए, नेपाली रुपये में 24,000 करोड़ के बाढ़ पैकेज की घोषणा"
+        }
+      },
+      {
+        "link": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "lead": {
+          "en": "Industry:",
+          "hi": "उद्योग:"
+        },
+        "text": {
+          "en": "Factories carry India's flash PMI to 56.3 in November as manufacturing hits a nine-month high",
+          "hi": "नवंबर में भारत का फ्लैश पीएमआई 56.3, कारखानों की रफ़्तार से विनिर्माण नौ महीने के उच्चतम स्तर पर"
+        }
+      },
+      {
         "link": "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
         "lead": {
           "en": "Netherlands:",
@@ -85,28 +88,6 @@
         }
       },
       {
-        "link": "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
-        },
-        "text": {
-          "en": "Odisha starts Cyclone Akvan damage assessment and plans a 100-year flood roadmap",
-          "hi": "ओडिशा में चक्रवात अकवान से नुकसान का आकलन शुरू, 100 साल की बाढ़ प्रबंधन योजना की तैयारी"
-        }
-      },
-      {
-        "link": "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "lead": {
-          "en": "Skills:",
-          "hi": "कौशल:"
-        },
-        "text": {
-          "en": "Modi in Lucknow: ITI trainees are 'no less than' IIT students, and parents should stop hiding it",
-          "hi": "लखनऊ में मोदी: आईटीआई के छात्र आईआईटी से 'कम नहीं', माता-पिता इसे छिपाना बंद करें"
-        }
-      },
-      {
         "link": "rafale-india-active-fleet-32-of-36-four-lost-claim",
         "lead": {
           "en": "Defence:",
@@ -115,6 +96,17 @@
         "text": {
           "en": "India's 'active Rafale fleet is down to 32 of 36': an outside estimate, not an official count, and not proof of four losses",
           "hi": "भारत का 'सक्रिय राफेल बेड़ा 36 से घटकर 32': बाहरी अनुमान है, सरकारी गिनती नहीं, और चार के खोने का सबूत भी नहीं"
+        }
+      },
+      {
+        "link": "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Amit Shah promised the Siang dam will move 'only with your trust'. Trust needs a written pause on the survey first",
+          "hi": "अमित शाह ने कहा सियांग बांध 'आपके विश्वास से ही' आगे बढ़ेगा। विश्वास के लिए पहले सर्वे पर लिखित रोक चाहिए"
         }
       }
     ]
@@ -182,26 +174,23 @@
   },
   "topStories": {
     "big": {
-      "id": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+      "id": "west-bengal-cabinet-paschim-banga-rename-december-9",
       "also": []
     },
     "list": [
-      "rbi-gupta-new-gdp-series-data-users-conference",
-      "west-bengal-cabinet-paschim-banga-rename-december-9",
+      "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+      "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
       "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
-      "odisha-akvan-damage-assessment-100-year-flood-plan",
-      "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
-    ],
-    "also": [
       "rafale-india-active-fleet-32-of-36-four-lost-claim",
       "siang-dam-trust-must-be-written-down-before-the-survey-resumes"
-    ]
+    ],
+    "also": []
   },
   "startHere": [
+    "fpi-additional-disclosure-framework-explained-sebi-proposal",
     "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
     "india-oil-import-bill-explained-record-october-price-rupee-who-pays",
-    "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
-    "new-start-explained-trilateral-arms-control-shenzhen-declaration"
+    "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india"
   ],
   "trackers": [
     {
@@ -271,9 +260,9 @@
   },
   "factCheck": {
     "cards": [
+      "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
       "rafale-india-active-fleet-32-of-36-four-lost-claim",
-      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-      "rahul-gandhi-india-given-up-manufacturing-chicago-claim"
+      "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
     ]
   },
   "explained": [
@@ -354,11 +343,11 @@
     }
   ],
   "opinion": [
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
     "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
     "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
     "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
-    "air-india-ai171-final-report-must-be-public",
-    "akvan-landfall-third-cyclone-evacuation-shelters-must-be-counted-before-friday"
+    "air-india-ai171-final-report-must-be-public"
   ],
   "sections": [
     {
@@ -376,7 +365,7 @@
     },
     {
       "section": "economy",
-      "lead": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+      "lead": "rbi-gupta-new-gdp-series-data-users-conference",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,9 +376,9 @@
         ]
       },
       "list": [
-        "rbi-gupta-new-gdp-series-data-users-conference",
         "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "rbi-panchayat-finances-grants-90-per-cent-report"
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
       ]
     },
     {
@@ -405,9 +394,9 @@
       "section": "policy",
       "lead": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
       "list": [
+        "supertech-cji-surya-kant-recuses-special-bench",
         "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
+        "india-canada-cepa-sixth-round-concludes-goyal-sidhu"
       ]
     },
     {
@@ -442,8 +431,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Tomorrow",
-        "hi": "कल"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
         "en": "Karthigai Deepam lamp to be lit at the Thiruparankundram Deepathoon by a restricted team",
@@ -454,8 +443,8 @@
     {
       "icon": "calendar-blank",
       "date": {
-        "en": "Nov 25",
-        "hi": "25 नवंबर"
+        "en": "Tomorrow",
+        "hi": "कल"
       },
       "text": {
         "en": "Last day for claims and objections in Delhi's SIR draft roll",
@@ -497,25 +486,20 @@
         "hi": "केरलम सरकार ने महीने के अंत तक बिजली खरीद की स्थायी योजना पेश करने का वादा किया है"
       },
       "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan"
+    },
+    {
+      "icon": "receipt",
+      "date": {
+        "en": "Dec 1",
+        "hi": "1 दिसंबर"
+      },
+      "text": {
+        "en": "GST collections for November",
+        "hi": "नवंबर का जीएसटी संग्रह"
+      }
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-23T06:57:49+05:30",
-      "ids": [
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
-        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-        "rafale-india-active-fleet-32-of-36-four-lost-claim",
-        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-        "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
-      ]
-    },
     {
       "at": "2026-11-23T07:06:43+05:30",
       "ids": [
@@ -617,13 +601,27 @@
         "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
         "rafale-india-active-fleet-32-of-36-four-lost-claim"
       ]
+    },
+    {
+      "at": "2026-11-24T06:58:12+05:30",
+      "ids": [
+        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+        "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+        "supertech-cji-surya-kant-recuses-special-bench",
+        "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+        "rbi-gupta-new-gdp-series-data-users-conference",
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim",
+        "siang-dam-trust-must-be-written-down-before-the-survey-resumes"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "air-india-ai171-final-report-must-be-public",
-    "supertech-cji-surya-kant-recuses-special-bench",
-    "nepal-india-ties-explained-shah-modi-talks-border-power-trade"
+    "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress"
   ],
   "mustReadEn": 7
 }

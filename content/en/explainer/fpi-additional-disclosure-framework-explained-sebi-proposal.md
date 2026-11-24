@@ -58,7 +58,7 @@ verification:
   status: approved
   notes:
     - "The SEBI paper itself could not be opened by the fetch tool. Its contents come from the desk's November 23 news story (a detailed summary of the paper and a PTI report that agree on the November 20 date, the three proposals, the 50% and ₹50,000 crore tests and the December 11 deadline). The primary link is SEBI's public-comment portal. Editor: check against the paper."
-    - "Origin of the framework (August 24, 2023 circular, after the January 2023 Adani revelations) rests on a Business Standard report of the circular and Jairam Ramesh's statement; circular not opened. No compliance timeline is stated."
+    - "Origin of the framework (August 24, 2023, circular, after the January 2023 Adani revelations) rests on a Business Standard report of the circular and Jairam Ramesh's statement; circular not opened. No compliance timeline is stated."
     - "Jairam Ramesh's remarks (November 22) and his reading of SEBI's September 2026 Adani order are his own, attributed, not verified. No SEBI, government or industry response found."
     - "FPI November inflow totals differ by source and cut-off (₹1.12 to ₹1.22 lakh crore); given as a range as of November 22."
 ---
@@ -71,9 +71,9 @@ Many of these funds are themselves owned by other funds, trusts or companies, of
 
 ## What is the Additional Disclosure Framework?
 
-**It is a rule that makes the largest or most concentrated FPIs name every person behind them.** It comes from Regulations 22(6) and 22(7) of the SEBI (FPI) Regulations, 2019, and an August 24, 2023 circular, later folded into the regulator's Master Circular of May 30, 2024.
+**It is a rule that makes the largest or most concentrated FPIs name every person behind them.** It comes from Regulations 22(6) and 22(7) of the SEBI (FPI) Regulations, 2019, and an August 24, 2023, circular, later folded into the regulator's Master Circular of May 30, 2024.
 
-An FPI is caught by either of two tests: **more than 50% of its Indian equity assets in a single corporate group**, or **more than ₹50,000 crore of equity assets** in India, alone or together with its investor group. The size limit was ₹25,000 crore until a circular of April 9, 2025 doubled it. A fund that trips a test must disclose everyone who holds ownership, economic interest or control in it, with no minimum ownership share, down to the natural persons. Broad-based pooled funds and government-related investors are exempt on conditions.
+An FPI is caught by either of two tests: **more than 50% of its Indian equity assets in a single corporate group**, or **more than ₹50,000 crore of equity assets** in India, alone or together with its investor group. The size limit was ₹25,000 crore until a circular of April 9, 2025, doubled it. A fund that trips a test must disclose everyone who holds ownership, economic interest or control in it, with no minimum ownership share, down to the natural persons. Broad-based pooled funds and government-related investors are exempt on conditions.
 
 ```photo
 {"n":1,"subject":"Tuhin Kanta Pandey","caption":"SEBI chairman Tuhin Kanta Pandey, who had said the regulator would bring a paper on simplifying FPI rules.","alt":"SEBI chairman Tuhin Kanta Pandey (file photo)"}
@@ -81,13 +81,13 @@ An FPI is caught by either of two tests: **more than 50% of its Indian equity as
 
 ## Why was it brought in?
 
-**Because of the Adani controversy of January 2023.** After a short-seller's report on the Adani group, regulators and critics asked how a few offshore funds came to hold large stakes in group companies, and whether the real owners could be traced. The Congress says the framework was "closed under pressure" after those revelations. SEBI's circular of August 24, 2023 was the answer: funds that were very large, or that had put half their India money in one group, had to look through to their owners.
+**Because of the Adani controversy of January 2023.** After a short-seller's report on the Adani group, regulators and critics asked how a few offshore funds came to hold large stakes in group companies, and whether the real owners could be traced. The Congress says the framework was "closed under pressure" after those revelations. SEBI's circular of August 24, 2023, was the answer: funds that were very large, or that had put half their India money in one group, had to look through to their owners.
 
 SEBI's own order of September 2026 closed the Minimum Public Shareholding case against the Adani group. Ramesh quotes it as saying "the material on record does not establish" that Vinod Adani controlled the funds, while acknowledging circumstances that "may legitimately give rise to suspicion". Those are his quotations and his reading, and SEBI has not commented on the link he draws.
 
 ## What exactly has SEBI proposed?
 
-**To scrap the framework, in three parts.** The consultation paper of November 20, 2026 proposes removing it for FPIs, for subscribers of offshore derivative instruments, and for FPI segregated portfolios. It asks one question: do commenters agree with removing it for FPIs? It is a proposal only. Nothing changes until SEBI's board has read the comments and decided.
+**To scrap the framework, in three parts.** The consultation paper of November 20, 2026, proposes removing it for FPIs, for subscribers of offshore derivative instruments, and for FPI segregated portfolios. It asks one question: do commenters agree with removing it for FPIs? It is a proposal only. Nothing changes until SEBI's board has read the comments and decided.
 
 ```compare
 {"title":"Who must name the people behind a fund","columns":["Today (framework in force)","If SEBI's proposal is adopted"],"rows":[{"icon":"scales","label":"Large or concentrated FPIs","cells":["Name every person with ownership, economic interest or control, no threshold","Ordinary beneficial-owner rules only"]},{"icon":"percent","label":"Ownership test","cells":["None for these funds","10% or 15% under money-laundering rules, by type of client"]},{"icon":"buildings","label":"Cap on one FPI in one company","cells":["10% of shares","10% of shares"]}]}
@@ -99,7 +99,7 @@ SEBI's own order of September 2026 closed the Minimum Public Shareholding case a
 
 The paper also says FPIs withdrew **more than ₹5.61 lakh crore between October 2024 and October 2026**, and counts the disclosure rules as one factor among others. It lists practical difficulties: tracing the investors in fund-of-funds, updating details often for hedge funds, and running separate India funds. It calls the concentration test an entry barrier, and notes that one FPI's holding in a listed company is already capped at 10%.
 
-On the size test, SEBI says it was meant to stop the FPI route being used to get around Press Note 3, the rule on investment from countries that share a land border with India. Press Note 2 of March 15, 2026 redefined "beneficial owner" under that rule to match the money-laundering thresholds, so the paper argues the extra step may no longer be needed.
+On the size test, SEBI says it was meant to stop the FPI route being used to get around Press Note 3, the rule on investment from countries that share a land border with India. Press Note March 2 15, 2026 redefined "beneficial owner" under that rule to match the money-laundering thresholds, so the paper argues the extra step may no longer be needed.
 
 ## What do the critics say?
 

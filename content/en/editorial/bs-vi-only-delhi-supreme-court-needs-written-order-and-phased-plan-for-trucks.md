@@ -62,7 +62,7 @@ verification:
   notes:
     - "Editorial view of the desk. Hearing facts (CJI Surya Kant, Justices Bagchi and Mohana; oral remark; no direction; border warehouse idea; five-year horizon; status reports from Haryana, Punjab, UP) from the desk's November 23 news story, which rests on Bar & Bench, LawChakra and IANS reports of the hearing; the November 6 order was read on the court site by that story."
     - "16,900 trucks, 23% and 61% at night, report launch June 29, 2026 (APAG, IIT Delhi, TERI) from a Down To Earth article; the report itself was not opened. Copy attributes the figures to the study."
-    - "CAQM direction of November 1, 2025 and the BS-IV transition to October 31, 2026 per ThePrint and the desk's November 1 explainer; the sources differ on details of the essential-goods exemption, so copy does not mention it."
+    - "CAQM direction of November 1, 2025, and the BS-IV transition to October 31, 2026, per ThePrint and the desk's November 1 explainer; the sources differ on details of the essential-goods exemption, so copy does not mention it."
     - "Recommendations are the desk's own. No reaction from the Centre, Delhi government or transporters was found."
 ---
 
@@ -74,7 +74,7 @@ The goal is right. The way it has been announced is not yet enough. **No directi
 
 Delhi's winter air is bad every year, and the court's own record shows the shape of the problem. At the hearing on November 6, the amici curiae put before the bench data from October 21 to November 3 that showed **a substantial fall in stubble burning** but a sharp rise in problems tied to vehicles. The order recorded that traffic in Delhi comes in large volume from Uttar Pradesh, Haryana and Rajasthan.
 
-Trucks are a big part of that traffic. A study launched on June 29, 2026 by the Air Pollution Action Group, IIT Delhi and TERI found that **about 16,900 heavy trucks enter Delhi every day**. They account for 23% of the city's transport emissions, and 61% at night. A rule that favours BS-VI engines, which in diesel vehicles permit far less nitrogen oxide and soot than BS-IV, goes straight at that source.
+Trucks are a big part of that traffic. A study launched on June 29, 2026, by the Air Pollution Action Group, IIT Delhi and TERI found that **about 16,900 heavy trucks enter Delhi every day**. They account for 23% of the city's transport emissions, and 61% at night. A rule that favours BS-VI engines, which in diesel vehicles permit far less nitrogen oxide and soot than BS-IV, goes straight at that source.
 
 ```photo
 {"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court in New Delhi, where the bench of Chief Justice Surya Kant heard the vehicle pollution strand on November 23.","alt":"The Supreme Court of India building in New Delhi"}

@@ -56,7 +56,7 @@ verification:
   status: verified-with-notes
   notes:
     - "Both SEBI board memoranda were opened on sebi.gov.in and read. Their dates are approximate (the July 2023 and April 2025 meeting folders); the 2023 memo states no board approval date, the April 2025 memo gives June 28, 2023."
-    - "SEBI's November 20, 2026 consultation paper could not be opened this run. What it proposes, and its comment deadline of December 11, rest on our earlier story, which used a detailed summary and a PTI report."
+    - "SEBI's November 20, 2026, consultation paper could not be opened this run. What it proposes, and its comment deadline of December 11, rest on our earlier story, which used a detailed summary and a PTI report."
     - "Ramesh's words are taken from the agency report of his X post, via our earlier story; the X post itself was not opened. His claims about the September 2026 Adani order were not checked and are not rated."
     - "Rating Mostly true: the purpose and the removal are documented; 'under pressure' and the Adani link are not. If SEBI's November paper or a later board note ties the rule to the Adani matter, revisit."
     - "No response from SEBI or the government found at writing."
@@ -86,11 +86,11 @@ The 2023 memo does not mention Hindenburg, Adani or any specific company or grou
 
 ### 3. The rule was already loosened
 
-SEBI's April 2025 memo records that the framework came from the August 2023 amendments and the August 24, 2023 circular, and that the board approved it on June 28, 2023. It proposed raising the size limit from ₹25,000 crore to **₹50,000 crore**, leaving the 50% test untouched, after 27 of 28 comments on the figure backed it. One commenter wanted ₹10,000 crore, citing opacity; SEBI rejected that, pointing to existing know-your-customer and beneficial ownership rules. So the rule was not intact until November, as "reopened" implies.
+SEBI's April 2025 memo records that the framework came from the August 2023 amendments and the August 24, 2023, circular, and that the board approved it on June 28, 2023. It proposed raising the size limit from ₹25,000 crore to **₹50,000 crore**, leaving the 50% test untouched, after 27 of 28 comments on the figure backed it. One commenter wanted ₹10,000 crore, citing opacity; SEBI rejected that, pointing to existing know-your-customer and beneficial ownership rules. So the rule was not intact until November, as "reopened" implies.
 
 ### 4. What is proposed now
 
-SEBI's November 20, 2026 consultation paper proposes removing the framework, with comments open until December 11, according to our earlier report of it. We could not open the paper itself. It is a proposal only.
+SEBI's November 20, 2026, consultation paper proposes removing the framework, with comments open until December 11, according to our earlier report of it. We could not open the paper itself. It is a proposal only.
 
 ## Why this claim spread
 
