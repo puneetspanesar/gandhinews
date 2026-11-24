@@ -1,0 +1,23 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-24T11:04:22+05:30",
+ "end": "2026-11-24T11:45:51+05:30",
+ "summary": "Tata Steel-APL Apollo deal; Bisleri held (no official source)",
+ "new": [
+  "tata-steel-apl-apollo-promoter-stake-open-offer"
+ ],
+ "held": [
+  "bisleri-fssai-prosecution-bromate-packaged-water"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Balance (rule 11): the top headlines carry three business/markets stories: Tata Steel-APL Apollo (second slot), SEBI scrapping the ownership disclosure rule (center column), and the flash PMI card und",
+   "done": "refresh_home.py --drop of the FPI explainer, the SEBI story, the RBI GDP-series story, the Supertech recusal and the BS-VI editorial: one business story (Tata Steel) high in the top block, PMI moved to 6th, two court stories at the top; layout rechecked by gate.sh"
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals"
+}

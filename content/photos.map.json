@@ -53167,7 +53167,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Tata Steel's Jamshedpur works seen from the town (file photo)",
   "alt_hi": "शहर से दिखता टाटा स्टील का जमशेदपुर कारखाना (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tata_Steel_Jamshedpur_4.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Tata_Steel_Jamshedpur_4.jpg",
+  "treated": {
+   "src": "/photos/t-tata-steel-apl-apollo-promoter-stake-open-offer-1280.jpg",
+   "src800": "/photos/t-tata-steel-apl-apollo-promoter-stake-open-offer-640.jpg",
+   "cutout": false,
+   "with": [
+    "fpi-additional-disclosure-framework-explained-sebi-proposal",
+    "sensex-nifty-rupee-close-october-14"
+   ],
+   "kind": "photo",
+   "subj": "fffffffffc000000",
+   "credit": "Photos: Kharbaan Ghaltaan / Wikimedia Commons; Jimmy vikas / Wikimedia Commons; Wikimedia commons / Wikimedia Commons"
+  }
  },
  "bisleri-fssai-prosecution-bromate-packaged-water": {
   "id": "o-bisleri-fssai-prosecution-bromate-packaged-water",

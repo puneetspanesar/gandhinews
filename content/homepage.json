@@ -22,7 +22,7 @@
       "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
     ],
     "relatedBeside": [
-      "us-commission-dalai-lama-succession-india-channel"
+      "tata-steel-apl-apollo-promoter-stake-open-offer"
     ],
     "live": {
       "title": {
@@ -33,6 +33,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "tata-steel-apl-apollo-promoter-stake-open-offer",
+        "lead": {
+          "en": "Deals:",
+          "hi": "सौदे:"
+        },
+        "text": {
+          "en": "Tata Steel to buy APL Apollo promoters' 26.6% for ₹15,510 crore, plus a 26% open offer",
+          "hi": "टाटा स्टील खरीदेगी एपीएल अपोलो में प्रमोटरों की 26.6% हिस्सेदारी, ₹15,510 करोड़ में, फिर 26% का ओपन ऑफर"
+        }
+      },
       {
         "link": "us-commission-dalai-lama-succession-india-channel",
         "lead": {
@@ -56,17 +67,6 @@
         }
       },
       {
-        "link": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
-        "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
-        },
-        "text": {
-          "en": "SEBI proposes scrapping the extra ownership disclosure rule for foreign funds; Congress says it reopens a loophole",
-          "hi": "सेबी ने विदेशी फंडों के अतिरिक्त स्वामित्व-प्रकटीकरण नियम को हटाने का प्रस्ताव रखा, कांग्रेस बोली: पुरानी खामी फिर खुलेगी"
-        }
-      },
-      {
         "link": "west-bengal-cabinet-paschim-banga-rename-december-9",
         "lead": {
           "en": "West Bengal:",
@@ -86,6 +86,17 @@
         "text": {
           "en": "Modi and Nepal PM Shah sign eight MoUs at Hyderabad House, announce NPR 24,000 crore flood package",
           "hi": "मोदी और नेपाल के पीएम शाह ने हैदराबाद हाउस में आठ एमओयू किए, नेपाली रुपये में 24,000 करोड़ के बाढ़ पैकेज की घोषणा"
+        }
+      },
+      {
+        "link": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "lead": {
+          "en": "Industry:",
+          "hi": "उद्योग:"
+        },
+        "text": {
+          "en": "Factories carry India's flash PMI to 56.3 in November as manufacturing hits a nine-month high",
+          "hi": "नवंबर में भारत का फ्लैश पीएमआई 56.3, कारखानों की रफ़्तार से विनिर्माण नौ महीने के उच्चतम स्तर पर"
         }
       },
       {
@@ -175,17 +186,20 @@
   },
   "topStories": {
     "big": {
-      "id": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+      "id": "us-commission-dalai-lama-succession-india-channel",
       "also": []
     },
     "list": [
-      "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+      "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
       "west-bengal-cabinet-paschim-banga-rename-december-9",
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-      "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
-      "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+      "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks"
     ],
-    "also": []
+    "also": [
+      "rafale-india-active-fleet-32-of-36-four-lost-claim",
+      "siang-dam-trust-must-be-written-down-before-the-survey-resumes"
+    ]
   },
   "startHere": [
     "fpi-additional-disclosure-framework-explained-sebi-proposal",
@@ -366,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+      "lead": "tata-steel-apl-apollo-promoter-stake-open-offer",
       "module": {
         "type": "markets",
         "indicators": [
@@ -377,9 +391,9 @@
         ]
       },
       "list": [
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31",
-        "core-sector-growth-10-9-per-cent-october-iron-ore-coal-electricity",
-        "india-crude-imports-october-record-23-3-mt-bill-19-5-billion"
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "rbi-panchayat-finances-grants-90-per-cent-report",
+        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
       ]
     },
     {
@@ -502,23 +516,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-23T08:24:00+05:30",
-      "ids": [
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care",
-        "mekedatu-needs-the-cauvery-authority-not-a-claim-of-court-approval",
-        "shivakumar-mekedatu-supreme-court-verdict-claim-premature-not-approval",
-        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-        "rafale-india-active-fleet-32-of-36-four-lost-claim",
-        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
-        "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
-      ]
-    },
-    {
       "at": "2026-11-23T11:37:43+05:30",
       "ids": [
         "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
@@ -618,14 +615,31 @@
         "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
         "rafale-india-active-fleet-32-of-36-four-lost-claim"
       ]
+    },
+    {
+      "at": "2026-11-24T11:41:57+05:30",
+      "ids": [
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "tata-steel-apl-apollo-promoter-stake-open-offer",
+        "us-commission-dalai-lama-succession-india-channel",
+        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
+        "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
     "rbi-gupta-new-gdp-series-data-users-conference",
-    "rbi-panchayat-finances-grants-90-per-cent-report",
-    "supertech-cji-surya-kant-recuses-special-bench"
+    "fpi-additional-disclosure-framework-explained-sebi-proposal",
+    "supertech-cji-surya-kant-recuses-special-bench",
+    "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress"
   ],
   "mustReadEn": 7
 }
