@@ -5,93 +5,101 @@ type: news
 section: world
 format_label: "World / Climate"
 topics: []
-title: "COP31 runs into overtime in Antalya with no deal: draft drops fossil fuel language and the $120 billion adaptation goal, India presses on finance"
-standfirst: "Talks scheduled to end on November 20 went past midnight on Saturday, November 21, with the closing plenary suspended and nearly 200 countries still without a cover text. India, which says making the Global South pay for past emissions is unjustified, has pushed for finance and adaptation money."
+title: "COP31 ends in Antalya with no overall deal as fossil fuel wording splits countries; India regrets the failure and says climate action will not pause"
+standfirst: "The Antalya conference closed on Sunday, November 22, about two days past its deadline, without a cover decision. Environment Minister Bhupender Yadav said India worked with BASIC and LMDC partners until the very end and that the absence of a decision does not pause climate action."
 published: 2026-11-15T18:16:00+05:30
-updated: 2026-11-22T08:20:45+05:30
+updated: 2026-11-24T14:30:00+05:30
 location: Antalya
 keyPoints:
-  - "COP31 went into **overtime on Saturday, November 21**, with the closing plenary suspended around 10:29 pm local time on Friday and a **third draft** awaited."
-  - "The revised 80-paragraph text **dropped explicit fossil fuel language** and the **$120 billion a year adaptation goal**; it keeps a call to at least triple adaptation finance by 2035, with no agreed baseline."
-  - "Bhupender Yadav's line stays that **equitable access to the carbon budget is non-negotiable**; the next conference, COP32, is due in **Addis Ababa in November 2027**, according to reports."
+  - "COP31 **ended on Sunday, November 22 with no cover decision**, about two days after its November 20 deadline, because countries could not agree on fossil fuel wording or new finance pledges."
+  - "Yadav said India **engaged constructively until the very end**, regretted that consensus was not reached, and that the absence of a decision **does not pause climate action**, citing over 170 GW of solar capacity."
+  - "Unfinished business on fossil fuels, finance and adaptation moves to **COP32 in Addis Ababa in November 2027**; the last comparable collapse was Copenhagen in 2009."
 hero:
   need: "Bhupender Yadav, India's Environment Minister, at climate talks"
   suggested_source: "Bhupender Yadav"
   subjects: ["Bhupender Yadav", "Murat Kurum"]
   alt: "Bhupender Yadav (file photo)"
   overlay:
-    value: "India at COP31: equity first"
+    value: "COP31 ends with no deal"
 related: [cop31-opens-antalya-turkey-australia-negotiations-india-position, guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent, ipcc-ar7-timeline-dispute-cop31-eu-acconcia, global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31]
 seo:
-  title: "COP31 overtime in Antalya: no deal, India presses finance"
-  description: "COP31 in Antalya ran into overtime with no cover decision: fossil fuel wording and the adaptation goal were cut, and India pressed on finance."
+  title: "COP31 ends with no deal; India regrets, says action goes on"
+  description: "COP31 in Antalya ended on November 22 without a cover decision over fossil fuels and finance. India regretted it and said climate action will not pause."
 infographic:
-  kicker: "COP31 overtime"
-  headline: "COP31 overtime: no deal, India presses finance"
-  dek: "The closing plenary was suspended on Friday night and a third draft was awaited"
+  kicker: "COP31 outcome"
+  headline: "COP31 ends with no overall deal"
+  dek: "Fossil fuel wording and finance blocked a cover decision; India says action will not pause"
   motif: globe
   stats:
-    - {icon: calendar, value: "Nov 21", label: "talks entered overtime, a day past the Nov 20 close"}
-    - {icon: list-checks, value: "80", label: "paragraphs in the revised draft, down from 144"}
-    - {icon: coins, value: "$120 bn", label: "a year, the adaptation goal dropped from the revised text"}
-  source: "UNFCCC, wire reports, November 20-22, 2026"
+    - {icon: calendar, value: "Nov 22", label: "talks closed, about two days past the Nov 20 deadline"}
+    - {icon: users-three, value: "130+", label: "countries backed the EU call for a fossil fuel phase-out"}
+    - {icon: solar-panel, value: "170 GW", label: "of solar capacity India cites as proof action goes on"}
+  source: "MoEF&CC statement, wire reports, November 22, 2026"
 sources:
+  - title: "Ministry of Environment, Forest and Climate Change statement on X: India engaged constructively until the very end at COP31 and regretted that consensus on the cover decision could not be reached"
+    publisher: "MoEF&CC"
+    date: 2026-11-22
+    url: "https://x.com/moefcc/status/2124555582791418332"
+    primary: true
   - title: "UN Climate Change Conference, Antalya, November 2026 (official conference page: negotiations continue, President of Negotiations Chris Bowen)"
     publisher: "UNFCCC"
     date: 2026-11-20
     url: "https://unfccc.int/cop31"
     primary: true
-  - title: "Climate talks in overtime as nations wrestle with response to worsening global warming"
-    publisher: "Korea Times (wire report)"
+  - title: "India regrets failure to reach consensus on COP31 cover decision, says Bhupender Yadav"
+    publisher: "The Tribune"
     date: 2026-11-22
-    url: "https://www.koreatimes.co.kr/world/20261122/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming"
+    url: "https://www.tribuneindia.com/news/india/india-regrets-failure-to-reach-consensus-on-cop31-cover-decision-says-bhupender-yadav"
     primary: false
-  - title: "COP31 Talks in Antalya Enter Overtime Over Fossil Fuels"
-    publisher: "Streamline Feed"
-    date: 2026-11-21
-    url: "https://streamlinefeed.co.ke/news/cop31-talks-in-antalya-enter-overtime-over-fossil-fuels"
+  - title: "COP31 ends without agreement as countries disagree about fossil fuel phase-out"
+    publisher: "Scroll.in"
+    date: 2026-11-22
+    url: "https://scroll.in/latest/1097241/cop31-ends-without-agreement-as-countries-disagree-about-fossil-fuel-phase-out"
     primary: false
-  - title: "COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped"
-    publisher: "Down To Earth"
-    date: 2026-11-10
-    url: "https://www.downtoearth.org.in/story/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped"
+  - title: "India engaged till end: Bhupendra Yadav as COP31 ends with no deal"
+    publisher: "Siasat"
+    date: 2026-11-22
+    url: "https://www.siasat.com/india-engaged-till-end-bhupendra-yadav-as-cop31-ends-with-no-deal-3584174/"
+    primary: false
+  - title: "No Deal On Fossil Fuels: Inside COP31 Talks Breakdown And India's Stand For Global South"
+    publisher: "The Daily Jagran"
+    date: 2026-11-23
+    url: "https://www.thedailyjagran.com/world/news/cop31-talks-collapse-no-deal-on-fossil-fuels-inside-breakdown-india-stand-for-global-south-climate-justice-10337346"
     primary: false
 verification:
   status: approved
   notes:
-    - "Updated 8:20 am IST Nov 22 from the Nov 20 story. Primary: unfccc.int/cop31 read this run (page as of Nov 20: negotiations continue, Bowen quote; no decisions listed). No final decision text or UNFCCC press release on the outcome was available, so the overtime facts rest on two independent reports (a wire report and a separate overtime report), written as 'according to reports' without naming outlets. Draft contents (80 paragraphs, dropped $120 bn goal, SCF baseline in 2027, closing plenary suspended 10:29 pm Friday, COP32 in Addis Ababa Nov 2027) come from the second report; the first confirms overtime, the missing fossil fuel language and Addis Ababa Nov 2027. India's own position is carried from the Nov 18 statement already sourced; the report gives no new India detail. Trade measures/CBAM item rests on a Nov 10 report."
+    - "Updated 2:30 pm IST Nov 24 from the Nov 22 version: COP31 ended Sunday Nov 22 with no cover decision. Outcome, India quotes (X post by Yadav / MoEF&CC, 170 GW, COP32) rest on four independent reads (Tribune, Scroll, Siasat/PTI, Daily Jagran). PRIMARY SOURCE CAVEAT: unfccc.int, pib.gov.in, moef.gov.in were permission-blocked for fetch this run and the MoEF&CC post on X is robots-disallowed, so the primary links were NOT opened this run; the X post text was seen only in a search result snippet and as quoted by the reports. The UNFCCC page was read in the earlier run. Editor to decide. Panama/Vanuatu/Marshall Islands, Ireland (O'Brien), Russia, Bahamas (Davis) lines rest on one or two reports. 130+ countries and 'two days past' from Scroll; '44 hours' from Jagran not used."
 
 ---
-COP31 in Antalya, Türkiye, went into overtime on Saturday, November 21, 2026, a day past its scheduled November 20 close, with the **closing plenary suspended** and nearly 200 countries still without agreement on the overall political decision, according to reports. As of the latest reports on the evening of November 21, no final text had been adopted and delegates were waiting for a **third draft**. India, led by Environment Minister **Bhupender Yadav**, has argued all along that making the Global South carry the consequences of past emissions is unjustified. We could not find a final decision text or a conference press release on the outcome as of 8:20 am IST on Sunday, November 22; the conference's own page, last updated on November 20, records that negotiations were continuing.
+The 31st UN climate conference in Antalya, Türkiye, **closed on Sunday, November 22, 2026 without an overall political agreement**, about two days after its scheduled November 20 finish. Countries could not bridge their differences on **fossil fuels and on new, quantified climate finance pledges**, and because UN decisions need consensus, a single objection was enough to block the cover decision. India's Environment Minister **Bhupender Yadav** said India "engaged constructively and tirelessly till the very end", working with the BASIC and LMDC groups of developing countries, and regretted that consensus on the cover decision could not be reached.
 
-## What the texts say so far
+## How the talks broke down
 
-According to reports, the presidency's first draft of November 16 ran to 144 paragraphs and backed a faster exit from fossil fuels. A revised **80-paragraph draft** issued on Thursday, November 19 removed explicit references to moving away from coal, oil and gas. The Arab Group, Saudi Arabia and Russia oppose phase-out wording, while the European Union and Panama want it restored. The presidency has promoted instead Türkiye's "35 by 35" initiative, which would lift electricity's share of final energy demand to 35% by 2035. Campaigners say that goal, with no link to renewable power, could leave fossil fuel dependence intact. Negotiators suspended the closing plenary at about 10:29 pm local time on Friday, November 20.
+The European Union, backed by more than 130 countries, wanted any outcome to include a fossil fuel phase-out. Oil-dependent economies, led by **Saudi Arabia, Iran and Russia**, opposed any such wording; Russia's representative is quoted as saying: "We cannot agree to any wording on fossil fuels." The presidency's revised 80-paragraph text had already dropped explicit references to moving away from coal, oil and gas. On the final day the EU said it would not sign a deal "that does not even mention fossil fuels, which is the key driver of climate change." Panama, Vanuatu and the Marshall Islands took the same position, and the Caribbean Community and the Alliance of Small Island States rejected the text.
 
-On money, the revised text dropped the proposed **$120 billion a year adaptation goal**. It still calls for at least tripling adaptation finance by 2035, but with no agreed baseline: options for one are sent to the Standing Committee on Finance in 2027, so developing countries cannot yet verify the target. A separate clause calls for tripling annual flows from the designated multilateral climate funds by 2030 against 2022. Developing countries put their adaptation needs at about $305 billion a year through 2035. African ministers protested that they "didn't come here to beg", according to reports.
+**Climate finance** was the second fault line. The draft had dropped the proposed $120 billion a year adaptation goal, and developing countries, which put their adaptation needs at about $305 billion a year through 2035, would not accept a text without a baseline for tripling adaptation finance. Bahamas Prime Minister **Philip Brave Davis** said "Antalya COP 31 has failed future generations" and promised to press for results at the next conference.
 
-COP31 President of Negotiations **Chris Bowen**, Australia's climate minister, told journalists on November 20 that "no one has said to me, 'Let's give up and go home'" and that he had more meetings to hold. COP31 President **Murat Kurum**, Türkiye's environment minister, asked for calm after a protester interrupted proceedings on Friday, shouting that the Global South "cannot wait". A group of 100 civil society organisations had warned the co-hosts, Türkiye and Australia, that the conference was on course to be one of the most disappointing the UN had held. Tuvalu's minister Maina Talia spoke of growing mistrust and frustration among vulnerable countries. The United States did not take part directly.
+UN Secretary-General **António Guterres** said he was disappointed and shared "the very profound frustration of all those who expected governments to rise to the moment." Australian Prime Minister **Anthony Albanese** blamed "difficult geopolitical times". Australia's climate minister **Chris Bowen**, who ran the negotiations alongside Türkiye's **Murat Kurum**, had said on November 20 that nobody had asked him to give up and go home. The last comparable failure to agree an overall outcome was the Copenhagen conference in 2009; the Paris Agreement followed six years later.
 
-## What India has said
+## What India said
 
-Yadav's national statement on Wednesday, November 18 put **equity, climate justice and finance from rich countries** at the centre of India's case. He said honest dialogue, equity-based consensus and urgent action must guide climate efforts, grounded India's case in the principle of common but differentiated responsibilities and in two centuries of industrialisation, and said **equitable access to the remaining carbon budget is "non-negotiable"**. Asking the Global South to bear the consequences of past emissions in the name of higher ambition, he said, is unjustified, according to accounts of his remarks. He tied India's climate plans to the goal of a developed India by 2047.
+In his post on X, Yadav said the concerns over "certain elements of the cover decision" remained unresolved despite India's engagement with the two presidencies. "Climate ambition must go hand in hand with means of implementation," he said, and "equity and climate justice must therefore remain at the heart of our collective response." India, he said, asked in the negotiating rooms: "Why are we here, and how did we arrive at this climate crisis?"
 
-India's secretary in the Environment Ministry, **Narendra Bhooshan**, had opened on November 10 by calling on developed countries to meet their Paris Agreement finance obligations under Article 9.1. Early in the conference, according to a report, India helped defend a **standalone climate finance work programme** and said it regretted that a separate agenda item on tripling adaptation finance was dropped. The same report says India and other emerging economies raised concern over unilateral trade measures such as the European Union's **Carbon Border Adjustment Mechanism** (CBAM), which can raise compliance costs for developing country exporters. That item was also dropped as a stand-alone agenda point, and the presidency said subsidiary body chairs will invite submissions for the next trade dialogue in Bonn.
+He listed what India had secured: its interventions won recognition of **food security, livelihoods and cultural practices** in the language on methane action. India also repeated that developed countries have obligations on climate finance under **Article 9.1 of the Paris Agreement**, that energy transitions should be nationally determined and just, with finance, technology and capacity-building support for developing countries, and that historical and ongoing emissions of richer nations have used a disproportionate share of the global carbon budget. Earlier in the conference India had also voiced concern over unilateral trade measures such as the European Union's carbon border tax.
 
-India also holds, with Saudi Arabia, China, Russia and Kenya, that the next IPCC assessments should be given more time. Dozens of countries want them before the 2028 global stocktake; India and Saudi Arabia are among those pressing for 2029. We reported on the [IPCC timeline dispute](/en/news/ipcc-ar7-timeline-dispute-cop31-eu-acconcia) earlier in the conference.
-
-## How we got here
-
-The conference opened on November 9 under a Turkish presidency with Australia running negotiations, as [we reported](/en/news/cop31-opens-antalya-turkey-australia-negotiations-india-position). The leaders' summit on November 11 and 12 was [addressed by UN Secretary-General António Guterres](/en/news/guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent) without the leaders of China, the United States or India present. On November 18, 21 mandated agenda items were still open.
+Yadav's message to domestic audiences was that **the failure to agree "does not pause climate action"**. He pointed to India's solar capacity of more than 170 GW and said India stays committed to consensus-based multilateralism on the road to COP32.
 
 ```timeline
-{"title":"COP31 in Antalya","items":[{"date":"Nov 9","text":"Conference opens in Antalya"},{"date":"Nov 16","text":"Presidency circulates 144-paragraph draft cover decision"},{"date":"Nov 18","text":"Yadav's national statement; 21 agenda items still open"},{"date":"Nov 19","text":"Revised 80-paragraph draft drops fossil fuel wording and the $120 bn goal"},{"date":"Nov 20","text":"Scheduled close; closing plenary suspended around 10:29 pm"},{"date":"Nov 21","text":"Talks enter overtime; third draft awaited"}]}
+{"title":"COP31 in Antalya","items":[{"date":"Nov 9","text":"Conference opens in Antalya"},{"date":"Nov 16","text":"Presidency circulates 144-paragraph draft cover decision"},{"date":"Nov 18","text":"Yadav's national statement; 21 agenda items still open"},{"date":"Nov 19","text":"Revised 80-paragraph draft drops fossil fuel wording and the $120 bn goal"},{"date":"Nov 20","text":"Scheduled close; closing plenary suspended"},{"date":"Nov 22","text":"Talks end with no cover decision"}]}
 ```
 
 ## Why it matters
 
-For India, the finance language decides how much public money it can count on for heat action, flood defences and the shift away from coal. With no baseline for tripling adaptation finance, there is no way to check whether a promised increase is real: UNEP's Adaptation Gap Report 2026, cited in that report, puts international public adaptation finance in 2024 at $28.2 billion to $31.7 billion, against needs of about $305 billion a year by 2035. A cover text without fossil fuel wording eases pressure on producers, but the electrification goal and the carbon budget language still shape how much room New Delhi's growth plans have. Last week's global carbon accounting showed [India's fossil emissions rising 4.4% while the world's dipped](/en/news/global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31), which is the pressure behind India's insistence on development space.
+For India, the finance wording decides how much public money it can count on for heat action, flood defences and the shift away from coal, and none of it was settled. India had sided with oil-dependent economies at COP30 in Brazil, when the EU and more than 80 countries dropped their demand for a fossil fuel roadmap and accepted a phase-down, according to reports; at Antalya the same coalition could not be held together even for a text without fossil fuels, and the EU walked away. Last week's global carbon accounting showed [India's fossil emissions rising 4.4% while the world's dipped](/en/news/global-carbon-budget-2026-fossil-emissions-dip-india-up-4-4-cop31), which is the pressure behind India's insistence on development space and its demand that rich countries pay first.
+
+With no cover decision, the conference leaves no single political text to set direction. We reported earlier on [how the conference opened](/en/news/cop31-opens-antalya-turkey-australia-negotiations-india-position), the [Guterres address to the leaders' summit](/en/news/guterres-cop31-fossil-fuels-dinosaurs-leaders-summit-china-us-india-absent) and the [dispute over the next IPCC reports](/en/news/ipcc-ar7-timeline-dispute-cop31-eu-acconcia).
 
 ## What happens next
 
-Every decision needs consensus, and COP28, COP29 and COP30 all ran past their deadlines. Delegates must still settle the fossil fuel wording, the adaptation finance baseline, the electrification goal and the IPCC calendar, and campaigners are pressing the presidency to carry forward COP30's Belém transition roadmap. If a third draft is adopted, it would be gavelled in a closing plenary that could run into Sunday, November 22. The next conference, COP32, is to be held in **Addis Ababa, Ethiopia, in November 2027**, according to reports, which also say unresolved finance baselines would leave Ethiopia a heavy load. We will update this story when the final decisions are published.
+Unresolved questions on fossil fuels, the adaptation finance baseline and new finance pledges carry over to the next conference, **COP32, to be held in Addis Ababa, Ethiopia, in November 2027**. India says it will keep working with BASIC and like-minded developing countries, and Davis said he would press for results at COP32.
