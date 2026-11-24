@@ -29,7 +29,7 @@ infographic:
     - {icon: clock, value: "1 hour", label: "for a trusted person to approve a flagged transfer"}
     - {icon: calendar, value: "24 hours", label: "cooling-off before the trusted-person check starts"}
   source: "RBI draft directions, November 23, 2026"
-related: [sc-digital-arrest-whatsapp-intermediaries-measures-november-23, digital-arrest-victims-should-be-repaid-by-the-bank-first, mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting]
+related: [sc-digital-arrest-whatsapp-intermediaries-measures-november-23, mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting]
 seo:
   title: "RBI draft: stop switch and trusted person for bank fraud"
   description: "The RBI's November 23 draft would let customers freeze all outgoing debits, switch off payment channels and add a trusted-person check. Comments close December 14."

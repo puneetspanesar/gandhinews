@@ -1,12 +1,9 @@
 {
  "run": "hourly-17",
  "start": "2026-11-24T17:04:36+05:30",
- "end": "2026-11-24T17:28:37+05:30",
- "summary": "Tamil Nadu rain alert and RBI stop switch draft",
- "new": [
-  "rbi-stop-switch-trusted-person-draft-digital-fraud",
-  "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27"
- ],
+ "end": "2026-11-24T17:42:52+05:30",
+ "summary": "Collage fix: no Supreme Court tile behind the RBI draft story",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],

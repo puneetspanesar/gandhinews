@@ -30,7 +30,7 @@ infographic:
     - {icon: clock, value: "1 घंटा", label: "भरोसेमंद व्यक्ति के पास फ्लैग किए गए ट्रांसफर को मंजूर करने का समय"}
     - {icon: calendar, value: "24 घंटे", label: "भरोसेमंद व्यक्ति की जांच शुरू होने से पहले की प्रतीक्षा अवधि"}
   source: "आरबीआई मसौदा निर्देश, 23 नवंबर 2026"
-related: [sc-digital-arrest-whatsapp-intermediaries-measures-november-23, digital-arrest-victims-should-be-repaid-by-the-bank-first, mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting]
+related: [sc-digital-arrest-whatsapp-intermediaries-measures-november-23, mobikwik-rbi-penalty-9-lakh-ppi-transfers-fraud-reporting]
 seo:
   title: "आरबीआई मसौदा: बैंक फ्रॉड पर स्टॉप स्विच, भरोसेमंद व्यक्ति"
   description: "आरबीआई के 23 नवंबर के मसौदे में ग्राहक सभी निकासी रोक सकेंगे, भुगतान चैनल बंद कर सकेंगे और भरोसेमंद व्यक्ति की जांच जोड़ सकेंगे। सुझाव 14 दिसंबर तक।"
