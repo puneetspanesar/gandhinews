@@ -33,12 +33,10 @@ infographic:
     - {icon: calendar, value: "180 days", label: "for the Secretary of State to brief Congress on the exercise and the India channel"}
     - {icon: users, value: "60,000 to 65,000", label: "Tibetans in exile in India, down from 110,228 in 2009"}
   timeline:
-    title: "How we got here"
-    items:
-      - {date: "Jul 2, 2025", text: "Dalai Lama says the Gaden Phodrang Trust alone will recognise his successor", icon: scroll}
-      - {date: "Jul 4, 2025", text: "MEA says India takes no position on matters of faith", icon: flag-banner}
-      - {date: "Aug 26, 2026", text: "Commission publishes its paper on the succession", icon: file-text}
-      - {date: "Nov 18, 2026", text: "2026 annual report to Congress released", icon: book-open}
+    - {date: "Jul 2, 2025", text: "Dalai Lama says the Gaden Phodrang Trust alone will recognise his successor", icon: scroll}
+    - {date: "Jul 4, 2025", text: "MEA says India takes no position on matters of faith", icon: flag-banner}
+    - {date: "Aug 26, 2026", text: "Commission publishes its paper on the succession", icon: file-text}
+    - {date: "Nov 18, 2026", text: "2026 annual report to Congress released", icon: book-open}
   source: "US-China Economic and Security Review Commission, 2026"
 sources:
   - title: "2026 Annual Report to Congress, Chapter 3: China's Other Front: India and the Future of U.S. Strategy in the Indo-Pacific"
@@ -69,7 +67,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Annual report released November 18, 2026 per the commission's chapter page; the recommendation was widely reported in India on November 23."
+    - "Annual report released November 18, 2026, per the commission's chapter page; the recommendation was widely reported in India on November 23."
     - "Exile population figures are from the commission's August 26 paper page; the nine other recommendations in that paper were not readable."
     - "No MEA or Chinese foreign ministry reaction to this report was found at the time of writing."
 ---

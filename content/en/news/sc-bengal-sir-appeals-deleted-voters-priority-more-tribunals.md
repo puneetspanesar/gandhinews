@@ -14,10 +14,10 @@ keyPoints:
   - "Appeals by voters deleted in the SIR get **preference in final disposal**, and appeals against other voters' inclusion are deferred for now."
   - "Of the **38.31 lakh appeals** the ECI reports, 22.21 lakh seek restoration of deleted names and 16.10 lakh challenge inclusions."
 hero:
-  need: "Supreme Court of India building, New Delhi"
-  suggested_source: "Supreme Court of India"
-  subjects: ["Supreme Court of India"]
-  alt: "Supreme Court of India, New Delhi (file photo)"
+  need: "Chief Justice of India Surya Kant and the Calcutta High Court"
+  suggested_source: "Calcutta High Court"
+  subjects: ["Surya Kant", "Calcutta High Court"]
+  alt: "Chief Justice of India Surya Kant and the Calcutta High Court in Kolkata (file photos)"
   overlay:
     value: "Deleted voters' appeals first, more tribunals"
 infographic:
@@ -33,7 +33,7 @@ infographic:
 related: [supreme-court-sir-cannot-delay-local-body-polls, calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209, suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls, ec-supplementary-affidavit-sc-excluded-voters-restore-sir]
 seo:
   title: "Bengal SIR: SC orders more tribunals, deleted voters first"
-  description: "The Supreme Court on November 23, 2026 told the ECI to add Bengal SIR appellate tribunals and hear deleted voters' appeals first, with Kolkata voters at the front."
+  description: "The Supreme Court on November 23, 2026, told the ECI to add Bengal SIR appellate tribunals and hear deleted voters' appeals first, with Kolkata voters at the front."
 sources:
   - title: "Order of April 13, 2026, Mostari Banu v. Election Commission of India, W.P.(C) 1089/2025"
     publisher: "Supreme Court of India"

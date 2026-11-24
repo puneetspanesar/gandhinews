@@ -34,12 +34,10 @@ infographic:
     - {icon: calendar, value: "180 दिन", label: "विदेश मंत्री को अभ्यास और भारत चैनल पर कांग्रेस को जानकारी देने के लिए"}
     - {icon: users, value: "60,000 से 65,000", label: "भारत में निर्वासित तिब्बती, 2009 में 1,10,228 थे"}
   timeline:
-    title: "यहां तक कैसे पहुंचे"
-    items:
-      - {date: "2 जुलाई 2025", text: "दलाई लामा: उत्तराधिकारी को गादेन फोडरंग ट्रस्ट ही मान्यता देगा", icon: scroll}
-      - {date: "4 जुलाई 2025", text: "विदेश मंत्रालय: भारत आस्था के मामलों में कोई रुख नहीं लेता", icon: flag-banner}
-      - {date: "26 अगस्त 2026", text: "आयोग का उत्तराधिकार पर शोध पत्र", icon: file-text}
-      - {date: "18 नवंबर 2026", text: "कांग्रेस को 2026 की वार्षिक रिपोर्ट जारी", icon: book-open}
+    - {date: "2 जुलाई 2025", text: "दलाई लामा: उत्तराधिकारी को गादेन फोडरंग ट्रस्ट ही मान्यता देगा", icon: scroll}
+    - {date: "4 जुलाई 2025", text: "विदेश मंत्रालय: भारत आस्था के मामलों में कोई रुख नहीं लेता", icon: flag-banner}
+    - {date: "26 अगस्त 2026", text: "आयोग का उत्तराधिकार पर शोध पत्र", icon: file-text}
+    - {date: "18 नवंबर 2026", text: "कांग्रेस को 2026 की वार्षिक रिपोर्ट जारी", icon: book-open}
   source: "अमेरिका-चीन आर्थिक और सुरक्षा समीक्षा आयोग, 2026"
 sources:
   - title: "2026 Annual Report to Congress, Chapter 3: China's Other Front: India and the Future of U.S. Strategy in the Indo-Pacific"

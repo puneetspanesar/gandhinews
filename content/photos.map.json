@@ -53115,18 +53115,45 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Dalai Lama (file photo)",
   "alt_hi": "दलाई लामा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_Dalai_Lama_in_2012.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:The_Dalai_Lama_in_2012.jpg",
+  "treated": {
+   "src": "/photos/t-us-commission-dalai-lama-succession-india-channel-1280.jpg",
+   "src800": "/photos/t-us-commission-dalai-lama-succession-india-channel-640.jpg",
+   "cutout": true,
+   "with": [
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s2",
+    "us-midterms-2026-explained-what-is-at-stake",
+    "trump-xi-putin-shenzhen-trilateral-talks-begin-ushakov-preparatory--s1"
+   ],
+   "kind": "photo",
+   "subj": "383870f8f1f1f0c0",
+   "credit": "Photos: Christopher Michel / Wikimedia Commons; Noclip / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons; N509FZ / Wikimedia Commons"
+  }
  },
  "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals": {
-  "id": "r-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-  "src": "/photos/r-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-1280.jpg",
-  "src800": "/photos/r-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-640.jpg",
+  "id": "v-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "src": "/photos/v-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-1280.jpg",
+  "src800": "/photos/v-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-640.jpg",
   "width": 1280,
-  "height": 797,
-  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Supreme Court of India, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+  "height": 800,
+  "credit": "Photos: Supreme Court of India / Wikimedia Commons; G41rn8 / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 4.0",
+  "alt": "Chief Justice of India Surya Kant and the Calcutta High Court in Kolkata (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और कोलकाता में कलकत्ता हाईकोर्ट (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-1280.jpg",
+   "src800": "/photos/t-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-640.jpg",
+   "cutout": false,
+   "with": [
+    "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1",
+    "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls--p1"
+   ],
+   "kind": "photo",
+   "subj": "bfffbfbd98106060",
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; G41rn8 / Wikimedia Commons; Pinakpani / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons"
+  }
  }
 }

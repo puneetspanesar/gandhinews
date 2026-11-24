@@ -1,0 +1,22 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-24T08:04:16+05:30",
+ "end": "2026-11-24T08:46:22+05:30",
+ "summary": "Bengal SIR tribunals lead; US commission on Dalai Lama succession",
+ "new": [
+  "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "us-commission-dalai-lama-succession-india-channel"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+   "why": "Headline is about the Supreme Court ordering the EC; the main picture (and the lead cover built from it) is the Calcutta High Court building, a different court and not the body or person who acted. The Supreme Court is only a faint corner motif on the cover.",
+   "done": "Main picture replaced with a lead_cover.py cover of CJI Surya Kant (library portrait, led the bench) and the Calcutta High Court; collage remade and read."
+  }
+ ],
+ "breaches": [],
+ "lead": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals"
+}

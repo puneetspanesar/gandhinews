@@ -54382,13 +54382,16 @@
   "page": "https://commons.wikimedia.org/wiki/File:The_Dalai_Lama_in_2012.jpg"
  },
  {
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
-  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Supreme Court of India, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
-  "id": "r-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-  "articleId": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals"
+  "id": "x-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "articleId": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "sourceUrl": "",
+  "credit": "Photos: Supreme Court of India / Wikimedia Commons; G41rn8 / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 4.0",
+  "alt": "Chief Justice of India Surya Kant and the Calcutta High Court in Kolkata (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और कोलकाता में कलकत्ता हाईकोर्ट (फाइल फोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
  }
 ]
