@@ -1,0 +1,15 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-24T20:04:13+05:30",
+ "end": "2026-11-24T20:38:15+05:30",
+ "summary": "ICMR SAMPADA anaemia survey; PMGKAY dropped for no official source",
+ "new": [
+  "anaemia-icmr-sampada-survey-2023-25-nfhs-5"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals"
+}

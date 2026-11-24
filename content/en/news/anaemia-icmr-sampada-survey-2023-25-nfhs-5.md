@@ -114,7 +114,7 @@ The release itself says only that prevalence is lower than in previous national 
 
 ## How the data came to be separate
 
-The health ministry told Parliament on July 28 and July 31, 2026 that it had dropped haemoglobin testing from NFHS-6 because of doubts over the reliability of finger-prick estimates, and that it would adopt ICMR's venous-blood figures instead. NFHS-6, released on May 29, 2026, left out all anaemia indicators. In an RTI reply dated September 1, ICMR-NIN gave no date for releasing the results.
+The health ministry told Parliament on July 28 and July 31, 2026, that it had dropped haemoglobin testing from NFHS-6 because of doubts over the reliability of finger-prick estimates, and that it would adopt ICMR's venous-blood figures instead. NFHS-6, released on May 29, 2026, left out all anaemia indicators. In an RTI reply dated September 1, ICMR-NIN gave no date for releasing the results.
 
 Anaemia Mukt Bharat, launched in 2018, supplies iron and folic acid, deworming and testing to six groups of beneficiaries. It aims to cut anaemia in mothers and children by 3 percentage points a year. NFHS-5 had shown the opposite: children's anaemia rose from 58.6% in NFHS-4 (2015-16) to 67.1%, and women's from 53% to 57%.
 

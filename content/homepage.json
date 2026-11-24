@@ -22,7 +22,7 @@
       "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
     ],
     "relatedBeside": [
-      "rbi-stop-switch-trusted-person-draft-digital-fraud"
+      "anaemia-icmr-sampada-survey-2023-25-nfhs-5"
     ],
     "live": {
       "title": {
@@ -33,6 +33,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "lead": {
+          "en": "Health:",
+          "hi": "स्वास्थ्य:"
+        },
+        "text": {
+          "en": "ICMR survey finds 42% of young children and 56% of women anaemic, below the last national round",
+          "hi": "आईसीएमआर सर्वे: 42% छोटे बच्चे और 56% महिलाएं एनीमिया की शिकार, पिछले राष्ट्रीय दौर से कम"
+        }
+      },
       {
         "link": "rbi-stop-switch-trusted-person-draft-digital-fraud",
         "lead": {
@@ -86,17 +97,6 @@
         "text": {
           "en": "US commission asks Congress for a senior channel with India on the Dalai Lama's succession",
           "hi": "अमेरिकी आयोग ने कांग्रेस से कहा: दलाई लामा के उत्तराधिकार पर भारत के साथ उच्चस्तरीय चैनल बने"
-        }
-      },
-      {
-        "link": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court says it will allow only BS-VI vehicles in Delhi, floats ban on commercial vehicles",
-          "hi": "सुप्रीम कोर्ट बोला दिल्ली में सिर्फ बीएस-VI वाहन चलने देंगे, कमर्शियल वाहनों पर रोक का सुझाव"
         }
       },
       {
@@ -186,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+      "id": "rbi-stop-switch-trusted-person-draft-digital-fraud",
       "also": []
     },
     "list": [
+      "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
       "mha-i4c-whatsapp-web-advisory-log-out",
       "tata-steel-apl-apollo-promoter-stake-open-offer",
       "us-commission-dalai-lama-succession-india-channel",
-      "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
       "west-bengal-cabinet-paschim-banga-rename-december-9"
     ],
     "also": [
       "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-      "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+      "fpi-additional-disclosure-framework-explained-sebi-proposal"
     ]
   },
   "startHere": [
@@ -393,7 +393,7 @@
       "list": [
         "tata-steel-apl-apollo-promoter-stake-open-offer",
         "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
-        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+        "rbi-gupta-new-gdp-series-data-users-conference"
       ]
     },
     {
@@ -407,11 +407,11 @@
     },
     {
       "section": "policy",
-      "lead": "mha-i4c-whatsapp-web-advisory-log-out",
+      "lead": "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
       "list": [
+        "mha-i4c-whatsapp-web-advisory-log-out",
         "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "supertech-cji-surya-kant-recuses-special-bench",
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
+        "supertech-cji-surya-kant-recuses-special-bench"
       ]
     },
     {
@@ -443,18 +443,6 @@
     }
   ],
   "weekAhead": [
-    {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Karthigai Deepam lamp to be lit at the Thiruparankundram Deepathoon by a restricted team",
-        "hi": "थिरुपरनकुंद्रम के दीपथून पर सीमित दल द्वारा कार्तिगई दीपम जलाया जाएगा"
-      },
-      "link": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp"
-    },
     {
       "icon": "calendar-blank",
       "date": {
@@ -515,20 +503,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-23T14:54:43+05:30",
-      "ids": [
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "supertech-cji-surya-kant-recuses-special-bench",
-        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-        "rafale-india-active-fleet-32-of-36-four-lost-claim"
-      ]
-    },
     {
       "at": "2026-11-23T17:29:15+05:30",
       "ids": [
@@ -639,11 +613,31 @@
         "west-bengal-cabinet-paschim-banga-rename-december-9",
         "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
       ]
+    },
+    {
+      "at": "2026-11-24T20:35:20+05:30",
+      "ids": [
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "rbi-stop-switch-trusted-person-draft-digital-fraud",
+        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+        "mha-i4c-whatsapp-web-advisory-log-out",
+        "tata-steel-apl-apollo-promoter-stake-open-offer",
+        "us-commission-dalai-lama-succession-india-channel",
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "rbi-gupta-new-gdp-series-data-users-conference"
+    "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+    "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+    "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
   ],
   "mustReadEn": 7
 }

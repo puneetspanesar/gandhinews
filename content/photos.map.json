@@ -53277,6 +53277,18 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Anganwadi workers with children at an anganwadi centre in India (file photo)",
   "alt_hi": "आंगनवाड़ी केंद्र पर बच्चों के साथ आंगनवाड़ी कार्यकर्ता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Anganwadi_Day_starts_with_prayer.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Anganwadi_Day_starts_with_prayer.jpg",
+  "treated": {
+   "src": "/photos/t-anaemia-icmr-sampada-survey-2023-25-nfhs-5-1280.jpg",
+   "src800": "/photos/t-anaemia-icmr-sampada-survey-2023-25-nfhs-5-640.jpg",
+   "cutout": false,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "f3f3c1c0c080c6c2",
+   "credit": "Photos: Jaisuvyas / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
  }
 }
