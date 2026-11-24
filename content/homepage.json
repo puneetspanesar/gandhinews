@@ -22,7 +22,7 @@
       "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty"
     ],
     "relatedBeside": [
-      "tata-steel-apl-apollo-promoter-stake-open-offer"
+      "mha-i4c-whatsapp-web-advisory-log-out"
     ],
     "live": {
       "title": {
@@ -33,6 +33,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "mha-i4c-whatsapp-web-advisory-log-out",
+        "lead": {
+          "en": "Cybercrime:",
+          "hi": "साइबर अपराध:"
+        },
+        "text": {
+          "en": "Home Ministry's cyber unit tells WhatsApp Web users to log out after every session",
+          "hi": "गृह मंत्रालय की साइबर इकाई की सलाह: हर इस्तेमाल के बाद वॉट्सऐप वेब से लॉग आउट करें"
+        }
+      },
       {
         "link": "tata-steel-apl-apollo-promoter-stake-open-offer",
         "lead": {
@@ -67,6 +78,17 @@
         }
       },
       {
+        "link": "rbi-gupta-new-gdp-series-data-users-conference",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI's Poonam Gupta says new GDP series closes the demand-supply gap and will steady rate decisions",
+          "hi": "आरबीआई की पूनम गुप्ता: नई जीडीपी सीरीज़ ने मांग और आपूर्ति का अंतर घटाया, ब्याज दर के फैसले होंगे स्थिर"
+        }
+      },
+      {
         "link": "west-bengal-cabinet-paschim-banga-rename-december-9",
         "lead": {
           "en": "West Bengal:",
@@ -86,28 +108,6 @@
         "text": {
           "en": "Modi and Nepal PM Shah sign eight MoUs at Hyderabad House, announce NPR 24,000 crore flood package",
           "hi": "मोदी और नेपाल के पीएम शाह ने हैदराबाद हाउस में आठ एमओयू किए, नेपाली रुपये में 24,000 करोड़ के बाढ़ पैकेज की घोषणा"
-        }
-      },
-      {
-        "link": "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "lead": {
-          "en": "Industry:",
-          "hi": "उद्योग:"
-        },
-        "text": {
-          "en": "Factories carry India's flash PMI to 56.3 in November as manufacturing hits a nine-month high",
-          "hi": "नवंबर में भारत का फ्लैश पीएमआई 56.3, कारखानों की रफ़्तार से विनिर्माण नौ महीने के उच्चतम स्तर पर"
-        }
-      },
-      {
-        "link": "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "A BS-VI-only Delhi is the right goal. The Supreme Court should put it in writing, with a plan for the trucks",
-          "hi": "सिर्फ बीएस-VI वाली दिल्ली सही लक्ष्य है। सुप्रीम कोर्ट इसे लिखित आदेश में रखे और ट्रकों की योजना दे"
         }
       },
       {
@@ -186,15 +186,15 @@
   },
   "topStories": {
     "big": {
-      "id": "us-commission-dalai-lama-succession-india-channel",
+      "id": "tata-steel-apl-apollo-promoter-stake-open-offer",
       "also": []
     },
     "list": [
+      "us-commission-dalai-lama-succession-india-channel",
       "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+      "rbi-gupta-new-gdp-series-data-users-conference",
       "west-bengal-cabinet-paschim-banga-rename-december-9",
-      "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-      "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-      "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks"
+      "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
     ],
     "also": [
       "rafale-india-active-fleet-32-of-36-four-lost-claim",
@@ -391,9 +391,9 @@
         ]
       },
       "list": [
+        "rbi-gupta-new-gdp-series-data-users-conference",
         "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "fast-ds-joint-holders-foreign-bank-accounts-separately-december-31"
+        "rbi-panchayat-finances-grants-90-per-cent-report"
       ]
     },
     {
@@ -407,11 +407,11 @@
     },
     {
       "section": "policy",
-      "lead": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+      "lead": "mha-i4c-whatsapp-web-advisory-log-out",
       "list": [
-        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers",
-        "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
-        "ncb-dea-operation-monsoon-thunder-six-arrested-5-lakh-tablets-us"
+        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+        "supertech-cji-surya-kant-recuses-special-bench",
+        "modi-kaushal-deekshant-samaroh-lucknow-iti-52-toppers"
       ]
     },
     {
@@ -516,19 +516,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-23T11:37:43+05:30",
-      "ids": [
-        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
-        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "odisha-akvan-damage-assessment-100-year-flood-plan",
-        "rbi-panchayat-finances-grants-90-per-cent-report",
-        "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
-        "rafale-india-active-fleet-32-of-36-four-lost-claim",
-        "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
-        "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim"
-      ]
-    },
-    {
       "at": "2026-11-23T12:21:16+05:30",
       "ids": [
         "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen",
@@ -632,13 +619,27 @@
         "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
         "rafale-india-active-fleet-32-of-36-four-lost-claim"
       ]
+    },
+    {
+      "at": "2026-11-24T14:30:45+05:30",
+      "ids": [
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
+        "mha-i4c-whatsapp-web-advisory-log-out",
+        "tata-steel-apl-apollo-promoter-stake-open-offer",
+        "us-commission-dalai-lama-succession-india-channel",
+        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+        "rbi-gupta-new-gdp-series-data-users-conference",
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
+        "rafale-india-active-fleet-32-of-36-four-lost-claim"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "rbi-gupta-new-gdp-series-data-users-conference",
-    "fpi-additional-disclosure-framework-explained-sebi-proposal",
-    "supertech-cji-surya-kant-recuses-special-bench",
     "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress"
   ],
   "mustReadEn": 7

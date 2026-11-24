@@ -29,7 +29,7 @@ infographic:
   stats:
     - {icon: users, value: "58,000+", label: "potential victims alerted by SMS in 30 days, as of August 7"}
     - {icon: shield-check, value: "10,000+", label: "Indians protected by geo-blocking of attacker servers"}
-  source: "Ministry of Home Affairs, I4C, November 23, 2026 and August 7, 2026"
+  source: "Ministry of Home Affairs, I4C, November 23, 2026, and August 7, 2026"
 related: [sc-digital-arrest-whatsapp-intermediaries-measures-november-23, digital-arrest-scam-explained-supreme-court-banks-whatsapp]
 seo:
   title: "WhatsApp Web advisory: Home Ministry says log out"
@@ -73,9 +73,9 @@ The statement carries no figures on how many accounts have been affected.
 
 ## How the warnings have built up
 
-I4C has now put out repeated notices on the same weakness. The Press Information Bureau release of August 7, 2026 described a "boss scam" in which fraudsters send malicious .zip files disguised as account statements or notices from the Reserve Bank of India and the Ministry of Corporate Affairs. Opened on a Windows computer, the file **hijacks the WhatsApp Web session**. The attackers then pass the file to the victim's contacts and, posing as senior executives, ask for funds to be moved to mule accounts.
+I4C has now put out repeated notices on the same weakness. The Press Information Bureau release of August 7, 2026, described a "boss scam" in which fraudsters send malicious .zip files disguised as account statements or notices from the Reserve Bank of India and the Ministry of Corporate Affairs. Opened on a Windows computer, the file **hijacks the WhatsApp Web session**. The attackers then pass the file to the victim's contacts and, posing as senior executives, ask for funds to be moved to mule accounts.
 
-That release said chartered accountants, company directors, chief financial officers and finance teams were the main targets, with recent incidents in Delhi, Gujarat, Maharashtra and Rajasthan. It said **more than 58,000 potential victims had been alerted by SMS** under the header "I4CMHA-G" in the previous 30 days, and that more than 10,000 Indians had been protected by geo-blocking the attackers' command servers through the Sahyog portal. It followed an I4C advisory of June 22, 2026 on account takeover through malicious Windows programs.
+That release said chartered accountants, company directors, chief financial officers and finance teams were the main targets, with recent incidents in Delhi, Gujarat, Maharashtra and Rajasthan. It said **more than 58,000 potential victims had been alerted by SMS** under the header "I4CMHA-G" in the previous 30 days, and that more than 10,000 Indians had been protected by geo-blocking the attackers' command servers through the Sahyog portal. It followed an I4C advisory of June 22, 2026, on account takeover through malicious Windows programs.
 
 ```timeline
 {"title":"How the warnings built up","items":[{"date":"June 22, 2026","text":"I4C advisory on WhatsApp account takeover through malicious Windows programs"},{"date":"August 7, 2026","text":"Home Ministry release on the boss scam: 58,000+ alerted, 10,000+ protected"},{"date":"November 10, 2026","text":"Supreme Court asks WhatsApp to set out measures against digital arrest scams"},{"date":"November 23, 2026","text":"I4C advisory on logged-in WhatsApp Web sessions"}]}
