@@ -53420,11 +53420,24 @@
   "src": "/photos/r-rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged-1280.jpg",
   "src800": "/photos/r-rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged-640.jpg",
   "width": 1280,
-  "height": 824,
-  "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons",
+  "height": 688,
+  "credit": "Photo: Subhrasingh / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "A State Bank of India branch in Mansa district, Punjab (file photo)",
-  "alt_hi": "पंजाब के मानसा ज़िले में भारतीय स्टेट बैंक की एक शाखा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Jhunir_branch.jpg"
+  "alt": "The Reserve Bank of India office in Bhubaneswar (file photo)",
+  "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg",
+  "treated": {
+   "src": "/photos/t-rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged-1280.jpg",
+   "src800": "/photos/t-rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged-640.jpg",
+   "cutout": false,
+   "with": [
+    "rbi-stop-switch-trusted-person-draft-digital-fraud",
+    "axis-bank-q2-profit-rises-38-per-cent-misses-estimates",
+    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffffc30100000000",
+   "credit": "Photos: Subhrasingh / Wikimedia Commons; Sailko / Wikimedia Commons; Christopher J. Fynn / Wikimedia Commons; Digamber / Wikimedia Commons"
+  }
  }
 }

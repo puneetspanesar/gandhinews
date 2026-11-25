@@ -1,0 +1,28 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-25T11:04:27+05:30",
+ "end": "2026-11-25T11:33:35+05:30",
+ "summary": "1 story (RBI D-SIB list), homepage lead Modi-Merz",
+ "new": [
+  "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+   "why": "Main picture is a small SBI branch in Jhunir, Mansa district, Punjab (Punjabi signage, scooters, a kiosk). The story is about the RBI's too-big-to-fail list for SBI, HDFC Bank and ICICI Bank. A rural branch is a generic stand-in, and the hero alt text in the file says 'State Bank of India's headquarters in Mumbai', which is not what the picture shows.",
+   "done": "Main photo replaced with the library's RBI Bhubaneswar office file photo; alt and hero need in both languages now match it."
+  },
+  {
+   "id": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+   "why": "English text gives dates without the year ('November 23', 'Monday, November 23', 'November 13') in the standfirst, body and keyPoints. The rule is 'November 5, 2026'.",
+   "done": "Every 'November 23' in the English file now reads 'November 23, 2026'; Hindi twin given the year in step."
+  }
+ ],
+ "breaches": [
+  "markets band figures are more than 6 hours old while the market is open: 2026-11-23T17:28:22+05:30"
+ ],
+ "lead": "modi-merz-phone-call-india-germany-75-years-eu-fta"
+}
