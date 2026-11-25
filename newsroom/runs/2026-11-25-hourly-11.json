@@ -1,11 +1,9 @@
 {
  "run": "hourly-11",
  "start": "2026-11-25T11:04:27+05:30",
- "end": "2026-11-25T11:33:35+05:30",
- "summary": "1 story (RBI D-SIB list), homepage lead Modi-Merz",
- "new": [
-  "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged"
- ],
+ "end": "2026-11-25T11:48:19+05:30",
+ "summary": "expire two held stories",
+ "new": [],
  "held": [],
  "editor": "FAIL",
  "editor_fail": [],
