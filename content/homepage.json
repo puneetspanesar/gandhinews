@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "modi-merz-phone-call-india-germany-75-years-eu-fta",
+    "id": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
     "overlay": {
       "kicker": {
-        "en": "World / Europe",
-        "hi": "दुनिया / यूरोप"
+        "en": "World / Gulf",
+        "hi": "दुनिया / खाड़ी"
       },
       "value": {
-        "en": "India-Germany: 75 years, EU deal ahead",
-        "hi": "भारत-जर्मनी: 75 साल, ईयू समझौता आगे"
+        "en": "Two Indians hurt in Riyadh tower strike",
+        "hi": "रियाद टावर हमले में दो भारतीय घायल"
       },
       "text": {
         "en": "",
@@ -18,17 +18,28 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
-      "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged"
+      "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave"
     ],
     "live": {
       "title": {
-        "en": "Europe",
-        "hi": "यूरोप"
+        "en": "Gulf",
+        "hi": "खाड़ी"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "India's space economy, about $9 billion today, could reach $40-45 billion in under a decade, says Jitendra Singh",
+          "hi": "भारत की अंतरिक्ष अर्थव्यवस्था अभी करीब 9 अरब डॉलर, एक दशक से कम में 40-45 अरब डॉलर तक पहुंच सकती है: जितेंद्र सिंह"
+        }
+      },
       {
         "link": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
         "lead": {
@@ -38,6 +49,17 @@
         "text": {
           "en": "RBI keeps SBI, HDFC Bank and ICICI Bank as 'too big to fail' lenders, with no change in their capital buckets",
           "hi": "आरबीआई ने एसबीआई, एचडीएफसी बैंक और आईसीआईसीआई बैंक को फिर 'डूबने नहीं दिए जा सकने वाले' बैंकों में रखा, बकेट में कोई बदलाव नहीं"
+        }
+      },
+      {
+        "link": "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "lead": {
+          "en": "Europe:",
+          "hi": "यूरोप:"
+        },
+        "text": {
+          "en": "Modi and Merz speak by phone as India and Germany mark 75 years, with the EU trade deal in view",
+          "hi": "भारत-जर्मनी संबंधों के 75 साल: मोदी और मर्ज़ की फोन पर बात, ईयू व्यापार समझौते पर नज़र"
         }
       },
       {
@@ -71,17 +93,6 @@
         "text": {
           "en": "Heavy rain alert for Chennai, 20 other Tamil Nadu districts, Puducherry and Karaikal till November 27",
           "hi": "चेन्नई और 20 अन्य जिलों, पुदुचेरी व कराईकल में 27 नवंबर तक भारी बारिश की चेतावनी"
-        }
-      },
-      {
-        "link": "mha-i4c-whatsapp-web-advisory-log-out",
-        "lead": {
-          "en": "Cybercrime:",
-          "hi": "साइबर अपराध:"
-        },
-        "text": {
-          "en": "Home Ministry's cyber unit tells WhatsApp Web users to log out after every session",
-          "hi": "गृह मंत्रालय की साइबर इकाई की सलाह: हर इस्तेमाल के बाद वॉट्सऐप वेब से लॉग आउट करें"
         }
       },
       {
@@ -171,17 +182,20 @@
   },
   "topStories": {
     "big": {
-      "id": "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+      "id": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
       "also": []
     },
     "list": [
+      "modi-merz-phone-call-india-germany-75-years-eu-fta",
+      "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
       "rbi-stop-switch-trusted-person-draft-digital-fraud",
       "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
-      "mha-i4c-whatsapp-web-advisory-log-out",
-      "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-      "us-commission-dalai-lama-succession-india-channel"
+      "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals"
     ],
-    "also": []
+    "also": [
+      "us-commission-dalai-lama-succession-india-channel",
+      "shivraj-chouhan-punjab-pmfby-not-implemented-claim"
+    ]
   },
   "startHere": [
     "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
@@ -374,8 +388,8 @@
       },
       "list": [
         "rbi-stop-switch-trusted-person-draft-digital-fraud",
-        "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
-        "rbi-gupta-new-gdp-series-data-users-conference"
+        "tata-steel-apl-apollo-promoter-stake-open-offer",
+        "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress"
       ]
     },
     {
@@ -389,11 +403,11 @@
     },
     {
       "section": "policy",
-      "lead": "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+      "lead": "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
       "list": [
+        "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
         "mha-i4c-whatsapp-web-advisory-log-out",
-        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "supertech-cji-surya-kant-recuses-special-bench"
+        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted"
       ]
     },
     {
@@ -408,11 +422,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "modi-merz-phone-call-india-germany-75-years-eu-fta",
+      "lead": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
       "list": [
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
         "us-commission-dalai-lama-succession-india-channel",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "india-netherlands-first-foreign-ministers-meeting-jaishankar-berendsen"
+        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
       ]
     },
     {
@@ -485,23 +499,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-24T11:41:57+05:30",
-      "ids": [
-        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
-        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-        "tata-steel-apl-apollo-promoter-stake-open-offer",
-        "us-commission-dalai-lama-succession-india-channel",
-        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "west-bengal-cabinet-paschim-banga-rename-december-9",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high",
-        "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
-        "rafale-india-active-fleet-32-of-36-four-lost-claim"
-      ]
-    },
     {
       "at": "2026-11-24T14:30:45+05:30",
       "ids": [
@@ -605,11 +602,24 @@
         "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
         "us-commission-dalai-lama-succession-india-channel"
       ]
+    },
+    {
+      "at": "2026-11-25T14:46:30+05:30",
+      "ids": [
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "rbi-stop-switch-trusted-person-draft-digital-fraud",
+        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "us-commission-dalai-lama-succession-india-channel"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "tata-steel-apl-apollo-promoter-stake-open-offer",
     "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
   ],
   "mustReadEn": 7

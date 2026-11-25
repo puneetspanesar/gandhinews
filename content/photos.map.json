@@ -53463,7 +53463,16 @@
   "licence": "GODL-India",
   "alt": "Randhir Jaiswal (file photo)",
   "alt_hi": "रणधीर जायसवाल (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Randhir_Jaiswal_Indian_Foreign_Service_Diplomat_(cropped).jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Randhir_Jaiswal_Indian_Foreign_Service_Diplomat_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-condemns-riyadh-financial-district-tower-attack-two-in-1280.jpg",
+   "src800": "/photos/t-india-condemns-riyadh-financial-district-tower-attack-two-in-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "e7c7cffefe811100",
+   "credit": "Photo: Consulate General of India in New York USA, Government of India / Wikimedia Commons"
+  }
  },
  "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave": {
   "id": "o-space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
@@ -53476,6 +53485,19 @@
   "licence": "GODL-India",
   "alt": "Jitendra Singh (file photo)",
   "alt_hi": "जितेंद्र सिंह (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jitendra_Singh_Rana.jpg"
+  "page": "https://commons.wikimedia.org/wiki/File:Jitendra_Singh_Rana.jpg",
+  "treated": {
+   "src": "/photos/t-space-economy-9-billion-40-45-billion-jitendra-singh-ispa-co-1280.jpg",
+   "src800": "/photos/t-space-economy-9-billion-40-45-billion-jitendra-singh-ispa-co-640.jpg",
+   "cutout": true,
+   "with": [
+    "starlink-waits-on-security-clearance-as-musk-row-escalates",
+    "perseverance-mars-complex-organic-carbon-bright-angel",
+    "india-oil-import-bill-explained-record-october-price-rupee-who-pays--p1"
+   ],
+   "kind": "portrait",
+   "subj": "18183c667e7e3f",
+   "credit": "Photos: Ministry of Personnel, Public Grievances and Pensions / Wikimedia Commons; Ka23 13 / Wikimedia Commons; NASA / Wikimedia Commons"
+  }
  }
 }

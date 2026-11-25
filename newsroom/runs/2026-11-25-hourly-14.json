@@ -1,0 +1,18 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-25T14:04:58+05:30",
+ "end": "2026-11-25T14:50:31+05:30",
+ "summary": "2 stories: Riyadh tower attack (lead), space economy; Khalid-Imam bail story held for the court order",
+ "new": [
+  "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+  "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave"
+ ],
+ "held": [
+  "umar-khalid-sharjeel-imam-sc-notice-delhi-police-three-judge-bench"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured"
+}
