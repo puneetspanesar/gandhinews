@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+    "id": "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
     "overlay": {
       "kicker": {
-        "en": "World / Gulf",
-        "hi": "दुनिया / खाड़ी"
+        "en": "Economy / Industry",
+        "hi": "अर्थव्यवस्था / उद्योग"
       },
       "value": {
-        "en": "Two Indians hurt in Riyadh tower strike",
-        "hi": "रियाद टावर हमले में दो भारतीय घायल"
+        "en": "₹11,000 cr to make heavy machines",
+        "hi": "भारी मशीनों के लिए ₹11,000 करोड़"
       },
       "text": {
         "en": "",
@@ -22,8 +22,8 @@
     ],
     "live": {
       "title": {
-        "en": "Gulf",
-        "hi": "खाड़ी"
+        "en": "Industry",
+        "hi": "उद्योग"
       }
     }
   },
@@ -41,14 +41,14 @@
         }
       },
       {
-        "link": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+        "link": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
         "lead": {
-          "en": "Banking:",
-          "hi": "बैंकिंग:"
+          "en": "Gulf:",
+          "hi": "खाड़ी:"
         },
         "text": {
-          "en": "RBI keeps SBI, HDFC Bank and ICICI Bank as 'too big to fail' lenders, with no change in their capital buckets",
-          "hi": "आरबीआई ने एसबीआई, एचडीएफसी बैंक और आईसीआईसीआई बैंक को फिर 'डूबने नहीं दिए जा सकने वाले' बैंकों में रखा, बकेट में कोई बदलाव नहीं"
+          "en": "India condemns Riyadh tower attack after two Indians among 11 injured",
+          "hi": "रियाद टावर पर हमले में 11 घायल, दो भारतीय भी शामिल; भारत ने की निंदा"
         }
       },
       {
@@ -74,17 +74,6 @@
         }
       },
       {
-        "link": "rbi-stop-switch-trusted-person-draft-digital-fraud",
-        "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
-        },
-        "text": {
-          "en": "RBI proposes a 'stop switch' and trusted-person check to block digital payment fraud",
-          "hi": "आरबीआई का प्रस्ताव: डिजिटल भुगतान फ्रॉड रोकने के लिए 'स्टॉप स्विच' और भरोसेमंद व्यक्ति की जांच"
-        }
-      },
-      {
         "link": "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
         "lead": {
           "en": "Tamil Nadu:",
@@ -107,14 +96,14 @@
         }
       },
       {
-        "link": "us-commission-dalai-lama-succession-india-channel",
+        "link": "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
         "lead": {
-          "en": "US-India:",
-          "hi": "अमेरिका-भारत:"
+          "en": "Banking:",
+          "hi": "बैंकिंग:"
         },
         "text": {
-          "en": "US commission asks Congress for a senior channel with India on the Dalai Lama's succession",
-          "hi": "अमेरिकी आयोग ने कांग्रेस से कहा: दलाई लामा के उत्तराधिकार पर भारत के साथ उच्चस्तरीय चैनल बने"
+          "en": "The RBI's 'stop switch' explained: what the draft would let you block, and what it would not",
+          "hi": "आरबीआई का 'स्टॉप स्विच' क्या है: मसौदे में ग्राहक क्या रोक सकेंगे और क्या नहीं"
         }
       }
     ]
@@ -182,20 +171,17 @@
   },
   "topStories": {
     "big": {
-      "id": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+      "id": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
       "also": []
     },
     "list": [
       "modi-merz-phone-call-india-germany-75-years-eu-fta",
       "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
-      "rbi-stop-switch-trusted-person-draft-digital-fraud",
       "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
-      "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals"
+      "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+      "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
     ],
-    "also": [
-      "us-commission-dalai-lama-succession-india-channel",
-      "shivraj-chouhan-punjab-pmfby-not-implemented-claim"
-    ]
+    "also": []
   },
   "startHere": [
     "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
@@ -376,7 +362,7 @@
     },
     {
       "section": "economy",
-      "lead": "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+      "lead": "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
       "module": {
         "type": "markets",
         "indicators": [
@@ -387,9 +373,9 @@
         ]
       },
       "list": [
-        "rbi-stop-switch-trusted-person-draft-digital-fraud",
-        "tata-steel-apl-apollo-promoter-stake-open-offer",
-        "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress"
+        "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
+        "rbi-gupta-new-gdp-series-data-users-conference",
+        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
       ]
     },
     {
@@ -500,23 +486,6 @@
   ],
   "headlineHistory": [
     {
-      "at": "2026-11-24T14:30:45+05:30",
-      "ids": [
-        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
-        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-        "mha-i4c-whatsapp-web-advisory-log-out",
-        "tata-steel-apl-apollo-promoter-stake-open-offer",
-        "us-commission-dalai-lama-succession-india-channel",
-        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "rbi-gupta-new-gdp-series-data-users-conference",
-        "west-bengal-cabinet-paschim-banga-rename-december-9",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23",
-        "rafale-india-active-fleet-32-of-36-four-lost-claim"
-      ]
-    },
-    {
       "at": "2026-11-24T17:25:16+05:30",
       "ids": [
         "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
@@ -616,11 +585,30 @@
         "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
         "us-commission-dalai-lama-succession-india-channel"
       ]
+    },
+    {
+      "at": "2026-11-25T17:38:37+05:30",
+      "ids": [
+        "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
+    "rbi-stop-switch-trusted-person-draft-digital-fraud",
+    "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+    "tata-steel-apl-apollo-promoter-stake-open-offer",
+    "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+    "fpi-additional-disclosure-framework-explained-sebi-proposal",
+    "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks"
   ],
   "mustReadEn": 7
 }

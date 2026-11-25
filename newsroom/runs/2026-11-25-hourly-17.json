@@ -1,0 +1,23 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-25T17:05:03+05:30",
+ "end": "2026-11-25T17:41:21+05:30",
+ "summary": "1 story (Cabinet CIE scheme, lead), TN conclave held for primary source, markets close",
+ "new": [
+  "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries"
+ ],
+ "held": [
+  "tamil-nadu-vettri-conclave-78-mous-58214-crore"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "too many business/SEBI stories at the top, BS-VI and Bengal SIR shown twice, RBI stop switch twice",
+   "done": "refresh_home.py --drop of the RBI stop switch news, Bengal SIR editorial, Tata Steel/APL Apollo, RBI D-SIB, SEBI FPI explainer, Jairam Ramesh SEBI fact check and BS-VI editorial; lead kept on the Cabinet CIE scheme"
+  }
+ ],
+ "breaches": [],
+ "lead": "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries"
+}

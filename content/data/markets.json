@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-25T12:20:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-25T17:25:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-25",
   "chart": "nifty-50",
   "indices": [
@@ -8,14 +8,10 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 84352.46,
-      "change": 1916.47,
-      "pct": 2.32,
+      "value": 83938.28,
+      "change": 1502.29,
+      "pct": 1.82,
       "history": [
-        {
-          "date": "2026-10-07",
-          "close": 72638.7
-        },
         {
           "date": "2026-10-08",
           "close": 71593.24
@@ -131,6 +127,10 @@
         {
           "date": "2026-11-23",
           "close": 82435.99
+        },
+        {
+          "date": "2026-11-25",
+          "close": 83938.28
         }
       ],
       "source": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html"
@@ -139,14 +139,10 @@
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25916.9,
-      "change": 567.25,
-      "pct": 2.24,
+      "value": 25819.25,
+      "change": 469.6,
+      "pct": 1.85,
       "history": [
-        {
-          "date": "2026-10-08",
-          "close": 22231.8
-        },
         {
           "date": "2026-10-09",
           "close": 22520.45
@@ -262,6 +258,10 @@
         {
           "date": "2026-11-23",
           "close": 25349.65
+        },
+        {
+          "date": "2026-11-25",
+          "close": 25819.25
         }
       ],
       "source": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html"
@@ -270,9 +270,9 @@
       "id": "nifty-bank",
       "name": "Nifty Bank",
       "name_hi": "निफ्टी बैंक",
-      "value": 62585.35,
-      "change": -2049.85,
-      "pct": -3.17,
+      "value": 63703.25,
+      "change": 1117.9,
+      "pct": 1.79,
       "history": [
         {
           "date": "2026-11-04",
@@ -289,6 +289,10 @@
         {
           "date": "2026-11-23",
           "close": 62585.35
+        },
+        {
+          "date": "2026-11-25",
+          "close": 63703.25
         }
       ],
       "source": "https://univest.in/blogs/closing-bell-sensex-nifty-bank-nifty-23-november-2026"
@@ -336,9 +340,9 @@
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 16.43,
-      "change": -1.27,
-      "pct": -7.18,
+      "value": 17.64,
+      "change": -0.38,
+      "pct": -0.34,
       "history": [
         {
           "date": "2026-11-04",
@@ -359,6 +363,10 @@
         {
           "date": "2026-11-23",
           "close": 18.02
+        },
+        {
+          "date": "2026-11-25",
+          "close": 17.64
         }
       ],
       "source": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html"
@@ -369,12 +377,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 92.9,
-      "change": -0.25,
-      "pct": -0.27,
+      "value": 92.22,
+      "change": -0.68,
+      "pct": -0.73,
       "decimals": 2,
       "unit": "",
-      "source": "https://www.goodreturns.in/news/stock-market-carnage-why-sensex-fell-1484-pts-nifty-50-fell-2-5-reasons-why-rs-5-20-lakh-crore-wiped-1549053.html"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-25-november-2026.html"
     },
     {
       "id": "brent",
@@ -382,11 +390,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 89.36,
-      "change": -3.21,
-      "pct": -3.47,
+      "value": 88.12,
+      "change": -1.24,
+      "pct": -1.39,
       "decimals": 2,
-      "source": "https://www.kotakneo.com/news/market-news/sensex-nifty-close-lower-as-banking-stocks-weigh-on-markets/"
+      "source": "https://www.marketcalls.in/futures-and-options/post-market-report-25-november-2026.html"
     },
     {
       "id": "gold",
@@ -428,49 +436,74 @@
   "movers": {
     "gainers": [
       {
-        "name": "TCS",
+        "name": "HUL",
+        "pct": 5.49
+      },
+      {
+        "name": "HDFC Life",
+        "pct": 4.88
+      },
+      {
+        "name": "Tata Consumer",
+        "pct": 4.15
+      },
+      {
+        "name": "IndiGo",
+        "pct": 3.68
+      },
+      {
+        "name": "Nestle India",
         "pct": 3.53
-      },
-      {
-        "name": "Shriram Finance",
-        "pct": 2.46
-      },
-      {
-        "name": "Tech Mahindra",
-        "pct": 1.79
       }
     ],
     "losers": [
       {
         "name": "Tata Steel",
-        "pct": -8.43
+        "pct": -2.44
+      },
+      {
+        "name": "Max Healthcare",
+        "pct": -1.79
+      },
+      {
+        "name": "JSW Steel",
+        "pct": -1.43
+      },
+      {
+        "name": "Hindalco",
+        "pct": -1.37
       }
     ],
-    "source": "https://univest.in/blogs/closing-bell-sensex-nifty-bank-nifty-23-november-2026"
+    "source": "https://www.marketcalls.in/futures-and-options/post-market-report-25-november-2026.html"
   },
   "sectors": [
     {
-      "name": "IT",
-      "name_hi": "आईटी",
-      "pct": 1.69
+      "name": "FMCG",
+      "name_hi": "एफएमसीजी",
+      "pct": 3.79
+    },
+    {
+      "name": "Pharma",
+      "name_hi": "फार्मा",
+      "pct": 2.37
     },
     {
       "name": "Private Bank",
       "name_hi": "प्राइवेट बैंक",
-      "pct": -3.19
-    },
-    {
-      "name": "PSU Bank",
-      "name_hi": "पीएसयू बैंक",
-      "pct": -3.25
+      "pct": 2.21
     },
     {
       "name": "Metal",
       "name_hi": "मेटल",
-      "pct": -3.68
+      "pct": -2.06
+    },
+    {
+      "name": "Media",
+      "name_hi": "मीडिया",
+      "pct": -4.38
     }
   ],
-  "sectors_source": "https://univest.in/blogs/closing-bell-sensex-nifty-bank-nifty-23-november-2026",
+  "sectors_source": "https://www.marketcalls.in/futures-and-options/post-market-report-25-november-2026.html",
   "flows": {
     "date": "2026-11-19",
     "fii": 7411.41,
@@ -519,7 +552,8 @@
     "23 Nov 12:25 IST (stall-12): Nifty 50 25,545.10 (-255.50, -0.99%) and Nifty 50 gainers and losers at 11:47 am (Angel One); Sensex 83,305.94 (-613.77, -0.73%) at 10:11 am (Daijiworld, PTI copy); India VIX 18.14 (+4.73%) and Brent $91.97 (-0.65%) in early trade (HDFC Sky open report, 10:06 am). Nifty Bank down about 2% after a record 65,000 but no level read, kept with Midcap, rupee, gold, silver, yield and sectors at earlier values. Nov 20 FPI buying Rs 10,308 crore read but no DII figure, so flows keep Nov 19. Business Standard live blog failed to load.",
     "23 Nov close (read after 5 pm IST): Sensex 82,435.99 (-1,483.72, -1.77%) and Nifty 50 25,349.65 (-450.95, -1.75%) per Univest, Business Today, Kotak Neo and Goodreturns; Nifty Bank 62,585.35 and India VIX 18.02 (+4.04%) from Univest; Midcap 100 -1.01% from Kotak Neo (Business Today says -1.02%), level and change worked out from the Nov 20 close; Brent $89.36 is Kotak Neo's 3:36 pm level, change against the previous close implied by the earlier entry (92.57); rupee 92.90 close (Goodreturns), change against the stored 93.15. Movers: only three gainers and one Nifty 50 loser had a printed %; sectors are the four with a printed % (older sector entries dropped as stale). Gold, silver, 10-year yield and FII/DII flows not found: old values and dates kept.",
     "24 Nov 14:20 IST (hourly-14): NSE and BSE are closed today for Guru Nanak Jayanti (Goodreturns and Angel One holiday notes read this run; 2026-11-24 is also in holidays). No session, so Nov 23 closing values kept, status closed, as_of and session_date unchanged.",
-    "25 Nov 12:20 IST (stall-12): Sensex 84,352.46 (+1,916.47, +2.32%) and Nifty 50 25,916.90 (+567.25, +2.24%) at 12:00 pm, India VIX 16.43 (-7.18%, 9:53 am; change worked out from the printed %) from the Business Standard live blog read this run. Nifty Bank, Midcap level, rupee, Brent, gold, silver, yield, Nifty 50 movers with %, sectors and flows not found with a dated figure in sources read this run: earlier values kept. No close added to history (intraday)."
+    "25 Nov 12:20 IST (stall-12): Sensex 84,352.46 (+1,916.47, +2.32%) and Nifty 50 25,916.90 (+567.25, +2.24%) at 12:00 pm, India VIX 16.43 (-7.18%, 9:53 am; change worked out from the printed %) from the Business Standard live blog read this run. Nifty Bank, Midcap level, rupee, Brent, gold, silver, yield, Nifty 50 movers with %, sectors and flows not found with a dated figure in sources read this run: earlier values kept. No close added to history (intraday).",
+    "25 Nov 17:25 IST (hourly-17): closes Sensex 83,938.28 (+1,502.29, +1.82%), Nifty 50 25,819.25 (+469.60, +1.85%), Nifty Bank 63,703.25 (+1.79%, change worked out from the stored Nov 23 close), India VIX 17.64 (-0.34%), Brent $88.12, rupee 92.22, Nifty 50 movers and sectors from the marketcalls post-market report read this run; closes appended to history. Midcap level, gold, silver, yield and FII/DII flows not found: kept."
   ],
   "holidays": [
     "2026-11-10",

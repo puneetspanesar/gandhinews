@@ -114,10 +114,6 @@ India's construction equipment industry is the world's third largest, after Chin
 
 How much of that is imported depends on the count. The Indian Construction Equipment Manufacturers' Association (ICEMA) has estimated imports of about ₹34,500 crore in 2024-25, of which **₹30,250 crore was components and aggregates** such as engines, hydraulics, electronics and transmissions, and only ₹4,250 crore was finished machines. A separate figure given at the briefing, as reported, puts the import-dependent share of the market at about 45%. The scheme covers seven categories that are fully or largely imported: tunnel boring machines, off-highway trucks, excavators, cranes, loaders, piling rigs and drilling machines.
 
-```photo
-{"n":1,"subject":"Tunnel boring machine","caption":"A tunnel boring machine, one of the seven equipment types the scheme covers and almost wholly imported today.","alt":"A tunnel boring machine at a construction site"}
-```
-
 ## Why the timing matters
 
 China has tightened exports of some heavy equipment, including tunnel boring machines, walking excavators and wet shotcrete machines used at altitude, and licences from Chinese authorities are now needed, with rules reported to have taken effect on November 18. Hill, border, rail, tunnel and hydropower projects in India depend on such machines, and the curbs could also hold up spare parts, repairs and technical support for machines already in use. Two Herrenknecht machines for the Mumbai-Ahmedabad bullet train were reported to have sat at a Chinese port for over a year before reaching India in March 2026. The government has not formally linked the scheme to the curbs.
@@ -135,10 +131,6 @@ The scheme was announced in the Union Budget for 2026-27, with a token provision
 ```
 
 The Kamarajar terminal will be built on a public-private partnership basis with a concessionaire chosen by global bidding, and the Centre will carry no financial burden for the investment. The port will separately bear about ₹450 crore of dredging. The Cabinet statement is reported to put jobs at about 750 during construction and about 800 in operation.
-
-```photo
-{"n":2,"subject":"Kamarajar Port","caption":"Kamarajar Port near Chennai, where the Cabinet approved a second container terminal costing ₹4,288 crore.","alt":"Container terminal at Kamarajar Port"}
-```
 
 The postal money covers mail and parcel networks, rural access, and the building, renovation and branding of post offices, including 2,550 sub-post offices and 20 heritage buildings.
 
