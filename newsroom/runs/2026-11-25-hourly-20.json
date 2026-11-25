@@ -1,0 +1,22 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-25T20:04:55+05:30",
+ "end": "2026-11-25T20:39:30+05:30",
+ "summary": "2 stories: NIPU urea plants (lead), auto PLI payouts; homepage rebalanced",
+ "new": [
+  "nipu-urea-six-brownfield-plants-54000-crore",
+  "pli-auto-incentive-4385-crore-heavy-industries"
+ ],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Top of the page is far too heavy on economy and business (rule 11). Lead is the urea plants story, and the top headlines also carry the Cabinet construction-equipment scheme, space economy, Auto PLI, RBI/SBI capital buckets, the RBI stop-switch explainer, the oil import bill explainer, and Tata Steel/APL Apollo in Must Read. That is far more than two from one section and well over one markets/business story. The RBI stop switch also appears twice (Must Read item 1 and the Banking explainer in the lead block), and the Cabinet 11,000 crore scheme and Auto PLI (same ministry) sit next to each other in the middle column. Fix: keep at most one business/markets story and two economy stories in the top headlines; drop the duplicate stop-switch item; move Auto PLI and the oil explainer lower; promote stories from other sections (politics, courts, world, states). frontpages.txt shows bigger stories we do not have on the site (Supreme Court sets aside Allahabad HC order on the Rahul Gandhi complaint, Umar Khalid/Sharjeel Imam bail deferred); if they can be written they should lead. Minor: desktop lead headline says 'worth Rs 54,000 crore' while the story title and mobile say 'about Rs 54,000 crore', so make them match.",
+   "done": "refresh_home.py --lead urea --pin SC Bengal SIR, Riyadh attack, Modi-Merz, MHA WhatsApp advisory --drop stop-switch explainer (duplicate), Cabinet CIE scheme (same ministry as PLI), Tata Steel/APL Apollo, oil bill explainer. Lead title 'worth about' matches the story title. SC Rahul Gandhi and Umar Khalid stories not written: no official order readable this run (Umar Khalid already held for that reason)."
+  }
+ ],
+ "breaches": [],
+ "lead": "nipu-urea-six-brownfield-plants-54000-crore"
+}

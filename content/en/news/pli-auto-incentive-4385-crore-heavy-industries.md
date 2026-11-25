@@ -45,9 +45,9 @@ verification:
   notes:
     - "Primary release is the Hindi PRID 2341494 (Nov 25, 2026, 3:56 pm). No English version was found on PIB; Tamil PRID 2341517 carries the same figures."
     - "The ₹2,386.36 crore paid before 2026-27 is our subtraction (6,771.64 minus 4,385.28), not a figure in the release. The 1.8 times comparison and the 65% share are our arithmetic."
-    - "Year-ago comparison uses the ministry's December 31, 2025 release (data to September 30, 2025). The December release calls the sales measure 'cumulative determined sales'; the November 2026 release calls it additional sales over the FY 2019-20 base. Treated as the same series but worded with care."
+    - "Year-ago comparison uses the ministry's December 31, 2025, release (data to September 30, 2025). The December release calls the sales measure 'cumulative determined sales'; the November 2026 release calls it additional sales over the FY 2019-20 base. Treated as the same series but worded with care."
     - "The release names no company and says nothing on how many firms were paid in 2026-27; company names are from the December 2025 releases."
-    - "No end-date statement in the November release; the performance period FY 2023-24 to FY 2027-28 is from the December 31, 2025 release. Timing of payment after each performance year is inferred from that release's tables (FY 2023-24 sales paid in FY 2024-25)."
+    - "No end-date statement in the November release; the performance period FY 2023-24 to FY 2027-28 is from the December 31, 2025, release. Timing of payment after each performance year is inferred from that release's tables (FY 2023-24 sales paid in FY 2024-25)."
     - "No picture found: PIB release carries no photo, people library has no Kumaraswamy, quick_photo returned nothing."
 infographic:
   kicker: Auto PLI scheme

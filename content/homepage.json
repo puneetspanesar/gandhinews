@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+    "id": "nipu-urea-six-brownfield-plants-54000-crore",
     "overlay": {
       "kicker": {
-        "en": "Economy / Industry",
-        "hi": "अर्थव्यवस्था / उद्योग"
+        "en": "Economy / Fertilisers",
+        "hi": "अर्थव्यवस्था / उर्वरक"
       },
       "value": {
-        "en": "₹11,000 cr to make heavy machines",
-        "hi": "भारी मशीनों के लिए ₹11,000 करोड़"
+        "en": "Six new urea plants, ₹54,000 crore",
+        "hi": "छह नए यूरिया संयंत्र, ₹54,000 करोड़"
       },
       "text": {
         "en": "",
@@ -16,28 +16,32 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+      "modi-world-bank-50-crore-poverty-claim",
+      "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left"
+    ],
     "relatedBeside": [
-      "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave"
+      "pli-auto-incentive-4385-crore-heavy-industries"
     ],
     "live": {
       "title": {
-        "en": "Industry",
-        "hi": "उद्योग"
+        "en": "Fertilisers",
+        "hi": "उर्वरक"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "link": "pli-auto-incentive-4385-crore-heavy-industries",
         "lead": {
-          "en": "Space:",
-          "hi": "अंतरिक्ष:"
+          "en": "Auto Industry:",
+          "hi": "ऑटो उद्योग:"
         },
         "text": {
-          "en": "India's space economy, about $9 billion today, could reach $40-45 billion in under a decade, says Jitendra Singh",
-          "hi": "भारत की अंतरिक्ष अर्थव्यवस्था अभी करीब 9 अरब डॉलर, एक दशक से कम में 40-45 अरब डॉलर तक पहुंच सकती है: जितेंद्र सिंह"
+          "en": "Auto PLI has paid ₹4,385 crore this year, 65% of the ₹6,772 crore paid since the scheme began",
+          "hi": "ऑटो पीएलआई में इस साल ₹4,385 करोड़ बंटे, शुरुआत से अब तक के ₹6,772 करोड़ का 65%"
         }
       },
       {
@@ -63,14 +67,36 @@
         }
       },
       {
-        "link": "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "link": "mha-i4c-whatsapp-web-advisory-log-out",
         "lead": {
-          "en": "Health:",
-          "hi": "स्वास्थ्य:"
+          "en": "Cybercrime:",
+          "hi": "साइबर अपराध:"
         },
         "text": {
-          "en": "ICMR survey finds 42% of young children and 56% of women anaemic, below the last national round",
-          "hi": "आईसीएमआर सर्वे: 42% छोटे बच्चे और 56% महिलाएं एनीमिया की शिकार, पिछले राष्ट्रीय दौर से कम"
+          "en": "Home Ministry's cyber unit tells WhatsApp Web users to log out after every session",
+          "hi": "गृह मंत्रालय की साइबर इकाई की सलाह: हर इस्तेमाल के बाद वॉट्सऐप वेब से लॉग आउट करें"
+        }
+      },
+      {
+        "link": "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "India's space economy, about $9 billion today, could reach $40-45 billion in under a decade, says Jitendra Singh",
+          "hi": "भारत की अंतरिक्ष अर्थव्यवस्था अभी करीब 9 अरब डॉलर, एक दशक से कम में 40-45 अरब डॉलर तक पहुंच सकती है: जितेंद्र सिंह"
+        }
+      },
+      {
+        "link": "rbi-stop-switch-trusted-person-draft-digital-fraud",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "RBI proposes a 'stop switch' and trusted-person check to block digital payment fraud",
+          "hi": "आरबीआई का प्रस्ताव: डिजिटल भुगतान फ्रॉड रोकने के लिए 'स्टॉप स्विच' और भरोसेमंद व्यक्ति की जांच"
         }
       },
       {
@@ -85,25 +111,14 @@
         }
       },
       {
-        "link": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "link": "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
         "lead": {
-          "en": "Electoral rolls:",
-          "hi": "मतदाता सूची:"
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
         },
         "text": {
-          "en": "Supreme Court tells EC to add Bengal SIR tribunals and hear deleted voters' appeals first",
-          "hi": "सुप्रीम कोर्ट का चुनाव आयोग को निर्देश: बंगाल एसआईआर के और ट्रिब्यूनल बनाएं, कटे नामों की अपील पहले सुनें"
-        }
-      },
-      {
-        "link": "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
-        "lead": {
-          "en": "Banking:",
-          "hi": "बैंकिंग:"
-        },
-        "text": {
-          "en": "The RBI's 'stop switch' explained: what the draft would let you block, and what it would not",
-          "hi": "आरबीआई का 'स्टॉप स्विच' क्या है: मसौदे में ग्राहक क्या रोक सकेंगे और क्या नहीं"
+          "en": "Bengal's 38 lakh SIR appeals need more tribunals and a weekly public count",
+          "hi": "बंगाल की 38 लाख एसआईआर अपीलों के लिए और ट्रिब्यूनल और साप्ताहिक सार्वजनिक गिनती चाहिए"
         }
       }
     ]
@@ -176,12 +191,15 @@
     },
     "list": [
       "modi-merz-phone-call-india-germany-75-years-eu-fta",
-      "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
-      "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
-      "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-      "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
+      "mha-i4c-whatsapp-web-advisory-log-out",
+      "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+      "rbi-stop-switch-trusted-person-draft-digital-fraud",
+      "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27"
     ],
-    "also": []
+    "also": [
+      "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+      "fpi-additional-disclosure-framework-explained-sebi-proposal"
+    ]
   },
   "startHere": [
     "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
@@ -362,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+      "lead": "pli-auto-incentive-4385-crore-heavy-industries",
       "module": {
         "type": "markets",
         "indicators": [
@@ -373,9 +391,9 @@
         ]
       },
       "list": [
-        "sebi-consultation-paper-remove-additional-disclosure-framework-fpis-congress",
-        "rbi-gupta-new-gdp-series-data-users-conference",
-        "india-flash-pmi-november-composite-56-3-manufacturing-nine-month-high"
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+        "rbi-stop-switch-trusted-person-draft-digital-fraud"
       ]
     },
     {
@@ -426,18 +444,6 @@
   ],
   "weekAhead": [
     {
-      "icon": "calendar-blank",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Last day for claims and objections in Delhi's SIR draft roll",
-        "hi": "दिल्ली की एसआईआर मसौदा सूची पर दावे और आपत्तियों की अंतिम तारीख"
-      },
-      "link": "sc-delhi-sir-form7-mustafabad-eci-verify"
-    },
-    {
       "icon": "bank",
       "date": {
         "en": "Nov 27",
@@ -485,23 +491,6 @@
     }
   ],
   "headlineHistory": [
-    {
-      "at": "2026-11-24T17:25:16+05:30",
-      "ids": [
-        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
-        "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
-        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
-        "retired-officials-poll-code-ec-must-publish-letter-and-name-the-penalty",
-        "rbi-stop-switch-trusted-person-draft-digital-fraud",
-        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
-        "mha-i4c-whatsapp-web-advisory-log-out",
-        "tata-steel-apl-apollo-promoter-stake-open-offer",
-        "us-commission-dalai-lama-succession-india-channel",
-        "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
-        "west-bengal-cabinet-paschim-banga-rename-december-9",
-        "nepal-pm-balendra-shah-india-visit-november-22-modi-talks-november-23"
-      ]
-    },
     {
       "at": "2026-11-24T20:35:20+05:30",
       "ids": [
@@ -598,17 +587,31 @@
         "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
         "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
       ]
+    },
+    {
+      "at": "2026-11-25T20:36:32+05:30",
+      "ids": [
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+        "modi-world-bank-50-crore-poverty-claim",
+        "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+        "pli-auto-incentive-4385-crore-heavy-industries",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "mha-i4c-whatsapp-web-advisory-log-out",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "rbi-stop-switch-trusted-person-draft-digital-fraud",
+        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
     }
   ],
   "critical": [],
   "drop": [
-    "rbi-stop-switch-trusted-person-draft-digital-fraud",
-    "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+    "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
+    "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
     "tata-steel-apl-apollo-promoter-stake-open-offer",
-    "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
-    "fpi-additional-disclosure-framework-explained-sebi-proposal",
-    "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
-    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks"
+    "india-oil-import-bill-explained-record-october-price-rupee-who-pays"
   ],
   "mustReadEn": 7
 }
