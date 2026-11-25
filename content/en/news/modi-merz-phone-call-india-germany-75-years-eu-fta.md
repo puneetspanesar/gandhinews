@@ -44,7 +44,7 @@ verification:
   status: approved
   notes:
     - "No MEA readout or German government readout found; the story rests on the PIB release alone. The call's duration and who initiated it are not stated."
-    - "MEA brief date taken from its file name (14 July 2026); figures in it run to December 2025."
+    - "MEA brief date taken from its file name (July 14, 2026); figures in it run to December 2025."
     - "December Brussels signing is from our earlier story (Council President Costa's remark as relayed by IANS), not confirmed by the PIB release."
 infographic:
   kicker: "India-Germany"

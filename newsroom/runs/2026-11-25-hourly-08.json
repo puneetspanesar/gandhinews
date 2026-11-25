@@ -1,0 +1,15 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-25T08:05:07+05:30",
+ "end": "2026-11-25T08:35:01+05:30",
+ "summary": "Modi-Merz call story (world, lead); national desk empty",
+ "new": [
+  "modi-merz-phone-call-india-germany-75-years-eu-fta"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "modi-merz-phone-call-india-germany-75-years-eu-fta"
+}
