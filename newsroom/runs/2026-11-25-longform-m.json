@@ -1,0 +1,19 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-25T06:37:02+05:30",
+ "end": "2026-11-25T07:11:18+05:30",
+ "summary": "3 pieces: RBI stop switch explainer, Bengal SIR appeals editorial, Chouhan PMFBY fact check",
+ "new": [],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+   "why": "Main picture is the Calcutta High Court building, but the editorial is about the Supreme Court's order and the Election Commission adding tribunals; the High Court is not the actor or subject (it is only a side mention). It is a generic building stand-in, while a proper photo of CEC Gyanesh Kumar is already used as the in-story photo.",
+   "done": "Main picture swapped to the Supreme Court of India building (quick_photo 'supreme-court', not used in 48 hours); hero need/alt/subjects updated in both languages; Gyanesh Kumar stays as the only in-story photo."
+  }
+ ],
+ "breaches": [],
+ "lead": "anaemia-icmr-sampada-survey-2023-25-nfhs-5"
+}
