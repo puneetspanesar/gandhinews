@@ -4,7 +4,8 @@ import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 import CAL from '../../content/data/election-calendar.json';
 import { ELECTIONS } from '../lib/elections';
-import { prefix } from '../lib/site';
+import { prefix, content } from '../lib/site';
+import ListCard from '../components/ListCard.astro';
 import { UI, type Lang } from '../lib/i18n';
 
 interface Props { lang: Lang; route: string }
@@ -19,6 +20,7 @@ const rows = (CAL as any).rows.filter((r: any) => r.house === 'Legislative Assem
 const pageFor = (state: string) => Object.values(ELECTIONS).find((e) => e.name.en === state);
 const title = L('Assembly elections 2027', 'विधानसभा चुनाव 2027');
 const desc = L('Every state that votes in 2027: when, how many seats, who governs now, and full guides to the ministers and seats.', '2027 में जिन राज्यों में चुनाव हैं: कब, कितनी सीटें, अभी सरकार किसकी, और मंत्रियों व सीटों की पूरी जानकारी।');
+const stories = (await content())[lang].articles.filter((e: any) => e.data.section === 'elections');
 const crumbs = [{ name: t.home, href: `${p}/` }, { name: L('Elections 2027', 'चुनाव 2027'), href: route }];
 ---
 <Base lang={lang} title={title} description={desc} path={route} crumbs={crumbs} active="">
@@ -36,5 +38,9 @@ const crumbs = [{ name: t.home, href: `${p}/` }, { name: L('Elections 2027', '�
       return pg ? <a class="hc on" href={`${p}/elections/${pg.slug}/`}>{inner}</a> : <div class="hc">{inner}</div>;
     })}
   </div>
+  {stories.length > 0 && <section class="elst" style="margin-top:36px" aria-label={L('Election stories', 'चुनाव की खबरें')}>
+    <h2>{L('Explainers, fact checks and reports', 'समझिए, फैक्ट चेक और रिपोर्ट')}</h2>
+    <div class="hub"><div>{stories.map((e: any) => <ListCard entry={e} lang={lang} />)}</div></div>
+  </section>}
 </div>
 </Base>

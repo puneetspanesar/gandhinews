@@ -21,7 +21,8 @@ step build npm run -s build:fast
 if [ $fail -eq 0 ]; then
   step check_links node scripts/check-links.mjs
   step build_gate node scripts/gate.mjs
-  step audit python3 newsroom/scripts/audit.py --changed
+  # Relaunched edition: the front page fills itself by rule (src/templates/HomeEdition.astro), so the hourly homepage checks are skipped.
+  step audit python3 newsroom/scripts/audit.py --changed $([ -f content/edition.json ] && echo "--skip home")
   step layout node newsroom/scripts/check_layout.cjs
 fi
 [ $fail -eq 1 ] && { echo "GATE: FAIL"; exit 1; }

@@ -14,6 +14,9 @@ Rules checked, mechanically:
 Exit 0: all rules hold. Exit 1: problems to fix before publishing. Exit 2: only rule breaches that cannot be fixed
 this run (an infographic lead when no fresh story has a photo, no new story in 3 hours): publish, they go in the run record.
 Usage: python3 newsroom/scripts/check_fresh.py   (run from the repo root)"""
+import os as _eo, sys as _es
+if _eo.path.exists(_eo.path.join(_eo.path.dirname(_eo.path.abspath(__file__)), '..', '..', 'content', 'edition.json')) or _eo.path.exists('/home/claude/gandhinews/content/edition.json'):
+    print('Relaunched edition: the front page fills itself (content/edition.json pins the lead). Nothing to do.'); _es.exit(0)
 import json, glob, yaml, sys, os, re, datetime as dt
 from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

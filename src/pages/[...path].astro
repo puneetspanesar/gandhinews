@@ -10,7 +10,7 @@ import Tracker from '../templates/Tracker.astro';
 import List from '../templates/List.astro';
 import CardsHub from '../templates/CardsHub.astro';
 import Simple from '../templates/Simple.astro';
-import Home from '../templates/HomeDense.astro';  // the dense front page (November 7, 2026); Home.astro was the earlier one
+import Home from '../templates/HomeEdition.astro';  // the relaunched edition (November 26, 2026); HomeDense.astro was the hourly news front
 import Search from '../templates/Search.astro';
 import Page from '../templates/Page.astro';
 import Election from '../templates/Election.astro';
@@ -41,7 +41,8 @@ export const getStaticPaths = (async () => {
       const pages = Math.max(1, Math.ceil(n / PER_PAGE));
       for (let i = 1; i <= pages; i++) add(i === 1 ? base : `${base}page/${i}/`, { ...props, page: i, pages });
     };
-    for (const s of SECTIONS) paged(`${p}/${s}/`, { kind: 'section', lang, key: s }, articles.filter((e: any) => e.data.section === s && e.data.type === 'news').length);
+    // Elections 2027 has its own hub (state guides plus its stories); every other section lists all its pieces.
+    for (const s of SECTIONS.filter((x: string) => x !== 'elections')) paged(`${p}/${s}/`, { kind: 'section', lang, key: s }, articles.filter((e: any) => e.data.section === s).length);
     for (const h of Object.keys(HUBS)) paged(`${p}/${h}/`, { kind: 'hub', lang, key: h }, articles.filter((e: any) => e.data.type === (HUBS as any)[h].type).length);
     add(`${p}/trackers/`, { kind: 'trackers', lang });
     add(`${p}/topics/`, { kind: 'topics', lang });

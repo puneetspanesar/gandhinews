@@ -3,11 +3,11 @@ id: about
 lang: en
 path: about
 title: "About Gandhi News"
-description: "Gandhi News is an independent news website from India: news from India and the world, politics, the economy, science and technology and sports, in English and Hindi."
-updated: 2026-10-31
+description: "Gandhi News is an independent Indian news website covering politics, elections, law, policy and the economy, with reporting, explainers and fact checks, in English and Hindi."
+updated: 2026-11-26
 ---
 
-Gandhi News is an independent Indian news website. We publish news from India and the world: politics, the economy, the states, science and technology, sports, policy and Parliament, in English and Hindi. Gandhi News is not connected to any other outlet, channel or company with a similar name.
+Gandhi News is an independent Indian news website. We cover Indian politics, the states, elections, law, policy and the economy, and the world where it reaches India, in English and Hindi. We publish fewer, deeper pieces, and each one rests on its original source. Gandhi News is not connected to any other outlet, channel or company with a similar name.
 
 We are not linked to any political party, family or government, including any that shares our name. We follow what governments, Parliament, parties and regulators decide, and explain what it means for the people it affects. We report what can be checked, show our evidence and correct our mistakes in public.
 
@@ -16,7 +16,7 @@ We are not linked to any political party, family or government, including any th
 - **News:** what happened, with the documents and data behind it.
 - **Explained:** plain answers to the questions behind the news.
 - **Fact check:** viral claims checked against the record, rated on a [four-point scale](/fact-check/methodology/).
-- **Trackers:** data pages we keep up to date, such as Bills in Parliament and the economy dashboard. The data behind each one can be downloaded.
+- **Trackers:** data pages we keep up to date, such as Bills in Parliament and the election calendar. The data behind each one can be downloaded.
 - **Opinion:** the view of the editorial desk, always labelled and kept apart from our reporting.
 
 Every story appears in English and in Hindi. The Hindi version is adapted for Hindi readers and keeps every fact, figure and quote of the English one.

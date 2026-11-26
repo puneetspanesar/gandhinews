@@ -17,7 +17,7 @@ const base = z.object({
   id: z.string(),
   lang: z.enum(['en', 'hi']),
   type: z.enum(['news', 'explainer', 'factcheck', 'editorial', 'topic', 'tracker']),
-  section: z.enum(['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament']),
+  section: z.enum(['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world']),
   format_label: z.string(),
   topics: z.array(z.string()).default([]),
   title: z.string(),

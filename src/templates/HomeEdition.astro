@@ -1,0 +1,153 @@
+---
+// Front page of the relaunched edition (owner, November 26, 2026): seven sections and three formats.
+// It fills itself from the newest pieces; content/edition.json can pin the lead and the pieces beside it.
+// Uses the same blocks and stylesheet as the dense front page, so the look is unchanged.
+import Base from '../layouts/Base.astro';
+import Photo from '../components/Photo.astro';
+import '../styles/home-dense.css';
+import { content, prefix, urlOf, whole } from '../lib/site';
+import { UI, SECTION_NAMES, HUBS, type Lang } from '../lib/i18n';
+import { websiteLd } from '../lib/seo';
+import EDITION from '../../content/edition.json';
+import PHOTO_MAP from '../../content/photos.map.json';
+
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const hi = lang === 'hi';
+const S = SECTION_NAMES[lang];
+const c = (await content())[lang];
+const when = (e: any) => +new Date(e.data.updated ?? e.data.published);
+// News older than six days stays off the front page (it is still in its section); explainers, fact checks and opinion do not age out.
+const NOW = Date.now();
+const fresh = (e: any) => e.data.type !== 'news' || NOW - +new Date(e.data.published) < 6 * 864e5;
+// A piece that points to a dated event which has passed also stays off the front page.
+const TODAY = new Date(NOW + 5.5 * 36e5).toISOString().slice(0, 10);
+const passed = (e: any) => { const u = e.data.upcoming?.date; if (!u) return false; const d = u instanceof Date ? new Date(+u + 5.5 * 36e5).toISOString().slice(0, 10) : String(u).slice(0, 10); return d < TODAY; };
+const all = [...c.articles].filter(fresh).filter((e: any) => !passed(e)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published) || when(b) - when(a));
+const FMT: Record<string, string> = hi ? { news: 'खबर', explainer: 'समझिए', factcheck: 'फैक्ट चेक', editorial: 'राय' } : { news: 'News', explainer: 'Explained', factcheck: 'Fact check', editorial: 'Opinion' };
+const card = (e: any) => ({ id: e.data.id, d: e.data, href: urlOf(e.data), lab: FMT[e.data.type] ?? '' });
+const byId = new Map(all.map((e: any) => [e.data.id, e]));
+const used = new Set<string>();
+const take = (pool: any[], n: number) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; if (used.has(e.data.id)) continue; used.add(e.data.id); out.push(card(e)); } return out; };
+const pinned = [(EDITION as any).lead, ...((EDITION as any).top ?? [])].map((id: string) => byId.get(id)).filter(Boolean);
+// The lead is always a photograph, never a graphic (owner, November 8).
+const isPhoto = (e: any) => { const ph = (PHOTO_MAP as any)[e.data.id]; return ph && !ph.graphic; };
+const front = [...pinned, ...all];
+// The top eight (lead, the four links under it, the two pictured pieces and one more) carry at most two pieces per section,
+// and news there is under 36 hours old; explainers, fact checks and opinion fill the rest.
+const secCount: Record<string, number> = {};
+const takeTop = (pool: any[], n: number) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; if (used.has(e.data.id)) continue; if (e.data.type === 'news' && NOW - +new Date(e.data.published) > 36 * 36e5) continue; const s = e.data.section; if ((secCount[s] ?? 0) >= 2) continue; secCount[s] = (secCount[s] ?? 0) + 1; used.add(e.data.id); out.push(card(e)); } return out; };
+const [L] = takeTop([...pinned.slice(0, 1), ...front.filter(isPhoto), ...front], 1);
+const leadLinks = takeTop(front, 4);
+const second = takeTop(front, 2);
+const links = takeTop(front, 1);
+const checks = take(all.filter((e: any) => e.data.type === 'factcheck'), 5);
+const sec = (k: string) => take(all.filter((e: any) => e.data.section === k), 4);
+const blocks: Record<string, any[]> = {};
+for (const k of ['politics', 'elections', 'law', 'states', 'policy', 'economy', 'world']) blocks[k] = sec(k);
+const sideOp = take(all.filter((e: any) => e.data.type === 'editorial'), 3);
+const explained = take(all.filter((e: any) => e.data.type === 'explainer'), 4);
+const opinion = take(all.filter((e: any) => e.data.type === 'editorial'), 4);
+const G = hi
+  ? { more: 'और देखें', fc: 'फैक्ट चेक', allFc: 'सभी फैक्ट चेक', allEx: 'सभी एक्सप्लेनर', allOp: 'सभी संपादकीय', guides: 'राज्यवार जानकारी' }
+  : { more: 'See all', fc: 'Fact check', allFc: 'All fact checks', allEx: 'All explainers', allOp: 'All editorials', guides: 'State guides' };
+const desc = hi
+  ? 'गांधी न्यूज़: भारत की राजनीति, कानून, नीति और अर्थव्यवस्था पर खबरें, एक्सप्लेनर और फैक्ट चेक, मूल स्रोतों के साथ। हिंदी और अंग्रेज़ी में।'
+  : 'Gandhi News: reporting, explainers and fact checks on Indian politics, law, policy and the economy, each resting on its original source. In English and Hindi.';
+const grid = (items: any[]) => items;
+---
+<Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
+<div class="dhome">
+  <div class="w d-top">
+    <section class="d-c1" aria-labelledby="lead-h">
+      <a href={L.href} class="d-im d-im-lead" tabindex="-1" aria-hidden="true"><Photo cover id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
+      {L.lab && <span class="d-lab">{L.lab}</span>}
+      <a href={L.href}><h1 id="lead-h" class="d-h1">{L.d.title}</h1></a>
+      <p class="d-sf">{L.d.standfirst}</p>
+      {leadLinks.length > 1 && <div class="d-ll">{leadLinks.slice(0, leadLinks.length - (leadLinks.length % 2)).map((x: any) => <a href={x.href}>{x.lab && <span class="d-lab">{x.lab}</span>}<span class="d-llt">{x.d.title}</span></a>)}</div>}
+    </section>
+    <section class="d-c2" aria-label={hi ? 'ताज़ा' : 'Latest'}>
+      {second.map((x: any) => <a href={x.href} class="d-blk">
+        <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+        <h2 class="d-h2">{x.d.title}</h2>
+        <p class="d-p">{whole(x.d.standfirst, 140)}</p>
+      </a>)}
+      {links.map((x: any) => <a class="d-li" href={x.href}>{x.d.title}</a>)}
+    </section>
+    <aside class="d-c3">
+      <h2 class="d-ttl">{G.fc}</h2>
+      <ol class="d-must">{checks.map((x: any, i: number) => <li><a href={x.href}><b>{i + 1}</b><span>{x.d.title}</span></a></li>)}</ol>
+      {sideOp.length > 0 && <>
+        <h2 class="d-ttl ed-t2">{(HUBS as any).opinion[lang]}</h2>
+        {sideOp.map((x: any) => <a class="d-li" href={x.href}>{x.d.title}</a>)}
+      </>}
+    </aside>
+  </div>
+
+  {['politics', 'elections', 'law'].map((k) => blocks[k].length >= 2 && (
+    <section class={k === 'elections' ? 'd-tint' : 'w ed-s'} aria-label={S[k]}>
+      <div class={k === 'elections' ? 'w' : undefined}>
+        <div class="d-sec"><h2><a href={`${p}/${k}/`}>{S[k]}</a></h2><i></i><a href={`${p}/${k}/`}>{k === 'elections' ? G.guides : G.more}</a></div>
+        <div class="d-g4">{grid(blocks[k]).map((x: any) => <a href={x.href} class="d-ex">
+          <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+          {x.lab && <span class="d-lab">{x.lab}</span>}
+          <h3>{x.d.title}</h3>
+        </a>)}</div>
+      </div>
+    </section>
+  ))}
+
+  {explained.length >= 4 && (
+    <section class="d-band" aria-labelledby="ex-h">
+      <div class="w">
+        <div class="d-sec"><h2 id="ex-h"><a href={`${p}/explained/`}>{(HUBS as any).explained[lang]}</a></h2><i></i><a href={`${p}/explained/`}>{G.allEx}</a></div>
+        <div class="d-g4">{explained.map((x: any) => <a href={x.href} class="d-ex">
+          <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+          <span class="d-lab">{S[x.d.section]}</span>
+          <h3>{x.d.title}</h3>
+        </a>)}</div>
+      </div>
+    </section>
+  )}
+
+  {['states', 'policy', 'economy'].map((k) => blocks[k].length >= 2 && (
+    <section class="w ed-s" aria-label={S[k]}>
+      <div class="d-sec"><h2><a href={`${p}/${k}/`}>{S[k]}</a></h2><i></i><a href={`${p}/${k}/`}>{G.more}</a></div>
+      <div class="d-g4">{blocks[k].map((x: any) => <a href={x.href} class="d-ex">
+        <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+        {x.lab && <span class="d-lab">{x.lab}</span>}
+        <h3>{x.d.title}</h3>
+      </a>)}</div>
+    </section>
+  ))}
+
+  {opinion.length >= 2 && (
+    <section class="d-tint" aria-labelledby="op-h"><div class="w">
+      <div class="d-sec"><h2 id="op-h"><a href={`${p}/opinion/`}>{(HUBS as any).opinion[lang]}</a></h2><i></i><a href={`${p}/opinion/`}>{G.allOp}</a></div>
+      <div class="d-g4">{opinion.map((x: any) => <a href={x.href} class="d-ex">
+        <span class="d-lab">{S[x.d.section]}</span>
+        <h3>{x.d.title}</h3>
+        <p class="d-p">{whole(x.d.standfirst, 150)}</p>
+      </a>)}</div>
+    </div></section>
+  )}
+
+  {blocks.world.length >= 2 && (
+    <section class="w ed-s" aria-label={S.world}>
+      <div class="d-sec"><h2><a href={`${p}/world/`}>{S.world}</a></h2><i></i><a href={`${p}/world/`}>{G.more}</a></div>
+      <div class="d-g4">{blocks.world.map((x: any) => <a href={x.href} class="d-ex">
+        <span class="d-im"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></span>
+        {x.lab && <span class="d-lab">{x.lab}</span>}
+        <h3>{x.d.title}</h3>
+      </a>)}</div>
+    </section>
+  )}
+</div>
+</Base>
+<style is:global>
+  .dhome .ed-s{padding-top:34px}
+  .dhome .ed-t2{margin-top:22px}
+  .dhome .d-top .d-c1 .d-lab{margin-top:14px}
+</style>

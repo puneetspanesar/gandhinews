@@ -1,1 +1,6 @@
-{"hold": true, "since": "2026-11-26", "_note": "Owner, November 26, 2026: every story is taken off the live site for a relaunch. Stories, photos and the old homepage plan are kept under archive/2026-11-26/. Set hold to false only when the relaunch content is in place."}
+{
+  "hold": false,
+  "since": "2026-11-26",
+  "_note": "Owner, November 26, 2026: every story is taken off the live site for a relaunch. Stories, photos and the old homepage plan are kept under archive/2026-11-26/. Set hold to false only when the relaunch content is in place.",
+  "relaunched": "2026-11-26"
+}

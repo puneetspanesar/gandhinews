@@ -1,11 +1,18 @@
-# SITE ON HOLD FOR A RELAUNCH (owner, November 26, 2026)
+# THE RELAUNCHED EDITION (owner, November 26, 2026). This section wins over everything below and over every other runbook and brief.
 
-Every story has been taken off the live site and all scheduled runs are paused. While `content/relaunch.json` says `"hold": true`:
+On November 26, 2026 the owner took all 2,311 stories off the site and relaunched it with 144 of them, because Google treated the site as mass-produced. The site now publishes fewer, deeper pieces. The stories that were not carried over are in `archive/2026-11-26/`; never restore one without the owner's word.
 
-- Write nothing and publish nothing. `setup.sh` and `publish.sh` stop on their own.
-- The live site shows only the front page (a short holding note) and the About, policy and contact pages.
-- The stories, photos, old homepage plan, redirects and noindex list are kept under `archive/2026-11-26/`. Nothing was deleted.
-- The owner decides which pieces come back and the new section structure. Do not restore anything without his word.
+- THE RUNS: two a day, 6:42 am and 5:42 pm IST. Their procedure is `newsroom/RUNBOOK-EDITION.md`. The five-a-day writing runs, the morning long-form run, the stall check and the daily health report are stopped; RUNBOOK-HOURLY.md, RUNBOOK-LONGFORM.md and RUNBOOK-STALL.md are kept for reference only.
+- VOLUME: 3 to 4 English pieces a run (each with its Hindi version), 6 to 8 a day, never more than 8. A run that finds only 2 pieces worth writing publishes 2.
+- SECTIONS: `section:` is one of politics, states, elections, law, policy, economy, world. Nothing else exists. Parliament goes under politics. Courts, the Constitution and the judges go under law. The 2027 Assembly elections, the Election Commission, electoral rolls and delimitation go under elections. Health, education, environment, technology and welfare rules go under policy. World needs a direct India angle.
+- FORMATS: News, Explained, Fact Check, Opinion (types news, explainer, factcheck, editorial). Across a day aim for 2 or 3 explainers, 1 or 2 fact checks, 2 or 3 news stories, and an editorial about every second day.
+- NOT WRITTEN AT ALL: sport, entertainment, science and gadget news with no policy in it, routine foreign news, market-close and "Sensex today" stories, quarterly results, weather, accidents and crime with no policy or court angle, and anything that only restates another outlet.
+- OFFICIAL SOURCE OR NO PIECE, EVERY FORMAT: every piece links at least one official document, order, judgment, release, dataset or on-the-record statement that you opened and read in this run, marked `primary: true` in `sources:`. The audit fails any piece without one. Never cite a link you did not open.
+- ONE PAGE PER SUBJECT: before writing, look through content/en for a piece on the same subject. A new development updates that piece (`updated:` set to now, both languages). Explainers are kept current the same way instead of being rewritten under a new id.
+- THE FRONT PAGE FILLS ITSELF (src/templates/HomeEdition.astro): the newest pieces lead, at most two per section in the top eight, news there under 36 hours old, no news older than six days anywhere on it. `content/edition.json` can pin the lead (`lead`) and the pieces beside it (`top`); leave both empty unless a piece clearly must lead. `refresh_home.py` and `check_fresh.py` do nothing now. Never edit `content/homepage.json`. There is no markets strip and no markets work.
+- TRACKERS: three are live (election calendar, Supreme Court cases, Bills in Parliament). The evening run checks whether any of them needs an update that day and makes it, with the source.
+- EDITORIALS still need the owner's approval before they are published, as before.
+- Everything below this section still applies where it does not conflict: the writing rules, the photo and collage rules (section C), the gate (section D), publishing only through `publish.sh` (section E), no em dashes, dates as month day, year, desk bylines only, and never sounding machine-written.
 
 # Gandhi News: the rules and the shared procedures
 

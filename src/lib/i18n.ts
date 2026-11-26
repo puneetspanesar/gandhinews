@@ -70,7 +70,7 @@ export const UI = {
     newsletterText: 'The stories that matter, with one chart, every weekday morning. The first edition goes out soon: sign up now to get it.',
     email: 'Email address',
     signUp: 'Sign up',
-    named: 'Independent news from India and the world, in English and Hindi.',
+    named: 'Indian politics, law, policy and the economy, from the original sources. In English and Hindi.',
     sections: 'Sections',
     features: 'Features',
     trust: 'Trust',
@@ -176,7 +176,7 @@ export const UI = {
     newsletterText: 'हर कामकाजी दिन की सुबह ज़रूरी खबरें, एक चार्ट के साथ। पहला अंक जल्द आएगा: उसे पाने के लिए अभी साइन अप करें।',
     email: 'ईमेल पता',
     signUp: 'साइन अप करें',
-    named: 'भारत और दुनिया की स्वतंत्र खबरें, हिंदी और अंग्रेज़ी में।',
+    named: 'भारत की राजनीति, कानून, नीति और अर्थव्यवस्था, मूल स्रोतों के साथ। हिंदी और अंग्रेज़ी में।',
     sections: 'सेक्शन',
     features: 'फीचर',
     trust: 'भरोसा',
@@ -217,8 +217,8 @@ export const UI = {
 } as const;
 
 export const SECTION_NAMES: Record<Lang, Record<string, string>> = {
-  en: { politics: 'Politics', policy: 'Policy', economy: 'Economy', parliament: 'Parliament', states: 'States', world: 'World', science: 'Science & Tech', sports: 'Sports' },
-  hi: { politics: 'राजनीति', policy: 'नीति', economy: 'अर्थव्यवस्था', parliament: 'संसद', states: 'राज्य', world: 'दुनिया', science: 'विज्ञान-तकनीक', sports: 'खेल' },
+  en: { politics: 'Politics', states: 'States', elections: 'Elections 2027', law: 'Law', policy: 'Policy', economy: 'Economy', world: 'World' },
+  hi: { politics: 'राजनीति', states: 'राज्य', elections: 'चुनाव 2027', law: 'कानून', policy: 'नीति', economy: 'अर्थव्यवस्था', world: 'दुनिया' },
 };
 
 export const HUBS = {
@@ -231,14 +231,13 @@ export const TYPE_HUB: Record<string, keyof typeof HUBS> = { explainer: 'explain
 
 export const SECTION_DESCRIPTIONS: Record<Lang, Record<string, string>> = {
   en: {
-    politics: 'Elections, parties, the Election Commission and the people who run India.',
+    politics: 'Parties, Parliament, the Union government and the people who run India.',
+    elections: 'The 2027 Assembly elections: the rules, the rolls, the parties and the states that vote.',
+    law: 'The Supreme Court, the High Courts and the Constitution, with the judgments and what they change.',
     policy: 'Laws, rules and government decisions, and what they change for you.',
     economy: 'Growth, prices, interest rates, the rupee and the public purse.',
-    parliament: 'What Parliament debates, passes and leaves undone.',
     states: 'News from India’s states and Union Territories.',
-    world: 'News from around the world, and what it means for India.',
-    science: 'Space, science, health, technology and AI.',
-    sports: 'Cricket, football, Formula 1 and the rest of the sporting world.',
+    world: 'India’s foreign policy, trade and neighbours, and world events that reach India.',
     explained: 'Plain answers to the questions behind the news.',
     'fact-check': 'Viral claims checked against the record, with the evidence.',
     opinion: 'The editorial desk’s view, argued from the reporting.',
@@ -246,14 +245,13 @@ export const SECTION_DESCRIPTIONS: Record<Lang, Record<string, string>> = {
     topics: 'Living summaries of the big running stories.',
   },
   hi: {
-    politics: 'चुनाव, दल, चुनाव आयोग और देश चलाने वाले लोग।',
+    politics: 'दल, संसद, केंद्र सरकार और देश चलाने वाले लोग।',
+    elections: '2027 के विधानसभा चुनाव: नियम, मतदाता सूची, दल और वे राज्य जहां मतदान होगा।',
+    law: 'सुप्रीम कोर्ट, हाई कोर्ट और संविधान: फैसले और उनसे क्या बदलता है।',
     policy: 'कानून, नियम और सरकारी फैसले, और आप पर उनका असर।',
     economy: 'विकास, महंगाई, ब्याज दरें, रुपया और सरकारी खजाना।',
-    parliament: 'संसद में क्या बहस हुई, क्या पास हुआ और क्या अटका।',
     states: 'राज्यों और केंद्रशासित प्रदेशों की खबरें।',
-    world: 'दुनिया भर की खबरें, और भारत के लिए उनके मायने।',
-    science: 'अंतरिक्ष, विज्ञान, सेहत, तकनीक और एआई।',
-    sports: 'क्रिकेट, फ़ुटबॉल, फ़ॉर्मूला 1 और खेल की दुनिया।',
+    world: 'भारत की विदेश नीति, व्यापार और पड़ोसी, और दुनिया की वे घटनाएं जिनका असर भारत पर पड़ता है।',
     explained: 'खबरों के पीछे के सवालों के सीधे जवाब।',
     'fact-check': 'वायरल दावों की रिकॉर्ड से जांच, सबूत के साथ।',
     opinion: 'रिपोर्टिंग पर आधारित संपादकीय डेस्क का मत।',
@@ -267,10 +265,10 @@ export const TOPIC_FALLBACK: Record<string, { en: string; hi: string; to: string
   economy: { en: 'Economy', hi: 'अर्थव्यवस्था', to: 'economy/' },
   states: { en: 'States', hi: 'राज्य', to: 'states/' },
   'supreme-court': { en: 'Supreme Court', hi: 'सुप्रीम कोर्ट', to: 'trackers/sc-cases-tracker/' },
-  'budget-2026-27': { en: 'Budget 2026-27', hi: 'बजट 2026-27', to: 'trackers/budget-2026-27-promise-tracker/' },
+  'budget-2026-27': { en: 'Budget 2026-27', hi: 'बजट 2026-27', to: 'economy/' },
   'fiscal-deficit': { en: 'Fiscal deficit', hi: 'राजकोषीय घाटा', to: 'economy/fiscal-deficit-explained/' },
-  'rupee-forex': { en: 'Rupee and forex', hi: 'रुपया और विदेशी मुद्रा', to: 'trackers/economy-dashboard/' },
-  'agriculture-msp': { en: 'Agriculture and MSP', hi: 'कृषि और एमएसपी', to: 'policy/msp-explained-how-set-who-benefits/' },
+  'rupee-forex': { en: 'Rupee and forex', hi: 'रुपया और विदेशी मुद्रा', to: 'economy/' },
+  'agriculture-msp': { en: 'Agriculture and MSP', hi: 'कृषि और एमएसपी', to: 'economy/msp-explained-how-set-who-benefits/' },
 };
 
 export type VerdictKey = 'true' | 'mostly' | 'misleading' | 'false';

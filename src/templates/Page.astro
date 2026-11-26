@@ -37,9 +37,10 @@ const c = (await content())[lang];
 const log = id === 'corrections' && !RELAUNCH
   ? [...(CORRECTIONS as any[])].sort((a, b) => String(b.date).localeCompare(String(a.date))).map((x) => {
       const art = x.article ? c.all.get(x.article) : null;
-      if (x.article && !art && !RELAUNCH) throw new Error(`corrections.json: article "${x.article}" not found (${lang})`);
+      // A correction to a piece that was not carried into the relaunched edition is left out of the log.
+      if (x.article && !art) return null;
       return { ...x, title: art?.data.title, href: art ? urlOf(art.data) : null, text: x.correction?.[lang] ?? x.correction?.en ?? '' };
-    })
+    }).filter(Boolean) as any[]
   : [];
 const L = lang === 'hi'
   ? { updated: 'आखिरी बदलाव', trust: 'भरोसा और नीतियां', log: 'सुधारों का रिकॉर्ड', none: 'अभी तक कोई सुधार नहीं। जब हम कोई गलती सुधारेंगे, तो वह तारीख के साथ यहां और खबर पर दिखेगी।', date: 'तारीख', story: 'खबर', what: 'क्या सुधारा गया' }
@@ -53,6 +54,7 @@ const L = lang === 'hi'
           <h1>{d.title}</h1>
           <p class="m">{L.updated}: <time datetime={d.updated.toISOString().slice(0, 10)}>{fmtDate(d.updated, lang)}</time></p>
         </header>
+        {id === 'editor' && <img class="tp-ph" src="/team/puneet-panesar-400.jpg" srcset="/team/puneet-panesar-400.jpg 400w, /team/puneet-panesar-800.jpg 800w" sizes="220px" width="220" height="220" alt={lang === 'hi' ? 'पुनीत पनेसर, प्रधान संपादक, गांधी न्यूज़' : 'Puneet Panesar, Editor-in-Chief of Gandhi News'} />}
         <div class="body tp-body" set:html={html} />
         {id === 'corrections' && (
           <section class="tp-log" aria-labelledby="log-h">
@@ -75,3 +77,6 @@ const L = lang === 'hi'
     </div>
   </div>
 </Base>
+<style is:global>
+  .tp-ph{display:block;width:220px;height:220px;border-radius:10px;margin:4px 0 22px;object-fit:cover}
+</style>

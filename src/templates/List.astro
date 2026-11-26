@@ -15,11 +15,11 @@ const latest = key === 'latest';
 const title = kind === 'section' ? SECTION_NAMES[lang][key] : latest ? t.latestTitle : (HUBS as any)[key][lang];
 const desc = latest ? t.latestDesc : SECTION_DESCRIPTIONS[lang][key];
 const allItems = kind === 'section'
-  ? c.articles.filter((e: any) => e.data.section === key && e.data.type === 'news')
+  ? c.articles.filter((e: any) => e.data.section === key)
   : latest ? c.articles
   : c.articles.filter((e: any) => e.data.type === (HUBS as any)[key].type);
 // Sections also list explainers, fact checks and opinion from that section in the rail.
-const formats = kind === 'section' ? c.articles.filter((e: any) => e.data.section === key && e.data.type !== 'news') : [];
+const formats: any[] = [];
 const trackers = kind === 'section' ? c.trackers.filter((e: any) => e.data.section === key) : c.trackers;
 const topics = c.topics.filter((e: any) => kind === 'hub' || e.data.section === key);
 const items = allItems.slice((page - 1) * PER_PAGE, page * PER_PAGE);

@@ -6,7 +6,8 @@ import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n
 export const NAME_VARIANTS = ['GandhiNews', 'gandhinews', 'गांधी न्यूज़', 'गांधी न्यूज'];
 /** Official profiles elsewhere. Add each one here as it is created, so Google can tie them to this site. */
 // Add the Gandhi News social profiles here once they exist.
-export const SAME_AS: string[] = [];
+// Owner, November 26, 2026: the accounts the owner is creating under one handle, gandhinewshq.
+export const SAME_AS: string[] = ['https://x.com/gandhinewshq', 'https://www.linkedin.com/company/gandhinewshq/', 'https://www.instagram.com/gandhinewshq/', 'https://www.facebook.com/gandhinewshq'];
 
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',
@@ -15,7 +16,7 @@ export const PUBLISHER = {
   alternateName: NAME_VARIANTS,
   url: `${SITE_URL}/`,
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
-  description: 'Gandhi News is an independent Indian news website publishing news from India and the world, covering politics, the economy, science and technology and sports, in English and Hindi.',
+  description: 'Gandhi News is an independent Indian news website covering Indian politics, elections, law, policy and the economy with reporting, explainers and fact checks that rest on original sources, in English and Hindi.',
   slogan: 'India and the world, in English and Hindi',
   foundingDate: '2026',
   areaServed: { '@type': 'Country', name: 'India' },
@@ -34,7 +35,7 @@ export const PUBLISHER = {
   ...(SAME_AS.length ? { sameAs: SAME_AS } : {}),
 };
 export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/about/`, parentOrganization: { '@id': `${SITE_URL}/#organization` } };
-export const EDITOR = { '@type': 'Person', name: 'Puneet Panesar', jobTitle: 'Editor-in-Chief', url: `${SITE_URL}/editor/`, sameAs: ['https://www.linkedin.com/in/panesarpuneet/'], alumniOf: { '@type': 'CollegeOrUniversity', name: 'Symbiosis Institute of Computer Studies and Research' }, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
+export const EDITOR = { '@type': 'Person', name: 'Puneet Panesar', jobTitle: 'Editor-in-Chief', image: `${SITE_URL}/team/puneet-panesar-800.jpg`, url: `${SITE_URL}/editor/`, sameAs: ['https://www.linkedin.com/in/panesarpuneet/'], alumniOf: { '@type': 'CollegeOrUniversity', name: 'Symbiosis Institute of Computer Studies and Research' }, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
 /** The story's own photo (content/photos.map.json), for og:image and schema; null when it has none. */
@@ -202,7 +203,7 @@ export function navLd(lang: Lang) {
   const t: any = UI[lang];
   const S = SECTION_NAMES[lang];
   const items = [
-    ...['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => [S[k], `${p}/${k}/`]),
+    ...['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world'].map((k) => [S[k], `${p}/${k}/`]),
     [t.factCheck, `${p}/fact-check/`],
     [t.explained, `${p}/explained/`],
     [t.opinion, `${p}/opinion/`],

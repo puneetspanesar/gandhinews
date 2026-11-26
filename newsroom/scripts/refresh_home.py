@@ -24,6 +24,9 @@ What it does, mechanically, with the owner's balance rules:
   section and desk lists: newest pictured news of that section.  startHere: newest explainers.  opinion: newest editorials.
 Then run check_fresh.py and the build as usual.
 """
+import os as _eo, sys as _es
+if _eo.path.exists(_eo.path.join(_eo.path.dirname(_eo.path.abspath(__file__)), '..', '..', 'content', 'edition.json')) or _eo.path.exists('/home/claude/gandhinews/content/edition.json'):
+    print('Relaunched edition: the front page fills itself (content/edition.json pins the lead). Nothing to do.'); _es.exit(0)
 import json, glob, re, sys, argparse, datetime as dt
 import yaml, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

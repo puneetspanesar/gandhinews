@@ -1,1 +1,1530 @@
-[]
+[
+ {
+  "id": "new-parliament",
+  "articleId": "parliament",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/New_Parliament_Building.jpg/1280px-New_Parliament_Building.jpg",
+  "credit": "Photo: Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "The new Parliament building in New Delhi (architectural view)",
+  "alt_hi": "नई दिल्ली में नया संसद भवन (वास्तु चित्र)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Parliament_Building.jpg"
+ },
+ {
+  "id": "finger-ink",
+  "articleId": "special-intensive-revision-how-to-check-your-name",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Election_mark_on_index_finger.jpg/1280px-Election_mark_on_index_finger.jpg",
+  "credit": "Photo: Fotokannan / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Indelible ink on a voter's index finger after voting",
+  "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही",
+  "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg"
+ },
+ {
+  "id": "evm",
+  "articleId": "election-calendar",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Contr_Unit_of_Electronic_Voting_Machine_2.jpg/1280px-Contr_Unit_of_Electronic_Voting_Machine_2.jpg",
+  "credit": "Photo: Shagil Kannur / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Control unit of an electronic voting machine",
+  "alt_hi": "इलेक्ट्रॉनिक वोटिंग मशीन की कंट्रोल यूनिट",
+  "page": "https://commons.wikimedia.org/wiki/File:Contr_Unit_of_Electronic_Voting_Machine_2.jpg"
+ },
+ {
+  "id": "vvpat",
+  "articleId": "one-nation-one-election-bills-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Science_Gallery_Bengaluru_%282025%29_79.jpg/1280px-Science_Gallery_Bengaluru_%282025%29_79.jpg",
+  "credit": "Photo: Gpkp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A VVPAT machine on display in Bengaluru",
+  "alt_hi": "बेंगलुरु में प्रदर्शित एक वीवीपैट मशीन",
+  "page": "https://commons.wikimedia.org/wiki/File:Science_Gallery_Bengaluru_(2025)_79.jpg"
+ },
+ {
+  "id": "supreme-court",
+  "articleId": "sc-cases-tracker",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+ },
+ {
+  "id": "veg-ahmedabad",
+  "articleId": "how-india-measures-inflation-new-cpi-series",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vegetable_market%2C_Ahmedabad.jpg/1280px-Vegetable_market%2C_Ahmedabad.jpg",
+  "credit": "Photo: Bernard Gagnon / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Vegetable sellers at a market in Ahmedabad",
+  "alt_hi": "अहमदाबाद के एक बाज़ार में सब्ज़ी विक्रेता",
+  "page": "https://commons.wikimedia.org/wiki/File:Vegetable_market,_Ahmedabad.jpg"
+ },
+ {
+  "id": "tailoring-unit",
+  "articleId": "four-labour-codes-explained-workers-employers",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Karawal_Nagar%2C_Delhi_20160413_%2826435407410%29.jpg/1280px-Karawal_Nagar%2C_Delhi_20160413_%2826435407410%29.jpg",
+  "credit": "Photo: urbzoo / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Tailors at work in Karawal Nagar, Delhi",
+  "alt_hi": "दिल्ली के करावल नगर में काम करते दर्ज़ी",
+  "page": "https://commons.wikimedia.org/wiki/File:Karawal_Nagar,_Delhi_20160413_(26435407410).jpg"
+ },
+ {
+  "id": "construction-howrah",
+  "articleId": "labour-codes-centre-states-owe-workers-deadline",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG/1280px-Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Construction work in Howrah, West Bengal",
+  "alt_hi": "पश्चिम बंगाल के हावड़ा में निर्माण कार्य",
+  "page": "https://commons.wikimedia.org/wiki/File:Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG"
+ },
+ {
+  "id": "metro-kolkata",
+  "articleId": "how-gdp-is-measured-new-base-year",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/New_Garia-Dum_Dum_Airport_Metro_Rail_Under_Construction_-_Salt_Lake_Bypass_-_Kolkata_2013-11-28_0883.JPG/1280px-New_Garia-Dum_Dum_Airport_Metro_Rail_Under_Construction_-_Salt_Lake_Bypass_-_Kolkata_2013-11-28_0883.JPG",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Metro rail under construction in Kolkata",
+  "alt_hi": "कोलकाता में निर्माणाधीन मेट्रो रेल",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Garia-Dum_Dum_Airport_Metro_Rail_Under_Construction_-_Salt_Lake_Bypass_-_Kolkata_2013-11-28_0883.JPG"
+ },
+ {
+  "id": "petrol-pump",
+  "articleId": "kejriwal-e20-trump-pressure-ethanol-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Petrol_Pump_at_Addakal.jpg/1280px-HP_Petrol_Pump_at_Addakal.jpg",
+  "credit": "Photo: Chanduclicks / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A petrol pump in Telangana",
+  "alt_hi": "तेलंगाना में एक पेट्रोल पंप",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Petrol_Pump_at_Addakal.jpg"
+ },
+ {
+  "id": "sbi-branch",
+  "articleId": "repo-rate-and-your-emi-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/State_Bank_of_India%2C_Jhunir_branch.jpg/1280px-State_Bank_of_India%2C_Jhunir_branch.jpg",
+  "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A State Bank of India branch in Mansa district, Punjab",
+  "alt_hi": "पंजाब के मानसा ज़िले में भारतीय स्टेट बैंक की एक शाखा",
+  "page": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Jhunir_branch.jpg"
+ },
+ {
+  "id": "kolkata-market",
+  "articleId": "gst-explained-slabs-council-revenue-sharing",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kolkata_Dharmatala1.jpg",
+  "credit": "Photo: P.K.Niyogi / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Shops along Chandni Chowk Street, Kolkata",
+  "alt_hi": "कोलकाता की चांदनी चौक स्ट्रीट पर दुकानें",
+  "page": "https://commons.wikimedia.org/wiki/File:Kolkata_Dharmatala1.jpg"
+ },
+ {
+  "id": "x-fiscal-deficit-explained",
+  "articleId": "fiscal-deficit-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/One_Rupee_Indian_coins.JPG/1280px-One_Rupee_Indian_coins.JPG",
+  "credit": "Photo: Reserve Bank of India / Kshitij Gupta / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "North Block, home of the Ministry of Finance, in New Delhi",
+  "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, जहां वित्त मंत्रालय है",
+  "page": "https://commons.wikimedia.org/wiki/File:One_Rupee_Indian_coins.JPG"
+ },
+ {
+  "id": "x-fcra-explained-2026-amendment-bill",
+  "articleId": "fcra-explained-2026-amendment-bill",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/EVidyaloka_Rubaru_2018-1.jpg/1280px-EVidyaloka_Rubaru_2018-1.jpg",
+  "credit": "Photo: Devopam / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, which houses the Ministry of Home Affairs, in New Delhi",
+  "alt_hi": "नई दिल्ली का नॉर्थ ब्लॉक, जहां गृह मंत्रालय है",
+  "page": "https://commons.wikimedia.org/wiki/File:EVidyaloka_Rubaru_2018-1.jpg"
+ },
+ {
+  "id": "x-how-a-bill-becomes-law-in-india",
+  "articleId": "how-a-bill-becomes-law-in-india",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rashtrapati_Bhavan_Museum_7.jpg/1280px-Rashtrapati_Bhavan_Museum_7.jpg",
+  "credit": "Photo: कृष्ण कान्त शर्मा / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Members in the Lok Sabha chamber, New Delhi",
+  "alt_hi": "नई दिल्ली में लोकसभा कक्ष में सदस्य",
+  "page": "https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan_Museum_7.jpg"
+ },
+ {
+  "id": "x-anti-defection-law-explained",
+  "articleId": "anti-defection-law-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Indian_National_congress_party_rally_-_Flickr_-_Al_Jazeera_English.jpg/1280px-Indian_National_congress_party_rally_-_Flickr_-_Al_Jazeera_English.jpg",
+  "credit": "Photo: Al Jazeera English / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The Speaker's chair in the Lok Sabha",
+  "alt_hi": "लोकसभा में अध्यक्ष की कुर्सी",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_National_congress_party_rally_-_Flickr_-_Al_Jazeera_English.jpg"
+ },
+ {
+  "id": "x-bills-in-parliament-tracker",
+  "articleId": "bills-in-parliament-tracker",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/SansadBhavan.jpg/1280px-SansadBhavan.jpg",
+  "credit": "Photo: Bill Strong from Melbourne, Australia / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The new Parliament House building in New Delhi",
+  "alt_hi": "नई दिल्ली में नया संसद भवन",
+  "page": "https://commons.wikimedia.org/wiki/File:SansadBhavan.jpg"
+ },
+ {
+  "id": "x-delimitation-explained-why-131st-amendment-failed",
+  "articleId": "delimitation-explained-why-131st-amendment-failed",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/India_and_adjacent_countries%2C_1917.jpg/1280px-India_and_adjacent_countries%2C_1917.jpg",
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Members in the Lok Sabha chamber of India's new Parliament building",
+  "alt_hi": "भारत के नए संसद भवन के लोकसभा कक्ष में सदस्य",
+  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg"
+ },
+ {
+  "id": "x-delimitation",
+  "articleId": "delimitation",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/1947_India_showing_Provinces%2C_States_and_Districts_by_Survey_of_India_%28cropped%29.jpg/1280px-1947_India_showing_Provinces%2C_States_and_Districts_by_Survey_of_India_%28cropped%29.jpg",
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "The Lok Sabha chamber in the new Parliament building",
+  "alt_hi": "नए संसद भवन में लोकसभा का सदन",
+  "page": "https://commons.wikimedia.org/wiki/File:1947_India_showing_Provinces,_States_and_Districts_by_Survey_of_India_(cropped).jpg"
+ },
+ {
+  "id": "x-election-commission",
+  "articleId": "election-commission",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Contr_Unit_of_Electronic_Voting_Machine.jpg/1280px-Contr_Unit_of_Electronic_Voting_Machine.jpg",
+  "credit": "Photo: Shagil Kannur / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Nirvachan Sadan, the Election Commission of India's headquarters in New Delhi",
+  "alt_hi": "नई दिल्ली में भारत के चुनाव आयोग का मुख्यालय, निर्वाचन सदन",
+  "page": "https://commons.wikimedia.org/wiki/File:Contr_Unit_of_Electronic_Voting_Machine.jpg"
+ },
+ {
+  "id": "x-how-chief-election-commissioner-is-appointed-removed",
+  "articleId": "how-chief-election-commissioner-is-appointed-removed",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg/1280px-Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg",
+  "credit": "Photo: Al Jazeera English / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Nirvachan Sadan, the Election Commission of India's headquarters",
+  "alt_hi": "निर्वाचन सदन, भारत निर्वाचन आयोग का मुख्यालय",
+  "page": "https://commons.wikimedia.org/wiki/File:Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg"
+ },
+ {
+  "id": "x-your-rights-under-dpdp-act",
+  "articleId": "your-rights-under-dpdp-act",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Aadhaar_Seva_Kendra%2C_Bhopal.jpg/1280px-Aadhaar_Seva_Kendra%2C_Bhopal.jpg",
+  "credit": "Photo: Suyash.dwivedi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A person reading a consent notice on a phone",
+  "alt_hi": "फोन पर सहमति नोटिस पढ़ता एक व्यक्ति",
+  "page": "https://commons.wikimedia.org/wiki/File:Aadhaar_Seva_Kendra,_Bhopal.jpg"
+ },
+ {
+  "id": "x-census-2027",
+  "articleId": "census-2027",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Traditional_Mati_Chulha_Kitchen_Scene.jpg/1280px-Traditional_Mati_Chulha_Kitchen_Scene.jpg",
+  "credit": "Photo: Aliva Sahoo / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A census enumerator at a family's home",
+  "alt_hi": "एक परिवार के घर पर जनगणना कर्मी",
+  "page": "https://commons.wikimedia.org/wiki/File:Traditional_Mati_Chulha_Kitchen_Scene.jpg"
+ },
+ {
+  "id": "x-parliament-that-sits-but-does-not-debate",
+  "articleId": "parliament-that-sits-but-does-not-debate",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Members_of_first_lok_sabha.jpg/1280px-Members_of_first_lok_sabha.jpg",
+  "credit": "Photo: A R Datt / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Parliament House in New Delhi",
+  "alt_hi": "नई दिल्ली में संसद भवन",
+  "page": "https://commons.wikimedia.org/wiki/File:Members_of_first_lok_sabha.jpg"
+ },
+ {
+  "id": "x-parliamentary-committees-jpc-standing-select-explained",
+  "articleId": "parliamentary-committees-jpc-standing-select-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Library_for_Indian_Parliament.jpg/1280px-Library_for_Indian_Parliament.jpg",
+  "credit": "Photo: Reply.rajrewal / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A committee room in Parliament House, New Delhi",
+  "alt_hi": "नई दिल्ली में संसद भवन का एक समिति कक्ष",
+  "page": "https://commons.wikimedia.org/wiki/File:Library_for_Indian_Parliament.jpg"
+ },
+ {
+  "id": "x-electoral-rolls-sir",
+  "articleId": "electoral-rolls-sir",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg",
+  "credit": "Photo: Nilanjan Chowdhury of Al Jazeera English / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A booth level officer carrying enumeration forms during the Special Intensive Revision",
+  "alt_hi": "विशेष गहन पुनरीक्षण के दौरान गणना फॉर्म लिए एक बूथ स्तर अधिकारी",
+  "page": "https://commons.wikimedia.org/wiki/File:Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg"
+ },
+ {
+  "id": "x-appoint-data-protection-board-before-rules-bite",
+  "articleId": "appoint-data-protection-board-before-rules-bite",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/1280px-PDC_server_room.jpg",
+  "credit": "Photo: Esquilo / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A person using a smartphone",
+  "alt_hi": "स्मार्टफोन इस्तेमाल करता एक व्यक्ति",
+  "page": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+ },
+ {
+  "id": "x-how-rajya-sabha-elections-work",
+  "articleId": "how-rajya-sabha-elections-work",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Indian_Parliament_Bhavan.jpg/1280px-Indian_Parliament_Bhavan.jpg",
+  "credit": "Photo: IM3847 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Rajya Sabha chamber in Parliament House",
+  "alt_hi": "संसद भवन में राज्यसभा कक्ष",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Parliament_Bhavan.jpg"
+ },
+ {
+  "id": "x-msp-explained-how-set-who-benefits",
+  "articleId": "msp-explained-how-set-who-benefits",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Golden_fields%2C_bustling_harvest_03.jpg/1280px-Golden_fields%2C_bustling_harvest_03.jpg",
+  "credit": "Photo: Chparveshtaak / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Sacks of grain at a mandi in Punjab",
+  "alt_hi": "पंजाब की एक मंडी में अनाज की बोरियां",
+  "page": "https://commons.wikimedia.org/wiki/File:Golden_fields,_bustling_harvest_03.jpg"
+ },
+ {
+  "id": "x-census-2027-what-will-be-asked-caste",
+  "articleId": "census-2027-what-will-be-asked-caste",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Census%2C_TamilNadu-219_%28year-2011%29.jpg/1280px-Census%2C_TamilNadu-219_%28year-2011%29.jpg",
+  "credit": "Photo: தகவலுழவன் / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A census enumerator entering details on a phone at a home",
+  "alt_hi": "एक घर पर फोन में ब्योरा दर्ज करता जनगणना प्रगणक",
+  "page": "https://commons.wikimedia.org/wiki/File:Census,_TamilNadu-219_(year-2011).jpg"
+ },
+ {
+  "id": "x-publish-caste-census-in-full-on-time",
+  "articleId": "publish-caste-census-in-full-on-time",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Peoples_from_indian_village_26.jpg/1280px-Peoples_from_indian_village_26.jpg",
+  "credit": "Photo: Shrinivaskulkarni1388 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A census enumerator speaking to a family at their home",
+  "alt_hi": "घर पर एक परिवार से बात करता जनगणना कर्मी",
+  "page": "https://commons.wikimedia.org/wiki/File:Peoples_from_indian_village_26.jpg"
+ },
+ {
+  "id": "x-election-commission-should-publish-its-dissent",
+  "articleId": "election-commission-should-publish-its-dissent",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Election_commission_of_india_voter_helpline_1950.jpg",
+  "credit": "Photo: Kottakkalnet / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Election Commission of India's headquarters, Nirvachan Sadan, in New Delhi",
+  "alt_hi": "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन",
+  "page": "https://commons.wikimedia.org/wiki/File:Election_commission_of_india_voter_helpline_1950.jpg"
+ },
+ {
+  "id": "x-section-163-bnss-prohibitory-orders-explained-hd",
+  "articleId": "section-163-bnss-prohibitory-orders-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Delhi_Police_SWAT_vehicle.jpg/1600px-Delhi_Police_SWAT_vehicle.jpg",
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Delhi Police barricades at a protest",
+  "alt_hi": "एक प्रदर्शन में दिल्ली पुलिस के बैरिकेड",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_Police_SWAT_vehicle.jpg",
+  "composite": [
+   "cx-section-163-bnss-prohibitory-orders-explained-0"
+  ]
+ },
+ {
+  "id": "x-wpi-vs-cpi-explained-wholesale-retail-inflation-hd",
+  "articleId": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Udyog_Bhawan_1.jpg/1600px-Udyog_Bhawan_1.jpg",
+  "credit": "Photo: Prateek Rungta from Delhi, India / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Azadpur wholesale market, Delhi",
+  "alt_hi": "आज़ादपुर थोक मंडी, दिल्ली",
+  "page": "https://commons.wikimedia.org/wiki/File:Udyog_Bhawan_1.jpg",
+  "composite": [
+   "cx-wpi-vs-cpi-explained-wholesale-retail-inflation-0"
+  ]
+ },
+ {
+  "id": "x-elections-2027",
+  "articleId": "elections-2027",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/A_large_queue_of_Muslim_voters_at_a_polling_station_near_Jama_Masjid%2C_Delhi_on_14_January_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Voters queue at a polling station in Delhi in 1952",
+  "alt_hi": "1952 में दिल्ली के एक मतदान केंद्र पर कतार में मतदाता",
+  "page": "https://commons.wikimedia.org/wiki/File:A_large_queue_of_Muslim_voters_at_a_polling_station_near_Jama_Masjid,_Delhi_on_14_January_1952.jpg"
+ },
+ {
+  "id": "x-how-uttar-pradesh-voted-2022-what-it-takes-to-win-hd",
+  "articleId": "how-uttar-pradesh-voted-2022-what-it-takes-to-win",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lok_bhavan_lucknow.jpg/1600px-Lok_bhavan_lucknow.jpg",
+  "credit": "Photo: Shoonyea / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "UP Vidhan Bhavan, Lucknow",
+  "alt_hi": "उत्तर प्रदेश विधान भवन, लखनऊ",
+  "page": "https://commons.wikimedia.org/wiki/File:Lok_bhavan_lucknow.jpg",
+  "composite": [
+   "cx-how-uttar-pradesh-voted-2022-what-it-takes-to-win-0"
+  ]
+ },
+ {
+  "id": "x-why-stubble-fires-rise-in-october-explained",
+  "articleId": "why-stubble-fires-rise-in-october-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/National_Agro_Happy_Seeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Stubble burning in a Punjab field",
+  "alt_hi": "पंजाब के एक खेत में जलती पराली",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Agro_Happy_Seeder.jpg",
+  "composite": [
+   "cx-why-stubble-fires-rise-in-october-explained-0"
+  ]
+ },
+ {
+  "id": "x-police-detention-powers-bnss-explained",
+  "articleId": "police-detention-powers-bnss-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Delhi_police_headquarters.JPG/1600px-Delhi_police_headquarters.JPG",
+  "credit": "Photo: Arjuncm3 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Delhi Police headquarters building on Jai Singh Marg in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में जय सिंह मार्ग पर दिल्ली पुलिस मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_police_headquarters.JPG",
+  "composite": [
+   "cx-police-detention-powers-bnss-explained-0"
+  ]
+ },
+ {
+  "id": "x-global-hunger-index-explained-india-score",
+  "articleId": "global-hunger-index-explained-india-score",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anganwadi_Centre_-_Budhibili_-_Dandadhar_Road_-_Dhenkanal_2018-01-25_9601.JPG/1600px-Anganwadi_Centre_-_Budhibili_-_Dandadhar_Road_-_Dhenkanal_2018-01-25_9601.JPG",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Children at an anganwadi centre in India (file photo)",
+  "alt_hi": "भारत के एक आंगनवाड़ी केंद्र में बच्चे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Anganwadi_Centre_-_Budhibili_-_Dandadhar_Road_-_Dhenkanal_2018-01-25_9601.JPG",
+  "composite": [
+   "cx-global-hunger-index-explained-india-score-0"
+  ]
+ },
+ {
+  "id": "x-infant-food-sugar-ban-should-cover-all-baby-foods",
+  "articleId": "infant-food-sugar-ban-should-cover-all-baby-foods",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nestle_Vevey_2014.jpg/1600px-Nestle_Vevey_2014.jpg",
+  "credit": "Photo: Sputniktilt / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Nestle headquarters building in Vevey, Switzerland (file photo)",
+  "alt_hi": "स्विट्ज़रलैंड के वेवे में नेस्ले मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nestle_Vevey_2014.jpg",
+  "composite": [
+   "cx-infant-food-sugar-ban-should-cover-all-baby-foods-0"
+  ]
+ },
+ {
+  "id": "x-article-371k-ladakh-explained-sixth-schedule",
+  "articleId": "article-371k-ladakh-explained-sixth-schedule",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Shanti_Stupa%2C_Leh%2C_20180814.jpg/1600px-Shanti_Stupa%2C_Leh%2C_20180814.jpg",
+  "credit": "Photo: Yann Forget, correction by Trougnouf / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Shanti Stupa overlooking Leh, Ladakh (file photo)",
+  "alt_hi": "लेह के ऊपर शांति स्तूप, लद्दाख (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shanti_Stupa,_Leh,_20180814.jpg",
+  "composite": [
+   "cx-article-371k-ladakh-explained-sixth-schedule-0"
+  ]
+ },
+ {
+  "id": "x-childrens-right-to-internet-supreme-court-ruling-explained",
+  "articleId": "childrens-right-to-internet-supreme-court-ruling-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/CIET_NCERT_BUILDING_NEW_DELHI.jpg/1600px-CIET_NCERT_BUILDING_NEW_DELHI.jpg",
+  "credit": "Photo: anutoshkvsgr / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "The National Council of Educational Research and Training (NCERT) in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद (एनसीईआरटी) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:CIET_NCERT_BUILDING_NEW_DELHI.jpg",
+  "composite": [
+   "cx-childrens-right-to-internet-supreme-court-ruling-explaine-0"
+  ]
+ },
+ {
+  "id": "x-who-owns-trinamool-election-commission-symbol-dispute-explai",
+  "articleId": "who-owns-trinamool-election-commission-symbol-dispute-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ritabrata_Banerjee.png",
+  "credit": "Photos: Chatgpt / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons",
+  "licence": "Public domain, CC BY 3.0",
+  "alt": "Ritabrata Banerjee and Mamata Banerjee (file photos)",
+  "alt_hi": "ऋतब्रत बनर्जी और ममता बनर्जी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ritabrata_Banerjee.png",
+  "composite": [
+   "cx-who-owns-trinamool-election-commission-symbol-dispute-exp-0",
+   "cx-who-owns-trinamool-election-commission-symbol-dispute-exp-1"
+  ]
+ },
+ {
+  "id": "x-delhi-air-needs-year-round-plan-not-grap-reflex",
+  "articleId": "delhi-air-needs-year-round-plan-not-grap-reflex",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Qutub_Minar_or_Qutb_Minar_or_Qutab_Minar_3.jpg/1600px-Qutub_Minar_or_Qutb_Minar_or_Qutab_Minar_3.jpg",
+  "credit": "Photo: Virusism / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Qutub Minar in Delhi in hazy air (file photo)",
+  "alt_hi": "धुंधली हवा में दिल्ली का कुतुब मीनार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Qutub_Minar_or_Qutb_Minar_or_Qutab_Minar_3.jpg",
+  "composite": [
+   "cx-delhi-air-needs-year-round-plan-not-grap-reflex-0"
+  ]
+ },
+ {
+  "id": "x-grap-explained-delhi-air-stages-what-is-banned",
+  "articleId": "grap-explained-delhi-air-stages-what-is-banned",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg/1600px-Smog_in_the_skies_of_Delhi%2C_India.jpg",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Smog hangs over the Delhi skyline (file photo)",
+  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg",
+  "composite": [
+   "cx-grap-explained-delhi-air-stages-what-is-banned-0"
+  ]
+ },
+ {
+  "id": "x-indus-waters-treaty-explained-shehbaz-act-of-war",
+  "articleId": "indus-waters-treaty-explained-shehbaz-act-of-war",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Baglihar_Dam_Chenab_River_J%26K_India.jpg/1600px-Baglihar_Dam_Chenab_River_J%26K_India.jpg",
+  "credit": "Photo: Gtsenthilnath / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "The Baglihar Dam on the Chenab river in Jammu and Kashmir (file photo)",
+  "alt_hi": "जम्मू-कश्मीर में चिनाब नदी पर बगलिहार बांध (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Baglihar_Dam_Chenab_River_J%26K_India.jpg",
+  "composite": [
+   "cx-indus-waters-treaty-explained-shehbaz-act-of-war-0"
+  ]
+ },
+ {
+  "id": "x-depression-cyclone-explained-how-imd-grades-bay-of-bengal-st",
+  "articleId": "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/India_Meteorological_Department.jpg/1600px-India_Meteorological_Department.jpg",
+  "credit": "Photo: Universalashic / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Signboard of the India Meteorological Department (file photo)",
+  "alt_hi": "भारत मौसम विज्ञान विभाग का बोर्ड (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_Meteorological_Department.jpg",
+  "composite": [
+   "cx-depression-cyclone-explained-how-imd-grades-bay-of-bengal-0"
+  ]
+ },
+ {
+  "id": "x-no-first-use-explained-india-nuclear-doctrine-un-offer",
+  "articleId": "no-first-use-explained-india-nuclear-doctrine-un-offer",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/A_B_Vajpayee_%28cropped%29.jpg",
+  "credit": "Photo: Deccan Herald / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Former Prime Minister Atal Bihari Vajpayee (file photo)",
+  "alt_hi": "पूर्व प्रधानमंत्री अटल बिहारी वाजपेयी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_B_Vajpayee_(cropped).jpg",
+  "composite": [
+   "cx-no-first-use-explained-india-nuclear-doctrine-un-offer-0"
+  ]
+ },
+ {
+  "id": "x-farmer-id-explained-digital-agriculture-mission",
+  "articleId": "farmer-id-explained-digital-agriculture-mission",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Krishi_Bhawan_in_morning_-_panoramio.jpg/1600px-Krishi_Bhawan_in_morning_-_panoramio.jpg",
+  "credit": "Photo: Anil Kaushik / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Krishi Bhawan in New Delhi, which houses the Ministry of Agriculture and Farmers Welfare (file photo)",
+  "alt_hi": "नई दिल्ली में कृषि भवन, जहां कृषि एवं किसान कल्याण मंत्रालय है (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Krishi_Bhawan_in_morning_-_panoramio.jpg",
+  "composite": [
+   "cx-farmer-id-explained-digital-agriculture-mission-0"
+  ]
+ },
+ {
+  "id": "x-siang-dam-explained-what-sump-is-why-adi-protest",
+  "articleId": "siang-dam-explained-what-sump-is-why-adi-protest",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Siang_River_in_Arunachal.jpg/1600px-Siang_River_in_Arunachal.jpg",
+  "credit": "Photo: ঈশান জ্যোতি বৰা / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Siang river flowing through the hills of Upper Siang district, Arunachal Pradesh (file photo)",
+  "alt_hi": "अरुणाचल प्रदेश के अपर सियांग जिले की पहाड़ियों से बहती सियांग नदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Siang_River_in_Arunachal.jpg",
+  "composite": [
+   "cx-siang-dam-explained-what-sump-is-why-adi-protest-0"
+  ]
+ },
+ {
+  "id": "x-bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+  "articleId": "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Delhi-Gurgaon_Expressway_-_Aerial_View_-_New_Delhi_2016-08-04_5808.JPG/1600px-Delhi-Gurgaon_Expressway_-_Aerial_View_-_New_Delhi_2016-08-04_5808.JPG",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Aerial view of the Delhi-Gurgaon Expressway (file photo)",
+  "alt_hi": "दिल्ली-गुड़गांव एक्सप्रेसवे का हवाई दृश्य (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi-Gurgaon_Expressway_-_Aerial_View_-_New_Delhi_2016-08-04_5808.JPG",
+  "composite": [
+   "cx-bs-iv-ban-explained-bharat-stage-norms-delhi-curbs-0"
+  ]
+ },
+ {
+  "id": "x-special-session-of-parliament-explained-shah-offer-cec-remov",
+  "articleId": "special-session-of-parliament-explained-shah-offer-cec-removal",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parliament_House%2C_Delhi.jpg/1600px-Parliament_House%2C_Delhi.jpg",
+  "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Parliament House in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में संसद भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Parliament_House,_Delhi.jpg",
+  "composite": [
+   "cx-special-session-of-parliament-explained-shah-offer-cec-re-0"
+  ]
+ },
+ {
+  "id": "x-commercial-vs-domestic-lpg-price-explained-saudi-cp",
+  "articleId": "commercial-vs-domestic-lpg-price-explained-saudi-cp",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gali_Paranthe_Wali.jpg/1600px-Gali_Paranthe_Wali.jpg",
+  "credit": "Photo: Sripathroy / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Eateries in Paranthe Wali Gali, Old Delhi (file photo)",
+  "alt_hi": "पुरानी दिल्ली की परांठे वाली गली में खाने की दुकानें (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gali_Paranthe_Wali.jpg",
+  "composite": [
+   "cx-commercial-vs-domestic-lpg-price-explained-saudi-cp-0"
+  ]
+ },
+ {
+  "id": "x-oral-mentioning-explained-supreme-court-senior-counsel-bar",
+  "articleId": "oral-mentioning-explained-supreme-court-senior-counsel-bar",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nyay_Devi_India.png",
+  "credit": "Photo: Karan.jr.Singh / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The Nyay Devi statue of justice in the Supreme Court of India's judges' library (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के न्यायाधीशों के पुस्तकालय में न्याय देवी की प्रतिमा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nyay_Devi_India.png",
+  "composite": [
+   "cx-oral-mentioning-explained-supreme-court-senior-counsel-ba-0"
+  ]
+ },
+ {
+  "id": "x-two-child-norm-explained-javed-ruling-larger-bench",
+  "articleId": "two-child-norm-explained-javed-ruling-larger-bench",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Supreme_Court_of_India_front_view_09.jpg/1600px-Supreme_Court_of_India_front_view_09.jpg",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_09.jpg",
+  "composite": [
+   "cx-two-child-norm-explained-javed-ruling-larger-bench-0"
+  ]
+ },
+ {
+  "id": "x-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour",
+  "articleId": "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Supreme_Court_of_India_front_view_06.jpg/1600px-Supreme_Court_of_India_front_view_06.jpg",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_06.jpg",
+  "composite": [
+   "cx-foreign-divorce-explained-bigamy-section-13-cpc-supreme-c-0"
+  ]
+ },
+ {
+  "id": "x-fast-track-special-courts-explained-rape-pocso-backlog",
+  "articleId": "fast-track-special-courts-explained-rape-pocso-backlog",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Shri_Arjun_Ram_Meghwal.jpg",
+  "credit": "Photo: Ministry of Parliamentary Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Law Minister Arjun Ram Meghwal (file photo)",
+  "alt_hi": "केंद्रीय क़ानून मंत्री अर्जुन राम मेघवाल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Arjun_Ram_Meghwal.jpg",
+  "composite": [
+   "cx-fast-track-special-courts-explained-rape-pocso-backlog-0"
+  ]
+ },
+ {
+  "id": "x-energy-storage-vgf-explained-why-india-needs-batteries-pumpe",
+  "articleId": "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nirazuka_Battery_Storage_Power_Station_3.jpg/1600px-Nirazuka_Battery_Storage_Power_Station_3.jpg",
+  "credit": "Photo: Qurren / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Containers of a grid battery storage station (file photo)",
+  "alt_hi": "ग्रिड बैटरी भंडारण केंद्र के कंटेनर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nirazuka_Battery_Storage_Power_Station_3.jpg",
+  "composite": [
+   "cx-energy-storage-vgf-explained-why-india-needs-batteries-pu-0"
+  ]
+ },
+ {
+  "id": "x-goa-st-seat-reservation-explained-supreme-court",
+  "articleId": "goa-st-seat-reservation-explained-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Goa_Legislative_Assembly_Complex%2C_one_view_2_circa_2006.jpg/1600px-Goa_Legislative_Assembly_Complex%2C_one_view_2_circa_2006.jpg",
+  "credit": "Photo: Fredericknoronha / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Goa Legislative Assembly complex at Porvorim (file photo)",
+  "alt_hi": "पोरवोरिम में गोवा विधानसभा परिसर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Goa_Legislative_Assembly_Complex,_one_view_2_circa_2006.jpg",
+  "composite": [
+   "cx-goa-st-seat-reservation-explained-supreme-court-0"
+  ]
+ },
+ {
+  "id": "x-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+  "articleId": "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Supreme_Court_of_India_-_Retouched.jpg",
+  "credit": "Photo: Legaleagle86 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Supreme Court of India, which ordered the Centre to set up the cell (file photo)",
+  "alt_hi": "केंद्र को प्रकोष्ठ बनाने का आदेश देने वाला भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_-_Retouched.jpg",
+  "composite": [
+   "cx-child-labour-ban-needs-inspectors-and-rescue-not-just-a-c-0"
+  ]
+ },
+ {
+  "id": "x-ugc-equity-regulations-explained-caste-discrimination-campus",
+  "articleId": "ugc-equity-regulations-explained-caste-discrimination-campuses",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/University_of_Hyderabad_%28UoH%29.png",
+  "credit": "Photo: Mohammad Anees Qamar / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The University of Hyderabad, where Rohith Vemula was a research scholar (file photo)",
+  "alt_hi": "हैदराबाद विश्वविद्यालय, जहां रोहित वेमुला शोध छात्र थे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:University_of_Hyderabad_(UoH).png",
+  "composite": [
+   "cx-ugc-equity-regulations-explained-caste-discrimination-cam-0"
+  ]
+ },
+ {
+  "id": "o-obc-creamy-layer-explained-parents-salary-supreme-court",
+  "articleId": "obc-creamy-layer-explained-parents-salary-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Justice_R._Mahadevan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Justice R. Mahadevan of the Supreme Court (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के जस्टिस आर. महादेवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_R._Mahadevan.jpg"
+ },
+ {
+  "id": "o-bbmb-power-sharing-explained-himachal-share-supreme-court",
+  "articleId": "bbmb-power-sharing-explained-himachal-share-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Floodgates_-_Pandoh_Dam_across_River_Beas_-_Chandigarh-Manali_Highway_-_NH-21_-_Mandi_2014-05-09_2151.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Floodgates of the Pandoh Dam on the Beas in Mandi, part of the BBMB system (file photo)",
+  "alt_hi": "मंडी में ब्यास नदी पर पंडोह बांध के फ्लडगेट, बीबीएमबी व्यवस्था का हिस्सा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Floodgates_-_Pandoh_Dam_across_River_Beas_-_Chandigarh-Manali_Highway_-_NH-21_-_Mandi_2014-05-09_2151.JPG"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HP_Petrol_Pump_at_Addakal.jpg/1280px-HP_Petrol_Pump_at_Addakal.jpg",
+  "credit": "Photo: Chanduclicks / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A petrol pump in Telangana (file photo)",
+  "alt_hi": "तेलंगाना में एक पेट्रोल पंप (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Petrol_Pump_at_Addakal.jpg",
+  "id": "r-e20-petrol-explained-ethanol-blend-karnataka-row",
+  "articleId": "e20-petrol-explained-ethanol-blend-karnataka-row"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Narendra_Damodardas_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg",
+  "id": "r-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
+  "articleId": "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim"
+ },
+ {
+  "id": "o-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
+  "articleId": "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/BhagwantMann_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Indian Embassy in Seoul, South Korea / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhagwant Mann (file photo)",
+  "alt_hi": "भगवंत मान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg"
+ },
+ {
+  "id": "o-gujarat-himachal-pradesh-elections-2027-what-to-know",
+  "articleId": "gujarat-himachal-pradesh-elections-2027-what-to-know",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Chief_Minister_of_Gujarat%2C_Shri_Bhupendra_Patel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupendra Patel (file photo)",
+  "alt_hi": "भूपेंद्र पटेल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_of_Gujarat,_Shri_Bhupendra_Patel.jpg"
+ },
+ {
+  "id": "o-new-income-tax-act-2025-explained-tax-year-slabs-deadlines",
+  "articleId": "new-income-tax-act-2025-explained-tax-year-slabs-deadlines",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Minister_of_State_for_Commerce_%26_Industry_%28Independent_Charge%29%2C_Smt._Nirmala_Sitharaman_addressing_a_press_conference%2C_in_New_Delhi_on_October_14%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Nirmala Sitharaman (file photo)",
+  "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg"
+ },
+ {
+  "id": "o-pm-kisan-25th-instalment-date-status-ekyc-explained",
+  "articleId": "pm-kisan-25th-instalment-date-status-ekyc-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Shri_Shivraj_Singh_Chouhan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg"
+ },
+ {
+  "id": "o-akali-dal-bjp-alliance-punjab-2027-explained",
+  "articleId": "akali-dal-bjp-alliance-punjab-2027-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sukhbir_Singh_Badal_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Kuldeep Singh Deep / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Akali Dal president Sukhbir Singh Badal addressing a public meeting in Lambi (file photo)",
+  "alt_hi": "लंबी में एक जनसभा को संबोधित करते अकाली दल अध्यक्ष सुखबीर सिंह बादल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhbir_Singh_Badal_2.jpg"
+ },
+ {
+  "id": "o-census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+  "articleId": "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Prime_Minister_of_Bharat%2C_Shri_Narendra_Damodardas_Modi_fills_out_the_self-enumeration_for_Census_2027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Prime Minister Narendra Modi fills out the Census 2027 self-enumeration form in New Delhi, April 1, 2026",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी 1 अप्रैल 2026 को नई दिल्ली में जनगणना 2027 का स्व-गणना फॉर्म भरते हुए",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_fills_out_the_self-enumeration_for_Census_2027.jpg"
+ },
+ {
+  "id": "o-holiday-list-2027-india-central-government-gazetted-holidays",
+  "articleId": "holiday-list-2027-india-central-government-gazetted-holidays",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Diwali_Diyas_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Slyronit / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A row of lit diyas for Diwali (file photo)",
+  "alt_hi": "दिवाली पर जलते दीयों की कतार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Diwali_Diyas_4.jpg"
+ },
+ {
+  "id": "o-irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart",
+  "articleId": "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/New_Delhi_railway_station_board%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ravi Dwivedi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A train at New Delhi railway station (file photo)",
+  "alt_hi": "नई दिल्ली रेलवे स्टेशन पर एक ट्रेन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Delhi_railway_station_board,_India.jpg"
+ },
+ {
+  "id": "o-punjab-election-2027-how-punjab-voted-2022-117-seats",
+  "articleId": "punjab-election-2027-how-punjab-voted-2022-117-seats",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bhagwant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Jaypee / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Punjab Chief Minister Bhagwant Mann (file photo)",
+  "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg"
+ },
+ {
+  "id": "o-assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+  "articleId": "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Chief_Election_Commissioner_of_India%2C_Sh._Gyanesh_Kumar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Gyanesh Kumar (file photo)",
+  "alt_hi": "ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg"
+ },
+ {
+  "id": "o-up-voter-list-2026-check-name-after-sir",
+  "articleId": "up-voter-list-2026-check-name-after-sir",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Voters_of_either_sex_in_two_separate_queues_at_Malihabad_polling_station_in_Lucknow%2C_Uttar_Pradesh_during_the_third_phase_of_General_Election-2004_on_May_5%2C_2004_%28Wednesday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Voters queue at a polling station in Malihabad, Lucknow, Uttar Pradesh (file photo)",
+  "alt_hi": "उत्तर प्रदेश के लखनऊ के मलिहाबाद में मतदान केंद्र पर कतार में मतदाता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Voters_of_either_sex_in_two_separate_queues_at_Malihabad_polling_station_in_Lucknow,_Uttar_Pradesh_during_the_third_phase_of_General_Election-2004_on_May_5,_2004_(Wednesday.jpg"
+ },
+ {
+  "id": "o-pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+  "articleId": "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Solar_Panel_Mounted_Main_Auditorium_Lower_Rooftop_-_Convention_Centre_Complex_-_Science_City_-_Calcutta_1996-10-11_867.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Rooftop solar panels at Science City, Kolkata (file photo)",
+  "alt_hi": "कोलकाता के साइंस सिटी में छत पर लगे सोलर पैनल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Solar_Panel_Mounted_Main_Auditorium_Lower_Rooftop_-_Convention_Centre_Complex_-_Science_City_-_Calcutta_1996-10-11_867.JPG"
+ },
+ {
+  "id": "o-womens-reservation-33-per-cent-when-will-it-start-explained",
+  "articleId": "womens-reservation-33-per-cent-when-will-it-start-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Glimpse_of_the_new_Parliament_Building%2C_in_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Parliamentary Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "The new Parliament building in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में नया संसद भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Glimpse_of_the_new_Parliament_Building,_in_New_Delhi.jpg"
+ },
+ {
+  "id": "o-uttarakhand-election-2027-70-seats-dhami-bjp-congress",
+  "articleId": "uttarakhand-election-2027-70-seats-dhami-bjp-congress",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Kartik_Paliwal_with_Pushkar_Singh_Dhami_and_Mohan_Singh_Mehra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Kartik Paliwal / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Uttarakhand Chief Minister Pushkar Singh Dhami (centre) receives a bouquet (file photo)",
+  "alt_hi": "गुलदस्ता लेते उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी (बीच में) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Kartik_Paliwal_with_Pushkar_Singh_Dhami_and_Mohan_Singh_Mehra.jpg"
+ },
+ {
+  "id": "o-uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
+  "articleId": "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Prime_Minister_of_India_with_Chief_Minister_of_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Uttarakhand Chief Minister Pushkar Singh Dhami with Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी के साथ उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister_of_India_with_Chief_Minister_of_Uttarakhand.jpg"
+ },
+ {
+  "id": "o-goa-election-2027-40-seats-bjp-congress-aap-goa-forward",
+  "articleId": "goa-election-2027-40-seats-bjp-congress-aap-goa-forward",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Goa University / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Goa Chief Minister Pramod Sawant speaking at Goa University (file photo)",
+  "alt_hi": "गोवा विश्वविद्यालय में बोलते गोवा के मुख्यमंत्री प्रमोद सावंत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University.jpg"
+ },
+ {
+  "id": "o-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply",
+  "articleId": "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jagat_Prakash_Nadda_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_2023.jpg"
+ },
+ {
+  "id": "o-8th-pay-commission-explained-salary-pension-fitment-factor",
+  "articleId": "8th-pay-commission-explained-salary-pension-fitment-factor",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, home of the Finance Ministry, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, वित्त मंत्रालय का दफ्तर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg"
+ },
+ {
+  "id": "o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+  "articleId": "forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/A_view_of_Megamalai_Ghats%2C_AJT_Johnsingh._DSCN0744.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: A. J. T. Johnsingh, WWF-India and NCF / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The forested Megamalai ghats in Theni district, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु के थेनी जिले में मेघमलै के जंगल वाले घाट (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_view_of_Megamalai_Ghats,_AJT_Johnsingh._DSCN0744.jpg"
+ },
+ {
+  "id": "o-megamalai-ruling-forest-rights-line-must-be-honest",
+  "articleId": "megamalai-ruling-forest-rights-line-must-be-honest",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Megamalai-hidden_paradise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Shanmugam. M / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Settlements and estates in the Megamalai hills, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु की मेघमलै पहाड़ियों में बस्तियां और बागान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Megamalai-hidden_paradise.jpg"
+ },
+ {
+  "id": "o-delhi-air-monitors-that-go-blank-on-the-worst-night",
+  "articleId": "delhi-air-monitors-that-go-blank-on-the-worst-night",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Low_visibility_due_to_Smog_in_entry_of_Chelmsford_Road_New_Delhi_31st_Dec_2017_9AM_DSCN8819_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Sumita Roy Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Smog on Chelmsford Road, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली की चेम्सफोर्ड रोड पर स्मॉग (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Low_visibility_due_to_Smog_in_entry_of_Chelmsford_Road_New_Delhi_31st_Dec_2017_9AM_DSCN8819_1.jpg"
+ },
+ {
+  "id": "o-kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+  "articleId": "kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/MallikarjunKharge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ajay Kumar Koli / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Mallikarjun Kharge (file photo)",
+  "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:MallikarjunKharge.png"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Supreme_Court_of_India.jpg/1600px-Supreme_Court_of_India.jpg",
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India (file photo)",
+  "alt_hi": "भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg",
+  "id": "r-digital-arrest-victims-should-be-repaid-by-the-bank-first",
+  "articleId": "digital-arrest-victims-should-be-repaid-by-the-bank-first"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Supreme_Court_of_India%2C_inside_buildings_01.jpg/1280px-Supreme_Court_of_India%2C_inside_buildings_01.jpg",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Inside the Supreme Court of India complex, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट परिसर के भीतर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_01.jpg",
+  "id": "r-digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+  "articleId": "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+ },
+ {
+  "id": "o-amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+  "articleId": "amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Union_Minister_for_Home_Affairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah speaking (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg"
+ },
+ {
+  "id": "o-extradition-explained-hasina-india-bangladesh-treaty",
+  "articleId": "extradition-explained-hasina-india-bangladesh-treaty",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Sheikh_Hasina_Addresses_Awami_League_Leaders_Ganabhaban_2024-05-17_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Press Information Department / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Sheikh Hasina speaking at an Awami League meeting in Dhaka (file photo)",
+  "alt_hi": "ढाका में अवामी लीग की बैठक में बोलती शेख हसीना (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_Addresses_Awami_League_Leaders_Ganabhaban_2024-05-17_(cropped).jpg"
+ },
+ {
+  "id": "o-parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+  "articleId": "parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dr_G_Parameshwara.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Manjeshpv / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Karnataka Deputy Chief Minister G. Parameshwara (file photo)",
+  "alt_hi": "कर्नाटक के उपमुख्यमंत्री जी. परमेश्वर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dr_G_Parameshwara.JPG"
+ },
+ {
+  "id": "o-swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
+  "articleId": "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
+  "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/A3S_5859_20261111205459_a74df9.JPG",
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "President Droupadi Murmu presents a Swachh Survekshan award at Vigyan Bhawan, New Delhi, November 11, 2026",
+  "alt_hi": "राष्ट्रपति द्रौपदी मुर्मु ने 11 नवंबर 2026 को नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण पुरस्कार प्रदान किया",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2335230"
+ },
+ {
+  "id": "o-reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+  "articleId": "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/High_Court_of_Karntaka%2C_Bangalore_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Moheen Reeyad / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Karnataka High Court building in Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु में कर्नाटक हाईकोर्ट की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:High_Court_of_Karntaka,_Bangalore_(01).jpg"
+ },
+ {
+  "id": "o-karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
+  "articleId": "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/DK_Shivakumar_speech.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: DAR.45m / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Karnataka Chief Minister D. K. Shivakumar (file photo)",
+  "alt_hi": "कर्नाटक के मुख्यमंत्री डी. के. शिवकुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:DK_Shivakumar_speech.jpg"
+ },
+ {
+  "id": "o-delimitation-bill-361-votes-needed-two-thirds-claim",
+  "articleId": "delimitation-bill-361-votes-needed-two-thirds-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Shri_Om_Birla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Parliamentary Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Om Birla (file photo)",
+  "alt_hi": "ओम बिरला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Om_Birla.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/India_and_adjacent_countries%2C_1917.jpg/1280px-India_and_adjacent_countries%2C_1917.jpg",
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Members in the Lok Sabha chamber of India's new Parliament building (file photo)",
+  "alt_hi": "भारत के नए संसद भवन के लोकसभा कक्ष में सदस्य (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg",
+  "id": "r-delimitation-bill-361-votes-needed-two-thirds-claim",
+  "articleId": "delimitation-bill-361-votes-needed-two-thirds-claim"
+ },
+ {
+  "id": "o-website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+  "articleId": "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sanchar_Bhawan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ramesh Lalwani / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Sanchar Bhawan, the Department of Telecommunications headquarters in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में दूरसंचार विभाग का मुख्यालय संचार भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sanchar_Bhawan.jpg"
+ },
+ {
+  "id": "o-nadda-tb-deaths-38-percent-who-report-claim",
+  "articleId": "nadda-tb-deaths-38-percent-who-report-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Union_Minister_for_Health_%26_Family_Welfare%2C_Shri_Jagat_Prakash_Nadda_addressing_the_faculty%2C_at_NMHANS%2C_in_Bengaluru_on_December_28%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Health Minister J P Nadda addressing a health convention (file photo)",
+  "alt_hi": "एक स्वास्थ्य सम्मेलन को संबोधित करते केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_Health_%26_Family_Welfare,_Shri_Jagat_Prakash_Nadda_addressing_the_faculty,_at_NMHANS,_in_Bengaluru_on_December_28,_2014.jpg"
+ },
+ {
+  "id": "o-monsoon-session-unprorogued-record-88-days-ramesh-claim",
+  "articleId": "monsoon-session-unprorogued-record-88-days-ramesh-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jairam_Ramesh_-_Yann_Forget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Yann Forget from India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Jairam Ramesh (file photo)",
+  "alt_hi": "जयराम रमेश (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg"
+ },
+ {
+  "id": "o-goyal-record-october-exports-90-billion-claim",
+  "articleId": "goyal-record-october-exports-90-billion-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Piyush_Goyal_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal (file photo)",
+  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/U.S._Trade_Representative_Jamieson_Greer_with_Indian_Minister_of_Commerce_and_Industry_Piyush_Goyal.jpg",
+  "credit": "Photo: Office of the United States Trade Representative / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Trade Representative Jamieson Greer meets Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "अमेरिकी व्यापार प्रतिनिधि जेमीसन ग्रीर और वाणिज्य मंत्री पीयूष गोयल की मुलाकात (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:U.S._Trade_Representative_Jamieson_Greer_with_Indian_Minister_of_Commerce_and_Industry_Piyush_Goyal.jpg",
+  "id": "r-goyal-record-october-exports-90-billion-claim",
+  "articleId": "goyal-record-october-exports-90-billion-claim"
+ },
+ {
+  "id": "o-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
+  "articleId": "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rahul_Gandhi_%28portrait_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Original: Indian National Congress / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(portrait_crop).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rahul_Gandhi_speaking.jpg/1280px-Rahul_Gandhi_speaking.jpg",
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+  "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg",
+  "id": "r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
+  "articleId": "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid"
+ },
+ {
+  "id": "o-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+  "articleId": "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rahul_Gandhi_%28cropped_squarely%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Original: Indian National Congress / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped_squarely).jpg"
+ },
+ {
+  "id": "o-ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+  "articleId": "ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Official_portrait_of_the_Prime_Minister_Narendra_Modi%2C_November_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg"
+ },
+ {
+  "id": "o-india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+  "articleId": "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Shri_Piyush_Goyal_Minister_of_Commerce_and_Industry_addressing_a_press_conference_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "वाणिज्य मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Piyush_Goyal_Minister_of_Commerce_and_Industry_addressing_a_press_conference_(4).jpg"
+ },
+ {
+  "id": "o-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim",
+  "articleId": "kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Railways / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Mallikarjun Kharge (file photo)",
+  "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways,_in_New_Delhi_on_June_19,_2013_(cropped).jpg"
+ },
+ {
+  "id": "o-modi-tribals-full-rights-over-bamboo-claim",
+  "articleId": "modi-tribals-full-rights-over-bamboo-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Narendra_Modi_at_Vienna_International_Airport_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Bundesministerium für europäische und internationale Angelegenheiten / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_at_Vienna_International_Airport_(cropped).jpg"
+ },
+ {
+  "id": "o-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+  "articleId": "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jagat_Prakash_Nadda_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg"
+ },
+ {
+  "id": "o-suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
+  "articleId": "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/The_Chief_Minister_of_West_Bengal%2C_Shri_Suvendu_Adhikari_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Suvendu Adhikari (file photo)",
+  "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "id": "r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+  "articleId": "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts"
+ },
+ {
+  "id": "o-india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+  "articleId": "india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shri_Rajnath_Singh%2C_Union_Minister_of_Defence_at_a_webinar_on_August_04%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rajnath Singh (file photo)",
+  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg"
+ },
+ {
+  "id": "o-latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
+  "articleId": "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Union_Minister_for_Home_Affairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah speaking at a meeting (file photo)",
+  "alt_hi": "एक बैठक में बोलते केंद्रीय गृह मंत्री अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg"
+ },
+ {
+  "id": "o-air-india-crash-probe-final-stages-supreme-court",
+  "articleId": "air-india-crash-probe-final-stages-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tushar_Mehta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Inter-Pacific Bar Association (IPBA) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Tushar Mehta (file photo)",
+  "alt_hi": "तुषार मेहता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tushar_Mehta.jpg"
+ },
+ {
+  "id": "o-air-india-ai171-final-report-must-be-public",
+  "articleId": "air-india-ai171-final-report-must-be-public",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_wreckage_of_the_crashed_Air_India_Flight_171_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "The tail section of the crashed Air India Flight 171 lodged in the hostel building in Ahmedabad (file photo)",
+  "alt_hi": "अहमदाबाद में हॉस्टल की इमारत में फंसा एयर इंडिया उड़ान 171 का पिछला हिस्सा (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_wreckage_of_the_crashed_Air_India_Flight_171_(cropped).jpg"
+ },
+ {
+  "id": "o-modi-world-bank-50-crore-poverty-claim",
+  "articleId": "modi-world-bank-50-crore-poverty-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Narendra_Modi_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "id": "r-sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+  "articleId": "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+ },
+ {
+  "id": "o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+  "articleId": "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Shri_Shivraj_Singh_Chouhan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg"
+ },
+ {
+  "id": "o-rahul-gandhi-india-given-up-manufacturing-chicago-claim",
+  "articleId": "rahul-gandhi-india-given-up-manufacturing-chicago-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Himanshu Arya Khowal / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png"
+ },
+ {
+  "id": "o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+  "articleId": "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rauldega%2C_Odisha%2C_India_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Bikash Lakra / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A village road near Rauldega in Sundargarh district, Odisha (file photo)",
+  "alt_hi": "ओडिशा के सुंदरगढ़ जिले में राउलडेगा के पास गांव की सड़क (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rauldega,_Odisha,_India_-_panoramio_(5).jpg"
+ },
+ {
+  "id": "o-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+  "articleId": "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/La_haye_palais_paix_jardin_face.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Velvet / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Peace Palace in The Hague, seat of the International Court of Justice",
+  "alt_hi": "हेग का पीस पैलेस, अंतरराष्ट्रीय न्यायालय (आईसीजे) का मुख्यालय",
+  "page": "https://commons.wikimedia.org/wiki/File:La_haye_palais_paix_jardin_face.JPG"
+ },
+ {
+  "id": "o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+  "articleId": "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Panorama_of_Thiruparankundram_Madurai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Pratyeka / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Thiruparankundram town and the hill with the Subramaniya Swamy temple, Madurai (file photo)",
+  "alt_hi": "मदुरै में तिरुप्परनकुंड्रम कस्बा और सुब्रमण्य स्वामी मंदिर वाली पहाड़ी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Thiruparankundram_Madurai.jpg"
+ },
+ {
+  "id": "o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+  "articleId": "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+ },
+ {
+  "id": "o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+  "articleId": "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+  "sourceUrl": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/image005_20261121164029_813b7f.jpg",
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Amit Shah presents the President's Colour to Arunachal Pradesh Police in Itanagar on November 21, 2026",
+  "alt_hi": "21 नवंबर 2026 को इटानगर में अरुणाचल प्रदेश पुलिस को राष्ट्रपति का पुलिस ध्वज सौंपते अमित शाह",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2339539"
+ },
+ {
+  "id": "o-tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+  "articleId": "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nitish_Kumar_and_Tejaswi_Yadav_examining_the_work_of_Patna_Metro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Information and Public Relations Department Government of Bihar / Wikimedia Commons",
+  "licence": "Attribution",
+  "alt": "Tejashwi Yadav, as deputy chief minister, with Nitish Kumar at a Patna Metro works review (file photo)",
+  "alt_hi": "उपमुख्यमंत्री रहते तेजस्वी यादव, नीतीश कुमार के साथ पटना मेट्रो के काम की समीक्षा में (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nitish_Kumar_and_Tejaswi_Yadav_examining_the_work_of_Patna_Metro.jpg"
+ },
+ {
+  "id": "o-india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+  "articleId": "india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Piyush_Goyal_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal (file photo)",
+  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/A_village_in_Nandigram.jpg/1280px-A_village_in_Nandigram.jpg",
+  "credit": "Photo: মঞ্জুর আলম খান / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "A village in Nandigram, West Bengal (file photo)",
+  "alt_hi": "पश्चिम बंगाल के नंदीग्राम का एक गांव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_village_in_Nandigram.jpg",
+  "id": "r-rbi-panchayat-finances-grants-90-per-cent-report",
+  "articleId": "rbi-panchayat-finances-grants-90-per-cent-report"
+ },
+ {
+  "id": "o-rafale-india-active-fleet-32-of-36-four-lost-claim",
+  "articleId": "rafale-india-active-fleet-32-of-36-four-lost-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Indian_Air_Force_Rafale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Dylan Agbagni / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "An Indian Air Force Rafale fighter jet (file photo)",
+  "alt_hi": "भारतीय वायुसेना का राफेल लड़ाकू विमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Air_Force_Rafale.jpg"
+ },
+ {
+  "id": "o-nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+  "articleId": "nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Balen_Shah_in_May_2024_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Metro News / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Nepal Prime Minister Balendra Shah (file photo)",
+  "alt_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_03.jpg"
+ },
+ {
+  "id": "o-supertech-cji-surya-kant-recuses-special-bench",
+  "articleId": "supertech-cji-surya-kant-recuses-special-bench",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Justice_Surya_Kant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Surya Kant (file photo)",
+  "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg"
+ },
+ {
+  "id": "o-west-bengal-cabinet-paschim-banga-rename-december-9",
+  "articleId": "west-bengal-cabinet-paschim-banga-rename-december-9",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/The_Chief_Minister_of_West_Bengal%2C_Shri_Suvendu_Adhikari_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Suvendu Adhikari (file photo)",
+  "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Smog_in_the_skies_of_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Smog over the Delhi skyline (file photo)",
+  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg",
+  "id": "r-sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+  "articleId": "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted"
+ },
+ {
+  "id": "o-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+  "articleId": "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Delhi_To_Agra_%28108013677%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Andreweland / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A Haryana-registered truck in traffic on the road between Delhi and Agra (file photo)",
+  "alt_hi": "दिल्ली और आगरा के बीच सड़क पर यातायात में हरियाणा पंजीकरण का ट्रक (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_To_Agra_(108013677).jpeg"
+ },
+ {
+  "id": "o-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
+  "articleId": "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jairam_Ramesh_-_Yann_Forget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Yann Forget from India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Jairam Ramesh (file photo)",
+  "alt_hi": "जयराम रमेश (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg"
+ },
+ {
+  "id": "x-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "articleId": "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "sourceUrl": "",
+  "credit": "Photos: Supreme Court of India / Wikimedia Commons; G41rn8 / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 4.0",
+  "alt": "Chief Justice of India Surya Kant and the Calcutta High Court in Kolkata (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और कोलकाता में कलकत्ता हाईकोर्ट (फाइल फोटो)",
+  "page": null,
+  "composite": [
+   "lead-cover"
+  ]
+ },
+ {
+  "id": "o-anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+  "articleId": "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Anganwadi_Day_starts_with_prayer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Jaisuvyas / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Anganwadi workers with children at an anganwadi centre in India (file photo)",
+  "alt_hi": "आंगनवाड़ी केंद्र पर बच्चों के साथ आंगनवाड़ी कार्यकर्ता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Anganwadi_Day_starts_with_prayer.jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Reserve_Bank_of_India_building_in_Kolkata.jpg/1280px-Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Reserve Bank of India building in Kolkata (file photo)",
+  "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "id": "r-rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
+  "articleId": "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
+ },
+ {
+  "id": "o-shivraj-chouhan-punjab-pmfby-not-implemented-claim",
+  "articleId": "shivraj-chouhan-punjab-pmfby-not-implemented-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Shri_Shivraj_Singh_Chouhan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg"
+ },
+ {
+  "id": "o-nipu-urea-six-brownfield-plants-54000-crore",
+  "articleId": "nipu-urea-six-brownfield-plants-54000-crore",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jagat_Prakash_Nadda_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg"
+ },
+ {
+  "id": "o-nipu-urea-explained",
+  "articleId": "nipu-urea-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jagat_Prakash_Nadda_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_2023.jpg"
+ },
+ {
+  "id": "o-commerce-ministry-no-structural-excess-capacity-any-sector-claim",
+  "articleId": "commerce-ministry-no-structural-excess-capacity-any-sector-claim",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Piyush_Goyal_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal (file photo)",
+  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+ },
+ {
+  "id": "o-constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+  "articleId": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Narendra_Modi_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Narendra_Damodardas_Modi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg",
+  "id": "r-constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+  "articleId": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches"
+ }
+]

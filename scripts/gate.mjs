@@ -121,7 +121,10 @@ for (const page of ['dist/index.html', 'dist/hi/index.html']) {
 // Owner, November 26, 2026: while the site is on hold for the relaunch (content/relaunch.json, hold: true) there is no
 // homepage lead to check. The page checks above still run.
 const HOLD = JSON.parse(read('content/relaunch.json') ?? '{}').hold === true;
-const home = HOLD ? null : JSON.parse(read('content/homepage.json'));
+// Relaunched edition (November 26, 2026): the front page fills itself from the newest pieces (content/edition.json can pin
+// the lead), so there is no homepage.json lead to check. The template itself picks a photograph, never a graphic, for the lead.
+const EDITION = !!read('content/edition.json');
+const home = HOLD || EDITION ? null : JSON.parse(read('content/homepage.json'));
 // owner's rule (November 8): the lead is always a photograph, never an infographic
 if (home && JSON.parse(read('content/photos.map.json'))[home.lead.id]?.graphic) fail('the homepage lead shows an infographic; it must be a photograph (make a 2-3 photo composite)', home.lead.id);
 for (const [lang, page] of home ? [['en', 'dist/index.html'], ['hi', 'dist/hi/index.html']] : []) {

@@ -38,19 +38,20 @@ const p = prefix(lang);
 const S = SECTION_NAMES[lang];
 const enPath = lang === 'en' ? path : altPath;
 const hiPath = lang === 'hi' ? path : altPath;
-const fullTitle = path === `${p}/` ? (lang === 'hi' ? 'गांधी न्यूज़ (Gandhi News): भारत और दुनिया की ख़बरें, हिंदी और अंग्रेज़ी में' : 'Gandhi News: India and world news in English and Hindi') : (tabTitle && `${tabTitle} | ${t.siteName}`.length > 70 ? tabTitle : `${tabTitle ?? title} | ${t.siteName}`);
+const fullTitle = path === `${p}/` ? (lang === 'hi' ? 'गांधी न्यूज़ (Gandhi News): राजनीति, कानून, नीति और अर्थव्यवस्था, हिंदी और अंग्रेज़ी में' : 'Gandhi News: Indian politics, law, policy and economy, explained') : (tabTitle && `${tabTitle} | ${t.siteName}`.length > 70 ? tabTitle : `${tabTitle ?? title} | ${t.siteName}`);
 const ogImage = image?.url ?? abs('/og-default.png');
 
 const EN_TRY = ['CJP protest', 'Repo rate', 'SIR electoral rolls', 'GST Council', 'Labour codes'];
 const HI_TRY = ['सीजेपी प्रदर्शन', 'रेपो रेट', 'एसआईआर', 'जीएसटी परिषद', 'श्रम संहिताएं'];
 const nav = [
-  ...['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
+  ...['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
+];
+const formats = [
+  { key: 'explained', label: t.explained, href: `${p}/explained/` },
+  { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },
+  { key: 'opinion', label: t.opinion, href: `${p}/opinion/` },
 ];
 const more = [
-  { key: 'elections', label: lang === 'hi' ? 'चुनाव 2027' : 'Elections 2027', href: `${p}/elections/` },
-  { key: 'explained', label: t.explained, href: `${p}/explained/` },
-  { key: 'opinion', label: t.opinion, href: `${p}/opinion/` },
-  { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },
   { key: 'trackers', label: t.dataTrackers, href: `${p}/trackers/` },
   { key: 'topics', label: t.topics, href: `${p}/topics/` },
 ];
@@ -69,7 +70,7 @@ const trust = [
 const tabs = [
   { icon: 'house', label: t.tabHome, href: `${p}/`, on: path === `${p}/` },
   { icon: 'clock', label: t.tabLatest, href: `${p}/latest/`, on: path === `${p}/latest/` },
-  { icon: 'trophy', label: S.sports, href: `${p}/sports/`, on: path.startsWith(`${p}/sports/`) },
+  { icon: 'question', label: t.explained, href: `${p}/explained/`, on: path.startsWith(`${p}/explained/`) },
   { icon: 'bookmark-simple', label: t.tabSaved, href: `${p}/saved/`, on: path === `${p}/saved/` },
   { icon: 'magnifying-glass', label: t.tabSearch, href: `${p}/search/`, on: path === `${p}/search/` },
 ];
@@ -220,7 +221,7 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
       <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
     </div>
     {!RELAUNCH && <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
-      {nav.map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
+      {[...nav, ...formats].map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
       <details class={moreActive ? 'on' : undefined}>
         <summary>{t.more} <Icon name="caret-down" /></summary>
         <div class="dd">
@@ -231,10 +232,11 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
   </header>
   {!RELAUNCH && <nav class="mnav" aria-label={lang === 'hi' ? 'सेक्शन' : 'Sections'}>
     <ul class="w">
-      {[...nav, ...more].map((n) => <li><a href={n.href} class={active === n.key ? 'on' : undefined}>{n.label}</a></li>)}
+      {[...nav, ...formats, ...more].map((n) => <li><a href={n.href} class={active === n.key ? 'on' : undefined}>{n.label}</a></li>)}
     </ul>
   </nav>}
-  {!RELAUNCH && <div class="tstrip">
+  {/* Relaunched edition (November 26, 2026): no running-stories and markets strip; it went stale between runs. */}
+  {false && <div class="tstrip">
     <div class="w">
       <div class="tt">
         {trending.map((x: any, i: number) => <a href={x.href} class={i === 0 ? 'hot' : undefined}>{x.label}</a>)}
@@ -265,11 +267,11 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
       </div>}
       <div class="g">
         <div><a class="fwm" href={`${p}/`} aria-label={t.siteName}><Wordmark /></a><p class="named">{t.named}</p></div>
-        {!RELAUNCH && <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
-        <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>}
+        {!RELAUNCH && <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
+        <div><h2 class="fh">{t.features}</h2><ul>{[...formats, ...more].map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>}
         <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
         {/* Link YouTube once the channel exists. */}
-        {!RELAUNCH && <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li></ul></div>}
+        {!RELAUNCH && <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li><li><a href="https://x.com/gandhinewshq" rel="noopener" target="_blank">X</a></li><li><a href="https://www.linkedin.com/company/gandhinewshq/" rel="noopener" target="_blank">LinkedIn</a></li><li><a href="https://www.instagram.com/gandhinewshq/" rel="noopener" target="_blank">Instagram</a></li><li><a href="https://www.facebook.com/gandhinewshq" rel="noopener" target="_blank">Facebook</a></li></ul></div>}
       </div>
       <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a>{!RELAUNCH && <> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></>}</span></div>
     </div>

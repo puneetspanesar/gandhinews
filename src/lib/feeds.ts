@@ -4,7 +4,7 @@ import { UI, SECTION_NAMES, type Lang } from './i18n';
 import { shareImage } from './seo';
 
 /** Feed channels: the whole site, each news section and each format hub (for Google News sections). */
-export const FEED_KEYS = ['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament', 'explained', 'fact-check', 'opinion'] as const;
+export const FEED_KEYS = ['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world', 'explained', 'fact-check', 'opinion'] as const;
 const FORMAT_TYPE: Record<string, string> = { explained: 'explainer', 'fact-check': 'factcheck', opinion: 'editorial' };
 
 function label(lang: Lang, key: string) {

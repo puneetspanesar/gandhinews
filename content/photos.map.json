@@ -1,1 +1,3187 @@
-{}
+{
+ "fiscal-deficit-explained": {
+  "id": "x-fiscal-deficit-explained",
+  "src": "/photos/x-fiscal-deficit-explained-1280.jpg",
+  "src800": "/photos/x-fiscal-deficit-explained-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: Reserve Bank of India / Kshitij Gupta / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "North Block, home of the Ministry of Finance, in New Delhi",
+  "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, जहां वित्त मंत्रालय है",
+  "page": "https://commons.wikimedia.org/wiki/File:One_Rupee_Indian_coins.JPG",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "fcra-explained-2026-amendment-bill": {
+  "id": "x-fcra-explained-2026-amendment-bill",
+  "src": "/photos/x-fcra-explained-2026-amendment-bill-1280.jpg",
+  "src800": "/photos/x-fcra-explained-2026-amendment-bill-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: Devopam / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, which houses the Ministry of Home Affairs, in New Delhi",
+  "alt_hi": "नई दिल्ली का नॉर्थ ब्लॉक, जहां गृह मंत्रालय है",
+  "page": "https://commons.wikimedia.org/wiki/File:EVidyaloka_Rubaru_2018-1.jpg"
+ },
+ "parliament-that-sits-but-does-not-debate": {
+  "id": "x-parliament-that-sits-but-does-not-debate",
+  "src": "/photos/x-parliament-that-sits-but-does-not-debate-1280.jpg",
+  "src800": "/photos/x-parliament-that-sits-but-does-not-debate-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: A R Datt / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Parliament House in New Delhi",
+  "alt_hi": "नई दिल्ली में संसद भवन",
+  "page": "https://commons.wikimedia.org/wiki/File:Members_of_first_lok_sabha.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "how-a-bill-becomes-law-in-india": {
+  "id": "x-how-a-bill-becomes-law-in-india",
+  "src": "/photos/x-how-a-bill-becomes-law-in-india-1280.jpg",
+  "src800": "/photos/x-how-a-bill-becomes-law-in-india-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: कृष्ण कान्त शर्मा / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Members in the Lok Sabha chamber, New Delhi",
+  "alt_hi": "नई दिल्ली में लोकसभा कक्ष में सदस्य",
+  "page": "https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan_Museum_7.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "anti-defection-law-explained": {
+  "id": "x-anti-defection-law-explained",
+  "src": "/photos/x-anti-defection-law-explained-1280.jpg",
+  "src800": "/photos/x-anti-defection-law-explained-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Al Jazeera English / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The Speaker's chair in the Lok Sabha",
+  "alt_hi": "लोकसभा में अध्यक्ष की कुर्सी",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_National_congress_party_rally_-_Flickr_-_Al_Jazeera_English.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "how-rajya-sabha-elections-work": {
+  "id": "x-how-rajya-sabha-elections-work",
+  "src": "/photos/x-how-rajya-sabha-elections-work-1280.jpg",
+  "src800": "/photos/x-how-rajya-sabha-elections-work-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: IM3847 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Rajya Sabha chamber in Parliament House",
+  "alt_hi": "संसद भवन में राज्यसभा कक्ष",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Parliament_Bhavan.jpg"
+ },
+ "parliamentary-committees-jpc-standing-select-explained": {
+  "id": "x-parliamentary-committees-jpc-standing-select-explained",
+  "src": "/photos/x-parliamentary-committees-jpc-standing-select-explained-1280.jpg",
+  "src800": "/photos/x-parliamentary-committees-jpc-standing-select-explained-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Reply.rajrewal / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A committee room in Parliament House, New Delhi",
+  "alt_hi": "नई दिल्ली में संसद भवन का एक समिति कक्ष",
+  "page": "https://commons.wikimedia.org/wiki/File:Library_for_Indian_Parliament.jpg"
+ },
+ "delimitation-explained-why-131st-amendment-failed": {
+  "id": "x-delimitation-explained-why-131st-amendment-failed",
+  "src": "/photos/x-delimitation-explained-why-131st-amendment-failed-1280.jpg",
+  "src800": "/photos/x-delimitation-explained-why-131st-amendment-failed-640.jpg",
+  "width": 1280,
+  "height": 1186,
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Members in the Lok Sabha chamber of India's new Parliament building",
+  "alt_hi": "भारत के नए संसद भवन के लोकसभा कक्ष में सदस्य",
+  "page": "https://commons.wikimedia.org/wiki/File:India_and_adjacent_countries,_1917.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "delimitation": {
+  "id": "x-delimitation",
+  "src": "/photos/x-delimitation-1280.jpg",
+  "src800": "/photos/x-delimitation-640.jpg",
+  "width": 1280,
+  "height": 1155,
+  "credit": "Photo: Survey of India / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "The Lok Sabha chamber in the new Parliament building",
+  "alt_hi": "नए संसद भवन में लोकसभा का सदन",
+  "page": "https://commons.wikimedia.org/wiki/File:1947_India_showing_Provinces,_States_and_Districts_by_Survey_of_India_(cropped).jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "bills-in-parliament-tracker": {
+  "id": "x-bills-in-parliament-tracker",
+  "src": "/photos/x-bills-in-parliament-tracker-1280.jpg",
+  "src800": "/photos/x-bills-in-parliament-tracker-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Bill Strong from Melbourne, Australia / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The new Parliament House building in New Delhi",
+  "alt_hi": "नई दिल्ली में नया संसद भवन",
+  "page": "https://commons.wikimedia.org/wiki/File:SansadBhavan.jpg"
+ },
+ "parliament": {
+  "id": "new-parliament",
+  "src": "/photos/new-parliament-1280.jpg",
+  "src800": "/photos/new-parliament-640.jpg",
+  "width": 1280,
+  "height": 633,
+  "credit": "Photo: Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "The new Parliament building in New Delhi (architectural view)",
+  "alt_hi": "नई दिल्ली में नया संसद भवन (वास्तु चित्र)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Parliament_Building.jpg"
+ },
+ "special-intensive-revision-how-to-check-your-name": {
+  "id": "finger-ink",
+  "src": "/photos/finger-ink-1280.jpg",
+  "src800": "/photos/finger-ink-640.jpg",
+  "width": 1280,
+  "height": 1346,
+  "credit": "Photo: Fotokannan / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Indelible ink on a voter's index finger after voting",
+  "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही",
+  "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg"
+ },
+ "electoral-rolls-sir": {
+  "id": "x-electoral-rolls-sir",
+  "src": "/photos/x-electoral-rolls-sir-1280.jpg",
+  "src800": "/photos/x-electoral-rolls-sir-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Nilanjan Chowdhury of Al Jazeera English / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A booth level officer carrying enumeration forms during the Special Intensive Revision",
+  "alt_hi": "विशेष गहन पुनरीक्षण के दौरान गणना फॉर्म लिए एक बूथ स्तर अधिकारी",
+  "page": "https://commons.wikimedia.org/wiki/File:Voter_registration_-_Flickr_-_Al_Jazeera_English.jpg"
+ },
+ "election-commission-should-publish-its-dissent": {
+  "id": "x-election-commission-should-publish-its-dissent",
+  "src": "/photos/x-election-commission-should-publish-its-dissent-1280.jpg",
+  "src800": "/photos/x-election-commission-should-publish-its-dissent-640.jpg",
+  "width": 1280,
+  "height": 604,
+  "credit": "Photo: Kottakkalnet / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Election Commission of India's headquarters, Nirvachan Sadan, in New Delhi",
+  "alt_hi": "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन",
+  "page": "https://commons.wikimedia.org/wiki/File:Election_commission_of_india_voter_helpline_1950.jpg",
+  "notile": "caption does not match the picture"
+ },
+ "election-commission": {
+  "id": "x-election-commission",
+  "src": "/photos/x-election-commission-1280.jpg",
+  "src800": "/photos/x-election-commission-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Shagil Kannur / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Nirvachan Sadan, the Election Commission of India's headquarters in New Delhi",
+  "alt_hi": "नई दिल्ली में भारत के चुनाव आयोग का मुख्यालय, निर्वाचन सदन",
+  "page": "https://commons.wikimedia.org/wiki/File:Contr_Unit_of_Electronic_Voting_Machine.jpg"
+ },
+ "how-chief-election-commissioner-is-appointed-removed": {
+  "id": "x-how-chief-election-commissioner-is-appointed-removed",
+  "src": "/photos/x-how-chief-election-commissioner-is-appointed-removed-1280.jpg",
+  "src800": "/photos/x-how-chief-election-commissioner-is-appointed-removed-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "credit": "Photo: Al Jazeera English / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Nirvachan Sadan, the Election Commission of India's headquarters",
+  "alt_hi": "निर्वाचन सदन, भारत निर्वाचन आयोग का मुख्यालय",
+  "page": "https://commons.wikimedia.org/wiki/File:Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "election-calendar": {
+  "id": "evm",
+  "src": "/photos/evm-1280.jpg",
+  "src800": "/photos/evm-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: Shagil Kannur / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Control unit of an electronic voting machine",
+  "alt_hi": "इलेक्ट्रॉनिक वोटिंग मशीन की कंट्रोल यूनिट",
+  "page": "https://commons.wikimedia.org/wiki/File:Contr_Unit_of_Electronic_Voting_Machine_2.jpg"
+ },
+ "elections-2027": {
+  "id": "x-elections-2027",
+  "src": "/photos/x-elections-2027-1280.jpg",
+  "src800": "/photos/x-elections-2027-640.jpg",
+  "width": 805,
+  "height": 604,
+  "credit": "Photo: Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Voters queue at a polling station in Delhi in 1952",
+  "alt_hi": "1952 में दिल्ली के एक मतदान केंद्र पर कतार में मतदाता",
+  "page": "https://commons.wikimedia.org/wiki/File:A_large_queue_of_Muslim_voters_at_a_polling_station_near_Jama_Masjid,_Delhi_on_14_January_1952.jpg"
+ },
+ "one-nation-one-election-bills-explained": {
+  "id": "vvpat",
+  "src": "/photos/vvpat-1280.jpg",
+  "src800": "/photos/vvpat-640.jpg",
+  "width": 1280,
+  "height": 964,
+  "credit": "Photo: Gpkp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A VVPAT machine on display in Bengaluru",
+  "alt_hi": "बेंगलुरु में प्रदर्शित एक वीवीपैट मशीन",
+  "page": "https://commons.wikimedia.org/wiki/File:Science_Gallery_Bengaluru_(2025)_79.jpg"
+ },
+ "sc-cases-tracker": {
+  "id": "supreme-court",
+  "src": "/photos/supreme-court-1280.jpg",
+  "src800": "/photos/supreme-court-640.jpg",
+  "width": 1280,
+  "height": 797,
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+ },
+ "how-india-measures-inflation-new-cpi-series": {
+  "id": "veg-ahmedabad",
+  "src": "/photos/veg-ahmedabad-1280.jpg",
+  "src800": "/photos/veg-ahmedabad-640.jpg",
+  "width": 1280,
+  "height": 779,
+  "credit": "Photo: Bernard Gagnon / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Vegetable sellers at a market in Ahmedabad",
+  "alt_hi": "अहमदाबाद के एक बाज़ार में सब्ज़ी विक्रेता",
+  "page": "https://commons.wikimedia.org/wiki/File:Vegetable_market,_Ahmedabad.jpg"
+ },
+ "msp-explained-how-set-who-benefits": {
+  "id": "x-msp-explained-how-set-who-benefits",
+  "src": "/photos/x-msp-explained-how-set-who-benefits-1280.jpg",
+  "src800": "/photos/x-msp-explained-how-set-who-benefits-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Chparveshtaak / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Sacks of grain at a mandi in Punjab",
+  "alt_hi": "पंजाब की एक मंडी में अनाज की बोरियां",
+  "page": "https://commons.wikimedia.org/wiki/File:Golden_fields,_bustling_harvest_03.jpg"
+ },
+ "four-labour-codes-explained-workers-employers": {
+  "id": "tailoring-unit",
+  "src": "/photos/tailoring-unit-1280.jpg",
+  "src800": "/photos/tailoring-unit-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: urbzoo / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Tailors at work in Karawal Nagar, Delhi",
+  "alt_hi": "दिल्ली के करावल नगर में काम करते दर्ज़ी",
+  "page": "https://commons.wikimedia.org/wiki/File:Karawal_Nagar,_Delhi_20160413_(26435407410).jpg"
+ },
+ "labour-codes-centre-states-owe-workers-deadline": {
+  "id": "construction-howrah",
+  "src": "/photos/construction-howrah-1280.jpg",
+  "src800": "/photos/construction-howrah-640.jpg",
+  "width": 1280,
+  "height": 851,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Construction work in Howrah, West Bengal",
+  "alt_hi": "पश्चिम बंगाल के हावड़ा में निर्माण कार्य",
+  "page": "https://commons.wikimedia.org/wiki/File:Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG"
+ },
+ "how-gdp-is-measured-new-base-year": {
+  "id": "metro-kolkata",
+  "src": "/photos/metro-kolkata-1280.jpg",
+  "src800": "/photos/metro-kolkata-640.jpg",
+  "width": 1280,
+  "height": 850,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Metro rail under construction in Kolkata",
+  "alt_hi": "कोलकाता में निर्माणाधीन मेट्रो रेल",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Garia-Dum_Dum_Airport_Metro_Rail_Under_Construction_-_Salt_Lake_Bypass_-_Kolkata_2013-11-28_0883.JPG"
+ },
+ "kejriwal-e20-trump-pressure-ethanol-claim": {
+  "id": "petrol-pump",
+  "src": "/photos/petrol-pump-1280.jpg",
+  "src800": "/photos/petrol-pump-640.jpg",
+  "width": 1280,
+  "height": 715,
+  "credit": "Photo: Chanduclicks / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A petrol pump in Telangana",
+  "alt_hi": "तेलंगाना में एक पेट्रोल पंप",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Petrol_Pump_at_Addakal.jpg"
+ },
+ "your-rights-under-dpdp-act": {
+  "id": "x-your-rights-under-dpdp-act",
+  "src": "/photos/x-your-rights-under-dpdp-act-1280.jpg",
+  "src800": "/photos/x-your-rights-under-dpdp-act-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Suyash.dwivedi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A person reading a consent notice on a phone",
+  "alt_hi": "फोन पर सहमति नोटिस पढ़ता एक व्यक्ति",
+  "page": "https://commons.wikimedia.org/wiki/File:Aadhaar_Seva_Kendra,_Bhopal.jpg",
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "appoint-data-protection-board-before-rules-bite": {
+  "id": "x-appoint-data-protection-board-before-rules-bite",
+  "src": "/photos/x-appoint-data-protection-board-before-rules-bite-1280.jpg",
+  "src800": "/photos/x-appoint-data-protection-board-before-rules-bite-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Esquilo / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A person using a smartphone",
+  "alt_hi": "स्मार्टफोन इस्तेमाल करता एक व्यक्ति",
+  "page": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+ },
+ "repo-rate-and-your-emi-explained": {
+  "id": "sbi-branch",
+  "src": "/photos/sbi-branch-1280.jpg",
+  "src800": "/photos/sbi-branch-640.jpg",
+  "width": 1280,
+  "height": 824,
+  "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A State Bank of India branch in Mansa district, Punjab",
+  "alt_hi": "पंजाब के मानसा ज़िले में भारतीय स्टेट बैंक की एक शाखा",
+  "page": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Jhunir_branch.jpg"
+ },
+ "gst-explained-slabs-council-revenue-sharing": {
+  "id": "kolkata-market",
+  "src": "/photos/kolkata-market-1280.jpg",
+  "src800": "/photos/kolkata-market-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: P.K.Niyogi / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Shops along Chandni Chowk Street, Kolkata",
+  "alt_hi": "कोलकाता की चांदनी चौक स्ट्रीट पर दुकानें",
+  "page": "https://commons.wikimedia.org/wiki/File:Kolkata_Dharmatala1.jpg"
+ },
+ "census-2027-what-will-be-asked-caste": {
+  "id": "x-census-2027-what-will-be-asked-caste",
+  "src": "/photos/x-census-2027-what-will-be-asked-caste-1280.jpg",
+  "src800": "/photos/x-census-2027-what-will-be-asked-caste-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: தகவலுழவன் / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A census enumerator entering details on a phone at a home",
+  "alt_hi": "एक घर पर फोन में ब्योरा दर्ज करता जनगणना प्रगणक",
+  "page": "https://commons.wikimedia.org/wiki/File:Census,_TamilNadu-219_(year-2011).jpg"
+ },
+ "census-2027": {
+  "id": "x-census-2027",
+  "src": "/photos/x-census-2027-1280.jpg",
+  "src800": "/photos/x-census-2027-640.jpg",
+  "width": 1280,
+  "height": 683,
+  "credit": "Photo: Aliva Sahoo / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A census enumerator at a family's home",
+  "alt_hi": "एक परिवार के घर पर जनगणना कर्मी",
+  "page": "https://commons.wikimedia.org/wiki/File:Traditional_Mati_Chulha_Kitchen_Scene.jpg"
+ },
+ "publish-caste-census-in-full-on-time": {
+  "id": "x-publish-caste-census-in-full-on-time",
+  "src": "/photos/x-publish-caste-census-in-full-on-time-1280.jpg",
+  "src800": "/photos/x-publish-caste-census-in-full-on-time-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Shrinivaskulkarni1388 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A census enumerator speaking to a family at their home",
+  "alt_hi": "घर पर एक परिवार से बात करता जनगणना कर्मी",
+  "page": "https://commons.wikimedia.org/wiki/File:Peoples_from_indian_village_26.jpg"
+ },
+ "section-163-bnss-prohibitory-orders-explained": {
+  "id": "v-section-163-bnss-prohibitory-orders-explained",
+  "src": "/photos/v-section-163-bnss-prohibitory-orders-explained-1280.jpg",
+  "src800": "/photos/v-section-163-bnss-prohibitory-orders-explained-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Delhi Police barricades at a protest",
+  "alt_hi": "एक प्रदर्शन में दिल्ली पुलिस के बैरिकेड",
+  "page": null
+ },
+ "wpi-vs-cpi-explained-wholesale-retail-inflation": {
+  "id": "v-wpi-vs-cpi-explained-wholesale-retail-inflation",
+  "src": "/photos/v-wpi-vs-cpi-explained-wholesale-retail-inflation-1280.jpg",
+  "src800": "/photos/v-wpi-vs-cpi-explained-wholesale-retail-inflation-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Prateek Rungta from Delhi, India / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Azadpur wholesale market, Delhi",
+  "alt_hi": "आज़ादपुर थोक मंडी, दिल्ली",
+  "page": null
+ },
+ "how-uttar-pradesh-voted-2022-what-it-takes-to-win": {
+  "id": "v-how-uttar-pradesh-voted-2022-what-it-takes-to-win",
+  "src": "/photos/v-how-uttar-pradesh-voted-2022-what-it-takes-to-win-1280.jpg",
+  "src800": "/photos/v-how-uttar-pradesh-voted-2022-what-it-takes-to-win-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Shoonyea / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "UP Vidhan Bhavan, Lucknow",
+  "alt_hi": "उत्तर प्रदेश विधान भवन, लखनऊ",
+  "page": null
+ },
+ "why-stubble-fires-rise-in-october-explained": {
+  "id": "v-why-stubble-fires-rise-in-october-explained",
+  "src": "/photos/v-why-stubble-fires-rise-in-october-explained-1280.jpg",
+  "src800": "/photos/v-why-stubble-fires-rise-in-october-explained-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Stubble burning in a Punjab field",
+  "alt_hi": "पंजाब के एक खेत में जलती पराली",
+  "page": null,
+  "notile": "caption does not match the picture, shows people, or repeats another tile"
+ },
+ "police-detention-powers-bnss-explained": {
+  "id": "v-police-detention-powers-bnss-explained",
+  "src": "/photos/v-police-detention-powers-bnss-explained-1280.jpg",
+  "src800": "/photos/v-police-detention-powers-bnss-explained-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Arjuncm3 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Delhi Police headquarters building on Jai Singh Marg in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में जय सिंह मार्ग पर दिल्ली पुलिस मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "global-hunger-index-explained-india-score": {
+  "id": "v-global-hunger-index-explained-india-score",
+  "src": "/photos/v-global-hunger-index-explained-india-score-1280.jpg",
+  "src800": "/photos/v-global-hunger-index-explained-india-score-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Children at an anganwadi centre in India (file photo)",
+  "alt_hi": "भारत के एक आंगनवाड़ी केंद्र में बच्चे (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "infant-food-sugar-ban-should-cover-all-baby-foods": {
+  "id": "v-infant-food-sugar-ban-should-cover-all-baby-foods",
+  "src": "/photos/v-infant-food-sugar-ban-should-cover-all-baby-foods-1280.jpg",
+  "src800": "/photos/v-infant-food-sugar-ban-should-cover-all-baby-foods-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sputniktilt / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Nestle headquarters building in Vevey, Switzerland (file photo)",
+  "alt_hi": "स्विट्ज़रलैंड के वेवे में नेस्ले मुख्यालय की इमारत (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "article-371k-ladakh-explained-sixth-schedule": {
+  "id": "v-article-371k-ladakh-explained-sixth-schedule",
+  "src": "/photos/v-article-371k-ladakh-explained-sixth-schedule-1280.jpg",
+  "src800": "/photos/v-article-371k-ladakh-explained-sixth-schedule-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Yann Forget, correction by Trougnouf / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Shanti Stupa overlooking Leh, Ladakh (file photo)",
+  "alt_hi": "लेह के ऊपर शांति स्तूप, लद्दाख (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "childrens-right-to-internet-supreme-court-ruling-explained": {
+  "id": "v-childrens-right-to-internet-supreme-court-ruling-explained",
+  "src": "/photos/v-childrens-right-to-internet-supreme-court-ruling-explained-1280.jpg",
+  "src800": "/photos/v-childrens-right-to-internet-supreme-court-ruling-explained-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: anutoshkvsgr / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "The National Council of Educational Research and Training (NCERT) in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद (एनसीईआरटी) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "who-owns-trinamool-election-commission-symbol-dispute-explained": {
+  "id": "v-who-owns-trinamool-election-commission-symbol-dispute-explai",
+  "src": "/photos/v-who-owns-trinamool-election-commission-symbol-dispute-explai-1280.jpg",
+  "src800": "/photos/v-who-owns-trinamool-election-commission-symbol-dispute-explai-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photos: Chatgpt / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons",
+  "licence": "Public domain, CC BY 3.0",
+  "alt": "Ritabrata Banerjee and Mamata Banerjee (file photos)",
+  "alt_hi": "ऋतब्रत बनर्जी और ममता बनर्जी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "delhi-air-needs-year-round-plan-not-grap-reflex": {
+  "id": "v-delhi-air-needs-year-round-plan-not-grap-reflex",
+  "src": "/photos/v-delhi-air-needs-year-round-plan-not-grap-reflex-1280.jpg",
+  "src800": "/photos/v-delhi-air-needs-year-round-plan-not-grap-reflex-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Virusism / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Qutub Minar in Delhi in hazy air (file photo)",
+  "alt_hi": "धुंधली हवा में दिल्ली का कुतुब मीनार (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "grap-explained-delhi-air-stages-what-is-banned": {
+  "id": "v-grap-explained-delhi-air-stages-what-is-banned",
+  "src": "/photos/v-grap-explained-delhi-air-stages-what-is-banned-1280.jpg",
+  "src800": "/photos/v-grap-explained-delhi-air-stages-what-is-banned-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Smog hangs over the Delhi skyline (file photo)",
+  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "indus-waters-treaty-explained-shehbaz-act-of-war": {
+  "id": "v-indus-waters-treaty-explained-shehbaz-act-of-war",
+  "src": "/photos/v-indus-waters-treaty-explained-shehbaz-act-of-war-1280.jpg",
+  "src800": "/photos/v-indus-waters-treaty-explained-shehbaz-act-of-war-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Gtsenthilnath / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "The Baglihar Dam on the Chenab river in Jammu and Kashmir (file photo)",
+  "alt_hi": "जम्मू-कश्मीर में चिनाब नदी पर बगलिहार बांध (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms": {
+  "id": "v-depression-cyclone-explained-how-imd-grades-bay-of-bengal-st",
+  "src": "/photos/v-depression-cyclone-explained-how-imd-grades-bay-of-bengal-st-1280.jpg",
+  "src800": "/photos/v-depression-cyclone-explained-how-imd-grades-bay-of-bengal-st-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Universalashic / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Signboard of the India Meteorological Department (file photo)",
+  "alt_hi": "भारत मौसम विज्ञान विभाग का बोर्ड (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "no-first-use-explained-india-nuclear-doctrine-un-offer": {
+  "id": "v-no-first-use-explained-india-nuclear-doctrine-un-offer",
+  "src": "/photos/v-no-first-use-explained-india-nuclear-doctrine-un-offer-1280.jpg",
+  "src800": "/photos/v-no-first-use-explained-india-nuclear-doctrine-un-offer-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Deccan Herald / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Former Prime Minister Atal Bihari Vajpayee (file photo)",
+  "alt_hi": "पूर्व प्रधानमंत्री अटल बिहारी वाजपेयी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "farmer-id-explained-digital-agriculture-mission": {
+  "id": "v-farmer-id-explained-digital-agriculture-mission",
+  "src": "/photos/v-farmer-id-explained-digital-agriculture-mission-1280.jpg",
+  "src800": "/photos/v-farmer-id-explained-digital-agriculture-mission-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Anil Kaushik / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Krishi Bhawan in New Delhi, which houses the Ministry of Agriculture and Farmers Welfare (file photo)",
+  "alt_hi": "नई दिल्ली में कृषि भवन, जहां कृषि एवं किसान कल्याण मंत्रालय है (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "siang-dam-explained-what-sump-is-why-adi-protest": {
+  "id": "v-siang-dam-explained-what-sump-is-why-adi-protest",
+  "src": "/photos/v-siang-dam-explained-what-sump-is-why-adi-protest-1280.jpg",
+  "src800": "/photos/v-siang-dam-explained-what-sump-is-why-adi-protest-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: ঈশান জ্যোতি বৰা / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Siang river flowing through the hills of Upper Siang district, Arunachal Pradesh (file photo)",
+  "alt_hi": "अरुणाचल प्रदेश के अपर सियांग जिले की पहाड़ियों से बहती सियांग नदी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "bs-iv-ban-explained-bharat-stage-norms-delhi-curbs": {
+  "id": "v-bs-iv-ban-explained-bharat-stage-norms-delhi-curbs",
+  "src": "/photos/v-bs-iv-ban-explained-bharat-stage-norms-delhi-curbs-1280.jpg",
+  "src800": "/photos/v-bs-iv-ban-explained-bharat-stage-norms-delhi-curbs-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Aerial view of the Delhi-Gurgaon Expressway (file photo)",
+  "alt_hi": "दिल्ली-गुड़गांव एक्सप्रेसवे का हवाई दृश्य (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "special-session-of-parliament-explained-shah-offer-cec-removal": {
+  "id": "v-special-session-of-parliament-explained-shah-offer-cec-remov",
+  "src": "/photos/v-special-session-of-parliament-explained-shah-offer-cec-remov-1280.jpg",
+  "src800": "/photos/v-special-session-of-parliament-explained-shah-offer-cec-remov-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Parliament House in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में संसद भवन (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "commercial-vs-domestic-lpg-price-explained-saudi-cp": {
+  "id": "v-commercial-vs-domestic-lpg-price-explained-saudi-cp",
+  "src": "/photos/v-commercial-vs-domestic-lpg-price-explained-saudi-cp-1280.jpg",
+  "src800": "/photos/v-commercial-vs-domestic-lpg-price-explained-saudi-cp-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sripathroy / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Eateries in Paranthe Wali Gali, Old Delhi (file photo)",
+  "alt_hi": "पुरानी दिल्ली की परांठे वाली गली में खाने की दुकानें (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "oral-mentioning-explained-supreme-court-senior-counsel-bar": {
+  "id": "v-oral-mentioning-explained-supreme-court-senior-counsel-bar",
+  "src": "/photos/v-oral-mentioning-explained-supreme-court-senior-counsel-bar-1280.jpg",
+  "src800": "/photos/v-oral-mentioning-explained-supreme-court-senior-counsel-bar-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Karan.jr.Singh / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The Nyay Devi statue of justice in the Supreme Court of India's judges' library (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के न्यायाधीशों के पुस्तकालय में न्याय देवी की प्रतिमा (फ़ाइल फ़ोटो)",
+  "page": null,
+  "treated": {
+   "src": "/photos/t-oral-mentioning-explained-supreme-court-senior-counsel-bar-1280.jpg",
+   "src800": "/photos/t-oral-mentioning-explained-supreme-court-senior-counsel-bar-640.jpg",
+   "cutout": false,
+   "with": [
+    "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
+    "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board--p2",
+    "karnataka-high-court-stays-probe-ravi-patil-sir-voter-deletion",
+    "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears--p1"
+   ],
+   "kind": "scenes",
+   "subj": "1f1f0f0c00000000",
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Yoga Balaji / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Ishita Gupta / Wikimedia Commons"
+  }
+ },
+ "two-child-norm-explained-javed-ruling-larger-bench": {
+  "id": "v-two-child-norm-explained-javed-ruling-larger-bench",
+  "src": "/photos/v-two-child-norm-explained-javed-ruling-larger-bench-1280.jpg",
+  "src800": "/photos/v-two-child-norm-explained-javed-ruling-larger-bench-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court": {
+  "id": "v-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour",
+  "src": "/photos/v-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour-1280.jpg",
+  "src800": "/photos/v-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "fast-track-special-courts-explained-rape-pocso-backlog": {
+  "id": "v-fast-track-special-courts-explained-rape-pocso-backlog",
+  "src": "/photos/v-fast-track-special-courts-explained-rape-pocso-backlog-1280.jpg",
+  "src800": "/photos/v-fast-track-special-courts-explained-rape-pocso-backlog-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Ministry of Parliamentary Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Law Minister Arjun Ram Meghwal (file photo)",
+  "alt_hi": "केंद्रीय क़ानून मंत्री अर्जुन राम मेघवाल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro": {
+  "id": "v-energy-storage-vgf-explained-why-india-needs-batteries-pumpe",
+  "src": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries-pumpe-1280.jpg",
+  "src800": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries-pumpe-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Qurren / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Containers of a grid battery storage station (file photo)",
+  "alt_hi": "ग्रिड बैटरी भंडारण केंद्र के कंटेनर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "ugc-equity-regulations-explained-caste-discrimination-campuses": {
+  "id": "v-ugc-equity-regulations-explained-caste-discrimination-campus",
+  "src": "/photos/v-ugc-equity-regulations-explained-caste-discrimination-campus-1280.jpg",
+  "src800": "/photos/v-ugc-equity-regulations-explained-caste-discrimination-campus-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Mohammad Anees Qamar / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The University of Hyderabad, where Rohith Vemula was a research scholar (file photo)",
+  "alt_hi": "हैदराबाद विश्वविद्यालय, जहां रोहित वेमुला शोध छात्र थे (फ़ाइल फ़ोटो)",
+  "page": null,
+  "treated": {
+   "src": "/photos/t-ugc-equity-regulations-explained-caste-discrimination-campus-1280.jpg",
+   "src800": "/photos/t-ugc-equity-regulations-explained-caste-discrimination-campus-640.jpg",
+   "cutout": false,
+   "with": [
+    "census-2027-what-will-be-asked-caste",
+    "supreme-court-ram-temple-trust-funds-probe-hearing-today--in",
+    "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16--p2",
+    "global-hunger-index-2026-india-serious-south-asia"
+   ],
+   "kind": "scenes",
+   "subj": "e781c3a783b3b3b3",
+   "credit": "Photos: தகவலுழவன் / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Mulkh Singh / Wikimedia Commons"
+  }
+ },
+ "goa-st-seat-reservation-explained-supreme-court": {
+  "id": "v-goa-st-seat-reservation-explained-supreme-court",
+  "src": "/photos/v-goa-st-seat-reservation-explained-supreme-court-1280.jpg",
+  "src800": "/photos/v-goa-st-seat-reservation-explained-supreme-court-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Fredericknoronha / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Goa Legislative Assembly complex at Porvorim (file photo)",
+  "alt_hi": "पोरवोरिम में गोवा विधानसभा परिसर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell": {
+  "id": "v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+  "src": "/photos/v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-1280.jpg",
+  "src800": "/photos/v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Legaleagle86 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Supreme Court of India, which ordered the Centre to set up the cell (file photo)",
+  "alt_hi": "केंद्र को प्रकोष्ठ बनाने का आदेश देने वाला भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "24-hour-rule-explained-article-22-detention-arrest": {
+  "id": "i-24-hour-rule-explained-article-22-detention-arrest",
+  "src": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-en-3x2-1280.jpg",
+  "src800": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: When the 24-hour clock on arrest begins",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गिरफ्तारी पर 24 घंटे की घड़ी कब शुरू होती है",
+  "page": null,
+  "ihash": "df6ab277b198",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-hi-3x2-1280.jpg",
+    "src800": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-en-t-1280.jpg",
+    "src800": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-hi-t-1280.jpg",
+    "src800": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-en-1280.jpg",
+    "src800": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-hi-1280.jpg",
+    "src800": "/photos/i2-24-hour-rule-explained-article-22-detention-arrest-hi-640.jpg"
+   }
+  }
+ },
+ "rahul-gandhi-voter-id-not-aadhaar-welfare-claim": {
+  "id": "i-rahul-gandhi-voter-id-not-aadhaar-welfare-claim",
+  "src": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: A minister's remark, not a new rule",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मंत्री का बयान, कोई नया नियम नहीं",
+  "page": null,
+  "ihash": "7d8d5d5d1fc6",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-t-1280.jpg",
+    "src800": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-t-1280.jpg",
+    "src800": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-1280.jpg",
+    "src800": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-1280.jpg",
+    "src800": "/photos/i2-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "every usable Rahul Gandhi photo used in 7 days or under 900 px; only free one left is a watermarked crowd shot; library, quick_photo, finder l06e",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-voter-id-not-aadhaar-welfare-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "special-intensive-revision-how-to-check-your-name",
+    "elections-2027",
+    "cec-removal-belongs-in-parliament-call-the-special-session"
+   ],
+   "kind": "portrait",
+   "subj": "e7e3e3e3c0c2c4cc",
+   "credit": "Photos: Original: Indian National Congress. / Wikimedia Commons, CC BY-SA 3.0; Fotokannan / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "suspension-of-sentence-explained-tejpal-supreme-court": {
+  "id": "i-suspension-of-sentence-explained-tejpal-supreme-court",
+  "src": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-en-3x2-1280.jpg",
+  "src800": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Why an appeal does not always mean bail",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अपील का मतलब हमेशा ज़मानत क्यों नहीं",
+  "page": null,
+  "ihash": "cfdb66a2a6e4",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-hi-3x2-1280.jpg",
+    "src800": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-en-t-1280.jpg",
+    "src800": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-hi-t-1280.jpg",
+    "src800": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-en-1280.jpg",
+    "src800": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-hi-1280.jpg",
+    "src800": "/photos/i2-suspension-of-sentence-explained-tejpal-supreme-court-hi-640.jpg"
+   }
+  },
+  "nophoto": "only free Tarun Tejpal photo (Tarun_J_Tejpal_2007.jpg) is used today by tarun-tejpal-supreme-court-refuses-suspend-10-year-sentence (7-day rule); all 8 Supreme Court photos used in 7 days; library, quick_photo, finder l06e"
+ },
+ "obc-creamy-layer-explained-parents-salary-supreme-court": {
+  "id": "o-obc-creamy-layer-explained-parents-salary-supreme-court",
+  "src": "/photos/o-obc-creamy-layer-explained-parents-salary-supreme-court-1280.jpg",
+  "src800": "/photos/o-obc-creamy-layer-explained-parents-salary-supreme-court-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Justice R. Mahadevan of the Supreme Court (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के जस्टिस आर. महादेवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_R._Mahadevan.jpg",
+  "treated": {
+   "src": "/photos/t-obc-creamy-layer-explained-parents-salary-supreme-court-1280.jpg",
+   "src800": "/photos/t-obc-creamy-layer-explained-parents-salary-supreme-court-640.jpg",
+   "cutout": false,
+   "with": [
+    "obc-creamy-layer-explained-parents-salary-supreme-court--p1",
+    "fast-track-special-courts-explained-rape-pocso-backlog--p2",
+    "supreme-court-lawyer-ai-fake-judgments-raheja-omkara"
+   ],
+   "kind": "scenes",
+   "subj": "3f7f7c3e000400c0",
+   "credit": "Photos: Ramesh lalwani / Wikimedia Commons; Vroomtrapit at English Wikipedia / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
+ },
+ "bbmb-power-sharing-explained-himachal-share-supreme-court": {
+  "id": "o-bbmb-power-sharing-explained-himachal-share-supreme-court",
+  "src": "/photos/o-bbmb-power-sharing-explained-himachal-share-supreme-court-1280.jpg",
+  "src800": "/photos/o-bbmb-power-sharing-explained-himachal-share-supreme-court-640.jpg",
+  "width": 1280,
+  "height": 851,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Floodgates of the Pandoh Dam on the Beas in Mandi, part of the BBMB system (file photo)",
+  "alt_hi": "मंडी में ब्यास नदी पर पंडोह बांध के फ्लडगेट, बीबीएमबी व्यवस्था का हिस्सा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Floodgates_-_Pandoh_Dam_across_River_Beas_-_Chandigarh-Manali_Highway_-_NH-21_-_Mandi_2014-05-09_2151.JPG",
+  "treated": {
+   "src": "/photos/t-bbmb-power-sharing-explained-himachal-share-supreme-court-1280.jpg",
+   "src800": "/photos/t-bbmb-power-sharing-explained-himachal-share-supreme-court-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-aqi-214-poor-sunday-morning-ncr-moderate--p1",
+    "eternal-q2-profit-doubles-125-crore-blinkit-3500-stores",
+    "sc-cases-tracker"
+   ],
+   "kind": "photo",
+   "subj": "df80000023fefc",
+   "credit": "Photos: Biswarup Ganguly / Wikimedia Commons; RISHABHNAGPAL20 / Wikimedia Commons; Uttsaav / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
+ },
+ "e20-petrol-explained-ethanol-blend-karnataka-row": {
+  "id": "r-e20-petrol-explained-ethanol-blend-karnataka-row",
+  "src": "/photos/r-e20-petrol-explained-ethanol-blend-karnataka-row-1280.jpg",
+  "src800": "/photos/r-e20-petrol-explained-ethanol-blend-karnataka-row-640.jpg",
+  "width": 1280,
+  "height": 715,
+  "credit": "Photo: Chanduclicks / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A petrol pump in Telangana (file photo)",
+  "alt_hi": "तेलंगाना में एक पेट्रोल पंप (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Petrol_Pump_at_Addakal.jpg",
+  "treated": {
+   "src": "/photos/t-e20-petrol-explained-ethanol-blend-karnataka-row-1280.jpg",
+   "src800": "/photos/t-e20-petrol-explained-ethanol-blend-karnataka-row-640.jpg",
+   "cutout": false,
+   "with": [
+    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1",
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back--p1",
+    "brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver"
+   ],
+   "kind": "photo",
+   "subj": "1f1f3f7fa7010000",
+   "credit": "Photos: Chanduclicks / Wikimedia Commons; SpeakingArch / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Gordon Leggett / Wikimedia Commons"
+  }
+ },
+ "cancer-drug-trade-margin-cap-explained-mrp-from-november-9": {
+  "id": "i-cancer-drug-trade-margin-cap-explained-mrp-from-november-9",
+  "src": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-en-3x2-1280.jpg",
+  "src800": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 30% cap on margins cuts cancer drug MRPs",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 30% की सीमा से कैंसर दवाओं की एमआरपी घटेगी",
+  "page": null,
+  "ihash": "8e8094843fdf",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-hi-3x2-1280.jpg",
+    "src800": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-en-t-1280.jpg",
+    "src800": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-hi-t-1280.jpg",
+    "src800": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-en-1280.jpg",
+    "src800": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-hi-1280.jpg",
+    "src800": "/photos/i2-cancer-drug-trade-margin-cap-explained-mrp-from-november-9-hi-640.jpg"
+   }
+  },
+  "nophoto": "no photo of AIIMS Delhi or a hospital pharmacy; quick_photo none, finder l08m could not run (GitHub Actions job not started: account billing)"
+ },
+ "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim": {
+  "id": "i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+  "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Round numbers, bigger than the record",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गोल संख्याएं, रिकॉर्ड से बड़ी",
+  "page": null,
+  "ihash": "7155a3484418",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-1280.jpg",
+    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free Modi photo unused in 7 days; library, quick_photo, PIB mb, finder h0912 (all candidates used within 7 days)",
+  "treated": {
+   "src": "/photos/t-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-1280.jpg",
+   "src800": "/photos/t-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview"
+   ],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; Theasg sap / Wikimedia Commons"
+  }
+ },
+ "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim": {
+  "id": "i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
+  "src": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Zero in operations is not zero on duty",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ऑपरेशन में शून्य, ड्यूटी पर शून्य नहीं",
+  "page": null,
+  "ihash": "352b22486021",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-en-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-en-1280.jpg",
+    "src800": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-hi-1280.jpg",
+    "src800": "/photos/i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no correct free photo of Narendra Modi usable: library portraits used in last 7 days, quick_photo 0, PIB 0 of 40 releases (l10m), finder l10m2 candidates all blocked by the 7-day rule or under 900 px; only an old smiling studio portrait left, rejected twice by the editor",
+  "treated": {
+   "src": "/photos/t-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-1280.jpg",
+   "src800": "/photos/t-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "18183878fcfdff",
+   "credit": "Photo: Ms Sarah Welch / Wikimedia Commons, CC BY-SA 4.0"
+  }
+ },
+ "delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data": {
+  "id": "i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data",
+  "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Why the index cannot show Diwali night",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सूचकांक दिवाली की रात क्यों नहीं दिखा पाता",
+  "page": null,
+  "ihash": "c43c61e41f1d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-t-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-1280.jpg",
+    "src800": "/photos/i-delhi-aqi-explained-why-index-stops-at-500-diwali-night-missing-data-hi-640.jpg"
+   }
+  },
+  "nophoto": "no unused free smog photo: quick_photo Delhi smog/air pollution/stubble, finder l10m k2 (correct ones blocked by 7-day rule)"
+ },
+ "punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained": {
+  "id": "o-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained",
+  "src": "/photos/o-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained-1280.jpg",
+  "src800": "/photos/o-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explained-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1041,
+  "credit": "Photo: Indian Embassy in Seoul, South Korea / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhagwant Mann (file photo)",
+  "alt_hi": "भगवंत मान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BhagwantMann_in_Seoul.jpg",
+  "treated": {
+   "src": "/photos/t-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explain-1280.jpg",
+   "src800": "/photos/t-punjab-1000-women-scheme-mawan-dheeyan-satkar-yojana-explain-640.jpg",
+   "cutout": false,
+   "with": [
+    "election-calendar",
+    "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
+    "cbi-takes-over-jhota-murder-probe-mansa"
+   ],
+   "kind": "photo",
+   "subj": "ffff7e661e180000",
+   "credit": "Photos: Indian Embassy in Seoul, South Korea / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
+ },
+ "uttarakhand-election-2027-70-seats-dhami-bjp-congress": {
+  "id": "o-uttarakhand-election-2027-70-seats-dhami-bjp-congress",
+  "src": "/photos/o-uttarakhand-election-2027-70-seats-dhami-bjp-congress-1280.jpg",
+  "src800": "/photos/o-uttarakhand-election-2027-70-seats-dhami-bjp-congress-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3936,
+  "credit": "Photo: Kartik Paliwal / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Uttarakhand Chief Minister Pushkar Singh Dhami (centre) receives a bouquet (file photo)",
+  "alt_hi": "गुलदस्ता लेते उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी (बीच में) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Kartik_Paliwal_with_Pushkar_Singh_Dhami_and_Mohan_Singh_Mehra.jpg",
+  "treated": {
+   "src": "/photos/t-uttarakhand-election-2027-70-seats-dhami-bjp-congress-1280.jpg",
+   "src800": "/photos/t-uttarakhand-election-2027-70-seats-dhami-bjp-congress-640.jpg",
+   "cutout": true,
+   "with": [
+    "udham-singh-nagar-farmer-shot-dead-sitarganj",
+    "dhal-singh-bisen-sworn-in-uttarakhand-governor",
+    "parliament"
+   ],
+   "kind": "photo",
+   "subj": "cece6e7e7c7",
+   "credit": "Photos: Kartik Paliwal / Wikimedia Commons; RaviVerma2018 / Wikimedia Commons; Utkarsh saxena / Wikimedia Commons; Narendra Modi / Wikimedia Commons"
+  }
+ },
+ "goa-election-2027-40-seats-bjp-congress-aap-goa-forward": {
+  "id": "o-goa-election-2027-40-seats-bjp-congress-aap-goa-forward",
+  "src": "/photos/o-goa-election-2027-40-seats-bjp-congress-aap-goa-forward-1280.jpg",
+  "src800": "/photos/o-goa-election-2027-40-seats-bjp-congress-aap-goa-forward-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5227,
+  "credit": "Photo: Goa University / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Goa Chief Minister Pramod Sawant speaking at Goa University (file photo)",
+  "alt_hi": "गोवा विश्वविद्यालय में बोलते गोवा के मुख्यमंत्री प्रमोद सावंत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University.jpg",
+  "treated": {
+   "src": "/photos/t-goa-election-2027-40-seats-bjp-congress-aap-goa-forward-1280.jpg",
+   "src800": "/photos/t-goa-election-2027-40-seats-bjp-congress-aap-goa-forward-640.jpg",
+   "cutout": true,
+   "with": [
+    "goa-st-seat-reservation-explained-supreme-court",
+    "goa-st-seat-reservation-explained-supreme-court--p1",
+    "bills-in-parliament-tracker"
+   ],
+   "kind": "photo",
+   "subj": "ffdfdfcfcfc8c000",
+   "credit": "Photos: Goa University / Wikimedia Commons; Fredericknoronha / Wikimedia Commons; Frederick Noronha fredericknoronha1@gmail.com from Goa, India, India / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
+  }
+ },
+ "gujarat-himachal-pradesh-elections-2027-what-to-know": {
+  "id": "o-gujarat-himachal-pradesh-elections-2027-what-to-know",
+  "src": "/photos/o-gujarat-himachal-pradesh-elections-2027-what-to-know-1280.jpg",
+  "src800": "/photos/o-gujarat-himachal-pradesh-elections-2027-what-to-know-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 907,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Bhupendra Patel (file photo)",
+  "alt_hi": "भूपेंद्र पटेल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chief_Minister_of_Gujarat,_Shri_Bhupendra_Patel.jpg",
+  "treated": {
+   "src": "/photos/t-gujarat-himachal-pradesh-elections-2027-what-to-know-1280.jpg",
+   "src800": "/photos/t-gujarat-himachal-pradesh-elections-2027-what-to-know-640.jpg",
+   "cutout": true,
+   "with": [
+    "gujarat-himachal-pradesh-elections-2027-what-to-know--p2",
+    "elections-2027",
+    "election-calendar"
+   ],
+   "kind": "photo",
+   "subj": "e0e3f6feffff",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Wikimedia Commons contributor / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Shagil Kannur / Wikimedia Commons"
+  }
+ },
+ "new-income-tax-act-2025-explained-tax-year-slabs-deadlines": {
+  "id": "o-new-income-tax-act-2025-explained-tax-year-slabs-deadlines",
+  "src": "/photos/o-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-1280.jpg",
+  "src800": "/photos/o-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-640.jpg",
+  "width": 1280,
+  "height": 1003,
+  "srcWidth": 2055,
+  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Nirmala Sitharaman (file photo)",
+  "alt_hi": "निर्मला सीतारमण (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_for_Commerce_%26_Industry_(Independent_Charge),_Smt._Nirmala_Sitharaman_addressing_a_press_conference,_in_New_Delhi_on_October_14,_2016.jpg",
+  "treated": {
+   "src": "/photos/t-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-1280.jpg",
+   "src800": "/photos/t-new-income-tax-act-2025-explained-tax-year-slabs-deadlines-640.jpg",
+   "cutout": true,
+   "with": [
+    "8th-pay-commission-explained-salary-pension-fitment-factor",
+    "rupee-slips-12-paise-94-93-brent-fii-selling-october-23",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "photo",
+   "subj": "101c1e3e7e7eff",
+   "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; Pinakpani / Wikimedia Commons; Billjones94 / Wikimedia Commons"
+  }
+ },
+ "pm-kisan-25th-instalment-date-status-ekyc-explained": {
+  "id": "o-pm-kisan-25th-instalment-date-status-ekyc-explained",
+  "src": "/photos/o-pm-kisan-25th-instalment-date-status-ekyc-explained-1280.jpg",
+  "src800": "/photos/o-pm-kisan-25th-instalment-date-status-ekyc-explained-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 890,
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg",
+  "treated": {
+   "src": "/photos/t-pm-kisan-25th-instalment-date-status-ekyc-explained-1280.jpg",
+   "src800": "/photos/t-pm-kisan-25th-instalment-date-status-ekyc-explained-640.jpg",
+   "cutout": true,
+   "with": [
+    "pm-kisan-25th-instalment-date-status-ekyc-explained--p1",
+    "economy-dashboard",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
+   ],
+   "kind": "photo",
+   "subj": "ff3310000c7cfffb",
+   "credit": "Photos: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons; Anil Kaushik / Wikimedia Commons; Rakesh from Bangalore / Wikimedia Commons; Tobi Kellner / Wikimedia Commons"
+  }
+ },
+ "8th-pay-commission-explained-salary-pension-fitment-factor": {
+  "id": "o-8th-pay-commission-explained-salary-pension-fitment-factor",
+  "src": "/photos/o-8th-pay-commission-explained-salary-pension-fitment-factor-1280.jpg",
+  "src800": "/photos/o-8th-pay-commission-explained-salary-pension-fitment-factor-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4128,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "North Block, home of the Finance Ministry, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में नॉर्थ ब्लॉक, वित्त मंत्रालय का दफ्तर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg",
+  "treated": {
+   "src": "/photos/t-8th-pay-commission-explained-salary-pension-fitment-factor-1280.jpg",
+   "src800": "/photos/t-8th-pay-commission-explained-salary-pension-fitment-factor-640.jpg",
+   "cutout": false,
+   "with": [
+    "economy-dashboard"
+   ],
+   "kind": "photo",
+   "subj": "ffffff7e00000603",
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Rakesh from Bangalore / Wikimedia Commons"
+  }
+ },
+ "akali-dal-bjp-alliance-punjab-2027-explained": {
+  "id": "o-akali-dal-bjp-alliance-punjab-2027-explained",
+  "src": "/photos/o-akali-dal-bjp-alliance-punjab-2027-explained-1280.jpg",
+  "src800": "/photos/o-akali-dal-bjp-alliance-punjab-2027-explained-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1798,
+  "credit": "Photo: Kuldeep Singh Deep / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Akali Dal president Sukhbir Singh Badal addressing a public meeting in Lambi (file photo)",
+  "alt_hi": "लंबी में एक जनसभा को संबोधित करते अकाली दल अध्यक्ष सुखबीर सिंह बादल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhbir_Singh_Badal_2.jpg",
+  "treated": {
+   "src": "/photos/t-akali-dal-bjp-alliance-punjab-2027-explained-1280.jpg",
+   "src800": "/photos/t-akali-dal-bjp-alliance-punjab-2027-explained-640.jpg",
+   "cutout": true,
+   "with": [
+    "kapil-mishra-fir-demand-punjab-diwali-stubble-fires",
+    "rabi-msp-wheat-up-rs-25-per-quintal",
+    "parliamentary-committees-jpc-standing-select-explained"
+   ],
+   "kind": "photo",
+   "subj": "fffffc0c00000c3c",
+   "credit": "Photos: Kuldeep Singh Deep / Wikimedia Commons; CIAT / Wikimedia Commons; Sarbjit Bahga / Wikimedia Commons; Reply.rajrewal / Wikimedia Commons"
+  }
+ },
+ "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur": {
+  "id": "o-assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur",
+  "src": "/photos/o-assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur-1280.jpg",
+  "src800": "/photos/o-assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 869,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Chief Election Commissioner Gyanesh Kumar (file photo)",
+  "alt_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg",
+  "treated": {
+   "src": "/photos/t-assembly-elections-2027-dates-up-punjab-uttarakhand-goa-mani-1280.jpg",
+   "src800": "/photos/t-assembly-elections-2027-dates-up-punjab-uttarakhand-goa-mani-640.jpg",
+   "cutout": true,
+   "with": [
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p2",
+    "election-calendar"
+   ],
+   "kind": "photo",
+   "subj": "808080826267fff",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; Shagil Kannur / Wikimedia Commons"
+  }
+ },
+ "census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16": {
+  "id": "o-census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16",
+  "src": "/photos/o-census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16-1280.jpg",
+  "src800": "/photos/o-census-2027-self-enumeration-up-punjab-goa-uttarakhand-november-16-640.jpg",
+  "width": 1280,
+  "height": 984,
+  "srcWidth": 2200,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Prime Minister Narendra Modi fills out the Census 2027 self-enumeration form in New Delhi, April 1, 2026",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी 1 अप्रैल 2026 को नई दिल्ली में जनगणना 2027 का स्व-गणना फॉर्म भरते हुए",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat,_Shri_Narendra_Damodardas_Modi_fills_out_the_self-enumeration_for_Census_2027.jpg"
+ },
+ "holiday-list-2027-india-central-government-gazetted-holidays": {
+  "id": "o-holiday-list-2027-india-central-government-gazetted-holidays",
+  "src": "/photos/o-holiday-list-2027-india-central-government-gazetted-holidays-1280.jpg",
+  "src800": "/photos/o-holiday-list-2027-india-central-government-gazetted-holidays-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 4857,
+  "credit": "Photo: Slyronit / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A row of lit diyas for Diwali (file photo)",
+  "alt_hi": "दिवाली पर जलते दीयों की कतार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Diwali_Diyas_4.jpg",
+  "treated": {
+   "src": "/photos/t-holiday-list-2027-india-central-government-gazetted-holidays-1280.jpg",
+   "src800": "/photos/t-holiday-list-2027-india-central-government-gazetted-holidays-640.jpg",
+   "cutout": false,
+   "with": [
+    "8th-pay-commission-explained-salary-pension-fitment-factor",
+    "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart",
+    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2"
+   ],
+   "kind": "photo",
+   "subj": "3e3f7f3f1c1c0c",
+   "credit": "Photos: Slyronit / Wikimedia Commons; Pinakpani / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons"
+  }
+ },
+ "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart": {
+  "id": "o-irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart",
+  "src": "/photos/o-irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart-1280.jpg",
+  "src800": "/photos/o-irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 4000,
+  "credit": "Photo: Ravi Dwivedi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A train at New Delhi railway station (file photo)",
+  "alt_hi": "नई दिल्ली रेलवे स्टेशन पर एक ट्रेन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Delhi_railway_station_board,_India.jpg",
+  "treated": {
+   "src": "/photos/t-irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart-1280.jpg",
+   "src800": "/photos/t-irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart-640.jpg",
+   "cutout": false,
+   "with": [
+    "concor-q2-profit-falls-7-per-cent-second-interim-dividend--p2",
+    "cabinet-approves-integrated-transport-logistics-authority"
+   ],
+   "kind": "photo",
+   "subj": "fcfcfcf0f0800004",
+   "credit": "Photos: Ravi Dwivedi / Wikimedia Commons; Belur Ashok from Secunderabad, India / Wikimedia Commons; Saankav / Wikimedia Commons"
+  }
+ },
+ "pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply": {
+  "id": "o-pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply",
+  "src": "/photos/o-pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply-1280.jpg",
+  "src800": "/photos/o-pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply-640.jpg",
+  "width": 1280,
+  "height": 833,
+  "srcWidth": 5691,
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Rooftop solar panels at Science City, Kolkata (file photo)",
+  "alt_hi": "कोलकाता के साइंस सिटी में छत पर लगे सोलर पैनल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Solar_Panel_Mounted_Main_Auditorium_Lower_Rooftop_-_Convention_Centre_Complex_-_Science_City_-_Calcutta_1996-10-11_867.JPG",
+  "treated": {
+   "src": "/photos/t-pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply-1280.jpg",
+   "src800": "/photos/t-pm-surya-ghar-muft-bijli-yojana-subsidy-how-to-apply-640.jpg",
+   "cutout": false,
+   "with": [
+    "economy-dashboard"
+   ],
+   "kind": "photo",
+   "subj": "fffefc0040c0e030",
+   "credit": "Photos: Biswarup Ganguly / Wikimedia Commons; Rakesh from Bangalore / Wikimedia Commons"
+  }
+ },
+ "punjab-election-2027-how-punjab-voted-2022-117-seats": {
+  "id": "o-punjab-election-2027-how-punjab-voted-2022-117-seats",
+  "src": "/photos/o-punjab-election-2027-how-punjab-voted-2022-117-seats-1280.jpg",
+  "src800": "/photos/o-punjab-election-2027-how-punjab-voted-2022-117-seats-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1800,
+  "credit": "Photo: Jaypee / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Punjab Chief Minister Bhagwant Mann (file photo)",
+  "alt_hi": "पंजाब के मुख्यमंत्री भगवंत मान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg",
+  "treated": {
+   "src": "/photos/t-punjab-election-2027-how-punjab-voted-2022-117-seats-1280.jpg",
+   "src800": "/photos/t-punjab-election-2027-how-punjab-voted-2022-117-seats-640.jpg",
+   "cutout": true,
+   "with": [
+    "five-states-head-for-2027-assembly-polls",
+    "cbi-takes-over-jhota-murder-probe-mansa",
+    "mansa-anti-drug-activist-parvinder-jhota-shot-dead"
+   ],
+   "kind": "photo",
+   "subj": "181c183c1c3cfe",
+   "credit": "Photos: Jaypee / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
+ },
+ "up-voter-list-2026-check-name-after-sir": {
+  "id": "o-up-voter-list-2026-check-name-after-sir",
+  "src": "/photos/o-up-voter-list-2026-check-name-after-sir-1280.jpg",
+  "src800": "/photos/o-up-voter-list-2026-check-name-after-sir-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 900,
+  "credit": "Photo: Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Voters queue at a polling station in Malihabad, Lucknow, Uttar Pradesh (file photo)",
+  "alt_hi": "उत्तर प्रदेश के लखनऊ के मलिहाबाद में मतदान केंद्र पर कतार में मतदाता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Voters_of_either_sex_in_two_separate_queues_at_Malihabad_polling_station_in_Lucknow,_Uttar_Pradesh_during_the_third_phase_of_General_Election-2004_on_May_5,_2004_(Wednesday.jpg",
+  "treated": {
+   "src": "/photos/t-up-voter-list-2026-check-name-after-sir-1280.jpg",
+   "src800": "/photos/t-up-voter-list-2026-check-name-after-sir-640.jpg",
+   "cutout": false,
+   "with": [
+    "five-states-head-for-2027-assembly-polls",
+    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally--p2",
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1"
+   ],
+   "kind": "photo",
+   "subj": "febe2a20b09088ac",
+   "credit": "Photos: Government of India / Wikimedia Commons; Mohammad Azahar / Wikimedia Commons; ArmouredCyborg / Wikimedia Commons; Election Commission of India / Wikimedia Commons"
+  },
+  "notile": "tile matched an unrelated story (hourly-14, Nov 22)"
+ },
+ "uttarakhand-uniform-civil-code-explained-live-in-marriage-registration": {
+  "id": "o-uttarakhand-uniform-civil-code-explained-live-in-marriage-registration",
+  "src": "/photos/o-uttarakhand-uniform-civil-code-explained-live-in-marriage-registration-1280.jpg",
+  "src800": "/photos/o-uttarakhand-uniform-civil-code-explained-live-in-marriage-registration-640.jpg",
+  "width": 1280,
+  "height": 849,
+  "srcWidth": 2048,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Uttarakhand Chief Minister Pushkar Singh Dhami with Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी के साथ उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister_of_India_with_Chief_Minister_of_Uttarakhand.jpg",
+  "treated": {
+   "src": "/photos/t-uttarakhand-uniform-civil-code-explained-live-in-marriage-re-1280.jpg",
+   "src800": "/photos/t-uttarakhand-uniform-civil-code-explained-live-in-marriage-re-640.jpg",
+   "cutout": true,
+   "with": [
+    "dhal-singh-bisen-sworn-in-uttarakhand-governor",
+    "dhami-bjp-save-democracy-campaign-sir-congress",
+    "pac-examines-sc-scholarship-schemes-cag-report"
+   ],
+   "kind": "photo",
+   "subj": "c7c78bc9e98181e1",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Utkarsh saxena / Wikimedia Commons; Debasish Dey / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
+  }
+ },
+ "womens-reservation-33-per-cent-when-will-it-start-explained": {
+  "id": "o-womens-reservation-33-per-cent-when-will-it-start-explained",
+  "src": "/photos/o-womens-reservation-33-per-cent-when-will-it-start-explained-1280.jpg",
+  "src800": "/photos/o-womens-reservation-33-per-cent-when-will-it-start-explained-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 1024,
+  "credit": "Photo: Ministry of Parliamentary Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "The new Parliament building in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में नया संसद भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Glimpse_of_the_new_Parliament_Building,_in_New_Delhi.jpg"
+ },
+ "ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply": {
+  "id": "o-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply",
+  "src": "/photos/o-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-1280.jpg",
+  "src800": "/photos/o-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 583,
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Health Minister J. P. Nadda at a press conference (file photo)",
+  "alt_hi": "एक प्रेस कॉन्फ्रेंस में केंद्रीय स्वास्थ्य मंत्री जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_J.P._Nadda_addressing_a_press_conference_on_the_General_Budget_2018-19,_in_New_Delhi_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-1280.jpg",
+   "src800": "/photos/t-ayushman-vay-vandana-card-70-plus-5-lakh-cover-how-to-apply-640.jpg",
+   "cutout": true,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "e7c39bffff3c1800",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
+ },
+ "manipur-election-2027-60-seats-after-presidents-rule": {
+  "id": "i-manipur-election-2027-60-seats-after-presidents-rule",
+  "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-3x2-1280.jpg",
+  "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Manipur votes after three years of conflict",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तीन साल के संघर्ष के बाद मणिपुर में मतदान",
+  "page": null,
+  "ihash": "dd58c10459f1",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-3x2-1280.jpg",
+    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-t-1280.jpg",
+    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-t-1280.jpg",
+    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-1280.jpg",
+    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-1280.jpg",
+    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Y. Khemchand Singh; library, finder ex"
+ },
+ "forest-rights-act-explained-megamalai-silk-cotton-supreme-court": {
+  "id": "o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court",
+  "src": "/photos/o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court-1280.jpg",
+  "src800": "/photos/o-forest-rights-act-explained-megamalai-silk-cotton-supreme-court-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4608,
+  "credit": "Photo: A. J. T. Johnsingh, WWF-India and NCF / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The forested Megamalai ghats in Theni district, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु के थेनी जिले में मेघमलै के जंगल वाले घाट (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_view_of_Megamalai_Ghats,_AJT_Johnsingh._DSCN0744.jpg",
+  "treated": {
+   "src": "/photos/t-forest-rights-act-explained-megamalai-silk-cotton-supreme-co-1280.jpg",
+   "src800": "/photos/t-forest-rights-act-explained-megamalai-silk-cotton-supreme-co-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "digital-arrest-victims-should-be-repaid-by-the-bank-first",
+    "president-appoints-governors-six-states-keralam-tamil-nadu"
+   ],
+   "kind": "photo",
+   "subj": "ffff171a000000f0",
+   "credit": "Photos: A. J. T. Johnsingh, WWF-India and NCF / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Bnarayan22 / Wikimedia Commons"
+  }
+ },
+ "megamalai-ruling-forest-rights-line-must-be-honest": {
+  "id": "o-megamalai-ruling-forest-rights-line-must-be-honest",
+  "src": "/photos/o-megamalai-ruling-forest-rights-line-must-be-honest-1280.jpg",
+  "src800": "/photos/o-megamalai-ruling-forest-rights-line-must-be-honest-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 4160,
+  "credit": "Photo: Shanmugam. M / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Settlements and estates in the Megamalai hills, Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु की मेघमलै पहाड़ियों में बस्तियां और बागान (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Megamalai-hidden_paradise.jpg",
+  "treated": {
+   "src": "/photos/t-megamalai-ruling-forest-rights-line-must-be-honest-1280.jpg",
+   "src800": "/photos/t-megamalai-ruling-forest-rights-line-must-be-honest-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+    "fast-track-special-courts-explained-rape-pocso-backlog--p2"
+   ],
+   "kind": "photo",
+   "subj": "ff1f404603020000",
+   "credit": "Photos: Shanmugam. M / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Vroomtrapit at English Wikipedia / Wikimedia Commons"
+  }
+ },
+ "delhi-air-monitors-that-go-blank-on-the-worst-night": {
+  "id": "o-delhi-air-monitors-that-go-blank-on-the-worst-night",
+  "src": "/photos/o-delhi-air-monitors-that-go-blank-on-the-worst-night-1280.jpg",
+  "src800": "/photos/o-delhi-air-monitors-that-go-blank-on-the-worst-night-640.jpg",
+  "width": 1280,
+  "height": 950,
+  "srcWidth": 4000,
+  "credit": "Photo: Sumita Roy Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Smog on Chelmsford Road, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली की चेम्सफोर्ड रोड पर स्मॉग (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Low_visibility_due_to_Smog_in_entry_of_Chelmsford_Road_New_Delhi_31st_Dec_2017_9AM_DSCN8819_1.jpg",
+  "treated": {
+   "src": "/photos/t-delhi-air-monitors-that-go-blank-on-the-worst-night-1280.jpg",
+   "src800": "/photos/t-delhi-air-monitors-that-go-blank-on-the-worst-night-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+    "grap-explained-delhi-air-stages-what-is-banned",
+    "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023"
+   ],
+   "kind": "photo",
+   "subj": "ffff3c1838380000",
+   "credit": "Photos: Sumita Roy Dutta / Wikimedia Commons; wili hybrid / Wikimedia Commons; Sumitmpsd / Wikimedia Commons"
+  }
+ },
+ "kharge-hawa-ka-hisaab-delhi-air-figures-claim": {
+  "id": "o-kharge-hawa-ka-hisaab-delhi-air-figures-claim",
+  "src": "/photos/o-kharge-hawa-ka-hisaab-delhi-air-figures-claim-1280.jpg",
+  "src800": "/photos/o-kharge-hawa-ka-hisaab-delhi-air-figures-claim-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 1000,
+  "credit": "Photo: Ajay Kumar Koli / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Mallikarjun Kharge (file photo)",
+  "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:MallikarjunKharge.png",
+  "treated": {
+   "src": "/photos/t-kharge-hawa-ka-hisaab-delhi-air-figures-claim-1280.jpg",
+   "src800": "/photos/t-kharge-hawa-ka-hisaab-delhi-air-figures-claim-640.jpg",
+   "cutout": false,
+   "with": [
+    "delhi-diwali-night-pm25-data-released-aap-fraud-bjp-punjab-stubble-plot",
+    "womens-reservation-33-per-cent-when-will-it-start-explained",
+    "parliamentary-committees-jpc-standing-select-explained"
+   ],
+   "kind": "photo",
+   "subj": "f8f0f0f080e0f0f3",
+   "credit": "Photos: Ajay Kumar Koli / Wikimedia Commons; Sumita Roy Dutta / Wikimedia Commons; Ministry of Parliamentary Affairs / Wikimedia Commons; Reply.rajrewal / Wikimedia Commons"
+  }
+ },
+ "digital-arrest-victims-should-be-repaid-by-the-bank-first": {
+  "id": "r-digital-arrest-victims-should-be-repaid-by-the-bank-first",
+  "src": "/photos/r-digital-arrest-victims-should-be-repaid-by-the-bank-first-1280.jpg",
+  "src800": "/photos/r-digital-arrest-victims-should-be-repaid-by-the-bank-first-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India (file photo)",
+  "alt_hi": "भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg",
+  "treated": {
+   "src": "/photos/t-digital-arrest-victims-should-be-repaid-by-the-bank-first-1280.jpg",
+   "src800": "/photos/t-digital-arrest-victims-should-be-repaid-by-the-bank-first-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16--p2",
+    "8th-pay-commission-explained-salary-pension-fitment-factor"
+   ],
+   "kind": "photo",
+   "subj": "ffffff8c8cf00000",
+   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "digital-arrest-scam-explained-supreme-court-banks-whatsapp": {
+  "id": "r-digital-arrest-scam-explained-supreme-court-banks-whatsapp",
+  "src": "/photos/r-digital-arrest-scam-explained-supreme-court-banks-whatsapp-1280.jpg",
+  "src800": "/photos/r-digital-arrest-scam-explained-supreme-court-banks-whatsapp-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Inside the Supreme Court of India complex, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट परिसर के भीतर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_01.jpg",
+  "treated": {
+   "src": "/photos/t-digital-arrest-scam-explained-supreme-court-banks-whatsapp-1280.jpg",
+   "src800": "/photos/t-digital-arrest-scam-explained-supreme-court-banks-whatsapp-640.jpg",
+   "cutout": false,
+   "with": [
+    "digital-arrest-victims-should-be-repaid-by-the-bank-first",
+    "illegal-arrests-must-cost-the-officers-who-make-them",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "fffff9f8c0000020",
+   "credit": "Photos: Pinakpani / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; AroundTheGlobe / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
+ },
+ "amit-shah-3-crore-infiltrators-sir-absent-voters-claim": {
+  "id": "o-amit-shah-3-crore-infiltrators-sir-absent-voters-claim",
+  "src": "/photos/o-amit-shah-3-crore-infiltrators-sir-absent-voters-claim-1280.jpg",
+  "src800": "/photos/o-amit-shah-3-crore-infiltrators-sir-absent-voters-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1650,
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah speaking (file photo)",
+  "alt_hi": "केंद्रीय गृह मंत्री अमित शाह बोलते हुए (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg",
+  "treated": {
+   "src": "/photos/t-amit-shah-3-crore-infiltrators-sir-absent-voters-claim-1280.jpg",
+   "src800": "/photos/t-amit-shah-3-crore-infiltrators-sir-absent-voters-claim-640.jpg",
+   "cutout": false,
+   "with": [
+    "eci-form-6-press-note-taken-down-claim",
+    "himanta-sarma-30-infiltrators-stopped-assam-border",
+    "bangladesh-per-capita-gdp-overtakes-india-imf-2026"
+   ],
+   "kind": "photo",
+   "subj": "ffffe7e7e3c38383",
+   "credit": "Photos: Ministry of Cooperation / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Arupparia / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons"
+  }
+ },
+ "extradition-explained-hasina-india-bangladesh-treaty": {
+  "id": "o-extradition-explained-hasina-india-bangladesh-treaty",
+  "src": "/photos/o-extradition-explained-hasina-india-bangladesh-treaty-1280.jpg",
+  "src800": "/photos/o-extradition-explained-hasina-india-bangladesh-treaty-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1149,
+  "credit": "Photo: Press Information Department / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Sheikh Hasina speaking at an Awami League meeting in Dhaka (file photo)",
+  "alt_hi": "ढाका में अवामी लीग की बैठक में बोलती शेख हसीना (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_Addresses_Awami_League_Leaders_Ganabhaban_2024-05-17_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-extradition-explained-hasina-india-bangladesh-treaty-1280.jpg",
+   "src800": "/photos/t-extradition-explained-hasina-india-bangladesh-treaty-640.jpg",
+   "cutout": true,
+   "with": [
+    "iom-south-asia-40-million-climate-displacement",
+    "bangladesh-per-capita-gdp-overtakes-india-imf-2026"
+   ],
+   "kind": "photo",
+   "subj": "dfdfc7c3c3c3c3c7",
+   "credit": "Photos: Press Information Department / Wikimedia Commons; Nahid.rajbd / Wikimedia Commons; Tanvir Rahat / Wikimedia Commons"
+  }
+ },
+ "parameshwara-constitution-says-reservation-in-proportion-to-population-claim": {
+  "id": "o-parameshwara-constitution-says-reservation-in-proportion-to-population-claim",
+  "src": "/photos/o-parameshwara-constitution-says-reservation-in-proportion-to-population-claim-1280.jpg",
+  "src800": "/photos/o-parameshwara-constitution-says-reservation-in-proportion-to-population-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1068,
+  "credit": "Photo: Manjeshpv / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Karnataka Deputy Chief Minister G. Parameshwara (file photo)",
+  "alt_hi": "कर्नाटक के उपमुख्यमंत्री जी. परमेश्वर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dr_G_Parameshwara.JPG",
+  "treated": {
+   "src": "/photos/t-parameshwara-constitution-says-reservation-in-proportion-to--1280.jpg",
+   "src800": "/photos/t-parameshwara-constitution-says-reservation-in-proportion-to--640.jpg",
+   "cutout": true,
+   "with": [
+    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1",
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back--p1",
+    "digital-arrest-scam-explained-supreme-court-banks-whatsapp"
+   ],
+   "kind": "photo",
+   "subj": "81810383113fbf3",
+   "credit": "Photos: Manjeshpv / Wikimedia Commons; SpeakingArch / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards": {
+  "id": "o-swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards",
+  "src": "/photos/o-swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards-1280.jpg",
+  "src800": "/photos/o-swachh-survekshan-rankings-need-sewage-and-waste-data-not-awards-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 6192,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "President Droupadi Murmu presents a Swachh Survekshan award at Vigyan Bhawan, New Delhi, November 11, 2026",
+  "alt_hi": "राष्ट्रपति द्रौपदी मुर्मु ने 11 नवंबर 2026 को नई दिल्ली के विज्ञान भवन में स्वच्छ सर्वेक्षण पुरस्कार प्रदान किया",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2335230",
+  "treated": {
+   "src": "/photos/t-swachh-survekshan-rankings-need-sewage-and-waste-data-not-aw-1280.jpg",
+   "src800": "/photos/t-swachh-survekshan-rankings-need-sewage-and-waste-data-not-aw-640.jpg",
+   "cutout": false,
+   "with": [
+    "politics-courts-week-ahead-speaker-tmc-anti-sir-protests",
+    "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation--p2"
+   ],
+   "kind": "photo",
+   "subj": "3fff9f9fb8203000",
+   "credit": "Photos: PIB; Legaleagle86 / Wikimedia Commons; Delhi High Court / Wikimedia Commons"
+  }
+ },
+ "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka": {
+  "id": "o-reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+  "src": "/photos/o-reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka-1280.jpg",
+  "src800": "/photos/o-reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka-640.jpg",
+  "width": 1280,
+  "height": 851,
+  "srcWidth": 3872,
+  "credit": "Photo: Moheen Reeyad / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Karnataka High Court building in Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु में कर्नाटक हाईकोर्ट की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:High_Court_of_Karntaka,_Bangalore_(01).jpg",
+  "treated": {
+   "src": "/photos/t-reservation-50-per-cent-ceiling-explained-indra-sawhney-karn-1280.jpg",
+   "src800": "/photos/t-reservation-50-per-cent-ceiling-explained-indra-sawhney-karn-640.jpg",
+   "cutout": false,
+   "with": [
+    "karnataka-hc-illegal-immigration-district-committees-three-months",
+    "karnataka-mlc-polls-four-council-seats-voting",
+    "neet-pg-candidates-deserve-to-see-their-question-papers--p1"
+   ],
+   "kind": "photo",
+   "subj": "ffffc08000000000",
+   "credit": "Photos: Moheen Reeyad / Wikimedia Commons; N. Vivekananthamoorthy / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "karnataka-ninth-schedule-only-permanent-safeguard-quota-claim": {
+  "id": "o-karnataka-ninth-schedule-only-permanent-safeguard-quota-claim",
+  "src": "/photos/o-karnataka-ninth-schedule-only-permanent-safeguard-quota-claim-1280.jpg",
+  "src800": "/photos/o-karnataka-ninth-schedule-only-permanent-safeguard-quota-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1080,
+  "credit": "Photo: DAR.45m / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Karnataka Chief Minister D. K. Shivakumar (file photo)",
+  "alt_hi": "कर्नाटक के मुख्यमंत्री डी. के. शिवकुमार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:DK_Shivakumar_speech.jpg",
+  "treated": {
+   "src": "/photos/t-karnataka-ninth-schedule-only-permanent-safeguard-quota-clai-1280.jpg",
+   "src800": "/photos/t-karnataka-ninth-schedule-only-permanent-safeguard-quota-clai-640.jpg",
+   "cutout": true,
+   "with": [
+    "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+    "pil-supreme-court-expert-panel-election-commission-vishal-tiwari",
+    "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura--p1"
+   ],
+   "kind": "photo",
+   "subj": "24203038383e7e7e",
+   "credit": "Photos: DAR.45m / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons; Pinakpani / Wikimedia Commons; SpeakingArch / Wikimedia Commons"
+  }
+ },
+ "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea": {
+  "id": "i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
+  "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-1280.jpg",
+  "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rabi fertiliser subsidy up 64%",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रबी की उर्वरक सब्सिडी 64% बढ़ी",
+  "page": null,
+  "ihash": "324c2103876d",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-1280.jpg",
+    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of farmers with fertiliser bags (finder l12e k4: 0 candidates, quick_photo none); policy story with numbers"
+ },
+ "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim": {
+  "id": "i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim",
+  "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-3x2-1280.jpg",
+  "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Four of Yogi's five rivers rise in Uttarakhand",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: योगी की पांच में से चार नदियां उत्तराखंड से",
+  "page": null,
+  "ihash": "be2a82c3fee8",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-t-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-t-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-1280.jpg",
+    "src800": "/photos/i-yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of Yogi Adityanath: library portraits used in last 7 days, quick_photo none, finder l12e and l12e2 only undersized or two-person photos"
+ },
+ "delimitation-bill-361-votes-needed-two-thirds-claim": {
+  "id": "r-delimitation-bill-361-votes-needed-two-thirds-claim",
+  "src": "/photos/r-delimitation-bill-361-votes-needed-two-thirds-claim-1280.jpg",
+  "src800": "/photos/r-delimitation-bill-361-votes-needed-two-thirds-claim-640.jpg",
+  "width": 1280,
+  "height": 1068,
+  "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Lok Sabha Speaker Om Birla (file photo)",
+  "alt_hi": "लोकसभा अध्यक्ष ओम बिरला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-delimitation-bill-361-votes-needed-two-thirds-claim-1280.jpg",
+   "src800": "/photos/t-delimitation-bill-361-votes-needed-two-thirds-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "sambit-patra-varanasi-sir-deletion-not-theft-13-crore--p1",
+    "elections-2027",
+    "monsoon-session-2026-ends-with-lowest-output"
+   ],
+   "kind": "photo",
+   "subj": "ffffcb8981818181",
+   "credit": "Photos: IAEA Imagebank / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Photo Division, Ministry of Information & Broadcasting, / Wikimedia Commons; Nikhilb239 / Wikimedia Commons"
+  }
+ },
+ "nadda-tb-deaths-38-percent-who-report-claim": {
+  "id": "o-nadda-tb-deaths-38-percent-who-report-claim",
+  "src": "/photos/o-nadda-tb-deaths-38-percent-who-report-claim-1280.jpg",
+  "src800": "/photos/o-nadda-tb-deaths-38-percent-who-report-claim-640.jpg",
+  "width": 1280,
+  "height": 692,
+  "srcWidth": 2200,
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Health Minister J P Nadda addressing a health convention (file photo)",
+  "alt_hi": "एक स्वास्थ्य सम्मेलन को संबोधित करते केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_for_Health_%26_Family_Welfare,_Shri_Jagat_Prakash_Nadda_addressing_the_faculty,_at_NMHANS,_in_Bengaluru_on_December_28,_2014.jpg",
+  "treated": {
+   "src": "/photos/t-nadda-tb-deaths-38-percent-who-report-claim-1280.jpg",
+   "src800": "/photos/t-nadda-tb-deaths-38-percent-who-report-claim-640.jpg",
+   "cutout": false,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "307477febff",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
+ },
+ "website-blocking-explained-section-69a-forged-court-orders-129-betting-sites": {
+  "id": "o-website-blocking-explained-section-69a-forged-court-orders-129-betting-sites",
+  "src": "/photos/o-website-blocking-explained-section-69a-forged-court-orders-129-betting-sites-1280.jpg",
+  "src800": "/photos/o-website-blocking-explained-section-69a-forged-court-orders-129-betting-sites-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3024,
+  "credit": "Photo: Ramesh Lalwani / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Sanchar Bhawan, the Department of Telecommunications headquarters in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में दूरसंचार विभाग का मुख्यालय संचार भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sanchar_Bhawan.jpg",
+  "treated": {
+   "src": "/photos/t-website-blocking-explained-section-69a-forged-court-orders-1-1280.jpg",
+   "src800": "/photos/t-website-blocking-explained-section-69a-forged-court-orders-1-640.jpg",
+   "cutout": false,
+   "with": [
+    "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+    "supreme-court-child-labour-special-cell-centre",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "8f8fd7d7df070000",
+   "credit": "Photos: Ramesh Lalwani / Wikimedia Commons; Vroomtrapit / Wikimedia Commons; Pinakpani / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
+ },
+ "monsoon-session-unprorogued-record-88-days-ramesh-claim": {
+  "id": "o-monsoon-session-unprorogued-record-88-days-ramesh-claim",
+  "src": "/photos/o-monsoon-session-unprorogued-record-88-days-ramesh-claim-1280.jpg",
+  "src800": "/photos/o-monsoon-session-unprorogued-record-88-days-ramesh-claim-640.jpg",
+  "width": 1280,
+  "height": 851,
+  "srcWidth": 2048,
+  "credit": "Photo: Yann Forget from India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Jairam Ramesh (file photo)",
+  "alt_hi": "जयराम रमेश (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg",
+  "treated": {
+   "src": "/photos/t-monsoon-session-unprorogued-record-88-days-ramesh-claim-1280.jpg",
+   "src800": "/photos/t-monsoon-session-unprorogued-record-88-days-ramesh-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "183818002c6efe",
+   "credit": "Photo: Yann Forget from India / Wikimedia Commons"
+  }
+ },
+ "goyal-record-october-exports-90-billion-claim": {
+  "id": "r-goyal-record-october-exports-90-billion-claim",
+  "src": "/photos/r-goyal-record-october-exports-90-billion-claim-1280.jpg",
+  "src800": "/photos/r-goyal-record-october-exports-90-billion-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Office of the United States Trade Representative / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Trade Representative Jamieson Greer meets Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "अमेरिकी व्यापार प्रतिनिधि जेमीसन ग्रीर और वाणिज्य मंत्री पीयूष गोयल की मुलाकात (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:U.S._Trade_Representative_Jamieson_Greer_with_Indian_Minister_of_Commerce_and_Industry_Piyush_Goyal.jpg",
+  "treated": {
+   "src": "/photos/t-goyal-record-october-exports-90-billion-claim-1280.jpg",
+   "src800": "/photos/t-goyal-record-october-exports-90-billion-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffffbefe88888080",
+   "credit": "Photo: Office of the United States Trade Representative / Wikimedia Commons"
+  }
+ },
+ "telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid": {
+  "id": "r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid",
+  "src": "/photos/r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-1280.jpg",
+  "src800": "/photos/r-telangana-gig-workers-law-will-be-judged-by-the-first-claim-paid-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+  "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg",
+  "treated": {
+   "src": "/photos/t-telangana-gig-workers-law-will-be-judged-by-the-first-claim--1280.jpg",
+   "src800": "/photos/t-telangana-gig-workers-law-will-be-judged-by-the-first-claim--640.jpg",
+   "cutout": true,
+   "with": [
+    "sangareddy-pharma-deaths-need-inspections-not-compensation",
+    "telangana-sir-electorate-may-shrink-26-per-cent",
+    "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation"
+   ],
+   "kind": "photo",
+   "subj": "f7e3e3e3c3878787",
+   "credit": "Photos: Sidheeq / Wikimedia Commons; Yakshitha / Wikimedia Commons; Department of Language and Culture, Government of Telangana / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
+ },
+ "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim": {
+  "id": "o-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+  "src": "/photos/o-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim-1280.jpg",
+  "src800": "/photos/o-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 600,
+  "credit": "Photo: Original: Indian National Congress / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped_squarely).jpg",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "telangana-roll-revision-must-not-erase-voters-quietly",
+    "amit-shah-revanth-telangana-atm-congress-evm-hyderabad--p1",
+    "eci-form-6-press-note-taken-down-claim"
+   ],
+   "kind": "portrait",
+   "subj": "f7e3e3e3c3c1c1c1",
+   "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; Photo Division, Ministry of Information & Broadcasting, Government of India / Wikimedia Commons; Wasiul Bahar / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons"
+  }
+ },
+ "ninth-schedule-explained-karnataka-sc-st-quota-article-31b": {
+  "id": "o-ninth-schedule-explained-karnataka-sc-st-quota-article-31b",
+  "src": "/photos/o-ninth-schedule-explained-karnataka-sc-st-quota-article-31b-1280.jpg",
+  "src800": "/photos/o-ninth-schedule-explained-karnataka-sc-st-quota-article-31b-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 3459,
+  "credit": "Photo: Government of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_the_Prime_Minister_Narendra_Modi,_November_2020_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-ninth-schedule-explained-karnataka-sc-st-quota-article-31b-1280.jpg",
+   "src800": "/photos/t-ninth-schedule-explained-karnataka-sc-st-quota-article-31b-640.jpg",
+   "cutout": true,
+   "with": [
+    "ninth-schedule-explained-karnataka-sc-st-quota-article-31b--p2",
+    "reservation-50-per-cent-ceiling-explained-indra-sawhney-karnataka",
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back--p1"
+   ],
+   "kind": "photo",
+   "subj": "ffe7c3c3e7e7d181",
+   "credit": "Photos: Government of India / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Moheen Reeyad / Wikimedia Commons"
+  }
+ },
+ "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left": {
+  "id": "o-india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+  "src": "/photos/o-india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left-1280.jpg",
+  "src800": "/photos/o-india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1220,
+  "credit": "Photo: Ministry of Commerce and Industry (India) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Commerce Minister Piyush Goyal (file photo)",
+  "alt_hi": "वाणिज्य मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Piyush_Goyal_Minister_of_Commerce_and_Industry_addressing_a_press_conference_(4).jpg",
+  "treated": {
+   "src": "/photos/t-india-us-trade-deal-explained-first-tranche-what-is-settled--1280.jpg",
+   "src800": "/photos/t-india-us-trade-deal-explained-first-tranche-what-is-settled--640.jpg",
+   "cutout": true,
+   "with": [
+    "us-midterms-2026-explained-what-is-at-stake"
+   ],
+   "kind": "photo",
+   "subj": "7001018196ff7ff",
+   "credit": "Photos: Ministry of Commerce and Industry (India) / Wikimedia Commons; Architect of the Capitol / Wikimedia Commons"
+  }
+ },
+ "kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim": {
+  "id": "o-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim",
+  "src": "/photos/o-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim-1280.jpg",
+  "src800": "/photos/o-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 741,
+  "credit": "Photo: Ministry of Railways / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Mallikarjun Kharge (file photo)",
+  "alt_hi": "मल्लिकार्जुन खड़गे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways,_in_New_Delhi_on_June_19,_2013_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-cla-1280.jpg",
+   "src800": "/photos/t-kharge-petrol-up-43-percent-diesel-68-percent-since-2014-cla-640.jpg",
+   "cutout": true,
+   "with": [
+    "bills-in-parliament-tracker",
+    "pac-examines-sc-scholarship-schemes-cag-report"
+   ],
+   "kind": "photo",
+   "subj": "207672f3f7f7e",
+   "credit": "Photos: Ministry of Railways / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons; Raj Rewal Associates / Wikimedia Commons"
+  }
+ },
+ "modi-tribals-full-rights-over-bamboo-claim": {
+  "id": "o-modi-tribals-full-rights-over-bamboo-claim",
+  "src": "/photos/o-modi-tribals-full-rights-over-bamboo-claim-1280.jpg",
+  "src800": "/photos/o-modi-tribals-full-rights-over-bamboo-claim-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 922,
+  "credit": "Photo: Bundesministerium für europäische und internationale Angelegenheiten / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_at_Vienna_International_Airport_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-tribals-full-rights-over-bamboo-claim-1280.jpg",
+   "src800": "/photos/t-modi-tribals-full-rights-over-bamboo-claim-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "portrait",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photo: Narendra Modi / Wikimedia Commons"
+  }
+ },
+ "nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7": {
+  "id": "o-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7",
+  "src": "/photos/o-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7-1280.jpg",
+  "src800": "/photos/o-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 858,
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg",
+  "treated": {
+   "src": "/photos/t-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7-1280.jpg",
+   "src800": "/photos/t-nha-2023-24-govt-health-spending-4-14-lakh-crore-oop-42-7-640.jpg",
+   "cutout": false,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "b9b9113d2d21ffe7",
+   "credit": "Photos: Ministry of Health and Family Welfare / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
+ },
+ "suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim": {
+  "id": "o-suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim",
+  "src": "/photos/o-suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim-1280.jpg",
+  "src800": "/photos/o-suvendu-adhikari-caa-all-eligible-applications-disposed-by-december-31-claim-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 655,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Suvendu Adhikari (file photo)",
+  "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-suvendu-adhikari-caa-all-eligible-applications-disposed-by-d-1280.jpg",
+   "src800": "/photos/t-suvendu-adhikari-caa-all-eligible-applications-disposed-by-d-640.jpg",
+   "cutout": true,
+   "with": [
+    "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls--p1",
+    "suvendu-visits-chorbagan-victim-family-25-lakh"
+   ],
+   "kind": "photo",
+   "subj": "f7e3e3e3e3e3e7e3",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons"
+  }
+ },
+ "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts": {
+  "id": "r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+  "src": "/photos/r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts-1280.jpg",
+  "src800": "/photos/r-supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts-640.jpg",
+  "width": 1280,
+  "height": 797,
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "treated": {
+   "src": "/photos/t-supreme-court-suspends-sentences-bail-two-bilkis-bano-convic-1280.jpg",
+   "src800": "/photos/t-supreme-court-suspends-sentences-bail-two-bilkis-bano-convic-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-449-ndps-courts-status-reports-little-progress",
+    "govt-probes-website-blocks-forged-court-orders-129-betting-sites",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "ffff677f67000000",
+   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Vroomtrapit / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
+ },
+ "india-japan-2plus2-explained-tokyo-defence-foreign-ministers": {
+  "id": "o-india-japan-2plus2-explained-tokyo-defence-foreign-ministers",
+  "src": "/photos/o-india-japan-2plus2-explained-tokyo-defence-foreign-ministers-1280.jpg",
+  "src800": "/photos/o-india-japan-2plus2-explained-tokyo-defence-foreign-ministers-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1004,
+  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rajnath Singh (file photo)",
+  "alt_hi": "राजनाथ सिंह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Rajnath_Singh,_Union_Minister_of_Defence_at_a_webinar_on_August_04,_2022.jpg",
+  "treated": {
+   "src": "/photos/t-india-japan-2plus2-explained-tokyo-defence-foreign-ministers-1280.jpg",
+   "src800": "/photos/t-india-japan-2plus2-explained-tokyo-defence-foreign-ministers-640.jpg",
+   "cutout": true,
+   "with": [
+    "india-japan-2plus2-explained-tokyo-defence-foreign-ministers--p2",
+    "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+    "typhoon-champi-taiwan-one-dead-350-injured"
+   ],
+   "kind": "photo",
+   "subj": "ffe7e7e7c2424246",
+   "credit": "Photos: Ministry of Defence / Wikimedia Commons; https://www.mod.go.jp/msdf/index.html 海上自衛隊 / Wikimedia Commons; Syced / Wikimedia Commons; CEphoto, Uwe Aranas / Wikimedia Commons"
+  }
+ },
+ "latif-bhat-last-local-lashkar-terrorist-valley-shah-claim": {
+  "id": "o-latif-bhat-last-local-lashkar-terrorist-valley-shah-claim",
+  "src": "/photos/o-latif-bhat-last-local-lashkar-terrorist-valley-shah-claim-1280.jpg",
+  "src800": "/photos/o-latif-bhat-last-local-lashkar-terrorist-valley-shah-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1650,
+  "credit": "Photo: Ministry of Cooperation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union Home Minister Amit Shah speaking at a meeting (file photo)",
+  "alt_hi": "एक बैठक में बोलते केंद्रीय गृह मंत्री अमित शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Minister_for_Home_Affairs.jpg",
+  "treated": {
+   "src": "/photos/t-latif-bhat-last-local-lashkar-terrorist-valley-shah-claim-1280.jpg",
+   "src800": "/photos/t-latif-bhat-last-local-lashkar-terrorist-valley-shah-claim-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffffe7e7e3c38383",
+   "credit": "Photo: Ministry of Cooperation / Wikimedia Commons"
+  }
+ },
+ "air-india-crash-probe-final-stages-supreme-court": {
+  "id": "o-air-india-crash-probe-final-stages-supreme-court",
+  "src": "/photos/o-air-india-crash-probe-final-stages-supreme-court-1280.jpg",
+  "src800": "/photos/o-air-india-crash-probe-final-stages-supreme-court-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1623,
+  "credit": "Photo: Inter-Pacific Bar Association (IPBA) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Tushar Mehta (file photo)",
+  "alt_hi": "तुषार मेहता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tushar_Mehta.jpg",
+  "treated": {
+   "src": "/photos/t-air-india-crash-probe-final-stages-supreme-court-1280.jpg",
+   "src800": "/photos/t-air-india-crash-probe-final-stages-supreme-court-640.jpg",
+   "cutout": true,
+   "with": [
+    "sc-cases-tracker",
+    "air-india-suspends-riyadh-dammam-flights-november-7",
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--p2"
+   ],
+   "kind": "photo",
+   "subj": "c7e7c7c3e7e3c381",
+   "credit": "Photos: Inter-Pacific Bar Association (IPBA) / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Manishontop02 / Wikimedia Commons; Colin Cooke Photo / Wikimedia Commons"
+  }
+ },
+ "air-india-ai171-final-report-must-be-public": {
+  "id": "o-air-india-ai171-final-report-must-be-public",
+  "src": "/photos/o-air-india-ai171-final-report-must-be-public-1280.jpg",
+  "src800": "/photos/o-air-india-ai171-final-report-must-be-public-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 2200,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "The tail section of the crashed Air India Flight 171 lodged in the hostel building in Ahmedabad (file photo)",
+  "alt_hi": "अहमदाबाद में हॉस्टल की इमारत में फंसा एयर इंडिया उड़ान 171 का पिछला हिस्सा (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_wreckage_of_the_crashed_Air_India_Flight_171_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-air-india-ai171-final-report-must-be-public-1280.jpg",
+   "src800": "/photos/t-air-india-ai171-final-report-must-be-public-640.jpg",
+   "cutout": false,
+   "with": [
+    "air-india-ai171-final-report-must-be-public--p2",
+    "how-india-measures-inflation-new-cpi-series",
+    "moil-q2-profit-falls-12-per-cent-interim-dividend--p2"
+   ],
+   "kind": "photo",
+   "subj": "4f0707070307c6f4",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Premkudva / Wikimedia Commons; Bernard Gagnon / Wikimedia Commons; Gujaratin / Wikimedia Commons"
+  }
+ },
+ "modi-world-bank-50-crore-poverty-claim": {
+  "id": "o-modi-world-bank-50-crore-poverty-claim",
+  "src": "/photos/o-modi-world-bank-50-crore-poverty-claim-1280.jpg",
+  "src800": "/photos/o-modi-world-bank-50-crore-poverty-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1161,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_2021_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-modi-world-bank-50-crore-poverty-claim-1280.jpg",
+   "src800": "/photos/t-modi-world-bank-50-crore-poverty-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "bank-of-baroda-shares-5-per-cent-record-q2-profit",
+    "finance-ministry-idbi-2003-parliament-assurance-not-binding",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "portrait",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; PareeKatti24 / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "sc-dalmia-sundargarh-gram-sabha-consent-quashed": {
+  "id": "r-sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+  "src": "/photos/r-sc-dalmia-sundargarh-gram-sabha-consent-quashed-1280.jpg",
+  "src800": "/photos/r-sc-dalmia-sundargarh-gram-sabha-consent-quashed-640.jpg",
+  "width": 1280,
+  "height": 797,
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "treated": {
+   "src": "/photos/t-sc-dalmia-sundargarh-gram-sabha-consent-quashed-1280.jpg",
+   "src800": "/photos/t-sc-dalmia-sundargarh-gram-sabha-consent-quashed-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-fra-commercial-cultivation-megamalai-silk-cotton",
+    "supreme-court-449-ndps-courts-status-reports-little-progress",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffff677f67000000",
+   "credit": "Photos: Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
+  }
+ },
+ "bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal": {
+  "id": "o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal",
+  "src": "/photos/o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-1280.jpg",
+  "src800": "/photos/o-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 890,
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg",
+  "treated": {
+   "src": "/photos/t-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-1280.jpg",
+   "src800": "/photos/t-bird-flu-vaccine-h5n1-chouhan-nihsad-bhopal-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "ffff2010000c7cff",
+   "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons"
+  }
+ },
+ "rahul-gandhi-india-given-up-manufacturing-chicago-claim": {
+  "id": "o-rahul-gandhi-india-given-up-manufacturing-chicago-claim",
+  "src": "/photos/o-rahul-gandhi-india-given-up-manufacturing-chicago-claim-1280.jpg",
+  "src800": "/photos/o-rahul-gandhi-india-given-up-manufacturing-chicago-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 963,
+  "credit": "Photo: Himanshu Arya Khowal / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Rahul Gandhi (file photo)",
+  "alt_hi": "राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png",
+  "treated": {
+   "src": "/photos/t-rahul-gandhi-india-given-up-manufacturing-chicago-claim-1280.jpg",
+   "src800": "/photos/t-rahul-gandhi-india-given-up-manufacturing-chicago-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "special-session-of-parliament-explained-shah-offer-cec-removal",
+    "election-commission",
+    "school-buildings-need-safety-audits-before-the-next-roof-falls"
+   ],
+   "kind": "portrait",
+   "subj": "f7e3e3e3c3c1c1c1",
+   "credit": "Photos: Sidheeq / Wikimedia Commons, CC BY-SA 4.0; Nikhilb239 / Wikimedia Commons; Shagil Kannur / Wikimedia Commons; Kuldeepburjbhalaike / Wikimedia Commons"
+  }
+ },
+ "gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh": {
+  "id": "o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh",
+  "src": "/photos/o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh-1280.jpg",
+  "src800": "/photos/o-gram-sabha-consent-must-come-before-the-land-is-taken-sundargarh-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "srcWidth": 3648,
+  "credit": "Photo: Bikash Lakra / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A village road near Rauldega in Sundargarh district, Odisha (file photo)",
+  "alt_hi": "ओडिशा के सुंदरगढ़ जिले में राउलडेगा के पास गांव की सड़क (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rauldega,_Odisha,_India_-_panoramio_(5).jpg",
+  "treated": {
+   "src": "/photos/t-gram-sabha-consent-must-come-before-the-land-is-taken-sundar-1280.jpg",
+   "src800": "/photos/t-gram-sabha-consent-must-come-before-the-land-is-taken-sundar-640.jpg",
+   "cutout": false,
+   "with": [
+    "sc-dalmia-sundargarh-gram-sabha-consent-quashed",
+    "majhi-appointment-letters-2067-tribal-language-teachers--p2",
+    "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p2"
+   ],
+   "kind": "photo",
+   "subj": "f0800007fffffff",
+   "credit": "Photos: Bikash Lakra / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Hpsatapathy / Wikimedia Commons"
+  }
+ },
+ "icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india": {
+  "id": "o-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india",
+  "src": "/photos/o-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india-1280.jpg",
+  "src800": "/photos/o-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-india-640.jpg",
+  "width": 1280,
+  "height": 1018,
+  "srcWidth": 2500,
+  "credit": "Photo: Velvet / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Peace Palace in The Hague, seat of the International Court of Justice",
+  "alt_hi": "हेग का पीस पैलेस, अंतरराष्ट्रीय न्यायालय (आईसीजे) का मुख्यालय",
+  "page": "https://commons.wikimedia.org/wiki/File:La_haye_palais_paix_jardin_face.JPG",
+  "treated": {
+   "src": "/photos/t-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-1280.jpg",
+   "src800": "/photos/t-icj-myanmar-rohingya-genocide-ruling-explained-what-it-means-640.jpg",
+   "cutout": false,
+   "with": [
+    "bills-in-parliament-tracker",
+    "parliament",
+    "sc-dalmia-sundargarh-gram-sabha-consent-quashed"
+   ],
+   "kind": "photo",
+   "subj": "8080bcbfffdf1f08",
+   "credit": "Photos: Velvet / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons; Narendra Modi / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons"
+  }
+ },
+ "supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp": {
+  "id": "o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp",
+  "src": "/photos/o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-1280.jpg",
+  "src800": "/photos/o-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-640.jpg",
+  "width": 1280,
+  "height": 364,
+  "srcWidth": 7881,
+  "credit": "Photo: Pratyeka / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Thiruparankundram town and the hill with the Subramaniya Swamy temple, Madurai (file photo)",
+  "alt_hi": "मदुरै में थिरुपरनकुंद्रम कस्बा और सुब्रमण्य स्वामी मंदिर वाली पहाड़ी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Thiruparankundram_Madurai.jpg",
+  "treated": {
+   "src": "/photos/t-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-1280.jpg",
+   "src800": "/photos/t-supreme-court-stays-madras-hc-thiruparankundram-deepam-lamp-640.jpg",
+   "cutout": false,
+   "with": [
+    "supreme-court-ram-temple-trust-funds-probe-hearing-today--in",
+    "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
+    "madras-hc-bail-ai-videos-cm-vijay-scam"
+   ],
+   "kind": "photo",
+   "subj": "ffff200818080000",
+   "credit": "Photos: Pratyeka / Wikimedia Commons; Legaleagle86 / Wikimedia Commons; Yercaud-elango / Wikimedia Commons"
+  }
+ },
+ "nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row": {
+  "id": "o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row",
+  "src": "/photos/o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row-1280.jpg",
+  "src800": "/photos/o-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-credit-row-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 672,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Narendra Modi (file photo)",
+  "alt_hi": "नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-cre-1280.jpg",
+   "src800": "/photos/t-nitish-setu-modi-dedicates-vaishali-34470-crore-tejashwi-cre-640.jpg",
+   "cutout": true,
+   "with": [
+    "siwan-firecracker-blast-five-dead-alampur-sho-suspended",
+    "vaishali-retired-soldier-shoots-brother-land-dispute"
+   ],
+   "kind": "portrait",
+   "subj": "ffffe7e7fb818282",
+   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; Rahulkrsah / Wikimedia Commons; SmTkMrVrA / Wikimedia Commons"
+  }
+ },
+ "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters": {
+  "id": "o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters",
+  "src": "/photos/o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters-1280.jpg",
+  "src800": "/photos/o-amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 624,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Amit Shah presents the President's Colour to Arunachal Pradesh Police in Itanagar on November 21, 2026",
+  "alt_hi": "21 नवंबर 2026 को इटानगर में अरुणाचल प्रदेश पुलिस को राष्ट्रपति का पुलिस ध्वज सौंपते अमित शाह",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2339539",
+  "treated": {
+   "src": "/photos/t-amit-shah-arunachal-police-colour-banderdewa-siang-dam-prote-1280.jpg",
+   "src800": "/photos/t-amit-shah-arunachal-police-colour-banderdewa-siang-dam-prote-640.jpg",
+   "cutout": true,
+   "with": [
+    "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters--p1",
+    "amit-shah-arunachal-police-colour-banderdewa-siang-dam-protesters--p2"
+   ],
+   "kind": "photo",
+   "subj": "fff7f7f2b0101033",
+   "credit": "Photos: PIB; ঈশান জ্যোতি বৰা / Wikimedia Commons"
+  }
+ },
+ "manipur-chandel-spurious-liquor-deaths": {
+  "id": "i-manipur-chandel-spurious-liquor-deaths",
+  "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-3x2-1280.jpg",
+  "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: 16 dead, over 370 in hospital in Manipur",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मणिपुर में 16 की मौत, 370 से ज्यादा अस्पताल में",
+  "page": null,
+  "ihash": "f82388b7b552",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-3x2-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-t-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-t-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-1280.jpg",
+    "src800": "/photos/i-manipur-chandel-spurious-liquor-deaths-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of the Chandel liquor poisoning or CM Khemchand Singh; library, quick_photo, PIB, finder h2117"
+ },
+ "tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim": {
+  "id": "o-tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim",
+  "src": "/photos/o-tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim-1280.jpg",
+  "src800": "/photos/o-tejashwi-nitish-setu-open-since-june-2025-centre-paid-nothing-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1080,
+  "credit": "Photo: Information and Public Relations Department Government of Bihar / Wikimedia Commons",
+  "licence": "Attribution",
+  "alt": "Tejashwi Yadav, as deputy chief minister, with Nitish Kumar at a Patna Metro works review (file photo)",
+  "alt_hi": "उपमुख्यमंत्री रहते तेजस्वी यादव, नीतीश कुमार के साथ पटना मेट्रो के काम की समीक्षा में (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nitish_Kumar_and_Tejaswi_Yadav_examining_the_work_of_Patna_Metro.jpg"
+ },
+ "india-canada-cepa-sixth-round-concludes-goyal-sidhu": {
+  "id": "o-india-canada-cepa-sixth-round-concludes-goyal-sidhu",
+  "src": "/photos/o-india-canada-cepa-sixth-round-concludes-goyal-sidhu-1280.jpg",
+  "src800": "/photos/o-india-canada-cepa-sixth-round-concludes-goyal-sidhu-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 622,
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal (file photo)",
+  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-canada-cepa-sixth-round-concludes-goyal-sidhu-1280.jpg",
+   "src800": "/photos/t-india-canada-cepa-sixth-round-concludes-goyal-sidhu-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "98383c3e3e3c3c78",
+   "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons"
+  }
+ },
+ "rbi-panchayat-finances-grants-90-per-cent-report": {
+  "id": "r-rbi-panchayat-finances-grants-90-per-cent-report",
+  "src": "/photos/r-rbi-panchayat-finances-grants-90-per-cent-report-1280.jpg",
+  "src800": "/photos/r-rbi-panchayat-finances-grants-90-per-cent-report-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: মঞ্জুর আলম খান / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "A village in Nandigram, West Bengal (file photo)",
+  "alt_hi": "पश्चिम बंगाल के नंदीग्राम का एक गांव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_village_in_Nandigram.jpg",
+  "treated": {
+   "src": "/photos/t-rbi-panchayat-finances-grants-90-per-cent-report-1280.jpg",
+   "src800": "/photos/t-rbi-panchayat-finances-grants-90-per-cent-report-640.jpg",
+   "cutout": false,
+   "with": [
+    "maharashtra-drought-relief-cash-is-not-water-publish-dam-and-tanker-data",
+    "odi-outward-fdi-october-4-65-billion-adani-loan-sun-pharma"
+   ],
+   "kind": "photo",
+   "subj": "ff5f000060787e1e",
+   "credit": "Photos: মঞ্জুর আলম খান / Wikimedia Commons; Suhasajgaonkar / Wikimedia Commons; Sailko / Wikimedia Commons"
+  }
+ },
+ "nepal-india-ties-explained-shah-modi-talks-border-power-trade": {
+  "id": "o-nepal-india-ties-explained-shah-modi-talks-border-power-trade",
+  "src": "/photos/o-nepal-india-ties-explained-shah-modi-talks-border-power-trade-1280.jpg",
+  "src800": "/photos/o-nepal-india-ties-explained-shah-modi-talks-border-power-trade-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 1920,
+  "credit": "Photo: Metro News / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Nepal Prime Minister Balendra Shah (file photo)",
+  "alt_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_03.jpg",
+  "treated": {
+   "src": "/photos/t-nepal-india-ties-explained-shah-modi-talks-border-power-trad-1280.jpg",
+   "src800": "/photos/t-nepal-india-ties-explained-shah-modi-talks-border-power-trad-640.jpg",
+   "cutout": true,
+   "with": [
+    "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
+    "two-japanese-climbers-found-dead-gangapurna-nepal"
+   ],
+   "kind": "photo",
+   "subj": "ffc7171426004c1f",
+   "credit": "Photos: Metro News / Wikimedia Commons; ::ErWin / Wikimedia Commons; Poida Smith / Wikimedia Commons"
+  }
+ },
+ "rafale-india-active-fleet-32-of-36-four-lost-claim": {
+  "id": "o-rafale-india-active-fleet-32-of-36-four-lost-claim",
+  "src": "/photos/o-rafale-india-active-fleet-32-of-36-four-lost-claim-1280.jpg",
+  "src800": "/photos/o-rafale-india-active-fleet-32-of-36-four-lost-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 5000,
+  "credit": "Photo: Dylan Agbagni / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "An Indian Air Force Rafale fighter jet (file photo)",
+  "alt_hi": "भारतीय वायुसेना का राफेल लड़ाकू विमान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Air_Force_Rafale.jpg",
+  "treated": {
+   "src": "/photos/t-rafale-india-active-fleet-32-of-36-four-lost-claim-1280.jpg",
+   "src800": "/photos/t-rafale-india-active-fleet-32-of-36-four-lost-claim-640.jpg",
+   "cutout": false,
+   "with": [
+    "iran-summons-uk-envoy-fairford-false-flag",
+    "iaf-rfp-maintenance-46-atcr-33s-radars-bel",
+    "air-india-ai171-final-report-must-be-public--p2"
+   ],
+   "kind": "photo",
+   "subj": "ffffff4d00000000",
+   "credit": "Photos: Dylan Agbagni / Wikimedia Commons; Colin Cooke Photo / Wikimedia Commons; Rameshng / Wikimedia Commons; Premkudva / Wikimedia Commons"
+  }
+ },
+ "supertech-cji-surya-kant-recuses-special-bench": {
+  "id": "o-supertech-cji-surya-kant-recuses-special-bench",
+  "src": "/photos/o-supertech-cji-surya-kant-recuses-special-bench-1280.jpg",
+  "src800": "/photos/o-supertech-cji-surya-kant-recuses-special-bench-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 4160,
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Surya Kant (file photo)",
+  "alt_hi": "सूर्यकांत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Justice_Surya_Kant.jpg",
+  "treated": {
+   "src": "/photos/t-supertech-cji-surya-kant-recuses-special-bench-1280.jpg",
+   "src800": "/photos/t-supertech-cji-surya-kant-recuses-special-bench-640.jpg",
+   "cutout": true,
+   "with": [
+    "supreme-court-suspends-sentences-bail-two-bilkis-bano-convicts",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "efcfc7c7c7c78118",
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; Subhashish Panigrahi / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
+ },
+ "west-bengal-cabinet-paschim-banga-rename-december-9": {
+  "id": "o-west-bengal-cabinet-paschim-banga-rename-december-9",
+  "src": "/photos/o-west-bengal-cabinet-paschim-banga-rename-december-9-1280.jpg",
+  "src800": "/photos/o-west-bengal-cabinet-paschim-banga-rename-december-9-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 655,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Suvendu Adhikari (file photo)",
+  "alt_hi": "सुवेंदु अधिकारी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Minister_of_West_Bengal,_Shri_Suvendu_Adhikari_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-west-bengal-cabinet-paschim-banga-rename-december-9-1280.jpg",
+   "src800": "/photos/t-west-bengal-cabinet-paschim-banga-rename-december-9-640.jpg",
+   "cutout": true,
+   "with": [
+    "west-bengal-makes-bengali-compulsory-government-work",
+    "gst-explained-slabs-council-revenue-sharing"
+   ],
+   "kind": "photo",
+   "subj": "f7e3e3e3e3e3e7e3",
+   "credit": "Photos: Prime Minister's Office / Wikimedia Commons; Pinakpani / Wikimedia Commons; P.K.Niyogi / Wikimedia Commons"
+  }
+ },
+ "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted": {
+  "id": "r-sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+  "src": "/photos/r-sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted-1280.jpg",
+  "src800": "/photos/r-sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted-640.jpg",
+  "width": 1280,
+  "height": 857,
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Smog over the Delhi skyline (file photo)",
+  "alt_hi": "दिल्ली के आसमान पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_the_skies_of_Delhi,_India.jpg",
+  "treated": {
+   "src": "/photos/t-sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted-1280.jpg",
+   "src800": "/photos/t-sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted-640.jpg",
+   "cutout": false,
+   "with": [
+    "air-purifier-gst-cut-is-fair-but-clean-air-should-not-be-a-purchase",
+    "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today--p2",
+    "delhi-aqi-222-friday-third-poor-day-greater-noida"
+   ],
+   "kind": "photo",
+   "subj": "7fff7f0000c080",
+   "credit": "Photos: wili hybrid / Wikimedia Commons; Prami.ap90 / Wikimedia Commons; Pinakpani / Wikimedia Commons; NOAA / Wikimedia Commons"
+  }
+ },
+ "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks": {
+  "id": "o-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+  "src": "/photos/o-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks-1280.jpg",
+  "src800": "/photos/o-bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 1366,
+  "credit": "Photo: Andreweland / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A Haryana-registered truck in traffic on the road between Delhi and Agra (file photo)",
+  "alt_hi": "दिल्ली और आगरा के बीच सड़क पर यातायात में हरियाणा पंजीकरण का ट्रक (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi_To_Agra_(108013677).jpeg",
+  "treated": {
+   "src": "/photos/t-bs-vi-only-delhi-supreme-court-needs-written-order-and-phase-1280.jpg",
+   "src800": "/photos/t-bs-vi-only-delhi-supreme-court-needs-written-order-and-phase-640.jpg",
+   "cutout": false,
+   "with": [
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1",
+    "sc-bs-vi-only-delhi-ncr-commercial-vehicles-ban-mooted",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell"
+   ],
+   "kind": "photo",
+   "subj": "f9e3e3d181800001",
+   "credit": "Photos: Andreweland / Wikimedia Commons; Pinakpani / Wikimedia Commons; wili hybrid / Wikimedia Commons; Legaleagle86 / Wikimedia Commons"
+  }
+ },
+ "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim": {
+  "id": "o-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
+  "src": "/photos/o-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim-1280.jpg",
+  "src800": "/photos/o-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim-640.jpg",
+  "width": 1280,
+  "height": 851,
+  "srcWidth": 2048,
+  "credit": "Photo: Yann Forget from India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Jairam Ramesh (file photo)",
+  "alt_hi": "जयराम रमेश (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh_-_Yann_Forget.jpg",
+  "treated": {
+   "src": "/photos/t-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophol-1280.jpg",
+   "src800": "/photos/t-sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophol-640.jpg",
+   "cutout": true,
+   "with": [
+    "special-session-of-parliament-explained-shah-offer-cec-removal",
+    "parliament",
+    "sensex-nifty-close-october-19-private-banks-axis"
+   ],
+   "kind": "photo",
+   "subj": "183818002c6efe",
+   "credit": "Photos: Yann Forget from India / Wikimedia Commons; Nikhilb239 / Wikimedia Commons; Narendra Modi / Wikimedia Commons; Appaiah / Wikimedia Commons"
+  }
+ },
+ "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals": {
+  "id": "v-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+  "src": "/photos/v-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-1280.jpg",
+  "src800": "/photos/v-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-640.jpg",
+  "width": 1280,
+  "height": 800,
+  "credit": "Photos: Supreme Court of India / Wikimedia Commons; G41rn8 / Wikimedia Commons",
+  "licence": "GODL-India and CC BY-SA 4.0",
+  "alt": "Chief Justice of India Surya Kant and the Calcutta High Court in Kolkata (file photos)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत और कोलकाता में कलकत्ता हाईकोर्ट (फाइल फोटो)",
+  "page": null,
+  "srcWidth": 1280,
+  "treated": {
+   "src": "/photos/t-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-1280.jpg",
+   "src800": "/photos/t-sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals-640.jpg",
+   "cutout": false,
+   "with": [
+    "calcutta-hc-defers-kmc-elections-ward-delimitation-144-to-209",
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks--p1",
+    "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls--p1"
+   ],
+   "kind": "photo",
+   "subj": "bfffbfbd98106060",
+   "credit": "Photos: Supreme Court of India / Wikimedia Commons; G41rn8 / Wikimedia Commons; Pinakpani / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons"
+  }
+ },
+ "anaemia-icmr-sampada-survey-2023-25-nfhs-5": {
+  "id": "o-anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+  "src": "/photos/o-anaemia-icmr-sampada-survey-2023-25-nfhs-5-1280.jpg",
+  "src800": "/photos/o-anaemia-icmr-sampada-survey-2023-25-nfhs-5-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 3264,
+  "credit": "Photo: Jaisuvyas / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Anganwadi workers with children at an anganwadi centre in India (file photo)",
+  "alt_hi": "आंगनवाड़ी केंद्र पर बच्चों के साथ आंगनवाड़ी कार्यकर्ता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Anganwadi_Day_starts_with_prayer.jpg",
+  "treated": {
+   "src": "/photos/t-anaemia-icmr-sampada-survey-2023-25-nfhs-5-1280.jpg",
+   "src800": "/photos/t-anaemia-icmr-sampada-survey-2023-25-nfhs-5-640.jpg",
+   "cutout": false,
+   "with": [
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "sahajanand-medical-bonfiglioli-listing-debut"
+   ],
+   "kind": "photo",
+   "subj": "f3f3c1c0c080c6c2",
+   "credit": "Photos: Jaisuvyas / Wikimedia Commons; শরদিন্দু ভট্টাচার্য্য / Wikimedia Commons; WakeMed Heart & Vascular / Wikimedia Commons"
+  }
+ },
+ "rbi-stop-switch-trusted-person-explained-draft-digital-fraud": {
+  "id": "r-rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
+  "src": "/photos/r-rbi-stop-switch-trusted-person-explained-draft-digital-fraud-1280.jpg",
+  "src800": "/photos/r-rbi-stop-switch-trusted-person-explained-draft-digital-fraud-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Reserve Bank of India building in Kolkata (file photo)",
+  "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "treated": {
+   "src": "/photos/t-rbi-stop-switch-trusted-person-explained-draft-digital-fraud-1280.jpg",
+   "src800": "/photos/t-rbi-stop-switch-trusted-person-explained-draft-digital-fraud-640.jpg",
+   "cutout": false,
+   "with": [
+    "rbi-stop-switch-trusted-person-explained-draft-digital-fraud--p1",
+    "gst-return-forms-gstr-1-amended-consultation-november-1",
+    "rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute"
+   ],
+   "kind": "photo",
+   "subj": "3838387e7f7c6464",
+   "credit": "Photos: सुबोध कुलकर्णी / Wikimedia Commons; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "shivraj-chouhan-punjab-pmfby-not-implemented-claim": {
+  "id": "o-shivraj-chouhan-punjab-pmfby-not-implemented-claim",
+  "src": "/photos/o-shivraj-chouhan-punjab-pmfby-not-implemented-claim-1280.jpg",
+  "src800": "/photos/o-shivraj-chouhan-punjab-pmfby-not-implemented-claim-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 890,
+  "credit": "Photo: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Shivraj Singh Chouhan (file photo)",
+  "alt_hi": "शिवराज सिंह चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Shivraj_Singh_Chouhan.jpg",
+  "treated": {
+   "src": "/photos/t-shivraj-chouhan-punjab-pmfby-not-implemented-claim-1280.jpg",
+   "src800": "/photos/t-shivraj-chouhan-punjab-pmfby-not-implemented-claim-640.jpg",
+   "cutout": true,
+   "with": [
+    "farm-unions-stubble-not-main-cause-delhi-smog-vehicles-claim",
+    "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions",
+    "farmers-not-only-cause-delhi-pollution-supreme-court-vehicular-emissions-kisan-unions--p1"
+   ],
+   "kind": "photo",
+   "subj": "ffff2010000c7cff",
+   "credit": "Photos: Ministry of Agriculture and Farmers' Welfare / Wikimedia Commons; CIAT / Wikimedia Commons"
+  }
+ },
+ "nipu-urea-six-brownfield-plants-54000-crore": {
+  "id": "o-nipu-urea-six-brownfield-plants-54000-crore",
+  "src": "/photos/o-nipu-urea-six-brownfield-plants-54000-crore-1280.jpg",
+  "src800": "/photos/o-nipu-urea-six-brownfield-plants-54000-crore-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 858,
+  "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_in_2026.jpg",
+  "treated": {
+   "src": "/photos/t-nipu-urea-six-brownfield-plants-54000-crore-1280.jpg",
+   "src800": "/photos/t-nipu-urea-six-brownfield-plants-54000-crore-640.jpg",
+   "cutout": false,
+   "with": [],
+   "kind": "photo",
+   "subj": "b9b9113d2d21ffe7",
+   "credit": "Photo: Ministry of Health and Family Welfare / Wikimedia Commons"
+  }
+ },
+ "nipu-urea-explained": {
+  "id": "o-nipu-urea-explained",
+  "src": "/photos/o-nipu-urea-explained-1280.jpg",
+  "src800": "/photos/o-nipu-urea-explained-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 633,
+  "credit": "Photo: President's Secretariat / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "J. P. Nadda (file photo)",
+  "alt_hi": "जे. पी. नड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jagat_Prakash_Nadda_2023.jpg",
+  "treated": {
+   "src": "/photos/t-nipu-urea-explained-1280.jpg",
+   "src800": "/photos/t-nipu-urea-explained-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "c9c1c1c1c1c3c3c3",
+   "credit": "Photo: President's Secretariat / Wikimedia Commons"
+  }
+ },
+ "commerce-ministry-no-structural-excess-capacity-any-sector-claim": {
+  "id": "o-commerce-ministry-no-structural-excess-capacity-any-sector-claim",
+  "src": "/photos/o-commerce-ministry-no-structural-excess-capacity-any-sector-claim-1280.jpg",
+  "src800": "/photos/o-commerce-ministry-no-structural-excess-capacity-any-sector-claim-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 622,
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal (file photo)",
+  "alt_hi": "पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piyush_Goyal_(cropped).jpg"
+ },
+ "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches": {
+  "id": "r-constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+  "src": "/photos/r-constitution-day-77th-modi-article-congress-samvidhan-raksha-marches-1280.jpg",
+  "src800": "/photos/r-constitution-day-77th-modi-article-congress-samvidhan-raksha-marches-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Narendra Modi / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Prime Minister Narendra Modi (file photo)",
+  "alt_hi": "प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Narendra_Damodardas_Modi.jpg",
+  "treated": {
+   "src": "/photos/t-constitution-day-77th-modi-article-congress-samvidhan-raksha-1280.jpg",
+   "src800": "/photos/t-constitution-day-77th-modi-article-congress-samvidhan-raksha-640.jpg",
+   "cutout": true,
+   "with": [
+    "assembly-elections-2027-dates-up-punjab-uttarakhand-goa-manipur--p1",
+    "eci-form-6-press-note-taken-down-claim",
+    "bills-in-parliament-tracker"
+   ],
+   "kind": "photo",
+   "subj": "ffe7e7e7e1e1c0c0",
+   "credit": "Photos: Narendra Modi / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
+  }
+ }
+}

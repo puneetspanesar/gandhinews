@@ -160,6 +160,10 @@ def lint_story(lang, sid, fm, twin):
     vs = (fm.get('verification') or {}).get('status')
     # Owner, November 20, 2026 (audit): a news story published from today must rest on an official source it links,
     # marked primary: true (a filing, order, release, dataset or on-the-record statement), and its SEO title must fit.
+    # Relaunched edition (owner, November 26, 2026): the rule now covers every format, whatever its date:
+    # news, explainers, fact checks and editorials all link at least one official source marked primary: true.
+    if lang == 'en' and fm.get('type') in ('explainer', 'factcheck', 'editorial') and not any(isinstance(x, dict) and x.get('primary') for x in (fm.get('sources') or [])):
+        fail(G, rel, 'no source marked primary: true; every piece links at least one official document, order, release or dataset')
     if lang == 'en' and fm.get('type') == 'news' and fm['_pub'] and fm['_pub'] >= dt.datetime(2026, 11, 21, tzinfo=IST):
         if not any(isinstance(x, dict) and x.get('primary') for x in (fm.get('sources') or [])):
             fail(G, rel, 'no source marked primary: true; build the story on an official document, order, release or dataset, or do not publish it')
@@ -372,7 +376,7 @@ def page_ids(htm, lang):
     pre = '/hi' if lang == 'hi' else ''
     ids = []
     for m in re.finditer(r'<a\b[^>]*\bhref\s*=\s*["\']([^"\']+)["\']', htm, re.I):
-        mm = re.match(rf'^{pre}/(?:politics|world|economy|science|sports|states|policy|parliament)/([a-z0-9-]+)/$', m.group(1))
+        mm = re.match(rf'^{pre}/(?:politics|states|elections|law|policy|economy|world)/([a-z0-9-]+)/$', m.group(1))
         if mm and mm.group(1) not in ids: ids.append(mm.group(1))
     return ids
 
