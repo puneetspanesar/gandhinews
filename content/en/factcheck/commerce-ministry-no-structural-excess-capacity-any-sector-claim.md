@@ -93,7 +93,7 @@ The Ministry of Steel puts India's crude steel capacity at **220.4 million tonne
 
 ### 3. Solar modules: the numbers do not
 
-A PIB release of August 2, 2026 says India's solar installed capacity was 162.15 GW at the end of June and that **44.61 GW was added in 2025-26**. The same release puts module manufacturing capacity at about 172 GW on March 31, 2026, up from 2.3 GW in 2014. That is **nearly four times (3.9 times) a year's installations**. Some modules go to exports and some capacity is not fully built or used, so this is not proof of a glut, and the release is silent on utilisation. But a government that says no sector has excess capacity has to explain why one it promotes has capacity several times its home demand.
+A PIB release of August 2, 2026, says India's solar installed capacity was 162.15 GW at the end of June and that **44.61 GW was added in 2025-26**. The same release puts module manufacturing capacity at about 172 GW on March 31, 2026, up from 2.3 GW in 2014. That is **nearly four times (3.9 times) a year's installations**. Some modules go to exports and some capacity is not fully built or used, so this is not proof of a glut, and the release is silent on utilisation. But a government that says no sector has excess capacity has to explain why one it promotes has capacity several times its home demand.
 
 ### 4. What "structural" means
 

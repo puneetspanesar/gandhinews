@@ -1,0 +1,23 @@
+{
+ "run": "longform-m",
+ "start": "2026-11-26T06:37:50+05:30",
+ "end": "2026-11-26T07:04:41+05:30",
+ "summary": "3 pieces: NIPU urea explainer, SAMPADA anaemia editorial, Commerce excess-capacity fact check",
+ "new": [
+  "anaemia-sampada-survey-must-publish-the-method-bridge-before-claiming-progress",
+  "nipu-urea-explained",
+  "commerce-ministry-no-structural-excess-capacity-any-sector-claim"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "business saturation and urea subject twice in the top",
+   "done": "refresh_home.py --drop nipu-urea-six-brownfield-plants-54000-crore pli-auto-incentive-4385-crore-heavy-industries (plus space-economy and anaemia news for gate): one urea slot, two fewer business items, world and policy stories now fill the top"
+  }
+ ],
+ "breaches": [],
+ "lead": "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries"
+}
