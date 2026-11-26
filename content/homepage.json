@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-section-301-india-25-per-cent-tariff-excess-capacity",
+    "id": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
     "overlay": {
       "kicker": {
-        "en": "World / India-US",
-        "hi": "दुनिया / भारत-अमेरिका"
+        "en": "Politics / Constitution Day",
+        "hi": "राजनीति / संविधान दिवस"
       },
       "value": {
-        "en": "US tariff of up to 25% proposed on India",
-        "hi": "भारत पर 25% तक अमेरिकी टैरिफ प्रस्तावित"
+        "en": "77th Constitution Day, two ways to mark it",
+        "hi": "77वां संविधान दिवस, मनाने के दो तरीके"
       },
       "text": {
         "en": "",
@@ -17,33 +17,22 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-      "russia-sanctions-law-waiver-explained-india-oil",
-      "india-us-trade"
+      "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+      "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+      "delimitation-special-session-needs-the-bill-text-and-21-days-notice"
     ],
     "relatedBeside": [
-      "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches"
+      "iora-council-of-ministers-new-delhi-india-chair"
     ],
     "live": {
       "title": {
-        "en": "India-US",
-        "hi": "भारत-अमेरिका"
+        "en": "Constitution Day",
+        "hi": "संविधान दिवस"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
-        "lead": {
-          "en": "Constitution Day:",
-          "hi": "संविधान दिवस:"
-        },
-        "text": {
-          "en": "On Constitution Day, Modi blames Opposition for women's quota defeat as Congress marches over voter rolls",
-          "hi": "संविधान दिवस पर मोदी ने महिला आरक्षण की हार के लिए विपक्ष को घेरा, कांग्रेस ने वोटर लिस्ट पर निकाला मार्च"
-        }
-      },
       {
         "link": "iora-council-of-ministers-new-delhi-india-chair",
         "lead": {
@@ -53,6 +42,17 @@
         "text": {
           "en": "India hosts Indian Ocean Rim foreign ministers in New Delhi on Friday as Jaishankar meets Mauritius counterpart",
           "hi": "शुक्रवार को नई दिल्ली में हिंद महासागर रिम देशों के विदेश मंत्रियों की मेजबानी करेगा भारत, जयशंकर मॉरीशस के समकक्ष से मिले"
+        }
+      },
+      {
+        "link": "us-section-301-india-25-per-cent-tariff-excess-capacity",
+        "lead": {
+          "en": "India-US:",
+          "hi": "भारत-अमेरिका:"
+        },
+        "text": {
+          "en": "US proposes tariff of up to 25% on all Indian goods over 'excess capacity'; India says it has none",
+          "hi": "अमेरिका ने 'अतिरिक्त क्षमता' के नाम पर भारतीय सामान पर 25% तक टैरिफ प्रस्तावित किया, भारत बोला: ऐसी कोई क्षमता नहीं"
         }
       },
       {
@@ -78,14 +78,14 @@
         }
       },
       {
-        "link": "pli-auto-incentive-4385-crore-heavy-industries",
+        "link": "nipu-urea-six-brownfield-plants-54000-crore",
         "lead": {
-          "en": "Auto Industry:",
-          "hi": "ऑटो उद्योग:"
+          "en": "Fertilisers:",
+          "hi": "उर्वरक:"
         },
         "text": {
-          "en": "Auto PLI has paid ₹4,385 crore this year, 65% of the ₹6,772 crore paid since the scheme began",
-          "hi": "ऑटो पीएलआई में इस साल ₹4,385 करोड़ बंटे, शुरुआत से अब तक के ₹6,772 करोड़ का 65%"
+          "en": "Centre approves six new urea plants worth about ₹54,000 crore as India's import gap tops 100 lakh tonnes",
+          "hi": "केंद्र ने मंजूर किए छह नए यूरिया संयंत्र, करीब ₹54,000 करोड़ का निवेश; आयात का अंतर 100 लाख टन से ऊपर"
         }
       },
       {
@@ -97,28 +97,6 @@
         "text": {
           "en": "India's space economy, about $9 billion now, could reach $40-45 billion in under a decade, says Jitendra Singh",
           "hi": "भारत की अंतरिक्ष अर्थव्यवस्था अभी करीब 9 अरब डॉलर, एक दशक से कम में 40-45 अरब डॉलर तक पहुंच सकती है: जितेंद्र सिंह"
-        }
-      },
-      {
-        "link": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
-        "lead": {
-          "en": "Gulf:",
-          "hi": "खाड़ी:"
-        },
-        "text": {
-          "en": "India condemns Riyadh tower attack after two Indians among 11 injured",
-          "hi": "रियाद टावर पर हमले में 11 घायल, दो भारतीय भी शामिल; भारत ने की निंदा"
-        }
-      },
-      {
-        "link": "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
-        "lead": {
-          "en": "Editorial:",
-          "hi": "संपादकीय:"
-        },
-        "text": {
-          "en": "Bengal's 38 lakh SIR appeals need more tribunals and a weekly public count",
-          "hi": "बंगाल की 38 लाख एसआईआर अपीलों के लिए और ट्रिब्यूनल और साप्ताहिक सार्वजनिक गिनती चाहिए"
         }
       }
     ]
@@ -186,19 +164,16 @@
   },
   "topStories": {
     "big": {
-      "id": "iora-council-of-ministers-new-delhi-india-chair",
+      "id": "us-section-301-india-25-per-cent-tariff-excess-capacity",
       "also": []
     },
     "list": [
       "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
       "cabinet-postal-operations-scheme-1141-crore-india-post",
-      "pli-auto-incentive-4385-crore-heavy-industries",
-      "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
-      "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured"
+      "nipu-urea-six-brownfield-plants-54000-crore",
+      "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave"
     ],
-    "also": [
-      "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
-    ]
+    "also": []
   },
   "startHere": [
     "nipu-urea-explained",
@@ -390,9 +365,9 @@
         ]
       },
       "list": [
-        "pli-auto-incentive-4385-crore-heavy-industries",
         "nipu-urea-six-brownfield-plants-54000-crore",
-        "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries"
+        "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+        "rbi-stop-switch-trusted-person-draft-digital-fraud"
       ]
     },
     {
@@ -449,22 +424,21 @@
         "hi": "कल"
       },
       "text": {
-        "en": "Opposition and government carry their Constitution Day arguments into the run-up to the winter Parliament session",
-        "hi": "विपक्ष और सरकार संविधान दिवस की बहस को संसद के शीतकालीन सत्र की तैयारी तक ले जा रहे हैं"
+        "en": "25th IORA Council of Ministers meets in New Delhi",
+        "hi": "नई दिल्ली में आईओआरए की 25वीं मंत्रिपरिषद बैठक"
       },
-      "link": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches"
+      "link": "iora-council-of-ministers-new-delhi-india-chair"
     },
     {
-      "icon": "calendar-blank",
+      "icon": "bank",
       "date": {
         "en": "Tomorrow",
         "hi": "कल"
       },
       "text": {
-        "en": "25th IORA Council of Ministers meets in New Delhi",
-        "hi": "नई दिल्ली में आईओआरए की 25वीं मंत्रिपरिषद बैठक"
-      },
-      "link": "iora-council-of-ministers-new-delhi-india-chair"
+        "en": "RBI's weekly forex reserves figures",
+        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
+      }
     },
     {
       "icon": "calendar-blank",
@@ -618,24 +592,25 @@
       ]
     },
     {
-      "at": "2026-11-26T14:26:10+05:30",
+      "at": "2026-11-26T14:35:19+05:30",
       "ids": [
-        "us-section-301-india-25-per-cent-tariff-excess-capacity",
-        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-        "russia-sanctions-law-waiver-explained-india-oil",
-        "india-us-trade",
         "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
         "iora-council-of-ministers-new-delhi-india-chair",
+        "us-section-301-india-25-per-cent-tariff-excess-capacity",
         "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
         "cabinet-postal-operations-scheme-1141-crore-india-post",
-        "pli-auto-incentive-4385-crore-heavy-industries",
-        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
-        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
-        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave"
       ]
     }
   ],
   "critical": [],
-  "drop": [],
+  "drop": [
+    "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+    "pli-auto-incentive-4385-crore-heavy-industries"
+  ],
   "mustReadEn": 7
 }

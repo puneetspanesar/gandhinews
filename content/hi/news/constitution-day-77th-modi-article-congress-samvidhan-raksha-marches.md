@@ -22,10 +22,6 @@ hero:
   overlay:
     value: "77वां संविधान दिवस, मनाने के दो तरीके"
 related: [special-session-delimitation-bill-shah-361-votes-jairam-bluster, priyanka-special-session-delimitation-not-informed-nov-24-25, nadda-bhopal-loktantra-bachao-march-emergency-rahul, assam-congress-vote-rakshaks-polling-booths-roll-revision, cji-surya-kant-ambedkar-constitution-continuing-responsibility]
-upcoming:
-  date: 2026-11-27
-  en: "Opposition and government carry their Constitution Day arguments into the run-up to the winter Parliament session"
-  hi: "विपक्ष और सरकार संविधान दिवस की बहस को संसद के शीतकालीन सत्र की तैयारी तक ले जा रहे हैं"
 seo:
   title: "संविधान दिवस 2026: मोदी का लेख, कांग्रेस के मार्च"
   description: "77वें संविधान दिवस पर मोदी ने लिखा कि महिलाओं को न्याय से कोई नहीं रोक सकता; कांग्रेस ने वोटर लिस्ट और चुनाव आयोग पर मार्च निकाले।"
@@ -82,7 +78,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "NO PRIMARY SOURCE OPENED. The PM's article text (narendramodi.in, pmindia.gov.in, pib.gov.in) did not surface in any search and direct fetches returned PROVENANCE_REQUIRED; the Congress statement on X is robots-blocked; the CJI's Constitution Day address was not found in any source. Every primary flag is therefore false and audit.py will fail the story on that rule. Written from several agreeing reports as the run brief allows; replace with the article text when found."
+    - "Primary: the Ministry of Parliamentary Affairs release of November 25, 2026, 6:26 pm (PIB ID 2341449), read this run: Preamble reading on MyGov in 23 languages, Constitution Quiz November 18 to 26 on MyGov and MyBharat, Viksit Bharat Yuva Samvad in 786 districts of all 36 States and UTs, November 24 to 26. The PM article text itself did not surface (narendramodi.in, pmindia.gov.in fetches refused); its quotes rest on several reports that agree. The Congress X post is robots-blocked. The CJI address was not found."
     - "PM article: format and quotes taken from Siasat (12:18 pm IST), The Logical Indian (12:35 pm), The Open Press (11:57 am; says it is a signed piece for The Indian Express), Dainik Jagran (11:43 am; calls it a blog post). Quoted lines appear in at least two of them: 'no force can prevent us from ensuring that justice is done to them', 'most appalling', 'Avrodh Paksh', 'Virodh Paksh', 'disdain for constitutional values'. The 'fill our hearts with shame' line is from Siasat only and is paraphrased. Whether the piece names Congress is reported inconsistently; copy says 'the main Opposition party' as the article is reported to."
     - "Bill vote: 298 for, 230 against, April 17, 2026 (Siasat, Logical Indian, Dainik Jagran). The threshold is given as 352 by Siasat and Neo Politico and is not used in the copy; our own November 12 story speaks of 361 needed for the planned special session, an unresolved difference. 'Two related bills withdrawn' is from Dainik Jagran only."
     - "Congress marches: Venugopal's quote is from the search-result listing of the INC post; Kharge at Lucknow, Gandhi or Ambedkar statues, Preamble reading and pledge from Dainik Jagran (12:06 pm). No city list beyond Lucknow. No Congress reaction to Modi's article found at 2:40 pm."

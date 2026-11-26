@@ -21,10 +21,6 @@ hero:
   overlay:
     value: "77th Constitution Day, two ways to mark it"
 related: [special-session-delimitation-bill-shah-361-votes-jairam-bluster, priyanka-special-session-delimitation-not-informed-nov-24-25, nadda-bhopal-loktantra-bachao-march-emergency-rahul, assam-congress-vote-rakshaks-polling-booths-roll-revision, cji-surya-kant-ambedkar-constitution-continuing-responsibility]
-upcoming:
-  date: 2026-11-27
-  en: "Opposition and government carry their Constitution Day arguments into the run-up to the winter Parliament session"
-  hi: "विपक्ष और सरकार संविधान दिवस की बहस को संसद के शीतकालीन सत्र की तैयारी तक ले जा रहे हैं"
 seo:
   title: "Constitution Day 2026: Modi article, Congress marches"
   description: "On the 77th Constitution Day, Modi wrote that no force can stop justice for women; Congress held Samvidhan Raksha marches over voter rolls and the EC."
