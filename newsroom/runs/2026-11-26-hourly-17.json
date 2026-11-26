@@ -1,0 +1,15 @@
+{
+ "run": "hourly-17",
+ "start": "2026-11-26T17:04:51+05:30",
+ "end": "2026-11-26T17:30:56+05:30",
+ "summary": "SEBI KRA KYC circular; Uttarakhand report card held; markets close",
+ "new": [
+  "sebi-kra-kyc-circular-onboarding-december-24"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}

@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / Markets"
 topics: [economy]
 title: "Sebi eases KYC for investors: brokers must share more through KRAs and delink closed accounts from December 24"
-standfirst: "A circular issued on November 25, 2026 asks brokers, depositories and fund houses to upload common client details once to the KYC registration agencies, report closed and dormant accounts within days, and drop repeat checks on Aadhaar-seeded mobile numbers."
+standfirst: "A circular issued on November 25, 2026, asks brokers, depositories and fund houses to upload common client details once to the KYC registration agencies, report closed and dormant accounts within days, and drop repeat checks on Aadhaar-seeded mobile numbers."
 published: 2026-11-26T17:20:00+05:30
 location: Mumbai
 keyPoints:
@@ -33,7 +33,7 @@ infographic:
 related: [sebi-pandey-graded-compliance-stockbrokers-anmi, sebi-settlement-regulations-2026-in-force-online-facility-fees, sebi-new-settlement-rules-fast-track-up-to-10-lakh]
 seo:
   title: "Sebi KYC circular: KRA changes for investors from Dec 24"
-  description: "Sebi's November 25, 2026 circular centralises client details at KYC registration agencies, delinks closed accounts and eases name-change and OCI rules from December 24."
+  description: "Sebi's November 25, 2026, circular centralises client details at KYC registration agencies, delinks closed accounts and eases name-change and OCI rules from December 24."
 sources:
   - title: "Sebi circular HO/38/14/(25)2026-MIRSD-POD3: Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies (KRAs), November 25, 2026"
     publisher: "Securities and Exchange Board of India"
@@ -58,7 +58,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "The circular PDF on sebi.gov.in could not be opened by the fetch tool (permission not granted). Circular text, number, date and clause numbers were read in two independent reproductions of it (caclubindia, taxguru), which agree. January 16, 2026 consultation details from taxguru. No industry or investor reaction found on the record; the story says so. Main photo: Tuhin Kanta Pandey, library file photo (Ministry of Finance, GODL-India). Sebi chairman is named only for the photo and as head of the regulator; the circular is signed by a Deputy General Manager."
+    - "The circular PDF on sebi.gov.in could not be opened by the fetch tool (permission not granted). Circular text, number, date and clause numbers were read in two independent reproductions of it (caclubindia, taxguru), which agree. January 16, 2026, consultation details from taxguru. No industry or investor reaction found on the record; the story says so. Main photo: Tuhin Kanta Pandey, library file photo (Ministry of Finance, GODL-India). Sebi chairman is named only for the photo and as head of the regulator; the circular is signed by a Deputy General Manager."
 ---
 
 The Securities and Exchange Board of India has changed how investors' identity records are kept and shared across the market. In a circular dated **November 25, 2026**, the regulator told brokers, depositories, exchanges and clearing corporations to push common client details to the KYC registration agencies, or KRAs, and to tell those agencies when an account is closed or never opened. The rules **take effect on December 24, 2026**.
