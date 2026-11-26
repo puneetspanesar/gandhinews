@@ -28,12 +28,13 @@ export const PUBLISHER = {
   verificationFactCheckingPolicy: `${SITE_URL}/fact-check/methodology/`,
   noBylinesPolicy: `${SITE_URL}/ai-policy/`,
   actionableFeedbackPolicy: `${SITE_URL}/contact/`,
-  founder: { '@type': 'Person', name: 'Puneet Panesar', url: `${SITE_URL}/editor/` },
+  founder: { '@type': 'Person', name: 'Puneet Panesar', url: `${SITE_URL}/editor/`, sameAs: ['https://www.linkedin.com/in/panesarpuneet/'] },
+  address: { '@type': 'PostalAddress', streetAddress: 'WeWork Vaswani Chambers, 1st Floor, 264-265 Dr Annie Besant Road, Worli', addressLocality: 'Mumbai', addressRegion: 'Maharashtra', postalCode: '400030', addressCountry: 'IN' },
   parentOrganization: { '@type': 'Organization', name: 'Thar Media and Publications', url: 'https://wearethar.com/' },
   ...(SAME_AS.length ? { sameAs: SAME_AS } : {}),
 };
 export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/about/`, parentOrganization: { '@id': `${SITE_URL}/#organization` } };
-export const EDITOR = { '@type': 'Person', name: 'Puneet Panesar', jobTitle: 'Editor-in-Chief', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
+export const EDITOR = { '@type': 'Person', name: 'Puneet Panesar', jobTitle: 'Editor-in-Chief', url: `${SITE_URL}/editor/`, sameAs: ['https://www.linkedin.com/in/panesarpuneet/'], alumniOf: { '@type': 'CollegeOrUniversity', name: 'Symbiosis Institute of Computer Studies and Research' }, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
 /** The story's own photo (content/photos.map.json), for og:image and schema; null when it has none. */

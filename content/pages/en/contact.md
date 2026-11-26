@@ -4,7 +4,7 @@ lang: en
 path: contact
 title: "Contact"
 description: "How to reach the Gandhi News editor, send a tip or a claim to fact check, ask for a correction or raise a complaint."
-updated: 2026-10-11
+updated: 2026-11-26
 ---
 
 ## The editor
@@ -29,4 +29,4 @@ For questions about your personal data, see our [privacy policy](/privacy/) or w
 
 ## Post
 
-Gandhi News is published by Puneet Panesar. Email: puneet@thar.co. Phone and WhatsApp: +91 77609 06195.
+Gandhi News is published by Thar Media and Publications, WeWork Vaswani Chambers, 1st Floor, 264-265 Dr Annie Besant Road, Worli, Mumbai 400030, India. Email: puneet@thar.co. Phone and WhatsApp: +91 77609 06195.
