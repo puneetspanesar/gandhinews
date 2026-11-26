@@ -61,7 +61,7 @@ The article builds an import-intensity-weighted CPI on the new series, which use
 
 ## What the RBI says drives imported inflation
 
-Food and fuel were the main channels of imported inflation during the Covid-19 pandemic and after Russia's invasion of Ukraine. The bulletin says **precious metals have now become a notable source of imported core inflation**. Business Standard's account of the bulletin adds that higher precious metals prices have fed through since 2024.
+Food and fuel were the main channels of imported inflation during the Covid-19 pandemic and after Russia's invasion of Ukraine. The bulletin says **precious metals have now become a notable source of imported core inflation**. According to reports on the bulletin, higher precious metals prices have fed through since 2024.
 
 That matters because gold and silver jewellery sit inside the core measure that the RBI watches for signs of a broad price trend. In October's data, silver jewellery was still rising 52.39% from a year earlier, down from 87.82% in September.
 

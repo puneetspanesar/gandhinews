@@ -1,0 +1,17 @@
+{
+ "run": "hourly-11",
+ "start": "2026-11-26T11:04:41+05:30",
+ "end": "2026-11-26T11:40:50+05:30",
+ "summary": "1 story (RBI bulletin imported inflation), SP story dropped for no official source, homepage rebalanced",
+ "new": [
+  "rbi-bulletin-imported-items-18-per-cent-cpi-inflation"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [
+  "markets band figures are more than 6 hours old while the market is open: 2026-11-25T17:25:00+05:30"
+ ],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}
