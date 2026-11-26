@@ -53708,5 +53708,48 @@
    "subj": "141c1818185e7ff",
    "credit": "Photo: Ministry of Railways / Wikimedia Commons"
   }
+ },
+ "rbi-bulletin-imported-items-18-per-cent-cpi-inflation": {
+  "id": "i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+  "src": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-en-3x2-1280.jpg",
+  "src800": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Imports: 8.5% of the basket, 18% of inflation",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बास्केट में आयात 8.5%, महंगाई में 18%",
+  "page": null,
+  "ihash": "eb9538a65e0e",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-en-t-1280.jpg",
+    "src800": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-hi-t-1280.jpg",
+    "src800": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-en-1280.jpg",
+    "src800": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-hi-1280.jpg",
+    "src800": "/photos/i-rbi-bulletin-imported-items-18-per-cent-cpi-inflation-hi-640.jpg"
+   }
+  },
+  "nophoto": "Reserve Bank of India building / Governor Sanjay Malhotra (RBI photo used by stop-switch story within 48h)"
  }
 }
