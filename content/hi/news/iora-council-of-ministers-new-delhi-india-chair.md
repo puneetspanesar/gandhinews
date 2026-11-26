@@ -35,10 +35,8 @@ infographic:
     - {icon: globe, value: "23", label: "सदस्य देश"}
     - {icon: handshake, value: "12", label: "संवाद साझेदार"}
   timeline:
-    title: "दिल्ली की बैठकें"
-    items:
-      - {date: "25-26 नवंबर", text: "29वीं वरिष्ठ अधिकारी समिति", icon: users}
-      - {date: "27 नवंबर", text: "25वीं मंत्रिपरिषद", icon: handshake}
+    - {date: "25-26 नवंबर", text: "29वीं वरिष्ठ अधिकारी समिति", icon: users}
+    - {date: "27 नवंबर", text: "25वीं मंत्रिपरिषद", icon: handshake}
   source: "आईओआरए, विदेश मंत्रालय, नवंबर 2026"
 seo:
   title: "दिल्ली में आईओआरए की 25वीं मंत्रिपरिषद बैठक"

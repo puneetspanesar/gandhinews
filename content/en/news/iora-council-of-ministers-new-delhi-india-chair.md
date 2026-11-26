@@ -34,10 +34,8 @@ infographic:
     - {icon: globe, value: "23", label: "member states"}
     - {icon: handshake, value: "12", label: "dialogue partners"}
   timeline:
-    title: "The Delhi meetings"
-    items:
-      - {date: "Nov 25-26", text: "29th Committee of Senior Officials", icon: users}
-      - {date: "Nov 27", text: "25th Council of Ministers", icon: handshake}
+    - {date: "Nov 25-26", text: "29th Committee of Senior Officials", icon: users}
+    - {date: "Nov 27", text: "25th Council of Ministers", icon: handshake}
   source: "IORA, Ministry of External Affairs, November 2026"
 seo:
   title: "India hosts 25th IORA Council of Ministers in Delhi"
@@ -110,7 +108,7 @@ According to reports, ministers and officials from 23 member states and 12 dialo
 
 ## How the meetings have run
 
-The last Council of Ministers, the 24th, was held virtually on May 21, 2025 under Sri Lanka's chairmanship, with India as vice-chair. It adopted **IORA guidelines on combating illegal, unreported and unregulated fishing**, a Climate Change Strategic Agenda and the Colombo Communiqué. The meetings covered six priority areas: maritime safety and security; trade and investment; disaster risk management; fisheries management; academic, science and technology cooperation; and tourism and cultural exchanges. Blue economy and women's economic empowerment run across all of them.
+The last Council of Ministers, the 24th, was held virtually on May 21, 2025, under Sri Lanka's chairmanship, with India as vice-chair. It adopted **IORA guidelines on combating illegal, unreported and unregulated fishing**, a Climate Change Strategic Agenda and the Colombo Communiqué. The meetings covered six priority areas: maritime safety and security; trade and investment; disaster risk management; fisheries management; academic, science and technology cooperation; and tourism and cultural exchanges. Blue economy and women's economic empowerment run across all of them.
 
 ```timeline
 {"title":"The road to Delhi","items":[{"date":"May 21, 2025","text":"24th Council of Ministers meets virtually under Sri Lanka's chair and adopts the Colombo Communiqué."},{"date":"June 15 and 16, 2026","text":"28th Committee of Senior Officials meets in New Delhi."},{"date":"November 25 and 26, 2026","text":"29th Committee of Senior Officials meets in New Delhi."},{"date":"November 27, 2026","text":"25th Council of Ministers meets in New Delhi."}]}
