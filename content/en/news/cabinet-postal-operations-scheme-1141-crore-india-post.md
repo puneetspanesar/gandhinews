@@ -20,7 +20,7 @@ hero:
   alt: "Union Minister Ashwini Vaishnaw"
   overlay:
     value: "₹1,141 crore for the post office"
-related: [cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries, cabinet-approves-integrated-transport-logistics-authority]
+related: [ppf-sukanya-scss-nsc-interest-rates-october-december-2026, cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries]
 seo:
   title: "Cabinet extends Postal Operations scheme, ₹1,141 crore"
   description: "The Union Cabinet approved ₹1,141 crore for India Post's Postal Operations scheme to 2030-31: rural post offices, parcel hubs, smart letter boxes and more."

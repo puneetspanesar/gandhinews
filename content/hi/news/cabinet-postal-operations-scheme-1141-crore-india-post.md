@@ -21,7 +21,7 @@ hero:
   alt: "केंद्रीय मंत्री अश्विनी वैष्णव"
   overlay:
     value: "डाकघर के लिए ₹1,141 करोड़"
-related: [cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries, cabinet-approves-integrated-transport-logistics-authority]
+related: [ppf-sukanya-scss-nsc-interest-rates-october-december-2026, cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries]
 seo:
   title: "कैबिनेट ने डाक संचालन योजना बढ़ाई, ₹1,141 करोड़"
   description: "केंद्रीय कैबिनेट ने इंडिया पोस्ट की डाक संचालन योजना के लिए 2030-31 तक ₹1,141 करोड़ मंजूर किए: ग्रामीण डाकघर, पार्सल हब और स्मार्ट लेटर बॉक्स।"
