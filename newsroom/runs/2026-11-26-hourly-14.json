@@ -1,0 +1,18 @@
+{
+ "run": "hourly-14",
+ "start": "2026-11-26T14:04:17+05:30",
+ "end": "2026-11-26T14:41:11+05:30",
+ "summary": "Constitution Day lead, IORA preview; Rahul Gandhi assets story held (no primary)",
+ "new": [
+  "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+  "iora-council-of-ministers-new-delhi-india-chair"
+ ],
+ "held": [
+  "sc-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-fresh-bench"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches"
+}
