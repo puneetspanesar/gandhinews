@@ -24,7 +24,7 @@ hero:
 infographic:
   kicker: "Section 301 finding"
   headline: "US proposes up to 25% tariff on Indian goods"
-  dek: "Comments are due January 5, 2027 and hearings start January 25"
+  dek: "Comments are due January 5, 2027, and hearings start January 25"
   motif: scales
   stats:
     - {icon: percent, value: "25%", label: "highest additional tariff proposed on India, net of existing Section 301 duties"}
@@ -99,7 +99,7 @@ Some goods would be left out. Articles already under Section 232 duties, which i
 
 ## How the 25% would work with the existing duty
 
-Indian goods already pay a **10% Section 301 duty**, imposed from July 24, 2026 after a separate forced-labour investigation. The notices do not spell out how the "net of" calculation works. If it follows the example law firms give for Bangladesh, a 10% duty already paid plus an extra 8% to reach an 18% ceiling, then a product paying the July duty could face roughly **15 more percentage points**. That is a reading of the notices, not a figure USTR has stated.
+Indian goods already pay a **10% Section 301 duty**, imposed from July 24, 2026, after a separate forced-labour investigation. The notices do not spell out how the "net of" calculation works. If it follows the example law firms give for Bangladesh, a 10% duty already paid plus an extra 8% to reach an 18% ceiling, then a product paying the July duty could face roughly **15 more percentage points**. That is a reading of the notices, not a figure USTR has stated.
 
 The finding follows an investigation launched on March 11, 2026, covering 16 economies. USTR heard nearly 140 witnesses and received about 1,070 comments. It made findings against 14: India, China, the European Union, Japan, South Korea, Switzerland, Taiwan, Singapore, Vietnam, Bangladesh, Cambodia, Indonesia, Malaysia and Thailand. Mexico and Norway have no determination yet. Proposed rates for the others range from 15% for the EU, Japan, South Korea, Switzerland and Taiwan up to 35% for Vietnam.
 

@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Space"
 topics: []
-title: "India's space economy, about $9 billion today, could reach $40-45 billion in under a decade, says Jitendra Singh"
+title: "India's space economy, about $9 billion now, could reach $40-45 billion in under a decade, says Jitendra Singh"
 standfirst: "Speaking at the India International Space Conclave in Delhi, the minister of state for space said the sector has grown from a handful of startups to 400-500 companies since it was opened to private players, and asked industry to invest more."
 published: 2026-11-25T14:25:00+05:30
 location: New Delhi

@@ -1,0 +1,16 @@
+{
+ "run": "hourly-08",
+ "start": "2026-11-26T08:04:20+05:30",
+ "end": "2026-11-26T08:31:15+05:30",
+ "summary": "US Section 301 tariff lead, Cabinet postal scheme",
+ "new": [
+  "cabinet-postal-operations-scheme-1141-crore-india-post",
+  "us-section-301-india-25-per-cent-tariff-excess-capacity"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}
