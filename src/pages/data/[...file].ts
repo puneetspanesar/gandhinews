@@ -3,6 +3,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { CONTENT } from '../../lib/routes.mjs';
 export function getStaticPaths() {
+  // On hold for the relaunch (content/relaunch.json): the tracker data files are not published.
+  if (JSON.parse(fs.readFileSync(path.join(CONTENT, 'relaunch.json'), 'utf8')).hold === true) return [];
   const dir = path.join(CONTENT, 'data');
   const files = [
     ...fs.readdirSync(dir).filter((f) => f.endsWith('.json')),

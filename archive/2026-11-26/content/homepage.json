@@ -1,0 +1,641 @@
+{
+  "lead": {
+    "id": "us-section-301-india-25-per-cent-tariff-excess-capacity",
+    "overlay": {
+      "kicker": {
+        "en": "World / India-US",
+        "hi": "दुनिया / भारत-अमेरिका"
+      },
+      "value": {
+        "en": "US tariff of up to 25% proposed on India",
+        "hi": "भारत पर 25% तक अमेरिकी टैरिफ प्रस्तावित"
+      },
+      "text": {
+        "en": "",
+        "hi": ""
+      }
+    },
+    "dataBox": [],
+    "relatedBelow": [
+      "commerce-ministry-no-structural-excess-capacity-any-sector-claim",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+      "russia-sanctions-law-waiver-explained-india-oil"
+    ],
+    "relatedBeside": [
+      "sebi-kra-kyc-circular-onboarding-december-24"
+    ],
+    "live": {
+      "title": {
+        "en": "India-US",
+        "hi": "भारत-अमेरिका"
+      }
+    }
+  },
+  "briefing": {
+    "items": [
+      {
+        "link": "sebi-kra-kyc-circular-onboarding-december-24",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sebi eases KYC for investors: brokers must share more through KRAs and delink closed accounts from December 24",
+          "hi": "सेबी ने निवेशकों की केवाईसी आसान की: 24 दिसंबर से ब्रोकरों को केआरए के जरिए ज्यादा जानकारी साझा करनी होगी, बंद खाते हटाने होंगे"
+        }
+      },
+      {
+        "link": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+        "lead": {
+          "en": "Constitution Day:",
+          "hi": "संविधान दिवस:"
+        },
+        "text": {
+          "en": "On Constitution Day, Modi blames Opposition for women's quota defeat as Congress marches over voter rolls",
+          "hi": "संविधान दिवस पर मोदी ने महिला आरक्षण की हार के लिए विपक्ष को घेरा, कांग्रेस ने वोटर लिस्ट पर निकाला मार्च"
+        }
+      },
+      {
+        "link": "iora-council-of-ministers-new-delhi-india-chair",
+        "lead": {
+          "en": "Indian Ocean:",
+          "hi": "हिंद महासागर:"
+        },
+        "text": {
+          "en": "India hosts Indian Ocean Rim foreign ministers in New Delhi on Friday as Jaishankar meets Mauritius counterpart",
+          "hi": "शुक्रवार को नई दिल्ली में हिंद महासागर रिम देशों के विदेश मंत्रियों की मेजबानी करेगा भारत, जयशंकर मॉरीशस के समकक्ष से मिले"
+        }
+      },
+      {
+        "link": "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "Imported goods are 8.5% of the CPI basket but drove 18% of October inflation, RBI bulletin finds",
+          "hi": "सीपीआई बास्केट में आयातित सामान 8.5%, पर अक्टूबर की महंगाई में 18% हिस्सा: आरबीआई बुलेटिन"
+        }
+      },
+      {
+        "link": "cabinet-postal-operations-scheme-1141-crore-india-post",
+        "lead": {
+          "en": "India Post:",
+          "hi": "इंडिया पोस्ट:"
+        },
+        "text": {
+          "en": "Cabinet extends India Post's Postal Operations scheme with ₹1,141 crore for five years",
+          "hi": "कैबिनेट ने इंडिया पोस्ट की डाक संचालन योजना पांच साल के लिए ₹1,141 करोड़ के साथ बढ़ाई"
+        }
+      },
+      {
+        "link": "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "lead": {
+          "en": "Space:",
+          "hi": "अंतरिक्ष:"
+        },
+        "text": {
+          "en": "India's space economy, about $9 billion now, could reach $40-45 billion in under a decade, says Jitendra Singh",
+          "hi": "भारत की अंतरिक्ष अर्थव्यवस्था अभी करीब 9 अरब डॉलर, एक दशक से कम में 40-45 अरब डॉलर तक पहुंच सकती है: जितेंद्र सिंह"
+        }
+      },
+      {
+        "link": "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "lead": {
+          "en": "Gulf:",
+          "hi": "खाड़ी:"
+        },
+        "text": {
+          "en": "India condemns Riyadh tower attack after two Indians among 11 injured",
+          "hi": "रियाद टावर पर हमले में 11 घायल, दो भारतीय भी शामिल; भारत ने की निंदा"
+        }
+      },
+      {
+        "link": "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Bengal's 38 lakh SIR appeals need more tribunals and a weekly public count",
+          "hi": "बंगाल की 38 लाख एसआईआर अपीलों के लिए और ट्रिब्यूनल और साप्ताहिक सार्वजनिक गिनती चाहिए"
+        }
+      }
+    ]
+  },
+  "numbers": {
+    "tracker": "economy-dashboard",
+    "items": [
+      {
+        "indicator": "gdp-growth",
+        "icon": "trend-up",
+        "label": {
+          "en": "GDP growth",
+          "hi": "जीडीपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "cpi-inflation",
+        "icon": "shopping-cart",
+        "highlight": true,
+        "label": {
+          "en": "CPI inflation",
+          "hi": "सीपीआई महंगाई"
+        },
+        "decimals": 2
+      },
+      {
+        "indicator": "unemployment",
+        "icon": "briefcase",
+        "label": {
+          "en": "Unemployment",
+          "hi": "बेरोज़गारी"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "iip-growth",
+        "icon": "factory",
+        "label": {
+          "en": "IIP growth",
+          "hi": "आईआईपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "repo-rate",
+        "icon": "bank",
+        "decimals": 2,
+        "label": {
+          "en": "Repo rate",
+          "hi": "रेपो रेट"
+        }
+      },
+      {
+        "indicator": "fiscal-deficit-pct-be",
+        "icon": "chart-bar",
+        "highlight": true,
+        "label": {
+          "en": "Fiscal deficit used",
+          "hi": "राजकोषीय घाटा (बजट का)"
+        },
+        "decimals": 1
+      }
+    ]
+  },
+  "topStories": {
+    "big": {
+      "id": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+      "also": []
+    },
+    "list": [
+      "iora-council-of-ministers-new-delhi-india-chair",
+      "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+      "cabinet-postal-operations-scheme-1141-crore-india-post",
+      "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+      "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured"
+    ],
+    "also": [
+      "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+    ]
+  },
+  "startHere": [
+    "nipu-urea-explained",
+    "rbi-stop-switch-trusted-person-explained-draft-digital-fraud",
+    "fpi-additional-disclosure-framework-explained-sebi-proposal",
+    "nepal-india-ties-explained-shah-modi-talks-border-power-trade"
+  ],
+  "trackers": [
+    {
+      "id": "bills-in-parliament-tracker",
+      "title": {
+        "en": "Bills in Parliament",
+        "hi": "संसद में विधेयक"
+      }
+    },
+    {
+      "id": "economy-dashboard",
+      "title": {
+        "en": "Economy dashboard",
+        "hi": "अर्थव्यवस्था डैशबोर्ड"
+      }
+    },
+    {
+      "id": "election-calendar",
+      "title": {
+        "en": "Election calendar",
+        "hi": "चुनाव कैलेंडर"
+      }
+    },
+    {
+      "id": "budget-2026-27-promise-tracker",
+      "title": {
+        "en": "Budget promises",
+        "hi": "बजट के वादे"
+      }
+    },
+    {
+      "id": "sc-cases-tracker",
+      "title": {
+        "en": "Big Supreme Court cases",
+        "hi": "सुप्रीम कोर्ट के बड़े मामले"
+      }
+    }
+  ],
+  "dataDesk": {
+    "map": {
+      "tracker": "election-calendar",
+      "topic": "elections-2027",
+      "kicker": {
+        "en": "Elections 2027",
+        "hi": "चुनाव 2027"
+      },
+      "title": {
+        "en": "{n} states vote in 2027",
+        "hi": "2027 में {n} राज्यों में चुनाव"
+      },
+      "text": {
+        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+      }
+    },
+    "parliament": {
+      "tracker": "bills-in-parliament-tracker",
+      "session": "monsoon-2026",
+      "bills": [
+        "fcra-amendment-2026",
+        "indian-statistical-institute-2026",
+        "supreme-court-number-of-judges-amendment-2026",
+        "mmdr-amendment-2026",
+        "kerala-alteration-of-name-2026"
+      ]
+    }
+  },
+  "factCheck": {
+    "cards": [
+      "commerce-ministry-no-structural-excess-capacity-any-sector-claim",
+      "shivraj-chouhan-punjab-pmfby-not-implemented-claim",
+      "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim"
+    ]
+  },
+  "explained": [
+    {
+      "id": "imf-world-economic-outlook-explained-india-rbi",
+      "kn": [
+        {
+          "value": {
+            "en": "7%",
+            "hi": "7%"
+          },
+          "label": {
+            "en": "IMF forecast for India, this year",
+            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+          }
+        },
+        {
+          "value": {
+            "en": "7.1%",
+            "hi": "7.1%"
+          },
+          "label": {
+            "en": "RBI's own forecast",
+            "hi": "आरबीआई का अपना अनुमान"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+      "kn": [
+        {
+          "value": {
+            "en": "11.39%",
+            "hi": "11.39%"
+          },
+          "label": {
+            "en": "wholesale inflation, September",
+            "hi": "थोक महंगाई, सितंबर"
+          }
+        },
+        {
+          "value": {
+            "en": "5.54%",
+            "hi": "5.54%"
+          },
+          "label": {
+            "en": "retail inflation, September",
+            "hi": "खुदरा महंगाई, सितंबर"
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo-rate-and-your-emi-explained",
+      "kn": [
+        {
+          "value": {
+            "en": "₹781",
+            "hi": "₹781"
+          },
+          "label": {
+            "en": "extra EMI a month, ₹50 lakh loan",
+            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+          }
+        },
+        {
+          "value": {
+            "en": "₹1.87 lakh",
+            "hi": "₹1.87 लाख"
+          },
+          "label": {
+            "en": "extra over 20 years",
+            "hi": "20 साल में ज़्यादा भुगतान"
+          }
+        }
+      ]
+    }
+  ],
+  "opinion": [
+    "anaemia-sampada-survey-must-publish-the-method-bridge-before-claiming-progress",
+    "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+    "siang-dam-trust-must-be-written-down-before-the-survey-resumes",
+    "manipur-spurious-liquor-deaths-need-supply-chain-action-and-chandel-health-care"
+  ],
+  "sections": [
+    {
+      "section": "politics",
+      "module": {
+        "type": "bypolls",
+        "article": "bypoll-results-ruling-parties-win-all-six-seats"
+      },
+      "list": [
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "sc-delhi-sir-form7-mustafabad-eci-verify",
+        "modi-sco-civilisational-dialogue-forum-purana-qila"
+      ],
+      "lead": "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches"
+    },
+    {
+      "section": "economy",
+      "lead": "sebi-kra-kyc-circular-onboarding-december-24",
+      "module": {
+        "type": "markets",
+        "indicators": [
+          "sensex",
+          "nifty-50",
+          "usd-inr",
+          "forex-reserves"
+        ]
+      },
+      "list": [
+        "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+        "pli-auto-incentive-4385-crore-heavy-industries",
+        "nipu-urea-six-brownfield-plants-54000-crore"
+      ]
+    },
+    {
+      "section": "states",
+      "lead": "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+      "list": [
+        "west-bengal-cabinet-paschim-banga-rename-december-9",
+        "odisha-akvan-damage-assessment-100-year-flood-plan",
+        "manipur-chandel-spurious-liquor-deaths"
+      ]
+    },
+    {
+      "section": "policy",
+      "lead": "cabinet-postal-operations-scheme-1141-crore-india-post",
+      "list": [
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "mha-i4c-whatsapp-web-advisory-log-out"
+      ]
+    },
+    {
+      "section": "parliament",
+      "module": {
+        "type": "session",
+        "session": "monsoon-2026"
+      },
+      "list": []
+    }
+  ],
+  "desks": [
+    {
+      "section": "world",
+      "lead": "iora-council-of-ministers-new-delhi-india-chair",
+      "list": [
+        "us-section-301-india-25-per-cent-tariff-excess-capacity",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta"
+      ]
+    },
+    {
+      "section": "science",
+      "list": []
+    },
+    {
+      "section": "sports",
+      "list": []
+    }
+  ],
+  "weekAhead": [
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "25th IORA Council of Ministers meets in New Delhi",
+        "hi": "नई दिल्ली में आईओआरए की 25वीं मंत्रिपरिषद बैठक"
+      },
+      "link": "iora-council-of-ministers-new-delhi-india-chair"
+    },
+    {
+      "icon": "bank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "RBI's weekly forex reserves figures",
+        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
+      }
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 28",
+        "hi": "28 नवंबर"
+      },
+      "text": {
+        "en": "Jharkhand's main Foundation Day ceremony at Khelgaon, Ranchi",
+        "hi": "रांची के खेलगांव में झारखंड का मुख्य स्थापना दिवस समारोह"
+      },
+      "link": "jharkhand-26th-foundation-day-main-event-moved-nov-28-chhath-khelgaon"
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Nov 30",
+        "hi": "30 नवंबर"
+      },
+      "text": {
+        "en": "Keralam government promises a permanent power-purchase plan by the end of the month",
+        "hi": "केरलम सरकार ने महीने के अंत तक बिजली खरीद की स्थायी योजना पेश करने का वादा किया है"
+      },
+      "link": "kerala-cpim-judicial-probe-200-mw-power-purchase-govindan"
+    },
+    {
+      "icon": "receipt",
+      "date": {
+        "en": "Dec 1",
+        "hi": "1 दिसंबर"
+      },
+      "text": {
+        "en": "GST collections for November",
+        "hi": "नवंबर का जीएसटी संग्रह"
+      }
+    },
+    {
+      "icon": "calendar-blank",
+      "date": {
+        "en": "Dec 3",
+        "hi": "3 दिसंबर"
+      },
+      "text": {
+        "en": "NASA astronaut applications close at 11:59 pm Eastern time (10:29 am IST on December 4)",
+        "hi": "नासा की अंतरिक्ष यात्री भर्ती के आवेदन अमेरिकी पूर्वी समय 3 दिसंबर रात 11:59 बजे बंद होंगे (भारत में 4 दिसंबर सुबह 10:29 बजे)"
+      },
+      "link": "nasa-opens-astronaut-applications-december-3-deadline"
+    }
+  ],
+  "headlineHistory": [
+    {
+      "at": "2026-11-25T17:38:37+05:30",
+      "ids": [
+        "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "anaemia-icmr-sampada-survey-2023-25-nfhs-5",
+        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+        "sc-bengal-sir-appeals-deleted-voters-priority-more-tribunals",
+        "rbi-stop-switch-trusted-person-explained-draft-digital-fraud"
+      ]
+    },
+    {
+      "at": "2026-11-25T20:36:32+05:30",
+      "ids": [
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+        "modi-world-bank-50-crore-poverty-claim",
+        "india-us-trade-deal-explained-first-tranche-what-is-settled-what-is-left",
+        "pli-auto-incentive-4385-crore-heavy-industries",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "mha-i4c-whatsapp-web-advisory-log-out",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "rbi-stop-switch-trusted-person-draft-digital-fraud",
+        "tamil-nadu-yellow-alert-21-districts-easterly-waves-november-24-27",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
+    },
+    {
+      "at": "2026-11-26T06:57:49+05:30",
+      "ids": [
+        "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+        "pli-auto-incentive-4385-crore-heavy-industries",
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "anaemia-sampada-survey-must-publish-the-method-bridge-before-claiming-progress",
+        "shivraj-chouhan-punjab-pmfby-not-implemented-claim",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
+    },
+    {
+      "at": "2026-11-26T07:01:38+05:30",
+      "ids": [
+        "cabinet-cie-manufacturing-scheme-11000-crore-heavy-industries",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "rbi-dsib-2026-list-sbi-hdfc-icici-buckets-unchanged",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "nipu-urea-explained",
+        "anaemia-sampada-survey-must-publish-the-method-bridge-before-claiming-progress",
+        "shivraj-chouhan-punjab-pmfby-not-implemented-claim",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
+    },
+    {
+      "at": "2026-11-26T08:28:08+05:30",
+      "ids": [
+        "us-section-301-india-25-per-cent-tariff-excess-capacity",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "russia-sanctions-law-waiver-explained-india-oil",
+        "india-us-trade",
+        "cabinet-postal-operations-scheme-1141-crore-india-post",
+        "pli-auto-incentive-4385-crore-heavy-industries",
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:37:40+05:30",
+      "ids": [
+        "us-section-301-india-25-per-cent-tariff-excess-capacity",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "russia-sanctions-law-waiver-explained-india-oil",
+        "india-us-trade",
+        "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+        "cabinet-postal-operations-scheme-1141-crore-india-post",
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "modi-merz-phone-call-india-germany-75-years-eu-fta",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
+    },
+    {
+      "at": "2026-11-26T14:38:44+05:30",
+      "ids": [
+        "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals",
+        "rahul-gandhi-70-lakh-voters-maharashtra-bharat-summit-claim",
+        "delimitation-special-session-needs-the-bill-text-and-21-days-notice",
+        "iora-council-of-ministers-new-delhi-india-chair",
+        "us-section-301-india-25-per-cent-tariff-excess-capacity",
+        "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+        "cabinet-postal-operations-scheme-1141-crore-india-post",
+        "nipu-urea-six-brownfield-plants-54000-crore",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave"
+      ]
+    },
+    {
+      "at": "2026-11-26T17:27:38+05:30",
+      "ids": [
+        "us-section-301-india-25-per-cent-tariff-excess-capacity",
+        "commerce-ministry-no-structural-excess-capacity-any-sector-claim",
+        "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+        "russia-sanctions-law-waiver-explained-india-oil",
+        "sebi-kra-kyc-circular-onboarding-december-24",
+        "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches",
+        "iora-council-of-ministers-new-delhi-india-chair",
+        "rbi-bulletin-imported-items-18-per-cent-cpi-inflation",
+        "cabinet-postal-operations-scheme-1141-crore-india-post",
+        "space-economy-9-billion-40-45-billion-jitendra-singh-ispa-conclave",
+        "india-condemns-riyadh-financial-district-tower-attack-two-indians-injured",
+        "bengal-sir-appeals-need-a-published-disposal-count-and-more-tribunals"
+      ]
+    }
+  ],
+  "critical": [],
+  "drop": [],
+  "mustReadEn": 7
+}

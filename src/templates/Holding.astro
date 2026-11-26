@@ -1,0 +1,38 @@
+---
+// The front page while the site is on hold for the relaunch (content/relaunch.json, hold: true).
+import Base from '../layouts/Base.astro';
+import { prefix } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const L = lang === 'hi'
+  ? { h: 'गांधी न्यूज़ का नया संस्करण जल्द आ रहा है', b: 'हम साइट को नए सिरे से तैयार कर रहे हैं: कम ख़बरें, पर हर ख़बर गहरी और अपने स्रोत के साथ। नया संस्करण जल्द यहीं मिलेगा।', more: 'तब तक', desc: 'गांधी न्यूज़ का नया संस्करण जल्द आ रहा है। हम साइट को कम, पर गहरी ख़बरों के साथ नए सिरे से तैयार कर रहे हैं।' }
+  : { h: 'A new edition of Gandhi News is on its way', b: 'We are rebuilding the site around fewer, deeper stories, each one resting on its original source. The new edition will be here soon.', more: 'In the meantime', desc: 'A new edition of Gandhi News is on its way. We are rebuilding the site around fewer, deeper stories.' };
+const links = [
+  { label: t.about, href: `${p}/about/` },
+  { label: t.eic, href: `${p}/editor/` },
+  { label: t.standards, href: `${p}/standards/` },
+  { label: t.ownership, href: `${p}/ownership/` },
+  { label: t.contact, href: `${p}/contact/` },
+];
+---
+<Base lang={lang} title={t.siteName} description={L.desc} path={route} altPath={lang === 'hi' ? '/' : '/hi/'}>
+  <div class="w">
+    <section class="hold">
+      <h1>{L.h}</h1>
+      <p>{L.b}</p>
+      <h2>{L.more}</h2>
+      <ul>{links.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul>
+    </section>
+  </div>
+</Base>
+<style>
+  .hold{max-width:720px;margin:0 auto;padding:72px 0 96px}
+  .hold h1{font-size:clamp(30px,5vw,46px);line-height:1.1;letter-spacing:-.02em;margin:0 0 18px}
+  .hold p{font-size:19px;line-height:1.6;margin:0 0 36px}
+  .hold h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin:0 0 10px;padding-top:16px;border-top:2px solid currentColor}
+  .hold ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px 26px}
+  .hold li a{font-size:17px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+</style>

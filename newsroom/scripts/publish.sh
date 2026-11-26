@@ -5,6 +5,10 @@
 # Writes the run record, commits, takes the lock only for the pull-build-push, re-applies this run's homepage picks
 # when the pull merged another run's work, builds with the full build gate, pushes, releases the lock, then waits
 # until the live site runs the pushed commit. Exit 0 live, 1 not pushed (fix and run again), 4 pushed but not live yet.
+# Owner, November 26, 2026: the site is on hold for a relaunch. Nothing is published while content/relaunch.json says hold: true.
+if grep -q '"hold": *true' "$(git rev-parse --show-toplevel)/content/relaunch.json" 2>/dev/null && [ "${RELAUNCH_OK:-}" != "1" ]; then
+  echo "SITE ON HOLD (content/relaunch.json): the owner paused all publishing on November 26, 2026. Nothing was published. Stop this run and send nothing."; exit 1
+fi
 cd /home/claude/gandhinews || exit 1
 RUN=${1:?usage: publish.sh <run-name> "<summary>"}; SUM=${2:-}
 W=${GN_WORK:-/home/claude/gn-work/}

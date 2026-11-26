@@ -1,3 +1,12 @@
+# SITE ON HOLD FOR A RELAUNCH (owner, November 26, 2026)
+
+Every story has been taken off the live site and all scheduled runs are paused. While `content/relaunch.json` says `"hold": true`:
+
+- Write nothing and publish nothing. `setup.sh` and `publish.sh` stop on their own.
+- The live site shows only the front page (a short holding note) and the About, policy and contact pages.
+- The stories, photos, old homepage plan, redirects and noindex list are kept under `archive/2026-11-26/`. Nothing was deleted.
+- The owner decides which pieces come back and the new section structure. Do not restore anything without his word.
+
 # Gandhi News: the rules and the shared procedures
 
 Every scheduled run (hourly, long-form, stall check) follows this file plus its own runbook (RUNBOOK-HOURLY.md, RUNBOOK-LONGFORM.md, RUNBOOK-STALL.md). Work alone: nobody is watching, so never stop to ask a question. Decide, write the decision in the run record, carry on. Where anything else (an old brief, editor-notes.md, a memory of "how it was done before") disagrees with this file, this file wins.

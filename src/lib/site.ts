@@ -2,6 +2,7 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Lang } from './i18n';
 import { TOPIC_FALLBACK } from './i18n';
 import PHOTOS from '../../content/photos.map.json';
+import RELAUNCH_STATE from '../../content/relaunch.json';
 // @ts-ignore - plain JS module shared with the Markdown plugin
 import { routeFor, prefix, SECTIONS } from './routes.mjs';
 
@@ -9,6 +10,9 @@ export const SITE_URL = (import.meta.env.SITE_URL || process.env.SITE_URL || 'ht
 // Live by default since launch (11 Oct 2026). Set SITE_LIVE=false to hide a build from search engines.
 export const SITE_LIVE = String(import.meta.env.SITE_LIVE ?? process.env.SITE_LIVE ?? 'true').toLowerCase() !== 'false';
 export { prefix, SECTIONS };
+// Owner, November 26, 2026: the site is on hold for a relaunch. While content/relaunch.json says hold: true,
+// only the front page (a short holding note) and the About, policy and contact pages are built.
+export const RELAUNCH = (RELAUNCH_STATE as any).hold === true;
 
 export type Entry =
   | CollectionEntry<'articles_en'>

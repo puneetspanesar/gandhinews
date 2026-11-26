@@ -5,7 +5,7 @@ import Seal from '../components/Seal.astro';
 import Wordmark from '../components/Wordmark.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
-import { SITE_LIVE, SITE_URL, abs, prefix, swapLangPath, todayLine, fmtShort, content, urlOf } from '../lib/site';
+import { SITE_LIVE, SITE_URL, abs, prefix, swapLangPath, todayLine, fmtShort, content, urlOf, RELAUNCH } from '../lib/site';
 import HOME from '../../content/homepage.json';
 import MARKETS from '../../content/data/markets.json';
 import { indicator } from '../lib/data';
@@ -211,7 +211,7 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
         </div>
       </div>
       <div class="mh-act">
-        <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
+        {!RELAUNCH && <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>}
         {/* Owner, November 20, 2026: the header button returns when the Morning Brief actually sends */}
         {false && <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>}
       </div>
@@ -219,7 +219,7 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
     <div class="w mh-brand">
       <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
     </div>
-    <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
+    {!RELAUNCH && <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
       {nav.map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
       <details class={moreActive ? 'on' : undefined}>
         <summary>{t.more} <Icon name="caret-down" /></summary>
@@ -227,14 +227,14 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
           {more.map((m) => <a href={m.href} class={active === m.key ? 'on' : undefined}>{m.label}</a>)}
         </div>
       </details>
-    </nav>
+    </nav>}
   </header>
-  <nav class="mnav" aria-label={lang === 'hi' ? 'सेक्शन' : 'Sections'}>
+  {!RELAUNCH && <nav class="mnav" aria-label={lang === 'hi' ? 'सेक्शन' : 'Sections'}>
     <ul class="w">
       {[...nav, ...more].map((n) => <li><a href={n.href} class={active === n.key ? 'on' : undefined}>{n.label}</a></li>)}
     </ul>
-  </nav>
-  <div class="tstrip">
+  </nav>}
+  {!RELAUNCH && <div class="tstrip">
     <div class="w">
       <div class="tt">
         {trending.map((x: any, i: number) => <a href={x.href} class={i === 0 ? 'hot' : undefined}>{x.label}</a>)}
@@ -245,14 +245,14 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
         <span>₹ / $ <b class="num">{fmtNum(usd.latest_value, 2)}</b></span>
       </div>
     </div>
-  </div>
+  </div>}
   {/* No visible breadcrumbs (owner, November 9); the BreadcrumbList structured data above stays for Google. */}
   <main id="main" tabindex="-1">
     <slot />
   </main>
   <footer>
     <div class="w">
-      <div class="nlr" id="newsletter">
+      {!RELAUNCH && <div class="nlr" id="newsletter">
         <div><h2>{t.newsletterTitle}</h2><p>{t.newsletterText}</p></div>
         <form action="/api/subscribe" method="post" data-newsletter>
           <label class="sr-only" for="nl-email">{t.email}</label>
@@ -262,21 +262,21 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
           <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
           <button type="submit">{t.signUp}</button>
         </form>
-      </div>
+      </div>}
       <div class="g">
         <div><a class="fwm" href={`${p}/`} aria-label={t.siteName}><Wordmark /></a><p class="named">{t.named}</p></div>
-        <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
-        <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
+        {!RELAUNCH && <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
+        <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>}
         <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
         {/* Link YouTube once the channel exists. */}
-        <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li></ul></div>
+        {!RELAUNCH && <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li></ul></div>}
       </div>
-      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></span></div>
+      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a>{!RELAUNCH && <> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></>}</span></div>
     </div>
   </footer>
-  <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>
+  {!RELAUNCH && <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>
     {tabs.map((x) => <a href={x.href} class={x.on ? 'on' : undefined} aria-current={x.on ? 'page' : undefined} data-so-open={x.icon === 'magnifying-glass' ? '' : undefined}><Icon name={x.icon} />{x.label}</a>)}
-  </nav>
+  </nav>}
   <div class="toast" role="status" aria-live="polite" id="toast"></div>
   <script>
     const nb = document.getElementById('nb');

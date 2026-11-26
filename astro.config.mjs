@@ -31,6 +31,8 @@ for (const lang of ['en', 'hi']) {
   }
 }
 const BUILD_TIME = new Date();
+// On hold for the relaunch (content/relaunch.json): the sign-up page stays out of the sitemap.
+const HOLD = JSON.parse(fs.readFileSync('./content/relaunch.json', 'utf8')).hold === true;
 // Owner, November 20, 2026: weaker older stories carry noindex, follow and stay out of the sitemap (content/noindex.json).
 const NOINDEX = new Set(JSON.parse(fs.readFileSync('./content/noindex.json', 'utf8')).ids);
 import { unified } from '@astrojs/markdown-remark';
@@ -68,7 +70,7 @@ export default defineConfig({
         }
         return item;
       },
-      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed|photo-credits|elections)\/$/.test(page) && !/\/page\/\d+\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)) && !NOINDEX.has(page.split('/').filter(Boolean).pop() ?? ''),
+      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed|photo-credits|elections)\/$/.test(page) && !(HOLD && /\/subscribe\/$/.test(page)) && !/\/page\/\d+\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)) && !NOINDEX.has(page.split('/').filter(Boolean).pop() ?? ''),
     }),
   ],
 });

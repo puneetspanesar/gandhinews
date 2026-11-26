@@ -2,6 +2,10 @@
 # Every run starts with: source newsroom/scripts/setup.sh <run-name>    (run-name: hourly-HH, longform-m, longform-e, stall-HH)
 # Clones or updates the repo, installs, configures git (Claude as author, main-only fetch, JSON merge driver),
 # copies briefs and scripts to the work folder, records the start time. Fails loudly instead of half-working.
+# Owner, November 26, 2026: the site is on hold for a relaunch. Runs stop here while content/relaunch.json says hold: true.
+if grep -q '"hold": *true' /home/claude/gandhinews/content/relaunch.json 2>/dev/null; then
+  echo "SITE ON HOLD (content/relaunch.json): the owner paused every writing run on November 26, 2026. Write nothing, publish nothing, send nothing. Stop now."; return 1 2>/dev/null || exit 1
+fi
 set -e
 RUN=${1:?usage: source newsroom/scripts/setup.sh <run-name>}
 export GN_ROOT=/home/claude/gandhinews/ GN_WORK=/home/claude/gn-work/ TZ=Asia/Kolkata

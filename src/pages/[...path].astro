@@ -1,7 +1,8 @@
 ---
 // One router for every HTML page. English lives at the root, Hindi under /hi/.
 import type { GetStaticPaths } from 'astro';
-import { content, prefix, SECTIONS, urlOf, PER_PAGE } from '../lib/site';
+import { content, prefix, SECTIONS, urlOf, PER_PAGE, RELAUNCH } from '../lib/site';
+import Holding from '../templates/Holding.astro';
 import { HUBS } from '../lib/i18n';
 import Article from '../templates/Article.astro';
 import Topic from '../templates/Topic.astro';
@@ -27,6 +28,11 @@ export const getStaticPaths = (async () => {
   for (const lang of ['en', 'hi'] as const) {
     const p = prefix(lang);
     const { articles, topics, trackers } = c[lang];
+    if (RELAUNCH) {
+      add(`${p}/`, { kind: 'holding', lang });
+      for (const e of await getCollection(`pages_${lang}`)) add(`${p}/${e.data.path}/`, { kind: 'page', lang, id: e.data.id });
+      continue;
+    }
     for (const e of articles) add(urlOf(e.data), { kind: 'article', lang, id: e.data.id });
     for (const e of topics) add(urlOf(e.data), { kind: 'topic', lang, id: e.data.id });
     for (const e of trackers) add(urlOf(e.data), { kind: 'tracker', lang, id: e.data.id });
@@ -63,6 +69,7 @@ const props = Astro.props as any;
 {(props.kind === 'section' || props.kind === 'hub') && <List {...props} />}
 {(props.kind === 'trackers' || props.kind === 'topics') && <CardsHub {...props} />}
 {props.kind === 'home' && <Home {...props} />}
+{props.kind === 'holding' && <Holding {...props} />}
 {props.kind === 'search' && <Search {...props} />}
 {props.kind === 'page' && <Page {...props} />}
 {props.kind === 'election' && <Election {...props} />}

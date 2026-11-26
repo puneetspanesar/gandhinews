@@ -118,10 +118,13 @@ for (const page of ['dist/index.html', 'dist/hi/index.html']) {
   for (const m of html.matchAll(/>([^<>]{0,80}(?:\u2026|\.\.\.))\s*</g)) fail('text cut off with dots on the homepage', `${page}: "${m[1].trim().slice(-60)}"`);
   if (/line-clamp|text-overflow\s*:\s*ellipsis/.test(html)) fail('inline CSS clips text with dots', page);
 }
-const home = JSON.parse(read('content/homepage.json'));
+// Owner, November 26, 2026: while the site is on hold for the relaunch (content/relaunch.json, hold: true) there is no
+// homepage lead to check. The page checks above still run.
+const HOLD = JSON.parse(read('content/relaunch.json') ?? '{}').hold === true;
+const home = HOLD ? null : JSON.parse(read('content/homepage.json'));
 // owner's rule (November 8): the lead is always a photograph, never an infographic
-if (JSON.parse(read('content/photos.map.json'))[home.lead.id]?.graphic) fail('the homepage lead shows an infographic; it must be a photograph (make a 2-3 photo composite)', home.lead.id);
-for (const [lang, page] of [['en', 'dist/index.html'], ['hi', 'dist/hi/index.html']]) {
+if (home && JSON.parse(read('content/photos.map.json'))[home.lead.id]?.graphic) fail('the homepage lead shows an infographic; it must be a photograph (make a 2-3 photo composite)', home.lead.id);
+for (const [lang, page] of home ? [['en', 'dist/index.html'], ['hi', 'dist/hi/index.html']] : []) {
   const src = read(`content/${lang}/news/${home.lead.id}.md`) ?? '';
   const title = fm(src).title;
   const html = (read(page) ?? '').replace(/&#39;|&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, '&');

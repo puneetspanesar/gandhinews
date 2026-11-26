@@ -16,7 +16,7 @@ We are not linked to any political party, family or government, including any th
 - **News:** what happened, with the documents and data behind it.
 - **Explained:** plain answers to the questions behind the news.
 - **Fact check:** viral claims checked against the record, rated on a [four-point scale](/fact-check/methodology/).
-- **Trackers:** data pages we keep up to date, such as [Bills in Parliament](/trackers/bills-in-parliament-tracker/) and the [economy dashboard](/trackers/economy-dashboard/). The data behind each one can be downloaded.
+- **Trackers:** data pages we keep up to date, such as Bills in Parliament and the economy dashboard. The data behind each one can be downloaded.
 - **Opinion:** the view of the editorial desk, always labelled and kept apart from our reporting.
 
 Every story appears in English and in Hindi. The Hindi version is adapted for Hindi readers and keeps every fact, figure and quote of the English one.
