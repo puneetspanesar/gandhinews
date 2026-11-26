@@ -6,8 +6,8 @@ import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n
 export const NAME_VARIANTS = ['GandhiNews', 'gandhinews', 'गांधी न्यूज़', 'गांधी न्यूज'];
 /** Official profiles elsewhere. Add each one here as it is created, so Google can tie them to this site. */
 // Add the Gandhi News social profiles here once they exist.
-// Owner, November 26, 2026: the accounts the owner is creating under one handle, gandhinewshq.
-export const SAME_AS: string[] = ['https://x.com/gandhinewshq', 'https://www.linkedin.com/company/gandhinewshq/', 'https://www.instagram.com/gandhinewshq/', 'https://www.facebook.com/gandhinewshq'];
+// Owner, November 26, 2026: the accounts the owner is creating under one handle, gandhinewscom.
+export const SAME_AS: string[] = ['https://x.com/gandhinewscom', 'https://www.linkedin.com/company/gandhinewscom/', 'https://www.instagram.com/gandhinewscom/', 'https://www.facebook.com/gandhinewscom'];
 
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',
