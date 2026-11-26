@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-26T10:30:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-26T15:45:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-26",
   "chart": "nifty-50",
   "indices": [
@@ -8,14 +8,10 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 84129.13,
-      "change": 190.85,
-      "pct": 0.23,
+      "value": 84328.59,
+      "change": 390.31,
+      "pct": 0.46,
       "history": [
-        {
-          "date": "2026-10-08",
-          "close": 71593.24
-        },
         {
           "date": "2026-10-09",
           "close": 72472.33
@@ -131,22 +127,22 @@
         {
           "date": "2026-11-25",
           "close": 83938.28
+        },
+        {
+          "date": "2026-11-26",
+          "close": 84328.59
         }
       ],
-      "source": "https://theopenpress.in/article/sensex-today-november-26-2026-nifty"
+      "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-manage-to-close-higher-despite-paring-early-gains/"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 25844.35,
-      "change": 25.1,
-      "pct": 0.1,
+      "value": 25884.5,
+      "change": 65.25,
+      "pct": 0.25,
       "history": [
-        {
-          "date": "2026-10-09",
-          "close": 22520.45
-        },
         {
           "date": "2026-10-12",
           "close": 22363.35
@@ -262,9 +258,13 @@
         {
           "date": "2026-11-25",
           "close": 25819.25
+        },
+        {
+          "date": "2026-11-26",
+          "close": 25884.5
         }
       ],
-      "source": "https://theopenpress.in/article/sensex-today-november-26-2026-nifty"
+      "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-manage-to-close-higher-despite-paring-early-gains/"
     },
     {
       "id": "nifty-bank",
