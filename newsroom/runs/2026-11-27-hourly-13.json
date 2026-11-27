@@ -1,0 +1,26 @@
+{
+ "run": "hourly-13",
+ "start": "2026-11-27T12:44:38+05:30",
+ "end": "2026-11-27T13:14:29+05:30",
+ "summary": "Midday edition: foodgrain final estimates news (lead), India Post outlay news; Assam toll fact check held for a picture",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "assam-toll-plazas-only-three-legal-nhai-rti-claim",
+   "kind": "picture",
+   "why": "Main picture is a generic toll plaza captioned only 'a national highway in India'. The source file is Wikimedia's 'National_Highway_6_Toll_Plaza' (hill country, most likely NH6 in Meghalaya), so it is not shown to be Assam. That makes it a stand-in from somewhere else for a story about named Assam plazas.",
+   "fix": "Replace it with a photo of one of the Assam plazas named in the piece (Raha, Nazirakhat or Madanpur first, then Telipara, Patgaon, Rangamati or Sulung). Try the library, quick_photo.py and the finder with 'toll plaza Assam', and caption it with the plaza's name and district. If list.txt confirms no free photo exists, use a new-style infographic of the road and toll gantry."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Two problems. (1) Rule 11: in the second band, the BS-VI opinion ('A BS-VI-only Delhi is the right goal...') sits right next to the BS-VI news story ('Supreme Court says it will allow only BS-VI vehicles in Delhi...'), so the same subject appears twice side by side. Both are also 3 to 4 days old (November 23 and 24), and the news card's picture is a hazy, generic city skyline. Drop one of them, preferably keeping the opinion, and fill the slot with a fresh pictured story. If the news story stays, give it a photo of trucks or traffic on a Delhi road. (2) Rule 8: the slot beside the lead (right-rail top) is the food warning labels explainer infographic, while pictured stories are available. Move a pictured story into that slot, such as the Modi Constitution Day story or the Jairam Ramesh/SEBI fact check, and move the explainer lower.",
+   "done": "Pinned the lead to the foodgrain story and the top slots in content/edition.json: the BS-VI opinion now sits in the right rail beside the lead (a photo, replacing the food-labels infographic) and the BS-VI news story is no longer beside it; the Constitution Day story (photo) takes the second right-rail slot."
+  }
+ ],
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}

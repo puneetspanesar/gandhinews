@@ -3242,5 +3242,64 @@
    }
   },
   "ihash": "76f96f1164ef"
+ },
+ "foodgrain-record-2025-26-final-estimates-kharif-2026-27-first-estimates": {
+  "id": "o-foodgrain-record-2025-26-final-estimates-kharif-2026-27-first-estimates",
+  "src": "/photos/o-foodgrain-record-2025-26-final-estimates-kharif-2026-27-first-estimates-1280.jpg",
+  "src800": "/photos/o-foodgrain-record-2025-26-final-estimates-kharif-2026-27-first-estimates-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "srcWidth": 6000,
+  "credit": "Photo: Nanditha Gogate, WELL Labs / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A farmer harvesting rice in Raichur, Karnataka (file photo)",
+  "alt_hi": "कर्नाटक के रायचूर में धान की कटाई करती एक किसान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Farmer_manually_harvesting_rice_in_Raichur,_Karnataka.jpg",
+  "treated": {
+   "src": "/photos/t-foodgrain-record-2025-26-final-estimates-kharif-2026-27-firs-1280.jpg",
+   "src800": "/photos/t-foodgrain-record-2025-26-final-estimates-kharif-2026-27-firs-640.jpg",
+   "cutout": false,
+   "with": [
+    "irctc-train-ticket-booking-rules-2026-aadhaar-tatkal-chart"
+   ],
+   "kind": "photo",
+   "subj": "ffdec0e7ff030000",
+   "credit": "Photos: Nanditha Gogate, WELL Labs / Wikimedia Commons; Ravi Dwivedi / Wikimedia Commons"
+  }
+ },
+ "assam-toll-plazas-only-three-legal-nhai-rti-claim": {
+  "id": "o-assam-toll-plazas-only-three-legal-nhai-rti-claim",
+  "src": "/photos/o-assam-toll-plazas-only-three-legal-nhai-rti-claim-1280.jpg",
+  "src800": "/photos/o-assam-toll-plazas-only-three-legal-nhai-rti-claim-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "srcWidth": 4080,
+  "credit": "Photo: Arindambasu2 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A toll plaza on a national highway in India (file photo)",
+  "alt_hi": "भारत में एक राष्ट्रीय राजमार्ग पर टोल प्लाज़ा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Highway_6_Toll_Plaza.jpg"
+ },
+ "india-post-2632-crore-postal-operations-estates-management-schemes": {
+  "id": "o-india-post-2632-crore-postal-operations-estates-management-schemes",
+  "src": "/photos/o-india-post-2632-crore-postal-operations-estates-management-schemes-1280.jpg",
+  "src800": "/photos/o-india-post-2632-crore-postal-operations-estates-management-schemes-640.jpg",
+  "width": 1280,
+  "height": 852,
+  "srcWidth": 1000,
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Union communications minister Jyotiraditya Scindia (file photo)",
+  "alt_hi": "केंद्रीय संचार मंत्री ज्योतिरादित्य सिंधिया (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jyotiraditya_Scindia_(cropped).jpg",
+  "treated": {
+   "src": "/photos/t-india-post-2632-crore-postal-operations-estates-management-s-1280.jpg",
+   "src800": "/photos/t-india-post-2632-crore-postal-operations-estates-management-s-640.jpg",
+   "cutout": true,
+   "with": [],
+   "kind": "photo",
+   "subj": "c0c0c0c8e0e0f0fc",
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons"
+  }
  }
 }

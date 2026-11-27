@@ -1,5 +1,11 @@
 {
   "_note": "Front page of the relaunched edition (November 26, 2026). lead: the id of the piece to lead with (empty: the newest piece leads). top: ids to show right after the lead, in order. Everything else fills itself from the newest pieces in each section.",
-  "lead": "",
-  "top": []
+  "lead": "foodgrain-record-2025-26-final-estimates-kharif-2026-27-first-estimates",
+  "top": [
+    "india-post-2632-crore-postal-operations-estates-management-schemes",
+    "gadkari-bengal-75000-crore-highways-kolkata-ring-road",
+    "sebi-fpi-additional-disclosure-jairam-ramesh-reopens-loophole-claim",
+    "bs-vi-only-delhi-supreme-court-needs-written-order-and-phased-plan-for-trucks",
+    "constitution-day-77th-modi-article-congress-samvidhan-raksha-marches"
+  ]
 }
