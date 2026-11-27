@@ -171,6 +171,14 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$/.test(path);
       } catch (e) {}
       if (navigator.webdriver || /HeadlessChrome|Playwright|Puppeteer|Claude|Anthropic|GPTBot|bot\b|crawler|spider/i.test(ua) || staff) live = false;
       var choice = null; try { choice = localStorage.getItem('lv-cookies'); } catch (e) {}
+      // Owner, November 27, 2026: notice-based consent outside Europe. Readers outside Europe and the UK get analytics
+      // cookies from the first page with a notice ("by using this site you agree"); European and UK readers (judged by
+      // the device's time zone) keep the opt-in Accept / Decline. Anyone can say no through the Cookies link in the footer.
+      // Review before May 13, 2027, when the DPDP Act's consent rules take effect.
+      var tz = ''; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+      var eu = /^(Europe|Atlantic\/(Reykjavik|Canary|Madeira|Azores|Faroe))/.test(tz) || /^(Europe\/London|GB)$/.test(tz);
+      window.lvEU = eu;
+      var granted = choice === 'yes' || (!eu && choice !== 'no');
       // Keep where this visit came from (e.g. Google) for the length of the tab session, so a reader who accepts
       // cookies on their second or third page is still credited to the right source instead of "Direct".
       // Held only in this browser tab's own session storage; nothing is sent anywhere until the reader accepts.
@@ -187,7 +195,7 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$/.test(path);
         if (!live || window.lvGA) return; window.lvGA = true;
         window.dataLayer = window.dataLayer || [];
         window.gtag = function () { dataLayer.push(arguments); };
-        gtag('consent', 'default', { analytics_storage: choice === 'yes' ? 'granted' : 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
+        gtag('consent', 'default', { analytics_storage: granted ? 'granted' : 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
         var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
         var cfg = {};
         try {
@@ -359,24 +367,40 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$/.test(path);
   })();
   </script>
   <div class="ck" id="ck" role="region" aria-label={lang === 'hi' ? 'कुकीज़' : 'Cookies'} hidden>
-    <p>{lang === 'hi'
+    <p class="ck-n">{lang === 'hi'
+      ? <>कुकीज़ से हम जानते हैं कि कौन-सी खबरें पढ़ी जाती हैं। साइट इस्तेमाल करके आप इसके लिए सहमति देते हैं। <a href={`${p}/privacy/#cookies`}>निजता नीति</a></>
+      : <>We use cookies to see which stories are read. By using this site you agree to this. <a href={`${p}/privacy/#cookies`}>Privacy policy</a></>}</p>
+    <p class="ck-c">{lang === 'hi'
       ? <>कुकीज़ से हम जानते हैं कि कौन-सी खबरें पढ़ी जाती हैं। विज्ञापन नहीं। <a href={`${p}/privacy/#cookies`}>और जानें</a></>
       : <>Cookies help us see which stories are read. No ads. <a href={`${p}/privacy/#cookies`}>More</a></>}</p>
-    <div class="ckb"><button type="button" data-ck="no">{lang === 'hi' ? 'मना करें' : 'Decline'}</button><button type="button" class="ok" data-ck="yes">{lang === 'hi' ? 'स्वीकार करें' : 'Accept'}</button></div>
+    <div class="ckb"><button type="button" class="ck-c" data-ck="no">{lang === 'hi' ? 'मना करें' : 'Decline'}</button><button type="button" class="ok ck-c" data-ck="yes">{lang === 'hi' ? 'स्वीकार करें' : 'Accept'}</button><button type="button" class="ok ck-n" data-ck="seen">{lang === 'hi' ? 'ठीक है' : 'OK'}</button></div>
   </div>
   <script is:inline>
     (function () {
       var box = document.getElementById('ck'); if (!box) return;
       var get = function () { try { return localStorage.getItem('lv-cookies'); } catch (e) { return null; } };
       var set = function (v) { try { localStorage.setItem('lv-cookies', v); } catch (e) {} };
-      if (!get()) box.hidden = false;
+      // Outside Europe: a notice with OK, which also goes away on the reader's first scroll. In Europe and the UK, and
+      // whenever a reader opens the Cookies link: Accept / Decline.
+      var show = function (mode) { box.setAttribute('data-mode', mode); box.hidden = false; };
+      var close = function (v) { set(v); box.hidden = true; if (window.lvConsent) window.lvConsent(v !== 'no'); };
+      if (!get()) {
+        if (window.lvEU) show('choose');
+        else {
+          show('notice');
+          var y0 = window.scrollY, once = function () {
+            if (Math.abs(window.scrollY - y0) < 200 || box.getAttribute('data-mode') !== 'notice' || box.hidden) return;
+            window.removeEventListener('scroll', once); close('seen');
+          };
+          window.addEventListener('scroll', once, { passive: true });
+        }
+      }
       box.addEventListener('click', function (e) {
         var b = e.target.closest('[data-ck]'); if (!b) return;
-        set(b.getAttribute('data-ck')); box.hidden = true;
-        if (window.lvConsent) window.lvConsent(b.getAttribute('data-ck') === 'yes');
+        close(b.getAttribute('data-ck'));
       });
       document.querySelectorAll('[data-cookie-settings]').forEach(function (a) {
-        a.addEventListener('click', function (e) { e.preventDefault(); box.hidden = false; });
+        a.addEventListener('click', function (e) { e.preventDefault(); show('choose'); });
       });
     })();
   </script>

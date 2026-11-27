@@ -714,6 +714,7 @@ footer .legal a:hover{color:#fff}
 /* cookie notice */
 .ck{position:fixed;right:24px;bottom:24px;z-index:70;max-width:420px;background:#fff;border:1px solid var(--line);border-radius:6px;padding:16px 18px;font-size:16px;line-height:1.45;color:var(--ink)}
 .ck[hidden]{display:none}
+.ck[data-mode=notice] .ck-c,.ck[data-mode=choose] .ck-n,.ck:not([data-mode]) .ck-n{display:none}
 .ck p{margin:0}
 .ck a{color:var(--ink);text-decoration:underline;text-underline-offset:2px}
 .ckb{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}

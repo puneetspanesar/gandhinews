@@ -4,7 +4,7 @@ lang: en
 path: privacy
 title: "Privacy policy"
 description: "What personal data Gandhi News collects, why, how long we keep it and your rights under India's Digital Personal Data Protection Act, 2023."
-updated: 2026-11-20
+updated: 2026-11-27
 ---
 
 This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). Puneet Panesar, the publisher of Gandhi News, is the Data Fiduciary for this website.
@@ -23,7 +23,7 @@ When you save a story, the list is stored in your browser on your own device. It
 
 <h2 id="cookies">Cookies</h2>
 
-We use Google Analytics to count visits and see which stories are read, so we can decide what to cover. Until you choose Accept in our cookie notice, and if you choose Decline, Google Analytics runs without cookies: nothing is stored on your device, and Google receives only a cookieless signal that a page was viewed, with the browser type and an approximate location. If you choose Accept, it also sets cookies that let us count returning visits. It never gives us your name or email, and the site works the same whichever you choose. You can change your choice at any time with the Cookies link at the bottom of every page. We do not use advertising cookies.
+We use Google Analytics to count visits and see which stories are read, so we can decide what to cover. In India and most other countries, Google Analytics sets cookies from your first page, and by using the site you agree to this; our cookie notice says so. In Europe and the United Kingdom we ask first: until you choose Accept, Google Analytics runs without cookies, so nothing is stored on your device and Google receives only a cookieless signal that a page was viewed, with the browser type and an approximate location. Wherever you are, you can choose Decline through the Cookies link, and Google Analytics then runs without cookies for you. The cookies let us count returning visits. It never gives us your name or email, and the site works the same whichever you choose. You can change your choice at any time with the Cookies link at the bottom of every page. We do not use advertising cookies.
 
 ## Why we use it
 
