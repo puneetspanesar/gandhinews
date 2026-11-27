@@ -29,6 +29,8 @@ The homepage (screenshots). Owner's rules of November 16: the site publishes abo
 12. Nothing stale at the top: nothing older than about 36 hours in the top headlines, no previews of things that already happened.
 13. It looks like a serious national news site: no repeated pictures side by side, no obviously mismatched picture and headline, nothing that looks machine-made or lazy.
 
+15. The owner's three rules (November 27, 2026). Each new piece is checked against all three, and a piece that breaks one is held, whatever the day's count: (a) it rests on an official document, order, judgment, release or dataset that is linked, marked primary, and that the piece actually uses (a primary link the text never draws on is a FAIL); (b) it is not a rewrite of another outlet's report, not a market-close or index story, and not routine foreign news with no direct India angle; (c) it does not repeat a subject already covered in the same format in the last 7 days (search content/en for the subject; if a piece exists, the new one is a FAIL and the old one should have been updated).
+
 14. Text: no outlet named in a story, no em dash, English dates as "November 5, 2026", key phrases bolded, the Hindi twin says the same thing as the English (same figures, same names).
 
 ## Your verdict: write it to a file, then reply

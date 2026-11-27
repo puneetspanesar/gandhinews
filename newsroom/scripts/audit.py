@@ -665,6 +665,11 @@ def check_style(dist):
     finally:
         srv.shutdown()
 
+_SUBJECT_STOP = set('explained explainer india indian indias says said supreme court government minister centre state states what when with from that this will after over into about their they have does than under against first more most plan plans rule rules claim claims check fact year years crore lakh percent november october december january 2026 2027 election elections and the for how why who can its not are was but new bill act law'.split())
+def _subject_words(sid):
+    """The words of a piece's id that name its subject (used by the one-piece-per-subject rule)."""
+    return {w for w in sid.split('-') if (len(w) >= 4 or (w.isdigit() and len(w) >= 2)) and w not in _SUBJECT_STOP}
+
 # ---------------------------------------------------------------- main
 def main():
     ap = argparse.ArgumentParser()
@@ -705,6 +710,26 @@ def main():
             for sid, fm in S[lang].items():
                 if sid in scope or (lang == 'hi' and sid not in S['en'] and (a.all or (fm['_pub'] and NOW - fm['_pub'] < dt.timedelta(hours=a.hours)))):
                     lint_story(lang, sid, fm, other.get(sid))
+    # Owner, November 27, 2026 (three runs a day): two rules checked on the pieces a run adds.
+    # 1. Never more than 12 English pieces in a day (India time).
+    # 2. One piece per subject and format in a week: a new piece whose id shares three long words with a piece of the
+    #    same format published in the last 7 days is the same subject. That piece is updated instead.
+    #    (Three shared words that are also at least half of the shorter id's words; no pair of pieces on the site on
+    #    November 27, 2026 trips it, so a hit is a real repeat.)
+    if 'content' not in a.skip and (a.changed or a.new):
+        today = NOW.date()
+        n_today = sum(1 for fm in S['en'].values() if fm.get('_pub') and fm['_pub'].date() == today and fm.get('type') in ('news', 'explainer', 'factcheck', 'editorial'))
+        if n_today > 12: fail('content', 'content/en', f'{n_today} English pieces are dated today; the limit is 12 a day. Hold the weakest for tomorrow or drop it')
+        fresh = [sid for sid in NEW_IDS if sid in S['en'] and S['en'][sid].get('_pub') and NOW - S['en'][sid]['_pub'] < dt.timedelta(hours=14)]
+        for sid in fresh:
+            fm = S['en'][sid]
+            if re.search(r'(^|-)(sensex|nifty|gift-nifty|closing-bell|market-close|markets-(close|open|today)|wall-street)(-|$)', sid): fail('content', fm['_rel'], 'a market-close or index story: these are not written on this site (relaunch rules)')
+            for oid, ofm in S['en'].items():
+                if oid == sid or ofm.get('type') != fm.get('type') or not ofm.get('_pub'): continue
+                if abs((fm['_pub'] - ofm['_pub']).total_seconds()) > 7 * 86400: continue
+                if oid in fresh and oid > sid: continue   # two new pieces on one subject are reported once
+                A, B = _subject_words(sid), _subject_words(oid); shared = A & B
+                if len(shared) >= 3 and len(shared) >= 0.5 * min(len(A), len(B)): fail('content', fm['_rel'], f'same subject and format as "{oid}" ({ofm["_pub"]:%B %-d}): shared words {", ".join(sorted(shared))}. Update that piece instead of publishing a second one')
     M = check_photos(root, S, scope) if 'photos' not in a.skip else {}
     built = os.path.exists(f'{dist}/index.html')
     if not built and not set(a.skip) >= {'home', 'site', 'style'}: print(f'audit: {dist}/index.html not found: run npm run build first'); sys.exit(2)
