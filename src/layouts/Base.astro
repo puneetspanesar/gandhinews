@@ -107,8 +107,9 @@ const breadcrumbLd = crumbs.length
     }
   : null;
 const ld = [...jsonld, breadcrumbLd].filter(Boolean);
-// Owner, November 20, 2026: listing pages after page 1, the photo credits list and the empty elections front stay readable but out of Google's index.
-const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
+// Owner, November 20, 2026: listing pages after page 1 and the photo credits list stay readable but out of Google's index.
+// Owner, November 27, 2026: the Elections 2027 front now lists its pieces, so it is open to search again.
+const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$/.test(path);
 ---
 <!doctype html>
 <html lang={lang === 'hi' ? 'hi' : 'en'} dir="ltr">

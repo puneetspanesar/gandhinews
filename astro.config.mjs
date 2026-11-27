@@ -70,7 +70,7 @@ export default defineConfig({
         }
         return item;
       },
-      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed|photo-credits|elections)\/$/.test(page) && !(HOLD && /\/subscribe\/$/.test(page)) && !/\/page\/\d+\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)) && !NOINDEX.has(page.split('/').filter(Boolean).pop() ?? ''),
+      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed|photo-credits)\/$/.test(page) && !(HOLD && /\/subscribe\/$/.test(page)) && !/\/page\/\d+\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)) && !NOINDEX.has(page.split('/').filter(Boolean).pop() ?? ''),
     }),
   ],
 });
