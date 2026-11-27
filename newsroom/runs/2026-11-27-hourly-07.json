@@ -1,0 +1,19 @@
+{
+ "run": "hourly-07",
+ "start": "2026-11-27T06:43:57+05:30",
+ "end": "2026-11-27T07:09:08+05:30",
+ "summary": "Morning edition: Bengal highways news, front-of-pack labels explainer",
+ "new": [],
+ "held": [],
+ "editor": "PASS",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat",
+   "why": "Main picture is a generic file shot of the Supreme Court building. The headline is about red warning hexagons on chips and biscuits; the building shows nothing of the story and is the same stand-in used on several Law cards on the homepage.",
+   "done": "Replaced the Supreme Court building photo with the piece's own infographic (rule 11: no photo of the new labels exists; the finder found only US nutrition labels). Hero alt updated in both languages."
+  }
+ ],
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}

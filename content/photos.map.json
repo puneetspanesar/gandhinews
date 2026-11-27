@@ -3183,5 +3183,71 @@
    "subj": "ffe7e7e7e1e1c0c0",
    "credit": "Photos: Narendra Modi / Wikimedia Commons; Election Commission of India / Wikimedia Commons; Ramesh Lalwani / Wikimedia Commons; Bill Strong from Melbourne, Australia / Wikimedia Commons"
   }
+ },
+ "gadkari-bengal-75000-crore-highways-kolkata-ring-road": {
+  "id": "o-gadkari-bengal-75000-crore-highways-kolkata-ring-road",
+  "src": "/photos/o-gadkari-bengal-75000-crore-highways-kolkata-ring-road-1280.jpg",
+  "src800": "/photos/o-gadkari-bengal-75000-crore-highways-kolkata-ring-road-640.jpg",
+  "width": 1280,
+  "height": 851,
+  "srcWidth": 624,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Nitin Gadkari and Suvendu Adhikari at the highway projects event in Kolaghat, West Bengal",
+  "alt_hi": "पश्चिम बंगाल के कोलाघाट में राजमार्ग परियोजनाओं के कार्यक्रम में नितिन गडकरी और शुभेंदु अधिकारी",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342234",
+  "treated": {
+   "src": "/photos/t-gadkari-bengal-75000-crore-highways-kolkata-ring-road-1280.jpg",
+   "src800": "/photos/t-gadkari-bengal-75000-crore-highways-kolkata-ring-road-640.jpg",
+   "cutout": false,
+   "with": [
+    "gst-explained-slabs-council-revenue-sharing"
+   ],
+   "kind": "photo",
+   "subj": "83c7eff3f",
+   "credit": "Photos: PIB; P.K.Niyogi / Wikimedia Commons"
+  }
+ },
+ "front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat": {
+  "id": "i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat",
+  "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-3x2-1280.jpg",
+  "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: One warning hexagon for each nutrient",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: हर पोषक तत्व के लिए एक चेतावनी षट्भुज",
+  "page": null,
+  "ihash": "76f96f1164ef",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-3x2-1280.jpg",
+    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-t-1280.jpg",
+    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-t-1280.jpg",
+    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-1280.jpg",
+    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-1280.jpg",
+    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-640.jpg"
+   }
+  }
  }
 }
