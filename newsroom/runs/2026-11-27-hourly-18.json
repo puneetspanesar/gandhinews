@@ -1,0 +1,19 @@
+{
+ "run": "hourly-18",
+ "start": "2026-11-27T17:44:10+05:30",
+ "end": "2026-11-27T18:04:50+05:30",
+ "summary": "Evening edition: TRAI 1601 Phase II news, Assam toll fact check (picture hold fixed with a drawn scene)",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Stale top (rule 12): BS-VI opinion (Nov 24) beside the lead and a four-card row of November 23-24 pieces; BS-VI in two top slots.",
+   "done": "Re-pinned content/edition.json: India Post and Gadkari (both photos, November 27) beside the lead; the links under it are the lead's related urea story (Nov 25), Constitution Day (Nov 26) and TRAI (Nov 27); the BS-VI opinion and the SEBI fact check are no longer pinned, so the four-card row fills from the newest unused pictured pieces (Assam toll fact check, food-labels explainer, commerce ministry fact check, urea explainer, November 26-27)."
+  }
+ ],
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}

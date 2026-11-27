@@ -7,7 +7,7 @@ format_label: "Fact check / Assam"
 topics: [states]
 title: "Are only three toll plazas in Assam legal? The RTI reply behind the claim covered one NHAI unit out of four"
 standfirst: "A youth group read an NHAI reply naming three toll plazas as proof that the rest in Assam collect toll illegally. NHAI says the reply was only about its Guwahati unit, and names 13 plazas in the state."
-published: 2026-11-27T12:59:00+05:30
+published: 2026-11-27T17:59:00+05:30
 factcheck:
   claim: "NHAI's RTI reply shows that only three toll plazas in Assam are authorised, so the other toll plazas in the state are collecting toll illegally."
   claimant: "Asomiya Yuva Mancha, an Assam youth organisation, at a press meet; repeated in posts and regional reports"
@@ -16,10 +16,10 @@ factcheck:
   verdict: "Misleading"
   finding: "NHAI's reply of November 11 did name only three toll plazas, Madanpur, Nazirakhat and Raha. But it answered for NHAI's Guwahati Project Implementation Unit alone, one of four such units in Assam, and NHAI's regional office has since listed ten more plazas in the state. The reply says nothing about whether those plazas are legal."
 hero:
-  need: "A toll plaza on a national highway (file photo)"
+  need: "Graphic of the 13 Assam toll plazas; no free photo of any Assam NHAI toll plaza exists"
   suggested_source: "Toll plaza National Highway India"
   subjects: ["Toll plaza National Highway India"]
-  alt: "A toll plaza on a national highway in India (file photo)"
+  alt: "Gandhi News graphic: the 13 NHAI toll plazas in Assam, three of them named in the RTI reply"
   overlay:
     value: "Assam toll plazas: misleading"
 infographic:
@@ -64,7 +64,7 @@ sources:
 verification:
   status: draft
   notes:
-    - "NHAI's clarification (PRID 2342151) was read in full on November 27, 2026. The RTI reply itself was not seen; its contents (date November 11, the three plazas, the Guwahati PIU scope) are as described in three regional reports of November 19, which agree."
+    - "NHAI's clarification (PRID 2342151) was read in full on November 27, 2026, and opened and read again at 6 pm that day before publication. The RTI reply itself was not seen; its contents (date November 11, the three plazas, the Guwahati PIU scope) are as described in three regional reports of November 19, which agree."
     - "The organisation's name is spelt Asomiya Yuva Mancha in two reports and Asom Jatiya Yuva Mancha in one. The RTI applicant is a private individual and is not named."
     - "NHAI's clarification names 13 plazas including the three Guwahati ones (it spells Nazirakhat as 'Nzirakhat'). The group's own list of 'other' plazas includes Madanpur, which is one of the three in the RTI reply."
     - "Not checked: the fee notification for each plaza under the National Highways Fee Rules. NHAI's toll information site could not be opened from here, so we do not rate whether any particular plaza is lawfully notified; we rate only whether the RTI reply supports the claim. The group's figure of 'thousands of crores' collected is not rated."

@@ -3268,17 +3268,47 @@
   }
  },
  "assam-toll-plazas-only-three-legal-nhai-rti-claim": {
-  "id": "o-assam-toll-plazas-only-three-legal-nhai-rti-claim",
-  "src": "/photos/o-assam-toll-plazas-only-three-legal-nhai-rti-claim-1280.jpg",
-  "src800": "/photos/o-assam-toll-plazas-only-three-legal-nhai-rti-claim-640.jpg",
+  "id": "s-assam-toll-plazas-only-three-legal-nhai-rti-claim",
+  "src": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-en-3x2-1280.jpg",
+  "src800": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-en-3x2-640.jpg",
   "width": 1280,
-  "height": 720,
-  "srcWidth": 4080,
-  "credit": "Photo: Arindambasu2 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A toll plaza on a national highway in India (file photo)",
-  "alt_hi": "भारत में एक राष्ट्रीय राजमार्ग पर टोल प्लाज़ा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:National_Highway_6_Toll_Plaza.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "style": "scene",
+  "alt": "Gandhi News graphic: One unit's list read as the whole state's",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एक इकाई की सूची को पूरे राज्य की सूची समझा गया",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-en-t-1280.jpg",
+    "src800": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-hi-t-1280.jpg",
+    "src800": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-en-1280.jpg",
+    "src800": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-hi-1280.jpg",
+    "src800": "/photos/s-assam-toll-plazas-only-three-legal-nhai-rti-claim-hi-640.jpg"
+   }
+  },
+  "nophoto": "no free photo of any Assam NHAI toll plaza; library, quick_photo 'toll plaza Assam', finder e18 (Raha toll plaza Assam, toll plaza Assam national highway, Jorabat toll plaza Guwahati)"
  },
  "india-post-2632-crore-postal-operations-estates-management-schemes": {
   "id": "o-india-post-2632-crore-postal-operations-estates-management-schemes",
@@ -3301,5 +3331,48 @@
    "subj": "c0c0c0c8e0e0f0fc",
    "credit": "Photo: Prime Minister's Office / Wikimedia Commons"
   }
+ },
+ "trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls": {
+  "id": "s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls",
+  "src": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-en-3x2-1280.jpg",
+  "src800": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "style": "scene",
+  "alt": "Gandhi News graphic: One number series for genuine service calls",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: असली सर्विस कॉल के लिए एक नंबर सीरीज़",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-hi-3x2-1280.jpg",
+    "src800": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-en-t-1280.jpg",
+    "src800": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-hi-t-1280.jpg",
+    "src800": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-en-1280.jpg",
+    "src800": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-hi-1280.jpg",
+    "src800": "/photos/s-trai-1601-series-phase-ii-hospitals-ecommerce-airlines-service-calls-hi-640.jpg"
+   }
+  },
+  "ihash": "912732deddbf"
  }
 }
