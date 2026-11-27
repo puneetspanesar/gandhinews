@@ -322,7 +322,9 @@ def check_photos(root, S, scope):
             import sys as _s; _s.path.insert(0, os.path.join(root, 'newsroom/scripts')); from gnrules import ihash
             hi = (S.get('hi') or {}).get(sid) or {}
             h = ihash({'en': fm['infographic'], 'hi': hi.get('infographic') or fm['infographic']})
-            if e.get('ihash') and e['ihash'] != h: fail(G, f'photos.map.json[{sid}]', 'the infographic block changed after the graphic was drawn: run make_infographic.py ' + sid)
+            if e.get('ihash') and e['ihash'] != h: fail(G, f'photos.map.json[{sid}]', 'the infographic block changed after the graphic was drawn: update newsroom/infographics/scenes/' + sid + '.py to match and run python3 newsroom/infographics/build.py ' + sid)
+        if e.get('graphic') and e.get('style') != 'scene' and str(fm.get('published') or '')[:10] >= '2026-11-27':
+            fail(G, f'photos.map.json[{sid}]', 'old-style infographic card: the card is retired (owner, November 27, 2026). Draw a scene: newsroom/infographics/README.md')
         if not re.search(r'[\u0900-\u097F]', str(e.get('alt_hi') or '')): fail(G, f'photos.map.json[{sid}]', 'Hindi alt text missing or not in Hindi')
         for k in ('alt', 'alt_hi'):
             a = str(e.get(k) or '')

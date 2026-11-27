@@ -8,7 +8,7 @@ import Pic from '../components/Pic.astro';
 import { content, prefix, urlOf, whole, fmtDate } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, verdictKey, type Lang } from '../lib/i18n';
 import { websiteLd } from '../lib/seo';
-import { hasTile, tileOf, photoKey } from '../lib/tile';
+import { hasTile, tileOf, photoKey, oldCard } from '../lib/tile';
 import { ELECTIONS } from '../lib/elections';
 import EDITION from '../../content/edition.json';
 
@@ -41,7 +41,7 @@ const take = (pool: any[], n: number) => { const out: any[] = []; for (const e o
 const shown = new Set<string>();
 const takePic = (pool: any[], n: number, top = false) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; const k = photoKey(e.data.id); if (!k || shown.has(k) || used.has(e.data.id)) continue; const got = top ? takeTop([e], 1) : take([e], 1); if (got.length) { shown.add(k); out.push(got[0]); } } return out; };
 const pinned = [(EDITION as any).lead, ...((EDITION as any).top ?? [])].map((id: string) => byId.get(id)).filter(Boolean);
-const pic = (e: any) => hasTile(e.data.id);
+const pic = (e: any) => hasTile(e.data.id) && !oldCard(e.data.id);
 // The lead is always a photograph, never a graphic (owner, November 8).
 const isPhoto = (e: any) => { const x = tileOf(e.data.id, lang); return !!x && !x.graphic && pic(e); };
 const front = [...pinned, ...all];

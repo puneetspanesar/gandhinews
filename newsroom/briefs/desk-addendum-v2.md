@@ -15,7 +15,7 @@ Gandhi News is now a full news site: India, world, science and technology, sport
 - `keyPoints`: 3 bullets, one short sentence each, one key phrase in `**bold**`.
 
 ## Infographic block (EVERY story, explainer and editorial, both language files)
-Every piece carries an `infographic:` block in its frontmatter, in its own language. It becomes the cover when no correct, current photo is found (newsroom/scripts/make_infographic.py), so a piece with no person or place to show still has a picture. A piece about a named person never uses it as its picture (RUNBOOK.md rule 8): no correct photo means the run holds it. Full format is at the top of that script. In short:
+Every piece carries an `infographic:` block in its frontmatter, in its own language. When no correct, current photo is found, the run draws a scene of the subject from it (newsroom/infographics/README.md), so a piece with no person or place to show still has a picture. A piece about a named person never uses it as its picture (RUNBOOK.md rule 8): no correct photo means the run holds it. Full format is at the top of that script. In short:
 ```yaml
 infographic:
   kicker: "September quarter results"          # short label

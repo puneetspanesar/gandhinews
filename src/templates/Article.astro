@@ -98,7 +98,7 @@ const hi = lang === 'hi';
 const S = SECTION_NAMES[lang];
 const FMT: Record<string, string> = hi ? { news: 'खबर', explainer: 'समझिए', factcheck: 'फैक्ट चेक', editorial: 'राय' } : { news: 'News', explainer: 'Explained', factcheck: 'Fact check', editorial: 'Opinion' };
 const card = (x: any) => ({ id: x.data.id, d: x.data, href: urlOf(x.data) });
-const topPic = (d.type === 'news' || d.type === 'editorial' || d.type === 'explainer' || d.type === 'factcheck') && hasTile(d.id) && !pm?.nophoto;
+const topPic = (d.type === 'news' || d.type === 'editorial' || d.type === 'explainer' || d.type === 'factcheck') && hasTile(d.id) && (!pm?.nophoto || pm?.style === 'scene');   // a drawn scene always heads its own story
 const cr = topPic ? creditOf(d.id, lang) : null;
 const words = html.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
 const minutes = Math.max(1, Math.round(words / (hi ? 180 : 220)));

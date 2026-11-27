@@ -10,6 +10,9 @@ const M = PHOTOS as Record<string, any>;
 /** True when a piece has a picture that can sit in a tile. */
 export const hasTile = (id?: string) => !!id && !!M[id] && !M[id].nohome;
 
+/** An old-style graphic (the icon card retired on November 27, 2026). It keeps its place on its own story page and in lists, but takes no picture slot on the front page. */
+export const oldCard = (id?: string) => !!id && !!M[id]?.graphic && M[id].style !== 'scene';
+
 /** The picture for a tile or a story top. `big` asks for the detailed graphic where the piece is an infographic. */
 export function tileOf(id: string | undefined, lang: Lang, big = false): Tile | null {
   const b = id ? M[id] : null;

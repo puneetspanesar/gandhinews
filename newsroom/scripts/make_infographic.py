@@ -25,6 +25,8 @@ The `infographic:` block (both language files, each in its own language):
 Icons are Phosphor duotone names (newsroom/phosphor/<name>-duotone.svg). Never robot or sparkle icons.
 Every number must come from the story itself.
 """
+import sys as _stop
+if __name__ == '__main__': _stop.exit('make_infographic.py is retired (owner, November 27, 2026): the icon card is no longer made.\nDraw a scene instead: newsroom/infographics/README.md, then python3 newsroom/infographics/build.py <story-id>')
 import sys as _s2, os as _o2; _s2.path.insert(0, _o2.path.dirname(_o2.path.abspath(__file__))); from gnrules import ihash as _ihash
 import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import sys, os, re, json, html, glob, io

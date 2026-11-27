@@ -1029,58 +1029,48 @@
   "nophoto": "no photo of AIIMS Delhi or a hospital pharmacy; quick_photo none, finder l08m could not run (GitHub Actions job not started: account billing)"
  },
  "modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim": {
-  "id": "i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
-  "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-1280.jpg",
-  "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-640.jpg",
+  "id": "s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim",
+  "src": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-1280.jpg",
+  "src800": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
+  "style": "scene",
   "alt": "Gandhi News graphic: Round numbers, bigger than the record",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गोल संख्याएं, रिकॉर्ड से बड़ी",
   "page": null,
-  "ihash": "7155a3484418",
   "byLang": {
    "hi": {
-    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-1280.jpg",
-    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-640.jpg"
+    "src": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-1280.jpg",
+    "src800": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-3x2-640.jpg"
    }
   },
   "thumb": {
    "en": {
-    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-1280.jpg",
-    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-640.jpg"
+    "src": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-1280.jpg",
+    "src800": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-t-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-1280.jpg",
-    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-640.jpg"
+    "src": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-1280.jpg",
+    "src800": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-t-640.jpg"
    }
   },
   "cover": {
    "width": 1280,
    "height": 720,
    "en": {
-    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-1280.jpg",
-    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-640.jpg"
+    "src": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-1280.jpg",
+    "src800": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-en-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-1280.jpg",
-    "src800": "/photos/i-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-640.jpg"
+    "src": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-1280.jpg",
+    "src800": "/photos/s-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-hi-640.jpg"
    }
   },
-  "nophoto": "no free Modi photo unused in 7 days; library, quick_photo, PIB mb, finder h0912 (all candidates used within 7 days)",
-  "treated": {
-   "src": "/photos/t-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-1280.jpg",
-   "src800": "/photos/t-modi-bastar-naxal-areas-15000-km-roads-9500-towers-claim-640.jpg",
-   "cutout": true,
-   "with": [
-    "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview"
-   ],
-   "kind": "portrait",
-   "subj": "ffffe7e7fb818282",
-   "credit": "Photos: Government of India / Wikimedia Commons, GODL-India; Theasg sap / Wikimedia Commons"
-  }
+  "ihash": "7155a3484418",
+  "nophoto": "no free Modi photo unused in 7 days; library, quick_photo, PIB mb, finder h0912 (all candidates used within 7 days)"
  },
  "modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim": {
   "id": "i-modi-bastar-no-crpf-jawan-died-on-duty-47-years-claim",
@@ -1615,46 +1605,47 @@
   }
  },
  "manipur-election-2027-60-seats-after-presidents-rule": {
-  "id": "i-manipur-election-2027-60-seats-after-presidents-rule",
-  "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-3x2-1280.jpg",
-  "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-3x2-640.jpg",
+  "id": "s-manipur-election-2027-60-seats-after-presidents-rule",
+  "src": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-en-3x2-1280.jpg",
+  "src800": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
+  "style": "scene",
   "alt": "Gandhi News graphic: Manipur votes after three years of conflict",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तीन साल के संघर्ष के बाद मणिपुर में मतदान",
   "page": null,
-  "ihash": "dd58c10459f1",
   "byLang": {
    "hi": {
-    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-3x2-1280.jpg",
-    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-3x2-640.jpg"
+    "src": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-hi-3x2-1280.jpg",
+    "src800": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-hi-3x2-640.jpg"
    }
   },
   "thumb": {
    "en": {
-    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-t-1280.jpg",
-    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-t-640.jpg"
+    "src": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-en-t-1280.jpg",
+    "src800": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-en-t-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-t-1280.jpg",
-    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-t-640.jpg"
+    "src": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-hi-t-1280.jpg",
+    "src800": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-hi-t-640.jpg"
    }
   },
   "cover": {
    "width": 1280,
    "height": 720,
    "en": {
-    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-1280.jpg",
-    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-en-640.jpg"
+    "src": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-en-1280.jpg",
+    "src800": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-en-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-1280.jpg",
-    "src800": "/photos/i-manipur-election-2027-60-seats-after-presidents-rule-hi-640.jpg"
+    "src": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-hi-1280.jpg",
+    "src800": "/photos/s-manipur-election-2027-60-seats-after-presidents-rule-hi-640.jpg"
    }
   },
+  "ihash": "dd58c10459f1",
   "nophoto": "no free photo of Y. Khemchand Singh; library, finder ex"
  },
  "forest-rights-act-explained-megamalai-silk-cotton-supreme-court": {
@@ -1966,46 +1957,47 @@
   }
  },
  "nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea": {
-  "id": "i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
-  "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-1280.jpg",
-  "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-640.jpg",
+  "id": "s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea",
+  "src": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-1280.jpg",
+  "src800": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
+  "style": "scene",
   "alt": "Gandhi News graphic: Rabi fertiliser subsidy up 64%",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रबी की उर्वरक सब्सिडी 64% बढ़ी",
   "page": null,
-  "ihash": "324c2103876d",
   "byLang": {
    "hi": {
-    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-1280.jpg",
-    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-640.jpg"
+    "src": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-1280.jpg",
+    "src800": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-3x2-640.jpg"
    }
   },
   "thumb": {
    "en": {
-    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-1280.jpg",
-    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-640.jpg"
+    "src": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-1280.jpg",
+    "src800": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-t-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-1280.jpg",
-    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-640.jpg"
+    "src": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-1280.jpg",
+    "src800": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-t-640.jpg"
    }
   },
   "cover": {
    "width": 1280,
    "height": 720,
    "en": {
-    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-1280.jpg",
-    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-640.jpg"
+    "src": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-1280.jpg",
+    "src800": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-en-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-1280.jpg",
-    "src800": "/photos/i-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-640.jpg"
+    "src": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-1280.jpg",
+    "src800": "/photos/s-nbs-explained-fertiliser-subsidy-rabi-2026-27-dap-urea-hi-640.jpg"
    }
   },
+  "ihash": "324c2103876d",
   "nophoto": "no free photo of farmers with fertiliser bags (finder l12e k4: 0 candidates, quick_photo none); policy story with numbers"
  },
  "yogi-ganga-yamuna-saryu-ramganga-rapti-rise-uttarakhand-claim": {
@@ -3209,45 +3201,46 @@
   }
  },
  "front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat": {
-  "id": "i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat",
-  "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-3x2-1280.jpg",
-  "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-3x2-640.jpg",
+  "id": "s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat",
+  "src": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-3x2-1280.jpg",
+  "src800": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
+  "style": "scene",
   "alt": "Gandhi News graphic: One warning hexagon for each nutrient",
   "alt_hi": "गांधी न्यूज़ ग्राफ़िक: हर पोषक तत्व के लिए एक चेतावनी षट्भुज",
   "page": null,
-  "ihash": "76f96f1164ef",
   "byLang": {
    "hi": {
-    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-3x2-1280.jpg",
-    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-3x2-640.jpg"
+    "src": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-3x2-1280.jpg",
+    "src800": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-3x2-640.jpg"
    }
   },
   "thumb": {
    "en": {
-    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-t-1280.jpg",
-    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-t-640.jpg"
+    "src": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-t-1280.jpg",
+    "src800": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-t-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-t-1280.jpg",
-    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-t-640.jpg"
+    "src": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-t-1280.jpg",
+    "src800": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-t-640.jpg"
    }
   },
   "cover": {
    "width": 1280,
    "height": 720,
    "en": {
-    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-1280.jpg",
-    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-640.jpg"
+    "src": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-1280.jpg",
+    "src800": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-en-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-1280.jpg",
-    "src800": "/photos/i-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-640.jpg"
+    "src": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-1280.jpg",
+    "src800": "/photos/s-front-of-pack-warning-labels-explained-supreme-court-sugar-salt-fat-hi-640.jpg"
    }
-  }
+  },
+  "ihash": "76f96f1164ef"
  }
 }
