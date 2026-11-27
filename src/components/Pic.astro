@@ -1,0 +1,13 @@
+---
+// A picture slot in the edition A design: the plain photograph in a fixed frame, the red square of the wordmark in its corner.
+import { tileOf } from '../lib/tile';
+import type { Lang } from '../lib/i18n';
+interface Props { id?: string; lang?: Lang; ratio?: string; big?: boolean; /** On a story page: an infographic piece shows its detailed graphic. */ detail?: boolean; eager?: boolean; square?: boolean; sizes?: string; class?: string; alt?: string | null }
+const { id, lang = 'en', ratio = '16/9', big = false, detail = false, eager = false, square = true, sizes = '(max-width: 700px) 100vw, 340px', class: cls = '', alt = null } = Astro.props;
+const t = tileOf(id, lang, detail);
+---
+{t && (
+  <span class={`a-ph ${big ? 'big' : ''} ${square && !t.graphic ? '' : 'plain'} ${cls}`} style={`aspect-ratio:${ratio}`}>
+    <img src={t.src} srcset={t.srcset} sizes={sizes} alt={alt ?? t.alt} width={t.width} height={t.height} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding={eager ? 'sync' : 'async'} />
+  </span>
+)}

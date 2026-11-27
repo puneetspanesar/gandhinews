@@ -1,0 +1,208 @@
+---
+// Front page, edition A (owner's pick, November 27, 2026): a dense news front.
+// A latest rail, the lead, two pictured pieces and an explained list; a row of four; the Elections 2027 band;
+// two rows of four section blocks around the fact-check band; trackers and the newsletter; the other language.
+// It fills itself from the newest pieces; content/edition.json can pin the lead and the pieces beside it.
+import Base from '../layouts/Base.astro';
+import Pic from '../components/Pic.astro';
+import { content, prefix, urlOf, whole, fmtDate } from '../lib/site';
+import { UI, SECTION_NAMES, HUBS, verdictKey, type Lang } from '../lib/i18n';
+import { websiteLd } from '../lib/seo';
+import { hasTile, tileOf, photoKey } from '../lib/tile';
+import { ELECTIONS } from '../lib/elections';
+import EDITION from '../../content/edition.json';
+
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const hi = lang === 'hi';
+const S = SECTION_NAMES[lang];
+const store = await content();
+const c = store[lang];
+const when = (e: any) => +new Date(e.data.updated ?? e.data.published);
+// News older than six days stays off the front page (it is still in its section); explainers, fact checks and opinion do not age out.
+const NOW = Date.now();
+const fresh = (e: any) => e.data.type !== 'news' || NOW - +new Date(e.data.published) < 6 * 864e5;
+// A piece that points to a dated event which has passed also stays off the front page.
+const TODAY = new Date(NOW + 5.5 * 36e5).toISOString().slice(0, 10);
+const passed = (e: any) => { const u = e.data.upcoming?.date; if (!u) return false; const d = u instanceof Date ? new Date(+u + 5.5 * 36e5).toISOString().slice(0, 10) : String(u).slice(0, 10); return d < TODAY; };
+const all = [...c.articles].filter(fresh).filter((e: any) => !passed(e)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published) || when(b) - when(a));
+const FMT: Record<string, string> = hi ? { news: 'खबर', explainer: 'समझिए', factcheck: 'फैक्ट चेक', editorial: 'राय' } : { news: 'News', explainer: 'Explained', factcheck: 'Fact check', editorial: 'Opinion' };
+// Kicker: the format, and the section beside it where the block is not a section block.
+const lab = (d: any, withSec = true) => (withSec && d.type !== 'news' ? `${FMT[d.type]} · ${S[d.section]}` : d.type === 'news' && withSec ? S[d.section] : FMT[d.type] ?? '');
+const card = (e: any) => ({ id: e.data.id, d: e.data, href: urlOf(e.data) });
+// "Explained: " before a related link, unless the headline already says so.
+const pre = (d: any) => (d.type === 'news' || new RegExp(d.type === 'explainer' ? 'explained|समझिए' : d.type === 'factcheck' ? 'fact check|फैक्ट चेक' : '^$', 'i').test(d.title) ? '' : `${FMT[d.type]}: `);
+const byId = new Map(all.map((e: any) => [e.data.id, e]));
+const used = new Set<string>();
+const take = (pool: any[], n: number) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; if (used.has(e.data.id)) continue; used.add(e.data.id); out.push(card(e)); } return out; };
+// One photograph appears once on the page: a pictured slot skips a piece whose picture is already showing.
+const shown = new Set<string>();
+const takePic = (pool: any[], n: number, top = false) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; const k = photoKey(e.data.id); if (!k || shown.has(k) || used.has(e.data.id)) continue; const got = top ? takeTop([e], 1) : take([e], 1); if (got.length) { shown.add(k); out.push(got[0]); } } return out; };
+const pinned = [(EDITION as any).lead, ...((EDITION as any).top ?? [])].map((id: string) => byId.get(id)).filter(Boolean);
+const pic = (e: any) => hasTile(e.data.id);
+// The lead is always a photograph, never a graphic (owner, November 8).
+const isPhoto = (e: any) => { const x = tileOf(e.data.id, lang); return !!x && !x.graphic && pic(e); };
+const front = [...pinned, ...all];
+// The top of the page (lead, the links under it and the two pictured pieces) carries at most two pieces per section,
+// and news there is under 36 hours old; explainers, fact checks and opinion fill the rest.
+const secCount: Record<string, number> = {};
+const takeTop = (pool: any[], n: number) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; if (used.has(e.data.id)) continue; if (e.data.type === 'news' && NOW - +new Date(e.data.published) > 36 * 36e5) continue; const s = e.data.section; if ((secCount[s] ?? 0) >= 2) continue; secCount[s] = (secCount[s] ?? 0) + 1; used.add(e.data.id); out.push(card(e)); } return out; };
+const [L] = takeTop([...pinned.slice(0, 1), ...front.filter(isPhoto), ...front], 1);
+shown.add(photoKey(L.id) ?? '');
+// Under the lead: the pieces it names as related first, then the newest.
+const relOfLead = (L.d.related ?? []).map((id: string) => byId.get(id)).filter(Boolean);
+const leadLinks = takeTop([...relOfLead, ...front], 3);
+const second = takePic(front.filter(pic), 2, true);
+const rests = (L.d.sources ?? []).find((s: any) => s.primary);
+const latest = take(all, 7);
+const explained = take(all.filter((e: any) => e.data.type === 'explainer'), 3);
+const four = takePic(all.filter(pic), 4);
+// "Just in": the newest news piece that is not the lead, shown only while it is under 12 hours old.
+const newest = all.find((e: any) => e.data.type === 'news' && e.data.id !== L.id);
+const justIn = newest && NOW - +new Date(newest.data.published) < 12 * 36e5 ? card(newest) : null;
+const elPool = all.filter((e: any) => e.data.section === 'elections');
+const elPic = takePic(elPool.filter(isPhoto), 1);
+const elTracker = c.trackers.find((e: any) => e.data.section === 'elections');
+const elList = take(elPool, 4);
+// A section block: one pictured piece, then four more.
+// A short section tops its block up with pieces already shown higher on the page, so no column is left half empty.
+const block = (pool: any[]) => {
+  const head = takePic(pool.filter(pic), 1); const n = head.length ? 4 : 5; const rest = take(pool, n);
+  for (const e of pool) { if (rest.length >= n) break; if (e.data.id === L.id || head.some((x: any) => x.id === e.data.id) || rest.some((x: any) => x.id === e.data.id)) continue; rest.push(card(e)); }
+  return { head: head[0] ?? null, rest };
+};
+const blocks: Record<string, any> = {};
+for (const k of ['politics', 'states', 'economy', 'law', 'policy', 'elections', 'world']) blocks[k] = block(all.filter((e: any) => e.data.section === k));
+const opinion = block(all.filter((e: any) => e.data.type === 'editorial'));
+const checksPool = all.filter((e: any) => e.data.type === 'factcheck');
+const checks = checksPool.slice(0, 7).map(card);   // the fact-check band repeats pieces from the page above on purpose: it is the desk's own index
+const verdictOf = (d: any) => (d.factcheck ? t.verdicts[verdictKey(d.factcheck.verdict)] : FMT.factcheck);
+const trackers = c.trackers.slice(0, 3);
+// The other language: its four newest pieces.
+const ol: Lang = hi ? 'en' : 'hi';
+const other = [...store[ol].articles].filter(fresh).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 4);
+const OFMT: Record<string, string> = ol === 'hi' ? { news: 'खबर', explainer: 'समझिए', factcheck: 'फैक्ट चेक', editorial: 'राय' } : { news: 'News', explainer: 'Explained', factcheck: 'Fact check', editorial: 'Opinion' };
+const STATES = hi
+  ? [['उत्तर प्रदेश', '403 सीटें', 'uttar-pradesh'], ['पंजाब', '117 सीटें', 'punjab'], ['उत्तराखंड', '70 सीटें', ''], ['मणिपुर', '60 सीटें', ''], ['गोवा', '40 सीटें', '']]
+  : [['Uttar Pradesh', '403 seats', 'uttar-pradesh'], ['Punjab', '117 seats', 'punjab'], ['Uttarakhand', '70 seats', ''], ['Manipur', '60 seats', ''], ['Goa', '40 seats', '']];
+const G = hi
+  ? { latest: 'ताज़ा', more: 'सभी देखें', just: 'अभी-अभी', rests: 'आधार', elTitle: 'फरवरी और मार्च 2027 में पांच राज्यों में मतदान। नियम, मतदाता सूची और सीटें।', how: 'हम कैसे जांचते हैं', claim: 'कोई दावा भेजें', claimTx: 'कोई आंकड़ा गलत लगा? डेस्क को बताएं, हम उसे रिकॉर्ड से मिलाएंगे।', tracker: 'ट्रैकर', nl: 'न्यूज़लेटर', other: 'In English', otherAll: 'English edition' }
+  : { latest: 'Latest', more: 'See all', just: 'Just in', rests: 'Rests on', elTitle: 'Five states vote in February and March 2027. The rules, the rolls and the seats.', how: 'How we check', claim: 'Send us a claim', claimTx: 'Heard a number that sounds wrong? Tell the desk and we will check it against the record.', tracker: 'Tracker', nl: 'Newsletter', other: 'हिंदी में', otherAll: 'हिंदी संस्करण' };
+const desc = hi
+  ? 'गांधी न्यूज़: भारत की राजनीति, कानून, नीति और अर्थव्यवस्था पर खबरें, एक्सप्लेनर और फैक्ट चेक, मूल स्रोतों के साथ। हिंदी और अंग्रेज़ी में।'
+  : 'Gandhi News: reporting, explainers and fact checks on Indian politics, law, policy and the economy, each resting on its original source. In English and Hindi.';
+const row1 = ['politics', 'states', 'economy', 'law'];
+const row2 = ['policy', 'elections', 'world'];
+---
+<Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
+<div class="ahome">
+  <div class="w">
+    {justIn && <a class="a-dev" href={justIn.href} data-ts={+new Date(justIn.d.published)}><b>{G.just}</b><span>{justIn.d.title}</span></a>}
+
+    <div class="a-top">
+      <section class="a-col a-lat" aria-labelledby="lat-h">
+        <h2 class="a-sh" id="lat-h"><a href={`${p}/latest/`}>{G.latest}</a><a class="more" href={`${p}/latest/`}>{G.more}</a></h2>
+        <div class="a-fill">{latest.map((x: any) => <a class="a-l" href={x.href}><span class="a-k">{lab(x.d)}</span><h3>{x.d.title}</h3></a>)}</div>
+      </section>
+
+      <section class="a-col a-lead" aria-labelledby="lead-h">
+        <a href={L.href}>
+          <Pic id={L.id} lang={lang} big eager sizes="(max-width: 860px) 100vw, 660px" />
+          <span class="a-k">{lab(L.d)}</span>
+          <h1 id="lead-h">{L.d.title}</h1>
+        </a>
+        <p class="sf">{L.d.standfirst}</p>
+        {rests && <p class="on"><b>{G.rests}:</b> {rests.title}</p>}
+        {leadLinks.length > 0 && <div class="a-rel">{leadLinks.map((x: any) => <a href={x.href}><span>{pre(x.d)}{x.d.title}</span></a>)}</div>}
+      </section>
+
+      <div class="a-col a-side">
+        {second.map((x: any) => <a class="a-st" href={x.href}><Pic id={x.id} lang={lang} /><span class="a-k">{lab(x.d)}</span><h2 style="font-size:18px;line-height:1.22;margin-top:4px">{x.d.title}</h2></a>)}
+        {explained.length > 0 && <>
+          <h2 class="a-sh"><a href={`${p}/explained/`}>{(HUBS as any).explained[lang]}</a><a class="more" href={`${p}/explained/`}>{G.more}</a></h2>
+          <div class="a-fill">{explained.map((x: any, i: number) => <a class="a-mr" href={x.href}><b>{i + 1}</b><span>{x.d.title}</span></a>)}</div>
+        </>}
+      </div>
+    </div>
+
+    {four.length === 4 && <section class="a-four" aria-label={hi ? 'और खबरें' : 'More stories'}>
+      {four.map((x: any, i: number) => <a href={x.href}><Pic id={x.id} lang={lang} /><div><span class="a-k">{lab(x.d)}</span><h3>{x.d.title}</h3>{i === 0 && <p>{whole(x.d.standfirst, 110)}</p>}</div></a>)}
+    </section>}
+  </div>
+
+  {elList.length >= 2 && <section class="a-band" aria-labelledby="el-h">
+    <div class="w a-el">
+      <div>
+        <a href={`${p}/elections/`}><span class="a-k">{S.elections}</span>
+        <h2 id="el-h">{G.elTitle}</h2></a>
+        <div class="a-sts">{STATES.map(([name, seats, key]) => key && (ELECTIONS as any)[key]
+          ? <a href={`${p}/elections/${(ELECTIONS as any)[key].slug}/`}><b>{name}</b>{seats}</a>
+          : <div><b>{name}</b>{seats}</div>)}</div>
+        {elTracker && <a class="a-eltr" href={urlOf(elTracker.data)}><span class="a-k">{G.tracker}</span><h3>{elTracker.data.title}</h3><p>{t.updated} {fmtDate(elTracker.data.updated ?? elTracker.data.published, lang)}</p></a>}
+      </div>
+      <div class="a-fill">{elList.map((x: any) => <a class="a-l" href={x.href}><h3>{x.d.title}</h3></a>)}</div>
+      {elPic[0] && <a class="pic" href={elPic[0].href} aria-label={elPic[0].d.title}><Pic id={elPic[0].id} lang={lang} ratio="4/3" /><h3 style="font-size:16px;line-height:1.3;margin-top:10px">{elPic[0].d.title}</h3></a>}
+    </div>
+  </section>}
+
+  <div class="w">
+    <div class="a-g4">
+      {row1.map((k) => <section class="c" aria-label={S[k]}>
+        <h2 class="a-sh"><a href={`${p}/${k}/`}>{S[k]}</a><a class="more" href={`${p}/${k}/`}>{G.more}</a></h2>
+        {blocks[k].head && <a class="a-hl2" href={blocks[k].head.href}><Pic id={blocks[k].head.id} lang={lang} ratio="3/2" square={false} sizes="104px" /><div><span class="a-k">{lab(blocks[k].head.d, false)}</span><h3>{blocks[k].head.d.title}</h3></div></a>}
+        <div class="a-fill">{blocks[k].rest.map((x: any) => <a class="a-l" href={x.href}><span class="a-k">{lab(x.d, false)}</span><h3>{x.d.title}</h3></a>)}</div>
+      </section>)}
+    </div>
+  </div>
+
+  {checks.length >= 3 && <section class="a-fc" aria-labelledby="fc-h">
+    <div class="w">
+      <h2 class="a-sh" id="fc-h"><a href={`${p}/fact-check/`}>{(HUBS as any)['fact-check'][lang]}</a><a class="more" href={`${p}/fact-check/methodology/`}>{G.how}</a></h2>
+      <div class="a-fcg">
+        {checks.slice(0, 3).map((x: any) => <a href={x.href}><b class="a-k">{verdictOf(x.d)}</b><span>{x.d.title}</span></a>)}
+        <a href={`${p}/contact/`}><b class="a-k">{G.claim}</b><span class="txt">{G.claimTx}</span></a>
+      </div>
+      {checks.length === 7 && <div class="a-fcg">{checks.slice(3, 7).map((x: any) => <a href={x.href}><b class="a-k">{verdictOf(x.d)}</b><span>{x.d.title}</span></a>)}</div>}
+    </div>
+  </section>}
+
+  <div class="w">
+    <div class="a-g4">
+      {row2.map((k) => <section class="c" aria-label={S[k]}>
+        <h2 class="a-sh"><a href={`${p}/${k}/`}>{S[k]}</a><a class="more" href={`${p}/${k}/`}>{G.more}</a></h2>
+        {blocks[k].head && <a class="a-hl2" href={blocks[k].head.href}><Pic id={blocks[k].head.id} lang={lang} ratio="3/2" square={false} sizes="104px" /><div><span class="a-k">{lab(blocks[k].head.d, false)}</span><h3>{blocks[k].head.d.title}</h3></div></a>}
+        <div class="a-fill">{blocks[k].rest.map((x: any) => <a class="a-l" href={x.href}><span class="a-k">{lab(x.d, false)}</span><h3>{x.d.title}</h3></a>)}</div>
+      </section>)}
+      <section class="c" aria-labelledby="op-h">
+        <h2 class="a-sh" id="op-h"><a href={`${p}/opinion/`}>{(HUBS as any).opinion[lang]}</a><a class="more" href={`${p}/opinion/`}>{G.more}</a></h2>
+        {opinion.head && <a class="a-hl2" href={opinion.head.href}><Pic id={opinion.head.id} lang={lang} ratio="3/2" square={false} sizes="104px" /><div><span class="a-k">{S[opinion.head.d.section]}</span><h3>{opinion.head.d.title}</h3></div></a>}
+        <div class="a-fill">{opinion.rest.map((x: any) => <a class="a-l" href={x.href}><span class="a-k">{S[x.d.section]}</span><h3>{x.d.title}</h3></a>)}</div>
+      </section>
+    </div>
+
+    <div class="a-g4 a-tr">
+      {trackers.map((e: any) => <a class="c" href={urlOf(e.data)}><span class="a-k">{G.tracker}</span><h3>{e.data.title}</h3><p>{whole(e.data.standfirst, 130)}</p><p>{t.updated} {fmtDate(e.data.updated ?? e.data.published, lang)}</p></a>)}
+      <div class="c" id="newsletter"><span class="a-k">{G.nl}</span><h3>{t.newsletterTitle}</h3><p>{t.newsletterText}</p>
+        <form class="a-nl" action="/api/subscribe" method="post" data-newsletter>
+          <label class="sr-only" for="nl-home">{t.email}</label>
+          <input id="nl-home" name="email" type="email" autocomplete="email" required placeholder={t.email} />
+          <input type="hidden" name="lang" value={lang} /><input type="hidden" name="source" value="home" />
+          <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+          <button type="submit">{t.signUp}</button>
+        </form>
+      </div>
+    </div>
+
+    {other.length === 4 && <section class="a-hin" aria-labelledby="ol-h" lang={ol}>
+      <h2 class="a-sh" id="ol-h"><a href={prefix(ol) + '/'}>{G.other}</a><a class="more" href={prefix(ol) + '/'}>{G.otherAll}</a></h2>
+      <div class="a-g4">{other.map((e: any) => <a class="c a-l" href={urlOf(e.data)}><span class="a-k">{OFMT[e.data.type]}</span><h4>{e.data.title}</h4></a>)}</div>
+    </section>}
+  </div>
+</div>
+</Base>
+<script is:inline>
+  /* "Just in" comes down once the piece is 12 hours old, even if the page has not been rebuilt since. */
+  (function () { var d = document.querySelector('.a-dev[data-ts]'); if (d && Date.now() - Number(d.getAttribute('data-ts')) > 12 * 36e5) d.remove(); })();
+</script>

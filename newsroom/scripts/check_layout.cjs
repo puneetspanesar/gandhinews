@@ -19,12 +19,12 @@ const srv = http.createServer((q, r) => { let f = path.join(root, decodeURICompo
       const out = [], name = (e) => (e.closest('section')?.querySelector('h2')?.textContent || e.closest('section')?.className || '').trim().slice(0, 30);
       document.querySelectorAll('img').forEach((i) => { if (i.offsetParent && !(i.complete && i.naturalWidth > 0)) out.push(`picture did not load (${name(i)}): ${i.getAttribute('src')}`); });
       const gap = w > 700 ? 170 : 120;
-      document.querySelectorAll('.home .g-c, .home .g-ll, .home .g-lf, .dhome .d-c1, .dhome .d-c2, .dhome .d-c3, .dhome .d-rr, .dhome .d-pl, .dhome .d-g3 > section').forEach((c) => {
+      document.querySelectorAll('.home .g-c, .home .g-ll, .home .g-lf, .dhome .d-c1, .dhome .d-c2, .dhome .d-c3, .dhome .d-rr, .dhome .d-pl, .dhome .d-g3 > section, .ahome .a-col, .ahome .a-g4 > .c, .ahome .a-el > *').forEach((c) => {
         const cr = c.getBoundingClientRect(); if (cr.height < 120 || !c.offsetParent) return;
         let bottom = cr.top; c.querySelectorAll('*').forEach((k) => { const kr = k.getBoundingClientRect(); if (kr.height > 0 && (k.children.length === 0 || k.tagName === 'A')) bottom = Math.max(bottom, kr.bottom); });
         const empty = cr.bottom - bottom; if (empty > gap) out.push(`empty space ${Math.round(empty)}px under "${(c.innerText || '').trim().slice(0, 50)}" (${name(c)})`);
       });
-      document.querySelectorAll('.home > section, .home .g-band, .dhome > section, .dhome .d-band').forEach((s) => { if (s.offsetHeight > 150 && s.innerText.trim().length < 80) out.push(`band with no content (${name(s)})`); });
+      document.querySelectorAll('.home > section, .home .g-band, .dhome > section, .dhome .d-band, .ahome section').forEach((s) => { if (s.offsetHeight > 150 && s.innerText.trim().length < 80) out.push(`band with no content (${name(s)})`); });
       // Empty grid cells: a hole with no element in it (a column the grid left blank) is invisible to the card test above,
       // so sample the page every 40 px and fail on any 200 x 200 px block where only a band, its container or a grid shows.
       const BG = (e) => !e || e.matches('section, .w, .g-live, .g-g, .g-split, .g-ct, .g-ll, .g-lf, .g-wk, .g-band, .home, .dhome, .d-top, .d-st, .d-ec, .d-op, .d-opf, .d-g3, .d-g4, .d-band, .d-pl, .d-rr, .d-c1, .d-c2, .d-c3, main, body, html');

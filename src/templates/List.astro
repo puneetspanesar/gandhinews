@@ -1,58 +1,174 @@
 ---
+// Section and format pages, edition A (owner's pick, November 27, 2026).
+// Page 1: a lead with two related links, two pictured pieces, the section's tracker and its explainers, a row of four,
+// then every other piece as a dated list beside a rail. Later pages carry the dated list and the rail only.
 import Base from '../layouts/Base.astro';
-import ListCard from '../components/ListCard.astro';
-import RailList from '../components/RailList.astro';
-import { content, prefix, PER_PAGE } from '../lib/site';
-import { UI, SECTION_NAMES, SECTION_DESCRIPTIONS, HUBS, type Lang } from '../lib/i18n';
+import Pic from '../components/Pic.astro';
+import { content, prefix, PER_PAGE, urlOf, fmtDate, whole } from '../lib/site';
+import { UI, SECTION_NAMES, SECTION_DESCRIPTIONS, HUBS, verdictKey, type Lang } from '../lib/i18n';
 import { collectionLd } from '../lib/seo';
+import { hasTile, photoKey } from '../lib/tile';
 
-interface Props { lang: Lang; key: string; kind: 'section' | 'hub'; route: string; page?: number; pages?: number }
-const { lang, key, kind, route, page = 1, pages = 1 } = Astro.props;
+interface Props { lang: Lang; key: string; kind: 'section' | 'hub'; route: string; page?: number; pages?: number; /** Pieces on the page; the Elections front shows them all. */ limit?: number }
+const { lang, key, kind, route, page = 1, pages = 1, limit = PER_PAGE } = Astro.props;
 const c = (await content())[lang];
 const t = UI[lang];
 const p = prefix(lang);
+const hi = lang === 'hi';
+const S = SECTION_NAMES[lang];
 const latest = key === 'latest';
-const title = kind === 'section' ? SECTION_NAMES[lang][key] : latest ? t.latestTitle : (HUBS as any)[key][lang];
+const title = kind === 'section' ? S[key] : latest ? t.latestTitle : (HUBS as any)[key][lang];
 const desc = latest ? t.latestDesc : SECTION_DESCRIPTIONS[lang][key];
-const allItems = kind === 'section'
+const allItems: any[] = kind === 'section'
   ? c.articles.filter((e: any) => e.data.section === key)
   : latest ? c.articles
   : c.articles.filter((e: any) => e.data.type === (HUBS as any)[key].type);
-// Sections also list explainers, fact checks and opinion from that section in the rail.
-const formats: any[] = [];
-const trackers = kind === 'section' ? c.trackers.filter((e: any) => e.data.section === key) : c.trackers;
-const topics = c.topics.filter((e: any) => kind === 'hub' || e.data.section === key);
-const items = allItems.slice((page - 1) * PER_PAGE, page * PER_PAGE);
-const [lead, ...rest] = items;
+const items = allItems.slice((page - 1) * limit, page * limit);
 const base = `${p}/${key}/`;
 const pageHref = (n: number) => (n <= 1 ? base : `${base}page/${n}/`);
-const pageWord = lang === 'hi' ? 'पेज' : 'page';
+const pageWord = hi ? 'पेज' : 'page';
 const crumbs = [{ name: t.home, href: `${p}/` }, { name: title, href: base }, ...(page > 1 ? [{ name: `${pageWord} ${page}`, href: route }] : [])];
 const pageTitle = page > 1 ? `${title}, ${pageWord} ${page}` : title;
-const pageDesc = page > 1 ? `${title}: ${lang === 'hi' ? `पुरानी खबरें, ${pageWord} ${page} / ${pages}` : `earlier stories, page ${page} of ${pages}`}. ${desc}` : `${title}: ${desc}`;
+const pageDesc = page > 1 ? `${title}: ${hi ? `पुरानी खबरें, ${pageWord} ${page} / ${pages}` : `earlier stories, page ${page} of ${pages}`}. ${desc}` : `${title}: ${desc}`;
+
+const FMT: Record<string, string> = hi ? { news: 'खबर', explainer: 'समझिए', factcheck: 'फैक्ट चेक', editorial: 'राय' } : { news: 'News', explainer: 'Explained', factcheck: 'Fact check', editorial: 'Opinion' };
+// Kicker: on a section page the format; on a format page the section.
+const lab = (d: any) => (kind === 'section' ? FMT[d.type] : latest ? (d.type === 'news' ? S[d.section] : `${FMT[d.type]} · ${S[d.section]}`) : S[d.section]);
+const fkey = (d: any) => (kind === 'section' ? d.type : d.section);
+const day = (d: Date) => fmtDate(d, lang).replace(/,?\s*\d{4}$/, '');
+const card = (e: any) => ({ id: e.data.id, d: e.data, href: urlOf(e.data) });
+// "Explained: " before a related link, unless the headline already says so.
+const pre = (d: any) => (d.type === 'news' || new RegExp(d.type === 'explainer' ? 'explained|समझिए' : d.type === 'factcheck' ? 'fact check|फैक्ट चेक' : '^$', 'i').test(d.title) ? '' : `${FMT[d.type]}: `);
+const pic = (e: any) => hasTile(e.data.id);
+
+// ----- page 1: the top of the page -----
+const first = page === 1 && items.length >= 4;
+const used = new Set<string>(); const shown = new Set<string>();
+const takePic = (pool: any[], n: number) => { const out: any[] = []; for (const e of pool) { if (out.length >= n) break; const k = photoKey(e.data.id); if (!k || shown.has(k) || used.has(e.data.id)) continue; used.add(e.data.id); shown.add(k); out.push(card(e)); } return out; };
+const leadE = first ? (items.slice(0, 5).find(pic) ?? items[0]) : null;
+const L = leadE ? card(leadE) : null;
+if (L) { used.add(L.id); shown.add(photoKey(L.id) ?? ''); }
+const rel = L ? (L.d.related ?? []).map((id: string) => c.all.get(id)).filter((x: any) => x && x.data.type !== 'topic' && x.data.type !== 'tracker').slice(0, 2).map(card) : [];
+const second = first ? takePic(items.filter(pic), 2) : [];
+const four = first && items.length >= 12 ? takePic(items.filter(pic), 4) : [];
+const river = items.filter((e: any) => !used.has(e.data.id)).map(card);
+const tops = first ? [L, ...second, ...four].filter(Boolean) : [];
+// Third column: the section's tracker and its explainers; on a format page, the sections with their counts.
+const tracker = kind === 'section' ? c.trackers.find((e: any) => e.data.section === key) : null;
+const sectionExplainers = kind === 'section' ? allItems.filter((e: any) => e.data.type === 'explainer' && e.data.id !== L?.id).slice(0, tracker ? 5 : 7).map(card) : [];
+const SECS = ['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world'];
+const countIn = (s: string) => (kind === 'hub' && !latest ? allItems : c.articles).filter((e: any) => e.data.section === s).length;
+const three = first && (sectionExplainers.length >= 3 || kind === 'hub');
+
+// ----- filter links (single-page lists only): by format on a section page, by section on a format page -----
+const fopts = kind === 'section' ? ['news', 'explainer', 'factcheck', 'editorial'].map((k) => [k, FMT[k]]) : SECS.map((k) => [k, S[k]]);
+const filters = pages === 1 && !latest ? fopts.map(([k, name]) => ({ k, name, n: items.filter((e: any) => fkey(e.data) === k).length })).filter((f) => f.n > 0) : [];
+
+// ----- rail: filled to about the height of the dated list -----
+const opinion = (() => { const own = kind === 'section' ? c.articles.filter((e: any) => e.data.type === 'editorial' && e.data.section === key) : []; const pool = own.length >= 2 ? own : c.articles.filter((e: any) => e.data.type === 'editorial'); return pool.slice(0, 3).map(card); })();
+const checks = c.articles.filter((e: any) => e.data.type === 'factcheck').slice(0, 3).map(card);
+const others = c.articles.filter((e: any) => kind === 'section' ? e.data.section !== key : true).filter((e: any) => !items.includes(e)).slice(0, 8).map(card);
+const need = river.length * 84 + (pages > 1 ? 70 : 0);
+let have = 0; const show: Record<string, number> = {};
+const add = (name: string, h: number, n = 1) => { if (have < need - 60 || name === 'os') { show[name] = n; have += h + 24; } };
+if (key !== 'opinion' && opinion.length) add('op', 60 + opinion.length * 68, opinion.length);
+add('os', 45 + SECS.length * 41);
+if (key !== 'fact-check') add('fc', 45 + checks.length * 80, checks.length);
+add('nl', 230);
+if (c.trackers.length) add('tr', 45 + c.trackers.length * 74, c.trackers.length);
+if (have < need - 60 && others.length) { const n = Math.min(others.length, Math.max(2, Math.round((need - have - 45) / 84))); add('lt', 45 + n * 84, n); }
+const G = hi
+  ? { all: 'सभी', more: `${title} से और`, older: 'पुरानी खबरें', newer: 'नई खबरें', tracker: 'ट्रैकर', exp: `${title}: समझिए`, bySec: 'सेक्शन', op: 'राय', os: 'अन्य सेक्शन', nl: 'न्यूज़लेटर', trackers: t.dataTrackers, lt: 'ताज़ा', empty: 'इस सेक्शन में अभी कोई खबर नहीं है।' }
+  : { all: 'All', more: latest ? 'Everything, newest first' : `More from ${title}`, older: 'Older', newer: 'Newer', tracker: 'Tracker', exp: `Explained in ${title}`, bySec: 'By section', op: 'Opinion', os: kind === 'section' ? 'Other sections' : 'Sections', nl: 'Newsletter', trackers: t.dataTrackers, lt: 'Latest', empty: 'No stories in this section yet.' };
+const verdictOf = (d: any) => (d.factcheck ? t.verdicts[verdictKey(d.factcheck.verdict)] : FMT.factcheck);
 ---
 <Base lang={lang} title={pageTitle} description={pageDesc} path={route} crumbs={crumbs} active={key}
   jsonld={[collectionLd(title, desc, route, lang, items)]}>
-  <div class="w">
-    <header class="page-h"><h1>{pageTitle}</h1>{page === 1 && <p>{desc}</p>}</header>
-    <div class="hub">
+  <div class="w alist">
+    <header class="a-head">
+      <div><h1>{pageTitle}</h1>{page === 1 && <p>{desc}</p>}</div>
+      {filters.length > 1 && <div class="a-flt" role="group" aria-label={hi ? 'छांटें' : 'Filter'} data-flt>
+        <button type="button" data-f="" aria-pressed="true">{G.all} {items.length}</button>
+        {filters.map((f) => <button type="button" data-f={f.k} aria-pressed="false">{f.name} {f.n}</button>)}
+      </div>}
+    </header>
+    <slot name="before" />
+
+    {L && <section class={`a-stop ${three ? '' : 'two'}`} data-top>
+      <article class="a-col a-lead">
+        <a href={L.href}>
+          <Pic id={L.id} lang={lang} big eager sizes="(max-width: 860px) 100vw, 660px" />
+          <span class="a-k">{lab(L.d)}</span>
+          <h2>{L.d.title}</h2>
+        </a>
+        <p class="sf">{whole(L.d.standfirst, 200)}</p>
+        {rel.length > 0 && <div class="a-rel">{rel.map((x: any) => <a href={x.href}><span>{pre(x.d)}{x.d.title}</span></a>)}</div>}
+      </article>
+      <div class="a-col">
+        <div class="a-fill">{second.map((x: any) => <a class="a-st" href={x.href}><Pic id={x.id} lang={lang} ratio="14/9" /><span class="a-k">{lab(x.d)}</span><h3>{x.d.title}</h3></a>)}</div>
+      </div>
+      {three && <div class="a-col">
+        {tracker && <a class="a-box" href={urlOf(tracker.data)}><span class="a-k">{G.tracker}</span><h3>{tracker.data.title}</h3><p>{t.updated} {fmtDate(tracker.data.updated ?? tracker.data.published, lang)}</p></a>}
+        {kind === 'section' ? <>
+          <h2 class="a-sh">{G.exp}</h2>
+          <div class="a-fill">{sectionExplainers.map((x: any, i: number) => <a class="a-mr" href={x.href}><b>{i + 1}</b><span>{x.d.title}</span></a>)}</div>
+        </> : <>
+          <h2 class="a-sh">{G.bySec}</h2>
+          <div class="a-os a-fill">{SECS.map((s) => <a href={`${p}/${s}/`}><span>{S[s]}</span><span>{countIn(s)}</span></a>)}</div>
+        </>}
+      </div>}
+    </section>}
+
+    {four.length === 4 && <section class="a-four" data-top>
+      {four.map((x: any) => <a href={x.href}><Pic id={x.id} lang={lang} /><div><span class="a-k">{lab(x.d)}</span><h3>{x.d.title}</h3></div></a>)}
+    </section>}
+
+    <section class="a-main" style={L ? undefined : 'border-top:0'}>
       <div>
-        {lead && <ListCard entry={lead} lang={lang} lead />}
-        {rest.map((e: any) => <ListCard entry={e} lang={lang} />)}
+        {L && <h2 class="a-sh">{G.more}</h2>}
+        <div data-river>
+          {tops.map((x: any) => <a class="a-rv" href={x.href} data-t={fkey(x.d)} data-dup hidden><time datetime={x.d.published.toISOString()}>{day(x.d.published)}</time><div><span class="a-k">{lab(x.d)}</span><h3>{x.d.title}</h3></div></a>)}
+          {river.map((x: any) => <a class="a-rv" href={x.href} data-t={fkey(x.d)}><time datetime={x.d.published.toISOString()}>{day(x.d.published)}</time><div><span class="a-k">{lab(x.d)}</span><h3>{x.d.title}</h3></div></a>)}
+        </div>
+        {items.length === 0 && <p class="a-empty">{G.empty}</p>}
         {pages > 1 && (
-          <nav class="pager" aria-label={lang === 'hi' ? 'और पेज' : 'More pages'}>
-            {page > 1 && <a href={pageHref(page - 1)} rel="prev">{lang === 'hi' ? 'नई खबरें' : 'Newer stories'}</a>}
-            <span>{lang === 'hi' ? `पेज ${page} / ${pages}` : `Page ${page} of ${pages}`}</span>
-            {page < pages && <a href={pageHref(page + 1)} rel="next">{lang === 'hi' ? 'पुरानी खबरें' : 'Older stories'}</a>}
+          <nav class="a-pg" aria-label={hi ? 'और पेज' : 'More pages'}>
+            {page > 1 && <a href={pageHref(page - 1)} rel="prev">{G.newer}</a>}
+            {Array.from({ length: pages }, (_, i) => i + 1).map((n) => n === page ? <span class="on" aria-current="page">{n}</span> : <a href={pageHref(n)}>{n}</a>)}
+            {page < pages && <a href={pageHref(page + 1)} rel="next">{G.older}</a>}
           </nav>
         )}
-        {!lead && <p class="m">{lang === 'hi' ? 'इस सेक्शन में अभी कोई खबर नहीं है।' : 'No stories in this section yet.'}</p>}
       </div>
-      <aside class="rail">
-        {formats.length > 0 && <RailList title={lang === 'hi' ? 'समझिए, फैक्ट चेक और राय' : 'Explained, fact checks and opinion'} items={formats.slice(0, 6)} />}
-        {topics.length > 0 && <RailList title={t.topics} items={topics.slice(0, 6)} />}
-        <div class="stick">{trackers.length > 0 && <RailList title={t.trackers} items={trackers} />}</div>
+
+      <aside class="a-rail">
+        {show.op && <div class="a-dark"><h2 class="a-sh">{G.op}</h2>{opinion.map((x: any) => <a href={x.href}>{x.d.title}</a>)}</div>}
+        {show.os && <div class="a-os"><h2 class="a-sh">{G.os}</h2>{SECS.filter((s) => s !== key).map((s) => <a href={`${p}/${s}/`}><span>{S[s]}</span><span>{c.articles.filter((e: any) => e.data.section === s).length}</span></a>)}</div>}
+        {show.fc && <div><h2 class="a-sh"><a href={`${p}/fact-check/`}>{(HUBS as any)['fact-check'][lang]}</a></h2>{checks.map((x: any) => <a class="a-l" href={x.href}><span class="a-k">{verdictOf(x.d)}</span><h3>{x.d.title}</h3></a>)}</div>}
+        {show.nl && <div class="a-nlbox"><span class="a-k">{G.nl}</span><h3>{t.newsletterTitle}</h3><p>{t.newsletterText}</p>
+          <form class="a-nl" action="/api/subscribe" method="post" data-newsletter>
+            <label class="sr-only" for="nl-list">{t.email}</label>
+            <input id="nl-list" name="email" type="email" autocomplete="email" required placeholder={t.email} />
+            <input type="hidden" name="lang" value={lang} /><input type="hidden" name="source" value="section" />
+            <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+            <button type="submit">{t.signUp}</button>
+          </form></div>}
+        {show.tr && <div><h2 class="a-sh"><a href={`${p}/trackers/`}>{G.trackers}</a></h2>{c.trackers.map((e: any) => <a class="a-l" href={urlOf(e.data)}><h3>{e.data.title}</h3></a>)}</div>}
+        {show.lt && <div><h2 class="a-sh"><a href={`${p}/latest/`}>{G.lt}</a></h2>{others.slice(0, show.lt).map((x: any) => <a class="a-l" href={x.href}><span class="a-k">{x.d.type === 'news' ? S[x.d.section] : `${FMT[x.d.type]} · ${S[x.d.section]}`}</span><h3>{x.d.title}</h3></a>)}</div>}
       </aside>
-    </div>
+    </section>
   </div>
 </Base>
+{filters.length > 1 && <script is:inline>
+  /* Filter links: show only one format (or section) in the dated list; the pictured top of the page steps aside while a filter is on. */
+  (function () {
+    var box = document.querySelector('[data-flt]'); if (!box) return;
+    var rows = document.querySelectorAll('[data-river] .a-rv'), tops = document.querySelectorAll('[data-top]');
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-f]'); if (!b) return;
+      var f = b.getAttribute('data-f');
+      box.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', String(x === b)); });
+      tops.forEach(function (x) { x.hidden = !!f; });
+      rows.forEach(function (r) { r.hidden = f ? r.getAttribute('data-t') !== f : r.hasAttribute('data-dup'); });
+    });
+  })();
+</script>}

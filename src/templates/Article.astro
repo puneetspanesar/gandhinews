@@ -11,8 +11,12 @@ import Sources from '../components/Sources.astro';
 import Tags from '../components/Tags.astro';
 import RailList from '../components/RailList.astro';
 import FollowCard from '../components/FollowCard.astro';
+import Pic from '../components/Pic.astro';
+import Share from '../components/Share.astro';
+import { hasTile, creditOf, photoKey } from '../lib/tile';
 import { content, urlOf, prefix, kicker, fmtDate, fmtDateTime, labelParts, heroOf, emph } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
+import { swapLangPath } from '../lib/site';
 import PHOTO_MAP from '../../content/photos.map.json';
 import CORRECTIONS from '../../content/corrections.json';
 import { tabTitle, newsArticleLd, faqLd, claimReviewLd, storyImage, shareImage } from '../lib/seo';
@@ -88,6 +92,38 @@ const heroOv = {
   kicker: d.hero?.overlay?.kicker ?? (d.type === 'editorial' ? (lang === 'hi' ? 'हमारा मत' : 'Our view') : String(d.format_label || '').replace(/\s*\/\s*/g, ' · ')),
   value: d.hero?.overlay?.value ?? cap(firstKey),
 };
+// ---- Edition A story page (owner's pick, November 27, 2026): headline and standfirst across the top, one line of
+// byline, time and sharing, the plain photograph, the piece, and a rail filled to about the length of the piece.
+const hi = lang === 'hi';
+const S = SECTION_NAMES[lang];
+const FMT: Record<string, string> = hi ? { news: 'खबर', explainer: 'समझिए', factcheck: 'फैक्ट चेक', editorial: 'राय' } : { news: 'News', explainer: 'Explained', factcheck: 'Fact check', editorial: 'Opinion' };
+const card = (x: any) => ({ id: x.data.id, d: x.data, href: urlOf(x.data) });
+const topPic = (d.type === 'news' || d.type === 'editorial' || d.type === 'explainer' || d.type === 'factcheck') && hasTile(d.id) && !pm?.nophoto;
+const cr = topPic ? creditOf(d.id, lang) : null;
+const words = html.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
+const minutes = Math.max(1, Math.round(words / (hi ? 180 : 220)));
+const twin = all[hi ? 'en' : 'hi'].all.get(id) ? swapLangPath(route, hi ? 'en' : 'hi') : null;
+// Rail: lists added in order until they reach about the height of the piece.
+const mine = new Set<string>([d.id]);
+const pick = (pool: any[], n: number) => { const out: any[] = []; for (const x of pool) { if (out.length >= n) break; if (mine.has(x.data.id)) continue; mine.add(x.data.id); out.push(card(x)); } return out; };
+const est = (topPic ? 560 : 80) + words * 2.9 + 270;
+let have = 0; const rail: any[] = [];
+const addList = (kind: string, title: string, href: string | null, items: any[], per = 76) => { if (!items.length) return; if (have > est - 120 && rail.length >= 2) { items.forEach((x: any) => mine.delete(x.id)); return; } rail.push({ kind, title, href, items }); have += 45 + items.length * per + 24; };
+addList('list', hi ? 'इस खबर से जुड़ा' : 'More on this story', null, pick(related, 4));
+addList('list', hi ? `${S[d.section]} में ताज़ा` : `Latest in ${S[d.section]}`, `${p}/${d.section}/`, pick(c.articles.filter((x: any) => x.data.section === d.section), 4));
+addList('num', (HUBS as any).explained[lang], `${p}/explained/`, pick((startHere.length >= 3 ? startHere : c.articles.filter((x: any) => x.data.type === 'explainer')), 5), 56);
+if (have <= est - 120) { rail.push({ kind: 'nl' }); have += 250; }
+addList('fc', (HUBS as any)['fact-check'][lang], `${p}/fact-check/`, pick(c.articles.filter((x: any) => x.data.type === 'factcheck'), 3), 84);
+addList('plain', (HUBS as any).opinion[lang], `${p}/opinion/`, pick(c.articles.filter((x: any) => x.data.type === 'editorial'), 3), 70);
+if (d.section !== 'elections') addList('list', S.elections, `${p}/elections/`, pick(c.articles.filter((x: any) => x.data.section === 'elections'), 3));
+addList('plain', t.dataTrackers, `${p}/trackers/`, c.trackers.map(card), 56);
+for (const s of ['politics', 'law', 'policy', 'economy', 'states', 'world']) if (s !== d.section) addList('list', S[s], `${p}/${s}/`, pick(c.articles.filter((x: any) => x.data.section === s), 3));
+// Foot of the page: four pictured pieces from the same section, one photograph once.
+const seenPh = new Set<string>([photoKey(d.id) ?? '']);
+const moreFour: any[] = [];
+for (const x of c.articles) { if (moreFour.length >= 4) break; if (x.data.section !== d.section || x.data.id === d.id || !hasTile(x.data.id)) continue; const k = photoKey(x.data.id) ?? ''; if (seenPh.has(k)) continue; seenPh.add(k); moreFour.push(card(x)); }
+const lab = (x: any) => (x.type === 'news' ? S[x.section] : FMT[x.type]);
+const verdictLab = (x: any) => (x.factcheck ? t.verdicts[verdictKey(x.factcheck.verdict)] : FMT.factcheck);
 ---
 <Base
   lang={lang}
@@ -103,42 +139,36 @@ const heroOv = {
   active={active}
   article={{ published: d.published, modified: d.updated ?? d.published, section: labelParts(d.format_label)[0], tags: d.topics }}
 >
-  {split && (
-    <div class="ac-top" data-pagefind-body>
-      <div class="ac-tx">
-        <FormatLabel data={d} />
-        <h1>{d.title}</h1>
-        <p class="stand">{d.standfirst}</p>
-        <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={k} location={d.type === 'news' ? d.location : null} />
-      </div>
-      <figure class="ac-ph">
-        <Photo story id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
-        {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span> {hero.page ? <a class="pcred" href={`/photo-credits/#${hero.photoId}`}>{hero.short}</a> : <span class="pcred">{hero.credit}</span>}</figcaption>}
-      </figure>
-    </div>
-  )}
-  {glance.length > 0 && (
-    <div class="ac-band"><div class={`w ac-strip n${glance.length}`}>{glance.map((x: any) => <p><Icon name={duo(x.icon, 'chart-bar-duotone')} class="ic" /><span><b>{x.value}</b> {x.label}</span></p>)}</div></div>
-  )}
   <div class="w">
-    <div class={`art ${d.type === 'factcheck' ? 'fc' : ''} ${split ? 'ac-split' : ''} ac`}>
-      <article data-pagefind-body>
-        <PfMeta data={d} lang={lang} />
-        {!split && <header class="ah">
-          <FormatLabel data={d} />
-          <h1>{d.title}</h1>
-          <p class="stand">{d.standfirst}</p>
-          <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={k} location={d.type === 'news' ? d.location : null} />
-        </header>}
+    <nav class="a-bc" aria-label={hi ? 'आप यहां हैं' : 'Breadcrumb'} data-pagefind-ignore>
+      <a href={`${p}/`}>{t.home}</a> / <a href={`${p}/${d.section}/`}>{S[d.section]}</a>{d.type !== 'news' && <> / <a href={`${p}/${hubKey}/`}>{HUBS[hubKey][lang]}</a></>}
+    </nav>
+    <header class="a-hl" data-pagefind-body>
+      <h1>{d.title}</h1>
+      <p class="sf">{d.standfirst}</p>
+    </header>
+    <div class="a-meta" data-pagefind-ignore>
+      <span><b>{t.fromDesk}</b>{d.type === 'news' && d.location ? <> · {d.location}</> : null}</span>
+      <span>{hi ? <>संपादन: <a href="/hi/editor/">पुनीत पनेसर</a></> : <>Edited by <a href="/editor/">Puneet Panesar</a></>}</span>
+      <span>{t.published} <time datetime={d.published.toISOString()}>{fmtDateTime(d.published, lang)}</time></span>
+      {d.updated && <span>{t.updated} <time datetime={d.updated.toISOString()}>{fmtDateTime(d.updated, lang)}</time></span>}
+      <span>{hi ? `${minutes} मिनट में पढ़ें` : `${minutes} minute read`}</span>
+      {twin && <a class="hi" href={twin} hreflang={hi ? 'en' : 'hi'} lang={hi ? 'en' : 'hi'}>{hi ? 'Read in English' : 'हिंदी में पढ़ें'}</a>}
+      <span class="sp"><Share lang={lang} title={d.title} path={route} kicker={k} /></span>
+    </div>
 
-        {!split && (d.type === 'news' || d.type === 'editorial') && (
-          <figure class="hero">
-            <div class="hero-ph">
-              <Photo story cover id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
-              {heroOv.value && !hasCover && <div class="hov" aria-hidden="true"><span class="ok">{heroOv.kicker}</span><span class="ov">{heroOv.value}</span></div>}
-            </div>
-            {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span>{hero.page ? <a class="pcred" href={`/photo-credits/#${hero.photoId}`}>{hero.short}</a> : <span class="pcred">{hero.credit}</span>}</figcaption>}
+    <div class="a-smain">
+      <article class={`a-story ${d.type === 'factcheck' ? 'fc' : ''}`} data-pagefind-body>
+        <PfMeta data={d} lang={lang} />
+        {topPic && (
+          <figure class="top">
+            <Pic id={d.id} lang={lang} big detail eager ratio={pm?.graphic ? `${pm.width}/${pm.height}` : '16/9'} sizes="(max-width: 860px) 100vw, 880px" />
+            {cr && <figcaption class="a-cap"><span>{cr.caption}</span>{cr.page ? <a href={`/photo-credits/#${cr.photoId}`}>{cr.credit}</a> : <span>{cr.credit}</span>}</figcaption>}
           </figure>
+        )}
+        <div class="a-in">
+        {glance.length > 0 && (
+          <div class={`ac-strip n${glance.length}`} style="margin-top:22px">{glance.map((x: any) => <p><Icon name={duo(x.icon, 'chart-bar-duotone')} class="ic" /><span><b>{x.value}</b> {x.label}</span></p>)}</div>
         )}
 
         {d.type === 'news' && d.keyPoints?.length > 0 && (
@@ -192,33 +222,45 @@ const heroOv = {
 
         <div data-pagefind-ignore><Sources lang={lang} sources={d.sources} />
         <Tags lang={lang} topics={d.topics} /></div>
+        </div>
       </article>
 
-      <aside class="rail" aria-label={t.related}>
+      <aside class="a-srail" aria-label={t.related} data-pagefind-ignore>
         {d.type === 'factcheck' && (
-          <section class="box">
-            <h2 class="rh" style="border:0;padding:0;margin-bottom:6px;font-size:14px">{t.howWeRate}</h2>
+          <section class="a-box" style="margin:0">
+            <h2 class="a-sh" style="border:0;padding:0;margin-bottom:6px">{t.howWeRate}</h2>
             <ul class="rate">{VERDICT_ORDER.map((v) => <li class={v === vkey ? 'cur' : undefined}><b>{t.verdicts[v]}</b>{t.rate[v]}</li>)}</ul>
             <a class="dl" href={`${p}/fact-check/methodology/`}>{t.ourMethod} <Icon name="caret-right" /></a>
           </section>
         )}
-        {d.type === 'editorial' && (
-          <section class="box"><h2 class="rh" style="border:0;padding:0;margin-bottom:6px;font-size:14px">{t.aboutEditorials}</h2><p>{t.aboutEditorialsText}</p><a class="dl" href={`${p}/standards/`}>{t.standards} <Icon name="caret-right" /></a></section>
-        )}
         {where && (
-          <section class="ac-where"><h2 class="rh">{lang === 'hi' ? 'कहाँ' : 'Where'}</h2>
+          <section class="ac-where"><h2 class="a-sh">{lang === 'hi' ? 'कहाँ' : 'Where'}</h2>
             <div><svg class="ac-shp" viewBox={where.shape.vb} aria-hidden="true" style={`stroke-width:${where.shape.sw}`}><use href={`/maps/india.svg#${where.shape.id}`} /></svg><p><b>{where.place}</b></p></div>
           </section>
         )}
-        {d.type !== 'editorial' && topicPages[0] && <FollowCard lang={lang} topic={topicPages[0]} />}
-        <RailList title={t.related} items={related.slice(0, 5)} thumbs={d.type === 'news' ? 1 : 0} />
-        <div class="stick">
-          {d.type === 'news' && <RailList title={t.startHere} items={startHere} />}
-          {d.type === 'explainer' && <RailList title={lang === 'hi' ? 'और समझिए' : 'More explainers'} items={(startHere.length ? startHere : sameType('explainer')).slice(0, 4)} />}
-          {d.type === 'factcheck' && <RailList title={t.moreFactChecks} items={sameType('factcheck').slice(0, 4)} />}
-          {d.type === 'editorial' && <RailList title={t.moreEditorials} items={sameType('editorial').slice(0, 5)} />}
-        </div>
+        {rail.map((b: any) => b.kind === 'nl' ? (
+          <div class="a-nlbox"><span class="a-k">{hi ? 'न्यूज़लेटर' : 'Newsletter'}</span><h3>{t.newsletterTitle}</h3><p>{t.newsletterText}</p>
+            <form class="a-nl" action="/api/subscribe" method="post" data-newsletter>
+              <label class="sr-only" for="nl-story">{t.email}</label>
+              <input id="nl-story" name="email" type="email" autocomplete="email" required placeholder={t.email} />
+              <input type="hidden" name="lang" value={lang} /><input type="hidden" name="source" value="story" />
+              <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+              <button type="submit">{t.signUp}</button>
+            </form></div>
+        ) : (
+          <div>
+            <h2 class="a-sh">{b.href ? <a href={b.href}>{b.title}</a> : b.title}</h2>
+            {b.kind === 'num'
+              ? b.items.map((x: any, i: number) => <a class="a-mr" href={x.href}><b>{i + 1}</b><span>{x.d.title}</span></a>)
+              : b.items.map((x: any) => <a class="a-l" href={x.href}>{b.kind === 'fc' ? <span class="a-k">{verdictLab(x.d)}</span> : b.kind === 'list' ? <span class="a-k">{b.href && b.href.endsWith(`/${x.d.section}/`) ? FMT[x.d.type] : lab(x.d)}</span> : null}<h3>{x.d.title}</h3></a>)}
+          </div>
+        ))}
       </aside>
     </div>
+
+    {moreFour.length === 4 && <section class="a-more" data-pagefind-ignore>
+      <h2 class="a-sh" style="border-bottom:0;padding-bottom:0"><a href={`${p}/${d.section}/`}>{hi ? `${S[d.section]} से और` : `More from ${S[d.section]}`}</a></h2>
+      <div class="a-four">{moreFour.map((x: any) => <a href={x.href}><Pic id={x.id} lang={lang} /><div><span class="a-k">{FMT[x.d.type]}</span><h3>{x.d.title}</h3></div></a>)}</div>
+    </section>}
   </div>
 </Base>

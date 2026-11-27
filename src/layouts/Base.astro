@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import '../styles/edition-a.css';
 import Icon from '../components/Icon.astro';
 import Seal from '../components/Seal.astro';
 import Wordmark from '../components/Wordmark.astro';
@@ -201,98 +202,54 @@ const THIN_PAGE = /\/page\/\d+\/$|\/photo-credits\/$|\/elections\/$/.test(path);
 </head>
 <body>
   <a class="skip" href="#main">{t.skip}</a>
-  <header class="mh" id="nb">
-    <div class="w mh-top">
-      <div class="mh-l">
+  {/* Edition A masthead (owner's pick, November 27, 2026): a black line of date, language and tools; the wordmark and the sections on one row. */}
+  <header id="nb">
+    <div class="a-util">
+      <div class="w">
         <span class="mh-date">{todayLine(lang)}</span>
-        <div class="mh-lang" role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'}>
-          {lang === 'en'
-            ? <><span class="on" aria-current="true">English</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <span class="hi off" lang="hi">हिंदी</span>}</>
-            : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>English</a> : <span class="off">English</span>}<span class="on hi" aria-current="true">हिंदी</span></>}
+        <div class="r">
+          <span role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'} class="r">
+            {lang === 'en'
+              ? <><span class="on" aria-current="true">English</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <a class="hi" href="/hi/" hreflang="hi" lang="hi">हिंदी</a>}</>
+              : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>English</a> : <a href="/" hreflang="en" lang="en">English</a>}<span class="on hi" aria-current="true">हिंदी</span></>}
+          </span>
+          {!RELAUNCH && <a class="x" href={`${p}/trackers/`}>{t.dataTrackers}</a>}
+          {!RELAUNCH && <a class="x" href={`${p}/subscribe/`}>{lang === 'hi' ? 'न्यूज़लेटर' : 'Newsletter'}</a>}
+          {!RELAUNCH && <a href={`${p}/search/`} data-so-open>{t.search}</a>}
         </div>
       </div>
-      <div class="mh-act">
-        {!RELAUNCH && <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>}
-        {/* Owner, November 20, 2026: the header button returns when the Morning Brief actually sends */}
-        {false && <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>}
-      </div>
     </div>
-    <div class="w mh-brand">
-      <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
-    </div>
-    {!RELAUNCH && <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
-      {[...nav, ...formats].map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
-      <details class={moreActive ? 'on' : undefined}>
-        <summary>{t.more} <Icon name="caret-down" /></summary>
-        <div class="dd">
-          {more.map((m) => <a href={m.href} class={active === m.key ? 'on' : undefined}>{m.label}</a>)}
-        </div>
-      </details>
-    </nav>}
-  </header>
-  {!RELAUNCH && <nav class="mnav" aria-label={lang === 'hi' ? 'सेक्शन' : 'Sections'}>
-    <ul class="w">
-      {[...nav, ...formats, ...more].map((n) => <li><a href={n.href} class={active === n.key ? 'on' : undefined}>{n.label}</a></li>)}
-    </ul>
-  </nav>}
-  {/* Relaunched edition (November 26, 2026): no running-stories and markets strip; it went stale between runs. */}
-  {false && <div class="tstrip">
     <div class="w">
-      <div class="tt">
-        {trending.map((x: any, i: number) => <a href={x.href} class={i === 0 ? 'hot' : undefined}>{x.label}</a>)}
-      </div>
-      <div class="tq">
-        <span>{lang === 'hi' ? 'सेंसेक्स' : 'Sensex'} <b class="num">{fmtNum(sensex.latest_value, 2)}</b> <span class={`num ${sensex.change_vs_previous.change_pct >= 0 ? 'up' : 'dn'}`}>{pct(sensex.change_vs_previous.change_pct)}</span></span>
-        <span>{lang === 'hi' ? 'निफ्टी 50' : 'Nifty 50'} <b class="num">{fmtNum(nifty.latest_value, 2)}</b> <span class={`num ${nifty.change_vs_previous.change_pct >= 0 ? 'up' : 'dn'}`}>{pct(nifty.change_vs_previous.change_pct)}</span></span>
-        <span>₹ / $ <b class="num">{fmtNum(usd.latest_value, 2)}</b></span>
+      <div class="a-mast">
+        <a class="a-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
+        {!RELAUNCH && <nav class="a-nav" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
+          {[...nav, ...formats].map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
+        </nav>}
       </div>
     </div>
-  </div>}
+  </header>
   {/* No visible breadcrumbs (owner, November 9); the BreadcrumbList structured data above stays for Google. */}
   <main id="main" tabindex="-1">
     <slot />
   </main>
-  <footer>
-    <div class="w">
-      {!RELAUNCH && <div class="nlr" id="newsletter">
-        <div><h2>{t.newsletterTitle}</h2><p>{t.newsletterText}</p></div>
-        <form action="/api/subscribe" method="post" data-newsletter>
-          <label class="sr-only" for="nl-email">{t.email}</label>
-          <input id="nl-email" name="email" type="email" autocomplete="email" required placeholder={t.email} />
-          <input type="hidden" name="lang" value={lang} />
-          <input type="hidden" name="source" value="footer" />
-          <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
-          <button type="submit">{t.signUp}</button>
-        </form>
-      </div>}
-      <div class="g">
-        <div><a class="fwm" href={`${p}/`} aria-label={t.siteName}><Wordmark /></a><p class="named">{t.named}</p></div>
-        {!RELAUNCH && <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'states', 'elections', 'law', 'policy', 'economy', 'world'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
-        <div><h2 class="fh">{t.features}</h2><ul>{[...formats, ...more].map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>}
-        <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
+  <div class="w">
+    <div class="a-ft" role="contentinfo">
+      <div class="a-ftg">
+        <div><a class="wm" href={`${p}/`} aria-label={t.siteName}><Wordmark /></a><p class="named">{t.named}</p></div>
+        {!RELAUNCH && <div><h2>{t.sections}</h2><ul>{nav.map((n) => <li><a href={n.href}>{n.label}</a></li>)}</ul></div>}
+        {!RELAUNCH && <div><h2>{t.features}</h2><ul>{[...formats, ...more, { key: 'latest', label: t.latestTitle, href: `${p}/latest/` }].map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>}
+        <div><h2>{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
         {/* Link YouTube once the channel exists. */}
-        {!RELAUNCH && <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li><li><a href="https://x.com/gandhinewscom" rel="noopener" target="_blank">X</a></li><li><a href="https://www.linkedin.com/company/gandhinewscom/" rel="noopener" target="_blank">LinkedIn</a></li><li><a href="https://www.instagram.com/gandhinewscom/" rel="noopener" target="_blank">Instagram</a></li><li><a href="https://www.facebook.com/gandhinewscom" rel="noopener" target="_blank">Facebook</a></li></ul></div>}
+        {!RELAUNCH && <div><h2>{t.follow}</h2><ul><li><a href={`${p}/subscribe/`}>{t.newsletterTitle}</a></li><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li><li><a href="https://x.com/gandhinewscom" rel="noopener" target="_blank">X</a></li><li><a href="https://www.linkedin.com/company/gandhinewscom/" rel="noopener" target="_blank">LinkedIn</a></li><li><a href="https://www.instagram.com/gandhinewscom/" rel="noopener" target="_blank">Instagram</a></li><li><a href="https://www.facebook.com/gandhinewscom" rel="noopener" target="_blank">Facebook</a></li></ul></div>}
       </div>
-      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a>{!RELAUNCH && <> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></>}</span></div>
+      <div class="a-ftb"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a>{!RELAUNCH && <> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></>}</span></div>
     </div>
-  </footer>
+  </div>
   {!RELAUNCH && <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>
     {tabs.map((x) => <a href={x.href} class={x.on ? 'on' : undefined} aria-current={x.on ? 'page' : undefined} data-so-open={x.icon === 'magnifying-glass' ? '' : undefined}><Icon name={x.icon} />{x.label}</a>)}
   </nav>}
   <div class="toast" role="status" aria-live="polite" id="toast"></div>
   <script>
-    const nb = document.getElementById('nb');
-    let compact = false;
-    const onScroll = () => {
-      const c = window.scrollY > 120;
-      if (c !== compact) { compact = c; nb?.classList.toggle('cp', c); }
-    };
-    window.addEventListener('scroll', onScroll, { passive: true });
-    onScroll();
-    // Close the "More" menu on outside click / Escape.
-    const dd = document.querySelector<HTMLDetailsElement>('.menu details');
-    document.addEventListener('click', (e) => { if (dd?.open && !dd.contains(e.target as Node)) dd.open = false; });
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dd?.open) { dd.open = false; dd.querySelector('summary')?.focus(); } });
     // Morning Brief signup: post to our own API and show the result in place.
     // Replace the form with a confirmation panel right where the reader signed up.
     const done = (f: HTMLFormElement, email: string, hi: boolean) => {
