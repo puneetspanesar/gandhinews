@@ -7,7 +7,7 @@ const { id, lang = 'en', ratio = '16/9', big = false, detail = false, eager = fa
 const t = tileOf(id, lang, detail);
 ---
 {t && (
-  <span class={`a-ph ${big ? 'big' : ''} ${square && !t.graphic ? '' : 'plain'} ${cls}`} style={`aspect-ratio:${ratio}`}>
+  <span class={`a-ph ${big ? 'big' : ''} ${square && !t.graphic ? '' : 'plain'} ${t.graphic ? 'gfx' : 'pho'} ${cls}`} style={`aspect-ratio:${ratio}`}>
     <img src={t.src} srcset={t.srcset} sizes={sizes} alt={alt ?? t.alt} width={t.width} height={t.height} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding={eager ? 'sync' : 'async'} />
   </span>
 )}
