@@ -3420,5 +3420,54 @@
    "subj": "7fff4f0701010103",
    "credit": "Photo: Krzysztof Ziarnek, Kenraiz / Wikimedia Commons"
   }
+ },
+ "india-to-host-itu-plenipotentiary-conference-2030-pp-30": {
+  "id": "o-india-to-host-itu-plenipotentiary-conference-2030-pp-30",
+  "src": "/photos/o-india-to-host-itu-plenipotentiary-conference-2030-pp-30-1280.jpg",
+  "src800": "/photos/o-india-to-host-itu-plenipotentiary-conference-2030-pp-30-640.jpg",
+  "width": 1280,
+  "height": 723,
+  "srcWidth": 602,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Jyotiraditya Scindia's video message to delegates on the screens at the ITU Plenipotentiary Conference in Doha, November 2026",
+  "alt_hi": "नवंबर 2026 में दोहा के आईटीयू प्लेनिपोटेंशियरी सम्मेलन में स्क्रीन पर प्रतिनिधियों के लिए ज्योतिरादित्य सिंधिया का वीडियो संदेश",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342955",
+  "treated": {
+   "src": "/photos/t-india-to-host-itu-plenipotentiary-conference-2030-pp-30-1280.jpg",
+   "src800": "/photos/t-india-to-host-itu-plenipotentiary-conference-2030-pp-30-640.jpg",
+   "cutout": false,
+   "with": [
+    "8th-pay-commission-explained-salary-pension-fitment-factor"
+   ],
+   "kind": "photo",
+   "subj": "7fffffe00000000",
+   "credit": "Photos: PIB; Pinakpani / Wikimedia Commons"
+  }
+ },
+ "bal-vivah-mukt-bharat-explained-child-marriage-target-nfhs-6": {
+  "id": "o-bal-vivah-mukt-bharat-explained-child-marriage-target-nfhs-6",
+  "src": "/photos/o-bal-vivah-mukt-bharat-explained-child-marriage-target-nfhs-6-1280.jpg",
+  "src800": "/photos/o-bal-vivah-mukt-bharat-explained-child-marriage-target-nfhs-6-640.jpg",
+  "width": 1280,
+  "height": 821,
+  "srcWidth": 653,
+  "credit": "Photo: PIB",
+  "licence": "PIB (free reproduction with credit)",
+  "alt": "Participants take the pledge against child marriage at the campaign's two-year event at Vigyan Bhawan, New Delhi, on November 27, 2026",
+  "alt_hi": "27 नवंबर 2026 को नई दिल्ली के विज्ञान भवन में अभियान के दो साल के कार्यक्रम में बाल विवाह के ख़िलाफ़ शपथ लेते प्रतिभागी",
+  "page": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342763",
+  "treated": {
+   "src": "/photos/t-bal-vivah-mukt-bharat-explained-child-marriage-target-nfhs-6-1280.jpg",
+   "src800": "/photos/t-bal-vivah-mukt-bharat-explained-child-marriage-target-nfhs-6-640.jpg",
+   "cutout": false,
+   "with": [
+    "how-rajya-sabha-elections-work",
+    "election-commission"
+   ],
+   "kind": "photo",
+   "subj": "3e1f1f1e1e000000",
+   "credit": "Photos: PIB; IM3847 / Wikimedia Commons; Shagil Kannur / Wikimedia Commons"
+  }
  }
 }

@@ -1,0 +1,19 @@
+{
+ "run": "hourly-13",
+ "start": "2026-11-28T12:43:55+05:30",
+ "end": "2026-11-28T13:03:39+05:30",
+ "summary": "Midday edition: ITU PP-30 hosting news, Bal Vivah Mukt Bharat explainer",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "india-to-host-itu-plenipotentiary-conference-2030-pp-30",
+   "why": "The main picture of Jyotiraditya Scindia is an old file photo. His nameplate in shot reads 'Hon'ble Minister of Civil Aviation', which contradicts the story calling him Communications Minister, and the microphones carry an outlet's logo (INDIA TODAY, plus the ANI mic). Readers see the wrong portfolio and a named outlet on a story about his telecom role.",
+   "done": "Replaced the old Civil Aviation file photo with PIB's photo from PP-26 in Doha showing Scindia's video message on the hall screens (the event itself, no outlet logos); alt text updated in both languages."
+  }
+ ],
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}
