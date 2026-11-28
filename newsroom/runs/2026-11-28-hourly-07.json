@@ -1,0 +1,19 @@
+{
+ "run": "hourly-07",
+ "start": "2026-11-28T06:44:07+05:30",
+ "end": "2026-11-28T07:19:57+05:30",
+ "summary": "Morning edition: IORA Delhi Communique news, Ayush plants benefit-sharing explainer",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "access-benefit-sharing-explained-ayush-medicinal-plants",
+   "why": "The headline (English and Hindi) says Ayush makers 'paid ₹13.76 crore' for the 234 plants. The PIB release (ID 2342754) says the ₹13.76 crore released to states is only PART of ('का हिस्सा') the ABS contributions the companies paid under the three applications. It never gives the total they paid. The headline turns the amount released into the amount paid, and the release does not back that.",
+   "done": "Retitled EN and HI as the editor suggested (₹13.76 crore 'shared with states', from the companies' payments); seo.title in both languages, shortAnswer and the first answer now say the amount is part of what the companies paid. Verification note added."
+  }
+ ],
+ "breaches": [],
+ "lead": "us-section-301-india-25-per-cent-tariff-excess-capacity"
+}
